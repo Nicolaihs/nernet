@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import click
 import csv
+import glob
 import logging
+import os
 import networkx as nx
 from collections import defaultdict
 from pathlib import Path
@@ -18,6 +20,11 @@ Doc.set_extension("vader_da", getter=da_vader_getter)
 
 import warnings
 warnings.filterwarnings("ignore")
+
+log_fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+logging.basicConfig(level=logging.INFO, format=log_fmt)
+logger = logging.getLogger(__name__)
+
 
 def normalize(dict_of_nodes: dict, key: str, round_to: int) -> dict:
     """Normalize value for key in dict_of_nodes."""
@@ -86,11 +93,9 @@ class NetworkDoc:
         if len(pers) == 0:# If paragraph has no PER, last ne is deleted
             self.ne_from_previous_doc = None
         if self.ne_from_previous_doc is not None:
-            print(f'{self.ne_from_previous_doc} is added to network')
             pers = [self.ne_from_previous_doc] + pers
         if pers:
             self.current_time += 1
-            print(pers)
             self.ne_from_previous_doc = pers[-1] # Save for next paragraph
         i = 0
         while i < len(pers) - 1:
@@ -171,25 +176,37 @@ def main(input_filepath, output_filepath):
     """ Runs data processing scripts to turn raw data from (../raw) into
         cleaned data ready to be analyzed (saved in ../processed).
     """
-    logger = logging.getLogger(__name__)
     logger.info('making final data set from raw data')
 
     logger.info('Loading model ...')
     nlp = dacy.load("da_dacy_medium_trf-0.1.0", "/Users/nhs/Udvikling/models/dacy")
 
+    if os.path.isdir(input_filepath):
+        documents = sorted(glob.glob(os.path.join(input_filepath, f'*.txt')))
+    else:
+        # Asssume a single document
+        documents = [input_filepath,]
+
+    for filepath in documents:
+        process_file(nlp, filepath, output_filepath)
+
+def process_file(nlp, input_filepath, output_filepath):
+    """Process one file."""
     logger.info('Reading input file ...')
     with open(input_filepath) as f:
         texts = f.readlines()
 
     network_doc = NetworkDoc(nlp)
-
+    logger.info(f'Processing {input_filepath} ...')
     logger.info('Processing input paragraphs ...')
     with ProgressBar(max_value=len(texts), redirect_stdout=True) as bar:
         for i, doc in enumerate(nlp.pipe(texts, batch_size=1)):
             network_doc.process_doc(doc)
             bar.update(i)
 
+    logger.info('Analyzing nodes ...')
     network_doc.analyze_nodes()
+    logger.info('Calculating centrality scores ...')
     network_doc.calculate_centrality_scores()
 
     logger.info('Saving edges to data/processed/')
@@ -232,9 +249,6 @@ def main(input_filepath, output_filepath):
 
 
 if __name__ == '__main__':
-#    progressbar.streams.wrap_stderr()
-    log_fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-    logging.basicConfig(level=logging.INFO, format=log_fmt)
 
     # not used in this stub but often useful for finding various files
     project_dir = Path(__file__).resolve().parents[2]
