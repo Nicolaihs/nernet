@@ -45,7 +45,8 @@ def normalize(dict_of_nodes: dict, key: str, round_to: int) -> dict:
 class NetworkDoc:
     round_to = 2
 
-    def __init__(self, nlp) -> None:
+    def __init__(self, nlp, include_sentiments) -> None:
+        self.include_sentiments = include_sentiments
         self.counter = 0
         self.current_time = 0
         self.nlp = nlp
@@ -63,10 +64,12 @@ class NetworkDoc:
         """Process a doc and retrieve network."""
         self.counter += 1
         self.current_doc = doc
-        self.calculate_sentiment_score()
+        if self.include_sentiments:
+            self.calculate_sentiment_score()
         self.expand_ners()
         self.create_simplified_network()
-        self.calculate_sentiments()
+        if self.include_sentiments:
+            self.calculate_sentiments()
 
     def handle_inflection(self, entity_text):
         """Detect and remove inflection"""
@@ -128,15 +131,16 @@ class NetworkDoc:
                 'connections': connections[node],
                 'interactions': interactions[node]
             }
-        self.nodes = normalize(self.nodes, 'polarity', self.round_to)
-        self.nodes = normalize(self.nodes, 'polarity_sentence', self.round_to)
+        if self.include_sentiments:
+            self.nodes = normalize(self.nodes, 'polarity', self.round_to)
+            self.nodes = normalize(self.nodes, 'polarity_sentence', self.round_to)
         self.nodes = normalize(self.nodes, 'connections', self.round_to)
         self.nodes = normalize(self.nodes, 'interactions', self.round_to)
 
     def calculate_centrality_scores(self):
         """Calculate centrality scores for nodes."""
         G = nx.from_edgelist(self.network)
-        centrality = nx.eigenvector_centrality(G)
+        centrality = nx.eigenvector_centrality(G, tol=1e-03)
         for node in centrality:
             self.nodes[node]['centrality'] = round(centrality[node], 2)
         degree = nx.degree(G)
@@ -172,7 +176,9 @@ class NetworkDoc:
 @click.command()
 @click.argument('input_filepath', type=click.Path(exists=True))
 @click.argument('output_filepath', type=click.Path())
-def main(input_filepath, output_filepath):
+@click.option('--pattern', type=click.STRING)
+@click.option('--include_sentiments', type=click.BOOL, default=False)
+def main(input_filepath, output_filepath, pattern, include_sentiments):
     """ Runs data processing scripts to turn raw data from (../raw) into
         cleaned data ready to be analyzed (saved in ../processed).
     """
@@ -181,22 +187,24 @@ def main(input_filepath, output_filepath):
     logger.info('Loading model ...')
     nlp = dacy.load("da_dacy_medium_trf-0.1.0", "/Users/nhs/Udvikling/models/dacy")
 
+    filepath = os.path.join(input_filepath, f'{pattern}*.txt')
+    logger.info(f'Reading data from: {filepath}')
     if os.path.isdir(input_filepath):
-        documents = sorted(glob.glob(os.path.join(input_filepath, f'*.txt')))
+        documents = sorted(glob.glob(filepath))
     else:
         # Asssume a single document
         documents = [input_filepath,]
 
     for filepath in documents:
-        process_file(nlp, filepath, output_filepath)
+        process_file(nlp, filepath, output_filepath, include_sentiments)
 
-def process_file(nlp, input_filepath, output_filepath):
+def process_file(nlp, input_filepath, output_filepath, include_sentiments):
     """Process one file."""
     logger.info('Reading input file ...')
     with open(input_filepath) as f:
         texts = f.readlines()
 
-    network_doc = NetworkDoc(nlp)
+    network_doc = NetworkDoc(nlp, include_sentiments)
     logger.info(f'Processing {input_filepath} ...')
     logger.info('Processing input paragraphs ...')
     with ProgressBar(max_value=len(texts), redirect_stdout=True) as bar:
@@ -239,8 +247,8 @@ def process_file(nlp, input_filepath, output_filepath):
                          'Betweenness', 'Betweenness_normalized'))
         for node in network_doc.nodes.values():
             writer.writerow((node['id'],
-                             node['polarity'], node['polarity_norm'],
-                             node['polarity_sentence'], node['polarity_sentence_norm'],
+                             node.get('polarity', 0), node.get('polarity_norm', 0),
+                             node.get('polarity_sentence', 0), node.get('polarity_sentence_norm', 0),
                              node['connections'], node['connections_norm'],
                              node['interactions'], node['interactions_norm'],
                              node['degree'], node['degree_norm'],
