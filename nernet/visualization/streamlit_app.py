@@ -251,7 +251,7 @@ else:
                     team_color = TEAM_COLORS[central_characters.index(row['Id'])]
                     color = team_color
 
-            G.add_node(row['Id'], size=row['Connections'], weight=['Interactions'], color=color) # color=network_color(color_network_option), title=hover_info, borderWidth=4)
+            G.add_node(str(row['Id']), size=int(row['Connections']), weight=row['Interactions'], color=color) # color=network_color(color_network_option), title=hover_info, borderWidth=4)
 
         for _, row in df_select.iterrows():
             G.add_edge(row['source'], row['target'], value=row['weight']*row["weight"])
@@ -266,5 +266,5 @@ else:
         # Load HTML file in HTML component for display on Streamlit page
         components.html(HtmlFile.read(), height=1024, width=800)
 
-        if st.checkbox('Save this grpah as GraphML'):
-            nx.write_graphml(G, f'/tmp/{book_to_view}.ml')
+        #if st.checkbox('Save this grpah as GraphML'):
+        #    nx.write_graphml(G, f'/tmp/{book_to_view}.ml')
