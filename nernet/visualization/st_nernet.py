@@ -39,9 +39,9 @@ def present_network(header, df_nodes, df_edges, minimum_interactions, teams={}):
     st.markdown('---')
     st.header(header)
     cols = st.columns(2)
-    cols[0].metric('No. network characters', len(df_nodes))
+    cols[0].metric('No. of network characters', len(df_nodes))
     df_nodes_reduced = df_nodes[df_nodes['Interactions'] > minimum_interactions]
-    cols[1].metric(f'No. network characters\n(more than {minimum_interactions} interactions)', len(df_nodes_reduced))
+    cols[1].metric(f'No. of network characters\n(more than {minimum_interactions} interactions)', len(df_nodes_reduced))
 
     create_network(df_nodes_reduced, df_edges, teams=teams)
 
