@@ -1,0 +1,197 @@
+source,target,type,weight
+fiin,hoifvrnem,Undirected,1
+Karl,Peer,Undirected,2
+Peersad,hnn,Undirected,1
+Felix,hnn,Undirected,4
+Peer,hnn,Undirected,25
+Felix,Peer,Undirected,28
+Hnn,Peer,Undirected,5
+Hnn,hnn,Undirected,2
+hnn,lille Peer,Undirected,1
+Faermoer,lille Peer,Undirected,2
+Faermoer,Peer,Undirected,15
+Dn,Faermoer,Undirected,1
+Peer,lille Felix,Undirected,2
+Husleicn,Peer,Undirected,1
+Bjørn,Husleicn,Undirected,1
+Gudfader,hnn,Undirected,2
+Gudfader,Peer,Undirected,3
+Hain,Peer,Undirected,1
+Faermoer,hnn,Undirected,4
+Peer,sil,Undirected,1
+Peer,Samson,Undirected,5
+Alen,Samson,Undirected,1
+Alen,hnn,Undirected,1
+Faermoer,Samson,Undirected,2
+Faermoer,Hnn,Undirected,1
+Jomfru Frandsen,Peer,Undirected,4
+Jomfru Frandsen,hnn,Undirected,2
+Peer,lille Peer,Undirected,1
+hnn,lille Felix,Undirected,1
+Malle Knallerup,Page,Undirected,1
+Page,Peer,Undirected,3
+Peer,bart,Undirected,2
+Flors,Peer,Undirected,2
+Bravo,Peer,Undirected,1
+Peer,Roes,Undirected,1
+Dril,Roes,Undirected,1
+Dril,Peer,Undirected,1
+Jomfrn Frandsen,lille Peer,Undirected,1
+Capelmesferen,Peer,Undirected,1
+Peer,Peerskulde,Undirected,1
+Alan,Frandsen,Undirected,1
+Felix,Samson,Undirected,1
+Bioder,Peer,Undirected,2
+Pip,hnn,Undirected,1
+Dn,lille Peer,Undirected,1
+Felix,lille Peer,Undirected,1
+Felix,Jomsrn Frandsen,Undirected,1
+Felix,Uhret,Undirected,2
+Hain,Hnn,Undirected,1
+Peer,Qvægct,Undirected,1
+Karlen,hnn,Undirected,2
+Madamen,hnn,Undirected,1
+Hr. Gabriel,Peer,Undirected,8
+Smaathustøi,Trine,Undirected,1
+Smaathustøi,igjcn,Undirected,1
+Cæsar,Madame Gabriel,Undirected,1
+Madame Gabriel,Smaathustøi,Undirected,1
+Madsen,Peer,Undirected,8
+Amalie,CarlMo or,Undirected,1
+Gabriels,Peer,Undirected,1
+Gabriel,Peer,Undirected,5
+Peer,Punsch,Undirected,1
+Madame Gabriel,Punsch,Undirected,1
+Madame Gabriel,Peer,Undirected,5
+Hnn,Mette,Undirected,1
+Meta,Mette,Undirected,1
+Madsen,Meta Gabriel,Undirected,1
+Madsen,hnn,Undirected,1
+Madsen,Primus,Undirected,2
+Gabriel,Julie,Undirected,2
+Peer,Romeo,Undirected,4
+Humcurcts,Madame Gabriel,Undirected,1
+Madame Gabriel,Romeo,Undirected,2
+Flick,Flock,Undirected,2
+Flock,Sopha,Undirected,1
+Jnlies,Madame Gabriel,Undirected,1
+Jnlies,Romeo,Undirected,1
+Gabriel,hnn,Undirected,1
+Julie,Romeo,Undirected,2
+Svendsen,as,Undirected,1
+Madame Gabriel,Peer-Røm,Undirected,1
+Julie,Peer,Undirected,2
+Julie,hnn,Undirected,1
+Peer,Themistokles,Undirected,1
+Shakespeare,Themistokles,Undirected,1
+Shakespeare,Sophokles,Undirected,1
+Seicrs,hair,Undirected,1
+Madsen,hair,Undirected,1
+Madame Gabriel,Primus,Undirected,1
+Cæsar,Øe,Undirected,1
+Gabriel,Øe,Undirected,1
+Gabriel,Romeo,Undirected,1
+hnn,somJuno,Undirected,1
+Felix,Madame Gabriel,Undirected,1
+Dands,dandse,Undirected,1
+Dands,Peer,Undirected,1
+Felix dandsede,Peer,Undirected,1
+Madamen,Peer,Undirected,1
+Skaal,hnn,Undirected,1
+Gud,Peer,Undirected,5
+Felix,Jomfru Frandsen,Undirected,1
+Peer,nn,Undirected,3
+Faermoer,Hr. Gabriel,Undirected,2
+Peer,fil,Undirected,1
+Peer,kukkuk,Undirected,2
+Madameu,æbe,Undirected,1
+Peer,æbe,Undirected,1
+Julie,Madame Gabriel,Undirected,1
+Gabriel,Hr. Gabriel,Undirected,1
+Faermoer,Gud,Undirected,1
+Gud,hnn,Undirected,2
+Mai,hnn,Undirected,1
+Mai,Peer,Undirected,1
+Hnmenrct,Peer,Undirected,2
+Peer,haur,Undirected,1
+Dands,haur,Undirected,1
+Faermoer,SanctHans,Undirected,1
+Humeur,Madame Gabriel,Undirected,1
+Dagmar,hnn,Undirected,1
+Kvastens,hnn,Undirected,1
+Kvastens,Romeo,Undirected,1
+Goethe,Hr. Gabriel,Undirected,1
+Gabriel,Goethe,Undirected,1
+Peer,Primus,Undirected,1
+Peer,suns,Undirected,1
+Madsen,Smaathustøi,Undirected,1
+Hr. Gabriel,Madamen,Undirected,1
+Madame Hof,Nn,Undirected,1
+Hofs,Madame Hof,Undirected,1
+Hnn,knndc,Undirected,1
+Carl Maria Weber,Weber,Undirected,1
+Mozart,Weber,Undirected,3
+Karlen,Weber,Undirected,2
+Frandsen,Peer,Undirected,1
+Madame Hof,hnn,Undirected,1
+Frandsen,Madame Hof,Undirected,1
+Dieu,Peer,Undirected,1
+Beethovens,Mozart,Undirected,1
+Andanten,Orchester Beethovens,Undirected,1
+Andanten,Beethoven,Undirected,1
+Beethoven,Haydn,Undirected,1
+Haydn,Mimers,Undirected,1
+Peer,jnst,Undirected,1
+Peer,Talmud,Undirected,1
+Tnusheds,nn,Undirected,1
+Peer,Tnusheds,Undirected,1
+Hans,Hr. Gabriel,Undirected,1
+Hans,Peer,Undirected,1
+Madame Hof,Peer,Undirected,2
+Franklin,Shakespeare,Undirected,1
+Ossian,Shakespeare,Undirected,1
+Madame H,Peer,Undirected,1
+Englc-Høf,Peer,Undirected,1
+Joseph,Peer,Undirected,1
+Georg Browns,Joseph,Undirected,1
+Georg Browns,Walter Scotts,Undirected,1
+Borg,Walter Scotts,Undirected,1
+Chor,Orchester,Undirected,1
+Uhret,hnn,Undirected,1
+Hnn,Madame Hof,Undirected,1
+Peer,hans,Undirected,1
+Aland,hans,Undirected,1
+Hr. Gabriel,Madame Gabriel,Undirected,1
+Hr. Gabriel,correct,Undirected,1
+Peer,correct,Undirected,1
+Chrisfen,Dn,Undirected,1
+Madsen,pusri xusri,Undirected,1
+Mari pusrilia,pusri xusri,Undirected,1
+Humeur,næsfe,Undirected,1
+Hamlet,næsfe,Undirected,1
+Peer,Thomas,Undirected,1
+,Thomas,Undirected,1
+Hamlet,Ophelias,Undirected,2
+Georg Brown,Hamlet,Undirected,2
+Gounod,knnnc,Undirected,1
+Gounod,Thomas,Undirected,1
+Hamlet,Thomas,Undirected,1
+Hamlet,Nattesccncn,Undirected,2
+Felix,alf,Undirected,1
+Sorn,prange,Undirected,1
+Dien,prange,Undirected,1
+Baaren,Dien,Undirected,1
+Don Ottavios,Taare,Undirected,1
+Ben,Wagners,Undirected,1
+Peer,saae Felix,Undirected,1
+Felix,Hnn,Undirected,1
+Peer,elfe,Undirected,1
+Felix vidsfe,Svanen,Undirected,1
+Georg Brown,Svanen,Undirected,1
+Malle,hnn,Undirected,1
+Peer,coquct,Undirected,1
+Lille Malle,Peer,Undirected,1
+Graad,Madame Hof,Undirected,1
+Carl Maria Weber,Wagner,Undirected,1
+Aladdin,Peer,Undirected,1
+Aare,Sophokles,Undirected,1
