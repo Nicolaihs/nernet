@@ -1,0 +1,275 @@
+source,target,type,weight
+Oline,Smaa-Adna,Undirected,2
+Oline,Sjur Gabriel,Undirected,36
+Oline,strængt,Undirected,1
+Jens,strængt,Undirected,1
+Jente,Oline,Undirected,1
+Lynsnart,Sjur Gabriel,Undirected,1
+eg,stidi,Undirected,1
+Gabriel,Sjur,Undirected,29
+Gabriel,mat,Undirected,1
+Sjøtrøjens,mat,Undirected,1
+Dan,Sjur Gabriel,Undirected,1
+Eg,Eillefisk,Undirected,1
+Jens,Sjur Gabriel,Undirected,5
+Eg,Jens,Undirected,1
+Guri,Hedlemyrna ute,Undirected,1
+Guri,Oline,Undirected,4
+Guri,sitja,Undirected,1
+Kadn,hedna,Undirected,1
+Gabriel,Guri,Undirected,1
+Trur,gjedna,Undirected,1
+Guri,gjedna,Undirected,1
+Guri,Skjelinga,Undirected,1
+Guri,meg,Undirected,1
+Dedna2,Oline,Undirected,1
+Oline,hega,Undirected,1
+Guri,mykje,Undirected,1
+Dedne,Eg,Undirected,1
+Eg,toll,Undirected,1
+Eg,Jomfru Weistendal,Undirected,1
+Guri,Jomfru Weistendal,Undirected,1
+Hannæ,Oline,Undirected,1
+Guri,Hannæ,Undirected,1
+Guri,Toll Skjeling,Undirected,1
+Oline,toll Skjeling,Undirected,1
+eg,toll Skjeling,Undirected,1
+Eg,Oline,Undirected,1
+Eg,upp,Undirected,1
+Oline,upp,Undirected,1
+Oline,Trega,Undirected,1
+Guri,inkje,Undirected,1
+Gabriels-Oline,Oline,Undirected,1
+mykje,tøtte,Undirected,1
+Gabriel,tøtte,Undirected,1
+Eg,sejer,Undirected,1
+sejer,sejer eg,Undirected,1
+eg,sejer eg,Undirected,2
+høfli,sejer eg,Undirected,1
+eg,høfli,Undirected,1
+eg,psssuh,Undirected,1
+Eg,sejer eg,Undirected,1
+Oline,sleppa,Undirected,1
+Dansa,gamla Kjærringa,Undirected,1
+Dan,gamla Kjærringa,Undirected,1
+Dan,rudia,Undirected,1
+Golve,rudia,Undirected,1
+kobm,å Løktna,Undirected,1
+Dan,kobm,Undirected,1
+Dan,adna,Undirected,1
+adna,edl,Undirected,1
+Dan,rivanes,Undirected,1
+Dan,inkje,Undirected,1
+inkje,rik,Undirected,1
+kann hedna,rik,Undirected,1
+Sjur Gabriel,hnn,Undirected,1
+Gud,Sjur Gabriel,Undirected,5
+Sjur,Sjur Gabriel,Undirected,3
+Jens,ho,Undirected,3
+Gabriel,Jens,Undirected,1
+Kobm iLann seie eg,Sjur Gabriel,Undirected,1
+Jens,taus,Undirected,1
+Sjur Gabriel Nøstedøren,taus,Undirected,1
+Jens,Kadn,Undirected,1
+Sjur Gabriel,kobma heimu,Undirected,1
+Gud Faders,Sjur Gabriel,Undirected,2
+Kadn,ho,Undirected,1
+ho,inkje høyra,Undirected,1
+Jens,inkje høyra,Undirected,1
+Oline,Vesle-Jens,Undirected,1
+Vesle-Jens,remja1,Undirected,1
+Gud,Jens,Undirected,1
+Jens,di,Undirected,1
+Gud,di,Undirected,1
+Ho,kje,Undirected,1
+Kadn,inkje,Undirected,1
+Jens,Oline,Undirected,4
+eg,kjebm,Undirected,2
+Eg,eg,Undirected,3
+Engelsmanen,eg,Undirected,1
+Engelsmanen,Jens,Undirected,1
+Jens,Jenta,Undirected,1
+Joræ,dar,Undirected,1
+dar,dar Adam,Undirected,1
+Eva,dar Adam,Undirected,1
+Pænga,veifkje,Undirected,1
+eg,meina,Undirected,1
+Kari Træet,Oline,Undirected,2
+Kari,Kari Træet,Undirected,1
+Kari,Sjur,Undirected,3
+Ingeborg,Sjur Gabriel,Undirected,6
+Ingeborg,Jens,Undirected,4
+Jens,SmaaAdna,Undirected,1
+Adna,Jens,Undirected,2
+Jens,Tine,Undirected,1
+Jens,Smaa-Adna,Undirected,1
+Jens,s,Undirected,1
+Adna,Sjur Gabriel,Undirected,1
+Adna,Nils,Undirected,1
+Magne,Nils,Undirected,6
+Oline,inkje,Undirected,2
+eg,inkje,Undirected,2
+Ingeborg,afSmaa-Adna,Undirected,2
+Ingeborg,fidna onkart,Undirected,1
+benna um,fidna onkart,Undirected,1
+benna um,j,Undirected,1
+Ingeborg,j,Undirected,1
+Eg,Smaa-Adna,Undirected,1
+Eg,vidl,Undirected,1
+inkje,vidl,Undirected,1
+Ingeborg,Nils,Undirected,1
+Smaa-Adna,ban,Undirected,1
+Ingeborg,Smaa-Adna,Undirected,4
+Sjur Gabriel,Smaa-Adna,Undirected,3
+Stakkars,hedna,Undirected,1
+Stakkars,vesle,Undirected,1
+Jens,vesle,Undirected,1
+Stakkjen,dedne,Undirected,1
+"Ingjebær,4",Stakkjen,Undirected,1
+Magne,Sjur Gabriel,Undirected,3
+Jou,heine,Undirected,1
+Gutane,meina,Undirected,1
+Oline,liun,Undirected,1
+hnn,liun,Undirected,1
+Eg,Gabriel,Undirected,1
+Eg,meina,Undirected,2
+Gabriel,Lars-Adna,Undirected,1
+Gud,trængs,Undirected,1
+"hass Lars Træet,4",tøtte,Undirected,1
+Lars,Sjur Gabriel,Undirected,3
+Ho,Sjur Gabriel,Undirected,1
+Adna,Ho,Undirected,1
+Adna,inkje,Undirected,1
+Sjur Gabriel,åv,Undirected,1
+Oline,eg,Undirected,2
+Ho Adna,ho kjebm,Undirected,1
+Sjur Gabriel,ho kjebm,Undirected,1
+dan,ho Adna heve,Undirected,1
+Gabriel,dan,Undirected,1
+meina,sjøl,Undirected,1
+Lars,sjøl,Undirected,1
+Gamle-Karis,Sjur Gabriel,Undirected,1
+Kari,Oline,Undirected,10
+Gabriel,Jou,Undirected,1
+Jou,jon,Undirected,1
+Fadi,Høvmot,Undirected,1
+Sjur Gabriel,veta,Undirected,1
+Næggu,veta,Undirected,1
+Kari,kobma,Undirected,2
+Kari,Sjur Gabriel,Undirected,11
+Eg,Kari,Undirected,1
+Eg,Sjur Gabriel,Undirected,1
+Sjur Gabriel,dar,Undirected,1
+dar,fidn,Undirected,1
+Gølve,fidn,Undirected,1
+Meina,Sjur Gabriel,Undirected,1
+Daln,Sjur Gabriel,Undirected,1
+Dj,eg,Undirected,1
+Ingeborg,Oline,Undirected,11
+Graad,Ingeborg,Undirected,1
+Graad,Kari,Undirected,1
+Ingeborg,Kari,Undirected,2
+Lars-Adna,Oline,Undirected,1
+Lars-Adna,Sjur Gabriel,Undirected,1
+Sjur Gabriel,meina,Undirected,1
+meina,søvna,Undirected,1
+Kari,Linne,Undirected,1
+Linne,Sjur,Undirected,1
+Jenta,Oline,Undirected,1
+Oline,Sjur,Undirected,2
+Gud,Oline,Undirected,5
+Kari,Sidlasupa,Undirected,1
+Aa,Ingeborg,Undirected,1
+Aa,pelle Fingr,Undirected,1
+ane,pelle Fingr,Undirected,1
+ane,dan vesla Naså,Undirected,1
+dar æ,meina,Undirected,1
+Kari,dar æ,Undirected,1
+Jisses,eg,Undirected,1
+Høvmot,Sjur Gabriel,Undirected,1
+Magne,Smaa-Adna,Undirected,3
+Jens,Nils,Undirected,3
+Kari Træet,Sjur Gabriel,Undirected,1
+Gabriel,Kari,Undirected,1
+Lars Træet,Sjur Gabriel,Undirected,1
+Lars Træet,Oline,Undirected,1
+Nils,Sjur Gabriel,Undirected,4
+Sjur Gabriel,Vesle-Gabriel,Undirected,21
+Gutten,Sjur Gabriel,Undirected,4
+Gutten,VesleGabriel,Undirected,1
+Ingeborg,VesleGabriel,Undirected,1
+Aslak,Sjur Gabriel,Undirected,7
+Aslak,Gabriel,Undirected,2
+Aslak,Halling,Undirected,1
+Halling,Sjur Gabriel,Undirected,1
+Garen2,Sjur Gabriel,Undirected,1
+Sjur,Vadmels,Undirected,1
+Aslak,Garen,Undirected,1
+Garen,Sjur Gabriel,Undirected,1
+Aslak,Gud,Undirected,1
+Sjur Gabriel,timdes,Undirected,1
+Gud,hans,Undirected,1
+Magne,somme,Undirected,1
+Gud,Magne,Undirected,1
+Vesle-Gabriel,VesleGabriel,Undirected,1
+Gud,Vesle-Gabriel,Undirected,3
+Rikjes,eg,Undirected,1
+Christi,Davids,Undirected,1
+Gabriel,fejur,Undirected,1
+Gabriel,Vesle-Gabriel,Undirected,7
+Vesle-Gabriel,hass,Undirected,1
+Gabriel,hass,Undirected,1
+Gutten,Oline,Undirected,1
+Gutten,Vesle-Gabriel,Undirected,4
+Gabriel,Gud,Undirected,1
+Gud,Jesu,Undirected,2
+Ingeborg,Vesle-Gabriel,Undirected,2
+Ingeborg,Kvas,Undirected,2
+Ingeborg,fidn,Undirected,1
+Jessu,Kristi,Undirected,1
+Kristi,søvna,Undirected,1
+Hys,Ingeborg,Undirected,1
+Ingeborg,hega,Undirected,1
+Sjur,hega,Undirected,1
+Eg,gasta legjaseg,Undirected,1
+Eg,Vesle-Gabriel,Undirected,2
+Eg,Kett,Undirected,1
+Ingeborg,No,Undirected,1
+No,kjebm,Undirected,1
+kjebm,å,Undirected,2
+Sjur Gabriel,vesle Ingjebær11,Undirected,1
+Ingeborg,eg,Undirected,2
+inkje,likaso,Undirected,1
+Gud,torde,Undirected,1
+Pengja hava dei,Speisedala,Undirected,1
+altsamas,kjebm,Undirected,1
+Guri,Jens,Undirected,1
+Guri,Sjur Gabriel,Undirected,1
+Sjur Gabriel,mørk,Undirected,1
+Oline,mørk,Undirected,1
+ho,inkje,Undirected,1
+Gud,liun,Undirected,1
+Gud,løva eg,Undirected,1
+Ingeborg,verta,Undirected,1
+Nils,Smaa-Adna,Undirected,2
+Aare,b Trælé,Undirected,1
+Oline,Vesle-Gabriel,Undirected,2
+Sjur Gabriel,skenes,Undirected,1
+Vesle-Gabriel,ban,Undirected,1
+Sjur Gabriel,ban,Undirected,1
+Smaa-Adna,Vesle-Gabriel,Undirected,1
+SmaaAdna,Vesle-Gabriel,Undirected,1
+Guta,Sjur Gabriel,Undirected,1
+Broren,Magne,Undirected,1
+Pedersen,Sjur Gabriel,Undirected,2
+Sjur,Vesle-Gabriel,Undirected,1
+Jysses,Magen,Undirected,1
+Sjur Gabriel,hasta,Undirected,2
+Sjur Gabriel,dan Sjukdommen,Undirected,1
+Sjur Gabriel,taus,Undirected,1
+Oline,VesleGabriel,Undirected,1
+Kadn,VesleGabriel,Undirected,1
+Gabriel,mørk,Undirected,1
+Nils,Oline,Undirected,2
+Gabriel,Oline,Undirected,3
+Gabriel,Graad,Undirected,1

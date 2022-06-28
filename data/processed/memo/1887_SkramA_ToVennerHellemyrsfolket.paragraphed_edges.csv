@@ -1,0 +1,303 @@
+source,target,type,weight
+Tue,jødes,Undirected,1
+Tippe Tue,kjøsses,Undirected,1
+Småfylla kjøsses,Tippe Tue,Undirected,1
+Eg,Oline,Undirected,1
+Oline,Tippe Tue,Undirected,8
+Eg,Tue,Undirected,1
+Eg,trur,Undirected,2
+eg,trur,Undirected,2
+eg,tebakes,Undirected,1
+Oline,Tue,Undirected,4
+Tippe,Tue,Undirected,5
+Olinemor,Tue,Undirected,1
+Tue,dar,Undirected,1
+Oline,dar,Undirected,1
+Eg,dokkes,Undirected,1
+Oline,b,Undirected,1
+hon beter Dotter,kje,Undirected,1
+Tippe Tue,Tue,Undirected,1
+dokkes,trur,Undirected,1
+Tønnis,dokkes,Undirected,1
+Jysses,kjephøj,Undirected,1
+Madam Tønnesen,eg,Undirected,1
+Eg,eg,Undirected,19
+Madam,Tue,Undirected,1
+Madam Tønnesen,Polletie,Undirected,1
+Madam,Polletie sejer,Undirected,1
+Madam,Tippe,Undirected,1
+Tue,eg,Undirected,2
+Ajøs,Jysses,Undirected,1
+Ajøs,Madam,Undirected,1
+Madam,ajøs,Undirected,1
+Madam Tønnesen,Oline,Undirected,3
+Småfylla,Tippe,Undirected,1
+Tippe Tue,næggu,Undirected,1
+Oline,Tønnesen,Undirected,1
+Oline,els,Undirected,1
+Tippe Tue,els,Undirected,1
+Jon,eg,Undirected,1
+Tippe Tue,Tønnesen,Undirected,1
+Tippe Tue,elles,Undirected,1
+Tue,sælle,Undirected,2
+Eg,kje,Undirected,3
+Jens,egska,Undirected,1
+Ear,Eg,Undirected,1
+Ear,eg,Undirected,1
+Marthe,Sjur Gabriel Hellemyren,Undirected,1
+Jens,Marthe,Undirected,12
+Marthe,b,Undirected,1
+Marthe,Sivertmann,Undirected,2
+Marthe,pegte,Undirected,1
+Golve,rike Thor Monsen,Undirected,1
+Bønnemann,Sivert,Undirected,1
+Bønnemann,eg,Undirected,1
+Hon,Tue,Undirected,1
+hinnes,sælle,Undirected,1
+Marthe,tse,Undirected,1
+Sivertmann,greter,Undirected,1
+Marthe,Sivert,Undirected,4
+Ingeborg,Jysses,Undirected,1
+Jysses,hon,Undirected,3
+Madam Tønnesen,Marthe,Undirected,1
+Jens hemkommen,kje,Undirected,1
+Marthe,eg Ritter,Undirected,1
+Tønnesen,desutom,Undirected,1
+Gusskelov,Marthe,Undirected,1
+Gusskelov,eg,Undirected,1
+Marthemor,spiti,Undirected,1
+Marthe,eg,Undirected,6
+Jens,Madam Tønnesen,Undirected,4
+Madam Tønnesen,rikti,Undirected,1
+Ingebor,Jens,Undirected,2
+Retno,hon,Undirected,2
+eg,hon,Undirected,20
+Eg,tefress,Undirected,1
+hon,tefress,Undirected,1
+Jysses,Marthe,Undirected,1
+Travenx,desutom,Undirected,1
+Travenx,eg,Undirected,1
+Jens,hon,Undirected,2
+Eg,hinner,Undirected,1
+Jens,hinner,Undirected,1
+Eg,rikti,Undirected,2
+Hys,hys,Undirected,1
+Jens,hys,Undirected,1
+Jens,eg,Undirected,6
+eg,sejer,Undirected,4
+Tønnesen,eg,Undirected,4
+Tue,hon,Undirected,1
+Ingeborg,Sivertmann,Undirected,1
+Jens,Tønnesen,Undirected,1
+Gud,eg,Undirected,1
+Gud,hon,Undirected,1
+Ingeborg,hon,Undirected,1
+Gud,Jens,Undirected,1
+Gud,Kvermann,Undirected,1
+Ingeborg,Kvermann,Undirected,1
+Eg,Sivert,Undirected,9
+Eg,tesjøs,Undirected,1
+eg,kje,Undirected,4
+eg,tesjøs,Undirected,3
+eg,villi,Undirected,2
+Jens,Trine,Undirected,1
+Gud,Nils,Undirected,1
+Nils,Simen,Undirected,1
+Sivert,eg,Undirected,8
+Bu,Synn,Undirected,1
+Sivert,grete,Undirected,1
+Sivert,kje,Undirected,1
+Eg,hon,Undirected,3
+Sivert,hon,Undirected,2
+Tevannssuttel,lian,Undirected,1
+Kj edlen,lian,Undirected,1
+Sivert,meg,Undirected,2
+Sivert,jødes,Undirected,1
+Kaffi,eg,Undirected,1
+Eg,Kaftein,Undirected,1
+Kaftein,eg,Undirected,1
+Hann,eg,Undirected,1
+Kaftein,Sivert,Undirected,2
+Eli,eg,Undirected,1
+Lyger,eg,Undirected,1
+Sivert,trur,Undirected,1
+Sivert,rikti,Undirected,4
+Kjuapak,Sivert,Undirected,1
+Sivert,Sjøvann,Undirected,1
+Sjøvann,eg,Undirected,1
+Sivert,hans,Undirected,1
+Kaftejn,kje,Undirected,1
+Koffernaglen,Sivert,Undirected,1
+Gud,Sivert,Undirected,3
+Gut,Sivert,Undirected,1
+Sivert,å,Undirected,1
+eg,å,Undirected,1
+Kaftejn,Sivert,Undirected,1
+Sivert,b,Undirected,1
+Marthe,Tsje,Undirected,1
+eg,verke,Undirected,1
+verke,verke eg,Undirected,1
+Finkellokt,Marthe,Undirected,1
+Jens Marthe,Marthe,Undirected,1
+Jens Marthe,Sjur Gabriel,Undirected,1
+Deg,Marthe,Undirected,1
+Anders,Sjur Gabriel,Undirected,1
+Anders,dei,Undirected,1
+Marthe,Sjur Gabriel,Undirected,1
+Jens,Jens Gabrielsen,Undirected,1
+Jens,Sivert,Undirected,1
+Jens,Kern,Undirected,1
+eg,mykkje,Undirected,3
+Hon,hon,Undirected,4
+Eg,Jens,Undirected,2
+Jens,Simon,Undirected,1
+Nils,Simon,Undirected,2
+Nils,Thrine,Undirected,1
+Sivert,Thrine,Undirected,1
+Deg,Thrine,Undirected,1
+J,Kingston,Undirected,1
+Jens,Nils,Undirected,1
+Eg,Marthe,Undirected,7
+eg,hannes,Undirected,1
+Sivert Jensen,hannes,Undirected,1
+Eg,Sivert Jensen,Undirected,1
+Eg,ælles,Undirected,1
+Eg,baadsmandan,Undirected,2
+Marthe,kein,Undirected,1
+eg,houdujedu,Undirected,1
+hon,houdujedu,Undirected,1
+Mari,eg,Undirected,1
+Mari,Marie,Undirected,1
+Thrine,luto,Undirected,1
+Sivert Gabriel Jensen Kahytsgut,Thrine,Undirected,1
+Eg,jei,Undirected,1
+Jens,Thrine,Undirected,1
+Jens,sømni,Undirected,1
+Marthe,kje,Undirected,1
+eg,ka Sivert,Undirected,1
+Eg,ka Sivert,Undirected,1
+Marthe,billikt,Undirected,1
+Marthe,grete,Undirected,1
+Jens,Orene,Undirected,1
+Sivert sjøl,eg,Undirected,1
+Sivert sjøl,di,Undirected,1
+Marthe,Nankins,Undirected,1
+Nankins,Nils,Undirected,1
+Jens’,Marthe,Undirected,1
+Herman D. Smiths,Jysses,Undirected,1
+Jysses,Marthemor,Undirected,1
+Marthe,Sjouen,Undirected,1
+Marthe,mykkje,Undirected,1
+Jens,kje,Undirected,1
+Marthe,Smith,Undirected,1
+Kunselen,Marthe,Undirected,1
+Gutten,Marthe,Undirected,2
+Sivert,iland,Undirected,2
+Strit,iland,Undirected,1
+Pøs,iland,Undirected,1
+Jysses,Sivert,Undirected,1
+Hon,Sivert,Undirected,1
+Annie,Nancy,Undirected,1
+Annie,Sivert,Undirected,3
+Albert,Viktoria,Undirected,1
+Louise,Sivert,Undirected,6
+Emmeline,Sivert,Undirected,9
+Jack,Louise,Undirected,1
+Nancy,Sivert,Undirected,2
+Anni,Nancy,Undirected,1
+Anni,Sivert,Undirected,1
+Louise,Nankins,Undirected,1
+Emmeline,Louise,Undirected,2
+Emmeline,Sølvfest,Undirected,1
+Annie,Louise,Undirected,1
+Annie,Hon,Undirected,1
+Nancy gjennem,Sølvfest,Undirected,1
+Tssss,Tsssss,Undirected,1
+Sivert,ning,Undirected,1
+liam,lian,Undirected,1
+Sivert,lian,Undirected,1
+Bit,Eg,Undirected,1
+Eg,Kaftejn,Undirected,3
+Kaftejn,eg,Undirected,1
+Anton Marius Seising,Baadsmann Torsten,Undirected,1
+Baadsmann Torsten,Rasmus Christensen,Undirected,1
+Pitter,Rasmus Christensen,Undirected,1
+Christian Hybenetten,Pitter,Undirected,1
+Emmeline,Graad,Undirected,1
+Småfylla,hon,Undirected,2
+Tippe,hon,Undirected,1
+Gud,Jesu,Undirected,3
+Jardin des Plantes,Sivert,Undirected,1
+Mr s. J. Beauvais,Sivert,Undirected,1
+Mr s. J. Beauvais,Pierre Bouvier,Undirected,1
+Pierre Bouvier,Voyageurs pour Jardin des Plantes,Undirected,1
+Sivert,Sivvert,Undirected,2
+Monsieur Pierre,Sivert,Undirected,1
+Sivert,Sølvfest,Undirected,1
+Thora,eg,Undirected,2
+hon,kern,Undirected,2
+Højs,eg,Undirected,1
+Højs,sejer,Undirected,1
+Anton,hon,Undirected,2
+eg,tebake,Undirected,1
+Anton te,Natorli,Undirected,1
+Natorli,eg,Undirected,1
+Golve,eg,Undirected,2
+Eg,hanne,Undirected,1
+eg,valen,Undirected,1
+Eg,valen,Undirected,1
+eg,kern,Undirected,1
+eg,hon va,Undirected,1
+hon,sejer,Undirected,2
+Sivert,Skyil,Undirected,1
+drokke,kern,Undirected,1
+Hannes,No,Undirected,1
+No,eg,Undirected,1
+Jensen,Sivert Gabriel Jensen,Undirected,1
+Jensen,Myren,Undirected,1
+Myren,Sivert Gabriel Myre,Undirected,1
+Marg,Sivert,Undirected,1
+Jean,Sivert,Undirected,8
+Sivert,you,Undirected,1
+Kenap,Sivert,Undirected,1
+Kenap,rikti,Undirected,1
+Jean,Mons,Undirected,19
+bien,j,Undirected,1
+Sivert,bien,Undirected,1
+Taarsdak,rikti,Undirected,1
+.,Mons,Undirected,3
+.,Pierre,Undirected,1
+Pierre,Sivert,Undirected,6
+Grog,Sivert,Undirected,1
+Mons,Sivert,Undirected,7
+Mossjø,Sivert,Undirected,2
+Sivert,flout,Undirected,1
+Mons,flout,Undirected,1
+Mons,Pierre,Undirected,17
+.,Jean,Undirected,2
+. Jean,Mons,Undirected,1
+. Jean,Sivert,Undirected,1
+Dieu,Sivvert,Undirected,1
+Dieu,Mons,Undirected,1
+Apportez le lampion,Mons,Undirected,1
+Jean,Mons. Pierre,Undirected,1
+Mons. Pierre,Sivert,Undirected,2
+Sivert,Sjang,Undirected,1
+Mossjø Pjerre,Sjang,Undirected,1
+Mossjø Pjerre,Sivert,Undirected,1
+Kahytsgut,Sivert,Undirected,1
+Gut,Hansen,Undirected,1
+Mons,Sivvert,Undirected,1
+Mons,Pierre senakkeme,Undirected,1
+Mons,meg,Undirected,1
+Sivert,mille tusen pardon,Undirected,1
+Eg,Mons. Pierre,Undirected,1
+Anne,Sivert,Undirected,1
+Hans,Styremann,Undirected,1
+Hans,Sivert,Undirected,1
+Sivert,Sjø,Undirected,1
+Gud,Noa,Undirected,1
+Gud,Sølvfest,Undirected,1
+Holl,meg,Undirected,1
+Haabs,Luvart,Undirected,1
+Fred me,Sivert,Undirected,1
