@@ -9,8 +9,9 @@ from gensim.models import KeyedVectors
 from gensim.test.utils import datapath
 from sklearn import preprocessing
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
 
-model_path = '/Users/nhs/Udvikling/dighum/nernet/data/models/'
+model_path = os.path.join(dir_path, '../../data/models/')
 
 @st.cache(allow_output_mutation=True)
 def load_model(filename):
