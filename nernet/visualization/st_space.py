@@ -21,8 +21,12 @@ model_wv = load_model()
 
 def lookup_sims(word, min_similarity=0.6):
     """"""
-    word = word.strip()
-    sims = model_wv.most_similar(word, topn=50)
+    if '+' in word:
+        words = [model_wv[single.strip()] for single in word.split('+')]
+        word = sum(words)
+    else:
+        word = word.strip()
+    sims = model_wv.most_similar(word, topn=300)
     sims = [(sim, score) for sim, score in sims if score >= min_similarity]
     return sims
 
@@ -38,8 +42,17 @@ def add_more_sims(sims):
     return new_sims
 
 
+def distance(word, target):
+    if '+' in word:
+        import ipdb; ipdb.set_trace()
+    else:
+        dist = model_wv.distance(sim, x_left)
+    return dist
+
+
 st.title('A Peter Leonard Plotter')
 with st.sidebar:
+    min_sim = st.slider('Min. similarity', 0.1, 0.9, 0.6)
     input_seed = st.text_input('Seed word')
     col1, col2 = st.columns(2)
     x_left = col1.text_input('X axis, left', 'hvid')
@@ -48,15 +61,19 @@ with st.sidebar:
     y_down = col1.text_input('Y axis, down', 'mand')
     y_up = col2.text_input('Y axis, up', 'kvinde')
 
+
 if input_seed and x_left and x_right and y_up and y_down:
     input_seed = input_seed.strip()
     sims = []
     for seed in input_seed.split(','):
-        sims += lookup_sims(seed)
-    sims = add_more_sims(sims)
-    if len(sims) < 50:
-        sims = add_more_sims(sims)
-#    sims = add_more_sims(sims)
+        sims += lookup_sims(seed, min_similarity=min_sim)
+
+    #sims = add_more_sims(sims)
+    #if len(sims) < 50:
+    #    sims = add_more_sims(sims)
+    #if len(sims) < 50:
+    #    sims = add_more_sims(sims)
+
     df_sims = pd.DataFrame(sims, columns=['word', 'score'])
 
     x_values, y_values = [], []
@@ -87,3 +104,6 @@ if input_seed and x_left and x_right and y_up and y_down:
     )
     st.plotly_chart(fig)
 
+
+#    import ipdb; ipdb.set_trace()
+#    x_axis = model_wv[x_right] - model_wv[x_left]
