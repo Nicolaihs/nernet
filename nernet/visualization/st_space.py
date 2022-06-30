@@ -50,7 +50,7 @@ def distance(word, target):
     return dist
 
 
-st.title('MeMo in Space')
+st.title('MeMo in Space!')
 st.subheader('Based on work by Peter Leonard, based on work by Ben Schmidt')
 
 with st.sidebar:
@@ -70,7 +70,7 @@ with st.sidebar:
 
 
     min_sim = st.slider('Min. similarity', 0.1, 0.9, 0.6)
-    input_seed = st.text_input('Seed word', 'farve')
+    input_seed = st.text_input('Seed word')
     tops = st.columns(3)
     middle = st.columns(3)
     bottom = st.columns(3)
@@ -143,13 +143,17 @@ else:
     1. Choose axis on the graph, e.g. mand <-> kvinde
     1. Watch the axis -- a word on 0 on an axix is equally distant from the two axis words
        1. **Note:** 0 might not be centered on the diagram
+       2. Select "Include the words from the axis" in order to max out the graph
 
     # Problems:
 
     **Note**: This a prototype only. Beware of:
 
-    1. The main measurement does not follow Leonard and Schmidt's formula but simply
-    measures the distance to each of the axis words. This is probably less precise.
+    1. The main measurement does not follow Leonard and Schmidt's formula but simply measures the distance to each of the axis words. This is probably less precise.
     2. It is only possible to use single words on the axis
+
+    # Literature
+
+    * Original blog post by Ben Schmidt: [Word Embeddings for the digital humanities](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html)
        ''')
 
