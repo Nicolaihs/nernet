@@ -10,7 +10,7 @@ from pyvis.network import Network
 
 TEAM_COLORS = [ '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#1f77b4', ]
 
-@st.cache
+@st.cache(persist=True)
 def load_nodes(input_dir, protagonist_score='Interactions', protagonist_ratio=1.75):
     """Load all nodes from from input_dir and initialise database."""
     all_nodes = {}
