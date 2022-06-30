@@ -43,59 +43,30 @@ def distance(word, target):
     if '+' in target:
         targets = [model_wv[single.strip()] for single in target.split('+')]
         target = sum(targets)
+
         most_similar = model_wv.most_similar(positive=[target,], topn=1)
         dist = model_wv.distance(word, most_similar[0][0])
     else:
-        dist = model_wv.distance(sim, target)
+        dist = model_wv.distance(word, target)
     return dist
 
 
-st.title('MeMo in Space!')
-st.subheader('Based on work by Peter Leonard, based on work by Ben Schmidt')
+def calculate_schmidt_score(sims, x_left, x_right, y_down, y_up):
+    x_vector = model_wv[x_left] - model_wv[x_right]
+    y_vector = model_wv[y_down] - model_wv[y_up]
 
-with st.sidebar:
-    model_files = [{'name': 'Memo, 200 features, using R (Peter Leonard)',
-      'filename': 'memo_vectors.bin'},
-      {'name': 'Memo, 500 features, using gensim',
-      'filename': 'memo_m5_f500_epoch10_w10.model.w2v.bin'},
-      {'name': 'Memo, 500 features, with bigrams, using gensim',
-      'filename': 'memo_m3_f500_epoch10_w10_bigram.model.w2v.bin'},
-      {'name': 'Modern Danish, 500 features, using gensim (DSL)',
-      'filename': '/Users/nhs/Arkiv/korpus/models/dsl_500.model'}
-      ]
-    select_model = st.selectbox('Select word embeddings', [row['name'] for row in model_files])
-    if select_model:
-        selected = [row['filename'] for row in model_files if row['name'] == select_model][0]
-        model_wv = load_model(selected)
+    words = [sim for sim, _score in sims]
+    distance_to_x_vec = model_wv.distances(x_vector, words)
+    distance_to_y_vec = model_wv.distances(y_vector, words)
+
+    df_schmidt = pd.DataFrame(words, columns=['word'])
+    df_schmidt['x'] = distance_to_x_vec
+    df_schmidt['y'] = distance_to_y_vec
+
+    return df_schmidt
 
 
-    min_sim = st.slider('Min. similarity', 0.1, 0.9, 0.6)
-    input_seed = st.text_input('Seed word')
-    tops = st.columns(3)
-    middle = st.columns(3)
-    bottom = st.columns(3)
-    x_left = middle[0].text_input('X axis, left', 'ung')
-    x_right = middle[2].text_input('X axis, right', 'gammel')
-    y_up = tops[1].text_input('Y axis, up', 'kvinde')
-    y_down = bottom[1].text_input('Y axis, down', 'mand')
-
-    include_axis_words = st.checkbox('Include the words from the axis', False)
-
-if input_seed and x_left and x_right and y_up and y_down:
-    input_seed = input_seed.strip()
-    sims = []
-    for seed in input_seed.split(','):
-        for self_seed in seed.split('+'):
-            if self_seed not in [sim for sim, _score in sims]:
-                sims.append((self_seed, 1.0))
-        sims += lookup_sims(seed, min_similarity=min_sim)
-
-    if include_axis_words:
-        axis_words = x_left.split('+') + x_right.split('+') + y_down.split('+') + y_up.split('+')
-        for word in axis_words:
-            if word not in [sim for sim, _score in sims]:
-                sims.append((word, 0.0))
-
+def calculate_distance_scores(sims, x_left, x_right, y_down, y_up):
 
     df_sims = pd.DataFrame(sims, columns=['word', 'score'])
 
@@ -116,19 +87,70 @@ if input_seed and x_left and x_right and y_up and y_down:
 
     df_sims['x'] = norm_x[0]
     df_sims['y'] = norm_y[0]
-    if st.checkbox('show words'):
-        st.dataframe(df_sims)
+    return df_sims
 
-    fig = px.scatter(df_sims, x="x", y="y", text="word",
+
+st.title('MeMo in Space!')
+st.subheader('Based on work by Peter Leonard, based on work by Ben Schmidt')
+
+with st.sidebar:
+    model_files = [{'name': 'Memo, 200 features, using R (Peter Leonard)',
+      'filename': 'memo_vectors.bin'},
+      {'name': 'Memo, 500 features, using gensim',
+      'filename': 'memo_m5_f500_epoch10_w10.model.w2v.bin'},
+      {'name': 'Memo, 500 features, with bigrams, using gensim',
+      'filename': 'memo_m3_f500_epoch10_w10_bigram.model.w2v.bin'},
+      {'name': 'Modern Danish, 500 features, using gensim (DSL)',
+      'filename': '/Users/nhs/Arkiv/korpus/models/dsl_500.model'}
+      ]
+    select_model = st.selectbox('Select word embeddings', [row['name'] for row in model_files])
+    if select_model:
+        selected = [row['filename'] for row in model_files if row['name'] == select_model][0]
+        model_wv = load_model(selected)
+
+    min_sim = st.slider('Min. similarity', 0.1, 0.9, 0.6)
+    input_seed = st.text_input('Seed word').strip()
+    tops = st.columns(3)
+    middle = st.columns(3)
+    bottom = st.columns(3)
+    x_left = middle[0].text_input('X axis, left', 'ung').strip()
+    x_right = middle[2].text_input('X axis, right', 'gammel').strip()
+    y_up = tops[1].text_input('Y axis, up', 'kvinde').strip()
+    y_down = bottom[1].text_input('Y axis, down', 'mand').strip()
+
+    include_axis_words = st.checkbox('Include the words from the axis', False)
+
+if input_seed and x_left and x_right and y_up and y_down:
+    input_seed = input_seed.strip()
+    sims = []
+    for seed in input_seed.split(','):
+        for self_seed in seed.split('+'):
+            if self_seed not in [sim for sim, _score in sims]:
+                sims.append((self_seed, 1.0))
+        sims += lookup_sims(seed, min_similarity=min_sim)
+
+    if include_axis_words:
+        axis_words = x_left.split('+') + x_right.split('+') + y_down.split('+') + y_up.split('+')
+        for word in axis_words:
+            if word not in [sim for sim, _score in sims]:
+                sims.append((word, 0.0))
+
+    if st.checkbox('show words'):
+        st.dataframe(pd.DataFrame(sims, columns=['Word', 'Similarity']))
+
+    measure = st.selectbox('Use formula', ['Distance score', 'Ben Schmidt\'s original score'])
+    if measure == 'Distance score':
+        df_graph = calculate_distance_scores(sims, x_left, x_right, y_down, y_up)
+    else:
+        df_graph = calculate_schmidt_score(sims, x_left, x_right, y_down, y_up)
+
+    fig = px.scatter(df_graph, x="x", y="y", text="word",
                      labels={'x': f'{x_left} <-----> {x_right}',
                              'y': f'{y_down} <--------> {y_up}'}) #, log_x=True, size_max=60)
     fig.update_layout(
-        title=f'Analyzing {input_seed}'
+        title=f'Show 2-dim vector space for words similar to "{input_seed}"'
     )
     st.plotly_chart(fig)
-
-#    import ipdb; ipdb.set_trace()
-#    x_axis = model_wv[x_right] - model_wv[x_left]
 
 else:
     st.image('memo_space1.png')
@@ -149,8 +171,7 @@ else:
 
     **Note**: This a prototype only. Beware of:
 
-    1. The main measurement does not follow Leonard and Schmidt's formula but simply measures the distance to each of the axis words. This is probably less precise.
-    2. It is only possible to use single words on the axis
+    1. It is only possible to use single words on the axis
 
     # Literature
 
