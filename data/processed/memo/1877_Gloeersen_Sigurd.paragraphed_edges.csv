@@ -1,0 +1,494 @@
+source,target,type,weight
+Milla,mutter,Undirected,1
+Gud signe hende,mutter,Undirected,1
+Gud signe hende,Pelargonium,Undirected,1
+Gud,Sigurd,Undirected,19
+Olsen,Sigurd,Undirected,12
+Juan,Sigurd,Undirected,1
+Juan,Olsen,Undirected,1
+Olsen,leiende,Undirected,1
+Ole,Olsen,Undirected,2
+Iversen,Ole,Undirected,1
+Ole,Sigurd,Undirected,8
+Jagu,Ole,Undirected,1
+Olsen,iland,Undirected,1
+Sigurd,iland,Undirected,1
+Nils Hansen,Nils Vik,Undirected,2
+Thore,guttens,Undirected,2
+Per,Thore,Undirected,5
+Berith,Per,Undirected,2
+Gud,Melgård,Undirected,1
+Melgård,Peder,Undirected,1
+Kristo,Peder,Undirected,1
+Gud,Kristo,Undirected,1
+Berith,Kristo,Undirected,1
+Berith,Thore Indviken,Undirected,2
+Gud,Hans,Undirected,2
+Nils,Nils Vik,Undirected,4
+Nils Vik,Sigurd,Undirected,28
+Joel,Nils Vik,Undirected,1
+Gud,Nils Vik,Undirected,10
+Nils Vik,lian,Undirected,1
+Gud,lian,Undirected,2
+Jesus,Sigurd,Undirected,1
+Gud,Jesus,Undirected,1
+Hans Berget,Sigurd,Undirected,4
+Berith,Hans Berget,Undirected,5
+Berith,Gud,Undirected,1
+Hans Berget,Nils Vik,Undirected,6
+Nils Vik,kvelds,Undirected,1
+Sigurd,kvelds,Undirected,1
+Berith,Thore,Undirected,3
+Gud,Thore,Undirected,2
+Berith,Høver,Undirected,1
+Heisan,Sigurd,Undirected,1
+Heisan,lian,Undirected,1
+Jesu,Sigurd,Undirected,1
+Kristlieb Gotthelf,Sigurd,Undirected,1
+Adelaide,Grøndal,Undirected,1
+Grøndal,Sigurd,Undirected,12
+Grøndal,Presten,Undirected,3
+Nils Vik,Presten,Undirected,1
+Nils Vik,ban,Undirected,2
+Gud,Kristi kjærlighed,Undirected,1
+Ary Scheffer,Augustin,Undirected,1
+Augustin,Monika,Undirected,1
+Adelaide Grøndal,Monika,Undirected,1
+Grøndal,Viks,Undirected,1
+Presten,Viks,Undirected,1
+Grøndal,Nils Vik,Undirected,10
+Nils,Sigurd,Undirected,4
+Nils Vik,Philip II,Undirected,1
+Philip II,stakkel,Undirected,1
+Sigurd,stakkel,Undirected,1
+Gud,herrens,Undirected,1
+Sigurd,skeedo,Undirected,1
+Nestø,Nils Vik,Undirected,1
+Nestø,Sigurd,Undirected,1
+Nils,Vik,Undirected,2
+Paulus,Vik,Undirected,1
+Gud,Paulus,Undirected,1
+Gud,Jesu,Undirected,3
+Jesu,Marias,Undirected,1
+Marias,Nils Vik,Undirected,1
+Grøndal,Vik,Undirected,2
+Grøndal,Gud,Undirected,2
+Gud,Kristi,Undirected,1
+Kristi,Sigurd,Undirected,1
+Hallings,Nils Vik,Undirected,1
+Lars,Sigurd,Undirected,8
+Nils Vik,presten,Undirected,7
+Kristi,presten,Undirected,2
+Esau,Nils,Undirected,1
+Esau,Gud,Undirected,1
+Esau,Sigurd,Undirected,1
+Anders husmand,Geirmund,Undirected,1
+Anders,Geirmund,Undirected,1
+Anders,Gud,Undirected,1
+Anders,Eggen,Undirected,1
+Anders,berging,Undirected,1
+Sigurd,sjø,Undirected,2
+Sigurd,dragsuen1,Undirected,1
+Sigurd,Sørbøs,Undirected,1
+Hans Berget,Nils,Undirected,1
+Gud,Nils,Undirected,1
+Sigurd,bent,Undirected,1
+Ole,bent,Undirected,1
+lien,sjø,Undirected,1
+Sigurd,lien,Undirected,1
+Gud,pleier ørroten,Undirected,1
+Mari,Sigurd,Undirected,1
+Sigurd,iveien,Undirected,3
+Mari Lien,Sigurd,Undirected,2
+Don Carlos,Srgurd,Undirected,1
+Don Carlos,Sigurd,Undirected,1
+Eboli,Sigurd,Undirected,1
+Eboli,don Carlos,Undirected,1
+Sigurd,Sofie Lønning,Undirected,1
+Sofie,høire,Undirected,1
+Amors,høire,Undirected,1
+Amors,Sofie,Undirected,1
+Sofie,Sofie Lønning,Undirected,1
+Elise Sem.,Sofie Lønning,Undirected,1
+Lisa,mi,Undirected,1
+Grøndal,mi,Undirected,1
+Grøndal,Sofie,Undirected,4
+Olsen,Sofie,Undirected,1
+Gud,Olsen,Undirected,1
+Gud,løier,Undirected,1
+Grøndal,løier,Undirected,1
+Grøndal,Lisa mi,Undirected,1
+Caroline Pink,Lisa mi,Undirected,1
+Authenrieths,Caroline Pink,Undirected,1
+Authenrieths,Grøndal,Undirected,1
+Caroline,Lisa,Undirected,2
+Caroline,Nils Vik,Undirected,1
+Nils Vik,Olsen,Undirected,1
+Gud,Sigurd Carlsen,Undirected,1
+Dot,lian,Undirected,1
+Dot,løitnant Bek,Undirected,1
+Sigurd Carlsen,løitnant Bek,Undirected,1
+Mads,Sigurd Carlsen,Undirected,1
+Mads,Sigurd,Undirected,1
+Sofie,bent,Undirected,1
+Gud,borren,Undirected,1
+Nils Vik,Sofie,Undirected,1
+Caroline,Sofie,Undirected,1
+Gud,Sofie,Undirected,2
+Sofie,borren,Undirected,1
+Sofie,hanne,Undirected,1
+Sigurd,Sofie,Undirected,40
+Sigurd,taug,Undirected,1
+ano,tillive,Undirected,1
+Sigurd dreiede,rosse,Undirected,1
+Sigurd dreiede,sjø,Undirected,1
+Sofie,sjø,Undirected,1
+Sofie,seilet,Undirected,1
+Anders,Sigurd,Undirected,5
+Grøndal,Johan Bunyans,Undirected,1
+Alfhild,lien,Undirected,1
+Alfhild,Tomse-Alfhild,Undirected,1
+J,Tomse-Alfhild,Undirected,1
+Hans Berget,J,Undirected,1
+Sigurd,lian,Undirected,5
+Sigurd,elven,Undirected,2
+Alfhild,Sigurd,Undirected,7
+Sigurd,guts,Undirected,1
+Alfhild,guts,Undirected,1
+Alfhild,Sofie,Undirected,1
+Alfhild,Chopin,Undirected,1
+Chopin,Gud,Undirected,1
+Olberg,Sigurd,Undirected,6
+Sigurd eiede,gutten,Undirected,1
+Ahnfelts,Janzons,Undirected,1
+Ahnfelts,Sigurd,Undirected,1
+Grøndal,Janzons,Undirected,1
+Hanses,Sigurd,Undirected,1
+Hans,Janzons,Undirected,1
+Janzons,Nils Vik,Undirected,1
+Hans Berget,Janzons,Undirected,1
+Anton,Janzons,Undirected,1
+Anton,Vik,Undirected,1
+Gud,Hans Berget,Undirected,1
+Gud,Olaves Persen,Undirected,1
+Gud,Martin Luther,Undirected,1
+Esaias,Martin Luther,Undirected,1
+Esaias,Ulena,Undirected,1
+Ulena,Usilikatses,Undirected,1
+Ujokebed,Usilikatses,Undirected,1
+Ujokebed,banlysingen,Undirected,1
+Ulena,banlysingen,Undirected,1
+Ujokebed,Ulena,Undirected,1
+Hans Berget,Tomsealfhild,Undirected,1
+Nils Vik,Tomsealfhild,Undirected,1
+Gud,presten,Undirected,1
+Gud,tillivs,Undirected,1
+Hans,Tomsealfhild,Undirected,1
+Hans,Thore Indviken,Undirected,1
+Hans Berget,Thore Indviken,Undirected,2
+Hans Berget,presten,Undirected,1
+Alfhild,Grøndal,Undirected,1
+Grøndal,somme,Undirected,1
+Alfhild,Dot,Undirected,1
+Dot,Hans Berget,Undirected,1
+Alfhild,Hans,Undirected,1
+Alfhild,Nils Vik,Undirected,1
+Sigurd,presten,Undirected,1
+Sigurd,Vik,Undirected,1
+Vik,presten,Undirected,1
+ban,presten,Undirected,1
+Hans,ban,Undirected,1
+Hans,Sigurd,Undirected,2
+Hans,Nils Vik,Undirected,2
+Berith,Nils Vik,Undirected,1
+Hans Bei,Nils Vik,Undirected,1
+Grøndal,Hans Bei,Undirected,1
+Hans,Kristum,Undirected,1
+Hans,Hans Berget,Undirected,1
+Nils Vik,liun,Undirected,1
+lian,liun,Undirected,1
+Hans Berget,ban,Undirected,1
+Ingemann,Sigurd,Undirected,1
+Asbjørnsens,Sigurd,Undirected,1
+Homer,Sigurd,Undirected,1
+Cutius,Homer,Undirected,1
+Cutius,Lassons,Undirected,1
+Lassons,Sigurd,Undirected,1
+Horats,Theokrit,Undirected,1
+Sigurd,Theokrit,Undirected,1
+Dot,Grøndal,Undirected,1
+Carl Johans gade,Holm,Undirected,1
+Nils Vik,theol. Eilertsen,Undirected,1
+Eilertsen,Nils Vik,Undirected,2
+Gud,Hegels,Undirected,1
+Conrad Berg,Gud,Undirected,2
+Berg,Conrad,Undirected,1
+Conrad,Gretchen,Undirected,1
+Gretchen,katekiseret,Undirected,1
+Faust,katekiseret,Undirected,1
+Gud,Kakov,Undirected,1
+Kakov,ayabov,Undirected,1
+Holm,ayabov,Undirected,1
+Athenes,Holm,Undirected,1
+Fredrik Holm,harcellas,Undirected,1
+Lisa,huldrens,Undirected,1
+Lisa,aleine,Undirected,1
+aleine,poletie,Undirected,1
+hennes,poletie,Undirected,1
+Henriette,Rungs,Undirected,1
+Henriette,Nissens,Undirected,1
+Gøthes,Nissens,Undirected,1
+Gøthes,Thal,Undirected,1
+Eros,Henriette alt,Undirected,1
+Constance,Henriette alt,Undirected,1
+Carlsen,Constance,Undirected,2
+Carlsen,Henriette,Undirected,3
+Constance,Henriette,Undirected,1
+Eilertsen,Oline,Undirected,1
+Gud,theol. Eilertsen,Undirected,1
+Scriver,Scrivers,Undirected,1
+Carlsen,Chr. Scriver,Undirected,1
+Holm,edite,Undirected,1
+Conrad Berg,edite,Undirected,1
+Conrad Berg,Frederik Holm,Undirected,1
+Nils Vik,fars,Undirected,1
+Grundtvig,Kristus,Undirected,1
+Grundtvig,Thor fordum,Undirected,1
+Arne,Bjørnsons,Undirected,1
+Gesenius’,fars,Undirected,1
+Gud,fars,Undirected,1
+Holm,Søren Kierkegårds,Undirected,1
+Hebe,desl,Undirected,1
+Schiller,desl,Undirected,1
+Goethe,Schiller,Undirected,1
+Berg,Carlsen,Undirected,3
+Jens,råbte Holm,Undirected,1
+Holm,witzer,Undirected,1
+Holm,Marie,Undirected,3
+Holm,Jens,Undirected,13
+Carlsen,Holm,Undirected,4
+Berg,Jens,Undirected,3
+Jens,Jenses,Undirected,1
+Jens Petter Nicolai Jenssen,Jenses,Undirected,1
+Holm,Jens Petter Nicolai Jenssen,Undirected,1
+Conrad Berg,Holm,Undirected,2
+Jens,Sigurd,Undirected,7
+Jenses,didhen,Undirected,1
+Jens,didhen,Undirected,1
+Carlsen,Jens,Undirected,3
+Carlsen,Kakov,Undirected,1
+Conrad Berg,hans,Undirected,1
+Jens,hans,Undirected,1
+Holm,dandy,Undirected,1
+Conrad Berg,thut gut,Undirected,1
+thut gut,wenn mann---------,Undirected,1
+Carlsen,Marie,Undirected,1
+Jens,Marie,Undirected,1
+Jens,Salomons,Undirected,1
+Eva,Sigurd,Undirected,1
+Carlsen en don Quixote,Jens,Undirected,1
+Es,Jens,Undirected,1
+Berg,Holm,Undirected,1
+Holm,Sigurd,Undirected,18
+Marie,Sigurd,Undirected,1
+Jens,consequens,Undirected,1
+Romeo,consequens,Undirected,1
+Romeo,Rosalina,Undirected,1
+Julia,Rosalina,Undirected,1
+Julia,Romeo,Undirected,2
+Julie,Romeo,Undirected,2
+Jens,iterumque,Undirected,1
+don,iterumque,Undirected,1
+Berg,Sigurd,Undirected,2
+Berg,sagdejens,Undirected,1
+Praktiska,lifvet,Undirected,1
+lifvet,lockar,Undirected,1
+lockar,stockar,Undirected,1
+Carl Johans,stakkars,Undirected,1
+Gud,stakkars,Undirected,1
+Gud,jøje,Undirected,1
+jøje,stakkar,Undirected,1
+Jens,Stakkars,Undirected,1
+Hys,Jens,Undirected,1
+Carlsen,Sigurd,Undirected,4
+Holm,Jenses,Undirected,1
+Jenses,Sigurd,Undirected,1
+Eilertsen,Sigurd,Undirected,12
+Carl Johans gade,Eilertsen,Undirected,1
+Eilertsen,N.,Undirected,2
+Alfhild,Eilertsen,Undirected,1
+John,Sigurd,Undirected,1
+Alfhild,John,Undirected,1
+Eilertsen,Hans Berget,Undirected,2
+Eilertsen,em ham,Undirected,1
+Alfhild,Hans Berget,Undirected,1
+Carlsen,Gud,Undirected,3
+Eilertsen,Gud,Undirected,2
+Carlsen,Hallberg,Undirected,2
+Carlsen,Grøndal,Undirected,1
+Sigurd,Sosseii,Undirected,1
+Ilendes,erisens,Undirected,1
+Hallberg,Sofie,Undirected,8
+Hallberg,Sigurd,Undirected,9
+Carlsen,Sofie,Undirected,3
+Sigurd,Sofie taug,Undirected,1
+Grøndal,taug,Undirected,1
+Sigurd,Sossen,Undirected,1
+Sossen,toddy,Undirected,1
+Sofie,Toddyen,Undirected,1
+Sigurd,cicerone,Undirected,1
+cicerone,toddyen,Undirected,1
+Sofie,gjespe,Undirected,1
+gabe,gjespe,Undirected,1
+Sofie,sehak,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Hedevig,jag,Undirected,1
+Hedevig,Lemberg,Undirected,1
+S.,sancta simplicitas,Undirected,1
+S.,Søren Kierkegård,Undirected,1
+Sofie,Søren Kierkegård,Undirected,1
+Sofie,de libro arbitrio,Undirected,1
+Berg,auribus arrectis,Undirected,1
+Hallberg,din,Undirected,1
+Sofie,din,Undirected,1
+Carlsen,Hedevig Lembergs,Undirected,1
+Holm,Sigurd taug,Undirected,1
+Hedevig,Sigurd,Undirected,3
+Gud,Hedevig,Undirected,1
+Gud,Løvdal,Undirected,1
+Holm,Løvdal,Undirected,4
+Bravo,Løvdal,Undirected,1
+Hedevig,Løvdal,Undirected,3
+Sigurd,frøken Eng,Undirected,2
+Kjerulfs,Sigurd,Undirected,1
+Kjerulfs,Schubert,Undirected,1
+Schubert,Sigurd,Undirected,1
+Sigurd,månens,Undirected,1
+Hedevig Lemberg,Sigurd,Undirected,1
+frøken Eng,liun,Undirected,1
+Bergliot Eng,Hedevig,Undirected,1
+Berg,Søren Kierkegård,Undirected,1
+Cæsar,Kierkegård,Undirected,1
+Bergliots,Carlsen,Undirected,1
+Carlsen,Frederik Holm,Undirected,1
+Sola,skuggan,Undirected,1
+notta,skuggan,Undirected,1
+Didelum,carriere,Undirected,1
+Didelum,didelum,Undirected,1
+didelum,san,Undirected,1
+Frederik Holm,Holm,Undirected,1
+Carlsen,Conrad Berg,Undirected,1
+Conrad Berg,Conradine,Undirected,2
+Conrad Berg,Frederik,Undirected,2
+Carlsen,Frederik,Undirected,1
+Frederik,Gud,Undirected,1
+Conrad Berg,lise,Undirected,1
+Carlsen,frøken Bergliot,Undirected,1
+Bergliot,frøken Bergliot,Undirected,1
+Gud,klein,Undirected,1
+Martha,iveien,Undirected,2
+Gud,Martha,Undirected,1
+Lucas,Meyer,Undirected,1
+Laud,Lucas,Undirected,1
+Laud,Sofie,Undirected,1
+Frederik Holm,Preus,Undirected,1
+Holm,candidat Sigurd Carlsen,Undirected,1
+Eng,dot,Undirected,1
+Holm,Sofie,Undirected,3
+Frederik Holm,Sofie,Undirected,1
+Eng Sigurds,Sofie,Undirected,1
+Eng Sigurds,Sigurd,Undirected,1
+Bergliot Eng,Sigurd,Undirected,2
+Eng,Sigurd,Undirected,4
+Sigurd,crisis,Undirected,1
+Frederik Holm,crisis,Undirected,1
+Holm,fru Engs,Undirected,1
+Eng,fru Engs,Undirected,1
+Eng,Sigurd Carlsen,Undirected,1
+Bergliot,Holm,Undirected,3
+Bergliot,Eng,Undirected,7
+Bergliot,Stakkars,Undirected,2
+Eng,Holm,Undirected,1
+Martha,Prens,Undirected,1
+Martha,Sigurd,Undirected,3
+Preus,ivei,Undirected,2
+Frederik,Martha,Undirected,1
+Sigurd,liun,Undirected,1
+Gud,Melanchton,Undirected,2
+N.,candidat Eilertsen,Undirected,1
+Gud,John Berg,Undirected,1
+Anne,Sigurd,Undirected,1
+Sigurd,liendes,Undirected,1
+Eline,Hu,Undirected,1
+Bergliot,Einar Thambeskjelver,Undirected,1
+Gud,candidat,Undirected,1
+Bergliot,Sigurd,Undirected,10
+Bergliot,laud,Undirected,2
+Eline,Eng,Undirected,2
+Bergliot,Eline,Undirected,1
+Bergliot,T.,Undirected,1
+Eline,T.,Undirected,1
+Bergliot,T.’s,Undirected,1
+Sigurd,T.’s,Undirected,1
+Sigurd,gutten,Undirected,1
+Sigurd,påny,Undirected,1
+Bergliot,Gud,Undirected,2
+Gud,signe,Undirected,1
+Frederik Holm,Sigurd,Undirected,1
+Selvig,theol. Eilertsen,Undirected,1
+Hallberg,pulverheks,Undirected,1
+Holm,candidat Carlsen,Undirected,1
+Hallberg,candidat Carlsen,Undirected,1
+Eilertsen,Eng,Undirected,1
+Eng,slige,Undirected,1
+Månens,Sigurd,Undirected,1
+Hornelens,Sigurd,Undirected,1
+Sigurd,pleiede,Undirected,1
+Anders husmand,Sigurd,Undirected,2
+Gud,trur,Undirected,1
+Lars Sørholt,trur,Undirected,1
+Anders,Lars,Undirected,2
+Bergliot,Sigurd 12to Marts,Undirected,1
+Sigurd,fru Hallberg,Undirected,2
+Gud,Mellberg,Undirected,1
+Carlsen,Nils Vik,Undirected,1
+A,f. ex.,Undirected,1
+Elvira,Sigurd,Undirected,1
+Constance,Elvira,Undirected,1
+Constance,Milla,Undirected,1
+Amalie,Milla,Undirected,1
+Frøken Malle,Sigurd,Undirected,1
+Sigurd,candidat,Undirected,5
+Elvire,hr. Carlsen,Undirected,1
+Milla,frøken Elvire,Undirected,1
+Malle,frøken Elvire,Undirected,1
+Candidat Eilertsen,ifjor,Undirected,1
+Grundtvig,ifjor,Undirected,1
+Grundtvig,Sigurd,Undirected,1
+Constance,Sigurd,Undirected,1
+Malle,Sigurd,Undirected,2
+Eliezer,Malle,Undirected,1
+Milla,Sigurd,Undirected,2
+Bakke,Dot,Undirected,1
+Jens,Jens Ytterviken,Undirected,1
+Svanhild,kritika,Undirected,1
+Falk,Svanhild,Undirected,1
+Amalie,Sigurd,Undirected,1
+Carlsen,candidat,Undirected,1
+Adieu,Sigurd,Undirected,1
+Milla,dokter Bakke,Undirected,1
+Gud,Milla,Undirected,1
+Constance,Vira,Undirected,1
+Milla,Vira,Undirected,1
+Carlsen,Milla,Undirected,1
+Constance,Elvire,Undirected,1
+Constance,tante Malles,Undirected,1
+Dokter,Sigurd,Undirected,1
+anathema,candidat,Undirected,1
+Heine,Jesu,Undirected,1
+Ole Dalsberg,Sigurd,Undirected,1
+Eng,Ole Dalsberg,Undirected,1
+Bergliot,moro,Undirected,1
+Eng,sæterjenten,Undirected,1
+Eng,honneurs,Undirected,1
+Bergliot,liun,Undirected,1

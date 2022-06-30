@@ -1,0 +1,171 @@
+source,target,type,weight
+Emanuels,Hansine,Undirected,1
+Emanuel,Hansine,Undirected,55
+Anders Jørgen,Hansine,Undirected,2
+Anders Jørgen,Emanuel,Undirected,1
+Hansine,Hassing,Undirected,2
+Line,Maren Nilen,Undirected,1
+Grete,Maren Nilen,Undirected,1
+Emanuel,Sigrid,Undirected,6
+Sigrid,Tyksak,Undirected,1
+Emanuel,Niels,Undirected,12
+Niels,Provst Tønnesens,Undirected,1
+Emanuel,Karlen,Undirected,2
+Gutten,Niels,Undirected,2
+Niels,Søren,Undirected,5
+Mortensen,Villing,Undirected,1
+Emanuel,Nielsen,Undirected,1
+Hansen,Nielsen,Undirected,1
+Kong Frederik Folkekær,P. B.,Undirected,1
+Emanuel,Svend Øl,Undirected,3
+Per Brændevin,Svend Øl,Undirected,3
+Per Brændevin,Villing,Undirected,1
+Emanuel,Villing,Undirected,1
+Emanuel,Hansen,Undirected,2
+Hansen,lutter Pral,Undirected,1
+Karle,Niels,Undirected,1
+Emanuel,Karle,Undirected,1
+Emanuel,lians,Undirected,1
+Abelone,Anton,Undirected,1
+Anton Antonsen,Mortensen,Undirected,1
+Emanuel,Mortensen,Undirected,1
+Anton,Karl,Undirected,1
+Elias,Villing,Undirected,1
+Aggerbølles,Villing,Undirected,2
+Didrik Jacobsen,Villing,Undirected,1
+Villing,Væver Hansens,Undirected,1
+Gud,Sophie,Undirected,2
+Abelone,Niels,Undirected,4
+Emanuel,liam,Undirected,1
+Graad,liam,Undirected,1
+Graad,Gutten,Undirected,1
+Gutten,Sigrid,Undirected,1
+Gud,Niels,Undirected,1
+Emanuel,Gutten,Undirected,17
+Gud,Hansine,Undirected,3
+Emanuel,Gud,Undirected,3
+Hassing,Niels,Undirected,1
+Abelone,Hansine,Undirected,3
+Abelone,Sigrid,Undirected,1
+Emanuel,Hassing,Undirected,9
+Emanuel,Gut,Undirected,1
+Gutten,Hansine,Undirected,6
+Charlatans,Gutten,Undirected,1
+Hansine,Sigrid,Undirected,9
+Dagny,Sigrid,Undirected,3
+Abelone,Dagny,Undirected,1
+Emanuel,Mormo,Undirected,1
+Per Persens,Sigrid,Undirected,1
+Hassing,Velløv,Undirected,2
+Søren,Velløv,Undirected,1
+Søren,saagar,Undirected,2
+Emanuel,Kristen Hansen,Undirected,1
+Emanuel,Fatter,Undirected,1
+Hansine,Søren,Undirected,1
+Abelone,Gutten,Undirected,1
+Abelone,Emanuel,Undirected,6
+Emanuel,Søren Røgter,Undirected,2
+Ane,Hansine,Undirected,11
+Gutten,Jærnseng,Undirected,1
+Karlen,Niels,Undirected,1
+Else,Hansine,Undirected,4
+Abelone,Else,Undirected,2
+Anders Jørgen,Gutten,Undirected,1
+Hansen,Maren Smeds,Undirected,1
+Jesu,Maren,Undirected,1
+Mutter,Søren,Undirected,1
+Emanuel,Søren,Undirected,2
+Else,Emanuel,Undirected,3
+Else,Gutten,Undirected,1
+Gud,Gutten,Undirected,2
+Anders Jørgen,Ole,Undirected,1
+Else,Jøsses,Undirected,1
+Hansine,Jøsses,Undirected,1
+Alfred,Emanuel,Undirected,1
+Hansted,Zoff,Undirected,1
+Emanuel,Tønnesen,Undirected,1
+Emanuel,Frøken Tørnæsens,Undirected,3
+Frøken Tørnæsens,bori,Undirected,1
+Alfred,lille Alfred,Undirected,1
+Emanuel,Hansted,Undirected,2
+Frøken Tønnesen,Torm,Undirected,1
+Aaens,Emanuel,Undirected,1
+Emanuel,Frøken Tønnesen,Undirected,4
+Emanuel,hassingske,Undirected,1
+Atlaskes,Hassing,Undirected,1
+Hassing,Joachim,Undirected,3
+Hansted,Hassing,Undirected,1
+Hansted,Joachim,Undirected,2
+Emanuel,Joachim,Undirected,3
+Hansted,Hr. Hansted,Undirected,1
+Emanuel,Frøken Ragnhild,Undirected,1
+Betty,Hassing,Undirected,1
+Frøken Ragnhild,Jærnsko,Undirected,1
+Gutten,Hassing,Undirected,1
+Gutten,Joachim,Undirected,1
+Hansine,Joachim,Undirected,1
+Kristus,Marcus’,Undirected,1
+Niels,Søren Røgter,Undirected,1
+Hansine,Søren Røgter,Undirected,4
+Frøken Tønnesen,Hassing,Undirected,1
+Hassing,Søren Røgter,Undirected,1
+Søren,Søren Røgter,Undirected,1
+Abelone,Søren,Undirected,2
+Emanuel,Provst Tønnesen,Undirected,1
+Gerda,Hassing,Undirected,1
+N. Damgaard,Niels,Undirected,1
+Arne,Niels,Undirected,1
+Arne,Bjørnstjerne,Undirected,1
+Byghahn,Rasmus Jørgen,Undirected,1
+Emanuel,Rasmus Jørgen,Undirected,1
+Hansine,Rasmus Jørgen,Undirected,1
+Gud,véd,Undirected,1
+Maren Smeds,Niels,Undirected,2
+Maren,Maren Smeds,Undirected,1
+Maren,Sidse,Undirected,1
+Dagny,Hansine,Undirected,1
+Mo’,Sigrid,Undirected,1
+Emanuel,Ole Søren,Undirected,1
+Per,Svend,Undirected,1
+Gud,har,Undirected,1
+Emanuel,Svend,Undirected,2
+Emanuel,Per,Undirected,3
+Emanuel,Væver Hansen,Undirected,2
+Emanuel,nyssens,Undirected,1
+Hans Jensen,Jens Hansen,Undirected,1
+Emanuel,aarvaagent,Undirected,1
+Emanuel,Jesu,Undirected,1
+Emanuel,horte,Undirected,1
+Emanuel,Karl,Undirected,1
+Karl,Niels,Undirected,1
+Emanuel,Maren,Undirected,1
+Maren,Niels,Undirected,1
+Færge-Jørgen,Hansine,Undirected,1
+Emanuel,Sofie,Undirected,3
+Gud,Sofie,Undirected,1
+Bernhard,Emanuel,Undirected,1
+Emanuel,Fru Aggerbølles,Undirected,1
+Ane,Emanuel Hansines,Undirected,1
+Ane,Emanuel,Undirected,5
+Ane,Mathias,Undirected,1
+Mathias,Matthias,Undirected,1
+Hansine,Mathias,Undirected,1
+Hansen,Ole Madsen,Undirected,1
+Emanuel,Niels’,Undirected,1
+Emanuel,Jens,Undirected,1
+Jens,Tønnesen,Undirected,1
+Bravo,Emanuel,Undirected,1
+Emanuel,Ole Madsen,Undirected,2
+Ole Madsen,Provst Tønnesen,Undirected,1
+Hansen,Provst Tønnesen,Undirected,1
+Emanuel,Provst Tørnæsens,Undirected,1
+Dagny,Emanuel,Undirected,1
+Emanuel,Graad,Undirected,1
+Betty,Emanuel,Undirected,1
+Jørgensen,Tagemann,Undirected,1
+Jørgensen,Winthers,Undirected,1
+Betty,Kai,Undirected,1
+Frøken Tønnesen,Kai,Undirected,1
+Hansine,Ole,Undirected,1
+Else,Ole,Undirected,1
+Ane,Else,Undirected,1

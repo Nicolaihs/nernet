@@ -1,0 +1,139 @@
+source,target,type,weight
+JOO	,Madam Christensen,Undirected,1
+Madam Christensen,Skomager Christensen,Undirected,1
+Christensen,laane Christensen,Undirected,1
+Christensen,Petersen,Undirected,8
+Petersen,Thora Christensen,Undirected,1
+Christian Hansen,Marie,Undirected,2
+Christian,Marie,Undirected,2
+Christensen,Hansens,Undirected,1
+Christensen,Nielsen,Undirected,2
+Madam Christensen,Nielsen,Undirected,2
+Madam Christensen,saamænd Petersen,Undirected,1
+Christensen,Skaal,Undirected,1
+Madam Christensen,Petersen,Undirected,6
+Christensen,Hr. Petersen,Undirected,1
+Christensen,Gry,Undirected,1
+Gry,Hr. Christensen,Undirected,1
+Hr. Christensen,Nielsen,Undirected,1
+Hr. Christensen,Petersen,Undirected,1
+Christensen,leende,Undirected,1
+Christensen,Peter Steen,Undirected,1
+Christensen,Typograf Nielsen,Undirected,1
+Svend de fange,lien,Undirected,1
+Fanny,Skomager Christensen,Undirected,1
+Hans Mortensen,J,Undirected,1
+Fanny,Thora,Undirected,23
+Madam Poulsen,Petersen,Undirected,1
+Petersen,Thora,Undirected,14
+Hansen,Marie,Undirected,21
+Hansen,Peter Steen,Undirected,2
+Hansen,Johannes,Undirected,1
+Johanne,Johannes,Undirected,1
+Johanne,Thora,Undirected,14
+Johanne,Skomager Christensen,Undirected,1
+Peter Steen,Thora,Undirected,1
+Peter Steen,Petersen,Undirected,2
+Johanne,Peter Steen,Undirected,3
+Petersen,Steen,Undirected,4
+Johanne,Mo,Undirected,1
+Johanne,Petersen,Undirected,7
+Steen,Thora,Undirected,1
+Gud,véd,Undirected,6
+Johanne,liun,Undirected,1
+Fanny,liun,Undirected,1
+Fanny,Johanne,Undirected,14
+Christensen,Fatter,Undirected,1
+Fatter,Johanne,Undirected,1
+Fanny,Mutter,Undirected,1
+Mutter,Petersen,Undirected,1
+Fanny,Madam Christensen,Undirected,10
+Fanny,Peter Ravns,Undirected,1
+Petersen,Trine,Undirected,1
+Christensen,Johanne,Undirected,5
+Christensen,Thora,Undirected,5
+Madam Christensen,Thora,Undirected,4
+Ragnhilds,Stig Hvide,Undirected,1
+Petersen,Skomager Tokkerups,Undirected,1
+Dyrings,Skomager Tokkerups,Undirected,1
+Fanny,Petersen,Undirected,17
+Johanne,Madam Christensen,Undirected,5
+Petersen,Ragnhilds,Undirected,1
+Gud,Stig,Undirected,1
+Petersen,Svend Dyring,Undirected,1
+Ivar,Svend Dyring,Undirected,1
+Ivar,Stig Hvide,Undirected,1
+Petersen,Stig Hvide,Undirected,1
+Byrge,Petersen,Undirected,1
+Byrge,Fanny Regise,Undirected,1
+Frøken Møller,Lumbye,Undirected,1
+Frøken Møller,Thora,Undirected,6
+Kusk,Thora,Undirected,1
+Helts,Thora,Undirected,3
+Hansen,Madam,Undirected,1
+Frandsen,Hansen,Undirected,1
+Christensen,Madam Christensen,Undirected,1
+Henrik,cher,Undirected,1
+Henrik,Pernille,Undirected,2
+Henrik,Kolumbine,Undirected,1
+Pernille,Thora,Undirected,1
+Gud,Thora,Undirected,3
+Fanny,Frøken Jørgensen,Undirected,7
+Fanny,Hr. Petersen,Undirected,1
+Frøken Christensen,Hr. Petersen,Undirected,1
+Madam Christensen,Madam Nielsen,Undirected,1
+Madam Nielsen,Petersen,Undirected,1
+Marie,Petersen,Undirected,4
+Fanny,Kasinos,Undirected,1
+Flun,Gud,Undirected,1
+Fanny,Frøken Jensen,Undirected,1
+Frøken Christensen,Frøken Jørgensen,Undirected,1
+Bech,Fanny,Undirected,1
+Fanny,Hr. Guldberg,Undirected,1
+Frøken Jørgensen,Hr. Guldberg,Undirected,1
+Hr. Guldberg,Mefistofeles,Undirected,1
+Guldberg,oglo,Undirected,1
+Jomfru Hansen,oglo,Undirected,1
+Fanny,Jomfru Hansen,Undirected,4
+Fanny,Lotte,Undirected,1
+Johanne,Pralhans,Undirected,1
+Petersen,véd,Undirected,1
+Hansen,Petersen,Undirected,1
+Madam Christensen,Pibeler,Undirected,1
+Hansen,Thora,Undirected,13
+Marie,Thora,Undirected,26
+Christensen,Madamen,Undirected,1
+Fanny,Madamen,Undirected,1
+Johanne,Marie,Undirected,3
+Frøken Jørgensen,Hansen,Undirected,1
+Fanny,Marie,Undirected,2
+Fanny,Gud,Undirected,1
+Frøken Jørgensen,Gud,Undirected,1
+Frøken Jørgensen,Kristian,Undirected,1
+Fanny,Kancelliraad Weldings,Undirected,1
+Fanny,Hansen,Undirected,4
+Boyes,Christian Winthers,Undirected,1
+Boyes,Ewalds,Undirected,1
+Ewalds,Volmer,Undirected,1
+Tove,Volmer,Undirected,1
+Gurre,Tove,Undirected,1
+Principal,Thora,Undirected,1
+Marie,gry,Undirected,1
+Thora,Vilhelms,Undirected,1
+Marie,anny,Undirected,1
+Christensen,Fanny,Undirected,1
+Petersen,Skovgaard,Undirected,2
+Fanny,Skovgaard,Undirected,1
+Frøken Christensen,Skovgaard,Undirected,1
+Fanny,Hr. Skovgaard,Undirected,2
+Alexander,Fanny,Undirected,1
+Alexander,Diogenes,Undirected,1
+Diogenes,Skovgaard,Undirected,2
+Fanny,tersen,Undirected,1
+Jeanne d,Johanne,Undirected,1
+Elvira,Fanny,Undirected,1
+Johanne,sis,Undirected,1
+Café,Johanne,Undirected,1
+Café,chantant,Undirected,1
+Christensen,Marie,Undirected,1
+raakold,stormO,Undirected,1

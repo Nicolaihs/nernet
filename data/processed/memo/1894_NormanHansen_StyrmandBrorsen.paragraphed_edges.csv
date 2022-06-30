@@ -1,0 +1,93 @@
+source,target,type,weight
+Brorsen,Egge,Undirected,1
+Agathe,Brorsen,Undirected,6
+Agathe,Robert Brorsen,Undirected,4
+Brorsen,Robert Brorsen,Undirected,5
+Brorsen,Son,Undirected,1
+Brorsen,Robert,Undirected,12
+Johnsen,Robert,Undirected,1
+Hr. Wahl,Robert,Undirected,5
+Eggert Wahl,Robert,Undirected,3
+Eggert Ansjos,Robert,Undirected,2
+Eggert,Eggert Ansjos,Undirected,1
+Eggert,Robert,Undirected,14
+Eggert,Sømands,Undirected,1
+Bien,Robert,Undirected,1
+Fregat,Robert,Undirected,1
+Robert,hans,Undirected,2
+Lulu,Robert,Undirected,18
+Jungmand,Lulu,Undirected,2
+Jungmand,Robert,Undirected,2
+Robert,iland,Undirected,4
+Robert,ase,Undirected,1
+Lulu,ase,Undirected,1
+Robert,praje,Undirected,1
+Susy,iland,Undirected,1
+Rheder,Robert,Undirected,2
+Orlogs,Robert,Undirected,3
+Eggert Wahl,Orlogs,Undirected,1
+Agathe,Robert,Undirected,129
+Himmeisbachs,Robert,Undirected,1
+Agathe,Himmeisbachs,Undirected,1
+Agathe,Orlogs,Undirected,1
+Robert,lat Agathe,Undirected,1
+Agathe,lat Agathe,Undirected,1
+Agathe,Jomfru Lind,Undirected,6
+Jomfru Lind,Robert,Undirected,5
+Donner,Jomfru Lind,Undirected,1
+Donner,Robert,Undirected,1
+Agathe,Wat,Undirected,1
+Gottes,Robert,Undirected,1
+Agathe,Gottes,Undirected,1
+Agathe,Hr. Brorsen,Undirected,2
+Carl Gustafs,Robert,Undirected,2
+Agathe,Eggert,Undirected,5
+Agathe,Lulu,Undirected,3
+Eggert,Hr. Wahl,Undirected,1
+Agathe,Wahl,Undirected,2
+La Platas,Robert,Undirected,1
+Hare,Robert,Undirected,1
+Agathe,hunfrøs,Undirected,1
+Robert,Robert Brorsen,Undirected,1
+Agathe,Mr. Brorson,Undirected,2
+Agathe,Graaden,Undirected,1
+Graaden,Robert,Undirected,1
+Gud,Robert,Undirected,3
+Agathe,Gud,Undirected,1
+Agathe,lille Agathe,Undirected,3
+Agathe,Victoria,Undirected,1
+Mrs. Percy,Robert,Undirected,4
+Lille Agathe,Robert,Undirected,1
+Agathe,Mrs.,Undirected,4
+Mrs.,Percy,Undirected,17
+Agathe,Percy,Undirected,4
+Eggert,Robert Brorsen,Undirected,1
+Agathe,Mrs. Percy,Undirected,5
+. Percy,Mrs. Percy,Undirected,1
+. Percy,Agathe,Undirected,1
+Mrs. Percy,Percy,Undirected,2
+Percy,s,Undirected,5
+Mrs.,Mrs. Percy,Undirected,1
+Agathe,Mr. Percy,Undirected,1
+Percy,Robert,Undirected,7
+Mrs.,Robert,Undirected,4
+Robert,s,Undirected,1
+Agathe,s,Undirected,2
+Mrs Percy,Robert,Undirected,1
+Almeria,Robert,Undirected,2
+Aggie,Robert,Undirected,1
+Agathe,Aggie,Undirected,1
+Aggie,Mrs. Percy,Undirected,1
+Mrs. Percy,Wight,Undirected,1
+Agathe,Wight,Undirected,1
+. Percy,Robert,Undirected,2
+Mr. Brorsen,Percy,Undirected,1
+Mr. Brorsen,Robert,Undirected,1
+. Percy,Percy,Undirected,1
+Agathe,Mrs Percy,Undirected,2
+Mrs Percy,s,Undirected,3
+Gud,s,Undirected,1
+Jack,Robert,Undirected,1
+Agathe,Jack,Undirected,1
+Brorsen,iland,Undirected,2
+Brisen,Robert,Undirected,1

@@ -1,0 +1,125 @@
+source,target,type,weight
+Somme,somme,Undirected,1
+Bendikte,Lise,Undirected,1
+Guds,Mama,Undirected,1
+Guds,Helleman,Undirected,1
+Gud,Helleman,Undirected,1
+Gud,Stuart,Undirected,1
+Gud,véd,Undirected,1
+Aager,Hagbarth,Undirected,1
+Hagbarth,Lucie,Undirected,1
+Hagbarth,Lucie Holter,Undirected,1
+Endehaar,Hagbarth,Undirected,1
+Gud,Madam Sørensen,Undirected,1
+Asen,Madam Nittier,Undirected,1
+Gud,Madam Jansen,Undirected,1
+Bagger,Hagbarth,Undirected,2
+Astrids,Kirsten Pige,Undirected,1
+Anders Tømmermand,Kirsten Pige,Undirected,1
+Carl Johan Jonathan Aaberg,Kaptein,Undirected,1
+Astrid,Mama,Undirected,1
+Astrid,Hagbarth,Undirected,5
+Kirsten,Papa,Undirected,1
+Astrid Åberg,Hagbarth,Undirected,1
+Astrid o,Hagbarth,Undirected,2
+Jakob,Rachel,Undirected,1
+Grim,Tande,Undirected,1
+Eilertsen,Tande,Undirected,1
+Bagger,Eilertsen,Undirected,1
+Hagbarth August Randulf Fris,Laudabilis præceteris,Undirected,1
+Astrid Aaberg,Eilif Skaar,Undirected,2
+Astrid,Eilif Skaar,Undirected,5
+Astrid Aaberg,Madam Nittier,Undirected,1
+Astrid,Hagbarth Fris,Undirected,1
+Astrid Aaberg,dyb,Undirected,1
+Far,Skaar,Undirected,1
+Frøken Aaberg,Gud,Undirected,1
+Guttorm,ifjor,Undirected,1
+Bertel,Morten,Undirected,1
+Gunnar,Morten,Undirected,1
+Gunnar,Knud,Undirected,1
+Guttorm,Knud,Undirected,1
+Akazie,Eilif,Undirected,1
+Astrid,Vedbend,Undirected,1
+Jasmin,Vedbend,Undirected,2
+Bjørnsons,Eilif Skaar,Undirected,1
+Astrid,Bjørnsons,Undirected,1
+Astrid,Rythme,Undirected,1
+Astrid,Kandidaten,Undirected,1
+Astrid,Kaptein Aabergs,Undirected,1
+Astrid,sorn,Undirected,1
+Hagbarth,sorn,Undirected,1
+Gretschel,Lucy min,Undirected,1
+Blaasyre,Rolf Elvig,Undirected,1
+frir,lian,Undirected,1
+Karstens,Wahl,Undirected,1
+Clotilde Mørk,Frøken Emma,Undirected,1
+Dandsens,Gud,Undirected,1
+Emma,Schawl,Undirected,1
+Emma,aa,Undirected,1
+Madam,Nitler,Undirected,1
+Holther,Madam Nittier,Undirected,1
+Holther,Jomfru Grøn,Undirected,1
+Gud,Madam Jonsen,Undirected,1
+Eilif Skaar,Madam Nitler,Undirected,1
+Karl,Madam Nitler,Undirected,1
+Eilif,Madam Nitler,Undirected,1
+Eilif Skaar,Madammen,Undirected,1
+.Madam Nitler,Graad,Undirected,1
+Astrid,Eilif,Undirected,7
+Apothekers,Eilif Skaar,Undirected,1
+Apothekers,Astrid Aaberg,Undirected,1
+Astrid Aaberg,Hagbarth Fris,Undirected,3
+Astrid,læno,Undirected,1
+Astrid,Gud,Undirected,1
+Eilif Skaar,Kaptein Aabergs,Undirected,1
+Fischer,Gud,Undirected,1
+Astrid,Kaptein Aaberg,Undirected,1
+Eilif,Maks,Undirected,1
+Eilif,Rolf Elvig,Undirected,1
+Eilif,Scepter,Undirected,1
+Adolf Brun,Eilif,Undirected,1
+Eilif,Skaar,Undirected,9
+Herf,Karsten,Undirected,1
+Bataillen,Herf,Undirected,1
+Beethovens,Eilif Skaar,Undirected,1
+Karsten,bravissimo,Undirected,1
+Eilif Skaar,Wahl,Undirected,2
+Jørgine Vadsker,Madam Nittier,Undirected,3
+Astrid,Jørgine Vadsker,Undirected,1
+Eilif,Fris,Undirected,1
+Skaar,kern,Undirected,1
+Jørgine Vadsker,Ssepter,Undirected,1
+Ellen,Kirsten Pige,Undirected,1
+Madam Nittier,helil,Undirected,1
+Eilif Skaar,cfterglemt,Undirected,1
+Eilif Skaar,Holten,Undirected,1
+Astrid,Skaar,Undirected,2
+Astrid,Holter,Undirected,1
+Konsulen,Madam Nittier,Undirected,1
+Hagbarth,Madam Nittier,Undirected,1
+Ghopins,c,Undirected,1
+Jesus,Mama,Undirected,1
+Gud,Lucy,Undirected,1
+Anders,Hagbarth,Undirected,1
+Jørgen Postbud,Kaptejnens,Undirected,1
+Jørgen,Kaptejnens,Undirected,1
+Astrid,Jørgen,Undirected,1
+Astrid,Jørgen Postbud,Undirected,1
+Astrid Aaberg,Gud,Undirected,1
+Astrid Aaberg,Eilif,Undirected,1
+Hagbarth Fris,Skaar,Undirected,1
+Astrid —,Hagbarth,Undirected,1
+Eilif Skaar,Skaar,Undirected,1
+Hagbarth Fris,Kandidaten,Undirected,1
+Eilif Skaar,Madam Nittier,Undirected,1
+Hiin,Vedbend,Undirected,1
+Ellen,Jørgine Vadsker,Undirected,1
+Karl,Madam Nittier,Undirected,1
+Astrid,Karl,Undirected,1
+Astrid,slig,Undirected,1
+Eilif Skaar,Hagbarth,Undirected,1
+Eilif,Eilif Skaar,Undirected,1
+Fris,Madam Nittier,Undirected,1
+Madam Jansen,Madam Nittier,Undirected,1
+Astrid,Kaptein,Undirected,1

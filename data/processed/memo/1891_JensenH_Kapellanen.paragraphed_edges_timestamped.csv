@@ -1,0 +1,585 @@
+source,target,timestamp
+Holger,Jens,12
+Jens,Marie,14
+Jens,Marie,20
+Hansen,Marie,20
+Hansen,Marie,20
+Hansen,Marie,20
+Hansen,Provst Jørgensen,21
+Provst Jørgensen,Provst Møller,21
+Martensen,Provst Møller,21
+Hansen,Jens,22
+Jens,Jenses,22
+Jenses,Rasmussen,22
+Jens,Rasmussen,22
+Jens,Rasmussen,22
+Marie,Nyrup,23
+Hansen,Jens,24
+Hansen,Thorsen,24
+Hansen,Thorsen,24
+Hansen,Jørgensens,24
+Dahlberg,theol. Dahlberg,26
+Marie,Pastor Hansens,27
+Berner,Marie,28
+Holger,Marie,28
+Anna Berner,Holger,28
+Holger,Marie,33
+Anna le,Holger,33
+Holger,Jenses,34
+Holger,Jens,34
+Anna,Jens,34
+Anna,Holger,34
+Jens,Marie,35
+Jens,Kudsk,35
+Anna,Marie,36
+Holger,Marie,37
+Hansen,Marie,37
+Anna,Holger,40
+Anna,Holger,40
+Anna,Holger,40
+Anna,Marie,40
+Anna,Holger,41
+Anna,Marie,41
+Anna,Marie,41
+Anna,Hansen,41
+Hansen,Holger,41
+Anna,Holger,41
+Anna,Guds,41
+Guds,Marie,41
+Dahlberg,Provst Møller,45
+Anna,Holger,47
+Hansen,Jens,49
+Birthe,lille Jens,51
+Birthe,Jens,51
+Hansen,Jens,51
+Anna,Holger,52
+Dahlberg,Marie,53
+Holger,Marie,59
+Holger,Marie,62
+Anna,lian,63
+Marie,Vedel,66
+Marie,Vedel,66
+Holger,Vedel,66
+Anna,Holger,66
+Anna,Vedel,66
+Holger,Vedel,67
+Ketty,Marie,74
+Holger,Marie,74
+Anna,Holger,74
+Hansen,Hr. Petersen,75
+Hr. Petersen,Provst Jørgensen,75
+Provst Jørgensen,Provst Møller,75
+Holger,Provst Møller,75
+Holger,Marie,75
+Anna,Marie,75
+Anna,Vedel,75
+Gud,Vedel,76
+Gud,Vedel,76
+Gud,Vedel,76
+Pastor Nyrup,Vedel,76
+Nyrup,Pastor Nyrup,76
+Halte-Ki,Nyrup,76
+Halte-Ki,Pastor Dahlberg,76
+Sofie,lille Sofie,77
+Ki’sten,Sofie,78
+Dahlberg,Sofie,79
+Madsen,Nyrup,81
+Dahlberg,Goddav,83
+Dahlberg,Goddav,83
+Dåhlberg,Kyd,84
+Gud,Madsen,87
+Gud,Madsen,87
+Dåhlberg,Gud,93
+Dåhlberg,harves,94
+Dåhlberg,Madsen,94
+Dahlberg,Madsen,96
+Dahlberg,Rasmus,96
+Josef,Rasmus,96
+Gud,Josef,96
+Dåhlberg,Gud,99
+Dåhlberg,Gud,99
+Dåhlberg,Maren Lisbeth,101
+Dåhlberg,Maren Lisbeth,101
+Dåhlberg,Maren Lisbeth,101
+Maren Lisbeth,saaden,101
+Halte-Ki,Madsen,103
+Anna,Holger,113
+Hansen,Rasmussen,116
+Hansen,Holger,116
+Anna,Holger,116
+Anna,Rasmussen,116
+Hansen,Vedel,118
+Anna,Holger,119
+Gud,Holger,133
+Jens,Kudsk,135
+Holger,Jens,137
+Holger,Jens,140
+Anna,Jens,142
+Halte-Ki,Maren Lisbeth,144
+Halte-Ki,Maren Lisbeth,144
+Anna,Jens,145
+Jens,Maren Lisbeth,146
+Gud,Jens,146
+Gud,Jens,146
+Maren Lisbeth,saad,149
+Svend,saad,149
+Svend,age,149
+Jens,saad,152
+Jens,Thorsen,152
+Holger,Madam Rasmussen,169
+Madam Rasmussen,Rasmussen,178
+Rasmussen,lian liar,180
+Gud,Rasmussen,182
+Madam Rasmussen,Rasmussen,187
+Holger,Petersen,188
+Holger,Thorsen,188
+Anna,Holger,195
+Holger,Vedel,195
+Petersen,foi-,200
+Hansen,Petersen,200
+Hansen,Petersen,200
+Dahlberg,Nyrup,208
+Rasmussen,Thorsen,211
+Augustin,Hr. Thorsen,217
+Grundtvig,Paulus,222
+Augustin,Paulus,222
+Rasmussen,Thorsen,224
+Gud,Hansen,228
+Pastor Nyrup,Provst Møller,235
+Gud,Holger,239
+Ketty,Marie,241
+Gud,Ketty,241
+Christian,Gud,241
+Anna,Holger,243
+Gud,Hansen,262
+Anna,Marie,268
+Gud,Marie,270
+Anna,Marie,271
+Holger,Marie,277
+Holger,Marie,280
+Anna,Holger,280
+Anna,Marie,281
+Anna,Gud,283
+Maria,Marie,284
+Ingeborg,Marie,287
+Ingeborg,Marie,287
+Anna,Ingeborg,287
+Anna,Ingeborg,287
+Ingeborg,Knud Larsen,287
+Karl —,Knud Larsen,287
+Ingeborg,Knud Larsen,288
+Ingeborg,Søgaarden,288
+Hans Jensen,Søgaarden,288
+Hans Jensen,Ingeborg,288
+Gud,Hans Jensen,290
+Gud,Ingeborg,290
+Hans Jensen,Ingeborg,292
+Ingeborg,Kornerup,292
+Hans Jensen,Kornerup,292
+Petersen,rask,295
+Proprietær Smith,rask,295
+Hr. Smith,Proprietær Smith,295
+Marie,Petersen,306
+Marie,Vedel,309
+Holger,Vedel,311
+Anna,Holger,311
+Gud,Holger,317
+Rasmus Andersen,Vedel,321
+Gud,Rasmus Andersen,321
+Holger,Marie,328
+Holger,Vedel,330
+Holger,Marie,334
+Marie,Vedel,339
+Marie,Vedel,339
+Gud,Vedel,345
+Gud,Marie,346
+Hans Jensen,Marie,348
+Ingeborg,Marie,348
+Madsen,Maren Lisbeth,351
+Madsen,Maren Lisbeth,351
+Madsen,Maren Lisbeth,352
+Madsen,sgo,352
+Dahlberg,sgo,352
+HalteKi,Madsen,353
+Gud,Skrædder Madsen,354
+Gud,Madsen,354
+Gud,Skrædder Madsen,356
+Skrædder Madsen,kvor,356
+Halte,Madsen,362
+Hans Jensen,Jakob Pedersen,364
+Hans Jensen,Madsen,366
+Madsen,Maren Lisbeth,366
+Hans Jensen,Maren Lisbeth,366
+Hans Jensen,Knud Larsen,366
+Ingeborg,Knud Larsen,366
+Ingeborg,Marie,366
+Marie,Petersen,366
+Hr. Petersen,Petersen,366
+Hr. Petersen,Jakob Pedersen,366
+Gud,Madsen,367
+Halte-Ki,Madsen,367
+Halte-Ki,Maren Lisbeth,367
+Jakob Pedersen,Maren Lisbeth,367
+Jakob Pedersen,Jeremias,367
+Jakob Pedersen,Jeremias,369
+Jeremias,Johannes,369
+Johannes,Petersen,369
+Jakob Pedersen,Petersen,369
+Ingeborg,Jakob Pedersen,369
+Gud,Jakob Pedersen,370
+Gud,Jakob Pedersen,372
+Gud,Hans Jensen,372
+Gud,Hans Jensen,372
+Hans Jensen,Ki,373
+Jakob Pedersen,Ki,373
+Hans Jensen,Jakob Pedersen,374
+Hans Jensen,Ingeborg,374
+Ingeborg,Knud,382
+Marie,Vedel,383
+Marie,Petersen,384
+Petersen,Vedel,384
+Gud,Vedel,384
+Marie,Vedel,386
+Dahlberg,Marie,390
+Gud,Jesus Kristus,395
+Jesus Kristus,Paulus,395
+Anna,Holger,396
+Anna,Vedel,396
+Gud,Vedel,396
+Arnljot Gelline,Bjørnson,398
+Marie,Vedel,403
+Marie,Vedel,403
+Madam Rasmussen,Rasmussen,408
+Madam Rasmussen,liam,411
+Gud,Rasmussen,412
+Gud,lille Rasmussen,412
+Hans Jensen,Peter Sørensen,414
+Peter Sørensen,Rasmussen,414
+Dahlberg,Rasmussen,414
+Peter Sørensen,Rasmussen,416
+Pilatus,Rasmussen,418
+Jakob,Rasmussen,419
+Jakob,Rasmussen,419
+Jakob,Pilatus,419
+Jesus,Pilatus,419
+Karen,Rasmussen,420
+Rasmussen,Sidses,420
+Peter,Rasmussen,421
+Peter,Rasmussen,421
+Hans,Peter,422
+Hans,Peter,422
+Peter,Rasmussen,422
+Hans,Rasmussen,422
+Hans,Rasmussen,423
+Hans,Peter,431
+Peter,taug,434
+Gud,Peter,438
+Hans,Sidse,439
+Hans Jensen,Rasmussen,440
+Gud,Peter Sørensen,441
+Peter Sørensen,Rasmussen,446
+Hans Jensen,Madam Rasmussen,452
+Hans Jensen,Madam,454
+Gud,Hans Jensen,455
+Gud,véd,456
+Madam,Peter Sørensen,459
+Gud,Peter Sørensen,460
+Madam Rasmussen,Paulus,469
+Hans Jensen,Peter Sørensen,471
+Peter Sørensen,Rasmussen,471
+Madam Rasmussen,Rasmussen,471
+Madam Rasmussen,Rasmussen,471
+Madam Rasmussen,stig,473
+Madam Rasmussen,Peter Sørensen,474
+Hans Jensen,Rasmussen,479
+Peter Sørensen,Rasmussen,482
+Gud,lille Mor,487
+Hansen,Rasmussen,488
+Hansen,Rasmussen,488
+Hansen,Rasmussen,488
+Hansen,Jens,489
+Jens,Jenses,489
+Jens,Jenses,489
+Jens,Jenses,490
+Jens,Jenses,490
+Gud,Jens,497
+Gud,Jens,497
+Clausen,Poulsen,508
+Gud,Pastor Dahlberg,513
+Gud,Mohr,513
+Gud,Mohr,513
+Gud,Luthers,516
+Gud,Mohr,517
+Mohr,Poulsen,521
+Johnsen,Poulsen,526
+Gud,Jakob,529
+Gud,Satan,530
+Gud,Pastor Hansens,530
+Gud,Pastor Hansens,530
+Gud,Jesus,530
+Dahlberg,Rasmussen,533
+Hansen,Poulsen,536
+Hansen,Pastor Hansens,538
+Gud,Mohr,539
+Gud,Mohr,539
+Gud,Poulsen,539
+Gud,Pastor Hansen,542
+Gud,Hansen,542
+Gud,Hansen,542
+Dahlberg,Gud,546
+Gud,Johnsen,546
+Gud,Johnsen,546
+Gud,Hansen,546
+Gud,Hansen,546
+Dahlberg,Gud,546
+Dahlberg,Gud,546
+Dahlberg,Gud,546
+Dahlberg,Poulsen,547
+Dahlberg,Poulsen,547
+Gud,Hansen,549
+Dahlberg,Rørholm,550
+Gud,Marie,551
+Gud,Vedel,551
+Marie,Vedel,552
+Hans Jensen,Marie,554
+Hans Jensen,Vedel,554
+Holger,Vedel,554
+Anna,Holger,554
+Gud,Vedel,556
+Gud,Paulus,560
+Gud,Marie,562
+Gud,drr,563
+Gud,Marie,567
+Gud,Marie,579
+Ingeborg,Marie,583
+Ingeborg,Vedel,583
+Hans Jensen,Marie,584
+Hans Jensen,Marie,584
+Hans Jensen,eining,584
+Marie,eining,584
+Gud,Marie,584
+Hans Jensen,Ingeborg,586
+Hans Jensen,Karen,586
+Karen,Marie,586
+Ingeborg,Marie,586
+Ingeborg,Marie,586
+Ingeborg,Marie,586
+Gud,Ingeborg,597
+Ingeborg,Marie,598
+Gud,Marie,599
+Gud,Knud,599
+Knud,Marie,599
+Ingeborg,Marie,601
+Marie,Vedel,602
+Knud,Vedel,602
+Ingeborg,Knud,602
+Jesus,Knud,603
+Ingeborg,Marie,604
+Gud,Marie,608
+Marie,Vedel,609
+Ingeborg,Knud Larsen,610
+Knud Larsen,Marie,610
+Gud,Marie,610
+Gud,Knud Larsen,610
+Ingeborg,Knud Larsen,610
+Ingeborg,Knud,610
+Knud,Marie,610
+Marie,Vedel,612
+Marie,Vedel,614
+Gud,Vedel,626
+Marie,Vedel,627
+Marie,Vedel,628
+Marie,Vedel,629
+Marie,Vedel,633
+Marie,Vedel,633
+Hans Jensen,Vedel,634
+Marie,Vedel,638
+Hr. Vedel,Præstens,643
+Gud,Præstens,643
+Gud,Hr. Vedel,643
+Marie,Vedel,644
+Marie,Vedel,644
+Marie,Vedel,644
+Dahlberg,Vedel,646
+Marie,Vedel,647
+Gud,Vedel,649
+Jesu,Vedel,649
+Jesu,Vedel,649
+Krebses,Slagter Krebs,650
+Gud,Kydet,651
+Hans Jensen,Hr. Krebs,654
+Hans Jensen,Vedel,654
+Dahlberg,Vedel,654
+Dahlberg,Gud,654
+Gud,Vedel,654
+Hans Jensen,Vedel,655
+Peter Sørensen,Vedel,656
+Krebs,Peter Sørensen,656
+Krebs,Peter Sørensen,657
+Hr. Vedel,Krebs,657
+Hr. Vedel,Peter Sørensen,657
+Magdalene,Peter Sørensen,657
+Claus,Gud,659
+Gud,Satan,659
+Marie,Vedel,660
+Seir,Vedel,661
+Krebs,Vedel,668
+Marie,Vedel,674
+Marie,Vedel,674
+Marie,Vedel,682
+Marie,Vedel,691
+Marie,Vedel,691
+Jesu,Vedel,691
+Hansen,Petersen,696
+Jesu,Pilatus,701
+Frits Dahlberg,Jesu,701
+Gud,Marie,702
+Gud,Marie,702
+Gud,Rebekka,702
+Isaks,Rebekka,702
+Isaks,Marie,702
+Gud,Marie,702
+Gud,Marie,705
+Gud,Marie,705
+Gud,lian,706
+Gud,Jesu,708
+Gud,Jesu,708
+Gud,Jesu,708
+Gud,Jesu,708
+Gud,Jesu,708
+Gud,Jesu,709
+Gud,Jesu,709
+Gud,Ingeborg,709
+Ingeborg,Marie,709
+Marie,Vedel,709
+Ingeborg,Marie,710
+Ingeborg,Marie,711
+Ingeborg,Marie,714
+Gud,Ingeborg,715
+Gud,Knud,721
+Hansen,Marie,727
+Gud,Marie,729
+Marie,Vedel,729
+Ingeborg,Vedel,729
+Ingeborg,Marie,729
+Gud,Marie,729
+Marie,Vedel,730
+Marie,Vedel,730
+Pastor Dahlberg,Vedel,732
+Gud,Marie,735
+Marie,Vedel,739
+Pastor Dahlberg,Vedel,739
+Pastor Dahlberg,Vedel,739
+Frøken Hansen,Hr. Vedel,740
+Marie,Vedel,752
+Marie,Vedel,757
+Marie,Vedel,757
+Marie,Vedel,757
+Marie,Vedel,765
+Gud,Vedel,765
+Hansen,Marie,777
+Hansen,Marie,777
+Hansen,Rasmussen,778
+Fruen,Rasmussen,780
+Fruen,Marie,780
+Ingeborg,Rasmussen,781
+Hans Jensen,Karen,785
+Hans Jensen,Karen,785
+Hans Jensen,Ingeborg,785
+Hans Jensen,Ingeborg,786
+Hans Jensen,Karen,786
+Hans Jensen,Karen,786
+Hansen,Marie,788
+Ingeborg,Rasmussen,790
+Ingeborg,Pru Hansen,790
+Gud,Pru Hansen,790
+Ingeborg,Marie,792
+Ingeborg,Marie,795
+Hans Jensen,Marie,798
+Hans Jensen,Marie,798
+Hans Jensen,Marie,800
+Ingeborg,Marie,801
+Ingeborg,Marie,802
+Hans Jensen,Karen,807
+Ingeborg,Karen,807
+Gud,Ingeborg,818
+Gud,Knud,825
+Ingeborg,Marie,832
+Ingeborg,Marie,833
+Ingeborg,Marie,833
+Herrens,Ingeborg,834
+Hans Jensen,Herrens,834
+Hans Jensen,Ingeborg,834
+Gud,Ingeborg,834
+Holger,Jens,835
+Anna,Holger,835
+Hansen,Rasmussen,836
+Hansen,Rasmussen,836
+Hansen,Petersen,836
+Hansen,Petersen,836
+Hansen,Vedel,838
+Hansen,Marie,838
+Ingeborg,Marie,838
+Gud,Ingeborg,838
+Gud,Ingeborg,838
+Gud,Ingeborg,838
+Anna,Holger,839
+Anna,Hansen,840
+Holger,Petersen,842
+Gud,Holger,842
+Anna,Marie,843
+Anna,Holger,843
+Anna,Holger,843
+Anna,Marie,846
+Holger,Marie,850
+Holger,Ingeborg,853
+Anna,Holger,857
+Anna,Vedel,857
+Marie,Vedel,857
+Anna,Ingeborg,862
+Holger,Vedel,865
+Pastor Hansen,Rasmussen,872
+Holger,Rasmussen,873
+Anna,Holger,873
+Anna,Vedel,873
+Marie,Vedel,873
+Anna,Marie,876
+Anna,Grand,880
+Grand,Hansen,880
+Marie,Vedel,881
+Anna,Hansen,885
+Anna,Ingemanns,885
+Pastor Hansen,naal,888
+Nyrup,Pastor Nyrup,889
+Gud,Pastor Nyrup,889
+Baals,Hr. Andersen,892
+Baals,Hansen,892
+Hansen,Hr. Andersen,892
+Gud,Hansen,894
+Gud,Hansen,894
+Andersen,Krebs,897
+Andersen,Skrædder Madsen,903
+Hansen,Skrædder Madsen,904
+Hansen,hvilkehan,904
+Gud,hvilkehan,904
+Anna,Holger,906
+Hansen,Holger,906
+Hansen,Marie,906
+Andersen,Krebs,907
+Andersen,Gud,911
+Hansen,Jesu,914
+Andersen,Gud,919
+Madsen,Skrædder Madsen,923
+Hansen,Vedel,925
+lian,lien,939
+Marie,lien,939
+Gud,Jesu,946
+Gud,Jesu,946
+Holger,Vedel,962
+Marie,Vedel,964
+Marie,Vedel,966
+Gud,Marie,977
+Marie,Vedel,984
+Anna,Holger,985
+Holger,liam,987
+Pastor Hansen,Vedel,992

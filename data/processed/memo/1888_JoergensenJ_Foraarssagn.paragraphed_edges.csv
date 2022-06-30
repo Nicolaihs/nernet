@@ -1,0 +1,82 @@
+source,target,type,weight
+Brakjorders,Bøndergaardes,Undirected,1
+Anne Marie,Svend,Undirected,1
+Christian Brygger,Jens Snedker,Undirected,1
+Jens Snedker,lille Ingeborg,Undirected,2
+Ingeborg,hode,Undirected,2
+Anders,Anders —,Undirected,1
+Anders,Jens Snedker,Undirected,1
+Ingeborg,Jens Snedker,Undirected,2
+Anes,Jens,Undirected,1
+Ane,Anes,Undirected,1
+Gooper,Jens,Undirected,2
+Gud,Jens,Undirected,5
+Gud,sid,Undirected,1
+Gud,H. C.,Undirected,1
+H. C.,Jens,Undirected,1
+Else,Jens,Undirected,2
+Duxen,Jens,Undirected,8
+Hr. Nielsen,Jens,Undirected,2
+Jens,Kodriveres,Undirected,1
+Anna,Jens,Undirected,36
+Anna,Karle,Undirected,1
+Anna,Theodor,Undirected,1
+Jens,Theodor,Undirected,1
+Nesstm maggior,dolore che ricordarsi del tempo,Undirected,1
+dolore che ricordarsi del tempo,nella miseria,Undirected,1
+Jens,lange Harreskov,Undirected,1
+Duxen,Hr. Frandsen,Undirected,1
+Hr. Frandsen,lille Jensine,Undirected,1
+Fogh,Jakobsen,Undirected,1
+Jakobsen,Vilmann,Undirected,1
+Anna,lille Anna,Undirected,2
+Jens,lille Anna,Undirected,1
+Anna,Jenses,Undirected,2
+Anna,Jens’,Undirected,1
+Jens,Jens’,Undirected,2
+Brinkehs,Jens,Undirected,1
+Jakobsen,Jens’,Undirected,1
+Duxen,Jenses,Undirected,1
+Jens,Vindvet,Undirected,1
+Jens,lene,Undirected,2
+Duxen,Jules Vernes,Undirected,1
+Jens,Jules Vernes,Undirected,1
+Haar,Jens,Undirected,1
+Duxen,Marie,Undirected,1
+Hald,Jens,Undirected,3
+Blaa,Jens,Undirected,1
+Frederik den syvende,Napoleon,Undirected,1
+Anna —,Jens,Undirected,1
+Anna,Anna —,Undirected,1
+Anna,Olga Jensen,Undirected,1
+Jens,Kammeo,Undirected,1
+Jens,Sankt Antonius,Undirected,1
+Jens,Skaar,Undirected,1
+Bondegaardes,Skaar,Undirected,1
+Bondegaardes,Jens,Undirected,1
+Jens,Taasinges,Undirected,1
+Jens,PTancisca,Undirected,1
+Francisca,Jens,Undirected,2
+Else,Franciska,Undirected,1
+Franciska,Jens,Undirected,4
+Herakles,Jens,Undirected,2
+Jens,Strøm,Undirected,1
+Ciceros,Jens,Undirected,1
+Atticus,Ciceros,Undirected,1
+Atticus,Jens,Undirected,1
+Jens,dpn,Undirected,2
+Jens,Schacks,Undirected,1
+Jens,Kvihderøst,Undirected,1
+Jens,Klara,Undirected,2
+Jens’,Klara,Undirected,1
+Anna,Gud,Undirected,1
+Anna,Klara,Undirected,1
+Franciska,Klara,Undirected,1
+Jenny,Jens,Undirected,29
+Jenny,modjennys,Undirected,1
+Feldo,Stokke,Undirected,1
+Feldo,Jens,Undirected,1
+Feldo,Jenny,Undirected,1
+Jens,Petersens,Undirected,1
+Jenny,Liar,Undirected,1
+Gud,Jenny,Undirected,2

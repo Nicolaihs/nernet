@@ -1,0 +1,336 @@
+source,target,type,weight
+C. F. Garman,lille Gabriel,Undirected,1
+Richard Garman,ivente,Undirected,1
+Garman,Richard Garman,Undirected,2
+Richard Garman,Sandsgaard,Undirected,1
+Christian Fredrik,Garman,Undirected,1
+Christian Fredrik,Richard,Undirected,5
+Garman,Richard,Undirected,2
+Madeleine,Sandsgaard,Undirected,8
+Don Juan,Sandsgaard,Undirected,1
+Don Juan,Madeleine,Undirected,1
+Madeleine,Rachel,Undirected,12
+Madeleine,Per,Undirected,17
+Greier,Per,Undirected,1
+Per,Tomle-Hans,Undirected,2
+Madelaine,Per,Undirected,2
+Garman,Madeleine,Undirected,4
+Hans,Per,Undirected,1
+Hans,Madeleine,Undirected,1
+Hull,Madeleine,Undirected,1
+Hull,Per,Undirected,1
+Kibe,Madeleine,Undirected,1
+Gabriel,Gabriel Garman,Undirected,1
+Thomas Robertsen,Tom Robson,Undirected,1
+Garman,Tom Robson,Undirected,3
+Gabriel,Sandsgaard,Undirected,2
+Anders Begmand,Tom Robson,Undirected,2
+Gabriel,Morten —,Undirected,1
+Garman,z,Undirected,1
+Gabriel,Spant,Undirected,1
+C. F. Garman,Gabriel,Undirected,1
+Gabriel,Richard,Undirected,8
+Jomfru Cordsen,Richard,Undirected,2
+Gabriel,Jomfru Cordsen,Undirected,5
+Jomfru Cordsen,Jøsses,Undirected,1
+Jomfru Cordsen,Martha,Undirected,1
+Gabriel,Garman,Undirected,2
+Cordsen,Gabriel,Undirected,1
+Cordsen,Garman,Undirected,1
+Garman,Morten W. Garman,Undirected,1
+Jacob Worse,Morten W. Garman,Undirected,1
+Jacob Worse,Worses,Undirected,1
+Morten Garmans,Worses,Undirected,1
+Morten Garman,Worse,Undirected,2
+Garman,Worse,Undirected,10
+Garman,Sandsgaard,Undirected,3
+Morten W. Garman,Worse,Undirected,1
+Christian Fredrik —,Morten W. Garman,Undirected,1
+Christian Fredrik —,Morten,Undirected,1
+Garman,Morten,Undirected,4
+Garman &,Morten,Undirected,2
+Garman &,Worse,Undirected,1
+Sandsgaard,Worse,Undirected,2
+Pagina,tvertigj,Undirected,1
+Richard Garman,Vexler,Undirected,1
+Doren,Gabriel,Undirected,1
+Caroline,Garman,Undirected,1
+Garman,Martens,Undirected,2
+Morten,Søren,Undirected,1
+Fanny Snil,Morten,Undirected,1
+Christian Fredrik,Mais,Undirected,1
+Christian,Fredrik,Undirected,2
+Cordsen,Jomfru Cordsen,Undirected,2
+Christian Fredrik,Jomfru Cordsen,Undirected,1
+Martens,Vlan,Undirected,1
+Cordsen,Martens,Undirected,1
+Martens,Richard,Undirected,1
+Johnsen,Sandsgaard,Undirected,3
+Martens,Sandsgaard,Undirected,5
+Rachel,Richard,Undirected,5
+Gud,Johnsen,Undirected,1
+Gud,Richard,Undirected,1
+Delphin,Jacob Worse,Undirected,7
+Jacob Worse,Morten Garman,Undirected,1
+Garman,Georg Delphin,Undirected,1
+Garman,Holst,Undirected,1
+Delphin,Holst,Undirected,1
+Delphin,Sandsgaard,Undirected,3
+Jakob Worse,Morten,Undirected,1
+Jacob Worse,Morten,Undirected,3
+Jacob Worse,Martens,Undirected,3
+Georg Delphin,Rachel,Undirected,1
+Morten,Worse,Undirected,2
+Jacob Worse,Worse,Undirected,4
+Aalbom,Delphin,Undirected,2
+Johnsen,Rachel,Undirected,10
+Delphin eiheller,skraas,Undirected,1
+Delphin eiheller,Worse,Undirected,1
+Delphin,Worse,Undirected,1
+Aalbom,Garman,Undirected,3
+Aalbom,Johnsen,Undirected,1
+Johnsen,Konsul Garman,Undirected,1
+Konsul Garman,Sandsgaard,Undirected,1
+Rachel,Sandsgaard,Undirected,4
+Cordsen,Jacob Worse,Undirected,1
+Jacob Worse,Sandsgaard,Undirected,2
+Glid,Sandsgaard,Undirected,1
+Jomfru Cordsen,Morten,Undirected,2
+Johnsen,Morten,Undirected,1
+Johnsen,Martens,Undirected,4
+Martens,Morten,Undirected,1
+Aalbom,Jacob Worse,Undirected,2
+Aalbom,Rachel,Undirected,1
+Rachel,Worse,Undirected,4
+Garman pleiede,Madeleine,Undirected,1
+Jomfru Cordsen,Madeleine,Undirected,7
+Gabriel,Mr. Robson,Undirected,3
+Madeleine,Rachel Garman,Undirected,1
+Garman,hiin,Undirected,1
+Cordsen,Madeleine,Undirected,3
+Madeleine Jomfru Cordsen,Marianne,Undirected,1
+Anders Begmand,Marianne,Undirected,5
+Anders Begmand,Kjæresten,Undirected,1
+Madeleine,Marianne,Undirected,1
+Jomfru Cordsen,Kristian,Undirected,1
+Kristian,Kusk,Undirected,1
+Anders Begmand,Steile,Undirected,1
+Marianne,Martin,Undirected,7
+Anders,Martin,Undirected,1
+Martin —,Tom Robson,Undirected,1
+Mary Anne,kjær,Undirected,1
+Gustaf,Oscar,Undirected,2
+Carl Johan Torpander,Oscar,Undirected,1
+Carl Johan Torpander,Marianne,Undirected,2
+Marianne,Tom Robson,Undirected,3
+"Marianne,",Tom Robson,Undirected,1
+Martin,Seglas,Undirected,2
+Mr.,Tom Robson,Undirected,1
+Mr.,Robson,Undirected,1
+Martin,Robson,Undirected,1
+Martin,Mr. Robson,Undirected,1
+Garman,Martin,Undirected,2
+Garman,Torpander,Undirected,1
+Garman & Worse,Martin,Undirected,1
+Anders,Tom Robson,Undirected,1
+Anders,Mr. Robson,Undirected,1
+Mr. Robson,Tom,Undirected,5
+Martin,Svend,Undirected,1
+Reinert,Svend,Undirected,1
+Marianne,Reinert,Undirected,1
+Tom Robson,Torpander,Undirected,3
+Robson,Torpander,Undirected,1
+Fanny,Madeleine,Undirected,23
+Madeleine,Morten,Undirected,5
+Fanny,Rachel,Undirected,6
+Morten Garman,Sandsgaard,Undirected,1
+Madeleine,Martens,Undirected,10
+Fanny,Martens,Undirected,1
+Fanny,Sparre,Undirected,1
+Leonarda,Madeleine,Undirected,1
+Delphin,Madeleine,Undirected,12
+Johnsen,Severin Martens,Undirected,1
+John-,Sandsgaard,Undirected,1
+Delphin,Fanny,Undirected,9
+Fredrik,Fredrikmand,Undirected,1
+Fredrikmand,Mamma,Undirected,1
+Christian Fredrik,Fredrikmand,Undirected,1
+Fanny,Mamma,Undirected,1
+Madeleine,lille Fredrikmand,Undirected,1
+Georg Delphin,lille Fredrikmand,Undirected,1
+Georg Delphin,Worse,Undirected,1
+Delphin,Rachel,Undirected,1
+Delphin,Martens,Undirected,4
+Jakob Worse,Madeleine,Undirected,1
+Jakob Worse,Rachel,Undirected,1
+Hr. Worse,Rachel,Undirected,1
+Jacob Worse,Johnsen,Undirected,2
+Aalbom,Hiorth,Undirected,1
+Garman,Jacob Worse,Undirected,1
+Georg Delphin,Morten,Undirected,1
+Georg Delphin,Madeleine,Undirected,2
+Georg Delphin,Richard,Undirected,1
+A.mtmand Hiorth,Richard,Undirected,1
+A.mtmand Hiorth,Aalbom,Undirected,1
+Aalbom,Richard,Undirected,1
+Sejerens,Skjolde,Undirected,1
+Jacob Worse,Rachel,Undirected,9
+Martens,Worse,Undirected,1
+Madeleine,Worse,Undirected,1
+Aalbom,Gud,Undirected,1
+Morten,Richard,Undirected,4
+Madeleine,Vente-Per,Undirected,1
+Carl Jôhan,Oscar,Undirected,1
+Carl Jôhan,Marianne,Undirected,1
+Mr. Robson,Seildugssko,Undirected,1
+Garman,Mr. Robson,Undirected,2
+Gabriel,Tom,Undirected,5
+Morten,Tom,Undirected,1
+Gabriel,Morten,Undirected,5
+Aalbom,Gabriel,Undirected,4
+Johnsen,pegte Delphin,Undirected,1
+Fanny,Johnsen,Undirected,1
+Erik Johnsen,Rachel,Undirected,1
+Erik Johnsen,Garman,Undirected,1
+Garman,Johnsen,Undirected,2
+Johnsen,—,Undirected,1
+Garman,Rachel,Undirected,2
+Samuelsen,Worse,Undirected,1
+C. F. Garmen,Worse,Undirected,1
+C. F. Garmen,Garman,Undirected,1
+Garman,Samuelsen,Undirected,1
+Hr. Samuelsen,Samuelsen,Undirected,1
+Hr. Samuelsen,Konsul Qarmans,Undirected,1
+Konsul Qarmans,Samuelsen,Undirected,1
+Lille Fitter,Nilken,Undirected,1
+Hr. Samuelsen,Trine,Undirected,1
+Gutten,Jacob,Undirected,1
+Jacob Worse,Samuelsen,Undirected,1
+Jacob,lorden,Undirected,1
+Jacob,Samuelsen,Undirected,1
+Frøken Madeleine,Worse,Undirected,1
+Delphin,Frøken Madeleine,Undirected,1
+Frøken Madeleine,Sandsgaard,Undirected,1
+Tom andshaand,Worse,Undirected,1
+Fredrik,Lille Christian,Undirected,1
+Fredrik,Madeleine,Undirected,1
+Fanny,Sandsgaard,Undirected,3
+Clementine,Johnsen,Undirected,1
+Clementine,Papa,Undirected,1
+Clara,Gud,Undirected,1
+Christens,Johnsen,Undirected,1
+Madam Rasmussen,Martens,Undirected,3
+Garman &,Johnsen,Undirected,1
+Johnsen,Madame Rasmussen,Undirected,1
+Johnsen,Madam Rasmussen,Undirected,1
+Madame Rasmussen,Martens,Undirected,1
+Johnsen,Madeleine,Undirected,1
+Stelle,ordne,Undirected,1
+ordne,sysle,Undirected,1
+Delphin,Morten Garman,Undirected,1
+Delphin,Morten,Undirected,1
+.Madeleine,Fanny,Undirected,1
+Madeleine,Per Karl,Undirected,1
+Karl,Per,Undirected,1
+Delphin,isøndags,Undirected,1
+Fanny,Morten,Undirected,8
+Fanny,hiin,Undirected,1
+Johnsen,Sparre,Undirected,3
+Provsten Sparre,Rachel,Undirected,1
+Frøken Garman,Garman,Undirected,1
+Garman,Sparre,Undirected,1
+Cordsen,Rachel,Undirected,3
+Fanny,Jomfru Cordsen,Undirected,2
+Madeleine,Richard Garman,Undirected,1
+Fanny,Georg Delphin,Undirected,2
+Fanny,lille Christian Fredrik,Undirected,1
+Delphin,lille Christian Fredrik,Undirected,1
+Madeleine,lille Christian Fredrik,Undirected,1
+Provsten,Rachel,Undirected,1
+Frøken Garman,Jacob Worse,Undirected,2
+Jacob Worse,Madam Worse,Undirected,1
+Made-,Sandsgaard,Undirected,1
+Christian Fredrik,Martens,Undirected,1
+Christian Fredrik,K,Undirected,1
+Martin,Tom Robson,Undirected,8
+Carl Johan Torpander,Tom Robson,Undirected,2
+Carl Johan Torpander,ustanselig,Undirected,1
+Moro,ustanselig,Undirected,1
+Moro,Robson,Undirected,1
+Marianne,Torpander,Undirected,3
+Holloi,Tom,Undirected,1
+Mary Ann,Tom,Undirected,1
+Mary Ann,Tom Robson,Undirected,1
+Gustaf Oscar Carl Johan Torpander,Tom,Undirected,1
+Martin,Tom,Undirected,2
+Gabriel Garman,Martin,Undirected,2
+Gabriel,Martin,Undirected,3
+Gabriel,Sands,Undirected,1
+Martin,Sands,Undirected,1
+Martin,Sandsgaard,Undirected,1
+Gabriel,Madeleine,Undirected,1
+Jomfru Cordsen,Rachel,Undirected,1
+Anders Begmand,Morten,Undirected,1
+Anders Begmand,bent,Undirected,1
+Anders Begmand,Richard,Undirected,1
+Anders Begmand,Gabriel,Undirected,1
+Morten Garman,Mr. Robson,Undirected,1
+Morten,pleie,Undirected,1
+Christian Fredrik,Richard*,Undirected,1
+Jacob Worse,Richard,Undirected,1
+Richard,Worse,Undirected,1
+Far,Gabriel,Undirected,1
+Gabriel,Rachel,Undirected,9
+Anders,Marianne,Undirected,1
+Gabriel,Tom Robson,Undirected,1
+Rachel,Tom Robson,Undirected,1
+Gabriel,Phønix,Undirected,1
+Bertha,Gabriel,Undirected,1
+Morten,Sandsgaard,Undirected,2
+Garman &,Marianne,Undirected,2
+Martin,Torpander,Undirected,2
+Martens,Martin,Undirected,1
+Anders Begmand,Torpander,Undirected,2
+Martens,Torpander,Undirected,1
+Abraham Lincolns,Torpander,Undirected,1
+Marianne,Martens,Undirected,1
+Juling,Madam Rasmus-,Undirected,1
+Juling,Pjalt,Undirected,1
+Graaden,Martens,Undirected,1
+Frøken Garman,Martens,Undirected,1
+Frøken Garman,Madeleine,Undirected,1
+Delphin,Georg Delphin,Undirected,1
+Georg Delphin,Martens,Undirected,1
+Delphin,Dot,Undirected,1
+Morten,Per Karl,Undirected,1
+Garman,Per Karl,Undirected,1
+Cordsen,Richard,Undirected,1
+Konsul Garman,Marianne,Undirected,1
+Marianne,Morten,Undirected,1
+Morten,Sparre,Undirected,1
+Anders,Sparre,Undirected,1
+Garman,Morten Garman,Undirected,1
+Bent*,Worse,Undirected,1
+Mr. Frederic Barnett,Rachel,Undirected,2
+. Barnett,Mr.,Undirected,1
+Rachel,Svendsen,Undirected,1
+Gabriel,Svendsen,Undirected,1
+Christian Fredrik,Madeleine,Undirected,1
+Gustaf Oscar Carl Johan Torpander,Martin,Undirected,1
+Anders Begmand,Gustaf Oscar Carl Johan Torpander,Undirected,1
+Don Juan,Richard,Undirected,1
+Biskop,Sparre,Undirected,2
+Martens,Rachel,Undirected,1
+Svendsen,Thomas,Undirected,2
+Jacob Worse,Rachel Garman,Undirected,1
+Morten,Rachel Garman,Undirected,1
+Fanny,Gabriel,Undirected,1
+.sorn,Madeleine,Undirected,1
+Madeleine,Sparre,Undirected,3
+Martens,Vente-Per,Undirected,1
+Per,Vente-Per,Undirected,1
+Lena,Per,Undirected,1
+Lena,Madeleine,Undirected,1
+Hat,Madeleine,Undirected,1
+Delphin,Per,Undirected,1
+Martens,Per,Undirected,1

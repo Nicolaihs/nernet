@@ -1,0 +1,245 @@
+source,target,type,weight
+Gerhard,Sidse,Undirected,1
+Gerhard,Ottosen,Undirected,2
+L’,Ottosen,Undirected,1
+Gerhard,L’,Undirected,1
+Gerhard,Valkyrie,Undirected,1
+Knigges,Topsøes,Undirected,1
+Gerhard,reservérte,Undirected,1
+Gerhard,Hanne,Undirected,2
+Henrik,lila Baand,Undirected,1
+Fredmans,Gerhard,Undirected,1
+Heine,vilse,Undirected,1
+drufvornas,vilse,Undirected,1
+Gerhard,Ulf,Undirected,106
+Kristensen,Sva,Undirected,1
+Kristensen,Skaal,Undirected,1
+Gendarm Kristensen,Ulf,Undirected,1
+Ravn,Ulf,Undirected,4
+Matthias Corvinus,Ravn,Undirected,1
+Matthias Corvinus,Mikkel Ravn,Undirected,1
+Michael Corvinus,Mikkel Ravn,Undirected,1
+Matthias Ravn,Michael Corvinus,Undirected,1
+Gerhard,Matthias Ravn,Undirected,1
+Gerhard,Heine,Undirected,1
+Arthur Svanning,Gerhard,Undirected,1
+Arthur Svanning,Ulf Brynjulfsen Prospero,Undirected,1
+Papa,Ulf Brynjulfsen Prospero,Undirected,1
+Abracadabra,Papa,Undirected,1
+Abracadabra,Skaal,Undirected,1
+Arthur Svanning,Skaal,Undirected,2
+Matthias,Skaal,Undirected,2
+Madam Ravn,Skaal,Undirected,1
+Eva,Madam Ravn,Undirected,1
+Eva,Henrik Gerhard,Undirected,1
+Madam Ravn,Ulf,Undirected,8
+Gerhard,Madam Ravn,Undirected,14
+Eva,Ulf,Undirected,3
+Madam Ravn,Matthias,Undirected,1
+Gerhard,Kierkegaard,Undirected,1
+Gerhard,Ravn,Undirected,2
+Madam Ravn,Ulf Brynjulfsen,Undirected,1
+Mathias Ravn,Matthias,Undirected,1
+Matthias,Mutter,Undirected,1
+Bellman,Edith,Undirected,1
+Grona Lund,Ulf,Undirected,1
+Edith,Gerhard,Undirected,48
+Edith,Ulf,Undirected,32
+Bellman,Ulf,Undirected,2
+Hr. Ravn,Ulf,Undirected,2
+Baryton,Ulf,Undirected,1
+Baryton,Svannings,Undirected,1
+Gerhard,Svannings,Undirected,1
+Ulf,Ulf —,Undirected,1
+Bellman,Brynjulfsen,Undirected,1
+Eva,Gerhard,Undirected,3
+Gerhard,Monsieur,Undirected,1
+Fritz,Ulf,Undirected,1
+Hr. Svanning,Ravn,Undirected,1
+Hr. Svanning,Ulf,Undirected,1
+Madam,Ulf,Undirected,1
+Madam,Ravn,Undirected,2
+Hr. Brynjulfsen,Ulf,Undirected,1
+Eva,Terrinens,Undirected,1
+Gerhard,jam finis,Undirected,1
+Edith,Madam Ravn,Undirected,8
+Gerhard,Odysseus,Undirected,1
+Evald,Ulf,Undirected,1
+Carl Bagger,Evald,Undirected,1
+Carl Bagger,Jeppe,Undirected,1
+Gerhard,perdu,Undirected,1
+Ulf,perdu,Undirected,1
+Edith,Halvvig,Undirected,11
+Edilh,Ulf,Undirected,1
+Gerhard,Gud,Undirected,3
+Genifebren,Gerhard,Undirected,1
+Febren,Genifebren,Undirected,1
+Febren,Gerhard,Undirected,1
+Gerhard Annette,Halvvig,Undirected,1
+Palmeskov,s,Undirected,1
+Edith,Palmeskov,Undirected,1
+Annette,Gerhard,Undirected,8
+Annette,Edith,Undirected,5
+Alma,Pastor Nærøe,Undirected,1
+Gerhard,Pastor Nærøe,Undirected,2
+Madam Ravn,Matthias Ravn,Undirected,1
+Matthias Ravn,Ulf,Undirected,1
+Gerhard,hans,Undirected,1
+Gerhard,Nøragers,Undirected,1
+Hr. Ravn,Madam Ravn,Undirected,1
+Gud,véd,Undirected,2
+Hr. Ottosen,Ulf,Undirected,1
+Hr. Ottosen,Ottilie,Undirected,1
+Hanne,Hr. Ottosen,Undirected,1
+Brynjulfsen,Gerhard,Undirected,3
+Brynjulfsen,Hr. Ottosen,Undirected,1
+Mais,Ulf,Undirected,1
+Ulf,durk,Undirected,2
+Brisen,Gerhard,Undirected,1
+Brisen,Ulf,Undirected,1
+Aarestrups,Ulf,Undirected,1
+Aarestrups,Victor Hugo,Undirected,1
+Svanning,Ulf,Undirected,1
+Gerhard,Skaal,Undirected,1
+Karle,Ulf,Undirected,1
+Gerhard,Karle,Undirected,1
+Gerhard,Gerhard-Brynjulfsen,Undirected,1
+Dands,Hr. Hagens,Undirected,1
+Hagen,Marv,Undirected,1
+Marv,Ridder Hagens,Undirected,1
+Hagen,Jomfru Else,Undirected,3
+Else,Hagen,Undirected,4
+Gry,Hagen,Undirected,1
+Gerhard,svedvaad,Undirected,1
+Ulf,svedvaad,Undirected,1
+Holla,Ridder Hagen,Undirected,1
+Jomfru Else,tillive,Undirected,1
+Hagen,tillive,Undirected,1
+Alma,Gerhard,Undirected,2
+Alma,Madam Ravn,Undirected,1
+Gerhard,Konferens,Undirected,1
+Konferens,Madam Ravn,Undirected,1
+Alma,Ulf,Undirected,2
+Gerhard,Gerhard —,Undirected,4
+Madam,Tys,Undirected,1
+Ravn,aldenstund,Undirected,1
+Matthias,aldenstund,Undirected,1
+Mathias,Ulf,Undirected,1
+Gerhard,Mathias,Undirected,1
+Gerhard,Jan Steen,Undirected,1
+Bellman,Jan Steen,Undirected,2
+Bellman,Heiberg,Undirected,1
+Heiberg,Ulf,Undirected,1
+Jan Steen,Ulf,Undirected,1
+Anna Funch,Overgaard,Undirected,9
+Overgaard,Palm,Undirected,1
+Gerhard,Palm,Undirected,2
+Gerhard,Overgaard,Undirected,11
+Anna Funch,Frøken Palm,Undirected,4
+Anna Funch,Gerhard,Undirected,10
+Gerhard,Nørager,Undirected,2
+Nørager,Overgaard,Undirected,1
+Frøken Palm,Ulf,Undirected,1
+Bentzen,Overgaard,Undirected,1
+Bentzen,Gerhard,Undirected,3
+Frøken Palm,Gerhard,Undirected,2
+Anna Funch,Harriet,Undirected,2
+Frøken Palm,Overgaard,Undirected,2
+Gerhard,Halvvig,Undirected,3
+Annette,Lehnsgrevinde,Undirected,1
+Bentzen,Frøken Palm,Undirected,2
+Anna Funch,Harriet Palm,Undirected,1
+Anna Funch,Annette,Undirected,1
+Edith,kærl,Undirected,1
+Edith,Ulf —,Undirected,1
+Gerhard,Ulf —,Undirected,1
+Edith,tillive,Undirected,1
+Anna Funch,Gud,Undirected,1
+Anna Funch,Edith,Undirected,2
+Edith,Frøken Ravn,Undirected,1
+Gerhard,dundre,Undirected,1
+Overgaard,Ulf,Undirected,1
+Gerhard,Kognac,Undirected,1
+Gerhard,sano-,Undirected,2
+Gerhard,Lieutenant Norden,Undirected,1
+Gerhard,tout pour,Undirected,1
+patrie,tout pour,Undirected,1
+Gerhard,patrie,Undirected,1
+Annette,Elysées,Undirected,1
+Gud,Henrik,Undirected,1
+Edith,Natalie,Undirected,8
+Halvvig,Natalie,Undirected,2
+Halvvig,Natalie —,Undirected,1
+Edith,Natalie —,Undirected,1
+Brynjulfsen,Halvvig,Undirected,1
+Gerhard,Natalie,Undirected,2
+Edith,vakle,Undirected,1
+Natalie,vakle,Undirected,1
+Natalie,rubens,Undirected,1
+Gerhard,Rubens,Undirected,1
+Gerhard,Kurtisanen,Undirected,1
+Frans Hals,Jan Steen,Undirected,1
+Annette Kirchhoff,Gerhard,Undirected,1
+Annette Kirchhoff,Fuselens,Undirected,1
+Fuselens,Othello,Undirected,1
+Annette,bun,Undirected,1
+Anna Funch,Halvvig,Undirected,1
+Gerhard,Jagu,Undirected,1
+Gerhard,Goldammen,Undirected,1
+Alan,Gerhard,Undirected,1
+-ForsamlingsGerhard,Gerhard,Undirected,1
+Gerhard,s,Undirected,2
+Gud,Ulf,Undirected,2
+Hagen,Ulf,Undirected,1
+Else,Gud,Undirected,1
+Dril,MeloI,Undirected,1
+Brynjulfsen,Ulf,Undirected,1
+Natalie,Ulf,Undirected,1
+Gerhard,tom,Undirected,2
+Gerhard,lian,Undirected,1
+ban,lian,Undirected,1
+Gerhard —,Ulf,Undirected,1
+Bronce,Jeanne d,Undirected,1
+Bronce,Edith,Undirected,1
+Edith,Pi>e,Undirected,1
+Edith,Gøgl,Undirected,1
+Carstensen,Ulf,Undirected,1
+Don Ottavio,Ulf,Undirected,1
+Annette,Mylord Gerhard,Undirected,1
+Methusalems,Mylord Gerhard,Undirected,1
+Methusalems,Mylord,Undirected,1
+Edith,Ulf Brynjulfsen,Undirected,2
+Edith,Pan,Undirected,1
+Edith,Schawl,Undirected,1
+Schawl,Ulf,Undirected,1
+Edith,Graad,Undirected,2
+Edith,Gud,Undirected,1
+Alma,Eva,Undirected,2
+Alma,Brynjulfsen,Undirected,1
+Brynjulfsen,Gunnar Brynjulfsen,Undirected,1
+Edith,Gunnar Brynjulfsen,Undirected,1
+Edith,Eva,Undirected,3
+Alma,Ravn,Undirected,1
+Edith,Ravn,Undirected,1
+Halvvig,Ulf,Undirected,1
+Alma,Nærøe,Undirected,1
+Gerhard,Nærøe,Undirected,1
+Annette,Ibsen,Undirected,2
+Alan,Nærøe,Undirected,1
+Gerhard,Graad,Undirected,1
+Bentzen,Edith,Undirected,1
+Bentzen,Matthias,Undirected,1
+Edith,Matthias,Undirected,1
+Gendarm Kristensen,Kaliban,Undirected,1
+Garibaldi,Gerhard,Undirected,1
+Edith,Gerhard dér,Undirected,1
+Gerhard,Romeos,Undirected,1
+It,Romeos,Undirected,1
+Edith,It,Undirected,1
+Gerhard,véd,Undirected,1
+Evropas,véd,Undirected,1
+Edith,Overgaard,Undirected,1
+Edith,Jeanne d\Arc,Undirected,1
+Edith,Tulle,Undirected,1
+Gerhard,Zweckessen,Undirected,1
+Edith,Zweckessen,Undirected,1

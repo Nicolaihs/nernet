@@ -1,0 +1,109 @@
+source,target,type,weight
+Kristoffer Nielsen,Uhret,Undirected,1
+Hans,Uhret,Undirected,1
+Hans,Julius,Undirected,1
+Albert Delacroix,Nielsen,Undirected,1
+Frk. Gjelstrup,Gud,Undirected,1
+Delacroix,Frk. Gjelstrup,Undirected,3
+Dr. Weil,Hansen,Undirected,1
+Frk. Hovgaard,Hjort,Undirected,1
+Emilia Galotti,Frk. Gjelstrup,Undirected,1
+Hansen,Nathalie,Undirected,1
+Faders,Stein,Undirected,1
+Frascati,Juliette,Undirected,1
+Frascati,Jardin mabille,Undirected,1
+Jardin mabille,Juliette,Undirected,1
+Albert Delacroix,Juliette Faustin,Undirected,1
+Evropa,Vestvali,Undirected,1
+Romeo,Vestvali,Undirected,1
+Hamlet,Romeo,Undirected,1
+Albert Dela/,Nielsen,Undirected,1
+Albert Delacroix,Juliette,Undirected,1
+Juliette Faustin,Pasus,Undirected,1
+Juliette Faustin,Signor Salvinis,Undirected,1
+Salvini,Signor Salvinis,Undirected,1
+Juliette Faustin,Salvini,Undirected,2
+Juliette Faustin,Mademoiselle Faustin,Undirected,1
+Faustin,Salvini,Undirected,1
+Gud,Hr. Delacroix,Undirected,1
+Nielsen,jour,Undirected,1
+Faustin,Weil,Undirected,1
+Faustin,Frk. Gjelstrup,Undirected,1
+Juliette Faustin,Tøen,Undirected,1
+Juliette Faustin,Michael Rosing,Undirected,2
+Gud,Weil,Undirected,2
+Fløjels,Harald Fris,Undirected,1
+Fritz Haugsted,Harald Fris,Undirected,1
+Fris,Haugsted,Undirected,2
+Aage Lange,Hilmer,Undirected,1
+Alma,Ræson,Undirected,1
+Gud,Haugsted,Undirected,1
+Frk. Stenberg,Rosita,Undirected,3
+Alma,Stenberg,Undirected,1
+Elisabeth Munk,Gudrun«,Undirected,1
+Fris,Frk. Winstrup,Undirected,1
+Cordelia,Frk. Winstrup,Undirected,1
+. Gjelstrup,Graad,Undirected,1
+Frk. Stenberg,Gud,Undirected,1
+. Winstrup,Fris,Undirected,1
+Aage Lange,jDln,Undirected,1
+Fritz Haugsted,Lange,Undirected,1
+Lange,Plassans,Undirected,1
+Clausen,Gustava Lange,Undirected,1
+Gustava Lange,Nora Helmer,Undirected,1
+Nielsen,Sundstrup,Undirected,1
+Haugsted,Nielsen,Undirected,1
+Haugsted,Zola,Undirected,1
+Fritz Haugsted,Zola,Undirected,1
+Emile Zola,Fritz Haugsted,Undirected,1
+Emile Zola,Plassans,Undirected,1
+Fritz Haugsted,Plassans,Undirected,1
+Fritz Haugsted,Haugsted,Undirected,2
+Albert Delacroix,Albert Marie Delacroix,Undirected,1
+Albert Delacroix,Lange,Undirected,1
+Aage Lange,Lange,Undirected,1
+Lange,Nielsen,Undirected,1
+Nielsen,phil.,Undirected,1
+Herman Weil,phil.,Undirected,1
+Herman Weil,St. Herman,Undirected,1
+Hr. Delacroix,Sundstrup,Undirected,1
+Hr. Delacroix,Weil,Undirected,1
+Dr. Weil,Weil,Undirected,1
+Dr. Weil,Gud,Undirected,1
+Fritz Haugsted,Gud,Undirected,1
+Fritz Haugsted,Weil,Undirected,1
+Clausen,Nielsen,Undirected,1
+Aaget,Nielsen,Undirected,1
+Anton Bollestrup,Skaalen,Undirected,2
+Aage Lange,Sundstrup,Undirected,1
+Albert Delacroix,Hansen,Undirected,1
+Aage Lange,Gud,Undirected,1
+Aage Lange,Herman Weil,Undirected,1
+.Lange,Aage Lange,Undirected,1
+.Lange,Thingsvidne,Undirected,1
+Sundstrup,Thingsvidne,Undirected,1
+Sundstrup,cel,Undirected,1
+Pers,Weil,Undirected,1
+Pauls,Pers,Undirected,1
+.Weil,Gud,Undirected,1
+Dr. Weil,Haugsted,Undirected,1
+Clausen,Haugsted,Undirected,1
+Aare,Fritz Haugsted,Undirected,1
+Hansken,Weil,Undirected,1
+Dr. Weil,Methusalem,Undirected,1
+Delacroix,Haugsted,Undirected,2
+Kjære,Nathalie,Undirected,1
+Cloten,Nathalie,Undirected,1
+Carlsen,Frk. Gjelstrup,Undirected,1
+Frk. Gjelstrup,Hans,Undirected,1
+Frk. Gjelstrup,Jachimo,Undirected,1
+Delacroix,Gud,Undirected,1
+Delacroix,Pavens,Undirected,1
+Herman Weil,Pavens,Undirected,1
+Herman Weil,Weil,Undirected,1
+Hansen,lian,Undirected,1
+Gjelstrups,Hr. Sørensen,Undirected,1
+Hr. Petersen,Hr. Sørensen,Undirected,1
+Gud,Nathalie Gjelstrup,Undirected,1
+Gud,Shakspeares,Undirected,1
+Salvini,Sundstrup,Undirected,1

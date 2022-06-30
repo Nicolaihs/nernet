@@ -1,0 +1,41 @@
+source,target,type,weight
+Gud,Siri,Undirected,2
+Cecilia Ehrnsporre,Siri,Undirected,1
+Cecilia Ehrnsporre,Gud,Undirected,1
+Cecilia,Gud,Undirected,1
+Frøken Ehrnsporres,Siri,Undirected,1
+Gud,Nielsen,Undirected,1
+Jasaa,Stråle,Undirected,1
+Gud,Selsab,Undirected,1
+Deum laudamus,Gud,Undirected,1
+Frøken Bårnholt,Gud,Undirected,1
+Si Dieu nexistait pas,il faudrait,Undirected,1
+Scharnfelt,Werner,Undirected,8
+Jasaa,Scharnfelt,Undirected,1
+Hansen,Scharnfeldt,Undirected,1
+Hansen,Scharnfelt,Undirected,1
+Hansen,Tina,Undirected,1
+Blom,sorn Læge,Undirected,1
+Blom,Scharnfelt,Undirected,1
+Blom,Werner,Undirected,1
+G,Scharnfelt,Undirected,2
+Hans,Minna,Undirected,1
+Kurt v. Bredow,Minna,Undirected,1
+Kurt,Minna,Undirected,1
+Ludvig den,Minna,Undirected,1
+Fars,Jøsses,Undirected,1
+Kurt,Sally,Undirected,1
+PRAXIS,THEORI,Undirected,1
+Dante,Lasciate,Undirected,2
+Dante,Virgilius,Undirected,1
+Hermansen,Leroi-Beaulieu’,Undirected,1
+Frøken Sallstrøm,Tørnfelt,Undirected,1
+Anders,Brukets,Undirected,1
+Anders,Frøken Sållstrøm,Undirected,1
+Frøken Sållstrøm,Gud,Undirected,1
+Frøken Sållstrøm,Majorens,Undirected,1
+Major,Onkels,Undirected,1
+Frøken Sållstrøm,Major,Undirected,1
+Frøken Sållstrøm,Olsen,Undirected,1
+Bramberg,Major,Undirected,1
+Beethoven,Mozart,Undirected,1

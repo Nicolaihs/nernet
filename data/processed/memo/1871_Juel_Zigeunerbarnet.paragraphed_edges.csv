@@ -1,0 +1,315 @@
+source,target,type,weight
+Mira,Zigeunerpige,Undirected,1
+Lene,Mira,Undirected,9
+Mira,Olava,Undirected,6
+Mathea,Olava,Undirected,3
+Kari,Mathea,Undirected,3
+Guds,Ola,Undirected,1
+Mira,ber,Undirected,2
+Mira,Ola,Undirected,10
+Adelheid,Ola sfal,Undirected,1
+Frøken Brede,Mira,Undirected,5
+Frøken Brede,Ola,Undirected,1
+Mira,Mira Grotte,Undirected,1
+Mira Grotte,Zigeunersks,Undirected,1
+Frøken Grotte,Thomas,Undirected,1
+Grevinde Cederskøld,Zigeunerske,Undirected,1
+Margarethe,Mira,Undirected,5
+Frøken Brede,Hammer,Undirected,1
+Gud,Mira,Undirected,10
+Baron Silgestrem,Mira,Undirected,1
+Cederskøld,Mira,Undirected,27
+Cederskøld,Frøken Breds,Undirected,1
+Frøken Breds,Mira,Undirected,1
+Adelheid,Mira,Undirected,7
+Baron Silgestrøm,Mira græb,Undirected,1
+Mira,Mira græb,Undirected,1
+Cederskøld,Stlgestrøms,Undirected,1
+Adelheid Silgestrøm,Cederskøld,Undirected,2
+Cederskøld,Frøken Brede,Undirected,2
+Cederskøld,Loths,Undirected,1
+Adelheid,Loths,Undirected,1
+Adelheid,Frøken Brede,Undirected,3
+Cederskøld Mira,Silgestrøm,Undirected,1
+Cederskøld Mira,Frøken Brede,Undirected,1
+Frøken Søthsrberg,Mira,Undirected,1
+Mira,Stockbolms,Undirected,1
+Cederfløld,Stockbolms,Undirected,1
+Mi,Mira,Undirected,1
+Mira,Silgestrøm,Undirected,14
+Baron Silgestrøm,Gud,Undirected,1
+Grevinde Cederskølos,Mira,Undirected,1
+Baron Silgestrøm,Ola,Undirected,1
+Baron Silgestrøm,Mira,Undirected,13
+Frøken Søcherbergs,Mira,Undirected,1
+Frøken Søcherbergs,Sgngerindss,Undirected,1
+Mira,Sgngerindss,Undirected,1
+Frøken Søtherberg,Mira,Undirected,17
+Baron Silgesfrøm,Ola,Undirected,1
+Lene,Mira reisfe,Undirected,1
+Kari,Mira,Undirected,1
+Erik,Kari,Undirected,1
+Frøken Brede,Gud,Undirected,1
+Mira,Sam,Undirected,1
+Mira,fig,Undirected,2
+Lene,fig,Undirected,1
+Lene,lin,Undirected,1
+Olava,lin,Undirected,1
+Hylle,Olava,Undirected,1
+Frøken Brede,Hylle,Undirected,1
+Erik,Frøken Brede,Undirected,1
+Erik,Stakkel,Undirected,1
+Baron Silgestrøm,Lene,Undirected,2
+Ola,Silgestrøm,Undirected,2
+Grevinde Cederskøld,Silgestrøm,Undirected,1
+Lene,Ola,Undirected,2
+Baron Silgestrøm,Silgestrøm,Undirected,2
+Mira,Roses,Undirected,1
+Cederskøld,Silgestrøm,Undirected,4
+Frøken Grotte,Ola,Undirected,1
+Adelheid,Ola,Undirected,1
+Adelheid,Silgestrøm,Undirected,2
+Baron Silgestrøm,Frøken Søtherberg,Undirected,2
+Frøken Søtherberg,Lene,Undirected,1
+Greve,slakkels,Undirected,1
+Beate,Cederskøld,Undirected,6
+Cederskøld,Kjære,Undirected,2
+Adelheid,Baron,Undirected,1
+Adelheid,Frøken Grotte,Undirected,1
+Margarethe,Nymfe,Undirected,1
+Cederskøld,Grevinde Cederskøld,Undirected,1
+Frøken Grotte,Grevinde Cederskøld,Undirected,1
+Cederskøld,ester,Undirected,1
+Frøken Grotte,Frøken Jonson,Undirected,1
+Baron Silgestrøm,Frøken Jonson,Undirected,1
+Baron Silgestrøm,Cederskøld,Undirected,2
+Baronesse Silgestrøm,Mira,Undirected,7
+Cederskøld,Minna,Undirected,1
+Grev Cederskøld,Mira,Undirected,1
+Minna,Mira,Undirected,1
+Beate,Frøken Grotte,Undirected,1
+Beate,Zigeunerske,Undirected,1
+Mira,Rose,Undirected,19
+Baron Silgestrøm,Rose,Undirected,1
+Cederskøld,Villiam,Undirected,4
+Villiam,Øreng,Undirected,1
+Mira,Villiam Cederskold,Undirected,1
+Mira,Villiam,Undirected,31
+Baron Silgestrøm,Villiam,Undirected,4
+Frøken Grotte,Villiam,Undirected,3
+Greven,Mira,Undirected,4
+Frøken Grotte,ride,Undirected,1
+Adelheid,ride,Undirected,1
+Beate,Stakkel,Undirected,2
+Baron Silgestrøm,Frøken Beale,Undirected,1
+Gaae,Mira,Undirected,1
+Frøken Beate,Sslvsky,Undirected,1
+Adelheid,ester,Undirected,1
+Adelheid,Grev Cederskøld,Undirected,1
+Lene,Olavai,Undirected,1
+Erik,Mira,Undirected,2
+Erik,Olava,Undirected,1
+Lene,Olava,Undirected,3
+Mira,Pliras,Undirected,1
+Olava,Silgestrøm,Undirected,1
+Baronesse Silgestrøm,Gud,Undirected,4
+Baronesse Silgestrøm,Olava,Undirected,2
+Hammer,Mira,Undirected,1
+Frøken Sølherbergs,Silgestrøm,Undirected,1
+Baronesse Silgestrøm,Frøken Sølherbergs,Undirected,1
+Mira,ester,Undirected,5
+Baron Silgestrøm,ester,Undirected,2
+Baronesse Silgestrøm,Rose,Undirected,2
+Frøken Beate,Rose,Undirected,1
+Frøken Beate,Mira,Undirected,1
+Rose,Silgestrøm,Undirected,1
+Gud,Rose,Undirected,2
+Beate,Frøken Brede,Undirected,1
+MiraS,Villiam,Undirected,1
+Adelheid,Villiam,Undirected,2
+Beate,Mira,Undirected,2
+Beate,Villiam,Undirected,1
+Frøken Beate,Villiam,Undirected,1
+Baron Silgestrøm,Kjære Rose,Undirected,1
+Mira,Snee,Undirected,1
+Cederskøld,Miral,Undirected,1
+Cederskøld,ber,Undirected,1
+Frøken Beate,Silgestrøm,Undirected,2
+Rose,ester,Undirected,1
+Frøken Søtherberg,Rose,Undirected,2
+Cederskøld,Rose,Undirected,2
+Mira,Rosel,Undirected,1
+Doctor Udman,Doctoren,Undirected,1
+Rose,kjære Doctor Ydman,Undirected,1
+Ydman,Yvmann,Undirected,1
+Gud,Yvmann,Undirected,1
+Halten,Udman,Undirected,1
+Ester,Ødman,Undirected,1
+Doctor Ødman,Doctoren,Undirected,2
+Mira,ØdmannI,Undirected,1
+Rose,Ødman,Undirected,1
+Erik Vadman,lille Molly Vinblad,Undirected,1
+Adelheid,Cederskøld,Undirected,2
+Adelheid,Beate,Undirected,3
+Frederik,Gravsteen,Undirected,1
+Frøken Lindeborg,Hvao,Undirected,1
+Frøken Lindeborg,Gud,Undirected,1
+Adlersparre,Beate,Undirected,4
+Anna,Capitain Axelson,Undirected,1
+Anna,Olaf,Undirected,2
+Frøken Grotte,Mira,Undirected,2
+Adlersparre,Frøken Grotte,Undirected,1
+Adlersparre,Axelsons,Undirected,1
+George,Jacob,Undirected,1
+Frøken Lindeborg,George,Undirected,1
+Frøken Lindeborg,Mira,Undirected,1
+Jacob,Mira,Undirected,1
+Frøken Halling,Mira,Undirected,3
+Villiam,ester,Undirected,1
+Frøken Halling,Villiam,Undirected,2
+Adelyeid,Beate,Undirected,1
+Adelyeid,Frederik,Undirected,1
+Beate,bende,Undirected,1
+Frederik,bende,Undirected,2
+Anna,bende,Undirected,1
+Adlersparre,Anna,Undirected,2
+Frederik,slakkels,Undirected,1
+Beate,Frederik,Undirected,3
+Anna,Frederik,Undirected,1
+Adlersparre,Cederskøld,Undirected,3
+Beate,Frøken Søtherberg,Undirected,1
+Cederskøld,Ødman,Undirected,2
+Frøken Søtherberg,Ødman,Undirected,1
+Cederskold,jjeg,Undirected,1
+Baron Silgestroms,Mira,Undirected,1
+Beate,Øe,Undirected,1
+Mira,Øe,Undirected,1
+Baronen,Mira,Undirected,1
+Frøken Søtherberg,Silgesfrøm,Undirected,1
+Silgestrøm,Villiam,Undirected,2
+Mira,lee,Undirected,3
+Villiam,hust,Undirected,1
+Doctor Ødman,lee,Undirected,1
+Silgestrøm,ester,Undirected,1
+Gud,Jomfru Kullberg,Undirected,3
+Frøken,Gud,Undirected,2
+Erik,Gud,Undirected,2
+Erik,Ulla,Undirected,1
+Jomfru Kullberg,Mira,Undirected,7
+Dei,Villiam,Undirected,1
+Mira,ester Aftale,Undirected,1
+Grev Villiam,ester,Undirected,1
+Grev Villiam,Rose,Undirected,1
+Rose,Villiam,Undirected,2
+Jomfru Kullberg,borl,Undirected,1
+borl,gwel,Undirected,1
+Mira,bverandre,Undirected,1
+Doctor Ødman,Ødman,Undirected,1
+Doctor Ødman,Karin,Undirected,2
+Doctoren,Karin,Undirected,1
+Anna,Karin,Undirected,2
+Gud,Karin,Undirected,1
+Gud,slakkels,Undirected,2
+Anna,slakkels,Undirected,1
+Olaf,slakkels,Undirected,1
+Anna Axelson,Barbara,Undirected,1
+Anna Axelson,Carl,Undirected,1
+Barbara,Ødman,Undirected,4
+Barbara,sjeg,Undirected,1
+Anna Axelson,Gud,Undirected,1
+Karin/,Ødman,Undirected,1
+Karin,Ødman,Undirected,2
+Carl,Gud,Undirected,2
+Barbara,Carl,Undirected,1
+Docior Ødman,Stræder Holmberg,Undirected,1
+Doctor,Doctor Øvman,Undirected,1
+Doctor Ødman,Doctor Øvman,Undirected,1
+Cederskøld,Frøken Søtherberg,Undirected,2
+Cederskøld,Frøken Søtkerberg,Undirected,1
+Anna,Ødman,Undirected,1
+Anna,Doctor ØdmanS,Undirected,1
+lille Anna,lille Hanna,Undirected,1
+Cederskøld,Hanna,Undirected,1
+Doctor Ødman,Mira,Undirected,2
+Adelheid,lee,Undirected,1
+Ieg,Mira,Undirected,2
+Frøken Halling,ril,Undirected,1
+Beate,ril,Undirected,1
+Beate,Ieg,Undirected,2
+Ieg,Silgestrøm,Undirected,1
+Beate,Silgestrøm,Undirected,1
+Baron Silgestrøm,Beate,Undirected,1
+Baron Silgestrøm,Grev Sjernstedt,Undirected,1
+Adelheid,Gyllenborg,Undirected,1
+Cederskøld,ester Frøken Beate,Undirected,1
+Mira,ester Frøken Beate,Undirected,1
+maasfee,sfulde,Undirected,1
+Barbara,sfulde,Undirected,1
+Barbara,Fru Ødman,Undirected,1
+Axelson,Ødman,Undirected,1
+Barbara,Doctor Ødman,Undirected,1
+ber,Ødman,Undirected,1
+Barbara,ber,Undirected,1
+maasfee,Ødman,Undirected,1
+Mira,lil,Undirected,1
+Frøken Grotte,Ødman,Undirected,1
+Mira,Ødman,Undirected,2
+Doctor Ødman,Rose,Undirected,1
+ester,Ødman,Undirected,1
+Ola,Støi,Undirected,1
+Ola,Rose,Undirected,1
+Villiam,seil,Undirected,1
+Baron Silgestrøm,Grev Villiam,Undirected,1
+Ola,ester,Undirected,1
+Mira,Victor,Undirected,2
+Graad,Ola,Undirected,1
+Silgestrøm,Ødman,Undirected,1
+Ødman,øg,Undirected,1
+Frøken Grotte,øg,Undirected,2
+Jomfru KullbergS,lee,Undirected,1
+Mira,don lille Zigeunerske,Undirected,1
+Mira,Silgesfrøm,Undirected,1
+Villie,ester,Undirected,1
+Doctoren,Jomfru Kullberg,Undirected,1
+Rose,fig,Undirected,1
+Dei,Mira,Undirected,1
+Kullberg,Mira,Undirected,1
+Cederskøld,Doctor Ødman,Undirected,1
+Jomfru Kullberg,Ødman,Undirected,1
+Jomfru Kullberg,OlaS,Undirected,1
+Jomfru Kullberg,Ola,Undirected,2
+Ola,øg,Undirected,1
+MiraS,Ola,Undirected,2
+Victor Silgestrøm,Villiam,Undirected,1
+Mira,iveien,Undirected,1
+Carl,iveien,Undirected,1
+Carl,Lal reent,Undirected,1
+Baronesse Silgestrøm,Cederskøld,Undirected,2
+Mira,oe,Undirected,1
+Mira,Tante Margrethes,Undirected,1
+Frøken Brede,Tante Margrethes,Undirected,1
+Gud,Villiam,Undirected,2
+Jomfru Kullberg,Villiam,Undirected,1
+Mira,ester Reisen,Undirected,1
+Silgestrøm,Zigeunerske,Undirected,1
+Baron Silgestrøm,Baronesse Silgestrøm,Undirected,1
+Mira,Silgestrom,Undirected,2
+Luur,Mira,Undirected,1
+Gud,sif,Undirected,1
+Villiam,sif,Undirected,1
+Granen,Mira,Undirected,1
+Granen,ester,Undirected,1
+Baronesse Silgesirøms,Mira,Undirected,1
+Ali,Mira,Undirected,1
+Ali,henoe,Undirected,1
+henoe,hnn,Undirected,1
+Barti,Victor,Undirected,1
+Barti,Villiam,Undirected,1
+Baronesse Silgestrøm,Zigeunersffs,Undirected,1
+Baronesse Silgestrøm,Dall,Undirected,1
+Olava,lidl,Undirected,1
+Lust,Mira,Undirected,1
+Gud,Victor,Undirected,1
+Erik,Jomfru Kullberg,Undirected,1
+Erik,Ola,Undirected,1
+Baron Sligestrøms,Ola,Undirected,1

@@ -1,0 +1,568 @@
+source,target,timestamp
+Ane,Niels Gaardskarl,2
+Madam Wonge,Niels Gaardskarl,2
+Hans Wonge,Madam Wonge,2
+Gud,devare,12
+Becker,Gud,12
+Becker,Madam Wonge,14
+Line,Madam Wonge,14
+Line,adjøs,16
+Flid,Wonge,21
+Klovborg,Møller,23
+Gud,Wonge,27
+Becker,Hansen,35
+Isse,Wonge,40
+Klovborg,Wonge,46
+Lundholm,Nielsen,47
+Albert Maag,Wonge,52
+Jochumsens,Purrh,57
+Kjøkke,Wonge,67
+Klovborg,Trine,68
+Nikoline,Wonge,70
+Klovborg,Wonge,73
+Maag,Wonge,76
+Albert Maag,Wonge,77
+Agathe Wonge,Wonge,77
+Agathe,ovei,79
+Agathe Wonge,ovei,79
+Agathe,Wonge,80
+Agathe,Wonge,80
+Agathe,Sax,84
+Agathe,Hr. Brockhoff,86
+Reinhard,Reinhard Brockhoff,90
+Brockhoff,Reinhard,90
+Brockhoff,Rasmussen,90
+Brockhoff,Rasmussen,90
+Brockhoff,Reinhard,90
+Rasmussen,Reinhard,90
+Brockhoff,Rasmussen,92
+Brockhoff,Reinhard,92
+Brockhoff,Reinhard,92
+Agathe,Reinhard,93
+Agathe,Reinhard,93
+Agathe,Reinhard,96
+Agathe,Reinhard,98
+Agathe,Reinhard,99
+Agathe,Reinhard,102
+Gud,Reinhard,103
+Agathe,Maag,110
+Frøken Agathes,Maag,110
+Frøken Agathes,Wonge,110
+Wonge,liendes,111
+Agathe,Wonge,112
+Niels Gaardskarl,Wonge,113
+Madam Wonge,hnn,116
+Niels,Wonge,120
+Hester,Niels,121
+Niels,Wonge,122
+Carla Melsing,Niels,122
+Carla Melsing,Wonge,124
+Frk. Melsing,Wonge,125
+Carla Melsing,Wonge,126
+Carla Melsing,Wonge,126
+Carla Melsing,Wonge,126
+Helsing,Welding,132
+Agathe,Melsing,133
+Agathe,Hr. Brockhoff,133
+Gud,Hr. Brockhoff,133
+Gud,har,133
+Brockhoff,Prent,134
+Brockhoff,Wonge,136
+Brockhoff,Wonge,136
+Gud,Wonge,136
+Frk. Carla Melsing,Wonge,137
+Trine,Wonge,137
+Trine,undgaa,137
+Brockhoff,Wonge,138
+Line,Wonge,142
+Line,Trine,142
+Frk. Melsing,Wongers,144
+Hans,Wonge,145
+Wonge,hankan,147
+Frk. Melsing,Wonge,149
+Trine,Wonge,150
+Boldt,Trine,150
+Boldt,Buli,150
+Buil,Wonge,154
+Carla Melsing,Frk. Melsing,156
+Buli,Frk. Melsing,156
+Buli,Maag,156
+Maag,foi,156
+Buli,foi,156
+Buli,Carla Melsing,156
+Buil,Carla Melsing,156
+Ollendorffs,Ploetz,160
+Buil,Carla Melsing,161
+Carla,Maag,165
+Maag,Wonge,165
+Ferdinand,Wonge,166
+Buli,Maag,168
+Buli,Maag,168
+Buli,Danias,168
+Danias,Wonge,168
+Agathe,Wonge,168
+Agathe,Brockhoff,168
+Agathe,Brockhoff,169
+Brockhoff,Ferdinand Buils,169
+Brokhoff,Ferdinand Buils,169
+Brokhoff,Gud,169
+Agathe,Reinhard,171
+Agathe,Reinhard,171
+Agathe,Brockhoff,172
+Agathe,Brockhoff,172
+Agathe,Frk. Melsing,179
+Agathe,Carla Melsing,179
+Carla Melsing,Jens,179
+Agathe,Jens,179
+Agathe,Buli,179
+Buli,Wonge,179
+Maag,Wonge,179
+Maag,grant,179
+grant,sacrosancte,179
+Maag,Mister Wonge,180
+Frk. Melsing,Wonge,181
+Athene,Pallas,182
+Buil,Buli,184
+Buil,Carla Melsing,184
+Carla Melsing,Klovborg,184
+Carla,Klovborg,184
+Carla,Ossian,184
+Klovborg,Odysseen,185
+Klovborg,Sands,187
+Carla,Hr. Buil,189
+Buli,Wonge,193
+Buli,Hyllesteds,193
+Agathe,Wonge,194
+Maag,liun,198
+Agathe,Carla,200
+Agathe,Carla,200
+Agathe,Maag,202
+Carla,Lots,204
+Agathe,Frk. Melsing,207
+Buil,Don Juan,208
+Agathe,Buil,210
+Frk. Melsing,Wonge,213
+Frk. Melsing,Wonge,213
+Hyllested,Wonge,214
+Line,Wonge,214
+Klovborg,Wonge,215
+Maag,Wonge,216
+Carla Melsing,Wonge,216
+Carla Melsing,Wonge,216
+Buli,Wonge,217
+Buli,Praxis,217
+Praxis,Wonge,217
+Wonge,lian,217
+Agathe,Reinhard,218
+Agathe,Reinhard,218
+Flaarup,Reinhard,218
+Flaarup,Wonge,218
+Holberg,Reinhard,219
+Reinhard,quaien,221
+Reinhard,quaien,221
+Gud,Hr. Brockhoff,222
+Gud,Rasmussen,223
+Reinhard,Wonge,225
+Reinhard,Wonge,225
+Line,Reinhard,225
+Jøsses,Wonge,226
+Agathe,Reinhard,234
+Hr. Brockhoff,skjælmsk,236
+Hr. Brockhoff,foi,236
+Agathe,Hr. Brockhoff,238
+Hr. Brockhoff,Line,238
+Reinhard,daAgathes,239
+Agathe,daAgathes,239
+Agathe,Reinhard,241
+Agathe,Reinhard,242
+Agathe,Reinhard,242
+Kænguruh,Reinhard,242
+Agathe,Reinhard,244
+Agathe,Reinhard,246
+Reinhard,vims,246
+Reinhard,liun,247
+liam,liun,247
+Buil,liam,247
+Buil,Praxis,247
+Agathe,Reinhard,248
+Agathe,Buli,248
+Buli,Reinhard,249
+Brockhoff,Buli,249
+Brockhoff,Hr. Rasmussens,253
+Buli,Wonge,255
+Frk. Melsing,Maag,256
+Carla Melsing,Dands,257
+Albert Maag,Dands,257
+Agathe,Carla Melsing,258
+Agathe,Carla,258
+Frøken Melsing,Lassen,263
+Carla,Frk. Melsing,265
+Carla,Hallager,279
+Hallager,Wonge,281
+Hallager,Smed,282
+Hallager,Wonge,282
+Hallager,Wonge,282
+Hallager,Wonge,283
+Ryttei’,Wonge,285
+Wonge,a,289
+Fru Kuhlmanns,Wonge,292
+Gud,Wonge,295
+Agathe,Agathe Wonge,306
+Frøken Wonge,Reinhard,312
+Agathe,Frederiksen,313
+Agathe,Kuhlmann,314
+Kuhlmann,Reinhard,314
+Agathe,Reinhard,314
+Amelie,Hr. Brockhoff,318
+Amelie,Reinhard,319
+Amelie,Reinhard,320
+Brockhoff,Lumbye,322
+Amelie,Reinhard,323
+Kuhlmann,Reinhard,323
+Amelie,Reinhard,324
+Amelie,Reinhard,324
+Amelie,lian,324
+Buil,lian,324
+Agathe,Buil,324
+Agathe,Reinhard,325
+Kuhlmann,Reinhard,325
+Ferdinand Buli,Gud,326
+Gud,Margrethe,326
+Buli,Kuhlmann,328
+Buli,Voxne,330
+Hr. Brockhoff,Voxne,330
+Buli,Ferdinand,332
+Christopher,Ferdinand,332
+Christopher,Joachim Buli,332
+Fru Kuhlmanns,Maag,335
+Agathe,Buil,336
+Agathe,Frk. Melsing,336
+Brockhoff,Frk. Melsing,336
+Brockhoff,Buil,336
+Lanciers,Maag,338
+Frk. Bang,Larsens,341
+Bang,Carla Melsing,344
+Bang,Carla,344
+Carla,Don Juan,344
+Don Juan,Leporello,344
+Carla,Hrr,345
+Hrr,Musici,345
+Carla,Frk. Bang,347
+Carla,Frk. Bang,350
+Carla,Dandsen,352
+Charybdis,Scylla,353
+Carla,Charybdis,353
+Agathe,Reinhard,357
+Agathe,Frk. Melsing,357
+Carla,Frk. Melsing,357
+Agathe,Carla,357
+Agathe,Reinhard,357
+Carla,Reinhard,357
+Carla,Reinhard,357
+Agathe,Reinhard,357
+Agathe,Reinhard,358
+Agathe,Reinhard,364
+Amelie,Lanciers,366
+Lanciers,Tralalala,366
+Dandsen,Trine,368
+Langsje,Melange,369
+Hyllested,Wonge,371
+Wonge,kongplet,374
+Dands,Wonge,378
+Hr. Brockhoff,Melsing,387
+Agathe,Reinhard,389
+Dands,Reinhard,389
+Dands,Reinhard,389
+Amelie,Reinhard Brockhoff,390
+Amelie,Reinhard Brockhoff,390
+Amelie,Buli,390
+Brockhoff,Buli,390
+Amelie,Reinhard,391
+Agathe,Reinhard,391
+Agathe,Amelie,391
+Agathe,Reinhard,392
+Agathe,Kuhlmann,394
+Kuhlmann,Reinhard,394
+Amelie,Reinhard,394
+Agathe,Frøken Kuhlmann,397
+Agathe,Frøken Wonge,398
+Agathe,Amelie,398
+Amelie,Reinhard,408
+Amelie,Reinhard,408
+Amelie,Reinhard,408
+Hr. Brockhoff,Romeo,415
+Julie,Romeo,415
+Julie,Shakespeare,415
+Agathe Jalusiens,Reinhard,416
+Amelie,Reinhard,416
+Amelie,Reinhard,417
+Agathe,Amelie,417
+Agathe,Jalusi,417
+Jalusi,Maag,417
+Amelie,Maag,417
+Agathe,Amelie,417
+Agathe,Manufakturhan,417
+Agathe,Hr. Brockhoff,418
+Agathe,Amelie,421
+Agathe,Reinhard,422
+Carla,Reinhard,422
+Agathe,Maag,423
+Maag,Reinhard,423
+Amelie patrouillerede,Reinhard,423
+Amelie patrouillerede,Wonge,423
+Buli,Wonge,423
+Dandsen,Herrens,424
+Reinhard,Wonge,425
+Frk. Bang,Wonge,425
+Lanciers,lian,426
+Agathe,lian,426
+Wonge,sis,428
+Madammens,sis,428
+Albert Maag,Wonge,429
+Albert Maag,Kopernikus,429
+Dandsen,Frk. Bang,430
+Frk. Bang,Lanciers,430
+Agathe,Reinhard,431
+Agathe,Carla,433
+Frøken Kuhlmann,Hr. Brockhoff,434
+Reinhard,Wonge,436
+Agathe,Midie,437
+Carla,Reinhard,438
+Buil,Frøken Agathe,441
+Brockhoff,Frøken Agathe,441
+Agathe,Maag,443
+Carla,Ægtevivs,444
+Frk. Wonge,Ægtevivs,444
+Agathe,Amelie,453
+Amelie,Reinhard,453
+Agathe,Reinhard,453
+Agathe,oni,455
+Agathe,Reinhard,457
+Brockhoff,Reinhard,457
+Agathe,Buil,458
+Buil,Trine,458
+Buli,Trine,458
+Buli,Hebe,458
+Buil,Hebe,458
+Bull,Burre,467
+Buli,fiffig,472
+Carla,fiffig,472
+Buli,Maag,473
+Buli,Carla,473
+Bull,Carla,475
+Carla,Maag,475
+Carla,Maag,475
+Allan Dahis,Buli,476
+Buli,Maag,478
+Maag,lian,478
+Carla,Carla Melsing,484
+Buil,Carla Melsing,484
+Bull,Carla,489
+Carla,Maag,489
+Agathe,Maag,489
+Agathe,Maag,489
+Carla,Maag,489
+Buil,Carla,490
+Buil,Carla,490
+Buil,Carla,490
+Amelie,Carla,490
+Amelie,Frøken Melsing,494
+Amelie,Vilhelm Tell,494
+Amelie,Jens,496
+Carla,Jens,496
+Amelie,Carla,496
+Amelie,Dands,496
+Amelie,Maag,498
+Amelie,Bull,500
+Bull,Frøken Melsing,500
+Amelie,Carla,507
+Amelie,Maag,507
+Carla,Maag,507
+Amelie,Carla,507
+Bull,Villie,509
+Frøken Wonge,Hr. Brockhoff,513
+Dandsen,Wonge,517
+Amelie,Mama,518
+Amelie,Buil,518
+Amelie,Bnll,520
+Amelie,Frøken Melsing,521
+Amelie,Buil,522
+Amelie,Buil,523
+Bull,Carla Melsing,525
+Amelie,Bull,525
+Amelie,Frøken Melsing,525
+Carla,Frøken Kuhlmann,526
+Carla,Wonge,528
+Carla,Wonge,528
+Amelie,Carla,529
+Buli,Wonge,531
+Frk. Melsing,Maag,532
+Carla,Kuhlmann,535
+Kuhlmann,Wonge,535
+Døttres,Wonge,535
+Døttres,Maag,535
+Dands,Reinhard,538
+Agathe,Dands,538
+Agathe,Dands,538
+Dands,Reinhard,538
+Agathe,Dandsen,539
+Agathe,Graad,539
+Amelie,hnn,541
+Agathe,bun,542
+Amelie,bun,542
+Amelie,Reinhard,542
+Amelie,Hr. Brockhoff,547
+Frk. Wonge,iReinhards,548
+Frk. Kuhlmann,Frk. Wonge,548
+Agathe,Frk. Kuhlmann,548
+Agathe,Amelie,548
+Klovborg,radmagre,550
+Klovborg,Zweckessen,550
+Klovborg,Wonge,554
+Hyllested,salig Hyllested,557
+Agathe,Wonge,558
+Frøken Melsing,Wonge,561
+Madammen,Wonge,562
+Carla,Wonge,562
+Carla Melsing,Wonge,563
+Carla,Wonge,568
+Carla Melsing,Wonge,573
+Carla,Frk. Melsing,574
+Carla,Maag,576
+Carla,Wonge,578
+Maag,Wonge,578
+Maag,Pathos,578
+Carla,Maag,580
+Frk. Melsing,Wonge,581
+Frk. Melsing,Madammen,581
+Buil,Carla,584
+Buil,Buli,584
+Buil,Wonge,585
+Buli,Hagel,591
+Buil,Ferdinand,593
+Ferdinand,Wonge,593
+Albert,Christopher Maag,600
+Beaumonde,Petersen,602
+Petersen,Sørensen,602
+Line,Wonge,604
+Line,Wonge,604
+Albert Maag,Frøken Agathe,609
+Buil,Frøken Agathe,611
+Bull,Wonge,613
+Buli,Wonge,615
+Reinhard,Wonge,615
+Agathe,Reinhard,615
+Agathe,Reinhard,615
+Agathe,Reinhard,615
+Agathe,Buli,615
+Buli,Bull,615
+Hyllested,Tyrras,617
+Tyrras,badous,617
+badous,langhan,617
+Agathe,Reinhard,619
+Klovborg,Køter,620
+Køter,Tyrras,620
+Hyllested,Tyrras,620
+Klovborg,Reinhard,621
+Buli,Reinhard,621
+Buli,Maag,621
+Agathe,Maag,621
+Buli,Reinhard,623
+Buli,Reinhard,624
+Agathe,Reinhard,624
+Agathe,Bull,624
+Bull,Wonge,625
+Hmarsch,Wonge,625
+Frk. Melsing,Hmarsch,625
+Frk. Melsing,Kuhlmann,625
+Buil,Kuhlmann,625
+Buil,liun,625
+liun,livor,625
+Maag,livor,625
+Maag,Wonge,625
+Agathe,Wonge,628
+Agathe,Wonge,628
+Agathe,Bull,630
+Bull,Reinhard,630
+Reinhard,Springgaas,630
+Frøken Wonge,Springgaas,630
+Bull,Reinhard,631
+Agathe,Bull,631
+Line,Wonge,633
+Line,Wonge,634
+Agathe,Reinhard,635
+Carla,Wonge,636
+Buil,Wonge,637
+Buil,Reinhard,637
+Agathe,Reinhard,641
+Bull,Reinhard,641
+Agathe,Reinhard,643
+Agathe,Reinhard,643
+Agathe,Reinhard,643
+Agathe,Reinhard,645
+Agathe,Reinhard,647
+Agathe,Reinhard,647
+Line,Wonge,648
+Line,Wonge,648
+Buli,Carla,651
+Buli,Wonge,651
+Agathe,Wonge,652
+Agathe,Reinhard,652
+Reinhard,Wonge,652
+Agathe,Wonge,652
+Agathe,Wonge,652
+Buli,Hr. Maag,657
+Buli,Carla,658
+Buli,Carla,658
+Agathe,Wonge,661
+Carla,Kehraus,665
+Albert,Carla,668
+Carla,Maag,668
+AIaag,Agathe,670
+Agathe,Carla,670
+Agathe,marsch,671
+Agathe,Reinhard,671
+Wonge,lian,673
+lian,liar,673
+Bullind,Mr. Wonge,674
+Mutter,Nikoline,675
+Amelie,Herr Brockhoff,676
+Agathe,Amelie,677
+A,Wonge,678
+Reinhard,Wonge,683
+Agathe,Reinhard,683
+Agathe,Kuhlmann,683
+Agathe,Reinhard,685
+Carla,Maag,689
+Bull,Wonge,692
+Buli,Carla,694
+Amelie,Mama,696
+Amelie,Wonge,699
+Amelie,Toddy,700
+Carla,Edikke,705
+Edikke,strax,705
+Slagter Beckers,Wonge,709
+Mutter,liam,710
+Agathe,Wonge,715
+Agathe,Hr. Brockhoff,715
+Agathe,Mutter,716
+Mutter,tora,716
+Anders,Wonge,717
+Brockhoff,Mutter,718
+Brockhoff,a Saltedød Brockhoff,718
+Hr. Brockhoff,else,720
+Buli,Wonge,725
+Bull,Wonge,725
+Carla Melsing,Frk. Terpsichore,726
+Carla Melsing,Wonge,726
+Hansen,Moneter,729
+Agathe,Reinhard,733
+Agathe,Wonge,734
+Agathe,Carla Melsing,734
+Agathe,Reinhard,737
+Agathe,Reinhard,742
+Agathe,Reinhard,743
+Hans,Wonge,744
+Reinhard,Wonge,746
+Brockhoff,Reinhard,746
+Brockhoff,Wonge,746

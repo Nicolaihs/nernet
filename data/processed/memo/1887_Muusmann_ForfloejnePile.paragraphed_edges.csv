@@ -1,0 +1,14 @@
+source,target,type,weight
+Kristian den,Niels Juel,Undirected,1
+Guardo,Poniasnotsky,Undirected,1
+Gruth,Gud,Undirected,1
+Gruth,Svend,Undirected,1
+Cerberus,Gruth,Undirected,1
+Aage Holm,Tell,Undirected,1
+Anders’,Soffi,Undirected,1
+Kristian,Soffi,Undirected,8
+Anders,Soffi,Undirected,3
+Kristian,Warbech,Undirected,1
+Anders,Kristian,Undirected,6
+Gud,Soffi,Undirected,1
+Anders,lille Kristian,Undirected,1

@@ -1,0 +1,62 @@
+source,target,type,weight
+Basse,Stampe-Gunnar,Undirected,1
+Gud signe Arbeidet,Jiirges,Undirected,1
+Hans,hans,Undirected,1
+Eivind,Hans,Undirected,1
+Jiirges,Knud,Undirected,1
+Daniel,Gud,Undirected,1
+Daniel Jiirges,Jiirges,Undirected,2
+D,Johannes,Undirected,2
+Gud,Jiirges,Undirected,2
+Madam Olsen,Olsen,Undirected,1
+Gud,Martha,Undirected,1
+Gud,Minal,Undirected,1
+Caroline,Daniel,Undirected,1
+Gabriele,Jørgen Pram,Undirected,2
+Gabriele,Kristi,Undirected,1
+Fru Pram,Gabriele,Undirected,1
+Gabriele,Gud,Undirected,5
+Gud,Johannes,Undirected,11
+D,Daniel Jiirges,Undirected,1
+Gabriele,Johannes Jiirges,Undirected,1
+Gabriele,Kurtise,Undirected,1
+Jørgen Pram,Prams,Undirected,1
+Flegma,Jørgen Pram,Undirected,1
+Jørgen Pram,hans Gabriele,Undirected,1
+Gabriele,Jiirges,Undirected,3
+Gabriele,Johannes,Undirected,54
+D,Gabriele,Undirected,1
+Johannes,s,Undirected,3
+Daniel,Gabriele,Undirected,5
+Gabriele,freidig,Undirected,1
+Daniel,freidig,Undirected,1
+Daniel,Johannes,Undirected,2
+Jiirges,sorn,Undirected,1
+Far,Gabriele,Undirected,1
+Arilds,Gabriele,Undirected,1
+Fogdens,Gabriele,Undirected,2
+Fogdens,Johannes,Undirected,1
+Gabriele,Olsen,Undirected,2
+Gabriele,Marie,Undirected,1
+Gabriele,Pram,Undirected,2
+Johannes,Madame Olsen,Undirected,1
+Far,Gud,Undirected,1
+Gabriele,Miserecordial,Undirected,1
+Gabriele,Jørgen,Undirected,1
+Daniel Jiirges,Gud,Undirected,1
+Daniel Jiirges,Morten Luther,Undirected,1
+Gabriele,Morten Luther,Undirected,1
+Johannes,d,Undirected,1
+-Johannes,Gabriele taug,Undirected,1
+Liszt,Ole Buli,Undirected,1
+Errard,Gabriele,Undirected,1
+Oberon,Valdhorn,Undirected,1
+Johannes,halvveis,Undirected,1
+.,j,Undirected,1
+.,Johannes,Undirected,1
+Daniel Jiirges,Gabriele,Undirected,1
+Daniel Jiirges,Johannes,Undirected,2
+Gabriele,JeS,Undirected,1
+Eden,Johannes,Undirected,1
+Eden,Pontoppidan,Undirected,1
+Gud,Pontoppidan,Undirected,1

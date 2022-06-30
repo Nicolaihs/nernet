@@ -1,0 +1,108 @@
+source,target,type,weight
+Creagton,Henrik III,Undirected,2
+Admiral Nelson,Creagton,Undirected,1
+Admiral Nelson,Nelson,Undirected,1
+Creagton,Nelson,Undirected,1
+Creagton,Geofroy Saint Hilaire,Undirected,1
+Geofroy Saint Hilaire,Lamarcks,Undirected,1
+Charles Lyells,Lamarcks,Undirected,1
+Charles Lyells,Darwins,Undirected,1
+Cuviers,Darwins,Undirected,1
+Creagton,Cuviers,Undirected,1
+Creagton,Darwin,Undirected,2
+James,Kate,Undirected,67
+Flegma,James Folly,Undirected,1
+Admiral Nelson,Flegma,Undirected,1
+Admiral Nelson,Folly,Undirected,1
+Creagton,Folly,Undirected,13
+Creagton,James,Undirected,57
+Creagton,Kate,Undirected,25
+James,James Folly,Undirected,10
+Folly,James,Undirected,4
+James,Villemoes,Undirected,1
+James Folly,Kate,Undirected,8
+Creagton,James Folly,Undirected,11
+James Folly,Patrick Hope,Undirected,1
+Bill,Patrick Hope,Undirected,1
+Bill,James Folly,Undirected,11
+Hope,James Folly,Undirected,3
+Creagton,Hope,Undirected,1
+Hope,James,Undirected,4
+Folly,Hope,Undirected,1
+Bill,James,Undirected,24
+Bill,Hope,Undirected,1
+Bill,Dr. Creagtons,Undirected,1
+Dr. Creagtons,James,Undirected,1
+Bill Hope,James Folly,Undirected,3
+Bill Hope,Creagton,Undirected,3
+Bill,Dr. Creagton,Undirected,1
+Creagton,Dr. Creagton,Undirected,2
+Dr. Creagton,James Folly,Undirected,3
+Bill,Kate,Undirected,17
+Creagton,Patrick Hope,Undirected,1
+James,Matthews,Undirected,6
+Kate,Matthews,Undirected,15
+Matthews,Zenith,Undirected,1
+Bill,Matthews,Undirected,9
+Bill Hope,Folly,Undirected,1
+Bill,Creagton,Undirected,17
+Bill,Karl,Undirected,2
+Folly,Kate,Undirected,7
+Creagton,Frederik den,Undirected,1
+Frederik den,James,Undirected,1
+Admiral Hyde Parker,Kate,Undirected,1
+Admiral Hyde Parker,Admiral Nelson,Undirected,1
+Folly,Matthews,Undirected,3
+Creagton,Frederik den Femte,Undirected,1
+Frederik den Femte,Nelson,Undirected,1
+James Folly,Matthews,Undirected,6
+Creagton,James Pollys,Undirected,1
+James,James Pollys,Undirected,1
+Baadshagen,Folly,Undirected,1
+James Folly,dei-,Undirected,1
+James,Støren,Undirected,1
+Bill,Kate og,Undirected,1
+Gud,Matthews,Undirected,1
+Bill,Dick,Undirected,6
+Dick,Kate,Undirected,10
+Dick,Matthews,Undirected,6
+Bill.,James,Undirected,1
+Bill,Spiger,Undirected,1
+Creagton,Matthews,Undirected,5
+Folly,Gustave Thuret,Undirected,1
+Creagton,Gud,Undirected,1
+James Folly,livor Kate,Undirected,1
+Bill,Folly,Undirected,3
+Folly,James Folly,Undirected,1
+Gud,James,Undirected,1
+Bill.,Kate,Undirected,2
+Bill Hope,James,Undirected,4
+Bill,Bill.,Undirected,1
+Bill.,James Folly,Undirected,1
+Bill,oppebie Bills,Undirected,1
+Kate,Mars,Undirected,2
+Creagton James,James,Undirected,1
+Creagton James,Kate,Undirected,1
+Dr. Creagton,Kate,Undirected,1
+Dr. Creagton,James,Undirected,1
+Creagton,Martianer,Undirected,1
+Creagton,Mars,Undirected,2
+Creagton de skibbrudnes,James,Undirected,1
+Kate,Martianerens,Undirected,1
+Mars,Vega,Undirected,1
+Vega,Venus,Undirected,1
+Kate,Venus,Undirected,1
+Aare,James,Undirected,1
+Aaren,James,Undirected,1
+Aare,Creagton,Undirected,1
+James,Villieløs,Undirected,1
+Gulddalens,Kate,Undirected,1
+Dr. Creag-tons,James Folly,Undirected,1
+Bill Hope,Dr. Creag-tons,Undirected,1
+Bill Hope,Dick,Undirected,2
+James,Miss Kate,Undirected,1
+Creagton,Dick,Undirected,1
+Dick,James Folly,Undirected,1
+Bill Hope,Matthews,Undirected,1
+Bill Hope,Kate,Undirected,1
+Kate,Venus —,Undirected,1

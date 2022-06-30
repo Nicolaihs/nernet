@@ -1,0 +1,712 @@
+source,target,timestamp
+Adam,Hansen,5
+Adam,Hansen,18
+Adam,lille Adam,18
+Sørensen,lille Adam,18
+Sørensen,er Sørensen,18
+Adam,er Sørensen,21
+Adam,Hansen,23
+Adam,Helene,23
+Adam,Helene,23
+Adam,Helene,23
+Adam,Helene,26
+Adam,Eva,28
+Adam,Dokforen,32
+Hansen,Holger Svendsen,36
+Holger Svendsen,Ole,36
+Holger Svendsen,Schindler,69
+Emilie,Holger Svendsen,78
+Helene,Holger Svendsen,78
+Emilie,Holger Svendsen,79
+Emilie,Holger Svendsen,79
+Emilie,Peter,81
+Emilie,Hr. Svendsen,81
+Eugenik,Hr. Svendsen,81
+Eugenie,Peter,83
+Holger Svendsen,Peter,85
+Aland,Helene,89
+Aland,Holger Svendsen,89
+hnn,nn,90
+Donnerwetter,hnn,90
+Dn,hnn,92
+Alande,hnn,92
+Alande,hnn,92
+Helene,Karl,95
+Holger Svendsen,hnn,97
+Emilie,Holger Svendsen,112
+Emilie,Holger Svendsen,113
+Eugenie,Toddy,115
+Eugenie,Hr. Svendsen,116
+Holger Svendsen,Hr. Svendsen,119
+Emilie,Holger Svendsen,121
+Holger Svendsen,Manuelo,139
+Dm,son,148
+Manuelo,Villien,156
+Emilie,Holger Svendsen,163
+Helene,Ole Sørensen,173
+Hansen,Ole,176
+Holger Svendsen,Ole,177
+Hansen,Ole,179
+Helene,Holger Svendsen,180
+Hansen,Ole,183
+Holger Svendsen,Ole,189
+Hansen,Ole,196
+Manuelo,Ole,196
+Holger Svendsen,nian,202
+Manuelo,Ole,204
+Manuelo,Ole,205
+Manuelo,Ole,207
+Doktor Hansen,Ole,209
+Helene,Holger Svendsen,215
+Hansen,Holger Svendsen,217
+Dokloren,Ole,222
+Helene,Ole,222
+Helene,Kaptajn Holms,248
+-ft,Helene,248
+-ft,-iMan,248
+-iMan,Ludvig,248
+Holger Svendsen,Ludvig,248
+Hr. Skov,Ludvig,249
+Ludvig,Ole,251
+Hansen,Ole,251
+Hr. Skov,Ludvig,253
+Hr. Skov,Ludvig,254
+Ludvig,Mefferen,259
+Helene,Holm,264
+Helene,Holger Svendsen,279
+Helene,Holger Svendsen,291
+Helene,Holger Svendsen,297
+Al,Helene,306
+Helene,Holger Svendsen,306
+Ester,Helene,326
+Holger Svendsen,Madam Olsen,337
+Helene,Holger Svendsen,338
+Biens,am Olsen,341
+Holger Svendsen,Madam Olsen,343
+Helene,Holger Svendsen,348
+Emilie,Mille,364
+Holger,Mille,397
+Holger Svendsen,ester,401
+Holger Svendsen,Schindler,405
+Emilie,Holger Svendsen,411
+Emilie,Schindler,411
+Emilie,Holger Svendsen,413
+Holger Svendsen,sorn,419
+Helene Sørensen,sorn,419
+Helene Sørensen,Holger Svendsen,425
+Holger Svendsen,Madam Olsen,434
+Holger Svendsen,Madam Olsen,435
+Holger Svendsen,Madam Olsen,440
+Holger Svendsen,Madam Olsen,443
+Helene,Madam Olsen,444
+Holger Svendsen,Skylla iKarybdis,453
+Helene,Schindler,454
+Helene,Schindler,466
+Helene,ester,468
+Direkfør Schindler,Helene,475
+Helene,Holger Svendsen,475
+Holger Svendsen,Madam Olsen,475
+Direkfør,Schindler,477
+Madam Olsen,Schindler,477
+Madam,Madam Olsen,478
+Holger Svendsen,Madam Olsen,480
+Helene,Madam Olsen,491
+Helene,hanJog,496
+Helene,Schindler,511
+Hansen,Helene,515
+Helene,Schindler,519
+Amanda,Schindler,526
+Helene,Schindler,527
+Helene,Schindler,528
+Schindler,fom,538
+Hansen,Madam Mikkelsen,540
+Hansen,Ole,542
+Ole,hnn,542
+Hansen,Helene,546
+Helene,Mannelo,548
+Hansen,Manuelo,555
+Emilie,Hansen,565
+Emilie,Helene,567
+Emilie,Hansen,583
+Emilie,Manuelo,583
+Manuelo,Ole,583
+Holger Svendsen,Ole,583
+Holger Svendsen,Manuelo,583
+Holger Svendsen,Schindler,588
+Emilie,Mannelo,596
+Hansen,Oskar Skov,602
+Mannelo,Oskar Skov,611
+Manuelo,Oskar Skov,622
+Doklors,Manuelo,624
+Hansen,Øe,627
+Hansen,Øe,627
+Hr. Skov,Manuelo,636
+Manuelo,Oskar Skov,638
+Hansen,Mannelo,641
+Ua,Uerla,643
+Hain,Mannelo,669
+Manuelo,Oskar Skov,683
+Holm,Manuelo,688
+Holm,Oskar Skov,688
+Eva,Hansen,694
+Mademoiselle Hansine Jensen,Monsieur Schindler,700
+Jens,Jensine,705
+Jensen,Jensine,705
+Emilie Snydstrup,Jensen,705
+Mu,trouptz,706
+Emilie Snydstrup,Hansine Jensen,707
+Mademoiselle Emilie Snydstrups,Mademoiselle Hansine Jensen,709
+Hansen,Manuelo,714
+Hansen,Manuelo,720
+Hansen,Manuelo,721
+Oluf Lund,Skov,722
+Dokfor Hansen,Oluf Lund,722
+Dokfor Hansen,Manuelo,723
+Hr. Schindler,Oskar Skov,739
+Hr. Schindler,Oskar Skov,741
+munclim vult llooipi,orgv slooipiutur,742
+Oskar Skov,hani,751
+Hr. Schindler,Oskar Skov,758
+Hr. Schindler,Mademoiselle Petrea Iversen,760
+Hnn,Oskar Skov,761
+Hr. Schindler,Oskar Skov,774
+dotz,oomins il knut,780
+Helene Sørensen,monsisur lo,782
+Schindler,monsisur lo,782
+Helene,Schindler,782
+Helene,Mademoiselle Helene,782
+Biarie Poulsen,Hansine Jensen,784
+monsieur,sxeussi,786
+Hr. Schindler,Oskar Skov,788
+Oskar Skov,Skjoldmø,791
+Mademoiselle Emilie Snydstrup,Oskar Skov,791
+Mademoiselle Emilie Snydstrup,Mille,791
+Schindler,tDe,795
+Graad,Schindler,801
+Mille,Schindler,801
+Mille,Oskar Skov,803
+Helene Sørensen,Schindler,806
+Helene Sørensen,Schindler,806
+Holger Svendsen,Mille,817
+Helene,Schindler,827
+: Schindler,Helene,848
+Helene,oni,854
+Hansen,Helene,864
+Hansen,Manuelo,864
+Manuelo,Oskar Skov,864
+Helene,Madame,884
+Helene,hnn,887
+Holger Svendsen,hM,890
+Helene Sørensen,Holger Svendsen,894
+Helene Sørensen,sknlde,896
+Helene Sørensen,Schindler,896
+Hansen,Manuelo,906
+Helene,sti,910
+Hansen,Mannelo,912
+Juliette,Øe,915
+Madam Schindler,fiffig,929
+Juliette,fiffig,929
+Hansen,Manuelo,931
+Madame Schindler,ester,936
+Madame Schindler,Mademoiselle Juliette,936
+Madame Schindler,Monsieur Schindler,944
+Helene Sørensen,Schindler,960
+Karl Hansen,Oskar Skov,961
+Olaf Lund,Oskar Skov,961
+Helene,Olaf Lund,964
+Juliette,Oskar Skov,969
+Karl,Olaf,970
+Hansen,Juliette,971
+Olaf,Olaf Lund,982
+Helene Sørensen,Olaf Lund,986
+Olaf,Olaf Lund,992
+Olaf Lund,mørk,992
+Eva,Karl,997
+Hansen,Olaf,999
+Helene Sørensen,Olaf,999
+Helene Sørensen,^ntiu,999
+Hansen,Juliette,1006
+Hansen,Juliette,1007
+Hansen,Olaf Lund,1007
+Helene,Juliette,1012
+Helene,Juliette,1017
+Helene,Juliette,1017
+Helene,Juliette,1017
+Hansen,Juliette,1017
+Helene,ester Juliettes,1018
+Fiacren,Juliette,1024
+Helene,Juliette,1024
+Monsieur,silo,1031
+Fiacren,Juliette,1033
+Fiacren,Juliette,1034
+Manuelo,hgn,1049
+Helenej Sørensen,Mannelo,1056
+Helenej Sørensen,Schindler,1056
+S rir,riManuelos,1085
+Hansen,Helene Sørensen,1086
+Helene Sørensen,Schindler,1086
+Hansen,Manuelo,1100
+Olaf,Olaf Lund,1118
+Eva,Karl,1122
+Hansen,siinilibus,1138
+Hansen,Manuelo,1138
+-Lund,Olaf,1139
+Manuelo,Olaf Lund,1142
+Hansen,Manuelo,1143
+Hr. Skov,Manuelo,1144
+Holm,Karl Hansen,1151
+Holm,Manuelo,1151
+Manuelo,Oskar Skov,1158
+Hnn,Manuelo,1160
+Mannelo,Oskar Skov,1163
+Manuela,Oskar Skov,1167
+Hansen,Manuelo,1171
+Manuelo,Olaf Lund,1171
+Karl Hansen,Olaf Lund,1172
+Bien Olaf Lund,Olaf Lund,1188
+Hansen,Olaf Lund,1191
+Eva sra,Karl,1192
+Eva,Olaf,1195
+Karl Hansen,Olaf Lund atler,1197
+Karl,Olaf Lund,1199
+Eva,Karl,1199
+Karl Hansen,Søulk,1207
+Holm,Karl Hansen,1221
+,Olaf Lund,1222
+Olaf,Olaf Lund,1233
+Olaf,Velan,1238
+Doklors,Olaf Lund,1239
+Karl,Søulk,1242
+Hain,Søulk,1242
+Hansen,Olaf Lund,1243
+Eva,Olaf,1246
+Cadix,Eva,1246
+Cadix,Holm,1246
+Eva,Holm,1246
+Olaf Lund,j,1248
+Hanfen,Manuelo,1253
+Hansen,Olaf Lund,1256
+Hansen,Manuela Paris,1256
+Hansen,Helene Sørensen,1257
+Helene Sørensen,Manuelo,1257
+Gud,Helene,1261
+Helene,Karl as,1261
+Helene,Holger Svendsen,1267
+Holger Svendsen,Peder Laale,1267
+Holger Svendsen,Peder Laale,1270
+Kamilla Karstensen,Uhre,1277
+Carl Herrmann,Kamilla Karstensen,1277
+Hansen,Helene,1279
+Carl Herrmann,Kamilla Karstensen,1280
+Carl Herrmann,Ludvig,1280
+Dokfor Hansen,Drosfen,1282
+Dokfor Hansen,Helene,1282
+Helene,Manuelo,1282
+Dokforen,Manuelo,1282
+Helene,Madam Mikkelsen,1283
+Dokfor Hansen,Madam Mikkelsen,1283
+Dokfor Hansen,Manuelo,1283
+Helene,Ole,1284
+Hansen,Ole,1285
+Hansen,Lund,1291
+Doklor Hansen,Eva,1292
+Doklor,Eva,1292
+Hansen,Krisis,1316
+Hansen,ester,1323
+Hansen,Lund,1328
+Doklor Hansen,Eva,1329
+Doklor Hansen,Eva,1329
+Adam,Doklor Hansen,1329
+Adam,Lund,1348
+Adam,Lund,1352
+Eva,Karl Hansen,1366
+Eva,Olaf Lund,1369
+Eva,Olaf Lund,1371
+Adam,Eva,1375
+Helene,Madame Nielsen,1377
+Eva,Helene,1379
+Eva,Helene,1379
+Helene,Ole,1380
+Holger Svendsen,Hr. Mortensen,1385
+Mo ,er Sørensen,1396
+Mo,Sørensen,1398
+Holger Svendsen,Sørensen,1401
+Holger Svendsen,Ludvig,1401
+Holger Svendsen,Ludvig,1402
+Holger Svendsen,Ole,1413
+Peter,er Sørensen,1415
+Ole Kollerød,Tofte,1420
+Ludvig,Mo ' er Sørensens,1422
+Holger Svendsen,Ludvig,1424
+Peter“,Sørensen,1425
+Holger Svendsen,Peter“,1425
+Mo ,er Sørensen,1428
+Mo ' er,Sørensen,1429
+Peter,Sørensen,1429
+Mo ,er Sørensen,1430
+Mo ,er Sørensen,1433
+Peter,er Sørensen,1434
+Holger Svendsen,Ludvig,1435
+Ludvig,MVer Sørensen,1437
+Holger,Holger Svendsen,1448
+Mo ' er,Sørensen,1449
+Ludvig,Sørensen,1449
+Ludvig,Peter,1449
+Holger Svendsen,Ludvig,1454
+Holger Svendsen,Ludvig,1455
+Ludvig,Sørenfen,1456
+Holger,Ludvig,1458
+Ludvig,Sørensen,1459
+Hamlet,Holger“,1460
+Hr. Skov,Ludvig,1461
+Holger Svendsen,Ludvig,1463
+Blaa,Holger,1464
+Ekko,Ludvig,1465
+Ludvig,nMkk,1466
+Mo ,Sørensen,1467
+Peter,Sørensen,1467
+Holger Svendsen,Ludvig,1468
+Ludvig,høllys,1469
+Hr. Skov,høllys,1469
+Ludvig,Sørensen,1471
+Ludvig,Sørensen,1471
+Mo ,er Sørensen,1476
+Peter,er Sørensen,1476
+Ludvig,er Sørensen,1478
+Ludvig,er Sørensen,1487
+Ludvig,er Sørensen,1487
+Ludvig,Sørensen,1496
+Holger,Ludvig,1496
+Holger Svendsen,Ludvig,1498
+Holger Svendsen,Ludvig,1500
+Hr. Mortensen,Ludvig,1502
+Hr. Mortensen,Ludvig,1502
+Kennst Du das Land,Laub die Goldorangen,1507
+Ein sanfter Wind von,Laub die Goldorangen,1507
+Han-,sen,1508
+Olaf Lund,sen,1508
+Hansen,Manuelo,1509
+Cendrillons,Manuelo,1512
+Adam —,Olaf Lund,1518
+Manuelo,Oluf/,1525
+Cadix,eiy,1528
+Hansen,Olaf Lund,1532
+Manuelo,Olaf Lund,1532
+Holm,Olaf Lund,1550
+Hansen,Olaf Lund,1550
+Holm,Olaf Luud,1552
+Holm,Olaf Lund,1553
+Holm,h. Olaf Lund,1554
+Hansen,Olaf Lund,1557
+Hansen,Olaf Lund,1558
+Hansen,Olaf Lund,1563
+Holm,Olaf Lund,1569
+Holm,Øe,1576
+graa,Øe,1576
+Olaf,graa,1576
+Lund,Olaf,1576
+Dokfor Hansen,Eva,1582
+Hansen,Olaf Lund,1596
+Hansen,Holm,1597
+Hansen,Olaf Lund,1598
+Ester dirse,Hansen,1601
+Hansen,Olaf Lund,1603
+Hansen,Olaf Lund,1618
+,Hansen,1629
+Hansen,fil,1637
+Kaptajn Holm,Olaf Lund,1639
+Hansen,Olaf Lund,1642
+Havgassens,Sauge,1668
+Don Emilio Aeosta,Emilio Alvarez,1687
+Eva,Olaf Lund,1691
+Eva,Karl Hansen,1693
+Eva,Karl Hansen,1693
+Eva,Olaf Lund,1694
+Eva,Olaf Lund,1695
+Holm,Olaf Lund,1699
+Eva,Olaf Lund,1699
+Hansen,Holm,1708
+Olaf,Olaf Lund,1713
+Holm,Olaf,1714
+Holm,Olaf Lund,1714
+Aled,Doklor Hansen,1716
+Doklor Hansen,Holm,1716
+Holm,Olaf Lund,1716
+Doklor Hansen,Holm,1717
+Doklor Hansen,Olaf Lund,1717
+Holm,Olaf Lund,1720
+Holm,Olaf Lund,1723
+Holm,Olaf Lund,1725
+Holm,Olaf Lund,1726
+Hansen,Olaf Lund,1731
+Manuelo,Olaf Lund,1731
+Holger Svendsen,Hr. Mortensen,1732
+Potz Tausend Donnerwetter,mein Busenfreund,1737
+Holger Svendsen,mein Busenfreund,1737
+Holger Svendsen,Jawohl lieber Freund,1740
+Holger Svendsen,Schindler,1747
+Holger Svendsen,Napoleon,1748
+Holger Svendsen,lieber Freund,1749
+Paris vergessen,nimmer werde ich,1752
+Methusalem,lieber Freund,1753
+Drakenberg,Methusalem,1753
+Drakenberg,Ronge,1753
+Elisabeth,Ronge,1753
+Doerst,Holger Svendsen,1756
+Doerst,geschehen ist,1756
+Holger Svendsen,geschehen ist,1756
+Holger Svendsen,Hr. Mortensen,1757
+Hr. Mortensen,Schindler,1758
+Potz,Tausend,1765
+Ludvig,MoerWørensen,1770
+Ludvig,Moer Sørensen,1771
+Holger Svendsen,Moer Sørensen,1771
+Holger Svendfen,Moer Sørensen,1773
+Holger Svendsen,Ludvig,1778
+Ludvig,Moer Sørensen,1778
+Ludvig,Schindler,1781
+Ludvig,Svendsens,1782
+Mo ,er Sørensen,1785
+Mo ,er Sørensen,1790
+Ludvig,er Sørensen,1792
+Mo ,er Sørensen,1793
+Peter,er Sørensen,1793
+Holger Svendsen,Ludvig,1795
+Skaal,Sørensen,1796
+Ludvig,Sørensen,1799
+Ludvig,Skaal,1799
+Holger,Ludvig,1803
+Ludvig,mev,1807
+Holger Svendsen,er Sørensen,1811
+Holger Svendsen,Sørensen,1814
+Holger Svendsen,tronpo Oanoiso,1816
+Hansen,Sørensen,1819
+Sørensen,fom,1819
+Hansen,Holger Svendsen,1820
+Hansen,Helene,1820
+L propos,Ludvig,1827
+Mo ,er Sørensen,1829
+Peter,er Sørensen,1829
+Hr. Schindler,Pandora,1831
+Pandora,Promethevs,1831
+Hr. Schindler,Sørensen,1833
+Ludvig gnaven,Sørensen,1837
+Ludvig,Sørensen,1848
+Holger Svendsen,Sørensen,1850
+Holger,Ludvig,1852
+Schindler,Sørensen,1856
+Holger Svendsen,Mille,1860
+Mille,soni,1862
+Hilfe,Mille,1864
+Holger Svendsen,Sørensen,1868
+Holger Svendsen,Troppmann,1868
+Ole Kollerød,Troppmann,1868
+Ole Kollerød,Skaal,1868
+Holger,Skaal,1868
+Hansen,Hr. Skov,1872
+Holger Svendsen,Hr. Skov,1872
+Holger Svendsen,Ludvig,1872
+Holger Svendsen,Ludvig,1873
+Hansen,Ludvig,1874
+Holger Svendsen,er Sørensen,1875
+Mo ' er,Sørensen,1877
+Holger Svendsen,Sørensen,1877
+Hansen,Mo ' er Sørensen,1879
+Holger Svendsen,Mo ' er Sørensen,1879
+Helene Sørensen,Holger Svendsen,1879
+Holger Svendsen,Mo ,1880
+Mo ,er Sørensen,1880
+Peter,er Sørensen,1881
+Ludvig,Schindler,1883
+Helene,das,1885
+Helene,Kerl,1886
+Kerl,hat,1886
+hat,mir nicht mein Geld,1886
+mir nicht mein Geld,vielleichl,1886
+Hansen,Ludvig,1887
+Holger Svendsen,Ludvig,1895
+Ludvig,Mo ' er Sørensen,1896
+Holger Svendsen,Sørensen,1897
+Ludvig,Mo ' er Sørensen,1899
+Holger Svendsen,Ludvig,1902
+Ester,Ludvig,1903
+Holger Svendsen,Hr. Skov,1907
+Holger,Hr. Skov,1907
+Hr. Schindler,Hr. Skov,1908
+er Sørensen,hat gewesen,1909
+Holger Svendsen,er Sørensen,1920
+Ludvig,Sørensen,1922
+Lieber,Ludvig,1925
+Schindler,Sørensen,1926
+Holger Svendsen,Schindler,1926
+Ludvig,Mo ' er Sørensen,1929
+Ludvig,er Sørensen,1930
+Holger Svendsen,er Sørensen,1930
+Holger Svendsen,er Sørensen,1930
+Schindler,er Sørensen,1930
+Holger Svendsen,Ludvig,1934
+Ekko,Ludvig,1936
+Ekko,Schindler,1936
+Ludvig,Sørensen,1938
+Mo ,er Sørensen,1939
+Ester nogen,Holger Svendsen,1940
+Mo ,er Sørensen,1947
+Holger . Svendsen,er Sørensen,1949
+Mo ,er Sørensen,1951
+Mo ,er Sørensen,1953
+Ludvig,er Sørensen,1954
+Ludvig,Schindler,1957
+Mo ,er Sørensen,1958
+Holger Svendsen,lieber Freund,1959
+Holger Svendsen,Ludvigsen,1959
+Ludvig,Sørensen,1960
+Hagen,Ludvig,1961
+Peter,Sørensen,1962
+Peter,Sørensen,1966
+Holger Svendsen,Ludvig,1968
+Kukkuk,fallera,1970
+Kukkuk,fallera,1970
+Schindler,Sørensen,1971
+Mo ,er Sørensen,1972
+Ludvig,Mo ' er Sørensen,1973
+Schindler,er Sørensen,1974
+Sørensen,er Sørensen,1974
+Ludvig,Ludvigsen,1975
+Eva,Helene,1978
+Helene,lille Adam,1978
+Eva,Hansen,1979
+Eva,Olaf,1988
+Adam,Olaf,1988
+Adam,Helene,1988
+Eva,Helene,1988
+Eva,Oluf,1988
+Karl,Olaf,1989
+Helene,Øreng,1999
+Helene,lille Adam,2002
+Adam,Helene,2008
+Hansen,Helene,2014
+Ludvig,Olaf Lund,2016
+Karl Hansen,Olaf Lund,2020
+Eva,Olaf Lund,2022
+Olaf,ester,2025
+Eva,ester,2025
+Eva,Karl,2032
+Eva,Holm,2044
+Eva,Olaf,2046
+Eva,Olaf Lund,2047
+Adam,Eva,2051
+Holm,Olaf,2055
+Holm,eins,2055
+Olaf,eins,2055
+Eva,Olaf,2064
+Dokfor Hansen,Zeg,2067
+Madam Mikkelsen,Zeg,2067
+Helene,jej,2074
+Adam,Eva,2076
+Eva,Olaf Lund,2079
+Madam Mikkelsen,Olaf Lund,2079
+Ludvig,Olaf Lund,2085
+Holger Svendsen,Ludvig,2085
+Holger Svendsen,Schindler,2085
+Mo ,Schindler,2085
+Mo ,er Sørensen,2085
+Hansen,Mo ' er Sørensen,2088
+Ludvig,Olaf Lund,2089
+Holger Svendsen,Ludvig,2089
+Holger Svendsen,Schindler,2089
+Holger Svendsen,Hr. Mortensen,2090
+Schindler,er Sørensen,2091
+Taa,er Sørensen,2091
+Holger Svendsen,Schindler,2093
+Holger Svendsen,Ludvig,2095
+Ludvig,Olaf Lund,2097
+Holger Svendsen,s Olaf,2098
+Holger Svendsen,Ludvig,2100
+Holger Svendsen,Olaf Lund,2107
+Hr. Schindler,Ludvig,2111
+Hr. Schindler,Hr. Skov,2111
+Holger Svendsen,Ludvig,2116
+Olaf Lund,Schindler,2117
+Ludvig,Olaf Lund,2121
+Blester,Ludvig,2123
+Ludvig,Olaf Lund,2135
+Holger Svendsen,Ludvig,2136
+Holger Svendsen,Ludvig,2139
+Ludvig,Olaf Lund,2150
+Holger Svendsen,Olaf Lund,2153
+Ludvig,Olaf Lund,2154
+Ludvig,Olaf Lund,2154
+Holger Svendsen,Ludvig,2155
+Ludvig,Olaf Lund,2157
+Ludvig,Olaf Lund,2162
+Ludvig,Olaf Lund,2168
+Ludvig,Olaf Lund,2171
+Holger Svendsen,Ludvig,2173
+Holger Svendsen,Ludvig,2176
+Hansen,Mo ' er Sørensen,2180
+' er,Sørensen,2184
+' er,Sørensen,2184
+Peter,Sørensen,2186
+Sørensen,nied,2192
+Mo ,er Sørensen,2194
+Holger Svendsen,Ludvig,2195
+' er,Sørensen,2198
+Mo ,er Sørensen,2200
+Peter,Sørensen,2201
+Hansen,Ole,2203
+Hansen,Helene,2205
+Holger Svendsen,Schindler,2215
+Hansen,Ludvig,2220
+Olaf Lund,dans,2235
+Karl,Ludvig,2236
+Ludvig,Olaf Lund,2238
+Eva,Olaf Lund,2245
+Eva,Helene,2250
+Helene,Madam Nielsen,2250
+Adam,Madam Nielsen,2250
+Eva,Olaf Lund,2251
+Eva,Olaf Lund Træk,2255
+Eva,Olaf Lund,2257
+Eva,Olaf Lund,2281
+Eva,Olaf Lundog,2283
+Eva,Hansen,2283
+Adam,Helene,2284
+Adam,Madam Nielsen,2284
+Doklor Hansen,Eva,2285
+Adam,Doklor Hansen,2285
+Adam,Eva,2285
+Eva,Olaf Lund,2285
+Adam,Olaf Lund,2288
+Doklor,Eva,2289
+Adam,Eva,2290
+Eva,Olaf Lund,2290
+Adam,Eva,2291
+Adam,Olaf Lund,2300
+Adam,Eva,2301
+Hansen,Ole Sørensen,2304
+' er,Sørensen,2306
+Hansen,Ludvig,2307
+Holm,Olaf Lund,2309
+Olaf Lund,er Sørensen,2309
+Peter,er Sørensen,2309
+Mo ,er Sørensen,2310
+Hr. P. Hansen,Hr. Pastor Frimodt,2311
+Ole Sørensen,Sørensen,2312
+Adam,Eva,2317
+Adam,Olaf Lund,2318
+Hr. Borchsenius,Ludvig,2321
+Hr. Borchsenius,Ludvig,2321
+Borchsenius,Ludvig,2321
+Borchsenius,Ludvig,2321
+Holger Svendsen,Schindler,2322
+Holger Svendsen,Michael Gjørup,2324
+Hr. Schindler,Michael Gjørup,2324
+Hr. Schindler,jour,2324
+Frederiksen,Thomas,2325
+Bille,Frederiksen,2325
+Bille,"Kasper Häuser,",2325
+"Kasper Häuser,",N. C. Rom,2325
+Schindler,viso vorsa,2327
+Emilie,alias Mille —,2329
+Holger Svendsen,alias Mille —,2329
+Helene Sørensen,Karl. Hansen,2331

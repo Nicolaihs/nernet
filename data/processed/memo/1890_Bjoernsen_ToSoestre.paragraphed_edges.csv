@@ -1,0 +1,231 @@
+source,target,type,weight
+Odins,Rinda,Undirected,1
+Marie,Odins,Undirected,1
+Kerner,Rinda,Undirected,2
+Kerner,Marie,Undirected,2
+Marie,Rinda,Undirected,175
+Kerner,Præsfegaard,Undirected,1
+Marie,Præsfegaard,Undirected,1
+Frøken Fos,Marie,Undirected,1
+Lille Maries,Rinda,Undirected,1
+Gud,Marie,Undirected,18
+Marie,Præsfen,Undirected,1
+Præsfen,Rinda,Undirected,1
+Præsfen,fig,Undirected,1
+Marie,fig,Undirected,1
+Frøken Fos,Gud,Undirected,1
+,Frøken Fos,Undirected,1
+Nimbus,Præsfen,Undirected,1
+Doris,Marie,Undirected,10
+Doris,Rinda,Undirected,11
+Anton,Gerhard,Undirected,1
+Clausen,Rinda,Undirected,1
+Rinda,hæn,Undirected,2
+Karl,hæn,Undirected,2
+Bergvaldt,Clausen,Undirected,1
+Clausen,Marie,Undirected,1
+Hr. Bergvaldt,Rinda,Undirected,2
+Clausen,Hr. Bergvaldt,Undirected,1
+Bergvaldt,Rinda,Undirected,67
+Bergvaldt,Marie,Undirected,66
+Bergvaldt,hnn,Undirected,3
+Heibergs,hnn,Undirected,1
+Heibergs,Klara,Undirected,1
+Klara,Marie,Undirected,1
+Marie strax,Rinda,Undirected,1
+Kantor Bruun,Rinda,Undirected,1
+Gerhardt,Rinda,Undirected,5
+Anton,Gerhardt,Undirected,8
+Anton,Marie,Undirected,15
+Rinda,ester,Undirected,3
+Frøken Starks,ester,Undirected,1
+Frøken Starks,Rinda,Undirected,1
+Gerhardt,Poulsens,Undirected,1
+Minna,Olga,Undirected,6
+Frue,Rinda,Undirected,1
+Bruun,Minna,Undirected,1
+Minna,Rinda,Undirected,26
+Major Scherfs,Minna,Undirected,1
+Major Scherfs,Ravns,Undirected,1
+Ravns,Rinda,Undirected,1
+Bruun,Rinda,Undirected,1
+Minna Stark,Rinda,Undirected,5
+Marie,Minna,Undirected,11
+Lieutenant Bergvaldt,Rinda,Undirected,1
+Lieutenant Bergvaldt,Marie,Undirected,2
+Bergvaldt,Minna,Undirected,4
+Stark,voxne,Undirected,1
+Marie,hnn,Undirected,4
+Marie,Olga,Undirected,1
+Major Scherfs,Marie,Undirected,1
+Gerhardt,Marie,Undirected,28
+Rinda,Stark,Undirected,6
+Olga,Rinda,Undirected,5
+Lauritzen,Minna,Undirected,1
+Rinda,valse,Undirected,1
+Raasted,Rinda,Undirected,1
+Marie,Stark,Undirected,4
+Minna,Stark,Undirected,2
+Bergvaldt,Stark,Undirected,3
+Minna,Minna Stark,Undirected,2
+Minna Stark,Schytte,Undirected,1
+Rinda,Schytte,Undirected,1
+Bergvaldt,Phillipine,Undirected,2
+Lieutenant Bergvaldt,Minna,Undirected,2
+Bergvaldt,Ingeborg,Undirected,5
+Ingeborg,Strandhøj,Undirected,1
+Bergvaldternes,Strandhøj,Undirected,1
+Bergvaldt,Olga,Undirected,1
+Bruun,Lieutenant Bergvaldt,Undirected,1
+Bergvaldt,Bruun,Undirected,1
+Bergvaldt,Scherfs,Undirected,1
+Rinda,Scherfs,Undirected,1
+Poulsens,Rinda,Undirected,2
+Marie,Poulsens,Undirected,2
+Marie,Susannes,Undirected,1
+Figaro,Susannes,Undirected,1
+Marie,Nindas,Undirected,2
+Rinda,Susannes,Undirected,1
+Bergvaldt,Poulsens,Undirected,1
+Bergvaldt,Strandhøj,Undirected,1
+Rinda,Strandhøj,Undirected,3
+Doctor Magens,Rinda,Undirected,1
+Doctor Magens,Heises,Undirected,1
+Heises,Rinda,Undirected,1
+Rinda,Tomhed,Undirected,1
+Bergvaldt,bei,Undirected,1
+Ingeborg,Rinda,Undirected,1
+Pintse,Rinda,Undirected,1
+Marie,Pintse,Undirected,1
+Rinda,hnn,Undirected,1
+Doris,Gud,Undirected,1
+Anton,Rinda,Undirected,4
+Gerhardt,Runeborg,Undirected,1
+Bergvaldt,Runeborg,Undirected,1
+Bergvaldt,Gud,Undirected,3
+Marie,ester,Undirected,1
+Blom,Marie,Undirected,1
+Doris Meiniche,Rinda,Undirected,1
+Heyses,Rinda,Undirected,2
+Marie vidsfe,Rinda,Undirected,1
+Marie,Minna Stark,Undirected,4
+Oscar Bergvaldt,Rinda,Undirected,2
+Posfen,Rinda,Undirected,1
+Oscar,Posfen,Undirected,1
+,Rinda,Undirected,1
+Bergvaldt,sknlde,Undirected,2
+Bergvaldt,Maren Postkone,Undirected,1
+Maren Postkone,Rinda,Undirected,1
+Lars Skovløbers,Maren Postkone,Undirected,1
+Lars Skovløbers,Oscar,Undirected,1
+Maren,Oscar,Undirected,1
+Maren,hnn,Undirected,1
+Oscar,hnn,Undirected,1
+Maren,Rinda,Undirected,4
+Lars,Maren,Undirected,1
+Lars,Rinda,Undirected,1
+Bergvaldt,Lars,Undirected,4
+,Lars,Undirected,2
+,Maren,Undirected,1
+,Bergvaldt,Undirected,1
+Bergvaldt,Maren,Undirected,1
+Graaden,Rinda,Undirected,1
+Bergvaldt,Graaden,Undirected,1
+Marie,Villie,Undirected,1
+Bohave,Marie,Undirected,2
+Bergvaldt,Hansens,Undirected,1
+Ingeborg,Oscar,Undirected,2
+F.,Oscar,Undirected,1
+Bergvaldt,Minna Stark,Undirected,1
+Bergvaldt,hiin,Undirected,1
+Rinda,hiin,Undirected,1
+Minna,sidsfe Vinter,Undirected,1
+Lieutenant Bergvaldt,Strandhøj,Undirected,1
+Ester,Minna,Undirected,2
+Anton,hnn,Undirected,1
+Præsfen,hnn,Undirected,1
+Marie,Ninda,Undirected,1
+Kinin,Marie,Undirected,1
+Gud,Kinin,Undirected,1
+Gud,Rinda,Undirected,7
+Io,Rinda,Undirected,1
+Doris,ester,Undirected,1
+Blomsf,Marie,Undirected,1
+Blomsf,Rinda,Undirected,1
+Rinda,Stine,Undirected,3
+Rinda,Sophaen,Undirected,1
+Marie,Sophaen,Undirected,1
+Marie,Stine,Undirected,4
+Doris,Faber,Undirected,1
+Faber,Marie,Undirected,1
+Faber,Rinda,Undirected,1
+Ingeborg,stræng,Undirected,1
+Oscar,stræng,Undirected,1
+Ingeborg ellen,Oscar,Undirected,1
+Ernst,Ingeborg ellen,Undirected,1
+Oscar,Rinda,Undirected,1
+Bergvaldt,nn,Undirected,1
+Rinda,nn,Undirected,1
+Doris,ask,Undirected,1
+Johansen,Marie,Undirected,5
+Lientenant Bergvaldt,Minna Stark,Undirected,1
+Lientenant Bergvaldt,Rinda,Undirected,1
+Gerhardt,Strandhøj,Undirected,1
+Marie,Strandhøj,Undirected,1
+Rinda,v. Bergvaldt,Undirected,1
+Rinda,fasfholdt,Undirected,1
+Oscar,fasfholdt,Undirected,1
+Ernst,Oscar,Undirected,1
+Bergvaldt,Oscar,Undirected,1
+Bergvaldt,Ernsf,Undirected,1
+Kapellan Johansen,Marie,Undirected,2
+Anton,Gud,Undirected,1
+Christus,Gud,Undirected,1
+Christus,Rinda,Undirected,1
+Braad,Rinda,Undirected,1
+Braad,Johansen,Undirected,1
+Gerhardt,Johansen,Undirected,1
+Anton,Johansen,Undirected,1
+Bergvaldt,Rinda Mayrik,Undirected,1
+Friederich Mayrik,Rinda Mayrik,Undirected,1
+Marie,ellen Pastor Johansen,Undirected,1
+Bergvaldt,ellen Pastor Johansen,Undirected,1
+Bergvaldt,Ernst v. Bergvaldt,Undirected,1
+Gerhardt,Iversen,Undirected,1
+Gerhardt,Stark,Undirected,1
+Minna,meb,Undirected,2
+Gerhardt,Minna,Undirected,1
+Frøken Marie,Gud,Undirected,1
+Gud,Stark,Undirected,1
+Frøken Marie,Marie,Undirected,1
+Frøken Starks,hnn,Undirected,1
+Johansen,Minna,Undirected,1
+Kong Frederik den syvendes,Marie,Undirected,1
+Gerhardt,Iver ester,Undirected,1
+Iver ester,Marie,Undirected,1
+Lise,Marie,Undirected,2
+Marie,Trainkuske,Undirected,1
+Frøken Kerner,Gerhardt,Undirected,1
+Captain Bergvaldt,Gerhardt,Undirected,1
+Captain Bergvaldt,Rinda,Undirected,1
+Captain Bergvaldt,Hesf,Undirected,1
+Gerhardt,Gud,Undirected,2
+Capitain Bergvaldt,Gerhardt,Undirected,1
+Bergvaldt,Gerhardt,Undirected,21
+Marie,Sejer,Undirected,1
+Capitain Bergvaldt,Marie,Undirected,1
+Birken,Gerhardt,Undirected,1
+Line Larsen,Marie,Undirected,2
+Anton,Line,Undirected,3
+Line,Marie,Undirected,1
+Kapellan Johansen,Minna Stark,Undirected,1
+Frøken Kerner,Marie,Undirected,2
+Bergvaldt,Vevey,Undirected,1
+fil,j,Undirected,2
+Bergvaldt,Hr. Gerhardts,Undirected,1
+Hr. Gerhardts,Ingeborg,Undirected,1
+Gerhardt,Lugano,Undirected,1
+Bergvaldt,Lugano,Undirected,1
+Capitain Bergvaldt,Frøken Kerner,Undirected,1
+Bergvaldt,Margrethe,Undirected,1
+Gud,Margrethe,Undirected,1

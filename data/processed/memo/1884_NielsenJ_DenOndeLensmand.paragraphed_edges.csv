@@ -1,0 +1,481 @@
+source,target,type,weight
+Bonde,Kristen Nielsen Bonde,Undirected,1
+Eline Mortensdatter,Morten Madsen,Undirected,1
+Eline Mortensdatter,Guds,Undirected,1
+Grubbe,vims,Undirected,1
+Talar,vims,Undirected,1
+Erik Grubbe,Talar,Undirected,1
+Eline,Erik Grubbe,Undirected,6
+Eline,ester,Undirected,2
+Klerk,ester,Undirected,1
+Ingeborg,Ingeborg Koldsdatter,Undirected,4
+Ingeborg Koldsdatter,lille Ingeborg,Undirected,1
+Ingeborg,lille Ingeborg,Undirected,1
+Maren Juel,sfal,Undirected,1
+Eline Mortensdatter,Jerrik,Undirected,1
+Hamphegle,Jerrik,Undirected,1
+' Broks,Jerrik,Undirected,1
+' Broks,Eline Mortcnsdatter,Undirected,1
+Eline Mortcnsdatter,Gud,Undirected,1
+Ingeborg,Jerrik,Undirected,1
+Erik Grubbe,detle,Undirected,1
+Erik Grubbe,Grubbe,Undirected,1
+Grubbe,Lenets,Undirected,1
+Lenets,Rasmus Ridefogeds,Undirected,1
+Bisfop Morten Madsens,Eline,Undirected,1
+Bisfop Morten Madsens,Morten,Undirected,1
+Morten,ester,Undirected,1
+Folmer Rosenkrants,Jens Juel,Undirected,1
+Erik Lykke,Folmer Rosenkrants,Undirected,1
+Erik Lykke,Knud Brahe,Undirected,1
+Jørgen Kaas,Knud Brahe,Undirected,1
+Jørgen Kaas,Laurids Lindenow,Undirected,1
+Erik Grubbe,Laurids Lindenow,Undirected,1
+Eline,Ingeborg,Undirected,7
+Ingeborg,Morten Madsen,Undirected,1
+Gud,Ingeborg,Undirected,10
+Eline Mortensdatter,Gud,Undirected,1
+Eline,Morten,Undirected,4
+Eline,Kristen,Undirected,1
+Asfe,Jærnurt,Undirected,1
+Asfe,Jomfru Eline,Undirected,1
+Eline,Jomfru Eline,Undirected,1
+Eline,Erik,Undirected,1
+Erik,Erik Grubbe,Undirected,1
+Eline,Kristen Nielsen,Undirected,1
+Gud,Kristen Nielsen,Undirected,1
+Bonde,Eline,Undirected,1
+Jomfru Eline,vexle,Undirected,1
+Hans Skaaning,Peder,Undirected,1
+Bonde,Morten Madsen,Undirected,1
+Bonde,Skaanings,Undirected,1
+Bisfoppen,Eden,Undirected,1
+Bisfoppen,Jomfru Eline,Undirected,1
+Erik Grubbe,Jomfru Eline,Undirected,1
+Erik Grubbe,Morten,Undirected,5
+Erik,Ester,Undirected,1
+Eline Mortensdatter,Kristen Nielsen Bonde,Undirected,1
+Eline Mortensdatter,Erik Grubbe,Undirected,1
+Doklor Morten,Jakob Knudsen,Undirected,1
+Eline,Oluf,Undirected,1
+Martin,Oluf,Undirected,3
+gansfe,sfreg,Undirected,1
+Morten,Tue,Undirected,1
+Erik Grubbe,Tue,Undirected,1
+Eline Mortens,Erik Grubbe,Undirected,1
+Erik Grubbe,Gud,Undirected,2
+Erik Grubbe,Kanniken,Undirected,1
+Eskild Ipssøn,Kristoffer,Undirected,1
+Eskild Ipssøn,Klements,Undirected,1
+Jørgen Skram,Klements,Undirected,1
+Gud,Jørgen Skram,Undirected,1
+Gud,bo,Undirected,1
+Jørgen Skram,Tjele,Undirected,1
+Erik Grubbe,Henrik Be lov,Undirected,1
+Tjele,Wallensteins,Undirected,1
+Frands Mogensen,Tjele,Undirected,1
+Frands Mogensen,Svend Hansen,Undirected,1
+Claus Wenzel,Svend Hansen,Undirected,1
+Claus Wenzel,Kold,Undirected,1
+Karen,Sidsel,Undirected,1
+Karen,Sidsel Ridefogeds,Undirected,2
+Karen,jusf,Undirected,1
+Karen,Kold,Undirected,5
+Gud,Karen,Undirected,3
+Karen,nyssen,Undirected,1
+Karles,Povl,Undirected,1
+Erik Grubbe,Karles,Undirected,1
+Lise,Sidsel Ridefogeds,Undirected,1
+Erik Grubbe,hans jærnhaarde,Undirected,1
+Iver Axel Juel,Juel,Undirected,1
+Ingeborg Parsberg,Iver Axel Juel,Undirected,1
+Ingeborg Parsberg,Maren Juel,Undirected,1
+Maren Juel,PaaGammelgaard,Undirected,1
+Erik Grubbe,PaaGammelgaard,Undirected,1
+Erik Grubbe,Maren Juel,Undirected,3
+Erik,Maren Juel,Undirected,1
+Erik,Evadatter,Undirected,1
+Erik Grubbe,Evadatter,Undirected,1
+Erik Grubbe,Marie,Undirected,1
+Cæcilie,Marie,Undirected,1
+Troels,Troels Øltapper,Undirected,4
+Kristian den,Troels,Undirected,1
+Kristian den,felv,Undirected,1
+Ingeborg,Troels,Undirected,8
+Ingeborg,Mette,Undirected,6
+Mette,Troels,Undirected,7
+Troels,s,Undirected,1
+Morten Skriver,Troels,Undirected,2
+Morten,Troels,Undirected,5
+Mette,mintro,Undirected,1
+Erik,Morten Skriver,Undirected,1
+Erik,Tjele,Undirected,1
+Morten,Tjele,Undirected,1
+Morten Skriver,Søren Lime,Undirected,2
+Mette Skippers,Morten Skriver,Undirected,1
+Maren Juel,Mette Skippers,Undirected,1
+Hans Skaaning,Karsten Enevold,Undirected,1
+Erik,Hans Skaaning,Undirected,1
+Erik,allenfals,Undirected,1
+Troels,allenfals,Undirected,1
+Mette Skippers,Troels,Undirected,4
+Mette Skippers,Tjele,Undirected,2
+Kristian,Troels,Undirected,5
+Kristoffer Rosenkrands,Troels,Undirected,1
+Kristian,Kristoffer Rosenkrands,Undirected,1
+Morten,Troels Øltapper,Undirected,1
+Jørgen,Mette Skippers,Undirected,4
+Jørgen,Mette,Undirected,4
+Jørgen,Troels,Undirected,3
+A,B,Undirected,1
+B,Karsten Enevold,Undirected,1
+Mett,Morten,Undirected,2
+,Mett,Undirected,1
+Mett,Skippers,Undirected,3
+Morten,Skippers,Undirected,1
+Mette,Morten,Undirected,3
+Jørgen,Troels Øltapper,Undirected,5
+Mette Skippers,Troels Øltapper,Undirected,3
+Jørgen,Oluf,Undirected,1
+Jomfru Eline,Jørgen,Undirected,1
+Ingeborg,Jørgen,Undirected,4
+Mette Skippers,allenfals,Undirected,1
+Mette,hannem,Undirected,1
+Troels,hannem,Undirected,1
+Erik Grubbe,Troels,Undirected,1
+Eline,sn,Undirected,1
+,Troels,Undirected,3
+Mett,Mette,Undirected,2
+Hexen,Jørgen,Undirected,2
+Jomfru Line,Skippers,Undirected,1
+Erik,Jørgen,Undirected,1
+Eline,Jørgen,Undirected,1
+Jerrik,frank,Undirected,1
+Elsfov,frank,Undirected,1
+Hans,Jerrik,Undirected,1
+Jomfru Eline,Mette Skippers,Undirected,1
+Ingeborg,Jomfru Eline,Undirected,1
+Eline,Mette Skippers,Undirected,1
+Ingeborg,Troels Øltapper,Undirected,2
+Erik Grubbe,Ingeborg,Undirected,6
+Erik Grubbe,Tjele,Undirected,2
+Bent,Povl,Undirected,6
+Anders,Bent,Undirected,2
+Bent,Gud,Undirected,4
+Gud,Povl Brok,Undirected,1
+Bent,Duus,Undirected,1
+Anders sfød,Bent,Undirected,1
+Bent,Rasmus Duus,Undirected,2
+Bent,Rasmus,Undirected,1
+Bent,Povl Brok,Undirected,2
+Povl,Povl Brok,Undirected,2
+Povl,Rasmus Duus,Undirected,4
+Povl,jert,Undirected,1
+Bent,jert,Undirected,1
+Bent,allyvl,Undirected,1
+Duus,Karlen,Undirected,1
+Povl,Rasmus,Undirected,1
+Rasmus Duus,Rasmus Ridefogeds,Undirected,1
+Karen,Povl,Undirected,10
+Karen,Marv,Undirected,1
+Karlen,Povl Brok,Undirected,2
+Erik Grubbe,Karlen,Undirected,1
+Karen,Karlen,Undirected,2
+Erik Grubbe,Hans Rosborg,Undirected,1
+Ejler Bjelke,Hans Rosborg,Undirected,1
+Ejler Bjelke,Svend Podevald,Undirected,1
+Peder Lykke,Svend Podevald,Undirected,1
+Rosborg,Ørumgaards,Undirected,1
+Hans Rosborg,Iver Lindenov,Undirected,2
+Ejler Bjelke,Munk,Undirected,1
+Eline,Munk,Undirected,2
+Ejler,Svend Podevald,Undirected,1
+Grubbe,Kruse,Undirected,1
+Peder Lykke,allenfals,Undirected,1
+Sigvard Grubbe,allenfals,Undirected,1
+Enevold læns,Sigvard Grubbe,Undirected,1
+Enevold læns,Sigvard,Undirected,1
+Kristen Barnekows,Sigvard,Undirected,2
+Hilleborg,Sigvard,Undirected,1
+Hilleborg,Sigvard slal,Undirected,1
+Hans Rosborg,raable,Undirected,1
+Ejler Bjelke,Mogens,Undirected,1
+Hans Skaaning,barsf,Undirected,1
+Eline,Svend Podevald,Undirected,1
+Eline,gansfe,Undirected,1
+Tjele,gansfe,Undirected,1
+Ejler Bjelke,Iver Lindenov,Undirected,1
+Peder Lykke,Stadsgaard,Undirected,1
+Jomfru Eline,Kristen Nielsen Bonde,Undirected,1
+Jesper Brochmand,Kristen Nielsen Bonde,Undirected,1
+Bisfop Morten Madsens,Jesper Brochmand,Undirected,1
+Bisfop Morten Madsens,Holger Rosenkrands,Undirected,1
+Anders Andersen,Hans Mikkelsen,Undirected,1
+Anders Andersen,Frands Rosenberg,Undirected,1
+Frands Rosenberg,Martin,Undirected,1
+Jakob Knudsen,Oluf,Undirected,1
+Jakob Knudsen,Svend Hansen Arrebo,Undirected,1
+Helle Jensdatter,Svend Hansen Arrebo,Undirected,1
+Helle Jensdatter,Niels Nielsen Krag,Undirected,1
+Kristen Melkiorsen Borchgreving,Niels Nielsen Krag,Undirected,1
+Johan Hansen Lønborg,Kristen Melkiorsen Borchgreving,Undirected,1
+Johan Hansen Lønborg,Kristence Jensdatter,Undirected,1
+Hans Skaaning,Kristence Jensdatter,Undirected,1
+Atlaskes,ester,Undirected,1
+Kong Kristian,ester,Undirected,1
+Jesper Brochmand,Rosenkrands,Undirected,1
+Jesper Brochmand,Morten,Undirected,1
+Holger Rosenkrands,Morten,Undirected,2
+Holger Rosenkrands,Jesper Vrochmand,Undirected,2
+Gud,Jesper Vrochmand,Undirected,1
+Gud,Kruse,Undirected,1
+Hans Mikkelsen,Holger Rosenkrands,Undirected,1
+Hans Mikkelsen,Helle Jensdatter,Undirected,1
+Helle Jensdatter,Kristence Jensdatter,Undirected,1
+Kristence Jensdatter,Morten,Undirected,1
+Jakob Knudsen,Morten,Undirected,1
+Eline,Karl,Undirected,1
+Gud,Morten Madsen,Undirected,1
+Gud,Martin,Undirected,1
+Bonde,Oluf,Undirected,1
+Bonde,Jakob Knudsen,Undirected,1
+Eline,Gud,Undirected,1
+Anders,Ingeborg,Undirected,1
+Ingeborg,Sanden,Undirected,1
+Anders,Sanden,Undirected,1
+Ingeborg,øg,Undirected,1
+Erik,Jerrik,Undirected,1
+Hexen,Jerrik,Undirected,1
+Hexen,Ingeborg,Undirected,3
+Eline Mortensdatter,Ingeborg,Undirected,1
+Ingeborg,Jærnarm,Undirected,1
+Erik Grubbe,Jærnarm,Undirected,1
+Eline,hnn,Undirected,1
+Erik Grubbe,hnn,Undirected,2
+Bent,Inger,Undirected,10
+Eline,Inger,Undirected,2
+Bent,barsf,Undirected,1
+Kristen Nielsen,Morten Madsen,Undirected,1
+Erik,Inger,Undirected,1
+Gud,Inger,Undirected,2
+Inger,Lots,Undirected,1
+Erik Grubbe,Ingeborg øg,Undirected,1
+Erik Grubbe,øg,Undirected,1
+Bent,Ingeborg,Undirected,6
+Bent,Inger Bentes,Undirected,3
+Bent,ester,Undirected,1
+Gud,Jesn,Undirected,1
+Bent,Eline,Undirected,1
+Bøgegren,Ingeborg,Undirected,1
+Bøgegren,Erik Grubbe,Undirected,1
+Bent,Erik Grubbe,Undirected,1
+Erik Grubbe,Karl,Undirected,1
+Ingeborg,Povl,Undirected,4
+Ingeborg,Karlen,Undirected,2
+Bent,Kabuds,Undirected,1
+Gud,Povl,Undirected,4
+Ingeborg,Inger,Undirected,1
+Bent Skovhugger,Povl,Undirected,1
+Inger,Troels,Undirected,1
+Gud,lille,Undirected,3
+Ingeborg,Præsien,Undirected,1
+Hexen,rasf,Undirected,1
+Bentes,Jerrik,Undirected,1
+Bentes,jert,Undirected,1
+Bent,Spaakvinden,Undirected,1
+Povl,Torsi,Undirected,1
+Jerrik,Povl,Undirected,1
+Gud,Morten,Undirected,1
+Povl Brok,Troels Øltapper,Undirected,1
+Bent,Jørgen,Undirected,1
+Morten,Povl Brok,Undirected,1
+Mette Skippers,Povl,Undirected,1
+Karen Broks,Povl,Undirected,1
+Erik Grubbe,Palle — Palle Sørensen,Undirected,1
+Palle,Povl,Undirected,4
+Povl,Tjele,Undirected,3
+Hr. Erik,baresfens,Undirected,1
+Erik ærbar,mintro,Undirected,1
+Palle Sørensen,Povl,Undirected,1
+Kold,Tjele,Undirected,3
+Kold,Povl,Undirected,2
+Karen,Karen Brok,Undirected,2
+Karen,Klaus Wenzel,Undirected,3
+Klaus Wenzel,Povl,Undirected,4
+Povl Brok,Tjele,Undirected,1
+Povl,XVII,Undirected,1
+Klaus Wenzel,Povl Brok,Undirected,1
+Juel,Klaus Wenzel,Undirected,1
+Juel,Morten Madsen,Undirected,1
+Morten Madsen,Svend,Undirected,1
+Tjele,hnn,Undirected,1
+Povl,sfakkels,Undirected,1
+sfakkels,“,Undirected,1
+Karen Brok,Klaus Wenzel,Undirected,1
+Erik Grubbe,Karen Brok,Undirected,1
+Erik Grubbe,Kold,Undirected,2
+Klaus Wenzel,Kold,Undirected,1
+Karen,Tjele,Undirected,2
+Klaus Wenzel,Signe-Bolette,Undirected,1
+Karl,Kold,Undirected,1
+Gud,Karl,Undirected,1
+Gud,Klaus Wenzel,Undirected,1
+Gud,Johan Skrædder,Undirected,1
+Gud,Johans,Undirected,1
+Ann,Johans,Undirected,1
+Ann,Skrædders,Undirected,1
+Karen,gansfe,Undirected,1
+Johan,Røsfen,Undirected,1
+Ann,Klaus Wenzel,Undirected,1
+Erik Grubbe,Karen,Undirected,1
+Kold,gansfe,Undirected,1
+Ann,gansfe,Undirected,1
+Ann,Johan,Undirected,1
+Johan,Kold,Undirected,2
+Ingeborg,Johan,Undirected,1
+Ingeborg,Karen,Undirected,8
+Ingeborg,Kold,Undirected,3
+Ingeborg,Orlogs,Undirected,1
+Johan Skrædder,Lise,Undirected,1
+Gud,Sidsel Ridefogeds,Undirected,1
+Sidsel,Svend,Undirected,1
+Svend,Tjele,Undirected,2
+Klaus Wenzel,Pøvl Broks,Undirected,1
+Karlen,Kold,Undirected,1
+Karle,Svend,Undirected,1
+Karen,Svend,Undirected,1
+Karlene,Klaus,Undirected,1
+Karle,Klaus,Undirected,1
+Povl,Svend,Undirected,2
+Karen,Tys,Undirected,1
+Povl,Tys,Undirected,1
+Klaus Wenzel,Svend,Undirected,1
+Karlen,Klaus Wenzel,Undirected,1
+Kristine Ulfeldts,Morten,Undirected,1
+Kristen,Sancte Klemens,Undirected,1
+Hansen Lønborg,Sancte Klemens,Undirected,1
+Hansen Lønborg,Kristen Nielsen,Undirected,1
+Bisfoppen,flap,Undirected,1
+Erik Grubbe,Ore,Undirected,1
+Gud,Ore,Undirected,1
+Erik Grubbe,Skaaning,Undirected,1
+Frants Rosenberg,Skaaning,Undirected,1
+Frants Rosenberg,Husbonds,Undirected,1
+Husbonds,Madsen,Undirected,1
+Bisfop Rosenberg,Madsen,Undirected,1
+Ingeborg,gansfe,Undirected,1
+Ingeborg,Tjele,Undirected,3
+Karen Brok,Tjele,Undirected,1
+Ingeborg,Karen Brok,Undirected,7
+Ingeborg bødte,Karen,Undirected,1
+Ingeborg,Mette Skippers,Undirected,5
+Karen,Mette,Undirected,2
+Karen,Troels Øltapper,Undirected,1
+Gud,Mette,Undirected,2
+Erik Grubbe,H <,Undirected,1
+Grubbe,Hexen,Undirected,1
+Erik Grubbe,Kristian,Undirected,1
+Jørgen ved,Kristian,Undirected,1
+Holger Rosenkrants,Karen Brok,Undirected,1
+Holger Rosenkrants,Hr. Holgers,Undirected,1
+Erik Grubbe,ester,Undirected,1
+Erik Grubbe,ane,Undirected,1
+Erik Grubbe,Kristen Nielsen,Undirected,2
+Erik Juel,Kristen Nielsen,Undirected,1
+Erik Juel,Mogens Høg,Undirected,2
+Kristen Nielsen,Mogens Høg,Undirected,1
+Erik Grubbe,Itow,Undirected,1
+Erik Grubbe,Hove,Undirected,1
+Hove,Kristian,Undirected,1
+Erik Grubbe,Oluf,Undirected,1
+Nigshofmester Korfits Ulfelt,Ulfelt,Undirected,1
+Kong Kristian,Nigshofmester Korfits Ulfelt,Undirected,1
+Erik Grubbe,Kong Kristian,Undirected,1
+Augustinus Miller,Morten,Undirected,1
+Erik Grubbe,Johansdatter,Undirected,1
+Johansdatter,hindis,Undirected,1
+Ulfelt,hindis,Undirected,1
+Kristen Nielsen Bonde,Morten Madsen,Undirected,1
+Mact,Mogens Høg,Undirected,1
+Mact,hannem,Undirected,1
+Richard Hertz,Skaaning,Undirected,2
+Kristian den fjerdes,Oluf,Undirected,1
+Martin,Tyge Brahe,Undirected,1
+Erik Grubbe,Mester Hans Skaaning,Undirected,1
+Frederik den tredjes,Marie Grubbe,Undirected,1
+Frederik den tredjes,Ulrik Frederik Gyldenløve,Undirected,1
+Kristian den,Ulrik Frederik Gyldenløve,Undirected,1
+Kristian den,Palle Dyre,Undirected,1
+Palle Dyre,Søren Møller,Undirected,1
+Holberg,Søren Møller,Undirected,1
+Holberg,Marie Grubbe,Undirected,1
+Ingeborg,stulde,Undirected,1
+Inger Bentes,Karen,Undirected,1
+Bent,Karen,Undirected,1
+Karen,Madsen,Undirected,1
+Ingeborg Koldsdatter,Inger,Undirected,1
+Bent Skovfoged,Inger Skovfogeds,Undirected,1
+Ingeborg,Johan Skrædder,Undirected,3
+Glutten,Ingeborg,Undirected,1
+Gud,stulde,Undirected,1
+Tjele,stulde,Undirected,1
+Gud,Kold,Undirected,2
+Johan,Karen,Undirected,1
+Bent,Karen Brok,Undirected,2
+Karen Brok,lille Ingeborg,Undirected,2
+Mette Skippers,lille Ingeborg,Undirected,1
+,Johan Skrædder,Undirected,1
+Karsten,Karsten Enevold,Undirected,1
+Karsten,Svend,Undirected,1
+Ingeborg,Z >,Undirected,1
+Mette Skippers,Z >,Undirected,1
+Johan Skrædder,Mette Skippers,Undirected,1
+Jerrik,Tjele,Undirected,1
+Jerrik,Karl,Undirected,1
+Didhen,Ingeborg,Undirected,1
+Gud,Jesu,Undirected,1
+Ingeborg,Løjers,Undirected,1
+Hexen,Tjele,Undirected,1
+Ingeborg,Sidsel Ridefogeds,Undirected,1
+Karen Brok,Mette,Undirected,1
+Kold,lille Ingeborg,Undirected,1
+Ingeborg,sif,Undirected,1
+Ingeborg,Naadigherrens,Undirected,1
+Sancte Michaels,Troels Øltapper,Undirected,1
+Kold Albrektsen,Troels Øltapper,Undirected,1
+Ingeborg Hansdatter,Kold Albrektsen,Undirected,1
+Ingeborg Hansdatter,Karsten Enevold Simonsen,Undirected,1
+Karsten Enevold Simonsen,Mette Kirstine Koldsdatter,Undirected,1
+Kristen Nielsen,Mette Kirstine Koldsdatter,Undirected,1
+Eline Mortensdatter,Kristen Nielsen,Undirected,1
+Ingeborg,Sancte Michaels,Undirected,5
+Ingeborg Koldsdatter,Karen Brok,Undirected,1
+Ingeborg Koldsdatter,Morten Skriver,Undirected,1
+Jørgen,Søren Lime,Undirected,1
+Jørgen,Povl Brok,Undirected,1
+Karsten,Troels,Undirected,1
+Karsten,Mette,Undirected,6
+Mette,Svend,Undirected,1
+Karsten Enevold,Troels,Undirected,1
+Søren Lime,Troels,Undirected,1
+Mette,Mette Karstens,Undirected,1
+Karsten,Mette Karstens,Undirected,1
+Karsten,Morten,Undirected,1
+Karsten Enevold,Morten,Undirected,1
+Ingeborg,Karsten,Undirected,1
+Sancte Michaels,Troels,Undirected,1
+Erik,Sancte Michaels,Undirected,1
+Erik,Gud,Undirected,1
+Troels,Ønflets,Undirected,1
+Povl Brok,Svend,Undirected,1
+Kold,hans,Undirected,1
+Erik Grubbe,Povl,Undirected,1
+Kold,Krag,Undirected,1
+Mette,Troels Øltapper,Undirected,1
+Ingeborg,Povl Brok,Undirected,1
+Kold,Mette Skippers,Undirected,1
+Karsten,Povl,Undirected,1
+Karsten,Troels Øltapper,Undirected,2
+Povl,sigPovl,Undirected,1
+Niels Krag,Povl,Undirected,2
+Erik Grubbe,Niels Krag,Undirected,1

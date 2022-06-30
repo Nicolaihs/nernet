@@ -1,0 +1,389 @@
+source,target,type,weight
+Herluf Berg,Lange,Undirected,1
+Kusk,Lange,Undirected,1
+Berg,Lange,Undirected,24
+Amalie,Berg,Undirected,1
+Berg,Herluf Berg,Undirected,1
+Scheele,Strøm,Undirected,3
+Blom,Brodersen,Undirected,6
+Brodersen,Gala,Undirected,1
+Kars,Markus,Undirected,2
+Hr. Stæhr,Markus,Undirected,1
+Berg,Blom,Undirected,1
+Blom,Lange,Undirected,2
+Berg,Broder,Undirected,1
+Berg,Nik,Undirected,1
+Berg,Edvard Sundt,Undirected,1
+Edvard Sundt,Hys,Undirected,1
+Edvard,Hys,Undirected,1
+Gud,Manse,Undirected,1
+Berg,Edvard,Undirected,1
+Gerster,Lange,Undirected,7
+Lange,Lille-Gerster,Undirected,1
+Hr. Berg,sazice tartare,Undirected,1
+Kellner Jensen,sazice tartare,Undirected,1
+Hr. Berg,Kellner Jensen,Undirected,1
+Berg,Lille Diner,Undirected,1
+Hr. Berg,Lille Diner,Undirected,1
+Hr. Berg,Hr. Jensen,Undirected,1
+Hr. Jensen,Kellner Jensen,Undirected,2
+Berg,Hr. Jensen,Undirected,1
+Berg,Gerster,Undirected,6
+Bastrup,Scheele,Undirected,3
+Berg,lille Herluf,Undirected,2
+Canth,lille Herluf,Undirected,1
+Berg,Canth,Undirected,1
+Berg,Hr. Mølbom,Undirected,1
+Edvard,Scheele,Undirected,1
+Berg,Scheele,Undirected,3
+Berg,Mølbom,Undirected,1
+Mo,Mølbom,Undirected,2
+Arthur,Mo,Undirected,1
+Arthur,Hr. Mølbom,Undirected,3
+Lille Herluf,lille Herluf,Undirected,1
+Pless,Strøm,Undirected,2
+Gud,Scheele,Undirected,2
+Scheele,lille Carl,Undirected,1
+Dunker,Strøm,Undirected,1
+Lille Canth,Strøm,Undirected,1
+Berg,Pless,Undirected,1
+Honoratiores,Møller,Undirected,1
+Canthske,Lange,Undirected,1
+Hein,Høyer,Undirected,1
+H. M.,Hein,Undirected,1
+Hein,Svendsen,Undirected,1
+Hein,Icaros,Undirected,2
+Hein,Møller,Undirected,1
+Hein,Liv,Undirected,1
+Lange,Melon,Undirected,1
+Berg,Melon,Undirected,1
+Lange,Lille Gerster,Undirected,1
+Berg,Erhards,Undirected,2
+Madsens,Sørensens,Undirected,1
+Lange,Zola,Undirected,2
+Jette,Melon,Undirected,1
+Canth,Lange,Undirected,1
+Canth,Lille Canth,Undirected,1
+Berg,Lille Canth,Undirected,2
+Lange,lange Arthur,Undirected,1
+Hr. Mølbom,Lange,Undirected,2
+Berg,Edisons,Undirected,1
+Adolf,Martens,Undirected,9
+Adolf,Berg,Undirected,48
+Berg,Martens,Undirected,11
+Adolf,Spenner,Undirected,29
+Martens,Spenner,Undirected,8
+Martens,Nynne,Undirected,1
+Martens,Svend,Undirected,2
+Canth,Martens,Undirected,2
+Berg,Spenner,Undirected,2
+Gravesen,Hr. Gravesens,Undirected,1
+Amalie,Vilhelmine,Undirected,3
+Gud,Vilhelmine,Undirected,1
+Frøken Frederikke,Ida,Undirected,1
+Frederikke,Vilhelmine,Undirected,3
+Ida,Vilhelmine,Undirected,1
+Berg,Krans,Undirected,1
+Hr. Berg,Hr. Gravesen,Undirected,1
+Berg,Hr. Berg,Undirected,2
+Berg,Stær,Undirected,2
+Berg,Hr. Stær,Undirected,1
+Berg,Hans Kontubernal,Undirected,2
+Arnoldsen,Berg,Undirected,6
+Arnoldsen,Lange,Undirected,8
+Lange,Populus,Undirected,1
+Berg,Populus,Undirected,1
+Gerster,Hr. Gravesen,Undirected,1
+Hr. Gravesen,Kaptejn Petersen,Undirected,1
+Kaptejn Petersen,Krans,Undirected,1
+Franz,Impressario Hr. Theodor Franz,Undirected,1
+Berg,Franz,Undirected,3
+Arnoldsen,Franz,Undirected,1
+Herluf,Mo,Undirected,3
+Lars,Mettes,Undirected,1
+Herluf,Mettes,Undirected,1
+Herluf,Lars,Undirected,2
+Herluf,Søren,Undirected,1
+Peer Nils,Tine,Undirected,1
+Peer Nils,Tine ka’,Undirected,1
+Tine,Tine ka’,Undirected,1
+Herluf,Tine,Undirected,7
+Madam Bøllings,Tine,Undirected,2
+Bølling,Tine,Undirected,1
+Bølling,Herluf,Undirected,1
+Berg,Tine,Undirected,3
+Berg,Herluf,Undirected,9
+Grete,Herluf,Undirected,1
+Jakob Hans,Tine,Undirected,3
+Herluf,Jakob Hans,Undirected,1
+Fanny,Herluf,Undirected,3
+Maren Malkepige,Mo’,Undirected,1
+Herluf,Kaaben,Undirected,1
+Herluf,Napoleons,Undirected,1
+Herluf,Marie,Undirected,4
+Marie,Minna,Undirected,1
+Herluf,Sofie,Undirected,3
+Gud,Minna,Undirected,1
+Frøken Berg,Sofie,Undirected,1
+Bølling,Fanny,Undirected,1
+Bedstefa,Herluf,Undirected,2
+Hr. Atterbom,Jensen,Undirected,1
+Herluf Berg,Ole Martens,Undirected,1
+Ole Martens,Sokrates,Undirected,1
+Ole,Sokrates,Undirected,1
+Herluf,Krogs,Undirected,1
+Hr. Bonnesen,Laura,Undirected,1
+Laura,Tvebak,Undirected,1
+Hr. Bonnesen,Tvebak,Undirected,1
+Herluf,Jordans,Undirected,1
+Gud,véd,Undirected,2
+Ida,Jette,Undirected,1
+Hein,Herluf,Undirected,6
+Frøken Kornerup,Hein,Undirected,1
+Gud,Hein,Undirected,1
+Herluf,Hr. Sørensen,Undirected,3
+Herluf Berg,Hr. Sørensen,Undirected,1
+Hr. Sørensen,Victorias,Undirected,1
+Adolf,Gerster,Undirected,7
+Gerster,Herluf,Undirected,6
+Erhard,Gerster,Undirected,7
+Erhard,Lange,Undirected,5
+Lange,Paula iaftes,Undirected,1
+Berg,Paula,Undirected,3
+Lange,Paula,Undirected,5
+Krause,Lange,Undirected,1
+Lange,Susse,Undirected,1
+Lille-Gerster,Paula,Undirected,1
+Erhard,Herluf,Undirected,14
+Herluf,Paula,Undirected,2
+Gerster,Konstantia,Undirected,1
+Blom,Gerster,Undirected,2
+Brodersen,Herluf,Undirected,2
+Blom,Lille-Gerster,Undirected,1
+Asta,Heltz,Undirected,1
+Asta,Herluf,Undirected,6
+Meyers,Topsøe,Undirected,1
+Erhard,Meyers,Undirected,1
+Berg,Erhard,Undirected,2
+Erhard,Moer,Undirected,1
+Berg,Heltz,Undirected,1
+Daglys,Jurgens,Undirected,1
+Daglys,Knudsen,Undirected,1
+Berg,Knudsen,Undirected,1
+Berg,Frøken Asta,Undirected,1
+Ekberg,Lille,Undirected,1
+Asta,Mathilde,Undirected,10
+Asta,Berg,Undirected,6
+Jurgens,Knudsen,Undirected,1
+Anna,Emma,Undirected,1
+Frøken Knudsen,Ramløsa,Undirected,1
+Herluf,Hr. Ekberg,Undirected,1
+Asta,Gerster,Undirected,1
+Adolf,Ekberg,Undirected,1
+Ekberg,Gerster,Undirected,1
+Friis,Gerster,Undirected,1
+Asta,Sofie,Undirected,1
+Asta,Julie,Undirected,2
+Asta,Stine,Undirected,1
+Babette,Benoit,Undirected,1
+Asta,Mo,Undirected,1
+Asta,Mathilde Stern,Undirected,1
+Julie,Mathilde Stern,Undirected,1
+Herluf Berg,Julie,Undirected,1
+Gerster,Herluf Berg,Undirected,1
+Adolf junior,Martens,Undirected,1
+Adolf junior,Herluf Berg,Undirected,1
+Martens,lille,Undirected,1
+Martens,lille Canth,Undirected,1
+Berg —,Martens,Undirected,1
+Berg —,Lille Canth,Undirected,1
+Adolf,Victoria,Undirected,5
+Herluf,Hr. Berg,Undirected,3
+Herluf,Victoria,Undirected,3
+Adolf,Hr. Spenner,Undirected,1
+Hr. Spenner,Martens,Undirected,1
+Hr. Stær,Stær,Undirected,1
+Adolf,Hr. Berg,Undirected,2
+Adolf junior,Herluf,Undirected,1
+Adolf junior,Berg,Undirected,1
+Adolf,Brix,Undirected,1
+Adolf,—,Undirected,2
+Adolf,Herluf,Undirected,14
+Adolf,Konstantin,Undirected,10
+Hr. Berg,Konstantin,Undirected,1
+Adolf,Tarlatan,Undirected,1
+Berg,Konstantin,Undirected,1
+Herluf,Konstantin,Undirected,2
+Martens,Ørnulf,Undirected,1
+Hein,Spenner,Undirected,1
+Bastrup,Mølbom,Undirected,2
+Agathe,Scheele,Undirected,3
+lille Edvard,lille Fru Canths,Undirected,1
+Mitte,lille Fru Canths,Undirected,1
+Mitte,Putte,Undirected,3
+Lille Canth,Mølbom,Undirected,1
+Agathe,Bastrup,Undirected,1
+Scheele,Sheele,Undirected,1
+Bastrup,Sheele,Undirected,1
+Bastrup,Mo,Undirected,1
+Putte,Scheele,Undirected,1
+Lange Bastrup,Mitte,Undirected,1
+Herluf,lille Canth,Undirected,1
+Herluf,Lille Edvard,Undirected,1
+Basti up,Mølbom,Undirected,1
+Lange,Saagu,Undirected,1
+Adolf,Skoustrup,Undirected,1
+Adolf grovt,Martens,Undirected,1
+Adolf grovt,perne,Undirected,1
+Martens,perne,Undirected,1
+Berg,Gravesen,Undirected,1
+Gerster,Gravesen,Undirected,1
+Lionette,Nourvady,Undirected,2
+Gerster,Lionette,Undirected,1
+Scheele,lille,Undirected,2
+Erhard,lille,Undirected,1
+Nourvady,Scheele,Undirected,1
+Gerster,Isachsen,Undirected,1
+Berg,Lille Herlufl,Undirected,1
+Adolf,Lange,Undirected,1
+Hr. Gravesen,Stæhr,Undirected,1
+Hr. Sørensen,Meyer,Undirected,1
+Adolf,Gud,Undirected,1
+Hans,Konferentsraad Hein,Undirected,1
+Brodersen,Henrik Hansen,Undirected,1
+Miss Téa,Theodor Franz,Undirected,1
+Franz,Theodor Franz,Undirected,1
+Exner,Hein,Undirected,1
+Franz,Hr. Theodor Franz,Undirected,1
+Franz,Sands,Undirected,1
+Erhard,Mathilde,Undirected,15
+Mathilde,Stern,Undirected,1
+Firhard,Mathilde,Undirected,1
+Hys,Owans,Undirected,1
+Marie,Mathilde,Undirected,8
+Marie,Marie Pige,Undirected,1
+Marie Pige,Mathilde,Undirected,2
+Erhard,Herluf Berg,Undirected,1
+Berg,Theodor Franz,Undirected,1
+Theodor Franz,Victoria,Undirected,1
+Franz,s,Undirected,1
+Franz,Patti,Undirected,2
+Hein,Martens,Undirected,1
+Adolf,Hein,Undirected,2
+Franz,Spenner,Undirected,1
+Franz,Hr. Spenner,Undirected,1
+Kellneren,Martens,Undirected,1
+Adolf,Jespersen,Undirected,3
+Gravesen,Hr. Gravesen,Undirected,3
+Hr. Gravesen,Toddy,Undirected,1
+Frederikke,Theodora,Undirected,1
+Gravesen,Theodora,Undirected,4
+Scheele,Theodora,Undirected,1
+Amalie,Frederikke,Undirected,1
+Adolf,Amalie,Undirected,1
+Adolf,Gravesen,Undirected,1
+Gravesen,blaa Baand,Undirected,1
+Amalie,Herluf,Undirected,1
+Hr. Gravesen,Petersen,Undirected,2
+Gravesen,Krans,Undirected,1
+Berg,Ostentation,Undirected,1
+Hein,flan,Undirected,1
+Herluf Berg,Petersen,Undirected,1
+Herluf,Scheele,Undirected,2
+Scheele,lille Herluf,Undirected,1
+Berg,Hr. Andersen,Undirected,1
+Scheele,Valsen,Undirected,1
+Flan,Scheele,Undirected,1
+Andersen,Ida,Undirected,1
+Pys,Theodora,Undirected,1
+Andersen,Frøken Idas,Undirected,1
+Dacapo,dacapo,Undirected,1
+Scheele,saagu,Undirected,1
+Martens,lnspicient,Undirected,1
+Adolf —,Spenner,Undirected,1
+Hr. Desgrais,Madam Martens,Undirected,3
+Adolf,Adolf munter paany,Undirected,1
+Sten,Strøm,Undirected,1
+Agathe,Herluf,Undirected,1
+Herluf,Mølbom,Undirected,1
+Agathe,traadle,Undirected,1
+Herluf,Hr. Mølbom,Undirected,1
+Lille Assessor,Putte,Undirected,2
+Mølbom,lange Arthur,Undirected,1
+Agathe,Hr. Mølbom,Undirected,1
+Berg,Dunckers,Undirected,1
+Berg,Gud,Undirected,1
+Bernhard-Schmidt-Tournéen i,Victoria«,Undirected,1
+Gud,Herluf,Undirected,1
+Frøken Hansen,Herluf,Undirected,2
+Asta Heltz,Herluf,Undirected,1
+Herluf,lille Eru Sterns,Undirected,1
+Blom,Konstantin,Undirected,1
+Asta Heltz,Marie Pige,Undirected,1
+Asta,lille,Undirected,1
+Asta,Erhard,Undirected,1
+Lange,lille,Undirected,1
+Erhard,paany,Undirected,1
+Mathilde,paany,Undirected,1
+Mathilde,Thornam,Undirected,2
+H. P. Holst,Thornam,Undirected,1
+H. P. Holst,Mathilde,Undirected,1
+Marie,Thornam,Undirected,1
+Madam Jensen,Mathilde,Undirected,1
+Herluf,Lange,Undirected,3
+Arnold,Lange,Undirected,1
+Arnoldsen,Herluf,Undirected,2
+Herluf,Monrad,Undirected,1
+Herluf,Hr. Desgrais,Undirected,1
+Dyna Beymers,Herluf,Undirected,1
+Dyna Beymers,Franz,Undirected,1
+Herluf,Spenner,Undirected,8
+Adolf,Marie,Undirected,2
+Konstantin,Marie,Undirected,1
+Gud,Konstantin,Undirected,2
+Madam Martens,Spenner,Undirected,2
+Adolf,Desgrais,Undirected,4
+Herluf,Madam Martens,Undirected,1
+Adolf,Madam Martens,Undirected,1
+Adolf,Kellneren,Undirected,1
+Adolf,Franz’,Undirected,1
+Hr. Jespersen,Jespersen,Undirected,1
+Franz,paany,Undirected,1
+Berg,Hr. Jespersen,Undirected,1
+Berg,Jespersen,Undirected,2
+Franz,gelse,Undirected,1
+Franz,Jespersen,Undirected,1
+Jespersen,Spenner,Undirected,1
+Adolf,Hr. Jespersen,Undirected,2
+Arie,Arien,Undirected,1
+Arien,Franz,Undirected,1
+Franz,Herluf,Undirected,2
+Herluf,Herluf Berg,Undirected,1
+Herluf,Trinene,Undirected,1
+Gravesen,Hr. Berg,Undirected,1
+Kaptejnens,Petersen,Undirected,1
+Adolf,Erhard,Undirected,1
+Erhard,Gud,Undirected,1
+Kelneren,Spenner,Undirected,1
+Spenner,Victoria,Undirected,1
+Adolf,Blom,Undirected,2
+Gerster,Krause,Undirected,1
+Brodersen,Krause,Undirected,1
+Adolf,Brodersen,Undirected,1
+Berg,Brodersen,Undirected,1
+Konstantin,Victoria,Undirected,1
+Herluf,Ørnulf,Undirected,2
+Herluf,Stæhr,Undirected,1
+Adolf,Hr. Stæhr,Undirected,1
+Hr. Stæhr,Spenner,Undirected,1
+Adieu,Herluf,Undirected,1
+Brodersen,Hansen,Undirected,2
+Herluf,Hr. Rowan,Undirected,1
+Adolf,Hr. Rowan,Undirected,1
+Berg,Herluf Adolfs,Undirected,2
+Herluf,Martens,Undirected,1
+Berg,Hr. Adolf,Undirected,1
+Erhard Gerster,Mathilde,Undirected,2
+Herluf,lille,Undirected,1
+Asta,Julie »,Undirected,1
+Julie »,Kon ferentsraadinden,Undirected,1

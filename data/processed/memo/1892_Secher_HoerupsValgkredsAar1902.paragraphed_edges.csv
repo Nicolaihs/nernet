@@ -1,0 +1,131 @@
+source,target,type,weight
+Hans Madsen,Jeppesen-Bjerg-borg,Undirected,1
+Jeppesen-Bjerg-borg,Jeppesen-Bjergborg,Undirected,1
+A. C. Meyer,Meyer,Undirected,1
+Hørup,Meyer,Undirected,1
+Henning Jensen,Hørup,Undirected,1
+Bing,Henning Jensen,Undirected,1
+Bing,J. K. Lauridsen,Undirected,1
+Hørup,J. K. Lauridsen,Undirected,1
+Jens Jen,Niels Olsen,Undirected,1
+Hain,Niels Olsen,Undirected,1
+Hain,Mo,Undirected,1
+Ane,Mo,Undirected,1
+Ane,Margrethe,Undirected,9
+Bo,Margrethe,Undirected,1
+Bo,Peder Hansen,Undirected,1
+Alberti,Peder Hansen,Undirected,1
+Alberti,Niels Olsen,Undirected,2
+Karl,Lars Christian,Undirected,1
+Jens Christoffersen,Mette Skrædders,Undirected,1
+Mette Skrædders,Ole Jeppesens,Undirected,1
+Ole Jeppesens,Svarre,Undirected,1
+Hørup,Svarre,Undirected,2
+Ane Margrethe,Carl Dahl,Undirected,7
+Carl Dahl,Dahl,Undirected,3
+Ane Margrethe,Dahl,Undirected,6
+Ane,Ane Margrethe,Undirected,4
+Ane Margrethe,Margrethe,Undirected,2
+Ane Margrethe,Karl Dahl,Undirected,1
+Ane Margrethe,Hans Sørensen Ejby,Undirected,2
+Gud,Hørup,Undirected,1
+Hørup,dn,Undirected,1
+dn,snarf,Undirected,1
+fig,skoggerle,Undirected,1
+Borg,Hansen,Undirected,1
+Christen Mormon,Karl,Undirected,1
+Dønnergaard,Karl,Undirected,1
+Dønnergaard,Tricykle,Undirected,1
+Dønnergaard,your,Undirected,1
+Kjøge,your,Undirected,1
+Dønnergaard,Kjøge,Undirected,1
+Hans,Margrethe,Undirected,2
+Carl Dahl,Hans Sørensen Ejby,Undirected,1
+Dahl,Margrethe,Undirected,1
+Ane,Dahl,Undirected,1
+Hain,Margrethe,Undirected,1
+Hain,hiin,Undirected,1
+Dahl,hiin,Undirected,1
+Ane Margrethe,fig,Undirected,2
+Dahl,Gud,Undirected,1
+Alberti,Hørup,Undirected,1
+Hørup,Mads Røgter,Undirected,1
+Mads,Mads Røgter,Undirected,5
+Bjergborg,Mads,Undirected,1
+Agerjord,Bjergborg,Undirected,1
+Agerjord,Mads,Undirected,1
+Lars Nielsen,Mads,Undirected,1
+Christens,Mads,Undirected,1
+Christens,Laufes,Undirected,1
+Laufes,Sidse,Undirected,1
+Mads,gainle,Undirected,1
+Kjøns,gainle,Undirected,1
+Gud,Kjøns,Undirected,1
+Bjergborg,Gud,Undirected,1
+Ane Margrethe,ers,Undirected,1
+Christen Jensen,Jens Nielsens,Undirected,1
+Christen Jensen,vidsfe,Undirected,1
+fredløs,vidsfe,Undirected,1
+Margrethe,felv,Undirected,1
+Hans Madsen,hans Ansigf,Undirected,1
+Hans Madsen,fasf,Undirected,1
+Ane Margrethe,Hans Madsen,Undirected,15
+Hans Madsen,Margrethe,Undirected,1
+Per,Per Andersen,Undirected,2
+Mads,Per Lavs,Undirected,1
+Per Andersen,Per Lavs,Undirected,1
+Hørup,Kaaring,Undirected,2
+Ane Margrethe,Sabel,Undirected,1
+Dahl,sn,Undirected,1
+Hans,Hans Madsen,Undirected,4
+Hans Madsen,Jens Sørensen,Undirected,1
+E.,Hans,Undirected,1
+Ane Margrethe,ane,Undirected,1
+Hans Madsen,ane,Undirected,1
+Ane Margrethe,Madsen,Undirected,1
+Dahl,Hans,Undirected,1
+Hans,Stjernstrøm,Undirected,1
+Hans,Peter Bangsvej,Undirected,1
+Peter Bangsvej,Straa,Undirected,1
+Ane Margrethe,Claus,Undirected,1
+Claus,Jacob,Undirected,1
+Jacob,dein,Undirected,1
+Mutter,dein,Undirected,1
+Mutter,Ola Mattsson,Undirected,1
+Mons,Ola Mattsson,Undirected,1
+Mons,Ola,Undirected,1
+Ane,Ola,Undirected,1
+Claus,Ola Mattsson,Undirected,1
+Jens,Ola Mattsson,Undirected,1
+Ane,Jens,Undirected,1
+Claus,Hans,Undirected,1
+Ane Margrethe,Mørkef,Undirected,1
+Ane Margrethe,Jens Hansen,Undirected,1
+Calurius,Jens Hansen,Undirected,1
+Ane Margrethe,Calurius,Undirected,1
+Ane Margrethe,helsl,Undirected,1
+Ane,helsl,Undirected,1
+Ane,Claus Fisker,Undirected,1
+Claus,Uraad,Undirected,1
+Helsa,svärtar,Undirected,1
+hon,svärtar,Undirected,1
+Claus mangfoldig,Hans Madsen,Undirected,1
+Ane,Hans Madsen,Undirected,1
+Carl Dahl,Mortensdag,Undirected,1
+Ane Margrethe,Morten,Undirected,1
+Greven,Morten,Undirected,1
+Greven,Jens,Undirected,1
+Jens,Morten,Undirected,1
+Mettes,Per,Undirected,1
+Kimmers-lev,Per,Undirected,1
+Kimmers-lev,Morten,Undirected,1
+Jærn,Morten,Undirected,1
+Husbond,Jærn,Undirected,1
+Ane Margrethe,Ola Mattsson,Undirected,2
+Ane Margrethe,Drumont,Undirected,1
+Ane Margrethe,Ester,Undirected,1
+Claus Fisker,Ola Mattsson,Undirected,1
+Claus Fisker,Ola kadrajede,Undirected,1
+Ane Margrethe,Ola kadrajede,Undirected,1
+Aaget,Mads,Undirected,2
+Mads,hnn,Undirected,2

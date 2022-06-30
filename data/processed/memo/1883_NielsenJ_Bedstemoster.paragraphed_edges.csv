@@ -1,0 +1,236 @@
+source,target,type,weight
+Maren Møldrups,Povl Møldrup,Undirected,1
+Maren,Povl Møldrup,Undirected,1
+Maren,Povl,Undirected,1
+Albertine,Povl,Undirected,10
+Poul,PovlMøldrup,Undirected,1
+Albertine,Karl,Undirected,1
+Esper,Karle,Undirected,1
+Albertine,Esper,Undirected,16
+Albertine,Frederik,Undirected,2
+Esper,Frederik,Undirected,2
+Povl Møldrup,bedsf,Undirected,1
+Esper,Povl Møldrup,Undirected,45
+Esper,Fason,Undirected,1
+Albertine,Povl Møldrup,Undirected,10
+Povl,Povl Møldrup,Undirected,18
+Esper,Kjesten Møldrups,Undirected,1
+Ohs,Povl,Undirected,2
+Albertine,Kjesten,Undirected,2
+Povl,flet,Undirected,1
+Kjesfen,Povl,Undirected,1
+Esper,Povl,Undirected,33
+Esper,lille Mo,Undirected,1
+Esper,dn,Undirected,1
+Albertine,dn,Undirected,1
+Esper,Kjesten,Undirected,4
+Povl,Tine,Undirected,1
+Gud,Povl,Undirected,5
+Gud,Kristus,Undirected,1
+Gud,Karl,Undirected,1
+Gud,Povl Møldrup,Undirected,1
+Povl Møldrup,ber,Undirected,1
+Møldrup,Povl,Undirected,2
+Møldrup,Povl Møldrup,Undirected,1
+Mads Pallisen,Peter,Undirected,1
+Gud,Mikkel Fristrup,Undirected,1
+Jep,Ore,Undirected,1
+Jep,sid,Undirected,1
+Asten,Jep Anton,Undirected,1
+Anton,Povl Møldrup,Undirected,2
+Jep Anton,Povl Møldrup,Undirected,1
+Karl,Povl —,Undirected,1
+Kjowlcn,baadde Vaawscrn,Undirected,1
+Kiowlcn,mcj,Undirected,1
+Kørmes,mcj,Undirected,1
+Kjærrestens,Mari fek,Undirected,1
+Mari fek,Villi,Undirected,1
+Hanne Mand,ed Skaahn,Undirected,1
+Mari,ed Skaahn,Undirected,1
+aalsammel Haahn,imell ølle,Undirected,1
+Tyw,mie,Undirected,1
+Povl Møldrup,Tosse-Povl,Undirected,1
+Bisen,Povl Møldrup,Undirected,1
+Esper,Kaarde,Undirected,1
+Povl Møldrup,Vogel von Falkenstein,Undirected,1
+Anton,Jep,Undirected,1
+Esper,Gud,Undirected,4
+Gaardmandsson,Povl,Undirected,1
+Povl Møldrup,ester,Undirected,1
+Esper,ester,Undirected,1
+Mikkel,Povl Møldrup,Undirected,5
+Mikkel,Povl,Undirected,4
+Esper,Ibenholts,Undirected,1
+Povl,effer,Undirected,1
+Povl Møldrup,effer,Undirected,1
+Bejle,Povl,Undirected,2
+Karl,Povl,Undirected,2
+Esper,Karl,Undirected,1
+Mikkel Korreborre,Povl Møldrup,Undirected,2
+Søren Esperfen,Søren Espersen,Undirected,1
+Dortes,Søren Esperfen,Undirected,1
+Dorsk Espers,Povl Møldrup,Undirected,1
+Dorsk Espers,Esper,Undirected,3
+Albertine,Bedstemosters,Undirected,1
+Dort,Tøren Espersen,Undirected,1
+' Espers,Dort,Undirected,1
+Esper,Søren Espersen,Undirected,10
+Esper,Søren,Undirected,2
+Peder,Søren,Undirected,1
+Peder,Povl Møldrup,Undirected,1
+Møldrupgaard,Søren Espersen,Undirected,1
+Møldrupgaard,Povl,Undirected,1
+Dorte,Søren,Undirected,2
+Jens,ber,Undirected,1
+Bcdstemoster,Møldrupgaard,Undirected,1
+Albertine,Møldrupgaard,Undirected,1
+Albertine,Søren Espersen,Undirected,2
+Bedstemoster,Povl Møldrup,Undirected,2
+Frederik,Povl,Undirected,1
+Frederik,Karl,Undirected,1
+Karl,Kjesten,Undirected,1
+Povl Møldrup,Søren Espersen,Undirected,8
+Dorte Espers,Gud,Undirected,1
+Kader,Kjære,Undirected,1
+Mikkel Korreborre,Søren Espersen,Undirected,1
+Søren Espersen,Søren Møldrup,Undirected,1
+Mikkel,Mikkel Korreborre,Undirected,2
+Kjesten,Mikkel,Undirected,1
+Povl,Søren,Undirected,1
+Povl,Søren Espersen,Undirected,3
+Frederik,ber,Undirected,2
+Gjertrud,Mads Hjulmand,Undirected,1
+Frederik,Gjertrud,Undirected,2
+Ellen,Frederik,Undirected,3
+Gjertrud,Gjertrud Madses,Undirected,1
+Ellen,Gjertrud Madses,Undirected,1
+Gjertrud,Mads,Undirected,3
+Frederik,Mads,Undirected,1
+Bedstemoster,Frederik,Undirected,1
+Mads,Mads Hjulmand,Undirected,1
+Albertine,Gjertrud,Undirected,1
+Albertine,Krage,Undirected,1
+Krage,Møldrupgaard,Undirected,1
+Gjertrud,Povl,Undirected,1
+Povl Møldrup,behas,Undirected,1
+Povl,ber,Undirected,1
+Høld,Povl Møldrup,Undirected,1
+Oll,Povl Møldrup,Undirected,1
+Ohs,Povl Møldrup,Undirected,1
+Povl Møldrup,nn,Undirected,1
+Gud,Kjesten,Undirected,1
+Mikkel Kirketerp,Povl,Undirected,1
+Esper,Mikkel,Undirected,6
+Karle,Povl,Undirected,1
+Karle,Mikkel,Undirected,1
+Esper Sørensen,Søren Møldrup,Undirected,1
+Esper,Mikkel Korreborre,Undirected,1
+Esper Sørensen,Gud,Undirected,2
+Esper,Esper Sørensen,Undirected,2
+Boldine,Frederikke Korreborre,Undirected,1
+Esper,Frederikke Korreborre,Undirected,1
+Miftel,Povl Møldrup,Undirected,2
+Boldine Frederikke Korreborre,Esper,Undirected,4
+Albertine,Møldrupgaarb,Undirected,1
+Møldrupgaarb,Povl Møldrup,Undirected,1
+Albertine,Gud,Undirected,1
+Esper,Frøken Boldine,Undirected,2
+Mo,r,Undirected,1
+Esper,Helene Pctronella,Undirected,2
+Boldine,Esper,Undirected,1
+Boldine,Helene,Undirected,1
+H,Povl Møldrup,Undirected,1
+Esper Sørensen,Povl Møldrup,Undirected,3
+Esper Sørensen,Frøken Boldine,Undirected,2
+Esper,sidsfe,Undirected,1
+Boldine Mejerske,Povl Møldrup,Undirected,1
+Boldine Mejerske,Helene,Undirected,1
+Esper,Helene,Undirected,3
+Helene,Povl Møldrup,Undirected,2
+Esper,Miftel,Undirected,1
+Anders,Povl Møldrup,Undirected,1
+Per,Povl,Undirected,2
+Povl Møldrup,Sven,Undirected,1
+Esper,Froken Boldines,Undirected,1
+Esper,Jomfru Korreborre,Undirected,1
+Povl Møldrup,Turnips,Undirected,1
+Esper,Korreborres,Undirected,2
+Povl Møldrup,Rummelstrup,Undirected,1
+Fatter,Tønnesen,Undirected,2
+Bergen,Fatter,Undirected,1
+Bergen,Mogensens,Undirected,1
+Krags,Mogensens,Undirected,1
+Krags,Madsens,Undirected,1
+Madsens,Pi,Undirected,1
+Fatter,Løwe,Undirected,1
+Fatter,Svane,Undirected,1
+Fatter,Helene,Undirected,1
+Mogensen,Tønnesen,Undirected,2
+Madsen,Mogensen,Undirected,1
+Madsen,Stokmark,Undirected,1
+Gud ste Lov,Povl Møldrup,Undirected,1
+Froken Boldine,Povl Møldrup,Undirected,1
+Miffel,Povl,Undirected,1
+Miffel,Povl Møldrup,Undirected,1
+Povl Møldrup,rastlos,Undirected,1
+Bedsfemosfers,rastlos,Undirected,1
+Bedsfemosfers,Povl,Undirected,1
+Boldine Frederikke Korreborre,Esper Sørensen,Undirected,1
+-siradan,Esper,Undirected,2
+Esper,Skjoldmø,Undirected,1
+Albertine,Bedstemoster,Undirected,2
+Albertine,hnn,Undirected,1
+Søren Espersen,Tosen,Undirected,1
+Pools,Søren Espersen,Undirected,1
+Son,Søren Espersen,Undirected,1
+Dorre,Dorsk Espers,Undirected,1
+Esper Sorensens,Søren Espersen,Undirected,1
+Mikkel,Rummelstrup,Undirected,1
+Gud,Jomfruen,Undirected,1
+Froken Boldine,Søren Espersen,Undirected,3
+Esper,Froken Boldine,Undirected,3
+Povl,Soren,Undirected,1
+.,Albertine,Undirected,1
+Albertine,hvast,Undirected,1
+Madam Korreborre,Poul Møldrup,Undirected,1
+Albertine,Frøken Boldine,Undirected,1
+Mikkel,Søren Espersen,Undirected,1
+Dorsk Espers,Kjesten,Undirected,2
+Albertine,be,Undirected,1
+Mikael,Povl Møldrup,Undirected,1
+Bedstemoster,Esper,Undirected,1
+Albertine,Dort,Undirected,1
+Dort,Esper,Undirected,1
+Mads Hjulmand,Povl Møldrup,Undirected,4
+Mads,Povl Møldrup,Undirected,1
+Frederik,Povl Møldrup,Undirected,2
+Mads Hjulmand,ask,Undirected,1
+Albertine,Pvvl Møldrup,Undirected,1
+Frederik Madsen,Pvvl Møldrup,Undirected,1
+Frederik,Gud,Undirected,1
+Esper Sorensen,Povl Møldrup,Undirected,1
+Dorte,Søren Espersen,Undirected,1
+Dorte,Esper,Undirected,1
+,Søren Espersen,Undirected,1
+Povl Møldrup,Søren,Undirected,2
+Mikkel,PovlMøldrup,Undirected,1
+Albertinc,Povl Møldrup,Undirected,1
+Albertinc,Kjesten,Undirected,1
+Frederik,Mads Hjulmand,Undirected,1
+Boldine,Povl Møldrup,Undirected,2
+Albertine,Mads Hjulmand,Undirected,1
+Frederik,vidsfe Povl Møldrup,Undirected,1
+Povl,vidsfe Povl Møldrup,Undirected,1
+Kjesten,Povl,Undirected,2
+Esper Sorensen,Søren Espersen,Undirected,1
+Mikkel,Soren Espersen,Undirected,1
+Esper Sørensen,Froken Severine Boldine Frederikke Korreborre,Undirected,1
+Froken Severine Boldine Frederikke Korreborre,Povl Møldrup,Undirected,1
+Søren Espersen,Tønnesen,Undirected,1
+Mogensen,Proprietær Madsen,Undirected,1
+Proprietær Madsen,Stokmark,Undirected,1
+Esper Sørensen,Rikke Espers,Undirected,1
+Povl Møldrup,Rikke Espers,Undirected,1
+Frederik Madsen,Povl Møldrup,Undirected,1
+Kattuns,Povl Møldrup,Undirected,1
+Kjesten,Povl Møldrup,Undirected,1

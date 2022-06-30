@@ -1,0 +1,275 @@
+source,target,type,weight
+Johanne-Marie arbeide,Maren,Undirected,1
+bruun,hviid,Undirected,1
+Amalie,Tot,Undirected,1
+Amalie,Steffen,Undirected,2
+Epha,Steffen,Undirected,2
+Epha,JohanneMarie,Undirected,1
+Johanne-Marie,Maren,Undirected,3
+Johanne-Marie,Steffen Egedes,Undirected,1
+Maren,Steffen Egedes,Undirected,1
+Johanne Marie Børnetøi,Johanne-Marie,Undirected,1
+Gud,JohanneMarie,Undirected,1
+Johanne-Marie,Sorungna,Undirected,1
+Johanne,Johanne-Marie,Undirected,1
+Johanne-Marie,Kains,Undirected,1
+Johanne-Marie,Johanne-Marie paany,Undirected,1
+Johanne-Marie paany,Kain,Undirected,1
+Abel,Kain,Undirected,1
+Steffen,pallase,Undirected,1
+Daniel-Kok,Steffen,Undirected,1
+Daniel-Kok,Johanne-Marie,Undirected,1
+Daniel,Maren,Undirected,1
+Ane,Daniel,Undirected,2
+Johanne,Ojoanna Johanne,Undirected,1
+Ojoanna Johanne,Uluisa,Undirected,1
+Louise,Uluisa,Undirected,1
+Louise,Ojoth,Undirected,1
+John,Ojoth,Undirected,1
+Vovvov,lisbjørn,Undirected,1
+Else Daniel,Vovvov,Undirected,1
+Buck,Daniel,Undirected,1
+Buck,Maren,Undirected,1
+L’,hombren,Undirected,1
+Karen,Maren,Undirected,1
+Maren,Mette,Undirected,1
+Mette,Snee,Undirected,1
+Gudmo,Gudmors,Undirected,1
+Else,Geerts,Undirected,1
+Else Daniel,Fru Buck,Undirected,1
+Buck,Sørensens,Undirected,1
+Fredrik,Sørensens,Undirected,1
+Else Holm,Fredrik,Undirected,3
+Else Holm,Rasmussen,Undirected,1
+Else,Maanen,Undirected,1
+Malenefjeldets,Riim,Undirected,1
+Else Præstedatter,Malenefjeldets,Undirected,1
+Else,Holms,Undirected,1
+Else,Fredrik,Undirected,4
+Else,Steen,Undirected,1
+Else,Tom,Undirected,2
+Fredrik,Tom,Undirected,1
+Elisif,lille Elisif,Undirected,1
+Elisif,Herkules,Undirected,1
+Daniel,Sørensen,Undirected,2
+Daniel,Gud,Undirected,1
+Ben Jenkins,Virginia,Undirected,1
+Anker,Virginia,Undirected,1
+Anker,Fredrik,Undirected,1
+Gerhard,Moe,Undirected,1
+Gerhard,Qeertiaden,Undirected,1
+Frederik,Steffen Egede,Undirected,2
+Else,Gudmo,Undirected,7
+Else,Holm,Undirected,4
+Buck,Holm,Undirected,1
+Eginhardt,Karl den,Undirected,1
+Buck,Eginhardt,Undirected,1
+Else Daniel,Else Holm,Undirected,1
+Fredrik,Maren,Undirected,1
+Maren,Sørensen,Undirected,1
+Else,Sørensen,Undirected,1
+Epha,Stefifens,Undirected,1
+Epha,Rasmus,Undirected,1
+Else Holm,Frederik,Undirected,1
+Else,Else Holm,Undirected,2
+Adams,Oles,Undirected,1
+Haien,Smed Rasmussen,Undirected,1
+Amalie,Egede,Undirected,1
+Amalie,Epha,Undirected,2
+Johanne-Marie,Steffen,Undirected,1
+Poul Egedes2,Steffen,Undirected,1
+Gud,Poul Egede,Undirected,1
+Poul Egede,hans Stasepels,Undirected,1
+Poul J,hans Stasepels,Undirected,1
+Hans Egedes,Poul J,Undirected,1
+Else,Steffen,Undirected,1
+Gudmo,Suffisance,Undirected,1
+Else,Pastor Holms,Undirected,1
+Codille,Else,Undirected,1
+Codille,Gudmo,Undirected,1
+Olsen,Rasmussen,Undirected,2
+Arne,Olsen,Undirected,1
+Arne,Rasmussen,Undirected,1
+Else,Olsen,Undirected,4
+Else,Erik Bøghs,Undirected,1
+Gudmo,Holm,Undirected,1
+Else,Rasmus der,Undirected,1
+Gudfar,Rasmus,Undirected,1
+Else,Gudfar,Undirected,1
+Gudmo,Gudmoe,Undirected,1
+Buck,Gudmo,Undirected,1
+Buck,Else,Undirected,2
+Else,Elése,Undirected,1
+Else,Md. Moe,Undirected,1
+Else,Madam Moe,Undirected,1
+Madam Moe,Moe,Undirected,1
+Amaut,Moe,Undirected,1
+Amaut,Else,Undirected,1
+Daniel,Else,Undirected,1
+B,Lars,Undirected,1
+B,Sørensen,Undirected,1
+Igasok1,Sørensen,Undirected,1
+Epha,Igasok1,Undirected,1
+Epha,Idglunguak,Undirected,1
+Epha,Hans,Undirected,1
+Else,Epha,Undirected,1
+Else,Hans,Undirected,1
+Else Holm,Sørensen,Undirected,1
+Arnakuarsak,Sørensen,Undirected,1
+Frederik Jenkins,Frederik Sørensen,Undirected,1
+Gudfa,Gudmo,Undirected,1
+Adam Olsen,Jonas Kleist,Undirected,1
+Else,Gudfa,Undirected,1
+Gudmo,iland,Undirected,1
+Else,iland,Undirected,1
+Eiserak,Sørensen,Undirected,1
+Daniel,Tennyson,Undirected,1
+Tennyson,Tom,Undirected,1
+Gudmo,Tom,Undirected,1
+Fredrik,Gudmo,Undirected,1
+Fredrik Jenkins,Jenkins,Undirected,1
+Else,Fredrik Jenkins,Undirected,1
+Else,ifjor,Undirected,1
+Else,lee,Undirected,1
+Else,Gudmor,Undirected,1
+Else Holm,Tennyson,Undirected,1
+Else,Tennyson,Undirected,1
+Fredrik,Virginia,Undirected,1
+Fredrik,Moe,Undirected,1
+Fader- Sørensens,Plums,Undirected,1
+Else Holm,Fredrik Jenkins,Undirected,2
+Else,Frederik,Undirected,1
+Else,Steffen Egede,Undirected,1
+Anker,Nelson Hansen,Undirected,1
+Anker,x,Undirected,1
+Md. Tang,Tang,Undirected,2
+Bohn,Lauras,Undirected,1
+Laura Bohn,Lauras,Undirected,1
+Laura Bohn,Væxt,Undirected,1
+Laura,Væxt,Undirected,1
+Laura,Tang,Undirected,4
+Kong Faraos,haij,Undirected,1
+Mads Jensen,Olsen,Undirected,2
+Laura,Md.,Undirected,1
+Md.,Tang,Undirected,2
+Laura,tys,Undirected,2
+Bohn,Laura,Undirected,5
+Laura,Thea Poulsen,Undirected,2
+Jehu,Mads,Undirected,1
+Hansen,Jehu,Undirected,1
+Hanselv,Landers,Undirected,1
+Klein,Pernille,Undirected,1
+Bangs,Bohn,Undirected,1
+Rosine,Steen,Undirected,1
+Gud,Job,Undirected,2
+Klein,Laura,Undirected,1
+J,Piur,Undirected,1
+Piur,itok,Undirected,1
+Bohn,tom,Undirected,1
+Bang,Vertinden,Undirected,1
+Klein,Tang,Undirected,1
+J,Tang,Undirected,1
+Boreas,Mai,Undirected,1
+Hr. Bohns,Schoppenhauer,Undirected,1
+Kilase,Laura Bohn,Undirected,1
+Kilase,Klaus,Undirected,1
+Laura,Madam Tang,Undirected,1
+Laura,Md. Tang,Undirected,2
+Md.,Md. Tang,Undirected,1
+Rosine,Thea Poulsen,Undirected,1
+Laura,Rosine,Undirected,1
+Mads Jensen Krabbe,Thea,Undirected,2
+Mads Jensen,Thea,Undirected,1
+Laura,Thea,Undirected,2
+Thea,sorarpokke,Undirected,1
+Bang,Bohn,Undirected,1
+arujuk,ayak,Undirected,1
+Md. Tang,Ole,Undirected,1
+Eliseba,Ole,Undirected,1
+Eliseba,beth,Undirected,1
+Md. Tang,beth,Undirected,1
+Gud,Tang,Undirected,1
+Tang,aa,Undirected,1
+Laura,Laura Bohn,Undirected,2
+Md. Petersen,Nula,Undirected,1
+Md.,Md. Petersen,Undirected,1
+Md.,P.,Undirected,1
+Md. P.,P.,Undirected,1
+Bataglia,Signor,Undirected,1
+Hansen,Laura,Undirected,1
+Riis,paany,Undirected,1
+Laura,j,Undirected,1
+j,taus,Undirected,1
+Jens,Mads Jensen,Undirected,1
+Gud,Md. Tang,Undirected,1
+Bohn,Tang,Undirected,2
+Eliseba,Md. Tang,Undirected,1
+Eliseba,Hrr. Bang,Undirected,1
+Md. Tang,j.o,Undirected,1
+Bohn,Hansen,Undirected,1
+Christian David,Mathias Stach,Undirected,1
+Hans Egede,Mathias Stach,Undirected,1
+Egede,Hans Egede,Undirected,1
+Jehu,Judiths,Undirected,1
+Gud,Jehu,Undirected,1
+Hrr. Bang,Urr. Landers,Undirected,1
+Laura,lille Hansen,Undirected,1
+Bohn,lille Hansen,Undirected,1
+Kjøn,ludith,Undirected,1
+Bohn,Jette,Undirected,1
+Bohn,Mads Gedebuk,Undirected,1
+Augustinus,Bohn,Undirected,1
+Ane,Augustinus,Undirected,2
+Ane,Rosine,Undirected,3
+Jensen,Mads Jensen,Undirected,1
+Gud,Mads Jensen,Undirected,1
+Augustinus,Rosine,Undirected,4
+Rosine,pitak,Undirected,1
+Ane,pitak,Undirected,1
+Peter,Rosine,Undirected,2
+Augustinus,Peter,Undirected,1
+Ane,Peter,Undirected,1
+Bohn,reenskrev,Undirected,1
+Kilase,Laura,Undirected,1
+Bohn,Md. Tang,Undirected,1
+Eliseba,Laura,Undirected,1
+aukpalårtorsuak,erfalaselissuak,Undirected,1
+Hansen,Stine,Undirected,17
+Stine,Stine Hansen,Undirected,1
+Stine,Villiam,Undirected,2
+Metea,Stine,Undirected,1
+Dorthe,Stine,Undirected,5
+Stine,lille Stine,Undirected,1
+Hansen,lille Stine,Undirected,1
+Hansen,Pitak,Undirected,5
+Barsilais,Hansen,Undirected,1
+Hansen,Spæk,Undirected,1
+Serfak,Stine Hansen,Undirected,1
+Dorthe,Stine Hansen,Undirected,1
+Dorthe,Hansen,Undirected,2
+Agpanik,serfanik,Undirected,2
+serfanik,timmialik,Undirected,2
+Gutiå,saimånga ajortiligsugama,Undirected,1
+Hansen,lille Maries,Undirected,2
+Hansen,Md. Hansen,Undirected,1
+Madam Hansens,stens,Undirected,1
+Hansen,tom,Undirected,1
+Hansen,Wilhelmine,Undirected,1
+Hansen,Ravne,Undirected,1
+Igdlokut,Md. Hansen,Undirected,1
+Barsilai,Hansen,Undirected,1
+Md. Hansen,Stine,Undirected,1
+Stine,Vilhelmine,Undirected,1
+Amauter,K.,Undirected,2
+Benja,K.,Undirected,1
+Benja,Malene,Undirected,1
+Hansen,Teistens,Undirected,2
+Benja,Teistens,Undirected,2
+Benja,Hansen,Undirected,1
+Hansen,Serfak,Undirected,5
+Malene,Serfak,Undirected,1
+Benja,Serfak,Undirected,1
+Serfak,paany,Undirected,1
+Serfak,Stine,Undirected,2
+Hans,Stine,Undirected,1
+Hans,Hansen,Undirected,1

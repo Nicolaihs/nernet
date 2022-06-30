@@ -1,0 +1,216 @@
+source,target,type,weight
+Lind,didhen,Undirected,1
+Lars,Lind,Undirected,1
+Lars,Lasse,Undirected,1
+Finnepigen,Magga,Undirected,2
+Finnepigen,Marie,Undirected,1
+Magga,Marie,Undirected,3
+Magga,lille Marie,Undirected,1
+Finnen,Lasse,Undirected,1
+Kanske,Magga,Undirected,1
+Gud,Marie,Undirected,1
+Gud,Magga,Undirected,1
+Gud,Lasse,Undirected,1
+Finnepiges,Jaampa,Undirected,2
+Jaampa,Mor,Undirected,1
+M. F. Bang,Mor,Undirected,1
+Jaampa,Jouna,Undirected,13
+Elan,Jaampa,Undirected,1
+Birken,Jaampa,Undirected,1
+Birken,Renen,Undirected,1
+Jaampa,Renen,Undirected,8
+Gunnil,Jouna,Undirected,1
+Gunnil,Kate,Undirected,1
+Jaampa,Kate,Undirected,1
+Jaampa,botsuinh,Undirected,1
+Jouna,Kate,Undirected,1
+Gunnil,Laagje,Undirected,1
+Gunnil,Jaampa,Undirected,1
+Jouna,Renen,Undirected,1
+Gud,Laagje,Undirected,6
+Finnen,Laagje,Undirected,1
+Koutokæino,Laagje,Undirected,2
+Laagje,Lajla,Undirected,21
+Lajla,Mellet,Undirected,40
+Jaampa,Mellet,Undirected,12
+Renen,Simlen,Undirected,3
+Kvænen,Renen,Undirected,2
+Laagje,Renen,Undirected,3
+Lille Lajla,Mellet,Undirected,1
+Jaampa,Lille Lajla,Undirected,1
+Jaampa,lallefald,Undirected,2
+Jaampa,Lajla,Undirected,52
+Arne,Jaampa,Undirected,1
+Arne,lille Lajla,Undirected,1
+Jaampa,lille Lajla,Undirected,2
+Jaamba,Lajla,Undirected,4
+Jouna,Laagje,Undirected,2
+Reinkalveria,Renen,Undirected,1
+Simle,Simlen,Undirected,1
+Gamlemor,Simle,Undirected,1
+Gamlemor,Sauen,Undirected,1
+Sauen,kanne,Undirected,1
+Lajla,ifjor,Undirected,1
+Laagje,Ranne,Undirected,1
+Laagje,Runne,Undirected,5
+Muste,varTshjalmo,Undirected,1
+Dubbe,varTshjalmo,Undirected,1
+Dubbe,Jouna,Undirected,1
+Jouna,Lorjus,Undirected,1
+Lorjus,Shieges,Undirected,1
+Girjo,Shieges,Undirected,1
+Fars,Girjo,Undirected,1
+Gutten,Ranne,Undirected,1
+Madmoders,Runne,Undirected,2
+Lynsnart,Runne,Undirected,1
+Lynsnart,Mor,Undirected,1
+Laagje,Simlehjorden,Undirected,1
+Jaampa,Laagje,Undirected,9
+Jaampa,suolal-,Undirected,1
+.Runne,Runne,Undirected,1
+Gud,Runne,Undirected,2
+Mor,Runne,Undirected,1
+Madmoders,Mor,Undirected,1
+Laagje,Mellet,Undirected,2
+Aslak Laagje,Lind,Undirected,1
+Aslak Laagje,Laagje,Undirected,1
+Finnen,Jesus,Undirected,1
+Lajla,Mor,Undirected,1
+Jaampa,Magga,Undirected,1
+Lasse,Magga,Undirected,1
+Jaampa,Kjørsel,Undirected,2
+Jouna,Ratkem,Undirected,1
+Jouna,Mellet,Undirected,1
+Gud,Lind,Undirected,1
+Lind,heder Lajla,Undirected,1
+Jaampa,heder Lajla,Undirected,1
+Mamma,Papa,Undirected,1
+Huk,Jaampa,Undirected,1
+.Lajla,loddas,Undirected,1
+ale balal,loddas,Undirected,1
+Lajla,ale balal,Undirected,1
+Ikgo,ikgo mulle jaampa,Undirected,1
+Lajla,Magga,Undirected,1
+Gunnil,Magga,Undirected,1
+Jaamba,Mamma,Undirected,1
+Mamma,Pappa,Undirected,3
+Jaampa,Mamma,Undirected,1
+Laagje,Lille Mellet,Undirected,1
+Lajla,Lasso,Undirected,3
+Laagje,Lille Lajla,Undirected,1
+Laagje,hans,Undirected,1
+Jouna,Magga,Undirected,1
+Fjeldfin Aslak Laagje,Jaampa,Undirected,1
+Fjeldfin Aslak Laagje,Lajla,Undirected,1
+Jaampa,Lasso,Undirected,2
+Lajla,Rype,Undirected,1
+Jaampa,Rype,Undirected,1
+Lajla,Muste,Undirected,6
+njalgis,njalgish Nei,Undirected,1
+Jaampa,njalgish Nei,Undirected,1
+Aslak Laagje,Olavius Hjorth,Undirected,1
+Haarde-Hjorth,d. e.,Undirected,1
+Haarde-Hjorth,Svanen,Undirected,1
+Koutokæino,Mellet,Undirected,1
+Katekismus,Lajla,Undirected,1
+Bang,Laagje,Undirected,1
+Eiler,Gud,Undirected,1
+Lajla,Prat,Undirected,1
+Jaampa,Tamren,Undirected,1
+Finnen,Læstadius,Undirected,1
+Jaampa,d. e.,Undirected,1
+Frierens,Lajla,Undirected,1
+Anders Lind,Lind,Undirected,3
+Anders Lind,Lajla,Undirected,2
+Lajla,Lind,Undirected,22
+Lajla,Lajlashjam,Undirected,1
+Inga,Inger,Undirected,1
+Ingashjam,Inger,Undirected,3
+Ingashjam,Lajlashjam,Undirected,1
+Inger,adde andagassi,Undirected,1
+Inger,Jaampa,Undirected,5
+Jaampa,Jaampaa,Undirected,2
+Abraham,Lajla,Undirected,1
+Abraham,Isak,Undirected,2
+Isak,Jakob,Undirected,2
+Esau,Jakob,Undirected,5
+Esau,Lajla,Undirected,2
+Esau,Inger,Undirected,1
+Esau,Jaampa,Undirected,3
+Daro,Jakob,Undirected,1
+Esau,Gud,Undirected,2
+Inger,Lind,Undirected,5
+Ale sutta,Inga oabbashjam,Undirected,1
+Inga oabbashjam,Inger,Undirected,1
+Inger,Lajla,Undirected,15
+Andashjam,Inger,Undirected,1
+Inga,Jaampa,Undirected,2
+Lind,Renen,Undirected,1
+Lajla,Renen,Undirected,2
+Inger,Mellet,Undirected,4
+Jaampa,Taus,Undirected,1
+Taus,taus,Undirected,2
+Beiler,Taus,Undirected,1
+Jaampa,Lind,Undirected,10
+Jivja,Lajla,Undirected,1
+Birken,bent,Undirected,1
+Birken,Garnes,Undirected,1
+Fjeldfinnan,Garnes,Undirected,1
+Anders,Lajla,Undirected,1
+Anders,Inger,Undirected,2
+Ingashjam,Lajla,Undirected,2
+Daroen,Inger,Undirected,1
+Inger,Laagje,Undirected,1
+Jaampa,Jivja,Undirected,1
+Finnepige,Muste,Undirected,1
+Lajla,ning,Undirected,1
+Inger,ning,Undirected,1
+Garnes,Jaampa,Undirected,2
+Garnes,Lajla,Undirected,7
+Inga Finnepige,Lajla,Undirected,1
+Lajla,Multer,Undirected,1
+Inger Mellet,Lajla,Undirected,1
+Inger Mellet,Lind,Undirected,1
+Inger,Renen,Undirected,2
+Daro,Lasso,Undirected,1
+Laagje,Lind,Undirected,4
+Garnes,Mellet,Undirected,1
+Daroen,Garnes,Undirected,1
+Daroen,Lajla,Undirected,5
+Garnes,Lind,Undirected,3
+Garnes,Inger,Undirected,2
+Lind,Mellet,Undirected,3
+Gud,Lajla,Undirected,2
+Kjære Lajla,Mellet,Undirected,1
+Elven,Lind,Undirected,1
+Daro,Lajla,Undirected,4
+Garnes,Muste,Undirected,1
+Gud,Jaampa,Undirected,4
+Daroen,Laagje,Undirected,1
+Aslaks Kate,Jakos Inga,Undirected,1
+Daroen,Lasso,Undirected,1
+Koutokæino,Lajla,Undirected,2
+Jaampa,Koutokæino,Undirected,2
+Alten,Jaampa,Undirected,1
+Anders Lind,Jaampa,Undirected,1
+Daro,Jaampa,Undirected,3
+Karo,Lind,Undirected,1
+Koutokæino,Renen,Undirected,1
+Finnepigen,Lind,Undirected,1
+Finnepigen,Laagje,Undirected,1
+Aslak,Laagje,Undirected,1
+Daro,Koutokæino,Undirected,1
+Graad,Lajla,Undirected,1
+Stans,stans,Undirected,1
+Anders Lind,Haarde-Hjorth,Undirected,1
+Andashjam,Lajla,Undirected,1
+Inga,Lind,Undirected,1
+Anders Lind,Garnes,Undirected,1
+Birken,Lajla,Undirected,1
+Birken,Muste,Undirected,1
+Lajla,deiki,Undirected,1
+Jaampa,Muste,Undirected,1
+Gud,Jakob,Undirected,1
+Garnes,Laagje,Undirected,1
+Batsus Jesus mu sagjaiX,Lajla,Undirected,1
+Jaampa,Jesus,Undirected,1

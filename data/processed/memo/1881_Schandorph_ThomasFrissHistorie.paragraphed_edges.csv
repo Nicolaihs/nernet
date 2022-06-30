@@ -1,0 +1,1072 @@
+source,target,type,weight
+Fredrik IVs,lins,Undirected,1
+Ole,Ole Sørensen,Undirected,17
+Fris,Ole Sørensen,Undirected,19
+Ole,sorn,Undirected,1
+Frederik IV,Frederik VI,Undirected,1
+Gud,lille Henriette,Undirected,1
+Aladdin,Henriettes,Undirected,1
+Flegma,Henriette,Undirected,1
+Ole Sørensen,don,Undirected,2
+Ole,don,Undirected,2
+Madam,Ole,Undirected,1
+Ole,nene,Undirected,1
+Fris,Ole,Undirected,17
+Kramer,Ole Sørensen,Undirected,5
+Kramer,Ole,Undirected,2
+Ole Sørensen,Thomas Fris,Undirected,2
+Fris,Laffy,Undirected,1
+Fris,Hr. Laffy,Undirected,2
+Hr. Laffy,Lalfy,Undirected,1
+Alan,Lalfy,Undirected,1
+Alan,Alberta,Undirected,1
+Alberta,Fris,Undirected,3
+Alberta,Hr. Laffy,Undirected,1
+Madam Fris,ein Schafskopf,Undirected,1
+ein Schafskopf,ein prosaischer,Undirected,1
+ein prosaischer,iland,Undirected,1
+iland,liun,Undirected,1
+Fris,liun,Undirected,1
+Henriette,Thomas,Undirected,71
+Birk,Thomas Fris,Undirected,5
+Ole Sørensen,Thomas,Undirected,7
+Fris,dot,Undirected,1
+Hellespont,dot,Undirected,1
+Heibergs,Konferensog Etatsraader,Undirected,1
+Mynsters,Strausz,Undirected,1
+Martensen,Strausz,Undirected,1
+Chr. Winthers,Martensen,Undirected,1
+Birk,Birk Amors,Undirected,1
+Birk,Henriette,Undirected,9
+Birk,PastorBirk,Undirected,2
+PastorBirk,Traad,Undirected,2
+Thomas,ban,Undirected,1
+Gud,don lange,Undirected,1
+Birk,Gud,Undirected,5
+Alan liar,Birk,Undirected,1
+Alan liar,Dot,Undirected,1
+Ferdinand,Konrad,Undirected,4
+Hin,Mads Røgter,Undirected,1
+Ferdinand,Jere,Undirected,1
+Birk,Thomas,Undirected,34
+Konrad,liere,Undirected,2
+Ferdinand,Pastor Birks,Undirected,1
+Ferdinand,Thomas,Undirected,2
+Thomas,s,Undirected,68
+Ingemanns,s,Undirected,1
+Ingemanns,dot,Undirected,1
+do,dot,Undirected,1
+Thomas,do,Undirected,1
+Thomas,don store,Undirected,2
+Ingemanns,Thomas,Undirected,1
+Erik Glippings,Ingemanns,Undirected,1
+Aage,Erik Glippings,Undirected,1
+Aage,Henriette,Undirected,1
+Ferdinand,Henriette,Undirected,2
+Henriette,Konrad,Undirected,2
+Fugl Fønix,Henriette,Undirected,1
+Fugl Fønix,skraa,Undirected,1
+Thomas,skraa,Undirected,2
+Thomas,liam,Undirected,8
+liam,lian,Undirected,2
+don,lian,Undirected,1
+Thomas,don,Undirected,9
+Sidse,s,Undirected,1
+Thomas,lutter animalia bruta,Undirected,1
+lutter animalia bruta,rudis indigestaque moles cui lumen ademptum,Undirected,1
+Birk,rudis indigestaque moles cui lumen ademptum,Undirected,1
+Gud,Ole Sørensen,Undirected,2
+Ole,j,Undirected,2
+Pastor Birks,Thomas,Undirected,3
+Birk,Ole Sørensen,Undirected,3
+Thomas,lian,Undirected,14
+Henriette,lian,Undirected,1
+Henriette,hans,Undirected,1
+anode,hans,Undirected,1
+Henriette,anode,Undirected,1
+Madam Fris,Thomas,Undirected,1
+Gud,Madam,Undirected,1
+Madam,Mikkelsdag,Undirected,1
+Mikkelsdag,Thomas,Undirected,1
+Fris,Thomas,Undirected,13
+Fris,Mads,Undirected,1
+Fris,Uvrigc,Undirected,1
+Balles,Kramer,Undirected,1
+Frandsen,Thomas,Undirected,59
+Alen Frandsen,Frandsen,Undirected,1
+Alen Frandsen,Thomas,Undirected,1
+Frandsen,Karlen,Undirected,1
+Svend,Thomas,Undirected,5
+Beck,Thomas,Undirected,5
+Beck,Svend,Undirected,2
+Beck,Frandsen,Undirected,3
+Frandsen,Svend,Undirected,4
+Kramer,Thomas,Undirected,8
+Frandsen,Kramer,Undirected,8
+Smed Johansen,Thomas,Undirected,7
+Frandsen,Smed Johansen,Undirected,4
+Afund,Johansen,Undirected,1
+Frandsen,Johansen,Undirected,13
+Johansen,Koldrup,Undirected,1
+Frandsen,Henriette,Undirected,1
+Birk,don,Undirected,2
+Bech,Thomas,Undirected,1
+Bech,Svend,Undirected,1
+Kramer,lille Fatter,Undirected,1
+Johansen,lian,Undirected,1
+Frandsen,don Tøjte,Undirected,1
+Mette,don Tøjte,Undirected,1
+Mette,Thomas,Undirected,1
+Bech,Mette,Undirected,1
+Bech,lian,Undirected,1
+Frandsen,Mette,Undirected,1
+Alellem Frandsen,Frandsen,Undirected,2
+Hans,Stine,Undirected,1
+Beck,Kramer,Undirected,3
+Kramer,Svend,Undirected,5
+Musje Bajazzo,tolf Schillingfor,Undirected,1
+Vachsne,tolf Schillingfor,Undirected,1
+Vachsne,ote Schilling,Undirected,1
+Ole Sørensen,Pris,Undirected,1
+Fris,len,Undirected,1
+Aline,Fris,Undirected,1
+Aline,Kanske,Undirected,1
+Kanske,Ole Sørensen,Undirected,1
+Kibbe,Ole,Undirected,1
+hænd,s,Undirected,2
+Ole,s,Undirected,3
+Ole,Per Ol,Undirected,1
+Lavs,Per Ol,Undirected,1
+Fris,Gud,Undirected,1
+Degnens,Fris,Undirected,1
+Degnens,Ole Sørensen,Undirected,1
+Beck,Ole Sørensen,Undirected,1
+Friehling,Fris,Undirected,15
+Friehling,lille Thomas,Undirected,1
+Ole Sørensen,lille Thomas,Undirected,1
+Kusk,Ole,Undirected,2
+Fris,s,Undirected,2
+Ole Sørensen,s,Undirected,1
+Ole,dot,Undirected,1
+Fris,Hr. Friehling,Undirected,1
+Friehling,Ole Sørensen,Undirected,2
+Fredrik,Marie,Undirected,1
+Fredrik,Friehling,Undirected,1
+Hr. Friehling,Kam,Undirected,1
+Frederik,Friehling,Undirected,2
+Friehling,Ole,Undirected,8
+Do,Graziuccias,Undirected,1
+Ole,saagu,Undirected,1
+Ole Sørensen,lian,Undirected,1
+Alberta,Aløller,Undirected,1
+Alode,Fris,Undirected,1
+Ole Sørensen,Poder,Undirected,2
+Andersen,Ferdinand Friehling,Undirected,2
+Grajutzka,Grasutzki,Undirected,1
+Ferdinand Friehling,Fris,Undirected,2
+Aagaarden,Gud,Undirected,1
+Aagaarden,Asen,Undirected,1
+Andersen,Asen,Undirected,1
+Andersen,Gud,Undirected,1
+Gud,Moses Abrahamson,Undirected,1
+Friehling,Janos Laffys,Undirected,1
+Janos Laffys,auch Graziuccia genannt,Undirected,1
+Abrahamson,Laffy,Undirected,1
+Ferdinand Friehling,Laffy,Undirected,1
+Ferdinand,Ferdinand Friehling,Undirected,1
+Ferdinand,Gud,Undirected,1
+Ole,don Kjøbmand,Undirected,1
+Thomas,don Kjøbmand,Undirected,1
+Friehling,Poder,Undirected,3
+Kramer,s,Undirected,3
+Beck,Friehling,Undirected,1
+Frandsen,Friehling,Undirected,10
+Aagaard,Friehling,Undirected,1
+Aagaard,Honoratiores,Undirected,1
+Friehling,Honoratiores,Undirected,1
+Bo,Frandsen,Undirected,1
+Gud,Johansen,Undirected,1
+Friehling,s,Undirected,1
+Aaens,Thomas,Undirected,1
+Frandsen,Ole Sørensen,Undirected,10
+Friehling,Thomas,Undirected,73
+Thomas,sigFriehling,Undirected,1
+Alen,livis,Undirected,1
+Principals,livis,Undirected,1
+Friehling,Gud,Undirected,6
+Friehling,Svend,Undirected,1
+Friehling,Kramer,Undirected,3
+Friehling,udo,Undirected,1
+Kramer,udo,Undirected,1
+lian,liun,Undirected,2
+Gud,Regine,Undirected,1
+Gud,don,Undirected,1
+Karl,don,Undirected,1
+Kramer,don Tanke,Undirected,1
+Fris,Poder,Undirected,1
+Johansen,Thomas,Undirected,6
+Nikolaj,Thomas,Undirected,13
+Matthis Kristoffer Johansen,Nikolaj,Undirected,1
+Matthis Kristoffer Johansen,Rasmus Andre,Undirected,1
+Kusken,Thomas,Undirected,1
+Aaen,Thomas,Undirected,1
+Friehling,Frieling,Undirected,2
+Kusk,Thomas,Undirected,2
+Poder,Thomas,Undirected,3
+Frandsen,Poder,Undirected,1
+Dot randt,Friehling,Undirected,1
+Dot randt,Thomas,Undirected,1
+Birk,Friehling,Undirected,7
+Friehling,paterna,Undirected,1
+Friehling,præko,Undirected,1
+Birk,præko,Undirected,1
+Sirtses,Thomas,Undirected,2
+Thomas,ril,Undirected,1
+Birk,Fris,Undirected,3
+Friehling,Haan,Undirected,1
+Birk,Haan,Undirected,1
+Friehling,PastorBirk,Undirected,1
+PastorBirk,notam,Undirected,1
+Thomas,notam,Undirected,1
+Friehling,Kyboles,Undirected,1
+Kristoffer Kolumbus,Kyboles,Undirected,1
+Friehling,Kjør,Undirected,1
+Doszhalb verbrennt,Weil solche Redon,Undirected,1
+Aledens,Thomas,Undirected,1
+Aledens,Friehling,Undirected,1
+Laffy,Thomas,Undirected,1
+Kramer,Laffy,Undirected,1
+Gud,Mads,Undirected,1
+Brunels,Thomas,Undirected,1
+Brunels,liun,Undirected,1
+Thomas,liun,Undirected,6
+Thomas,Tizians,Undirected,1
+Aled,s,Undirected,1
+Aled,livor,Undirected,1
+Thomas,livor,Undirected,1
+Homer,Thomas,Undirected,2
+Friehling,Maanelys,Undirected,2
+Maanelys,ctShawl,Undirected,1
+Thomas,ctShawl,Undirected,1
+Ma l,costante la Marietta,Undirected,1
+Ma l,amor della Rosina Non giammai piil scordcro,Undirected,1
+Graad,dot,Undirected,1
+Friehling,dot,Undirected,3
+Oehlenschlagers,Thomas,Undirected,1
+Hakon Jarl,Oehlenschlagers,Undirected,1
+Birk,Hakon Jarl,Undirected,1
+Est-ilfou,Thomas,Undirected,1
+Gud,Thomas,Undirected,7
+Thomas,temps,Undirected,1
+Alappes,temps,Undirected,1
+Thomas,il faut commencer par l,Undirected,1
+d vatre,est,Undirected,1
+est,il j oli ce petit garst eh,Undirected,1
+il j oli ce petit garst eh,piil manquera de femmes,Undirected,1
+devenez,piil manquera de femmes,Undirected,1
+Cravate,iland,Undirected,1
+Cravate,Mademoiselle Franchettes,Undirected,1
+Mademoiselle Franchettes,Thomas,Undirected,1
+Skraa,Thomas,Undirected,1
+Alundon,Skraa,Undirected,1
+Alundon,Thomas,Undirected,1
+Herkules,Tizians,Undirected,1
+Shakespeares Henry Percy,Tizians,Undirected,1
+Murillos,Shakespeares Henry Percy,Undirected,1
+Murillos,blaa Madonna,Undirected,1
+Velasquez,blaa Madonna,Undirected,1
+Rembrandts,Velasquez,Undirected,1
+Magdalene,Rembrandts,Undirected,1
+Magdalene,San Sistos,Undirected,1
+Apolio,San Sistos,Undirected,1
+Apolio,Beatrice,Undirected,1
+Aiaade,Beatrice,Undirected,1
+Aiaade,Dante,Undirected,1
+Dante,Theologia,Undirected,1
+Mystos,Theologia,Undirected,1
+Alekto,Elvira,Undirected,1
+Alekto,Megæra,Undirected,1
+Graziuccia,Megæra,Undirected,1
+Platon,Sokrates,Undirected,2
+Holberg,Sokrates,Undirected,1
+Holberg,esprit,Undirected,1
+Jeppes,esprit,Undirected,1
+Jeppe,Jeppes,Undirected,1
+Jeppe,Nille,Undirected,1
+Nille,sapienti,Undirected,1
+Adyton,Lyaios,Undirected,1
+Gud,Lyaios,Undirected,1
+Gud,perennius,Undirected,1
+Thomas,perennius,Undirected,1
+Poder,Thomas’,Undirected,1
+Gud,Therese,Undirected,1
+Hr. Parelius,Poder,Undirected,1
+Fanchettes,Thomas,Undirected,1
+Fanchettes,Friehling,Undirected,1
+Hr. Parelius,Thomas,Undirected,1
+Parelius,Poder,Undirected,4
+Hr. Parelius,graadig,Undirected,1
+Dot,Parelius,Undirected,1
+Dot,Ferdinand,Undirected,1
+Fogdens,Thomas,Undirected,1
+Ferdinand Friehling,liam,Undirected,1
+dot,liam,Undirected,1
+Fanchette,dot,Undirected,1
+Fanchette,Friehling,Undirected,9
+Fanchctte,Friehling,Undirected,2
+Friehling,lian,Undirected,2
+Friehling,Parelius,Undirected,4
+Fanchette,Poder,Undirected,1
+Fanchette,Parelius,Undirected,1
+Fanchette,Thomas,Undirected,7
+Erobrers,Poder,Undirected,1
+Erobrers,Thomas,Undirected,1
+Thom,Thomas,Undirected,1
+Thom,s,Undirected,4
+Ole,Thomas,Undirected,13
+Ole Sørensen,fraThomas,Undirected,1
+Auktionarius,Thomas,Undirected,1
+Auktionarius,Ole Sørensen,Undirected,2
+Auktionarius,Ole,Undirected,2
+Ole Sørensen,lian ham,Undirected,1
+Frandsen,Ole,Undirected,6
+Frandsen,lian,Undirected,1
+Fris,lian,Undirected,1
+Fris,Olsens,Undirected,1
+Johansen,Ole,Undirected,2
+Johansen,Nikolaj,Undirected,2
+Graad,Johansen,Undirected,1
+Degnens,timmersludders,Undirected,1
+Degnens,Smedemester Johansen,Undirected,1
+Ole Sørensen,Smedemester Johansen,Undirected,1
+Frandsen,liam,Undirected,2
+Fanchette,s,Undirected,1
+Borgar,Movitz,Undirected,1
+Eli gal,la richesso,Undirected,1
+Roger Bontomps,la richesso,Undirected,1
+Friehling,skraa,Undirected,1
+Aline,Friehling,Undirected,1
+Alands,Thomas,Undirected,1
+Alands,Fanchette,Undirected,1
+Friehling,valen,Undirected,1
+Smed Johansen,valen,Undirected,1
+Fanchette,Feuilletoneu,Undirected,1
+Feuilletoneu,Rafaels,Undirected,1
+Rafaels,Thomas,Undirected,1
+Birk emsig,Thomas,Undirected,1
+Birk emsig,Henriette,Undirected,1
+Birk,iland,Undirected,1
+Alan,Gud,Undirected,1
+Birk,allehaande,Undirected,2
+Ole,Svend,Undirected,1
+Niels,Thom,Undirected,1
+Ole,Thom,Undirected,1
+lille Thom,s,Undirected,2
+Frandsen,gjærne,Undirected,1
+Thomas,gjærne,Undirected,1
+Birk,Frandsen,Undirected,5
+Birk,Thomas kjørte,Undirected,1
+Frandsen,Thomas kjørte,Undirected,1
+Vaulundurs,don,Undirected,1
+Birk,Vaulundurs,Undirected,1
+Kramer,orthodoxe,Undirected,1
+Madvigianeres,orthodoxe,Undirected,1
+Homer,Madvigianeres,Undirected,1
+Aoristus secundus,Homer,Undirected,1
+Aoristus secundus,Skolediscipel,Undirected,1
+Friehling,Skolediscipel,Undirected,1
+Frandsen,don Første,Undirected,1
+Thomas,don Første,Undirected,1
+Frandsen.	,Tommas Frids,Undirected,1
+Frandsen.	,Johansen,Undirected,1
+Thomas,Thomas Frandsens,Undirected,1
+Thomas,livis,Undirected,1
+Thomas,ten,Undirected,1
+Thomas,Thomas Fris,Undirected,18
+Johansen,s,Undirected,1
+Graad,Henriette,Undirected,1
+Graad,liam,Undirected,1
+attenaars,lian,Undirected,1
+attenaars,liam,Undirected,1
+Friehling,liam,Undirected,2
+Friehling,Samson,Undirected,1
+Friehling,Thomas Fris,Undirected,1
+Johansen,Thomas Fris,Undirected,1
+Odysseens,s,Undirected,1
+Kasus,Odysseens,Undirected,1
+banked,liun,Undirected,1
+Antikleias,Odyssevs,Undirected,1
+Odyssevs,don gamle,Undirected,1
+don gamle,tiltalodo,Undirected,1
+hendo,tiltalodo,Undirected,1
+Hades,hendo,Undirected,1
+Hades,boggo,Undirected,1
+boggo,don mægtige,Undirected,1
+Persefoneia,don mægtige,Undirected,1
+Zovs,don,Undirected,1
+Homer,Thomas’,Undirected,1
+Thomas,Thomas’,Undirected,1
+Fris,Oidipus,Undirected,1
+Antigones,Oidipus,Undirected,1
+Antigones,Oedipus,Undirected,1
+Oedipus,s,Undirected,1
+Ovids,s,Undirected,1
+Birk,Ovids,Undirected,1
+Sofokles,Thomas,Undirected,1
+Krusberg,Sofokles,Undirected,1
+Krusberg,Thomas,Undirected,1
+Rhythme-,Thomas,Undirected,2
+Birk,Pastor Birks,Undirected,1
+Livreet,Søren,Undirected,1
+Søren,Thomas,Undirected,1
+Pathos,Thomas,Undirected,3
+Svanens,Thomas,Undirected,1
+Svanens,Thomas vexelvis,Undirected,1
+Henriette Birk,Thomas,Undirected,3
+Fris,Henriette Birk,Undirected,1
+Bacchus,Flaccus,Undirected,1
+Bacchus,Thomas,Undirected,1
+Maanelys,Thomas,Undirected,1
+Friehling,Mandolin,Undirected,1
+Thomas,ellen,Undirected,1
+Henriette,Planck,Undirected,11
+Birk,don Forestilling,Undirected,1
+don,don Forestilling,Undirected,1
+Oehlenschlager,don,Undirected,1
+Heiberg,Oehlenschlager,Undirected,2
+Adam Homos,Heiberg,Undirected,1
+Adam Homos,Birk,Undirected,1
+Henriette,Thomas Fris,Undirected,8
+Birk,s,Undirected,2
+Planck,Thomas,Undirected,24
+Gud,Planck,Undirected,1
+Kirsten,Thomas,Undirected,2
+Pindarum,ceratis ope Dædalea nititur pennis,Undirected,1
+ceratis ope Dædalea nititur pennis,vitroo datarus nomina ponto..,Undirected,1
+Frandsen,s,Undirected,1
+Alan skiltes,Frandsen,Undirected,1
+Alan skiltes,Thomas,Undirected,1
+.Sirtses,Thomas,Undirected,1
+.Sirtses,Frandsen,Undirected,1
+Ambolten,Johansen,Undirected,1
+Ambolten,Asathor,Undirected,1
+Hr. Valling,Thomas,Undirected,4
+Hr. Valling,iland,Undirected,1
+Kolberg,Thomas,Undirected,19
+Hr. Kolberg,Thomas,Undirected,2
+Flovscr,Hr. Kolberg,Undirected,1
+Holberg,Hr. Holberg,Undirected,1
+Hr. Holberg,Michel Angelos,Undirected,1
+Michel Angelos,Rafael,Undirected,1
+Aline,Holberg,Undirected,1
+Aline,Gundelachs,Undirected,1
+Faust,Goethes,Undirected,1
+Louis Philippe,dot,Undirected,1
+Christian Winther,Faust,Undirected,1
+Bahbek,Pram,Undirected,2
+Bahbek,Boss,Undirected,1
+Erik Lam,s,Undirected,1
+Ewalds,Schelling,Undirected,1
+Oehlonschlågers Vækkere,Schelling,Undirected,1
+Hegels,Oehlonschlågers Vækkere,Undirected,1
+Hegels,Heiberg,Undirected,1
+Ross,Vitzer,Undirected,1
+.. Kolberg,Jakob von Thybo,Undirected,1
+Georg Herwegh,Jakob von Thybo,Undirected,1
+Goldschmidt,Tscherning,Undirected,1
+Ross,livis,Undirected,1
+Hr. Gundelach,livis,Undirected,1
+Gud,Hr. Gundelach,Undirected,1
+Gud,Ross,Undirected,1
+Don,Ross,Undirected,1
+Tu l,vivendi,Undirected,1
+George Dandin,Tu l,Undirected,1
+Evropa,Ross,Undirected,2
+Holberg,Thomas,Undirected,5
+Holberg,egger,Undirected,1
+Ross,Thomas,Undirected,18
+Alisanthrop,Ross Thomas,Undirected,1
+Alisanthrop,Kafeer,Undirected,1
+Kafeer,Ross,Undirected,1
+Hr. Holberg,Ross,Undirected,1
+Hr. Holberg,Thomas,Undirected,1
+Birk,Ross,Undirected,1
+Birk,Oehlenschlågers Portræt,Undirected,1
+Helges,Ross,Undirected,1
+Hostrup,Ross,Undirected,1
+Boss,Thomas,Undirected,6
+Boss,s,Undirected,2
+Birk,Holberg,Undirected,1
+Boss,Kolberg,Undirected,1
+Do,Thomas,Undirected,1
+Hjorts,Sibberns,Undirected,1
+Heiberg,Hjorts,Undirected,1
+Holberg,Platon,Undirected,1
+Aristoteles,Platon,Undirected,1
+Jesper Ridefoged,Thomas,Undirected,1
+Jesper Ridefoged,L’,Undirected,1
+Fønix,L’,Undirected,1
+Fønix,Jeronimus »,Undirected,1
+Jeronimus »,Kolberg,Undirected,1
+Minotauros,Thomas,Undirected,1
+Alidt,Paludan Muller,Undirected,1
+Ariosts,Paludan Muller,Undirected,1
+Horizont,Thomas,Undirected,1
+Friehling,Horizont,Undirected,1
+Friehling,Holberg,Undirected,1
+Holberg,Hostrup,Undirected,1
+Livot,lian,Undirected,1
+Hcises,lian,Undirected,1
+Eros,Hcises,Undirected,1
+Eros,vol,Undirected,1
+Thomas,dot,Undirected,4
+Thomas,theol. Vallings,Undirected,2
+Thomas,Valling,Undirected,6
+Holberg,Valling,Undirected,2
+Birk,theol. Valling,Undirected,1
+Hr. Valling,theol. Valling,Undirected,2
+Birk,Hr. Valling,Undirected,2
+Thomas,theol. Valling,Undirected,1
+Gud,Theodora,Undirected,2
+Valling,s,Undirected,1
+Gud,Valling,Undirected,4
+Ines de Castro,Kong Alfonso,Undirected,1
+Ines,livor,Undirected,1
+Eggen,Ines,Undirected,1
+Throne,Tyran,Undirected,1
+Gianelli,Thomas,Undirected,2
+Dorph,Thomas,Undirected,1
+Dorph,Menenius Agrippa,Undirected,1
+Menenius Agrippa,Thomas,Undirected,1
+Grum,Thomas,Undirected,5
+Grum,Hr. Grum,Undirected,1
+Thomas,Uffe Spage,Undirected,2
+Applavs,Thomas,Undirected,2
+Skaal,Thomas,Undirected,1
+Skaal,don Beslutning,Undirected,1
+Thomas Fris,don Beslutning,Undirected,1
+Thomas Fris,theol. Valling,Undirected,1
+Birk,Frederikke Oscaria Fris,Undirected,1
+Frederikke Oscaria Fris,Thomas,Undirected,1
+Pathos,s,Undirected,1
+Boss,Grum,Undirected,1
+Grum,s,Undirected,1
+don aabne,theol. Valling,Undirected,1
+Valling,don aabne,Undirected,1
+Hr. Holberg,Valling,Undirected,1
+Grum,Valling,Undirected,1
+Hn,Valling,Undirected,1
+Thomas,don Gang,Undirected,1
+Pastor Birks,don Gang,Undirected,1
+Kolberg,Pastor Birks,Undirected,1
+Kolberg,bergs,Undirected,1
+Kolberg,liam,Undirected,2
+Metrik,Morten Valling,Undirected,1
+Byron,Hr. Kolberg,Undirected,1
+Byron,Heine,Undirected,1
+Beatrice de,Heine,Undirected,1
+Beatrice de,Gemma Donati,Undirected,1
+Gemma Donati,Valling,Undirected,1
+Friehling,Kolberg,Undirected,4
+Fernando Frilinghi,alias Ferdinand Friehling,Undirected,1
+Don kjønneste,Friehling,Undirected,1
+Friedrich Schlegels,Friehling,Undirected,1
+Friehling,Karl,Undirected,1
+Karl,Laffy,Undirected,1
+Friehling,Laffy,Undirected,1
+Friehling,Gjøglerpoosi,Undirected,1
+Do,Friehling,Undirected,1
+Friehling,don anden,Undirected,1
+don,don anden,Undirected,1
+Friehling,don,Undirected,1
+Holberg,Kolberg,Undirected,1
+Sportlers,don,Undirected,1
+Sportlers,doloris,Undirected,1
+Thomas,doloris,Undirected,1
+Fredrik,Thomas,Undirected,1
+Boss,Fredrik,Undirected,1
+Alen,Boss,Undirected,1
+Alen,Do,Undirected,1
+Do,don,Undirected,1
+Gundelach,Thomas,Undirected,15
+Gundelach,Hr. Gundelach,Undirected,1
+Gundelach,Kolberg,Undirected,1
+e&fåv,zar ’,Undirected,1
+Kolberg,e&fåv,Undirected,1
+Gud,Kolberg,Undirected,1
+Thomas,iland,Undirected,2
+Kolberg,iland,Undirected,1
+Kolberg,Pastor Birk,Undirected,1
+Kolberg,Valling,Undirected,1
+Grum,Ross,Undirected,1
+Thomas Fris,liere,Undirected,1
+Frederik VI,liere,Undirected,1
+Frederik VI,Kristian VlII,Undirected,1
+Sejer,dot,Undirected,1
+Heine,Sejer,Undirected,1
+Aled,Thomas,Undirected,6
+Napoleon Pstes,Thomas,Undirected,1
+Napoleon Pstes,don,Undirected,1
+Birk,Planck,Undirected,2
+Applavs,Thomas Fris,Undirected,1
+Oehlenschlager,Thomas,Undirected,2
+Oehlenschlager,dot,Undirected,1
+Arion-Thomas Fris,Thomas,Undirected,1
+A. W. Schlegels,Arion-Thomas Fris,Undirected,1
+A. W. Schlegels,Arion faldt,Undirected,1
+Thomas Fris,dot,Undirected,1
+Thomas,einer wilden verwegenen Jagd,Undirected,2
+Rodvin,Thomas,Undirected,2
+Lavigne,Thomas,Undirected,2
+Hakon Jarl,Thorer Klake,Undirected,1
+Etatsraad Planck,Thomas,Undirected,4
+Birk,Johansen,Undirected,1
+Thomas,guerre sourde,Undirected,1
+Thomas saa,guerre sourde,Undirected,1
+Planck,Thomas saa,Undirected,1
+Henriette,Ross f.,Undirected,1
+Kali,blaa,Undirected,1
+John,blaa,Undirected,1
+Annette Vissing,John,Undirected,1
+Frøken Kali,Lind,Undirected,1
+Planck,do,Undirected,1
+Gundelach,Hr. Fris,Undirected,1
+Do,Gundelach,Undirected,2
+Kali,Thomas,Undirected,1
+Alen,Thomas,Undirected,8
+Birk,Hr. Fris,Undirected,2
+Hr. Fris,dot,Undirected,1
+Heiberg,dot,Undirected,1
+Esteban Murillo,Vischers,Undirected,1
+Esteban Murillo,Hogarths,Undirected,1
+Hogarths,harlots,Undirected,1
+hans Ojc,s,Undirected,1
+Thomas,hans Ojc,Undirected,1
+Aline,Thomas,Undirected,1
+Aline,lian,Undirected,1
+Birk,ban,Undirected,1
+Alan,Alange,Undirected,1
+Absalon,Christian Winther,Undirected,1
+Hr. Fris,Thomas,Undirected,2
+Ole Sørensen,Planck,Undirected,1
+Fris,Planck,Undirected,3
+Alfred de Musset,Ross,Undirected,1
+Alfred de Musset,Victor Hugo,Undirected,1
+Thomas,Victor Hugo,Undirected,1
+Absinth,s,Undirected,1
+Absinth,Thomas,Undirected,1
+Balzac,Thomas,Undirected,1
+Balzac,Eugénie,Undirected,1
+Birotteau,Eugénie,Undirected,1
+Birotteau,Plougs,Undirected,1
+Planck,lian,Undirected,2
+Jakob,Jehovah,Undirected,1
+. Fris,Planck,Undirected,1
+. Fris,s,Undirected,1
+Frøken Planck,s,Undirected,1
+Frøken Birk,Henr,Undirected,1
+Gundelach,Thomas Fris,Undirected,1
+Jan Breughel,Thomas,Undirected,1
+Thomas,don bepansrede,Undirected,1
+Henriette Birk,don bepansrede,Undirected,1
+Henriette Birk,lian,Undirected,1
+Kossini,Thomas,Undirected,1
+Bellini,Kossini,Undirected,1
+Bellini,Donizetti,Undirected,1
+Donizetti,Verdi,Undirected,1
+Thomas,Verdi,Undirected,1
+Henriette tede,Thomas,Undirected,1
+Planck,Raison,Undirected,1
+Raison,ifjor,Undirected,1
+Gundelach,ifjor,Undirected,1
+Gundelach,m i,Undirected,1
+Thomas,con amore,Undirected,1
+Malice,Thomas,Undirected,1
+Henriette,Malice,Undirected,1
+Henriette,skraa,Undirected,4
+Jochimsen,Langes,Undirected,1
+Jochimsen,Vilhelm Tells,Undirected,1
+Gud,Henriette,Undirected,2
+Henriette,Kjelstrup,Undirected,1
+Dot,Kjelstrup,Undirected,1
+Jochimsen,Kjelstrup,Undirected,6
+Hr. Kjelstrup,Kjelstrup,Undirected,1
+Alouritzen,Hr. Møller,Undirected,1
+Alouritzen,Viola,Undirected,1
+Møller,Viola,Undirected,1
+Mouritzen,Møller,Undirected,2
+Møller,Thomas,Undirected,2
+Gundelach,L’,Undirected,1
+Leo den,Michel Angelo,Undirected,1
+Michel Angelo,Rafael,Undirected,1
+Benvenuto Cellini,Rafael,Undirected,1
+Henriette,Sølvlys,Undirected,1
+Paul Veronese,Thomas,Undirected,1
+Henriette,Jochimsen,Undirected,1
+Henriette,Kj,Undirected,1
+Kj,Thomas,Undirected,1
+Jochimsen,Thomas,Undirected,3
+Thomas,daarligerc,Undirected,1
+Frøken Birk,Gud,Undirected,1
+Grum,Henriette,Undirected,1
+Algren,Thomas,Undirected,6
+Skandinavens,Thomas,Undirected,1
+Norner,Thomas,Undirected,1
+Helge Hundingsbane,Norner,Undirected,1
+Algren,Helge Hundingsbane,Undirected,1
+Algren valen kjøn,Henriette,Undirected,1
+Algren valen kjøn,Åland,Undirected,1
+Thomas Fris,Åland,Undirected,1
+Hagen,Thomas Fris,Undirected,1
+Musa,Thomas Fris,Undirected,1
+Fris,Musa,Undirected,1
+Algren,Kjelstrup,Undirected,1
+L’,Thomas,Undirected,1
+Etatsraaden,Planck,Undirected,1
+Etatsraaden,Thomas,Undirected,1
+Henriette,Strand,Undirected,1
+Grum,Strand,Undirected,1
+Augusta,Henriette,Undirected,25
+Augusta,tom,Undirected,2
+Birk,Gundelach,Undirected,1
+Algren,Gundelach,Undirected,1
+Algren,elam,Undirected,1
+Thomas Fris,elam,Undirected,1
+Madam Fris,Thomas Fris,Undirected,1
+Gud,Madam Fris,Undirected,1
+Gud,Thomas Fris,Undirected,2
+Augusta,Graad,Undirected,1
+Graad,liun,Undirected,1
+Henriette,liun,Undirected,1
+Alan,Julius,Undirected,1
+Augusta,Julius,Undirected,2
+Augusta,Augustas Ojenlaage,Undirected,1
+Henriette,Julius Planck,Undirected,2
+Aland,Thomas,Undirected,8
+Aland,Ross,Undirected,1
+Petroleum,Ross,Undirected,1
+Henriette,Ole Sørensen,Undirected,1
+J. L.,Thomas Fris,Undirected,1
+Heiberg,J. L.,Undirected,1
+Heiberg,Thomas,Undirected,1
+Aaen,Christian Winther,Undirected,1
+Møllebæk,Thomas,Undirected,2
+Birk,Do,Undirected,1
+Alouritzen,Hr. Fris,Undirected,2
+Aion,Frandsen,Undirected,1
+. Jensens,H. Af,Undirected,1
+Palma Vecchios,Thomas Fris,Undirected,1
+Ellen,Karen,Undirected,1
+Karen,Venus Urania,Undirected,1
+Kauzc geben,Thomas,Undirected,1
+Friehling,mutatis mutandis,Undirected,1
+Goethe,mutatis mutandis,Undirected,1
+Goethe,Miitterchen,Undirected,1
+Miitterchen,Thomas Fris,Undirected,1
+Lafly,Thomas Fris,Undirected,1
+Henriette,Onkels,Undirected,1
+Henriette,Julius,Undirected,7
+Fris,Julius,Undirected,1
+Augusta,Fris,Undirected,1
+Augusta,Thomas Fris,Undirected,2
+Kamilla,Thomas,Undirected,2
+Augusta,Tante,Undirected,1
+Henriette,Kolberg,Undirected,1
+Thomas,phil.,Undirected,1
+phil.,Ørnstrups,Undirected,1
+Thomas,Ørnstrups,Undirected,1
+Hr. ørnstrup,Thomas,Undirected,1
+Thomas,Ørnstrup,Undirected,5
+Thomas,ørnstrup,Undirected,7
+Adyton,Thomas,Undirected,1
+Thomas,•Ørnstrup,Undirected,1
+Gehejmeraad Schillmann,sapienti,Undirected,1
+sapienti,ørnstrup,Undirected,1
+Thomas,næsfen,Undirected,1
+Alan,Thomas,Undirected,2
+Alan,ørnstrup,Undirected,1
+Hr. Fris,ørnstrup,Undirected,1
+Hr. Fris,Planck,Undirected,1
+H.,Planck,Undirected,2
+Karlsen,ørnstrup,Undirected,1
+Alen,Ørnstrup,Undirected,1
+Leander,Ørnstrup,Undirected,1
+Leander,Thomas,Undirected,1
+Gud,H u,Undirected,1
+Gud,véd,Undirected,1
+j,véd,Undirected,1
+Dot,j,Undirected,1
+Dot,Stodentorne,Undirected,1
+Augusta,Hr. Planck,Undirected,1
+Thomas,livis Talent,Undirected,1
+Planck,livis Talent,Undirected,1
+Hr. Fris,Julius,Undirected,2
+Julius,Planck,Undirected,2
+Julius Planck,Thomas,Undirected,5
+Thomas Fris,Victor Hugo,Undirected,1
+Nero,Victor Hugo,Undirected,1
+Carl Baggers,Nero,Undirected,1
+Fris,Henriette,Undirected,1
+Ahlgren,Thomas Fris,Undirected,1
+Henriette,Nornen,Undirected,1
+Julius,Nornen,Undirected,1
+Thomas,kordialt,Undirected,1
+Hostrup,Thomas,Undirected,1
+Henriette,Hostrup,Undirected,1
+Johansen,Lord Byron,Undirected,1
+Lord Byron,livor,Undirected,1
+Ole Sørensen,livor,Undirected,1
+Kjældor,liun,Undirected,1
+Kjældor,Thomas,Undirected,1
+Hole,Thomas,Undirected,1
+Poug-pongtuli,pongtuli,Undirected,1
+Lille,Thomas,Undirected,1
+Aland,Birk,Undirected,3
+Fr. Theodor Vischers,Thomas,Undirected,1
+Fr. Theodor Vischers,Goethe,Undirected,1
+Evropa,Goethe,Undirected,1
+Don Quixote,Sancho Pansa,Undirected,1
+Lionardo da Vincis,Thomas,Undirected,1
+Lionardo da Vincis,sorn,Undirected,1
+Johannes,sorn,Undirected,1
+Johannes,Petrus,Undirected,1
+Kristi,Petrus,Undirected,1
+Kaabas,Sokrates,Undirected,1
+"Kristus,",Platon,Undirected,1
+"Kristus,",Pante,Undirected,1
+Pante,Shakespeare,Undirected,1
+Kant,Shakespeare,Undirected,1
+Kant,"Spinoza,",Undirected,1
+Goethe,"Spinoza,",Undirected,1
+Byron.,Goethe,Undirected,1
+Gud,lian,Undirected,1
+Candides,lian,Undirected,1
+Candides,Gud,Undirected,1
+Asen,Gud,Undirected,1
+Asen,Thomas,Undirected,1
+don omredigerede,don ægte,Undirected,1
+Thomas,don omredigerede,Undirected,1
+Henriette Birk,Thomas Fris,Undirected,1
+Henriette Birk,Kolberg,Undirected,2
+Kolberg,Thomas Kolberg,Undirected,1
+Kolberg,j,Undirected,1
+Jacob Thybo,j,Undirected,1
+Heiberg,Jacob Thybo,Undirected,1
+Kolberg,Lord Byron,Undirected,1
+K.,Thomas,Undirected,2
+Bien souvent j,Quand son,Undirected,1
+Atlaskes,Thomas,Undirected,1
+Atlaskes,Pagen,Undirected,1
+beau col qui penche Quand elle dort dans,å moi,Undirected,1
+ferait rompre,"æil petille Sous la frange de ses réseaux, Bien que",Undirected,1
+Thomas Fris,modThomas,Undirected,1
+Orfevs,modThomas,Undirected,1
+Orfevs,Thomas Fris,Undirected,1
+Friehling,heibergsk,Undirected,1
+Kolberg,Oxen,Undirected,1
+Kolberg,Thomas Fris,Undirected,1
+Ornstrup,Thomas,Undirected,1
+Buxer,Thomas,Undirected,1
+Ørnstrup,ørnstrup,Undirected,1
+Henriette Birk,Planck,Undirected,1
+Henriette,Karl,Undirected,1
+Karl,Olaf Rye,Undirected,1
+Olaf Rye,Thomas,Undirected,1
+Heerschau,Thomas,Undirected,1
+Heerschau,Hrnstrup,Undirected,1
+Alen,Hrnstrup,Undirected,1
+liam,Ørnstrup,Undirected,1
+Karl,Thomas,Undirected,2
+Paulus,Thomas,Undirected,1
+Paulus,Saulus,Undirected,1
+Thomas,øl-Jørgen,Undirected,1
+Reiersens,Thomas,Undirected,1
+Ile Rhodus,Lavigny,Undirected,1
+Hr. Fris,Lavigny,Undirected,1
+Hr. Fris,don,Undirected,1
+Fris,liam,Undirected,1
+Demoiselle Laffy,Fris,Undirected,2
+Jran,Lavigny,Undirected,1
+Arrak,Jran,Undirected,1
+Arrak,Thomas Fris,Undirected,1
+Dante,Molbech,Undirected,1
+Molbech,Orestias,Undirected,1
+Brøndsted,Orestias,Undirected,1
+Brøndsted,Sofokles vedDorph,Undirected,1
+Homer,Sofokles vedDorph,Undirected,1
+Evripides,Homer,Undirected,1
+Evripides,Wilster,Undirected,1
+Platon,Wilster,Undirected,1
+Heise,Platon,Undirected,1
+Heise,Oehlenschlager,Undirected,1
+Heiberg,Rafael,Undirected,1
+Rafael,San,Undirected,1
+San,Sisto,Undirected,1
+Sisto,bien,Undirected,1
+Lavigny,bien,Undirected,1
+Lavigny,Thomas Fris,Undirected,1
+Lavigny,Thomas,Undirected,5
+Lavigny,don lygtebelyste,Undirected,1
+Alen,don lygtebelyste,Undirected,1
+liere,volte-face,Undirected,1
+Henriette,no,Undirected,1
+Lorenzo Magnifico,don berømte Mæcenas,Undirected,1
+Gud,Petri Taarn,Undirected,1
+Hr. Fris,Petri Taarn,Undirected,1
+Alan,Hr. Fris,Undirected,1
+Gundelach,Mouritzen,Undirected,1
+Gundelach,liajj,Undirected,1
+Dot,liajj,Undirected,1
+Fris,Hr. Fris,Undirected,1
+Alan,Alen,Undirected,1
+Aland,Nikolaj Ørnstrup,Undirected,1
+Laud,Nikolaj Ørnstrup,Undirected,1
+Artium,Laud,Undirected,1
+Artium,Haud,Undirected,1
+Nissen,Planck,Undirected,1
+Aland,Hr. Nissen,Undirected,1
+Hr. Nissen,Planck,Undirected,1
+Nissen,Thomas,Undirected,2
+Facilis descensus Averni,Publius Virgilius Maro,Undirected,1
+Edidit N. V. Dorpldus,Publius Virgilius Maro,Undirected,1
+Edidit N. V. Dorpldus,Ø'rnstrup,Undirected,1
+Niels Studenstrup,Ø'rnstrup,Undirected,1
+Aristarchus Johan Ludvig Heiberg,Niels Studenstrup,Undirected,1
+Aristarchus Johan Ludvig Heiberg,van,Undirected,1
+hi,van,Undirected,1
+Etatsraad Fyrreplankes,alias Bidstrup,Undirected,1
+N. Al,Wessel,Undirected,1
+Oehlenschlager,Wessel,Undirected,1
+Alen,Oehlenschlager,Undirected,1
+Alen,Wessel,Undirected,1
+Planck,Sconens,Undirected,1
+Bentes,Knudsen,Undirected,1
+Bente,Bentes,Undirected,1
+Knudsen,Ringborg,Undirected,3
+Fris,Ringborg,Undirected,1
+Fris,Jonas Planet,Undirected,1
+Benjamin Knudsens,Jonas Planet,Undirected,1
+Benjamin Knudsens,Kruse,Undirected,1
+Birk,Kruse,Undirected,1
+Raaon,don,Undirected,1
+Thomas Fris,s,Undirected,1
+Hr. Fris,Kruse,Undirected,1
+Knudsen,Kruse,Undirected,2
+Ringborg,Thomas,Undirected,3
+Frederik Drejer,liar,Undirected,1
+Frederik Drejer,Luthers,Undirected,1
+Balles,Luthers,Undirected,1
+Balles,von der Fris,Undirected,1
+Heyman,von der Fris,Undirected,1
+Gud,Knudsen,Undirected,1
+J. L. Holberg,Orla Lehmann,Undirected,1
+J. L. Holberg,Thomas,Undirected,1
+Ringborg,Thomas Fris,Undirected,1
+Julius Planck,Lavigny,Undirected,1
+Julius,Lavigny,Undirected,1
+Julius,Thomas,Undirected,1
+Alen Urnstrup,delser,Undirected,1
+Alen Urnstrup,Thomas,Undirected,1
+Thomas,Urnstrup,Undirected,1
+Thomas,svaredeRoss,Undirected,1
+Aled,svaredeRoss,Undirected,1
+Aled,Evripidos maa Oehlenschlagers,Undirected,1
+Gundelach,Rafael,Undirected,1
+Afan,Ross,Undirected,1
+Fris,Gundelach,Undirected,1
+Gundelach,lach,Undirected,1
+Alan,Luther,Undirected,1
+Heiberg,Prent,Undirected,1
+Heiberg,Hertz,Undirected,1
+Hertz,Søren Kierkegaard,Undirected,1
+Birk,Demoiselle Laffy,Undirected,1
+Julius Planck,Mo’,Undirected,1
+Mo,Mo’,Undirected,1
+Gud,Larsen,Undirected,1
+Larsen,Peter S. Melgaard,Undirected,1
+Larsen,Petersen,Undirected,2
+Feddersen,Straahat,Undirected,2
+Peter S.,Peter S. Afelgaard,Undirected,1
+Melgaard,Peter S.,Undirected,1
+Feddersen,Larsen,Undirected,1
+Feddersen,Petersen,Undirected,1
+Petersen,hehage,Undirected,1
+Peter S. Melgaard,hehage,Undirected,1
+Planck,Thomas Fris,Undirected,2
+Peter S. Melg,Thomas Fris,Undirected,1
+Peter S. Melg,Thomas,Undirected,1
+Petersen,Planck,Undirected,1
+Julius,Thomas Fris,Undirected,1
+Henriette,gesinnungstuchtig,Undirected,1
+Taa,Thomas,Undirected,1
+Henriette,ands,Undirected,2
+Dante,Henriette,Undirected,2
+Dan te,Henriette,Undirected,1
+Dan te,jSg,Undirected,1
+Henriette,jSg,Undirected,1
+Figaro,Henriette,Undirected,1
+Kis,Thomas,Undirected,1
+Kis,Thomas Fris,Undirected,1
+Forlibelsen,Thomas,Undirected,1
+Alan,Planck,Undirected,1
+Alan,Fris,Undirected,1
+Aland,Planck,Undirected,1
+Thomas Fris,Uli,Undirected,1
+Don gamle,Holstener,Undirected,1
+Holstener,Thomas,Undirected,1
+Kruse,Thomas,Undirected,3
+Karl,vos,Undirected,1
+Karl,Theodora,Undirected,1
+Kruse,Lord Byron,Undirected,1
+Christian Winther,Lord Byron,Undirected,1
+Henriette Birk,Kruse,Undirected,2
+Henriette Birk,Julius Planck,Undirected,1
+Julius Planck,Thomas Fris,Undirected,1
+Smed Johansen,Thomas Fris,Undirected,2
+Nikolaj,Thomas Fris,Undirected,2
+Alan,Frandsen,Undirected,1
+Alan,Alen Frandsen,Undirected,1
+Alen Frandsen,Thomas Fris,Undirected,1
+Ole Sørensen,liam,Undirected,1
+Ole,liam,Undirected,1
+Fris,Nikolaj,Undirected,1
+Fris,Thomas Fris,Undirected,1
+Alen,Nikolaj,Undirected,2
+Petroleum,Thomas,Undirected,1
+Petroleum,Petræus,Undirected,1
+Kramer,Nikolaj,Undirected,1
+Kramer,hriehlings,Undirected,1
+livis,s,Undirected,1
+Friehling,livis,Undirected,1
+Nikolaj,s,Undirected,1
+Nikolaj,deilige,Undirected,1
+Fatter,Nikolaj,Undirected,1
+Marven,Nikolaj,Undirected,1
+Hans Hermansens,Palle Sery,Undirected,1
+Mikkelsdag,Palle Sery,Undirected,1
+Mikkelsdag,Mortensdag,Undirected,1
+Gud,Ludvigsen,Undirected,1
+Fatter,Ludvigsen,Undirected,2
+Fris,Ludvigsen,Undirected,3
+Ane Margrethe,Fris,Undirected,1
+Ane Margrethe,Sidse,Undirected,2
+Ludvigsen,Sidse,Undirected,2
+Frandsen,Ludvigsen,Undirected,1
+Frandsen,Fris,Undirected,1
+Nikolaj,Smed Johansen,Undirected,1
+Frandsen,Thomas Fris,Undirected,1
+Frandsen,Nikolaj Thomas,Undirected,1
+Nikolaj,Ole Sørensen,Undirected,1
+Ole Sørensen,Smed Johansen,Undirected,1
+Arkaders,Buers,Undirected,1
+Arkaders,Hegel,Undirected,1
+Feuerbach,Hegel,Undirected,1
+Feuerbach,Mesteren,Undirected,1
+Darwins,Thomas,Undirected,1
+Darwins,Spinozas,Undirected,1
+Stuart Miil,Thomas,Undirected,1
+Darwin,Herbert Spencer,Undirected,1
+Darwin,Herberts,Undirected,1
+Herberts,Thomas Fris,Undirected,1
+Balzac,Henri Beyle,Undirected,1
+Birk,Evas,Undirected,1

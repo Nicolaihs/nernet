@@ -1,0 +1,93 @@
+source,target,type,weight
+Minna,Poulsen,Undirected,1
+Minna,Tante Minna,Undirected,1
+Holms,Skraa,Undirected,1
+Kathinka,Ludvig,Undirected,1
+Berthelsens,Ludvig,Undirected,1
+Knud Petersen,Lauritz Hahn,Undirected,1
+Hahn,Lauritz Hahn,Undirected,1
+Hahn,N. N.,Undirected,1
+Georg Brandes,N. N.,Undirected,2
+Holm,N. N.,Undirected,1
+Hahn,P. P.,Undirected,1
+Hahn,Knud Petersen,Undirected,1
+Knud Petersen,Svane,Undirected,1
+Gud,Svane,Undirected,1
+Gud,véd,Undirected,2
+Hahn,Svane,Undirected,2
+Emil,Millemand,Undirected,1
+Emil,Gud,Undirected,1
+Pram,Thora Jensen,Undirected,1
+Pram,Thora,Undirected,1
+Ludovica,Thora,Undirected,1
+Ludovica,Mørch,Undirected,1
+Gud,Jomfru Marie,Undirected,1
+Emil,Thora,Undirected,1
+Gud,Poulsen,Undirected,1
+Emil,Meta,Undirected,2
+Georg Brandes,H.,Undirected,1
+Brandes,Georg Brandes,Undirected,1
+Brandes,Kromanns,Undirected,1
+Hr. H.,Kromanns,Undirected,1
+Hr. H.,Kathinka,Undirected,1
+Emil,Kathinka,Undirected,3
+Kathinka,Petersen,Undirected,1
+Etatsraad Bang,Høffding,Undirected,1
+Hahn,Tante Kathinka,Undirected,1
+Frk. Svane,Svane,Undirected,1
+Frk. Lilly Svane,Svane’,Undirected,1
+Amalie,Frk. Amalie,Undirected,1
+Amalie,Hahn,Undirected,1
+Hahn,Holm,Undirected,2
+Mathea,Matheas,Undirected,1
+Mathea,inat,Undirected,1
+Emilie Schmidt,P.,Undirected,1
+Emilie,Gud,Undirected,3
+Knudsen,Magna Lund,Undirected,1
+Knudsen,Magna,Undirected,2
+Magna,ifjor Vinter,Undirected,1
+Emil,Tys,Undirected,1
+Frederiksen,Gud,Undirected,1
+Frederiksen,Meta,Undirected,1
+Gud,Meta,Undirected,1
+Emil,Holm,Undirected,1
+Emil,Poulsen,Undirected,4
+Holm,Hr. Holm,Undirected,1
+Hr. Holm,Knudsen,Undirected,1
+Knudsen,Villiam,Undirected,1
+Svane,Villiam,Undirected,1
+Hr. Scavenius,Scavenius,Undirected,1
+Emil,Hr. Scavenius,Undirected,1
+Caroline,Faster,Undirected,1
+Faster,Line,Undirected,1
+Caroline,Line,Undirected,1
+Scavenius,Student Holm,Undirected,1
+Lars Dinesen,Scavenius,Undirected,1
+Emilie,Frk. Schmidt,Undirected,1
+Fabiansen,Frk. Fabiansen,Undirected,1
+Emil,Fabiansen,Undirected,1
+Emil,Emilie,Undirected,1
+Graad,Tante Meta,Undirected,1
+Emil,Graad,Undirected,1
+Gud,Holm,Undirected,1
+Gud,Saulus,Undirected,1
+E.,Hr. Pastor Møller,Undirected,1
+E. H.«,Hr. Pastor Møller,Undirected,1
+Emil,Tante Kathinka,Undirected,1
+Caroline,Emil,Undirected,1
+Kathinka,Poulsen,Undirected,2
+Kathinka,Svane,Undirected,1
+Orfeus,Svane,Undirected,1
+Frk. Svane,Orfeus,Undirected,1
+Carlsen,Svane,Undirected,1
+Papa,Papas,Undirected,1
+Mamas,Papa,Undirected,2
+Papa,a.,Undirected,1
+Gud,Papa,Undirected,1
+Mathea,iforgaars,Undirected,1
+Svane,iforgaars,Undirected,1
+Svane,Toinette,Undirected,2
+Emil,Svane,Undirected,1
+Gud,eg,Undirected,1
+Emilie,Emilie Schmidt,Undirected,1
+Emilie,Møller,Undirected,1

@@ -1,0 +1,160 @@
+source,target,type,weight
+Morten og,Niels Svendsens,Undirected,1
+Dorthe,Morten Hansen,Undirected,1
+Dorthe,Karen Marie Svendsen,Undirected,1
+Morten,Niels,Undirected,21
+Niels,Svend,Undirected,1
+Gjertrud,Niels,Undirected,1
+Niels,somme,Undirected,2
+Lise,Morten,Undirected,1
+Kirsten,Morten,Undirected,1
+Flan,Morten,Undirected,1
+Morten,Svend,Undirected,1
+Mo,Svend,Undirected,1
+Kirsten,Mo,Undirected,1
+Aankel,liun,Undirected,1
+Aankel,Niels,Undirected,3
+Kirsten,Niels,Undirected,2
+Morten,Vorherre,Undirected,1
+Lian,Vorherre,Undirected,1
+Albertine,Bertha Maar,Undirected,1
+Bertha Maar,Plun,Undirected,1
+Paul M. Møller,Plun,Undirected,1
+F. J. Hansen,Paul M. Møller,Undirected,1
+Bertha,Mama,Undirected,2
+Bertha,Svendsen,Undirected,11
+Flan,Svendsen,Undirected,1
+Else,Frederik,Undirected,4
+Morten,Svendsen,Undirected,1
+Aankel,Papa,Undirected,3
+Morten Svendsen,Niels,Undirected,2
+Aankel,Bertha,Undirected,3
+Bertha,Papa,Undirected,3
+Flun,Gertrud,Undirected,1
+Gertrud,Snip,Undirected,2
+Blanca,Snip,Undirected,1
+Gjertrud,Marietta,Undirected,3
+Gjertrud,Snip,Undirected,1
+Blanca,sorn,Undirected,1
+Blanca,Flan,Undirected,2
+Blanca,Marietta,Undirected,6
+Blanca,Graad,Undirected,1
+Aage,Erik,Undirected,4
+Chic,Erik,Undirected,1
+Erik,Marietta,Undirected,3
+Bertha Maar,Svendsen,Undirected,1
+Bertha,Cicerone,Undirected,1
+Cicerone,Svendsen,Undirected,1
+Bertha,Frederik Svendsen,Undirected,2
+Bertha,Erik,Undirected,14
+Else,Frits,Undirected,1
+Frits,Manna,Undirected,1
+Bertha,Manna,Undirected,2
+Bertha,Blanca,Undirected,14
+Gjertrud,Svendsen,Undirected,1
+Bertha,Paulus,Undirected,2
+Bertha,Gud,Undirected,1
+Blanca,Erik,Undirected,11
+Erik,Svendsen,Undirected,1
+Flun,Gud,Undirected,1
+. Svendsen,gi,Undirected,1
+Maar,Nanna Sturlesen,Undirected,1
+Heklas,Nanna Sturlesen,Undirected,1
+Heklas,Plun,Undirected,1
+Flun,Plun,Undirected,1
+Else,Erik,Undirected,6
+Flan,Marietta,Undirected,1
+Erik,Frederik,Undirected,5
+Frederik,Zola,Undirected,1
+Frederik,Pascal,Undirected,1
+Aage,Blanca,Undirected,2
+Aage,Gud,Undirected,1
+Bertha,Frederik,Undirected,13
+Blanca,Nanna,Undirected,12
+Bertha,Nanna,Undirected,2
+Frederik,Nanna,Undirected,2
+Bloch,Peter,Undirected,1
+Kristus,Peter,Undirected,1
+Bertha,Kristus,Undirected,1
+Bertha,Dito,Undirected,1
+Flun,Kristus,Undirected,1
+Blanca,Frederik,Undirected,8
+Papa,Svendsen,Undirected,1
+Svend,Svendsen,Undirected,1
+Erik,Nanna,Undirected,2
+Erik,Gejser,Undirected,1
+Flvad,Hrik,Undirected,1
+Erik,skoggerlo,Undirected,1
+,skoggerlo,Undirected,1
+Else,Nanna,Undirected,2
+Blanca,Else,Undirected,5
+Elvor,Frederik,Undirected,1
+Else,Maar,Undirected,1
+Frederik,Maar,Undirected,1
+Blanca,Frøken Maars,Undirected,1
+Frederik,Frøken Maars,Undirected,1
+Aage Maar,Blanca,Undirected,1
+Blanca,Svendsen,Undirected,2
+Frederik,Frederik Svendsen,Undirected,1
+Blanca,Saxen,Undirected,1
+Frk. Maar,huu,Undirected,1
+Bertha Maar,Frederik Svendsen,Undirected,1
+Blanca,Rose,Undirected,1
+Marietta,Rose,Undirected,1
+Blanca,Theori,Undirected,1
+Nanna,Svendsen,Undirected,4
+FIaabet,Madame Falcot,Undirected,1
+Frederik,Gud,Undirected,2
+Frederik,Frue,Undirected,1
+Aage,Frederik,Undirected,1
+Frøken Maar,Svendsen,Undirected,1
+Graad,Nanna,Undirected,1
+Flun,Svendsen,Undirected,1
+Blanca,Flun,Undirected,1
+Dr. Maar,Frederik Svendsen,Undirected,1
+F. L. Mynster,Ossian,Undirected,1
+Frederik,Frøken,Undirected,1
+Frederik,Svendsen,Undirected,2
+Aankel,Frederik,Undirected,1
+Blanca,F. S.,Undirected,1
+Blanca,Myrther,Undirected,1
+Blanca,Messina,Undirected,1
+Maar,Messina,Undirected,1
+Maar,Svendsen,Undirected,1
+Elselillel,Erik,Undirected,1
+Signora,mia cara signora,Undirected,1
+Marietta,mia cara signora,Undirected,1
+Pater,Signora,Undirected,1
+Antonio,Pater,Undirected,1
+Antonio,Signora,Undirected,1
+Bertha,Else,Undirected,5
+Graad,Mis,Undirected,1
+Blanca,Mis,Undirected,1
+Else,Manna,Undirected,1
+Erik,Manna,Undirected,1
+Elselille,Erik,Undirected,1
+Elselille,Manna,Undirected,1
+Manna,Nanna,Undirected,2
+Frederik,Manna,Undirected,1
+Else,Gud,Undirected,1
+Else,Marietta,Undirected,1
+Else,Madonna,Undirected,1
+Blanca,Madonna,Undirected,2
+Miramares,Watson,Undirected,1
+Blanca,Miss Watson,Undirected,4
+Bertha,Morten,Undirected,2
+Bertha,Niels,Undirected,4
+Frederik,Morten,Undirected,3
+Betha,Niels,Undirected,1
+Bertha,Betha,Undirected,1
+Bertha,Niels Svendsen,Undirected,1
+Frederik,Niels Svendsen,Undirected,1
+Morten,Papa,Undirected,1
+Morten,paany,Undirected,1
+Blanca,Niels,Undirected,2
+Erik,Niels,Undirected,1
+Frederik,Niels,Undirected,1
+N—,Walter Scott,Undirected,1
+N—,Svendsen,Undirected,1
+Blanca,Liun,Undirected,1
+Erik,Morten,Undirected,1

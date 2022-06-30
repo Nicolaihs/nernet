@@ -1,0 +1,383 @@
+source,target,type,weight
+Ole Visiert,Ole Vissert,Undirected,1
+Napoleons,Ole Visiert,Undirected,1
+Napoleon flog Preussen,Napoleons,Undirected,1
+Fransle,Napoleon flog Preussen,Undirected,1
+Fransle,Frederik den Fjerdes,Undirected,1
+Frederik den Fjerdes,Tordenskjolds,Undirected,1
+Napoleon,Seilere,Undirected,1
+Ole Visiert,Seilere,Undirected,1
+Gustav d. Fjerdes,Napoleon,Undirected,1
+Hans Jensen,Ole Visiert fog,Undirected,1
+Hans Jensen,Ole,Undirected,1
+Mogens Gjøes,Stemann,Undirected,1
+Ole Visiert,Pehmann,Undirected,1
+Ole Viffert,Pehmann,Undirected,1
+Castenschjold atsamle,Oxholm,Undirected,1
+Ole Viffert,oni,Undirected,1
+Castenschjold,Roeskilde,Undirected,1
+Grev Moltke,Stemann,Undirected,1
+Ole Viffert,Tscherning,Undirected,3
+Castenschjold,Tscherning,Undirected,5
+Deckens,de,Undirected,1
+Deckens,Tscherning,Undirected,1
+Lieutenant Ulstrup,Tscherning,Undirected,1
+Castenschjold,de Decken,Undirected,1
+Tscherning,de Decken,Undirected,1
+General Castenschjolds,Treschow,Undirected,1
+Castenschjold,Ole Visiert,Undirected,1
+Castenschjold,Oxholm,Undirected,3
+Ole Visiert,Tscherning,Undirected,1
+Oxholm,flulde,Undirected,1
+Bertouch,Hardenberg-Reventlov,Undirected,1
+Oxholm,Snees,Undirected,1
+Holstein,Snees,Undirected,1
+Bjelke,Stemann,Undirected,1
+Baron Stampe,Stemann,Undirected,1
+Kohe,Krieger,Undirected,1
+Castenschjold,Kohe,Undirected,1
+Stemann,Wenzel Haffner,Undirected,1
+Kjøge,Oxholm,Undirected,1
+Cathcart,Peymann,Undirected,1
+Arthur Wellesley,Napoleon,Undirected,1
+Linsingens,Wellesley,Undirected,1
+Gad,Linsingens,Undirected,1
+Aderholms,Plessen,Undirected,1
+Lieutenant SchulteS,Wellesley,Undirected,1
+Lieutenant SchulteS,Suhr,Undirected,1
+Kjøge,Suhr,Undirected,1
+Capitain Quistgaard,N apier,Undirected,1
+Castenschjold,Wellesley,Undirected,1
+Capitain Wogtmann,Oxholm,Undirected,1
+Castenschjold,Seir,Undirected,1
+Castenschjold,Linsingcns,Undirected,1
+Niels ZueL,Wellesleh,Undirected,1
+Wellesleh,sorn,Undirected,1
+Claesens,sorn,Undirected,1
+Ole Visiert,hiin,Undirected,1
+Ole Visiert,Voller Browley,Undirected,1
+Ole Visiert,paany,Undirected,1
+Ole Visiert,Volter Browley,Undirected,3
+Ole,Volter Browley,Undirected,2
+Ole Viffert,Volter Browley,Undirected,6
+Napoleon,Ole Viffert,Undirected,1
+Napoleon,Orne,Undirected,1
+Hcesede,Volter Browley,Undirected,1
+Hesfenes,Ole Visiert,Undirected,1
+Ole,Volter,Undirected,9
+Ole Biffert,Volter,Undirected,1
+OleBiffert,Volter,Undirected,1
+Ole Viffert,Volter,Undirected,11
+Ole,Ole Viffert,Undirected,2
+Ole Viffert,lille Signe,Undirected,1
+Signe,Volter,Undirected,22
+Engelsi,Ole,Undirected,1
+Engelsi,Kjøge,Undirected,1
+Signe,Voller,Undirected,2
+Vims,ZEldc,Undirected,1
+Ole Viffert,Signe,Undirected,5
+Ole,Signe,Undirected,3
+OleS,Signe,Undirected,1
+Ole,Ole Differts,Undirected,1
+Ole Viffert,ZErinder,Undirected,1
+Ole Viffert,hav,Undirected,1
+Signe,hav,Undirected,1
+Hans Bpkman,Signe,Undirected,1
+Signe,tom,Undirected,1
+Hans Bøkman,Signe,Undirected,1
+Bøkman,Signe,Undirected,1
+Bøkman,Volter Browley,Undirected,3
+Hans Bøkmann,Signe,Undirected,1
+Signe,Volter Browley,Undirected,3
+Ole,ZEre,Undirected,1
+Hans Bøkman,Ole,Undirected,3
+Eden,Hans Bøkmann,Undirected,1
+Gud,Signe,Undirected,1
+Gud,Jesu,Undirected,2
+Volter,fluide,Undirected,1
+Kjøge,Signe,Undirected,1
+Castenschjold,Volter,Undirected,1
+Signe,barst,Undirected,1
+Knud Hansen,Signe,Undirected,2
+Hans Rasmussen,Ole Viffert,Undirected,4
+Knud Hansen,Ole Viffert,Undirected,2
+Hans Rasmussen,Signe,Undirected,2
+Gunsløv,Knud Hansen,Undirected,1
+Hans Bøkman,Ole Viffert,Undirected,1
+Hans Bøkman,hiin,Undirected,1
+Knnd Hansen,hiin,Undirected,1
+Knnd Hansen,Ole,Undirected,1
+Hans Rasmussen,Knnd Hansen,Undirected,1
+Hans,Knud,Undirected,3
+Knnd Hansen,Signe,Undirected,1
+Hans Rasmussen,Knud Hansen,Undirected,3
+Knud,Knud Hansen,Undirected,1
+Knud,Signe,Undirected,2
+Hans Rasmussen,Knud,Undirected,1
+Dn,Volter,Undirected,1
+Volter,j g,Undirected,1
+Signe,stulde,Undirected,2
+Hans,Signe,Undirected,1
+Pøbelhobs,Volter,Undirected,1
+Hans Rasmussen,hau flet,Undirected,1
+Hans Rasmussen,Ole brv,Undirected,1
+Hans,Ole Viffert,Undirected,1
+Ole Viffert,Ole sfulde,Undirected,1
+Hans Rasmussen,Ole,Undirected,1
+Hans,Hans Rasmussen,Undirected,1
+Hans,Ole,Undirected,1
+Hans Rasmussen,Volter Browley,Undirected,2
+Signe,Volter Browlehs,Undirected,1
+Volter Browleh,ester,Undirected,1
+Ole Viffert,ester,Undirected,1
+Bolters,Ole Viffert,Undirected,1
+Ole Viffert,Volter Browleh,Undirected,1
+Browley,Volter,Undirected,1
+Browley,Ole Visiert,Undirected,1
+Volter,Volter Browley,Undirected,2
+Ole Visiert-,Volter,Undirected,1
+Ole Visiert-,øg,Undirected,1
+Ole Viffert,øg,Undirected,1
+Gud,Ole Viffert,Undirected,2
+HDl,bvadr,Undirected,1
+,j,Undirected,1
+,hnn,Undirected,1
+Lama,hnn,Undirected,1
+Harald Browley,kjønne Marh-Ann,Undirected,1
+Harald,Mary-Am,Undirected,1
+Mary-Am,Volter,Undirected,1
+Hiin Vellystling,Mary-Ann,Undirected,1
+Harald,Mary-Ann,Undirected,1
+Harald,Marh-Ann,Undirected,1
+Marh-Ann,Volter,Undirected,1
+Karoline Mathilde,Volter,Undirected,1
+Harald,Villie,Undirected,1
+Himle,Volter,Undirected,1
+luunpict Usling,pandet,Undirected,1
+Hans Rasmussen,nien,Undirected,2
+Hans Rasmussen,Nesfved,Undirected,1
+Nesfved,Tscherning,Undirected,1
+Born,Ewald,Undirected,1
+Flaadens,Napoleon,Undirected,1
+Hans Rasmussen,Volter Browleh,Undirected,1
+Hans Bøkman,Hans Rasmussen,Undirected,1
+Arthur Wellesley,Bøkman,Undirected,1
+Arthur Wellesley,øg,Undirected,1
+Lord Cathcart,øg,Undirected,1
+Bolter Browley,Lord Cathcart,Undirected,1
+Hans Bøkman,ban,Undirected,1
+Benner,Hans Bøkman,Undirected,1
+Benner,hall,Undirected,1
+Hans Rasmussen,Niels Mortensen,Undirected,1
+Frue Spir,Steenbroen,Undirected,1
+Frederik,Karoline Mathilde,Undirected,1
+gelse,tans,Undirected,1
+Kjøge,Volter Browley,Undirected,1
+Cathcart,Hans Bøkman,Undirected,1
+Arthur Welleslehs,Bøkman,Undirected,2
+Browley,Bøkman,Undirected,1
+Bøkman,Hans Bøkman,Undirected,1
+Bøkman,Volter,Undirected,3
+Natlh,Volter,Undirected,1
+Bøkman,Natlh,Undirected,1
+Bøkman,Ole Viffert,Undirected,1
+Hans Bøkman,Volter Browley,Undirected,1
+Hans Bøkman,Volter,Undirected,2
+Volter Browley,oz,Undirected,1
+Hans Bskman,oz,Undirected,1
+Hans Bskman,Signe,Undirected,1
+Ole VifferlS,Volter Browley,Undirected,1
+Volter Browley,hørle,Undirected,1
+bam,hørle,Undirected,1
+Gud,Volter Browley,Undirected,1
+Volter Browley,bam,Undirected,1
+Signe,bam,Undirected,1
+Ole Visferts,Signe,Undirected,1
+Ole ViffertS,Volter Browley,Undirected,1
+Bravo,Volter,Undirected,1
+Miss Alice,Mr. Grawleh,Undirected,1
+Helle,bun,Undirected,1
+Hnn,bun,Undirected,1
+Hnn,hnn,Undirected,2
+j,l,Undirected,1
+Helle,j,Undirected,1
+Helle,Hnn,Undirected,1
+Helle,hnn,Undirected,1
+Helle,smukf,Undirected,1
+Qvisaat,Thier-,Undirected,1
+Hakon Jarl,Lieutenant v.,Undirected,1
+Buddinges,Lieutenant v.,Undirected,1
+Jarl Hakon“,Schwarz knnde,Undirected,1
+Jarl Hakon“,Stine Petersen,Undirected,1
+Lieutenant v.,Stine Petersen,Undirected,1
+Buk,Stine Petersen,Undirected,1
+Bjørn,Olav Trygvasons,Undirected,1
+Barbeer Klein,Karkars,Undirected,1
+H. C. Lumbhe,j,Undirected,1
+Amor,Brygger Ølgaards,Undirected,1
+Jette,Ole gjør,Undirected,1
+Jette,Madam Mortensen,Undirected,1
+Amalie,Frøkenen,Undirected,1
+Lise Mortensen,hnn,Undirected,1
+Caroline,Hans,Undirected,1
+Caroline,Stine Klokkers,Undirected,1
+Stine Klokkers,hellesens,Undirected,1
+Dorthes,hellesens,Undirected,1
+Garver Herskinds,Peter,Undirected,1
+Peter,Tact,Undirected,1
+hnn,von Garlieb,Undirected,1
+Leo,Ramsing,Undirected,1
+Madam Hyrsing,Ten,Undirected,1
+Hagel,von Holm,Undirected,1
+Lieutenant Holm,Mille,Undirected,1
+Emilie,Mille Blom,Undirected,1
+Dandsens,Mille,Undirected,2
+Mille,hnn,Undirected,1
+Bjørnson,Oline,Undirected,1
+Holm,Oline,Undirected,1
+Dandsens,Ten,Undirected,1
+Daudsens,Terpsichore,Undirected,1
+Terpsichore,henvcS,Undirected,1
+Forto,Mille Blom,Undirected,1
+Mille,Tine,Undirected,1
+Lieutenant Blom,lee,Undirected,1
+Lieutenant Holm,maalte,Undirected,1
+maalte,Ølgaard,Undirected,1
+Holm,Ølgaard,Undirected,1
+Mille,Wesen,Undirected,1
+I. C. Bioms,Wesen,Undirected,1
+I. C. Bioms,Mille,Undirected,1
+Holm,Mille,Undirected,10
+Holm,dandse,Undirected,1
+Holm,ban,Undirected,4
+Mille,ban,Undirected,1
+Amor,Mille,Undirected,1
+Abesen,Mille,Undirected,1
+Holm,Langeveiles,Undirected,1
+Emilie,Holm,Undirected,2
+Kjølvanv,Principals,Undirected,1
+Kjølvanv,"Rebekka,",Undirected,1
+"Rebekka,",Salomon,Undirected,1
+Holm,ZEre,Undirected,1
+Holm,Madam,Undirected,1
+Blom,opbov Holm,Undirected,1
+Emilie,opbov Holm,Undirected,1
+Diavens,Holm,Undirected,1
+Holm,Mille Blom,Undirected,1
+Holm,Melødi,Undirected,1
+Candidatus theologiæ Ramsing,Lieutenant Holm,Undirected,1
+Jette Kruses,Loths,Undirected,1
+Mille,Principalens,Undirected,1
+Candidat Ramsing,Salomon,Undirected,1
+Candidat Ramsing,Langweile,Undirected,1
+Langweile,Lieutenant Holm,Undirected,1
+Langeveile,øg Salomon,Undirected,1
+Langeveile,ban,Undirected,1
+Holm,Langweile,Undirected,1
+Mille,Ramsing,Undirected,1
+Ramsing,Salomon,Undirected,2
+Gudenrath,Ramsing,Undirected,1
+Olgaard,Salomon,Undirected,1
+Salomon,Ølgaard,Undirected,1
+Dandsen,Holm,Undirected,1
+Langeveile,Ramsing,Undirected,2
+Langeveile,Salomo »,Undirected,1
+Langeveile,Salomon,Undirected,1
+Lieutenant Holm,Mille Blom,Undirected,1
+Mille,Ølgaard,Undirected,1
+Candidat Ramsing,Mille,Undirected,1
+Blom,Ramsing,Undirected,2
+Abefen,Ramsing,Undirected,2
+Inger,Olsen,Undirected,1
+Inger,Mille,Undirected,1
+Lønbo,Mille,Undirected,1
+Lønbo,Ramsing,Undirected,1
+Inger,Ramsing,Undirected,1
+Inger,øg,Undirected,1
+Mathilde,Ramsing,Undirected,2
+I. C. Blom,Mathilde,Undirected,1
+Langeveile,Langweile,Undirected,1
+Langeveile,Mille,Undirected,2
+Candidat,Hain,Undirected,1
+Hain,Langeveile,Undirected,1
+Candidatens,Langeveile,Undirected,1
+Candidatens,Inger,Undirected,1
+Holm,Tam,Undirected,1
+Holm,Salomon,Undirected,2
+Frederik den,Salomon,Undirected,1
+Salomon,eontra,Undirected,1
+Lieutenant Holm,Salomon,Undirected,2
+Dunders,Salomon,Undirected,1
+Halfen,Salomon,Undirected,1
+Lieutenant Holm,Principal,Undirected,1
+Emilie,Mille,Undirected,1
+Lieutenant,Mille,Undirected,1
+Lieutenant,ZEre,Undirected,1
+Holm,gansie,Undirected,1
+Blom,Holm,Undirected,1
+Blom,Mille,Undirected,1
+Karl,lil,Undirected,1
+Karl,Tønnen,Undirected,1
+Tønnen,lil,Undirected,1
+Karen,lil,Undirected,1
+Karen,Peer,Undirected,25
+Lille Karen,Peer,Undirected,1
+Hesfe,Karen,Undirected,1
+Karen,Per,Undirected,1
+Karen,rer,Undirected,1
+Niels Pcersen,Peer Nielsen,Undirected,1
+Niels Pcersen,Thyra Danebods,Undirected,1
+Knud den,Thyra Danebods,Undirected,1
+Knud den,Nikolaus,Undirected,1
+Nikolaus,Petrus,Undirected,1
+Knud,Petrus,Undirected,1
+Knud,Sven,Undirected,1
+Karr,Per,Undirected,1
+Peer,Tu,Undirected,1
+Kaien,Peer,Undirected,2
+Peer,teg,Undirected,1
+WLrkongen,ten,Undirected,1
+Mads Hansen,Peer,Undirected,2
+Peer,j,Undirected,1
+Brsrsons,Niels Pedersen,Undirected,1
+Niels Pcdeifen,Niels Pedersen,Undirected,1
+Gud,Niels Pcdeifen,Undirected,1
+Lille Peer,næsfen,Undirected,1
+Karen,Lille Peer,Undirected,1
+Karen,Plouz,Undirected,1
+Peer,Plouz,Undirected,1
+Niels Peersen,lille Niels,Undirected,1
+Karen,lille Niels,Undirected,1
+Karen,Peer hast,Undirected,1
+Hesfenes,Hesfesfalden,Undirected,1
+Hesfenes,Karen,Undirected,1
+Peer,d,Undirected,1
+Karen,d,Undirected,1
+Karen,Stafhaugcn,Undirected,1
+Peer,Stafhaugcn,Undirected,1
+Herluf Trolles,Peer,Undirected,1
+Husbond,Peer,Undirected,1
+Husbond,slolte,Undirected,1
+slolte,valte,Undirected,1
+Karen,Peer øg Karen,Undirected,1
+Peer,Peer Nielsen,Undirected,2
+Jndersters,Roeskilde,Undirected,1
+Monrad,jø,Undirected,1
+Monrad,Peer,Undirected,1
+Peer,Peer høide,Undirected,1
+Peer,ganfle,Undirected,1
+Peer,ester Tønder Land,Undirected,1
+Peer,Plougen,Undirected,2
+Peer,hans Aasy,Undirected,2
+Gud,Peer,Undirected,1
+Kong Frederik,Peer,Undirected,2
+Peer,dex,Undirected,1
+Frederik den Sjelte,Peer,Undirected,1
+Frederik den,Frederik den Sjelte,Undirected,1
+Frederik den,Peer,Undirected,1
+Peer,dei,Undirected,1
+Niels,Peer,Undirected,1
+Kong Frederiks Tid,Peer,Undirected,1
+Frederik,Peer,Undirected,1
+Peer,Svgneraadenes,Undirected,1
+Karen,hans,Undirected,1

@@ -1,0 +1,41 @@
+source,target,type,weight
+Gud,Guds,Undirected,1
+Carl,Carl Holmer,Undirected,1
+Carl,Paany,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Jærn,Undirected,1
+Karen,Karen Peers,Undirected,1
+Hans,Hans Rasmus,Undirected,1
+Rasmus Hansen,Rasmus Hansens,Undirected,1
+Hans Rasmus,Rasmus Hansen,Undirected,1
+Gud,hau,Undirected,1
+Gud,Rasmus,Undirected,1
+Karen,Rasmus,Undirected,1
+Hans Rasmus------,Hans Rasmus---------hvad,Undirected,1
+Hans Rasmus,Hans Rasmus------,Undirected,1
+Kristo,Maren Anders,Undirected,1
+Hans Rasmus,Maren Anders,Undirected,2
+Hans Rasmus,Maren,Undirected,2
+Hans Rasmus,Karen,Undirected,1
+Gud,Hans Rasmus,Undirected,1
+Gud,Jakob,Undirected,1
+Ahan,Gud,Undirected,1
+Hans,Rasmus,Undirected,1
+Gud,Schmidt,Undirected,1
+Fru Hoff,Svendsen,Undirected,1
+Elna Holmer,Elnas,Undirected,1
+Elna,Holger,Undirected,15
+Elna Holger,Holger,Undirected,1
+Dandsen,Holger,Undirected,1
+Amanuensis,Elna,Undirected,1
+Holger,Holmers,Undirected,1
+Holger,Holmer,Undirected,1
+Georges,Leonide,Undirected,1
+Leonide,Marion,Undirected,1
+Georges,Marion,Undirected,1
+Georges,Zeus,Undirected,1
+Karen,Karen«,Undirected,1
+Karen,Line,Undirected,3
+Henrik,Trapez,Undirected,1
+Henrik,Maar,Undirected,2
+Henrik,Ingeborg,Undirected,1

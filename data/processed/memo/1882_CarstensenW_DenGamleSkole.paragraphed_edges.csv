@@ -1,0 +1,271 @@
+source,target,type,weight
+Messina,Penelope,Undirected,1
+Carlo Verling,Hansen,Undirected,1
+Carlo,Escadren,Undirected,1
+Escadren,Hansen,Undirected,1
+Carlo,Hansen,Undirected,33
+Carlo,k,Undirected,1
+Carlo,s,Undirected,11
+Hansen,Kaien,Undirected,1
+Dank,Verling,Undirected,4
+Carlo,Dank,Undirected,29
+Hansen,Hr. Hansen,Undirected,1
+Dank,Lieutenant Lassen,Undirected,1
+Carlo,Lieutenant Lassen,Undirected,3
+Lieute-,Lieutenant Lassen,Undirected,1
+Lieutenanten,nanten,Undirected,1
+Carlo,Lieutenanten,Undirected,3
+Carlo,Dands,Undirected,1
+Lieutenant Lassen,Lieutenanten,Undirected,2
+Cadet,Carlo,Undirected,4
+Carlo,JYlle,Undirected,2
+Carlo,Emil Lyng,Undirected,3
+Carlo,Cursus,Undirected,1
+Cursus,Sopha,Undirected,1
+Methoden,Sopha,Undirected,1
+Lieutenant Lassen,Methoden,Undirected,1
+Carlo,Ramse,Undirected,1
+Carlo,Lille Mo,Undirected,2
+Blak,Carlo,Undirected,1
+Bay,Tact,Undirected,1
+Bay,s,Undirected,1
+Inge-,s,Undirected,1
+Carlo,Kroglund,Undirected,21
+Carlo,Jomfruen,Undirected,1
+Kroglund,Lectier,Undirected,1
+. Kroglund,Carlo,Undirected,2
+Hansen,Karl,Undirected,1
+Lyng,Riis,Undirected,1
+Carlo,Lyng,Undirected,16
+Gram,istaa,Undirected,1
+Gram,Trumf,Undirected,1
+Carlo,hans Skotøi,Undirected,1
+Carlo,Kjøn,Undirected,2
+Carlo,Gram,Undirected,26
+Gram,Lyng,Undirected,6
+Carlo,Justitsraad Blak,Undirected,1
+Carlo,Dandsen,Undirected,2
+Dands,Dank,Undirected,1
+Dands,Gram,Undirected,1
+Iland,iland,Undirected,2
+Marryat,Sands,Undirected,1
+Carlo,Seiladsen,Undirected,1
+Niels Peter,Seiladsen,Undirected,1
+Carlo,Niels Peter,Undirected,3
+Carlo,iland,Undirected,5
+Carlo Verling,Karl,Undirected,1
+Karl,iland,Undirected,1
+Carlo Verling,iland,Undirected,1
+Cancelliraad Dank,iland,Undirected,1
+Carlo iland,iland,Undirected,1
+Carlo iland,Dank,Undirected,1
+Dank,Liv,Undirected,1
+Carlo,Liv,Undirected,1
+Niels,iveien,Undirected,1
+Carlo,Proprietair Kroglund,Undirected,1
+Kroglund,til-Dank,Undirected,1
+Hansen,Kroglund,Undirected,12
+Hr. Kroglund,iland,Undirected,1
+Benedict,Lection,Undirected,1
+Benedict,Clara,Undirected,1
+Carlo,Clara,Undirected,29
+Clara,naturligviis Carlo,Undirected,1
+Bent,Clara,Undirected,3
+Benedict,Bent,Undirected,1
+Carlo,Seir,Undirected,1
+Clara,Seir,Undirected,1
+Christian IV,Christian V,Undirected,1
+Hansen,Mutter,Undirected,7
+Emilius,lian,Undirected,1
+Hansen,lian,Undirected,1
+Hansen,iland,Undirected,2
+Cadet Verling,Hansen,Undirected,1
+Hansen,Lyng,Undirected,1
+Carlo,Steen,Undirected,1
+Carlo,Silvio Rafaelo,Undirected,1
+Clara,s,Undirected,2
+Bent,Carlo,Undirected,4
+Carlo,seile,Undirected,1
+Dank,s,Undirected,3
+Carlo,Tact,Undirected,1
+Clara,Tact,Undirected,1
+Lyng,Marie,Undirected,3
+Ivst,Marie,Undirected,1
+Ivst,Marie Lyng,Undirected,1
+Laura,Marie Lyng,Undirected,1
+Griin,Lyng,Undirected,1
+Jeppe,Lyng,Undirected,1
+Jeppe,Nille,Undirected,1
+Carlo,vos,Undirected,2
+Guds,Kroglund,Undirected,1
+Kroglund,Niels Kudsk,Undirected,1
+Carlo,Niels Kudsk,Undirected,1
+Carlo,Niels,Undirected,1
+Dank,Niels,Undirected,1
+Løgtnant,j,Undirected,1
+Dank,Kroglund,Undirected,6
+Clara,Lieutenant,Undirected,1
+Kroglund,Lieutenant,Undirected,1
+Clara,Dank,Undirected,2
+Flan,s,Undirected,1
+Clara,Flan,Undirected,1
+.Kroglund,Dank,Undirected,1
+.Kroglund,Carlo,Undirected,1
+Clara,Kroglund,Undirected,2
+Carlo,hanj,Undirected,1
+Jensen,Lieutenant Klingberg,Undirected,1
+Draaben,Klingberg,Undirected,1
+Gram,iland,Undirected,3
+eg,j,Undirected,1
+Carlo,eg,Undirected,1
+Carlo,Verling,Undirected,4
+Carlo,Madam Hansen,Undirected,4
+Ane Marie,Madam Hansen,Undirected,5
+Emilius,Madam Hansen,Undirected,3
+Mutter,Thee,Undirected,1
+Karl,Thee,Undirected,1
+Ane Marie,Hansen,Undirected,15
+Ane Marie,Mutter,Undirected,2
+Mutter,yi,Undirected,1
+Constablen,Hansen,Undirected,1
+Ane Marie,Emilius,Undirected,4
+Dank,Gud,Undirected,1
+Gram,Verling,Undirected,4
+Jakel,Lyng,Undirected,1
+HarDu,Jakel,Undirected,1
+Carlo,Jakel,Undirected,1
+Jakel,Sirtses,Undirected,1
+Carlo,mio spozo,Undirected,1
+Carlo,Nyboders,Undirected,1
+Bohave,Carlo,Undirected,1
+Carlo,Gud,Undirected,3
+Laura,Marie,Undirected,5
+Carlo,Laura,Undirected,2
+Carlo,Marie,Undirected,5
+Nankins,iland,Undirected,1
+Gammelholms,Klingberg,Undirected,1
+Hansen,dan,Undirected,1
+Hansen,Orlogs,Undirected,1
+Klingberg,philosopherer,Undirected,1
+Gram,philosopherer,Undirected,1
+Garlo,Klingberg,Undirected,1
+Klingberg,Verling,Undirected,2
+Carlo,Fregatten,Undirected,1
+Alexandre Dumas,Fregatten,Undirected,1
+Alexandre Dumas,Vesuvs,Undirected,1
+Consulen,iland,Undirected,3
+Escadren,Fregats,Undirected,1
+Dandsen,Hr. Verling,Undirected,1
+Dandsen,Klingberg,Undirected,1
+Fregatten,Klingberg,Undirected,1
+Klingberg,lisbjørne,Undirected,1
+Klingberg,Marchesa,Undirected,2
+Klingberg,Lyng,Undirected,5
+Carlo,Klingberg,Undirected,1
+Gram,Klingberg,Undirected,1
+Lection,Lyng,Undirected,1
+Haier,Seilmageren,Undirected,1
+Hinton,Lyng,Undirected,3
+Albions,Lyng,Undirected,2
+Lyng,Nanny,Undirected,4
+Nanny,Øine,Undirected,1
+Verling,s,Undirected,1
+Carlo,Roes,Undirected,1
+Lyng,Verling,Undirected,1
+Carlo,Fatter,Undirected,1
+Hanses,Lieutenanten,Undirected,1
+Hansen,Lieutenanten,Undirected,1
+Gram,Laura,Undirected,5
+Laura,nant Gram,Undirected,1
+Laura,Verling,Undirected,1
+Lieutenant Gram,Verling,Undirected,1
+Hulda,Lyng,Undirected,1
+Carlo,Hulda,Undirected,1
+Clara,Hansen,Undirected,1
+Hansen,Tømmerm.ands,Undirected,1
+Ane Marie,Carlo,Undirected,4
+Madam Hansen,Mutter,Undirected,1
+Hansen,Madam Hansen,Undirected,1
+Kroglund,Madam Hansen,Undirected,1
+Kroglund,lille Madam Hansen,Undirected,1
+Carlo,Nanny,Undirected,13
+Ane Marie,Verling,Undirected,1
+Lieutenant Lyng,Verling,Undirected,1
+,Ane Marie,Undirected,2
+Hansen,Verling,Undirected,2
+Asen,Verling,Undirected,1
+Madam Hansen,Verling,Undirected,1
+Ane Marie,Kroglund,Undirected,4
+dirnix,mirnix,Undirected,1
+Emilius Hansen,Mutter,Undirected,1
+Kaien,Seilads,Undirected,1
+Lieutenanten,iland,Undirected,1
+Consulen,Dands,Undirected,1
+Carlo,Consulen,Undirected,1
+Carlo,Søilen,Undirected,1
+Carlo,Cousine,Undirected,1
+Charpi,Nanny,Undirected,1
+Lieutenant Gram,Lyng,Undirected,1
+Jans,Mo,Undirected,3
+Carlo Verling,Clara,Undirected,1
+Clara,Verling,Undirected,1
+Carlo,Suzan,Undirected,2
+Carlo,Massa,Undirected,1
+Massa,Suzan,Undirected,1
+Magas,Suzan,Undirected,1
+Carlo,Rovdvrs,Undirected,1
+Lieutenant,Suzan,Undirected,2
+Carlo,Sands,Undirected,1
+Nanny Hinton,Suzan,Undirected,1
+Nanny,Suzan,Undirected,1
+Lady,Suzan,Undirected,3
+Lady,Lady lee,Undirected,2
+Nanny,Verling,Undirected,3
+Duplicat,Verling,Undirected,1
+Hinton,Verling,Undirected,1
+Hansen,Roeskilde,Undirected,2
+Hansen,Niels Kudsk,Undirected,1
+Niels,Niels Kudsk,Undirected,1
+,Niels,Undirected,1
+,Hansen,Undirected,3
+Hansen,Niels,Undirected,4
+Kroglund,Niels,Undirected,2
+Huusbond,Niels taug,Undirected,1
+Niels,Niels taug,Undirected,1
+Ane Marie,Niels,Undirected,1
+Lyng,lille Mo,Undirected,1
+Lydia,Lyng,Undirected,1
+,Laura,Undirected,1
+,Gram,Undirected,1
+Gram,Marie,Undirected,1
+Beethoven,Dank,Undirected,1
+Cancelliraads,Gram,Undirected,1
+Blak,Dank,Undirected,2
+Dank,Nanny,Undirected,8
+J,Nanny,Undirected,1
+Koffardies,Magsveir,Undirected,1
+,Carlo,Undirected,3
+Carlo,Horizonten,Undirected,1
+,Justitsraad Blak,Undirected,1
+Hr. Dank,Justitsraad Blak,Undirected,1
+Hr. Dank,hans Roes,Undirected,1
+Nanny,hans Roes,Undirected,1
+Dank,lille Frøken,Undirected,1
+Ane Marie,Nanny,Undirected,2
+Kroglund,Nanny,Undirected,5
+Ane Marie,Lieutenant Lyng,Undirected,1
+Hansen,Vera,Undirected,2
+,Vera,Undirected,2
+-Dank,Carlo,Undirected,1
+-Dank,Kroglund,Undirected,1
+Ane Marie,Nanny Hinton,Undirected,1
+Dank,Hansen,Undirected,2
+Carlo,lille Ven,Undirected,1
+Carlo,iforgaars,Undirected,1
+Hansen,iforgaars,Undirected,1
+Carlo,nei Kroglund,Undirected,1
+Kroglund,nei Kroglund,Undirected,1
+Kroglund,Proprietair Kroglund,Undirected,1
+Jan —,iland,Undirected,1
+Dank,Frøken Hinton,Undirected,1
+Ane Marie,Dank,Undirected,1

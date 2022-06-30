@@ -1,0 +1,1016 @@
+source,target,type,weight
+Ebbe Genvæth,Yndest høs,Undirected,1
+Abel Valdemarsøn,Yndest høs,Undirected,1
+Abel Valdemarsøn,Kristoffer Valdemarsøn,Undirected,1
+Iakøb Erlaudseu,Kristoffer Valdemarsøn,Undirected,1
+Abels,Iakøb Erlaudseu,Undirected,1
+Ebbe,Kong Kristoffers,Undirected,2
+Hnn,Jomfrn Bibekkcs,Undirected,1
+Jomfrn Bibekkcs,fhi Hr. Jens Bjørn,Undirected,1
+Jomfrn Bibekkc,fhi Hr. Jens Bjørn,Undirected,1
+Jomfrn Bibekkc,hnn,Undirected,1
+Graad,Guds,Undirected,1
+Bibekkes,Graad,Undirected,1
+Ester,Vibekkes,Undirected,1
+Eil,Jens,Undirected,1
+Jens,ban Frn,Undirected,1
+Vibekke,ban Frn,Undirected,1
+Vibekke,ban,Undirected,1
+Frn Vibekke,Hnn,Undirected,1
+Hnn,Vibekke,Undirected,1
+Vibekke,frods,Undirected,1
+Jens,frods,Undirected,2
+Harmens,Jens,Undirected,1
+Hain,Menedersfe,Undirected,1
+Frn,Hr. Jens,Undirected,1
+Frn,Jomfru Anna,Undirected,1
+hiin,laantes,Undirected,1
+Anna,laantes,Undirected,1
+Anna,Melt,Undirected,1
+Anna,Mosfer,Undirected,1
+Auua,Hans,Undirected,1
+Hans,"h^,",Undirected,1
+hnn,ttngmøes,Undirected,1
+Anna,def,Undirected,1
+Gud,hnn,Undirected,3
+Gud,hall,Undirected,4
+Knud,fil,Undirected,1
+Gud,ban,Undirected,4
+ban,gansfe,Undirected,1
+fabt,gansfe,Undirected,1
+Gud,fabt,Undirected,1
+Gud,Jomfru Auna,Undirected,1
+Frn,Jesus Krist,Undirected,1
+Anna,Karen,Undirected,4
+Jakob Erlandsøn,Laurentins,Undirected,1
+Laurentins,Lund,Undirected,1
+Lund,Rye,Undirected,1
+Rye,hall,Undirected,1
+Kristoffer,hall,Undirected,1
+Kristoffer,Laurenfius,Undirected,1
+Laurenfius,Laurenfius^,Undirected,1
+Laurenfius,fænkte,Undirected,1
+Bente,Frn Karen,Undirected,1
+Frn,Karen,Undirected,14
+Ebbe Genvælh,Karen,Undirected,1
+Karen,Laurentius,Undirected,2
+Hall,ban,Undirected,1
+ball,ban,Undirected,1
+Lanrentins,fhi hnn,Undirected,1
+ane,fhi hnn,Undirected,1
+Frn Bibekke,ane,Undirected,1
+Ebbe,Ebbe Genvæth,Undirected,5
+Abels,Kong Kristoffers,Undirected,1
+Erkebisp Jakob,alf,Undirected,1
+Ebbe Genvæth,Laurentins,Undirected,2
+Ebbe Genvæth,Kristoffer,Undirected,3
+Kristoffer,Peder Findsøn,Undirected,2
+Klaus Turesøn,Truid Pedersøn,Undirected,3
+Drost Peders,Truid Pedersøn,Undirected,1
+Drost Peders,sorn,Undirected,1
+Pilsnar,spnrgte,Undirected,1
+Svend,spnrgte,Undirected,1
+Klaus,Svend,Undirected,1
+Jomfru Jutta,Klaus,Undirected,3
+Jomfru Jutta,Klaus Turesøn,Undirected,1
+Jaord,Klans,Undirected,1
+Jomfru Jutta,Truid,Undirected,1
+Dril,Truid,Undirected,1
+Ben Truid,Jomfru Jutta,Undirected,1
+Jomfru Jutta,hnn,Undirected,3
+Sankte Lambert,hnn,Undirected,1
+Drost Peder,Klaus,Undirected,1
+Hall,Klaus,Undirected,1
+Ebbe Gem væths,Hall,Undirected,1
+Ebbe Gem væths,Truid Pedersøn,Undirected,1
+Ebbe,Truid,Undirected,4
+Anna,Klans,Undirected,6
+Bæbner Truid,Jomfru Jutta,Undirected,1
+Laurentins,Lnr,Undirected,1
+Lnr,sfyudte,Undirected,1
+Ebbe Genvæth,Peder Findsøn,Undirected,4
+Peder Findsøn,ban,Undirected,1
+Klans Turesøn,ban,Undirected,1
+Hr. Ebbe,Klans Turesøn,Undirected,1
+Hr. Ebbe,Klans Tnreson,Undirected,1
+Klans Tnreson,Trnid Pedersøn,Undirected,1
+Peder Findsøn,karl,Undirected,1
+I,Kristoffer,Undirected,2
+Jakob,knn,Undirected,1
+Jakob,ester,Undirected,1
+Drosten,Ebbe,Undirected,1
+Ebbe Genvæth,Kong Kristoffer,Undirected,5
+Kong Kristoffer,filfreds,Undirected,1
+Ebbe,Kong Kristoffer,Undirected,4
+Drosten,Kong Kristoffer,Undirected,1
+Hall,Kong Kristoffer,Undirected,2
+Hall,hall,Undirected,3
+Bille,hall,Undirected,1
+Bille,Lunde,Undirected,1
+Ebbe,Kristoffer,Undirected,1
+Bønderues,Ebbe fil,Undirected,1
+Drosten,Gud,Undirected,1
+Gud,signe,Undirected,1
+Anna,eil snild Ungmø,Undirected,1
+Jomfrn Anna,eil snild Ungmø,Undirected,1
+An,Sambirias,Undirected,1
+An,Soleil,Undirected,1
+Anna,Soleil,Undirected,1
+Anna,Hiin,Undirected,1
+Hiin,blof,Undirected,1
+Peder Findsøn,blof,Undirected,1
+Anna,Truid Pederson,Undirected,1
+Jomfru Anua,Truid,Undirected,1
+Junker,fror,Undirected,1
+Ebbe,Junker,Undirected,1
+Ebbe,Svend,Undirected,2
+Jomfrn Anna,Truid,Undirected,1
+Anna,Dell,Undirected,1
+Anna,Truid,Undirected,7
+Ebbe Genvæth,Klaus,Undirected,1
+Ebbe,Klaus Turesøn,Undirected,1
+Drost Peder Findsøn,Ebbe Genvæth,Undirected,1
+Ebbe Genvæth,Jomfru Anna,Undirected,3
+Jomfru Anna,Truid,Undirected,2
+Ebbe Genvæth,Truid,Undirected,3
+Pedersøn,Truid,Undirected,1
+Anna,Lærke,Undirected,1
+Anna,sif,Undirected,1
+Anna,Trnid Pedersøn,Undirected,1
+Ebbe Genvæth,Trnid Pedersøn,Undirected,2
+Ebbe Genvætb,Ebbe Genvæth,Undirected,1
+Ebbe Genvætb,hall,Undirected,1
+Anna,hall,Undirected,1
+Anna,sif Hjærtes,Undirected,1
+Jomfru Auua,Truid,Undirected,1
+Truid,ilid fil,Undirected,1
+Frn Vibekke,ilid fil,Undirected,1
+Frn Vibekke,Svend,Undirected,1
+Nn,Svend,Undirected,1
+Anna,Nn,Undirected,1
+Annalil,Truid Pedersøn,Undirected,1
+Annalil,Svend,Undirected,1
+Ebbe Genvæth,Svend,Undirected,2
+Anna,Drost Peder,Undirected,1
+Bibekke,Svend,Undirected,1
+Anna,Bibekke,Undirected,1
+Torkild Jernpande,sid,Undirected,1
+Arneil,sid,Undirected,1
+Arneil,ban,Undirected,1
+Tcrkild,Torkilds,Undirected,1
+Ebbe Genvæth,Torkild,Undirected,1
+Niels Fister,Torkild,Undirected,1
+Niels,Torkild,Undirected,1
+Torkild,sorn,Undirected,1
+Laurentius,Torkild,Undirected,2
+Niels Fisker,Torkild Jernpande,Undirected,1
+Ebbe,Jakob,Undirected,1
+Ebbe,Niels Fisker,Undirected,1
+Kong Kristoffer,Torkild,Undirected,2
+Ebbe,Torkild,Undirected,4
+Bøndernc,Ebbe,Undirected,1
+Ebbe,Niels,Undirected,2
+Niels Fisker,Torkild,Undirected,2
+Ebbe Genvæth,Niels Fisker,Undirected,1
+Ebbe Genvæth,Kong Krisfoffer,Undirected,1
+Ebbe Genvæth,Klans Turesøn,Undirected,1
+Klans,Klans Turesøn,Undirected,1
+Ebbe,Kjont,Undirected,1
+Ebbe Genvæth,Klans,Undirected,2
+Klans,Kong Kristoffer,Undirected,2
+Ebbe,Klans,Undirected,1
+,Lucius,Undirected,1
+,Klans,Undirected,1
+Ebbe,Erkebisp Jakob,Undirected,1
+Børge,Kong Kristoffer,Undirected,1
+Ebbe Genvæth,ban,Undirected,2
+Ebbe,eil Pind,Undirected,1
+Valdemars,eil Pind,Undirected,1
+Torkild Jernpande,Valdemars,Undirected,1
+Ebbe Genvæfhs,Ebbe Genvæth,Undirected,2
+Ebbe,ban,Undirected,2
+Frn,Ridder Ebbe,Undirected,1
+Karen,nn,Undirected,1
+Gud,nn,Undirected,1
+Ebbe Genvæth,kaaredes,Undirected,1
+Laurentius,Niels,Undirected,2
+Belials,Laurentius,Undirected,1
+Belials,Kong Kristoffer,Undirected,1
+Kristoffer,Tolkild,Undirected,1
+Kristoffer,Lucius,Undirected,1
+Niels,Tankte Lucius,Undirected,1
+Kong Kristoffer,Sknlde,Undirected,1
+Ebbe,Gud,Undirected,1
+Ebbe,hails,Undirected,1
+Ebbe,Munk,Undirected,1
+Ebbe,Mnnken,Undirected,1
+Mnnken,Torkild,Undirected,1
+Daggry,Torkild,Undirected,1
+Ebbe Genvæth,fabt,Undirected,1
+Ebbe Genvæth,Klaus Turesøn,Undirected,2
+Klans,Truid Pedersøn,Undirected,4
+Klans,Truid,Undirected,3
+Truid Pedersøn,ban knn,Undirected,1
+Væbner Truid,kuuue,Undirected,1
+Klaus,Truid,Undirected,3
+Truid Pedersen,Vibekke,Undirected,1
+Truid,Øborgs,Undirected,1
+Klaus Turesøn,Truid,Undirected,1
+Truid,dans,Undirected,1
+Drosten,dans,Undirected,1
+Drosten,Ebbe Genvæth,Undirected,1
+Gud,Truid,Undirected,1
+Jomfru Anna,Trnid,Undirected,2
+Trnid,hnn,Undirected,2
+Jomfru Anna,Truid Pedersen,Undirected,1
+Anna,Trnid,Undirected,3
+Trnid,Truid Pedersøn,Undirected,1
+Anna,Gud,Undirected,12
+Grelle,Truid Pedersøn,Undirected,1
+Kong Kristoffer,Øhorg,Undirected,1
+Ebbe Genvæth,Øhorg,Undirected,1
+Anna,Ebbe Genvæth,Undirected,3
+Ebbe Genvæth,Laurentius,Undirected,2
+Ebbe Genvæth,Frn Vibekke,Undirected,1
+Lanrentins,Vibekke,Undirected,1
+Ebbe Genvæth,Vibekke,Undirected,2
+Frn,jpurgte,Undirected,1
+Auna,as Truid Pedersøn,Undirected,1
+Ebbe Genvæth,as Truid Pedersøn,Undirected,1
+Ebbe Genvæth,hall,Undirected,2
+Laurentius,hall,Undirected,1
+Klaus Turesøn,Laurentius,Undirected,1
+Frn,Peder Findsøn,Undirected,1
+Frn,Vibekke,Undirected,2
+Truid,Vibekke,Undirected,1
+Truid,sormaa Klaus Turesøn,Undirected,1
+Drost Peder,sormaa Klaus Turesøn,Undirected,1
+Drost Peder,Ebbe Genvæth,Undirected,1
+Ben Trind,Klans,Undirected,1
+Klans,eil galen,Undirected,1
+Ebbe Genvæth,eil galen,Undirected,1
+Ebbe Genvæth,Jakob,Undirected,1
+Peder,Truid,Undirected,1
+Ebbe Genvæth,Peder,Undirected,1
+Ebbe Genvæth,Trind,Undirected,2
+Ebbe Genvæth,frank,Undirected,1
+Ebbe Genvæth,Truid Pedersøn,Undirected,1
+Ebbe Genvæth,Øborgs,Undirected,2
+alftens,nn,Undirected,1
+Truid,alftens,Undirected,1
+Margrete Sambiria esfer,hnn,Undirected,1
+Niels,hnn,Undirected,1
+Margrete,Niels,Undirected,1
+Margrete,hnn,Undirected,2
+Kong Kristoffer,hnn,Undirected,1
+Else,Moer,Undirected,1
+Hans,hidfil,Undirected,1
+Kong Kristoffer,hidfil,Undirected,1
+Kong Kristoffer,Margrete,Undirected,2
+Else,Margrete,Undirected,1
+Gretes,Mester,Undirected,1
+Gretes,Valdemar Sejrs,Undirected,1
+Bengjerd,Valdemar Sejrs,Undirected,1
+Margrete,Truid Pedersøn,Undirected,1
+Nielses,Truid Pedersøn,Undirected,1
+Kristoffer,Nielses,Undirected,1
+Ebbe,trygf,Undirected,1
+Ebbe Genvælh,hall,Undirected,1
+hall,Øborg,Undirected,1
+Ebbe Genvæth,Gud,Undirected,3
+Gud,Peder,Undirected,2
+Hall,Sambirias,Undirected,1
+Hesfen,hall,Undirected,1
+Hesfen,Trnid Pedersøn,Undirected,1
+Anna,Jomfrn,Undirected,5
+Anna,Anna opscndtc,Undirected,1
+Anna,Trnid Pedersen,Undirected,2
+Trnid,Trnid Pedersen,Undirected,1
+Anna Ebbesdatter,Trnid,Undirected,2
+Kong Kristoffer,Pedersøn,Undirected,1
+Frn,Truid Pedersøn,Undirected,1
+Anna troloves,Frn,Undirected,1
+Klaus Turesøn,saaret,Undirected,1
+Klaus,Vibekke,Undirected,1
+Gud,Kristoffer Baldemarson,Undirected,2
+",",Gud,Undirected,1
+Graad,skjærmc,Undirected,1
+Anna,skjærmc,Undirected,1
+Lvd,Truid Pedersen,Undirected,1
+Fode,øborgs,Undirected,1
+Fode,Klans,Undirected,1
+Eriks,Gud,Undirected,1
+Kong Kristoffer,haris,Undirected,1
+Ebbe,Torkild Jernpande,Undirected,1
+Niels Fisker,suart,Undirected,1
+Ebbe Genvæth,suart,Undirected,1
+Ebbe,Lord,Undirected,1
+Anna,Øborg,Undirected,1
+Pedersøn,Øborg,Undirected,1
+Ebbe,Pedersøn,Undirected,1
+Kong Kristoffer,Øborg,Undirected,1
+Jakob Erlandsøn,Kong Kristoffer,Undirected,5
+Jakob,Jakob Erlandsøn,Undirected,1
+Erkebisp,Jakob,Undirected,1
+Erkebisp,Finn,Undirected,1
+Mesfer Jakob,eu Munk,Undirected,1
+Jakob,Kong Kristoffer,Undirected,5
+Klerke,Kristoffer,Undirected,1
+Klerke,Niels,Undirected,1
+Klerken Kjeld,Niels,Undirected,1
+Erkebisp Jakob Erlandsøn,Klerken Kjeld,Undirected,1
+Erkebisp Jakob Erlandsøn,Sacer,Undirected,1
+Johan Drvs,Sacer,Undirected,1
+Johan Drvs,Niels,Undirected,1
+Kong Kristoffer,Niels,Undirected,4
+Erkebisp Jakob,Jakob,Undirected,1
+Jakob Erlandsøn,haus,Undirected,1
+Kong Kristoffer,ns,Undirected,1
+Gnd,ns,Undirected,1
+Gnd,nf,Undirected,1
+Dn,hnrmsnld,Undirected,1
+hnrmsnld,nf,Undirected,1
+Asger,Gud,Undirected,1
+Niels,as,Undirected,1
+Erkebisp Jakob Erlandsøn,synfes,Undirected,1
+Gud,synfes,Undirected,1
+Franciskanermnnks,Gud,Undirected,1
+Hall,Jakob Erlandsøn,Undirected,1
+Jakob,Niels,Undirected,3
+Kong Kristoffer,Nielses,Undirected,1
+Niels,Nielses,Undirected,1
+Niels,def,Undirected,1
+Krisfoffer Valdemarson,nn,Undirected,1
+Erkebisp Jakob,Niels,Undirected,1
+Jakob Ertandsøn,Niels,Undirected,1
+Jakob Ertandsøn,sinn,Undirected,1
+Merke,sinn,Undirected,1
+Bente,Kong Kristoffer,Undirected,1
+Bente,Niels,Undirected,1
+Gud,Niels,Undirected,3
+Gud,Herren,Undirected,1
+Herren,Kong Kristoffer,Undirected,1
+Haus,Kong Kristoffer,Undirected,1
+Haus,Jakob,Undirected,1
+Haus,Niels,Undirected,1
+Gud,Kjeld,Undirected,1
+Jakob Erlandsøn,Kjeld,Undirected,1
+Jakob Erlandsøn,Klerke,Undirected,1
+Klerke,belse,Undirected,1
+Jakob Erlandsøn,hall,Undirected,2
+Kjeld,hall,Undirected,3
+Jakob Erlandsøn,grant,Undirected,1
+grant,hall,Undirected,1
+Junker Erik,Kristoffer ef Danehof,Undirected,1
+Junker Erik,Nikolans,Undirected,1
+Esger,Nikolans,Undirected,1
+Esger,Niels,Undirected,1
+Niels,Oluf,Undirected,1
+Dronning Margrete,Oluf,Undirected,1
+Dronning Margrete,Junker Erik,Undirected,1
+Gammens,Klerke,Undirected,1
+Erkebisp Jakob,Erlandsøn,Undirected,1
+Eriks,Erlandsøn,Undirected,1
+Eriks,Klerke,Undirected,1
+Erik,Klerke,Undirected,1
+Erik,Jakob,Undirected,2
+Jakob,Peder Findsøn,Undirected,1
+Nielsen,Peder Findsøn,Undirected,1
+Nielsen,Nikolaus,Undirected,1
+Niels,Nikolaus,Undirected,1
+Kong Kristoffer,Peder Findsøn,Undirected,2
+Jakob,hail,Undirected,1
+Erik krone,Jakob,Undirected,1
+Kong Kristoffer,Nikolaus,Undirected,1
+Torben Nielsøn,soer,Undirected,1
+Kong Kristoffer,Torben Nielsøn,Undirected,1
+Erik,Nikolaus,Undirected,2
+Kong Kristoffer,Peder,Undirected,2
+Trnid Pedersen,Øe,Undirected,1
+Truid,fjærn,Undirected,1
+Anna,fjærn,Undirected,1
+Anna,Hnstrn,Undirected,1
+Ebbe Genvæth,Hnstrn,Undirected,2
+Ebbe Genvæth,sæfte Abels,Undirected,1
+Erik,sæfte Abels,Undirected,1
+Erik,RidKrumstav,Undirected,1
+Kongespir,RidKrumstav,Undirected,1
+Jomfrn,Klaus,Undirected,1
+Jomfrn,bau,Undirected,1
+Ridder Trnid,Svend,Undirected,1
+Klaus Tureson,Svend,Undirected,1
+Klans,fil,Undirected,1
+Klans,Kristoffer Baldemarsøn,Undirected,1
+Kong Jakoh,Kristoffer Baldemarsøn,Undirected,1
+Anna.,Kong Jakoh,Undirected,1
+Anna.,Klaus Türeson,Undirected,1
+Junker Erik,Klans,Undirected,1
+Trnid Pedersøn,Z,Undirected,1
+Trnid Pedersøn,Truid,Undirected,1
+Bente,Ebbe Genvæth,Undirected,1
+Bente,Ebbe,Undirected,1
+Ebbe Gevælh,Erik,Undirected,1
+Jærmer,Kristoffer Valdemarsøn,Undirected,1
+Abels,Jærmer,Undirected,1
+Abels,kaares fil Konning,Undirected,1
+Klaus Tnresø,Trnid,Undirected,1
+Kong Kristoffer,Trnid,Undirected,2
+Ebbe Genvæth,Trnid,Undirected,3
+Kong Kristoffer,Truid,Undirected,2
+Z def,def,Undirected,1
+Klans,def,Undirected,1
+Klans,Mnnken,Undirected,1
+Klans,Laurentius,Undirected,1
+Klans,Kristoffer,Undirected,1
+Trnid Pedersen,lil Truid,Undirected,1
+Klaus,hall,Undirected,1
+Jakob Erlandsons,Junker Erik,Undirected,1
+Jakob Erlandsøn,Junker Erik,Undirected,1
+Kong Kristoffer,bin,Undirected,1
+Erik,Jakob Erlandsøn,Undirected,3
+Erik,Kong Kristoffer,Undirected,2
+Gud,Kong Kristoffer,Undirected,5
+Gud,dyb,Undirected,1
+Kong Kristoffer,dyb,Undirected,1
+Gud,Kristoffer,Undirected,4
+Kristoffer,Valdemarsøn,Undirected,1
+Gud,Ridder Truid,Undirected,1
+Jakob,ane,Undirected,1
+Erik,ane,Undirected,1
+Erik,Erkebisp Jakob,Undirected,1
+Erkebisp Jakob,Lnnd,Undirected,1
+Lnnd,krone Erik Kristoffersøn,Undirected,1
+Esger,Jakob,Undirected,2
+Esger,krone Erik Kristoffersøn,Undirected,1
+Jakob sfal,Krisfoffer Valdemarsøn,Undirected,1
+Klerke,Torben Nielson,Undirected,1
+Kong Jakob,Torben,Undirected,1
+Abbed Arnsast,Berdens,Undirected,1
+Berdens,Gud,Undirected,1
+Abbed Arnfast,Mikael,Undirected,1
+Abbed Arnfasf,Mikael,Undirected,1
+Arnfasf,Mikael,Undirected,2
+Laurentius,Mikael,Undirected,5
+Jakob,Laurentius,Undirected,2
+Arnfasf,Gud,Undirected,1
+Arnsast,Kristoffer Baldemarsøn,Undirected,1
+Gud,Kristoffer Baldemarsøn,Undirected,1
+Arnfast,Gud,Undirected,6
+Gud,Mikael,Undirected,7
+Mikael,as,Undirected,1
+Jakob,as,Undirected,1
+Arnfast,Mikael,Undirected,1
+Gud,Jakob,Undirected,1
+Kong Kristoffer,Mikael,Undirected,2
+Erkebisp Jakob,Kasf,Undirected,1
+Arnsast,Ebbe Genvæth,Undirected,1
+Arnsast,Laurentius,Undirected,3
+Jakob Erlandsøn,Mikael,Undirected,2
+,Laurentins,Undirected,2
+,Munk,Undirected,1
+Laurentins,ban,Undirected,1
+Erkebisp Jakob Erlandsøn,Niels Erlandsøn,Undirected,1
+Niels Erlandsøn,Trnid Pedersøn,Undirected,1
+Henrik Meklenborg,Trnid Pedersøn,Undirected,1
+Harmens,Kong Kristoffer,Undirected,1
+Harmens,Jakob,Undirected,1
+Klans,ban,Undirected,1
+Niels Erlandsøn,hall,Undirected,1
+Jakob,Klaus,Undirected,1
+Erik,Kristoffer,Undirected,2
+Egeuvilje,Gud,Undirected,1
+Krisfoffer Baldemarsøns,Kristi,Undirected,1
+Niels Erlandsøn,ban,Undirected,1
+Jakob Erlandsøn,Niels,Undirected,2
+Fals,Niels,Undirected,1
+Henrik fil,Jakob,Undirected,1
+Henrik,Kong Jakob Rævehale,Undirected,1
+Erleb,ban,Undirected,1
+Hnskarle,ban,Undirected,1
+Jakob Erlandsøn,diord,Undirected,1
+diord,fhi,Undirected,1
+fhi,fil Nyborg,Undirected,1
+Henrik Meklenborg,fil Nyborg,Undirected,1
+Henrik Meklenborg,Niels Erlandsøn,Undirected,2
+Henrik Meklenborg,Nielses Hjærte,Undirected,1
+Henrik Meklenborg,Niels,Undirected,1
+Heurik,Ridderfkik,Undirected,1
+Jakob Erlandsøn,Trnid Pedersen,Undirected,1
+Klans Turesøn,Trnid Pedersen,Undirected,1
+Kristoffer,ban,Undirected,1
+Jakob Erlandsøn,Peder Bang,Undirected,1
+Jens Bang,Peder Bang,Undirected,1
+Gud,Jens Bang,Undirected,1
+Hertng Erik,Jens Bang,Undirected,1
+Hertng Erik,plnkkes,Undirected,1
+Peder Bang,plnkkes,Undirected,1
+Jærmer,Peder Bang,Undirected,2
+Jærmer,Svantevits,Undirected,1
+Gud,mille,Undirected,2
+as,hall,Undirected,1
+Ane,Erkebisp Jakob Erlandson,Undirected,1
+Jærn,Kong Kristoffer,Undirected,1
+Jakob Erland sou sfal,Jærn,Undirected,1
+Jakob,Klans,Undirected,2
+Klans,Klaus Tnresøns,Undirected,1
+Dril,Laurentius,Undirected,1
+Klans,Truid Pedersen,Undirected,1
+Munk,Svend,Undirected,1
+Bent,Dn,Undirected,1
+Bent,ban,Undirected,1
+Abbed Arnsast,Laurentius,Undirected,1
+Gud Fader,Marie,Undirected,1
+Abbed Arnfasf,Lanrenlius,Undirected,1
+,Lanrenlius,Undirected,1
+Klerke,Kong Kristoffer,Undirected,1
+Abels,Lanrentins,Undirected,1
+Abels,Erik Abelsøn,Undirected,1
+Jakob Erlandsøn,ban,Undirected,1
+Arnfast,Erik,Undirected,1
+Arnfast,Laurenlius,Undirected,1
+,Laurenlius,Undirected,1
+Ebbe Genvæth,Øborg,Undirected,1
+Jomfrn Anna,Øborg,Undirected,1
+Ebbe,Jomfrn Anna,Undirected,1
+Anna,Ebbe,Undirected,1
+Elsfoven,Frn,Undirected,1
+Karen,Truid Pedersøn,Undirected,1
+Karen,hans Vejlen,Undirected,1
+Kong Kristoffer,Truid Pedersøn,Undirected,1
+Ebbe Genvæth,Jakob Erlandsøn,Undirected,1
+Anna,Jakob Erlandsøn,Undirected,1
+Anna,Truid Pedersøn,Undirected,2
+Ebbe Genvæth,hnn,Undirected,1
+fig,hnn,Undirected,1
+Dronning Sambirias,fig,Undirected,1
+Anna,Mosfer Vibekke,Undirected,1
+Truid Pedersøn,hnn,Undirected,1
+Truid Pedersøn,Vibekke,Undirected,1
+Vibekke,hnn,Undirected,1
+Frn,hnn,Undirected,1
+Jomfru Anna,Karen,Undirected,1
+Jomfru Anna,Vibekke,Undirected,2
+Karen,Vibekke,Undirected,1
+Anna,Vibekke,Undirected,2
+Anna,alf,Undirected,1
+Anna,Klaus Turesøn,Undirected,3
+KlauS Turesøn,Klaus,Undirected,1
+Anna,KlauS Turesøn,Undirected,1
+Klans,ester,Undirected,1
+Jomfru Anna,Klans,Undirected,3
+Klaus,llngmoer,Undirected,1
+Karen,hnn,Undirected,3
+Anna,hnn,Undirected,6
+Jakob Erlandsøn,hnn,Undirected,1
+Jakob Erlandsøn,fil,Undirected,1
+Bibekke,Kong Kristoffer,Undirected,1
+Klaus,Truid Pedersøn,Undirected,1
+Jomfru Anna,Truid Pedersøn,Undirected,2
+hall,hart,Undirected,1
+Anna,hart,Undirected,1
+Gud,Pedersøn,Undirected,1
+Gaarde,Vibekke,Undirected,1
+Ebbe Genvæth,Jærmer,Undirected,2
+Jærmer,Margrete,Undirected,1
+Erik Abelsøn,Margrete,Undirected,1
+Ebbe,Erik Abelsøn,Undirected,1
+Ebbe,Jærmer,Undirected,2
+Jærmer,fre,Undirected,1
+Arnsast,fre,Undirected,1
+Trnid Pedersøn,rane Anna,Undirected,1
+hart,rane Anna,Undirected,1
+Abbed Arnfasf,Anna Ebbesdatter,Undirected,1
+Gud,Trnid Pederson,Undirected,1
+Anna,maattte,Undirected,1
+Anna,Truid Pedersen,Undirected,3
+Trnid,Truid Pedersen,Undirected,1
+Arnfast,Ebbe,Undirected,1
+Anna,Jomfru Anna,Undirected,1
+Bibekke,Truid Pedersøn,Undirected,2
+Abbed,Bibekke,Undirected,1
+Abbed,Arnfast,Undirected,1
+Arnfast,Laurentins,Undirected,1
+Laurentins,Niels Fisker,Undirected,1
+Niels Fisker,Svend,Undirected,1
+Esger,Kong Kristoffer,Undirected,2
+Esger,Paven,Undirected,1
+Jærmer,Paven,Undirected,1
+Erik,Jærmer,Undirected,4
+Bis,Erik,Undirected,1
+Bis,Esger,Undirected,1
+Kristoffer,Truid Pedersøn,Undirected,1
+Jakob Erlandsøn,Kristoffer Baldemarsøn,Undirected,2
+Gud,Jakob Erlandsøn,Undirected,2
+Anna Ebbesdatter,Truid,Undirected,1
+Anua Ebbesdatter,def,Undirected,1
+Ebbe Genvæth,def,Undirected,1
+Ebbe,Jomfru Auna,Undirected,1
+Ebbe,def,Undirected,1
+Arne,sormildet,Undirected,1
+Ebbe Genvæth,sormildet,Undirected,1
+Jomfru Anna,Pedersøn,Undirected,1
+Anua,Margrete,Undirected,1
+Jomfrn Anna,Laurentius,Undirected,1
+Laurentius,age,Undirected,1
+Niels Fisker,age,Undirected,1
+Laurentins,Laurentius,Undirected,2
+Gud,Laurentins,Undirected,1
+Frn,Gud,Undirected,1
+Karen,Niels,Undirected,2
+Laurentius,Niels Fisker,Undirected,1
+,as,Undirected,1
+Karen,dein,Undirected,1
+Frn,dein,Undirected,1
+Anna,fil Frn Karen,Undirected,1
+Karls,Lise,Undirected,1
+Graamunk,Niels,Undirected,1
+Anna,Graamunk,Undirected,1
+Frn,Niels,Undirected,1
+Karen,paalyve,Undirected,1
+Anna,Niels,Undirected,3
+Gnd,Karen,Undirected,1
+Niels,Niels Fisker,Undirected,1
+Karen,Lanrentins,Undirected,1
+Laurentius,Nn,Undirected,2
+Laurentius,Ungmocn,Undirected,1
+Anna,fabt,Undirected,1
+Lanrentius,Ungmøen,Undirected,2
+Anna,Laurentins,Undirected,2
+Anna Ebbcsdatter,Klaus Turesøn,Undirected,1
+Henning Skippers,Klaus,Undirected,1
+Henning Skippers,Pedersøn,Undirected,1
+Anna,Nikolaj,Undirected,1
+Henning,Klans,Undirected,2
+Klans,Munk,Undirected,1
+Klans,Nikolaj,Undirected,1
+Nikolaj,ban,Undirected,1
+Anna,ban,Undirected,1
+Klans,Lanrentins,Undirected,1
+Anna,Lanrentins,Undirected,2
+Jomfrn Anna,sorn,Undirected,1
+Lanrentius,sorn,Undirected,1
+Lanrentius,hnn,Undirected,1
+Jomfrn Marie,hnn,Undirected,1
+Benner,Jakob Erlandsøn,Undirected,1
+Benner,Gud,Undirected,1
+Gud,Lanrentius,Undirected,1
+Berden,sra Franeiskus,Undirected,1
+Berden,Gud,Undirected,2
+Gnd,Gud,Undirected,1
+Gud,Kong Volmer,Undirected,1
+Mcn,Mt,Undirected,1
+Mt,hnn,Undirected,1
+Henrik,hnn,Undirected,1
+Jakob,grausfe,Undirected,1
+Esger,Hakon,Undirected,1
+Esger,Jakob Erlandsøn,Undirected,1
+Arnfast,Kristoffer Valdemarsøn,Undirected,1
+Abbed Arnfaft,Esger,Undirected,1
+Broder Arnsast,Gud,Undirected,1
+Kong Kristoffer,Laurentius,Undirected,1
+Arnsast,spurgfe,Undirected,1
+Jakob,Mikael,Undirected,1
+Arnsast,Karl,Undirected,1
+Arnfast,Jakob,Undirected,1
+Kristoffer,Sambiria,Undirected,1
+Erik,Sambiria,Undirected,1
+Gud,as,Undirected,1
+Gud,paany,Undirected,1
+Esger,ester,Undirected,1
+Arnfasf,Esger,Undirected,2
+Arnfasf,Kristoffer,Undirected,2
+Arnfasf,Pedersøn,Undirected,1
+Dagmar,Pedersøn,Undirected,1
+Valdemar Sejrs,nn,Undirected,1
+Hart,Trnid,Undirected,1
+Baldemar Sejrs,Hart,Undirected,1
+Erkebisp Jakob,fhi,Undirected,1
+Abbed Arnfast,eder,Undirected,1
+Truid,Truid Pedersen,Undirected,1
+Hnse,Truid Pedersen,Undirected,1
+Hnse,Truid,Undirected,1
+Truid,hall,Undirected,2
+Lanrentins,hall,Undirected,1
+Lambert,Laurentius,Undirected,1
+Best,Nn,Undirected,1
+Hagen,Trnid,Undirected,1
+Lanrenfius,Trnid,Undirected,1
+Lanrenfius,Laurcntins,Undirected,1
+Dominikns,Fvrraadnelscns,Undirected,2
+Gud,Hain,Undirected,1
+Hain,Kristi,Undirected,1
+Franeiskns,Kristi,Undirected,1
+Franeiskns,Gud,Undirected,1
+Gud,eil Engels,Undirected,2
+Gud,ester,Undirected,1
+Kristus,esterGud,Undirected,1
+Kristi,esterGud,Undirected,1
+Abbed Arnfasf,Bin,Undirected,1
+Arnfasf,Bin,Undirected,3
+Arnfasf,Vilhelm,Undirected,1
+Arnfast,Trnid,Undirected,1
+Raadløse,Trnid,Undirected,1
+Gud,Raadløse,Undirected,1
+Esger,hall,Undirected,1
+fille,hall,Undirected,1
+Arnfast,Esger,Undirected,1
+Esger,Hain,Undirected,1
+Erik,Jnnker,Undirected,2
+Knug,eg,Undirected,1
+Knug,Kristoffer,Undirected,1
+Kristoffer Baldcmarsøn,fung,Undirected,1
+Margrete,fung,Undirected,1
+Erik,Margrete,Undirected,4
+Erik,Kristoffer Baldemarsøn,Undirected,1
+Kong Kristoffer,Kristoffer Baldemarsøn,Undirected,1
+Dronning Margrete,hnn,Undirected,3
+Dronning Margrete,Kong Kristoffer,Undirected,1
+Truid Pedersen,Tølægaard,Undirected,1
+Kong Kristoffer,Tølægaard,Undirected,1
+Jærmer,Peder,Undirected,1
+Erik,Peder Bang,Undirected,1
+Ebbe Genvæth,Peder Bang,Undirected,1
+Ebbe Genvæth,Svantevits,Undirected,1
+Nadegasts,Svantevits,Undirected,2
+Nadegasts,sorat,Undirected,1
+Jærmer,Peder Findsøn,Undirected,1
+Danfkes,Kong Kristoffer,Undirected,1
+Arne,Danfkes,Undirected,1
+Arne,Gud,Undirected,1
+Johan Kalf,Truid Pedersøn,Undirected,1
+Johan Kalf,Jærmer,Undirected,1
+Johan Kalss,Truid,Undirected,1
+Johan Kalss,ilid,Undirected,1
+Ebbe Genvæth,ilid,Undirected,1
+Ebbe,Trnid,Undirected,3
+Hesfen,Johan Kalf,Undirected,1
+Ebbe Genvæth,Johan Kalf,Undirected,1
+Ebbe,Johan,Undirected,1
+Ebbe Genvæth,Johan,Undirected,2
+Nadegasts,paany,Undirected,1
+Flins,paany,Undirected,1
+Flins,Zernebog,Undirected,1
+Torkild,sor suld,Undirected,1
+Bilslav,Klerke,Undirected,1
+Johan Kalf,Torben Nielsøn,Undirected,1
+Hakon,Torben Nielsøn,Undirected,1
+Hakon,Kong Kristoffer,Undirected,1
+Jærmer,Kong Kristoffer,Undirected,1
+Hakon,Jærmer,Undirected,3
+Torkild,Torkild Iernpande,Undirected,1
+Bondciig,Ebbe Genvæfh,Undirected,1
+Jærmer,Torkild,Undirected,1
+Fyrst Jærmers,Kong Kristoffer,Undirected,1
+Ebbe,Erik,Undirected,4
+Jærmer,Mrrgrete,Undirected,1
+Erik,Mrrgrete,Undirected,1
+Erik,Freja,Undirected,1
+Aare,Mark,Undirected,1
+Hnstrn,hall,Undirected,1
+Torkild,hall,Undirected,1
+Karen,Torkild,Undirected,1
+Hesfene,Torkild,Undirected,1
+Margrete,Trnid,Undirected,1
+Hertng,Margrete,Undirected,1
+Erik,Hertng,Undirected,1
+Ebbe Genvæth,Erik,Undirected,1
+Kvor Ebbe Genvæth,Torkild,Undirected,1
+Trnid,fil,Undirected,1
+Torkild,fog,Undirected,1
+Torkild,Truid,Undirected,2
+Truid,kam,Undirected,1
+ban,kam,Undirected,1
+Ebbe,fimes,Undirected,1
+Torkild,Truid Pedersøn,Undirected,1
+Ebbe,Truid Pedersøn,Undirected,1
+Nesfved,Torkild,Undirected,1
+Broderhaand,Truid,Undirected,1
+Johan,Truid,Undirected,1
+Johan,Torkild,Undirected,1
+Torkild,fil Øborg,Undirected,1
+Ebbe,miil,Undirected,1
+Ebbe,Trnid Pederson,Undirected,1
+Karen,Svend,Undirected,1
+Federen,Klaus Turesøn,Undirected,1
+Henning Gundeson,Truid Pederson,Undirected,1
+Klaus,Truid Pederson,Undirected,1
+Henning,Jutta,Undirected,1
+Henning Gnndcsøn,Jutta,Undirected,1
+Henning Gnndcsøn,Trnid Pedersøn,Undirected,1
+Henning,Trnid Pedersøn,Undirected,1
+Henning,Jomfru Jutta,Undirected,1
+Nngmø,hnn,Undirected,1
+Jutta Hcnningsdattcr,Nngmø,Undirected,1
+Jutta Hcnningsdattcr,Klans,Undirected,1
+Klans,Turesøns,Undirected,1
+Jutta,Turesøns,Undirected,1
+Gud,Jomfru Jutta,Undirected,1
+Jomfru Jutta,Trnid,Undirected,1
+Jomfru Jutta,Jutta,Undirected,1
+Jomfru Jutta,sam,Undirected,1
+Tnkid Pedersen,hnn,Undirected,1
+Anna,Jutta,Undirected,1
+Anna,Laurentius,Undirected,1
+Laurentius,hnn,Undirected,2
+Gud,elsfe,Undirected,1
+Henning Skipper,Jutta,Undirected,1
+Jutta,Margrete,Undirected,1
+Anna,Margrete,Undirected,1
+Anna,Henning,Undirected,1
+Jutta,sif,Undirected,1
+Jutta,Klaus,Undirected,2
+Brynde,Gud,Undirected,1
+Anna Ebbesdatter,Klans,Undirected,1
+Klaus,hnn,Undirected,1
+Nikolaj,Sankte,Undirected,1
+Henning Gnndesons,Jomfrn Anna,Undirected,1
+Anna,Dronning Margrete,Undirected,2
+Henning Gnndesøn,Ungmøen,Undirected,1
+Henning Gnndesøn,hnn,Undirected,1
+ester,onsfedc,Undirected,1
+Jakob Erlandson,onsfedc,Undirected,1
+Jakob Erlandson,Trnid Pedersen,Undirected,1
+Jomfru Anna,Klaus,Undirected,1
+,Klaus,Undirected,1
+,S,Undirected,1
+Jomfru Anna,hnn,Undirected,1
+Frn,Margrete,Undirected,1
+Ebbe Genvæth,Margrete,Undirected,1
+Ebbe Genvæth,Frn Karett,Undirected,1
+Gud,Jomfrn Anna,Undirected,1
+Berden,Jomfru Anua,Undirected,1
+Jomfru Anua,Trnid Pedersøn,Undirected,1
+Anna,Arnsast,Undirected,1
+Arnfast,fale,Undirected,1
+Anna,fale,Undirected,1
+Mark,gry,Undirected,1
+Bien,Gud,Undirected,1
+Aaens,Hnn,Undirected,1
+Graad,Hnn,Undirected,1
+Graad,hnn,Undirected,1
+-Klaus Turesøn,Henning Skipper,Undirected,1
+Henning Skipper,Jomfru Jutta,Undirected,1
+Anna,Jomfru Jutta,Undirected,1
+As,Truid Pedersen,Undirected,1
+As,as,Undirected,1
+Anna,Klaus,Undirected,2
+Anna,Bensiab,Undirected,1
+Bensiab,Klaus Turesøn,Undirected,1
+Abbed Asgotus,Klaus Turesøn,Undirected,1
+Abbed Asgotus,hall,Undirected,1
+Truid Pedersøn,hall,Undirected,2
+Kong Hakon,hall,Undirected,1
+Erik Krisfoffersøns,Niels,Undirected,1
+Dronning Margrete,Niels,Undirected,1
+Dronning Margrete,Erik ved,Undirected,1
+Erik ved,Jnnker,Undirected,1
+Niels,ban,Undirected,1
+Erik,signe,Undirected,1
+Bente,Margrete,Undirected,1
+Hnn,hnn,Undirected,1
+Hnn,Truid Pedersøn,Undirected,1
+"Klans Tnresøn,",sonl,Undirected,1
+hnn,sonl,Undirected,1
+Jomfrn Anna,hnn,Undirected,1
+Truid,hnn,Undirected,1
+Jannar,Margrete,Undirected,1
+fageHFart,Ødets,Undirected,1
+Klaus,Klaus Turesøn,Undirected,1
+Jomfru Anna,Svend miil,Undirected,1
+Ben Truid,Klaus,Undirected,1
+Henning Skipper,Svend,Undirected,1
+Svend,Truid,Undirected,1
+Gud,Klans,Undirected,1
+Henning,Trnid,Undirected,1
+Ben Truid,Ivmsru Juttas,Undirected,1
+Ivmsru Juttas,hnn,Undirected,1
+Nesfved,Prior,Undirected,1
+Klaus,Nesfved,Undirected,1
+Anna,Ebbe Genvæhts,Undirected,1
+Fæstemo,hnn,Undirected,1
+Truid,siu,Undirected,1
+Henning Skipper,Truid,Undirected,2
+Henning Skipper,Jomfrn Jutta,Undirected,2
+Jomfrn Jutta,Trnid fil Jutta,Undirected,1
+Jutta,Trnid fil Jutta,Undirected,1
+Truid,alf,Undirected,1
+Anna,Svend,Undirected,1
+Jomfru Jutta,Klans,Undirected,1
+Anna,Niels Fisker,Undirected,1
+Annalille,signe,Undirected,1
+Mikael,Vibekke,Undirected,1
+Vibekke,firfi,Undirected,1
+ban,firfi,Undirected,1
+Nn,Trnid Pedersøn,Undirected,1
+Trnid Pedersøn,bann,Undirected,1
+ban,bann,Undirected,1
+ban,hall,Undirected,1
+bun,hnn,Undirected,2
+Jomfru Auua,hnn,Undirected,1
+Gud,Jomfru Auua,Undirected,1
+Anna,bun,Undirected,1
+Margrete,sor Drostens,Undirected,1
+Margrete,Niels sra Viborg,Undirected,1
+Anua,Ebbe Genvæth,Undirected,1
+Dronning Margrete,Ebbe Genvæth,Undirected,1
+Dronning Margrete,Gud,Undirected,1
+Erik Kristoffers,Jakob Erlandsøn,Undirected,1
+Erik Kristoffers,Niels,Undirected,1
+Niels,sone,Undirected,1
+,Niels,Undirected,1
+Birger Jarl,Jakob Erlandsøn,Undirected,1
+Birger Jarl,Peder Bang,Undirected,1
+Margrete,ester,Undirected,1
+Djavele,ester,Undirected,1
+Ivar Tagesøn,Peder Findsøn,Undirected,3
+Ivar Tagesøn,Riels,Undirected,1
+Nikolans,Riels,Undirected,1
+Erik,Meebtilde,Undirected,1
+Meebtilde,lin,Undirected,1
+Birger Jarl,lin,Undirected,1
+Birger Jarl,Jakob,Undirected,1
+Jakob,Nikolans,Undirected,1
+Nikolans,Peder Findsøn,Undirected,1
+Niels,spnrgte,Undirected,1
+Kong Valdemars,Peder Findsøn,Undirected,1
+Hertug Albrekt,Kong Valdemars,Undirected,1
+Hertug Albrekt,Kong Eriks,Undirected,1
+Niels,Tnnger,Undirected,1
+Dronning Margrete,Tnnger,Undirected,1
+Margrete,Nikolans,Undirected,1
+Erik,Klans,Undirected,1
+FjenderueS,Truid,Undirected,1
+Klaus Tureson,Trnid Pedersøn,Undirected,1
+Erik,Klaus Tureson,Undirected,1
+Gud,Nikolans,Undirected,1
+Ivar,Peder Findsøn,Undirected,1
+Klaus,Nikolans,Undirected,1
+Dronning Margrete,Nikolans,Undirected,1
+Dronning Margrete,Nikolaus,Undirected,1
+Erik,sørtes,Undirected,1
+Jakob Erlandsøn,Margrete Sambiria,Undirected,1
+Erik,Nn,Undirected,1
+Nikolans,uu,Undirected,1
+Gud,Jakob Crlandsøn,Undirected,1
+Gud,Nikolaus,Undirected,1
+Kristoffer Valdemars,Nikolaus,Undirected,1
+Jakob Erlandsøn,Nikolaus lægdes,Undirected,1
+Dronning Margrete,sor,Undirected,1
+Margrete,sra,Undirected,1
+Albrekt,sra,Undirected,1
+Jakob Erlandsøn,Truid Pedersøn,Undirected,1
+Henning Skipper,Klaus,Undirected,1
+Hnn,Jomfrn Jutta,Undirected,1
+Gud,Klaus,Undirected,1
+Abel,Arreskov,Undirected,1
+Abel,Peder Findsøn,Undirected,1
+Peder Findsøn,hall,Undirected,1
+Jakob Erlandsøn,Margrete,Undirected,1
+Benner,Erik,Undirected,1
+Benner,Peder Findsøn,Undirected,1
+Erik,Peder Findsøn,Undirected,1
+Albrekt,Peder Findsøn,Undirected,1
+Peder Findsøn,ester,Undirected,1
+ester,tes,Undirected,1
+Kong Kristoffer,haanlo,Undirected,1
+Trnid,favs,Undirected,1
+Dronning Margrete,Drost,Undirected,1
+Dronning Margrete,Truid,Undirected,1
+Drost,Z,Undirected,1
+Ebbe Genvæth,Z,Undirected,1
+Margrete Sambiria,Peder Findsøn,Undirected,1
+Dronning Margrete,Trnid,Undirected,1
+Deren,Trnid,Undirected,1
+Peder Findsen,Trnid,Undirected,1
+Trnid,Truid,Undirected,1
+Frn,Truid,Undirected,1
+Anna,Frn,Undirected,1
+Herfug Albrekt,Trnid,Undirected,1
+Herfug Albrekt,Mathias Flortorp,Undirected,1
+Mathias Flortorp,Peder Findsøn,Undirected,1
+Ivar Tageson,Peder Findsøn,Undirected,1
+Arrcskov,Ivar Tageson,Undirected,1
+Abbed Arnfast,Peder,Undirected,1
+Kannikernc,Peder,Undirected,1
+Kannikernc,Tyge,Undirected,1
+Jakob Erlandsøn,Tyge,Undirected,1
+Jakob Erlandsøn,Johan Kåls,Undirected,2
+Klerke,Tyge,Undirected,1
+Kong Kristoffer,Vindings,Undirected,1
+Glipsti,Vindings,Undirected,1
+Jakob Erlandsou,Laurentius,Undirected,1
+Gud,Laurentius,Undirected,1
+Dronning Margrete,Klerke,Undirected,1
+Arusasfs,Mikael,Undirected,1
+Arusasfs,Jakob Erlandsøn,Undirected,1
+Jakob Erlandsøn,ester,Undirected,1
+Gregors,Kong Erik,Undirected,1
+Gregors,Hall,Undirected,1
+Hall,Lund,Undirected,1
+Ebbe Genvæfh,Frn Karen,Undirected,1
+Truid Pedersøn,foul,Undirected,1
+Truid,foul,Undirected,1
+Steil,Truid Pedersøn,Undirected,1
+Steil,uaar,Undirected,1
+mau,uaar,Undirected,1
+Ban,l. Tanfegiffing,Undirected,1

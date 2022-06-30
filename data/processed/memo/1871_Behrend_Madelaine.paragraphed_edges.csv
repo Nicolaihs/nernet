@@ -1,0 +1,479 @@
+source,target,type,weight
+Judith,von,Undirected,1
+Judith,von Sympfen,Undirected,1
+. Sympfen,v,Undirected,1
+Atlaskes,ester,Undirected,1
+BaronvonSympfen,Madelaine,Undirected,1
+Madelaine,lle Verdin,Undirected,1
+Alexis,Madelaine,Undirected,8
+Madelaine,iveien,Undirected,3
+Verdin,iveien,Undirected,1
+Verdin,von Sympfen,Undirected,2
+Alexis,von Sympfen,Undirected,2
+Alexis,Madeleine,Undirected,1
+Alexis,nei,Undirected,2
+Madelaine,Steen,Undirected,1
+Alexis,Gud,Undirected,3
+Madelaine,Morfins,Undirected,1
+Madelaine,Verdin,Undirected,4
+Judith,Madelaine,Undirected,1
+Alexis,Morfins,Undirected,1
+Alexis Sekundant,Madelaine,Undirected,1
+Madelaine,von Sympfen,Undirected,18
+Alexis Morfin,Verdin,Undirected,1
+Aleris,Madelaine,Undirected,19
+Alexis,fig,Undirected,4
+Vikomte,beviis,Undirected,1
+AleriS,beviis,Undirected,1
+AleriS,Gud,Undirected,1
+Aleris,von SympfenS,Undirected,1
+Franks,Tølv,Undirected,1
+Baron von,Gud,Undirected,1
+Baron von,Sympfen,Undirected,1
+Aluis,Sympfen,Undirected,1
+Aluis,Madelaine,Undirected,1
+Frøken Madelaine,Madelaine,Undirected,1
+Helena,Martha,Undirected,1
+Martha,Mo,Undirected,1
+Judith,von Sympsen,Undirected,1
+Berdin,fig,Undirected,1
+Aleris Sekundant,Von Sympfen,Undirected,1
+Baron Verdins,Judith,Undirected,1
+Berdin,feg,Undirected,1
+Ernesto,Judith,Undirected,1
+Judith,Morfin,Undirected,1
+Morfin,iveien,Undirected,1
+Bleris,Madelaine,Undirected,1
+Bleris,Morfin,Undirected,1
+Georges de Dotine,Morfin,Undirected,1
+Georges de Dotine,fidde,Undirected,1
+Berdin,Judith,Undirected,1
+Baron,Baron Verdin,Undirected,1
+Baron,øg,Undirected,1
+Judith,VerdinS,Undirected,1
+Ludvig,Verdin,Undirected,1
+Madelaine,von Sympsen,Undirected,1
+Madelaine,Martha,Undirected,5
+Martha,øg,Undirected,1
+Madelaine,øg,Undirected,4
+Helena,von Sympfen,Undirected,2
+Helena,Madelaine,Undirected,5
+Gud,Madelaine,Undirected,14
+ban,fig,Undirected,2
+Ben,Madelaine,Undirected,1
+Madelaine,heade,Undirected,1
+Helena,heade,Undirected,1
+Helena,fig,Undirected,4
+Madelaine,fig,Undirected,24
+AleriS,Madelaine,Undirected,1
+Aleris,von Sympfen,Undirected,2
+Alens,Aleris,Undirected,2
+Aleris,fig,Undirected,18
+fig,reisfe fig,Undirected,1
+Helena,Poul,Undirected,1
+Helena,Richardts,Undirected,1
+Richardt,bun,Undirected,1
+Hans Gulduhr,Richardt,Undirected,1
+Richardt,Uhr,Undirected,1
+Helena,Richardt,Undirected,2
+Aleris,Kathrine,Undirected,1
+Aleris,Pørtneren,Undirected,1
+Aleris slyrtede,Madelaine,Undirected,1
+Richardt,Richardt-,Undirected,1
+Richardt,von Sympfen,Undirected,1
+Helena,Passiar,Undirected,1
+Laps,Patrik,Undirected,1
+Bob,fig,Undirected,4
+Aleris,Bob,Undirected,5
+er Martha,fig,Undirected,1
+Madelaine,ban,Undirected,5
+Ester,Madelaine,Undirected,2
+-an,Madelaine,Undirected,1
+Bob,Madelaine,Undirected,1
+Adele,Madelaineog,Undirected,1
+ester,fig,Undirected,2
+Madelaine,Sands,Undirected,1
+Abele Savigny,Sands,Undirected,1
+Abele Savigny,Madelaine,Undirected,1
+Adele,Madelaine,Undirected,20
+Baron von Sympfen,Madelaine,Undirected,3
+Madelaine,hu,Undirected,3
+Madelaine,fit,Undirected,1
+Madelaine,von SympfenS,Undirected,1
+Baronesse Verdins,Madelaine,Undirected,1
+Adele,fig,Undirected,7
+Adele,Georges,Undirected,1
+Adele,Henri,Undirected,1
+Baronessens,Madelaine,Undirected,1
+Dands,Madelaine,Undirected,1
+Madelaine,Vikomte,Undirected,2
+Frøken Morfin,fig,Undirected,1
+Frøken Morfin,fit,Undirected,1
+Judith von Sympfen,Verdin,Undirected,1
+Judith von Sympfen,Madelaine,Undirected,1
+Adele,iveien,Undirected,1
+Barme,Georges,Undirected,1
+Georges,Judith,Undirected,3
+Bønhsr,von Sympfen,Undirected,1
+Grev Morfins,Madelaine,Undirected,2
+Grev Morfins,jø,Undirected,1
+Adele,jø,Undirected,1
+Madelaine,von,Undirected,2
+Adele,Vikomte de Botine,Undirected,1
+Madelaine,Vtkomtens,Undirected,1
+mceldt,von Sympfen,Undirected,1
+mørk,taus,Undirected,1
+Madelaine,kjcrre,Undirected,1
+Adele,von,Undirected,1
+Vikonmssen,von Sympfen,Undirected,1
+Vikomtessen,von Sympfen,Undirected,1
+Ottoman,Vikomtessen,Undirected,1
+Adele Savigny,Georges,Undirected,1
+Judith,ril,Undirected,1
+Vikomtessen,ril,Undirected,1
+Judith purpurrød,von Sympfen,Undirected,1
+Adele,Gud,Undirected,8
+ban,von Sympfen,Undirected,1
+Grev Morfins,Leo vidsle,Undirected,1
+Grev Morfins,øg,Undirected,1
+Leo,Madelaine,Undirected,2
+Desøz,hunzvar,Undirected,1
+Madelaine,sorn,Undirected,1
+Madam,Madelaine,Undirected,1
+Aleris,Hnn,Undirected,1
+Madelaine,von sSympfen,Undirected,1
+Gud,von Sympfen,Undirected,2
+Botin,Madelaine,Undirected,1
+Vikomte,von Sympfen,Undirected,1
+Alice,Vikomte Botine,Undirected,1
+Adele,aaledes,Undirected,1
+Dr mvdsigcr,Vikomte,Undirected,1
+Frøken Adele,Madelaine,Undirected,1
+Adele,Botinv,Undirected,2
+Harry,ban,Undirected,1
+Adele,Savignys,Undirected,1
+Adele,Harry Kronwall,Undirected,3
+Harry,Jø,Undirected,2
+Adele,Harry,Undirected,58
+Adele,Jø,Undirected,1
+Gud,Harry,Undirected,3
+Adele,von Sympfen,Undirected,11
+Harry,von Sympfen,Undirected,2
+Adele,Jesu,Undirected,1
+Gud,Jesu,Undirected,1
+H .,Madelaine,Undirected,1
+Adele,Herr Zvigersøn,Undirected,1
+Adele,Elsfer,Undirected,1
+Adele,faus,Undirected,1
+Adele,børt,Undirected,1
+Baron von Sympfen,Frøken Adele,Undirected,1
+Adele,ban,Undirected,1
+List,ban,Undirected,1
+Harry,List,Undirected,1
+Aleris,Gud,Undirected,3
+Einer,Hag,Undirected,1
+Hag,Madelaine,Undirected,1
+Leonia,Madelaine,Undirected,20
+Einer,Madelaine,Undirected,10
+Dokfor Einer,Madelaine,Undirected,1
+Leonia,øgsaa,Undirected,1
+Leonia,MadelaineS,Undirected,2
+Madelaine,MadelaineS,Undirected,1
+Leonies,Madelaine,Undirected,1
+Einer,Leonia,Undirected,2
+Frøkeneu,Leonia,Undirected,1
+Leænia,Madelaine,Undirected,1
+Freken,Leænia,Undirected,1
+bin,fig,Undirected,1
+Gud,Leouia,Undirected,1
+Leonia,vaa,Undirected,1
+Madelaine,vaa,Undirected,1
+Madelaine,hidlil,Undirected,1
+Einer,hnn,Undirected,1
+Einer,hu,Undirected,1
+Leonia,herttl,Undirected,1
+Aleris,ester,Undirected,2
+Aleris,Principal,Undirected,2
+Karlen,von Sympfen,Undirected,1
+Aleris,Karlen,Undirected,1
+Leo,von Sympfen,Undirected,1
+Aleris,Herr,Undirected,1
+Aleris,Helena,Undirected,6
+Helena,Vidsfe,Undirected,1
+Gud,Vidsfe,Undirected,1
+Helena,oz,Undirected,1
+Aleris,oz,Undirected,1
+Aleris,Frøken Helena,Undirected,1
+Helena,Morfin,Undirected,1
+Aleris,rykt,Undirected,1
+Verdin,fig,Undirected,1
+Baron Verdin,Gud,Undirected,1
+Morfin,Verdin,Undirected,1
+Gud,Morfin,Undirected,1
+Gud,fig,Undirected,2
+Gud,Verdi »,Undirected,1
+Baron Verdin,Greven,Undirected,1
+le Auber,«,Undirected,1
+Aleris,Verdin,Undirected,1
+Mary,moer,Undirected,1
+Frøken Kronwall,Harry,Undirected,2
+Adele,Agnes,Undirected,2
+Agnes,ester,Undirected,1
+Agnes,Harry,Undirected,2
+Agnes,jez,Undirected,1
+Harry,jez,Undirected,1
+Mary,bun,Undirected,1
+Gud,Mary,Undirected,2
+G,Gud,Undirected,1
+Frøken Morfin,Madelaine,Undirected,2
+Verdin,hu,Undirected,1
+Harry,Verdin,Undirected,3
+Gud,Leonia øg,Undirected,1
+Hcender,Madelaine,Undirected,1
+Gulla —,Inglingen,Undirected,1
+Inglingen,ben kjære Sø,Undirected,1
+Berden,fig,Undirected,1
+Florents,Gud,Undirected,2
+Florents,nki,Undirected,2
+Florents,Pedro,Undirected,1
+Georges,tans,Undirected,1
+Judith,Vikomtcssen,Undirected,1
+Judith,øg,Undirected,1
+. Vikomte,Vikomten,Undirected,1
+Georges,Gud,Undirected,4
+von Sympfen,wen hun,Undirected,1
+Judith,wen hun,Undirected,1
+Gud,Pedro,Undirected,1
+Seir,Vikomte,Undirected,1
+Adele,Adele Savigny,Undirected,1
+. Savigny,Vr hove,Undirected,1
+Savigny,lille Adele,Undirected,1
+Adele,Savigny,Undirected,7
+Adele,Baronesses,Undirected,1
+Adele,Barsnes,Undirected,1
+Madelaine,SEresfokelle,Undirected,1
+Greve,von Sympfen,Undirected,1
+Ligny,Madelaine,Undirected,1
+Greve,Ligny,Undirected,1
+Pedro,ban,Undirected,1
+fig,flulde,Undirected,1
+. Savigny,flulde,Undirected,1
+Vikomten,elfiek,Undirected,1
+Frøken Adele,elfiek,Undirected,1
+Adele,Frøken Adele,Undirected,2
+Adele,Asten,Undirected,1
+Frøken Savigny,cg,Undirected,1
+Verdin,von Symvfen,Undirected,1
+Madelaine,von Symvfen,Undirected,1
+Pedrø,Vikomte,Undirected,1
+Einer,Werf,Undirected,1
+Ester,Pedro,Undirected,1
+Harry Kronwall,Pedro,Undirected,1
+MadelaineS,Pedro gif,Undirected,1
+fig,l,Undirected,1
+Einer,MadelaineS,Undirected,2
+Einer,veren,Undirected,1
+MadelaineS,fig,Undirected,1
+Leonia,fig,Undirected,2
+. Savigny,Adele,Undirected,3
+Adele,Heras,Undirected,1
+Harry,Mary,Undirected,4
+Harry,tom,Undirected,2
+Bcrdin,Harry,Undirected,2
+Agnes,Mary,Undirected,6
+Agr .,Barøn,Undirected,1
+Agr .,es,Undirected,1
+Mary,es,Undirected,1
+fig,ng,Undirected,1
+Agnes Kronwall,Harry,Undirected,1
+Agnes Kronwall,kjone,Undirected,1
+Mary,fig,Undirected,2
+Mary,dam,Undirected,1
+Harry,dam,Undirected,1
+Agnes Kronwall,Dands dandsede,Undirected,1
+Einer,elffer,Undirected,1
+Harry,ester,Undirected,1
+Mary,Verdin,Undirected,2
+Frøken Kronwall,aandelsS,Undirected,1
+Harry,dvilc,Undirected,1
+Mary,ban,Undirected,1
+Marv,ban,Undirected,2
+Harry,vEre,Undirected,1
+Einer,Gud,Undirected,3
+Harry,Madelaine,Undirected,1
+Asten,Madelaine,Undirected,2
+Asten,Harry,Undirected,1
+Harry,Kronwall,Undirected,3
+Madelaine,ber,Undirected,1
+Madelaine,ester,Undirected,1
+Madelaine,dam,Undirected,1
+Franks,von Sympfen,Undirected,1
+Florents,Franks,Undirected,1
+Gemal,fig,Undirected,1
+Gemal,Seir,Undirected,1
+Florents,von,Undirected,1
+Gud,ester,Undirected,2
+Mark,fig,Undirected,3
+Mark,ester,Undirected,1
+Madelaine,Mark,Undirected,1
+Mark,Mark øg,Undirected,1
+Madelaine,soer,Undirected,1
+Kudsken,Madelaine,Undirected,1
+Gud,taus,Undirected,1
+Harry,Savigny,Undirected,1
+Adele,dandse,Undirected,1
+Adele,Dands,Undirected,1
+Adele,reisfe fig,Undirected,1
+Harry,reisfe fig,Undirected,1
+Kronwall,von Sympfen,Undirected,1
+Adele,dun,Undirected,1
+Harry Kronwall,Harry ridt,Undirected,1
+Bei,Harry,Undirected,2
+Bel,bun,Undirected,1
+Greven,Harry,Undirected,3
+Greven,Mr . Bvnveng,Undirected,1
+Adele,Mr .,Undirected,1
+Bonveng,Mr .,Undirected,1
+Harry,k,Undirected,1
+Harry,Morfin,Undirected,1
+. Savigny,Savigny strax,Undirected,1
+Prineival,Savigny strax,Undirected,1
+Adele,bun,Undirected,2
+. Savigny,Harry,Undirected,1
+Aleris,Morfin,Undirected,2
+Aleris «,jø,Undirected,1
+Aleris,Greven,Undirected,5
+Aleris,AlrriS,Undirected,1
+AlrriS,Principal,Undirected,1
+Greven,paany,Undirected,1
+Graad,paany,Undirected,1
+Greven,Harry KronwallS,Undirected,1
+Harry,Harry knnde,Undirected,1
+Tys,slille,Undirected,1
+Madelaine,jv,Undirected,1
+ban,jv,Undirected,1
+Hermod,MadelaineS,Undirected,2
+Madelaine,imødcsaae,Undirected,1
+Graad,Leonia,Undirected,1
+Gud,Leonia,Undirected,1
+Mary Kronwall,Verdin,Undirected,1
+Frøken Kronwall,øg,Undirected,1
+Hesfe,Mary,Undirected,1
+Mary,ajsted,Undirected,1
+Frøken Kronwall,slødt,Undirected,1
+AgneS Kronwall,Mary,Undirected,1
+,Agnes,Undirected,2
+Mary,wen,Undirected,1
+Azr,wen,Undirected,1
+Azr,es,Undirected,1
+,Mary,Undirected,1
+fig,hans høie,Undirected,1
+Aleris,Greve,Undirected,1
+Aleris,selo,Undirected,1
+Gemal,Oren,Undirected,1
+Judith,nei,Undirected,1
+AleriS,Aleris,Undirected,1
+Aleris t,fig,Undirected,1
+Gud,Kion,Undirected,1
+ban,jene,Undirected,1
+Madelaine,jene,Undirected,1
+Aleris,maalløs,Undirected,1
+FlorentS,Mark,Undirected,1
+Aleris,Mark,Undirected,1
+Hermob,Madelaine,Undirected,1
+Madelaine,don,Undirected,1
+Madelaine,sægte,Undirected,1
+Hermød,MadelaineS,Undirected,1
+fiz,hnn,Undirected,1
+Gud,Hermod,Undirected,4
+Hermod,Madelaine,Undirected,21
+Hermod,ban,Undirected,1
+Madelaine,osMan,Undirected,1
+Dandsen,osMan,Undirected,1
+Hermod,Madelaine fil,Undirected,1
+Hermod,fig,Undirected,1
+Hermod,Ingling,Undirected,1
+dort,fig,Undirected,2
+Madelaine,taus,Undirected,2
+MadelaineS,ban,Undirected,1
+Madelaine,slore,Undirected,1
+Greven,Madelaine,Undirected,4
+Greven,Gud,Undirected,2
+Aleris,Florents,Undirected,3
+Aleris,Anker,Undirected,1
+Verdin,assyne,Undirected,1
+Aleris,assyne,Undirected,1
+AleriS,fig,Undirected,1
+AleriS,Florents,Undirected,1
+Baron Verdin,Madelaine,Undirected,1
+Aleris,Assked,Undirected,1
+Nei,nei,Undirected,1
+Aleris,nei,Undirected,1
+fig,sz,Undirected,1
+Einer,sz,Undirected,1
+Aleris,øg,Undirected,1
+Mark,von Sympfen,Undirected,1
+Mark,Reisen,Undirected,1
+Mark,fasf,Undirected,1
+Georges,Mark,Undirected,1
+Morfin,ligbleg,Undirected,1
+Mark rakfe,fig,Undirected,1
+Florents,Kronwall,Undirected,1
+Florents,Harry,Undirected,1
+. Kronwall,Harry,Undirected,1
+Harry,kjær,Undirected,1
+. Kronwall,Adele,Undirected,1
+.,Al . L,Undirected,1
+.,Harry,Undirected,1
+Harry,dandse,Undirected,1
+Dands,Harry,Undirected,1
+Adele,dandset,Undirected,1
+dandset,fig,Undirected,1
+Dands,fig,Undirected,1
+Harry,fig,Undirected,5
+Adele,Dandsen,Undirected,1
+Adele,reisle,Undirected,1
+Harry,Vikomten,Undirected,1
+Florents,Vikomten,Undirected,1
+Adele,Hr .,Undirected,1
+Hr .,Vikomte,Undirected,1
+Adele,vøn,Undirected,1
+Billa,Vikomten,Undirected,1
+IrsaS,von Sympfen,Undirected,1
+Georges,von Sympfen,Undirected,1
+Savigny,fig,Undirected,1
+fig,slakkels,Undirected,2
+Kjære,von Sympfen,Undirected,1
+Jø,Madame,Undirected,1
+Madelaine,keres,Undirected,1
+Frøken,Madelaine,Undirected,2
+Hermod,Madeleine,Undirected,1
+Hermod,danke,Undirected,1
+Madelaine,paany,Undirected,2
+Gud,Madame Honire,Undirected,1
+sonderknusf,taus,Undirected,1
+fig,sonderknusf,Undirected,1
+Frøken Madelaine,Sara,Undirected,1
+Hermod,Hermsds,Undirected,1
+Greven,fig,Undirected,1
+Alexis,Greven,Undirected,2
+Gud,Tys,Undirected,1
+Alexis,Tys,Undirected,1
+Alexis,Mark,Undirected,1
+AlexiS,Greveu,Undirected,1
+Greven,Mark,Undirected,1
+Baronesse von Sympfens,Mark,Undirected,1
+Martha,fig,Undirected,1
+Madelaine,hav,Undirected,1
+Lille,Madelaine,Undirected,1
+Madelaine,slolt,Undirected,1
+Adele,ester,Undirected,1
+Abele,ifke,Undirected,1
+Graad,ifke,Undirected,1
+Adele,Hrrry,Undirected,1
+Adele,Baronesse von,Undirected,1
+Adele,nanr,Undirected,1
+nanr,von Sympfen,Undirected,1
+Herr Honir,Madelaine,Undirected,1
+Madelaine,frei,Undirected,1
+Beed De øm Frøkeu,Madelaine,Undirected,1

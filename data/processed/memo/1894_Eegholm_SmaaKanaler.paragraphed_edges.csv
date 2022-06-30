@@ -1,0 +1,88 @@
+source,target,type,weight
+Henrik,Poul,Undirected,13
+Doris,Henrik,Undirected,7
+Niels,r,Undirected,1
+Doris,Mo,Undirected,2
+Buntsen,Henrik,Undirected,27
+Buntsen,The,Undirected,1
+Henrik,The,Undirected,1
+Henrik,Mo,Undirected,6
+Agnes,Herta,Undirected,5
+Agnes,Hellesen,Undirected,3
+Buntsen,Mo,Undirected,2
+Godseiers,Mo,Undirected,1
+Frøken Blomberg,Mo,Undirected,1
+Mo,r,Undirected,4
+Buntsen,Slendrian,Undirected,1
+Henrik,Slendrian,Undirected,2
+Henrik,Henrik Gerløv,Undirected,1
+Buntsen,Poul,Undirected,3
+Hellesen,Ottesen,Undirected,1
+Holst,Ottesen,Undirected,1
+Agnes,Doris,Undirected,1
+Mo’,r,Undirected,1
+Buntsen,Hellesen,Undirected,2
+Godfred Christensens,Slendrian,Undirected,1
+Aagaards,Godfred Christensens,Undirected,1
+Aagaards,Buntsen,Undirected,1
+Buntsen,Niels,Undirected,4
+Buntsen,Onkels,Undirected,7
+Gud,Poul,Undirected,1
+Buntsen,Pintsen,Undirected,1
+Hellesen,Henrik,Undirected,3
+Herta,r,Undirected,1
+Agnes,Buntsen,Undirected,1
+Buntsen,X,Undirected,1
+Gud,Herta,Undirected,1
+Hellesen,Herta,Undirected,1
+Herta,Mo,Undirected,1
+Mo,Pintse,Undirected,1
+Brandt,Buntsen,Undirected,1
+Henrik,ifjor,Undirected,1
+Buntsen,Jomfru Iversen,Undirected,1
+Buntsen,Holm,Undirected,2
+Buntsen,Frøken Holm,Undirected,3
+Henrik,Poul —,Undirected,1
+Hellesen,Stillings,Undirected,1
+Hellesen,muntre,Undirected,1
+Linde,Niels,Undirected,1
+Niels,Onkels,Undirected,1
+Kjære,Onkels,Undirected,1
+Gitte,Kjære,Undirected,1
+Gitte,Poul,Undirected,1
+Mo,Niels,Undirected,3
+Gud,Mo,Undirected,1
+Buntsen,Doris,Undirected,2
+Bjørn,Doris,Undirected,1
+Doris,Niels,Undirected,4
+Bella,Gitte,Undirected,1
+Emely,Mama,Undirected,2
+Emely,Madam Henriksen,Undirected,1
+Finsen,Gud,Undirected,1
+Niels,iveien,Undirected,1
+Henrik,Niels,Undirected,5
+Loke,Thor,Undirected,1
+Gitte,Niels,Undirected,1
+Doris,Gitte,Undirected,1
+Niels,Poul,Undirected,3
+Doris,Poul,Undirected,1
+Mo,Poul,Undirected,7
+Bjørn,Onkels,Undirected,1
+Doris,Mo’,Undirected,1
+Mo’,Poul,Undirected,2
+Buntsen,Jomfru Knudsen,Undirected,1
+Jomfru Knudsen,Petra Holm,Undirected,1
+Petra,Petra Holm,Undirected,1
+Petra,Plyds,Undirected,1
+Henrik,Tys,Undirected,1
+Henrik,Karl,Undirected,1
+Doris,Gud,Undirected,1
+Henrik,Onkels,Undirected,3
+Gud,Henrik,Undirected,1
+Born,Gud,Undirected,1
+Niels,s,Undirected,2
+Henrik,s,Undirected,1
+Henrik,Mo’,Undirected,1
+Mo,s,Undirected,1
+Henrik,freidig,Undirected,1
+Niels,freidig,Undirected,1

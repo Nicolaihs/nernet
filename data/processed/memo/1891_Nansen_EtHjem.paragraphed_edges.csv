@@ -1,0 +1,43 @@
+source,target,type,weight
+Frederik Jernier,Nancy Schmidt,Undirected,1
+Christian Mogensen,Nancy Schmidt,Undirected,2
+Mogensen,Nancy Schmidt,Undirected,1
+Jermer,Nancy Schmidt,Undirected,1
+Christian Mogensen,Frederik Jermer,Undirected,1
+Christian Mogensen,Jermer,Undirected,3
+Jermer,Mogensen,Undirected,93
+Frk. Schmidt,Jermer,Undirected,2
+Basse,Mogensen,Undirected,2
+Jermer,Nancy,Undirected,4
+Basse,Guds,Undirected,1
+Frederik,Jermer,Undirected,1
+Mogensen,Nancy,Undirected,2
+Frederik,Nancy,Undirected,2
+Christian,Jermer,Undirected,1
+Jermer,Marie,Undirected,2
+Jermer,Sofie,Undirected,1
+Jermer,Knudsen,Undirected,1
+Knudsen,Poul Knudsen,Undirected,1
+Lissy,Poul Knudsen,Undirected,1
+Lissy,Maren,Undirected,1
+Jermer,Maren,Undirected,1
+Frederits,Mogensen,Undirected,1
+Martin,v. Stancke,Undirected,1
+Hr. Martin,Majors,Undirected,1
+Hr. Martin,Mogensen,Undirected,2
+Hr. Martin,Jermer,Undirected,1
+Martin,Mogensen,Undirected,17
+Jermer,Martin,Undirected,13
+Basse,Martin,Undirected,1
+Jermer,Karl,Undirected,1
+Martin,de Mogensens,Undirected,1
+Edouard Karl Martin,Jermer,Undirected,1
+Martin,Nancy,Undirected,4
+Frk. Schmidt,Nancy,Undirected,1
+Gud,Jermer,Undirected,1
+Cici,iforgaars,Undirected,1
+Jermer,s,Undirected,1
+Marie,Mogensen,Undirected,1
+Mogensen,Toddy,Undirected,1
+Bassemor,Mogensen,Undirected,1
+Frederik,Mogensen,Undirected,1

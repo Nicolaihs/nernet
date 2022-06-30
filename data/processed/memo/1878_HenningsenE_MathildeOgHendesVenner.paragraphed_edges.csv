@@ -1,0 +1,160 @@
+source,target,type,weight
+Dunk,Mathilde,Undirected,11
+Beuf,Dunk,Undirected,1
+Hain,Mathilde,Undirected,1
+Damaskes,Rolf,Undirected,1
+Damaskes,Dunk,Undirected,1
+Dumrian,Rolf,Undirected,1
+Mathilde,fil,Undirected,1
+Dunk,fil,Undirected,1
+Bersærk,Mathilde,Undirected,1
+Dunk,Jesper Dunk,Undirected,2
+Dunk,fiden,Undirected,1
+Dunk,felv,Undirected,1
+felv,lille Mathilde,Undirected,1
+Dunk,Ejsenfresser,Undirected,1
+Jespersen,Mathilde,Undirected,19
+Jægermester Storm,Mathilde,Undirected,2
+Bjørnskov,Mathilde,Undirected,6
+Mathilde,halerman,Undirected,1
+Mathilde,Rudolf Storm,Undirected,3
+Mathilde,øg,Undirected,1
+ester,øg,Undirected,1
+Hnn,Mathilde,Undirected,1
+Avgusta,Gine,Undirected,1
+Heines,Mathilde,Undirected,1
+Gine,Heines,Undirected,1
+Gine,hnn,Undirected,1
+Mathilde,huir,Undirected,1
+Anton,Augusta,Undirected,1
+Anton,Mathilde,Undirected,62
+Avgusta,Mathilde,Undirected,27
+Rolf,Rudolf,Undirected,3
+Dunk,Rolf,Undirected,4
+Anton,Avgusta,Undirected,22
+Bjørnfkovs,Fru Høst,Undirected,1
+Bjørnskov,Brink,Undirected,2
+Blæsenborg,Brink,Undirected,1
+Blæsenborg,Mathilde,Undirected,1
+Mathilde,Storm,Undirected,1
+Storm,Thomas,Undirected,1
+Bjørnfkovs,Hesfene,Undirected,1
+Mathilde,Thomas,Undirected,8
+Rolf,Student Storm,Undirected,1
+Mathilde,Rolf,Undirected,2
+Gud,Rolf,Undirected,2
+Hektor,Mathilde,Undirected,1
+Mathilde,fig,Undirected,2
+Rudolf Storm,fig,Undirected,1
+Mathilde,Rudolf,Undirected,5
+Graa,Mathilde,Undirected,3
+Jomfru Graa,Mathilde,Undirected,10
+Gud,Mathilde,Undirected,1
+Mathilde,dunær,Undirected,1
+Mathilde,Povl,Undirected,6
+Brink,Mathilde,Undirected,4
+Brink,Jens,Undirected,1
+,Anton,Undirected,1
+Avgusta,Thomas,Undirected,1
+Anton,Thomas,Undirected,5
+Jespersen,Thomas,Undirected,1
+Thomas,ester,Undirected,1
+Anton,ester,Undirected,4
+Anton,Avgust,Undirected,1
+Brink,Thomas,Undirected,2
+Anton,Rudolf,Undirected,1
+Dunk,Rudolf,Undirected,6
+Brink,Jomfru Graa,Undirected,5
+,Jomfru Graa,Undirected,4
+Hr. Jespersen,Jomfru Graa,Undirected,1
+Anton,Jespersen,Undirected,9
+Hr. Jespersen,Mathilde,Undirected,3
+Anton,Kallaen,Undirected,1
+Hnn,Kallaen,Undirected,1
+,Jespersen,Undirected,3
+Brink,Jespersen,Undirected,10
+Graa,Jespersen,Undirected,2
+Brink,jkke,Undirected,1
+Brink,Kallaen,Undirected,1
+,Dunk,Undirected,1
+Graa,Rolf,Undirected,1
+Jespersen,Rolf,Undirected,1
+Dunk,Schmidt,Undirected,1
+Dunk,øg,Undirected,2
+Bjørn,Dunk,Undirected,1
+Rolf,Rudolf Storm,Undirected,3
+Dnnk,Rolf,Undirected,1
+nnikke,sid,Undirected,1
+Rasmussen,Rudolf,Undirected,1
+Anton,Brink,Undirected,1
+Anton,Jep,Undirected,1
+Anton,Jon,Undirected,1
+Jon,jon,Undirected,1
+Avgufta,Mathilde,Undirected,1
+Anton,Avgufta,Undirected,1
+Anton,Cerberus,Undirected,3
+Cerberus,Thomas,Undirected,1
+Avgusfa,Mathilde,Undirected,1
+Avgusfa,Cerberus,Undirected,1
+Cerberus,Hnn,Undirected,1
+Hnn,Povl,Undirected,1
+Povl,hnn,Undirected,2
+Hnn,hnn,Undirected,2
+Cerberus,Mathilde,Undirected,4
+Jespersen,Øreng,Undirected,1
+Anton,Øreng,Undirected,1
+Rolf,allons,Undirected,1
+Rasmussen,Rolf,Undirected,5
+Rasmussen,tuen,Undirected,1
+Rolf,tuen,Undirected,1
+Dunk,Karl,Undirected,1
+Dunk,Jeppe,Undirected,1
+Jeppe,Jesper,Undirected,1
+Jesper,Magdalene Sofie Dunk,Undirected,1
+Ertemann,Magdalene Sofie Dunk,Undirected,1
+Bill,Willam,Undirected,2
+Bill,Jesper,Undirected,1
+Bill.,Jesper,Undirected,1
+Bill,Gud,Undirected,1
+Andersen,Dunk,Undirected,1
+Avgusta,Cerberus,Undirected,1
+Avgusta,Jespersen,Undirected,2
+Cerberus,Jespersen,Undirected,1
+Avgusta,hnn,Undirected,1
+Frigga,Venus,Undirected,1
+Mathilde,Venus,Undirected,1
+Avgusta,Jesspersen,Undirected,1
+Anton,rasf,Undirected,1
+Hr. Jespersen,Thomas,Undirected,1
+Jomfru Graa,Thomas,Undirected,1
+,Avgusta,Undirected,1
+Anton,fig,Undirected,2
+Anton,Gud,Undirected,1
+Cerberus,Kallaen,Undirected,1
+Dokforen,Mathilde,Undirected,1
+Anton,øg,Undirected,1
+Bjørnskov,ester,Undirected,1
+Jespersen,Jomfru Graa,Undirected,1
+Anton,Elisa,Undirected,3
+Mathilde,Oren,Undirected,1
+Anton,Oren,Undirected,1
+,Thomas,Undirected,1
+Anton,Jægermesferen,Undirected,1
+Jægermesferen,Mathilde,Undirected,1
+Anton,Bjørnskov,Undirected,1
+Avgusta ogfaa,fig,Undirected,1
+Anton,Avgusta ogfaa,Undirected,1
+Anton,Dunk,Undirected,1
+Povl,Robinson,Undirected,1
+Avgusta,Robinson,Undirected,1
+Jespersen,Kjør,Undirected,1
+Hans,Kjør,Undirected,1
+Avgusta,Rudolf,Undirected,1
+Dunk,Thomas,Undirected,2
+Avgusta,Brink,Undirected,1
+Dunk,Povl,Undirected,1
+Anton,d,Undirected,1
+Avgusta skjælmsk,d,Undirected,1
+Jespersen,Storm,Undirected,1
+Anton,Storm,Undirected,1
+Dunk,Jespersen,Undirected,1

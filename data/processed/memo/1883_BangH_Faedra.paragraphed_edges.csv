@@ -1,0 +1,159 @@
+source,target,type,weight
+Jens,Jørgen Maag,Undirected,1
+Ellen,Ellen Maag,Undirected,6
+Ellen,Jomfru Maag,Undirected,1
+Ellen,Maagers,Undirected,1
+Christen,Jacques,Undirected,1
+Christen,Jeannette,Undirected,1
+Christen Maag,Jacques,Undirected,3
+Christen Maag,Erik,Undirected,3
+Erik,Jacques,Undirected,10
+Erik,Flan,Undirected,1
+Erik,Lind,Undirected,8
+Erik,Jomfru Lind,Undirected,2
+Ellen Maag,Erik,Undirected,1
+Lind,Madam Lind,Undirected,2
+Erik,Marie,Undirected,9
+Erik Maag,Lind,Undirected,2
+Lind,Marie,Undirected,3
+Ellen,Madam Lind,Undirected,5
+Marie,de Maagers,Undirected,1
+Madam Lind,lille Ellen,Undirected,1
+Ellen,Skraa,Undirected,2
+Karl,Kruses,Undirected,1
+Kruse,Madam Kruse,Undirected,1
+Ellen,Niels,Undirected,1
+Lind,Niels,Undirected,1
+Lind,Niels Mortensen,Undirected,1
+Ellen,Kruse,Undirected,1
+Gamle Kruse,Kruse,Undirected,1
+Gamle Kruse,Lind,Undirected,1
+Kruse,Lind,Undirected,1
+Erik Maag,Marie,Undirected,1
+Ellen,Erik Maag,Undirected,3
+Ellen,Lind,Undirected,9
+Flan,Lind,Undirected,1
+Flan,Maagers,Undirected,1
+Lind,Maagers,Undirected,1
+Lind,Thorsholm,Undirected,1
+Papa,lille Bedstefa’,Undirected,1
+Ellen,Papa,Undirected,3
+Ellen,Hr. Christens,Undirected,1
+Hr. Christens,Jacques —,Undirected,1
+Ellen,Jacques —,Undirected,1
+Christtorn,Ellen,Undirected,1
+Ane Pedersdatter,Morten Nielssen,Undirected,1
+Ane Pedersdatter,Lind,Undirected,1
+Ellen,paany,Undirected,3
+Ellen,Maren Peer s.,Undirected,1
+Bedstefader,Ellen,Undirected,1
+Ellen Maag,Madam Lind,Undirected,1
+Ellen Maag,Lind,Undirected,1
+Ellen,Maag,Undirected,3
+Ellen,Mademoiselle,Undirected,8
+Ellen,Thorsholm,Undirected,2
+Maag,Ole,Undirected,1
+Napoleon,Robespierre,Undirected,1
+Ellen,Jocelyn,Undirected,1
+Mademoiselle,petite,Undirected,1
+Mademoiselle,Papa,Undirected,1
+Gud,Lind,Undirected,3
+Gud,Mademoiselle,Undirected,1
+Ellen,Pastor Assens,Undirected,4
+Christen Maag,Ellen,Undirected,1
+Maria Theresia,Schønaich,Undirected,1
+Ellen,undgaa,Undirected,1
+Ellen,Schønaich,Undirected,13
+J,Schønaich,Undirected,1
+Ellen,Felix von Schonaich,Undirected,1
+Donaus,Ellen,Undirected,1
+Ellen,Guylas,Undirected,1
+Felix,Guylas,Undirected,1
+Felix,Schønaich,Undirected,1
+Ellen,Holm,Undirected,6
+Holm,O,Undirected,1
+Ellen Maag,Holm,Undirected,1
+Ellen,gamle Lind,Undirected,1
+Ellen,Winsløw,Undirected,1
+Ellen,Tante,Undirected,2
+Chopin,Ellen,Undirected,2
+Chopin,Rubinstein,Undirected,1
+Liszt,Rubinstein,Undirected,1
+Ellen,Rubinstein,Undirected,2
+Bach,Holm,Undirected,1
+Bach,Haydn,Undirected,1
+Ellen,Haydn,Undirected,1
+Carolhausen,Victoria,Undirected,1
+Ellen,Ellen taus,Undirected,1
+Schønaich-Carolhausen,paany,Undirected,1
+Carolhausen,Ellen,Undirected,1
+Ellen,høit,Undirected,1
+Maria Stuarts,linder,Undirected,1
+Ellen,Lehnsgreven,Undirected,1
+Ellen,Vilsac,Undirected,9
+Ellen,Gyldenfelt,Undirected,1
+Ellen,Ellen Urne,Undirected,1
+Beethoven,Ellen,Undirected,1
+Urne,taus,Undirected,2
+Lehnsgrev Urne,Urne,Undirected,1
+Dumas,Ellen taug,Undirected,1
+Mr. Tholer,Vilsac,Undirected,1
+Carl,Ellen,Undirected,70
+Ellen,Greven,Undirected,15
+Greven,Urne,Undirected,1
+Carl,Greven,Undirected,9
+Ellen,von Dannenberg,Undirected,1
+Dannenberg,Ellen,Undirected,1
+Carl,Carl Urnes,Undirected,1
+Ellen,himmelhøit,Undirected,1
+Carl,Chere,Undirected,1
+Ellen,hiin,Undirected,3
+Carl,Theo,Undirected,1
+Ellen,Ladiva,Undirected,1
+Ellen,Hans,Undirected,1
+Carl,Hans,Undirected,1
+Carl Urne,Hr. Dubois,Undirected,1
+Carl,Carl Urne,Undirected,2
+Asra,Rubinstein,Undirected,1
+Carl,Kaien,Undirected,2
+Ellen,Kaien,Undirected,1
+Carl Urne,Ellen,Undirected,3
+Carl,Plun,Undirected,1
+Quand le chagrin,l’,Undirected,1
+Tant que,il te dira,Undirected,1
+Carl,Urne,Undirected,2
+Ellen,Urne,Undirected,2
+Grev Urne,Urne,Undirected,1
+Carl Urne,Comtesse,Undirected,1
+Carl Urne,Grevinde Urne,Undirected,1
+Krapotkin,Petersdorf,Undirected,1
+Carl,Grevinde Urne,Undirected,1
+Carl,Comtessen,Undirected,2
+Ellen,Grevinde Rosenkrands,Undirected,1
+Comtessen,Rosenkrands,Undirected,1
+Carl,Rosenkrands,Undirected,1
+Ellen Urne,Vilsac,Undirected,2
+Hr. de,Vilsac,Undirected,1
+Victoria regia,Vilsac,Undirected,1
+Bernstorf,Ellen,Undirected,5
+Ellen,Støien,Undirected,1
+Bernstorf,Urne,Undirected,1
+Betnstorfs,Ellen,Undirected,1
+Urne,Vilsac,Undirected,2
+Ellen,Valsens,Undirected,1
+Carl,taus,Undirected,2
+Chopin,Vilsac,Undirected,1
+Carl,Vilsac,Undirected,1
+Carl,jo,Undirected,1
+Carl,paany,Undirected,2
+Ellen,Jomfru Svendsen,Undirected,2
+Ellen,hans Ammanuensis,Undirected,1
+Grev Rosenkrands,Urne,Undirected,1
+Bernstorf,Grevinde Urne,Undirected,1
+Ellen,Rosenkrands,Undirected,1
+Magnifique,magnifique,Undirected,1
+Carl,magnifique,Undirected,1
+Mon ami,amante Bernstorf,Undirected,1
+Carl,Petersdorf,Undirected,2
+Ellen,Gud,Undirected,1
+Carl,Gud,Undirected,1

@@ -1,0 +1,10 @@
+source,target,type,weight
+Drossel,Munk,Undirected,1
+Lærkelii,Munk,Undirected,1
+Lærkelii,Sisken,Undirected,1
+Sisken,Viben,Undirected,1
+Tue,Viben,Undirected,1
+Aakanden,Valmuens,Undirected,1
+Siskenen,taus,Undirected,1
+Gitt,e-gitte-git,Undirected,1
+Irisk,Sisken,Undirected,1

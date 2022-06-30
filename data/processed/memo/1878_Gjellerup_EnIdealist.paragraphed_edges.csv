@@ -1,0 +1,356 @@
+source,target,type,weight
+Bruun,Mathilde Knudsen,Undirected,1
+Helene,Mathilde Knudsen,Undirected,1
+Philosoph,Plato,Undirected,1
+C,Spinozas,Undirected,1
+C,Gerda,Undirected,1
+Almas,Gerda,Undirected,2
+Gerda,corresponderer,Undirected,2
+Gerda,Helene,Undirected,15
+Ach,Helene,Undirected,1
+Mathilde Knudsen,Victor Bruun,Undirected,1
+Henrik Bunsen,Mathilde Knudsen,Undirected,1
+Henrik Bunsen,Marcus Brutus,Undirected,1
+Henriks,Marcus Brutus,Undirected,1
+Henrik Bunsen,Henriks,Undirected,1
+Henrik Bunsen,hans v. Dyck-Hat,Undirected,1
+Stauff,Viktor,Undirected,1
+Helene,Henriks,Undirected,1
+Helene,Victor,Undirected,10
+Henrik,Victor,Undirected,8
+Henrik,Max,Undirected,25
+Gerda,Henrik,Undirected,45
+Gud,Stauff,Undirected,2
+Gerda,Gud,Undirected,1
+Helene,Henrik,Undirected,7
+Plato,Schiller,Undirected,1
+Helene,Plato,Undirected,2
+Mathilde,Victor,Undirected,11
+Gerda,Maxer,Undirected,1
+Henrik,Mathilde,Undirected,3
+Jedweder,die Lindenreihn,Undirected,1
+Henrik,Henrik Alfred Bunsen,Undirected,1
+Doctor Svane,Svanes,Undirected,1
+Bunsen,Doctor Svane,Undirected,1
+Bunsen,Svane,Undirected,1
+Henrik,Svane,Undirected,2
+Bruun,Henrik,Undirected,1
+Bruun,Victor,Undirected,1
+Helene,Svane,Undirected,1
+Henrik,Schack,Undirected,1
+Doctoren,Henrik,Undirected,1
+Bunsen,Doctoren,Undirected,1
+Bunsen,Victor,Undirected,1
+Gerda,Victor,Undirected,7
+Henrik,Victor —,Undirected,1
+Max,Svane,Undirected,2
+Gerda,Max,Undirected,25
+Gerda,Svane,Undirected,3
+Henrik,Sophaen,Undirected,2
+Max,Sophaen,Undirected,3
+Max,Theori,Undirected,1
+Henrik,Theori,Undirected,1
+Bruun,Max,Undirected,1
+Helene,Mathilde,Undirected,18
+Strax,Victor,Undirected,1
+Candidatus theologi®,Victor,Undirected,1
+Candidatus theologi®,Max Stauff,Undirected,1
+Mathilde,Max Stauff,Undirected,1
+Helene Knudsen,Mathilde,Undirected,1
+Bruun,Mathilde,Undirected,1
+Max,Victor,Undirected,15
+Dickens,Victor,Undirected,1
+Helene,Max,Undirected,62
+Kronos,Max,Undirected,6
+Helene,Kronos,Undirected,2
+Kronos,Tora,Undirected,1
+Helene,Tora,Undirected,1
+Mutter,Victor,Undirected,1
+Hr. Knudsen,Max,Undirected,1
+Beethoven,Mozart,Undirected,1
+Beethoven,Schubert,Undirected,1
+Schubert,Schumann,Undirected,2
+Chopin,Schumann,Undirected,1
+Max,Orpheus,Undirected,1
+Eurydice,Orpheus,Undirected,1
+Mathilde,Max,Undirected,9
+Bach,Max,Undirected,1
+Max,N.,Undirected,3
+Knudsens,N.,Undirected,1
+Bruun,Knudsens,Undirected,2
+Max,Stauff,Undirected,4
+Max,Strauss,Undirected,1
+Kant,Strauss,Undirected,1
+Hegel,Kant,Undirected,1
+Hegel,Knudsen,Undirected,1
+Knudsen,Max,Undirected,16
+Helene,Knudsen,Undirected,4
+Knudsen,lian,Undirected,1
+Knudsen,Stauff,Undirected,4
+Holm,Mathilde,Undirected,2
+Holm,Max,Undirected,35
+Doctoren,Praxis,Undirected,1
+Doctoren,Henriksen,Undirected,3
+Henriksen,Max skoggerlo,Undirected,1
+Helene,Max skoggerlo,Undirected,1
+Correc—,Helene,Undirected,1
+Max,Plato,Undirected,1
+Frøken Knudsen,lee,Undirected,1
+Frøken Knudsen,Holm,Undirected,1
+Helene,Max’,Undirected,1
+Gud,Hr. Stauff,Undirected,1
+Goethe,Hr. Stauff,Undirected,1
+Goethe,Schiller,Undirected,2
+Mussealmanak,Schiller,Undirected,1
+Gerda,Mathilde,Undirected,5
+Helene,Schubert,Undirected,1
+Gerda,Schubert,Undirected,1
+Gerda,Stauff,Undirected,2
+Valse,Victor,Undirected,1
+Helene,Stauff,Undirected,6
+Gerda,Naa,Undirected,1
+Cæsar,hnn,Undirected,1
+Cæsar,Napoleon,Undirected,1
+Helene,Napoleon,Undirected,1
+Als,dahin,Undirected,1
+dahin,das hallende,Undirected,1
+Thor durch,das hallende,Undirected,1
+Max,Thor durch,Undirected,1
+Byron,Max,Undirected,1
+Byron,lian,Undirected,1
+Ganen,lian,Undirected,1
+Gerda,Kain,Undirected,2
+Abel,Kain,Undirected,1
+Byron,Gerda,Undirected,1
+Byron,Kain,Undirected,1
+Max Helene,Schack,Undirected,1
+Gerda,liun,Undirected,1
+Max,liun,Undirected,1
+Gerda,Tø,Undirected,1
+Helene,Tø,Undirected,1
+Heine,Mathilde,Undirected,1
+Frøken Svane,Max,Undirected,1
+Hans Catechet,Max,Undirected,1
+Hans Catechet,Knudsen,Undirected,1
+Knudsen,N,Undirected,1
+N,s,Undirected,1
+Knudsen,s,Undirected,1
+David Copperfield,Markham,Undirected,1
+David Copperfield,Hegel,Undirected,1
+Heine,Helene,Undirected,2
+Helene,Lorelei,Undirected,1
+Knudsen,Lorelei,Undirected,1
+Helene,Mir,Undirected,1
+Helene,Holm,Undirected,17
+Frøken K,Holm,Undirected,1
+Christian Winther,Max,Undirected,1
+Frøken K,Max,Undirected,1
+Christendom,Max,Undirected,1
+Correctiv,Max,Undirected,1
+Correctiv,Thomas a,Undirected,1
+Celanos,Thomas a,Undirected,1
+Celanos,Luthers,Undirected,1
+Kingos,Luthers,Undirected,1
+Holm,Knudsen,Undirected,5
+Knudsen,Kronos,Undirected,1
+Faust,Heine,Undirected,1
+Knudsen,K—,Undirected,1
+K—,Max,Undirected,2
+Doctoren,Max,Undirected,3
+Holm,K—,Undirected,1
+K,Stauff,Undirected,1
+Holm,Stauff,Undirected,4
+Stauff,livis,Undirected,1
+Henriksen,Holm,Undirected,7
+Cour,heineske,Undirected,1
+Christian Winther,Cour,Undirected,1
+Gerda,Sokrates,Undirected,1
+Aesculap,Sokrates,Undirected,1
+Aesculap,Henriksen,Undirected,1
+Henriksen,Knudsen,Undirected,1
+Henriksen,Victor,Undirected,1
+Holm,Victor,Undirected,6
+Henrik,Holm,Undirected,2
+Henrik Bunsen,Henriksen,Undirected,1
+Johannes Aabenbaring,Max,Undirected,1
+Henriksen,Johannes Aabenbaring,Undirected,1
+Holm,Peter,Undirected,1
+Max,St. Paulus Heidelbergensis,Undirected,1
+Martensen,Max,Undirected,1
+Faust,Martensen,Undirected,1
+Beatrice,Dante,Undirected,1
+Athenes,Dante,Undirected,1
+Athenes,kydsk,Undirected,1
+Holm,lian,Undirected,1
+Noch eine Bouteille,Piccolomini,Undirected,1
+Henrik Max,Piccolomini,Undirected,1
+Henriksen,Stauff,Undirected,2
+Hr. Piccolomini,Max,Undirected,1
+Mettes,Mikkel,Undirected,1
+Henrik,philosophere,Undirected,1
+Max,Thee,Undirected,2
+Goethesk,Max,Undirected,1
+Asja,Knudsen,Undirected,1
+Max’,Napoleon,Undirected,1
+Gerda,Max’,Undirected,1
+Knudsen,Mutter,Undirected,1
+Odysseus,Stauff,Undirected,1
+Bob,Holm,Undirected,1
+Karker,Stauff,Undirected,1
+Karl Moor,Max Piccolomini,Undirected,1
+Holm,Thekla,Undirected,1
+Dorothea,Herman,Undirected,1
+Heine,Lorelei,Undirected,1
+Holm,Lorelei,Undirected,1
+Agathes,lian,Undirected,1
+Arien,Helene,Undirected,1
+Mathilde,Tys,Undirected,1
+Madam Stael,Max,Undirected,1
+Heine,Madam Stael,Undirected,1
+Heine,olme,Undirected,1
+ganz Tugend tiber Schneegefilde wandeln,olme,Undirected,1
+Max,ganz Tugend tiber Schneegefilde wandeln,Undirected,1
+Heine,Max,Undirected,2
+Max,Max —,Undirected,1
+Holm,Max’,Undirected,2
+Max,procul este profani,Undirected,1
+Gerda,Philosoph,Undirected,1
+N. Kalendæ,a. U. c.,Undirected,1
+Bartolo,Doctoren,Undirected,1
+Almaviva,Bartolo,Undirected,1
+Almaviva,Rosina,Undirected,1
+Ecco,Rosina,Undirected,1
+Ecco,cielo,Undirected,1
+Addio,cielo,Undirected,1
+Max,dasz grosz,Undirected,1
+Hr. Holm,Max,Undirected,1
+Allons,Max,Undirected,1
+Holm,Rikke,Undirected,1
+Frøken K,Rikke,Undirected,1
+Frk K,Helene,Undirected,1
+Holm,Lieutenant Borch,Undirected,1
+Helene,dann hilft kein Wiederstreben,Undirected,1
+Doctor Brandes,dann hilft kein Wiederstreben,Undirected,1
+Frøken K—’s,Max,Undirected,1
+Hellenisme,Holm,Undirected,1
+Brandes,Heine,Undirected,1
+Christne,Max,Undirected,1
+Christne,Jupiter,Undirected,1
+Jehovas,Jupiter,Undirected,1
+Gud,Jupiter,Undirected,1
+Daniel,Max,Undirected,1
+Daniel,Hellas,Undirected,1
+Hellas,das rein menschlichederfor,Undirected,1
+Apollo,Zeus,Undirected,1
+Apollo,Athene,Undirected,1
+Abrahams,Jakobs,Undirected,1
+Jakobs,Urias,Undirected,1
+David,Urias,Undirected,1
+Gud,Max,Undirected,1
+Gud,Saul,Undirected,1
+Christne,Saul,Undirected,1
+Christne,Paulus,Undirected,1
+Holm,Paulus,Undirected,1
+Hr. Stauff,Plato,Undirected,1
+Christus,calumniari audacter,Undirected,1
+Christus,Plato,Undirected,1
+Christne,Plato,Undirected,1
+Holm,Lessing,Undirected,1
+Eva,Gud,Undirected,1
+Abraham,Gud,Undirected,1
+Abraham,Moses,Undirected,1
+Frøken K,Knudsen,Undirected,1
+Gud,Moses,Undirected,1
+Christus,Moses,Undirected,1
+Kant,Schiller,Undirected,1
+Fichte,Kant,Undirected,1
+Fichte,Hegel,Undirected,1
+Hegel,Helene,Undirected,1
+Gøtze,N.’s,Undirected,1
+Holm,Hr. Stauff,Undirected,1
+Asra,Heine,Undirected,1
+Doctoren,hine Asra,Undirected,1
+hine Asra,welche sterben,Undirected,1
+Fata Morganet,Helene,Undirected,1
+Aristip,Hegesias,Undirected,1
+Aristip,Gerda,Undirected,1
+Dalilas,Gerda,Undirected,1
+Dalilas,schone,Undirected,1
+abscheulich,schone,Undirected,1
+Cato,Herakles,Undirected,1
+Heine,Herakles,Undirected,1
+Heine,clara-valete,Undirected,1
+Apollo,clara-valete,Undirected,1
+Gerda,Mathilde Knudsen,Undirected,2
+Helene,Hr. Jørgensens,Undirected,1
+Hr. Jørgensens,Max,Undirected,1
+Max,Thaumasie,Undirected,1
+Bruun,N.,Undirected,1
+Kobbere,Max,Undirected,1
+Claude Lorrain,Kobbere,Undirected,1
+Claude Lorrain,Sophaen,Undirected,1
+Max,Schiller,Undirected,1
+Henrik,Max Piccolomini,Undirected,1
+Max Piccolomini,Thekla,Undirected,1
+Gerda,liendes,Undirected,1
+ban,liendes,Undirected,1
+Max,ban,Undirected,1
+Peer,Victor,Undirected,1
+Gerda,Holm,Undirected,1
+Famulus,Henriksen,Undirected,1
+Famulus,Sørensen,Undirected,1
+Haydn,Helene,Undirected,1
+Haydn,Mozart,Undirected,1
+Mozart,Villie,Undirected,1
+Moll,Villie,Undirected,1
+Max,Max Helene,Undirected,1
+Knudsen,Victor,Undirected,2
+Max,Vertinden,Undirected,1
+Vertinden,Victor,Undirected,1
+Jena,Max,Undirected,1
+Bajers,Schiller,Undirected,1
+Baurs,Hilgenfeldt,Undirected,1
+Baurs,eqvitum,Undirected,1
+Augustin,Strausz,Undirected,1
+Gud,Strausz,Undirected,1
+Christen,Gud,Undirected,1
+Christen,Max,Undirected,1
+Julies,Romeos,Undirected,3
+Max,lian,Undirected,2
+Heine,Henrik,Undirected,1
+Heine,u.,Undirected,1
+Gerda,u.,Undirected,1
+Henrik,liun,Undirected,1
+Homer,Max,Undirected,1
+Christian Winther,Homer,Undirected,1
+Christian Winther,Gerda,Undirected,1
+Henrik,qvatre,Undirected,1
+Dichtung,Max,Undirected,1
+Dichtung,Frederikke,Undirected,1
+Frederikke,Gud,Undirected,1
+Gerda,Knudsen,Undirected,1
+Goethe,Henrik,Undirected,2
+Uousinen,Victor,Undirected,1
+Henrik,Uousinen,Undirected,1
+Schildwach,hier,Undirected,1
+erfrieren,hier,Undirected,1
+Goethe,Vedbendkvist,Undirected,1
+Vedbendkvist,liar,Undirected,1
+Henrik,liar,Undirected,1
+Max,liam,Undirected,1
+Knudsen,Mathilde,Undirected,2
+Humeur,Max,Undirected,1
+Frøken Knudsen,Max,Undirected,2
+Knudsen,Sophaen,Undirected,1
+Lorelei,Schumann,Undirected,1
+Lorelei,Victor,Undirected,1
+Don Juan,Max,Undirected,1
+Henriksen,Max,Undirected,1
+Holm,paany,Undirected,1
+Henriksen,K—,Undirected,1
+K—,Mathilde,Undirected,1
+Henriksen,Hr. Stauff,Undirected,1
+Heimkehr,Hr. Stauff,Undirected,1
+Heimkehr,schosse mich todt,Undirected,1
+Henrik,Max’,Undirected,1
+Gerda —,Max’,Undirected,1

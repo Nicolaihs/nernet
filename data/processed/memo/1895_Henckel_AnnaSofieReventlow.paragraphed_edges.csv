@@ -1,0 +1,363 @@
+source,target,type,weight
+Anna Margrete,Ulrikke Eleonore,Undirected,1
+Anna Margrete,Charlotte Amalie,Undirected,1
+Charlotte Amalie,Mama,Undirected,1
+Hove,Mama,Undirected,1
+Hove,d.,Undirected,1
+Mademoiselle,ainsi,Undirected,2
+Anna Sofie,Maren,Undirected,3
+Anna,Sofie,Undirected,1
+Josefs,allenfals,Undirected,1
+Aasjun,Josefs,Undirected,1
+Anna Sofie,Monsieur Etiennes,Undirected,1
+Anna Sofie,Monsieur Etienne,Undirected,1
+Holstein,Sofie Kristine,Undirected,5
+Maren,Monsieur Etienne,Undirected,3
+Monsieur Etienne,Otto Blome,Undirected,1
+Charlotte Amalie,Papa,Undirected,1
+Sofie,Ulrikke Eleonore,Undirected,1
+Dieu,d.,Undirected,1
+Anna Sofie,Monsieur,Undirected,3
+Anna Sofie,Rostgaard,Undirected,1
+Mama,Papa,Undirected,1
+Anna Sofie,Frants,Undirected,1
+Ane Vaagekone,Frants,Undirected,1
+Galtens,Jøsses,Undirected,1
+Ane,Grev Reventlov,Undirected,2
+Gud,Katrine Hagens,Undirected,1
+Ane,Mamsellen,Undirected,1
+Mamsellen,Revenfeld,Undirected,1
+Madame Holstein,Revenfeld,Undirected,1
+Friis,Madame Holstein,Undirected,1
+Friis,Rostgaard,Undirected,1
+Ane,Jemini,Undirected,1
+Ane,Anna Sofie,Undirected,1
+Madam Galtens,Sofie,Undirected,1
+Anna Sofie,Madam Galtens,Undirected,1
+Katrine Hagens,Konradine Rostgaard,Undirected,1
+Katrine Hagens,Mama,Undirected,1
+Kristian Detlef,Reventlov,Undirected,1
+Kristian Detlef,havt,Undirected,1
+Otto Blome,havt,Undirected,1
+Nievenhof,Otto Blome,Undirected,1
+Anna Sofie,Ulrikke Eleonore,Undirected,15
+Anna Sofie,Mama,Undirected,4
+Frants,Md. Galtens,Undirected,1
+Md. Galtens,Søren Kusk,Undirected,1
+Anna Sofie Reventlov,Ulrikke Eleonore,Undirected,1
+Gud,Ulrikke Eleonore,Undirected,1
+Anna Sofie,Jørgen Krag,Undirected,1
+Charlotte v. Hahn,Grev Reventlov,Undirected,2
+Anna Sofie,Grev Reventlov,Undirected,1
+Grev Danneskjold,Kristian Detlef,Undirected,1
+Grev Danneskjold,ifjor,Undirected,1
+Ulrikke Eleonore,ifjor,Undirected,1
+Kaptain Kaas,Ulrikke Eleonore,Undirected,1
+Henrik Kaas,Papa,Undirected,1
+Anna Sofie,Ulrikke,Undirected,2
+Eleonore,Ulrikke,Undirected,3
+Kristian Detlef Reventlov,Ulrikke Eleonore,Undirected,1
+Benedikte v. Brokdorf,Frederik den Fjerde,Undirected,1
+Benedikte v. Brokdorf,Frederik,Undirected,1
+Anna Sofie,Reventlov,Undirected,4
+Anna Sofie,Dieu,Undirected,2
+Danneskjold,Monsieur Reventlov,Undirected,1
+Holstein,Reventlov,Undirected,1
+Anna Sofie,Kristian Detlef,Undirected,9
+Benediktes,Holstein,Undirected,1
+Danneskjold,Raisons,Undirected,1
+Mama,Raisons,Undirected,1
+Mama,Petite,Undirected,1
+Eros,Hahn,Undirected,1
+Anna Sofie,Eros,Undirected,1
+Anna Sofie,Gratie,Undirected,1
+Dieu,Monsieur,Undirected,1
+Papa,Petite,Undirected,1
+Henrik Kaas,Monsieur Etienne,Undirected,1
+Ciel,Monsieur,Undirected,1
+Ciel,Mama,Undirected,1
+Anna Sofie,Ferdinand Danneskjold,Undirected,1
+Ferdinand Danneskjold,Kristian Detlef,Undirected,1
+Kristian Detlef,allenfals,Undirected,1
+Anna Sofie,Papa,Undirected,1
+Lindes,Ulrikke Eleonore,Undirected,1
+Danneskjold,Ulrikke Eleonore,Undirected,3
+Belle bergere,Danneskjold,Undirected,1
+Belle bergere,reine de mon coeur,Undirected,1
+Reine des fleurs,reine de mon coeur,Undirected,1
+Reine des fleurs,toujours Tu auras mes amours,Undirected,1
+"Belle bergère,",toujours Tu auras mes amours,Undirected,1
+Danneskjold,Henrik Kaas,Undirected,1
+Anna Sofie Reventlov,Frederik,Undirected,1
+Anna Sofie Reventlov,Ulrikke,Undirected,1
+Anna Sofie,Holstein,Undirected,5
+Anna Sofie,Henrik Kaas,Undirected,10
+Eleonore,Holstein,Undirected,1
+Kong Frederik,Sofie Kristine,Undirected,1
+Holstein,Kristian Detlef,Undirected,2
+Henrik Kaas,Kaas,Undirected,1
+Holstein,Ulrik Adolf Holstein,Undirected,1
+Kristian den,Ulrik Adolf Holstein,Undirected,1
+Kristian den,Wibe,Undirected,1
+Ahlefeldt,Wibe,Undirected,1
+Ahlefeldt,Frederik d. Fjerde,Undirected,1
+Fiurendal,Frederik d. Fjerde,Undirected,1
+Fiurendal,Lehnsgreve,Undirected,1
+Frederik d.,Lehnsgreve,Undirected,1
+Frederik d.,Vierreck,Undirected,1
+Friis,Sofie Kristine,Undirected,1
+Friis,Holstein,Undirected,1
+Holstein,ifjor,Undirected,1
+Schindel,Vierreck,Undirected,1
+Kristian Detlef,Schindel,Undirected,2
+Anna Sofie,Sofie Kristine,Undirected,6
+Madame Holstein,Mama,Undirected,1
+Dronning Luise,Mama,Undirected,1
+Dronning Luise,Hs,Undirected,1
+Kaas,Ulrikke Eleonore,Undirected,1
+Monsieur Kaas,Ulrikke Eleonore,Undirected,1
+Sofie Kristine,gauche,Undirected,1
+Sofie Kristine,v. d. Kula,Undirected,1
+Eichstedts,v. d. Kula,Undirected,1
+Edele Kaas,Mademoiselle Wind,Undirected,1
+Anna Sofie,Mademoiselle,Undirected,2
+Ciel,Sofie Kristine,Undirected,1
+Monsieur Kaas,Sofie Kristine,Undirected,1
+Anna Sofie,Edele,Undirected,1
+Anna Wind,Edele,Undirected,1
+Anna Wind,Mariage,Undirected,1
+Henrik Kaas,Monsieur Kaas,Undirected,1
+Mademoiselle Wind,Monsieur Kaas,Undirected,1
+Mademoiselle Wind,d. Kula,Undirected,1
+Henrik Kaas,Holstein,Undirected,1
+Anna Wind,Henrik Kaas,Undirected,4
+Anna Sofie,Monsieur Kaas,Undirected,1
+Frøken Wind,Kula,Undirected,2
+Anna Sofie,Juels,Undirected,1
+Anna Sofie,Anna Wind,Undirected,1
+Henrik Kaas,Sofie Kristine,Undirected,1
+Petite,Stine,Undirected,1
+Anna Sofie,Charlotte von Hahn,Undirected,1
+Charlotte,Marna,Undirected,1
+Mama,Marna,Undirected,1
+Dieu,Mama,Undirected,2
+Dieu,Ulrikke Eleonore,Undirected,1
+Kapitajn Kaas,Ulrikke Eleonore,Undirected,1
+Kapitajn Kaas,Kristian Detlef,Undirected,1
+Charlotte,Kristian Detlef,Undirected,2
+Charlotte,Mama,Undirected,1
+Kristian Detlef,Mama,Undirected,1
+Kristian Detlef,Sofie Kristine a tout prix,Undirected,1
+Charlotte Amalie,Sofie Kristine a tout prix,Undirected,1
+Charlotte Amalie,Hedevig Sofie *,Undirected,1
+Dieu,Hedevig Sofie *,Undirected,1
+Dieu,Wemmetofte,Undirected,1
+Klavsholm,Wemmetofte,Undirected,1
+Anna Sofie,Charlotte,Undirected,12
+Grev Reventlov,Sieur Willum,Undirected,1
+Jonas,Sofie,Undirected,1
+Hahn,Sofie,Undirected,1
+Hahn,Jonas M. Willum,Undirected,1
+Charlotte v. Hahn,Jonas Willum,Undirected,2
+Charlotte,Dieu,Undirected,1
+Charlotte,Ciel,Undirected,1
+Anna Sofie,Charlotte Amalie,Undirected,3
+Charlotte Amalie,Karls,Undirected,1
+Gehejmeraad v. Piessen,Karls,Undirected,1
+Charlotte v. Hahn,Dieu,Undirected,1
+Anna Sofie,Charlotte v. Hahn,Undirected,2
+Charlotte,hvi,Undirected,2
+Henrik Kaas,hvi,Undirected,1
+Charlotte v. Piessen,Dieu,Undirected,1
+Henrik Dose,Louise,Undirected,1
+Louise,Walter,Undirected,1
+Frederik Rostgaard,Ludvig v. Piessen,Undirected,1
+Monsieur Rostgaard,ifjor,Undirected,1
+Rantzau,nous,Undirected,1
+Dieu,Walter,Undirected,1
+Monsieur Rostgaard,pardon,Undirected,1
+Monsieur Rostgaard,v. Piessen,Undirected,1
+Kristian Detlef,Rostgaard,Undirected,3
+Gregers Daa,Jost v. Scholten,Undirected,1
+Gregers Daa,Monsieur Dose,Undirected,1
+Rostgaard,v. Piessen,Undirected,1
+Dose,Kristian Detlef,Undirected,1
+Amour,Kristian Detlef,Undirected,1
+Anna Sofie,Komtessens,Undirected,1
+Schindel,kjær,Undirected,1
+Vierreck,kjær,Undirected,1
+Benedikte,Frederik d.,Undirected,1
+Benedikte,ami,Undirected,1
+Walter,v. Piessen,Undirected,1
+Kristian Detlef,ami,Undirected,1
+Gregers Daa,Reventlov,Undirected,1
+Gregers Daa,Louise,Undirected,1
+Louise,v. Bardenfleth,Undirected,1
+Bardenfleth,v. Piessen,Undirected,2
+Bardenfleth,Louise,Undirected,1
+Karl,Louise,Undirected,2
+Gehejmeraad v. Piessen,Karl,Undirected,1
+Kristian,v. Piessen,Undirected,1
+Grev Reventlov,Kristian,Undirected,1
+Sigfred v. Piessen,v. Piessen,Undirected,1
+Kristian d.,Sigfred v. Piessen,Undirected,1
+Frederik,Petite,Undirected,1
+Henrik Kaas,Kong Frederik,Undirected,1
+Anna Sofie Reventlov,Kong Frederik,Undirected,1
+Anna Sofie,Gud,Undirected,3
+Anna Sofie,Kjørsel,Undirected,1
+Danneskjold Laurvig,Excellense Ulrik Frederik Gyldenløve,Undirected,1
+Excellense Ulrik Frederik Gyldenløve,Frederik d.,Undirected,1
+Frederik d.,ai Altenburg,Undirected,1
+Mama,Ulrikke Eleonore,Undirected,3
+Charlotte,Madame,Undirected,1
+Charlotte,Frants,Undirected,1
+Frants,Ulrikke Eleonore,Undirected,1
+Charlotte,Ulrikke Eleonore,Undirected,2
+Stenbock,Tønnings,Undirected,1
+Geschichte,Henrik Kaas,Undirected,1
+Henrik Kaas,Peder Wessels,Undirected,1
+Kaas,Peder Wessels,Undirected,1
+Kaas,Kramer,Undirected,1
+Kramer,Stenbock,Undirected,1
+Henrik Kaas,Monsieur Kramer,Undirected,1
+Maitresses,Monsieur Kramer,Undirected,1
+Henrik Kaas,Povl Kramers,Undirected,1
+Hans,Henrik Kaas,Undirected,1
+Danneskjold,Ulrikke Eleonore Reventlov,Undirected,1
+Reventlov,Ulrikke Eleonore Reventlov,Undirected,1
+Reventlov,dyb,Undirected,1
+Henrik Kaas,Ulrikke Eleonore,Undirected,2
+Ulrikke Eleonore,ami,Undirected,1
+Ulrikke Eleonore,allenfals,Undirected,1
+Kong Frederik,allenfals,Undirected,1
+Frederik d. Fjerde,Karl,Undirected,1
+Anna Sofie,Frederik d. Fjerde,Undirected,1
+Anna Sofie,Sofie,Undirected,1
+Frederik den Fjerde,Peter den Store,Undirected,1
+Frederik den Fjerde,Katharina,Undirected,1
+Czaren,Karl,Undirected,1
+Anna Sofie,ami,Undirected,1
+Anna Sofie,coeur,Undirected,1
+Anna Wind v.,Henrik Kaas,Undirected,1
+Anna Wind v.,Edele,Undirected,1
+Kristian Detlef,Piessen,Undirected,1
+Amant	,Kristian Detlef,Undirected,1
+Anna Sofie,Kronprinsen,Undirected,1
+Ahlefeldt,Schack,Undirected,1
+Schack,Sofie Kristine,Undirected,1
+Sofie Kristine,Ulrik Adolf,Undirected,1
+Kristian Detlef,Ulrik Adolf,Undirected,2
+Anna Sofie,Danneskjold,Undirected,1
+Kristine,Sofie,Undirected,2
+Anna Sofie,Ulrik Adolf,Undirected,1
+Kristian Detlef,Papa,Undirected,1
+Danneskjold,Rostgaard,Undirected,1
+Anna Sofie,Kristine,Undirected,1
+Gud,Madame,Undirected,1
+Anna Sofie,Madame,Undirected,3
+Anna Sofie,Graad,Undirected,1
+Anna Sofie,Louise,Undirected,2
+Engels,coeur,Undirected,1
+Ferdinand Danneskjold,Ulrikke Eleonore,Undirected,1
+Anna Wind,Ulrikke Eleonore,Undirected,1
+Gud,Sofie Kristine,Undirected,1
+Kong Frederik,Louise,Undirected,2
+Charlotte v. Schindel,v. Vierreck,Undirected,1
+Charlotte v. Schindel,Renata v.,Undirected,1
+Reiffenstein,Renata v.,Undirected,1
+Kristian Detlef,Ulrikke Eleonore,Undirected,1
+Anna Sofie,Excellense,Undirected,1
+Excellense,Ulrik Adolf Holstein,Undirected,1
+Danneskjold Laurvigen,Ulrik Adolf Holstein,Undirected,1
+Danneskjold Laurvigen,Madame la comtesse,Undirected,1
+Anna Sofie Komtesse,Madame la comtesse,Undirected,1
+Anna Sofie,Dronning Louises,Undirected,2
+Anna Sofie,Venus,Undirected,2
+Dronning Louises,Frederik d.,Undirected,1
+Gert,Grev Reventlov,Undirected,1
+Jonas Willum,Reventlov,Undirected,1
+Dronning Louise,Jonas Willum,Undirected,1
+Dronning Anna Sofies,Dronning Louise,Undirected,1
+Dronning Anna Sofies,Zirat,Undirected,1
+Mester Kilian,Sieur Willum,Undirected,1
+Kilian Druebin,Monsieur Willum,Undirected,1
+Jonas Willum,Kilian,Undirected,1
+David Rehdiger,Gert,Undirected,1
+Jonas Willum,Sieur Gert,Undirected,1
+Jonas Willum,Monsieur,Undirected,1
+Gert,Paryk,Undirected,1
+Jonas,Kristen Trøjel,Undirected,1
+Groskansler,Lehnsgreve,Undirected,1
+Anna Sofie,Wiegandts,Undirected,1
+Rostgaard,Wiegandts,Undirected,1
+Anna Sofie,Bjelke Kaas,Undirected,1
+Karl,Sofie Magdalena,Undirected,1
+Hedevig Sofie,Karl,Undirected,1
+Hedevig Sofie,v. Piessen,Undirected,1
+underHolsteins,v. Piessen,Undirected,1
+Rostgaard,underHolsteins,Undirected,1
+Holbergs,Rostgaard,Undirected,1
+Grev Reventlov,Kong Frederik,Undirected,1
+Gud,Jonas Willum,Undirected,1
+Gud,Jonas,Undirected,1
+Fasters,Gert Guldsmed,Undirected,1
+Arianke,Jonas,Undirected,1
+Lucie,Sieur Frantzen,Undirected,1
+Konferentsraad Rostgaard,Lakaj,Undirected,1
+Jonas Willum,Rostgaard,Undirected,2
+Rostgaard,allenfals,Undirected,1
+Jonas,allenfals,Undirected,1
+Jonas,Sieur Willum,Undirected,1
+Lucie,Mikkel Frantzens,Undirected,1
+Jonas,Lucie,Undirected,1
+Charlotte,Lucie,Undirected,1
+Lucie,allenfals,Undirected,1
+Lucie,Sieur Willum,Undirected,1
+Charlotte,Sieur Willum,Undirected,1
+Garver Mikkel Frantzen,Lucie,Undirected,1
+Faster,Lucie,Undirected,2
+Lucie,Mikkel Frantzen,Undirected,1
+Charlotte v. Hahn,Mikkel Frantzen,Undirected,1
+Jomfru Frantzen,Lucie,Undirected,1
+Jonas Willum,Lucie,Undirected,1
+Charlotte,Jonas Willum,Undirected,1
+Charlotte Amalie,Kronprinsen,Undirected,1
+Deichmann,Rostgaard,Undirected,2
+Monsieur Rostgaard,Rostgaard,Undirected,1
+Monsieur Rostgaard,Rostgaaards,Undirected,1
+Anna Sofie,Møjnichen,Undirected,2
+Groskansler,Møjnichen,Undirected,1
+Møjnichen,coeur,Undirected,1
+Deichmann,Møjnichen,Undirected,2
+Amour,Anna Sofie,Undirected,1
+Amour,bien,Undirected,1
+Rostgaard,publique,Undirected,1
+Lucie FrantzDatter,Rostgaard,Undirected,1
+Rostgaard,Ryssel,Undirected,1
+Hans Trojel,Ryssel,Undirected,1
+Karl den,Stores,Undirected,1
+Ahlefeldt,Kristian Detlef,Undirected,1
+Dronning Anna Sofie,Karl,Undirected,1
+Charlotte Amalie,Karl,Undirected,1
+Anna Sofie,Karl,Undirected,1
+Anna Sofie,Frederik,Undirected,1
+Eichel,Schwartz,Undirected,1
+Anna Sofie,ken Kong Kristian,Undirected,1
+Anna Sofie,Rantzov,Undirected,1
+Kaas,Klavsholm,Undirected,1
+Anna Sofie,Klavsholm,Undirected,1
+Kristian,Ulrikke Eleonore,Undirected,1
+Kristian,Sofie Magdalena,Undirected,1
+Piessen,Sofie Magdalena,Undirected,1
+Anna Sofie,Lucie,Undirected,1
+Anna Sofie,Charlotte v.,Undirected,1
+Charlotte,Charlotte v.,Undirected,1
+Anna Sofie,Karoline Mathilde,Undirected,1
+Dr. Masius,Kong Kristian d. Sjettes,Undirected,1
+Anna Sofie,Dr. Masius,Undirected,1
+Anna Sofie,Frederik den,Undirected,1
+Charlotte v. Hahn,Rantzov,Undirected,1
+Dr. Masius,Gud,Undirected,1
+Anna Sofie,Henrik Bjelke-Kaas,Undirected,1
+Henrik Bjelke-Kaas,Zum Andenken Anna Sofie,Undirected,1

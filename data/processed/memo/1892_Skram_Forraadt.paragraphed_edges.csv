@@ -1,0 +1,158 @@
+source,target,type,weight
+Gud,Høier,Undirected,1
+Madam Høier,Petrine,Undirected,1
+Mossjø,Petrine,Undirected,1
+Madam Høier,Mossjø,Undirected,1
+Madam Høier,Taal,Undirected,1
+Madam,Taal,Undirected,1
+Jøsses,Polletie,Undirected,1
+Polletie,jæ,Undirected,1
+Jæ,Karen,Undirected,1
+Jæ,Naadda,Undirected,1
+Jæ,jæ,Undirected,2
+Madam Olsen,jæ,Undirected,6
+Madam Olsen,hu,Undirected,5
+jæ,tedess,Undirected,2
+hu,jæ,Undirected,1
+Madam Olsen,tedess,Undirected,1
+Olsen,tedess,Undirected,1
+Gata,Jæ,Undirected,1
+Gata,jæ,Undirected,1
+Kjør,jæ,Undirected,2
+Lokta,jæ,Undirected,1
+Lossji,jæ,Undirected,1
+Hu,Lossji,Undirected,1
+Hu,jæ,Undirected,1
+henneses,jæ,Undirected,2
+Jula,Madam Olsen,Undirected,1
+Gud,Jæ,Undirected,1
+Cæsar,Sulla,Undirected,1
+Sulla,hans,Undirected,1
+Gud,Vorherre,Undirected,1
+Gud,Hagbarth,Undirected,1
+Ingstad,Riber,Undirected,4
+Aurora,Riber,Undirected,15
+Aurora,Ingstad,Undirected,1
+Pitter,Riber,Undirected,6
+Riber,hans,Undirected,2
+Aurora,kjære Riber,Undirected,1
+Ingstad,kjære Riber,Undirected,1
+Gud,Pitter,Undirected,1
+Gud,Riber,Undirected,6
+Pitter,Thorsen,Undirected,1
+Riber,Thorsen,Undirected,2
+Jomfru Thorsen,Pitter,Undirected,1
+Ingstad,Jomfru Thorsen,Undirected,1
+Jomfru Thorsen,Skjæls,Undirected,1
+Mamma,Ory,Undirected,8
+Ory,Riber,Undirected,114
+Mamma,Riber,Undirected,1
+Ory,hans,Undirected,1
+Mally,Ory,Undirected,1
+Gud,Ory,Undirected,11
+Orion,Riber,Undirected,1
+Orion,Ory,Undirected,3
+Einar,Mamma,Undirected,1
+Einar,Ory,Undirected,2
+Frøken Ingstad,Ory,Undirected,1
+Frøken Ingstad,Frøken Riber,Undirected,1
+Einar,lille Broren min,Undirected,1
+Lolly,lille Broren min,Undirected,1
+Letty,Lolly,Undirected,1
+Knut,Letty,Undirected,1
+Ory,Pappa,Undirected,1
+Aurora,Ory,Undirected,8
+Adolph,Riber,Undirected,1
+Adolph,Ory,Undirected,1
+Ane,Riber,Undirected,2
+Kaptein Adolph,hanses,Undirected,1
+Ane,Aurora,Undirected,1
+Adolph,Aurora,Undirected,2
+Ane,Ory,Undirected,6
+Ane,hinner,Undirected,1
+Ane,skjøv Ory,Undirected,1
+Riber,skjøv Ory,Undirected,1
+Ory,fdr,Undirected,1
+Aurora,Gud,Undirected,1
+. Reiber,Ory,Undirected,1
+Riber,maam,Undirected,1
+Brandt,Riber,Undirected,1
+Jente,Riber,Undirected,3
+Ory,flou,Undirected,1
+Gry,Riber,Undirected,1
+Høst,Ory,Undirected,2
+Høst,Kaptejn Smith,Undirected,1
+Kaptejn Smith,Riber,Undirected,2
+Høst,Smith,Undirected,1
+Riber,Smith,Undirected,14
+Kaptejn Smith,Ory,Undirected,2
+Frøken Sanna,Ory,Undirected,2
+Bøhn,Ory,Undirected,5
+Gud,Kaptejn Smith,Undirected,1
+Frøken Sanna,Høst,Undirected,1
+Høst,Riber,Undirected,1
+Riber,jouself,Undirected,2
+Christensens,Riber,Undirected,2
+Mons,Smith,Undirected,1
+Ory,Riber skotted,Undirected,1
+Krigsmann,Riber,Undirected,1
+Bøhn,Frøken Thomsen,Undirected,1
+Ory,Smith,Undirected,6
+Sjømand,Smith,Undirected,1
+Ory,Sjømand,Undirected,1
+Keks,Riber,Undirected,1
+.Riber,Ory,Undirected,1
+Ory,ieg,Undirected,1
+Jysses,Riber,Undirected,1
+Aurora,Edvard Hals,Undirected,1
+Ory,Pilsnart,Undirected,1
+Kaptejn Smith,Smith,Undirected,1
+Lammekotelette,Ory,Undirected,2
+Riber,Sanna,Undirected,1
+Sanna,Smith,Undirected,1
+Fru Smiths,Riber,Undirected,1
+Aurora,Smith,Undirected,1
+Riber,buldred Smith,Undirected,1
+Riber,bér,Undirected,1
+Aare,Smith,Undirected,1
+Ory,Skaal,Undirected,1
+Riber,Skaal,Undirected,1
+Ory,Sanna,Undirected,1
+Ory,iland,Undirected,1
+Kaftejn,Riber,Undirected,1
+Gutten,Ory,Undirected,2
+Halfdan,Ory,Undirected,27
+Halfdan,Orion,Undirected,1
+Halfdan,Jysses,Undirected,1
+Halfdan,klode,Undirected,1
+Ory,Steamer,Undirected,1
+Ory,pegte,Undirected,1
+Halfdan,Riber,Undirected,8
+Halfden,Ory,Undirected,1
+Gina Bekkevold,Ory,Undirected,1
+Jomfru Thorsen,Ory,Undirected,1
+Kanske,j.o,Undirected,1
+Riber,iland,Undirected,1
+Hys,Riber,Undirected,1
+Riber,bardous,Undirected,1
+Halfdan,bardous,Undirected,1
+Kristus,Riber,Undirected,1
+Aurora,Carl Adolph Riber,Undirected,1
+Aurora,frank,Undirected,1
+Graad,Ory,Undirected,1
+Riber,Zacharias,Undirected,1
+Kaftejn,Zacharias,Undirected,1
+Aahoj,Riber,Undirected,1
+Gry keg,Halfdan,Undirected,1
+Halfdan,skjælmsk,Undirected,1
+Halfdan,Halfdan ifærd,Undirected,1
+Halfdan ifærd,Terrin,Undirected,1
+Ory,Terrin,Undirected,1
+Hum,Riber,Undirected,2
+Emmy,Riber,Undirected,4
+Emmy,Ory,Undirected,3
+Mrs.,Suder,Undirected,1
+Ory,stansed,Undirected,1
+Jesus,Judas Ischariot,Undirected,1
+Riber,keg,Undirected,1
+Riber,skjalv,Undirected,1

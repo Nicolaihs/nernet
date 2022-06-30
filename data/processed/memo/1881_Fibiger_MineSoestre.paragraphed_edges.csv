@@ -1,0 +1,161 @@
+source,target,type,weight
+Napoleons,t,Undirected,1
+Don Juans,darem la mano,Undirected,1
+Beethovens,dands,Undirected,1
+Henrik,Svend,Undirected,1
+Høifjeld,Phantasi,Undirected,1
+Henrik,rose,Undirected,1
+Henrik,Jensen,Undirected,1
+Beethovens,Orla Lehmann,Undirected,1
+Beethovens,Fladstrand,Undirected,1
+Henrik,Karen,Undirected,1
+Cornelia,Marie,Undirected,1
+Karen,Marie,Undirected,3
+Cornelia,Henrik,Undirected,26
+Cornelia,Karen Marie,Undirected,53
+Karen Marie,Nei,Undirected,1
+Henrik,Karen Marie,Undirected,34
+Henrik,kjønt,Undirected,1
+Jakob,Karen Marie,Undirected,11
+Jakob,Madam,Undirected,1
+Karen Marie,Sivert,Undirected,7
+Orlogs,Sivert,Undirected,1
+Haydns,Rondoer,Undirected,1
+Jakob,Sivert,Undirected,5
+Sivert,philosophere,Undirected,1
+Karen Marie,Napoleon,Undirected,1
+Ane,Cornelia,Undirected,6
+Jeanne d,Svanens,Undirected,1
+Jeanne d,Karen Marie,Undirected,1
+Cornelia,Jeannes,Undirected,1
+Maglekilde,Sivert,Undirected,1
+Karen Marie,Maglekilde,Undirected,1
+Mille,Sivert,Undirected,1
+Adam,Jakob,Undirected,1
+Androkles,Jakob,Undirected,1
+Henrik,Jakob,Undirected,3
+Karen Marie,Mester,Undirected,1
+Karen,Steffen,Undirected,2
+Karen Marie,Marie,Undirected,1
+Jakob,Lisbeth,Undirected,1
+Gud,Jakob,Undirected,2
+Gud,Lisbeth,Undirected,1
+Lotusblomsts,lee,Undirected,1
+Bille,Signe,Undirected,1
+Collega,Sthør,Undirected,1
+Fladstrand,Honoratiores,Undirected,1
+Fladstrand,S thørs,Undirected,2
+Due,Døttre,Undirected,1
+Cornelia,Due,Undirected,1
+Gud,Moses,Undirected,1
+Muhameds,Napoleon,Undirected,1
+Karle,Muhameds,Undirected,1
+Cornelia,Liun,Undirected,1
+Jeanne Deans,Karen Marie,Undirected,1
+Gud,Henrik,Undirected,1
+Kreti,Pieti,Undirected,1
+Adam,Collega,Undirected,1
+Karen Marie,Lisbeth,Undirected,13
+Henrik,Sthør,Undirected,2
+Jakob,Sthør,Undirected,1
+Cornelia,Jakob,Undirected,2
+Davids,Kong Saul,Undirected,1
+Karen Marie,Kong Saul,Undirected,1
+Karen Marie,Martha,Undirected,1
+Maria,Martha,Undirected,1
+Jesu,Maria,Undirected,1
+Jesu,Martha,Undirected,1
+Lisbeth,Sthør,Undirected,1
+Adjunct Sthør,Cornelia,Undirected,1
+Adjunct Sthør,C. D.,Undirected,1
+C. D.,Karen Marie,Undirected,1
+Karen Marie,Sthør,Undirected,2
+Cornelia,Sivert,Undirected,2
+Jomfru Cornelia,Moer,Undirected,1
+Karen Marie,sis,Undirected,1
+Gud,Karen Marie,Undirected,2
+Flan,Karen Marie,Undirected,1
+Cornelia,Moder,Undirected,1
+Cornelia,lee,Undirected,1
+Hensemand,Karen Marie,Undirected,1
+Karen Marie,Molde,Undirected,1
+Henrik,Molde,Undirected,6
+Ploug,hans Høire Hostrup,Undirected,1
+Mantzius,hans Høire Hostrup,Undirected,1
+Mantzius,Ploug,Undirected,3
+Kjærestens,Mantzius,Undirected,1
+Heidikkedom,Kjærestens,Undirected,1
+Heidikkedom,Ploug,Undirected,1
+Hostrup,Ploug,Undirected,2
+Flostrup,Ploug,Undirected,1
+Flostrup,Kjærestens,Undirected,1
+Kjærestens,Ploug,Undirected,1
+Cornelia,Ploug,Undirected,2
+Hostrup,Mantzius,Undirected,1
+Henrik,Ploug,Undirected,1
+Arne,Karen Marie,Undirected,1
+Fladstrand,Lisbeth,Undirected,1
+Collega,Fladstrand,Undirected,1
+Collega,Lisbeth,Undirected,1
+Dang,Sivert,Undirected,1
+Cornelia,Dang,Undirected,1
+Jomfru Dues,Karen Marie,Undirected,1
+Cornelia,k,Undirected,1
+Lisbeth,Sivert,Undirected,2
+Cornelia,Lisbeth,Undirected,7
+Egregie,Molde,Undirected,1
+Christian Sund,Molde,Undirected,2
+Christian Frederik Jepsen Sund,Jep Jepsen,Undirected,1
+Christian,Jep Jepsen,Undirected,2
+Christian,Jesper Brockmand,Undirected,2
+Christian Jepsen,Christian Sund,Undirected,1
+Christian Sund,Henrik,Undirected,1
+Obelisker,Publicums,Undirected,1
+Christian,Henrik,Undirected,4
+Christian Frederik Jepsen Sund,Henrik,Undirected,1
+Henrik,Sund,Undirected,13
+Cornelia,Sund,Undirected,2
+Don Quixote,Henrik,Undirected,1
+Karen Marie,Steffen,Undirected,8
+Steffen,iland,Undirected,1
+Cornelia concipere,Henrik,Undirected,1
+Cornelia,Gud,Undirected,5
+Faders,Gud,Undirected,1
+Gud,Jaspis,Undirected,2
+Gud,Jesu,Undirected,1
+Christne,Jesu,Undirected,2
+Christi,Gud,Undirected,2
+Karen Marie,Sund,Undirected,3
+Jesu,Karen Marie,Undirected,1
+Fladstrand,Sund,Undirected,1
+Fladstrand,Henrik,Undirected,1
+Aare,Ingemann,Undirected,1
+Salomon,Sund,Undirected,1
+Lectien,Salomon,Undirected,1
+Henrik,Lisbeth,Undirected,3
+Lisbeth,Nik,Undirected,1
+Karen Marie,Nik,Undirected,1
+Steffen,Sund,Undirected,2
+-Henrik,Christian,Undirected,1
+Christus,Gud,Undirected,2
+Abraham,David,Undirected,1
+David,Urias,Undirected,1
+Christen,Christus,Undirected,1
+Flan,Sund,Undirected,1
+Cornelia,kjær,Undirected,1
+Lisbeth,kjær,Undirected,1
+Damens,Lisbeth,Undirected,1
+Karen Marie,lee,Undirected,1
+Henrik,T,Undirected,1
+Lisbeth,T,Undirected,1
+Cornelia,Steffen,Undirected,1
+Ane,Steffen,Undirected,2
+Karl,Steffen,Undirected,1
+Henrik,Seil,Undirected,2
+Cornelia,Julie,Undirected,1
+Henrik,kim,Undirected,1
+Henrik,Sivert,Undirected,2
+Henrik,Steffen,Undirected,10
+Henrik,Luvart,Undirected,2
+Cornelia,Kjøl,Undirected,1
+Adjunct Sthør,Henrik,Undirected,1

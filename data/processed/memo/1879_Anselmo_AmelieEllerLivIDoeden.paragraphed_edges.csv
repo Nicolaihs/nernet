@@ -1,0 +1,492 @@
+source,target,type,weight
+Fngct,Madam Møller,Undirected,1
+Gud,Møller,Undirected,2
+Mutter,Møller,Undirected,1
+Madam Hansen,Møller,Undirected,1
+Madam,Madam Hansen,Undirected,1
+Madam,Madam Petersen,Undirected,1
+Gud,Mutter,Undirected,1
+Mied,Møller,Undirected,1
+Gud,Mcn,Undirected,1
+Gud,Madam Petersen,Undirected,1
+Madam Møller,Madam Petersen,Undirected,1
+Madam Møller,hnn,Undirected,1
+Madam Møller,Øe,Undirected,1
+Alanden,Madam Aløller,Undirected,1
+Møller,hnn,Undirected,1
+dctte,hnn,Undirected,1
+Gud,dctte,Undirected,1
+Gud,Madam Møller,Undirected,5
+Bien,eu ung Madame,Undirected,1
+Madam,"Möller,",Undirected,1
+Allehaande Syner,Madam Møller,Undirected,1
+singe,tans,Undirected,1
+Madam Møller,Morpheus,Undirected,1
+Gud,Madam Blolter,Undirected,1
+Kjcdlcn,Møller,Undirected,1
+Madam Møller,Peter,Undirected,3
+Peter Numer To,Peter Numer Tre,Undirected,1
+Peter Numer Fire,Peter Numer Tre,Undirected,1
+Lange,Madam,Undirected,1
+Amelie,Lord,Undirected,1
+Lady St. Clair,Lord,Undirected,1
+Aster,Grev Bjørns,Undirected,1
+Grev Bjørns,Grevens,Undirected,1
+Aster,Grevens,Undirected,1
+Asker,Bjørn,Undirected,1
+Bien,Munkholm,Undirected,1
+Amelie,kjæreste Munkholm,Undirected,1
+Amclic,Gud,Undirected,1
+Hain,Nein Kjæresfe,Undirected,1
+Gabriel,Greverne de Fontanges,Undirected,1
+Fontange,Hortensc,Undirected,1
+Beilcre,Hortense,Undirected,1
+Fontange,Hortense,Undirected,1
+Hortense Fontange,Poulsen,Undirected,1
+Hortense,Reisens,Undirected,2
+Hortense,Principal,Undirected,1
+Existcnts,Principal,Undirected,1
+Hortense,Paulsen,Undirected,1
+Hortense,Paulscn,Undirected,1
+Lonise,LouiseS,Undirected,1
+Louiscs,tanc,Undirected,1
+Hain,Mied,Undirected,1
+Ester,Greven,Undirected,1
+Fontange,Poulsen,Undirected,1
+Hortcnses,Poulsen,Undirected,1
+Hortcnsc,ecn,Undirected,1
+Poulsen,dcnne,Undirected,1
+Honneurs,Munkholm,Undirected,1
+Gehcimcraads,hnn,Undirected,1
+filt Gemals,hnn,Undirected,1
+Greven,Neisevvgncn,Undirected,1
+Gud,Munkholm,Undirected,3
+Madam Poulsen,ester,Undirected,1
+Madam Fontange,Madam Poulsen,Undirected,1
+Hortense,Munkholm,Undirected,21
+Hortense,Madam Møller,Undirected,5
+Madam Møller,Møller,Undirected,1
+Hortense,Madam Moller,Undirected,1
+Gud,Madam Moller,Undirected,1
+Barvncn,Madam Møller,Undirected,1
+Barvncn,Hortense,Undirected,1
+Ellen Munkholm,Jens Røgter,Undirected,1
+Ellen Munkholm,Louise,Undirected,1
+Jens Røgter,Louise,Undirected,1
+Hortcuse,Munkholm,Undirected,1
+Mnnkholms,Munkholm,Undirected,1
+Maronen,Munkholm,Undirected,1
+Grev Løvenstjerne,HortcnseS,Undirected,1
+ester,slor,Undirected,1
+Munkholm,ester,Undirected,1
+Munkholm,oni,Undirected,1
+Hortensc,oni,Undirected,1
+Amelic,Amelie,Undirected,1
+Amclie,De Charnay,Undirected,1
+Amelic,De Charnay,Undirected,1
+Amelic,Holger,Undirected,3
+Charnay,Munkholm,Undirected,6
+Amelie,Holger stege,Undirected,1
+Holger stege,Kjøretøi reisf,Undirected,1
+Baron Munkholm,Holger,Undirected,1
+Amelie,Holger,Undirected,10
+Amelie,de Charnay,Undirected,2
+Holger,Røsf,Undirected,1
+Amelie,Munkholm,Undirected,6
+Amelie,HcrmcSstøttc,Undirected,1
+Grev de Moulins,Munkholm,Undirected,1
+Amelie,Charnay,Undirected,15
+Amelie,Seircns,Undirected,2
+Amelie,Elsfer,Undirected,1
+Moa hon,cn,Undirected,1
+Charnay,Chornoy,Undirected,1
+Hain,Keiseren,Undirected,1
+Keiseren,Napoleon,Undirected,1
+Chornoy,Napoleon,Undirected,1
+Napoleon,de Eharnays,Undirected,1
+Charnay,Napoleon,Undirected,1
+Amelie,Saffians,Undirected,1
+Mnnkholms,faus,Undirected,2
+Amelie,faus,Undirected,1
+Charnay,miu,Undirected,1
+Amelie,aaledes,Undirected,1
+Amelic,rnabic,Undirected,1
+Amelie,Kongeveicn,Undirected,1
+Amelic,Tsi,Undirected,1
+Amelie,Gud,Undirected,4
+Faders,hnn,Undirected,1
+Munkholm,hnn,Undirected,1
+De Charnay,Louise,Undirected,1
+Louise,de Charnay,Undirected,1
+Amclie,Charnay,Undirected,1
+Amelie,taus,Undirected,1
+Munkholm,ciheller,Undirected,1
+Amelic,ciheller,Undirected,1
+Amelic,Munkholm,Undirected,5
+Amelic,miu,Undirected,1
+Amelic,Martin,Undirected,2
+Martin,taus,Undirected,1
+Amelic,Hortense,Undirected,1
+Amelie,soni,Undirected,1
+Amelic,soni,Undirected,1
+Charncy,Munkholm,Undirected,1
+Lady Sidneys,gansfe,Undirected,1
+Lady Sidney,Lord Bacons,Undirected,1
+Lady Sidney,Øe,Undirected,1
+Tøne,Øe,Undirected,1
+De Charnay,Lady Sidney,Undirected,2
+Alan dcmaskcrcde,Holger Munkholm,Undirected,1
+Holger,Philip Phillart,Undirected,1
+Baron MunkholmS,Diadam Møller,Undirected,1
+Hans,Høivelbaarenhcd,Undirected,1
+Amelic,Gud,Undirected,1
+Amelic,Charnay,Undirected,7
+AmelicS,Charnay,Undirected,1
+Amelic,Madam Møller,Undirected,2
+Munkholm,Taus,Undirected,1
+Asker,P.,Undirected,1
+Hortense,Løvenstjerne,Undirected,1
+Greven,Hektvrs,Undirected,1
+Hortense,Løvcnstjerne,Undirected,1
+Løvcnstjerne,soni,Undirected,1
+Grev LøvcnstjcrncS,Munkholm,Undirected,1
+Louise,Munkholm,Undirected,9
+Lonise,italc,Undirected,1
+Louise,italc,Undirected,1
+Greven,Munkholm,Undirected,1
+Lonise,Munkholm,Undirected,2
+Graad,Lonise,Undirected,1
+Louise,Løvenstjcrne,Undirected,2
+Hortense,Taus,Undirected,1
+Diana,Greven,Undirected,1
+Greven,Øe,Undirected,1
+Comtesse de,Hortense,Undirected,2
+Comtesse de,Fontange,Undirected,1
+Hortcnsc,Paulscn,Undirected,1
+Hortense,Løvcnstjcrne,Undirected,2
+Hortcnsc,reisfe hun,Undirected,1
+Charnay,Holger,Undirected,4
+Holger,Lady Sidney,Undirected,18
+Charnay,Lady Sidney,Undirected,4
+Amelic,filsyne,Undirected,1
+Amelic,Hain,Undirected,1
+Amcties,de Charnay,Undirected,1
+Amelie,Baroucsscu,Undirected,1
+Baroucsscu,nctop,Undirected,1
+Charnay,Knce,Undirected,1
+Amelie,Knce,Undirected,1
+Graad,de Charnay,Undirected,1
+Holger,Mnnkholm,Undirected,1
+Holger,Munkholm,Undirected,9
+Amelie,ingcn,Undirected,1
+Gud,Louise,Undirected,7
+Charnay,Louise,Undirected,4
+Louise,hnn,Undirected,1
+Madam Louise,Madam Møller,Undirected,1
+Amelic,Louise,Undirected,2
+Madam Møller,paany,Undirected,1
+Amelie,Madam Møller,Undirected,4
+Munkholm,lille rare Frue,Undirected,1
+Amelic Munkholm,Amelie de Charnay,Undirected,1
+Amelie de Charnay,Gud,Undirected,1
+Amelie,Munkhols,Undirected,1
+Holger,Munkhols,Undirected,1
+Baron Munkholm,Øe,Undirected,1
+Amelie,Holger han,Undirected,1
+Holger,Holger han,Undirected,1
+Hansen,itale,Undirected,1
+Poulsen,hersens,Undirected,1
+Hansen,hans Gridflhcd,Undirected,1
+Hain,Hortensc,Undirected,1
+Munkholm,Mursvend Hansen,Undirected,2
+Hansen,Munkholm,Undirected,5
+Mursvend Hansen,Præsfens,Undirected,1
+Amclic,Amelic,Undirected,2
+Lille Jomfru Poulsen,Munkholm,Undirected,1
+Hansen,Lille Jomfru Poulsen,Undirected,1
+Hansen,Tsict,Undirected,1
+Hansen,Hortense Poulsen,Undirected,1
+Hansen,taus,Undirected,1
+Holger,Mylady,Undirected,2
+Holger Munkholm,Mylady,Undirected,1
+Lady Sidney,Munkholm,Undirected,11
+Lady Sidney,Sir Phillip,Undirected,1
+Holger,Sir Phillip,Undirected,1
+Holger,onl,Undirected,1
+Phillip,onl,Undirected,1
+Holger,Lady Sidncys Boudoir,Undirected,1
+Lady Sidncys Boudoir,Lady Sidney,Undirected,1
+Holger,Ladyen,Undirected,5
+Holger,Lady Sidney-,Undirected,1
+Ladyen,Munkholm,Undirected,3
+Baron,Lady Sidney,Undirected,1
+Baron,Vicomte de Charnay,Undirected,1
+Baron de Munkholm,Vicomte de Charnay,Undirected,1
+Baron de Munkholm,Munkholm,Undirected,1
+Lady SidncyS,Munkholm,Undirected,1
+Gud,Lady Sidney,Undirected,3
+Munkholm,Mylord,Undirected,1
+Lady Sidney,Mylord,Undirected,1
+Chanipagne,Lady Sidney,Undirected,1
+Lady Sidney,Theen,Undirected,1
+Munkholm,Theen,Undirected,1
+Lady,Munkholm,Undirected,3
+Baron Munkholm,Ladyen,Undirected,1
+Baron Munkholm,Louise,Undirected,1
+Louise,Mylady,Undirected,1
+Gud,Ladyen,Undirected,2
+Gud,voxen,Undirected,1
+Lord Sidney,voxen,Undirected,1
+Ladyen,Lorden,Undirected,1
+Munkholm,Mylady,Undirected,2
+De Charnay,Lord Sidney,Undirected,1
+Hortense,Lady Sidney,Undirected,5
+Amelie,hnn,Undirected,1
+Baron Munkholm,Phillip Phillar,Undirected,1
+Lady Sidney,Ladyen,Undirected,4
+Louise,Madam Møller,Undirected,7
+Amelie,iveien,Undirected,1
+Louise,iveien,Undirected,1
+Charnay,Gud,Undirected,2
+Jomfru Louise,Louise,Undirected,1
+Loniscs,Louise,Undirected,2
+Hr. de Charnay,Louise,Undirected,1
+Amelic,Hr. de Charnay,Undirected,1
+Kong David,Madam Møller,Undirected,2
+David,Gud,Undirected,1
+David,Møller,Undirected,1
+Møller,Sine,Undirected,1
+Sine,fog,Undirected,1
+David,Kong David,Undirected,1
+Charnay,Madam Møller,Undirected,1
+Amelie,Louise,Undirected,4
+Madam H.,Madam Møller,Undirected,1
+Jomfru Lonise,Madam Møller,Undirected,1
+Lonise,Madam Møller,Undirected,1
+Louise halv,Madam Møller,Undirected,1
+Jomfru Louise,Madam Møller,Undirected,2
+Jomfru Louise,Keiseren,Undirected,1
+Keiseren,Madam Møller,Undirected,1
+Krøsus,Madam Møller,Undirected,1
+Asfer,Munkholm,Undirected,1
+Charenti,Madame,Undirected,2
+Charenti,Giacomo,Undirected,1
+Charenti,Charnay,Undirected,1
+Charnay,noghc,Undirected,1
+Amelie,Charcnti,Undirected,1
+Charnay,Ladyen,Undirected,1
+Lady,Lady Sidney,Undirected,2
+Amelic,Charenti,Undirected,1
+Charenti,Madonna,Undirected,1
+Charcnti,Charnay,Undirected,2
+Charnay,uundhaaclig,Undirected,1
+Charenti,Mademoiselle,Undirected,1
+Amelie,Charenti,Undirected,2
+Charenti,Munkholm,Undirected,5
+Charenti,Signor,Undirected,6
+Charenti,Hortense,Undirected,4
+Charenti,Holger,Undirected,12
+Gud,skjæbuesv,Undirected,1
+Holger,MunkholmS,Undirected,1
+Holger,Læeg,Undirected,1
+Gud,Paulscn,Undirected,1
+Charenti,Signora,Undirected,1
+Charenti,Signore,Undirected,1
+Charenti,Tanler,Undirected,1
+Holger,Tanler,Undirected,1
+Baronesse Munkholm,Hortense,Undirected,2
+Hortense,de Charnay,Undirected,1
+Baronesse Munkholm,Charenti,Undirected,1
+Baron Munkholm,Hortense,Undirected,1
+Amelic,de Charnay,Undirected,1
+Hortense,de Charnay og Amelie,Undirected,1
+Baron,Mnnkholm,Undirected,1
+Mnnkholm,Munkholm,Undirected,1
+Lord Sidney,Nevcucn,Undirected,1
+Arthur Camcron,elsfe,Undirected,1
+Sidney,elsfe,Undirected,1
+Ncvcu,Sidney,Undirected,1
+Arthur Camcron,Ncvcu,Undirected,1
+Arthur Camcron,Arthurs,Undirected,1
+Arthurs,Lorden,Undirected,1
+Arthur,Lorden,Undirected,1
+Gemal,Lady Sidney,Undirected,1
+Arthur Eameron,Lady Sidney,Undirected,1
+Holger,ganstc,Undirected,1
+Holger,Lord Sidney,Undirected,1
+Holger,Plcbcjist,Undirected,1
+Eharenti,Holger,Undirected,1
+Charenti,Lady Sidney,Undirected,1
+Lady Sidney,randt Amelie,Undirected,1
+B aroncsscns,Hortense,Undirected,1
+B aroncsscns,gjcnfindc,Undirected,1
+Baronessens,Hortense,Undirected,1
+Baronessens,Taa rer,Undirected,1
+Gud,Holger,Undirected,1
+Holger,Lady Sidney flog,Undirected,1
+Hortense,Lady Sidney flog,Undirected,1
+Munkholm,Poulsen,Undirected,1
+Holger,Mademoiselle,Undirected,1
+De Charnay,Holger,Undirected,1
+Holger,ganfle,Undirected,2
+Holger,sine,Undirected,1
+sine,Øe,Undirected,1
+Holger,Hortense,Undirected,2
+Gaascn,Mursvcnd Hansen,Undirected,1
+Gaascn,Hansen,Undirected,1
+Madam Hansen,Munkholm,Undirected,1
+Caroline,Hansen,Undirected,1
+Hansen,Karolines,Undirected,1
+Hansen,Karoline,Undirected,1
+Hansen,hcnsank,Undirected,1
+Caroline,Ladyen,Undirected,2
+Engelsf,Lady Sidney,Undirected,1
+Caroline,Dansf,Undirected,1
+Dansf,Engelsf,Undirected,1
+Caroline,Lady Sidney,Undirected,8
+Caroline,Hortense,Undirected,2
+Caroline,Munkholm,Undirected,1
+Caroline,Gud,Undirected,2
+Ladyen,linder Kjørselcn,Undirected,1
+Lady Sidney,cngelsfe Postmcerker,Undirected,1
+Arthur Camcron,Lady Sidney,Undirected,1
+Saarfebcrcns,hnn,Undirected,2
+Lady Sidney,hnn,Undirected,3
+Arthur Cameron,Ladyen,Undirected,1
+Caroline,Svni,Undirected,1
+Caroline,Steffen Hansen,Undirected,1
+Hansen,Lady Sidney,Undirected,1
+Lady Sidney,Sands,Undirected,1
+Lady Sidney,Lord Sidney,Undirected,2
+Lady Sidney,Lord,Undirected,2
+Arthur,Lady Sidney,Undirected,15
+Arthur,Ladyen,Undirected,2
+Arthur,Gud,Undirected,3
+Ladyen,Sidney,Undirected,1
+Arthur,Sidney,Undirected,1
+Lady Sidney,Slridt,Undirected,1
+Alice,Arthur,Undirected,9
+Amors,Lady Sidney,Undirected,2
+Alice,Gud,Undirected,2
+Arthur,hnn,Undirected,2
+Alice,kjære,Undirected,1
+clsfcdc Alice,kjære,Undirected,1
+Gud,clsfcdc Alice,Undirected,1
+Gud,reis strax,Undirected,1
+Arthur,Lord Sidney,Undirected,2
+Jomfru Hansens,Ladyen,Undirected,1
+Madam Møller,Petere,Undirected,2
+Louise,Madam Diøllers,Undirected,1
+Munkholm,hans,Undirected,1
+Ester,Munkholm,Undirected,1
+Gud,Hortense,Undirected,1
+Charney,Lady Sidney,Undirected,1
+Hortense,Poulsen,Undirected,1
+Mnnkholm,minWusfrues,Undirected,1
+Grev Løvenstjerne,Munkholm,Undirected,1
+Hortense,Løvcnstjernc,Undirected,1
+Amelie,Lady Sidney,Undirected,3
+Eharcnti,Munkholm,Undirected,1
+Holger blæv,Munkholm,Undirected,1
+Holger,Holger blæv,Undirected,1
+Charenti blæv,Holger,Undirected,2
+Lagy Sidneys,Munkholm,Undirected,1
+Holger,Lagy Sidneys,Undirected,1
+Ladyen,hnn,Undirected,1
+hnn,paany,Undirected,1
+Lady Sidney,Munkhokm,Undirected,1
+AmelieS,Munkholm,Undirected,1
+Amelie,Baronessens,Undirected,1
+Hain,Hortense,Undirected,1
+Hortense,Louise,Undirected,1
+Graad,Munkholm,Undirected,1
+Poulsen,elfler,Undirected,1
+Grev Løvenstjerne,Hortenses longe,Undirected,1
+Gud,inin,Undirected,1
+Grev Løvcnstjernes,Hortense,Undirected,1
+Hortense,elsiet,Undirected,1
+Poulsen,elsiet,Undirected,1
+Charnay,Hortense,Undirected,1
+Louise,Petere,Undirected,2
+Laoy Sidney,Munkholm,Undirected,1
+Munkholm,derts,Undirected,1
+Jomfru Hansen,Lady Sidney,Undirected,1
+Jomfru Hansen,Mursvend Hansen,Undirected,1
+Hortense,Mursvend Hansen,Undirected,1
+Hansen,Hortense,Undirected,1
+Jomfru Hansen,tans,Undirected,1
+Hnn,Lady Sidney,Undirected,1
+Gud,Hanne,Undirected,1
+Alice,Lady Sidney,Undirected,2
+Amelie,Hortense,Undirected,3
+Alice Brighton,Arthur,Undirected,1
+Alice Brighton,Lady Sidney,Undirected,1
+Charney,Hortense,Undirected,1
+Dein,Hortense,Undirected,1
+Arthur,Charney,Undirected,2
+Arthur,Tidl. gere,Undirected,1
+Arthur,Munkholm,Undirected,1
+Gud,hnn,Undirected,1
+Amelie,Arthur,Undirected,1
+Arthur,Louise,Undirected,1
+Lady Sidney,as Lord,Undirected,1
+Baron Munkholm,Frøken Alices,Undirected,1
+Alice,hau,Undirected,1
+Baron Munkholm,Carl Holger,Undirected,1
+Arthur Camcron,Baron Munkholm,Undirected,1
+Arthur Camcron,Hortense Alice de Munkholm,Undirected,1
+Hortense Alice de Munkholm,Lord Sidney,Undirected,1
+Arthur,Lord,Undirected,1
+Lady Sidney,Sidney,Undirected,1
+Alice,Sidney,Undirected,1
+Arthur,Hortense,Undirected,1
+Hortense,init,Undirected,1
+Alice,Lord Sidney,Undirected,1
+Arthur,feircs,Undirected,1
+Holger,Sir Arthur,Undirected,1
+Lady Camcron,Sir Arthur,Undirected,1
+Munkholm,MunkholmS,Undirected,1
+Louise,MunkholmS,Undirected,1
+Charney,Louise,Undirected,1
+Amelie,Charney,Undirected,1
+Amelie,Hortensc,Undirected,1
+AmelleS,Hortensc,Undirected,1
+Peter,Peter Tordenskjold,Undirected,1
+Amelic,Peter,Undirected,1
+Du Charney,Peter,Undirected,2
+Du Charney,Hain,Undirected,1
+Gud,Lægcn,Undirected,1
+Jeppe,Jeppe Larsen,Undirected,1
+Jeppe,kjær,Undirected,1
+Hain,kjær,Undirected,1
+Charney,Peter,Undirected,1
+Charney,Madam Møller,Undirected,1
+Du Charney,Munkholm,Undirected,1
+Arthur,Peter,Undirected,1
+Arthur,Lady Hortcnses,Undirected,1
+Lady Hortcnses,Madam Møller,Undirected,1
+Jomfru Hansen,Louise,Undirected,1
+Hansen sorbrugtc,Jomfru Hansen,Undirected,1
+Greve,Løvcnstjcrnc,Undirected,1
+Amelie,Lady Hortense,Undirected,1
+Amelie,Charenti Muukholm,Undirected,1
+Charenti Muukholm,Holger,Undirected,1
+Arthur,Holger,Undirected,1
+Charnay,Urr,Undirected,1
+Urr,bølle Brunos,Undirected,1
+Holger,Peter,Undirected,1
+Jens,Niels,Undirected,1
+Mogens,Niels,Undirected,1
+Gud,Peter,Undirected,2
+Peter,lille Peter,Undirected,1
+alias Petrus,lille Peter,Undirected,1
+Mnnkholm,Sliftclsen,Undirected,1
+Baron Munkholm,Jomfru Louise,Undirected,1
+Baron Munkholm,Hortensc,Undirected,1
+Baron Munkholm,Baronesse Hortenses,Undirected,1
+Arthur,Lady Hortense,Undirected,1
+Gud,Jomfru Louise,Undirected,2
+Louise,Roes,Undirected,1
+Charnay,Jomfru Lonise,Undirected,1
+Eustachius,Pater,Undirected,1
+Madonna,Pateren,Undirected,1

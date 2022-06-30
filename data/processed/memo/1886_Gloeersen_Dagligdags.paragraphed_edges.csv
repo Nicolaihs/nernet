@@ -1,0 +1,302 @@
+source,target,type,weight
+binene,ei,Undirected,1
+Martens,heis,Undirected,1
+Per,heis,Undirected,1
+Per,skjont,Undirected,1
+Bertha,Hansens,Undirected,1
+Emilie,Hansens,Undirected,1
+Bertha,Emmy,Undirected,19
+Bertha,bie,Undirected,1
+Per,iland,Undirected,1
+Hansen,sorenskri veren,Undirected,1
+Bertha,jomfru Martens,Undirected,4
+La dogana,Solamento vestimenti,Undirected,1
+Solamento vestimenti,abiti,Undirected,1
+abiti,signore,Undirected,1
+San Marco,bella,Undirected,1
+Bertha,bella,Undirected,1
+Bertha,stelle,Undirected,1
+jomfru Al,stelle,Undirected,1
+Allen,sorenskri veren,Undirected,1
+Bertha,sorenskri veren,Undirected,1
+Allen,Bertha,Undirected,6
+Alartens,Bertha,Undirected,5
+Emmy,stakkar,Undirected,1
+Kapellan ifjor vår,berg,Undirected,1
+Agathe,Kapellan ifjor vår,Undirected,1
+Bang,kaptein Dankert,Undirected,2
+Bang,Emmy,Undirected,1
+Bertha,noddekjær,Undirected,1
+Emmy,Thorvald,Undirected,16
+Thorvald,stakkar,Undirected,2
+Emmy,Martens,Undirected,1
+Bertha,Martens,Undirected,8
+Bertha,binene,Undirected,1
+Stakkars,binene,Undirected,1
+Bertha,Stakkars,Undirected,3
+Bertha,Sigvald,Undirected,11
+Hansen,Sigvald,Undirected,2
+Emmy,Sigvald,Undirected,3
+Bertha,jevnedes,Undirected,1
+Bertha,dbren,Undirected,2
+Bertha,jomfru Alartens,Undirected,6
+forst,jomfru Alartens,Undirected,1
+Bertha,forst,Undirected,1
+Bertha,Jomfru Alartens,Undirected,4
+Agathe Langberg,Bertha Klem,Undirected,1
+Guds,frøken Agathe,Undirected,1
+Gud,Presten,Undirected,1
+Agathe,froken,Undirected,1
+Bekkers,Provsten,Undirected,1
+Luther,Melanchton,Undirected,1
+Jesus,åndens,Undirected,1
+Paulus,åndens,Undirected,1
+Agathe,Bertha,Undirected,19
+Bertha,landhandler Hansens,Undirected,1
+Bang,landhandler Hansens,Undirected,1
+Ingseth,kaptein Dankert,Undirected,1
+Ingseth,dore,Undirected,1
+Bertha,stakkar,Undirected,9
+Bertha,jente,Undirected,1
+jente,klein,Undirected,1
+Bertha,pol,Undirected,1
+Kristoffer,pol,Undirected,1
+Kristoffer,dilla,Undirected,1
+Gud,Ola Thors,Undirected,1
+Emmy,Gud,Undirected,1
+Emmy,trut,Undirected,1
+Bertha,froken,Undirected,1
+Bertha,paulun,Undirected,1
+Dagmar,Emmy,Undirected,1
+Agathe nesten,Emmy,Undirected,1
+Agathe nesten,Bertha,Undirected,1
+Bertha,Presten,Undirected,2
+Bertha,Dankert,Undirected,2
+Dankert,Emmy,Undirected,1
+Emmy,tein,Undirected,1
+Bertha,Per,Undirected,5
+Bertha,hiin,Undirected,2
+Hansen,jomfru Alartens,Undirected,2
+Berthas öine,Martens,Undirected,1
+Bertha,Berthas öine,Undirected,1
+Alen,kjære,Undirected,2
+Bertha,kjære,Undirected,1
+Alartens,jomfru Alartens,Undirected,1
+Jomfru Martens,jomfru Alartens,Undirected,1
+Bertha,Jomfru Martens,Undirected,1
+jå,kjære Bertha,Undirected,1
+Bertha,Jomfru Ålartens,Undirected,1
+Jomfru Ålartens,sbvnen,Undirected,1
+Jomfru Alartens,Klem,Undirected,1
+dbren,jomfru Martens,Undirected,2
+Kusken,Per,Undirected,1
+Alargit,Per,Undirected,1
+Alargit,inat,Undirected,1
+Per,inat,Undirected,1
+Gud,Per,Undirected,1
+Bertha,Gud,Undirected,2
+Per,rod,Undirected,1
+Dankert,Thorvald,Undirected,1
+Agathe,Dankert,Undirected,1
+Bertha,gutten,Undirected,1
+Emmy,Stakkars,Undirected,2
+Agathe,Emmy,Undirected,3
+Martens,jomfru Martens,Undirected,2
+Bertha fble,ulmaria,Undirected,1
+Valeriana sambuccifolia,ulmaria,Undirected,1
+Valeriana sambuccifolia,kjær,Undirected,1
+Bertha,Elvens,Undirected,1
+Alan,steile,Undirected,1
+Bertha,Sigvald Hansen,Undirected,8
+Bertha,Hansen,Undirected,2
+Bertha mindtes,Emmy,Undirected,1
+Alan,Sigvald Hansen,Undirected,1
+Bertha,hbie vidiekjær,Undirected,1
+berghelle,hbie vidiekjær,Undirected,1
+Bertha,fossen,Undirected,1
+Presten,fossen,Undirected,1
+Erik Lien,froken,Undirected,1
+Agathe,Sigvald Hansen,Undirected,4
+Agathe,Thorvald,Undirected,9
+Funckes,frbken Agathe Langberg,Undirected,1
+Adolf Bekker,frbken Agathe Langberg,Undirected,1
+Adolf,Emmy,Undirected,1
+Alan,Thorvald Langberg,Undirected,1
+Sigvald,Thorvald,Undirected,3
+Agathe,Sigvald,Undirected,2
+Sigvald,t,Undirected,1
+Alen Emmy,Sigvald,Undirected,1
+Agathe,Alen Emmy,Undirected,1
+Otilie liar,Stakkars,Undirected,1
+Otilie liar,tens,Undirected,1
+Alargit,selters,Undirected,1
+Alartens,Gud,Undirected,1
+Alartens,far,Undirected,1
+Margit,selters,Undirected,1
+Bertha,selters,Undirected,2
+Sigvald Hansen,ban,Undirected,1
+Bertha,Margit,Undirected,8
+Gunhild,Margit,Undirected,1
+Gunhild,Josse,Undirected,1
+Margit,Martens,Undirected,1
+froken,jbsses,Undirected,1
+Margit,froken,Undirected,1
+Margit,jbsses,Undirected,1
+Jbs,froken,Undirected,1
+Bertha,mbie,Undirected,1
+Bertha,XVI,Undirected,1
+Bertha,Dodstræt,Undirected,1
+Alor,stakkar,Undirected,1
+Bang,Bertha,Undirected,3
+gom,kjære froken,Undirected,1
+Alan,frbken,Undirected,1
+Alen,Gud,Undirected,1
+Bertha,Ingseth,Undirected,1
+Bertha,Sagfbrer Busk,Undirected,2
+Bertha,tor,Undirected,2
+Bertha,far,Undirected,1
+Klem,Sigvald Hansen,Undirected,1
+Sigvald Hansen,jomfru Martens,Undirected,1
+Agathe Langberg,Bertha,Undirected,1
+Alen,ban,Undirected,1
+Bertha,liun,Undirected,1
+Sigvald Hansen,liun,Undirected,1
+Agathe,lian,Undirected,1
+Aled,lian,Undirected,1
+Aled,bavde ban,Undirected,1
+Allen,ore,Undirected,1
+Bertha,ore,Undirected,1
+liendes,liun,Undirected,1
+Alargit,Bertha,Undirected,2
+Dankert,Eilert Langberg,Undirected,1
+D,hr. Dankerts,Undirected,1
+Astrid Langberg,Bertha,Undirected,1
+Bertha,Eilert Langberg,Undirected,1
+Bertha,Hedevig,Undirected,1
+Allen,Eilert Langberg,Undirected,1
+Bertha,kaptein Dankert,Undirected,1
+Agathe,kaptein Dankert,Undirected,1
+Agathe,Thorvald Langberg,Undirected,2
+Emmy,Thorvald Langberg,Undirected,4
+Busk,Hansen,Undirected,1
+Busk,Sigvald Hansen,Undirected,1
+Bertha,Hnn,Undirected,1
+Agathe,Hnn,Undirected,1
+Agathe,Bekker,Undirected,1
+Bekker,Bertha,Undirected,1
+Bang,Bekker,Undirected,1
+Bang,pastor,Undirected,1
+Arbo,Thorvald,Undirected,2
+Arbo,Sigvald,Undirected,1
+Agathe,hehdes,Undirected,1
+Sigvald,hehdes,Undirected,1
+Guercinos,Rafaels,Undirected,1
+Guercinos,Sigvald,Undirected,1
+Agathe,Aladonna Sistina,Undirected,1
+Bertha,Rafaels,Undirected,1
+Alange øine,Bertha,Undirected,1
+Alange øine,Sigvald,Undirected,1
+Thorvald,Walden,Undirected,7
+Walden,mödte,Undirected,1
+Thorvald,mödte,Undirected,1
+Emmy,Walden,Undirected,1
+Emmy,Thorvald'lod,Undirected,1
+Walden,nesten,Undirected,1
+Emmy,rodme,Undirected,1
+Bertha,rodme,Undirected,1
+Bertha,Thorvald,Undirected,5
+Bertha,Walden,Undirected,3
+Alen,Sigvald,Undirected,1
+Bertha,Dbren,Undirected,1
+Bertha,bbiet,Undirected,1
+Hedevig,kjære Gerhard,Undirected,1
+Gerhard,Hedevig,Undirected,1
+Bertha,Gerhard,Undirected,1
+Alit,stakkar,Undirected,1
+Hedevig,stakkar,Undirected,1
+Bang,Gerhard,Undirected,1
+Allen,Bertha besbge,Undirected,1
+Bertha,kjære Gerhard,Undirected,1
+Gerhard,Stakkars,Undirected,1
+Agathe,Walden,Undirected,3
+Agathe,Alen,Undirected,1
+Thorvald,far,Undirected,1
+Agathe,Gud,Undirected,1
+Hansen,Thorvald Langberg,Undirected,1
+Emmy,Hansen,Undirected,1
+Emmy,Weyse,Undirected,1
+Grieg,Weyse,Undirected,1
+Grieg,Kjerulf,Undirected,1
+Emmy,øine,Undirected,1
+Bertha,Emilie,Undirected,1
+Emilie,Ravn,Undirected,1
+Ravn,Stromsund,Undirected,1
+Stromsund,Walden,Undirected,1
+AValden,Emmy,Undirected,1
+Emmy,leie Alarthe kokkekone,Undirected,1
+Per,Svensen,Undirected,1
+Per,jaså,Undirected,1
+Margit,Per,Undirected,1
+Per,Sigvald Hansen,Undirected,1
+Allen,taffeluhrets,Undirected,1
+Bertha,livor,Undirected,1
+Anne,Oline,Undirected,1
+Margit,lian,Undirected,1
+Aler,hörte,Undirected,1
+Bertha,hörte,Undirected,1
+Bertha,bent,Undirected,1
+Martens,sj öreisen,Undirected,1
+Bertha,jomfru Ålartens,Undirected,1
+Alartens,Hedevig,Undirected,1
+k,kjære,Undirected,1
+Emmy Hansen,Langberg,Undirected,1
+Henry Greville,jomfru Martens,Undirected,1
+Gud,Henry Greville,Undirected,1
+Gud,lian,Undirected,1
+Bertha,Ålartens,Undirected,1
+Bertha,kjære froken,Undirected,1
+Bertha,pleier,Undirected,1
+Sigvald,pleier,Undirected,1
+Margit,Sigvald,Undirected,1
+Cicero,Homer,Undirected,1
+Homer,Passow,Undirected,1
+Aled,Bertha,Undirected,1
+toddy,tullup,Undirected,1
+Thorvald Langberg,Walden,Undirected,1
+candidat Hansen,jomfru Alartens,Undirected,1
+iland,kaptein Dankert,Undirected,1
+Hansen,iland,Undirected,1
+Dankert,Hansen,Undirected,1
+pastorens,tor,Undirected,1
+Walden,pastorens,Undirected,1
+Bekker,Thorvald,Undirected,1
+Thorvald,frøken Klem,Undirected,1
+Alan,Bertha,Undirected,1
+Aron,Thorvald,Undirected,1
+Aron,lo Agathe,Undirected,1
+Aron,Bertha,Undirected,1
+Alen,Emmy,Undirected,1
+Emmy,Kjære,Undirected,1
+Bang,Sigvald Hansen,Undirected,1
+Bertha,pebersvends,Undirected,2
+Provst Langberg,Thorvald,Undirected,1
+Sagfbrer Busk,iland,Undirected,1
+Tempora mutantur,iland,Undirected,1
+Kaptein Dankert,Zimmer,Undirected,1
+candidat,jomfru Martens,Undirected,1
+Erik Lien,Per,Undirected,1
+Martens,Sigvald,Undirected,1
+Dankert,Zimmer,Undirected,1
+Alen,Borken,Undirected,1
+Borken,Erik Lien,Undirected,1
+Bertha,Erik Lien,Undirected,1
+hombopathi,homoio,Undirected,1
+Klara,nei,Undirected,2
+Bertha,Klara,Undirected,1
+Erik Lien,Sigvald Hansen,Undirected,1
+Erik,Sigvald Hansen,Undirected,1
+Sigvald,sig,Undirected,1
+Borken,Erik,Undirected,1
+Erik,Sigvald,Undirected,3
+Erik,Kjbr,Undirected,1
+Sigvald,svbben,Undirected,1

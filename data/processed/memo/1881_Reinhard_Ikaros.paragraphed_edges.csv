@@ -1,0 +1,190 @@
+source,target,type,weight
+Hanne,Maren,Undirected,1
+Jensen,Kongsbaks,Undirected,1
+Frøken Parsbjærg,glaj,Undirected,1
+Jensen,Vilhelmine,Undirected,7
+Gud,Vilhelmine,Undirected,2
+Madam Strøms,Mølsted,Undirected,1
+Agnete,Aksel,Undirected,8
+Brentano,Madam Strøm,Undirected,1
+Brentano,Hoffmann,Undirected,1
+Aksel,von Strahlenheim,Undirected,1
+Rosenvinge,von Strahlenheim,Undirected,1
+Angelo,Rosenvinge,Undirected,1
+Agnete,Angelo,Undirected,1
+Aksel,Strøm,Undirected,1
+Frydendahl,Olsenlager,Undirected,1
+Faders,Gud,Undirected,1
+Frøken Hillerup,Parsbjærg,Undirected,1
+Frøken Hillerup,Karen,Undirected,1
+Frøken Parsbjærg,Karen,Undirected,1
+Karen,Møllers,Undirected,1
+L’,Parsbjærg,Undirected,1
+Kongsbak,L’,Undirected,1
+Helmerslund,Hr. Parsbjærg,Undirected,1
+Helmerslund,Parsbjærg,Undirected,1
+Filur,Møllers,Undirected,1
+Filur,Hr. Parsbjærg,Undirected,1
+Møller,Parsbjærg,Undirected,3
+Karen,Parsbjærg,Undirected,2
+Erik,Mogens,Undirected,10
+Henriksen,Karl,Undirected,1
+Erik,Karl,Undirected,1
+Erik,Henriksen,Undirected,1
+Diana,Henriksen,Undirected,1
+Erik,Karen,Undirected,3
+Aksel,Karen,Undirected,22
+Aksel,Erik,Undirected,1
+Aksel,Kasper Parsbjærg,Undirected,1
+Erik,Kasper Parsbjærg,Undirected,1
+Aksel,Parsbjærg,Undirected,2
+Aksel,Mogens,Undirected,4
+Aksel,Hr. Mogens,Undirected,1
+Hr. Mogens,Mogens,Undirected,1
+Mogens,Nielsens,Undirected,1
+Erik,Nielsens,Undirected,1
+Karen,Mogens,Undirected,4
+Karen,Langberg,Undirected,1
+Erik,Langberg,Undirected,1
+Erik,hombre,Undirected,1
+Hennings,hombre,Undirected,1
+Erik,Møller,Undirected,1
+Aksel,L’hombrebordet,Undirected,1
+Aksel,Hennings,Undirected,1
+Hennings,Karen,Undirected,1
+Frøken Hillerup,Gud,Undirected,1
+Karen,sist,Undirected,1
+Aksel,Amalie,Undirected,1
+Aksel,Vilhelmine,Undirected,17
+Amalie,Karen,Undirected,1
+Aksel,Frøken Hillerup,Undirected,1
+Aksel,K,Undirected,1
+Aksel,Jensen,Undirected,11
+Lieutenant Beck,Mogens,Undirected,1
+Beek,Gud,Undirected,1
+Beck,Gud,Undirected,1
+Aksel Jensen,Madam Frandsen,Undirected,1
+Madam Frandsen,Vilhelmine —,Undirected,1
+Kong Erik Glippmg,Vilhelmine —,Undirected,1
+Aksel,Madam Frandsen,Undirected,11
+Aksel,Olje,Undirected,1
+Jensen,Olje,Undirected,1
+Aksel,Møller,Undirected,7
+Madam Frandsen,Vilhelmine,Undirected,2
+Jensen,Madam Frandsen,Undirected,3
+Aksel,bereuen,Undirected,1
+Kong Erik Glipping,Stigs,Undirected,1
+Erik Glipping,Stigs,Undirected,1
+Erik Glipping,Erik nævnet,Undirected,2
+Gud,Madam Frandsen,Undirected,3
+Jensen,Karen,Undirected,6
+Aksel,Goethe,Undirected,1
+Goethe,Vilhelmine,Undirected,1
+Friederike von Sesenheim,Vilhelmine,Undirected,1
+Aksel,Friederike von Sesenheim,Undirected,1
+Karen,Principal,Undirected,1
+Frøken Parsbjærg,Principal,Undirected,1
+Aksel,Frøken Parsbjærg,Undirected,1
+Kongsbak,Mogens,Undirected,3
+Bakkus,Mogens,Undirected,1
+Ida Lagerstolpe,Juliane Lagerstolpe,Undirected,1
+Gøgen,Juliane,Undirected,1
+Ida,Juliane,Undirected,2
+James,s,Undirected,1
+Vilhelmine Kongsbak,s,Undirected,1
+Frøken Kongsbak,Vilhelmine Kongsbak,Undirected,1
+Kongsbak,Vilhelmine,Undirected,2
+Aksel,Frøken Kongsbak,Undirected,2
+Aksel,Madam Frandsen næmlig,Undirected,1
+Aksel,Kongsbak,Undirected,4
+Kongsbak,Madam Frandsen,Undirected,1
+Kongsbak,Madamen,Undirected,2
+Vilhelmine,sist,Undirected,1
+Jesus Kristus,Maria,Undirected,1
+Mutter,Vilhelmine,Undirected,1
+Karen,Vilhelmine,Undirected,8
+Karen,Vilhelmine Kongsbak,Undirected,1
+Erik,Parsbjærg,Undirected,1
+Alogens,Mogens,Undirected,1
+Minuter,Mogens,Undirected,1
+Gud,Mogens,Undirected,1
+Karen,Møller,Undirected,1
+Vilhelmine,mais je ne romps,Undirected,1
+Jensen,Strøm,Undirected,4
+Jensen,Prins Jørgens Gade,Undirected,1
+Prins Jørgens Gade,Strøm,Undirected,1
+Jensen,Salomons,Undirected,1
+Fausts,Salomons,Undirected,1
+Aksel Strøm,Jensen,Undirected,2
+Aksel Strøm,Vilhelmine,Undirected,1
+Agnete,Vilhelmine,Undirected,7
+Agnete,Jensen,Undirected,1
+Heises,Wagner,Undirected,1
+Vilhelmine Kongsbak,hans Austerlitzsol,Undirected,1
+Gram,Hr. Thorkildsen,Undirected,1
+Aksel Strøm,Gram,Undirected,1
+Aksel Strøm,Aksel Vilhelm Strøm,Undirected,1
+Aksel V. Strøm,Aksel Vilhelm Strøm,Undirected,1
+Gud,Johannes Ewald,Undirected,1
+Ewald,Johannes Falk,Undirected,1
+Johannes Ewald,Vilhelmine,Undirected,1
+Frøken Blom,H. F.,Undirected,1
+Penelopes,s,Undirected,1
+Vilhelmine,s,Undirected,1
+Thorkildsen,Vilhelmine,Undirected,3
+Auerbach,Vilhelmine,Undirected,1
+Agnete,Strøm,Undirected,4
+Gud,Strøm,Undirected,2
+Frøken Strøms,Vilhelmine,Undirected,1
+Gud,véd,Undirected,3
+Holmer,Thorkildsen,Undirected,4
+Agnete,Holmer,Undirected,2
+Holm,Thorkildsen,Undirected,1
+Holm,Strøm,Undirected,1
+Godskesen,Holmer,Undirected,1
+Godskesen,Thorkildsen,Undirected,3
+Gram,Thorkildsen,Undirected,2
+Aksel,Gram,Undirected,1
+Bollers,Holmer,Undirected,1
+Gud,Holmer,Undirected,1
+Møller,véd,Undirected,1
+Bravo,Thorkildsen,Undirected,1
+Octavias,Vilhelmine,Undirected,1
+Treschows,Vilhelmine,Undirected,1
+Strøm,Treschows,Undirected,1
+Strøm,Vilhelmine,Undirected,7
+Octavia,Vilhelmine,Undirected,5
+Karen,Octavia,Undirected,3
+Frøken Parsbiærg,Vilhelmine,Undirected,1
+Frøken Parsbiærg,Karen,Undirected,1
+Karen,Karen Parsbjærg,Undirected,2
+Adagio,Guicciardi,Undirected,1
+Guicciardi,Maaneglans,Undirected,1
+Karen,Strøm,Undirected,3
+Frøken Parsbjærg,Macaulays,Undirected,1
+Karen,Maanelys,Undirected,1
+Karen,Macaulay,Undirected,1
+Heiberg,hans Erik Glipping,Undirected,2
+Heiberg,Ibsens,Undirected,1
+Erik Glipping,Karen,Undirected,2
+Georg jensen,Jensen,Undirected,1
+Sirtses,Thorkildsen,Undirected,1
+Jensen,Thorkildsen,Undirected,3
+Falkman,Jensen,Undirected,2
+Falkman,Thorkildsen,Undirected,1
+Jensen,Musas,Undirected,1
+Karen,Musa,Undirected,1
+Lauras,Musa,Undirected,1
+Dantes,Lauras,Undirected,1
+Beatrices,Dantes,Undirected,1
+Beatrices,Erik Glipping,Undirected,1
+Holmer,Vilhelmine,Undirected,2
+Godskesen,Gram,Undirected,2
+Kong Erik Glipping,Strøm,Undirected,1
+Strøm,Thorkildsen,Undirected,1
+Falkman,Georg Jensen,Undirected,1
+Ibsen,Strøm,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Godskesen,Strøm,Undirected,1
+Applaus,Jens Grand,Undirected,1
+Agnete,Gud,Undirected,2

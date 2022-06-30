@@ -1,0 +1,141 @@
+source,target,type,weight
+Hilda,orinde Sasfers,Undirected,1
+orinde Sasfers,von,Undirected,1
+Rosenstein,von,Undirected,1
+Saffer,ke,Undirected,2
+Ore,Saffer,Undirected,1
+Ore,Rosenstein,Undirected,1
+Rosenstein,Röhse,Undirected,1
+Aaget,Hnn,Undirected,1
+Hnn,Rosenstein,Undirected,1
+Aukfion,Hilda,Undirected,1
+Mama,Yfring,Undirected,1
+Hilda,Ojnes,Undirected,1
+Mama,Ojnes,Undirected,1
+Hilda,Hr. Meier,Undirected,1
+Assked,Hilda,Undirected,1
+Albert Wernick,Hr. Meier,Undirected,1
+Alberts,Hilda,Undirected,1
+Albert,Alberts,Undirected,1
+asser,strax,Undirected,1
+Hilda,hnn,Undirected,8
+Hilda,Wernicks,Undirected,1
+Wernick,Wernicks,Undirected,1
+Hilda,Wernick,Undirected,3
+Frn Saffer,Hilda,Undirected,1
+Frn Saffer,Nosensteins,Undirected,1
+Albert Wernick,Hilda,Undirected,1
+Albert,Hilda,Undirected,43
+Albert,Brown,Undirected,2
+Albert,Monsieur Vernicq,Undirected,1
+Kong Frederiks,Nik,Undirected,1
+Hilda,Vernicq,Undirected,44
+Hilda,Jægermester Brown,Undirected,1
+Elsfer,Hilda,Undirected,1
+Hilda,fog,Undirected,2
+Guds,Hilda,Undirected,1
+Ore,Vernicq,Undirected,1
+Saffer,Vernicq,Undirected,2
+Hilda,Mr. Vernicq,Undirected,2
+Brene,Hilda,Undirected,1
+Mr. Vernicq,Vernicq,Undirected,2
+Hilda,ane,Undirected,1
+Safser,Vernicq,Undirected,1
+Bjne,Vernicq,Undirected,1
+Gud,Vernicq,Undirected,3
+Bjne,Hilda,Undirected,1
+Gud,Hilda,Undirected,12
+Hilda,Rosensfeins,Undirected,1
+Rosensfeins,Vernicq,Undirected,1
+Hilda,Monsieur Vernicq,Undirected,1
+Monsieur Vernicq,Oren,Undirected,1
+Oren,Vernicq,Undirected,1
+Luthers,Vernicq,Undirected,2
+Henrik Rohse-Vernicq,Hilda,Undirected,1
+Henrik Rohse-Vernicq,von,Undirected,1
+Kur,Vernicq,Undirected,1
+Henrik,Vernicq,Undirected,2
+Albert,Vernicq,Undirected,2
+Knsfeu,Vernicq,Undirected,1
+Henrik,Hilda,Undirected,43
+Henrik,sif,Undirected,2
+Albert,Henrik,Undirected,41
+Hilda,sif Legems,Undirected,1
+sif,sif Legems,Undirected,1
+hnn,sif,Undirected,1
+Grums,Hilda,Undirected,1
+Grums,Gud,Undirected,1
+Gnds,hnn,Undirected,1
+Gnds,Hilda,Undirected,1
+Hilda,Mademoiselle Adele Tissaud,Undirected,2
+Albert,Camusat,Undirected,1
+Camusat,Henrik,Undirected,3
+Hilda,Mlle,Undirected,1
+Adeles,Mlle,Undirected,1
+Adeles,Albert,Undirected,1
+Adele,Henrik,Undirected,53
+Adele,Albert,Undirected,24
+Gud,Henrik,Undirected,5
+Adele,Hilda,Undirected,21
+Henrik,Orene,Undirected,1
+Adele,flet,Undirected,1
+Gud,Kristus,Undirected,2
+Florents,Hilda,Undirected,1
+Adele,Florents,Undirected,2
+Camusat,hnn,Undirected,1
+Florents,H. —,Undirected,1
+Hilda,Oscar,Undirected,9
+Adele,hnn,Undirected,2
+Henrik,hnn,Undirected,1
+Adele,Oscar,Undirected,2
+Hilda,lille Oscar,Undirected,1
+Henrik,lille Oscar,Undirected,1
+Oscar,hnn,Undirected,3
+Mama,Oscar,Undirected,1
+Albert,Mama,Undirected,1
+Albert,Oscar,Undirected,13
+Henrik,Oscar,Undirected,5
+Hilda,hans Bjne,Undirected,1
+Hilda,hans Oren,Undirected,1
+Adele,Bje,Undirected,1
+Albert,Tu,Undirected,1
+Henrik,Tu,Undirected,1
+Henrik,Taalmod,Undirected,1
+Albert,fig,Undirected,1
+Adsles,fig,Undirected,1
+Adsles,Henrik,Undirected,1
+Mme,hnn,Undirected,1
+Camusat,Mme,Undirected,1
+Oscar,lille Antoinette,Undirected,1
+Henrik,lille Antoinette,Undirected,1
+Antoinette,Hilda,Undirected,4
+Hilda,Tu,Undirected,1
+Antoinette,Tu,Undirected,1
+Antoinette,Oscar,Undirected,13
+Gud,Oscar,Undirected,1
+Mesfres,Oscar,Undirected,1
+Didhen,Mesfres,Undirected,1
+Didhen,Gud,Undirected,1
+Oscar,Tyfus,Undirected,1
+Oscar,sthi,Undirected,1
+Albert,hnn,Undirected,2
+ban,hnn,Undirected,1
+Bjne,Oscar,Undirected,1
+Oscar,Tanfe,Undirected,1
+Albert,Antoinette,Undirected,3
+Albert,Antoinette voxede,Undirected,1
+Ore,Oscar,Undirected,2
+Kristus,Oren,Undirected,1
+Antoinette,Hypathias,Undirected,2
+Hypathias,hnn,Undirected,1
+Oscar,dernæsf,Undirected,1
+Antoinette,Dido,Undirected,1
+Antoinette,R,Undirected,1
+Hypathia,Oscar,Undirected,1
+Hypathia,Jørden,Undirected,1
+Albert,Gud,Undirected,1
+Albert,Olsen,Undirected,1
+Olsen,Oscar,Undirected,1
+Axel Brun,Oscar,Undirected,1
+Axel Brun,K,Undirected,1
+Dn,Pathos,Undirected,1

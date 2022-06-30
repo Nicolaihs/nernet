@@ -1,0 +1,290 @@
+source,target,type,weight
+Emilie,Klara,Undirected,19
+Emilie Borgen,Klara,Undirected,1
+Emilie Borgen,Emilie Lindstrøm,Undirected,1
+Lieutenanten,sljal,Undirected,1
+Frøken Lindstrøm,Mortensen,Undirected,1
+Frøken Holm,Mortensen,Undirected,4
+Frøken Holm,Hr. Mortensen,Undirected,1
+Klara,Mortensen,Undirected,1
+Klara,ester,Undirected,1
+Fader,Klara,Undirected,1
+Emilie,Etatsraad Berg,Undirected,1
+Emilie,lille Klara,Undirected,1
+Fader,ester,Undirected,1
+Krisfensen,Mortensen,Undirected,3
+Emilie,Fader,Undirected,1
+Klara,Krum,Undirected,1
+Gartner Hansens,rasfe,Undirected,1
+Jørgensen,Klara,Undirected,4
+Emilie,Jørgensen,Undirected,4
+Emilie,Hr. Jørgensen,Undirected,1
+Vilhelmine,altfaa,Undirected,2
+Jørgensen,Kristensen,Undirected,2
+Klara,Viktor,Undirected,10
+Bergs,Gartner Hansens,Undirected,1
+Etatsraad Bergs Have,Hansens,Undirected,1
+Gartner Hansens,Jørgensen,Undirected,1
+,er,Undirected,1
+Klara,er,Undirected,1
+Frøken,Klara,Undirected,1
+Eva,Klara,Undirected,1
+Hr. Dahl,Viktor,Undirected,1
+Klara,Mo,Undirected,1
+Villiam Dahl,stoar,Undirected,1
+Villiam Dahl,clsar Anderson,Undirected,1
+Anderson,äoar,Undirected,1
+Ester,Villiam Dahl,Undirected,1
+Mr. Anderson,plsuZs,Undirected,1
+Hansen,krienst,Undirected,1
+Villiam Dahl,krienst,Undirected,1
+Klara Hansens,Villiam Dahl,Undirected,1
+Per,Poul,Undirected,1
+Villiam Dahl,clara,Undirected,1
+Klara Hansen,Villiam Dahl,Undirected,9
+Klara Hansen,Villiam,Undirected,1
+Gaffel,Skaal,Undirected,1
+Hansen,Skaal,Undirected,1
+Hansen,Letbens,Undirected,1
+Hansen,Villiam Dahl,Undirected,1
+Frøken,Viktor,Undirected,1
+Fisker Hans Klitbo,Viktor,Undirected,1
+Klara Hansen,Mo,Undirected,1
+Mo,Villiam Dahl,Undirected,1
+Hansen,Klara,Undirected,1
+Hansen,Steinfeldt,Undirected,2
+Etatsraad Berg,Letben,Undirected,1
+Karl,Letben,Undirected,1
+Guds,Klara,Undirected,1
+Jørgensen,Kudfls,Undirected,1
+Klara,slilles,Undirected,1
+Sønnike,Villiam Dahl,Undirected,1
+Emilie,elsiede,Undirected,2
+Georg,elsiede,Undirected,2
+Viktor,dans,Undirected,1
+Etatsraad Berg,dans,Undirected,1
+L.,W.,Undirected,1
+alriaa,dun,Undirected,1
+Klara,Wiliam Dahl,Undirected,1
+Mo,Wiliam Dahl,Undirected,1
+Klara Hansen,Wiliam Dahl,Undirected,1
+Klara Hansen,William Dahl,Undirected,9
+Mo,Moer,Undirected,1
+Benner,kellov,Undirected,1
+Gud,jæg,Undirected,1
+Gud,véd,Undirected,1
+jæg,véd,Undirected,1
+Klara Hansen,Viktor Bergs,Undirected,1
+Klara,William Dahl,Undirected,5
+Klara Søgaard,riu,Undirected,1
+Klara Hansen,William,Undirected,2
+Klara,William,Undirected,10
+Adrc,Søgaard,Undirected,1
+Karl Søgaard,feg,Undirected,1
+Hr. Søgaard,Klara,Undirected,1
+Bo,Karl Søgaard,Undirected,1
+Karl,Steinfeldt,Undirected,2
+Elsfer,Steinfeldt,Undirected,1
+Madam Krum,Steinfeldt,Undirected,4
+Karl Ssgaards,Steinfeldt,Undirected,1
+Karl,William,Undirected,2
+Klara,hnn,Undirected,1
+Gud,Karl Søgaard,Undirected,1
+Karl,as,Undirected,1
+Madam,Steinfeldt,Undirected,2
+Steinfeldt,lille Villiam,Undirected,1
+Krum,Madam,Undirected,1
+Madam Krum,Villiam,Undirected,1
+Hcxeri,lille Villiam,Undirected,1
+Karl,Stejnfcldt,Undirected,2
+Karl,Madam,Undirected,1
+Madam Krum,lille Klara,Undirected,1
+Moer Krum,lille Klara,Undirected,1
+Klara,Madam Krum,Undirected,2
+William,lille Klara,Undirected,1
+Barner,Klara,Undirected,1
+Grevinde Barncrs,Steinfeldt,Undirected,1
+Madam Krum,nn,Undirected,1
+Madam Krum,Moer Krum,Undirected,1
+Steinfeldt,William,Undirected,1
+Zoll,kollmv,Undirected,1
+Klara Hansen,Zoll,Undirected,1
+Klara Berg,Klara Hansen,Undirected,1
+Klara Berg,William Dahl,Undirected,1
+Mst,William,Undirected,1
+Gud,Klara Hansen,Undirected,1
+Gud,Klara,Undirected,1
+Hansen,Partiknlier Jensen,Undirected,1
+Partiknlier Jensen,William Dahl,Undirected,1
+Klara,Steinfeldt,Undirected,1
+Steinfeldt,Viktor Berg,Undirected,1
+Steinfeldt,William Dahl,Undirected,1
+Klara,Viktor Berg,Undirected,1
+Ester,deBoutikcn,Undirected,1
+Antonius,Noch,Undirected,1
+Krisfensen,ester,Undirected,1
+Herkules,tllutis tlle huestion,Undirected,1
+William Dahl,tllutis tlle huestion,Undirected,1
+Orcn,hörende,Undirected,1
+Hnn,Jørgensen,Undirected,1
+faa,Øe,Undirected,1
+Kristensen,hans,Undirected,1
+Viktor Berg,kim,Undirected,1
+William Dahl,William Søgaard,Undirected,1
+Jørgensen,Krisfensen,Undirected,1
+Krisfensen,Nansen,Undirected,1
+Ester,William Søgaard,Undirected,1
+William Søgaard,hnn,Undirected,1
+Damms,William Søgaard,Undirected,1
+Oll,oll,Undirected,1
+Mr. Søgaard,William Søgaard,Undirected,1
+Don Juan cis Valladolid,Grande,Undirected,1
+Don Juan,Grande,Undirected,1
+Don Juan,Granden,Undirected,2
+Grande,Sands,Undirected,1
+Don Juan de Balladolid,ester Faders,Undirected,1
+Fader,Grande,Undirected,1
+Don Juan de Valladolid,Oskar Eriksen,Undirected,1
+Granden,Oskar Eriksen,Undirected,1
+Adre,OSkar Eriksen,Undirected,1
+mr,sknlde,Undirected,1
+Miss Rose,Mr. Oskar Eriksen,Undirected,1
+Miss Rose,Wlliam Søgaard,Undirected,1
+Villiam Søgaard,William Søgaard,Undirected,1
+Dn,Miss Rose,Undirected,2
+William Søgaard,cisar krienll,Undirected,1
+Miss Rose,cisar krienll,Undirected,1
+Miss Rose,as,Undirected,1
+Miss Rose,William Søgaard,Undirected,12
+Don Juan,Miss Rose,Undirected,1
+Don Juan de Valladolid,Mr. William,Undirected,1
+mein Liebchen,was willsf Dn noch mehr,Undirected,1
+tralalala,was willsf Dn noch mehr,Undirected,1
+Oskar Eriksen,William Søgaard,Undirected,3
+Miss Rose,William Dahl,Undirected,4
+Miss Rose,Oskar Eriksen,Undirected,2
+Miss Rose,Mr. Søgaard,Undirected,1
+Miss Rose,Mr. Eriksen,Undirected,1
+Miss Rose,Nuvel,Undirected,1
+Don Juan de Valladolid,William Søgaard,Undirected,1
+Miss Rose,Mr. William,Undirected,1
+Rose,William Ssgaard,Undirected,1
+Oskar Eriksen,William Ssgaard,Undirected,1
+Frn Søgaard,William,Undirected,1
+Das,müssen,Undirected,1
+Jørgensen,Madam Jørgensens,Undirected,1
+Vesrindianerindc,William Dahl,Undirected,1
+Oskar Eriksen,Vesrindianerindc,Undirected,1
+Rose sknlde,William Dahl,Undirected,1
+Loninots,Miss Rose,Undirected,1
+Loninots,William Dahl,Undirected,1
+Hnn,William Dahl,Undirected,1
+Branner,Miss Rose,Undirected,1
+Oskar Eriksen,William Dahl,Undirected,3
+Miss Rose,Tydsk,Undirected,1
+Miss Rose,huw,Undirected,1
+Eriksen,Miss Rose,Undirected,7
+Don Juan de Walladolid,Grande,Undirected,1
+Steiner,Wilhelm Jürgensen,Undirected,1
+Grande Don Juan de Valladolid,Steiner,Undirected,1
+Don Juan de Valladolid,Miss Rose,Undirected,3
+Kunsfner,Miss Røse,Undirected,1
+Miss Røse,William Søgaard,Undirected,1
+William Søgaard,netcp,Undirected,1
+Rose,William Søgaard,Undirected,1
+Eriksen,Steiner,Undirected,3
+Steiner,William Søgaard,Undirected,1
+Eriksen,William Søgaard,Undirected,2
+Grande,Miss Rose,Undirected,1
+Eriksen,Grande,Undirected,1
+Miss Rose,Willigm Søgaard,Undirected,1
+Miss Rose,William Ssgaard,Undirected,1
+Grande Don Juan de Valadolid,Miss Rose,Undirected,1
+Don Juan de Valadolid,Don Juan de Valladolid,Undirected,1
+Steiner,Stemer,Undirected,1
+Franz Josephssfraße,Steiner,Undirected,2
+Miss Rose,Steiner,Undirected,1
+Don Juan de Valladolid,Franz Josephssfraße,Undirected,1
+Eriksen,Franz Josephssfraße,Undirected,2
+Miss Rose,Willlam Søgaard,Undirected,1
+Eriksen,Willlam Søgaard,Undirected,1
+Don Juan de Valladolid,Sennora,Undirected,1
+Miss Rose,Øe,Undirected,1
+Dørcn,William Søgaard,Undirected,1
+Rose,flog,Undirected,1
+William Søgaard,flog,Undirected,1
+Villie,William Søgaard,Undirected,1
+Don Juan deValadolid,William Søgaard,Undirected,1
+Dn,Sørensen,Undirected,1
+Kristensen,Sørensen,Undirected,2
+Dn,Kristensen,Undirected,3
+fog Bakken,paany,Undirected,1
+Ojnc,mcd,Undirected,1
+Kristensen,Tanshed,Undirected,1
+Gud,Hr. Thyrstrup,Undirected,1
+Hr. Thyrstrup,X.,Undirected,1
+Ane,Jørgensen,Undirected,1
+Emilie,wen,Undirected,1
+Emilie,Sødesfe,Undirected,1
+Avor,Emilie,Undirected,1
+Avor,Sofus Karl Augu,Undirected,1
+Emilie,Karl Sofus Augustus,Undirected,1
+Dn,William Søgaard,Undirected,2
+Bin,William Søgaard,Undirected,1
+William Ssgaard,mein lieber Herr,Undirected,1
+Figaro,Klothildc Mathisen,Undirected,1
+Bravo,William Søgaard,Undirected,1
+Figaro,Frøken Klothildc,Undirected,1
+Frøken Klothildc,fragaas,Undirected,1
+Frøkm Klothilde,Oljetryksmandms,Undirected,1
+Klothilde,Tuderup,Undirected,1
+Hr. Tudernp,Tante,Undirected,1
+Fiølen Klothilde,William Søgaard,Undirected,1
+Klothilde,Søgaard,Undirected,2
+Hr. Ssgaard,Klothilde,Undirected,1
+Oret,William Søgaard,Undirected,1
+Nat,William Søgaard,Undirected,1
+Hnhaha,j,Undirected,1
+Klothilde,William,Undirected,1
+Tuderup,William Søgaard,Undirected,5
+Gud,Søgaard,Undirected,1
+Gud,William Ssgaard,Undirected,1
+Klothilde,William Søgaard,Undirected,4
+Karoline,Tuderup,Undirected,4
+Karoline,William Søgaard,Undirected,3
+Gud,Karoline,Undirected,1
+William Søgaard,paany,Undirected,1
+Gud,Tuderup,Undirected,1
+Mr. William Søgaard,jaf,Undirected,1
+Ben Søgaard,Tuderup,Undirected,1
+Gud,fe,Undirected,1
+fe,Øe,Undirected,1
+Asen,Gud,Undirected,1
+Klothilde,hnn,Undirected,1
+Frøken Klothilde,cisur krienci,Undirected,1
+William,William Søgaard,Undirected,1
+Emmeline,Tudernp,Undirected,1
+Emmeline,Tuderup,Undirected,2
+Klothildcs,Tuderup,Undirected,1
+Emmeline,William Søgaard,Undirected,1
+Graad,Hr. Tuderup,Undirected,1
+Hr. Tuderup,William Søgaard,Undirected,1
+Karoline,as,Undirected,1
+Asen,Karoline,Undirected,1
+Hr. Søgaard,Hr. Tuderup,Undirected,1
+Hnn,Tuderup,Undirected,1
+Emmeline,Kaveline,Undirected,1
+Emmeline,strængt,Undirected,1
+William Søgaard,clara,Undirected,1
+Emeline,William Søgaard,Undirected,1
+Hanfes,Klothilde,Undirected,1
+Gud,Klothilde,Undirected,1
+Karoline,volens,Undirected,1
+Bille Brahesvcj,William Søgaard,Undirected,1
+Ojne,William Ssgaard,Undirected,1
+Stejnfeldt,William Ssgaard,Undirected,1
+"Stejnfeldt,",William Søgaard,Undirected,1
+Jørgensen,den Stuckone,Undirected,1
+Emmeline,line,Undirected,1
+H,Karoline,Undirected,1
+Berg,Klara,Undirected,1

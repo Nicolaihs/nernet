@@ -1,0 +1,775 @@
+source,target,type,weight
+Kong Frederiks,Peter Schumacher,Undirected,1
+Geheimeraad Christoffer Gabel,Kong Frederiks,Undirected,1
+Geheimeraad Christoffer Gabel,Kong Christians,Undirected,1
+Kong Christians,Morten Skinkel,Undirected,1
+Geheimeraad Gabels,Schumacher,Undirected,1
+Kong Frederiks,Schumacher,Undirected,3
+Christian,Kong Frederiks,Undirected,1
+Christian,Sophie Amalie,Undirected,1
+Schumacher,Sophie Amalie,Undirected,1
+Frederik,Schumacher,Undirected,2
+Gabel,Schumacher,Undirected,1
+Prinds,Schumacher,Undirected,2
+Kong Christian,Schumacher,Undirected,3
+Kong Christian,Kong Frederiks,Undirected,1
+Kong Frederiks,Ulrik Frederik Gyldenløve,Undirected,1
+Morten Skinkel,Ulrik Frederik Gyldenløve,Undirected,1
+Adam Levin Knuth,Morten Skinkel,Undirected,1
+Adam Levin Knuth,Sjelden,Undirected,1
+Christian,Sjelden,Undirected,1
+Christian,Peter Schumacher,Undirected,1
+La pluma dirige el hierro,Schumacher,Undirected,1
+Christian,Schumacher,Undirected,2
+Schumacher,souverain,Undirected,1
+Arnested for,souverain,Undirected,1
+Arnested for,Schumacher,Undirected,1
+Knuth,Schumacher,Undirected,3
+Hans Ruprecht,Schumacher,Undirected,1
+Schumacher,Skinkel,Undirected,4
+Ruprecht,Schumacher,Undirected,2
+Monsieur Knuth,Schumacher,Undirected,1
+Jens Friis,Schumacher,Undirected,2
+Jens Friis,Prinds Jørgen,Undirected,2
+Jens,Prinds Jørgen,Undirected,1
+Jens,Schumacher,Undirected,1
+Giger,Kong Christian,Undirected,1
+Corfitz Ulfelds,Kong Christian,Undirected,1
+Christine,Corfitz Ulfelds,Undirected,1
+Jakob,Lea,Undirected,1
+Gud,Lea,Undirected,1
+Hans Nansen,Kong Frederik,Undirected,1
+Hans Nansen,Sophie Hansdatter,Undirected,2
+Sophie Hansdatter,ilive,Undirected,1
+Mikkels,ilive,Undirected,1
+Døttre,Mikkels,Undirected,1
+Catharina,Døttre,Undirected,1
+Catharina,Sophie,Undirected,1
+Elisabeth,Sophie,Undirected,3
+Catharina,Elisabeth,Undirected,2
+Catharina,Sophie Hansdatter,Undirected,1
+Kong Fredriks,Sophie Hansdatter,Undirected,1
+Peter Schumacher,Sophie Hansdatter,Undirected,1
+Marie Motzfeld,Peter Schumacher,Undirected,1
+Catharina,Jørgen Fog,Undirected,1
+Albert,Jørgen Fog,Undirected,1
+Albert,Esaias Fleischer,Undirected,1
+Esaias Fleischer,Rasmus Vinding,Undirected,2
+Rasmus Vinding,Schumacher,Undirected,1
+Jørgen Fog,Schumacher,Undirected,1
+Esaias Fleischer,Sophie Hansdatter,Undirected,1
+Schumacher,Sophie Hansdatter,Undirected,1
+Catharina,Margrethe,Undirected,3
+Kong Frederik,Sophie Amalie Moth,Undirected,1
+Kong Frederik,Povel Moth,Undirected,1
+Madam Ide,Povel Moth,Undirected,1
+Catharina Nansen,Margrethe Eilersen,Undirected,3
+Jørgen Eilersen,Margrethe Eilersen,Undirected,1
+Margrethe Eilersen,Sophie Amalie Moth,Undirected,2
+Catharina Nansen,Sophie Amalie Moth,Undirected,2
+Albert Schumacher,Catharina Nansen,Undirected,1
+Albert Schumacher,Didrik Fiursen,Undirected,1
+Didrik Fiursen,Margrethe Eilersen,Undirected,1
+Didrik,Margrethe Eilersen,Undirected,1
+Didrik,Fiursen,Undirected,1
+Catharina Nansen,Fiursen,Undirected,1
+Catharina Nansen,Sophie,Undirected,1
+Elisabeth ragne,Sophie,Undirected,2
+Elisabeth,Gyldenløve,Undirected,1
+Marie Grubbe,Sophie Amalie,Undirected,1
+Margrethe Eilersen,Sophie,Undirected,2
+Hr. Gyldenløve,Margrethe Eilersen,Undirected,1
+Elisabeth,Sophie Nansen,Undirected,1
+Elisabeth,Sophie Amalie,Undirected,1
+Prinds,lille Sophie,Undirected,1
+Schumacher,Sophie Moth,Undirected,3
+Jørgen Bjelke,Schumacher,Undirected,2
+Jørgen Bjelke,Sybille Gersdorff,Undirected,1
+Joachim Gersdorff,Roeskilde,Undirected,1
+Roeskilde,vellem me nescire litteras,Undirected,1
+Gud,Marie Schumacher,Undirected,2
+Marie Schumacher,lee,Undirected,1
+Rasmus Vinding,lee,Undirected,1
+Bjelke,Peter Schumacher,Undirected,1
+Schumacher,Snille,Undirected,1
+Bjelke,Schumacher,Undirected,4
+Catharina Nansen,Schumacher,Undirected,1
+Catharina,Sophie Amalie Moth,Undirected,1
+Catharina,Gud,Undirected,3
+Gud,signe,Undirected,1
+Catharina,Schumacher,Undirected,2
+Charlotte,Sophie Amalie,Undirected,3
+Kong Christian,Sophie Amalie,Undirected,1
+Jens Friis,hans,Undirected,1
+"Ernst,",hans,Undirected,2
+Frederik Gyldenløves,hans,Undirected,1
+Jean,Jens,Undirected,1
+Ernst,Monsieur Schumacher,Undirected,1
+Adam,Knuth,Undirected,1
+Gyldenløve,Hahn,Undirected,1
+Gyldenløve,Schumacher,Undirected,5
+Hahn,Knuth,Undirected,7
+Karl,Knuth,Undirected,1
+Bastardens,Knuth,Undirected,1
+Bastardens,ma foi,Undirected,1
+Hahn,Schumacher,Undirected,4
+Excellentsens,Schumacher,Undirected,2
+Schumacher,Ulrik Frederik Gyldenløve,Undirected,1
+Gyldenløve,Ulrik Frederik Gyldenløve,Undirected,1
+Gyldenløve,Nidkjær,Undirected,1
+Jupiter,Nidkjær,Undirected,1
+Jupiter,Schumacher,Undirected,4
+Gyldenløve,Madame Trolle,Undirected,1
+Gyldenløve,Venus,Undirected,1
+Jean,Schumacher,Undirected,1
+Gyldenløve,Jean,Undirected,1
+Gyldenløve,Heiduk,Undirected,1
+Fredrik Ahrenstorff,Schumacher,Undirected,1
+Fredrik Ahrenstorff,Gyldenløve,Undirected,1
+Ahrenstorff,Schumacher,Undirected,1
+Obersten,Schumacher,Undirected,1
+Karl,Schumacher,Undirected,1
+Schumacher,Taffels,Undirected,1
+Alcibiades,Socrates,Undirected,9
+Fredrik Ahrenstorfif Schumachers,Socrates,Undirected,1
+Prinds Jørgen,Ulrich Luft,Undirected,1
+Prinds Jørgen,høilærd,Undirected,1
+Knuth,høilærd,Undirected,1
+Gesicht,Knuth,Undirected,1
+Henrik Gersdorff,Knuth,Undirected,1
+Madam Schumachers,ragne,Undirected,1
+Bjelke,Schult,Undirected,2
+Gyldenløve,Knuth,Undirected,3
+Gyldenløve,Skjerts,Undirected,2
+Margrethe Eilersen,Povel Moth,Undirected,1
+Adam Levin Knuth,Margrethe Eilersen,Undirected,1
+Moth,Povel Moth,Undirected,1
+Kong Fredriks,Povel Moth,Undirected,1
+Kong Christian,Kong Fredriks,Undirected,1
+Kong Christian,Margrethe,Undirected,1
+Margrethe,Povel Moth,Undirected,1
+Margrethe,Sophie Amalie,Undirected,1
+Jomfru Margrethe,Madam Ide,Undirected,1
+Gud,Jomfru Margrethe,Undirected,1
+Margrethe,Sophie,Undirected,8
+Gud,Margrethe,Undirected,5
+Gud,Sophie,Undirected,2
+Jomfru Sophie,Sophie,Undirected,1
+Schumacher,Sophie,Undirected,2
+Schumacher,Trolle,Undirected,1
+Madam,Margrethe,Undirected,1
+Monsieur Knuth,Sophie,Undirected,1
+Monsieur Knuth,Souverains,Undirected,1
+Gud,Souverains,Undirected,1
+Farbroder,Farfader,Undirected,1
+Farbroder,Hans,Undirected,1
+Catharina Nansen,Peter Schumacher,Undirected,1
+Jacob Neve,Jens Friis,Undirected,1
+Catharina,Prent,Undirected,1
+Catharina,Kong Frederik,Undirected,1
+Schumacher,couleur de Burgundie,Undirected,1
+Catharina Nansen,Hvo,Undirected,1
+Hvo,Schumacher,Undirected,1
+Hans høie,Schumacher,Undirected,2
+Jesus,Nicolai,Undirected,1
+Jesus,Margrethe Eilersen,Undirected,1
+Sophie Amalie Moth,Ulrik Luft,Undirected,1
+Margrethe Eilersen,Sophie Amalie,Undirected,1
+Catharina,Margrethe Eilersen,Undirected,1
+Hans Nansen,Margrethe,Undirected,1
+Madam Ide,Sophie,Undirected,1
+Gud,Schumacher,Undirected,3
+Catharina,Sophie Amalie,Undirected,1
+Morten Skinkel,Schumacher,Undirected,1
+Frederik Ahlefeld,Hahn,Undirected,1
+Gud,Hahn,Undirected,3
+Ahlefeld,Hahn,Undirected,19
+Andreas Bording,Schumacher,Undirected,1
+Griffenfeld,Schumacher,Undirected,2
+Catharina,Sybille,Undirected,1
+Catharina,Mysia,Undirected,4
+Griffenfeld,Mysia,Undirected,1
+Catharina,Griffenfeld,Undirected,4
+Griffenfeld,Valborgsdag,Undirected,1
+Mai aarie,Valborgsdag,Undirected,1
+Catharina,Mai aarie,Undirected,1
+Charlotte Amalie,Sybille,Undirected,1
+Catharina,Jørgen,Undirected,1
+Griffenfeld,Sybille,Undirected,4
+Catharina,Marie Schumacher,Undirected,1
+Charlotte,Emilie,Undirected,1
+Emilie,Henri Charles,Undirected,1
+Henri Charles,Thouars,Undirected,1
+Prinds,Thouars,Undirected,1
+Charlotte Amélie,Prinds,Undirected,1
+Charlotte Amélie,la Tremouille,Undirected,1
+Kong Christian,la Tremouille,Undirected,1
+Kong Christian,Kong Ludvig,Undirected,1
+Geheimeraad Grifienfeld,Pelts,Undirected,1
+Prinds Jørgen,Speckhahn,Undirected,2
+Geheimeraad Griffenfeld,Griffenfeld,Undirected,1
+Charlotte,Geheimeraad Griffenfeld,Undirected,1
+Charlotte,Griffenfeld,Undirected,3
+Kong Christian,Monsieur Griffenfeld,Undirected,1
+Monsieur Griffenfeld,phrase,Undirected,1
+Calvins,phrase,Undirected,1
+Griffenfeld,Kong Louis,Undirected,1
+Kong Louis,s,Undirected,2
+Griffenfeld,Prindsessen,Undirected,13
+Mademoiselles,Prinds Jørgen,Undirected,1
+Prinds,Prinds Jørgen,Undirected,1
+Charlotte,Kong Christian,Undirected,1
+Charlotte,Marie de,Undirected,1
+Amélie,Charlotte,Undirected,11
+Amélie,tbi,Undirected,1
+Dands,Sophie Amalieborg,Undirected,1
+Dands,Kong Louis,Undirected,1
+Charlotte,Cousine kjær,Undirected,1
+Charlotte,Ulrikke Eleonore,Undirected,4
+Charlotte Amélie,Ulrikke Eleonore,Undirected,3
+Griffenfeld,Ulrikke,Undirected,2
+Griffenfeld,Prindsesse,Undirected,2
+Griffenfeld,Prinds Georg,Undirected,1
+Griffenfeld,Priis,Undirected,1
+Gud,von Dirschau,Undirected,1
+Catharina von Dirschaus,Griffenfeld,Undirected,1
+Geheimeraad,sva,Undirected,1
+Catharina von Dirschau,Prindsessen,Undirected,2
+Kong Christian,Kong Frederik,Undirected,3
+Griffenfeld,Kong Christian,Undirected,2
+Griffenfeld,Socrates,Undirected,2
+Alcibiades,Beiler,Undirected,1
+Antonia Augusta,Beiler,Undirected,1
+Anton Gynthers,Antonia Augusta,Undirected,1
+Anton,Anton Gynthers,Undirected,1
+Anton,Griffenfeld,Undirected,1
+Excellentse,kjære,Undirected,1
+Excellentsen,Socrates,Undirected,1
+Alcibiades,Griffenfeld,Undirected,2
+Griffenfeld,taug,Undirected,1
+Catharina von Dirschau,Griffenfeld,Undirected,3
+Mademoiselle,Marie de,Undirected,1
+Emilie,Griffenfeld,Undirected,1
+Emilie,Prindsesse Charlotte,Undirected,1
+Griffenfeld,Gyldenløve,Undirected,1
+Gyldenløve,LaTremouille,Undirected,1
+Prinds Jørgen,Throne,Undirected,1
+Throne,Ulrikke Eleonore,Undirected,1
+Kong Christian,Ulrikke Eleonore,Undirected,1
+Carl den Ellevte,Kong Christian,Undirected,1
+Catharina von Dirschau,Meyerkrone,Undirected,1
+Griffenfeld,Hans Schack,Undirected,1
+Griffenfeld,Hahn,Undirected,6
+Ahlefeld,Frederik Ahlefeld,Undirected,1
+Frederik Ahlefeld,Gyldenløve,Undirected,1
+Charlotte,Gyldenløve,Undirected,1
+Griffenfeld,Spekhahn,Undirected,2
+Griffenfeld,Schack,Undirected,1
+Knuth,Schack,Undirected,1
+Knuth,Prinds Jørgen,Undirected,1
+Griffenfeld,Magnanitni pretium,Undirected,1
+Griffenfeld,Jørgen Bjelke,Undirected,2
+Schack,Winterfeld,Undirected,1
+Hahn,Schack,Undirected,1
+Reedtz,Schack,Undirected,1
+Hahn,Ulrik Frederik Gyldenløve,Undirected,1
+Ahlefeld,Griffenfeld,Undirected,12
+Griffenfeld,Gud,Undirected,7
+Corfits Ulfelds,Eleonore Ulfeld,Undirected,1
+Kirsten Tidemandsdatter,Ulrik,Undirected,1
+Kirsten Tidemandsdatter,Kong Frederik den Tredies,Undirected,1
+Ahasverus Payngk,Kong Frederik den Tredies,Undirected,1
+Ahasverus Payngk,Ulrik,Undirected,1
+Gud,Madam Kirstens,Undirected,1
+Gud,Madam Kirsten,Undirected,1
+Ahasverus,Gud,Undirected,2
+Haan,Madam Kirsten,Undirected,1
+Bacharach,Didrich Heidenbach,Undirected,1
+Bacharach,Kjelderens,Undirected,1
+Heinrich,Kruus,Undirected,1
+Kruus,hans Svend,Undirected,1
+Peer,Povel,Undirected,1
+Bacharach,Heinrich,Undirected,1
+Heinrich,Madam Payngk,Undirected,1
+Frederik,Heinrich,Undirected,1
+Jacob Worms,Worm,Undirected,1
+Bachus,Worm,Undirected,1
+Bachus,Ceres,Undirected,1
+Collega,Worm,Undirected,1
+Kingo,Worm,Undirected,3
+Griffenfeld,Worm,Undirected,2
+Gud,Jesu,Undirected,1
+Gud,Peters,Undirected,1
+Apollos,Worm,Undirected,1
+Apollos,Bording,Undirected,1
+Bording,per Jowem,Undirected,1
+Griffenfeld,Heinrich,Undirected,1
+Gud,Worm,Undirected,1
+Heinrich,Worm,Undirected,2
+Hans Excellentse,Worm,Undirected,1
+Excellentse,Hans Excellentse,Undirected,1
+Excellentse,Hans Knudsen,Undirected,1
+Hans Knudsen,Heinrich,Undirected,1
+Heinrich,Skjenk,Undirected,1
+Kong Frederik,Skjenk,Undirected,1
+Magister Luft,Worm,Undirected,1
+Gud,Magister Luft,Undirected,1
+Elselil,Ulrik Luft,Undirected,1
+Ruprecht,hiin,Undirected,1
+Grif,Madam,Undirected,2
+Madam,Sophie,Undirected,1
+Evadatter,Madam,Undirected,1
+Knuth,Madam Ide,Undirected,2
+Madam Ide,Sophie Amalie,Undirected,4
+Sophie Amalie,lille Christiane,Undirected,1
+Griffenfeld,lille Christiane,Undirected,1
+Hahn,Madam Ide,Undirected,1
+Kbrbitz,Madam Ide,Undirected,1
+Ahlefeld —,Kbrbitz,Undirected,1
+Saffians,Sophie Amalie,Undirected,1
+Griffenfeld,Jacob Worm,Undirected,1
+Griffenfeld,Kingo,Undirected,2
+Griffenfeld,Parsbjerg,Undirected,1
+Corfitz Ulfelds,Parsbjerg,Undirected,1
+Corfitz Ulfelds,Laurits,Undirected,1
+Laurits,Leer,Undirected,1
+Birthe Trolles,Skeel,Undirected,1
+Birthe Trolles,Øines,Undirected,1
+Soiréer,Øines,Undirected,1
+Griffenfeld,Soiréer,Undirected,1
+Brokdorff,Papa,Undirected,1
+Griffenfeld,Margrethe Eilersen,Undirected,1
+Catharina,ellen,Undirected,1
+Margrethe,ellen,Undirected,1
+Birthe Trolle,Tarent,Undirected,1
+Churfyrst Frederik Wilhelm,Louise,Undirected,1
+Churfyrst Frederik Wilhelm,Ernst Gynther,Undirected,1
+Augusta,Ernst Gynther,Undirected,2
+Augusta,Hahn,Undirected,1
+Ernst,Louise,Undirected,3
+Chevalier de Terlon,Griffenfeld,Undirected,2
+Geheimeraad Enevold Parsberg,Hille,Undirected,1
+Enevold,Hille,Undirected,1
+Magdalene Sybille,Papa,Undirected,1
+Catharina,Magdalene,Undirected,1
+Panter,Terlon,Undirected,1
+Margrethe Eilersen,Terlon,Undirected,1
+Griffenfeld,Jomfru Margrethe,Undirected,1
+Andreas Bording,Griffenfeld,Undirected,1
+Griffenfeld,Terlon,Undirected,9
+Margarita,Terlon,Undirected,1
+Griffenfeld,Margarita,Undirected,1
+Excellentse,Terlon,Undirected,2
+Gemal,Terlon,Undirected,1
+Gemal,La Tremouille,Undirected,1
+La Tremouille,Prindsessen,Undirected,1
+Ludvig,Terlon,Undirected,1
+Griffenfeld,Kong Ludvig,Undirected,2
+Kong Ludvig,Prindsessen,Undirected,1
+Kong Ludvig,Terlon,Undirected,2
+Louise,Terlon,Undirected,1
+Excellentse,Louise,Undirected,1
+Chevalier,Griffenfeldt,Undirected,1
+Chevalier,Louise,Undirected,1
+Chevalier,Griffenfeld,Undirected,1
+Chevalier,Tarent,Undirected,1
+Excellentse,kjære Excellentse,Undirected,1
+Christian,Terlon,Undirected,1
+Biermann,Saffians,Undirected,2
+Biermann,magnifique,Undirected,1
+magnifique,pompeust,Undirected,1
+Terlon,pompeust,Undirected,1
+Chevalier,Terlon,Undirected,1
+Mama,Terlon,Undirected,1
+Dirschau,Prindsessen,Undirected,1
+Charisius,Dirschau,Undirected,1
+Prindsesse,Terlon,Undirected,1
+Griffenfeld,La Tremouille,Undirected,1
+Christian,Griffenfeld,Undirected,1
+Christian,Souverainen,Undirected,1
+Ludvig,Souverainen,Undirected,1
+Ludvig,beile,Undirected,1
+Griffenfeld,Louise,Undirected,4
+Catharina von Dirschau,Terlon,Undirected,1
+Charlotte,Prindsessen,Undirected,1
+Nansens,Viinkypers,Undirected,1
+Cousine,Kong Ludvig,Undirected,1
+Charlotte,Kong Ludvig,Undirected,1
+Augusta,Ernst,Undirected,2
+Augusta,Joachim Schumachers,Undirected,1
+Joachim Schumachers,Kong Christian,Undirected,1
+Augusta,Prinds Frederik Wilhelm,Undirected,1
+Kong Frederik,Sophie Amalie,Undirected,1
+Ernst,Sophie Amalie,Undirected,1
+Ernst,Griffenfeld,Undirected,1
+Augusta,Prindsesse Louise,Undirected,1
+Frederik Wilhelm,Prindsesse Louise,Undirected,1
+Høyer,Monsieur Høyer,Undirected,1
+Madam Schumacher,lille Charlotte,Undirected,4
+Louise,lille Charlotte,Undirected,1
+Madam,Madam Schumacher,Undirected,1
+Hvo,Madam,Undirected,1
+Hvo,Prindsessen,Undirected,1
+Papa,lille Charlotte,Undirected,1
+Augusta,Papa,Undirected,1
+Marie Schumacher,Papa,Undirected,1
+Durchlauchtighed,Marie Schumacher,Undirected,1
+Johannes,Kong Christian,Undirected,1
+Augusta,Sybille,Undirected,1
+Sybille,lille Charlotte Amalie,Undirected,1
+Marie Schumacher,lille Charlotte Amalie,Undirected,1
+Augusta,Marie Schumacher,Undirected,1
+Augusta,Charlotte,Undirected,1
+Morhoff,Prindsessen,Undirected,1
+Else Parsbergs,Jørgen Bjelke,Undirected,1
+Else Parsbergs,Soiréer,Undirected,1
+Niels Brahe,Soiréer,Undirected,1
+Niels Brahe,Ulrikke Eleonore,Undirected,1
+Griffenfeld,Ulrikke Eleonore,Undirected,2
+Christian Albrecht,Kong Christian,Undirected,1
+Augusta,Christian Albrecht,Undirected,1
+Augusta,Louise,Undirected,2
+Linsker,Prindsesse Louise,Undirected,1
+Dorothea,Prindsesse Louise,Undirected,2
+Churfyrstinden,Prindsesse Louise,Undirected,1
+Churfyrstinden,Prindsesse,Undirected,1
+Augusta,Prindsesse,Undirected,1
+Augusta,Griffenfeld,Undirected,1
+Griffenfeld,Pøllnitz,Undirected,1
+Eleonore,Pøllnitz,Undirected,2
+Eleonore,Prindsesse,Undirected,1
+Louise,Prindsesse,Undirected,1
+Eleonore,Louise,Undirected,1
+Prindsesse Louise,Pøllnitz,Undirected,1
+Magdalene,Prindsesse Louise,Undirected,1
+Linsker,Magdalene,Undirected,1
+Griffenfeld,Linsker,Undirected,1
+Griffenfeld,Meyercrone,Undirected,1
+Kong Ludvig,Meyercrone,Undirected,1
+Fredrik Ahlefeld,Griffenfeld,Undirected,1
+Ahrenstorff,Fredrik Ahlefeld,Undirected,1
+Karl,T,Undirected,1
+Eders,Griffenfeld,Undirected,1
+Linsker,Louise,Undirected,1
+Augusta,Linsker,Undirected,1
+Barteis,Depesche,Undirected,1
+Ahlefeld,Depesche,Undirected,1
+Ahlefeld,Louise,Undirected,1
+Augusta,Johan Adolf,Undirected,1
+Bernhard,Johan Adolf,Undirected,4
+Bernhard,Ernst Gynther,Undirected,1
+Ernst Gynther,Prindsesse Louise,Undirected,1
+Johan,Prindsesse Louise,Undirected,1
+Griffenfeld,souveraine,Undirected,2
+Ahlefeld,souveraine,Undirected,1
+Hans Bagger,Jacob Worm,Undirected,1
+Christi Kors,Griffenfeld,Undirected,1
+Pilloy,Prindsesse Ulrikke,Undirected,1
+Ernst,Ulrikke Eleonore,Undirected,1
+Amélie,Louise,Undirected,1
+Tarent,Ulrikke Eleonore,Undirected,1
+Charlotte,Prindsesse Louise,Undirected,1
+Amélie,Griffenfeld,Undirected,1
+Chevalier Terlon,Griffenfeld,Undirected,1
+Eleonore,Ulrikke,Undirected,6
+Louise,Ulrikke Eleonore,Undirected,1
+Charlotte,Kong Carls,Undirected,1
+Gud,Kong Carls,Undirected,1
+Kong Frederik,Ulrikke,Undirected,1
+Kong Carl,Ulrikke Eleonore,Undirected,1
+Charlotte,Kong Carl,Undirected,1
+Cousine,Kong Carl,Undirected,1
+Gud,Kong Carl,Undirected,1
+Amélie,Catharina von Dirschau,Undirected,1
+Churfyrsten,Leir,Undirected,1
+Cousine,Griffenfeld,Undirected,1
+Griffenfeld,Prinds Jørgen,Undirected,1
+Ahrenstorff,Bernhard,Undirected,1
+Ahrenstorff,Niels Rosenkrantz,Undirected,1
+Griffenfeld,hiinsides,Undirected,1
+Henrik Gersdorff,Sybille,Undirected,1
+Ahrenstorff,Henrik Gersdorff,Undirected,2
+Ahrenstorff,Griffenfeld,Undirected,2
+Griffenfeld,Hei,Undirected,1
+Gersdorff,Hei,Undirected,1
+Prindsesse,Prindsessen,Undirected,1
+Catharina,Dianas,Undirected,1
+Gersdorff,Louise,Undirected,1
+Dirschau,Griffenfeld,Undirected,2
+Dirschau,Lieutenant Gersdorff,Undirected,1
+Johan Adolf,Kjødgryderne,Undirected,1
+Ahrenstorff,Gud,Undirected,1
+Durchlaucht,Hahn,Undirected,1
+Bernhard,Hahn,Undirected,2
+Bernhard,Weyher,Undirected,3
+Bernhard,Johan,Undirected,1
+Knuth,Niels,Undirected,1
+Niels,Rosenkrantz,Undirected,1
+Griffenfeld,Rosenkrantz,Undirected,11
+Johan Adolf,Weyher,Undirected,1
+Durchlaucht,Rosenkrantz,Undirected,1
+Rosenkrantz,Wrangel,Undirected,1
+Carlson,Wrangel,Undirected,1
+Carlson,Kruus,Undirected,1
+Bernhard,Griffenfeld,Undirected,1
+Bernhard,Brescher,Undirected,1
+Bernhard,Rosenkrantz,Undirected,2
+Bibov,Rosenkrantz,Undirected,1
+Bibov,Cicignon,Undirected,1
+Griffenfeld,Snee,Undirected,1
+Rosenkrantz,Wismar,Undirected,1
+Tarent,Wismar,Undirected,1
+Gud,Kingo,Undirected,1
+Hahn,Kingo,Undirected,2
+Kingo,Ruprecht,Undirected,1
+Hahn,Ruprecht,Undirected,1
+Pilloy,Prindsesse Ulrikke Eleonores,Undirected,1
+Pilloy,Wismar,Undirected,1
+Gemalindes,Prinds Jørgen,Undirected,1
+Prinds Jørgen,Ulrikke Eleonore,Undirected,1
+Pilloy,les plaisirs des innocents,Undirected,1
+Excellentse,Hahn,Undirected,2
+Hahn,Hove,Undirected,1
+Hahn,Jomfru Moth,Undirected,2
+Hahn,Moth,Undirected,1
+Excellentse,Rathlou,Undirected,1
+Griffenfeld,Rathlou,Undirected,2
+Dronning Sophie Amalie,Rathlou,Undirected,1
+Sophie Amalie,Tremouille,Undirected,1
+Griffenfeld,Lubkowitz*,Undirected,1
+Keiser Leopolds,Ludvig XIV,Undirected,1
+Griffenfeld,Kong Fredriks,Undirected,1
+correcte,souveraine,Undirected,1
+Griffenfeld,Sophie Amalie,Undirected,1
+Jørgen Bjelke,Schack,Undirected,1
+Schack,Sybille,Undirected,1
+Ahrenstorff,Sybille,Undirected,1
+Griffenfeld,Obersten,Undirected,1
+Hahn,Hugo Lützow,Undirected,1
+Hugo Lützow,Ulrikke Eleonore,Undirected,1
+Emilie Løschebrand,Loschebrand,Undirected,1
+Hahn,Ulrikke,Undirected,1
+Ahlefeld,Johan Adolf,Undirected,1
+Durchlauchtighed,Johan Adolf,Undirected,1
+Hahn,Spoleer,Undirected,1
+Hahn taug,Hugo Liitzov,Undirected,1
+Rasmus Knudsen,Ulrik Luft,Undirected,1
+Ahrenstorff,Hahn,Undirected,10
+Ahrenstorff,Wismar,Undirected,1
+Oversecretair Conrad Biermann,Wismar,Undirected,1
+Oversecretair Conrad Biermann,Skjær,Undirected,1
+Hahn,Skjær,Undirected,1
+Biermann,Hahn,Undirected,2
+Biermann Luft,Rasmus Knudsen,Undirected,1
+Biermann,Rasmus Knudsen,Undirected,1
+Ahlefeld,Biermann,Undirected,5
+Ahlefeid,Hahn,Undirected,1
+Ahlefeid,Biermann,Undirected,1
+Ahlefeld,Gud,Undirected,1
+Ahrenstorff,Excellentse,Undirected,2
+Ahlefeld,Hans Durchlauchtighed,Undirected,2
+Hans Durchlauchtighed,Knuth,Undirected,1
+Ahlefeld,Knuth,Undirected,2
+Griffenfeld,Knuth,Undirected,4
+Eders,Hahn,Undirected,1
+Durchlaucht,fecit,Undirected,1
+Ahlefeld,Uraad,Undirected,1
+Ahlefeld,Ahrenstorff,Undirected,3
+Ahrenstorff,Knuth,Undirected,1
+Knuth,Speckhahn,Undirected,1
+Jørgen Bjelke,Speckhahn,Undirected,1
+Johan,Jørgen Bjelke,Undirected,1
+Griffenfeld,Johan,Undirected,1
+Griffenfeld,Johan Adolf,Undirected,1
+Collega,Hans Durchlauchtighed,Undirected,1
+Carl van Manderns,Machiavellis,Undirected,1
+K ongen,Wismar,Undirected,1
+Høyer,Lille Charlotte,Undirected,1
+Ambassadeur,Høyer,Undirected,1
+Ambassadeur,Johan,Undirected,1
+Ahlefeld,Johan,Undirected,1
+Griffenfeld,Rasmus Vinding,Undirected,4
+Griffenfeld,Lakaien,Undirected,1
+Gud,Vinding,Undirected,3
+Margrethe Eilersen,Vinding,Undirected,1
+Margrethe Eilersen,Skjerts,Undirected,1
+Niels Lyder,Skjerts,Undirected,1
+Livtjener,Niels Lyder,Undirected,1
+Margrethe,Vinding,Undirected,1
+Biermann,Vinding,Undirected,1
+Biermann,Griffenfeld,Undirected,1
+Griffenfeld,Jens Neve,Undirected,1
+Biermann,Jens Neve,Undirected,1
+Anna,Griffenfeld,Undirected,2
+Anna Schrøder,Biermann,Undirected,1
+Knuth,grant,Undirected,1
+Griffenfeld,grant,Undirected,1
+Prinds,Ruprecht,Undirected,1
+Buur,Prinds,Undirected,1
+Biermann,Honneurs,Undirected,1
+Ahrenstorff,Biermann,Undirected,2
+Ahrenstorff,Hans Ruprecht,Undirected,1
+Høyer,Madam,Undirected,1
+Svend,Wilhelm Henck,Undirected,1
+Griffenfeld,Wilhelm Henck,Undirected,1
+Ahlefeld,Marie Schumacher,Undirected,1
+Hahn,Madam,Undirected,2
+Ahlefeld,Jørgen Bjelke,Undirected,1
+Bjelke,Hahn,Undirected,1
+Ahlefeld,Bjelke,Undirected,1
+Bjelke,Madam Schumacher,Undirected,2
+Bjelke,Magdalene,Undirected,1
+Bjelke,lille Charlotte,Undirected,1
+Magdalene Sybille,Marie Schumacher,Undirected,1
+Bjelke,Marie Schumacher,Undirected,1
+Ahlefeld,Jomfru Moth,Undirected,1
+Ahlefeld,Rasmus Knudsen,Undirected,1
+Kjelderen,Knuth,Undirected,2
+Gud,Knuth,Undirected,1
+Erik Rosenkrantz,Griffenfeld,Undirected,1
+Niels Rosenkrantz,haml,Undirected,1
+Ahrenstorff,Jens Rosenkrantz,Undirected,1
+Peter Schumacher,taug,Undirected,1
+Ahrenstorff,Rosenkrantz,Undirected,1
+Bjelke,Griffenfeld,Undirected,1
+Bjelke,lille Charlotte Amalie,Undirected,1
+Fog,Gottorps,Undirected,1
+Gottorps,Jørgen,Undirected,1
+Else,Jørgen,Undirected,1
+Else,Parsberg,Undirected,1
+Prinds Jørgen,Ulrikke,Undirected,2
+Ahlefeld,Rathlou,Undirected,1
+Ahlefeld,Ulrikke,Undirected,2
+Ahlefeld,Schumacher,Undirected,1
+Peter Brun,Sophie von Støcken,Undirected,1
+Prinds,Sophie von Støcken,Undirected,1
+Jørgens Livtjener,Prinds,Undirected,1
+Atlaskes,Madam Sophie,Undirected,1
+Dronning Sophie Amalie,Madam Brun,Undirected,2
+Jørgen,Prinds,Undirected,1
+Hans Hansens,Marie Schumacher,Undirected,1
+Catharinas Farbroders,Hans Hansens,Undirected,1
+Catharinas Farbroders,lille Charlotte Amalie,Undirected,1
+Corfits Trolle,Griffenfeld,Undirected,1
+Corfits Trolle,Geheimeraad Christen Skeel,Undirected,1
+Geheimeraad Christen Skeel,Rasmus Vinding,Undirected,1
+Gud,Hans Nansen,Undirected,1
+Hans Nansen,Rasmus Vinding,Undirected,1
+Esaias Fleischer,Griffenfeld,Undirected,1
+Hans Nansen,Marie Schumacher,Undirected,1
+Madam Schumacher,Vinding,Undirected,4
+Geheimeraad Skeel,Vinding,Undirected,1
+Schumacher,Vinding,Undirected,3
+Grev Ahlefeld,Schumacher,Undirected,1
+Grev Ahlefeld,Otto Mauritius,Undirected,1
+Schumacher,Souverain,Undirected,1
+Esaias Fleischer,Gud,Undirected,1
+Esaias Fleischer,Schumacher,Undirected,1
+Skeel,Vinding,Undirected,1
+Schumacher,Skeel,Undirected,1
+Esaias,Gud,Undirected,2
+Esaias Fleischer,Madam Schumacher,Undirected,1
+Knuth,Marie Schumacher,Undirected,2
+Geheimeraad Corfits Trolle,Otto Mauritius,Undirected,1
+Hans Høgenæse,Otto Mauritius,Undirected,1
+Griffenfeld,Hans Høgenæse,Undirected,1
+Corfits Trolle,Hans Rostgaards,Undirected,1
+Griffenfeld,Hans Rostgaards,Undirected,1
+Griffenfeld,Mauritius,Undirected,1
+Birthe,Jens Friis,Undirected,2
+Birthe,Gud,Undirected,1
+Jens,Mo,Undirected,1
+Birthe,Mo,Undirected,3
+Jens Friis,de,Undirected,1
+Griffenfeld,Jens Friis,Undirected,1
+Ahrenstorff,Evret,Undirected,1
+Evret,Knuth,Undirected,1
+Schack,Schumacher,Undirected,1
+Hr. Schumacher,Schack,Undirected,1
+Griffenfeld,Thistrup,Undirected,1
+Nicolai,Thistrup,Undirected,1
+Fleischer,Nicolai,Undirected,1
+Biilov,Hr. Esaias,Undirected,1
+Biilov,Griffenfeld,Undirected,2
+Esaias,Fleischer,Undirected,1
+Fleischer,Hovmods,Undirected,1
+Griffenfeld,Hovmods,Undirected,1
+Esaias,taug,Undirected,1
+Esaias,Griffenfeld,Undirected,1
+Albert,Birthe,Undirected,1
+Albert,Gyldensparre,Undirected,1
+Griffenfeld,Mo,Undirected,1
+Biilov,Schack,Undirected,1
+Bartskjær,Birthe,Undirected,1
+Bartskjær,Mo’,Undirected,1
+Birthe,Mo’,Undirected,1
+Schumacher,Thistrup,Undirected,1
+Birthe,Schumacher,Undirected,1
+Birthe,Hahn,Undirected,1
+Hr. Esaias,tvers,Undirected,1
+Gud,tvers,Undirected,1
+Alcibiades,Ulrik Fredrik Gyldenløve,Undirected,1
+Socrates,Ulrikke Eleonore,Undirected,1
+Roberts,Ulrikke Eleonore,Undirected,1
+Ahlefeld,Gyldenløve,Undirected,1
+Ahlefeld,Excellentse,Undirected,1
+Antonia Augusta,Excellentse,Undirected,2
+Ahlefeld,HøieExcellentse,Undirected,1
+Gyldenløve,Munkholms,Undirected,2
+Ahlefeld,Ruse,Undirected,1
+Gyldenløve,Ulrikke Eleonore,Undirected,1
+Ulrikke,Ulrikke Eleonore,Undirected,1
+Gyldenløve,Ulrikke,Undirected,1
+Antonies,Gyldenløve,Undirected,1
+Excellentse,Schak,Undirected,1
+Alcibiades,Schak,Undirected,1
+Ahlefeld,Socrates,Undirected,1
+Ahlefeld,Hans høie Excellentses,Undirected,1
+Hans høie,Hans høie Excellentses,Undirected,1
+Gyldenløve,Peder Schumacher,Undirected,1
+Bulov,Socrates,Undirected,1
+Albert Gyldensparre,Bulov,Undirected,1
+Albert,Griffenfeld,Undirected,1
+Gud,Plutarch,Undirected,1
+sperare salutem,una sålus miseris,Undirected,1
+Anton,Charlotte,Undirected,1
+Gersdorff,Schumacher,Undirected,1
+Schumacher,Vismar,Undirected,1
+Seier,Vismar,Undirected,1
+Prindsen,Seier,Undirected,1
+Schumacher,esprit,Undirected,1
+Gud,esprit,Undirected,1
+Celadon,Schumacher,Undirected,1
+Gud,Nille,Undirected,1
+Fiuren,Magdalene Sybille Gersdorff,Undirected,1
+Fiuren,Margrethe Eilersen,Undirected,1
+Beiler,Margrethe Eilersen,Undirected,1
+Margrethe,signe,Undirected,1
+Jørgen,Magdalene,Undirected,1
+Magdalene,Margrethe,Undirected,6
+Griffenfeld,Magdalene,Undirected,1
+Fiuren,Margrethe,Undirected,1
+Didrik,Margrethe,Undirected,1
+Gud,Magdalene,Undirected,1
+David,Gud,Undirected,2
+Christen,Hahn,Undirected,1
+Ahrenstorff,Christen,Undirected,1
+Gyldenløve,Sophie Amalie,Undirected,2
+Gud,Jespersen,Undirected,1
+Charlotte Amalie,Frederik Krag,Undirected,1
+Frederik Krag,Munkholms,Undirected,1
+Anna Ramus,Kyhn,Undirected,2
+Hans Excellentse,Wibes,Undirected,1
+Lieutenant Biszlerus,Wibes,Undirected,1
+Biszlerus,Griffenfeld,Undirected,1
+Biszlerus,Minerva,Undirected,1
+Martis,Minerva,Undirected,1
+Griffenfeld,Lieutenantens,Undirected,1
+Bacchus,Lieutenantens,Undirected,1
+Bacchus,Lieutenanten,Undirected,1
+Bacchus,Venus,Undirected,2
+Anna Ramus,Lieutenant Biszlerus,Undirected,1
+Anna Ramus,Biszlerus,Undirected,1
+Biszlerus,Uhrbach,Undirected,1
+Griffenfeld,Uhrbach,Undirected,1
+Chirurg Frauen,Steen,Undirected,1

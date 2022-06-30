@@ -1,0 +1,145 @@
+source,target,type,weight
+Guttens,Schrader,Undirected,1
+Adam,Ramm,Undirected,2
+Ramm,felv,Undirected,1
+Adam,felv,Undirected,1
+Adam,Darwin,Undirected,1
+Darwin,v. Hartmann,Undirected,1
+Madame Vollnagel,Schrader,Undirected,4
+Aasen,Di,Undirected,1
+Ibis,Schrader,Undirected,1
+Nise,Schrader,Undirected,1
+Schrader,ganfie,Undirected,1
+Frøken Fasting,Schrader,Undirected,3
+Frøken Falk,Frøken Fasting,Undirected,2
+Schrader,blaagraa,Undirected,1
+Berles,Frøken Fasting,Undirected,1
+Frøken Falk,Schrader,Undirected,6
+Antonia,Frøken Falk,Undirected,2
+N^gle,Schrader,Undirected,1
+Hr. Remmer,Schrader,Undirected,2
+Sid,melancholsk,Undirected,1
+Antonia,melancholsk,Undirected,1
+Javisf,Wiig,Undirected,1
+Berle,Wiig,Undirected,1
+Antonia,Remmer,Undirected,1
+Frøken Baumann,Hr. Schrader,Undirected,1
+Frøken Falk,Hr. Schrader,Undirected,1
+Antonia Baumann,Ely,Undirected,1
+Ida Raven,Milla,Undirected,1
+Frøken Baumann,Schrader,Undirected,8
+Dres,Schrader,Undirected,1
+Berle,Frøken Birkfeldt,Undirected,1
+Hr. Schrader,Schrader,Undirected,1
+Berle,Jullin,Undirected,1
+Schrader,thiFruLindkjcer,Undirected,1
+Ida Raven,Schrader,Undirected,1
+Schrader,Sp,Undirected,1
+Remmer,Schrader,Undirected,1
+Jndsp,Tjern,Undirected,1
+Frøken Baumann,Frøken Falk,Undirected,1
+Schrader,jham,Undirected,1
+Elp Falk,Hr. Schrader,Undirected,1
+Finsen,Schrader,Undirected,11
+Antonia,Schrader,Undirected,2
+Schrader,ban,Undirected,1
+Ely Falk,Frøken Birkfeldt,Undirected,1
+Berle,Ely Falk,Undirected,2
+Ely,Ibisen,Undirected,1
+Fru Henschen,lo Schrader,Undirected,1
+Froken Falks,Schrader,Undirected,1
+Berle,Froken Falks,Undirected,1
+Finsen,Frøken Fasting,Undirected,1
+Schrader,didhen,Undirected,2
+Frøken Baumann,didhen,Undirected,1
+Finsen,Frøken Baumann,Undirected,1
+Melken,Schrader,Undirected,1
+Frøken Falk,uvedkommenoes,Undirected,1
+Berle,uvedkommenoes,Undirected,1
+Finsen,Frøken Falk,Undirected,5
+Antonia,Finsen,Undirected,2
+Ely,Schrader,Undirected,5
+Ely,Spot,Undirected,1
+Finsen,Witz,Undirected,1
+Hr. Schrader,Witz,Undirected,1
+Finsen,Freya,Undirected,1
+Freya,Vanadis,Undirected,1
+Antonia,Ely,Undirected,4
+Ely Falk,Schrader,Undirected,7
+Frøken Fasling,Schrader,Undirected,1
+Frøken Baumann,Frøken Fasting,Undirected,1
+Frøken Baumann,Remmer,Undirected,2
+Frøken Baumann,L,Undirected,1
+Graad,Schrader,Undirected,2
+Berle,Finsen,Undirected,1
+Berle,felv,Undirected,1
+Berle,Schrader,Undirected,1
+Hagens,Schrader,Undirected,1
+Finsen,Hagens,Undirected,1
+Antonia Baumann,Finsen,Undirected,1
+Berle,Frøken Baumann,Undirected,1
+Ely Falk,Finsen,Undirected,1
+Ely Falk,Frøken Fasting,Undirected,2
+Adam,nichts,Undirected,1
+Adam,Eva,Undirected,1
+Ely Falk,Eva,Undirected,1
+Antonia Banmanns,Blaalys,Undirected,1
+Antonia Banmanns,Antonia Baumann,Undirected,1
+Ely Falk,Remmer,Undirected,1
+Baumanns,Remmer,Undirected,2
+Antonia Baumann,soni,Undirected,1
+Oldefader,von Landenbergerne,Undirected,1
+Antonia Baumann,Schrader,Undirected,1
+Ely Falk,as Trappen,Undirected,1
+Ely Falk,Ida Raven,Undirected,1
+Berle,hans,Undirected,1
+Antonia Baumann,Sstte Ug,Undirected,1
+Ely Falk,Frøken Baumann,Undirected,1
+Hr. Schrader,Remmer,Undirected,1
+Baumanns,Calesche,Undirected,1
+Remmer,Schawler,Undirected,1
+Ida Raven,Schawler,Undirected,1
+Hr. Schrader,Hr. Wullf,Undirected,1
+Ely Falk,didhen,Undirected,1
+Frøken Banmann,Frøken Baumann,Undirected,1
+Ely,Ida Raven,Undirected,1
+Ely Falk,as,Undirected,1
+Frøken Ely Falk,Frøken Falk,Undirected,1
+Ely Falk,Frøken Falk,Undirected,1
+Frøken Fasting,Prr,Undirected,1
+Madame Vollnagel,Ordres,Undirected,1
+Berle,Lindkjær,Undirected,1
+Berle,Ulrikke Ulfeldt Fasting,Undirected,1
+Ely Falk,Falk,Undirected,1
+Hr. Schrader,Vollnagel,Undirected,1
+Frøken Falk,fasf,Undirected,1
+Ely Falk,fasf,Undirected,1
+Adam Schrader,Ely Falk,Undirected,1
+Elp,Kopist Schrader,Undirected,1
+Adam,Schrader,Undirected,4
+Schrader,Tu,Undirected,3
+Gud,Tu,Undirected,1
+Adam,Tu,Undirected,1
+Ifjor,grant,Undirected,1
+Finsen,Ifjor,Undirected,1
+Antonius,Schrader,Undirected,1
+Ely,Finsen,Undirected,4
+Schrader,Sigrid,Undirected,1
+Adam,Ely,Undirected,2
+Ely,p,Undirected,1
+Ely,jusf,Undirected,2
+Ely,sorriges,Undirected,1
+Birke,Tu,Undirected,1
+Antonia Remmer,Baumann,Undirected,1
+Baumann,Ely,Undirected,1
+Ely,taus,Undirected,1
+Schrader,lille Sigrid,Undirected,1
+Adam Schrader,Ely,Undirected,1
+Adam Schrader,Kopist Schrader,Undirected,1
+Kopist Schrader,Schrader,Undirected,1
+Ely,Mama,Undirected,1
+Ely,oni,Undirected,1
+Finsen,oni,Undirected,1
+Finsen,Sigrid,Undirected,1
+Ely,Ieg,Undirected,1
+Finsen,Tu,Undirected,2

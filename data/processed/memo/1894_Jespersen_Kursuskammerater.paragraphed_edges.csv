@@ -1,0 +1,191 @@
+source,target,type,weight
+Husalf,Karen,Undirected,1
+Else,Karen,Undirected,61
+Else,Frøken Lund,Undirected,1
+Else,Frøken Hermines,Undirected,1
+Mrs.,Walley,Undirected,1
+Else,Walley,Undirected,1
+Emilie,Esther,Undirected,1
+Esther,Nancys,Undirected,1
+Esther,lille Idas,Undirected,2
+Hnn,ane,Undirected,1
+Esther,Frøken Stibald,Undirected,1
+Esther,jælper,Undirected,2
+Bruns,Esther,Undirected,3
+Karen,Mary,Undirected,2
+Esther Brun,Mary,Undirected,1
+Else,Esther Brun,Undirected,1
+Esther,Karen,Undirected,45
+Else,Esther,Undirected,41
+Esther,Gud,Undirected,1
+Gud,lille Esther,Undirected,1
+Anna Løschners,lille Esther,Undirected,1
+Anna Løschners,Esther,Undirected,1
+Esther,Hermine,Undirected,2
+Constance,sihe,Undirected,1
+Constance,Esther,Undirected,4
+Else,Frøken Brun,Undirected,1
+Frøken Brun,Frøken Caroline,Undirected,1
+Frederikke Hall,lille Frederikke,Undirected,1
+Esther,lille Frederikke,Undirected,1
+Esther,Frederikke,Undirected,13
+Esther,Frøken Blom,Undirected,4
+Esther,Frøken Brun,Undirected,3
+Frøken Brun,jun.,Undirected,1
+Esther,liun,Undirected,4
+Blom,Esther,Undirected,2
+Caroline,Constance,Undirected,1
+Asta,Esther,Undirected,2
+Asta,Rønnow,Undirected,5
+Mary,Rønnow,Undirected,2
+Esther,Frøken Rist,Undirected,1
+Else,Papa,Undirected,1
+Else,Mary,Undirected,17
+Frøken Brun,Karen,Undirected,2
+Esther,Mimi Krone,Undirected,1
+Asta,Frøken Brun,Undirected,1
+Asta Emilie Halgren,Frøken Brun,Undirected,1
+Asta Emilie Halgren,Halgren,Undirected,1
+Asta,Halgren,Undirected,1
+Asta,Karen,Undirected,2
+Ingeborg,Mary,Undirected,3
+Mary,Schack,Undirected,1
+Brun,Schack,Undirected,1
+Ingeborg,Mimi,Undirected,2
+Asta,Ingeborg,Undirected,3
+Frøken Brun,Mary,Undirected,1
+Karen,lille Else,Undirected,1
+Asta,Mary,Undirected,1
+Esther,Frøken Hermine,Undirected,4
+Else,Frederikke,Undirected,2
+Frederikke,Frøken Hermine,Undirected,1
+Frederikke,Karen,Undirected,1
+Else,Frøken Schack,Undirected,1
+Else,mademoiselle,Undirected,1
+Frøken Strøms,Mimi,Undirected,1
+Mimi,Miniis,Undirected,1
+Frøken Mortensen,Ingeborg,Undirected,1
+Ingeborg,Mortensen,Undirected,1
+Esther,Ingeborg,Undirected,4
+Ingeborg,Rønnow,Undirected,1
+Frøken Brun,Rønnow,Undirected,1
+Karen,Rønnow,Undirected,1
+Else,Rønnow,Undirected,1
+Esther,Rønnow,Undirected,6
+Rønnow,liun,Undirected,1
+Else,Richters,Undirected,1
+Forvalter Hansen,Frøken Caroline,Undirected,1
+Frøken Blom,Frøken Rist,Undirected,1
+Else,Rist,Undirected,1
+Else,Frøken Rist,Undirected,2
+Else Forvalter Hansen,lille Else,Undirected,1
+Karen,nan,Undirected,1
+Frøken Blom,nan,Undirected,1
+Else,Frede rikke,Undirected,1
+Byrge Hansen,Karen,Undirected,1
+Byrge Hansen,Else,Undirected,6
+Byrge Hansen,Esther,Undirected,2
+Else,Frøken Hermine,Undirected,2
+Byrge,Else,Undirected,6
+Frøken Zimmermanns,Hønes,Undirected,1
+Karen,hnn,Undirected,1
+Anna Løsehner,Gud,Undirected,1
+Esther,Tjim,Undirected,1
+Karen,Pedro,Undirected,1
+Else,Frøken Blom,Undirected,2
+Frøken Blom,Frøken Zim-mer,Undirected,1
+Esther,Frøken Zimmermann,Undirected,4
+Madvigs,Tjim,Undirected,1
+Karen,liun,Undirected,1
+Mille,Mimi,Undirected,1
+Mary Steen,Mimi,Undirected,3
+Atlaskes,livor,Undirected,1
+Hans,Krone,Undirected,1
+Mary,Mimi,Undirected,21
+Liun,Mimi,Undirected,2
+Mimi,liun,Undirected,1
+Blom,Mary,Undirected,1
+Blom,Mimi,Undirected,1
+Frøken Blom,Mary,Undirected,2
+Carls,Mary,Undirected,1
+Carl,Mary,Undirected,6
+Knud Bondo,Mary,Undirected,1
+Gros serer,Mary,Undirected,1
+Gros serer,Steen,Undirected,1
+Frøken Blom,lian,Undirected,1
+Carl,Mimi,Undirected,9
+Bondo,Mary,Undirected,7
+Mary,Steen,Undirected,1
+Carmen,Toreadorens,Undirected,1
+Gud,Jensen,Undirected,1
+Bondo,Jensen,Undirected,1
+Esther,Kristian den,Undirected,1
+Frøken Hermine,Høne,Undirected,2
+Frøken Hermine,Hermine,Undirected,1
+Hermine,Hr. Hansen,Undirected,1
+Hr. Hansen,lille Else,Undirected,1
+Else,lille Else,Undirected,1
+Esther,Forvalter Hansen,Undirected,1
+Else,Forvalter Hansen,Undirected,1
+Else,Hermine,Undirected,1
+Byrge,Esther,Undirected,2
+Else,Hansen,Undirected,5
+Frøken Brun,Frøken Teisen,Undirected,1
+Else,Else Richter,Undirected,1
+Else Richter,Karen,Undirected,2
+Byrge,Hansen,Undirected,1
+Byrge,lian,Undirected,2
+Else,Richter,Undirected,1
+Hansen,Richter,Undirected,1
+Byrge Hansen,Mimi,Undirected,1
+Mimi,lille Mimi,Undirected,1
+Esther,lille Mimi,Undirected,2
+Mimi,Rønnow,Undirected,1
+Bondo,Carl,Undirected,1
+Frøken Hermine,Mary,Undirected,1
+Høne,Mary,Undirected,1
+Bondo,Mimi,Undirected,1
+Carl’,Mary,Undirected,1
+Carl’,Mimi,Undirected,1
+Carl,Knud Bondo,Undirected,1
+Gud,Mimi,Undirected,1
+Dyvekes,Else,Undirected,1
+Byrge,Karen,Undirected,1
+Bondo,Else,Undirected,3
+Byrge Hansen,Mary,Undirected,1
+Bondo,lille Else,Undirected,1
+Bondo,kny,Undirected,1
+Frøken Mary,Frøken Steen,Undirected,1
+Asta,Else,Undirected,1
+Esther,ane,Undirected,1
+Mimi,lilot,Undirected,1
+Hagel,Hr. Hansen,Undirected,1
+Mary,Valeriana,Undirected,1
+Rønnow,Tullin,Undirected,1
+Asta,Tullin,Undirected,1
+Frøken Hermine,Rønnow,Undirected,1
+Constance,Else,Undirected,2
+Constance,Karen,Undirected,2
+Constance,lille Constance,Undirected,1
+Husalfen,lille Constance,Undirected,1
+Else forlèt,Karen,Undirected,1
+Esther,Inge Zimmermann,Undirected,1
+Inge Zimmermann,Zimmermanns,Undirected,1
+Carl Steen,Ingeborg,Undirected,1
+Carl Steen,Hansen,Undirected,1
+Hansen,Mary,Undirected,1
+Grev Thranes,Ingeborg,Undirected,1
+Byrge,Frøken Elses,Undirected,1
+Byrge,Frøken Else,Undirected,1
+Esther,Zimmermann,Undirected,1
+Inge,Zimmermann,Undirected,1
+Esther,Inge,Undirected,1
+Brun,Esther,Undirected,1
+Frøken Hermine,Karen,Undirected,2
+Else,Gud,Undirected,2
+Hermine,lille Frederikke,Undirected,2
+Else,liun,Undirected,1
+. Constance,l ære,Undirected,1
+. Constance,Else,Undirected,1
+Esther,Rønnovv,Undirected,1
+Else,Hr. Hansen,Undirected,1

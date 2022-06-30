@@ -1,0 +1,226 @@
+source,target,type,weight
+Frederik den,Peer,Undirected,1
+Arendals,Peer,Undirected,1
+Bedstemoder,Gud,Undirected,1
+Ingeborg Veding,Lille Ingeborg,Undirected,1
+Lille Ingeborg,Ole Hansen,Undirected,1
+Ingeborg Veding,Ole Hansen,Undirected,1
+Ole Hansen,Schmidt,Undirected,1
+Ingeborg Veding,Schmidt,Undirected,1
+Ingeborg Veding,Ole,Undirected,2
+Ole,Orlogs,Undirected,2
+Ingeborg,Ole,Undirected,7
+Ingeborg,Poul,Undirected,1
+Gud,Ingeborg Veding,Undirected,1
+Gud,Kaptajn Holm,Undirected,1
+Holm,Najaden,Undirected,1
+Holm,Ole Hansen,Undirected,1
+Holm,Ingeborg Veding,Undirected,1
+Helene,Ingeborg Veding,Undirected,1
+Graad,Ingeborg Veding,Undirected,1
+Graad,Najadernes,Undirected,1
+Knud,Maren,Undirected,3
+Holm,Ingeborg,Undirected,1
+Holm,Onkels,Undirected,1
+Najaden,Onkels,Undirected,1
+Knud,Najaden,Undirected,1
+Dannebrog,Maren,Undirected,1
+Dannebrog,Holm,Undirected,1
+Gud,Holm,Undirected,1
+Gud,Ole Hansen,Undirected,1
+Maren,Ole Hansen,Undirected,1
+Halvors,Tantes,Undirected,1
+Gud,Halvors,Undirected,1
+Gud,Ole,Undirected,1
+Ole,Taalmod,Undirected,1
+Ingeborg,Taalmod,Undirected,1
+Ole Hansen,lille Ingeborg,Undirected,1
+Najadernes,lille Ingeborg,Undirected,1
+Ingemanns,Najadernes,Undirected,1
+Blichers,Ingemanns,Undirected,1
+Halvor,Tine,Undirected,1
+Gud,Halvor,Undirected,1
+Anders,Halvor,Undirected,6
+Anders,Tantes,Undirected,1
+Johannes,Tantes,Undirected,1
+Anders,Johannes,Undirected,5
+Johannes,s,Undirected,1
+Anders Vippa,Halvor,Undirected,1
+Anders Vippa,Johannes,Undirected,1
+Anders,Gud,Undirected,2
+Gud,Johannes,Undirected,1
+Gud,Tantes,Undirected,1
+Massy,O,Undirected,2
+Massy,Tantes,Undirected,2
+Dianas,Massy,Undirected,1
+Dianas,Tante,Undirected,1
+Massy,Tante,Undirected,1
+Helene vemodig,Tante,Undirected,1
+Massy,Sofie O,Undirected,1
+Rousseau,Verner,Undirected,1
+Lafontaine,Rousseau,Undirected,1
+Lafontaine,Sofie,Undirected,2
+Lafontaine,William,Undirected,1
+Verner,William,Undirected,1
+Lars,Verner,Undirected,1
+Kristoffer,Lars,Undirected,1
+Jens Thorbjørnsen,Kristoffer,Undirected,1
+Jens Thorbjørnsen,Sofie,Undirected,2
+Sofie,Verner,Undirected,4
+Moder,Verner,Undirected,1
+Sofie,Sofie Verner,Undirected,1
+Massy,Sofie,Undirected,19
+Massy,Verner,Undirected,2
+Massy kjær,Verner,Undirected,1
+Lucy,Massy kjær,Undirected,1
+Lucy,Miss Sofie,Undirected,1
+Miss Sofie,Sofie,Undirected,1
+Jens Thorbjørnsen,Kristoffer Verner,Undirected,1
+Kristoffer Verner,Sofie,Undirected,1
+Kristoffer,Sofie,Undirected,4
+Kristoffer,Massy,Undirected,2
+Jens,Sofie,Undirected,1
+Gud,Massy,Undirected,2
+Gud,Sofie,Undirected,3
+Robert,Sofie,Undirected,2
+Sofie,Yttrings,Undirected,2
+Augusta,Sofie,Undirected,1
+Grandtantes,Massy,Undirected,1
+Grandtantes,Tante,Undirected,1
+Christian den Sjette,Sophie Magdalene,Undirected,1
+Margrethe,Tellefsen,Undirected,1
+Margrethe,Per Tellefsen,Undirected,1
+Margrethe,Peer Tellefsen,Undirected,1
+Frederik,Frederik den Sjette,Undirected,1
+Frederik den Sjette,Tellefsen,Undirected,1
+Peer Tellefsen,Sølverts,Undirected,1
+Falk,Gud,Undirected,1
+Dands,Tellefsen,Undirected,1
+Løvold,Tellefsen,Undirected,1
+Gud,Løvold,Undirected,1
+Elisa,Elisa v. Qualen,Undirected,1
+Moers,Vorherre,Undirected,1
+Gud,Strubro,Undirected,1
+Strubro,itide,Undirected,1
+Kongsgaard,itide,Undirected,1
+Jens Zetlitz,Kongsgaard,Undirected,1
+Arendal,Helle,Undirected,1
+Helle,Strubro,Undirected,1
+Kristoffer de H.,Tellefsen,Undirected,1
+Fakkelskin,Voxlys,Undirected,1
+Frederik den Sjette,Prinds Christian Frederik,Undirected,1
+Prinds Christian Frederik,Prindsen,Undirected,1
+Ankers,Prindsen,Undirected,1
+Assessor D.,Faders,Undirected,1
+Andreas,Faders,Undirected,2
+Frederik,Laura,Undirected,1
+Laura,Moder,Undirected,1
+Carl den,Johan,Undirected,1
+Andreas,Johan,Undirected,1
+Fearnley,Ludvig,Undirected,2
+Benjamin Franklin,Frederik,Undirected,1
+Benjamin Franklin,Elise,Undirected,1
+Elise,Onkels,Undirected,1
+Andreas,Tante,Undirected,2
+Oskar,Tante,Undirected,1
+Andreas,Oskar,Undirected,1
+A,B,Undirected,1
+A,H...,Undirected,1
+Andreas,B,Undirected,1
+A .,B,Undirected,1
+A .,Laud,Undirected,1
+Kristian,Lovise Marie,Undirected,2
+Lovise Marie,Marie,Undirected,5
+Gud,Marie,Undirected,1
+Lovise,Marie,Undirected,11
+Andreas,Marie,Undirected,1
+Andreas,Elisa,Undirected,1
+B .,Frederik,Undirected,1
+Kong Kristian Frederiks,Prinds Kristian August,Undirected,1
+Karl Johan,Kong Kristian Frederiks,Undirected,1
+H ...,Peter,Undirected,1
+Gunhild,Lovise,Undirected,2
+Hans B,Marie,Undirected,1
+Hans,Hans B,Undirected,1
+Hans,Jens B,Undirected,1
+Jens B,Peter,Undirected,1
+Catharina,Lovise Marie,Undirected,8
+Catharine,Gunhild,Undirected,5
+Gunhild,Lovise Marie,Undirected,1
+Catharine,Lovise Marie,Undirected,1
+Dreiel,Gunhild,Undirected,1
+Katharine,Marie,Undirected,1
+Laura,Lovise Marie,Undirected,1
+Sidsel,Sivert,Undirected,2
+Gunhild,Kristian,Undirected,1
+Gud,Sivert,Undirected,1
+Gud,Hans B,Undirected,1
+Kristian,Sivert,Undirected,1
+Axel,Catharina,Undirected,1
+... skjold,Gunhild,Undirected,1
+Gunhild,Hans B,Undirected,1
+Hans B,Lars,Undirected,1
+Lars,Laura,Undirected,1
+Laura,Odelsgaard,Undirected,1
+Hans B,Odelsgaard,Undirected,1
+W,skjold,Undirected,4
+Valborg,skjold,Undirected,5
+Beiler,Valborg,Undirected,2
+Valborg,W,Undirected,5
+Bedstefader,Valborg,Undirected,4
+Bedstefader,skjold,Undirected,1
+Huulgaard,Valborg,Undirected,1
+Lars,skjold,Undirected,1
+Gunhild,Hans,Undirected,3
+Gunhild,Ragna,Undirected,3
+Peter Kadet,skjold,Undirected,1
+Herman,Peter Kadet,Undirected,1
+Gunhild,Jens B,Undirected,1
+Catharina,Jens B,Undirected,1
+Granskovs,Lovise Marie,Undirected,1
+Catharina,Lars,Undirected,2
+Gunhild,Lars,Undirected,3
+B,Lars,Undirected,1
+B,Lars Ø-------tilligemed,Undirected,1
+Lars Ø-------tilligemed,Ragna,Undirected,1
+Lars 0,Ragna,Undirected,1
+Ragna,freidig,Undirected,2
+Dronning Desideria,Kong Carl Johan,Undirected,1
+Dronning Desideria,Kronprindsessen,Undirected,1
+B,Lars Ø--------kom,Undirected,1
+B,Gunhild,Undirected,1
+Dands,Lars Ø--------henvendt,Undirected,1
+Dands,Thorkild,Undirected,1
+Hans B,Ragna,Undirected,1
+Grydestøber,Hans,Undirected,1
+Catharina,Gunhild,Undirected,4
+Gunhild,Lars Ø------og,Undirected,1
+Lars Ø------og,Ragna,Undirected,1
+Catharina,Lars 0,Undirected,1
+B .,Lovise Marie,Undirected,1
+H .,Lovise Marie,Undirected,1
+Kristian,Marie,Undirected,1
+Catharina,Marie,Undirected,2
+Gunhild,Marie,Undirected,1
+Bedstefader,Lovise Marie,Undirected,4
+Gud,Jens,Undirected,1
+Lovise,Lovise Marie,Undirected,1
+Laura,Onkels,Undirected,1
+Bedstefader,Laura,Undirected,1
+Bedstefader,Lovise,Undirected,1
+Bedstefader,Marie,Undirected,1
+Gud,Thoresen,Undirected,1
+Jomfru Thoresens,Schawl,Undirected,1
+Jomfru Thoresen,Tomines,Undirected,1
+Tomine,Tomines,Undirected,1
+Thoresen,Tomine,Undirected,3
+Nankins,Tomine,Undirected,1
+Mathias Mathiasen,Mathias Smørstikker,Undirected,2
+Jokum Poulsen,Thoresen,Undirected,1
+Mathias Smørstikker,Thoresen,Undirected,1
+D,Thoresen,Undirected,1
+D,Frue,Undirected,1
+Gud,Mathias,Undirected,1
+Jomfru Thoresen,Mathias,Undirected,1
+Mathias,Thoresen,Undirected,1
+Jokum Povelsen,Oline,Undirected,1

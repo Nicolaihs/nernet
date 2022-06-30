@@ -1,0 +1,659 @@
+source,target,type,weight
+Franz,Thomas,Undirected,1
+Franz,Hannibal,Undirected,1
+Grev Janinski,Hannibal,Undirected,3
+Hannibal,Janinski,Undirected,15
+Grev Hannibals,Janinski,Undirected,1
+Es,Greve,Undirected,1
+Janinski,saagar,Undirected,1
+,Anges,Undirected,1
+Greve,Hannibal,Undirected,5
+Hannibal,Janinfli,Undirected,1
+Hannibal,Øe,Undirected,1
+Dahlbergs,Franz,Undirected,1
+Dahlberg,Hannibal,Undirected,1
+Hnn,Moer,Undirected,1
+Hnn,nn,Undirected,1
+Hannibal,Torsi,Undirected,1
+Hannibal,Moer,Undirected,4
+Ieg,Moer,Undirected,1
+Blegnæbs,Marie,Undirected,1
+Blegnæbs,Hannibal,Undirected,1
+Hugo Gyldenstjerne,Theodor Schulenborg,Undirected,1
+Hugos,Theodor,Undirected,2
+Blanko,Hugo,Undirected,3
+Blanko,Hannibal,Undirected,1
+Hugo,Theodor,Undirected,6
+Blanko,Hugo strax,Undirected,1
+Blanka,Hannibal,Undirected,1
+Blanko,Ornskjold Isolde,Undirected,1
+Hannibal,Ornskjold Isolde,Undirected,1
+Gyldenstjerne,Hannibal,Undirected,14
+Gyldenstjerne,Schulenborg,Undirected,1
+Hannibal,Ingling,Undirected,1
+Hannibal,Konrsen,Undirected,1
+Janinski,Vikforia,Undirected,1
+Janinski,Satans,Undirected,1
+Dvergen,Nathan,Undirected,1
+Guiseppe,Pietro,Undirected,21
+Nathan,Pietro,Undirected,1
+Amandus,Dvergen,Undirected,4
+Amandus,Nathan,Undirected,3
+Marietta,Nathan,Undirected,1
+AmanduS,Marietta,Undirected,1
+Hermann,Pietro,Undirected,3
+Guiseppe,Hermans,Undirected,1
+Guiseppe,Nathan,Undirected,1
+Amandns,Mariette,Undirected,1
+Amandns,Dvergen,Undirected,1
+Marietta,Pietro,Undirected,2
+Hannibal,Marietta,Undirected,49
+Guiseppe,Hannibal,Undirected,3
+Guiseppe,Marietta,Undirected,7
+Agrams,Hannibal,Undirected,1
+Hannibal,Isabella,Undirected,8
+Hannibal,hnn,Undirected,3
+Guiseppe,Maladetto,Undirected,2
+Guiseppe,Marie,Undirected,1
+Marie,Pietro,Undirected,1
+Amandus,Pietro,Undirected,6
+Amandus,Herman,Undirected,2
+Herman,Nathan,Undirected,2
+Guiscppe,Marietta,Undirected,3
+Guiscppe,Pietro —,Undirected,1
+Amandus,Pietro —,Undirected,1
+Hannibal,Nathan,Undirected,1
+Hannibal,Hexen,Undirected,1
+Hannibal,js,Undirected,1
+Hannibal Janinskasagde,Janinski,Undirected,1
+Hannibal,Sørensen,Undirected,1
+Hannibal,Tilstedekomnc,Undirected,1
+Grev Brok,Hannibal,Undirected,4
+Gjøglertroppen,Hannibal,Undirected,1
+Amanda,Herman,Undirected,1
+Brok,Ludvig Brok,Undirected,1
+Aagerkarl,Rellch,Undirected,1
+Grev Brok,Rellch,Undirected,1
+Grev Brok,Kathinka,Undirected,1
+Guiseppes Gjøglcrtrop,Hannibal,Undirected,1
+Marietta,Ulrik,Undirected,3
+Greven,Marietta,Undirected,6
+Hannibal,Ulrik,Undirected,8
+Hannibal,Hr. Greve,Undirected,1
+Hannibal,Ulrick,Undirected,1
+Greven,Ulrik,Undirected,4
+Ludvig Brok,Ulrik,Undirected,1
+Greven,Janinski,Undirected,1
+Ianinski,Ulrik,Undirected,1
+Kaja,Ulrik Greven,Undirected,1
+Greven,Rosalie,Undirected,3
+Hanniballo,Marietta,Undirected,1
+Guiseppe,Ulrik,Undirected,1
+Giuseppe,Marietta,Undirected,1
+Greven,Karl,Undirected,1
+Hannibal,ane,Undirected,1
+Greven,“,Undirected,1
+Ulci,“,Undirected,1
+Marietta,Rosalie,Undirected,2
+Hannibal,tillive,Undirected,1
+Hannibal,Rosalie,Undirected,15
+Sofie,Sofie Hansen,Undirected,1
+Relleh,Sofie,Undirected,3
+Relleh,Sofie Hansen,Undirected,1
+Drejer,Ester,Undirected,1
+Drejer,Relleh,Undirected,2
+Hr. Relleh,Sophie Hansen,Undirected,1
+Relleh,Sophie Hansen,Undirected,1
+Emma,Sophie Hansen,Undirected,1
+Alfred,oz,Undirected,1
+Emma Drejer,Grosserer Drejers,Undirected,1
+Emma,Rosalie,Undirected,2
+Poul,Rosalie,Undirected,13
+Poul,Øe,Undirected,2
+Greven,Hannibal,Undirected,14
+Dn,Hannibal,Undirected,1
+Hannibal,Sabels,Undirected,1
+Hannibal,rakfe,Undirected,1
+Ponl,Rosalie,Undirected,6
+Oje,Ponl,Undirected,2
+Hannibal,Poul,Undirected,31
+Graad,Poul,Undirected,1
+Ester,Rosalie,Undirected,2
+hnn,saagar,Undirected,1
+Ponl,saagar,Undirected,1
+Gud,Ponl,Undirected,1
+Hannibal,Ponl,Undirected,5
+Hannibal,hans Bjne,Undirected,1
+Ester,Hannibal,Undirected,1
+Bodil,Marietta,Undirected,1
+Rosalie,Ulrik,Undirected,3
+Greve,Marietta,Undirected,1
+Amanda,Poul,Undirected,1
+Amanda,Dvergen,Undirected,1
+Dvergen,Marietta,Undirected,2
+Hannibal,Raferi,Undirected,1
+Bodil,Hr. Greve,Undirected,1
+Amandus,Marietta,Undirected,18
+-Marietta,Greven,Undirected,1
+Amandus,Guiseppe,Undirected,3
+Amandus,Hannibal,Undirected,12
+Amandus,Greven,Undirected,1
+Greven,enhmr,Undirected,1
+Hannibal,enhmr,Undirected,1
+Gud,Hannibal,Undirected,2
+Grib,Hannibal,Undirected,1
+Poul,Ræve-Anders,Undirected,1
+Hannibal,Ræve-Anders,Undirected,3
+Amandus,Poul,Undirected,1
+Hannibal,Ore,Undirected,2
+Grev Brock,Hannibal,Undirected,4
+Hannibal,as,Undirected,1
+Poul,Rsdskjæg,Undirected,1
+Hannibal,Karl,Undirected,27
+Hannibal,Rødskjæg,Undirected,12
+Eden,Poul,Undirected,1
+Grev Hannibal,Hannibal,Undirected,1
+Hannibal,Pouline,Undirected,28
+Hannibal,ri,Undirected,1
+Martin,Pouline,Undirected,2
+Daggry,Hannibal,Undirected,2
+Karl,Pouline,Undirected,14
+Karl,Katrine,Undirected,1
+Karl,Ponlines,Undirected,1
+Hais,Karl,Undirected,1
+Pauline,William,Undirected,1
+Karl,Martin,Undirected,1
+Karl,Villiam,Undirected,11
+Hannibal,Villiam,Undirected,13
+Hannibal Gyldenstjerne,Martin,Undirected,1
+Hnn,Villiam,Undirected,1
+Villiam,taus,Undirected,1
+Hannibal,Touget,Undirected,1
+Villiam,fank,Undirected,1
+Pouline,fank,Undirected,1
+Hannibal,Paul,Undirected,1
+Dvergen,Madonna,Undirected,1
+Marietta,hnn,Undirected,1
+Marietta,Pouline,Undirected,1
+Rødskjæg,Søren Nifinger,Undirected,1
+Hannibal,Rødsfjæg,Undirected,3
+Hejda,Poul,Undirected,1
+Christen,Poul,Undirected,1
+Nifingers,Poul,Undirected,1
+Christen Nifinger,Hannibal,Undirected,2
+Christians,Poul,Undirected,1
+Karl,Poul,Undirected,1
+Karl,jDe,Undirected,1
+Gud,Karl,Undirected,4
+Karl,Villam,Undirected,1
+Ponline,Villiam,Undirected,1
+Ponline,Pouline,Undirected,1
+Hannibal Gyldenstjerne,Pouline,Undirected,1
+Pouline,fil,Undirected,1
+Hannibal,Martin,Undirected,4
+Hannibal,Pauline,Undirected,1
+Hannibal,strax,Undirected,1
+Pouline Gæsfgivergaarden,Sandseruscn,Undirected,1
+Mikkel,Poul,Undirected,2
+Gud,Karl Brink,Undirected,1
+Karl,Karl Brink,Undirected,2
+Hannibal,djeblik,Undirected,2
+Karl,Søren Christensen,Undirected,1
+Hannibal,Søren Christensen,Undirected,1
+Christen Nifinger,Søren Nifinger,Undirected,1
+Christen Nifinger,maasfe,Undirected,1
+Hannibal,maasfe,Undirected,1
+Pouline,Rosa,Undirected,4
+Karl,Ponline,Undirected,1
+Rosa,Villje,Undirected,1
+Hannibal,Rosa,Undirected,25
+Morten,Poul,Undirected,1
+Hannibal,Morten,Undirected,1
+Rosa,Skudct,Undirected,1
+Kathrine,Villiam,Undirected,24
+Kathrine,jø,Undirected,1
+Kathrine/,Villiam,Undirected,1
+Villiam,jerte,Undirected,1
+-vrt,Villiam,Undirected,1
+Pauline,Villiam,Undirected,1
+Kathrine,Pauline,Undirected,1
+Kathrine,agde,Undirected,1
+Præsfen,Villiam,Undirected,3
+Hannibal,Søren Nifinger,Undirected,2
+Skjæbnens,Søren,Undirected,1
+Karl,Søren,Undirected,3
+Hannibal fil,Karl,Undirected,1
+Pouline,Villiam,Undirected,5
+Karl,Kathrine,Undirected,2
+Gud,Villiam,Undirected,2
+Villiam,taug,Undirected,1
+Hannibal,Jsærdcleshed,Undirected,1
+Hannibal,Nifingers,Undirected,1
+Nifinger,Nifingers,Undirected,1
+Hannibal,Nifinger,Undirected,1
+Blegneb,Hannibal,Undirected,1
+Blegnæb,Hannibal,Undirected,2
+Hannibal,Ieg,Undirected,3
+Gud,Ieg,Undirected,1
+Karl,Nifingee,Undirected,1
+Hannibal,William,Undirected,1
+Gaetanv Calchi,Guiseppe,Undirected,1
+Guiseppe,Marchese Gaetano Calchi,Undirected,2
+Gaetano,Pietro,Undirected,3
+Gaetano,Hannibal,Undirected,20
+Gaetano,Rødskjæg,Undirected,4
+Gud,Madonna,Undirected,1
+Gaetano,Marietta,Undirected,6
+Gaetano,Guiseppe,Undirected,2
+Guiseppe,Hermann,Undirected,1
+Dolken,Gaetano,Undirected,1
+Gaetano,Jakob,Undirected,1
+Guiseppe,Herman,Undirected,3
+Søren Nifinger,Villiam,Undirected,1
+Rosa,Villiam,Undirected,1
+Marietta,Rosa,Undirected,9
+Marchese Gaetano Calchi,Marietta,Undirected,1
+Gaetano Calchi,Marietta,Undirected,1
+Gaetano Calchi,Hannibal,Undirected,1
+Gaetano,Hugo Oxenskjold,Undirected,1
+Gaetano,Hugo,Undirected,6
+CIII,Sulkerbasse,Undirected,1
+Gaetano,Grev Hugos,Undirected,1
+Grev Ørnskjold,Hannibal,Undirected,5
+Gaetano,Grev Ørnskjold,Undirected,2
+Frands,Mikkel,Undirected,4
+Frands,Marie,Undirected,1
+Hejda,Mikkel,Undirected,1
+Hugo Ørnskjold,Marie,Undirected,1
+Hugo,Mikkel,Undirected,2
+Mikkel,ban,Undirected,1
+Hugo,ban,Undirected,1
+Hugo,Marie,Undirected,3
+Frands,Hugo,Undirected,1
+Ester,Hugo,Undirected,1
+Marie,OX,Undirected,1
+Hannibal,Hugo,Undirected,2
+Hugo,Pouline,Undirected,1
+Hugo,Karl,Undirected,1
+Gaetano,Lusifer,Undirected,1
+Hannibal,raabte Gaetano,Undirected,1
+Hanninibal,Poul,Undirected,1
+Hannibal,Vrnfljold,Undirected,1
+Brnskjold,Hannibal,Undirected,1
+Gaetano,sfreg,Undirected,1
+Hannibal,Orenskjold,Undirected,1
+Hannibal,Ørnskjold,Undirected,2
+Gaetano,Hannibal Grev Ornskjvlds,Undirected,1
+Hannibal,Ornskjold,Undirected,3
+Grev Ornskjold,Karl Brink,Undirected,1
+Karl,Ørnskjold,Undirected,3
+Karl,Ørnfljold,Undirected,1
+Hugo Ørnfljold,Karl,Undirected,1
+Karl,Ornfljold,Undirected,1
+CXVI.,Hannibal,Undirected,1
+Gud,Rødskjæg,Undirected,1
+Rsdskjoeg,hnn,Undirected,1
+Jomfru Bcrnhardine,def,Undirected,1
+Rødskjæg,Voxlys,Undirected,1
+Bernhardincs,Rødskjæg,Undirected,2
+Gud,elv,Undirected,1
+CXX,Gud,Undirected,1
+Carl Brink,Ørnskjold,Undirected,1
+Dc,Rosa,Undirected,1
+Hannibal,Hannibul,Undirected,1
+Bje,Rosa,Undirected,1
+Bje,Karl,Undirected,1
+Hannibal,Søren,Undirected,1
+Eden,Hannibal,Undirected,1
+Hannibal,Villam,Undirected,1
+Greve,borsørt,Undirected,1
+Ferdinand,Greven,Undirected,1
+Greve,Hugo,Undirected,1
+Hannibal,Hugo Ornstjold,Undirected,1
+Poul,Søren Nifinger,Undirected,1
+Grev Hugos,Karl,Undirected,1
+Greven,Hulda,Undirected,3
+Hannibal Gyldenstjerne,Isabella,Undirected,1
+Greven,Jsabellas,Undirected,1
+Grev Brok,Jsabellas,Undirected,1
+Jtalierindcns,Marietta,Undirected,1
+Gaetano,ril Hannibal,Undirected,1
+Hannibal,Janniskis,Undirected,1
+Grev Brok,Janniskis,Undirected,1
+Gaetano,Poul,Undirected,1
+Brok,Hannibal,Undirected,3
+Hannibal,Sukkerbasses,Undirected,3
+Hannibal,Laasen,Undirected,1
+Hannibal,Hulda,Undirected,1
+Hannibal,Mordvaabnct,Undirected,1
+Brok,Poul,Undirected,1
+Ieg,Ponl,Undirected,1
+Amandus,Rosa,Undirected,1
+Gud,Rosa,Undirected,1
+Brnskjold,Søren,Undirected,1
+Brnskjold,Karl,Undirected,1
+Søren,Søren Femfinger,Undirected,1
+Rosa,Søren Femfinger,Undirected,1
+Karl,Ornskjold,Undirected,2
+Karl,Rosa,Undirected,2
+Arnskjvld,Gaetano,Undirected,1
+Amandns,Marietta,Undirected,2
+Amandns,Hannibal,Undirected,1
+Andreas,Grev Brok,Undirected,1
+Gaetano,Ole,Undirected,1
+Karl,Vrnskjold,Undirected,2
+Baabcnlarm,Gaetano,Undirected,1
+Gaetano,Grev Hugo,Undirected,1
+Gaetano,Karl,Undirected,6
+Hannibal,Vrnskjold,Undirected,1
+Grev Ørnskjold,Karl,Undirected,1
+Mikael,Mikaels,Undirected,1
+Siarprettercn,fom,Undirected,1
+Ole,Søren,Undirected,1
+Mikael,Rødskjæg,Undirected,3
+Hannibal,Mikael,Undirected,15
+Hejda,Mikael,Undirected,2
+Hannibal,Rsdskjcæg,Undirected,1
+Janinski,Mikael,Undirected,1
+Ornfljold,Rosa,Undirected,1
+Karl Brink,Ornfljold,Undirected,1
+Grev Brok,Jawnskis,Undirected,1
+CXXXXVIII,Villiam,Undirected,1
+Ferdinand,Villiam,Undirected,1
+Kathrine,fhi,Undirected,1
+Greven,Kathrine,Undirected,2
+Hr. Grevens,Kathrine,Undirected,1
+Grev Brok,Kathrine,Undirected,1
+Greven,Villiam,Undirected,1
+Kathrine,Saar,Undirected,1
+Hejda,Kathrine,Undirected,1
+Hallunkcn,Isabella,Undirected,1
+Hallunkcn,Hannibal,Undirected,1
+Isabella,Marietta,Undirected,8
+Isabella,Rosa,Undirected,1
+Dvergen,Hannibal,Undirected,2
+Mariette,Øe,Undirected,1
+Isabella,pludiclig,Undirected,1
+Ahnclse,pludiclig,Undirected,1
+Ahnclse,Hannibal,Undirected,1
+Bolcrske,Marietta,Undirected,1
+Dvcrgen,Hannibal,Undirected,1
+Hannibal,Sukkerbasse,Undirected,1
+Isabella,Rodskjcæg,Undirected,1
+Rodskjcæg,Sukkerbasse,Undirected,1
+Hannibal,Hnn,Undirected,1
+Kathrine,Sukkerbasse,Undirected,1
+Hannibal,Pisfoler,Undirected,1
+Gaetano,Mikael,Undirected,1
+Grev Brok,Rødskjæg,Undirected,1
+Isabella,Kathrine,Undirected,7
+Amandus,Isabcllas,Undirected,1
+Guiscppa,Marietta,Undirected,1
+Herman,Pietro,Undirected,6
+Dvergen,Guiscppe,Undirected,1
+Guiscppe,Pietro,Undirected,2
+Hannibal,Panline,Undirected,2
+Panline,Rosa,Undirected,1
+Amandus,Grev Ørnskjold,Undirected,1
+Hnn,Isabella,Undirected,2
+Isaballa,Marietta,Undirected,1
+Amandus,Isabella,Undirected,1
+Kathrine,borf,Undirected,1
+Amandus,Kathrine,Undirected,6
+Dn,Kathrine,Undirected,1
+Hannibal,Malcdetto,Undirected,1
+Amandus,Giuseppe,Undirected,1
+Gaetano,as Pouline,Undirected,1
+Hannibal,Poulinc,Undirected,1
+Hannibal,Kathrine,Undirected,2
+Hannibal,Neppe,Undirected,1
+Therese,lsd,Undirected,1
+Rosa,Rødskjæg,Undirected,2
+Rosalie Helene Calchi,Rødskjæg,Undirected,1
+CLXXV,Rodskjæeg,Undirected,1
+Giuseppe,Pietro,Undirected,4
+Grev Ørnskjold,Kathrine,Undirected,1
+Amandns,Grev Ørnskjold,Undirected,1
+Kathrine,Ornstjold,Undirected,1
+Karl Brink,Ørnskjold,Undirected,1
+Ornskjold,Rosalie,Undirected,1
+Mikael,Moer,Undirected,1
+Mikael,Rødsfjæg,Undirected,1
+Gaetano,Rødsfjæg,Undirected,1
+Mikael,ri,Undirected,1
+Jsabellas,Marchese Agrani,Undirected,1
+Hannibal,Marchese Agrani,Undirected,1
+Gaetano,Isabella,Undirected,1
+Daare,Gaetano,Undirected,1
+Hnn,Marchesen,Undirected,1
+Isabella,Karl Brink,Undirected,1
+Hannibal,Marchesen,Undirected,1
+Hesfene,Mikael,Undirected,1
+Hesfene,Kudsken,Undirected,1
+Hannibal,Marchefens,Undirected,1
+Marchefens,Mikael,Undirected,1
+Karl,Rosalie,Undirected,19
+Mikael,Rosalie,Undirected,1
+,Karl,Undirected,1
+Karl,as,Undirected,1
+Gud,Rosalie,Undirected,3
+Rosa,Rosalie,Undirected,2
+Osficer,Rosalie,Undirected,1
+Isabella,Ornskjvld,Undirected,1
+Isabella,Katrine,Undirected,1
+Karl,imcllem hende,Undirected,1
+Grev Brnskjold,Isabella,Undirected,1
+Gud,Isabella,Undirected,1
+Bandits,Isabella,Undirected,1
+Grev Ornskjold,Gud,Undirected,1
+Gud,Hugo,Undirected,1
+Isabella,Marchesen,Undirected,2
+Jsabellas,Marchesen,Undirected,2
+Isabella,pt,Undirected,1
+Arnskjold,pt,Undirected,1
+Arnskjold,Isabella,Undirected,1
+Isabella,r. Greve,Undirected,1
+Grev Ornskjold,Greven,Undirected,1
+Gud,Marchesen,Undirected,1
+Grev Brok,saagar,Undirected,1
+Grev Ørnskjold,Isabella,Undirected,1
+Grev Ørnskjold,Greven,Undirected,1
+Greven,Marchese,Undirected,1
+Greven,el,Undirected,1
+Gaetano,Marchesen,Undirected,2
+Gaetano,Karl Brink,Undirected,1
+Karl Brink,Ornskjvld,Undirected,1
+JsabellaS,sik,Undirected,1
+Greven,Marchesen,Undirected,1
+Drnsfjold,Jsabellas,Undirected,1
+CXCIII,den gamle Marcheses,Undirected,1
+Grev Ørnfljold,Isabella,Undirected,1
+Gaetano,Øe,Undirected,1
+Karl,Rødskjæg,Undirected,2
+Rosalie,flal,Undirected,1
+Gaefano,Karl,Undirected,1
+Gaefano,Rosalie,Undirected,1
+Rosalie,Rødskjæg,Undirected,2
+Rosalie,Werl,Undirected,1
+Agram,Marchesen,Undirected,1
+Gactanos,Hannibal,Undirected,1
+Gaetano,Øxen,Undirected,1
+Herman,Marietta,Undirected,1
+Hannibal,Karl Brink,Undirected,1
+Karl Brink,Pietro,Undirected,1
+Maladetto,Pietro,Undirected,1
+Giuseppe,Maladetto,Undirected,1
+Diavolo,Maladetto,Undirected,1
+Amandus,Ornsfjold,Undirected,1
+Kathrine,Ornsfjold,Undirected,1
+Karl,Pauline,Undirected,1
+Amandus,Pauline,Undirected,1
+Armandus,Kathrine,Undirected,1
+Kathrine,L),Undirected,1
+Guiscppe,Onskct,Undirected,1
+Karl,Pietro,Undirected,1
+Guiseppe,Hcrmans,Undirected,1
+Cypriani,Hcrmans,Undirected,1
+Hrrmans,Pietro,Undirected,1
+AmanLuS,Sille,Undirected,1
+Amandns,Herman,Undirected,2
+Amandus,Bent,Undirected,1
+Amandus,Dn,Undirected,1
+Bernisr,Kellner,Undirected,1
+Bærnbach,Hannibal,Undirected,1
+Grev Bærenbach,Hannibal,Undirected,3
+Grev Gyldenstjerne,Hannibal,Undirected,8
+Hannibal,Hannibal Gyldensfjerne,Undirected,1
+Bastard,Greven,Undirected,1
+Bærenbach,Fyrst Bernier,Undirected,1
+Amalie,Greven,Undirected,5
+Bærenbach,Hannibal,Undirected,24
+Hannibal,Livrs,Undirected,1
+Bcrnwr,Bærenbach,Undirected,1
+Ferdinand,Hannibal,Undirected,7
+Hannibal,jez,Undirected,1
+Graad,Njne,Undirected,1
+Bernier,Hannibal,Undirected,5
+Grev Gyldenstjerne,Gyldenstjerne,Undirected,1
+Adre,Amalie,Undirected,1
+Adre,hnn,Undirected,1
+Amalie,Gyldensfjerne,Undirected,1
+Amalie,Gyldenstjerne,Undirected,13
+Amalie,Falkenstjcrne,Undirected,1
+Falkenstjcrne,Ornskjold,Undirected,1
+Brnfljolds,Hannibal,Undirected,1
+Amalie,Hannibal,Undirected,7
+Hannibal,paany,Undirected,1
+Amalie,Øe,Undirected,1
+Gyldenstjerne,Øe,Undirected,1
+Gyldenstjsrne,Hannibal,Undirected,1
+Bærenbach,Ferdinand,Undirected,2
+Grev Brock,Hulda Gyldenstjerne,Undirected,1
+Bærnbach,Ulrik,Undirected,1
+Hannibal,Panl,Undirected,1
+Hejda,Panl,Undirected,1
+Ferdinand,Hejda,Undirected,1
+Knvrreman,Peter Knvrreman,Undirected,1
+Peter,ingm Forbrydelse,Undirected,1
+Ferdinand,omkrinz Hannibal,Undirected,1
+Hannibal,Sorte Hannibal,Undirected,1
+Hannibal,j,Undirected,1
+J,j,Undirected,1
+Hejda,Karl,Undirected,1
+Karl,Peter Knorreman,Undirected,1
+Bcrrenbachs,Hannibal,Undirected,2
+Hannibal,Peter Knorrcmans,Undirected,1
+Gyldenstjcrnc,Hannibal,Undirected,1
+Falkenstjcrne,Hannibal,Undirected,1
+Falkenstjcrne,Gyldenstjerne,Undirected,1
+Greven,Hnn,Undirected,1
+Hannibal,Peter Knorreman,Undirected,1
+Bcrrenbach,Hannibal,Undirected,1
+Anna,Karl,Undirected,5
+Bærenbach,Harnibal,Undirected,1
+Bærenbach,Gaitanos,Undirected,1
+Bærenbach,Karl,Undirected,3
+Ernst,Jakob,Undirected,1
+Bærenbach,Ernst,Undirected,6
+Bærenbach,saade,Undirected,1
+Ernst,saade,Undirected,1
+Bernier saavel,Grev Bærenbach,Undirected,1
+Ernst,Grev Bærenbach,Undirected,1
+Hannibal,Overbetjenten,Undirected,1
+Ernst,Hannibal,Undirected,2
+Bærcnbach,Ernsf,Undirected,1
+Ernsf,Karl,Undirected,1
+Bæerenbach,Ernst,Undirected,1
+Ernst,Martin,Undirected,1
+Gyldenstjerne,Martin,Undirected,2
+Bernier,Martin,Undirected,2
+Grev Gyldenstjerne,Martin,Undirected,1
+Grev Gyldenstjerne,Greven,Undirected,1
+Greven,Gud,Undirected,2
+-,Anton,Undirected,1
+Anton,as Gaetano,Undirected,1
+Rosalie,as Gaetano,Undirected,1
+Anton,Gaetano,Undirected,1
+Dolken,Gyldenstjerne,Undirected,1
+Bernier,Gyldenstjerne,Undirected,3
+-Hannibal,Grev Gyldenstjerne,Undirected,1
+Fyrsfen,Greven,Undirected,1
+Amalie,Hugo,Undirected,1
+Amalie,Spaadom,Undirected,1
+Amalie Schulenborg,Familjes,Undirected,1
+Grev Gyldenstjernc,Greven,Undirected,1
+Amalie,Gyldenstjcrne,Undirected,1
+Gyldenstjerne,Hans,Undirected,2
+Bærenbach,Gyldenstjerne,Undirected,1
+Franz,Næshorn,Undirected,1
+Carlsderg,Næshorn,Undirected,1
+Ferdinand,Næshorn,Undirected,1
+Amalie,Fran,Undirected,1
+Ferdinand,Gyldenstjerne,Undirected,1
+Bcrrenbach,Ferdinand,Undirected,1
+Ferdinand besfreu,Greve,Undirected,1
+Amalie,Grev Gyldenstjerne,Undirected,1
+,Ernst,Undirected,3
+Ernst,Grev Gyldenstjerne,Undirected,1
+Bærcnbach,Hannibal,Undirected,1
+Bærcnbach,Gyldenstjerne,Undirected,1
+Hannibal,Skjær,Undirected,1
+Gyldenstjerne,RødeHans,Undirected,1
+Gyldenstjcrnc,Tys,Undirected,1
+Fyrst Bernier,Hannibal,Undirected,1
+Karl,Marietta,Undirected,1
+Elisabeth,Greven,Undirected,1
+Elisabeth,den graahaareds,Undirected,1
+Grev Ornskjold,Marietta,Undirected,1
+Marietta,Ørnskjold,Undirected,1
+Grev Ornskjold,Hannibal,Undirected,1
+Drnskjold,Hannibal,Undirected,1
+Bernier,Grev Ornskjold,Undirected,1
+Konsorter,Ornskjold,Undirected,1
+Gyldenstjerne,Schulcnborg,Undirected,1
+Amalie,Bernier,Undirected,1
+Amalie,hnn,Undirected,1
+Amalie,Greve,Undirected,2
+Amalie følfe,Olding,Undirected,1
+Amalie,Gud,Undirected,2
+Gyldenstjerne,paany,Undirected,1
+Grev Gyldenstjerne,Øe,Undirected,1
+Hannibal,Hannibal bavde,Undirected,1
+Marietta,Ornskjold,Undirected,1
+Gyldenstjerne,Karl,Undirected,2
+Gyldenstjerne,Ornskjold,Undirected,1
+Hannibal,Thomas,Undirected,1
+Grev Ørnskjold,Thomas,Undirected,1
+Karl,Thomas,Undirected,1
+Vilhelmine,modigsfe,Undirected,1
+Hugo,Wilhelmine,Undirected,1
+Agnes,Karl,Undirected,1
+Grev Ørnskjold,Greve,Undirected,1
+Amalie,Gyldenstjernc,Undirected,1
+Bernier,Gyldenstierne,Undirected,1
+Grev Gyldenstjerne,Gud,Undirected,1
+Grev Ørnskjold,Gyldenstjerne,Undirected,1
+hans,Ørnskjold,Undirected,1
+Drnskjvlds,Karl,Undirected,1
+Gyldenstjernc,Hannibal,Undirected,1
+Assessoren,Gyldenstjernc,Undirected,1
+Hannibal,Ornffjold,Undirected,1
+Grev Gyldcnstjcrne,Grev Ornskjold,Undirected,1
+Grev Ornskjold,Sebastian,Undirected,2
+Gyldenstjerne,Marietta,Undirected,1
+Gyldenstjerne,Ørnskjold,Undirected,1
+Sebastian,Ørnskjold,Undirected,2
+Fyrst Bernier,Ørnskjold,Undirected,1
+Bernier,Fyrst Bernier,Undirected,1
+Bernier,strax,Undirected,1
+Gyldenstjcrne,Marietta,Undirected,1
+Gyldenstjcrne,Sebastian,Undirected,1
+Hannibal,Sebastian,Undirected,1
+Amalie,sægde Gyldenstjerne,Undirected,1
+Carl Brinck,Rosalie,Undirected,2
+Brinck,Rosalie,Undirected,1
+Brinck,Hannibal,Undirected,1
+Kathrine,hnn,Undirected,1
+Bærenthal,Hannibal,Undirected,1
+Gyldenstjcrne,Gyldenstjerne,Undirected,1
+Gyldenstjcrne,Hnstru,Undirected,1

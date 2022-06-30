@@ -1,0 +1,363 @@
+source,target,type,weight
+Carl,Maria,Undirected,1
+Jørgen Jensen,Terkild Madsens,Undirected,2
+Jørgen Jensen,Verner,Undirected,2
+Jørgen,Maria,Undirected,5
+Gud,Verner,Undirected,1
+Alan,Steen,Undirected,1
+Jørgen,Lene,Undirected,43
+Gud,Lene,Undirected,2
+Barme,Lene,Undirected,1
+Barme,Jørgen,Undirected,1
+Gud,Jørgen,Undirected,1
+Verner,tom,Undirected,1
+Gud,tom,Undirected,1
+Ane,Gud,Undirected,2
+Gud,Maria,Undirected,2
+Maria,Verner,Undirected,20
+Jørgen,Verner,Undirected,15
+Husbond,Jørgen,Undirected,2
+Dn,Jørgen,Undirected,1
+Dn,Lene,Undirected,1
+Lene,Verner,Undirected,2
+Ane,Verner,Undirected,2
+Ane,Lene,Undirected,5
+Jørgen Jensen,lille Anna Verner,Undirected,1
+Jørgen,Jørgen Jensen,Undirected,2
+Verner,lille Anna,Undirected,1
+Jørgen,lille Anna,Undirected,1
+Kobbere,Verner,Undirected,1
+Anna,Verner,Undirected,2
+Anna,hnn,Undirected,14
+Jngling,hnn,Undirected,1
+Antonius,Jngling,Undirected,1
+Anna,Antonins,Undirected,2
+Anna,Antoninsbilledet,Undirected,2
+Anna,Antonius,Undirected,4
+Anna,hendx,Undirected,1
+Anna,Victor,Undirected,145
+Anna,Maria,Undirected,7
+Agathe,Anna,Undirected,2
+Agathe,hnn,Undirected,1
+Agathe,Bergmann,Undirected,1
+Agathe,Victor,Undirected,2
+Maria,Victor,Undirected,2
+Barme,Verner,Undirected,1
+Barme,Maria,Undirected,1
+Agathe,Maria,Undirected,3
+Jensen,Verner,Undirected,2
+Jørgen Jensen,Lene,Undirected,3
+Ane,Lille Anna,Undirected,1
+Ane,Maria,Undirected,1
+Ane,Anna,Undirected,6
+Lene,Maria,Undirected,8
+Lene,Lene Jørgen,Undirected,1
+Anna,Lene Jørgen,Undirected,1
+Anna,Lene,Undirected,25
+Lene,Lille Anna,Undirected,1
+Anna,Jørgen,Undirected,13
+Antonius,Lene,Undirected,1
+Lene,Tænte Agathe,Undirected,1
+Lene,Victor,Undirected,4
+Ane,Jørgen,Undirected,1
+Agathe,Verner,Undirected,1
+Marin,Verner,Undirected,1
+Maria,Marin,Undirected,1
+Anna,Nordfalk,Undirected,1
+Anna,Hans,Undirected,1
+Johannes,Victor,Undirected,3
+Valdemar,Victor,Undirected,1
+Dronning Dagmar,Valdemar,Undirected,1
+Dronning Dagmar,Konstner,Undirected,1
+Hansen,Victor,Undirected,3
+Gud,Martini,Undirected,1
+Jacob Hansen,Martini,Undirected,1
+Martini,Victor,Undirected,78
+Johannes,Martini,Undirected,1
+Karen,Martini,Undirected,1
+Martini,ester,Undirected,1
+Martini,kjære Hansen,Undirected,1
+Carl Verner,Martini,Undirected,1
+Martini,Verner,Undirected,1
+Verner,Victor,Undirected,1
+Grevinde Gyldcnfeldt,Maria Verner,Undirected,1
+Gyldenfcldts,Martini,Undirected,1
+Gyldenfcldts,Verner,Undirected,1
+Gyldenfeldt,Martini,Undirected,3
+Bøgevang,Gyldenfeldt,Undirected,1
+Bøgevang,as,Undirected,1
+Martini,Pastor,Undirected,1
+Pastor,Verner,Undirected,1
+Andrea del Sarto,Verner,Undirected,1
+Signore,Verner,Undirected,1
+Grevinde Gyldcnfcldt,Signore,Undirected,1
+Hnn,kelig,Undirected,1
+Hnn,hnn,Undirected,1
+Anna,Sophaen,Undirected,1
+Lille Anna,Sophaen,Undirected,1
+Antonius,Lille Anna,Undirected,1
+Antonius,Martini,Undirected,1
+Martini,Victor.,Undirected,1
+Martini,meente,Undirected,1
+Anna,Gyldenfeldt,Undirected,4
+Bergmann,Victor,Undirected,1
+Bien,Victor,Undirected,1
+Hr. Martini,Victor,Undirected,1
+Gud,Victor,Undirected,3
+Jacob Hansen,Victor Bergmann,Undirected,1
+Konstnerbancn,Martini,Undirected,1
+Dn,Victor,Undirected,1
+Dn,Victor Bergmann,Undirected,1
+Victor,Væxt,Undirected,2
+Don,Victor,Undirected,1
+Don,Vittorio,Undirected,1
+Annarella,Victor,Undirected,21
+Signore,Victor,Undirected,3
+Annarella,Signore,Undirected,2
+Signorino,Victor,Undirected,1
+Annarcllas,Signorino,Undirected,1
+Don Vittorio,Victor,Undirected,3
+Bravo,bslii Aiovani,Undirected,1
+Hansen,Martini,Undirected,2
+Hansen,assides,Undirected,1
+Victor,assides,Undirected,1
+Donna Serafina,Signori,Undirected,1
+Dands,Signori,Undirected,1
+Don Vittorio,Signore,Undirected,1
+Don Vittorio,Maria,Undirected,1
+Annarella,Tarantellen,Undirected,1
+Oapri,Tarantellen,Undirected,1
+Annarella,Don Vittorio,Undirected,1
+Annarella,Martini,Undirected,8
+Marfini,Monsieur Gaspard,Undirected,1
+Marfini,Victor,Undirected,1
+Martini,Victor sfal,Undirected,2
+Anna,Lille Anna,Undirected,3
+Anna,Annarella,Undirected,2
+Annarella,hnn,Undirected,2
+Anna,Gyldenfeldf,Undirected,1
+Gyldenfeldf,Martini,Undirected,1
+Anna,Martini,Undirected,30
+Annarella,Michel Angelos,Undirected,1
+Michel Angelos,Onofrio,Undirected,1
+Onofrio,Tasso,Undirected,1
+Colosseum,Verner,Undirected,1
+Hillemænd,Lille Anna,Undirected,1
+Hillemænd,Victor,Undirected,1
+Cousine,Victor,Undirected,1
+Anna,Cousine,Undirected,1
+Anna,Martini forat,Undirected,1
+Prinds Borghese,Victor,Undirected,1
+Victor,rafl,Undirected,1
+Martini,rafl,Undirected,1
+Angelica,Sparres,Undirected,3
+Angelica,Sparre,Undirected,3
+Angelica,Anna,Undirected,31
+,Angelica,Undirected,1
+Birken,hnn,Undirected,1
+Birken,Jørgen Jensen,Undirected,1
+Anna,Gud,Undirected,5
+Anna,Bergmann,Undirected,1
+Hr. Bergmann,Victor,Undirected,1
+Anna,Tante Agathe,Undirected,1
+Adam,Anna,Undirected,1
+Adam,Evas,Undirected,1
+Anna,Evas,Undirected,1
+Anna,Christne,Undirected,1
+Amors,Victor,Undirected,1
+Victor,lee,Undirected,3
+Anna,lee,Undirected,1
+Victor,soran,Undirected,1
+Anna,Dandsen,Undirected,1
+Angelica,Victor,Undirected,13
+Bøgcvang,Victor,Undirected,1
+Angelica,Bøgcvang,Undirected,2
+Angelica,Hr. Bergmann,Undirected,1
+Angelica,hnn,Undirected,2
+Victor,hnn,Undirected,7
+Anna,Johnson,Undirected,8
+Angelica,Bergmann,Undirected,2
+Bergmann,Nordfalk,Undirected,1
+Adonis,Angelica,Undirected,1
+Adonis,Brynie,Undirected,1
+Angelica,Stucn,Undirected,1
+Anna,Docforen,Undirected,1
+Angelica,Doctor Johnson,Undirected,1
+Angelica,Cuur,Undirected,1
+Anna,Grevinden,Undirected,1
+Anna,Nn,Undirected,2
+Doctoren,Victor,Undirected,4
+Victor,frisf,Undirected,1
+Hr. Bergmann,frisf,Undirected,1
+Victor,toren,Undirected,1
+Anna,Doctoren,Undirected,4
+Bøgcvang,Doctoren,Undirected,1
+Bian,Victor,Undirected,1
+Angelica,Gustav Sparres,Undirected,1
+Antoniusbilledets,Victor,Undirected,1
+Anna,Doctor Johnson,Undirected,1
+Doctorcns,Victor,Undirected,1
+Doctor Johnson,Victor,Undirected,1
+Angelica,Grevinden,Undirected,1
+Anna,pna Bøgcvang,Undirected,1
+Angelica,pna Bøgcvang,Undirected,1
+Angelica,Grev Sparres,Undirected,1
+Anna,Grev Sparres,Undirected,1
+Anna,ester,Undirected,1
+Victor,Victor sra,Undirected,1
+Peters,Victor sra,Undirected,1
+Huns,Peters,Undirected,1
+Huns,gua uosko8u,Undirected,1
+El Glas,Victor,Undirected,1
+Anna,El Glas,Undirected,1
+Angelica,Martini,Undirected,2
+Bøgevang,Victor,Undirected,2
+Bøgevang,Martini,Undirected,1
+Konstnerøje,Victor,Undirected,1
+Benedictus,Victor,Undirected,2
+Victor,afBenedictus,Undirected,1
+Antoniusbilledet,afBenedictus,Undirected,1
+Anna,Antoniusbilledet,Undirected,1
+Le Moulin,Monsieur Gaspard,Undirected,1
+Monsieur Gaspard,Monsieur Vittorio,Undirected,1
+Gaspard,Monsieur Vittorio,Undirected,1
+Gaspard,Victor,Undirected,6
+Victor,batiø^a,Undirected,1
+Oupri,batiø^a,Undirected,1
+Martini,Vicfor,Undirected,2
+Carnevalstone ovcrdængede,Vicfor,Undirected,1
+Carnevalstone ovcrdængede,Confetti,Undirected,1
+Confetti,Victor,Undirected,1
+Martini,rejsf,Undirected,1
+Konstens,rejsf,Undirected,1
+Corsoen,Martini,Undirected,1
+Domino,Martini,Undirected,1
+Alan,Victor,Undirected,2
+Masfen,Victor,Undirected,1
+Anna,Masfen,Undirected,1
+Gylden -,feldt,Undirected,1
+Martini,feldt,Undirected,1
+Anna,Hr. Bergmann,Undirected,1
+Bergmann,Grev Sparre,Undirected,1
+Angelica,Grev Sparre,Undirected,1
+Anna,Sparre,Undirected,1
+Mandolin,Victor,Undirected,1
+Anna,Mandolin,Undirected,1
+6iovanni,Anna,Undirected,1
+Anna,Madonnas,Undirected,2
+Anna,Signora,Undirected,1
+Anna,Margherita,Undirected,12
+Anna,Uhrets,Undirected,1
+Uhrets,Victor,Undirected,1
+Graad,Victor,Undirected,1
+Anna,Graad,Undirected,1
+Madonna,Margherita,Undirected,3
+Margherita,hnn,Undirected,1
+Pater Anselmo,hnn,Undirected,1
+Anselmos,Pater,Undirected,1
+Anselmos,Maria,Undirected,1
+Hagen,Martini,Undirected,1
+Anna,Hagen,Undirected,1
+Aare,Victor,Undirected,1
+Aare,Anna,Undirected,1
+Hnn,Victor,Undirected,1
+Anna,Madonna,Undirected,1
+Anna,Anna sfadig,Undirected,1
+Don Vittorio,hnn,Undirected,1
+Annarclla,Victor,Undirected,3
+Martini,Pater Anselmo,Undirected,1
+Madonna,Pater Anselmo,Undirected,1
+Margherita,dcn,Undirected,1
+Lene,hnn,Undirected,1
+Victor,fig,Undirected,1
+fig,hnn,Undirected,1
+Anna,Signor Vittorio,Undirected,1
+Signor Vittorio,Victor,Undirected,2
+Madonna,Victor,Undirected,1
+Anna,Banquieren,Undirected,1
+Banquieren,Hr. Bergmann,Undirected,1
+Anna,Florents,Undirected,2
+Diligencens,Florents,Undirected,1
+Anna,Diligencens,Undirected,1
+Anna,nn,Undirected,1
+Anna,huu,Undirected,1
+boe,huu,Undirected,1
+Anna,boe,Undirected,1
+Anna,Mademoiselle Sarasin,Undirected,11
+Anna,mam,Undirected,1
+Mademoiselle,mam,Undirected,1
+Mademoiselle,Sarasin,Undirected,1
+Anna,Sarasin,Undirected,1
+Mademoiselle Sarasin,Victor,Undirected,1
+Anna,Kjørctur,Undirected,1
+Mademoiselle Sarasin,Martini,Undirected,2
+Martini,strax,Undirected,1
+Victor,strax,Undirected,1
+Victor,tom,Undirected,1
+Anna,tom,Undirected,1
+Ariadne,Victor,Undirected,1
+Ariadne,Pantheren,Undirected,1
+Martini,Pantheren,Undirected,1
+Martini,äol,Undirected,2
+Karl,Martini,Undirected,1
+Karl,Victor,Undirected,1
+Jørgen Jensen,Martini,Undirected,1
+Bøgcvang,Jørgen Jensen,Undirected,1
+Barme,Gud,Undirected,1
+Anna,soni,Undirected,1
+Anna,tans,Undirected,2
+Anna,Jørgen Jensen,Undirected,1
+Anna angst,Jørgen Jensen,Undirected,1
+Anna,Anna angst,Undirected,1
+Johnson,Martini,Undirected,1
+Anna,glcdc,Undirected,1
+Anna,Victor hisset,Undirected,1
+Johnson,Victor hisset,Undirected,1
+Johnson,Jørgen,Undirected,1
+AnnaS,Lene,Undirected,1
+AnnaS,Glands,Undirected,1
+Glands,maasfee,Undirected,1
+Anna,maasfee,Undirected,1
+AngelicaS,Anna,Undirected,1
+Executor,Johnson,Undirected,1
+Lene,Præsf,Undirected,1
+Anna,Antoniusbillcde,Undirected,2
+Martini,franste Konstner,Undirected,1
+Monsieur Gaspard,franste Konstner,Undirected,1
+Martini,Monsieur Gaspard,Undirected,2
+Konstner,Martini,Undirected,1
+,G.,Undirected,1
+Annarella,lu bøUazM äi Capri,Undirected,1
+Monsieur Martini,Signor Vittorio dandse,Undirected,1
+Monsieur Bergmann,Signor Vittorio dandse,Undirected,1
+Antonius,Bcnedictus,Undirected,1
+Signori,Victor,Undirected,1
+Benedictus,Signori,Undirected,1
+Benedictus,Martini,Undirected,1
+Signor Thomaso,Victor,Undirected,4
+Gastano,Signor Thomaso,Undirected,1
+Antonius,Gastano,Undirected,1
+Antonius,Benedictus,Undirected,1
+Gaotanos,Signori,Undirected,1
+Victor,idethan,Undirected,1
+Martini,idethan,Undirected,1
+Doctor Johnson,Martini,Undirected,2
+Victor,VictorAnna,Undirected,1
+Martini,VictorAnna,Undirected,1
+Victor,øg Johnson,Undirected,1
+Anna,koni,Undirected,1
+Victor,koni,Undirected,1
+Doctoren,Jørgen,Undirected,1
+Endnn,Martini,Undirected,1
+Endnn,Victor,Undirected,1
+Antonius,Victor,Undirected,1
+Anna rakfe,Martini,Undirected,1
+Martini,Signor Thomaso,Undirected,1
+Anna,Herren,Undirected,1
+Monsieur Gaspard,Signor Vittorio,Undirected,1
+Monsieur Gaspard,Victor,Undirected,1
+Gaspard,Martini,Undirected,1
+Gaspard,Signor Vittorio,Undirected,1
+Gaspard,Signor,Undirected,1
+Signor Vittorio,Vittorio,Undirected,1
+Gaspard,Victor strax,Undirected,2

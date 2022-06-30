@@ -1,0 +1,549 @@
+source,target,type,weight
+Itu,Rotfeldters,Undirected,1
+Ernest Renneville,Peder Sørensens,Undirected,1
+Niels Alsing,Renneville,Undirected,1
+Erik Rotfeldt,Niels Alsing,Undirected,15
+Frøken Edele,Niels Alsing,Undirected,1
+Alexis,Frøken Edele,Undirected,1
+Alexis,Gustav,Undirected,10
+Erik,Gustav,Undirected,42
+Edele,Erik,Undirected,37
+Edele,Gustav,Undirected,26
+Alexis,Rotfeldt,Undirected,2
+Clara Rotfeldt,Jørgen Nielsen,Undirected,1
+Elsfer,Jørgen Nielsen,Undirected,1
+Christen Nielsen,Niels Alsing,Undirected,1
+Lindholms,Marie,Undirected,1
+Alexis,Niels Alsing,Undirected,11
+Niels Alsing,Skjels,Undirected,1
+Gustav —,Skjels,Undirected,1
+Iionnour,Uarolo ä,Undirected,1
+Agathe,Agathe Renneville,Undirected,1
+Agathe,Papa,Undirected,5
+Agathe,Cøgnak,Undirected,2
+Agathe,Ane,Undirected,1
+Agathe,Guds,Undirected,3
+Papa,Philippa,Undirected,1
+Papa,niente Agathe,Undirected,1
+Agathe,Obersfen,Undirected,2
+Agathe,Niels Alsing,Undirected,32
+Erik Rotfeldt,hans Heelsøster,Undirected,1
+Edele,hans Heelsøster,Undirected,1
+Edele,reen,Undirected,1
+Alexis Notfeldt,Ernest Renneville,Undirected,1
+Agathe,Ernest Renneville,Undirected,1
+Agathe,Alexis,Undirected,31
+Agathe,Erik Rotfeldt,Undirected,10
+Niels Alsing,Rotfeldt,Undirected,4
+Møller,Niels Alsing,Undirected,2
+Gustav,Niels Alsing,Undirected,22
+Gustav,Lindholms,Undirected,1
+Jørgen,Lindholms,Undirected,1
+Christen,Jørgen,Undirected,1
+Christen,Niels Alsing,Undirected,2
+Niels Alsing,Notfeldt,Undirected,1
+Erik ' Rotfeldt,Rotfeldt,Undirected,1
+Obersfen,frank,Undirected,1
+Obersten,flog,Undirected,1
+Agathe,flog,Undirected,1
+Agathe seent,Erik Rotfeldt,Undirected,1
+Agathe,Edele Rotfeldt,Undirected,4
+Alexis,Edele Rotfeldt,Undirected,1
+Alexis,Gustav Rotfeldts,Undirected,1
+Edele,Gustav Rotfeldts,Undirected,1
+Erik Rotfeldt,Rotfeldt,Undirected,1
+Obersf,Rotfeldt,Undirected,1
+Armant Rcnneville,Rotfeldt,Undirected,1
+Armant Rcnneville,bausf,Undirected,1
+Agathe,bausf,Undirected,1
+Agathe,Fransf,Undirected,1
+Agathe,fransfe,Undirected,2
+Frøken Agathe,Rotfeldt,Undirected,1
+Frøken Agathe,nied Edele,Undirected,1
+Edele,nied Edele,Undirected,1
+Erik Rotfeldt,Jørgen Rotfeldts,Undirected,1
+Edele,Jørgen Rotfeldts,Undirected,1
+Christine Stjernholm,Erik,Undirected,1
+Amelie Lafleur,Christine Stjernholm,Undirected,1
+Amelie Lafleur,Gustav,Undirected,1
+Gustav,Skjels,Undirected,1
+Agathe,Gustav Rotfeldt,Undirected,10
+Agathe,Erik,Undirected,33
+Alexis,Edele,Undirected,6
+Agathe Nenneville,Gustav Rotfeldt,Undirected,1
+Agathe,Rotfeldt,Undirected,2
+Alexis Rotfeldt,Erik,Undirected,1
+Alexis,Erik,Undirected,3
+,Alexis,Undirected,4
+,S,Undirected,1
+Alexis,S,Undirected,1
+Alexis,Erik Rotfeldt,Undirected,1
+Darols,Erik Rotfeldt,Undirected,1
+Darols,kjære Rotfeldt,Undirected,1
+Alexis,kjære Rotfeldt,Undirected,1
+Alexis,lee,Undirected,2
+Edele,Erik Rotfeldt,Undirected,7
+Agathe,Arne,Undirected,1
+Arne,Beiler,Undirected,1
+Agathe,Beiler,Undirected,1
+Benjamin Constant,George Sand,Undirected,1
+Byron,George Sand,Undirected,1
+Agathe,Byron,Undirected,1
+Agathe,George Sand,Undirected,1
+Barme,Erik Rotfeldt,Undirected,1
+Agathe,Symphathi,Undirected,1
+Ernest Nenneville,Symphathi,Undirected,1
+Erik Rotfeldt,Ernest Nenneville,Undirected,1
+Erik Rotfeldt,hnn,Undirected,2
+Erik,hnn,Undirected,6
+Gusfav Rotfeldt,Gustav,Undirected,1
+Agathe,soni,Undirected,3
+Edele,soni,Undirected,1
+Alexis,Gustav Notfeldts,Undirected,1
+Edele,hnn,Undirected,5
+Agathe,Edele,Undirected,59
+Agathe,Hnn,Undirected,3
+Edele,lee,Undirected,2
+Agathe gjettcde,Edele,Undirected,1
+Agathe,hnn,Undirected,9
+Agathe taug,Edele,Undirected,1
+Edele,Gustav Rotfeldt,Undirected,1
+Alexis,Gustav Rotfeldt,Undirected,1
+Gustav,Sidsfes,Undirected,1
+Agathe,Sidsfes,Undirected,1
+Agathe,Gustav,Undirected,56
+Edele,sire,Undirected,2
+Erik Rotfeldt,Ravnsborg,Undirected,1
+Gustav Rotfeldt,Ravnsborg,Undirected,1
+Agathe,høilig,Undirected,1
+fee Edele Rotfeldt,høilig,Undirected,1
+Edele,fee Edele Rotfeldt,Undirected,1
+Agathe,Karl,Undirected,1
+Erik,Niels Alsing,Undirected,12
+Edele,Tct,Undirected,1
+Agathe,Tct,Undirected,1
+Agathe,kjær,Undirected,1
+Alexis,Rollo,Undirected,3
+Alexis,Rollo streifede,Undirected,1
+Jørgen Notfeldts,Rollo streifede,Undirected,1
+Agathe,Jørgen Notfeldts,Undirected,1
+Agathe,Johannes Ewalds,Undirected,1
+Erik Notfeldt,hnn,Undirected,1
+Alexis,hnn,Undirected,1
+,Agathe,Undirected,2
+Erik,Ernest Rennevillcs,Undirected,1
+Edele,Rollo,Undirected,1
+Niels Alsing,Rollo,Undirected,1
+Alexis,Nollo,Undirected,1
+Agathe,Alexis Rotfeldt,Undirected,1
+Agathe,Lindholms,Undirected,1
+Holger Danske,Lindholms,Undirected,1
+Holger Danske,Rollo,Undirected,1
+AlexiS,Rollo,Undirected,1
+,AlexiS,Undirected,1
+,Holger Danske,Undirected,1
+Blichers,Ruricolus,Undirected,1
+Alexis,Ruricolus,Undirected,1
+Alexis,Lene,Undirected,1
+Agathe,Helene,Undirected,25
+Agathe,Helene Lindholm,Undirected,4
+Edele Rotfeldt,Helene Lindholm,Undirected,1
+Flegma,Helene,Undirected,1
+Flegma,Jørgen,Undirected,1
+Agathe,Jørgen,Undirected,2
+Frn Lindholm,Niels Alsing,Undirected,1
+Agathe,Frn Lindholm,Undirected,1
+Jørgen,Niels Alsing,Undirected,22
+Christne,Niels Alsing,Undirected,1
+Chrisfen,Christne,Undirected,1
+Niels Alsing,øg,Undirected,4
+Agathe,Hr. Alsing,Undirected,1
+Lindholm,Niels Alsing,Undirected,3
+Marie,Niels Alsing,Undirected,2
+Alexis,Helene,Undirected,1
+Alexis,Helene Lindholm,Undirected,1
+Alexis,Holger Danske,Undirected,1
+Agathe,Alexis knnde,Undirected,1
+Aaens,Agathe,Undirected,2
+Agathe,Rollo,Undirected,1
+Agathe,Christen,Undirected,1
+Christen,Niels,Undirected,1
+Alexis,Niels,Undirected,1
+Edele,Niels,Undirected,14
+Erik,Niels,Undirected,4
+Alexis,Christen,Undirected,1
+Agathe,Marie,Undirected,1
+Alexis,Marie Nielsen,Undirected,2
+Niels Alsing,nn,Undirected,1
+Agathe,nn,Undirected,1
+hnn,ifjor,Undirected,1
+Agathe,Faders,Undirected,1
+Agathe,Chrisfus,Undirected,1
+Chrisfus,Christus,Undirected,1
+husf,lee,Undirected,1
+Christen Lindholm,Jakobs,Undirected,1
+Alexis,Christen Lindholm,Undirected,1
+Niels Alsing,hnn,Undirected,3
+Gustav Rotfeldt,Niels Alsing,Undirected,5
+Gustav Rotfeldt,son,Undirected,1
+Niels Alsing,son,Undirected,1
+Alexis taug,Edele,Undirected,2
+Agathe,Alexis taug,Undirected,1
+Gustav,Lars,Undirected,5
+Gustav,Karen,Undirected,1
+Karen,Lars,Undirected,1
+Alexis,gjerne,Undirected,1
+Agathe,Gunvers,Undirected,1
+,hnn,Undirected,1
+Hnn,hnn,Undirected,1
+Edele,Thee,Undirected,2
+Camillathce,Edele,Undirected,1
+Camillathce,Gustav Rotfeldt,Undirected,1
+Alexis,Renneville,Undirected,1
+Gustav,Rotfeldt,Undirected,1
+Alexis,Ernest Nenneville,Undirected,1
+Ernest Nenneville,fransfe,Undirected,1
+Gustav Rotfeldt,fransfe,Undirected,1
+Gustav,Gustav Rotfeldt,Undirected,1
+Gustav,fransfe,Undirected,1
+Edele,meo,Undirected,1
+Edele,Karen,Undirected,1
+Hymens,Karen,Undirected,1
+Helene,Hymens,Undirected,1
+Helene,Niels Alsing,Undirected,4
+Alexi,Niels Alsing,Undirected,8
+,Alexi,Undirected,10
+,Jørgen Lindholm,Undirected,1
+Edele,nien,Undirected,1
+Erik,nien,Undirected,2
+Hain,Niels Alsing,Undirected,1
+Niels Alsing,soni,Undirected,1
+Gustav,Steen,Undirected,1
+KjelderenS,Steen,Undirected,1
+Gustav Rotfeldt,Straahattcns,Undirected,1
+Erik,Gustav Rotfeldt,Undirected,2
+Barme,hnn,Undirected,1
+Barme,Gustav Rotfeldt,Undirected,1
+Agathe Nenneville,Alexi,Undirected,1
+Alexi,Gustav,Undirected,22
+Adre,Gustav Rotfeldt,Undirected,1
+Frøken Agathe,Renneville,Undirected,1
+Frøken Agathe,Gustav Rotfeldt,Undirected,1
+Agathe,Krisis,Undirected,1
+Agathe,Alexi,Undirected,10
+Agathe,loe,Undirected,3
+Klenodiet,Rotfeldt,Undirected,1
+Gustav,loe,Undirected,2
+Fransf,Mødreneland,Undirected,1
+Agathe,bien,Undirected,1
+Agathe,rlon8ldranys,Undirected,1
+ban,rlon8ldranys,Undirected,1
+ban,hnn,Undirected,1
+Alexi,AlexiS,Undirected,1
+Alexi,Erik,Undirected,18
+Edele,Gustav Notfeldts,Undirected,1
+Gustav Notfeldts,Gustav Rotfeldt,Undirected,1
+Agathe,Notfeldters,Undirected,1
+Agathe,Gustav Notfeldts,Undirected,1
+Gustav,Gustav Notfeldts,Undirected,2
+Erik,Erik Rotfeldt,Undirected,1
+Gustav,Hnn,Undirected,2
+Erik,Jørgen Rotfeldt,Undirected,1
+Alexi,Christen,Undirected,1
+Gustav,Marie,Undirected,1
+Edele,Niels Alsing,Undirected,22
+Dn,Niels Alsing,Undirected,1
+Dn,Gustav,Undirected,1
+Dn,Niels,Undirected,1
+Dn,Lau <,Undirected,1
+Gustav,obaolin son Fallt,Undirected,1
+Gusfav Rotfeldt,Niels Alsing,Undirected,3
+Niels,Niels Alsing,Undirected,5
+Gustav,Niels,Undirected,6
+Gustav,Jørgen Lindholm,Undirected,2
+Jørgen Lindholm,Marie,Undirected,1
+Marie,hnn,Undirected,1
+Gustav,hnn,Undirected,2
+Guds,Gustav,Undirected,1
+Guds,Niels Alsing,Undirected,1
+Helene Lindholm,Niels Alsing,Undirected,1
+Helene,Helene Lindholm,Undirected,1
+Benjamin Conftants,Helene,Undirected,1
+Benjamin Conftants,Gustav Rotfeldt,Undirected,1
+Adolphe,Helene,Undirected,3
+Gud,ce n,Undirected,1
+Eva,Gud,Undirected,1
+Ban,Eva,Undirected,1
+Ban,Gustav,Undirected,1
+Adolphe,Gustav,Undirected,1
+Eleonores,Helene,Undirected,1
+Adolphe,Gustav Rotfeldt,Undirected,1
+Adolphe,Benjamin Constant,Undirected,1
+Benjamin Constant,Helene,Undirected,1
+Helene,ban,Undirected,1
+Præsfs,ban,Undirected,1
+Præsfs,Rotfeldt,Undirected,1
+Hellene,Skjelds,Undirected,1
+Edele,Moses,Undirected,1
+Moses,Stakkel,Undirected,1
+Stakkel,sfkiZis,Undirected,1
+Edele,sfkiZis,Undirected,1
+Helene,lee,Undirected,2
+TereS.,lee,Undirected,1
+Marie,TereS.,Undirected,1
+Helene,Marie,Undirected,1
+Helene,hnn,Undirected,3
+Jørgen,tom,Undirected,1
+Gustav,Jørgen,Undirected,11
+Jørgen,Pathos,Undirected,1
+butelljan,timman ilar,Undirected,1
+Bellmann,Gustav,Undirected,1
+Arne —,Saint-George,Undirected,1
+Gustav,Mied,Undirected,1
+Georg,Gustav,Undirected,1
+Helene,Jørgen,Undirected,3
+Gustav,Helene,Undirected,6
+Jørgen,ester,Undirected,1
+ester,por llovsm,Undirected,1
+Jørgen,por llovsm,Undirected,1
+Jørgen,Karen,Undirected,1
+Jørgen,rrmi,Undirected,1
+Gud,Gustav,Undirected,2
+Bravo,Jørgen,Undirected,1
+Jørgen,Tine,Undirected,1
+Gustav,Ieg,Undirected,1
+Gustav,snors,Undirected,1
+Agathe,tanse,Undirected,2
+Agathe,Benjamin Constant,Undirected,1
+Benjamin Constant,Madame Stael,Undirected,1
+George Sand,Madame Stael,Undirected,1
+George Sand,Gustav Rotfeldt,Undirected,1
+Amedv Achard,hnn,Undirected,1
+Agathe,henles,Undirected,1
+Agathe,Kjærligheds,Undirected,1
+Gustav,Kjærligheds,Undirected,1
+Erik,idel Gustav,Undirected,1
+Erik,Gud,Undirected,3
+Frøken Renneville,Gustav,Undirected,1
+Agathe Renneville,Erik,Undirected,1
+Nenneville,nied,Undirected,1
+Præsfen,nied,Undirected,1
+Præsfen,ester,Undirected,1
+Erik Rotfeldt,ester,Undirected,1
+Pastorens,taug,Undirected,1
+Pasforen,Pastorens,Undirected,1
+Edele Rotfeldt,Renneville,Undirected,1
+Edele Rotfeldt,Hnn,Undirected,1
+Donners,Gustav,Undirected,1
+Gustav Rotfeldt,Jørgen,Undirected,1
+Niels Alsing,lidf,Undirected,1
+Alsing,Niels Alsing,Undirected,1
+Niels Alsing,Theori,Undirected,2
+Christus,Niels Alsing,Undirected,1
+Niels Alsing,jø,Undirected,1
+Gud,jø,Undirected,1
+Gud,Gustav Rotfeldt,Undirected,2
+Erik,Hain,Undirected,1
+Gustav,Hain,Undirected,3
+Alexi,Alexis-,Undirected,1
+Alexis-,Edele,Undirected,1
+Agathe,Lars,Undirected,1
+Erik,Lars,Undirected,3
+Gustav,Niels Notfeldts,Undirected,1
+Alexi,Edele,Undirected,9
+Edele,Niels Rotfeldt,Undirected,1
+Alexi,Lars,Undirected,2
+Lars,Spaadom,Undirected,1
+,Lars,Undirected,1
+Edele,sfille,Undirected,1
+Lars,sfille,Undirected,1
+Lars,S,Undirected,1
+Edele,S,Undirected,1
+Agathe,Edele taug,Undirected,1
+Agathe,Gud,Undirected,4
+Erik,fiin,Undirected,1
+Alexi,fhi,Undirected,1
+Agathe,kunds,Undirected,2
+Agathe,Erik Notfeldt,Undirected,5
+Engels,Gustav,Undirected,1
+Alexi,nied,Undirected,1
+fransfe,nied,Undirected,1
+Alexi,fransfe,Undirected,1
+Alexi,Gustav Notfeldts,Undirected,1
+Edele,Lars,Undirected,2
+Gustav,Roes,Undirected,1
+Erik,knuusf,Undirected,1
+Gustav,Obaoun son,Undirected,1
+Erik,Obaoun son,Undirected,1
+Erik,Ludvig den,Undirected,1
+Ludvig den,NavnSborg,Undirected,1
+Erik,NavnSborg,Undirected,1
+Erik,Notfeldt,Undirected,1
+Erik,Faders,Undirected,1
+Faders,Gusfav,Undirected,1
+Edele,Gusfav,Undirected,4
+Alexi,gridfl,Undirected,2
+Arlund,Edele,Undirected,2
+Agathe,hans,Undirected,1
+hans,nien,Undirected,1
+Agathe,Lindholm,Undirected,2
+Gustav Rotseldts,Lindholm,Undirected,1
+Gustav Rotseldts,Helene,Undirected,1
+Agathe,nieb Haab,Undirected,1
+Agathe,as,Undirected,1
+Agathe,AgatheS,Undirected,1
+AgatheS,Gustav Agathes,Undirected,1
+Elskovs,Gustav Agathes,Undirected,1
+Elskovs,Gustav,Undirected,1
+Agathe,Nette,Undirected,1
+Agathe,Gusfav,Undirected,2
+Agathe fornam,Gustav Rotfeldt,Undirected,1
+Lindholm,Tu,Undirected,1
+Frøken Lindholm,Tu,Undirected,1
+Agathe,Ten nærmeste,Undirected,1
+Helene,koni,Undirected,1
+Agathe,koni,Undirected,1
+Agathe,Glands,Undirected,1
+Glands,Helene,Undirected,1
+Helene,Obersfen,Undirected,1
+Gustav Rotfeldt,Obersfen,Undirected,1
+Gustav Rotfeldt,hnn,Undirected,2
+Agathe,Ten,Undirected,1
+Helene,Ten,Undirected,1
+Jørgen,Obersfen,Undirected,1
+Gustav,Pamonr,Undirected,1
+Agathe,Jørgen Lindholm,Undirected,4
+Jørgen,Jørgen Lindholm,Undirected,2
+Agathe,Frøken Lindholm,Undirected,1
+Jørgen,Rotfeldt,Undirected,1
+Gustav,soni,Undirected,1
+Erik Notfeldf,Gustav,Undirected,1
+Edele,Erik Notfeldf,Undirected,1
+Helene,Rotfeldt,Undirected,1
+Dein,Rotfeldt,Undirected,1
+Dein,Edele,Undirected,1
+Hain,Rotfeldt,Undirected,1
+Edele,Hain,Undirected,2
+Gustav,Øe,Undirected,1
+Gud,Helene,Undirected,2
+Gud,lee,Undirected,1
+Edele RotfeldtS,Gud,Undirected,1
+Edele,Helene,Undirected,9
+Gud,Nn,Undirected,1
+Edele,Nn,Undirected,1
+Gustav Rotfeldt,Helene,Undirected,1
+Agathe,Helene sfød,Undirected,1
+Gustav Rotfeldt,aslra,Undirected,1
+Navnsborg,Niels Alsing,Undirected,1
+Gustav,Hr. Alsing,Undirected,1
+Agathe,Ernest Nenneville,Undirected,1
+Ernest Nenneville,Helene,Undirected,1
+Arni,Niels Alsing,Undirected,1
+Dalters,Niels Alsing,Undirected,1
+Dalters,Rotfeldt,Undirected,1
+Gustav Notfeldt,Jørgen Lindholm,Undirected,1
+Hr. Lindholm,Jørgen Lindholm,Undirected,1
+Niels Alsing,Paulun,Undirected,2
+Edele Notfeldts,Niels Alsing,Undirected,1
+Edele Rotfeldt,Niels Alsing,Undirected,2
+Clara Rotfeldt,Kra,Undirected,1
+Kra,Niels Alsing,Undirected,1
+Jørgen Lindholm,Niels Alsing,Undirected,2
+Jørgen,muntre,Undirected,1
+Jørgen Lindholm,muntre,Undirected,1
+Jørgen,Niels,Undirected,11
+Nahbeks,Niels,Undirected,1
+Jens,Jørgen,Undirected,1
+Jens,Niels Alsing,Undirected,1
+Gustav,Sørensen,Undirected,1
+Sørensen,sjeg,Undirected,1
+intsr,sjeg,Undirected,1
+intsr,pooula,Undirected,1
+Erik,pooula,Undirected,1
+Jørgen,Svend Bonved,Undirected,1
+Niels,Svend Bonved,Undirected,1
+Jupiter,Niels,Undirected,1
+Goethe,Niels,Undirected,1
+Jørgen,Tendentfen,Undirected,1
+Niels,Steen,Undirected,1
+Jørgen,Tanshed,Undirected,1
+Husch,husch,Undirected,1
+loe,vidsfe,Undirected,1
+Agathe,Hain,Undirected,1
+Agathe,Hevnens,Undirected,1
+Hevnens,zausfe,Undirected,1
+Jørgen,taust,Undirected,1
+Agathe,øg,Undirected,2
+Agathe,Graad,Undirected,1
+Graad,Gud,Undirected,1
+Gud,Niels Alsing,Undirected,2
+Helene Lindholm,hnn,Undirected,1
+Edele,Helene Lindholm,Undirected,1
+Helene,Obersten,Undirected,1
+Edele,Graad,Undirected,1
+Graad,hnn,Undirected,1
+Edele,Jørgen,Undirected,1
+Jørgen,Søren Kudsk,Undirected,1
+Daggry,Søren Kudsk,Undirected,1
+Daggry,Jørgen,Undirected,1
+Jørgen,Karlen,Undirected,1
+Karlen,Søren,Undirected,1
+Jørgen,Søren,Undirected,2
+Edele,Obersten,Undirected,1
+Erik,Obersten,Undirected,1
+Helene,Kjørselcn,Undirected,1
+Kjørselcn,Niels Alsing,Undirected,1
+Agathe,ban,Undirected,1
+Edele,jø,Undirected,1
+Edele Rotfeldt,Niels,Undirected,1
+Arlund,Niels,Undirected,1
+Christen,Edele,Undirected,2
+Marie,Niels,Undirected,1
+Gud,Niels,Undirected,3
+Niels Alsing,Pasfor Lindholm,Undirected,1
+Edele,laae,Undirected,1
+Alsing,laae,Undirected,1
+Edele,barsf,Undirected,1
+Edele,Pastoren,Undirected,1
+Alsing,Pastoren,Undirected,1
+Agathe,Alsing,Undirected,1
+Edele,Øe,Undirected,1
+Ernest Nenneville,Obersfen,Undirected,1
+Hr. Alsing,Hr. Rotfeldt,Undirected,2
+Frøken Nenneville,Niels,Undirected,1
+Agathe,Elsfer,Undirected,1
+Elsfer,Niels,Undirected,1
+Agathe,Gretnagreen,Undirected,1
+Niels Alsing,Zens,Undirected,1
+Agathe,Niels,Undirected,2
+Christen Lindholm,Gud,Undirected,1
+,Erik,Undirected,2
+Niels Alsing,Ravnsborg,Undirected,1
+Edele,Ravnsborg,Undirected,2
+Jørgen,Ravnsborg,Undirected,1
+Edele,Lindholm,Undirected,1
+Lindholm,Niels,Undirected,1
+Christen Lindholm,Niels Alsing,Undirected,2
+Edele,de Rotfeldter,Undirected,1
+Edele,Rotfeldt,Undirected,1
+Agalhes,Erik,Undirected,1
+Agalhes,Edele,Undirected,1
+Niels,soni,Undirected,1
+Adam,Lindholm,Undirected,1
+Adam,Niels Alsing,Undirected,1
+Edele,Gud,Undirected,4
+Christen,Gud,Undirected,1
+Erik,øg,Undirected,1
+Gud,øg,Undirected,1
+Erik Rotfeldt,Gud,Undirected,1
+Erik Notfeldt,Erik Rotfeldt,Undirected,1
+Helene,dunkell,Undirected,1
+Helene,Lindholm,Undirected,1
+Erik,Lindholm,Undirected,1
+Erik,dyb,Undirected,1
+Ernest Nenneville,Niels Alsing,Undirected,1
+Edele,Ellen,Undirected,1
+Niels,Svend,Undirected,1
+Edele,øg,Undirected,1
+Agathe,hiin,Undirected,1
+Erik Rotfeldt,Nenneville,Undirected,1

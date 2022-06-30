@@ -1,0 +1,128 @@
+source,target,type,weight
+Arilds,as,Undirected,1
+Karl —,Søren,Undirected,2
+Soren,Søren,Undirected,5
+Soren,ftit,Undirected,2
+Madam Brus,Soren,Undirected,3
+Aare,Søren,Undirected,1
+Else,Povl,Undirected,49
+Else,Soren,Undirected,19
+Povl,Soren,Undirected,39
+Else,Søren,Undirected,1
+Per Smed,Soren,Undirected,1
+Guds,Soren,Undirected,1
+Povl,siske,Undirected,1
+Else,siske,Undirected,1
+Else,Graad,Undirected,1
+Madammen,Povl,Undirected,1
+Povl,niens,Undirected,1
+Povl,fig,Undirected,2
+Madam Brus,Povl,Undirected,5
+Husbond,Soren,Undirected,4
+Else,Madam Brus,Undirected,7
+Else,Jomfru Else,Undirected,1
+Jomfru Else,Povl,Undirected,1
+Povl,Visf,Undirected,1
+Fersfen,Povl,Undirected,1
+Arne,Madam Brus,Undirected,1
+Hr. Svanes,Povl,Undirected,1
+Jomfru Elfes,Povl,Undirected,1
+Hr. Svane,Povl,Undirected,10
+Povl,Sorcn,Undirected,2
+Sorm,Vensfabs,Undirected,1
+Soren,Vensfabs,Undirected,1
+Soren,iband,Undirected,1
+Mikkel,iband,Undirected,1
+Mikkel,Povl,Undirected,4
+Mikkel,Svane,Undirected,1
+Hcnsank,Povl,Undirected,1
+Hcnsank,Mcend,Undirected,1
+Mcend,Mikkel,Undirected,1
+Hr. Svane,Soren,Undirected,9
+Povl,felv,Undirected,1
+Else,felv,Undirected,1
+Madam Brus,s,Undirected,1
+Else,s,Undirected,1
+Soren,barsf,Undirected,1
+Povl,barsf,Undirected,1
+Else,Mikkel,Undirected,1
+Mikkel,Soren,Undirected,1
+Else,Lcegc,Undirected,1
+Else,Hr. Svane,Undirected,15
+Soren,Svane,Undirected,2
+Else,kjæk,Undirected,1
+Soren,kjæk,Undirected,1
+Mikkel,soer,Undirected,1
+Hr. Svane,soer,Undirected,1
+Hr. Svane,Mikkel,Undirected,1
+Soren,tilføjcdx,Undirected,1
+Jomfru Else,Soren,Undirected,1
+Povl,Svane,Undirected,4
+Hr. Svane,sia,Undirected,1
+Soren,sia,Undirected,1
+Else,Svane,Undirected,1
+Hr. Svane,Søren,Undirected,2
+Husbond,Søren,Undirected,1
+Husbond,Jomfru Elfe,Undirected,1
+Else,Jomfru Elfe,Undirected,1
+Karl,faact,Undirected,1
+Ann ' Marie Pedersdatter,kjeer,Undirected,1
+Else,øg,Undirected,2
+Povl,øg,Undirected,1
+Karl,Karlens,Undirected,1
+Elfes,Else,Undirected,2
+Soren,s,Undirected,1
+Else,fil,Undirected,1
+Else,chan,Undirected,2
+Hanelil,Hønelil,Undirected,1
+Sorcn,Soren,Undirected,1
+Else,Sorcn,Undirected,1
+Else,Hanedanscns,Undirected,1
+Else,Villieløs,Undirected,1
+Povl,Søren,Undirected,1
+Else,ftakkels,Undirected,1
+Else,hankan,Undirected,1
+Elfe,Povl,Undirected,1
+Elfe,esterham,Undirected,1
+Else,Iver soer Povl,Undirected,1
+Røsf,Soren,Undirected,1
+Kraff,Soren,Undirected,1
+Else,Gud,Undirected,2
+Aarcrne,Else,Undirected,1
+Soren,sastc,Undirected,1
+Hr. Svane,fig,Undirected,1
+Gud,fig,Undirected,1
+Gud,Svane,Undirected,1
+Hr. Svcne,Soreo,Undirected,1
+Hans Fisker,Peter,Undirected,1
+Peter,hans,Undirected,1
+Høg,Peter Fisker,Undirected,1
+Peter,Peter Fisker,Undirected,1
+Aaen,Peter,Undirected,1
+Aaen,Peter Fisker,Undirected,3
+Peter Fistcr,assides,Undirected,1
+Hendrik,Peter Fisker,Undirected,1
+Peter Fisker,halo,Undirected,2
+Hr. Hendrik,ogfaa,Undirected,1
+Peter Fisker,ogfaa,Undirected,1
+Fifler,Peter Fifler,Undirected,1
+Hr. Hendrik,Peter Fisfers,Undirected,1
+Peter Fisfers,Peter Fisker,Undirected,1
+Mines,Peter Fisker,Undirected,1
+Peter Fisker,stulde,Undirected,1
+Aacn,Peter Fisfer,Undirected,1
+Fisker,Peter Fisker,Undirected,1
+Peter Fisker,faadan,Undirected,1
+Peter Fisfer,faadan,Undirected,1
+Aaen,fasfesf,Undirected,1
+Peter Fisker,fasfesf,Undirected,1
+Peter Fifler,Peter Fisker,Undirected,1
+Peter Fisker,felv,Undirected,1
+Peter Fisfer,Peter Fisker,Undirected,5
+B,Peter Fisker,Undirected,1
+Hr. Hendrik,Peter Fisker,Undirected,1
+Masfen,fom,Undirected,1
+Masfen,Peter Fister,Undirected,1
+Peter Fister,soer,Undirected,1
+Aaen,Peter Fister,Undirected,1
+Altsammcn,Peter Fisfer,Undirected,1

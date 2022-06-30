@@ -1,0 +1,81 @@
+source,target,type,weight
+Hanne,Jette,Undirected,25
+Hanne,Thomas,Undirected,7
+Fusentasts,Hanne,Undirected,1
+Gud,Gustav,Undirected,3
+Gustav,Jette,Undirected,29
+Gustav,Hanne,Undirected,10
+Jette,Mamsel,Undirected,1
+Hanne,Mamsel,Undirected,1
+Henrik,Kong Salomon,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Jette,Thomas,Undirected,3
+Carl,Hanne,Undirected,7
+Carl,Jette,Undirected,12
+Gustav,Gustav Holm,Undirected,1
+Gustav Holm,Jette,Undirected,3
+Diana,Hanne,Undirected,1
+Actæon,Diana,Undirected,1
+Gustav Holm,Thomas,Undirected,1
+Mose,Thomas,Undirected,1
+Hr. Holm,Jette,Undirected,2
+Hanne,Hr. Holm,Undirected,1
+Hr. Holm,Thomas,Undirected,1
+Thomas,lir. Holm,Undirected,1
+Jette,lir. Holm,Undirected,1
+Hr. Holm,Iljærtelighcdcn,Undirected,1
+Jette,Marks,Undirected,1
+Gud,Jette,Undirected,4
+Gustav Holm,Holms,Undirected,1
+Døttre,Holms,Undirected,1
+Døttre,Hanne,Undirected,2
+Carl den Femte,Nemesis,Undirected,1
+Donna,Jette,Undirected,1
+Donna,Gustav,Undirected,1
+Hanne,Lynild,Undirected,1
+Fiden,Hanne,Undirected,1
+Gud,Hanne,Undirected,2
+Jette,lian,Undirected,2
+Jette,sagdellanne,Undirected,1
+Carl,Gud,Undirected,3
+Carl,Gustav Holm,Undirected,1
+Holm,Hr. Holm,Undirected,1
+Carl,Gustav,Undirected,1
+Hanne,torsos,Undirected,1
+Carl,Lojolas,Undirected,1
+Anne,Jette,Undirected,1
+Hanne,Tante,Undirected,1
+Frøken Jettes,Hanne,Undirected,1
+Frøken Jettes,Hr. Holm,Undirected,1
+Carl,don Landløber,Undirected,1
+Hanne,don Landløber,Undirected,1
+Hanne,lian,Undirected,1
+Hanne,Tvede,Undirected,2
+Døttre,Tvede,Undirected,1
+Cun,Jette,Undirected,1
+Carl,Griller,Undirected,1
+Carl,Fader,Undirected,1
+Holm,Jette,Undirected,5
+Hanne,Holm,Undirected,1
+Carl,Ilejda,Undirected,1
+Ane,Hanne,Undirected,2
+Dandsen,Gustav,Undirected,1
+Hanne,asop,Undirected,1
+Arilds,Hanne,Undirected,1
+Gud,Herre,Undirected,1
+Adolpli,Pante,Undirected,1
+Baggesen,mitlljærte,Undirected,1
+Ilo,Wachtel,Undirected,2
+Adolph,Jette,Undirected,1
+Carl,Holm,Undirected,1
+Morten Frederichsen,crl,Undirected,1
+Morten,crl,Undirected,1
+Morten,Sultan,Undirected,1
+Gustav,Thomas,Undirected,1
+Hanne,inge,Undirected,2
+Gustav,Kammerraad Tvede,Undirected,1
+Jette,Wachtel,Undirected,1
+Hanne,Ju stitsraaden,Undirected,1
+Gustav,Linden,Undirected,1
+Hanne,Kjønnets,Undirected,1
+Morten Frederichsen,Sultan,Undirected,1

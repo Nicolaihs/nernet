@@ -1,0 +1,915 @@
+source,target,type,weight
+Erik Glipping,Odins,Undirected,1
+Knud Mogensen,Margaret Mogensdatters,Undirected,1
+Folmer Ruds,Margaret Mogensdatters,Undirected,1
+Folmer Ruds,Kong Erik Emun,Undirected,1
+Kong Erik Emun,Plog,Undirected,1
+Knud,Kong Christiern,Undirected,5
+Kong Christiern,Maren,Undirected,1
+Erik Skram,Maren,Undirected,6
+Erik Skram,Johan Rankzov,Undirected,1
+Johan Rankzov,Knud Mogensen,Undirected,1
+Erik Skram,Knud Mogensen,Undirected,2
+Knud en,Sanct Mogens Port,Undirected,1
+Gud,Knud,Undirected,10
+Chrisfiern,Knud,Undirected,1
+Knud taug,Rankzov,Undirected,1
+Jørgen,Rankzov,Undirected,1
+Eriksen,Knud,Undirected,2
+Geert,Knud,Undirected,7
+Knnd,Tjele,Undirected,2
+Geert,Knnd,Undirected,1
+Geert,Maren,Undirected,5
+Erik,Knnd,Undirected,1
+Erik,Maren,Undirected,16
+Knnd Mogensen,Maren,Undirected,1
+Geert,Æten,Undirected,1
+Knnd,barsf,Undirected,1
+Knud,Sanct Mogens Port,Undirected,1
+Knud,Knud rastløs,Undirected,1
+Jomfru Mariæ,Sanct Kjelds,Undirected,1
+Jørgen Sadolin,Thøger Løvenbalk,Undirected,1
+Jakob Skjønning,Jørgen Sadolin,Undirected,1
+Morten Hegelund,Peder Trane,Undirected,1
+Magisfer Jens,Peder Trane,Undirected,1
+Magisfer Jens,Stub,Undirected,1
+Stub,Thøger,Undirected,1
+Jørgen Friis,Thøger,Undirected,1
+Jørgen Friis,Kong Christiern,Undirected,1
+Jokum Pryds,Knud,Undirected,1
+Barbara,Jokum Pryds,Undirected,1
+Barbara,Jokum,Undirected,3
+Jokum,Knud,Undirected,2
+Barbara,Knud,Undirected,13
+Barbara,Laurids,Undirected,1
+Anna,Laurids,Undirected,1
+Anna,Christoffer Kruse,Undirected,1
+Christoffer Kruse,Christoffers,Undirected,1
+Christoffers,Knud,Undirected,2
+Ides,Knud,Undirected,1
+Ides,Knubs,Undirected,1
+Knubs,Thomas Kruse,Undirected,1
+Barbara Jokumsdatter,Knud,Undirected,7
+Christiern den Tredie,Knud,Undirected,1
+Gjøe,Thrones,Undirected,1
+Gjøe,Rantzov,Undirected,1
+Peder Skram,Rantzov,Undirected,1
+Knud vaer,Peder Skram,Undirected,1
+Erik Skram,Knud vaer,Undirected,1
+Erik Skram,Knud,Undirected,24
+Knud,Maren,Undirected,8
+Knud,Thøger,Undirected,13
+Knud,Tu,Undirected,1
+Jokum Viintapper,Knnd,Undirected,1
+Jokum Viintapper,Sanct Mogens Gade,Undirected,1
+Barbara,Sanct Mogens Gade,Undirected,1
+Barbara,Knnd,Undirected,1
+Jokum,Knnd,Undirected,2
+Knnd,Morten,Undirected,1
+Morten,Sancte Mogens Port,Undirected,1
+Gud,Jokum,Undirected,1
+Jokum Viintapper,Knud,Undirected,1
+Knud,Nielsdatter,Undirected,4
+Barbara,Knud loe,Undirected,1
+Knud,Løvenbalks,Undirected,1
+Barbara,Jokum Viintapper,Undirected,2
+Barbara,Nielsdatter,Undirected,1
+Johannes den Døber,Thøger Løvenbalk,Undirected,1
+Hans Tausen,Thøger Løvenbalk,Undirected,1
+Hans Tausen,Peder Jensen,Undirected,1
+Munk,Peder Jensen,Undirected,1
+Morten Luthers,Munk,Undirected,1
+Hans Tansen,Prior Peders,Undirected,1
+Hans Taufen,Prior Peders,Undirected,1
+Thøger,nn,Undirected,1
+Tausens,nn,Undirected,1
+Taufen,Tausens,Undirected,1
+Peder,Taufen,Undirected,1
+Peder,Thøger,Undirected,3
+Thøger,hans Arne,Undirected,1
+Anna,Anna Pedersdatter,Undirected,1
+Anna,Thøger,Undirected,2
+Anna,Rosenkrandsen,Undirected,1
+Kjeld,Thøger,Undirected,1
+Kjeld,Søren,Undirected,1
+Martin,Søren,Undirected,1
+Martin,lille Peder Thøgersen,Undirected,1
+Thøger,lille Peder Thøgersen,Undirected,1
+Broder Povel,Knud Mogensen,Undirected,1
+Anna,Knud Mogensen,Undirected,1
+Anna,Bohave,Undirected,1
+Bohave,Thøger,Undirected,1
+Knnd,Thøger,Undirected,4
+Knnd,Margaret,Undirected,5
+Barbara Jokumsdatter,Knnd,Undirected,1
+Anna Pedersdatter,Barbara Jokumsdatter,Undirected,1
+Anna Pedersdatter,krceuke,Undirected,1
+Thøger,krceuke,Undirected,1
+Gud,signe,Undirected,1
+Knud,signe,Undirected,1
+Jokum Viintapper,Thøger,Undirected,1
+Thomas Kruse,Thøger,Undirected,3
+Johan Goerdes,hiin,Undirected,1
+Johan Goerdes,Knud,Undirected,1
+Folmer Rud,Knud,Undirected,7
+Erik,Thøger,Undirected,1
+Erik,Tjele,Undirected,4
+Knnd,Vigand,Undirected,2
+Hans Thordsen,Knnd,Undirected,2
+Hans Thordsen,ufrels,Undirected,1
+Thøger,ufrels,Undirected,2
+Thøger,kjær,Undirected,1
+Tjele,grant,Undirected,1
+Knud,Tjele,Undirected,8
+Thøger,Tn,Undirected,1
+Barbara Jokumsdatter,Thøger,Undirected,2
+Gud,Thøger,Undirected,9
+Gud,Herrens,Undirected,1
+Herrens,Thøger,Undirected,1
+Christus,Knud,Undirected,1
+Christus,Geert Eriksen,Undirected,1
+Nielsdatter,Thøger,Undirected,1
+Gud,Keller,Undirected,1
+Barbara,Sanct Mogens Port,Undirected,1
+Anna Enevoldsdatter,Laurids Lunov,Undirected,2
+Anna Enevoldsdatter,Hnn,Undirected,1
+Anna Seefeld,Hnn,Undirected,1
+Anna Seefeld,Nielsdatter,Undirected,1
+Anna,Kong Christiern,Undirected,1
+Laurids Lunov,Rindherreds,Undirected,1
+Knud,Podebusk,Undirected,1
+Anna Seefeld,Podebusk,Undirected,1
+Anna Seefeld,Laurids,Undirected,1
+Laurids,Vams,Undirected,1
+Knud,Thomas,Undirected,6
+Anna,Christoffers,Undirected,1
+Anna,Oldemoders,Undirected,1
+Knud,Oldemoders,Undirected,1
+Christoffer Kruse,Jakob Smaadreng,Undirected,1
+Jakob Smaadreng,hnn,Undirected,1
+Graamunk,Knnd,Undirected,1
+Thomas,Tjele,Undirected,1
+Ide,Nielsdatter,Undirected,1
+Nielsdatter,Thomas,Undirected,1
+Christoffer haard,Knud,Undirected,1
+Knnd,Thomas,Undirected,1
+,Thomas,Undirected,2
+,Christoffer,Undirected,1
+Christoffer,Thomas,Undirected,1
+Knud,Margaret,Undirected,21
+Margaret,Thomas,Undirected,1
+,Knud Mogensen,Undirected,1
+Christus,Gud,Undirected,1
+Faster,Thøger,Undirected,1
+Faster,Tjele,Undirected,1
+Tjele,Tu,Undirected,1
+Thøger,Tu,Undirected,1
+Ide,Knud,Undirected,4
+Graamunk,Knud,Undirected,1
+Barbara,Thøger,Undirected,1
+Barbara,grant,Undirected,1
+Viborrig,grant,Undirected,1
+Barbara Jokumsdatter,am,Undirected,1
+Ide,Jakob,Undirected,1
+Jakob Smaadreng,Knud,Undirected,1
+Jakobsdatter,Margrethe Mogensdatter,Undirected,1
+Brasf,Margrethe Mogensdatter,Undirected,1
+Abbed Thomas,Margaret,Undirected,1
+Abbed Thomas,Vigand,Undirected,1
+Gunnerus,Svend af,Undirected,1
+Thomas,Vigand,Undirected,1
+Lutherus,Vigand,Undirected,1
+Tjele,Vigand,Undirected,4
+Margaret,Tjele,Undirected,1
+Erik Skram,Tjele,Undirected,8
+Folmer Rud,Vigand,Undirected,4
+Hr. Mogens,Vigand,Undirected,1
+,Hr. Mogens,Undirected,2
+,Knud Tjele,Undirected,1
+Erik Skram,Knud Tjele,Undirected,1
+Maren,Vigand,Undirected,1
+Tjele,stg,Undirected,1
+Hans Thordsen,Tjele,Undirected,1
+Hans Thordsen,Vigand,Undirected,4
+Hans Thordsen,fleet,Undirected,1
+Bigand,Margaret,Undirected,1
+Bigand,Knud,Undirected,1
+Folmer,Knud,Undirected,49
+Folmer,Gud,Undirected,10
+Folmer Rud,Margaret,Undirected,10
+Genete,Margaret,Undirected,4
+Margaret,Sanct Benedicts,Undirected,1
+Sanct Benedicts,Vigand,Undirected,1
+Mogens Løvenbalks,Vigand,Undirected,1
+Mogens Løvenbalks,Vigiliesangen,Undirected,1
+Genete og,Vigand,Undirected,1
+Genete og,Margaret,Undirected,1
+,Gud,Undirected,1
+Hans Thordsen,Knud,Undirected,10
+Hans Thordsen,herhid,Undirected,1
+Knud,Vigand,Undirected,8
+Margaret,Marine,Undirected,8
+Margaret,Vigand,Undirected,41
+Genete,Vigand,Undirected,1
+Knud Tavsheden,Vigand,Undirected,1
+Knud Tavsheden,Thordsen,Undirected,1
+Genete,Knud Mogensen,Undirected,1
+Knud,paany,Undirected,1
+Genete,Knud,Undirected,6
+Genete,Hans Thordsen,Undirected,1
+Erik Skram,Hans Thordsen,Undirected,1
+Erik Skram,Vigand,Undirected,2
+Mogens Lauridsens,Vigand,Undirected,1
+Knud,Mogens Lauridsens,Undirected,3
+Erik Skram,Genete,Undirected,1
+Genete,Hans,Undirected,1
+Knud,Thomas Kruse,Undirected,2
+Genete Jakobsdatter,Hans,Undirected,1
+Gud,Hans,Undirected,1
+Hans,Margaret,Undirected,1
+Knud,Sanden,Undirected,1
+Hans,Hans Thordsen,Undirected,2
+Hans,Knud,Undirected,2
+Hans Thordsen,Knud spodsk,Undirected,1
+Hans,Knud Mogensen,Undirected,1
+Hans,kjær,Undirected,2
+Sanden,kjær,Undirected,1
+Hans Thordsen,Sanden,Undirected,1
+Gencte Jakobsdatters,Gud,Undirected,1
+Aasen,Knud,Undirected,1
+Margaret,Steen,Undirected,2
+Knud,Thordsen,Undirected,1
+Thomas slod,Thordsen,Undirected,1
+Jesu,Thomas slod,Undirected,1
+Chrisamen,Jesu,Undirected,1
+Jesu,Margaret,Undirected,1
+Jesns,Jesu,Undirected,1
+Jesns,flsctamus Zsnua,Undirected,1
+Margaret,flsctamus Zsnua,Undirected,1
+Alleluja,Margaret,Undirected,1
+Aaget,Vigand,Undirected,1
+Barbara,Marine,Undirected,1
+Barbara,Steen,Undirected,1
+Ambrosius,Marine,Undirected,1
+Marine,Vigand,Undirected,1
+Ambrosius,Margaret,Undirected,20
+Broder Ambrosius,Margaret,Undirected,2
+Vigand,grant,Undirected,3
+Ambrosius,Vigand,Undirected,5
+,Ambrosius,Undirected,4
+Gud,Helsf,Undirected,1
+Gud,Margaret,Undirected,17
+Ambrosins,Margaret,Undirected,6
+Ambrosius,Keiser Theodosii,Undirected,1
+Ambrosius,Keiserens,Undirected,2
+Gud,Keiseren,Undirected,1
+Keiser,Keiseren,Undirected,1
+Ambrosius,Keiser,Undirected,1
+Ambrosius,Willmn,Undirected,1
+Roeskilde,Willmn,Undirected,1
+Roeskilde,Svend,Undirected,1
+Keiseren,Svend,Undirected,1
+Ambrosius,Keiseren,Undirected,1
+Ambrosius taug,Margaret,Undirected,1
+Ambrosius,Gud,Undirected,5
+Margaret,Veronica,Undirected,12
+Barbara,Veronica,Undirected,2
+Barbara,Broder Vigands,Undirected,1
+Ambrosius,Jomfru Margrethes,Undirected,1
+Jomfru Margrethes,Søster Veronica,Undirected,1
+Margrethe,Marine,Undirected,1
+Ambrosius,Folmer Rud,Undirected,2
+Ambrosins,Broder Vigands,Undirected,1
+Ambrosins,Vigand,Undirected,1
+Bent Tue,Henning,Undirected,1
+Bent Tue,Knud Mogensen,Undirected,1
+Bent,Henning,Undirected,16
+Gud,Henning,Undirected,1
+Bent,ufrels,Undirected,1
+Green,ufrels,Undirected,1
+Henning,Knud Mogensen,Undirected,2
+Knud,Knud Mogensen,Undirected,6
+Bent,Knud,Undirected,8
+Bent,Mads,Undirected,2
+Henning,Tjele,Undirected,2
+Bent,Tjele,Undirected,1
+Henning,halvfkrattes,Undirected,1
+Henning,Knud,Undirected,5
+Bent,Jens Porse,Undirected,1
+Jens Porse,Mads Jespersen,Undirected,1
+Knud,Mads Jespersen,Undirected,1
+Knud,Mads,Undirected,4
+Jens,Mads,Undirected,10
+Jens,Maren Lauridsdatter,Undirected,1
+Laurids Mogensens,Maren Lauridsdatter,Undirected,1
+Laurids Mogensens,faa,Undirected,1
+Mogens Lauridsens,faa,Undirected,1
+Gud,Mogens Lauridsens,Undirected,1
+Gud,Mads,Undirected,1
+Erik,Jens,Undirected,1
+Maren,Tjele,Undirected,2
+Mads,Tjele,Undirected,1
+Jens,Tjele,Undirected,1
+Jens fort,Mads,Undirected,2
+Bent,Mads“,Undirected,1
+Bent,Erik Skram,Undirected,1
+Erik Skram,Jens,Undirected,1
+Jens,Knud,Undirected,2
+Henning,Mads,Undirected,1
+Jens Porse,Mads,Undirected,1
+Jens Porse,Knud,Undirected,1
+Hove,Knud,Undirected,2
+Knubs,Knud,Undirected,3
+Geert Eriksen,Jørgen Skram,Undirected,1
+Geert,Geert Eriksen,Undirected,1
+Geert,Jørgen,Undirected,6
+Geert,Henning,Undirected,3
+Geert,Jørgen Skram,Undirected,1
+Jørgen Skram,flux,Undirected,1
+Geert,Villie,Undirected,1
+Geert Eriksen,Knud,Undirected,3
+Henning,Svend,Undirected,1
+Jørgen Eriksen,Svend,Undirected,1
+Jørgen,Knud,Undirected,19
+Jørgen,Knud Mogensen,Undirected,3
+Knud,Kong Salomon,Undirected,1
+Gud,Tjele,Undirected,1
+Hans Thordsen,Jørgen,Undirected,1
+Jørgen,Tjele,Undirected,1
+Erik Skram,Knnd,Undirected,2
+Erik,Knud,Undirected,3
+Jørgen,Maren,Undirected,10
+Jørgen,Jørgen Skram,Undirected,1
+Jørgen Skram,Knud,Undirected,8
+Erik Sfram,Maren,Undirected,1
+Maren,grifslede,Undirected,1
+Genete,Maren Lauridsdatter,Undirected,1
+Genete,Maren,Undirected,1
+Maren,Margaret,Undirected,1
+Erik Skram,Geert,Undirected,1
+Erik Skram,Sanden,Undirected,1
+Maren,Sanden,Undirected,1
+Erik,Geert,Undirected,2
+Erik,Jørgen,Undirected,5
+Sancte,Sancte Kjeld,Undirected,1
+Maren,Sancte Kjeld,Undirected,1
+,Mogens,Undirected,2
+Gjertrud,Maren,Undirected,1
+Gjertrud,Mogens,Undirected,1
+Bjelken,Erik,Undirected,1
+Bjelke,Maren,Undirected,1
+Harnisket,Maren,Undirected,1
+Jørgen sikker,Vidsfe,Undirected,1
+Jørgen,rasfe,Undirected,2
+Erik,Skjær,Undirected,1
+Maren,hnn,Undirected,1
+Knud Mogensen,Maren,Undirected,1
+Erik Pedersen,Jørgen Eriksen,Undirected,1
+Erik,Knud Mogensen,Undirected,2
+Tjele,ufrels,Undirected,1
+Maren,Røsf,Undirected,1
+Karl,Røsf,Undirected,1
+Erik Skram,Gud,Undirected,2
+Gud,Sortebroder,Undirected,1
+Sortebroder,Tjele,Undirected,1
+Erik Skram,Jørgen,Undirected,1
+Jørgen,Knubs,Undirected,1
+Geert,Knubs,Undirected,1
+Erik Skram,zausfe,Undirected,1
+Bent,Jesper Gaardfoged,Undirected,1
+Erik Skram,Jesper Gaardfoged,Undirected,1
+Jesper,Knud,Undirected,2
+Jesper,Mads,Undirected,1
+Knud,Sancte Knud,Undirected,1
+Karl,Knud,Undirected,1
+Bent,Geert,Undirected,1
+Faster,Maren,Undirected,1
+Erik,Folmer,Undirected,1
+Faster,Folmer,Undirected,1
+Bodil,Folmer,Undirected,14
+Kuud,Margaret,Undirected,1
+Folmer,Odin,Undirected,1
+Gud,Odin,Undirected,1
+Gud,Rud,Undirected,1
+Rud,äanios,Undirected,2
+Knud,Luthers,Undirected,2
+Bent,Folmer,Undirected,4
+Henning,Knnd Mogensen,Undirected,1
+Folmer,Hans,Undirected,1
+Folmer,Knnd,Undirected,1
+Gud,Thomas,Undirected,1
+Jens Jensen,Jens Nielsen,Undirected,1
+Geert Eriksen,Pernille,Undirected,1
+Folmer,Jens Brok,Undirected,1
+Jens Brok,Jens Løvenbalk,Undirected,2
+Folmer,Margrethe,Undirected,1
+Jens Løvenbalk,Margrethe,Undirected,1
+Gud,Jens Brok,Undirected,1
+Christof,Thomas,Undirected,1
+Folmer,Knud Mogensen,Undirected,3
+Knud,Steen,Undirected,2
+Gud,Steen,Undirected,1
+Knud,tom,Undirected,1
+Margaret Mogensdatter,tom,Undirected,1
+Bodil,Knud,Undirected,1
+Folmer,Hans Pedersen,Undirected,1
+Anna,Hans Pedersen,Undirected,1
+Anna,Folmer,Undirected,1
+Folmer,Peder,Undirected,1
+Johanne,Peder,Undirected,1
+Folmer,Johanne,Undirected,1
+Bodil,Knud Mogensen,Undirected,2
+Bodil fort,Folmer taus,Undirected,1
+Bodil Hansdatter,Folmer,Undirected,3
+Folmer,Folmer Hansen,Undirected,5
+Folmer,Svend,Undirected,1
+Bodil,Peter,Undirected,1
+Johanne,Peter,Undirected,1
+Folmer,Margrethe Mogensdatter,Undirected,1
+Erik Skram,Margrethe Mogensdatter,Undirected,1
+Folmer,Hnn,Undirected,1
+Folmer,Silke,Undirected,1
+Hindens,Silke,Undirected,1
+Bodil,Gud,Undirected,1
+Folmer Hansen,Gud,Undirected,2
+Gregorius,Vigand,Undirected,1
+Beronicas,Margaret,Undirected,1
+Folmer,Margaret,Undirected,49
+Margaret,bende,Undirected,1
+bende,hnn,Undirected,1
+Munk,hnn,Undirected,1
+Munk,elsmsns,Undirected,1
+elsmsns,pia,Undirected,1
+Maria,pia,Undirected,1
+Margaret,olsmsns,Undirected,1
+olsmsns,pia,Undirected,1
+clnlois,pia,Undirected,1
+Jomfru Mariæ,clnlois,Undirected,1
+Folmer,Jomfru Mariæ,Undirected,1
+Folmer,Vigand,Undirected,8
+Ieg,Vigand,Undirected,1
+Folmer,Ieg,Undirected,1
+Jomfru Margrethe Mogensdatter,Vigand,Undirected,1
+Jomfru Margrethe Mogensdatter,Margaret,Undirected,1
+Folmer Rud,Marine,Undirected,1
+Folmer Hansen,Margaret,Undirected,3
+Folmer,sidsfe,Undirected,1
+Folmer,Hr. Mogens,Undirected,1
+,Margaret,Undirected,1
+Broder Ambrosins,Gud,Undirected,2
+Gud,Vigand,Undirected,12
+Gud,Sancte Benedict,Undirected,1
+Margaret,Mariæ,Undirected,1
+Mariæ,Vigand,Undirected,1
+Jomfru Maria,Margaret,Undirected,1
+Barbara,Vigand,Undirected,1
+Marine,Roes,Undirected,1
+Ambrosius fornam,Margaret,Undirected,1
+Ambrosius fornam,Folmer,Undirected,1
+Folmer,Hansens,Undirected,1
+Hansens,Vigand,Undirected,1
+Vigand,hnn,Undirected,2
+Folmer,hnn,Undirected,1
+Aaget,Kong Christiern,Undirected,1
+Kong Christiern,Seir,Undirected,1
+Margaret,Seir,Undirected,1
+Folmer Rud,Knud Mogensen,Undirected,1
+Fløiels,Nielsdatter,Undirected,1
+Fløiels,Knud,Undirected,2
+Knud,Peer Korne,Undirected,3
+Knud,Svend,Undirected,2
+Svend,Vadmels,Undirected,1
+Folmer,Peer Korne,Undirected,4
+Knud fkjemtefuldt,Peer Korne,Undirected,1
+Folmer Hansen,Rud,Undirected,1
+Knud,Samsing,Undirected,2
+Barbara Jokumsdatter,Ide spodsk,Undirected,1
+Folmer,gantes,Undirected,1
+Margaret Mogensdatter,Thomas,Undirected,1
+Folmer,Jde,Undirected,1
+Christof,Folmer,Undirected,1
+Kjellinghøl,Knud,Undirected,3
+Bodil,Kjellinghøl,Undirected,1
+Bodil,Margaret,Undirected,2
+Christoffer,Folmer,Undirected,8
+Folmer,Thomas,Undirected,1
+Christoffer,Knud,Undirected,9
+Knud,Myndling,Undirected,1
+Myndling,Piben,Undirected,1
+Folmer,Piben,Undirected,1
+Christoffer Kruse,Folmer,Undirected,2
+Christoffer,Christoffer Kruse,Undirected,1
+Christoffer,Margaret,Undirected,2
+Broder Ambrosins,Margaret,Undirected,1
+Broder Ambrosins,Gabriel,Undirected,1
+Ambrosins,Folmer,Undirected,2
+Margaret,Sortebroder,Undirected,1
+Sortebroder,Vigand,Undirected,3
+Folmer Hansen,Vigand,Undirected,2
+Ambrosins,Folmer Hansen,Undirected,1
+Gud,Peer,Undirected,1
+Ambrosius,Nielsdatter,Undirected,1
+Osus,missrsooräs,Undirected,1
+Ambrosius,missrsooräs,Undirected,1
+Ambrosius,Jomfru Margrethe,Undirected,1
+Ambrosius,Folmer,Undirected,6
+Ambrosius,Knud,Undirected,1
+Knud Mogensen,Nielsdatter,Undirected,2
+Gud,Nielsdatter,Undirected,1
+Folmer,Jomfru Margarets,Undirected,1
+Gud,Margaret Mogensdatter,Undirected,1
+Broder Ambrosius,Folmer,Undirected,1
+Knud,Marine,Undirected,1
+Benedicte,Bent,Undirected,1
+Benedicte,Margaret,Undirected,1
+Bent,Margaret,Undirected,1
+Knud,Morten Venstermand,Undirected,2
+Margaret,Thøger,Undirected,25
+Gud,Lise,Undirected,1
+Elsfer,Margaret,Undirected,1
+Elsfer,Folmer,Undirected,1
+Loths,Margaret Mogensdatter,Undirected,1
+Margaret,frisf,Undirected,1
+Steen,Vigand,Undirected,1
+Vigand,zausfe,Undirected,2
+Knud Mogensen,Sancte Søren,Undirected,1
+Knud,berøve,Undirected,1
+Mo,berøve,Undirected,1
+Ide,Mo,Undirected,1
+Berner Parsberg,Knnd,Undirected,1
+Berner Parsberg,Knnd Mogensen,Undirected,1
+Knnd Mogensen,Mogens Løvenbalks,Undirected,1
+Bodil Hansdatter,Kjellinghøl,Undirected,1
+Knud,Verner Parsberg,Undirected,1
+Bent,Kjellinghøl,Undirected,1
+Folmer,Kjellinghøl,Undirected,1
+Eva,Kollens,Undirected,1
+Eva,Knud,Undirected,1
+Knud,Kong Valdemar Atterdags,Undirected,1
+Kong Valdemar Atterdags,Ove Bilde,Undirected,1
+Ove Bilde,Steen,Undirected,1
+Knubs,Peer Korne,Undirected,1
+Bent Tue,Knubs,Undirected,1
+Bent Tue,Hersfabs,Undirected,1
+Bent,Peer Korne,Undirected,6
+Peer,Peer Korne,Undirected,2
+Bent,Peer,Undirected,6
+Bent,Maasfee,Undirected,1
+Maasfee,Peer Korne,Undirected,1
+Peer Korne,Roers,Undirected,1
+Bent,Roers,Undirected,1
+Ove,Stygges,Undirected,1
+Christence Strange,Stygges,Undirected,1
+Bent,Christence Strange,Undirected,1
+Bent,Møllerens,Undirected,1
+Bent,Vigand af Vissing,Undirected,1
+Gud,Vigand af Vissing,Undirected,1
+Goerdes,Gud,Undirected,1
+Goerdes,Knud Mogensen,Undirected,1
+Gyldenstjerne,Peer,Undirected,1
+Gud,Gyldenstjerne,Undirected,1
+Jesper Ridemands,Peer Korne,Undirected,1
+Ove,Peer,Undirected,1
+Bent,Knud Mogensen,Undirected,1
+Bent,Folmer Hansen,Undirected,2
+Folmer Hansen,Knud Møgensen,Undirected,1
+Knud Møgensen,Peer,Undirected,1
+Folmer Hansen,Peer Korne,Undirected,1
+Peer,Tjele,Undirected,1
+Jomfru Maria,Tjele,Undirected,1
+Kollen,Styge,Undirected,2
+Johan,Kollen,Undirected,1
+Johan,Styge,Undirected,1
+Styge,Vigand,Undirected,5
+Johan Goerdes,slod,Undirected,1
+Johan Goerdes,Vigand,Undirected,29
+Johan Goerdes,Kollen,Undirected,2
+Christiern,Vigand,Undirected,1
+Margrethe,Vigand,Undirected,2
+Gud,Margrethe,Undirected,1
+Papisfs,Vigand,Undirected,2
+Stygges,Vigand,Undirected,1
+Bent,Johan Goerdes,Undirected,9
+Bisp Oves,Johan Goerdes,Undirected,1
+Bent,Broder Vigand,Undirected,1
+Peer Korne,flog,Undirected,1
+Bent,Folmer Rud,Undirected,1
+Folmer,Folmer Rud,Undirected,2
+Bent,Linaa,Undirected,1
+Linaa,Peer Korne,Undirected,1
+Bent,Søren,Undirected,2
+Gud,Søren,Undirected,1
+Niels,Søren,Undirected,1
+Bent,Lavenkongens,Undirected,1
+Lehnsmanden,Søren,Undirected,1
+Bent,Søren flog,Undirected,1
+Johan Goerdes,Kjelder,Undirected,1
+Genete Jakobsdatter,Vigand,Undirected,1
+Genete Jakobsdatter,løi,Undirected,1
+Johan Goerdes,løi,Undirected,1
+Johan Goerdes,John Craigengelt,Undirected,1
+Stiig,Vigand,Undirected,2
+Johan Goerdes,Munk,Undirected,2
+Goslich Luntes,Marcus Meier,Undirected,1
+Vigand,al,Undirected,1
+John Craigengelt,al,Undirected,1
+Craigengelters,John Craigengelt,Undirected,1
+Vigand,Vissing,Undirected,1
+Stiig,Svend,Undirected,1
+Maris,Vigand,Undirected,1
+Maris,Svend Ole,Undirected,1
+Margaret Mogensdatter,Vigand,Undirected,2
+Margaret Mogensdatter,Tjele,Undirected,1
+Svend,Vigand,Undirected,2
+Johan Goerdes,Svend,Undirected,7
+Folmer Hansen Rud,Svend,Undirected,1
+Folmer Hansen Rud,Kjellinghøl,Undirected,1
+Bent,Vigand,Undirected,3
+Johan Goerdes,Karle,Undirected,1
+Iohan Goerdes,Vigand,Undirected,3
+Graad,Vigand,Undirected,3
+Gud,Munk,Undirected,1
+Taalmod,Vigand,Undirected,1
+Gud,Voergaard,Undirected,2
+John Clarich,Vigand,Undirected,1
+Jakobsdatter,John Clarich,Undirected,1
+Jakobsdatter,John Craigengelt,Undirected,1
+John Craigengelt,Vigand,Undirected,1
+Vigand,øg,Undirected,5
+Hnn,øg,Undirected,2
+Kollen,Vigand,Undirected,1
+Kollen,roe,Undirected,1
+Mari,Vigand,Undirected,38
+Margaret,Mari,Undirected,10
+Johan Goerdes,Margaret,Undirected,2
+Gud,Jerichos,Undirected,1
+Ambrosius,fleet,Undirected,1
+Elsebeth Gyldenstjernes,fleet,Undirected,1
+Elsebeth Gyldenstjernes,Margaret,Undirected,1
+Marine,Styge,Undirected,1
+Hau,Vigand,Undirected,1
+Hau,Mari,Undirected,1
+Gjertrud,Mari,Undirected,4
+Gjertrud,Hexens,Undirected,1
+Griis,Vigand,Undirected,1
+Griis,Mari,Undirected,1
+Hexen,Vigand,Undirected,3
+Elsfov,Mari,Undirected,1
+Jomfru Margrethe,Vigand,Undirected,2
+Karen,Vigand,Undirected,1
+Jomfru Margrethe,Mari,Undirected,1
+Margaret,Munk,Undirected,2
+Jomfru Margrethe,Vissing,Undirected,1
+Gjertrud,Jomfru Margrethe,Undirected,2
+Gjertrud,Tanshed,Undirected,1
+Mari,Villie,Undirected,1
+Gjertrud,Vigand,Undirected,3
+Vigand,loe,Undirected,1
+Hexen,Mari,Undirected,1
+Hexen,Margaret,Undirected,2
+Margaret,sidsfe,Undirected,1
+Mari,Steen,Undirected,2
+Sancte Peder,Vigand,Undirected,1
+Sancte Peder,Sancte Povel,Undirected,1
+Sancte Laurentius,Sancte Povel,Undirected,1
+Sancte Laurentius,Sancte Søren,Undirected,1
+Sancte,Sancte Søren,Undirected,1
+Knud,Sancte,Undirected,1
+Knud,Sancte Folmer,Undirected,1
+Sancte,Sancte Folmer,Undirected,1
+Sancte,Vigand,Undirected,1
+Folmer Hansen,Knud,Undirected,1
+Gyldenstjerne,John Craigengelt,Undirected,1
+Gud,Jomfru Maria,Undirected,1
+Margaret,Stigballevig,Undirected,1
+Margaret,Raskf,Undirected,1
+Margaret,øg,Undirected,1
+Folmer,paany,Undirected,1
+Bent Tue,paany,Undirected,1
+Bent Tue,Vigand,Undirected,1
+Bent,Thøger,Undirected,2
+Bent,Rye,Undirected,1
+Margrethe,Rye,Undirected,1
+Gjertrud,Margrethe,Undirected,1
+Margaret,Rye,Undirected,1
+Gjertrud,Margaret,Undirected,2
+Margaret,Vissing,Undirected,1
+Folmer Bent,Gjertrud,Undirected,1
+Margaret,Thøger Løvenbalk,Undirected,3
+Thøger,Vigand,Undirected,3
+Folmer,Thøger,Undirected,3
+Folmer,Marine,Undirected,1
+Ambrosius,Vantroe,Undirected,1
+Bent Tue,Vantroe,Undirected,1
+Bent Tue,Gjertrud,Undirected,1
+Folmer,Gjertrud,Undirected,1
+Folmer,Mast,Undirected,1
+Mast,tom,Undirected,1
+Ambrosins,tom,Undirected,1
+Kjellinghøl,Peer Korne,Undirected,1
+Folmer Rud,Gud,Undirected,1
+Gjertrud,Veronica,Undirected,1
+Mari,Veronica,Undirected,3
+Mari,forgjeves,Undirected,1
+Heinrich,Vigand,Undirected,5
+Johan Goerdes,ester,Undirected,1
+Heinrich,Svend,Undirected,1
+Heinrich,Johan Goerdes,Undirected,12
+Heinrich,Karl,Undirected,1
+Johan Goerdes,Karl,Undirected,2
+Heinrich,Iohan Goerdes,Undirected,1
+Iohan Goerdes,Johan Goerdes,Undirected,1
+Johan Goerdes,Sortebroder,Undirected,2
+,Johan Goerdes,Undirected,3
+,Vigand,Undirected,1
+Rye,Vigand,Undirected,1
+Rye,Svend,Undirected,1
+Johan Goerdes,loe,Undirected,1
+Jomfru Margrethe,Munk,Undirected,1
+Dolken,Johan Goerdes,Undirected,1
+Dolken,Vigand,Undirected,1
+Heinrich,Johan,Undirected,1
+Svend,Tu,Undirected,1
+Johan Goerdes,Vigands Svend,Undirected,1
+Claus,Svend,Undirected,1
+Claus,Vigand,Undirected,4
+Vigand,hans Baand,Undirected,1
+Johan Goerdes,hans Baand,Undirected,1
+Claus,Johan Goerdes,Undirected,4
+Gud,Heinrich,Undirected,1
+Folmer,Johan Goerdes,Undirected,1
+Margaret Mogensdatter,Thøger Løvenbalk,Undirected,1
+Margaret Mogensdatter,Thøger,Undirected,1
+Kong Christiern den Tredies,Thøger,Undirected,1
+Belials,Kong Christiern den Tredies,Undirected,1
+Folmer,Genete,Undirected,1
+Ambrosius,Thøger,Undirected,12
+Abbed Peder,Thøger,Undirected,1
+Abbed Peder,Ambrosius,Undirected,1
+Ambrosius,Peder,Undirected,3
+Ambrosius,Christi,Undirected,1
+Christi,Thøger,Undirected,1
+Ambrosins,Munk,Undirected,1
+Ambrosius,Bernhard,Undirected,2
+Margrethe Mogensdatter,Thøger,Undirected,1
+Margrethe Mogensdatter,herhid,Undirected,1
+Gud,Margrethe Mogensdatter,Undirected,1
+Thøger,signe,Undirected,1
+Ambrosius,signe,Undirected,1
+Folmer Hansen,Thøger,Undirected,1
+Margaret,Rosenkrandsen,Undirected,1
+Reifes,Thøger,Undirected,1
+Margaret,Reifes,Undirected,1
+,Broder Ambrosius,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Hain,Undirected,1
+Broder Ambrosius,Thøger,Undirected,2
+Margaret,Thøger tang,Undirected,1
+Ambrosius,Thøger tang,Undirected,1
+Arne,Margaret,Undirected,1
+Arne,Gud,Undirected,1
+Thøger,Viis,Undirected,1
+Gud,Viis,Undirected,1
+Ambrosius,Broder Ambrosius,Undirected,1
+Ambrosins,Thøger,Undirected,2
+Julian,Thøger,Undirected,1
+Margrethe Mogensdatter Løvenbalk,Thøger,Undirected,1
+Ambrosins,herhid,Undirected,1
+Abbed Peder,Thøger Løvenbalk,Undirected,1
+Margrethe,Thøger Løvenbalk,Undirected,1
+Abbed Peder,Margrethe,Undirected,1
+Steen,Thøger,Undirected,1
+Genete,Thøger,Undirected,1
+Maria,Thøger,Undirected,1
+Margaret,Skjels,Undirected,1
+Knud,Skjels,Undirected,1
+Hans Thordsen,Margaret,Undirected,3
+Genete Jakobsdatter,Hans Thordsen,Undirected,1
+Beiler,Hans Thordsen,Undirected,1
+Beiler,Folmer,Undirected,1
+Margaret,fom Thøger,Undirected,1
+Folmer Rud,fom Thøger,Undirected,1
+Hans Thordsen,Roes,Undirected,1
+Folmer,Roes,Undirected,1
+Folmer,Ide,Undirected,2
+Chrisfoffer Kruse,Margaret,Undirected,1
+Chrisfoffer Kruse,Folmer,Undirected,1
+Jens Nielsen,Knud,Undirected,1
+Jens Nielsen,Løvenbalks,Undirected,1
+Chrisfoffer Kruse,Knud,Undirected,1
+Chrisfoffer,Knud,Undirected,2
+Christoffer Kruse,Knud,Undirected,3
+Christoffer Kruse,Laurids Lunov,Undirected,3
+Laurids Lunov,Margaret,Undirected,1
+Margaret,Vensfab,Undirected,1
+Folmer Rud,Vensfab,Undirected,1
+Folmer Rud,Geert,Undirected,1
+Erik Skram,Margaret,Undirected,2
+Erik Skram,Maren Lauridsdatter,Undirected,1
+Maren Lauridsdatter,Margaret,Undirected,1
+Christoffer Kruse,Erik Skram,Undirected,1
+Jørgen,Laurids Lunov,Undirected,1
+Jørgen,Rud,Undirected,1
+Folmer,Rud,Undirected,1
+Bodil Hansdatter,Margaret,Undirected,2
+Bodil,Margaret Mogensdatter,Undirected,1
+Bodil Hansdatter,Folmer Rud,Undirected,1
+Folmer Rud,Veronica,Undirected,2
+Ambrosii,Margaret,Undirected,1
+Folmer,Margaret erfoer,Undirected,1
+Ambrosius,Thøger Løvenbalk,Undirected,1
+Thøger,Thøger Løvenbalk,Undirected,1
+Peer Kørne,Thøger,Undirected,1
+Ambrosius,Peer Kørne,Undirected,1
+Anna Enevoldsdatter,Margaret,Undirected,1
+Anna Enevoldsdatter,Knud og,Undirected,1
+Christoffer Kruse,Knud og,Undirected,1
+Hvo,Margaret,Undirected,1
+Knud Mogensen,Margaret,Undirected,2
+Folmer,Steen,Undirected,1
+Christoffer Kruse,Margaret,Undirected,2
+Christoffer Kruse,Knud at,Undirected,1
+Knud at,Margaret,Undirected,1
+Ide,Margaret,Undirected,1
+Erik Skram,Knubs,Undirected,2
+Knud,Mogensen,Undirected,1
+Frederiks,Kong Christiern,Undirected,1
+Knud,Thundeboe,Undirected,2
+Elfe,Knud,Undirected,1
+Elfe,Vigand,Undirected,1
+Erik Skram,Thøger Løvenbalk,Undirected,1
+Knud var,Tjele,Undirected,1
+Geert Eriksen,Knud var,Undirected,1
+Geert Eriksen,Løvenbalks,Undirected,1
+Margaret,iland,Undirected,1
+Genete Jakobsdatter,Kjellinghøl,Undirected,1
+Genete Jakobsdatter,Lauridssen Løvenbalk,Undirected,1
+Lauridssen Løvenbalk,Leith,Undirected,1
+Knnd,Maren Lauridsdatter,Undirected,1
+Beviis,Knud,Undirected,1
+Beviis,Jakobsdatter,Undirected,1
+Erik Skram,Jakobsdatter,Undirected,1
+Tjele,hans,Undirected,1
+Erik,hans,Undirected,1
+Erik,Knnd Mogensen,Undirected,1
+Jørgen Skram,Knnd Mogensen,Undirected,2
+Folmer Rud,Jørgen Skram,Undirected,2
+Folmer Rud,Knnd,Undirected,1
+Frederik,Knnd,Undirected,2
+Erik Skram,Frederik,Undirected,1
+Knud,Kong Frederik,Undirected,6
+Jørgen Skram,Knud Mogensen,Undirected,1
+Knud Mogensen,Tjele,Undirected,1
+Jørgen Skram,Tjele,Undirected,1
+Knud,Maren Lauridsdatter,Undirected,1
+Maren Lauridsdatter,Tjele,Undirected,1
+,Knud,Undirected,1
+,Jørgen Skram,Undirected,1
+Knud,Loverstrup,Undirected,1
+Ide Nielsdatter,Kong Frederik,Undirected,1
+Anna Seefeld,Christoffer Kruse,Undirected,1
+Anna Seefeld,Laurids Lunov,Undirected,1
+Anna Enevoldsdatter,Gud,Undirected,1
+Anna Enevoldsdalters,Christoffer Kruse,Undirected,1
+Dues,Folmer,Undirected,1
+Hal,Knud Mogensen,Undirected,1
+Bilde,Hal,Undirected,1
+Bilde,Gyldenstjerne,Undirected,1
+Gyldenstjerne,Skeel,Undirected,1
+Friis,Skeel,Undirected,1
+Friis,Rotfeldt,Undirected,1
+Kaas,Rotfeldt,Undirected,1
+Kaas,Munk,Undirected,1
+Folmer Rud,Munk,Undirected,1
+Jørgen Skram,Verner Parsberg,Undirected,1
+Knud fordum,Verner Parsberg,Undirected,1
+Jørgens Farbroder,Knud fordum,Undirected,1
+Iver Sfram,Jørgens Farbroder,Undirected,1
+Iver Sfram,Jørgen Eriksen Skram,Undirected,1
+Jørgen Eriksen Skram,Knud Mogensen Løvenbalk,Undirected,1
+Knud Jørgens,Margaret,Undirected,1
+Jørgen Skram,Margaret,Undirected,1
+Folmer,Henning,Undirected,1
+Bent Tue,Knud,Undirected,2
+Knud,Niels Pedersen Gyldenstjernes,Undirected,1
+Knud af,Niels Pedersen Gyldenstjernes,Undirected,1
+Ide,Knud af,Undirected,1
+Hans Folmersen Rud,Margaret,Undirected,1
+Hans Folmersen Rud,Knud,Undirected,1
+Christen,Gud,Undirected,1
+Knud Mogensen,Mogensdatter,Undirected,1
+Folmer Rud,Jørgen,Undirected,1
+Kong Frederik,Peder Oxe,Undirected,2
+Jens Truidsen,Peder Oxe,Undirected,1
+Fløiels,Jens Truidsen,Undirected,1
+Jens Truidsen,Peder,Undirected,1
+Knud Mogensen,Kong Frederik,Undirected,1
+Hardenberg,Kirstine Hardenberg,Undirected,1
+Hardenberg,Mattrup,Undirected,1
+Kong Frederik,Mattrup,Undirected,1
+Sophie,Verner Parsberg,Undirected,1
+Kong Frederik,Verner Parsberg,Undirected,3
+Kong Frederik,Lykke,Undirected,1
+Knud,Lykke,Undirected,1
+Oxen,Steen,Undirected,1
+Gud,Vedel Simonsen,Undirected,1

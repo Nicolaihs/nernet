@@ -1,0 +1,183 @@
+source,target,type,weight
+Bergmann,Lauwsitz,Undirected,2
+Lauwsitz,Nils Bergmann,Undirected,4
+Maur,Nils Bergmann,Undirected,2
+Lauwsitz,Nils,Undirected,4
+Bergmann,Nils,Undirected,2
+Bergmann,Nils Bergmann,Undirected,1
+Lauwsitz,Presten,Undirected,1
+Guts,Presten,Undirected,1
+Guts,Nils,Undirected,1
+Nils,Nils Bergmann,Undirected,6
+Jomfru Minervas,Nils Bergmann,Undirected,1
+Jomfru Minervas,Nils den,Undirected,1
+Heltbergs,Nils den,Undirected,1
+Heltbergs,alma mater,Undirected,1
+Nils,alma mater,Undirected,1
+Niels,Steffens,Undirected,1
+Bergmann,Jakob Jenssen,Undirected,1
+Nils Bergmann,Nils den,Undirected,1
+Nils,Steffens,Undirected,1
+Johan Sverdrup,Karl-Johans-Gade,Undirected,1
+Johan,Karl -,Undirected,1
+Karl Vahl,Olaf,Undirected,1
+Gunnar Lemwich,Karl Vahl,Undirected,1
+Frederik Wilhelm Dahm,Gunnar Lemwich,Undirected,1
+Frederik Wilhelm Dahm,Olaf Horn,Undirected,1
+Bergmann,Dahm,Undirected,1
+Bergmann,Vahl,Undirected,1
+Nils Bergmann,somme,Undirected,1
+Horn,Nils,Undirected,1
+Gud,Veto,Undirected,1
+Ekeberg,jasaa,Undirected,1
+Ekeberg,Nesodden,Undirected,1
+Bøndera,Matrossa,Undirected,1
+Bjørk,Niels Bergmann,Undirected,1
+Bjørk,Væxt,Undirected,2
+Bergersens,maatru,Undirected,1
+Bergersens,Steffen Jenssens,Undirected,1
+Karen,Steffen Jenssens,Undirected,1
+Bergersen,N. P. Wisdahl,Undirected,1
+N. P. Wisdahl,Nils,Undirected,4
+Sesaa,Ulla,Undirected,1
+Mortensen,Ulla,Undirected,1
+Nils Bergmann,iland,Undirected,1
+N. P. Wisdahl,iland,Undirected,1
+N. P. Wisdahl,Nils Bergmann,Undirected,4
+Amund Hol,Nils Bergmann,Undirected,1
+Amund Hol,Sergeantens,Undirected,1
+Lars Garmo,Sergeantens,Undirected,1
+Knut Peterssen,Lars Garmo,Undirected,1
+Amund Hol,Garmoen,Undirected,1
+Amund Hol,Dahl,Undirected,1
+Dahl,Myhr,Undirected,1
+Myhr,Nils Bergmann,Undirected,1
+Nils Bergmann,Peterssen,Undirected,2
+Gjerstad,Myhr,Undirected,1
+Gjerstad,Nils Bergmann,Undirected,2
+Aker,Nils Bergmann,Undirected,1
+Aker,Garmoen,Undirected,1
+Garmoen,Verten,Undirected,1
+N. P. Wisdahl,Verten,Undirected,1
+Amund Hol,Garmo,Undirected,2
+Gjerstad,Lunde,Undirected,1
+Lunde,Verten,Undirected,1
+Steffen Jenssen,Verten,Undirected,1
+Steffen Jenssen,halshugges,Undirected,1
+Garmo,Nils Bergmann,Undirected,1
+Garmo,Skjær,Undirected,1
+Garmoen,Nils Bergmann,Undirected,1
+Garmoen,Nils,Undirected,1
+Asbjørn,Nils,Undirected,1
+Nils Bergmann,Wisdahl,Undirected,1
+Wisdahl,iland,Undirected,1
+Aker,Kassa,Undirected,1
+Aker,Sølfest,Undirected,1
+Nils Bergmann,Sølfest,Undirected,5
+Sølfest,kanske,Undirected,2
+Knut Aure,Nils,Undirected,4
+Jomfru Maria,Nils,Undirected,1
+Johan Sverdrup,Jomfru Maria,Undirected,1
+Johan Sverdrup,Knut Aure,Undirected,2
+Bergmann,Knut Aure,Undirected,2
+Knut,Knut Aure,Undirected,4
+Knut,Nils,Undirected,1
+Nils,Sølfest,Undirected,3
+Fars,Nils,Undirected,1
+Knut,Sølfest,Undirected,8
+Aure,hans,Undirected,1
+Knut Aure,Stræv,Undirected,1
+Aure,Knut Aure,Undirected,2
+Knut Aure,Nils Bergmann,Undirected,2
+Knut Aure,Sølfest,Undirected,11
+Hagen,Nils,Undirected,1
+Hagen,Nils Bergmann,Undirected,1
+Iver Nordigard,Knut,Undirected,1
+Raaens,Sølfest,Undirected,2
+Knut,Raaens,Undirected,1
+Greja,Knut,Undirected,1
+Sølfest,Thorstein Knutsøn Aure,Undirected,1
+Aure,Sølfest,Undirected,2
+Marit Raaen,Thorstein,Undirected,3
+Randi,Sølfest,Undirected,1
+Presten,Sølfest,Undirected,5
+Marit,Sølfest,Undirected,2
+Nils Bergmann,Thorstein,Undirected,1
+Nils,Thorstein,Undirected,5
+Nils,Presten,Undirected,5
+Thor Berg,hin,Undirected,1
+Berg,Nils,Undirected,1
+Nils,Pontoppidan,Undirected,1
+Harald Haarfagres,Pontoppidan,Undirected,1
+Harald Haarfagres,Kristierns,Undirected,1
+Nils,sorn,Undirected,2
+Nils,Thor Berg,Undirected,2
+Julset,Nils,Undirected,1
+Marit,Ole,Undirected,1
+Marit,Presten,Undirected,1
+Gud,Sølfest,Undirected,2
+Prest,Sølfest,Undirected,1
+Sølfest,hvast,Undirected,1
+Bergmann,Wisdahl,Undirected,1
+Niels,Nils,Undirected,1
+Nils,Wisdahl,Undirected,2
+Skaar,Wisdahl,Undirected,1
+Skaar,egal,Undirected,1
+Nils,Skogtveits,Undirected,1
+Skogtveit,Wisdahl,Undirected,1
+Bergmann,Skogtveit,Undirected,1
+Nils Bergmann,Skogtveit,Undirected,1
+Knut Aure,Presten,Undirected,2
+Sjødal,Sølfest,Undirected,3
+Knut Aure,Sjødal,Undirected,3
+Knut Aure,Raaens,Undirected,1
+Knut,Sjødal,Undirected,1
+Hart,Sølfest,Undirected,2
+Bergmann,Knut,Undirected,1
+Bergmann,Sølfest,Undirected,1
+Aure,Nils Bergmann,Undirected,1
+Knut Aure,Knutselv,Undirected,1
+Knut,Knutselv,Undirected,1
+Knut,Nils Bergmann,Undirected,1
+Somme,Sølfest,Undirected,1
+Gutten,Sølfest,Undirected,1
+Gud,Presten,Undirected,1
+Niels Bergmann,Sølfest,Undirected,1
+Aure,Knut,Undirected,1
+N. P. Wisdahl,Wisdahl,Undirected,1
+Gud,Per Husmand,Undirected,1
+Gud,Per,Undirected,3
+Per,Presten,Undirected,1
+Per Husmand,Presten,Undirected,1
+Paulus,Per,Undirected,1
+Per,Per Husmand,Undirected,1
+Nils Bergmann,Sølfest Raaen,Undirected,2
+Nils Bergmann,Presten,Undirected,1
+Konsul Berntsens,Presten,Undirected,1
+Berntsen,Gud,Undirected,1
+Knut Aure,Straa,Undirected,1
+Karen,Knut Aure,Undirected,1
+Prestefar,Sølfest,Undirected,2
+Johan Sverdrup,Sølfest,Undirected,1
+Bjørnstjerne Bjørnson,Knut Aure,Undirected,1
+Bjørnstjerne Bjørnson,Nils Bergmann,Undirected,1
+Nils Bergmann,Thor Berg,Undirected,2
+Nils,ThorEerg,Undirected,2
+Nils,Opraabet,Undirected,1
+Knut Aure,Torstein,Undirected,1
+Knut,Marit Raaen,Undirected,1
+Gutten,Thorstein,Undirected,1
+Nils Bergmann,bent,Undirected,1
+Thorstein,bent,Undirected,1
+Marit,Thorstein,Undirected,1
+Marit,Nils Bergmann,Undirected,1
+Sølfest,Thorstein,Undirected,1
+Karen,Thorstein,Undirected,1
+Nils,skjød,Undirected,1
+Ellan Spelmand,Felen,Undirected,1
+Felen,Spelmand,Undirected,1
+Ellan,Spelmand,Undirected,1
+Ellan,Presten,Undirected,1
+Felen,Knut Aure,Undirected,1
+Ellan,Felen,Undirected,1
+Ellan,Ifjor jætt,Undirected,1

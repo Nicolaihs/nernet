@@ -1,0 +1,157 @@
+source,target,type,weight
+Olivia,Skou,Undirected,4
+Margrethe,Skou,Undirected,3
+Olivia,lup,Undirected,1
+Mama,Olivia,Undirected,27
+Mama,Skou,Undirected,2
+Mama,Papa,Undirected,47
+Fortepiano,Olivia,Undirected,1
+Margrethe,Olivia,Undirected,24
+Mama,Margrethe,Undirected,51
+Mama,Mutter,Undirected,1
+Malle,Margrethe,Undirected,2
+Christian,Malle,Undirected,2
+Christian,Hr. Holms,Undirected,1
+Christian,Margrethe,Undirected,9
+Hr. Holms,Margrethe,Undirected,1
+Gud,Hr. Holms,Undirected,1
+Gud,véd,Undirected,2
+Margrethe,Tante Malle,Undirected,4
+Skou,lille Olivia,Undirected,1
+Skou,lille Margrethe,Undirected,1
+Margrethe,lille Margrethe,Undirected,1
+Olivia,hiin,Undirected,1
+Christian,Mama,Undirected,9
+Mama,Tante Malle,Undirected,2
+Blodel,Mama,Undirected,1
+Louise Holm,Mama,Undirected,1
+Olivia,Pastor Skou,Undirected,1
+Margrethe,Papa,Undirected,29
+A,Papa,Undirected,2
+Salomos,Skou,Undirected,1
+Christian,Papa,Undirected,4
+Darwin,Papa,Undirected,1
+Christo,Mama,Undirected,1
+Olivia,Papa,Undirected,10
+Gud,Olivia,Undirected,8
+Christian,Gud,Undirected,3
+Christian,Hans,Undirected,1
+Hans,Mama,Undirected,1
+Gud,Mama,Undirected,6
+Tante Malle,vips,Undirected,1
+Klyno,Margrethe,Undirected,1
+Clara,Olga,Undirected,1
+Emma,Olga,Undirected,1
+Gud,Margrethe,Undirected,11
+Hans,tys,Undirected,1
+smålo,tys,Undirected,1
+Christian,Olivia,Undirected,1
+Frøken Petersen,Papa,Undirected,1
+Maren,Margrethe,Undirected,1
+Ane,Maren,Undirected,1
+Hr. Holm,Mama,Undirected,1
+Hr. Holm,Margrethe,Undirected,1
+Christian,Watteau,Undirected,1
+Rosa,Watteau,Undirected,1
+Margrethe,yar Mama,Undirected,1
+Ane,Christian,Undirected,1
+Ane,Mama,Undirected,1
+Olivia,olen,Undirected,1
+Christian,d,Undirected,2
+Christian,Pjerrot,Undirected,1
+Karl,Pjerrot,Undirected,1
+Christian,Karl,Undirected,1
+Kommers,Papa,Undirected,1
+Christian,hinandem,Undirected,1
+Papa,hinandem,Undirected,1
+Badouille,Papa,Undirected,2
+Gud,Papa,Undirected,7
+Louise,Mama,Undirected,1
+Christian,Stupigen,Undirected,1
+Brosche,Mama,Undirected,1
+Brosche,Margrethe,Undirected,1
+Tante Malle,tom,Undirected,1
+Papa,Tante Malle,Undirected,1
+Papa,Pastor Jensens,Undirected,1
+Jensen,véd,Undirected,1
+Jensen,Papa,Undirected,3
+Jensen,Tomhed,Undirected,1
+Christian,Tomhed,Undirected,1
+Gud,Jensen,Undirected,6
+Christian,Jensen,Undirected,3
+Jensen,Tante Malle,Undirected,1
+Jensen,durch,Undirected,1
+Christian,durch,Undirected,1
+Helene,Jensen,Undirected,1
+Gud,Pastor Jensen,Undirected,2
+Hugo,Mama,Undirected,1
+Hugo,Jesus,Undirected,1
+Olivia,Schou,Undirected,2
+Eva,Gud,Undirected,2
+Jensen,Margrethe,Undirected,1
+Jensen,Olivia,Undirected,1
+Olivia,Pastor Jensen,Undirected,1
+Gud,Malle,Undirected,2
+Christus,Jensen,Undirected,1
+Christus,Papa,Undirected,1
+Ellen Bramsen,Ludovika v. Arndt,Undirected,1
+Ludovika v. Arndt,Papa,Undirected,1
+Ludovika,Margrethe,Undirected,4
+Ellen Bramsen,Margrethe,Undirected,1
+Ludovika,Olivia,Undirected,2
+Christian,Ilendes,Undirected,1
+Olivia,påny,Undirected,1
+Mama,påny,Undirected,1
+Caroline,Herkules,Undirected,1
+Ludovika,Mama,Undirected,1
+Ludovika,Perdu,Undirected,1
+Møller,Papa,Undirected,6
+Mama,Mr s.,Undirected,1
+Gouvernante,Mama,Undirected,1
+Gouvernante,Lordens,Undirected,1
+Lordens,Margrethe,Undirected,1
+Lords,Møller,Undirected,1
+Margrethe,Møller,Undirected,2
+Mama,Møller,Undirected,2
+Mama strax,Margrethe,Undirected,2
+Lise,Margrethe,Undirected,1
+Hans,Papa,Undirected,1
+Gud,Hans,Undirected,1
+Gretemo,Papa,Undirected,1
+Gretemo,Margrethe,Undirected,1
+Olivia,Olivia —,Undirected,1
+Henning Møller,phil.,Undirected,1
+Henning Møller,Margrethe,Undirected,2
+Henning Møller,Holm,Undirected,1
+A,véd,Undirected,1
+A,Mama,Undirected,1
+Kjød,Møller,Undirected,1
+Kjød,Margrethe,Undirected,1
+Margrethe,Schou,Undirected,1
+Olivia,Svigerpapa,Undirected,1
+Mama,Svigerpapa,Undirected,1
+Ane,Margrethe,Undirected,2
+Ane,Møller,Undirected,1
+Dr. Møller,Papa,Undirected,1
+Gud,Peter,Undirected,5
+Margrethe,Peter,Undirected,1
+Papa,•PåPapa,Undirected,1
+Mama,sauve-garde,Undirected,1
+Kjæresten,Margrethe,Undirected,1
+Møller,kjed,Undirected,1
+Margrethe,paany,Undirected,1
+Papa,paany,Undirected,1
+Fru Ludovikas,Margrethe,Undirected,2
+Christian,Otto Krog,Undirected,1
+Hr. Krog,Ludovika,Undirected,1
+Frøken Holm,Hr. Krog,Undirected,1
+Christian,Ludovika,Undirected,1
+Frøken Holm,Margrethe,Undirected,1
+Krog,Margrethe,Undirected,1
+Margrethe,skjælmsk,Undirected,2
+Ane,Gud,Undirected,1
+Krog,Papa,Undirected,1
+Christian,Krog,Undirected,1
+Gud,Marter,Undirected,1
+Otto Krog,Papa,Undirected,1
+Gud,Møller,Undirected,1

@@ -1,0 +1,649 @@
+source,target,timestamp
+Frida,Madam Smith,1
+Frida,lille Peter,7
+Madam Smith,taus,11
+Anders Stefensen,Søren,15
+Frida,Søren,17
+Ben Palle Baadsmand,Chrislian Bek,19
+Chrislian,Stefensen,20
+Christian,Palle Baadsmand,26
+Christian,Stefensen,36
+Christian,Gud,37
+Christian,Palle Baadsmand,37
+Frida,Villiam,54
+Frida,elffes,54
+Chrislian,Frida,55
+Frida,Palle,55
+Anders Stefensen,Madam Smith,63
+Anders,Anders Stefensen,63
+Chrislian,Frida,65
+Frida,Madam Smith,65
+Christian,Frida,71
+Christian,Villiam Falz,71
+Frida,Villiam Falz,71
+Frida,Jb,71
+Jb,Villiam,71
+Christian,Peter,76
+Christian,Frida,81
+Søderborg,reisfe,89
+Ludvig Smith,Søderborg,89
+Heinrich Ærenskjold,fransf Adelsmand,90
+Søderborg,fransf Adelsmand,90
+Greven,fil,94
+Amanda,Søderborg,96
+Amanda,Heinrich,102
+Amanda,Heinrich,112
+Amanda,Greve,113
+Greve,Heinrich,115
+Amanda,Heinrich,118
+Amanda,Heinrich,118
+Amanda,Heinrich,123
+Amanda,Heinrich,123
+Amanda,Heinrich,125
+Dam,Smith,131
+Christian Bek,Palle Baadsmand,134
+Chrislian,Palle Baadsmand,144
+Dam,Jansen,154
+Christian,Frida,155
+Christian,Frida,155
+Christian,Frida,156
+Christian,Frida,160
+Madam Smith,Nanna,161
+Frida,Villiam,166
+Frida,tolle,166
+Olivia,tolle,166
+Olivia,Onkels,167
+Olivia,Onkels,167
+Christian,Villiam,168
+Chrisfian,Frida,173
+Albert Jul,Dam,179
+Dam,Herr Dam,179
+Alice,Herr Dam,179
+Alice,Alice Dam,179
+Albert Jul,Alice Dam,179
+Albert Jul,Dam,180
+Døttre,Madam Smith,183
+Chrisfian,Frida,186
+Frida,Tosse-Malenes,186
+Tosse-Malenes,tysf,186
+Palle Baadsmand,tysf,186
+Nanna,Palle Baadsmand,186
+Christian,Madam Smith,187
+Madam Smith,Nanna,190
+Christian,Frida,191
+Christian,Palle,194
+Dam,Frida,200
+Faders,Magnus,203
+Christian,Frida,209
+Christian,Frida,213
+Robert,Schalten,215
+Robert,Øreng,215
+Anny,Øreng,215
+Anny,Jane,215
+Hamren,Jane,215
+Hamren,Jane,215
+Anny,Jane,215
+Anny,Jane,215
+Jane,Robert,215
+Frida,Papa,233
+Herr Falz,Ib,234
+Christian,Ib,235
+Ib,Villiam,236
+Ib,Villiam,238
+Christian,Frida,240
+Alice,Dam,241
+Karethen,iland,245
+Karethen,Twill,245
+Frida,Jb,247
+Frida,Villiam,247
+Bachus,Venus,248
+Venus,Villiam,248
+Frida,Villiam,251
+Frida,Villiam,259
+Christian,Gud,261
+Gud,Jomfru Smith,263
+Christian,Jomfru Smith,263
+Rosenmund,Villiam,266
+Elsfede,Frida,269
+Frida,Villiam,271
+Laura,Villiam,272
+Laura,Villiam,274
+barsf,hans Uhr,278
+Laura,Villiam,279
+Laura,Villiam,279
+Palle,Palle Baadsmand,285
+Dands,Palle,286
+Christian,Palle,289
+Palle,Villiam Falz,291
+Marie,NielssJul,296
+Marie,slilles,296
+ieg,slilles,296
+Marie,ieg,296
+Marie,taug,296
+Christian,taug,296
+Marie,Palle,297
+Chrisfian,Dam,299
+Christian,Herr Dam,300
+Chrislian,Frida,302
+Christian,Palle,307
+Neptun,Palle,308
+Christian,Neptun,308
+Christian,Palle,310
+Christian,Gud,314
+Christian,mørknes,316
+Frida,Villiam,317
+Frida,Nanna,319
+Frida,Nanna,319
+Christian,Nanna,322
+Frida,Nanna,323
+Christian,Frida,326
+Frida,Nanna,327
+Frida,Nanna,327
+Dam,r,337
+j,Øe,339
+askegraa,Øe,339
+Frida Smith,lidf,343
+Frida,Niels Jensen,350
+Frida,Villiam Falz,356
+Christian,Villiam Falz,356
+Dandsebod,Frida,358
+Frida,Laura,358
+Dam,Frida Smith,359
+Frida,Frida Smith,359
+Christian,Villiam,361
+Frida,Herr Dam,368
+Christian,Herr Dam,368
+Christian,Villiam Falz,370
+Christian,Frida,370
+Chrisfian,Støi,385
+Christian,Frida,387
+Frida,Nanna,395
+Frida,Nanna,395
+Christian,Gud,399
+Christian,Frida,399
+Madam Smith,Nanna,400
+Gud,Palle,407
+Frida,Gud,407
+Frida,Herr Dam,411
+Dam,Madam Smith,412
+Alice,Herr Dam,417
+Amanda,Søderborg,420
+Amanda,Ærenskjolds,420
+Ærensijold,Ærenskjolds,420
+Heinrich,Ærensijold,420
+Amanda,Heinrich,420
+Amanda,Greven,422
+Amanda,Christi,422
+Amanda,Heinrich,424
+Heinrich,Ærenskjold,424
+Amanda,Lise,430
+Heinrich,Lise,430
+Alice,Heinrich,430
+Herr Beks,Jomfru Smith,436
+Søderborg,Villiam Falz,461
+Dam,Ludvig Smith,468
+Alice,Frida,474
+Chrisfian,Palle,481
+Christian,Palle,483
+Bek,Christian,486
+Frida,Villiam Falz,488
+Christian,Villiam,491
+Elsfov,Frida,492
+Frida,Villiam Falz,493
+Christian,Villiam,496
+Søren,Villiam,499
+Christian,Palle,500
+Frida,Nanna,516
+Nanna,Olsen,516
+Frida,Pantelaa,518
+Frida,Nanna,521
+Madam Smith,Nanna,522
+Christian,Nanna,524
+Frida,Nanna,524
+Christian,Nanna,526
+Ole,sor,540
+Alice,sor,540
+Frida,Madam Smith,544
+Dam,Sømanden,546
+Chrislian,Christian,553
+Alice,Nanna,559
+Alice,Nanna,560
+Alice,Frida,561
+Frida,Jomfru Smith,561
+Alice Dam,Amalie^,564
+Amalie,Dam,565
+Alice,Nanna,566
+Alice,Nanna,568
+Alice,Nanna,569
+Gud,Nanna,579
+Alice,Magnus,581
+Magnus,Villiam,581
+Dam,Villiam,581
+Dam,Villiam,581
+Laura,Magnus,585
+Laura,Schuster,589
+Schuster,es,589
+Villiam,es,589
+Didrichsen,Villiam,591
+Villiam,skjøn,591
+Laura,skjøn,591
+Bravo,Laura,591
+Alice,Villiam,596
+Alice,Villiam,597
+Frida,Nanna,600
+Christian,Nanna,600
+Christian,Gud,601
+Christian,Gud,601
+Frida,elffe,602
+Frida,Nanna,606
+Frida,Nanna,607
+Christian,alf,613
+Madam Smith,Nanna,619
+Frida,Nanna,625
+Frida,Nanna,626
+Dam,sfummer,628
+Alice Dam,Villiam Falz,629
+Alice,Villiam,630
+Alice,Villiam,631
+Alice,Villiam,631
+Herr Dam,Villiam,631
+Herr Dam,Villiam,631
+Villiam,stulde,631
+Alice,Villiam,632
+Alice,Laura,635
+Alice,Villiam,636
+Alice,Villiam,636
+Alice,Villiam,638
+Magnus,Villiam,640
+Alice,Magnus,640
+Alice,Villiam,640
+Magnus,Villiam,646
+Frida,Villiam,646
+Frida,Villiam,646
+Nanna,Villiam,652
+Albert Jul,Frida,657
+Chrislian,Frida,657
+Albert,Alice,661
+Albert,Alice,661
+Albert,Magnus,661
+Albert,Magnus,661
+Albert,Alice,662
+Albert,Alice,663
+Albert,Alice,663
+Albert,Alice,665
+Alice,Brysf,666
+Alice,Brysf,666
+Albert,Alice,666
+Albert,Alice,666
+Albert Jul,Nei,670
+Frida,Nanna,674
+Albert Jul,Magnus Dam,675
+Albert,Alice,688
+Magnus,Villiam,696
+Villiam,ester,702
+Dam,Herr Dam,719
+Herr Falz,Ivar,725
+Albert,Lise,731
+Albert,Magnus Dam,731
+Madam Smith,Roes,732
+Albert,Madam,733
+Frida,Madam Smith,735
+Frida,Nanna,735
+Albert Jul,Magnus,737
+Karl,Magnus,737
+Karl,Karlen,737
+Karlen,Magnus,737
+Magnus,Nanna,740
+,Magnus,740
+,Albert,740
+Frida,Nanna,744
+Frida,Nanna,745
+Albert Jul,Hnn,746
+Albert Jul,Alice,746
+Hnn,Nanna,748
+Albert Jul,Nanna,749
+Chrislian Bek,Jomfru,752
+Christian,Nanna,754
+Nanna,Palle,757
+Magnus,Nidding,767
+Magnus,Nanna,768
+Magnus,Nanna,771
+Albert Jul,Nanna,773
+Albert,Frida,775
+Ivan,Villiam Falz,778
+Dam,Villiam Falz,778
+,Magnus,793
+,Nanna,793
+Nanna,Villiam,793
+Grev Æhrenskjolds,Magnus,795
+Magnus,Villiam,797
+LEHrenskjold,Magnus,797
+Magnus,Villiam,800
+,Magnus,805
+Magnus,Villiam,806
+Grev Æhrenskjold,Magnus,806
+Magnus,frods,817
+Jerome,Steensliber,819
+Jerome,Magnus høit,819
+Jerome,Magnns,822
+Magnns,Steensliberen,823
+Albert Jul,Nanna,833
+Alice,Nanna,833
+Alice,Nanna,833
+Alice,Nanna,833
+Albert,Alice,835
+Alice,Nanna,835
+Alice,Nanna,837
+Albert,Frida,840
+Frida,Nanna,840
+Frida,Nanna,840
+Albert Jul,Nanna,841
+Albert Jul,hans Nanna,841
+Nanna fluide,hans Nanna,841
+Albert,Nanna,844
+Frida,Nanna,846
+Albert,Nanna,847
+Frida,slrax,848
+Albert,Nanna,849
+Frida,Gud,850
+Albert,Frida,851
+Albert,Nanna,853
+Christian,Frida,854
+Frida,Nanna,858
+Frida,Nanna,861
+Frida,Nanna Smith,862
+Albert,Ivan,865
+Alice,Nanna,879
+Albert,Nanna,887
+Albert,Alice,887
+Alice,Nanna,887
+Gud,Nanna,890
+Frida,Nanna,899
+Frida,Nanna,902
+Dam,Gud sfe,904
+Herr Dam,Nanna,911
+Nanna,Nanna Smith,915
+Alice,Alice Dam,924
+Alice,Mathiesen,924
+Mathiesen,Villiam Falz,924
+Laura,Villiam Falz,927
+Laura,elffe,927
+Alice,Villiam,931
+Christian,Villiam,931
+Christian,Frida,931
+Alice Angelika Dam,Villiam Falz,938
+Alice Dam,Villiam Falz,941
+Herr Falz,Villiam,942
+Magnus,Villiam,943
+Ivan,Villiam,948
+Alice,Villiam,948
+Herr Gøtze,Villiam Falz,951
+Alice,Ivan,954
+Alice,Valsen,954
+Valsen,ban,954
+Alice,Villiam,956
+Alice,Ivan,956
+Alice,Villiam,957
+Ivan,Villiam,959
+Alice,Villiam,961
+Alice,Villiam,961
+Albert,Alice,971
+Albert,Nanna,982
+Nanna,Søster,985
+Albert,hnn,1001
+Albert,Herr Juel,1003
+Albert,Villiam,1007
+Juel,Villiam,1011
+Albert,Villiam,1013
+Alice,Villiam,1013
+Lorden,Villiam haanlig,1014
+Albert,Villiam haanlig,1014
+Alice,Nanna,1016
+Alice,Nanna,1016
+Albert,Alice,1017
+Alice,Villiam,1018
+Alice,Villiam,1019
+Alice,Villiam,1020
+Alice,Villiam,1021
+Alice,Villiam,1021
+Albert,Alice,1021
+Alice,Villiam,1022
+Alice,Villiam,1025
+Albert,Alice,1025
+Albert,Villiam,1025
+Alice,Villiam,1028
+Alice,Nanna,1029
+Albert,Alice,1030
+Alice,Villiam,1031
+Hnn,Villiam,1042
+Alice,Villiam,1051
+Ivan,ester,1062
+Alice,Gud,1070
+Julie,Romeo,1075
+Alice,Richardt,1078
+Richardt,Villiam,1082
+Alice,Villiam,1084
+Alice,Villiam,1088
+Karlen,Villiam,1092
+Alice,Villiam,1097
+Alice,Ivan,1097
+Ivan,Mutter,1098
+Madam Kloss,Rigolette,1117
+Madam Kloss,Rigolette,1118
+Jokumsens,Madam Kloss,1123
+Jokumsen,Madam Kloss,1125
+Herr Jokumsens,Madam Kloss,1128
+Herr Jokumsens,Rigolette,1128
+Herr Jokumsen,Rigolette,1135
+Jokumsen,Rigolette,1141
+Rigolette,Spyrgsmaal,1141
+Jokumsen,Rigolette,1146
+Rigolette,Romeo elfler,1149
+Julie,Romeo elfler,1149
+Axel sin Valborg,Julie,1149
+Axel sin Valborg,Rigolette,1149
+Jokumsen,Rigolette,1152
+Jokumsen,sra Herr Dam,1153
+Jokumsen,Rigolette,1156
+Herr Dam,Herr Jansen,1164
+Jansen,Konrad,1168
+ester,Æhrenskjold,1170
+Søderborg,Æhrenskjold,1170
+Søderborg,ester Grossererens,1170
+dg,ester Grossererens,1170
+Grev ÆhrenKjold,Jean,1173
+Heinrich ÆhrenKjold,Æhrenskjold,1176
+Grev Æhrenskjold,Jean Baptifte,1185
+Amanda,Heinrich Æhrensljold,1198
+Amanda,Moses,1199
+Jean,u NorZue,1201
+Ludvig Dam,Ludvig Smith,1202
+Frida Smith,Ludvig Smith,1202
+Amanda,Elsfer,1203
+Elsfer,Greve,1203
+Mairen,jæg,1204
+Mairen,jæg,1204
+jæg,tillivs,1209
+jæg,tillivs,1209
+Amanda,jæg,1209
+Amanda,Dam,1209
+Nanna knnde,elsiede,1211
+Frida,Nanna,1212
+Frida,Nanna,1212
+Frida,Nanna,1212
+Frida,Nanna,1215
+Albert,Nanna,1224
+Alice,Villiam,1228
+Ivan,Seir,1232
+Alice,Ivan,1237
+Alice,Johan,1240
+Albert Jul,Alice,1240
+Ivan,Ivan Alice,1246
+Albert,Alice,1247
+Albert,Alice,1247
+Alice,Nanna,1247
+Alice,Nanna,1249
+Alice,Nanna,1252
+Alice,Ivan,1253
+Ivan,Johan,1254
+Frida,Ivan,1254
+Albert Jul,Frida,1256
+Alice,Frida,1258
+Frida,Nanna,1258
+Alice,Nanna,1265
+Frida,Nanna,1267
+Graad,Nanna,1271
+Alice,Nanna,1287
+Gud,Nanna,1300
+Alice,Nanna,1305
+Alice,Ivan,1305
+Albert,Ivan,1307
+Albert ftil,Ivan,1310
+Albert ftil,Nanna,1310
+Ivan,Nanna,1310
+Albert,Ivan,1310
+Albert,Alice,1310
+Albert,Nanna,1311
+Albert,Frida,1311
+Haabets-,Nanna,1317
+Christian,Nanna,1318
+Frida,Knud,1332
+Frida,Nanna,1332
+Knud,Nanna,1332
+Frida,Knud,1339
+Frida,Knud,1340
+Alice,Villiam,1345
+Alice,Villiam,1347
+Alice,Villiam,1347
+Frida,Niels Jensen,1361
+Albert Juel,Villiam,1365
+Albert,Nanna,1368
+Nanna,Villiam,1368
+Alice,Villiam,1368
+Alice,Nanna,1369
+Alice,Nanna,1371
+Albert,Niels Jensen,1378
+Christian,Palle,1384
+Frida,Palle,1386
+Christian,Frida,1387
+Magnus,gry,1396
+Christian,Magnus,1401
+Palle Baadsmand,harr,1403
+Christian,harr,1403
+Palle,dc,1404
+Magnus,Palle,1405
+Christian Bek,Palle,1406
+Christian,Palle,1406
+Christian,Magnus,1406
+Christian,Magnus,1409
+Magnus,Villiam,1412
+Dam,Villiam Falz,1413
+Christian,Villiam Falz,1414
+Gud,Palle,1416
+Gud,Magnus,1416
+Jomfru Smith,Nanna,1427
+Hillemæn,Jomfru Smith,1430
+Frida,Herr Kemf,1441
+Herr Kemf,Nanna,1444
+Frida,Nanna,1449
+Frida,Madam Smith,1451
+Frida,Knud,1455
+Christian Troskab,Knud,1455
+Frida,Knud,1457
+Christian,Knud,1458
+Mads,lille Nanna,1469
+Frida,Nanna,1473
+Gud,Moder,1475
+Frida,Nanna,1478
+ban,næsfen,1483
+Mustafas,Nanna,1490
+Albert Jul,Alice,1505
+Albert,Nanna,1506
+Albert,offre,1508
+Albert,Nanna,1509
+Albert,Elsfovens,1509
+Amanda,Æhrenfljold,1513
+Amanda,Been,1519
+Amanda,Moses,1520
+Frida Smith,Moses,1521
+Moses,son,1523
+Dam,Moses,1532
+Amanda,Moses,1532
+Amanda,Moses,1532
+Smith,grant,1537
+Jonas,Smith,1537
+Dam,Jonas,1537
+Dam,Moses,1538
+Frida Smith,Moses,1539
+Frida Smith,Moses,1539
+Dam,Moses,1540
+Neptun,Palle,1543
+Anker,Palle,1546
+Palle,def,1547
+Christian,Christian Bek,1548
+Christian,Hagen,1548
+Bertha,Hagen,1548
+Bertha,Frida,1548
+Frida,Palle,1548
+Christian,Palle,1548
+Chrislian,Christian,1549
+Chrislian,kjær,1549
+Herr Kemf,Nanna,1556
+Frida,Herr Kemf,1560
+Frida,Herr Kemf,1566
+Christian,Frida,1570
+Christian,Frida,1571
+Christian,Villiam,1574
+Christian,Palle,1576
+Christian,Palle,1578
+Frida,Knud Benkzen,1584
+Dandsen,Knud,1595
+Laura,Peer,1601
+Knud,dir,1604
+Niels Jensen,henhe,1605
+Laura,henhe,1605
+Nanna,Steen,1608
+Frida,Nanna,1608
+Frida,Knud,1608
+Frida,Nanna,1615
+Knud,Vxen,1620
+Jkle,Knud,1628
+Knud,Lce,1628
+Nanna,er Bentsen,1632
+Mustafas,Nanna,1632
+Knud,Nanna,1633
+Knud,Nanna,1635
+Nanna,Øie,1635
+Frida,Øie,1635
+Chrisfian,Frida,1638
+Chrisfian,Palle,1638
+Frida,Knud,1640
+Frida,Knud,1643
+Frida Smith,Madonna,1644
+Jomfru Smith,Knud,1647
+Knud,Moses,1649
+Knud,Moses,1651
+Knud,Nanna forrest,1652
+Knud,Moses,1652
+Moses,endel,1652
+Arbeiderens,endel,1652
+Arbeiderens,Moses,1652
+Dam,Knud,1659
+Knud,Moses,1659
+Moses,Nanna,1659
+Knud,Moses,1660
+Moses,Søderborg,1662
+Adam,Moses,1667
+Frida Smith,Ib,1668
+Frida Smith,Moses,1669
+Ib,Moses,1671
+Moses,Nanna,1671
+Madam Bentsen,Nanna,1671
+Madam Bentsen,Vartov,1671
+Albert Jul,Madam Svendsen,1672
+Albert Jul,Gud,1672
+Alice,Nanna,1677
+Albert,Alice,1677
+Alice,Ivan,1678
+Gud,Nanna,1692
+Gud,Nanna,1697

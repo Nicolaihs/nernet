@@ -1,0 +1,124 @@
+source,target,type,weight
+Antonius,Peter,Undirected,49
+Peter,Stark,Undirected,4
+Møller,zAntonius,Undirected,1
+Lille Friis,Peter,Undirected,3
+Jespersen,Stark,Undirected,1
+Antonius,Mormoders,Undirected,1
+Peter,Petersen,Undirected,1
+.Friis,Lille Friis,Undirected,1
+Friis,Peter,Undirected,8
+Antonius,Friis,Undirected,36
+Friis,s,Undirected,7
+Peter,s,Undirected,1
+Balslevs,Peter,Undirected,1
+Peter,Viggo Schmits,Undirected,2
+Hr. Iversen,Peter,Undirected,2
+Antonius,Martin Knob,Undirected,1
+Martin Knob,Mormoder,Undirected,1
+Antonius,Mormoder,Undirected,3
+Antonius,lille Friis,Undirected,4
+Antonius,Fioribella,Undirected,1
+Fioribella,Peter,Undirected,1
+Ar'tonius,Peter,Undirected,1
+Antonius,Stark,Undirected,1
+Antonius,Petersen,Undirected,1
+Antonius,Laurids Bruun,Undirected,12
+Peter,lille Antonius,Undirected,1
+Antonius,lange,Undirected,1
+Antonius,Lille Friis,Undirected,3
+Grønthandler Jespersens,Josefine Ulrika,Undirected,1
+Grønthandler Jespersens,Rikke,Undirected,1
+Peter Stark,Rikke,Undirected,1
+Antonius,Peter Stark,Undirected,1
+Maren,Peter,Undirected,1
+A.ntonius,Peter,Undirected,1
+Antonius,Kaptejn Stark,Undirected,2
+Antonius,Kragballe,Undirected,2
+Antonius,Kaptejnen,Undirected,1
+Antonius,Franz Moors,Undirected,1
+Antonius,Maren,Undirected,4
+Friis,Gud,Undirected,4
+Antonius,F'ru Stark,Undirected,1
+Antonius,Assessor Larsens,Undirected,2
+Friis,Mormoder,Undirected,1
+Friis,Stingbergs,Undirected,1
+Gud,Peter,Undirected,2
+Peter,lille Friis,Undirected,7
+Peter,Yrsa,Undirected,1
+Frøken F'anny,Lille Peter,Undirected,1
+Friis,Frøken F'anny,Undirected,1
+F'amilje,Friis,Undirected,1
+Friis,lille Friis,Undirected,3
+Mormoder,Peter,Undirected,1
+Fanny,Peter,Undirected,12
+Fanny,lille Friis,Undirected,2
+Fanny,Friis,Undirected,6
+Antonius,s,Undirected,4
+Antonius,Fanny,Undirected,16
+Antonius,Søren Kierkegaards,Undirected,2
+F anny,s,Undirected,1
+Antonius,F anny,Undirected,1
+Antonius,Finis,Undirected,1
+Fanny,Lille Friis,Undirected,1
+Magen,Peter,Undirected,2
+Josefine Ulrika,Peter,Undirected,7
+Hr. Jespersen,Peter,Undirected,1
+Hr. Jespersen,Jespersen,Undirected,1
+Fanny,Josefine Ulrika,Undirected,1
+Fanny,Josefine,Undirected,1
+Josefine,Peter,Undirected,3
+Jespersen,Peter,Undirected,1
+Jespersen,Laurids Bruun,Undirected,1
+Peter,Peter Stark,Undirected,1
+Josefine Ulrika Jespersen,Peter Stark,Undirected,1
+Josefine Ulrika Jespersen,Peter,Undirected,1
+Friis,Josefine Ulrika,Undirected,1
+Friis,Stingberg,Undirected,2
+Stark,Stingberg,Undirected,1
+Antonius,Christian den,Undirected,1
+Christian den,P'emtes,Undirected,1
+Antonette Barbara Josefine Urika,Peter,Undirected,2
+Antonius,Frøken Mikkelsens,Undirected,2
+Frk. Holm,Hr. Starks,Undirected,1
+Frk. Holm,Frk. Mikkelsen,Undirected,3
+Frk. Holm,Gud,Undirected,2
+Andersen,Frøken Holm,Undirected,1
+Andersen,Frk. Mikkelsen,Undirected,1
+Frk. Holm,Hr. Stark,Undirected,2
+Antonius,Frk. Holm,Undirected,2
+Antonius,theologiae Ludvigsen,Undirected,1
+Lund,Thomsen,Undirected,1
+Antonius,Thomsen,Undirected,1
+Antonius,Skraa,Undirected,1
+Antonius,Lund,Undirected,1
+Antonius,Ludvigsens,Undirected,1
+Ludvigsens,P'ortov,Undirected,1
+Antonius,Sine,Undirected,1
+Friis,Helene Friis,Undirected,1
+Antonius,Helene Friis,Undirected,1
+Line,lille Friis,Undirected,1
+Dumo o,Friis,Undirected,1
+Dumo o,Laurids Bruun,Undirected,1
+Bekj,Friis,Undirected,1
+Friis,Line,Undirected,4
+Gud,Line,Undirected,1
+Madam Larsen,s,Undirected,1
+Friis,Madam Larsen,Undirected,3
+Friis,lille Antonius,Undirected,2
+Antonius,Josefine,Undirected,3
+Hyltoft,Peter Stark,Undirected,2
+Peter,hinde,Undirected,2
+Hyltoft,Peter,Undirected,1
+Ami,Line,Undirected,1
+Ami,Friis,Undirected,1
+Ami,Antonius,Undirected,1
+Antonius,Josefine Ulrika,Undirected,2
+Laurids Bruun,Peter,Undirected,1
+Antonius,Hyltoft,Undirected,4
+Stark,Søren Udby Magelse,Undirected,1
+Peter,Søren Udby Magelse,Undirected,1
+Stark,Søren Udby,Undirected,1
+Peter Stark,Søren Udby,Undirected,1
+Antonius Friis,Friis,Undirected,1
+Antonius Friis,Hyltoft,Undirected,1

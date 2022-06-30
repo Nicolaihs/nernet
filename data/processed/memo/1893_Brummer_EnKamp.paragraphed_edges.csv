@@ -1,0 +1,88 @@
+source,target,type,weight
+Aksel,Hermans,Undirected,1
+Aksel,Fader,Undirected,1
+Clara,Frits,Undirected,1
+Aksel,Jomfru Hansen,Undirected,1
+Herre Gud,Krokonen,Undirected,1
+Kristine,Mo,Undirected,1
+Clara Høgh,Komtesse,Undirected,1
+Clara Høgh,Grandmama,Undirected,1
+Selters,Svend Clausen,Undirected,1
+Aksel,Anna,Undirected,2
+Aksel,Mo,Undirected,1
+Aksel,Clara,Undirected,40
+Clara,Gud,Undirected,2
+Grandmama,Gud,Undirected,2
+Komtessen,Mo,Undirected,1
+Aksel,Hans,Undirected,1
+Grevinden,Hans,Undirected,1
+Hans,Jomfru Jensen,Undirected,3
+Hans,Jensen,Undirected,2
+Jensen,elman,Undirected,1
+Clara,Jomfru Jensen,Undirected,3
+Clara,Jensen,Undirected,2
+Grevinden,Jensen,Undirected,1
+Clara,Grandmama,Undirected,6
+Clara,Graad,Undirected,1
+Clara,Hans,Undirected,4
+Clara,Grevinden,Undirected,1
+Aksel,Grandmama,Undirected,2
+Bekker,Grandmama,Undirected,1
+Bekker,von Bekker,Undirected,1
+Axel,von Bekker,Undirected,1
+Bekker,Komtesse Høgh,Undirected,1
+Axel,Grandmama,Undirected,1
+Aksel,Krag,Undirected,2
+Clara,Pax,Undirected,1
+Rudolf,Sofus,Undirected,2
+Henrik,Rudolf,Undirected,7
+Henrik,Sine,Undirected,1
+Hans,Sine,Undirected,1
+Gud,Hans,Undirected,1
+Jomfru Jensen,Sine,Undirected,1
+Hans,Henrik,Undirected,1
+Henrik,Sofus,Undirected,4
+Henrik,Rudolf —,Undirected,1
+Hedvig,Rudolf —,Undirected,1
+Adelgunde,Clara,Undirected,1
+Clara,Hedvig,Undirected,3
+Gud,Rudolf,Undirected,2
+Clara,Rudolf,Undirected,3
+Hedvig,Rudolf,Undirected,3
+Hedvig,Kvists,Undirected,1
+Kvists,Sofus,Undirected,1
+Clara,Henrik,Undirected,2
+Adelgunde,Hedvig,Undirected,1
+Madam Møller,Tante Amalie,Undirected,1
+Clara,Tante Amalie,Undirected,1
+Hedvig,von Hahn,Undirected,1
+Clara,von Hahn,Undirected,1
+Aksel,Baronesse Hedvig,Undirected,1
+Aksel,Rudolf,Undirected,3
+Aksel,Clara Hogh,Undirected,1
+Henrik saa,Rudolf,Undirected,1
+Adelgunde,Henrik,Undirected,1
+Clara,Raaholdte,Undirected,1
+Clara,Tante Hedvig,Undirected,1
+Sofus,lille Adelgunde,Undirected,1
+Clara,Fader,Undirected,1
+Aksel,Elysiums,Undirected,2
+Aksel,Elysium,Undirected,1
+Aksel,Lecteur,Undirected,1
+Clara,Lecteur,Undirected,1
+Aksel,Fadeter,Undirected,1
+Gud,Moders,Undirected,1
+Aksel,Moder,Undirected,1
+Kristine,Ludvigsens,Undirected,1
+Aksel,Henrik krøben,Undirected,1
+Clara,Dat,Undirected,1
+Aksel,Dat,Undirected,1
+Clara,Mo,Undirected,1
+Clara,Madam Jensen,Undirected,1
+Aksel,Lille Clara,Undirected,1
+Clara,Clausen,Undirected,1
+Aksel,Clausen,Undirected,3
+Clara,Moder,Undirected,1
+Jens Nielsen,Karl,Undirected,1
+Clausen,Philipsen,Undirected,1
+Aksel,Pavsen,Undirected,1

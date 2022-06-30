@@ -1,0 +1,241 @@
+source,target,type,weight
+Bangs,Gimle,Undirected,1
+Bangs,Kong Leopold,Undirected,1
+Kong Leopold,Magnats,Undirected,1
+Katharina von Boras,Magnats,Undirected,1
+Katharina von Boras,Luther,Undirected,1
+Kristian den,Luther,Undirected,1
+Aage Bang,Kristian den,Undirected,1
+Aage Bang,Bjørn,Undirected,1
+Bang,Bjørn,Undirected,1
+Mama,Onkel Ejnar,Undirected,1
+Hjørdis,Mama,Undirected,5
+Hjørdis,Stakkars,Undirected,1
+Egil,Hjørdis,Undirected,18
+Bang,Hjørdis,Undirected,6
+Egil,Mama,Undirected,3
+Gimle,Olsen,Undirected,1
+Hjørdis,Olsen,Undirected,1
+Hjørdis,Jomfru Olsen,Undirected,4
+Jomfru Olsen,grændseløs,Undirected,1
+Hjørdis,sorn,Undirected,1
+Hjørdis,John Finson,Undirected,1
+John Finson,Tellefsen,Undirected,1
+Engels,Tellefsen,Undirected,1
+Engels,Hjørdis,Undirected,1
+Jomfru Olsen,Ponny,Undirected,1
+Albert,Hjørdis,Undirected,1
+Albert,tretti,Undirected,1
+Hjørdis,tretti,Undirected,1
+Jomfru Olsen,Mama,Undirected,1
+Bohave,Hjørdis,Undirected,1
+Hjørdis,Stanley,Undirected,1
+Muhameds,Stanley,Undirected,1
+Egil,Gimle,Undirected,4
+Hans Egholm,Torsten Vik,Undirected,1
+Finne,Svend Finne,Undirected,1
+Finne,Hjørdis,Undirected,1
+Hjørdis,Sofus Torkilsen,Undirected,1
+Hjørdis,Michael Wendel,Undirected,2
+Egil,Michael Wendel,Undirected,2
+Mø,Wendel,Undirected,1
+Meldahl,Sande,Undirected,1
+Egil,Hans Egholm,Undirected,1
+Hans Egholm,Wendel,Undirected,1
+Torkilsens,Wendel,Undirected,1
+Torkilsens,Vik,Undirected,1
+Egil,Vik,Undirected,9
+Egil,Meldahl,Undirected,1
+Bang,Meldahl,Undirected,1
+Mama,Wandel,Undirected,1
+Mama,Selmer,Undirected,1
+Fogdens,Selmer,Undirected,1
+Sande,Selmer,Undirected,1
+Mama,Papa,Undirected,2
+Hjørdis,Rosendahl,Undirected,8
+Frøken Rosendahl,Hjørdis,Undirected,1
+Egil,Laura,Undirected,44
+Hans Egholm,Hjørdis,Undirected,1
+Hans Eghoim,Torkilsen,Undirected,1
+Hjørdis,Meldahl,Undirected,10
+Kristi,svarte Torkilsen,Undirected,1
+Kristus,Platons,Undirected,1
+Rubinstein,Wagner,Undirected,1
+Egil,Torsten Vik,Undirected,8
+Laura,Torsten Vik,Undirected,7
+Gimle,Laura,Undirected,3
+Gimle,Hjørdis,Undirected,4
+Hjørdis,Torsten Vik,Undirected,5
+Gutten,Lille Sverre,Undirected,1
+Adolf,Sverre,Undirected,6
+Hjørdis,Sverre,Undirected,39
+Hjørdis,Sande,Undirected,1
+Sande,Sverre,Undirected,2
+Fanny,Sverre,Undirected,1
+Rosendahl,Sverre,Undirected,1
+Gimle,Rosendahl,Undirected,1
+Mel-dahls,Sverre,Undirected,1
+Anna,Hjørdis,Undirected,11
+Meldahl,Peter,Undirected,1
+Stedmors,Sverre,Undirected,2
+Bang,Sverre,Undirected,6
+Anna,Papa,Undirected,1
+Egil,Sverre,Undirected,15
+Gimle,Sande,Undirected,1
+Egil,Rosendahl,Undirected,3
+Egil,Kaptejn Rosendahls,Undirected,1
+Fogdens,Hjørdis,Undirected,1
+Hjørdis,Mel-dahl,Undirected,1
+Hjørdis,Kaptejn Rosendahl,Undirected,2
+Frøken Laura,Mama,Undirected,1
+Hjørdis,paany,Undirected,4
+Laura,paany,Undirected,2
+Hjørdis,Uhrkjæde,Undirected,1
+Fogdens,Kaptejn Rosendahl,Undirected,1
+Frederik,Gutten,Undirected,1
+Frederik,Laura,Undirected,4
+Bang,Gimle,Undirected,1
+Laura,Vik,Undirected,10
+Egil,Selmer,Undirected,2
+Frederik Rosendahl,Hjørdis,Undirected,1
+Alma,Rosendahl,Undirected,2
+Eremiten,Gud,Undirected,1
+Gud,Hjørdis,Undirected,2
+Moses,Sverre,Undirected,1
+Hjørdis,Kristus,Undirected,4
+Egholms,Sverre,Undirected,1
+Egholms,Hjørdis,Undirected,1
+Alma,Hjørdis,Undirected,11
+Alma,Ifgil,Undirected,1
+Ifgil,Laura,Undirected,1
+Bang,Frederik,Undirected,1
+Bang,Laura,Undirected,2
+Egil,Fruen,Undirected,1
+Frøken Rosendahl,Selmer,Undirected,1
+Egil,Fogdens,Undirected,1
+Fogdens,Laura,Undirected,1
+Rosendahl,Sverre Meldahl,Undirected,1
+Rosendahl,Vik,Undirected,1
+.Torsten Viks,Hjørdis,Undirected,1
+.Torsten Viks,Mel-dahis,Undirected,1
+Hjørdis,Mel-dahis,Undirected,1
+Hjørdis,Oxens,Undirected,2
+Apis,Hjørdis,Undirected,1
+Apis,Mama,Undirected,1
+Anna,Skomager Aanaas,Undirected,1
+Anna,Sverre,Undirected,4
+Anna,Egil,Undirected,2
+Egil,Laura Rosendahl,Undirected,1
+Kristi,Sverre,Undirected,1
+Anna,Laura,Undirected,1
+Laura,Rosendahl,Undirected,1
+Egil Bang,Laura,Undirected,2
+Anna,Wang,Undirected,1
+Gud,Mama,Undirected,1
+Gud,lille Hjørdis,Undirected,1
+Gud,Kristus,Undirected,5
+Kristus,Marcus Aurel,Undirected,1
+Marcus Aurel,Seneca,Undirected,1
+Kristi,Seneca,Undirected,1
+Kristus,Mama,Undirected,1
+Alma,Laura,Undirected,12
+Anna,Meldahl,Undirected,3
+Meldahl,paany,Undirected,1
+Anna,Wandel,Undirected,1
+Meldahl,Wandel,Undirected,1
+Hjørdis,s,Undirected,1
+Anna,s,Undirected,1
+Meldahl,Sverre,Undirected,1
+Sverre,Sølje,Undirected,1
+Sølje,mi,Undirected,1
+Sverre,mi,Undirected,1
+Svend,Sverre,Undirected,1
+Egil,Egil Bang,Undirected,1
+Bang,Egil,Undirected,3
+Egil,Kaptejn Rosendahl,Undirected,1
+Alma,Kaptejn Rosendahl,Undirected,1
+Alma,Bang,Undirected,1
+Bang,Rosendahl,Undirected,1
+Hjørdis,Laura,Undirected,13
+Laura,Meldahl,Undirected,1
+Egil,paany,Undirected,1
+Laura,Sverre,Undirected,5
+Bang,Chopins,Undirected,1
+Carmens,Chopins,Undirected,1
+Carmens,Hjørdis,Undirected,1
+Elisabeth,Wagner,Undirected,1
+Elisabeth,Hjørdis,Undirected,1
+Anna,Bang,Undirected,1
+Anna,Frøken Bang,Undirected,1
+Gud,Sverre,Undirected,2
+Egil Bang,Rosendahl,Undirected,1
+Egil,hatas,Undirected,1
+Aagerkarle,Egil,Undirected,1
+Alma,Egil,Undirected,2
+Alma,Frederik,Undirected,1
+Egil,Sverre Meldahl,Undirected,3
+Hjørdis,Sverre Meldahl,Undirected,1
+Fogdens,Sverre,Undirected,1
+Fogdens,Rotor,Undirected,1
+Bang,Lapse,Undirected,1
+Oskar Vik,Wikstrøm,Undirected,1
+Vik,Wikstrøm,Undirected,1
+Frøken Wikstrøm,Vik,Undirected,2
+Torsten Vik,Vik,Undirected,1
+Exekutor,Vik,Undirected,1
+Exekutor,Torsten,Undirected,1
+Laura,Torsten,Undirected,1
+Egil Bang,paany,Undirected,1
+Alma,Alma Rosendahl,Undirected,1
+Egil,Torsten,Undirected,3
+Alma,Sverre,Undirected,1
+Egil,Frøken Rosendahl,Undirected,1
+Alma,Frederik leende,Undirected,1
+Edward Whits,Hjørdis,Undirected,1
+Hjørdis,Isommer,Undirected,1
+Gimle,Meldahl,Undirected,1
+Paulus,Sverre taug,Undirected,1
+Kristus,Paulus,Undirected,1
+Kristus,Sverre,Undirected,2
+Hjørdis Bang,S. Meldahl,Undirected,1
+Askepot,Hjørdis,Undirected,1
+Askepot,Sverre,Undirected,1
+Gutten,Sverre,Undirected,1
+Gud,Jesus,Undirected,1
+Bang,Magnats,Undirected,1
+Magnats,paany,Undirected,1
+Sverre,sorn,Undirected,1
+Johannes,Sverre,Undirected,1
+Gud,Michel Angelos,Undirected,1
+Abraham,Isak,Undirected,1
+Isak,Jakob,Undirected,1
+Gud,Jakob,Undirected,1
+Gud,Hossianna,Undirected,1
+Gud,Sejer,Undirected,1
+Marv,Torsten Vik,Undirected,1
+Egil,Marv,Undirected,1
+Bang,Torsten Vik,Undirected,2
+Hjørdis paany,Laura,Undirected,1
+Egil,Hjørdis paany,Undirected,1
+Bang,Kex,Undirected,1
+Egil,Tyrifakkel,Undirected,1
+Laura,hans,Undirected,1
+Laura,askegraa,Undirected,1
+Sverre,Vik,Undirected,1
+Egil,Gud,Undirected,1
+Egil,P.,Undirected,1
+E. Bang,Meldahl,Undirected,1
+Hjørsdis,Schous,Undirected,1
+Hjørsdis,Laura,Undirected,1
+Graad,paany,Undirected,1
+Egil Bang,Sverre,Undirected,2
+Dr. Schwartz,Egil Bang,Undirected,1
+Dr. Schwartz,Laura,Undirected,1
+Schwartz,Sverre,Undirected,1
+Laura,Schwartz,Undirected,1
+Egil,Schwartz,Undirected,1
+Hjørdis,Olje,Undirected,1
+Papa,Peter,Undirected,1
+Kristus,Papa,Undirected,1
+Egil,Sande,Undirected,1
+Hjørdis,Jairus,Undirected,1

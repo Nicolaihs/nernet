@@ -1,0 +1,413 @@
+source,target,type,weight
+Karl,hans Svend,Undirected,1
+Jomfru Lenes,Karl,Undirected,1
+Lenes,Praas,Undirected,1
+Lene,Lenes,Undirected,1
+Anna,Hr. Jocumsen,Undirected,1
+Anna,Lene,Undirected,14
+,Lene,Undirected,1
+Anna Lygten,Steen,Undirected,1
+Anna,Steen,Undirected,1
+Jocumsen,Lene,Undirected,20
+Anna,Jocumsen,Undirected,6
+Anna,lille Anna,Undirected,1
+Gud,Valdemar,Undirected,1
+Emilie,Gud,Undirected,3
+Valdemar,tröste,Undirected,1
+Christen Flæfledrager,Jens Nielsen,Undirected,1
+Christen Flæfledrager,Lars Gammelmand,Undirected,1
+Lars Gammelmand,Peter Muurbrækker,Undirected,1
+ester,hleve,Undirected,1
+Søren Jocumsen,uagJocumsens,Undirected,1
+Hansen,L ynd cg,Undirected,1
+Jocumsen,iland,Undirected,1
+Gud,Lene,Undirected,1
+Jecumsen,Lene,Undirected,1
+Jecumsen,Jokumsen,Undirected,1
+Jomfru Lene Røst,zirligen,Undirected,1
+Hr. Jocumsen,flog,Undirected,1
+Hr. Jccumsen,Lene,Undirected,1
+Gud,Hansen,Undirected,2
+Haabets,Lene,Undirected,1
+Hansen,Lene,Undirected,1
+A,Hansen,Undirected,1
+A,B.,Undirected,1
+Hansen,Tops,Undirected,1
+Tops,nn,Undirected,1
+Hansen,nn,Undirected,1
+Hansen,Vexler,Undirected,1
+Hansen,Jokumsen,Undirected,2
+Hansen,Uraad,Undirected,1
+Anna,Hansen,Undirected,1
+Bang,Hansen,Undirected,2
+Adolf Skov,Carl Bang,Undirected,1
+Adolf,Adolf Skov,Undirected,1
+Adolf,Carl,Undirected,8
+Carl,hanv,Undirected,1
+Hansen,ma,Undirected,1
+Emma,Gud,Undirected,8
+Carl,Emma,Undirected,11
+Anna,Gud,Undirected,5
+Anna,Carl,Undirected,1
+Anna,Ieg,Undirected,3
+Ieg,ester,Undirected,1
+Lille Anna,ester,Undirected,1
+Emma,lee,Undirected,2
+H.,lee,Undirected,1
+H.,le,Undirected,1
+Emma,le,Undirected,1
+Adolf,Gud,Undirected,8
+Bang,hm,Undirected,1
+Emma,hm,Undirected,1
+Hansen,Laura,Undirected,1
+Emma,Laura,Undirected,6
+asstaae sra,bersv,Undirected,1
+Gud,bersv,Undirected,1
+Adolf,Bang,Undirected,3
+Adolf,tans,Undirected,2
+Bang,Emma,Undirected,4
+Carl,Skou,Undirected,1
+Carl,lee,Undirected,1
+Hr. Skov,hiin,Undirected,1
+Carl,Gud,Undirected,1
+Augusfa,Bang,Undirected,1
+Adolf,Augusfa,Undirected,2
+Bang,Skou,Undirected,2
+Adolf,Emma,Undirected,12
+Augusta Skou,bendes,Undirected,1
+Augusta Skou,sif,Undirected,1
+Madam Skous,bun,Undirected,1
+Augusta,Gud,Undirected,2
+Augusla,Madam Skou,Undirected,1
+Anna,Augusta,Undirected,1
+Augusta,Madam Skon,Undirected,1
+Madam Skou,endeel Philisopher,Undirected,1
+Augusta,Madam Skou,Undirected,3
+Augusta Læseren,Carl Bang,Undirected,1
+Augusta,Carl Bang,Undirected,1
+Augusta,Thompson,Undirected,7
+Carl Bang,Emma,Undirected,1
+Madam Skov,Thompson,Undirected,1
+Adolf,Thompson,Undirected,11
+Adolf,ester,Undirected,1
+Thompson,ester,Undirected,1
+Consul Blok,Grosserer Bloks,Undirected,1
+Grosserer Bloks,Gud,Undirected,1
+Gud,Skou,Undirected,1
+Gud,Madam Skou,Undirected,1
+Emilie,Valdemar,Undirected,1
+Madam Skou,Thompson,Undirected,1
+AugustaS,Thompson,Undirected,1
+Madam Skon,Thompson,Undirected,1
+Gud,Thompson,Undirected,1
+Thompson,hiin,Undirected,1
+Augusta,TamysonS,Undirected,1
+Emma,Top,Undirected,3
+Adof,Hansen,Undirected,1
+Adolf,ilk,Undirected,1
+Adolf,fig,Undirected,1
+Adolf ssgte,Anna,Undirected,1
+Adolf,SkouS,Undirected,1
+oz,oz Adolf m,Undirected,1
+Adolf,Top,Undirected,1
+Adolf,faug,Undirected,1
+Madam SkouS,Thompson,Undirected,1
+Augusta,Madam SkouS,Undirected,1
+Adolf,Kapitains,Undirected,1
+Jomfru Skon,Thompson,Undirected,1
+Augusfa,Thompson,Undirected,2
+Augusta Skou,Hr. Thompson,Undirected,1
+Adolf,AugustaS,Undirected,1
+Skou,Thompson,Undirected,1
+Adolf,Kaptain Thompson,Undirected,1
+Augustus,Thompson,Undirected,2
+Adolf,Augusta,Undirected,3
+bavde,fig,Undirected,1
+Thompson,bavde,Undirected,1
+Thompson,sorud,Undirected,1
+Emma,sorud,Undirected,1
+Adolf Skou,Thompson,Undirected,1
+Adolf,ThompsonS,Undirected,1
+Thompson,ThompsonS,Undirected,1
+Adolf,Anna,Undirected,1
+Emma,d,Undirected,1
+Adolf,Hr. Tops,Undirected,1
+Adolf,Adolf Skou,Undirected,2
+Adolf Skou,Laura,Undirected,1
+Adolf,Laura,Undirected,2
+Juliane,Thorvald,Undirected,1
+Emma,Hr. Top,Undirected,3
+Adolf Skon,Asten,Undirected,1
+Emma,tans,Undirected,1
+Gud,tans,Undirected,1
+Emma,Hansen,Undirected,2
+Emma,Lene,Undirected,2
+Augusta,Bang,Undirected,3
+Adolf Skov,ester,Undirected,1
+Adolf Skov,Bang,Undirected,1
+Adolf,Carl Bang,Undirected,1
+Bang,Carl,Undirected,2
+Adolf,taug,Undirected,1
+Adolf „,Kaptain Poulsen,Undirected,1
+Kaptain Poulsen,Kaptain Thompson,Undirected,1
+Augusta,Carl,Undirected,2
+Carl,tans,Undirected,1
+Thompson,tans,Undirected,1
+Freias,Gud,Undirected,1
+Carl,Thorvald,Undirected,2
+Bang,Thompson,Undirected,2
+Adolf,devs,Undirected,1
+Hr. Skous,devs,Undirected,1
+Hr. Skous,Thompson,Undirected,1
+Franks,Thompson,Undirected,1
+Hansen,Søren Vintyv,Undirected,1
+Nemesis,Valdemar Skou,Undirected,1
+Carl,Thompson,Undirected,1
+Thorvald,Thorvald Bang,Undirected,1
+Bloch,Hansen,Undirected,1
+Bang,Mr. Skou,Undirected,1
+Hansen,Mr. Skou,Undirected,1
+Hansen,Skou,Undirected,1
+Jomfru Krog,Vilhelm,Undirected,11
+Bertha,Jomfru Krog,Undirected,12
+Bertha,Olga,Undirected,4
+Olga,Vilhelm,Undirected,17
+Jomfru Krog,Krog,Undirected,2
+Bertha,Krog,Undirected,5
+Bertha,itale,Undirected,1
+Bertha,tans,Undirected,1
+Olga,tans,Undirected,1
+Bertha,Vilhelm,Undirected,26
+Bertha,Jesus,Undirected,1
+Bertha,fjeg,Undirected,1
+Jomfru Krog,Olga,Undirected,3
+Bøgh,Krog,Undirected,1
+Genie,Gud,Undirected,1
+Gud,hamHan,Undirected,1
+Lille Olga,Vilhelm,Undirected,1
+Vilhelm,teleie,Undirected,1
+No,Vilhelm,Undirected,1
+Gud,Krog,Undirected,2
+Jomfru Krog,lille Olga,Undirected,1
+C h ar le s,Otto,Undirected,1
+Cuur,Fanny,Undirected,2
+Charles,Fanny,Undirected,6
+Fanny,Otto „,Undirected,1
+Otto taug,har,Undirected,1
+Otto,Øine,Undirected,1
+Otto,Sabine Poulsen,Undirected,1
+Degnens,Otto,Undirected,1
+Degnens,Gud,Undirected,1
+Charles,Otto,Undirected,6
+Charles,Sneider,Undirected,1
+Otto,Vilhelm,Undirected,8
+Otto,taus,Undirected,1
+Otto Sneider,Vilhelm,Undirected,1
+Bertha,Otto,Undirected,36
+Otto,Tiger,Undirected,1
+Tiger,Vilhelm,Undirected,3
+Gud,Otto,Undirected,8
+Bertha Vestberg,Gud,Undirected,1
+Mona,Petrea,Undirected,1
+Otto Smider,Petrea,Undirected,1
+Hjort,Jomfru Krog,Undirected,1
+Hjort,Otto,Undirected,1
+Jomfru Krog,Otto,Undirected,6
+Bertha Veftberg,Otto strax,Undirected,1
+Fanny,Jomfru Krog,Undirected,7
+Charles Sneider,Fanny,Undirected,1
+Olga,Tiger,Undirected,1
+Petrea,PetreaS,Undirected,1
+BerthaS,Jomfru Krog,Undirected,3
+ester,lom mate,Undirected,1
+Vilhelm,ester,Undirected,4
+Fanny,Otto,Undirected,13
+Bertha,Fanny,Undirected,4
+Otto,m,Undirected,1
+Stev,m,Undirected,1
+-ejønor,Stev,Undirected,1
+-ejønor,Otto,Undirected,1
+Otto,alfor,Undirected,1
+Bertha,Hjort,Undirected,1
+Fanny,Otto taug,Undirected,1
+Fanny,sigUmage sarien,Undirected,1
+Dito,Fanny,Undirected,1
+Dito,Otto,Undirected,1
+Beriha,Otto,Undirected,1
+,Otto,Undirected,1
+,Jomfru Krog,Undirected,1
+Berthe,Vilhelm,Undirected,1
+Berthe,Jomfru Krog,Undirected,1
+BerthaS,Otto,Undirected,4
+Otto,Sabiue Poulsen,Undirected,1
+August Poulsen,Bertha,Undirected,1
+Otto,hans,Undirected,1
+Bertha,Sabine,Undirected,7
+Otto,Sabine,Undirected,4
+Bertha,iland,Undirected,1
+Jomfrn Krog,iland,Undirected,1
+Bertha,Elsfer,Undirected,1
+Krog,Otto,Undirected,1
+Bang,Gotfred Carlsen,Undirected,1
+Bang,Carlsen,Undirected,1
+fig,oz,Undirected,1
+Gotfred,Karl,Undirected,1
+Karle,Lel,Undirected,1
+Gud,Haryson,Undirected,1
+August,Otto,Undirected,3
+August,Vilhelm,Undirected,3
+Berts,Fanny,Undirected,1
+Berts,Otto,Undirected,1
+Etasraad Hjort,Otto,Undirected,2
+Betha,Otto,Undirected,1
+Betha,Sabine,Undirected,1
+Augusf,Sabine,Undirected,1
+Bertha,fig,Undirected,5
+Bertha,Emma,Undirected,1
+Haryson,Otto,Undirected,2
+Fanny,alleflags,Undirected,1
+Charles,alleflags,Undirected,1
+Cu,Papa,Undirected,1
+Otto,aBertha,Undirected,1
+Bertha,Hendeførsfe,Undirected,1
+Gud,Hendeførsfe,Undirected,1
+Bertha,Gud,Undirected,3
+Bestberg,Haryson,Undirected,1
+Gud,ryllelse,Undirected,1
+Jomfru Krog,siz,Undirected,1
+Bertha,bun,Undirected,1
+Jomfru Krog,hnn,Undirected,1
+Gud,Otto Sneider,Undirected,1
+Bertha Bøgh,Bertha Vestberg,Undirected,1
+Otto,fig,Undirected,1
+Obersfen,Sabine Poulsen,Undirected,1
+Bertha,Sabine Poulsen,Undirected,2
+Feder,Sabine,Undirected,1
+Feder,ban,Undirected,1
+Bertha,ban,Undirected,1
+Jomfru Krog,Schavl,Undirected,1
+Olga,Otto,Undirected,1
+Bertha,OttoS,Undirected,1
+August,Bertha,Undirected,3
+August,Sabine,Undirected,3
+August,ester,Undirected,1
+Bertha,Graad,Undirected,1
+Augusf,Gud,Undirected,1
+Augusf,Bertha,Undirected,1
+Augusf,fig,Undirected,1
+August,rilhjælp,Undirected,1
+August,Otto tillive,Undirected,1
+Otto tillive,strax,Undirected,1
+Aaasyn,Otto,Undirected,1
+Bertha tilsengs,Sabine,Undirected,1
+Sabine,Vilhelm,Undirected,1
+Karl,fig,Undirected,1
+Vilhelm,fig,Undirected,7
+Bertha,huns,Undirected,1
+Sabine,huns,Undirected,1
+Otto,ogiaa,Undirected,1
+Gud,ogiaa,Undirected,1
+Gud,Sabine,Undirected,1
+Bertha,Charles,Undirected,2
+Bertha,lille Olga,Undirected,1
+Bertha,Hnn,Undirected,1
+Anton,Petrea,Undirected,2
+Bertha,Petrea,Undirected,5
+BerthaS,Petrea,Undirected,2
+Bertha,BerthaS,Undirected,1
+Petrea,ber,Undirected,1
+Bertha Vesfberg,Vesfberg,Undirected,1
+Vesfberg,sknlde,Undirected,1
+Anton,Bertha,Undirected,2
+Anton,iveiret,Undirected,1
+Bertha,Viktoria,Undirected,1
+Bertha,Bertha Vestberg,Undirected,1
+Anton,Vilhelm,Undirected,3
+Gud,Vilhelm,Undirected,1
+Gud,PetreaS,Undirected,1
+Jomfru Krog,vaa,Undirected,1
+Bertdas,Bertha,Undirected,1
+Krog,ester,Undirected,1
+Petrea,Verthas,Undirected,1
+Anton,Jomfru Krog,Undirected,1
+Anna,AnnaS,Undirected,1
+August,soresloge,Undirected,1
+Olga,Petre-S,Undirected,1
+Bretha,PrtreaS,Undirected,1
+Gud,Petrea,Undirected,2
+Dei,Petrea,Undirected,1
+August,fig,Undirected,2
+Petrea,fig,Undirected,1
+Dm,Petrea,Undirected,1
+Bertha „,Petrea,Undirected,2
+Otto Sneider,Petrea,Undirected,1
+Haryson,Petrea,Undirected,1
+Mørk,Petrea,Undirected,1
+Mørk,tans,Undirected,1
+Alling,SneiderS,Undirected,1
+Alling,Petrea,Undirected,1
+Petrea,ester,Undirected,2
+Olga,Petrea,Undirected,2
+Otto,Petrea,Undirected,1
+Emma,Thompson,Undirected,1
+Jocumsen,Top,Undirected,1
+Hansen,Jocumsen,Undirected,1
+Hansen,Lene Rast,Undirected,1
+Jocumsen,Lene Rast,Undirected,1
+Jocumsen,ester Anna,Undirected,1
+Jocumsen,ester,Undirected,1
+Anna,Vilhelm,Undirected,31
+Petrea,Vilhelm,Undirected,6
+Olga,ester,Undirected,1
+ester,fluide,Undirected,1
+Otto,fluide,Undirected,1
+Lille Anna,lille Anna,Undirected,1
+-Anna,Anna,Undirected,2
+Lene,Steen,Undirected,1
+Lene,Vilhelm,Undirected,2
+Anna,kjønt,Undirected,1
+Anna,Olga,Undirected,2
+Anna,fig,Undirected,1
+Dands,Vilhelm,Undirected,1
+Anna,Øe,Undirected,2
+ban,ester,Undirected,1
+Anna,Tantes,Undirected,1
+Tantes,Vilhelm,Undirected,1
+Anna,Petrea,Undirected,14
+Jomfru Krog,Petrea,Undirected,2
+Hnn,Vilhelm,Undirected,1
+fig,huu,Undirected,1
+Anna,Jomfru Krog,Undirected,1
+Anna,felv,Undirected,1
+Jokumsen,Steen,Undirected,1
+Jomfru Krog,fig,Undirected,1
+Petrea,ban,Undirected,1
+Jocumsen,taus,Undirected,1
+Jocumsen,Vilhelm,Undirected,4
+Jocnmsens,Lene,Undirected,1
+Iocumsens,Vilhelm,Undirected,1
+Vilhelm,Vilhelm reisfe,Undirected,1
+Jomfru Krogs Paahsr,Vilhelm,Undirected,1
+Iocumsen,Petrea,Undirected,1
+Gud,fig,Undirected,1
+Jocumsen,Petrea,Undirected,1
+August Poulsen,Sneider,Undirected,1
+Sneider,Vilhelm,Undirected,1
+Anna,August,Undirected,1
+Sabine Poulsen,Sneider,Undirected,1
+August,Obersfen,Undirected,1
+August,Sneider,Undirected,1
+Anna,Sabine,Undirected,1
+Adolf Skou,Hansen,Undirected,1
+Laura,kjær,Undirected,1
+Emma,stig,Undirected,1
+Bang,taus,Undirected,1
+Augusfa,Carl,Undirected,1
+Kapitain Thorvald Bang,Thorvald,Undirected,1
+Emma,Kapitain Bang,Undirected,1
+Bertha,Vestberg,Undirected,1
+Carl,Ieg,Undirected,1
+Adolf Skou,Emma Hansen,Undirected,1
+Emma Hansen,Kapitain Bang,Undirected,1
+Augusta Skou,Kapitain Bang,Undirected,1
+Carl Bang,Gotfred Carlsen,Undirected,1

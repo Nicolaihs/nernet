@@ -1,0 +1,635 @@
+source,target,timestamp
+Kjær,Madam Kjær,1
+Kjær,Sofie,1
+Guds,Kjær,4
+Guds,Sofie,4
+Kjær,Sofie,4
+Julius,Kjær,4
+Julius,Kjær,4
+Kjær,Sofie,4
+Julius,Kjær,5
+Julius,Kjær,6
+Julius,Kjær,7
+Hansen,Julius,9
+Julius,Sofie,10
+Hansen,Kjær,12
+Hansen,Julius,12
+Guds,Kjær,15
+Julius,Kjær,17
+Niels,Rebekka,21
+Karen,Niels,21
+Guds,Karen,21
+Johannes’,Kristian den,23
+Johannes’,Kristian,23
+Jesus,Julius,24
+Guds,Jesus,24
+Guds,Julius,24
+Hansen,Julius,24
+Guds,Hansen,24
+Guds,Juliuses,24
+Amen,Juliuses,24
+Madam Kjær,Niels,26
+Karen,Niels,26
+Karen,Niels,27
+Kjær,Sofie,28
+Julius,Sofie,28
+Julius,Kjær,28
+Kjær,Sofie,28
+Kristen Vad,Sofie,29
+Kristen Vad,Lilbjerg,29
+Kristen Vad,Lilbjerg,29
+Kristen Vad,Lilbjerg,29
+Guds,Lilbjerg,29
+Guds,Kjær,29
+Kjær,Mette Katrine,29
+Guds,Mette Katrine,29
+Jørgen,Mette Katrine,30
+Jørgen,Jørgen Skals,30
+Jørgen Skals,Mette Katrine,30
+Kjær,Mette Katrine,30
+Kjær,Niels,30
+Jørgen,Niels,30
+Kristen Vad,Svend,31
+Jørgen,Kjær,32
+Jørgen,Kristen Vad,32
+Kristen Vad,Sofie,32
+Lilbjerg,Sofie,35
+Lilbjerg,Sofie,35
+Guds,Mette Katrine,38
+Kristen Vad,Sofie,39
+Guds,Lilbjerg,40
+Jørgen Skals,Kjær,45
+Kjær,Movns,45
+Mette Katrine,Movns,45
+Rasmus,Rasmus Kjeldsen,47
+Adam,Rasmus,47
+Johan,Kristen Vad,50
+Johan,Sofie,51
+Johan,Sofie,51
+Johan,Kjær,51
+Johan,Kjær,53
+Karen,Niels,54
+Karen,Niels,54
+Jørgen Skalses,Niels,54
+Jørgen Skalses,Niels,54
+Jørgen,Kristen Vad,55
+Gud,Kristen Vad,55
+Gud,Kristen Vad,55
+Kjær,Kristen Vad,56
+Julius —,Kjær,56
+Hans Mollerup,Maren Vads,60
+Hans Mollerup,Kristen Vad,60
+Kristen Vad,Niels Kjær,60
+Lines,Rasmus,66
+Rasmus,Sofie,66
+Julius,Sofie,68
+Julius,Rasmuses,68
+Kjær,Lilbjerg,69
+Jørgen Skals,Kjær,69
+Mette Katrine,Sofie,73
+Karl,Mette Katrine,73
+Jørgen,Mette Katrine,74
+Jørgen,Sofie,74
+Karl,Sofie,74
+Jørgen Skalses,Maren Vads,76
+Jørgen,Maren Vads,76
+Karl,Kristen Vad,78
+Jørgen,Movns,80
+Rasmus Kjeldsen,Sofie,83
+Kristen Vad,Rasmus,84
+Gud,Kristen Vad,84
+Kjær,Sofie,85
+Julius,Sofie,85
+Gud,Lilbjerg,86
+Kristen Vad,Lilbjerg,88
+Lilbjerg,Niels,88
+Gud,Kristen Vad,90
+Kjær,Sofie,91
+Jørgen Skals,Kjær,93
+Jørgen,Kjær,94
+Julius,Jørgen,95
+Jørgen,Movns,96
+Jørgen,Kjær,100
+Jørgen,Kjær,100
+Jørgen,Mette Katrine,100
+Jørgen Skals,Kristen Vad,102
+Kristen Vad,Mette Katrine,102
+Kjær,Sofie,103
+Niels,Sofie,103
+Karen,Niels,103
+Julius,Kjær,104
+Blom,Hansen,105
+Hansen,Julius,111
+Frøken Hansted,Marie,114
+Karlen,Marie,120
+Balle,Hansen,121
+Hansen,Sigrid,122
+Balle,Julius,126
+Balle,Hansen,131
+Balle,Julius,131
+Balle,Hansen,138
+Balle,Julius,141
+Gud,Søren Leopold Balle,145
+Julius,Sigrid,147
+Balle,Pastor Hansen,149
+Hansen,Pastor Balle,150
+Gud,Sigrid,151
+Balle,Sigrid,151
+Balle,Hansen,151
+Hansen,Søren Leopold Balle,151
+Julius,Sigrid,152
+Julius,Sigrid,152
+Balle,Sik,154
+Balle,Julius,154
+Julius,Sik,154
+Gud,Soleøje,155
+Julius,Sigrid,156
+Isais,Sauls,159
+Julius,Sigrid,160
+Gud,Kristian,161
+Gud,Kristen Vad,165
+Gud,Julius,165
+Brock,Julius,167
+Julius,Kjær,167
+Julius,Pastor Brock,168
+Julius,Pastor Brock,168
+Brock,Kjær,169
+Brock,Thomsen,174
+Julius,Thomsen,174
+Brock,Julius,176
+Brock,Pastor Brock,176
+Julius,Pastor Brock,176
+Julius,Thomsen,178
+Adam,Thomsen,178
+Brock,Julius,181
+Brock,Julius,182
+Brock,Julius,182
+Brock,Julius,185
+Brock,Julius,185
+Brock,Niels Thomsen,186
+Brock,Niels Thomsen,186
+Julius,Marie Hansted,187
+Marie,Sigrid,189
+Brock,Marie,189
+Brock,Karl,189
+Jørgen Skalses,Karl,189
+Jørgen Skalses,Mette Katrine,189
+Kristen Vad,Marinus,190
+Brock,Mette Katrine,191
+Brock,Karlen,193
+Brock,Mette Katrine,194
+Brock,Julius,196
+Gud,Julius,196
+Katrine,Marinus,198
+Gud,Marinus,198
+Marinus,Mette Katrine,199
+Jørgen,Marinus,201
+Madam Kjær,Sofie,211
+Sofie,Søren,211
+Sofie,Søren,211
+Mette Katrine,Sofie,211
+Mette Katrine,Sofie,211
+Jørgen,Mette Katrine,213
+Gud,Mette Katrine,213
+Gud,Lilbjerg,214
+Gud,Jørgen,216
+Gud,Jørgen,216
+Gud,Søren,216
+Gud,Søren,216
+Jørgen,Søren,217
+Jørgen,Marinus,220
+Marinus,Mette Katrine,221
+Marinus,Mette Katrine,221
+Gud,Karlen,222
+Jørgen,Mette Katrine,223
+Jørgen,Karle,223
+Beethovens,Chopins,225
+Julius,Sigrid,228
+Kjær,Sigrid,228
+Darwin,Wellhausen,230
+Jakob,Julius,239
+Jakob,Julius,239
+Balle,Julius,243
+Julius,Sigrid,243
+Julius,Sigrid,243
+Julius,Sigrid,243
+Julius,Marie Hansted,246
+Julius,Marie Hansted,246
+Balle,Hansen,251
+Hansen,Julius,252
+Hansen,Julius,252
+Gud,Marie,254
+Balle,Marie,254
+Julius,Marie,255
+Hansen,Julius,255
+Ansgars,Dalsgaards,256
+Balle,Julius,257
+Balle,Julius,257
+Balle,Kjær,260
+Julius,Saxild,262
+Balle,Brock,263
+Balle,Eriksen,267
+Moses,Testa,269
+Brock,Gud,272
+Gud,Satans,272
+Balle,Brock,274
+Josefs,Kreteken,277
+Brock,Frich,279
+Brock,Pastor Frich,281
+Brock,Frich,284
+Cecilie,Frich,286
+Brock,Cecilie,286
+Balle,Frich,287
+Brock,Frich,287
+Brock,naanaa,287
+Brock,Frich,288
+Brock,Julius,288
+Julius,Sigrid,288
+Brock,Sigrid,288
+Brock,Julius,288
+Balle,Julius,289
+Brock,Julius,289
+Brock,Julius,289
+Brock,Julius,289
+Brock,Eriksen,290
+Brock,Eriksen,291
+Brock,Gigas,292
+Brock,Euthydemos,294
+Eriksen,Gud,298
+Balle,Brock,299
+Balle,Gud,299
+Frich,Marie,306
+Cecilie,Frich,307
+Frich,Karl,311
+Brock,Gigas,313
+Balle,Gigas,314
+Anna,Gigas,317
+Balle,Brock,319
+Marie,Marie Hansted,321
+Asta,Marie Hansted,321
+Asta,Gerda,321
+Balle,Marie,322
+Balle,Brock,325
+Balle,Brock,331
+Brock,Nanna,332
+Hansen,Madam Hansted,338
+Balle,Hansen,338
+Balle,Kirstine,339
+Hansen,Madam Hansted,340
+Balle,Madam Hansted,340
+Julius,Sigrid,342
+Julius,Madam Hansted,342
+Julius,Madam Hansted,342
+Julius,Sigrid,342
+Julius,Kjær,349
+Julius,Madam Hansted,351
+Gud,Julius,352
+Julius,Madam Hansted,355
+Blochs,Frederik,357
+Blochs,Marie,357
+Marie,Sigrid,360
+Kjær,Marie,361
+Kjær,Marie,364
+Julius,Madam Hansted,368
+Hansen,Kjær,372
+Balle,Hansen,372
+Hansen,Kjær,373
+Julius,Madam Hansted,374
+Hansen,Madammen,376
+Julius,Madam Hansted,377
+Madam Hansted,helles,378
+Julius,Madam Hansted,379
+Kjær,Madam Hansted,383
+Balle,Kjær,383
+Balle,Madammen,385
+Kjær,Madammen,392
+Jørgen Skalses,Kjær,394
+Jørgen Skals,Kjær,394
+Jørgen,Karlen,395
+Jørgen Skals,Marie,396
+Julius,Kjær,397
+Kjær,Madam Hansted,397
+Madam Hansted,Marinus,398
+Jørgen Skals,Madam Hansted,398
+Marie,Marinus,399
+Julius,Marinus,400
+Juliuses,Marinus,403
+Gud,Marinus,405
+Julius,Karlen,410
+Julius,Marinus,411
+Gud,Marinuses,413
+Gud,Marinus,413
+Husbonds,Marinus,413
+Husbonds,Mette Katrine,413
+Gud,Mette Katrine,413
+Gud,Jørgen,413
+Marinus,Mette Katrine,414
+Husbond,Mette Katrine,414
+Juliuses,Karlen,416
+Karlen,Marinuses,416
+Marinus,Marinuses,416
+Madam Hansted,Marinus,417
+Gud,Marinus,418
+Madammen,Marinus,424
+Julius,Marinus,428
+Julius,Madam Hansted,428
+Madam Hansted,Marie,429
+Marinus,Mette Katrine,430
+Gud,Mette Katrine,430
+Gud,Jørgen,431
+Marinus,Marinuses,434
+Jørgen,Marinus,435
+Jørgen,Marinus,435
+Jørgen,Marinus,435
+Jørgen,Marinus,445
+Jørgen,Marinus,445
+Madam Hansted,Sigrid,449
+Madam Hansted,Sigrid,449
+Marie,Sigrid,449
+Marie,Sigrid,449
+Kjær,Sigrid,449
+Kjær,Marie,449
+Marie,Sigrid,449
+Marie,Sigrid,451
+Marie,Sigrid,451
+Marie,Sigrid,452
+Juliuses,Sigrid,452
+Juliuses,Marie,452
+Marie,Sigrid,454
+Marie,Sigrid,456
+Marie,Sigrid,461
+Marie,Sigrid,462
+Niels,Niels Kjær,469
+Juliuses,Sigrid,472
+Julius,Juliuses,472
+Julius,Karen,477
+Julius,Karen,477
+Julius,Niels,481
+Julius,Niels,482
+Julius,Niels,482
+Julius,Niels,482
+Julius,Karen,482
+Julius dér,Mette,483
+Mette,Niels,483
+Julius,Madam Kjær,486
+Karen,Madam Kjær,487
+Gud,Karen,487
+Julius,Karen,492
+Julius,Niels,492
+Julius,Karen,495
+Gud,Karen,495
+Julius,Niels,497
+Gud,Niels,497
+Julius,Mette Katrine,498
+Madam Kjær,Mette Katrine,498
+Julius,Madam Hansted,500
+Karen,Madam Hansted,500
+Mette Katrine,Niels,502
+Karen,Kramer,504
+Julius,Niels,505
+Julius,Mette Katrine,510
+Marinus,Mette Katrine,518
+Marinus,Mette Katrine,520
+Marinus,Mette Katrine,524
+Peter Wohnsen,Søren,528
+Søren,tom,528
+Otto,Søren,529
+Otto,Peter Wohnsen,529
+Otto,Peter Wohnsen,529
+Otto,Peter Wohnsen,531
+F'ætter,Otto,531
+F'ætter,Otto,531
+Otto,Peter,531
+Marinus,Peter,534
+Marinus,Mette Katrine,534
+Julius,Mette Katrine,534
+Otto,Peter,540
+Laust Nielsen,Peter,540
+Otto,Peter,542
+Otto,Peter,543
+Otto,Peter,547
+Otto,Peter,551
+Niels,Otto,560
+Kramer,Niels,562
+Niels,Otto,564
+Julius,Niels,570
+Gryn,Niels,572
+Marie Hansted,Niels,574
+Otto,Peter,575
+Peter,Vita,575
+Otto,Peter,584
+Marie,Niels Ibsens,588
+Marie,Niels Ibsens,588
+Hanne,Marie,588
+Hanne,Marie,588
+Hanne,Marie,589
+Hanne,Marie,589
+Hanne,Marie,590
+Hanne,Marie,590
+Hanne,Marie,591
+Hanne,Marie,593
+Hanne,Marie,594
+Hanne,Peter,595
+Hanne,Marie,595
+Marie,Otto,601
+Marie,Sigrid,602
+Marie,Sigrid,602
+Marie,lille Sigrid,604
+Marie,Sigrid,607
+Otto,Peter,617
+Otto,Peter,617
+Otto,Peter,618
+Otto,Peter,618
+Marie,Niels Ibsens,619
+Madam Hansted,Marie,624
+Gud,Marie,624
+Balle,Marie,627
+Hansen,Kramer,629
+Brock,Kramer,629
+Lilbjerg,Marie,630
+Jesus,Marie,631
+Brock,Jesus,634
+Jesus,Marinus,634
+Marinus,hans,634
+Gud,hans,634
+Lilbjerg,Mette Katrine,635
+Gud,Lilbjerg,635
+Marie,Sigrid,637
+Marie,Sigrid,639
+Juliuses,Mette Katrine,646
+Marinus,Mette Katrine,646
+Madam Kjær,Marinus,646
+Madam Kjær,Mette Katrine,646
+Kjær,Mette Katrine,646
+Kjær,Madam Kjær,646
+Julius,Madam Kjær,646
+Karlen,Mette Katrine,647
+Karlen,Marinuses,647
+Katrine,Mette,651
+Gud,Julius,652
+Gud,Julius,654
+Julius,Sigrid,656
+Kjær,Marie,666
+Balle,Julius,668
+Balle,Mette Katrine,668
+Marinus,Mette Katrine,668
+Jørgen,Mette Katrine,671
+Julius,Jørgen,671
+Marie,Mette Katrine,672
+Marinus,Mette Katrine,672
+Marinus,Sofie,673
+Jørgen,Marinus,674
+Jørgen,Marinus,681
+Marinus,Mette Katrine,682
+Marinus,Mette Katrine,684
+Jørgen,Sjapisen,686
+Jørgen,Marinus,687
+Marinus,Mette Katrine,689
+Jørgen,Marinus,689
+Marinus,Per,691
+Marinus,Mette Katrine,691
+Marinus,Per,693
+Hansen,Jørgen,694
+Julius,Jørgen,694
+Julius,Jørgen,694
+Julius,Jørgen,696
+Gud,Julius,699
+Gud,Julius,699
+Gud,Juliuses,700
+Julius,Juliuses,700
+Brynde,Gud,703
+Hansen,Julius,706
+Hansen,Kirstine,706
+Kirstine,Kjær,706
+Julius,Vitriol,707
+Julius,Vitriol,708
+Hansen,Julius,711
+Julius,Sigrid,711
+Kjær,Naanaa,712
+Aske,Julius,716
+Julius,Jørgen Skalses,718
+Hansen,Juliuses,720
+Johan Børjesson,Sigrid,730
+Julius,Sigrid,731
+Julius,Sigrid,731
+Johan,Julius,731
+Johan,Julius,731
+Johan,Julius,731
+Johan,Sigrid,731
+Julius,Sigrid,731
+Gud,Madam Hansted,738
+Julius,Sofie,740
+Kjær,Sofie,740
+Julius,Sofie,742
+Aallting,Kjær,746
+Aallting,Mari,746
+Julius,Sofie,747
+Kjær,Marie,752
+Madam Hansted,vos,754
+Madam Hansted,vos,754
+Julius,Madam Hansted,754
+Madam Hansted,Sigrid,757
+Julius,Madam Hansted,757
+Julius,Sigrid,757
+helle,jen,760
+Marie,Sigrid,763
+Hr. Kjær,Julius,764
+Madam Hansted,Sigrid,765
+Madam Hansted,Sigrid,765
+Juliuses,Sigrid,766
+Gud,Sigrid,768
+Hansted,Madam,769
+Hansted,Kjær,769
+Kjær,gyer,769
+Sofi,faawal,770
+Madam Hansted,Sofie,771
+Madam Hansted,hinner,771
+Madam Hansted,Sofie,773
+Julius,Sofie,775
+Madam Hansted,Sofie,776
+Gud,Sofie,776
+Gud,Madam Hansted,776
+Madam Hansted,Sofie,776
+Madam Hansted,Sofie,776
+Gud,Sofie,777
+Kjær,Madam Hansted,780
+Kjær,Sofie,780
+Gud,Julius,784
+Kristen Vad,Lilbjerg,786
+Gud,Sigrid,787
+Hansen,Julius,791
+Julius,Rasmus Sørensen,791
+Kjær,Tyfus,794
+Hansen,Kjær,794
+Kjær,Sofie,795
+Julius,Sofie,795
+Kjær,Sofie,796
+Madam Hansted,Sofie,797
+Kjær,Sofie,808
+Marie,Sofie,812
+Madam Kjær,Sofie,812
+Marie,Sofie,815
+Marie,Sofie,815
+Marie,Sofie,815
+Marie,Sofie,817
+Gud,Sofie,818
+Kjær,Sofie,818
+Marie,Sofie,819
+Kjær,Sofie,820
+Marie,Sofie,820
+Marie,Sofie,820
+Gud,Sofie,820
+Gud,Sofie,820
+Marie,Sofie,820
+Sigrid,Stakkel,821
+Gud,Stakkel,821
+Gud,Sigrid,821
+Kramer,Sigrid,822
+Kramer,Sigrid,825
+Hansen,Kramer,826
+Niels Kjær,Peter,835
+Niels,Niels Kjær,835
+Marie,Peter,837
+Peter,mir nichts,838
+dir nichts,mir nichts,838
+Peter,nte,842
+Hansen,nte,843
+Hansen,Madam Hansted,845
+Kirstine,Madam Hansted,846
+Kjær,Madam Hansted,846
+Hansen,Kjær,852
+Marie,Sofie,857
+Sofie,lille Marie,858
+Hansen,Sofie,860
+Madam Kjær,Marie,864
+Marie,Sofie,866
+Marie,Sofie,866
+Sofie,allenfals,867
+Julius,Marie,870
+Julius,Sofie,870
+Kjær,Sofie,870
+Kramer,Sigrid,878
+Marie,Sigrid,878
+Marie,Sigrid,878
+Kjær,Sigrid,878
+Kjær,Sigrid,878
+Madam Hansted,Marie,879
+Kramer,Madam Hansted,880
+Madam Hansted,Marie,883
+Marie,Sigrid,883
+Kramer,Sigrid,883
+Kramer,Marie,886
+Kjær,Marie,887
+Kjær,Kramer,890
+Kjær,Sigrid,890
+Kramer,Sigrid,894
+Marie,Sigrid,897
+Kramer,Sigrid,898
+Juliuses,Kramer,902
+Sigrid,lille Sigrid,903
+Sigrid,lille Sigrid,908
+Kjær,Sigrid,911
+Gud,lille Sigrid,914
+Julius,Kjær,915
+Hansen,Julius,920
+Hansen,Kjær,925

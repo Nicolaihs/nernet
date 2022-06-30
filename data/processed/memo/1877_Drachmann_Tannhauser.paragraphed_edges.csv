@@ -1,0 +1,171 @@
+source,target,type,weight
+Jens,Peter,Undirected,1
+Anton,Stine,Undirected,2
+Mare,intor luusas,Undirected,1
+Anton,Sivertsen,Undirected,11
+Hr. Abildgaard,Sivertsen,Undirected,1
+Anton,Hr. Abildgaard,Undirected,6
+Guds,Sivertsen,Undirected,1
+Abildgaard,Stine,Undirected,1
+Hr. Kolb,f. Ex,Undirected,1
+Abildgaard,Anton,Undirected,33
+Klintrup,Klintrups,Undirected,1
+Anna,Klintrup,Undirected,1
+Anna,Jenny,Undirected,3
+Jenny,Rikke,Undirected,3
+Honneurs,Rikke,Undirected,1
+Abildgaard,Anna,Undirected,1
+Baron Breidsdorfs,Sivertsen,Undirected,1
+Baron Breidsdorfs,Kamilla v. Breidsdorf,Undirected,1
+Anton,Kamilla v. Breidsdorf,Undirected,1
+Abildgaard,Honneurs,Undirected,2
+Abildgaard,Sivertsen,Undirected,5
+Gud,Skaal Anton,Undirected,1
+Abildgaard,Skaal Anton,Undirected,1
+Kristian,Sivertsen,Undirected,1
+Abildgaard,Gud,Undirected,2
+Abildgaard,as,Undirected,1
+Abildgaard,Hellenske,Undirected,1
+ester,j Anton,Undirected,1
+Io,Morten,Undirected,1
+Abildgaard,Morten,Undirected,1
+Morten,Sivertsen,Undirected,1
+Anton Kold,hnn,Undirected,1
+Anton,Jkkesandt,Undirected,1
+Anton,K.,Undirected,1
+B.,K.,Undirected,1
+Anton,ester,Undirected,1
+Abildgaard,paany,Undirected,1
+Kamilla,Kamillethe,Undirected,1
+Abildgaard,ganfke,Undirected,1
+Anton,felv,Undirected,1
+Anna,Anton,Undirected,1
+Anna,Jldklemme,Undirected,1
+Jenny,lille Frøken Jenny,Undirected,1
+Abildgaard,Hr. Kolb,Undirected,2
+Jndvlens,Sivertsen,Undirected,1
+Abildgaard,Frederikke,Undirected,1
+Honneurs,Jenny,Undirected,1
+Abildgaard,Jenny,Undirected,3
+Abildgaard,Rikke,Undirected,1
+Breidsdorf,Rikke,Undirected,1
+Breidsdorf,Jenny,Undirected,1
+Kørbitz,Rikke,Undirected,1
+Jenny,Kørbitz,Undirected,4
+Anna,Sivertsen,Undirected,1
+Jenny,jv,Undirected,1
+Abildgaard,v. Breidsdorf,Undirected,1
+Ingenieur Kolb,v. Breidsdorf,Undirected,1
+Jensen,Kørbitz,Undirected,4
+Hr. Kold,Jensen,Undirected,1
+Abildgaard,Hr. Abildgaard,Undirected,3
+Hr. v.,Kørbitz,Undirected,2
+Kørbitz,Margrets,Undirected,1
+Abilden,Margrets,Undirected,1
+Ahner,Hr. v. Kørbitzs,Undirected,1
+Ahner,Hr. v. Kørbitz,Undirected,1
+Hr. Mølsted,Jensen,Undirected,2
+Abildgaard,Hr. Mølsted,Undirected,2
+Anton,Hr. Jensen,Undirected,1
+-nan,ban,Undirected,1
+Anton,Kamilla,Undirected,5
+Anton,Præsf,Undirected,1
+Kristoffer Abildgaard,votrs,Undirected,1
+Hr. Abildgaard,Te,Undirected,1
+Anton,Gud,Undirected,1
+Anton,hnn,Undirected,1
+Anton,Breidsholms,Undirected,2
+Abildgaard,Breidsholms,Undirected,3
+Sivertsen,SvenfkeLars,Undirected,2
+Abildgaard,Baron Breidsdorf,Undirected,1
+Baron Breidsdorf,frein,Undirected,1
+Stoltenhagen,frein,Undirected,1
+Stoltenhagen,dor,Undirected,1
+Jensen,Sivertsen,Undirected,3
+Abildgaard,Staal-Jensen,Undirected,1
+Abildgaard,Jensen,Undirected,7
+Kørbitz,tilbords,Undirected,1
+Abildgaard,Te,Undirected,1
+Frue,Te,Undirected,1
+Jensen,Staal-Jensen,Undirected,2
+Breidsholms,Klintrup,Undirected,1
+Hr. Mølsted,Mølsted,Undirected,1
+Gud,Hr. Abildgaard,Undirected,1
+Klintrup,Pastor Klintrup,Undirected,1
+Jensen,Klintrup,Undirected,1
+Anton,Frederikke,Undirected,2
+Abildgaard,Klintrup,Undirected,1
+Klintrup,felv,Undirected,1
+Jensen,Mølsfed,Undirected,3
+Kørbitz,Mølsfed,Undirected,1
+Anton,Kørbitz,Undirected,6
+Hr. Kolb,Pasfor Klintrup,Undirected,1
+Pasfor Klintrup,dor,Undirected,1
+Goethe,dor,Undirected,1
+Goethe,Svane,Undirected,1
+Jupiter,Svane,Undirected,1
+Abildgaard,Malvoisier,Undirected,1
+Malvoisier,sud rosa,Undirected,1
+Sivertsen,sud rosa,Undirected,1
+Abildgaard,Allan,Undirected,1
+Frøken Klintrup,Hr. Kolb,Undirected,1
+Abildgaard,Breidsdorf,Undirected,1
+Jensen,Mølsted,Undirected,2
+Mølsted,Sivertsen,Undirected,1
+Brava,brava,Undirected,1
+Abildgaard,Messieurs,Undirected,1
+Abildgaard,Kørbitz,Undirected,3
+Jenny Klintrup,Kamilla,Undirected,1
+Frøken Klintrup,Kørbitz,Undirected,1
+Jenny,Sivertsen,Undirected,1
+Anton,Jensen,Undirected,5
+Breidsdorf,iforgaars,Undirected,1
+Anton,Kamilla Breidsdorf,Undirected,3
+K.,Ten gamle,Undirected,1
+K.,p. p.,Undirected,1
+Kamilla Breidsdorf,Sivertsen,Undirected,1
+Kalesche,Sivertsen,Undirected,1
+Anton,fom Sivertsen,Undirected,1
+Anton,Kolbs,Undirected,1
+Hr. Abildgaard,Hr. Kolb,Undirected,1
+Hr. Abildgaard,jusf,Undirected,1
+Breidsholms,Pindar,Undirected,1
+Abildgaard,Anton purpurrød,Undirected,1
+Hr. Ingenieur,Knigge,Undirected,1
+Jensen,Knigge,Undirected,1
+Hr. Kolb,Jensen,Undirected,1
+Anton,Jenfen,Undirected,1
+Garderkarles,Jensen,Undirected,1
+asbrød Anton,d ' Hrr,Undirected,1
+Kørbitz,ester,Undirected,1
+Frederikke,ester,Undirected,1
+Anton,Frøken Frederikke,Undirected,1
+Anton,Auf Wiedersehen,Undirected,1
+Hilfe,Jensen,Undirected,1
+Anton,Hilfe,Undirected,1
+Kørbitz,Solche,Undirected,1
+Anton,Solche,Undirected,1
+Hr. Jensen,Kørbitz,Undirected,1
+Abildgaard,Pisfolen,Undirected,2
+Anton,Pisfolen,Undirected,2
+Kamilla,Pisfolen,Undirected,1
+Abildgaard,Geschichte,Undirected,1
+Kamilla,Mathias,Undirected,1
+Anton,as,Undirected,1
+Hnn,Nidt,Undirected,1
+Kamilla,hnn,Undirected,1
+Abildgaard,Kamilla,Undirected,3
+Kamilla,Kamilla Breidsdorf,Undirected,1
+Gud,Kamilla Breidsdorf,Undirected,1
+Gud,Svend Dyring,Undirected,1
+Ragnhild,Svend Dyring,Undirected,1
+Hertz,Ragnhild,Undirected,1
+Hertz,felv,Undirected,1
+Gud,Kridhvid,Undirected,1
+Inspekteur Sivertsens,Kolb,Undirected,1
+Abildgaard,Anton Kolb,Undirected,1
+Abildgaard,Mølsfed,Undirected,2
+Kørbch,Kørbitz,Undirected,1
+Kong...,Kørbitz,Undirected,1
+Anton,Inspekteur Sivertsens,Undirected,1
+Anton,Marie,Undirected,2

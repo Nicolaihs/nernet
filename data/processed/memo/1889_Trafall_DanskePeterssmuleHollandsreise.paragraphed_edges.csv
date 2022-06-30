@@ -1,0 +1,92 @@
+source,target,type,weight
+bepudre,marven,Undirected,1
+bepudre,eierens,Undirected,1
+hauk,mynheir,Undirected,1
+mynheir,paterens,Undirected,1
+bent,paterens,Undirected,1
+Danske-Peter,Gud,Undirected,4
+Blaker,Gud,Undirected,1
+Blaker,Olaf,Undirected,1
+Peter,Peter Gottlieb,Undirected,1
+Olaf Blaker,Peter Gottlieb,Undirected,3
+Peter Gottlieb,oberem,Undirected,1
+oberem,pater vicarius Keller,Undirected,1
+Peter Gottlieb,pater vicarius Keller,Undirected,1
+Peter Gottlieb,phil.,Undirected,1
+Olaf Blaker,phil.,Undirected,1
+Olaf Blaker,Peter,Undirected,1
+Adam,Peter,Undirected,1
+Adam,Olaf,Undirected,1
+Jomtaus,Olaf Ryes,Undirected,1
+Daugaard,Peter Gottlieb,Undirected,1
+Danske-Peter,Fischers,Undirected,1
+Fischers,Knecht,Undirected,1
+Danske-Peter,Grundtvigs,Undirected,1
+Danske-Peter,Grundtvig,Undirected,1
+Jesus Christus,Knecht,Undirected,1
+halvveis,pater vicarius,Undirected,1
+pater vicarius,pateren,Undirected,1
+oberer,pateren,Undirected,1
+Vincent Lerches,oberer,Undirected,1
+Vincent Lerches,escarpe,Undirected,1
+Danske-Peter,pateren,Undirected,1
+Pater vicarius,Peter,Undirected,1
+Peter,pater vicarius,Undirected,1
+Peter,skjebne,Undirected,1
+Danske-Peter,pater vicarius,Undirected,1
+pater,vicarius,Undirected,1
+oberer,vicarius,Undirected,1
+Danske-Peter,oberer,Undirected,1
+Knecht,francs,Undirected,2
+Danske-Peter,Knecht,Undirected,5
+Danske-Peter,mark,Undirected,1
+bent,mark,Undirected,1
+Gud,bent,Undirected,1
+Danske-Peter,bent,Undirected,3
+Danske-Peter,Fahrmarkt,Undirected,1
+Jess,pøltse,Undirected,1
+Knecht,nogne,Undirected,1
+Danske-Peter,nogne,Undirected,1
+Danske-Peter,Knecht fløi,Undirected,1
+Hoog-hentens,Knecht,Undirected,2
+Knecht,mynheir,Undirected,5
+Knecht,Peter Gottlieb,Undirected,3
+Gud,udbrødDanske-Peter,Undirected,1
+høilig,mammons,Undirected,1
+Knecht,bent,Undirected,1
+Adam,Knecht,Undirected,1
+Bismarck,Danske-Peter,Undirected,1
+Danske-Peter,Gladbach,Undirected,1
+Danske-Peter,honnørens,Undirected,1
+Peter Gottlieb,madam,Undirected,1
+,Gud,Undirected,1
+Berten,Meijnkerr,Undirected,1
+Urania,kaien,Undirected,1
+Helgesen,karter,Undirected,1
+Meijn-kerr,kaien,Undirected,1
+Berten,Vanderloo,Undirected,2
+ban,bron,Undirected,1
+Danske-Peter,ivei,Undirected,1
+Peter,kaien,Undirected,2
+Jasaa,kaptein,Undirected,1
+Danske-Peter merkede,fides,Undirected,1
+bron,pater vicarius,Undirected,1
+Danske-Peter,skjebne,Undirected,1
+Danske-Peter,fræste,Undirected,1
+Danske-Peter,soli,Undirected,1
+Danske-Peter frank,kaptein,Undirected,1
+Peter,monsr,Undirected,1
+donna,kniks,Undirected,1
+Danske-Peter,donna,Undirected,1
+munk,obererns,Undirected,1
+oberem,pater vicarius,Undirected,1
+Pistknach,oberem,Undirected,1
+Danske-Peter,Pist-knach,Undirected,1
+Danske-Peter,Nemesis Ad-rastea,Undirected,1
+Nemesis Ad-rastea,ivei,Undirected,1
+ivei,kaien,Undirected,1
+pilte,skakke,Undirected,1
+Danske-Peter,Jasaa,Undirected,1
+Gud,Peter Gottlieb Fischer,Undirected,1
+Danske-Peter,kaptein,Undirected,2
+Amanda,El-dorado,Undirected,1

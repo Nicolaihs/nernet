@@ -1,0 +1,276 @@
+source,target,type,weight
+Holger,es,Undirected,1
+Gud,Holger,Undirected,7
+Gud,Marie,Undirected,3
+Holger,Marie,Undirected,6
+Marie,Vilhelmine,Undirected,1
+Holger,Salomon,Undirected,1
+Holger,ji,Undirected,1
+Marie,lille Marie,Undirected,1
+Marie,sfal,Undirected,1
+Gud,sfal,Undirected,1
+Jens,vos,Undirected,1
+Holger,vos,Undirected,1
+Malene,Marie,Undirected,1
+Elias,Holger,Undirected,1
+Madam Sørensen,Marie,Undirected,1
+Holger Dansfe,Morgana,Undirected,1
+Jens,Morgana,Undirected,1
+Holger,Jens,Undirected,1
+Holger,Sørensen,Undirected,1
+Birte,Sørensen,Undirected,1
+Birte,lille Marie,Undirected,1
+Holger,Kaptejn Petersen,Undirected,2
+Petersen,Sørensen,Undirected,1
+Ola,Sørensen,Undirected,1
+Kaptejn Petersen,Pisfolen,Undirected,1
+Holger,Pisfolen,Undirected,1
+Holger,Kristus,Undirected,1
+Holger,Petersen,Undirected,1
+Holger,Ola,Undirected,2
+Jens Sørensen,Marie,Undirected,1
+Holger,Jens Sørensen,Undirected,1
+Holger,Povl Hansens,Undirected,1
+H. S.,Kaptejn Petersen,Undirected,1
+H. S.,Marie,Undirected,1
+Karen Povls,Marie,Undirected,1
+Karen,Marie,Undirected,2
+Holger,Karen,Undirected,1
+Marie,Povl,Undirected,4
+Gud,Sidsfe,Undirected,1
+Marie,Povl Hansen,Undirected,1
+Holger Sørensens,Ola,Undirected,1
+Madam Sørensen,Ola,Undirected,1
+Jens Sørensen,Madam Sørensen,Undirected,1
+Jens Sørensen,Povl Hansen,Undirected,5
+Karen,Povl Hansen,Undirected,3
+Karen,Valborg,Undirected,17
+Marie,Valborg,Undirected,1
+Jens,Valborg,Undirected,68
+Povl,Valborg,Undirected,26
+Frank,Jens Sørensen,Undirected,2
+Frank,Jens,Undirected,1
+Marie Sykones,Valborg,Undirected,1
+Jens,Karen,Undirected,10
+Jens,Marie,Undirected,3
+Jens,Peder ørnenæbsKjendingsnavn,Undirected,1
+Jesper,Peder ørnenæbsKjendingsnavn,Undirected,1
+Hareulds,Jesper,Undirected,1
+Hareulds,Jesper Kakkelovnsrør,Undirected,1
+Jesper,b fluide,Undirected,1
+Jens Sørensen,Valborg,Undirected,17
+Jens,henders,Undirected,1
+Marie,henders,Undirected,1
+Holger,Marie Sykone,Undirected,1
+Karen Povls,Valborg,Undirected,1
+Jens,Povl Hansen,Undirected,4
+Jens Sørensen,Marie Sykone,Undirected,1
+Holbergs,Valborg,Undirected,1
+Holbergs,Ingemanns,Undirected,1
+Jens Sørensen,Morlille,Undirected,1
+Jærn,Træflo,Undirected,1
+Jærn,Mette,Undirected,1
+Mette,Somme,Undirected,1
+Mette,vos,Undirected,1
+Stine Mogens,vos,Undirected,1
+Persen,Stine Mogens,Undirected,1
+Jens Sørensen,Magdalene Skomagers,Undirected,1
+Grete,Jesper Røghat,Undirected,1
+Mariane,j,Undirected,1
+Mariane,Møllerens,Undirected,1
+Mariane,l,Undirected,1
+Holger Danske og,l,Undirected,1
+Holger Danske og,Marie Sykone,Undirected,1
+Gud,Malene,Undirected,1
+Magdalene,lille Jens,Undirected,1
+Jens,Magdalene,Undirected,1
+Jens,Jesper,Undirected,25
+Gud,Jesper,Undirected,4
+Jens,K.,Undirected,1
+Jesper,K.,Undirected,1
+Jens,Jsøvne,Undirected,1
+Jørgens,PuSøiendag,Undirected,1
+Jørgens,kjerke,Undirected,1
+Jgaaer,kjerke,Undirected,1
+Ane Marie,Hans Pedersen,Undirected,1
+Mads Jørgens,Pouels,Undirected,1
+Mads Jørgens,Sorte Mette,Undirected,1
+Jens Sørensen,Jesper,Undirected,4
+Jens,Peder Skyts,Undirected,1
+Jens,Kong Frederiks,Undirected,1
+Jens,lille Valborg,Undirected,1
+Jesper,Valborg,Undirected,3
+Karen Pools,Smedens,Undirected,1
+Valborg,vos,Undirected,1
+Gud,Karen,Undirected,2
+Jens Sørensen,Karen,Undirected,2
+Gud,Povl,Undirected,4
+Jesper,Karen,Undirected,1
+Jesus,Karen,Undirected,1
+Jens Sørensen,Povl,Undirected,5
+Jens,Jens Sørensen,Undirected,8
+Lien darn6t3,d. oxp63,Undirected,1
+Jens,leZner,Undirected,1
+Povl,Povl Hansen,Undirected,3
+Jens,Povl,Undirected,33
+Anna,Valborg,Undirected,4
+Anna,skjælmsk,Undirected,1
+Jens,skjælmsk,Undirected,1
+Gud,Jens,Undirected,2
+Gud,Povl de Koks,Undirected,1
+Anna,Jens Sørensen,Undirected,1
+Anna,Jens,Undirected,1
+Jens,Mesfer,Undirected,1
+Jens,Sands,Undirected,1
+Sands,stet,Undirected,1
+Hansen,Jens Søren,Undirected,1
+Jens Søren,Valborg,Undirected,2
+Hans,Povl rolig/,Undirected,1
+Hans,Valborg,Undirected,1
+Mikkel,Valborg,Undirected,1
+Jens,Mikkel,Undirected,1
+LøHn,Povl,Undirected,1
+Jens Søren,Povl,Undirected,2
+Mette,berfor,Undirected,1
+Jens,berfor,Undirected,1
+Dandsen,Jens,Undirected,1
+Dands,Jens Sørensen,Undirected,1
+Dands,Jens,Undirected,1
+Jens,Jesper Røghal,Undirected,2
+Gud,Selle,Undirected,1
+Gud,Jesper Røghat,Undirected,1
+Karl,Povl,Undirected,2
+Karl,Valborg,Undirected,1
+Jens Sørensen,lille Valborg,Undirected,1
+Povl Hansen,Valborge,Undirected,1
+Præsfens,Valborg,Undirected,1
+Jens Hansen,Valborg,Undirected,6
+Jesper,Maaneskin,Undirected,1
+Maaneskin,lille Valborg,Undirected,1
+Jens Sørensen,Mette,Undirected,2
+Jesper,Mette,Undirected,1
+Gaardmands,Valborg,Undirected,1
+Aksel Tordsen,Ingemanns,Undirected,1
+Aksel Tordsen,Valborg,Undirected,1
+Jens,Mette,Undirected,5
+Mette,Povl,Undirected,1
+Valborg,har,Undirected,1
+age,har,Undirected,1
+Jens slal,Valborg,Undirected,1
+Mette,Valborg,Undirected,9
+Karl“,Mette,Undirected,2
+Karen,Povl,Undirected,7
+Karlen,Mette,Undirected,1
+Dands,Mette,Undirected,1
+Jens Hansen,Mette,Undirected,5
+Jens Hansen,Jens Sørensen,Undirected,2
+Jens Hansen,Povl,Undirected,4
+Jens,Vorherre,Undirected,1
+Hansen,Povl,Undirected,2
+Povl,Præsfen,Undirected,3
+Povl Hansen,Valborg,Undirected,4
+B,Jens,Undirected,2
+Kokdrengen,Niels,Undirected,1
+Dansf,Sørensen,Undirected,1
+Dansf,Jens,Undirected,2
+Jens,Ola,Undirected,30
+Jens Sørensen,Ola,Undirected,5
+Jens,Sømanden,Undirected,1
+Gud,grant,Undirected,1
+Gud,Holger Sørensen,Undirected,1
+Jens mørk,Ola,Undirected,1
+Jens,ivold,Undirected,1
+Ellen,Jens,Undirected,1
+Farlille,Mette,Undirected,1
+Hansen,Karl,Undirected,1
+Karlen,Præsfen,Undirected,2
+Jol,Præsfen,Undirected,1
+Jol,Karlen,Undirected,1
+Frederik den Syvende,Præsfen,Undirected,1
+Frederik den Syvende,Gud,Undirected,1
+Jens Sørensen,ivold,Undirected,1
+Povl,ivold,Undirected,1
+Jesper Røghat,Persson,Undirected,1
+Jens Sørensen,Persson,Undirected,1
+Jens,Jesper vilde,Undirected,1
+Frederik,Ola,Undirected,1
+Frederik,Kristian den,Undirected,1
+Frederik den Ottende,Gud,Undirected,1
+Jesper,Ola,Undirected,1
+Jens,Sørbe,Undirected,1
+Jens Hansen,Povl Hansen,Undirected,1
+Jens,Valborg l,Undirected,1
+Hens,Ola,Undirected,1
+-Svend Vonved,j Jens,Undirected,1
+-Svend Vonved,Valborg,Undirected,1
+Præsfen,hans Karl,Undirected,1
+Ola,Straa,Undirected,1
+Ola,Valborg,Undirected,2
+Ola,Povl Hansen,Undirected,1
+Gud,Valborg,Undirected,5
+Ola rak,Valborg,Undirected,1
+Ola,lille Jens,Undirected,1
+Karen,Ola,Undirected,1
+Asbjørn,Tordenskjold,Undirected,1
+Gud,Kjærligheds,Undirected,1
+Ola,Povl,Undirected,3
+Frederits,Jens,Undirected,1
+Abel,Jens Sørensen,Undirected,1
+Gud,Sejer,Undirected,1
+Holger,Thyras,Undirected,1
+Fredriks,Holger,Undirected,1
+Frederik den Syvende,Holger Dauske,Undirected,1
+Frederits,Valborg,Undirected,1
+Frederits,Jens Sørensen,Undirected,1
+Davids,Povl Hansen,Undirected,1
+Bejle,Johan,Undirected,1
+Johan,Valborg,Undirected,2
+Johan,Slytker,Undirected,2
+Johan,Liv,Undirected,2
+Jæsper,XV,Undirected,1
+Akøghat,Jæsper,Undirected,1
+Jens Sørensen,Røghat,Undirected,1
+Danevirkes,Jesper,Undirected,1
+Jesper,Mads,Undirected,1
+Gud,Jesper endel,Undirected,1
+Jesper,Niels Hugger,Undirected,2
+Jens Sørensen,Somme,Undirected,1
+Gud,Jens Sørensen,Undirected,1
+Valborg,didhen,Undirected,1
+Jens Sørensen,Jesper igjen,Undirected,1
+Halfen,Jesper,Undirected,1
+Adam,Halfen,Undirected,1
+Jens Sørensen,iland,Undirected,1
+Baal,Odin,Undirected,1
+Alfaders,Baal,Undirected,1
+Jens,Jesper Røghat,Undirected,1
+Jesper Røghat,Povl,Undirected,1
+Karen,bo,Undirected,1
+Dands,Valborg,Undirected,1
+Dandsen,Povl,Undirected,1
+Dandsen,Hansen,Undirected,1
+Hansen,Jens Sørensen,Undirected,1
+Nimeligheds,Povl,Undirected,1
+Jens,Nimeligheds,Undirected,1
+Balborg,Jens,Undirected,1
+Jens Fisker,Jens Sørensen,Undirected,1
+Ola,Signelils,Undirected,1
+Jens,Jens Fisker,Undirected,1
+Hansen,Jens,Undirected,1
+Valborg,flulde,Undirected,1
+Anna,flulde,Undirected,1
+Anna,Gudmund,Undirected,2
+Karl,Mette,Undirected,1
+Mette,Ola,Undirected,1
+Mette,sfratlo,Undirected,1
+Ola,sfratlo,Undirected,1
+Gudmund,Ola,Undirected,2
+Ola,ban,Undirected,1
+Ola,Signe,Undirected,6
+Signe,hans fordums,Undirected,2
+Anna,Signe,Undirected,1
+Jens,Signe,Undirected,4
+Jens,lille Gudmund,Undirected,1
+Karen Povls,lille Gudmund,Undirected,1
+Arne,Gud,Undirected,1
+ilpn,sukke,Undirected,1

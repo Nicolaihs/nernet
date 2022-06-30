@@ -1,0 +1,221 @@
+source,target,timestamp
+Axelson,Jomfru Axelsons,5
+Axelson,Krog,5
+Axelson,Madam Hansen,7
+Axelson,Madam Hansen,12
+Adam Hansen,Axelson,12
+Adam Hansen,Adamsæble,12
+Emma,Krog,14
+Emma,Madam Hansen,15
+Emma,Madammen,17
+Emma,Lars Christensen,22
+Emma,Lars,23
+Lars,Madam Hansen,23
+Axelson,Madam Hansen,23
+Axelson,Emma,23
+Jomfru Axelson,Jomfru Axelsons,24
+Hansen,Jomfru Axelson,24
+Axelson,Hansen,24
+Axelson,Hansen,24
+Bohave,Hansen,24
+Bohave,Jomfru Axelson,24
+Jomfru Axelson,Madam Hansen,24
+Hansen,Madam Hansen,24
+Gud,Hansen,24
+Gud,Hansen,24
+Emma,Hansen,24
+Hansen,Lars,25
+Lars Christensen,Madam Hansen,29
+Emma,Hansen,31
+Emma,Madam Hansen,32
+Emma,Madam Hansen,32
+Emma,Madam Hansen,32
+Emma,Madam Hansen,34
+Hansen,Lars Christensen,36
+Emma,Lars Christensen,36
+Emma,Hansen,36
+Hansen,Lars,36
+Lars,s,36
+Emma,s,36
+Lars,Ole Suhrsgade,37
+Emma,Ole Suhrsgade,37
+Emma,Lars,37
+Emma,Lars,37
+Emma,Lars Christensen,37
+Lars Christensen,Madam Hansen,37
+Lars,Madam Hansen,37
+Lars,s,37
+Emma,Lars,38
+Emma,Lars,38
+Emma,Lars,38
+Lars,Madam,38
+Hansen,Madam,38
+Emma,Hansen,38
+Emma,Lars,38
+Emma,Lars,38
+Emma,Lars,38
+Emma,Lars,39
+Emma,Lars,39
+Emma,Lars,39
+Emma,Lars,39
+Emma,Lars,39
+Emma,Hansen,39
+Hansen,Lars Christensen,39
+Lars,Lars Christensen,39
+Hansen,Lars,39
+Emma,Hansen,39
+Emma,Madammen,39
+Madam,Madammen,39
+Hansen,Madam,39
+Hansen,skraa,39
+Emma —,skraa,39
+Emma —,Hansen,39
+Emma,Hansen,39
+Emma,Hansen,39
+Emma,Madam Hansen,40
+Emma,Hansen,40
+Hansen,Lars,40
+Lars,Madammen,40
+Finkelstein,Finkelsteins,43
+Finkelstein,Kirstine,43
+Emma,Finkelstein,49
+Finkelstein,Kirstine,51
+Finkelstein,Hansen,52
+Hansen,Svend,52
+Finkelstein,Svend,52
+Emma,Hansen,59
+Emma,Hansen,59
+Finkelstein,Madammen,60
+Hr. Finkelstein,Madammen,62
+Emma,Hr. Finkelstein,62
+Emma,Finkelstein,63
+Emma,Kirstine,63
+Emma,Kirstine,63
+Emma,Kirstine,63
+Finkelstein,Kirstine,66
+Emma,Kirstine,66
+Emma,Finkelstein,67
+Emma,Såa,67
+Lars bankede,Såa,67
+Hansen,Lars,69
+Emma,Lars,69
+Emma,Krog,72
+Emma,Krog,72
+Emma,Madammen,72
+Lars,skjelne Hansens,75
+Lars,s,75
+Lars,s,75
+Hansen,Lars,75
+Hansen,Lars,75
+Hansen,Lars,75
+Emma,Hansen,76
+Emma,lille —,80
+Gud,Hansen,87
+Emma,Gud,91
+Emma,Hansen,94
+Emma,Hansen,95
+Emma,Hansen,96
+Emma,Hansen,99
+Emma,Hansen,99
+Emma,Hansen,99
+Emma,Hansen,103
+Emma,Madam Hansen,104
+Axelson,Madam Hansen,104
+Axelson,Hansen,104
+Emma,Hansen,106
+Emma,Gud,109
+Krog,Madam Hansen,110
+Emma,Krog,110
+Emma,Madam Hansen,114
+Emma,Madam Hansen,114
+Finkelstein,Kirstine,115
+Kirstine,Madam Hansen,115
+Finkelstein,Madam Hansen,115
+Finkelstein,Madam Hansen,116
+Kirstine,Madam Hansen,116
+Emma,Kirstine,116
+Emma,Madammen,116
+Emma,Finkelstein,117
+Finkelstein,Madam Hansen,117
+Axelson,Madam Hansen,117
+Emma,Finkelstein,118
+Emma,Hr. Finkelstein,118
+Emma,Hr. Finkelstein,118
+Emma,Finkelstein,120
+Emma,Finkelstein,120
+Emma,Finkelstein,120
+Emma,Finkelstein,122
+Emma,Finkelstein,127
+Emma,Kirstine Finkelstein,128
+Emma,Jokums,131
+Emma,Jokums,131
+Emma,Pepita,134
+Emma,Pepita,134
+Emma,Pepita,134
+Emma,Pepita,134
+Emma,Pepita,134
+Emma,Pepita,134
+Pepita,Pepita Ivers,136
+Emma,Pepita,136
+Emma,Jokums,136
+Jokum,Pepita,137
+Jokum,Rødfixens,137
+Emma,Rødfixens,137
+Emma,Pepita,137
+Emma,Pepita,137
+Emma,Jokum,138
+Jokum,Pepita,138
+Emma,Pepita,138
+Emma,Jokum,138
+Emma,Jokum,138
+Emma,Pepita,138
+Emma,Pepita,138
+Emma,Pepita,138
+Emma,Pepita,139
+Emma,Pepita,140
+Emma,Pepita,140
+Emma,Pepita,140
+Emma,Pepita,140
+Emma,Pepita,141
+Emma,Pepita,141
+Emma,Jokum Fix,145
+Krog,Rødfix,148
+Emma,Rødfix,148
+Emma,Finkelstein,150
+Emma,Finkelstein,151
+Emma,Finkelstein,151
+Emma,Madam Hansen,154
+Emma,Madam Hansen,154
+Emma,Pepita,161
+Emma Jonsson,Madam Hansen,169
+Emma,Madam Hansen,170
+Emma,Krog,171
+Emma Jonsson,Krog,173
+Emma Jonsson,Krog,177
+Jonsson,Krog,181
+Emma,Krog,181
+Jonsson,Krog,183
+Jonsson,Krog,184
+Jonsson,Krog,184
+Gud,Krog,186
+Krog,Madam Hansen,188
+Emma,Madam Hansen,188
+Emma,Kirstine Finkelstein,190
+Finkelstein,Hrr,196
+Finkelstein,Hrr,196
+Hrr,Jonas Finkelstein,196
+Hrr,Jonas Finkelstein,196
+Emma,Krog,201
+Emma,Pepita,203
+Emma,Pepita,206
+Emma,Pepita,206
+Emma,Pepita,206
+Emma,Pepita,206
+Emma,Finkelstein,206
+Pepita,Rødfix,207
+Emma,Madam Hansen,208
+Madam Hansen,Svend,208
+Emma,Svend,208
+Emma,Pepita,208
+Emma,Pepita,211
+Kukkuk,Pepita,211

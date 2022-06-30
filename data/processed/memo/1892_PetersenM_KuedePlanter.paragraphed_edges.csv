@@ -1,0 +1,80 @@
+source,target,type,weight
+las eilersen,ole gormsen,Undirected,1
+hans karlsen,las eilersen,Undirected,1
+gormsen,hans karlsen,Undirected,1
+eilersen,gormsen,Undirected,1
+gormsen,karlsen,Undirected,1
+eva,gormsen,Undirected,5
+bonmot fløi,frøken eva,Undirected,1
+eva,richard just,Undirected,2
+eva,liun,Undirected,1
+kaptein wagner,karlsen,Undirected,1
+adam,eilersen,Undirected,1
+eilersen,frøken eva,Undirected,1
+just,ævlens,Undirected,1
+gormsen,just,Undirected,1
+eva,just,Undirected,1
+bun,eva,Undirected,1
+eva,wagner,Undirected,2
+moll,wagner,Undirected,2
+eva,lian,Undirected,1
+eilersen,wagner,Undirected,1
+julius,Åge fris,Undirected,1
+livor,worm,Undirected,1
+ane,ledvogterske,Undirected,1
+julius,ledvogterske,Undirected,1
+ane,julius,Undirected,2
+julius,lian,Undirected,1
+julius,worm,Undirected,1
+johanne,nils,Undirected,6
+johanne,løin,Undirected,1
+fris,nils,Undirected,1
+hinner,johanne skoggerleende,Undirected,1
+hinner,johanne,Undirected,1
+fris,johanne,Undirected,1
+jens larsen,johanne,Undirected,1
+josefsen,ove flemming,Undirected,2
+josefsen,nonchalant,Undirected,1
+flemming,josefsen,Undirected,2
+galan,kåthi,Undirected,1
+amanda,galan,Undirected,1
+amanda,josefsen,Undirected,4
+flemming,kåthi,Undirected,1
+josefsen,osvald,Undirected,4
+herbert bing,ibsens,Undirected,1
+hans olesen,ibsens,Undirected,1
+hans olesen,herbert bing,Undirected,1
+herbert bing,josefsen,Undirected,1
+josefsen,kåthi,Undirected,1
+amanda li’,kåthi,Undirected,1
+amanda,kåthi,Undirected,6
+amanda,flemming,Undirected,1
+bing,olesen,Undirected,5
+migraine,olesen,Undirected,1
+lille herbert,migraine,Undirected,1
+bing,hans olesen,Undirected,4
+herbert bing,olesen,Undirected,1
+hans olesen,kaja,Undirected,1
+bing,eva,Undirected,1
+bing,flemming,Undirected,3
+ibsen,osvald,Undirected,2
+bing,osvald,Undirected,1
+anna,willy,Undirected,1
+lucie,willy,Undirected,1
+herbert bing,ove flemming,Undirected,1
+flemming,ove flemming,Undirected,3
+flemming,frøken falck,Undirected,2
+falck,flemming,Undirected,1
+flemming,kellneren,Undirected,1
+flemming,ove,Undirected,1
+falck,feinschmecker,Undirected,1
+flemming,flemming falcks,Undirected,1
+bing,josefsen,Undirected,2
+josefsen,olesen,Undirected,2
+josefsen,seir,Undirected,1
+flemming,olesen,Undirected,1
+dan,ove flemming,Undirected,1
+apolio,zeus,Undirected,1
+apolio,mars,Undirected,1
+juras,offres,Undirected,1
+nana,zola,Undirected,1

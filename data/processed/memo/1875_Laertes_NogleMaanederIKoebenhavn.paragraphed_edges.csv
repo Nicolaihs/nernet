@@ -1,0 +1,179 @@
+source,target,type,weight
+Johannes Holmer,Rosen,Undirected,1
+Ebba,Rosen,Undirected,3
+Johannes,farbroders,Undirected,4
+Frantz,Rosen,Undirected,1
+Frantz Holmer,Rosen,Undirected,1
+Frantz Hohners,Frantz Holmer,Undirected,1
+Frantz,Frantz Hohners,Undirected,1
+Ebba,Johannes,Undirected,44
+Frantz Holmer,Johannes,Undirected,1
+Jios,Johannes,Undirected,1
+Johannes,Jægermester Rosens,Undirected,1
+Ebha,Johannes,Undirected,1
+Ebba,lian,Undirected,4
+Ebba,Gud,Undirected,5
+Ebba,lille Carl,Undirected,4
+bohave,sopha,Undirected,1
+Ebba,Lene,Undirected,1
+Dbren,Rosen,Undirected,1
+Ebba,Gyritte,Undirected,3
+Frederik,Johannes,Undirected,1
+Johannes,lille Carl,Undirected,3
+Carlsen,Johannes,Undirected,3
+Carl,Ebba,Undirected,3
+Carl,Johannes,Undirected,2
+Carlsen,Rosen,Undirected,1
+Larsen,dbren,Undirected,1
+Ebba,dbren,Undirected,1
+Johannes,bjne,Undirected,2
+Ebba,bjne,Undirected,5
+Beethovens,Johannes,Undirected,1
+Carl,Moster,Undirected,1
+Ebba,mosters,Undirected,1
+Johannes,Rosen,Undirected,2
+Carlsen,tetid,Undirected,1
+Gyritte,Jensens,Undirected,1
+Carlsen,moster,Undirected,1
+moster,skont,Undirected,1
+Johannes,skont,Undirected,1
+Rosen,moster,Undirected,1
+Ebba,moster,Undirected,2
+Gud,pastor Carlsen,Undirected,1
+Ebba,pastor Carlsen,Undirected,1
+Johannes,liun,Undirected,1
+Ebba,sopha,Undirected,1
+Jensen,Johannes,Undirected,1
+Ebba,Faber,Undirected,32
+Ebba,flacon,Undirected,1
+Joseph,flacon,Undirected,1
+Fanny Hansen,Joseph,Undirected,3
+Faber,Fanny Hansen,Undirected,1
+Faber,Joseph,Undirected,4
+Joseph,mama,Undirected,1
+Joseph,bjne,Undirected,1
+Faber,magelos,Undirected,1
+Joseph,magelos,Undirected,1
+Ebba,Joseph,Undirected,22
+Joseph,hans cour,Undirected,1
+Fanny Hansen,hans cour,Undirected,1
+Faber,Fanny,Undirected,17
+Ebba,Fanny,Undirected,40
+Fanny,Fanny Hansen,Undirected,2
+Fanuys,G,Undirected,1
+Ebba,G,Undirected,1
+Fanny,Joseph Faber,Undirected,1
+Fanny,Hirtz,Undirected,3
+Hirtz,Joseph,Undirected,2
+Fanny,Joseph,Undirected,20
+Fanny,JoSeph,Undirected,1
+Ebba,Hirtz,Undirected,1
+Fanny,Gud,Undirected,1
+cousine,hans cour,Undirected,1
+Ebba,cousine,Undirected,1
+Joseph,ril,Undirected,1
+Ebba,foi-,Undirected,1
+Joseph,foi-,Undirected,1
+Carl Hirtz,hr. Joseph,Undirected,1
+Carl Hirtz,Ebba,Undirected,6
+Hirtz,line,Undirected,2
+Faber,Hirtz,Undirected,1
+Faber,Joseph at,Undirected,1
+Carl,Faber,Undirected,2
+Joseph,lian,Undirected,2
+Joseph,sligt,Undirected,1
+Faber,molls,Undirected,1
+Ebba,Johannes Holmer,Undirected,2
+Johannes,Johannes Holmer,Undirected,1
+Hirtz,Johannes,Undirected,1
+Hirtz,s,Undirected,1
+Johannes,s,Undirected,3
+Ebba,liam,Undirected,2
+Lieutenant Schøller,Schøller,Undirected,1
+Fanny,doren,Undirected,1
+Johannes,doren,Undirected,4
+Johannes,tom,Undirected,1
+Ebba,Holmer,Undirected,1
+Ebba,hr. Holmer,Undirected,1
+Carl Hirtz,Joseph,Undirected,1
+Faber,Johannes,Undirected,4
+Scholler,Sigurd Scholler,Undirected,1
+Scholler,stundum,Undirected,1
+Faber,lieutenant Scholler,Undirected,1
+Lieutenant Schøller,liam,Undirected,1
+Fanny Hansen,lieutenant Schøller,Undirected,1
+Fanny,Scheller,Undirected,1
+Carl Hirtz,Faber,Undirected,1
+Carl“,Faber,Undirected,3
+Johannes,Sigurd Schøller,Undirected,2
+Johannes,Moster,Undirected,1
+Ebba,s,Undirected,1
+Ebba,Sigurd Scholler,Undirected,1
+Sigurd Scholler,lieutenant Scholler,Undirected,1
+Ebba,lieutenant Scholler,Undirected,1
+Ebba,Schøller,Undirected,5
+Sigurd Schøller,hartad,Undirected,1
+Ebba,Scholler,Undirected,4
+Fanny,Sigurd Schøller,Undirected,2
+Gianelli,Schøller,Undirected,1
+Gianelli,lieutenanten,Undirected,1
+Joseph Faber,lieutenanten,Undirected,1
+Joseph,lieutenant Schøller,Undirected,4
+Carl“,lieutenant Schøller,Undirected,1
+Carl Hirtz,Fanny,Undirected,3
+Gud,Joseph,Undirected,1
+Gud,Hirtz,Undirected,1
+Carl,Joseph,Undirected,1
+Ebba,hr. Hirtz,Undirected,1
+Ebba,lieutenant Schøller,Undirected,3
+Ebba,doren,Undirected,1
+Faber,Schøller,Undirected,1
+Ebba,Hansen,Undirected,1
+Fanny,Hansen,Undirected,1
+Johannes,Schøller,Undirected,4
+Johannes Holmens,lieutenanten,Undirected,1
+Johannes Holmens,bjne,Undirected,1
+Faber,lieutenant Schøller,Undirected,1
+Johannes,Joseph,Undirected,1
+Johannes,lieutenant Schøller,Undirected,4
+Johannes,moster,Undirected,1
+Sigurd Schøller,frøken Rosen,Undirected,1
+Carl Hirtz,Vincent,Undirected,1
+Gud,Johannes,Undirected,2
+Carl,Rosen,Undirected,1
+Carlsen,Lille Carl,Undirected,1
+Ebba,Molbechs,Undirected,1
+Fanny,liun,Undirected,1
+Faber,liun,Undirected,1
+Ebba,flors,Undirected,2
+Ebba,Joseph Faber,Undirected,1
+Hanne,Jette,Undirected,1
+Gud,Jette,Undirected,1
+Scholler,sopha,Undirected,2
+Scholler,hnn,Undirected,1
+Don Juan,Ebba,Undirected,1
+Don Juan,Fanny,Undirected,1
+Fanny,lieutenant Schøller,Undirected,2
+Fanny,son,Undirected,1
+Joseph,Schøller,Undirected,5
+G.,Joseph,Undirected,2
+Joseph,lieutenant Schillers,Undirected,1
+Holmer,Johannes,Undirected,1
+Bosen,Ebba,Undirected,1
+Faber,doren,Undirected,1
+Schøller,s,Undirected,1
+Ebba utålelig,Johannes,Undirected,1
+Ebba,Ebba utålelig,Undirected,1
+Jens,bje,Undirected,1
+Gud,Jens,Undirected,1
+Ebba,Jens,Undirected,1
+Gud,Per,Undirected,1
+Ebba,liun,Undirected,1
+Fanny,pjankeri,Undirected,1
+Joseph,pjankeri,Undirected,1
+G.,Schøller,Undirected,1
+Johannes,Scholler,Undirected,1
+Carlsen,Frantz,Undirected,1
+Ebba,Moster,Undirected,2
+Moster,moster,Undirected,1
+Ebba,al,Undirected,1

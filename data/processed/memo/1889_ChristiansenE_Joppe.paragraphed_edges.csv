@@ -1,0 +1,198 @@
+source,target,type,weight
+Barre,Ole,Undirected,1
+Ole,Zillen,Undirected,7
+Blum,Zillen,Undirected,1
+Ole,Silen,Undirected,1
+Blum,Ole,Undirected,18
+Gud,Ole,Undirected,3
+Ole,Venus,Undirected,1
+Don Juan,Venus,Undirected,1
+Don Juan,Ole,Undirected,1
+Ellen,Ole,Undirected,10
+Ole,Ole —,Undirected,1
+Bondesen,Ole,Undirected,3
+Engelke,axlarne,Undirected,1
+Engelke,Hr. Kjærlund,Undirected,1
+Engelke,Ole,Undirected,32
+Bondesen,Lars,Undirected,1
+Lars,Ole,Undirected,1
+Chr. Wintherske,Ole Kjærlund,Undirected,1
+Blum,Chr. Wintherske,Undirected,1
+Gud,Jokum,Undirected,1
+Engelke,Vorherre,Undirected,1
+Adam,Vorherre,Undirected,1
+Adam,Engelke,Undirected,1
+Ole,Plumager,Undirected,1
+Engelke,Strax,Undirected,1
+Engelke,Hertz,Undirected,1
+Hertz,Scribe,Undirected,1
+Michael Wiehe,Scribe,Undirected,1
+Engelke,Michael Wiehe,Undirected,1
+Ole,berøve,Undirected,1
+Madam Vrikmaas,Thortsens,Undirected,1
+Mini,Zillen,Undirected,1
+Ellen,Engelke,Undirected,3
+Mutter,Ole,Undirected,1
+Engelke,Madam Bondesen,Undirected,2
+Ole,Per,Undirected,31
+Engelke,Gud,Undirected,3
+Gud,Per,Undirected,2
+Engelke,Per,Undirected,25
+Madam Bondesen,Ole,Undirected,1
+Bjørn,Ole,Undirected,1
+Bjørn,Per,Undirected,1
+Blum,Engelke,Undirected,6
+Engelke,sigHendes,Undirected,1
+Ole,sigHendes,Undirected,1
+Engelke,Madsen,Undirected,2
+Engelke,Engelky,Undirected,1
+Madsen,Ole,Undirected,2
+Jakobe —,Ole,Undirected,1
+Joppe,Ole,Undirected,9
+Ellen,Joppe,Undirected,1
+Joppe,Per,Undirected,9
+Engelke,Joppe,Undirected,13
+Per,Rosa,Undirected,2
+Ellen,Sara,Undirected,1
+Ellen,Madam Sundbye,Undirected,2
+Ellen,Gud,Undirected,1
+Gud,Madamme,Undirected,1
+Madamme,Sundbye,Undirected,1
+Per,Per voxe,Undirected,1
+Blum,Joppe,Undirected,4
+Kreti,Ole,Undirected,1
+Kreti,Pieti,Undirected,1
+Per,Zillen,Undirected,2
+Per,devare,Undirected,1
+Engelke,Zillen,Undirected,1
+Joppe,Jørgen,Undirected,1
+Engelke,voxnes,Undirected,2
+Per,Valdemar,Undirected,1
+Svend Grathe,Valdemar,Undirected,2
+Skjolde,Valdemar,Undirected,1
+Ingemanns,Per,Undirected,1
+Jørgen,Per,Undirected,1
+Joppe,Olavia Svendsen,Undirected,1
+Olavias,Per,Undirected,1
+Olavia,Per,Undirected,2
+Joppe,Olavia,Undirected,2
+Faust,Mefistofeles,Undirected,1
+Margrethe,Mefistofeles,Undirected,1
+Holberg,Spielhagens,Undirected,1
+Per,Spielhagens,Undirected,1
+Marie Grubbe,Per,Undirected,1
+Kong Davids,Kong Salomons,Undirected,1
+Poul Strøm,Øberg,Undirected,1
+Svend Hansen,Øberg,Undirected,1
+Stig Høg,Svend Hansen,Undirected,1
+Levvel,Stig Høg,Undirected,2
+Erik Berg,Joppe,Undirected,1
+Joppe,Ole o,Undirected,1
+Joppe,Zillen,Undirected,1
+Blum,Ole Kjærlund,Undirected,1
+Blum,Per,Undirected,15
+Engelke,Ole Kjærlund,Undirected,1
+Lille Joppe,Per,Undirected,1
+Hans,Per,Undirected,1
+Engelke,Ole —,Undirected,1
+Engelke,anO,Undirected,1
+Engelke,lille Fa’,Undirected,1
+Gud,Kristus,Undirected,5
+Hamberg,yar,Undirected,1
+ban,yar,Undirected,1
+Gud,Holberg,Undirected,1
+Hamberg,Vorherre,Undirected,1
+Ole,Vorherre,Undirected,1
+Dandees,hans,Undirected,1
+Gud,t,Undirected,1
+John,t,Undirected,1
+John,Joppe,Undirected,13
+Georg Brandes,Taine,Undirected,1
+Georg Brandes,Joppe,Undirected,1
+Joppe,Olufa,Undirected,11
+John,Zolas,Undirected,1
+Gud,John,Undirected,9
+Engelke,John,Undirected,3
+John,hans,Undirected,3
+John,Per,Undirected,1
+Gud,Joppe,Undirected,1
+John,paany,Undirected,2
+Frøken Kjærlund,John,Undirected,1
+John,Levvel,Undirected,1
+Graad,Levvel,Undirected,1
+Ole,rabundus,Undirected,1
+Per,rabundus,Undirected,1
+Bech,Magnus Bech,Undirected,1
+Per,Sørensen,Undirected,1
+John,Stig,Undirected,2
+Ole,Olufa Borring,Undirected,1
+Olavia Svendsen,Ole,Undirected,1
+Olavia Svendsen,Olufa,Undirected,1
+Olavia,Olufa,Undirected,1
+Gustav,Olufa,Undirected,4
+Magnus Bech,Olufa,Undirected,1
+John,Olufa,Undirected,1
+Gustav,John,Undirected,4
+Gustav,Joppe,Undirected,1
+Borring,Olufa,Undirected,1
+.Olufa,Gud,Undirected,1
+Don Juan,Zillen,Undirected,1
+Beaumonden,Olufa,Undirected,1
+Fribo,Gustav,Undirected,3
+Joppe,Luf,Undirected,1
+Fribo,Olufa,Undirected,2
+Fribo,Joppe,Undirected,18
+Bronce,Fribo,Undirected,1
+Fribo,John,Undirected,21
+Fribo,paany,Undirected,1
+bende,paany,Undirected,1
+Fribo »,K.,Undirected,1
+Joppe,Winthers,Undirected,1
+Olufa,Per,Undirected,1
+Fribo,Per,Undirected,1
+Frederik den,Fribo,Undirected,1
+Joppe,Nik,Undirected,1
+Gud,Lars,Undirected,1
+Engelke,Fribo,Undirected,4
+Blum,Fribo,Undirected,2
+Borring,Engelke,Undirected,1
+Borring,Fribo,Undirected,1
+Holger,Holger Nielsen,Undirected,1
+Fribo,Holger,Undirected,8
+Fribo,Nielsen,Undirected,1
+Gud,Holger Nielsen,Undirected,1
+Fribo,Jakobe,Undirected,1
+Fribo,Kain,Undirected,1
+Fribo,Hagar,Undirected,1
+Holger,Misse,Undirected,7
+Joppe,Misse,Undirected,3
+Fribo,Misse,Undirected,8
+Gud,Holger,Undirected,3
+Holger,Joppe,Undirected,1
+Fribo,Moses,Undirected,1
+Engelke,joppe,Undirected,1
+Kjærlunds,Olufa,Undirected,1
+Fribo,Kjærlunds,Undirected,1
+Gud,Olufa,Undirected,1
+Gud,Philip,Undirected,1
+Misse,Olufa,Undirected,1
+Engelke,Misse,Undirected,1
+Misse,Per,Undirected,1
+Gud,Misse,Undirected,1
+Fribo,Holger Nielsen,Undirected,1
+Holger Nielsen,Misse,Undirected,1
+Fribo,spink,Undirected,1
+es,spink,Undirected,1
+Misse,paany,Undirected,1
+Joppe,Kristus,Undirected,1
+Fribo,Gud,Undirected,2
+Hagar,Kain,Undirected,2
+Kain,Michel Angelos,Undirected,1
+Michel Angelo,Michel Angelos,Undirected,1
+Michel Angelo,Moses,Undirected,1
+Fribo,lian,Undirected,1
+Fribo,Jesus,Undirected,2
+,John,Undirected,1
+John Sten,kjære Fribo,Undirected,1
+J,Misse,Undirected,1
+,o,Undirected,1

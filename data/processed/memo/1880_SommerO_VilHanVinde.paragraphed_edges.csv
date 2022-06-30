@@ -1,0 +1,171 @@
+source,target,type,weight
+Brun,Rosen,Undirected,1
+Elise,Haan,Undirected,1
+Brun,Elise Rosen,Undirected,1
+Brun,mprk,Undirected,1
+Brun,Kaptain Linns,Undirected,1
+Leutnant,Løitnanten,Undirected,1
+Brun,rasf,Undirected,1
+Brun,Elise,Undirected,9
+Brun,Loitnant Brun,Undirected,1
+Gud,hnn,Undirected,3
+Gud,Jakob,Undirected,2
+Grethe,Mo,Undirected,1
+Grethe,Ivan,Undirected,9
+Ivan,Præsfen,Undirected,1
+Ellen,Præsfen,Undirected,1
+Elise,freidig,Undirected,1
+Gud,freidig,Undirected,1
+Gud,Lars Mikkelsen,Undirected,3
+Ivan,Lars Mikkelsen,Undirected,3
+Gud,Ivan,Undirected,1
+Lars,s,Undirected,1
+Holt,Lars Mikkelsen,Undirected,3
+Gud,Holt,Undirected,1
+Elise,Jakob,Undirected,4
+Jakob,hnn,Undirected,1
+Ellegaards,Jomfru Juul,Undirected,1
+Jakob,Jomfru Juul,Undirected,3
+Anna,Jomfru Juul,Undirected,5
+Jakob Gimpel,Jomfru Juul,Undirected,1
+Jomfru Juul,Juul,Undirected,1
+Anna,Elise,Undirected,13
+Anna,Jakob,Undirected,19
+Elise,Karlen,Undirected,1
+Jomfru Juul,Karlen,Undirected,1
+Anna,Karlen,Undirected,1
+Brun,Jomfru Juul,Undirected,1
+Anna,Brun,Undirected,1
+Anna,Madam Torndal,Undirected,2
+Elise,Kudsken,Undirected,1
+Fryken,Kudsken,Undirected,1
+Fryken,Madam Torndal,Undirected,1
+Elise,Madam Torndal,Undirected,2
+Gud,lille Elise,Undirected,1
+Gud,Jomfru Juul,Undirected,2
+Hilda,Rudolfs,Undirected,1
+Fryken Elises,Hilda,Undirected,1
+Krigsraad Linns,Rudolf,Undirected,1
+Papa,Rosen,Undirected,1
+Elise,Rosen,Undirected,1
+Papa,Rudolf,Undirected,1
+Hilda,Papa,Undirected,1
+Elise,tans,Undirected,1
+Brun,tans,Undirected,1
+Elise,Mama,Undirected,4
+Elise,hnn,Undirected,5
+Hnn,hnn,Undirected,2
+Gud,Hnn,Undirected,1
+' Gimpel,Jakob,Undirected,1
+Dein,Deur kjær,Undirected,1
+Brun,Jakob,Undirected,3
+Mama,hnn,Undirected,1
+Elise,nervys,Undirected,1
+Ivan,Karen,Undirected,1
+Elise,Pasforen,Undirected,1
+Gud,Ingrid,Undirected,3
+Ingrid,Karen,Undirected,3
+Ingrid,hnn,Undirected,3
+Holt,Ingrid,Undirected,6
+Ingrid,Lars Mikkelsen,Undirected,4
+Elise,Jomfru Juul,Undirected,2
+Eli fe,Jomfru Juul,Undirected,1
+Jomfru Juul,helsf,Undirected,1
+Frøken Elise,Juul,Undirected,1
+Anna,Juul,Undirected,14
+Elise,Juul,Undirected,1
+Gud,Juul,Undirected,1
+Jakob,Juul,Undirected,11
+Jakob Gimpel,Juul,Undirected,1
+Anna,Hain,Undirected,3
+Anna,hnn,Undirected,3
+Mette,Trine,Undirected,1
+Elise,Ivan,Undirected,3
+Elise,tanse,Undirected,1
+Elise,Ingrid,Undirected,7
+Lars,Lars Mikkelsen,Undirected,3
+,Lars,Undirected,5
+,Ingrid,Undirected,1
+Ingrid,nki,Undirected,1
+Lars,nki,Undirected,1
+Huetpi,Lars,Undirected,1
+Elise,Lars,Undirected,1
+Ingrid,Lars,Undirected,5
+Elise,Papa,Undirected,1
+Hilda,Rudolf,Undirected,1
+Afskedskys,Hnn,Undirected,1
+Brun,Evald,Undirected,1
+Evald,Mama,Undirected,1
+Marsch,edens,Undirected,1
+Evald,hnn,Undirected,1
+Holt,Ivan,Undirected,1
+Elise,Grethe,Undirected,6
+Ivan,lidf,Undirected,1
+Gud,Lars,Undirected,3
+Ivan,Lars,Undirected,5
+Ellen Mikkelsen,Grethe,Undirected,2
+Hnn,Isse,Undirected,1
+Ellen Mikkelsen,Isse,Undirected,1
+Grethe,Lars,Undirected,5
+JvaU^,Lars,Undirected,1
+Elise,Gud,Undirected,2
+hnn,lille Frøken,Undirected,1
+Jakob,Jomfru Juul-,Undirected,1
+Anna,Jomfru Juul-,Undirected,1
+Juul,Pjall,Undirected,1
+Juul,iveien,Undirected,1
+Grobrian,Hallunk,Undirected,1
+Dosmer,Hallunk,Undirected,1
+Dosmer,Juliane Juul,Undirected,1
+Hnn,Juliane Juul,Undirected,1
+Hnn,Jakob,Undirected,1
+Elise,Frn,Undirected,2
+Elise,nei,Undirected,1
+Mama,nng,Undirected,2
+Hilda,Ritraborg,Undirected,2
+Elise,Hilda,Undirected,4
+Elise,Pasfor,Undirected,1
+Holt,Pasfor,Undirected,1
+Frøken Rosen,Holt,Undirected,1
+Anna,Frøken Rosen,Undirected,1
+Elise,Holt,Undirected,2
+Cecilie,høiesfe,Undirected,1
+Evald,høiesfe,Undirected,1
+Dora,Elise,Undirected,3
+Cecilie,Mama,Undirected,1
+Dora,Evald,Undirected,2
+Cecilie,Evald,Undirected,2
+Elise,Marie,Undirected,2
+Holt,hnn,Undirected,1
+Dora,Mama,Undirected,1
+Dora,Holt,Undirected,1
+Elise,Frøken Rosen,Undirected,1
+Lars,hnn,Undirected,2
+Graad,Gud,Undirected,1
+Holt,Lars,Undirected,4
+Lars,Præsfen,Undirected,2
+Holt,Præsfen,Undirected,1
+Lars Mikkelsen,husf,Undirected,1
+Husbonds,Karlen,Undirected,1
+Ingrid,kydsk,Undirected,1
+Elise,kydsk,Undirected,1
+Evald,reis,Undirected,1
+Gud,reis,Undirected,1
+Elise,Evald,Undirected,1
+Hilda,hnn,Undirected,2
+Gud,Rudolf,Undirected,1
+Hilda,glenit,Undirected,1
+Gud,dein,Undirected,1
+Gud,sorn,Undirected,2
+Lars Mikkelsen,Lars sagtmodig,Undirected,1
+Lars,ester,Undirected,1
+Ingrid,ester,Undirected,1
+Brun,Gud,Undirected,1
+Anna,Jakob Gimpel,Undirected,1
+Anna,Juliane,Undirected,1
+Anna,Thorvald,Undirected,1
+Juliane,Thorvald,Undirected,2
+Juliane,Juul,Undirected,1
+Skjælm,Thorvald,Undirected,1
+Juliane,Rosen,Undirected,1
+Holt,Muhamed,Undirected,1

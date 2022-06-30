@@ -1,0 +1,14 @@
+Id,Polarity,Polarity_normalized,Polarity_sentence,Polarity_sentence_normalized,Connections,Connections_normalized,Interactions,Interactions_normalized,Degree,Degree_normalized,Centrality,Centrality_normalized,Betweenness,Betweenness_normalized
+Drossel,0,0,0,0,1,0.0,1,0.0,1,0.0,0.16,0.27,0.0,0.0
+Munk,0,0,0,0,2,0.5,2,0.5,2,0.5,0.32,0.53,0.08,0.47
+Lærkelii,0,0,0,0,2,0.5,2,0.5,2,0.5,0.47,0.78,0.12,0.71
+Sisken,0,0,0,0,3,1.0,3,1.0,3,1.0,0.6,1.0,0.17,1.0
+Viben,0,0,0,0,2,0.5,2,0.5,2,0.5,0.41,0.68,0.08,0.47
+Tue,0,0,0,0,1,0.0,1,0.0,1,0.0,0.21,0.35,0.0,0.0
+Aakanden,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Valmuens,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Siskenen,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+taus,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Gitt,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+e-gitte-git,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Irisk,0,0,0,0,1,0.0,1,0.0,1,0.0,0.3,0.5,0.0,0.0

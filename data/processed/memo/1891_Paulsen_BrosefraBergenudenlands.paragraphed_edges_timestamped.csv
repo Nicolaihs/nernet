@@ -1,0 +1,736 @@
+source,target,timestamp
+Brose,Siewertsen,1
+Brose,Jettemor,1
+Jettemor,Ulriken,1
+Brose,Ulriken,1
+Brose,Jettemor,1
+Jettemor,Siewertsen,1
+Gert Westphaler,Siewertsen,2
+Jettemor,gammelost,3
+Roquefort,gammelost,3
+Brose,Roquefort,3
+Brose,Siewertsen,6
+Jettemor,Napoleons,7
+Napoleons,Thiers,7
+Napoleon,Thiers,7
+Bernadotte,Napoleon,7
+Bernadotte,Ney,7
+Siewertsen,høgt,9
+Brose,høgt,9
+Brose,Petronelle,9
+Petronelle,Siewertsen,9
+Brose,Jettemor,10
+Jette-mor,Jettemor,12
+Brose,Jettemor,17
+Brose,Jettemor,17
+Marius,kelt,18
+Marius,Øhlenschlæger,23
+Ole Buil,Øhlenschlæger,23
+Ole Buil,frøken Jensen,23
+Per Kristian,frøken Jensen,23
+Per Kristian,Tassos,23
+principalens,torret ningsmand,27
+Brose,Siewertsen,28
+Brose,Siewertsen,28
+Brose,Wenche Konow,28
+Wenche,Wenche Konow,28
+Brose,jomfru Hermansen,29
+Brose,jomfru Hermansen,29
+Brose,Jomfru Hermansen,29
+Jomfru Hermansen,stelle,29
+Brose,jomfru Hermansen,30
+Brose,jomfru Hermansen,31
+Brose,Hermansen,31
+Brose,Hermansen,31
+Brose,høilig,31
+Brose,høilig,31
+Brose,Jettemor,31
+Jettemor,Margrethe,31
+Jettemor,Siewertsen,33
+Brose,Karens,36
+Karen,Karens,36
+Jettemor,madame,37
+Jettemor,madam,38
+eg,madam,38
+Brose,eg,38
+Brose,Meyer,38
+Brose,Thiers,40
+Jettemor,Thiers,40
+Jettemor,Karen,40
+Karen,Napoleon,40
+Brose,Napoleon,40
+Brose,Jettemor,40
+Brose,Jettemor,43
+Brose,Jettemor,43
+Brose,Jettemor,47
+Jettemor,Ulriken,47
+Mons,Ulriken,47
+Brose,Petronelle,48
+Jettemor,Ulriken,52
+Eg,eg,53
+Eg,eg,53
+Eg,eg,53
+Jettemor,Siewertsen,55
+Jettemor,Siewertsen,55
+Jettemor,madam Erpekam,56
+Jettemor,madam Erpekam,56
+Brose,Jettemor,58
+Jettemor,Mons,59
+Brose,Jettemor,60
+Jettemor,Petronelle,60
+Jettemor,Petronelle,60
+Jettemor,Petronelle,62
+Jettemor,Petronelle,62
+Brose,Jettemor,63
+Petronelle,Rasch,64
+Brose,Rasch,64
+Jette,Jettemor,65
+Jettemor,Petronelle,66
+Petronelle,Tante Petronelle,66
+Jettemor,Tante Petronelle,66
+Jettemor,tante Petronelles,68
+Jettemor,Petronelle,69
+Marius,Petronelle,70
+Jette,Petronelle,70
+Jette,guds,70
+Brose,Jettemor,71
+Brose,Petronelle,71
+Jettemor,Petronelle,73
+Petronelle,lykkets,74
+Brose,lykkets,74
+Siewertsen,madame Evremond,75
+Jettemor,madame Evremond,75
+Jettemor,Siewertsen,75
+Jettemor,Siewertsen,75
+Brose,Jettemor,75
+Brose,Jettemor,76
+Brose,Jettemor,77
+Jettemor,Ulriken,77
+Jettemor,Petronelle,79
+Mons,Petronelle,79
+Mons,Petronelle,79
+Mons,Petronelle,80
+Jettemor,Mons,80
+Jettemor,Petronelle,80
+Petronelle,guds,81
+Jettemor,liv,82
+Jettemor,Marius Brose,83
+Jettemor,Siewertsen,83
+Brose,Karen,86
+Brose,Bædecker,88
+Brose,Jettemor,89
+Brose,Jettemor,90
+Brose,Napoleon,90
+Brose,Ulriken,93
+Brose,Napoleon,94
+Brose,Jettemor,95
+Brose,Jettemor,95
+Brose,Jettemor,98
+Jettemor,Napoleon,98
+Jettemor,Marius Brose,100
+Jettemor,Marius Brose,100
+Eg,Jettemor,101
+Brose,Jettemor,104
+Brose,Figaro,104
+Brose,Merci,105
+Brose,påny,107
+Merci,påny,107
+Brose,Napoleon,108
+Monsieur Mercisilvousplait,Napoleon,108
+Jettemor,tante Petronelle,109
+Brose,tante Petronelle,109
+Brose,Jettemor,110
+Brose,Murillos,114
+Jettemor,di,117
+Jason,Jettemor,118
+Jason,Jettemor,118
+Brose,Jettemor,118
+Psyche,Rafael,119
+Murillo,Rafael,119
+Murillo,Phidias,119
+Phidias,enthousiasme,119
+Brose,Petronelle,122
+Petronelle,haken,122
+Agrippina,Neros,123
+Brose,Neros,123
+Brose,madam Jeremiassen,124
+Jettemor,haken,126
+Brose,Titus,127
+Brose,Jettemor,128
+Hututu,Jettemor,131
+Brose,Hututu,131
+Brose,Jettemor,131
+Jettemor,eied,132
+Jettemor,eied,132
+Brose,Jettemor,133
+Brose,Jettemor,134
+Jettemor,hare,135
+Brose,Eg,144
+Brose,Eg,146
+Eg,eg,146
+Brose,eg,149
+Brose,eg,149
+Eg,eg,149
+Brose,Jettemor,151
+Brose,Marie Antoinette,151
+Marie Antoinette,Napoleon,152
+Brose,Napoleon,153
+Moskous,Napoleon,153
+Brose,Moskous,153
+Brose,Marie Antoinette,153
+Jettemor,Mehren,154
+Jettemor,Marie Antoinette,155
+Jettemor,Marie Antoinette,155
+Jettemor,madame,155
+ciceronen,madame,155
+Brose,ciceronen,155
+Brose,Jettemor,155
+Jettemor,guds,156
+Brose,guds,156
+Brose,Jettemor,156
+Jettemor,Mirabeau,156
+Goethe,Mirabeau,156
+Goethe,Schiller,156
+Schiller,Verweile,156
+Verweile,augenblich,156
+augenblich,zu,156
+Brose,Trianon,159
+Brose,Jettemor,160
+Brose,Jettemor,162
+Brose,Trianon,166
+Jettemor,Trianon,166
+Jettemor,Marie Antoinette,166
+Henriette Brose,Tante Petronelle,167
+Henriette Brose,Hermansen,167
+Gottliebs,Lille Nelly,169
+Gottliebs,madame Schwanenflügel,169
+Anne,madame Schwanenflügel,169
+Anne,Wenche,169
+Mina,Wenche,169
+Mina,Thinka,169
+Thinka,gratulation,169
+Annas,gratulation,169
+Annas,Jenny,169
+Anne,Jenny,169
+Anne,Tinka,169
+Jonas Lies,Mina,170
+Jonas Lies,Wenche,170
+Didrik,Dorthea,171
+Dorthea,Jette,171
+Didrik,Jette,171
+Didrik,Dorthea,172
+Jensine,Mons,173
+Jensine,Mons,173
+Jensine,Mons,173
+Brose,Jensine,173
+Brose,Mons,173
+Jensine,Mons,173
+Mons,Monsen,174
+Mons,Monsen,174
+Beate Rohde,Schulz,175
+Kruses,Schulz,175
+Dorthea,Jette,176
+Dorthea,Marius,176
+Marius,Nelly Monsen,176
+Brose,Petronelle,178
+Brose,Petronelle,178
+Jettemor,Petronelle,178
+Inger Malene,Jettemor,178
+Inger Malene,Siste,178
+Malene,Siste,178
+Brose,Jettemor,179
+Brose,Jettemor,180
+Brose,Jettemor,181
+Jettemor,Napoleon,181
+Jettemor,Napoleon,181
+Jettemor,keiser,181
+Brose,keiser,181
+Brose,Jettemor,181
+Brose,Jettemor,182
+Hudson Lowe,keiseren,183
+Jettemor,Siewertsen,184
+Didrik,Siewertsen,184
+Didrik,Dorthea,184
+Brose,Jette,187
+Brose,Jettemor,189
+Brose,Jettemor,189
+Brose,Siewertsen,189
+Petronelle,Siewertsen,189
+Jettemor,Petronelle,189
+Brose,Jettemor,191
+Jettemor,madame Juliette de la Farandolle,192
+Brose,madame Juliette de la Farandolle,192
+Brose,George Sand,193
+Brose,George Sand,193
+Brose,Brose keg,193
+Brose keg,Jettemor,193
+Jettemor,madame Juliette,195
+Brose,Jettemor,199
+Brose,Jettemor,199
+George Sand,Jettemor,199
+George Sand,madame Juliette,199
+Brose,Jettemor,204
+Jettemor,Petronelle,204
+Petronelle,guds,204
+Petronelle,guds,204
+madame Juliette,monoclen,205
+Jettemor,Madame Juliette,207
+Brose,Jettemor,208
+Brose,madame Juliette,208
+Jettemor,madame Juliette,208
+Brose,madame Juliette,209
+Brose,Jettemor,212
+Brose,Jettemor,214
+Brose,Petronelle,218
+Brose,eg,219
+Jettemor,eg,219
+Jettemor,Judas,221
+Brose,Jettemor,222
+Brose,Jettemor,223
+Brose,Louis,223
+Jettemor,Juliette de la Farandolle,224
+Liszt —,Martin,226
+Brose,Martin,226
+Brose,Drueblod,226
+Brose,Juliette,233
+Brose,George,233
+George,mon ami,233
+Brose,donna,234
+Jettemor,madame Juliette,236
+Jettemor,Marius Brose,236
+Marius Brose,madame Juliette,236
+Jettemor,madame Juliette,236
+Brose,Jettemor,236
+Brose,Napoleon,237
+Brose,Jettemor,238
+Jettemor,stakkers Jettemor,238
+Jettemor,madam Jokkumsen,241
+madam,madam Jokkumsen,241
+Jettemor,madam Jokkumsen,243
+Jettemor,madam Jokkumsen,243
+Brose,Jettemor,243
+Di,madam Jokkumsen,244
+Di,madam Jokkumsen,244
+Di,Per Lascheis,244
+Per Lascheis,madam Jokkumsen,244
+Jettemor,madam Jokkumsen,246
+Di,Jettemor,246
+Di,di,246
+di,maddam Jokkumsen,246
+Madam Jok-kumsen,paven,250
+Jettemor,Siewertsen,253
+Jettemor,Siewertsen,253
+Eufemia,Jettemor,253
+Brose,madammen,254
+gud,madammen,254
+Madame Jokkumsen,påny,255
+Pierre,påny,255
+Jettemor,Pierre,255
+Jettemor,madame,257
+madam Jokumsen,steiled,260
+Jettemor,madam Jokkumsen,262
+Jettemor,madam Jokkumsen,263
+Jettemor,Juliette,263
+Brose,Juliette,263
+Jettemor,madam Jokkumsen,265
+Eg,Jettemor,270
+Eg,eg,270
+Eg,eg,270
+Brose,eg,272
+Brose,eg,272
+Brose,Jettemor,278
+Jettemor,madam Jokkumsen,278
+madam Jokkumsen,madame Juliette,278
+Brose,Jettemor,279
+Brose,Jettemor,280
+Brose,hine tøiter,280
+Brose,hine tøiter,280
+Eg,eg,285
+Eg,eg,285
+Brose,Jettemor,286
+Brose,Jettemor,287
+Brose,Madame de la Farandolles,291
+Brose,Georg-Reneé-Alfred,291
+Georg-Reneé-Alfred,madame Juliette,291
+Brose,madame Juliette,291
+Brose,Jettemor,291
+Jettemor,reisaus,291
+Jettemor,reisaus,291
+Brose,Jettemor,291
+Eg,Jettemor,292
+Brose,Madam de la Farandolle,301
+Brose,Sarah Bernhardt,303
+Brose,Jettemor,303
+Jettemor,madame Juliette,303
+Donna Sol,madame Juliette,303
+Donna Sol,Viktor Hugos,303
+Eg,Jettemor,304
+Brose,eg,305
+Brose,Jettemor,308
+Jettemor,Petronelle,308
+Brose,Petronelle,308
+Jason,Jettemor,310
+Jettemor,Mons,313
+Brose,Jettemor,318
+Brose,Jettemor,318
+Prenez garde,madame,319
+Henriette Brose,madam Jokkumsen,322
+Drøbak,madam Jokkumsen,322
+Brose,Drøbak,322
+Mac Mahon,gamins,323
+Jettemor,sympathi,324
+Brose,Jettemor,326
+Brose,Jettemor,328
+Brose,Jettemor,328
+Brose,Jettemor,328
+Brose,Jettemor,329
+Jettemor,påny,329
+Brose,Jettemor,330
+Jettemor,Napoleon,330
+Marius Brose,Napoleon,330
+Brose,Jettemor,335
+Brose,Jettemor,336
+Brose,Jettemor,336
+Brose,Jettemor,336
+Henriette Brose,Petronelle Monsen,337
+Brose,Karen,340
+Brose,Dorthe,341
+Dorthe,Petronelle,341
+Brose,Thoresen,342
+Jette Hermansen,Thoresen,342
+Jette Hermansen,løi Brose,342
+Brose,tru Jokumsen,343
+Brose,Petronelle,344
+Lauis,Petronelle,345
+Petronelle,Siewertsen,345
+Brose,Petronelle,346
+Brose,madam Erpekam,346
+Karen,Siewertsen,347
+Brose,Siewertsen,347
+Brose,Petronelle,348
+Brose,Petronelle,348
+Mons,Petronelle,350
+Brose,Karen,351
+Brose,Karen,351
+Brose,Siewertsen,353
+Anna og,Siewertsen,353
+Anna og,Tinka,353
+Mina,Tinka,353
+Didrik,Mina,353
+Didrik,Dorthe,353
+Dorthe,Henriette Brose,353
+Brose,Siewertsen,354
+Blom,Brose,354
+Brose,Napoleon,355
+Napoleon,kusks,355
+Jettemor,kusks,355
+Brose,Jettemor,355
+Brose,Jettemor,355
+Jettemor,madam Jokkumsen,356
+Brose,Jettemor,356
+Brose,Jettemor,356
+Jettemor,Madam Jokkumsen,356
+Brose,Jettemor,357
+Jettemor,madam Jokkumsen,360
+jysses,paven,361
+Gregorovius,Jettemor,363
+Hututu,Napoleon,364
+hr. Brose,sjøl,365
+madam,sjøl,365
+Jokkumsens,madam,365
+Jettemor,madam Jokkumsen,367
+Jettemor,madam Jokkumsen,367
+Huhei,jagu,371
+Brose,donna,372
+donna,madame Juliette,372
+Brose,madame Juliette,372
+Jettemor,Madam Jokkumsen,373
+Brose,Di,374
+Jettemor,Madam Jokkumsen,376
+Germoise,madam Jokkumsen,379
+Brose,Madam Jokkumsen,380
+Brose,madam Jokkumsen,381
+Brose,madam Jokkumsen,382
+Jettemor,madam Jokkumsen,382
+Brose,Jettemor,382
+Brose,Jettemor,383
+Brose,Jan Didriks,388
+Jan Didriks,Jettemor,388
+Brose,Jettemor,390
+Eg,Jettemor,391
+Eg,Jettemor,391
+Brose,madam Jokkumsen,395
+Brose,Jettemor,395
+Brose,Sievertsen,397
+Brose,Sievertsen,397
+Brose,Napoleon,397
+Jettemor,Stakkers Brose,398
+Brose,Jettemor,399
+Brose,Hyss,401
+Brose,Jettemor,402
+Brose,Jettemor,404
+Brose,Jettemor,407
+Brose,Jettemor,408
+Brose,Jettemor,409
+Brose,Jettemor,413
+Jettemor,Romas,415
+Brose,niente,417
+Brose,Jettemor,417
+Brose,Siewertsen,418
+Eg,Jokkumsen,419
+Jettemor,Jokkumsen,419
+Jettemor,eg,424
+Jettemor,Ulriken,424
+Jettemor,eg,425
+Jettemor,eg,425
+bjørker,eg,425
+bjørker,di,425
+Brose,Jettemor,426
+Brose,Jettemor,426
+Brose,Trine,427
+Brose,Jettemor,434
+Michel Angelos,Schiller,435
+Jettemor,Michel Angelo,436
+Michel Angelo,Mikaelsen,436
+Brose,Mikaelsen,436
+Brose,Jettemor,436
+Jettemor,madam Erpe-kam,436
+Jettemor,madam Erpe-kam,436
+Brose,Funny oldgentleman,438
+Funny oldgentleman,Jettemor,438
+Brose,Jettemor,438
+Brose,Jettemor,438
+Jettemor,madam Jokkumsen,441
+Drøbak,madam Jokkumsen,441
+Drøbak,Jettemor,441
+Brose,Jettemor,441
+di,madam Jokkumsen,444
+Brose,Jettemor,445
+Brose,Jettemor,450
+Brose,Jettemor,454
+Jettemor,madammen,454
+Jettemor,skrek,456
+Brose,Jettemor,460
+Briccone,mutter,462
+Brose,Jettemor,463
+Brose,Jettemor,463
+Brose,madam Jok-kumsen,465
+Jettemor,madam Jok-kumsen,465
+Brose,Tys,467
+Jettemor,Tys,467
+Jokkumsen,Påny,468
+Ibsen,paven,469
+Ibsen,Jettemor,473
+Jettemor,eiterte,475
+Ibsen,madam Jokkumsen,476
+Ibsen,reisaus,476
+Brose,madam Jokkumsen,478
+Nora,hu,479
+Nei Ibsen,han Ibsen,482
+Brose,Jettemor,483
+Jettemor,Madam Jokkumsen,483
+Jettemor,Siewertsen,486
+Jan Didrik,Siewertsen,486
+Jan Didrik,Mons,486
+Eviva,Jettemor,487
+Jettemor,madam Jokkumsen,487
+Brose,madam Jokkumsen,487
+Brose,Jettemor,487
+Jettemor,madam Jokkumsen,487
+domino,madam Jokkumsen,487
+Jettemor,domino,487
+Brose,Juliette,488
+Jettemor,Juliette,488
+Jettemor,madam Jokkumsen,488
+Brose,Jettemor,489
+Brose,Jettemor,489
+Brose,gutten,489
+Brose,Signoraen,490
+Jettemor,madam Jokkumsen,491
+Jettemor,madam Jokkumsen,491
+Brose,Jettemor,492
+Jettemor,madam Jokkumsen,492
+Jettemor,madam Jokkumsen,492
+Jettemor,madam Jokkumsen,492
+Brose,signora,494
+Brose,signora,494
+Brose,Jettemor,494
+Jettemor,madam Jokkumsen,494
+Brose,madam Jokkumsen,494
+Brose,Jettemor,494
+Brose,Jettemor,494
+Brose,madam Jokkumsen,494
+Brose,Jettemor,495
+Brose,madam Jokkumsen,495
+Drøbak,Madam Jokkumsen,497
+Drøbak,Terpsichores,497
+Terpsichores,tarantella,497
+Jettemor,tarantella,497
+Jettemor,gud,497
+Jokkumsen,gud,497
+Huhei,Jokkumsen,497
+Huhei,Jettemor,497
+Jettemor,di,497
+domino,madam Jokkumsen,498
+Jokkumsen,domino,498
+Jokkumsen,ublid,498
+madam Jokkumsen,ublid,498
+gud,råpte,502
+Jettemor,råpte,502
+Beppo,donna,503
+Jettemor,råpte,504
+Jettemor,Jokkumsen,504
+Eg,Jokkumsen,504
+Eg,Jettemor,504
+Jettemor,tiara,505
+Jettemor,madam Jokkumsen,506
+Di,Jettemor,506
+Di,ikje,506
+Jokkumsen,ikje,506
+Jettemor,Jokkumsen,506
+Brose,madam Jokkumsen,507
+Jettemor,madam Jokkumsen,507
+Brose,Jette,508
+Brose,madam Jokkumsen,514
+Brose,Jettemor,514
+Brose,Jettemor,515
+Jettemor,madam Jokkumsen,515
+Jettemor,madam Jokkumsen,515
+Brose,Jettemor,516
+Brose,Jettemor,518
+Brose,Jettemor,518
+Humles,Jettemor,519
+Brose,afveied Homers,520
+Homer,afveied Homers,520
+Antinous Humles,Homer,520
+Antinous Humles,Brose,520
+Hamlet,Shakespeare,525
+Brose,Jettemor,526
+Brose,Jettemor,529
+Brose,la Bellmann,532
+Brose,Jettemor,533
+Lona,snille,538
+Lona,iveien,541
+Jettemor,eg,543
+Lona,Maren kokke,545
+Brose,Jettemor,547
+Lona,Lorentzmand,548
+Lona,gud,554
+Lona,S.,555
+Jettemor,gud,562
+Di,Lona,564
+Di,Lona,564
+Di,Lona,564
+Brose,Di,564
+Lorentzmand,hin graverkars,565
+Lona,bent,567
+Hansen,Lona,571
+Luthers,Pontoppidans,573
+Lona,Lorentz,575
+Lona,Stanleys,579
+Brose,madam Jokkumsen,583
+Lona,madam Jokkumsen,583
+Jettemor,Wenche Konow,585
+Jettemor,Wenche,586
+Brose,Wenche,586
+Brose,Jettemor,587
+Jokkumsen,madam,589
+Brose,Jokkumsen,589
+Brose,Jettemor,591
+Brose,madam Jokkumsen,592
+Brose,Jettemor,592
+Jettemor,Per Gynt,592
+Per Gynt,di,592
+Brose,Lona,593
+Brose,Jettemor,595
+Brose,Lona,597
+Brose,Este,598
+domino,madam Jokkumsen,600
+Ibsen,domino,600
+han Ibsen,madam Jokkumsen,602
+Homer,Ibsen,603
+Nora,hu,604
+Diotima,Druen,606
+Diotima,madam Jokkumsen,606
+Diotima,madam Jokkumsen,606
+Diotima,Sokrates,606
+Jettemor,Lona,608
+Mads,råpte,609
+Jettemor,råpte,609
+Jettemor,høilig,609
+høilig,madame Juliette,609
+Brose,Lona,614
+Lona,reises,614
+frøken Lona,sali,617
+Lona,madam Jokkumsen,618
+Lona,madam Jokkumsen,618
+faldera,trailera,619
+Hon,Jettemor,621
+Hon,Jettemor,621
+Brose,madam Jokkumsen,622
+Jettemor,madam Jokkumsen,622
+Platons,madam Jokkumsen,626
+Brose,Madam Jokkumsen,629
+Lona,Madam Jokkumsen,629
+Brose,Lona,629
+Antinous,Brose,629
+Antinous,Brose,629
+Brose,Hellas,629
+Hellas,Jettemor,629
+Jettemor,Lona,629
+Lona,lykkesrus,629
+Brose,Lona,630
+Lona,hu,630
+hu,madam Jokkumsen,630
+Hossen,madam Jokkumsen,630
+Bravo,råpte,635
+Brose,råpte,635
+Venus,signor Pasquales,637
+Drøbak,madam Jokkumsen,638
+Fratello miok,miok,640
+Fratello miok,madam Jokkumsen,640
+Jettemor,madam Jokkumsen,642
+Brose,Jettemor,645
+Jettemor,Petronelle,646
+Jettemor,Tinka,646
+Mina,Tinka,646
+Jan Didrik,Mina,646
+Dorthe,Jan Didrik,646
+Brose,madam Jokkumsen,648
+Jettemor,signor Pasquales,650
+Brose,Jettemor,650
+Brose,Jettemor,650
+Jettemor,Lona,650
+Lona,madam Jokkumsen,650
+madam Jokkumsen,signor Pasquale,650
+Jettemor,Madam Jokkumsen,653
+Brose,Jettemor,653
+Brose,Lona,653
+Jettemor,madam Jokkumsen,654
+Jettemor,madam Jokkumsen,654
+Jettemor,Ulriken,657
+Jansons,Jettemor,658
+Brose,Jettemor,658
+Brose,Jettemor,659
+Brose,Jettemor,659
+Jettemor,Ulrikens top,659
+Jettemor,Petronelle,661
+Mons,Petronelle,661
+Brose,Marius Brose,663
+Brose,Marius Brose,663
+Brose,madam,663
+Jokkumsen,madam,663
+Jettemor,Jettemor Walkendorfstårnet,664
+Brose,Jettemor Walkendorfstårnet,664
+Brose,gud,664
+Ole Buli,gud,664
+Jettemor,råpte,666
+Jettemor,ikvæld,667
+Dorthe,Jan Didrik,671
+Jan Didrik,Karen,671
+Karen,hon,671
+Jettemor,eg,673
+Eg,Jettemor,673
+Eg,eg,673
+Tøiet,eg,673
+Tøiet,iland,673

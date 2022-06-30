@@ -1,0 +1,96 @@
+source,target,type,weight
+H. F. Ewalds,Strindberg,Undirected,1
+Gud,véd,Undirected,4
+Frøken Storm,Gud,Undirected,1
+Frøken Storm,j e,Undirected,1
+Hansen,Laps,Undirected,1
+Noah,lian,Undirected,1
+Elna,Gerda,Undirected,1
+Bentine,Gerda,Undirected,1
+Bentine,Elisabeth,Undirected,1
+Elisabeth,Ulla,Undirected,3
+Elna,Ulla,Undirected,1
+Elisabeth,Elna,Undirected,1
+løfobolil,zog,Undirected,1
+Methusalems,P.,Undirected,1
+Aledium,Nik,Undirected,1
+Aledium,Ulla,Undirected,1
+Anna,Ulla,Undirected,2
+Alen,Anna,Undirected,1
+Nik,Poul,Undirected,1
+Franciska,gala,Undirected,1
+Elisabeth,Gerda,Undirected,1
+Gud,Nik,Undirected,1
+Emil,Zangenberg,Undirected,2
+Dante,Emil,Undirected,1
+Dante,Zangenberg,Undirected,1
+Johanne Lange,Lisbeth,Undirected,1
+Ingeborg Knudsen,Johanne Lange,Undirected,1
+Ingeborg Knudsen,Sofie Strandgaard,Undirected,1
+Emma Petersen,Sofie Strandgaard,Undirected,1
+Emma,Emma Petersen,Undirected,1
+Emma,William Jensen,Undirected,1
+Georg Jacobsen,William Jensen,Undirected,1
+Georg Jacobsen,Otto Beck,Undirected,1
+Otto Beck,Peter Nielsen,Undirected,1
+Peter Nielsen,lille August Bang,Undirected,1
+Lisbeth,lille August Bang,Undirected,1
+Lisbeth,Rudolphs,Undirected,1
+Andersen,Zangenberg,Undirected,2
+Aloder,Andersen,Undirected,1
+Aloder,Ranch,Undirected,1
+Andersen,Ranch,Undirected,1
+Andersen,Filippine,Undirected,1
+Andersen,Frøken Petersen,Undirected,1
+Baba,Lyly,Undirected,3
+Jensen,illae lacrymae,Undirected,1
+Karoline Nielsen,Sørensen,Undirected,1
+Emilie,Gud,Undirected,1
+Emilie,Moll,Undirected,1
+Boulangers,Lumbyes,Undirected,1
+J,Lumbyes,Undirected,1
+Alan,Gud,Undirected,1
+Gud,Juliane,Undirected,3
+Gud,Petersen,Undirected,9
+Juliane,Petersen,Undirected,9
+Jensen,Petersen,Undirected,1
+Hansen,Jensen,Undirected,1
+Hansen,Nielsen,Undirected,1
+Karl,Petersen,Undirected,1
+Christensen,Petersen,Undirected,1
+Es,Gud,Undirected,1
+Es,Estrup,Undirected,1
+Bonjour,Juliane,Undirected,1
+Bonjour,monsieur,Undirected,1
+Antonin Pruh,Proust,Undirected,1
+Juliane,Proust,Undirected,1
+Petersen,sie sind,Undirected,1
+Petersen,wider,Undirected,1
+Gud,Kainz,Undirected,1
+Kainz,mich,Undirected,1
+Barkany,Kainz,Undirected,1
+Gud,wollen,Undirected,1
+wissen,wollen,Undirected,1
+Julie,Petersen,Undirected,2
+Juliane,Kainz,Undirected,1
+Juliane,zwei,Undirected,2
+Guter Nacht,Petersen,Undirected,1
+Søren,j,Undirected,1
+Juliane,Søren,Undirected,1
+Hansen,Petersen,Undirected,4
+Henriksens,Juliane,Undirected,1
+Henriksens,Poulsens,Undirected,1
+Jørgensens,Poulsens,Undirected,1
+Juliane,Jørgensens,Undirected,1
+Juliane,jegda,Undirected,1
+Hansen,Juliane,Undirected,4
+Elvad,Petersen,Undirected,1
+Juliane,Katinka,Undirected,1
+Juliane,Valdemar,Undirected,1
+Petersen,Valdemar,Undirected,1
+Hansen,Sørensen,Undirected,1
+Sørensen,Sørensen-Hansen,Undirected,1
+Hansen-Sørensen,Sørensen-Hansen,Undirected,1
+Hansen-Sørensen,Hansæn,Undirected,1
+Hansæn,Juliane,Undirected,1
+Juliane,Magnus Hansen,Undirected,2

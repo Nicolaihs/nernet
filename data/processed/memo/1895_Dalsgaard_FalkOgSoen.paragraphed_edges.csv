@@ -1,0 +1,165 @@
+source,target,type,weight
+Gud,Otto,Undirected,7
+Ida,Otto,Undirected,15
+Ida,Jesus,Undirected,1
+Falks,Ida,Undirected,1
+Gud,Ida,Undirected,2
+Falk,Otto,Undirected,11
+Falk,lille Idas,Undirected,1
+Falk,Konsul Falk,Undirected,1
+Erik Falk,Husbond,Undirected,1
+Falk,Husbond,Undirected,1
+Falk,Nathalie,Undirected,2
+Graas,Ingeborg,Undirected,1
+Frøken Graa,Sophie,Undirected,1
+Falk,Holm,Undirected,2
+Oren,Otto,Undirected,1
+Oren,Spang,Undirected,1
+Graa,Stampe,Undirected,1
+Falk,Graa,Undirected,2
+Ingeborg,Otto,Undirected,9
+Henrik Spangs,Otto,Undirected,1
+Frøken Graa,Spang,Undirected,1
+Henriks,Otto,Undirected,1
+Sophie Hein,Stampe,Undirected,1
+Ingeborg Graa,Spang,Undirected,2
+Ingeborg Graa,Stampe,Undirected,2
+Ingeborg,Stampe,Undirected,2
+Henrik Spang,Otto Falk,Undirected,1
+Otto,Otto Falk,Undirected,5
+Graa,Henrik,Undirected,1
+Graa,Spang,Undirected,2
+Henrik,Otto,Undirected,5
+Henrik,Ingeborg,Undirected,5
+Ingeborg,Spang,Undirected,3
+Holm,Spang,Undirected,3
+Holm,Sophie Hein,Undirected,1
+Henrik Ingeborg,Sophie Hein,Undirected,1
+Henrik Ingeborg,Otto,Undirected,1
+Falk,Ingeborg,Undirected,3
+Graa,Henrik Spang,Undirected,2
+Falk,Stampe,Undirected,4
+Stampe,con amore,Undirected,1
+Henrik Spang,Ingeborg,Undirected,5
+Ingeborg,Sophie Hein,Undirected,1
+Otto Falk,Sophie Hein,Undirected,1
+Graa,Otto Falk,Undirected,1
+Otto,Spang,Undirected,1
+Henrik Spang,Ingeborg Graa,Undirected,1
+Ingeborg Graa,Otto,Undirected,3
+Ingeborg,Ingeborg Graa,Undirected,1
+Henrik,Ingeborg Graa,Undirected,1
+Ingeborg Graa,Sophie Hein,Undirected,1
+Holm,Sophie,Undirected,2
+Holm,Ingeborg,Undirected,2
+Ingeborg,Sophie,Undirected,1
+Ingeborg,Sopie,Undirected,1
+Falk,Sophie,Undirected,1
+Falk,Otto Falk,Undirected,2
+Graa,Ingeborg,Undirected,1
+Graa,Konsul Falk,Undirected,1
+Gud,Henrik,Undirected,2
+Henrik Spang,Vilhelm Stampe,Undirected,1
+Henrik Vilhelm Stampe,Vilhelm,Undirected,1
+Gud,Ingeborg,Undirected,1
+Gud,Holm,Undirected,1
+Holm,Stampe,Undirected,1
+Holm,Otto Falk,Undirected,1
+Konsul Falk,Vilhelm Stampe,Undirected,1
+Spang,Stampe,Undirected,1
+Otto,Stampe,Undirected,11
+Erik Falk,Otto,Undirected,1
+Gud,Stampe,Undirected,1
+Grev Rosen,Greven,Undirected,1
+Komtessen,Otto Falk,Undirected,2
+Greven,Stampe,Undirected,1
+Mimi,Otto,Undirected,1
+Frøken Haslund,Hr. Falk,Undirected,1
+Komtessen,Mimi,Undirected,1
+Komtessen,Otto,Undirected,5
+Cicerone,Otto,Undirected,1
+Cicerone,Stampe,Undirected,1
+Otto Falk,Stampe,Undirected,3
+Greven,Otto Falk,Undirected,1
+Greven,Otto,Undirected,1
+Mimi Rosen,Otto,Undirected,1
+Idal,Mimi,Undirected,1
+Fader,Ida,Undirected,1
+Fader,Hr. Falk,Undirected,1
+Falk,Ida,Undirected,7
+Frøken Haslund,Stampe,Undirected,1
+Ida,Mimi,Undirected,8
+Charlotte,Otto Falk,Undirected,2
+Charlotte,Ida Haslund,Undirected,4
+Charlotte,Frøken Haslund,Undirected,1
+Konsul Falk,Stampe,Undirected,1
+Ida Haslund,Otto,Undirected,2
+Bravo,Stampe,Undirected,1
+Charlotte,Otto,Undirected,14
+Grev Rosen,Stampe,Undirected,2
+Grev Rosen,Otto,Undirected,1
+Grev.,Otto,Undirected,1
+Grev.,Rosens,Undirected,1
+Ida Haslund,Rosens,Undirected,1
+Charlotte,Komtessen,Undirected,4
+Ida Haslund,Komtessen,Undirected,1
+Ida,Ida Haslund,Undirected,2
+Charlotte,Ida,Undirected,1
+Dronning Filippas,Otto,Undirected,1
+Kong Erik,Soer,Undirected,1
+Henrik den,Ida Haslund,Undirected,1
+Gud,Ida Haslund,Undirected,1
+Filippa,Gud,Undirected,1
+Filippa,Mø,Undirected,1
+Ingeborg Stampes,Mø,Undirected,1
+Otto,Vilhelm,Undirected,1
+Komtessen,Stampe,Undirected,1
+Hrr,Komtessen,Undirected,1
+Frøken Haslund,Otto,Undirected,1
+Otto,Skaal,Undirected,2
+Grev Rosen,Otto Falk,Undirected,1
+Otto Falk,vetturini,Undirected,1
+Charlotte,Øtto,Undirected,1
+Ida Haslund,Mimi,Undirected,3
+Komtesse,Otto,Undirected,1
+Ida Haslund,Stampe,Undirected,1
+Montecchi,Otto,Undirected,1
+Montecchi,Romeo,Undirected,1
+Julie,Romeo,Undirected,1
+Julie,il banditto,Undirected,1
+Frøken Haslund,Komtessen,Undirected,1
+Signor,Signora,Undirected,1
+Charlotte,Mimi,Undirected,3
+Ida,Komtessen,Undirected,2
+Charlotte,Grev Rosen,Undirected,1
+Ida Haslund,Otto Falk,Undirected,1
+Ida Haslund,Mimi Rosen,Undirected,1
+Mimi,Øtto,Undirected,1
+Frøken Haslund,Mimi,Undirected,1
+Charlotte,Hr. Falk,Undirected,1
+Falk,Mimi,Undirected,1
+Charlotte,Falk,Undirected,1
+Falk,Oren,Undirected,1
+Otto,liendes,Undirected,1
+Ida,Otto Falk,Undirected,4
+Ida,Konsul Falk,Undirected,1
+Konsul Falk,Otto,Undirected,2
+Komtessen,Konsul Falk,Undirected,1
+Grevinde Rosens,Ida,Undirected,1
+Ida,Stampe,Undirected,4
+Falk,Ida Haslund,Undirected,1
+Komtesse Charlotte,Otto,Undirected,1
+Genua,Otto,Undirected,1
+Boris Patkoff,Charlotte,Undirected,1
+Otto,Patkoff,Undirected,1
+Komtessen,Patkoff,Undirected,1
+Charlotte,Patkoff,Undirected,1
+Charlotte,Grev Patkoff,Undirected,1
+Grev Patkoff,Patkoff,Undirected,1
+Charlotte,Maar,Undirected,1
+Grev Patkoff,Maar,Undirected,1
+Grev Patkoff,Otto,Undirected,1
+Ida,Stella,Undirected,1
+Komtessen,Stella,Undirected,1
+Frøken Haslund,Gud,Undirected,1
+Otto,ban,Undirected,1

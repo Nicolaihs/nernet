@@ -1,0 +1,76 @@
+source,target,type,weight
+Thyra,lian,Undirected,3
+Thyra,livor,Undirected,2
+Skjærgaard,Thyra,Undirected,1
+Guds,Narrifas,Undirected,1
+Fredriks,Thyra,Undirected,1
+Magdalene,Thyra,Undirected,50
+Bedstefader,Thyra,Undirected,2
+Frøken Narrifas,Michael,Undirected,1
+Magdalene,Malene,Undirected,1
+Malene,Narrifas,Undirected,1
+Michael,Thyra,Undirected,19
+Frøken Narrifas,Thyra,Undirected,1
+Fredrik,Undine,Undirected,1
+Fredrik,nordenfjelds,Undirected,1
+Thyra,nordenfjelds,Undirected,1
+Fredrik,Thyra,Undirected,15
+Fredrik,Hagen,Undirected,1
+Hagen,Thyra,Undirected,1
+Halte-Hulda,Halté-Hulda,Undirected,1
+Halte-Hulda,liendes,Undirected,1
+Fredrik,lange,Undirected,1
+Noami,Ruth,Undirected,1
+Noami,Rachel,Undirected,1
+Moses,Rachel,Undirected,1
+Gud,Moses,Undirected,1
+Gud,Hagar,Undirected,3
+Hagar,Magdalene,Undirected,1
+Astrid,Jakobs,Undirected,1
+Astrid,liun,Undirected,2
+Astrid,Isegrim,Undirected,1
+Isegrim,liun,Undirected,1
+Gud,Thyra,Undirected,2
+Gud,Magdalene,Undirected,1
+Fredrik,Magdalene,Undirected,2
+Magdalene,Narrifas,Undirected,3
+Narrifas,Thyra,Undirected,12
+Fredrik,liun,Undirected,2
+Sokrates,lian,Undirected,1
+Aspasia,Sokrates,Undirected,1
+Laps,Thyra,Undirected,2
+Magdalene,lian,Undirected,1
+Fredrik,Michael,Undirected,5
+Fredrik,Marv,Undirected,1
+Christina Nilsson,Hamlet,Undirected,1
+Christina Nilsson,diva,Undirected,1
+Ophelia,diva,Undirected,1
+Ambroise Thomas,Christine Nilssons,Undirected,1
+Dante,Shakespeare,Undirected,1
+Taffels,livor,Undirected,1
+Adams,Michel Angelo,Undirected,1
+Magdalena,Thyra,Undirected,2
+,Narrifas,Undirected,1
+Laps,Narrifas,Undirected,1
+Laps,Magdalene,Undirected,1
+Magdalene,Michael,Undirected,7
+Fredrik,Narrifas,Undirected,1
+Michael,Narrifas,Undirected,1
+Malene,Michael,Undirected,2
+Magdalene,liun,Undirected,1
+Thyra,liun,Undirected,1
+Hagar,Thyra,Undirected,1
+Magdalene,Thya,Undirected,1
+Michael,Thya,Undirected,1
+Fredrik,Gud,Undirected,1
+Gud,liun,Undirected,1
+liun,livor,Undirected,1
+Narrifas,liun,Undirected,1
+Magdalene,betitles,Undirected,1
+Thyra,Villie,Undirected,1
+Rachel,Thyra,Undirected,2
+George Sand,Magdalene,Undirected,1
+Eva,Thyra,Undirected,1
+Eva,Magdalene,Undirected,1
+Abraham,Isak,Undirected,2
+Laurens,Thyra,Undirected,1

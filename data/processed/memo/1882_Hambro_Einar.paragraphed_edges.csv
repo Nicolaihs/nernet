@@ -1,0 +1,119 @@
+source,target,type,weight
+Einar,Graad,Undirected,1
+Graad,Gutten,Undirected,1
+Einar,Jon,Undirected,1
+Helga,Jon,Undirected,1
+Einar,Helga,Undirected,2
+Einar,Per,Undirected,10
+Per,Snau,Undirected,1
+Einar,Snau,Undirected,1
+Einar,Malene Fretheim,Undirected,1
+Einar,Malene,Undirected,1
+Ejnar,Malene,Undirected,1
+Einar,Pintse,Undirected,2
+Malene,braa,Undirected,1
+Einar,Gud,Undirected,6
+Birgit,Einar,Undirected,20
+Birgit Volden,Einar Birkenæsset,Undirected,1
+Birgit,Guttorm,Undirected,4
+Einar,Guttorm,Undirected,5
+Einar Birkenæsset,Guttorm,Undirected,2
+Birgit,Einar Birkenæsset,Undirected,2
+Birgit,Mikkel,Undirected,2
+Einar,Per Raberg,Undirected,4
+Birgit,Per Raberg,Undirected,4
+Guttorm,Marie Flaat,Undirected,1
+Einar,Marie Flaat,Undirected,1
+Marie,Per,Undirected,2
+Birgit,Einar —,Undirected,1
+Einar,Einar —,Undirected,1
+Einar,hans,Undirected,3
+Birgit,hans,Undirected,1
+Einar,Eline,Undirected,1
+Eline,Sverre,Undirected,1
+Einar,Sverre,Undirected,1
+Einar,Løitnanten,Undirected,1
+Einar,Einar Birkenæsset,Undirected,2
+Per Raberg,sylhvas,Undirected,1
+Birgit,sylhvas,Undirected,1
+Birgit'fik,Ole,Undirected,1
+Birgit'fik,Per Raberg,Undirected,1
+Per Raberg,Voss,Undirected,1
+Birgit,Voss,Undirected,1
+Birgit,Birgit —,Undirected,2
+Birgit,Gud,Undirected,5
+Birgit,Ole,Undirected,1
+Borken,Einar skvat,Undirected,1
+Henrik Havn,hans,Undirected,1
+Jan Henrik,ban,Undirected,1
+Bianca,Jan Henrik,Undirected,1
+Gud,Jan Henrik,Undirected,7
+Jan Henrik,Sjøsprøit,Undirected,1
+Tøiet,Vorherre,Undirected,1
+Jan Henrik,Schillers,Undirected,1
+Macbeth,Schillers,Undirected,1
+Macbeth,Wallenstein,Undirected,1
+Wallenstein,Wilhelm Tell,Undirected,1
+Einar,Furuskog,Undirected,1
+Einar,Jan Henrik,Undirected,63
+Einar,Henrik,Undirected,1
+Einar,Jan Henrik kvap,Undirected,1
+Einar,Jan,Undirected,2
+Henrik,Jan,Undirected,2
+Einar,Næskung,Undirected,1
+Marie Flaat,Næskung,Undirected,1
+Per,Ravn,Undirected,1
+Jan Henrik,Per Raberg,Undirected,1
+Jan Henrik,tillive,Undirected,2
+Birgit,Jan Henrik,Undirected,6
+Borken,Jan Henrik,Undirected,1
+Einar,bran,Undirected,1
+Jan Henrik,bran,Undirected,1
+Einar,freidig,Undirected,1
+Per,freidig,Undirected,1
+Ole,Per,Undirected,1
+Einar,Slig,Undirected,1
+Per Raberg,øvst,Undirected,1
+hans,øvst,Undirected,1
+hans,sine,Undirected,1
+Flaatemarie,sine,Undirected,1
+Flaatemarie,slaar,Undirected,1
+Einar,Ravn,Undirected,3
+Henrik,hans,Undirected,1
+Jan Henrik,hans,Undirected,3
+Jan Henrik,Sjømand,Undirected,1
+Birgit,Ravn,Undirected,1
+Jan Henrik,Ravn,Undirected,1
+Jan Henrik,Tue,Undirected,1
+Aspen,Einar,Undirected,1
+Aspen,Birken,Undirected,1
+Einar,Einar myg,Undirected,1
+Jan Henrik,Mikkel,Undirected,1
+Einar,Mikkel,Undirected,2
+Einar ifra,Jan Henrik,Undirected,1
+Ingrid —,Jan Henrik,Undirected,1
+Frøken Ingrid Bakke,Jan Henrik,Undirected,1
+Frøken Ingrid Bakke,Ingrid,Undirected,1
+Ingrid Bakke,Jan Henrik,Undirected,2
+Birgit Monsdatter,Einar ennu,Undirected,1
+Jan Henrik,stelle,Undirected,1
+Borken,stelle,Undirected,1
+Jan Henrik,Lédsager,Undirected,1
+Einar,iland,Undirected,1
+Jan Henrik,iland,Undirected,1
+Aspen,Jan Henrik,Undirected,1
+Aspen,Gud,Undirected,1
+Jan Henrik,Nils,Undirected,1
+Einar,haul,Undirected,1
+Jan Henrik,haul,Undirected,1
+Einar,Peter Fraas,Undirected,1
+Einar,Fraas,Undirected,1
+Fraas,Madam Lind,Undirected,2
+Mikkel —,hans,Undirected,1
+Skakke,hans,Undirected,1
+Birgit,véd,Undirected,1
+Einar,véd,Undirected,1
+Far,Tor,Undirected,1
+Jan Henrik,iligemaade,Undirected,1
+Birgit,lille Tor,Undirected,1
+Henrik Ravn,Jan Henrik,Undirected,1

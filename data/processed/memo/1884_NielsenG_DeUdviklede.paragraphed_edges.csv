@@ -1,0 +1,129 @@
+source,target,type,weight
+Morten,Morten Jakobsen,Undirected,1
+Jakob,Morten Jakobsen,Undirected,6
+Jesus,Morten,Undirected,1
+Jakob,Peter Bøgh,Undirected,4
+Ban,Peter Bøgh,Undirected,1
+Ban,Jakob,Undirected,1
+Margrethe,egge,Undirected,1
+Hans Eriksens,egge,Undirected,1
+Hans Eriksens,Knud,Undirected,1
+Niels,Polle,Undirected,1
+Margrethe,Polle,Undirected,1
+Niels Bygfoder,nove,Undirected,1
+Jørgen Sællænder,Madses,Undirected,1
+Mads,Madses,Undirected,1
+Jørgen,Mads,Undirected,1
+Karen Vævers,Kirsten Marie,Undirected,1
+Gud,kjær,Undirected,1
+Karen Vævers,Margrethe,Undirected,2
+Kirsten Marie,Margrethe,Undirected,3
+Margrethe,nov,Undirected,1
+je,nov,Undirected,1
+Gårdi,je,Undirected,1
+Gud,Gårdi,Undirected,1
+Gud,dov,Undirected,1
+Gud,Margrethe,Undirected,1
+Kirsten Marie,blyver,Undirected,1
+blyve,blyver,Undirected,1
+Margrethe,blyve,Undirected,1
+Johansens,Morten,Undirected,1
+Johansens,skovly,Undirected,1
+Marie,skovly,Undirected,1
+Johansen,Marie Johansen,Undirected,2
+Johansen,Marie,Undirected,3
+Marie,Morten Jakobsen,Undirected,1
+Johansen,Morten Jakobsen,Undirected,2
+J,Richardt,Undirected,2
+Kolumbus,Peter Bøgh,Undirected,1
+Margrethe,Thyra Danebod,Undirected,1
+Marie,Peter Bøgh,Undirected,2
+Morten Jakobsen,Sofie,Undirected,1
+Maren,Sofie,Undirected,1
+Jakob,Maren,Undirected,1
+Jakob,fræm,Undirected,1
+Jakob,P. Bøgh,Undirected,1
+P. Bøgh,lian,Undirected,1
+Jakob,Jakok,Undirected,1
+Jakob,Marie Johansen,Undirected,1
+Jakob,Marie,Undirected,10
+Hostrup,Marie,Undirected,2
+Holbergs,Hostrup,Undirected,1
+Aksel,Holbergs,Undirected,1
+Aksel,læstes,Undirected,1
+Jakob,Mads Hansens,Undirected,1
+Hans Jensens,Jakob,Undirected,2
+Gud,Jesus,Undirected,1
+Povl,Povl Johansen,Undirected,2
+Lars,Lars Nielsen,Undirected,1
+Jakob,fræmad,Undirected,1
+fræmad,jette,Undirected,1
+Thorvald,Thorvald Vidførle,Undirected,1
+Kodran,Thorvald,Undirected,1
+"Gileå,",Kodran,Undirected,1
+"Gileå,",Thorvald,Undirected,1
+Gejrhild,Thorvald,Undirected,1
+Krist,Thorvald,Undirected,2
+Atle den,Thorvald Vidførle,Undirected,1
+Jakob,Lars Nielsen,Undirected,3
+Lars Nielsen,Povl,Undirected,1
+Jakob,Lars,Undirected,2
+Marie,liar,Undirected,1
+Jeppe,liar,Undirected,1
+Fræmad,maltes fræm,Undirected,1
+Magdalene Toresens,Signes,Undirected,1
+Signes,sigi,Undirected,1
+lian,sigi,Undirected,1
+Marie,iRømbjerg,Undirected,1
+Gud,Jakob,Undirected,4
+Lars Bygfoder,Niels,Undirected,1
+Margrethe“,Niels,Undirected,1
+Lars Bygfoder,Nielsen,Undirected,1
+Lars,Morten Jakobsen,Undirected,1
+Larses,Morten Jakobsen,Undirected,1
+Johansen,Peter Bøgh,Undirected,1
+Jens Kristensen,Morten,Undirected,1
+Jens,Morten Jakobsen,Undirected,1
+Jens Kristensen,Povl Johansen,Undirected,1
+Gud,Povl,Undirected,1
+liar,livor,Undirected,1
+Jens Kristensen,Povl,Undirected,1
+Jakob,Povl Johansen,Undirected,1
+Lars Poulsens,Marie,Undirected,1
+Jakob,Lars Poulsens,Undirected,1
+Lars Jakobs,Stine,Undirected,1
+Lars Jakobs,Lars Poulsens,Undirected,1
+Jakob,Stine,Undirected,11
+Lars Poulsens,kam,Undirected,1
+Hansen,Lars Poulsens,Undirected,1
+Hansen,Marie,Undirected,1
+Lars Poulsens,Stine,Undirected,1
+Marie,Stine,Undirected,3
+Stine,liun,Undirected,1
+Jakob,fr. Johansen,Undirected,1
+Marie,fr. Johansen,Undirected,1
+Marie,kapellan Hansen,Undirected,1
+Jakob“,kapellan Hansen,Undirected,1
+Jakob“,Stine,Undirected,1
+Marie,karl,Undirected,1
+Hansen,karl,Undirected,1
+Gud,Stine,Undirected,2
+Gud,Søren,Undirected,1
+Søren,hnn,Undirected,1
+fr.,hnn,Undirected,1
+Jakob,fr.,Undirected,1
+Hr. Hansen,Marie,Undirected,2
+Marias,Stine,Undirected,1
+liendes,liun,Undirected,1
+lian,liun,Undirected,1
+liam,lian,Undirected,1
+Jakob,liam,Undirected,1
+Jakob,lian,Undirected,1
+Gud,Marie,Undirected,1
+Povl,Stine,Undirected,2
+Marie,liun,Undirected,1
+Jakob,Moses,Undirected,1
+Aron,Moses,Undirected,1
+Aron,Elias,Undirected,1
+Elias,Jesus,Undirected,1
+Gud,Kader,Undirected,1

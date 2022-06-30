@@ -1,0 +1,220 @@
+source,target,type,weight
+H. Henriksens,Irgens,Undirected,1
+Irgens,ifra,Undirected,1
+Grande,Irgens,Undirected,11
+Grande,Paulsberg,Undirected,6
+Lars Paulsberg,Paulsberg,Undirected,5
+Irgens,Lars Paulsberg,Undirected,1
+Irgens,Paulsberg,Undirected,21
+Paulsberg,jagu,Undirected,1
+Grande,Milde,Undirected,2
+Grand,Tidemand,Undirected,2
+Paulsberg,Øjen,Undirected,3
+Paulsberg,Thorahus,Undirected,2
+Ole Henriksen,Thorahus,Undirected,6
+Ole Henriksen,Tidemand,Undirected,11
+Ole Henriksen,Paulsberg,Undirected,2
+Grande,Norem,Undirected,2
+H. Henriksens,Ole,Undirected,2
+Olje,Tidemand,Undirected,1
+Ole,Tidemand,Undirected,33
+Ole Henriksen ejed,Tidemand,Undirected,1
+Henriksens,Ole Henriksen ejed,Undirected,1
+Ole,Ole Henriksen,Undirected,6
+H. Henriksens,Ole Henriksen,Undirected,1
+Henriksen,Ole Henriksen,Undirected,3
+Henriksen,Tidemand,Undirected,1
+Hanka,Tidemand,Undirected,7
+Hanka,Ole,Undirected,5
+Grand,Hanka,Undirected,1
+Andreas,Grand,Undirected,1
+Ole Henriksen,ifjor,Undirected,1
+Gregersen,ifjor,Undirected,1
+Gregersen,Paulsberg,Undirected,15
+Frue,Grande,Undirected,1
+Guds,Irgens,Undirected,1
+Norem,Paulsberg,Undirected,4
+Norem,Skaal,Undirected,1
+Gud,Norem,Undirected,2
+Jasaa,Paulsberg,Undirected,6
+Paulsberg,Paulsberg taug,Undirected,1
+Bondesen,Endre,Undirected,1
+Irgens,Ole Henriksen,Undirected,5
+Lynums,Ole Henriksen,Undirected,1
+Lynums,Norem,Undirected,1
+Grande,Thorahus,Undirected,1
+B.s,Grande,Undirected,1
+B.s,Døttre,Undirected,1
+Irgens,Tidemand,Undirected,8
+Irgens og,Paulsberg,Undirected,1
+Ole Henriksen,kny,Undirected,1
+Lynums,Thorahus,Undirected,1
+Aagot,Lynums,Undirected,1
+Hanka Lange Tidemand,Lange,Undirected,1
+Gregersen,Jasaa,Undirected,1
+Ole,Thorahus,Undirected,6
+Aagot Lynum,Ole,Undirected,1
+Irgens,Ole,Undirected,28
+Aagot,Ole,Undirected,36
+Grand,Irgens,Undirected,2
+Irgens,Milde,Undirected,7
+Milde,Norem,Undirected,3
+Aagot,Irgens,Undirected,42
+Frøken Lynum,Ole Henriksen,Undirected,1
+Milde,Ole,Undirected,3
+Coldevin,Frøken Lynum,Undirected,1
+Coldevin,Jasaa,Undirected,2
+Stefan Øjen,Thorahus,Undirected,1
+Gud,Thorahus,Undirected,2
+Coldevin,Irgens,Undirected,23
+Coldevin,Paulsberg,Undirected,6
+Coldevin,Henriksen,Undirected,2
+Frøken Lynum,Irgens,Undirected,1
+Hanka,Irgens,Undirected,2
+Frøken Lynum,Gud,Undirected,2
+Gregersen,Irgens,Undirected,5
+Gregersen,Udlo,Undirected,1
+Coldevin,Grande,Undirected,3
+Milde,Paulsberg,Undirected,9
+Paulsberg,tvers,Undirected,1
+Coldevin,Milde,Undirected,1
+Coldevin,Ole Henriksen,Undirected,3
+Ole,banked Paulsberg,Undirected,1
+Coldevin,Ole,Undirected,6
+Aagot,Coldevin,Undirected,14
+Aagot,Ole Henriksen,Undirected,4
+Henriksen,Ole,Undirected,5
+Henri,Jær,Undirected,1
+Aftenlund,Frihaand,Undirected,1
+Gud,Ole,Undirected,6
+Grande halende,Paulsberg,Undirected,1
+Coldevin,Grande halende,Undirected,1
+Coldevin,Gregersen,Undirected,2
+Hr. Coldevin,Jasaa,Undirected,2
+Hr. Coldevin,Paulsberg,Undirected,1
+Jasaa,svared Coldevin,Undirected,1
+Paulsberg,taug,Undirected,1
+Glid,taug,Undirected,1
+Coldevin,Norem,Undirected,3
+Hr. Coldevin,Irgens,Undirected,1
+Irgens,Nichts,Undirected,1
+Gud,Paulsberg,Undirected,2
+Tidemand,Tideniand,Undirected,1
+Grande,Johannisberg Cabinet,Undirected,1
+Aagot Lynum,Irgens,Undirected,1
+Aagot Lynum,Coldevin,Undirected,1
+H. Henriksens,K,Undirected,1
+Ole Henriksen,otti,Undirected,1
+Tidemand,otti,Undirected,1
+Andreas,Hanka,Undirected,1
+Gud,Irgens,Undirected,5
+Irgens,Paulsterg,Undirected,2
+Henriksen,Irgens,Undirected,2
+Irgens,Sara,Undirected,1
+Irgens,Jasaa,Undirected,2
+Ole,Saral,Undirected,1
+Sara,Tidemand,Undirected,1
+Bjærge,Tidemand,Undirected,1
+Bjærge,Ole Henriksen,Undirected,1
+Gregersen,Ole,Undirected,3
+Jehova,Norem,Undirected,1
+Jasaa,Ole,Undirected,2
+Tidemand,isaafald,Undirected,1
+Aagot,Sara,Undirected,1
+Magen,Tidemand,Undirected,2
+Milde,Oljemaler,Undirected,1
+Lars Paulsberg,N. N.,Undirected,1
+Gregersen,N. N.,Undirected,1
+Paulsberg,Ævne,Undirected,1
+Gud,Hr. Coldevin,Undirected,2
+Coldevin,Frøken Aagots,Undirected,1
+Coldevin,Gud,Undirected,5
+Norem,ifjor,Undirected,1
+Grand,Norem,Undirected,2
+Aragot,Ole,Undirected,1
+Aagot,Gud,Undirected,3
+Aagot pegte,Gud,Undirected,1
+Irgens,roed,Undirected,1
+Aagot,roed,Undirected,1
+Aagot,Skog,Undirected,1
+Aftenlund,Frøken Lynum,Undirected,1
+Frøken Aagot,Gud,Undirected,1
+ifra,paany,Undirected,1
+Aagot,Hanka,Undirected,1
+Aagot,Lear,Undirected,1
+Milde,iland,Undirected,1
+Tidemand,lidemand,Undirected,1
+Ole Henriksen,Prokura,Undirected,1
+Ole,Prokura,Undirected,1
+Tidemand,iland,Undirected,2
+Magen,Ole,Undirected,2
+Andreas,Ole,Undirected,4
+Irgens,Øjen,Undirected,1
+Sara,Øjen,Undirected,1
+Ole Henriksen,Sara,Undirected,1
+Gud,Hanka,Undirected,3
+Hanka,Hanka!,Undirected,1
+Hanka!,Ida,Undirected,1
+Ida,Johanne,Undirected,4
+Irgens,Jiam,Undirected,1
+Andreas,Graad,Undirected,1
+Irgens,Norem,Undirected,2
+Gregersen,Ole Henriksen,Undirected,1
+Andreas,Ole Henriksen,Undirected,1
+Andreas,Gud,Undirected,2
+Andreas Tidemand,Tidemand,Undirected,2
+Aagot,Frøken Aagot,Undirected,1
+Aagot,Andreas,Undirected,1
+Aagot,Tidemand,Undirected,11
+Aagot,Thorahus,Undirected,3
+Aagot,Henriksen,Undirected,3
+lille Frue,snille Aagot,Undirected,1
+lille Frue,"lille,",Undirected,1
+Ole,"lille,",Undirected,1
+Ole,Ævne,Undirected,1
+Tidemand,ifra,Undirected,1
+Coldevin,Tidemand,Undirected,1
+Gregersen,Milde,Undirected,1
+Grand,Gregersen,Undirected,1
+Grand,Milde,Undirected,2
+Norem,lykønske,Undirected,1
+Paulsberg,ifra,Undirected,1
+Gregersen,Gud,Undirected,2
+Baudelaire,Milde,Undirected,1
+Frue fortrak,Paulsberg,Undirected,1
+Frue fortrak,Norem,Undirected,1
+Coldevin,Thorahus,Undirected,1
+Thorahus,didop,Undirected,1
+Coldevin,didop,Undirected,1
+Grand,Paulsberg,Undirected,1
+Coldevin,ivaar,Undirected,1
+Paulsberg,tys,Undirected,2
+Fearnley,Vinje,Undirected,1
+Aagot,Grande,Undirected,1
+Coldevin,Hr. Irgens,Undirected,1
+Aager,Norem,Undirected,1
+Jasaa,Norem,Undirected,1
+Aagot,Grand,Undirected,1
+A.agot,Coldevin,Undirected,1
+Aagot,Jasaa,Undirected,2
+Irgens,Lille Frue,Undirected,1
+Jasaa,Thorahus,Undirected,1
+Gregersen,Norem,Undirected,1
+Norem,Ole Henriksen,Undirected,1
+Ole,Tidemand flau,Undirected,1
+Grande,Tidemand,Undirected,1
+Assurer,Tidemand,Undirected,1
+Assurer,Gud,Undirected,1
+Gud,assurer,Undirected,1
+Johanne,jasaa,Undirected,1
+Ida,Ole,Undirected,1
+Hanka,Hanka?,Undirected,2
+Aagot,Gregersen,Undirected,1
+Aagot,snille Aagot,Undirected,1
+Ole,Sara,Undirected,2
+Andreas,Frøken Lynum,Undirected,1
+Johanne,Ole,Undirected,1
+Ida,taug,Undirected,1
+Gregersen,Lars Paulsberg,Undirected,1
+Irgens,tilbens,Undirected,1
+Grande,tilbens,Undirected,1

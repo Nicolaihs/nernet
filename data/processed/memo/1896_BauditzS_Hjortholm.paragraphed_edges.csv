@@ -1,0 +1,419 @@
+source,target,type,weight
+Grev Porse,Skovsgaard,Undirected,1
+Heinrich,Rosa,Undirected,38
+Fanny,Heinrich,Undirected,33
+Frits,Kristine,Undirected,3
+Kristine,Rosa,Undirected,3
+Frode Fredegodes,Ravn,Undirected,1
+Frode Fredegodes,Møller Sørensen,Undirected,1
+Diana,Sultan,Undirected,1
+Clements,Sophus,Undirected,1
+Bauditz,Sophus,Undirected,1
+Erik Kongsted,Kongsted,Undirected,2
+Frits,Kristine Barnepige,Undirected,2
+Capitainen,ifjor,Undirected,1
+Brandreths,Fanny,Undirected,1
+Fanny,Rosa,Undirected,67
+Skymta,plaska,Undirected,1
+Christian,Skovsgaard,Undirected,2
+Frits,Rosa,Undirected,13
+Bernina,Fanny,Undirected,1
+Karl,Tue,Undirected,1
+Ane Steffens,Rosa,Undirected,2
+Fanny,Heiren,Undirected,1
+Heinrich,Heinrich Høibro,Undirected,1
+Heinrich,Riis,Undirected,1
+Grev Porse,Riis,Undirected,1
+Riis,Rosa,Undirected,1
+Andersens,Heinrich,Undirected,2
+Andersens,Guds,Undirected,1
+Møller Sørensen,Sophus Bauditz,Undirected,1
+Anders,Rosa,Undirected,2
+Karl,Marsch,Undirected,1
+Anders,Anders Staldkarl,Undirected,1
+Guds,Halvti,Undirected,1
+Caleschen,Guds,Undirected,1
+Caleschen,Sultan,Undirected,1
+Caleschen,Rosa,Undirected,2
+Høistrups,Rosa,Undirected,1
+Høistrups,Skovsgaard,Undirected,1
+Glug,Rosa,Undirected,1
+Fanny,Tøi,Undirected,1
+Guds,Rosa,Undirected,1
+Ingenieur Erik Kongsted,Sultan,Undirected,1
+Heinrich,Ole Hansen,Undirected,1
+Ingenieur Kongsted,Rosa,Undirected,2
+Heinrich Høibro,Ingenieur Kongsted,Undirected,2
+Heinrich Høibro,Høibro,Undirected,1
+Rosa,Susanne,Undirected,1
+Preben Parsbjergs,Susanne,Undirected,1
+Kongsted,Preben Parsbjerg,Undirected,1
+Hjortholm,Kongsted,Undirected,3
+Hjortholm,Preben Parsbjerg,Undirected,1
+Preben Parsbjerg,Rosa,Undirected,1
+Heinrich,Kongsted,Undirected,4
+Rosa,Valdemar Atterdag,Undirected,1
+Faublas,Kongsted,Undirected,1
+Høire,Kongsted,Undirected,1
+Fanny,Kongsted,Undirected,20
+Faublas“’s,Kongsted,Undirected,1
+Kongsted,Sophus Bauditz,Undirected,1
+Heinrich,Ingenieur Kongsted,Undirected,1
+Kongsted,Leonora Christinas,Undirected,1
+Eleonora Christina,Rosa,Undirected,1
+Eleonora Christina,Sophie Amalie,Undirected,1
+Sophie Amalie,Ulfeldt,Undirected,1
+Frederik den Tredie,Ulfeldt,Undirected,1
+Kongsted,Tante Rosa,Undirected,1
+Høibro,Rosa,Undirected,3
+Bævreespen,Kongsted,Undirected,1
+Christian Porse,Christian —,Undirected,1
+Christian Porse,Fanny,Undirected,1
+Prip,Rosa,Undirected,2
+Fanny,Prip,Undirected,2
+Hjortholm,Rosa,Undirected,4
+Gud,Tante Rosa,Undirected,2
+Faublas,Heinrich,Undirected,1
+Fanny,Faublas,Undirected,4
+Fanny,Moll,Undirected,1
+Heinrich,Høibro,Undirected,1
+Rosa,ifjor,Undirected,1
+Heinrich,ifjor,Undirected,1
+Møller Sørensen,Vihøi,Undirected,1
+Heinrich,Mikkel Svendsen,Undirected,1
+Mikkel,Mikkel Svendsen,Undirected,1
+Mads Houlund,Mikkel,Undirected,1
+Heinrich,Høibords,Undirected,1
+Heinrich,Møller Sørensen,Undirected,3
+Gud,Heinrich,Undirected,4
+Junger,Rosa,Undirected,1
+Karle,Rosa,Undirected,1
+Christian,Rosa,Undirected,7
+Fanny,Skovsgaard,Undirected,4
+Rosa,Skovsgaard,Undirected,1
+Christian,Fanny,Undirected,15
+Fanny,Tante Rosa,Undirected,11
+Heinrich,Sophus Bauditz,Undirected,2
+Fanny,Marie Grubbe,Undirected,1
+Heinrich,Marie Grubbe,Undirected,1
+Heinrich,Skalholt,Undirected,1
+Fanny gaaer,Fox’,Undirected,1
+Fox’,Heinrich,Undirected,1
+Anders Staldkarl,Heinrich,Undirected,3
+Anders,Heinrich,Undirected,11
+Anders,Fanny,Undirected,2
+Anders,Jens Podemand,Undirected,1
+Regulus,durk,Undirected,1
+Anders,Bro,Undirected,1
+Rosa,qui mal y pense,Undirected,1
+Rosa,Tante Rosa,Undirected,3
+Fanny,Frits,Undirected,29
+Christian,Grev Porse,Undirected,1
+Skovsgaard,Vesterude,Undirected,1
+Porse,Skovsgaard,Undirected,1
+Candidat Mathiesen,Porse,Undirected,2
+Candidat Mathiesen,Skovsgaard,Undirected,3
+Candidat Mathiesen,Christian,Undirected,3
+Christian,Nancy,Undirected,2
+Henriette,Nancy,Undirected,4
+Henriette,Skovsgaard,Undirected,1
+Fanny,Seletøi,Undirected,1
+Fanny,Sidse,Undirected,1
+Sophus Bauditz,Tante Rosa,Undirected,2
+Christian,Papa,Undirected,3
+Papa,Skovsgaard,Undirected,1
+Skovsgaard,Svend,Undirected,1
+Christian,Svend,Undirected,1
+Heinrich,Skovsgaard,Undirected,2
+Comtesse,Henriette,Undirected,3
+Comtesse,Nancy,Undirected,1
+Nancy,Pluralis,Undirected,1
+Candidat Mathiesen,Pluralis,Undirected,1
+Candidat Mathiesen,Fanny,Undirected,2
+Kongsted,Rosa,Undirected,5
+Greve,Rosa,Undirected,1
+Christian Fanny,Rosa,Undirected,1
+Christian Fanny,Kongsted,Undirected,1
+Kongsted,Skovsgaard,Undirected,1
+Nancy,Skovsgaard,Undirected,1
+Mathiesen,Nancy,Undirected,3
+Heinrich,Mathiesen,Undirected,1
+Christian converserer,ifjor —,Undirected,1
+Christian converserer,Fanny,Undirected,1
+Fanny,Mathiesen,Undirected,1
+Madeira,Rosa,Undirected,1
+Heinrich,Madeira,Undirected,1
+Candidat Mathiesen,Heinrich,Undirected,1
+Comtesse Henriette,Comtesse Nancy,Undirected,1
+Comtesse Henriette,Fanny,Undirected,1
+Greven,kaad,Undirected,1
+Greven,Kongsted,Undirected,2
+Candidat Mathiesen,Kongsted,Undirected,5
+Candidat Mathiesen,Frøken Høibro,Undirected,1
+Candidat Mathiesen,Greven,Undirected,5
+Grev St. Armand,Kongsted,Undirected,1
+Candidat Mathiesen,Grev St. Armand,Undirected,1
+Fanny,Nizza,Undirected,2
+Fanny,Greven,Undirected,2
+Kongsted,Nizza,Undirected,1
+Kongsted,Møller Sørensen,Undirected,3
+Candidat Mathiesen,Møller Sørensen,Undirected,1
+Capitain Riis,Pinds,Undirected,1
+Helene,Mo,Undirected,1
+Grev St. Armand,Mo,Undirected,1
+Grev St. Armand,Maren,Undirected,1
+Maren,Møller Sørensen,Undirected,1
+Holla,Kongsted,Undirected,1
+Kongsted,Mølleren,Undirected,2
+Mølleren,Sørensen,Undirected,1
+Madam Sørensen,Sørensen,Undirected,1
+Lotte,Madam Sørensen,Undirected,1
+Diana,Lotte,Undirected,1
+Diana,Sørensen,Undirected,2
+Ingenieur,Madam Sørensen,Undirected,1
+Ingenieur,Sørensen,Undirected,1
+Kongsted,Madam Sørensen,Undirected,1
+Helene,Maren,Undirected,3
+Capitainen,Helene,Undirected,1
+Melk,Mølleren,Undirected,1
+Helene,Melk,Undirected,1
+Melk,Sørensen,Undirected,1
+Stine,Sørensen,Undirected,1
+Capitain,Stine,Undirected,1
+Ane Steffens,Stine,Undirected,1
+Ane Steffens,Kongsted,Undirected,4
+Helene,Zirat,Undirected,1
+Kongsted,Maren,Undirected,2
+Jomfru Hansen,Madam Sørensen,Undirected,3
+Kongsted,Sørensen,Undirected,1
+Helene,Oraklet,Undirected,2
+Helene,Kongsted,Undirected,2
+Frits,Niels,Undirected,2
+Frits,Kongsted,Undirected,3
+Niels,Prr,Undirected,2
+Møller Sørensen,Proprietair Kielsen,Undirected,3
+Lars ødemark,Peer Fyenbo,Undirected,1
+Karl,Kielsen,Undirected,1
+Kielsen,Kongsted,Undirected,1
+Capitain,Kjære,Undirected,1
+Frøken Høibro,Kongsted,Undirected,1
+Ane Steffens,Niels,Undirected,1
+Christian,Svartehammen,Undirected,1
+Maren,Proprietair Kielsen,Undirected,2
+Heinrich,Jomfru Nielsen,Undirected,2
+Heinrich,Tante Rosa,Undirected,3
+Bro,Candidat Mathiesen,Undirected,1
+Frits,Heinrich,Undirected,11
+Anders Staldkarl,Fanny,Undirected,1
+Anders,Jomfru Nielsen,Undirected,1
+Frøkenen,Rosa,Undirected,1
+Frits,Frøkenen,Undirected,1
+Anders,Proprietair Kielsen,Undirected,2
+Champot,Fanny,Undirected,1
+Don Rosario,Marcel,Undirected,2
+Marcel,Marqel,Undirected,1
+Don Rosario,Faublas,Undirected,1
+Gud,Sønneke,Undirected,1
+Steffen,Thomas,Undirected,1
+Mose,Thomas,Undirected,1
+Jesus,Steffen,Undirected,1
+Bro,Fanny,Undirected,3
+Ane Steffens,Bro,Undirected,3
+Gud,Pastor Jensens,Undirected,1
+Bro,Brynden,Undirected,1
+Brynden,Hjortholm,Undirected,1
+Ane Steffens,Thomas Bro,Undirected,1
+Greven,Rosa,Undirected,1
+Comtesse Nancy,Skovsgaard,Undirected,1
+Comtesse,Comtesse Nancy,Undirected,2
+Fanny,Henriette,Undirected,2
+Candidat Mathiesen,Sophus Bauditz,Undirected,2
+Candidat Mathiesen,Rosa,Undirected,2
+Hansen,Rosa,Undirected,2
+Anders Staldkarl,Jomfru Nielsen,Undirected,1
+Frits,Niels Kusk,Undirected,1
+Fanny,Niels Kusk,Undirected,1
+Frits,Tante Rosa,Undirected,3
+Frits,Gud,Undirected,1
+Heinrich,lille Frits,Undirected,1
+Christian,Kristine,Undirected,1
+Frits,Toilette,Undirected,1
+Rosa,Sophus Bauditz,Undirected,1
+Fanny,Høibro,Undirected,1
+Ane Steffens,Fanny,Undirected,13
+Frits,j,Undirected,1
+Fanny,Johannes,Undirected,1
+Fanny,Gud,Undirected,1
+Diana,Kongsted,Undirected,1
+Blichers,Peder Syvs,Undirected,1
+Blichers,Drachmann,Undirected,1
+Christian Winther,Drachmann,Undirected,1
+Christian Winther,Richard,Undirected,1
+Capitain,Kongsted,Undirected,1
+Christian Winther,Helene,Undirected,1
+Frits,klein,Undirected,1
+Høibro,Ingenieur Kongsted,Undirected,1
+Fanny,Ingenieur Kongsted,Undirected,1
+Darwin,Kongsted,Undirected,1
+Darwin,Gud,Undirected,2
+Fanny,Hjortholm,Undirected,4
+Capitain,Frøken Høibro,Undirected,1
+Christian,Kongsted,Undirected,5
+Rosa,lille Heinrich,Undirected,2
+Anders,Frits,Undirected,4
+Christian,Frits,Undirected,3
+Faublas,Marius Petersen,Undirected,2
+Nielsen,Peter Hals,Undirected,1
+Gud,Rosa,Undirected,2
+Skovsgaard,j,Undirected,1
+Christian,j,Undirected,1
+Frøken Helene,Kongsted,Undirected,1
+Heinrich,Maren,Undirected,1
+Heinrich,Madame Guerrini,Undirected,1
+Frits,Helene —,Undirected,1
+Heinrich,Helene —,Undirected,1
+Heinrich,Jomfru Kielsen,Undirected,1
+Flora“,Møller Sørensen,Undirected,1
+Heinrich,Vaas,Undirected,1
+Anders,Sultan,Undirected,1
+Grev Christians,Kongsted,Undirected,1
+Christian,Gud,Undirected,1
+Ajax,Baudelaire,Undirected,1
+Baudelaire,Paul Verlaine,Undirected,1
+Impresario,Nicolai Jensen,Undirected,1
+Impresario,Nielsen-Munkegaard,Undirected,1
+Candidat Petersen,Fernando Villerup,Undirected,1
+Fernando Villerup,Heinrich,Undirected,1
+Heinrich,Pøbels,Undirected,1
+Candidat Petersen,Fanny,Undirected,1
+Candidat Petersen,Faublas,Undirected,2
+Faublas,Peter Hals,Undirected,1
+Nielsen-Munkegaard,Peter Hals,Undirected,1
+Fanny,Nielsen-Munkegaard,Undirected,2
+Candidat Petersen,Dina Schuldts,Undirected,1
+Rosa,lila,Undirected,1
+Fernando Villerup,Heinrich varm,Undirected,1
+Candidat Petersen,Frits,Undirected,3
+Anders Staldkarl,Stine,Undirected,1
+Anders,Stine,Undirected,1
+Frits,Stine,Undirected,1
+Frits,Kristine Kusk,Undirected,1
+Hr. Frits,Kristine,Undirected,1
+Frits,lille Kristine“,Undirected,1
+Kristine,Vorherre,Undirected,1
+Fernando Villerup,Nielsen-Munkegaard,Undirected,1
+Hohenfiirst,Nielsen-Munkegaard,Undirected,1
+Hirsch,Hohenfiirst,Undirected,1
+Fanny,Hirsch,Undirected,1
+Candidat Petersen,Stine Stuepige,Undirected,1
+Nicolai Jensen,Stine Stuepige,Undirected,1
+Heinrich,Nicolai Jensen,Undirected,2
+FernandoVillerup,Frits,Undirected,1
+Nicolai Jensen,Nielsen-Munkegaard,Undirected,2
+Candidat Petersen,NielsenMunkegaard,Undirected,1
+Candidat Petersen,Nielsen-Munkegaard,Undirected,2
+Candidat Petersen,Skovsgaard,Undirected,1
+Skovsgaard,Sophus Bauditz,Undirected,1
+Frits,Peter Hals,Undirected,1
+Peter Hals,Tante Rosa,Undirected,1
+Faublas“-Vennerne,Fernando Villerup,Undirected,1
+Nielsen,Petersen,Undirected,1
+Høibro,Nielsen-Munkegaard,Undirected,1
+Candidat Petersen,Peter Hals,Undirected,2
+NielsenMunkegaard,lille Høibro,Undirected,1
+Frits,Frits Fernando Villerup,Undirected,1
+Frits Fernando Villerup,Peter Hals,Undirected,1
+Candidat Petersen,Nicolai Jensen,Undirected,1
+Frits,Nielsen-Munkegaard,Undirected,1
+Frits,NielsenMunkegaard,Undirected,1
+Frits,Rosa Frits,Undirected,1
+Egs,Frits,Undirected,1
+Christian,Porse,Undirected,2
+Doctor Prip,Proprietair Kielsen,Undirected,1
+Gud,Hr. Kongsted,Undirected,1
+Capitain,Didriksen,Undirected,1
+Møller Sørensen,Rosa,Undirected,2
+Frits,Vexler,Undirected,1
+Fanny,Nei,Undirected,1
+Ane Steffens,Gud,Undirected,1
+Gud,Steffen,Undirected,1
+Bro,Heinrich,Undirected,2
+Bro,Rosa,Undirected,2
+Kongsted,Vihøi,Undirected,1
+Maidag,Punschen,Undirected,1
+Porse,Punschen,Undirected,1
+Christian,Henriette,Undirected,1
+Greven,Mathiesen,Undirected,1
+Candidat Mathiesen,Jomfru Hansen,Undirected,1
+Jomfru Hansen,Skovsgaard,Undirected,1
+Mathiesen,Skovsgaard,Undirected,1
+Kongsted,Porse,Undirected,1
+Comtesse Henriette,Kongsted,Undirected,2
+Ingenieur,Papa,Undirected,1
+Candidat Mathiesen,Papa,Undirected,3
+Christian,Frits Høibro,Undirected,1
+Ingenieur Kongsted,JEnfin,Undirected,1
+Kongsted,“,Undirected,1
+Cavaleer,lille Heinrich,Undirected,1
+Cavaleer,Rosa,Undirected,1
+Grev Porse,Rosa,Undirected,1
+Hjortholm,Kielsen,Undirected,1
+Anders,Maren Kielsen,Undirected,2
+Anders,Heinerich,Undirected,1
+Heinerich,Stine,Undirected,1
+Iver Høibro Hjortholm,Preben Parsbjerg,Undirected,1
+Hjortholm,Ingenieur Kongsted,Undirected,1
+Gud,Kongsted,Undirected,1
+Gud,Hjortholm,Undirected,1
+Høibro,Kongsted,Undirected,1
+Capitain Riis,Høibro,Undirected,1
+Capitain Riis,Sophus Bauditz,Undirected,1
+Kainit,Kongsted,Undirected,1
+Grev Porse,Kongsted,Undirected,1
+AnL Domini,Christen Anderssøn Nielsen,Undirected,1
+Christen Anderssøn Nielsen,Parsbiergs,Undirected,1
+Parsbiergs,Siel,Undirected,1
+Bro,Hjortholm,Undirected,1
+Anders,Hjortholm,Undirected,1
+Kongsted,Prip,Undirected,1
+Kristine Barnepige,ellene,Undirected,1
+Møller Sørensen,Otto Bache,Undirected,2
+Christian,Karl,Undirected,1
+Karl,MadamSørensen,Undirected,1
+Kongsted,MadamSørensen,Undirected,1
+Hjortholm,Skovsgaard,Undirected,1
+Møller Sørensen,Skovsgaard,Undirected,1
+Greven,Proprietair Kielsen,Undirected,1
+Fanny,Hans,Undirected,1
+Hans,Rosa,Undirected,1
+Bro,Jensen,Undirected,1
+Bella,Fanny,Undirected,1
+Ane Steffens,Tatersken,Undirected,1
+Tatersken,Thomas Bro,Undirected,1
+Junker,Thomas Bro,Undirected,1
+Ane Steffens,Bella,Undirected,1
+Heinrich,Marius,Undirected,1
+Ingenieur Kongsted,Riis,Undirected,1
+Hr. Kongsted,Ingenieur Kongsted,Undirected,1
+Hr. Kongsted,Kongsted,Undirected,1
+Bro,Kongsted,Undirected,1
+Alterlys,Bro,Undirected,1
+Alterlys,Hjortholm,Undirected,1
+Kammerraad Bro,Kongsted,Undirected,1
+Ane Steffens,Capitain Riis,Undirected,1
+Ane,Frøken Høibro,Undirected,1
+Ane Steffens,Sylow,Undirected,1
+Anders,Kongsted,Undirected,2
+Heinrich,Kielsen,Undirected,1
+Erik,Kongsted,Undirected,1
+Comtesse Nancy,Porse,Undirected,1
+Ingenieur Kongsted,j,Undirected,1
+Candidat Mathiesen,Uhret,Undirected,1
+Uhret,fidonc,Undirected,1
+Helene,Madam Sørensen,Undirected,1
+Diana,Tante Rosa,Undirected,1
+Kristine,Tante Rosa,Undirected,1
+Ane Steffens,Kristine,Undirected,1
+Jørgen Høibro f.,Rosa,Undirected,1
+Fanny,fløite,Undirected,1
+Diana,Fanny,Undirected,1

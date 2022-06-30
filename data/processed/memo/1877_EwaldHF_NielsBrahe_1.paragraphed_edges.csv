@@ -1,0 +1,855 @@
+source,target,type,weight
+Niels Nielsen Brahe,Wandaas,Undirected,1
+Axelsen Brahe,Hr. Axel,Undirected,1
+Hr. Aage,Hr. Axel,Undirected,1
+Hr. Aage,Niels Brahe,Undirected,1
+Kong Christiern,Niels Brahe,Undirected,6
+Christiern,Kong Frederiks,Undirected,1
+Christiern,Norby,Undirected,1
+Niels Brahe,Norby,Undirected,1
+Belte,Niels Brahe,Undirected,1
+Jørgen,Niels Brahe,Undirected,5
+Jørgen,Oluf,Undirected,14
+Oluf,lian,Undirected,2
+Anna Pedersdatter,Niels Brahe,Undirected,1
+Anna Pedersdatter,Lang,Undirected,1
+Lang,Oluf,Undirected,1
+Hagens,Oluf,Undirected,1
+Kirsten,Oluf,Undirected,6
+Kirsten,Rosenkrantz,Undirected,2
+Brahes,Rosenkrantz,Undirected,1
+Brahes,Sparre,Undirected,1
+Axel Brahes,Sparre,Undirected,1
+Axel Brahes,Niels Brahe,Undirected,1
+Niels Brahe,Wandaas,Undirected,6
+Aage Brahe,Wandaas,Undirected,1
+Aage Brahe,Brahes,Undirected,1
+Axel,Brahes,Undirected,1
+Aages,Axel,Undirected,1
+Axelsen,Frederik den,Undirected,1
+Christiern den,Frederik den,Undirected,1
+Guds,Kirsten,Undirected,1
+Guds,Sancte Oluf,Undirected,1
+Axel Brahe,Sancte Oluf,Undirected,1
+Niels Brahe,Thord Ibsen Sparre,Undirected,2
+Oluf,Thord Ibsen,Undirected,2
+Jørgen,Kirsten,Undirected,8
+Niels Brahe,Oluf,Undirected,11
+Jomfru Marias,Sancte Annas,Undirected,1
+Guds,Jomfru Marias,Undirected,1
+Gud,Guds,Undirected,1
+Jomfru Marias,Kirsten,Undirected,1
+Kirsten,Sancte Oluf,Undirected,1
+Gud,Sancte Oluf,Undirected,2
+Anna,hvi,Undirected,1
+Aage,Axel Brahe,Undirected,1
+Aage,Oluf Nielsen,Undirected,1
+Niels,Oluf Nielsen,Undirected,1
+Axel,Niels,Undirected,2
+Aage,Kong Qhristiern kjær,Undirected,1
+Kjeld Bing,Niels Brahe,Undirected,11
+Kirsten,Kjeld Bing,Undirected,2
+Axel Brahe,Kirsten,Undirected,1
+Axel Brahe,Niels Brahe,Undirected,2
+",",Niels Brahe,Undirected,1
+",",Kirsten,Undirected,1
+Else,Kirsten,Undirected,9
+Else,Niels Brahe,Undirected,1
+Kjeld Bing,Kjelder,Undirected,1
+Niels,Niels Brahe,Undirected,2
+Kjeld,Niels,Undirected,3
+Kjeld,Niels Brahe,Undirected,3
+Kirsten Spliid,Niels Brahe,Undirected,1
+Niels Brahe,Sancte Oluf,Undirected,2
+Kjeld,Sancte Oluf,Undirected,1
+Kirsten,Spliid,Undirected,2
+Magdalene Olufsdatters,Niels Brahe,Undirected,1
+Axel Olufsen,Magdalene Olufsdatters,Undirected,1
+Niels Brahe,eg,Undirected,1
+Kjeld Bing,Oluf,Undirected,3
+Niels Brahe,Pasop,Undirected,1
+Niels Brahe,Skoe,Undirected,1
+Niels Brahe,lier,Undirected,1
+Lise,lier,Undirected,1
+Kjeld Bing,Lise,Undirected,1
+Edele Sparre,Thord Sparre,Undirected,1
+Niels Brahe,Thord Sparre,Undirected,1
+Edele,Kirsten,Undirected,5
+Edele,Niels Brahe,Undirected,1
+Børge Jensen Ulfstand,Niels Brahe,Undirected,1
+Børge Jensen Ulfstand,lian,Undirected,1
+Laurits,Tostrup,Undirected,1
+Børge,Niels Brahe,Undirected,8
+Børge Ulfstand,Kjeld,Undirected,1
+Børge Ulfstand,Niels Brahe,Undirected,3
+Axel,Niels Brahe,Undirected,2
+Aage,Axel,Undirected,2
+Sancte Oluf,signe,Undirected,1
+Kjeld,signe,Undirected,1
+Gottorperens,Kjeld,Undirected,1
+Gottorperens,Kong Christiern,Undirected,1
+Axel,Børge,Undirected,1
+Christiern,Niels Brahe,Undirected,2
+Christiern,Frederik,Undirected,3
+Gud,Niels Brahe,Undirected,8
+Børge,Kong Hans,Undirected,1
+Kong Christiern,Kong Hans,Undirected,2
+Jens Holgersen Ulfstand,Kong Frederiks,Undirected,1
+Børge,Kong Christiern,Undirected,2
+Kong Christiern,Kong Frederik,Undirected,6
+Kong Frederik,Steen,Undirected,2
+Niels,Steen,Undirected,1
+Axel,Kong Christiern,Undirected,2
+Mogens Gjøe,Niels Brahe,Undirected,2
+Baspyd,Mogens Gjøe,Undirected,1
+Baspyd,Johan Rantzov,Undirected,1
+Johan Rantzov,Melchior,Undirected,1
+Børge,Kjeld,Undirected,1
+Børge,Lybsken,Undirected,1
+Børge,Gud,Undirected,1
+Børge,Niels Nielsen,Undirected,1
+Niels Nielsen,Tyge Mogensen Krabbe,Undirected,1
+Jørgen,Kjeld,Undirected,1
+Børge Ulfstand,Kjeld Bing,Undirected,4
+Kjeld,Severin Norby,Undirected,1
+Børge,hau,Undirected,1
+Børge,Hr. Severin,Undirected,1
+Hr. Severin,Niels,Undirected,1
+Børge,Severin Norby,Undirected,1
+Kong Christiern,Severin Norby,Undirected,6
+Kong Christiern,Konsten,Undirected,2
+Kjeld,Kong Frederik,Undirected,1
+Kong Frederik,Kong Gøste,Undirected,1
+Kong Gøste,hau,Undirected,1
+*,hau,Undirected,1
+Christine Gyldenstjerne,Niels Svantesen,Undirected,1
+Niels Svantesen,Sture,Undirected,1
+Sture,Søren Norby,Undirected,1
+Stokholms,Søren Norby,Undirected,1
+Christiern,Stokholms,Undirected,1
+Børge,Christiern,Undirected,2
+Børge,lian,Undirected,1
+Niels,lian,Undirected,1
+Børge Ulfstand,Niels,Undirected,1
+Christiern,Severin Norby,Undirected,2
+Børge,Niels,Undirected,3
+Anna,Niels,Undirected,3
+Frederik,Kong Christiern,Undirected,2
+Frederik,Tyge Krabbe,Undirected,1
+Edele Sparre,Kirsten Brahe,Undirected,1
+Jomfru Edeles,Kirsten Brahe,Undirected,1
+Jomfru Edeles,Kirsten,Undirected,1
+Jakob,Kirsten,Undirected,20
+Birthe,Jakob,Undirected,8
+Kong Christiern,Thord,Undirected,1
+Edele,Kong Christiern,Undirected,1
+Edele,Thord,Undirected,1
+Kirsten,Thord,Undirected,1
+Birthe,Kirsten,Undirected,3
+Birthe,j,Undirected,1
+Jakob,Jomfru Edele,Undirected,1
+Jomfru Edele,Kirsten,Undirected,1
+Birthe,Jørgen kjær,Undirected,1
+Kjeld Bing,Niels,Undirected,2
+Skaanes,Tyge Brahe,Undirected,1
+Kong Frederik,Tyge Brahe,Undirected,1
+Brahemes,Kong Frederik,Undirected,1
+Brahernes,Pedersen,Undirected,1
+Hr. Tyge,Pedersen,Undirected,1
+Hr. Tyge,Tyge Brahe,Undirected,1
+Luther,Tyge Brahe,Undirected,1
+Leo den,Luther,Undirected,1
+Rosenkrantz,Sparre,Undirected,1
+Graad,Sparre,Undirected,1
+Jørgen Urne,lian,Undirected,1
+Magdalene,lian,Undirected,1
+Jørgen,Magdalene,Undirected,1
+Lunds,Sparre,Undirected,1
+Jørgen,Sparre,Undirected,1
+Jørgen,Tonsur,Undirected,1
+Krummedige,Tonsur,Undirected,1
+Knud Alfsen,Krummedige,Undirected,1
+Knud Alfsen,Kong Christiern,Undirected,1
+Jakob,Jørgen Nielsen,Undirected,2
+Edele,Jakob Thordsen,Undirected,1
+Jørgen Brahe,Kirsten,Undirected,1
+Niels Nielsen,miri,Undirected,1
+Niels Nielsen,Wandaas,Undirected,8
+Graad,Jørgen,Undirected,1
+Bilde,Graad,Undirected,1
+Bilde,Lyngsgaard,Undirected,1
+Gjøe,Jørgen,Undirected,1
+Axel,Jørgen,Undirected,1
+Aage Brahe,Axel,Undirected,1
+Kong Christiern,Predbjørn Podebusk,Undirected,1
+Kong Christiern,Tøilen,Undirected,1
+Børge Ulfstand,Niels Nielsen,Undirected,1
+Niels Nielsen,Tyge Krabbe,Undirected,1
+Niels Brahe,Tyge Krabbe,Undirected,6
+Niels Brahe,Niels Nielsen,Undirected,2
+Niels Nielsen,Predbjørn,Undirected,2
+Rnd,Svend,Undirected,1
+Rnd,Rud,Undirected,1
+Jørgen Urne,Rud,Undirected,1
+Graad,Gregersen Ulfstand,Undirected,1
+Holger,Tyges,Undirected,1
+Magdalene,Tyges,Undirected,1
+Magdalene,Truid,Undirected,1
+Truid,Tyge,Undirected,1
+Tyge,Ulivssaar,Undirected,1
+Kong Hans,Ulivssaar,Undirected,1
+Kong Hans,s,Undirected,1
+Oluf Stigsen,Truid,Undirected,1
+Jørgen,Priis,Undirected,1
+Gjøe,Priis,Undirected,1
+Gjøe,Tyge Brahe,Undirected,1
+Predbjørn Podebusk,lian,Undirected,2
+Claus,lian,Undirected,1
+Gustav Vasa,Predbjørn,Undirected,1
+Gustav Vasa,Holger Hlfstands,Undirected,1
+Holger Hlfstands,Tyge Brahe,Undirected,1
+Niels Hack,Tyge Brahe,Undirected,1
+Kong Frederik,Niels Hack,Undirected,1
+Kong Frederik,Predbjørn,Undirected,1
+Holger Ulfstand,Predbjørn,Undirected,1
+Holger,Niels Hack,Undirected,1
+Predbjørn,Tyge Krabbe,Undirected,1
+Niels Hack,Predbjørn,Undirected,1
+Kjeld Bing,Mogens Gjøe,Undirected,1
+Henrik Gjøe,Predbjørn Podebusk,Undirected,1
+Axel Brahe,Mogens Gjøe,Undirected,2
+Jacob Thordsen,Kirsten Nielsdatter,Undirected,1
+Gud,Jakob,Undirected,4
+Kirsten,Niels Brahe,Undirected,11
+Kirsten,Niels,Undirected,2
+Birthe,Niels Bralies,Undirected,1
+Niels Bralies,lian,Undirected,1
+Jakob,Kirsten Nielsdatter,Undirected,2
+Kirsten,lian,Undirected,3
+Mogens,Svend,Undirected,2
+Jakob,Mogens,Undirected,38
+Gud,Oluf,Undirected,1
+Oluf,Steen,Undirected,1
+Jakob Thordsen,Mogens,Undirected,3
+Jakob,Niels Nielsen,Undirected,5
+Birthe,Niels Nielsen,Undirected,2
+Mogens,Mourits Olufsens,Undirected,1
+Fakkelskin,Mogens,Undirected,1
+Fakkelskin,Hestegny,Undirected,1
+Hestegny,Hundeglam,Undirected,1
+Hr. Krognos,Hundeglam,Undirected,1
+Hr. Krognos,Jakob Thordsen,Undirected,1
+Jakob Thordsen,Thord,Undirected,1
+Mourits,Thord,Undirected,1
+Mourits,Oluf Sparre,Undirected,1
+Oluf Sparre,Thord,Undirected,1
+Jakob,Thord,Undirected,1
+Jakob lang,Mogens,Undirected,1
+Mogens,Skjels,Undirected,1
+Jakob,Svend,Undirected,1
+Jakob,Mogens tang,Undirected,1
+Gud,Mogens,Undirected,6
+Mogens,Niels Nielsen,Undirected,4
+Gud,Niels Nielsen,Undirected,2
+Niels Nielsen,Thord Ibsen,Undirected,1
+Christiern kjær,Mogens,Undirected,2
+Kong Christiern,Mogens,Undirected,1
+Niels Brahe,Thord Ibsen,Undirected,4
+Kong Christiern,Thord Ibsen,Undirected,1
+Mogens,Niels Brahe,Undirected,2
+Mogens,Thord Ibsen,Undirected,2
+Jakob,Karl,Undirected,1
+Jakob Thordsen,Karl,Undirected,1
+Anders Bing,Kjeld,Undirected,2
+Karl,Kjeld,Undirected,1
+Bjørn Jensen,Karl,Undirected,1
+Bjørn Jensen,Jakob,Undirected,2
+Mogens,Povel Kjørnings,Undirected,1
+Povel,Povel Kjørnings,Undirected,1
+Mogens,Povel,Undirected,1
+Jakob,ellens,Undirected,1
+Mogens,ellens,Undirected,1
+Kirsten Nielsdatter,Mogens,Undirected,2
+Bjørn Jensen,Povel Kjørning,Undirected,6
+Jens,Povel Kjørning,Undirected,1
+Anders Bing,Jens,Undirected,1
+Jakob Thordsen,Kong Christiern,Undirected,2
+Mogens,Povel Kjørning,Undirected,2
+Anders Bing,Bjørn Jensen,Undirected,8
+Bjørn Jensen,Jakob Thordsen,Undirected,1
+Jakob,Povel Kjørning,Undirected,3
+Jakob,Povel,Undirected,2
+Anders Bing,Bjørn,Undirected,2
+Bjørn,kjønt,Undirected,1
+Else,Oluf,Undirected,7
+Birthe,Povel Kjørning,Undirected,1
+Anders Bing,jville,Undirected,1
+Jakob,jville,Undirected,1
+Jomfru Birthe,Povel Kjørning,Undirected,1
+Kjeld Bing,Povel Kjørning,Undirected,1
+Karl,Povel Kjørning,Undirected,1
+Anders Bing,Karl,Undirected,1
+Jakob,Jakob Thordsen,Undirected,5
+Birthe Thorsdatter,Jakob,Undirected,1
+Birthe,Ilendes,Undirected,1
+Anders Bing,Povel Kjørning,Undirected,3
+Birthe,Gud,Undirected,1
+Jakob,Sanden,Undirected,1
+Kirsten Nielsdatter,Niels Brahe,Undirected,2
+Braher,Wandaas,Undirected,1
+Jakob,Jørgen,Undirected,11
+Kirsten Nielsdatter,Sands,Undirected,1
+Sands,Ulivssaar,Undirected,1
+Birthe,lian,Undirected,1
+Faders,lian,Undirected,1
+Birthe,Braher,Undirected,1
+Braher,Jørgen Nielsen,Undirected,1
+Dobbel,Mosa,Undirected,1
+Birthe,Jørgen,Undirected,1
+Jørgen,Niels Nielsen,Undirected,2
+Birthe,Herren,Undirected,1
+Faders,Kirsten,Undirected,1
+Kjeld Bing,lian,Undirected,1
+Anders,lian,Undirected,1
+Anders,Niels Brahe,Undirected,2
+Karle,Niels Brahe,Undirected,2
+AH,Niels Brahe,Undirected,1
+AH,Maal,Undirected,1
+Axel Olufsen,Niels Brahe,Undirected,5
+Bjørn Jensen,Niels Brahe,Undirected,1
+Anders Bing,Sancte Oluf,Undirected,1
+Niels Brahe,djerve,Undirected,1
+Niels,flux,Undirected,1
+Morbroder,gaae,Undirected,1
+Oluf,gaae,Undirected,1
+Axel Olufsen,Wandaas,Undirected,1
+Bent,Povel Kjørning,Undirected,1
+Niels Nielsen,lian,Undirected,1
+Niels Brahe,Tyge Baspyd,Undirected,1
+Kong Christiern,Tyge Baspyd,Undirected,2
+Niels Brahe,Povel Kjørning,Undirected,4
+Anders,Wandaas,Undirected,1
+Anna,Kirsten,Undirected,2
+Axel Olufsen,Povel Kjørning,Undirected,1
+Anders Bing,Niels fordum,Undirected,1
+Kjeld Bing,Wandaas,Undirected,1
+Axel,Kjærligheds,Undirected,1
+Anna Pedersdatter,Kjærligheds,Undirected,1
+lian nn,ovei,Undirected,1
+Christiern,Nielsen,Undirected,1
+Christiern,Kong Christiern,Undirected,2
+Christiern,Magnus Green,Undirected,1
+Anders Bing,Axel,Undirected,1
+Morfader,Niels Brahe,Undirected,1
+Christiern,Karle,Undirected,1
+Karle,Thinge,Undirected,1
+Sancte Birgitte Kloster,Thinge,Undirected,1
+Gud,Sancte Birgitte Kloster,Undirected,1
+Gud,Thorlav,Undirected,1
+Peder,Thorlav,Undirected,1
+Karle,Magdalene,Undirected,1
+Magdalene,Niels,Undirected,1
+Bjørn Jensen,Gud,Undirected,1
+Axel Olufsen,Kong Christiern,Undirected,1
+Kong Hans,Oluf,Undirected,1
+Axel,Marv,Undirected,1
+Christiern Lybskens,Marv,Undirected,1
+Christiern Lybskens,Kong Hans,Undirected,1
+Braadden,Kong Hans,Undirected,1
+Bjørn Jensen,Kong Christiern,Undirected,1
+Farbroder,Jørgen,Undirected,1
+Farbroder,Oldefaders,Undirected,1
+Lybsken,Oldefaders,Undirected,1
+Lybsken,Søren Norby,Undirected,1
+Kong Christiern,Søren Norby,Undirected,8
+Frederik Huldskab,Povel Kjørning,Undirected,1
+Gud,Jørgen,Undirected,4
+Jørgen,grant,Undirected,2
+Kong Christiern,Oluf,Undirected,1
+Jørgen,Kong Christiern,Undirected,1
+Jørgen,lian,Undirected,3
+Jens Tygesen,Svend,Undirected,1
+Jens Tygesen,Spliid,Undirected,1
+Jørgen,Spliid,Undirected,1
+Kong Frederik,Oluf Turesen,Undirected,1
+Niels Nielsen,Oluf,Undirected,1
+Niels Brahe dreiede,Oluf Turesen,Undirected,1
+Jens Tygesen,Oluf Turesen,Undirected,1
+Anna Pedersdatter,Jens,Undirected,1
+Jens,Niels Nielsen,Undirected,1
+Jens,Oluf Turesen,Undirected,1
+Gud,Kong Christiern,Undirected,5
+Gud,signe Huusbond,Undirected,1
+Anders Bing,Kjeld Bing,Undirected,1
+Anders Bing,Axel Olufsen,Undirected,1
+Axel Olufsen,Niels,Undirected,1
+Gainle Axel,Niels Brahe,Undirected,1
+Anna,Niels Brahe,Undirected,6
+Gud,Niels,Undirected,2
+Niels,s,Undirected,1
+Anna,Christiern kjær,Undirected,1
+Christiern,Kong Frederik,Undirected,1
+Anna Pedersdatter,Axel,Undirected,1
+Niels,Niels Hack,Undirected,1
+Niels Hack,lian,Undirected,1
+Gud,signe,Undirected,2
+Anna,Axel,Undirected,1
+Christiern,Søren Norby,Undirected,1
+Arne,Søren Norby,Undirected,1
+Niels Brake,Nikolaus,Undirected,1
+.Tensen,Bjørn,Undirected,1
+.Tensen,Niels Brahe,Undirected,1
+Povel Kjørning,Søren Norby,Undirected,1
+Kong Christierns Sagat,Søren Norby,Undirected,1
+Kong Christierns Sagat,Niels Brahe,Undirected,1
+Gud Herrens,Niels Brahe,Undirected,1
+Povel Kjørning,guul,Undirected,1
+Niels Brahe,guul,Undirected,1
+Erik Pommerinke,Povel Kjørning,Undirected,1
+Christoffer,Erik Pommerinke,Undirected,1
+Kong Waldemar Atterdag,Niels Brahe,Undirected,1
+Kong AVolmer,Niels Brahe,Undirected,1
+Kong AVolmer,Sanct Nicolai,Undirected,1
+Severin Brun,Søren Norby,Undirected,1
+Niels Brahe,Severin Brun,Undirected,1
+Axelsen Thott,Kikud,Undirected,1
+Axelsen Thott,grant,Undirected,1
+Gud,grant,Undirected,1
+Gud,Sancte Nicolaus,Undirected,1
+Mads Liflænder,Severin Brun,Undirected,1
+Mads Liflænder,Niels Brahe,Undirected,4
+Henrik,Mads Liflænder,Undirected,2
+Mads Liflænder,Søren,Undirected,1
+Niels Brahe,Søren,Undirected,1
+Karl,Niels Brahe,Undirected,1
+Mads,Ole,Undirected,2
+Mads,Niels Brahe,Undirected,2
+Ole,Øland,Undirected,1
+Karl,Øland,Undirected,1
+Niels Brahe,Ole,Undirected,1
+Else,Ole,Undirected,1
+Gud,Øland,Undirected,2
+Eckenløv,Niels Brahe,Undirected,3
+Anders Bing,Gud,Undirected,1
+Christiern,hiin,Undirected,1
+Eckenløv,Mads Liflænder,Undirected,1
+Mads Liflænder,Oluf,Undirected,1
+Johan den,Junker Mourits,Undirected,1
+Gotskalk Eriksen Rosenkrantz,Oluf,Undirected,1
+Gotskalk Eriksen Rosenkrantz,Mads Liflænder,Undirected,1
+Junker Mouritz,Mads Liflænder,Undirected,1
+Got skalk Eriksen,Junker Mouritz,Undirected,1
+Got skalk Eriksen,Niels Brahe,Undirected,1
+Gotskalk Eriksen,Niels Brahe,Undirected,2
+Gotskalk Eriksen,Sanct Jacob nei,Undirected,1
+Gotskalk Eriksen,Snildlied,Undirected,1
+Gud,Snildlied,Undirected,1
+Gud,foi,Undirected,1
+Gotskalk Eriksen,Junker Mouritz,Undirected,1
+Gotskalk Eriksen,Jakob,Undirected,1
+Hr.'Severin,Junker,Undirected,1
+Frederik,Gotskalk Eriksen,Undirected,2
+Frederik,Kong Gøste,Undirected,3
+Junker Mourits,Kong Christiern,Undirected,2
+Gotskalk Eriksen,lian,Undirected,1
+Eckenløv,Gotskalk Eriksen,Undirected,1
+Stisen,Søren Norby,Undirected,1
+Junker Mourits,Søren Norby,Undirected,4
+Gotskalk Eriksen,Junker Mourits,Undirected,1
+Niels Brahe,Søren Norby,Undirected,17
+Junker Mourits,Niels Brahe,Undirected,5
+Hr. Severin,Kong Christiern,Undirected,1
+Hr. Severin,Oluf,Undirected,1
+Lasse,Niels Nielsen,Undirected,1
+Lasse,Søren Norby,Undirected,1
+Bernt von Mehlen,Gøste,Undirected,2
+Bernt von Mehlen,Otte Andersen Ulfeld,Undirected,1
+Kong Frederik,Otte Andersen Ulfeld,Undirected,1
+Andersen,Kong Christiern,Undirected,1
+Andersen,Kong Frederik,Undirected,1
+Kong Frederik,von Mehlen,Undirected,1
+Bilde,von Mehlen,Undirected,1
+Bilde,Frederik,Undirected,1
+Kong Gøste,Mikkel Brøkkenhuus,Undirected,1
+Mikkel Brøkkenhuus,Sebastian Frølich,Undirected,1
+Bille,Sebastian Frølich,Undirected,1
+Bernt von Mehlen,Bille,Undirected,1
+Gøste,Kong Frederik,Undirected,1
+Kong Frederik,Sebastian,Undirected,3
+Sebastian,Sebastian Frølich,Undirected,1
+Kong Frederik,Sebastian Frølich,Undirected,1
+Kong Gøste,Sebastian,Undirected,1
+Niels Brahe,Severins,Undirected,1
+Kong Frederik,Severins,Undirected,1
+Kong Frederik,Søren Norby,Undirected,2
+Niels Brake,livad lian,Undirected,1
+Søren Norby,livad lian,Undirected,1
+Sten Stures,Søren Norby,Undirected,1
+Gyldenstjerne,Sten Stures,Undirected,1
+Søren Norby,nn,Undirected,1
+Niels Brahe,nn,Undirected,1
+Niels Brahe,grant,Undirected,1
+Søren Norby,grant,Undirected,1
+Sanct,Søren Norby,Undirected,1
+Jørgen signe,Sanct,Undirected,1
+Kong Gøste,Niels Nielsen,Undirected,1
+Kong Christiern,Niels Nielsen,Undirected,1
+Hans,Kong Christiern,Undirected,1
+Niels Nielsen,Søren Norby,Undirected,3
+Niels Nielsen,Sancte Jørgen,Undirected,1
+Gud,Sancte Jørgen,Undirected,1
+Sancte Jørgen,Severin Norby,Undirected,1
+Severin Norby,Skaanes,Undirected,1
+Niels Brahe,strunk,Undirected,2
+van,Øland,Undirected,1
+Eckenløv,Gud,Undirected,1
+Oluf,Povel Kjørning,Undirected,1
+Dandsen,Oluf,Undirected,1
+Dandsen,Niels Brahe,Undirected,1
+Anders Bing,Sancte Gjertrud,Undirected,1
+Bodil Olsens,Grander,Undirected,1
+Grander,hans Arne,Undirected,1
+Christen Kræmmer,hans Arne,Undirected,1
+Christen Kræmmer,Klipping,Undirected,1
+Klipping,hyt Klipping,Undirected,1
+Christen Kræmmer,hyt Klipping,Undirected,1
+Bodil Olsen,Niels Brahe,Undirected,1
+Christen,Christen Kræmmer,Undirected,2
+Christen,Kong Christiern,Undirected,1
+Keiser Carl,Kong Christiern,Undirected,1
+Albrecht,Kong Christiern,Undirected,1
+Albrecht,Christiern,Undirected,1
+Christiern,Keiser,Undirected,1
+Carl,Keiser,Undirected,1
+Carl,Kong Christiern,Undirected,1
+Christen Kræmmer,Kong Christiern,Undirected,1
+Christen Kræmmer,Vadmels,Undirected,1
+Bodil,Vadmels,Undirected,1
+Bodil,Olsen,Undirected,1
+Christen Kræmmer,tang,Undirected,1
+Wandaas,tang,Undirected,1
+Christen,tanse,Undirected,1
+Christen,Jakob Thordsen,Undirected,5
+Christen,grant,Undirected,1
+Mogens,grant,Undirected,1
+Christen,Jakob,Undirected,4
+Christen Kræmmer,Jakob Thordsen,Undirected,1
+Alma-Aaens,Jakob Thordsen,Undirected,1
+Christen,Mogens,Undirected,1
+Christen,Gud,Undirected,1
+Christen,Dn,Undirected,1
+Eden,Mogens,Undirected,1
+Kirsten,Kirsten Nielsdatter,Undirected,2
+Kirsten,Mogens,Undirected,6
+Beiler,Jakob,Undirected,1
+Beiler,Wandaas,Undirected,1
+Kirsten,Wandaas,Undirected,3
+Christen Kræmmer,Else,Undirected,2
+Christen,Edei,Undirected,1
+Christen,Kirsten,Undirected,5
+Christen Kræmmer,Kirsten,Undirected,1
+Jakob Thordsen,Kirsten,Undirected,3
+Jakob Thordsen,Svend,Undirected,1
+Christen,Kirsten Nielsdatter,Undirected,1
+Else,else,Undirected,1
+Gud,Kirsten,Undirected,3
+Mads,Svend,Undirected,1
+Jakob Thordsen,Jomfru Kirsten,Undirected,1
+Else,Jakob Thordsen,Undirected,2
+Else,Mogens,Undirected,5
+Else,Vadmel,Undirected,1
+Mogens,Vadmel,Undirected,1
+Else,Jakob,Undirected,1
+Else,Niels Nielsen,Undirected,1
+Jakob Thordsen,Niels Brahe,Undirected,4
+Jesu Christi Vunders,Niels,Undirected,1
+Anders Bing,Jakob,Undirected,2
+Anders Bing,Kirsten,Undirected,1
+Lise,Niels Brahe,Undirected,1
+Jakob,Niels Brahe,Undirected,3
+Jakob,Konsten,Undirected,1
+Ari,Niels Brahe,Undirected,1
+Jakob,Kong Christiern,Undirected,2
+Christiern,Kirsten,Undirected,1
+Christiern,grant,Undirected,1
+Kirsten,Niels Nielsen,Undirected,1
+Kirsten,Kjørnings,Undirected,1
+Kjørnings,Niels Brahe,Undirected,1
+Oluf,Plougen,Undirected,1
+Christiern,Oluf,Undirected,2
+Christiern,Tyge Krabbe,Undirected,1
+Tyge Krabbe,ellei,Undirected,1
+Niels Brahe,Oluf Turesen,Undirected,3
+Peder Knudsen,Stisen,Undirected,1
+Severins,vaie,Undirected,1
+Anna,Morbroder,Undirected,1
+Oluf Turesen,Wandaas,Undirected,1
+Niels Brahe,Spaadom,Undirected,1
+Gud,Wandaas,Undirected,1
+Anna,Wandaas,Undirected,1
+Kong Frederik,Stiseus,Undirected,1
+Kong Frederik,Tyge Krabbe,Undirected,3
+Kong Frederik,lian,Undirected,2
+Reinwald von Heidersdorf,lian,Undirected,1
+Enderlin van Vene,Reinwald von Heidersdorf,Undirected,1
+Enderlin van Vene,Stisen,Undirected,1
+Niels Brahe,ges,Undirected,1
+Axel Olufsen,Tyge Krabbe,Undirected,1
+Bodil Olsen,Oluf Turesen,Undirected,1
+Bodil Olsen,Tyge Krabbe,Undirected,1
+Jens Tygesen,Jørgen,Undirected,7
+Hr. Tyge,Jørgen,Undirected,1
+Gud,nei,Undirected,1
+Niels,nei,Undirected,1
+Jørgen,"Kong Christiern,’da",Undirected,1
+Jørgen,Niels,Undirected,1
+Jens Tygesen,hau,Undirected,1
+Gud,hau,Undirected,1
+Jens Tygesen,Søren Norby,Undirected,1
+Jens,lille Jørgen,Undirected,1
+Blaar,Jens,Undirected,1
+Jens Tygesen,Stisen,Undirected,1
+Jens Tygesen,Wandaas,Undirected,1
+Jens,Krabbe,Undirected,1
+Enderlin van Wene,Reinvald von Heidersdorf,Undirected,1
+Jørgen Schimmel,Reinvald von Heidersdorf,Undirected,1
+Axel Brahe,Jørgen Schimmel,Undirected,1
+Axel Brahe,Claus Bilde,Undirected,1
+Claus Bilde,Henrik Krummedige,Undirected,1
+Enderliu van Wene,Henrik Krummedige,Undirected,1
+Enderliu van Wene,Reinvald von Heidersdorf,Undirected,1
+Axel Brahe,Jørgen,Undirected,3
+Jens,Jens Tygesen,Undirected,3
+Jens,Kurt,Undirected,1
+Kurt,loe,Undirected,1
+Jens Tygesen,Kurt,Undirected,1
+Kurt,Post,Undirected,1
+Georg Frundsberg,Post,Undirected,1
+Enderlin,Georg Frundsberg,Undirected,1
+Enderlin,Stisen,Undirected,1
+Stisen,luunt,Undirected,1
+Kurt,Niels Brahe,Undirected,1
+Axel Brahe,lian,Undirected,1
+Frederik,Jørgen,Undirected,1
+Jakob Thordsen,Jørgen,Undirected,1
+Jakob-,Kirsten,Undirected,1
+Jørgen,signe,Undirected,1
+Kirsten,Kong Christiern,Undirected,2
+Kong Frederik,Niels Brahe,Undirected,1
+Junker Mourits,Otte Stisen,Undirected,1
+Aage Brahe,Junker Mourits,Undirected,1
+Hr. Severin,Niels Brake,Undirected,1
+Niels Brake,Tyge Krabbe,Undirected,1
+Tyge Krabbe,Wandaas,Undirected,1
+Niels Brahe,Svend Tygesen,Undirected,1
+Oluf,Wandaas,Undirected,1
+Luth,Luthen,Undirected,1
+Kirsten,Luthen,Undirected,1
+Anne,Kirsten,Undirected,1
+Kong Christiern,seirer,Undirected,1
+Jakob,seirer,Undirected,1
+Jakob,steiles,Undirected,1
+Kirsten,Luur,Undirected,1
+Auna,Niels Brahe,Undirected,1
+Niels Brahe,Svend,Undirected,1
+Anna,Seir,Undirected,1
+Knud Pedersen Bilde,Otte Stisen,Undirected,1
+Daa,Knud Pedersen Bilde,Undirected,1
+Aage Brahe,Otte Stisen,Undirected,1
+Otte Stisen,Tyge Krabbe,Undirected,1
+Reinvalcj von Heidersdorf,Tyge Krabbe,Undirected,1
+Axel Brahe,Reinvalcj von Heidersdorf,Undirected,1
+Enderlin van Vene,Tyge Krabbe,Undirected,1
+Enderlin van Vene,Jakob Thordsen,Undirected,1
+Enderlin van Vene,Jakob,Undirected,1
+Karl,Kurt,Undirected,1
+Claus Bilde,Tyge Krabbe,Undirected,5
+Jens Tygesen,Niels Brake,Undirected,1
+Jakob Thordsen,Niels Brake,Undirected,1
+Jakob Thordsen,Jens Tygesen,Undirected,2
+Jakob Thordsen,Jens,Undirected,1
+Claus Bilde,Friis,Undirected,1
+Claus Bilde,Jakob Thordsen,Undirected,8
+Graasteen,Mogens,Undirected,1
+Graasteen,Jette,Undirected,1
+Jakob,Jette,Undirected,1
+Mogens,lian,Undirected,1
+Mogens,Steen,Undirected,1
+Kjørning,Povel,Undirected,1
+Jakob,Kjørning,Undirected,1
+Bjørn Jensen,Niels Nielsen,Undirected,1
+Kong Christiern,lian,Undirected,3
+Anders,Jakob,Undirected,1
+Anders,Bjørn,Undirected,1
+Bjørn,Niels Nielsen,Undirected,1
+Jakob,lian,Undirected,3
+Claus Bilde,Jakob,Undirected,2
+Claus Bilde,Enderlin,Undirected,3
+Karle »,Wandaas,Undirected,1
+Enderlin,Jakob Thordsen,Undirected,2
+Jakob,Jens Tygesen,Undirected,1
+Jakob,Niels Brake,Undirected,1
+Claus Bilde,Otto Stisens,Undirected,1
+Niels Brahe,Otto Stisens,Undirected,1
+Niels Brahe,lian,Undirected,1
+Bohave,Claus Bilde,Undirected,1
+Claus Bilde,Enderlin van Vene,Undirected,1
+Junker Mourits,Krummedige,Undirected,1
+Søren Norby,Tyge Krabbe,Undirected,2
+Junker Mourits,Tyge Krabbe,Undirected,3
+Junker Mourits,Karl i,Undirected,2
+Junker Mourits,Luur,Undirected,2
+Mourits,Tyge Krabbe,Undirected,1
+Frederik,Junker MoUrits,Undirected,1
+Frederik,Gud,Undirected,1
+Gud,Mogensen,Undirected,1
+Kong Christiern,Skaane,Undirected,1
+Junker Mourits,Severin Norby,Undirected,1
+Frederik,Severin Norby,Undirected,1
+Frederik,Grev Mourits,Undirected,1
+Grev Mourits,Kong Frederik,Undirected,1
+Kong Frederik,Severin Norby,Undirected,2
+Frederik,Tyge Mogensen,Undirected,1
+Junker Mourits,Kong Frederik,Undirected,1
+Gud,Junker Mourits,Undirected,1
+Gud,Tyge Krabbe,Undirected,1
+Junker Mourits,hiin,Undirected,1
+Junker Mourits,hans Svend,Undirected,1
+Junker Mourits,Karl,Undirected,1
+Henrik Krummedige,Knud Alfson,Undirected,1
+Knud Alfson,Tyge Krabbe,Undirected,1
+Christiern Tyran,Kong Frederik,Undirected,1
+Enderim van Vene,Predbjørn Podebusk,Undirected,1
+Predbjørn Podebusk,Reinvalds,Undirected,1
+Enderlin,Reinvalds,Undirected,1
+Enderlin van Vene,Reinvald von Heidersdorff,Undirected,1
+Enderlin van Vene,Henrik Krummedige,Undirected,1
+Henrik Krummedige,Tyge Krabbe,Undirected,1
+Aage Hansen,Tyge Krabbe,Undirected,1
+Aage Hansen,Sølvitsborg,Undirected,1
+Jakob Thordsen,Predbjørn Podebusk,Undirected,1
+Enderlin,Reinvald,Undirected,1
+Sanct Jørgen,Søren Norby,Undirected,2
+Kong Christern,lian,Undirected,1
+Sancte Jørgen,Tyge Baspyd,Undirected,1
+Kong Christiern,signe,Undirected,2
+Junker,Kong Christiern,Undirected,1
+Otte Stisen,Søren Norby,Undirected,7
+Otte Stisen,Severin Brun,Undirected,1
+Daniel von Cølln,Severin Brun,Undirected,1
+Daniel von Cølln,Michael Zuhn,Undirected,1
+Michael Zuhn,Niels Esbernsen,Undirected,1
+Hr. Mourits,Sølvitsborg,Undirected,1
+Søren Norby,Villie,Undirected,1
+Niels Brahe,Otte Stisen,Undirected,1
+Niels Brahe,Niels Esbernsen,Undirected,1
+Karl og,Niels Esbernsen,Undirected,1
+Sancte Jørgen,Søren Norby,Undirected,1
+Edei-,Søren Norby,Undirected,1
+Edei-,Kong Christiern,Undirected,1
+Michael Zuhn,Otte Stisen,Undirected,1
+Kong Christiern,Otte Stisen,Undirected,2
+Karl,Kong Christiern,Undirected,1
+Karl,Niels Nielsen,Undirected,1
+Offre,Søren Norby,Undirected,1
+Offre,Tyge Krabbe,Undirected,1
+Severin Norby,Tyge Krabbe,Undirected,1
+Predbjørn Podebusk,Severin Norby,Undirected,1
+Claus Bilde,Karle,Undirected,1
+Claus Bilde,Peter,Undirected,1
+Kong Frederik,Mogensen,Undirected,2
+Mogensen,Skaane,Undirected,1
+Jens Blanckert,Skaane,Undirected,1
+Horby,Jens Blanckert,Undirected,1
+Horby,Mogensen,Undirected,1
+Kong Christiern,Norby,Undirected,1
+Mogensen,Otte Stisen,Undirected,1
+Claus Bilde,Daniel,Undirected,3
+Karl,Stisen,Undirected,1
+Claus Steensen,Karl,Undirected,1
+Claus Bilde,herhid,Undirected,1
+Daniel,Jakob,Undirected,1
+Claus Bilde,Claus Blodøxe,Undirected,1
+Jakob,Tøilen,Undirected,1
+Tyge Krabbe,enkver,Undirected,1
+Søren Nor,enkver,Undirected,1
+Søren Nor,Søren Norby,Undirected,1
+Søren Norby,øg,Undirected,1
+Predbjørn,Søren Norby,Undirected,1
+Braadden,Tyge Krabbe,Undirected,1
+Braadden,Søren Norby,Undirected,1
+Søren Norby,len,Undirected,1
+Axel Brahe,Tyge Krabbe,Undirected,1
+Axel Brahe,Sparre,Undirected,1
+Claus Bilde,Søren,Undirected,1
+Norby,Søren Norby,Undirected,1
+Søren Nor,lian,Undirected,1
+Hans Skovgaard,Mogens Falster,Undirected,1
+Hans Skovgaard,Kannik Christiern Pedersen,Undirected,1
+Kannik Christiern Pedersen,Søren Norby,Undirected,1
+Gud,Kjelder,Undirected,1
+Naades,Søren Norby,Undirected,1
+Axel Olufsen,Søren Norby,Undirected,1
+Christiern,Thronens,Undirected,1
+Søren Norby,Thronens,Undirected,1
+Aaget,Thinge,Undirected,1
+Junker Mourits,Thinge,Undirected,1
+Christiern Pedersen,Oluf,Undirected,1
+Christiern Pedersen,Kirsten,Undirected,1
+Kirsten,Otte Stisen,Undirected,1
+Kirsten,Søren Norby,Undirected,2
+Frederik,lian,Undirected,1
+Frederik,livor,Undirected,1
+Arilds,livor,Undirected,1
+Frederik Huldskab,Kong Christiern,Undirected,1
+Kong Christiern,Thinge,Undirected,1
+Mads Jepsen,Søren Norby,Undirected,3
+Gubbes,Mads,Undirected,1
+Frederik,Kong Frederik,Undirected,1
+Gud,Sancte,Undirected,1
+Oluf nei,Sancte,Undirected,1
+Kong Frederik,Mads,Undirected,1
+Kong Frederik,Tyge Baspyd,Undirected,1
+Mads,Søren Norby,Undirected,1
+Niels Brahe,hayde,Undirected,1
+Søren Norby,hayde,Undirected,1
+Junker Mourits,Kirsten,Undirected,1
+Birthe Thorsdatter,Kjelder,Undirected,1
+Birthe,Kjelder,Undirected,1
+Birthe,hans Slegfredriv,Undirected,1
+Birthe offrede,Niels Brahe,Undirected,1
+Claus Bilde,Niels Brahe,Undirected,1
+Claus Bilde,Søren Norby,Undirected,1
+Gud,Jomfru Sidsel,Undirected,1
+Jomfru Birthe,Jomfru Sidsel,Undirected,1
+Birthe,Sidsel,Undirected,1
+Jens Rosensparres,Lyngsgaard,Undirected,1
+Christoffer Hvitfelds,Jens Rosensparres,Undirected,1
+Christoffer Hvitfelds,Gud,Undirected,1
+Birthe,Jep Gaardfoged,Undirected,1
+Jomfru Birthe,Sidsel,Undirected,2
+Gud,Sidsel,Undirected,1
+Birthe,Karle,Undirected,1
+Birthe,Mogens,Undirected,9
+Jomfru Birthe,Mogens,Undirected,1
+Mogens,Sidsel,Undirected,4
+Mogens,hail,Undirected,1
+Sidsel,ilendes,Undirected,1
+ilendes,lian,Undirected,1
+Mogens,Søren Norby,Undirected,1
+Sidsel,Søren Norby,Undirected,1
+Karl,Mogens,Undirected,2
+Brodér,Daniel,Undirected,1
+Daniel,Mogens,Undirected,5
+Mogens,Mogens Svendsen,Undirected,1
+Erik,Mogens Svendsen,Undirected,1
+Erik,fonneld Birthe Thorsdatter,Undirected,1
+Kong Christiern,fonneld Birthe Thorsdatter,Undirected,1
+Birthe Thorsdatter,Trolles,Undirected,1
+Laud,Mogens,Undirected,1
+Daniel vaer,Sidsel,Undirected,1
+Daniel,Daniel vaer,Undirected,1
+Daniel,Sidsel,Undirected,4
+Birthe,Birthe Thorsdatter,Undirected,1
+Jakob,Tyge Krabbe,Undirected,1
+Daniel,Tyge Krabbe,Undirected,1

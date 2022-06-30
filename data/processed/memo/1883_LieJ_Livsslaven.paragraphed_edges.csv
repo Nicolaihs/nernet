@@ -1,0 +1,137 @@
+source,target,type,weight
+Barbro,Nikolais,Undirected,1
+Høgda,Stakkars,Undirected,1
+Barbro,Høgden,Undirected,1
+Barbro,Wejergangs,Undirected,2
+Barbro,Lars,Undirected,2
+Holman,Nikolai,Undirected,4
+Holman,Madam Holman,Undirected,4
+Dot,Holman,Undirected,1
+Dot,Per Tot,Undirected,1
+Nikolai,Ursilla,Undirected,1
+Silla,Ursilla,Undirected,1
+Madamen,Maren,Undirected,1
+Maren,Nikolai,Undirected,2
+Madam Holman,Maren,Undirected,4
+Madam Holman,Nikolai,Undirected,11
+Lars,klans,Undirected,1
+Lizzies,Ludvigs,Undirected,1
+Ludvig,Nikolai,Undirected,10
+Barbro,Nikolai,Undirected,12
+Lizzie,Ludvig,Undirected,8
+Lizzie,Nikolai,Undirected,1
+Barbro,Ludvig,Undirected,4
+Nikolai,hans,Undirected,1
+Barbro,Lizzie,Undirected,2
+Nikolai,stur,Undirected,1
+Barna,Lizzie,Undirected,1
+Madam Holman,Silla,Undirected,20
+Nikolai,Silla,Undirected,44
+Madam Holman,Trondsens,Undirected,1
+Holman,Silla,Undirected,2
+Ludvig Wejergang,Nikolai,Undirected,3
+Ludvig Wejergang,Wejergang,Undirected,1
+Graate,Ludvig Wejergang,Undirected,1
+Barbro,Tyne,Undirected,1
+Magen,Scheeles,Undirected,1
+Jente,Kjæresten,Undirected,1
+Silla,Svend,Undirected,1
+Flire,Silla,Undirected,1
+Anders Berg,Nikolai,Undirected,1
+Jan Peter,Nikolai,Undirected,1
+Jan Peter,Katrinus,Undirected,1
+Bernt Johan Jakobsen,Katrinus,Undirected,1
+Bernt Johan Jakobsen,Petter Evensen,Undirected,1
+Madam Olsen,pene,Undirected,1
+Anders Berg,Mesteren,Undirected,1
+Anders Berg,Kot,Undirected,1
+Anders Berg,Svend,Undirected,1
+Anders Berg,Knivs,Undirected,1
+Svend,ihob,Undirected,1
+Nikolai,ihob,Undirected,1
+Gutten,Nikolai,Undirected,1
+Nikolai,sigi,Undirected,1
+Nikolai,Prambygger Hansen,Undirected,1
+Graad,Silla,Undirected,1
+Graad,Nikolai,Undirected,3
+Lena,Stina,Undirected,1
+Kristofa,Stina,Undirected,1
+Kalia,Kristofa,Undirected,2
+Josefa,Kalia,Undirected,1
+Gunda,Josefa,Undirected,3
+Gunda,Jakobine,Undirected,2
+Jakobine,Kristofa,Undirected,1
+Kristofa,Silla,Undirected,8
+Kristofa,Oljenl,Undirected,1
+Silla,migi,Undirected,1
+Kraake,Krage,Undirected,1
+Andersens,Madam Holman,Undirected,1
+Madam,Madam Holman,Undirected,1
+Andersen,Madam,Undirected,1
+Andersen,Nilsen,Undirected,1
+Høkermadam,Nilsen,Undirected,1
+Høkermadam,Jenta,Undirected,1
+Madam Holman,Wejergang,Undirected,1
+Silla,Wejergang,Undirected,3
+Madam,Silla,Undirected,1
+Kristofa,Madam Holman,Undirected,1
+Nikolai,Wejergang,Undirected,9
+Dure,Silla,Undirected,1
+Madam Holman,Silla nogenting,Undirected,1
+Madam Holman,Spart,Undirected,1
+Spart,spart,Undirected,1
+Nikolai,lian,Undirected,2
+Barbro,Silla,Undirected,10
+Madam Holman,liun,Undirected,1
+Silla,liun,Undirected,1
+Kalla,Kristofa,Undirected,1
+Josefa,Kalla,Undirected,1
+Nikolai,Tine,Undirected,1
+Graad,Ludvig,Undirected,1
+Frøken Lizzie,Ludvig,Undirected,1
+Nikolai,hendel,Undirected,1
+Barbro,Madam Holman,Undirected,7
+Barbro,Holman,Undirected,1
+Ludvig Wejergang,Madam Holman,Undirected,1
+Barbro,Ludvig Wejergang,Undirected,1
+Ludvig,Silla,Undirected,1
+Fregner,Silla,Undirected,1
+Barbro,Fregner,Undirected,1
+Ludvig Wejergang,Silla,Undirected,3
+Line,Nikolai,Undirected,1
+Kristofa,Wejergang,Undirected,1
+Madam Holman,sytti,Undirected,1
+Berg,Nikolai,Undirected,1
+Barbro,Berg,Undirected,1
+Gunda,Kalla,Undirected,1
+Kalla,Silla,Undirected,1
+Antonisens,Nikolai,Undirected,1
+Madam Holman,Sillal,Undirected,1
+Flun,Nikolai,Undirected,1
+Madam Holman,Madam Holman taug,Undirected,1
+Barbro,Madam Holman taug,Undirected,1
+Nikolai,didop,Undirected,1
+Nikolai,Olaves,Undirected,3
+Grugg,Grums,Undirected,1
+Madam Ellingsen,Olaves,Undirected,2
+Hægberg,Nikolai,Undirected,1
+Antonisens,Silla,Undirected,1
+Madam Ellingsen,Silla,Undirected,1
+Makrellens,Silla,Undirected,1
+Gunda,Silla,Undirected,4
+Jørgine Korneliussen,Silla,Undirected,1
+Jørgine,Silla,Undirected,5
+Kjede,Silla,Undirected,1
+Nikolai,bisso,Undirected,1
+Silla,iforgaars,Undirected,1
+Madam Ellingsen,Nikolai,Undirected,1
+Iver,Kristofa,Undirected,1
+Gunda,Iver,Undirected,1
+Flun,Silla,Undirected,1
+Jakobine,Silla,Undirected,1
+Jakobine,Madam Holman,Undirected,1
+Draaben,Nikolai,Undirected,1
+Nikolai,haml,Undirected,1
+Wejergang,sju,Undirected,1
+Olaves,ifjor,Undirected,1
+Livi,Olaves,Undirected,1

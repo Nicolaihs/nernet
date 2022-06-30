@@ -1,0 +1,117 @@
+source,target,type,weight
+Berlong,Fuurbo,Undirected,4
+Fuurbo,Guds,Undirected,1
+Fuurbo,Knud,Undirected,6
+Anna,Knud,Undirected,5
+Anna,Fuurbo,Undirected,3
+Anna,Otto,Undirected,5
+Karoline,Otto,Undirected,10
+Karoline,Knud,Undirected,2
+Berlong,Vilsgaard,Undirected,18
+Madam Jensen,Margrete,Undirected,1
+Karl,Margrete,Undirected,3
+Karl,Madam Jensen,Undirected,1
+Mo,Mortensen,Undirected,1
+Margrete,Olsen,Undirected,2
+Margrete,Mester,Undirected,1
+Mester,Olsen,Undirected,1
+Knud,Otto Fuurbo,Undirected,1
+Knud,Otto,Undirected,20
+Gud,Knud,Undirected,2
+Antonius,Knud,Undirected,2
+Fuurbo,Jensen,Undirected,1
+Gud,Karl Jensen,Undirected,1
+Fuurbo,Karoline,Undirected,4
+Anna,Karoline,Undirected,4
+Kristine,Madam Ballund,Undirected,3
+Anton,Jens Røgters,Undirected,1
+Berlong,a.t han,Undirected,1
+Anna,Vilsgaard,Undirected,3
+Anna,Berlong,Undirected,1
+Knud,Sorn,Undirected,1
+Jensen,Knud,Undirected,1
+Berlong,Ingemanns,Undirected,1
+Jensen,Otto,Undirected,1
+Fuurbo,Otto,Undirected,22
+Fuurbo,Hammershus,Undirected,1
+Fuurbo,Gud,Undirected,2
+Doren,Margrete Jensen,Undirected,1
+Margrete Jensen,Otto,Undirected,5
+Fuurbo,Margrete Jensen,Undirected,1
+Anton Ballund,Karoline Fuurbo,Undirected,1
+Andersens,Karoline Fuurbo,Undirected,1
+Anton,Mortensen,Undirected,1
+Fuurbo,Madam Ballund,Undirected,2
+Anton,Fuurbo,Undirected,1
+Konsul M.,j,Undirected,1
+Konsul M.,Lieutnant,Undirected,1
+Gud,Hr. Vilsgaard,Undirected,2
+Brostad,Knud,Undirected,2
+Fuurbo,Ingelund,Undirected,2
+Ingelund,Stempel,Undirected,1
+Brostad,Kristi,Undirected,1
+Gud,Karl,Undirected,1
+Gud,Mo,Undirected,1
+Margrete,Mo’,Undirected,1
+Jesus,Margrete,Undirected,1
+Karl,Otto,Undirected,13
+Fuurbo,Karl,Undirected,1
+Jensen,Karl,Undirected,1
+Gud,Jensen,Undirected,1
+Adams,Gud,Undirected,1
+Kristum,Pastor Stempel,Undirected,1
+Grosse,Pastor Stempel,Undirected,1
+Grosse,Kristus,Undirected,1
+Gud,Provst Ingelunds,Undirected,1
+Ingelund,Knud,Undirected,1
+Otto,Otto Fuurbo,Undirected,1
+Margrete,Otto,Undirected,14
+Fuurbo,Margrete,Undirected,1
+Fuurbo,Karl Jensen,Undirected,3
+Knud,Margrete,Undirected,2
+Anna,Margrete,Undirected,2
+Braadden,Karoline,Undirected,1
+Berlong kuhde,Karen,Undirected,1
+Berlong,Berlong kuhde,Undirected,1
+Eva,Vilsgaard,Undirected,1
+Anna Fuurbo,Vilsgaard,Undirected,7
+Anton,Madam Ballund,Undirected,1
+JOtto,Knud,Undirected,1
+Gud,Otto,Undirected,6
+Kristus,Otto,Undirected,1
+Anton,Otto,Undirected,3
+Anton,Karoline,Undirected,2
+Karoline,Madam Ballund,Undirected,1
+Anton,Flun,Undirected,1
+Anton,Fastor Fuurbo,Undirected,1
+Anton,Gud,Undirected,1
+Karl Jensen,Knud,Undirected,5
+Karl,Knud,Undirected,1
+Gud,Stempel,Undirected,2
+Gud,Knud Fuurbos,Undirected,1
+Knud,Nik,Undirected,1
+Karen,Nik,Undirected,1
+Gud,Karen Ingelund,Undirected,1
+Karen Ingelund,Otto,Undirected,1
+Fuurbo,Oluf,Undirected,1
+Knud,L,Undirected,1
+Karl Jensen,Margrete,Undirected,1
+Fuurbo,Vilsgaard,Undirected,2
+The,Vilsgaard,Undirected,2
+Anna Fuurbo,Fenge,Undirected,1
+Anna,Fenge,Undirected,1
+Otto,Vilsgaard,Undirected,1
+Knud Fuurbo,Vilsgaard,Undirected,2
+Anna,T'il,Undirected,1
+Rudolf,Vilsgaard,Undirected,1
+Betty,Rudolf,Undirected,1
+Betty,Vilsgaard,Undirected,1
+Karen,Vilsgaard,Undirected,3
+Anna Fuurbo,Ingelund,Undirected,1
+Holberg,dito Tackeray,Undirected,1
+Karoline,Margrete Jensen,Undirected,1
+Fuurbo,Jesus Kristus,Undirected,1
+Karl Jensen,Otto,Undirected,1
+Olsen,Otto,Undirected,2
+Vilsgaard,kjem,Undirected,1
+Berlong,kjem,Undirected,1

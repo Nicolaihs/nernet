@@ -1,0 +1,754 @@
+source,target,type,weight
+Kong Sigurds,hnn,Undirected,1
+Gunild,tanse,Undirected,1
+Unnas,tanse,Undirected,1
+Dn,Unnas,Undirected,2
+Gud,Gunild,Undirected,9
+Somme,Unnas,Undirected,2
+Roe,Unnas,Undirected,15
+Matthias,Roe,Undirected,3
+Kong Sigurd,Unnas,Undirected,3
+Gunild,Unnas,Undirected,32
+Gunild,qvikke,Undirected,1
+Unnas,qvikke,Undirected,1
+Gunild,Kong Sigurd,Undirected,4
+Gunild,kjæræ,Undirected,2
+Gunild,Roe,Undirected,9
+,Unnas,Undirected,2
+,Gunild,Undirected,2
+Gunild,hnn,Undirected,9
+Unnas,hnn,Undirected,2
+Sigurd,Uunas,Undirected,1
+Gunild reisfe,Unnas,Undirected,1
+Sigurd,Unnas,Undirected,1
+Gunild taug,Kong Sigurd,Undirected,1
+Kong Sigurd,hnn,Undirected,1
+Gud,hnn,Undirected,1
+Dn,Gud,Undirected,3
+Fisfer,Roe,Undirected,1
+Kraff,Unnas,Undirected,2
+Skjels,Unnas,Undirected,1
+Gunild,Sverre,Undirected,33
+Roe,def,Undirected,1
+Unnas,def,Undirected,1
+Matthias,Unnas,Undirected,1
+Kong Sigurd,Roe,Undirected,1
+Inge,Kong Sigurd,Undirected,1
+Erling Skakke,Inge,Undirected,1
+Erling Skakke,Magnus kaaret,Undirected,1
+Roe,Sverre,Undirected,36
+Sverre,Unnas,Undirected,22
+Soes,Unnas,Undirected,1
+Soes,Sverre,Undirected,1
+Gud,Sverre,Undirected,73
+Maagerues,Sverre,Undirected,2
+Kong Sigurd Mund,Sverre,Undirected,4
+Gunild,Olaf,Undirected,2
+Olaf,Olaf Trygvesen,Undirected,1
+Olaf Trygvesen,Sverre,Undirected,6
+Olaf,Sverre,Undirected,7
+Olaf Trygvesen,hnn,Undirected,1
+Olaf,Ormen,Undirected,1
+Ormen,lange,Undirected,2
+Gubber,lange,Undirected,1
+Olaf,Unnas,Undirected,1
+Farbroder Roe,Roe,Undirected,1
+Farbroder Roe,Farbroders,Undirected,1
+Farbroders,Roe,Undirected,1
+Bei,Gunild,Undirected,1
+Kong Sigurd,Sverre,Undirected,4
+Gud,Unnas,Undirected,1
+Kong Harald,Kong Sigurd,Undirected,1
+Gunild,Magnns,Undirected,1
+Magnns,Olaf Khrre,Undirected,2
+Harald Gille,Magnns,Undirected,1
+Harald Gille,Throne,Undirected,1
+Throne,dein,Undirected,1
+Erling Jarl,dein,Undirected,1
+Erling Jarl,Magnns,Undirected,7
+Kong Harald,Magnns,Undirected,1
+Gille,Kong Harald,Undirected,1
+Gille,Thronarving,Undirected,1
+Sigurd Slembe,Unnas,Undirected,1
+Koug Magnns Barfod,Sigurd Slembe,Undirected,1
+Harald Gille,Koug Magnns Barfod,Undirected,1
+Snk,Unnas,Undirected,2
+Præsf,Unnas,Undirected,2
+Erling Skakfe,Unnas,Undirected,1
+Erling Skakfe,Magnus,Undirected,1
+Erling,Kong Magnus,Undirected,1
+Erling Jarl,Sigurd Jorsalafar,Undirected,1
+Sigurd Jorsalafar,Sigurd Mund,Undirected,1
+Harald,Kong Sigurd,Undirected,1
+Harald,Sverre,Undirected,1
+Erling Jarl,Sverre,Undirected,67
+Erling Jarl,Harald Sigurdsøn,Undirected,1
+Harald Sigurdsøn,Kong Magnus,Undirected,1
+Kong Magnus,Sigurd Alunds,Undirected,1
+Oxen,Sigurd Alunds,Undirected,1
+Oxen,Sigurd,Undirected,1
+Erling Jarl,Kong Sigurd Mund,Undirected,1
+Sverre,Thøre,Undirected,2
+Sverre,Thore,Undirected,27
+Pauli,Sverre,Undirected,1
+Christi,Pauli,Undirected,1
+Christi,Thore,Undirected,1
+Christas,Sverre,Undirected,2
+Nette,Sverre,Undirected,2
+Sverre,hnn,Undirected,12
+Olaf Kaadmund,Sverre,Undirected,1
+Astrid,Sverre,Undirected,47
+Astrid,Thore,Undirected,2
+Gud,Thore,Undirected,3
+Christus,Gud,Undirected,2
+Christus,Peter,Undirected,1
+Panlus,Peter,Undirected,1
+Panlus,Thore,Undirected,1
+Roe,Thore,Undirected,3
+Gnnilds,Sverre,Undirected,2
+Sverre,kjæræ,Undirected,1
+Husbonds,kjæræ,Undirected,1
+Gud,Husbonds,Undirected,1
+Gunild tang,Sverre,Undirected,1
+Sverre,llnnas,Undirected,1
+Sigurd,llnnas,Undirected,1
+Gnd,Sverre,Undirected,1
+Roe,hnn,Undirected,2
+Kraff,Sverre,Undirected,3
+Sverre,helsf,Undirected,3
+Erling Skakke,Sverre,Undirected,3
+Hn,Sverre,Undirected,2
+Sverre,aarle,Undirected,2
+Kraff,aarle,Undirected,1
+Gud,Kraff,Undirected,1
+Sverre,nn,Undirected,3
+Gunild,nn,Undirected,1
+Kraff,Roe,Undirected,1
+Sverre,helsl,Undirected,1
+Harald Sigurdssøn,Sigurd Slembe,Undirected,1
+Erling Skakke,Harald Sigurdssøn,Undirected,1
+Erling Skakke,Kong Signrd Mund,Undirected,1
+Kong Signrd Mund,skjondl,Undirected,1
+Erling Skakke,Harald,Undirected,1
+Olaf Trygvesen,nn,Undirected,1
+Sverre,ester,Undirected,3
+Magnus,Sverre,Undirected,32
+Erling Jarl,Magnus,Undirected,14
+Erling,Erling Jarl,Undirected,3
+Erling Jarl,Gud,Undirected,10
+Brynjulf,Sverre,Undirected,9
+Sverre,følfe,Undirected,1
+Brynjnlf,følfe,Undirected,1
+Brynjnlf,Sverre,Undirected,4
+Signe,Sverre,Undirected,1
+Brynjnlf,Signe,Undirected,1
+Brynjulf,Signe,Undirected,1
+Farbroder,Roe,Undirected,2
+Erling Jarl,Roe,Undirected,2
+Cæcilie,Kong Sigurd,Undirected,2
+Nicolaus,Sverre,Undirected,1
+Gunild,Harald,Undirected,1
+Roe fil,Sverre,Undirected,1
+Roe fil,fil,Undirected,1
+Sverre,fil,Undirected,2
+Harald Gille,Sverre,Undirected,2
+Gunild,Sverre taug,Undirected,1
+Gud,meente Thore,Undirected,1
+Erling Jarl,Olaf,Undirected,2
+Magnus,Olaf,Undirected,1
+Erling Jarl,Kong Magnus,Undirected,14
+Kong Magnus,Kong Olaf,Undirected,1
+Erling,Kong Olaf,Undirected,1
+Erling,Magnus,Undirected,1
+,Magnus,Undirected,7
+,Kong Olas,Undirected,1
+Dn,Thore,Undirected,2
+Gud,Sverre Sigurdssøn,Undirected,1
+Erling Jarl,Kong Magnns,Undirected,6
+Gud,Kong Magnns,Undirected,2
+Eistein,Meyla,Undirected,2
+Kong Eistein,Kong Sigurd Mund,Undirected,1
+Eistein Meyla,Sverre,Undirected,15
+Eistein Meyla,Kong Magnus,Undirected,1
+Halfdan,Sverre,Undirected,29
+Halfdan,Thor,Undirected,3
+Freia,Thor,Undirected,1
+Freia,Jomfru Maria,Undirected,1
+Orm,Sverre,Undirected,9
+Nikolaus Lendermand,Orm,Undirected,2
+Halfdan,Nikolaus Lendermand,Undirected,1
+Erling Jarl,Orm,Undirected,3
+Liv,Magnus Throne,Undirected,1
+Liv,Orm,Undirected,1
+Erling Jarl,Nikolas,Undirected,1
+Erling Jarl,Seir,Undirected,1
+Mørk,Sverre,Undirected,1
+Mørk,taus,Undirected,1
+Astrid,Orm,Undirected,4
+Astrid Ormsdatter,hnn,Undirected,1
+Astrid Ormsdatter,Nn,Undirected,1
+Nn,hnn,Undirected,1
+Lendermand,Sverre,Undirected,4
+Astrid,Olaf,Undirected,1
+Drot,hnn,Undirected,1
+Drot,Sverre,Undirected,1
+Arne Præst,Sverre,Undirected,9
+Arnes,Sverre,Undirected,1
+Arne Præst,Erling Jarl,Undirected,1
+Kong Magnns,Sverre,Undirected,35
+Sverre,fil Orm,Undirected,1
+Arne,fil Orm,Undirected,1
+Arne,Sverre,Undirected,4
+Sverre,fidligere,Undirected,1
+Kong Magnns,fidligere,Undirected,1
+,Kong Magnns,Undirected,14
+,Harald Haarsagers,Undirected,1
+Harald Haarsagers,Sverre,Undirected,1
+Eistein Meyla,Gud,Undirected,1
+Eistein Meyla,Sigurd Mnnds,Undirected,1
+Sigurd Mnnds,Sverre,Undirected,1
+Arne Præsf,Sverre,Undirected,3
+Arne Præsf,Orm,Undirected,1
+Lendermand,Orm,Undirected,2
+Drossel,Sverre,Undirected,2
+Jesn,Sverre,Undirected,1
+Sverre Astrid,Virgils,Undirected,1
+Sverre,Virgils,Undirected,1
+Sverre,beraad,Undirected,2
+Cæcilie,Sverre,Undirected,17
+Cæcilie,Erling Jarl,Undirected,6
+Kongsgaard,Sverre,Undirected,2
+Kongsgaarden,Sverre,Undirected,1
+Erling Jarl,Kongsgaarden,Undirected,1
+Halfdan,Roe,Undirected,1
+Sigurd Jorsalafar,Sverre,Undirected,2
+Sverre,sif,Undirected,2
+Halfdan,sif,Undirected,1
+Erling Jarl,Halfdan sif Ærind,Undirected,1
+Halfdan sif Ærind,Sverre,Undirected,1
+Jarlens,Kong Magnus,Undirected,1
+Halfdan,Kong Magnus,Undirected,3
+Kong Magnus,Sverre,Undirected,26
+Gud,Jarlens,Undirected,1
+Jarlen,Sverre,Undirected,34
+Ieg,Rævæn,Undirected,1
+Erling Skafte,Sverre,Undirected,2
+Erling Jarl,Halfdan,Undirected,2
+Høibords,Sigurd,Undirected,1
+Erling Jarl,Orkel,Undirected,1
+,Sverre,Undirected,12
+Dands,Sverre,Undirected,2
+Dandsen,Sverre,Undirected,2
+Freia,Sverre,Undirected,2
+Hove,Sverre,Undirected,1
+Hove,Kong Magnus,Undirected,1
+Halfdan,Kong Magnns,Undirected,1
+Sverre,sknlde,Undirected,1
+Kong Magnns,sknlde,Undirected,1
+Jarlen,Kong Magnns,Undirected,2
+Erling Skakke,Klerk,Undirected,1
+fil,strænge Jarl,Undirected,1
+Astrid,Kong Magnns,Undirected,1
+Beiler,Sverre,Undirected,1
+Asfrid,Sverre,Undirected,5
+Halfdan,Sæmund,Undirected,3
+Astrid,Sæmund,Undirected,6
+Sigurd,Sverre,Undirected,10
+Erling Skakke,Magnus Erlingsen,Undirected,1
+Halfdan,Magnus Erlingsen,Undirected,1
+Arne,Gud,Undirected,1
+Sverre,Sæmund,Undirected,2
+Erik Arnesen,Mariamesse,Undirected,1
+Dn,Erik Arnesen,Undirected,1
+Dn,Erik,Undirected,2
+Dn,Erling Jarl,Undirected,1
+Gud,Olaf,Undirected,2
+Eistein Meyla,Olaf,Undirected,1
+Eistein,Orm,Undirected,1
+Eistein,Erling Jarl,Undirected,6
+Sverre,seirsglad,Undirected,1
+Arne Præsf,seirsglad,Undirected,1
+Arne,Astrid,Undirected,1
+Astrid,Seir,Undirected,2
+Seir,Sverre,Undirected,8
+Arne Præst,Astrid,Undirected,2
+Arne,Eisfein,Undirected,1
+Eisfein,Erling Jarl,Undirected,1
+Cæcilie,Jarlen,Undirected,1
+Brigida,Jarlen Byrger Brosa,Undirected,1
+Brigida,Eistein,Undirected,1
+Arne Præst,Gud,Undirected,1
+Bjørn,Sverre,Undirected,1
+Arne,bie,Undirected,1
+Endnn,Orm,Undirected,1
+Asfrid,Endnn,Undirected,1
+Kong Sverre,Sverre,Undirected,30
+Erling Jarl,meente Halfdan,Undirected,1
+Madro,Sverre,Undirected,2
+,Kong Magnus,Undirected,16
+Kong Magnus,sif,Undirected,1
+Eistein,Throndhjem,Undirected,1
+Erling,Throndhjem,Undirected,1
+Erling,Pigelil,Undirected,1
+Meyla,Pigelil,Undirected,1
+Aasmnnd,Sverre,Undirected,1
+Aasmnnd,blaae,Undirected,2
+Aasmnnd,Kong Magnus,Undirected,1
+Gud,St. Paulus,Undirected,1
+St. Paulus,St. Peder,Undirected,1
+Gud,St. Peder,Undirected,1
+Sverre,Thinge,Undirected,3
+Gud,St. Olafs,Undirected,1
+St. Olafs,Thinge,Undirected,1
+Eistein,Kong Magnus,Undirected,1
+Eistein,Sverre,Undirected,7
+Eistein,Kong Sigurd Mund,Undirected,2
+Kong Sigurd,Olaf Trygvesen,Undirected,1
+Harald Haardraade,Olaf Trygvesen,Undirected,1
+Aslak,Kong Magnus,Undirected,1
+Aslak,Olaf Gudbrandsen,Undirected,1
+Kong Magnus,Olaf Gudbrandsen,Undirected,1
+Kong Magnus,Olaf,Undirected,2
+Aslak,Sverre,Undirected,3
+Erling Jarl,meente Aslak,Undirected,1
+Aasmund,Sverre,Undirected,3
+Aslak,Astrid,Undirected,1
+Astrid,Gunild,Undirected,5
+Sverre,Thorgrim,Undirected,4
+Eistein Meyla,Erling Jarl,Undirected,4
+Eistein Meyla,Magnus,Undirected,2
+Kong Valdemar,Sverre,Undirected,1
+Arne Præst,Kong Valdemar,Undirected,1
+Arne Præst,Byrge Brosa,Undirected,1
+Byrge Brosa,Jarlen,Undirected,2
+Brigida,Jarlen,Undirected,4
+Brigida,sif,Undirected,1
+Eistein Meyla,sif,Undirected,1
+Jarl,Sverre,Undirected,3
+Jarlen,Olaf,Undirected,1
+Brun,Sverre,Undirected,1
+Kong Sigurd Mund,Magnus Garp,Undirected,1
+Karlen,Magnus Garp,Undirected,1
+Brigida,Sverre,Undirected,9
+Brosa,Jarlen,Undirected,1
+Brosa,Byrge Brosa,Undirected,1
+Brigida,Harald Gille,Undirected,1
+Harald Gille,Sigurd Mund,Undirected,1
+Eistein Meyla,Sigurd Mund,Undirected,1
+Erling Jarl,Throne,Undirected,1
+Eistein,Throne,Undirected,1
+Eistein,Somme,Undirected,1
+Jarlen,Somme,Undirected,1
+Eisfein Meyla,Jarlen,Undirected,1
+Eisfein Meyla,Sverre,Undirected,1
+Byrge Brosa,Sverre,Undirected,1
+Brigida,Sverre Sigurdssøn,Undirected,1
+Faster Brigida,Sverre Sigurdssøn,Undirected,1
+Byrge,Faster Brigida,Undirected,1
+Brosa,Byrge,Undirected,2
+Brosa,Sverre,Undirected,3
+Brigida,Sigurd,Undirected,1
+Magnns,lee,Undirected,1
+Jarlen,meente,Undirected,1
+Eistein,Jarlen,Undirected,2
+Brosa,Erling Jarl,Undirected,1
+Egil,Jarlen,Undirected,2
+Egil,Sverre,Undirected,15
+Egil,Erling Jarl,Undirected,3
+Egil,Sverre Sigurdssøn,Undirected,1
+Byrge Jarl,Egil,Undirected,2
+Byrge Jarl,Sverre,Undirected,1
+David,Gud,Undirected,2
+Egil varen,Jarlen,Undirected,1
+Egil varen,Sverre,Undirected,1
+Gammen,Sverre,Undirected,2
+Cæ-cilie,Sverre,Undirected,1
+Cæ-cilie,Jarlen,Undirected,1
+Baard,Sverre,Undirected,20
+Baard,Jarlen,Undirected,1
+Baard,allehaande,Undirected,1
+Astrid,Baard,Undirected,1
+Kong Eistein,Kong Magnus,Undirected,1
+Erling Jarl,Kong Eistein Meyla,Undirected,1
+Erling Jarl,Kong Eistein,Undirected,1
+Sverre,Sverre Sigurdssøn,Undirected,2
+Sigurd,Sverre Sigurdssøn,Undirected,1
+Cæcilie,hnn,Undirected,2
+Erling Jarl,Husbond,Undirected,1
+Husbond,Magnus,Undirected,1
+Erling,Sverre,Undirected,7
+Sands,Sverre,Undirected,1
+Brigida,Cæcilie,Undirected,1
+Harald Haardraade,Sverre,Undirected,2
+Astrid,Erling Jarl,Undirected,1
+Karl,Sverre,Undirected,1
+Eistein,Seir,Undirected,1
+Gregorius,Sverre,Undirected,21
+Gregorius,Kong Magnus,Undirected,3
+Kong Eistein,Sverre,Undirected,1
+Brigida,Jarlen Byrge Brosa,Undirected,1
+Brigida,Kong Harald Gille,Undirected,1
+Kong Harald Gille,Kong Magnus,Undirected,1
+Brigida,Byrge Brosa,Undirected,1
+Sverre,lee,Undirected,1
+Byrge Brosa,lee,Undirected,1
+Gregorius,Jarl,Undirected,1
+Byrge,Sverre,Undirected,2
+Byrge,Jarl,Undirected,3
+Jarl,Kong Eistein,Undirected,1
+Byrge,Kong Eistein,Undirected,1
+Gregorins,Kong Magnus,Undirected,1
+Gregorins,Sverre,Undirected,1
+Cæcilie,Gregorius,Undirected,1
+Gud,Samuel,Undirected,4
+Gregorius,Samuel,Undirected,1
+Baard,Ieg,Undirected,1
+Baard,Cæcilie,Undirected,7
+Sverre,Sverre fil,Undirected,1
+Gregorius,Sverre fil,Undirected,1
+Gregorius,Sigurd,Undirected,2
+Karle,Sverre,Undirected,1
+Mønsfring,Sverre,Undirected,1
+Hamar,Mønsfring,Undirected,1
+,Asbjørn,Undirected,1
+Asbjørn,Ørkel,Undirected,1
+Erling Jarl,Ørkel,Undirected,1
+Jesus Christus,Odin,Undirected,1
+Odin,Sverre,Undirected,1
+Baard,Kong Sverre,Undirected,5
+Baard,Gregorius,Undirected,1
+Sverre,christne,Undirected,1
+Bigleik,Sverre,Undirected,1
+Sigurd,Vigleik,Undirected,1
+Sverre,Vigleik,Undirected,1
+Gregorius,Rut,Undirected,2
+Ivar Horte,Kong Magnns,Undirected,2
+,Kong Olaf,Undirected,1
+Ivar Horte,Skigaard,Undirected,1
+Kong Olaf,Sverre,Undirected,2
+Kong Olaf,Samuel,Undirected,1
+Ivar Horte,Olaf,Undirected,1
+Ivar Giavalsen,Ivar Silke,Undirected,1
+Ivar Giavalsen,Sverre,Undirected,1
+Ivar Horte,Sverre,Undirected,7
+Seil,Sverre,Undirected,3
+Agdenæs,Sverre,Undirected,2
+Ester,Sverre,Undirected,1
+Sverre,Throndhjem,Undirected,6
+Erling Jarl,Harald Gille,Undirected,1
+Harald Gille,Throndhjem,Undirected,1
+Ed,Sverre,Undirected,1
+Astrid,Gud,Undirected,3
+Gud,Sverre Rex,Undirected,1
+Gud,Roe,Undirected,1
+Erling Jarl,Thinge,Undirected,1
+Erling Jarl,Seil,Undirected,1
+Sverre,rasfe,Undirected,1
+Astrid,Magnus,Undirected,1
+Erling Jarl,Ivar,Undirected,1
+Halvor,Lendermand,Undirected,1
+Lendermand,Porsevl,Undirected,1
+Halvor,Senstad,Undirected,3
+Orm,ifjor,Undirected,1
+Astrid,Halvor,Undirected,1
+Astrids Beiler,Sæmund,Undirected,1
+Halvor,Sverre,Undirected,10
+Gud,Halvor,Undirected,1
+Halvor,Rut,Undirected,1
+Erling Jarl,Halvor,Undirected,1
+Geir,Sverre,Undirected,2
+Sverre,Thorgrim Bonde,Undirected,1
+Baard,Geir,Undirected,3
+Rut,Sverre,Undirected,2
+Kong Sverre,Sigurd,Undirected,1
+Rut,Sigurd,Undirected,1
+Gregorius,Sverre Sigurdssøn,Undirected,1
+Erling Jarl,Sverre Sigurdssøn,Undirected,1
+Senstad,Sverre,Undirected,1
+Sverre,jusf,Undirected,1
+Kong Magnns,jusf,Undirected,1
+Sverre,Øgmund,Undirected,3
+Magnus,Seir,Undirected,1
+Sverre,lynsnart,Undirected,1
+Gregorius,Gud,Undirected,1
+Erling Jarl,Øgmund,Undirected,1
+Erling Jarl,Jarlen,Undirected,5
+Sverre,didhen,Undirected,1
+Jarlen,didhen,Undirected,1
+Cæcilie,Erling,Undirected,1
+Magnns,Sverre,Undirected,32
+Erling,Kong Magnns,Undirected,1
+Gregorius,Sverre after,Undirected,1
+Sverre,Sverre after,Undirected,1
+Gregorius,Kong Sverre,Undirected,4
+Jon,Sigurd,Undirected,2
+Hakon,Sverre,Undirected,2
+Eistein,Kong Magnns,Undirected,1
+Inge,Jarlen,Undirected,1
+Aarle,Jarlen,Undirected,1
+Jarlen,Kong Magnus,Undirected,2
+Kong Magnus,Sverre Præsf,Undirected,1
+Sverre,Sverre Præsf,Undirected,1
+Cæcilie,grusomf,Undirected,1
+Jarlen,dingle,Undirected,1
+Erling Jarl seile,Magnus,Undirected,1
+Erling Jarl seile,Sverre,Undirected,1
+Nidelven,Sverre,Undirected,1
+Kong Magnns,Nidelven,Undirected,1
+Gunlaug,Sverre,Undirected,1
+Gunlaug,Ivar Horte,Undirected,1
+Gunlaug,Stallare,Undirected,1
+Stallare,Sverre,Undirected,2
+Jarlen,Kong Sverre,Undirected,1
+Ivar Horte,Jarlen,Undirected,1
+Jarlen,Magnus,Undirected,3
+Erling Jarl,Sigurd Nikolausen,Undirected,1
+Jon,Sigurd Nikolausen,Undirected,2
+Jon,Sverre,Undirected,1
+Erling Jarl,Graae,Undirected,1
+Erling Jarl,Høibords,Undirected,1
+Ivar Horte,vaer,Undirected,1
+Ivar Horte,Kong Magnus,Undirected,1
+Ivar Horfe,Jarlen,Undirected,1
+Ikkun,Jarlen,Undirected,2
+Kong Magnns,Steen,Undirected,1
+Gud,Magnns,Undirected,2
+Gud,Jarlen,Undirected,1
+Jarlen,Magnns,Undirected,1
+Magnns,Sigurd Nikolausen,Undirected,1
+Erling Jarl,Jon,Undirected,1
+Erling Jarl,Olafssuden,Undirected,1
+Olafssuden,Sverre,Undirected,3
+Sverre,tjeldede,Undirected,2
+Kong Hakon,Magnus,Undirected,1
+Kong Eistein,Kong Hakon,Undirected,1
+Harald,Kong Eistein,Undirected,1
+Gud,Harald,Undirected,1
+Gud,Jesu,Undirected,1
+Erling Jarl,Jesu,Undirected,1
+Kong Magnus,Magnus,Undirected,6
+,Heklunger,Undirected,1
+Hekle,Heklunger,Undirected,2
+Heklunger,Magnns,Undirected,2
+Heklunger,Kong Magnns,Undirected,1
+,Throndhjem,Undirected,1
+Kong Magnns,Throndhjem,Undirected,1
+Kong Magnns,Seir,Undirected,1
+Kong Magnns,Kong Sverre,Undirected,6
+Kong Sverre,Magnns,Undirected,8
+Kong Magnns,Magnns,Undirected,3
+Baard,Magnns,Undirected,1
+Kong Sverre,Væsæn,Undirected,1
+Baard,Væsæn,Undirected,1
+Baard,høiligen,Undirected,1
+høiligen,truffef,Undirected,1
+Eilif,Magnns Erlingsen,Undirected,1
+Eilif,Erik Slandre,Undirected,1
+Eindride,Erik Slandre,Undirected,1
+Eindride,Sverre Rex,Undirected,1
+Kong Sverre,Magnns Erlingsen,Undirected,1
+Gud,Magnns Erlingsen,Undirected,3
+Broder,Gud,Undirected,1
+Folkefs,Sverre,Undirected,1
+Heell,Magnns,Undirected,1
+Heell,sif,Undirected,1
+Eistein Meila,Magnns,Undirected,1
+Kong Sverre,Magnus,Undirected,2
+Kong Magnus,Kong Sverre,Undirected,4
+Magnns,froer,Undirected,1
+Guldfaxe,Kong Sverre,Undirected,2
+Astrid,Guldfaxe,Undirected,2
+Astrid,Væxt,Undirected,1
+Kong Sverre,Væxt,Undirected,1
+Sverre,tom Pral,Undirected,1
+kjæk,tom Pral,Undirected,1
+Kong Sverre,zittre,Undirected,1
+Kong Magnus,Stallare,Undirected,1
+Rut,Thorfinsson,Undirected,2
+Svend Vale,Ulf,Undirected,1
+Baard,Svend Vale,Undirected,1
+Baard,Seir,Undirected,1
+Gregorins,Seir,Undirected,1
+Gregorins,Thorfinsson,Undirected,1
+Sverre,seirrig,Undirected,1
+Kong Magnus,seirrig,Undirected,1
+Kong Magnus,Nikolaus Mandul,Undirected,1
+Kong Sverre,Nikolaus Mandul,Undirected,1
+Ivar Galle,Kong Sverre,Undirected,2
+Brynjulf,Kong Sverre,Undirected,2
+Brynjulf,Kalf,Undirected,1
+Brynjulf,Ivar Galle,Undirected,1
+Ivar Galle,Sverre,Undirected,1
+Kong Magnns,Kong Magnus,Undirected,1
+Kong Sverre,Leir,Undirected,1
+Kong Magnns,Leir,Undirected,1
+Kong Magnns,Kraff,Undirected,1
+Kong Magnns,Kong Valdemar,Undirected,1
+Kong Magnus,Kong Valdemar,Undirected,1
+Sverre,Valdemar,Undirected,3
+Gregorius,Magnns,Undirected,2
+Kong Sverre,seiles,Undirected,1
+Sverre,seiles,Undirected,1
+Gud,Magnus,Undirected,2
+Magnus,Valdemar,Undirected,1
+Kong Magnns,Olafssuden,Undirected,1
+Gudlang,Sverre,Undirected,1
+Gudlang,Kong Sverre,Undirected,4
+Gudlang,Gudlaugs,Undirected,1
+Gudlaugs,Halvard,Undirected,1
+Halvard,helsl,Undirected,1
+Alma chorus Domini,Kong Sverre,Undirected,1
+Gravdal,Orm,Undirected,1
+,Magnns,Undirected,5
+Magnus,Olafssuden,Undirected,2
+Ormen,Sverre,Undirected,1
+Olaf Trygvesen,lange,Undirected,1
+Astrid,Hakon,Undirected,1
+Gud,Magnus Erlingsen,Undirected,1
+Gud,Jomfru Marie,Undirected,1
+Astrid,Marisudens,Undirected,1
+Karl,Marisudens,Undirected,1
+Marisuden,Sverre,Undirected,4
+Kong Sverre,Thinge,Undirected,1
+Dagfinn Bonde,Sverre,Undirected,1
+Dagfinn,Dagfinn Bonde,Undirected,1
+Dagfinn,Ivar,Undirected,1
+Dave,Ivar,Undirected,1
+Dagfinn,Ivar Dave,Undirected,2
+Dagfinn,Kong Magnns,Undirected,1
+Kong Magnns,ifjor,Undirected,2
+Dagfinn,Sverre,Undirected,1
+Dagfinn Bonde,Kong Sverre,Undirected,1
+Halfdan,Kraff,Undirected,1
+Astrid,Gyldenskæref,Undirected,2
+Peter,Sverre,Undirected,1
+David,Peter,Undirected,1
+Kong Magnns,Valdemar,Undirected,1
+Sigurd Mund,Sverre,Undirected,1
+Magnns,Sigurd Mund,Undirected,1
+Kong Magnns,Thorolf Thrym,Undirected,1
+Magnus,fhi,Undirected,1
+Kong Sverre,fhi,Undirected,1
+Gud,Kong Sverre,Undirected,2
+Kong Magnns,Seil,Undirected,1
+Gud,Kong Sigurd Mund,Undirected,1
+Asbjørn,Kong Magnus,Undirected,1
+Asbjørn,Sverre,Undirected,2
+Kong Sverre,Marisuden,Undirected,1
+Gregorius,slore,Undirected,1
+Sverre,roe,Undirected,1
+Heklungernes,Sverre,Undirected,2
+Harald Ingesøn,Kong Sverre,Undirected,1
+Asbjørn Jonssøn,Harald Ingesøn,Undirected,1
+Asbjørn Jonssøn,Sverre,Undirected,1
+Gud,Marisuden,Undirected,1
+Astrid,Kong Sverre,Undirected,1
+Baard,Kong Magnus,Undirected,1
+Magnus Erlingsen,Sverre,Undirected,3
+Kong Sverre,Seir,Undirected,2
+Erlingsøn,Magnns,Undirected,2
+Erlingsøn,Sverre,Undirected,2
+Steen,Sverre,Undirected,1
+Fryndser,Steen,Undirected,1
+Gud,quoniam conculcavit me homo,Undirected,1
+quoniam conculcavit me homo,tota die expugnans,Undirected,1
+Erling Jarl,tota die expugnans,Undirected,1
+Magnus,Sigurd,Undirected,1
+Kong Hakon,Sigurd,Undirected,1
+Erling Jarl,Kong Hakon,Undirected,1
+Erling Jarl,Kong Sigurd,Undirected,1
+Jesus Christus,Sverre,Undirected,1
+Gud,Jesus Christus,Undirected,1
+Erling Jarl,Erling Skakke,Undirected,1
+Sverre,Throne,Undirected,1
+Geir,Gregorius,Undirected,1
+Gud,Paven,Undirected,1
+Eistein,Paven,Undirected,1
+Eistein,Erling Skakke,Undirected,1
+Erling Skakke,Magnns,Undirected,1
+Magnns,St. Olafs,Undirected,1
+Jarl,St. Olafs,Undirected,1
+Eistein,Jarl,Undirected,1
+Sverre,udsone,Undirected,1
+Folkvids,Sverre,Undirected,1
+Cæcilie,Kong Sverre,Undirected,4
+Baard,Karl,Undirected,2
+Eistein,Kong Sverre,Undirected,3
+Cæcilie,Eistein,Undirected,1
+Cæcilie,blaa,Undirected,1
+Kong Sverre,blaa,Undirected,1
+Kong Sverre,Ærkebiskop Eistein,Undirected,2
+Alf,Sverre,Undirected,1
+Alf,Eistein,Undirected,1
+Eistein,Erik,Undirected,1
+Erik,Kong Magnns,Undirected,1
+,Kong Sverre,Undirected,1
+Kong Sverre,krævæde,Undirected,1
+Kong Olaf,krævæde,Undirected,1
+Kong Olaf,Ærkebiskop Eistein,Undirected,1
+Sverre,Ærkebiskop Eistein,Undirected,1
+Erik fil,Sverre,Undirected,2
+Absalon,Seir,Undirected,1
+Absalon,Kong Sverre,Undirected,3
+Nikolaus Arnessøn,Sverre,Undirected,1
+Kong Sverre,Nikolaus Arnessøn,Undirected,1
+Kong Sverre,Nikolaus,Undirected,8
+Krogveie,Nikolaus,Undirected,1
+Krogveie,Magnus Erlingsøn,Undirected,1
+Kong Sverre,Magnus Erlingsøn,Undirected,3
+Nikolaus,Sverre,Undirected,7
+Gregorins,Kong Sverre,Undirected,2
+Halfdan,Kong Sverre,Undirected,1
+Halfdan,Nikolaus,Undirected,1
+Gud,Nikolaus,Undirected,1
+,Nikolaus,Undirected,1
+,Paven,Undirected,1
+Kong Sverre,Paven,Undirected,1
+Kong Sverre,Peter,Undirected,1
+Keiseres,Peter,Undirected,1
+Gud,Keiseres,Undirected,1
+Gud,Pave Innocents,Undirected,1
+Kong Sverre,Pave Innocents,Undirected,1
+Ban,Sverre,Undirected,1
+Ban,Paven,Undirected,1
+Paven,Sverre,Undirected,2
+Kunsf,Sverre,Undirected,2
+Nikolaus,baculum,Undirected,1
+Magnus Erlingsøn,baculum,Undirected,1
+Inge,Magnus Erlingsøn,Undirected,2
+Erik virksomt,Magnus Erlingsøn,Undirected,1
+Erik virksomt,Nikolaus,Undirected,1
+Høire,Sverre,Undirected,1
+Høire,Thore,Undirected,1
+Paul Ljoderhus,Thore,Undirected,1
+Kong David,Throne,Undirected,1
+Gud,Magnus Erlingsøn,Undirected,1
+Gunild,Knud,Undirected,1
+Knud,Margrethe,Undirected,1
+Margrethe,Sverre,Undirected,4
+Astrid,Margrethe,Undirected,1
+Kong Sverre,Margrethe,Undirected,1
+Kong Sverre,Krisfine,Undirected,1
+Astrid,Krisfine,Undirected,1
+Hakon,Kong Sverre,Undirected,1
+Døttre,Kong Sverre,Undirected,1
+Cæcilie,Døttre,Undirected,1
+Cæcilie,Ingeborg,Undirected,1
+Gunild,Kong Sverre,Undirected,1
+Sverre,hans Kongsgaard,Undirected,1
+Gunild,Thore,Undirected,1
+Kong Sverre,Thore,Undirected,5
+Belials,Sverre,Undirected,1
+Belials,Kong Sverre,Undirected,1
+Kong Sverre,Paulus,Undirected,1
+Christus,Paulus,Undirected,1
+Christi,Sverre,Undirected,2
+Gud,Kong Olaf,Undirected,1
+Gutten,Hakon,Undirected,1
+Thore,aarle,Undirected,1
+Gubben,Thore,Undirected,1
+Nikolai,Nikolaus,Undirected,1
+Kong Sverre,fasf,Undirected,1
+Hakon,fasf,Undirected,1
+Hakon,Thore,Undirected,1
+Margrethe,Thore,Undirected,1

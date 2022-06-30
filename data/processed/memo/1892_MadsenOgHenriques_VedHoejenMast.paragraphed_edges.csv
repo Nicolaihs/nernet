@@ -1,0 +1,188 @@
+source,target,type,weight
+Larsens,Peter Knasberg,Undirected,1
+Laura,Peters,Undirected,1
+Peter Knasberg,Peters,Undirected,1
+Laura,Peter Knasberg,Undirected,18
+Peter Knasberg,Rasmussen,Undirected,4
+Knasberg,renok,Undirected,1
+Gad,Rasmussen,Undirected,1
+Peter,Peter Knasberg,Undirected,6
+Peter Knasberg,grams,Undirected,1
+Hjalmar Dideriksen,Peter Knasberg,Undirected,19
+Hjalmar Dideriksen,Peter,Undirected,2
+Peter,Rasmussen,Undirected,1
+Marinen,Rasmussen,Undirected,1
+Bertrans,Peter,Undirected,1
+Bertrans,Napoleon,Undirected,1
+Napoleon,Skolar,Undirected,1
+Laura,Skolar,Undirected,1
+Knasberg,Peter Knasberg,Undirected,2
+Hjalmar Dideriksen,Tordenskjolds,Undirected,1
+Niels Juel,Wessel,Undirected,1
+Peter Schram,Wessel,Undirected,1
+Lord Nelson,Peter Knasberg,Undirected,2
+Hjalmar Konstantins,Svend,Undirected,1
+Hans Egede Dideriksen,Hjalmar Konstantins,Undirected,1
+Peter Knasberg,Ulrik,Undirected,3
+P. P.,Peter Knasberg,Undirected,2
+Hjalmar Dideriksen,Laura,Undirected,5
+Madrats,Peter Knasberg,Undirected,1
+Peter Knasberg,kaskesens,Undirected,1
+Gud,Knasberg,Undirected,1
+Hansen,Theodor Hansen,Undirected,1
+Peter Knasberg,Skibssergeanten,Undirected,1
+Dandys,Ivar Hvitfelt,Undirected,1
+Laura,Peter,Undirected,8
+Frk. Laura,Svendsen,Undirected,1
+Georg Brandes,Peter Knasberg,Undirected,1
+Hjalmar Dideriksen,savoir vivre,Undirected,1
+Jæ,Peter,Undirected,1
+Laura,Ulrik,Undirected,3
+Knasberg,Laura,Undirected,5
+Dideriksen,Knasberg,Undirected,4
+Berninas,Christiansens,Undirected,1
+Christiansens,Figaro,Undirected,1
+Kellners,Pedersens,Undirected,1
+Petrea Gotliebsen,Worsaae,Undirected,1
+Helga Berendt,Petrea Gotliebsen,Undirected,1
+Odyssevs,Ulrik,Undirected,1
+Laura,Odyssevs,Undirected,1
+Hjalmar Dideriksen,Jæ,Undirected,1
+Jæ,jæ,Undirected,2
+Frk. Laura,Laura,Undirected,3
+Dideriksen,Peter,Undirected,1
+Hjalmar,Peter Knasberg,Undirected,1
+Peter,Ulrik,Undirected,1
+Dideriksen,Peter Knasberg,Undirected,5
+Aksel Fischer,Peter Tordenskjold,Undirected,2
+Aksel Fischer,Aksels,Undirected,2
+Aksel,Fischer,Undirected,4
+Dolken,Fischer,Undirected,1
+mir nichts,nichts,Undirected,1
+Fischer,Tenorsang,Undirected,1
+Aksel,Tenorsang,Undirected,1
+Fischer,Marines,Undirected,1
+Aksel Fischer,Willemoes,Undirected,1
+Fischer,Peter Knasberg,Undirected,2
+Aksel Fischer,Hjalmar Dideriksen,Undirected,1
+Peter Tordenskjold,d’Hrr,Undirected,1
+Knasberg,d’Hrr,Undirected,2
+Aksel Fischer,Knasberg,Undirected,1
+Aksel Fischer,Sjavs,Undirected,1
+Aksel Fischer,Peter Knasberg,Undirected,1
+Fischer,Valdemars,Undirected,1
+Fischer,Holm,Undirected,6
+Daj,Peter tro,Undirected,1
+Dideriksen,P.,Undirected,1
+H. C. Andersensgade,Peter Knasberg,Undirected,1
+Laura —,Peter Knasberg,Undirected,1
+Peter Knasberg,Rydberg,Undirected,1
+Peter,Rydberg,Undirected,1
+Knasberg,Peter,Undirected,1
+Dideriksen,Laura,Undirected,1
+Boa,Dideriksen,Undirected,1
+Boa,Peter,Undirected,1
+Peter,slaa,Undirected,1
+. Oehlenschlåger,d’,Undirected,1
+. Oehlenschlåger,Heiberg,Undirected,1
+Frederits,Jakel,Undirected,1
+Frederits,Heber,Undirected,1
+Hjalmar Dideriksen,Julie,Undirected,1
+Julie,Romeo,Undirected,1
+Peter Knasberg,Romeo,Undirected,1
+Laura,d’Hrr,Undirected,1
+Blaar,Hjalmar Dideriksen,Undirected,1
+Hjalmar Dideriksen,Tyroler-Ferdinands,Undirected,1
+Miss Leas,Tyroler-Ferdinands,Undirected,1
+Boa konstr,Miss Leas,Undirected,1
+Eva,Laura,Undirected,1
+Eva,Lea,Undirected,1
+Laura,Miss Lea,Undirected,1
+Gorm den,Valdemar Atterdag,Undirected,1
+Tovelille,Valdemar Atterdag,Undirected,1
+Tove,Valdemar,Undirected,1
+Hr. Mikkelsen,Maane,Undirected,1
+Glutten,Kresjan,Undirected,1
+Madam Mikkelsen,Mikkelsen,Undirected,1
+Madam Mikkelsen,Sine,Undirected,1
+Fatter,Frederik den syvende,Undirected,1
+Mikkelsen,Peter Knasberg,Undirected,3
+Hjalmar Dideriksen,Hr. Mikkelsen,Undirected,1
+Mikkelsen,Peter,Undirected,1
+Ingolf,Peter,Undirected,1
+Hr. Mikkelsen,Peter Knasberg,Undirected,1
+Laura,Mikkelsen,Undirected,1
+Knasberg,Mikkelsen,Undirected,1
+Hr. Mikkelsen,Laura,Undirected,1
+Fru Mikkelsens,Peter,Undirected,1
+Bismarck,Kejser Wilhelm,Undirected,1
+Hr. Mikkelsen,Ulrik,Undirected,1
+Fischer,Frk. Rigmors,Undirected,1
+Frk. Rigmors,Hr. Fischer,Undirected,1
+Aksel Fischer,Bella,Undirected,1
+Bella,lille Rigmor,Undirected,1
+Aksel Fischer,Fischer,Undirected,3
+Holm,L’,Undirected,1
+Fischer,Rigmors,Undirected,2
+Fischer,liam,Undirected,1
+Gud,véd,Undirected,1
+Marcussens,Rachel,Undirected,1
+Prinsesse Marie,Valdemar,Undirected,1
+Gud,Papa,Undirected,1
+Kars tensen,Niels Juel,Undirected,1
+Aksel Fischer,Lauritz,Undirected,3
+Rachel,Rigmor,Undirected,2
+Frk. Rigmors,Rachel,Undirected,1
+Bellis,Fischer,Undirected,1
+Bellis,Siams,Undirected,1
+Fischer,Siams,Undirected,1
+Sikstus,Zimmermann,Undirected,1
+Bohn,Sikstus,Undirected,1
+Knasberg,saagar,Undirected,1
+Brosche,Laura,Undirected,1
+Brosche,Dideriksen,Undirected,1
+Anker liggende,Thor Jensens,Undirected,1
+Anker liggende,Baronen,Undirected,1
+Aksel Fischer,Baronen,Undirected,1
+Aksel Fischer,Holm,Undirected,4
+Figaro,Peter Knasberg,Undirected,1
+Ferdinand,Figaro,Undirected,1
+Opponotski,knutski,Undirected,1
+knutski,vaski,Undirected,1
+daski,vaski,Undirected,1
+Erkehertug,mir nichts,Undirected,1
+Peter Knasberg,Pierrot,Undirected,1
+Laura,Pierrot,Undirected,1
+Kieresi,Laura,Undirected,1
+H. C. Andersen,Laura,Undirected,2
+Bisse,dér,Undirected,1
+Knasberg,Rasmussen,Undirected,1
+Holm,Milo,Undirected,1
+Milo,Venus,Undirected,1
+Aksel Fischer,Venus,Undirected,1
+Fischer,Lauritz,Undirected,2
+Aksel,Hr. Fischer,Undirected,1
+Hr. Fischer,saagar Pelts,Undirected,1
+Holm,Kong Kristian,Undirected,1
+Holm,Lille Rigmor,Undirected,1
+Aksel Fischer,Lille Rigmor,Undirected,1
+Aksel,Lille Rigmor,Undirected,1
+Aksel,Hr. Holm,Undirected,1
+Gud,Mutter,Undirected,2
+Gud,Mathias Holm,Undirected,1
+Mathias Holm,Rigmor,Undirected,1
+Aksel Fischer,Rigmor,Undirected,1
+Aksel,Rigmor,Undirected,4
+Fischer,Syle,Undirected,1
+Holm,Syle,Undirected,1
+Aksel Fischer,Ulrik,Undirected,1
+Holm,ohne Umständen,Undirected,1
+Holm,Lauritz,Undirected,1
+Lauritz,Rachel,Undirected,1
+Aksel Fischer,strunk,Undirected,1
+Rachel,strunk,Undirected,1
+Hr. Knasberg,Laura,Undirected,1
+Aksel Fischer,Ulrik aandsfraværende,Undirected,1
+Aksel Fischer,Theodor Hansen,Undirected,1
+Hjalmar Dideriksen,Theodor Hansen,Undirected,1
+ban,lian,Undirected,1

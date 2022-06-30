@@ -1,0 +1,456 @@
+source,target,type,weight
+Fredrik Ploffmann,Krogh,Undirected,1
+Albert Gran,Fredrik Ploffmann,Undirected,1
+Gran,Hoffmann,Undirected,36
+Albert,Hoffmann,Undirected,2
+Dumont,Hoffmann,Undirected,3
+Dumont,Ploffmann,Undirected,1
+Gran,Lucie,Undirected,37
+Gran,Weidemann,Undirected,14
+Krogh,Weidemann,Undirected,2
+Krogh,Lucie,Undirected,34
+Hoffmann,Lucie,Undirected,33
+Assessor Høgh,Hoffmann,Undirected,1
+Assessor Høgh,Gran,Undirected,1
+Frederik,Lucie,Undirected,2
+Frederik,Hoffmann,Undirected,1
+Gud,Hoffmann,Undirected,2
+Fredrik,Gran,Undirected,3
+Hoffmann,Papa Dumont,Undirected,1
+Høgh,Lucie,Undirected,4
+Gran,Høgh,Undirected,6
+Fredrik,Lucie,Undirected,18
+Frøken Dumonts,Krogh,Undirected,1
+Frøken Dumonts,Hoffmann,Undirected,1
+Emilie Krogh,Hoffmann,Undirected,2
+Krogh,Schulin,Undirected,28
+Høgh,Krogh,Undirected,4
+Henrik,Schulin,Undirected,1
+Gud,Krogh,Undirected,4
+Gud,Høgh,Undirected,2
+Høgh,Mette,Undirected,1
+Hoffmann,Krogh,Undirected,34
+Hoffmann,Pivad Gran,Undirected,1
+Pivad Gran,Schulin,Undirected,1
+Emilie,Krogh,Undirected,18
+Gran,Krogh,Undirected,19
+Gran,Roth,Undirected,1
+Ragout,Roth,Undirected,1
+Diederichsens,Ragout,Undirected,1
+Diederichsens,Gud,Undirected,1
+Emilie,Lucie Dumont,Undirected,1
+Arne,Lucie Dumont,Undirected,1
+Esaus,Olje,Undirected,2
+Olje,Solberg,Undirected,1
+Michelsen,Solberg,Undirected,44
+Malheur,Michelsen,Undirected,1
+Malheur,Solberg,Undirected,1
+Michelsen,Solbetg,Undirected,1
+Lucie,Solberg,Undirected,1
+Emilie,Solberg,Undirected,2
+Emilie,Lucie,Undirected,61
+Gran,Schulin,Undirected,6
+Gud,Schulin,Undirected,2
+Albert,Lucie,Undirected,6
+Hoffmann,Schulin,Undirected,22
+Albert,Schulin,Undirected,1
+Emilie,Gran,Undirected,7
+Emilie,Hoffmann,Undirected,46
+Frederik,Gran,Undirected,1
+Emilie,Hoffman,Undirected,1
+Krogh,Selters,Undirected,1
+Krogh,Marie,Undirected,4
+Emilie,Vilhelm,Undirected,1
+Krogh,Vilhelm,Undirected,1
+Emilie,Graad,Undirected,1
+Emilie,Shakespeare,Undirected,1
+Lucie,Schulin,Undirected,5
+Fars,Gud,Undirected,1
+Gud,Iver Olsen,Undirected,2
+Gud,ifra,Undirected,1
+Karl Johan Krogh,ifra,Undirected,1
+Karl Johan Krogh,PI,Undirected,1
+H,PI,Undirected,1
+H,Vilhelm Krogh,Undirected,1
+Karl Johan,Vilhelm Krogh,Undirected,1
+Karl Johan,Nielsens,Undirected,1
+Krogh,Tante Marie,Undirected,1
+Hoffmann,Marie,Undirected,1
+Løitnant,Marie,Undirected,1
+Angell,Løitnant,Undirected,1
+Angell,Gran,Undirected,18
+Angell,Marie,Undirected,1
+Karl Johan,Krogh,Undirected,1
+Høgh,Karl Johan,Undirected,1
+Høgh,Marie,Undirected,5
+Høgh,Karl Johan Krogh,Undirected,1
+Karl Johan Krogh,Krogh,Undirected,1
+Emilie,Høgh,Undirected,5
+Høgh,tempi passati,Undirected,1
+Kreti,Schulin,Undirected,1
+Kreti,Pieti,Undirected,1
+Hoffmann,Pieti,Undirected,1
+Antoine Dumont,Lucie,Undirected,1
+Albert,Papa,Undirected,1
+Mama,Papa,Undirected,1
+Krogh,Mama,Undirected,1
+Mama Dumonts,Papa Dumont,Undirected,1
+Hoffmann,Mama Dumonts,Undirected,1
+Albert,Onkels,Undirected,2
+Lucie,Papa Dumont,Undirected,1
+Mama,Papa Dumont,Undirected,1
+Flan,Mama,Undirected,1
+Flan,Krogh,Undirected,1
+Dumont,Lucie,Undirected,1
+Andersen,Gran,Undirected,1
+Andersen,Walle,Undirected,1
+Solberg,Walle,Undirected,1
+Gran,Hoel,Undirected,5
+Hoel,Weidemann,Undirected,3
+Hoel,Thingets,Undirected,2
+Gud,Weidemann,Undirected,1
+Gran,Gud,Undirected,2
+Krogh,Marthe,Undirected,1
+Emilie,Marthe,Undirected,2
+Lars Fisker,Lucie,Undirected,1
+Emilie,Frederik,Undirected,1
+Albert,Frederik,Undirected,1
+Albert,Albert var,Undirected,1
+Albert,Fredrik,Undirected,1
+Albert,Emilie,Undirected,3
+Gud,Lucie,Undirected,1
+Emilie,Fredrik,Undirected,10
+Emilie,Mimi,Undirected,2
+Assessor Hogh,Gran,Undirected,1
+Assessor Hogh,Krogh,Undirected,1
+Krogh,Olsen,Undirected,9
+Hoffmann,Krog,Undirected,1
+Lucie,Olsen,Undirected,4
+Hoffmann,Olsen,Undirected,1
+Gud,Olsen,Undirected,2
+Høgh,Olsen,Undirected,1
+Hoffmann,Høgh,Undirected,5
+Gran,Olsen,Undirected,4
+Høgh,Ploffmann,Undirected,1
+Krogh,Ploffmann,Undirected,2
+Fredrik,Olsen,Undirected,2
+Frøken Lucie,Herr Gran,Undirected,1
+Høgh,nonchalant,Undirected,1
+Krogh,nonchalant,Undirected,1
+Fredrik,Krogh,Undirected,7
+Emilie,Gud,Undirected,8
+Fredrik,Gud,Undirected,4
+Elen,Lucie,Undirected,1
+Elen,Fredrik,Undirected,1
+Lillepus,Pus,Undirected,2
+Lillepus,lille Kjælemors,Undirected,1
+Marthe,lille Kjælemors,Undirected,1
+Jøsscnamn,Marthe,Undirected,1
+Graad,Marthe,Undirected,2
+Marthe,lille Mimi,Undirected,1
+Gud,lille Mimi,Undirected,1
+Emilie,Mama,Undirected,1
+Baad,Nils,Undirected,1
+Lyngstad,Michelsen,Undirected,32
+Lyngstad,Pennens,Undirected,1
+Michelsen,Pennens,Undirected,1
+Anne,Michelsen,Undirected,7
+Adonis,Anne,Undirected,1
+Anne,Lyngstad,Undirected,1
+Bravo,Solberg,Undirected,1
+Michelsen,Ptro,Undirected,1
+Gut,Ptro,Undirected,1
+Ole Bulli,Solberg,Undirected,1
+Lyngstad,Solberg strax,Undirected,1
+Michelsen,Solberg strax,Undirected,1
+Lyngstad,Solberg,Undirected,9
+Lucie,Marthe,Undirected,5
+Gran,Marthe,Undirected,1
+IO,Lucie,Undirected,1
+Lucie,Nils,Undirected,1
+Bergnebbe,Nils,Undirected,1
+Bergnebbe,Knur,Undirected,1
+Gran,Sands,Undirected,1
+Brynhild,Lucie,Undirected,2
+Madam Andersen,Michelsen,Undirected,1
+Anne Solberg,Madam Andersen,Undirected,1
+Anne,Høgh,Undirected,2
+Emilie,Olsen,Undirected,3
+Frøken Emilie,Frøkena,Undirected,1
+Emilie,Frøken Emilie,Undirected,1
+Frøken Emilie,Hoffmann,Undirected,1
+Gran,Husbond,Undirected,2
+Gran,Wellington,Undirected,1
+Beethoven,Mirabeau,Undirected,1
+Gustav Adolf,Mirabeau,Undirected,1
+Gustav Adolf,Tordenskjold,Undirected,1
+Shakespeare,Tordenskjold,Undirected,1
+Byron,Shakespeare,Undirected,1
+Byron,Mozart,Undirected,1
+Lucie,Pivad,Undirected,1
+Fredrik,Hoffmann,Undirected,5
+Vilhelm Andersen,Weidemann,Undirected,3
+Møller,Weidemann,Undirected,13
+Otto Maximilian Møller,Weidemann,Undirected,2
+Andersen,Møller,Undirected,6
+Andersen,Weidemann,Undirected,5
+Jasaa,Weidemann,Undirected,1
+Jasaa,Møller,Undirected,1
+Michelsen,Møller,Undirected,1
+Andersen,Michelsen,Undirected,1
+Albert Gran,Møller,Undirected,1
+Albert Gran,Lucie Dumont,Undirected,1
+Gran,Lucie Dumont,Undirected,1
+Braad,Hoffmann,Undirected,1
+Alme,Gran,Undirected,12
+Albert,Gud,Undirected,4
+Angell,Gud,Undirected,4
+Lian,Lucie,Undirected,1
+Albert,Angeli,Undirected,1
+Angell,Lucie,Undirected,9
+Albert,Angell,Undirected,10
+Angell,Dumont,Undirected,2
+Jasaa,Solberg,Undirected,2
+Alme,Solberg,Undirected,5
+Michelsen,Mor Solberg,Undirected,5
+Mor Solberg,Solberg,Undirected,3
+Joda,Solberg,Undirected,1
+Joda,Michelsen,Undirected,1
+Mor,Solberg,Undirected,1
+Frue,Solberg,Undirected,3
+Albert Gran,Mor Solberg,Undirected,1
+Albert Gran,Solberg,Undirected,2
+Anne,Graad,Undirected,1
+Graad,Gud,Undirected,1
+Anne,Solberg,Undirected,3
+Frue,Gud,Undirected,1
+Krogh,Solberg,Undirected,2
+Alme,Michelsen,Undirected,5
+Alme,kvilket,Undirected,1
+Michelsen,kvilket,Undirected,1
+Herr Lyngstad,Michelsen,Undirected,2
+Herr Mekanikus Solberg,Lyngstad,Undirected,1
+Alme,Lyngstad,Undirected,2
+Alme,Marja,Undirected,1
+Ludvig Jensen,Lyngstad,Undirected,3
+Alme,Karlsen,Undirected,1
+Karlsen,Ludvig Jensen,Undirected,1
+Ludvig Jensen,Syrenius Pedersen,Undirected,1
+Michelsen,Syrenius Pedersen,Undirected,1
+Lygstad,Michelsen,Undirected,1
+Akers,Lygstad,Undirected,1
+Akers,Lyngstad,Undirected,1
+Adam Smith,Hoffmann,Undirected,2
+B ru Krogh,Gran,Undirected,1
+Lucie,graalyst,Undirected,1
+Frøken Dumont,Lucie,Undirected,1
+Gud,Rhode,Undirected,2
+Gud,Rohde,Undirected,1
+Frue,Rohde,Undirected,1
+Frue,Høgh,Undirected,1
+Krogh,jøssunamn,Undirected,1
+hans,jøssunamn,Undirected,1
+Angeli,hans,Undirected,1
+Angeli,Frøkena,Undirected,1
+Angell,Krogh,Undirected,6
+Angell,Assessor Høgh,Undirected,1
+Assessor Høgh,Emilie,Undirected,2
+Emilie,Marie,Undirected,1
+Angell,Hoffmann,Undirected,8
+Angell,Emilie,Undirected,5
+Emilie,Plun,Undirected,1
+Lucie,Plun,Undirected,1
+Heines,Lucie,Undirected,1
+Fredrik,Heines,Undirected,1
+Hoffman,Krogh,Undirected,1
+Faders,Jasaa,Undirected,1
+Hoffmann,Solberg,Undirected,3
+Gud,Solberg,Undirected,1
+Solberg,maatru,Undirected,2
+Hoffmann,Michelsen,Undirected,19
+Hoel,Hoffmann,Undirected,3
+Hoel,Michelsen,Undirected,9
+Herr Michelsen,Jasaa,Undirected,1
+Herr Michelsen,jasaa,Undirected,1
+Hoel,jasaa,Undirected,1
+Herr Michelsen,Hoel,Undirected,1
+Hoel,mongolsk,Undirected,1
+Herr Michelsen,Hoffmann,Undirected,2
+Herr Lyngstad,Solberg,Undirected,1
+H. L. Alme,Michelsen,Undirected,1
+Gud,Marie,Undirected,2
+Fredrik,Marie,Undirected,1
+Gran,Hoffman,Undirected,1
+Alexander,Hoffmann,Undirected,1
+Emilie«,Lucie,Undirected,1
+Gud,Mimi,Undirected,2
+Fredrik,Kroghs Hoffmann,Undirected,1
+Krogh,Kroghs Hoffmann,Undirected,1
+Lucie,Moskwa,Undirected,2
+Albert,Mimi,Undirected,1
+Axel,Fredrik,Undirected,2
+Gud,Mama,Undirected,1
+Jens Sandersen,Olaves Nickelsen,Undirected,1
+Hoffmann,Jens Sandersen,Undirected,1
+Fredrik,Schulin,Undirected,3
+Hoffmann,Toddi,Undirected,1
+Lucie,Toddi,Undirected,1
+Angeli,Emilie,Undirected,3
+Angeli,Hoffmann,Undirected,3
+Lucie,Shakespeare,Undirected,1
+Shakespeare,ensteds,Undirected,1
+Angeli,Gran,Undirected,1
+Drivdal,Schulin,Undirected,1
+Albert Gran,Angell,Undirected,1
+Albert,Gran,Undirected,2
+Botne,Gran,Undirected,1
+Botne,Skibskaptein Grans,Undirected,1
+Apres,nous,Undirected,1
+Karl Johan,Michelsen,Undirected,1
+Karl Johan,Weidemann,Undirected,1
+Michelsen,Weidemann,Undirected,6
+Gran,Møller,Undirected,2
+Buridans,Møller,Undirected,1
+Buridans,Weidemann,Undirected,2
+Weidemann,isaafald,Undirected,2
+Solberg,isaafald,Undirected,1
+Andreas Evenstad,Lyngstad,Undirected,2
+Gran,Ole,Undirected,1
+Ole,Weidemann saapas,Undirected,1
+Gran,Michelsen,Undirected,8
+Lucie,Weidemann,Undirected,3
+Georg,Lucie,Undirected,1
+Georg,Hofmann,Undirected,1
+Lucie,jj,Undirected,1
+Anna Greve,Emilie,Undirected,1
+Anna Greve,Valborg Dahl,Undirected,1
+Emilie,Valborg Dahl,Undirected,1
+Krogh,Mimi,Undirected,2
+Emilie,Emilie Krogh,Undirected,1
+Emilie Hofimann,Emilie Krogh,Undirected,1
+Bismarck,Krogh,Undirected,2
+Beck,Honneurs,Undirected,2
+Lorentzen,Nickelsen,Undirected,1
+Frøken Lycke,Lorentzen,Undirected,1
+Frøken Lycke,Gran,Undirected,1
+Weidemann,Wulff,Undirected,1
+Emilie Hoffmann,Gran,Undirected,1
+Langtifra,Nickelsen,Undirected,1
+Gran,Nickelsen,Undirected,1
+Nickelsen,Weidemann,Undirected,1
+Assessor Høgh,Høgh,Undirected,1
+Høgh,Weidemann,Undirected,2
+Bloch,Emilie,Undirected,1
+Bloch,Thoresen,Undirected,1
+Lucie,Thoresen,Undirected,1
+Lucie,Ottoman,Undirected,1
+Høgh,Ottoman,Undirected,1
+Lucie,Mohr,Undirected,1
+Dands,Emilie,Undirected,1
+Dands,Høgh,Undirected,1
+Beck,Gran,Undirected,3
+Drivdal,Joho,Undirected,1
+Drivdal,Hoel,Undirected,3
+Drivdal,Gud,Undirected,1
+Beck,Hoel,Undirected,1
+Beck,Nickelsen,Undirected,1
+Beck,H,Undirected,1
+Hoel,Speideri,Undirected,1
+Høire,Schulin,Undirected,1
+Weidemann,tillivs,Undirected,1
+Buridans,tillivs,Undirected,1
+Hoffmann,Sigurd,Undirected,1
+Brynhild,Sigurd,Undirected,1
+Brynhild,Hoffmann,Undirected,1
+Hoffmann,Weidemann,Undirected,5
+Albert,Flun,Undirected,1
+Adieu,Emilie,Undirected,1
+Adieu,Fredrik,Undirected,1
+Jensen,Trap,Undirected,1
+Aanei,Trap,Undirected,1
+Beck,Jensen,Undirected,1
+Drivdal,Michelsen,Undirected,1
+Blom,Michelsen,Undirected,1
+Andersen,Blom,Undirected,1
+Jensen,Michelsen,Undirected,1
+Gud,Jensen,Undirected,1
+Bruzelius,Herr Bruzelius,Undirected,1
+Krogh,Vasa,Undirected,1
+Olaf,Vasa,Undirected,1
+Krogh,Michelsen,Undirected,25
+Hoel,Schulin,Undirected,1
+Hoel,Solberg,Undirected,1
+Hyssing,Michelsen,Undirected,2
+Gran,Solberg,Undirected,1
+Gran,Michelsen saapas,Undirected,1
+Kompasen,Solberg,Undirected,1
+Gran,Ungkarlevis,Undirected,1
+Herr Michelsen,Krogh,Undirected,2
+Arbeider-Michelsen,Herr Michelsen,Undirected,1
+Arbeider-Michelsen,Hoffmann,Undirected,1
+Angell,Marie Høgh,Undirected,1
+Høgh,Marie Høgh,Undirected,1
+Angeli,Kaptein Grans,Undirected,1
+Albert,Kaptein Grans,Undirected,1
+Vilhelm,trent,Undirected,1
+Gud,Vilhelm,Undirected,1
+Angeli,Gud,Undirected,1
+Emilie,Michelsen,Undirected,1
+Emilie,snille,Undirected,1
+Lucie,Ploffmann,Undirected,2
+Lucie,Mimi,Undirected,2
+Lucie,Uhret,Undirected,1
+Emilie,Uhret,Undirected,1
+Krogh,Lian,Undirected,1
+Gran,Lian,Undirected,1
+Liun,Lucie,Undirected,1
+Emilie,Liun,Undirected,1
+Hoffmann,isaafald,Undirected,2
+Michelsen,nei,Undirected,1
+Krogh,bent,Undirected,1
+Hoffmann,bent,Undirected,1
+H,Mjt,Undirected,1
+Don Quixote,Weidemann,Undirected,1
+Albert,iblinde,Undirected,1
+Angell,Schulin,Undirected,1
+Angeli,strax,Undirected,1
+Hoffmann,strax,Undirected,1
+Angell,freidig,Undirected,1
+Angeli,Michelsen,Undirected,1
+Albert,aanei,Undirected,1
+Lucie,aanei,Undirected,1
+Angell,Asen,Undirected,1
+Alme,Hoffmann,Undirected,1
+Hoffmann,Waldemar Volland,Undirected,2
+Michelsen,Schulin,Undirected,1
+Hoffmann,Volland,Undirected,2
+Alme,Jøsses,Undirected,1
+Alme,Volland,Undirected,4
+Hansens,Schulin,Undirected,2
+Schulin,Weidemann,Undirected,3
+Gran,Waldemar Volland,Undirected,1
+Herr Volland,Volland,Undirected,1
+Alme,Herr Volland,Undirected,1
+Hansen,Hoel,Undirected,2
+Hansen,Krogh,Undirected,2
+Drivdal,Gran,Undirected,2
+Hansen,Hoffmann,Undirected,1
+Alme,Waldemar Volland,Undirected,1
+Alme,Weidemann,Undirected,1
+Assessor Høgh,Weidemann,Undirected,1
+Høgh,Solberg,Undirected,5
+Michelsen,Toddi,Undirected,1
+Solberg,Toddi,Undirected,1
+Angeli,Flan,Undirected,1
+Gran,taus,Undirected,1
+Hoel,Wallenstein,Undirected,1
+Hansen,Michelsen,Undirected,1
+Ploffmann,Schulin,Undirected,1
+Hoel,Jensen,Undirected,1
+Gran,Seir,Undirected,1
+Schulin,Seir,Undirected,1
+Flan,Hoffmann,Undirected,1
+Fredrik,Tu Tas voulu,Undirected,1
+George Dandin,Tu Tas voulu,Undirected,1
+Dumont,George Dandin,Undirected,1
+Jasaa,Tirez le ride au,Undirected,1

@@ -1,0 +1,128 @@
+source,target,type,weight
+Endre Bondesen,Ihlen,Undirected,1
+Bondesen,Endre,Undirected,5
+Bondesen,Lynge,Undirected,4
+Højbro,Lynge,Undirected,14
+Brede,Lynge,Undirected,1
+Leporello,Lynge,Undirected,17
+Fredrik,Ihlen,Undirected,4
+F'redrik,Ihlen,Undirected,1
+F'redrik,Fredrik,Undirected,1
+Fredrik,Hr. Højbro,Undirected,1
+Charlotte,Endre Bondesen,Undirected,1
+Endre Bondesen,Sofie,Undirected,1
+Fhngre,Hr. Højbro,Undirected,1
+Charlotte,Mama,Undirected,1
+Højbro,Sofie,Undirected,5
+Charlotte,Højbro,Undirected,25
+Gud,Karl Johansstøv,Undirected,1
+Bolette,Gud,Undirected,1
+Bolette,Thora,Undirected,2
+Charlotte,Fredrik,Undirected,5
+Fredrik,Sofie,Undirected,3
+Ihlen,Wolff,Undirected,1
+Fredrik Ihlens,Ihlen,Undirected,2
+Larsson,Lynge,Undirected,2
+Lynge,Polk,Undirected,1
+Alexander Lynge,Per,Undirected,1
+Paal,Per,Undirected,1
+Hansen,Lynge,Undirected,2
+Hr. Bondesen,Hr. Bondesens,Undirected,1
+Bondesen,Ihlen,Undirected,1
+Charlotte,Sofie,Undirected,10
+Hr. Bondesen,Hr. Carlsen,Undirected,1
+Bondesen,Leo Højbro,Undirected,2
+Charlotte,Leo Højbro,Undirected,1
+Lynge,Vadmelstrøje,Undirected,1
+P. L. K.,Vadmelstrøje,Undirected,1
+Lynge,P. L. K.,Undirected,2
+Lynge,Odelstingspræsidentens,Undirected,1
+Gud,Leporello,Undirected,1
+Leporello,sture,Undirected,1
+Leporello,Sofie Ihlens,Undirected,1
+Leporello,Sofie,Undirected,1
+Lynge,Sofie,Undirected,2
+Charlotte,Hr. Højbro,Undirected,1
+Hr. Højbro,Højbro,Undirected,1
+Fredrik,Højbro,Undirected,6
+Højbro,Ihlen,Undirected,3
+Ihlen,Lynge,Undirected,9
+Hr. Ihlen,Ihlen,Undirected,1
+Gud,Højbro,Undirected,7
+Gud,Lynge,Undirected,10
+Bondesen,Charlotte,Undirected,6
+Højbro,Leo Højbro,Undirected,3
+Ihlen,P. L. K.,Undirected,1
+Fredrik,Lynge,Undirected,5
+Endre,Lynge,Undirected,2
+Charlotte,Lynge,Undirected,7
+Charlotte,Ihlen,Undirected,3
+Charlotte,Magen,Undirected,1
+Lynge,Magen,Undirected,1
+Kongsvold,Lynge,Undirected,13
+Jensen,Lynge,Undirected,1
+Lynge,N. N.s,Undirected,1
+Charlotte Ihlen,N. N.s,Undirected,1
+Alexander Lynge,Lynge,Undirected,2
+Fredrik Ihlen,Lynge,Undirected,3
+Ihlen,Leo Højbro,Undirected,1
+Gud,Sofie,Undirected,1
+Charlotte,Gud,Undirected,6
+Sofie,Sofie haanlo,Undirected,1
+Birkeland,Lynge,Undirected,12
+Birkeland,Ernst Sars,Undirected,2
+Gambetta,Lynge,Undirected,1
+Castelar,Gambetta,Undirected,1
+Castelar,Ulfanov,Undirected,1
+Kommers,Lynge,Undirected,1
+Ihlen,Kommers,Undirected,1
+Bondesen,Højbro,Undirected,2
+Fredrik,brandt,Undirected,1
+Bondesen,Hr. Højbro,Undirected,1
+Bondesen,Fredrik,Undirected,1
+Grand,Leporello,Undirected,2
+Dalbye,Karl Johan,Undirected,1
+Karl Johan,Lynge,Undirected,1
+K vej ten,Lynge,Undirected,1
+Charlotte Ihlen,Lynge,Undirected,1
+Højbro,Mimi,Undirected,3
+Charlotte,Mimi,Undirected,2
+Gud,Mimi Arentzen,Undirected,1
+Charlotte,Graad,Undirected,1
+Dagny,Lynge,Undirected,4
+Gud,Provst Kielland,Undirected,1
+Lynge,Nik,Undirected,1
+Lynge,Lynge bæved,Undirected,1
+Grand,Gravesen,Undirected,1
+Gravesen,Ingebret,Undirected,1
+Ingebret,taug,Undirected,1
+Lynge,taug,Undirected,2
+Jasaa,Lynge,Undirected,2
+Ferdinand,Lynge,Undirected,1
+Grande,Lynge,Undirected,1
+Bernt Ankers Gade,Bondesen,Undirected,1
+Leo Højbro,Lynge,Undirected,1
+Bjørn,Lynge,Undirected,1
+Højbro,Jasaa,Undirected,1
+Lynge,Vetie Vetlesen,Undirected,1
+Lynge,Vetlesen,Undirected,4
+Charlotte,Charlotte taug,Undirected,1
+Højbro,Mimi Arentzen,Undirected,2
+Endre,frank,Undirected,1
+Karl Johan,frank,Undirected,1
+Bolt,Slaa,Undirected,1
+Højbro,Slaa,Undirected,1
+Hr. Højbro,Sofie,Undirected,1
+Bondesen,Charlotte Ihlen,Undirected,1
+Bjørn,Højbro,Undirected,1
+Højbro,isaafald,Undirected,1
+Charlotte,Cyclen,Undirected,2
+Højbro,Leporello,Undirected,1
+Cyclen,Højbro,Undirected,1
+Aktaion,Højbro,Undirected,1
+Aktaion,Artemis,Undirected,1
+Artemis,Lynge,Undirected,1
+Fredrik Ihlen,Ihlen,Undirected,1
+Leporello,Madam Olsen,Undirected,1
+Charlotte Ihlen,Sofie,Undirected,1
+Ihlen,Kongsvold,Undirected,1

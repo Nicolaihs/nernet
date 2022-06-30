@@ -1,0 +1,245 @@
+source,target,type,weight
+Asmondsen,Frederik,Undirected,8
+Frederik,yvad,Undirected,1
+Berling,Frederik den,Undirected,1
+Asmondfen,Berling,Undirected,1
+Asmondsen,Ellen,Undirected,1
+Aarluffsen,jøs,Undirected,1
+Aarluffsen,Ellen,Undirected,2
+Ellen,Guds,Undirected,1
+Ellen,sidsfe,Undirected,1
+Ellen,Gud,Undirected,1
+Frederik,Gud,Undirected,4
+Frederik,Sigurd Asmondsen,Undirected,1
+Asmondsen,Tran,Undirected,1
+Sigurd Asmondsen,jæg,Undirected,1
+Asmondsen,Gud,Undirected,2
+Asmondsen,Prinfen,Undirected,1
+Ondfkab,Raferi,Undirected,1
+Aarluffsen,jusf,Undirected,1
+Aarluffsen,Ragnhild,Undirected,1
+Ragnhild,sfal,Undirected,2
+Frederik,Jernnhrskives,Undirected,1
+Frederik,Hansine,Undirected,1
+Frederik,Jø,Undirected,1
+Aarluffsen,Gud,Undirected,2
+Gud,Ragnhild,Undirected,1
+Frederik,Heg,Undirected,1
+Asger,Viggo,Undirected,1
+Aarluffsen,Asger,Undirected,1
+Aarluffsen,Frederik,Undirected,3
+Selma Birk,f. Langton,Undirected,1
+Frederik,Selmas,Undirected,1
+Frederik,K.,Undirected,2
+Mr. Dick,Mr. Raymond,Undirected,1
+Morten Birthes,Selma,Undirected,2
+Selma,c.,Undirected,1
+Selma,svaredø,Undirected,1
+Birk,Selma,Undirected,6
+Dick,Eden,Undirected,2
+Dick,Mr. Raymond,Undirected,14
+Dick,Raymond,Undirected,17
+Mr. Raymond,Raymond,Undirected,1
+Dick,j,Undirected,2
+Liepert,Raymond,Undirected,6
+,Grev K.,Undirected,4
+K.,Liepert,Undirected,2
+Greven,Johnson,Undirected,1
+Birk,Liepert,Undirected,2
+Lady Stuart,Liepert,Undirected,1
+Frederik,Grev K.,Undirected,1
+Raymond,Selma,Undirected,3
+Liepert,Selma,Undirected,1
+Grev K.,Liepert,Undirected,3
+Dick,Madammens,Undirected,1
+Karlen,taaveli,Undirected,1
+Dick,Karlen,Undirected,1
+Birk,Raymond,Undirected,8
+Birk,Mr. Raymond,Undirected,7
+Birk,Grev K.,Undirected,4
+Fred erik,K.,Undirected,1
+Liepert,Mr. Raymond,Undirected,7
+Greven,Liepert,Undirected,1
+Karlen,Liepert,Undirected,2
+Air,Raymond,Undirected,1
+Gud,Klavs,Undirected,1
+Dick,Liepert,Undirected,1
+Klavs,as,Undirected,1
+Hr. Liepert,Mr. Raymond,Undirected,1
+Morten Birthes,Selma Birk,Undirected,1
+Birk,Dick,Undirected,1
+Dick,Marie,Undirected,1
+Josef,Maria,Undirected,1
+Aar-luffsen,Gud,Undirected,1
+Aarluffsen,Klavs Bent,Undirected,1
+Klavs Bent,Snorrehøj,Undirected,1
+Aarluffsen,Snorrehøj,Undirected,1
+Aarluffsen,gauske,Undirected,1
+Aarluffsen,Bent,Undirected,1
+Bent,Marie“,Undirected,1
+Frederik,Marie“,Undirected,1
+Prin-,sen,Undirected,1
+Klavs,Marie,Undirected,1
+Aarluffsen,Klavs,Undirected,1
+B.,Frederik,Undirected,6
+B.,j Prinsen,Undirected,2
+Fanny,Tekla,Undirected,9
+B.,sidsfe,Undirected,1
+Frederik,Tekla,Undirected,1
+B.,Fanny,Undirected,5
+Jens,Jens Nyborg,Undirected,2
+,B.,Undirected,3
+,Jens Nyborg,Undirected,1
+B.,Jens Nyborg,Undirected,1
+Fanny,Frederik,Undirected,11
+Aarluffsen,Peter,Undirected,1
+Aarluffsen,Peter Henningsen,Undirected,1
+Peter Henningsen,Sørens,Undirected,1
+Aarluffsen,Søren Ejby,Undirected,2
+Fanny B.,Søren,Undirected,1
+Per Jø,sen,Undirected,1
+Fanny,lonen,Undirected,1
+Fanny,koldl,Undirected,1
+Fanny,Sergent B.,Undirected,1
+B.,fom,Undirected,1
+B.,Christian den Fjerde,Undirected,1
+B.,Kristian,Undirected,2
+B.,I.,Undirected,1
+,A.,Undirected,1
+A.,B.,Undirected,1
+,Tekla,Undirected,1
+Frederik,Frederik den,Undirected,1
+Ane,Ane Majen,Undirected,1
+Ane,paany,Undirected,1
+Frederik,sorn,Undirected,2
+Husbond,Karlen,Undirected,1
+B.,Sergent.,Undirected,1
+B.,sorn,Undirected,1
+B.,Frøken Teklas,Undirected,1
+Fanny B.,Frederik,Undirected,1
+B.,Fanny B.,Undirected,1
+B.,Frederits,Undirected,1
+Greven,Rufus,Undirected,1
+Eduard Cunard,K.,Undirected,1
+Eduard Cunard,Gud,Undirected,1
+Cunard,K.,Undirected,1
+K.,Sir Cunard,Undirected,1
+Cunard,Sir Cunard,Undirected,1
+Selma Langton,Thomas Langton,Undirected,1
+Birk,Selma Langton,Undirected,1
+Birk,Greven,Undirected,9
+Greven,Raymond,Undirected,1
+Birk,K.,Undirected,1
+Frederik,Raymond,Undirected,1
+Mr. Raymond,sif,Undirected,1
+K.,sif,Undirected,1
+Mr. John Mers,Mr. Raymond,Undirected,1
+Gjæsfen,Mr. Raymond,Undirected,1
+Mr. Raymond,paany,Undirected,1
+Greven,Mr. Raymond,Undirected,1
+. Raymond,D ' hrr,Undirected,1
+. Raymond,John Mers,Undirected,1
+Birk,John Mers,Undirected,1
+Ester,Mr. Raymond,Undirected,1
+Sir Cunard,Tom,Undirected,2
+Mr. King,Tom,Undirected,1
+Mr. King,Mr. U.,Undirected,1
+Sir Cunard,Tom King,Undirected,4
+Cunard,Tom,Undirected,1
+Sir Cun-nards,Tom,Undirected,1
+Sir Cun-nards,tom,Undirected,1
+Eduard Hill,Tom King,Undirected,1
+Gud,Tom,Undirected,2
+Hill,Tom King,Undirected,1
+Greven,Tom,Undirected,3
+Hill,Tom,Undirected,2
+Greven,List,Undirected,1
+Hill,eg,Undirected,1
+Raymond,Tom,Undirected,1
+Eduard Hill,Hill,Undirected,2
+Birk,Hill,Undirected,2
+Birk,Sir Cunard,Undirected,3
+Mr. Birk,Sir Cunard,Undirected,1
+Birk,rede,Undirected,1
+Birk,Mve,Undirected,1
+Birk,Frederik,Undirected,2
+Grev K.,Sir Cunard,Undirected,1
+Birk,Cunard,Undirected,4
+Frederik,jea,Undirected,1
+Frederik,Selma,Undirected,1
+Birk,Eduard hill,Undirected,3
+Jmorgen Asten,line,Undirected,1
+Greven,Hill,Undirected,2
+Birk,Mr. Hill,Undirected,1
+Birk,jæg,Undirected,3
+Birk,Mr. John Mers,Undirected,1
+Birt,Greven,Undirected,1
+Cunard,Greven,Undirected,1
+Eduard hill,Sir Cunard felv,Undirected,1
+Sir Cunard felv,Tom King,Undirected,1
+Birk,Eduard Hill,Undirected,1
+Eduard Hill,Yan,Undirected,1
+K.,sef,Undirected,1
+Birk,sef,Undirected,1
+Greven,Tom King,Undirected,1
+Greven,John Mers,Undirected,1
+Grev,K.,Undirected,1
+Selma,jæg,Undirected,2
+Greven,jæg,Undirected,3
+K.,Selma,Undirected,4
+Greven,Selma,Undirected,10
+Greve,Selma,Undirected,2
+Selma,blol,Undirected,1
+K.,hjorkjær,Undirected,1
+Greven,Hjorkjær,Undirected,2
+Ester,Hjorkjær,Undirected,1
+Hr. Hjorkjær,Selma,Undirected,1
+Hjorkjær,Selma,Undirected,1
+Hjorkjær,jtpmte,Undirected,1
+fulgle,jtpmte,Undirected,1
+Selma,fulgle,Undirected,1
+Hjorkjær,Hnn,Undirected,1
+Grev K.,Hjorkjær,Undirected,1
+Greven,Kudsk,Undirected,1
+Hjorkjær,fig,Undirected,1
+Selma,ester,Undirected,2
+Fanny,Selma,Undirected,1
+Brandt,Selma,Undirected,3
+Brandt,hellfach,Undirected,1
+Brandt,Hellfach,Undirected,3
+Karl,Selma,Undirected,1
+Brandt,Frederik,Undirected,1
+Selma,lydø,Undirected,1
+Hellfach,paany,Undirected,1
+Selma,paany,Undirected,1
+Greven,Morten,Undirected,1
+Greven,fmin kjæræ,Undirected,1
+Ester,Selma,Undirected,1
+Hnn,Selma,Undirected,1
+Dokfor Helfach,Selma,Undirected,1
+Helfach,K.,Undirected,1
+K.,felv,Undirected,1
+Selma,felv,Undirected,1
+Brandt,K.,Undirected,1
+Helfach,Selma,Undirected,3
+Halvni,Selma,Undirected,1
+Dokforen,Selma,Undirected,1
+Hellfach,Selma,Undirected,1
+Selma,as,Undirected,1
+Asten,Selma,Undirected,1
+Frederik den,Vilhelmines,Undirected,1
+Stuart,Vilhelmine,Undirected,1
+' Fre-derik,Stuart,Undirected,1
+Papa,huu,Undirected,1
+Ferdinand,Frederik,Undirected,1
+Frederik,Vilhelmine,Undirected,2
+Vilhelmine,paany,Undirected,1
+Lady Stuart,Vilhelmine,Undirected,2
+Hø Greve,Selma,Undirected,1
+Greven,Hellfach,Undirected,1
+K.,Selma Langton,Undirected,1
+Brandt,rasf,Undirected,1
+Brandt,Greven,Undirected,1
+Graad,Selma,Undirected,1
+Fredensborg,K.,Undirected,1
+Birthes,Fredensborg,Undirected,1

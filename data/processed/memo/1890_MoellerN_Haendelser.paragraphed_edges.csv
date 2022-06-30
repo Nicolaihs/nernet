@@ -1,0 +1,52 @@
+source,target,type,weight
+Horats,Ubi sera rosa moretur,Undirected,1
+Arthur,Edmund,Undirected,1
+Jens,Mads Strandgård,Undirected,1
+Mads,Mads Strandgård,Undirected,1
+Mads,nyssens,Undirected,2
+Mads,ukrud,Undirected,1
+Mads,Morten,Undirected,1
+Morten,liet,Undirected,1
+Nyby,Sten,Undirected,2
+Hansen,Pedersen,Undirected,2
+Madsen,Pedersen,Undirected,2
+Aiskylos,Madsen,Undirected,1
+Aiskylos,dhrr.,Undirected,1
+Hansen,dhrr.,Undirected,1
+Coopers,Erik,Undirected,1
+Erik,luv,Undirected,2
+Erik,Satan,Undirected,1
+Erik,Gud,Undirected,1
+Gud,véd,Undirected,1
+Erik,véd,Undirected,1
+Dorte,Kristian,Undirected,2
+Erik,Kristian,Undirected,6
+Dorte,Erik,Undirected,2
+Kristian,nåda,Undirected,1
+Erik,Jakob,Undirected,6
+Jakob,Kristian,Undirected,3
+Kristian,kaptejn,Undirected,1
+Harald,Mariane,Undirected,4
+Hans,farbroders,Undirected,1
+Hans,Mariane,Undirected,1
+Hans,Harald,Undirected,2
+Hans,Herluf,Undirected,1
+Haraids,Harald,Undirected,1
+Harald,Herluf,Undirected,2
+Herluf,tom,Undirected,1
+Herluf,Maren,Undirected,2
+Elias,Henrik,Undirected,12
+Elias,brosjovernes,Undirected,1
+Henrik,jærnbro,Undirected,1
+Gud,kaptejnens,Undirected,1
+Per,Povl,Undirected,1
+Emilie,Herman,Undirected,1
+Henrik,rolyd,Undirected,1
+Elias,rolyd,Undirected,1
+Elias,påny,Undirected,1
+Notarius,notarius,Undirected,1
+Frandsen,vissevasse,Undirected,1
+notarius,vissevasse,Undirected,1
+Hum,hum,Undirected,1
+Henriette,etatsrådens,Undirected,1
+Henriette,lille Henriette,Undirected,1

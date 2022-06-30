@@ -1,0 +1,291 @@
+source,target,type,weight
+Lundsgaard,Lundsgaards,Undirected,1
+Lundsgaard,kjernesund,Undirected,1
+Astrup,Lundsgaard,Undirected,9
+Gud,Lundsgaard,Undirected,1
+Gud,vFru Lundsgaard,Undirected,1
+Cicero,Lundsgaard,Undirected,1
+Amalie,Lundsgaard,Undirected,1
+Astrup,Jens,Undirected,89
+Christen Olesens,Jens,Undirected,1
+Christen Olesens,Karen Margrethe,Undirected,1
+Christen Olesen,Karen Margrethe,Undirected,1
+Jens,Lundsgaard,Undirected,16
+Jens,Tante Bines,Undirected,1
+Jens,Mutter,Undirected,1
+Lundsgaard,Mutter,Undirected,1
+Jens,Olesens,Undirected,3
+Jens,Karen Margrethe,Undirected,10
+Lundsgaard,Olesens,Undirected,3
+Jens,Leporellos,Undirected,1
+Astrup,Bonnesen,Undirected,21
+Bonnesen,Jens,Undirected,31
+Bonnesen,Gud,Undirected,4
+Astrup,Jens’,Undirected,2
+Jens,Søeborg,Undirected,20
+Jens,kjør,Undirected,1
+Jens,ban,Undirected,6
+Droschke,Frøken Søeborg,Undirected,1
+Jens,Peder Madsens,Undirected,1
+Jens,strax,Undirected,2
+Sinding,ban,Undirected,2
+Moneter,ban,Undirected,1
+Bonnesen,Sinding,Undirected,50
+Kristoffer,Simulant,Undirected,1
+Christian,Sinding,Undirected,1
+Christian,Peter,Undirected,1
+Jakob,Peter,Undirected,1
+Jakob,Nikodemus,Undirected,1
+Cæsar,Nikodemus,Undirected,1
+Cæsar,Spinoza,Undirected,1
+Caligula,Spinoza,Undirected,1
+Gud,Sinding,Undirected,4
+Frk. Fangel,Jens,Undirected,10
+Bonnesen,Frøken Fangel,Undirected,3
+Bonnesen,Lundsgaard,Undirected,4
+Astrup,Sinding,Undirected,29
+Jens,Sinding,Undirected,110
+Jens,^Bonnesen,Undirected,1
+Bonnesen,^Bonnesen,Undirected,1
+Gud,Hr. Astrup,Undirected,1
+Jens,gauske,Undirected,2
+Jens,Oxenthal,Undirected,11
+Jens,Jens ’,Undirected,1
+Jens,Mau,Undirected,2
+Jens,Jens’,Undirected,4
+Jens,Michael Wiehe,Undirected,2
+Astrup,sisse,Undirected,2
+Astrup,Frk. Johansen,Undirected,1
+Nik,Souffleur,Undirected,1
+Astrup,Souffleur,Undirected,1
+Frk. Søeborg,Jens,Undirected,4
+Astrup,Frk. Søeborg,Undirected,2
+Frk. Fangel,Frk. Holst,Undirected,9
+Frk. Holst,Holst,Undirected,1
+Frk. Fangel,Holst,Undirected,1
+Astrup,Gud,Undirected,3
+Frk. Fangel,Gud,Undirected,3
+Astrup,Frk. Fangel,Undirected,9
+Astrup,Frk. Holst,Undirected,2
+Jens,Per Degn,Undirected,1
+Jens,hiin,Undirected,1
+Astrup,Horats,Undirected,1
+Gud,Jens,Undirected,4
+Amor,Gud,Undirected,2
+Gud,Holberg,Undirected,1
+Henrik,Holberg,Undirected,1
+Henrik,Monsieur Leander,Undirected,2
+Jens,Nyboders,Undirected,1
+Sinding,Vissing,Undirected,14
+Jens,Vissing,Undirected,11
+Olesens,Vissing,Undirected,1
+Sinding,lilles,Undirected,1
+Jens,lilles,Undirected,1
+Frk. Holst,Sinding,Undirected,6
+Frk. Holst,Jens,Undirected,1
+Frk. Fangel,Sinding,Undirected,16
+Bonnesen,Fangel,Undirected,4
+Droschken,Kalesche,Undirected,1
+Droschken,Frk. Fangel,Undirected,1
+Bonnesen,Frk. Fangel,Undirected,6
+Frk. Fangel,Noahs,Undirected,1
+Noahs,Sinding,Undirected,1
+Robinson,Sinding,Undirected,1
+Astrup,Robinson,Undirected,1
+Nemesis,Sinding,Undirected,2
+Ax,Zebraen,Undirected,1
+Ax,Bonnesen,Undirected,1
+Butterbrod geben,Sinding,Undirected,1
+Butterbrod geben,dazu vier Seydel,Undirected,1
+Schatzerl,dazu vier Seydel,Undirected,1
+Andreas Hofers,Sinding,Undirected,1
+Ach,Andreas Hofers,Undirected,1
+Ach,Sinding,Undirected,1
+Andreas Hofer,Sinding,Undirected,1
+Jens,Karl,Undirected,1
+Karl,Sinding,Undirected,1
+Jens’,Sinding,Undirected,4
+Astrup,Gottschalk,Undirected,6
+Astrup,Søeborg,Undirected,14
+Alanden,Søeborg,Undirected,1
+Cajas,Pouline,Undirected,1
+Jens,Pouline,Undirected,95
+Lundsgaard,Pouline,Undirected,5
+Søeborg,Zebraen,Undirected,2
+Fangel,Nik,Undirected,1
+Hermelins,Sinding,Undirected,1
+Gud,strax,Undirected,1
+Bonnesen,ban,Undirected,1
+Bonnesen,Jens klamrende,Undirected,1
+Jens klamrende,Sinding,Undirected,1
+Jens.,Sinding,Undirected,1
+Jens,Jons,Undirected,1
+Jens,ifjor,Undirected,1
+Jens,Kirsten Pils,Undirected,1
+Hejberg,Jens,Undirected,1
+Kirstine Pil,Sinding,Undirected,1
+Jens,Porter,Undirected,1
+Astrup,Porter,Undirected,1
+Frk. Søeborg,Sinding,Undirected,1
+Frøken Holst,Gud,Undirected,1
+Frk. Holst,Hr. Bonnesen,Undirected,1
+Sinding,Søeborg,Undirected,7
+Frk. Søborgs,Jens,Undirected,2
+Amalie,Sinding,Undirected,1
+Jens,Nepomuk,Undirected,1
+Carl den,Frk. Søeborg,Undirected,1
+Carl den,Mr. Dicks,Undirected,1
+Astrup,Olesens,Undirected,1
+Bonnesen,Vissing,Undirected,2
+Astrup,Vissing,Undirected,2
+Frk. Pouline,Jens,Undirected,1
+Astrup,Napoleon,Undirected,1
+Astrup,Pouline,Undirected,14
+Jens,lille Jensemand,Undirected,1
+Sinding,lille Jensemand,Undirected,1
+Gud,Søeborg,Undirected,2
+Gottschalk,l7i,Undirected,1
+Caja,Pouline,Undirected,4
+Hr. Astrup,Pouline,Undirected,1
+Don Juan,Hamlet,Undirected,1
+Don Juan,Jens,Undirected,1
+Jens,marschere,Undirected,1
+Hr. Lundsgaard,Jens,Undirected,1
+Caja,Vissing,Undirected,1
+Tordenskjold,ban,Undirected,1
+Jens tage,Pouline,Undirected,1
+Jens’,Pouline,Undirected,5
+Stinkadoros,Søeborg,Undirected,1
+Gottschalk,Jens,Undirected,3
+Pouline,Sinding,Undirected,4
+Gottschalk,Søeborg,Undirected,3
+Jens,isaafald,Undirected,1
+Karen Margrethe,Pouline,Undirected,2
+Amalie,Pouline,Undirected,3
+Lundsgaard,Sinding,Undirected,3
+Hr. Sinding,Sinding,Undirected,1
+Faust,Sinding,Undirected,2
+Amalie,Frk. Fangel,Undirected,1
+Frk. Fangel,Jens og,Undirected,1
+Frøken Fangel,Sinding,Undirected,1
+Frk. Fangel,dønne,Undirected,1
+Astrup,vemodig,Undirected,1
+Astrup,Fangel,Undirected,1
+Sinding,betids,Undirected,1
+Hr. Sinding,Mutter,Undirected,1
+Jappe,Sinding,Undirected,2
+Madam Jappe,Sinding,Undirected,1
+Hr. Søeborg,Jappe,Undirected,1
+Astrup,Hr. Sinding,Undirected,1
+Frk. Fangel,Pouline,Undirected,7
+Jens,Rutsche,Undirected,1
+Astrup,Oxenthal,Undirected,2
+Jens’,Oxenthal,Undirected,1
+Oxenthal,Pouline,Undirected,3
+Caja,Oxenthal,Undirected,2
+Oxenthal,Søeborg,Undirected,2
+Moth,Sinding,Undirected,2
+Garde,Søeborg,Undirected,1
+Astrup,Garde,Undirected,1
+Astrup,Moth,Undirected,1
+Astrup,Juel,Undirected,1
+Juel,Sinding,Undirected,1
+Per,Poul,Undirected,1
+Hr. Moth,Sinding,Undirected,1
+Aledens,Oxenthal,Undirected,1
+Caja,Jens Pouline,Undirected,1
+Afan,Jens,Undirected,1
+Christian Ditlev Astrup,Jens,Undirected,1
+Astrup,Frk. Pouline,Undirected,1
+Frk. Pouline,Frøken Caja,Undirected,1
+Frk. Pouline,Oxenthal,Undirected,1
+Frk. Pouline,Lundsgaard,Undirected,1
+Hr. Astrup,Hr. Oxenthal,Undirected,1
+Gud,Hr. Oxenthal,Undirected,1
+Frk. Fangel,kjære,Undirected,1
+Hattebaand,Jens,Undirected,1
+Frk. Fangel,Oxenthal,Undirected,3
+Oxenthal,Sinding,Undirected,7
+Gud,Jostys,Undirected,1
+Jostys,Sinding,Undirected,1
+Alan,Frk. Fangel,Undirected,1
+Frue,Toddy,Undirected,1
+Pouline,Søeborg,Undirected,3
+Augusta Schous,Pouline,Undirected,1
+Astrup,Augusta Schous,Undirected,2
+Bonnesen,Søeborg,Undirected,3
+Gottschalk,Oxenthal,Undirected,1
+Amalie,Jens,Undirected,4
+Herluf Trollesgade,Peder Skramsgade,Undirected,1
+Frøken Fangel,Jens,Undirected,1
+Hr. Sinding,Trine,Undirected,1
+Bonnesen,Hr. Sinding,Undirected,1
+Bonnesen,lille Trine,Undirected,1
+Bonnesen,Trine,Undirected,2
+Sinding,Trine,Undirected,2
+Gottschalk,Sinding,Undirected,1
+Caja,Gottschalk,Undirected,1
+Caja,Frk. Fangel,Undirected,1
+Amalie,Karen Margrethe,Undirected,1
+Cooper,Søeborg,Undirected,2
+Gud,Pouline,Undirected,1
+Aland,Sinding,Undirected,4
+Hveens,Sinding,Undirected,1
+Hveens,Jens,Undirected,1
+Arthur,Gud,Undirected,1
+Søeborg,Willumsen,Undirected,2
+Willumsen,ifjor Sommer,Undirected,1
+Hr. Willumsens,Oxenthal,Undirected,1
+Oxenthal,Willumsen,Undirected,1
+Sinding,Willumsen,Undirected,1
+Frøken Søeborg,Jens,Undirected,1
+Jens’,ban,Undirected,1
+Astrup,Caja,Undirected,2
+Gud,Line,Undirected,1
+Line,Pouline,Undirected,2
+Frøken Fangel,Gottschalk,Undirected,1
+Astrup Sardinen,Jens’,Undirected,1
+Astrup Sardinen,Jens Leverpostejen,Undirected,1
+Frk. Fangel,Gottschalk,Undirected,1
+Astrup,Hr. Astrup,Undirected,1
+Eugenie,Kjære,Undirected,1
+Eugenie,Gud,Undirected,1
+Astrup,Frøken Fangel,Undirected,1
+L’,Rasmus Kusk,Undirected,1
+Jens’,Vissing,Undirected,1
+Afan,Alan,Undirected,1
+Abdul Suleiman Masara,Dronning Victoria,Undirected,1
+Abdul Meschid di Massa-Carrara,Sinding,Undirected,1
+Nebuchadnezars,Suleiman,Undirected,1
+Sinding,mein lieber Mann,Undirected,1
+Jetzt sollst,Sinding,Undirected,1
+Sinding,Suleiman,Undirected,2
+Sinding,Skaal,Undirected,1
+Augusta,Theodora,Undirected,1
+Sfinx,Theodora,Undirected,1
+Jens,hille,Undirected,1
+Bastrup,Hastrup,Undirected,1
+Bastrup,Sinding,Undirected,1
+Frøken Fangel,Frøken Holst,Undirected,2
+Frøken Fangel,Hr. Astrup,Undirected,1
+Hr. Astrup,Hr. Lundsgaard,Undirected,1
+Bonnesen,Orpheus,Undirected,2
+Bonnesen,Clownen,Undirected,2
+Alan,Bonnesen,Undirected,1
+Nik,Trine,Undirected,1
+Fangel,Fruens,Undirected,1
+Pouline,tillive,Undirected,1
+Bonnesen,tillive,Undirected,1
+Caja,Fangel,Undirected,1
+Bonnesen,Pouline,Undirected,2
+Karen Margrethe,Lundsgaard,Undirected,1
+Karen Margrethe,Vissing,Undirected,1
+Astrup,Christian,Undirected,1
+Christian,Karen Margrethe,Undirected,1
+Hr. Vissing,Karen Margrethe,Undirected,1
+Amalie,Christian,Undirected,1
+Amalie,Bonnesen,Undirected,1
+Bonnesen,Christian,Undirected,1
+Hr. Vissing,Olesens,Undirected,1
+Lundsgaard,Trine,Undirected,1
+Jens,Trine,Undirected,1

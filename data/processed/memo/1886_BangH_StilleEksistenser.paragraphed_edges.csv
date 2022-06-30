@@ -1,0 +1,335 @@
+source,target,type,weight
+Ramsay,Skraa,Undirected,1
+Elisabeth,Thorsen,Undirected,1
+Hansen,Knudsen,Undirected,1
+Elisabeth,Larsen,Undirected,1
+Elisabeth,Gud,Undirected,1
+Faders,Karlsen,Undirected,1
+Fader,Karlsen,Undirected,3
+Fa’,Fenge,Undirected,1
+Elisabeth,Kristians,Undirected,1
+Elisabeth,Mo’,Undirected,1
+Elisabeth,Mo,Undirected,1
+Gravelotte,Waldecks,Undirected,1
+Otto Heinrich,Salzen,Undirected,2
+Kaptejn von Waldecks,Otto Heinrich,Undirected,1
+Frøken von Salzen,Salzen,Undirected,2
+Frøken von,Frøken von Salzen,Undirected,1
+Frøken von,Salzen,Undirected,1
+Grevinden,Salzen,Undirected,2
+Gehejmeraad Goethes,Salzen,Undirected,1
+Gehejmeraad Goethes,Gretchen,Undirected,1
+Graad,Salzen,Undirected,1
+Generalløjtnant.,von Feldheim,Undirected,1
+Maria Carolina,Otto Georg,Undirected,7
+Maria Carolina,Onkels,Undirected,1
+Maria Carolina,Mile,Undirected,1
+Lafontaines,Maria Carolina,Undirected,1
+Maria Carolina,Otto,Undirected,2
+Mademoiselle,Maria Carolina,Undirected,1
+Mademoiselle,Prinsesse Maria,Undirected,1
+,Prinsesse Maria,Undirected,1
+,Carolinas,Undirected,1
+Gratie,Maria Carolina,Undirected,2
+Mama,Maria Carolina,Undirected,1
+Maria Carolina,Munk,Undirected,1
+Maria Carolina,Signor Pestalozzi,Undirected,2
+Gud,Maria Carolina,Undirected,1
+Ernst Georg,Maria Car.olina,Undirected,1
+Maria Car.olina,Maria Carolina,Undirected,1
+Ernst Georg,Maria Carolina,Undirected,2
+Komtesse Theodora-Anna-Amalia von Hartenstein,Theodora - Anna - Amalia v. Hartenstein,Undirected,1
+Komtesse Theodora-Anna-Amalia von Hartenstein,Maria Carolina,Undirected,1
+Maria Carolina,Theodora-Anna-Amalia von Hartenstein,Undirected,3
+Maria Carolina,Theodora- AnnaAmalia von Hartenstein,Undirected,1
+Ajax,Maria Carolina,Undirected,3
+Hr. von Pollnitz,Pollnitz,Undirected,2
+Hr. von,Hr. von Pollnitz,Undirected,2
+Hr. von,Romeo,Undirected,1
+Maria Carolina,von Hartenstein,Undirected,1
+Anna-Amalia von Hartenstein,von Hartenstein,Undirected,1
+Grace,Hartenstein,Undirected,1
+Frøken von,Grace,Undirected,1
+Frøken von,Hartenstein,Undirected,1
+Flartenstein,Hartenstein,Undirected,1
+Komtesse von Hartenstein,von Hartenstein,Undirected,1
+Komtesse von Hartenstein,Maria Carolina,Undirected,2
+Kurth,Maria Carolina,Undirected,1
+von Kurth,von Quaade,Undirected,1
+Durchlaucht,Maria Carolina,Undirected,2
+Hans Durchlaucht,von Hartenstein,Undirected,1
+Durchlaucht,Komtesse von Hartenstein,Undirected,1
+Anna Lise,NaanlHendes,Undirected,1
+Hr. von Pøllnitz,Pøllnitz,Undirected,10
+Hr. von Pøllnitz,Marquis Posa,Undirected,1
+Marquis Posa,Pøllnitz,Undirected,2
+Hartenstein,Pøllnitz,Undirected,1
+Hr. v.,Pøllnitz,Undirected,3
+Boling'broke,Pøllnitz,Undirected,1
+Boling'broke,Lady Marlborough,Undirected,1
+Lady Marlborough,Pøllnitz,Undirected,1
+Eboli,Hr. v.,Undirected,1
+Hartenstein,von Hartenstein,Undirected,1
+Philipp,im Angesicht der Welt,Undirected,1
+Philipp,Philipp hat mir sie geraubt,Undirected,1
+Don Carlos,Philipp hat mir sie geraubt,Undirected,1
+Don Carlos,Josef Kaim,Undirected,1
+Hartenstein,Komtesse von Hartenstein,Undirected,1
+Kaim,Komtesse von Hartenstein,Undirected,1
+Kaim,Steindl,Undirected,1
+Komtesse von Hartenstein,Schiller,Undirected,1
+Komtesse von Hartenstein,poudre de riz,Undirected,1
+Hr. von Pølinjtz,Hr. von Pøllnitz,Undirected,1
+Hr. von Pøllnitz,Josef Kaim,Undirected,1
+Hr. von Pøllnitz,Mari,Undirected,1
+Hr. Kaim,Pøllnitz,Undirected,2
+Gud,Komtesse von Hartenstein,Undirected,1
+Hr. von Pøllnitz,Kaim,Undirected,1
+Kaim,Pøllnitz,Undirected,1
+Komtesse von Hartenstein,Mademoiselle,Undirected,2
+Komtesse von Hartenstein,age orageux,Undirected,1
+Mademoiselle,Mais,Undirected,1
+Mademoiselle,Mademoiselle Leterrier,Undirected,1
+Maria Carolina,villie,Undirected,1
+Eboli,Karlos,Undirected,1
+Karl,Karlos,Undirected,1
+Karl,Posa,Undirected,1
+Maria Carolina,Marie,Undirected,1
+Antoinette,Marie,Undirected,1
+-,Anna,Undirected,1
+-,Lise,Undirected,1
+Julia,Romeo,Undirected,1
+Pøllnitz,von Hartenstein,Undirected,1
+Pøllnitz,von Pøllnitz,Undirected,2
+Mariane,Pøllnitz,Undirected,2
+David,Pøllnitz,Undirected,2
+David,Mariane,Undirected,1
+Mariane,von Pøllnitz,Undirected,1
+Maria Carolina,Villie,Undirected,1
+Napoleons,Villie,Undirected,1
+Maria Carolina,Maria Stuart,Undirected,1
+Josef Kaim,Maria,Undirected,1
+Maria,Stuart,Undirected,1
+Mariane,Pollnitz,Undirected,3
+Kaim,Leander,Undirected,1
+Elisabeth,Ernst Georg,Undirected,1
+Elisabeth,Maria Carolina,Undirected,2
+Ernst Georg,Maria,Undirected,1
+Maria Carolina,Sabel,Undirected,1
+Salzen,von Salzen,Undirected,1
+Kolerine,Pollnitz,Undirected,1
+Hr. von Polnitz,Pollnitz,Undirected,1
+Hr. von,Pöllnitz,Undirected,2
+Curth,Hr. von,Undirected,1
+Curth,Pollnitz,Undirected,1
+Maria Carolina,Pollnitz,Undirected,2
+Kong Filips,Pollnitz,Undirected,1
+Don Karlos,von Pollnitz,Undirected,1
+Don Karlos,Pollnitz,Undirected,1
+Markis Posa,Pollnitz,Undirected,1
+Pollnitz,Vals,Undirected,1
+Hr. von,Pöllnitz væltede,Undirected,1
+Abel,Louise,Undirected,2
+Frøken Jensen,Louise,Undirected,1
+Herren,Ida-Yngst,Undirected,1
+Hr. Kiær,Louise,Undirected,1
+Bai,Hr. Huus,Undirected,1
+Bai,Louise-Ældst,Undirected,4
+Abel,Hr. Huus,Undirected,1
+Frøken Jensen,Kiær,Undirected,1
+Frøken Linde,Kiær,Undirected,1
+Frøken Jensen,eb Kapellanen,Undirected,1
+Andersen,Frøken Linde,Undirected,1
+Frøken Jensen,Linde,Undirected,3
+Abel,Frøken Jensen,Undirected,2
+Frøken Jensen,Moppen,Undirected,2
+Bai,Marie,Undirected,10
+Katinka,Lassons,Undirected,1
+Fanny,Lassons,Undirected,1
+Ida Levy,Tinka,Undirected,3
+Helms,Minna,Undirected,1
+Helms,Katinka,Undirected,1
+Hr. Bai,Katinka,Undirected,3
+Thora Berg,Tinka,Undirected,1
+Thora,Tinka,Undirected,2
+Thora,Thora Berg,Undirected,1
+Katinka,Thora Berg,Undirected,1
+Bai,Tinka,Undirected,1
+Bai,Katinka,Undirected,63
+Bai,Thee,Undirected,1
+Bai,Kiær,Undirected,17
+Bai,Huus,Undirected,13
+Abel,Gud,Undirected,1
+Ida,Louise,Undirected,3
+Frøken LouiseÆldst,Ida,Undirected,1
+Abel,Ida-Yngst,Undirected,1
+Enkefru Abel,Louise-Ældst,Undirected,1
+Huus,u Huus,Undirected,1
+Bai,u Huus,Undirected,1
+Huus,Thee,Undirected,1
+Kamilla,Kamilla Andersen,Undirected,1
+Huus,Kamilla,Undirected,1
+Lille Jensen,Mathias,Undirected,1
+Lille Jensen,Linde,Undirected,1
+Abel,Mathias,Undirected,1
+Abel,Bel-ami,Undirected,2
+Bel-ami,Frøken Jensen,Undirected,1
+Bai,Frøken Jensen,Undirected,2
+Bentzens,Frøken Jensen,Undirected,1
+Lille-Bentzen,MariePige,Undirected,1
+Frøken Jensen,Lille-Bentzen,Undirected,1
+Bai,Lille-Bentzen,Undirected,4
+Frøken Jensen,Katinka,Undirected,8
+Katinka,Marie,Undirected,23
+Lille-Bentzen,Marie,Undirected,1
+Bai,Lille-Jensen,Undirected,2
+Huus,Katinka,Undirected,37
+Katinka,Linde,Undirected,5
+Kiær,Linde,Undirected,2
+Abel,Kiær,Undirected,1
+Bai,Bentzen,Undirected,1
+Bentzen,Peter,Undirected,1
+Huus,Peter,Undirected,1
+Ida-Yngst,Mo,Undirected,1
+Bai,Ida-Yngst,Undirected,1
+Gud,Ida-Yngst,Undirected,1
+Ida,Ida-Yngst,Undirected,1
+Frøken Helene,Schandorph,Undirected,1
+Gjellerup,Schandorph,Undirected,1
+Brandes,Darwin,Undirected,1
+Ida,Louise-Ældst,Undirected,3
+Gud,Helene,Undirected,1
+Helene,Møllerens,Undirected,1
+Katinka,Lille-Bentzen,Undirected,3
+Agnes Linde,Lille-Bentzen,Undirected,1
+Agnes Linde,Bai,Undirected,1
+Agnes,Katinka,Undirected,27
+Frøken Linde,Katinka,Undirected,1
+Andersen,Katinka,Undirected,2
+Katinka timevis,soni,Undirected,1
+Agnes,Andersen,Undirected,2
+Katinka,Themaet,Undirected,1
+Frøken Ida,Ida,Undirected,1
+Bai,Frøken Louise,Undirected,1
+Agnes Linde,Katinka,Undirected,2
+Agnes,Agnes Linde,Undirected,2
+Agnes,Utyske,Undirected,1
+Bane-Peter,Marie,Undirected,1
+Frøken Jensen,Louise-Ældst,Undirected,1
+Agnes,Louise-Ældst,Undirected,2
+Abel,Louise-Ældst,Undirected,1
+LilleJensen,Louise-Ældst,Undirected,2
+Frøken Linde,Louise,Undirected,1
+Frøken Jensen,Frøken Linde,Undirected,1
+Agnes,Huus,Undirected,1
+Andersen,Huus,Undirected,1
+Katinka,hans,Undirected,1
+Bai,Marie-Pige,Undirected,1
+Karl,Thomas,Undirected,1
+Mari,Søren,Undirected,2
+Bertrands,Huus,Undirected,1
+Katinka,le-Tort,Undirected,1
+Løve,Marie,Undirected,1
+Katinka,Løve,Undirected,1
+Karussellen,Katinka,Undirected,1
+Katinka,Sorrento,Undirected,1
+Alan,Bai,Undirected,2
+Alan,Katinka,Undirected,1
+Josefine,Julie,Undirected,1
+Mathilde,Nielsen,Undirected,1
+Julie,Marie,Undirected,1
+Alarie,Huus,Undirected,1
+Alarie,Bai,Undirected,1
+Katinka,Kiær,Undirected,2
+lille Frue,lille Mo,Undirected,1
+Alen,Katinka,Undirected,1
+Andersen,Louise-Ældst,Undirected,1
+Lille-Jensen,Louise-Ældst,Undirected,1
+Bai,Pastor,Undirected,1
+Graad,Katinka,Undirected,2
+Graad,Huus,Undirected,1
+Bai,Linde,Undirected,1
+Katinka,Moses,Undirected,1
+Gud,Skaar,Undirected,1
+Arne,Gud,Undirected,1
+Arne,Thora,Undirected,1
+Katinka,Thora,Undirected,13
+Hagen,Katinka,Undirected,1
+Dahl,Katinka,Undirected,2
+Dahl,Thora,Undirected,2
+Nikolai,Thora,Undirected,1
+Gud,Thora,Undirected,1
+Forvalter Huus,Katinka,Undirected,1
+Emil,Katinka,Undirected,1
+Alarie,Katinka,Undirected,2
+Alarie,Marie,Undirected,2
+Agnes,Peter Banekarl,Undirected,1
+Katinka,Peter Banekarl,Undirected,1
+Ida-Yngst,Katinka,Undirected,1
+Louise-Ældst,mat,Undirected,1
+Jensen,Møllerens,Undirected,2
+Louise-Ældst,Møllerens,Undirected,1
+Agnes,Gud,Undirected,1
+Abel,Agnes,Undirected,2
+Bisse,Busse,Undirected,1
+Basse,Frøken Jensen,Undirected,1
+blaa,gantes,Undirected,1
+Katinka,gantes,Undirected,1
+Bai,Toddy,Undirected,1
+Bai,Svendsen,Undirected,5
+Agnes,Linde,Undirected,2
+Linde,Æggehvide,Undirected,1
+Katinka,Robbert,Undirected,1
+Katinka,Marianna,Undirected,1
+-----Katinka,Agnes,Undirected,1
+Abel,Lille-Jensen,Undirected,2
+Bel-ami,Lille-Jensen,Undirected,2
+Bel-ami,ifjor,Undirected,1
+Lille-Jensen,ifjor,Undirected,1
+Bai,Lille-Bentzen smaasov,Undirected,1
+Katinka,Lille-Bentzen smaasov,Undirected,1
+Jensen,Katinka,Undirected,1
+Katinka,Marie Pige,Undirected,1
+Abel,Barners,Undirected,1
+Barners,Lille-Jensen,Undirected,1
+Lille-Jensen,Marie,Undirected,1
+LilleJensen,Marie,Undirected,1
+Hr. Svendsen,Katinka,Undirected,1
+---------Katinka,Bai,Undirected,1
+Bai,Mortensen,Undirected,1
+Hr. Mortensen,Katinka,Undirected,1
+Katinka,Svendsen,Undirected,1
+Madam Madsen,Madam Madsens,Undirected,1
+Alarie,Ifjor,Undirected,1
+Katinka,Louise-Ældst,Undirected,2
+Katinka,Præstens,Undirected,1
+Katinka,Pastor,Undirected,1
+Agnes,Sorrent,Undirected,1
+Graaden,Katinka,Undirected,1
+Agnes,Graaden,Undirected,1
+Agnes,Ane,Undirected,1
+Agnes,Lille-Bentzen,Undirected,2
+Agnes,Pastor,Undirected,1
+Jøsses,Marie,Undirected,1
+Agnes,Bai,Undirected,2
+Bai,Frøken Agnes,Undirected,1
+Lille-Jensen,Linde,Undirected,2
+Agnes,Bentzen,Undirected,2
+Bentzen,Karlen,Undirected,1
+Agnes,Karlen,Undirected,1
+Abel,Bai,Undirected,2
+Bai,LouiseÆldst,Undirected,1
+Kiær,Louise,Undirected,1
+Adam,Bai,Undirected,1
+Bai,Lieutenant Nielsen,Undirected,1
+Lieutenant Nielsen,b Lieutenanten,Undirected,1
+Bai,anderswo,Undirected,1
+Bai,Kasinos,Undirected,1
+Kiær,Nielsen,Undirected,1
+Bai,Nielsen,Undirected,2
+Louise,Mamma,Undirected,1
+LilleJensen og,Linde,Undirected,1
+Ida,Pastor,Undirected,1
+Bai,Louise,Undirected,1
+Agnes,Pastor kunde,Undirected,1
+Agnes,Marianna,Undirected,1

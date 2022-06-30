@@ -1,0 +1,227 @@
+source,target,type,weight
+Plydses,Sundstrøm,Undirected,1
+Evropa,Stærke-Sørens,Undirected,1
+Frederik den sjette,Lystrup,Undirected,1
+Jørgen,Lystrup,Undirected,3
+Emma,Knud,Undirected,71
+Karls,Saxes,Undirected,1
+Karls,Rolf Krakes,Undirected,1
+Rolf Krakes,Uffes,Undirected,1
+Absalons,Uffes,Undirected,1
+Jørgen Siversen,Knud,Undirected,9
+Jørgen Siversen,Karl,Undirected,1
+Emma,Karl,Undirected,1
+Emma,Jørgen Siversen,Undirected,4
+Ellen,Jørgen Siversen,Undirected,2
+Frans Larsen,Knud,Undirected,2
+Karl,Knud,Undirected,6
+Ellen,Emma,Undirected,12
+Charles Julius Besser,Peddersen,Undirected,1
+Knud,ester,Undirected,1
+Besser,Jørgen Siversen,Undirected,2
+Besser,Ellen,Undirected,4
+Emma,Hr. Sundstrøm,Undirected,1
+Ellen,Knud,Undirected,11
+Hr. Sundstrøm,Knud,Undirected,1
+Besser,Karl,Undirected,1
+Knud,Polle,Undirected,2
+Knud,Stine,Undirected,2
+Jørgen Siversen,Stine,Undirected,1
+Emma,Rørby,Undirected,2
+Rørby,ester,Undirected,1
+Enima,hnn,Undirected,1
+Knud,hnn,Undirected,3
+Knud,Lystrup,Undirected,4
+saad ,saad ' n,Undirected,1
+Frits,Knud,Undirected,6
+Aage,Weyses,Undirected,1
+Aage,Beethovens,Undirected,1
+Emma,Frits,Undirected,19
+Bondekarl,Emma,Undirected,1
+Jørgen Siversen,Klavs,Undirected,1
+Frits,Jørgen Siversen,Undirected,4
+Ralliken,itte,Undirected,1
+Emma,ester,Undirected,1
+Frits,ester,Undirected,1
+Emma,hnn,Undirected,2
+Frits,Gud,Undirected,4
+Andersen,Byron,Undirected,1
+Emma,Lystrup,Undirected,3
+Frans,Jørgen Siversen,Undirected,2
+Emma,Frans,Undirected,1
+Frans,Knud,Undirected,4
+Emma,Rasmus Mortensen,Undirected,1
+Emma,Hnn,Undirected,1
+Gud,Knud,Undirected,6
+Jørgen,Karen Jørgens,Undirected,1
+Gud,Karen Jørgens,Undirected,2
+Ellen,Gud,Undirected,6
+Ellen,Jørgen,Undirected,1
+Ellen,Karen Jørgens,Undirected,3
+Knud,nor,Undirected,2
+Emma,Kuud,Undirected,1
+Emma,Lise,Undirected,1
+Ellen,Smeddens,Undirected,1
+Kirsten,Smeddens,Undirected,1
+Svend,hnn,Undirected,1
+Knud,Svend,Undirected,1
+Søren,vos,Undirected,1
+Lars Lars,nøre,Undirected,1
+Ellen,Karens,Undirected,2
+Knud,Tenne,Undirected,1
+Karen,Knud,Undirected,1
+Besser,Knud,Undirected,4
+Knud,Knud Olsen,Undirected,4
+Besser,Knnd,Undirected,1
+Knnd,Knud et,Undirected,1
+Hr. Besser,vos,Undirected,1
+Besser,Knud Olsen,Undirected,1
+Frans Larsen,Søren Hugger,Undirected,1
+Knud,Tu Fredsens,Undirected,1
+Jørgen Siversen,Søren,Undirected,1
+Frans Larsen,Jørgen Siversen,Undirected,2
+Besser,Frans Larsen,Undirected,1
+Besser,Frans,Undirected,1
+Gud,Jørgen Siversen,Undirected,1
+Jngen,Jørgen,Undirected,1
+Besser,Jørgen,Undirected,1
+Jørgen,Niks,Undirected,1
+Besser,Jaj,Undirected,1
+Jaj,jaj,Undirected,1
+Napoleon,jaj,Undirected,1
+Napoleon,soni,Undirected,1
+Jørgen Siversen,tor,Undirected,1
+Jørgen Siversen,Niks,Undirected,1
+Gud,maj,Undirected,1
+,H,Undirected,1
+,jane,Undirected,1
+Emma,frods,Undirected,1
+Emma,Onkels,Undirected,1
+Jørgen Siversen,Lystrup,Undirected,2
+jø,vos,Undirected,2
+Karen,jø,Undirected,1
+Brangen,Jørgen Siversen,Undirected,1
+Morten,Rasmus,Undirected,1
+Klavs,vos,Undirected,1
+Emma,Klavs,Undirected,1
+Klavs,Kristen,Undirected,1
+Frits,Lystrup,Undirected,4
+Karen Jørgens,Knud,Undirected,1
+Frederik Holst,Frits,Undirected,2
+Frits,Skjæggel,Undirected,1
+Frits,Kabuds,Undirected,1
+Ellen,Frits,Undirected,2
+Bravo,Frits,Undirected,1
+Frits,Holst,Undirected,4
+Jørgen Siversen,Per Brast,Undirected,1
+Jørgen,Knud,Undirected,1
+,Skjænd,Undirected,1
+,Lystrup,Undirected,1
+Lystrup,skjænd,Undirected,1
+,skjænd,Undirected,1
+,Knud,Undirected,1
+Knud,Per Grejsen,Undirected,3
+Frits,Kristen Knort,Undirected,1
+,Frits,Undirected,2
+,Emma,Undirected,1
+Knubs,Knud,Undirected,2
+Holst,Knud,Undirected,3
+Jørgen Siversen,Per Grejsen,Undirected,1
+Jørgen Siversen,Mads,Undirected,1
+Knud,Mads,Undirected,1
+Emma,Holst,Undirected,1
+Knud,Valsetrin,Undirected,2
+Gud,vos,Undirected,1
+Jørgen Siversen,Pren,Undirected,1
+aan,itte,Undirected,1
+Holst,Lystrup,Undirected,1
+Emma,Gud,Undirected,10
+Ellen,Stine,Undirected,1
+Frits,Lysfrup,Undirected,2
+Frits,hnn,Undirected,1
+Ellen,hnn,Undirected,1
+Knud,tsl,Undirected,1
+Emma,Sidse Malene Christ,Undirected,1
+Emma,ristens,Undirected,1
+Morten Clausen,ristens,Undirected,1
+Asten,Emma,Undirected,1
+Knud,sknlde,Undirected,1
+Knud,grandt,Undirected,1
+Emma,grandt,Undirected,1
+Bien,Knud,Undirected,1
+Emma,Syngebæk,Undirected,1
+Knud,Syngebæk,Undirected,1
+Jærnskovl,Knud,Undirected,1
+Knud,Sioe,Undirected,1
+Sioe,dein,Undirected,1
+Emma,Knubs,Undirected,1
+Lange,Lystrup,Undirected,1
+Lange,nien,Undirected,1
+Nørby,nien,Undirected,1
+Jørgen Siversen,Nørby,Undirected,1
+Karen,Sidse Per Grejs,Undirected,1
+Karen,inge,Undirected,1
+Vallem,inge,Undirected,1
+Gud,Vallem,Undirected,1
+Gud,Sidse,Undirected,2
+Ellen,Saad,Undirected,1
+Saad,hnn,Undirected,1
+Jørgen,Sidse PerGrejs,Undirected,1
+ilel,ing,Undirected,1
+Jørgen,Karen saad,Undirected,1
+Jørgen Siversen,Karen saad,Undirected,1
+Jørgen,Mads Løve,Undirected,1
+Lars Søren,Mads Løve,Undirected,1
+Lars Søren,Povl Madsen,Undirected,1
+Jørgen Sioersen,Povl Madsen,Undirected,1
+Jørgen,Karen,Undirected,1
+Knud,ganfle,Undirected,1
+Knud,Siversen,Undirected,1
+Emma,Siversen,Undirected,1
+Knud,ded,Undirected,1
+Jørgen Smed,Knud,Undirected,1
+Besser,Per,Undirected,1
+Per,Poul,Undirected,1
+Ieg,Sumarum,Undirected,1
+Ieg,Thyko Brahes,Undirected,1
+Ieg,saad,Undirected,1
+saad,uns,Undirected,2
+Besser,Lange,Undirected,1
+Frederik den,Lystrup,Undirected,1
+Jsteddagens,Jørgen,Undirected,1
+Jørgen,Søren,Undirected,2
+Bo,Knud,Undirected,1
+Knud,Sky,Undirected,2
+Alan,Lystrup,Undirected,1
+Gud,oni,Undirected,1
+Jørgen Siversen,Søren Hugger,Undirected,1
+Bester,Knud,Undirected,1
+Jørgen stulde,Knud,Undirected,1
+Frans,Jørgen stulde,Undirected,1
+Frans,Jørgen,Undirected,1
+Jørgen Siversen,jaj,Undirected,1
+Besser,nte,Undirected,1
+Emma,Per Grejsen,Undirected,1
+Jesper,Per Grejsen,Undirected,1
+Knud,Tom,Undirected,2
+Bodil,Knud,Undirected,3
+Bo,Frans,Undirected,1
+Bodil,Frans,Undirected,1
+Knud Ølsen,Povl Madsen,Undirected,1
+Knud,kain,Undirected,1
+Nn,kain,Undirected,1
+Knud,soni,Undirected,1
+Gud,soni,Undirected,1
+Frederik,Mads Løve,Undirected,1
+Frederik,Jørgen Sivers,Undirected,1
+Jørgen Sivers,Niels,Undirected,1
+Asthma,Jørgen Siversen,Undirected,1
+Jørgen,hænd,Undirected,1
+Knnd,kasfe,Undirected,1
+Graad,Knud,Undirected,2
+Jørgen Siversen,Karen Jørgens,Undirected,1
+Peddersen,em,Undirected,1
+Niks,lassen,Undirected,1
+Emma,mari,Undirected,1
+Knud,mari,Undirected,1
+Emma,Nørby,Undirected,1

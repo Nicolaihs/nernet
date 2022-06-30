@@ -1,0 +1,103 @@
+source,target,type,weight
+Nanny,Philip Salomon,Undirected,1
+Jakobe,Nanny,Undirected,15
+Nanny,Per,Undirected,6
+Jakobe,Per,Undirected,26
+Eybert,Per,Undirected,14
+Jakobe,Nanny s,Undirected,1
+Gud,Per amor di Dio,Undirected,1
+Heinrichs,Per,Undirected,1
+Samuel Smith,Stadlmann,Undirected,1
+Samuel,Samuel Smith,Undirected,1
+Hr. Stadlmanns,von Raben-Rabenstein,Undirected,1
+Hr. Stadlmann,Hr. Stadlmanns,Undirected,1
+Hr. Stadlmann,von Baben-Rabensteins,Undirected,1
+Hr. Delft,Per,Undirected,4
+Hr. Delft,Nanny,Undirected,1
+Ivan,Per,Undirected,7
+Bernt-Adlersborg,Ivan,Undirected,1
+Per,Salomons,Undirected,1
+Ivan,Nanny,Undirected,4
+Jakobe,Nathan,Undirected,2
+Ivan,Jakobe,Undirected,5
+Eybert,Ivan,Undirected,2
+Hr. Eybert,Philip Salomon,Undirected,1
+Ivan,Philip Salomon,Undirected,1
+Griesmann,Heinrichs,Undirected,1
+Heinrichs,Jakobe,Undirected,2
+Eybert,Jakobe,Undirected,20
+Gud,Jakobe,Undirected,1
+Eybert,Gud,Undirected,2
+Dyhring,Per,Undirected,6
+Dyhring,Per hjemme,Undirected,1
+Per,Per hjemme,Undirected,1
+Dyhring,Ivan,Undirected,3
+Falkens,Per,Undirected,2
+Otto Dyhring,Per —,Undirected,1
+Otto,Per —,Undirected,2
+Ivan Salomon,Per,Undirected,2
+Dyhring,Nanny Salomon,Undirected,2
+Nanny Salomon,Olga Davidsen,Undirected,1
+Hr. Dyhring,Olga,Undirected,1
+Nanny,Olga,Undirected,1
+Bjerregrav,Per,Undirected,2
+Dyhring,Hr. Delft,Undirected,1
+Falkens,Ivan,Undirected,2
+Per,Philip Salomon,Undirected,2
+Eybert,ohne Worte,Undirected,2
+Eybert,Nanny,Undirected,2
+Hansen,Jakobe,Undirected,1
+Eybert,Hansen,Undirected,1
+Iglen,paany,Undirected,1
+Rosalie,paany,Undirected,1
+Jakobe,Rosalie,Undirected,1
+Dr. Nathans,Per,Undirected,1
+Dr. Nathan,Dr. Nathans,Undirected,1
+Eybert,Per Sidenius,Undirected,1
+Aron Israel,Per,Undirected,2
+Eybert,Hr. Dyhring,Undirected,1
+Heinrich,Hr. Dyhring,Undirected,1
+Heinrich,Nanny,Undirected,1
+Balling,Nanny,Undirected,1
+Balling,Philip Salomon,Undirected,1
+Aron Israel,Philip Salomon,Undirected,2
+Aron Israel,Rosalie,Undirected,1
+Per,Rosalie,Undirected,1
+Jakobe,Philip Salomon,Undirected,1
+Aron Israel,Jakobe,Undirected,2
+Aron Israel,Eybert,Undirected,2
+Aron Israel,Falkens,Undirected,1
+Eybert,Nathan,Undirected,1
+Nathan,Per,Undirected,1
+Aron Israel,Balling,Undirected,2
+Bjerregrav,ivold,Undirected,1
+Heinrich,Philip Salomon,Undirected,1
+Balling,Per,Undirected,1
+Gud,Ivan,Undirected,1
+Kristian,Louise,Undirected,1
+Dyhring,Nanny,Undirected,1
+Balling,Eybert,Undirected,1
+Balling,Evald,Undirected,1
+Jakobe,Sidenius,Undirected,3
+Jakobe,Rebekka,Undirected,1
+Heinrich,Ivan,Undirected,2
+Heinrich,Per,Undirected,3
+Eberhardt,Sidenius,Undirected,1
+Eberhardt,Jakobe,Undirected,4
+Eberhardt,Per,Undirected,2
+Per,Peter Andreas,Undirected,1
+Frøken Salomon,Peter Andreas,Undirected,1
+Per,Trine,Undirected,1
+Jakobe,Trine,Undirected,3
+Madam Olufsen,Trine,Undirected,1
+Neergaard,Per,Undirected,1
+Neergaard,Philip Salomon,Undirected,1
+Falken,Per,Undirected,1
+Falken,Sandrups,Undirected,1
+Marius Jørgensen,Sandrups,Undirected,2
+Per,Sandrups,Undirected,1
+Bernt von Adlersborg,Per,Undirected,2
+Per,Per von Adlersborg,Undirected,1
+Fransiscas,Per,Undirected,1
+Adam,Fransiscas,Undirected,1
+Adam,Eva,Undirected,2

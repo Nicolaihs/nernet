@@ -1,0 +1,76 @@
+source,target,type,weight
+Apollos,Lord Byron,Undirected,1
+Helena,Phryne,Undirected,1
+Elisabeth Stilling,Straahat,Undirected,1
+Apolio,Lord Byron,Undirected,1
+Elisabeth,Peter,Undirected,1
+Elisabeth,Hammers,Undirected,1
+Hammer,Hammers,Undirected,1
+Elisabeth,Hammer,Undirected,18
+Hammer,L’,Undirected,1
+L’,Odyssevs,Undirected,1
+Byrons,Elisabeth,Undirected,1
+Byrons,Puschkin,Undirected,1
+Elisabeth,Puschkin,Undirected,1
+Kein Mensch,nur Einer,Undirected,1
+Elisabeth,Sofie,Undirected,5
+Hammer,Sofie,Undirected,2
+Benedikt Rau,Wilhelm Schadow,Undirected,1
+Benedikt,Wilhelm Schadow,Undirected,1
+Sympathi,Theodor Hillebrandt,Undirected,1
+Marius,Theodor Hillebrandt,Undirected,1
+Horace Vernets,Marius,Undirected,1
+Benedikt,Faders,Undirected,1
+Faders,Hammer,Undirected,1
+Benedikt,frede,Undirected,1
+Michel Angelo,Vasari,Undirected,1
+Brunellecso,Michel Angelo,Undirected,1
+Brunellecso,Mantegna,Undirected,1
+Hammer,Hr. Rau,Undirected,1
+Benedikt Rau,Sofie,Undirected,2
+Benedikt,Elisabeth,Undirected,69
+Elisabeth,Eremit,Undirected,1
+Benedikt,Sofie,Undirected,1
+. Rembrandt,Elisabeth,Undirected,1
+. Rembrandt,Michel Angelo,Undirected,1
+Benedikt,Michel Angelo,Undirected,1
+Elisabeth,Julie,Undirected,1
+Benedikt,Gratie,Undirected,1
+Benedikt,Caros,Undirected,1
+Caro,Caros,Undirected,1
+Benedikt,Caro,Undirected,3
+Benedikt,Pans,Undirected,1
+Benedikt,Gondolens,Undirected,1
+Hammer,sia,Undirected,1
+Elisabeth,sia,Undirected,1
+Benedikt,Hammer,Undirected,8
+Elisabeth,Elisabeth Benedikt,Undirected,1
+Benedikt,t,Undirected,1
+Benedikt,Heine,Undirected,1
+Heine,Robert Franz,Undirected,1
+Benedikt,Helene,Undirected,1
+Benedikt,Gud,Undirected,1
+Julie,Romeo,Undirected,1
+Rolf,Winther,Undirected,3
+Rolf,Stillings,Undirected,2
+Elisabeth,Stillings,Undirected,1
+Elisabeth,Frøken Stilling,Undirected,1
+Elisabeth,Rolf,Undirected,46
+Elisabeth,Gertz,Undirected,6
+Gud,Rolf,Undirected,1
+Rolf,c,Undirected,1
+Frøken Stilling,Gertz,Undirected,1
+Gertz,Herr La nner,Undirected,1
+Gertz,Lanner,Undirected,1
+Gertz,Rolf,Undirected,2
+Gertz,akl,Undirected,1
+.Gertz,Rolf,Undirected,1
+Benedikt,Rolf,Undirected,19
+Benedikt,K,Undirected,1
+Benedikt,Hammel-,Undirected,1
+Helene,Rolf,Undirected,1
+Gertz,Winther,Undirected,1
+Benedikt,Stillings,Undirected,1
+Rolf,Rolf Theodor Lanner,Undirected,1
+Benedikt Rau,Rolf Theodor Lanner,Undirected,1
+Benedikt,Benedikt Rau,Undirected,1

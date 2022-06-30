@@ -1,0 +1,162 @@
+source,target,type,weight
+Gustav,Linde,Undirected,1
+Carl,Madam Carlsens,Undirected,1
+Anna,Linde,Undirected,2
+Carl,Wørmer,Undirected,3
+Lille Mor,Wørmer,Undirected,1
+Hans,Sofie,Undirected,1
+Karen,Morten,Undirected,1
+Morten,lille Karen,Undirected,1
+Morten,Poulsen,Undirected,1
+Hans,Poulsen,Undirected,1
+Husbond,s Larsen,Undirected,1
+Karen,lille Mama,Undirected,1
+Linde,Louise,Undirected,1
+Holm,Linde,Undirected,3
+Linde,Wørmer,Undirected,2
+Gustav,Wørmer,Undirected,1
+Hans,Wørmer,Undirected,1
+Carl,Louise,Undirected,3
+Fuxens,Holm,Undirected,1
+Intendant Lindes,Wørmerske,Undirected,1
+Intendant Lindes,Wørmer,Undirected,1
+Holm,Wørmer,Undirected,17
+Holm,L’,Undirected,1
+Linde,L’,Undirected,1
+Carl Wørmer,Hans,Undirected,1
+Anna,Johanne Pedersen,Undirected,1
+Anna,Carlsen,Undirected,3
+Schnak,lille Johansen,Undirected,1
+Clara,lille Johansen,Undirected,1
+Clara,Kellner,Undirected,1
+Friedrich v. Lunau,Gott,Undirected,1
+Friedrich v. Lunau,niedlich — virklich niedlich,Undirected,1
+niedlich — virklich niedlich,ochso,Undirected,1
+ochso,von Lunau,Undirected,1
+Ganz richtig,von Lunau,Undirected,1
+Ganz richtig,Linde,Undirected,1
+Linde,ochso,Undirected,1
+Kreutz Donnerwetter,v. Lunau,Undirected,1
+Premierløjtnant Wørmers,v. Lunau,Undirected,1
+Premierløjtnant Wørmers,tverts,Undirected,1
+Lunau,tverts,Undirected,1
+Lunau,Skaal,Undirected,1
+Jaj,Skaal,Undirected,1
+Jaj,Ortman,Undirected,1
+Kjer,Wørmer,Undirected,4
+Frøken Kjer,v. Lunau,Undirected,1
+Frøken Kjer,Wørmer,Undirected,2
+Gud,maj,Undirected,2
+maj,v. Lunau,Undirected,1
+Hansens,Wørmer,Undirected,1
+Anna,Carl,Undirected,3
+Ellen,Wørmer,Undirected,6
+Ellen,Frøken Ellen Kjer,Undirected,1
+Carl,Frøken Kjer,Undirected,1
+Carl,Holm,Undirected,13
+Anna,Holm,Undirected,2
+Holm,klvad,Undirected,1
+Alexander Hannibal Olsen,Svend,Undirected,1
+Johanne,Johanne Pedersen,Undirected,1
+Anna —,Johanne,Undirected,1
+Aaberstens,Anna —,Undirected,1
+Aaberstens,Madam Carlsen itte,Undirected,1
+Anna Carlsen,Carlsen,Undirected,1
+Anna Carlsen,Flan,Undirected,2
+Hr. Olsens,Madam Carlsens,Undirected,1
+Flan,Kjer,Undirected,1
+Damaskes,Kjer,Undirected,1
+Augusta,Ellen,Undirected,3
+Henrik,Wørmer,Undirected,2
+Ellen,Henrik,Undirected,3
+Augusta,Wørmer,Undirected,4
+Obersten,Wørmer,Undirected,1
+Plans,v. Lunau,Undirected,1
+Lunau,Plans,Undirected,1
+Kerl,maj,Undirected,1
+Kerl,ochso,Undirected,1
+Hr. Fischer,ochso,Undirected,1
+Intendant Lindes,Kjer,Undirected,1
+Johansen,v. Lunau,Undirected,3
+Kjer,Magaard,Undirected,1
+Faber,v. Lunau,Undirected,1
+Faber,Jaj,Undirected,1
+Gud,Linde,Undirected,1
+Gud,Wørmer,Undirected,2
+Jaj,Wørmer,Undirected,2
+Lunau,maj virklich,Undirected,1
+Hr. v.,Lunau,Undirected,1
+Lunau,Wørmer,Undirected,2
+Plan,v. Lunau,Undirected,1
+Gud,Louise,Undirected,1
+Carl,Sofie,Undirected,2
+Carl,Flan,Undirected,1
+Carl —,Holm,Undirected,1
+Holm,Louise,Undirected,2
+Frøken Wørmer,Holm,Undirected,1
+Hanne,lille Adolf,Undirected,1
+Carlsen,Hanne,Undirected,1
+Gott,v. Lunau,Undirected,1
+Kerl,v. Lunau,Undirected,1
+Kreutz Donnerwetter,maj,Undirected,1
+Jaj,mulich,Undirected,1
+Hansen,Lunau,Undirected,1
+Ellen,Kjer,Undirected,1
+Carl Wørmer,Wørmer,Undirected,2
+Trinderupholms,Wørmer,Undirected,1
+Wørmer,rens,Undirected,1
+Madam Carlsens,Wormer,Undirected,1
+Anna,Madam Carlsens,Undirected,1
+Wørmer,—,Undirected,1
+Wørmer,v. Lunau,Undirected,5
+Ellen Kjer,Frøken Ellen,Undirected,2
+Grøn,Hansen,Undirected,1
+Eriksen,Hansen,Undirected,1
+Bedstefaders,Wørmer,Undirected,1
+Holm,Madam Carlsen,Undirected,2
+Carlsen,Holm,Undirected,3
+Carlsen,Madam Carlsen,Undirected,3
+Anna,Madam Carlsen,Undirected,6
+Anna,Wørmer,Undirected,2
+Mikkels-gade,hnn,Undirected,1
+Johansen,Lunau,Undirected,1
+jaj,v. Lunau,Undirected,1
+Jaj,jaj,Undirected,3
+Lunau,jaj,Undirected,1
+Carl Wørmer,Hustav Holm,Undirected,1
+Carl,Hustav Holm,Undirected,1
+Carl,Linde,Undirected,2
+Holm,jevne,Undirected,1
+Carl Wørmer,Hans Haab,Undirected,1
+Carl Wørmer,Plan,Undirected,1
+Madam Carlsen,Moppe,Undirected,2
+Madam Carlsen,paaklem,Undirected,1
+Ludovikas,Madam Carlsen,Undirected,2
+Ludovika,Madam Carlsen,Undirected,1
+Anna,Gud,Undirected,1
+Gud,Madam Carlsen,Undirected,2
+Anna,Ludo-vika,Undirected,1
+Callemand,Ludo-vika,Undirected,1
+Linde,Ludovika,Undirected,1
+Anna,Ludovika,Undirected,1
+Anna,Olsen,Undirected,1
+Linde,Olsen,Undirected,1
+Holm,v. Lunau,Undirected,4
+Wørmer,jaj,Undirected,2
+Holm,Jaj,Undirected,1
+Holm,Hr. v. Lunaus,Undirected,1
+Lunau,ochso,Undirected,1
+maj,ochso,Undirected,1
+Linde,maj,Undirected,1
+Anna Carlsen,Linde,Undirected,1
+Virklich,paalidelich,Undirected,1
+Lunau,paalidelich,Undirected,1
+Jaj,Lunau,Undirected,1
+Jomfru Carlsen,Wørmer,Undirected,1
+Anna,Anna Carlsen,Undirected,2
+Holm,Jomfru Annas,Undirected,1
+Jomfru Annas,Madam Carlsen,Undirected,1
+Carl,Carlsen,Undirected,1
+Carlsen,nesker,Undirected,1
+Ellen Kjer,Wørmer,Undirected,1
+Linde,Lunau,Undirected,1

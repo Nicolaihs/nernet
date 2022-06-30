@@ -1,0 +1,208 @@
+source,target,type,weight
+Jens,oer,Undirected,1
+Guds,Jens,Undirected,1
+Jens,Palle,Undirected,1
+Palle,Siver Hougaard,Undirected,2
+Palle,Siver,Undirected,20
+Guds,Palle,Undirected,1
+Marie,Siver,Undirected,6
+Marie,Palle,Undirected,43
+Palle,Tyras,Undirected,12
+Gammelfaer,Palle,Undirected,2
+Palle,dn,Undirected,2
+Gud,Palle,Undirected,8
+Niels,Palle,Undirected,34
+Marie,Niels,Undirected,8
+Gud,Karlen,Undirected,1
+Karl,Siver,Undirected,1
+Gammelfar,Palle,Undirected,1
+Karen,Niels,Undirected,1
+Palle,nn,Undirected,2
+Palle,Trofasf,Undirected,9
+Karen,Marie,Undirected,1
+Karen,Pouline,Undirected,1
+Marie,Pouline,Undirected,1
+Davre,Karl,Undirected,1
+Gammelfaer,Niels,Undirected,1
+Kristjan,Kristjan Barnekov,Undirected,1
+Barnekov,Palle,Undirected,1
+Frægnared,Palle,Undirected,1
+Frægnared,Marie,Undirected,1
+Barnekov,Kong Kristian,Undirected,1
+Barnekov,Gud,Undirected,1
+Marie,Tyras,Undirected,1
+Husbonds,Palle,Undirected,1
+Husbond,Husbonds,Undirected,1
+Karlen,Niels,Undirected,1
+Karen,Palle,Undirected,4
+Niels sledst,Palle,Undirected,1
+Karlen,Palle,Undirected,5
+Karl,Palle,Undirected,4
+Niels sfal,Palle,Undirected,1
+Palle,falfl,Undirected,1
+a,dn,Undirected,1
+Hexen,Palle,Undirected,1
+Palle,ester,Undirected,2
+Bertel,Palle,Undirected,1
+Gud,Ole,Undirected,2
+Bolkmann,Brunmann,Undirected,3
+Brunmann,Palle,Undirected,3
+ejn Wirthshaus,mejn Jung,Undirected,1
+Palle,Soffi,Undirected,1
+Palle,Sofie,Undirected,1
+Jep,Lars Brun,Undirected,3
+Jep,Lars,Undirected,1
+Palle,mejn Jung,Undirected,5
+Palle,ejn,Undirected,1
+dn,mejn Jung,Undirected,1
+Hr. Volkmann,Sofie,Undirected,1
+Volkmann,dn,Undirected,1
+Palle,Volkmann,Undirected,10
+Hvat,mejn Jung,Undirected,1
+Volkmann,mejn Jung,Undirected,4
+Drofasf,mejn Jung,Undirected,2
+Sofie,Volkmann,Undirected,1
+Thøger Klim,Thøgers,Undirected,1
+Thøger,Thøgers,Undirected,1
+Gud,Thøger,Undirected,1
+Thøger,ester,Undirected,2
+Thøger,øg,Undirected,2
+Jens Tirslsvs,Thøger,Undirected,2
+Bolkmann,sodan Karl,Undirected,1
+Bolkmann,Palle,Undirected,2
+Volkmann,mejn Jnng,Undirected,1
+Marie,Volkmann,Undirected,2
+Jung,Volkmann,Undirected,1
+Jung,so,Undirected,1
+Volkmann,kejn,Undirected,1
+Menst,kejn,Undirected,1
+Menst,Palle,Undirected,1
+Palle,ejn Drenk,Undirected,1
+ejn Drenk,inejn Jung,Undirected,1
+inejn Jung,sodan Drenk,Undirected,1
+Brunmann,Petter,Undirected,1
+Brunmann,Peter,Undirected,1
+Peter,Trofasf,Undirected,1
+Bjørn,Trofasf,Undirected,2
+Brunmann,Trofasf,Undirected,1
+Brunmann,Volkmann,Undirected,3
+Peter,Volkmann,Undirected,2
+Palle,Peter,Undirected,3
+Palle,Petter,Undirected,1
+Brunmaim,Volkmann,Undirected,1
+Volkmann,tanze,Undirected,1
+Bolkmann,Præsfen,Undirected,2
+Ester,Volkmann,Undirected,1
+Volkmann,Wriude,Undirected,1
+Palle,mejn,Undirected,1
+Palle,Præsfen,Undirected,3
+mejn Jung,wieder,Undirected,1
+mejn,wieder,Undirected,1
+Jung,mejn,Undirected,1
+Gott,Jung,Undirected,1
+Dolkmann,mejn Jung,Undirected,1
+Dolkmann,Sødan Drenk,Undirected,1
+Brunmann,mejn Jung,Undirected,1
+Brunmann,Mejn Gott,Undirected,1
+Mejn Gott,mejn Jung,Undirected,1
+Præsfen,Volkmann,Undirected,1
+Helhesten,Trofasf,Undirected,1
+Beth,Johanne,Undirected,2
+Johanne,Kristjan,Undirected,3
+Knud,Palle,Undirected,3
+Mutter Beth,Palle,Undirected,5
+Beth,Mutter,Undirected,4
+Beth,Jørgen Kusk,Undirected,1
+Knud,Moer,Undirected,1
+Beth,Kristjan,Undirected,2
+Knud,Kristjan,Undirected,1
+Johanne,Knud,Undirected,1
+Niels,Tante,Undirected,1
+Lille Mutter,Tante,Undirected,1
+Beth,Lille Mutter,Undirected,1
+Beth,Palle,Undirected,8
+Bertha,Niels,Undirected,5
+Beth,Tante Bertha,Undirected,1
+Hhldethe,Niels,Undirected,1
+Mutter,Palle,Undirected,1
+Beth,Faer,Undirected,1
+Faer,Moer,Undirected,1
+Johanne,Palle,Undirected,1
+Beth,Niels,Undirected,3
+Mutter Beth,Niels,Undirected,1
+Johanne,Niels,Undirected,3
+Preben,Stine,Undirected,1
+Anton,Hans Peter,Undirected,5
+Hans Peter,Mads,Undirected,1
+Anton,Søren Røgter,Undirected,1
+Hans Peter,Stine,Undirected,2
+Peter,Stine,Undirected,1
+Anton,Stine,Undirected,3
+Stine,Søren Røgter,Undirected,1
+Søren Røgter,Varnlven,Undirected,1
+Helhesten,Varnlven,Undirected,1
+Anton,øg,Undirected,1
+Hans Peter,Helhesfen,Undirected,1
+Hans Peter,Mads Gedebuk,Undirected,1
+Jensen,Madam Jensen,Undirected,3
+Gud,Madam Jensen,Undirected,3
+Madam Gram,Madam Jensen,Undirected,2
+Gud,Madam Petersen,Undirected,1
+Madam Gram,Madam Petersen,Undirected,1
+Madam Jensen,Madam Petersen,Undirected,1
+Madam Petersen,Sørensens,Undirected,1
+Frøken Lunds,Sørensens,Undirected,1
+Frøken Lunds,Madam Jensen,Undirected,1
+Jensen,Skomager Jensen,Undirected,1
+Marie,Siver Hougaard,Undirected,1
+Siver,Siver Hougaard,Undirected,1
+Pauline,Siver,Undirected,1
+Niels,Pauline,Undirected,1
+Niels,Siver,Undirected,6
+Niels,s,Undirected,2
+Niels,Pouline,Undirected,2
+Pouline,flet,Undirected,1
+Marie,Pauline,Undirected,2
+Pouline,lille Marie,Undirected,1
+Palle,Pouline,Undirected,2
+Gud,Pouline,Undirected,1
+Marie nden,Pouline,Undirected,1
+Marie nden,Palle,Undirected,1
+Marie,rasf,Undirected,1
+Marie,mesf,Undirected,1
+Palle,mesf,Undirected,1
+Jørgen,Kjør,Undirected,1
+Karlen,Marie,Undirected,2
+Husbond,Niels,Undirected,1
+Husbond,Karlen,Undirected,1
+Gammelfa,Marie,Undirected,1
+Knud,Palle sfar,Undirected,1
+Palle,Palle Hougaard,Undirected,1
+Karlen,Tyras,Undirected,1
+Gammelfa,Palle,Undirected,1
+Gammelfa,Niels,Undirected,1
+Grethe Brun,Palle,Undirected,1
+Grethe Brun,Hexen,Undirected,1
+Hexen,Siver,Undirected,1
+Karl,Niels,Undirected,1
+Bedstefaderens,Palle,Undirected,1
+Bedstefaderens,Niels,Undirected,1
+Ole,Siver,Undirected,1
+Berthel,Grethe,Undirected,1
+Palle,Pauline,Undirected,2
+Beth,Siver,Undirected,1
+Marie,Mutter,Undirected,1
+Johanne,Marie,Undirected,1
+Beth,Marie,Undirected,1
+Kristjan,Palle,Undirected,1
+Knud Marie,Palle Beth,Undirected,1
+Johanne,Palle Beth,Undirected,1
+Kristjan,Mutter Beth,Undirected,1
+Brunmann,Volkman,Undirected,1
+Bjyrn,Brunmann,Undirected,1
+Gammelfatter,Volkmann,Undirected,1
+Gammelfatter,Sodan,Undirected,1
+Brunmann,Gott,Undirected,1
+Brunmann,Jørgen Kusk,Undirected,1
+Palle,lille Mutter,Undirected,1
+Beth,lille Mutter,Undirected,1

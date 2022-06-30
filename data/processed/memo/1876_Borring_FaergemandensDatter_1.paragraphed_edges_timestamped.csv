@@ -1,0 +1,723 @@
+source,target,timestamp
+John Harrison,Lars,2
+Lars Færgemand,sledsk,5
+felv,sledsk,5
+John,Lars,10
+John Harrison,Lars,11
+John,Lars Færgemand,14
+Ingeborg,Lars,18
+John,Lars,20
+Jep Johnsen,Karen,24
+Jep Johnsen,Karen,25
+Jep,Karen,26
+Jep Johnsen,Karen,29
+Jep,Karen,29
+Jep,Jep Johnsen,29
+Jep,Karen,32
+Jep,Jxp,32
+Ingeborg,Jxp,32
+Iohnsen,Jep,33
+Iohnsen,Karen,33
+Jep,Karen,36
+Jep,Karen,38
+Aarle,Gud,40
+Gud,Karen,40
+Jep,Karen,40
+Jep,Karen,41
+Ingeborg,Karen,43
+Gud,Karen,44
+Karen,Knud,53
+Knud,def,53
+Jep Johnsen,Karen,56
+Jep Johnsen,Knnd,57
+Ingeborg,Knud,62
+Ingeborg,Knud,63
+Ingeborg,Knud,63
+Ingeborg,Knud,64
+Ingeborg,Knud,71
+Gud,Knud,79
+Knud,oz,79
+grant,oz,79
+Christen Baadsmand,Gud,89
+Christen Baadsmand,Gud,89
+Fatter Petrus,Jep Johnsen,90
+Christen Baadsmand,Christoffer,92
+Knud,kjær,100
+Gud,Ingeborg,103
+Holla,holla,104
+Christoffer,holla,104
+Margrethe,fiden,109
+Christoffer,Margrethe,110
+Christen,Christoffer,111
+Jep,Karen,112
+Jep Johnsen,Karen,115
+Chrisfen Baadsmand,iland,119
+Ingeborg,Karen,124
+Karen,Knud,124
+Karen,Knud,127
+Hnn,hann,130
+Knud,hann,130
+Karen,Knud,133
+Gud,Karen,133
+Gud,Jep Johnsen,133
+Christen Baadsmand,Jep Johnsen,133
+Christoffer,Ingeborg,134
+Christoffer,Ingeborg,135
+Ingeborg,Ole,148
+Christoffer,Knud,151
+Christoffer,Knud,153
+Broder,Ole,157
+Christoffer,Ole,157
+Anker,Christoffer,158
+Anker,Knud,158
+Hopsasa,Margrethe,159
+Hopsasa,tralala,159
+Christoffer,Gud,162
+Christoffer,Ole,163
+Chrisfoffer,Ingeborg,167
+Ingeborg,kjær,168
+Knud,Margrethe,169
+Lars Færgemand,Ole,172
+Lars Færgemand,Margrethe,172
+Jep Johnsen,Ole,178
+John Harrison,Ole,182
+John Harrison,Johnsen,184
+Jep,Knud,186
+Christoffer,Knud,186
+Harrison,Ole,187
+Harrison,Ole,187
+Knud,Ole,190
+Ingeborg,Knud reisf,191
+Ingeborg,Knud,191
+Christoffer,Knud,191
+Gud,Ingeborg,195
+John Harrison,Ole,196
+Ingeborg,John Harrison,197
+Gud,John Harrison,197
+Gud,Steen,197
+Ole,Steen,197
+Ingeborg,Ole,200
+Jep Johnsen,John Harrison,205
+Jep Johnsen,John Harrison,205
+Jep Johnsen,John Harrison,205
+Ingeborg,Jep Johnsen,205
+Ingeborg,Ole,205
+Christen Baadsmand,Ole,208
+Christen,Skaal,216
+Ingeborg,Ole,223
+Gud,Knud,226
+Ingeborg,Margrethe,229
+Christoffer,Ingeborg,233
+Ingeborg,Knud,237
+Ingeborg,Margrethe,238
+Knud,Margrethe,238
+Margrethe,ftal,240
+Gud,Knud,241
+Gud,sfal,241
+Knud,sfal,241
+Knud,Ole,241
+Knud,Ole,241
+Gud,Knud,241
+Gud,Margrethe,241
+Ingeborg,Margrethe,241
+Ingeborg,Margrethe,241
+Ingeborg,John Harrison,249
+John Harrison,Margrethe,249
+Ingeborg,Margrethe,250
+John Harrison,Margrethe,250
+Ingeborg,John Harrison,251
+Ingeborg,Margrethe,252
+John Harrison,Margrethe,253
+Ingeborg,Jep Johnsen,260
+Gud,Ingeborg,261
+Ingeborg,Johnsen,262
+Lars Færgemand,jusf,263
+Ingeborg,jusf,263
+Jep Johnsen,Lars Færgemand,264
+Ingeborg,Ole,269
+Karen,frank,281
+Karen,kJeg,283
+Gud,kJeg,283
+Jep Johnsen,Karen,284
+Karen,lhun,292
+Harrison,Tom,295
+Jep Johnsen,soer,296
+Ingeborg,Jep Johnsen,298
+Jep Johnsen,soer,302
+Ingeborg,Jep,309
+Ingeborg,John Harrison,316
+Ingeborg,Jep,320
+Gud,Ingeborg,322
+Ingeborg,John Harrison,323
+Ingeborg,Jep,323
+Jep,Johnsen,323
+Gud,Karen,331
+Ingeborg,Jep Johnsen,336
+John Harrison,Karen,339
+Christoffer,Margrethe,341
+Chrisfoffer,Margrethe,345
+Christoffer,Margrethe,347
+Christoffer,Margrethe,348
+Karen,Margrethe,348
+Christoffer,Fesfen,351
+Christoffer,Margrethe,356
+Christen Baadsmand,Margrethe,356
+Christen Baadsmand,Dands,360
+Dands,dandse,360
+Jep,Karen,365
+Ingeborg,Ole,366
+Christen,Jep,367
+Anker,Jep,367
+Anker,Christoffer,367
+Chrisfen Baadsmand,Ole,370
+Chrisfen,Chrisfen Baadsmand,370
+Ingeborg,Ole,376
+Ingeborg,Ole,379
+Ingeborg,Margrethe,381
+Margrethe,Ole,381
+Ingeborg,Ole,381
+Gud,Ole,382
+Christoffer,Margrethe,390
+Christen Baadsmand,Ole,391
+Christen Baadsmand,Jep,392
+Christoffer,Margrethe,393
+Christoffer,Jep Johnsen,397
+Chrisfoffer,Margrethe,400
+Chrisfoffer,Gud,402
+Chrisfoffer,ester,404
+Jep Johnsen,Karen,410
+Karen,Margrethe,412
+Jep,Margrethe,413
+Gud,Margrethe,417
+Gud,Jep,418
+Gud,Margrethe,423
+Karen,iland,426
+Gud,Jep,431
+Christoffer,Karen,433
+Christoffer,John Harrison,433
+John Harrison,Karen,436
+Jep,John Harrison,436
+Gud,Karen,439
+Gud,Tom,439
+John Harrison,Tom,439
+John Harrison,Karen,439
+Christoffer,Margrethe,446
+John Harrison,Margrethe,452
+Christoffer,Jep Johnsen,453
+Jep Johnsen,Karen,455
+Jep,Margrethe,457
+Born,Margrethe,457
+Jep,Karen,461
+Iohnsen,Jep,461
+Christoffer,Iohnsen,461
+Christoffer,Jep Johnsen,461
+Gud,Jep Johnsen,463
+Jep,Karen,467
+John Harrison,Karen,468
+Jep Johnsen,soer,475
+Jep Johnsen,soer,478
+John,soer,478
+Jep,John Harrison,479
+Ingeborg,Ulk,481
+Ingeborg,Jep Johnsen,486
+Ingeborg,Knud,496
+Gud,Ingeborg,499
+Ingeborg,Knud,501
+Ingeborg,fleet,501
+Ingeborg,Knud,502
+Chrisfoffer,Knud,506
+Chrisfoffer,Margrethe,506
+Ingeborg,Ole ffal,514
+Arne,Ole ffal,514
+Ole,soer,518
+Ingeborg,Knud,519
+Ingeborg,Knud,522
+Ingeborg,John Harrison,527
+Ingeborg,Knud,528
+Ingeborg,Knud,528
+Ingeborg,Jep Johnsen,529
+Ingeborg,Jep Johnsen,529
+Ingeborg,John Harrison,532
+Ingeborg,Knud,532
+John Harrison,Knud,532
+Ingeborg,Knud,534
+Christen,Sellene,546
+Jep,John Harrison,550
+Jep,Karen,550
+Karen,Knud,550
+Ingeborg,Knud,550
+Christen,Jep Harrison,551
+John Harrison,Lars Færgemand,557
+John Harrison,Lars,557
+John Harrison,Lars,557
+John Harrison,Lars,557
+Lars,Tom Harrison,557
+Jep Johnsen,Tom Harrison,557
+Jep,Tom Harrison,561
+Jep,srem,561
+Christen Baadsmand,Jep Johnsen,562
+Jep,Tom,563
+Jep,Lars,563
+Lars,Tom Harrison,563
+Tom,Tom Harrison,565
+Ingeborg,Jep Johnsen,566
+Christen,Ole,574
+Christen,Jep,575
+Jep,John Harrison,575
+Gud,John Harrison,579
+Jep Iohnsens,Ole,581
+Ingeborg,Jep Iohnsens,581
+Ingeborg,Knud,581
+Gud,Knud imøde,589
+Lars Færgemand,Tom Harrison,591
+Knud,Lars,593
+Knud,Lars Færgemand,593
+Tom Harrison,as Lars Færgemand,599
+Lars Færgemand,sjeg,601
+Tom,sjeg,601
+Dn,Tom,602
+Lars Færgemand,Tom Harrison,604
+Lars Færgemand,Tom,604
+Lars,Tom,605
+Lars,Ole,606
+Gud,Øle,620
+Gud,Ole,620
+Ole,Tom Harrison,620
+Ingeborg,Knud,622
+Gud,Knud,622
+Ingeborg,Tom Harrifon,630
+Ingeborg,Tom Harrison,633
+Knud,Ole,638
+Jep Johnsen,Ole,642
+Jep,Ole,644
+Jep,Knud,644
+Jep,Ole,646
+Ingeborg,Øle,651
+Ingeborg,Tom Harrison inat,651
+Gud,Tom Harrison inat,651
+Gud,Ole,651
+Ingeborg,Ole,651
+Knud,Ole,654
+Gud,Karen,655
+Knud,Ole,660
+Knud,øle,664
+Knud,Ole,667
+Lars,Tom Harrison,677
+Tom Harrison,soer,677
+Lars,Tom Harrison,681
+Knud,Lars,684
+Jep Johnsen,Knud,684
+Gud,Steen,689
+Knud,Ole,690
+Ingeborg,Knud,692
+Spn,din,695
+Ingeborg,Lars,701
+Ingeborg,Lars Færgemand,701
+Lars Færgemand,Tom Harrison,701
+Lars,Tom,702
+lille Ingeborg,smaaloLars,703
+smaaloLars,strog,703
+Ingeborg,Tom Harrison,704
+Lars,Tom Harrison,704
+Tu,hans,705
+Ingeborg,hans,705
+,Lars,706
+Knud,Lars,708
+Knud,Tøilcn,708
+Ingeborg,Tøilcn,708
+Lars,No,711
+Ingeborg,Tom Harrison,714
+Lars Færgemand,Tom Harrison,716
+Ingeborg,Lars Færgemand,719
+Ingeborg,Lars Færgemand,720
+Gud,Lars Færgemand,720
+Dn,Ingeborg,721
+Jdetsamme,Lars Færgemand,722
+Ingeborg,Lars Færgemand,723
+Elisabeth,Ingeborg,729
+Ingeborg,Lars Færgemand,730
+Eduard Bech,Hallnnk,731
+Ingeborg,Lars Færgemand,732
+Billie,Ingeborg,733
+Ingeborg,Lars,733
+Ingeborg,Lars,733
+Ingeborg,Lars Færgemand,736
+Ingeborg,Lars Færgemand,740
+Ingeborg,Lars,740
+Ingeborg,Lars,740
+Ingeborg,Lars,740
+Lars Færgemand,Tom Harrison,741
+Eduard Bech,Gundersen,744
+Ingeborg nn,ester,747
+Gud,Kaptainen,748
+Elisabeth,ester,754
+Seil,ester,754
+Gud,Ingeborg,760
+Eduard,Halløl,761
+Eduard,Ingeborg,761
+Eduard Bech,ane,768
+Broder Guilaume,Therese,780
+Celia,Ingeborg,789
+Celia,Ingeborg,791
+Ingeborg,Petrulli,791
+Ingeborg,Jomfru Celia,799
+Ingeborg,Petrulli,804
+Petrulli,Pleiefader,805
+Ingeborg,Pleiefader,805
+Ingeborg,Petrulli,807
+Ingeborg,Petrulli,807
+Celia,Ingeborg,819
+Celia,Petrulli,819
+Ingeborg,faufe,823
+Ingeborg,Øe,829
+Eduard,iland,833
+Gud,Ingeborg,835
+Ingeborg,iveien,836
+Ingeborg,sjeg,838
+Ingeborg,lille Petrulli,848
+Celia,Jomfru Ingeborg,851
+Christoffer,Gud,861
+Knud,Tom Harrison,863
+Ingeborg,Tom Harrison,863
+Gud,Ingeborg,863
+Gud,Ingeborg,863
+Christen,Gud,864
+Knud,Ole,871
+Fisker,Knud,877
+Karen,Knud,877
+Ingeborg,Tom Harrison,882
+Jep,Karen,884
+Jep,Karen,887
+Christen Baadsmand,Knud,889
+Christen Baadsmand,Knud,889
+as,herse,894
+Prindsessen,as,894
+Modsfand,Prindsessen,894
+Chrisfen Baadsmand,Knud,895
+Elisabeth,Ingeborg,896
+Elisabeth,Gud,896
+Christen Baadsmand,Knnd,898
+Eduard Bek,Knud,903
+Christen Baadsmand,Knud,903
+Ingeborg,Knud,914
+Christen Baadsmand,har,926
+Christen Baadsmand,Knud,932
+Christen Baadsmand,Eduard Bek,932
+Christen Baadsmand,Knud,935
+Christen Baadsmand,Eduard,935
+Ingeborg,Tom Harrison,938
+Christian Baadsmand,Eduard Bel,939
+Knud,gsemtes,952
+Christen,Knud,959
+Christen,Gud,961
+Gud,Ole,961
+Ingeborg,Tom Harrison,962
+Christen,Ingeborg,963
+Christen,Ingeborg,963
+Banlys,Knud,964
+Christen,Ingeborg,965
+Christen,Knud,968
+Jep,Karl,977
+Ingeborg,Knud,980
+Gud,Ingeborg,984
+Ingeborg,Knud,988
+Gud,Knud,992
+Christen,Knud,992
+Christen,Gud,992
+Gud,Knud,997
+Christoffer,Margrethe,1002
+Jep Iohnsen,Karen,1003
+Jep Iohnsen,Tom Harrison,1003
+Jngeborgs,Tom Harrison,1003
+Jngeborgs,Margrethe ^maatte,1003
+Jep Johnsen,Ole,1004
+Ingeborg,Nat Tom Harrison,1007
+Ingeborg,fig,1007
+Lars Færgemand,Tom Harrison,1009
+Lars,Tom Harrison,1015
+Tom,Tom Harrison,1015
+Lars,Tom Harrison,1016
+Margrethe,Ole,1019
+Lars Færgemand,Tom Harrison,1020
+Fisker,Tom,1023
+Gud,skoggerlo Tom Harrison,1024
+Lars,as,1027
+Jep Johnsen,Tom,1028
+Lars,Ole,1029
+Gud,Ingeborg,1031
+Margrethe,hnn,1033
+Lars Færgemand,Tom Harrison,1037
+Jep,Lars Færgemand,1037
+Jep Johnsen,Margrethe,1038
+Margrethe,hans Leie,1038
+Jep,Karen,1040
+Tom,fror,1041
+Lars,Tom,1041
+Gud,Støi,1042
+Margrethe,Støi,1042
+Jesper David,Margrethe,1042
+Jesper David,Mikkel Olsen,1042
+Lars,Tom,1054
+Lars,Tom,1057
+Ingeborg,Margrethe,1060
+Ingeborg,Tom Harrison,1060
+Jep,Tom,1061
+Ingeborg,Tom,1061
+Jep,Tom Harrison,1063
+Lars Færgemand,Tom Harrison,1063
+Lars,Tom,1066
+Karen,Margrethe,1073
+Lars,Tom Harrison,1075
+Jep,Karen,1076
+Jep,Margrethe,1077
+Jep Johnsen,Margrethe,1078
+Celia,Ingeborg,1079
+Celia,Petrulli,1079
+Celia,Petrulli,1080
+Ingeborg,Petrulli,1080
+Celia,Petrulli,1082
+Ingeborg,Petrulli,1082
+Celia,Petrulli,1084
+Ingeborg,jDem,1085
+Celia,Ingeborg,1087
+Celia,Petrulli,1087
+Celia,Petrulli,1093
+Ingeborg,smede Petrulli,1096
+Bernard,h,1102
+Bernard,Gud,1102
+Bernard,Dands,1106
+Bernard,steenhaarde,1106
+Ingeborg,steenhaarde,1106
+Ingeborg,Øe,1107
+Ingeborg,Øe,1107
+Ingeborg,Øe,1108
+el,sorsilde,1111
+Ingeborg,Lea,1116
+Knud,Ole,1120
+Knud,Ole,1122
+Ingeborg,ester,1123
+Ole,ester,1124
+Ingeborg,ester,1124
+Celia,Petrulli,1128
+Fiffig,Ingeborg,1130
+Ingeborg,ogsStok,1130
+Villiers,soran Herr,1141
+Lars Færgemand,Tom Harrison,1148
+Lars Færgemand,Tom Harrison,1149
+Dn,Lars,1151
+Lars Færgemand,TomHarrison,1161
+Christen Baadsmand,Knud,1173
+Knud,sia,1174
+Christen Baadsmand,Ingeborg,1176
+Christen Baadsmand,Knud,1178
+Gud,Knud,1179
+Christen Baadsmand,Knud,1180
+Christen,Knud,1187
+Christen Baadsmand,Gud,1191
+Christen,Knud,1193
+Knud,Steen,1200
+Ingeborg,Roes,1207
+Ingeborg,Knud,1217
+Celia,Petrulli,1219
+Bidau,Ten gamle,1224
+Celia,Petrulli,1233
+Jg,Tem,1238
+Celia,Petrulli,1242
+Herr äs,Ingeborg,1250
+Villiers,sired,1257
+Bidau,sired,1257
+Ingeborg,Petrulli,1265
+Bidau,Ingeborg,1265
+Bidau,Petrulli,1265
+Celia,Petrulli,1265
+Celia,Ingeborg,1266
+Gud,Ingeborg,1269
+Celia,Ingeborg fank,1276
+Graad,Ingeborg,1277
+Jep,fig,1282
+Jep,Karen,1282
+Karen,Ole,1282
+Knud,Ole,1282
+Ingeborg,Petrulli,1284
+Ingeborg,Petrulli,1288
+Bidan,Ingeborg,1293
+Bidan,Ingeborg,1294
+Ingeborg,Petrulli,1295
+Bidau,Herr Zs Villiers,1296
+Herr äs,Villiers,1305
+Herr äs,Villiers,1306
+Bidau,Villiers,1308
+Bidau,Villiers,1311
+Herr äs,Villiers,1313
+Charrin,Villiers,1313
+Lars Færgemand,Tom Harrison,1326
+Lars Færgemand,Margrethe,1326
+Kristoffer,Margrethe,1334
+Lars Færgemand,Tom Harrison,1344
+Tom Harrison,barsf,1344
+Ingeborg,Margrethe,1345
+Kristoffer,Tom Harrison,1346
+Lars Færgemand,Tom Harrison,1355
+Fa,Tom,1359
+Lars,fig,1360
+Lars,Tom,1360
+Margrethe,Mgtemand,1361
+Kristoffer,Margrethe,1364
+Len,Margrethe,1372
+Margrethe,Tom Harrison,1372
+Lars Færgemand,Tom Harrison,1372
+Herr äs,Villiers,1373
+Bidau,Villiers,1373
+Bidau,Villiers,1375
+Nofaren,Villiers,1375
+Billiers,Herr äo,1380
+Bidau,Villiers,1389
+Herr äs,Villiers,1391
+Bidau,Villiers,1394
+Bidau,Villiers,1395
+Christen Baadsmand,Knud,1397
+Christen Baadsmand,Ingeborg,1398
+Chrisfen,Karl,1400
+Chrisfen,Knud,1400
+Chrisfen,Karl,1401
+Chrisfen,Knud,1412
+Chrisfen,Knud,1413
+Ingeborg,Knud,1431
+Hesf,Vladimir,1440
+Margrethe,Tom Harrison,1451
+Lars Færgemand,Margrethe,1452
+Lars Færgemand,Tom Harrison,1452
+Margrethe,Tom Harrison,1453
+Christoffer,Jesus,1458
+Christoffer,Margrethe,1460
+Gud,Tu,1466
+Lars Færgemand,Tom Harrison,1469
+Christosfers,tras,1472
+Margrethe,Tom Harrison,1477
+Tom Harrison,slaacs,1479
+Chrisfoffer,Tom Harrison,1480
+Christoffer,Tom Harrison,1481
+Christoffer,Tom Harrison,1482
+Christo ffers,Tom Harrison,1483
+Christo ffers,Tom Harrison,1483
+Donsfe,Engelsfe,1485
+Engelsfe,ester Christoffer,1485
+Margrethe,ester Christoffer,1485
+Charles Henri äs,Villiers,1490
+Billie,Ingeborg,1494
+Bouton,Ingeborg,1496
+Gud,Ole,1503
+Celia,Petrulli,1505
+Celia,Petrulli,1508
+Ingeborg,fig,1512
+Herr äo,Villiers,1516
+Herr äo,Villiers,1517
+Herr äs,Villiers,1520
+Villiers,paany,1520
+Knud,felv,1528
+Knud,felv,1528
+Christen,Knud,1529
+Gud,Knud,1531
+Christen Baadsmand,Knud,1536
+Christen,Knud,1538
+Christen,Knud,1541
+Don Felix äo,engelsfe Kaptain,1543
+Don Felix äo,Donna Elvira,1543
+Donna Elvira,Marius 6o Cilbas,1543
+Don Manille,Elviras,1544
+Bukley,Donna Elvira,1545
+Don Cilbas,Don Manille,1546
+Christen Baadsmand,Don Cilbas,1547
+Don Cilbas,Donna Elvira,1547
+Christen,Knud,1549
+Christen,Ingeborg,1551
+Donnas,Fregatten,1558
+Knud,as,1567
+Christen,Knud,1568
+Christen Baadsmand,Hans,1574
+Budolf,Te,1577
+Budolf,Marius,1577
+Marius,Tverfimod,1577
+Donna Elvira,Marius,1582
+Knud,ester,1601
+Christen Baadsmand,Knud,1602
+Christen,Knud,1607
+Christen Baadsmand,Knud,1610
+Knud,Munk,1610
+Christen,Munk,1610
+Christen,Donna,1618
+Christen,Mnnken,1621
+Christen,Mnnken,1624
+Christen,Knud,1624
+Elvira,fig,1634
+Knud,iland,1636
+Christen,Knud,1642
+Christoffer,Gud,1650
+Gud,Tom Harrison,1650
+Christoffer,Tom Harrison,1650
+Christoffer,Margrethe,1650
+Christoffer,Gud,1663
+Ingeborg,Knud,1664
+Ingeborg,Ole,1664
+Margrethe,Ole,1664
+Christoffer,Margrethe,1665
+Christoffer,Margrethe,1666
+Christoffer,Margrethe,1670
+Christoffer,Margrethe,1671
+Christoffer,Margrethe,1676
+Margrethe,felv,1676
+Margrethe,fom,1677
+Gud,Margrethe,1686
+Ingeborg,hnn,1707
+Celia,hnn,1707
+Celia,Petrulli,1707
+Charrin,Ingeborg,1708
+Celia,Petrulli,1710
+Celia,Petrulli reise,1714
+Ingeborg,reifes,1716
+Ingeborg,Klicntindes,1718
+Celtaog Petrulli,Ingeborg,1718
+Christoffer,Tom Harrison,1719
+Lars Færgemand,sif,1720
+Christoffer,Margrethe,1722
+Margrethe,Taalmodig-,1727
+Christoffer,Taalmodig-,1727
+Christoffer,Gud,1727
+Christoffer,Gud,1727
+Christoffer,Margrethe,1737
+Christoffer,Tom Harrison,1749
+Christoffer,Hn,1749
+Christoffer,Lars Færgemand,1752
+Tom,hersank,1753
+Tom,j,1753
+Lars,j,1753
+Lars,j,1753
+Villic,j,1753
+Christoffer,Margrethe,1754
+,Lars,1756
+Lars,iland,1760
+Lars,Tom,1763
+Margrethe,Tom Harris n,1771
+t,t han,1779
+l,t han,1779
+Margrethe,l,1779
+Margrethe,j,1779
+Christoffer,Tom Harrison,1781
+Christoffer,Margrethe,1782
+Christoffer,Tom Harrison,1783
+Dn,Tom,1786
+Margrethe,Tom,1786
+Christoffer,Lars Færgemand,1793
+Lars Færgemand,Wsel,1793
+Christoffer,sremad,1795
+Christoffer,Lars Færgemand,1796
+Christoffer,næsfen,1800
+Gud,Margrethe,1805
+Lars Færgemand,Margrethe,1806
+Lars Færgemand,Margrethe,1808
+Lars Færgemand,Margrethe,1810
+Christoffer,fig,1811
+Christoffer,jnst,1811
+Margrethe,jnst,1811
+Lars Færgemand,grelse,1813
+Margrethe,paany,1815

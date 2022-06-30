@@ -1,0 +1,52 @@
+source,target,type,weight
+Bodil,Karl,Undirected,1
+Mogensen,Mogensens,Undirected,1
+Elm,Magdalene,Undirected,1
+Magda,Magdalene,Undirected,1
+Bodil,Mogensen,Undirected,8
+Elm,Niels,Undirected,4
+Elm,Mogensen,Undirected,7
+Bodil,Elm,Undirected,34
+Elm,Magda,Undirected,28
+Bo,Magda,Undirected,2
+Linde,p	,Undirected,1
+Alagda,Elm,Undirected,3
+Bodil,Magda,Undirected,24
+Bodil,Niels,Undirected,6
+Alad,Alen,Undirected,1
+Bodil,liun,Undirected,1
+Bang,Elm,Undirected,8
+Elm,lian,Undirected,1
+Mogensen,lian,Undirected,1
+Niels,Per Eriksen,Undirected,1
+Bodil,Per Eriksen,Undirected,1
+Bodil,Frøken Bangs,Undirected,1
+Frøken Bangs,Hr. Bang,Undirected,1
+Elm,Hr. Bang,Undirected,1
+Bang,Bodil,Undirected,9
+Magda,Uvilje,Undirected,1
+Elm,ilsom,Undirected,2
+Bang,Magda,Undirected,1
+Magda,Mogensen,Undirected,3
+Bodil,Rosa,Undirected,1
+Magda,Magda —,Undirected,1
+Bodil —,Magda,Undirected,1
+Alidt,Bodil,Undirected,1
+Alagda,Bodil,Undirected,1
+Elm,Gud,Undirected,2
+Alogensens,Bodil,Undirected,1
+Bang,Niels,Undirected,1
+Bodil,Mogens —,Undirected,1
+Elm,Mogens —,Undirected,1
+Alen Elm,Bodil,Undirected,1
+Alen Elm,Magda,Undirected,1
+Elm,jie,Undirected,1
+Bodil,jie,Undirected,1
+Bang,Herkules,Undirected,1
+Bodil,Lvst,Undirected,1
+Karen,Stine Per Niels,Undirected,1
+Elm,Karen,Undirected,1
+Gud,Sidse Nielses,Undirected,1
+Magda,Sidse Nielses,Undirected,1
+Aare,Elm,Undirected,1
+Gud,Magda,Undirected,1

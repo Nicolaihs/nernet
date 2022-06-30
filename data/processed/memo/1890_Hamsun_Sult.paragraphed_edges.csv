@@ -1,0 +1,43 @@
+source,target,type,weight
+Gud,paany,Undirected,1
+J. A. Happolati,Sjømand,Undirected,1
+Happolati,Hazard,Undirected,1
+Happolati,Sultan,Undirected,2
+Happolati,Ylajali,Undirected,1
+Gud,Ylajali,Undirected,3
+Gud,Madam Gundersen,Undirected,1
+Jomfru Andersens,Madam Gundersen,Undirected,1
+D,Semb,Undirected,1
+Ingebret,paany,Undirected,1
+C. Zacharias Bartel,Karl Johan,Undirected,1
+Hans Pauli,Kristi,Undirected,1
+Gud,Pascha,Undirected,1
+Andreas Tangen,Tangen,Undirected,1
+Gud,Kuboaa,Undirected,1
+Hans Pauli,Hans Pauli Pettersen,Undirected,1
+Hans Pauli Pettersen,Pauli,Undirected,1
+Jens Olaj,Pauli,Undirected,1
+Hermansen,Pettersen,Undirected,1
+Bernt Ankers,Pauli,Undirected,1
+Hans Pauli,Pauli,Undirected,1
+H. P. Pettersen,theol.,Undirected,1
+Gud,Hans Pauli,Undirected,1
+Gud,Karl Johan,Undirected,1
+Joachim Kierulf,Kierulf,Undirected,1
+Fabian Olsens,Jomfru Andersen,Undirected,1
+Apis,Gud,Undirected,1
+Apis,Judas,Undirected,1
+Farao,Judas,Undirected,1
+Gud,Ingebret,Undirected,1
+Gravesen,Ingebret,Undirected,1
+Gud,Magen,Undirected,1
+Jomfruen,Karl Johan,Undirected,1
+Cammermeyer,Grand,Undirected,1
+Cammermeyer,Waldemar Atterdag,Undirected,1
+Kristus,Madam,Undirected,1
+Ibenholdt,Ylajali,Undirected,1
+Jomfru Andersen,Ylajali,Undirected,1
+Logipenge,Ylajali,Undirected,1
+Gud,Logipenge,Undirected,1
+Asen,Gud,Undirected,1
+Gud,Gutten,Undirected,1

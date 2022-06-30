@@ -1,0 +1,245 @@
+source,target,type,weight
+Ikarios,Penelopeias,Undirected,1
+Odysseus,Penelopeias,Undirected,1
+Melissa,Periandros,Undirected,1
+Melissa,kjær,Undirected,1
+Penthilos,Philolaos,Undirected,4
+Penthilos,Praxilla,Undirected,2
+Flun,liun,Undirected,1
+Hera,liun,Undirected,1
+Kleta,Tiasa,Undirected,2
+Kleta,Livor,Undirected,1
+Antippos,Tiasa,Undirected,1
+Apollon,Tiasa,Undirected,1
+Lilles,Tiasa,Undirected,1
+Hermione,Tiasa,Undirected,2
+Aglaura,Helenas,Undirected,1
+Aglaura,Tiasa,Undirected,4
+Hypertelea,Zeus,Undirected,1
+Helenas,Hypertelea,Undirected,1
+Aglaura,Elektra,Undirected,1
+Kleta,Menekrates,Undirected,1
+Helenafest,Menekrates,Undirected,1
+Helenafest,Hermione,Undirected,1
+Alkibiades,Hellas,Undirected,1
+Alkibiades,Amykla,Undirected,1
+Amykla,Malicha,Undirected,1
+Diogitons,Malicha,Undirected,1
+Lampito,Philolaos,Undirected,6
+Anakreon,Lampito,Undirected,1
+Chimæra,Philolaos,Undirected,1
+Chimæra,Doryssos,Undirected,1
+Doryssos,kjær,Undirected,1
+Lampito,kjær,Undirected,1
+Lampito,Lasos,Undirected,3
+Doryssos,Lasos,Undirected,7
+Doryssos,Mothaken,Undirected,5
+Lasos,Mothaken,Undirected,1
+Lampito,Mothaken,Undirected,2
+Argeia,Aristodemos,Undirected,1
+Mothaken,Panites,Undirected,1
+Argeia,Panites,Undirected,1
+Argeia,Eurysthenes,Undirected,1
+Leda,P'od,Undirected,1
+Helenas,Leda,Undirected,1
+Elektra,Tiasa,Undirected,1
+Eges,Menelaos,Undirected,1
+P. Mariager,Tiasa,Undirected,1
+Helenas,Kleta,Undirected,1
+Antippos,Helenas,Undirected,1
+Hera,Tiasa,Undirected,1
+Helena,Tiasa,Undirected,2
+Piendes,Tiasa,Undirected,2
+Sparta.,Ynglinge,Undirected,1
+Alpion Veien,Lampito,Undirected,1
+Apatagi,Mothaken,Undirected,1
+Lampito,Philolaos kjær,Undirected,1
+Artemisia,Mardonios,Undirected,1
+Artemis,Philolaos,Undirected,1
+Poseidon Asphalios,Torve-Zeus,Undirected,1
+Mothaken,Tegea,Undirected,1
+Philolaos,Tegea,Undirected,1
+Philolaos,Polydoros,Undirected,1
+Polydoros,Zeus,Undirected,1
+Athene,Zeus,Undirected,2
+Athene,Torve-Hermes,Undirected,1
+Lasos,Philolaos,Undirected,4
+Athene Chalkiøkos,Philolaos,Undirected,1
+Athene,Athene Chalkiøkos,Undirected,1
+Mothaken,Philolaos,Undirected,2
+Euoras,Philolaos,Undirected,1
+Euoras,Lynkeus,Undirected,1
+Parnon,Parnons,Undirected,1
+Kong Agesilaos,Kong Agesipolis,Undirected,1
+Kleombrotos,Kong Agesilaos,Undirected,1
+Doryssos,Philolaos,Undirected,8
+Teleutia,Zeus,Undirected,1
+Kong Agesilaos,Zeus,Undirected,1
+Agesilaos,Kong Agesilaos,Undirected,2
+Kong Agesilaos,Menekrates,Undirected,1
+Athamas,Philolaos,Undirected,3
+Philolaos,Teleutia,Undirected,3
+Athamas,Teleutia,Undirected,3
+Athamas,Plans,Undirected,1
+Plan,Plans,Undirected,1
+Haarbaand,Plan,Undirected,1
+Athamas,P. Mariager,Undirected,1
+Athamas,Misthos,Undirected,1
+Peisandros,Philolaos,Undirected,3
+Dorieus,Peisandros,Undirected,1
+Flan,Philolaos,Undirected,1
+Dorieus,Philolaos,Undirected,1
+Alke,Philolaos,Undirected,1
+Alke,PIaar,Undirected,1
+Alkeides,Philolaos,Undirected,11
+Alkeides,Hermes,Undirected,1
+Flan saa Lampito,Mothaken Lasos,Undirected,1
+Philolaos,Plan,Undirected,1
+Graad,Plan,Undirected,1
+Agesilaos,Leonidas,Undirected,1
+Agesilaos,Lykurgos,Undirected,1
+Lians,Xenares,Undirected,1
+Dianassa,Lians,Undirected,1
+Kong Agesilaos,Phlius,Undirected,2
+Delphion,Kong Agesilaos,Undirected,1
+Kleodæos,Kong Agesilaos,Undirected,1
+Anaxandrides,Kleodæos,Undirected,1
+Choret,Jolaos,Undirected,1
+Choret,tom.,Undirected,1
+Helena,tom.,Undirected,1
+Dætons,Mattons,Undirected,1
+Karaons,Mattons,Undirected,1
+Karaons,Ramsetone,Undirected,1
+Iben,Philolaos,Undirected,2
+Alkeides,Tiasa,Undirected,1
+Blun,Kleta,Undirected,1
+Blun,Philolaos,Undirected,1
+Aristeue,Doryssos,Undirected,1
+Olynthos,Phlius,Undirected,2
+Hellas,Phlius,Undirected,1
+Ephorens,Pheidon,Undirected,1
+Androklides,Leontides,Undirected,1
+Androklides,Charon,Undirected,1
+Charon,Philidas,Undirected,3
+Archias,Philidas,Undirected,3
+Archias,Philippos,Undirected,2
+Chlidon,Pheidon,Undirected,1
+Charon,Pelopidas,Undirected,2
+Gissel,Pelopidas,Undirected,1
+Gissel,Philidas,Undirected,1
+Archias,Thebens,Undirected,2
+Archias,Charon,Undirected,1
+Archias ogPhilippos,Charon,Undirected,1
+Flypates,Leontides,Undirected,1
+Leontides,Pelopidas,Undirected,2
+Flan,Leontides,Undirected,1
+Flan,Pelopidas,Undirected,1
+Diokles,Dorieus,Undirected,1
+Gabmund,Livor,Undirected,1
+Diokles,Pelopidas,Undirected,1
+Charon,Melon,Undirected,1
+Pleie,Theben,Undirected,1
+Doryssos,Olynthos,Undirected,1
+Phlius,Phokis,Undirected,1
+Kong Agesilaos,Phokis,Undirected,1
+Chiton,Philolaos,Undirected,1
+Chiton,Doryssos,Undirected,1
+Philolaos,Tribon,Undirected,1
+Lampito,Mothaken Lasos,Undirected,1
+Alkeides,Spendon,Undirected,1
+Molybdocheir,Spendon,Undirected,1
+Philolaos,Spendon,Undirected,22
+Philolaos,liun,Undirected,1
+Ephoren Diokles,Philolaos,Undirected,1
+Hyl as,Philolaos,Undirected,1
+Hylas,Philolaos,Undirected,15
+Hippeis,Hylas,Undirected,2
+Ai'tas,Eispnelen,Undirected,1
+Ai'tas,ein,Undirected,1
+Diokles,ein,Undirected,1
+Alkeides,Hylas,Undirected,5
+Kleta,Spendon,Undirected,1
+Spendon,undgaa,Undirected,1
+Peisandros,Plold,Undirected,1
+Flylas,Philolaos,Undirected,3
+Mothaken Lasos,Philolaos,Undirected,1
+Apollon,Philolaos,Undirected,1
+Agesilaos,Kleombrotos,Undirected,1
+Kleombrotos,Kleora,Undirected,1
+Agesilaos,Kleora,Undirected,1
+Agesilaos,Apolya,Undirected,1
+Apolya,Prolyta,Undirected,1
+Apollon,Bakehos,Undirected,1
+Bakehos,Thales,Undirected,1
+Alkman,Thales,Undirected,1
+Bryallicha,Thyrea,Undirected,1
+Flvorfor,Kong Agesilaos,Undirected,1
+Flvorfor,Kong Kleombrotos,Undirected,1
+Brasidas,Kong Kleombrotos,Undirected,1
+Philolaos,T'hi,Undirected,1
+Choret,Philolaos,Undirected,1
+Hylas,Spendon,Undirected,1
+Kaddos,Spendon,Undirected,1
+Hyakinthos,Kong Amyklas,Undirected,1
+Apollon,Kong Amyklas,Undirected,1
+Apollon,Zephyros,Undirected,1
+Hyakinthos,Zephyros,Undirected,1
+Apollon,Hyakinthos,Undirected,1
+Apollon,Throne,Undirected,1
+Bathykles,Throne,Undirected,1
+Amyklæs,Apollon,Undirected,1
+Amyklæs,Kitharens,Undirected,1
+Morbroders,Praxilla,Undirected,1
+Praxilla,Teleutia,Undirected,1
+Kleta,Philolaos,Undirected,1
+Flermiones,Kleta,Undirected,1
+Flermiones,Hylas,Undirected,1
+Hylas,Liun,Undirected,1
+Kleta,Liun,Undirected,1
+Eos,Kleta,Undirected,1
+Elakatos,Tartessos,Undirected,1
+Maron,Philolaos,Undirected,1
+Philolaos,Praxilla,Undirected,1
+Diokles,Doryssos,Undirected,4
+Diokles,Geradas,Undirected,2
+Alkeides,Parnon,Undirected,1
+Fleloter,Kong Polydoros,Undirected,1
+Spendon,Thornax,Undirected,1
+Daggry,Doryssos,Undirected,1
+Daggry,Glympeis,Undirected,1
+Glympeis,Sparta,Undirected,1
+Doryssos,Oros,Undirected,8
+Doiyssos,Oros,Undirected,1
+Mothaken,Oros,Undirected,2
+Philolaos,Saaret,Undirected,1
+Mothaken,Saaret,Undirected,1
+Diokles,Mothaken,Undirected,1
+Agesilaos,Diokles,Undirected,1
+Diokles,lian,Undirected,1
+Epaminondas,Lysis,Undirected,1
+Lysis,Pindaros,Undirected,1
+Pelopidas,c.,Undirected,1
+Agesilaos,Pelopidas,Undirected,1
+Anesidora,Demeters,Undirected,1
+Anesidora,Axet,Undirected,1
+Axet,Valmuen,Undirected,1
+Valmuen,lyre,Undirected,1
+Agesilaos,Kythera,Undirected,1
+Epaminondas,Pelopidas,Undirected,1
+Agesilaos,Hylas,Undirected,1
+Agesilaos,Artemis Issoras,Undirected,1
+Agesilaos,Issorion,Undirected,1
+Agesilaos,Thronfolger,Undirected,1
+Leotychides,Timæas,Undirected,1
+Alkibiades,Leotychides,Undirected,1
+Demoteles,Kong Agesilaos,Undirected,1
+Demoteles,Parnon,Undirected,1
+Demoteles,Kissidas,Undirected,1
+Herakles,Kissidas,Undirected,1
+Archidamos,Herakles,Undirected,1
+Alexander,Timotheos,Undirected,1
+Damosia,Demoteles,Undirected,1
+Archidamos,Dinicha,Undirected,1
+Dinicha,Sparta,Undirected,1
+Agesilaos,Sparta,Undirected,1
+Agesilaos,P. Mariager,Undirected,1

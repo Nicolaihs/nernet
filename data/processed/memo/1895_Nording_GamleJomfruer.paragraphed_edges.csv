@@ -1,0 +1,57 @@
+source,target,type,weight
+Funch,livor mit,Undirected,1
+Flun,Funch,Undirected,1
+Charlotte Funch,Flun,Undirected,1
+Charlotte Funch,Charlottes,Undirected,1
+Liun,Marie,Undirected,1
+Marie,Walter Rissing,Undirected,2
+Marie,Walters,Undirected,1
+Marie,Walter,Undirected,17
+Flun,Marie,Undirected,1
+Marie,liam,Undirected,1
+Marie,liun,Undirected,1
+Gud,Marie,Undirected,1
+Marie,Smalhans,Undirected,1
+Else,Kong Frederik den Syvende,Undirected,2
+Dybbøl,Else,Undirected,1
+Carl Schmidt,Lian,Undirected,1
+Else,Lian,Undirected,1
+Carl Schmidt,Else,Undirected,4
+Carl,Else,Undirected,4
+Else,Schmidt,Undirected,3
+Annette,Schmidt,Undirected,1
+Carl Schmidt,lian,Undirected,1
+Else,lian,Undirected,1
+Else,Tyfus,Undirected,1
+Augusta,Gud,Undirected,1
+Augusta,Rosalie,Undirected,4
+Rosalie,Stella,Undirected,2
+Blendes,Oberstens,Undirected,1
+Hanne,Oberstens,Undirected,2
+Gerda,Gerda Hansen,Undirected,1
+Gerda,Lærke,Undirected,3
+Flun,Gerda,Undirected,1
+Gerda,Johannes,Undirected,9
+Dybbøl,Gerda,Undirected,1
+Johannes,ban,Undirected,1
+Johannes,liun,Undirected,1
+lian,liun,Undirected,1
+Flun,lian,Undirected,1
+Johannes,s,Undirected,1
+Gerda,s,Undirected,1
+Gerda,Gud,Undirected,3
+Gert Villumsen,Gud,Undirected,1
+Gerda,Gert Villumsen,Undirected,1
+Gerda,hain,Undirected,1
+Gud,hain,Undirected,1
+Gerda,ril,Undirected,1
+Gerda,Mads Hansens,Undirected,2
+Gerda,Gerda Vemmingbund,Undirected,1
+Gerda,hiin,Undirected,1
+Gerda,Kodans,Undirected,1
+Carstensen,Kodans,Undirected,1
+Flun,Johannes,Undirected,1
+Gerda,Signe,Undirected,1
+Frederik den Syvende,Napoleon,Undirected,1
+Gud,Signe,Undirected,1
+Johannes,Mads Hansens,Undirected,1

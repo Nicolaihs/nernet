@@ -1,0 +1,756 @@
+source,target,type,weight
+Pylke,Pylkes,Undirected,1
+Offe,Pylke,Undirected,4
+Offe,Offe Pylke,Undirected,1
+Offe Pylke,Palle Hyphofs,Undirected,1
+Pylke,Visiert Vendelbo,Undirected,1
+Offe Pylke,Visiert Vendelbo,Undirected,1
+Gyldings,Viffert,Undirected,1
+Gyldings,Pylke,Undirected,1
+Gud,Hr. Gylding,Undirected,1
+Henning Graabul,Naadigherrens,Undirected,1
+Naadigherrens,Pylke,Undirected,1
+Pylke,Viffert,Undirected,2
+Casper,Vesfed,Undirected,1
+Casper,Lisfert,Undirected,1
+Gylding,Henning,Undirected,4
+Gylding,hnn,Undirected,2
+Casper Gylding,Easper Gylding,Undirected,1
+Casper Gylding,Hesfen,Undirected,1
+Mesfer,Mesfer Pylke,Undirected,1
+Casper Gylding,Pylke,Undirected,1
+Gud,Jomfru Marias,Undirected,1
+Casper,Casper Gylding,Undirected,2
+Casper Gylding,Ponl Laxmand,Undirected,1
+Kong Hans,Ponl Laxmand,Undirected,1
+Kong Hans,Strangeson,Undirected,1
+Bjørn Andersøn,Strangeson,Undirected,1
+Bjørn Andersøn,Ebbe ham,Undirected,2
+Kong Hans,Lapmand,Undirected,1
+Casper Gylding,Laxmand,Undirected,1
+Casper Gylding,Gerda,Undirected,7
+Gerda,Poul Laxmands,Undirected,1
+Casper,Poul Laxmands,Undirected,1
+Casper,Gerda,Undirected,6
+Casper Gylding,Hektors,Undirected,1
+Casper,Hektors,Undirected,1
+Casper,Sands,Undirected,1
+Gerda,Sands,Undirected,1
+Gerda,Henning Graabuk,Undirected,1
+Casper,Vams,Undirected,2
+Casper,Mette,Undirected,4
+Laxmand,Mette,Undirected,1
+Jens Thomassen,Mette,Undirected,1
+Gerda,Jens Thomassen,Undirected,1
+Gerda,Kong Christjern,Undirected,1
+Casper,Steen,Undirected,2
+Gerda,Jakob,Undirected,1
+Henning Graabuk,Steen,Undirected,1
+Henning,Steen,Undirected,5
+Henning,sidsfe,Undirected,2
+Graabuk,Henning,Undirected,2
+Gud,Jngen,Undirected,1
+Henning,ban,Undirected,1
+Casper Gylding,Henning,Undirected,5
+Henning Graabuk,Rimfrost,Undirected,1
+Henning,Rimfrost,Undirected,1
+Henning,Kirsten,Undirected,3
+Dn,Tranen,Undirected,1
+Casper Gylding,Henning leende,Undirected,1
+Casper Herremand,Munk Hageberth,Undirected,1
+Gerda,Nesfrup,Undirected,1
+Casper,Henning,Undirected,3
+Henning,Tranen,Undirected,4
+Dn,Easper,Undirected,1
+Dn,Henning,Undirected,1
+Casper,Tranen,Undirected,1
+Gud,Marie,Undirected,1
+Gylding,Viffert,Undirected,3
+Gylding,snn,Undirected,1
+Casper Gylding,Tranen,Undirected,1
+Gud,Henning Graabuk,Undirected,1
+Bisfert Vendelbo,Casper,Undirected,1
+Casper,Henning Graabuk,Undirected,2
+Casper hensank,Henning Graabuk,Undirected,1
+Casper hensank,ester,Undirected,1
+Maren Poppes,ester,Undirected,1
+Ane Jost,Maren Poppes,Undirected,1
+Ane Jost,Henning Graabuk,Undirected,1
+Ane Jost,Ane Seeforbi,Undirected,1
+Ane,Ane Seeforbi,Undirected,1
+Ane Jost,Mette,Undirected,1
+Henning,Mette,Undirected,1
+Ane,ban,Undirected,1
+Casper Gylding,Gylding,Undirected,1
+Casper Gylding,Jørgen Grams,Undirected,1
+Gerda,Jørgen Grams,Undirected,1
+Gerda,Visiert Vendelbo,Undirected,1
+Gerda,Viffert,Undirected,2
+Gerda,Gud,Undirected,1
+Gerda,Restrup,Undirected,1
+Restrup,ifjor,Undirected,1
+Gerda,Jørgen Gram,Undirected,7
+Gerda,Mnnken,Undirected,1
+Gerda,Visiert,Undirected,3
+Visiert,hnn,Undirected,2
+Gerda,Gylding,Undirected,2
+Casper,hnn,Undirected,1
+Gerda,Jørgen,Undirected,5
+Gerda,Jørgen Gram flap,Undirected,1
+Casper Gylding,Frøken Gerda,Undirected,1
+Frøken Laxmand,Jørgen Gram,Undirected,1
+Gylding,Jørgen,Undirected,2
+Frøken Laxmand,Jørgen,Undirected,1
+Frøken Laxmand,frede,Undirected,1
+Easper,Visiert,Undirected,1
+Gerda,Gravlev,Undirected,2
+Casper Gylding,Jørgen Gram,Undirected,1
+Jørgen Gram,Mnnken,Undirected,1
+Casper Gylding,Jørgen,Undirected,3
+Ane,Jørgen,Undirected,1
+Ane,Jörgen,Undirected,1
+Gram,Jörgen,Undirected,1
+Hr. Gram,Jørgen,Undirected,1
+Chrisfiern,Viffert Vendelbo,Undirected,1
+Chrisfiern,Mogens Munk,Undirected,1
+Frederik,Mogens Munk,Undirected,1
+Frederik,Munk,Undirected,2
+Christiern,Munk,Undirected,1
+Christiern,Mogens Munk,Undirected,1
+Mogens Munk,Munk,Undirected,1
+Kong Christierns,Oluf Rosenkrands,Undirected,1
+Mogens Bilde,Oluf Rosenkrands,Undirected,1
+Mogens Bilde,Mogens Gjøe,Undirected,1
+Eide von der Hoye,Henrik Gjøe,Undirected,1
+Dyveke,Sigbrit,Undirected,2
+Christiern,Frederik,Undirected,1
+Frederik,Kong Chrisfieru,Undirected,1
+Jørgen Gram,Visiert,Undirected,4
+Frederik,Johan Rantzaus,Undirected,1
+Johan Rantzaus,Kong Christiern,Undirected,1
+Bjørnen,Kong Christiern,Undirected,1
+Bjørnen,Kong Christians,Undirected,1
+Christiern,Kong Christians,Undirected,1
+Christiern,Lindenov,Undirected,1
+Johan Raukzau,hans barsfe,Undirected,1
+Jørgen Gram,Rantzau,Undirected,1
+Bjørn,Gud,Undirected,1
+Johan Rantzau,Visiert Vendelbo,Undirected,2
+Visiert,Visiert Vendelbo,Undirected,1
+Axel,Bjørn,Undirected,1
+Bjørnen,Eggert,Undirected,1
+Eggert,Friis,Undirected,1
+Eggert Bugge,Friis,Undirected,1
+Eggert Bugge,Reifens,Undirected,1
+Anders Friis,Reifens,Undirected,1
+Anders Friis,Eggert,Undirected,1
+Eggert Bugge,Eggert-,Undirected,1
+Bugge,Eggert-,Undirected,1
+Bjørn,Bugge,Undirected,2
+Forrestan,Jes,Undirected,1
+Bjørn,Forrestan,Undirected,1
+Eieren,Vind,Undirected,1
+Bugge,Dalby Bjørn,Undirected,1
+Dalby Bjørn,Jes,Undirected,3
+Christiern,Jørgen Gram,Undirected,1
+Eggert Vugge,Visiert Vendelbo,Undirected,1
+Dalby Bjørn,Visiert Vendelbo,Undirected,1
+Dalby Bjørn,Visiert,Undirected,1
+Henning Graabuk,Visiert,Undirected,3
+Easper Gylding,Henning,Undirected,1
+Kong Christiern,Kong Frederiks,Undirected,1
+Henning,Kong Frederiks,Undirected,1
+Henning,Jes,Undirected,10
+Jes,Viffert,Undirected,2
+Henning Graabuk,Jes,Undirected,4
+Jes,Visiert,Undirected,3
+Rankzau,Visiert,Undirected,1
+Vendelbo,Visiert,Undirected,2
+Rantzans,Viffert,Undirected,1
+Gnds,Nantzau,Undirected,1
+Gud,Junker Viffert,Undirected,1
+Christen Skeel,Claus Juul,Undirected,3
+Rankzau,Viffert Vendelbo,Undirected,1
+Dalby Bjørn,Jes Kulcgraver,Undirected,1
+Jes,Jes Kulcgraver,Undirected,1
+Henning Graabuk,Tøi,Undirected,1
+Henning Graabuk,Kirsten,Undirected,1
+Eggert Bugge,Jes,Undirected,2
+Eggert Bugge,Henning,Undirected,1
+Bugge,Jes,Undirected,1
+Hr. Laxmands,Kirsten,Undirected,1
+Hr. Laxmands,Jørgen Gram,Undirected,1
+Viffert,bry,Undirected,1
+Hain,Jørgen Gram,Undirected,1
+Jørgen,Viffert,Undirected,4
+Christian,Mogens Gjoe,Undirected,1
+Christian,Henning Graabuk,Undirected,1
+Henning Graabuk,hanø,Undirected,1
+barsfe,hanø,Undirected,1
+Eggert Bugge,tom,Undirected,1
+Dalby Bjørn,Kirsten Trane,Undirected,1
+Henning Graabuk,Søren,Undirected,1
+Henning,Viffert,Undirected,10
+Henning,Poul Laxmand,Undirected,2
+Frnen,Visiert,Undirected,1
+Abraham Gpldenstjerne,Frnen,Undirected,1
+Abraham Gpldenstjerne,Casper Gylding,Undirected,1
+Frnen,Kirsten,Undirected,2
+Froken Elfe,Kirsten,Undirected,1
+Froken Elfe,lille Henning,Undirected,1
+Frnen,lille Henning,Undirected,1
+Kirsten,hnn,Undirected,2
+fil,hnn,Undirected,1
+Laxmand,fil,Undirected,1
+Laxmand,Poul,Undirected,1
+Henning,Poul,Undirected,1
+Henning,fil,Undirected,1
+Dn,Viffert,Undirected,2
+Dn,kasf,Undirected,1
+Pylke,hnn,Undirected,1
+Henning,Offe Pylke,Undirected,1
+Jes,takkel,Undirected,1
+Henning,Pylke,Undirected,4
+Pylke,Tranen,Undirected,1
+Henning,Hnn,Undirected,1
+Kirsten,barsf,Undirected,1
+Kirsten,Tranen,Undirected,1
+Bjørn,Jes,Undirected,1
+Jes,Kirsten,Undirected,1
+Henning,Jes Kulegravers,Undirected,2
+Hnn,Kirsten,Undirected,1
+Hnn,Lials,Undirected,1
+Bifferts,Bisfert,Undirected,1
+Bisfert,Henning,Undirected,2
+Gram,Henning,Undirected,2
+Jørgen,Visiert,Undirected,2
+Bugge,Jørgen,Undirected,2
+Bugge,Henning,Undirected,4
+Henning,fig,Undirected,2
+Bugge,Christen Skeel,Undirected,2
+Christen Skeel,Rantzau,Undirected,1
+Friis,Rantzau,Undirected,1
+Daggry,Friis,Undirected,1
+Henning,Jørgen,Undirected,1
+Bugge,Viffert,Undirected,2
+Henning,Vendelbo,Undirected,1
+Bisir,Johan Rantzau,Undirected,1
+Kong Frederik,Rantzau,Undirected,1
+Rantzan,Rantzau,Undirected,1
+Karl,Rantzan,Undirected,1
+Bjørn paa,Rantzan,Undirected,1
+Bugge,Rankzau,Undirected,2
+Frederik,Rankzau,Undirected,1
+Bugge,Frederik,Undirected,1
+Skeel,Viffcrts,Undirected,1
+Clans Juul,Skeel,Undirected,1
+Christen Skeel,Juul,Undirected,1
+Juul,Visiert,Undirected,1
+Bugge,Jørgen Gram,Undirected,2
+Gud,Rantzau,Undirected,1
+Skeel,Visiert,Undirected,1
+Bjørn,Rankzau,Undirected,1
+Bugge,son,Undirected,1
+Hr. Juul,Hr. Skeel,Undirected,1
+Bugge,Rantzau,Undirected,1
+Jørgen Gram,Nigshofmestcren,Undirected,1
+Kong Hans,Nigshofmestcren,Undirected,1
+Gud,Kong Hans,Undirected,1
+Abraham Gyldenstjerne,Gud,Undirected,1
+Abraham Gyldenstjerne,Jørgen Gram,Undirected,1
+Jørgen Gram,Sandholdt,Undirected,1
+Visiert,eu Røsf,Undirected,1
+Onsfc,eu Røsf,Undirected,1
+Frederik,Gram,Undirected,1
+Gram,hnn,Undirected,1
+Jørgen Gram,Viffert,Undirected,6
+Rankzau,Viffert,Undirected,2
+Eggert Bugge,Johan Rantzau,Undirected,1
+Hellebardercn,Rantzau,Undirected,1
+Hellebardercn,Visiert Vendelbo,Undirected,1
+Viffert,Visiert Vendelbo,Undirected,1
+Jørgen Gram,Rankzau,Undirected,1
+Gud,Handl,Undirected,1
+Aasyns,Viffert,Undirected,1
+Aasyns,Rantzau,Undirected,1
+Henning,Henning Graabuk,Undirected,1
+Dn,Rankzau,Undirected,1
+Henning,Rankzau,Undirected,7
+Henning Graabuk,Johan Rantzan,Undirected,1
+Henning,Rantzau,Undirected,5
+Rankzau,Tu,Undirected,1
+Henrik,Johan,Undirected,1
+Seir,Viffert,Undirected,1
+Graad,Kong Frederik,Undirected,1
+Bauken,Rantzan,Undirected,1
+Bauken,hnn,Undirected,1
+hnn,tom,Undirected,1
+Hnstru,Rantzau,Undirected,1
+Graad,sif,Undirected,1
+Rantzau,Tøilcn,Undirected,2
+Bei,Rantzau,Undirected,1
+Graabnks,Henning,Undirected,1
+Henning,Johan Rantzau,Undirected,4
+Gud,Henning,Undirected,3
+Henning,lee,Undirected,1
+Bugge,Frederik den,Undirected,1
+Eggert Bugge,Viffert,Undirected,1
+Jørgen Gran,Viffert,Undirected,1
+Jørgen Gran,Maxmilian Sforzas,Undirected,1
+Kaarde,Maxmilian Sforzas,Undirected,1
+Dolk,Kaarde,Undirected,1
+Jørgen igjennem,Offe Stub,Undirected,1
+Ebbe Strangesen,Viffert,Undirected,3
+Bjørn Andersen,Ebbe Strangesen,Undirected,1
+Bjørn Andersen,Ebbe,Undirected,2
+Ebbe,Olnf Oxe,Undirected,1
+Olnf Oxe,Oluf Oxe,Undirected,1
+Oluf Oxe,Poul Laxmand,Undirected,2
+Ebbe,Oluf Oxe,Undirected,1
+Bjørn,Ebbe,Undirected,16
+Bjørn,Laxmand,Undirected,2
+Jngen,Laxmand,Undirected,1
+Abraham,Jngen,Undirected,1
+Abraham,Elfe,Undirected,1
+Elfe,def,Undirected,1
+Else,def,Undirected,1
+Abraham,Else,Undirected,1
+Abraham,Gyldensfjerne,Undirected,1
+Gyldensfjerne,Laxmand,Undirected,1
+Gerda,Laxmand,Undirected,1
+Ebbe,Viffert,Undirected,15
+Laxmand,Viffert,Undirected,1
+Paul Laxmand,Viffert,Undirected,1
+Ebbe Strangesen,Gerda,Undirected,1
+Ebbe Strangesen,Rantzau,Undirected,3
+Ebbe,Ebbe Strangesen,Undirected,2
+Ebbe,Rantzau,Undirected,1
+Ebbe Strangesen,Jens Friis,Undirected,1
+Friis,Jens Friis,Undirected,1
+Ebbe,Jens Friis,Undirected,1
+Eier,Jorgen,Undirected,1
+Jorgen,Viffert,Undirected,1
+Ebbe Strangesen,Stub,Undirected,2
+Bjørn Andersen,Stub,Undirected,1
+Offe Stub,Viffert,Undirected,1
+Bisf,Stub,Undirected,1
+Clans Junl,Jørgen Gram,Undirected,1
+Clans,Viffert,Undirected,1
+Clans,Hr. Offe Stubs,Undirected,1
+Ebbe Strangesen,Jørgen,Undirected,4
+Jørgen,Stub,Undirected,1
+Bjørn,Erik von der Hoya,Undirected,1
+Johan Rantzau,Viffert,Undirected,1
+Gram,Stub,Undirected,1
+Juul,Viffert,Undirected,1
+Ebbe,Juul,Undirected,1
+Ebbe,Jørgen,Undirected,3
+Jørgen,Rantzau,Undirected,1
+Vaabendragcren,Viffert,Undirected,1
+Henning Graabuk,Viffert,Undirected,2
+Henning,Johan Nantzaus,Undirected,1
+Akan,Henning,Undirected,2
+Rantzau,son,Undirected,1
+Henning,paaklem,Undirected,1
+Henning,Viffert Vendelbo,Undirected,2
+Kong Chrisfjerns,Kong Ehristjern,Undirected,1
+Jørgen Marsvin,Kong Ehristjern,Undirected,1
+Jens Bilde,Jørgen Marsvin,Undirected,1
+Jens Bilde,Kong Frederik,Undirected,1
+Kong Frederik,von der Hoya,Undirected,1
+Jørgen Haarde,von der Hoya,Undirected,2
+Jørgen Haarde,Kong Ehristjern,Undirected,1
+Kong Ehristjern,Rantzau,Undirected,1
+Kong Ehristjern,von der Hoya,Undirected,1
+Jørgen,Kong Ehristjern,Undirected,1
+Johan Rantzau,Jørgen,Undirected,1
+Johan Rantzau,von der Hoya,Undirected,1
+Bisfert,Jørgen,Undirected,1
+Henning,Jørgen Gram,Undirected,1
+Jørgen,Jørgen Gram,Undirected,1
+Jens Krag,Jørgen,Undirected,1
+Bugge,Ebbe,Undirected,1
+Claus Juul,Jørgen,Undirected,1
+Henning Graabuk,Jørgen Gram,Undirected,1
+Henning Graabuk,Jørgen,Undirected,2
+Jørgen,hans,Undirected,1
+Henning Graabuk,Hrax,Undirected,1
+Ebbe,Visiert,Undirected,3
+Strangeseu,Visiert,Undirected,1
+Røsf,Visiert,Undirected,1
+Jørgen Gram,Røsf,Undirected,1
+Ebbe Strangesen,Poul Laxmand,Undirected,1
+Jørgen Gram,Stub,Undirected,1
+Bjørn,Visiert,Undirected,1
+Visiert,iveien,Undirected,1
+Bjørn,Viffert,Undirected,2
+Biffert,Jørgen Gram,Undirected,1
+hnn,von Trotorlow,Undirected,1
+Eige,Gud,Undirected,1
+Hr. Eige,Viffert,Undirected,2
+Hr. Eige,Schvanwedel,Undirected,1
+Hugo von,Schvanwedel,Undirected,1
+Hugo von,Stig,Undirected,1
+Ebbe,von Trotorlow,Undirected,1
+Bjørn,Thnessøn,Undirected,1
+Ebbe Strangcsen,Thnessøn,Undirected,1
+Ebbe,Jeppe,Undirected,2
+Bjørn,Jeppe,Undirected,3
+Bjørn,Leon,Undirected,1
+Ebbe,Thuesson,Undirected,1
+Bendelbo,Jeppe,Undirected,1
+Ebbe,Jens Oxe,Undirected,4
+Jens Oxe,Jeppe,Undirected,1
+Asten,Jeppe,Undirected,1
+Asten,gansfe,Undirected,1
+Jens Oxe,Jeppe Thuessøn,Undirected,1
+Jens,Jeppe Thuessøn,Undirected,1
+Ebbe,Jeppe Thuessøn,Undirected,1
+Offe Stub,Visiert,Undirected,1
+Bisfert,Visiert,Undirected,1
+Bisfert,fig,Undirected,1
+fig,von Trotorlow,Undirected,1
+Jeppe Thuesson,von Trotorlow,Undirected,1
+Jens Oxe,Jeppe Thuesson,Undirected,1
+Jens Oxe,hnn,Undirected,1
+Hr. Eige,Visiert,Undirected,1
+Ebbe,Jeppe Thnessøn,Undirected,1
+Bjørn,Jeppe Thnessøn,Undirected,2
+Bjørn,Jens Oxe,Undirected,1
+Bisfert,Bjørn,Undirected,1
+Ebbe,Hr. Eige,Undirected,1
+Ebbe,Jens Oxc,Undirected,1
+Jens,Jens Oxc,Undirected,1
+Jens Oxe,Thuessøn,Undirected,2
+Strangesen,Viffert,Undirected,1
+Strangesen,knnne,Undirected,1
+Ebbe Strangesen,Gud,Undirected,1
+Gud,Vendelbo,Undirected,1
+Ebbe,Kaarde,Undirected,3
+Jens Juul,Kaarde,Undirected,1
+Ebbe,iveien,Undirected,1
+Bjørn,Ebbe Strangesen,Undirected,2
+Bjørn,Jeppe Thuessøn,Undirected,1
+Jeppe Thuessøn,Kaarde,Undirected,1
+Eige,Viffert,Undirected,1
+Ebbe,Eige,Undirected,4
+Bjørn,Eige,Undirected,2
+Ebbe,EbbeS,Undirected,1
+EbbeS,graagul,Undirected,1
+Bjørn,graagul,Undirected,1
+Bjørn,Graad,Undirected,1
+Ebbe,Graad,Undirected,1
+Hr. Eige,Kaarde,Undirected,1
+Bjørn,Hr. Eige,Undirected,1
+Bjørn,Jørgen Gram,Undirected,1
+Ebbe Strangesen,Jørgen Gram,Undirected,1
+Bjørn,Bjørn Andersen,Undirected,1
+Bjørn,Jørgen,Undirected,1
+Gram,Visiert,Undirected,1
+Bjørn,Herodes,Undirected,1
+Herodes,Pilatus,Undirected,1
+Arild Hvitfeldt,Christiern,Undirected,1
+Arild Hvitfeldt,Johan Rankzau,Undirected,1
+Henrik Gøe,Sigbrit,Undirected,1
+Frederik,Rantzau,Undirected,1
+Henrik Goe,Rantzau,Undirected,2
+Henrik Goe,Mai,Undirected,1
+Mai,Rantzan,Undirected,1
+Jørgen Gram,Rantzan,Undirected,1
+Biffert Vendelbo,Jørgen Gram,Undirected,1
+Rantzan,Visiert,Undirected,1
+Rantzau,Viffert,Undirected,1
+Henning Graabuk,Rantzau,Undirected,1
+Casper Gylding,Henning Graabuk,Undirected,2
+Henning,Karl,Undirected,1
+Casper Gylding,Karl,Undirected,1
+Henning,Kong Christiern,Undirected,1
+Bartholomæus,Kong Christiern,Undirected,1
+Bartholomæus,Henning,Undirected,1
+Hesfen,freidig,Undirected,1
+Hesfen,Jørgen Gram,Undirected,2
+Hesfen,tove,Undirected,1
+Gerda,tove,Undirected,1
+Casper Gylding,Johan Rantzau,Undirected,1
+Easper Gylding,Jørgen,Undirected,1
+Burre,Kirsten,Undirected,1
+Casper Gylding,Kirsten,Undirected,1
+Ebbe Strangesen,Henning,Undirected,1
+Casper Gylding,Kong Christiern,Undirected,1
+Hans BartholomæuSsen,Kong Christiern,Undirected,2
+Hans Bartholomæussen,Kong Christiern,Undirected,1
+Casper Gylding,Hans Bartholomæussen,Undirected,1
+Jørgen,Visfert,Undirected,1
+Casper Gylding,Viffert,Undirected,1
+Gylding,Jomfru Laxmand,Undirected,1
+Johan Rantzan,Kong Frederik,Undirected,1
+Gerda,Sum,Undirected,1
+Gerda,Gram,Undirected,2
+Gerda,Vendelbo,Undirected,1
+Gylding,Jørgen Gram,Undirected,1
+Johan Rantzau,Rantzau,Undirected,1
+Biffert,Gerda,Undirected,1
+Bisfert,Gerda,Undirected,1
+Bisfert,Jørgen Gram,Undirected,1
+Mads Søfrensson,Villie,Undirected,1
+Gylding,Villie,Undirected,1
+Enevold Gylding,GyldingS,Undirected,1
+Enevold Gylding,boiet,Undirected,1
+Abraham,Dyneu,Undirected,1
+Abraham,Maanens,Undirected,1
+Enevolds,Maanens,Undirected,1
+Abraham,Enevolds,Undirected,1
+Abraham,as,Undirected,1
+Abraham,Søren Graa,Undirected,1
+Henning,Søren Graa,Undirected,6
+Henning,Hnstru,Undirected,1
+Hnstru,Søren Graa,Undirected,1
+Søren Graa,Ørengen,Undirected,1
+Henning,Ørengen,Undirected,1
+Henning,Søren Hnstru,Undirected,1
+Else,Henning,Undirected,12
+Henning,Søren,Undirected,14
+Graa,Søren,Undirected,1
+Graa,Henning,Undirected,2
+Søren,Søren Graa,Undirected,3
+Henning,Mesfer,Undirected,1
+Else,Søren,Undirected,1
+Oldunke,Søren,Undirected,1
+Else,Søren Graa,Undirected,1
+Mester,Søren,Undirected,1
+Kong Frederik,Søren Graa,Undirected,1
+Søren,fig,Undirected,1
+Elfe,Loren,Undirected,1
+Møllerens,Søren,Undirected,1
+Elfe,Søren,Undirected,1
+Elfe,Henning,Undirected,1
+Else,hnn,Undirected,2
+Kaarde,Søren,Undirected,1
+Henning,Kaarde,Undirected,1
+Henning,hnn,Undirected,2
+Henning Graabuk,Søren Graa,Undirected,2
+Dorcn,Henning,Undirected,1
+Henning,Mads Skram,Undirected,6
+Mads,Mads Skram,Undirected,1
+Mads,lee,Undirected,2
+Enevold,Mads,Undirected,2
+Jens Munk,Mads,Undirected,1
+Frn Elsebeth,Henning,Undirected,1
+Frn Elsebeth,Gylding,Undirected,1
+Gylding,Mads Lønderhos,Undirected,1
+Dn,Gylding,Undirected,3
+Dereffer,hnn,Undirected,1
+Dereffer,Dn,Undirected,1
+Alf,Dn,Undirected,1
+Alf,Søren Graa,Undirected,1
+Mads Sønderho Sfram,fig,Undirected,1
+Grethes,Jes,Undirected,1
+Gud,Mikkelsdag,Undirected,1
+Fogdeu,Grethe,Undirected,1
+Enevold Gylding,itale,Undirected,1
+Gylding,Tu,Undirected,1
+Gylding,Karl,Undirected,1
+Dn,Karl,Undirected,1
+Enevold,iveien,Undirected,1
+Enevold,Skøiernc,Undirected,1
+Gylding,ester,Undirected,1
+Henning,Mads,Undirected,1
+Die,Enevold,Undirected,1
+Henning,Hr. Enevolds,Undirected,1
+Enevold,Søren Graa,Undirected,1
+Hr. Enevold,Mads Sfram,Undirected,1
+Hr. Enevold,SkramS,Undirected,1
+Hr. Skram,SkramS,Undirected,1
+Hr. Sfram,Hr. Skram,Undirected,1
+Mads Sfram,iligemaade,Undirected,1
+Michaeli,iligemaade,Undirected,1
+Benner,Henning,Undirected,1
+Henning,ester,Undirected,2
+Abraham,Hr. Skram,Undirected,1
+Abraham,Enevold,Undirected,1
+Abraham,Gylding,Undirected,1
+Henning,dcr,Undirected,2
+Mesfer,Søren,Undirected,1
+Encvold Gylding,Mesfer,Undirected,1
+Enevold Gylding,Motter,Undirected,1
+Enevold Gylding,Gud,Undirected,1
+Gud,Søren,Undirected,2
+Gud,Isak,Undirected,1
+Graad,hnn,Undirected,1
+Asten,hnn,Undirected,1
+Asten,Motter,Undirected,1
+Ane,Motter,Undirected,1
+Gud,Lotte,Undirected,1
+Gud,hu,Undirected,1
+Ifjor,Søren,Undirected,1
+Ifjor,Jes Gjønler,Undirected,1
+Jes Gjønler,Lotte,Undirected,1
+Gjortlcrcns,hnn,Undirected,2
+Motter,hnn,Undirected,1
+aareladcs,hnn,Undirected,1
+Ane,aareladcs,Undirected,1
+Ane,Regimcntsdoktorcn,Undirected,1
+Regimcntsdoktorcn,aareladcs,Undirected,1
+Lotte,aareladcs,Undirected,1
+Lotte,hnn,Undirected,1
+Hnn,hnn,Undirected,3
+Søren,hans Buxer,Undirected,1
+Lotte,Søren,Undirected,1
+Else,Gylding,Undirected,1
+Gylding,Søren,Undirected,1
+Else,dans,Undirected,1
+Didrik Skomager,Dn,Undirected,1
+Didrik Skomager,Sons,Undirected,1
+Gylding,Orteslose,Undirected,1
+Mads Sønderho Skram,Orteslose,Undirected,1
+Enevold Gylding,Mads Skram,Undirected,1
+Hr. Enevold,Mads Skram,Undirected,1
+Mads Sfram,fløitcdc,Undirected,1
+Enevold,Henning,Undirected,3
+Gylding,Soren,Undirected,1
+Gylding,Mads,Undirected,1
+Mads Skram,Søren,Undirected,1
+Mads Sønderho Skram,Søren,Undirected,1
+Henning,Skrams,Undirected,1
+SkramS,Søren,Undirected,1
+Snedkerkoncus,Søren,Undirected,1
+Else,Snedkerkoncus,Undirected,1
+Søren,hans Hnslrn,Undirected,1
+Gylding,hans Hnslrn,Undirected,1
+Enevold Gylding,Mads Sfram,Undirected,1
+Skram,Søren,Undirected,1
+Enevold Gylding,Søren,Undirected,1
+Hr. Enevold,Skram,Undirected,1
+Hr. Enevold,Søren,Undirected,1
+Enevold,Mads Skram,Undirected,1
+Enevold,Hr. Gylding,Undirected,1
+Føgdcn,Heinrich,Undirected,1
+Gud,Heinrich Spillemand,Undirected,1
+Heinrich,Hex,Undirected,1
+Mads Skram,Søren Graa,Undirected,1
+Gylding,Søren Graa,Undirected,1
+Gud,Gylding,Undirected,1
+Gylding,lille Mads,Undirected,1
+Gud,Jesn,Undirected,1
+Gylding,Mads Skram,Undirected,1
+Gud,lille Mads,Undirected,1
+Graa,Soren,Undirected,1
+Henning,Skram,Undirected,1
+Graa,Henning Graa,Undirected,1
+Graa,Konsul Graa,Undirected,1
+Kaarde,Konsul Graa,Undirected,1
+Kong Frederik,sor,Undirected,1
+Claudia,Graa,Undirected,18
+Claudia,Jacobine,Undirected,3
+Jacobine,lille Claudia,Undirected,1
+Claudia meente,Graa,Undirected,1
+Jacobine,Torre,Undirected,1
+Clandia,Graa,Undirected,4
+Clandia,Lucia,Undirected,1
+Lin,Obersten,Undirected,1
+Jarlstad,Obersten,Undirected,1
+Claudia,Viggo,Undirected,2
+Hnn,Jarlstad,Undirected,2
+Clandia,Jarlstad,Undirected,12
+Kong Salomon,Poul,Undirected,1
+Jarl,Poul,Undirected,1
+Hakon,Jarl,Undirected,1
+Hakon,Ponl,Undirected,1
+Claudia,hnn,Undirected,4
+Graa,hnn,Undirected,2
+Claudia,Mnsiken,Undirected,1
+Danielsen,Graa,Undirected,2
+Danielsen,Juul,Undirected,1
+Clandia,Danielsen,Undirected,2
+Claudia,Jarlstad,Undirected,16
+Clandia,Jarlstad reisfe,Undirected,1
+Jarlstad,hnn,Undirected,1
+Graa,Jarlstad,Undirected,10
+Claudia,Jkkesandt,Undirected,1
+Graa,Snn,Undirected,1
+Clandia,Claudia,Undirected,4
+Clandia,Fløiels,Undirected,1
+Fløiels,Jacobine,Undirected,1
+Clandia,Jacobine,Undirected,1
+Claudia,Jarlsfad,Undirected,3
+Claudia,Hr. Jarlsfad,Undirected,1
+Claudia,Jacob,Undirected,1
+Claudia,Iacobine,Undirected,1
+Iacobine,hnn,Undirected,1
+Claudia,Reseda,Undirected,2
+Graa,mintro,Undirected,2
+Claudia,Jens Casper Gylding Iarlstad,Undirected,1
+Claudia,Ferslev,Undirected,2
+Claudia,Gylding,Undirected,1
+Gylding,Jarlstad,Undirected,1
+Henning Graabuk,Jarlstad,Undirected,1
+Gylding,Henning Graabuk,Undirected,1
+Graabuk,Gylding,Undirected,1
+Graa,Graabuk,Undirected,1
+Clandia,Iacobine,Undirected,1
+Julie,hnn,Undirected,2
+Gylding Iarlstad,hnn,Undirected,1
+Claudia,Madam Jarlstad,Undirected,1
+Madam Graa,Madam Jarlstad,Undirected,1
+Baronesse Gylding Jarlstad,Madam Graa,Undirected,1
+Clandia,Jette Richter,Undirected,1
+Asten,Gud,Undirected,1
+Asten,Rosenkilde,Undirected,1
+Claudia,Otto,Undirected,2
+Claudia,orf,Undirected,1
+Gud,orf,Undirected,1
+Claudia,Gud,Undirected,3
+Jarlstad,Svend,Undirected,1
+Charlotte,nynne,Undirected,1
+Claudia,Nielsen,Undirected,1
+Claudia,Cæsars,Undirected,2
+Gud,Tom,Undirected,1
+Dn,Graa,Undirected,1
+Claudia,Dn,Undirected,3
+Claudia,Sands,Undirected,1
+Gud,Sands,Undirected,1
+Andersen,Gud,Undirected,1
+Andersen,Peter Dickens,Undirected,1
+Charles Dickens,Claudia,Undirected,1
+Charles,Peter,Undirected,1
+Graa,Gylding Jarlstad,Undirected,1
+Claudia,Graad,Undirected,2
+Clandia,Graad,Undirected,1
+Juul,lille Claudia,Undirected,1
+Juul,Stenersen,Undirected,1
+Jarlstad,Nysolv,Undirected,1
+Dn,Nysolv,Undirected,1
+Dn,Gud,Undirected,2
+Graa,Iarlstad,Undirected,1
+Claudia,Røsf,Undirected,1
+Claudia,Iarlstad,Undirected,2
+Graa,Iarlsfad sfar,Undirected,1
+Claudia,Iarlsfad,Undirected,2
+Claudia,LEndcr,Undirected,1
+Jarlstad,Karlen,Undirected,1
+Clandia,hnn,Undirected,1
+Claudia,ifjor,Undirected,1
+Clandia,Iarlstad,Undirected,1
+Baron,Jarlstad,Undirected,1
+Asten,Graa,Undirected,1
+Asten,Jarlstad,Undirected,1
+Claudia,Fahr,Undirected,1
+Clandia,Dn,Undirected,1
+Cr,Dn,Undirected,2
+Clandia,Pidsken,Undirected,1
+Jarlstad,Pidsken,Undirected,1
+Gud,Seil,Undirected,1
+Casper,fig,Undirected,1
+Claudia,Hnn,Undirected,1
+Clandia,Hnn,Undirected,2
+Clandia,Marie,Undirected,1
+Gud,Jesus,Undirected,1
+Clandia,Jesus,Undirected,1
+Bramsen,Lotte,Undirected,1
+Bramsen,Jansen,Undirected,1
+Clandia,maalløs,Undirected,1
+Bohave,Graa,Undirected,1
+Claudia,Marie,Undirected,2
+GyldingS,Rankzan,Undirected,1
+Casper Gylding,Rankzan,Undirected,1
+Claudia,Jens Casper,Undirected,1

@@ -1,0 +1,191 @@
+source,target,type,weight
+Fønss,sra Fyen,Undirected,1
+Dinesen,Fønss,Undirected,1
+Dinesen,hans Huns,Undirected,1
+bieg,hans Huns,Undirected,1
+Fabrikantens,Steen,Undirected,1
+Bei,hau,Undirected,1
+Fabrikantens,Niet,Undirected,1
+Banquierdatters,Candidat Johnsen,Undirected,1
+Candidat Johnsen,Edvard,Undirected,1
+Carl,Edvard,Undirected,1
+Johnsen,engelsfe,Undirected,2
+Assessor Michelsens,Rosenhjelm,Undirected,1
+Jenseits,Rosenhjelm,Undirected,1
+Jenseits,Michelsens,Undirected,1
+Michelsens,Olufsens,Undirected,1
+Jensens,Olufsens,Undirected,1
+Jensens,Michelsen,Undirected,1
+Hnn,Michelsen,Undirected,2
+Carlsen,Michelsenske,Undirected,1
+Jacobæa,Jaeobæa,Undirected,1
+Carlsen,Herr Carlsen,Undirected,1
+Carlsen,Napoleon den,Undirected,2
+Carlsen,Verten,Undirected,1
+Herr Carlsen,Jacobæa,Undirected,1
+Liliendal,Michelsen,Undirected,1
+Jacobæa,Michelsen,Undirected,3
+Carlsen,Michelsen,Undirected,2
+Carlsen,supra nubss,Undirected,1
+Carlsen,Liliendal,Undirected,2
+Carlsen,frank,Undirected,2
+Carlsen,Pindsegilde,Undirected,1
+Carlsen,Jacobæa,Undirected,1
+Jaftes,Michelsen,Undirected,1
+Michelsen,Pranges,Undirected,1
+Carlsen,Pranges,Undirected,1
+Michelsen,pompeust,Undirected,1
+Guds,nn,Undirected,1
+Rasmussen,fil,Undirected,1
+Kammerraad Rasmussen,fil,Undirected,1
+Ludvig den,nor,Undirected,1
+Frederik,Frøken Marie,Undirected,1
+Frederik,Kammeraad Rasmussens,Undirected,1
+Hanne,Rasmussen,Undirected,1
+Frederik,Gud,Undirected,1
+Frederik,Hanne,Undirected,1
+Cousine,Frederik,Undirected,2
+H. C. Orsted,Kathedre,Undirected,1
+Niet,laante Kudskens,Undirected,1
+Niet,nn,Undirected,1
+Herr Particulier Reiersen,nn,Undirected,1
+Herr Reiersen,Vilhelm Erobreren,Undirected,1
+Frn Rasmussen,Frøken Reiersen,Undirected,1
+Frøken Reiersen,LEgtesfab,Undirected,1
+Herr Reiersen,LEgtesfab,Undirected,1
+Frn Rasmussen,Herr Reiersen,Undirected,1
+Herr Reiersen,hnn,Undirected,2
+Frøken Reiersen,Herr Reiersen,Undirected,1
+Frøken Reiersen,Reiersen,Undirected,1
+Mikkelsen,Olsen,Undirected,1
+Lillienskjold,Mikkelsen,Undirected,1
+Lillienskjold,Sørensen,Undirected,1
+Consonanfer,Vocaler,Undirected,1
+Sørensen,Vocaler,Undirected,1
+Madsen,Oren,Undirected,1
+Oren,Reiersen,Undirected,1
+Hertz,Reiersen,Undirected,1
+Gud,Hertz,Undirected,1
+Carlsen,Gud,Undirected,1
+Carlsen,Jensen,Undirected,1
+Hansen,Jensen,Undirected,1
+Kjørslen,Nine,Undirected,1
+Adam,Oren,Undirected,1
+Adam,Eva,Undirected,1
+Eva,Rasmussen,Undirected,1
+Herr Reiersen,Madam Buurmann,Undirected,1
+Herr Buurmann,Herr Reiersen,Undirected,2
+Frøken Reiersen,Tans,Undirected,1
+Cousine,Rinaldo Rinaldini,Undirected,1
+Cousine,Frøken Marie,Undirected,1
+Frøken Marie,Herr Reiersen,Undirected,1
+Herr Reiersen,paany,Undirected,1
+chnn,stig,Undirected,1
+Cousine,stig,Undirected,1
+Amor,Marie,Undirected,1
+Gud,Marie,Undirected,1
+Gud,Rafl,Undirected,1
+Consine,Rafl,Undirected,1
+Jacobs,Rachels,Undirected,1
+Joseph,Rachels,Undirected,1
+Joseph,Triumph,Undirected,1
+Cousine,Triumph,Undirected,1
+Herr sxam,juris Poulsen,Undirected,1
+Cousine,juris Poulsen,Undirected,1
+Mesters,ban,Undirected,1
+Roes,ban,Undirected,1
+Barme,Nie,Undirected,1
+Julius Thomsens,paakleni,Undirected,1
+Gud,Nine,Undirected,1
+Gud,froe,Undirected,2
+Adam,Frøken Julle,Undirected,1
+Adam,fiint,Undirected,1
+Consul Mathisens,Jansen,Undirected,1
+DøttreS,Eva,Undirected,1
+Cæsar,DøttreS,Undirected,1
+Herr Jansen,Jansen,Undirected,5
+Jansen,Solons,Undirected,1
+Krøsus,Solons,Undirected,1
+Erobrers,Krøsus,Undirected,1
+Jansen,Philosophs,Undirected,1
+Jansen,Julle,Undirected,1
+Frøken Julle,Melancholi,Undirected,1
+Eriksens,Frøken Julle,Undirected,2
+Frøken Julle,Julie,Undirected,1
+Julie,Julle,Undirected,1
+Julle,per kas st nekas,Undirected,1
+Jansen,per kas st nekas,Undirected,1
+Candidat Jespersen,Jean Peter“,Undirected,1
+Jean Peter“,sfjelmst,Undirected,1
+Ballel,sfjelmst,Undirected,1
+Ballel,Vinge,Undirected,1
+Vinge,con runors,Undirected,1
+Dandsen,con runors,Undirected,1
+Dands,Dandsen,Undirected,1
+Dands,Jansen,Undirected,1
+Herr Jansen,L Goldschmidt,Undirected,1
+L Goldschmidt,Malmstrøm,Undirected,1
+Iversen,Malmstrøm,Undirected,1
+Iversen,Jansen,Undirected,1
+Dandsen,Jansen,Undirected,3
+Frøken Julle,Jansen,Undirected,2
+Herr,Jansen,Undirected,2
+Jansen,fig,Undirected,1
+Dands,fig,Undirected,1
+Dands,Johnsen,Undirected,2
+Jansen,Johnsen,Undirected,1
+Frøken Malmstrøm,Jansen,Undirected,1
+Frøken Malmstrøm,Gunilds,Undirected,1
+Caspersen,Gunilds,Undirected,1
+Caspersen,Herr Johnsen,Undirected,1
+Dands,Herr Jansen,Undirected,2
+Glands,Herr Jansen,Undirected,1
+Glands,neie,Undirected,1
+Jansen,neie,Undirected,1
+Frøken Julle,kfækt,Undirected,1
+Johnsen,Lieutenant Johnsen,Undirected,1
+Frøken Eriksen,Lieutenant Johnsen,Undirected,1
+Frøken Eriksen,Herr Jansen,Undirected,2
+Herr Jansen,fig,Undirected,1
+Frøken Julle,Herr Jansen,Undirected,7
+Johnsen,Phaoton,Undirected,1
+Herr Jansen,ester,Undirected,1
+Frøken Julle,Herr Caspersen,Undirected,1
+Herr Caspersen,Herr Jansen,Undirected,4
+Herr Jansen,Julle,Undirected,1
+Eriksen,Malmstrøm,Undirected,1
+Major Malmsfrøm,Malmstrøm,Undirected,1
+Eriksen,Major Malmsfrøm,Undirected,1
+Eriksen,Frøken Julle,Undirected,2
+Frøken Julle,Iversen,Undirected,2
+Eriksen,ester,Undirected,1
+Eriksen,Jansen,Undirected,1
+Cancelliraad Caspersens,Jansen,Undirected,1
+Cancelliraad Caspersens,Herr Jansen,Undirected,1
+Herr Caspersen,Jis,Undirected,1
+Herr Jansen,Jis,Undirected,1
+Herr Jansen,Madeira,Undirected,1
+Caspersen,Jansen,Undirected,2
+Frøken Julle,Notarius xubHens,Undirected,1
+Herr Jansen,Notarius xubHens,Undirected,1
+Herr Jansen,hans Phaeton,Undirected,2
+Frøken Julle,hans Phaeton,Undirected,1
+Herr Jansen,fløi,Undirected,1
+Eriksen,fløi,Undirected,1
+Frøken Julle,Meisling,Undirected,1
+Gozzi,Meisling,Undirected,1
+Frøken Julle,Vinge,Undirected,1
+Herr Jansen,Vinge,Undirected,1
+Herr Jansen,sor,Undirected,1
+Caspersen,Herr Jansen,Undirected,1
+Herr Jansen,Strøm,Undirected,2
+Julle,hans Phaeton,Undirected,1
+Julle,Juul,Undirected,1
+Frøken Julle,Juul,Undirected,1
+Vexler,as,Undirected,1
+Jansen,as,Undirected,1
+Cancelliraad Caspersen,Dandsen,Undirected,1
+Cancelliraad Caspersen,Jansen,Undirected,1
+Frøken Caspersen,Jansen,Undirected,1
+Frøken Caspersen,Herr Jansen,Undirected,1
+Cæsar,Herr Jansen,Undirected,1

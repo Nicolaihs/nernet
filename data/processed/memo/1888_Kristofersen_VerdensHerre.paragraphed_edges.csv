@@ -1,0 +1,214 @@
+source,target,type,weight
+Olsen,Persen,Undirected,1
+Aas,Hagen,Undirected,2
+Hagen,Smed Eriksen,Undirected,1
+Iversen,Mayer,Undirected,1
+Eriksens,Hagen,Undirected,1
+Birgitte,F'oreviseren,Undirected,1
+Gud,Guds,Undirected,1
+Birgitte græt,Gud,Undirected,1
+Ane,Birgitte,Undirected,2
+Birgitte,Dokterens,Undirected,1
+Dokterens,Sigrid,Undirected,1
+Ane,Arnt,Undirected,1
+Blom,Thomas Aas,Undirected,1
+Oberstløjtnant Harris,Thomas Aas,Undirected,1
+Gud,Oberstløjtnant Harris,Undirected,1
+Gud,Saxifraga,Undirected,1
+Gulbrandsen,Saxifraga,Undirected,1
+Gulbrandsen,Oberstløjtnant Harris,Undirected,2
+Gulbrandsen,Iversen,Undirected,2
+Jon,Jon Ræstad,Undirected,7
+Jon,Marit,Undirected,21
+Marit,Vesleungen,Undirected,1
+Jon Ræstad,Marit,Undirected,5
+Hyss—hyss,Jon,Undirected,1
+Arnt,Jon,Undirected,17
+Arnt,Hyss,Undirected,2
+Arnt,Redljon,Undirected,1
+Jon,Redljon,Undirected,1
+Marit,lille Jon,Undirected,1
+Arnt,Marit,Undirected,8
+Gut,Jon,Undirected,1
+Arnt,haanblæste,Undirected,1
+Jon,slig,Undirected,1
+Studentibus,slig,Undirected,1
+Studentibus,haahaahaa,Undirected,1
+Gubben,Jon,Undirected,2
+Jon,Sjømand,Undirected,3
+Marit,Sjømand,Undirected,1
+Pias,hannem,Undirected,1
+Arnt Arntsen,Britta,Undirected,1
+Gubben,Marit,Undirected,2
+Britta,Jon,Undirected,2
+Arnt,brandt,Undirected,1
+Marit,Sigrid,Undirected,6
+Marit,Naanaa,Undirected,1
+Arnt,taug,Undirected,1
+Jon,stakkars,Undirected,1
+Derborte,Jon Ræstad,Undirected,1
+Derborte,Nic. Møller,Undirected,1
+Møller,Nic. Møller,Undirected,1
+Jon,Møller,Undirected,2
+Jon,Strøm,Undirected,1
+Møller,Strøm,Undirected,1
+Møller,Ræstad,Undirected,1
+Jon,mintes,Undirected,1
+Harris,Lejon,Undirected,1
+Adjutant,Jon,Undirected,1
+Jon,Lejon,Undirected,1
+Leander,Malm,Undirected,1
+Arnt,Gubben,Undirected,1
+Arnt,Hyss—hyss,Undirected,1
+Hyss,Jon,Undirected,1
+Jon,hin,Undirected,2
+Gutten,Jon,Undirected,1
+Hyss,Ulla,Undirected,1
+Jeppe Bakke,Jon,Undirected,2
+Arnt,Jøs,Undirected,1
+Arnt,Marit hyssed,Undirected,1
+Arnt,Jeppe Bakke,Undirected,1
+Harris,Møller,Undirected,1
+Jagu,Jon,Undirected,1
+Jasaa,Jon,Undirected,1
+Jasaa,Jeppe,Undirected,1
+Jeppe Bakke,Rasmussen,Undirected,1
+Jon mintes,Rasmussen,Undirected,1
+Arnt,Jon mintes,Undirected,1
+Arnt,Sigrid,Undirected,3
+Sigrid,bent,Undirected,1
+Jesu,Jon,Undirected,2
+Jon,Juling,Undirected,1
+Hyss,Iversen,Undirected,1
+Høyem,Verten,Undirected,1
+Gud,pilted,Undirected,1
+Jon Ræstad,Verten,Undirected,1
+Malm,Naanaa,Undirected,1
+Kankan,Møller,Undirected,1
+Bæk,Malm,Undirected,1
+Malm,Pias,Undirected,2
+Emil,Valborg,Undirected,1
+Jon Ræstad,Sigrid,Undirected,1
+Sigrid,vesle,Undirected,1
+Jon,vesle,Undirected,1
+Jon Ræstad,Jonas,Undirected,6
+Jon Ræstad,iland,Undirected,1
+Salomonsen,hyss,Undirected,1
+Jon,Salomonsen,Undirected,2
+Jon Ræstad,Pias,Undirected,2
+Gulbrandsen,Jon Ræstad,Undirected,3
+Gammel-Erik“,Gulbrandsen,Undirected,1
+Gammel-Erik“,Jon Ræstad,Undirected,1
+Jon Ræstad,mintes,Undirected,1
+GulBrandsen,Jon,Undirected,1
+Gulbrandsen,Jon,Undirected,2
+Gulbrandsen,Konsul Aas,Undirected,1
+Jesu,Salomonsen,Undirected,1
+Gut,Jon Ræstad,Undirected,1
+Aas,Gulbrandsen,Undirected,1
+Kjære Aas,Salomonsen,Undirected,1
+Jon Ræstad,Salomonsen,Undirected,3
+Aas,Salomonsen,Undirected,1
+Arnt,Lille Jon,Undirected,2
+Arnt,Einar,Undirected,1
+Aksel,Jon,Undirected,2
+Jon,Pias,Undirected,3
+Jon skotted,didhen,Undirected,1
+Sigrid,didhen,Undirected,1
+Jon,Sigrid,Undirected,5
+Arnt Arntsen,Jon Ræstad,Undirected,1
+Erik Norum,Jon,Undirected,2
+Erik Norum,Jon Ræstad,Undirected,3
+Jesu,Oberstløjtnant Harris,Undirected,1
+Arnt Lods,Jesu,Undirected,1
+Birta,eins,Undirected,1
+Jon Ræstad,Petterssen,Undirected,1
+Gud,mintes,Undirected,1
+Gud,Jonas,Undirected,1
+Jon Ræstad,Lars,Undirected,1
+Jon,Lars,Undirected,2
+Jon,Jonas,Undirected,1
+Lars,Lars Bryggemand,Undirected,1
+Jonas,Lars Bryggemand,Undirected,1
+Gud,Jon Ræstad,Undirected,2
+Erik Norum,Petterssen,Undirected,1
+Gud,grant,Undirected,1
+Aksel,Jon Ræstad,Undirected,1
+Gulbrandsen,Vorherre,Undirected,1
+Aloren,Valborg,Undirected,1
+Konsul Aas,Palas,Undirected,1
+Iversen,Sisten,Undirected,1
+Iversen,Møller,Undirected,3
+Iversen,græt,Undirected,1
+Aas,græt,Undirected,1
+Aas,Gud,Undirected,1
+Iversen,Peter,Undirected,1
+Amund Lie,Peter Vold,Undirected,1
+Peter Vold,Skae,Undirected,1
+Per Vold,Skae,Undirected,1
+Jon,Per Vold,Undirected,1
+Iversen,Jon Ræstad,Undirected,1
+Domino,Schak,Undirected,1
+Møller,Somme,Undirected,1
+Barna,Ukes,Undirected,1
+Erik Norum,Lars Pettersen,Undirected,1
+Erik Norum,Urmaker Olsen,Undirected,1
+Brastads,Urmaker Olsen,Undirected,1
+Brastads,Høyem,Undirected,1
+Lars,Marit Ræstad,Undirected,1
+Lars,Marit,Undirected,1
+Brastad,Erik Norum,Undirected,1
+Brastad,Petterssen,Undirected,1
+Olsen,Petterssen,Undirected,1
+Marit,Olsen,Undirected,1
+Naajajaja,graate,Undirected,1
+banked,graate,Undirected,1
+Marit,Pettersen,Undirected,1
+Høyem,Jon,Undirected,1
+Gud,Marit,Undirected,1
+Bakkes,Jeppe Bakke,Undirected,1
+Erik Norum,Jeppe Bakke,Undirected,1
+Jeppe Bakke,Pettersen,Undirected,2
+Jeppe Bakke Tugthuskandidaten,Jon,Undirected,1
+Gud,Jeppe Bakke,Undirected,1
+Barna,lille Jon,Undirected,1
+Lods Arnt Arntsen,Singdal,Undirected,1
+Marit,Singdal,Undirected,1
+Sigrid,mintes,Undirected,1
+Marit,mintes,Undirected,1
+Jon Ræstad,Kassa,Undirected,1
+Bæk,Kassa,Undirected,1
+Bæk,Jon Ræstad,Undirected,1
+Jon Ræstad,Møller,Undirected,1
+Doktor Bæk,Erik Norum,Undirected,1
+Møller,Norum,Undirected,1
+Bæk,Møller,Undirected,1
+Amund Lie,Gud,Undirected,1
+Amund Lie,Wenzels,Undirected,1
+Gud,Wenzels,Undirected,1
+Gud,ølby,Undirected,1
+Bæk,ølby,Undirected,1
+Birgitte,ølby,Undirected,1
+Don Quixotte-Bud,Johan Rædstedt,Undirected,1
+Byraasjef Larssen,Don Quixotte-Bud,Undirected,1
+Arnt,Jon Ræstad,Undirected,1
+Arnt,Iversen,Undirected,1
+Møller,Tangen,Undirected,1
+Konsul Aas,Th. Aas,Undirected,1
+Jon Ræstad,Konsul Aas,Undirected,1
+Jon Ræstad,Samson,Undirected,1
+Erik Norum,hanskulde,Undirected,1
+Marit,Marit Ræstad,Undirected,1
+Gulbrandsen,Malm,Undirected,2
+Ane Kokke,Gulbrandsen,Undirected,1
+Aas,Thomas Aas,Undirected,1
+Malm,Valborg,Undirected,1
+Gulbrandsen,Thorsen,Undirected,1
+Gulbrandsen,Løitnant Malm,Undirected,1
+Erik Norum,Nor,Undirected,1
+Gulbrandsen,Høyem,Undirected,1
+Knut Husbondskar,Stygheta,Undirected,1
+Fraua,Stygheta,Undirected,1
+Arnt,Fraua,Undirected,1
+Gubben,Jagu,Undirected,1
+Løitnant,Malm,Undirected,1

@@ -1,0 +1,154 @@
+source,target,type,weight
+Husbonds,Lien,Undirected,1
+Eko,Lien,Undirected,1
+Berg,Foss,Undirected,1
+Foss,Ingrid,Undirected,1
+Bjorn Gaardsgut,Ingrid,Undirected,1
+Bjorn Gaardsgut,Gutten,Undirected,1
+Gutten,Ingrid,Undirected,1
+Ingrid,ban,Undirected,2
+Gutten,ban,Undirected,1
+Gutten,ikvadd,Undirected,1
+Bjørn,ikvadd,Undirected,1
+Astmaen,Bjørn,Undirected,1
+Astmaen,Pias,Undirected,1
+Husbond,Pias,Undirected,4
+Bjørn,Ingrid,Undirected,38
+Jagu,gotted,Undirected,1
+Gutten,Husbond,Undirected,1
+Bjørn,Husbond,Undirected,16
+Bjørn,Stakkar,Undirected,1
+Husbond,Stakkar,Undirected,1
+Guds,Husbond,Undirected,2
+Bjorn,Ingrid,Undirected,3
+Ingrid,boded,Undirected,1
+Bjørn,boded,Undirected,1
+Bjørn,Ljaaen,Undirected,1
+Husbond,Ljaaen,Undirected,1
+Husbond,stansed,Undirected,1
+Bjørn,Ploug,Undirected,1
+Bjørn,Johannes,Undirected,12
+Ingrid,vesle Johannes,Undirected,2
+jøje,vesle Johannes,Undirected,1
+Husbond,ban,Undirected,1
+Bjørn,Oret,Undirected,1
+Bjørn,Javist,Undirected,1
+Bjørn,oppi Aasen,Undirected,2
+Bjørn,Havren,Undirected,1
+Bjørn,ban,Undirected,3
+Ingrid,Kanske,Undirected,1
+Fagerros,Kanske,Undirected,1
+Fagerros,vesle Johannes,Undirected,1
+Fagerros,Ingrid,Undirected,4
+Ingrid,Jesu,Undirected,1
+Jesu,vesle Johannes,Undirected,1
+Gud,vesle Johannes,Undirected,1
+Gut,Norner,Undirected,1
+Bjorn,Gut,Undirected,1
+Ingrid,Jon Gjærdet,Undirected,1
+Norner,aten,Undirected,2
+Ingrid,vesle,Undirected,1
+Johannes,vesle,Undirected,2
+Johannes,atpaa,Undirected,1
+Bjørn Kjelbotnen,bent,Undirected,1
+Bjørn,Gutten,Undirected,1
+Aasen,Ingrid,Undirected,1
+Ingrid,Johannes,Undirected,7
+Johannes,livis,Undirected,1
+Løitnant,livis,Undirected,1
+Barter,Løitnant,Undirected,1
+Barter,Norner,Undirected,1
+Greja,Norner,Undirected,1
+Bjørn,lian,Undirected,1
+Ingrid,Lien,Undirected,1
+Bjørn,Lien,Undirected,1
+Bjørn,vesle Johannes,Undirected,2
+Bjørn,Bjørn Rydningsmand,Undirected,1
+Aasen,Bjørn,Undirected,1
+Ingrid,Markna,Undirected,1
+Bjorn,Tunteigen,Undirected,1
+Bjørn,Tunteigen,Undirected,1
+Bjørn,vesle,Undirected,1
+Bjørn,Gud,Undirected,1
+Ingrid,Pias,Undirected,1
+Gud,Ingrid,Undirected,2
+Ingeborg,Johannes,Undirected,3
+Ingeborg,Thor,Undirected,1
+Bjørn,Thor,Undirected,2
+Bjørn,sturen,Undirected,1
+Husbond,sturen,Undirected,1
+Husbond,Ingrid,Undirected,8
+Ingrid,Tunteig,Undirected,1
+Bjorn,Husbond,Undirected,1
+Husbond,lian,Undirected,1
+Ingeborg,Vesle Thor,Undirected,1
+Bjorn,Bjørn,Undirected,2
+Ingrid,est,Undirected,1
+Kvitdua mi,stakkar Blaaros,Undirected,1
+Ingrid,Kvitdua mi,Undirected,1
+Ingrid,Krok,Undirected,2
+Bjørk,Gutten,Undirected,1
+Johannes,vesle Thor,Undirected,2
+skotted,vesle Thor,Undirected,1
+Martin,hannem,Undirected,1
+Haugetrold,Mads,Undirected,1
+Mads,jagu,Undirected,1
+Ingrid,hare,Undirected,2
+Barna,Bjørn,Undirected,1
+Bjørn,Bjørn Kjelbotnen,Undirected,2
+Bjørn,Haugatrold,Undirected,2
+Bjørn,Henrik,Undirected,3
+Bjørn,Henrik Tater,Undirected,1
+Bjørn,Tater,Undirected,1
+Bjørn,TaterHenrik,Undirected,1
+Bjørn Rydningsmand,TaterHenrik,Undirected,1
+Bjørn Rydningsmand,Karen,Undirected,1
+Bjørn,Karen,Undirected,3
+Bjørn,jøje,Undirected,1
+Karen,lian,Undirected,1
+Husbond,Tater-Henrik,Undirected,2
+Bjørn,Oxen,Undirected,1
+Haugatrold,Oxen,Undirected,1
+Bjørn,Kanske,Undirected,1
+Kanske,vesle Johannes,Undirected,1
+Bjørn,sist,Undirected,1
+Bjorn,sist,Undirected,1
+Ingeborg,Ingrid,Undirected,3
+Bjørn,vesle Thor,Undirected,2
+Blaaros,Ingrid,Undirected,2
+Ingrid,Tunet,Undirected,1
+Ingrid,Tater-Henrik,Undirected,2
+ban,vesle Thor,Undirected,1
+Bjørn,Miend,Undirected,1
+Ingeborg,Miend,Undirected,1
+Ingrid,Melken,Undirected,1
+Møller,hin,Undirected,1
+Peter,hin,Undirected,1
+Bjørn lunted,Peter,Undirected,1
+Bjørn,Bjørn lunted,Undirected,1
+Ingrid,Vesle Thor,Undirected,1
+Johannes,Vesle Thor,Undirected,1
+Johannes,din,Undirected,1
+Bjørn,Tul,Undirected,1
+Pias,ban,Undirected,1
+Bjørn minnte,Pias,Undirected,1
+Bjørn minnte,hans,Undirected,1
+Husbond,hans,Undirected,1
+Aaja,vesle Thor,Undirected,1
+Bjørn,Saueflokken,Undirected,1
+Jamæn,Ljaaen,Undirected,1
+Husbond,Jamæn,Undirected,1
+Husbond,Sauer,Undirected,1
+Ingrid,Sauer,Undirected,1
+Bjørn,bent,Undirected,1
+Bjørker,Lars Stævnevidne,Undirected,1
+Husbond,Lars Stævnevidne,Undirected,1
+Husbond,Lars,Undirected,1
+Gud,Husbond,Undirected,1
+Berg,Gud,Undirected,1
+Jonas,Malmen,Undirected,1
+Jonas,græt,Undirected,1
+Bjørn,Sauen,Undirected,1
+Ingrid,jøje,Undirected,1
+Bjørn risted,Johannes,Undirected,1
+Enger,Oppaa,Undirected,1

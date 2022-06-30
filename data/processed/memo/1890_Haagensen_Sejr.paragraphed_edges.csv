@@ -1,0 +1,243 @@
+source,target,type,weight
+Britania,Isak,Undirected,4
+Britania,Didrik,Undirected,3
+Didrik,Robert Engelskmand,Undirected,1
+Robert,Robert Engelskmand,Undirected,1
+Ole,Sigvart,Undirected,43
+Ivar,Ole,Undirected,76
+Didrik,Ole,Undirected,2
+Didrik,Ivar,Undirected,1
+Didrik,Thommes,Undirected,3
+Hellenius,Thommes,Undirected,2
+Hellenius,Kari,Undirected,2
+Kari,Thommes,Undirected,2
+Gud,Kari,Undirected,2
+Gud,Thommes,Undirected,1
+Didrik,Kari,Undirected,33
+Gubbe,Kari,Undirected,1
+Gubben,Kari,Undirected,1
+Didrik,Karl,Undirected,2
+Sigvart,Thommes,Undirected,1
+Didrik,Kari Hellenius,Undirected,1
+Kari,Sigvart,Undirected,9
+Didrik,Madrats,Undirected,1
+Didrik,Sigvart,Undirected,10
+Didrik,Kyndelmisse,Undirected,2
+Didrik,Flan,Undirected,1
+Flan,Kari,Undirected,1
+Didrik,Gutten,Undirected,6
+Kari,Robert Engelskmand,Undirected,1
+Didrik Letmatros,Robert Engelskmand,Undirected,1
+Didrik Letmatros,Robert,Undirected,1
+Else,Liun,Undirected,2
+Else,Kari,Undirected,8
+Didrik,Else,Undirected,22
+Else,Gutten,Undirected,12
+Gutten,Kari,Undirected,2
+Else,Sejr,Undirected,96
+Gutten,Sigvart,Undirected,3
+Else,Sigvart,Undirected,40
+Else,Hundem,Undirected,1
+Guts,Hundem,Undirected,1
+Eden,Else,Undirected,1
+Didrik,Eden,Undirected,1
+Else,Niels,Undirected,29
+Else,Vira,Undirected,2
+Didrik,Isak,Undirected,9
+Britania,Gutten,Undirected,2
+Blinka,Else,Undirected,6
+Sejr,Sigvart,Undirected,11
+Else,Ole,Undirected,32
+Didrik,Sejr,Undirected,2
+Blinka,Sigvart,Undirected,2
+Niels,Sigvart,Undirected,60
+Niels,Ole,Undirected,141
+Ivar,Jørgen,Undirected,55
+Gutten,Niels,Undirected,2
+Niels,Vira,Undirected,21
+Niels-,Ole,Undirected,1
+Niels,Niels-,Undirected,1
+Jørgen,Sigvart,Undirected,5
+Graad,Sigvart,Undirected,2
+Graad,Niels,Undirected,2
+Ivar,Niels,Undirected,22
+Jørgen,Niels,Undirected,21
+Jørgen,Ole,Undirected,54
+Ivar,Sia,Undirected,1
+Ingrid,Sigvart,Undirected,2
+Ingrid,Niels,Undirected,1
+Niels Flid,Ole,Undirected,1
+Niels,Roers,Undirected,1
+Ivar,Roers,Undirected,1
+Mikkelsdag,Ole,Undirected,1
+Ole,Stine,Undirected,21
+Stine,justements,Undirected,1
+Ole de,justements,Undirected,1
+Niels,Stine,Undirected,4
+Niels,Oddere,Undirected,1
+Ivar,Oddere,Undirected,1
+Ivar,Sigvart,Undirected,15
+Sigvart,Storbaad,Undirected,1
+Paulun,Sigvart,Undirected,2
+Moer,Sigvart,Undirected,1
+John,Sigvart,Undirected,12
+Ing.,Sigvart,Undirected,1
+Glads,Sigvart,Undirected,3
+Sigvart,grant,Undirected,1
+John,Niels,Undirected,2
+Sigvart,Vira,Undirected,2
+Kjære,Sigvart,Undirected,3
+Ing,Niels,Undirected,31
+Ing,Ivar,Undirected,3
+Else,Else geraader,Undirected,2
+Else,Gud,Undirected,5
+Else,Evlsc,Undirected,1
+Blinka,Sejr,Undirected,1
+Blinka Sigvartsen,Sejr,Undirected,1
+Gud,Ole,Undirected,2
+Blinka,Ole,Undirected,1
+Niels,Sejr,Undirected,38
+Niels,Skakke,Undirected,1
+Sejr,Vira,Undirected,1
+Stine,Stinemo,Undirected,1
+Jørgen,dalvar,Undirected,1
+Ivar,dalvar,Undirected,1
+Else,Gry,Undirected,2
+Blink,Sejr,Undirected,1
+Didrik,Niels,Undirected,4
+Didrik,ban,Undirected,2
+Ole,Sejr,Undirected,6
+PJses,Sejr,Undirected,1
+Else,Flise,Undirected,1
+Ing,Sejr,Undirected,2
+Ing,Sigvart,Undirected,30
+Faders,John,Undirected,1
+Fa’,John,Undirected,2
+Blink,Ing,Undirected,1
+Blink,John,Undirected,1
+John,Sejr,Undirected,2
+Else,bg,Undirected,2
+Gut,ten,Undirected,1
+Jupiter,Niels,Undirected,2
+Niels,aarelang,Undirected,1
+Seir,Sejr,Undirected,1
+Niels,Niels’,Undirected,9
+Joseph,Niels,Undirected,2
+Benjamin,Joseph,Undirected,2
+Bohave,Niels,Undirected,1
+Bohave,Else,Undirected,1
+Mercur,Niels,Undirected,2
+Niels,f,Undirected,1
+Niels,j.,Undirected,1
+j,j.,Undirected,1
+Niels,bun,Undirected,1
+Fata Morganas,Joseph,Undirected,1
+Fata Morganas,Niels,Undirected,1
+Niels,j,Undirected,1
+Vira,j,Undirected,1
+Niels’,Sigvart,Undirected,2
+Ing,Moer,Undirected,2
+Ing,Ingrid,Undirected,2
+Blink,Niels,Undirected,1
+Fa,Niels,Undirected,1
+Faers,Niels,Undirected,1
+Faers,Moer,Undirected,1
+Fader,Niels,Undirected,1
+Ing.,John,Undirected,1
+JJørgen,Jørgen,Undirected,1
+Ivar,ningen,Undirected,1
+Jørgen den tause,ningen,Undirected,1
+Jørgen den tause,j,Undirected,1
+Ole,j,Undirected,1
+Ing,Ole,Undirected,8
+Jens,Jens’,Undirected,1
+Jens,Sejr,Undirected,3
+Jens,sagdejens,Undirected,1
+Jens,Sigvart,Undirected,1
+Gud,Sigvart,Undirected,1
+Ole,Vira,Undirected,1
+Ivar,Petersen,Undirected,1
+Blem,Petersen,Undirected,1
+Hr. Biem,Ivar,Undirected,2
+Ole,beO,Undirected,1
+Hr. Biem,PortI,Undirected,1
+Bjarke,Niels,Undirected,1
+Bjarke,Rolf,Undirected,1
+Hr. Biem,Sigvart,Undirected,1
+Sigvart,j,Undirected,2
+Blink,Jørgen,Undirected,1
+Alfons,Jean,Undirected,6
+Alfons,Sejr,Undirected,1
+Alfons,Reaumur,Undirected,1
+Jean,Reaumur,Undirected,1
+Alfons,Jean —,Undirected,2
+Jakob,Rasmus Skeløje,Undirected,1
+Daniel,Rasmus Skeløje,Undirected,2
+Benjamin,Rasmus Skeløje,Undirected,3
+Helene,Nora,Undirected,1
+Fanny —,Helene,Undirected,1
+Fanny —,Ing,Undirected,1
+Else,Hr. Biem,Undirected,1
+Hr. Biem,Sejr,Undirected,1
+Gud,Niels,Undirected,3
+Niels’,Ole,Undirected,2
+Else,Flan,Undirected,1
+Britania,Flan,Undirected,1
+Gud,nam,Undirected,2
+Ing.,Niels,Undirected,2
+Ing,Ing.,Undirected,1
+Else,Gut,Undirected,1
+Ole,Sanctehans,Undirected,1
+Sanctehans,Stine,Undirected,2
+Else,Niels’,Undirected,1
+Niels,Vibens,Undirected,1
+Niels’,Sejr,Undirected,2
+Ing,Mo’,Undirected,1
+Mo’,Sigvart,Undirected,1
+Ing. Sigvart,Sigvart,Undirected,1
+Niels,^Sigvart,Undirected,1
+Niels,Niels saa,Undirected,1
+Ing,John,Undirected,1
+Else,Ing,Undirected,4
+Else,Jørgen,Undirected,1
+Didrik,Jan Didrik,Undirected,1
+Didrik,Jansen,Undirected,1
+Gud,Gutten,Undirected,1
+Else,bo,Undirected,1
+Sejr,bo,Undirected,1
+Else,Graad,Undirected,1
+Else,Niels Ven,Undirected,1
+Niels Ven,Ole,Undirected,1
+Jørgen,Seir,Undirected,1
+Seir,Sigvart,Undirected,1
+J,Sigvart,Undirected,1
+Jørgen,saade,Undirected,1
+Flaadens,Niels,Undirected,1
+Niels,vorses,Undirected,1
+Jørgen,vorses,Undirected,1
+Jør,Jørgen,Undirected,1
+Jør,Ole,Undirected,1
+Hjejlen,Niels,Undirected,2
+Sejr,Sømanden,Undirected,1
+Sigvart,Somme,Undirected,1
+John,Somme,Undirected,1
+Mae,Ole,Undirected,1
+EIse,Else,Undirected,1
+John,jeS,Undirected,2
+Gud,John,Undirected,1
+Ing,J,Undirected,1
+Gud,aarie,Undirected,1
+Blink,Jens,Undirected,4
+Else,Ivar,Undirected,2
+Else,Flun,Undirected,1
+Else,Jansen,Undirected,1
+Gud,Ing,Undirected,1
+Gud,Sejr,Undirected,1
+Else,Kjærestens,Undirected,1
+Else,olks,Undirected,1
+Else,sanddru,Undirected,1
+Jørgen,Sejr,Undirected,1
+Glads,Ing,Undirected,1
+Sigvart,tralalalala,Undirected,1
+tralalalala,tralalalalalalalala,Undirected,1
+Jørgen,Niels’,Undirected,1

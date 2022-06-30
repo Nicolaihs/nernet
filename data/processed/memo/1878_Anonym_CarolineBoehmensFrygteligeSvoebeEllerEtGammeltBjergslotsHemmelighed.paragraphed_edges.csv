@@ -1,0 +1,371 @@
+source,target,type,weight
+Michel,freu,Undirected,1
+Stephane,eg,Undirected,1
+Michel,Tajatscho,Undirected,7
+EichcnhortstS,Tajatscho,Undirected,2
+Graad,hnn,Undirected,1
+Tajadscho,Tajatscho,Undirected,1
+Gjerningsmauden,Tajadscho,Undirected,1
+Radetzky,Wendelin,Undirected,1
+Andracs,Wendelin,Undirected,1
+Andrae,Stephano,Undirected,17
+Andrae,Michel,Undirected,4
+Michel,Wendelin,Undirected,1
+Frokosf,Stephano,Undirected,1
+Frokosf,Wendelin,Undirected,1
+Kranan,Wendelin,Undirected,1
+Abraham Hirsch,Wendelin,Undirected,1
+Greven,Tajatscho,Undirected,6
+Berten,Greven,Undirected,1
+Berten,nn,Undirected,1
+Tajatscho,nn,Undirected,4
+Michel,Radetzky,Undirected,1
+Knno,Radetzky,Undirected,1
+Knno,Tajatscho,Undirected,2
+Kuno,Radetzkh,Undirected,1
+Grev Radetzkys Slot,nn,Undirected,1
+EichenhorstS,nn,Undirected,1
+EichenhorstS,Eugenia,Undirected,1
+Caroline,Nadetzky,Undirected,1
+Eugenia,hnn,Undirected,6
+Eugenia,von Eichenhorst,Undirected,1
+Barønens,hnn,Undirected,1
+Caroline,Tajatscho,Undirected,7
+Caroline,hnn,Undirected,7
+Comtessen,Hain,Undirected,1
+Comtessen,Wolf,Undirected,2
+Comtessen,Eugenia,Undirected,1
+Edmund,Eugenia,Undirected,3
+Tajatscho,Wolf,Undirected,5
+Hugo,Tajatscho,Undirected,51
+Andrac,Tajatscho,Undirected,3
+Andrac,Michel,Undirected,1
+Blichet,Tajatscho,Undirected,1
+Blichet,rysfe,Undirected,1
+Andrae,Hugo,Undirected,8
+Andrae,Tajatscho,Undirected,40
+Jutta von Wilden,von Wilden,Undirected,1
+EichenhorstS,von Wilden,Undirected,1
+ester Midnat,fror,Undirected,1
+Eden,Tajatscho,Undirected,3
+Eden,Michel,Undirected,1
+Hugo,Jutta,Undirected,5
+Hngo,Michel,Undirected,1
+Hngo,Tajatscho,Undirected,20
+Andrae,skjælmsk,Undirected,1
+Andrae,EugeniaS,Undirected,1
+Eugenia,Tajatscho,Undirected,8
+Engcnia,hnn,Undirected,4
+Edmund,hnn,Undirected,1
+Edmund,Wolf,Undirected,1
+Engenia,Faders,Undirected,1
+Eugeuia,Wolf,Undirected,1
+Eugenia,Wolf,Undirected,3
+Edmund von Sternfeld,Eugenia,Undirected,1
+Ester Euginias,Wolf,Undirected,1
+Grev Camillo von Dona,Wolf,Undirected,1
+Franzisko,Grev Camillo von Dona,Undirected,1
+Franzisko,Skovridder Grnmphow,Undirected,1
+Hugo,Michel flynder,Undirected,1
+Greven,Michel flynder,Undirected,1
+Jutta,Michel,Undirected,1
+Hugo,Michel,Undirected,5
+Hugo,nn,Undirected,2
+Jutta,hnn,Undirected,1
+Jutta,stornier,Undirected,1
+Hugo fav,Jutta,Undirected,1
+Hngo,nn,Undirected,1
+Michel,Stephano,Undirected,3
+Hugo,Stephano,Undirected,2
+Andrae,Engenia,Undirected,2
+Engenia,Tajatscho,Undirected,6
+Tajatscho,ilfe,Undirected,1
+Engenia,ilfe,Undirected,1
+Caroline,frein,Undirected,1
+Andrae,Tajalscho,Undirected,2
+Andrae,AndraeS,Undirected,1
+AndraeS,Tajalscho,Undirected,1
+Engenia,Tajalscho,Undirected,1
+Engenia,hnn,Undirected,2
+Tajatscho,hnn,Undirected,4
+Andrae,kaldfe de Hugo,Undirected,1
+Andrae,Hngo,Undirected,1
+Andrae,Dn,Undirected,3
+Andrac,Tajatseha,Undirected,1
+Schack,Tajalscho,Undirected,1
+Hugo,Schackspil,Undirected,1
+Hngo,Tajalscho,Undirected,1
+Hngo,henrindc,Undirected,1
+Tajatscho,tom,Undirected,1
+Hugo,hnn,Undirected,1
+Dn,Hugo,Undirected,1
+Hugo,Tajatsch,Undirected,1
+Ieg,Tajatscho,Undirected,1
+Hngo,Ieg,Undirected,1
+Kathrina,hnn,Undirected,3
+Frøken,hnn,Undirected,1
+Engenia,Kathrina,Undirected,3
+Greven,hnn,Undirected,1
+Greven,von Wilden,Undirected,2
+Eugenia,Wilden,Undirected,1
+Eugenia,Greven,Undirected,1
+Eugenia,Madonnas,Undirected,1
+Eugenia,Kathrina,Undirected,6
+Eugenia,Hnn,Undirected,1
+Hnn,hnn,Undirected,2
+,Ieg,Undirected,1
+,Kathrina,Undirected,1
+Kathrina,Kathriua,Undirected,1
+Edmnnd,Engenia,Undirected,1
+Edmnnd,Kathrina,Undirected,1
+Engenia,Sternfeld,Undirected,1
+Edmund von Sternfeld,Sternfeld,Undirected,1
+Edmund,Gud,Undirected,1
+Eugenia lav,Kalhrina,Undirected,1
+Kalhrina,Kathrina,Undirected,1
+Kathrina,Wilden,Undirected,1
+Eugenia,Madonna,Undirected,1
+Kathrina,Wolf,Undirected,4
+Wilden,Wolf,Undirected,1
+Kathrina,fhi,Undirected,1
+Caroline,fhi,Undirected,1
+Hngo,Øe,Undirected,1
+Wilden,Øe,Undirected,1
+EichenhorslS,Kranan,Undirected,1
+Radetzky,Tajatscho,Undirected,2
+von Sternfeld,von Sternseld,Undirected,1
+Exempel Malevsky,Hngo,Undirected,1
+Dn,Hngo,Undirected,1
+Hngo,Knn,Undirected,1
+Caroline,Knn,Undirected,1
+Hain,Nn,Undirected,1
+Hain,von Wilden,Undirected,1
+Greven,Tajatscha,Undirected,1
+Radelzky,Tajatscho,Undirected,1
+Radelzky,øg,Undirected,1
+Greven,Herr von Sternfeld,Undirected,1
+Caroline,Hngo,Undirected,6
+Hain,Hugo,Undirected,2
+Grev Nadetzky,Laritz,Undirected,1
+Hugo,Nadetzky,Undirected,1
+Caroline,Hugo,Undirected,18
+Dn,Sofie,Undirected,1
+Caroline,Dn,Undirected,1
+Caroline,Moller,Undirected,3
+Caroline,Miu,Undirected,1
+Caroline,Eichenhorst,Undirected,1
+Hngo,hnn,Undirected,1
+Greven,Wolf,Undirected,4
+Greven,Wols,Undirected,2
+Henrik,Tajatchos,Undirected,1
+Henrik,Wolf,Undirected,1
+Henrik,meo,Undirected,1
+Dn,Greven,Undirected,1
+Greven,Henrik,Undirected,1
+Andrae,Henrik,Undirected,5
+Andrae,Tajatchos,Undirected,1
+Tajatchos,Wolf,Undirected,1
+Henrik,reisfe Wolf,Undirected,1
+Gud,Wolf,Undirected,1
+Andrae,Wolf,Undirected,4
+Engenia,Henrik,Undirected,1
+Andrae,Kathrina,Undirected,3
+Andrae,nn,Undirected,4
+Andrae,Greven,Undirected,1
+Greven,Tajotscho,Undirected,1
+Henrik,Tajotscho,Undirected,1
+Henrik,Kathrina,Undirected,1
+Andrae,Hnn,Undirected,1
+KamerattzrS,Wolf,Undirected,2
+Andrae,Witkow,Undirected,4
+Mering,Witkow,Undirected,1
+Andrae,ester,Undirected,1
+Møller Mering,Stephano,Undirected,1
+Mering,von Wilden,Undirected,1
+Andrae,Hngo reisfe,Undirected,1
+Knno,von Wilden,Undirected,1
+Dragonen,Greven,Undirected,1
+Stephano,nn,Undirected,1
+Stephano,Tajatscho,Undirected,5
+Andrae,Ben,Undirected,1
+Ben,Kuno,Undirected,1
+Michel,Wittkow,Undirected,1
+Wittkow,lange Michel,Undirected,1
+Gud,Kuno,Undirected,1
+Andrae,Mcring,Undirected,1
+Andrae,Ester,Undirected,1
+Hugo,Moller,Undirected,1
+Comtesse Radetzky,Eugenia,Undirected,1
+Caroline,Eugenia,Undirected,3
+Caroline,Skovridders,Undirected,1
+Caroline,von EichenhorstS,Undirected,1
+Gud,Hugo,Undirected,1
+Cn,Moller,Undirected,1
+Caroline,Cn,Undirected,1
+Caroline,Edmund von Sternfeld,Undirected,1
+Hugo,Tdjalscho,Undirected,1
+,Max,Undirected,5
+Max,Tajatscha,Undirected,1
+Max,Tajatscho,Undirected,15
+Hugo,Voxne,Undirected,1
+Oxer,Radetzky,Undirected,1
+Greven,Mølleren,Undirected,1
+Greven,Gud,Undirected,1
+Stephans,Wolf,Undirected,1
+Tajatscho,oni,Undirected,1
+Stephano,oni,Undirected,1
+Michel,Witkow,Undirected,4
+Stephano,elkr,Undirected,1
+Møller,Stephano,Undirected,1
+Jakob,Michel,Undirected,1
+Henrik,Tajatscho,Undirected,4
+Stephans,Tajatscho,Undirected,2
+Hngo,Hugo,Undirected,2
+Andrae,David,Undirected,1
+Andrae,Kuno,Undirected,1
+Kuno,Michel,Undirected,1
+Andrae,Hugo slal,Undirected,1
+Andrae,Stephans,Undirected,1
+Wendclin,cr,Undirected,1
+Grev Radetzky,Wendelin,Undirected,1
+Tajatscho,Wendelin,Undirected,9
+Greven,Wcndelin,Undirected,2
+Greven,dein,Undirected,1
+Wendelin,dein,Undirected,1
+Andrae,Dumrian,Undirected,1
+Maria Theresia,Tajatscho,Undirected,1
+Greven,Wendelin,Undirected,1
+Andrae,Gud,Undirected,1
+Gud,Wendelin,Undirected,1
+Gundel,Wendelin,Undirected,1
+Andrae,Gundel,Undirected,1
+Joseph,Maria,Undirected,1
+Maria,Tajatscho,Undirected,2
+Greven,ab,Undirected,1
+Comtessen,Engenia,Undirected,1
+Edmnnd von Sternfeld,Eugenia,Undirected,1
+Comtessen,hnn,Undirected,2
+Comtesse,hnn,Undirected,1
+Comtessen,Edmnnd,Undirected,1
+Comtessen,Hnn,Undirected,1
+Eugeuia,endnn,Undirected,1
+endnn,hnn,Undirected,1
+Eugcnias,Tajatscho,Undirected,1
+Edmund,Tajatscho,Undirected,1
+Caroline,Engenia,Undirected,1
+Eugenia,Eugenia fom,Undirected,1
+Cdmnnd,hnn,Undirected,1
+Caroline,Cdmnnd,Undirected,1
+Caroline,TajalschoS,Undirected,1
+Edmnnd,hnn,Undirected,1
+Bandit,Edmnnd,Undirected,1
+Hngo,Hngo Tajatscho,Undirected,1
+Hngo Tajatscho,Max,Undirected,1
+Hugo,Porcelains,Undirected,1
+Engenia,Tajatscho Hngo,Undirected,1
+Sytie,Wendelin,Undirected,1
+Gnndel,Wendelin,Undirected,1
+Tajalscho,nn Andrae,Undirected,1
+Eugenia,nn Andrae,Undirected,1
+Tajalscho,hnn,Undirected,1
+Andrae,Edmund,Undirected,1
+Comtessen,Tajalscho,Undirected,1
+Eugenia,Tajalscho,Undirected,1
+Herman dad,Wendelin,Undirected,1
+Andrae,Wendelin,Undirected,1
+Tajatscho,al,Undirected,1
+Alan,al Comtessen,Undirected,1
+Radekzkh,von Wilden,Undirected,1
+Greven,Kuno,Undirected,3
+Abedisen,von Wilden,Undirected,1
+Abedisen,Greven,Undirected,1
+Hugo,von Wilden,Undirected,1
+Eichenhorst,Tajatscho,Undirected,1
+Maria,hnn,Undirected,1
+Braad,kim,Undirected,1
+Nadetzky,Tajatscho,Undirected,1
+Samuel,Tajatscho,Undirected,4
+Hugo,lange Michel,Undirected,2
+Tajatscho,iveien,Undirected,1
+Hugo,iveien,Undirected,1
+Tajalscho,Tajatscho,Undirected,2
+Michel,Samuel,Undirected,2
+Andrae,Samnel,Undirected,1
+Max,Samnel,Undirected,1
+Max,Michel,Undirected,6
+Tajatscho,von Wilden,Undirected,3
+hnn,von Wilden,Undirected,1
+Eichenhorst,hnn,Undirected,1
+Grande,hanø,Undirected,1
+Engenia,Hugo,Undirected,1
+Hugo baaret,Tajatscho,Undirected,1
+Hugo baaret,hnn,Undirected,1
+Hngo,Maxes,Undirected,1
+Engenia,Maxes,Undirected,1
+Caroline,Engeuia,Undirected,1
+Andrae,Eugenia,Undirected,2
+Max,Stephano,Undirected,1
+Dirk,Max,Undirected,1
+Dirk,Tajatscho,Undirected,1
+Andrae,grande,Undirected,1
+Eugenia,grande,Undirected,1
+Hugo,dein,Undirected,1
+Henrik,Hugo,Undirected,2
+Hugo,frods,Undirected,1
+Jutta,von Wilden,Undirected,1
+Hugo,Samuel,Undirected,6
+Hngo,Samuel,Undirected,2
+Hugo,Samnel,Undirected,2
+Samnel,Samuel,Undirected,1
+Greven,Hugo,Undirected,1
+Max,lange Michel,Undirected,1
+Hugo,Tajalscho,Undirected,2
+Max,Samuel,Undirected,4
+Bndweis,Samuel,Undirected,1
+Bndweis,Hugo,Undirected,1
+Samuel,hnn,Undirected,1
+Budweis,Max,Undirected,1
+Stephano,j strax,Undirected,1
+ester,j strax,Undirected,1
+Max,ester,Undirected,1
+Jutta,Kusken,Undirected,1
+Jutta,Papa,Undirected,3
+Jutta,Tasfen,Undirected,1
+Heinrich,Jutta,Undirected,1
+Hugo,nneb,Undirected,1
+Jutta,nneb,Undirected,1
+Anette,Jutta,Undirected,1
+Friherren,Hugo,Undirected,2
+Hugo,øgsaa,Undirected,1
+Andrae,raabfe,Undirected,1
+Andreas Schober,Jonas Ladislav,Undirected,1
+Anton Feigerle,Jonas Ladislav,Undirected,1
+Anton Feigerle,Steiermark,Undirected,1
+Andreas,Jonas,Undirected,1
+Anton,Jonas,Undirected,1
+Anton,Tajatscho,Undirected,1
+Grev Radetzkys Slot,Tajatscho,Undirected,1
+Andreas,Tajatscho,Undirected,1
+Tajatscho,Wilkow,Undirected,1
+Andreas,Wilkow,Undirected,1
+Andreas,nn,Undirected,1
+Andrae,snege Tajatscho,Undirected,1
+Kuno,Tajatscho,Undirected,1
+Andrae,Herr von Saldern,Undirected,1
+Overvagtmcstercn,Tajatscho,Undirected,1
+Tajatscho,sknlde,Undirected,1
+Kuno,von Wilden,Undirected,1
+Hugo,traadfe,Undirected,1
+traadfe,traadfe Diderik,Undirected,1
+Diderik,Hugo,Undirected,1
+Hngo,Jutta,Undirected,1
+Hugo,Julta,Undirected,1
+Jutta,Tajatscho,Undirected,1
+Filureri,Hugo,Undirected,1
+Heinrich,Hugo,Undirected,1
+Hugo,øg Tajatscho,Undirected,1
+Andrae,øg Tajatscho,Undirected,1
+Gud,hnn,Undirected,1
+Hugo,von WildenS,Undirected,1
+Hugo,Saar,Undirected,1
+Saar,Steile,Undirected,1

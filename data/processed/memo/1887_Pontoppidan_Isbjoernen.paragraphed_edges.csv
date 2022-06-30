@@ -1,0 +1,36 @@
+source,target,type,weight
+Lars,Povlsen,Undirected,1
+Hr. Muller,Lars,Undirected,1
+Bams,Thorkild,Undirected,1
+Ephraim,Thorkild,Undirected,1
+Ephraim,Rebekka,Undirected,1
+Rebekka,gluffe,Undirected,1
+Rebekka,Thorkild,Undirected,1
+Thorkild,muntre,Undirected,1
+Kristoffer Birch,Peter Brammer,Undirected,1
+Anton Hansen,Kristoffer Birch,Undirected,1
+Guds,Thorkild,Undirected,1
+Guds,græch,Undirected,1
+Thorkild,græch,Undirected,1
+Kristoffer Birch,Thorkild Mullers,Undirected,1
+Jesus,Thorkild,Undirected,1
+Luther,Melanchton,Undirected,2
+Kapellan Ruggaard,Niels Peder Madsen,Undirected,1
+Ruggaard,Ruggaard-Madsen,Undirected,1
+Madsen-Ruggaard,Ruggaard-Madsen,Undirected,1
+Madsen-Ruggaard,Niels Peder M. Ruggaard,Undirected,1
+N. P. M. Ruggaard,Niels Peder M. Ruggaard,Undirected,1
+Madsen,N. P. M. Ruggaard,Undirected,1
+Madsen,Ruggaard,Undirected,1
+Kapellan Ruggaard,Thorkild Muller,Undirected,5
+Bjørn,Christoffer Birch,Undirected,1
+Antonsen,Thorkild,Undirected,1
+.,hrr,Undirected,1
+Kapellan Ruggaard,skraa,Undirected,2
+Hans,Muller,Undirected,1
+Guds,Thorkild Muller,Undirected,1
+Kapellan Ruggaard,Luther,Undirected,1
+Gud,Thorkild,Undirected,1
+Gud,Mortensen,Undirected,1
+Jakob,Mortensen,Undirected,1
+Mikkelsen,Mortensen,Undirected,1

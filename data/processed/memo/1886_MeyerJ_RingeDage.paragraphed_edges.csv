@@ -1,0 +1,187 @@
+source,target,type,weight
+Johnny,Sultans,Undirected,1
+Dr. Gram,Sands,Undirected,1
+Johnny,Sultan,Undirected,10
+Gram,Johnny,Undirected,4
+Espekjær,Johnny,Undirected,2
+Dr. Gram,Johnny,Undirected,5
+Alexanders,Johnny,Undirected,1
+Dr. Gram,Gud,Undirected,1
+Frue,Gram,Undirected,1
+Frue,Johnny,Undirected,1
+Espekjær,Henrik,Undirected,1
+Ellinor,Henrik,Undirected,8
+Henrik,St. Germain,Undirected,1
+Czar Peter,St. Germain,Undirected,1
+Gud,Wilhelm,Undirected,2
+Espekjær,Jomfru Sophie Magdalene Højer,Undirected,1
+Espekjær,Kong Frederik,Undirected,1
+Bernstorfs,Kong Frederik,Undirected,1
+Johan,Johnny,Undirected,2
+Henrik,Johan,Undirected,2
+Gud,Henrik,Undirected,4
+Gram,Salomons,Undirected,1
+Gram,Peder Nielsens,Undirected,1
+Gram,Per Nielsen,Undirected,1
+Gram,orn,Undirected,1
+Morten,Per Nielsen,Undirected,4
+Gram,Morten Larsen,Undirected,1
+Doktori,Janneme,Undirected,1
+Jane,Maren,Undirected,1
+Døttres,Morten Larsen,Undirected,1
+Døttres,Mette,Undirected,1
+Ane Marie,Mette,Undirected,1
+Ane Marie,Oles,Undirected,1
+Mette,Oles,Undirected,1
+Hilf Mutter,Mette,Undirected,1
+Hilf Mutter,Marie,Undirected,1
+Antonius,Marie,Undirected,1
+Antonius,Jens,Undirected,1
+Jens,Kong Frederik den syvende,Undirected,1
+Kong Frederik den syvende,Mette,Undirected,1
+Jens,Mette,Undirected,1
+Hansine Mortensdatter,Mette,Undirected,1
+Mette,ifjor,Undirected,1
+Gram,Mette,Undirected,1
+Kirsten,Mette,Undirected,2
+Kirsten,lille Mette,Undirected,1
+Kirsten,Morten,Undirected,1
+Asta Thaarup,Henrik,Undirected,3
+Gyldenmund,Rasmus Kristensen,Undirected,1
+Ellinor,Gram,Undirected,3
+Didhen,Henrik,Undirected,1
+Henrik,didhen,Undirected,1
+Hans,Henrik,Undirected,2
+Henrik,Thaarup,Undirected,2
+Fatters,Reseda,Undirected,1
+Asta Thaarup,Ellinor,Undirected,4
+Gram,Henrik,Undirected,4
+Gram,Gyldenmund,Undirected,1
+Astas,Gyldenmund,Undirected,1
+Angul,Dan,Undirected,1
+Angul,Humbles,Undirected,1
+Niels,Niels Kudsk,Undirected,2
+Liljenfelt,Niels,Undirected,1
+Liljenfelt,illein,Undirected,1
+Niels,illein,Undirected,1
+Johnny,Niels Kudsk,Undirected,3
+Ellinor,Niels,Undirected,3
+Johnny,Niels,Undirected,2
+Niels,Sultan,Undirected,2
+Ellinor,Henrik de Witts,Undirected,1
+Ellinor,Johnny,Undirected,6
+Ellinor,Witt,Undirected,2
+Johnny,b.ode,Undirected,1
+Ellinor,Mette,Undirected,2
+Johnny,Mette,Undirected,6
+Mette,Morten Larsen,Undirected,2
+,Johnny,Undirected,1
+Horizonten,Johnny,Undirected,1
+Johnny,Mortensen,Undirected,1
+Graad,Johnny,Undirected,1
+Jahne,Jens,Undirected,1
+Mette,Mortensen,Undirected,1
+Henrik de Witt,Sands,Undirected,1
+Homelie,Sanct Basilius,Undirected,1
+Asta Thaarup,Astas,Undirected,1
+Astas,Ellinor,Undirected,1
+Asta,Henrik,Undirected,6
+Anders Nielsen,Asta,Undirected,1
+Gram,Niels Brand,Undirected,1
+Hans,Moster,Undirected,1
+Asta,Niels Brand,Undirected,2
+Henrik,Niels Brand,Undirected,10
+Frøken Asta,Witt,Undirected,1
+Asta,Niels,Undirected,2
+Asta,Witt,Undirected,1
+Niels,Thaarup,Undirected,2
+Thaarup,Witt,Undirected,1
+Asta,Flun,Undirected,1
+Flun,Niels Brand,Undirected,1
+Per,Povl,Undirected,1
+Niels Brand,Witt,Undirected,3
+Hr. de Witt,Niels Brand,Undirected,1
+Asta,Horizonten,Undirected,1
+Henrik,Niels,Undirected,5
+Henrik,Liljenfelt,Undirected,1
+Niels Brand,Thaarup,Undirected,1
+Henrik,tillive,Undirected,1
+Henrik,Vadmels,Undirected,1
+Henrik,Lars Hansens,Undirected,3
+Hans Larsen,Lars Hansens,Undirected,1
+Hans Larsen,Henrik,Undirected,1
+Henrik,Lars,Undirected,3
+Asta,Hans Brummen,Undirected,2
+Henrik,Johnny,Undirected,2
+Henrik,Tsju,Undirected,1
+Asta,Ellinor,Undirected,1
+Asta,Vaas,Undirected,1
+Asta,caveant consules,Undirected,1
+Henrik,Karlen,Undirected,1
+Henrik,Lotte,Undirected,1
+Per,Witt,Undirected,1
+Per,PoVl,Undirected,1
+Niels,Niels Brand,Undirected,1
+Niels,didhen,Undirected,2
+Niels,Villesen,Undirected,1
+Per,Per Bunkes,Undirected,1
+Per,Søren Hansen,Undirected,1
+Niels Kromand,Per Bunkes,Undirected,1
+Niels,Per Bunkes,Undirected,1
+Frederik,Niels,Undirected,6
+Fredrik,Niels,Undirected,1
+Fredrik,somme,Undirected,1
+Niels,somme,Undirected,1
+Frederik,Per Bunke,Undirected,1
+Per Bunke,Søren Hansen,Undirected,1
+Lars Dal,Søren Hansen,Undirected,1
+Lars,Lars Dal,Undirected,1
+Lars Dal,Niels,Undirected,1
+Niels,geraadede,Undirected,1
+Niels,Niels Kromand,Undirected,1
+Dandsens,Somme,Undirected,1
+Jens,Ygdrasils,Undirected,1
+Thaarup,Ygdrasils,Undirected,1
+Jens,Thaarup,Undirected,1
+Freyr,Gud,Undirected,1
+Gerda,Gud,Undirected,1
+Freyr,Gerda,Undirected,2
+Gerda,Muspelhejms,Undirected,1
+Gud,Muspelhejms,Undirected,1
+Espekjær,Witt,Undirected,1
+Lars Hansen,Niels Brand,Undirected,2
+Lars,Thor,Undirected,1
+Brand,Hr. de Witt,Undirected,1
+Dr. Gram,Niels Brand,Undirected,1
+Niels Brand,Sirat,Undirected,1
+Henrik,Sirat,Undirected,1
+Niels Brand,Søren Hansen,Undirected,1
+Thaarup,de Witt,Undirected,1
+Henrik,perdu,Undirected,1
+Dr. Gram,Henrik,Undirected,2
+Niels Brand,sorn,Undirected,1
+Hans,Hans Larsen,Undirected,1
+Veni,vidi,Undirected,1
+vici,vidi,Undirected,1
+Faunen,Johnny,Undirected,2
+Gud,Johnny,Undirected,2
+Gud,J-,Undirected,1
+J-,LUIL,Undirected,1
+Gram,Lille Johnnys,Undirected,1
+Dr. Gram,Plans,Undirected,1
+Berner Rises,Dr. Gram,Undirected,2
+Mette,Sultan,Undirected,1
+F'olk,Henrik,Undirected,1
+Ellinor,Gud,Undirected,1
+Ellinor,Henrik smaalo,Undirected,1
+Henrik,Thomas,Undirected,1
+Augurer —,Henrik,Undirected,1
+Augurer —,Ellinor,Undirected,1
+Brak,Henrik de Witt,Undirected,1
+Brak,Mergel,Undirected,1
+Mergel,Møller,Undirected,1
+Henrik,Møller,Undirected,2
+Gud,Niels,Undirected,1
+Henrik,Kudsk,Undirected,1
+Kudsk,Thaarup,Undirected,1
+Gud,Kong Salamon,Undirected,1

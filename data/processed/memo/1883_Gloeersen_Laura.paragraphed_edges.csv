@@ -1,0 +1,200 @@
+source,target,type,weight
+Hugo Gerber,Olsen,Undirected,2
+Gerber,Hugo Gerber,Undirected,1
+Gerber,Weidemann,Undirected,6
+Hugo,Tellefsen,Undirected,1
+Olsen,Weidemann,Undirected,1
+Trippel,Weidemann,Undirected,1
+Hugo Gerber,Trippel,Undirected,1
+Hans Olsen,Hugo Gerber,Undirected,1
+Hans Olsen,Pedersen,Undirected,1
+Grethe Weidemanns,Pedersen,Undirected,1
+Ami,Grethe Weidemanns,Undirected,1
+Ami,Grethe Weidemann,Undirected,1
+Hugo Gerber,Weidemann,Undirected,1
+Hugo,Weidemann,Undirected,2
+Hugo,Hugo Gerber,Undirected,2
+Olsen,odden,Undirected,1
+Grethe,Olsen,Undirected,2
+Grethe,kapseilads,Undirected,1
+Gerber,Olsen,Undirected,3
+Emil Zola,Pedersen,Undirected,1
+Grethe Weidemann,Pedersen,Undirected,1
+Grethe,Hugo,Undirected,6
+Gerber,madam Skreiner,Undirected,1
+Hugo,madam Skreiner,Undirected,1
+hugaf,madam Skreiner,Undirected,1
+Olsen,hugaf,Undirected,1
+Grethe,brisen,Undirected,1
+Grethe,Hugo „,Undirected,1
+Olsen,Pedersen,Undirected,1
+Hugo,Olsen,Undirected,3
+Hugo,Laura Henriksen,Undirected,1
+Grethe,Laura Henriksen,Undirected,1
+Laura,Laura Henriksen,Undirected,1
+Laura,madam Skreiner,Undirected,4
+Hugo,Laura,Undirected,14
+Gerber,Guds,Undirected,1
+Olsen,Tellefsen,Undirected,1
+Hugo Gerber,don Juan,Undirected,1
+Hugo,don Juan,Undirected,1
+Hugo,taus,Undirected,1
+Olsen,Trippel,Undirected,3
+Hugo Gerber,Laura Henriksen,Undirected,1
+Grethe,Weidemann,Undirected,3
+Grethe,sorn,Undirected,1
+Grethe,Hugo Gerber,Undirected,5
+Grethe smitle,Hugo Gerber,Undirected,1
+Gerber,Grethe,Undirected,4
+Hugo Gerber,Jad,Undirected,1
+Hugo Gerber,far,Undirected,1
+Gerber,Hugo,Undirected,6
+Grethe,Kristensens,Undirected,2
+Grethe,Huttetu,Undirected,1
+Grethe,Gud,Undirected,4
+Grethe,Kjære,Undirected,1
+Gud,Hugo,Undirected,2
+Grethe,Laura,Undirected,36
+Laura,Laurå,Undirected,2
+Grethe Weidemann,Laura,Undirected,1
+Grethe,Josefine Pedersen,Undirected,5
+Josefine,Josefine Pedersen,Undirected,1
+Grethe,Josefine,Undirected,20
+Grethe,helle,Undirected,1
+Grethe,iveien,Undirected,2
+Grethe,huttetu,Undirected,1
+Grethe,Josefine forte,Undirected,1
+Alen,Josefine,Undirected,1
+Grethe,Maren,Undirected,1
+candidat,liam,Undirected,1
+Grethe,liam,Undirected,1
+Emil Zola,Grethe,Undirected,2
+Laura Henriksen,Olsen,Undirected,1
+Grethe Weidemann,Hugo Gerber,Undirected,1
+Grethe Weidemann,høire,Undirected,1
+Alan,Aline,Undirected,1
+Alan,Felix,Undirected,1
+Faustina,Felix,Undirected,1
+Grethe,raison,Undirected,1
+raison,•J,Undirected,1
+Peder Hansen,madam Skreiner,Undirected,2
+Laura,lian,Undirected,1
+Olsen,lian,Undirected,1
+Laura,Olsen,Undirected,2
+Eline,Peder Hansen,Undirected,1
+Laura,Peder Hansen,Undirected,1
+Gud,Peder Hansen,Undirected,1
+Gud,Laura,Undirected,2
+Laura,Peder,Undirected,1
+Peder,Weidemann,Undirected,1
+Laura,kveld,Undirected,1
+Grethe Weidemann,kauri,Undirected,1
+Grethe AVeidemann,Hugo Gerber,Undirected,1
+Gud,niti,Undirected,1
+Grethe,Tellefsen,Undirected,7
+Eline,Laura,Undirected,2
+Eline,klein,Undirected,2
+Eline,Peder,Undirected,2
+Peder,kvak,Undirected,1
+Laura Henriksen,madam Skreiner,Undirected,1
+H.,jfr. L.,Undirected,1
+Grethe,stakkar,Undirected,2
+Laura,stakkar,Undirected,3
+Grethe,sands,Undirected,1
+Gud,sands,Undirected,1
+Hugo Gerber,Laura,Undirected,1
+Gerber,candidat Gerber,Undirected,1
+Alan,Josefine Pedersen,Undirected,1
+Hugo Gerber,Josefine Pedersen,Undirected,2
+Gerber,Laura,Undirected,4
+Hugo Gerber,stakkar,Undirected,1
+Heine,Josefine Pedersen,Undirected,1
+Heine,Jensen,Undirected,1
+Grethe Weidemann,Josefine Pedersen,Undirected,1
+Grethe Weidemann,Hugo,Undirected,1
+Gerber,Pedersen,Undirected,1
+Hugo,Pedersen,Undirected,1
+lian,liun,Undirected,1
+Gud,jomfru Henriksen,Undirected,4
+Gud,pastor,Undirected,1
+Gud,ban,Undirected,1
+Alen,Gud,Undirected,1
+Gud,Stakkars,Undirected,1
+Hugo,Hugos gamle ven,Undirected,1
+Grethe Weidemann,Tellefsen,Undirected,1
+Candidat Gerber,Tellefsen,Undirected,1
+Candidat Gerber,consul Gerber,Undirected,1
+consul Gerber,consulens,Undirected,1
+consul Gerber,consulen,Undirected,3
+Olaf,consulen,Undirected,1
+Laura,Tellefsen,Undirected,5
+Tellefsen,presten taug,Undirected,1
+frøken Henriksen,presten,Undirected,1
+Gud,Tellefsen,Undirected,2
+Alen,Laura,Undirected,3
+Grethe,Jesus,Undirected,1
+Alin,Tellefsen,Undirected,1
+Grethe,Henrik,Undirected,2
+Aion,baier,Undirected,1
+Grethe,liun,Undirected,1
+Henrik,Laura,Undirected,5
+Laura,Lunde,Undirected,7
+Amalie,Mathilde,Undirected,1
+Grethe,Lunde neste,Undirected,1
+-Laura,Grethe,Undirected,1
+J,a.,Undirected,1
+Laura,tys,Undirected,1
+Laura,kjære,Undirected,1
+Grethe,Lunde,Undirected,3
+Henrik Iler,Laura,Undirected,1
+Stakkars,stakkar,Undirected,1
+Alan,Jensen,Undirected,1
+Jensen,consul Gerber,Undirected,3
+Consulens,consul Gerber,Undirected,1
+Consulens,consulen,Undirected,1
+consulen,kveld,Undirected,1
+Jensen,consulen,Undirected,6
+Laura,hevn,Undirected,1
+Lunde,Tellefsen,Undirected,5
+Bjørnson,Ibsen,Undirected,1
+Bjørnson,consul Gerber,Undirected,1
+consequent,consulen,Undirected,1
+Consulen taug,Jensen,Undirected,1
+.,consul,Undirected,1
+Ole,hr. Jensen,Undirected,1
+Jensen,Ole,Undirected,3
+Ole,smålo,Undirected,1
+Jensen,bo,Undirected,1
+Consulen,consul Gerber,Undirected,1
+Gud,frøken Henriksen,Undirected,1
+Hr. consul,consul,Undirected,1
+consulen,hr. Jensen,Undirected,1
+Jensen,Laura,Undirected,2
+Jensen taug,Laura,Undirected,1
+Laura,consulen,Undirected,2
+consul,høire,Undirected,1
+Alan,consul,Undirected,1
+Jaså,Jensen,Undirected,1
+Aled,Laura,Undirected,1
+Aled,consulen,Undirected,1
+Alen,Gerber,Undirected,1
+Consulen,Jensen,Undirected,1
+Eauras,consul Gerber,Undirected,1
+Grethe,consul Gerber,Undirected,1
+Gud,livor,Undirected,1
+Tellefsen,pleies,Undirected,1
+Alan,Alange,Undirected,1
+Alan,Tellefsen,Undirected,1
+Olsen —,Trippel,Undirected,1
+Olsen —,Weidemann,Undirected,1
+Laura,Trippel,Undirected,2
+Aled,Frøken Henriksen,Undirected,1
+Frøken Henriksen,Trippel,Undirected,1
+Tellefsen,frøken Henriksen,Undirected,1
+hr. Olsens,jomfru Henriksen,Undirected,1
+Laura,soip,Undirected,1
+Gud,soip,Undirected,1
+Alan,Laura,Undirected,1
+Laura,ril,Undirected,1
+Alagdalena,Jesus,Undirected,1
+Gud,Jesus,Undirected,1

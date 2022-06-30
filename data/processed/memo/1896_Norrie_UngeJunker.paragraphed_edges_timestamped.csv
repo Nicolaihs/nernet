@@ -1,0 +1,329 @@
+source,target,timestamp
+Elses,Frøken Else,7
+Aage Junker,Junker,10
+Hr. Junker,Rakel,11
+Kruses,Rakel,11
+Henriksen,Junker,12
+Aage Junker,Kruse,14
+Junker,Storegaards,17
+Junker,Storegaards,17
+Aage Junker,Kusk,21
+Junker,Karlen,24
+Frøken Schrøder,Kruse,43
+Junker,Schrøder,44
+Aage Junker,Schrøder,44
+Junker,Kruse,46
+Junker,Kruse,50
+Junker,Kruse,50
+Junker,Paany,54
+Gud,Henriksen,58
+Jensen,Junker,66
+Frits,Junker,66
+Frits,Junker,66
+Jensen,Junker,67
+Jensen,Junker,67
+Jensen,Junker,71
+Jensen,Junker,72
+Junker,Karlen,78
+Junker,Roes,80
+Junker,Roes,80
+Jensen,Schrøder,82
+Jomfru Schrøder,Junker,85
+Junker,Lise,92
+Jensen,Junker,100
+Jensen,Junker,100
+Junker,Proprietær Kruse,109
+Henriksen,Junker,109
+Henriksen,Jomfru Schrøder,109
+Jomfru Schrøder,Junker,109
+Hr. Junker,Junker,109
+Henriksen,Hr. Junker,109
+Henriksen,Rakel,109
+Jomfru Schrøder,Junker,111
+Junker,Kruse,118
+Jomfru Schrøder,Junker,119
+Junker,Kristine,120
+Galimathias,Kristine,120
+Galimathias,Junker,120
+Junker,Kruse,128
+Junker,fornam,130
+Kruse,hans,132
+Junker,Kruse,132
+Jensen,Junker,134
+Jensen,Junker,134
+Jomfruens,Junker,137
+Junker,Schrøder,139
+Marie,Schrøder,140
+Maren,Schrøder,141
+Kruse,Schrøder,142
+Mads Kusk,Mads Kusks,145
+Junker,Mads Kusk,145
+Junker,Mutter,146
+Cora,Junker,146
+Cora,Mads Kusk,146
+Mads Kusk,Vips,146
+Cora,Vips,146
+Cora,Mads Kusk,146
+Cora,Junker,148
+Kruse,Schrøder,149
+Junker,Schrøder,150
+Mads,Mads Kusk,153
+Jomfru Schrøder,Junker,156
+Jomfru Schrøder,Junker,156
+Junker,Mads Kusk,156
+Gud,Mads Kusk,156
+Henriksen,Junker,157
+Junker,Kruse,159
+Junker,Ulriksen,178
+Frøken Rakel,Ulriksen,178
+Frøken,Junker,180
+Marie,Ulriksen,182
+Anine,Else,183
+Anine,Junker,183
+Else,Ulriksen,184
+Junker,Ulriksen,188
+Junker,Ulriksen,192
+Hr. Røjkjær,Junker,192
+Hr. Røjkjær,Jomfru Schrøder,192
+Anine,Junker,194
+Anine,Rakel,195
+Anine,Junker,196
+Anine,Rakel,196
+Anine,Rakel,196
+Anine,Junker,196
+Junker,Rakel,200
+Anine,Gud,201
+Else,Marie,202
+Anine,Marie,202
+Else,Rakel,204
+Jomfru Schrøder,Junker,205
+Aage Junker,Jomfru Schrøder,209
+Geschichten,Hr. Røjkjær,210
+Geschichten,Gud,210
+Gud,Røjkjær,210
+Junker,Røjkjær,211
+Aare,Junker,216
+Aare,Junker,216
+Junker,Ulriksen,218
+Hr. Røjkjær,Junker,219
+Røjkjær,Toddy,227
+Henriksen,Toddy,227
+Henriksen,Røjkjær,227
+Junker,Røjkjær,227
+Junker,Røjkjær,227
+Junker,Røjkjær,228
+Kruse,Ulriksen,234
+Jomfru Schrøder,Ulriksen,234
+Jomfru Schrøder,Ulriksen,234
+Junker,Ulriksen,234
+Henriksen,Junker,234
+Kruse,Røjkjær,236
+Rakel,Røjkjær,236
+Jomfru Schrøder,Rakel,236
+Jomfru Schrøder,Junker,236
+Junker,Rakel,236
+Junker,Ulriksen,245
+Anine,Jomfru Schrøder,249
+Jomfru Schrøder,Mads Kusk,255
+Junker,Kristine,260
+Kristine,Mads,260
+Jomfru Schrøder,Kruse,264
+Røjkjær,Ulriksen,266
+Røjkjær,Ulriksen,266
+Røjkjær,Ulriksen,266
+Junker,Røjkjær,266
+Junker,Ulriksen,266
+Claret,Ulriksen,266
+Junker,Ulriksen,267
+Junker,Ulriksen,267
+Junker,ulriksenske,268
+Junker,Ulriksen,270
+Junker,Ulriksen,272
+Ulriksen,j,273
+Røjkjær,Ulriksen,273
+Gud,Junker,274
+Røjkjær,Ulriksen,275
+Junker,Ulriksen,276
+Junker,Ulriksen Prangersjæl,276
+Junker,Ulriksen,278
+Junker,Røjkjær,278
+Røjkjær,Ulriksen,278
+Røjkjær,Ulriksen,280
+Junker,Ulriksen,282
+Henriksen,Ulriksen,284
+Junker,Ulriksen,285
+Junker,Ulriksen,286
+Junker,Røjkjær,287
+Junker,Ulriksen,291
+Junker,Ulriksen,291
+Røjkjær,Ulriksen,312
+Junker,Ulriksen,315
+Røjkjær,Ulriksen,317
+Junker,Ulriksen,321
+Junker,Marie,326
+Junker,Ulriksen,328
+Røjkjær,Ulrik Ulriksen,332
+Røjkjær,Ulriksen,334
+Junker,Ulriksen,345
+Junker,Røjkjær,348
+Junker,Ulriksen,348
+Ulriksen,ber,348
+ber,lille Ulriksen,348
+Røjkjær,Ulriksen,349
+Junker,Røjkjær,353
+Junker,allehaande,354
+Ulriksen,allehaande,354
+Jensen,Junker,355
+Jensen,Junker,355
+Jensen,Junker,355
+Else,Junker,365
+Junker,Ulriksen,366
+Røjkjær,Ulriksen,372
+Junker,Ulriksen,376
+Else,Gud,379
+Else,Junker,379
+Junker,berøv,388
+Else,Junker,391
+Junker,Rakel,402
+Graad,Junker,411
+Gud,Junker,415
+Else,Junker,419
+Junker,Ulriksen,420
+Kruse,Ulriksen,420
+Junker,Schrøder,421
+Junker,Schrøder,422
+Hamstrupgaard,Junker,422
+Hamstrupgaard,Junker,422
+Junker,Principals,422
+Else,Principals,422
+Junker,Ulriksen,430
+Mads,Ulriksen,430
+Junker,Ulriksen,431
+Junker,Ulriksen,436
+Junker,Ulriksen,438
+Junker,Ulriksen,439
+Junker,Ulriksen,441
+Junker,Ulriksen,442
+Junker,Ulriksen,446
+Junker,Ulriksen,450
+Junker,Ulriksen,452
+Aage Junker,Junker,452
+Junker,Røjkjær,455
+Else,Røjkjær,455
+Junker,Røjkjær,456
+Junker,Røjkjær,457
+Hr. Røjkjær,Røjkjær,461
+Aage Junker,Hr. Røjkjær,461
+Jæ,Røjkjær,465
+Jomfru Schrøder,Røjkjær,465
+Jomfru Schrøder,Ulriksen,465
+Junker,Røjkjær,468
+Junker,Røjkjær,469
+Junker,Røjkjær,473
+Junker,Røjkjær,474
+Junker,Røjkjær,477
+Røjkjær,Ulriksen,485
+Junker,Ulriksen,485
+Jomfru Schrøder,Junker,487
+Jomfru Schrøder,Røjkjær,488
+Røjkjær,Ulriksen,488
+Schrøder,Ulriksen,488
+Huskors,Schrøder,488
+Røjkjær,Ulriksen,496
+Junker,Kruse,505
+Jomfru Schrøder,Junker,505
+Jomfru Schrøder,Junker,505
+Røjkjær,Ulriksen,506
+Junker,Schrøder,507
+Schrøder,Ulriksen,508
+Junker,Schrøder,508
+Jomfru Schrøder,Junker,508
+Junker,Ulriksen,509
+Junker,Røjkjær,510
+Røjkjær,Ulriksen,522
+Junker,Ulriksen,522
+Junker,Schrøder,523
+Junker,Kruse,528
+Junker,Kruse,528
+Henriksen,Junker,529
+Else,Henriksen,529
+Else,Rakel,529
+Marie,Rakel,529
+Henriksen,Junker,530
+Else,Junker,530
+Else,Junker,530
+Else,Junker,530
+Else,grant,530
+Else,Junker,531
+Aage Junker,Else,532
+Else,Rakel,535
+Else,Rakel,535
+Else,Rakel,536
+Junker,Kruse,538
+Henriksen,Kruse,539
+Anine,Else,541
+Anine,Else,541
+Junker,Rakel,542
+Frøken Knudsen,Rakel,544
+Else,Junker,545
+Hokuspokus,Junker,545
+Junker,Rakel,549
+Else,Rakel,549
+Aage Junker,Else,558
+Anine,Rakel,570
+Anine,Gud,573
+Anine,Else,588
+Else,Junker,588
+Elsemo,erl,589
+Anine,Else,590
+Anine,Junker,594
+Anine,Rakel,597
+Anine,Junker,600
+Kruse,Rakel,611
+Kruse,Rakel,613
+Jomfru Schrøder,Junker,615
+Junker,Rakel,617
+Junker,Rakel,618
+Else,Rakel,620
+Junker,Rakel,620
+Anine,Else,621
+Anine,Rakel,621
+Junker,Rakel,623
+Junker,kaad,624
+Else,Junker,626
+Else,Marie,633
+Else,lians,638
+Junker,Rakel,639
+Junker,Marie,639
+Anine,Marie,639
+Røjkjær,Ulriksen,641
+Jomfru Schrøder,Kruse,642
+Junker,Kruse,642
+Junker,Rakel,643
+Aage Junker,Rakel,644
+Anine,Junker,648
+Anine,Junker,654
+Else,Marie,661
+Else,Junker,673
+Junker,Marie,675
+Marie,Ulriksen,675
+Junker,Ulriksen,680
+Junker,Ulriksen,681
+Else,Rakel,685
+Junker,Rakel,685
+Else,Rakel,696
+Else,Junker,697
+Junker,Kruse,697
+Junker,Røjkjær,710
+Junker,Røjkjær,726
+Aage Junker,Røjkjær,731
+Junker,Proprietær Kruse,732
+Jomfru Schrøder,Proprietær Kruse,736
+Else,Røjkjær,739
+Junker,Røjkjær,742
+Aage Junker,Hanne,747
+Aage Junker,Junker,750
+Aage Junker,Røjkjær,753
+Henriksen,Junker,754
+Aage,Junker,757
+Junker,Mathilde,757

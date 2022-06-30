@@ -1,0 +1,498 @@
+source,target,type,weight
+Tu,Vilhelm,Undirected,4
+Eugenik,Tu,Undirected,1
+Eugenie,Vilhelm,Undirected,7
+Marie,Vilhelm,Undirected,47
+Marie,d ' Engcourt,Undirected,2
+' Engcourt,d ' Engcourt,Undirected,1
+' Engcourt,bendeS,Undirected,1
+Vilhelm,hnn,Undirected,3
+Naadcs,Vilhelm,Undirected,1
+Henrik,Vilhelm,Undirected,41
+Frøken Nørsholm,Henrik,Undirected,1
+Henrik,Marie,Undirected,93
+Apollo,Marie,Undirected,1
+' Engcourt,Asten,Undirected,1
+' Engcourt,Vilhelm,Undirected,1
+Vilhelm,helsf,Undirected,1
+Henrik,helsf,Undirected,1
+Henrik,sif,Undirected,1
+Frøken Nørsholm,sif,Undirected,1
+Frøken NørSholm,Henrik,Undirected,2
+Blaa,Henrik,Undirected,1
+,Marie,Undirected,1
+Frøken NørSholm,Tet,Undirected,1
+Marie,bans,Undirected,1
+bans,dans,Undirected,1
+Ester,dans,Undirected,1
+Henrik,ban,Undirected,7
+Marie,bun,Undirected,8
+Marie,Tu,Undirected,14
+Tu,nl,Undirected,1
+lroloS,nl,Undirected,1
+Tu,ester,Undirected,1
+Henrik,Tu,Undirected,23
+Vilhelm taug,el,Undirected,1
+Gokl,el,Undirected,1
+Gokl,ban,Undirected,1
+' Engcourt,Henrik,Undirected,2
+Vilhelm,ester,Undirected,2
+Henrik taug,ester,Undirected,1
+Vilhelm,eg,Undirected,1
+Orv,eg,Undirected,1
+Henrik,Orv,Undirected,1
+Vilhelm,ban,Undirected,3
+Compas,Vilhelm,Undirected,1
+scm,sisfe,Undirected,1
+Ester Badecuren,Marie,Undirected,1
+HenrykkeIse,Marie,Undirected,1
+Marie,fransfe Marquis,Undirected,2
+Marie,Marquis,Undirected,2
+Marie,Marquis d,Undirected,1
+' Engcourt,Marquis d,Undirected,1
+' Engcourt,eg,Undirected,1
+Marie,eg,Undirected,1
+Marie,d ' Engcourls,Undirected,1
+Peter,Tine,Undirected,1
+Tine,j^,Undirected,1
+Henrik,loren,Undirected,1
+Henrik,vederfares,Undirected,1
+Cathrine,Henrik,Undirected,34
+Cathrine,Tu,Undirected,6
+Frøken NørSholm,Vilhelm,Undirected,1
+Frokcn C.,Laban,Undirected,1
+' EngcourtS,Henrik,Undirected,1
+Henrik,d ' Engcourt,Undirected,3
+as,d ' Engcourt,Undirected,1
+Marie,as,Undirected,1
+Henrik,kenne,Undirected,1
+Marie,kenne,Undirected,1
+Marie,d ,Undirected,1
+Engcourts,d ,Undirected,1
+Engcourts,Henrik,Undirected,1
+Henrik Vcrtner,Marie,Undirected,1
+Marie,sril,Undirected,1
+Gud,sril,Undirected,1
+Chrisfen,Henrik,Undirected,1
+Christncs,Henrik,Undirected,1
+Christncs,ester,Undirected,1
+Henrik,ester,Undirected,5
+Hartselts,Henrik,Undirected,1
+Hartselts,Vilhelm,Undirected,1
+Cathrine,Vilhelm,Undirected,8
+Cathrine Vertner,nien,Undirected,1
+Cathrine,Cathrine Vertner,Undirected,1
+Cathrine,Marie,Undirected,28
+Cathrine,Maria Dolorosa Isabella,Undirected,1
+Maria Dolorosa Isabella,Marie,Undirected,1
+Marie,asbrød Marie,Undirected,1
+Cathrine,asbrød Marie,Undirected,1
+Cathrine,Diaries,Undirected,1
+Diaries,Marie,Undirected,1
+Diaric,Marie,Undirected,1
+Diaric,Vilhelm,Undirected,1
+Marie,huu,Undirected,2
+Henrik,bun,Undirected,3
+Ester,Marie,Undirected,1
+Cathrine,Schawlct,Undirected,1
+' Engcourt,Marie,Undirected,2
+Isabella,Maria,Undirected,3
+Maria,Marie,Undirected,1
+Dolorosa,Maria,Undirected,1
+Dolorosa,Isabella,Undirected,1
+Maria,bun,Undirected,1
+bo »,llov,Undirected,1
+Henrik saagokt,Marie,Undirected,1
+Henrik saagokt,Vilhelm,Undirected,1
+Henrik,hnn,Undirected,4
+Marie,Ten,Undirected,1
+Ten,itke,Undirected,1
+Isabella,Marie sor,Undirected,1
+Marie,Schawl,Undirected,3
+Cathrine,Schawl,Undirected,1
+Cathrine,Isabella,Undirected,35
+Isabella,jeldcn,Undirected,1
+Bien,jeldcn,Undirected,1
+Bien,Isabella,Undirected,2
+Isabella,Marie,Undirected,91
+Henik,Marie,Undirected,1
+Maria,aaledes,Undirected,1
+Marie,Sopha,Undirected,2
+IsabellaS,Marie,Undirected,1
+Ibenmidt,Marie,Undirected,1
+Garinet,Isabella,Undirected,1
+Garinet,Marie,Undirected,1
+Marie,hnn,Undirected,6
+Isabella —,Marie,Undirected,2
+Marie,sorbauseS,Undirected,1
+Jjabellas,sorbauseS,Undirected,1
+Jjabellas,bun,Undirected,1
+Cathrine,strax,Undirected,1
+Marie,strax,Undirected,1
+Isabella,l. ove st sirst,Undirected,1
+Marie,l. ove st sirst,Undirected,1
+Marie,sif,Undirected,1
+Jsabellas,sif,Undirected,1
+Cathrine,Jsabellas,Undirected,8
+Christen,Vilhelm,Undirected,2
+Christen,sif Haab,Undirected,1
+Jsabellas,Marie,Undirected,5
+Catholik,Isabella,Undirected,1
+Catholik,Christne,Undirected,1
+Christne,Isabella,Undirected,2
+Isabella,ester,Undirected,3
+Henrik,hau,Undirected,2
+Henrik,Theodor,Undirected,18
+Henriks Tanshed,unkcsø,Undirected,1
+Cousine,Henriks Tanshed,Undirected,1
+Cathrine,Cousine,Undirected,3
+Henrik,tvorsor,Undirected,2
+Emilie Lehn,Theodor,Undirected,2
+Emilie Lehn,Henrik,Undirected,4
+Henrik,Mechanisf,Undirected,1
+Mechanisf,Theodor,Undirected,1
+Theodor,ban,Undirected,1
+Emilie Lehn,Tet,Undirected,1
+Henrik,Tet,Undirected,4
+Tet,Theodor,Undirected,1
+Tet,hiin,Undirected,1
+Banvare,hiin,Undirected,1
+Banvare,Henrik,Undirected,1
+Tbeodor,Theodor,Undirected,1
+Tbeodor,ban,Undirected,1
+Henrik,Hnn,Undirected,3
+Gud,Henrik,Undirected,10
+Henrik,Henrik taug,Undirected,2
+Henrik taug,Theodor,Undirected,1
+Henrik,Zange,Undirected,1
+Theodor,Zange,Undirected,1
+Theodor,Tisse,Undirected,1
+Henrik,Tisse,Undirected,1
+Henrik,Isabella,Undirected,106
+Isabella,Jsa,Undirected,1
+Jsa,ella,Undirected,1
+Cathrine,ella,Undirected,1
+Cathrine,Hru Hartfelt,Undirected,1
+Hru Hartfelt,Isabella,Undirected,1
+Isabella,Tanen,Undirected,1
+Marie d ' Engcourt,Tanen,Undirected,1
+Isabella,Marie d ' Engcourt,Undirected,1
+Jsabellas,lidl,Undirected,1
+Cathrine,ester,Undirected,2
+Consines,Henrik,Undirected,1
+Cathrine,Consines,Undirected,1
+Henrik,def,Undirected,1
+Isabella,def,Undirected,1
+Henrik,beide,Undirected,1
+Henrik,bendes,Undirected,1
+Isabella,bendes,Undirected,1
+Isabella,sølte,Undirected,1
+Marie,sølte,Undirected,1
+Marie,edens,Undirected,1
+Isabella,nanden,Undirected,1
+Catho,Isabella,Undirected,1
+Catho,Henrik,Undirected,1
+Henrik,alhrine,Undirected,1
+Henrik,as,Undirected,1
+Henrik,Jsabellas,Undirected,19
+Isabella,Jsabellas,Undirected,8
+Isabella,Tu,Undirected,13
+Caihrrne,Isabella,Undirected,1
+Caihrrne,Christen,Undirected,1
+Isabella,Tante Hartselt,Undirected,1
+Cathrine,Tante Hartselt,Undirected,1
+Cathrine,Hartfelt,Undirected,1
+Tu,lee,Undirected,1
+Henrik,Tig,Undirected,2
+Henrik,lee,Undirected,1
+Lee,Tu,Undirected,1
+Isabella,lee,Undirected,1
+Isabella,Rokerigo,Undirected,1
+Roderigo,Tu,Undirected,3
+Noderigo,Noderigos,Undirected,1
+Henrik,Noderigo,Undirected,2
+Roderigo,kon,Undirected,1
+Noderigo,Roderigo,Undirected,3
+Maria,Roderigo,Undirected,1
+Zsabella,pun,Undirected,1
+Henrik,Roderigo,Undirected,4
+Maria,olorosa,Undirected,1
+Tolorosa,olorosa,Undirected,1
+Benedicta,Tolorosa,Undirected,1
+Benedicta,Maria,Undirected,1
+Gud,Maria,Undirected,1
+Marie,elsfe Isabella,Undirected,2
+Cathrine,JsabellaS,Undirected,1
+Isabella,Roderigo,Undirected,1
+Aivor,Roderigo,Undirected,1
+Aivor,Jsabellas,Undirected,1
+Henrik,banS,Undirected,3
+Henrik,Tr. Smith,Undirected,2
+Henrik,seent,Undirected,1
+Henrik,Moer,Undirected,1
+Gud,Tu,Undirected,4
+Bob,Tet,Undirected,1
+Bob,Henrik,Undirected,1
+Henrik,g,Undirected,1
+Henrik,Te,Undirected,2
+Henrik,lasyn,Undirected,1
+Henrik,Tødes,Undirected,1
+Henrik,vet,Undirected,1
+sam,vet,Undirected,1
+hnn,sam,Undirected,1
+Henrik,t,Undirected,2
+Henrik,taus,Undirected,1
+Henrik,hans Sjel,Undirected,1
+Theodor,ester,Undirected,1
+Luntesø,ester,Undirected,1
+Henrik,Luntesø,Undirected,1
+Henrik,Lindorf,Undirected,3
+Lindorf,Tu,Undirected,2
+Isabella,Maria Dolorosa Isabella,Undirected,2
+Henrik,Sopha,Undirected,3
+Isabella,Sopha,Undirected,1
+Hnn,Isabella,Undirected,1
+Catholik,Hnn,Undirected,1
+Gud,Isabella,Undirected,4
+,Isabella,Undirected,1
+Henrik,Lindors,Undirected,1
+Lindors,odt,Undirected,1
+Ter,Vilhelm,Undirected,1
+Cathrine,henrik,Undirected,1
+Cousine,Henrik,Undirected,2
+Sophaen,sor,Undirected,1
+Tet,Tu,Undirected,1
+Isabella,Vilhelm,Undirected,1
+Marie,Theodor,Undirected,1
+Isabella,Theodor,Undirected,1
+Isabella,f Henriks,Undirected,2
+Louise,hnn,Undirected,1
+Marie,Møllet,Undirected,1
+Møllet,niaatlc,Undirected,1
+Marquis,niaatlc,Undirected,1
+Henrik,Marquis,Undirected,1
+Marquis,Vilhelm,Undirected,1
+Henrik,dam,Undirected,1
+Isabella,b,Undirected,1
+!,b,Undirected,1
+Isabella,henke,Undirected,1
+Isabella,Tante Hartfelt,Undirected,1
+Henrik —,Isabella,Undirected,1
+Jsabellas,niaatte,Undirected,1
+Henrik,niaatte,Undirected,1
+Cathrine,hiin,Undirected,1
+Marie,hiin,Undirected,1
+Frøken Verlncrs,Marie,Undirected,1
+Cathrine,bun,Undirected,2
+Bei,Henrik,Undirected,2
+Bei,ban,Undirected,1
+Cathrine,lille Marie,Undirected,1
+Henrik,niedcns,Undirected,2
+Henrik,Jiabellas,Undirected,1
+Tu,niaa,Undirected,1
+Tu,kenne Form,Undirected,1
+Hartfelt,Isabella,Undirected,1
+Hartfelt,henke,Undirected,1
+Marie,henke,Undirected,1
+Marie,lil nug,Undirected,1
+Isabella,Ter,Undirected,1
+Frøken Vertner,Isabella,Undirected,1
+Jsabellas,kenne,Undirected,1
+Cathrine,henke,Undirected,2
+Laura,Tu,Undirected,2
+Cøsters,Tu,Undirected,1
+Cøsters,Isabella,Undirected,1
+Ester,Isabella,Undirected,1
+Cathrine,hnn,Undirected,2
+ester,hnn,Undirected,1
+Cathrine,Gud,Undirected,2
+Christenbjerte,Frøken Verlner,Undirected,1
+Christenbjerte,Gud,Undirected,1
+Christne,Gud,Undirected,2
+Christne,Luther,Undirected,1
+Gud,Luther,Undirected,1
+Cathrine Vertner,Gud,Undirected,1
+Cathrine Vertner,Isabella,Undirected,2
+Christne,IsabellaS,Undirected,1
+Gud,Jesus,Undirected,1
+Christo,Isabella,Undirected,1
+Isabella,koni,Undirected,1
+Christen,Marie,Undirected,1
+Elsfer,Marie,Undirected,1
+Elsfer,hnn,Undirected,1
+Marie,Vertner,Undirected,2
+Marie,ester,Undirected,2
+Graad,Marie,Undirected,2
+Graad,Henrik,Undirected,1
+Eugenie,Marie,Undirected,4
+Vilhelm,as,Undirected,1
+Eugenie,as,Undirected,1
+Christen,Eugenie,Undirected,1
+Henrik,Vilhelm maalte,Undirected,1
+Ester,Vilhelm,Undirected,1
+Marie,an,Undirected,1
+Billa,Gud,Undirected,1
+Billa,Henrik,Undirected,1
+Henrik,Peter,Undirected,8
+Peter,Vilhelm,Undirected,5
+Døttres,Henrik,Undirected,2
+Henrik,Luther,Undirected,2
+Henrik,Spielhagen,Undirected,1
+Cathrine,Peter,Undirected,5
+Gud,Vilhelm,Undirected,1
+Henrik,Vilhclni,Undirected,1
+Cathrine,lee,Undirected,1
+Cathrine,Lærke,Undirected,1
+Dagmar,ning,Undirected,1
+Dagmar,henke,Undirected,1
+bun,henke,Undirected,1
+Cathrine,Erhard,Undirected,5
+Erhard,visfnok,Undirected,1
+ket,visfnok,Undirected,1
+Cathrine,ket,Undirected,1
+Calhrme,Cathrine,Undirected,1
+Calhrme,Gud,Undirected,1
+Peter,hnn,Undirected,2
+Peter,Tu,Undirected,3
+Cathrine,rasf,Undirected,1
+Ester,aIdrig,Undirected,1
+Cathrine,Ester,Undirected,1
+Cathrine,pg,Undirected,1
+boldt,pg,Undirected,1
+Cathrine,boldt,Undirected,1
+Erhard,henke,Undirected,1
+Cathrine,Judas,Undirected,2
+ester,soni,Undirected,1
+Henrik,Schawler,Undirected,2
+Farbroders,Isabella,Undirected,1
+Farbroders,Heniiks,Undirected,1
+Henrik,son,Undirected,1
+Blomsf,Isabella,Undirected,1
+Blomsf,lila Iris,Undirected,1
+Henrik,Vedbendcn,Undirected,1
+Vedbendcn,hnn,Undirected,1
+Tet,hnn,Undirected,2
+Henrik,all,Undirected,1
+Gud,all,Undirected,1
+Henrik bøicde,Isabella,Undirected,1
+Sands,Theodor,Undirected,1
+Henrik,K,Undirected,1
+Isabella,Steen,Undirected,1
+Isabella,Seir,Undirected,1
+Christne,christen,Undirected,1
+Isabella,christen,Undirected,1
+Fader,Henrik,Undirected,1
+Henrik,dige,Undirected,1
+Hadets,Henrik,Undirected,1
+Isabella,jrg,Undirected,1
+Isabella,bos,Undirected,1
+Henrik,bos,Undirected,1
+Marquis d ' Engcourt,skaane,Undirected,1
+Marie,skaane,Undirected,1
+Isabella,Willis,Undirected,1
+Ininais,Isabella,Undirected,1
+Isabella,Tet,Undirected,2
+Isabella,ban,Undirected,1
+Isabella,Soen,Undirected,1
+Soen,ol beuven mixkt not visit lier face too ron-chl,Undirected,1
+Cathrine Vertner,Henrik,Undirected,1
+Henrik,Tante Cathrines,Undirected,1
+' Engcourt,Isabella,Undirected,2
+Isabella,hnn,Undirected,2
+Marie,tang,Undirected,1
+Isabella,bun,Undirected,1
+Henrik,Tanshed,Undirected,1
+Henrik,MarquiS d,Undirected,1
+bun,dans,Undirected,1
+Sophaen,bun,Undirected,1
+Rose,Sophaen,Undirected,1
+Cathrine,Rose,Undirected,1
+Isabella,JfabellaS,Undirected,1
+Beirrt,JfabellaS,Undirected,1
+Aage,Henrik,Undirected,1
+Aage,Isabella,Undirected,1
+Hartfelt,ru,Undirected,1
+Hartfelt,Marie,Undirected,1
+Cathrine Bertner,Marie,Undirected,1
+Cathrine Bertner,Isabella,Undirected,1
+Frøken Bertner,Marie,Undirected,1
+Isabella,Jsabella,Undirected,4
+,Jsabella,Undirected,1
+Marie,j,Undirected,1
+Cathrine,sfandse,Undirected,1
+Frøken Vertner,sfandse,Undirected,1
+Frøken Vertner,Marie,Undirected,1
+' Engcourt,hnn,Undirected,1
+Jsabella,Laura,Undirected,1
+Cathrine,Christen,Undirected,3
+Christen,Gud,Undirected,1
+Henrik —,Laura,Undirected,1
+Henrik —,d ' Engcourt,Undirected,1
+hnn,hnn elsfede,Undirected,1
+Henrik,Jsabella,Undirected,4
+Gnd,Isabella,Undirected,2
+Henrik,Sands,Undirected,1
+Sands,ahnedc,Undirected,1
+Isabella,ahnedc,Undirected,1
+Henrik,siz,Undirected,1
+Badecuur,siz,Undirected,1
+Badecuur,Marie,Undirected,1
+Faust,Isabella,Undirected,1
+Faust,Ptge,Undirected,1
+Gud,Ptge,Undirected,1
+Henrik,d,Undirected,3
+' Engcourt,d,Undirected,1
+Isabella,d,Undirected,1
+' Engconrts,d,Undirected,1
+' Engconrts,Ananias,Undirected,1
+Ananias,Sapphira,Undirected,1
+Compas,Marie,Undirected,1
+Compas,Isabella,Undirected,1
+Jsabella,Marie,Undirected,5
+Marie,Nemesis,Undirected,1
+Fisfeu,Marie,Undirected,1
+Kjæræ,Marie,Undirected,1
+Marie følie,Vilhelm,Undirected,1
+Henrik,Laura Bertner,Undirected,1
+Laura Bertner,Laura Hartfelt,Undirected,1
+Hnn,Laura Hartfelt,Undirected,1
+Marie,line,Undirected,1
+Salomon,Tu,Undirected,1
+Adam,Gud,Undirected,1
+Assfed,Henrik,Undirected,1
+Cathrine VertnerS,Isabella,Undirected,1
+Cathrine VertnerS,Henrik,Undirected,1
+Isabella,rik,Undirected,1
+Henrik,stands,Undirected,2
+Cathrine,Jsabella,Undirected,2
+Jsabella,Vilhelm,Undirected,1
+Henrik,Karlen,Undirected,1
+Bei,Marie,Undirected,1
+Henrik,dans,Undirected,1
+Ester,Henrik,Undirected,2
+Marie,elsfe,Undirected,1
+Cousine,Jsabella,Undirected,1
+Jsabella,Marie —,Undirected,1
+Isabella,Marie —,Undirected,1
+Isabella,as,Undirected,2
+Dien,Marie,Undirected,1
+Dien,Isabella,Undirected,1
+Jsabella,irette,Undirected,1
+B,Marie,Undirected,1
+B,Isabella,Undirected,1
+Cathrine,Lectie,Undirected,1
+Lectie,Marie,Undirected,1
+Harald,Marie,Undirected,2
+Cathrine,Harald,Undirected,2
+Cathrine,Fader,Undirected,1
+Fader,viksle,Undirected,1
+Harald,viksle,Undirected,1
+Marie,tang Frn Hartfell,Undirected,2
+Tu,seil,Undirected,1
+Vilhelm,seil,Undirected,1
+Vilhelm,ahne,Undirected,1
+Dolorosa,Jsabella,Undirected,1
+Dolorosa,Maria Isabella,Undirected,1
+Isabella,Maria Isabella,Undirected,1
+Delle,Isabella,Undirected,2
+Gud,Marie,Undirected,1

@@ -1,0 +1,72 @@
+source,target,type,weight
+Falbe,Madam,Undirected,1
+Bentzen,Kure,Undirected,1
+Bentzen,Mam Spåckboms,Undirected,1
+Bentzen,Else,Undirected,2
+Else,Späckbom Barnet,Undirected,2
+Madam Spackboms,Noahs,Undirected,1
+Falbe,Kristian Falbe,Undirected,1
+Frøken Falbe,Frøken Falbes,Undirected,1
+Else,Falbe,Undirected,2
+Falbe,Kristian,Undirected,1
+.Else,Kristian,Undirected,1
+Frøken Falbe,Kristian,Undirected,1
+Else,Spohr,Undirected,1
+Jørgen Tambur,Schirrmeister,Undirected,1
+Jørgen Tambur,Rondo grazioso,Undirected,1
+Else,Jergen,Undirected,1
+Else,Frøken Falbe,Undirected,6
+Frøken Falbe,Mam Spåckboms,Undirected,3
+Else,Mam Spåckboms,Undirected,4
+Bentzen,Mam Spackbom,Undirected,1
+Kierkegaard,With,Undirected,1
+Kierkegaard,Luther,Undirected,1
+Luther,Otto With,Undirected,1
+Otto With,Randulfs,Undirected,1
+Martens,hans Lena,Undirected,1
+Else,hans Lena,Undirected,1
+Else,Madam Spackbom,Undirected,1
+Bentzen,Frøken Falbe,Undirected,1
+Garman,Hansker,Undirected,1
+Hansker,With,Undirected,1
+Madam,Späckbom havde,Undirected,1
+Formandens,Madamen,Undirected,1
+Else,Madamen,Undirected,1
+Else,Formandens,Undirected,2
+Else,Mam Späckbom,Undirected,2
+Else,Svend,Undirected,17
+Loppen,Svend,Undirected,1
+Klodrian,Svend,Undirected,1
+Else,Kousul With,Undirected,1
+Else,With,Undirected,3
+Kalliwoda,Onslow,Undirected,1
+Haydn,Kalliwoda,Undirected,1
+Haydn,Jørgen Tambur,Undirected,1
+Jørgen Tambur,hamres,Undirected,1
+Schirrmeister,hamres,Undirected,1
+Christian Falbe,Else,Undirected,1
+Else,Mam,Undirected,2
+Mam,Späckbom mærkede,Undirected,1
+Mam,Svend,Undirected,1
+Else,Frøken,Undirected,1
+Else,reist,Undirected,1
+Else,Svend-,Undirected,1
+Frøken Falbe,Svend,Undirected,2
+Else,iveien,Undirected,1
+Christian,P'røken Falbe,Undirected,1
+Frøken Falbe,Madam Spåckbom,Undirected,1
+Falbe,Frøken Falbe,Undirected,1
+Christian,Falbe,Undirected,1
+Konsul Withs,miti,Undirected,1
+Iver,Svend,Undirected,1
+Else,Jørgen Tambur,Undirected,1
+Schirrmeister,Svend,Undirected,1
+Jørgen Tambur,Madam Ellingsens,Undirected,1
+Svend,tilbens,Undirected,1
+Ellingsen &,Konsul Withs,Undirected,1
+Frøken Falbe,t Madam Spåckboms,Undirected,1
+Christian,Else,Undirected,1
+Bentzen,sint,Undirected,1
+Hansen,sint,Undirected,1
+Konsul With,Randulf,Undirected,1
+Konsul With,Martens,Undirected,1

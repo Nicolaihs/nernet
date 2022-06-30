@@ -1,0 +1,203 @@
+source,target,type,weight
+Estrid,Lazareth,Undirected,1
+Corpus Juris,Lea,Undirected,1
+Cnur,Corpus Juris,Undirected,1
+Corpus Juris,Emmy,Undirected,1
+Andrea Margrethe,Corpus Juris,Undirected,4
+Andrea Margrethe,Nicolai,Undirected,3
+Emmy,Nicolai,Undirected,1
+Andrea Margrethe,Emmy,Undirected,1
+L. Hostrup,Nicolai,Undirected,1
+Moltkes,Rubens,Undirected,1
+Christus,Guds,Undirected,1
+Juel,Rubens,Undirected,1
+Rembrandt,Rubens,Undirected,1
+Correggio,Rembrandt,Undirected,1
+Rembrandt,Tizian,Undirected,1
+Nicolai,frank,Undirected,1
+blol,sfod,Undirected,1
+Bertel,Thorvaldsen,Undirected,1
+Døttre,Sophie,Undirected,1
+Johanne,Sophie,Undirected,7
+Johanne,Valborg,Undirected,1
+Estrid,Valborg,Undirected,28
+Estrid,Jan van Huysums,Undirected,1
+Wergeland,Wergelands,Undirected,1
+Estrid,Kunstsands,Undirected,2
+Estrid,Thee,Undirected,2
+Estrid,Raphael,Undirected,1
+Raphael,Rcmbrandt,Undirected,1
+Estrid,Rcmbrandt,Undirected,1
+Raphael,Rembrandt,Undirected,1
+Estrid,Sole,Undirected,2
+Estrid,Rembrandt,Undirected,1
+Raphacl,Rembrandt,Undirected,1
+Andrea Margrethe,Juris,Undirected,1
+Corpus Juris,Juris,Undirected,1
+Estrid,hiin,Undirected,1
+Guds,Nicolai,Undirected,1
+Estrid,Triangel,Undirected,1
+Conturernc,Estrid,Undirected,1
+Estrid,hnn,Undirected,3
+hnn,mcente,Undirected,1
+Ane,mcente,Undirected,1
+Ane,Estrid,Undirected,49
+Emmy,Estrid,Undirected,3
+Estrid,Gud,Undirected,4
+Corpus Juris,Jnbel,Undirected,1
+Esfrid,Jnbel,Undirected,1
+Esfrid,Estrid,Undirected,3
+Estrid,Nicolai,Undirected,7
+Estrid,Paul Veroneses,Undirected,1
+Esfrid,Paul Veroneses,Undirected,1
+Andrea Margrethe,Estrid,Undirected,3
+juxta,posita waZis illnoosount,Undirected,1
+Berden,Estrid,Undirected,1
+Estrid,Luthers,Undirected,2
+Esfrid,Eva,Undirected,1
+Estrid,Neptun,Undirected,1
+Hr. Egeberg,Neptun,Undirected,1
+Estrid,Hr. Egeberg,Undirected,1
+Chamsin,Estrid,Undirected,1
+Estrid,ester-os,Undirected,1
+Ane,fil Estrids,Undirected,1
+Estrid,fil Estrids,Undirected,1
+Ane,Mikkelsdag,Undirected,2
+Ane,ganflc,Undirected,1
+Estrid,ganflc,Undirected,1
+Corpus Juris,Estrid,Undirected,4
+Sophie,Valborg,Undirected,2
+Fjas,Johanne,Undirected,1
+Estrid,Fjas,Undirected,1
+Estrid,Theens,Undirected,2
+Iohanne,Sophie,Undirected,2
+Aladdins,Estrid,Undirected,2
+Estrid,fabt,Undirected,1
+Estrid,Ole Jensen,Undirected,4
+Ane,Ole Jensen,Undirected,1
+Ole Jensen,Søren,Undirected,1
+Speilel,Søren,Undirected,1
+Ole Jensen,Speilel,Undirected,2
+Søren,lil,Undirected,1
+lee,lil,Undirected,1
+Ole,lee,Undirected,1
+Estrid,nn,Undirected,2
+Estrid,Seiltonr,Undirected,1
+Ambrosia,Estrid,Undirected,1
+Estrid,Valmue,Undirected,2
+Estrid,snarf,Undirected,2
+Homers,Kong Odysseus,Undirected,1
+Estrid,Kong Odysseus,Undirected,1
+Dn,Nicolai,Undirected,1
+Estrid,bruun,Undirected,2
+Estrid,Parthenons,Undirected,1
+Aue,Parthenons,Undirected,1
+Ane,Rosenhusef,Undirected,2
+Ane,hnn,Undirected,4
+Ane,Esfrid,Undirected,2
+Anakreons,Esfrid,Undirected,1
+Estrid,Sødesfe,Undirected,1
+Cavalleer,Estrid,Undirected,1
+Estrid —,Hvidbjørn,Undirected,1
+EsfridS,Hvidtjørn,Undirected,1
+Hvidbjørn,Raphael,Undirected,1
+Bien,Hvidbjørn,Undirected,1
+Estrid,Hvidbjsrn,Undirected,1
+Estrid,Hvidbjørn,Undirected,42
+Ddre,Estrid,Undirected,2
+Hvidbjørn,Valborg,Undirected,23
+Valborg,hnn,Undirected,1
+Hvidbjørn,sif,Undirected,1
+Valborg,sif,Undirected,1
+Estrid,Iohanne,Undirected,1
+Nicolai,Valborg,Undirected,3
+Tu,Valborg,Undirected,1
+Niels Ebbesen,Valborg,Undirected,1
+Estrid,Hvidbjorn,Undirected,3
+Hvidbjorn,Valborg,Undirected,2
+Hain,Hvidbjørn,Undirected,1
+Valborg,est,Undirected,1
+Estrid,est,Undirected,1
+Sophaen,Valborg,Undirected,1
+Collisions-tilfælde,Valborg,Undirected,1
+Hvidbjoru,Niels Ebbesen,Undirected,1
+Hvid-bjorn,Valborg,Undirected,1
+Abraham,Adam,Undirected,1
+Hvidbjørn,Nicolai,Undirected,2
+Hvid-bjørn,Valborg,Undirected,1
+Estrid nied,Hvidbjørn,Undirected,1
+Estrid nied,Valborg,Undirected,1
+Estrid,Valborg sknlde,Undirected,1
+Frøken Valborg,Hvidbjørn,Undirected,1
+Morbro,r,Undirected,1
+Hvidbjørn,Seilads,Undirected,1
+Panther,Valmue,Undirected,1
+Hvidbjørn,Tycho Brahes,Undirected,1
+Hvidbjørn,spnrgte,Undirected,1
+Hvidbjørn,Tychos,Undirected,1
+Ole Jensen,Valborg,Undirected,1
+Hvidbjørn,Ole,Undirected,1
+Ole,Runs,Undirected,1
+Runs,hnn,Undirected,1
+ask,hnn,Undirected,1
+Hvidbjørn,nn,Undirected,2
+Ole,nn,Undirected,1
+Hvid-bjsrn,Valborg,Undirected,1
+Estrid,Hvid-bjsrn,Undirected,1
+hnn,tans,Undirected,1
+Estrid,tans,Undirected,1
+Hvidbjørn,Niels Ebbesen,Undirected,2
+Leonardos,Michel Angelos,Undirected,1
+Michel Angelos,Pave Julius,Undirected,1
+Bissens,Pave Julius,Undirected,1
+Bissens,Homer,Undirected,1
+Homer,Sophokles,Undirected,1
+Phidias,Sophokles,Undirected,1
+Gud,Hvidbjørn,Undirected,1
+Plato,Sokrates,Undirected,1
+Peter,Plato,Undirected,1
+Panins,Peter,Undirected,1
+Panins,Shakespeare,Undirected,1
+Gud,signe,Undirected,1
+Estrid,Hnn,Undirected,1
+Corpus Juris,Johanne,Undirected,1
+Corpus Juris,Margrethe,Undirected,1
+Sopha,kain,Undirected,1
+Corpus Juris,Morbro,Undirected,1
+Ane,Morbro,Undirected,1
+Morbro,sif,Undirected,1
+Estrid,snildl,Undirected,1
+Valborg,snildl,Undirected,1
+Corpus Juris,Valborg,Undirected,1
+Corpus Juris,Hvidbjørn,Undirected,2
+Esfrid,hnn,Undirected,2
+Andrea,Esfrid,Undirected,1
+Andrea,Margrethe,Undirected,1
+Cort Adeler,Hvidbjørn,Undirected,1
+Cort Adeler,inan,Undirected,1
+Cort,inan,Undirected,1
+Corpus Juris,Cort,Undirected,1
+Corpns,Jnris,Undirected,1
+Cort Adeler,Jnris,Undirected,1
+Cort Adeler,nien,Undirected,1
+Kant,nien,Undirected,1
+Christopher,Nicolai,Undirected,1
+Hvidbjørn,Lyffe,Undirected,1
+--,Basi,Undirected,1
+Estrid iforgaars,Hvidbjørn,Undirected,1
+Estrid,Hvid-bjørn,Undirected,1
+Estrid,Ieg,Undirected,1
+Estrid,Halfdan,Undirected,3
+Christian Skofte,Consulen,Undirected,1
+Mo,ers,Undirected,1
+Gud,lee,Undirected,1
+Dhds,Gud,Undirected,1
+Christne,Halfdan,Undirected,1
+Christne,Gud,Undirected,1
+Christne,hiin,Undirected,1
+Bian stulde,Halfdan,Undirected,1
+Gud,Halfdan,Undirected,1
+Halfdan,Nicolai,Undirected,1
+Estrid,taug,Undirected,1
+hnn,taug,Undirected,1
+Alst,hnn,Undirected,1

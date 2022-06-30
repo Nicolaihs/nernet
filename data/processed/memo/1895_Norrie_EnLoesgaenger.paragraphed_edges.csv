@@ -1,0 +1,14 @@
+source,target,type,weight
+Gud,véd,Undirected,1
+Esther,Verner,Undirected,6
+Esther,Jeanna,Undirected,43
+Jeanna,Ryvsing,Undirected,4
+Esther,Ryvsing,Undirected,2
+Esther,Rolfsen,Undirected,5
+Esther,Walter Ryvsing,Undirected,1
+Ryvsing,Verner,Undirected,1
+Esther,Maal,Undirected,1
+Jeanna,paal,Undirected,1
+Rolfsen,paal,Undirected,1
+Rolfsen,Verner,Undirected,1
+Jeanna,Walter,Undirected,2

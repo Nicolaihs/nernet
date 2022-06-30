@@ -1,0 +1,255 @@
+source,target,type,weight
+Arthur Cold,Felding,Undirected,1
+Christian den Vtes,Cold,Undirected,1
+Cold,Felding,Undirected,25
+Felding,Gold,Undirected,5
+Gold,J. P. Jacobsens,Undirected,1
+Felding,J. P. Jacobsens,Undirected,1
+Felding,Heine,Undirected,3
+Knud Poulsen,Sebastian Poulsen,Undirected,1
+Felding,Gud,Undirected,1
+Gud,Knud Poulsen,Undirected,1
+Felding,Knud,Undirected,32
+Felding,Poulsen,Undirected,3
+Hvabehar,Poulsen,Undirected,1
+Felding,vai,Undirected,1
+Felding,Lise,Undirected,1
+Felding,Hr. Poulsen,Undirected,1
+Felding,Knud præsenterede,Undirected,1
+Asta,Knud præsenterede,Undirected,1
+Jette,salig Bang,Undirected,1
+Jette,Poulsen,Undirected,6
+Hase,Jette,Undirected,1
+Anders Staldkarl,Jomfru Jørgensen,Undirected,1
+Jomfru Jørgensen,Kirstines,Undirected,1
+Jette,Jomfru Hase,Undirected,4
+Asta Langer,Jette,Undirected,1
+Asta,Jette,Undirected,7
+Jette,Knud,Undirected,7
+Asta,Knud,Undirected,5
+Jens Dahl,Knud,Undirected,2
+Johannes Mikkelsen,Knud,Undirected,1
+Jeppe Torskeprins,Knud,Undirected,1
+Jette,Peter Hansen-Knold,Undirected,1
+Hansen-Knold,Mikkelsen,Undirected,4
+Felding,Frk. Asta,Undirected,4
+Felding,Jette,Undirected,8
+Goethe,Gretchen,Undirected,1
+Asta,Gretchen,Undirected,1
+Asta,Goethe,Undirected,1
+Goethe,ewig weibliche,Undirected,1
+Jette,ewig weibliche,Undirected,1
+Asta,Felding,Undirected,6
+Frk. Asta,Jette,Undirected,4
+Asta,Mikkelsen,Undirected,3
+Jeppe Torske,Mikkelsen,Undirected,1
+Jeppe,Knud,Undirected,2
+Knud,Svend,Undirected,2
+Felding,Mikkelsen,Undirected,10
+Jeppe,Mikkelsen,Undirected,2
+Hunde-Jens,Knud,Undirected,2
+Felding,Jeppe Torskeprins,Undirected,1
+Asta,Mette,Undirected,1
+Asta,Jeppe,Undirected,2
+Asta,Pantomime,Undirected,1
+Aare,Jeppe,Undirected,1
+Hunde-Jens,Yellow,Undirected,1
+Jens,Knud,Undirected,4
+Felding,Knold,Undirected,1
+Jette,Knold,Undirected,1
+Felding,R.esten,Undirected,1
+Hunde-Jens,Poulsen,Undirected,1
+Henrik den fjerde,Mikkelsen,Undirected,1
+Hansen-Knold,Knud,Undirected,2
+Knud,Mikkelsen,Undirected,4
+Aansemose,Anders „,Undirected,1
+Hans,Jens Skomager,Undirected,1
+Anders,Hans,Undirected,1
+Gud,Hans,Undirected,1
+Hans,Knud,Undirected,1
+Aaen,Tue,Undirected,1
+AUe,Tue,Undirected,1
+Tue,Yellow,Undirected,1
+Jens,Yellow,Undirected,5
+Jens,s,Undirected,2
+Dandy,s,Undirected,1
+Dandy,Knud,Undirected,4
+Dandy,Felding,Undirected,1
+Felding,Jens,Undirected,1
+Hansen-Knold,Jens,Undirected,2
+Hansen-Knold,Jette,Undirected,1
+Jette,Mikkelsen,Undirected,1
+Frk. Asta,skjær,Undirected,1
+Asta,skjær,Undirected,1
+Asta,Jomfru Hase,Undirected,2
+Felding,Hase,Undirected,2
+Frk. Asta,ellige,Undirected,1
+Frk. Asta,Knud,Undirected,1
+Felding,Hansen-Knold,Undirected,4
+Felding,HansenKnold,Undirected,1
+Hansen-Knold,Knold,Undirected,1
+Jomfru Hase,Knud,Undirected,2
+Anders Aansemose,Felding,Undirected,1
+Felding,Johanne,Undirected,33
+Jomfru Jørgensen,Karle,Undirected,1
+Felding,Husbond,Undirected,1
+Anders Aansemose,Husbond,Undirected,1
+Jette,Jomfru Jørgensen,Undirected,1
+Ifjor,Jette,Undirected,1
+Johanne,Mikkelsen,Undirected,6
+Felding,Hunde-Jens,Undirected,1
+HansenKnold,Hunde-Jens,Undirected,1
+HansenKnold,Jens,Undirected,1
+Hansen-Knold,Maren,Undirected,1
+Maren,Mogens,Undirected,1
+Anders Staldkarl,Mogens,Undirected,1
+Anders Staldkarl,Felding,Undirected,1
+Mathilde,Mikkelsen,Undirected,3
+Gud,Mikkelsen,Undirected,1
+Johanne,Poulsen,Undirected,1
+Asta,Mejersken,Undirected,1
+Frøken Asta,Johanne,Undirected,1
+Johanne,Karle,Undirected,1
+Johanne,orrentli,Undirected,1
+Didelom,orrentli,Undirected,1
+Didelom,didelom,Undirected,1
+Felding,Mathilde,Undirected,1
+Johanne,Mathilde,Undirected,1
+Felding,Mejersken,Undirected,1
+Johanne,Mejersken,Undirected,1
+Felding,Hansen Knolds,Undirected,1
+Knud,Poulsen,Undirected,4
+Jomfru Jørgensen,Mathilde,Undirected,1
+Mathilde,Svend,Undirected,1
+Anders Aansemose,Johanne,Undirected,1
+Jens,Mikkelsen,Undirected,1
+Knud,s,Undirected,1
+Jomfru Hase,Poulsen,Undirected,2
+Hase,Poulsen,Undirected,2
+Johanne,Jomfru Jørgensen,Undirected,1
+Gjørding,Jette,Undirected,1
+Bastnaalen,Felding,Undirected,1
+Felding,Strax,Undirected,2
+Felding,kjære,Undirected,1
+kjære,kjære Henriette.,Undirected,1
+Helga,Hr. Felding,Undirected,1
+Gud,Svend,Undirected,1
+Mads Mogensen,lian,Undirected,1
+Knud,lian,Undirected,1
+Hauchs,Wessel,Undirected,1
+Apolio,Merkur,Undirected,1
+Hauch,Johan Ludvig,Undirected,1
+Gold,Mikkelsen,Undirected,1
+Gold,theol. Frimann,Undirected,1
+Felding,Frimann,Undirected,67
+Felding,capo,Undirected,1
+Frederik den syvende,Gortschakoff,Undirected,1
+Frederik den syvende,Hah,Undirected,1
+Hah,Zeh,Undirected,1
+Anddersen,Zeh,Undirected,1
+Anddersen,Felding,Undirected,1
+Felding,lian,Undirected,1
+biml,lian,Undirected,1
+Blanche,Felding,Undirected,2
+Felding,Svend,Undirected,2
+Felding,Frimann Felding,Undirected,1
+Frimann,Svend,Undirected,1
+Gud,Musse,Undirected,1
+Frimann,Musse,Undirected,2
+Frimann,menFelding,Undirected,1
+Frimann,Sofie,Undirected,14
+Alusse,Frimann,Undirected,1
+Alusse,Felding,Undirected,1
+Felding,Herren,Undirected,1
+Blanche,Mile Blanche,Undirected,1
+Frimann,Helga,Undirected,6
+Anna,Felding,Undirected,1
+Jomfru Jørgensen,vaares,Undirected,1
+Diig,vaares,Undirected,1
+Diig,Losi,Undirected,1
+Larsen,Losi,Undirected,1
+Jens Post,Larsen,Undirected,1
+Jens Post,Johanne,Undirected,1
+Knud Poulsen,Svend,Undirected,1
+Johanne,Knud,Undirected,5
+Beckmeyer,Helga,Undirected,3
+Helga,Husfreds,Undirected,1
+Hase,Knud,Undirected,1
+Mikkelsen,Svend,Undirected,1
+F elding,Gold,Undirected,1
+Felding,Helga,Undirected,23
+Helga,Knud,Undirected,5
+Beckmeyer,Knud,Undirected,3
+Beckmeyer,Felding,Undirected,11
+Helga,Johanne,Undirected,8
+Felding,Goids,Undirected,2
+Dudo,Saxo,Undirected,1
+Dudo,Tanais,Undirected,1
+Herodot,Tanais,Undirected,1
+Dan,Ingulez,Undirected,1
+Dan,Tanais,Undirected,1
+Ingul,Tanais,Undirected,1
+Ingul,Ingulones,Undirected,1
+Ashov,Ingulones,Undirected,1
+Ashov,Snorre,Undirected,1
+Cold,Gold,Undirected,1
+Anders,Felding,Undirected,1
+Anders,Johanne,Undirected,1
+Felding,Svendsen,Undirected,2
+Svendsen,Wulff,Undirected,7
+Sokrates,Wulff,Undirected,2
+Bjergby,V. G. Jensen,Undirected,1
+Bjergby,Wulff,Undirected,6
+Felding,Wulff,Undirected,3
+Bjergby,Svendsen,Undirected,1
+Lunding,Wulff,Undirected,1
+Bjergby,Diogenes,Undirected,1
+Bjergby,bibendi,Undirected,1
+Wulff,bibendi,Undirected,1
+Wulff,h øj,Undirected,2
+Frederik Folkekjærs,Wulff,Undirected,1
+Felding,Frederik Folkekjærs,Undirected,1
+Frimann,Svendsen,Undirected,1
+Felding,rimann,Undirected,1
+Darwin,Felding,Undirected,1
+Darwin,Frimann,Undirected,1
+Frimann,Heine,Undirected,1
+Byron,Heine,Undirected,1
+Byron,Frimann,Undirected,1
+Felding,Goethe,Undirected,2
+Goethe,Napoleon,Undirected,2
+Goethe,Napoleon —,Undirected,1
+Davoust,Napoleon —,Undirected,1
+Felding,Ovids,Undirected,1
+Quem si non tenuit,currus auriga paterni,Undirected,1
+Quem si non tenuit,magnis tamen excidit ausis,Undirected,1
+Felding,theol. Frimann,Undirected,1
+Madame Bovary,Svend Felding,Undirected,1
+Goethe,Heine,Undirected,1
+Felding,Piet,Undirected,1
+Johanne,Madame Bovary,Undirected,1
+Felding,Henriette,Undirected,1
+Cold,Helga,Undirected,10
+Gold,Helga,Undirected,2
+Helga,Sordine,Undirected,1
+Felding,Sordine,Undirected,1
+Beckmeyer,Cold,Undirected,3
+Beckmeyer,Heine,Undirected,1
+Heine,Helga,Undirected,1
+Felding,Musse,Undirected,2
+Helga,Sofie,Undirected,3
+Felding,Sofie,Undirected,11
+Johanne,Sofie,Undirected,5
+Johanne,Sofles,Undirected,1
+Frimann,Johanne,Undirected,4
+Frimann,L’,Undirected,1
+Felding,L’,Undirected,1
+Frimann,Jensen,Undirected,2
+Frimann,Theologen,Undirected,1
+Felding,Madam Frandsen,Undirected,1
+Johanne,lille Felding,Undirected,1
+Felding,nysgjerrig,Undirected,1
+Helga,nysgjerrig,Undirected,1
+Jette,Johanne,Undirected,1
+Felding,Frimams,Undirected,1
+Helga,lian,Undirected,1

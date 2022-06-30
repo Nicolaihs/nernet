@@ -1,0 +1,117 @@
+source,target,type,weight
+Haltola,Jesus,Undirected,1
+Haltola,triner,Undirected,1
+Svend,triner,Undirected,1
+Haltola,Svend,Undirected,1
+Haltola,Skjøiteberthe,Undirected,2
+Berthe,Per,Undirected,1
+Berthe,Guds,Undirected,1
+Berthe,Ola,Undirected,1
+Doren,Omeyers,Undirected,1
+Ane,Haltoles,Undirected,1
+Ane,Skakke,Undirected,1
+Ane,Sivertsen,Undirected,2
+Ane,Stakkar,Undirected,1
+Sivertsen,wilde,Undirected,1
+Espedal,Sivertsen,Undirected,3
+Ane,Espedal,Undirected,6
+Espedal,Guds,Undirected,1
+Espedal,Jes,Undirected,1
+Ane,Ane Olsen,Undirected,1
+Espedal,Jesus,Undirected,1
+Ane,Jesus,Undirected,1
+Ane,Jesu,Undirected,6
+Haltoles,Skøiteberthes,Undirected,1
+Pastoren,Tina,Undirected,1
+Espedal,Gud,Undirected,6
+Espedal,Moses,Undirected,1
+Ane,frank,Undirected,1
+Gud,Nische,Undirected,1
+Ane,eg,Undirected,3
+Ane,Anton,Undirected,22
+Anton,ifjor,Undirected,1
+Anton,hans,Undirected,2
+Adam,Anton,Undirected,1
+Ane,Gud,Undirected,11
+Ane,Svøbestad,Undirected,1
+Ane,Ribes,Undirected,1
+Anton,Omeyer,Undirected,1
+Adam,Espedal,Undirected,1
+Anton,eg,Undirected,1
+Anton,øs,Undirected,1
+Anton,Endre,Undirected,1
+Ane,Endre,Undirected,1
+Anton,Anton min,Undirected,2
+Ane,hans,Undirected,1
+Anton,bent,Undirected,1
+-,Ane,Undirected,1
+-,Anton,Undirected,1
+Ane,Gertrud,Undirected,1
+Anton,Jesu,Undirected,1
+Ane,bentud,Undirected,1
+Jesu,bentud,Undirected,1
+Anton,Madam,Undirected,1
+Ane,Madam,Undirected,1
+Bertel,Jomfru Olsen,Undirected,1
+Ane,Bertel,Undirected,1
+Bertel,Haltola,Undirected,1
+Ane,Anton —,Undirected,1
+Anton hin,Anton —,Undirected,1
+Anton,Anton hin,Undirected,1
+Gud,Omeyer,Undirected,2
+Peder Bastis,Rasmus Claudi,Undirected,1
+Erik Leganger,Rasmus Claudi,Undirected,1
+Monsen,Paulsen,Undirected,1
+Anton,Gud,Undirected,2
+Ribes,Vold,Undirected,1
+Anton,Ribes,Undirected,1
+Anton,Sine,Undirected,1
+eg,hans Berdines,Undirected,1
+Eg,Stytten,Undirected,1
+Stytten,eg,Undirected,1
+Anton,Mikkel Graver,Undirected,2
+Gud,Petrus,Undirected,1
+Ane,Anton Ribes,Undirected,1
+Peder Bast,Rasmus Claudii,Undirected,1
+Arilds,Rasmus Claudii,Undirected,1
+Arilds,Peder Bast,Undirected,1
+Anton Ribe,Testators,Undirected,1
+Funtus,Gud,Undirected,1
+Espedalen,Inger Marria,Undirected,1
+Espedal,Inger Marria,Undirected,1
+Inger Marria,kern,Undirected,1
+Gud,Inger Marria,Undirected,1
+Espedal,Omeyer,Undirected,2
+Berthe,Haltola,Undirected,1
+Ane,Lilleoles,Undirected,1
+Espedal,Haltole,Undirected,1
+Ane,Kristum,Undirected,1
+Anton,stakkar,Undirected,2
+Espedal,Lilleoles,Undirected,1
+Gud,Jesu,Undirected,3
+Gutten,Ole,Undirected,1
+Ane,Ole,Undirected,1
+Ane,Gutten,Undirected,1
+Karoline,Ole,Undirected,2
+Ole,totally,Undirected,1
+Consulent,Ole,Undirected,1
+stakkar,totally wreck,Undirected,1
+Eg,stakkar,Undirected,1
+Anton,Ole,Undirected,2
+Anton,Karoline,Undirected,1
+Ane,Madam Ribe,Undirected,1
+Ane,Christum,Undirected,1
+Ane,Ane skjalv,Undirected,1
+Ane,Omeyer,Undirected,3
+Mikkel,Mo’,Undirected,2
+Ane,O,Undirected,1
+Ole,Omeyer,Undirected,1
+Gud,insides,Undirected,1
+Gud,Rasmus,Undirected,1
+Ole Ribe,Rasmus,Undirected,1
+Ane Ribe,Tina,Undirected,1
+Mora,hans,Undirected,1
+Omeyer,Tina,Undirected,3
+Ane,Ane Ribe,Undirected,1
+Gud,Tina,Undirected,1
+Fogdens,Karl,Undirected,1

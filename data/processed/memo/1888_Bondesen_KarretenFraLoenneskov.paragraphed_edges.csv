@@ -1,0 +1,202 @@
+source,target,type,weight
+Aare,Jeppe Broby,Undirected,1
+H. Nielsens,Jeppe,Undirected,1
+Ane,Jeppe,Undirected,3
+Jeppe,Per Nielsen,Undirected,1
+Madsen,Per Nielsen,Undirected,1
+,Petrine,Undirected,1
+Ane,Karen,Undirected,1
+Jeppe,Petrine,Undirected,1
+Jeppe,Madsen,Undirected,2
+Per Nielsen,Petrine,Undirected,2
+Petrine,Søren,Undirected,2
+Karl,Petrine,Undirected,1
+Hanne,Jeppe,Undirected,1
+Fincke,Madsen,Undirected,1
+Konrad,lille Ellen,Undirected,1
+Ellen,Skovrider Lundbæk,Undirected,2
+Ellen,Madsen,Undirected,7
+Lundbæk,Mansdorf,Undirected,1
+Frøken Haldberg,Lundbæk,Undirected,2
+Cicerone,Madsen,Undirected,1
+Adler,jag,Undirected,1
+Ellen,kjære Madsen,Undirected,1
+Ellen,Hartvig,Undirected,15
+Frøken Haldberg,Hartvig,Undirected,5
+Ellen,Lieutnanten,Undirected,3
+Ellen,Frøken Haldberg,Undirected,2
+Ellen,Peter,Undirected,3
+Hartvig,Kaarupgaard,Undirected,7
+Frøken Adler,Frøken Haldberg,Undirected,1
+Ellen,Hellebjærg,Undirected,1
+Niels Bugge,d,Undirected,1
+Brinck,Hartvig,Undirected,4
+Adler,Hartvig,Undirected,3
+Gud,Krøyer,Undirected,1
+Hartvig,Jomfru Jepsen,Undirected,9
+Frøken Haldberg,Jomfru Jepsen,Undirected,3
+Hanne,Hartvig,Undirected,88
+Frøken Haldberg,Hanne,Undirected,5
+Charlotte,Ellen,Undirected,21
+Ellen,Jeppe,Undirected,1
+Charlotte,Jeppe,Undirected,1
+Ellen,Skovfoged Madsen,Undirected,1
+Hartvig,Madame Nielsen,Undirected,2
+Madame Nielsen,Peter,Undirected,2
+Ellen,Per Nielsen,Undirected,1
+Ifjor,Madame Nielsen,Undirected,1
+Charlotte,Hartvig,Undirected,30
+Charlotte,Egestok,Undirected,1
+Egestok,Stanleys,Undirected,1
+Hartvig,Hornemanns,Undirected,1
+Hartvig,Mansdorf,Undirected,2
+Jaquette,Jomfru Jepsen,Undirected,1
+Hartvig,Jaquette,Undirected,1
+Madame Nielsen,Madsen,Undirected,3
+Petrine,Rasmus,Undirected,1
+Gud,Petrine,Undirected,1
+.Charlotte,Ellen,Undirected,1
+Ellen,Madame Nielsen,Undirected,2
+Charlotte,Madame Nielsen,Undirected,2
+Charlotte,Madsen,Undirected,4
+Jomfru Jepsen,Madame Nielsen,Undirected,2
+Hartvig,Madsen,Undirected,4
+Adam,Eva,Undirected,1
+A. L.,S.,Undirected,1
+Madame Nielsen,S.,Undirected,1
+Angel,Charlotte,Undirected,1
+Angel,Hartvig,Undirected,1
+Charlotte,umaadelig,Undirected,2
+Hartvig,Pyrrha,Undirected,1
+Charlotte,Jomfru Jepsen,Undirected,3
+Jepsen,Jomfru Jepsen,Undirected,1
+Charlotte,Hanne Jepsen,Undirected,1
+Hartvig,Jepsen,Undirected,1
+Charlotte,Hanne,Undirected,23
+Hanne,Madame Nielsen,Undirected,3
+Charlotte,Patos,Undirected,1
+Madame Nielsen,Patos,Undirected,1
+Madame Nielsen,Petrine,Undirected,1
+Ellen,Petrine,Undirected,1
+Ellen,Karlen,Undirected,1
+.Hartvig,Karlen,Undirected,1
+.Hartvig,Hanne,Undirected,1
+Ellen,Hanne,Undirected,11
+Charlotte,Lieutnant Mansdorf,Undirected,2
+Hanne,Svendsen,Undirected,1
+Hanne,Hartvig Adler,Undirected,1
+Hanne,Karlen,Undirected,2
+Hanne,Søren,Undirected,23
+Skovfoged Madsen,Søren,Undirected,2
+Hanne,Søren Madsen,Undirected,4
+Søren,Søren Madsen,Undirected,1
+Ellen,Lundbæk,Undirected,2
+Hartvig,Søren,Undirected,5
+Hartvig,Marie,Undirected,1
+Hanne,Marie,Undirected,1
+Hanne,Jomfru Jepsen,Undirected,1
+Jomfru Lisken,Kaarupgaard,Undirected,1
+Gud,Hr. Broby,Undirected,1
+Kaarupgaard,Kamilla,Undirected,1
+Adolf,Kaarupgaard,Undirected,1
+Gud,Hartvig,Undirected,6
+Hartvig,Jeppe Broby,Undirected,2
+.Amalie,Hartvig,Undirected,1
+Hartvig,Tante Betty,Undirected,1
+Betty,Tante Betty,Undirected,1
+Betty,Hanne,Undirected,1
+Madsen,Peter,Undirected,1
+Frøken Haldberg,Madsen,Undirected,1
+Charlotte,Gud,Undirected,1
+Charlotte,gurer,Undirected,1
+Ellen,Jomfru Jepsen,Undirected,1
+Jomfru Jepsen,Kaarupgaard,Undirected,1
+Ellen,Kaarupgaard,Undirected,1
+Gud,Hanne,Undirected,3
+Gud,Peter,Undirected,1
+Hartvig,Peter,Undirected,11
+Betty,Kaarupgaard,Undirected,1
+Betty,Charlotte,Undirected,1
+Charlotte,Per,Undirected,1
+Charlotte,Frøken Haldberg,Undirected,1
+Charlotte,Lieutnanten,Undirected,1
+Haldberg,Lohmann,Undirected,1
+Chalotte,Charlotte,Undirected,1
+Charlotte,Mansdorf,Undirected,12
+Gud,Mansdorf,Undirected,1
+Adler,Charlotte,Undirected,1
+Frøken Haldberg,Mansdorf,Undirected,1
+Charlotte,Hartvig Adler,Undirected,2
+Charlotte,ifjor,Undirected,1
+Eggen,Mansdorf,Undirected,1
+Charlotte,Eggen,Undirected,1
+Adler,Svendsen,Undirected,1
+Brinckers,Hartvig,Undirected,1
+Brincker,Hartvig,Undirected,1
+Per,Povl,Undirected,1
+Adler,Peter,Undirected,1
+Kaarupgaard,Søren,Undirected,1
+Hanne,Kaarupgaard,Undirected,2
+Adler,Hanne,Undirected,6
+Mongolers,Oljekager,Undirected,1
+Gud,véd,Undirected,1
+Haldberg,Hartvig,Undirected,1
+Hanne,Praxis,Undirected,1
+Hartvig,Søren Madsen,Undirected,4
+Jeppe Broby,Søren Madsen,Undirected,1
+Charlotte Haldbergs,Hanne,Undirected,1
+Charlotte Haldbergs,Vilkaar,Undirected,1
+Søren,kaarupgaardske,Undirected,1
+Hanne,than,Undirected,1
+Kamilla,hin,Undirected,1
+Hartvig,hin,Undirected,1
+Hanne Jepsen,Hartvig,Undirected,1
+Hanne,Jens,Undirected,2
+Hartvig,Karlen,Undirected,1
+Hartvig,Tut,Undirected,1
+Hans,Povl Mikkelsen,Undirected,1
+Charlotte Haldberg,Hartvig,Undirected,1
+Hartvig,Nemesis,Undirected,2
+Charlotte Haldberg,Hanne,Undirected,2
+Charlotte,Kaarupgaard,Undirected,2
+Jeppe,Jeppe Broby,Undirected,1
+Bedstefader,Hanne,Undirected,1
+Hartvig,Mogens Harpes,Undirected,1
+Albert,Hanne,Undirected,1
+Albert,Kusk,Undirected,1
+Ellen,Kusk,Undirected,1
+Hanne,Peter,Undirected,2
+Nankins,Peter,Undirected,1
+Hanne,Lundbæk,Undirected,1
+Ellen,lille Ellen,Undirected,1
+Brinck,Brincker,Undirected,1
+Frøken Kolbe,Hanne,Undirected,1
+Hanne,lille Albert,Undirected,1
+Frøken Kolbe,Lundbæk,Undirected,1
+Adler,Munck,Undirected,1
+Blut,Charlotte,Undirected,1
+Charlotte,montrez moi mes fautes,Undirected,1
+Voltaire,montrez moi mes fautes,Undirected,1
+Frøken Haldberg,Hr. Munck,Undirected,1
+Charlotte,Frøken Lohmann,Undirected,1
+Hartvig,Munck,Undirected,1
+Kaarupgaard,Shelley,Undirected,1
+Hartvig,Søren Skovfoged,Undirected,2
+Søren,Søren Skovfoged,Undirected,1
+Al,Søren,Undirected,2
+Hartvig,stum,Undirected,1
+Hanne,stum,Undirected,1
+Hartvig,Mosegaard,Undirected,1
+Pour vivre,vivons,Undirected,1
+Hartvig,Pjalt,Undirected,1
+Hanne,Karl,Undirected,1
+Karl,lille Hanne,Undirected,1
+Hanne,Madsen,Undirected,2
+Ellen,Nielsen,Undirected,1
+Maa,Peter,Undirected,1
+Peter,Petrine,Undirected,3
+Bruden,Gud,Undirected,1
+Hartvig,Lønneskov,Undirected,1
+Madsen,Skovfoged Madsen,Undirected,1
+Brincker,Peter,Undirected,1
+Madsen,Petrine,Undirected,1

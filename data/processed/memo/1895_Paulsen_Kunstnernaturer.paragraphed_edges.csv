@@ -1,0 +1,145 @@
+source,target,type,weight
+Benjamin,madam Lunde,Undirected,8
+Benjamin,Ole Strand,Undirected,3
+Ole,Ole Strand,Undirected,2
+Benjamin,Madam Lunde,Undirected,5
+Inger,Kognac,Undirected,1
+Benjamin,Kognac,Undirected,1
+Ole neppe,madam Lunde,Undirected,1
+Ole Strand,madam Lunde,Undirected,1
+Benjamin,Ole,Undirected,39
+Madam Lunde,Ole Strand,Undirected,1
+Bjørnson,Ole,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Ibsen,Ole Bull,Undirected,1
+Ole,Ole Bull,Undirected,1
+Ole,madam Lunde,Undirected,1
+Danielsen,Madam Lunde,Undirected,1
+Ole,strofen,Undirected,1
+Madam Lunde,Ole,Undirected,1
+Ole Strand,Strand,Undirected,1
+Strand,madam Lunde,Undirected,1
+bentoverfor,madam Lunde,Undirected,1
+bento verfor,madam Lunde,Undirected,1
+Ole,horizont,Undirected,1
+Lise,Ole,Undirected,32
+Benjamin,Strand,Undirected,10
+Benjamin,Lise,Undirected,28
+Lise,Strand,Undirected,15
+Myrvold,Ole,Undirected,1
+Myrvold,guttens,Undirected,1
+Ole,guttens,Undirected,1
+Benjamin,Danielsen,Undirected,1
+Benjamin,snille,Undirected,1
+pene madam Lunde,snille,Undirected,1
+Strand,pene madam Lunde,Undirected,1
+Isaren,Kathi,Undirected,1
+Kathi,bjørn,Undirected,2
+bjørn,kafeen,Undirected,1
+Clara Schumann,kafeen,Undirected,1
+Beethoven,Clara Schumann,Undirected,1
+Clara,Ole,Undirected,1
+Goethe,Rembrandt,Undirected,1
+Kathi,ein guter,Undirected,1
+Darwins,Goethe,Undirected,2
+Goethe,Kathi,Undirected,1
+Goethe,Ole,Undirected,3
+Benjamin,Goethe,Undirected,3
+Goethe,Schiller,Undirected,2
+Don Carlos,Schiller,Undirected,1
+Anton,madam,Undirected,1
+Anton,Inger,Undirected,1
+Inger,klein,Undirected,1
+Schiller,stelle,Undirected,1
+Benjamin,stelle,Undirected,1
+Benjamin,sjømand,Undirected,1
+guds,madam Lunde,Undirected,1
+madam Dreier,madam Lunde,Undirected,1
+Hansen,madam Dreier,Undirected,1
+Schneider,Strand,Undirected,1
+Ole,Schneider,Undirected,1
+Ole,Strand,Undirected,5
+Benjamin,Olemand,Undirected,1
+Ole,Olemand,Undirected,2
+Benjamin —,Ole,Undirected,1
+Strand,rose,Undirected,1
+Benjamin,Ole Bull,Undirected,1
+Lisemor,Ole,Undirected,1
+Benjamin,Kathi,Undirected,1
+Benjamin,Schumann,Undirected,1
+Madam Lunde,madam Lunde,Undirected,2
+Ole,bjørn,Undirected,1
+pekuniært,“,Undirected,1
+Ole,pekuniært,Undirected,1
+Lise,fru Strands,Undirected,2
+Ole,fløiels,Undirected,1
+Hedvig,fløiels,Undirected,1
+Hedvig,gutten,Undirected,1
+Ole,gutten,Undirected,2
+Ole,bedstemoders,Undirected,1
+Danielsen,Ole,Undirected,3
+Nielsine,Strand,Undirected,1
+Lise,Nielsine,Undirected,1
+Lise,gud,Undirected,1
+Lise,høkermadam,Undirected,2
+Georg Hagemann Vold,N.,Undirected,1
+Ole,X—,Undirected,1
+Georg,Ole,Undirected,1
+Kathi,Ole,Undirected,7
+Kathi,Ludwigsstrasse,Undirected,1
+Isaren,Ole,Undirected,1
+Lise,Simonsen,Undirected,2
+Ole,Simonsen,Undirected,1
+Lise,Sofie,Undirected,1
+Lise,Sist,Undirected,1
+Benjamin keg,Lise,Undirected,1
+Benjamin,påny,Undirected,1
+Gesunder mensch ohne geld ist halb krank,Goethe,Undirected,1
+Paul Heyse,feires,Undirected,1
+Kathi,Schick,Undirected,1
+Strand,madam Meiszling,Undirected,1
+Lise,Lisemor,Undirected,1
+Lise,Schneider,Undirected,3
+Lise,gutten,Undirected,1
+Lise,joviale Jensen,Undirected,1
+Benjamin,fru Strands,Undirected,1
+Lise pleied,Ole,Undirected,2
+Fiedlers,Kathi,Undirected,1
+Fiedlers,Ole,Undirected,1
+Ole,ovei,Undirected,1
+Kathi,Ole stansed,Undirected,1
+Kathi,Spielhagen,Undirected,1
+Benjamin,Benjamin 1,Undirected,1
+Benjamin 1,påny,Undirected,1
+Ole,påny,Undirected,1
+Lise,Per Gynt,Undirected,1
+Lise,Olemand,Undirected,1
+Reimers,Vigeland,Undirected,1
+Krebs,Reimers,Undirected,1
+Schneider,tilleie,Undirected,1
+Ole,tilleie,Undirected,1
+Ole,siste,Undirected,1
+Benjamin,Stakkers,Undirected,1
+Dantes,Ole,Undirected,2
+Lise,Madam Lunde,Undirected,2
+Lunde,Madam Lunde,Undirected,1
+Lise,madam Lunde,Undirected,1
+Alfred,Ewers,Undirected,3
+Alfred,Alfred G.,Undirected,2
+B.,C.,Undirected,1
+A. gier,B.,Undirected,1
+Blom,frøken Palme,Undirected,1
+Doria,Jens,Undirected,2
+Doria,domino,Undirected,1
+Ludvig,Paul,Undirected,1
+Paul,Sverre,Undirected,1
+Emil Ewers,Sverre,Undirected,1
+Lone,øine,Undirected,1
+Lone,konsten,Undirected,1
+Bjørnson,applaus,Undirected,1
+Lone,tom,Undirected,1
+B—,Emil Ewers,Undirected,1
+B—,Ludvig,Undirected,1
+Ludvig,snille,Undirected,2
+Marie,ilive,Undirected,1
+Shakespeare,anemone,Undirected,1

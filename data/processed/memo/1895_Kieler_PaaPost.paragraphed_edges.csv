@@ -1,0 +1,312 @@
+source,target,type,weight
+Gud,Siddon,Undirected,1
+Henry Siddon,Mrs.,Undirected,1
+Mrs.,Siddon,Undirected,1
+Dagmars,Madam Lindal,Undirected,1
+Dagmars,Gud,Undirected,1
+Finne,Hr. Molander,Undirected,1
+Finne,Nikolaj eller,Undirected,1
+Kalle Molanders,Nikolaj Nikolajewitsch,Undirected,1
+Nikolaj Nikolajewitsch,Pohjola*,Undirected,1
+Molander,Pudas-jarvi,Undirected,1
+Niva,Zheljeznoja goros,Undirected,1
+. Hjarlhstrøms,lir,Undirected,1
+Gregor,Hjiirthstrøm,Undirected,1
+Hjiirthstrøm,lir,Undirected,1
+Molander,liun,Undirected,1
+Bøgh,Spasiba,Undirected,1
+Gregori,Hjiirthstrøm,Undirected,1
+Gregori,Molander,Undirected,1
+Hjiirthstrøm,Molander,Undirected,1
+Hjiirthstrøm,Imandra,Undirected,1
+Molandors,Vasili,Undirected,1
+Imandra,Molander,Undirected,1
+Imandra,Vasili,Undirected,3
+Jokostrov,Vasili,Undirected,1
+Vasili,s,Undirected,1
+Vasili,lian,Undirected,1
+Molander,s,Undirected,1
+Hjarth-strom,J^apland,Undirected,1
+Molander,Nemesis,Undirected,1
+Hjarthstrom,Molander,Undirected,1
+Ron,Sælje,Undirected,1
+Hr. Hjiirthstrøm,Hr. Molander,Undirected,2
+Kolas,Peter den Store,Undirected,1
+Hjarthstrom,lir,Undirected,1
+Gud,Hr. Hjarthstrøm,Undirected,1
+Hr. Mclikoffs,Hr. Molander,Undirected,1
+Hr. Molander,Kalle Molanders,Undirected,1
+Kalle Molanders,Nikolai Nikolajewitsch,Undirected,1
+Nikolai Nikolajewitsch,Tønnies,Undirected,1
+Boslaw,Petrowna Melikoff,Undirected,1
+Hjiirthstrøm,Petrowna Melikoff,Undirected,1
+Mitjef Melikoff,ban,Undirected,1
+Boslaw,ban,Undirected,1
+Hr. Molander,Molander,Undirected,1
+Hjarthstrøm,Hr. Hjarthstrom,Undirected,1
+Hjarthstrøm,lian,Undirected,1
+Kola,de forste,Undirected,1
+Hr. Shishelov,Kola,Undirected,1
+Gud,Hjiirthstrøm,Undirected,1
+Hr. Hjiirthstrøm,Kaptejn Lyons,Undirected,1
+Hr. Hjiirthstrøm,do,Undirected,1
+Frans kmæn,do,Undirected,1
+Kaptejn Lyons,Kola,Undirected,1
+Adam,Eva,Undirected,1
+Czaren,Piter,Undirected,2
+Ghita Tonnies,sorn,Undirected,1
+Georg,Lodsens,Undirected,2
+Hr. Hjarthstrøm,Hr. Tønnies,Undirected,1
+Ghita,Hr. Tønnies,Undirected,1
+Ghita,Trifan,Undirected,2
+Hr. Hjårth-strøm,Madam Tønnies,Undirected,1
+Hr. Hjårth-strøm,Hr. Tønnies,Undirected,1
+Hr. Tønnies,Thema,Undirected,1
+Molander,Thema,Undirected,1
+Molander,Tomsk.,Undirected,1
+Ghita,Hjarthstrøm,Undirected,2
+Ghita,Hr. Molander,Undirected,3
+Georg,Ghita,Undirected,1
+Ghita,Gyller,Undirected,1
+Georg,Gyller,Undirected,1
+Georg,Mathea,Undirected,1
+Dovres,Hjarthstrøm,Undirected,1
+Gud,Molander,Undirected,2
+Hjarthstrøm,Molander,Undirected,3
+Hjarthstrøm,Satans,Undirected,1
+Jesus,Satans,Undirected,1
+Hjarthstrøm,Jesus,Undirected,1
+Hjårthstrøm,Molander,Undirected,1
+Ghita,Hjårthstrøm,Undirected,1
+Dovres,Ghita,Undirected,1
+Jerkind,Mo’,Undirected,1
+Hr. Hjårthstrøm,Hr. Molander,Undirected,1
+Gud,Hjarthstrøm,Undirected,1
+Birken,Hjarthstrøm,Undirected,1
+Gud,Kaptejns,Undirected,1
+Armand,Gerard,Undirected,1
+Armand,lian,Undirected,1
+Armaud,Gerard,Undirected,2
+Allons,Armaud,Undirected,1
+Allons,Ladosdog,Undirected,1
+Frøken Alsing,Gbita Molander,Undirected,1
+Armaud,bun,Undirected,1
+Armaud,Solferino,Undirected,1
+Armaud,Frøken Alsing,Undirected,1
+Boris Gleb,Gud,Undirected,1
+Apostle,Gud,Undirected,1
+Apostle,Peter og,Undirected,1
+Orientalere,Peter og,Undirected,1
+Dagmar,Gud,Undirected,6
+Gud,Herwarth,Undirected,2
+Dagmar,Ghita,Undirected,26
+Ghita,Gud,Undirected,4
+Hr. Hjarthstrøm,kege,Undirected,1
+Adam,kege,Undirected,1
+Boslaw,s,Undirected,1
+Kaptejn,s,Undirected,1
+Hr. Molander,Nancy,Undirected,1
+Ghita,Hr. Hjarthstrøm,Undirected,1
+Georg,kim,Undirected,1
+Armaud,liendes,Undirected,1
+Ghita Tønnies,Hr. Molander,Undirected,1
+Liebenstein,Sterrenberg,Undirected,1
+Schiffer,schaut,Undirected,1
+Lehn,Rhin,Undirected,1
+Dagmar,liar,Undirected,1
+Gan,Karl Theodor,Undirected,1
+Karl den femte,Monsieur le baron,Undirected,1
+Ghita,Mademoiselle Alsing,Undirected,1
+Ghita,Madame la baronne,Undirected,1
+Dagmar,Kellneren,Undirected,1
+Dagmar,Kellner,Undirected,1
+Henri Armaud,Kaptejn Hervé,Undirected,1
+Dagmar,Otto Henriks Bau,Undirected,1
+Jakob,Otto Henriks Bau,Undirected,1
+Isles,Jakob,Undirected,1
+Isles,Prinsesse Elisabeth,Undirected,1
+Dagmar,ban,Undirected,1
+Georg Brataasen,Ghita,Undirected,2
+Ghita,Triest,Undirected,1
+Dagmar,Linz,Undirected,1
+Linz,Richard Løvehjerte,Undirected,1
+Richard,Richard Løvehjerte,Undirected,1
+Dagmar,Georg,Undirected,2
+Ghita,Salzaeh,Undirected,1
+Dagmar,Georg Brataasen,Undirected,1
+Ghita,Ikaros,Undirected,1
+Armaud,Ghita,Undirected,2
+Napoleon,de Bourget,Undirected,1
+MademoiselleI,monsieur,Undirected,1
+Louis quatorze,Louis quinze,Undirected,1
+Dagmar,Henri Armaud,Undirected,1
+Byron,Rousseau,Undirected,2
+Byron,Vevey,Undirected,1
+Clarens,Vevey,Undirected,1
+Clarens,Villeneuve,Undirected,1
+Ghita,liun,Undirected,1
+Byron,monsieur,Undirected,1
+Que dites-vous,Rousseau,Undirected,1
+Dagmar,denl,Undirected,1
+Armaud,denl,Undirected,1
+Armaud,belle,Undirected,1
+Dagmar,liam,Undirected,1
+Albert leende,l’,Undirected,1
+Armaud,La belle Olympo,Undirected,1
+honneur,monsieur,Undirected,2
+Armaud,monsieur,Undirected,1
+Madame St. Paul,honneur,Undirected,1
+Este,d,Undirected,1
+Armaud,Vicomte,Undirected,1
+Vicomte,d,Undirected,1
+Albert,d,Undirected,1
+Madame St. Paul,monsieur,Undirected,2
+de,honneur,Undirected,1
+Henri Armaud,lian,Undirected,1
+Charlottes,Maximilians,Undirected,1
+Charlottes,Gloire,Undirected,1
+Monsieur,monsieur,Undirected,2
+Napoleon den,monsieur,Undirected,1
+Napoleon den,l’,Undirected,1
+Empereur,l’,Undirected,1
+Empereur,Orsinis,Undirected,1
+Gerard Hervé,Napoleon,Undirected,1
+Armaud,Troppmann,Undirected,1
+Croissé,Madame,Undirected,1
+Dagmar,delle,Undirected,1
+Wørth,belle,Undirected,1
+Armaud,Dagmar,Undirected,7
+Dagmar,Vicomte d,Undirected,1
+Albert,Vicomte d,Undirected,2
+H. C.,ban,Undirected,1
+honneur,madame,Undirected,1
+Madame,Monsieur,Undirected,1
+Baron,Madame Armaud,Undirected,1
+Madame,madame,Undirected,4
+madame,mademoiselle Tønnies,Undirected,1
+Madame,mademoiselle Tønnies,Undirected,1
+madame,monsieur Bernard,Undirected,1
+Dagmar,monsieur Bernard,Undirected,1
+Rosehelle,madame Armaud,Undirected,1
+Roschelle,madame Armaud,Undirected,1
+Louis Phillip,Marschal Seba-stianis,Undirected,1
+Marschal Seba-stianis,Marschal Sebastiani,Undirected,1
+Sebastianis,madame,Undirected,2
+Avind,Dagmar,Undirected,1
+Napoleon,Orsinis,Undirected,1
+Mazzini,Napoleon,Undirected,1
+Moutons,neppe,Undirected,1
+Madame St. Paul,madame,Undirected,1
+Vesta,madame,Undirected,1
+Armaud,Lord Spencer,Undirected,1
+Armaud,Madame d,Undirected,1
+Eros,liun,Undirected,1
+Ghita,Ilendes,Undirected,1
+Gud,Ilendes,Undirected,1
+Dagmar,Ernanis,Undirected,1
+madame,madame St. Paul,Undirected,1
+Armaud,Grev de Bourgét,Undirected,1
+Greven,madame,Undirected,1
+Armaud,Katholik,Undirected,1
+Ghita,Imandra,Undirected,1
+Dagmar,Napoleon den,Undirected,1
+Albert leende,Vicomle d,Undirected,1
+Dagmar,madame Armaud,Undirected,1
+Armaud,madame Armaud,Undirected,1
+Paul,madame,Undirected,1
+Dagmar,Gerard,Undirected,1
+Moses,Sinai,Undirected,1
+Gud,madame,Undirected,2
+madame,madame?,Undirected,2
+Heines,mein Kaiser wohl,Undirected,1
+mein Kaiser wohl,steig,Undirected,1
+Kaiser,steig,Undirected,1
+Halling,monsieur,Undirected,1
+Krøsus,Solon,Undirected,1
+Klobis,Krøsus,Undirected,1
+Biton,Klobis,Undirected,1
+Boslaw,Vasili,Undirected,1
+Gud,Henri Armaud,Undirected,1
+Armaud,liam,Undirected,1
+Auteuils,Z .,Undirected,1
+Madame,monsieur,Undirected,1
+Armaud,ban,Undirected,1
+Pierre Napoleon,Victor Noir,Undirected,1
+Bonaparte,Pierre Napoleon,Undirected,1
+Napoleon,honneur,Undirected,1
+Emile Ollivier,honneur,Undirected,1
+Emile Ollivier,Gud,Undirected,1
+Gud,Henri Rochefort,Undirected,1
+Victor Noir,honneur,Undirected,1
+honneur,madame St. Paul,Undirected,1
+madame St. Paul,monsieur Armaud,Undirected,1
+Dagmar,Flonels,Undirected,1
+Pierre«,Victor Noir,Undirected,1
+Dann reitet mein Kaiser wohl,Viel' Schwerter,Undirected,1
+Dann steig,Viel' Schwerter,Undirected,1
+Dann steig,hervor aus dem Grab,Undirected,1
+Kaiser,hervor aus dem Grab,Undirected,1
+Konrad Hultenberger,terer,Undirected,1
+Louisson Dandin,terer,Undirected,1
+Ghita,Schawlet,Undirected,1
+Suzette,madame,Undirected,1
+Loreley,Monsieur,Undirected,1
+Frossards,Madame St. Paul,Undirected,1
+Baron Salviéres,Grandtante,Undirected,1
+Raoul,madame,Undirected,1
+Abnor miteter,Raoul,Undirected,1
+Ritterberg,madame St. Paul,Undirected,2
+Alberl,Vicomte d,Undirected,1
+Alberl,Vive la Fijance,Undirected,1
+Kaptejn Armaud,madame,Undirected,1
+Armaud,Kaptejn,Undirected,1
+Kaptejn Armaud,X.,Undirected,1
+Kaptejn Armaud,Monsieur,Undirected,1
+Kaptejn Armaud,madame St. Paul,Undirected,1
+Henri Armaud,Kaptejn Armaud,Undirected,1
+Kaptejn Armaud,messieurs,Undirected,1
+Henri Armaud,messieurs,Undirected,1
+Greven,honneur,Undirected,1
+Gerard,Gud,Undirected,2
+Ghita Tønnies,Gud,Undirected,1
+Curzon,lian,Undirected,1
+Fyrl,lian,Undirected,1
+Depesche,Kaptejn Hervé,Undirected,1
+Armaud,Depesche,Undirected,1
+Armaud,Gud,Undirected,4
+Sablen,klirre,Undirected,1
+Dagmar,liun,Undirected,2
+Armaud,Ritterberg,Undirected,1
+Armaud,Madame St. Paul,Undirected,1
+Ghita,Lady Maebeth,Undirected,1
+Frossard,Ritterberg,Undirected,1
+Pater Clemens,Saar,Undirected,1
+Marquis d’,Pater,Undirected,1
+Bralaasen,Georg,Undirected,1
+Dagmar taug,Georg taug,Undirected,1
+Byron,Goethes,Undirected,1
+Byron,Voltaires,Undirected,1
+Wenn die Schwalben,wenn die Schwalben,Undirected,1
+Georg,wenn die Schwalben,Undirected,1
+Dagmar,Kaptejn Brataasen,Undirected,1
+Metz,madame,Undirected,1
+Gud,Metz,Undirected,1
+madame,sone,Undirected,1
+Kain,madame,Undirected,1
+Gud,Kain,Undirected,1
+Henri Armaud,madame,Undirected,1
+Ghita Tønnies,Madame St. Paul,Undirected,1
+madame Armaud,madame St. Paul,Undirected,1
+Gud,Jesu,Undirected,1
+Curzon,Meta,Undirected,1
+Gud,adler,Undirected,2
+Bjørn,Maa-gernes,Undirected,1
+Siddon,lian,Undirected,1
+Armaud,Offret,Undirected,1
+Gud,Valdemars,Undirected,1
+Aaget,Armaud,Undirected,1
+Dagmar,el henrykt Udraab,Undirected,1
+Ghita,Graad,Undirected,1
+Dagmar,Graad,Undirected,1
+Dagmar,Vasili,Undirected,1
+Ghita,Vasili,Undirected,1

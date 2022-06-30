@@ -1,0 +1,164 @@
+source,target,type,weight
+Jing,Karen,Undirected,4
+Guds,Karen Hav,Undirected,1
+Karen Hav,Karls,Undirected,1
+Jing,Karen Hav,Undirected,1
+Bertel Winkelwerder,Karen Hav,Undirected,1
+Gud,Karen,Undirected,2
+Jomfru Hønne,Madame Skads,Undirected,1
+Karen,Madame Skads,Undirected,4
+Jomfru Hønne,Karen,Undirected,1
+Axel,Valborg«,Undirected,1
+Karen,Valborg«,Undirected,1
+Gud,Jomfru Hønne,Undirected,2
+Klemens,Madame Skads,Undirected,1
+Karen,Klemens,Undirected,3
+Fenne,Karen,Undirected,1
+Karen,Vollsacks,Undirected,1
+Jomfru Hønne,Vollsacks,Undirected,1
+Hønne,Karen,Undirected,1
+Axel,Valborg,Undirected,2
+Karen Hav,Karl,Undirected,1
+Ebbe,Karen,Undirected,1
+Karen Hav,Skipper Klemens,Undirected,1
+Barak-Stines,Karen,Undirected,2
+Barak-Stines,Karen Hav,Undirected,1
+kj,lille Niels,Undirected,1
+Jon Tjæreborg,Jon Øgmundsen,Undirected,2
+jasaa,lille Karen,Undirected,1
+Karen,Tjæreborg,Undirected,8
+Karen,allenfals,Undirected,1
+Jesus,allenfals,Undirected,1
+Jon Tjæreborg,Ole Lukøje,Undirected,1
+Dyvekes,Torben Oxe,Undirected,1
+Dyvekes,Jon Tjæreborg,Undirected,2
+Dyvekes,Sigbrit —,Undirected,1
+Sigbrit,Sigbrit —,Undirected,1
+Dyveke,Sigbrit,Undirected,1
+Dyveke,Torben Oxe,Undirected,2
+Jon,Tjæreborg,Undirected,2
+Gud,véd,Undirected,2
+Karen,Madam Sørup,Undirected,1
+Gud,Jon,Undirected,1
+Gunnar Tjæreborg,Klemens,Undirected,1
+Gud,j eg,Undirected,1
+Barak-Stines,Niels Buch,Undirected,1
+Klemens,Skads,Undirected,1
+Karen,Napoleon,Undirected,2
+Evropas,Napoleon,Undirected,1
+Evropas,Tjæreborg,Undirected,1
+Hans Christian Ørsteds,Tjæreborg,Undirected,1
+Gud,Niels Buch,Undirected,2
+Jon,véd,Undirected,1
+Karen,Sara Dessauer,Undirected,3
+Dessauer,Karen,Undirected,1
+Axel,Jomfru Dessauer,Undirected,1
+Barak-Stines,Katharina,Undirected,1
+Gunnar,Katharina,Undirected,2
+Karen,Zifre,Undirected,1
+Jon Tjæreborg,Karen,Undirected,3
+Karen,Niels Buch,Undirected,9
+Kristen Tromborg,Schanche,Undirected,1
+Kristen Tromborg,Silles,Undirected,1
+Bartskj,Silles,Undirected,1
+Gunnar,Katharine,Undirected,1
+Barbro,Katharine,Undirected,1
+Jon,Niels,Undirected,1
+Karen,Petersille,Undirected,1
+Barbro,MadaAi Gundersen,Undirected,1
+Karen,Karen Hav,Undirected,1
+Hoskjær,Karen,Undirected,1
+Tjæreborg,taalmodig,Undirected,1
+Karen,taalmodig,Undirected,1
+Niels Buch,Tjæreborg,Undirected,1
+Gud,Madam Tjæreborg,Undirected,1
+Judæ,Sara,Undirected,1
+Judæ,Kalisch,Undirected,1
+Kalisch,Madam Tjæreborg,Undirected,1
+Gunnar,Niels Buch,Undirected,3
+Gud,Mo,Undirected,1
+Gunnar,Karen,Undirected,6
+Briichmann,Niels Buch,Undirected,1
+Bruchmann,Katharina,Undirected,1
+Madam Sørup,Madam Tjæreborg,Undirected,1
+Barbro,Gunnar,Undirected,3
+Cæsar,Karen Tjæreborg,Undirected,1
+Hr. Briichmanns,Katharina,Undirected,1
+Hr. Bruchmann,Karen,Undirected,1
+Hr. Bruchmann,Katharina,Undirected,1
+Karen,Katharina,Undirected,2
+Barbro,Niels Buch,Undirected,1
+J*eg,Karen,Undirected,1
+Gud,Martinus,Undirected,1
+Karen,lille Bruchmann,Undirected,1
+Briichmann,lille Bruchmann,Undirected,1
+Gud,lille Gunnar,Undirected,1
+Bruchmann,Ulrikka,Undirected,1
+Bruchmann,Kirkegaard,Undirected,1
+Kirkegaard,Mayenhardt,Undirected,1
+Gunnar,Ulrikka,Undirected,1
+Karen,Ulrikka Mayenhardt,Undirected,1
+Baade Barbro,Peter Bastian Knudsen,Undirected,1
+Karen,gamle,Undirected,1
+Barbro,Karen,Undirected,4
+Peter,Ulrikka,Undirected,1
+Bruchmann,Karen,Undirected,1
+Madam Tjæreborg,Peter Bastian,Undirected,1
+Karen,Peter Bastian,Undirected,6
+Karen,Peter Knudsen,Undirected,2
+Katharina,Peter Knudsen,Undirected,1
+Peter Knudsen,Ulrikka,Undirected,1
+Karen,lille Ulrikka,Undirected,2
+Katharina,maalløs,Undirected,1
+Hoskjær,Jon Tjæreborg,Undirected,1
+Barbro,Katharina,Undirected,1
+Hr. Briichmann,Hr. Brlichmanns,Undirected,1
+Hr. Brlichmanns,Karen Tjæreborg,Undirected,1
+Gud,Katharina,Undirected,1
+Barbro,Johanne Prunsch,Undirected,2
+Johanne Prunsch,Peter Bastian Knudsen,Undirected,1
+Barbro,Peter Bastian Knudsen,Undirected,1
+Knudsen,Møllerens,Undirected,1
+Barbro,Peter Bastian,Undirected,3
+Barbro,Prunsch,Undirected,1
+Johanne Prunsch,Karen,Undirected,1
+-Gunnar,Johanne Prunsch,Undirected,1
+-Gunnar,Barbro,Undirected,1
+Peter Bastian,sejerstolt,Undirected,1
+Karen,lille Niels,Undirected,1
+Gunnar Tjæreborg,Johanne Prunsch,Undirected,1
+Madam Hummelgaard,Tjæreborg,Undirected,1
+Barbro,Tjæreborg,Undirected,3
+Barbro,Peter Knudsen,Undirected,1
+Johanne,Karen,Undirected,3
+Ulrikka,lille Johanne,Undirected,1
+Gunnar,Tjæreborg,Undirected,1
+Gunnar,Johanne,Undirected,1
+Karen —,Peter Bastian,Undirected,1
+Barbro,Johanne,Undirected,2
+Johanne,Peter,Undirected,1
+Johanne Citheren,Niels Buch,Undirected,1
+Bruchmann,Peter Bastian,Undirected,1
+Grobian,Karen,Undirected,1
+Karen,lille Mo,Undirected,1
+Gunnar,Jon Tjæreborg,Undirected,1
+Jon,Peter,Undirected,1
+Gunnar,Jon,Undirected,2
+Madam Tjæreborg,Ulrikka,Undirected,1
+Karen,Madamens,Undirected,1
+Bedstemo,Faster Barbro,Undirected,1
+Faster Barbro,lille Bedstemo’,Undirected,1
+Niels Buch,Peter Bastian,Undirected,1
+Anders Sørensens,Holbergs,Undirected,1
+Holbergs,Oehlenschlågers Skrifter,Undirected,1
+Aage,Else,Undirected,1
+Gunnar,Peter Bastian,Undirected,1
+Karen,gjærne,Undirected,1
+Jon,gjærne,Undirected,1
+Jon,Karen,Undirected,1
+Karen,Kehraus,Undirected,1
+Karen,Niels,Undirected,3
+Clara,Ulrikka Tjæreborg,Undirected,1
+Mayenhardt,Ulrikka Tjæreborg,Undirected,1
+Karen Tjæreborg,Mayenhardt,Undirected,1
+Karen Tjæreborg,fals,Undirected,1

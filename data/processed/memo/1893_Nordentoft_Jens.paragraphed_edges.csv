@@ -1,0 +1,103 @@
+source,target,type,weight
+Gud,Jens,Undirected,5
+Gud,Jens’,Undirected,1
+Anna,Jens,Undirected,4
+Aage,Anna,Undirected,1
+Aage,Poul,Undirected,3
+Carl,Poul,Undirected,1
+Carl,Riises,Undirected,1
+Drost Peder,Riises,Undirected,1
+Anders Daglejer,Hagen,Undirected,1
+Hagen,Moder,Undirected,1
+Jens,Poul,Undirected,3
+Inger,Poul,Undirected,1
+Anna,Inger,Undirected,3
+Anna,Mathilde,Undirected,1
+Jens,Mathilde,Undirected,2
+Inger,Mathilde,Undirected,1
+Hat,Poul,Undirected,2
+Lectie,Poul,Undirected,1
+Aage,Lectie,Undirected,1
+Aage,Kampraab,Undirected,1
+Jens,Kampraab,Undirected,1
+Inger,Jens,Undirected,13
+Inger,Tulle,Undirected,1
+Jens,Søsters,Undirected,2
+Jens,niente,Undirected,1
+Frk. Hansen,Lectierne,Undirected,1
+Inger,paany,Undirected,1
+Frk. Hansen,Jens,Undirected,5
+Frk. Hansen,Inger,Undirected,3
+Frk. Hansen,Nielsen,Undirected,1
+Jens,Nielsen,Undirected,1
+Buch,Jens,Undirected,30
+Buch,Mr. Steinmetz sen,Undirected,1
+Mr. Steinmetz sen,Steinmetz sen,Undirected,1
+Mr. Steinmetz jun.,Steinmetz sen,Undirected,1
+Md. Steinmetz jun.,Mr. Steinmetz jun.,Undirected,1
+Md. Steinmetz jun.,Mr. le capitaine Drumont,Undirected,1
+Md. Drumont,Mr. le capitaine Drumont,Undirected,1
+Md. Drumont,Mile.,Undirected,1
+Mile.,Mr. Gourowitsch,Undirected,1
+. Vecque,Mr. Gourowitsch,Undirected,1
+. Vecque,Mr. Bryant,Undirected,1
+Mr. George,Steinmetz,Undirected,1
+Mr. George,Mr. Vecque,Undirected,3
+Jens,Mr. George,Undirected,6
+Buch,Mr. George,Undirected,1
+Buch,Mr. Vecque,Undirected,1
+Mr. George,Mr. Gourowitsch,Undirected,2
+Buch,Mr. Gourowitsch,Undirected,1
+Buch,Sopha,Undirected,1
+Mr. George,Sopha,Undirected,1
+Md. George,Mile,Undirected,2
+Jens,Md. George,Undirected,2
+Jens,Vecque,Undirected,3
+Jens,Mile,Undirected,3
+Mile,Vecque,Undirected,1
+Buch,Vecque,Undirected,1
+Angelique,Jens,Undirected,31
+Buch,Jens’,Undirected,2
+Angelique,Buch,Undirected,13
+Chor,Jens,Undirected,1
+Chor,Loirel,Undirected,1
+Jens,Loirel,Undirected,4
+Jens,Jens Buch,Undirected,1
+Angelique,Jens Buch,Undirected,1
+Angelique,Loirel,Undirected,2
+Praxis,Theori,Undirected,2
+Angelique,Jens’,Undirected,1
+Angelique »,Jens,Undirected,1
+Angelique,Angelique »,Undirected,1
+Buch,bart,Undirected,2
+Galatheas,Jens,Undirected,1
+Jens,Steinmetz,Undirected,2
+Angelique,Vecque,Undirected,1
+Angelique,Mile,Undirected,1
+Md. George,Mr. Steinmetz,Undirected,1
+Inger,Jens’,Undirected,1
+Jens,Mairen,Undirected,1
+Christi,christne,Undirected,1
+Gud,christne,Undirected,1
+Paul,Poul,Undirected,1
+Monsieur Lilienskjold,Paul,Undirected,2
+Aage,Monsieur Lilienskjold,Undirected,1
+Aage,Jenny,Undirected,1
+Jenny,Monsieur Lilienskjold,Undirected,1
+Jenny,Paul,Undirected,1
+Jenny,Tulle,Undirected,1
+Lise,Tulle,Undirected,1
+Angelique,Gud,Undirected,1
+Jens,djt,Undirected,1
+Gud,djt,Undirected,1
+Arne,Gud,Undirected,1
+Jens,Plun,Undirected,1
+Jens,Sophahjørne,Undirected,1
+Angelique,Q.t,Undirected,1
+Herzens,bittre Pfeile,Undirected,1
+Jens,Longfellows,Undirected,1
+Adam,Jens,Undirected,1
+Jens,Jærnhaand,Undirected,1
+Johannes,Maria,Undirected,1
+Christus,Jens,Undirected,1
+Christus,Gud,Undirected,1

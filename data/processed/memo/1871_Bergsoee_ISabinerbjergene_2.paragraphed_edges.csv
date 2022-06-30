@@ -1,0 +1,737 @@
+source,target,type,weight
+Nana,S. Bonaventuras,Undirected,1
+Nana,llsl lmon,Undirected,1
+' øonsiZIio,llsl lmon,Undirected,1
+' øonsiZIio,Pater Enscbio,Undirected,1
+Pater Enscbio,lnrcdc,Undirected,1
+Katholikcrnes,Pater Enscbio,Undirected,1
+Christne,Katholikcrnes,Undirected,1
+Christi,Christne,Undirected,1
+Christi,Pateren,Undirected,1
+Adele,hnn,Undirected,6
+Pater,hnn,Undirected,1
+Eusebii,Pater,Undirected,1
+Marietta,Signor Carnevale,Undirected,20
+Adelcs,Marietta,Undirected,1
+Adelcs,Scverino,Undirected,1
+Adele,Scverino,Undirected,2
+Adele,Pater Eusebio,Undirected,4
+Jakobus,Scverino,Undirected,1
+Jakobus,Thorwaldsens,Undirected,1
+Pater,Thorwaldsens,Undirected,1
+Adele,Pater,Undirected,1
+Otto,Padroncn,Undirected,1
+Padroncn,Trifoglios,Undirected,1
+Signor,Trifoglios,Undirected,3
+Anna Maria,Signor,Undirected,3
+Anna Maria,Philippica,Undirected,1
+Philippica,Thnnfisf,Undirected,1
+Maccaroni,Thnnfisf,Undirected,1
+Maccaroni,Otto,Undirected,1
+Otto,Signor Carnevale,Undirected,3
+Ciceros,Signor Carnevale,Undirected,1
+Adele,Ciceros,Undirected,1
+Adele,Kanccllierens,Undirected,1
+Adele,Signor Carnevale,Undirected,8
+Posfkasse,Signor Carnevale,Undirected,1
+Adele,Posfkasse,Undirected,1
+Adele,Severino,Undirected,4
+Adele,Gjæssenc,Undirected,1
+Gjæssenc,Otto,Undirected,1
+Vittorio,tom,Undirected,1
+Maccaroni,Maria,Undirected,1
+Cesare Fclice,sandf,Undirected,1
+Syndicns,erbebsf,Undirected,1
+Cesare,Syndicus,Undirected,3
+Gud,Syndicus,Undirected,1
+Cesare,Gud,Undirected,2
+Logn,Ncrones,Undirected,1
+Jesus Maria,Logn,Undirected,1
+Otto,høilys,Undirected,1
+Cesare,Maria,Undirected,1
+Cesare,hnn,Undirected,2
+Maren,Maria,Undirected,1
+Dn,Maren,Undirected,1
+Syndicus,hnn,Undirected,1
+Cesare,Ieg,Undirected,1
+Norma,Syndicus,Undirected,1
+S. Angelo,cndog,Undirected,1
+Cesare,S. Angelo,Undirected,1
+Cesare,Giuseppe,Undirected,1
+Giuseppe,hnn,Undirected,1
+Posf,S. Angelo,Undirected,1
+KirkcgaardSmaren,S. Angelo,Undirected,1
+Cesare,reisfe,Undirected,1
+Faarehyrdcns,Maria,Undirected,2
+Gravmaren,Hnndcn,Undirected,1
+Giuseppe,Syndicus,Undirected,1
+Hnn,hnn,Undirected,1
+Mathco,Matheo,Undirected,2
+Ncrone,ester,Undirected,1
+Matheo,Ncrone,Undirected,2
+Barilc,Matheo,Undirected,1
+Barilc,Neronc,Undirected,1
+Christi,Ncrone,Undirected,1
+Ncrone,S. Giovanni,Undirected,1
+Emmernc,S. Giovanni,Undirected,1
+Neronc,dct,Undirected,1
+Mathco,dct,Undirected,1
+Mathco,Nerone,Undirected,2
+Hoinltrct,hcle,Undirected,1
+Evangclie,Jesus,Undirected,1
+Jesus,Maria,Undirected,1
+Maria,ine,Undirected,1
+Jesu,Maria,Undirected,1
+Maria,el Gjcnstjær,Undirected,1
+Pater Anselmo,el Gjcnstjær,Undirected,1
+Norma,Pater Anselmo,Undirected,1
+Ncrone,Neronc,Undirected,1
+Matheo,mørkk,Undirected,1
+Mathco,Ncrone,Undirected,1
+Matheo,cn blytung,Undirected,1
+Steen,cn blytung,Undirected,1
+Mathco,Slaaenc,Undirected,1
+Asen,Nerone,Undirected,1
+Matheo,Ora pro nobis,Undirected,1
+Neronc,tanse,Undirected,1
+Matheo,tanse,Undirected,1
+Matheo,Neronc,Undirected,1
+Neronc,Nerone,Undirected,1
+Cesare,Hans Loeollovra,Undirected,2
+Cesare,Norma,Undirected,1
+Norma,Vannutcllis,Undirected,1
+Padrone Luigi,Vannutcllis,Undirected,1
+Ccsare,Cesare,Undirected,1
+Adele,Anna Maria,Undirected,5
+2ro Oolonna,Adele,Undirected,1
+Cesare,Gnbernatorcn,Undirected,1
+Adele,Signor Fclice,Undirected,1
+Norma,Signor Fclice,Undirected,1
+Adele,Norma,Undirected,2
+Cesare Fclicc,heell,Undirected,1
+hnn,lille Cesare,Undirected,1
+Severino,ester,Undirected,1
+Severino,Signor Carnevale,Undirected,1
+Carlo,Signor Carnevale,Undirected,3
+Abate,Carnevale,Undirected,1
+Otto,Severino,Undirected,1
+Otto,Signor Carlo,Undirected,1
+Adele,Signor,Undirected,8
+Carncvalc,Signor,Undirected,1
+Carncvalc,Signor Carnevale,Undirected,1
+Kaneellierc,Otto,Undirected,1
+Adele,Kaneellierc,Undirected,1
+Molest,Signor,Undirected,1
+Adelcs,Molest,Undirected,1
+Otto,Signor Carncvale,Undirected,2
+Adele,Signor Carncvale,Undirected,1
+Anna Maria,Nino,Undirected,4
+Carncvale,Pater Eusebio,Undirected,1
+Carncvale,Nino,Undirected,1
+Nino,Pater Eusebio,Undirected,2
+Adele,Dicgi,Undirected,1
+Dicgi,Madonna,Undirected,1
+Baldakin,Prior,Undirected,1
+Prior,Steen,Undirected,1
+Pietro,Signor Carnevale,Undirected,17
+Pater Eusebio,Signor Carncvale,Undirected,1
+Pater Eusebio,Signor Carnevale,Undirected,6
+Aalckarry,Marietta,Undirected,1
+Aalckarry,Pietro,Undirected,1
+Signor Carncvale,Signor Carnevale,Undirected,3
+Jcrntangcn,kundc,Undirected,1
+Signor Carncvalc,kundc,Undirected,1
+Jcrntangcn,Pietro,Undirected,1
+Floitcns,Jcrntangcn,Undirected,1
+Floitcns,Signor Carncvale,Undirected,1
+Bfandens,Signor Carnevale,Undirected,1
+Bfandens,Theori,Undirected,1
+Signor Carnevale,Theori,Undirected,1
+Signor Carnevale,drsi,Undirected,1
+Signor,drsi,Undirected,1
+Signor,Signor Carnevale,Undirected,26
+Pater Eusebio,Signor,Undirected,1
+Adele,Marietta,Undirected,21
+Madonna,hnn,Undirected,3
+Funtus,Hnn,Undirected,1
+Padrone,hnn,Undirected,1
+Luigi,Padrone,Undirected,2
+Luigi,Signor Carnevale,Undirected,2
+Søren,hnn,Undirected,3
+Signor Carnevale,Søren,Undirected,3
+Corso,kim Portneren,Undirected,1
+Marie,tilAugusf,Undirected,1
+Marioletti,tilAugusf,Undirected,1
+August,Marioletti,Undirected,1
+August,Flavius Amfithcater,Undirected,1
+Flavius Amfithcater,Vittorio,Undirected,1
+Mademoiselle Leonie,Vittorio,Undirected,1
+Keiserens,Mademoiselle Leonie,Undirected,1
+Augustus,Mademoiselle Leonie,Undirected,1
+Applaus,Augustus,Undirected,1
+Mademoiselle Leonie,Signor Carncvale,Undirected,1
+Cæsaren,S. Peter,Undirected,2
+August,S. Peter,Undirected,2
+,August,Undirected,1
+,S. Peter,Undirected,1
+Cæsarernc,Signor Carnevale,Undirected,1
+Cæsar,Cæsarernc,Undirected,1
+Cæsar,rcgjerc,Undirected,1
+fhi,rcgjerc,Undirected,1
+Christus,fhi,Undirected,1
+Christus,Leiesvendc,Undirected,1
+Leiesvendc,Schakaler,Undirected,1
+Adam,Signor Carnevale,Undirected,1
+Adam,Voltaire,Undirected,1
+Daggry,hans lottros,Undirected,1
+hans lottros,lasciv,Undirected,1
+lasciv,son,Undirected,1
+Gud,son,Undirected,1
+Pateren,Signorina,Undirected,1
+Marie,Voltaire,Undirected,1
+Kronions,Minerva,Undirected,1
+Landse,Minerva,Undirected,1
+Landse,Voltaires lottrss pbilosopbiguss,Undirected,1
+Alan,Augustus,Undirected,1
+Alan,Signor,Undirected,1
+Christus,Signor,Undirected,1
+Christus,Karle,Undirected,1
+Christne,Karle,Undirected,1
+Christne,Monsignorcn,Undirected,1
+Flidens,Monsignorcn,Undirected,1
+Signor,jcg,Undirected,1
+Signor,Signor Carncvale,Undirected,4
+Signor,lee,Undirected,1
+Signor Carnevale,lee,Undirected,1
+Christus,Signor Carnevale,Undirected,1
+Adele,Syndicus,Undirected,1
+Pater Eusebio,Syndicus,Undirected,1
+Bravissimo,Signor Carnevale,Undirected,1
+Bravissimo,Signor,Undirected,1
+S. Angelo,Signor Carnevale,Undirected,1
+Adele,S. Angelo,Undirected,1
+Adele,Spada Flamini,Undirected,1
+Signor Carnevale,paany marschcrc los,Undirected,1
+Adcles,paany marschcrc los,Undirected,1
+Alangel,Hiinsides,Undirected,1
+Guielmo,Hiinsides,Undirected,1
+Porta Cavallcgieri,Signor Carnevale,Undirected,1
+Gubernatorens,Signor Carnevale,Undirected,1
+Adcles,Signor,Undirected,1
+Adcles,Signor Carnevale,Undirected,1
+Signor Carnevale,Sirius,Undirected,1
+Beic,Signor Carnevale,Undirected,1
+Bravo,Signor Carncvale,Undirected,1
+Graae,Tamburin,Undirected,1
+Signor Carncvale,Tamburin,Undirected,1
+Signor Carncvale,son,Undirected,2
+Pcrlebaandct,Signor Carnevale,Undirected,2
+Maccaronicn,Signor Carnevale,Undirected,1
+Maccaroni,Signor Carnevale,Undirected,1
+Raitissimo noi-to,Signor Carnevale,Undirected,1
+Eskimo,Raitissimo noi-to,Undirected,1
+Eskimo,Signor Carnevale,Undirected,1
+Cna furbsria,una furbsria,Undirected,1
+Signor Carncvale,Signor Guiclmo,Undirected,1
+Karle,Signor Guiclmo,Undirected,1
+Karle,Landcvcis,Undirected,1
+Bajocco,Signor,Undirected,1
+Gennazzano,Madonna,Undirected,1
+clstta la,iniraeolo katto äalla Vants,Undirected,1
+clstta la,consizlio,Undirected,1
+brizanti prssi,consizlio,Undirected,1
+Ccsare Fclice,Jesus Christus,Undirected,1
+Pater Eusebio,ct,Undirected,2
+Madonna benaadcr,Pater Eusebio,Undirected,1
+Madonna benaadcr,benaadcr,Undirected,1
+Faldøxcn,Signor Carnevale,Undirected,2
+Signor Carnevale,Steen,Undirected,2
+Carncvale,Steen,Undirected,1
+Signor,Signor Tavani,Undirected,3
+Signor,Tavani,Undirected,2
+Signor Carnevale,Tavani,Undirected,3
+Signor Carlo,Signor Carnevale,Undirected,1
+Signor Carncvale,Søren,Undirected,1
+Søren,Ubckjcndtes,Undirected,1
+Dantes,Ubckjcndtes,Undirected,1
+Dantes,purZatorio,Undirected,1
+Sordcllo,purZatorio,Undirected,1
+Sordcllo,Virgil,Undirected,1
+ama,gvnts,Undirected,1
+Signor,hct,Undirected,1
+Tavani,hct,Undirected,1
+Pater Eusebio,Signor Tavani,Undirected,1
+Faldøxcn,Kanccllicrens,Undirected,1
+Kanccllicrens,Madonna,Undirected,1
+Madonna,Signor Carnevale,Undirected,5
+Signor Carnevale,hnn Babylo,Undirected,1
+Gubernatorcns,Signor Carnevale,Undirected,1
+Adele Felice,Pater Eusebio,Undirected,1
+Adele Felice,hnn,Undirected,1
+Madam Jensen,signor,Undirected,1
+Madam Jensen,Signor,Undirected,1
+Signor,Søren,Undirected,1
+Scirocco,Søren,Undirected,1
+Cassius,Funtus,Undirected,1
+Funtus,Signor Carnevale,Undirected,2
+Otto,äsl buon,Undirected,1
+Cæsar,Otto,Undirected,1
+Cæsar,hans Antonins,Undirected,1
+LoosIIsims,hans Antonins,Undirected,1
+Innocenti,LoosIIsims,Undirected,1
+Innocenti,Porta S.,Undirected,1
+Madonna,spiist,Undirected,1
+Pater,spiist,Undirected,1
+LocMIsrma,stcvnc,Undirected,1
+LocMIsrma,Loosilmms,Undirected,1
+Eicndelc,Verdi,Undirected,1
+Gennnzzano,Signor Carnevale,Undirected,1
+Signor Carnevalc,Signor Carnevale,Undirected,1
+Ripetta«,Signor Carnevale,Undirected,2
+Ripetta«,Signor,Undirected,1
+Carnevale,Signor,Undirected,2
+Signor,fasf,Undirected,1
+Jei,Tomaso,Undirected,1
+Marietta,Tomaso,Undirected,1
+Marietta,Thomaso,Undirected,14
+Signor Carncvale,Thomaso,Undirected,2
+Signor Carncvale,hnn,Undirected,1
+Carncvale,Signor,Undirected,1
+Carncvale,PadroneLuigi,Undirected,1
+PadroneLuigi,Signor,Undirected,1
+Amfora,Signor Carncvale,Undirected,2
+Amfora,berøvede,Undirected,1
+Signor,Signor Carnevalc,Undirected,1
+Padrone Luigi,Ripetta«,Undirected,1
+Padrone Luigi,Signor Carnevale,Undirected,2
+Graae,Signor Carnevale,Undirected,1
+Graae,Signor Carncvale,Undirected,1
+Palestrina,Signor Carncvale,Undirected,1
+LugnanoS,Maanelys,Undirected,1
+LugnanoS,Søren,Undirected,1
+Luigi,Søren,Undirected,1
+Luigi,Mylord,Undirected,1
+Allarm,Mylord,Undirected,2
+Mylord,Otto,Undirected,2
+Hain,Mylord,Undirected,2
+Padrone Luigi,Søren,Undirected,1
+Cavi,Signor Carnevale,Undirected,1
+Cavi,Padrone Luigi,Undirected,1
+LiZnori,Luigi,Undirected,1
+LiZnori,Signor Carncvale,Undirected,1
+Signor Carnevale,Tutti,Undirected,1
+Tutti,siznor,Undirected,1
+siznor,tutti,Undirected,1
+tutti,zrama,Undirected,1
+io,zrama,Undirected,1
+Signor Carnevale,io,Undirected,1
+Avanti,Signor Carnevale,Undirected,1
+Luigi,Signor,Undirected,1
+Nemesis,Signor Carnevale,Undirected,1
+Funtus,Nemesis,Undirected,2
+Funtus,Signor Carncvale,Undirected,1
+Augustus,Signor Carncvale,Undirected,1
+Augustus,Signor,Undirected,1
+Nemesis,Signor,Undirected,2
+Padrone Luigi,Signor,Undirected,1
+Nemesis,Padrone Luigi,Undirected,1
+Nemesis,Nino,Undirected,1
+Dicgi,Nino,Undirected,2
+Dicgi,Marietta,Undirected,1
+Marietta,Signor,Undirected,9
+Nemesis,Signor Carncvale,Undirected,1
+Don Junn,Signor Carncvale,Undirected,1
+Don Junn,Marietta,Undirected,1
+Marietta,Nemesis,Undirected,2
+Marietta,Nino,Undirected,2
+Marietta,hnn,Undirected,7
+hnn,kuriosa,Undirected,1
+Signor Carnevale,kuriosa,Undirected,1
+Palestrina,Signor Carnevale,Undirected,1
+Maria,Palestrina,Undirected,1
+Maria,Signor Carnevale,Undirected,3
+Anna Maria,Marietta,Undirected,1
+Anna Maria,Josephus,Undirected,1
+Josephus,Signor Carnevale,Undirected,1
+Signor Carnevale,Vittorio,Undirected,1
+Marietta,mia,Undirected,1
+Anna Maria,Otto,Undirected,2
+Bregner,Diana-Billcdct,Undirected,1
+Bregner,Nischcr,Undirected,1
+Nischcr,lee høit,Undirected,1
+Madonna,lee høit,Undirected,1
+Adele,Madonna,Undirected,1
+Adele,Lysaabningcn,Undirected,1
+Lysaabningcn,Madonna,Undirected,1
+Madonna,Steen,Undirected,1
+Steen,bruun,Undirected,1
+Adele Fclices,Padrone Luigi,Undirected,1
+Adele,Padrone Luigi,Undirected,1
+Adele,Maria,Undirected,2
+Adele,Magdalena,Undirected,1
+Anna Maria,Magdalena,Undirected,1
+Anna Maria,Søren,Undirected,2
+Anna Maria,Dn,Undirected,1
+Dn,FuntuS,Undirected,1
+FuntuS,Marietta,Undirected,1
+Amfora,Signor,Undirected,1
+Signor CarneMe,Thomaso,Undirected,1
+Padroncn,Thomaso,Undirected,1
+Signor Carncvale,uomo,Undirected,1
+Marietta,Signor Carncvale,Undirected,2
+Frants,Signor Carncvale,Undirected,1
+Frants,Vittorio Emanuele,Undirected,1
+Signor,Vittorio Emanuele,Undirected,1
+Marietta,son,Undirected,1
+Signor Carnevale,son,Undirected,2
+S. Eustachio,Signor Carnevale,Undirected,1
+S. Eustachio,Signor,Undirected,2
+Anna Maria,Signorina,Undirected,1
+Amfora,Signorina,Undirected,1
+Signor,Thomaso,Undirected,2
+Signor Carnevale,Thomaso,Undirected,4
+Adele,Gud,Undirected,1
+Anna Maria,Gud,Undirected,1
+Nino,Vittorias,Undirected,1
+Otto,Vittorias,Undirected,1
+Otto,eollszium,Undirected,1
+Marietta,eollszium,Undirected,1
+Maria,Marietta,Undirected,2
+Maria,Signor,Undirected,1
+Maria,Thomaso,Undirected,1
+Otfo,Thomaso,Undirected,1
+Marietta,Otfo,Undirected,1
+Anna Maria,Signor Carnevale,Undirected,8
+Madonna,Trifoglio,Undirected,2
+Signor Carnevale,Trifoglio,Undirected,1
+Trifoglio,overPiazzacn,Undirected,1
+Signor Carnevale,overPiazzacn,Undirected,1
+Pietro,primo notario,Undirected,1
+Signor Carnevale,primo notario,Undirected,1
+Anna Maria,Thomaso,Undirected,2
+Funtus,Thomaso,Undirected,1
+Funtus,Gennazzano,Undirected,1
+Adele,Gennazzano,Undirected,2
+Funtus,lee,Undirected,1
+Adele,lee,Undirected,1
+Adele,Darwins,Undirected,1
+Darwins,Theori,Undirected,1
+Adele,Darwin,Undirected,1
+Darwin,Søren,Undirected,1
+Peer,Søren,Undirected,1
+Peer,Povl,Undirected,1
+Holberg,Søren,Undirected,1
+Marietta,bcboes,Undirected,1
+Pave Clemens,bcboes,Undirected,1
+Marietta,Pave Clemens,Undirected,1
+Adele,Clemens,Undirected,2
+Adele,Fnntus,Undirected,1
+Karl,Marietta,Undirected,1
+Clemens,Karl,Undirected,1
+Adele,Funtus,Undirected,1
+Pater Eusebio,hnn,Undirected,1
+Søren,paany,Undirected,1
+Signor,oonciannato,Undirected,1
+Carlo,fil,Undirected,1
+Carlo,Marietta,Undirected,1
+Adele,Carlo,Undirected,2
+Adele,Dantes,Undirected,1
+Madam Jensen,Signor Carnevale,Undirected,1
+Maria,Signor Carncvale,Undirected,1
+Otto,S. Eustachio,Undirected,2
+Otto,S. Maria,Undirected,1
+S. Maria,Signor Carnevale,Undirected,1
+Pater,Signor Carnevale,Undirected,1
+Otto,noch,Undirected,1
+Otto tnd,paany,Undirected,1
+Otto,Signor,Undirected,2
+Otto,hnn,Undirected,1
+Signor,hnn,Undirected,5
+Signor Carnevale,nuMadonna,Undirected,1
+Signor Carnevale,hnn,Undirected,2
+Pallazzo Colonnas,paany,Undirected,1
+Signor Carnevale,paany,Undirected,2
+Gubernaforen,Signor Carnevale,Undirected,1
+Lwiva In vsrgiim omaevlata,hnn,Undirected,1
+Lwiva In vsrgiim omaevlata,kvviva Junta,Undirected,1
+Naria,kvviva Junta,Undirected,1
+dasso,zovorno,Undirected,1
+Looola,zovorno,Undirected,1
+Looola,miraeolo,Undirected,1
+Bvviva,miraeolo,Undirected,1
+Bvviva,Lvviva,Undirected,1
+Funtus,Marietta,Undirected,1
+Guillotinens,Marietta,Undirected,2
+Signor Guielmo,øttone,Undirected,1
+Marietta,S. Joscpho,Undirected,1
+Marietta,Signor Carncvalc,Undirected,1
+Røsf,Signor Carncvalc,Undirected,1
+Joscpho ansccs,Røsf,Undirected,1
+Signor Carnevale,dei,Undirected,1
+Gud,Signor,Undirected,1
+Signor,froe,Undirected,1
+Marietta,kjære Funtus,Undirected,1
+Nino,Signor Carnevale,Undirected,3
+Diegi,Signor Carnevale,Undirected,3
+Anna Maria,Diegi,Undirected,3
+Dicgi,Signor Carnevale,Undirected,1
+Anna Marin,Signor Carnevale,Undirected,1
+Anna Marin,Diegi,Undirected,1
+Anna Maria,Dicgi,Undirected,2
+Malice,Signor,Undirected,1
+miraouium,mirari,Undirected,1
+Gennazzano,Signor,Undirected,1
+Colonnas,Gennazzano,Undirected,1
+Colonnas,Madonna del Campo,Undirected,1
+Madonna del Campo,Pater,Undirected,1
+Gcnnazzano,Pater,Undirected,1
+Pietro,tans,Undirected,1
+Achilles,tans,Undirected,1
+Achilles,Pietro,Undirected,2
+Funtus,vædcndc de hvide Kisclstccn med sine,Undirected,1
+Adele,vædcndc de hvide Kisclstccn med sine,Undirected,1
+Anna Maria,Segni,Undirected,1
+Segni,Thomaso,Undirected,2
+Signor Gnielmo,Thomaso,Undirected,1
+Thomaso,hnn,Undirected,1
+Adcles,Signor Guiclmo,Undirected,1
+Adele,Hesfen,Undirected,1
+Karle,Nino,Undirected,3
+Cavi,Diegi,Undirected,1
+Cavi,Thomaso,Undirected,1
+Signor Carnevale,Signor Ottone,Undirected,1
+Nino,Signor,Undirected,3
+Adele,Nino,Undirected,4
+Adele,Monsignore,Undirected,1
+monøosn,msooosn,Undirected,1
+msWosr,per Laeeo,Undirected,1
+Clemens,sif,Undirected,1
+Hippokrates,sif,Undirected,1
+Hattcpul,aarclade,Undirected,1
+Cæsar,aarclade,Undirected,1
+Kancellicrc Felice,askcgraae,Undirected,1
+Kancellicrc Felice,son,Undirected,1
+Carnevale,son,Undirected,1
+Anna Maria,Carnevale,Undirected,2
+Anna Maria,Gennazzano,Undirected,1
+Gennazzano,Maria äel,Undirected,1
+kjære Funtus,psr probibsro lo,Undirected,1
+Carl Algotsøn,Otto,Undirected,1
+Carl Algotsøn,Svantepolks,Undirected,1
+Christ,Svantepolks,Undirected,1
+Pietro,sif,Undirected,1
+Signor Carnevale,sif,Undirected,1
+Signor Carnevale,sif Farmaci,Undirected,1
+Adele,mesf Krøblinge og Syge,Undirected,1
+Adele,Becoons,Undirected,1
+Signor Carnevale,klsøco,Undirected,1
+Diegi,Marietta,Undirected,1
+Diegi,Hagel,Undirected,1
+Signor Carnevale,askegraa,Undirected,1
+Ora pro nodis,Signor Carnevale,Undirected,1
+Fontancs,Signor Carnevale,Undirected,2
+Pater Eusebio,Trifoglio,Undirected,2
+Signor,Trifoglio,Undirected,3
+Adele,Trifoglio,Undirected,1
+Trifoglio,Triføglio,Undirected,1
+Oifl,Signor Carnevale,Undirected,1
+Hnn,Paolo Nighetti,Undirected,1
+Paolo Nighetti,Paolo Righetti,Undirected,1
+Nhytmens,Paolo Nighetti,Undirected,1
+MirsAm,Signor Carnevale,Undirected,1
+Leone,MirsAm,Undirected,1
+Leone,Signor Carnevale,Undirected,1
+Adele,Tavani,Undirected,1
+Dieu,Signor Carneoales,Undirected,1
+Dieu,Trifoglio,Undirected,1
+Severino,kjære FuntnS,Undirected,1
+Pietro,Signor Carnevalc,Undirected,1
+Pietro,Signor Carncvale,Undirected,1
+Signor Carncvale,Theori,Undirected,1
+Pietro,Theori,Undirected,1
+Patcren,Pietro,Undirected,1
+Patcren,Trifoglio,Undirected,1
+Cæsar,Trifoglio,Undirected,1
+Looellsnra,Pietro,Undirected,2
+Pietro,Signor,Undirected,2
+Krukkcn,Pietro,Undirected,1
+Krukkcn,LeesIIsnra,Undirected,1
+LeesIIsnra,Pietro,Undirected,1
+Loeollonra,Pietro,Undirected,1
+paany,pidskc,Undirected,1
+Pietro,Trifoglio,Undirected,3
+Pietro,corpus dslicti,Undirected,1
+Trifoglio,corpus dslicti,Undirected,1
+Gubernatorcns,Trifoglio,Undirected,1
+Baooo,Gubernatorcns,Undirected,1
+Arkancr,Pietro,Undirected,1
+Arkancr,Trifoglio,Undirected,1
+Funtus,Pietro,Undirected,1
+Funtus,Søren,Undirected,1
+Adelcs,Dicgi,Undirected,1
+Adelcs,Nino,Undirected,1
+Anna Maria,Hnnslcic,Undirected,1
+Hnnslcic,hnn,Undirected,1
+Fnntus,hnn,Undirected,1
+Fata Morganaet,Fnntus,Undirected,1
+Fata Morganaet,Tue,Undirected,1
+Kancclliercns,Tue,Undirected,1
+Signor Carnevale,Subia,Undirected,1
+Padrone,Signor Carnevale,Undirected,1
+Anna Maria,Luigi,Undirected,1
+Diegi,Nino,Undirected,1
+Diegi,Zouaver,Undirected,1
+Marius,Trifoglio,Undirected,1
+Anna Maria,Uajooeo,Undirected,1
+Signor,Uajooeo,Undirected,1
+Ninos kjønnc,Otto,Undirected,1
+Madonna,Maria,Undirected,2
+Nino,Trifoglio,Undirected,1
+Anna Maria,Graad,Undirected,1
+Graad,Pater,Undirected,1
+Pater,Skarnbasscns,Undirected,1
+Anna Maria,Soren,Undirected,1
+Anna Maria,Madonna,Undirected,1
+Aagerkarl,Madonna,Undirected,1
+Carlo,Sands,Undirected,1
+Romeo,Sands,Undirected,1
+Funtus,maasfec,Undirected,1
+Funtus,Romeo,Undirected,1
+Julie,Romeo,Undirected,1
+Julie,Søren,Undirected,1
+Madonna,Søren,Undirected,1
+Diegi,Madonna,Undirected,1
+Diegi,Maria,Undirected,1
+Adele,Pater Euscbio,Undirected,1
+Pater Euscbio,Severino,Undirected,1
+Aaron,Severino,Undirected,1
+Aaron,Adele,Undirected,1
+Carlo,Tavani,Undirected,2
+Severino,Tavani,Undirected,2
+Lorenzo,Severino,Undirected,1
+S. Carlo,maestro,Undirected,1
+S. Carlo,Vesuv,Undirected,1
+Søren,Vesuv,Undirected,1
+Odyssens,Søren,Undirected,1
+Francesco,Odyssens,Undirected,1
+Francesco,Helena,Undirected,2
+Fesf,iland,Undirected,1
+iland,son,Undirected,1
+Marlyr,Signor Carnevale,Undirected,1
+Buccphalo,Marlyr,Undirected,1
+Buccphalo,Signor Carnevale,Undirected,1
+Signor Carnevale,cndnu,Undirected,1
+Signor Carnevale,SignorGuielmo,Undirected,1
+Francesco,Signor Carnevale,Undirected,1
+Francesco,Osferiet,Undirected,1
+Osferiet,Signor Carnevale,Undirected,1
+Oospstto,Signor Carnevale,Undirected,1
+Franceseo,Signor Carncvale,Undirected,1
+Braad,Signor,Undirected,2
+Signor,Steen,Undirected,1
+Dein,Signor,Undirected,1
+Signor,hine,Undirected,2
+Aland,Signor Carnevale,Undirected,1
+Aland,Signor,Undirected,1
+Signor,Signor Guielmo,Undirected,1
+Norma,Signor,Undirected,1
+Galilei,Norma,Undirected,1
+Galilei,Jupiters,Undirected,1
+Jupiters,Saturns,Undirected,1
+Pantheons,dingle,Undirected,1
+Eminenze,Pantheons,Undirected,1
+Eminenze,Galilei,Undirected,1
+Galilei,Signor,Undirected,1
+Signor,deni,Undirected,1
+Signor Carnevale,torstc,Undirected,1
+Signor,torstc,Undirected,1
+Golgatha,S. Eustachio,Undirected,1
+Anna Maria,Trifoglio,Undirected,1
+Pater,Trifoglio,Undirected,1
+Anna Maria,Pater,Undirected,1
+Anna Maria,Clemens,Undirected,1
+Clemens,Nino,Undirected,1
+Nino,hau,Undirected,1
+Olevano,hau,Undirected,1
+Clemens,Olevano,Undirected,1
+Nino,Vittorio Emanneles,Undirected,1
+Sankt Antonius,Signor Carnevale,Undirected,1
+Pateren,Sankt Antonius,Undirected,1
+Signor,si,Undirected,1
+Jschiot,Signor Carnevale,Undirected,2
+Arne,Carnevale,Undirected,1
+Arne,Marietta,Undirected,1
+Honneurs,Signor Carnevale,Undirected,1
+Honneurs,hnn,Undirected,1
+Epomco,Maisen,Undirected,1
+Agnello,Signor Carnevale,Undirected,2
+Døttre,Signor Carnevale,Undirected,1
+Signor,ifjor,Undirected,1
+Tavani,ifjor,Undirected,1
+Ajani,Tavani,Undirected,1
+Ceprano,Tavani,Undirected,1
+Ceprano,Garibaldi,Undirected,1
+Garibaldi,Tavani,Undirected,2
+Giudita Tavani,Tavani,Undirected,1
+Giudita Tavani,hans Hnstrn,Undirected,1
+Zouav,hans Hnstrn,Undirected,1
+Tavani,Zouav,Undirected,1
+Signor Carnevale,hiin,Undirected,1
+Dantes,Signor Carnevale,Undirected,1
+Dantes,eondannato,Undirected,1
+Guielmo,Signor,Undirected,1
+Hain,nied,Undirected,1
+Hain,Rollo,Undirected,1
+Signor Carnevale,soni,Undirected,1
+Signor Carnevale,kjære Funtus,Undirected,1
+Gcnnazzano,Signor Carnevale,Undirected,1
+Adele,Gcnnazzano,Undirected,1
+Adele,Carnevale,Undirected,1
+Gennazzano,Leone,Undirected,1
+Leone,Nighetti,Undirected,1
+Babhlo,Signor Carlo,Undirected,1
+Babhlo,Enstachio,Undirected,1
+Antonius,Enstachio,Undirected,1
+Antonius,Sebastian,Undirected,1
+Erkeenglcns,Sebastian,Undirected,1
+Leone Nighetti,Signor Carnevale,Undirected,1
+Brisen,Righetti,Undirected,1
+Roers,tans,Undirected,1
+Tavani,tans,Undirected,1
+Barke,Paolo,Undirected,2
+Paolo,hnn,Undirected,2
+Nero,Paolo,Undirected,2
+Paolo,Paven,Undirected,1
+Paven,Silvio Pellico,Undirected,1
+Brix,Signor,Undirected,1
+Brix,Karl,Undirected,1
+Karl,dam,Undirected,1
+dam,oeebio,Undirected,1
+Hain,oeebio,Undirected,1
+Hain,Signor,Undirected,1
+Maria,Nornia,Undirected,1
+Fido,Norma,Undirected,1
+Fido,Maria,Undirected,1
+Maria,jcgJnin,Undirected,1
+Marin,jcgJnin,Undirected,1
+Fido,Marin,Undirected,1
+Fido,Signor,Undirected,3
+Paolo,son,Undirected,1
+S. Michele,hnn,Undirected,1
+Paolo Righetti,hnn,Undirected,1
+Maria paany,Paolo Righetti,Undirected,1
+Maria paany,hnn,Undirected,1
+Aland,Huns,Undirected,1
+Huns,Signor Carnevale,Undirected,1
+Adele,Carlos Snildhed,Undirected,2
+Eusebio,hnn,Undirected,1
+Carlo,Eusebio,Undirected,1
+Carlo,Severino,Undirected,1
+Dante,Tavani,Undirected,2
+Marietta,Procida,Undirected,1
+Segni,Signor Carnevale,Undirected,1
+Signor Carnevale,kradsef,Undirected,1
+Oku,kradsef,Undirected,1
+Oku,voZIia,Undirected,1
+Righctti,voZIia,Undirected,1
+Søren,ban,Undirected,1

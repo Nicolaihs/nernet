@@ -1,0 +1,132 @@
+source,target,type,weight
+Ejnar Kvit,Olesen,Undirected,1
+Ole Petersen,Olesen,Undirected,1
+Eva Winge,Winges,Undirected,1
+Einars,Ove,Undirected,1
+Einars,Eva,Undirected,1
+Eva,Nancy,Undirected,12
+Julie,Nancy,Undirected,2
+Eva,Julie,Undirected,1
+Einar,Frøken Winge,Undirected,2
+Eva,Ove,Undirected,12
+Admiralinde Winge,Hvit,Undirected,1
+Einar,Ove,Undirected,8
+Hvit,Ove,Undirected,1
+Hr. Hvit,Ove,Undirected,2
+Mary,Nancy,Undirected,5
+Einar,Nancy,Undirected,5
+Mary Storm,Pastor Storms,Undirected,1
+Beethoven,Eva,Undirected,1
+Beethoven,Einar,Undirected,1
+Guds,Ole Petersen,Undirected,1
+Einar,Guds,Undirected,1
+Einar,Storm,Undirected,1
+Hr. Hvit,Mary,Undirected,1
+Eva,Mary,Undirected,35
+Einar,Eva,Undirected,36
+Mary,Norbak,Undirected,2
+Eva,Norbak,Undirected,2
+Admiralinden,Hr. Hvit,Undirected,1
+Gud,Nancy,Undirected,1
+Eva,Olesen,Undirected,2
+Eva,Hr. Hvit,Undirected,9
+Birkedal,Einar Kvit,Undirected,1
+Helga Petersen,Ivar Winge,Undirected,1
+Helga Petersen,Petersen,Undirected,2
+Ivar,Mary,Undirected,30
+Ivar,Storm,Undirected,1
+Einar,Ivar,Undirected,24
+Gud,Ole,Undirected,1
+Einar Hvit,Ove,Undirected,1
+Eva,Ivar,Undirected,24
+Ivar,Ove,Undirected,1
+Einar,Hr. Hvit,Undirected,1
+Ingwersen,Ivar,Undirected,2
+Ivar,Nancy,Undirected,5
+Hr. Hvit,muntre,Undirected,1
+Mary,Ove,Undirected,1
+Einar,Mary,Undirected,8
+Einar,Gud,Undirected,2
+Ivar,Olesen,Undirected,2
+Einar kjørte,Mary,Undirected,1
+Einar kjørte,Eva,Undirected,1
+Amiralindens,Einar,Undirected,2
+Einar,Hr. Løwenhjelm,Undirected,1
+Hr. Løwenhjelm,Nancy,Undirected,1
+Admiralinde Winge,kars,Undirected,1
+Don Juans,Einar,Undirected,1
+Einar,Eva skjalv,Undirected,1
+Eva Winge,Ivar,Undirected,1
+Einar Hvit,Eva Winge,Undirected,1
+Einar Hvit,Ivar,Undirected,2
+Eva,kars,Undirected,1
+Løwenhjelm,Nancy,Undirected,5
+Einar,Løwenhjelm,Undirected,1
+Madam Olesens,Olesen,Undirected,2
+Mutter,Olesen,Undirected,1
+Ivar,Ivar Thomsen,Undirected,1
+Ivar Winge,Madam Olesen,Undirected,1
+Hr. Hvit,Madam Olesen,Undirected,2
+Einar,Madam Olesen,Undirected,3
+Gud,Petra,Undirected,1
+Emma Maag,Eva,Undirected,1
+Nancy,Ove,Undirected,1
+Mary,lille Mary,Undirected,2
+Ivar,Karlen,Undirected,1
+Grosserer Petersens Landsted,Helga Petersen,Undirected,1
+Einar,Helga Petersen,Undirected,1
+Einar,Petra,Undirected,2
+Birkedal,Petra,Undirected,1
+Birkedal,Storm,Undirected,1
+Ole Petersen,Storm,Undirected,1
+Nancy,Olesen,Undirected,1
+Nancy,Ole,Undirected,1
+Eva,Madam Olesen,Undirected,2
+Hr. Hvit,Nancy,Undirected,1
+Birkedal,Ove,Undirected,1
+Birkedal,Eva,Undirected,2
+Eva,lille Eva,Undirected,1
+Eva,lille Ove,Undirected,1
+Kjære Hr. Hvit,Ove,Undirected,1
+Eva,Kjære Hr. Hvit,Undirected,1
+Ivar,Maane,Undirected,1
+Helga,Ivar,Undirected,3
+Eva,Helga,Undirected,8
+Havren,Olesen,Undirected,1
+Einar,hans Præstegaard,Undirected,1
+Ane,Einar,Undirected,6
+Einar,Jens Nedergaard,Undirected,3
+Einar,Lind,Undirected,4
+Cigar,Lind,Undirected,1
+Einar,Jespersen,Undirected,1
+Jespersen,Lind,Undirected,1
+Helga,Løwenhjelm,Undirected,1
+Birkedal,Helga,Undirected,1
+Birkedal,Nancy,Undirected,1
+Eva,Frits,Undirected,1
+Faders,Frits,Undirected,1
+Einar,Faders,Undirected,1
+Frydenlund,Petersen,Undirected,1
+Løwenhjelm,Mary,Undirected,1
+Birkedal,Mary,Undirected,1
+Eva,Storm,Undirected,2
+Mary,Villien,Undirected,1
+Hr. Hvit,Villien,Undirected,1
+Eva,Pastor Hvit,Undirected,2
+Eva,Zola,Undirected,1
+Mary,Zola,Undirected,1
+Ivar,Petersen,Undirected,1
+Birkedal,Ivar,Undirected,1
+Ingwersen,lo Petersen,Undirected,1
+Aaget,Ivar,Undirected,2
+Helga,Mary,Undirected,1
+Gud,Olesen,Undirected,1
+Fader,Ivar,Undirected,1
+Einar,Olesen,Undirected,1
+Helga,Nancy,Undirected,1
+Ivar,Løwenhjelm,Undirected,1
+Eva,Gud,Undirected,1
+Eva,cherie,Undirected,1
+Ane,Eva,Undirected,1
+Eva,Per Nør,Undirected,1
+Mary,Pastor Storms,Undirected,1

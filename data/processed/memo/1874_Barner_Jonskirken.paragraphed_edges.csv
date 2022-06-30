@@ -1,0 +1,1632 @@
+source,target,type,weight
+Nils Holm,Sandrgaard,Undirected,1
+Frederik den Tredie,Kong Christian,Undirected,1
+Christian den Syvende,Kronprinds Frederik,Undirected,1
+Privzenskjold,Rasmus Nielsen,Undirected,1
+Christen Jespersen,Privzenskjold,Undirected,1
+Christen Jespersen,Frennegaard,Undirected,1
+Frennegaard,Klaus Hsg,Undirected,1
+Eginus,Sophie Magdalene,Undirected,1
+Gustav den Tredie,Sophie Magdalene,Undirected,1
+Guds,Gustav den Tredie,Undirected,1
+Filip Harmen,Povl Kure,Undirected,4
+Filip Harmen,lybske Dirik,Undirected,3
+Povl Kure,gpbbayn,Undirected,1
+Filip,dpde,Undirected,1
+Dirik,Filip,Undirected,56
+Dirik,Dptre,Undirected,1
+Ebbe Johnsen,Ole Svensen,Undirected,1
+Ole Svensen,grpbbarnas,Undirected,1
+grpbbarnas,ril,Undirected,1
+Dirik,ril,Undirected,2
+Filip,Povl Kure,Undirected,12
+Dirik,Povl Kure,Undirected,11
+Dirik,Filip Harmen,Undirected,5
+Kure,Povl Kure,Undirected,1
+Kure,asbrpd,Undirected,1
+Gulla,Povl Kure,Undirected,28
+Povl Kure,krænla,Undirected,1
+Dirik,Gulla,Undirected,22
+Gnlla,Povl Kure,Undirected,2
+Povl Kure,hnn,Undirected,1
+Dirik,ban,Undirected,7
+Anders Spillemand,ban,Undirected,1
+Anders Spillemand,Gnlla,Undirected,1
+Povl,Stenbos,Undirected,1
+Lars Olsen,Stenbos,Undirected,1
+Lars Olsen,Povl Kure,Undirected,1
+Peter Monsen,berpmte Povl Mortensen Bohne,Undirected,1
+Kaptam Ib Pallesen,Povl Kure,Undirected,1
+Povl Kure,ester,Undirected,1
+Ib,Peter Monsen,Undirected,1
+Povl Kure,horra,Undirected,1
+Gud,Povl Kure,Undirected,3
+Kaptain Ib Pallesen,Pallesen,Undirected,1
+PallesrnS,Sigrid,Undirected,1
+Pallesen,Peter Monsen,Undirected,1
+Lars Olsen,PallesenS,Undirected,1
+Lars Olsen,Pallesen,Undirected,1
+Klinteg,aard,Undirected,1
+Ole Svensen,aard,Undirected,1
+Peter Monsen,as,Undirected,1
+Beren tilhøire,Filip,Undirected,1
+Filip,Galla,Undirected,6
+Saga,Skjaldens,Undirected,1
+Filip,GullaS,Undirected,7
+Filip,H,Undirected,1
+H,M,Undirected,1
+Borgsp,M,Undirected,1
+Borgsp,Dn,Undirected,1
+Gulla,belli,Undirected,1
+Gulla,kæuS,Undirected,1
+Elvens,Gud,Undirected,1
+Filip,lybske Dirik,Undirected,5
+Johan Dippel,harr,Undirected,1
+Gud,harr,Undirected,1
+Povl Kure,horrana,Undirected,1
+Dirik,impde,Undirected,1
+Ebbe Johnsen,impde,Undirected,1
+Filip,Johnsen,Undirected,3
+Lertpi,mesf,Undirected,1
+Filip,Lertpi,Undirected,1
+Ebbe Johnsen,Filip,Undirected,6
+Filip,Gulla,Undirected,82
+Olufa Pallesen,ester,Undirected,1
+Inez,Olufa,Undirected,67
+Olnfa,ban,Undirected,1
+Tom,Wlg,Undirected,1
+Inez,Tom,Undirected,24
+Olufa,Tom,Undirected,12
+Tom,Øe,Undirected,1
+Olufa,stærkk,Undirected,1
+Inez,stærkk,Undirected,1
+Gulla,Stenbo,Undirected,6
+Stenbo,Thorvald Stenbo,Undirected,5
+Pallesen,Stenbo,Undirected,24
+Olufa,Pallesen,Undirected,27
+Jnez,Olufa,Undirected,6
+Jnez,Thorvald Sienbos,Undirected,1
+Ebbe Johnsen,Ib Pallesen,Undirected,1
+Ebbe Johnsen,Stenbo,Undirected,2
+Ebbe Johnsen,Pallesen,Undirected,14
+Johnsen,Pallesen,Undirected,3
+Olufa,Stenbo,Undirected,22
+Filip Harmen,Pallesen,Undirected,1
+Nynne,Olnfa,Undirected,1
+Nynne,Tom,Undirected,1
+Inez,Nynne,Undirected,1
+Pallesen,Tom,Undirected,38
+Missis,Tom,Undirected,1
+Dn,Oluf«,Undirected,1
+Dn,Inez,Undirected,2
+Kudsk,Tom,Undirected,1
+Dn,Olnfa,Undirected,1
+Dn,Tom,Undirected,1
+Miss,Tom,Undirected,2
+Gud,Tom,Undirected,3
+Gud,Olufa,Undirected,7
+Gud,Spn,Undirected,1
+Byrn,Olufa,Undirected,1
+Ebbe Johnsen,Inez,Undirected,2
+Ebbe Johnsen,eie,Undirected,1
+Inez,eie,Undirected,1
+Inez Pallesen,Pallesen,Undirected,1
+Inez Pallesen,Olufa,Undirected,1
+Olufa,raa,Undirected,1
+Pallesen,Pallesrn,Undirected,1
+Madame Pallesen,Olufa,Undirected,2
+Byrn,Pallesen,Undirected,1
+Byrn,Pallefens,Undirected,1
+Pallefens,Pallesen,Undirected,1
+Dandse,Inez,Undirected,1
+Inez impdesaa,Pallesen,Undirected,1
+Inez impdesaa,Klintegaard,Undirected,1
+Klintegaard,Palleseu,Undirected,1
+Ebbe Johnsen,Palleseu,Undirected,1
+Pasfor,Stenbo,Undirected,4
+Stenbo,hnn,Undirected,1
+Thorvald,hnn,Undirected,2
+Dirik,Ebbe Johnsen,Undirected,15
+Pallesen,Thorvald Stenbo,Undirected,9
+Inez,Pasfor,Undirected,1
+Inez,Stenbo,Undirected,14
+Stenbo,Thorvald,Undirected,10
+Kudsk,Thorvald,Undirected,1
+Inez,Thorvald Stenbo,Undirected,3
+Olufa,dlw,Undirected,1
+Tom,dlw,Undirected,1
+Thorvald Stenbo,Tom,Undirected,4
+Dalegaards,Skovgaards,Undirected,1
+Dalegaards,Thorvald Stenbo,Undirected,1
+Oluf HaraldsM.,Olufa,Undirected,1
+Madame Stenbo,Oluf,Undirected,1
+Johannes,Thorvald Stenbo,Undirected,1
+Johannes,Marie,Undirected,1
+Kristus,Marie,Undirected,1
+Englln,Kaptain Pallesen,Undirected,1
+Kaptain Pallesen,Madame Stenbo,Undirected,1
+Gud,Pallesen,Undirected,6
+Olufa,Thorvald Stenbo,Undirected,23
+Thorvald Stenbo,tral,Undirected,1
+Pallesen,lybske Dirik,Undirected,2
+Ebbe Johnsen,lybske Dirik,Undirected,3
+Ebbe Johnsen,ded,Undirected,1
+Stenbo,Tborvald Stenbo,Undirected,1
+Pallesrn,Stenbo,Undirected,2
+Dirik,Pallesen,Undirected,15
+jprst,Øe,Undirected,1
+Pallesen,Øe,Undirected,2
+Sands,Stenbo,Undirected,1
+Sands,Thorvald Stenbo,Undirected,1
+Inez,s,Undirected,1
+Ivez,Olufa,Undirected,1
+Ivez,Thorvald Stenbo,Undirected,1
+Thorvald Stenbo,ban,Undirected,3
+Gulla,Jnez,Undirected,3
+Adre,Jnez,Undirected,1
+Adre,Gulla,Undirected,1
+Inez,Mndame,Undirected,1
+Inger Stenbo,Mndame,Undirected,1
+Inger Stenbo,Olufa,Undirected,2
+Dttik,Filip Harmen,Undirected,1
+Filip Harmen,Kallesens,Undirected,1
+Filip,Pallesen,Undirected,6
+Dirik,Inez,Undirected,7
+Filip,horra,Undirected,1
+Olufa,horra,Undirected,1
+Filip,Inez,Undirected,23
+Filip,Frederik den,Undirected,1
+Frederik den,Louise,Undirected,1
+Filip,Jomfru Pallesen,Undirected,1
+Inez,Pallesen,Undirected,21
+Pallesen,Sie,Undirected,1
+Dirik,Olufa,Undirected,2
+Filip,lia,Undirected,1
+Dirik,Hat,Undirected,1
+Dirik,FilipS,Undirected,1
+Filip,Kaptain Pallesen,Undirected,1
+Filip,Jnez Pallesen,Undirected,1
+Filip,bun,Undirected,3
+Lybske Dirik,bun,Undirected,1
+Filip,Lybske Dirik,Undirected,3
+Hnn,Povl Kure,Undirected,1
+Gulla,Hnn,Undirected,1
+Filip,Hnn,Undirected,2
+Gulla,aggar,Undirected,1
+Filip,aggar,Undirected,1
+Filip,hau,Undirected,1
+Gulla,ban,Undirected,1
+Povl Kure,happa,Undirected,1
+Filip Harmen,Gnlla,Undirected,1
+Gnlla,Pallesen,Undirected,1
+Gulla,Kveld,Undirected,1
+Povl Kure,asbne,Undirected,1
+Johan Christian Dippel,Sigrid,Undirected,1
+Johan Christian Dippel,Ulfeldt,Undirected,1
+Sigrid,kim,Undirected,1
+Gulla,Sigrid,Undirected,45
+Kreols,Stenbo,Undirected,1
+Aly GudbjprnS,Thorvald,Undirected,1
+Aly,Stenbo,Undirected,19
+Aly,fig,Undirected,1
+GudbjprnS,Thorvald Stenbo,Undirected,1
+Kristian den,Thorvald Stenbo,Undirected,1
+Aly,Harer,Undirected,1
+Aly,Thorvald Stenbo,Undirected,6
+Aly,Gudbjprn,Undirected,2
+Aly,Vedbend,Undirected,1
+Aly Gudbjyrn,Inez,Undirected,3
+Inez,Madame Inger Stenbo,Undirected,1
+Gudbjyrn,Madame Inger Stenbo,Undirected,1
+Inez,Inger Stenbo,Undirected,2
+Aly,Inez,Undirected,54
+Aly,hanIhendes,Undirected,1
+Aly,Pallesen,Undirected,12
+Aly,Kudsk,Undirected,1
+Aly,Olufa,Undirected,15
+Aly GudbjprnS,Inez,Undirected,1
+Tom,emmed Maksa,Undirected,1
+Inez,emmed Maksa,Undirected,1
+Gudbjprn,Inez,Undirected,3
+Tom,fsr Toms,Undirected,1
+Tom,nogcn Massa,Undirected,1
+Aly Gudbjprn,Inez,Undirected,1
+Aly,Tom,Undirected,19
+Gud,Inez,Undirected,7
+Aly,DatteaS,Undirected,1
+Dpren,Tom,Undirected,4
+Dpren,Pallesen,Undirected,1
+Ebbe Johnsen,seile Dirik,Undirected,1
+Pallesrn,Tom,Undirected,1
+Pallrsen,Tom,Undirected,1
+Povl Kure,Sigrid,Undirected,18
+Dirik,Sigrid,Undirected,6
+Dirik,Povl KurrS,Undirected,1
+Gulla,Povl KurrS,Undirected,1
+Sigrid,hmdes,Undirected,1
+Filip,hmdes,Undirected,1
+Filip,Kompagnon,Undirected,1
+Gnlla,Sigrid,Undirected,1
+Gnlla,ban,Undirected,1
+Filip,Povl Knre,Undirected,1
+Christen JespersenS,Rasmus Nielsen,Undirected,1
+Filip Harmen,Rasmus Nielsen,Undirected,1
+Gulla Kure,Ingrid,Undirected,1
+Gulla,Ingrid,Undirected,4
+Filip Harmen,Gulla,Undirected,10
+Ingrid,Rasmus Nielsen,Undirected,1
+Gulla,Jesper JespersenS,Undirected,1
+Filip Harmen,Jesper JespersenS,Undirected,1
+Povl Kure,horrarnas,Undirected,1
+Karl hpre,Povl Kure,Undirected,1
+Filip Harmen,Jesper Jespersen,Undirected,1
+Gerda,Jesper Jespersen,Undirected,1
+Filip,Gerda,Undirected,4
+Christen Jespersen,Thorkel Lars,Undirected,1
+Gulla Kure,Seirherreu,Undirected,1
+Filip,Gulla Kure,Undirected,2
+Gulla,banS,Undirected,1
+Jnbel,Jngnds,Undirected,1
+Ingrid,Jngnds,Undirected,1
+Gulla,Jesper Jespersen,Undirected,1
+Almegaard,Ingrid,Undirected,1
+Nils Holm,Sandegaard,Undirected,1
+Bukkegaard,Erik Anker,Undirected,1
+Povl Kure,Stenby,Undirected,1
+Filip,Sigrid,Undirected,11
+Povl Kure,bun fsrst,Undirected,1
+Filip,ester Middag,Undirected,1
+Filip k^mme,Galla,Undirected,1
+Amor,Gulla,Undirected,1
+Filip,Kong Valdemar de »,Undirected,1
+Amor,Kong Valdemar de »,Undirected,1
+Beldenac,Jens Grand,Undirected,1
+Frlip,Zleonma Christine Ulfeldts,Undirected,1
+Filip,Zleonma Christine Ulfeldts,Undirected,1
+Gulla tpmre,Mip,Undirected,1
+Gulla,Mip,Undirected,1
+KaaS.,Laas,Undirected,1
+Kaad,Signe,Undirected,1
+,Signe,Undirected,1
+M,Rø,Undirected,1
+Mikkel,Ssren,Undirected,1
+Bravo,Gulla,Undirected,1
+Filip,sam am del,Undirected,1
+Busle,sam am del,Undirected,1
+Gulla,sonl,Undirected,1
+j-g,ralt,Undirected,1
+Gulla,fejas,Undirected,1
+Filip,megH,Undirected,1
+Ingrid,Jespers,Undirected,1
+Elesnora Christine Ulfeldts,Johan Dippel,Undirected,1
+Filip,Filip Harmen,Undirected,1
+FilipS,Gulla,Undirected,1
+Gulla,spurpie Povl Kure,Undirected,1
+Sigrid,spurpie Povl Kure,Undirected,1
+Filip Harmen,Sigrid,Undirected,3
+Dirik,GullaS,Undirected,1
+Gulla,GullaS,Undirected,2
+Dirik,Karl,Undirected,1
+Karl,hajn,Undirected,1
+hajn,soddan samman,Undirected,1
+hitta ria,soddan samman,Undirected,1
+Filip,hitta ria,Undirected,1
+Dirik,lunkar,Undirected,2
+Sigrid,lunkar,Undirected,1
+Sigrid,bavde,Undirected,1
+Fillys,Sigrid,Undirected,1
+Povl Kure,Tenfel,Undirected,1
+Povl Kure,Schade,Undirected,1
+Schade,ban,Undirected,1
+Sigrid,Vovl Kare,Undirected,1
+Filip mFrkl,Sigrid,Undirected,1
+LrvStid,mir geschworen,Undirected,1
+Ebbe Johnsen,LrvStid,Undirected,1
+.,Gulla,Undirected,1
+Filip,Ole Qviding,Undirected,1
+Karl,Ole Qviding,Undirected,1
+Gulla,Karl,Undirected,1
+Gulla,Povl Kme,Undirected,1
+Filip,Povl Kme,Undirected,1
+Ole,Povl Kure,Undirected,13
+Filip,Ole,Undirected,11
+Neppe,Sigrid,Undirected,2
+Gulla,JLdfaxe,Undirected,1
+Filip,kelse,Undirected,1
+Bener,Filip,Undirected,1
+Bener,Gulla,Undirected,1
+Gnlla,Gulla,Undirected,3
+Filip,Gnlla,Undirected,3
+Filip,j?,Undirected,1
+g,j?,Undirected,1
+Gnlla,lsd,Undirected,1
+Edm,Gnlla,Undirected,1
+Dirik,vonkat,Undirected,1
+Dirik,mio.,Undirected,1
+Gnlla,Gud,Undirected,1
+Diri,Gud,Undirected,1
+Diri,Gnlla,Undirected,1
+Fillp,ban,Undirected,1
+Aly Gudbjprn,StenboS,Undirected,1
+Inez,StenboS,Undirected,1
+Kreol,Olufa,Undirected,1
+JonSkirke,Kreol,Undirected,1
+Olufa,Thorvald Stendo,Undirected,1
+Olufa,sledse,Undirected,1
+Thorvald Stenbo,sledse,Undirected,1
+Inger Stenbo,Thorvald Stenbo,Undirected,2
+Gud,Thorvald Stenbo,Undirected,3
+Inez,OlSkirke,Undirected,1
+Gud,OlSkirke,Undirected,1
+Gud,Henrik,Undirected,1
+Henrik,Olufa,Undirected,1
+Hnn,hyi,Undirected,1
+Hexen,Inez,Undirected,1
+Hexen,Uveir,Undirected,1
+Fpdebys,Mater,Undirected,1
+Jnez,Svane,Undirected,1
+Aly,Jomfru Jnez,Undirected,1
+Aly,Jnez,Undirected,12
+Aly,Ions,Undirected,1
+My Gudbjörn,dans,Undirected,1
+Aly,Jens Kofod,Undirected,1
+Aly,Gjæsts,Undirected,1
+Gjæsts,Thorvald Sierbo,Undirected,1
+-^jælp,Aly,Undirected,1
+Stenbo,Thielvar,Undirected,1
+Gnthis,Thielvar,Undirected,1
+Gnthis,Hon,Undirected,1
+Eigil Ragnarson-,Jens Kofod,Undirected,1
+Eigil,Eigil Ragnarson-,Undirected,1
+Eigil,Stenbo,Undirected,1
+Egeskov,Jens Kofod,Undirected,1
+Eigil Ragnarson,Kong Knud,Undirected,1
+Akes Dpd,Kong Knud,Undirected,1
+Eigil,Seir,Undirected,1
+Aaard,Eigil Ragnarson,Undirected,1
+Eigil,Eigil Ragnarson,Undirected,1
+Eigil,Gud,Undirected,2
+Eigil,Knud,Undirected,2
+Oluf,ester,Undirected,1
+Kong Knud,Oluf,Undirected,1
+Benedikt,Kong Knud,Undirected,1
+Eigil,saglpS,Undirected,2
+Gudbjyrn,Stenbo,Undirected,1
+Digres,Gudbjyrn,Undirected,1
+Aly Gudbjyrn,Digres,Undirected,1
+Aly Gudbjyrn,Jens Kofod,Undirected,1
+Jens Kofod,Thorvald Stenbo,Undirected,2
+Palnatokes,Thorgunna,Undirected,1
+Aage,Palnatokes,Undirected,1
+Aage,Vesetrs,Undirected,1
+Sigurd Kappe,Vesetrs,Undirected,1
+Sigurd Kappe,Sigvald,Undirected,1
+Sigvald,Thorkel,Undirected,1
+Thorkel,VesrteS,Undirected,1
+Sigurd Koppe,VesrteS,Undirected,1
+Jarlens,Sigurd Koppe,Undirected,1
+Jarlen,Jarlens,Undirected,1
+Jarlen,Kong Svend,Undirected,1
+Bues,Sigurd Kappe,Undirected,1
+Bues,Hakon Jarl,Undirected,1
+Hakon,Hakon Jarl,Undirected,1
+Hakon,Thorgerda Hprdetrold,Undirected,1
+"Erling,",Thorgerda Hprdetrold,Undirected,1
+Hexen,Irpa,Undirected,1
+,Hexen,Undirected,1
+,Thorkil Midlang,Undirected,1
+Bue,Thorskel,Undirected,1
+Saas-,Stenbo,Undirected,1
+Inez Pallesen,Saas-,Undirected,1
+Aly,Inez Pallesen,Undirected,1
+Ebbe Jobnsen,Pallesen,Undirected,1
+Ebbe Johnsen,Pallesrn,Undirected,1
+Dptre,Ebbe Johnsen,Undirected,1
+Dptre,Pallesen,Undirected,2
+Dptte,Pallesen,Undirected,1
+Bprneves,Olufa,Undirected,1
+Bprneves,Christian den,Undirected,1
+Stenbo,Tom,Undirected,8
+Dirik,Stenbo,Undirected,4
+Dirik,Johnsen,Undirected,3
+Gudbjprn,Thorvald Stenbo,Undirected,1
+Inez,Madame Stenbo,Undirected,2
+Jnez,Tom,Undirected,2
+Aly Gudbjprn,Jnez,Undirected,1
+Aly Gudbjprn,Stenbo,Undirected,2
+Aly,Thorvald,Undirected,12
+Madame Inger Stenbo,Stenbo,Undirected,1
+Madame Inger Stenbo,Sigrid,Undirected,1
+Madame Stenbo,Sigrid,Undirected,4
+Gud,Jnez,Undirected,1
+Olufa,Sigrid,Undirected,3
+Jnez,Sigrid,Undirected,1
+Aly,Gud,Undirected,4
+Aly,mprke,Undirected,1
+AU,mprke,Undirected,1
+AU,Inez,Undirected,1
+Inez,Thorvald,Undirected,2
+Dirik,Lybske,Undirected,3
+honsar,molk,Undirected,1
+Peter Monsen,Spn,Undirected,1
+Inez,Spn,Undirected,1
+Ebbe Johnsen,Tom,Undirected,1
+Inez,hnn,Undirected,4
+Tom,h-ndeS,Undirected,1
+Inez,h-ndeS,Undirected,1
+Mie,ban,Undirected,1
+Shavl,Uhr,Undirected,1
+Uhr,ban,Undirected,1
+Inez,ban,Undirected,1
+Sigrid,Thorvald,Undirected,1
+Gulla,Thorvald,Undirected,1
+Olufa,ban,Undirected,4
+Mo,ban,Undirected,1
+Mo,Sigrid,Undirected,6
+Sigrid,Tborvald Stenbo,Undirected,1
+Tborvald Stenbo,derrs,Undirected,1
+Pallesen,derrs,Undirected,1
+Baal,Pallesen,Undirected,1
+Thorvald Stenbo,fpr,Undirected,1
+Madame Sttnbo,Thorvald Stenbo,Undirected,1
+Madame Sttnbo,Olufa,Undirected,1
+Olufa,Thorvald,Undirected,5
+Thorvald,lnnyne eihve-r,Undirected,1
+Aly Gudbjyrn,lnnyne eihve-r,Undirected,1
+,Olufa,Undirected,2
+,Aly,Undirected,2
+Aly,Syslereu,Undirected,1
+Syslereu,Thorvald,Undirected,1
+Thorvald,kmn ban,Undirected,1
+KrysostomuS,Thorvald Stenbo,Undirected,1
+Jesu,KrysostomuS,Undirected,1
+Sten-bo,Thorvald,Undirected,1
+Mprket,Thorvald Stenbo,Undirected,1
+Mprket,Olufa,Undirected,1
+Arys,Olufa,Undirected,1
+Arys,Thorvald,Undirected,1
+Jmidlerrid,Thorvald,Undirected,1
+Jmidlerrid,Stenbo,Undirected,1
+Madame Stenbo,Stenbo,Undirected,3
+Madame Stenbo,Thorvald Stenbo,Undirected,2
+Madame Stenbo,jMsa,Undirected,1
+Kopiain Pallesen,Stenbo,Undirected,1
+Saar,Thorvald Stenbo,Undirected,1
+Olufa,Saar,Undirected,1
+Drpmme,Thorvald Stenbo,Undirected,1
+Drpmme,Tborvald Stenbo,Undirected,1
+Madame Stenbo,Tborvald Stenbo,Undirected,1
+Sigrid,ryr,Undirected,2
+Sigrid,bun,Undirected,2
+Sigrid,Stenbo,Undirected,4
+Sigrid,lil,Undirected,1
+Olufa,Pasfor Stenbo,Undirected,1
+Pasfor Stenbo,bon,Undirected,1
+Olufa,bon,Undirected,1
+Olufa,ester,Undirected,2
+Thorvald,Thorvald Stenbo,Undirected,1
+Thorvald Stenbo,hyit,Undirected,1
+Madame Stenbo,Olufa,Undirected,6
+Dpren,Olufa,Undirected,1
+Dpren,Thorvald,Undirected,1
+Dpr,Thorvald,Undirected,1
+Dpr,Olufa,Undirected,1
+Olufa,hnn,Undirected,2
+Dprene,Pallesen,Undirected,2
+Aly,Madame Stenbo,Undirected,1
+Jnez,Thorvald Srenbo,Undirected,1
+Aly,Thorvald Srenbo,Undirected,2
+Inez,Jnez,Undirected,1
+SpyrgSmaal,Stenbo,Undirected,1
+Pallesen,SpyrgSmaal,Undirected,1
+,Johannes,Undirected,1
+,Inger Stenbo,Undirected,1
+Jens Kofod,Stenbo,Undirected,1
+Jens Kofod,Pallesen,Undirected,1
+Byrn,Inez,Undirected,1
+Mads Persen,Tom,Undirected,2
+Gud,Jomfru Pallesen,Undirected,1
+Mads Persen,Mads Perska,Undirected,2
+Mads Perska,Pallesen,Undirected,1
+Mads Perska,Tom,Undirected,1
+Gulla,Mads Perska,Undirected,4
+Gulla,Inez,Undirected,14
+Jnez,JonSkirken,Undirected,1
+Inez,ejn gnajl bro,Undirected,1
+Signete,Signetes,Undirected,1
+Mads Perska,Signete,Undirected,1
+Joez,Mads Perska,Undirected,1
+Joez,Mads Persen,Undirected,1
+,Jnez,Undirected,5
+,Mads Perska,Undirected,1
+Frederik den,Jens Madsen Kofod,Undirected,1
+Jens Kofod,Jens Madsen Kofod,Undirected,1
+Filip Harmen,Thorvald Stenbo,Undirected,1
+Aly,Filip Harmen,Undirected,2
+Inez,es,Undirected,1
+Aly,es,Undirected,1
+Dandsen,rinae,Undirected,1
+Dandsen,Jmz,Undirected,1
+Jmz,nog,Undirected,1
+nog,t,Undirected,1
+Aly,t,Undirected,1
+Filip Harmen,ban,Undirected,1
+Jens Kofod,ban,Undirected,1
+Jens Kofod,Olufa,Undirected,1
+Jens Kofod,Thorvald,Undirected,1
+Filip Harmen,Jens Kofod,Undirected,2
+Filip Harmen,Kofod,Undirected,1
+Frederik den,Kofod,Undirected,1
+Olufa,Rydme,Undirected,1
+Aly,Kofod,Undirected,1
+Aly,Gudbjørn,Undirected,1
+Gudbjørn,Sjalsa,Undirected,1
+Gudbjyrn,Sjalsa,Undirected,1
+Gudbjyrn,Gudbjyrn Alesyns,Undirected,1
+Gudbjyrn Alesyns,Krist,Undirected,1
+Krist,Sjalfa,Undirected,1
+Sjalfa,jkg,Undirected,1
+AlyS,jkg,Undirected,1
+AlyS,Thorvald Stenbo,Undirected,1
+Inez,Kachukaen,Undirected,1
+Dands,Inez,Undirected,1
+Aly,dandse,Undirected,1
+Filip,dandse,Undirected,1
+Filip,Vals,Undirected,1
+Gulla,fig,Undirected,1
+Filip,fig,Undirected,1
+Dandsen,Inez,Undirected,1
+Dandsen,nl,Undirected,1
+Olufa,nl,Undirected,1
+Filip Harmen,Inez Pallesen,Undirected,2
+Hohlr,Inez Pallesen,Undirected,1
+Ebbe Johnsen,Lybske Dirik,Undirected,2
+Ebbe Johnsen,Inez Pallesen,Undirected,2
+Dirik,lia,Undirected,1
+Povl Kure,lia,Undirected,1
+Ebbe Johnsen,aggar,Undirected,1
+Aly Gudbjyrn,Filip,Undirected,5
+Aly Gudbjyrn,Msgrina,Undirected,1
+Dirik,Msgrina,Undirected,1
+Filip,ning,Undirected,1
+Filip,Gudbjyrn,Undirected,1
+Gudbjyrn,Gulla,Undirected,1
+Dirik,einer,Undirected,1
+Lügen,einer,Undirected,1
+Gulla,Pallesen,Undirected,5
+Gulla,Kaptain Pallesen,Undirected,1
+Dirik,Kaptain Pallesen,Undirected,3
+Aly Gudbjyrn,Inez Pallesen,Undirected,1
+Ebbe Johnsen,ester,Undirected,1
+Aly,Filip,Undirected,6
+Aly,Ebbe Johnsen,Undirected,1
+Dirik,Gerda,Undirected,1
+Aly Gudbjprn,Dirik,Undirected,1
+Gulla,msde,Undirected,1
+Filip,Olufa,Undirected,5
+Aly Gudbjpm,Filip,Undirected,1
+Aly,PallesenS,Undirected,2
+Olufa,bun,Undirected,2
+Aly,bun,Undirected,2
+Aly,Dirik,Undirected,2
+Dirik,Filip maalte,Undirected,1
+Filip maalte,Pallesen,Undirected,1
+Aly,DirikS,Undirected,1
+Ebbe Johnsen,vædder,Undirected,1
+ban,vædder,Undirected,1
+Aly,ban,Undirected,4
+g,j,Undirected,3
+Gulla,Jomfru Pallesen,Undirected,1
+Ebbe Johnsen,Jomfru Pallesen,Undirected,1
+Filip,bam,Undirected,1
+Hon,bam,Undirected,1
+Aly,Hon,Undirected,1
+Aly,hon,Undirected,1
+Aly,Fllip,Undirected,2
+Filip,Jnez,Undirected,2
+Aly,Gulla,Undirected,2
+Ebbe Johnsen,Sigrid,Undirected,9
+Povl Kure,lunkar,Undirected,1
+Dirik,lybske,Undirected,18
+Danke,Ebbe Johnsen,Undirected,1
+Danke,Filip,Undirected,1
+Asten,ban,Undirected,1
+Pallesen,ban,Undirected,2
+Ole Oviding,Povl Ku-^e,Undirected,1
+Hon,Ole Oviding,Undirected,1
+Ebbe Johnsen,Hon,Undirected,1
+Ebbe Johnsen,Ole,Undirected,3
+Filip,PalleserS,Undirected,1
+Aly Gudbjelrn,Filip,Undirected,1
+Aly Gudbjelrn,Pallesen,Undirected,1
+Kviks,Pallesen,Undirected,1
+Blaat,Jnez,Undirected,1
+Aly,yan,Undirected,1
+hnn,yan,Undirected,1
+Jens Kofod,Kofod,Undirected,1
+AlyS,Filip,Undirected,3
+Aly,hans Seir,Undirected,1
+Filip,fleet,Undirected,1
+Gerda,ban,Undirected,1
+Gerda,harr Splvpo,Undirected,1
+ban,harr Splvpo,Undirected,1
+Hon fplte,ban,Undirected,1
+Hon fplte,hon,Undirected,1
+Ebbe Iohnsen,hon,Undirected,1
+Ebbe Iohnsen,lybske,Undirected,1
+Aly,lybske,Undirected,1
+Aly,vcnl Sky-d,Undirected,1
+hnn,vcnl Sky-d,Undirected,1
+Jnez,hnn,Undirected,1
+Gulla,ril,Undirected,1
+Stoltbeds,ril,Undirected,1
+Gulla,Stoltbeds,Undirected,1
+Gulla,Novn,Undirected,1
+Aly,hay,Undirected,1
+Gulla,hay,Undirected,1
+Galla,Gnlla,Undirected,1
+Gnlla,sif,Undirected,1
+bun,sif,Undirected,1
+Gulla,fil,Undirected,2
+Gulla,NlsfM,Undirected,1
+Filip,NlsfM,Undirected,1
+Gulla,hvon Povl Kure,Undirected,1
+Sigrid,hvon Povl Kure,Undirected,1
+Karl,Sigrid,Undirected,1
+Filip,Sme,Undirected,1
+Galla,Imidlerlid,Undirected,1
+Imidlerlid,Ole,Undirected,1
+Gulla,Ole,Undirected,13
+Filip Harmen,Gudbjyrn,Undirected,1
+Gudbjyrn,MesterS,Undirected,1
+Filip Harmen,Ole,Undirected,3
+Gulla,lybske,Undirected,2
+Dirik,Ole,Undirected,1
+Filip,savdi,Undirected,1
+Mesfers,savdi,Undirected,1
+Gudbjprn,wie,Undirected,1
+Gudbjprn,Gulla,Undirected,1
+Sigrid,oryseli,Undirected,1
+Ole,Sigrid,Undirected,12
+Filip Harmen,Kaptam Pallesens,Undirected,1
+Kaptam Pallesens,Pallesen,Undirected,1
+Ebbe Johnsen,Gudbjpru b,Undirected,1
+Ebbe Johnsen,Filip Harmen,Undirected,2
+Filip Harmen,Gudbjprn,Undirected,1
+Gudbjprn,Guddjsin,Undirected,1
+Guddjsin,hnn,Undirected,1
+Gudbjmn,hnn,Undirected,1
+Gudbjmn,Jomfru Pall,Undirected,1
+,Jomfru Pall,Undirected,1
+Gullo Filips,Ole,Undirected,1
+Mo,Ole,Undirected,1
+Fenris,Sigrid,Undirected,3
+Fenris,Gulla,Undirected,3
+HendeMund,Sigrid,Undirected,1
+Ole,Symt,Undirected,1
+Filip,Spens,Undirected,1
+Filip,Horraejn,Undirected,1
+Aly,Horraejn,Undirected,1
+aggar,j-g,Undirected,1
+AlyS,Gulla,Undirected,1
+g,lia,Undirected,1
+Filip,ril,Undirected,2
+Gulla,Jldfaxe,Undirected,1
+Inez Pallesen,lybske Dirik,Undirected,2
+lybske Dirik,maggat samman,Undirected,1
+Gulla,maggat samman,Undirected,1
+Annitta CarellL,Jonskirken Romantisk,Undirected,1
+Pallesen,boZ C. Ferslcw,Undirected,1
+Pallesen,bun,Undirected,1
+Inez,Pallef,Undirected,1
+Gudbjyrn,Pallesen,Undirected,1
+Dpren,Inez,Undirected,3
+Hua,Inez,Undirected,1
+Inez,bam,Undirected,2
+Tom,Tom hpre,Undirected,1
+Mils,Tom,Undirected,1
+Mils,Miss hsre,Undirected,1
+Miss hsre,Tom,Undirected,1
+MassaS,Tom,Undirected,2
+Palllsen,Tom,Undirected,1
+Pallefen,Tom,Undirected,1
+Aly Gudbjyrn,Tom,Undirected,3
+Aly,Aly Gudbjyrn,Undirected,3
+Præstegaard,Thorvald Stenbo,Undirected,1
+Thorvald Stenbo,nelop,Undirected,1
+Thorvald Srenbo,nelop,Undirected,1
+OlufaS,Thorvald Srenbo,Undirected,1
+Inger Stenbo,Nornen,Undirected,1
+Gud,bmr,Undirected,1
+Gud,Olnfa,Undirected,1
+Msrke,Thorvald Stenbo,Undirected,1
+Olnfa,Thorvald,Undirected,1
+Stenbo,ftrend Mo,Undirected,1
+Beethovens,Stenbo,Undirected,1
+Ebbe Jobnsen,Kaptain Pallesen,Undirected,1
+Ebbe Jobnsen,Ebbe Johnsen,Undirected,1
+Ebbe Johnsen,lybske,Undirected,1
+Dirik,maggad,Undirected,1
+ban,maggad,Undirected,1
+Lybske Dirik,Pallesen,Undirected,3
+Ebbe Johnsen,Kaptain Pallesen,Undirected,1
+Allmge,Ebbe Johnsen,Undirected,1
+Allmge,Dirik,Undirected,1
+Hatten,Stenbo,Undirected,1
+Eiler Mprls,Pallesen,Undirected,1
+Dirik,Eiler Mprls,Undirected,1
+Pallesen,StenboS,Undirected,1
+StenboS,Thorvald,Undirected,1
+Pallesen,Rikeog Kjyrehesfe,Undirected,2
+Olufa,Thorvald Stenby,Undirected,1
+Arne,lybske,Undirected,1
+Olufa,StenboS,Undirected,1
+Aly Gudbjyrn,Thorvald Stenbo,Undirected,2
+Aly Gudbjyrn,Jnez,Undirected,1
+Aly,Pallesm,Undirected,1
+Aly Gudbjprn,Thorvald Stenbo,Undirected,1
+Inez,S,Undirected,2
+Oluia,S,Undirected,1
+Oluia,Thorvald,Undirected,1
+Madame Stenbo,fig,Undirected,1
+Thorvald StenboS,fig,Undirected,1
+Aty,Inez,Undirected,1
+Madame Stenbo,bam,Undirected,1
+Rsaa,rvald,Undirected,1
+d r,rvald,Undirected,1
+Thorvald Stenbo,d r,Undirected,1
+Thorvald Stenbo,Viben,Undirected,1
+Kong Christian,Thorvald Stenbo,Undirected,1
+Kong Christian,nlan,Undirected,1
+Jnez,Uly,Undirected,2
+Madame Stenbo,hon,Undirected,1
+Olufa,Thorvald Srenbo,Undirected,2
+Aly Gudbjyrn,nerm,Undirected,1
+,N,Undirected,1
+Ebbe Jodnskv,Gndbjørn,Undirected,1
+Dirik,Ebbe Jodnskv,Undirected,1
+Dia,Pallesen,Undirected,1
+Olufa,llgewm,Undirected,1
+Gudbjprn,bun,Undirected,1
+' eskabefs,Filip,Undirected,1
+Ebbe oa,Filip,Undirected,1
+Ebbe oa,Galla,Undirected,1
+Filip,dpve,Undirected,1
+Gulla,dpve,Undirected,1
+Evbe,Filip,Undirected,1
+Evbe,Jobnsens,Undirected,1
+Dirik alrid,Jobnsens,Undirected,1
+Dirik alrid,Filip,Undirected,1
+-Filips,Galla,Undirected,1
+Dink,Filip,Undirected,1
+Filip mydtes,Gulla,Undirected,1
+Filip mydtes,Saltovue,Undirected,1
+Filip,Saltovue,Undirected,1
+Gud,Gulla,Undirected,3
+Dirik,Gud,Undirected,2
+Sigurd Olverspn,Sigurds,Undirected,1
+Gunhild,Sigurds,Undirected,2
+Gunhild,Olver,Undirected,2
+Hystrn,Sigurds,Undirected,1
+Hystrn,Olver,Undirected,1
+Olver,Sigurd,Undirected,4
+Gunhild,Sigurd,Undirected,2
+Olver,webe,Undirected,1
+Olver,ilive,Undirected,1
+Hsie,S ,Undirected,1
+S ,gurd,Undirected,2
+Gunhild,gurd,Undirected,1
+Bedstemo,Gunhild,Undirected,2
+Hyiens,Sigurd,Undirected,1
+Sigurd,ns,Undirected,1
+b,ns,Undirected,1
+Gud,b,Undirected,1
+Sigurd,ban,Undirected,2
+Sigm-d,Sigurd,Undirected,1
+Sigurd,lille Ka ' l,Undirected,1
+Husly,Sigurd,Undirected,2
+Noa,Sigurd,Undirected,1
+,Noa,Undirected,1
+,Sjælhpi,Undirected,1
+Hsien,Sigurd,Undirected,1
+Jonskirken,Sigurd,Undirected,1
+Sigurd,gutt,Undirected,1
+S ,gutt,Undirected,1
+gurd,hcns,Undirected,1
+Sipurd,hcns,Undirected,1
+Ajtkvstjtrnkn,Sipurd,Undirected,1
+Ajtkvstjtrnkn,Gunhild,Undirected,1
+Gud,Sigurd,Undirected,1
+Sigurd,wen,Undirected,2
+Sigurd,Sjælhpi,Undirected,1
+Sjælhpi,karadolk,Undirected,1
+Gulla,Sigurd,Undirected,1
+DirikS,Fillp,Undirected,1
+Gulla,bun,Undirected,1
+Aly Gudbjsrn,Master Blockmore,Undirected,1
+Master Blockmore,Rowson,Undirected,1
+Adre,Aly,Undirected,1
+Aly o^,Jnez,Undirected,1
+Aly o^,Pallesev,Undirected,1
+Pallesen,ber greb,Undirected,1
+Uly Gndbftrr,lia,Undirected,1
+Master Blackmores,lia,Undirected,1
+Master Blackmores,Rowson,Undirected,1
+Dpren,fpr TomS,Undirected,1
+Dienlaage,Inez,Undirected,1
+Dienlaage,hnn,Undirected,1
+Dpren,hnn,Undirected,1
+Tom,lille Miss,Undirected,1
+Tom,Tom Massa,Undirected,1
+Aly,McdenS,Undirected,1
+McdenS,ber,Undirected,1
+Inez Pallesen,Tom,Undirected,1
+,ban,Undirected,2
+Tom,adlpd,Undirected,1
+erik,mpke,Undirected,1
+erik,sia,Undirected,1
+Fakkel,sia,Undirected,1
+Fakkel,wen,Undirected,1
+Aly,ril Imz,Undirected,1
+bon,ril Imz,Undirected,1
+Aly,Rolf,Undirected,5
+Aly,BMse,Undirected,2
+Inez,JonSkirken,Undirected,1
+JonSkirken,Olufa,Undirected,1
+Rolf,impde,Undirected,1
+Aly,impde,Undirected,1
+Inez,Rolf,Undirected,2
+brydlys,nfig,Undirected,1
+Aly,nfig,Undirected,1
+Tomahawk,ban,Undirected,1
+AlyS,ban,Undirected,1
+AlyS,Inez,Undirected,2
+Aly,Master BlackmoreS,Undirected,1
+Kristus,itle,Undirected,1
+Gud,itle,Undirected,1
+Blackmore,Gud,Undirected,1
+Master Blackmore,Mastrr Blackmore,Undirected,1
+Enropas,Fleeton,Undirected,1
+Blackmore,Fleeton,Undirected,1
+Gud,Stenbo,Undirected,6
+Olufa,ester Pallesen,Undirected,1
+Inez,ehele,Undirected,1
+Inez,Jn-z,Undirected,1
+Ea,Inez,Undirected,1
+Skulda,ban halvlwit,Undirected,1
+Ale,Conach,Undirected,1
+Inez,Simon Blodigle,Undirected,1
+Pallesen,sia,Undirected,1
+Conach,Dpors,Undirected,1
+Jnez,Pallesen,Undirected,5
+Filip,lybske,Undirected,2
+Dirik,dazu hat,Undirected,1
+Filip,Pallrsen,Undirected,1
+Filip,Lwe,Undirected,1
+Dirik,Lwe,Undirected,1
+Pallesen,Todte,Undirected,1
+Filip krpb,Jnex,Undirected,1
+Filip,Filip krpb,Undirected,1
+Jnez,S,Undirected,2
+Jomfru Inez,fsr Inez,Undirected,1
+Filip,Jomfru Inez,Undirected,1
+Filip,Gud,Undirected,1
+Filip Harmen,Kaptain Pallesen,Undirected,2
+Filip,Fskip,Undirected,1
+Filip,Livtt,Undirected,2
+Inez,Stevelen,Undirected,1
+Gulla,Stevelen,Undirected,1
+Filip,Inez Pallesen,Undirected,2
+Gulla,impde,Undirected,1
+Filip,hon,Undirected,1
+Filip Harmen,b,Undirected,1
+Inez Pallesen,b,Undirected,1
+foss,kaga samman,Undirected,1
+Gulla,kaga samman,Undirected,1
+Gulla,Inez Pallesen,Undirected,2
+Gulla,Johan Dippel,Undirected,2
+Gulla,Spens,Undirected,1
+Spens,lybske,Undirected,1
+Gulla,h,Undirected,1
+Filip,h,Undirected,1
+GullaS,Inez,Undirected,1
+Doß,dich,Undirected,1
+Dirik,dich,Undirected,1
+Dirik,wahrhaffig,Undirected,1
+Inez,lia,Undirected,1
+Gnlla,Inez,Undirected,1
+Dptre,Stenbo,Undirected,1
+Inez,bun,Undirected,1
+Inez,Jonskirken,Undirected,1
+Olufa,dpd,Undirected,2
+Inez,Nyglln,Undirected,1
+Nyglln,Pallesen,Undirected,1
+Pallesen,hnn,Undirected,1
+Olufa,Pallesm,Undirected,1
+Olufa,Spster,Undirected,1
+Jnez,Spster,Undirected,1
+Uly,k,Undirected,1
+Inez hmsank,Karl,Undirected,1
+Inez,Olafa,Undirected,1
+hon,mei,Undirected,1
+Hon,Inez,Undirected,1
+AlyS,Pallesen,Undirected,2
+Gud,ban,Undirected,2
+ban,freidig,Undirected,1
+Madam Stenbo,Olusa,Undirected,1
+Jomfru Olufa,Thorvald Stenbo,Undirected,1
+Geisfliges,L længere,Undirected,1
+Geisfliges,l,Undirected,1
+Inez,l,Undirected,1
+Hnn,Inez,Undirected,1
+Hnn,Olufa,Undirected,1
+A!,Olufa,Undirected,1
+A!,Inez,Undirected,1
+Adams,EvaS,Undirected,1
+Aly,Oluf«,Undirected,1
+Gudbjprn,Jonskirken,Undirected,1
+Gulla,Ole Mestersvend,Undirected,1
+Ole,Ole Qviding,Undirected,2
+Mesters,Ole,Undirected,1
+Filip,OleS,Undirected,1
+Jldfax,Ole,Undirected,1
+Hesfen,Ole,Undirected,1
+Gulla,Hesfen,Undirected,1
+Gulla,Mo,Undirected,1
+Peder,Sigrid,Undirected,2
+ISga,MadS PeersenS,Undirected,1
+ISga,Stenbo,Undirected,1
+Povl Kure,Stenbo,Undirected,4
+Sigrid,Sigrid fplte,Undirected,1
+ISga Persdatter,Sigrid fplte,Undirected,1
+ISga Persdatter,Sigrid,Undirected,1
+FenriS,Sigrid,Undirected,1
+FenriS,Gulla,Undirected,2
+Seir,Sigrid,Undirected,1
+Gulla,Seir,Undirected,1
+FenriS,lille Isga,Undirected,1
+Sigrid,lille Isga,Undirected,1
+Jsgas,Sigrid,Undirected,1
+JSga,Siffen,Undirected,1
+Gulla,Isga,Undirected,6
+ISga,Lars OlesenS,Undirected,1
+Gulla,ISga,Undirected,3
+Gutten,Liv,Undirected,1
+Gutten,Moen,Undirected,1
+Gulla,JpSseS,Undirected,1
+Gulla,Housar,Undirected,1
+GullaS,Sigrid,Undirected,3
+Isga,Sigrid,Undirected,2
+ISga,Isga,Undirected,1
+Povl Kure,s.,Undirected,1
+J-g,Ole,Undirected,2
+Mesfers,Ole,Undirected,1
+Filip,Mesfers,Undirected,1
+Filip,Harmen,Undirected,1
+Harmen,Ole,Undirected,1
+Gulla,Ole Qvidmg,Undirected,1
+Ole Qvidmg,tegauns,Undirected,1
+Gud,piblaen,Undirected,1
+Sigrid,kæus,Undirected,1
+Ole Qviding,Sigrid,Undirected,4
+Jonskirken.,Sigrid,Undirected,1
+Ole Qviding,pibla,Undirected,1
+Ole Qviding,Povl Kure,Undirected,1
+Filip Harmen,GullaS,Undirected,1
+GullaS,Hnn,Undirected,1
+Filip,Mo,Undirected,1
+Gulla,Ole Qviding,Undirected,1
+Halft«,Sigrid,Undirected,2
+Filip,Isga,Undirected,3
+Enesfe,Ole,Undirected,1
+Enesfe,Gulla,Undirected,1
+Gulla,Mesters,Undirected,1
+Gud,hsrt,Undirected,1
+Galla,Jsga,Undirected,1
+Gulla,JSga,Undirected,1
+Filip,JSga,Undirected,2
+Filip Harmen,ISga,Undirected,1
+ISga,Ole,Undirected,1
+Filip,ejn bæzijn,Undirected,1
+berinde,ejn bæzijn,Undirected,1
+Gulla,berinde,Undirected,1
+Filip Harmen,Isga,Undirected,1
+Gulla bavde,Isga,Undirected,2
+GullaS,Isga,Undirected,1
+Ole Oviding,Povl Kure,Undirected,1
+Morbroers,Ole Oviding,Undirected,1
+Gulla,MorbroerS,Undirected,1
+MorbroerS,Sigrid,Undirected,1
+Gerda,Lybske,Undirected,1
+Filip,Tejv,Undirected,2
+Inez,Sigrid,Undirected,2
+Dirik,lybsk,Undirected,1
+Ib Pallesen,Pallesen,Undirected,2
+Dirik,Ib Pallesen,Undirected,1
+lybske Dirik,udbipd Pallesen,Undirected,1
+Drnks,udbipd Pallesen,Undirected,1
+Jb Pallesen,Lybske Dirik,Undirected,1
+Filip Harmen,Karl,Undirected,1
+Karl,Pallesen,Undirected,1
+Dirik,Holt,Undirected,1
+Dirik,Ebbe Iohnsen,Undirected,1
+Ebbe Iohnsen,Pallesen,Undirected,1
+DirikS,Nils Buva,Undirected,1
+Dirik,Nils Buva,Undirected,1
+Palle,sens,Undirected,1
+Inez,Lybske Dirik,Undirected,1
+Jnez,ril,Undirected,1
+Jnez,jæg,Undirected,1
+jæg,lybske Dirik,Undirected,1
+Jnez,Marv,Undirected,1
+Aly Gudbjvrn,jæg,Undirected,1
+Aly Gudbjvrn,Masfer Blukmore,Undirected,1
+Masfer Blukmore,jæg,Undirected,1
+,Inez,Undirected,4
+Aly,uma,Undirected,1
+Mpde,uma,Undirected,1
+AlyS,Dirik,Undirected,1
+AlyS,Tom,Undirected,1
+Gudbjprn,Tom,Undirected,1
+Aly,"Gaug han troer, at jeg vil ægte Aly",Undirected,1
+Buva,Dirik,Undirected,1
+Gud,Inez Pallesen,Undirected,1
+Olufa sil Tom,Pallesen,Undirected,1
+Inez,Olufa sil Tom,Undirected,1
+Olufa,kjær,Undirected,1
+Inez,kjær,Undirected,1
+Inez,bende,Undirected,1
+Olufa,bende,Undirected,1
+Gudbj^rn,Tom,Undirected,1
+Tom,dam,Undirected,1
+Gud,Pastor Stenbo,Undirected,1
+Jnez,Stenbo,Undirected,2
+Aly,Madam Stenbo,Undirected,2
+Bprn,Gud,Undirected,1
+Jnez,RowsonS,Undirected,1
+Aly hMe,RowsonS,Undirected,1
+Aly hMe,Pasfor Stenbo,Undirected,1
+Pallesen,Pasfor Stenbo,Undirected,1
+Aly,Gudbjpru,Undirected,1
+Gudbjpru,Inez,Undirected,1
+AlyS,Stenbo,Undirected,1
+Inez,Olnfa,Undirected,2
+Jørgen Anders,Mikkelsdag,Undirected,1
+Anders,Hans Mikkel,Undirected,1
+Knud Sode,Peter Nap,Undirected,3
+faa,sirrisarna,Undirected,1
+Knud,Kong Eriks,Undirected,1
+Hans Mikkel,Knud Sode,Undirected,1
+Knud Sode,Peter Rüp,Undirected,1
+Ebbe Johnsen,Knud Sode,Undirected,1
+Johnsen,Peter Nap,Undirected,1
+Johnsen,Knud Sode,Undirected,1
+Ebbe Johnsen,Ole Qviding,Undirected,1
+Ebbes,Ole Qviding,Undirected,1
+Ebbes,Filip Harmen,Undirected,1
+Ebbe,Filip Harmen,Undirected,1
+Knud Sode,Peter Rap,Undirected,1
+Johnsen,Ole,Undirected,2
+Ebbe Johnsen vsdblev,Ole,Undirected,2
+Ebbe Johnsen,Suse,Undirected,2
+Ole,Suse,Undirected,2
+Ebbe,Ole,Undirected,2
+Ebbe,Maren JohrrsensdaNer,Undirected,1
+Maren JohrrsensdaNer,Suse,Undirected,1
+jeo,kjvllnar,Undirected,1
+Ebbe,Suse,Undirected,8
+Johnsen,lybsle Dirik,Undirected,1
+Filip Harmen,lybsle Dirik,Undirected,1
+Ole,Smedim,Undirected,1
+"Ebb§,",ester Mo ' er Sigrid,Undirected,1
+Hpr,Sigrid,Undirected,1
+Sigrid,j-g,Undirected,1
+Ebbe,j-g,Undirected,1
+Ebbe,j,Undirected,1
+Sigrid,hnn,Undirected,2
+Ebbe Johnsen,hnn,Undirected,1
+fpr Filip Harmen,lybske Dirik,Undirected,1
+Suse,lybske Dirik,Undirected,1
+Ebbe,Filip,Undirected,1
+Johnsen,lybske Dirik,Undirected,1
+Ebbe,Sigrid,Undirected,1
+Sigrid,Suse,Undirected,2
+Ebbe t,Suse,Undirected,1
+Stenbo,Suse,Undirected,1
+Ebbe,Stenbo,Undirected,2
+Stenbo,sir,Undirected,1
+Thorvald Sttnbo,lybfle Dirik,Undirected,1
+Kaptain Pallesen,lybfle Dirik,Undirected,1
+Drrik,EbbeS,Undirected,1
+Drrik,Ebbe,Undirected,1
+Rpune,Suse,Undirected,1
+Ebbe,Rpune,Undirected,1
+Kjyre,Mogens Øre,Undirected,1
+Kudsk,Suse,Undirected,2
+Asten,Sigrid,Undirected,1
+Asten,Ebbe,Undirected,1
+Ebbe,lybske,Undirected,1
+Dirik,Suse,Undirected,1
+Mogens,Suse,Undirected,1
+Mogens,Sigrid,Undirected,1
+Rpnne,Spsterspn,Undirected,1
+Jesu,Suse,Undirected,1
+GullaS,Ole Qviding,Undirected,3
+Ole,Povl KureS,Undirected,1
+GullaS,Ole,Undirected,1
+Gulla,hrm,Undirected,1
+Ole,hrm,Undirected,1
+Dandsetrin,Gulla,Undirected,1
+Dandsetrin,Povl Kure,Undirected,1
+Povl Kure,Sigrid sledse,Undirected,1
+Ebbe Johnsen,bavde,Undirected,1
+Povl KureS,bavde,Undirected,1
+Povl Kure,Povl KureS,Undirected,1
+Ole vore kjyrte,Povl Kure,Undirected,1
+Ole vore kjyrte,lille Isga,Undirected,1
+Gulla,lille Isga,Undirected,1
+Hnn,hnn,Undirected,1
+Hnn,Povl,Undirected,1
+Gulla hörte,ester flpi,Undirected,1
+Gulla hörte,ester,Undirected,1
+Sigrid,Uveir,Undirected,1
+fosS,pea,Undirected,1
+,Mo,Undirected,1
+,Sigrid,Undirected,1
+Morten Aaky,Sigrid,Undirected,1
+Johan Dippel,tajnharpa,Undirected,1
+Sigrid,tajnharpa,Undirected,1
+Morten Aaby,Sigrid,Undirected,1
+Fenris,Isga,Undirected,1
+Gulla Mo,Sigrid,Undirected,1
+Gulla,Povl Kure ogOleQviding,Undirected,1
+Dptre,PallesenS.,Undirected,1
+Dptre,Povl Kure,Undirected,1
+Povl Kure,j,Undirected,1
+J-g,ban,Undirected,1
+Sigrid,honsar,Undirected,1
+Ebbe Johnsen,Gulla,Undirected,1
+Mogens Øre,ban,Undirected,1
+Tborvuld Stenbo,audre Hexekunster,Undirected,1
+Povl Kure,audre Hexekunster,Undirected,1
+Thorvald Sfenbo,ban,Undirected,1
+ban,dans,Undirected,1
+Mo,dans,Undirected,1
+Mogens j,Sigrid,Undirected,1
+Mogens j,Thorvald Stenbo,Undirected,1
+Ebbe Johnsen,Thorvald Stenbo,Undirected,1
+Sigrid,Snse,Undirected,1
+Stenbo,d. n.,Undirected,1
+Sigrid,Thorvald Stenbo,Undirected,3
+Madam Inger Stenbo,Stenbo,Undirected,1
+Madam Inger Stenbo,Sigrid,Undirected,1
+Povl Kure,Thorvald Stenbo,Undirected,1
+Ole,hol-t,Undirected,1
+Ole,mea Povl Kure,Undirected,1
+Sigrid,mea Povl Kure,Undirected,1
+Ebbe JohnsenS,Sigrid,Undirected,1
+EbbeS,Sigrid,Undirected,1
+Povl Kure,Thorvald Slenbo,Undirected,1
+Povl Kure,ive,Undirected,1
+Sigrid,ive,Undirected,1
+Slenbo,Stenbo,Undirected,1
+Sigrid,Thorvald Stevbo,Undirected,1
+Sigrid,bjem,Undirected,1
+Ebbe Johnsen,bjem,Undirected,1
+Ebbe Johnsen,EbbeS,Undirected,1
+Ebbe Johnsen,Smed KureS,Undirected,1
+Gud,Sigrid,Undirected,1
+Almnen,Gulla,Undirected,1
+Sigrid,sif,Undirected,1
+Gullos,l »,Undirected,1
+Mprkers,l »,Undirected,1
+Sigrid,wen,Undirected,1
+Ole Qviding,wen,Undirected,1
+GullaS,Stenbo,Undirected,1
+Belln,Stenbo,Undirected,1
+Belln,Sigrid,Undirected,1
+Gulla,Thorvald Stenbo,Undirected,2
+Dirik,denms,Undirected,1
+Znez,denms,Undirected,1
+S,Znez,Undirected,1
+S,nvar,Undirected,1
+lybske,nvar,Undirected,1
+Dirik,Olufa og,Undirected,1
+Inez,Olufa og,Undirected,1
+Jn,z,Undirected,1
+Aly,z,Undirected,1
+,Inrz,Undirected,1
+,Stenbo,Undirected,1
+ElvenS,Hörer,Undirected,1
+Aly,Arne,Undirected,1
+Arne,Inez,Undirected,1
+Mads Persen,Stenbo,Undirected,3
+Stenbo,hme,Undirected,1
+Aly,Gulblvmmrn,Undirected,1
+Madam Slenbo kjørende,Thorvald Stenbo,Undirected,1
+Ebbe Johnsen,Sigrid fyrst,Undirected,2
+Ebbe Johnsen,Mogens Øre,Undirected,1
+AlyS,Thorvald,Undirected,1
+AlyS,Madam Stenbo,Undirected,1
+Madam Stenbo,Stenbo,Undirected,2
+Aly,Kokosnøddens,Undirected,1
+Massa,Massa Gudbjyrn,Undirected,1
+Massa,Rowson,Undirected,1
+Massa Blakmore,Tom,Undirected,1
+Massa Blakmore,Massa Gudbjyrn,Undirected,1
+Massa Gudbjyrn,lybske Dirik,Undirected,1
+Aly,lybske Dirik,Undirected,1
+Ab,Massa Gudbjprn,Undirected,1
+Inez,ester,Undirected,1
+Pollesen,Tom,Undirected,1
+Jmz,Tom,Undirected,1
+Tom,b,Undirected,1
+Gulla,hnn,Undirected,1
+Stenbo,dans,Undirected,1
+Thorvald,dans,Undirected,1
+Rolf,Thorvald,Undirected,1
+Tom,fom,Undirected,1
+Miss Inez,Olnfa,Undirected,1
+Miss Inez,Tom,Undirected,1
+Massa Gudbjyrn,Tom,Undirected,3
+Massa Pallesen kjybe Tom,Tom,Undirected,1
+Massa Pallesen kjybe Tom,Tom splge,Undirected,1
+Massa Pallesen,Tom splge,Undirected,1
+Massa Pallesen,Massa Pallesen kjpbe,Undirected,2
+Kaptain Pallesen,Tom,Undirected,1
+MaSsas,Tom,Undirected,1
+Kjyre,Tom,Undirected,1
+Kjyre,Ringebjerg,Undirected,1
+Ringebjerg,Tom,Undirected,1
+Massa,Tom,Undirected,9
+Olnfa,Tom,Undirected,3
+Inez,Miss Olnfa,Undirected,1
+Kaptain Pallefens,Stenbo,Undirected,1
+Massa Pallesen,Tam,Undirected,1
+Massa,Tom feile Baad,Undirected,1
+Massa Gudbj-rns,Tom feile Baad,Undirected,1
+Massa Gndbjprn,Massa Pallesen,Undirected,1
+Massa Gndbjprn,Pallesen,Undirected,1
+Gaulle,Massa Gudbftrn,Undirected,1
+Massa Gudbftrn,Pullesen,Undirected,1
+Massa Gudbjprn,Pullesen,Undirected,1
+Massa Gudbjprn,Massa Pallesen,Undirected,1
+Massa Gudbjprn vaagne,Massa Pallesen,Undirected,1
+Massa Pallesen,Tomahavk,Undirected,1
+Tom,Tomahavk,Undirected,1
+Massa Pallesen,Tom,Undirected,3
+Tom,Tom angst,Undirected,1
+MaSsa Pallesen,Tom angst,Undirected,1
+MaSsa Pallesen,TomS,Undirected,1
+MaSsa Gudbjyrns,Tom,Undirected,1
+MaSsa Gudbjyrns,Massa Aly,Undirected,1
+Massa Pallesen,Massa Rowson,Undirected,1
+Massa Aly,Massa Rowson,Undirected,1
+Thorvald,vans,Undirected,1
+Thorvald,Tom,Undirected,2
+Tom,ban,Undirected,1
+Massa Gudbjelrn,Master Blakmore,Undirected,1
+Massa Gudbjelrn,Thorvald,Undirected,1
+Gud,Massa Gudbjyrn,Undirected,1
+Massa Aly,Massa Blakmore,Undirected,1
+Massa Blakmore,kjM Massa Aly,Undirected,1
+Massa Aly,kjM Massa Aly,Undirected,1
+Massa Aly,Massa Pallesen,Undirected,1
+Massa Pallesen,Miss Inez,Undirected,1
+Massa Aly,Miss Inez,Undirected,1
+Massa Aly,Rowson,Undirected,2
+Massa Aly,Thorvald,Undirected,1
+Aly,Massa,Undirected,1
+Pallesen,Thorvald,Undirected,1
+Pallesen,Thorvald Slenbo,Undirected,2
+Blod-Eigils,Pallesen,Undirected,1
+Aly,Blod-Eigils,Undirected,1
+Ib Pallesen,ban,Undirected,1
+Aly,Mads Persen,Undirected,2
+Gudbjprn,Thorvald,Undirected,1
+Aly,Ringebjera,Undirected,1
+Ringebjera,Tom,Undirected,1
+Tom,fil,Undirected,1
+Bang,Tom,Undirected,1
+Bang,Mads Persen,Undirected,1
+Mads Perska,Nysgjerrighedeus,Undirected,1
+Nysgjerrighedeus,Stenbo,Undirected,1
+PallrsmS,Stenbo,Undirected,1
+Mads PerskaS,PallrsmS,Undirected,1
+Sigrid,Thorvald Stenbo splt,Undirected,1
+DrSse,Olufa,Undirected,1
+Aly Gudbjpm,Jnez,Undirected,1
+Pallesen,Sigrid,Undirected,2
+MadS PerSka,nn,Undirected,1
+Pallesen,Thorvald Sienbo,Undirected,1
+Pallesen,Tpile,Undirected,1
+Olufa,TomS,Undirected,1
+Aly,Jaez,Undirected,1
+Jaez,S,Undirected,1
+Olufa,S,Undirected,1
+Daren,Pallesen,Undirected,1
+Kaptain Pallesen,Pallesen,Undirected,1
+Kaptain Pallesen,Thorvald Stenbo,Undirected,1
+Gudbjyrn,Thorvald Stenbo,Undirected,1
+Stenbo,Øe,Undirected,1
+Aly Gudbjprn,Gud,Undirected,1
+Pallesen,d,Undirected,1
+GudbjprnS,Tom,Undirected,1
+Aly,bom,Undirected,1
+bom,d,Undirected,1
+?,d,Undirected,1
+?,Aly,Undirected,1
+Olusa,Thorvald,Undirected,1
+Olusa,forstenef,Undirected,1
+Juez,Olufa,Undirected,1
+Juez,Pallesen,Undirected,1
+Pallesen,Rowson,Undirected,1
+Pallesen,Stenbs,Undirected,1
+Tom bange,Tom ftlge,Undirected,1
+Thorvald Stenby,Tom,Undirected,1
+Thorvald Stenbo,hon,Undirected,1
+Leie,Pallesen,Undirected,1
+Mogens Øre,Pallesen,Undirected,3
+Inez,Mogens Øre,Undirected,1
+Tom,bun,Undirected,1
+Mogens Øre,Olufa,Undirected,3
+Inez,K ast ban,Undirected,1
+Pastor Stenbo,ban,Undirected,1
+Pallesen,Stueuhr,Undirected,1
+Ib lpb,Pallesen,Undirected,1
+Ib lpb,hon,Undirected,1
+Pallesen,dans,Undirected,2
+Fylge,Mogens Øre,Undirected,1
+Fylge,yiebllkkelrg,Undirected,1
+Pallesen,yiebllkkelrg,Undirected,1
+Pallesen,hon,Undirected,1
+Olusa,hnn,Undirected,1
+Inez,Thorvald StenboS,Undirected,1
+Aly,Pjostre,Undirected,1
+Aly,hM,Undirected,1
+Inez,Oluia,Undirected,1
+Kaptain Pallesen,Oluia,Undirected,1
+Kaptain Pallesen,lybske Dirik,Undirected,1
+Pollesen,lybske Dirik,Undirected,1
+Pollesen,dpd,Undirected,1
+Olufa,lybske,Undirected,1
+Dirik,b.,Undirected,2
+Fylgrt,Pallesen,Undirected,1
+Dirik,Fylgrt,Undirected,1
+Pallesen,Sien,Undirected,1
+Joneknkkn,Sien,Undirected,1
+Joneknkkn,steile,Undirected,1
+Massa Gudbjprn,Tam,Undirected,1
+Dpr,Tom,Undirected,1
+Dpr,Hnn,Undirected,1
+Inez,TomS,Undirected,1
+Rolf,Tom,Undirected,4
+Rolf,Tom rysfe,Undirected,1
+Inez,Tom rysfe,Undirected,1
+,AlyS,Undirected,2
+Aly,AlyS,Undirected,1
+Inez,Toyr,Undirected,1
+Toyr,ban,Undirected,1
+Mads Persen,Olufa,Undirected,1
+Jonskirken,Mads Persen,Undirected,1
+Jonskirken,Massa Gudbjyrn,Undirected,1
+Massa Gudbjyrn,Miss Inez,Undirected,1
+Karl,Mads Perska,Undirected,1
+Jmz,Karl,Undirected,1
+,Jmz,Undirected,1
+,Tom,Undirected,1
+Jonskirken,Tom,Undirected,1
+Aly,Jonskirken,Undirected,1
+AlyS,Mads Persen,Undirected,1
+Gud,fprJouskukenS,Undirected,1
+Inez,L *,Undirected,1
+AlyS,vexle,Undirected,1
+Inez,vexle,Undirected,1
+Inez,hmdeS,Undirected,1
+Tom,hmdeS,Undirected,1
+Nolf,Tom,Undirected,1
+Inez,Nolf,Undirected,1
+Graad,hyie,Undirected,1
+Olufa,hyie,Undirected,1
+Aly,ionefts,Undirected,1
+Madam Inger Stenbo,Olufa,Undirected,1
+Olufa,banS,Undirected,1
+Ganze,banS,Undirected,1
+Ganze,Inez,Undirected,1
+Aly,Mogens Øre,Undirected,1
+Aly,GudbjprnS,Undirected,1
+GudbjprnS,Mogens Øre,Undirected,1
+Mogens Øre,OlufaS,Undirected,1
+Mogens,Olufa,Undirected,1
+Aly,Mogens,Undirected,1
+Mogens Øre,Tom,Undirected,1
+Gud,aldelrs,Undirected,1
+Mogens,Tom,Undirected,1
+Mogens Øre,Stenbo,Undirected,1
+Olula,Tom,Undirected,1
+Madam,Olula,Undirected,1
+Aly,Madam,Undirected,1
+Leie,Madam Stenbo,Undirected,1
+Madam Stenbo,Olufa,Undirected,3
+GudbftrnS,Jnez,Undirected,1
+AlyS,Olufa,Undirected,1
+Dpdens,Thorvald Stenbo,Undirected,1
+Olufa,seire Inez,Undirected,1
+Gudbjprn,seire Inez,Undirected,1
+Gudbjprn,Pallesen,Undirected,1
+Madame Stenbo,Pallesen,Undirected,1
+Stenbo,hans,Undirected,1
+OlufaS,hans,Undirected,1
+Mads Persen,Slenbo,Undirected,1
+Stenbo,ban,Undirected,1
+Ebbe Johnsen,Moer Sigrid,Undirected,1
+Moer Sigrid,Mogens Øre,Undirected,1
+Dirik,Mads Persen,Undirected,1
+Stenbo,lybske Dirik,Undirected,1
+Ebbe JohnsenDpd,Stenbo,Undirected,1
+Blemmeftn,Toge,Undirected,1
+Stenbo,ejn visser horra,Undirected,1
+Husbond,lia,Undirected,1
+Ebbe Johnsen,Husbond,Undirected,2
+Dpren,Husbond,Undirected,1
+Stenbo,lybske,Undirected,1
+Gulla,lille IHga,Undirected,1
+Jsga bavde,lille IHga,Undirected,1
+Jnez,Jsga bavde,Undirected,1
+Filip,ban,Undirected,1
+JSga,ban,Undirected,1
+Gnlla,Jonskirken,Undirected,1
+Lille ISqa,hnn,Undirected,1
+Gnlla,hnn,Undirected,1
+Gnlla,Hnn,Undirected,1
+JSsa,Povl Kure Gnlla,Undirected,1
+Gud,Povl Kure Gnlla,Undirected,1
+Toge Blommesyn,lybske Dirik,Undirected,1
+Thorvald Stenbo,lybske,Undirected,1
+Povl Kure,lybske,Undirected,1
+Gulla,lybske Dirik,Undirected,1
+Sigrid,lybske Dirik,Undirected,2
+Filip Harmen,Harmen,Undirected,1
+Harmen,lybske,Undirected,1
+Sigrid,ban,Undirected,2
+Ole Qvid,Sigrid,Undirected,1
+Ole Qvid,mg,Undirected,1
+Filip,Imz Pallesen,Undirected,1
+Aly Gudbjprn,Imz Pallesen,Undirected,1
+Aly Gudbjprn,Fæstemø,Undirected,1
+Ole,Ole Oviding,Undirected,1
+Gulla,Ole Oviding,Undirected,1
+Hon,Povl Kure,Undirected,1
+Hon,Ole Qviding,Undirected,1
+Ebd,Pallesen,Undirected,1
+Ebd,Johnsen,Undirected,1
+Gullas lldsogu,Sigrid,Undirected,1
+Gullas lldsogu,Slenbo,Undirected,1
+Slenbo,lybske,Undirected,1
+Dirik,Tage Blommeftn,Undirected,2
+Ebbe Johnsen,Johnsen,Undirected,2
+Johnsen,lybske,Undirected,1
+Dirik,Dirik Ebbe Iohnsens,Undirected,1
+Johnsen,Suse,Undirected,1
+Ryune,Suse,Undirected,1
+Ryune,Sigrid,Undirected,1
+Dirik,c. ieutA viroin,Undirected,1
+Dirik,Maren Olsdatter,Undirected,2
+Dirik,Fenris,Undirected,1
+Dirik,Slenbo,Undirected,1
+Povl KureS,lybske Dirik,Undirected,1
+GullaS,Povl KureS,Undirected,1
+Povl Kme,Spaadom,Undirected,1
+Povl Kme,Sigrid,Undirected,1
+Dpren,Sigrid,Undirected,1
+Sigrid,bells,Undirected,1
+Vorherre,bells,Undirected,1
+Povl Kure,Sigrid dxler,Undirected,1
+Galla,Povl Kure,Undirected,1
+Galla,Mo,Undirected,1
+Ole QvidingS,Sigrid,Undirected,1
+Ole,Uraad,Undirected,1
+Povl Kure,Uraad,Undirected,1
+Gulla,Hesf,Undirected,1
+Hesf,Sigrid,Undirected,1
+Henrik Brahe,Myrtgaard,Undirected,1
+Myrtgaard,Sivard Gagge,Undirected,1
+KongSgaarde,Sivard Gagge,Undirected,1
+KongSgaarde,Sigrid Kæ^nikkepaarden,Undirected,1
+Sigrid Kæ^nikkepaarden,Sven Eriksen,Undirected,1
+Eskild,Sven Eriksen,Undirected,1
+Eskild,ril,Undirected,1
+Sigrid Myregaard,buu,Undirected,1
+Sigrid,buu,Undirected,1
+Ionskirlen,Sigrid,Undirected,1
+Aaens,Sigrid,Undirected,2
+Sigrid Kure,Stenbo,Undirected,1
+Madam Stenbo,Povl Kure,Undirected,1
+Kure,Madam Stenbo,Undirected,1
+Kure,Sigrid,Undirected,1
+Madam,Sigrid,Undirected,1
+Madam,Moer,Undirected,1
+Madame Stenbo,Moer,Undirected,1
+Madame Stenbo,j,Undirected,1
+Madame Stevbo,Pallesen,Undirected,1
+Madam Pallesen,Pallesen,Undirected,1
+Madame Pallesen,Palle,Undirected,1
+Jomfru Olufa,Moer,Undirected,1
+Moer,Sigrid,Undirected,1
+Moer Sigrid,Stenbo,Undirected,1
+Moer Sigrid,Povl Kure,Undirected,1
+Stenbo,hon,Undirected,1
+Pasfor Stenbo,Povl Kure,Undirected,1
+OlufaS,Thorvald Sllnbo,Undirected,1
+OlufaS,ban,Undirected,1
+ban,iveien,Undirected,1
+Thorvald,iveien,Undirected,1
+Madam stenbo,Thorvald,Undirected,1
+Madam stenbo,Nogtt,Undirected,1
+Dme,Olufa,Undirected,1
+Dme,Gud,Undirected,1
+Kaptain Pallesen,Sigrid,Undirected,1
+Kaptain Pallesen,Olufa,Undirected,1
+Olufa,Thorvald StenboS,Undirected,2
+Juletid.,Olufa,Undirected,1
+Mikke,ac hnn,Undirected,1
+Aly Gudbjsrn,Inez,Undirected,1
+Mads Persen,Vint,Undirected,1
+Aly Gudbjyrn,Mads Persen,Undirected,1
+Rolf,XXXVll,Undirected,1
+Filip Harmen,mpdes,Undirected,1
+Filip,mpdes,Undirected,1
+Gulla,Villie,Undirected,1
+Inez,Villie,Undirected,1
+Gulla,Inez Pallesen kjær,Undirected,1
+Filip Harmen,P. ml,Undirected,1
+Kure,P. ml,Undirected,1
+Gulla forfærdetPovl,Karr,Undirected,1
+Aukrion,W,Undirected,1
+P,W,Undirected,1
+Gulla,P,Undirected,1
+Gulla,hon,Undirected,3
+Filip,Hsn,Undirected,1
+Gulla,Hsn,Undirected,1
+Filip Hin Kvæld,lybske,Undirected,1
+ge,hon,Undirected,1
+Drrik,ge,Undirected,1
+Dnik,Drrik,Undirected,1
+Dirik solz,hms,Undirected,1
+Dirik solz,Snerige,Undirected,1
+Jonskirken,Snerige,Undirected,1
+Dink,Teon,Undirected,1
+Fitip,ogiaa,Undirected,1
+Gulla,ogiaa,Undirected,1
+Gulla,Ole Qvid,Undirected,1
+Gulla,j,Undirected,1
+j,stub,Undirected,1
+j g,stub,Undirected,1
+Dirik,j g,Undirected,1
+Dirik,Sigurd OlversFa,Undirected,1
+Gunhild,Sigurd OlversFa,Undirected,1
+Gunhild,j-g,Undirected,1
+j-g,nlforn,Undirected,1
+Sigurd Olverftn,j-g,Undirected,1
+Bj-rg^s,Sigurd Olverftn,Undirected,1
+Gulla,rigtta kjær,Undirected,1
+Gulla,dir Arnested,Undirected,1
+Filip,j-g,Undirected,1
+Filip,b,Undirected,1
+Filip ril,Gulla,Undirected,1
+Filip ril,Povl Kare,Undirected,1
+Johan Diopel,olle,Undirected,1
+Gulla,olle,Undirected,1
+Hnn,mia,Undirected,1
+Gulla,bvor Jsga,Undirected,1
+Povl Kure,bvor Jsga,Undirected,1
+Povl Kure,hon,Undirected,1
+Gulla,vanka,Undirected,1
+Filios,lla,Undirected,1
+Filios,vom,Undirected,1
+fllv,vom,Undirected,1
+Filip,fllv,Undirected,1
+Jner,Stenbo,Undirected,1
+Jner,Jnez,Undirected,1
+B,Jnez,Undirected,1
+Brankpillv,kæS,Undirected,1

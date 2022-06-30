@@ -1,0 +1,93 @@
+source,target,type,weight
+Hans,tilhörte,Undirected,1
+Hans,eiermand,Undirected,1
+Eg,Hans,Undirected,1
+Eg,anna tru,Undirected,1
+anna tru,lel,Undirected,1
+Hans,lel,Undirected,1
+Hans,Heiren,Undirected,1
+h vonn,kje,Undirected,1
+Ingebrigt,lefse,Undirected,1
+bris,kjelder,Undirected,1
+D,kjelder,Undirected,1
+Halt,hr. N.,Undirected,1
+Losen,hr. N.,Undirected,1
+Losen,N.,Undirected,1
+hr. N.,nisten,Undirected,1
+Fernsicht,zerriss,Undirected,1
+Fernsicht,mein Spazierrock,Undirected,1
+Terpsichores,nodes,Undirected,1
+bamse,jætergut,Undirected,1
+bamse,påny,Undirected,2
+Gudbrand,Gudbrand T.,Undirected,1
+binne,binnen,Undirected,1
+Gudbrand,binnen,Undirected,1
+,Gudbrand,Undirected,1
+Barth,Friis,Undirected,1
+Friis,Ilias,Undirected,1
+Totanus calidris,Totanus glottis,Undirected,1
+Totanus glottis,Tringa Teminchii,Undirected,1
+Tringa Teminchii,Tringa maritima,Undirected,1
+Tringa alpina,Tringa maritima,Undirected,1
+Charadrius,Tringa alpina,Undirected,1
+Charadrius,apricarius,Undirected,1
+apricarius,skjöd,Undirected,1
+Charadrius hiaticula,skjöd,Undirected,1
+agerriks,agerriksens,Undirected,1
+Alauda,agerriksens,Undirected,1
+Duke,linne,Undirected,1
+Duke,ivold,Undirected,2
+rype,rypen,Undirected,1
+Duke,rypen,Undirected,4
+hagel,rypen,Undirected,1
+Duke,hagel,Undirected,4
+Duke,löber,Undirected,1
+löber,rype,Undirected,1
+Duke,rype,Undirected,1
+skreik,øwre,Undirected,1
+O,skreik,Undirected,1
+nå,ryper,Undirected,1
+Dwre,Sissel,Undirected,2
+Charadrius hiaticula,Sissel,Undirected,1
+Sissel,sj,Undirected,1
+Sissel,nevnes,Undirected,1
+A.,Odips,Undirected,1
+A,Hannibal fordum,Undirected,1
+A.,rypen,Undirected,1
+Lars,Marit Bjerkeng,Undirected,1
+Actæa spicata,virkefeldt,Undirected,1
+A.,lake,Undirected,1
+Lars,Lars Bjerkeng,Undirected,1
+ivei,tillands,Undirected,1
+forst,iland,Undirected,1
+iland,ivei,Undirected,1
+A.,ivei,Undirected,1
+A.,Lars Bjerkeng,Undirected,1
+A.,Lars bod,Undirected,1
+Dr. A.,Lars,Undirected,1
+A. Penelope,Anas Boschas,Undirected,1
+A. Penelope,A. crecca,Undirected,1
+A. crecca,Totanus calidris,Undirected,1
+Totanus calidris,glottis m.,Undirected,1
+sæters,sæterstel,Undirected,1
+Sæterjenten,sæters,Undirected,1
+Frey,Freys,Undirected,1
+Anna,Marianne,Undirected,1
+Duke,Mari,Undirected,2
+Mari,Sigrid,Undirected,1
+Sigrid,har,Undirected,1
+Dropla,Fagerlin,Undirected,1
+Mari,trur,Undirected,1
+je,trur,Undirected,1
+ei,je,Undirected,1
+ei,lel,Undirected,1
+Duke,Nils øwres,Undirected,1
+Nils øwres,Sissel,Undirected,1
+David,Duke,Undirected,2
+Barth,Duke,Undirected,2
+Sissel,Öwres,Undirected,1
+Hektor,Sissel,Undirected,1
+Hektor,viekjær,Undirected,1
+kjær,viekjær,Undirected,1
+Duke,kjær,Undirected,1
+.leetion,Duke,Undirected,1

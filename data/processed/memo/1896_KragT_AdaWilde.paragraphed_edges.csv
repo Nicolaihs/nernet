@@ -1,0 +1,327 @@
+source,target,type,weight
+Anders Wilde,Joel Grøttung,Undirected,3
+Anders Wilde,Studens,Undirected,1
+Studens,olme,Undirected,1
+Tjor,olme,Undirected,1
+Anders Wilde,Tjor,Undirected,1
+Joel Grøttung,Njell,Undirected,1
+Jæter,Njell,Undirected,1
+Bergbækken,Bjørn,Undirected,1
+Bergbækken,Studen,Undirected,1
+Anders Wilde,hans,Undirected,1
+Kaptejn Carl Kruse,Sakarias Wilde,Undirected,1
+Sakarias Wilde,Wilde,Undirected,5
+Finkens,Wilde,Undirected,1
+Carl Kruses,Finkens,Undirected,1
+Carl Kruses,Wilde,Undirected,1
+Kaptejn Kruse,Wilde,Undirected,5
+Kaptejn Kruse,Sakarias Wilde,Undirected,3
+Kaptejn Kruse,Kruse,Undirected,2
+Flan,Wilde,Undirected,1
+Bøg,Wilde,Undirected,6
+Bøg,Sennora,Undirected,1
+Ada Wilde,Thomas P. Krag,Undirected,16
+Ada Wilde,Wildernes,Undirected,1
+Ada Wilde,Sakarias Wilde,Undirected,2
+Ada Wilde,Wilder,Undirected,1
+Ada,Sakarias Wilde,Undirected,8
+Ada,Wilde,Undirected,23
+Kathrine,Wilde,Undirected,1
+Ada Wilde,Per,Undirected,1
+Kathrine,Per,Undirected,1
+Isak,Kathrine,Undirected,1
+Ada,Kathrine,Undirected,1
+Kathrine,e,Undirected,1
+Ada,Martha,Undirected,22
+Isak,Martha,Undirected,1
+Isak,graa,Undirected,1
+Ada,Isak,Undirected,2
+Isak,paany,Undirected,1
+Ada,Tante Martha,Undirected,2
+Ada,liun,Undirected,5
+Ada,Tante,Undirected,4
+Martha,Wilde,Undirected,1
+Moers,Wilde,Undirected,1
+Ada,Kaptejn Kruse,Undirected,2
+Bøg,Kaptejn Kruse,Undirected,7
+Ada,Bøg,Undirected,6
+Bøg,lian,Undirected,1
+Elfenben,lian,Undirected,1
+Elfenben,Kaptejn Kruse,Undirected,1
+Kaptejn Kruse,liun,Undirected,1
+Bøg,liun,Undirected,1
+Bøg,Mustache,Undirected,1
+Ada,Jon,Undirected,1
+Bøg,Jon,Undirected,1
+Ada,lian,Undirected,2
+Sjøvejen,lian,Undirected,1
+Sjøvejen,Wilde,Undirected,1
+Ada,Norre,Undirected,1
+bun,kri,Undirected,1
+Ada,kri,Undirected,1
+Ada,Kusken,Undirected,1
+Ada,Gud,Undirected,4
+Gud,Martha,Undirected,1
+Sakarias Wilde,Sjøvejen,Undirected,1
+Ada,Sjøvejen,Undirected,1
+Martha,Tante Martha,Undirected,1
+Kraake,Tante Martha,Undirected,1
+Kraake,Kraaken,Undirected,1
+Kraaken,Martha,Undirected,1
+Martha,Sorn,Undirected,1
+Kaptejn Kruse,Sorn,Undirected,1
+Kaptejn Kruse,Martha,Undirected,1
+Frøken Martha,Martha,Undirected,1
+Frøken Martha,Tulling,Undirected,1
+Ada,Skakke,Undirected,1
+Kjærrings,Wilde,Undirected,1
+Ada,Kjærrings,Undirected,1
+Ada,Iver,Undirected,1
+Iver,Kari Lægda,Undirected,1
+Ada,Kari Lægda,Undirected,1
+Kjære,Wilde,Undirected,2
+Ada,Kjære,Undirected,2
+Ada,Papa,Undirected,1
+Ada,Ada Wilde,Undirected,1
+Ada,Thomas P. Krag,Undirected,3
+Ada,Flun,Undirected,2
+Sakarias,Wilde,Undirected,1
+Ada,Carsten Stald,Undirected,1
+Sakarias Wilde,Stahls,Undirected,1
+Alf Stahl,Stahls,Undirected,1
+Ada,Stahl,Undirected,9
+Sakarias Wilde,Stahl,Undirected,1
+Carsten Stahl,Gehalt,Undirected,1
+Gehalt,Wilde,Undirected,1
+Stahl,Wilde,Undirected,3
+Gud,Stahl,Undirected,1
+Bøg,Carsten,Undirected,2
+Ada,Carsten,Undirected,69
+Alf Stahl,Carsten,Undirected,2
+Ada,Alf Stahl,Undirected,1
+Ada Wilde,Carsten Stahl,Undirected,1
+Carsten Stahl,Vorregaards,Undirected,1
+Carsten,Wilde,Undirected,4
+Carsten Stahl,Wilde,Undirected,3
+Lerche,Wilde,Undirected,1
+Børge,Lerche,Undirected,1
+Ada,Børge,Undirected,3
+Børge,Stahl,Undirected,1
+Ada,Kruse,Undirected,2
+Bella,Carsten,Undirected,1
+Ada,Bella,Undirected,1
+Carsten,Isa,Undirected,2
+Adas Maja,Isa,Undirected,1
+Ada,Adas Maja,Undirected,1
+Ada vaagned,Kjære,Undirected,1
+Carsten,Sakarias Wilde,Undirected,3
+Ada,Carsten Stahl,Undirected,3
+Bøg,Carsten Stahl,Undirected,1
+Carsten,Kaptejn Kruse,Undirected,1
+Carsten,Presten,Undirected,1
+Alf Stahl,Stahl,Undirected,1
+Bøg,Stahl,Undirected,1
+Bøg,sorn,Undirected,1
+Ada Wilde,sorn,Undirected,1
+Carsten,Valmuen,Undirected,1
+Martha,Sakarias Wilde,Undirected,1
+Carsten,Martha,Undirected,2
+Tante,Tante Martha,Undirected,1
+Ada,paany,Undirected,1
+Carsten,paany,Undirected,1
+Sakarias Wilde,Øyvind Galte,Undirected,1
+Sakarias,Øyvind Galte,Undirected,1
+Galte,Wilde,Undirected,2
+Wilde,Øyvind Galte,Undirected,1
+Galte,Øyvind Galte,Undirected,1
+Elvens,Sakarias Wilde,Undirected,1
+Elvens,Moen,Undirected,1
+.Bjørn,Moen,Undirected,1
+Wilde,ffan,Undirected,1
+Ada,Evjen,Undirected,1
+Ada,Sjur Aasen,Undirected,4
+Sjur,Thomas P. Krag,Undirected,2
+Carsten,liun,Undirected,4
+Ada,Nuter,Undirected,1
+Martha,liun,Undirected,1
+liam,liun,Undirected,1
+Ada,liam,Undirected,1
+Jenten,Sjur Aasen,Undirected,1
+Ada,Jenten,Undirected,3
+Carsten,zigzagformede,Undirected,1
+Carsten,Sjur,Undirected,2
+Ada,Sjur,Undirected,5
+Sjur,hans,Undirected,1
+Carsten,hans,Undirected,2
+KaI,Sjur Aasen,Undirected,1
+Ada,Kam,Undirected,1
+Børge,Sakarias Wilde,Undirected,1
+Ada,Stalds,Undirected,1
+Carsten,Stahl,Undirected,1
+Maria Farina,liun,Undirected,1
+Maria Farina,Wildernes,Undirected,1
+Wildernes,Øjvind Galtes,Undirected,1
+Carsten,lian,Undirected,2
+Carsten,Moen,Undirected,1
+Ada,Moen,Undirected,1
+Ada,Gutten,Undirected,1
+Carsten,Gutten,Undirected,1
+Carsten,Vorregaard,Undirected,1
+Ada,Vorregaard,Undirected,3
+Vorregaard,lille Alf,Undirected,1
+Wilde,lille Alf,Undirected,1
+Børge,Carsten,Undirected,5
+Carsten,all,Undirected,1
+Ada,all,Undirected,1
+Martha,Thomas P. Krag,Undirected,1
+Ada,Lille Alf,Undirected,1
+Carsten,Nils Maag,Undirected,8
+Nils,Nils Maag,Undirected,1
+Carsten,Nils,Undirected,1
+Nils Maag,lian,Undirected,1
+Ada,Alf,Undirected,17
+Alf,Carsten,Undirected,5
+Ada,Nils Maag,Undirected,5
+Nils Maag,don,Undirected,1
+Don Juan,Nils Maag,Undirected,1
+Don Juan,liar,Undirected,1
+Ada Wildo,Thomas P. Krag,Undirected,1
+Carsten,Norne,Undirected,1
+Børge,Nils Maag,Undirected,1
+Monsieur Ernesto Stolto,Signor Ernesto Stolto,Undirected,1
+Reinold,Ørns,Undirected,1
+Stella,Ørns,Undirected,1
+Joel,Stella,Undirected,1
+Barbara,Joel,Undirected,1
+Hr. Ullgaards,Ullgaard,Undirected,1
+Frederik Rick,sorn,Undirected,1
+Frederik Rick,Simon Rick,Undirected,1
+Frue,Simon Rick,Undirected,1
+Frederik Rick,Frue,Undirected,1
+Frederik Bick,Frederik Rick,Undirected,1
+Frederik Bick,Hr. Rick,Undirected,1
+Frederik Rick,lian,Undirected,2
+Flan,Frederik Rick,Undirected,1
+Flan,Frederik,Undirected,1
+Frederik Rick,Tambs,Undirected,2
+Tambs,lian,Undirected,1
+Christian Dahm,lian,Undirected,1
+Christian Dahm,Hermes,Undirected,2
+Christian,Christian Dahm,Undirected,1
+Christian,Flan,Undirected,1
+Christian Dahm,Flan,Undirected,1
+Rick,Tambs,Undirected,1
+Ada Wilde,Thomas Kragh,Undirected,1
+Carsten,Tambs,Undirected,6
+Ada,Tambs,Undirected,3
+Bart,Tambs,Undirected,1
+Bart,Carsten,Undirected,1
+Ada,Rick,Undirected,1
+Børge,Tambs,Undirected,1
+Børge,Rick,Undirected,1
+Ada,Otto Ullgaard,Undirected,1
+Carsten,Otto Ullgaard,Undirected,1
+Carsten,Reinold,Undirected,1
+Ada,Margrethe Bjelke,Undirected,1
+Margrete,Margrethe Bjelke,Undirected,1
+Margrete,kjære,Undirected,1
+Ada,kjære,Undirected,1
+Bjelke,Lyders,Undirected,1
+Ada,Bjelke,Undirected,1
+Ada,Konsul Lyders,Undirected,1
+Carsten,Konsul Lyders,Undirected,1
+Lyders,Stahl,Undirected,2
+Ornes,Stahl,Undirected,1
+Orne,Ornes,Undirected,1
+Frue,Orne,Undirected,1
+Orne,Peder Garn al,Undirected,1
+Peder Garn al,lian,Undirected,1
+Balduins,lian,Undirected,1
+Christian Dahm,sorn,Undirected,1
+Christian,Orne,Undirected,1
+Balduin Orne,Orne,Undirected,1
+Balduin Orne,hayde,Undirected,1
+Balduin Orne,Thomas P. Krag,Undirected,1
+Ada,Balduin,Undirected,1
+Balduin,Orne,Undirected,1
+Lyders,Orne,Undirected,1
+Orne,Stahl,Undirected,6
+Ada,Orne,Undirected,5
+Ada,Margrete,Undirected,1
+Ada,pegte,Undirected,1
+Carsten,Orne,Undirected,5
+Carsten Stahl,Orne,Undirected,4
+Balduin Orne,Carsten,Undirected,2
+Alf,Margrethe Lyders,Undirected,1
+Carsten,Margrethe Lyders,Undirected,1
+Bøg,Kruse,Undirected,2
+Carsten,lille Alf,Undirected,1
+Alf,lille Alf,Undirected,1
+Ada,Elvor,Undirected,2
+Alf,Carsten Stahl,Undirected,1
+Carsten,Elvor,Undirected,1
+Sakarias Wilde,lille Alf,Undirected,1
+Ada,lille Alf,Undirected,1
+Carsten,liam,Undirected,1
+Carsten,Flun,Undirected,2
+FIaar,Flun,Undirected,1
+Liun,Margrethe,Undirected,1
+Gutten,liun,Undirected,1
+Carsten Stahl,Sakarias Wilde,Undirected,1
+Carsten Stahl,gaa,Undirected,1
+Wilde,gaa,Undirected,1
+liun,livor liun,Undirected,1
+Bøg,Sakarias Wilde,Undirected,1
+Ada,Liun,Undirected,1
+Liun,Wilde,Undirected,1
+Isak,Sakarias Wilde,Undirected,1
+Isak,Kaptejn Kruse,Undirected,1
+Wilder,Wildernes,Undirected,1
+Thomas P. Krag,Wilder,Undirected,1
+Sakarias Wilde,Wilder,Undirected,1
+Alf,Vorregaard,Undirected,3
+Alf,lien,Undirected,1
+Alf,Sjømand,Undirected,2
+Alf,liun,Undirected,1
+Ada,Brovst Bjelke,Undirected,1
+Brovst Bjelke,Vorregaard,Undirected,1
+Ada,dot,Undirected,1
+Carsten Stahl,Gud,Undirected,1
+Gud,Orne,Undirected,1
+Flun,Margrethe,Undirected,1
+Grunck,livor lian,Undirected,1
+Kaptejn Tambs,Sparr,Undirected,1
+Kaptejn Tambs,Rick,Undirected,1
+Kaptejn Stahl,Rick,Undirected,1
+Gulland,Leo,Undirected,1
+Flaaland,Gulland,Undirected,1
+Flaaland,Løjtnant Flaaland,Undirected,1
+Alan,Bose,Undirected,1
+Kaptejn Stahl,Kaptejn Tambs,Undirected,1
+Carsten Stahl,Kaptejn Stahl,Undirected,1
+Carsten Stahl,Stahl,Undirected,1
+Carsten Stahl,Kaptejn Tambs,Undirected,2
+Kaptejn Tambs,Stahl,Undirected,1
+Flan,gotted,Undirected,2
+Flan,lian,Undirected,1
+Frederik,Rick,Undirected,1
+Frederik Rick,Orne,Undirected,1
+Flan,Orne,Undirected,1
+Orne,Thomas P. Krag,Undirected,1
+Kaptejn Stahl,Orne,Undirected,5
+Carsten,sorn,Undirected,1
+Kaptejn Stahl,Nils Maag,Undirected,1
+Børge Fæstning,Nils Maag,Undirected,1
+Frue,Kaptejn Stahl,Undirected,1
+Børge,Løjtnant Maag,Undirected,1
+Maag,lian,Undirected,1
+Carsten Stahl,Maag,Undirected,1
+Carsten Stahl,Thomas P. Krag,Undirected,1
+Carsten Stahl,hai,Undirected,1
+Carsten,Carsten Stahl,Undirected,1
+Børge,Frue,Undirected,1
+Carsten,Frue,Undirected,1
+Carsten,Maage,Undirected,1
+Nils Maag,liun,Undirected,1
+Alf,Flun,Undirected,2
+Ada Wilde,Vorregaard,Undirected,1

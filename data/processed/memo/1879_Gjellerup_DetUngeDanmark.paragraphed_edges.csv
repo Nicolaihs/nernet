@@ -1,0 +1,426 @@
+source,target,type,weight
+Frands,lian,Undirected,2
+Frands,Knud,Undirected,1
+Frands,Tapper,Undirected,3
+Aabys,Tapper,Undirected,1
+Aabys,Aare,Undirected,1
+Aare,Tapper,Undirected,1
+Frands Pingers,Tapper,Undirected,1
+Frands Pingers,lian,Undirected,1
+Aaen,Knud Vinge,Undirected,1
+Knud,Sophie Fenger,Undirected,1
+Assessor Fenger,Knud,Undirected,1
+Gud,Sophie,Undirected,3
+Amalie,Knud,Undirected,67
+Knud,Sophie,Undirected,8
+Amalie,Sophie,Undirected,10
+Aaen,Amalie,Undirected,1
+Amalie,Paulsen,Undirected,5
+Baron Redtz,lian,Undirected,1
+Bettelmann,Edelmann,Undirected,1
+Bettelmann,Ramse,Undirected,1
+Ramse,Sophie,Undirected,1
+Paulsen,Sophie,Undirected,7
+Frands,Kirsten,Undirected,7
+Frands,Gud,Undirected,3
+Andersen,ded,Undirected,1
+Søren,Søren Træskomand,Undirected,1
+Søren,lian,Undirected,2
+Peer Andersen,lian,Undirected,1
+Tapper,lian,Undirected,4
+Frands,ded,Undirected,2
+Frands,Mutter,Undirected,1
+Mutter,Tapper,Undirected,1
+Søren,Tapper,Undirected,1
+Søren,age,Undirected,1
+Søren Træskomand,store Peer Andersen,Undirected,1
+Hegel,Karl Vinge,Undirected,1
+Hegel,lian,Undirected,1
+Fenger,lian,Undirected,1
+Birgitte,Fenger,Undirected,1
+Birgitte,Knud,Undirected,3
+Sigurd Fofnersbane,Sigurds,Undirected,1
+Brøchners,lian,Undirected,1
+Brøchners,Strausz,Undirected,1
+Amalie Koch,Strausz,Undirected,1
+Amalie Koch,Fenger,Undirected,1
+Fenger,Sophie Fenger,Undirected,1
+Sophie Fenger,Vinge,Undirected,1
+Gud,Vinge,Undirected,1
+Gud,Knud,Undirected,5
+Amalie,Frands,Undirected,1
+Frands,Vinge,Undirected,1
+August,Branner,Undirected,2
+Branner,Candidat.,Undirected,1
+Branner,tonia,Undirected,1
+Cato,quae alteri saeculo prosini,Undirected,1
+Cato,Paulsen,Undirected,1
+Knud,Paulsen,Undirected,4
+Paulsen,gracieust,Undirected,1
+Knud,gracieust,Undirected,1
+Branner,Knud,Undirected,29
+Branner,Sophie Fenger,Undirected,2
+Paulsen,Sophie Fenger,Undirected,6
+Branner,Paulsen,Undirected,8
+Sophie,Vinge,Undirected,1
+Branner,Vinge,Undirected,4
+August,Knud,Undirected,1
+Christne,lian,Undirected,1
+Frøken Fenger,Paulsen,Undirected,3
+Amalie,Theologens,Undirected,1
+Amalie,Gud,Undirected,3
+Sophie,liun,Undirected,1
+Knud,liun,Undirected,4
+Branner,Knud Amalie,Undirected,1
+Gud,Paulsen,Undirected,3
+Horats,Qvintus,Undirected,1
+Horatius Flaccus,Qvintus,Undirected,1
+Frøken Fenger,Horatius Flaccus,Undirected,1
+Frøken Fenger,Kejser Augusts,Undirected,1
+Branner,Kejser Augusts,Undirected,1
+Branner,Gaasefj,Undirected,1
+Gaasefj,edren,Undirected,3
+Vinge,edren,Undirected,2
+Pastor Vinge,Vinge,Undirected,1
+Hakon Jarl,Pastor Vinge,Undirected,1
+Hakon Jarl,lian,Undirected,1
+Gaasefj,lian,Undirected,1
+Gitte,Knud,Undirected,2
+Gitte,Karl,Undirected,1
+Amalie,Gitte,Undirected,1
+Christen,lian,Undirected,1
+Knud,lian,Undirected,7
+Branner,Frøken Kochs,Undirected,1
+Frøken Fenger,Frøken Kochs,Undirected,1
+Branner,Herr Branner,Undirected,2
+Amalie Koch,Knud,Undirected,1
+Examinators,Paulsen,Undirected,1
+Examinators,Sophie Fenger,Undirected,1
+Aarestrups,Amalie,Undirected,1
+Knud Vinge,Sophie Fenger,Undirected,1
+Amalie Koch,Knud Vinge,Undirected,1
+Knud,liam,Undirected,3
+Amalie,liam,Undirected,1
+Branner,Sophie,Undirected,4
+Paulsen,Vinge,Undirected,1
+Frejas,Paulsen,Undirected,1
+Frejas,Knud og,Undirected,1
+Amalie,Knud og,Undirected,1
+Knud,Sophaen,Undirected,1
+Sophaen,Sophie Fenger,Undirected,1
+Frøken Fenger,Jupiter Pluvius,Undirected,1
+Branner,Jupiter Pluvius,Undirected,1
+Branner,Frands,Undirected,3
+Branner,Gud,Undirected,10
+Ded,ded,Undirected,2
+Branner,lian,Undirected,2
+Branner,liam,Undirected,3
+Søren,liam,Undirected,1
+Branner,Paulus,Undirected,1
+Gud,Paulus,Undirected,1
+Gud,Oxer,Undirected,1
+Oxer,Paulus,Undirected,1
+Knud,Paulus,Undirected,2
+Byron,Knud,Undirected,1
+Byron,Shelley,Undirected,1
+Pauli,Paulus,Undirected,1
+Glands,Sophie Fenger,Undirected,1
+Knud,folen Branders,Undirected,1
+Branner,folen Branders,Undirected,1
+Amalie Koch,Jesaja,Undirected,1
+Amalie Koch,Sophie Fenger,Undirected,1
+Amalie,lian,Undirected,5
+Knud,Vinge,Undirected,4
+Alfred Kocli,Koch,Undirected,1
+Berner Oberland —,Koch,Undirected,1
+Berner Oberland —,Knud Vinge,Undirected,1
+Grosserer Kochs,Knud Vinge,Undirected,1
+Grosserer Kochs,Koch,Undirected,1
+Herr Kochs,Knud,Undirected,1
+Athene,Herr Kochs,Undirected,1
+Athene,Herr Koch,Undirected,1
+Herr Koch,Koch,Undirected,1
+Koch,liar,Undirected,1
+liar,lier,Undirected,1
+Koch,lier,Undirected,1
+Herr Koch,Konewka,Undirected,1
+Konewka,lian,Undirected,1
+Paulsen,nascetur ridiculus,Undirected,1
+Herr Koch,Hobbes,Undirected,1
+Amalie,Theodor,Undirected,4
+Amalie,Bob,Undirected,1
+Amalie,Knud Vinge,Undirected,1
+Cadetten,Herr Koch,Undirected,1
+Herr Koch,Knud Vinge,Undirected,1
+Knud Vinge,Theodor,Undirected,1
+Herr Koch,Theodor,Undirected,2
+Gud,Theodor,Undirected,1
+Herr Koch,Pastor- Vinges,Undirected,1
+Herr Koch,kjære Marie,Undirected,1
+Herr Koch,høs,Undirected,2
+Humphreys,Knud,Undirected,1
+Knud,Simoni,Undirected,28
+Frederik den femte,Simoni,Undirected,1
+Simoni,Sopha,Undirected,2
+Frøken Dinesen,Redtz,Undirected,1
+Frøken Dinesen,Knud,Undirected,3
+Aukthor,Jette,Undirected,1
+Herr Tang,Knud,Undirected,3
+Amalie,Koch,Undirected,3
+Knud,Marie Koch,Undirected,1
+Amalie,Vinge,Undirected,1
+Amalie,Magnus,Undirected,3
+Herr Koch,Magnus,Undirected,6
+Herr Koch,Magnus Koch,Undirected,1
+Magnus,Magnus Koch,Undirected,1
+Amalie,Magnus Koch,Undirected,1
+Louise,Magnus,Undirected,1
+Charlotte,Sophie Fenger,Undirected,1
+Charlotte,William,Undirected,1
+Knud converserede,Koch,Undirected,1
+Amalie,Knud converserede,Undirected,1
+Amalie,Paulsen Sophie Fenger,Undirected,1
+Magnus,Paulsen Sophie Fenger,Undirected,1
+Magnus,Theodor,Undirected,3
+Knud,Koch,Undirected,2
+Koch,Magnus,Undirected,1
+Paulsen,Theodor,Undirected,3
+Knud,Magnus,Undirected,2
+Herr Koch,Paulsen,Undirected,1
+Fenger,Knud,Undirected,1
+Fenger,Louise Koch,Undirected,1
+Amalie,Louise Koch,Undirected,1
+Knud Vinge,Simoni,Undirected,2
+Amalie,Annette,Undirected,1
+Magnus,Ola vertoner,Undirected,1
+Amalie,Sophie Fenger,Undirected,1
+Simoni,Sophie Fenger,Undirected,1
+lian,livor,Undirected,1
+Redtz,Simoni,Undirected,1
+Kellermann,Knud,Undirected,1
+Johannesberg,Rcdtz,Undirected,1
+Johannesberg,Metternichs,Undirected,1
+Kellermann,Metternichs,Undirected,1
+Knud,Tanhauser,Undirected,1
+Venus,skoggerlo,Undirected,1
+Elisabeths,Venus,Undirected,1
+Christi,Elisabeths,Undirected,1
+Goethe,Knud,Undirected,2
+Goethe,Lord Byron,Undirected,1
+Harem,Lord Byron,Undirected,1
+Gud,Redtz,Undirected,1
+Sopha,elssko,Undirected,1
+Knud,Sopha,Undirected,1
+Sophie,lee,Undirected,1
+Branner,lee,Undirected,1
+Branner,Cathechet,Undirected,1
+Amalie,liris Du,Undirected,1
+Amalie,liun,Undirected,3
+Augusta,Theodor,Undirected,1
+Amalie,Sophaen,Undirected,1
+Herr Tang,Knud Vinge,Undirected,1
+Magnus,Sophie Fenger,Undirected,1
+Sophie Fenger,Theodor,Undirected,1
+Frøken Bruun,Theodor,Undirected,1
+Frøken Bruun,Romeo,Undirected,1
+Julie,Romeo,Undirected,1
+Paulsen,Rosalinder,Undirected,1
+Julie,Rosalinder,Undirected,1
+Julie,Sophie,Undirected,1
+Sophie,consumeres,Undirected,1
+Herr Koch,consumeres,Undirected,1
+Amalie,Herr Koch,Undirected,3
+Amalie,Branner,Undirected,24
+Branner,Knud —,Undirected,1
+Karl,Knud,Undirected,1
+Frøken Koch,Gud,Undirected,1
+Branner,liun,Undirected,2
+Flan,Sopha,Undirected,1
+Sopha,lian,Undirected,1
+Amalie,Sien,Undirected,1
+Amalie,liendes,Undirected,1
+Schumanns,liendes,Undirected,1
+JHen,Schumanns,Undirected,1
+Assessor Fenger,liun,Undirected,1
+Assessor Fenger,Branner,Undirected,1
+Branner,sorn,Undirected,1
+Adam,Branner,Undirected,1
+Adam,Adam Homos,Undirected,1
+August Branner,Paulus,Undirected,1
+Gud,Koch,Undirected,1
+Gud,Simoni,Undirected,3
+Ragazza,Ragazzo,Undirected,1
+Ragazza,Signore,Undirected,1
+Dumph hallender Huf,fern ein rauschender Flusz,Undirected,1
+Mein altes Rosz,Strachwitz,Undirected,1
+Mein altes Rosz,Schumann,Undirected,1
+Schumann,baronesse Redtz,Undirected,1
+Dronning Elisabeths,baronesse Redtz,Undirected,1
+Frøken Dinesen,violette Atlaskes,Undirected,1
+halft,liun,Undirected,1
+Apollo,Knud,Undirected,2
+Egekjær,Knud,Undirected,2
+Frøken Spands,tom,Undirected,1
+Knud,tom,Undirected,1
+Tdrginev,Torginev,Undirected,1
+Herr Vinge,Knud,Undirected,2
+Anna,Emilie,Undirected,7
+Frøken Spand,Knud,Undirected,2
+Frits Spand,Knud,Undirected,1
+Amalie,Frøken Dinesen,Undirected,1
+Agnes,Knud,Undirected,29
+Knud,liendes,Undirected,2
+lian,liun,Undirected,1
+Branner,Koch,Undirected,1
+Aaget,Amalie,Undirected,1
+Branner,Noch,Undirected,1
+Agnes,Frederik,Undirected,1
+livis,senes,Undirected,1
+Baas,livis,Undirected,1
+Baas,Byron,Undirected,1
+Byron,Jeanne d,Undirected,1
+Jacob,Jeanne d,Undirected,1
+Groomen,Jacob,Undirected,1
+Knud,livor liun,Undirected,1
+livor liun,sigrid,Undirected,1
+dér,sigrid,Undirected,1
+Altairs,dér,Undirected,1
+Altairs,Amalie,Undirected,1
+liam,lian,Undirected,1
+Wallensteins,lian,Undirected,1
+Knud,Søren Træskomand,Undirected,1
+Hermann,Søren Træskomand,Undirected,1
+Amanda,Hermann,Undirected,1
+Branner,Søren,Undirected,2
+Knud,Søren,Undirected,1
+lian,rejtig,Undirected,1
+Frands,Karl,Undirected,1
+Branner,Brannerslukkede,Undirected,1
+Bo,Knud,Undirected,1
+Bo,Branner,Undirected,1
+Amalie,lier,Undirected,1
+Knud,Redtz,Undirected,1
+liam,liun,Undirected,1
+Pas,lian,Undirected,1
+Knud,Pas,Undirected,1
+Knud,Plato,Undirected,1
+Knud,Knud Plato,Undirected,1
+Agnes,Vega,Undirected,2
+Knud,Vega,Undirected,1
+Agnes,Amalie,Undirected,18
+Agnes,Gud,Undirected,1
+Branner,Simoni,Undirected,2
+Baronen,Knud,Undirected,2
+Koch,Simoni,Undirected,2
+Koch,ri,Undirected,1
+Simoni,ri,Undirected,1
+Gud,Hys,Undirected,1
+Borggrens,Simoni,Undirected,1
+Baronen,Kedtz,Undirected,1
+Amalie,Simoni,Undirected,12
+Branner,Sopha,Undirected,1
+Simoni,mat,Undirected,1
+Branner,Elias,Undirected,1
+Elias,Jesabel,Undirected,1
+Branner,riide,Undirected,1
+Napoleon,Simoni,Undirected,1
+Napoleon,buffa,Undirected,1
+Euterpe,Knud,Undirected,2
+Simoni,Sophaen,Undirected,1
+Frands Simoni,aa,Undirected,1
+Frands Simoni,Simoni,Undirected,1
+Balstads,ir,Undirected,1
+Balstads,liun,Undirected,1
+Johannes den Døbers,Salome,Undirected,1
+Simoni,sorn,Undirected,1
+Agnes’,Amalie,Undirected,1
+Frøken Jørgensen,Herr,Undirected,1
+Knud Amalie,Simoni,Undirected,1
+Knud,Knud Amalie,Undirected,1
+Kjøn,Simoni,Undirected,1
+Dands,Simoni,Undirected,1
+Hans,Knud,Undirected,1
+Amalie,Frands Simoni,Undirected,1
+Cæsar,iland,Undirected,1
+Consumatum,Simoni,Undirected,1
+Simoni,Vinge,Undirected,1
+Simoni,liun,Undirected,1
+Simoni,lian,Undirected,1
+Heines,Knud,Undirected,1
+Agnes,Frøken Dinesen,Undirected,1
+liar,lien,Undirected,1
+Knud Vinge,liar,Undirected,1
+Agnes,Knud Vinge,Undirected,1
+Frøken Dinesen,liendes,Undirected,1
+Knud,lien,Undirected,1
+Agnes,hnn,Undirected,1
+Agnes,wie,Undirected,1
+Pastor Vinge,Tapper,Undirected,1
+Olsen,Vinge,Undirected,1
+Byron,Vinge,Undirected,1
+Byron,Cyrus,Undirected,1
+Cyrus,Knud,Undirected,1
+Gitte,Vinge,Undirected,1
+Knud,mari,Undirected,1
+Amalie,Knud vilde,Undirected,1
+Altairs,lian,Undirected,1
+Altairs,yar lian,Undirected,1
+Altair,Knud,Undirected,1
+Will kein,hinein,Undirected,1
+Gott,Will kein,Undirected,1
+Gott,Wilhelm,Undirected,1
+Müllers,Wilhelm,Undirected,1
+Müllers,Schuberts,Undirected,1
+Horats,Schuberts,Undirected,1
+Heines,Horats,Undirected,1
+Jakob,Knud,Undirected,1
+Groomen,hænd,Undirected,1
+Groomen,Vilhelm,Undirected,1
+Knud,Vilhelm,Undirected,1
+Agnes,Faust,Undirected,1
+Faust,Simoni,Undirected,1
+Emilie,Fuchs,Undirected,2
+Anna,Fuchsen,Undirected,2
+Emilie,Fuchsen,Undirected,2
+Agnes,Emilie,Undirected,1
+Agnes,Simoni,Undirected,4
+Knud,lien pianissimo,Undirected,1
+Agnes,lian,Undirected,1
+Doctoren,Gud,Undirected,2
+Agnes,Altair,Undirected,1
+Altair,Branner,Undirected,1
+Branner,Frøken Koch,Undirected,1
+Baron Redtz,Frøken Koch,Undirected,1
+Baron Redtz,Edelmann,Undirected,1
+Edelmann,Schneider,Undirected,1
+Branner,Schneider,Undirected,1
+Agnes,Doctoren,Undirected,2
+Simoni,lee,Undirected,1
+Knud,constant,Undirected,2
+Knud,Plan,Undirected,1
+Jessens,Knud,Undirected,1
+Agnes,Jessens,Undirected,1
+Jessen,Knud,Undirected,3
+Agnes,Jessen,Undirected,1
+Doctoren,Knud,Undirected,1
+Gud,Jesgen,Undirected,1
+Jesgen,Knud,Undirected,1
+Knud,Phtisis,Undirected,1
+Agnes,ri,Undirected,1
+Agnes,Jacob,Undirected,1
+Altair,Jacob,Undirected,1
+Altair,Vega,Undirected,1
+Agnes,Knud Doctoren,Undirected,1
+Agnes,Reseda,Undirected,1
+Christen,Knud,Undirected,1
+Christus,Knud,Undirected,1
+Christus,lian,Undirected,1
+Karl Vinge,Tapper,Undirected,1
+Branner,Frederik den store,Undirected,1
+Gud,Kirsten,Undirected,1
+Branner,Kirsten,Undirected,1
+Gud,Karen,Undirected,1
+hænd,s,Undirected,1
+Agnes,Pastor Vinge,Undirected,1
+Plato,Sokrates,Undirected,1
+Frands,Svend,Undirected,2

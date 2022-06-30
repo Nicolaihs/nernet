@@ -1,0 +1,212 @@
+source,target,type,weight
+Anna,Gud,Undirected,8
+Anna,Espen,Undirected,18
+Gud,lille Anna,Undirected,1
+Espen Jensen,Halløi,Undirected,1
+Godsciercns,Ludvig Kvisfgaard,Undirected,1
+Niels Jucl,Peder Tordenskjold,Undirected,1
+Anna,Kvistgaards,Undirected,1
+Eulalia,Herr Kvistgaard,Undirected,1
+Anna,Ludvig Kvistgaard,Undirected,1
+Ludvig,froer,Undirected,1
+Jeppe Johansen,Jeppe Johansens,Undirected,1
+Gud,Jeppe,Undirected,13
+Anna,Kvisfgaards,Undirected,1
+Kvisfgaards,Ludvig,Undirected,1
+Anna,Kvistgaard,Undirected,4
+Orlogs,Villie,Undirected,1
+Jeppe Johansen,Kvistgaard,Undirected,1
+Fisker,Jeppe Johansen,Undirected,1
+Anna,Ludvig,Undirected,4
+Gud,aa Kvistgaard,Undirected,1
+Espen Jensen,Jeppe Johansen,Undirected,5
+Anna,Jeppe Johansen,Undirected,4
+Anna,Jeppe Iohansen,Undirected,1
+Espen Jensen,Jeppe Iohansen,Undirected,1
+Espen Jensen,Levvel,Undirected,1
+Gud,Jesus,Undirected,1
+Anna,Jesus,Undirected,1
+Anna,Mutter,Undirected,4
+Jeppe,Mutter,Undirected,5
+Jeppe Johansen,Kudsk,Undirected,1
+Boer Kanoneer Sørensen,Jeppe Johansen,Undirected,1
+Gud,Mutter,Undirected,2
+Jeppe,Madam,Undirected,1
+Madam,Mutter,Undirected,1
+Jeppe,Sørensen,Undirected,2
+Fregatten,Jeppe,Undirected,1
+Sørensen,absolul,Undirected,1
+Espen,Kvistgaard,Undirected,5
+Aagerkarlens,Anna,Undirected,1
+Arresf,Offieers,Undirected,1
+Espen,Løitenantens,Undirected,2
+Gud,Løitenant Kvistgaard,Undirected,1
+Anna,Sidenius,Undirected,1
+Anna,Graad,Undirected,1
+Frne,Sidonius,Undirected,1
+blof,jæg,Undirected,1
+Mathilde,Vincent,Undirected,1
+Herr Sidonius Lauritsen,Lambert,Undirected,1
+Herr Sidonius Lauritsen,Mathilde,Undirected,1
+Herr Lamberts,Mathilde,Undirected,1
+Anna,Jeppe,Undirected,14
+Robert,ril de,Undirected,1
+Espen,Espen Jensen,Undirected,2
+Espen,Løitenant Kvistgaard,Undirected,1
+Jeppe,Jeppe Johansen,Undirected,2
+Madam,halvni,Undirected,1
+Frue,Gjerne,Undirected,1
+Anna,Øe,Undirected,1
+Gud,Karl,Undirected,1
+Anna.,Ludvig,Undirected,1
+Herr Løitenant,Kvisfgaard,Undirected,1
+Kvistgaard,Vimmer,Undirected,2
+Anna Johansens,Vimmer,Undirected,1
+Anna,Lisbeth,Undirected,9
+Lisbeth,em,Undirected,1
+Lisbeth,lee,Undirected,1
+Gud,Ludvig,Undirected,2
+Anna,fpurgte,Undirected,1
+Gud,alf,Undirected,1
+Anna taug,Lisbeth,Undirected,1
+Lisbeth,Peter,Undirected,3
+Asen,Peter,Undirected,1
+Asen,Gud,Undirected,1
+Gud,Peter,Undirected,1
+Anna,Peter,Undirected,1
+Halløifyr,Lisbeth,Undirected,2
+Lisbeth,a ,Undirected,1
+Kragelund,a ,Undirected,1
+Anna,Lisbeth Taushed,Undirected,1
+Lisbeth,ester,Undirected,3
+Lambert,Sidonius Lauritsen,Undirected,3
+Lambert,Tys,Undirected,1
+Esfer,Lisbeth,Undirected,1
+Anna,Karl,Undirected,2
+Gud,Ludvig Kvistgaard,Undirected,1
+Lambert,Lisbeth,Undirected,1
+Anna,Lambert,Undirected,8
+Anna Johansen,Lambert,Undirected,2
+Anna Johansen,Sidonius Lauritsen,Undirected,1
+Ludvig Kvistgaard,Vexler,Undirected,1
+Lambert,Ludvig Kvistgaard,Undirected,1
+Espen Jensen,Ludvig Kvistgaard,Undirected,4
+Jeppe Johansen,Lambert,Undirected,1
+Kvistgaard,Sidonius Lauritsen,Undirected,1
+Gud,Jeppe Johansen,Undirected,2
+Kvisfgaard,Vimmer,Undirected,2
+Espen,Kvisfgaard,Undirected,1
+Espen,Karl,Undirected,2
+Kvistgaard,Papa,Undirected,1
+Kvistgaard,Løitenant Vimmer,Undirected,1
+Mikael Parker,dein,Undirected,1
+Lucia,dein,Undirected,1
+Juditt,Kvistgaard,Undirected,1
+Frøken Lucia,Løitenant Kvistgaard,Undirected,1
+Løitenant Kvistgaard,Mikael Parker,Undirected,1
+Kvisfgaard,Lucia,Undirected,1
+Espen Jensen,fasf,Undirected,1
+Espen,fasf,Undirected,1
+Kvistgaard,Lucia,Undirected,3
+Lucia,Ludvig Kvistgaard,Undirected,6
+Lucia,Vimmer,Undirected,2
+Vimmer,hans Baand,Undirected,1
+Elsfer,Francis,Undirected,1
+Elsfer,Francis Baad,Undirected,1
+Francis,Vimmer,Undirected,1
+Francis,Villis,Undirected,2
+Annie,Francis,Undirected,1
+Villis,Vimmer,Undirected,2
+Kai,Villis,Undirected,1
+Jeppe Johansen,Papa,Undirected,1
+Mama,Papa,Undirected,1
+Espen,Mama,Undirected,1
+Anna,Johansen,Undirected,1
+Jeppe,Tu,Undirected,1
+Justitsraad Kvistgaard,Steen,Undirected,1
+Herr Kvistgaard,Mutter,Undirected,1
+Herr Jøhansen,Jeppe,Undirected,2
+Jasaa,Jeppe,Undirected,1
+Frants,Karl,Undirected,2
+Frants,Jeppe,Undirected,7
+Anna,Madam Johansen,Undirected,1
+Jeppe,Ludvig,Undirected,3
+Jeppe Fisker,henad Veien,Undirected,1
+Jeppe,boies,Undirected,2
+Jeppe,Madam Johansen,Undirected,1
+Jeppe,djærveste Karl,Undirected,1
+Espen,Vimmer,Undirected,1
+Parker,Vimmer,Undirected,1
+Anna,Lucia,Undirected,2
+Anna,Parker,Undirected,1
+Hnstru,Lucia,Undirected,1
+Eieren,Jeppe,Undirected,1
+Frants,Jeppe vaer,Undirected,1
+Frants,Justitsraad Kvistgaard,Undirected,1
+Fisker Jeppe Johansens,Justitsraad Kvistgaard,Undirected,1
+Stine,Svendsen,Undirected,1
+Svendsen,gud,Undirected,1
+Svendsen,Sørensen,Undirected,1
+Svendfen,Sørensen,Undirected,1
+Madam,Svendsen,Undirected,1
+Smed Sørensen,Svendsen,Undirected,1
+Frants,Jeppe Johansen,Undirected,4
+Hallunk,Jeppe,Undirected,1
+Frants,Hallunk,Undirected,1
+Jeppe Johansen,jæg,Undirected,1
+Stine,blol,Undirected,1
+Kvisfgaard,Stine,Undirected,1
+Frants,Stine,Undirected,2
+Gud,Kvistgaard,Undirected,1
+Espen Jensen,Ludvig Kvisfgaard,Undirected,1
+Espen,sely,Undirected,1
+Anna,Espen Jensen,Undirected,2
+EspLn,Espen,Undirected,1
+Kvisfgaard,Sagfører Lauritsens,Undirected,1
+Herr Kvistgaard,Kvistgaard,Undirected,1
+Frants Kjæræste,Jeppe,Undirected,1
+Frants Kjæræste,Stine,Undirected,1
+Komtesse Laurent,hani,Undirected,1
+Anna,hani,Undirected,1
+Gud,Lauritsen,Undirected,1
+Ludvig Kvistgaard,sins,Undirected,1
+Espen,hansDu,Undirected,1
+Espen,Jeppe,Undirected,8
+Anna,skaane,Undirected,1
+Anna,Villie,Undirected,1
+Jeppe,Villie,Undirected,1
+Jens,ril,Undirected,1
+Kvistgaard,anseete Kvistgaard,Undirected,1
+Anna,Jeppe Jo-hansens,Undirected,1
+Kudsk,Lucie,Undirected,1
+Herr Kvistgaard,Lucie,Undirected,1
+Lucia,Ludvig,Undirected,9
+Lucia,Parker,Undirected,5
+Herr Parker,Lucia,Undirected,1
+Espen,Ludvig,Undirected,4
+Espen,Gud,Undirected,2
+Frants,Gud,Undirected,1
+Gud,Lucia,Undirected,2
+Frøken Lucia,Lucia,Undirected,1
+hends,Øienhaar,Undirected,1
+Dieu,Lucia,Undirected,1
+Hnn,Naturel,Undirected,1
+Ludvig Kvistgaard,sif,Undirected,1
+Ludvig,Ludvig Kvistgaard,Undirected,1
+Ludvig,Ludvig Kvisfgaard,Undirected,1
+Espen,Jeppe Johansen,Undirected,1
+Ludvig Kvistgaard,Marv,Undirected,1
+Jeppe,Ludvig Kvistgaard,Undirected,1
+Ludvig,hnn,Undirected,1
+Ludvig,ane,Undirected,1
+Ludvig,Parker,Undirected,2
+Anna og Espen Jensen,Ludvig Kvistgaard,Undirected,1
+Jeppe,aa,Undirected,1
+Anna,aa,Undirected,1
+Espen,Javisf,Undirected,1
+Espen,Frands,Undirected,1
+Lambert,Lauritsen,Undirected,1
+Lambert,taus,Undirected,1
+Dandsen,Ludvig,Undirected,1
+Ludvig,dandse,Undirected,1
+Gud,Hr. Parker,Undirected,1

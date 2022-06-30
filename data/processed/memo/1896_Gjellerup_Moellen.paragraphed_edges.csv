@@ -1,0 +1,240 @@
+source,target,type,weight
+Jørgen,Lise,Undirected,66
+Jørgen,Svend,Undirected,5
+Mette,Svend,Undirected,2
+Jomfru Mette,Mette,Undirected,1
+Jomfru Mette,Jørgen,Undirected,1
+Jørgen,Mette,Undirected,11
+Lise,Mette,Undirected,8
+Mette,Svend Christian,Undirected,1
+Lars,Svend Christian,Undirected,1
+Lars,Lise,Undirected,14
+Lars,Mette,Undirected,1
+Axel,Mette,Undirected,1
+Karen,Mette,Undirected,5
+Jørgen,Karen,Undirected,1
+Lise,Maarskind,Undirected,1
+Hjalmar,Maarskind,Undirected,1
+Hjalmar,Lise,Undirected,1
+Jomfru Karen,Mette,Undirected,1
+Christian,Lise,Undirected,18
+Christian,Lars,Undirected,6
+Husbond,Jørgen,Undirected,5
+Jørgen,Lise —,Undirected,3
+Lise,Pilatus,Undirected,18
+Pilatus,Pudel,Undirected,1
+Jørgen,Pudel,Undirected,1
+Jørgen,Møller,Undirected,2
+Jørgen,Pilatus,Undirected,5
+Christian,Jørgen,Undirected,13
+Lars,Lars’,Undirected,2
+Husbond,Svend,Undirected,1
+Lars,Pilatus,Undirected,2
+Kiss,Pilatus,Undirected,2
+Gud,Lise,Undirected,8
+Lars troskyldig,Pilatus,Undirected,1
+Jørgen,Lars,Undirected,5
+Lise,jert,Undirected,1
+Hanne,Hans,Undirected,8
+Hans,Lise,Undirected,6
+Lise,Mølleren,Undirected,5
+Christine,Gud,Undirected,1
+Christus,Jakob,Undirected,1
+Gud,Jakob,Undirected,7
+Jakob,Mølleren,Undirected,1
+Hans,Jakob,Undirected,1
+Christine,Lise,Undirected,26
+Hanne,Lise,Undirected,34
+Christine,Hanne,Undirected,13
+Christensen,Christine,Undirected,1
+Christensen,Hanne,Undirected,1
+Hanne,Jakob,Undirected,18
+Christine,Jakob,Undirected,12
+Hanne,Matthæus,Undirected,1
+Jakob,Svend,Undirected,2
+Høimøllen,Svend,Undirected,1
+Høimøllen,Straa,Undirected,1
+Christine,Straa,Undirected,1
+Jakob,Jens,Undirected,1
+Christine,Sands,Undirected,1
+Lise,Sands,Undirected,1
+Jørgen —,Lise,Undirected,1
+Christian,Jørgen —,Undirected,1
+Lise,lille Lise,Undirected,1
+Lise,Madam Andersen,Undirected,9
+Lise,Silke,Undirected,1
+Lise,Niels Andersens,Undirected,1
+Hanne,Husbond,Undirected,3
+Lise,Streiflys,Undirected,2
+Gud,Lars,Undirected,1
+Jørgen,lille Lars,Undirected,1
+Madam Andersen,Pilatus,Undirected,1
+Hanne,Pilatus,Undirected,2
+Hektor,Jenny,Undirected,4
+Hanne,Mølleren,Undirected,10
+Hanne,Lars’,Undirected,1
+Lars’,Lise,Undirected,1
+hænd,s,Undirected,1
+Mølleren,Pilatus,Undirected,2
+Hanne,Madam Andersen,Undirected,9
+Hanne,Henrik Andersen,Undirected,1
+Christne,Madam Andersen,Undirected,1
+Havanna,Madam Andersen,Undirected,1
+Christine,ilive,Undirected,1
+Hanne,Vilhelm«,Undirected,2
+Hanne,Hektor,Undirected,5
+Jenny,Mølleren,Undirected,1
+Hjalmar,Mette,Undirected,2
+Hjalmar,Otto,Undirected,1
+Karen,Otto,Undirected,1
+Karen,corpus delicti,Undirected,1
+Hjalmar,Jørgen,Undirected,2
+Hjalmar,Martertaarn,Undirected,1
+Lise,Martertaarn,Undirected,1
+Jomfru Mette,Lise,Undirected,1
+Graad,Jomfru Mette,Undirected,1
+Graad,Lise,Undirected,1
+Hanne,Jenny,Undirected,13
+Jørgen,Peer,Undirected,2
+Jenny,Peer,Undirected,1
+Jenny,Lise,Undirected,8
+Jenny,Jørgen,Undirected,1
+Hanne,Jørgen,Undirected,4
+Hanne,liaris,Undirected,1
+Ane,Madam Andersen,Undirected,3
+Ane,Lise,Undirected,5
+Jakob,Lise,Undirected,6
+Jakob,Trine,Undirected,1
+Ane,Jakob,Undirected,2
+Ane,Lise Krybskytte,Undirected,1
+Hareanes,Nik,Undirected,1
+Christine,lille Hans,Undirected,1
+Christine,Madam Andersen,Undirected,2
+Christine,Hareane,Undirected,1
+Hareane,Lise,Undirected,2
+Lise,Mo,Undirected,1
+Henrik,Lise,Undirected,1
+Lise,Skovfoged-Hanne,Undirected,1
+Christine,Skovfoged-Hanne,Undirected,1
+Christine,ane,Undirected,2
+Husbond,Lise,Undirected,6
+Hareane,Madam Andersen,Undirected,2
+Jennyer,crescendo,Undirected,1
+Hans,Hektor,Undirected,1
+Hanne,Jenny »,Undirected,1
+Hektor,Mølleren,Undirected,1
+Bamsemand,Hanne,Undirected,2
+Gud,Jørgen,Undirected,1
+Hanne,Vilhelm,Undirected,5
+Lise,Peer Vibe,Undirected,2
+Jørgen,Lars’,Undirected,1
+Lise,Per,Undirected,2
+Christian,Husbond,Undirected,3
+Christian,lille Lise,Undirected,1
+Hanne,Lars,Undirected,1
+Husbond,Lars,Undirected,1
+Lise,Peer,Undirected,3
+Jenny,Vibes,Undirected,1
+Hjalmar,Lars,Undirected,1
+Hjalmar,Jomfru Mette,Undirected,2
+Hjalmar,Husbond,Undirected,1
+Husbond,Meltuget,Undirected,1
+Jørgen,Meltuget,Undirected,1
+Christian,Svend,Undirected,1
+Christian,Pilatus,Undirected,5
+Pilatus,Seildug,Undirected,1
+Jørgen,Seildug,Undirected,1
+Christian,Lollik,Undirected,1
+Christine,Mølleren,Undirected,1
+Jenny,Vilhelm,Undirected,1
+Hanne,Peter Vibe,Undirected,1
+Bismarck,Lise,Undirected,1
+Hanne,Mozart,Undirected,1
+Lise,Vilhelm,Undirected,6
+Hanne,Sarastros,Undirected,1
+Jørgen,Sandkagen,Undirected,1
+Jenny —,Mette,Undirected,1
+Jenny —,Pilatus,Undirected,1
+Christian Winther,Jørgen,Undirected,1
+Peer,Peer Vibe,Undirected,2
+Peer,Vibe,Undirected,1
+Lise,Vibe,Undirected,1
+Chocoladiére,Lise,Undirected,1
+Hareane,Husbond,Undirected,1
+Lise,bo —,Undirected,1
+Hareane,bo —,Undirected,1
+Hareane,Jørgen,Undirected,1
+Lise,Lise Clausen,Undirected,1
+Carro,Lise Clausen,Undirected,1
+Jenny,Pilatus,Undirected,1
+Axel,Jørgen,Undirected,2
+Axel,Lise,Undirected,1
+Andersen,Lise,Undirected,1
+Axel,Axlens,Undirected,1
+Jenny,Jenny —,Undirected,1
+Jenny —,lil-le,Undirected,1
+Gud,Hanne,Undirected,4
+Christi,Gud,Undirected,1
+Hans,Vilhelm,Undirected,4
+Tove,tvers,Undirected,1
+Tove,Vilhelm,Undirected,1
+Peer Vibe,Vilhelm,Undirected,1
+Pilatus,Svend,Undirected,1
+Pilatus,Pitatus,Undirected,1
+Kis,Pilatus,Undirected,11
+Kis,hans,Undirected,1
+Pilatus,hans,Undirected,1
+Jørgen,Karl,Undirected,1
+Christian —,Lise,Undirected,1
+Christian —,Lars —,Undirected,1
+Lars —,Lise,Undirected,1
+Lise,Mester,Undirected,1
+Christian,Mester,Undirected,1
+Christian,Peer Vibe,Undirected,1
+Lise,Svend,Undirected,1
+Høimølleren,Vilhelm,Undirected,1
+Pilatus,sonore,Undirected,1
+Jakob,Jørgen,Undirected,1
+Jakob,Telephon,Undirected,1
+Gud,Vilhelm,Undirected,4
+Gud,Mølleren,Undirected,1
+Lars,Møllerkonens,Undirected,1
+Møllerkonens,Peer Skytte,Undirected,1
+Lise,Peer Skytte,Undirected,1
+Hanne,Peer,Undirected,1
+Hanne,frank,Undirected,1
+Christian,frank,Undirected,1
+Christne,Gud,Undirected,1
+Adam,Christian,Undirected,1
+Christian,Gud,Undirected,2
+Christian,taus,Undirected,1
+Mutter,Silke,Undirected,1
+Hanne,Silke,Undirected,1
+Christine,Mutter,Undirected,1
+Gud,Jenny,Undirected,2
+Dragemoers,Hareane,Undirected,1
+Ane,Hareane,Undirected,1
+Christine,Toddy,Undirected,1
+Jakob,Toddy,Undirected,1
+Ane,Hanne,Undirected,1
+Christian,Hareane,Undirected,1
+Jakob,Knurhaar,Undirected,1
+Jørgen,Knurhaar,Undirected,1
+Anders,Hanne,Undirected,1
+Dragemoer,Hareane,Undirected,1
+Anders,Christian,Undirected,1
+Adam,Gud,Undirected,1
+Hans,Henrik,Undirected,1
+Christian,Hanne,Undirected,2
+Jakob,Madam Andersen,Undirected,1
+Christian,Jakob,Undirected,1
+Jakob,Luther,Undirected,1
+Gud,Jesus,Undirected,1
+Jørgen,lille Hans,Undirected,1
+Lise,lille Hans,Undirected,1
+Christi,Hanne,Undirected,1
+Bedstemo,Hanne,Undirected,1
+Drage-moer,Herre,Undirected,1
+Dragemoer,Mutter,Undirected,1
+Hanne,Jakob Clausen,Undirected,1
+Jakob Clausen,lille Hans,Undirected,1

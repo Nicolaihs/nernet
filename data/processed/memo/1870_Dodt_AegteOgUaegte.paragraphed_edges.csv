@@ -1,0 +1,492 @@
+source,target,type,weight
+Jøsephs,hiin,Undirected,1
+hiin,hnn,Undirected,1
+Joseph,hnn,Undirected,1
+Else,Joseph,Undirected,31
+Peter,Peter“,Undirected,5
+Else,Skrcek,Undirected,1
+/Joseph,Else,Undirected,1
+Else,scelge Hcegter,Undirected,1
+Ingeborg,Joseph,Undirected,3
+Else,Gud,Undirected,3
+Else,est,Undirected,1
+Elfe,Joseph,Undirected,6
+Joseph,Taa,Undirected,1
+Else,monsieur le Kamin,Undirected,1
+Adam,Peter,Undirected,1
+Joseph,Peter,Undirected,13
+Else,Peter,Undirected,13
+Else,steeg,Undirected,2
+Gud,Joseph,Undirected,2
+Peter“,gansfe,Undirected,1
+Else,gansfe,Undirected,1
+Else,Ioseph,Undirected,1
+Peter,hiin,Undirected,2
+Hansen,Joseph,Undirected,1
+Else,Hansen,Undirected,1
+Else,Graad,Undirected,1
+Graad,Lcrngsel,Undirected,1
+Else,seph,Undirected,1
+Else,Katechismus,Undirected,1
+Joseph,Kong Volmers,Undirected,1
+Joseph,Niels,Undirected,5
+Peter,Roes,Undirected,1
+Peter,Pidsk,Undirected,1
+Hans,Niels,Undirected,1
+Hans,Rasmus“,Undirected,1
+Peter,Rasmus“,Undirected,1
+Niels,Peter,Undirected,8
+Joseph,hiin,Undirected,3
+Joseph,Maller,Undirected,1
+Hilleskam,Præsfen,Undirected,1
+Ingeborg,Præsfen,Undirected,1
+Ingeborg,Peter,Undirected,5
+Ingeborg,hiin,Undirected,1
+Ingeborg,thj,Undirected,1
+Ingeborg,gansfe,Undirected,1
+Ingeborg,Julie,Undirected,1
+Peter,Posfen,Undirected,1
+Joseph,ban,Undirected,1
+Joseph,Julie,Undirected,2
+Lectie,Peter,Undirected,1
+Peter,ban,Undirected,1
+Caroline“,Joseph,Undirected,1
+Caroline“,Gud,Undirected,1
+Caroline,Gud,Undirected,5
+Caroline,Jomfru Kold,Undirected,8
+Caroline,Joseph,Undirected,9
+Caroline,Phalzgreven,Undirected,1
+Caroline,Else,Undirected,1
+Else,Jomfru Kold,Undirected,2
+Jomfru Kold,fransfe Hyrdescener,Undirected,1
+Elfe,def,Undirected,1
+Caroline,ester,Undirected,1
+Caroline,Greve eller,Undirected,1
+Caroline,Elfe,Undirected,1
+Caroline,Kold,Undirected,3
+Kold,kim,Undirected,1
+Jomfru Kold,hiin,Undirected,2
+Gud,Jomfru Kold,Undirected,3
+Gud,hiin,Undirected,3
+Berg,Joseph,Undirected,1
+Jomfru Kold,Joseph,Undirected,1
+Else,Niels,Undirected,1
+Caroline,Peter,Undirected,8
+Jomfru Kold,Peter,Undirected,6
+Lectie,Olsen,Undirected,1
+Gud,Olsen,Undirected,1
+Gud,Peter,Undirected,3
+Olsen,Peter,Undirected,1
+Olsen,Præsfen,Undirected,1
+Jomfruen,Præsfen,Undirected,1
+Peter,slal,Undirected,1
+Joseph,Olsen,Undirected,2
+Caroline,Olsen,Undirected,2
+Joseph,Slagter Borsholms,Undirected,1
+Jomfru Kold,Lafontaines,Undirected,2
+Caroline,Lafontaines,Undirected,1
+Caroline,Peter —,Undirected,1
+Carøline,Peter den Store,Undirected,1
+Caroline,Ole,Undirected,1
+Lafontaines,Spies,Undirected,1
+Pathos,Spies,Undirected,1
+Caroline,Pathos,Undirected,1
+Caroline,Emanuel,Undirected,3
+Charles Emanuele,Emanuel,Undirected,1
+Charles Emanuele,Napoleon,Undirected,1
+Napoleon,hiint,Undirected,1
+Lafontaine,Spies,Undirected,1
+Caroline,Roes,Undirected,2
+Joseph,Peter faler,Undirected,1
+Caroline,Peter faler,Undirected,1
+Caroline,Lieutenant <,Undirected,1
+Lieutenant <,sorn,Undirected,1
+Caroline,Emmanuel,Undirected,1
+Caroline,Jomsrue,Undirected,1
+Caroline,Lladoinoisotlo“,Undirected,1
+Lieutenanten,lille Peter,Undirected,1
+Dands,Peter“,Undirected,1
+Oren,Peter“,Undirected,1
+Keiseren,Napoleon,Undirected,1
+Joseph,Sophaen,Undirected,1
+Frederik Gyldenløve,Ulrik,Undirected,1
+Caroline,Frederik Gyldenløve,Undirected,1
+Keiser,fransf Adelsmand,Undirected,1
+B rend sirup,ifjor,Undirected,1
+B rend sirup,Lund,Undirected,1
+Lund,Sfræder Hansen,Undirected,1
+Inveni,Peter,Undirected,2
+Caroline,Grevinde Plessen,Undirected,1
+Kold,fransfe,Undirected,1
+Franst,fransfe,Undirected,1
+Peter“,ril,Undirected,1
+Ganfle,Peter,Undirected,1
+hiin,ys,Undirected,1
+Lieutenanten,Steen,Undirected,1
+Ptolomæus,Steen,Undirected,1
+Peter,Ptolomæus,Undirected,1
+Peter,Plinius,Undirected,1
+Cæsar,Plinius,Undirected,1
+Cæsar,Peter,Undirected,1
+Jomfru Kold,Lieutenanten,Undirected,1
+Madam,Madam From,Undirected,1
+Froms,Shavl,Undirected,1
+Herr From,Madam From,Undirected,1
+Herr From,Niels,Undirected,2
+Emanuel,Niels,Undirected,2
+Anna,Marie,Undirected,8
+Anna,Madam From,Undirected,2
+Madam From,Theodor,Undirected,3
+Lieutenant Emanuel,Theodor,Undirected,2
+Marie,Theodor,Undirected,19
+Marie,Peter,Undirected,3
+Emanuel,Peter,Undirected,2
+Lieutenant Emanuel,Marie,Undirected,1
+Jomfru Kold,Theodor,Undirected,1
+Christopher Rosenkrants,Marie Christian den,Undirected,1
+Christen Juels,Marie Christian den,Undirected,1
+Christen Juels,Theodor Christopher Rosenkrants,Undirected,1
+Bønnelykkes,Theodor Christopher Rosenkrants,Undirected,1
+Bønnelykkes,Wlde,Undirected,1
+Chrisfians,Wlde,Undirected,1
+Cantsler,Chrisfians,Undirected,1
+Cantsler,Rosenkrants,Undirected,1
+Christopher Rosenkrants,Rosenkrants,Undirected,1
+Christopher Rosenkrants,Karlens,Undirected,1
+Karlens,Marie,Undirected,1
+Emanuel,Theodor,Undirected,2
+Emanuel,Jomfru Kold,Undirected,1
+Emannel,Jomfru Kold,Undirected,1
+Caroline,Emannel,Undirected,1
+Emannel,Kold,Undirected,1
+Kold,Marie,Undirected,1
+Peter“,Theodor,Undirected,1
+Caroline,Peter“,Undirected,1
+Caroline,Ludmilla,Undirected,2
+Lafontaine,Ludmilla,Undirected,1
+Caroline,Floras,Undirected,1
+Mademoiselle,Peter“,Undirected,1
+Herr From,Peter,Undirected,1
+Herr From,Joseph,Undirected,1
+Joseph,Marie,Undirected,2
+Anna,Peter,Undirected,7
+Kold,Lieutenanten,Undirected,1
+Lieutenanten,Peter,Undirected,1
+Anna“,Peter,Undirected,1
+Anna“,From,Undirected,1
+From,Peter,Undirected,8
+Anna,Lieutenanten,Undirected,2
+Anna,Jomfru Kold,Undirected,1
+Montanus,Niels,Undirected,1
+Jacob v. Thyboe,Montanus,Undirected,1
+Jacob v. Thyboe,Peter,Undirected,1
+Marie,Niels,Undirected,3
+Niels Fiskers,Peter,Undirected,1
+Kold,Niels,Undirected,3
+Die,Niels,Undirected,1
+Die,Lieutenanten,Undirected,1
+Lieutenanten,hiin,Undirected,2
+Kold,Louis Philip,Undirected,1
+Jomfru Kold,Peter“,Undirected,1
+Herr From,Theodor,Undirected,1
+Jomfru Kold,tris,Undirected,1
+Anna,nn,Undirected,1
+Niels,nn,Undirected,1
+Niels,henrykte,Undirected,1
+From,Niels Fiskers,Undirected,1
+Marie,hiin,Undirected,2
+Jomfruen,hiin,Undirected,1
+Conduite,Lieutenanten,Undirected,1
+Niels Hansen Bæk,hiin,Undirected,1
+Hvidtfeldt,Rud,Undirected,1
+Christian den,Hvidtfeldt,Undirected,1
+Christian den,Tordenskjold,Undirected,1
+Kong Christian,Tordenskjold,Undirected,1
+Napoleon,Niels Hansen Bæk,Undirected,1
+From,Jomfru Kold,Undirected,2
+Duggen,Harald fro,Undirected,1
+Karlen,Peter,Undirected,1
+Karlen,Theodor,Undirected,1
+Ioseph,hiin,Undirected,1
+Ioseph,Peter,Undirected,1
+Elfe,hans,Undirected,1
+Gud,Lieutenanten,Undirected,2
+From,Gud,Undirected,2
+From,Niels,Undirected,4
+Ioseph,Niels,Undirected,1
+Kold,Lau äe,Undirected,1
+Lau äe,OolvZiitz,Undirected,1
+Lieutenanten,OolvZiitz,Undirected,1
+Lieutenanten,kjær,Undirected,1
+From,kjær,Undirected,1
+Joseph,Lieutenanten,Undirected,1
+Lieutenanten,hiint,Undirected,1
+From,hiint,Undirected,1
+Caroline,From,Undirected,4
+Caroline,Lieutenanten,Undirected,1
+Herr From,Lieutenanten,Undirected,1
+From,Ioseph,Undirected,1
+Niels,Theodor,Undirected,2
+Niels Hansen Bæk,køm,Undirected,1
+From,Plessens,Undirected,2
+From,nn,Undirected,1
+Bcek,Niels,Undirected,1
+Bcek,Kold,Undirected,1
+Kold,Madam From,Undirected,1
+Caroline,Marie,Undirected,2
+Herr Bcek,Lection,Undirected,1
+Bæek,Lection,Undirected,1
+Anna,Bæek,Undirected,1
+Anna,Herr From,Undirected,1
+Herr From,Marie,Undirected,1
+Marie,Peter“,Undirected,2
+From,Lieutenanten,Undirected,1
+Jens,ester,Undirected,1
+Jens,Theodor,Undirected,1
+Bæk,Niels,Undirected,1
+Jens,hiin,Undirected,1
+Haren,Jens,Undirected,1
+Bcrk,Ieg,Undirected,1
+Ieg,Jens,Undirected,2
+Herr Bæks,Ieg,Undirected,1
+From,Marie,Undirected,4
+Nielses,Theodor,Undirected,1
+Anna,Nielses,Undirected,1
+From,Mutter,Undirected,1
+Mutter,Utøi,Undirected,1
+Rceven,Utøi,Undirected,1
+From,Rceven,Undirected,1
+From,Theodor,Undirected,5
+Wre,hiin,Undirected,1
+Roes,Wre,Undirected,1
+Herr From,Roes,Undirected,1
+Bcek,Jens,Undirected,1
+Jens,Villiam,Undirected,1
+Else,Villiam,Undirected,1
+Else,Jomfruen,Undirected,1
+Jomfruen,Madam From,Undirected,1
+Jens,Madam From,Undirected,1
+Jens,Peter,Undirected,1
+Else,Marie,Undirected,2
+Anna,Else,Undirected,1
+Mousieur Neptunus,hiin,Undirected,1
+Mousieur Neptunus,Peter,Undirected,1
+Anna,Hans Theori,Undirected,1
+Hans Theori,Praxis,Undirected,1
+Hcer,Karl,Undirected,1
+Bæek,Karl,Undirected,1
+Gud,Peter“,Undirected,1
+Marie fil,Peter“,Undirected,1
+Gud,Marie fil,Undirected,1
+Caroline,røve,Undirected,1
+Lieutenanten,ganfle,Undirected,1
+,Caroline,Undirected,1
+Lieutenanten,Niels From,Undirected,1
+Lieutenanten,Uraad,Undirected,1
+Caroline,Jesus,Undirected,1
+Jkkedesfomindre,hiin,Undirected,1
+Bæk,Caroline,Undirected,1
+Caroline,steeg,Undirected,1
+Emanuel,steeg,Undirected,1
+Jomfru Kold,Lceberne,Undirected,1
+From,Herr Bæk,Undirected,1
+,Marie,Undirected,1
+Jens,Karlen,Undirected,1
+Marie,ganfle,Undirected,1
+Jomfru Anna,hiin,Undirected,1
+From,hiin,Undirected,4
+Anna,Bæk,Undirected,3
+Anna From,Oret,Undirected,1
+Herr Bæck,Oret,Undirected,1
+Caroline,luur Peter,Undirected,1
+Caroline,maallos,Undirected,1
+A,Caroline,Undirected,1
+A,B,Undirected,1
+Caroline,Fisker Bæks,Undirected,1
+Caroline,Karl,Undirected,1
+Bartram,hiin,Undirected,1
+forslaa,hiin,Undirected,1
+Bæk,From,Undirected,2
+Anna,Theodor,Undirected,2
+From,Peter“,Undirected,1
+Franst,hiin,Undirected,1
+Anna,Roes,Undirected,1
+Caroline,Theodor,Undirected,1
+Caroline,Lectie,Undirected,1
+Theodor,linde Froms,Undirected,1
+Caroline fil,Madam Olsen,Undirected,1
+Mcelet,Peter“,Undirected,1
+Bce k,Bæk,Undirected,1
+Bartram,Lester,Undirected,1
+Lester,hiin,Undirected,1
+ban,hiin,Undirected,1
+Lester,ban,Undirected,2
+Bæk,Lester,Undirected,6
+From,ban,Undirected,1
+From,Lester,Undirected,1
+Brovn,Lester,Undirected,5
+Caroline,hiin,Undirected,2
+Bcek,Jomfru Kold,Undirected,1
+Bcek,From,Undirected,2
+Emanuel trcede,From,Undirected,1
+Emanuel trcede,Emanuele,Undirected,1
+Emanuele,From,Undirected,1
+Brovn,hiin,Undirected,1
+Bæk,hiin,Undirected,1
+Marie,ber,Undirected,1
+From,ber,Undirected,1
+Brovn,From,Undirected,1
+Brovn,Bæk,Undirected,2
+From,Madam From,Undirected,2
+Anna ivrig,Madam From,Undirected,1
+Brovn,Olsen,Undirected,1
+Joseph,Oxen,Undirected,1
+Else,Oxen,Undirected,1
+Oxen,hiin,Undirected,1
+Oxen,lille Peter,Undirected,1
+Peter,lille Peter,Undirected,1
+Oxen,Peter,Undirected,1
+Gud,hnn,Undirected,1
+Joseph flulde,Olsen,Undirected,1
+Else,From,Undirected,2
+Niels,hiin,Undirected,2
+From,Kold,Undirected,1
+Anna,Joseph,Undirected,1
+Niels From,Olsen,Undirected,1
+Joseph,liigbleg,Undirected,1
+Ioseph,Niels From,Undirected,1
+Brovn,Ioseph,Undirected,1
+Joseph,Lester,Undirected,2
+Joseph,ncer,Undirected,1
+hiin,ncer,Undirected,1
+Steen,hiin,Undirected,1
+Joseph,Steen,Undirected,1
+Bcek,Lester,Undirected,1
+B cek,Bcek,Undirected,1
+From,Joseph,Undirected,1
+Niels,Peter Kold,Undirected,1
+Anna,Bcek,Undirected,1
+Hansen,Niels,Undirected,1
+Joseph,nndns,Undirected,1
+Md. From,frods,Undirected,1
+Anna,Md. From,Undirected,1
+Anna,From,Undirected,1
+From,ganfle,Undirected,1
+Bcek,Niels From,Undirected,1
+Læerdom,Niels From,Undirected,1
+Joseph,Læerdom,Undirected,1
+Brovn,Joseph,Undirected,1
+Joseph,Tante,Undirected,1
+Caroline,Poppegøien,Undirected,1
+Adam,Caroline,Undirected,1
+Adam,Eva,Undirected,1
+Axelfkjærf,Caroline,Undirected,1
+Axelfkjærf,Priis,Undirected,1
+Fruerstuen,Priis,Undirected,1
+Durlach,Svendsen,Undirected,1
+Durlach,Frederik,Undirected,1
+Frederik,Svendsen,Undirected,1
+Herr Bcrk,Kareth,Undirected,1
+Herr Bcrk,Peter,Undirected,1
+Marie From,Theodor,Undirected,1
+Peter,Theodor,Undirected,2
+Jægerspriis,Tu,Undirected,1
+Theodor,Tu,Undirected,1
+Jægerspriis,Peter,Undirected,1
+Jægerspriis,Theodor,Undirected,1
+Gud,Theodor,Undirected,1
+Madam From,Marie,Undirected,1
+From,Madam,Undirected,1
+Madam From,Peter“,Undirected,1
+Caroline,Monsieur,Undirected,1
+Kong Løve,spurgfe,Undirected,1
+Hunts,ban,Undirected,1
+Grev Ardenfeldt,rosa,Undirected,1
+Ardenfeldt,gansfe,Undirected,1
+Monsieur,hiin,Undirected,2
+Frederik den,Prindsessen,Undirected,1
+Ardenfeldt,ban,Undirected,1
+Gud,Lakai,Undirected,1
+Ardenfeldt,Kold,Undirected,1
+Bæk,Herr From,Undirected,1
+Bæk,Marie,Undirected,4
+Marie,don,Undirected,1
+Ardenfeldt,don,Undirected,1
+Else,Søren Poulsens,Undirected,1
+Oren,hiin,Undirected,1
+Oren,iveien,Undirected,1
+Greves,Søren Poulsen,Undirected,1
+Else,Søren Poulsen,Undirected,8
+Ardenfeldt,Else,Undirected,1
+Else,Greven,Undirected,3
+Else,hiin,Undirected,1
+Elfe,Søren Poulsen,Undirected,1
+Søren Poulsen,fig,Undirected,1
+Else,fig,Undirected,1
+Ardenfeldt,Monsieur,Undirected,1
+def,hans,Undirected,1
+Greven,Søren Poulsen,Undirected,2
+Ardenfeldl,Herr Bcek,Undirected,1
+Kjelder,Søren Poulsen,Undirected,1
+Maanens,Monsieur,Undirected,1
+Maanens,Søren Poulsen,Undirected,1
+Søren Poulsen,Søren Pranger,Undirected,1
+Søren,Søren Poulsen,Undirected,1
+Kold,Søren Poulsen,Undirected,2
+Kold,hiin,Undirected,2
+Greven,Krogh,Undirected,1
+Krogh,hiin,Undirected,1
+Frøken Schild,Monsieur Kold,Undirected,1
+Monsieur Kold,hiin,Undirected,2
+Emanuel,Marie From,Undirected,1
+Greven,Theodor,Undirected,1
+Svendsen,hiin,Undirected,1
+Posf,Svendsen,Undirected,1
+Posf,Søren Poulsen,Undirected,1
+Ardenfeldt,Søren Poulsen,Undirected,1
+Greven,hiin,Undirected,1
+Steen,Veiby,Undirected,1
+Excellensen Struensee,hiin,Undirected,1
+Frederik,Juliane Marie,Undirected,1
+Frederik den Sjette,Napoleon,Undirected,1
+Søren Poulsen,ganfle,Undirected,1
+Prindsessen,Søren Poulsen,Undirected,1
+Elfe,Grev Ardenfeldt,Undirected,1
+Greven,Skøren Poulsen,Undirected,1
+Kong Salomons,Miau,Undirected,1
+Else,betcenk,Undirected,1
+Else,Emma,Undirected,1
+Elfe,Else,Undirected,1
+Poulsen,Søren Poulsen,Undirected,1
+Else,Poulsen,Undirected,1
+Else,Søren,Undirected,1
+Cassel,tanse,Undirected,1
+Martin,Napoleon,Undirected,1
+C oulinc ourtogLanri ston,Diet,Undirected,1
+Diet,Eurupa,Undirected,1
+Keiseren,lcenge,Undirected,1
+Else,Martin,Undirected,1
+Keiseren,Martin,Undirected,1
+Le,Mcend,Undirected,1
+Marie From,Martin,Undirected,1
+Keiseren,hiin,Undirected,1
+Martin,spiist,Undirected,1
+Gud,Martin,Undirected,1
+Briand,Martin,Undirected,1
+Briand,Keiseren,Undirected,1
+Briand,boscette,Undirected,1
+Anna,Keiseren,Undirected,1
+Anna,Papa,Undirected,1
+Busfe,slaa,Undirected,1
+Busfe,Martin,Undirected,1
+Dufour,Martin,Undirected,1
+Orne,Roes,Undirected,1
+Bæk,Else,Undirected,1
+Else,cis Saint Emanuele,Undirected,1
+Joseph,cis Saint Emanuele,Undirected,1
+Ardenfeldt,Joseph,Undirected,1
+Ardenfeldt,Prindsessen,Undirected,1
+Dufour,Prindsessen,Undirected,1
+Dufour,Jsandhed,Undirected,1
+Joseph,Jsandhed,Undirected,1
+Joseph,Martin Dufours,Undirected,1

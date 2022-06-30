@@ -1,0 +1,322 @@
+source,target,type,weight
+Else,Thys,Undirected,1
+Astrid Olufsen,Else,Undirected,1
+Else,Gud,Undirected,1
+Astrid,Gud,Undirected,4
+Adre,Astrid Olufsen,Undirected,1
+Astrid,Christen Olsen,Undirected,1
+Astrid,Eil,Undirected,1
+Astrid,Elie,Undirected,1
+Astrid,Gustavs,Undirected,3
+Ebba,Engelhof,Undirected,2
+Ebba,lcenge,Undirected,2
+Ebba,Ingeborgs,Undirected,1
+Ingeborg,Ingeborgs,Undirected,1
+Engelhof,Ingeborg,Undirected,1
+Ebba,stet,Undirected,1
+Ingeborg Engelhof,stet,Undirected,1
+Ebba,Ingeborg Engelhof,Undirected,1
+Ebba,Ebba erkjendte,Undirected,1
+Ebba erkjendte,Ingeborg,Undirected,1
+Ingeborg,Konferentsraad Engelhof,Undirected,1
+Astrid,Gusfav,Undirected,2
+Gusfav,Gustav,Undirected,1
+Astrid,Gustav,Undirected,35
+Astrid,Hymen,Undirected,1
+Astrid,Axels,Undirected,1
+Aurora,Engelhof,Undirected,1
+Aurora,Huno,Undirected,6
+Engelhof,Huno,Undirected,3
+Engelhof,Gustav,Undirected,1
+Almanns,Aurora,Undirected,1
+Astrid,Ebba Olufsen,Undirected,1
+Aurora,Gustav,Undirected,4
+Aurora,Ebba,Undirected,1
+Ebba,Ulrike,Undirected,2
+Tante Ebba,Ulrike,Undirected,1
+Astrid,Ebba,Undirected,4
+Gustav,Ulrike Engelhof,Undirected,1
+Astrid,Ulrike Engelhof,Undirected,1
+Astrid,alf Haab,Undirected,1
+Aurora,Krephat,Undirected,1
+Astrid,Aurora,Undirected,5
+Astrid,Lame Ulrike,Undirected,1
+Almanns,Gustav,Undirected,1
+Almanns,Astrid,Undirected,1
+Braad,Gustav,Undirected,1
+Aurora,Braad,Undirected,1
+Gustav,Huno,Undirected,5
+Astrid,Huno,Undirected,3
+Asfrid,Astrid,Undirected,1
+Asfrid,Hain,Undirected,1
+Huno,taus,Undirected,1
+Asfrid,Gustav,Undirected,1
+Elfe,Fru Ølufsens,Undirected,1
+Astrid korn,Fru Ølufsens,Undirected,1
+Astrid korn,Elfe,Undirected,1
+Astrid,Else,Undirected,2
+Else,Gusfav,Undirected,1
+Astrid,lceste,Undirected,1
+Huno,lceste,Undirected,1
+Carl Villiamsen,Gustav,Undirected,1
+Carl Villiamsen,Villiamsen L Ko,Undirected,1
+Astrid,Axel,Undirected,17
+Gusfav,Huno,Undirected,3
+Gusfav,Ulrike,Undirected,4
+Astrid,Ulrike,Undirected,20
+Arne,Asfrid,Undirected,1
+Anker,Astrid,Undirected,1
+Astrid,Ta,Undirected,1
+Astrid,Hcender,Undirected,1
+Astrid,Georgine,Undirected,16
+Else,Ulrike,Undirected,1
+Astrid,Guslav,Undirected,1
+Georgine,Ulrike,Undirected,43
+Gustav,Ulrike,Undirected,9
+Astrid,oni Gustav,Undirected,1
+Engelhof,Georgine,Undirected,1
+Georgine,Ulrikke,Undirected,1
+Ulrikke,hau,Undirected,1
+Odins,Ulrike,Undirected,1
+Kong Aarons,Kong Oswalds,Undirected,1
+Gud,Ulrike,Undirected,2
+Georgine,Tante Ulrike,Undirected,1
+Kristi,Renan,Undirected,1
+Mammon,Milton,Undirected,1
+Erkeengel,Mammon,Undirected,1
+Georgine,Goethe,Undirected,1
+Ulrike,Ulrikke,Undirected,1
+Astrid,Axel Olufsen,Undirected,1
+Axel,Axel Olufsen,Undirected,1
+Gud,Gustav,Undirected,1
+Astrid,Masfer Guison,Undirected,3
+Axel,Gustav,Undirected,4
+Axel Olufsen,Ulrike,Undirected,1
+Axel,Georgine,Undirected,18
+Axel,Ulrike,Undirected,22
+Axel,Meldorf,Undirected,1
+Georgine,Meldorf,Undirected,7
+Meldorf,Ulrike,Undirected,10
+Axel,Gusfav,Undirected,1
+Aurora,Ulrike,Undirected,2
+Axel,Olufsen,Undirected,2
+Engelhof,Olufsen,Undirected,1
+Axel,Huno,Undirected,7
+Huno Engelhof,Kjøn,Undirected,1
+Huno,Kjøn,Undirected,1
+Huno,ban,Undirected,1
+Huno,hcedret,Undirected,1
+Engelhof,hcedret,Undirected,1
+Axel,Hnno,Undirected,3
+Georgine,Hain,Undirected,1
+Axel,Hain,Undirected,2
+Ulrike,Voltaires,Undirected,1
+Ulrike,aii,Undirected,1
+Ulrike,nlan,Undirected,1
+Axel Skjønhedssans,nlan,Undirected,1
+,Curius,Undirected,2
+,Ulrike,Undirected,1
+Curius,Ulrike,Undirected,3
+Axel,Rabalais,Undirected,1
+Rabalais,Ulrike,Undirected,1
+Archilochos,Lykambes,Undirected,1
+Huno,Ulrike,Undirected,4
+Meldvrf,Ulrike,Undirected,1
+Meldvrf,Oluffen,Undirected,1
+Astrid,Oluffen,Undirected,1
+Curius,Kanaille,Undirected,1
+,Scede,Undirected,1
+Scede,Ulrike,Undirected,1
+Curius,Meldorf,Undirected,1
+Curius,Georgine,Undirected,1
+Felsingers,Frøken Olussens,Undirected,1
+Frøken Olussens,Meldorf,Undirected,1
+Frøken Ølund,Theobald Felsinger,Undirected,1
+Dænne,Theobald Felsinger,Undirected,1
+Georgine,Tause,Undirected,2
+Axel,mvrke Spaadom,Undirected,1
+Gustav,mvrke Spaadom,Undirected,1
+Axel,Huno Engelhof,Undirected,3
+Georgine,Huno,Undirected,3
+Hnn,Huno,Undirected,1
+Axel,Ærenskjold,Undirected,5
+Dalborg,hans Nenner,Undirected,1
+Dalborg,Huno Engelhof,Undirected,1
+Dalborg,Ærenskjold,Undirected,1
+Dalborg,Georgine Ølund,Undirected,1
+Georgine Ølund,Theobald Felsinger,Undirected,1
+Axel fad,Theobald Felsinger,Undirected,1
+Huno,Ærenskjvld,Undirected,1
+Ærcnfkjold,Ærenskjvld,Undirected,1
+Axel,ølund,Undirected,1
+Engelhof,Ærenskjold,Undirected,3
+Muisens,Ærenskjold,Undirected,1
+Huno,Olufsen,Undirected,1
+Olufsen,Ulrike,Undirected,2
+Ulrike,Ærenskjold,Undirected,1
+Huno,Ærenskjold,Undirected,1
+Astrid,Ærenskjold,Undirected,1
+Theobald Felsinger,Ulrike,Undirected,1
+Ulrike,as,Undirected,1
+Theobald Felsinger,as,Undirected,1
+Theobald,Theobald Felsinger,Undirected,1
+Hain,Theobald,Undirected,2
+Theobald,hank,Undirected,2
+Theobald,nng,Undirected,1
+Theobald,tang,Undirected,1
+Georgine,Theobald,Undirected,4
+Amalie,Tonte Ulrike,Undirected,1
+Amalie,Betsy,Undirected,1
+Betsy,Dalborg,Undirected,1
+Amalie,Dalborg,Undirected,3
+Madam Holm,felv,Undirected,1
+Dalborg,felv,Undirected,1
+Dalborg,Engelhof,Undirected,1
+Dalborg,Gud,Undirected,2
+Dalborg,Theobald Felsinger,Undirected,3
+Dalborg,Madam Holm,Undirected,2
+Dalborg,Frøken Georgine,Undirected,1
+Dalborg,Theobald,Undirected,2
+Gud,Madam Holm,Undirected,1
+Georgine taug,Ulrike,Undirected,1
+Astrid Olufsen,Georgine,Undirected,1
+Astrid Olufsen,Ulrike,Undirected,2
+Engelhof,Montalemberts,Undirected,1
+Georgine,Theobald Felsinger,Undirected,3
+Frøken Ølund,Madam Holm,Undirected,1
+Tonic Ulnkc,Ulrike,Undirected,1
+Gustav,Melders,Undirected,1
+Melders,Ulrike,Undirected,1
+Madam Holm,Ulrike,Undirected,1
+Georgine,Madam Holm,Undirected,1
+Madam Holm,Meldorf,Undirected,1
+Engelhof,Klerk,Undirected,2
+Gustav Engelhofs,Klerk,Undirected,2
+Huno,Huno Engelhof,Undirected,1
+Gustav,deni,Undirected,1
+Aurora,Gusfav,Undirected,1
+Axel,trættes,Undirected,1
+Axel taug,Frn Olufsen,Undirected,1
+Axel,Frn Olufsen,Undirected,1
+Axel,Master Guisvns,Undirected,1
+Asfrid,Master Guisvns,Undirected,1
+Asfrid,Meldorf,Undirected,1
+Meldorf,Theobald Felsinger,Undirected,5
+Dalborg,Meldorf,Undirected,1
+Meldorf,sonc Vildttyv,Undirected,1
+Karl,sonc Vildttyv,Undirected,1
+Dalborg,Karl,Undirected,1
+Felsingers,Ulrike,Undirected,2
+Felsingers,Meldorf,Undirected,2
+Theobald,Ulrike,Undirected,1
+Axel,Master Guison,Undirected,3
+Astrid,Guisons,Undirected,1
+Axel,Guisons,Undirected,2
+Axel,Guison,Undirected,22
+Axel,Jim,Undirected,4
+Axel,Gnison,Undirected,1
+Gnison,Olnfsen,Undirected,1
+Asfrid,Master Guison,Undirected,1
+Axel Master,Guison,Undirected,1
+Asfrid,Guison,Undirected,1
+Asfrid,fiere,Undirected,1
+Axel,fiere,Undirected,1
+Axel,Tonie Ulrike.,Undirected,1
+Astrid,Jim,Undirected,1
+Guison,Gustav,Undirected,3
+Guison,Niels Juels,Undirected,1
+Niels Juels,Tordenskjolds,Undirected,1
+Guison,Mistress vgMissOlufsen,Undirected,1
+Hnn,Ulrike,Undirected,1
+Axel,Rheders,Undirected,1
+Astrid,Rheders,Undirected,1
+Astrid,vidsfe,Undirected,1
+Masfer Guison,Ulrike,Undirected,1
+Axel,Masfer Guison,Undirected,1
+Gustav,Masfer Guison,Undirected,2
+Astrid,Guison,Undirected,3
+Axel,Bill Black,Undirected,3
+Guison,nng,Undirected,1
+fcerdes,nng,Undirected,1
+Heines,Ulrike,Undirected,1
+Guison,Heines,Undirected,1
+Ulrike,lindes,Undirected,1
+Master Guison,Ulrike,Undirected,1
+Frøken Engelhof,Ulrike,Undirected,1
+Gud,sidsfe,Undirected,1
+Gustav,Ulrike-blev,Undirected,1
+Georgine,hnn,Undirected,1
+Elfe,Ærenskjold,Undirected,1
+Axel,Felsinger,Undirected,1
+Felsinger,Guison,Undirected,2
+Guison,dechiffrere,Undirected,1
+Guifon,LErenskjold,Undirected,1
+Guifon,ester,Undirected,1
+Axel,ester,Undirected,1
+Frvken Engelhof,Kulrvg,Undirected,1
+Feisinger,Frøken Engelhof,Undirected,1
+Masfer Guison,Olufsen,Undirected,1
+Engelhof,Hnno,Undirected,1
+Olufsen,hani,Undirected,1
+Guison,Ulrike,Undirected,16
+Hain,Ulrike,Undirected,1
+Georgine,Hjeni,Undirected,1
+Ulrike,taus,Undirected,1
+Georgine,taus,Undirected,1
+Guison,Theobald,Undirected,1
+Astrid,Theobald,Undirected,2
+Astrid,Georgine knnde,Undirected,1
+Georgine knnde,Ulrike,Undirected,1
+Graad,Ulrike,Undirected,1
+Næsfe,Ulrike,Undirected,1
+Astrid Olufsen,Theobald Felsinger,Undirected,1
+Guison,Hr. Engelhof,Undirected,1
+Guison,Theobald Felsinger,Undirected,1
+Dalborg,Guison,Undirected,1
+Gustav,Tante Ulrike,Undirected,1
+Guison,Jim,Undirected,3
+Tausheds,Tænte Ulrike,Undirected,1
+Georgine,Tænte Ulrike,Undirected,1
+Georgine,Gusfav,Undirected,1
+Tænte,Ulrike,Undirected,1
+Kjære,Tænte,Undirected,1
+Georgine,Tænte,Undirected,1
+Georgine hmsank,Ulrike,Undirected,1
+Astrid,Georgine hmsank,Undirected,1
+Hnn,Theobald,Undirected,1
+Georgine,Guison,Undirected,12
+Georgine,Hestehove,Undirected,1
+Georgine,Gnisvn,Undirected,1
+Theobald,kjære,Undirected,2
+Guison,tom Saddel,Undirected,1
+Axel,Guifon,Undirected,1
+Georgine,Guifon,Undirected,1
+Georgine,Jim,Undirected,2
+Dalborg,Georgine,Undirected,1
+Astrid Olnfsen,Dalborg,Undirected,1
+Axel,Frøken Engelhof,Undirected,1
+Georgine taug,Guison,Undirected,1
+Axel,Georgine taug,Undirected,1
+Dalborg,hans Gaard,Undirected,1
+Guison tang,Ulrike,Undirected,1
+Dalborg,Ulrike,Undirected,1
+Essentsen,Guison,Undirected,1
+Guison,Gustav Engelhof,Undirected,1
+Herodes,Pilatus,Undirected,1
+Guison,Machiavel,Undirected,1
+Gud,Machiavel,Undirected,1
+Ulrike,hnn,Undirected,2
+Gustav Engelhof,Ulrike,Undirected,1
+Astrid,Bill Black,Undirected,1
+Engelhof,Ulrike,Undirected,1
+Georgine,Ouisons,Undirected,1
+Astrid,Ouisons,Undirected,1
+Bill Black,Ulrike,Undirected,1
+Georgine,Gustav,Undirected,1
+Astrid,Tante Ulrike,Undirected,1
+Axel,Tante Ulrike,Undirected,1
+Georgine,Gnison,Undirected,1
+Astrid,Meldorf,Undirected,1
+Gustav,hnn,Undirected,1
+lmm.,petersen,Undirected,1
+petersen,soesmoerr,Undirected,1

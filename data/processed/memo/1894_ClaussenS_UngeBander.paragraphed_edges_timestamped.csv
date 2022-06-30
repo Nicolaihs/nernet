@@ -1,0 +1,434 @@
+source,target,timestamp
+Artemis,Thing,1
+Catys,Vilhelmine,5
+Friis,Vilhelmine,5
+Caty,Vilhelmine,6
+Mikal,lille Laura,7
+Caty,Mikal,7
+Caty,Friis,13
+Friis,Laura,13
+Kolumbus,Spanjens,25
+Spanjens,doer,25
+Azur,doer,25
+Azur,Gud,25
+Gud,lian,25
+Gud,lian,25
+Gud,Kolumbus Brevet,25
+C es,Friis,32
+Friis,Gud,40
+C,Catv,45
+Friis,Karl,52
+Betty Wickmann,Esther,60
+Betty Wickmann,Friis,60
+Betty,Helsing,61
+Betty,Frøken Wickmann,68
+Laura,Mikal,71
+Caty,Mikal,95
+Laura,Mikal,105
+Laura,Mikal,108
+Laura,tys,108
+Caty,Gud,110
+Laura,Mikal,111
+Caty,Cesare,112
+Laura,Mikal,116
+Friis,Mus,118
+Laura,gaber,119
+Cesare,Laura,139
+Caty,Laura,147
+Cesare,Friis,151
+Cesare,Friis,151
+Laura,Mikal,172
+Caty,Sulamith,176
+Laura,Mus,213
+Laura,Mu s,213
+Caty,Mu s,218
+Caty,Frøken Laura,230
+Aasums,L aura,232
+Caty,L aura,232
+Juels,Violoncel,236
+Juel,Kruses,237
+Kruse,Povlsen,243
+Erik,Kruse,246
+Erik,Hr. Kølby,247
+Erik,Hr. Kølby,247
+Aasum,Estrup,252
+Estrup,Florens,252
+Erik Kølby,djærv Aasumtone,255
+From,Knudsen,256
+Kattekilling,Knudsen,256
+Erik Kølby,From,258
+Erik Kølby,From,258
+Erik Kølby,From,258
+Aasum,Erik Kølby,258
+Aasum,Aladdin,258
+Aladdin,Erik Kølby,258
+Aasum,Erik Kølby,258
+Aasum,Brandes,258
+Brandes,Erik Kølby,258
+Aasum,Erik Kølby,258
+From,Holberg,259
+Kjølbye,Kølby,262
+Erik Kølby,Kølby,262
+Erik Kølby,j,262
+Erik Kølby,j,262
+Erik,Thorkildsen,263
+Elise,Thorkildsen,263
+Elise,Katinka,263
+Juel,Katinka,263
+Juel,Kristian,263
+Kristian,Margrete,263
+Margrete,Thorkildsen,263
+Hanne Juel,Thorkildsen,263
+Elise,Margrete,264
+Elise,Katinka,264
+Katinka,Margrete,264
+Elise,Margrete,264
+Elise,Katinka,264
+Katinka,Margrete,264
+Kristian Juel,Margrete,264
+Elise,Kristian Juel,264
+Elise,Margrete,264
+Erik,Espaliers,266
+Espaliers,Kruse,266
+From,Hr. Kølby,267
+Hr. Kølby,Kruse,267
+Erik,hans,269
+Erik,Ole,272
+Erik,Ole,272
+Albu,Erik,273
+Gud,Piads,274
+Erik,Holst,276
+Frøken Margrete,Holst,276
+Albu,Frøken Margrete,276
+Erik Kølby,From,277
+Erik,Erik Kølby,277
+Erik,From,277
+Erik,From,277
+Erik,Erik Kølby,278
+Erik,From,279
+Erik Kølby,From,279
+Knudsen,qui trottoie,282
+Erik,From,283
+Erik,Erik Kølby,283
+Erik,Erik Kølby,283
+Erik Kølby,From,284
+Erik Kølby,From,288
+Erik Kølby,Erik Kølby moqueur,288
+Erik,From,289
+Erik,From,290
+From,Gud,290
+From,Gud,290
+Knudsen,skraa,291
+Erik Kølby,From,292
+Erik,From,292
+Erik,Hr. Kølby,294
+Aasum,Erik,295
+Erik,From,295
+Aasum,Erik,296
+Aasum,Viggo From,297
+Erik Kølby,From,299
+Erik Kølby,From,299
+Erik Kølby,Knudsen,301
+Aasum,skraa,302
+Erik,skraa,302
+Erik,Erik Kølby,311
+Erik,Erik Kølby,315
+Erik Kølby,From,323
+Erik Kølby,From,325
+Erik Kølby,Knudsen,328
+Erik,Knudsen,328
+Erik,Erik Kølby,329
+Kristiane,Vilhelm Almann,332
+Kristiane,Vilhelm Almann,332
+Erik,Vilhelm Almann,333
+Erik,lille Karl,337
+Erik,Kari,339
+Erik,Karl,341
+Erik Kølby,Karl,342
+Erik,Skipperenken,343
+Erik,Vilhelm Almann,345
+Thorkildsen,Vilhelm Almann,345
+Møller,Thorkildsen,345
+Møller,Vilhelm,345
+Erik,Kruse,349
+Gud,Vilhelm,362
+Elise Thorkildsen,Gud,362
+Erik,Vilhelm,364
+Erik,Vilhelm,364
+Erik,Vilhelm,364
+Erik,Vilhelm,364
+Erik,Vilhelm,364
+Buffo,Vilhelm,364
+Buffo,Elise,364
+Elise,Katinka,364
+Erik Kølby,Jensen,369
+Almann,Kølby,370
+Erik,Kølby,371
+Vilhelm,lille Almann,373
+Erik,Vilhelm,374
+Erik,Gud,380
+Erik,Kruse,381
+Erik,Kruse,384
+Kruse,Laura Kruse,385
+Erik,Kruse,385
+Erik,Kruse,386
+Erik,Fru Kruses,395
+Erik,Vilhelm,399
+Erik,Moqueur,400
+Erik,Thorkildsen,400
+Elise,léende,402
+léende,rosa,402
+Erik Kølby Moqueur,Vilhelm,404
+Arendsdorf,Vilhelm,406
+Arendsdorf,Frøken Elises,406
+Kristian Juel,Moqueur,409
+Elise,Max,412
+Krisjan,Vilhelm,414
+Krisjan,Kusk,415
+Katinka,Vilhelm,419
+Erik,Vilhelm,420
+Erik Kølby,Margrete Juel,422
+Flun,Vilhelm,423
+Erik,Juel,424
+Moqueur,Vilhelm,425
+Erik.,Moqueur,425
+Thorkildsen,Vilhem,427
+Frøken Juels,Thorkildsen,427
+Erik,Juel,433
+Margrete,Max,434
+Erik,Vilhelm,440
+Erik,Kristian Juel,445
+Erik,Kristian Juel,445
+Erik,Vilhelm,445
+Erik,Margrete,447
+Erik,From,448
+Katinka,Margrete,450
+Elise,Margrete,454
+Erik,Margrete,454
+Erik,Kristian Juel,455
+Aasum,Erik,456
+Erik,Juel,456
+Juel,Margrete,456
+Erik,Vilhelm,458
+Juel,Napoleon,461
+Hanne Juel,Kølby,462
+Hanne Juel,Margrete,462
+Hanne,Margrete,462
+Erik Kølby,Hanne,462
+Erik Kølby,Hanne,462
+Elise,Katinka,464
+Elise,Erik,466
+Elise,Katinka,466
+Kristian Juel,stundum,468
+Erik,Kristian Juel,468
+Braad,Erik,468
+Erik,Margrete,471
+Erik,Margrete,473
+Erik,Vilhelm,473
+Erik,Margrete,480
+Margrete,Musmann,482
+Hanne,Laura,490
+Kruse,Laura,490
+Laura,Sine,494
+Hanne,Sine,494
+Hr. Kølby,Laura,496
+Erik,Fru Kruse,498
+Erik,Frøken Lund,524
+Hr. Kølby,Laura,529
+Erik,Erik Kølby,536
+Erik Kølby,Kruse,536
+Erik,Kruse,538
+Erik,Kruse,540
+Frøken Margrete,Kruse,546
+Erik,Margrete,550
+Erik,Kruse,552
+Erik,Kruse,561
+Holst,Vilhelm,562
+Margrete Juel,Vilhelm,566
+Margrete,Margrete Juel,569
+Erik,Vilhelm,570
+Erik,Margrete Juel,570
+Klematis,Vilhelm,579
+Erik Kølby,Kathinka Thorkildsen,580
+Elise Thorkildsen,Kristian Juel,581
+Dandy,Kristian Juel,581
+Arendsdorf,Dandy,581
+Arendsdorf,Margrete Juel,581
+Erik,Vilhelm,583
+Erik Kølby,Vilhelm,583
+Erik,Juel,585
+Erik,Margrete,586
+Erik,Erik Kølby,586
+Rose,roseau,587
+Aasum,Erik,590
+Erik,Erik Kølby,590
+Erik Kølby,Gud,590
+Erik,Gud,590
+Erik,Erik Kølby,592
+Erik,Rose,594
+Rose,rose,594
+Gud,Rose,595
+Aasum,borre,596
+Erik,Frøken Margrete,597
+Erik,Laura Kruse,598
+Erik,Frøken Kristine,602
+Arendsdorf,Erik,603
+Arendsdorf,Erik,604
+Arendsdorf,Erik,604
+Erik,Vilhelm,604
+Erik,Vilhelm,604
+Erik,From,607
+From,Vilhelm,607
+Arendsdorf,Erik,608
+Arendsdorf,Vilhelm,608
+Erik,Vilhelm,609
+Erik,Vilhelm,609
+Emmy V.,Erik,611
+Emmy V.,Erik,611
+Erik,Marven,611
+Emmy,Marven,611
+Emmy,Erik,611
+Emmy,Erik,611
+Emmy,Erik,612
+Erik,Kruse,613
+Emmy,Kruse,613
+Aasum,Erik,614
+Frøken Margrete,Maanelys,615
+Erik,Frøken Margrete,615
+Emmy,Erik,615
+Emmy,Erik,615
+Frøken Juel,Vilhelm,616
+Erik,Kruse,617
+Aasum,Erik,625
+Erik,Kirkegaardstanke,626
+Erik,Kirkegaardstanke,626
+Kristian Juel,halvni,628
+Kristian Juel,Vilhelm,628
+Arendsdorf,Vilhelm,628
+Arendsdorf,Margrete,628
+Margrete,Thorkildsen,628
+Erik,Margrete,632
+Kathinka,Margrete,632
+Kathinka,Vilhelm,632
+Arendsdorf,Vilhelm,632
+Arendsdorf,Kristian Juel,632
+Frøken Musman,Kristian Juel,632
+Erik,Margrete,633
+Moqueur,Vilhelm,635
+Kristian Juel,Vilhelm,637
+Elise Vilhelm,Erik,638
+Dantes,Erik,645
+Dantes,Vita nova,645
+Erik,bildes,646
+Mozarts,bildes,646
+Frøken Musman,Kathinka,647
+Frøken Musman,Kristian Juel,647
+Elise,Erik,651
+Moqueur,Skaal Moqueur,652
+Erik,Margrete,653
+Margrete,Muhamed,653
+Boccaccio,Fiametta —,654
+Boccaccio,Johanne,654
+Erik,Margrete,656
+Erik,Frøken Margrete,656
+Erik,Vilhelm,659
+Erik,Vilhelm,659
+Arendsdorf,Erik,660
+Erik,Knudsen,666
+Erik,From,668
+Erik,Kristian Juel,671
+Erik Kølby,Kristian,673
+Erik,Kristian,673
+Erik,Kristian Juel,675
+Erik,Margrete,676
+Erik,Margrete,676
+Erik,Margrete,677
+Erik,Margrete Juel,702
+Erik,Margrete,707
+Erik,Margrete,710
+Hr. Kølby,Margrete,711
+Erik,Margrete,712
+Erik,Frøken Kristine,714
+Erik,Frøken Kristine,714
+Erik,Vilhelm,714
+Margrete,Vilhelm,714
+Erik,Margrete,716
+Erik,Margrete,717
+Erik,ane,718
+Erik,From,719
+From,Kruse,719
+Erik,Kruse,719
+Erik,Kristian Juel,719
+Frøken Margrete,Kristian Juel,719
+Erik,Frøken Margrete,719
+Erik,Margrete,722
+Erik,Margrete,723
+Erik,Margrete,723
+Erik,Margrete,724
+Erik,Margrete,726
+Erik,Frøken Kristine,727
+Aasum,Erik,728
+Kristines,Margrete,729
+Erik,Holst,730
+Erik,Vilhelm,740
+From,Kolos,746
+Erik!,Kolos,746
+Erik,From,748
+Erik,From,748
+From,Margrete,749
+Erik,Margrete,749
+Elverhøj,Erik,751
+From,Frøken Kristine,753
+Erik,From,755
+Erik,From,757
+From,Vilhelm,759
+Erik,Kirsten,761
+Erik,Kirsten,761
+Erik,From,762
+From,Vilhelm,762
+Erik,Vilhelm,762
+Erik,Margrete,764
+Elise,Margrete,766
+Erik,Gud,769
+Erik,Margrete,770
+Kristine,Margrete,770
+Erik,Kristine,773
+Erik,Kristine,773
+Erik,Kristine,773
+Erik,Frøken Kristine,778
+Erik,Margrete Juel,780
+Elise,Margrete,781
+Elise,Margrete,781
+Elise,Erik,782
+Erik,taus,782
+Margrete,taus,782
+Elise,Margrete,783
+Elise,Erik,785
+Erik,Margrete,785
+Elise,Margrete,785
+Elise,Erik,785
+Erik,Margrete —,786
+Aasum,Margrete —,786
+Erik,Madam Hansen,787
+Erik,From,789
+Erik,Kristine,789
+Erik,Margrete,791
+Kristine,Margrete,793
+Kristine,Margrete,793
+Erik,Kristine,798
+Erik,Kristine,799
+Erik,Kristine,799
+Erik,Hr. Kølby,799
+Erik,Hr. Kølby,799
+Erik,Zeus,801
+Frøken Kristine,Zeus,801
+Erik,Frøken Kristine,801
+Erik,Margrete,802
+Margrete,tlun,804
+Erik,Fru Juels,808
+Margrete,Vilhelm,809
+Erik,Vilhelm,809
+Erik,Margrete,812
+Emmy,Margrete,812
+Erik,Vilhelm,813
+Erik,From,817

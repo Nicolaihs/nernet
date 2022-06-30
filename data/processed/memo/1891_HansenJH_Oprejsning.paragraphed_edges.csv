@@ -1,0 +1,106 @@
+source,target,type,weight
+Anna-Mathea,Madam Nielsen,Undirected,2
+Anna,Madam Nielsen,Undirected,1
+AnnaMathea,Johnsen,Undirected,1
+Johnsen,Peter-Olaf,Undirected,3
+Gastoni,Madam Nielsen,Undirected,1
+Anna-Mathea,Gastoni,Undirected,3
+Gud,Guds,Undirected,1
+Gud,Peter,Undirected,1
+Kierstine Johnsen,Peter,Undirected,1
+Anna-Mathea,Peter-Olaf,Undirected,4
+Hr. Martins,Jacobs,Undirected,1
+Anna-Mathea,Hr. Martins,Undirected,1
+Gastoni,Gud,Undirected,1
+Jesus,Peter-Olaf,Undirected,1
+. Hvalsø,pharm,Undirected,1
+. Hvalsø,Johnsen,Undirected,1
+Dunst,Peter-Olaf,Undirected,1
+Biscuit,Dunst,Undirected,1
+AnnaMathea,Biscuit,Undirected,1
+AnnaMathea,Peter-Olaf,Undirected,1
+Anna-Mathea,gros,Undirected,1
+F. C. Mejer,Peter-Olaf,Undirected,1
+Lund,Sørensen,Undirected,1
+Anna-Mathea,Hr. Hvalsø,Undirected,1
+Anna,Peter-Olaf,Undirected,1
+Hedemark,Plum,Undirected,2
+Anna-Mathea,Plum,Undirected,2
+Frøken Johnsen,Hedemark,Undirected,1
+Anna-Mathea,Hedemark,Undirected,2
+Anna-Mathea,Hr. Plum,Undirected,1
+Gastoni,Plum,Undirected,1
+AnnaMathea,Hr. Plum,Undirected,1
+Anna-Mathea,Hr. Michaelsen,Undirected,5
+AnnaMathea,Peter,Undirected,1
+AnnaMathea,Olaf,Undirected,1
+AnnaMathea,Hr. Michaelsen,Undirected,1
+Fick,Hr. Michaelsen,Undirected,1
+Hr. Gastoni,Hr. Plum,Undirected,2
+Boletta,Hr. Plum,Undirected,2
+Boletta,Gud,Undirected,1
+Boletta,Frøken Krakow,Undirected,1
+Boletta,Peter-Olaf,Undirected,1
+Gastoni,Peter-Olaf,Undirected,1
+Boletta,Plum,Undirected,2
+Frøken Johnsen,Gastoni,Undirected,1
+Hr. Gastoni,Mathea,Undirected,1
+Collega,Hr. Gastoni,Undirected,1
+Collega,d,Undirected,1
+Arbin,d,Undirected,2
+Anna-Mathea,Johnsen,Undirected,5
+Anna-Mathea,Hr. Gastoni,Undirected,1
+Hr. Gastoni,Hr. Michaelsen,Undirected,1
+.Landauer,Hr. Michaelsen,Undirected,1
+.Landauer,Boletta,Undirected,1
+Boletta,sorn,Undirected,1
+.,Hrr,Undirected,1
+Anna-Mathea,Sørensen,Undirected,1
+Boletta,Hr. Michaelsen,Undirected,2
+Boletta,hans,Undirected,1
+Anna-Mathea,Boletta,Undirected,2
+Gud,Mathea,Undirected,1
+Eckstein,v. Pfeil,Undirected,1
+Anna Mathea,Anna.,Undirected,1
+Anna-Mathea,snevre,Undirected,1
+Eckstein,Lieutenanten,Undirected,2
+Aisteren,Zeus,Undirected,1
+Anna-Mathea,Heinrich Laubes,Undirected,1
+Anna-Mathea,ban,Undirected,1
+Mathea,Uhlenhorst,Undirected,1
+Færck,Johnsen,Undirected,1
+Beck,Principal,Undirected,1
+Johnsen,Madam Johnsen,Undirected,2
+Anna-Mathea,Madam Johnsen,Undirected,1
+Boletta,Johnsen,Undirected,1
+Hr. Michaelsen,Johnsen,Undirected,2
+Færck,Hvalsø,Undirected,2
+Anna-Mathea,PeterOlaf,Undirected,2
+Anna-Mathea,Gud,Undirected,1
+Hr. Michaelsen,Olaf,Undirected,1
+Anna,Caleche,Undirected,1
+Anna,Michaelsen,Undirected,1
+AnnaMathea,Gud,Undirected,1
+Mathea,Peter-Olaf,Undirected,1
+Anna-Mathea,Aphrodites,Undirected,1
+Anna-Mathea,Guano,Undirected,1
+Hr. Færck,Johnsen,Undirected,1
+Hr. Færck,Hr. Michaelsen,Undirected,1
+Michael,PeterOlaf,Undirected,1
+Frøken Johnsen,Johan,Undirected,1
+Anna-Mathea,Hr. Martin,Undirected,1
+Frøken Johnsen,Johan Martin,Undirected,1
+Per,Povl,Undirected,1
+Brockhorst,Heldmuth Gastoni,Undirected,1
+Franciska,Michaelsen,Undirected,1
+Anna-Mathea,Frøhen Ovesen,Undirected,1
+Frøhen Ovesen,noh,Undirected,1
+Tralala,noh,Undirected,1
+Anna-Mathea,—,Undirected,2
+Anna-Mathea,Hans,Undirected,1
+Hr. Martin,Hr. Michaelsen,Undirected,1
+Franciska,Peter-Olaf,Undirected,1
+Franciska,Gud,Undirected,1
+Johan,raabe,Undirected,1
+Johan Martin,raabe,Undirected,1
+Anna-Mathea,Johan Martin,Undirected,1

@@ -1,0 +1,215 @@
+source,target,type,weight
+Jens Bies,bohave,Undirected,1
+Jens Bie,Jens Bies,Undirected,1
+Bugge,hans,Undirected,1
+Bugge,Gud,Undirected,2
+Bie,Karl Johan,Undirected,1
+Bie,tul,Undirected,1
+Bie,domino,Undirected,1
+Bendiksen,Rynning,Undirected,1
+Bie,Moen,Undirected,12
+Gunnar Moen,Moen,Undirected,1
+Gunnar Moen,Hans Bruu,Undirected,1
+Bruu,Moen,Undirected,8
+Bie,Bruu,Undirected,5
+hum,jasaa,Undirected,1
+Bruu,mukked,Undirected,1
+Moen,naa Bruu,Undirected,1
+Moen,Petersen,Undirected,3
+maur,maurvei,Undirected,1
+Kjærka,hytta,Undirected,1
+Hov,Kjærka,Undirected,2
+Irgens,Moen,Undirected,4
+Hybert,Moen,Undirected,3
+Moen,kridta næsa,Undirected,1
+hans,kridta næsa,Undirected,1
+Bie,Irgens,Undirected,4
+Irgens,getl,Undirected,1
+getl,jagu,Undirected,1
+Hov,jagu,Undirected,2
+Hov,Irgens,Undirected,13
+Gud,Irgens,Undirected,3
+Hov,Moen,Undirected,2
+Bruu,Gud,Undirected,1
+Haugaard,Irgens,Undirected,1
+isommer,jagu,Undirected,1
+Bruu,von,Undirected,1
+Haugaard,Moen,Undirected,3
+Moen,bjella,Undirected,1
+Bie,bjella,Undirected,1
+Jørgen Hataas,Moen,Undirected,1
+Gud,Moen,Undirected,3
+Gud,Johnsen,Undirected,1
+Hataas,Johnsen,Undirected,1
+Lange,Opi Kjærka,Undirected,1
+Kjærka,Lange,Undirected,2
+Bruu,Lange,Undirected,9
+Bruu,Nansen,Undirected,5
+Nansen,beis,Undirected,1
+Hataas,beis,Undirected,1
+Bugge,Kjærka,Undirected,1
+Haugaard,hans,Undirected,3
+Bie,Haugaard,Undirected,3
+Haugaard,Vangenstein,Undirected,2
+Bie,sløife,Undirected,1
+Haugaard,sløife,Undirected,1
+Bie,hans,Undirected,1
+Haugaard,sløifen,Undirected,1
+Karl Johansgade,sløifen,Undirected,1
+Petersen,jagu,Undirected,1
+Lange,Petersen,Undirected,6
+Lange,Moen,Undirected,6
+Bruu,Hataas,Undirected,1
+Hataas,Petersen,Undirected,1
+Petersen,stormlo,Undirected,1
+Bruu,Petersen,Undirected,3
+Neigu,lel,Undirected,1
+Haugaard,Petersen,Undirected,2
+Lange,jagu,Undirected,1
+Moen,Nansen,Undirected,4
+Nansen,frøken Aall,Undirected,1
+Bruu,frøken Aall,Undirected,1
+Nansen,gutterl,Undirected,1
+Haugaard,Hov,Undirected,1
+Bruu,Haugaard,Undirected,1
+Moen,Vangenstein,Undirected,3
+Vangenstein,hode,Undirected,1
+Hov,Lange,Undirected,3
+Gokveld dal,gokveld dal,Undirected,1
+Hansen,kjelderen,Undirected,1
+Hansen,Moen,Undirected,1
+Bie,Vangenstein,Undirected,2
+Bie,Jagu,Undirected,2
+Gud,Vangenstein,Undirected,7
+Ibsen,Vangenstein,Undirected,1
+Bie,Ibsen,Undirected,1
+Bie,jagu,Undirected,2
+Jagu,Nansen,Undirected,1
+Bie,Johnsen,Undirected,2
+Jesus,Moen,Undirected,1
+Hov,neil,Undirected,1
+Nansen,Nilsen,Undirected,1
+Lange,Nansen,Undirected,1
+John,Lange,Undirected,1
+Johnsen,Lange,Undirected,7
+John,Johnsen,Undirected,2
+Bruu,kjærka,Undirected,1
+Jagu,gæli,Undirected,1
+Bie,vivil,Undirected,1
+Bie,Lange,Undirected,4
+Bie,Hov,Undirected,2
+dan,jagu,Undirected,1
+Gud,jagu,Undirected,2
+Bruu,Hans Bruu,Undirected,1
+Bie,Gud,Undirected,2
+Moen,jagu,Undirected,1
+Vangenstein,jagu,Undirected,1
+Bruu,Kjærka,Undirected,1
+Kjærka,Moen,Undirected,3
+dan,van,Undirected,1
+Bie,Nansen,Undirected,6
+jagu,naa lel,Undirected,1
+Nansen,naa lel,Undirected,1
+Haugaard,Nansen,Undirected,2
+Gomorn,Nansen,Undirected,1
+Gomorn,Haugaard,Undirected,1
+Jasaa,jasaa,Undirected,1
+Haugaard,jasaa,Undirected,1
+Jørgen,Lange,Undirected,2
+Bruu,jagu,Undirected,1
+Jørgen,Langaker,Undirected,1
+Nansen,graaveir,Undirected,1
+Lange,Vesle-Jørgen,Undirected,2
+Gud,Vesle-Jørgen,Undirected,1
+Hov,Johnsen,Undirected,2
+Lange,Vangenstein,Undirected,1
+Vangenstein,Vesle-Jørgen,Undirected,3
+-Bruu,Vangenstein,Undirected,1
+Bruu,Vangenstein,Undirected,1
+Gud,Sverdrup,Undirected,1
+Bie,Jørgen,Undirected,1
+Langaker,Lange,Undirected,1
+Kjærka,Langaker,Undirected,1
+Nansen-hadde,Petersen,Undirected,1
+Langaker,Vesle-Jørgen,Undirected,1
+Vesle-Jørgen,storlo de,Undirected,1
+Bruu,Irgens,Undirected,2
+Kjærka,Vangenstein,Undirected,1
+Jørgen stakkar,Vangenstein,Undirected,1
+Søyland,Vangenstein,Undirected,1
+Søyland,Vesle-Jørgen,Undirected,1
+Johnsen,Vesle-Jørgen,Undirected,2
+Bruu,lal,Undirected,1
+Lal lal,Nansen,Undirected,1
+Lal lal,Lange,Undirected,1
+Jøs,Sven Søyland,Undirected,1
+Sven,Sven Søyland,Undirected,1
+Sven,Søyland,Undirected,1
+Lal,lal,Undirected,1
+Irgens,Jagu,Undirected,1
+Irgens,storlo,Undirected,1
+Johnsen,sjø,Undirected,1
+Gud,Petersen,Undirected,1
+Gud,Nansen,Undirected,2
+Nansen,viSøylandl,Undirected,1
+Lange,viSøylandl,Undirected,1
+Lange,Søyland,Undirected,1
+Søyland,ivei,Undirected,1
+Nansen,ivei,Undirected,1
+Langaker,Vangenstein,Undirected,2
+Nansen,Søyland,Undirected,2
+Gud,Søyland,Undirected,1
+Bruu,Johnsen,Undirected,1
+Petersen,glasse,Undirected,1
+Bruu,glasse,Undirected,1
+Bruu,Skaal,Undirected,1
+Søyland,Vesle-Jørgen hopped,Undirected,1
+Irgens,Vesle-Jørgen hopped,Undirected,1
+Johnsen,Petersen,Undirected,1
+Kjærka,Nansen,Undirected,3
+Nansen,Petersen,Undirected,5
+Nansen,Vangenstein,Undirected,1
+Bruu,John-,Undirected,1
+H sen,John-,Undirected,1
+H Søyland,H sen,Undirected,1
+Hov,Nansen,Undirected,2
+Irgens,Nansen,Undirected,2
+Gud,Hov,Undirected,1
+Anna,Nansen,Undirected,2
+Gud,Jørgen,Undirected,2
+Jørgen,Nansen,Undirected,1
+Nansen,sola,Undirected,1
+Johnsen,Søyland,Undirected,1
+Søyland,VesleJørgen,Undirected,1
+Irgens,VesleJørgen,Undirected,1
+Irgens,Vangenstein,Undirected,4
+Langaker,Moen,Undirected,2
+Petersen,fatter,Undirected,1
+Bruu,fatter,Undirected,1
+Bruu,Vesle-Jørgen,Undirected,2
+Jørgen,Petersen,Undirected,1
+Gud,Lange,Undirected,1
+Hov,Vangenstein,Undirected,1
+Gud,Kjærka,Undirected,2
+Moen,kjelderen,Undirected,1
+Johnsen,Middelthun,Undirected,1
+Gud,Middelthun,Undirected,1
+Gud,Hys,Undirected,1
+Hys,Lange,Undirected,1
+Haugaard,Johnsen,Undirected,1
+Haugaard,jagu,Undirected,1
+Irgens,Kjærka,Undirected,1
+Stakkar,jagu,Undirected,1
+Andresen,Hov,Undirected,1
+Andresen,Irgens,Undirected,1
+Irgens,Lange,Undirected,1
+Irgens,Stakkar,Undirected,1
+Irgens,kjelderen,Undirected,1
+Hov,noe,Undirected,1
+Andresen,Gokveld,Undirected,1
+Hov,Middelthun,Undirected,1
+Irgens,Langaker,Undirected,1
+Langaker,didop,Undirected,1
+Hov,Langaker,Undirected,1
+Irgens,hans,Undirected,2
+Irgens,ropte,Undirected,1

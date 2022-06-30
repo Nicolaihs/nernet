@@ -1,0 +1,102 @@
+source,target,type,weight
+Hauchs,Holbergs,Undirected,1
+Hauchs,Ingemanns,Undirected,1
+Ingemanns,Oehlenschlægers,Undirected,1
+Blichers,Oehlenschlægers,Undirected,1
+Blichers,Carit Etlars,Undirected,1
+Carit Etlars,Kierkegaards,Undirected,1
+Sirtses,orkarlens,Undirected,1
+Sirtses,Trine,Undirected,1
+Jomfru Grønning,Trine,Undirected,2
+Herrens,Trine,Undirected,1
+Erik Vaage,Frøken Aase,Undirected,1
+Grønning,Trine,Undirected,2
+Abrahams,Bodil Marie,Undirected,1
+Grønning,Gud,Undirected,2
+Frøken Aase,Trine,Undirected,1
+Erik Vaage,Trine,Undirected,1
+Grønning,Vinge,Undirected,7
+Grønning,Hr. Vinges,Undirected,1
+Aase,Grønning,Undirected,15
+Erik,Vinge,Undirected,117
+Erik,Kritici,Undirected,1
+Titians,Vinge,Undirected,1
+Gud,Titians,Undirected,1
+Gud,Vinge,Undirected,1
+Erik,Ørsinggaard,Undirected,1
+Vinge,Ørsinggaard,Undirected,1
+Erik,Goethe,Undirected,1
+Goethe,Vinge,Undirected,1
+Vinge,dann wahr,Undirected,1
+Per,Povl,Undirected,4
+Aase,Karen,Undirected,1
+Erik,Grønning,Undirected,11
+Erik,Thor,Undirected,1
+Axel,Erik,Undirected,1
+Axel,Valborg,Undirected,1
+Aaen,Aase,Undirected,1
+Aase,Erik,Undirected,66
+Aase Vinges,Erik,Undirected,1
+Aase,Vinge,Undirected,14
+Erik,har,Undirected,1
+Gud,Søren-Kierkegaard,Undirected,1
+Barndorms,Erik,Undirected,1
+Adam,Eva,Undirected,1
+Vinge,hans,Undirected,1
+Erik,hans,Undirected,1
+Erik,Rigi,Undirected,1
+Erik,Povl,Undirected,1
+Erik,Gud,Undirected,3
+Grønning,Petersen,Undirected,1
+Kejseren,daglys,Undirected,1
+Gud,Kejseren,Undirected,1
+Darwin,Goethe,Undirected,1
+Bedstemoders,Farmoder,Undirected,1
+Aase,Musset,Undirected,1
+Aase,Hvids,Undirected,1
+Grønning,Hvids,Undirected,1
+Erik,kannibalsk,Undirected,2
+Erik,Hans,Undirected,1
+Aase,Eirik,Undirected,1
+Aaget,Aase,Undirected,1
+Aase,Christiane,Undirected,3
+Aase,Jeppe,Undirected,1
+Erik,Jeppe,Undirected,1
+Christiane,Erik,Undirected,2
+Erik,Valdemar Fugl,Undirected,2
+Aase,Valdemar,Undirected,2
+Aase,Minnas,Undirected,1
+Aase,Minna,Undirected,26
+Erik,Minna,Undirected,18
+Grønning,Minna,Undirected,1
+Minna,Vinge,Undirected,2
+Blicher,Grønning,Undirected,1
+Erik,Valdemar,Undirected,3
+Herman Bang,Minna,Undirected,1
+Kjærters,Minna,Undirected,1
+Aase,Erik Vaage,Undirected,1
+Graad,Minna,Undirected,1
+Aase,Graad,Undirected,1
+Karlsvognen,Minna,Undirected,1
+Aase,Valdemar Fugl,Undirected,1
+Erik,Frøken Minna,Undirected,1
+Minna,capo,Undirected,1
+Minna,Valdemar,Undirected,1
+Gud,Minna,Undirected,1
+Erik,lilles,Undirected,1
+Aase,Per Sonne,Undirected,1
+Minna,Per Sonne,Undirected,1
+Hans,Minna,Undirected,1
+Hans,Pasop,Undirected,1
+Erik,Erik —,Undirected,1
+Faust,Ruhms,Undirected,1
+Erik,Graad,Undirected,1
+Qvos,Rubens,Undirected,1
+Neptun,Qvos,Undirected,1
+Erik,kjære,Undirected,1
+Uetliberg,Vaage,Undirected,1
+Aase,Helved,Undirected,1
+Aase,Lars Avlskarl,Undirected,1
+Lars Avlskarl,Trine,Undirected,1
+Erik,Trine,Undirected,1
+Aase,j’eg,Undirected,1

@@ -1,0 +1,1113 @@
+source,target,type,weight
+Gud,Guds,Undirected,1
+Clarisse,banlys,Undirected,1
+Claudio,Greven,Undirected,1
+Aland,Signor,Undirected,1
+Clarisse,Claudio,Undirected,2
+Antonio,eg,Undirected,1
+Commandocn,Seilem,Undirected,1
+Antonio,Einthio,Undirected,1
+Jsandhed,Rosa,Undirected,1
+Cinthio,oni,Undirected,1
+Cinthio,Paolo,Undirected,1
+Antonio,Carlo,Undirected,3
+Antonio,Einthw,Undirected,1
+Altaverde,Einthw,Undirected,1
+Altaverde,stet,Undirected,1
+Antonio,stet,Undirected,1
+Antonio,Rosa,Undirected,14
+Antonio,Cinthio,Undirected,4
+Antonio,saagar,Undirected,1
+Antonio,bravo,Undirected,1
+Antonio,delle,Undirected,1
+Antonio,un,Undirected,1
+Antonio,Clemens,Undirected,49
+Donato saagodt,Lodoviko,Undirected,1
+Donato saagodt,Gud,Undirected,1
+Gud,sfal,Undirected,2
+Donato,sfal,Undirected,1
+Donato,Lodoviko,Undirected,1
+Claudio,Signora,Undirected,1
+Clarisse,Greven,Undirected,1
+Claudio,Signor,Undirected,2
+Greven,Veronika,Undirected,1
+Clarisse,Veronika,Undirected,2
+Clarisse,Lodoviko,Undirected,2
+Lars,Zitren,Undirected,1
+Lodoviko,Veronika,Undirected,13
+Lodoviko,hnn,Undirected,1
+Fiamette,Zigeunere,Undirected,1
+Fiametta,Zigeunere,Undirected,1
+Clarissa,Fiametta,Undirected,1
+Antonio,Lodoviko,Undirected,53
+Antonio,Donata,Undirected,2
+Antonio,Donato,Undirected,3
+Antonio,Lodovsfo,Undirected,1
+Antonio,Clarisse,Undirected,2
+Lndoviko,Lodoviko,Undirected,1
+Lodoviko,bandlys,Undirected,2
+Antonio,Lodovrko,Undirected,1
+Clemens,Lodoviko,Undirected,6
+Clemens,Serano,Undirected,13
+Antonio,Grev Seranos,Undirected,1
+Grev Seranos,asbryd,Undirected,1
+Clemens,Signor,Undirected,4
+Antonio,ester,Undirected,1
+Antonio,Gud,Undirected,18
+Ludoviko,Lødoviko,Undirected,1
+Antonio,Lødoviko,Undirected,3
+Antonio,Heida,Undirected,1
+Clemens,tilkasteöc,Undirected,1
+Lodoviko,Signor,Undirected,5
+Antonio,hnn,Undirected,1
+Lodoviko,Serano,Undirected,11
+Anfonio,Serano,Undirected,2
+Anfonio,Lodoviko,Undirected,1
+Antonio,Serano,Undirected,34
+Gud,eg,Undirected,1
+Clemens,seile,Undirected,1
+Antonio,Ludoviko,Undirected,22
+Fernata,Ludoviko,Undirected,3
+Fernata,Serano,Undirected,5
+Ludoviko,Signor,Undirected,5
+Ludoviko,Serano,Undirected,1
+Antonio,Signor,Undirected,26
+Antonio,Fiametta,Undirected,8
+Fernata,Fiametta,Undirected,3
+Donato,Fernata,Undirected,2
+Antonio,Sebastion,Undirected,5
+Alfonso,Sebastion,Undirected,2
+Alfonso,Antonio,Undirected,80
+Antonio,Gaudi,Undirected,9
+Bellachini,Gaudi,Undirected,1
+Antonio,Gandi,Undirected,3
+Antonio,Fernata,Undirected,4
+Antonio,Gaudi knn,Undirected,1
+Gaudi,Ludoviko,Undirected,6
+Ludoviko,Signor Gaudi,Undirected,1
+Fiametta,Ludoviko,Undirected,3
+Fiametta,Gaudi,Undirected,23
+Ludoviko,l Faders,Undirected,1
+Gaudi,Lodoviko,Undirected,19
+Alfonso,Fiametta,Undirected,2
+Antonio,Sebastian,Undirected,5
+Alfonso,ilke,Undirected,1
+Clemens,Sebastion,Undirected,7
+Antonio,liot,Undirected,2
+Karlo,Rosa,Undirected,1
+Cinthio,Karlo,Undirected,1
+Clemens,Rosa,Undirected,1
+Altaverde,Antonio,Undirected,3
+Altaverde,Clemens,Undirected,1
+Gaudi,Signor,Undirected,6
+Gud,Signor,Undirected,3
+Lodoviko,Signor Gaudi,Undirected,1
+Hans,Lodoviko,Undirected,1
+Fiametta,Signor,Undirected,3
+Amsclmo,Pater Benedictes,Undirected,1
+Pateren,Signor,Undirected,1
+Fernata,Gaudi,Undirected,1
+Pater Benedictus,Priorindens Zelle,Undirected,1
+Pater Benedictus,Zigcuncrne,Undirected,1
+Fiametta,Maria —,Undirected,1
+Gaudi,Maria,Undirected,3
+Gaudi,Maria itale,Undirected,1
+Greven,Marie,Undirected,1
+Fiametta,Lødoviko,Undirected,4
+Gaudi,Lødoviko,Undirected,1
+Gaudi,Gud,Undirected,1
+Gud,Lødoviko,Undirected,1
+Fiametta,Marie,Undirected,1
+Fiametta,Lodoviko,Undirected,13
+Fiametta,Liensa,Undirected,1
+Fiametta,Fiolanta,Undirected,7
+Fiametta,farbavsct,Undirected,1
+Fiametta,Sky,Undirected,2
+Fiametta kjørte,Gaudi,Undirected,1
+Fiametta kjørte,Lodoviko,Undirected,1
+Lodoviko,rakfe,Undirected,1
+Antonio,rakfe,Undirected,1
+Altaverda,Clemens,Undirected,1
+Lodoviko,Zigeuneren Batesto,Undirected,1
+Antonio,Zigeuneren Batesto,Undirected,1
+Antonio,Batesto,Undirected,9
+Batesto,Lodoviko,Undirected,2
+Batesto,Fiametta,Undirected,4
+Fiametta,Grev Fernata,Undirected,1
+Antonio,Grev Fernata,Undirected,1
+Fiametta,thiDonato,Undirected,1
+Serano,Zigeuneren,Undirected,10
+Antonio,Zigeuneren,Undirected,12
+Fiametta,Veronika,Undirected,3
+Antonio,Veronika,Undirected,4
+Fiametta,huu,Undirected,1
+Batesto,huu,Undirected,1
+Antonio,rasf,Undirected,1
+Donata,Serano,Undirected,1
+Donata,Fernata,Undirected,1
+Veronika,Zigeuneren,Undirected,4
+Veronika,diZse,Undirected,1
+Gemal sfal,Signora,Undirected,1
+Gemal sfal,Veronika,Undirected,1
+Brysf,Lodoviko,Undirected,1
+Serano,seire,Undirected,1
+Batesto,Serano,Undirected,9
+Batesto,Donato,Undirected,1
+Donato,Serano,Undirected,1
+Lodoviko,Signor Belachino,Undirected,2
+Gud,Lodoviko,Undirected,3
+Antonia,Lodoviko,Undirected,1
+Greve,Lodoviko,Undirected,1
+Lodovilo,Serano,Undirected,1
+Greven,Lodoviko,Undirected,2
+Dia,Serano,Undirected,1
+Lodoviko,SeranoS,Undirected,1
+Gud,Veronika,Undirected,2
+Lorentso,Serano,Undirected,2
+Antonio,Antonio reisfe,Undirected,1
+Antonio reisfe,Lodoviko,Undirected,1
+Batesto,Zigeuneren,Undirected,1
+Serano,Veronika,Undirected,3
+Marv,Serano,Undirected,1
+Antonio leende,Veronika,Undirected,1
+Seranø,Veronika,Undirected,1
+Antonio,Rolighed,Undirected,1
+Batesto,Zigeuneren faug,Undirected,1
+Dolken,Serano,Undirected,1
+Dolken,Zigeuneren,Undirected,1
+Antonio Serano,Veronika,Undirected,1
+Antonio Serano,Tasfe,Undirected,1
+Antonio,Dolken,Undirected,3
+Batesto,Dolken,Undirected,1
+Lodoviko,reen,Undirected,1
+Serano,reen,Undirected,1
+Greve af Serano,Lorcnsio,Undirected,1
+Giacomo forstenet,Marko,Undirected,1
+Giacomo,Signor,Undirected,1
+Laurenzio,Marko,Undirected,2
+Joseph,Marko,Undirected,2
+Antonio,Marko,Undirected,1
+Antonio,Giacomv,Undirected,1
+Feliciatas,hans Emicnse,Undirected,1
+Antonio,Lanrenzio,Undirected,2
+Giacomo,Marko,Undirected,1
+Fisfer,Laurenzio,Undirected,1
+Arnæ,Veronika,Undirected,1
+Gaudi,taus,Undirected,1
+Gaudi,Lodovikø,Undirected,2
+Signor,eb kjær,Undirected,1
+eb kjær,kjær,Undirected,1
+Fictmetta,Gaudi,Undirected,1
+Fictmetta,Lodoviko,Undirected,1
+Comtesse,Fiametta,Undirected,1
+Gaudi,Lodoviko smaalo,Undirected,1
+Herr Gaudi,Lodoviko,Undirected,1
+Comtesse Fiametfa,Fiametta,Undirected,1
+Lodoviko,tysfe,Undirected,1
+Signor Gaudi,tysfe,Undirected,1
+Elsfer Fiametfa,Signor Gaudi,Undirected,1
+Gauoi,Lodoviko,Undirected,1
+Lodoviko,mcd,Undirected,1
+Grev Belachina,Serano,Undirected,1
+Gaudi,Veronika,Undirected,2
+Born,Fiolanta,Undirected,1
+Lodoviko,Zigeuneren,Undirected,1
+Batesto,Veronika,Undirected,1
+Amalie,Möller,Undirected,1
+Möller,Sebnndr,Undirected,1
+Samialcn,Veronika,Undirected,1
+Papa,Veronika,Undirected,2
+Veronika,Veronika sfilles,Undirected,1
+Gud,NeroLodovika,Undirected,1
+Lødoviko,Veronika,Undirected,1
+Gaudi,hnn,Undirected,1
+Gud,hnn,Undirected,1
+Bien,nei,Undirected,1
+Gaudi,nei,Undirected,1
+Asskcd,Lodoviko,Undirected,1
+Asskcd,Herr Gaudi,Undirected,1
+Gaudi,as,Undirected,1
+Lodoviko,mcv Gaudi,Undirected,1
+Fiametta,Gemal,Undirected,1
+Gemal,Gud,Undirected,1
+Gaudi,nien,Undirected,2
+Gaudi,Greven,Undirected,1
+Fiametta,Signor Gaudi,Undirected,1
+Ieg,Signor Gaudi,Undirected,1
+Gaudi,Ieg,Undirected,2
+Gaudi,Wein,Undirected,1
+Amalie,Müller,Undirected,1
+Gaudi,varz,Undirected,1
+Alfonso,Pater,Undirected,1
+Antonio,Laurensio,Undirected,1
+Laurensio,jø,Undirected,1
+Franziska,Laurensio,Undirected,1
+Alfvnsos,Antonio,Undirected,2
+,Benedickus,Undirected,1
+,Alfonso,Undirected,1
+Alfonso,Franziska,Undirected,2
+Franziska,Prinds Nikanor,Undirected,1
+Alfønso,Signoren,Undirected,1
+Alfonso,Signoren,Undirected,1
+Alfonso,Lodoviko,Undirected,2
+Antonio,Bellachini,Undirected,1
+Antonio,Greve,Undirected,1
+Antonio,Lodoviko meodelte,Undirected,1
+Antønio,Lodoviko,Undirected,1
+Antønio,Violantas,Undirected,1
+Fiametta,Violanta,Undirected,1
+Antønio,Fiametta,Undirected,1
+JeL,Pateren,Undirected,1
+Michael,Pietro,Undirected,1
+Franziska,Hellige,Undirected,1
+Hellige,Jomsru,Undirected,1
+Gud,Pietro,Undirected,5
+Franziska,Karl,Undirected,1
+Brumbasse Lanrenzio,Laurenzio,Undirected,1
+Brumbasse Lanrenzio,Lanrenzio,Undirected,1
+Alfonso,Pater Amselmo,Undirected,2
+Pater Amselmo,Serano,Undirected,1
+Alfonso,Laurenzio,Undirected,10
+Alfonso,Lanrenzio,Undirected,2
+Alfonso,Pietro,Undirected,6
+Antonio,Pietro,Undirected,24
+Antonio,ei,Undirected,1
+Benediktus,Karl,Undirected,1
+Karl,Laurenzio,Undirected,1
+Emienses,Laurenzio,Undirected,1
+Alfonso,Emienses,Undirected,1
+Nero,Nikolo,Undirected,3
+Antonio,Violanta,Undirected,1
+Joseph,Sebastian,Undirected,1
+Joseph,thl Joseph,Undirected,1
+Pater Amselmo,Pater Benediklus,Undirected,1
+Benediklus,vg,Undirected,1
+Karl,vg,Undirected,1
+Alfonso,Karl,Undirected,1
+Amfelmo,Pater Bcnediktns,Undirected,1
+Alfonso,Benediktus,Undirected,1
+Alfonso,jder,Undirected,1
+Emiense,hnn,Undirected,1
+Alfonso,Laurenzio ilte,Undirected,1
+Heida,Pietro,Undirected,1
+Patereff,Pietro vantro,Undirected,1
+Franziska,Pietro,Undirected,1
+Gnd,Pietro,Undirected,1
+Comtessen,Pietro,Undirected,1
+Comtesse,Franziska,Undirected,1
+Pietro,Plcicfader,Undirected,1
+Jordon,Karl,Undirected,2
+Antonio,Karl,Undirected,2
+Comtesse Aurelie,Corsika,Undirected,1
+Comtesse Aurelie,Jordon,Undirected,3
+Carlo,Rosa,Undirected,2
+Rosa,Serano,Undirected,2
+Antonio,Pietrø,Undirected,1
+Carlo,Pietrø,Undirected,1
+Aurelie,Rosa,Undirected,2
+Pater Benediktus,Pietro,Undirected,1
+Fransiska,Karl,Undirected,1
+Alfonso,Fransiska,Undirected,1
+Antonio,hisf,Undirected,1
+Antonio,Benediktus,Undirected,1
+Antonio,Laurenzio,Undirected,8
+Hans Haab,Laurenzio,Undirected,1
+Alfonso,Fisfer,Undirected,1
+Antonio,Fisfer,Undirected,1
+Antonio,Uhret,Undirected,1
+Felicitas,Uhret,Undirected,1
+Emiense,Laurenzio,Undirected,1
+Fransiaka,Gud,Undirected,1
+Gud,Sophaen,Undirected,1
+Sophaen,pva,Undirected,1
+Fransiska,Taus,Undirected,1
+Anna,Sebastian,Undirected,1
+Anna,Theresia,Undirected,2
+Antonio,Bei,Undirected,2
+Antonio,Nikolo,Undirected,3
+Fiolanta,Nikolo,Undirected,1
+Nero,nuselv,Undirected,1
+Antonio,nuselv,Undirected,1
+Høvedsmandcn,Theresia,Undirected,1
+Høvedsmandcn,slreg,Undirected,1
+Nikolo,slreg,Undirected,1
+Fiolanta,Zaide,Undirected,2
+Antonio,Fiolanta,Undirected,18
+Batesto,Nero,Undirected,1
+Antonio Fiolantas,Fiolanta,Undirected,1
+Fiametta,Fiolania,Undirected,1
+Nikolo bleve,Sebastian,Undirected,1
+Antonio,Fransiska,Undirected,2
+Alfonso,Laurenzw,Undirected,1
+Franziska,Laurenzio,Undirected,1
+Antonio,Franziska,Undirected,3
+Franziska,Gud,Undirected,2
+Alfonso,Nikolo,Undirected,1
+Franziska,Nikanor,Undirected,1
+Fiolanta,Franziska,Undirected,1
+Alfonso,Emiense,Undirected,1
+Alfonso,Prmscn,Undirected,1
+Laurenzio,saagar,Undirected,2
+Abbedissens,Antonio,Undirected,1
+Comtesse Franziska Felicitias,Nikanor,Undirected,1
+Antonio,Comtesse Castiglino,Undirected,1
+Antonio,Prinds Nikanor,Undirected,1
+Comtesse Castiglino,Laurenzio,Undirected,1
+Antonio,Comtessen,Undirected,8
+Emiense,Pietro,Undirected,1
+Comtesse Aurelie,Pietroes,Undirected,1
+Emiensa,Nikanor,Undirected,2
+Bianka,Gud,Undirected,3
+Gud,Seppi,Undirected,1
+Seppi,hnn,Undirected,1
+Seppi sfar,hnn,Undirected,1
+Bianka,Seppi,Undirected,24
+Bandit,Seppi,Undirected,1
+Signor,rasf Seppi,Undirected,1
+Bianka,Signor,Undirected,9
+Seppi,Signor,Undirected,9
+Bianka,Herren,Undirected,1
+Jordon,Nikanor,Undirected,1
+Jordon,Signor,Undirected,2
+Bianka,Jordon,Undirected,1
+Bianka,Jakobo,Undirected,1
+Jakobo,Jordon,Undirected,18
+Jakobo,Signor,Undirected,4
+Comtesse,Jordon,Undirected,3
+Corsika,Jordon,Undirected,1
+Aurelic resignert,Gud,Undirected,1
+Aurelie,Jordon,Undirected,2
+Claudio,Jakobo,Undirected,1
+Jakobo,Seppi,Undirected,2
+Claudio,Seppi,Undirected,4
+Georg,Seppi,Undirected,1
+Bianka,Signora,Undirected,2
+Signora,hahaha,Undirected,1
+Claudio,Sebastion,Undirected,1
+Jordon,Seppi,Undirected,2
+Jordon,Signoren,Undirected,1
+Antonio,Seppi,Undirected,9
+Antonio,Meier,Undirected,5
+Antonio,Tasfe,Undirected,1
+Jomfru Bianka,Meier,Undirected,1
+Seppi,eftersua Bianka,Undirected,1
+Bianka,Bien,Undirected,1
+Alfonso,Signor,Undirected,6
+Antonio,Jordon,Undirected,21
+Jakobo,Sebastion,Undirected,1
+Comtessen,Jakobo,Undirected,4
+Antonio,Øgfaa,Undirected,1
+Fiolanta,Øgfaa,Undirected,1
+Fiolanta,saagar,Undirected,1
+Fiolanta,l,Undirected,1
+Comtesse Aurelie,Jakobo,Undirected,2
+Jakobo,Meier,Undirected,1
+Meier,disfe,Undirected,1
+Jakobo,disfe,Undirected,1
+Antonio,Comtesse,Undirected,3
+Jacobo,Meier,Undirected,1
+Meier,Nn,Undirected,1
+Jordon,Nn,Undirected,1
+Antonio fom,Karl,Undirected,1
+Antonio fom,Fiolanta,Undirected,1
+Jordon,Pietro,Undirected,4
+Fiolanta,Pietro,Undirected,11
+Alfonso,Jakobo,Undirected,8
+Antonio,Jakobo,Undirected,17
+Bianka,Meier,Undirected,3
+Jordon,Meier,Undirected,2
+Meier,Seppi,Undirected,1
+Antonio,Bianka,Undirected,9
+Antonio,Comtesse Aurelie,Undirected,1
+Hain,Jordon,Undirected,1
+Jakobo,Pietro,Undirected,1
+Nikanor,Pietro,Undirected,5
+Eastiglino,veddlev Antonio,Undirected,1
+Alsonso,Pietro,Undirected,1
+Jakobo,Karl,Undirected,1
+Karl,Pietro,Undirected,1
+Antonio,Aurelie,Undirected,54
+Comtesse Aurelie,Pietro,Undirected,1
+Antonio,sigPietro,Undirected,1
+Comtessen,sigPietro,Undirected,1
+Aurelie,Pietro,Undirected,20
+Aurelie,Elsfede,Undirected,2
+Antonio,Elsfede,Undirected,3
+Antonio,paany,Undirected,1
+Anrelic,Comtessen,Undirected,1
+Anrelic,Antonio,Undirected,1
+Corsika,Pietro,Undirected,2
+Aurelie,Gud,Undirected,5
+Comtessen,Corfika,Undirected,1
+Corfika,Jordon,Undirected,1
+Aurelie hvidskede,Pietro,Undirected,1
+Fransiska,Pietro,Undirected,1
+Antonio,Nikanor,Undirected,8
+Aurelie,Nikanor,Undirected,3
+Grev Castiglino,Jakobo,Undirected,1
+Aurelie,Comtessen,Undirected,1
+Aurelie,Meier,Undirected,2
+Aurelie,Bianka,Undirected,3
+Meier,Signor,Undirected,1
+Pater Hyazinth,Seppi,Undirected,1
+Pater Amselmo,Pater Hyazinth,Undirected,1
+Antonio,Pater Amselmo,Undirected,1
+Pater,Signor,Undirected,1
+Alfonso,Seppi,Undirected,3
+Pater,Seppi,Undirected,1
+Antonio,Pater,Undirected,2
+Antonio,Aurelie cndnn,Undirected,1
+Aurelie,Pater Hyazinth,Undirected,1
+Aurelie,Corsika,Undirected,2
+Antonio,Signor Jakobo,Undirected,1
+Antonio,Nn,Undirected,1
+Aurelics,Serano,Undirected,1
+Aurelics,Pietro,Undirected,1
+Fiolanta,Zigeunerpigcn,Undirected,1
+Fiolanta,Jakobo,Undirected,15
+Jakobo,lo Fiolanta,Undirected,1
+Pietro,nei,Undirected,1
+Zaide,Zigeunerinden,Undirected,1
+Sebastion,Zigeunerinden,Undirected,1
+Høvedsmandcn,Sebastion,Undirected,1
+Nikolo,Sebastion,Undirected,1
+Alfonso,Anfonio,Undirected,1
+Alfonfo,Sebastion,Undirected,1
+Antonio,sør Jakøbo,Undirected,1
+Jakobo,son,Undirected,1
+Jakobo,Zaimc,Undirected,1
+Antonio,Emiense,Undirected,1
+Franziskus,Jakobo,Undirected,1
+Antonio,Iakobo,Undirected,1
+Alfonso,Fiolanta,Undirected,5
+Fiolanta,Signore,Undirected,1
+FiolantaHos,Jakobo,Undirected,1
+Fiolanta,Javisf,Undirected,1
+Fiolanta,son,Undirected,2
+Fiolanta,Signor,Undirected,1
+Claudio,Fiolanta,Undirected,1
+Alfonso,Jordon,Undirected,2
+Aurelie,Fiolanta,Undirected,19
+Antonio,Officeren,Undirected,1
+Gud,Signor Antonio,Undirected,1
+Fiolanta,Gud,Undirected,3
+Pietro,Signora,Undirected,4
+Fiolanta,Signora,Undirected,3
+Pietro,son,Undirected,1
+Fiolanta,Signoracn,Undirected,2
+Aurelie,Signoracn,Undirected,1
+Gud,Signora,Undirected,2
+Gud,Jordon,Undirected,1
+Pietro,ilke,Undirected,1
+Aurelie,Taus,Undirected,1
+Pietro,Taus,Undirected,1
+Antonio“,Fiolanta,Undirected,1
+Aurelie,Signora,Undirected,1
+Fiolanta angst,Pietro,Undirected,2
+Alfonso,Claudio,Undirected,2
+Alfonso,Aurelie,Undirected,2
+Antonio Claudio,Seppi,Undirected,1
+Bianka,reisfe,Undirected,1
+Bianka,Clandio,Undirected,1
+Alfonso,Bianka,Undirected,2
+Bianka,paany,Undirected,1
+Signor,sfreg,Undirected,1
+Bianka,sfreg,Undirected,1
+Antonio,taus,Undirected,4
+Laurenzio,Signor,Undirected,4
+Jakobo,Laurenzio,Undirected,1
+Fransiska,Jakobo,Undirected,1
+Emicnsa,Gud,Undirected,1
+Emiensa,Laurenzio,Undirected,3
+Michael,sigHaha,Undirected,1
+Gud,sigHaha,Undirected,1
+Gud,Laurenzio,Undirected,2
+Gud,Nikanor,Undirected,2
+Fiolanta,Signora Aurelie,Undirected,1
+Pietro,Signora Aurelie,Undirected,1
+Antonio,Claudio,Undirected,3
+Claudio,Pietro,Undirected,1
+Claudio,Nikanor,Undirected,1
+Corsika,Signor,Undirected,1
+Bianka,Corsika,Undirected,1
+Laurenzio,Michael,Undirected,1
+Jordon,Michael,Undirected,1
+Laurenzio,Pietro,Undirected,12
+Aurelie,Laurenzio,Undirected,3
+Aurelie,Felicias,Undirected,1
+Laurenzio,Signora,Undirected,3
+Laurenzio,hnn,Undirected,1
+Laurenzio,iveiret,Undirected,1
+Ester,mørknes,Undirected,1
+Aurelie,mørknes,Undirected,1
+Ludoviko,Veronika,Undirected,2
+Aurelie,Rocella,Undirected,1
+Antonio,Rocella,Undirected,1
+Ludoviko,Sebastian,Undirected,1
+Gemal,Veronika,Undirected,1
+Gud,Ludoviko,Undirected,2
+Gaudi,Seircn,Undirected,1
+Lodoviko,Signore,Undirected,1
+Clemens,Ludoviko,Undirected,3
+Clemens,Sebastian,Undirected,2
+Antonio,Hahaha,Undirected,1
+Clemens,oni,Undirected,1
+Clemens,fom,Undirected,2
+Clemens,Emiensa,Undirected,3
+Clemens,Nikanor,Undirected,1
+Clemens,vilHan,Undirected,1
+Clemens,Sebasfian,Undirected,1
+Antonio,Castiglino,Undirected,5
+Nei,Signor,Undirected,1
+Antonio,Felicitas,Undirected,1
+Clemens,Høvidsmand,Undirected,1
+Castiglino,Signor,Undirected,1
+Aurelie,Sebastion,Undirected,1
+Antonio,Antonio traadfe,Undirected,1
+Clemens,Laurenzio,Undirected,1
+Alfonso,Clemrns,Undirected,1
+Emiensa,Pateren,Undirected,1
+Anfonio,Emiensa,Undirected,1
+Antonio,Signor Castiglino,Undirected,3
+Gud,Signor Castiglino,Undirected,1
+Antonio,Signor Ludoviko,Undirected,1
+Emicnza,Gud,Undirected,1
+Emicnza,Ludoviko,Undirected,1
+KonenHm,Signor,Undirected,1
+Emienza,Fernata,Undirected,1
+Grev Fernata,Ludoviko,Undirected,1
+Lorenzo,Signor,Undirected,1
+Comtesse Aurelie,Fiolanta,Undirected,1
+Fiametta,hnn,Undirected,1
+Fernata,Lanrenzio,Undirected,1
+Gandi,Signore,Undirected,1
+Gandi,Laurcnzio,Undirected,1
+Bianka,Ludoviko,Undirected,3
+Gandi,Ludoviko,Undirected,2
+Bianka,Seppe,Undirected,1
+Markus,Seppi,Undirected,1
+Bianka,hnn,Undirected,1
+Bianka,Markus,Undirected,6
+Markus,flet,Undirected,1
+Gud,Markus,Undirected,2
+Markus,maasfe,Undirected,1
+Bianka,maasfe,Undirected,1
+Markus,ban,Undirected,1
+Afsjham,Markus,Undirected,1
+Afsjham,Antonio,Undirected,1
+Antonio,Hnstru,Undirected,1
+Hnstru,Seppi,Undirected,1
+Seppi Toren,Sopha,Undirected,1
+Murkns,rasf,Undirected,1
+Gaulle,Ludomko,Undirected,1
+Dien,Seppi,Undirected,1
+Ludoviko,Seppi,Undirected,4
+Herren,Seppi,Undirected,1
+Ludoviko gjemmensaa,Seppi,Undirected,1
+Herrenc,Seppi,Undirected,1
+Abbedisse,Seppi,Undirected,1
+Abbedisse,Fiolanta,Undirected,1
+Lanrenzio,atman,Undirected,1
+Fiolanta,Laurenzio,Undirected,2
+Nei,nei,Undirected,1
+Signora,nei,Undirected,1
+Signor,Signora,Undirected,1
+Ludoviko,nei,Undirected,1
+Pietro,Signor Antonio,Undirected,1
+Anrelie,Antonio,Undirected,3
+Anrelie,Signora,Undirected,1
+Markus,Signor,Undirected,1
+Michael,Seppi,Undirected,1
+Markus,Seppi aabenthjertct,Undirected,1
+Gandi,Lndvmko,Undirected,1
+Gaudi,Markus,Undirected,1
+Pietro,Signor,Undirected,1
+Abedissen,Laurenzio,Undirected,1
+Abedissen,Ludoviko,Undirected,1
+Ludoviko,Pietro,Undirected,1
+Pietro,Signorer,Undirected,1
+Bianka,Laurenzio,Undirected,1
+Bianka,tu,Undirected,1
+Ludoviko,tu,Undirected,1
+Seppi,Signora,Undirected,1
+Fiametta,Signora,Undirected,1
+Seppi,Taus,Undirected,1
+Felicitas,Laurenzio,Undirected,1
+Felicitas,Fransiska,Undirected,1
+Comtesse Aurelie,Fransiska,Undirected,1
+Gaudi,Laurenzio,Undirected,1
+Aurelie,Fransiska,Undirected,3
+Antonio,Niknnor,Undirected,1
+Antonio,fprang Clandio,Undirected,1
+Antonia,iland,Undirected,1
+Antonio,seil,Undirected,1
+Clemens,hani,Undirected,1
+Antonio,hani,Undirected,1
+Antonio,nn,Undirected,2
+Clemens,nn,Undirected,1
+Clemens,Signor Castiglino,Undirected,1
+Clemens,iland,Undirected,1
+Clemens,Ynglingzn,Undirected,1
+Ynglingzn,sigAk,Undirected,1
+Hain,Signor,Undirected,1
+Karl spaar,Vesuv,Undirected,1
+Clemens,Signor Antonio,Undirected,1
+Antonio,haml,Undirected,1
+Signor,haml,Undirected,1
+Signor,Signor Antonio,Undirected,1
+Signor,rysfer,Undirected,1
+Clemens,Sven,Undirected,1
+Antonio,Corsika,Undirected,5
+Clemens,Skibeis,Undirected,1
+Clemens,Karl,Undirected,2
+Bravo,bravo,Undirected,1
+bravo,sfreg Clemens,Undirected,1
+Aurelie,Clemens,Undirected,3
+Greven,Signor,Undirected,3
+Greven,Michael,Undirected,1
+Greven,l,Undirected,1
+Anfonio,Antonio,Undirected,1
+Antonio,Bravo,Undirected,1
+Castiglino,Guiseppo,Undirected,1
+Clemens,Guiseppo,Undirected,1
+Anrelie,Clemens,Undirected,1
+Cinthio Altaverde,Clemens,Undirected,1
+Alfonso,Cinthio Altaverde,Undirected,1
+Cmthw,Sebastian,Undirected,1
+Antonio,Guiseppo,Undirected,1
+Maurice,Signore,Undirected,1
+Clemens,Signore,Undirected,1
+Clemens,Maurice,Undirected,1
+Clemens,Dolken,Undirected,1
+Joseph,Signor,Undirected,1
+Clemens,Signoraen,Undirected,2
+Signoraen,Signoreu,Undirected,1
+Clemens,Signor Cæsar,Undirected,4
+Damen,Signor,Undirected,1
+Clemens,Signora,Undirected,1
+hau,paany,Undirected,1
+Cæsar,hau,Undirected,1
+Alfonso,Cinthio,Undirected,5
+Alfonso,Ester,Undirected,1
+AntomoJeg,Clemens,Undirected,1
+AntomoJeg,Signor Cæsar,Undirected,1
+Clemens,Ganile,Undirected,1
+Ganile,sfal,Undirected,1
+Cæsar,sfal,Undirected,1
+Alfonso,Cæsar,Undirected,16
+Antonio,Cæsær,Undirected,3
+Alfonso,Søbjørn,Undirected,1
+Cæsar,Jsabellas,Undirected,2
+Jsabellas,Signor,Undirected,1
+Isabella,noren,Undirected,1
+Grev Serano,Isabella,Undirected,1
+Alfonsø overrasket,Serano,Undirected,1
+Clemens,Cæsar,Undirected,2
+Hain,Signor Cæsar,Undirected,1
+Hain,Serano,Undirected,1
+Cinthio,Serano,Undirected,1
+Antonio,Cæsar,Undirected,70
+Isabella,mu,Undirected,2
+Isabella,Serano,Undirected,1
+Cæsar,Serano,Undirected,1
+Clemens,Isabella,Undirected,2
+Clemens,Grev Serano,Undirected,2
+Alfonso,Gud,Undirected,3
+Antonio,Clemens Gjerning,Undirected,1
+Antonio,Signor Cæsar,Undirected,3
+Antonio,Signoren,Undirected,3
+Cæsar,Isabella,Undirected,17
+Cæsar,Eugenie,Undirected,1
+Eugenie,Signor,Undirected,1
+Eugenie,Signor Cæsar,Undirected,1
+Leonardis,Signor Cæsar,Undirected,1
+Alfonso,Høvdesmandcn,Undirected,1
+Dolken,Signor,Undirected,1
+Isabella,Signor,Undirected,3
+Signor,sra,Undirected,1
+Antonio,Isabella,Undirected,31
+Antonio,ovcrrasket,Undirected,1
+Cæsar,Signora Isabella,Undirected,1
+Eugenik,Leonardi,Undirected,1
+Cugenie,Signoren,Undirected,1
+Hellige Frantz,Joseph,Undirected,1
+Eugenie,raabfe Signoraen,Undirected,1
+Cæsar,Signor Clemens,Undirected,1
+Cæsar,Tyran,Undirected,2
+Isabella,lee,Undirected,1
+Cæsar,Signor,Undirected,2
+Cæsar,Greve Mandochini,Undirected,1
+Anfonio,Greve Mandochini,Undirected,1
+Leonardi —,Marchesa Pirroletta,Undirected,1
+Greve Astolfo de Rocco,Marchesa Pirroletta,Undirected,1
+Greve Astolfo de Rocco,Isabella,Undirected,1
+Isabella Cæsar,Kaptain Clemens,Undirected,1
+Captain Clemens,Cæsar,Undirected,1
+Captain Clemens,Grev Madochinis,Undirected,1
+Clemens,Grev Madochinis,Undirected,1
+Cæsar,Signor Cæsar,Undirected,1
+Leonard,Signor Cæsar,Undirected,2
+Leonard,Marchesen,Undirected,1
+Leonardi,Signoracn,Undirected,1
+Antonio,Signoracn,Undirected,2
+Marchese,Marchesen,Undirected,2
+Antonio,Marchese,Undirected,6
+Effer,Grev Madochino,Undirected,1
+Grev Madochino,Signoraen,Undirected,1
+Nikanor,Signora,Undirected,1
+Cæsar,Signoraen,Undirected,2
+Antonio,Levnardj,Undirected,1
+Antonio,Leonardi atttcr,Undirected,1
+Leonardi atttcr,Signoraen,Undirected,1
+,Leonard,Undirected,1
+Antonio,Signoraen,Undirected,8
+Signora,Signoraen,Undirected,3
+Messina,Signora,Undirected,1
+Signor,Signoraen,Undirected,1
+Antonio,Signora,Undirected,9
+Greve,Signora,Undirected,2
+Greve,Signoraen,Undirected,1
+Cæfar,Signoraen,Undirected,1
+Isabella,Madochino,Undirected,1
+Isabella,Signor Cæsar,Undirected,3
+Signoraen,chnn,Undirected,1
+Antonio,chnn,Undirected,1
+Cæsar,Greve,Undirected,2
+Cæsar,Villie,Undirected,1
+Isabella,Rioder Lconardi,Undirected,1
+Alfonso,Antomo,Undirected,1
+Alfonso,Clemens,Undirected,1
+Alfonso,Hcrie,Undirected,1
+Antonio henvendt fil,Cæsar,Undirected,1
+Cæsar,Leonarda,Undirected,1
+Cæsar,Gud,Undirected,1
+Cæsar,Marchesen,Undirected,2
+Antonio,Signora Isabella,Undirected,2
+Antonio,slore Høvedsmand,Undirected,1
+Isabella,Signora,Undirected,2
+Signora,fmine,Undirected,1
+Antonio,fmine,Undirected,1
+Cæsar,Ester,Undirected,1
+Isabella,sfrider Cæsar,Undirected,1
+Isabella,Leonardi,Undirected,1
+Antonio,lee,Undirected,1
+Andreas,Signoraen,Undirected,1
+Antonio,Signoraen ilte,Undirected,1
+Signoraen ilte,hasfig,Undirected,1
+Antonio,hasfig,Undirected,1
+Antonio,Øvergw,Undirected,1
+Antonio,Mat,Undirected,1
+Antonio,Grev Astolfo Rocca,Undirected,1
+Grev Astolfo Rocca,oenne,Undirected,1
+Hain,oenne,Undirected,1
+Cæsar,fom,Undirected,1
+Leonardi,Marchese Pizoletta,Undirected,1
+Astolfo de Rocca,Marchese Pizoletta,Undirected,1
+Astolfo de Rocca,Cæsar,Undirected,2
+Alfonso,sfal,Undirected,1
+Alfonso,talcde Cæsar,Undirected,1
+Alfonso,Astolfos,Undirected,1
+Antonw,Cæsar,Undirected,2
+Cæsar,sorar Cæsar,Undirected,1
+,Cæsar,Undirected,1
+Cæsar,Jfabella,Undirected,1
+Cæsar,kim Overskæget,Undirected,1
+Cæsar,Messina,Undirected,1
+Isabella,nei,Undirected,1
+Hain,nei,Undirected,1
+Antonio,Hain,Undirected,1
+Corsika,Cæsar,Undirected,1
+Antonio,Jfabella,Undirected,1
+Antonio,Roverhøvedsmanedn,Undirected,1
+Antonio,c,Undirected,1
+Herr Greve de Roceo,Isabella,Undirected,1
+Antonio,Herr Greve de Roceo,Undirected,1
+Antonio,Nette,Undirected,1
+Greve,Isabella,Undirected,2
+Corfika,Signora,Undirected,1
+Antonio,Leonardi,Undirected,4
+Cæsar,Siragossa,Undirected,1
+Antonio,Siragossa,Undirected,1
+Antonio,hvar Antonio,Undirected,1
+Cæsar,Jasaa,Undirected,1
+Mikael,Tasfen,Undirected,1
+Antonio,t,Undirected,1
+Cæsar,t,Undirected,1
+Antonio,Taus,Undirected,1
+Cæsar,fnart,Undirected,2
+Antonio,Antonio sfar,Undirected,1
+Antonio,soran,Undirected,1
+Anfonio,Kreatur,Undirected,1
+Antonio,Marchesen,Undirected,8
+Antonio,Madochini,Undirected,1
+Antonio,Marchescn,Undirected,1
+Cæsar,rasf,Undirected,1
+Hr. Marchese,Marchesen,Undirected,2
+Antonio,as,Undirected,1
+Antonio,Hr. Marchese,Undirected,1
+Cæsar,Hesf,Undirected,1
+Antonio,boer Marchese B. orgia,Undirected,2
+J,Marchese,Undirected,1
+Antonio existerer,Marchese,Undirected,1
+Antonio,Antonio existerer,Undirected,1
+Dolken,Marchesen,Undirected,1
+Antonio,Greven,Undirected,5
+Antonio,Greve Astolfo de Roceo,Undirected,1
+Antonio,Herr Greve,Undirected,1
+Antonio,Cæsar jfølg,Undirected,1
+Cæsar,Madochini,Undirected,1
+Grev Astølfo de Rocco,Greve,Undirected,1
+Greve,jv,Undirected,1
+Antonio,jv,Undirected,1
+Greven,Madochini,Undirected,1
+Antonio leende,Signor,Undirected,1
+Signor,Signora Isabella Taf,Undirected,1
+Antonio,Signora Isabella Taf,Undirected,1
+Antonio,basta,Undirected,2
+Cæsar,Marchcsen,Undirected,1
+Antonio,Marchcsen,Undirected,1
+Antonio,Edce,Undirected,1
+Corsika,Signoraen,Undirected,1
+Antonio,Astolfo de Rocca,Undirected,1
+Astolfo de Rocca,Cæsar fnlgtc,Undirected,1
+Antonio,Astolfos,Undirected,1
+Marchesen,taus,Undirected,1
+Herr Marchese,Marchesen,Undirected,1
+,Herr Marchese,Undirected,1
+Antonio,zitrcr,Undirected,2
+Aurelie Boresfo,Cintra,Undirected,1
+Isabella,Jfabella,Undirected,1
+Antonio,Munition,Undirected,1
+Antonio derimod marschercdc,Cinthio øg,Undirected,1
+Cyinthio,yam,Undirected,1
+' yan,nn,Undirected,1
+' yan,Cinthw,Undirected,1
+Antonio,Cinthw,Undirected,1
+Antonio,asskillc,Undirected,1
+Altaverde,Cinthio,Undirected,6
+Cinthio,dein,Undirected,1
+Alfonso,feil,Undirected,1
+Cinthio,brave,Undirected,1
+Alfonso leve,bravo,Undirected,1
+Alfonso,dein,Undirected,1
+Alfonso,hvidskcndc,Undirected,1
+Alfonso,Høvcdsmandcn,Undirected,1
+Alfonso,Mnnkenc,Undirected,1
+Alfonso,Alfonso reisfe,Undirected,1
+Alfonso,Mnnken,Undirected,1
+Gud,Ueg,Undirected,1
+Alfonso,Cæeilie,Undirected,1
+Cæeilie,Markus,Undirected,1
+Cæeilie,seil,Undirected,1
+Antonio,Fiskaldo,Undirected,1
+Antonio,Jsabellas,Undirected,4
+Antonio,Ester,Undirected,1
+Antonio,Cintra,Undirected,4
+Antonio,fom,Undirected,1
+Gud,Laura,Undirected,2
+Isabella,Romano,Undirected,2
+Greven,Laura,Undirected,1
+Greven foer,fammcn,Undirected,1
+Grevinden,fammcn,Undirected,1
+Anotnio,Signora,Undirected,1
+Antonio,Laura,Undirected,10
+Romano,neppe horlig,Undirected,1
+Alfonso,Romano,Undirected,2
+Antonio,Bent,Undirected,1
+Alfonso,Bent,Undirected,1
+Romano,Signoraen,Undirected,1
+Antonio,Romano,Undirected,2
+Signoraen,hnn,Undirected,1
+Antonio,GrevenNei,Undirected,1
+Rvmano,Signora,Undirected,1
+Antonio reise,Rvmano,Undirected,1
+Antonio,ay,Undirected,1
+Alfonso,Alfvnso,Undirected,1
+Signor,Signore,Undirected,1
+Antonio,Signore,Undirected,1
+Antonio,Grev Novezzo,Undirected,1
+Antonio,Skhld,Undirected,1
+Signor,Skhld,Undirected,1
+Signor Bvsko,Signorcn,Undirected,1
+Jean,Sigooren,Undirected,1
+Antonio,Grev Rovezzo Eder,Undirected,1
+Mied,helsf,Undirected,1
+Alfonje,Antonio leende,Undirected,1
+Alfonje,Signor Armin Bosko,Undirected,1
+Signor,Signoren,Undirected,2
+Antonio,Grev Rovezzo,Undirected,1
+Armiu Bosko,Grev Rovezzo,Undirected,1
+Alfonso,Autonio,Undirected,1
+Antonio,iland,Undirected,1
+Eder,iland,Undirected,1
+Aurelie,Cæsar,Undirected,2
+Aurelie,hnn,Undirected,2
+Isabella,Laura,Undirected,6
+Aurelie,Isabella,Undirected,2
+Nikanor,Signora Isabella,Undirected,1
+Cæsar,Ieg,Undirected,1
+Ar,Signora,Undirected,1
+Ar,tonio,Undirected,1
+Isabella,Tu,Undirected,1
+Tu,verhøvedsmaudcn,Undirected,1
+Antonio,verhøvedsmaudcn,Undirected,1
+Alfonso,Reifen,Undirected,1
+Cagsttglinv,Signoren,Undirected,1
+Cagsttglinv,iland,Undirected,1
+Dnsør,Signore,Undirected,1
+Signoren,ha,Undirected,1
+Castiglino,Cæsar,Undirected,1
+Castiglino,Karl,Undirected,1
+Castiglino,Cintra,Undirected,1
+Antonio,Grev Romano,Undirected,1
+Cæsar,iland,Undirected,1
+Castiglino,Signoren,Undirected,1
+Grev Castiglino,Gud,Undirected,1
+Grev Romano,Gud,Undirected,1
+Signor,seent,Undirected,1
+Grev Castiglino,Neiseptnge,Undirected,1
+Antonio,ane,Undirected,1
+Cæsar,ane,Undirected,1
+Antonio,Cæscr,Undirected,1
+Anionio,Cæsar,Undirected,1
+Sgnor,Signora,Undirected,1
+Isabella,Sgnor,Undirected,1
+Aurelie,eAntonio,Undirected,1
+Isabella,eAntonio,Undirected,1
+Signora,asbrød Antonio,Undirected,1
+Cæsar,Nhedcren,Undirected,1
+Isabella,Nhedcren,Undirected,1
+Cæsar,Laura,Undirected,1
+Hovcdsmandcn,Laura,Undirected,1
+Hovcdsmandcn,Isabella,Undirected,1
+Cæsar,høvedSmandcn,Undirected,1
+Alfonso,Greven,Undirected,2
+Antonio,Cæfar,Undirected,2
+Cæfar,Jsabellas,Undirected,1
+Antonio Leilighed,Cæsar,Undirected,1
+Antonio Leilighed,sigAlfonso,Undirected,1
+Alfonso,sigAlfonso,Undirected,1
+Cæsar,Romano,Undirected,2
+Laura,Romano,Undirected,1
+Cæsær,Laura,Undirected,1
+Cæfar,Cæsær,Undirected,1
+Alsonso,Antonio,Undirected,1
+Altaverde,kim,Undirected,1
+Cinthio,Høvcdsmandcn,Undirected,1
+Altaverde,Høvcdsmandcn,Undirected,1
+Allaverde,Cinthio,Undirected,2
+Grev Fcrnata,Ludoviko,Undirected,1
+Ludovikv,ge,Undirected,1
+Alfonso,Ludoviko,Undirected,2
+Fiametta —,Gaudi,Undirected,1
+Antonio,Ludvviko,Undirected,1
+Altaverde,Gaudi,Undirected,1
+Signor,nei,Undirected,1
+Ludoviko,Nikanor,Undirected,1
+Corsika,Nikanor,Undirected,1
+Altaveroe,Cinth,Undirected,1
+,Cinth,Undirected,1
+Antomo,Antonio,Undirected,1
+Claudio,fenere,Undirected,1
+Claudi,Claudio,Undirected,2
+Cilli,flet,Undirected,1
+Cilli,Claudio,Undirected,1
+Altaverde,Cilli,Undirected,1
+Altaverde,Cinthi,Undirected,1
+Antonio,Cinthi,Undirected,1
+Fiolanta,Flovio Nikanor,Undirected,1
+Antonio,Flovio Nikanor,Undirected,1
+Fiolanta,Flovio,Undirected,9
+Fiolm,Thomas,Undirected,1
+Flovio,Tu,Undirected,1
+Fiolanta,Tu,Undirected,1
+Fiolanta,Tøne,Undirected,2
+Fiolanta,Javisf Flovio,Undirected,1
+Fiolanta,Nikanor,Undirected,2
+Fransiska,Nikanor,Undirected,1
+Flovio,Tante Fiolanta,Undirected,1
+Flovio,Fransiska,Undirected,2
+Fiolanta,Tante Fiolanta,Undirected,1
+Aurelie,Flovio,Undirected,3
+Flovio,Leonardi,Undirected,7
+Aurelie,Thema,Undirected,1
+Fiolanta,Fransiska,Undirected,1
+Gemal,Villie,Undirected,1
+Fransiska,Gemal,Undirected,1
+Anrelie,Cagstiglino,Undirected,1
+Anrelie,Fransiska,Undirected,1
+Castiglino,Fransiska,Undirected,1
+Fransiska,mclot,Undirected,1
+Aurelie,Gnd,Undirected,1
+Aurelie,Greven,Undirected,2
+Flovio,Orb,Undirected,1
+Flovio,Tante,Undirected,1
+Flovio,Sopha,Undirected,1
+Fransiska,Nikanvr,Undirected,1
+Antonio,HanZ,Undirected,1
+Corsika,Gud,Undirected,1
+Pietro,Rasf,Undirected,1
+Fadir,Lorensio,Undirected,1
+Lorensio,Pietro,Undirected,1
+Pietro,Seppi,Undirected,2
+Scppis,Seppi,Undirected,1
+Pet,Scppis,Undirected,1
+Pet,Seppi,Undirected,1
+Flovio,Pietro,Undirected,2
+Aurelie,Leonardi,Undirected,1
+Fiolanta,Leonardi,Undirected,3
+Flovio,Kaarde,Undirected,1
+Fiolanta,Kaarde,Undirected,1
+Corsika,Fiolanta,Undirected,2
+Dain,Nikanor,Undirected,1
+Dain,Flovio,Undirected,1
+Flovio,Nikanor,Undirected,2
+Flovio,Leonard,Undirected,1
+Antonio,Cagstiglino,Undirected,1
+Leonardi,Nikanor,Undirected,1
+Edsvorne,Leonardi,Undirected,1
+Marshese Gionetti,Sonart,Undirected,1
+Caglwri,Grev Pascal,Undirected,1
+Grev Pascal,Nikanor,Undirected,1
+Antonio,Flovio,Undirected,2
+Corsa Nikanor,sor,Undirected,1
+Leonardi,NikanorFordi,Undirected,1
+Leonardi,Marchese Gionetti,Undirected,1
+Marchese Gionetti,asreisf,Undirected,1
+Leonardi,asreisf,Undirected,1
+Flavio,Leonardi,Undirected,1
+Flovio,isadcr,Undirected,1
+Ester,Nikanor,Undirected,1
+Antonio,koni,Undirected,1
+Antonio,Corsa Nikanor,Undirected,2
+Alfonso,Cinetto,Undirected,1
+Alfona,Cinetto,Undirected,2
+Alfona,Antonio,Undirected,1
+Aurelie,Pascals,Undirected,1
+Nikanvr,Pascals,Undirected,1
+Flovio,Nikanvr,Undirected,1
+Antonio,Pascal,Undirected,2
+Nikanor,Pascal,Undirected,2
+Franfifka,Nikanor,Undirected,1
+Antonia,Pascal,Undirected,1
+Nikanor,varshan,Undirected,1
+Antvnio,Aurelie,Undirected,1
+Aurelie,Kjære Eorsa,Undirected,1
+Antoniv,Leonardi,Undirected,1
+lcendeNu,sagdeAntonjo,Undirected,1
+Aurelie,sagdeAntonjo,Undirected,1
+Corsa Nikanor,Cæsar,Undirected,1
+Isabella,Tanshed,Undirected,1
+Isabella,Rosa,Undirected,1
+Antonio,CæsarZ,Undirected,1
+Leonardi,Rosa,Undirected,1
+Flovio Halvbrødre,Leonardi,Undirected,1
+Antonio,Flovio Halvbrødre,Undirected,1
+Pascal,Seir,Undirected,1
+Cinetto,Nrkanor,Undirected,1
+Cinetto,Corsa,Undirected,1
+Cinetto,Pascal,Undirected,1
+Corsa,Pascal,Undirected,1
+Cinetto,Flovio,Undirected,1
+Alfona,Leonardi,Undirected,1
+Flovio,Leonarda,Undirected,1

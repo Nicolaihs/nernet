@@ -1,0 +1,565 @@
+source,target,type,weight
+Harald,Harald haarfagre,Undirected,1
+Harald,Hersen,Undirected,1
+Harald haarfagre,Olav Haraldsøn,Undirected,5
+Baard,Jorun,Undirected,1
+Baard,Joruii,Undirected,1
+Baard,Morbroder Børgolf,Undirected,1
+Baard,Snefrid,Undirected,2
+Baard,Karl,Undirected,2
+Jorun,Unne,Undirected,1
+Hersen,Unne,Undirected,1
+Hersen,Snefrid,Undirected,8
+Snefrid,tine,Undirected,1
+Jorun,Snefrid,Undirected,6
+Snefrid,Stejnarstad,Undirected,2
+Guttorm,Unne,Undirected,2
+Guttorm,Snefrid,Undirected,15
+Gubben,Snefrid,Undirected,3
+Hejdmørk,Olav Haraldsøn,Undirected,1
+Herse,Kong Ræreks,Undirected,1
+Deiæs,Hersen,Undirected,1
+Kong Olavs,Thore lange,Undirected,1
+Heill,sæll,Undirected,1
+Arnebaal,Thore lange,Undirected,1
+Kong Olav,Thore lange,Undirected,1
+Hersen,Kong Olav,Undirected,5
+Erling Hognesøn,Hersen,Undirected,3
+Erling Hognesøn,Kong Olav,Undirected,3
+Kong Olav,Lejfsøn,Undirected,1
+Hjalte Skeggesøn,Lejfsøn,Undirected,1
+Hjalte Skeggesøn,Kong Olav,Undirected,1
+Bjørn Staller,Hjalte Skeggesøn,Undirected,1
+Snefrid,Ten,Undirected,1
+Guttorm,Haakon Jarl,Undirected,1
+Erik,Guttorm,Undirected,1
+Erik,Svejn,Undirected,1
+Olaf Haraldsøn,Sæla,Undirected,1
+Erling,Harald grænske,Undirected,1
+Harald grænske,Olav Haraldsøn,Undirected,1
+Harald haarfagre,Thore,Undirected,1
+Bjørn Haraldsøns,Thore,Undirected,1
+Bjørn Haraldsøns,Harald grænske,Undirected,1
+Harald grænske,Sigurd Syr,Undirected,1
+Sigurd,Sigurd Syr,Undirected,1
+Olav,Sigurd,Undirected,1
+Olav,Sverig,Undirected,1
+Erik Jarl,Guttorm,Undirected,1
+Knut Danekonge,Thore,Undirected,1
+Knut Danekonge,Olof Sveakonge,Undirected,2
+Olav Haraldsøn,Olof Sveakonge,Undirected,1
+Olav Haraldsøn,djærv,Undirected,1
+aarie,djærv,Undirected,1
+Upsal,aarie,Undirected,1
+Bjørn Staller,Upsal,Undirected,1
+Bjørn Staller,Hjalte,Undirected,1
+Hjalte,Skeggesøn,Undirected,1
+Erling,Hjalte,Undirected,1
+Bjørn,Guttorm,Undirected,1
+Guttorm,Hjalte,Undirected,1
+R.ejse,Ragnvald,Undirected,1
+R.ejse,Thore,Undirected,1
+Kong Olav,Thore,Undirected,2
+Ejlif götske,Thore,Undirected,1
+Børgolf,Snefrid,Undirected,6
+Børgolf,Hersen,Undirected,6
+Axel,Børgolf,Undirected,1
+Berse,Børgolf,Undirected,3
+Børgolf,Guttorm,Undirected,6
+Erling,Guttorm,Undirected,5
+Børgolf,Erling,Undirected,6
+Erling,Snefrid,Undirected,28
+Børgolf,Hersedatter,Undirected,1
+Erling,Erling Hognesøn,Undirected,1
+Erling Hognesøn,Snefrid,Undirected,2
+Snefrid,Væve,Undirected,1
+Snefrid,liun,Undirected,1
+Erling,Jorun,Undirected,1
+Ragna,SkæbneBrand,Undirected,1
+Ragna,Snefrid,Undirected,2
+Brand,Snefrid,Undirected,1
+Brand,Hersedatter,Undirected,1
+Brand,Ragna,Undirected,6
+Hjørdis,Ragna,Undirected,1
+Erling,Kong Olav,Undirected,3
+Kong Olav,nidde,Undirected,1
+Snille,Thore,Undirected,1
+Guttorm Herse,Vaas,Undirected,1
+Kong Olav,Olav Haraldsøn,Undirected,1
+Harald haarfagre,Olav,Undirected,2
+Olav,Thore Sæl,Undirected,1
+Arilds,Olav Haraldsøn,Undirected,1
+Olav Haraldsøn,Rærik,Undirected,1
+Olav,Rærik,Undirected,1
+Haraldsøn,Olav,Undirected,4
+Guttorm,Herse,Undirected,8
+Gubben,Herse,Undirected,1
+Olav Haraldsøn,Raumarikes,Undirected,1
+Gud,siden'Olav Trygvesøn,Undirected,1
+Guttorm,lian,Undirected,2
+Gubben,Kristus,Undirected,1
+Gubben,Olav,Undirected,1
+Herse,Olav Konning,Undirected,1
+Kristus,lian,Undirected,2
+Knut Danekonge,Kristus,Undirected,1
+Gut,orm,Undirected,1
+Gubben,orm,Undirected,1
+Gubben,Krist,Undirected,1
+Olav Haraldsøn,•Grimkel,Undirected,1
+Klærken,Olav Haraldsøn,Undirected,1
+Gud,Klærken,Undirected,1
+Gud,Kristus,Undirected,2
+Svend,Thore,Undirected,1
+Gud,Thore,Undirected,4
+Kong Olav,Sigurd,Undirected,1
+Sigurd,Thore,Undirected,1
+Erling Hognesøn,Olav,Undirected,1
+Erling,Olav,Undirected,2
+Erling,Stejnarstad,Undirected,1
+Guttorm,Stejnarstad,Undirected,1
+F ader,Guttorm,Undirected,1
+F ader,Kongsgaard,Undirected,1
+Gud,Kongsgaard,Undirected,1
+Guttorm,Thore,Undirected,10
+Ketil,Kong Olav,Undirected,1
+Ejd,Ketil,Undirected,1
+Ejd,Olav Haraldsøn,Undirected,1
+Olav Haraldsøn,didhen,Undirected,1
+Olav,didhen,Undirected,1
+Ejd,Snefrid,Undirected,2
+Ejd,Guttorm,Undirected,2
+Herse,Snefrid,Undirected,1
+Allenfals,Olav Haraldsøn,Undirected,1
+Hird,Thore Aarmands,Undirected,1
+Olav Haraldsøn,Sæla,Undirected,1
+Kong Olav,Sæla,Undirected,1
+Herser,Kong Olav,Undirected,1
+Herser,Kolbejn,Undirected,1
+Guttorm Herse,Thore,Undirected,3
+Guttorm Herse,Kongsgaardens,Undirected,1
+Kongsgaardens,livor,Undirected,1
+Guttorm,livor,Undirected,1
+Gubben,Guttorm,Undirected,1
+Gubben,Thore,Undirected,1
+Hersen,Thore,Undirected,3
+Guttorm,Hersen,Undirected,2
+Kristenb alken,Sab,Undirected,1
+Gubben,Karlen,Undirected,1
+Guttorm,Kristus,Undirected,3
+-Kolbejn kyrre,Guttorm,Undirected,2
+Kristus,Thore Sæl,Undirected,1
+Guttorm,Thore Sæl,Undirected,3
+Unne,lian,Undirected,1
+Husbond,Unne,Undirected,1
+Baard,Hersen,Undirected,4
+Baard,Unne,Undirected,3
+Baard,Børgolf,Undirected,2
+Baard,Guttorm,Undirected,1
+Egil,Gubben,Undirected,2
+Babababa,Gubgubgub,Undirected,1
+Egil,Hersen,Undirected,4
+Egil,Hyhyhyby,Undirected,1
+Guttorm,lille Thora,Undirected,1
+Elvi,lille Thora,Undirected,1
+Guttorm,Thora,Undirected,7
+Guttorm,R.ejse,Undirected,1
+Egil,R.ejse,Undirected,1
+Egil,Snefrid,Undirected,2
+Egil,Thora,Undirected,2
+Guttorm,Midnatstide,Undirected,1
+Egil,lo,Undirected,1
+Astrid,Snefrid,Undirected,12
+Egil,Guttorm,Undirected,5
+Egil,Ejsten,Undirected,3
+Berse,Egil,Undirected,4
+Berse,Herse,Undirected,1
+Arilds,Egil Egilsøn,Undirected,1
+Egil,Egil Egilsøn,Undirected,1
+Berse,Guttorm,Undirected,5
+Hersen,Thore Aarmand,Undirected,2
+Berse,siff,Undirected,1
+Bububububu,Egil,Undirected,1
+Egil,Stejn,Undirected,1
+Børgolf,Egil,Undirected,3
+Egil,Olav,Undirected,1
+Berse,Haraldsøn,Undirected,1
+Berse,Kristus,Undirected,1
+Guttorm,Ragna,Undirected,1
+Hersen,Ragna,Undirected,3
+Erling,Ragna,Undirected,2
+Kolbejn,Ragna,Undirected,1
+Kolbejn,devil,Undirected,1
+Sigyn Kolbejnsdatter,Thore Sæl,Undirected,1
+Kolbejnsøn,Orm,Undirected,1
+Hersen,Kolbejnsøn,Undirected,1
+Kolbejn,Orm,Undirected,3
+Orm,Sigyn,Undirected,1
+Kolbejn,Sigyn,Undirected,4
+Aase,Kolbejn,Undirected,5
+Hersedatter,Orm Kolbejnsøn,Undirected,1
+Orm,Snefrid Hersedatter,Undirected,1
+Sigyn,Thore Sæl,Undirected,1
+Aase,Thore,Undirected,4
+Sigyn,Thore,Undirected,2
+Kolbejn,Thore,Undirected,5
+Guttorm,Olav Haraldsøn,Undirected,3
+Thore,allenfals,Undirected,1
+Orm,Thore,Undirected,2
+Orm,Snefrid,Undirected,1
+Pater Jon,Thore Aarmand,Undirected,1
+Kolbejn,Pater Jon,Undirected,1
+Aase,Thoi•es,Undirected,1
+Herse,Hersen,Undirected,3
+Hersedatter,Snefrid,Undirected,2
+Aase,Snefrid,Undirected,1
+Sigrid Guttormsdatter,Thore Sæl,Undirected,1
+Guttorm Herse,Thore Sæl,Undirected,1
+Frejrsgode,Guttorm Herse,Undirected,1
+Frejrsgode,Kristus,Undirected,1
+Harald,Thore,Undirected,1
+Aase,svaredé,Undirected,2
+Thoi•es,Thore,Undirected,1
+Kolbejn,O	,Undirected,1
+Karl,Orm,Undirected,1
+Karl,liam,Undirected,1
+Baard,liam,Undirected,1
+Orm,Yngvilde,Undirected,1
+Børgolf,Yngvilde,Undirected,1
+Guttorm Herse,Kong Olav,Undirected,2
+Kanske,Stejnarstad,Undirected,1
+Aare.11,Guttorm,Undirected,2
+Egil Egilsøn,Guttorm,Undirected,1
+Asa-Frejrs,Guttorm,Undirected,1
+Asa-Frejrs,Gud,Undirected,1
+Gud,Olav,Undirected,3
+Ashaug,Olav,Undirected,1
+Ashaug,Hejmdal,Undirected,1
+Hejmdal,Hersen,Undirected,1
+Hersen,Thora,Undirected,2
+Guttorm,Odin,Undirected,1
+Egil,Odin,Undirected,1
+Børgolf,Ejsten,Undirected,2
+Børgolf,Sejrfaders,Undirected,1
+Børgolf,Kaare Langarm,Undirected,1
+Berse,Kaare Langarm,Undirected,1
+Egil,Kaare,Undirected,1
+Egil,Surturs,Undirected,1
+Surturs,bububu,Undirected,1
+Kaare,Olav,Undirected,1
+Herse,Kaare,Undirected,1
+Aase,Guttorm,Undirected,1
+Olav Haraldsøn,Thore Sæl,Undirected,1
+As,Frejr,Undirected,1
+Olav,Orm,Undirected,2
+Egeblokkens,Olav,Undirected,1
+Egeblokkens,Guttorm,Undirected,1
+Guttorm,Kaare,Undirected,1
+Kaare,Øxens,Undirected,1
+Orm,Øxens,Undirected,1
+Frejr,Guttorm,Undirected,1
+Morsøster,Thore,Undirected,2
+Morsøster,Sigyn Kolbejnsdatter,Undirected,1
+Aase,Thore Sæl,Undirected,1
+Orm,Pater,Undirected,1
+Aase,Gud,Undirected,1
+Arilds,Guttorm,Undirected,2
+Jesu,Thore,Undirected,1
+Grim,Thore,Undirected,1
+Adams,Evas,Undirected,1
+Evas,Thore,Undirected,1
+Thore,voxe,Undirected,1
+Thore,Ølmod,Undirected,1
+Kaaben,Thore,Undirected,1
+Børgolf,Guttorm Herse,Undirected,1
+Hersen,Thore Sæl,Undirected,2
+Gubben,Knut,Undirected,1
+Guttorm,Karldøren,Undirected,1
+Børgolf,Thore,Undirected,2
+J5,Thore,Undirected,1
+Guttorm,Kong Olav,Undirected,2
+Hersen,Orm,Undirected,1
+Guttorm,Orm,Undirected,1
+Herse,Orm,Undirected,1
+Kristus,Snefrid,Undirected,1
+Sigyn Kolbejnsdatter,Thore,Undirected,1
+Guttorm Herse,Orm,Undirected,1
+Hersen,Orm Kolbejnsøn,Undirected,2
+Hersen,Kolbejn,Undirected,1
+Kolbejn,Sønnekone,Undirected,1
+Egil,Sønnekone,Undirected,1
+Broder Guttorm,Thora,Undirected,1
+Snefrid,Thora,Undirected,2
+Karl,Snefrid,Undirected,1
+Karl,Kolbejn,Undirected,1
+Guttorm,Kolbejn,Undirected,1
+Husbond,Snefrid,Undirected,1
+Husbond,Thore,Undirected,1
+Egil,Orm,Undirected,1
+Snefrid,Thore Sæl,Undirected,5
+Ejsten,Thora,Undirected,1
+Ejsten,Stejnarstad,Undirected,2
+Børgolf,Stejnarstad,Undirected,3
+Egil,Herse,Undirected,1
+Ragnvald Ulfsøn,Sigrid storraade,Undirected,1
+Ingeborg,Sigrid storraade,Undirected,1
+Ingeborg,Olav Trygvesøn,Undirected,1
+Egil Egilsøn,Jarlens,Undirected,1
+Egil Egilsøn,Thora,Undirected,1
+Guttorm Herse,Thora,Undirected,1
+Guttorm Herse,Snefrid,Undirected,2
+Astrid,Olof Eriksøn,Undirected,1
+Egil,Olof Eriksøn,Undirected,1
+Egil,Jarl,Undirected,2
+Egil,Jarlen,Undirected,2
+Astrid Kongedatter,Snefrid,Undirected,6
+Astrid Kongedatter,Ragnvald,Undirected,2
+Astrid Kongedatter,Jarlen,Undirected,1
+Astrid Kongedatter,Egil,Undirected,1
+Jarl,Jarlen,Undirected,1
+Guttorm Herse,Jarlen,Undirected,1
+Bjørn Staller,Jarlen,Undirected,3
+Bjørn Staller,lian,Undirected,1
+Olav Haraldsøn,lian,Undirected,1
+Jarl,Kong Olof,Undirected,1
+Kong Olav,Normand,Undirected,1
+Hersen,Hjalte Skjeggesøn,Undirected,1
+Bjørn,Hjalte Skjeggesøn,Undirected,1
+Hjalte,Hjalte Skjeggesøn,Undirected,1
+Hjalte,Normand,Undirected,1
+Astrid,Fader,Undirected,1
+Astrid,Bjørn Staller,Undirected,1
+Astrid,Ingegerd,Undirected,5
+Hjalte,Kong Olav,Undirected,1
+Jarlen,Kong Olav,Undirected,3
+Ingeborg Jarlekone,Olof,Undirected,1
+Haraldsøn,Ingegerd,Undirected,1
+Ingegerd,Olav,Undirected,1
+Kong Olof,Olav,Undirected,2
+Astrid,Kong Olof,Undirected,1
+Upsal,hartad,Undirected,1
+Ingegerd,hartad,Undirected,1
+Bjørn Staller,Ingeborg Jarlekone,Undirected,1
+Bjørn Staller,Ragnvald,Undirected,1
+Gjæk,Ragnvald,Undirected,1
+Gjæk,Kong Olav,Undirected,1
+Ingeborg,Jarlen,Undirected,1
+Bjørn,Jarlen,Undirected,3
+Kong Olof,Thorgny,Undirected,1
+Kong Eriks,Thorgny,Undirected,1
+Bjørn,Thorgny,Undirected,1
+Olav,Olav Haraldsøn,Undirected,2
+Bjørn Staller,Olav,Undirected,1
+Bødvar Lejfsøn,Erling Hognesøn,Undirected,1
+Bødvar Lejfsøn,Helsen,Undirected,1
+Hjalte Skjeggesøn,Jarlen,Undirected,1
+Egil,Erling,Undirected,1
+Gubben,Gudmund Kaaresøn,Undirected,1
+Bjørn,Erling,Undirected,1
+Bjørn,Guttorm Herse,Undirected,1
+Astrid Kongedatter,Guttorm Herse,Undirected,2
+Astrid,Jarlen,Undirected,3
+Astrid,Erling,Undirected,3
+Erling,Karlen,Undirected,1
+Guttorm Herse,Ragnvald Jarl,Undirected,1
+Bjørn Staller,Guttorm Herse,Undirected,1
+Bjørn Staller,Erling,Undirected,1
+Erling,Upsal,Undirected,1
+Snefrid,Upsal,Undirected,2
+Erling,Hognesøn,Undirected,1
+Egil Egilsøn,Gøtaelvens,Undirected,1
+Abildgaard,Egil Egilsøn,Undirected,1
+Abildgaard,Astrid Kongedatter,Undirected,1
+Kong Olavs Flaade,Snefrid,Undirected,1
+Kong Olavs Flaade,Kongshelle,Undirected,1
+Olav,Snefrid,Undirected,3
+Fader,Ingegerd,Undirected,1
+Astrid,Olav Haraldsøn,Undirected,7
+Snefrid,Sveakongen,Undirected,1
+Olav Haraldsøn gram,Snefrid,Undirected,1
+Olav Haraldsøn,Snefrid,Undirected,1
+Astrid,Snefrid Hersedatter,Undirected,1
+Astrid,Erik sejersæl,Undirected,1
+Erik sejersæl,Sigrid storraade,Undirected,1
+Olav,Sveakongen,Undirected,2
+Ragnvald Jarl,Thorgny Lagmand,Undirected,1
+Bjørn Staller,Ragnvald Jarl,Undirected,2
+Ingegerd Kongedatter,Olav Haraldsøn,Undirected,1
+Ingegerd Kongedatter,Kong Olav,Undirected,1
+Gud,Thorgny Lagmand,Undirected,1
+Astrid,Ingegerd Kongedatter,Undirected,3
+Astrid,Egil Egilsøn,Undirected,1
+Ingegerd,Kong Olav,Undirected,1
+Ragnvald Jarl,hans Gøter,Undirected,1
+Astrid,Kong Olav,Undirected,8
+Ingegerd Kongedatter,Olav,Undirected,1
+Astrid,Olav,Undirected,7
+Astrid Olofsdatter,Ingegerd,Undirected,2
+Gud,sæl,Undirected,1
+Astrid Olofsdatter,sæl,Undirected,1
+Drot,Olav Haraldsøn,Undirected,1
+Drot,Husting,Undirected,1
+Husting,Ragnvald,Undirected,1
+Jarl,Ragnvald,Undirected,2
+Jarl,Thorgny,Undirected,1
+Bjørn Staller,Thorgny,Undirected,1
+Bjørn Staller,Ragnvald Ulfsøn,Undirected,1
+Olav,Ragnvald Ulfsøn,Undirected,1
+Astrid Olofsdatter,Olav,Undirected,2
+Astrid Olofsdatter,Haan,Undirected,1
+Haan,Olav Haraldsøn,Undirected,1
+Bjørn Staller,Skald,Undirected,1
+Olav Haraldsøn,Sighvat,Undirected,1
+Bjørn Staller,Sighvat,Undirected,1
+Bjørn Staller,Kong Olof,Undirected,1
+Sighvat Thordsøn,Thord Skotakold,Undirected,1
+Erling Hognesøn,Thord Skotakold,Undirected,1
+Erling Hognesøn,Ragnvald,Undirected,1
+Ingegerd Kongedatter,Jarislejf,Undirected,1
+Astrid Kongedatter,Skara,Undirected,1
+Skara,Snefrid,Undirected,1
+Hersedatter,Jarlen,Undirected,1
+Jarlen,Sighvat,Undirected,1
+Ragnvald Jarl,Sighvat,Undirected,1
+Ingegerd,Ragnvald Jarl,Undirected,2
+Jarlen,Olav Sveakonges,Undirected,1
+Olav Haraldsøn,Olav Sveakonges,Undirected,1
+Erling Hognesøn,Snefrid Hersedatter,Undirected,2
+Gud,Ragna,Undirected,2
+Hersen,Snefrid Guttormsdatter,Undirected,1
+Ejsten,Snefrid Guttormsdatter,Undirected,1
+Ejsten,Skjødnihgen,Undirected,1
+Skjødnihgen,Thore,Undirected,1
+Pergemut,Thore,Undirected,1
+Kolbejn,Thore Aarmand,Undirected,1
+Ragna,aarie,Undirected,1
+Egg,aarie,Undirected,1
+Egg,Erling Hognesøn,Undirected,1
+Erling Hognesøn,Orm,Undirected,1
+Erling,Hersen,Undirected,7
+Erling,Piagna,Undirected,1
+Broge,Ragna,Undirected,1
+J,j,Undirected,1
+Hersen,Stejnarstad,Undirected,1
+Hersen,Svend,Undirected,1
+Kong Olav,Svend,Undirected,1
+Ejsten,Hersen,Undirected,1
+Baard,Ejsten,Undirected,1
+Baard,Orm,Undirected,2
+Baard,Thore,Undirected,3
+Guttorm,SkæbneBrand,Undirected,1
+Børgolf,Erling Hognesøn,Undirected,1
+Kong Olav,Ragnvald Jarl,Undirected,2
+Jarlen,Thord Skotakold,Undirected,2
+Jarlen,Thord,Undirected,1
+Astrid Kongedatter,Sighvat Skald,Undirected,1
+Kong Olav-,Sighvat,Undirected,1
+Astrid,Kong Olav-,Undirected,1
+Skara,Thord Skotakold,Undirected,1
+Erling Hognesøn,Skara,Undirected,1
+Erling,Thord,Undirected,4
+Egil Egilsøn,Snefrid Hersedatter,Undirected,1
+Herse,Snefrid Hersedatter,Undirected,1
+Thord,j,Undirected,1
+Gud,Thord,Undirected,1
+Astrid,Egil,Undirected,1
+Astrid,Ragnvald,Undirected,2
+Ragnvald,Thora,Undirected,1
+Jarl,bububu,Undirected,1
+Fufufu,Jarl,Undirected,1
+Fufufu,Thora,Undirected,1
+Jarl,Thora,Undirected,1
+Astrid,Thora,Undirected,1
+Alfaders,Astrid,Undirected,1
+Gud,Snefrid,Undirected,1
+Kong Olav,Snefrid,Undirected,2
+Erling Hognesøn^,Thora,Undirected,1
+Thora,Thord,Undirected,1
+Erling,Jarlen,Undirected,1
+Stejnarstad,Thore Sæl,Undirected,1
+Gubben,Thore Sæl,Undirected,1
+Baard,Thore Sæl,Undirected,1
+Davren,Thore Sæl,Undirected,1
+Svend,Thore Sæl,Undirected,1
+Hersedatter,Thore Sæl,Undirected,1
+Hestehove,Snefrid,Undirected,1
+Gubben,Hestehove,Undirected,1
+Børgolf,Ejd,Undirected,1
+Glar,Kong Olav,Undirected,1
+Glar,Kjertelys,Undirected,1
+Gubben,Gud,Undirected,1
+Dot,Snefrid,Undirected,1
+Erling,Gubben,Undirected,1
+Astrid Kongedatter,Hersen,Undirected,1
+Astrid Kongedatter,Olav,Undirected,1
+Astrid,Erling Hognesøn,Undirected,3
+Erling Hognesøn,Gubben,Undirected,1
+Astrid,kjær,Undirected,1
+Datterlil,Ingegerd Kongedatter,Undirected,1
+Ingegerd,Olav Haraldsøn,Undirected,1
+Ingegerd,Sveakongen,Undirected,1
+Kong Olav,Olav,Undirected,1
+Astrid Kongedatter,Harald haarfagre,Undirected,1
+Guttorm,Ragnvald Jarl,Undirected,1
+Guttorm,Jarlen,Undirected,1
+Erling Hersens,Snefrid,Undirected,1
+Astrid,Ragnvald Jarl,Undirected,2
+Kaabe,Snefrid,Undirected,1
+Jarlen,Kaabe,Undirected,1
+Hird,Olav,Undirected,1
+Astrid,Hird,Undirected,1
+Erling Hognesøn,Guttorm Herse,Undirected,2
+Guttorm Herse,Olav,Undirected,1
+Astrid Olofsdatter,Erling Hognesøn,Undirected,1
+Erling,Herse,Undirected,1
+Herse,Thore Sæl,Undirected,1
+Astrid,Hersen,Undirected,1
+Kong Olav,Thore Sæl,Undirected,1
+Kong Olav,Olav Trygvesøn,Undirected,1
+Harald haarfagre,Olav Trygvesøn,Undirected,1
+Astrid,Harald haarfagre,Undirected,1
+Astrid Kongedatter,Astrid Olofsdatter,Undirected,1
+Astrid Olofsdatter,Harald,Undirected,1
+Astrid Olofsdatter,Gud,Undirected,1
+Gud,Guttorm,Undirected,1
+Astrid,Gud,Undirected,2
+Guttorm,Vennemund,Undirected,1
+Ejdsivating,Guttorm,Undirected,1
+Ejdsivating,mys,Undirected,1
+Guttorm,mys,Undirected,1
+Astrid,Kong David,Undirected,1
+Gud,Kong David,Undirected,1
+Astrid Olofsdatter,Guttorm Herse,Undirected,1
+Erling,Guttorm Herse,Undirected,1
+Astrid Olofsdatter,Guttorm,Undirected,1
+Erling,Staal,Undirected,1
+Staal,Sten,Undirected,1
+Astrid,Svend,Undirected,1
+Astrid,Guttorm,Undirected,1
+Ragnvald Jarl,Snefrid,Undirected,1
+Ragnvald Jarl,Sigrid storraade,Undirected,1
+Astrid Kongedatter,Sigrid storraade,Undirected,1
+Herse,hans Odelsgaard,Undirected,1
+Astrid Olofsdatter,Herberg,Undirected,1
+Astrid,Astrid Snefrid,Undirected,1
+Astrid Snefrid,Snefrid Erling Hognesøn,Undirected,1
+Snefrid Erling Hognesøn,Øxeo,Undirected,1
+Gud,Øxeo,Undirected,1
+Astrid Olofsdatter,Fæstensøl,Undirected,1
+Fæstensøl,Kong Olav,Undirected,1
+Erling Hognesøn,Snefrid Guttormsdatter,Undirected,1
+Erling,Snefrid Guttormsdatter,Undirected,1
+Børgolf,Erling og,Undirected,1
+Erling og,Snefrid,Undirected,1
+Olav,Ragnvald Jarl,Undirected,1
+Astrid,Haraldsøn,Undirected,1
+Snefrid,Thord Skotakold,Undirected,1
+Erling,Thord Skotakold,Undirected,1
+Erling,Orm,Undirected,2
+Erling,Skara,Undirected,1
+Skara,Upsal,Undirected,1
+Dronning Astrids,Erling Hognesøn,Undirected,1
+Kongsgaardeu Augvaldsnæs,Thore Sæl,Undirected,1
+Børgolf,Snefrid Guttormsdatter,Undirected,1
+Erling Aarmand,Erling Herse,Undirected,1
+Erling Hognesøn,Ragna,Undirected,1
+Husbond,Ragna,Undirected,1

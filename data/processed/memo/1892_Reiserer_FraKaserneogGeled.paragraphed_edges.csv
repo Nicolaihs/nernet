@@ -1,0 +1,36 @@
+source,target,type,weight
+Kofoed,Schwarz,Undirected,1
+August Bostrøm,Peters,Undirected,1
+Jensen,Jensens,Undirected,1
+August Bostrøm,Syndergaard,Undirected,1
+Bostrøms,Jensen,Undirected,1
+Jensen,Syndergaard,Undirected,1
+Bostrøm,Syndergaard,Undirected,2
+Bostrøm,Jespersen,Undirected,3
+Henrik Ibsensk,Syndergaard,Undirected,1
+Busch,Ludvig,Undirected,1
+Ludvig,Schneider,Undirected,2
+Ehrenberg,Ludvig,Undirected,1
+Ehrenberg,Schneider,Undirected,1
+Ehrenberg,Josephsen,Undirected,1
+Juuls,bægge,Undirected,1
+Juul,bægge,Undirected,1
+Bægge,Juul,Undirected,1
+Juul,Stolts,Undirected,2
+Annette,Juul,Undirected,1
+Klinger,Petersen,Undirected,2
+Kathedrets,Petersen,Undirected,1
+Ahlgaard,Kathedrets,Undirected,1
+Ahlgaard,karl,Undirected,1
+Landberg,karl,Undirected,1
+Duksen,Magen,Undirected,1
+Klinger,Magen,Undirected,1
+Grau-sinn,Janniche,Undirected,1
+Janniche,Okarino,Undirected,1
+Kaspersen,Okarino,Undirected,1
+Juul,Klinger,Undirected,3
+Knudsen,Sophie,Undirected,5
+Sophie,hans,Undirected,1
+Knudsen,hans,Undirected,1
+Gud,Knudsen,Undirected,1
+Knudsen,Venus,Undirected,1

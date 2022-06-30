@@ -1,0 +1,516 @@
+source,target,type,weight
+Kong Frederik,Seirs,Undirected,1
+Frederik,Seirs,Undirected,1
+Frederik,Grevens,Undirected,1
+Anna Sophie,Grevens,Undirected,1
+Anna Sophie,Charlotte Amalie,Undirected,29
+Geheimeraadinde Blohme,Komtesse Friis,Undirected,1
+Grev Holsteins,Komtesse Friis,Undirected,1
+Charlotte Amalie,Grev Holsteins,Undirected,1
+Charlotte Amalie,Louises,Undirected,2
+Guds,Louises,Undirected,1
+Anna Sophie,Guds,Undirected,1
+Charlotte Amalie,Evropas,Undirected,1
+Evropas,Geheimeraadinde,Undirected,1
+Blohmes,Geheimeraadinde,Undirected,1
+Blohme,Ottoman,Undirected,1
+Blohme,Schulin,Undirected,1
+Hedvigs,Pless,Undirected,1
+,Pless,Undirected,11
+Schulin,Sophie Magdalene,Undirected,1
+Geheimeraadinden,Hedvig,Undirected,1
+Anna Sophie,Carl von Pless,Undirected,2
+Carl von Pless,elvte,Undirected,1
+Charlotte Amalie,Guds,Undirected,1
+Frederik den Fjerdes,Ulrik Adolf Holstein,Undirected,1
+Froken Holstein,Sophie Hedvigs,Undirected,1
+Geheimeraad von Osfen,Sophie Hedvigs,Undirected,1
+Geheimeraad von Osfen,Sponeck,Undirected,1
+Osten,Sponeck,Undirected,1
+Christiane Sophie,Frederik Ernst,Undirected,1
+Möstings,Peter Ryssel,Undirected,1
+Møsting,Peter Ryssel,Undirected,1
+Møsting,j,Undirected,1
+Peter Ryssel,Ryssel,Undirected,1
+Anna Sophie,Ryssel,Undirected,1
+Anna Sophie,Hans Troyel,Undirected,1
+Hans Troyel,Ryssel,Undirected,1
+Charlotte Amalie,Ryssel,Undirected,2
+Christian den,Ryssel,Undirected,2
+Møsting,von der Lith,Undirected,2
+Charlotte Amalie,Møsting,Undirected,1
+Andreas Thorsen,Simonis,Undirected,1
+Andreas Thorsen,Thorsen,Undirected,2
+Abelone,Thorsen,Undirected,7
+Gerhard,lille Abelone,Undirected,1
+Abelone,Poul Onju2chowitsch,Undirected,1
+Abelone,Gud,Undirected,1
+Gerhard,Thorsen,Undirected,40
+Christian Gersdorf,Gerhard,Undirected,6
+Christian Gersdorf,Jsgaard,Undirected,1
+Jsgaard,Kjærsgaard,Undirected,1
+Kjærsgaard,Roelsegaard,Undirected,1
+Konferenfsraad,Roelsegaard,Undirected,1
+Gersdorf,Konferenfsraad,Undirected,1
+Gersdorf,Margrethe,Undirected,1
+Krabbe,Margrethe,Undirected,1
+Geheimeraad Gersdorf,Krabbe,Undirected,1
+Geheimeraad Gersdorf,Gerhard,Undirected,1
+Frederik,Gerhard,Undirected,1
+Gerhard,Sophie Magdalene,Undirected,2
+Gerhard,Melone,Undirected,2
+Czar Peter,øberst Soltikow,Undirected,1
+Foslerson,Thorsen,Undirected,1
+Czarens,Gerhard,Undirected,1
+Czarens,Menzikow,Undirected,1
+Christian Gersdorf,Thorsen,Undirected,1
+Christian,Thorsen,Undirected,1
+Andreas Høier,Thorsen,Undirected,1
+Christian den,Thorsen,Undirected,1
+Georg,Gersdorf,Undirected,1
+De Thurah,Thorsen,Undirected,1
+Christian,Gersdorf,Undirected,1
+Bluhme,Gersdorf,Undirected,1
+Bluhme,Zinzendorf,Undirected,1
+Anna Sophie,Chrisfian den,Undirected,2
+Chrisfian den,Gersdorf,Undirected,1
+Carl Pless,Gersdorf,Undirected,1
+Pless,Sophie Hedvigs,Undirected,1
+Abelone,Gerhard,Undirected,11
+Abelone,Christian Gersdorf,Undirected,1
+Gerhard,Gersdorf,Undirected,10
+Gersdorf,Zefyrs,Undirected,1
+Gersdorf,Løitnant Frederik Reenberg,Undirected,1
+Løitnant Frederik Reenberg,Tøger Reenberg,Undirected,1
+Ristrup,Tøger Reenberg,Undirected,1
+Reenberg,Ristrup,Undirected,1
+Gerhard,Reenberg,Undirected,1
+Abelone,Gerhard ene,Undirected,1
+Abelone,Hatz von Hahn,Undirected,1
+Gerhard,Hatz von Hahn,Undirected,1
+Gerhard,Monsieur,Undirected,2
+Gerhard fom,Hahns,Undirected,1
+Hahns,Thorsen,Undirected,1
+Kong August,Peters,Undirected,1
+Gerhard,Hahn,Undirected,17
+Abelone,Hahn,Undirected,4
+Gerhard,Poul Onjuchowitsch,Undirected,7
+Gerhard,Hakz von Hahn,Undirected,1
+Abelone,Jesus,Undirected,1
+Hahn,Thorsen,Undirected,2
+Charlotte Amalie,Geheimeraadinde Charlotte Amalie Blohme,Undirected,2
+Charlotte Amalie,Geheimeraadinde Blohme,Undirected,6
+Charlotte Amalie,Seil,Undirected,1
+Charlotte Amalie,Uveir,Undirected,1
+Lise Rosenberg,Uveir,Undirected,1
+Abro,Lise Rosenberg,Undirected,1
+Charlotte Amalie,Lise Rosenberg,Undirected,4
+Gerhard,Gud,Undirected,2
+Charlotte Amalie,Gerhard,Undirected,33
+Charlotte Amalie,otz,Undirected,1
+Lise,Poul Onjuchowitsch,Undirected,2
+Abro,Lise,Undirected,1
+Charlotte Amalie,Thorsen,Undirected,9
+Lise Rosenborg,Thorsen,Undirected,1
+Lise Rosenborg,Poul Onjuchowitsch,Undirected,1
+Abelone,Poul Onjuchowitsch,Undirected,4
+Abelone,Charlotte Amalie,Undirected,3
+Charlotte Amalie,Lise,Undirected,3
+Gud,Lise Rosenberg,Undirected,1
+Gud,Thorsen,Undirected,2
+Gerhard vexlede,Thorsen,Undirected,1
+Gerhard vexlede,glæedelos,Undirected,1
+Sophie Magdalene,glæedelos,Undirected,1
+Lise,Sophie Magdalene,Undirected,1
+Gerhard,Lise,Undirected,2
+Hatz von Hahn,Sophie Magdalene,Undirected,1
+Hahn,Hatz von Hahn,Undirected,1
+Hahn,fom,Undirected,2
+Hahn,Sophie Magdalene,Undirected,1
+Carl,Hahn,Undirected,1
+Carl,Stolberg,Undirected,1
+Bluhme,Stolberg,Undirected,2
+Bluhme,Hahn,Undirected,2
+Gerhard,Ore,Undirected,1
+Pleiesøns,Thorsen,Undirected,1
+Pleiesøns,Tønne Reetz,Undirected,1
+Hahn,Tønne Reetz,Undirected,1
+Abelone,Lise Rosenberg,Undirected,1
+Lise Rosenberg,Poul Onjuchowitsch,Undirected,3
+Abelone,Lise,Undirected,1
+Anna Sophie,Gerhard,Undirected,12
+Thorsen,nil,Undirected,1
+Gerhard,nil,Undirected,1
+Kong Frederik,grant,Undirected,1
+Anna Sophie,grant,Undirected,2
+Charlotte Amalie,hans,Undirected,1
+Gerhard,hans,Undirected,1
+Frederik Rantzau,Hoffmann,Undirected,2
+Frederik den,Hoffmann,Undirected,1
+Christian,Frederik den,Undirected,1
+Christian,Hoffmann,Undirected,1
+Anna Sophie,Hoffmann,Undirected,2
+Anna Sophie,Christian den,Undirected,3
+Christian den,Holsteins,Undirected,1
+Holsteins,Rantzaus,Undirected,1
+Geheimeraad Blohmes,Rantzaus,Undirected,1
+Frederik Rankzau,Geheimeraad Blohmes,Undirected,1
+Anna Sophie,Frederik Rankzau,Undirected,1
+Anna Sophie,Page,Undirected,1
+Gerhard,Page,Undirected,1
+Gerhard,Hoffmann,Undirected,1
+Gerhard,Rantzau,Undirected,5
+Gerhard,Rankzau,Undirected,1
+Gerhard,Komtesse Reventlov,Undirected,1
+Kammerjomfrus,Lise Rosenberg,Undirected,1
+Kammerjomfrus,Rantzau,Undirected,1
+Lise,Rantzau,Undirected,2
+Lise neiede,Rantzau,Undirected,1
+Hoffmann,Rantzau,Undirected,2
+Charlotte Amalie,Hoffmann,Undirected,1
+Poul Onjuchowüsch,Thorsen,Undirected,1
+Charlotte Amalie,Frederik den,Undirected,4
+Admiral Sehested,Frederik den,Undirected,2
+Rantzau,Thorsen,Undirected,4
+Charlotte Amalie,Rantzau,Undirected,2
+Karl Frederiks,effen,Undirected,1
+Charlotte Amalie,Kong Frederik,Undirected,1
+Charlotte Amalie,Frederik Rantzau,Undirected,1
+Lise Rosenberg,Poul Onjuchowifsch,Undirected,1
+Gerhard,Poul Onjuchowifsch,Undirected,1
+Anna Sophie,Tycho Brahes,Undirected,1
+Kong Frederik,fom,Undirected,1
+Anna Sophie,Kong Frederik,Undirected,2
+Anna Sophie,Schive,Undirected,3
+Gud,Schive,Undirected,1
+Dorothea Holstein,Vinterfeldt,Undirected,1
+Frederik Reventlov,Vinterfeldt,Undirected,1
+Frederik Rantzau,Frederik Reventlov,Undirected,1
+Frederik Rantzau,Jusfitsraad Hoffmann,Undirected,1
+Anna Cathrine Grønvald,Jusfitsraad Hoffmann,Undirected,1
+Anna Cathrine Grønvald,Jomfru Ollegaard Rosfrop,Undirected,1
+Frederik Olland,Jomfru Ollegaard Rosfrop,Undirected,1
+Anna Sophie,Frederik Olland,Undirected,1
+Anna Sophie,eiede,Undirected,1
+Anna Sophie,Frederik den,Undirected,5
+Holstein,j,Undirected,1
+Anna Sophie,k Anna Sophie,Undirected,1
+Anna Sophie,Dronning Louises,Undirected,1
+Anna Sophie,Frederik,Undirected,4
+Frederik,Stissers,Undirected,1
+Anna Sophie,Sophie Hedvig,Undirected,2
+Anna Sophie,Dorothea Holstein,Undirected,4
+Dorothea Holstein,Frederik,Undirected,1
+Christian Danneskjold Laurvig,Frederik,Undirected,1
+Anna Sophie,Christian Danneskjold Laurvig,Undirected,1
+Frederik,Gemals,Undirected,1
+Charlotte Amalie,Dorothea,Undirected,1
+Hoffmann,Rankzau,Undirected,1
+Frederik Ølland,Hoffmann,Undirected,1
+Charlotte Amalie,Frederik Ølland,Undirected,1
+Anna Sophie,Rantzau,Undirected,1
+Anna Sophie,Dorothea,Undirected,1
+Charlotte,Frederik,Undirected,1
+Anna Sophie,Geheimeraadinde Blohme,Undirected,3
+Bluhme,Charlotte,Undirected,1
+Charlotte Amalie,Clausholms,Undirected,1
+Clausholms,Gud,Undirected,1
+Charlotte Amalie,Gud,Undirected,2
+Hoffmann,Prinsessen,Undirected,1
+Charlotte Amalie,Gersdorf,Undirected,3
+Gersdorf,Hatz von Hahn,Undirected,2
+Abelone,Karl,Undirected,1
+Karl,Taterhex,Undirected,1
+Gerhard,Kurt Thorsen,Undirected,1
+Gud,Husbond,Undirected,1
+Kurt,Lars Thorsens,Undirected,1
+Poul Onjuchowitsch,Rantzau,Undirected,2
+Christian,Zefyr,Undirected,1
+Gerhard,Vosnæsgaard,Undirected,2
+Kong Frederik den Fjerde,nna Sophie,Undirected,1
+Anna Sophie,Kong Frederik den Fjerde,Undirected,1
+Charlotte,Dorothea Holstein,Undirected,1
+Amalie,Charlotte,Undirected,9
+Gerhard,LiseRosenberg,Undirected,2
+Charlotte Amalie,fom,Undirected,1
+d?,fom,Undirected,1
+Anna Jwanowna,Gerhard,Undirected,2
+Anna Sophie,vills,Undirected,2
+Poul Onjuchowitsch,Thorsen,Undirected,1
+Gerhard ham,Thorsen,Undirected,1
+Gerhard“,Thorsen,Undirected,1
+Charlotte,Gerhard,Undirected,3
+Anna Sophie,Thorsen,Undirected,3
+Gerhard,Kong Frederik,Undirected,2
+Charlotte,Charlotte Amalie,Undirected,3
+Charlotte,Gerhard halvhoit,Undirected,1
+Charlotte Amalie,Gerhard halvhoit,Undirected,1
+Frederik den,ronning Charlotte Amalie,Undirected,1
+Frederik den,Hedvig,Undirected,1
+Carl,Hedvig,Undirected,4
+Anna Sophie,Carl,Undirected,3
+Carl,Christian,Undirected,1
+Christian,von,Undirected,1
+Anna Sophie,von,Undirected,1
+Frederik den,Pless,Undirected,4
+Johan Georg,Sophie Hedvig,Undirected,2
+Keisers,Sophie Hedvig,Undirected,1
+Joseph,Keisers,Undirected,1
+Joseph,Karl den Tolvte,Undirected,1
+Karl den Tolvte,Sophie,Undirected,1
+Hedvig,Sophie,Undirected,2
+Geheimeraad Carl Adolf Plessen,Hedvig,Undirected,1
+Geheimeraad Carl Adolf Plessen,Sophie Hedvig,Undirected,1
+Peter,Sophie Hedvig,Undirected,1
+Peter,Ryssel,Undirected,1
+Charlotte Amalie,Høiheds,Undirected,1
+Charlotte Amalie,Hans Excellence Mosting,Undirected,1
+Geheimeraad Blohmes,Komtesse Reventlov,Undirected,1
+Lakai,Sophie Hedvig,Undirected,1
+Brysf,Frederik den,Undirected,1
+Anna Sophie,Pless,Undirected,10
+Carl,Pless,Undirected,2
+Pless,grant,Undirected,2
+Carl Pless,seil,Undirected,1
+Adolf Ulrik Holsteins,Carl Pless,Undirected,1
+Adolf Ulrik Holsteins,Anna Sophie,Undirected,1
+Carl Pless,Pless,Undirected,1
+Anna Sophie,Carl Pless,Undirected,1
+Pallasf,Pless,Undirected,2
+Christian,Pless,Undirected,3
+Christian,Christian den,Undirected,2
+Christian den,Sophie Magdalene,Undirected,2
+Pless,Sophie Magdalene,Undirected,1
+Charlotte Amalie,Pless,Undirected,12
+Gyldenlund,Sophie Hedvig,Undirected,1
+Charlotte Amalie,Sophie Hedvig,Undirected,2
+Engelcke Bülov,Linstov,Undirected,1
+Charlotte Amalie,Dorothea Holstein,Undirected,2
+Olland,fom,Undirected,1
+Hedvig,Pless,Undirected,7
+-Hedvig,Charlotte Amalie,Undirected,1
+Pless,Thorsen,Undirected,6
+Gud,Thorfen,Undirected,1
+Gerhard,Thorfen,Undirected,1
+Anna Sophie,Kong Frederiks Hjerte,Undirected,1
+,Gerhard,Undirected,1
+Kaarde,Pless,Undirected,1
+Carl von Pless,Hedvig,Undirected,1
+Pless,Præsf,Undirected,1
+Prinsesse Hedvigs,Thorsen,Undirected,1
+Dronning Juttas,Valdemar Seirs,Undirected,1
+Dronning Juttas,Erik Glippings,Undirected,1
+Erik Glippings,Niels Ebbesens,Undirected,1
+Frederik den,Niels Ebbesens,Undirected,1
+Clausen,Frederik den,Undirected,1
+Clausen,Frederik,Undirected,1
+Carl von Pless,Sophie Hedvig,Undirected,1
+Pless,Sophie Hedvig,Undirected,6
+Clausen,Pless,Undirected,1
+Clausen,Thorsen,Undirected,1
+Thorsen,ane,Undirected,1
+Hedvig,Sophie Hedvig,Undirected,3
+Eden,Pless,Undirected,2
+Eden,Sophie,Undirected,1
+Sophie Hedvig,Thorsen,Undirected,3
+Gerhard,Sophie Hedvig,Undirected,3
+Carl,Gerhard,Undirected,1
+Hedvig,Thorsen,Undirected,3
+Thorsen,Ørengen,Undirected,2
+Frederik,Pless,Undirected,1
+Gerhard,Pless,Undirected,11
+Geheimeraad Pless,Gerhard,Undirected,2
+Gerhard,Hedvig,Undirected,1
+Gerhard,Lakai,Undirected,1
+Christian,Gerhard,Undirected,1
+Gerhard hensunken,Pless,Undirected,1
+Anna Sophie,hayr,Undirected,1
+Poul Onjuchowitsch,Sophie Hedvig,Undirected,1
+Thorsen,sophie Hedvig,Undirected,1
+Anna Iwanownas,Pless,Undirected,1
+Amour,Pless,Undirected,1
+Gerhard,Præsf,Undirected,2
+Poul Onjuchowitsch,Præsf,Undirected,1
+Pless,Poul Onjuchowitsch,Undirected,3
+Charlotte Amalie,næsfen,Undirected,1
+Eberhard,Thorsen,Undirected,1
+Hatz von Hahn,Thorsen,Undirected,2
+Blomsfen,Thorsen,Undirected,1
+Chrislian Gersdorf,Gerhard,Undirected,2
+Amtmand Gersdorfs,Chrislian Gersdorf,Undirected,1
+Charlotte,soregøgl,Undirected,1
+Præsf,Thorsen,Undirected,1
+Geheimeraadinde Blohme,Gerhard,Undirected,2
+Geheimeraadinde Blohme,Thorsen,Undirected,2
+Pless,elernonos,Undirected,1
+Geheimeraad,Sophie Magdalene,Undirected,1
+Geheimeraad,Plefs,Undirected,1
+,Plefs,Undirected,1
+,Charlotte Amalie,Undirected,1
+Charlotte Amalie,Christian,Undirected,4
+Geheimeraadinde Blohme,Pless,Undirected,1
+Pagers,Pless,Undirected,1
+Charlotte,Pagers,Undirected,1
+Amalie,Gerhard,Undirected,2
+Amalie,Pless,Undirected,1
+Charlotte Amalie,Zefirs,Undirected,1
+Gerhard,Zefirs,Undirected,1
+Gerhard,Poul Ønjuchowitschs,Undirected,1
+Hedvig,Poul Ønjuchowitschs,Undirected,1
+Charlotte,Sophie Hedvig,Undirected,1
+Charlotte,Pless,Undirected,1
+Amalie,Gerhard feirede,Undirected,1
+Gerhard feirede,Lise Rosenberg,Undirected,1
+Charlotte Amalie,Haxthausen øg Berner,Undirected,1
+Haxthausen øg Berner,høit,Undirected,1
+Hofmarschal,høit,Undirected,1
+Engelcke,Hofmarschal,Undirected,1
+Engelcke,von Bülov,Undirected,1
+Charlotte Amalie,von Bülov,Undirected,1
+Evropas,Kraff,Undirected,1
+Carl,Evropas,Undirected,1
+Carl,Gerhard Pless,Undirected,1
+Christian Gersdorf,Gersdorf,Undirected,1
+Hatz von Hahn,Tønne Reetz,Undirected,1
+Tygesen,Tønne Reetz,Undirected,1
+Christian Danneskjold,Tygesen,Undirected,1
+Christian Danneskjold,Johan Parsberg,Undirected,1
+Geheimeraad Claus Reventlov,Johan Parsberg,Undirected,1
+Eskær,Geheimeraad Claus Reventlov,Undirected,1
+Eskær,Løitnant Frederik Reenberg,Undirected,1
+Gersdorf,Toger Reenbergs,Undirected,1
+Danneskjold-Laurvig,Toger Reenbergs,Undirected,1
+Anna Jwanowna,Frederik Rantzau,Undirected,1
+Frederik Reenberg,Ritmester Parsberg,Undirected,1
+Lars Thorsens,Niels Tygesen,Undirected,1
+Gerhard,Lars Thorsens,Undirected,1
+Gerhard,Kurt,Undirected,1
+Gersdorf,Kurt,Undirected,1
+Gersdorf,Hahn,Undirected,4
+Gerhard,Kaarde,Undirected,2
+Carl Pless,Sophie Hedvig,Undirected,1
+Gersdorf,Obersf Gerhards,Undirected,1
+Christian Gersdorf,Frederik Reenberg,Undirected,1
+Danneskjold Laurvig,Tønne Reetz,Undirected,1
+Danneskjold Laurvig,Hahn,Undirected,1
+Danneskjolds,Hahn,Undirected,1
+Hahn,Teufel,Undirected,1
+Parsberg,Tygcsen,Undirected,1
+Hahn,Tygcsen,Undirected,1
+Hahn,gaa,Undirected,1
+Hahn,Vosnæsgaard,Undirected,1
+Hahn,Reenberg,Undirected,1
+Hahn,Kaarde,Undirected,1
+Gersdorf,Loitnant Frederik Reenberg,Undirected,1
+Hahn,Loitnant Frederik Reenberg,Undirected,1
+Gersdorf,Reenberg,Undirected,1
+Poul Onjuchowitsch,Reenberg,Undirected,1
+Gersdorf,Poul Onjuchowitsch,Undirected,1
+Charlotte Amalie,Løitnant Reenberg,Undirected,1
+Charlotte Amalie,^Geheimeraadinde Blohme,Undirected,1
+Charlotte Amalie,Geheimeraadinde«,Undirected,1
+Geheimeraadinde«,Thorsen,Undirected,1
+Christian Gersdorf,Poul Onjuchowitsch,Undirected,1
+Geheimeraadinde Blohme,Gersdorf,Undirected,1
+Gersdorf,Hakz von Hahn,Undirected,1
+Gerhard,Greven,Undirected,1
+Gersdorf,Thorsen,Undirected,1
+Geheimeraadinde,Gersdorf,Undirected,1
+Geheimeraadinde,Poul Onjuchowitsch,Undirected,1
+Madame,Sophie Hedvig,Undirected,1
+Hakz von Hahn,Thorsen,Undirected,1
+Clausholms,Pless,Undirected,1
+,Anna Sophie,Undirected,1
+Anna Sophie,Geheimeraad,Undirected,2
+Gersdorf,Pless,Undirected,1
+Anna Sophie,Gersdorf,Undirected,1
+Hahn,Honneurs,Undirected,1
+Honneurs,Pless,Undirected,1
+Charlotte Amalie,Poul Onjuchowitsch,Undirected,1
+Charlotte Amalie,Grev Danneskjold-Laurvig,Undirected,1
+Grev Danneskjold-Laurvig,Grev Reventlov,Undirected,1
+Frederik Rantzau,Grev Reventlov,Undirected,1
+Anna Sophie,Sophie modtog,Undirected,1
+Anna Sophie,Gud,Undirected,1
+Charlotte,Gud,Undirected,1
+Anna Sophie,Hedvig,Undirected,1
+Charlotte Amalie fil Gyldenlund,Peter Ryssel,Undirected,1
+Peter Ryssel,Poul Onjuchowitsch,Undirected,1
+Geheimeraadinde Blohme pleiede,Poul Onjuchowitsch,Undirected,1
+Gerhard,Jwanowna,Undirected,1
+Christian den,Sophie Hedvig,Undirected,1
+Hahn,Pless,Undirected,2
+Christian den,Hahn,Undirected,1
+Christian den,Pless,Undirected,2
+Christian den,Næsfe,Undirected,1
+Ludvig Pless,Næsfe,Undirected,1
+Carl Pless,Ludvig Pless,Undirected,1
+Carl Pless,Christian den,Undirected,1
+Charlotte Amalie,Chrisfian den,Undirected,1
+Geheimeraadinde Blohme,Gyldenlund,Undirected,1
+Chrisfian Gersdorf,Gyldenlund,Undirected,1
+Antoinette Rosenørn,Chrisfian Gersdorf,Undirected,1
+Antoinette Rosenørn,Charlotte Amalie,Undirected,1
+Charlotte Amalie,Sophie Magdalene,Undirected,6
+Gersdorf,Sophie Magdalene,Undirected,1
+Chrisfian,Frederik den,Undirected,1
+Chrisfian,Kongens,Undirected,1
+Carl,Kongens,Undirected,1
+Carl,Frederik,Undirected,2
+Anna Sophie,Holstein,Undirected,2
+Anna Sophie,Sophie Magdalene,Undirected,1
+August den,Sophie Magdalene,Undirected,1
+August den,Charlotte Amalie,Undirected,1
+Charlotte Amalie,Ivar Rosenkrands,Undirected,1
+Charlotte Amalie,Rosenkrands,Undirected,1
+Anna Sophie,Rosenkrands,Undirected,1
+Anna Sophie,Christian,Undirected,1
+Christian,Rosenkrands,Undirected,1
+Rosenkrands,Sophie Magdalene,Undirected,1
+Bluhme,Sophie Magdalene,Undirected,2
+Bluhme,Chrisfian Gersdorf,Undirected,1
+Chrisfian Gersdorf,Geheimeraad Blohme,Undirected,1
+Geheimeraad Blohme,Holstein,Undirected,1
+Chrisfian,Chrisfian Gersdorf,Undirected,1
+Charlotte Amalie,Chrisfian,Undirected,2
+Anna Sophie,Bluhme,Undirected,2
+Bluhme,Gud,Undirected,2
+Charlotte Amalie,Christian den,Undirected,9
+Christian den,Seir,Undirected,1
+Fritz,Hans Gram,Undirected,1
+Gram,Hans Gram,Undirected,1
+Gram,Prinz,Undirected,1
+Charlotte Amalie,Frederik Eiegod,Undirected,1
+Henrik Tillifch,Stolberg,Undirected,1
+Charlotte,Henrik Tillifch,Undirected,1
+Amalie,Christian den,Undirected,1
+Berkentin,Bluhme,Undirected,2
+Bluhme,Christian den,Undirected,1
+Frederik,Georg den,Undirected,1
+Christian den,Therese Natalia,Undirected,1
+Charlotte Amalie,Frifz,Undirected,1
+Charlotte Amalie,Prinsesse Louise,Undirected,1
+Christian,Eders,Undirected,1
+Eders,Gud,Undirected,1
+Gud,Sverrig,Undirected,1
+Gemalindes,Therese,Undirected,1
+Kronprins Frederiks,Therese,Undirected,1
+Charlotte Amalie,grant,Undirected,2
+Frederik,Sophie Magdalene,Undirected,2
+Frederik,Louise,Undirected,1
+Charlotte Amalie,Louise,Undirected,1
+Christian,Sophie Magdalene,Undirected,1
+Christian,Frederik,Undirected,1
+Hans Durchlauchtighed,Markgreve Frederik Ernst,Undirected,1
+Frederik den,Sophie Magdalena,Undirected,1
+Markgrevens,Sophie Magdalene,Undirected,1
+Fritz,Lakaien,Undirected,1
+Frederik,Gud,Undirected,1
+Charlotte Amalie,Frederik,Undirected,2
+Frederik den,Sophie Magdalene,Undirected,1
+Bernstorff,Sophie Magdalene,Undirected,1
+Frederik,Juliane Marie,Undirected,1
+Juliane Marie,Therese,Undirected,1
+Charlotte Amalie,Therese,Undirected,1
+Charlotte Amalie,Dronning Louise,Undirected,1
+Dronning Louise,Gerhard,Undirected,1

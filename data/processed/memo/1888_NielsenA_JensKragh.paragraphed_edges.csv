@@ -1,0 +1,278 @@
+source,target,type,weight
+Jens,Smed,Undirected,1
+,Jens,Undirected,27
+Jens,lille Anna,Undirected,1
+Jens,dies,Undirected,1
+Anna,Jens,Undirected,62
+Hclgaards,Simon Krænscn,Undirected,1
+Simon,Simons,Undirected,1
+Røsf,Simon,Undirected,2
+Gud,Simon,Undirected,1
+Ieg,Simon,Undirected,1
+Gud,jerres,Undirected,1
+Simon,Simon tillivs,Undirected,1
+Havren,Simon,Undirected,1
+Jomfru Anna,hnn,Undirected,1
+Gud,hnn,Undirected,2
+Peer Agerskovs,Peers,Undirected,1
+Peer,Peers,Undirected,1
+Peer,Peer Agerskovs,Undirected,2
+Anna,Gud,Undirected,5
+Gud,Jens,Undirected,12
+Dorthe,Mette,Undirected,1
+Jens,Mette,Undirected,4
+Jens,Jens Kmgh-,Undirected,1
+Gammel-hald,Simon Krænsens,Undirected,1
+Jens,Sofie Magdalene,Undirected,1
+Bernstorff,Sofie Magdalene,Undirected,1
+Bernstorff,Gud,Undirected,1
+Anna,Mads,Undirected,1
+Anna,Simon Krænsens,Undirected,1
+Mikkel „,lille Anna,Undirected,1
+Jens,Mynden,Undirected,2
+Gud,Johanne Kragcdal,Undirected,1
+Gud,Hnn,Undirected,1
+Hnn,Johannes,Undirected,1
+Johanne,hnn,Undirected,1
+I. K.,Jens,Undirected,1
+Jens,Kragedal,Undirected,1
+Jens Kragh,Kragedal,Undirected,1
+Jens,fig,Undirected,3
+Anna,Mikkel „,Undirected,2
+Jens,Karen Jensdatter,Undirected,1
+Jesper Skovrider,Karen Jensdatter,Undirected,1
+Jens blet,Jesper Skovrider,Undirected,1
+Bernstorff,Jens blet,Undirected,1
+Bernstorff,hnn,Undirected,1
+Karo,hnn,Undirected,2
+Karo,jv,Undirected,2
+Karo,Mikkel,Undirected,2
+Mikkel,sra,Undirected,1
+Anna,Jærnstang,Undirected,1
+Jærnstang,Mikkel,Undirected,1
+Gud,sisfe,Undirected,1
+Anna,Karo,Undirected,2
+Anna,Sfikkelfen,Undirected,1
+Anna,bette Grete,Undirected,1
+Mikkel,bette Grete,Undirected,1
+Anna,Mikkel,Undirected,16
+Anna,hnn,Undirected,4
+Jens,hnn,Undirected,2
+Dorthe,Jens,Undirected,2
+Davre,Dorthe,Undirected,2
+Anna,Dorthe,Undirected,7
+Dorthe,Ridefogeds,Undirected,1
+Ridefogeds,sidsf,Undirected,1
+Anna,sidsf,Undirected,1
+Anna,Josos,Undirected,1
+Dvrthe,Mikkel,Undirected,1
+Dorthe,Karo,Undirected,1
+Anna?,Dorthe,Undirected,1
+Jens Aragh,Mikkel,Undirected,1
+Dyrerov,Mikkel,Undirected,1
+Dorthe,hnn,Undirected,2
+Anna,JeSpers,Undirected,1
+JeSpers,Jespers,Undirected,1
+Naadigherrens,Simon Krænsen,Undirected,1
+Anna,Simon,Undirected,1
+Jesper,fig,Undirected,1
+Ester,Hans,Undirected,1
+Karen,Knud Skytte,Undirected,1
+Jens,Kragh,Undirected,2
+Hain,Hans,Undirected,2
+Hans,hans Baand,Undirected,1
+Ester,Ridefoged,Undirected,1
+Anna,Bosse,Undirected,1
+Anna,lille Hans,Undirected,1
+Anna,ester,Undirected,2
+Anna,Hans,Undirected,3
+Anna,Hr. Sørens,Undirected,1
+Anua,Hr. Sørens,Undirected,1
+Hans,Jens,Undirected,13
+hnn,sif,Undirected,1
+Anna,KE,Undirected,1
+Mikkel,sordi Simons,Undirected,1
+Billie,Simon Krænsen,Undirected,1
+Billie,Gud,Undirected,1
+Gud,Mikkel,Undirected,1
+Ester,Jens,Undirected,1
+Haus,Jens,Undirected,1
+Hans,Haus,Undirected,1
+Anna,hans Bejlen,Undirected,2
+Jens,Jomfru Anna,Undirected,2
+Jens,Jens Kcagd,Undirected,1
+Jørgen,Peersen,Undirected,1
+Dorthe,Jørgen,Undirected,1
+Niels,Niels Hellerup,Undirected,2
+Ester,Niels,Undirected,1
+,Niels,Undirected,1
+Anna,kenn,Undirected,1
+Jens,Karo,Undirected,4
+Jens,nn,Undirected,2
+Anna,Gregers,Undirected,1
+Hans,dito,Undirected,2
+,Jens Belonning,Undirected,1
+Jens Kragh,Karo,Undirected,1
+Hans,Karo,Undirected,1
+,Anna,Undirected,4
+Jens,hair,Undirected,1
+Niels Bugges Slolsruincr,Sven,Undirected,1
+Anna,Hesfen,Undirected,1
+Dorthe,Hesfen,Undirected,1
+Anna,Sons,Undirected,1
+Jens,Jens svr,Undirected,1
+Anna,glædedcs,Undirected,1
+Jens,Ridefogdens,Undirected,1
+Gud,ester,Undirected,1
+Ejnar Tambeskjælver,Palnatoke,Undirected,1
+Mynden,Myndes,Undirected,1
+Johanne Kragedals,Myndes,Undirected,1
+Johanne Kragedals,Karl,Undirected,1
+Karl,Kragedal,Undirected,1
+Palnatoke,estersaa,Undirected,2
+Harald Blaatands,Palnatoke,Undirected,1
+Harald Blaatands,Mynden,Undirected,1
+Karl,Mynden,Undirected,1
+Karl,Karlens,Undirected,1
+Halds,fil,Undirected,1
+Hald,fil,Undirected,2
+Gud,fil,Undirected,1
+Bien,Jens,Undirected,1
+Jens,hau,Undirected,2
+Jens,Klaus,Undirected,21
+Klaus,faf,Undirected,1
+Jens,faf,Undirected,1
+Klaus,hnn,Undirected,2
+Hain,Klaus,Undirected,2
+,Klaus,Undirected,4
+Jens Kragk-,Klaus,Undirected,1
+Karen,Kristen,Undirected,1
+Jens,Jens næsfen,Undirected,1
+Jens næsfen,hnn,Undirected,1
+Karen,ester Jomfru Anna,Undirected,1
+Jens,Karen,Undirected,3
+Karen,Naadigherrens,Undirected,1
+Jens Staldkarl,Karen,Undirected,3
+Karen,Naadigherren,Undirected,1
+Jens,Naadigherren,Undirected,4
+Tu,lille Karen,Undirected,1
+Karen,Ten Tag,Undirected,1
+Jens,Jens Staldkarl,Undirected,1
+Karen Jensdatter,Karl,Undirected,1
+Karen,Karl,Undirected,1
+Jens,ban,Undirected,1
+,Karen,Undirected,1
+Anna Karens,Karen,Undirected,1
+Anna Karens,Jens,Undirected,1
+Anna,Karen,Undirected,5
+Karen,kjæræ Jens,Undirected,1
+Jens,Karl,Undirected,2
+Jens,vedstaa sif,Undirected,1
+Jens,sra sif,Undirected,2
+Hain,Jens,Undirected,1
+Anna blev,Hain,Undirected,1
+Anna blev,hans,Undirected,1
+Hnstru,hans,Undirected,1
+Karl vg,Mynden,Undirected,1
+Karen Jensdatter,Karl vg,Undirected,1
+Karen,Karen Jensdatter,Undirected,1
+Karen,Liaison,Undirected,1
+Bel,Jens,Undirected,2
+Karen,Malicicn,Undirected,1
+Jens,Malicicn,Undirected,1
+,Knud Skytte,Undirected,1
+Jens Kragh,Knud Skytte,Undirected,1
+Karen,Knud,Undirected,4
+Anna,Guddatter,Undirected,1
+Gud,rinde,Undirected,1
+Jens stegen,rinde,Undirected,1
+Jens,Jens stegen,Undirected,1
+Graad,Jens,Undirected,2
+Gud,Niere,Undirected,1
+Anna,Niere,Undirected,1
+Anna,hans Anna,Undirected,1
+Jens,hans Anna,Undirected,1
+Anna,Kronprins,Undirected,1
+Bernstorff,Kronprins,Undirected,1
+Bernstorff,Kolbjornsen,Undirected,1
+Jens,Naadigherrcns,Undirected,1
+Mette,Naadigherrcns,Undirected,1
+Bo,Mette,Undirected,1
+Bo,Karen Jensdatter,Undirected,1
+Karen Jensdatter,Tu,Undirected,1
+Jens,Jens Kragh,Undirected,8
+Jens,lille Guddatter,Undirected,1
+Mette,Moder,Undirected,1
+Moder,hnn,Undirected,1
+Johanne,Mette,Undirected,1
+Jens Kragh,hnn,Undirected,1
+Sosfer Jens Kragh,hnn,Undirected,1
+Jens Kragh,Jutas,Undirected,1
+Juta,Jutas,Undirected,1
+Jens,Juta,Undirected,1
+Kragh,hnn,Undirected,1
+Juta Kragh,hnn,Undirected,1
+Juta Kragh,dn,Undirected,1
+Frokenen,Gud,Undirected,1
+Gud,Son,Undirected,2
+Gud,Johanne,Undirected,1
+Jens Kragh,Johanne,Undirected,1
+Johanne Kragedal,Mollerens,Undirected,1
+Johanne Kragedal,Moller,Undirected,1
+Johanne,Moller,Undirected,1
+Jens,fnart,Undirected,1
+Gud,fnart,Undirected,1
+Frøken Juta,Jens Kragh,Undirected,1
+Froken Jutas,Jens,Undirected,1
+Froken Jutas,Mette,Undirected,1
+Anna,fig,Undirected,1
+Anna,Naadigherren,Undirected,1
+Anna,Chr. Ditlev Fr. Reventlow,Undirected,1
+Jesper Skovrider,Knud „,Undirected,1
+Karen,Knud „,Undirected,2
+Jesper,Knud,Undirected,2
+Karen,Knnd,Undirected,3
+Jens Kragh,Knnd,Undirected,1
+Jens Kragh,Karen Agerskov,Undirected,1
+Knnd,lel,Undirected,1
+Jesper,Karen,Undirected,18
+Ester Jespers,Karen,Undirected,1
+Karen,Mikkel „,Undirected,1
+Mikkel,Mikkel „,Undirected,1
+Mikkel,ester,Undirected,1
+Anna erholdt,Jens,Undirected,1
+Jens,Krogh,Undirected,1
+Anna,Karlens,Undirected,1
+Anna Karlen,Karlens,Undirected,1
+Anna,Anna Karlen,Undirected,1
+Anna,Karlen,Undirected,4
+Søren Ridefogeds,hnn,Undirected,1
+Karen,Søren Ridefogeds,Undirected,1
+Jens Staldkarl,sornh,Undirected,1
+Karen,sornh,Undirected,1
+Jesper „,Karen,Undirected,1
+Anna,Jesper „,Undirected,2
+Anna,sra,Undirected,1
+Anna,Jesper,Undirected,2
+Anna.,Mikkel „,Undirected,1
+Karen,Mikkel,Undirected,2
+Jesper,Mikkel,Undirected,2
+Jesper,Jesper „,Undirected,1
+Anna,Karen Jensdatter,Undirected,1
+Jesper,Karen Jensdatter,Undirected,1
+Karl,fig,Undirected,1
+Karlen,fig,Undirected,1
+Jesper,Karlen,Undirected,1
+Jens,Mikkel,Undirected,1
+Anna,Simon Krænsen,Undirected,2
+Jens,Simon,Undirected,1
+Gud,Niels Bugges,Undirected,1
+Anna,Søren Ridefoged,Undirected,2
+Simon Krænsen,Søren Ridefoged,Undirected,1
+Jens,Søren Ridefoged,Undirected,2
+Frederik,Jens,Undirected,1
+Frederik,ester,Undirected,1
+Jens Kragh,Juta Kragh,Undirected,1
+Krag,Kragh,Undirected,1
+Jens Kragh,Kragh,Undirected,1
+Anna Sørensdatter,Jens Kragh,Undirected,1

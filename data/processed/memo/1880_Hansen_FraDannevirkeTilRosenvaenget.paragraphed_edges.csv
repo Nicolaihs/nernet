@@ -1,0 +1,153 @@
+source,target,type,weight
+Ivar,minz,Undirected,1
+Ivar Bundsen Meldorf,Petras,Undirected,1
+Bendz,Frederik den,Undirected,1
+Ivar,Petra,Undirected,10
+Bendz,Petra,Undirected,2
+Bendz,Holger Danske,Undirected,1
+Holger Danske,Petra,Undirected,1
+Bendz,Ivar,Undirected,1
+Bertel,Frøken Bendz,Undirected,1
+Gulstad,Hansen,Undirected,2
+My,Petra,Undirected,1
+Kaptejn Skram,Petra,Undirected,1
+Kjære,Petra,Undirected,1
+Bertel,Hansen,Undirected,1
+Gulstad,Kong Frederik,Undirected,1
+Hansen,Ivar Bundsen,Undirected,1
+Petra,Skram,Undirected,11
+Karen Margrethe,Petra,Undirected,3
+Kristian,Skram,Undirected,1
+Kristian,Willemoes,Undirected,1
+Karen Margrethe,Willemoes,Undirected,1
+Gulstad,Petra,Undirected,1
+B.s,Gulstad,Undirected,2
+Gulstad,P. S.,Undirected,1
+Gulstad,Meldorf,Undirected,1
+Kristus,Petra,Undirected,1
+Petra,sid,Undirected,1
+Hr. v. Starche,Starche,Undirected,1
+Ivar,Raphael,Undirected,1
+Madonna,Raphael,Undirected,1
+Aksel,Frøken Gulstad,Undirected,1
+Gulstad sen,Ivar,Undirected,1
+Aksel,Charlotte,Undirected,1
+Charlotte,Emilie,Undirected,2
+Aksel,Ivar,Undirected,2
+Hr. Meldorf,Ivar,Undirected,1
+Charlotte,lille Lotte,Undirected,1
+Aksel,lille Lotte,Undirected,1
+Aksel,Asthma,Undirected,1
+Frøken Gulstad,Tornø,Undirected,1
+Ivar,Tornø,Undirected,2
+Bismark,Ivar,Undirected,1
+Ivar,Rensmark,Undirected,3
+Gulstad,Rensmark,Undirected,1
+Gulstad,Hr. Tornø,Undirected,1
+Hr. Tornø,Ivar,Undirected,1
+Lottemo,Tornø,Undirected,1
+Charlotte,Hr. Rensmark,Undirected,1
+Hr. Meldorf^,Rensmark,Undirected,1
+Correggio,Meldorf,Undirected,2
+Charlotte,Tornø,Undirected,5
+Charlotte,Starche,Undirected,1
+Petra,Starche,Undirected,1
+Beethovens,Pateticen,Undirected,1
+Beethovens,Sonate patetic,Undirected,1
+Charlotte,Rensmark,Undirected,2
+Charlotte,Ivar,Undirected,4
+Athene,Herkules,Undirected,2
+Adam og,Athene,Undirected,1
+Adam og,Eva,Undirected,1
+Eva,Zigeunerinde,Undirected,1
+Charlotte,Mars,Undirected,1
+Athene,Mars,Undirected,1
+Herkules,Ivar,Undirected,1
+Charlotte,jdst,Undirected,1
+Gud,Hr. Meldorf,Undirected,1
+Athene,Eva,Undirected,1
+"Adam,",Eva,Undirected,1
+Frøken Gulstad,Gud,Undirected,1
+Charlotte,Hansen,Undirected,1
+Hansen,Petra,Undirected,3
+Petra,liun,Undirected,1
+grandt,liun,Undirected,1
+Petra,Tante Petra,Undirected,1
+Hr. Tornø,Rensmark,Undirected,1
+Aksel,Rensmark,Undirected,1
+Aksel,Hr. Tornø,Undirected,1
+Aleksander,Herkules,Undirected,1
+Gud,Karl,Undirected,1
+Bedstemoders,Petra,Undirected,1
+A,Aksel,Undirected,1
+Rensmark,Tornø,Undirected,1
+Tornø,åf,Undirected,1
+Hr. Bundsen,åf,Undirected,1
+Hr. Bundsen,Meldorf,Undirected,1
+Charlotte,Hr. Tornø,Undirected,1
+Gulstad,Tornø,Undirected,2
+Bundsen Meldorf,Odysseus,Undirected,1
+Odysseus,Rensmark,Undirected,1
+Circe,Rensmark,Undirected,1
+Circe,Odysseus,Undirected,1
+Napoleon,Orla Lehmann,Undirected,1
+Hjort Lorenzen,Orla Lehmann,Undirected,1
+Baggesens,Wessels,Undirected,1
+Baggesens,Skram,Undirected,1
+Ivar,Skram,Undirected,2
+Cousine Eva,Ivar,Undirected,1
+Cousine Eva,Petra,Undirected,1
+Ivar,Karen Margrethe,Undirected,1
+Aksel Gulstad,Meldorf,Undirected,1
+Bedstefader,Papa,Undirected,1
+Mama,Tornø,Undirected,2
+Maren,Papa,Undirected,1
+Maren,Stine,Undirected,1
+Papa,Stine,Undirected,3
+Neveuen,Papa,Undirected,1
+Lieutenant,Rensmark,Undirected,2
+Cousine,Rensmark,Undirected,1
+Ivar,Kusk,Undirected,1
+Tornø,lille Evas,Undirected,1
+Gud,Stine,Undirected,1
+Gud,Tornø,Undirected,1
+Rai-,Tornø,Undirected,1
+Rai-,son,Undirected,1
+Hedens,Jomfru Sørensens,Undirected,1
+Magdalene,Rubens,Undirected,1
+Magdalene,hans Joseph,Undirected,1
+hans Joseph,hans Susanne,Undirected,1
+Ivar,har,Undirected,1
+Frue,Karl,Undirected,1
+Dorphs,Ivar,Undirected,1
+Gud,Olsen,Undirected,1
+Hr. Bundsen,Tornø,Undirected,1
+Hr. Olsen,Tornø,Undirected,1
+Hr. Olsen,Olsen,Undirected,1
+Ivar,Olsen,Undirected,1
+Meldorf,Susanne,Undirected,1
+Bundsen,Gud,Undirected,1
+Aleksander Tornø,Athlet,Undirected,1
+Hr. Tornø,Lieutenantens,Undirected,1
+Gud,Ivar,Undirected,1
+Stine,sorn tvende,Undirected,1
+Hamleths,Mama,Undirected,1
+Hamleths,Stine,Undirected,1
+Mama,Stine,Undirected,4
+Stine,Tornø,Undirected,1
+Eva,Mama,Undirected,1
+Hansen,Skram,Undirected,1
+Hansen,saamænd,Undirected,1
+Petra,saamænd,Undirected,1
+Mama,Morfeld,Undirected,2
+Morfeld,lille Mama,Undirected,1
+Charlotte,Stine,Undirected,1
+Eva,Stine,Undirected,5
+Neveuen,Rensmark,Undirected,1
+Eva,Maren,Undirected,1
+Hr. Morfeld,Stine,Undirected,3
+Ivar,Karen Margrethe«,Undirected,1
+Ivar,Morfeld,Undirected,1
+Petra,do,Undirected,1
+Bundsen Meldorf,Hansen —,Undirected,1
+Bundsen Meldorf,Petra,Undirected,1

@@ -1,0 +1,135 @@
+source,target,type,weight
+Christian,N. N.,Undirected,2
+Kong Frederik,Sophie Hedevig,Undirected,1
+Comtesse Agathe A.,Kong Frederik,Undirected,1
+Comtesse Agathe A.,Prindsessen,Undirected,1
+Agathe,Prindsessen,Undirected,25
+Grevens,lian,Undirected,1
+Agathe,Greve P.,Undirected,5
+Dauelsens,Prindsessen,Undirected,1
+Dauelsens,E.,Undirected,1
+Agathe,E.,Undirected,3
+P.,Prindsessen,Undirected,1
+Agathe,P.,Undirected,1
+Greve P.,P.,Undirected,1
+Frøken T.,P.,Undirected,1
+Agathe,Frøken T.,Undirected,1
+Agathe,Rs,Undirected,1
+Frøken T.,Rs,Undirected,1
+Frøken T.,R,Undirected,1
+Prindsessen,R,Undirected,1
+Agathe,liun,Undirected,2
+Greve P.,Prindsessen,Undirected,1
+Agathe,Comtessen,Undirected,2
+Agathe,Prindses-sens,Undirected,1
+Prindses-sens,Prindsessen,Undirected,1
+Panders,Prindsessen,Undirected,1
+Ane,tik,Undirected,2
+Ane,Jensen,Undirected,1
+Constance,Lehnsgreve P.,Undirected,1
+Constance,Cousine Constance,Undirected,1
+Ane,Constance,Undirected,18
+Ane,Erik,Undirected,2
+Constance,Erik,Undirected,2
+Constance,hnn,Undirected,2
+Constance,Tantes,Undirected,2
+Ane,Tantes,Undirected,1
+Ane,hei,Undirected,1
+Constance,hei,Undirected,1
+Constance,Mama,Undirected,4
+Constance,Gouvernanten,Undirected,1
+Gouvernanten,Mama,Undirected,1
+Mademoiselle Berbier,Mama,Undirected,1
+Constance,Mademoiselle Berbier,Undirected,1
+Constance,Papas,Undirected,4
+Ane,Papas,Undirected,1
+Augusta,Constance,Undirected,10
+Ane,Augusta,Undirected,3
+Jens,Onkels,Undirected,2
+Hans Christoffersens,Jens,Undirected,1
+Hans Christoffersens,lian,Undirected,1
+Jensen,lian,Undirected,1
+Jens,Jensen,Undirected,3
+Hans Christoffersen,Lone,Undirected,1
+Lone,Sonner,Undirected,2
+Lone,Lone »,Undirected,1
+Hans Christoffersen,Lone »,Undirected,1
+Enspænder-Jens,Hans Christoffersen,Undirected,1
+Enspænder-Jens,Jens,Undirected,1
+Jens,Lone,Undirected,1
+Constance,Lone,Undirected,1
+Constance,Enspænder-Jons,Undirected,1
+Enspænder-Jons,Lone,Undirected,1
+Lone,Moer,Undirected,1
+Augusta,Moer,Undirected,1
+Ane,Husbond,Undirected,1
+Husbond,Jens,Undirected,2
+Jens,Karl,Undirected,2
+Hans Christoffersen,Husbond,Undirected,1
+Jens,s,Undirected,1
+Onkels,s,Undirected,1
+Constance,Onkels,Undirected,2
+Comtessen,Constance,Undirected,1
+Ane,Comtessen,Undirected,3
+Lehnsbesid deren,Onkels,Undirected,1
+Lehnsbesid deren,Tantes,Undirected,1
+Constance,Honoratiores,Undirected,1
+,Honoratiores,Undirected,1
+,Constance,Undirected,1
+Nik,hjalj,Undirected,1
+Constance,hjalj,Undirected,1
+Jens,livor,Undirected,1
+Jens,Kolk,Undirected,1
+Constance,Mademoiselle Berhiers,Undirected,2
+Ane,Gud,Undirected,1
+Gud,livor,Undirected,1
+Constance,livor,Undirected,1
+Onkel,Onkels,Undirected,1
+Onkel,Tante,Undirected,1
+Stovlette-Cathrine,Tante,Undirected,1
+Cathrine,Stovlette-Cathrine,Undirected,1
+Cathrine,Constance,Undirected,1
+Gehejmeraad L.,Papas,Undirected,1
+Gehejmeraad L.,Mademoiselle Berbier,Undirected,1
+Berbier,Mademoiselle Berbier,Undirected,1
+Berbier,Constance,Undirected,3
+Constance,Viktor,Undirected,9
+Cousine Augusta,Viktor,Undirected,1
+Cousine Augusta,Papa,Undirected,1
+Constance,Papa,Undirected,2
+Augusta,Viktor,Undirected,11
+Augusta,Papa,Undirected,5
+Augusta,Mama,Undirected,1
+Mama,Viktor,Undirected,1
+Augusta,Sopha,Undirected,1
+Constance,Sopha,Undirected,1
+Papa,Viktor,Undirected,5
+Papa,S. Hovedgaard,Undirected,1
+Augusta,S. Hovedgaard,Undirected,1
+Constance,Faders,Undirected,1
+Lise,Son,Undirected,1
+Mama,Son,Undirected,1
+Mama,lian,Undirected,1
+Christian,sli vet,Undirected,1
+Christian,niente,Undirected,1
+Karl,niente,Undirected,1
+Christian,Hans,Undirected,6
+Christian,liam,Undirected,1
+Hans,liam,Undirected,1
+Christian,Lise,Undirected,11
+Lise,lian,Undirected,1
+Christian,lian,Undirected,1
+Christian,Papa,Undirected,2
+Hans,Papa,Undirected,1
+Hans,Lars,Undirected,1
+Greven,Lars,Undirected,1
+Greven,Lise,Undirected,1
+Hans,Lise,Undirected,6
+Greve Christian,Hans,Undirected,1
+Greve Christian,Lise,Undirected,1
+Karl,Lise,Undirected,2
+Hans,lille Christian,Undirected,1
+Christian,lille Christian,Undirected,2
+Lise,lille Christian,Undirected,1
+Frederik den,Lise,Undirected,1
+Christian,Constance,Undirected,1

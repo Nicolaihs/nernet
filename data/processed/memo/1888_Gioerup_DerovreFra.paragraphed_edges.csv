@@ -1,0 +1,356 @@
+source,target,type,weight
+Graafeldt,Graafeldts,Undirected,1
+Graafeldt,Holger Graafeldt,Undirected,3
+Graafeldt,Peter Røst,Undirected,1
+Acveprinds Ferdinand,Peter Røst,Undirected,1
+Acveprinds Ferdinand,Holger,Undirected,1
+Darum,Euren Lauf,Undirected,1
+Euren Lauf,Ging der Freiheitsstern auch unter,Undirected,1
+Krinoline,Krinolinens,Undirected,1
+C. V.,Rimestad,Undirected,1
+Graafeldt,Guds,Undirected,1
+Graafeldt,Røst,Undirected,8
+Gjenhilsen,Røst,Undirected,1
+Seebotten,fidt,Undirected,1
+Røst,von Seebotten,Undirected,3
+Holger Bertha,von Seebotten,Undirected,1
+Bertha,Graafeldt,Undirected,43
+Graafeldt,von Seebotten,Undirected,9
+Røst,Thorsen,Undirected,5
+Thorsen,absolul,Undirected,1
+Graafeldt,haar,Undirected,1
+Bertha,Holger,Undirected,6
+Røst,Von Seebotten,Undirected,1
+Bertha,fil,Undirected,1
+Bertha,Røst,Undirected,1
+Abraham,Graafeldt,Undirected,1
+Abraham,Isak,Undirected,1
+Isak,Jacob,Undirected,1
+Lorias,Røst,Undirected,1
+Graafeldt,Victor Emmanuels,Undirected,1
+Bertha,Thorscn,Undirected,1
+Bertha,von Seebotten,Undirected,16
+Graafeldt,Seebotten,Undirected,7
+Holger,Thorsen,Undirected,2
+Bertha,Thorsen,Undirected,11
+Poul Heyse,Spielhagen,Undirected,1
+Goethe,Schiller,Undirected,1
+Heine,Schiller,Undirected,1
+Von Seebotten,von Seebotten,Undirected,1
+Kjørsel,Von Seebotten,Undirected,1
+Bertha,Kjørsel,Undirected,1
+Seebotten,Von Seebotten,Undirected,2
+Bertha,Seebotten,Undirected,29
+Frue,von Seebotten,Undirected,2
+von Seebotten,vonBismarckSchonhansen.,Undirected,1
+Kong Wilhelm,von Seebotten,Undirected,1
+Fyrst Bismarcks,von Seebotten,Undirected,1
+Frue,rasf,Undirected,1
+Bertha,rasf,Undirected,1
+Holger,von Seebotten,Undirected,1
+Thorsen,von Seebotten,Undirected,4
+Graafeldt,Thorsen,Undirected,12
+Nosf,Thorsen,Undirected,2
+Arveprinds Ferdinand,Generalmajor Hagemann,Undirected,1
+Bach,Ferdinand,Undirected,1
+Bach,Lieutenant Graafeldt,Undirected,1
+Lieutenant Graafeldt,Tyrstng,Undirected,1
+Thorsen,Tyrstng,Undirected,1
+Thorsen,r Røst,Undirected,1
+Tyrslng,r Røst,Undirected,1
+Been,Tyrslng,Undirected,1
+Frøken Bach,Graafeldt,Undirected,1
+Graafeldt,Weyses,Undirected,1
+Graafeldt,Røsf,Undirected,2
+Røsf,Thorsen,Undirected,3
+Frøken Bach,Røsf,Undirected,1
+Arveprinds Ferdinand,Graafeldt,Undirected,1
+Arveprinds Ferdinand,Hagemanns,Undirected,1
+Hagemanns,Schepelern,Undirected,1
+Prindsen,Schepelern,Undirected,1
+Caroline,Prindsen,Undirected,1
+Arvcprindsessens,Caroline,Undirected,1
+Arvcprindsessens,Prindsen,Undirected,1
+Sofie,Tante Amalie,Undirected,1
+Amalie,Tonte,Undirected,1
+Frøken Thorsen,Graafeldt,Undirected,1
+Frederik den Syvende,Georg,Undirected,1
+Georg,Prinds Christian,Undirected,1
+Prinds Christian,Prinds Frederik,Undirected,1
+Prinds Frederik,Røst,Undirected,1
+Blixen-Finecke,Røst,Undirected,1
+Dronning Juliane Marie,knnde,Undirected,1
+Eichberg,von Seebotten,Undirected,4
+sor,von Seebotten,Undirected,1
+Bertha,Holger Graafeldt,Undirected,2
+Prinds Ferdinands,von Seebotten,Undirected,1
+Frederik,von Seebotten,Undirected,1
+Carl,Frederik,Undirected,1
+Henning Alpers,von Seebotten,Undirected,1
+Henning Alpers,Prinds,Undirected,1
+Ferdinand,Prinds,Undirected,1
+von Oben,von Seebotten,Undirected,4
+Dein,von Seebotten,Undirected,1
+Alpers,von Seebotten,Undirected,9
+Alpers,Bertha,Undirected,21
+Bertha,Henning Alpers,Undirected,2
+Gjcesten,von Seebotten,Undirected,1
+Alpers,Henning Alpers,Undirected,1
+Alpers,Holger Graafeldt,Undirected,1
+Alpers,Thorsen,Undirected,3
+Iovist,von Seebotten,Undirected,1
+Alpers,taus,Undirected,1
+Alpers,Frøken von Seebotten,Undirected,4
+Gud,von Seebotten,Undirected,1
+Gud,von Oben,Undirected,1
+Pasfor Thorsen,Seebotten,Undirected,1
+Alpers,Paslor Thorsen,Undirected,1
+Secbottens,von Seebotten,Undirected,1
+Bertha,Secbottens,Undirected,1
+Bertha,Gud,Undirected,2
+Bertha,Bon Seebotten,Undirected,2
+Bertha,Neuhof,Undirected,1
+Alpers,Seebotten,Undirected,5
+Seebotten,fBertha,Undirected,1
+fBertha,von Seebotten,Undirected,1
+Seebotten,von Seebotten,Undirected,2
+Thorsen,von Oben,Undirected,1
+Eichberg,von Oben,Undirected,1
+Eichberg,Frøken von Seebotten,Undirected,1
+Eichberg,Svansen,Undirected,1
+Paskor Thorsen,sia,Undirected,1
+Bertha,Io,Undirected,1
+Bertha,von Graafeldt,Undirected,8
+Eichberg,Paslor Thorjen,Undirected,1
+Eichberg,Graafeldt,Undirected,3
+Bertha,Eichberg,Undirected,7
+Alpers,Graafeldt,Undirected,13
+Alpers,Eichberg,Undirected,12
+Eichberg,paany,Undirected,1
+Baron von Oben,von Seebotten,Undirected,1
+Ester,Graafeldt,Undirected,1
+' amour,Præsfen,Undirected,1
+Præsfen,Thorsen,Undirected,2
+Graafeldt,Stig,Undirected,1
+Burenwalde,Graafeldt,Undirected,2
+Graafeldt,Kudsfens,Undirected,1
+Graafeldt,Karl,Undirected,1
+Henningsen,Karlen,Undirected,1
+Doris Christiansen,Minnie Starck,Undirected,1
+Graafeldt,Hr. Alpers,Undirected,1
+Doris,Minnie,Undirected,1
+Graafeldt,Henningsen,Undirected,11
+Alpers,Henningsen,Undirected,13
+Henningsen,Minnie,Undirected,7
+Alpers,Christiansen,Undirected,3
+Alpers,Chrisfiansen,Undirected,1
+Henningsen,Seebotten,Undirected,7
+Melon,Minnie,Undirected,1
+Efferhaanden,Graafeldt,Undirected,1
+Efferhaanden,Eichberg,Undirected,1
+Graafeldt,Minnie,Undirected,6
+Minnie,elsfe,Undirected,1
+Lundby,Prinds Ferdinand,Undirected,2
+Frederik,Kong Christian,Undirected,1
+Christian,Frederik den Sjette,Undirected,1
+Christian,Kong Frederik,Undirected,2
+Kong Frederik,Kronprinds,Undirected,1
+Kong Frederik,Kong Frederik den Syvende,Undirected,1
+Graafeldt,Kong Christian,Undirected,1
+Graafeldt,Røsl,Undirected,2
+Graafeldt,Hassel,Undirected,2
+Bording,Graafeldt,Undirected,10
+Bording,Røsl,Undirected,2
+Bording,Munck,Undirected,2
+Bording,Graafeldl,Undirected,2
+Christian,Skram,Undirected,1
+Bording,Røst,Undirected,3
+Thorsen,von Seehottens,Undirected,1
+Jngemans,Røst,Undirected,1
+Ingeman,Trolle,Undirected,1
+Lieutenant Trolle,Trolle,Undirected,1
+Bording,Lieutenant Trolle,Undirected,1
+Bording,Kong Christian,Undirected,1
+Kong Frederik,Trolle,Undirected,1
+Frederik,Røst,Undirected,1
+,Røst,Undirected,1
+,Thora Thorsen,Undirected,1
+Onsfers,Thora Thorsen,Undirected,1
+Onsfers,Thoras,Undirected,1
+Bording,Thoras,Undirected,1
+Bording,Kong Frederik,Undirected,2
+Frøken von Seebotten,alfid,Undirected,1
+alfid,von Seebotten,Undirected,1
+Bon Seebotten,von Seebotten,Undirected,1
+Alpers,Bon Seebotten,Undirected,1
+Carl,von Sebotten,Undirected,1
+Augustenborgs,Frederik den Ottende,Undirected,1
+Henningsen,Thal,Undirected,1
+Henningsen,Hr. Alpers,Undirected,1
+Alpers,Holger,Undirected,1
+Holger,Røst,Undirected,1
+Bach,Thyras,Undirected,1
+Frøken Bach,Thora,Undirected,1
+Røst,Thora,Undirected,2
+Bording,Graafcldt,Undirected,1
+Bording,Born,Undirected,1
+Bording,Hr. Sørensen,Undirected,1
+Bording,Hassel,Undirected,6
+Bertha,Henningsen,Undirected,10
+Alpers,ester,Undirected,1
+Alpers,Frøken von,Undirected,1
+Frøken von,Seebotten,Undirected,2
+Alpers,Minnie,Undirected,7
+Bording,Glaafeldt,Undirected,1
+Dansle,Graafeldt,Undirected,1
+Frue,Graafeldt,Undirected,1
+Henningsen,Javisl,Undirected,1
+Alpers,von Graafeldt,Undirected,2
+Graafeldt,Gud,Undirected,3
+Alke,Henningsen,Undirected,1
+Minnie,frank,Undirected,1
+Hr. Alpers,Minnie,Undirected,1
+,Alpers,Undirected,1
+Lieutenant von,Minnie,Undirected,1
+Graafeldt,Lieutenant von,Undirected,2
+Minnie,von Graafeldt,Undirected,2
+Graafeldt,Lieutenants,Undirected,1
+Henningsen,Lieutenants,Undirected,1
+Bertha,Røsf,Undirected,1
+Angel,Thorsen,Undirected,1
+Præsfen,Røst,Undirected,1
+Maasfee,von Seebotten,Undirected,1
+Frøken von Sebotten,Røst,Undirected,1
+Alpers,von Oben,Undirected,3
+Frøken Bertha,von Oben,Undirected,1
+Bording,Peter,Undirected,1
+Ole,Peter,Undirected,1
+Grau,Hr. Grau,Undirected,1
+Grau,Kong Frederik,Undirected,1
+Bording,Grau,Undirected,1
+Grau,Renegat,Undirected,1
+von Graafeldt,von Seebotten,Undirected,1
+Alpers,Karl var,Undirected,1
+Bording,Ole,Undirected,1
+Graafeldt,Peter,Undirected,1
+Dybbøl,Graafeldt,Undirected,1
+Hviil,Røst,Undirected,1
+Bording,Kommandeur,Undirected,1
+Bording,Tornysfret,Undirected,1
+Røst,Undcrkorporal Petersen,Undirected,2
+Foureren,Petersen,Undirected,1
+Maasfee,Røst,Undirected,1
+Bach,de Meza,Undirected,1
+Leissner,Thorsen,Undirected,1
+Faders,Thorsen,Undirected,1
+Gud,Holger,Undirected,1
+Dybbøl,Gud,Undirected,1
+Gud,Rosts,Undirected,1
+Røsf,ester,Undirected,1
+Eichberg,Von Seebotten,Undirected,1
+Thorsen,Von Seebotten,Undirected,1
+Thorsen,jæg,Undirected,1
+Blejstift,jæg,Undirected,1
+Blejstift,Thorsen,Undirected,1
+Blejstift,Seebotten,Undirected,1
+Blejstift,Pathos,Undirected,1
+Frederik,Pathos,Undirected,1
+Frederik,Seebotten,Undirected,1
+Bertha,Blejstift,Undirected,3
+Baron von Oben,Bertha,Undirected,1
+Hcaningsen,Lieutenant von,Undirected,1
+Henningsen,Thorsen,Undirected,1
+Bording,Lieutenant Anckers,Undirected,1
+Bording,Kapitain Thostrup,Undirected,1
+Kapitain Thostrup,Spiis,Undirected,1
+Bording,Thostrup,Undirected,1
+Bording,Holgersen,Undirected,7
+Bording,Ieg,Undirected,1
+Seebotten,Thorsen,Undirected,3
+Thorsen,stærkf,Undirected,1
+Bertha,stærkf,Undirected,1
+Roes,von Oben,Undirected,1
+Bertha,Roes,Undirected,1
+Bertha,stete,Undirected,1
+Alpers,Kudsk,Undirected,1
+Seebotten,von Seebottcn,Undirected,1
+Alpers,von Seebottcn,Undirected,1
+Heinrich,Seebotten,Undirected,2
+Karl,spurgteBertha,Undirected,1
+Seebotten,von Graafeldt,Undirected,1
+Graafeldt,Heinrich,Undirected,1
+Holger,Karlen,Undirected,1
+Bertha,Karle,Undirected,1
+Karle,Seebotten,Undirected,1
+Alpers,Heinrich,Undirected,3
+Alpers,Johan,Undirected,2
+Bertha,Ester,Undirected,1
+Bertha,Doris,Undirected,1
+Alpers,Doris,Undirected,1
+Doris,Johan,Undirected,1
+Doris,Henningsen,Undirected,1
+Bertha,Meding,Undirected,1
+Meding,Thorsen,Undirected,2
+Thorsen,von Graafeldt,Undirected,1
+Henningsen,veed,Undirected,1
+Frøken von Seebotten,von Graafeldt,Undirected,1
+Lieutenanten,von Graafeldt,Undirected,1
+Henningsen,Meding,Undirected,1
+Eichberg,Seebotten,Undirected,3
+Eichberg,Henningsen,Undirected,2
+Bertha,eg,Undirected,1
+Elllr,Henningsen,Undirected,1
+Lieutenant von,Seebotten,Undirected,1
+Frøken von Seebotten,Paul Heyse,Undirected,1
+Baron Alpers,Henningsen,Undirected,1
+Baron Alpers,Seebotten,Undirected,1
+Frøken von Seebotten,von Alpers,Undirected,1
+Frøken von Seebotten,Thorsen,Undirected,1
+Gud,Seebotten,Undirected,1
+Bording,fil,Undirected,1
+Graafeldt,Holgersen,Undirected,2
+Bording,es,Undirected,1
+Lieutenant M.,es,Undirected,1
+Bording,Thee,Undirected,1
+Bording,Kjørslen,Undirected,1
+Bording,Kjør,Undirected,1
+Bording,Maanens,Undirected,1
+Bording,sfilles,Undirected,1
+Bertha,Bording,Undirected,3
+Graaseldt,Holgersen,Undirected,1
+Bertha,Graaseldt,Undirected,1
+Lieutenant Holgersen,jo,Undirected,1
+Wacht,jo,Undirected,1
+Graudenz,Kosel,Undirected,1
+Glogau,Kosel,Undirected,1
+Frøken von Seebotten,Minnie,Undirected,1
+Minnie,Thee,Undirected,1
+Minnie,traadfe,Undirected,1
+Starck,traadfe,Undirected,1
+von Bording,von Graafeldt,Undirected,1
+Graafeldt,Starck,Undirected,3
+Bording,Obersfen,Undirected,1
+Graafeldt,Thor,Undirected,1
+Graafeldt,Mosegaard,Undirected,1
+Hs.,Kong Christian,Undirected,1
+Bording,Ravn,Undirected,1
+Mosegaard,Ravn,Undirected,2
+Graafeldt,Lieutenant Bordings,Undirected,1
+Bording,Kjære Mosegaard,Undirected,1
+Bording,Mosegaard,Undirected,2
+Christi,Glogau,Undirected,2
+Glogau,Ravn,Undirected,2
+Graafcldt,Ravn,Undirected,1
+Røsf,paany,Undirected,1
+Kellner,von Graafeldt,Undirected,1
+Bertha,Graafeldl,Undirected,2
+Graafeldl,Henningsen,Undirected,2
+Bettya,Glogau,Undirected,1
+Røsf,Seebotten,Undirected,1
+Dands,Lykke boer,Undirected,1
+Eichberg,Holger,Undirected,1
+Bertha,von Oben,Undirected,1
+Bertha,Big,Undirected,1
+Kapitajn Røst,Thorsen,Undirected,1
+Bording,Kapitajn Røst,Undirected,1
+Graafeldt,Thorscn,Undirected,1

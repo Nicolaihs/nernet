@@ -1,0 +1,117 @@
+source,target,type,weight
+Ludvig Philip,Solon,Undirected,3
+Ludvig,fransfe,Undirected,1
+.,L,Undirected,1
+Franst,fransfe,Undirected,1
+Allandsens,sorudsee,Undirected,1
+Danton,Robespierres,Undirected,2
+Robespierres,fransfe,Undirected,1
+Gud,fransfe,Undirected,1
+Couthon,Thiers,Undirected,1
+Collot d,Ronsin,Undirected,1
+' Herbois,Collot d,Undirected,1
+' Herbois,Thiers,Undirected,1
+,Thiers,Undirected,1
+Marat,Robespierre,Undirected,1
+ThierS,Thiers,Undirected,1
+Lamartine,Thiers,Undirected,2
+Louis Blanc,Thiers,Undirected,1
+Louis Blanc,Robespierre,Undirected,1
+Christne,Jdees,Undirected,1
+fransfe,sif,Undirected,2
+Robespierre,Schak,Undirected,1
+Camille Demoulins,Dantvns,Undirected,1
+Custine,Houchard,Undirected,1
+Houchard,Westermann,Undirected,1
+Napoleon,Toulon,Undirected,1
+Priis,Toulon,Undirected,1
+Consequents,Priis,Undirected,1
+Lafayette,Lamartine,Undirected,1
+Kamille Desmoulin,Lafayette,Undirected,1
+Louis Philip,fransfe,Undirected,1
+. Petersen,Spyg,Undirected,1
+Ludvig Philip,Napoleon,Undirected,1
+Napoleon,l .,Undirected,1
+Gud,Hiinsides,Undirected,1
+. Petersen,. Sørensen,Undirected,1
+Per Jensen,froe,Undirected,1
+Comando,Gabriel,Undirected,1
+Aristides,Sokrates,Undirected,1
+,Sokrates,Undirected,1
+,Tiberius,Undirected,1
+Ludvig den,Tiberius,Undirected,1
+Ludvig den,Philip,Undirected,1
+Philip,r,Undirected,1
+Ludvig,r,Undirected,1
+Feilberg,Hvas,Undirected,2
+Feilberg,Johannes,Undirected,5
+Binding,Johannes,Undirected,1
+Binding,Lise,Undirected,1
+Lise,Sytsi,Undirected,1
+Jette,Johannes,Undirected,4
+Feilberg,u . n -,Undirected,2
+. StadShauptmand,Feilberg,Undirected,1
+Johannes,Lise,Undirected,8
+Fruen,Lise iafstdes,Undirected,1
+Lise,Vinding,Undirected,2
+Hvas,Mutter,Undirected,1
+Iversen,Mortensen,Undirected,1
+Feilberg,Iversen,Undirected,1
+Feilberg,Lise,Undirected,6
+. Mortensen,Hvas,Undirected,2
+Jens,Lars,Undirected,1
+Mortensen,kømmer,Undirected,1
+. Feilberg,Feilberg,Undirected,1
+Gud,Johannes,Undirected,3
+Feilberg,Lise gaae,Undirected,1
+Hvas,Johannes,Undirected,2
+Johannes,Vinding,Undirected,1
+Mortensen,Vinding,Undirected,2
+Hvas,Jokumsen,Undirected,3
+Johannes,Jokumsen,Undirected,2
+. Iversen,Hvas,Undirected,1
+Hoire,Iversen,Undirected,1
+Iversen,gaae,Undirected,1
+Lømmel,sein,Undirected,1
+Jokumsen,sein,Undirected,1
+Feilberg,Jokumsen,Undirected,1
+Karl,Tycho Brahes,Undirected,1
+Lise,Pisfoler,Undirected,2
+Pisfoler,ccngang,Undirected,1
+. Jokumsen,. Mortensen,Undirected,2
+Jokumsen,Mortensen,Undirected,7
+Gud,lille Johannes,Undirected,1
+Arne,Johannes,Undirected,1
+Arne,Mutter,Undirected,1
+Lise,Mutter,Undirected,1
+Johannes,Lise gaae,Undirected,1
+Johannes,raaber,Undirected,1
+. Mortensen,Lise,Undirected,1
+Dien,Mortensen,Undirected,2
+. Sørensen,Hr . Sørensen,Undirected,2
+. Sørensen,Mortensen,Undirected,1
+. Sørensen,Iversen,Undirected,5
+. Sørensen,Triumph,Undirected,1
+. Sørensen,marsch,Undirected,1
+. Sørensen,Feilberg,Undirected,1
+Hr .,Sørensen,Undirected,8
+. Sørensen,Lise,Undirected,3
+. Sørensen,Fatter,Undirected,1
+. Sørensen,Hvas,Undirected,1
+. Sørensen,Sørensen,Undirected,2
+Johannes,Mortensen,Undirected,1
+Gud,Moer,Undirected,1
+Hvas,Moer,Undirected,1
+Jokumsen,Vinding,Undirected,1
+. Vinding,Vinding,Undirected,1
+. Vinding,Lise,Undirected,1
+Johannes,Lise ihalvhøit,Undirected,1
+Hr .,Iversen,Undirected,1
+. Stadshauptmand,. Sørensen,Undirected,1
+. Sørensen,saagar,Undirected,2
+Jokumsen,Sørensen,Undirected,1
+Iversen,Jokumsen,Undirected,1
+Feilberg,Magen,Undirected,1
+. Sørensen,Hr .,Undirected,1
+Feilberg,Sørensen,Undirected,1
+Feilberg,Vinding,Undirected,1

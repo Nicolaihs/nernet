@@ -1,0 +1,55 @@
+source,target,type,weight
+Kolger Drachmann,Poul,Undirected,1
+Poul,Virginie,Undirected,11
+Jakob,Jakob Bunke,Undirected,1
+Holger Drachmann,Poul,Undirected,6
+Poul,Tønnes,Undirected,4
+Faders,Tønnes,Undirected,1
+Faders,Jakob,Undirected,1
+Jakob,Tønnes,Undirected,11
+Jonassen,Tønnes,Undirected,1
+Andreas Spang,Jonassen,Undirected,2
+Spang,Tønnes,Undirected,25
+Nanna,Spang,Undirected,5
+Mester Jonassens,iland,Undirected,1
+Andreas Spang,iland,Undirected,2
+Spang,iland,Undirected,2
+Andreas Spang,Tønnes,Undirected,2
+Poul og,Spang,Undirected,1
+Graad,Tønnes,Undirected,2
+Nanna,Tønnes,Undirected,32
+Gud,Nanna,Undirected,1
+Tønnes,iland,Undirected,1
+Nanna,iland,Undirected,1
+Hans,Tønnes,Undirected,1
+Nanna,Vindvets,Undirected,2
+Holger Drachmann,Nanna,Undirected,1
+Andreas Spang,Jakob Bunke,Undirected,1
+Jakob,Spang,Undirected,2
+aarie,bejle,Undirected,1
+Preusser,Tønnes,Undirected,1
+Jakob,Nanna,Undirected,8
+Holger D,achm ann,Undirected,1
+Poul,achm ann,Undirected,1
+Tønnes,timmer,Undirected,2
+Esbensen,Poikamazurka,Undirected,1
+iland,ivold,Undirected,1
+Holger Dr achm ann,Poul,Undirected,1
+Jakob,Virginie,Undirected,1
+Preusser,Spang,Undirected,1
+Spang,sejg,Undirected,1
+Friersko,Spang,Undirected,1
+Graad,Nanna,Undirected,2
+Tønnes,ifjor,Undirected,1
+Holger D,Poul,Undirected,1
+Holla,Tønnes,Undirected,2
+Luvart,Tønnes,Undirected,2
+Baad,Tønnes,Undirected,1
+Holger Drachmann,Spang,Undirected,1
+Tønnes,Virginie,Undirected,1
+Spang,Tove,Undirected,1
+Anna Dorthea,Tønnes,Undirected,1
+Nanna,Smedens,Undirected,1
+Holger Draclimann,Jøsses,Undirected,1
+Holger Draclimann,Poul,Undirected,1
+Virginie,jj,Undirected,1

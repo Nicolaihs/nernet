@@ -1,0 +1,140 @@
+source,target,type,weight
+Therese,Therese Ankerhjelm,Undirected,1
+Grev Schmerlings,Therese,Undirected,1
+Therese,Toilette,Undirected,1
+Gustav,Therese,Undirected,73
+Gud,Gustav,Undirected,2
+Gustav,Somme,Undirected,1
+Gud,Somme,Undirected,1
+Aaget,Gustav,Undirected,1
+Therese,confus,Undirected,1
+Schmerling,Therese,Undirected,9
+Flun,Therese,Undirected,2
+Flan,Gustav,Undirected,2
+Flun,Gustav,Undirected,1
+Grev Schmerling,Therese,Undirected,3
+Hasselhus,Hedevig,Undirected,1
+Hannibal,Therese,Undirected,14
+Jørgen,Therese,Undirected,32
+Charlotte Corday,Therese,Undirected,1
+Greven,Therese,Undirected,12
+Grevinden,Therese,Undirected,5
+Berger,Therese,Undirected,12
+Høg,einerlei,Undirected,1
+Constance,Gustav,Undirected,1
+Gustav,Marie Vernon,Undirected,1
+Gustav,Maries,Undirected,2
+Marie,Therese,Undirected,5
+Gustav,Klausen,Undirected,1
+Gustav,Paves,Undirected,1
+Carl den Femtes,Gustav,Undirected,1
+Carl den Femtes,Hadrian,Undirected,1
+Gustav,Marie,Undirected,6
+Marie,P. M. Møllers,Undirected,1
+Gustav,Moders,Undirected,1
+Grev Henrik,Jfr. Olsen,Undirected,1
+Grev Jørgen,Gud,Undirected,1
+Jfr. Olsen,Therese,Undirected,1
+Gustav,Jørgen,Undirected,4
+Grev Hjelm,Therese,Undirected,1
+Hjelm,Therese,Undirected,5
+Grev Jørgen,Therese,Undirected,1
+Persen,Schmerling,Undirected,1
+Hr. Halmstrøm,Persen,Undirected,1
+Hr. Halmstrøm,Schmerling,Undirected,1
+Frk. Therese,Jørgen tjærnede,Undirected,1
+Halmstrøm,Therese,Undirected,5
+Frk. Muus,Therese,Undirected,7
+Berger,Jørgen,Undirected,5
+Jørgen,Lise,Undirected,1
+Grev Jørgen,faa,Undirected,1
+FIaabet,Greven,Undirected,1
+Flan,Therese,Undirected,2
+Hannibal,Skjæmt,Undirected,1
+Frk. Therese,Hjelm,Undirected,1
+Muus maalte,Therese,Undirected,2
+Grev Hjelm,Halmstrøm,Undirected,1
+Frk. Ankerhjelm,Jørgen,Undirected,1
+Aristippos,Therese,Undirected,1
+Halmstrøm,Jørgen,Undirected,2
+Berger,Gud,Undirected,2
+Gustav,paany,Undirected,1
+Therese,paany,Undirected,2
+Gustav —,Therese,Undirected,3
+Arne,Therese,Undirected,1
+Arne,Gustav,Undirected,1
+Greven,Hannibal,Undirected,2
+Hannibal,Jørgen,Undirected,3
+Peter,Therese,Undirected,1
+Henriette,Peter,Undirected,1
+Greve,Henriette,Undirected,1
+Gud,Therese,Undirected,1
+Gud,véd,Undirected,1
+Berger,véd,Undirected,1
+F. Schulz,Gustav,Undirected,1
+Berger,Gustav,Undirected,1
+Jørgen,Knud,Undirected,1
+Frk. Muus,Muus,Undirected,1
+Grevinde,Halmstrøm,Undirected,1
+Frk. Therese,Halmstrøm,Undirected,2
+Ave,Hannibal,Undirected,1
+Frk. Muus,Halmstrøm,Undirected,1
+Andrea,Hannibal,Undirected,1
+Maaneskin,Therese,Undirected,1
+Greven,Maaneskin,Undirected,1
+Flun,Hansen,Undirected,1
+Hr. Berger,Therese,Undirected,1
+Hannibal,Schmerling,Undirected,1
+Ernestine Lehn,Jørgen,Undirected,1
+Ernestine Lehn,Therese,Undirected,2
+Graad,Therese,Undirected,1
+Berger,Therese maalløs,Undirected,1
+Plun,Therese,Undirected,1
+Grev Schmerling,Muhamed,Undirected,1
+Gretchen,Gustav,Undirected,4
+Gustav,Knud,Undirected,3
+Annen,Gustav,Undirected,1
+Knud,stefa,Undirected,1
+Gretchen,lian,Undirected,1
+Gretchen,Schmerling,Undirected,1
+Cange,Marie,Undirected,1
+Gretchen,Marie,Undirected,1
+Faust,Therese,Undirected,1
+Grevinde Schmerling,Therese,Undirected,2
+Pljærte,Therese,Undirected,1
+Svigerpapa,Therese,Undirected,1
+Carl V,Gustav,Undirected,1
+Gustav,Schmerling,Undirected,2
+Dr. Berger,Gud,Undirected,1
+Therese,sét,Undirected,1
+Greven,sorn,Undirected,1
+Berger,sorn,Undirected,1
+Madonna,Therese,Undirected,1
+Frk. Ankerhjelm,Schmerling,Undirected,1
+Jørgen jesuitisk,Therese,Undirected,1
+Berger,Frøken Therese Ankerhjelm,Undirected,1
+Lille Knud,Therese,Undirected,1
+Berger,Frk. Therese,Undirected,1
+Frk. Therese,Grev Hjelm,Undirected,1
+Dr. Berger,Therese,Undirected,1
+Platon,Sokrates,Undirected,1
+Grevinde Schmerling,Hr. Halmstrøm,Undirected,1
+Gemalinde,Jørgen,Undirected,1
+Berger,Gemalinde,Undirected,1
+Jørgen,Schmerling,Undirected,1
+Pandoras,Therese,Undirected,1
+Grev Schmerling,Jørgen,Undirected,1
+Jørgen,Ulvedal,Undirected,1
+Hannibal,lille Knud,Undirected,1
+Gustav,lille Knud,Undirected,1
+Greven,kjære,Undirected,1
+Jørgen,kjære,Undirected,1
+Kjære,Therese,Undirected,1
+Hannibal,Magda,Undirected,1
+Gustav,Livad,Undirected,1
+Gretchen,Therese,Undirected,2
+Gretchen,lille Knud,Undirected,1
+Knud,lille Knud,Undirected,1
+Knud,Therese,Undirected,1
+Gustav Berger,Therese,Undirected,1
+Greven,Schmerling,Undirected,1

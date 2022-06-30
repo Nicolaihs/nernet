@@ -1,0 +1,259 @@
+source,target,type,weight
+Ole,phst,Undirected,1
+Kjørbos,phst,Undirected,1
+Fanny,Ole,Undirected,56
+Aaen,soni,Undirected,1
+Fanny,Øle,Undirected,7
+,Hans Kjørbo,Undirected,1
+Hr. Kjørbo,Søren,Undirected,1
+Hans Kjørbo,Søren,Undirected,2
+Kjørbos,Søren Kjørbo,Undirected,2
+Fanny,Frants,Undirected,8
+Frants,sra Langø,Undirected,1
+ban,nied,Undirected,1
+Søren Kjørbo,ban,Undirected,1
+Søren,Søren Kjørbo,Undirected,1
+Frants,Søren,Undirected,8
+Hans Kjørbø,Søren,Undirected,1
+Soren Kjørbo,Søren Kjørbo,Undirected,1
+Heisa,tot,Undirected,1
+Søren,tot,Undirected,1
+Seilads,Søren,Undirected,1
+Bent,Tom,Undirected,1
+Frn Ricke,Hr. Kjørbo,Undirected,1
+Frn Ricke,hnn,Undirected,1
+Cecilie,hnn,Undirected,1
+Emilies,hnn,Undirected,1
+Emilies,fig,Undirected,1
+Frits,hnn,Undirected,7
+Albu,Cilies,Undirected,1
+Cilies,Gud,Undirected,1
+Fanny,Gud,Undirected,3
+Fanny,strængt,Undirected,1
+Rickes,strængt,Undirected,1
+Frits,Frn Kjørbo,Undirected,1
+Frits,Tante,Undirected,1
+Fanny,Søllers,Undirected,1
+Milie,Søllers,Undirected,1
+Cilie,Milie,Undirected,4
+Cilie,Kousine,Undirected,1
+Frits,Kousine,Undirected,2
+Frits,Ole,Undirected,3
+Johannes,Ole,Undirected,6
+Ole,Tordenskjold,Undirected,1
+Sørcn,hnn,Undirected,1
+Søren Kjørbo,hnn,Undirected,1
+Throne,hnn,Undirected,1
+Hnn,Kjørbos,Undirected,1
+Hnn,Ole,Undirected,1
+Fanny,Ricke,Undirected,3
+Fikke,Ricke,Undirected,1
+Cilie,Fikke,Undirected,1
+Fanny,Frits,Undirected,20
+Cecilie,Emilie,Undirected,6
+Fanny,hnn,Undirected,10
+Hr. Kjørbo,Ole,Undirected,2
+Gud,Øle,Undirected,2
+Gud,hnn,Undirected,4
+Ole,Vadskeu,Undirected,1
+Fanny,Mau,Undirected,1
+Emma,hnn,Undirected,1
+Emma,Fanny,Undirected,4
+Crocns,olf,Undirected,1
+Crocns,nn,Undirected,1
+Cecilie,nn,Undirected,2
+Emilie,Fanny,Undirected,5
+Gud,stoie,Undirected,1
+Cecilie,Frits,Undirected,1
+Dn,Frits,Undirected,1
+Dn,Fanny,Undirected,2
+Cicilie,Emilie,Undirected,2
+Fanny,Ønkel Kjorbo,Undirected,1
+absolul,Ønkel Kjorbo,Undirected,1
+Fanny,absolul,Undirected,1
+Frits Rickes,Kousine,Undirected,1
+Fanny,Kousine,Undirected,2
+Besætuiug,Frits,Undirected,1
+Aare,Fanny,Undirected,1
+Ole,Øle,Undirected,3
+Fanny,raabe,Undirected,1
+Cecilie,Fanny,Undirected,6
+Cecilie,ban,Undirected,1
+Frits,Sosters,Undirected,1
+Frits,Hr. Kjørbo,Undirected,1
+Ole,Støi,Undirected,1
+Støi,hnn,Undirected,1
+Johannes,lauge,Undirected,1
+Eudnn,Thema,Undirected,1
+Søren Kjørbo,Thema,Undirected,1
+Kjorbo,deni,Undirected,1
+Ieg,Ole,Undirected,1
+Hans Kjørbø,Ole,Undirected,1
+Ole,Øreng,Undirected,1
+hnn,Øle,Undirected,2
+stig,Øle,Undirected,1
+Hain,hnn,Undirected,1
+Frants,hnn,Undirected,3
+Kreti,Pleli,Undirected,1
+Ole,Pleli,Undirected,1
+Fanny,Ønkels,Undirected,2
+Fanny,Onkels,Undirected,1
+Onkels,Ricke,Undirected,1
+Frants,Ole,Undirected,11
+Frants,Frits,Undirected,1
+Fanny,Graad,Undirected,1
+Graad,Ole,Undirected,1
+henrykf Fanny,hnn,Undirected,1
+Emilie,Frants,Undirected,3
+Frants,Gud,Undirected,2
+Fanny,Ieg,Undirected,1
+Ieg,soni,Undirected,1
+Dn,Ole,Undirected,2
+Frants,Frn Kjørbo,Undirected,1
+Gud,Seir,Undirected,1
+Mau,Ole,Undirected,1
+Kjørbos,Ole,Undirected,1
+Ole,Søren,Undirected,30
+Madam Kjørbo,son,Undirected,1
+Lnkas,Peter,Undirected,1
+Lnkas,Tomas Heie,Undirected,1
+Madam Kjørbo,Ole,Undirected,3
+Ole,Soren Kjorbo,Undirected,1
+Ole,Søren Kjørbo,Undirected,11
+fig,sknlde,Undirected,1
+Ole,snøvle,Undirected,1
+Ole knnde,Orene,Undirected,1
+Roers,Søren Kjorbo,Undirected,1
+Hans Jørgen Skalø,ifjor,Undirected,1
+,Søren Kjørbo,Undirected,1
+,Ole,Undirected,1
+,Soes,Undirected,1
+Soren,loi,Undirected,1
+Soren Kjørbo,hvormedhan,Undirected,1
+Ole,Seir,Undirected,1
+Neppe,Søren,Undirected,1
+Frants Kjørbo,Kjørbo,Undirected,1
+,Kjørbo,Undirected,1
+Frits,hernl,Undirected,1
+Frits,Kjorbo,Undirected,1
+Fanny,Kjorbo,Undirected,1
+Eudnn,Kjørbøs,Undirected,1
+Frits,Kjørbøs,Undirected,1
+' Haab,Frits,Undirected,1
+' Haab,Fanny,Undirected,1
+Frits,Ricke,Undirected,2
+Frits,Kjørbo,Undirected,1
+Kjørbo,Lange Johannes,Undirected,1
+Johannes,hnn,Undirected,1
+Johannes,Søren Kjørbo,Undirected,2
+Johannes,Madam Kjørbo,Undirected,1
+Fanny,Ore,Undirected,1
+Ore,Ricke,Undirected,1
+Frits,Øle,Undirected,1
+Fanny,Tante Kjørbos,Undirected,1
+Kjørbo,Ricke,Undirected,1
+Fanny,Kjørbo,Undirected,1
+,Frits,Undirected,1
+,Fanny,Undirected,1
+Fanny,nian,Undirected,1
+hnn,nian,Undirected,2
+Emilie,Frits,Undirected,3
+Fanny,lee,Undirected,1
+Frits,lee,Undirected,1
+Lukas,Søren Kjørbo,Undirected,1
+Fanny,Lukas,Undirected,1
+Cecilie,Kousine,Undirected,1
+Fanny,dein,Undirected,2
+Ole,Oxe,Undirected,1
+Ole,Ricke,Undirected,1
+Ole,fig,Undirected,1
+Soren Kjørbo,Søren,Undirected,1
+Cecilie,Ole,Undirected,1
+Dn,Knud Greis,Undirected,1
+Christen Jørgen,Knud Greis,Undirected,1
+Christen Jørgen,Gud,Undirected,1
+Roers,Søren,Undirected,1
+Granden,Ole,Undirected,1
+Søren,eil,Undirected,2
+Soren,Søren,Undirected,1
+Gud,Ole,Undirected,1
+Søren,niente,Undirected,1
+Søren,øs,Undirected,1
+Dn,Søren,Undirected,1
+Gud,Søren,Undirected,2
+Luvard,Søren,Undirected,1
+Hal,Luvard,Undirected,1
+Duke os,Søren,Undirected,1
+Petersen,Søren,Undirected,1
+Petersen,Soren Kjørbo,Undirected,1
+Petersen,Søren Kjørbo,Undirected,1
+Ole,dein,Undirected,1
+Ole,nied,Undirected,1
+hnn,nied,Undirected,1
+Søren,nian,Undirected,1
+Oles-,Søren,Undirected,1
+Oles-,Søren Kjørbo,Undirected,1
+Ole,dito,Undirected,1
+Seiladsen,Søren,Undirected,1
+Gud,Ole kam,Undirected,1
+Ole kam,Søren,Undirected,1
+Ole,ester,Undirected,1
+Ole tang,Søren Kjørbo,Undirected,1
+Søren Kjørbo,vckr,Undirected,1
+Frants,vckr,Undirected,1
+Frants,ane,Undirected,1
+Ole,hau,Undirected,1
+Hain,hau,Undirected,1
+Fanny,Søren,Undirected,5
+,Frants,Undirected,2
+,Ole øg Fanny,Undirected,1
+Søren Kjorbo,kjære Frants,Undirected,1
+-Ole,Fanny,Undirected,1
+Cecilie,fasf,Undirected,1
+Søren,fasf,Undirected,1
+Ole,soni,Undirected,1
+Cecilie,Frants,Undirected,1
+Ole,nn,Undirected,1
+Dn,Frants,Undirected,2
+Frants,Søren Kjørbo,Undirected,3
+Frn Ricke,Ole,Undirected,1
+Dottre,Frn Ricke,Undirected,1
+Fanny,Søren Kjorbo,Undirected,1
+Ole,Søren Kjorbo,Undirected,1
+Frants,Somand,Undirected,2
+Frants Kjørbo L Co,Ole,Undirected,1
+Fanny,Søren Kjørbo,Undirected,1
+Søren,hnn,Undirected,1
+Kjorbo,Ricke,Undirected,1
+Ricke,hnn,Undirected,1
+hnn,niange,Undirected,1
+Frants,niange,Undirected,1
+Frants,Kjørbo,Undirected,1
+Kjørbo,hnn,Undirected,1
+Gud,jø,Undirected,1
+Frants Kjorbos,jø,Undirected,1
+Frants,Hain,Undirected,1
+Hain,Ole,Undirected,1
+Ole,hnn,Undirected,4
+Fanny,Matilde,Undirected,1
+Matilde,oni,Undirected,1
+Fanny,Kaptain Iversen,Undirected,1
+Kaptain Iversen,Matilde,Undirected,1
+Kaptain Iversen,Leith,Undirected,1
+Frants,Leith,Undirected,1
+Ole,Robertson,Undirected,1
+Fanny sfal,Ole,Undirected,1
+Fanny,hisf,Undirected,1
+Frants Øles,Søren Kjørbo,Undirected,1
+Frants Øles,Frits Ricke,Undirected,1
+Emilie,Frits Ricke,Undirected,1
+Frants,Hans kjæræ,Undirected,1
+Fanny,Hans kjæræ,Undirected,1
+Fanny,kjæræ,Undirected,1
+Jansen,kjæræ,Undirected,1
+Frants,Jansen,Undirected,1
+Søren Kjørbo,mini kjæræ,Undirected,1
+mini kjæræ,thar,Undirected,1
+Jansen,thar,Undirected,1
+Ole,henrivende,Undirected,2
+Gud,Søren Kjørbo,Undirected,1

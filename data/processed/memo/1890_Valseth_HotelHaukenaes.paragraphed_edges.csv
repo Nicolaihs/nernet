@@ -1,0 +1,72 @@
+source,target,type,weight
+Bryhne,Gram,Undirected,9
+Bryhne,skakke,Undirected,1
+Gram,Ola,Undirected,1
+Gunnar Flatebø,Inga Flatebø,Undirected,1
+Ervik,Gunnar Flatebø,Undirected,1
+Ervik,Flatebø,Undirected,1
+Ervik,Margrete,Undirected,1
+Halvor,Margrete,Undirected,1
+Ervik,Kristian,Undirected,1
+Morten,Morten Haukenæs,Undirected,1
+Margrete,Morten,Undirected,1
+Inga Flatebø,Margrete,Undirected,3
+Margrete,Svejn,Undirected,2
+Inga,Margrete,Undirected,4
+Gunnar,Inga,Undirected,1
+Flatebös,Inga,Undirected,1
+Flatebös,Morten Haukenæs,Undirected,1
+Inga,Morten Haukenæs,Undirected,1
+Bryhne,glinste,Undirected,1
+Bryhne,Laura,Undirected,6
+Gram,Laura stansed,Undirected,1
+Gram,Laura,Undirected,7
+Laura,stræved,Undirected,1
+Bryhne,stræved,Undirected,1
+Laura,Margrete,Undirected,1
+Laura,plud^lig,Undirected,1
+Gram,bezique,Undirected,1
+Bryhne,bezique,Undirected,1
+Inga Flatebø,Svejn Ervik,Undirected,1
+Laura,huk,Undirected,1
+Bryhne,Svejn,Undirected,2
+Laura,svend,Undirected,1
+Bryhne,Margrete,Undirected,1
+Guds,Laura,Undirected,1
+Laura,snau graastejn,Undirected,1
+Laura,agerriks,Undirected,1
+Hjalmar,Hulda,Undirected,1
+Mrs. Olwock,vims,Undirected,1
+Mr. William,vims,Undirected,1
+Mr. Arthur,Mrs. Maud,Undirected,1
+. Olwock,Mr. Olwock,Undirected,1
+Mr. Olwock,Mrs.,Undirected,1
+Mr. Olwock,Mrs. Olwock,Undirected,1
+Mrs. Mand,Mrs. Olwock,Undirected,1
+Mrs. Mand,whist,Undirected,1
+Mr. Arthur,whist,Undirected,1
+Mr. Arthur,Mr. Olwock,Undirected,1
+Mr. Arthur,Mr. William,Undirected,6
+Bryhne,Mr. Arthur,Undirected,1
+Bryhne,Mr. William,Undirected,1
+Mr. Olwock,Mrs. Olwock stræved,Undirected,1
+Mr. William,Mrs. Olwock stræved,Undirected,1
+Mr. Olwock kremted,Mr. William,Undirected,1
+Mr. Olwock kremted,Mrs. Olwock,Undirected,1
+Inga Flatebø,Laura,Undirected,1
+Inga,Laura,Undirected,1
+Maud,Mrs.,Undirected,1
+Maud,Mr. Arthur,Undirected,1
+Bryhne,schak,Undirected,1
+Mr. William,schak,Undirected,1
+Laura,dilte,Undirected,1
+Bryhne,dilte,Undirected,1
+Gud,Laura,Undirected,4
+Ellermann,Gud,Undirected,1
+Ellermann,Gram,Undirected,1
+Ellermann,Laura,Undirected,5
+Bryhne,Ellermann,Undirected,3
+Svejn,felen,Undirected,1
+Halvor Ervik,felen,Undirected,1
+broren,felen,Undirected,1
+Laura raved,Svejn,Undirected,1

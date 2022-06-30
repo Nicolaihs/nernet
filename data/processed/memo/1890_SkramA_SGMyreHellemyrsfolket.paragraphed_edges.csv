@@ -1,0 +1,820 @@
+source,target,type,weight
+Munthe,Sivert,Undirected,16
+Munthe,Sivert Jensen,Undirected,2
+Sivert,Sivert Jensen,Undirected,4
+Sivert,guds,Undirected,1
+Herman,Munthe,Undirected,1
+Herman,Julius,Undirected,12
+Lydia,Sivert Jensen,Undirected,2
+Sivert Jensen,pintse banked,Undirected,1
+Sivert,pintse banked,Undirected,1
+Julius,Sivert,Undirected,7
+Eg,eg,Undirected,48
+Herman,Sivert Jensen,Undirected,2
+Herman,Sivert,Undirected,7
+Lydia,Sivert,Undirected,16
+Julius,far,Undirected,1
+Sivert,eg,Undirected,14
+Sivert,hinner,Undirected,1
+Julius,Lydia,Undirected,2
+Eg,Julius,Undirected,1
+Herman,Sine,Undirected,1
+Sine,Sivert Jensen,Undirected,1
+Dokkes,Sine,Undirected,2
+Sivert,Sivert skotted,Undirected,1
+Guds,Lydia,Undirected,1
+Sivert,hvo,Undirected,1
+Lydia,mykkje,Undirected,1
+Hansen,Lise,Undirected,1
+Lydia,Munthe,Undirected,11
+Lydia,Sivert keg,Undirected,1
+Sivert,maskepie,Undirected,1
+Gina,Stavangers-Gina,Undirected,1
+Gina,Lydia,Undirected,1
+Lydia,ank,Undirected,1
+Lydia,madam Munthes,Undirected,1
+Lydiamor,Madam Munthes,Undirected,1
+Lydia,Madam Munthes,Undirected,1
+Lydia,gud,Undirected,6
+Lydia,Madam Munthe,Undirected,1
+Lydia,madam Munthe,Undirected,1
+bardus,madam Munthe,Undirected,1
+Mons Thorsen,gud,Undirected,1
+Sivert,gud,Undirected,10
+Sivert,skomager Tofte,Undirected,1
+Aja,Sivert,Undirected,1
+Aja,åja,Undirected,1
+Ole Høien,åja,Undirected,1
+Ole Høien,Sivert,Undirected,1
+Sivert,Tofte,Undirected,3
+Ole Højens,Sivert,Undirected,1
+Ole Høien,Tofte,Undirected,1
+Jesu Kristi,Tofte,Undirected,1
+Hans- Nilsen Hauge,Jesu Kristi,Undirected,1
+Hans- Nilsen Hauge,Hauge,Undirected,1
+Hauge,Jens Jensen Tofte,Undirected,1
+Jens Jensen Tofte,gud,Undirected,1
+Jesu,gud,Undirected,2
+Gud,Tofte,Undirected,1
+Gud,Sivert,Undirected,5
+Herrens,Tofte,Undirected,1
+Marthe,Tofte,Undirected,1
+Jens,Tofte,Undirected,1
+Hansa,Jens,Undirected,1
+Hansa,Sivert,Undirected,1
+Deg,Jens,Undirected,1
+Deg,Marthe,Undirected,1
+Jens,Sivert,Undirected,6
+Sivert,mykkje,Undirected,2
+Eg,trur,Undirected,1
+eg,trur,Undirected,3
+Marthe,eg,Undirected,3
+Nils,eg,Undirected,1
+Nils,Simon,Undirected,1
+Nils,magen,Undirected,1
+Marthe,magen,Undirected,1
+Eg,Jens,Undirected,1
+Jens,gesell,Undirected,1
+Munthe,gesell,Undirected,1
+Jessu Kristi,Munthe,Undirected,1
+Jens,Marte,Undirected,1
+Jens,Marthe,Undirected,5
+Lydia,Marthe,Undirected,1
+Jens,gud,Undirected,2
+Jens,Matthæus,Undirected,1
+Thrine,gud,Undirected,2
+Tofte,gud,Undirected,2
+Jaja Sivertmand,eg,Undirected,1
+Sivert,Tollaksen,Undirected,1
+Jysses,Tollaksen,Undirected,1
+Jysses,gesel,Undirected,1
+gesel,åbned,Undirected,1
+Eg,Sivert,Undirected,25
+Sivert,Sivert sjøl,Undirected,1
+Sivert sjøl,gutten,Undirected,1
+Sivert,kjørsel,Undirected,1
+Munthe,gud,Undirected,1
+Bryggens,Sivert,Undirected,1
+Nymphen,Sivert,Undirected,1
+Christiern Rex,Nymphen,Undirected,1
+Christiern Rex,gud,Undirected,1
+Torgersen,gud,Undirected,1
+Munthe,Torgersen,Undirected,1
+Munthe,eg,Undirected,3
+Sivert,valen,Undirected,1
+di,valen,Undirected,1
+Sivert,hode,Undirected,1
+Farmor,Sivert,Undirected,1
+Sivert,keg,Undirected,1
+Jysses,jor,Undirected,1
+Dokker,jor,Undirected,1
+Dokker,Sivert,Undirected,1
+Hansemann,Sivert,Undirected,4
+Sivert,gutten,Undirected,3
+gesel Tonnesen,seie,Undirected,1
+Fitter Tønnesen,gesel Tonnesen,Undirected,1
+Sivert,Tønnesens,Undirected,1
+Sivert,Sivertmann,Undirected,5
+eg,jisses,Undirected,1
+Sivert,jisses,Undirected,1
+Gud,hemenifra,Undirected,1
+Oleus,eg,Undirected,1
+Fitter,Ingeborg,Undirected,1
+Dokker,Eg,Undirected,2
+Ingeborg,Sivert,Undirected,5
+Hansemann,Ingeborg,Undirected,2
+pegte,spanne,Undirected,1
+Hansemann,sjøl,Undirected,1
+Sivert,sjøl,Undirected,1
+Hans,Hansemann,Undirected,2
+Hans,Sivert,Undirected,1
+Pitter Tønnesen,Sivert,Undirected,3
+Pitter Tønnesen,hinner,Undirected,1
+Ingeborg,hinner,Undirected,1
+Ingeborg,Pitter Tønnesen,Undirected,3
+Eg,aleine,Undirected,2
+Gud,Sivertmann,Undirected,1
+Ingeborg,farbror Magne sine,Undirected,1
+Ingeborg,bent,Undirected,1
+Munthe,Tofte,Undirected,1
+Sivert,Tippe Tue,Undirected,1
+Småfylla,Tippe Tue,Undirected,1
+Magne,Sivert,Undirected,7
+Sivert,åhoi,Undirected,1
+Flan,Magne,Undirected,1
+Hi ho Engelland,Magne,Undirected,1
+Magne,sønge,Undirected,1
+Berthe,Sivert,Undirected,12
+Berthe,eg,Undirected,7
+Berthe,Magne,Undirected,9
+Berthe,Berthe kruked,Undirected,1
+Magne,Magnefarbror,Undirected,1
+Magnefarbror,Sivert,Undirected,1
+Sivert,merke,Undirected,1
+Magne,falemann,Undirected,1
+falemann,heine,Undirected,1
+Eg,Magne,Undirected,1
+Magnefar,Sivert,Undirected,1
+Berthe,greter etter,Undirected,1
+eg,greter etter,Undirected,1
+Magne,Sivertmann,Undirected,1
+Dokker,Eg trur,Undirected,1
+Eg trur,Magne,Undirected,1
+Magne,smålo,Undirected,1
+Berthe,skjøv,Undirected,1
+Eg,skjøv,Undirected,1
+Sivert,farbror-Berthe,Undirected,4
+Eg,folen donge,Undirected,1
+eg,folen donge,Undirected,1
+eg,sotte telivs,Undirected,1
+Sivert,tebakes,Undirected,4
+Sivertmann,hem,Undirected,1
+Oline,Sivert,Undirected,3
+Anders Søndrehellen,Oline,Undirected,1
+Sjur Gabriel,verte,Undirected,1
+kipens,verte,Undirected,1
+hode,kipen,Undirected,1
+Oline,Sjur,Undirected,2
+Gabriel,Sjur,Undirected,5
+Anders,Anders Søndrehellen,Undirected,1
+Anders,Oline,Undirected,3
+A,farbror-Berthe,Undirected,1
+Aja,farbror-Berthe,Undirected,1
+Aja,Munthe,Undirected,1
+Munthe,kje,Undirected,1
+Sivert,kje,Undirected,1
+Sivert,Sjur Gabriel,Undirected,6
+Oline,farfar,Undirected,1
+Oline,verte,Undirected,1
+Sivert,farfar,Undirected,1
+Sjur Gabriel,farfar,Undirected,1
+Jou,heve,Undirected,1
+Oline,heve,Undirected,1
+Sivert,farmor,Undirected,1
+Gak,Sivert,Undirected,1
+Gak,Sjur Gabriel,Undirected,1
+Oline,Sjur Gabriel,Undirected,2
+Gabriel,meiner eg,Undirected,1
+Oline,meiner eg,Undirected,1
+Eg,Oline,Undirected,1
+Eg,Vesle-Jens,Undirected,1
+Sivert,Vesle-Jens,Undirected,1
+Gabriel,Sivert,Undirected,1
+Sivert,Vesle-Gabriel,Undirected,1
+Sjur Gabriel,kipen,Undirected,2
+Sjur Gabriel,utysket,Undirected,1
+Jens,Magne,Undirected,1
+Ingeborg,Marthe,Undirected,5
+Marthe,Pitter Tønnesen,Undirected,3
+Marthe,Samuel,Undirected,1
+Marthe,gud,Undirected,1
+Koffor,Marthe,Undirected,1
+Koffor,eg,Undirected,1
+brænnevin,verkeli,Undirected,1
+Ingeborg,brænnevin,Undirected,1
+Pitter,Tønnesen,Undirected,1
+eg,gud,Undirected,3
+Marthe,Munthe,Undirected,1
+Eg,Marthe,Undirected,2
+Marthe,Tønnesen,Undirected,5
+Eg,Tønnesen,Undirected,1
+Ingeborg,Jens,Undirected,3
+Rimeli,Tønnesen,Undirected,1
+Jens,Tønnesen,Undirected,2
+Jens,Munthe,Undirected,1
+Marthe,Sivert,Undirected,4
+Magnefar,Pitter Tønnesen,Undirected,1
+Ingeborg,Magnefar,Undirected,1
+Heme,Marthe,Undirected,1
+Heme,eg,Undirected,1
+Tønnesen,eg,Undirected,2
+Magne,Tønnesen,Undirected,2
+Magne,uti Engelland,Undirected,1
+Sorrig,Tønnesen,Undirected,1
+Tønnesen,å holle,Undirected,1
+Tu,Tønnesen,Undirected,1
+Tu,tinen,Undirected,1
+Lars-Ane,Sivert,Undirected,1
+Lars Tveiten,Lars-Ane,Undirected,2
+Jysses,Sivert,Undirected,1
+Jens,Sjur Gabriel,Undirected,2
+Gud,Sjur Gabriel,Undirected,1
+Gud,Jens,Undirected,1
+Sivert,sorn,Undirected,1
+Lars,sorn,Undirected,1
+Jens,hans,Undirected,1
+Magnefarbror,Pitter Tønnesen,Undirected,1
+Magnefarbror,Tønnesen,Undirected,2
+Lars,Magnefarbror,Undirected,2
+Sivert,amen,Undirected,1
+Eg,Pitter Tønnesen,Undirected,1
+Lars,skelov,Undirected,1
+Jysses,Lars,Undirected,1
+Jysses,Magnefarbror,Undirected,1
+gud,hans,Undirected,2
+Ingeborg,Tønnesen,Undirected,2
+Magne,Marthe,Undirected,1
+Lars-Ane,Marthe,Undirected,1
+Lars-Ane,Niels,Undirected,1
+Ingeborg,Lars-Ane,Undirected,1
+Anders Søndrehellen,Lars-Ane,Undirected,1
+Anders Søndrehellen,Lars,Undirected,1
+Anders,Lars,Undirected,2
+Jens,Oline,Undirected,1
+Ingeborg,Lars,Undirected,2
+Ane,Lars,Undirected,4
+Ane,tølene,Undirected,1
+Jens,tølene,Undirected,1
+Jens,Mathe,Undirected,1
+Ingeborg,Mathe,Undirected,1
+Lars,Oline,Undirected,1
+Anders,Jens,Undirected,1
+Anders,Marthe,Undirected,1
+Magne,Pitter Tønnesen,Undirected,1
+Lars,Magne,Undirected,1
+Ane,Ingeborg,Undirected,1
+Ingeborg,Sjur,Undirected,1
+Lydia,que,Undirected,1
+eh bien mademoiselle Lydia,naiquant,Undirected,1
+Silence mes dames,eh bien mademoiselle Lydia,Undirected,1
+Lydia,Silence mes dames,Undirected,1
+Lydia,Rosa Wegner,Undirected,3
+Theresia Baumann errichtet,im Jahre,Undirected,1
+Rosa,Wegner,Undirected,1
+Carl Ravns,Wegner,Undirected,1
+Carl Ravns,Rosa,Undirected,1
+Carl Ravn,Rosa,Undirected,6
+Jetzt,Schande,Undirected,1
+Jetzt,hans,Undirected,1
+Augusta,Rosa,Undirected,3
+Augusta,Helene,Undirected,5
+Helene,jungen,Undirected,1
+Augusta,jungen,Undirected,1
+Helene,Rosa,Undirected,1
+Gud,véd,Undirected,2
+Herrman,Lydia,Undirected,1
+Herrman,Julius,Undirected,1
+Lydia,Rosa,Undirected,27
+Christiane,Rosa,Undirected,1
+Gott waltet,Rosa,Undirected,1
+Lydia,Ravn,Undirected,4
+Edgar,Thusnelda,Undirected,1
+Augusta,Lydia,Undirected,3
+Augusta,safians,Undirected,1
+Helene,safians,Undirected,1
+Augusta,blinked,Undirected,1
+Rosa,papas,Undirected,2
+Lydia,hulken,Undirected,1
+Carl Ravn,Lydia,Undirected,2
+Rosa,Sivert,Undirected,2
+Carl Ravn,Sivert,Undirected,2
+Don Juan,Rosa,Undirected,1
+Carl,Rosa,Undirected,1
+Carl,Ravn,Undirected,1
+Ravn,Rosa,Undirected,7
+Don Juan,Lydia,Undirected,1
+Petra Frimann,Petras,Undirected,1
+Petra hvast,far,Undirected,1
+Ravn,mossjø,Undirected,1
+Andreas,eg,Undirected,1
+Andrea,eg,Undirected,4
+Andrea,Kisti,Undirected,1
+Andrea,Petra,Undirected,7
+Andrea,Eg,Undirected,2
+Andrea,Kryger,Undirected,2
+Frimann,Petra,Undirected,6
+Andrea,Frimann,Undirected,2
+Kryger,Petra,Undirected,1
+Frimann,Kryger,Undirected,1
+Petra,Smith,Undirected,18
+Drea,Eg,Undirected,2
+Gud,Petra,Undirected,3
+Pederman,Petra,Undirected,1
+Petra,nikked,Undirected,1
+Drea,Petra,Undirected,9
+Augusta,Petra,Undirected,1
+Herman D. Smiths,Petra,Undirected,1
+Herman D. Smiths,p toir,Undirected,1
+Petra,p toir,Undirected,1
+Petra,pulter,Undirected,2
+Madam Lind,hinner,Undirected,1
+Petra,madam Lind,Undirected,23
+Jesu,Petra,Undirected,1
+Lind,Madam,Undirected,1
+Jesu,Lind,Undirected,1
+Morthen Luther,Petra,Undirected,1
+Jesu,eg,Undirected,1
+Gud,hinner,Undirected,1
+Andrea,madam Lind,Undirected,1
+Di,Satan,Undirected,2
+eg,tebakes,Undirected,3
+Jesu,Morten Luther,Undirected,1
+Jesu,madam Lind,Undirected,2
+Petra,gud,Undirected,3
+Petra,jomfru Frimann,Undirected,2
+Petra,sjouere,Undirected,1
+Petra,thibets,Undirected,2
+Peder,thibets,Undirected,1
+Marius,Peder,Undirected,5
+Marius,madam Holm,Undirected,1
+Petra,madam Holm,Undirected,10
+Sivert Jensen,principal,Undirected,1
+Petra,Sivert Jensen,Undirected,1
+nou,tine,Undirected,1
+Petra,alen,Undirected,1
+Offersen,sine,Undirected,1
+Petra,Sivert,Undirected,26
+Dokker,Virs,Undirected,2
+Gutten,Sivert,Undirected,1
+Jysses,eg,Undirected,2
+Eg,Jysses,Undirected,1
+Eg,sirop,Undirected,1
+Sivert,sirop,Undirected,1
+Eg,skyve,Undirected,1
+eg,skyve,Undirected,1
+Eg,Petra,Undirected,20
+Eg,Virs,Undirected,4
+Petra,kje,Undirected,3
+eg,kje,Undirected,1
+Virs,eg,Undirected,5
+Peder,Petra,Undirected,7
+Anders,Lars Tveiten,Undirected,1
+Vorherre,eg,Undirected,1
+Vorherre,tokke Dokker,Undirected,1
+Anders,eg,Undirected,1
+Petra,pegte,Undirected,1
+Hys,Sivert,Undirected,1
+Hys,eg,Undirected,1
+Petra,véd,Undirected,1
+Eg,sine,Undirected,1
+Petra,teralites,Undirected,1
+Madam Holm,teralites,Undirected,1
+Madam Holm,Petra,Undirected,1
+Petra,eg,Undirected,19
+eg,madam Lind,Undirected,15
+Eg,gud,Undirected,1
+Eg,Madam Gulbrandsen,Undirected,1
+Madam Gulbrandsen,hinner,Undirected,1
+madam Holm,madam Lind,Undirected,1
+Madam,elles,Undirected,1
+Madam,madam,Undirected,1
+Aja,madam,Undirected,1
+Aja,Eg,Undirected,1
+Eg,hinner,Undirected,3
+eg,hinner,Undirected,2
+Kein,madam Lind,Undirected,1
+Gud,madam Holm,Undirected,1
+Gud,eg,Undirected,1
+Holm,eg,Undirected,1
+eg,stovvegolve,Undirected,1
+Eg,madam Holm,Undirected,4
+Kern,eg,Undirected,2
+Johan,eg,Undirected,3
+Jessu Kristi,Johan,Undirected,1
+Eg,Jessu Kristi,Undirected,1
+Anej,Johan,Undirected,1
+Johan,golve,Undirected,1
+golve,madam Holm,Undirected,1
+Eg,Iversen sine,Undirected,1
+Madam Holm,taus,Undirected,1
+Petra,taus,Undirected,1
+Eg,véd,Undirected,1
+eg,véd,Undirected,1
+Marius,Petra,Undirected,2
+Dokker,kje,Undirected,1
+Petra,hode,Undirected,1
+Petra,lalied Frimann,Undirected,1
+Petra,javist,Undirected,1
+Eg,torge,Undirected,1
+Marthe,torge,Undirected,1
+Sivert,Virs,Undirected,20
+Sivertmann,Virs,Undirected,1
+Eg,Munthe,Undirected,1
+eg,høker Samuelsen,Undirected,2
+Hellemyren,Marthe,Undirected,1
+Hellemyren,Jensen,Undirected,1
+Vesle-Jens,tat,Undirected,1
+Mass,Virs,Undirected,1
+Jensen,Mass,Undirected,1
+Eg,Sivert Jensen,Undirected,2
+Sivert,frøken Lydia,Undirected,2
+Lydia,nik,Undirected,2
+Lydia,konsul Smith,Undirected,1
+Sivert,konsul Smith,Undirected,2
+Kjør,Sivert,Undirected,1
+Kjør,Torger,Undirected,1
+Munthe,Torger,Undirected,1
+Lydia,Lydia Munthe,Undirected,1
+Lydia Munthe,konsul Smith,Undirected,1
+Munthe,konsul Smith,Undirected,1
+Rikkemor,eg,Undirected,1
+Sivert,Tue,Undirected,1
+Munthe,Sine,Undirected,1
+Jysses,Sine,Undirected,1
+Sine,Sivert,Undirected,4
+Sivert Jensen,ka,Undirected,1
+Sine,eg,Undirected,1
+Reiersen,Virs,Undirected,1
+Ravn,Reiersen,Undirected,1
+Drea Frimann,Ravn,Undirected,1
+Drea Frimann,Sivert,Undirected,1
+Reiersen,Sivert,Undirected,7
+Reiersen,toddy,Undirected,2
+Drea,Reiersen,Undirected,4
+Drea,Sivert,Undirected,1
+Lydia,Reiersen,Undirected,1
+Lina,Petra,Undirected,1
+Smith,madam Lind,Undirected,9
+jomfruen,madam Lind,Undirected,1
+Linamor,Lydia Munthe,Undirected,1
+Herman,Hys,Undirected,1
+Lydia Munthe,Vorherre,Undirected,1
+Lydia Munthe inat,schallet,Undirected,1
+Berentine Smith,Herman Daniel Smith,Undirected,1
+Lina,Smith,Undirected,2
+Lydia Munthe,madam Lind,Undirected,1
+Herman,gud,Undirected,2
+Herman,Smith,Undirected,3
+Lydia Berentine,Smith,Undirected,2
+Herman,Langtifra,Undirected,1
+Smith,ossen,Undirected,1
+Herman,madam Lind,Undirected,2
+Smidt,Smith,Undirected,1
+Herman,Smidt,Undirected,1
+Herman,Hoff,Undirected,2
+Anej,Herman,Undirected,1
+Petra,skjælve,Undirected,1
+Madam Lind,Petra,Undirected,3
+Arentz,Eg,Undirected,1
+Kristum,madam Lind,Undirected,1
+Kristum,Paulus,Undirected,1
+Eg,madam Lind,Undirected,1
+Gamlefruen,Petra,Undirected,1
+Gamle-Smith,imot Herman,Undirected,1
+Eg,kaffi,Undirected,1
+eg,kaffi,Undirected,1
+Kaffi,eg,Undirected,1
+Kaffi,gud,Undirected,1
+Trur,eg,Undirected,3
+Trur,madam Lind,Undirected,2
+eg,mokke,Undirected,1
+Herman,Petra,Undirected,1
+Eg,eg osså,Undirected,1
+Petra,jkke,Undirected,1
+madam Lind,thibets,Undirected,1
+Peder,Sivert Jensen,Undirected,2
+Sivert Jensen,tosken,Undirected,1
+Peder,tosken,Undirected,1
+Petra skotted,Stine,Undirected,1
+Peder,eg,Undirected,6
+Eg,Pedermann,Undirected,2
+Peder,heme,Undirected,1
+eg,heme,Undirected,1
+Eg,Peder,Undirected,5
+Eg,Reiersen,Undirected,1
+Reiersen,hans,Undirected,1
+Petra,Petra keg,Undirected,1
+Drea,albu,Undirected,1
+Petra,greter,Undirected,1
+Drea,eg,Undirected,2
+Frimann,madam Holm,Undirected,1
+Reiersen,eg,Undirected,3
+kipelam,madam Holm,Undirected,1
+hinner,kipelam,Undirected,1
+Gud,madam Lind,Undirected,2
+A,Petra,Undirected,1
+Jensen,Reiersen,Undirected,2
+Jensen,jomfru Frimann,Undirected,1
+Jaggu,Peder,Undirected,1
+Peder,Perra,Undirected,1
+Eg,kje,Undirected,2
+bakenifra,kje,Undirected,1
+Virs,oljelampen,Undirected,1
+Sivert,flou,Undirected,3
+eg,madam,Undirected,1
+Eg,madam Virs,Undirected,1
+Virs,tru,Undirected,1
+Peder,Virs,Undirected,1
+Eg,madam,Undirected,1
+Eg seier,madam,Undirected,1
+Eg seier,eg,Undirected,1
+Eg,ka eg,Undirected,1
+Sivert,jødes,Undirected,1
+Hys,Virs,Undirected,1
+Reiersen,Sine,Undirected,1
+Eg,Sivert gryssed,Undirected,1
+Drea Frimann,eg,Undirected,1
+Peder,Reiersen,Undirected,1
+Jysses,kunsel Smith,Undirected,1
+eg,kunsel Smith,Undirected,1
+Pene,Sine,Undirected,1
+Pene,grejer,Undirected,1
+Smith,madam Virs,Undirected,1
+Sivert,madam Virs,Undirected,1
+Virs,sine,Undirected,1
+Gud,Lydia,Undirected,1
+Lydia,matlej,Undirected,1
+A langtifra,Lydia,Undirected,1
+A langtifra,flout,Undirected,1
+Berthe,Jysses,Undirected,1
+Berthe,heine,Undirected,1
+Sivert,faster,Undirected,1
+Ingeborg,faster,Undirected,1
+hemenifra,tokke seg,Undirected,1
+hinner,tokke seg,Undirected,1
+Magne seier,farmor,Undirected,1
+Berthe,Eg,Undirected,2
+Stein,hannes,Undirected,1
+Di,di,Undirected,1
+Somme,eg,Undirected,1
+Ingeborg,eg,Undirected,1
+Pitter Tønnesen,farbror-Berte,Undirected,1
+farbror-Berte,hannes,Undirected,1
+Ingeborg,Magne,Undirected,1
+Sivert,tokke,Undirected,1
+eg,tokke,Undirected,1
+Sivert,hans,Undirected,2
+Peder,madam Virs,Undirected,1
+Peder,konsul Smith,Undirected,1
+konsul Smith,sine,Undirected,1
+Peder,Sivert,Undirected,20
+Lydia,Peder,Undirected,1
+Sivert Jensen,Virs,Undirected,2
+Lydia,Smith,Undirected,5
+Carl Ravn,toddy,Undirected,1
+Rosa,toddy,Undirected,1
+Carl Ravn,Ravn,Undirected,1
+Ravn,Smither,Undirected,1
+Sivert,Smither,Undirected,1
+Langtifra,Sivert,Undirected,1
+Smith,boa,Undirected,1
+Munthe,boa,Undirected,1
+Lydia,flou,Undirected,1
+Smith,flou,Undirected,1
+Lydia,Nå,Undirected,1
+Nå,nå,Undirected,1
+Lise,Lydia,Undirected,16
+Lise,Sine,Undirected,1
+Sine,Smith,Undirected,1
+Lydia,Sine,Undirected,6
+Lise,Munthe,Undirected,1
+Munthe,spå-Kathrine,Undirected,1
+eg,seier,Undirected,1
+eg,lotte meg,Undirected,1
+Kern,Lydia,Undirected,1
+Lydia,rein,Undirected,1
+Kathrine,kje,Undirected,1
+Kathrine,Lise,Undirected,1
+Lise,meg,Undirected,1
+Kathrine,meg,Undirected,1
+Kathrine,Lydia,Undirected,1
+Lydia,hnn,Undirected,1
+Kern,Lise,Undirected,1
+Lise,eg,Undirected,1
+Ravn,Sivert,Undirected,2
+Sivert,Smith,Undirected,5
+Smith,gud,Undirected,3
+gud,spå-Kathrine,Undirected,1
+katholik,spå-Kathrine,Undirected,1
+Kristus,Rikke,Undirected,1
+Kristus,Lydia,Undirected,1
+Petra bier,Sivert,Undirected,1
+Peder,Petra bier,Undirected,1
+Peder,Sivert pegte,Undirected,1
+Petra,Reiersen,Undirected,1
+bale,kave,Undirected,1
+Jysses,bale,Undirected,1
+Sivert,venes,Undirected,1
+Foss,vores,Undirected,1
+Foss,svend,Undirected,1
+Andrea Frimann,Reiersen,Undirected,1
+Eg,seie,Undirected,1
+Petra,seie,Undirected,1
+Andrea,Peder,Undirected,1
+Andrea,Reiersen,Undirected,5
+Foss,Reiersen,Undirected,1
+Jomfru Petra,Sivert,Undirected,1
+Jomfru Petra,eg,Undirected,1
+Eriksen,jomfru Madsen,Undirected,4
+Eriksen,Petra,Undirected,1
+Jomfru Madsen,jomfru Madsen,Undirected,1
+A. Schrøders,Jomfru Madsen,Undirected,1
+A. Schrøders,Eriksen,Undirected,1
+Petra,svarte Eriksen,Undirected,1
+Petra,jomfru Madsen,Undirected,3
+Jomfru Madsen,Sivert,Undirected,1
+Eriksen,Jomfru Madsen,Undirected,1
+Eriksen,Jomfru Frimann,Undirected,1
+Sivert,jomfru Madsen,Undirected,3
+Jensen,Sivert,Undirected,2
+Jensen,kje,Undirected,1
+Eriksen,anl,Undirected,1
+Sivert,tru,Undirected,1
+Andrea,madam Holm,Undirected,2
+Eg,Fløtmanden,Undirected,1
+Fløtmanden,Peder,Undirected,1
+Eriksen,Sivert,Undirected,2
+Eriksen,Jensen,Undirected,2
+Sivert Jensen,jomfru Frimann,Undirected,1
+Eriksen,jomfru Frimann,Undirected,1
+Andrea,Eriksen,Undirected,1
+Peder,iland,Undirected,1
+Peder,madam Andersen,Undirected,1
+Andrea,Madsen,Undirected,1
+Eg,Foss,Undirected,1
+Madsen,Sivert,Undirected,1
+Madsen,Petra,Undirected,1
+Sivert,Sivert blet,Undirected,1
+Oline,mykkje,Undirected,1
+Kristian,jomfru Madsen,Undirected,1
+Andrea,jomfru Madsen,Undirected,2
+Andrea,Jomfru Madsen,Undirected,2
+Sy-Pedersen,madam Andersen,Undirected,1
+Petra,Sy-Pedersen,Undirected,1
+Andrea,Foss,Undirected,1
+Foss,jomfru Madsen,Undirected,2
+Pedersen,jomfru Madsen,Undirected,1
+Eriksen,madam Andersen,Undirected,1
+Madam Andersen,meg,Undirected,1
+Eg bier tunen,meg,Undirected,1
+Eg bier tunen,Eriksen,Undirected,1
+Eriksen,Foss,Undirected,2
+Maren hosselejsten,along,Undirected,1
+Maren hosselejsten,Sivert,Undirected,1
+Sivert,madam dersen,Undirected,2
+Sivert,madam Andersen,Undirected,2
+Andrea,Sivert,Undirected,4
+Madam Andersen,Peder,Undirected,1
+Peder,Sy-Pedersen,Undirected,3
+Foss,Sy-Pedersen,Undirected,1
+Julia,Julia hopsasa,Undirected,1
+Ane,golve,Undirected,1
+Madam Andersen,Sivert,Undirected,1
+Andrea,Ravn,Undirected,11
+Ravn,madam Andersen,Undirected,1
+Smith,madam Andersen,Undirected,1
+jomfru Frimann,madam Andersen,Undirected,1
+Dokker,madam Andersen,Undirected,1
+Sivert Jensen,jomfru Petra,Undirected,1
+Sivert,jomfru Petra,Undirected,1
+kje,sønge,Undirected,1
+Eg,Gud,Undirected,1
+aleine,eg,Undirected,1
+Eg,meg,Undirected,1
+Munthe,meg,Undirected,1
+Jensen,sjøl,Undirected,1
+eg,mykkje,Undirected,1
+Eriksen,Peder,Undirected,2
+Sy-Pedersen,jomfru Madsen,Undirected,1
+Sivert,Sy-Pedersen,Undirected,1
+Sivert,mosdot,Undirected,1
+Peder,mosdot,Undirected,1
+Kjæmpers,Sivert,Undirected,1
+Hansemann,Sjøen,Undirected,1
+Sjøen,ts,Undirected,1
+Sivert,ts,Undirected,1
+berge,eg,Undirected,1
+Eg,berge,Undirected,1
+gud,véd,Undirected,1
+véd,ålting,Undirected,1
+Virs,ålting,Undirected,1
+Virs,sone,Undirected,1
+lise,sone,Undirected,1
+gud,lise,Undirected,1
+Andrea,vandred Ravn,Undirected,1
+Andrea,madam Andersen,Undirected,1
+Ravn,eg,Undirected,1
+Andrea,Carl,Undirected,2
+Ravn,ivold,Undirected,1
+Andrea,gud,Undirected,2
+Reiersen,gud,Undirected,1
+Oehlenschlægers,Ravn,Undirected,1
+Andrea,Schielderup,Undirected,1
+Andrea,Kanske,Undirected,1
+Andrea,von,Undirected,1
+Carl,eg,Undirected,2
+Carl,Eg,Undirected,4
+eg,ikkje,Undirected,1
+Andrea,ikkje,Undirected,1
+Andrea,kjække,Undirected,1
+Andreamoren,kjække,Undirected,1
+Daphne,Laures,Undirected,1
+Andrea,Rafaels,Undirected,1
+Madonna,Ravn,Undirected,1
+eg,hinnes,Undirected,3
+Andrea,Jaggu,Undirected,1
+Aladdin Du,Aladdins,Undirected,1
+Andrea,madam Ravn,Undirected,1
+Reiersen,madam Ravn,Undirected,1
+eg,jamred Petra,Undirected,1
+gud,gud fader,Undirected,1
+Madam Lind,Smith,Undirected,3
+Gamlefruen,madam Lind,Undirected,1
+Gamlefruen,Smith,Undirected,1
+Lydia Munthe,Smith,Undirected,3
+Lina,Lydia Munthe,Undirected,1
+Gud,Lina,Undirected,1
+Eg,golve,Undirected,1
+Thomsen,sine,Undirected,1
+hinner,madam Lind,Undirected,1
+eg,kjerregår,Undirected,1
+kjerregår,madam Lind,Undirected,1
+Stine,madam Lind,Undirected,1
+Stine,eg,Undirected,2
+Di,eg,Undirected,1
+eg,gamlefruen,Undirected,1
+Kern,gamlefruen,Undirected,1
+gamlefruen,hinner,Undirected,1
+Greter,gud,Undirected,1
+Vorherre,hinner,Undirected,1
+eg,kver,Undirected,1
+gud,madam Lind,Undirected,1
+gud,stelle,Undirected,1
+Kanske,Petra,Undirected,1
+Lina,gud,Undirected,1
+Hermann,Lina,Undirected,1
+Madam Virs,Peder,Undirected,1
+Madam Virs,Sivert,Undirected,1
+Peder Frimann,Sivert,Undirected,1
+Sivert Jensen,eg,Undirected,1
+Virs,tokke,Undirected,1
+Sivert,madam,Undirected,1
+Kjuer,eg,Undirected,1
+Virs,madam,Undirected,1
+madam,polletie,Undirected,1
+eg,polletie,Undirected,1
+Eg,lise,Undirected,1
+Sivert,madam Stockflets,Undirected,1
+Eg,Stine,Undirected,1
+Eg,Ole Buli,Undirected,1
+Petra,Virs,Undirected,1
+Frimann,Sivert,Undirected,1
+Frimann,Peder,Undirected,1
+Sivert,dverg,Undirected,1
+Petra,dverg,Undirected,1
+Eg,Frimann,Undirected,1
+Frimann,heine,Undirected,1
+Peder,madam Holm,Undirected,1
+eg,madam Holm,Undirected,1
+Frimann,eg,Undirected,1
+Drea,Ravn,Undirected,1
+Ravn,Smith,Undirected,1
+Drea,Smith,Undirected,2
+Mikkelsdag,Smith,Undirected,1
+Mikkelsdag,Munthe,Undirected,1
+Munthe,Smith,Undirected,1
+Smith,taus,Undirected,1
+Petra,skjalv,Undirected,1
+Jensen,Petra,Undirected,2
+Stine,jomfru Madsen,Undirected,1
+Jensen,jomfru Madsen,Undirected,1
+Eriksen,hurpen,Undirected,1
+Sivert,jente,Undirected,1
+Jensen,Smith,Undirected,1
+Jensen,proved Sivert,Undirected,1
+eg,jomfru Madsen,Undirected,1
+Eg,ani,Undirected,1
+Eg,Sivert flou,Undirected,1
+Madam Lind,eg,Undirected,1
+Petra,løkke,Undirected,1
+Petra,din,Undirected,1

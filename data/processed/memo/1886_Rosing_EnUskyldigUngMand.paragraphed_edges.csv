@@ -1,0 +1,237 @@
+source,target,type,weight
+Hansen,J,Undirected,1
+Henrik,Lyrup Hansen,Undirected,5
+Henrik,Madsens,Undirected,1
+Kjærlingeris,Madsens,Undirected,1
+Lyr up Hansen,Lyrup Hansen,Undirected,1
+Jonas Lyrup,Jonas Lyrup Hansen,Undirected,3
+Jonas Lyrup Hansen,Marie Dues,Undirected,2
+Hansen,Lyrup Hansen,Undirected,1
+Jonas Lyrup,Lyrup Hansen,Undirected,1
+Henrik,L id,Undirected,1
+Jonas Lyrup,L id,Undirected,1
+Jonas Lyrup Hansen,Lyrup,Undirected,1
+Henrik,Lyrup,Undirected,2
+Eva,Madam Madsen,Undirected,1
+Lyrup Hansen,Madam Madsen,Undirected,1
+Gud,Lyrup Hansen,Undirected,1
+Gud,Hr. Madsen,Undirected,1
+Flan,Peter Madsen,Undirected,2
+Gud,Peter Madsen,Undirected,2
+Gud,Madam Madsen,Undirected,1
+Madam Madsen,Peter,Undirected,3
+Lyrup Hansen,Peter,Undirected,2
+B'olk,Lyrup Hansen,Undirected,1
+B'olk,Madam Madsen,Undirected,1
+Henrik,Madam Madsen,Undirected,5
+Henrik,Peter,Undirected,23
+Madsens,Peter,Undirected,2
+Henrik,Peter Madsen,Undirected,18
+Henrik,Peder Madsen,Undirected,1
+Peder Madsen,Peter,Undirected,1
+Jens,Peter,Undirected,2
+Pips,lille Henrik,Undirected,1
+Hr. Terkelsen,Pips,Undirected,1
+Gud,Pip,Undirected,1
+Gud,Terkelsen,Undirected,4
+Pip,Terkelsen,Undirected,2
+Hr. Terkelsen,Terkelsen,Undirected,4
+Gud,Hr. Terkelsen,Undirected,2
+Hr. Terkelsen,sorn,Undirected,1
+Terkelsen,sorn,Undirected,1
+Henrik,Terkelsen,Undirected,11
+Henrik,Hr. Terkelsen,Undirected,4
+Hr. Terkelsen,lian,Undirected,1
+Henrik,lian,Undirected,8
+Peter Madsen,Terkelsen,Undirected,1
+Peter,Peter Madsen,Undirected,2
+Hr. Terkelsen,Peter,Undirected,2
+Peter,vos,Undirected,1
+Gud,Jonas Lyrup Hansen,Undirected,1
+Gud,Lyrup,Undirected,1
+Hr. Terkelsen,Lyrup,Undirected,3
+Terkelsen,lille Henrik,Undirected,1
+Jonas Lyrup,lille Henrik,Undirected,1
+Jonas Lyrup,Marie,Undirected,1
+Henrik,Marie,Undirected,1
+Hr. Hansens,Hr. Terkelsen,Undirected,2
+Hr. Terkelsen,Lille Henrik,Undirected,1
+Hans,Henrik,Undirected,3
+Henrik,Plun,Undirected,2
+Blendes,Terkelsen,Undirected,1
+Blendes,lille Henrik,Undirected,1
+Henrik,Sofie,Undirected,3
+Henrik,Møllerens,Undirected,2
+Henrik,lille Henrik,Undirected,4
+Henrik,Henrik r,Undirected,2
+Henrik,Lærkens,Undirected,2
+Henrik,SaaDe,Undirected,1
+Flinck,Henrik,Undirected,1
+Flinck,Gud,Undirected,1
+Gud,Henrik,Undirected,30
+Henrik,lille Hans,Undirected,10
+Henrik,lille lians,Undirected,1
+lille lians,liun,Undirected,1
+Hans,liun,Undirected,1
+Eros,Henrik,Undirected,3
+Eros,Pagen,Undirected,1
+Pagen,Terkelsen,Undirected,1
+Eros,Gud,Undirected,2
+Gud,Sofie,Undirected,2
+Henrik,Kidder,Undirected,1
+Henrik,Oehlenschlägers,Undirected,1
+Axel,Oehlenschlägers,Undirected,1
+Axel,Valborg,Undirected,1
+Henrik,Valborg,Undirected,1
+Flan,Flun,Undirected,1
+Flun,Karlen,Undirected,1
+Henrik,Karlen,Undirected,1
+Henrik,liun,Undirected,4
+Henrik,Jonas Lyrup Hansen,Undirected,7
+Henrik,Madsen,Undirected,32
+Henrik,Jærn,Undirected,1
+Jærn,Madsen,Undirected,1
+Henrik,Hr. Madsen,Undirected,5
+Hr. Madsen,Peter Madsen,Undirected,1
+Gud,prange,Undirected,1
+Jonas Lyrup Hansen,prange,Undirected,1
+Jonas Lyrup Hansen,Peter Madsen,Undirected,1
+Lyrup Hansen,Peter Madsen,Undirected,2
+Gud,lille Hans,Undirected,1
+Gud,Livor,Undirected,1
+Henrik,Livor,Undirected,3
+Karlen,Peter Madsen,Undirected,1
+Henrik,Preuserncs,Undirected,1
+Frederik den 2den,Preuserncs,Undirected,1
+/Peter Plade,Peter Pletter,Undirected,1
+/Peter Plade,Peter,Undirected,1
+Peter,Peter Plades,Undirected,1
+Gud,Peter Plades,Undirected,1
+Henrik,Peter Pletter,Undirected,3
+Gud,Sancho Panza,Undirected,1
+Jørgensen,Sancho Panza,Undirected,1
+Jørgensen,Pasteur,Undirected,1
+Adam,Pasteur,Undirected,1
+Henrik,Jeppe,Undirected,2
+Gud,lian,Undirected,1
+Elisabeth,Hanne,Undirected,1
+Hanne,Henrik,Undirected,1
+Henrik,Kirstin,Undirected,1
+Henrik,Karen,Undirected,2
+Henrik,Maren,Undirected,18
+Maren,Mette,Undirected,1
+Henrik,Mette,Undirected,1
+Maren,Peter,Undirected,2
+Bedstemoders,Henrik,Undirected,1
+Bedstemoders,Peter,Undirected,1
+.Henrik,Henrik,Undirected,1
+.Henrik,Hansen,Undirected,1
+Due,Hansen,Undirected,2
+Due,Henrik,Undirected,2
+Bravo,Henrik,Undirected,1
+Bravo,Skovduen,Undirected,1
+Peter,Skovduen,Undirected,1
+Hansen,Peter,Undirected,2
+Bjørn,Peter,Undirected,1
+Bjørn,Maren,Undirected,1
+Bjørn,Stella in meine Nacht,Undirected,1
+Lærken,Mø,Undirected,1
+Mø,Svend,Undirected,1
+Maren,Toddy,Undirected,1
+Gud,Toddy,Undirected,1
+Bjørn,Gud,Undirected,1
+Bjørn,Henrik,Undirected,2
+Henrik,Toddyen,Undirected,3
+Gud,Toddyen,Undirected,1
+Henrik,Toddy,Undirected,4
+Henrik,Petermand,Undirected,1
+Flun,Henrik,Undirected,1
+Madsen,Peter Madsen,Undirected,5
+Emma,Jonas Lyrup Hansen,Undirected,1
+Henrik,Jeppesen,Undirected,13
+Hr. Jeppesen,Jeppesen,Undirected,1
+Jeppesen,Meyer,Undirected,10
+Henrik,Meyer,Undirected,8
+Henrik,Johan Miller,Undirected,1
+Henrik,Miller,Undirected,23
+Hakon Jarl,Jeppesen,Undirected,1
+Gud,Jeppesen,Undirected,1
+Jeppesen,Miller,Undirected,5
+Flusets,Miller,Undirected,1
+Flan,Madsen,Undirected,1
+Gud,Madsen,Undirected,2
+Lyrup Hansen,Madsen,Undirected,1
+Jonas Lyrup Hansen,Miller,Undirected,1
+Johan Miller,Miller,Undirected,1
+Johan Miller,Peter Madsen,Undirected,1
+Henrik,ban,Undirected,1
+Peter,ban,Undirected,1
+Peter,Peter Pletter,Undirected,1
+Gud,Peter,Undirected,2
+Fredriksen,Gud,Undirected,1
+Fredriksen,Henrik Hansen,Undirected,1
+Henrik,Henrik Hansen,Undirected,2
+Benjamin,Henrik,Undirected,2
+Henrik,olk,Undirected,1
+Henrik,hans,Undirected,2
+Henrik,Lærke,Undirected,1
+Eva,Henrik,Undirected,2
+Adam Oehlen sch,Henrik,Undirected,2
+Maren Pletter,lian,Undirected,1
+Henrik,Maren Pletter,Undirected,2
+Maren,Miller,Undirected,2
+Gud,Maren,Undirected,6
+Frøken Pletter,Henrik,Undirected,1
+Frøken Pletter,lian,Undirected,1
+Gud,Kristus,Undirected,1
+Due,Meyer,Undirected,1
+Meyer,Miller,Undirected,5
+Miller,Svane,Undirected,1
+Hr. Miller,Svane,Undirected,1
+Miller,Vaas,Undirected,1
+Hr. Grimsby,Vaas,Undirected,1
+Hr. Grimsby,Miller,Undirected,1
+Due,Miller,Undirected,3
+Emilie,Henrik,Undirected,1
+Emilie,Gud,Undirected,1
+Gud,Miller,Undirected,1
+Hr. Miller,Miller,Undirected,1
+Hr. Meyer,Miller,Undirected,1
+Maren,Maren Pletter,Undirected,1
+Fleje,lian,Undirected,1
+Fleje,Henrik Hansen,Undirected,1
+Miller,hines,Undirected,1
+Jeppesen,hines,Undirected,1
+Charlatanen,Hansen,Undirected,1
+Charlatanen,Hr. Meyer,Undirected,1
+Flansen,Hr. Meyer,Undirected,1
+Flansen,Maren,Undirected,1
+Hr. Hansen,Hr. Madsen,Undirected,1
+Flan,Lise,Undirected,1
+Henrik,Lise,Undirected,1
+Henrik,lille Lise,Undirected,1
+Karl,lille Lise,Undirected,1
+Else,Graad,Undirected,1
+Graad,Henrik,Undirected,1
+Hr. Madsen,Madsen,Undirected,3
+Hr. Madsen,Lyrup Hansen,Undirected,2
+Henrik Hansen,Hr. Madsen,Undirected,1
+Hansen,Svend,Undirected,1
+Hr. Madsen,Svend,Undirected,1
+Henrik,Lyrup-Hansen,Undirected,2
+Henrik,Podagra,Undirected,2
+Hr. LyrupHansen,Hr. Madsen,Undirected,1
+Daggry,Henrik,Undirected,1
+Henrik,Hr. Jeppesen,Undirected,1
+Hr. Jeppesen,Meyer,Undirected,1
+Meyer,strax,Undirected,1
+P'orsamlingens,strax,Undirected,1
+Mishag,P'orsamlingens,Undirected,1
+Hansen,Madsen,Undirected,1
+Hansen,Hr. Hansen,Undirected,1
+Hansen,Henrik,Undirected,3
+Kjørslen,Terkelsen,Undirected,1
+Henrik,Kjørslen,Undirected,1
+Don Quixote,Gud,Undirected,1
+Henrik Hansen,Maren,Undirected,1
+Gud,Henrik Hansen,Undirected,1

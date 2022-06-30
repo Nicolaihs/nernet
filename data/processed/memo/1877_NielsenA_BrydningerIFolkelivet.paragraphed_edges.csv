@@ -1,0 +1,130 @@
+source,target,type,weight
+Gennaro,Signor,Undirected,3
+Evviva,Gennaro,Undirected,2
+Antonio,Signor,Undirected,1
+Antonio,Rubinnella,Undirected,2
+Gennaras,Gennaro,Undirected,2
+Beppo,Signor,Undirected,2
+Beppo,sisfe,Undirected,1
+Madonna,sisfe,Undirected,1
+Beppo,Madonna,Undirected,1
+Beppo,bode,Undirected,1
+Rubinella,bode,Undirected,1
+Rubinella,Rubinnella,Undirected,1
+Rubinella,Signor,Undirected,3
+Enrico,Gennaro,Undirected,1
+Karl,Per Bacco,Undirected,1
+Salvadore pal,Signor,Undirected,1
+Salvadore,Signor,Undirected,1
+Gennaro,Salvadore,Undirected,1
+Alfonso,Signor,Undirected,1
+Alfonso,Salvadore,Undirected,1
+Aifonsos,Antonio,Undirected,1
+Alfonso,Antonio,Undirected,1
+Alfonso,Ischias,Undirected,1
+Antonio,ou,Undirected,1
+Alfonso,Garibaldi,Undirected,7
+Alfonso,Giuseppa,Undirected,12
+Giuseppa,bun,Undirected,2
+Alfonso,Madonna,Undirected,3
+Alfonso,Francesco,Undirected,12
+Alfonso,Per Bacco,Undirected,1
+Garibaldi,Giuseppo,Undirected,1
+Giuseppa,Salvadore,Undirected,7
+Garibaldi,Giuseppa,Undirected,1
+Giuseppo,Ojesten,Undirected,2
+Giuseppa,Madonna,Undirected,3
+Madonna,bisse,Undirected,1
+Alfonso,Hanspisfe,Undirected,1
+Giuseppo Garibaldi,Paven,Undirected,1
+Garibaldi,bisse,Undirected,1
+Alfonso,Graadige,Undirected,1
+Alfonso,AlfonsoS,Undirected,2
+Garibaldi,Gud,Undirected,1
+Giuseppa,Gud,Undirected,2
+Francesco,Garibaldi,Undirected,1
+Angesten,Giuseppa,Undirected,2
+Alfonso,sif,Undirected,1
+Gud,sif,Undirected,1
+Giuseppa,Pater Lorenzo,Undirected,1
+Anathema,Pater Lorenzo,Undirected,1
+Anathema,Gud,Undirected,1
+Bullen,Gud,Undirected,1
+Alfonso,Gud,Undirected,2
+Francesco,Gud,Undirected,1
+Alfonso,ou,Undirected,1
+Italia,Jtalia,Undirected,1
+Francesco,Giuseppa,Undirected,1
+Tamburin,allid,Undirected,1
+Dans,^orostisrs,Undirected,1
+Signor,nn Bajoell,Undirected,1
+Giuseppa,Hokze,Undirected,1
+Hokze,Salvadore,Undirected,17
+Gud,Salvadore,Undirected,8
+Gud,def,Undirected,1
+Madonna,Pater,Undirected,1
+Pater,Salvadore,Undirected,1
+Garibaldi,Salvadore,Undirected,1
+Gud,Pater Anselmo,Undirected,1
+Bianca,Luigi,Undirected,1
+Salvadore,høs,Undirected,1
+Hohe,høs,Undirected,1
+Hohe,Salvadore,Undirected,3
+Salvadore,piooolo Dui^i,Undirected,2
+Hotzes,Salvadore,Undirected,1
+Bjcergene,Sven,Undirected,1
+Bjcergene,Hokze,Undirected,1
+Hokze,yan,Undirected,1
+Jakobs,yan,Undirected,1
+Jakob,Jakobs,Undirected,1
+Jakob,Salvadore,Undirected,1
+Marinaro,Signor,Undirected,1
+Salvadore,rasf,Undirected,1
+Josef,Signora,Undirected,1
+Ester,Salvadore,Undirected,2
+Salvadore,øg,Undirected,1
+Giuseppa,Tamburinen,Undirected,1
+Madonna,Salvadore,Undirected,1
+Salvadore,Wbelet,Undirected,1
+Sofie,Wbelet,Undirected,1
+Sofie,lille Salvadore,Undirected,1
+Pestschlos,lille Salvadore,Undirected,1
+Faster,Gud,Undirected,1
+Pesfalozzi,Salvadore,Undirected,1
+Kiuskpxa,llkKro,Undirected,1
+Bravo,Giuseppa,Undirected,1
+Luigi,xieeolo Luigi,Undirected,1
+Leeo,raable,Undirected,1
+Luigi,Salvadore,Undirected,2
+Mariotta,Salvadore,Undirected,3
+Bianca,Mariotta,Undirected,9
+Bianca,Salvadore,Undirected,11
+Bianca,Giuseppa,Undirected,1
+Salvadore,^orestisrs,Undirected,1
+Bianca,^orestisrs,Undirected,1
+Bianca,Tarantellen,Undirected,1
+Bianca,Tamburin,Undirected,1
+Salvadore,xieeolo Luigi,Undirected,2
+Gud,Madonna,Undirected,1
+Giuseppa,Mariotta,Undirected,1
+Giuseppa,Luigi,Undirected,1
+Dn,Emilie Hinchel,Undirected,1
+Bianca,Faster,Undirected,2
+Salvadore,bisse,Undirected,1
+Faster,Salvadore,Undirected,8
+Bianca,Hotze,Undirected,1
+Giuseppa,xleeoilo Luigi,Undirected,1
+Salvadore,xleeoilo Luigi,Undirected,1
+Luigi,Meu,Undirected,1
+Hotze,Salvadore,Undirected,2
+Bianca,Gud,Undirected,2
+Gaug,Salvadore,Undirected,1
+Bianca,Gaug,Undirected,1
+Heckov,Ludvig Heckov,Undirected,1
+Gud,Hotze,Undirected,1
+Hotze næsfen,Salvadore,Undirected,1
+Carlo,Luigi,Undirected,1
+Salvadore,tove,Undirected,1
+Famulus,Pater Tommaso,Undirected,1
+Ban,Famulus,Undirected,1
+Fasfer,Salvadore,Undirected,3

@@ -1,0 +1,485 @@
+source,target,type,weight
+Jersikoff,Villien,Undirected,1
+Honneurs,Katharina,Undirected,1
+Greves,Ten gamle,Undirected,1
+Grev Tørneff,Jersikvfs,Undirected,1
+Iwan,Josinsky,Undirected,3
+Iwan,Josinflh,Undirected,1
+Josinsky,spnrgte,Undirected,1
+Grev Torneff,Grev Tornesf,Undirected,1
+Dean,Katharina,Undirected,1
+Gud,Katharina,Undirected,3
+Jwan,Katharina,Undirected,16
+Katharina,Paul,Undirected,29
+Katharina,Torneff,Undirected,33
+Greve,Torneff,Undirected,1
+Jwan,Paul,Undirected,18
+Josinsky,Kudsk,Undirected,1
+Chinkay,Herr Patoff,Undirected,1
+Chinkay,Madetzky,Undirected,3
+Alexander,Herr Patoff,Undirected,1
+Alexander,Patoff,Undirected,20
+Alexander Madetzkys,Patoff,Undirected,1
+Alexander,Dein,Undirected,1
+Alexander,Harr,Undirected,1
+Gud,Paul,Undirected,5
+Jersikoff,Paul,Undirected,1
+Madam Surffo,Paul,Undirected,3
+Grev Jersikoffs,Schveitseren,Undirected,1
+Jersikoff,Keiseren,Undirected,2
+Katharina,Paul Surffo,Undirected,3
+Jersikoff,Katharina,Undirected,7
+Paul,Torneff,Undirected,6
+Jersikoff,Torneff,Undirected,24
+Grev Jersikoff,Todtleben,Undirected,1
+Jersikoff,Wareljeffs,Undirected,1
+Marie,Weiß,Undirected,2
+Marie Weiß,Weraljeff,Undirected,1
+Katharina,Mama,Undirected,1
+Katharina vexlede,Weraljeff,Undirected,1
+Katharina vexlede,Paul Surffo,Undirected,1
+Kathrina,Weraljeff,Undirected,1
+Keisers,iveien,Undirected,1
+Jersikoff,Keisers,Undirected,1
+Josinsky,Jwan Jersikoff,Undirected,1
+Josinsky,Jwan,Undirected,3
+Dont,Paul,Undirected,1
+Alexander Madetzky,Paul,Undirected,1
+Alexander Madetzky,fom Jwan,Undirected,1
+Paul,ester,Undirected,1
+Jwan,ester,Undirected,1
+Paul,^Katharina,Undirected,1
+Jwan,Sam,Undirected,1
+Josinsky,Lawretzky,Undirected,2
+Jersikoff,Paul Surffo,Undirected,1
+Karle,Paul Surffo,Undirected,1
+Jwan,Paul Surffo,Undirected,2
+Iwan,Paul Surffo,Undirected,1
+Jersikoff,Jwan,Undirected,8
+Jersikoff,Lawretzky,Undirected,1
+Katharina,fasf,Undirected,1
+Paul,ane,Undirected,1
+Madam Surffo,aabneoe,Undirected,1
+Jersikoff,Wilson,Undirected,2
+Josinsky,Wilfon,Undirected,1
+Lubinoff,Wilson,Undirected,1
+Wilson,Øincnes,Undirected,2
+Grev Jwan,Wilson,Undirected,1
+Lawretzky,Paul Surffo,Undirected,1
+Grev Jersikoff,Grev Torneff,Undirected,1
+Grev Torneff,Greve,Undirected,1
+Fabrikeier Patoffs,Feodora,Undirected,2
+Alexander,Feodora,Undirected,31
+Alexander,Øe,Undirected,1
+Alan,sristes,Undirected,1
+Chinkay,Gud,Undirected,2
+Arbeidercn,Weraljeff,Undirected,1
+Bein,hjeni,Undirected,1
+Chinkay,Weraljeff,Undirected,2
+Chinkay,Feodora,Undirected,4
+Alexander Madetzky,Feodora,Undirected,2
+Weraljeff,ester,Undirected,3
+Hr. Kommissair,Weraljeff,Undirected,1
+Patoff pleier,kjendte Weraljeff,Undirected,1
+Feodora,kjendte Weraljeff,Undirected,1
+Feodora,Weraljeff,Undirected,13
+Alexander,Weraljeff,Undirected,5
+Feodora,Froken,Undirected,1
+Pctrowitsch,Weraljeff,Undirected,2
+Weraljeff,taus,Undirected,1
+Chinkay,Ester,Undirected,1
+Ester,Madetzky,Undirected,1
+Alexander,Gud,Undirected,2
+Alexander,ramr,Undirected,1
+Feodora,Gud,Undirected,1
+Alexander Madetzky,Chinkay,Undirected,1
+Grev Torneff,Katharina,Undirected,9
+Grev Torneff,Katharina voxe,Undirected,1
+Grev Jersikoff,Katharina,Undirected,2
+Grev Torneff,næsfe,Undirected,1
+Jersikoff,næsfe,Undirected,1
+Arbciders,Paul Surffo,Undirected,1
+Grev Torneff,Jersikoff,Undirected,2
+Katharina neppe,Lawrctzkys,Undirected,1
+Lawrctzkys,Paul,Undirected,1
+Lawretzky,Paul,Undirected,2
+Grev Torneff,Paul,Undirected,3
+Bravo,kæn,Undirected,1
+Paul,kæn,Undirected,1
+Constantin Walensky,Katharina,Undirected,1
+Iwan,Katharina,Undirected,4
+Paul Surffo,Torneff,Undirected,1
+Jwan,Torneff,Undirected,4
+Roes,Torneff,Undirected,2
+Torneff,k,Undirected,1
+Roes,ane,Undirected,1
+Ivan,Iwan,Undirected,1
+Jersikoff,Petrowitsch,Undirected,2
+Lieutenant Pctrowitsch,Weraljeff,Undirected,1
+Madetzky,Patoff,Undirected,2
+Hr. Patoff,Madetzky,Undirected,2
+Gurkos,Weraljeff,Undirected,1
+Petrowitsch,Weraljeff,Undirected,5
+Jwan,Pctrowitsch,Undirected,1
+Haloi,Petrowitsch,Undirected,1
+Gud,Petrowitsch,Undirected,1
+Greven,Weraljeff,Undirected,12
+Been,Jwan,Undirected,2
+Katharina,Schulkzcs,Undirected,1
+Haack,Weraljeff,Undirected,1
+Feodor Haack,Schultze,Undirected,1
+Haack,gck,Undirected,1
+Schultze,jæg,Undirected,1
+Schulkzcs,Schultze,Undirected,1
+Petrowitsch,Schullze,Undirected,1
+Haack,Schullze,Undirected,1
+Haack,Schultze,Undirected,4
+Grev Jwan,Schultze,Undirected,1
+Schultze,Weraljeff,Undirected,2
+Josinsky,Paul,Undirected,1
+Alexander,Madam Surffo,Undirected,2
+Alexander Madetzky,Patoff,Undirected,1
+Grev Jersikoff,Weraljeff,Undirected,1
+Paul,ove,Undirected,1
+Jwan,Madam,Undirected,1
+Jwan,Madam Surffo,Undirected,2
+Hr. Greve,Passiar,Undirected,1
+Greve,Jwan,Undirected,3
+Feodora,Patoff,Undirected,11
+Madetzky,Weraljeff,Undirected,2
+Feodora,Madetzky,Undirected,2
+Feodora,Patoff halvveis,Undirected,1
+Alexander,Chinkay,Undirected,4
+Chinkay,Feodora Patoff,Undirected,1
+Chinkay,Froken,Undirected,1
+Chinkay,fom,Undirected,1
+Feodora,Øe,Undirected,1
+Katharina Jersikoff,Torneff,Undirected,1
+Katharina,Katharina Torneff,Undirected,1
+Grev Torneff,Torneff,Undirected,3
+Graad,Jwan,Undirected,3
+Paul,marschere,Undirected,1
+Katharina,Weraljeff,Undirected,1
+Greven,Jersikoff,Undirected,2
+Jersikoff,hons,Undirected,1
+Jwan,hons,Undirected,1
+Graad,Katharina,Undirected,2
+Constantin Walensky,Paul Surffo,Undirected,1
+Gud,Marie,Undirected,1
+Constantin Walensky,j,Undirected,1
+Paul Surffo,j,Undirected,2
+Marie,j,Undirected,1
+Paul,j,Undirected,1
+Constantin Walensky,Paul,Undirected,1
+Jwan Turgenjew,Marie,Undirected,1
+Marie,Paul,Undirected,32
+Constantin Walensky,Marie,Undirected,1
+Marie,Walensky,Undirected,1
+Aland,Grev Tornesf,Undirected,1
+Paul tillivs,vidsfe,Undirected,1
+Torneff,fodt Jersikoff,Undirected,1
+Taus,Torneff,Undirected,1
+Gud,nei,Undirected,1
+Katharina,nei,Undirected,1
+Greven,Katharina,Undirected,7
+Grev Tørneff,Jwan,Undirected,1
+Gjerning,Katharina,Undirected,1
+Marie,Paul Surffo,Undirected,1
+Hans,Katharina,Undirected,1
+Torneff,taust,Undirected,1
+Marie,Torneff,Undirected,1
+Grev Torneff,Marie,Undirected,2
+Paul,sor,Undirected,1
+Paul,dans,Undirected,1
+Hr. Greve,Paul,Undirected,1
+Paul,ai,Undirected,1
+Greven,Paul,Undirected,1
+Marie,Osip,Undirected,1
+Marie,rolig,Undirected,1
+Alexander Madetzky,Feodora Patoff,Undirected,1
+Feodora,Hazard,Undirected,2
+Alexander,Josinsky,Undirected,21
+Feodora Patoff,Weraljeff,Undirected,2
+Jersikoff,Weraljeff,Undirected,7
+Jersikoff,felv,Undirected,2
+Iwan,Weraljeff,Undirected,2
+Seir,Weraljeff,Undirected,1
+Lieutenant Petrowitsch,Weraljeff,Undirected,1
+Petrooitsch,bm,Undirected,1
+Levini,noch,Undirected,1
+Alexander Madetzky,Josinsky,Undirected,1
+Josinsky,Madetzky,Undirected,1
+Josinsky trosfyldigt,Villie,Undirected,1
+Chinkay,Josinsky,Undirected,2
+Jwan,høilys,Undirected,1
+Jwan,Lieutenant Petrowitsch,Undirected,1
+Jwan,Petrowitsch,Undirected,4
+ester,esteren,Undirected,1
+Dn,Gud,Undirected,1
+Dn,Jersikoff,Undirected,1
+Jersikoff,j,Undirected,1
+husf,j,Undirected,1
+Jwan,Jwan Jersikoff,Undirected,2
+Osip,Paul Surffo,Undirected,1
+C.,Chinkay,Undirected,1
+C.,Weraljeff,Undirected,1
+Michaloff,Weraljeff,Undirected,8
+Feodora,Michaloff,Undirected,3
+Hr. Weraljeff,Michaloff,Undirected,1
+Feodora,Hr. Weraljeff,Undirected,1
+Michaloff,Weraljeff sfal,Undirected,1
+Chinkay,Weraljeff sfal,Undirected,1
+Patoff,Weraljeff,Undirected,11
+Patoff,skjødeslos,Undirected,1
+Michaloff,skjødeslos,Undirected,1
+Chinkay,Patoff,Undirected,1
+Hr. Patoff,Patoff,Undirected,1
+Chinkay,eie,Undirected,1
+Alexander,Michaloff,Undirected,1
+Michalofs,Weraljeff,Undirected,1
+Feodora,Michalofs,Undirected,1
+Weraljeff,sine Sands,Undirected,1
+Adonis,Weraljeff,Undirected,1
+Bien,Weraljeff,Undirected,1
+8iaa,Alexander,Undirected,1
+Jovisf,Michaloff,Undirected,1
+Chinkay,Josinsty,Undirected,1
+Katharina,Tørneff,Undirected,2
+Britta,Katharina,Undirected,1
+Grevinde Torneff,Mirjan,Undirected,1
+Don Juan,Katharina,Undirected,1
+. Torneff,fom f. Ex,Undirected,1
+. Torneff,Torneff,Undirected,1
+Katharina,Mirjan,Undirected,9
+Jersikoff,Mirjan,Undirected,4
+Grev,Iwan,Undirected,1
+Iwan,Karl,Undirected,1
+Diellem,Torneff,Undirected,1
+Greve,Øe,Undirected,1
+Grev Torneff,Mirjan,Undirected,1
+Katharina,Panl,Undirected,3
+Panl,felv,Undirected,1
+Katharina,felv,Undirected,1
+Paul,Øe,Undirected,1
+Grevinde Torneff,Marie,Undirected,1
+Katharina,Marie,Undirected,4
+Osip,Paul,Undirected,2
+Marie,rasf,Undirected,1
+Paul,husi,Undirected,1
+Marie,husi,Undirected,1
+Jwan Jersikoff,Paul,Undirected,1
+Karoff,disfe,Undirected,1
+Jwan,disfe,Undirected,1
+Jwan,Wladimir Kønig,Undirected,1
+Jwan,Wladimir,Undirected,12
+Ester,Jwan,Undirected,1
+Grev Jersikoff,Kønig,Undirected,1
+Jwan foer,Wladimir,Undirected,1
+Karoff,Øe,Undirected,1
+Karoff,Paul,Undirected,2
+Haloi,Jersikoff,Undirected,1
+Kaross,Paul,Undirected,1
+Paul,jusf,Undirected,1
+Katharina,jusf,Undirected,1
+Katharina,fluide,Undirected,1
+Paul,Wladimir,Undirected,1
+Marie,Wladimir,Undirected,1
+Samuel,iveien,Undirected,1
+Iwan,iveien,Undirected,1
+Iveien,iveien,Undirected,1
+Jwan,Samuel,Undirected,1
+Jwan,Pidsken,Undirected,1
+Jwan,iveien,Undirected,1
+Finnen,Osip,Undirected,2
+Osip,Patrouillerede,Undirected,1
+Admiral Popoffs,Torneff,Undirected,1
+Admiral Popoffs,Jersikoff,Undirected,1
+Mirjan,Torneff,Undirected,1
+Hr. Greve,Karoff,Undirected,1
+Karoff,Torneff,Undirected,2
+Grev Jersikoff,Karoff,Undirected,1
+Karoff,Katharina,Undirected,1
+Katharina reisfe,Torneff,Undirected,1
+Jersikoff,Karl,Undirected,1
+Muhameds,Todtleben,Undirected,1
+Plewna,Todtleben,Undirected,1
+Karl,Todtleben,Undirected,1
+Michaloff,Weraljeff havoe,Undirected,1
+Josinsfys,Weraljeff havoe,Undirected,1
+Alexander,Josinsfys,Undirected,1
+Patoff,as,Undirected,1
+Josinsky,Schultze,Undirected,1
+Feodor Haach,Josinsky,Undirected,2
+Haach,Josinsky,Undirected,1
+Haach,Patoff,Undirected,1
+Greve,Hr. Leminoff,Undirected,1
+Hr. Leminoff,Roes,Undirected,1
+Grev Morcheff,Hr. Patoff,Undirected,1
+Grev Morcheff,Halfen,Undirected,1
+Feodora,Leminoff,Undirected,4
+Feodora,Grev Marcheff,Undirected,1
+Feodora,Suffisance,Undirected,1
+Greven,Leminoff,Undirected,1
+Feodora,Morcheff,Undirected,3
+Grev Morcheff,Weraljeff,Undirected,2
+Greve,Leminoff,Undirected,1
+Alexander hsvde,Feodora,Undirected,1
+Alexander saae,Feodora,Undirected,1
+Morcheff,Patoff,Undirected,2
+Alexander,Morcheff,Undirected,2
+Hr. Greve,Journalisten Leminoff,Undirected,1
+Grev Morcheff,Journalisten Leminoff,Undirected,1
+Chinkay,Greven,Undirected,1
+Alexander,Hr. Patoff,Undirected,1
+Hr. Patoff,j,Undirected,2
+Alexander,j,Undirected,1
+Grev Morcheff,j,Undirected,1
+Feodora,Greven,Undirected,1
+Feodora,Hr. Patoff,Undirected,1
+Greven,halvveis,Undirected,1
+Alexander,Greven,Undirected,1
+Michaloff,slod,Undirected,1
+Hr. Leminoff,Michaloff,Undirected,1
+Michaloff,taus,Undirected,1
+Patoff,taus,Undirected,1
+Gud,Leminoff,Undirected,2
+Leminoff,Michaloff,Undirected,1
+Dandsen,Patoff,Undirected,1
+Michaloff,Patosi,Undirected,1
+Michaloff,Patoff,Undirected,1
+Alexander,Alexander Madetzky,Undirected,1
+Josinsky fog Alexander,fog,Undirected,1
+Chinkay,Madekzky,Undirected,1
+Chinkay,Hr. Patoff,Undirected,1
+Hr. Patoff,Øe,Undirected,1
+Chinkay,Øe,Undirected,1
+Clara,Ella,Undirected,8
+Clara,Wladimir,Undirected,7
+Ella,Wladimir,Undirected,4
+Jersikoff,Wladimir,Undirected,2
+E. K.,Ella Kønig,Undirected,2
+Wladimir,lee,Undirected,1
+Ella,ester,Undirected,1
+Lubinosf,j,Undirected,1
+Ella,Jwan Jersikoff,Undirected,1
+Gud,Wladimir,Undirected,1
+Clara,Gud,Undirected,1
+Jwan Jersikoff,Wladimir,Undirected,2
+Grev Jersikoff,Wladimir,Undirected,1
+Karoff,Wladimir,Undirected,1
+Karoff,marscherc,Undirected,1
+Jwan Jersikoff,Konig,Undirected,1
+Wladimir,sfride,Undirected,1
+Jwan,sfride,Undirected,1
+Ivan,Wladimir,Undirected,1
+Iwan,fom,Undirected,1
+Jwan,Marquien,Undirected,1
+Hr. Kønig,Marquien,Undirected,1
+Jwan,Kønig,Undirected,1
+Greve,Jersikoff,Undirected,1
+Aagerkarle,Katharina,Undirected,1
+Aagerkarle,Grev Torneff,Undirected,1
+Elsfer,Paul,Undirected,1
+Mirjan,Paul,Undirected,2
+Katharina,Øe,Undirected,1
+Mirjan,Paulun,Undirected,1
+Alexander,Josinfly,Undirected,1
+Eden,Weraljeff,Undirected,2
+Alexander,Iwan Jersikoff,Undirected,1
+Eden,Josinsky,Undirected,1
+Dein,Katharina,Undirected,1
+Karl,Mirjan,Undirected,1
+Grevinden,Paul,Undirected,1
+Paul,lille Marie,Undirected,1
+Clara,Jwan,Undirected,4
+Clara,E. K.,Undirected,1
+Mied,Schultze,Undirected,1
+Ivan,Weraljeff,Undirected,1
+esterkomme,fpurgte Weraljeff,Undirected,1
+Jwan,Weraljeff,Undirected,12
+Alexander Madetzsky,Hrr Weraljeff,Undirected,1
+Jwan Jersikoff,Schultze,Undirected,1
+Jwan,fvurgte,Undirected,1
+Jwan,frank,Undirected,1
+Hillemæn,Jwan,Undirected,1
+Jwan,rasf,Undirected,1
+Greven,Paul Surffo,Undirected,1
+Hrr Reloff,Hrr Serving,Undirected,1
+Hrr Serving,Hrr Wcraljeff,Undirected,1
+Greven,Hrr,Undirected,1
+Ella,Iwan,Undirected,2
+Jwan,Wladimir gjennem,Undirected,1
+Clara,E. K,Undirected,1
+Jersikoff seile,Wladimir,Undirected,1
+Fru Kønig,Grev Jwan Jersikoff,Undirected,1
+Wladimir,inig,Undirected,1
+Iwan,Wladimir,Undirected,1
+E. K.,Ella,Undirected,1
+Ella flog,rinne,Undirected,1
+Jwan,fom,Undirected,1
+Greven,fom,Undirected,1
+Jwan,Keiseren,Undirected,1
+Keiseren,Wladimir Kønig,Undirected,1
+Jersikoff,øg,Undirected,1
+Jersikoff,barsf,Undirected,1
+Jwan,barsf,Undirected,1
+Jwan,Karoff,Undirected,2
+Jersikoff,Karoff,Undirected,1
+Jwan,No,Undirected,1
+Jersikoff,Torneffs Reisckaleche,Undirected,1
+Jwan Grev Torneff,Katharina imøde,Undirected,1
+Katharina,Tornesi,Undirected,1
+Dersonr,Katharina,Undirected,1
+Dersonr,slal,Undirected,1
+Grevinde Torneff,Katharina,Undirected,1
+Jwan,lee høit,Undirected,1
+Torneff,Weraljeff,Undirected,1
+Greven,fynes,Undirected,1
+Gud,Jwan,Undirected,1
+Alchymist,Lubinoff,Undirected,1
+Jersikoff,Lubinoff,Undirected,1
+Ieg,Wilson,Undirected,2
+Ieg,høilys,Undirected,2
+Lubinoff,Weraljeff,Undirected,1
+Alchymisten,Jwan,Undirected,1
+Alchymisten,sone,Undirected,1
+Patoff,fom,Undirected,1
+Patoff,nie,Undirected,1
+Morcheff,Weraljeff,Undirected,1
+Leminoff,Weraljeff,Undirected,4
+Leminoff,sone,Undirected,1
+lee,sone,Undirected,1
+Grev Morcheff,sone,Undirected,1
+Leminoff,Morcheff,Undirected,1
+Hr. Josinsky,Jwan Jersikoff,Undirected,1
+Hr. Weraljeff,Jwan,Undirected,1
+Asfe,Bjørn,Undirected,1
+daDu,høilys,Undirected,1
+Gud,høilys,Undirected,1
+Madam Surffo,Marie,Undirected,3
+Leminoff,Patoff,Undirected,4
+Gud,Weraljeff,Undirected,1
+Alexander,Madetzky,Undirected,1
+Alexander,Leminoff,Undirected,2
+Josinsky,Leminoff,Undirected,1
+Feodora,eher,Undirected,1
+Patoff,eher,Undirected,1
+Feodora,felv,Undirected,1
+Feodora,Patoff bistert,Undirected,1
+Feodora ogfaa,Paotff,Undirected,1
+Ella,Jwan,Undirected,4
+Bramdekjæeldcren,Io,Undirected,1
+Hr. Greve,Io,Undirected,1
+Greven,Jwan,Undirected,3
+Iwan,Iwan Jersikoff,Undirected,1
+Jwan,def,Undirected,1
+Jwan,meb,Undirected,1
+Jersikoff,Leminoff,Undirected,1
+Loris Melikoff,Paul Surffo,Undirected,1
+Torneff,Øe,Undirected,1
+Feodor Haach,Schultze,Undirected,1
+Feodor Haach,Krusifix,Undirected,1
+Alexander,Ella,Undirected,1
+Feodora,Torneff,Undirected,1
+Madam Surffo,Osip,Undirected,1
+Alexander den Tredie,Keiser,Undirected,1

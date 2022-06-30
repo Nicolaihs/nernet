@@ -1,0 +1,87 @@
+source,target,type,weight
+Læssings,Principal,Undirected,1
+Baron Sominsky,Principal,Undirected,1
+Baron Sominsky,Læssing,Undirected,1
+Lilly,Læssing,Undirected,17
+Jean —,de France,Undirected,1
+Pierre,Richard,Undirected,2
+Diogenes,Læssing,Undirected,1
+Per,Th. Brun,Undirected,1
+Per,Poul,Undirected,1
+Drejer,Høg,Undirected,1
+Hansen,Høg,Undirected,1
+A. L.,Brun,Undirected,1
+Gud,Melitta,Undirected,6
+Melitta v.,P.,Undirected,1
+P.,Trolle Ljungby,Undirected,1
+Brun,Melitta,Undirected,8
+Jonas,Melitta,Undirected,2
+Gud,Thorvald,Undirected,1
+Frk. Løve,Melitta,Undirected,1
+Melitta,sotn,Undirected,1
+Løve,Melitta,Undirected,1
+Halvorson,Melitta,Undirected,5
+Gud,Løve,Undirected,1
+Brun,Løve,Undirected,1
+Grev P.,Melitta,Undirected,2
+Chr. K. F. Molbech,Melitta,Undirected,1
+Melitta,Thorvald,Undirected,3
+Jonas,Thorvald,Undirected,1
+Gud,Mama,Undirected,1
+Brun,Lilly,Undirected,3
+Lilly,Mama,Undirected,10
+Aare,Lilly,Undirected,1
+G.,P.,Undirected,1
+Gud,Lilly,Undirected,2
+Lilly,Papa,Undirected,4
+Baronen'strængt,Lilly,Undirected,1
+Dr. Brun,Melitta,Undirected,5
+Dr. Brun,Grevens,Undirected,1
+Melitta,Nemesis,Undirected,1
+Melitta,dito,Undirected,2
+Mama,Papa,Undirected,3
+Adel,Mama,Undirected,1
+Mama,Pierre,Undirected,1
+Papa,Richard,Undirected,1
+Læssing,Mama,Undirected,3
+Baronessens,Lilly,Undirected,1
+Baronessens,Melitta v.,Undirected,1
+Lilly,Melitta,Undirected,54
+Mamsel Ulla,Melitta,Undirected,2
+Melitta,Mellitta,Undirected,2
+Læssing,Melitta,Undirected,7
+Dr. Brun,Holberg,Undirected,1
+Holberg,Phister,Undirected,1
+Holberg,Lilly,Undirected,1
+Arne,Thorvald,Undirected,1
+Abrahams,Frk. Løve,Undirected,1
+Halvorson,Løve,Undirected,3
+Fruens,Halvorson,Undirected,1
+Fruens,Raison,Undirected,1
+Jean,Lilly,Undirected,1
+Jean,Jeppe,Undirected,1
+Jeppe,Laessing,Undirected,1
+Mama,Melitta,Undirected,5
+Lilly,Thorvald Brun,Undirected,1
+Jean,Læssing,Undirected,1
+Jean,Melitta,Undirected,1
+Lilly,Melitta gjennemgaa,Undirected,1
+Frk. Bech,Gud,Undirected,1
+Frk. Bech,Frk. Kruse,Undirected,1
+Frk. Kruse,Frk. Lenau,Undirected,1
+Bechs,Frk. Lenau,Undirected,1
+Lilly,cVil,Undirected,1
+Graad,Mama,Undirected,1
+Lilly,excelsior,Undirected,1
+Brun,Læssing,Undirected,1
+Lilly,Thorvald,Undirected,1
+Læssing,Thorvald Brun,Undirected,1
+Melitta,Ynde,Undirected,1
+Dr. Brun,Lilly,Undirected,2
+Brun,P.,Undirected,1
+A.,P.,Undirected,1
+Læssing,P.,Undirected,1
+Læssing,Thorvald,Undirected,2
+Brnn,Brun,Undirected,1
+Melitta,Thorvald Brun,Undirected,1
+Melitta,kjære,Undirected,1

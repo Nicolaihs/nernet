@@ -1,0 +1,112 @@
+source,target,type,weight
+Bertha,Ellen,Undirected,42
+Fru Skovs,Skovs,Undirected,1
+Ellen,Hvid,Undirected,3
+Ellen,van Hylst,Undirected,1
+Ellen,Vilhelm Jessen,Undirected,3
+Andersen,Holm,Undirected,1
+Christian,Ellen,Undirected,1
+Christian,Holm,Undirected,1
+Bertha,Vilhelm Jessen,Undirected,1
+Ellen,Vilhelm,Undirected,2
+Bertha,Vilhelm,Undirected,1
+Christines,Rasmus,Undirected,1
+Christine,Rasmus,Undirected,2
+Axel,Ellen,Undirected,25
+Christian Winther,Gud,Undirected,1
+Faders,van Hylst,Undirected,2
+Ellen,Gud,Undirected,6
+Axel,Bertha,Undirected,15
+Ellen,Kjæk,Undirected,1
+Bertha,Capitain Ehrenskjbld,Undirected,1
+Bertha,Franks,Undirected,1
+Ehrenskjold,Gud,Undirected,1
+Bertha,Ehrenskjold,Undirected,2
+Ehrenskjold,Ellen,Undirected,1
+Ellen,Sejer,Undirected,1
+Ehrenskjbld,Ellen,Undirected,2
+Bertha,Ehrenskjbld,Undirected,3
+Axel,AxelJ^,Undirected,1
+Ellen,Krisis,Undirected,1
+Axel,Ehrenskjbld,Undirected,2
+Bertha,eg,Undirected,2
+Bertha,Gud,Undirected,3
+Axel,Gud,Undirected,3
+Ellen,Rasmus,Undirected,1
+Munths,Rasmus,Undirected,1
+Karlsen,Munth,Undirected,1
+Asta,Sophie,Undirected,1
+Bertha,Møller,Undirected,1
+Jaspis,Skovs,Undirected,1
+Jaspis,Skov,Undirected,1
+Ellen,Skov,Undirected,1
+Gud,Hansen,Undirected,1
+Bertha,Fogh,Undirected,1
+Bertha,lille Frue,Undirected,2
+Rasmus,Sigar,Undirected,2
+Lili,Rasmus,Undirected,1
+Bang,Hr. Bang,Undirected,2
+Dalby,Lili,Undirected,9
+Bang,Lili,Undirected,2
+Hænkel,Lili,Undirected,3
+Hr. Bang,Karl Høpfner,Undirected,2
+Hochheimer,Hr. Bang,Undirected,1
+Jens,Lili,Undirected,1
+Alvilda,Bang,Undirected,1
+Lili,Moder,Undirected,1
+Lili,Miss Knight,Undirected,2
+Gud,Jomfru Hansens,Undirected,1
+Funck,Lili,Undirected,1
+Hr. Bang,Lili,Undirected,6
+Lassen,Lili,Undirected,3
+Rasmus,Rolf,Undirected,1
+Lili,Rolf,Undirected,1
+Lili,Munth,Undirected,2
+Frangois,Lili,Undirected,1
+Lili,vidsté,Undirected,1
+Baron Høpfner,Karl Høpfner,Undirected,1
+Baron Høpfner,Lili,Undirected,1
+Dalby,Emma Dalby,Undirected,1
+Emma,Lili,Undirected,2
+Dalby,Emil,Undirected,1
+Elsebeth,Lili,Undirected,3
+Lili,hendø,Undirected,2
+Bang,Dalby,Undirected,1
+Dalby,Elsebeth,Undirected,1
+Emma,Gud,Undirected,1
+Rasmus,Vilhelm,Undirected,2
+Bjørnsons,Vilhelm,Undirected,1
+Bjørnsons,Ellen,Undirected,1
+Hr. Bang,Vilhelm,Undirected,1
+Tyfus,Vilhelm,Undirected,1
+Munth,Tyfus,Undirected,1
+h a,n,Undirected,1
+n,s,Undirected,1
+Gud,Lili,Undirected,3
+Axel,Valdemar,Undirected,1
+Bertha,Valdemar,Undirected,1
+Axel,Myrrha,Undirected,1
+Baschliken,Ellen,Undirected,1
+Gud,Sophie,Undirected,1
+Vilhelm,Vilhelm Jessen,Undirected,1
+Gud,Vilhelm,Undirected,1
+Bodil,Ellen,Undirected,1
+Ellen,Maren,Undirected,2
+Axel,Maren,Undirected,2
+Ellen,Frk. Hansen,Undirected,1
+Lassen,Munth,Undirected,2
+Bang,Munth,Undirected,1
+Ellen,Lili,Undirected,3
+Jessen,Vilhelm Jessen,Undirected,1
+Hr. Bang,Jessen,Undirected,2
+Jessen,Lassen,Undirected,1
+Ellen,Hr. Bang,Undirected,2
+Lassen,O,Undirected,1
+Dr. Lassen,Hr. Bang,Undirected,1
+Lili,Munther,Undirected,1
+Lili,lille Musse,Undirected,1
+Emma Dalby,Hr. Bang,Undirected,1
+Emma Dalby,Lili,Undirected,1
+Gud,véd,Undirected,1
+Munth,véd,Undirected,1
+Munth,Tosse,Undirected,1

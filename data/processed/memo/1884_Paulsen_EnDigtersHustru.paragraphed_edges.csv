@@ -1,0 +1,193 @@
+source,target,type,weight
+Lea,fru Nord,Undirected,1
+Eilif Stadt,Tralala,Undirected,1
+Eilif Stadt,Lea,Undirected,13
+Bjørnson,Eilif Stadt,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Gunilds,Lea,Undirected,1
+Lea,månens,Undirected,1
+Gunild,månens,Undirected,1
+Lea,sorn,Undirected,1
+Gunild,keg,Undirected,1
+Lea,Walter Scott,Undirected,1
+Mauritz Hansen,Walter Scott,Undirected,1
+Birthe«,Mauritz Hansen,Undirected,1
+Lea,deserten,Undirected,1
+Ada,deserten,Undirected,1
+Lassen,Lea,Undirected,1
+Dorthe,Stadt,Undirected,1
+Eilif Stadt,Nords,Undirected,1
+Ada,taus,Undirected,2
+Ada,Griegs,Undirected,1
+Ada,Eilif Stadt,Undirected,1
+Eilif,Lea,Undirected,82
+Lea,stelle,Undirected,2
+Oline,stelle,Undirected,1
+Eilif,Eilif Stadt,Undirected,2
+George Sands,Oline,Undirected,1
+Lea,Oline,Undirected,20
+Eilif,Truelsen,Undirected,1
+Lea,Truelsen,Undirected,1
+Eilif Stadt,Stadt,Undirected,1
+Frøken Grung,Lea,Undirected,1
+Frøken Grung,Ibsen,Undirected,1
+Eilif,snip,Undirected,1
+David,Eilif,Undirected,1
+David,Jonathan,Undirected,1
+Jonathan,gud,Undirected,1
+Goethe,Heine,Undirected,1
+Byron,lord Byron,Undirected,1
+Byron,Manfred,Undirected,1
+Mads,Mads Trulsen,Undirected,2
+Garibaldi,Sverre,Undirected,1
+Sigurd,Sverre,Undirected,1
+Eistein,Sigurd,Undirected,1
+Eistein,Mads,Undirected,1
+hans schopenhauerske,lian,Undirected,1
+Lea,ach,Undirected,1
+Lea,Trulsen,Undirected,1
+Lea,Lea did,Undirected,2
+Lea,taus,Undirected,1
+Gud,Lisebeth,Undirected,2
+hans,skipper Dreier,Undirected,1
+Hansen,Oline,Undirected,1
+Oline,taus,Undirected,1
+Lea,Lisebeth,Undirected,3
+Oline,signe,Undirected,1
+Gud,signe,Undirected,1
+Lisebeth,Oline,Undirected,4
+Eilif,fru Nord,Undirected,1
+Eilif,Stadt,Undirected,1
+Oline,gud,Undirected,1
+Jensen,Lea,Undirected,1
+Jensen,Smith,Undirected,1
+Lea,mich,Undirected,1
+Mein,Mich,Undirected,1
+Mein,gott,Undirected,1
+Mich,gott,Undirected,1
+Mich,mich hede Levy,Undirected,1
+mich,mich hede Levy,Undirected,1
+Gott,mich,Undirected,1
+Levy,Sie mai,Undirected,1
+Lisbeth,Oline,Undirected,1
+Lea,manø,Undirected,1
+Oline,iveien,Undirected,1
+Eilif Stadt,Per,Undirected,1
+Eilif,Oline,Undirected,1
+Dickens,George Sand,Undirected,1
+Dickens,Eilif,Undirected,1
+Lea,valen,Undirected,1
+Eilif,valen,Undirected,1
+Lea,vilie,Undirected,1
+Eilif,bereist,Undirected,2
+Eilif,Viktor Hugo,Undirected,3
+droschehests,kudsk,Undirected,1
+Eilif,Wilhelmine Diriks,Undirected,1
+Lea,Wilhelmine Diriks,Undirected,1
+Eilif,frøken Diriks,Undirected,2
+Eilif,gud,Undirected,1
+Lea,Wilhelmine,Undirected,19
+Eilif,høker-madam,Undirected,1
+Alfred de,Viktor Hugo,Undirected,1
+Eilif,Stuart Miil,Undirected,1
+Eilif,Wilhelmine,Undirected,2
+Eilif,Gud,Undirected,2
+Lea,frøken Wilhelmines,Undirected,2
+Eilif,Miil,Undirected,2
+Eilif,munar,Undirected,1
+Collett,Eilif,Undirected,1
+Lea,iveien,Undirected,4
+Ibsen,Lea,Undirected,1
+Eilif,keg,Undirected,1
+Lea keg,Wilhelmine,Undirected,1
+Eilif Stadt,Lea Lassen,Undirected,1
+Eilif,Spencer,Undirected,2
+Spencer,flan,Undirected,1
+Eilif,Frøkenen,Undirected,1
+Lea,Leas siste lekture,Undirected,1
+Lucie,frøken Wilhelmine,Undirected,1
+Gran,Lea,Undirected,49
+Gran,Wilhelmine,Undirected,2
+Lucie,hui,Undirected,1
+Lucie,Ole Buil,Undirected,2
+Ole Buil,Ole Buli,Undirected,2
+Heine,Lucie Tonning,Undirected,1
+Lea,Lucie,Undirected,1
+Lucie,Mills,Undirected,1
+Gran,Mills,Undirected,1
+Gran,Lea fru,Undirected,1
+Eilif,frøken Wilhelmine,Undirected,1
+Lea,siste,Undirected,1
+Eilif,Gran,Undirected,3
+Lea,Loths,Undirected,1
+Mills,Mine,Undirected,1
+Allers,Mills,Undirected,1
+Eilif,liun,Undirected,1
+Gran,Lucie Gran,Undirected,1
+Tout le monde est sorti,madame,Undirected,1
+Lea,Tout le monde est sorti,Undirected,1
+Lea,gud,Undirected,1
+Lea,pjusket,Undirected,1
+madame,que monsieur m'a defendu^,Undirected,1
+Gran,que monsieur m'a defendu^,Undirected,1
+Lea,mais monsieur va gr,Undirected,1
+Lassen,Lea Stadt,Undirected,1
+Gran,Kjerulf,Undirected,1
+Diriks,nork,Undirected,1
+Diriks,Gran,Undirected,1
+Gran,Ole,Undirected,1
+Lea,slig,Undirected,1
+Oline,Trine,Undirected,1
+Oline,Wilhelmine,Undirected,1
+Eilif,vilie,Undirected,1
+Gran,vilie,Undirected,1
+Lea,Lea taug,Undirected,1
+Dickens,Lea,Undirected,2
+Flun,Ole Buli,Undirected,1
+Wentzel,heilung,Undirected,1
+Jeanne,Lea,Undirected,3
+Jeanne,stelle,Undirected,1
+Eilif,Jeanne,Undirected,1
+Lea,påny,Undirected,2
+Gran,Jeanne,Undirected,2
+Einar,Gran,Undirected,1
+Gran,Lone,Undirected,1
+Gran,gud,Undirected,1
+Glomstulen,Ola,Undirected,2
+Glomstulen,mi,Undirected,1
+Kari,mi,Undirected,1
+Glomstulen,Kari,Undirected,1
+Lea,taug,Undirected,1
+Gran,Heinrich Heine,Undirected,1
+Eilif,Millet,Undirected,1
+Millet,Rousseau,Undirected,1
+Barbizon,Rousseau,Undirected,1
+Lea,skog,Undirected,1
+Wilhelmine,fru Grans,Undirected,1
+Agnes Lind,Lea,Undirected,2
+Agnes,Lea,Undirected,10
+Agnes,Marie Lind,Undirected,1
+Agnes,Eilif,Undirected,5
+Eilif,høit,Undirected,1
+Lea,Nords,Undirected,2
+Ada,Lea,Undirected,1
+Lea,Spencer,Undirected,1
+Miil,Spencer,Undirected,1
+Lea,tillive,Undirected,1
+Gud,Lea,Undirected,3
+Emanuel Bjelland,Lea,Undirected,1
+Lea,chansons,Undirected,1
+Eilif,Nords,Undirected,1
+Lea,toilette,Undirected,1
+Grev —,Lea,Undirected,1
+Kristian Augusts,Lea,Undirected,1
+Lea,faders,Undirected,1
+Lea,Paul Heyse,Undirected,1
+Bjelland,Lea,Undirected,2
+Hjørdis,Sigurd,Undirected,1
+Eilif,Florenz,Undirected,1
+Flan,Lea,Undirected,2
+Lea,frøken Wilhelmine,Undirected,1
+Lea,Miil,Undirected,1
+Eilif,slige,Undirected,1
+Jason,Narcis,Undirected,1

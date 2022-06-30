@@ -1,0 +1,88 @@
+source,target,type,weight
+Anton Tischaufesser,Rokola Gestrein,Undirected,1
+Druen,Rokola Gestrein,Undirected,1
+Anton Tischaufesser,Druen,Undirected,1
+Anton Tischaufesser,Marias,Undirected,1
+Maria,Marias,Undirected,1
+Maria,Nepomuk,Undirected,1
+Alois Prantl,Gud,Undirected,1
+Alois,Gud,Undirected,1
+Alois,Josef Sauter,Undirected,1
+Alois,Josef,Undirected,15
+Rokola,Rokola Gestrein,Undirected,1
+Karle,Rokola,Undirected,1
+Josef,Maria,Undirected,5
+Gud,Maria,Undirected,4
+Karl,Sebastian Klotz,Undirected,1
+Josef,Sebastian,Undirected,7
+Alois,Sebastian,Undirected,2
+Helved,Josef,Undirected,1
+Josef,Rokola,Undirected,1
+Rokola,Sæters,Undirected,1
+Anton Tischaufesser,Sebastian,Undirected,1
+Ache,Maria,Undirected,1
+Josef,Therese,Undirected,8
+Gud,Josef,Undirected,5
+Elvens,Josef,Undirected,1
+Edelweiss,Edelweisswand,Undirected,1
+Edelweiss,Josef,Undirected,1
+Alois,Therese,Undirected,2
+Edelweiss,Tyrolerens,Undirected,1
+Edelweiss,Schmarn,Undirected,1
+Josef Sauter,Schmarnen,Undirected,1
+Elvens,St. Josef,Undirected,1
+Johannes,Maria,Undirected,1
+Gud,Johannes,Undirected,1
+Gud,Therese,Undirected,1
+Maria,Skyr,Undirected,1
+Josef,Skyr,Undirected,1
+Josef,skraa,Undirected,1
+Karl,skraa,Undirected,1
+Josef,Karl,Undirected,1
+Josef,skrifte,Undirected,2
+Josef,k. k. Gendarmer,Undirected,2
+Josef,sones,Undirected,1
+Josef,Marie,Undirected,2
+Maria,Therese,Undirected,4
+Madonna,Therese,Undirected,1
+Josef,Madonna,Undirected,4
+Ache,Josef,Undirected,1
+Ache,Edelweiss,Undirected,1
+Edelruthe,Edelweiss,Undirected,1
+Edelruthe,Maria,Undirected,1
+Jesu,Josef,Undirected,1
+Jesu,Therese,Undirected,1
+Antons,Therese,Undirected,1
+Antons,Sebastian,Undirected,1
+Josef,Judas,Undirected,1
+Gud,Judas,Undirected,1
+Anton Tischaufesser,Josef,Undirected,1
+Anton,Josef,Undirected,2
+Druen,Josef,Undirected,1
+Druen,Therese,Undirected,1
+Therese,lians,Undirected,1
+Josef,Josef Santer,Undirected,3
+Anna,Theresas,Undirected,1
+Anna,Riml,Undirected,1
+Riml,Therese,Undirected,2
+Josef,Kejser Maximilians,Undirected,1
+Josef,Klodevig,Undirected,1
+Klodevig,Theodorik,Undirected,1
+Arthur,Theodorik,Undirected,1
+Madonna,lian,Undirected,1
+Josef,Kristus,Undirected,1
+Josef,Riml,Undirected,2
+Alois,Madonna,Undirected,3
+Ache,Gud,Undirected,1
+Gud,Madonna,Undirected,1
+Riml,Sebastian Klotz,Undirected,1
+Sebastian,Therese,Undirected,3
+Alois,Riml,Undirected,1
+Riml,Sebastian,Undirected,1
+Josef Santer,Schuhplatt,Undirected,1
+Sebastian,halft,Undirected,1
+Therese,halft,Undirected,1
+Gungren,Josef,Undirected,1
+Gungren,Therese,Undirected,1
+Josef,Rimdisen,Undirected,1
+Madonna,Maria,Undirected,1

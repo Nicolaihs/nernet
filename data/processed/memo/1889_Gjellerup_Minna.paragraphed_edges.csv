@@ -1,0 +1,161 @@
+source,target,type,weight
+Herodes,Pilatus,Undirected,1
+Hans,Ole Larsen,Undirected,1
+Lisbeth,Peter,Undirected,2
+Cooper,Walter Scott,Undirected,1
+Lecture,Walter Scott,Undirected,1
+Joseph,Schumann,Undirected,1
+Ganalettos,Schumann,Undirected,1
+Ganalettos,Sonnensteins,Undirected,1
+Immer langsam voran,tilbens,Undirected,1
+Immer langsam voran,Landsturm auch nachfolgen kann,Undirected,1
+Bismarck,Tante Sophie,Undirected,1
+Schumann,Webers,Undirected,1
+Wagner,Webers,Undirected,1
+"Oehlenschlåger,",Wagner,Undirected,1
+Gretchen,voila,Undirected,2
+Gretchen,ch,Undirected,1
+Hermann,Luther,Undirected,1
+Erasmus,Hertz,Undirected,2
+Gustav Kühne,Schiller,Undirected,1
+Gustav Kühne,Hertz,Undirected,1
+Aladdin,Wotans,Undirected,1
+Minna,Sopha,Undirected,5
+Hertz,Minna,Undirected,16
+Minna,j,Undirected,1
+Hertz,j,Undirected,1
+Gud,Poussin,Undirected,1
+Carl Moor,Poussin,Undirected,1
+Carl Moor,Menschenseele,Undirected,1
+Minna,Rebekka,Undirected,1
+Rebekka,hiin,Undirected,1
+Bastei,Hans,Undirected,1
+Hans,Hertz,Undirected,1
+Maane,Minna,Undirected,1
+Hans,Karle,Undirected,1
+Jærnstang,Minna,Undirected,1
+Goethe,Schiller,Undirected,2
+Minna,Siegfried,Undirected,1
+Minna,Peter Schlemihl,Undirected,1
+Charakter,Minna,Undirected,1
+Goethe,Minna Jagemann,Undirected,1
+Axel,Stephensen,Undirected,1
+Hr. Stephensen,Jagemann,Undirected,1
+Jagemann,Schiller,Undirected,1
+Hertz,nien,Undirected,1
+Hertz,Hr. Fenger,Undirected,1
+JohannisbergerDorf,Nemesis,Undirected,1
+Karl,Nemesis,Undirected,1
+Hertz,Tycho Brahe,Undirected,1
+Minna,Tycho Brahe,Undirected,1
+Harald,Hertz,Undirected,1
+Bodenbach,Minna,Undirected,1
+Harald,Minna,Undirected,4
+Gud,Minna,Undirected,8
+Minna,Sophienruhe,Undirected,1
+Fregner,Karoline,Undirected,1
+Karoline,Mama,Undirected,1
+Gud,sieh,Undirected,1
+Goethe,Gud,Undirected,1
+Cousine Minna,Goethe,Undirected,1
+Chemise,Mama,Undirected,1
+Carl August,Hertz,Undirected,1
+Amalia,Carl August,Undirected,1
+Amalia,Wieland,Undirected,1
+Herder,Wieland,Undirected,1
+Hertz,s,Undirected,5
+Minna,s,Undirected,1
+Minna,Rathen,Undirected,3
+Jagemann,Kleist,Undirected,1
+Jagemann,Minna,Undirected,4
+einer Stadt zur andern,gehn,Undirected,1
+Gaesars,Minna,Undirected,1
+Sopha,Stephensen,Undirected,1
+Bohave,Stephensen,Undirected,1
+Bohave,hinaus,Undirected,1
+Gud,Hr. Fenger,Undirected,4
+Hr. Fenger,Karl —,Undirected,1
+Gud,Hr. Stephensen,Undirected,2
+Minna,p. p.,Undirected,1
+Minna,erlil,Undirected,1
+Hr. Stephensen,Minna,Undirected,1
+Beethoven,hnn,Undirected,1
+Rondoen,hnn,Undirected,1
+Lærke,Rondoen,Undirected,1
+Lærke,Minna,Undirected,1
+Minna,Stephensen,Undirected,44
+Minna,Semper,Undirected,1
+Vølsungepars,Wagner,Undirected,1
+Sieglinde,Wagner,Undirected,1
+Wagner,Wie dir die Stirn,Undirected,1
+Beethoven,Hertz,Undirected,1
+Beethoven,Frederik den,Undirected,1
+Minna,Schiller,Undirected,2
+Hertz,Schiller,Undirected,1
+Moses Meier,Wolff,Undirected,1
+Meier,Wolff,Undirected,1
+Heine,Hertz,Undirected,1
+Axel Stephensen,Hertz,Undirected,1
+Axel Stephensen,klædte,Undirected,1
+Minna,graagult,Undirected,1
+Hertz,graagult,Undirected,1
+Brynhild,Wotan,Undirected,1
+Gud,Macbeth,Undirected,1
+Correggio,Minna,Undirected,1
+Arno,Florents,Undirected,1
+Apollo,Gud,Undirected,1
+Gud,Rubens,Undirected,1
+Assez,Stephensen,Undirected,1
+Gud,Hertz,Undirected,1
+Chopin,Minna,Undirected,1
+Heilbronn,Minna,Undirected,1
+Minna,Ohren-Schmaus,Undirected,1
+Pfeffer,liegt,Undirected,1
+Minna,Pfeffer,Undirected,1
+Sopha,liendes,Undirected,1
+Minna,Vims,Undirected,1
+Immanuel Hertz,Minna,Undirected,2
+Gud,Stephensen,Undirected,2
+Jagemann,Stephensen,Undirected,2
+Biedermann,Jagemann,Undirected,1
+Minna,Sophaen,Undirected,2
+Chopin,Stephensen,Undirected,1
+Greti,Pieti,Undirected,1
+Stephensen,Thalias,Undirected,1
+Melpomenes,Thalias,Undirected,1
+Jagemann,Max,Undirected,1
+Jagemann,Madam Schrøder-Devrient,Undirected,1
+Gud,salig Jagemann,Undirected,1
+Heine,Stephensen,Undirected,1
+Hertz,Ifjor,Undirected,1
+Hoym,Ifjor,Undirected,1
+Grimm,Hoym,Undirected,1
+Frue,Minna,Undirected,1
+Hertz,Sopha,Undirected,1
+Adelheid,Mathilde,Undirected,1
+Fenger,Minna,Undirected,2
+Bassanio,Portias,Undirected,1
+Fader,Hertz,Undirected,1
+Fenger,inat,Undirected,1
+Immanuel,Minna,Undirected,1
+Hertz,Immanuel,Undirected,1
+Heine,s,Undirected,1
+Lauterbach,Stephensen,Undirected,1
+Heine,Minna,Undirected,1
+Gud,véd,Undirected,1
+Stephensen,véd,Undirected,1
+Ibsen,Zola,Undirected,1
+Wagner,Zola,Undirected,1
+Berlioz,Wagner,Undirected,1
+Berlioz,Millet,Undirected,1
+Darwin,Millet,Undirected,1
+Darwin,Stuart,Undirected,1
+Gud,Stuart,Undirected,1
+Stephensen,paany,Undirected,1
+Minna,Sonnenstein,Undirected,1
+Minna,Minna Jagemann,Undirected,1
+Hansorm,Minna,Undirected,1
+Pirna,Stephensen,Undirected,1
+Sonnenstein,Stephensen,Undirected,1
+Beethoven,Wagner,Undirected,1
+Goethe,Hertz,Undirected,1

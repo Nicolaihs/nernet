@@ -1,0 +1,100 @@
+source,target,type,weight
+Ehud,ben Annah,Undirected,1
+Joasch,Moschel^,Undirected,1
+Joasch,Sarah,Undirected,2
+Aleph,Bheth,Undirected,2
+Channa,Schimeon,Undirected,1
+Annalis,Channa,Undirected,1
+Annalis,Joasch,Undirected,1
+Joasch,s,Undirected,1
+Aleph,s,Undirected,1
+Beth Schittah,Ehud,Undirected,1
+Beth Schittah,Joasch,Undirected,3
+Ehud,Joasch,Undirected,5
+Beth Schittah,ben Mascha,Undirected,1
+Hebr. Barmitwah,Joasch,Undirected,1
+Jeschuel,Joasch,Undirected,4
+Joasch,Zebaoth,Undirected,2
+Jeschuel,Joaseh,Undirected,1
+Jeschuel,Rabbi,Undirected,1
+Chaber Jehonathan,Rabbi,Undirected,1
+Chaber Jehonathan,Joasch,Undirected,1
+Davids,Moses,Undirected,1
+Beth Schittah,Hådol,Undirected,1
+Guds,Hådol,Undirected,1
+Ehud,Kolos,Undirected,1
+Ehud,s,Undirected,1
+Joasch,Lydia,Undirected,1
+Beth Schittah,Mirjam,Undirected,1
+Joasch,Mirjam,Undirected,7
+Beth Schittah,Joasch ben Ehud,Undirected,1
+Mirjam,Sanhedrin,Undirected,1
+Beth Schittah,Sanhedrin,Undirected,1
+Beth Schittah,Jerecho,Undirected,1
+Jerecho,Joasch,Undirected,1
+Joasch,Rabbi Jeschuel,Undirected,7
+Joasch,jkke,Undirected,1
+Joasch,Rabbi Jehonathan,Undirected,8
+Jeschuel,Rabbi Jehonathan,Undirected,1
+Joasch,Rabbien,Undirected,1
+Matasch,Tora,Undirected,1
+Beth Schitta,Joasch,Undirected,2
+Joasch,Rabbi,Undirected,2
+Rabbi Jehonathan,Rabbi Jeschuel,Undirected,1
+Jeschuel,Mirjam,Undirected,1
+Chaber Eleaser,Joasch ben Ehud,Undirected,1
+Chaber Eleaser,ben Jehuda,Undirected,1
+Rabbi,ben Jehuda,Undirected,1
+Joasch ben Ehud,Rabbi,Undirected,1
+Joasch,Joasch ben Ehud,Undirected,1
+Ruach hakodesch,Zebaoth,Undirected,1
+Chaber Joasch\,Ruach hakodesch,Undirected,1
+Jeschajah,Moscheh,Undirected,1
+Beth Schittah,Chaber,Undirected,2
+Chaber,Jeruschalajim,Undirected,1
+Krysias,Ramysis,Undirected,1
+Jehonathan,Jeschuel,Undirected,1
+Jeschuel,scheata gadol wechacham,Undirected,1
+Joasch,scheata gadol wechacham,Undirected,1
+Beth Schitta,Ehud,Undirected,1
+Zelon,x,Undirected,1
+Messias,Moses,Undirected,1
+Kristus,Messias,Undirected,1
+C. Svetonius,Jeruschalajim,Undirected,1
+C. Svetonius,Tranquillus,Undirected,1
+Joasch,Tacitus,Undirected,1
+Joasch,Maschiach-Idéen,Undirected,1
+Jeschajah,Maschiach-Idéen,Undirected,1
+Jeschajah,Michah,Undirected,2
+Michah,Zion,Undirected,1
+Joasch,Michah,Undirected,1
+Joasch,Maschiach,Undirected,1
+Jeschajah,Maschiach,Undirected,2
+Moscheh,Zelon,Undirected,1
+David,Moscheh,Undirected,1
+David,Joasch,Undirected,1
+Joasch,Zelon,Undirected,2
+Joasch,Ramysis,Undirected,3
+Rabbi,Ramysis,Undirected,1
+Rabbi,Zelon,Undirected,1
+Mirjam,Rabbi Jeschuel,Undirected,1
+Rabbi Joasch,ben Ehud,Undirected,1
+Rabbi,Rabbi Joasch,Undirected,1
+Beth Schittah,Rabbi Joasch,Undirected,2
+Gud,Joasch,Undirected,3
+Joasch,Josef ben Rahkab^,Undirected,1
+Aschar,Joasch,Undirected,2
+Daniel,Joasch,Undirected,1
+Jehovah,Joasch,Undirected,1
+Jehovah,Maschiach,Undirected,1
+Jeruschalajim,Joasch,Undirected,1
+Joasch,Sanhedrin,Undirected,1
+Joasch,Messias,Undirected,1
+Joasch,Mose,Undirected,1
+Jehonathan ben Jeschuel,ben Rahkab,Undirected,1
+Jehonathan ben Jeschuel,Rabbi,Undirected,1
+Mirjam,beraabte,Undirected,1
+Hådol,Mirjam,Undirected,2
+Mirjam,skraa,Undirected,2
+Aschar,Daniel,Undirected,1
+Daniel,Mirjam,Undirected,1

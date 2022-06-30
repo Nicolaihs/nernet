@@ -1,0 +1,38 @@
+source,target,type,weight
+Hande,Jørgen Hande,Undirected,1
+Singdalsen,Sundbys,Undirected,1
+Hande,Ida Sørensen,Undirected,2
+Ida,skibs-rehder Sørensen,Undirected,2
+Ida,skibsrehder Sørensen,Undirected,1
+Hande,Knap,Undirected,3
+Hande,Ida,Undirected,30
+Ida,spaadomsevne,Undirected,1
+Bertelsen,Elgsrud,Undirected,2
+Lunde,Singdalsen,Undirected,1
+Elgsrud,Singdalsen,Undirected,1
+Berg,Singdalsen,Undirected,4
+Ida,Rebekka,Undirected,3
+Knap,Rebekka,Undirected,8
+Hande,Rebekka,Undirected,3
+Rebekka,Viborg,Undirected,7
+Ida,gutten,Undirected,1
+Jørgen,Vilhelms,Undirected,1
+Berg,Sylow,Undirected,1
+Singdalsen,fru Hande,Undirected,1
+Berg,Jørgine,Undirected,1
+Ida,hr. Berg,Undirected,2
+Ida,Singdalsen,Undirected,3
+Knap,Rebekka Hofgaard,Undirected,1
+Hande,Rebekka Hofgaard,Undirected,1
+Hande,krebs,Undirected,1
+Hande,fru Singdalsen,Undirected,1
+Ida,Rande,Undirected,1
+Rebekka,Rebekøa,Undirected,1
+Ida,Knap,Undirected,2
+Ida,gud,Undirected,2
+Ida,Jørgen,Undirected,1
+Rebekka,gud,Undirected,1
+Rebakka,Viborg,Undirected,1
+Josef,Rebekka,Undirected,2
+Frk. Sehm,Rebekka,Undirected,1
+Rebekka,frk. Sehm,Undirected,1

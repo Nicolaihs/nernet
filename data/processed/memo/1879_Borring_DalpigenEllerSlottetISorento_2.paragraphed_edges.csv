@@ -1,0 +1,303 @@
+source,target,type,weight
+Alma,John Tonnier,Undirected,6
+Alma,nn,Undirected,1
+John,nn,Undirected,1
+Asorina,ester,Undirected,4
+Aforina,Iohn Tonnier,Undirected,1
+Grev Afoluto,Iohn Tonnier,Undirected,1
+Asorina,John,Undirected,55
+Grev Afoluto,John,Undirected,1
+Aforina,Signora,Undirected,1
+Asorina,Signor,Undirected,1
+Signora,ikfe,Undirected,1
+Asorina,Eir Skælven,Undirected,1
+Asorina,Signora,Undirected,4
+Hain,se,Undirected,1
+Hain,Signora,Undirected,1
+Alma,Asorina,Undirected,20
+Alma,John,Undirected,9
+John,yan,Undirected,2
+John,alf,Undirected,2
+Gud,John,Undirected,5
+Gud,alf,Undirected,1
+Asorina,Gud,Undirected,5
+John,nlig,Undirected,1
+Asorina,as,Undirected,1
+Seener,as,Undirected,1
+Asorina,Seener,Undirected,1
+Askald,Klin g sey,Undirected,1
+Asorina,Talbots,Undirected,1
+Talbot,Talbots,Undirected,1
+Gud,Talbot,Undirected,2
+Asorina,harr,Undirected,1
+Grev Asolnto,John,Undirected,1
+Asorina,Grev Asolulo,Undirected,1
+Grev Asolulo,John,Undirected,1
+John,Kraff,Undirected,1
+Asorina,Ester,Undirected,1
+Asorina,scire,Undirected,1
+Asorina,soni,Undirected,1
+martres,pines,Undirected,1
+Asorina,martres,Undirected,1
+John,ester,Undirected,1
+Asorina,kjær,Undirected,1
+Asorina,Haan,Undirected,1
+Alma,Arbcidcr,Undirected,1
+Alan,Jønsson,Undirected,1
+Greven,Jønsson,Undirected,2
+A,Jønsson,Undirected,1
+A,B.,Undirected,1
+Greven,faadan,Undirected,1
+Jønsson,soer,Undirected,1
+John,John Tonnier,Undirected,1
+John,hans Baand,Undirected,1
+Alma,isinde,Undirected,1
+Belfange,ftaa,Undirected,1
+John,fig,Undirected,3
+Alma,Maja,Undirected,16
+Maja,Talbot,Undirected,28
+Alma,Talbot,Undirected,39
+Alma,Signoraen,Undirected,1
+Alma,Gud,Undirected,1
+Asorina,Talbot,Undirected,2
+Asorina,felv,Undirected,1
+Alma,Lazaron,Undirected,1
+Gemalindes,Marietta,Undirected,1
+Ingeir,Peer Olsen,Undirected,1
+Jens,taus,Undirected,1
+Inger,Lisbeth,Undirected,1
+Alma,fig,Undirected,5
+Jønsson,Marv,Undirected,1
+Grev Texas,Ntand,Undirected,1
+Jønsson,jat,Undirected,1
+John,lille Signora,Undirected,1
+John,Masaniello,Undirected,3
+Asorina,Masaniello,Undirected,3
+Alma,Jønsson,Undirected,2
+Alma,Klingseys,Undirected,1
+Maja,Maja Gurlis,Undirected,1
+Maja,fhi,Undirected,1
+Ester,fhi,Undirected,1
+Ester,Maja Gurlis,Undirected,1
+Maja Gurlis,Talbot,Undirected,1
+Maja,nmaske,Undirected,1
+Alma,Greven,Undirected,4
+Frøken Adlerkrantz,Texas,Undirected,1
+Hannah,Maja,Undirected,9
+Alma,Seir,Undirected,1
+Alma,Hannah,Undirected,2
+Hannah,John Tonnier,Undirected,1
+Hannah,Ivar,Undirected,14
+Hannah,jderind,Undirected,1
+Maja,jderind,Undirected,1
+Ivar,Maja,Undirected,31
+Maja,pleie Hannah,Undirected,1
+Hannah,fe Talbot,Undirected,1
+Gud,Hannah,Undirected,2
+Hannah,Talbot,Undirected,3
+Ivar,Talbot,Undirected,3
+Jvars,Talbot,Undirected,2
+Jvars,Maja,Undirected,6
+Elsfer,Ivar,Undirected,1
+Jvars,Mutter,Undirected,1
+Hannah,figes,Undirected,1
+fig,figes,Undirected,1
+blaa,fig,Undirected,1
+Gud,Maja,Undirected,5
+Asorina,Greven,Undirected,4
+Asorina,Marietta,Undirected,1
+Peer Olsen,Talbot,Undirected,13
+Stokholms,Talbot,Undirected,1
+Lisbeth,Peer Olsen,Undirected,3
+Lisbeth,Talbot,Undirected,7
+Peer Olsen,inin,Undirected,1
+Gud,fil,Undirected,1
+Halte-Mons,Lisbeth,Undirected,1
+Ole Jensens,Peer,Undirected,1
+Inger,Peer,Undirected,2
+LiSbeths,Talbot,Undirected,1
+Inger,Talbol,Undirected,1
+Alma,sone,Undirected,1
+Alnia,Greven,Undirected,2
+Alma Adlerkrantz,Talbot Klingsey,Undirected,1
+Maja „,Talbot Klingsey,Undirected,1
+Gurli,Maja „,Undirected,1
+Asorina,Grev Asoluto,Undirected,1
+John,Marietta,Undirected,8
+Gud,øg,Undirected,1
+Greven,Marietta,Undirected,1
+Greven,John,Undirected,5
+Asoluto,John Tonnier,Undirected,2
+Aland,John Tonnier,Undirected,1
+Asoluto,Leda,Undirected,1
+Ivar,feil,Undirected,1
+Ivar,Muttersiger,Undirected,1
+Ivar,Jdetsamme,Undirected,1
+Gud,Ivar,Undirected,2
+Hannah,Tante,Undirected,2
+Ivar,Tante,Undirected,1
+Hannah,Utak,Undirected,1
+Ivar,Jonas Baadsmand,Undirected,1
+Ivar,Jonas,Undirected,5
+Gade,Ivar,Undirected,1
+Maja,Tante,Undirected,1
+Grev Texas,Talbot,Undirected,2
+Inger,Peer Olsen,Undirected,1
+Frøken Adlerkrants,Talbot,Undirected,2
+Husbond,Talbot,Undirected,1
+Jens,Peer,Undirected,1
+Inger,Jens,Undirected,5
+Peer,Talbot,Undirected,3
+Jens,Talbot,Undirected,3
+Lisbeth,Peer,Undirected,1
+Peer Olsen,helsf,Undirected,1
+Jens,fig,Undirected,1
+Inger,Talbot,Undirected,6
+Jens,ester,Undirected,1
+Jdetsamme,Jens,Undirected,1
+Dia,Inger,Undirected,1
+Inger,Tilgivelfe,Undirected,2
+Jesu,Peer Olsen,Undirected,1
+James Smith,Ruben,Undirected,1
+Alma,as,Undirected,1
+Marietta,ester,Undirected,1
+Alma,Tonnier,Undirected,1
+Grev Ruben,ester,Undirected,1
+Asorina,Wdle,Undirected,1
+Aforina,Alma,Undirected,1
+Grev Asoluto,Iohn,Undirected,1
+Grev Asoluto,Marietta,Undirected,1
+Asoluto,Marietta,Undirected,1
+Gud,Marietta,Undirected,1
+ogfaa,sra,Undirected,1
+Gud,Olaf,Undirected,1
+Klingsey,Maria Klingsey,Undirected,1
+Edgard Klingseys,Wgtefælle,Undirected,1
+Maja,Texas,Undirected,2
+Maja,fil Ivar,Undirected,1
+Hannah,fil Ivar,Undirected,1
+Ivar,destø,Undirected,1
+Bjørn,destø,Undirected,1
+Ivar elsfede,Maja,Undirected,1
+Frøken Adlerkrants,Maja,Undirected,2
+Borherre,Mutter,Undirected,1
+Alma,iDame,Undirected,1
+Robert,fig,Undirected,1
+Asoluto,John,Undirected,3
+Gaader,Piin mig,Undirected,1
+Grev Asoluto,Udtalelfe,Undirected,1
+Frue,Lazaron,Undirected,1
+Frue,John Tonnier,Undirected,1
+Asoluto,Grev Ruben,Undirected,1
+Alma,Grev Texas,Undirected,1
+Greven,sor,Undirected,1
+Asorina,John Tonnier,Undirected,2
+Asorina,Greve,Undirected,1
+Flasfen,Skaal,Undirected,1
+Flasfen,felv,Undirected,1
+Gesell,gansfe,Undirected,1
+hali,halo,Undirected,1
+fig,fom,Undirected,1
+Talbot,fom,Undirected,1
+Stokholms,fad Talbot,Undirected,1
+Bakkus,Venus,Undirected,1
+Lindblad,Talbot,Undirected,5
+Cicerone,Talbot,Undirected,2
+Grev Texas,Maja,Undirected,1
+Talbot,ester,Undirected,1
+Maja,fig,Undirected,1
+Talbots Huftru,fig,Undirected,1
+Maja Gurli,Talbot,Undirected,1
+Alma,Maja Gurli,Undirected,2
+Alma,Klingsey,Undirected,2
+Ivar,Maja Gurli,Undirected,1
+Maja,Mutter,Undirected,3
+Maja,gansfe,Undirected,1
+John Tonnier,Madonna,Undirected,1
+Greven,son,Undirected,1
+Grev Ruben,Grev Texas,Undirected,2
+Asorina fom,fig,Undirected,1
+Masaniello,fig,Undirected,1
+De Edsvorne,John,Undirected,2
+John,fom,Undirected,2
+Asorina,Leda,Undirected,1
+Asorina,Edsvorne,Undirected,1
+John,stig,Undirected,1
+Asoluto,fiden,Undirected,1
+Asoluto,Greven,Undirected,1
+Sorento,Tonnier,Undirected,1
+Marsch,Robert,Undirected,1
+Alma,Ivar,Undirected,3
+Alma,Ivar Brandt,Undirected,1
+Alma,helsf,Undirected,1
+Klingsey,Lindblad,Undirected,1
+Talbot,Tulle,Undirected,2
+John,Leda,Undirected,1
+Grev Ruben,"Messcrschmidt,",Undirected,1
+"Messcrschmidt,",Paulun,Undirected,1
+Leda,Marietta,Undirected,2
+Adiø,Masaniello,Undirected,1
+Maja,Talbol,Undirected,1
+Alma,Lindblad,Undirected,1
+Ester,Talbot,Undirected,1
+Ester,Ivar Brandt,Undirected,1
+Alma Adlerkrants,Maja,Undirected,1
+Gud,Gustav Kvist,Undirected,1
+Benncr,Gud,Undirected,1
+Benncr,Steen,Undirected,1
+Gustav Kvist,Talbot,Undirected,1
+Talbot,fig,Undirected,1
+Alma,Jenkinson,Undirected,3
+Alma,Talbot Klingsey,Undirected,2
+Jules Eriks,Talbot,Undirected,1
+John,Talbot,Undirected,2
+Frøken Adlerkrants,Jules,Undirected,1
+Klingsey,Talbot,Undirected,1
+Frøken Adlerkrants,Herr Jenkinson,Undirected,1
+Alma,Jules Erikson,Undirected,2
+Jules,Svend,Undirected,1
+,Jules,Undirected,3
+Alina,Talbot,Undirected,1
+Alma,Jules,Undirected,11
+Dingeling,Jomfru Alma,Undirected,2
+Gud,Ieg,Undirected,2
+Ieg,Seir,Undirected,1
+Asorina,fig,Undirected,1
+Jules,felv,Undirected,1
+Jenkinson,Jules,Undirected,1
+Alma,Feg,Undirected,1
+Jules,Talbot,Undirected,7
+Alma,taus,Undirected,1
+Talbot,fenere,Undirected,1
+Lisbeth,fenere,Undirected,1
+Alma,reisfe,Undirected,1
+Hillemæn,Jules,Undirected,1
+Jules,Peer Olsen,Undirected,1
+Herr Erikson,Talbot,Undirected,1
+Ivar Brandt,Talbot,Undirected,1
+Villic,minc,Undirected,1
+cn,minc,Undirected,1
+Lisbeth,fiden,Undirected,1
+Jules,Klingsey,Undirected,1
+Jules,Lykke,Undirected,1
+Gurli,Maja,Undirected,1
+Faders,Maja,Undirected,1
+Messerschmidt,Texas,Undirected,1
+Asoluto,Messerschmidt,Undirected,1
+Asoluto,hans Eiendvm,Undirected,1
+John Tonnier,ester,Undirected,1
+Mariette,seircde,Undirected,1
+Frøken Adlerkrants,Talbot Klingseh,Undirected,1
+Hain,Talbot,Undirected,1
+Hain,as,Undirected,1
+Gud,Klingseh,Undirected,1
+Gud,fig,Undirected,1
+Marietta,Tonnier,Undirected,1
+John Tonnier,lykkeligsf,Undirected,1
+Gud,ester,Undirected,1
+Alma,Jvars,Undirected,1
+Marietta,Robert,Undirected,2
+Grev Asolutos Gods,Masaniello,Undirected,1
+John,sliltes,Undirected,1
+Grev Texas,Messerschmidt,Undirected,1
+Messerschmidt,Steen,Undirected,1

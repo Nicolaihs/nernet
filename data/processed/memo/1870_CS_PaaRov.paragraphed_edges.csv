@@ -1,0 +1,239 @@
+source,target,type,weight
+Hoffmann,Petersens,Undirected,1
+Petersen,Petersens,Undirected,1
+Hoffmann,ask,Undirected,1
+Hoffmann,eil,Undirected,1
+Hoffmann,Petersen,Undirected,1
+Christensen,Petersen,Undirected,1
+Christen,pe,Undirected,1
+Christen,Hurruraab,Undirected,1
+Christian,Hans,Undirected,1
+Christen Peersen,Christensen,Undirected,1
+Bruun,Fischer,Undirected,3
+Fischer,dæn,Undirected,1
+Brunn,Emil,Undirected,1
+Brunn,as,Undirected,2
+Jesus,Judas,Undirected,1
+Bruun,Judas,Undirected,1
+Fischer-,Lucifer,Undirected,1
+Fischer,Guds,Undirected,1
+Bruun,Crøsus,Undirected,1
+Crøsus,Gud,Undirected,1
+Fischer,Ingres,Undirected,1
+Bruun,Christensen,Undirected,5
+Henriette,Henriette ifjor,Undirected,1
+Henriette,North,Undirected,2
+Bruun,Peersen,Undirected,2
+Bruun,Henriette,Undirected,1
+Chrisfensen,Peersen,Undirected,1
+Chrisfensen,Henriette,Undirected,1
+Bruun,North,Undirected,2
+Gud,North,Undirected,1
+Bruun,hans Villie,Undirected,1
+Bien,stig mig,Undirected,1
+Christensen,stig mig,Undirected,1
+Christensen,Te,Undirected,1
+North,Steen,Undirected,1
+Christensen,Tine,Undirected,1
+Christensen,mørknes,Undirected,1
+Christensen,Peersen,Undirected,1
+nn,nn Christensen,Undirected,1
+North,nn,Undirected,1
+Bruun,Busch,Undirected,1
+Busch,Christensen,Undirected,1
+k,z. Bruun,Undirected,1
+Djcevle,ester,Undirected,1
+Mollock,sia,Undirected,1
+Bruun,sia,Undirected,1
+Renard,Tu,Undirected,1
+Christensen,North,Undirected,2
+Bruun,Steen,Undirected,1
+Gin,iln,Undirected,1
+Bang,Emilie,Undirected,6
+Emilie,hnn,Undirected,3
+Adolf,Emilie,Undirected,15
+Adolf,Kong Frederik,Undirected,1
+Christensen,Nenard,Undirected,1
+Adolf,sinAand,Undirected,1
+Gustave,Poul cis Kocks,Undirected,1
+Emilie,Lieutenani,Undirected,1
+Emile,Emilie,Undirected,1
+Emilie,Walter,Undirected,2
+Adolf,Dirk,Undirected,1
+Emilie,Johanne,Undirected,1
+Adolf,Iversen,Undirected,1
+Adolf,Hr. Bang,Undirected,1
+ban,ester,Undirected,1
+Nielsen,ban,Undirected,1
+Adolf,Bang,Undirected,5
+Adolf,Nielsen,Undirected,7
+Gud,Nielsen,Undirected,2
+Emilie,Pluto,Undirected,1
+Pluto,Sophie,Undirected,1
+Renard,Sophie,Undirected,1
+Nenard Fischers,Nielsen,Undirected,1
+Mollock,Nenard Fischers,Undirected,1
+Emilie,Walther,Undirected,8
+Renard,Theodor,Undirected,29
+Bang,Theodor,Undirected,4
+Theodor,vidsf,Undirected,1
+Bang endeel Creditivsr,vidsf,Undirected,1
+Bang,Nielsen,Undirected,2
+Adolf,Theodor,Undirected,5
+Christianfelt,Emilie,Undirected,1
+Emilie,Theodor,Undirected,33
+Lucretias Nimbus,Theodor,Undirected,1
+Hr. Lieutnant,Walther,Undirected,1
+Theoidor,tht,Undirected,1
+Sandhev,Watlher,Undirected,1
+Gud,Watlher,Undirected,1
+Theodor,reqvireer,Undirected,1
+Poul sko Kocks,Theodor,Undirected,1
+A,B,Undirected,1
+Adolf,Carlo,Undirected,1
+Carlo,Emilie,Undirected,1
+Adolf,Mille,Undirected,1
+Kee,sif,Undirected,1
+Adolf,sif,Undirected,1
+Theodor,Walther,Undirected,1
+Theodor,Vangs,Undirected,2
+Emilie,Nielsen,Undirected,4
+Nielsen,Walther,Undirected,1
+Nielsen,hnn,Undirected,1
+Emilie,Vangs,Undirected,1
+Hain,Theodor,Undirected,1
+Emilie,Hain,Undirected,1
+Emilie,Hr. Nielsen,Undirected,1
+Emilie,sonl,Undirected,1
+Emilie,dyrebars,Undirected,1
+Emilie,Valther,Undirected,2
+Nielsen,Valther,Undirected,1
+Emilie,Renard,Undirected,8
+Nenard,Theodor,Undirected,5
+Bang,Kjømand Bang,Undirected,1
+Adolf,Walther,Undirected,2
+Walther,hnn,Undirected,1
+Adolf,hnn,Undirected,1
+Bruun,Renard,Undirected,3
+Bruun,Gud,Undirected,1
+Gud,IM »,Undirected,1
+Greve,j,Undirected,1
+Grev Lillienspare,Theodor,Undirected,1
+Nenard,Ten,Undirected,1
+Nenard,Ole Andersen,Undirected,1
+Johanne,Ole Andersen,Undirected,1
+Nenard strax,Oles,Undirected,1
+Oles,Tausheds,Undirected,1
+Nenard,Tausheds,Undirected,1
+Nenard,Ole,Undirected,2
+Nenard,perselv,Undirected,1
+Paven,Theodor,Undirected,1
+Mollock,Theodor,Undirected,1
+Renard,sprugte Theodor,Undirected,1
+Ole,ivold,Undirected,2
+Andersen,Ole,Undirected,1
+Habakuk,Jerimias,Undirected,1
+Renard,Thomas,Undirected,1
+JKjellringekram,Theodor,Undirected,1
+Ole,Theodor,Undirected,1
+Ole Andersen,Renard,Undirected,1
+Emilie,Heinrich August Thedor Nielsen,Undirected,1
+Johanne,Walther,Undirected,1
+Arilds,Emilie,Undirected,1
+Christensen,Christine,Undirected,2
+Christensen,Jomfru Petersen,Undirected,1
+Jensen,Thorsen,Undirected,1
+Thorsen,hnn,Undirected,1
+Jensen,hnn,Undirected,1
+Christine,Thorsen,Undirected,1
+Christine,Jensen,Undirected,1
+Jensen,Jomfru Petersen,Undirected,1
+Christensen,Thorsen,Undirected,1
+Chrisfensen,Gud,Undirected,1
+Chrisfensen,Christine,Undirected,1
+Christine,Gud,Undirected,1
+Christensen,Magnussen,Undirected,1
+Gud,Magnussen,Undirected,3
+Gud,er Magnussen,Undirected,1
+Gud,ban,Undirected,1
+er Magnussen,lille Christine,Undirected,1
+hnn,lille Christine,Undirected,1
+Bien,hnn,Undirected,1
+Madam Magnussen,Marie,Undirected,1
+Madam,Stine,Undirected,1
+Christine,raabe,Undirected,1
+Greven,Madamme Magnnssen,Undirected,1
+Alexander,Gud,Undirected,1
+Alexander,Frankz,Undirected,1
+Alexander,Kjør,Undirected,1
+Kjør,Kudsk,Undirected,1
+Madame Magnussen,x,Undirected,1
+Madame Magnussen,jLg,Undirected,1
+Christine,Kjæresten,Undirected,1
+Alexander,Christian,Undirected,1
+Gud,Robert,Undirected,1
+Christine,øg,Undirected,1
+Christine,Tu,Undirected,1
+Alexander,Chrislian,Undirected,1
+Chrislian,Robert,Undirected,1
+Chrislian,Christine,Undirected,1
+Greven,veo,Undirected,1
+Alexander,Greve,Undirected,1
+Gud,Madam Magnnsens,Undirected,1
+Høne,Madam Magnnsen,Undirected,1
+Nielsen,fom Renard,Undirected,1
+Bang,fom Renard,Undirected,1
+Theodor,flippe,Undirected,1
+LEgtemands,Theodor,Undirected,1
+Emilie,LEgtemands,Undirected,1
+Emilie,Nenard,Undirected,3
+Emilie,Hnn,Undirected,1
+Hnn,j,Undirected,1
+HarDu,harDu,Undirected,1
+Emilie,Sophaen,Undirected,1
+Sophaen,Theodor,Undirected,1
+Magueritta,Theodor,Undirected,1
+Nenard,rasf,Undirected,1
+Theodor,rasf,Undirected,1
+Adolf,Renard,Undirected,1
+LEngsielfe,Renard,Undirected,1
+Nenard,Sophaen,Undirected,1
+Emilie,Renard kaldle,Undirected,1
+Christensen,Theodor,Undirected,4
+Christensen,Herr Norlh,Undirected,1
+Nielsen,North,Undirected,1
+Nenard,Nielsen,Undirected,1
+Emilie,selg,Undirected,1
+Renard,foi,Undirected,1
+Bruun,Emilie,Undirected,1
+Christensen,Emilie,Undirected,2
+Emilie,alias Fischer,Undirected,1
+Christensen,alias Fischer,Undirected,1
+Christensen,Nemesis,Undirected,1
+Christensen,rasfe,Undirected,1
+Christine,rasfe,Undirected,1
+Haabets,hnn,Undirected,1
+Emilie,Haabets,Undirected,1
+Theodor,ikkechvad,Undirected,1
+Emilie,ikkechvad,Undirected,1
+Emilie,Niddingsdaad/,Undirected,1
+Emilie,Theodort,Undirected,1
+Gud,Valther,Undirected,1
+Magdalena,Theodor,Undirected,1
+Gud,Wallher,Undirected,1
+Theodor,Wallher,Undirected,1
+Gud,Theodor,Undirected,1
+Emilie,Lee,Undirected,1
+Christensen,Theodor Nielsen,Undirected,1
+Theodor,Theodor Nielsen,Undirected,1
+Detallid,Emilie,Undirected,1
+Nenard,tans,Undirected,1
+Speilet,Theodor,Undirected,1
+Theodor ider,tilPandenthi,Undirected,1
+Nenard,tilPandenthi,Undirected,1
+Reuard,Theodor,Undirected,1
+Emilie,Reuard,Undirected,1
+Emilie,L *,Undirected,1
+L *,Renard,Undirected,1
+Renard,Streifpatrouille,Undirected,1
+Augustas,Axel,Undirected,1

@@ -1,0 +1,919 @@
+source,target,type,weight
+Svantevits,Wallensfeins,Undirected,1
+Torstensons,Wallensfeins,Undirected,1
+Jslel,Torstensons,Undirected,1
+Christian,Philip,Undirected,3
+Hans,Philip,Undirected,1
+Frants Philip,Hans,Undirected,2
+Christian IV,Hans,Undirected,1
+Christian IV,Frants Philip,Undirected,1
+Christian,Frants Philip,Undirected,1
+Christian,Ove Juul,Undirected,1
+Jnnker,Ove Juul,Undirected,1
+Christian,Jnnker,Undirected,1
+Chrisfian Nyssel,Christian,Undirected,1
+Augusta,Chrisfian Nyssel,Undirected,1
+Augusta,Ernst Gynther,Undirected,2
+Ernst Gynther,Junker,Undirected,1
+Chrisfian,Junker,Undirected,1
+Chrisfian,Chrisfian Nyssel,Undirected,1
+Chrisfian,Chrisfian den,Undirected,1
+Chrisfian den,Sigbrit Willums,Undirected,1
+Christian Adolph,Johan Christian,Undirected,1
+Alexanders,Johan Christian,Undirected,1
+Frits Boisen,mall,Undirected,1
+Hans Rehder,mall,Undirected,1
+Frits,Hans Rehder,Undirected,4
+Frits,Junker Christian Adolph,Undirected,1
+Junker Christian Adolph,freu,Undirected,1
+freu,hille,Undirected,1
+Halls,Oldefaders,Undirected,1
+,Halls,Undirected,1
+Christian Adolph,hall,Undirected,1
+Agnes Hedevig,hall,Undirected,1
+Augusf,Ernst,Undirected,1
+Albrecht,Christiall,Undirected,1
+Albrecht,Georg,Undirected,1
+Christian,Georg,Undirected,1
+Christian,felv,Undirected,1
+Alexander,felv,Undirected,1
+Christian Adolph,Dorothea,Undirected,1
+Dorothea,hall,Undirected,1
+Christiall,Guds,Undirected,1
+Christiall,hall,Undirected,1
+hall,null Farbroder,Undirected,1
+Alexander,null Farbroder,Undirected,1
+Christian Adolph,Halls,Undirected,1
+Halls,hall,Undirected,1
+Alexander,Christian,Undirected,1
+Alexander,Johan,Undirected,4
+Johan,Johan Frederik,Undirected,3
+Adolphs,Johan Frederik,Undirected,2
+Anton Gynther,Johan,Undirected,1
+Anton Gynther,Døttre,Undirected,1
+Dorothea,Døttre,Undirected,2
+Christian,Johan Frederik,Undirected,1
+Anna Sophie,Johan,Undirected,1
+Alexander,Anna Sophie,Undirected,1
+Alexander,Dorothea,Undirected,1
+Dorothea,Johan Frederik,Undirected,1
+Farbroder,Johan Frederik,Undirected,1
+Farbroder,Johan,Undirected,1
+,Alexander,Undirected,2
+Alexander,Caspar v. Breitlacken,Undirected,1
+Caspar v. Breitlacken,Johan,Undirected,1
+Alexander,Elisabeth,Undirected,1
+Døttre,Elisabeth,Undirected,1
+Caspar v. Breitlacken,Dorothea,Undirected,1
+Caspar v. Breitlacken,strax,Undirected,1
+Alexander,strax,Undirected,1
+Caspar,Eli Brevvexling,Undirected,1
+Alexander,Eli Brevvexling,Undirected,1
+Anthon Gynther,Johan,Undirected,1
+Alexander,Anthon Gynther,Undirected,1
+Alexander,Ester Grev Johans,Undirected,1
+Ester Grev Johans,hall,Undirected,1
+Alexander,hall,Undirected,1
+Alexander,bo,Undirected,1
+Beck,Farbroder,Undirected,1
+Bedstefaders,Farbroder,Undirected,1
+Herre Junker,Ryssel,Undirected,2
+Philip,Ryssel,Undirected,1
+Frederik,Philip,Undirected,2
+Frederik,Joachim Ernst,Undirected,1
+Ernst Gynther,Joachim Ernst,Undirected,1
+Alexander Henrik,Georg Frederik,Undirected,1
+Christian Adolph,Ryssel,Undirected,1
+Dorothea Maria,Heeshus,Undirected,1
+Alexander,Ryssel,Undirected,1
+Alexander,Junker,Undirected,1
+Christian,Junker,Undirected,4
+Angust Philip,Junker Christian Adolph,Undirected,1
+Angust Philip,Junker Christian,Undirected,1
+Junker Christian,fille,Undirected,1
+Ryssel,taug,Undirected,1
+Christian IV,Philip,Undirected,1
+Junker Christian,høi,Undirected,1
+høi,slor,Undirected,1
+Henning Mule,slor,Undirected,1
+Caspar Mule,Henning Mule,Undirected,1
+Caspar Mule,Erik Menveds,Undirected,1
+Erik Menveds,Henning Mule,Undirected,1
+Henning Mule,Philip,Undirected,1
+Margrethe Magnussens,Philip,Undirected,1
+Henning,Junker Christian Adolph,Undirected,1
+Christian Adolph,Herre Junker,Undirected,1
+Christian,Herre Junker,Undirected,1
+Christiall Adolph,Henning Mule,Undirected,1
+Frits Boisen,Henning Mule,Undirected,8
+Frits Boisen,Ryssel,Undirected,1
+Christian Adolph,kjæræ,Undirected,1
+Christian,kjæræ,Undirected,1
+Henning,Junker,Undirected,1
+Henning,Henning Mule,Undirected,1
+Frits,Morbroders,Undirected,1
+Karl Gusfav,Philip,Undirected,1
+Karl Gusfav,Karl X,Undirected,1
+Karl X,eil,Undirected,1
+Christen Skeel,Hans Friis,Undirected,1
+Hans Friis,Otto Krag,Undirected,1
+Axel Urup,Otto Krag,Undirected,1
+Axel Urup,Gunde Rosenkrands,Undirected,1
+Gunde Rosenkrands,Kaj Lykke,Undirected,1
+Kaj Lykke,Ulrik Christian Gyldenløve,Undirected,1
+Ulrik Christian Gyldenløve,karr Svenfken,Undirected,1
+Holger Danske vil,karr Svenfken,Undirected,1
+Gott gebe,N. o,Undirected,1
+Hans,Kong Frederik Vil,Undirected,1
+,Hans,Undirected,2
+,Hertng Philip,Undirected,1
+Carl Gustav,Hertng Philip,Undirected,1
+Chrjstian,Henning Mule,Undirected,1
+Adolph,Chrjstian,Undirected,1
+Adolph,Christian,Undirected,2
+Christian,Stanislaus von der Osten,Undirected,1
+Christiau Ludvig,Stanislaus von der Osten,Undirected,1
+Alexander,Christian Adolph,Undirected,1
+Alexander,Philip,Undirected,1
+Ernst Gynther,Philip,Undirected,2
+Hans,Kong Frederik III,Undirected,1
+Kong Frederik III,harr,Undirected,1
+Augusta,harr,Undirected,1
+Augusta,son,Undirected,1
+Philip,son,Undirected,1
+Frederik,Johan Bugislav,Undirected,1
+Christian Augusf,Johan Bugislav,Undirected,1
+Frederik III,Philip,Undirected,1
+Frederik III,Johan Adolph Kielmann v. Kielmannseck,Undirected,1
+Griffenfeld,Johan Adolph Kielmann v. Kielmannseck,Undirected,1
+Griffenfeld,as,Undirected,1
+Lollfuss,as,Undirected,1
+Claus Ahlefeldt,Hasseldorf,Undirected,1
+Frederik,Kielmannseck,Undirected,5
+Kielmannseck,felv,Undirected,1
+Ahlefeldt,felv,Undirected,1
+Ahlefeldt,Hans Durchlauchtighed,Undirected,1
+Carl Gustav,Serenissimus,Undirected,2
+Claus Ahlefeldt,Detlev Ahlefeldt,Undirected,1
+Arilds,sorn,Undirected,1
+Kielmannseck,Philip,Undirected,1
+Frederik,Kong Frederik,Undirected,3
+Carl Gustav,ester Fortjeneste,Undirected,1
+Ahlefeldt,ester Fortjeneste,Undirected,1
+Ahlefeldt,Frederik,Undirected,3
+Frederik,f.,Undirected,1
+Ahlefeldt,Durchlauchtigheds,Undirected,1
+Durchlauchtigheds,Hans,Undirected,1
+Frederik II,Hans,Undirected,1
+Claus Ahlefeldt,da. Junker Adolph,Undirected,1
+Kielmannseck,da. Junker Adolph,Undirected,1
+Ahlefeldt,Junker,Undirected,1
+Ahlefeldt,Ahlefeldternes,Undirected,1
+Ahlefeldternes,Kielmannseck,Undirected,1
+Detlev Ahlefeldt,Kielmannseck,Undirected,1
+Carl Gnstav,Junker Adolph,Undirected,1
+ester,miir,Undirected,1
+Junker,ester,Undirected,1
+Adolph,Junker,Undirected,2
+Christian,Frederik Vilhelm,Undirected,3
+Carl Gustav,Frederik Vilhelm,Undirected,2
+Adolph,Carl Gustav,Undirected,2
+Adolph,Kong Frederik,Undirected,1
+Ernst Gynther,Junker Bugislav,Undirected,1
+Chrisfiall August,Ernst Gynther,Undirected,2
+Christian August,Kielmannseck,Undirected,1
+Carl Gustav,Kielmannseck,Undirected,3
+Christian August,Ernst Gynther,Undirected,2
+Christian,Christian August,Undirected,1
+Adolph,Ernst Gynther,Undirected,1
+Junker Adolph,Philip,Undirected,1
+Junker Adolph,fenere,Undirected,1
+Ernst Gynther,fenere,Undirected,1
+Christian August,Peder Vogelsangh,Undirected,1
+Jacob le Maire,Peder Vogelsangh,Undirected,1
+Augusta,Gersdorff,Undirected,1
+Admiral Bjelke,Gersdorff,Undirected,1
+Admiral Bjelke,Gyldenløve,Undirected,1
+Gyldenløve,Hr. Krag,Undirected,1
+Ernst Gynther,Jens Bircherods,Undirected,1
+Jens Bircherods,klex vamss,Undirected,1
+hannem,klex vamss,Undirected,1
+He^ina,hannem,Undirected,1
+He^ina,Onmss,Undirected,1
+Gabriel Orenstjerne,hannem Hex noster,Undirected,1
+Gabriel Orenstjerne,Steen Bjelche,Undirected,1
+Nicolaus Brahe,Steen Bjelche,Undirected,1
+Goritzky,Nicolaus Brahe,Undirected,1
+Ernst Gynther,Goritzky,Undirected,1
+Ernst Gynther,Schweder Dietrich de Kley,Undirected,1
+Colonna,Schweder Dietrich de Kley,Undirected,1
+Colonna,heel magnifique,Undirected,1
+Ernst Gynther,heel magnifique,Undirected,1
+Kong Frederik,Philip,Undirected,1
+Chrisfian August,Frederik Ill,Undirected,1
+Dndest,Frederik Vilhelm,Undirected,1
+Christian,Dndest,Undirected,1
+Christian,Dorothea,Undirected,1
+Christian Ludvig,Dorothea,Undirected,1
+Christian Ludvig,Junker,Undirected,1
+Ahlefeldt,Philip,Undirected,1
+Carl Gustav,Kong Frederik,Undirected,6
+Carl Gustav,Henning,Undirected,1
+Frits Boisen,Morbroders,Undirected,1
+Karen,Morbroders,Undirected,1
+Anders Bilde,Ove Gedde,Undirected,1
+Anders Bilde,son,Undirected,1
+son,voxen,Undirected,1
+Hans Schach,voxen,Undirected,1
+Due,Griis,Undirected,1
+Griis,Gyldenstjerne,Undirected,1
+Gyldenstjerne,Juel,Undirected,1
+Juel,Lange,Undirected,1
+Lange,Munk,Undirected,1
+Munk,Rosenkrands,Undirected,1
+Rosenkrands,Skjel,Undirected,1
+Skjel,Sparre,Undirected,1
+Sparre,Trampe,Undirected,1
+Trampe,Urne,Undirected,1
+Poulsen,Urne,Undirected,1
+Kapitajner,Poulsen,Undirected,1
+Epperich-Lybbes,Kapitajner,Undirected,1
+Epperich-Lybbes,Venck,Undirected,1
+Frederik III,Hedevig Eleonore,Undirected,1
+Carl Gustav,Hedevig Eleonore,Undirected,1
+Angusta,Carl Gustav,Undirected,1
+Angusta,eil,Undirected,1
+Kong Frederik II,eil,Undirected,1
+Carl Gustav Enehersker,Kong Frederik,Undirected,1
+Kong Frederik,Marie Elisabeth,Undirected,1
+Johan Georg,Marie Elisabeth,Undirected,1
+Gehejmeraad,Kielmannseck,Undirected,1
+Gehejmeraad,Levin Nicolaus Moltke,Undirected,1
+Kong Frederik III,Levin Nicolaus Moltke,Undirected,1
+Frederik III,Kong Frederik III,Undirected,1
+Carl Gustav,Frederik,Undirected,4
+Claus v. Buchwaldt,Peter Blarkussen Goske,Undirected,1
+Hasselau,Peter Markussen Goske,Undirected,1
+Jens Ravn,Peter Markussen Goske,Undirected,1
+Jens Ravn,Kielmannseck,Undirected,1
+,Claus Ahlefeldt,Undirected,2
+Christian V,Claus Ahlefeldt,Undirected,1
+Christian V,Hans Schack,Undirected,1
+Hans Schack,Jørgen Bjelke,Undirected,1
+Frederik Ahlefeldt,hnn,Undirected,1
+Christian V,hnn,Undirected,1
+Christian V,Hnn,Undirected,1
+Hnn,nf Frederik Ahlefeldt,Undirected,1
+Margrethe Dorthea Rankzau,nf Frederik Ahlefeldt,Undirected,1
+Ahlefeldternes,Henrik Ahlefeldt,Undirected,1
+Christian V,Henrik S ehest ed,Undirected,1
+Christian V,Henrik Sehested,Undirected,1
+Gotfred Rauch,Henrik Sehested,Undirected,1
+Gotfred Rauch,Halls Christopher Claudi,Undirected,1
+Claus v. ørtz,Halls Christopher Claudi,Undirected,1
+Detlev Brockdorff,Hans Rantzow,Undirected,1
+Claus v. Buchwaldt,Detlev Brockdorff,Undirected,1
+Anders Bilde,Paul Benfeldt,Undirected,1
+Anders Bilde,Peder Rehder,Undirected,1
+Peder Rehder,Peter Markusfen G,Undirected,1
+Jens Ravn,Peter Markusfen G,Undirected,1
+Jens Ravn,Poul Benfeldts,Undirected,1
+Johan Wittemark,Poul Benfeldts,Undirected,1
+Johan Wittemark,Peter Brüggemann,Undirected,1
+Conrad Brinck,Peter Brüggemann,Undirected,1
+Conrad Brinck,Henrik Wortmann,Undirected,1
+Gotfred Rauch,Henrik Wortmann,Undirected,1
+Gotfred Rauch,Hans Christopher Claudi,Undirected,1
+Niels Heins,Peter Heins,Undirected,1
+Johan Frerks,Peter Heins,Undirected,1
+Johan Frerks,Niels Heins,Undirected,2
+Jokmn,Niels Heins,Undirected,1
+Hennigs,Jokmn,Undirected,1
+Hennigs,Rors,Undirected,1
+Guds,Niels,Undirected,1
+Hain,Niels,Undirected,1
+Hain,hall,Undirected,1
+Jokum,Lectie,Undirected,1
+Jokum,son,Undirected,1
+Jokum Hennigs,Jusf,Undirected,1
+Hain,Jokum Hennigs,Undirected,1
+Earl Gustav,Kong Frederik,Undirected,1
+Frederik III,Kong Frederik,Undirected,1
+Frederik III,Henrik Bjelke,Undirected,1
+Carl Gustav,Henrik Bjelke,Undirected,1
+Carl Gustav,hall,Undirected,1
+Kong Frederik III,err Garrg,Undirected,1
+Johan Frerks,Jokum Hennigs,Undirected,1
+Jokum Hennigs,uogeu,Undirected,1
+Niels Heins,uogeu,Undirected,1
+Niels Heins,Wismar,Undirected,1
+Carl Gustav,Niels Heins,Undirected,1
+Hernngs,Jokllnr,Undirected,1
+Carl Gusfav,sorn,Undirected,1
+Carl Gusfav Wrangel,Korrger,Undirected,1
+Frederik,rs Durchlauchtighed,Undirected,1
+Kielmannseck,Kong Frederik as Danmark,Undirected,1
+Durchlauchtighed,Kong Frederik as Danmark,Undirected,1
+Kielmannseck,Niels Heins,Undirected,1
+Jokum Hennigs,Niels Heins,Undirected,1
+Frederik den,Jokum Hennigs,Undirected,1
+Junkerens,harr,Undirected,1
+Dn,Niels,Undirected,1
+Diderichs,Junker,Undirected,1
+Junker Adolph,Wrangel,Undirected,1
+Carl Gustav,Junker Adolph,Undirected,2
+Carl Gustav,Detlev Ahlefeldt slod,Undirected,1
+Axel Urne,Ulrik Christian Gyldenløve,Undirected,1
+Per Brahe,Ulrik Christian Gyldenløve,Undirected,1
+Gustav Otto Stenbok,Per Brahe,Undirected,1
+Carl Gustav,Gustav Otto Stenbok,Undirected,1
+Anders Bilde,Carl Gustav,Undirected,4
+Anders Bilde,danfke,Undirected,1
+Morten Rasch,danfke,Undirected,1
+Anders Bilde,Morten Rasch,Undirected,1
+Anders Bilde,Rasch,Undirected,1
+Billefloden,Rasch,Undirected,1
+Bremerførde,Carl Gustav,Undirected,1
+Carl Gustav Wrangel,Flankehær,Undirected,1
+Flankehær,son,Undirected,1
+Carl Gustav,son,Undirected,3
+Angel,Carl Gustav,Undirected,1
+Angel,Ritmester Fersen,Undirected,1
+Anders Bilde,Støren,Undirected,1
+Carl Gustav,Detlev Ahlefeldt,Undirected,1
+Ahleseldt,ban,Undirected,1
+Ahlefeldt,Korporal Boisen,Undirected,1
+Ahlefeldt,Henning Mule,Undirected,1
+Ahlefeldt,Ester,Undirected,1
+Henning,Jnnker Adolph,Undirected,1
+Boisen,Mule,Undirected,1
+Detlev Ahlefeldt,Mule,Undirected,1
+Carl Gustav,Kong Christian IV,Undirected,1
+Carl Gustav,Christian IV,Undirected,1
+Helm Wrangel,Markvard Rantzau,Undirected,1
+Grev Penz,Helm Wrangel,Undirected,1
+Carl Gustav,as Junker Adolph,Undirected,1
+Anders Bilde,as Junker Adolph,Undirected,1
+Junker Adolph,takkel Detlev Ahlefeldt,Undirected,1
+Hasselau,Hasseldors,Undirected,1
+Jens,Poul Benfeldts,Undirected,1
+Bilde,Henning Mule,Undirected,1
+Anders Bilde,Frits Boisen,Undirected,1
+Anders Bilde,Kaptejn,Undirected,1
+Hasselau,Hasseldorf,Undirected,1
+Hasseldorf,Hr. Detlevs,Undirected,1
+Diggreven,Johannes Wittemaack,Undirected,1
+Johannes Wittemaack,Telsa,Undirected,1
+Diggreven,Kong Christian IV,Undirected,1
+Kong Christian IV,Telsa,Undirected,1
+Schweins,Telsa,Undirected,1
+Schweins,Telfa,Undirected,1
+Wittemaack,hans,Undirected,1
+Henrik Sehested,hans,Undirected,1
+Henrik Sehested,Valdemar Sejer,Undirected,1
+Otto,Valdemar Sejer,Undirected,1
+Otto,Svend Starke,Undirected,1
+Rain,Svend Starke,Undirected,1
+Rain,son,Undirected,1
+Diggreven,son,Undirected,1
+Broder Schweins,Diggreven,Undirected,1
+Broder Schweins,Wittenmack,Undirected,1
+Schweins,Wittenmack,Undirected,1
+Bastard,Schweins,Undirected,1
+Telsa,Tu,Undirected,1
+Diggreven,Telsa,Undirected,2
+Telsa,son,Undirected,2
+Bredsted,son,Undirected,1
+Bredsted,Majestætæns,Undirected,1
+Johannes,Rok,Undirected,1
+Claes Simons,Telsa,Undirected,1
+Birthe,Telsa,Undirected,1
+Birthe,Simons,Undirected,1
+Gud,Telsa,Undirected,2
+Diggreveu,Tete,Undirected,1
+Tete,Wittemaack,Undirected,8
+Son,Tete,Undirected,1
+Tete,lode Wittemaack,Undirected,1
+Gud,Tete,Undirected,1
+Snaphaner,Tete,Undirected,1
+Frederik,Tete Martins,Undirected,1
+Fcedrelaud,Wittemaack,Undirected,1
+Skandsens,Wittemaack,Undirected,1
+Frislands,Telsa,Undirected,1
+Frislands,Gud,Undirected,1
+Ravns,Wittemaack,Undirected,1
+Henning Mule,Ravns,Undirected,1
+Henning Mule,Jens Ravn,Undirected,3
+Carl Gustav,Jens Ravn,Undirected,1
+Diggreven,Frits Boisen,Undirected,1
+Diggreven,Wittemaack,Undirected,2
+Wittemaack,maale,Undirected,1
+Tete,lange Peter,Undirected,2
+Diggreven,Tete,Undirected,1
+Henning Mule,Wittemaack,Undirected,2
+Kaptejnens,Wittemaack,Undirected,1
+Telsa,Wittemaack,Undirected,2
+Broder Schweins,Telsa,Undirected,1
+Broder Schweins,Wittemaack,Undirected,1
+Peter,Tete,Undirected,2
+Gud,Peter,Undirected,2
+Tete Martins,Wittemaack,Undirected,1
+Peter,Tiggrevens,Undirected,1
+Tiggrevens,Wittemaack,Undirected,1
+Telsa,hnn,Undirected,1
+Wittemaack,fenere,Undirected,1
+Anders Christensen Brandt,Niels Ebbesens,Undirected,1
+Anders Christensen Brandt,Jacob Buch,Undirected,1
+Hans Friis,Svend Paulsens,Undirected,1
+Hans Friis,freu,Undirected,1
+Carl Gustav,freu,Undirected,1
+Kong Frederik,son,Undirected,1
+Claus Ahlefeldt,Wittemaack,Undirected,1
+Carl Gustav,Kaptejn Ravn,Undirected,1
+Carl Gustav,Frederik III,Undirected,1
+Frederik III,dei,Undirected,1
+Terlon,dei,Undirected,1
+Carl Gustav,Terlon,Undirected,2
+Carl Gustav,Gert,Undirected,1
+Gert,Kong Carl Gusfavs,Undirected,1
+Adolph,Kong Carl Gusfavs,Undirected,1
+Carl Gustav,harr,Undirected,2
+Henning Mule,harr,Undirected,1
+Frits Boisen,Kaptejnen,Undirected,1
+Claus Ahlefeldt,Kaptejnen,Undirected,1
+Haus,v. Ahlefeldt,Undirected,1
+Anders Bilde,Haus,Undirected,1
+Ahlefeldt Samtalen,Bien,Undirected,1
+Ahlefeldt,Carl Gustav,Undirected,4
+Ahlefeldt,Kaptejn,Undirected,1
+Frants Maasholmer,Frants Mathiesen,Undirected,1
+Frants,Mathies,Undirected,1
+Boisen,Frants Mathiesen,Undirected,1
+Frants Mathiesen,Kaptejn,Undirected,1
+Carl Gustav,Frants Mathiesen,Undirected,2
+Frants Mathiesen,Frits Boisen,Undirected,1
+Frants,Frits Boisen,Undirected,1
+Frants,son,Undirected,1
+Frants,Pehrson,Undirected,1
+Gud,Maje,Undirected,1
+Frants,siv,Undirected,1
+Frants,skulve,Undirected,1
+Carl Gustav,skulve,Undirected,1
+Carl Gustav,pra,Undirected,1
+Frederik,Plettenberg,Undirected,1
+Frederik,Oxer,Undirected,1
+Kaptejn Ravn,Obersf Claus Ahlefeldt,Undirected,1
+Kaptejn Ravn,Plettenberg,Undirected,1
+Carl Gustav,Wrangel,Undirected,1
+Gustav,Wrangel,Undirected,2
+Anders Bilde,Wrangel,Undirected,1
+N. Haach,O. Beyer,Undirected,1
+N. Haach,v. Lutten,Undirected,1
+Poul Nansen,v. Lutten,Undirected,1
+Claus Ahlefeldt,Poul Nansen,Undirected,1
+Claus Ahlefeldt,Peter Markussen,Undirected,1
+Carl Gustav,Gud,Undirected,1
+Ahleseldt,Gud,Undirected,1
+Ahleseldt,Carl Gustav,Undirected,1
+Ahlefeldt,Gud,Undirected,2
+Carl Gustav,Haack,Undirected,1
+Frederik,Wittemaack,Undirected,1
+Ahlefeldt,Krusaa,Undirected,1
+Ahlefeldt,Ravn,Undirected,2
+Goske,Ravn,Undirected,3
+Junker Adolph,Mule,Undirected,1
+Henning Mule,Jnnkeren,Undirected,1
+Gud,Mule,Undirected,1
+Anna Doratheas,Carl Gustav,Undirected,1
+Anna Dorothea,Carl Gustav,Undirected,1
+Anna Dorothea,Gud,Undirected,1
+Frederik,Majesfætens,Undirected,1
+Junkerens,son,Undirected,2
+Claus Ahlefeldt,Kaptejn Jens Ravn,Undirected,1
+Carl Gustav,Kaptejn Jens Ravn,Undirected,1
+Carl Gustav,Junker kjær,Undirected,1
+Hedevig,Philip,Undirected,1
+Gehejmeraad Moltke,Kielmannseck,Undirected,1
+Frederik,Gehejmeraad Moltke,Undirected,1
+Carl Gustav,Frederik Ill,Undirected,1
+Frederik,Frederik Ill,Undirected,1
+Ahlefeldt,Goske,Undirected,2
+Carl Gusfav,Mille,Undirected,1
+Alan,Carl Gustav,Undirected,1
+Carl Gustav,Henning Mule,Undirected,1
+Carl Gustav,Grev Wrangel,Undirected,1
+Grev Wrangel,Holberg,Undirected,1
+Hannibals,Holberg,Undirected,1
+Christen Skeel,Jokum Gersdorf,Undirected,1
+Carl Gustav,Christen Skeel,Undirected,1
+Korsitz Ulfeldt,Skaane,Undirected,1
+Carl,Frederik,Undirected,2
+Frederik,Geheimeraad Moltke,Undirected,1
+Geheimeraad Moltke,Kansler Kielmannseck,Undirected,1
+Lars Langelænder,Mauds,Undirected,1
+Kielmannseck,Lars,Undirected,1
+Judas,son,Undirected,1
+Kielmannseck,Lars Langelænder,Undirected,1
+Frederik Ahlefeldt,Henrik Rantzau,Undirected,1
+Frederik Ahlefeldt,Kielmannseck,Undirected,1
+Kielmannseck,mai,Undirected,1
+Carl Gustav,sorhale,Undirected,1
+Carl Gustav,Rutger Ascheberg,Undirected,2
+Chrisfian Adolph,Gjæeldeu,Undirected,1
+Chrisfian Adolph,Lenet,Undirected,1
+Eders,Hertng,Undirected,1
+Dieskan,Hertng,Undirected,1
+Eleonore,Frederik,Undirected,2
+Anhall-Zerbst,Eleonore,Undirected,1
+Anhall-Zerbst,Bugislav,Undirected,1
+Ascheberg,Wrangel,Undirected,1
+Carl Gustav,Junl stevnede Fregatten,Undirected,1
+Junl stevnede Fregatten,Ulan,Undirected,1
+Ulan,hall,Undirected,1
+Detlev Ahlefeldt,hail,Undirected,1
+Frederik,hail,Undirected,1
+Frederik,dadle,Undirected,1
+Carl Gustav,dadle,Undirected,1
+Carl Gustav,Laild,Undirected,1
+ban,eil,Undirected,1
+ban,hail rnaatte,Undirected,1
+hail rnaatte,hall,Undirected,1
+Carl Gustav,Otto Schwerin,Undirected,1
+Daniel Weimann,Otto Schwerin,Undirected,1
+Daniel Weimann,son,Undirected,1
+Carl Gustav,Molin,Undirected,1
+Claus Ahlefeldt,Molin,Undirected,1
+Claus Ahlefeldt,Junker Adolph,Undirected,1
+Hedvig,Junker Adolph,Undirected,1
+Carl Gustav,Kong Carl Gustav,Undirected,1
+Carl Gustav,dei,Undirected,2
+Carl Gustav,Christian Albrechts,Undirected,1
+Frederik,Johan Georg,Undirected,1
+Christian Albrecht,Johan Georg,Undirected,1
+Christian Albrecht,Terlon,Undirected,1
+Carl Gustav,Sø,Undirected,1
+Chrisfin,Sø,Undirected,1
+Albrecht,Chrisfin,Undirected,1
+Augusf,Christian Albrecht,Undirected,1
+Christian Albrecht,Gud,Undirected,1
+Gud,Pfalzgreven,Undirected,1
+Pfalzgreven,Sulzbach,Undirected,1
+Terlon,har,Undirected,1
+Carl Gustav,Dahlberg,Undirected,1
+Carl,Kong Carl Gustav,Undirected,1
+Abels,Erik,Undirected,2
+Erik,Erik Glippings,Undirected,1
+Erik Glippings,Erik Menveds,Undirected,1
+Erik Menveds,Valdemar,Undirected,1
+Kong Christoffer den,Valdemar,Undirected,1
+Erik,Kong Christoffer den,Undirected,1
+Christian IV,Erik,Undirected,2
+Adolph,Hain,Undirected,2
+Adolph,Kong Christian III,Undirected,1
+Kong Christian III,souveraine,Undirected,1
+Adolph,souveraine,Undirected,1
+Adolph,Johan Adolph,Undirected,1
+Frederik de,Johan Adolph,Undirected,1
+Carl Gustav,Christian Albrecht,Undirected,3
+Christian Albrecht,Henrik Bremer,Undirected,1
+Henrik Bremer,Kaj Urne,Undirected,1
+Carl Gustav,Kaj Urne,Undirected,1
+Anna Dorothea,Augusf Frederik,Undirected,1
+Augusf Frederik,Christian Albrecht,Undirected,1
+Augusta Maria,Parsbjerg,Undirected,1
+Carl Gustav,Mazarin,Undirected,1
+Frederik Vilhelm,Montecuculi,Undirected,1
+Johan Svorck,Montecuculi,Undirected,1
+Johan Svorck,Sulzbach,Undirected,1
+Czarnieck,Sulzbach,Undirected,1
+Serenissimus,Sulzbach,Undirected,2
+Ascheberg,Sulzbach,Undirected,1
+Plettenberg,son,Undirected,1
+Gemal,Plettenberg,Undirected,1
+Kielmannseck,Plettenberg,Undirected,1
+Kielmannseck,Moltke,Undirected,2
+Moltke,Parsbjerg,Undirected,1
+Parsbjerg,Plettenberg,Undirected,1
+Chrisfines,Pfalzgrev Carl Gustav,Undirected,1
+Dønning,Sulzbach,Undirected,1
+Frederik,Vilhelm,Undirected,1
+Frants Carl,Vilhelm,Undirected,1
+Frederik,Frederik Vilhelm,Undirected,1
+Kielmannseck,Mollke,Undirected,2
+Carl Gustav,Mollke,Undirected,1
+Carl Gustav,Plettenberg,Undirected,1
+Claus Ahlefeldt,Jens Ravn,Undirected,2
+Ahlefeldt,Kong Frederik,Undirected,1
+Geheimeraad Mollke,Kielmannseck,Undirected,1
+Franz v. Junghem,Plettenberg,Undirected,1
+Claus Ahlefeldt,Kaptejn,Undirected,1
+Kaptejn,Kielmannseck,Undirected,1
+Frederik,Kong Carl Gustav,Undirected,2
+Frederik,Tønnings,Undirected,1
+Kielmannseck,Pletteuberg,Undirected,1
+Frants,Kielmannseck,Undirected,1
+Ahlefeldt,Plettenberg,Undirected,2
+Frants Maasholmer,Plettenberg,Undirected,1
+Plettenberg,v. Ahlefeldt,Undirected,1
+Ravn,Wittemaack,Undirected,1
+Christian Adolph,Christian Angust,Undirected,1
+Christian Angust,Kong Carl Gustav,Undirected,1
+Kong Carl Gustav,Rutger Ascheberg,Undirected,1
+Kaptejn Wrangel,Rutger Ascheberg,Undirected,1
+Frits Boisen,Hans Rehder,Undirected,2
+Frits Boisen,Peder Rehder,Undirected,1
+Peder Rehder,Sophie,Undirected,1
+Afchebergs,Frederik Vilhelm,Undirected,1
+Afchebergs,Silverstolpe,Undirected,1
+Conrad,Henning Mule,Undirected,1
+Conrad,Ellen,Undirected,1
+Ellen,Frits,Undirected,1
+Hans Rehder,freu,Undirected,1
+Ascheberg,Peter Tetzeu,Undirected,1
+Ascheberg,Silverstolpe,Undirected,1
+Silverstolpe,son,Undirected,1
+Frederik,son,Undirected,1
+Frederik,sor,Undirected,1
+kasfe,sor,Undirected,1
+Karen,kasfe,Undirected,1
+Frits,harr,Undirected,3
+Sophie,hail,Undirected,1
+Rehder,Søsfers,Undirected,1
+Karen,Søsfers,Undirected,1
+Karen,hall,Undirected,1
+dei,fille,Undirected,1
+dei,rige Halls,Undirected,1
+Rehder,rige Halls,Undirected,1
+Frits Boisen,Peter,Undirected,1
+Gud,lange Peter,Undirected,1
+Frits Boisen,Gud,Undirected,1
+Hans Rehder,Karen,Undirected,2
+Gud,Karen,Undirected,1
+Peder Rehder,Rehder,Undirected,1
+Czarnieck,Frederik,Undirected,1
+Frederik,Mille,Undirected,1
+Mille,felv,Undirected,1
+Lorens Bohneseldt,Peder Been,Undirected,1
+Hans Hjorth,Lorens Bohneseldt,Undirected,1
+Frederik Ottesen,Hans Hjorth,Undirected,1
+Frederik Ottesen,Hans Rehder,Undirected,1
+Hans Rehder,Peter Tetzen,Undirected,2
+Peter Tetzen,Tetzen,Undirected,1
+Rehder,Tetzen,Undirected,1
+Harrs Rehder,Peter Tetzen,Undirected,1
+Christian Adolph,Hans Hjorth,Undirected,1
+Christian Adolph,Ernst Gynther,Undirected,1
+Ernst Gynther,Gud,Undirected,1
+Claus Ahlefeldt,Detlev,Undirected,1
+Claus Ahlefeldt,Johannes Wittemaack,Undirected,1
+Henrik Sehested,Johannes Wittemaack,Undirected,1
+Henrik Sehested,Peder Rehder,Undirected,1
+Ascheberg,Ritmesfer,Undirected,1
+Bugislav,Ritmesfer,Undirected,1
+Bugislav,Ernst Gynther,Undirected,2
+Arilds,Hans Rehder,Undirected,1
+Lorens Bohnefeldt,Peder Been,Undirected,1
+HansHjorth,Peder Been,Undirected,1
+Frederik Ottesen,HansHjorth,Undirected,1
+Hans Rehder,err,Undirected,1
+Hans Juhler,Hans Rehder,Undirected,4
+Peter Tetzen,Silverstolpe,Undirected,1
+Rehder:,trofasf,Undirected,1
+Gud,Hans Juhler,Undirected,1
+Hans,Hans Juhler,Undirected,1
+Bent,Hans Rehder,Undirected,1
+Bengt,dei,Undirected,1
+Jørgen von der Wisch,Peter Tetzen,Undirected,3
+Jørgen von der Wisch,mai,Undirected,1
+Dilling,Frederik,Undirected,1
+Malene Svendsen,Peter Tetzen,Undirected,1
+Frederik,Malene Svendsen,Undirected,1
+Frederik,sorn,Undirected,1
+Kong Frederik,Ulfeld,Undirected,1
+Pagen,son,Undirected,1
+Dilling,Peter Tetzen,Undirected,1
+Dilling,taug,Undirected,1
+Adam,Wittemaack,Undirected,1
+Geheimeraad Mollke,v. Uchteritz,Undirected,1
+Moltke,ganfke,Undirected,1
+Poul Wittorp,ganfke,Undirected,1
+Jørgen von der Wisch,Poul Wittorp,Undirected,1
+Buchwaldt,Jørgen von der Wisch,Undirected,1
+Buchwaldt,Rumohr,Undirected,1
+Czarnieck,Monteeuculi,Undirected,2
+Monteeuculi,Tetzen,Undirected,1
+Jeppe“,Tetzen,Undirected,1
+Jeppe“,Jørgen Fisker,Undirected,1
+Jørgen Fisker,Peter Tetzen,Undirected,2
+Jeppe,Sidsel,Undirected,3
+Moer Malene,Peter Tetzen,Undirected,1
+Moer Malene,Poul Wittorp,Undirected,1
+Jeppe,Peter Tetzen,Undirected,2
+Moer Sidsel,Wittorp,Undirected,1
+Wittorp,sandb,Undirected,1
+Jørgen Fisker,Poul Wittorp,Undirected,1
+Jørgen,Peter Tetzen,Undirected,1
+Buchrvaldt,Hertug Frederiks,Undirected,1
+Peter Tetzen,valte,Undirected,1
+Buchwaldt,Jørgen,Undirected,1
+Peder Rehder,Poul Rømer,Undirected,1
+Claus Ahlefeldt,Czarnieck,Undirected,1
+Claus Ahlefeldt,Hartenseldt,Undirected,1
+Gud,Poul Benfeldt,Undirected,1
+Czarnieck,Rehder,Undirected,1
+Paul Witlocp,Vuchwaldt,Undirected,1
+Lillieholm,Paul Witlocp,Undirected,1
+Kong Carl Gustav,Lillieholm,Undirected,1
+Czarnieck,Gud,Undirected,1
+Buchwaldt,Diderik Ahlefeldt,Undirected,1
+Buchwaldt,Czarnieck,Undirected,1
+Czarnieck,Peter Tetzen,Undirected,1
+Ahlefeldt,Kaptejn Jens Navn,Undirected,1
+Gud,Kaptejn Jens Navn,Undirected,1
+Jens Ravn,Peter Tekzen,Undirected,1
+Hans Rehder,Peter Tekzen,Undirected,1
+Gud,Hans Rehder,Undirected,1
+Jens Ravn,Poul Wittorp,Undirected,1
+Peter Tekzen,Poul Wittorp,Undirected,1
+Buchvaldt,Peter Tekzen,Undirected,1
+Claus Ahlefeldt,Jens Navn,Undirected,1
+Claus Ahlefeldt,Frits Boisen,Undirected,1
+Boisen,Frits Boisen,Undirected,1
+Czarnieck,Kaptejn Ravn,Undirected,1
+Hans Rehder,Johannes Wittemaack,Undirected,1
+Hans Rehder,son,Undirected,2
+Astes,Gud,Undirected,1
+Astes,Jeppe“,Undirected,1
+Jeppe,Jeppe“,Undirected,1
+Morbroders,Peter Tetzen,Undirected,1
+Morbroders,ane,Undirected,1
+Poul Wittorp,ane,Undirected,1
+Frederik,Poul Wittorp,Undirected,1
+Ahlefeldt,Peder Rehder,Undirected,1
+Frits,Jens Ravn,Undirected,3
+Jens Ravn,vidsfe,Undirected,1
+Hans Rehder,ester,Undirected,1
+Czarnieck,Gottorps,Undirected,1
+ckoinina,son,Undirected,1
+Bien,ckoinina,Undirected,1
+Frederik,Frits,Undirected,1
+Frits,Son,Undirected,2
+Hans Rehder,Lange Peters,Undirected,1
+Frits,Lange Peters,Undirected,2
+Lange,Peter,Undirected,1
+Peder Rehder,Sidsel,Undirected,1
+Jeppe,Peder Rehder,Undirected,1
+Gud,Jeppe,Undirected,1
+,Frits,Undirected,3
+Karen,Moer,Undirected,1
+Frits,Karen,Undirected,11
+Husbond,Karen,Undirected,1
+Frits Boisen,Husbond,Undirected,1
+Karen,Lange Peters,Undirected,1
+,Ravn,Undirected,1
+Peter Tetzen,Ravn,Undirected,1
+Frederik,tang,Undirected,1
+Frits,tang,Undirected,1
+Konrad,Vilhelm,Undirected,1
+Claus Ahlefeldt,Jørl,Undirected,1
+Eggebæk,Jørl,Undirected,1
+Eggebæk,Kronhjelm,Undirected,1
+Jens Ravn,Kronhjelm,Undirected,1
+Frits Boisen,mau,Undirected,1
+Frits Boisen,n. mg,Undirected,1
+Frits Boisen,Hans Juhler,Undirected,1
+Frits,Frits Boisen,Undirected,3
+Frits,Lorents Bonefeldt,Undirected,1
+Lorents Bonefeldt,Peder Been,Undirected,1
+Frederik Ottesen,Peder Been,Undirected,1
+Frederik Ottesen,Peter Sønnichsen,Undirected,1
+Peder Been,Peter Sønnichsen,Undirected,1
+Boisen,fnart,Undirected,1
+Jeppe“,Peter Tetzen,Undirected,1
+Frederik Vilhelm,Grev Sparr,Undirected,1
+Grev Sparr,Montecuculi,Undirected,1
+Eberstein,Montecuculi,Undirected,1
+Claus Ahlefeldt,Eberstein,Undirected,3
+Eberstein,Halls,Undirected,1
+Bojvoden,Halls,Undirected,1
+Bojvoden,Fredriksodde,Undirected,1
+Eberstein,Frederik,Undirected,1
+Frederik,Gottorp,Undirected,1
+Gottorp,Wittemaack,Undirected,1
+Eberstein,Grev Sparr,Undirected,1
+Ascheberg,Eberstein,Undirected,1
+Ascheberg,Err,Undirected,1
+Carl Gustav,Err,Undirected,1
+Carl Gustav,Eberstein,Undirected,2
+Christian,Monteeuculi,Undirected,1
+Adolph,Monteeuculi,Undirected,1
+Alexander,Eberstein,Undirected,1
+Alexander,Henrik,Undirected,1
+Henrik,Philip Ludvig,Undirected,1
+Carl Gustav,Philip Ludvig,Undirected,1
+Carl Gustav,Christian Adolph,Undirected,1
+Christian Adolph,Christian Albrecht,Undirected,1
+Bugislav,Carl Gustav,Undirected,1
+Ernst Gynther,Kong Frederik,Undirected,1
+Czarnieck,Eberstein,Undirected,1
+Gottorp,Montecuculi,Undirected,1
+Kielmannseck,Montecuculi,Undirected,1
+Frederik Vilhelm,Thomas Bruun,Undirected,2
+Landstormeu,Peter Sønnichsen,Undirected,1
+Frederik Vilhelm,Peter Sønnichsen,Undirected,1
+Boisen,Frederik Vilhelm,Undirected,1
+Boisen,Frits,Undirected,1
+Frits Boisen,Konrad,Undirected,1
+Frits,Konrad,Undirected,8
+Karen,sigHans,Undirected,1
+Hans Juhler,sigHans,Undirected,1
+Hans Juhler,Karen,Undirected,1
+Ascheberg,Karen,Undirected,1
+Ascheberg,Benner,Undirected,1
+Benner,Frits,Undirected,1
+Frits,ban,Undirected,1
+Frits,Morbroder,Undirected,1
+Morbroder,Thomas Bruun,Undirected,1
+Frits Boisen,Lorents Jessen,Undirected,1
+Frits,Lorents,Undirected,3
+Lorents,Satrup,Undirected,2
+Frits,Satrup,Undirected,2
+Frits,Lorents Jessen,Undirected,1
+Lorents,Lorents Jessen,Undirected,1
+,Lorents,Undirected,1
+,Maren Jesses,Undirected,1
+Frits,hall,Undirected,1
+Lorents,kuli,Undirected,1
+Maren Jesses,kuli,Undirected,1
+Frits,Maren Jesses,Undirected,2
+Egebord,Frits,Undirected,1
+Frits,Thomas Bruun,Undirected,2
+Boisen isfedenfor Lorents,Maren,Undirected,1
+Boisen isfedenfor Lorents,Frits,Undirected,1
+Frederik Vilhelm,Frits,Undirected,1
+Frits Boisen,harr,Undirected,1
+Lorents,Maren Jesses,Undirected,1
+Jørgen,Maren,Undirected,1
+Jørgen,Thomas Bruun,Undirected,1
+Hans Rehder,Thomas Bruun,Undirected,1
+Frits,Jørgen Jørgensen,Undirected,1
+Satrup,harr,Undirected,1
+Pisfoler,Satrup,Undirected,1
+Alen,Frederik Vilhelm,Undirected,1
+Alen,Czarnieck,Undirected,1
+Ranfft,flulde,Undirected,1
+Ranfft,Strozzi,Undirected,1
+Strozzi,Zasfrow,Undirected,1
+Tesson,Zasfrow,Undirected,1
+Golz,Tesson,Undirected,1
+Golz,Golzen,Undirected,1
+Afcheberg,Johan,Undirected,1
+Hr. Rutger,Johan,Undirected,1
+Czarnieck,Passek,Undirected,1
+Anhalts,Ascheberg,Undirected,1
+Anhalts,Frits Boisen,Undirected,1
+Frits Boisen,Nenner,Undirected,1
+Morbroder,Nenner,Undirected,1
+Karen,Konrad,Undirected,1
+Frits,Gjæk,Undirected,1
+Frits,kour,Undirected,1
+Karen,Peter Tetzen,Undirected,1
+Konrad,nil,Undirected,1
+Frits,rænkefuloe,Undirected,1
+Karen,rænkefuloe,Undirected,1
+,Karen,Undirected,1
+Karen,harr,Undirected,1
+Czarnieck,Frits,Undirected,2
+Czarnieck,mille,Undirected,1
+Gud,mille,Undirected,1
+Bien,Frits,Undirected,1
+Ascheberg,Frits,Undirected,3
+Czarnieck,Frits Boisen,Undirected,1
+Admiral Clas Uggla,Ascheberg,Undirected,2
+Ascheberg,Uggla,Undirected,1
+Ascheberg,Flotille,Undirected,1
+Ascheberg,Johan,Undirected,1
+Ascheberg,Karen Rehder,Undirected,1
+Karen,Karen Rehder,Undirected,1
+Jomfru Karen,Ritmesteren,Undirected,1
+Fændrik Kronstedt,Karl,Undirected,1
+Don,Frits,Undirected,1
+Don,Karen,Undirected,1
+Karen,son,Undirected,1
+Gud,son,Undirected,1
+Czarnieck,Karen,Undirected,1
+Czarnieck,son,Undirected,1
+Ascheberg,fnart,Undirected,1
+Frits Boisen,fnart,Undirected,1
+Ascheberg,Frits Boisen,Undirected,1
+Czarnieck,Kong Frederik den tredie,Undirected,1
+Christian Adolph,Eleonore,Undirected,1
+Frederik,Knaudt,Undirected,1
+Bugislav,Cederskjold,Undirected,1
+Cederskjold,Dorthea Hedevig,Undirected,1
+Knaudt,Unaade,Undirected,1
+Obersfeli,Unaade,Undirected,1
+Cederskjold,Obersfeli,Undirected,1
+Christian Albrecht,Frederik,Undirected,1
+Eberstein,Johannes Wittemaack,Undirected,1
+Borgmesterens,XI,Undirected,1

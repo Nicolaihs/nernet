@@ -1,0 +1,1053 @@
+source,target,type,weight
+Bondm,Inga,Undirected,1
+Inga,Karin,Undirected,5
+Inga,Kirstine,Undirected,28
+Gud,Inga,Undirected,8
+Karin,Knud Nielson,Undirected,2
+Knud,Knud Nielson,Undirected,1
+Knud Nielson,Sven Larsson,Undirected,3
+Knud Nielson,raa,Undirected,1
+Ben Jsach,Grev Magnus Brahes,Undirected,1
+Karl,ester,Undirected,1
+Sven Larsfon,ester,Undirected,1
+Sven Larsfon,Torsf,Undirected,1
+Inga,Sven Larsson,Undirected,6
+Grev Magnus Brahes,Inga,Undirected,1
+Fred sfal,Knud Nielson,Undirected,1
+Knud Nielson,lZlr,Undirected,1
+hiin,lZlr,Undirected,1
+Inga,hiin,Undirected,4
+Inga,Karl den,Undirected,1
+Gud,Karl den,Undirected,1
+Grev Magnus Brahe,Gud,Undirected,1
+Grev Magnus Brahe,Gustav Adolphs,Undirected,1
+Feldtmarskalk Gyllenhjelms,Kai Gyllenhjelm,Undirected,1
+Kai Gyllenhjelm,Knud Nielson,Undirected,1
+Knud Nielson,Korporals,Undirected,1
+Inga,Korporals,Undirected,1
+Inga,Steen,Undirected,1
+Knud Nielsen,lee,Undirected,1
+Feltmarskals,Gyllenhjelms,Undirected,1
+Gardies,Gyllenhjelms,Undirected,1
+Gardies,Steen Veirings,Undirected,1
+Ambrosius,Mesfre,Undirected,1
+Steen Veiring,Sven Larsson,Undirected,4
+Steen Beiring,Steen Veiring,Undirected,1
+Ebba,Steen Beiring,Undirected,1
+Ebba,Kong Gustav Adolph kjær,Undirected,2
+Klot,Larsfon,Undirected,1
+Inga,Inga Nielsdatter,Undirected,1
+Ebba Brahe,Gustav Adolph,Undirected,3
+Gustav Adolph,Magnus Brahes,Undirected,1
+,Ebba,Undirected,1
+,Kirstine,Undirected,1
+Grevindeir,Kirstine,Undirected,1
+Grevindeir,Gustav,Undirected,1
+Ebba Brahe,Gustav,Undirected,6
+Brahe,Gud,Undirected,2
+Gud,hend,Undirected,1
+Elsfer,ane,Undirected,1
+Elsfer,Sven Larsson,Undirected,1
+Magnus Brahe,Sven Larsson,Undirected,2
+Magnus Brahe,Veirings,Undirected,1
+Beiring,Inga,Undirected,1
+Gyllemhjelm,Inga,Undirected,1
+Inga,Knud Nielson,Undirected,10
+Knud Nielson,hiin,Undirected,1
+Ebba,Grev Magnus Brahe,Undirected,1
+Gyllenhjelm,Magnus Brahe,Undirected,1
+Knud Nielsen,Sven Larsson,Undirected,1
+Karin,Knud Nielsen,Undirected,2
+Inga,Knud Nielsen,Undirected,2
+Karin,Kirstine,Undirected,1
+Sven Larsson,fransfe,Undirected,1
+Kai,Sven Larsson,Undirected,1
+Gustav Adolph,Kai,Undirected,1
+Gustav Adolph,Inga,Undirected,1
+Gyllenhjelm,Karin,Undirected,1
+Gud,Gyllenhjelm,Undirected,2
+Steil,Sven Larsson,Undirected,1
+Elsfer,Inga,Undirected,3
+Kaptain Gyllenhjelm,Sven Larsson,Undirected,1
+Gustav Adolfs,Roes,Undirected,1
+Gyllenhjelm,Inga,Undirected,7
+Inga,sra,Undirected,1
+lee,sra,Undirected,1
+Kirstine,lee,Undirected,1
+Grevens,Steen Veiring,Undirected,1
+Grevens,Roes,Undirected,1
+Knud Nielson,Steen Veiring,Undirected,2
+Sven Larsson,Svend Larsson,Undirected,1
+Fogden,Sven Larsson,Undirected,3
+Sven Larsson,diir,Undirected,1
+Steen Veiring,vee,Undirected,1
+styrredc,vee,Undirected,1
+sorn,styrredc,Undirected,1
+Steen Veiriug,Sven Larsson,Undirected,2
+Sven,Sven Larsson,Undirected,2
+Fogden,Sven,Undirected,1
+Fogden,Steen,Undirected,1
+Espeløv,Sven,Undirected,1
+Sven,Svend,Undirected,2
+Fogden,Svend,Undirected,1
+Steen Veiring,Sven,Undirected,4
+Brahe,Sven Larsson,Undirected,1
+Brahe,Sven,Undirected,1
+Kai Gyllenhjelm,Sven,Undirected,1
+Kaptain Gyllenhjelm,Spitsbuber,Undirected,1
+Gyllemhjem,Oxenftjerna,Undirected,1
+Gyllemhjem,Stjernborg,Undirected,1
+Rebbing,Stjernborg,Undirected,1
+Leyonhufvud,sire,Undirected,1
+Axel Leyonhufvud,sire,Undirected,1
+Axel Leyonhufvud,Gustav Vasa,Undirected,1
+Gustav Vasa,Margaretha,Undirected,1
+Lejonhufvud,Margaretha,Undirected,1
+Gustav,Lejonhufvud,Undirected,3
+Gustav,Kong Karls,Undirected,1
+Gustav Adolph,Kong Karls,Undirected,1
+Gustav Adolph,Lejonhufvuderncs,Undirected,1
+Lejonhufvuderncs,Magnus Brahe,Undirected,1
+Axel Lejonhufvud,Magnus Brahe,Undirected,2
+Axel Lejonhufvud,ban,Undirected,1
+Magnus Brahe,ban,Undirected,1
+Gustav Adolph,Magnus Brahe,Undirected,2
+Brahe,Gustav Adolph,Undirected,1
+Brahe,Vasa,Undirected,1
+Lejonhufvud,Vasa,Undirected,2
+Lejonhufvud,trygle,Undirected,1
+Feltmarfchal Gyllemhjelm,trygle,Undirected,1
+Feltmarfchal Gyllemhjelm,Kaptain Kai Gvllenhjelm,Undirected,1
+Kaptain Kai Gvllenhjelm,sra et,Undirected,1
+Gustav Adolph,Johan,Undirected,4
+Lejonhufvud,Sigismund,Undirected,1
+Kong Johan den Tredies,Sigismund,Undirected,1
+Karl,Kong Johan den Tredies,Undirected,1
+Greve,Karl,Undirected,1
+Greve,Gustav,Undirected,1
+Gustav,Haardhed,Undirected,1
+Axel Lejonhufvud,Johan,Undirected,3
+Axel Lejonhufvud,Kai Gyllenhjelm,Undirected,2
+Kai Gyllenhjelm,idethan,Undirected,1
+Ntand,idethan,Undirected,1
+Jesus,Steen Veiring,Undirected,1
+Jesus,Kristus,Undirected,1
+Kristus,Sven Larsson,Undirected,1
+Steen Veiring,Svend,Undirected,1
+Gud,Sven,Undirected,1
+Gustav Adolf,Sigismund,Undirected,2
+Sigismund,Svend,Undirected,1
+Karl,Magnus Brahe,Undirected,2
+Karl,Sven Larson,Undirected,1
+Steen Veiring,Sven Larson,Undirected,1
+Inga,hnn,Undirected,1
+Halfen,hnn,Undirected,2
+Knud Nielson,ivare,Undirected,1
+Knud Nielson,visf,Undirected,1
+Sven Larsson,visf,Undirected,1
+Keiser Karl den Femtes,Kong Ferdinand,Undirected,1
+Ebba,Grev Brahe,Undirected,1
+Ebba,Oluf Staalarm,Undirected,1
+Ester,Israel Levithian,Undirected,1
+Israel,Moses,Undirected,1
+Israel,Levithian,Undirected,1
+Jakob Levithian,Jakobs,Undirected,1
+Gud,Pateren,Undirected,1
+Gud,Sigismund,Undirected,1
+Passevino,Sigismund,Undirected,1
+Kong Johan den Tredies,Passevino,Undirected,1
+Gregor XIII,Kong Johan den Tredies,Undirected,1
+Gregor XIII,Keiser Maximilian,Undirected,1
+,Keiser Maximilian,Undirected,1
+,Kong Johans,Undirected,1
+Kong Johans,Sigismund,Undirected,1
+Karl,Sigismund,Undirected,8
+Sigismund,Wladislav,Undirected,1
+Karl,Prinds Wladislav,Undirected,1
+Sigismund,berøvcdes,Undirected,1
+Sigisinnnds,berøvcdes,Undirected,1
+Karl,Kong Karl den Niende,Undirected,1
+Kong Karl den Niende,Kong Sigismund,Undirected,1
+Gud,Kong Sigismund,Undirected,1
+Gud,Gustav Adolph,Undirected,3
+Gud,Johan,Undirected,1
+Sigismund,Staalarm,Undirected,3
+Ikkun Karls,Sigismund,Undirected,1
+Gustav Banners,Ikkun Karls,Undirected,1
+Erik Sparres,Gustav Banners,Undirected,1
+Erik Sparres,Sten Banners,Undirected,1
+Kong Karl,Øreng,Undirected,1
+Benedictus,Øreng,Undirected,1
+Benedictus,Gustav Adolph,Undirected,1
+Pater,Staalarm,Undirected,1
+Staalarm,moros,Undirected,1
+chan,moros,Undirected,1
+Villie,chan,Undirected,1
+Axel,Villie,Undirected,1
+Anselmo,Kong Gustav Adolph,Undirected,1
+Bariatenzsky,Johan,Undirected,1
+Johan,Svante Nielson Stures,Undirected,1
+Johan,Karl,Undirected,1
+Gustav Adolph,Marie,Undirected,1
+Johan,Marie,Undirected,4
+Bariatinzsky,Marie,Undirected,1
+Kirstine,Pateren,Undirected,1
+Gustav Adolph,Kirstine,Undirected,1
+Ebba Brahc,Gustav Adolph,Undirected,1
+Ebba Brahc,Kirstine,Undirected,1
+Kirstine,Marven,Undirected,1
+Kong Sigismund,Marven,Undirected,1
+Kong Sigismund,Pateren,Undirected,1
+Inga,jø,Undirected,1
+Inga,Pater Pietro Anselmo,Undirected,1
+Franst,Inga,Undirected,1
+Franst,Kai,Undirected,1
+Inga,Kai,Undirected,1
+Inga,Knud,Undirected,1
+Karin,Knud,Undirected,1
+Ambrosius Klot,Peter Klot,Undirected,3
+Inga Nielson,Kaptain Kai Gyllenhjelm,Undirected,2
+Inga,Kai Gyllenhjelm,Undirected,6
+Kai Gyllenhjelm,Monsiur de Guiskarde,Undirected,1
+Axel Lejonhufvud,Monsiur de Guiskarde,Undirected,1
+Lejonhufvud,Magnus Brahe,Undirected,1
+Gustav Adolph,Svend,Undirected,1
+Gustav Bafa,Svend,Undirected,1
+Gustav Adolph,Monsiur,Undirected,1
+Guiscardc,Monsiur,Undirected,1
+Erik den,Gustav Adolph,Undirected,1
+Erik den,Gustav Vasa,Undirected,1
+Gustav Vasa,Johan,Undirected,1
+Johan,Sigismund,Undirected,1
+Karl den,Sigismund,Undirected,1
+Gustav Adolph,Karl den,Undirected,1
+Gustav Adolph,Sigismund,Undirected,1
+Monsiur Robert de Guiscarde,Sigismund,Undirected,1
+Monsiur Robert de Guiscarde,Odins,Undirected,1
+Gusfav,Kong Karl den Niende,Undirected,1
+Gusfav,Kristian,Undirected,1
+Gusfav Adolph,Kristian,Undirected,1
+Gud,Gusfav Adolph,Undirected,1
+Gud,Thor,Undirected,1
+Karlen,Thor,Undirected,1
+Karlen,Kong Kristian,Undirected,1
+Kong Kristian,hiin,Undirected,1
+Gustav Adolph,hiin,Undirected,2
+Gustav Adolph,Krisfianopel,Undirected,1
+Gustav,Peter Baner,Undirected,1
+Gud,Peter Baner,Undirected,1
+Gustav,Kabeljau,Undirected,1
+Gud,Gustav,Undirected,4
+Kaptain Kai Gyllenhjem,Magnus Brahe,Undirected,1
+Johan,Magnus Brahe,Undirected,1
+Ebba Brahe,Grev Magnns Brahe,Undirected,1
+Ebba,Ebba Brahe,Undirected,8
+Ebba,Gustav Adolph,Undirected,6
+Gustav Adolph,Karl Filip,Undirected,1
+Karl Filip,Keiser,Undirected,1
+Keiser,sorkastct,Undirected,1
+Ebba,sorkastct,Undirected,1
+Ebba,Kristine,Undirected,4
+Ebba,Grev Magnns Brahe,Undirected,1
+Grev Magnns Brahe,Gustav,Undirected,1
+Ebba Brahe,Eddas,Undirected,1
+Birgitte Lejonhufvuds,Magnus Brahe,Undirected,1
+Ebba Brahe,Pludseligl,Undirected,1
+Ebba,Gustav,Undirected,15
+Birgitta Lejonhufvud,Kirstine,Undirected,1
+Ebba,Kirstine,Undirected,4
+Gud,Kirstine,Undirected,2
+Jspusf,Kirstine,Undirected,1
+Karl,Kirstine,Undirected,1
+Gustav Vasa,Stamfaders,Undirected,1
+Brahe,Gustav Vasa,Undirected,1
+Gustav Vasa,Margaretha Lejonhufvud,Undirected,1
+Katharina Steenbock,Margaretha Lejonhufvud,Undirected,1
+Katharina Steenbock,boer,Undirected,1
+Eriks,boer,Undirected,1
+Eriks,Katharina Mons,Undirected,1
+Katharina Mons,Korporals,Undirected,1
+Gustav Vasa,Korporals,Undirected,1
+Gustav Vasa,Kong Johan,Undirected,1
+Johan,Kong Johan,Undirected,1
+Gunila Bjelke,Johan,Undirected,1
+Ebba.,Gunila Bjelke,Undirected,1
+aa,fig,Undirected,1
+Grev Magnus Brahe,Klaes Stjernhøk,Undirected,1
+Gustav Adolph,Klaes Stjernhøk,Undirected,1
+Grev Lejonhufvud,Gud,Undirected,1
+Gud,Kong Sigismnnds,Undirected,1
+Axel Lejonhufvud,Sten Lejonhufvud,Undirected,1
+Gud,Sten Lejonhufvud,Undirected,1
+Iohan,MagnuS Brahe,Undirected,1
+Birgitta Lejonhufvud,Brahe,Undirected,1
+Birgitta Lejonhufvud,Ebba Brahe,Undirected,1
+Lejonhufvud,nicd,Undirected,1
+fpild,nicd,Undirected,1
+Oxenstjerna,Prinds Johan,Undirected,1
+Brahe,Oxenstjerna,Undirected,1
+Brahe,Ebba Brahe,Undirected,1
+Inga,Inga Nielson,Undirected,3
+Inga,Johan,Undirected,1
+Abrahams,Jehova,Undirected,1
+De la Gardie,Sigismund,Undirected,1
+Ambrosius,Gud,Undirected,1
+Ambrosius,Svend,Undirected,1
+Io høie,Peter Klot,Undirected,1
+Peter Klot,Sigfried Klot,Undirected,1
+Karin Abelsdatter,Sigfried Klot,Undirected,1
+Ambrosius,Brahe,Undirected,1
+Gars,Kaptain Gars,Undirected,1
+Gars,Peter Klot,Undirected,1
+Hiin sfjønne,Inga Nielson,Undirected,1
+Ambrosius,Inga,Undirected,8
+Ambrosius,Grev Brahes Landflot,Undirected,1
+Grev Brahes Landflot,Knud Nielson,Undirected,1
+Inga,Maasfee,Undirected,1
+Herlug Karl Filip,Keiser,Undirected,1
+Keiser,de la Gardie,Undirected,1
+Ambrosins,Inga Nielson,Undirected,2
+Inga,Peter Klot,Undirected,9
+Ambrosius,Peter Klot,Undirected,3
+Gud,Kaptain Gars,Undirected,1
+Ambrosius,Ester,Undirected,1
+Peter Klot,rasft,Undirected,1
+Peter Klot,rasf,Undirected,1
+Kaptain Gars,Klot,Undirected,1
+Gars,Kyrasseeroberst,Undirected,1
+Mesfer Peter Klot,hiin,Undirected,1
+Mester Klat,Mesteren,Undirected,1
+Gud,Mester Klat,Undirected,1
+Kyrasseeroberften,Lakaier,Undirected,1
+Gars,Kyrasseeroberften,Undirected,1
+Guldlaas,Kaarde,Undirected,1
+Nn,Peter Klot,Undirected,1
+Ambrosius,Kristine,Undirected,2
+Gustav,Pontius de la Gardic,Undirected,1
+Oxenstjerna,Portius,Undirected,1
+Jakob de la Gardie,Portius,Undirected,1
+Ebba Brahe,tydsf,Undirected,1
+Ebba,tydsf,Undirected,1
+Gustav,Sigismund,Undirected,1
+Ebba Brahe,Sigismund,Undirected,1
+Ebba,Sigismund,Undirected,1
+Herkules,Perseus,Undirected,1
+Akritlets,Perseus,Undirected,1
+Akritlets,Sigismund,Undirected,1
+Karl Filip,Sigismund,Undirected,1
+Gustav,Karl Filip,Undirected,1
+Brahe,Ebba,Undirected,4
+Ambrosins,Peter Klot,Undirected,1
+Inga,Robert de Guiscardo,Undirected,1
+Ambrosius,Inga Nielson,Undirected,1
+Ambrosius Peterson Klot,Elsfer,Undirected,1
+,Ambrosius,Undirected,3
+,Pantominer,Undirected,1
+Inga,Pantominer,Undirected,1
+Inga,Yngling,Undirected,1
+Ebba,Guiscardo,Undirected,1
+Inga,Kirstine Kongens,Undirected,1
+Ebba Brahe,Kristine,Undirected,5
+Gustav,Roes,Undirected,1
+Gustav Adolph,rene Engel,Undirected,1
+Gustav Adolph,Kristine,Undirected,1
+Ebba,Magnus Brahe,Undirected,1
+Karl,Sødermanlands,Undirected,1
+Brahe,Sødermanlands,Undirected,1
+Brahe,hiin,Undirected,1
+Kristine,hiin,Undirected,1
+Brahe,Kristine,Undirected,1
+Brahe,Brahernes,Undirected,3
+Gustav,Ribbing,Undirected,1
+Kristine,Sigismund,Undirected,2
+Hvo,Sigismund,Undirected,1
+Hvo,Kristine,Undirected,2
+Kong Karl,Kristine,Undirected,1
+Gustav,Kong Karl,Undirected,1
+Gustav,Karl,Undirected,1
+Ebba,Karl,Undirected,1
+Birgitta,Ebba,Undirected,1
+Birgitta,Gustav,Undirected,1
+Gustav Adolph,Heinrich,Undirected,1
+Gustav,Heinrich,Undirected,1
+Karl den,sor,Undirected,1
+Gustav,Karl den,Undirected,1
+Axel Oxenstjerna,Gustav Adolph,Undirected,2
+Axel Oxenstjerna,Johan Skytte,Undirected,1
+Gustav,Johan Skytte,Undirected,1
+Gustav,Kong Johan,Undirected,1
+Karl,Kong Johan,Undirected,1
+Karl,Skyttes,Undirected,1
+,Ramas,Undirected,1
+,Petnes Ramus,Undirected,1
+Axel Oxenstjerna,Gyllenborg,Undirected,1
+Axel Oxenstjerna,fhi,Undirected,2
+Oxenstjerna,fhi,Undirected,2
+Axel Oxenstjerna,Magnus Brahe,Undirected,2
+Kong n,Magnus Brahe,Undirected,1
+Brahe,Magnus Brahe,Undirected,3
+Ko,egens,Undirected,1
+Gustav Adolph,egens,Undirected,1
+Ebba Brahe,Inga Nielson,Undirected,1
+Inga Nielson,Peter Klot,Undirected,1
+Ebba Brahe,Peter Klot,Undirected,7
+Ebba Brahe,Inga,Undirected,8
+Ambrosius,Gustav,Undirected,1
+Guiscardo,Magnus Brahe,Undirected,1
+Ebba,Roes,Undirected,1
+Gustav Adolph,Roes,Undirected,1
+Gustav,Gustav Adolph,Undirected,3
+Ebba,Inga,Undirected,14
+Ebba,Grevinde Brahe,Undirected,1
+Gustav,hend,Undirected,1
+Elsfede,Gud,Undirected,1
+Johan,Juul,Undirected,1
+Gustav Adolph,Kong Sigismund,Undirected,1
+Kong Sigismund,Pietro Amselmo,Undirected,1
+Guiscardo,Pietro Amselmo,Undirected,2
+Amor,Lodoiflas,Undirected,1
+Amor,Lodoiska Bariatinzky,Undirected,1
+Gustav Adolph,Lodoiska Bariatinzky,Undirected,1
+Sigismund,jEders,Undirected,1
+Franst,Jacques,Undirected,1
+Gustav Adolph,Hr. Van der Neer,Undirected,1
+Hr. Van der Neer,Magaretha,Undirected,1
+Gud,slal,Undirected,1
+Knud Nielson,slal,Undirected,1
+hnn,sæerdeles,Undirected,1
+Ebba af,Johan,Undirected,1
+Robert de GuiScardo,Van der Neer,Undirected,1
+Pral,Van der Neer,Undirected,1
+Pral,nn,Undirected,1
+Johan,nn,Undirected,1
+Descipels,Magaretha,Undirected,1
+Hr. Van der Neer,Van,Undirected,1
+Jesuit,ester,Undirected,1
+Jesuit,Magaretha,Undirected,1
+Magaretha,Ri bert de Guiscardo,Undirected,1
+Magaretha Van der,Ri bert de Guiscardo,Undirected,1
+Guiscardo,Magaretha Van der,Undirected,1
+Marias,Van der Neer,Undirected,1
+Johan,Maria,Undirected,2
+Gud,Magaretha,Undirected,2
+Magarctha,Van der Neer,Undirected,1
+Israel Levithian,Van der Neer,Undirected,1
+Robert de Guiscards,b,Undirected,1
+Robert de Guiscards,Van der Neer,Undirected,1
+Lodoiska,Van der Neer,Undirected,1
+Guiscardo den,Magaretha,Undirected,1
+Lodoiska,Pater Pietro Amselmo,Undirected,1
+Lodoiska,Paven,Undirected,1
+Lodoiska,LodøiskaBariatinsky,Undirected,1
+Grev Lejonhufvud,Steen Lejonhusvud,Undirected,1
+Kong Gustav Adolph,Steen Lejonhusvud,Undirected,1
+Sigismund,Steen Lejonhufvud,Undirected,1
+Grev Lejonhufvud,Gustav Adolph,Undirected,1
+Johan,Vilkaar,Undirected,1
+Johan,Paven,Undirected,1
+Johan,Pater,Undirected,1
+Ambrosius,Johan,Undirected,1
+Ambrosius,hall,Undirected,1
+Jacques,Knnd Nielson,Undirected,1
+Jacques,Robert de Guiscardo,Undirected,1
+Nei,Robert Guiscardo,Undirected,1
+Johan,Kirstine,Undirected,1
+Kirstine,Magaretha,Undirected,1
+Johan,Magaretha,Undirected,1
+Johan,brufale,Undirected,1
+Gustav,Van der Neer,Undirected,2
+Oxenstjerna,Van der Neer,Undirected,1
+Kristine,Oxenstjerna,Undirected,1
+Magaretha,Van der Neer,Undirected,1
+Robert de Guiscardo,Van der Neer,Undirected,1
+Johan,rasf,Undirected,1
+Ebba Brahe,Rosenholms,Undirected,1
+Hnn,Inga Nielson,Undirected,1
+Gustav,gjensecs,Undirected,1
+Ebba,gjensecs,Undirected,1
+Kristine,Magnus Brahe,Undirected,1
+E. A. B.,Gud,Undirected,1
+Brahe,Gustav,Undirected,2
+Ebba skjælmsk,oders,Undirected,1
+Ambrosius Klot,Inga,Undirected,2
+Ebba,skjælmsk,Undirected,1
+hnn,sfal,Undirected,1
+Gustav,Krisfine,Undirected,1
+Gustav,Kristine,Undirected,1
+Birgitta Lejonhufvud,Magnus Brahe,Undirected,1
+Gyllenhjelm,fig,Undirected,1
+Inga,Kirsfine,Undirected,14
+EbbaS,Inga,Undirected,1
+Dands,Elverhøi,Undirected,1
+Axel Thot Brahe,Klaes,Undirected,1
+Klaes,Thurescn,Undirected,1
+Thomas af,Thurescn,Undirected,1
+Thomas af,pan,Undirected,1
+Jøsse Bengtson,Karl,Undirected,1
+Jøsse,soni,Undirected,1
+Jøsse Bengtson,gansfe,Undirected,1
+Kirsfine,Robert de Guiscardo,Undirected,1
+Guiscardo dreiede,Robert äo,Undirected,1
+Kirstine,Lodoiska Bariatinzky,Undirected,1
+Ebba,sfal,Undirected,1
+Gemakkel,Inga,Undirected,1
+Ebba,Elfson,Undirected,1
+Elfson,Inga,Undirected,1
+Kirstine,Olaf Stevenius,Undirected,1
+Erik Sjøberg,Famulus,Undirected,1
+Erik Ssøberg,Inga,Undirected,1
+Erik Sjöberg,Kirsfine,Undirected,1
+Erik Sjöberg,Peter Klot,Undirected,1
+Inga,Pelargus Svetonius,Undirected,1
+Guiscardo,Robert äo,Undirected,4
+Ebba,Inga eu Kjæde,Undirected,1
+Inga eu Kjæde,Kirstine,Undirected,1
+Guiscardo,Robert äs,Undirected,12
+Guiscardo,Kirsfine,Undirected,1
+Kirsfine,Knut Elsson,Undirected,1
+Dronning Kristines,Pater,Undirected,1
+Dronning Kristines,Magnus,Undirected,1
+Brahe-,Magnus,Undirected,1
+Pater Pietro Amselmo,slak,Undirected,1
+Pater,Pater Pietro Amselmo,Undirected,1
+Johan as Østergothland,Pater,Undirected,1
+Zigeuner,Zigeuneren,Undirected,1
+Johan,paany,Undirected,1
+Glgcrs,Møllers,Undirected,1
+Glgcrs,dandse,Undirected,1
+Kaalorm,Masfen,Undirected,1
+Pateren,Zigeuneren,Undirected,1
+Alexander den Store,Gordium,Undirected,1
+Jaques,Lodoiska,Undirected,1
+Jaques,Zigeuneren,Undirected,1
+Lodciska,Zigeuneren,Undirected,1
+Lodciska,Pietro Anselmo,Undirected,1
+Jaques,Pietro Anselmo,Undirected,1
+Jacques,Robert äs,Undirected,1
+Gritti,Ran,Undirected,4
+Robert,Zigeuneren,Undirected,1
+Guiscardo,Robert,Undirected,2
+Guiscardo,Ran,Undirected,1
+Jacques,Ran,Undirected,3
+Ran,Zigeuneren,Undirected,2
+Jacques,Zigeuneren,Undirected,2
+Lodoiska Variatinzky,Zigeuneren,Undirected,1
+Lodoiska Variatinzky,katholfl,Undirected,1
+Johan,katholfl,Undirected,1
+Jacques,Pater Anselmo,Undirected,1
+Lodoiska Bariatinzky,Polakindcn,Undirected,1
+Polakindcn,sorfærdiger,Undirected,1
+Zigeuneren,fhi,Undirected,1
+Pateren,fhi,Undirected,1
+Karl den Tiende,äs,Undirected,1
+Guiscardo,äs,Undirected,1
+Gud,huu,Undirected,1
+Katharina,Kong Karl den Tiende,Undirected,1
+Katharina,Medicis,Undirected,1
+Brahe,Pelargus Svetonius,Undirected,1
+Brahe,Kong Johan,Undirected,1
+Christi,Gud,Undirected,1
+Brahe,Steen Veiring,Undirected,1
+Kirstine,Knud Veiring,Undirected,1
+Knud,ester,Undirected,1
+Greven,Steen Veiring,Undirected,4
+Ebba Brahe,Lodoiska,Undirected,1
+Inga,Lodoiska,Undirected,1
+Kirstine,hiin,Undirected,1
+Ebba Brahe,hiin,Undirected,1
+Inga,Mesteren,Undirected,1
+Inga,fro,Undirected,1
+Inga,Ordch,Undirected,1
+Jacques,Jacqurs,Undirected,1
+Magnus Brahe,Zigeuneren,Undirected,1
+Ebba Brahes Portrait,Magnus Brahe,Undirected,1
+Lodoiska,Zigeuneren,Undirected,3
+Hallunk,Jacques,Undirected,1
+Knud Nielson,Magnus Brahe,Undirected,1
+Elsfede,Lodoiska Bariatinzky,Undirected,1
+Gritti,Lodoiska Bariatinzky,Undirected,1
+Lodoiska Bariatinzky,hnn,Undirected,1
+Zigeuner,hnn,Undirected,1
+Johan,Zigeuneren,Undirected,1
+Grevinden,Zigeuneren,Undirected,1
+Zigeuneren,fom Pater Pietro Anselmo,Undirected,1
+Gritti,Lodoiska,Undirected,5
+Grev Brahe,Gritti,Undirected,1
+Jacques,Sten Veiring,Undirected,1
+Inga,Mesfer,Undirected,1
+Inga Nielson,Mesfer,Undirected,1
+Gud,Inga Nielson,Undirected,1
+Gud,cndun,Undirected,1
+Johan,Lodoiska,Undirected,2
+Husf,Lodoiska,Undirected,1
+Johan,Pater Pietro Anselmo,Undirected,1
+Gritti,Zigeuneren,Undirected,4
+Kong Sigismund,Sigismund,Undirected,1
+Gustav,oz,Undirected,1
+oz,van der Neer,Undirected,1
+hnn,hust,Undirected,1
+Dian,Gustav,Undirected,1
+Bachus,Danae,Undirected,1
+Bachus,Daphene,Undirected,1
+Margaretha,Miu Gunst,Undirected,1
+Dronning Kristines,Margaretha,Undirected,1
+Brit Hjerte,Margaretha van der,Undirected,1
+Asfe,Ebba,Undirected,1
+Margaretha,Ursula,Undirected,13
+Plcicfader,Ursula,Undirected,1
+Margaretha,Plcicfader,Undirected,1
+Ursula,susfe,Undirected,1
+Margaretha,elsfer,Undirected,1
+Margaretha,elffe,Undirected,2
+Ursula,elffe,Undirected,1
+Ebba Brahe,Ursula,Undirected,1
+Beviis,Z,Undirected,1
+Ever,Margaretha,Undirected,1
+Ebba,ftal,Undirected,1
+Søsfer,ftal,Undirected,1
+Ebba,Margaretha,Undirected,15
+Alexander,Margaretha,Undirected,1
+Ebba,Ebbe,Undirected,1
+Ebba,hiin,Undirected,1
+Gud,Margaretha,Undirected,1
+Gustav Adolph,Margaretha,Undirected,1
+Margaretha,jcg,Undirected,1
+Margaretha,asbrød,Undirected,1
+Hertngen,Margaretha,Undirected,1
+Margaretha,falsfe,Undirected,1
+Gustav,Margaretha,Undirected,7
+Margaretha,ester Margarethas,Undirected,1
+Gustav,ester Margarethas,Undirected,1
+Jntriguens,Margaretha,Undirected,1
+Herfugen,Jntriguens,Undirected,1
+Herfugen,Margaretha,Undirected,1
+Lisinsky,hiin Leverandeur,Undirected,1
+Jacob la Gardie,Lisinsky,Undirected,2
+Brahe,Lisinsky,Undirected,2
+Lisinfly,Lisinsky,Undirected,1
+Lisinsky,Margaretha,Undirected,1
+Margaretha,fil Ebba Brahe,Undirected,1
+Ebba,fil Ebba Brahe,Undirected,1
+Lisinsly,Margaretha,Undirected,1
+Erik,Margaretha,Undirected,1
+Lisinsky,rasf,Undirected,1
+Gustav,Lisinsky,Undirected,1
+Gustav,Gyllenhjelm,Undirected,1
+,Margaretha,Undirected,1
+Ebba Brahe,nei,Undirected,1
+Margaretha,van der Neer,Undirected,1
+Cæsar,Jacob äs,Undirected,1
+Greven,Gud,Undirected,1
+Gud,Luthers,Undirected,1
+Lejonhufvud,Seiren,Undirected,1
+Grev Bernhard,Seiren,Undirected,1
+Bertelskjold,Grev Bernhard,Undirected,1
+Gustav,Seir,Undirected,1
+Magnus Brahe,Sven Larson,Undirected,1
+Jesus,Kristi,Undirected,1
+Gardie,Sven Larsson,Undirected,2
+Gud,Jesus Kristus,Undirected,1
+Sven Larson,Sven Larsson,Undirected,1
+Inga Nielson,Sven Larsson,Undirected,1
+Sven Larsson,fhun,Undirected,1
+Ebba Brahe,fhun,Undirected,1
+Sven Larsson,Svens Affairer,Undirected,1
+Svens Affairer,sulgle,Undirected,1
+ester,sulgle,Undirected,1
+Kaptain,Kaptain Gyllenhjelm,Undirected,1
+Guiscardo,Inga,Undirected,2
+Inga,Steen Lejonhufvud,Undirected,1
+Inga,Lisinsky,Undirected,1
+Guiscardo,Lisinsky,Undirected,1
+Gustav,Inga Nielson,Undirected,1
+Inga Nielson,Lisinsky,Undirected,3
+Lisinsky,Robert äs,Undirected,1
+Gyllenhjelm,Levcrandeurcn,Undirected,1
+Gyllenhjelm,Lisinsky,Undirected,2
+Kai Gyllenhjelm,Kong Sigismund,Undirected,1
+Kong Gustav Adolfs,Kong Sigismund,Undirected,2
+Ebba Brahe,Margaretha,Undirected,1
+Ebba Brahe,Grev Magnus Brahe,Undirected,1
+Ester,Tøi,Undirected,1
+Ebba,elsfede,Undirected,1
+Jacob äs,Pontus cis In Gardie,Undirected,1
+Lauenborgs,Pontus äs la Gardie,Undirected,1
+Kristine,Taffels,Undirected,1
+Ebba,Karl den Niendes,Undirected,1
+Kristine,Margaretha van der Neer,Undirected,1
+Karl Phillip,Sødermanlands,Undirected,1
+Ebba,Erik Bjørnsdal,Undirected,4
+Ebba,Per »,Undirected,1
+Ebba,Gud,Undirected,1
+Carl Phillip,Karl Phillip,Undirected,1
+Carl Phillip,Ebba,Undirected,1
+Ebba Brahe,Elsfede,Undirected,2
+Ebba,Peter Klot,Undirected,1
+Greve,Inga Nielson,Undirected,1
+Ambrosius Klot,Inga Nielson,Undirected,1
+Ambrosius Klot,Greven,Undirected,1
+Inga,Steen Weiring,Undirected,1
+Inga Nielson,Robert de Guiscardo,Undirected,1
+Knud Nielson,Robert de Guiscardo,Undirected,1
+Greven,Officeer,Undirected,1
+Carl Philips,Ebba Brahe,Undirected,1
+Ebba Brahe,Margaretha van der,Undirected,1
+Ebba Brahe,Overoei,Undirected,1
+Overoei,Sverigs,Undirected,1
+Ebba Brahe,Sverigs,Undirected,1
+Ebba Brahe,fro,Undirected,1
+Ebba Brahe,Erik Bjørnsdal,Undirected,1
+Carl,hvidsfede,Undirected,1
+Carl,Ebba,Undirected,1
+Ebba,tysfe Baron,Undirected,1
+Ebba Brahe,Margaretha van der Neer,Undirected,1
+Inga,Kristine,Undirected,1
+Inga,Sven Larson,Undirected,1
+Inga,Sten Veiring,Undirected,1
+Greve,Sten Veiring,Undirected,1
+Inga,hiin Guldsmed,Undirected,1
+Benjamin,Isak,Undirected,3
+Isak,Sven Larson,Undirected,1
+Isak,Karin,Undirected,1
+Benjamin,Robert äs,Undirected,1
+Guiscarda,Robert äs,Undirected,1
+Benjamin,Karin,Undirected,1
+Ebba Brahe,Kirstine,Undirected,1
+Ebba Brahe,Oxenstjerna,Undirected,2
+Knud Nielson,Oxenstjerna,Undirected,1
+Kaptain Kai Gyllcnhjclms,Pelargus Svctonius,Undirected,1
+Inga,Kaptain Kai Gyllcnhjclms,Undirected,1
+Inga,Oxenstjerna,Undirected,1
+Ambrosius Klot,Kantslercns,Undirected,1
+Ambrosius Klot,Peter,Undirected,1
+Pelargus,Peter,Undirected,1
+Oxenstjerna,Pelargus,Undirected,1
+Oxenstjerna,Peter Klot,Undirected,2
+Inga,Kaptain Kai zGyllenhjelms,Undirected,1
+Kants,Knud Nielson,Undirected,1
+Gyllenhjelm,Kants,Undirected,1
+Gyllenhjelm,Peter Klot,Undirected,5
+Inga,Kirstine jikke,Undirected,1
+Knud Nielson,Peter Klot,Undirected,1
+Gyllenhjelm,Kapitains,Undirected,1
+Haabets,Peter Klot,Undirected,1
+Kapitain Gyllenhjelm,Sverr g,Undirected,1
+Gyllenhjelm,Kirstine,Undirected,3
+Inga,fasf,Undirected,1
+Anker,fasf,Undirected,1
+Benjamin,Knud Nielson,Undirected,1
+Johan,fransf Manufakturist,Undirected,1
+Johan,Robert äs,Undirected,2
+Guiscardo,Johan,Undirected,1
+Johan,Peter Klot,Undirected,1
+Edow,Gardie,Undirected,1
+Edow,Michael Romanow,Undirected,1
+Michael Romanow,Moskau,Undirected,1
+Monarks,Moskau,Undirected,1
+Carl Phillip,Gustav,Undirected,1
+Gustav,Karl Phillip,Undirected,1
+Kaptain Gyllenhjelm,Peter Klot,Undirected,2
+Gusfav,Peter Klat,Undirected,1
+Gyllenhjelm,Kaptain Gyllenhjelm,Undirected,2
+Gyllenhjelm,hjelm,Undirected,1
+Kong Gustavs,Robert äs,Undirected,1
+Guiskardo,Robert äs,Undirected,1
+Brahe,Guiskardo,Undirected,1
+Lisinsky,Robert,Undirected,1
+Gmscardos,Robert,Undirected,1
+Edow,Gmscardos,Undirected,1
+Peter Klot,Sven Larson,Undirected,2
+Kristi,la Gardie,Undirected,1
+Kapitain Kai Gyllenhjelms,Peter Klot,Undirected,1
+Kapitain Kai Gyllenhjelms,Robert äs,Undirected,1
+Guiscardo,Peter Klot,Undirected,1
+Kapitain Gyllenhjelm,Peter Klot,Undirected,1
+Kapitain,Peter Klot,Undirected,1
+Avdients,Peter Klot,Undirected,1
+Margaretha,Sopha,Undirected,1
+Gud,Oxenstjerna,Undirected,2
+Gustav Adolph,Peter Klot,Undirected,1
+Peter,Peter Klot,Undirected,1
+Magaretha,Peter Klot,Undirected,2
+Peter Klot,j,Undirected,1
+Ilmanso,Magaretha,Undirected,1
+Peter Klot,van der Necrs,Undirected,1
+Magaretha van der Neer,Peter Klot,Undirected,2
+Ebba Brahe,Roes,Undirected,1
+Gustav,Magaretha,Undirected,1
+Gustav Adolph,Sopha,Undirected,1
+Peter Klot,Sopha,Undirected,1
+Oxenstjerna,Pontius,Undirected,1
+Pontius,äs,Undirected,1
+Ebba Brahe,äs,Undirected,1
+Ebba Brahe,Pontius,Undirected,1
+Pontius,äs 1a,Undirected,1
+Jakob äs,äs 1a,Undirected,1
+Ebba Brahe,Jakob äs,Undirected,2
+Jakob äs,la Gardie,Undirected,1
+Gustav Adolph,Oxenstjerna,Undirected,2
+Jakob äs,Oxenstjerna,Undirected,1
+Gardie Leiren,Jakob äs,Undirected,1
+Evert Horn,Jakob äs,Undirected,1
+Gardie,Jakob äs,Undirected,3
+Gardie,Keiser,Undirected,1
+Ebba,Kaptain Kai Gyllenhjelm,Undirected,1
+Kaptain Gyllenhjelm,Mars,Undirected,1
+Magaretha,Venus,Undirected,1
+Magaretha,Margretha,Undirected,1
+Magaretha van,Margretha,Undirected,1
+Magaretha,Magaretha van,Undirected,1
+Ebba Brahc,hnn,Undirected,1
+Christine,Ebba,Undirected,1
+Ebba,steeg,Undirected,1
+Peter Klot,steeg,Undirected,1
+Magaretha van der,Peter Klot,Undirected,1
+Kaptain Gyllenhjelm,Magaretha van der,Undirected,1
+Carl Phillip,Ebba Brahe,Undirected,1
+Chrisfine,Ebba Brahe,Undirected,1
+Christine,Greven,Undirected,1
+Christine,ester,Undirected,1
+Christine,Jakob äs,Undirected,1
+Christine,Ebba Brahe,Undirected,2
+Christine,Magnus Brahe,Undirected,1
+Brahe,Christine,Undirected,1
+Gardie,Gustav Adolph,Undirected,1
+Gustav Adolph,Pelargus,Undirected,1
+Ebba,Præsfen,Undirected,1
+Ebba,Gardie,Undirected,2
+Gud,Jakob äs,Undirected,1
+Jakob äs,reeb,Undirected,1
+reeb,voxe,Undirected,1
+Ebba Brahe,voxe,Undirected,1
+Munnicks,andtt,Undirected,1
+Phillip,andtt,Undirected,1
+Erik Bjørnsdal,Phillip,Undirected,1
+Dronning Christines,Erik Bjørnsdal,Undirected,1
+Inga Nielson hiin,Jøran,Undirected,1
+Inga,Zigeuneren Gritti,Undirected,2
+Inga Nielson,Zigeuneren Gritti,Undirected,1
+Inga Nielson,Lodviska,Undirected,1
+Inga,Lodviska,Undirected,1
+Steen Veiring,Zigenneren,Undirected,1
+Guiscardo,Zigeuneren,Undirected,1
+Inga,Zigeuneren,Undirected,9
+Zigeuneren,vexelviis,Undirected,1
+Kirstine,Zigeuneren,Undirected,1
+Eeg,Inga,Undirected,1
+Eeg,Zigeuneren,Undirected,1
+Inga,taalmodig,Undirected,1
+Nn,Zigenneren,Undirected,1
+Inga,Nn,Undirected,1
+Gritti,Zigeuneren Gritti,Undirected,1
+Gritti,Robert äs,Undirected,1
+Kirstine,fil Gritti,Undirected,1
+Grev Lejonhufvud,Inga Nielson,Undirected,1
+Greven,Gritti,Undirected,1
+Lundstrøm,Zigeuneren Gritti,Undirected,1
+Lejonhufvud,Lundstrøm,Undirected,1
+Lejonhufvud,Zigeuneren,Undirected,1
+Guiscardo,Kirstine,Undirected,1
+Inga,Lundstrom,Undirected,1
+Kirsfine,stu Vams,Undirected,1
+Inga,Lundstrøm,Undirected,5
+Lundstrøm,Zigeuneren,Undirected,2
+Steen Veiring,Zigeuneren,Undirected,1
+Gritfi,Lundstrøm,Undirected,2
+Lundsfrøm,Zigeuneren,Undirected,1
+Inga,Lundsfrøm,Undirected,2
+Vams,ester,Undirected,1
+Lundstrøm,Mied,Undirected,1
+Lundsfrøm,Lundstrøm,Undirected,1
+Lundsfrøm,fom Lundsfrøm,Undirected,1
+Gritti,Inga,Undirected,3
+Gritti,Kirstine,Undirected,1
+Gritti,øg,Undirected,1
+Inga,nn,Undirected,1
+Gritti,nn,Undirected,1
+Tine,Tu,Undirected,1
+Gritti,Lundstrøm,Undirected,3
+Inga,Kong Gusfav Adolph,Undirected,1
+Kong Gusfav Adolph,Peter Klot,Undirected,1
+Kaptain Gyllenhjelm,Kaptainens,Undirected,1
+Gritti,Lundstrom,Undirected,1
+Inga,ingeu Forskjonnelse,Undirected,1
+Inga,Lejonhufvud,Undirected,1
+Lejonhufvud,Zigeuneren Gritti,Undirected,1
+Johan,Zigeuneren Gritti,Undirected,1
+Captain Gyllenhjelm,Robert de Guiscardo,Undirected,1
+Peter Klot,maae,Undirected,1
+Kai Gyllenhjelm,Peter Klot,Undirected,2
+Johan,Robert de Guiscardo,Undirected,1
+Marie,Robert de Guiscardo,Undirected,1
+Johan,hverandrcs,Undirected,1
+Guiscardo,Marie,Undirected,1
+Gyllenhjelm,Kanallie,Undirected,1
+Axel Lejonhufvud,Pater,Undirected,1
+Axel Lejonhufvud,Robert de Guiscardo,Undirected,1
+Inga Nielson,haydc,Undirected,1
+Kai Gyllenhjelm,haydc,Undirected,1
+Inga,Krisfine,Undirected,2
+Inga,Kirstine —,Undirected,1
+Gyllenhjclins,Inga,Undirected,1
+Gyllenhjclins,Inga ovcrsaae,Undirected,1
+Inga ovcrsaae,Kai,Undirected,1
+Gyllcnhjclms,Kai,Undirected,1
+Inga Nielson,Kai Gyllenhjelm,Undirected,1
+Inga,Sigismund,Undirected,1
+Inga,Kirstine rafl,Undirected,1
+Kirsfine,Kirstine rafl,Undirected,1
+Kirsfine,Laas,Undirected,1
+Inga,manZpaa,Undirected,1
+Kirsfine,manZpaa,Undirected,1
+Kirsfine,Krisfine,Undirected,1
+Kaptain Gyllenhjelm,Kirstine,Undirected,1
+Gyllemhjelm,Kyraserofficcren Peter,Undirected,1
+Gyllemhjelm,Plgcbarncs,Undirected,1
+Kirstine,Plgcbarncs,Undirected,1
+Kirstine,Peter Klot,Undirected,3
+Gud,Kaptain Kai Gyllenhjelm,Undirected,1
+Inga,Sten Lejonhufvud,Undirected,1
+Inga,Kaptain Kai Gyllenhjelm,Undirected,1
+Oxenstjerna,Robert de Guiscardo,Undirected,1
+Kaptain Kai Gyllenhjelm,Robert de Guiscardo,Undirected,2
+Grev Sten Lejonhufvuds,Kaptain Kai Gyllenhjelm,Undirected,1
+Peter Klot,reed,Undirected,1
+Robert de Guiscardo,Sten Lejonhufvud,Undirected,1
+Peter Klot,Robert de Guiscardo,Undirected,1
+Lejonhufvud,Peter Klot,Undirected,1
+Kai Gyllenhjelm,Sten Lejonhufvud,Undirected,1
+Inga,Officcers,Undirected,1
+Kai Gyllenhjelm,Kirstine,Undirected,1
+Kai Gyllenhjelm,elsfede,Undirected,1
+Gyllcnhjclms,Inga rccd,Undirected,1
+Gud,Inga rccd,Undirected,1
+Axel,Sten Lejonhufvud,Undirected,2
+Ester,Inga,Undirected,1
+Inga,Peter Klat,Undirected,1
+Gustav Adolph,Knud Nielson,Undirected,1
+Inga,Kirstincs,Undirected,1
+Kirstincs,Lisinsky,Undirected,1
+Gustav,Oxenstjerna,Undirected,1
+Ebba Brahe,Jakob de la Gardie,Undirected,4
+Gustav Adolph,Jakob de la Gardie,Undirected,1
+Krisfine,Svcrrigs,Undirected,1
+Krisfine,Magnus Brahe,Undirected,1
+Jakob de,Magnus Brahe,Undirected,1
+Jakob de,martrct,Undirected,1
+Ebba Brahe,martrct,Undirected,1
+Ebba Brahe,Krisfine,Undirected,1
+Ebba,Krisfine,Undirected,1
+Ebba,h,Undirected,1
+Ebba Brahe,Kong Gustav Adolph,Undirected,1
+Oxenstjerna,øg Jakob de la Gardie,Undirected,1
+Gustav Adolph,soni,Undirected,1
+Inga Nielson,Kantslercn,Undirected,1
+cihellcr,hend,Undirected,1
+Ambrosius Klot,Knud Nielson,Undirected,1
+Lodoiska,Marie,Undirected,1
+Marie,sidsfe,Undirected,1
+Robert de Guiskardos,sidsfe,Undirected,1
+Johan as,Robert de Guiskardos,Undirected,1
+Johan as,Kcistincs,Undirected,1
+Karl Phillip,Kcistincs,Undirected,1
+Karl Phillip,Sødermanland,Undirected,1
+Ribbing,Sødermanland,Undirected,1
+Lodoiska,Røbert de Guiskardo,Undirected,1
+Røbert de Guiskardo,hnn,Undirected,1
+hans Roes,hnn,Undirected,1
+Gritti,Hsien,Undirected,1
+Gritti,def,Undirected,1
+Alan,Gritti,Undirected,2
+Gritti,Saffians,Undirected,1
+Gritti,Søderbergs,Undirected,1
+Gritti,Taterpigen,Undirected,1
+Estrella,Taterpigen,Undirected,1
+Estrella,Gritti,Undirected,24
+Lydia,Lyo,Undirected,1
+Estrella,Lyo,Undirected,1
+Estrclla,Nero,Undirected,1
+Estrella,Nero,Undirected,16
+Gritti,Lydia,Undirected,24
+Estrella,sløi,Undirected,1
+Lydia,Zigeuner,Undirected,2
+Estrella,seller,Undirected,1
+Gritti,seller,Undirected,1
+Estrella,Swab,Undirected,3
+Adonis,Ieg,Undirected,1
+Sopha,Zigeuneren,Undirected,1
+Estrella,Zigeuneren,Undirected,1
+Estrella,Vedbliv,Undirected,1
+Gritti,paany,Undirected,1
+Lodoiska,Magnus Brahe,Undirected,2
+Magnus Brahe,eiheller,Undirected,1
+Estrella,Lydia,Undirected,12
+Gritti,ester,Undirected,1
+Eslrella,Gritti,Undirected,1
+Nero,Svendson,Undirected,2
+Estrella,Moder Svendson,Undirected,1
+Estrella,Svendson,Undirected,1
+Lydia,Svendson,Undirected,1
+Gritti,Zigeuner,Undirected,1
+Estrella,hrortil Estrella,Undirected,1
+Lydia,frods,Undirected,1
+Lydia,Minnters,Undirected,1
+Estrella,skjelmsk,Undirected,1
+Lydia,Nero,Undirected,3
+Nero,Stvabs,Undirected,2
+Estrella,Moer Svendson,Undirected,1
+Gritti fil,Moer Svendson,Undirected,1
+Gritti fil,Nero komfi Gritti,Undirected,1
+Moer Svendson,Nero,Undirected,2
+Gritti,Migt,Undirected,1
+Estrella,Migt,Undirected,1
+Esfrella,Gritti,Undirected,4
+Estrella Gritti,Nero,Undirected,1
+Gritti,Nero,Undirected,17
+Gritti,Moder Estrella,Undirected,1
+Estrella,elsfe,Undirected,1
+Estrella,soo,Undirected,1
+Esfrella,Tu,Undirected,1
+Estrella,bie,Undirected,1
+Kuntz,Nero,Undirected,6
+Nero,Snob,Undirected,5
+Gritti,forbittret,Undirected,1
+Dands,Nero,Undirected,3
+Gritti,Kuntz,Undirected,16
+Estrella,Kuntz,Undirected,1
+Elsfede,Lydia,Undirected,1
+Gritti,Snob,Undirected,9
+Lydia,Snob,Undirected,1
+Lydia,dandse,Undirected,1
+Nero,oa Esfrella,Undirected,1
+Esfrella,Lydia,Undirected,1
+Dandsen,Snob,Undirected,1
+Dandsen,Gritti,Undirected,1
+Gritti,lidf,Undirected,1
+Estrella,Snob,Undirected,1
+Leie,Nero,Undirected,1
+Kuntz,ivelsc,Undirected,1
+Snob,ivelsc,Undirected,1
+Kuntz,Snob,Undirected,1
+Nero,tinod Gritti,Undirected,1
+Gritti,Nero paany,Undirected,2
+Gritti,Snob Gritti,Undirected,1
+Snob Gritti,rasf,Undirected,1
+Kuntz,rasf,Undirected,1
+Snob,Snob flog,Undirected,1
+Esfrella,Kuntz,Undirected,1
+Esfrella,Snob,Undirected,1
+Esfrella,Saaret,Undirected,1
+Esfrella,Nero,Undirected,1
+Sverrig,de la Gardie,Undirected,1
+Korporal,Peter Klot,Undirected,1
+Korporal,Sven Larson,Undirected,1
+Inga Nielson,Weiring,Undirected,1
+Inga,Weiring,Undirected,1
+Peter Klot,Sven,Undirected,1
+Peter Lilies,Sven,Undirected,1
+Knud Nielson,Peter Lilies,Undirected,1
+Knud Nielson,Sven,Undirected,1
+De la Gardie,Jakob de la Gardie,Undirected,1
+De la Gardie,Gustav,Undirected,1
+Gardie,Marie Eleonore,Undirected,1
+Aste,Ebba Brahe,Undirected,1

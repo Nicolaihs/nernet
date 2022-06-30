@@ -1,0 +1,67 @@
+source,target,type,weight
+Bøges,Oljeglans,Undirected,1
+Frank,Tutte,Undirected,1
+Frank,Kirstine,Undirected,21
+Jomfru Diderichsen,Karl,Undirected,1
+F'rank,Kirstine Skovfogeds,Undirected,1
+Gud,Kirstine,Undirected,1
+Frank,Gud,Undirected,5
+Ane Skovfogeds,Frank,Undirected,1
+Ane,Mads Kusk,Undirected,1
+Ane,Ane Skovfogeds,Undirected,1
+Ane,Kirstine,Undirected,4
+Klausen,Marie Weber,Undirected,1
+Erik,Kirstine,Undirected,2
+Erik,Frank,Undirected,7
+Diderichsen,Kirstine,Undirected,1
+Erik,Stine,Undirected,1
+Frank,Græsstraa,Undirected,1
+Tutte,Tutten,Undirected,1
+Karle,Kirstine,Undirected,1
+./futte,Frank,Undirected,1
+Ane,Gud,Undirected,2
+Kirsten,Kirstine,Undirected,1
+Flun,Tue,Undirected,1
+Flun,Gud,Undirected,1
+Kirstine,Lina,Undirected,8
+Lina,Tutte,Undirected,1
+Kirstine,Tutte,Undirected,1
+Erank,Kirstine,Undirected,1
+Diderichsen,Skyvholt,Undirected,1
+Ane Skovfogeds,Erik,Undirected,1
+Ane,Erik,Undirected,1
+Frank,Kirstine Larsen,Undirected,1
+Gud,Kirstine Larsen,Undirected,1
+Erik,Gud,Undirected,1
+Eden,Erik,Undirected,1
+Laurs,Settima,Undirected,2
+Onkels,Settima,Undirected,1
+Handrup,Musvit,Undirected,1
+Anna Theresia,Terkel,Undirected,2
+Settima,Tante,Undirected,3
+Frederik,Terkel,Undirected,2
+Anna Theresia,Tante,Undirected,1
+Frk. Petersen,Tante,Undirected,1
+Ane,Søndergaard,Undirected,1
+Diderichsen,Erik,Undirected,1
+Erik,Jomfru Diderichsen,Undirected,1
+Tante,Terkel,Undirected,1
+Sasso,Terkel,Undirected,1
+Frederik,Settima,Undirected,1
+Frederik,Niels,Undirected,1
+Skyvholt,Terkel,Undirected,1
+Kaj Proost,Skyvholt,Undirected,1
+Lang,Pastor Lang,Undirected,1
+Frank,Frederik,Undirected,2
+Frederik,Tante,Undirected,1
+Settima,Terkel,Undirected,1
+Anna Theresia,Morsomi,Undirected,1
+Frederik,Morsomi,Undirected,1
+Frederik,Toft,Undirected,1
+Anna Theresia,Toft,Undirected,1
+Loke,Thor,Undirected,1
+Gross,Lauritz,Undirected,1
+Rørelse,Terkel,Undirected,1
+Anna Theresia,Frederik,Undirected,1
+Buddha,Muhamed,Undirected,1
+Buddha,Kristus,Undirected,1

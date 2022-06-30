@@ -1,0 +1,393 @@
+source,target,type,weight
+,Miss,Undirected,1
+hnn,tanles,Undirected,1
+Therese,hnn,Undirected,15
+allsaa,hnn,Undirected,1
+Therese,allsaa,Undirected,1
+Goutrai,Therese,Undirected,4
+Mr. Goutrai,Therese,Undirected,7
+Martino,Therese,Undirected,3
+Mr. Goutrai,Mrs.,Undirected,2
+Mrs.,Vainn,Undirected,3
+Hedvig,Hnn,Undirected,1
+Hnn,hnn,Undirected,2
+Mr. Goutrai,hnn,Undirected,5
+Orntia,Therese,Undirected,1
+Therese,oni,Undirected,1
+Hedvig,hnn,Undirected,5
+Goutrai,Hedvig,Undirected,1
+Hedvig,Therese,Undirected,16
+Aldclsmand,S.,Undirected,1
+Aldclsmand,bleu,Undirected,1
+Signora,Therese,Undirected,3
+Hedvig,Signora,Undirected,3
+Guds,Therese,Undirected,1
+Birkegren,Hedvig,Undirected,2
+Signora,hnn,Undirected,1
+Clotilde,Hedvig,Undirected,1
+Mrs.,Mrs. Kouthou,Undirected,1
+Vainn,William,Undirected,1
+Maggy,William,Undirected,1
+Hedvig,Maggy,Undirected,3
+Hedvig,Mr. Gontrai,Undirected,1
+Maggy,hnn,Undirected,1
+Maggy,Mr. Goutrai,Undirected,3
+Maggy Kouthon,Mr. Goutrai,Undirected,1
+Goutrai,nn,Undirected,1
+Maggy,Monsieur,Undirected,1
+Maggy,lkvilkaarlig,Undirected,1
+Mr. Goutrai,lkvilkaarlig,Undirected,1
+halvsov,hnn,Undirected,1
+Monsieur,Therese,Undirected,2
+Oren,Therese,Undirected,3
+Jndkjøb,Mr. Goutrai,Undirected,1
+Albergo,Jndkjøb,Undirected,1
+Albergo,Monsieur,Undirected,1
+Kouthous,Mrs.,Undirected,1
+Kouthous,soni,Undirected,1
+Mrs.,Therese,Undirected,1
+Kouthon,Mrs.,Undirected,1
+Clothilde,Therese,Undirected,1
+Clothilde,Hedvig,Undirected,1
+Hedvig,Hedvig intetsomhclst,Undirected,1
+Hedvig intetsomhclst,Therese,Undirected,1
+Clotilde,Therese,Undirected,3
+Mrs.,ester,Undirected,1
+Mrs.,Wainn,Undirected,1
+Maggy,Wainn,Undirected,1
+Goutrai,hnn,Undirected,1
+. Kouthon,Therese,Undirected,1
+Lekko,Therese,Undirected,2
+Goutrai,Martins,Undirected,1
+Hedvig,Mr. Goutrai,Undirected,2
+Martin,Therese,Undirected,1
+Therese,nore,Undirected,2
+Clotilde,selo,Undirected,1
+Mr. Goutrai,selo,Undirected,1
+Don Juan,Therese,Undirected,1
+Madonna,Therese,Undirected,1
+Madonna,Mr. Goutrai,Undirected,1
+Madonna,Monsieur,Undirected,1
+Therese,soni,Undirected,1
+Guds,Hedvig,Undirected,1
+Therese,ester,Undirected,3
+Therese,Wgte,Undirected,1
+Lcingerberg,Therese,Undirected,1
+Hedvig,Lcingerberg,Undirected,1
+Hedvig,Mr. Kouthon,Undirected,1
+Mr. Kouthon,TEgtemand,Undirected,1
+TEgtemand,Therese,Undirected,1
+Therese,glenit,Undirected,1
+glenit,hnn,Undirected,1
+Maggy,Therese,Undirected,2
+Padronas,Therese,Undirected,1
+Hedvig,Padronas,Undirected,1
+Hedvig,igjcnnem,Undirected,1
+Signora,igjcnnem,Undirected,1
+Bedstemoder,hnn,Undirected,1
+Frands,Olufsen,Undirected,1
+Jægermester Blum,Welgaard,Undirected,1
+Fanny,hnn,Undirected,1
+Olufsen,hnn,Undirected,1
+Fanny,Olufsen,Undirected,1
+Nøra,jø,Undirected,1
+Nøra,hnn,Undirected,1
+hnn,jø,Undirected,1
+Gud,jø,Undirected,1
+Fanny,Gud,Undirected,1
+herøp,øm,Undirected,1
+Frands,hnn,Undirected,1
+H,Olnfsen,Undirected,1
+H,Noras,Undirected,1
+Nora,Noras,Undirected,1
+Nora,syttenaars,Undirected,1
+hnn,syttenaars,Undirected,1
+Nora,hnn,Undirected,1
+Nora,lille Nora,Undirected,1
+Nora,Olufsen,Undirected,1
+Blums,hnn,Undirected,1
+hnn,oni,Undirected,1
+Gud,Nora,Undirected,1
+Caroline Reckes,Olufsen,Undirected,1
+Beck,hnn,Undirected,1
+Betty,Kaj,Undirected,3
+Betty,Møller Becks,Undirected,1
+Betty,Dorfs,Undirected,1
+Kaj,Wanda Dorfs,Undirected,1
+Kaj,Wandas,Undirected,1
+Betty,Gud,Undirected,3
+Gud,hnn,Undirected,3
+Kaj,lille Bettys,Undirected,1
+Betty,lille Bettys,Undirected,1
+Faber,Møller Beck,Undirected,1
+Faber,hans Karl,Undirected,2
+Ellen,Faber,Undirected,1
+Frederik den 6te,mcnde,Undirected,1
+Betty Mørck,Wanda Dorfs,Undirected,1
+Betty Mørck,Wanda,Undirected,1
+Christian den 8de,Faber,Undirected,1
+Christian den 8de,Frederik,Undirected,1
+Frederik,as,Undirected,1
+Faber,as,Undirected,1
+Faber,Mikkel,Undirected,1
+Betty,Wanda,Undirected,7
+Betty,Møllere,Undirected,2
+Wanda,hnn,Undirected,3
+Betty,hnn,Undirected,1
+Frn Beck,Kaj,Undirected,1
+Betty,Frn Beck,Undirected,1
+Betty,Faber,Undirected,2
+Betty,paa-Wanda,Undirected,1
+Wanda,paa-Wanda,Undirected,1
+Betty,Wanda Dorfs,Undirected,2
+Dorfs,Wanda Dorfs,Undirected,1
+Dorfs,Jfjor,Undirected,1
+Jfjor,Wanda,Undirected,1
+Møllers,Wanda,Undirected,1
+Gud,Møllers,Undirected,1
+Gud,Kaj,Undirected,2
+Gud,Onskers,Undirected,1
+Kaj,hnn,Undirected,1
+Betty Mørck,Kaj,Undirected,2
+Gud,Ivan,Undirected,4
+Dn,Ivan,Undirected,1
+Gud,ester,Undirected,1
+Gud,fil,Undirected,1
+N. N.,Præsf,Undirected,1
+Ivan,N. N.,Undirected,4
+Ivan inderlig,N. N.,Undirected,1
+Ivan,Ivan inderlig,Undirected,1
+Ivan,Ivan nn,Undirected,1
+Eva,Ivan,Undirected,16
+Engelst,Ivan,Undirected,1
+Ivan,hnn,Undirected,5
+Eva,Gud,Undirected,1
+Burns,Eva,Undirected,1
+Burns,hnn,Undirected,1
+Eva,N. N.,Undirected,1
+Gud,Minervas,Undirected,1
+Minervas,N. N.,Undirected,1
+,N. N.,Undirected,1
+Adams,Eva,Undirected,2
+Eva,Hain,Undirected,1
+Hain,Ivan,Undirected,1
+Christian Geertz,Knob,Undirected,3
+Knob,Svend,Undirected,2
+Ingeborg,Knob,Undirected,1
+Geertz,Ingeborg,Undirected,22
+Geertz,Principals,Undirected,1
+Dn,Geertz,Undirected,2
+Geertz,Ore,Undirected,1
+Knob,Ore,Undirected,1
+Geerkz,Knob,Undirected,5
+Geerkz,Ingeborg,Undirected,19
+Gud,Ingcborgs,Undirected,1
+Iver,Knob,Undirected,1
+Ingeborg,Iver,Undirected,1
+Dn,Geerkz,Undirected,1
+Geerkz,sif,Undirected,1
+Storni,sif,Undirected,1
+Christian Geerkz,Storni,Undirected,1
+Christian Geerkz,Peter,Undirected,1
+Christian,Christian Geertz,Undirected,1
+Chrisfian,Peter,Undirected,5
+Hjort,Peter,Undirected,1
+Geertz,Peter,Undirected,1
+Christian,Principal,Undirected,2
+Geertz,Knob,Undirected,3
+Geertz,nn,Undirected,1
+Dn,Ingeborg,Undirected,4
+Geertz,Madam Knobs,Undirected,2
+Geertz,Madam,Undirected,3
+Gud,Ingeborg,Undirected,2
+Gud,Ingeborg Geertz,Undirected,1
+Ingeborg Geertz,hair,Undirected,1
+Geertz,ester,Undirected,2
+Principal,ester,Undirected,1
+Ingeborg,Principal,Undirected,1
+Knob,Madam Knob,Undirected,2
+Ingeborg,Madam Knob,Undirected,8
+Geertz,Gud,Undirected,2
+Geertz,Oren,Undirected,1
+Ingeborg,hnn,Undirected,9
+Knob,Madam,Undirected,2
+Geerkz,Madam,Undirected,1
+Geerkz,Hjort,Undirected,4
+Geerkz,Herman Bakke,Undirected,2
+Herman Bakke,Principalens,Undirected,1
+Geerkz,Principalens,Undirected,1
+Geerkz,Herman,Undirected,7
+Ingcborgs,Ingeborg,Undirected,1
+Geertz,Madam Knob,Undirected,4
+Geerkz,Madam Knob,Undirected,3
+Herman,Ingeborg,Undirected,20
+Herman,Ingcborgs,Undirected,1
+Geerkz,Ingcborgs,Undirected,2
+Geerkz,Peter,Undirected,1
+Madam Knob,ester,Undirected,1
+Madam,hnn,Undirected,1
+Bakkes,Geerkz,Undirected,2
+,Geerkz,Undirected,1
+,Svend,Undirected,1
+Madam,Svend,Undirected,1
+Madam Knob,hnn,Undirected,1
+Geerkz,taabeligc,Undirected,2
+Dn,Gnds,Undirected,1
+Hjort,Ingeborg,Undirected,3
+Geerkz,hnn,Undirected,5
+Herman Bakke,nn,Undirected,1
+Herman,hnn,Undirected,1
+Ester,Geerkz,Undirected,1
+Ester,Herman,Undirected,1
+Hcrmans,Ingeborg,Undirected,1
+Geerkz,Hcrmans,Undirected,1
+Geertz,hnn,Undirected,1
+Assked,Herman,Undirected,1
+Assked,Ingeborg,Undirected,1
+ester,hnn,Undirected,1
+Gud,Herman,Undirected,1
+Geertz,Herman,Undirected,9
+Ingeborg,naben,Undirected,1
+Dn,Gud,Undirected,1
+Ingeborg,Oren,Undirected,1
+Geertz,Hjort,Undirected,4
+Hjort,hans,Undirected,1
+Geerkz,Jakob,Undirected,1
+Jakob,Rachcl,Undirected,1
+Jakob,Laban,Undirected,1
+Geertz,Ojncne,Undirected,1
+Herman,fr. —,Undirected,1
+Geertz,fr. —,Undirected,1
+Geertz,Præsfen,Undirected,1
+Hain,Madam Knob,Undirected,1
+Hain,Ingeborg,Undirected,1
+Geertz,Graad,Undirected,1
+Hjort,Svend derfra,Undirected,1
+Herman,Svend derfra,Undirected,1
+Herman,Madam Knob,Undirected,1
+Ester,Geertz,Undirected,1
+Geertz,Roes,Undirected,1
+Ingeborg,Roes,Undirected,1
+Oren,ester,Undirected,1
+Laud,Oren,Undirected,1
+Ol,Peter,Undirected,1
+Absalons,Lawrenz,Undirected,1
+Kjuc,Lawrenz,Undirected,1
+Lawrenz,Lawreuz,Undirected,2
+Aitza,Lawrenz,Undirected,1
+Arne,Lawrenz,Undirected,1
+Kejsers,Lawrenz,Undirected,1
+Grethe,Petronelle,Undirected,1
+Caspar,Grethe,Undirected,1
+Caspar,assted,Undirected,1
+Grethe,hnn,Undirected,2
+Oxes,Thomsens,Undirected,1
+Ole,Thomsens,Undirected,1
+Ole,oni,Undirected,2
+Martha,Thomsen,Undirected,13
+Martha,Ole,Undirected,1
+Hulda,Martha,Undirected,16
+Hulda,ester,Undirected,3
+Martha,hnn,Undirected,5
+hnn,nied,Undirected,1
+Hulda,nied,Undirected,1
+Martha,lille Hulda,Undirected,3
+hnn,lille Hulda,Undirected,1
+Ole,hnn,Undirected,1
+Carl,Ole,Undirected,2
+Carl,Martha,Undirected,2
+Carl,Thomsen,Undirected,4
+Hr. Schmidt,Hulda,Undirected,1
+Hr. Schmidt,Thomsen,Undirected,4
+Hr. Schmidt,lille Hulda,Undirected,2
+Carl,Hulda,Undirected,2
+Hr. Schmidt,Martha,Undirected,1
+Thomsen,lille Hulda,Undirected,2
+Madam,Martha,Undirected,1
+Madam,lille Hulda,Undirected,1
+Frn Hallers,Thomsen,Undirected,1
+Frn Hallers,Martha,Undirected,1
+Martha,Ore,Undirected,1
+Gud,Ore,Undirected,1
+Hulda,Madam Thomsen,Undirected,1
+Gud,Martha,Undirected,2
+Hulda,hnn,Undirected,3
+Hain,hnn,Undirected,1
+Martha oni,Thomsen,Undirected,1
+Carl,Martha oni,Undirected,1
+Martha,lilles,Undirected,1
+Thomsen,lilles,Undirected,1
+Martha,as Hulda,Undirected,1
+Thomsen,as Hulda,Undirected,1
+Hulda,Thomsen,Undirected,1
+Hulda,Madam Nielsen,Undirected,1
+Madam Bech,Martha,Undirected,1
+Madam Bech,Ole,Undirected,1
+Hulda,Pukkelline,Undirected,1
+Carl,lille Hulda,Undirected,1
+Haller,ester,Undirected,1
+Hnlda,Hulda,Undirected,3
+Hulda,Schawlel,Undirected,1
+Schawlel,lille Hulda,Undirected,1
+Schawl,lille Hulda,Undirected,1
+Hulda,Schawl,Undirected,1
+Gud,Hulda,Undirected,11
+Frn Haller,Hulda,Undirected,3
+Hulda,Olaf,Undirected,31
+Gud,Hnlda,Undirected,2
+Jawa,Olaf,Undirected,2
+Jawa,felv,Undirected,2
+Gud,Jawa,Undirected,1
+Olaf,øg,Undirected,1
+Haller,Hulda,Undirected,2
+Hulda,Mette Anders,Undirected,1
+Hulda,Mette,Undirected,1
+Mette,Olaf,Undirected,1
+Gud,Olaf,Undirected,2
+Hnlda,hnn,Undirected,1
+Hnn,Hulda,Undirected,2
+Hulda,soer Olaf,Undirected,1
+Hulda,Jawa,Undirected,1
+Hulda,nn,Undirected,2
+Olaf,selo,Undirected,1
+Lille Hnlda,selo,Undirected,1
+Mathed,ester,Undirected,1
+Mathed,Olaf,Undirected,1
+Huldal,Olaf,Undirected,1
+Esterat,Olaf,Undirected,1
+Esterat,Hulda,Undirected,1
+Hnlda,Martha,Undirected,1
+Hnlda,Olaf,Undirected,2
+Martha,Olaf,Undirected,2
+Hulda,oni,Undirected,1
+ester,oni,Undirected,1
+Olaf,ester,Undirected,1
+Hnlda,hans,Undirected,1
+Dn,Martha,Undirected,1
+Gitte,Karls,Undirected,1
+Karls,hnn,Undirected,1
+Margrethe,hnn,Undirected,2
+Poulsen,soni,Undirected,1
+Karl,Madam Poulsen,Undirected,2
+Gud,Madam Poulsen,Undirected,1
+Margrethe,Steimans,Undirected,1
+Karl,Margrethe,Undirected,1
+Karl,Steimans,Undirected,2
+Karl,Poulsen,Undirected,1
+Margrethe,Poulsen,Undirected,3
+Høsts,Margrethe,Undirected,1
+Margrethe,soni,Undirected,1
+Margrethe,Ore,Undirected,1
+Margrethe,ester,Undirected,1
+Lau llo OoloAve,hnn,Undirected,1
+Karl,oni,Undirected,1
+Margrethe,oni,Undirected,1
+Madam Poulsen,Margrethe,Undirected,4
+Dein,Margrethe,Undirected,1
+Høst,Madam Poulsen,Undirected,1
+Høst,Madam Ponlsen,Undirected,1
+Madam Poulsen,Poulsen,Undirected,1
+Høst,Karl,Undirected,1
+Høst,Margrethe,Undirected,1
+Margrethe,nied,Undirected,1
+Poulsen,nied,Undirected,1

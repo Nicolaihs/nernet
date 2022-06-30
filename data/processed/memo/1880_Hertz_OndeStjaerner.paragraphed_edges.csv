@@ -1,0 +1,126 @@
+source,target,type,weight
+Frederik den,Ottesen Brahe,Undirected,1
+Frederik den,Sofie,Undirected,1
+Anders Sørensen Vedel,Tyge Brahe,Undirected,1
+Dronning Sofie,Tyge Brahe,Undirected,1
+Anders,Junker,Undirected,1
+Anders,Jørgen Brahe,Undirected,1
+Bilde,Jørgen Brahe,Undirected,1
+Anders,Bilde,Undirected,1
+Anders,Lensman,Undirected,1
+Preben Krag,Rolf Krage,Undirected,1
+Sultan Solimans,Tyge,Undirected,1
+Sofie,Tyge,Undirected,3
+Jørgen Ulrik,Tyge,Undirected,1
+Jørgen Ulrik,Kristian den,Undirected,1
+Kristian den,Longomontanus,Undirected,1
+Longomontanus,Sofie,Undirected,1
+Kong Frederik,Tyge,Undirected,1
+Kong Frederik,Wilhelm,Undirected,1
+Kopernikus,Wilhelm,Undirected,1
+Kopernikus,Tyge,Undirected,2
+Kristian,Saturnus,Undirected,1
+Merkurius,Saturnus,Undirected,1
+Kristian den,Merkurius,Undirected,1
+Laurits Arktander,Odd Ejnersen,Undirected,1
+Odd Ejnersen,Sebastian Borussus,Undirected,1
+Johannes Aurifaber,Sebastian Borussus,Undirected,1
+Peder Jakobsen,Svend,Undirected,1
+Hveen,Svend,Undirected,1
+Anders,Junkeren,Undirected,1
+Jomfru Hveenild,Saxo,Undirected,1
+Junkeren,Preben Krag,Undirected,1
+Longomontanus,Tyge,Undirected,1
+Kure,Tyge,Undirected,1
+Jep,Kure,Undirected,1
+Jep,Pollux,Undirected,1
+Pollux,Strænge,Undirected,1
+Magdalene,Tyge,Undirected,1
+Mikkel Vibe,Sybille,Undirected,1
+Peder Jakobsen Flemløse,Sybille,Undirected,1
+Peder Jakobsen Flemløse,Tyge,Undirected,1
+Ivar Krabbe,Sybille,Undirected,1
+Kastor,Sibylle,Undirected,1
+Kastor,Pollux,Undirected,1
+. Bilde,Krag,Undirected,1
+. Bilde,Parsbjerg,Undirected,1
+Peder Bilde,Peder Jakobsen,Undirected,1
+Flemløse,Peder Jakobsen,Undirected,6
+Anders,Flemløse,Undirected,1
+Anders,Tyge,Undirected,1
+Anders,Kopernikus,Undirected,1
+Abelone sal,Sybille,Undirected,2
+Sybille,Søren Puggendorf,Undirected,1
+Mikkel Vibe,Søren Puggendorf,Undirected,1
+Mikkel Vibe,Peder Sørensen,Undirected,1
+Abelone sal,Peder Sørensen,Undirected,1
+Abelone sal,Paaskes,Undirected,1
+Junker,Tyge,Undirected,1
+Frederik den A.nden,Junker,Undirected,1
+Frederik den A.nden,Peder Jakobsen,Undirected,1
+Peder Jakobsen,Tyge,Undirected,4
+Adams,Tyge,Undirected,1
+Adams,Kopernikus,Undirected,1
+Guds,Kopernikus,Undirected,1
+Guds,Marven,Undirected,1
+Kopernikus,Marven,Undirected,1
+Flemløse,Wilhelm,Undirected,1
+Tyge,Wilhelm,Undirected,1
+Kristoffer Rothmann,Tyge,Undirected,3
+Pratensis,Tyge,Undirected,1
+Durchlauchtighed,Peder Jakobsen,Undirected,1
+Karl,Peder Jakobsen,Undirected,1
+Peder Jakobsen,Raimarus Ursus,Undirected,1
+Erik Lange,Raimarus Ursus,Undirected,1
+Erik Lange,Tyge,Undirected,1
+Eriks,Sofie,Undirected,1
+Eriks,Tyge,Undirected,1
+Kristoffer Rothmann,Mester Raimarus,Undirected,1
+Mester Raimarus,Peder Jakobsen,Undirected,1
+Peder Jakobsen,skraas,Undirected,2
+Garveren,Peder Jakobsen,Undirected,1
+Peder Jakobsen,Sybille,Undirected,10
+Brahe,Peder Jakobsen,Undirected,1
+Frederik den,Tyge,Undirected,5
+Heloise,Sybille,Undirected,1
+Abælard,Heloise,Undirected,1
+Ivar Krabbe,Søren Pug-gendorf,Undirected,1
+Junkeren,Peder Jakobsen,Undirected,1
+Flemløse,Sybille,Undirected,3
+Flun,Sybille,Undirected,1
+Medikus,Peder Sørensen,Undirected,1
+Flemløse,Tyge Brahe,Undirected,1
+Flem-losius,Søren Puggendorf,Undirected,1
+Saturnus,Venus,Undirected,1
+Ivar Krabbe,Preben Krag,Undirected,1
+Bacchus,Ivar Krabbe,Undirected,1
+Junkeren,Morten,Undirected,1
+Junkeren,paany,Undirected,1
+Kristian,Sybille,Undirected,1
+Kristian,Tyge,Undirected,2
+Kristoffer Valkendorf,Tyge,Undirected,1
+Flemløse,Gud,Undirected,1
+Flem-løses,Sybille,Undirected,1
+Thord,Tøi,Undirected,1
+E. N.,N.,Undirected,1
+E.,E. N.,Undirected,1
+E.,Gud,Undirected,1
+Rune,Zenith,Undirected,1
+Gud,Rune,Undirected,1
+Anders,Peder Jakobsen,Undirected,1
+Gud,Sine,Undirected,1
+Flan,Tyge,Undirected,1
+Flan,Kristian Friis,Undirected,1
+Kristian Friis,Kristoffer Valkendorf,Undirected,1
+Kristoffer Valkendorf,Valkendorf,Undirected,1
+Kristian,Valkendorf,Undirected,1
+Keplers,Tyge,Undirected,1
+Keplers,kam,Undirected,1
+Tyge,kam,Undirected,1
+Kepler,Tyge,Undirected,1
+Kepler,Mcestling,Undirected,2
+Henrik Rantzaus,Kristian den,Undirected,2
+Kristian den,Rudolf,Undirected,1
+Frederik,Rudolf,Undirected,1
+Frederik,Tyge Brahe,Undirected,1
+Johannes Jessen,Tyge Brahe,Undirected,1

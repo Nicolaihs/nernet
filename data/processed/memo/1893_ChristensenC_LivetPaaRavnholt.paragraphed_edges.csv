@@ -1,0 +1,59 @@
+source,target,type,weight
+Ejgil,Svane,Undirected,18
+Ejgil,Ravnholt,Undirected,1
+Ravnholt,Svane,Undirected,3
+Davren,Svane,Undirected,1
+Aage,Svane,Undirected,8
+Aage,Bedstefader,Undirected,2
+Ejgil Skovby,Svane,Undirected,2
+Ejgil Skovby,Gud,Undirected,1
+Ejgil,Gud,Undirected,2
+Ejgil,Karl,Undirected,17
+Karl,Svane,Undirected,6
+Aage,Ejgil,Undirected,4
+Marie,Svane,Undirected,1
+Ejgil,Marie,Undirected,1
+Gud,Thorvald,Undirected,1
+Gud,véd,Undirected,1
+Gud,Svane,Undirected,1
+Bedstefader,Ejgil,Undirected,1
+Gud,Karl,Undirected,1
+Aage,Karl,Undirected,4
+Gud,Kjære,Undirected,1
+Ejgil,Kjære,Undirected,1
+Bedstefader,Jørgen,Undirected,3
+Bedstefader,Svane,Undirected,1
+Jørgen,Svane,Undirected,4
+Foner,Gud,Undirected,1
+Luthers,Morten Luther,Undirected,1
+Hans,Luthers,Undirected,1
+Bedstefader,Theodor,Undirected,1
+Gud,Theodor,Undirected,1
+Svane,Welhaven,Undirected,1
+Svane,lille Frue,Undirected,1
+Ejgil,Frue,Undirected,1
+Byrge,Ejgil,Undirected,1
+Byrge,Leo Tolstoj,Undirected,1
+Gud,Hr. Svane,Undirected,1
+Stephansen,Winther,Undirected,1
+Gud,Stephansen,Undirected,1
+Frue,Gud,Undirected,1
+Barnardo,Gud Faders,Undirected,1
+Gud Faders,Hr. Svane,Undirected,1
+Aage,Svend Byrge,Undirected,1
+Davren,Svend Byrge,Undirected,1
+Aage,Konrad,Undirected,3
+Byrge,Konrad,Undirected,1
+Byrge,Svane,Undirected,1
+Aage,Ravnholt,Undirected,1
+. Macpherson,Barnardo,Undirected,1
+. Macpherson,Steffanson,Undirected,1
+Barnardo,Steffanson,Undirected,1
+Hans,Svane,Undirected,1
+Svane,Theodor,Undirected,1
+Aage,Theodor,Undirected,2
+Graad,Svane,Undirected,2
+Gretes,Svane,Undirected,1
+Jørgen,Lars Nielsens,Undirected,1
+Ejgil,Jørgen,Undirected,1
+Hans,Jørgen,Undirected,1

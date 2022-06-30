@@ -1,0 +1,110 @@
+source,target,type,weight
+Falk,Ix,Undirected,8
+Frøken Holk,vigjorde,Undirected,1
+Freja M.,Hr. Doktor,Undirected,1
+Gerda,Gerda Kleins,Undirected,1
+Gerda,Gud,Undirected,1
+Gud,véd,Undirected,1
+Henning,véd,Undirected,1
+Frøken Holk,Henning,Undirected,1
+Falk,Frøken Holk,Undirected,4
+Frøken Holk,Hr. Henning,Undirected,1
+Falk,Hr. Henning,Undirected,1
+Falk,Mathilde,Undirected,10
+H. P. Holms,Mathilde,Undirected,1
+Falk,Gud,Undirected,5
+Herbert Spencers,Spencers,Undirected,2
+Margrete,Papa,Undirected,5
+Magda de,Papa,Undirected,1
+Magda de,ru Heiberg,Undirected,1
+Magda,ru Heiberg,Undirected,1
+Adolf,Magda,Undirected,1
+Frøken,Margrete,Undirected,1
+Cederstrøm,Frøken,Undirected,1
+Cederstrøm,Trampes,Undirected,2
+Cederstrøm,Lucie Trampe,Undirected,1
+Cederstrøm,Margrete,Undirected,2
+Geert,Schumann,Undirected,1
+Frøken de Geert,Schubert,Undirected,1
+Brackes,foulards,Undirected,1
+Maggie,Oppens,Undirected,1
+Margrete,Marv,Undirected,1
+Ask,Falk,Undirected,1
+Grete,Margrete,Undirected,1
+Gretchen,Ix,Undirected,1
+Falk,Maggie,Undirected,1
+Ix,Margrete,Undirected,6
+Carstens,Falk,Undirected,2
+Carstens,Ix,Undirected,2
+Følk,Papa,Undirected,1
+Mathilde,Sydamen,Undirected,1
+Mathilde,Otto,Undirected,2
+Lille Mathilde,Mathilde,Undirected,1
+Falk,lille Mathilde,Undirected,1
+Falk,Heinrich Heines,Undirected,1
+Gud,Heinrich Heines,Undirected,1
+Margrete Holk,Mathilde,Undirected,1
+Bilsted,Papa,Undirected,1
+Alette,Bilsted,Undirected,2
+Bilsted,Wolle,Undirected,1
+Ribers,Wolle,Undirected,1
+Alette,Ribers,Undirected,1
+Alette,Faders,Undirected,1
+Faders,Gud,Undirected,1
+Alette,Margrete,Undirected,2
+Adolf,Margrete,Undirected,5
+Adolf,Johan,Undirected,1
+Falk,Johan,Undirected,1
+Frøken Rode,Gud,Undirected,1
+Alette Bilsted,Margrete,Undirected,1
+Bilsted,Fader,Undirected,1
+Balkavaler Becks,Fader,Undirected,1
+Balkavaler Becks,Maggie,Undirected,1
+Falk,Margrete,Undirected,29
+Siegfride,Thyra,Undirected,1
+Adolf,Thyra,Undirected,1
+Margrete,Snobber,Undirected,1
+Margrete,spurgteIx,Undirected,1
+Margrete,røken,Undirected,1
+Falk,Frøken Margretes,Undirected,1
+Doktor Falk,Frøken Margretes,Undirected,1
+Ask,Doktor Falk,Undirected,1
+Falk,Thune,Undirected,1
+Thune,West,Undirected,1
+Haagensen,West,Undirected,1
+Haagensen,Margrete,Undirected,1
+Papa,olk,Undirected,1
+Papa,lille Adolf,Undirected,1
+Ix,Papa,Undirected,1
+Carl Baggers,Papa,Undirected,1
+Carl Baggers,Paganinis,Undirected,1
+Adolf,Falk,Undirected,2
+Falk,Tue,Undirected,1
+Falk,Helena,Undirected,1
+Margrete,Mathilde,Undirected,1
+Falk,Palestrina,Undirected,1
+Godards,Margrete,Undirected,1
+Bendtsen,Margrete,Undirected,3
+Bendtsen,Frøken Holk,Undirected,3
+Beethovens,Frøken Holk,Undirected,1
+Frøken Holk,Frøken Schou,Undirected,1
+Bendtsen,Rosa Haley,Undirected,2
+Eva,Rosa Haley,Undirected,1
+Madame Delord,Rosa Haley,Undirected,1
+Frøken de Geert,Margrete,Undirected,1
+Alette,Frøken de Geert,Undirected,1
+Ix,von Fail,Undirected,1
+Margrete,Margrete Holk,Undirected,1
+Bendtsen,Margrete Holk,Undirected,1
+Margrete Holk,Rosa Haley,Undirected,1
+Margrete,Rosa Haley,Undirected,1
+Madame Delord,Margrete,Undirected,1
+p. p. c.,phil. Ix,Undirected,1
+Falk,pardon,Undirected,1
+Frøken Holk,Holk,Undirected,2
+Hr. Hansen,"Impressario,",Undirected,1
+Hansen,Hr. Hansen,Undirected,1
+Falk,Hansen,Undirected,1
+Goethe,Terperups,Undirected,1
+Abglanz,Hr. Terperups,Undirected,1
+Goethe,Hr. Terperups,Undirected,1

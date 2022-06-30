@@ -1,0 +1,222 @@
+source,target,type,weight
+Astrid,Signe,Undirected,1
+Margit,Signe,Undirected,2
+Astrid,Hoel,Undirected,1
+Astrid,Gud,Undirected,11
+Astrid,Hjørdis,Undirected,2
+Astrid,Karen,Undirected,1
+Karen,Stina,Undirected,1
+Astrid,Sigurd,Undirected,1
+Hjørdis,Sigurd,Undirected,1
+Astrid,Stina,Undirected,8
+Astrid,Hvasser,Undirected,1
+Hjørdis,Hvasser,Undirected,1
+Gud,Hjørdis,Undirected,1
+Ragnhild,Signe,Undirected,1
+Astrid,fiasco,Undirected,1
+Astrid,August Holm,Undirected,1
+Astrid,Karen Linde,Undirected,1
+Karen Linde,Karl den femtendes,Undirected,1
+Karl den femtendes,Louise,Undirected,1
+Louise,vals,Undirected,1
+Anne,Astrid,Undirected,24
+Astrid,Holm,Undirected,30
+Astrid,Harald,Undirected,2
+August,Harald,Undirected,6
+Astrid,Vaas,Undirected,1
+Meyer,Stina,Undirected,1
+Anne,Stina,Undirected,2
+Anne,Holm,Undirected,5
+Gud,Stina,Undirected,1
+Moodys,Sankeys,Undirected,1
+Jesus,ivho will,Undirected,1
+h,ivho will,Undirected,1
+Wennerbergs,h,Undirected,1
+Astrid,Wennerbergs,Undirected,1
+Astrid,sely,Undirected,1
+bent,lille Augusts,Undirected,1
+lille Augusts,prairie,Undirected,1
+Harald,Holm,Undirected,2
+Astrid,August,Undirected,6
+Holm,hr. Holm,Undirected,1
+Astrid,hr. Holm,Undirected,1
+Astrid,tom,Undirected,1
+Anne,stakkars,Undirected,1
+Astrid,kanske liun,Undirected,1
+Anne,kanske liun,Undirected,1
+Aa,Anne,Undirected,1
+Aa,Astrid,Undirected,1
+Astrid,Meyer,Undirected,26
+Holm,Meyer,Undirected,8
+Astrid,frøken Holm,Undirected,9
+Hanson,Meyer,Undirected,11
+Meyer,frøken Holm,Undirected,3
+Hanson,frøken Holm,Undirected,2
+Marie,frøken Holm,Undirected,1
+Holm,jus,Undirected,1
+Hanson,Holm,Undirected,2
+Gud,Meyer,Undirected,1
+Hanson,Marie Hanson,Undirected,1
+Astrid,Hanson,Undirected,5
+Astrid,Marie,Undirected,21
+Astrid,Nicollett,Undirected,3
+Holm,Marie,Undirected,2
+Hanson,Peter,Undirected,1
+Inger »,Peter,Undirected,1
+Astrid,Inger »,Undirected,1
+Astrid,Bjørnson,Undirected,10
+Bjørnson,Meyer,Undirected,1
+Astrid,Laura,Undirected,3
+Laura,Marie,Undirected,1
+Marie,Mathilde,Undirected,1
+Laura,Meyer,Undirected,3
+Hanson,Johnsen,Undirected,1
+Johnsen,Meyer,Undirected,1
+Meyer,alf,Undirected,1
+Astrid,kneipen,Undirected,2
+Aksel,Laura,Undirected,1
+Laura,karen,Undirected,1
+Astrid,conduite,Undirected,1
+Meyer,stans,Undirected,1
+Anne,Meyer,Undirected,2
+Astrid,Pettersens,Undirected,1
+Pettersen,Pettersens,Undirected,1
+Meyer,Pettersen,Undirected,28
+Holm,Pettersen,Undirected,3
+Adolf,Adolf Meyer,Undirected,1
+Rasmussen,mrs.,Undirected,1
+Pettersen,mrs. Rasmussen,Undirected,2
+John Larsen,Meyer,Undirected,1
+Fischer,John Larsen,Undirected,1
+Fischer,Larsen,Undirected,1
+Fischer,Hammer,Undirected,1
+F'ru Hammer,Hr. Hammer,Undirected,1
+F'ru Hammer,kjøbmand Hammers,Undirected,1
+Hammer,Julia,Undirected,4
+Falanger,Hammer,Undirected,1
+Julia fru,St. Paul Hanna,Undirected,1
+Hammer,Julia fru,Undirected,1
+Haslund,Mrs.,Undirected,1
+Falanger,Robert Ingersoll,Undirected,1
+Bob,Falanger,Undirected,1
+Hale,mrs. Hale,Undirected,1
+Hammer,Helene,Undirected,2
+Falanger,Nielsen,Undirected,2
+Falanger,Julia,Undirected,2
+Hale,Nichol,Undirected,1
+Hjorth,Nielsen,Undirected,1
+Julia,Nielsen,Undirected,1
+Hammer,Hanna,Undirected,1
+Hammer,Tobiesen,Undirected,1
+Helene,Karen,Undirected,1
+Hammer,Marie,Undirected,1
+Falanger,Helene,Undirected,1
+Meyer,Smith,Undirected,9
+Hammer,Smith,Undirected,5
+Hammer,Meyer,Undirected,3
+Hr. Smith,Smith,Undirected,1
+Hr. Smith,hr. Meyer,Undirected,1
+Falanger,hr. Meyer,Undirected,1
+Rask,Smith,Undirected,4
+Helene —,Meyer,Undirected,1
+Hjort,Meyer,Undirected,2
+Hr. Meyer,Marie Hanson,Undirected,1
+Fanny,Julia,Undirected,1
+Hjorth,Meyer,Undirected,1
+Hjort,Larsen,Undirected,1
+Falanger,liun,Undirected,1
+Falanger,Meyer,Undirected,2
+Meyer,kneipevært Holm,Undirected,1
+Meyer,frue,Undirected,1
+Hammer,svarte Meyer,Undirected,1
+Astrid,Pettersen,Undirected,1
+Astrid,Lundberg,Undirected,3
+Astrid,kneipeværtens,Undirected,1
+Kneipetøs,kneipeværtens,Undirected,1
+Marie Hanson,Thomas &,Undirected,1
+Anne,Thomas &,Undirected,1
+Hanson,Nicollett,Undirected,2
+Hanson,Marie,Undirected,1
+Karl,Marie,Undirected,2
+Gud,Marie,Undirected,1
+Flun,Meyer,Undirected,1
+Holm,Smith,Undirected,5
+Astrid,Smith,Undirected,34
+Astrid,hr. Smith,Undirected,3
+Holm,hr. Smith,Undirected,1
+Frøken Larsen,Hjorth,Undirected,1
+Marie,Smith,Undirected,3
+Astrid,Karl,Undirected,2
+Karl,gut,Undirected,1
+Marie,gut,Undirected,1
+Karl,Smith,Undirected,1
+Marie,hr. Smith,Undirected,1
+Astrid,Hammer,Undirected,5
+Astrid,Thompson,Undirected,2
+frøken Holm,hr. Smith,Undirected,1
+Smith,Thompson,Undirected,1
+Smith,nonchalant,Undirected,1
+Astrid,nonchalant,Undirected,1
+Smith,frøken Holm,Undirected,2
+Frøken Holm,Rask,Undirected,1
+Astrid,Rask,Undirected,4
+Rask,Thompson,Undirected,2
+Astrid »,Rask,Undirected,1
+Astrid »,Smith,Undirected,1
+Hammer,Rask,Undirected,1
+Hammer,Nils,Undirected,1
+Hammer,frue,Undirected,1
+Holm,frue,Undirected,1
+Hammer,frøken Holm,Undirected,1
+braak,pappa Holm,Undirected,1
+Astrid,braak,Undirected,1
+Astrid »,Gud,Undirected,1
+Gud,Holm,Undirected,1
+Astrid,Frøken Holm,Undirected,1
+Bjørnson,Smith,Undirected,7
+Bjørnson,frøken Holm,Undirected,2
+Bjørnson,lo Smith,Undirected,1
+Astrid,lo Smith,Undirected,1
+Laura,Smith,Undirected,1
+Bjørnson,hr. Smith,Undirected,1
+Bjørnson,Hammer,Undirected,4
+Smith,xA.strid,Undirected,1
+Helene Nilsens,frøken Holm,Undirected,1
+Astrid,Helene,Undirected,30
+Bjørnson,hr. Hammer,Undirected,1
+Bjørnson,Bjørnstjerne Bjørnson,Undirected,1
+Venus,Wagner,Undirected,1
+Astrid,Venus,Undirected,1
+Astrid,anathema,Undirected,1
+Bjørnson,Gud,Undirected,2
+Anne,August,Undirected,2
+Anne,fa’,Undirected,1
+Gud,kneipeværtens,Undirected,1
+Herbert Spencers,Stuart Mills,Undirected,1
+Bjørnson,Pontoppidan,Undirected,1
+Gud,Pontoppidan,Undirected,1
+August,Bjørnson,Undirected,1
+Astrid,Tibbitts,Undirected,1
+Anne,Harald,Undirected,2
+mr.,mrs. Smith,Undirected,1
+Astrid,høit,Undirected,1
+Smith,høit,Undirected,1
+Astrid,Mo’,Undirected,1
+Anne,gamle,Undirected,1
+Anne,Jesus,Undirected,1
+Astrid,Helene Nielsens,Undirected,1
+Astrid,Astrid Holm,Undirected,1
+Astrid,Linnedet,Undirected,1
+Linnedet,øienhaar,Undirected,1
+Helene,øienhaar,Undirected,1
+Helene,Smith,Undirected,1
+Bjørnson,Helene,Undirected,2
+Lundberg,Meyer,Undirected,2
+Jesu,Nasarets,Undirected,1
+Astrid,sjou,Undirected,1
+Meyer,sjou,Undirected,1
+Astrid,frøken,Undirected,1
+Gud,Helene,Undirected,2
+Gaunett,Helene,Undirected,2
+Astrid,Mr. Livermore,Undirected,1
+Gud,Harald,Undirected,1

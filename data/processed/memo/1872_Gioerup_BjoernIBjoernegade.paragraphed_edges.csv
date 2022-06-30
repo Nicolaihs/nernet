@@ -1,0 +1,470 @@
+source,target,type,weight
+Bjørn,Bjørnsen,Undirected,3
+Bjørnsen,Bjørnsøn,Undirected,1
+Jannar 1846,Kong Christian,Undirected,1
+Jannar,Kong Christian,Undirected,1
+Bjørn,Olsens,Undirected,1
+Bjørn,Christian den,Undirected,1
+Olsen,fredie,Undirected,1
+Bjørn,Niels Juul,Undirected,1
+Bjørn,Olsen,Undirected,2
+Bjørn,Bjørnson,Undirected,2
+Mutter,Olsen,Undirected,2
+Christian den,Overskon,Undirected,1
+Christian den,Niels Juels,Undirected,1
+Niels Juels,Tordenskjolds,Undirected,1
+Christian den,Tordenskjolds,Undirected,1
+Bjørn,Madam Kruse,Undirected,9
+Bjørn,fog,Undirected,1
+Bjørn,Madam Jacobsen,Undirected,8
+Madam Jacobsen,Madam Kruse,Undirected,3
+Bjørn,Kruses,Undirected,1
+Bjørn,Lille Anna,Undirected,1
+Bjørn,Christian,Undirected,4
+Anna,Bjørn,Undirected,3
+Fanny,paany,Undirected,2
+Madam Kruse,ifjor,Undirected,1
+Rye,SchlepPegrell,Undirected,1
+SchlepPegrell,Wilster,Undirected,1
+Henckel,Wilster,Undirected,1
+Henckel,Moltke,Undirected,1
+Moltke,Tschako,Undirected,1
+Bjørnsen,Otto Frossing,Undirected,1
+Bjørnsen,Frossing,Undirected,1
+Bjørnsen,Selgren Bjørnsen,Undirected,1
+Otto Frossing,Selgren,Undirected,5
+Lientenanten,Selgren,Undirected,1
+Rønfelt,Selgren,Undirected,32
+Lehnsbaron,Rønfelt,Undirected,1
+Lehnsbaron,Selgren,Undirected,1
+Arnesens,Selgren,Undirected,1
+Dn,Rønfelt,Undirected,2
+Selgren,Voxne,Undirected,1
+Peer,Rønfelt,Undirected,1
+Bjørnsen,Bjørnson,Undirected,3
+Bjørnson,Selgren Bjørnsen,Undirected,1
+Peter Bjørnsen,Selgren Bjørnsen,Undirected,1
+Jens Bjørnsen,Peter Bjørnsen,Undirected,1
+Jens Bjørnsen,Selgren,Undirected,1
+Carl,Peter Bjørnson,Undirected,1
+Carl,Emil,Undirected,4
+Emil,Midicin,Undirected,1
+Elisabeth,Midicin,Undirected,1
+Amalie,von Werlau,Undirected,1
+Amalie,Charlotte,Undirected,8
+Carl,Charlotte,Undirected,1
+Amalie,Carl,Undirected,6
+Amalie,Bjørnson,Undirected,4
+Maren,Mariane,Undirected,1
+Elisabeth,Emil,Undirected,3
+Hans Majesfæt,Kousine,Undirected,1
+Bjørnson,Hans Majesfæt,Undirected,1
+Bjørnson,Emil,Undirected,3
+Emil,Selgren,Undirected,19
+Emil,Guds,Undirected,1
+Emil,Von,Undirected,1
+Elisabeth,Selgren,Undirected,5
+Dn,Emil,Undirected,1
+Elisabeth,dandser,Undirected,1
+Selgren,dandser,Undirected,1
+Dands,Emil,Undirected,1
+Dandsen,Otto Frossing,Undirected,1
+Charlotte,Otto Frossing,Undirected,1
+Kousine,Selgren,Undirected,5
+Elisabeth,Kousine,Undirected,2
+Frossing,Selgren,Undirected,5
+Selgren,slilles,Undirected,1
+Charlotte,Frossing,Undirected,9
+Kong Frederik den Sjettes,Prinds Ferdinand,Undirected,1
+Carl Bjørnson,Kong Frederik den Sjettes,Undirected,1
+Carl Bjørnson,Prinds Ferdinand,Undirected,1
+Prinds Ferdinand,Prindsen,Undirected,1
+Prindsen,Prindsessen,Undirected,1
+Charlotte,Prindsessen,Undirected,1
+Charløtte,Frossing,Undirected,1
+Emil,Frossing,Undirected,8
+Charløtte,Otto Frossing,Undirected,1
+Prinds Ferdinand,Rønfelt,Undirected,1
+A,Rønfelt,Undirected,1
+Amalie,Karls,Undirected,1
+Amalie,Karl,Undirected,8
+Bjønson,Bjørnson,Undirected,1
+Charlotte,Elisabeth,Undirected,1
+Hr. Emil,Werlau,Undirected,1
+Emil,Kadet Frossing,Undirected,1
+Charlotte,Emil,Undirected,3
+Rønfelt,Werlan,Undirected,2
+Lehnsbaron Rønfelt,Werlan,Undirected,1
+Lehnsbaron Rønfelt,Rønstrup,Undirected,1
+Elisabeth,Werlan,Undirected,2
+Amalie,Emil,Undirected,2
+Amalie,Fortepiano,Undirected,1
+Fortepiano,Selgren,Undirected,1
+Selgren,dandse,Undirected,1
+Charlotte,Werlan,Undirected,1
+Karl,Selgren,Undirected,2
+Charlotte,Werlau,Undirected,1
+Charlotte,Rønfelt,Undirected,3
+Charlotte,Selgren,Undirected,7
+Kafeen,Selgren,Undirected,1
+Merlaus,Selgren,Undirected,1
+Merlaus,Rønfelt,Undirected,1
+Rønselt,Selgren,Undirected,1
+Frossing,Kousine,Undirected,1
+Onkels,Werlau,Undirected,1
+Selgren,Werlau,Undirected,1
+Charlotte Werlau,Selgren,Undirected,1
+Charlotte Werlau,Rønfelt,Undirected,1
+Frossing,Rønfelt,Undirected,2
+Bjørn,Emil,Undirected,7
+Bjørn,Emil Bjørnson,Undirected,2
+Emil,Emil Bjørnson,Undirected,1
+Emil,Madam Bjørn,Undirected,3
+Fanny Frederikke Bjørn,Olsen,Undirected,1
+Madam Kruse,Olsen,Undirected,1
+Bjørn,Kanoneer Kruse,Undirected,1
+Madam Bjørn,Olsen,Undirected,2
+Gud,Madam Ol sen,Undirected,1
+Frederik,Gud,Undirected,1
+Madam Kruse,Viby,Undirected,1
+Bjørn,Viby,Undirected,1
+Madam Bjsrn,Olsen,Undirected,1
+Bjørn,Madam Olsen,Undirected,1
+Erik Bøgh,Recke,Undirected,1
+Heibergs,Recke,Undirected,1
+Heibergs,Herkzes,Undirected,1
+Herkzes,Kong Christian,Undirected,1
+Anker,Jessen,Undirected,1
+Karl Jessen,iland,Undirected,1
+dandsed,iland,Undirected,1
+Jessen,Olsen,Undirected,1
+Jessen,Lougen,Undirected,1
+Lougen,engelsfe,Undirected,1
+Emil,Olsen,Undirected,3
+Bjørn,Madam Bjørn,Undirected,2
+Emil,Viby,Undirected,1
+Albertine,Jøsefine,Undirected,1
+Emil,Nyboders,Undirected,1
+Emil,Madam Kruse,Undirected,1
+Madam,Olsen,Undirected,1
+Emil,Hr. Olsen,Undirected,1
+Bjørn,Humeur,Undirected,2
+Otto Frossing,Rønfelt,Undirected,1
+Amalie Bjørnson,Charlotte,Undirected,1
+Amalie,Amalie Bjørnson,Undirected,1
+Amalie,Frossing,Undirected,4
+Frossing,jø,Undirected,2
+Charlotte,Stage,Undirected,4
+Hastrup,Otto Frossing,Undirected,1
+Bjørnson,Stage,Undirected,2
+Charlotte,Karl,Undirected,1
+Amalie,Stage,Undirected,3
+Frossing,lille Charlotte,Undirected,1
+Bjørnson,Werlau,Undirected,1
+Stage,Werlau,Undirected,1
+Emil,Stage,Undirected,2
+Stage,Werlan,Undirected,2
+A,B.,Undirected,1
+B.,Frossing,Undirected,1
+Amalie,Otto Frossing,Undirected,1
+Charlotte,Øe,Undirected,1
+Rønfelt,Øe,Undirected,2
+Stage,Øe,Undirected,1
+Amalie,Selgren,Undirected,17
+Eugen Sues,Victor Hugos,Undirected,1
+Alexander Dumas,Eugen Sues,Undirected,1
+Alexander Dumas,Paul de Kock,Undirected,1
+Paul de Kock,Selgren,Undirected,1
+Karl af Rise,Selgren,Undirected,1
+Drost Peder Hessel,Karl af Rise,Undirected,1
+Bjørnson,Charlotte,Undirected,2
+Bjørnson,Selgren,Undirected,8
+Amalie,Øe,Undirected,3
+Bjørnson,Karl,Undirected,1
+Emil,Karl,Undirected,2
+Bræstrup,Stage,Undirected,1
+Noers,Selgren,Undirected,1
+Bjørn,Fanny,Undirected,4
+Christian,Fanny,Undirected,3
+Anna,Christian,Undirected,1
+Gejser,Najaden,Undirected,1
+Bille,Suenson,Undirected,1
+Christian der Achte,Suenson,Undirected,1
+Schow,Suenson,Undirected,1
+Christian der,Schow,Undirected,1
+Olsen,Siig Madam Kruse,Undirected,1
+Emil,Hornby,Undirected,1
+Hornby,Madam Bjørn,Undirected,1
+Fanny,Selgren,Undirected,27
+Anna,Fanny,Undirected,2
+Anna,Emil,Undirected,1
+Anna,Selgren,Undirected,1
+Emil,Torn,Undirected,1
+Hornby,Torn,Undirected,1
+Hornby,Olsen,Undirected,1
+Hornby,Thinge,Undirected,1
+Olsen,Selgren,Undirected,1
+Selgren,sliltes,Undirected,1
+Elisabeth,Stage,Undirected,1
+Selgren Bjørnson,Stage,Undirected,1
+Josefine,Olsen,Undirected,1
+Christian,Olsen,Undirected,1
+Dn,Selgren,Undirected,1
+Lieutenant Frossing,Selgren,Undirected,1
+Amalie,Dn,Undirected,1
+Emil Bjørnson,Frossing,Undirected,1
+Georg,Ieg,Undirected,1
+Amalie,paany,Undirected,1
+Frossing,paany,Undirected,1
+Frossing,Krisfus,Undirected,1
+Karl,Krisfus,Undirected,1
+Selgren,Selgren Bjørnsen,Undirected,6
+Gammelholms,Selgren,Undirected,2
+Selgren,Skærf,Undirected,1
+Lehnsmandens,øg,Undirected,1
+Christian,Selgren,Undirected,5
+Bjørn,Selgren,Undirected,22
+Porfvin,Øe,Undirected,1
+Doras,Selgren,Undirected,1
+Frøken Peters,Peters,Undirected,1
+Grethe Peters,Kousine,Undirected,1
+Frøken Peters,Rønfelt,Undirected,1
+Dora,Selgren,Undirected,30
+Frøken Delfs,Selgren,Undirected,1
+Dora,Rønfelt,Undirected,8
+Ove Rønfelt,Skjæbnen,Undirected,1
+Rønfelt paany,Selgren,Undirected,1
+Dora,Rønfelt paany,Undirected,1
+Dora,Kousine,Undirected,1
+Kousine,Rønfelt,Undirected,1
+Rønfell,Selgren,Undirected,1
+Dora,Rønfell,Undirected,1
+Bjørnson,Werlan,Undirected,1
+Dalter Charlotte,Werlan,Undirected,1
+Selgren,Werlan,Undirected,1
+Amalie,Werlan,Undirected,1
+Amalie,Grethe,Undirected,2
+Grethe,Selgren,Undirected,40
+Frøken Peters,Selgren,Undirected,4
+Frøken Peters,paany,Undirected,1
+Dora,paany,Undirected,1
+Frøken Delfs,Rønfelt,Undirected,1
+Grethe Peters,Selgren,Undirected,1
+Bjørnson,Peters,Undirected,1
+Frøken Delfs,Grethe Peters,Undirected,1
+Carstens,Justitsraad Peters,Undirected,2
+Carstens,Selgren,Undirected,1
+Akcent,Carstens,Undirected,1
+Akcent,Selgren,Undirected,1
+Carstens,Frøken Peters,Undirected,1
+Bjørnson,Grethe,Undirected,3
+Pisfoler,Rønfelt,Undirected,1
+Dora,Grethe,Undirected,12
+Carstens,øg,Undirected,1
+Grethe,Rønfelt,Undirected,1
+Carstens,Peters,Undirected,3
+Johannes,Justitsraad Peters,Undirected,2
+Justitsraad Peters,Peters,Undirected,1
+Grethe,Peters,Undirected,3
+Anders Sandø Ørsted,Orla Lehmann,Undirected,1
+Frøken Peters,Lehmann,Undirected,1
+Lise,Peters,Undirected,1
+Grethe,Lise,Undirected,1
+Grethe,Johannes Carstens,Undirected,1
+Madam Bjørn,Selgren,Undirected,2
+Kousinens,Selgren,Undirected,1
+Grethe,Kousinens,Undirected,2
+Grethe,Madam Bjørn,Undirected,2
+Bjørnson,Madam Bjørn,Undirected,1
+Carstens,Grethe,Undirected,1
+Grethe,Kousine,Undirected,1
+Dora Delfs,Kousine,Undirected,1
+Ieg,Rønfelt,Undirected,1
+Peters,Rønfelt,Undirected,1
+Ieg,Peters,Undirected,1
+Ieg,Kousine,Undirected,1
+Dora,Madam Bjørn,Undirected,2
+Frøken Delfs,Madam Bjørn,Undirected,1
+Frøken Delfs,Madamen,Undirected,1
+Madamen,Tydsk,Undirected,1
+Delfs,Tydsk,Undirected,1
+Delfs,Grethe,Undirected,1
+Bjørnsen,Rønfelt,Undirected,1
+Bjørnsen,Dora,Undirected,3
+Christian,Kousinens,Undirected,1
+Dora,Fanny,Undirected,1
+Fanny Bjørn,Grethe,Undirected,1
+Fanny,Fanny Bjørn,Undirected,1
+Selgren,lille Fanny,Undirected,1
+David Copperfield,Frøken Delfs,Undirected,1
+David Copperfield,Mr. Dick,Undirected,1
+Carl den,Mr. Dick,Undirected,1
+Carl den,Lieutenant Rønfelt,Undirected,1
+Grethe,Lieutenant Rønfelt,Undirected,1
+Bjørnson,Elisabeth,Undirected,1
+Emil,Werlan,Undirected,2
+Emil,Grethe,Undirected,2
+Carl,Elisabeth,Undirected,2
+Amalie,Elisabeth,Undirected,2
+Carl,Øe,Undirected,1
+Selgren,Øe,Undirected,3
+Dora,Grethe Delfs,Undirected,1
+Grethe Delfs,Grethe Peters,Undirected,1
+Grethe Peters,Selgren Bjørnsen,Undirected,1
+Amalie,Bjørn,Undirected,1
+Bjørn,Josefine Viby,Undirected,1
+Bjørn,Grethe,Undirected,1
+Bjørn,Dora,Undirected,1
+Dora,Josefine,Undirected,4
+Josefine,Madam Bjørn,Undirected,1
+Grethe,Josefine,Undirected,1
+Dora,Hansen,Undirected,1
+Hansen,Josefine,Undirected,1
+Bjørn,Mutter,Undirected,1
+Josefine,Selgren,Undirected,1
+Jnletid,sine Kjæræ,Undirected,1
+Josefine,paany,Undirected,1
+Bjørn,paany,Undirected,1
+Amalie,Dora,Undirected,2
+Amalie,Josefine,Undirected,2
+Grethe,Junl,Undirected,1
+Josefine,Øe,Undirected,1
+Dora,Lieutenant Bjørnsen,Undirected,1
+Dora,Øe,Undirected,1
+Priis,Øe,Undirected,1
+Lieutenant Bjørnsen,Priis,Undirected,1
+Amalie,Peters,Undirected,1
+Margrethe Peters,Selgren Bjørnsen,Undirected,1
+Amalie,Selgren Bjørnsen,Undirected,1
+Amalie,Gud,Undirected,1
+Carl,Jøsefine,Undirected,1
+Amalie,Jøsefine,Undirected,1
+Carl,Iosefine,Undirected,1
+Carl,Grethe,Undirected,1
+Amalie,Erik,Undirected,1
+Elisabeth,Grethe,Undirected,3
+Jakob Levin,Selgren,Undirected,1
+Landlivel,Selgren,Undirected,1
+Huldreich,Selgren,Undirected,5
+Niels,Selgren,Undirected,1
+Selgren,spiis,Undirected,1
+Amalie,Werlau,Undirected,1
+Grethe,Jakob,Undirected,1
+Amalie bi,Selgren,Undirected,2
+Gud,Selgren,Undirected,2
+Grethe,Præsfen,Undirected,1
+Gud,Præsfen,Undirected,2
+Lee,Præsfen,Undirected,1
+Præsfen,Werlau,Undirected,1
+Peters,Præsfen,Undirected,1
+Emil Bjørnson,Grethe,Undirected,1
+Selgren,øg,Undirected,1
+Selgren,Selgren taug,Undirected,1
+Selgren,tillive,Undirected,1
+Lieutenant Rønfelt,Selgren,Undirected,2
+Lieutenant Rønfelt,Rønfelt,Undirected,1
+Pasfor Huldreich,Selgren,Undirected,1
+Lehnsbaron Rønfelt,Rønfelt,Undirected,1
+Lee,Selgren,Undirected,1
+Selgren,fale,Undirected,3
+Jakob,Selgren,Undirected,13
+Hjulmand Tetens,Selgren,Undirected,1
+Dora,Kjender,Undirected,1
+Bjørnsen,Grethe,Undirected,1
+Delfs,Lehnsmand,Undirected,2
+Selgren,Tetens,Undirected,1
+Lieutenant Rønfell,Selgren,Undirected,1
+Baroni,Dora,Undirected,1
+Rønfelt,nefop,Undirected,1
+Lehnsmand Delfs,Selgren,Undirected,2
+Dora,Lehnsmand Delfs,Undirected,2
+Dora,Jakob,Undirected,4
+Grothorn,Selgren,Undirected,3
+Eichwald,Grothorn,Undirected,1
+Dora,Eichwald,Undirected,1
+Lehnsmand,Rønfelt,Undirected,1
+Dora,Lehnsmanden,Undirected,1
+Eichwald,Selgren,Undirected,3
+Delfs,Eichwald,Undirected,1
+Delfs,Selgren,Undirected,1
+Dora,Lieutenant von Bjørnsen,Undirected,1
+Dora,Vonnet,Undirected,1
+Kousine Grethe Peters,Vonnet,Undirected,1
+Eichwald,Gustav von Eichwald,Undirected,1
+Gustav von Eichwald,Herman von Ahrenfelt,Undirected,1
+Herman von Ahrenfelt,Selgren,Undirected,1
+Dora,Kur,Undirected,1
+Kur,Selgren,Undirected,1
+Gustav,Selgren,Undirected,8
+Eichwald,Gustav,Undirected,1
+Gustav,Herman,Undirected,1
+Herman,von Eichwald,Undirected,1
+Lehnsmanden,Øe,Undirected,1
+Hr. von Eichwald,Øe,Undirected,1
+Dora,von Eichwald,Undirected,1
+Lientenanten,von Eichwald,Undirected,1
+Gustav von Eichwald,Selgren,Undirected,1
+Gustav von Eichwald,Herman von Ahrenfell,Undirected,1
+Gustav,Herman von Ahrenfell,Undirected,1
+Gustav,Stokke,Undirected,1
+Ahrenfelt,Selgren,Undirected,1
+Selgren,von Ahrenfelts,Undirected,1
+August,Selgren,Undirected,1
+Selgren,Stage,Undirected,5
+Dora,Stage,Undirected,1
+Obersfen,Selgren,Undirected,2
+Krogh,Roes,Undirected,1
+Roes,Selgren,Undirected,1
+Løves,Selgren,Undirected,2
+Anna,Christian —,Undirected,1
+Bjørn,tom,Undirected,1
+Bjørn,Jens,Undirected,1
+Jens,Selgren Bjørnsen,Undirected,1
+Peters,Selgren Bjørnsen,Undirected,1
+Fanny,Peters,Undirected,1
+Fanny,Grethe,Undirected,1
+Fanny,Øe,Undirected,3
+Bjørn,Øreng,Undirected,1
+Dands,Øreng,Undirected,1
+Hr. Lieutenant,Orlogs,Undirected,1
+Fanny,gjentøg Selgren,Undirected,2
+Bjørn,Bjørnegade,Undirected,1
+Fanny,Magrethes,Undirected,1
+Bjørn,Kristian Bjørn,Undirected,1
+Lieutenantens,Selgren,Undirected,1
+Bjørnsener,Selgren,Undirected,1
+Mr. Bear,Selgren Bjørnsen,Undirected,2
+Bjørnsen,Mr. Bear,Undirected,2
+Bjørnsen,Ieg,Undirected,1
+Ieg,Lieutenant Bjørnsen,Undirected,1
+Ieg,Mr. Bear,Undirected,1
+Mr. Bear,Selgren,Undirected,2
+Bear,Selgren,Undirected,1
+Bear,Bjørn,Undirected,1
+Malajer,fale,Undirected,1
+Malajer,Selgren,Undirected,1
+Christian Bjørnsen,Selgren,Undirected,1
+Fanny,jusf,Undirected,1
+Bjørnson,Erik,Undirected,1
+Juel,Selgren,Undirected,2
+Peter Bjørnson,Selgren,Undirected,3
+Ole Olesen Bjørn,Selgren Olesen,Undirected,1
+Elisabeth Jensen,Ole,Undirected,1
+Elisabeth Jensen,Jens Jensen,Undirected,1
+Ole,Ole Olesen Bjørn,Undirected,1
+Danebroge,Ieg,Undirected,1
+Fanny,Gud,Undirected,2
+Fanny,Ieg,Undirected,1
+Selgren,paany,Undirected,1
+Anna,Petersen,Undirected,1
+Christian Bjørn,Fanny,Undirected,1
+Dora Delfs,Selgren Bjørnsen,Undirected,1
+Dora Delfs,Mr. Bear,Undirected,1
+Peter,Selgren Bjørnsen,Undirected,1
+Jens,Peter,Undirected,2
+Jens,Selgren,Undirected,1
+Gud,Jens,Undirected,2
+Bjørnsen,Vanderlo,Undirected,1
+Christian,Christian tang,Undirected,1
+Christian tang,Fanny,Undirected,1
+Fanny,Lehnsbaron Rønfelt,Undirected,1

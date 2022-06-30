@@ -1,0 +1,146 @@
+source,target,type,weight
+Puttmann,Svend,Undirected,2
+Lucie,Svend,Undirected,1
+Lucie,hans,Undirected,1
+Lucie,Peter,Undirected,8
+Adelgunde,Lucie,Undirected,2
+Grosseer,dam,Undirected,1
+Lucie,dam,Undirected,1
+Mester,Peter,Undirected,2
+Peter,Stine,Undirected,1
+Janette,Stine,Undirected,1
+Janette,Peter,Undirected,1
+Peter,Siegfried Brumling,Undirected,1
+Peter,Svend,Undirected,3
+Line Tofte,Lucie,Undirected,1
+Brumling,Lucie,Undirected,1
+Lines,Lucie,Undirected,1
+Lucie,Victor,Undirected,4
+Lieufenantens,Peter Puttmann,Undirected,1
+Peter Puttmann,Svend,Undirected,1
+Principals,Svend,Undirected,1
+Lucie,Principals,Undirected,1
+Peter,Puttmann,Undirected,4
+Puttmann,fænkde,Undirected,1
+Got,Peter,Undirected,1
+Ole Bruus,Peter Puttmann,Undirected,4
+Kjærrest,Ole,Undirected,1
+Kjærrest,Principals,Undirected,1
+Principal,Principals,Undirected,1
+Victor Klem,von,Undirected,1
+Lucie,Peter Puttmann,Undirected,1
+Bruus,Ole,Undirected,1
+Frøken Lucie,Peter,Undirected,1
+Publicus,Puttmann,Undirected,1
+Peter,Principal,Undirected,1
+Principal,Puttmann,Undirected,1
+Puttmann,Roeskilde,Undirected,3
+Abelgunde,Abelgunde Margrethe,Undirected,1
+Karoline Abelgunde Puttmann,Madam Lucie,Undirected,1
+Karoline Abelgunde Puttmann,Puttmann,Undirected,1
+Peter Puttmann,Puttmann,Undirected,1
+Ole,Peter,Undirected,10
+Francisca,Lieuteant v.,Undirected,1
+Lieuteant v.,Rudolf,Undirected,1
+Christian 8des,Rudolf,Undirected,1
+Madam Lucie,Puttmann,Undirected,1
+Kjøn,Puttmann,Undirected,1
+Francesca,Principal,Undirected,1
+Ole Bruus,Puttmann,Undirected,8
+Ole,Puttmann,Undirected,4
+Ole Brnus,Puttmann,Undirected,1
+Frederik Vilhelm,Puttmann,Undirected,1
+Bodil,Puttmann,Undirected,1
+Adelgunde,Bodil,Undirected,1
+Bodil,Ole Bruus,Undirected,6
+Ole Bruus,Peter,Undirected,4
+Lærke,Peter,Undirected,2
+Ole,Ole Bruus,Undirected,3
+Rudolf,Victor v.,Undirected,1
+Kaptains,Rudolf,Undirected,1
+Peter,Rudolf,Undirected,2
+Gud,Ole,Undirected,1
+Gud,Peter,Undirected,1
+Peter,jø,Undirected,3
+Ole,jø,Undirected,1
+Bruus,Puttmann,Undirected,1
+Rudolf,Victor,Undirected,2
+Puttmann,Rudolf,Undirected,2
+Ludvig,Pehr,Undirected,5
+Alfred,Ludvig,Undirected,4
+Alfred,Pehr,Undirected,2
+Albrekt,Alfred,Undirected,1
+Alfred,Evadatter,Undirected,1
+Purthan,Rødbye,Undirected,1
+Abildgaard,Rødbye,Undirected,1
+Grete,Pehr,Undirected,3
+Bodil,Peter,Undirected,1
+Madam Høst,Peter,Undirected,1
+Peter,Rudolf Høst,Undirected,1
+Faders,Rudolf,Undirected,1
+Peter,def,Undirected,1
+Knnd,Peter,Undirected,1
+Ludvig,Puttmann,Undirected,1
+Pehr Purthan,Peter Puttmann,Undirected,1
+Edvard,Ludvig,Undirected,1
+Alfred,Grete,Undirected,2
+Grete,Rudolf Høst,Undirected,1
+Lucie,Puttmann,Undirected,3
+Klems,Puttmann,Undirected,1
+Leie,Lucie,Undirected,1
+Ludvig,Pehr Purthan,Undirected,1
+Knnd,Madam Høst,Undirected,1
+Knud,Peter,Undirected,2
+Edvard,Puttmann,Undirected,1
+Alf,Puttmann,Undirected,1
+Alfred,Bruus,Undirected,1
+Ole Bruns,Puttmann,Undirected,1
+Ole Bruns,Peter,Undirected,1
+Karl,Ole Bruns,Undirected,2
+Alfred Brun,Puttmann,Undirected,1
+Knud,Puttmann,Undirected,4
+Knud,Ole Bruus,Undirected,2
+Adelgunde,Rudolf Høst,Undirected,1
+Alfred,Rudolf Høst,Undirected,1
+Adelgunde,Alfred,Undirected,1
+Ole Bruus,øg,Undirected,2
+Puttmann,øg,Undirected,1
+Alfred,Arthur,Undirected,1
+Arthur,Vilhelm,Undirected,3
+Vilhelm,hans Vilhelm,Undirected,1
+hans Vilhelm,øg,Undirected,1
+Ole,Peter Puttmann,Undirected,1
+Albrekt,kjønne Grete,Undirected,1
+Pehr,Vilhelm,Undirected,1
+Bruus,Ludvig,Undirected,1
+Adelgunde,Ole Bruus,Undirected,1
+Adelgunde,Karl,Undirected,1
+Arthur,Ole Bruns,Undirected,1
+Karl,Reilingen,Undirected,1
+Karl,Ole,Undirected,8
+Karl,Svend,Undirected,1
+Abelgunde,sledse,Undirected,1
+Puttmann,vims,Undirected,1
+Puttman,Puttmann,Undirected,1
+Blak,Puttman,Undirected,1
+Blak,Karl,Undirected,1
+Karl,Ludvig,Undirected,1
+Peter,Svend øg,Undirected,1
+Svend øg,fil,Undirected,1
+Ole,fil,Undirected,1
+Karl,Principal,Undirected,2
+Karl reisde,Ole,Undirected,1
+Karl,Ole Bruus,Undirected,1
+Peter,got,Undirected,1
+Karl fil,Peter,Undirected,1
+Karl,Peter,Undirected,2
+Admiral,Ole,Undirected,1
+Roes,Ulk,Undirected,1
+Puttmann,Roes,Undirected,1
+Alfred,Arthur øg Vilhelm,Undirected,1
+Karl Drost,Purthan,Undirected,1
+Gud,Ole Bruus,Undirected,1
+Ole,øg,Undirected,2
+Knud,Knud Vestergaard,Undirected,1
+Husfred,Peter,Undirected,1
+Kong Frederik,Ole,Undirected,1

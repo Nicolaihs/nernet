@@ -1,0 +1,33 @@
+source,target,type,weight
+Agnete,Thorbjørnsens,Undirected,1
+Agnete,valman,Undirected,1
+Agnete,ningen,Undirected,1
+Morten,P'ruentimmer,Undirected,1
+Anders Kusk,Sine,Undirected,1
+Anders Kusk,Ellen,Undirected,1
+Greve,Morten,Undirected,1
+Greve,Mogens,Undirected,3
+Frøken Thor,Thorbjørksen,Undirected,1
+Agnete,Greve,Undirected,2
+Agnete,Mamsel Leidersdorff,Undirected,2
+Agnete,Mamsellen,Undirected,12
+Agnete,Mogens,Undirected,4
+Agnete,Mamsel Leidersdorfif,Undirected,1
+Greve,Mamsel Leidersdorff,Undirected,1
+Greve,Morten Vægter,Undirected,1
+Mogens musegraa,Morten Vægter,Undirected,1
+Agnete,Frøken Thorbjørnsen,Undirected,1
+Magen,Mamsellen,Undirected,1
+Agnete,Graad,Undirected,1
+Mamsellen,Munk,Undirected,1
+Frøken Thorbjørnsen,Thorbjørnsens,Undirected,1
+Agnete,Gud,Undirected,3
+Greven,Gud,Undirected,1
+Mamsellen,Mogens,Undirected,3
+Else,Greven,Undirected,1
+Mamsel Leidersdorff,Mamsellen,Undirected,1
+Agnete,Greven,Undirected,1
+Frederik,Mamsellen,Undirected,1
+Frederik,Mamsel Leidersdorff,Undirected,1
+Greve,Gud,Undirected,1
+Agnete Thorbjørnsen,Jesu,Undirected,1

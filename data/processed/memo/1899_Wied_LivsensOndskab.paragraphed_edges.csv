@@ -1,0 +1,363 @@
+source,target,type,weight
+Engeline,Thumsen,Undirected,1
+Engeline,Konsul Mørchs,Undirected,1
+Engeline,Rikke,Undirected,2
+Emanuel,Thumsen,Undirected,2
+Emanuel,Karens,Undirected,1
+Thomsen,saaden,Undirected,1
+Frøken Reiersen,lisom,Undirected,1
+Frøken Reiersen,Karlen,Undirected,1
+Emanuel Thomsen,Karlen,Undirected,1
+Rikke,Thumsen,Undirected,1
+Mortensen,Thumsen,Undirected,1
+Clausen,Emanuel,Undirected,1
+Clausen,Thomsen,Undirected,2
+Emanuel,Madam Thomsen,Undirected,3
+Madam Thomsen,Manuel,Undirected,8
+Knors,Thomsen,Undirected,2
+Kissemanden,vos,Undirected,1
+Madam Thomsen,Thomsen,Undirected,3
+Emanuel,Knors,Undirected,1
+Karen,Manuel,Undirected,24
+Karen,di,Undirected,1
+Knors,Mortensen,Undirected,8
+Emanuel,Manuel,Undirected,2
+Manuel,okja,Undirected,2
+Mortensen,Thomsen,Undirected,5
+Karen,Thomsen,Undirected,2
+Knors,Manuel,Undirected,2
+Manuel,sorn,Undirected,1
+Karen,sorn,Undirected,1
+Karen,Knors,Undirected,1
+Jesu,Manuel,Undirected,2
+Emanuel,Karen,Undirected,5
+Karen,Madam Thomsen,Undirected,4
+Thomsen,lille Mortensen,Undirected,1
+Heilbunth,Wied,Undirected,1
+Hr. Hansen,Kafeen,Undirected,1
+Thomsen,di,Undirected,1
+Knagsted,Kæmner Lassen,Undirected,1
+Knagsted,Lassen,Undirected,4
+Emanuel,Heilbunth,Undirected,1
+Clausen,Røssel,Undirected,2
+Clausen,Heilbunth aad,Undirected,1
+Lassen,Røssel,Undirected,1
+Marie,Røssel,Undirected,1
+Clausen,dumdum,Undirected,1
+Eriksen,Kæmner Lassen,Undirected,1
+Eriksen,Røssel,Undirected,1
+Emanuel,Mo’,Undirected,1
+Karen,Mo’,Undirected,3
+Jakob,Karen,Undirected,2
+Emanuel,Thomsen,Undirected,4
+Emanuel,Kollektricens,Undirected,1
+Lars,Thomsen,Undirected,1
+Gud,Manuel,Undirected,5
+Knagsted,Mørch,Undirected,7
+Mørch,lille Mørch,Undirected,1
+Thae,Thu,Undirected,1
+Mørch,Thet,Undirected,1
+Knagsted,Maren Smeds,Undirected,1
+Knagsted,Mathiesen,Undirected,1
+Esau,Mathiesen,Undirected,1
+Heilbunth,Piid« Hansen,Undirected,1
+Heilbunth,Hr. Hansen,Undirected,1
+Lassen,Mørch,Undirected,1
+Knagsted,Svannike,Undirected,1
+Emanuel,Mortensen,Undirected,2
+Gud,Rasmus Cornelius,Undirected,1
+Gud,lille Gud,Undirected,2
+Gud Fader,Gud Søn,Undirected,1
+Gud,Gud Søn,Undirected,1
+Maren Smeds,Mørch,Undirected,1
+Thet,theg,Undirected,3
+thsi,thsig,Undirected,1
+Mortensgaas,Thsludder,Undirected,1
+theg,tho,Undirected,2
+Karen,Lars,Undirected,1
+Lars,Manuel,Undirected,2
+Mo,Mortensen,Undirected,1
+Karen,Mo,Undirected,6
+Manuef,lis’,Undirected,1
+Lars,lis’,Undirected,1
+Karen,r,Undirected,2
+Emanuel,Gud,Undirected,3
+Emanuel,Lars,Undirected,1
+Karen Thomsen,Lars,Undirected,1
+Gud,Madam Thomsen,Undirected,1
+Hyss,Karen,Undirected,1
+Karen,Mortensen,Undirected,6
+Manuel,Mortensen,Undirected,12
+Madam Thomsen,Mortensen,Undirected,4
+Manuel,Menneske-Mortensen,Undirected,3
+Jæ,Manuel,Undirected,2
+Mads-Mortensen,Thomsen,Undirected,2
+Cornelius,ossensaa,Undirected,2
+Indiviw,aa,Undirected,1
+Mads Mortensen,Thomsen,Undirected,1
+Heilbunth,Lassen,Undirected,4
+Engelhardt,Heilbunth,Undirected,1
+Engelhardt,Windberg,Undirected,1
+Kiær,Windberg,Undirected,1
+Kiær,Ribensie,Undirected,1
+Brandstrup,Ribensie,Undirected,1
+Brandstrup,Smiths,Undirected,1
+Clausen,Smiths,Undirected,1
+Clausen,Olivia,Undirected,1
+Kuhie,Ribensie,Undirected,1
+Cloetta,Ribensie,Undirected,1
+Kordegn Kjær,Windberg,Undirected,1
+I. P. Jacobsen,Mogens,Undirected,1
+Bechs,Windberg,Undirected,1
+Bechs,Karen Thomsen,Undirected,1
+Heilbunth,Kæmner Lassen,Undirected,1
+Kæmner Lassen,Røssel,Undirected,2
+Clausen,Eriksen,Undirected,1
+Knagsted,Røssel,Undirected,1
+Cornelius,Menneske-Mortensen,Undirected,1
+Karen,geraade,Undirected,1
+Menneske-Mortensen,Thomsen,Undirected,1
+Menneske-Mortensen,Rasmus Cornelius,Undirected,1
+Engelhardt,Thumsen,Undirected,1
+Manuel,Rejersen,Undirected,1
+Olivia,Thomsen,Undirected,1
+Emanuel,Olivia,Undirected,1
+Frøken Rejersen,Manuel,Undirected,1
+Karen,Mo’r,Undirected,2
+Jakob Henriksen,Karen,Undirected,1
+Jakob Henriksen,Wuifdine,Undirected,1
+Jakob,Morbro,Undirected,1
+Jakob,Wulfdine,Undirected,4
+Manuel,Wulfdine,Undirected,13
+Jakob,Wuifdine,Undirected,3
+Emanuel,Wulfdine,Undirected,2
+Emanuel,ban,Undirected,1
+Mo’r,Wuifdine,Undirected,1
+Cornelius,Emanuel,Undirected,1
+Madam Thomsen,Wulfdine,Undirected,2
+Karen,Wulfdine,Undirected,8
+Graad,Wuldine,Undirected,1
+Bismark,Kong Ex-Milan,Undirected,1
+Thomsen,lille Clausen,Undirected,1
+Clausen,Heimann,Undirected,1
+Dolen,Karen Thomsen,Undirected,1
+Hane-Mortensen,Karen Thomsen,Undirected,1
+Mogens,Oppermann,Undirected,1
+Olivia,Valdhornet,Undirected,1
+Krestine,Oskar,Undirected,1
+Eedt-Fredrik,Fedt-Fredrik,Undirected,1
+Fredrik,Sørensen,Undirected,1
+Clemmepaaesen,Knagsted,Undirected,1
+Clemmesen,Engelhardt,Undirected,1
+Ribensie,Windberg,Undirected,1
+Emanuel Thomsen,Karen,Undirected,2
+Enkefru Frandsen,Klumpens,Undirected,1
+Gud,Klumpens,Undirected,1
+Fredrik,Gud,Undirected,1
+Emanuel,Hane-Mortensen,Undirected,1
+Jakob,Madam Thomsen,Undirected,1
+Mo,r,Undirected,1
+Knors,Madam Thomsen,Undirected,1
+Di,Graad,Undirected,1
+Niels Peter,Rulle-Karens,Undirected,1
+Madammen,Niels Peter,Undirected,1
+Heilbunth,Morten Nonnekær,Undirected,1
+Freisleben,Weiner,Undirected,1
+Weiber,Weiner,Undirected,1
+Kæmner,Lassen,Undirected,1
+Mortensen,Thummelumsens,Undirected,1
+Clausen,Lassen,Undirected,1
+Clausen,Emanuel Thomsen,Undirected,2
+Emanuel Thomsen,Knagsted,Undirected,1
+Knagsted,Madam Fredriksen,Undirected,1
+Jakob fordum,Madam Fredriksen,Undirected,1
+Amerrika,Mortensen,Undirected,1
+Cornelius,Mortensen,Undirected,1
+Cornelius,Manuel,Undirected,1
+Knors,Menneske-Mortensen,Undirected,1
+Gud,Thomsen,Undirected,1
+Manevel Thomsen,Mortensen,Undirected,1
+Maren,Menneske-Mortensen,Undirected,1
+Hane-Mortensen,Thomsen,Undirected,2
+Di,haanlo Menneske-Mortensen,Undirected,1
+Di,haml,Undirected,1
+Monikke,jæ,Undirected,1
+Manevel Thomsen,Menneske Mortensen,Undirected,1
+Esau,pede,Undirected,1
+Mørch,theg,Undirected,3
+Emanuel Thomsen,Esau,Undirected,1
+Esau,Mørch,Undirected,3
+Knagsted,tho,Undirected,1
+Thet,tsvært,Undirected,1
+tsaa,tsvært,Undirected,1
+thu,tsaa,Undirected,1
+Theg,Thet,Undirected,1
+Mørch,Petersen,Undirected,1
+Thamen,ther,Undirected,1
+Alviltha,Alviltha tsalte,Undirected,1
+Alviltha tsalte,thet,Undirected,1
+Alviltha,Mørch,Undirected,1
+Knagsted,theg,Undirected,2
+Mørch,thla,Undirected,1
+Mørch,Thu,Undirected,1
+Theg,Thu,Undirected,1
+Theg,thu,Undirected,1
+thla,thu,Undirected,1
+Karen —,Knors,Undirected,2
+Manuel,Thomsen,Undirected,7
+Gud,Karen,Undirected,5
+Karen,lille Mo’,Undirected,1
+Halberstadt,lille Karen,Undirected,1
+Sia,hinner,Undirected,1
+Clausen,lille Clausen,Undirected,1
+Balders,Ewald,Undirected,1
+Ewald,Holberg,Undirected,1
+Siameser Heilbunth,Siameser Lassen,Undirected,2
+Emanuel Thomsen,Siameser Heilbunth,Undirected,1
+Bjerregaard,Emanuel Thomsen,Undirected,1
+Gud,Gud den Almægtige,Undirected,1
+Gud Herren,Thomsen,Undirected,1
+Gud,Gud Herren,Undirected,1
+Gud,Knors,Undirected,1
+Karen,lille Mo,Undirected,7
+Manuel,Mølle-Mortensen,Undirected,1
+Cornelius,Mølle-Mortensen,Undirected,1
+Jakob,Thomsen,Undirected,2
+Mortensgaas,Wuifdine,Undirected,1
+Jakob,Manuel,Undirected,3
+Quinden,Wulfdine,Undirected,1
+Wuifdine,lille Thumsens,Undirected,1
+Faster,Mo,Undirected,1
+Emanuel,lille Wuifdine,Undirected,1
+Gaasen,Manuel,Undirected,1
+Fredrik,Madam Levertin,Undirected,1
+Bister,Frandsen,Undirected,1
+Bister,Fredrik,Undirected,2
+Eskimo Bister,Madam Levertin,Undirected,1
+Eskimoen,Levertin,Undirected,1
+Eskimoen,Fredrik,Undirected,2
+Clausen,Fredrik,Undirected,2
+Clausen,Windberg,Undirected,1
+Kuhle,Windberg,Undirected,1
+Gud,Heilbunth,Undirected,1
+Heilbunth,Venstre-Petersen,Undirected,1
+Trinemor,Venstre-Petersen,Undirected,1
+Jørgensen,Trinerinemor,Undirected,1
+Jørgensen,Trinemor,Undirected,1
+Spitzkuck,Tillge,Undirected,1
+Heilbunth,Tillge,Undirected,1
+Blomkaalsmarie,Snedker-Stine,Undirected,1
+Marie,Snedker-Stine,Undirected,1
+Marie,Waldine,Undirected,1
+Annine,Waldine,Undirected,1
+Snedker-Stine,aa saaden,Undirected,1
+Di,Stine,Undirected,1
+Di,di,Undirected,2
+Stine,di,Undirected,1
+Acht,Windberg,Undirected,2
+Jæ,Philipsen,Undirected,1
+Thomsen,Wulfdine,Undirected,4
+.Wulfdine,Karen,Undirected,1
+Engeline,Karen,Undirected,1
+Emanuel,skraa,Undirected,2
+Madam Thomsen,Madammen,Undirected,1
+Lassen,Siameser,Undirected,1
+Heilbunth,Siameser,Undirected,1
+Gud,Lassen,Undirected,3
+Bundtmager Hatteras,Ribensie,Undirected,1
+Clausen,Rejersen,Undirected,1
+Engelhardt,Kapellan Schwartz,Undirected,1
+Clausen,Engelhardt,Undirected,1
+Frants,lille Frants,Undirected,1
+Julius,lille Frants,Undirected,1
+Erik,Hr. Clausen,Undirected,1
+Mo,Thomsen,Undirected,1
+Gusketak,Wulfdine,Undirected,1
+Manuel,Wuifdine,Undirected,1
+Madam Thomsen,Morbroder Jakob,Undirected,1
+Cornelius,Madam Thomsen,Undirected,1
+Cornelius,Karen,Undirected,1
+Emanuel Thomsen,Wulfdine,Undirected,2
+Mortensen,di,Undirected,2
+Manuel,idpt,Undirected,1
+Gud,Wulfdine,Undirected,2
+Engeline,Mørch,Undirected,1
+Engeline,Knagsted,Undirected,1
+Thu,ingenthing,Undirected,1
+thø,tsnart,Undirected,1
+Mørch,tho althid,Undirected,1
+theg,tsa,Undirected,1
+Knagsted,Theg,Undirected,1
+Knagsted,thu,Undirected,1
+theg,thu,Undirected,2
+Thet,thu,Undirected,1
+theg,thet,Undirected,1
+thet,thig,Undirected,1
+Theg,thig,Undirected,1
+Theg,theg,Undirected,2
+Knagsted,tsil,Undirected,1
+Esau,baathe thu,Undirected,1
+Garver Musmann,tsaa,Undirected,1
+Garver Johansen,tsaa,Undirected,1
+Mørch,Tho,Undirected,2
+theg,thig,Undirected,1
+Thu,tsaa,Undirected,1
+tsaa,vreth,Undirected,1
+forthi theg,vreth,Undirected,1
+Alviltha,forthi theg,Undirected,1
+anthre,tsmin,Undirected,1
+theg,tsmin,Undirected,1
+tho,thu,Undirected,1
+Esau,Theg,Undirected,1
+thet,tsaa,Undirected,1
+Knagsted,Konsul Mørchs,Undirected,1
+Gud,Mørch,Undirected,1
+Jane,Siegfrid,Undirected,3
+Justitsraad Schmalberg,Rejersen,Undirected,1
+Hatteras,Ribensie,Undirected,1
+Heimann,Oppermann,Undirected,1
+Di,Gud,Undirected,1
+Frandsen,Windberg,Undirected,1
+Atlaskes,Windberg,Undirected,1
+Julius,von Rosenkalk,Undirected,1
+Agathe,Julius,Undirected,1
+Agathe,Knagsted,Undirected,1
+Julius,Papa,Undirected,1
+Agathe,Sjyliy,Undirected,1
+Komtessen,Sjyliy,Undirected,1
+Komtessen,que nous deux tenerions le comme-i!-faut,Undirected,1
+Emanuel Thomsen,Manuel,Undirected,1
+Rosenkalk,kordialt,Undirected,1
+Clausen,Esau,Undirected,2
+Esau,Thomsen,Undirected,1
+Hyss,Knagsted,Undirected,1
+Olivia,Sky,Undirected,1
+Hatteras,Rosenkalk,Undirected,1
+Heimann,Windberg,Undirected,1
+Hr. Callesen,Windberg,Undirected,1
+Julius,Rosenkalk,Undirected,1
+Fredriksen,Kusk,Undirected,1
+Rosenkalk,Thomsen,Undirected,1
+Clausen,Manuel,Undirected,1
+Jæ,vos,Undirected,1
+Manevel,vos,Undirected,1
+Manevel,jæ,Undirected,1
+jæ,vos,Undirected,1
+Mortensen,Wulfdine,Undirected,1
+Thomsen,per-sonli-gen,Undirected,1
+Karen,lille Thomsen,Undirected,1
+Manuel,Thummelumsens,Undirected,1
+Gud,Marius,Undirected,1
+Gud,lille Thomsen,Undirected,1
+Manuel,Rosenkalk,Undirected,1
+Clausen,Hum,Undirected,1
+Esther,Mo’,Undirected,1
+Mo’,Rikke,Undirected,1
+Fredrik,Rikke,Undirected,1
+Clausen,Esther,Undirected,1
+Esther,Rikke,Undirected,1
+Fredrik Fanden,Rikke,Undirected,1
+Clausen,Knagsted,Undirected,1
+Gud,Knagsted,Undirected,1
+Knors,Wulfdine,Undirected,1
+Knagsted,lille Overven,Undirected,1

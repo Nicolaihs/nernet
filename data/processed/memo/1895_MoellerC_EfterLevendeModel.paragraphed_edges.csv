@@ -1,0 +1,296 @@
+source,target,type,weight
+Henri IV,sorn,Undirected,1
+Mathias Ulriksen,Mutter,Undirected,1
+Gad,Kusk,Undirected,1
+Casper Vognmand,Kusk,Undirected,1
+Casper,Caspers,Undirected,1
+Casper,Kresten Skrædder,Undirected,1
+Gad,Kresten Skrædder,Undirected,1
+Kresten Skrædder,Svend,Undirected,1
+Casper Vognmand,Svend,Undirected,1
+Casper,Gad,Undirected,1
+Gad,Julius Kjeldsen,Undirected,3
+Gad,Kjeldsen,Undirected,6
+Kjeldsen,Ludvig XVI,Undirected,2
+Casper Vognmand,liam,Undirected,1
+Casper Vognmand,Mathias Ulriksen,Undirected,1
+Kresten Skrædder,Mathias Ulriksen,Undirected,1
+Julius Kjeldsen,Kresten Skrædder,Undirected,1
+Gad,ban,Undirected,1
+A,Mo,Undirected,1
+Mo,erlillen,Undirected,1
+Maren Bødkers,a,Undirected,2
+A,a,Undirected,1
+Gad,Maren Christophersen,Undirected,1
+Maren Christophersen,Reinhold,Undirected,1
+Detle,Kjeldsen,Undirected,2
+Gad,Krygers,Undirected,1
+Betzy,Krygers,Undirected,1
+Betzy,Svejstrup,Undirected,5
+Krygers,Svejstrup,Undirected,1
+Børge Svejstrups,Krygers,Undirected,1
+Christian Rouhmd,Kjeldsen,Undirected,1
+Gad,Roulund,Undirected,11
+Kjeldsen,Roulund,Undirected,3
+Kjeldsen,ermin,Undirected,1
+Gad,Rou-lunds,Undirected,2
+Hylke-dams,Rou-lunds,Undirected,1
+Guds,Roulund,Undirected,1
+Frøken Roulund,Reinhold Gad,Undirected,1
+Ebba,Gud,Undirected,3
+Kong Roulund,Roulund,Undirected,1
+Bøttger,Riegel,Undirected,5
+Ebba,Riegel,Undirected,22
+Hauberg,Preisler,Undirected,1
+Hylkedams,Roulund,Undirected,1
+Marie,Roulund,Undirected,1
+Ebba —,ban,Undirected,1
+Ebba,ban,Undirected,1
+Riegel,Roulund,Undirected,19
+Bøtt-ger,Roulund,Undirected,1
+Bøtt-ger,Riegel,Undirected,1
+Riegel,allenfals,Undirected,1
+Ebba,allenfals,Undirected,1
+Arthur Riegel,Sofus Bøtt-ger,Undirected,1
+Ebba,Sofus Bøtt-ger,Undirected,1
+Ebba,Jenny,Undirected,2
+Hertha,Jenny,Undirected,2
+Anna Hauberg,Hertha,Undirected,2
+Anna Hauberg,Ebba,Undirected,2
+Ebba,Hertha Hauberg,Undirected,1
+Gad,Hertha Hauberg,Undirected,1
+Gad,Peter Roulund,Undirected,2
+Ebba,Peter Roulund,Undirected,1
+Hertha,hare,Undirected,1
+Ebba,Peter,Undirected,2
+Hertha,Riegel,Undirected,11
+Hertha,Sofus Bøttger,Undirected,1
+Bøttger,Roulund,Undirected,7
+Gad,Sofus,Undirected,15
+Anna Hauberg,LIvad,Undirected,1
+Frøken Hauberg,Sofus,Undirected,1
+Bøttger,Sofus,Undirected,3
+Ebba,Sofus,Undirected,15
+Ebba,Mazeppa,Undirected,2
+Gad,Hertha,Undirected,25
+Anna Hauberg,Jenny Roulund,Undirected,1
+Ebba,Hertha,Undirected,2
+Augustinus,Riegel,Undirected,1
+Riegel,Sofus,Undirected,8
+Hertha,Sofus,Undirected,7
+Arthur Riegel,Ebba,Undirected,1
+Arthurs,Ebba,Undirected,1
+Ebba,Larsen,Undirected,1
+Arthur,Ebba,Undirected,18
+Ebba,Taa,Undirected,1
+Sofus,Taa,Undirected,1
+Anna Hauberg,Jenny,Undirected,1
+Gad,Patron,Undirected,1
+Arthur,Sofus,Undirected,7
+Arthur,Reinhold,Undirected,4
+Hertha,Reinhold,Undirected,2
+Hertha,Pluralis,Undirected,1
+Karen,Maren,Undirected,1
+Maren,Mette,Undirected,1
+Mette,Rosalinde,Undirected,1
+Arthur,Hertha,Undirected,3
+Anna,Hertha,Undirected,8
+Bøttger,Kirsten Giftekniv,Undirected,1
+Anna,Reinhold,Undirected,1
+Kryger,Roulund,Undirected,4
+Betzy,Kryger,Undirected,2
+Betzy,Ebba Roulund,Undirected,2
+Kryger,Riegel,Undirected,1
+Betzy,Riegel,Undirected,3
+Roulund,Villie,Undirected,1
+Ebba,Villie,Undirected,1
+Julius Kjeldsen,Reinhold Gad,Undirected,1
+Kjeldsen,hartad kammerjunkerlig Reverens,Undirected,1
+Bøttger,Kjeldsen,Undirected,2
+Preisler,Roulund,Undirected,3
+Bøttger,Sofus Bøttger,Undirected,2
+allenfals,rabundus rejectus,Undirected,1
+Bøttger,Hr. Riegel,Undirected,1
+Arthur Riegel,Gad,Undirected,2
+Arthur Riegel,Kjeldsen,Undirected,1
+Kjeldsen,Preisler,Undirected,1
+Gad,Sofus Bøttger,Undirected,2
+Peter,Rou-lunds,Undirected,1
+Gad,kjære Riegel,Undirected,1
+Roulund,kjære Riegel,Undirected,1
+Arthur,Roulund,Undirected,8
+Rasmus,Reinhold,Undirected,2
+Peter,Sofus,Undirected,10
+Peter,Rasmus,Undirected,2
+Balleberg,Rasmus,Undirected,1
+Gad,Rasmus,Undirected,1
+Sofus,ban,Undirected,2
+Sofus,bøst,Undirected,1
+Arthur,Gad,Undirected,14
+Peter,Riegel,Undirected,8
+Arthur,Peter,Undirected,3
+Peter,Preisler,Undirected,2
+Hr. Gad,Peter,Undirected,3
+Hr. Gad,Sofus,Undirected,1
+Gad,Peter,Undirected,10
+Autor,Peter,Undirected,1
+Frøken Ehba,Riegel,Undirected,1
+Gad,Riegel,Undirected,11
+Arthur,Kjeldsen,Undirected,2
+Betzy Kryger,Børge Svejstrup,Undirected,3
+Børge Svejstrup,Preisler,Undirected,1
+Bøttger,Preisler,Undirected,1
+Gertrude,Peter,Undirected,1
+Gertrude,Riegel,Undirected,1
+Ebba,t Peter,Undirected,1
+Frøken Roulund,Gad,Undirected,1
+Peter Roulund,Riegel,Undirected,2
+Frøken Roulund,Riegel,Undirected,6
+Riegel,Sofus Bøttger,Undirected,3
+Hylkedams,Peter,Undirected,1
+Gad,Preisler,Undirected,3
+Ebba,Gad,Undirected,3
+Gad,Nik,Undirected,1
+Herman,Nik,Undirected,1
+Herman,Peter,Undirected,1
+Ann,Frøken Roulund,Undirected,1
+Ebba,Sofus Bøttger,Undirected,2
+Betzy Kryger,Peter —,Undirected,1
+Arthur,Børge Svejstrup,Undirected,1
+Børge Svejstrup,Kryger,Undirected,1
+Hylke-dam,Kryger,Undirected,1
+Hylke-dam,Preisler,Undirected,1
+Gad,Holsts,Undirected,1
+Kryger,Selmer,Undirected,2
+Martin,Selmer,Undirected,1
+Martin,Sofus,Undirected,1
+Betzy,Sofus,Undirected,1
+Frøken Hauberg,Gad,Undirected,2
+Gad,flicka,Undirected,1
+Gud,Hertha,Undirected,2
+Bøttger,Hertha,Undirected,3
+Betzy,Frøken Roulund,Undirected,1
+Bøttger,hare,Undirected,1
+Gad,sorn,Undirected,1
+Hertha,sorn,Undirected,1
+Hertha,Kjeldsen,Undirected,1
+Roulund,sorn,Undirected,1
+Juliane —,sorn,Undirected,1
+Ane —,Juliane —,Undirected,1
+Ane —,Sands,Undirected,1
+Bøttger,Gad,Undirected,1
+Arthur,Frøken Roulund,Undirected,1
+Ebba,Frøken Hertha,Undirected,2
+Ginderup,Roulund,Undirected,1
+Ginderup,Soyer,Undirected,1
+Ane,Soyer,Undirected,1
+Ane,Madam Mangor,Undirected,1
+Ane,Roulund,Undirected,3
+Ane,Mette,Undirected,1
+Christian,Hertha,Undirected,3
+Frøken Ebba,Sofus,Undirected,1
+Arthur,Frøken Ebba,Undirected,2
+Arthur Riegel,Roulund,Undirected,4
+Riegel,hans Ebba,Undirected,1
+Sofus,hans Ebba,Undirected,1
+Ebba,Roselille,Undirected,1
+Arthur,Jenny,Undirected,1
+Jenny,Sofus,Undirected,1
+Ebba,Reinhold,Undirected,1
+Gad,Gud,Undirected,2
+Mutter,Sofus,Undirected,2
+Hertha,Livor,Undirected,1
+Riegel,livor Bøttgers,Undirected,1
+Betzy,Poul,Undirected,1
+Hr. Bøttger,Poul,Undirected,1
+Mutter,Roulund,Undirected,1
+Kodille,Riegel,Undirected,1
+Gad,Selmer,Undirected,1
+Riegel,Selmer,Undirected,1
+Riegel,Svejstrup,Undirected,1
+Bøttger,Svejstrup,Undirected,1
+Arthur Riegel,Hylkedams,Undirected,1
+Hr. Kjeldsen,Riegel,Undirected,1
+Gertrude,Herman,Undirected,2
+Gertrude,Sofus Bøttger,Undirected,2
+Gertrude,Sørensen,Undirected,1
+Herman,Sørensen,Undirected,1
+Gud,Herman,Undirected,1
+Gertrude,Gud,Undirected,1
+Ebba,Gertrude,Undirected,3
+Gertrude,Sofus,Undirected,1
+Ebba Roulund,Riegel,Undirected,1
+Ebba Roulund,Roulund,Undirected,1
+Hr. Gad,Kjeldsen,Undirected,1
+Gad,allenfals,Undirected,1
+Peter Roulund,Søren Bøttger,Undirected,1
+Kjeldsen,Peter Roulund,Undirected,3
+Kjeldsen,Sofus Bøttger,Undirected,1
+Gad,Hr. Gad,Undirected,1
+Hr. Gad,daisy beil,Undirected,1
+Sofus,daisy beil,Undirected,1
+Sofus,a. b. c.,Undirected,1
+Barclay Perkins & Co,Kjeldsen,Undirected,1
+Barclay Perkins & Co,Sofus,Undirected,1
+Kjeldsen,Peter,Undirected,6
+Hr.,Peter,Undirected,1
+Peter,niente,Undirected,1
+ban,purr,Undirected,1
+gade,purr,Undirected,1
+Arthur,Riegel,Undirected,2
+Roulund,lier,Undirected,1
+Ebba,Roulund,Undirected,1
+Ebba,Elar,Undirected,1
+Gertrude,Roulund,Undirected,1
+Jenny,Roulund,Undirected,2
+Kjeldsen,Sofus,Undirected,1
+Arthur,Sofus Bøttger,Undirected,1
+Arthur,Gud,Undirected,1
+Gad,Hr. Riegel,Undirected,1
+Roulund,Sofus,Undirected,1
+Mæcenas,Sofus Jenny,Undirected,1
+Roulund Arthur,Sofus,Undirected,1
+Ebba,Roulund Arthur,Undirected,1
+Gad,Hauberg,Undirected,1
+Hauberg,Hertha,Undirected,1
+Gad,Hr. Roulund,Undirected,1
+Arthur,Hr. Roulund,Undirected,1
+Flan,Gad,Undirected,1
+Gad,Nemesis,Undirected,1
+Gud,liar,Undirected,1
+Gud,Kryger,Undirected,1
+Betzy Kryger,Kryger,Undirected,1
+Betzy Kryger,Livor,Undirected,1
+Livor,Martin Selmer,Undirected,1
+Betzy,Martin Selmer,Undirected,1
+Betzy,Poul Svejstrup,Undirected,1
+Kjeldsen,Reinhold,Undirected,1
+Gad,Kryger,Undirected,1
+Kryger,Poul Svejstrup,Undirected,1
+Poul Svejstrup,Rou-lunds,Undirected,1
+Hauberg,Rou-lunds,Undirected,1
+Hauberg,Roulund,Undirected,1
+Hylkedam“,Roulund,Undirected,1
+Busch,Roulund,Undirected,1
+Busch,Riegel,Undirected,1
+Pirs,Roulund,Undirected,1
+Preisler,Riegel,Undirected,1
+Kneipp,ban,Undirected,1
+Roulund,lien-tydede,Undirected,1
+Herman,Roulund,Undirected,1
+Jenny,Piet,Undirected,1
+Hertha,bun,Undirected,1
+Arthur Riegel,Poul Svejstrup,Undirected,1
+Hennings,Poul Svejstrup,Undirected,1
+Hennings,Zangenberg,Undirected,1
+Etatsraad Olaf,Zangenberg,Undirected,1
+Flun,Hertha,Undirected,1
+Frøken Hertha,Gad,Undirected,1
+Hertha,kjære Riegel,Undirected,1
+Bøttger,Jakel,Undirected,1
+Gud,Roulund,Undirected,1
+Riegel,Rou-lund,Undirected,1
+Arthur,kjære,Undirected,1
+kjære,kjære Gad,Undirected,1
+Arthur,kjære Gad,Undirected,1
+Gad,Jenny,Undirected,1

@@ -1,0 +1,200 @@
+source,target,type,weight
+Jens,Niels Nielsen Palle,Undirected,1
+Jens,Niels Palle,Undirected,8
+Jens,Nis,Undirected,1
+Jens,hei,Undirected,1
+Nis,hei,Undirected,1
+Katrine,Nis,Undirected,1
+Jens,Katrine,Undirected,55
+Katrine,Katrine Kulovn,Undirected,2
+Jens,Karen,Undirected,1
+Guds,Nis,Undirected,1
+Iver Vollesen,Lange Nis,Undirected,1
+Jens,Svend,Undirected,1
+Katrine,Nijls Nielsen Palles,Undirected,1
+Niels Palle,Nijls Nielsen Palles,Undirected,1
+Katrine,Niels Palle,Undirected,2
+Katrine,lange,Undirected,1
+Nis,lange,Undirected,1
+Katrine Kuhlow,Nis,Undirected,1
+Hans Jakob Zimmer,Katrine,Undirected,1
+Hans Jakob Zimmer,Kong Kristian den fjerde,Undirected,1
+Kong Kristian den fjerde,Kristian den,Undirected,1
+Gud,Zimmer,Undirected,2
+Niels Palle,Zimmer,Undirected,5
+Zimmer,tor,Undirected,1
+Katrine,tor,Undirected,1
+Birthe,Katrine,Undirected,2
+Faders,Katrine,Undirected,2
+Fader,Katrine,Undirected,1
+Fader,Zimmer,Undirected,1
+Katrine,Marie,Undirected,5
+Niels,Zimmer,Undirected,1
+Katrine,Zimmer,Undirected,7
+Katrine,Mester Zimmer,Undirected,1
+Mester Zimmer,Zimmer,Undirected,1
+Jens,Zimmer,Undirected,5
+Birthe Zimmer,Karen,Undirected,1
+Karen,Marie,Undirected,2
+Jens,s,Undirected,4
+Katrine,s,Undirected,1
+Jens,Niels Simonsens,Undirected,1
+Jens,Karl den tiendes,Undirected,1
+Hejren,Jens,Undirected,2
+Jens,ban,Undirected,3
+Kong Kristian den femte,Magdalene Sibylle,Undirected,1
+Frederik Vilhelm,Kong Kristian den femte,Undirected,1
+Anna Sofie,Johan Georg,Undirected,1
+Anna Sofie,Johan Frederik,Undirected,1
+Holk,Monsjør Avgustus,Undirected,1
+Holk,Johan Frederik,Undirected,1
+Avgustus Jurgens,Henrik,Undirected,1
+Henrik,Marie,Undirected,17
+Marie,Niels Palle,Undirected,2
+Henrik,Niels Palle,Undirected,5
+Jens,Marie,Undirected,6
+Henrik,Katrine,Undirected,19
+Henrik,Jens,Undirected,20
+Henrik,Karl Gustavs,Undirected,1
+Henrik,Jomfru Katrine,Undirected,2
+Jens,Jomfru Katrine,Undirected,1
+Henrik,Hr. Jurgens,Undirected,2
+Jurgens,Katrine,Undirected,10
+Henrik,Marte,Undirected,1
+Henrik skadefro,Hi,Undirected,1
+Henrik skadefro,Katrine,Undirected,1
+Katrine,b,Undirected,1
+b,badHenrik,Undirected,1
+Henrik“,Katrine,Undirected,1
+Henrik“,Jens,Undirected,1
+Hans Jakob Zimmer,Jens,Undirected,2
+Birthe Zimmer,Jens,Undirected,1
+Birthe Zimmer,Zimmer,Undirected,1
+Birthe Zimmer,Bo,Undirected,1
+Bo,gry,Undirected,1
+Johanne,gry,Undirected,1
+Marie,halvni,Undirected,1
+Hr. Jurgens,Marie,Undirected,1
+Henrik,Piet,Undirected,1
+Katrine,Piet,Undirected,1
+Jes Jessen,Moses,Undirected,1
+Zimmer,ban,Undirected,1
+Magdalene Sibylle,Marie,Undirected,1
+Birthe Zimmer,Magdalene Sibylle,Undirected,1
+Birthe Zimmer,Johanne,Undirected,2
+Gregers Humble,Johanne,Undirected,1
+Gregers Humble,Katrine,Undirected,1
+Johanne,Zimmer,Undirected,2
+Johanne,Katrine,Undirected,3
+Birthe Zimmer,Gregers,Undirected,1
+Birthe Zimmer,mier,Undirected,1
+Johanne,mier,Undirected,1
+Jens Mule,Johanne,Undirected,1
+Famulus,Johanne,Undirected,2
+Hans Jakob,Johanne,Undirected,5
+Hans Jakobsen,Johanne,Undirected,4
+Hans Jakobsen,Jens Mule,Undirected,1
+Hans Jakobsen,Jakob,Undirected,1
+Jakob,Johanne,Undirected,1
+Jakob*,Johanne,Undirected,1
+Hans Jakob,Zimmer,Undirected,1
+Jens,Tue,Undirected,2
+Birthe Zimmer,Niels Palle,Undirected,1
+Maren,Petersille,Undirected,1
+Katrine,Maren,Undirected,1
+Frederik den,Katrine,Undirected,1
+Frederik den,Kristian,Undirected,1
+Kristian,Kristian den,Undirected,1
+Charlotte Amalie,Kristian den,Undirected,1
+Katrine Chulow,Niels Palle,Undirected,1
+Gud,Marie,Undirected,1
+Jens Nielsen,Zimmer,Undirected,2
+Jessen,Niels Palle,Undirected,1
+Jessen,Kristian,Undirected,1
+Charlotte Amalie,Kristian,Undirected,1
+Charlotte Amalie,Kappellan Hr. Vessel Henriksen Bartholin,Undirected,1
+Jens tømrede,Niels Palle,Undirected,1
+Jurgens,Niels Palle,Undirected,1
+Hr. Jurgens,Katrine,Undirected,3
+Jurgens,Katrine Kulovn,Undirected,3
+Jens Nielsen,Jurgens,Undirected,2
+Hr. Jurgens,Jurgens,Undirected,1
+Katrine,determin,Undirected,1
+Katrine navde,Zimmer,Undirected,1
+Hr. Jurgens,Katrine navde,Undirected,1
+Hr. jurgens,Zimmer,Undirected,1
+Hr. Jurgens,Zimmer,Undirected,1
+Evropas,Hr. Jurgens,Undirected,1
+Evropas,Kurprinses,Undirected,1
+Avgustus Jurgens,Kurprinses,Undirected,1
+Jurgens,Katrine Elisabeth,Undirected,3
+Katrine Elisabeth,Margrethe,Undirected,5
+Avgustus Jtirgens,Katrine Elisabeth,Undirected,1
+Avgustus Jtirgens,Jurgens,Undirected,1
+Avgustus Jurgens,Katrine Elisabeth,Undirected,3
+Avgustus Jurgens,Margrethe,Undirected,3
+Jurgens,Margrethe,Undirected,2
+Gud,Katrine Elisabeth,Undirected,1
+Jurgens,ban,Undirected,1
+Katrine Elisabeth,ban,Undirected,1
+Avgustus Jflrgens,Katrine Elisabeth,Undirected,1
+Katrine,kjær,Undirected,1
+Katrine,Margrethe,Undirected,2
+Kristian,Morits,Undirected,1
+Kristiane,Morits,Undirected,1
+Kristiane,Sofie Hedevig,Undirected,1
+Avgustus Jurgens,Sofie Hedevig,Undirected,2
+Avgustus Jurgens,Moritz,Undirected,1
+Moritz,Sofie Hedevig,Undirected,1
+Johan Filip,Sofie Hedevig,Undirected,2
+Katrine Elisabeth,Sofie Hedevig,Undirected,1
+Katrine Elisabeth,lille Katrine,Undirected,1
+Avgustus Jürgens,Pfaltsgreve Filip,Undirected,1
+Jurgens,Pfaltsgreve Filip,Undirected,1
+Vemods,stiil« Bo,Undirected,1
+Filip,Magdalene Sybille,Undirected,1
+Kristian dem femtes,Magdalene Sybille,Undirected,1
+Avgustus,Katrine Elisabeth,Undirected,2
+Katrine,Katrine Elisabeth,Undirected,1
+Katrine Elisabeth,Lange Nis,Undirected,2
+Jurgens,Lange Nis,Undirected,1
+Katrine Elisabeth,Nis,Undirected,2
+Katrine Elisabeth,nan,Undirected,1
+Nis,Sofie Hedevig,Undirected,1
+Katrine Kulovn,Nis,Undirected,1
+Katrine Kulovn,lange Nis,Undirected,2
+Katrine Kulovn,bos,Undirected,1
+Nis,bos,Undirected,1
+Jurgens,Nis,Undirected,1
+Avgustus Jurgens,Jurgens,Undirected,1
+Jens Nielsen,Johan Georg,Undirected,1
+Frederik den,Johan Georg,Undirected,1
+Anna Sofie,Frederik den,Undirected,1
+Anna Sofie,Avgustus Jurgens,Undirected,1
+Avgustus Jurgens,Johan Georg den fjerde,Undirected,1
+Jens,Johan Georg den fjerde,Undirected,1
+Avgustus,Katrine,Undirected,2
+Katrine,Niels,Undirected,2
+Katrine Elisabeth,Niels,Undirected,2
+Hans Jakob Zimmer,Niels Palle,Undirected,1
+Gerckens,Niels Palle,Undirected,1
+Jens Nielsen,Niels Simonsen,Undirected,1
+Niels Simonsen,Ole Jensen Dreje,Undirected,1
+Jens,Ole Jensen Dreje,Undirected,1
+Jens Nielsen,Katrine Elisabeth,Undirected,1
+Jens Nielsen,Maren Mikkelsdatter,Undirected,1
+Maren Gjøngens,Maren Mikkelsdatter,Undirected,1
+Jens Nielsen,Maren Gjøngens,Undirected,3
+Jens Nielsen,Maren,Undirected,1
+Maren,Meissen,Undirected,1
+Katrine,Meissen,Undirected,1
+Katrine,Maren Gjøngens,Undirected,1
+Ellen,Maren Gjøngens,Undirected,1
+Betmester Jens Nielsens,Ellen,Undirected,1
+Betmester Jens Nielsens,Niels Palle,Undirected,1
+Jens Nielsen,Katrine,Undirected,1
+Gerekens,Niels Palle,Undirected,1
+Berider Kloppenborg,Niels Palle,Undirected,1
+Berider Kloppenborg,Hincheldej,Undirected,1
+Hincheldej,Niels Simonsen,Undirected,1
+Niels Simonsen,Ole Drejes,Undirected,1

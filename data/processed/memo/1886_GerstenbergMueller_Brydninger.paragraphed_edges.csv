@@ -1,0 +1,177 @@
+source,target,type,weight
+Etatsraad Bøg,Hnn,Undirected,1
+Etatsraad Bøg,Martha Bøg,Undirected,1
+Martha Bøg,Selmers,Undirected,2
+Martha,Selmers,Undirected,2
+Martha,hnn,Undirected,2
+Selmers,hnn,Undirected,2
+Dr. Selmers,Martha,Undirected,3
+Martha,Praxis,Undirected,1
+Praxis,Selmers,Undirected,1
+Paula,Selmers,Undirected,4
+Paula,hnn,Undirected,19
+Dr. Selmers,Olafsen,Undirected,1
+Olafsen,hnn,Undirected,2
+Panla,hnn,Undirected,5
+Hnn,Olafsen,Undirected,1
+Hnn,hnn,Undirected,3
+Bock,hnn,Undirected,1
+Beethovens,Paula,Undirected,1
+Frk. Flink,Jessen,Undirected,1
+Jessen,Werners,Undirected,1
+amio,pstito,Undirected,1
+Gud,Paula,Undirected,1
+Bock,Paula,Undirected,3
+Bock,Kristians,Undirected,1
+Evropa,Kekrops,Undirected,1
+Panla,Vunitus vunitutum,Undirected,1
+Paula,Thorstejn,Undirected,23
+Boek,Paula,Undirected,3
+Ieg,Marsyas,Undirected,1
+Bock,Prometheus,Undirected,1
+Thorstejn,tort,Undirected,1
+Marlowe,tort,Undirected,1
+Dr. Selmers,Thorstejn,Undirected,1
+Dantes,Thorstejn,Undirected,1
+Hnn fyntes,Thorstejn,Undirected,1
+Frn Selmers,Olafsen,Undirected,1
+Panla,Paula,Undirected,2
+Froken Selmers,Thorstejn,Undirected,1
+Paula,lidf,Undirected,1
+Selmers,Thorstejn,Undirected,1
+Frk. Selmers,Thorstejn,Undirected,1
+Jessen,Paula,Undirected,1
+Jessen,Thorstejn,Undirected,1
+Hnn,Jessen,Undirected,1
+Paula,Werners,Undirected,1
+Thorstejn,hnn,Undirected,4
+Fru Selmers,Madame,Undirected,1
+Chopin,Mussets,Undirected,1
+Hnn,Mussets,Undirected,1
+Hnn,Rubinsteins,Undirected,1
+Proprietair Dalles,Thorstejn,Undirected,1
+Thorstejn,sét,Undirected,1
+Frn,Selmers,Undirected,1
+Panla,stg,Undirected,1
+Asten,Thorstejn,Undirected,1
+Paula,huu,Undirected,1
+Hnn,Morket,Undirected,1
+Hnn,genuem deu,Undirected,1
+Valborg,genuem deu,Undirected,1
+Gudrun,Valborg,Undirected,1
+Julia,Ophelia,Undirected,1
+Dn,Raa,Undirected,1
+Lio,Paula,Undirected,1
+Jægermester Raa,ester,Undirected,1
+Beda,Paula,Undirected,1
+Hustrns,Jægermester Raa,Undirected,1
+Beda,Hustrns,Undirected,1
+Fru Naa,Paula,Undirected,1
+Hansens,Karoline,Undirected,1
+Hansens,Sofie,Undirected,1
+Karoline,Paul de Kock,Undirected,1
+,Raa,Undirected,1
+Tu,hnn,Undirected,1
+Bock,Hnn,Undirected,1
+Beda,Ring,Undirected,1
+Frk. Selmers,Henny Ryding,Undirected,1
+Frk. Selmers,Paula,Undirected,1
+Frn Rydings,Paula,Undirected,1
+Nyding,Paula,Undirected,1
+Ancker,Paula,Undirected,2
+Ancker,Otto Bryde,Undirected,1
+Bryde,Otto Bryde,Undirected,2
+Bryde,Henny Ryding,Undirected,1
+Henny,Paula,Undirected,13
+Henny Nyding,Otto Bryde,Undirected,1
+Paula,høs,Undirected,1
+Frn Ryding,høs,Undirected,1
+Frn Ryding,Otto Bryde,Undirected,1
+Otto Bryde,høs,Undirected,1
+Asten,Henny Paulas,Undirected,1
+Dn,Ryding,Undirected,1
+Hnn,Paula,Undirected,2
+ester,felv,Undirected,1
+Henris,Ryding,Undirected,1
+Lili,Ryding,Undirected,4
+Jngen,Lili,Undirected,1
+Henri,Jngen,Undirected,1
+Bryde,Henny,Undirected,3
+Bryde,Paula,Undirected,5
+Henuy,Paula,Undirected,1
+ester,hnn,Undirected,1
+Paula,Toren,Undirected,1
+Bryde,hinaudeu,Undirected,1
+Paula,hinaudeu,Undirected,1
+Martha,Tu,Undirected,1
+Otto,Paula,Undirected,6
+Paula,fig,Undirected,1
+Dir,Paula,Undirected,1
+,Paula,Undirected,1
+Otto,hnn,Undirected,1
+Minchhausens,Otto,Undirected,1
+Proprietair Vestergaards,Vestergaard,Undirected,1
+Panla,Proprietair Vestergaards,Undirected,1
+Karen,Panla,Undirected,1
+Jørgen Nørregaards,Karen,Undirected,1
+Jørgen Nørregaard,Jørgen Nørregaards,Undirected,1
+Asta,Paula,Undirected,14
+Asta,heudes,Undirected,1
+Paula,heudes,Undirected,1
+Asta,Karen,Undirected,2
+Paula,ganste,Undirected,1
+Asta,Otto,Undirected,1
+Bryde,Proprietair Bestergaard,Undirected,1
+Hans Bestergaard,Jørgen Nørregaard,Undirected,1
+Jørgen,Jørgen Nørregaard,Undirected,2
+Jørgen,Karen,Undirected,2
+Karen,Paula og,Undirected,1
+Asta,Paula og,Undirected,1
+Frøken Vestergaard,Panla,Undirected,1
+Asta,Rabelais,Undirected,1
+Hans Vestergaard,Jørgen Nørregaard,Undirected,1
+Asta Bestergaard,Karen,Undirected,1
+Karen,Paula,Undirected,1
+Asta Bestergaard,Paula,Undirected,1
+Asta,Bryde,Undirected,2
+Paula,skjont,Undirected,1
+hnn,huu,Undirected,1
+Asfas,hnn,Undirected,1
+Asfas,Otto,Undirected,1
+Nestergaard,Otto,Undirected,1
+Asta,Nestergaard,Undirected,1
+Paula,sungne,Undirected,1
+Dn,miu,Undirected,1
+Paula,ril,Undirected,1
+knn,ril,Undirected,1
+Asta,knn,Undirected,1
+Asta Bestergaard,Bejrs,Undirected,1
+Paula,Tu,Undirected,1
+Asta,Hnn,Undirected,2
+Asta,bien,Undirected,2
+Henny,Hnn,Undirected,1
+Bryde,dein,Undirected,1
+Paula,dein,Undirected,1
+Henny,Panla,Undirected,2
+Henny,hnn,Undirected,2
+Henny,Lili,Undirected,3
+Dn,Henny,Undirected,1
+Dn,Paula,Undirected,2
+Henny,Thorstejn,Undirected,3
+Frøken Selmers,Thorstejn,Undirected,1
+Dianas,voilu tonst,Undirected,1
+Bryde,Thorstejn,Undirected,1
+Henri,Paula,Undirected,1
+Bien,Paula,Undirected,1
+Lili,Paula,Undirected,2
+Henri,Lili,Undirected,1
+Hennhs,Paula,Undirected,1
+Frøken v.,Paula,Undirected,1
+Frøken v.,Harder,Undirected,2
+Ryding,v. Harder,Undirected,1
+Thorstejn,v. Harder,Undirected,1
+Henny,alfsaa,Undirected,1
+Hnn,hunlæuge,Undirected,1
+hnn,hunlæuge,Undirected,1
+Hirn,Thorstejn,Undirected,1
+hnn,stine,Undirected,1

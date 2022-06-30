@@ -1,0 +1,247 @@
+source,target,type,weight
+Karl,Margrete,Undirected,2
+Herman,Margrete,Undirected,108
+Karlen,Margrete,Undirected,2
+Margrete,Niels,Undirected,1
+Herman,Otto,Undirected,1
+Margrete,Otto,Undirected,2
+Lierman,Margrete,Undirected,1
+Liun,Margrete,Undirected,1
+Herman Thorsen,haln,Undirected,1
+Herman Thorsen,Margrete,Undirected,1
+Lars,Per Sørens,Undirected,1
+Anna,Margrete,Undirected,72
+Herman,Karl,Undirected,1
+Alexander Lichtenfeldt,Margrete,Undirected,1
+Maxime,Talleyrands,Undirected,1
+Gustav Lichtenfeldt,Henrik Lichtenfeldt,Undirected,1
+Margrete,taalmodig,Undirected,1
+Knudsen,Margrete,Undirected,1
+Anna,Knudsen,Undirected,1
+Hansen,Lorentzen,Undirected,3
+Margrete,Sparre,Undirected,1
+Louise,Margrete,Undirected,1
+Frøken Thorsen,Louise,Undirected,1
+Frøken Thorsen,Margrete,Undirected,2
+Louise Lichtenfeldt,Margrete,Undirected,11
+Hansen,Margrete,Undirected,1
+Anna,Herman,Undirected,19
+Carl Lorentzen,Herman,Undirected,11
+Carl Lorentzen,Margrete,Undirected,7
+Anna,Carl,Undirected,3
+Anna,Carl Lorentzen,Undirected,1
+Margrete,Marley,Undirected,1
+Marley,Miss Anna,Undirected,1
+Margrete,Miss Anna,Undirected,1
+Carl udvexle,Herman,Undirected,1
+Mine,Tante Mine,Undirected,1
+Frøken Holm,Tante Mine,Undirected,1
+Carl,Herman,Undirected,16
+Carl,Margrete,Undirected,8
+Flan,Hr. Svendsen,Undirected,1
+Bjørnsons,Carl,Undirected,1
+Herman,Svendsen,Undirected,27
+Herman,Oehlenschlæger,Undirected,1
+Helge,Oehlenschlæger,Undirected,1
+Carl Lorentzen,henrive,Undirected,1
+Frøken Holm,Margrete,Undirected,22
+Margrete,Svendsen,Undirected,10
+Herman,Mine,Undirected,2
+Frøken Holm,Herman,Undirected,5
+Frøken Holm,Mine,Undirected,4
+Carl Lorentzen,Frøken Holm,Undirected,1
+Herman,Patristicum,Undirected,1
+Flan,Herman,Undirected,1
+Herman,Lichtenfeldt,Undirected,1
+Herman Thorsen,Lichtenfeldt,Undirected,1
+Carl,Svendsen,Undirected,1
+Herman,Lorentzen,Undirected,6
+Lorentzen,Margrete,Undirected,8
+Lorentzen,Svendsen,Undirected,1
+Flerman,Svendsen,Undirected,1
+Herman,Lars,Undirected,2
+Anna,Mozart,Undirected,1
+Falk,Herman,Undirected,12
+Falk,Mine,Undirected,1
+Edvard,Herman,Undirected,2
+Anna Lorentzen,Herman,Undirected,1
+Herman,Margrete Thorsen,Undirected,2
+Edvard,Margrete Thorsen,Undirected,2
+Edvard,Lykke,Undirected,1
+Falk,Frøken Holm,Undirected,2
+Falk,Margrete Thorsen,Undirected,1
+Edvard,Frøken Holm,Undirected,2
+Falk,Holm,Undirected,1
+Herman,Løjtenanten,Undirected,1
+Carl Lorentzen,Herman Thorsen,Undirected,2
+Agathe,Griller,Undirected,1
+Anna,Griller,Undirected,2
+Griller,Margrete,Undirected,1
+Anna,Lund,Undirected,6
+Lund,Margrete,Undirected,5
+Anna,lille Margrete,Undirected,1
+Anna,Lars,Undirected,4
+Anna,Lorentzen Margrete,Undirected,1
+"D.,k",oren,Undirected,1
+Lal,nan,Undirected,1
+Herman,hin Kerberus,Undirected,2
+Margrete,Nimbus,Undirected,2
+Margrete,eg,Undirected,1
+Herman,eg,Undirected,1
+Lorentzen,Marquis de Latour,Undirected,1
+Marquis de Latour,Marqui’,Undirected,1
+Hortense,Marqui’,Undirected,2
+Hortense,Latour,Undirected,1
+Latour,Marquis,Undirected,1
+Hortense,Marquis de Latour,Undirected,2
+Lichtenfeldt,Marqui,Undirected,1
+Holbygaards,Hortense,Undirected,1
+Hortense,Louise Lichtenfeldt,Undirected,1
+Frøken Lichtenfeldt,Hortense,Undirected,1
+Anna,Lorentzen,Undirected,1
+Frøken Thorsen,Hortense,Undirected,3
+Hortense,Margrete,Undirected,101
+Holbygaards,Thorsen,Undirected,1
+Lorentzen,Thorsen,Undirected,1
+Henrik Lichtenfeldt,Margrete,Undirected,2
+Hortense,Lisette,Undirected,1
+Lisette,Margrete,Undirected,3
+Margrete,Marqui,Undirected,5
+Herman,bleve,Undirected,1
+Louise Lichtenfeldt,bleve,Undirected,1
+Carl,Flun,Undirected,1
+Carl,Hortense,Undirected,2
+Flerman,Herman,Undirected,1
+Hortense,Lichtenfeldt,Undirected,1
+Hortense,Margrete Thorsen,Undirected,1
+Frøken Lichtenfeldt,Margrete,Undirected,1
+Hortense,Lorentzen,Undirected,1
+Hortense,Zola,Undirected,1
+Balzac,Zola,Undirected,1
+Garibaldis,Hortense,Undirected,1
+Hortense,quis de Latour,Undirected,1
+Lund,Marquions,Undirected,1
+Hortense,Marquions,Undirected,1
+Hortense,Kjøren,Undirected,1
+Kjøren,Margrete,Undirected,1
+Komtessen,Margrete,Undirected,2
+Anna,Hortense,Undirected,2
+Margrete,Plougs,Undirected,1
+.Margrete,Tetid,Undirected,1
+Iverson,Svendsen,Undirected,1
+Amen,Svendsen,Undirected,1
+Jor ham,Svendsen,Undirected,1
+Carl Lorentzen,Svendsen,Undirected,1
+Falk,Varpetoug,Undirected,1
+Edvard Falk,Magretes,Undirected,1
+Falk,Tante,Undirected,1
+Herman Thorsen,Svendsen,Undirected,1
+Edvard Falk,Henrik,Undirected,1
+Else«,Henrik,Undirected,1
+Else«,Margrete,Undirected,1
+Falk,Svendsen,Undirected,2
+Falk,Margrete,Undirected,37
+Mine,Svendsen,Undirected,3
+Mine,Victor Hugo,Undirected,1
+Alfred de,Victor Hugo,Undirected,1
+Herman,Svene’,Undirected,1
+Edvard Falk,Margrete,Undirected,52
+Margrete,Marstrands,Undirected,1
+Herman,Myrten,Undirected,1
+Margrete,Myrten,Undirected,1
+Kristi,Margrete,Undirected,1
+Margrete,Mine,Undirected,4
+Margrete,Tante Mine,Undirected,2
+Edvard Falk,Frederik den Ote,Undirected,1
+Betty,Jens,Undirected,2
+Betty,Edvard,Undirected,4
+Carl Lorentzen,Lund,Undirected,1
+Carl,Carl Lorentzen,Undirected,1
+Lars,Lorentzen,Undirected,2
+Margrete,kjære,Undirected,1
+Herman,Herman Thorsen,Undirected,1
+Herman,Margrete skulde,Undirected,1
+Frøken Holm,Svendsen,Undirected,1
+Louise Lichtenfeldt,Svendsen,Undirected,1
+Louise Lichtenfeldt,Mine,Undirected,1
+Edvard Falk,Mine,Undirected,2
+Edvard Falk,Frøken Holm,Undirected,1
+Heine,Svendsen,Undirected,3
+Falk,Frøken Thorsen,Undirected,2
+Edvard Falk,Margrete Thorsen,Undirected,1
+Margrete,Margrete Thorsen,Undirected,1
+Edvard Falk,Herman,Undirected,1
+Betty,Margrete,Undirected,49
+Betty,Edvard Falk,Undirected,3
+Margrete,alias,Undirected,1
+Betty,alias,Undirected,1
+Margrete,Tante Bettys,Undirected,1
+Betty,Falk,Undirected,3
+Falk,Tante Mine,Undirected,1
+Edvard,Margrete,Undirected,9
+Margrete,Tante Betty,Undirected,3
+Cathleen Mavourneen,Margrete,Undirected,1
+Frøken Guldberg,Malling,Undirected,1
+Flerman,Margrete,Undirected,2
+Løjtenanten,Margrete,Undirected,1
+Anna kjørende,Lund,Undirected,1
+Anna kjørende,Herman,Undirected,1
+Lars,Lund,Undirected,3
+Herman,Lund,Undirected,2
+Betty,Tante Betty,Undirected,1
+Falk,sandru,Undirected,1
+Margrete,sandru,Undirected,1
+Margrete,Skjær,Undirected,1
+Glenten,Margrete,Undirected,1
+Edvard,Falk,Undirected,1
+Edvard Falk,Løjtenanten,Undirected,1
+Alode,Løjtenanten,Undirected,1
+Edvard,Flun,Undirected,1
+Carl Lorentzen,Luther,Undirected,1
+Edvard,Tante Betty,Undirected,1
+Margrete,thendes,Undirected,1
+Hortense de Latour,Margrete,Undirected,3
+Flun,Margrete,Undirected,1
+Hortense de Latour,Marqui’,Undirected,1
+Hortense,Marqui,Undirected,4
+Hortense de Latour,Lichtenfeldt,Undirected,1
+Hortense de Latour,Thorsen,Undirected,1
+Hortense,Thorsen,Undirected,1
+Lars,Margrete,Undirected,1
+Hortense,Papa,Undirected,2
+HauteVille,Margrete,Undirected,2
+Margrete,Susanne,Undirected,1
+Gerome,Hortense,Undirected,7
+Gerome,Margrete,Undirected,5
+Margrete,douce,Undirected,1
+douce,mais toujours,Undirected,1
+Margrete,Papa,Undirected,2
+Hortense,haute,Undirected,1
+haute,volée,Undirected,1
+Margrete,volée,Undirected,1
+Margrete,Marquis de Latour,Undirected,1
+Causeurs,Marqui,Undirected,1
+Margrete,Monsieur Guilbert,Undirected,1
+Edvard Falk,Hr. Guilberts,Undirected,1
+Hortense,Hr. Guilbert,Undirected,1
+Hr. Guilbert,Margrete,Undirected,1
+Amor,Hortense,Undirected,1
+Gerome,Lisette,Undirected,1
+Aare,Margrete,Undirected,1
+Hortense,Raoul,Undirected,2
+Betty,Margrete Thorsen,Undirected,1
+Edvard,Karl,Undirected,1
+Betty,ban,Undirected,1
+Edvard,Tosse,Undirected,2
+Betty,Guds,Undirected,1
+Edvard Falk,Tante Mine,Undirected,1
+Margrete,Tante,Undirected,1
+Carl Lorentzen,Louise Lichtenfeldt,Undirected,1
+Anna,Flun,Undirected,1
+Flun,Hortense,Undirected,1
+Papa,Raoul,Undirected,2
+Gerome,Papa,Undirected,1
+Papa,Slaa,Undirected,1
+Karl,hon,Undirected,1
+Margrete,huien goer-ed no,Undirected,2
+Margrete,hwem,Undirected,1

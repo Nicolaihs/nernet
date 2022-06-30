@@ -1,0 +1,246 @@
+source,target,type,weight
+Alvitra,Axel,Undirected,6
+Axel,Ulrika Cornelius,Undirected,1
+Dands,Ulrika —,Undirected,1
+Alvitra Barnay,Ulrika —,Undirected,1
+Axel,Maia,Undirected,3
+Alvitra,Maia,Undirected,2
+Axel,alfor,Undirected,1
+Alvitra,Rikardt,Undirected,1
+Axel,Axel Cornelius,Undirected,1
+Baron L—.,Rikardt,Undirected,1
+Axel,Rikardt,Undirected,1
+Alvitra,Madam Reimer,Undirected,1
+Greven,Maia,Undirected,1
+Axel,Greven,Undirected,3
+Axel,Madam Krogh,Undirected,1
+Line,taus,Undirected,1
+Greven,Madam Krogh,Undirected,1
+Gyntelberg,Vilhelm Krogh,Undirected,1
+Axel Kornelius,Grev Axel,Undirected,1
+Grev Axel,Vilhelm,Undirected,1
+Greven,Vilhelm,Undirected,9
+Kristian Olsen,Vilhelm,Undirected,1
+Alvitra,Vilhelm,Undirected,3
+Gud,ilaas,Undirected,1
+Axel,Gud,Undirected,1
+Vilhelm,iveien,Undirected,1
+Komtessen,Vilhelm,Undirected,31
+Komtessen,Pandora,Undirected,11
+Alvitra,Pandora,Undirected,2
+Axel,Vilhelm,Undirected,2
+Axel Heinrik Ludvig,Axel Ringberg,Undirected,1
+Axel äs,Barny,Undirected,2
+Hansen,Trieft,Undirected,1
+Pandora,Vilhelm,Undirected,3
+Svolvstikken,Vilhelm,Undirected,1
+Mo,Pandora,Undirected,1
+Helga,Mo,Undirected,3
+Helga,Pandora,Undirected,6
+Christian Olsen,betvang,Undirected,1
+Alvitra,Helga,Undirected,1
+Axel,Komtessen,Undirected,3
+Axel Cornelius,Vilhelm Krogh,Undirected,1
+Axel Cornelius,Chrisfian Olsen,Undirected,1
+Grev Barny,Greven,Undirected,1
+Gud,Vilhelm,Undirected,3
+Jomfru Estrups,Vilhelm,Undirected,1
+Axel,Krogh,Undirected,1
+Ferdinand,Vilhelm,Undirected,3
+Ferdinand,Komtessen,Undirected,3
+Greven,Komtessen,Undirected,7
+Greven,Pandora,Undirected,6
+Ferdinands Leie,Greven,Undirected,1
+Ferdinands Leie,jhavde,Undirected,1
+Ferdinand,Pandora,Undirected,18
+Christian Olsen,dora Frederikke Olsen,Undirected,2
+Barny,Hansen,Undirected,1
+Axel,Greves,Undirected,1
+Alvitra,Damms,Undirected,1
+Barny,Olivia,Undirected,1
+Olivia,Pandora,Undirected,9
+Bachus,Richard,Undirected,1
+Peter Byrke,Richard,Undirected,1
+Lisette,hnn,Undirected,1
+Endnn,Lisette,Undirected,1
+Richard,Satan,Undirected,1
+Olaf,Søren Hansen,Undirected,1
+Richard,lille Lisette,Undirected,1
+Mo ,er Svendsen,Undirected,3
+Greve,Karl,Undirected,1
+Greve,Richard,Undirected,1
+Richard,er Svendsen,Undirected,1
+Aurelia Selmer,Kristiansen,Undirected,1
+Don Juan,Osvald Boberg,Undirected,1
+Ferdinand,Helga,Undirected,1
+Greven,Svendsen,Undirected,2
+Greven,Richard,Undirected,4
+Richard,Vexlen,Undirected,1
+Grevinde Strømstjerne,Richard,Undirected,1
+Greven,Nicoline Olsen,Undirected,1
+Komtesse Alvitras,Nicoline Olsen,Undirected,1
+Axel,Richard,Undirected,1
+Aurelia,Pandora,Undirected,2
+Pandora,seire,Undirected,1
+Aurelia,Joseph Alarm Largetto,Undirected,1
+Greven,hnn,Undirected,1
+Fransf,hnn,Undirected,1
+Greve,Saaret,Undirected,1
+Kjøn,Vilhelm,Undirected,1
+Greven,Madam Kortsen,Undirected,2
+Frøken Hilda,Sofie,Undirected,1
+Eugenik,Greven,Undirected,1
+Greven,Rosa,Undirected,2
+Eugenie,Greven,Undirected,4
+Grevinde Strømstjerne,Z.,Undirected,1
+Barny,Z.,Undirected,1
+Barny,Louisdorer,Undirected,1
+Anna,Strømstjerne,Undirected,3
+Grev Barny,Strømstjerne,Undirected,1
+Dein,nied,Undirected,1
+Barny,nied,Undirected,1
+Barny,Strømstjerne,Undirected,2
+Komtessen,Svendsen,Undirected,1
+Komtessen,er Svendsen,Undirected,1
+Komtessen,Madam Svendsen,Undirected,2
+Madam Svendsen,slærk Karl,Undirected,1
+Adam,Gud,Undirected,3
+Carlo,Rosa,Undirected,1
+Aurelia,Greven,Undirected,4
+Christian Olsen,Greven,Undirected,1
+Ferdinand,Olivia,Undirected,6
+Ferdinand,Grev Barny,Undirected,1
+Ferdinand,Reimer,Undirected,1
+Ferdinand,nien,Undirected,1
+Eduard Reimer,nien,Undirected,1
+Greven,Strømstjerne,Undirected,1
+Olivia Hansen,Tom,Undirected,1
+Greven,Olivia,Undirected,1
+Ornat,Pandora,Undirected,1
+Pandora,Præsfen,Undirected,1
+Aurelia,Komtessen,Undirected,3
+Anna Ziller,Hansen,Undirected,1
+Aurelia Selmer,hnn,Undirected,1
+Pandora,hnn,Undirected,1
+Greven,Nemesis,Undirected,1
+Ankerskjold,Zillers,Undirected,1
+Ankerskjold,Aurelia Selmer,Undirected,1
+Grev Barny,Grev Strømstjerne,Undirected,1
+Aurelia,Grev Strømstjerne,Undirected,2
+Anna,Ziller,Undirected,1
+Elsfer,lil,Undirected,1
+Alvitra,Komtessen,Undirected,1
+Barny,Vilhelm Krogh,Undirected,1
+Alvitra,Aurelia,Undirected,1
+Aurelia,Sands,Undirected,1
+John,Massa,Undirected,1
+John,Signoraen,Undirected,1
+Floras,Greven,Undirected,1
+Grev von Rosenblad,Laura,Undirected,1
+Greven,Laura,Undirected,1
+Aurelia,Gud,Undirected,1
+Hr. Steffensen,Overbetjenten,Undirected,1
+Petersen,høilys,Undirected,1
+Petersen,Steffensen,Undirected,3
+Mutter,Petersen,Undirected,1
+Mutter,Steffensen,Undirected,1
+Gud,Petersen,Undirected,2
+Greven,Gud,Undirected,2
+Greven,Otto,Undirected,1
+Kamilla,Komtessen,Undirected,3
+Rødkjælkens,Steffensen,Undirected,1
+Laura,Ziller,Undirected,1
+Hufets,Peter,Undirected,1
+Laura,Peter,Undirected,1
+Lisbeth,miaue,Undirected,1
+Barny,Doklor Thomas Mikkelsen,Undirected,1
+Barny,Grev Barny,Undirected,1
+Komtessen,Pandora flap,Undirected,1
+Ferdinand,Norgarm,Undirected,1
+Olivia,Olivia Hansen,Undirected,1
+Komtessen,tillive,Undirected,1
+Komtessen,Olivia,Undirected,1
+Pandora,Papa,Undirected,1
+Hansen,Minette,Undirected,1
+Pandora,fom,Undirected,1
+Aurelia Selmer,Greven,Undirected,3
+Barny,Grev Rosenblad,Undirected,1
+Gecina,Grev Rosenblad,Undirected,1
+Aurelia Selmer,Komtessen,Undirected,2
+Gecina,Komtessen,Undirected,4
+Aurelia,Gecina,Undirected,6
+Barny,Gecina,Undirected,4
+Aurelia,Geeina,Undirected,1
+Aurelia,Vilhelm,Undirected,1
+Aurelia,Barny,Undirected,1
+Barny,undgaa,Undirected,1
+Gecina,Pandora,Undirected,3
+Gecina,Kaarde,Undirected,2
+Dolken,Komtessen,Undirected,1
+Gecina,Vilhelm,Undirected,1
+Geeina,Vilhelm,Undirected,1
+Geeina,Glenten,Undirected,1
+Aurelia Selmer,Pandora,Undirected,1
+Ferdinand,Gecina,Undirected,4
+Greven,Ziller,Undirected,1
+Ferdinand,Geeina,Undirected,1
+Ferdinand,Greven,Undirected,1
+Aurelia Selmer,Vilhelm Krogh,Undirected,1
+Gecina,Ziller,Undirected,1
+Peter Tjørnelund,Ziller,Undirected,1
+Barny,Peter Tjørnelund,Undirected,1
+Barny,Pandora,Undirected,2
+Peter Tjørnelund,Stjernblad,Undirected,2
+Greven,Peter Tjørnelund,Undirected,1
+Adreas,Sparotte,Undirected,1
+Geeina,Ziller,Undirected,1
+Ferdinand,Olivia Hansen,Undirected,1
+Axel Barny,Pandora,Undirected,1
+Gud,hust,Undirected,1
+Pandora,Tante,Undirected,1
+Olivia,Vilhelm Krogh,Undirected,1
+Pandora,Vilhelm Krogh,Undirected,1
+Aurelia Selmer,Geeina,Undirected,1
+Dolken,Geeina,Undirected,1
+Grevinden,Peter,Undirected,1
+Laura,Peter Tjørnelund,Undirected,1
+Ferdinand,Vilhelm Krogh,Undirected,1
+Gud,Vilhelm Krogh,Undirected,1
+Greven,fhi,Undirected,2
+Gecina,Komlessen,Undirected,1
+Adam,Greven,Undirected,1
+Greven,Harriet,Undirected,1
+Adam,Støien,Undirected,1
+B.,Erikssvælget,Undirected,1
+Erikssvælget,Steen,Undirected,1
+Greven,Hnn,Undirected,1
+Adam,Barny,Undirected,1
+Adam,Herr Greve,Undirected,1
+Geeina,Komtessen,Undirected,1
+Gecina,Olivia,Undirected,2
+Dora,Geeina,Undirected,1
+Geeina,Olivia,Undirected,1
+Dora,Ferdinand,Undirected,1
+Geeina,Pandora,Undirected,1
+Geeina,Olivia Hansen,Undirected,1
+Aurelia Selmer,Gecina,Undirected,3
+Gecina,Meyrings,Undirected,1
+Alvitra,Gecina,Undirected,1
+Aurelia,Nemesis,Undirected,1
+Aurelia,fom,Undirected,1
+Gecina,Greven,Undirected,3
+Karl ham iveien,Komtessen,Undirected,1
+Alvitra,Gud,Undirected,1
+Alvitra,Grev Barny,Undirected,1
+Gecina,Greve,Undirected,1
+Komtessen,Steen,Undirected,1
+Axel,Steen,Undirected,1
+Gecina,Karlen,Undirected,1
+Olivia Hansen,hans fordums,Undirected,1
+Greven,Hesfene,Undirected,1
+Axel,Olivia,Undirected,1
+Axel Barny,Gecina,Undirected,1
+Barny,Gud,Undirected,1
+Grev Barny,Pandora,Undirected,1
+Adam,Pandora,Undirected,2
+Gud,Pandora,Undirected,1

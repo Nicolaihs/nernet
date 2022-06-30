@@ -1,0 +1,361 @@
+source,target,timestamp
+Jonas,Thøgersen,1
+Jonas,Tværmose,1
+Jokumsen,Tværmose,1
+Griserup,Jokumsen,1
+Cecilia,Griserup,1
+Cecilia,Sidse,1
+Klavs,Morten,2
+Gdthe,Morten,2
+Felix,Gdthe,2
+Felix,Jonas Thøgersen Tværmose,2
+Bech,L’,6
+Bech,L’,6
+L’,Wimmer,6
+Sivertsen,Wimmer,6
+Krankl,Sivertsen,7
+Bech,Wimmer,12
+Sivertsen,Wimmer,12
+Aksel,Valkyrie,17
+Aksel,Valborg,17
+Signe,Valborg,17
+Ingeborg,Signe,17
+Ingeborg,Tristan,17
+Isolde,Tristan,17
+Alexander,Isolde,17
+Alexander,Cæsar,17
+Cæsar,Napoleon,17
+Bodil,Jonas,19
+Bodil,Jonas,19
+Cecilia,Rafaels,23
+Bodil Andresen,Cecilia,23
+Bodil Andresen,St. Cecilia,23
+Bodil,St. Cecilia,23
+Botildes,Madam Andresens,24
+Bodil Andresen,Cecilia,26
+K.,bode,31
+Giraf,Petersen,35
+Bjørn,Giraf,35
+Bjørn,Jonas Tværmose,35
+Barbara,Gitte,40
+Gitte,Jonas,40
+Gitte —,Jonas,41
+Etatsraad Thayssen,emeritus,50
+Lise,Stankelben,51
+Villie,phil. Felix,52
+Leander,Octavio,53
+Geronte,Leander,53
+Defensors,Felix,55
+Felix,Msr,61
+Felix,Regina,64
+Palm,Regina,65
+Regina,Tante Palm,66
+Regina,rose,67
+Jonas,Regina,69
+Regina,Søren Matisens,69
+Regina,St. Avgustinus,71
+Laban,Regina,73
+Regina,Tante Palm,74
+Finsen,Holms,78
+Holms,Liebling,78
+Jonas,Regina,79
+Regina,Slambek,80
+Regina,Slambek,80
+Fyrl,Regina,80
+Fyrl,George Sand,80
+Hr. Suderup,Tea,84
+Frithiof,Hr. Suderup,85
+Frithiof,Helge,85
+Helge,Suderup,85
+Fabula docet,Suderup,85
+Suderup,Tea,91
+Tea,from,91
+Suderup,Tea,94
+Suderup,Tea,94
+Alliken,Tea,95
+Jonas Tværmose,Peter Suderup,96
+Heine,Suderup,98
+Suderup,Tea,100
+Hegels,Tea,101
+Hr. Suderup,Tea,103
+Peter Suderup,Tea,104
+Frithiof,Tea,104
+Frithiof,Ingeborg,104
+Ingeborg,Peter Suderup,104
+Helge,Peter Suderup,104
+Helge,Tværmose,104
+Frithiof,Tea,107
+Jeppe,Tea,115
+Suderup,Tea,115
+Suderup,Tea,115
+Praase,Suderup,116
+Rossinis,Suderup,116
+Pumpenbergs,Rossinis,116
+Pumpenbergs,Wilhelm Tell,116
+Suderup,Wilhelm Tell,116
+Hr. Suderup,Suderup,125
+Suderup,Tea,126
+Suderup,Tea,126
+Jonas,Suderup,131
+Urania,beraaber,134
+Urania,Uriane Grip,135
+Urania,Uriane,135
+Kaptain Landseck,Uriane,135
+Gubben,Kaptain Landseck,135
+Gubben,Jean de Paris,135
+Bramarbas,Jean de Paris,135
+Bramarbas,Gubben,135
+Frøken Alvildas,Rolfs,137
+Canevas,Hr. Malmberg,145
+Pernille,Stine,150
+Hr. Tværmose,Rolf,154
+Sivertsen,Tværmose,156
+Gubben,Rolf,160
+Gubben,gammal,160
+Alvildes,Stine,172
+Malmbergs,Stine,172
+A,B —,177
+B —,Gud,177
+Herodes,Pilatus,183
+Gud,Proprietær N. N.,185
+Jonas,Tværmose,192
+Jonas,Spardame,197
+Codille,Spardame,197
+Codille,Jonas,197
+Kancelliraad Beitzers,Urania,202
+Kancelliraad Beitzer,Urania,206
+Shylock,j eg,209
+Housemann,Shylock,209
+Housemann,Mefistofeles,209
+Jonas,Jørgen,211
+Nielsen,Stub,215
+Dr. Pilqvist,Stub,215
+Nielsen,Stub,216
+Pilqvist,Stub,216
+Christen Højgaard,Jørgen,221
+Christen Højgaard,Jørgen,221
+Jonas,Tværmose,234
+Tværmose,véd,234
+Bulvers,Eugen Aram,236
+Eugen Aram,Tværmose,236
+Bulme,Tværmose,236
+Bulme,Tværmose,236
+Dimling,Malm,241
+Sivertsen,Tværmose,242
+Jonas,Sivertsen,243
+Jørgen Dimling,Lisbet,248
+Jørgen,Lisbet,248
+Jonas,Jørgen,254
+Jomfru Bolines,Lisbet,255
+Jonas,Jørgen Dimling,256
+Kastor,Pollux,259
+Pollux,Telemak,259
+Kong Salomons,Telemak,259
+Jørgen Hattemagers,Kong Salomons,259
+Dolly,John,260
+Leopold,Polle,263
+Kastor,Pollux,264
+Jonas,Kastor,264
+Kastor,Pollux,265
+Kastor,Pollux,265
+Kastor,Pollux,265
+Jørgen Hattemager,Kong Salomon,272
+Friedrich von Schiller,Kastor,273
+Kreti,Pieti,275
+Pollux,Polluxl,281
+Jørgen Hattemager,Kong Salomon,284
+Jørgen Hattemager,Kong Salomon,284
+Svanebæks,Tesevs,289
+Dolly,John,291
+Hr. Tværmose,Øhlenschlægers,304
+Dina,Frøken Dollys,305
+J.,T.,306
+Dolly,Jonas Tværmose,311
+Hr. Tværmose,Hr. X.,313
+Dolly,Jonas Tværmose,314
+Dolly,Tværmose,314
+John,Tværmose,314
+Dolly,John,314
+Dolly,bode,314
+John,bode,314
+Sandgaard,Svanebæk,320
+Jansen,Polydeukes,321
+Jansen,Kastor,324
+Jansen,Zevs,324
+Tværmose,Zevs,324
+Hr. Tværmose,Svanebæk,325
+Hr. Tværmose,Svanebæk,325
+Jansen,Pollux,327
+Svanebæk,alias Fuldmægtig Tværmose,328
+Jansen,skoggerlo,337
+Svanebæk,Tværmose,338
+Strom,Strøm,345
+Milding,Strøm,347
+Milding,Strøm,350
+Milding,Strøm,351
+Strøm,Ævne,353
+Morten,Ævne,353
+Adolf,lille Morten,354
+Adolf,Morten,354
+Ise,Morten,358
+Gud,Ise,358
+Morten Strøm,Strøm,360
+Fromberg,Milding,361
+Fromberg,Strøm,364
+Dhrr,Strøm,365
+Dhrr,Fromberg,365
+Fromberg,Strøm,366
+Fromberg,Strøm,366
+Fromberg,Maxmand,367
+From berg,Milding junior,371
+Fromberg,Maxmand,372
+Hymens,Olivia Fromberg,373
+Olivia,Olivia Fromberg,373
+Milding,Strøm,375
+Fromberg,Maxmand,377
+Fromberg,Strøm,378
+Fromberg,Maxmand,378
+Fromberg,Strøm,382
+Fromberg,Strøm,382
+Maxmand,Milding,386
+Maxmand,Strøm,386
+Fromberg,Strøm,386
+Fromberg,Strøm,386
+Fromberg,Strøm,386
+Fromberg,Strøm,386
+Gud,Stupigen,391
+Bavelse,Strøm,393
+Mahomed,Strøm,397
+B,Fromberg,403
+B,else,403
+Fromberg,Milding,406
+Liszt,Schumann,416
+Grace,grace,418
+Robert le diable,grace,418
+Dronning Hortense,Liszt,419
+Liszt,Schuberts,419
+Ludvig den,Marats,421
+Jonas,Tomas,422
+Jonas,Tante,422
+Lucy,Maren,430
+Lucy,Maren,436
+Lucy,Maren,437
+Lucy,Maren,438
+Kehraus,Lucy,438
+Kehraus,Lucy,438
+Klinkerup,Lucy,438
+Klinkerup,Mendelssohn-Bartholdys,438
+Miss Lucy,Sopran,439
+Frøken Munks,Lind,441
+Frøken Munks,Kong David,441
+Lars,Stine,442
+Karl,Lars,442
+Ami,Karl,442
+Ami,Stine,442
+Lars’,Stine,442
+Ami,Lars’,442
+Ami,Fruens,442
+Fruens,Karlens,442
+Karlens,Moppens,442
+Korfits Ulfeld,Lind,443
+Frøken Munk,Malm,445
+Ramle,liun,446
+Ramle,Sivertsen,446
+Malm,graa,447
+Frøken Munk,Sivertsen,448
+Emilie,Sivertsen,448
+Hr. N.,N.,451
+Hr. Tværmose,N.,451
+Hr. Tværmose,N. N.,451
+Malm,N. N.,451
+Frøken Munk,Malm,451
+Frøken Munk,Madam Din nessen,452
+Gud,Sidse,457
+Finkelos,Sidse,458
+Finkelos,Sidse,458
+Madam Dinnessen,Pettenkofer,460
+Kong David,Madam Dinnessen,461
+Liun,Madam Dinnessen,464
+Karl von Karlsberg oder,Salzmanns,468
+Stine,véd,469
+Lars,Stine,470
+Frøken Petersen,Stine,470
+Anna,Anna Rosalinda,476
+Anna,Rosa,476
+Linda,Rosa,476
+Linda,Rosalia,476
+Rosalia,Rosalinda,476
+Annalinda,Rosalinda,476
+Ane,Annalinda,476
+Gud,Mariane,483
+Adjøs,Mariane,483
+Askepots,Clara,486
+Lotta,hon,489
+alis,hon,489
+Lotta,hendel,490
+Hr. Tværmose,Karen,503
+Karen«,Karine,506
+Karen,liun,509
+Karen,Karl,514
+Karen,Stine,517
+Karen,Ævne,527
+Karen,Ævne,527
+Karen,Lassen,527
+Karen,Lassen,527
+Karen,trælle,527
+Karen,Stine,528
+Karen,Stine,528
+Karen,Karen«,528
+Karen«,Stine,528
+Rosalia Lassen,Stine,528
+Rosa li as,Rosalia Lassen,528
+Karen,Rosa li as,528
+Karen,Rosalia,529
+Karen,Rosalia,530
+Karen,Rosalia,530
+Karen,Rosalia,530
+Karen,Rosalia,530
+Karen,Stine,531
+Karen,Rosalia,532
+Karen,bode,533
+Karen,Rosalia,534
+Karen,sift,536
+Karen,Rosalia,537
+Karen,Rosalia,537
+Karen,Rosalia,538
+Karen,Mantillen,540
+Karen,Mantillen,540
+Flan,Karen,547
+Birte,Gud,556
+Honningstrøm,Signora Bajocci,566
+Edvard,Kunigunde,574
+Burre,Svendsen,576
+Denogden,N.,577
+Burre,Potifar,578
+Burre,Josef,578
+Kammerraad Klægl,Tværmose,581
+Sivertsen,Wimmer,590
+Emilie Krank,Sivertsen,591
+Buch,Sivertsen,596
+Wimmer,Wimmerl,601
+Armidas,Wimmer,601
+Wimmer,liendes,603
+Andreas,Fabian,604
+Buch,Sivertsen,605
+Buch,Wimmer,605
+Buch,Sivertsen,606
+Frederik den,Tværmose,613
+Frederik den,Sagas,613
+Garbrecht,Sagas,613
+Garbrecht,Job,613
+Malm,Tværmose,614
+Job,Tværmose,614
+Buch,Gud,623
+Gud,Regina,623
+Bingen,Gubben,636
+Belsebubs,bella,639
+Regine,Regine Palm,641
+Regine,liun,641
+Signorina,liun,641
+Frøken Callander,Regine,643
+Jonas Thøgersen Tværmose,Raimond,648

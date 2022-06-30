@@ -1,0 +1,547 @@
+source,target,type,weight
+Capt. Hansen,Juno,Undirected,1
+Brun,Eieren,Undirected,1
+Brun,Hansen,Undirected,1
+Hansen,Karl Johan,Undirected,1
+Ane,Karl Johan,Undirected,1
+Olaf,lian,Undirected,1
+Bjørns,Olaf,Undirected,2
+Aurora,isommer,Undirected,1
+Jonas,s,Undirected,1
+Joakim,s,Undirected,1
+Joakim,Jonas Sebastian,Undirected,1
+Gutten,Kapt. Behrens,Undirected,1
+Gutten,Jonas,Undirected,1
+Jonas,Sebastian,Undirected,1
+Brun,Jonas“,Undirected,1
+Beckers,Meyer,Undirected,1
+Brun,Sigrid,Undirected,4
+Sigrid,Theodor,Undirected,14
+Brun,Kaal,Undirected,1
+Aurora,Olaf,Undirected,27
+Aurora,Sigrid,Undirected,49
+Amor,Sigrid,Undirected,1
+Eufemia,Eufemia Rohde,Undirected,1
+Eufemia,Major Falk,Undirected,1
+Nille,Puyters,Undirected,1
+Mama,Sigrid,Undirected,1
+Mama,Papa,Undirected,11
+Olaf,Sigrid,Undirected,2
+Heiberg,Sigrid,Undirected,5
+liensank,liun,Undirected,1
+Aurora,Frøken Rohde,Undirected,8
+Aurora,Theodor,Undirected,8
+Aurora,Papa,Undirected,4
+Aurora,Gerhard,Undirected,77
+Gerhard,Konsul Bruns,Undirected,1
+Aurora,Konsul Bruns,Undirected,1
+Aurora,Tante,Undirected,1
+Gerhard,Theodor,Undirected,7
+Gerhard,Sigrid,Undirected,18
+Frøken Rohde,Olaf,Undirected,2
+Rhinskvin,Theodor,Undirected,1
+Kristofini,Tante Nilles,Undirected,1
+Puyter,lian,Undirected,1
+Jomfru Kaas,Sigrid,Undirected,1
+Frøken Brun,Puyter,Undirected,1
+Goethe,Tante Nilles,Undirected,1
+Heiberg,Ole Bull,Undirected,1
+Gud,Nille,Undirected,1
+Katharina af,Morten Luther,Undirected,1
+Katharina af,Philip Melanchton,Undirected,1
+Frøken Rohde,Katharina,Undirected,1
+Aurora,Mortensen,Undirected,1
+Meyer,Mortensen,Undirected,1
+Hanne Strøm,Meyer,Undirected,2
+Frøken Rohde,Hoffmans,Undirected,1
+Eg,no,Undirected,1
+Betuven trur eg,Eg,Undirected,1
+Brun,Eg,Undirected,1
+Eg,meg,Undirected,1
+deg,meg,Undirected,1
+Aurora,eg,Undirected,1
+Aurora,Puyter,Undirected,10
+"Aurora,¹¹",Olaf,Undirected,1
+Doremand,Olaf,Undirected,1
+Aurora,Don Juan,Undirected,2
+Aurora,Gratie,Undirected,1
+Kjerulfs,Sigrid,Undirected,1
+Kristofine,Nille,Undirected,1
+Nille,Vaarlivs,Undirected,1
+Kristofine,Tante Nilles,Undirected,1
+Maren,Tante Nilles,Undirected,1
+Maren,Ulrikens,Undirected,1
+Brun,Heiberg,Undirected,5
+Frøkner Puyter,Gerhard,Undirected,1
+Faun,Gerhard,Undirected,1
+Asta,Aurora,Undirected,3
+Aurora,Voltaire,Undirected,1
+Rousseau,Voltaire,Undirected,1
+Heyse,Sigrid,Undirected,1
+Luther,Sigrid,Undirected,1
+Brun,Luther,Undirected,1
+Aurora,Brun,Undirected,9
+Aurora,Aurora Gerhards,Undirected,1
+Praxis,Sigrid,Undirected,1
+Brun,Theodor,Undirected,5
+Aurora,Doremand,Undirected,1
+Doremand,Sigrid,Undirected,1
+Sigrid,Toby agterud,Undirected,2
+Aurora,paany,Undirected,1
+Gerhard,paany,Undirected,2
+Gerhard,Le fiore della Primavera,Undirected,1
+Forsmaa,Le fiore della Primavera,Undirected,1
+Aurora,ban,Undirected,2
+Aurora taug,ban,Undirected,1
+Aurora,Zitto,Undirected,1
+Aurora,unorsk,Undirected,1
+Sigrid,unorsk,Undirected,1
+cara,mia,Undirected,1
+Aurora,mia,Undirected,1
+Sigrid,pegte,Undirected,1
+Aurora,pegte,Undirected,1
+Olaf,Theodor,Undirected,1
+Olaf Lies,stelle,Undirected,1
+Brun,Herr Parelius,Undirected,2
+Gutten,Herr Parelius,Undirected,1
+Gutten,Olaf,Undirected,1
+Olaf,W.,Undirected,1
+Herr Schreiner,W.,Undirected,1
+Herr Schreiner,Schreiner,Undirected,1
+Olaf,Pauvre,Undirected,1
+Ida,Pauvre,Undirected,1
+Bethowen,Rafael,Undirected,1
+Michel Angelo,Rafael,Undirected,1
+Herr Parelius,Minerva,Undirected,1
+Jupiters,Minerva,Undirected,1
+Jupiters,ami,Undirected,1
+Haakon,livis,Undirected,1
+Mais,Olaf,Undirected,1
+Principal,ce vieux fou,Undirected,1
+Jamais,ami,Undirected,1
+Sage,sage,Undirected,1
+Brun,Olaf,Undirected,8
+Olaf,ami,Undirected,2
+Herr Vanmehren,Olaf,Undirected,1
+Theori,Vanmehren,Undirected,1
+Jonas,Jonas Vanmehren,Undirected,1
+Jonas,tommere,Undirected,2
+Gud,Jonas,Undirected,1
+Olaf,Vanmehren,Undirected,4
+Darwin,Gud,Undirected,1
+Kodans,Sagas,Undirected,1
+Lord Byron,Olaf,Undirected,1
+Kling,Schiller,Undirected,1
+Goethe,Schiller,Undirected,1
+Molochs,Olaf,Undirected,1
+Kling,Olaf,Undirected,1
+Brun,Karl Johan,Undirected,1
+Karl Johan,Olaf,Undirected,1
+Meyer,anynom,Undirected,1
+Meyer,Olaf,Undirected,2
+Eg,ano,Undirected,1
+Lie,Olaf,Undirected,1
+Aurora,Schreiner,Undirected,3
+Sigrid,Tante,Undirected,2
+Arne,Herr Gerhard,Undirected,1
+Frøken Rohde,Sigrid,Undirected,1
+Frøken Rohde,Gerhard,Undirected,1
+Aurora,Gud,Undirected,4
+Gud,Heiberg,Undirected,4
+Heiberg,Theodor,Undirected,1
+Aurora,Heyse,Undirected,1
+Heyse,Zolas,Undirected,1
+Aurora,Zolas,Undirected,2
+Frøken Brun,Huo,Undirected,1
+Frøken Brun,Mathilde Schreiner,Undirected,1
+Heiberg,skjælmsk,Undirected,1
+Herr Parelius,Lie,Undirected,1
+Lie,Wagner,Undirected,1
+Puyter,siir,Undirected,1
+Didrikmand,siir,Undirected,1
+Gud,nik,Undirected,1
+Kjære,Papa,Undirected,1
+Zola,Zolas,Undirected,1
+Gud,Jean de France,Undirected,1
+Elisabeth,Zola,Undirected,1
+Gerhard,Papa,Undirected,5
+Brutus,Gerhard,Undirected,1
+Brutus,paany,Undirected,1
+Abelone,Didrikmand,Undirected,1
+Abelone,Inger,Undirected,2
+Abelone,Vibekke,Undirected,1
+Trine,Vibekke,Undirected,1
+Papa,Trine,Undirected,1
+Gerhard,Zola,Undirected,2
+Abelone,paany,Undirected,1
+Didrikmand,paany,Undirected,1
+Didrikmand,Vibekke,Undirected,1
+Papa,Vibekke,Undirected,1
+Ulriken,Vanmehren,Undirected,1
+Mesters,Vanmehren,Undirected,1
+Seilmager,Throndsen,Undirected,1
+Binemor,Gerhard“,Undirected,1
+Sløifen,skalv,Undirected,1
+Sløifen,Vibekke,Undirected,1
+Divert,Vibekke,Undirected,1
+Abelone,Divert,Undirected,1
+Binemor,Tante Nille,Undirected,1
+Puyter,Sigrid,Undirected,2
+Puyter,Tante Nille,Undirected,1
+Gerhard,Tante Nille,Undirected,1
+Theodor,ty,Undirected,1
+Sigrid,ty,Undirected,1
+Theodor,nien,Undirected,1
+Fr,Tante Nille,Undirected,1
+Fr,Puyter,Undirected,1
+Nille,Puyter,Undirected,1
+Ole,Ole Bull,Undirected,1
+Gerhard,Ole Bull,Undirected,1
+Anne,Bolette,Undirected,2
+Brun,Didrikmand,Undirected,2
+Binemor,Frøken Brun,Undirected,2
+Binemor,Brun,Undirected,1
+Konsul Bruns,Puyter,Undirected,1
+Tante,caro mio.,Undirected,1
+Papa,caro mio.,Undirected,1
+Brun,Puyter,Undirected,5
+Gerhard,Heiberg,Undirected,5
+Aurora,Luther,Undirected,3
+Theodor,Werthermine,Undirected,1
+Heines,Werthermine,Undirected,1
+Gerhard“,Theodor,Undirected,1
+Heines,Theodor,Undirected,1
+Sara,Villie,Undirected,1
+Olaf,tom Kjelder,Undirected,1
+Aurora,signe,Undirected,1
+Olaf,nidkjær,Undirected,1
+Adieu,Olaf,Undirected,2
+Mama,Monsieur Senard,Undirected,1
+Monsieur Senard,Papa,Undirected,1
+Herr Pare-,Mama,Undirected,1
+Herr Pare-,lius,Undirected,2
+esprit,lius,Undirected,1
+Papa,esprit,Undirected,1
+Ida,Mama,Undirected,1
+Gud,Ida,Undirected,1
+Papa,dan,Undirected,1
+Mama,dan,Undirected,1
+Papa,selig,Undirected,1
+Mama,Valse,Undirected,1
+Mama,W.,Undirected,1
+holms,v. E.,Undirected,1
+Mama,holms,Undirected,1
+Lamartine,Mama,Undirected,1
+Halfdan,Mama,Undirected,2
+Halfdan,Ida,Undirected,1
+Gud,Mama,Undirected,1
+Lamartine,tom,Undirected,1
+Graad,Lamartine,Undirected,1
+Mama,Marie      ,Undirected,1
+Helga,Mama,Undirected,1
+Ida,Olaf,Undirected,3
+Gerhard,Nille,Undirected,2
+Nille,roras,Undirected,1
+Puyter,hans kjære Ger-,Undirected,1
+Brun,mehren,Undirected,1
+Falk,mehren,Undirected,1
+Falk,Frøken Rohde,Undirected,2
+Frøken Rohde,Heiberg,Undirected,1
+Heiberg,Theodor in,Undirected,1
+. fl.,Theodor in,Undirected,1
+. fl.,Frøken Hansen,Undirected,1
+Frøken Hansen,tindes,Undirected,1
+Frøken Hansen,Jokumsen,Undirected,1
+Cornelia,Didrikmand,Undirected,1
+Bine,Cornelia,Undirected,1
+Abelone,Karine,Undirected,1
+Brun,Vanmehren,Undirected,2
+Heiberg,Jokumsen,Undirected,2
+Heiberg,Theo-,Undirected,1
+Theo-,dor,Undirected,1
+Nille,dor,Undirected,1
+Aurora,Rohde,Undirected,1
+Male-,rens,Undirected,1
+dan,rens,Undirected,1
+Jokum-,sen,Undirected,1
+^jøre,sen,Undirected,1
+Jokumsen,paany,Undirected,2
+Jokum-      ,sen,Undirected,1
+Aurora,Herr Birk,Undirected,3
+Herr Birk,Sarah      ,Undirected,1
+Aurora,Sarah      ,Undirected,1
+Herr   ,Rohde,Undirected,1
+Birk,Herr   ,Undirected,1
+Birk,Bjørgvin,Undirected,2
+Birk,joren,Undirected,1
+Jokumsen,Jødes,Undirected,1
+Jokumsen,Mama,Undirected,1
+Jokumsen,Tasso,Undirected,1
+Brun,eg,Undirected,2
+Brun,Jokumsen,Undirected,1
+Jokumsen,hai^,Undirected,1
+Gud,Samsons,Undirected,1
+Aurora,leit,Undirected,1
+Heiberg,Nille,Undirected,2
+Frøken Brun,Schreiner,Undirected,1
+Aurora,Wergeland,Undirected,2
+Aurora,Herr Parelius,Undirected,2
+Herr Parelius,Olaf Lie,Undirected,1
+Olaf Lie,Schreiner,Undirected,1
+Herr Parelius,Herr Schreiner Aurora,Undirected,1
+Herr Schreiner Aurora,Olaf,Undirected,1
+Maccaroni,Olaf,Undirected,1
+Schreiner,veredes,Undirected,1
+Schreiner,thilde,Undirected,1
+Herr Parelius,Olaf,Undirected,3
+Jokumsen,Mathilde,Undirected,1
+Mathilde,Olaf,Undirected,1
+Brun,Mathilde,Undirected,1
+Frøken Brun,Lie,Undirected,1
+Columbus,Wergeland,Undirected,1
+Mathilde,Wergeland,Undirected,1
+Werge-,Wergeland,Undirected,1
+Bedstemor,Mathilde,Undirected,1
+Aurora,xMors,Undirected,2
+Fru      ,Schreiner,Undirected,1
+Aurora,Mama,Undirected,1
+Gerhard,Hei-,Undirected,1
+Hei-,berg,Undirected,1
+Luther,berg,Undirected,1
+Aurora,Lie,Undirected,4
+Damsgaard,falbød,Undirected,1
+Aurora,Nille,Undirected,2
+Nille,Vanmehren,Undirected,1
+Aurora,Verdi,Undirected,1
+Dorthe Engelbrekts-,Kingo,Undirected,1
+Dahl,Ludvig Holberg,Undirected,1
+Brun,Dahl,Undirected,1
+Brun,Christie,Undirected,1
+Christie,Herman Foss,Undirected,1
+Herman Foss,Ole Bull,Undirected,1
+Louise Brun,Ole Bull,Undirected,1
+Edvard Grieg,Louise Brun,Undirected,1
+Edvard Grieg,Johannes Brun,Undirected,1
+Johannes Brun,Magdalena Thoresen,Undirected,1
+Lucie Wulf,Magdalena Thoresen,Undirected,1
+Camilla,Wergeland,Undirected,1
+Camilla,George      ,Undirected,1
+Bjørnson,George      ,Undirected,1
+Bjørnson,Ibsen,Undirected,2
+Thor-,valdsen,Undirected,1
+Anna  ,Kolbjørnsdatters,Undirected,1
+Aurora,Heiberg,Undirected,4
+liam,liun,Undirected,1
+Aurora,Herr Lie,Undirected,1
+Herr Lie,itale,Undirected,1
+Heiberg,itale,Undirected,1
+Gerhard,Schreiner,Undirected,1
+Aurora,Helena,Undirected,1
+Helena,Mary,Undirected,1
+Ulvik,verachtend,Undirected,1
+gegen das reine Weltall empor-  ,verachtend,Undirected,1
+Lie,cara mia,Undirected,1
+Bjørnson,Lauras,Undirected,1
+Lauras,Mama,Undirected,1
+Laura,Mama,Undirected,1
+Hartmann,Theodor,Undirected,1
+Doremand,Hartmann,Undirected,1
+Olaf,Wasa,Undirected,1
+Papa,Theodor,Undirected,1
+Eg,Meiers,Undirected,1
+Maria,Martha,Undirected,1
+Jomfru Maria,Martha,Undirected,1
+Anne Bolette,Sigrid,Undirected,1
+Sigrid,taust,Undirected,1
+Annemor,Aurora,Undirected,1
+Aurora,Divert,Undirected,1
+Divert,Puyter,Undirected,1
+Didrik-,Puyter,Undirected,1
+Gerhard,Gud,Undirected,2
+Didrikmand,Papa,Undirected,1
+Fregat,Gerhard,Undirected,1
+Gerhard,Inger,Undirected,1
+Inger,Vibekke,Undirected,1
+Abelone,Trine,Undirected,1
+Divert,Trine,Undirected,1
+Divert,Inger,Undirected,1
+ ,Brun,Undirected,1
+ ,C.,Undirected,1
+Brun,Frøken Aurora Brun,Undirected,1
+Olaf Lie,Vanmehren,Undirected,1
+Aurora,Olaf Lie,Undirected,1
+Aurora,iveien,Undirected,1
+Gerhard,Herr Birk,Undirected,1
+Jeanne d,Vanmehren,Undirected,1
+Jeanne d,Roland,Undirected,1
+George Sand,Roland,Undirected,1
+Gerhard,rora,Undirected,1
+Marquis,rora,Undirected,1
+Damsgaard,Ulriken,Undirected,1
+Lie,Ole Bull,Undirected,1
+Eufemia,Monsieur,Undirected,1
+Eufemia,Mademoiselle,Undirected,1
+Gaarsdagens,Herr L,Undirected,1
+Aurora,Ole Bull,Undirected,1
+Høimesse,Sigrid,Undirected,1
+Aurora,Høimesse,Undirected,1
+Anne Bolette,Aurora,Undirected,21
+Aurora,Inger,Undirected,1
+Aurora,liun,Undirected,2
+Aurora,hvi-,Undirected,1
+Aurora,Konsul Puyters,Undirected,1
+Gud,ban,Undirected,1
+Anne Bolette,Anne Bolette Jeremiassen,Undirected,1
+Aurora,Frøken,Undirected,1
+Anne Bolette,Gud,Undirected,1
+Sigrid,Tosk,Undirected,1
+Binemor,Puyter,Undirected,1
+Binemor,Hanna    ,Undirected,1
+Charlotte    ,Severine,Undirected,1
+Sigrid,Smaus,Undirected,1
+Smaus,Theodor,Undirected,1
+Eg,Maren Oldervaag,Undirected,1
+Eg,Tafien,Undirected,1
+Eg,Seve-,Undirected,1
+Seve-,rine,Undirected,1
+Kingo,Maren Oldervaag,Undirected,1
+Maren Oldervaag,Severine,Undirected,4
+Severine,eg,Undirected,1
+Eg,Geselmadamen,Undirected,1
+Høire,Maren Oldervaag,Undirected,1
+Severine,Severities Krykkestok,Undirected,1
+Severine,iknas,Undirected,1
+Divert,Papa,Undirected,1
+Didrikmand,Gud,Undirected,1
+Jørgen Moe,sen,Undirected,1
+Konsul Puyter,ban,Undirected,1
+Anne Bolette,Gerhard,Undirected,2
+Aurora,skjævere,Undirected,1
+eg,skjævere,Undirected,1
+Lie,Tante,Undirected,1
+Frøken Brun,Olaf,Undirected,1
+Brun,Jensen,Undirected,1
+Brose,Thomasine,Undirected,1
+Olaf,iveien,Undirected,1
+Brun,iveien,Undirected,1
+Olaf,Principal,Undirected,1
+Olaf straa-,lende,Undirected,1
+Frøken Aurora Brun,liar,Undirected,1
+Frøken Aurora Brun,Lie,Undirected,1
+Herr Puyter junior,Lie,Undirected,1
+Aurora,Birk,Undirected,5
+Sigrid,Vanmehren,Undirected,2
+Laura,Sigrid,Undirected,1
+Aurora,Laura,Undirected,1
+Aurora,Mathilde,Undirected,3
+Mathilde,Rohde,Undirected,1
+Aksel,Sigrid,Undirected,2
+Gerhard,Mathilde,Undirected,2
+Aksel,Gerhard,Undirected,3
+Lady Macbeth,Mathilde,Undirected,1
+Lady Macbeth,Maria Stuart,Undirected,1
+Gud,Pagterkonen,Undirected,1
+Van-,mehren,Undirected,2
+Dr. Birk,Lise,Undirected,1
+Dr. Birk,Gud,Undirected,1
+Herr   ,Puyter,Undirected,1
+Gorm,Toddy,Undirected,1
+Gorm,Toddyen,Undirected,1
+Jom-,L’,Undirected,1
+Mai,Theodor,Undirected,1
+Birk,Vanmehren,Undirected,1
+Laura-Sigrid,Vanmehren,Undirected,1
+Jomfru L,Vanmehren,Undirected,1
+Gorm,Jomfru L,Undirected,1
+Gorm,paany,Undirected,1
+Gorm,Sigrid,Undirected,1
+Gerhard,Laura,Undirected,1
+Gerhard-Aksel,Laura,Undirected,1
+Aurora,Gerhard-Aksel,Undirected,1
+Gerhard,Vanmehren,Undirected,1
+Aurora,Vanmehren,Undirected,1
+Birk,Lie,Undirected,2
+Gerhard Puyter,Gud,Undirected,1
+Gerhard,Randi,Undirected,1
+Aurora,Randi,Undirected,1
+Frøken Rohde,Mathilde,Undirected,1
+Sigrid,paany,Undirected,1
+Birk,Gorm,Undirected,1
+Aurora Sigrid,Lie,Undirected,1
+Aurora,liendes,Undirected,2
+Anne Bolette,Bremme,Undirected,1
+Ivaar,Onkels,Undirected,1
+Herr Broch,Papa,Undirected,1
+Aurora,Haabets,Undirected,1
+Aurora,Dr. Birk,Undirected,1
+Anne Bolette,Pagter-,Undirected,1
+Anne Bolette,Annemor,Undirected,2
+Anne Bo-,Aurora,Undirected,1
+Aurora,Messalina,Undirected,1
+Aurora,Ger-,Undirected,1
+Aurora,Hamlet,Undirected,1
+Aurora,iveien?¹,Undirected,1
+Aurora,ismug Aurora,Undirected,1
+Elvad,Elvorfor,Undirected,1
+Aurora,Didrikmand,Undirected,1
+Gud,Lie,Undirected,1
+Gud,Katarina Brun,Undirected,1
+Aurora Katarina,Katarina Brun,Undirected,1
+Bastian,Binemor,Undirected,1
+Divert,Gerhard,Undirected,1
+Pastoren,Tante,Undirected,1
+Brun,Lie,Undirected,1
+Gerhard —,Sigrid,Undirected,1
+Aurora,Lena Berg,Undirected,1
+Gerhard,kjære,Undirected,1
+Aurora,kjære,Undirected,1
+,Aurora,Undirected,2
+Aurora,Jonas Sebastian Kaspar Brun,Undirected,1
+Eufemia,Rohde,Undirected,1
+Eufemia,Falk,Undirected,1
+Schreiner,Tilla,Undirected,1
+Heiberg,Vanmehren,Undirected,1
+Jokumsen,Sara,Undirected,1
+Gerhard,Minka,Undirected,2
+Aurora,Minka,Undirected,1
+Frøken Eufemia,Jokumsen,Undirected,1
+Jokumsen,liendes,Undirected,2
+Gerhard,Jokumsen,Undirected,1
+Minka,Sigrid,Undirected,1
+Minka,Vanmehren,Undirected,1
+Puyter,Vanmehren,Undirected,1
+Gerhard,Puyter,Undirected,1
+Birk,Frøken Eufemia,Undirected,1
+Griegs,Minka,Undirected,1
+Aurora,Dei’,Undirected,1
+Aurora,Bolette,Undirected,1
+Aurora,roses,Undirected,2
+Aurora,Fars,Undirected,2
+Aurora,Maidag,Undirected,1
+Olaf,emny,Undirected,1
+Aurora,emny,Undirected,1
+Bjørnson,amica mia,Undirected,1
+Asta,cara mia,Undirected,1
+Adieu,Aurora,Undirected,1
+Aurora,tillive,Undirected,1
+Aurora,Henrik,Undirected,1
+Anne Bolette,Herr Puyter,Undirected,1
+Annemor,Birk,Undirected,1
+Annemor,Gud,Undirected,1
+Kjære,Sigrid,Undirected,1
+Theodor,hans,Undirected,1
+Heiberg,Papa,Undirected,1
+Heiberg,Mama,Undirected,1
+Aurora,Garibaldi,Undirected,1
+Schreiner,Theodor,Undirected,1
+Aurora,iland,Undirected,1
+Olaf,Ulriken,Undirected,1
+Gerhard,Olaf,Undirected,2
+Olaf,paany,Undirected,1
+Aurora,Heine,Undirected,1
+Camilla   ,Frøken Eufemia Rohde,Undirected,1
+Camilla   ,Jokumsen,Undirected,1
+Birk,Falk,Undirected,1
+Birk,signe Bergen,Undirected,1
+Frøken Rohde,signe Bergen,Undirected,1
+Puyter,St. Olafs,Undirected,1

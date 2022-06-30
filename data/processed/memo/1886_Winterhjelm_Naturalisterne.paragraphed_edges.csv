@@ -1,0 +1,99 @@
+source,target,type,weight
+Knut,Knut Nordling,Undirected,1
+Knut,Thure Lindstrømer,Undirected,1
+Thure,Thure Lindstrømer,Undirected,1
+Knut,Thure,Undirected,49
+Knut,Pilatus,Undirected,1
+Knut Nordling,Thure Lindstrømer,Undirected,1
+Ebba,Thure,Undirected,10
+Comtesse,Nordling,Undirected,1
+Knut,Lindstrømer,Undirected,2
+Guttevis,Thure,Undirected,1
+Guttevis,Knut,Undirected,1
+Knut,Mons,Undirected,1
+Knut,Quesnay,Undirected,1
+Quesnay,Rousseau,Undirected,1
+Herr Student Knut Nordling,Knut,Undirected,1
+Almqvist,Thure,Undirected,1
+Helfrid Wallgren,Thure,Undirected,2
+Knut,bo,Undirected,1
+Wallgrens,bo,Undirected,1
+Kanske,Knut,Undirected,1
+Helfrid,Thure,Undirected,12
+Helfrid,Knut,Undirected,25
+Knut,Wallgrens,Undirected,1
+Gamla,Pelle Bjørck,Undirected,1
+Pelle,Pelle Bjørck,Undirected,1
+Helfrid,Wallgren,Undirected,4
+Knut,Salmson,Undirected,1
+Helfrid,Salmson,Undirected,1
+Thure,oddebart,Undirected,1
+Pehr Andersson,Thure,Undirected,1
+Brita,Lisa,Undirected,1
+Anders,Lisa,Undirected,1
+Anders,Karin Pehrsdotter,Undirected,2
+Knut,hiin,Undirected,1
+Karin Pehrsdotter,Knut,Undirected,1
+Helfrid,Karin Pehrsdotter,Undirected,1
+Anders,Helfrid,Undirected,4
+Anders,Knut,Undirected,2
+Karl,Knut,Undirected,1
+Anders,Karin,Undirected,6
+Knut,Pehr,Undirected,2
+Knut,Ljungløfs,Undirected,1
+Gutten,Pehr,Undirected,1
+Knut,isaafald Knut,Undirected,2
+Furuskoven,Thure,Undirected,1
+Sissi,Tante,Undirected,1
+Knut,Sissi,Undirected,1
+Albert,Maria,Undirected,3
+Gud,Maria,Undirected,1
+Gud,Thure,Undirected,1
+Knut,Pivad,Undirected,1
+Knut,Maria Nordling,Undirected,1
+Ebba,Knut,Undirected,16
+Albert,Ebba,Undirected,1
+Albert,Knut,Undirected,1
+Andersson,Thure,Undirected,1
+Andersson,Knut,Undirected,1
+Benedikt,Ebba,Undirected,1
+Beatrice,Benedikt,Undirected,1
+Beatrice,Knut,Undirected,1
+Benedikt,Knut,Undirected,1
+Ebba,Helfrid Wallgren,Undirected,1
+Ebba,Helfrid,Undirected,8
+Elelfrid,Knut,Undirected,1
+Helfrid,io,Undirected,1
+Brunte,Kjødets,Undirected,1
+Ebba,Nils,Undirected,1
+Gud,Nils,Undirected,1
+Knut,Olie Pehrsson,Undirected,1
+Ebba—ja,Thure,Undirected,1
+Fredrik Pålsson,Kalle Fredriksson,Undirected,1
+Fredrik Pålsson,Karin,Undirected,1
+Karin,jacka,Undirected,1
+gick jag upp,jacka,Undirected,1
+Jag,gick jag upp,Undirected,1
+Jag,hennes,Undirected,1
+Gumma,Pehr Andersson,Undirected,1
+Anders,Gumma,Undirected,1
+Helfrid,Kalle Fredriksson,Undirected,1
+Kalle Fredriksson,Karin,Undirected,1
+Kalle,Karin,Undirected,1
+Anders,Karl,Undirected,1
+Kalle,Karl,Undirected,1
+Gud,Herr Nordling,Undirected,1
+Thure,Wallgren,Undirected,1
+Gudbevars,Wallgren,Undirected,2
+Knut,Wallgren,Undirected,1
+Knut,Nordling,Undirected,2
+Nordling,Thure,Undirected,1
+Jøns,Jøsses,Undirected,1
+Ebba,Tante,Undirected,1
+Knut,Lotta,Undirected,1
+Jøsses,Knut,Undirected,2
+Ebba,Lotta,Undirected,1
+Jøsses,Lotta,Undirected,1
+Gud,Knut,Undirected,1
+Jens,Lotta,Undirected,1
+Knut,Tante,Undirected,1

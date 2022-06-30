@@ -1,0 +1,286 @@
+source,target,type,weight
+Knud Lavard,Magnus,Undirected,1
+Knud Lavard,Tillitze,Undirected,1
+Kramnitze,Tillitze,Undirected,1
+Kramnitze,Valdemar,Undirected,1
+Knud Lavard,Valdemar,Undirected,1
+Knud Lavard,Skj els,Undirected,1
+Knud Hertug,Skj els,Undirected,1
+Absalon Asgerson,Knud Hertug,Undirected,1
+Absalon Asgerson,kjæk,Undirected,1
+Palnatoke,kjæk,Undirected,1
+Palnatoke,Ærkebiskop Eskil,Undirected,1
+Absalon,Ærkebiskop Eskil,Undirected,1
+Absalon,Dankongen,Undirected,1
+Lollik Holmsten Kristjernsøn,Sune Ebbesøn,Undirected,1
+Egg,Odd,Undirected,1
+Arkon,Peder Thorstensøn,Undirected,1
+Arkon,Peders,Undirected,1
+Gud,Peders,Undirected,1
+Niels Oxe,Sune Ebbesøn,Undirected,1
+Josva,Niels Oxe,Undirected,1
+David,Josva,Undirected,1
+David,Kong Valdemars,Undirected,1
+Kong Valdemars,Vendlands,Undirected,1
+Gud,Thinge,Undirected,1
+Erik Nielsen,Sune Ebbesøn,Undirected,1
+Erik Nielsen,Erik Rap,Undirected,1
+Erik Nielson,Sune,Undirected,1
+Astrid,Erik Nielson,Undirected,1
+Astrid,Erik,Undirected,4
+Absalon,Sune,Undirected,1
+Absalon,Ebbesøn,Undirected,1
+Ebbesøn,Holmstein,Undirected,1
+Gud,Holmsten,Undirected,1
+Gubbe,Holmsten,Undirected,1
+Ingeborgs,Signil,Undirected,1
+Gubben,knarvorn,Undirected,1
+Ketil Bryde,knarvorn,Undirected,1
+Farfader,Ingeborg,Undirected,1
+Farfader,Ragna,Undirected,4
+Ingeborg,lian,Undirected,2
+Ingeborg,Ragna,Undirected,1
+Gubben,Signil,Undirected,1
+Hirdmand,Signil,Undirected,1
+Hirdmand,idethan,Undirected,1
+Ingeborg,Signil,Undirected,5
+Holmsten,Pater Johan,Undirected,1
+Ingeborg,liun,Undirected,1
+Ingeborg,Sigurd“,Undirected,1
+Holmsten,Ingeborg,Undirected,7
+Gubben,Ingeborg,Undirected,3
+Ingeborg,Sigurd,Undirected,53
+Holmsten,Sigurd,Undirected,11
+Bent,Gud,Undirected,7
+Kristjern,lian,Undirected,1
+Holmsten,Ingeborg lille,Undirected,1
+Bent,Ingeborg,Undirected,2
+Holmsten,Signil,Undirected,1
+Erik Emme,Leding,Undirected,1
+Erik den Spage,Leding,Undirected,1
+Erik den Spage,Svend Eriksøn,Undirected,1
+Knud Mogensen,Svend Eriksøn,Undirected,1
+Gud,Kristjern,Undirected,1
+Arne,Ingeborg,Undirected,1
+Bent,Holmsten,Undirected,3
+Arne,Kong Valdemar,Undirected,1
+Signil,Trælles,Undirected,1
+Kristjern,Signil,Undirected,2
+Sigurd,lian,Undirected,5
+Signil,Ubbe,Undirected,2
+Ingeborg,Ubbe,Undirected,9
+Ketil Bryde,Signil,Undirected,1
+Gunild,Signil,Undirected,3
+Gud,Ingeborg,Undirected,8
+Signil,Sigurd,Undirected,2
+Gunild,Ingeborg Holmstensdatter,Undirected,3
+Ingeborg Holmstensdatter,liun,Undirected,1
+Gunild,liun,Undirected,1
+Eskil Lang,Gunild,Undirected,2
+Brade,Eskil Lang,Undirected,2
+Eskil Lang,Niels Eriksen,Undirected,2
+Eskil,Eskil Lang,Undirected,1
+Eskil,Niels Eriksen,Undirected,5
+Eskil,Niels Eriksøn,Undirected,3
+Eskilds,Niels Eriksøn,Undirected,1
+Eskilds,Gunild,Undirected,1
+Bent,Gunild,Undirected,39
+Aaen,Bent,Undirected,1
+Aaen,Eskil,Undirected,1
+Eskil,Gunild,Undirected,1
+Bent,Eskil,Undirected,2
+Bent,lian,Undirected,2
+Husbond,Sigurd,Undirected,2
+Adam,Sigurd,Undirected,2
+Adam,Eva,Undirected,4
+Eluc.da,elUr,Undirected,1
+Kaaben,Sigurd,Undirected,1
+Jngeborg,Sigurd,Undirected,1
+Adam,Gud,Undirected,1
+Gud,Sigurd,Undirected,6
+Eva,Gud,Undirected,1
+Eva,Eva Adams,Undirected,1
+Dn,Sigurd,Undirected,1
+Adam,Ingeborg,Undirected,1
+Ingeborg Holmstensdatter,Sigurd,Undirected,1
+Aline,Sigurd,Undirected,1
+Aline,Ingeborg,Undirected,1
+Sigurd,liam,Undirected,2
+Pater Johan,Træl,Undirected,1
+J,Sigurd,Undirected,1
+Asbjørn,lian,Undirected,1
+Gubben,Sigurd,Undirected,6
+Ingeborg,Lise,Undirected,1
+Kristjern,Lise,Undirected,1
+Ingeborg Golmstensdatter,Kristjern,Undirected,1
+Ingeborg Golmstensdatter,Sigurd,Undirected,1
+Kris tjern,Sigurd,Undirected,1
+Kris tjern,liam,Undirected,1
+Karen,Sigurd,Undirected,6
+Karen,k,Undirected,2
+Gubben,Karen,Undirected,1
+Gubben,Væggerløse,Undirected,1
+Ingeborg,Væggerløse,Undirected,1
+Ingeborg,hunda,Undirected,2
+Holmsten,lian,Undirected,1
+Holmsten,Kristjern,Undirected,1
+Kristjern,Sigurd,Undirected,4
+Bent,Holmsten Kristjernsøns,Undirected,1
+Bent,livor Gunild,Undirected,1
+Bent,taus,Undirected,1
+Gunild,taus,Undirected,1
+Gunild“,Holmsten Kristjernson,Undirected,1
+Bent,Gunild“,Undirected,1
+Bent paany,Gunild,Undirected,1
+Gunild,Moder,Undirected,1
+Moder,liar,Undirected,1
+Bent,liun,Undirected,1
+Sigurd,livis,Undirected,1
+Kim,Sigurd,Undirected,1
+Bent,Sigurd,Undirected,10
+Gorm,liam,Undirected,1
+Bent,liam,Undirected,1
+Sigurd,Svend,Undirected,3
+Bent,Svend,Undirected,3
+Bent,Husbond,Undirected,2
+Gorm,Husbond,Undirected,1
+Asbjørn Snare,Sigurd,Undirected,1
+Arilds,Sigurd,Undirected,1
+Gunild,Sigurd,Undirected,12
+Gumme,Ubbe Finsøn,Undirected,2
+Gumme,Hirden,Undirected,1
+Bent,Hirden,Undirected,1
+Gumme,Sigurd,Undirected,1
+Holmsten Kristjernsøns,Ubbe,Undirected,1
+Aare,Ingeborg,Undirected,1
+Gubben,Ubbe,Undirected,1
+Ingeborg,Thorestad,Undirected,1
+Gud,Thorestad,Undirected,1
+Ingeborg,Karen,Undirected,5
+Ingeborg,Ubbe Finsøn,Undirected,5
+Broder Ubbe,Gumme,Undirected,1
+Broder,Gumme,Undirected,1
+Ingeborg Holmstensdatter,Ubbe Finsøn,Undirected,1
+Aarie,Sigurd,Undirected,1
+Ingeborg,Kristjern Kampen,Undirected,1
+Kristjern Kampen,Sigurd,Undirected,1
+Ingeborg,Karen Kristjernsdatter,Undirected,1
+Karen,Rok,Undirected,1
+Ingeborg,Rok,Undirected,1
+Sigurd,Ubbe,Undirected,3
+Finsøn,Ubbe,Undirected,2
+Finsøn,Ingeborg,Undirected,1
+Ubbe,Ungmø,Undirected,1
+Ubbe Finsøn,Ungmø,Undirected,1
+Farsøster,Karen,Undirected,1
+Karen,Ubbe Finsøn,Undirected,1
+Sigurd,Ubbe Finsøn,Undirected,1
+Sigurd,omUbbes,Undirected,1
+Ingeborg,omUbbes,Undirected,1
+Signild,Ubbe Finsøn,Undirected,1
+Ingeborg Holmstensdatter,Kristjern,Undirected,1
+Ubbe,Ubbe Finsøn,Undirected,1
+Gud,grant,Undirected,1
+Gunild,Ubbe,Undirected,3
+Gunild,Ubbe Finsøn,Undirected,1
+Gunild,Kong Valdemar,Undirected,1
+Gunild,lian,Undirected,2
+Ubbe,lian,Undirected,1
+Solbjærg,Ubbe,Undirected,1
+Gunild,Plun,Undirected,1
+Plun,Sigurd,Undirected,1
+Bent,Ubbe,Undirected,1
+Gunild,Ingeborg,Undirected,3
+Allenfals,Sigurd,Undirected,1
+Ingeborg,Jngeborg,Undirected,1
+Møers,Sigurd,Undirected,1
+Axel,Kong Valdemar,Undirected,1
+Axel,Buris,Undirected,1
+Buris,Henrik Skatelaar,Undirected,1
+Henrik Skatelaar,Knud Lavard,Undirected,1
+Absalon,Knud Lavard,Undirected,1
+Absalon,Asbjørn,Undirected,1
+Asbjørn,Sune Ebbesøn,Undirected,2
+Asbjørn,Gud,Undirected,1
+Frej,Pater Johannes liid,Undirected,1
+Jungherre Burris,Sigurd,Undirected,1
+Asbjørn Snare,Jungherre Burris,Undirected,1
+Asbjørn Snare,Sune Ebbesøn,Undirected,2
+Absalon,Sune Ebbesøn,Undirected,1
+Absalon,Sigurd,Undirected,1
+Gubben,Gud,Undirected,1
+Alen Ubbe,Ubbe,Undirected,1
+Husbond,Klemsel,Undirected,1
+Ellen Svensdatter,lian,Undirected,1
+Sigurd,kjær,Undirected,1
+Astrid,Erik Nielsen,Undirected,2
+Astrid,Ubbe,Undirected,3
+Svantevit,Svantevitts,Undirected,1
+Absalon,Svantevit,Undirected,2
+Absalon,Saxe,Undirected,1
+Absalon,Staniz,Undirected,1
+Gudens,Svantevit,Undirected,1
+Guden,Gudens,Undirected,1
+Asbjørn,Sune,Undirected,1
+Barth,Gud,Undirected,1
+Bronce,grant,Undirected,1
+Granza,Kristjernsøn,Undirected,1
+Bent,Kong Valdemar,Undirected,1
+Absalon,Kong Valdemar,Undirected,1
+Absalon,Bent,Undirected,1
+Ingeborg,Ingeborg Holmsten,Undirected,1
+Johan,Pater,Undirected,1
+Ingeborg,Johan,Undirected,1
+Erik Nielsøn,Ingeborg,Undirected,1
+Astrid,Gud,Undirected,1
+Erik,Erik Nielsøn,Undirected,1
+Erik,Ubbe,Undirected,1
+Erik,Pater Johan,Undirected,1
+Lbbe Finsøns,Pater Johan,Undirected,1
+Astrid,Kristjern,Undirected,1
+Holmsten,Ubbe,Undirected,1
+Karle,Signil,Undirected,1
+Erik Nielsøn,Signil,Undirected,1
+Erik Nielsøn,Svend,Undirected,1
+Mø,Svend,Undirected,1
+Gud,Mø,Undirected,1
+Asbjørn,Sven,Undirected,1
+Absalon Asgersøn,Erkebisp Eskils,Undirected,1
+Absalon Asgersøn,Flaaden,Undirected,1
+Erik,Sigurd,Undirected,2
+Erik Nielsen,Sigurd,Undirected,2
+Erik Nielsen,Signil,Undirected,1
+Holmsten Kristjernson,Signil,Undirected,1
+Holmsten,Ubbe Finsøn,Undirected,1
+Arkon,Svantevit,Undirected,1
+Absalon,Kareuz,Undirected,1
+Gunild,Kareuz,Undirected,1
+Gud,Gunild,Undirected,2
+.Gunild,Bent,Undirected,1
+Arne,Judas,Undirected,1
+Judas,lian,Undirected,1
+Gud,Peter,Undirected,1
+Bent,Felden,Undirected,1
+Bent,Lykke,Undirected,1
+Gunild,Lykke,Undirected,1
+Erik Nielsen,Hirdmand,Undirected,1
+Hirdmand,Sigurd,Undirected,1
+Sigurd,Svantevit,Undirected,1
+Ubbe,erThingfærd,Undirected,1
+Erik Nielsen,Ubbe,Undirected,1
+Sigurd,aarie,Undirected,1
+Astrid,Thorestad,Undirected,1
+Astrid,Ubbe Finsøn,Undirected,1
+Erik Nielsøn,Ubbe Finsøn,Undirected,1
+Erik Nielsøn,Sigurd Eriksøn,Undirected,1
+Finsøn,Gudagersaa,Undirected,1
+Gudagersaa,Sigurd,Undirected,1
+Ingeborg,aarie Morgen,Undirected,1
+Husbond,Ubbe,Undirected,1
+Ellen S,Gud,Undirected,1
+Gunild,Husbond,Undirected,1
+Bent gilc,Ingeborg,Undirected,1
+Ingeborg,St. Hans,Undirected,1
+Eva,Ingeborg,Undirected,1
+Bent Skjøde,Gunild,Undirected,1
+Dukjære,Sigurd,Undirected,1

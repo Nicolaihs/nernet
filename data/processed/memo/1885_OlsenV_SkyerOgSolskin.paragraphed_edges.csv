@@ -1,0 +1,215 @@
+source,target,type,weight
+Daniel,Jon,Undirected,4
+Daniel,Hans Jensen,Undirected,5
+Hans Jensen,hans gård,Undirected,1
+Jensen,hr. Jensen,Undirected,1
+Hans Jensen,hr. Jensen,Undirected,1
+Hans Jensen,bedstemo,Undirected,2
+Hans Jensen,Jon,Undirected,10
+Jon,Povl,Undirected,4
+Marie,Povl,Undirected,8
+Frits,Jon,Undirected,11
+Jon,itte,Undirected,2
+Gud,Jon,Undirected,5
+Gud,Povl,Undirected,3
+Hans Jensen,Povl,Undirected,4
+Per Johan,Povl,Undirected,2
+Marie,Per Johan,Undirected,1
+Povl,itte,Undirected,1
+Gud,Marie,Undirected,1
+Poul,Pouls,Undirected,1
+Marie,Poul,Undirected,1
+Hellig-Lars,Povl,Undirected,2
+Lars,Povl,Undirected,3
+Gud,Lars,Undirected,1
+Gud,Jesu,Undirected,2
+Lars,Marie,Undirected,1
+Mads,Per Søren,Undirected,12
+Frits,Mads,Undirected,11
+Jon,Mads,Undirected,7
+Jon,Per Søren,Undirected,4
+Frits,Ingemanns,Undirected,1
+Ingemanns,Mads,Undirected,1
+Frits,Gert,Undirected,1
+Frits,Per Søren,Undirected,4
+Per Søren,pette,Undirected,1
+Per Søren,pettte,Undirected,1
+Jon,Julie,Undirected,31
+Ernst Hejse,Julie,Undirected,3
+Julie,r,Undirected,1
+Kukkuk,kukkuk,Undirected,1
+Jon,kukkuk,Undirected,1
+Fritses,Jon,Undirected,2
+Daniel,Julie,Undirected,4
+Hans Jensen,Julie,Undirected,2
+Jon,karl,Undirected,4
+itte,terens,Undirected,1
+Line,itte,Undirected,3
+Line,Peder,Undirected,1
+Jon,Peder Dragon,Undirected,3
+Dragon,Peder,Undirected,1
+Dragon,Jon,Undirected,1
+Peder Dragon,marer,Undirected,2
+Jon,Karen,Undirected,4
+Hans Jensen,Klavs,Undirected,4
+Klavses,Peder Dragon,Undirected,2
+Klavs,karlen,Undirected,5
+Klavs,Peder Dragon,Undirected,3
+Peder Dragon,Sidsnævnte,Undirected,1
+Klavs,Sidsnævnte,Undirected,1
+Peder,karlen,Undirected,1
+itte,karlen,Undirected,1
+Hans Jensen,karlen,Undirected,2
+Klavs,Per Johan,Undirected,5
+itte,rejded,Undirected,1
+ded,rejded,Undirected,1
+ded,itte,Undirected,2
+Klavs,ded,Undirected,1
+Klavs,Povl,Undirected,2
+Jensen,Povl,Undirected,1
+Jensen,Marie,Undirected,1
+Gud,vos,Undirected,3
+Gud,itte,Undirected,2
+Daniel Jensen,Jon,Undirected,3
+Per Søren,itte,Undirected,2
+Frits Petersen,Mads,Undirected,1
+Bodil,Frits Petersen,Undirected,1
+Bodil,Frits,Undirected,1
+Frits,Julie,Undirected,1
+Frits,t,Undirected,1
+Jon,t,Undirected,1
+Frits,møller Eriksen,Undirected,1
+Frits,s,Undirected,2
+Peder Dragon,møller,Undirected,1
+Peder,møller,Undirected,1
+Jon,Per Johan,Undirected,8
+Per Johan,ed,Undirected,1
+Jon,Klavs,Undirected,7
+Jon,bregner,Undirected,1
+Klavs,bregner,Undirected,1
+Klavs,s,Undirected,1
+Jon,s,Undirected,1
+Jon,Marie,Undirected,3
+Povl,karl,Undirected,1
+Hans,karl,Undirected,1
+Hans,Jon,Undirected,1
+Hellig-Lars,Marie,Undirected,1
+Hellig-Lars,Lars«,Undirected,1
+Jon,Lars«,Undirected,1
+Bernhards,Jon,Undirected,2
+Jon,påny,Undirected,1
+David,Gud,Undirected,2
+Jesu,Jon,Undirected,3
+Marie Hagman,Ravn,Undirected,1
+,Jon,Undirected,1
+Frits,Hans Jensen,Undirected,5
+Bistrup,Hans Jensen,Undirected,1
+Bistrup,Frits,Undirected,1
+Frits,Rasmus Pæsen,Undirected,1
+Frederik,Frits,Undirected,1
+Madses,Per Søren,Undirected,1
+Mads,dave,Undirected,1
+Jon,pette,Undirected,1
+Hans Jensen,Peder Dragon,Undirected,8
+Risby,somme,Undirected,1
+Hans Jensen,somme,Undirected,1
+Ole,Peder Dragon,Undirected,1
+Ole,Peder,Undirected,1
+Peder,maj,Undirected,2
+Peder,emajet,Undirected,3
+Hans Jensen,vos,Undirected,1
+Hans Jensen,tom,Undirected,1
+Peder Dragon,tom,Undirected,1
+Arups,Peder Dragon,Undirected,1
+Arups,Hans Jensen,Undirected,1
+Frits Pedersen,Hans Jensen,Undirected,1
+Bue,pastor Risbys,Undirected,1
+c A,pastor Risbys,Undirected,1
+Bue,Jon,Undirected,6
+Jon,pastor Bues,Undirected,1
+Eva,Jon,Undirected,29
+Eva,påny,Undirected,2
+Eva,karl,Undirected,1
+Knud hjulmand,itte,Undirected,1
+Ernst Hejse,Eva,Undirected,1
+Ingemans,frøken Krog,Undirected,1
+Jon,Krog,Undirected,5
+Jeppe,Jon,Undirected,1
+Frøken Krog,Jon,Undirected,1
+Eva,Frøken Krog,Undirected,1
+Eva,gulo,Undirected,2
+Eva,Julie,Undirected,8
+Eva,isinde,Undirected,1
+Ernst Hejse,isinde,Undirected,1
+Bue,Eva,Undirected,3
+Krog,frøken Krog,Undirected,1
+Eva,frøken Krog,Undirected,1
+Bue,frøken Krog,Undirected,1
+Jon,hans,Undirected,1
+A,Eva,Undirected,1
+Klavs,Sion,Undirected,2
+Peder Dragon,Sion,Undirected,1
+Ane Klavses,Peder Dragon,Undirected,1
+Ane Klavses,Peder,Undirected,1
+Peder Dragon,Per Johan,Undirected,3
+Moses,Per Johan,Undirected,1
+Aron,Moses,Undirected,1
+Aron,Peder Dragon,Undirected,1
+Peder,itte,Undirected,1
+Hans Jensen,åndens,Undirected,1
+Daniel Jensen,Hans Jensen,Undirected,2
+Jens Sørensen,Risby,Undirected,1
+Gud,Jens Sørensen,Undirected,1
+Jens Sørensen,Jesu,Undirected,1
+Else,Per Søren,Undirected,3
+Else,Peder Dragon,Undirected,2
+Peder Dragon,Per Søren,Undirected,2
+Mads,Peder Dragon,Undirected,1
+Lisbet,Peder Dragon,Undirected,1
+Peder,Peder Dragon,Undirected,1
+Else,pette,Undirected,1
+Per,dæ,Undirected,1
+Else,itte,Undirected,2
+Else,Per,Undirected,1
+Per,Søren,Undirected,1
+Søren,itte,Undirected,1
+Ernst Hejse,Jon,Undirected,1
+Ernst Hejse,Hejse,Undirected,1
+Hejse,Jon,Undirected,1
+Jesu,Kristus,Undirected,1
+Jensen,Jon,Undirected,8
+Jensen,Risby,Undirected,1
+Jon,Risby,Undirected,1
+Jon,kapellan Jensen,Undirected,3
+Bue,kapellan Jensen,Undirected,1
+Bue,Julie,Undirected,4
+Jensen,Julie,Undirected,7
+Julie,Krog,Undirected,3
+Bue,Jensen,Undirected,3
+Julie,frøken Krog,Undirected,2
+Jensen,frøken Krog,Undirected,1
+Jon,ane,Undirected,1
+ane,frøken Krog,Undirected,1
+Jon,hr. Jensen,Undirected,2
+Jensen,kapellan Jensen,Undirected,1
+Jon,frøken Krog,Undirected,1
+Hans Jensen,møller Eriksen,Undirected,2
+Eriksen,Hans Jensen,Undirected,3
+Hans Jensen,Petersen,Undirected,4
+Else,Karen,Undirected,1
+Hans Jensen,Vips,Undirected,1
+Eriksen,Frits Petersen,Undirected,1
+Frits Petersen,o,Undirected,1
+Hans Jensen,Møller Eriksen,Undirected,1
+Petersen,nik,Undirected,2
+Eriksen,Petersen,Undirected,1
+Eva,arne,Undirected,1
+Bjømsons,Julie,Undirected,1
+Jon,karle,Undirected,1
+karle,sons,Undirected,1
+Karen,sons,Undirected,1
+Gud,Karen,Undirected,1
+Julie,mo,Undirected,1
+Gud,jere,Undirected,1
+Jon,jere,Undirected,1
+Julie,midje,Undirected,1

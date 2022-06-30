@@ -1,0 +1,868 @@
+source,target,timestamp
+Helga,Margaretha,3
+Margaretha,Margarethalt,3
+Helga,Marys,6
+Helga,Tonart,7
+Faust,Tonart,7
+Faust,Marys,7
+Alargaretha,^Fausts,8
+Marys,^Fausts,8
+Helga,Mary,9
+Helga,Mary,11
+Helga,Mary,11
+Helga,Maryaretha,11
+Helga,Mary,12
+Helga,Hr. Hansen,16
+Hr. Hansen,Mary,16
+Mary,Stephen Hellers,16
+Beethovens,Stephen Hellers,16
+Helga,Mary,19
+Helga,Lunds,19
+Lunds,Mary,19
+Helga,Mary,19
+Helga,Mary,27
+Helga,Mary,27
+Brun,Lund,28
+Brun,Jette,28
+Mary,Thyra Dannebod,31
+Dronning Dagmar,Thyra Dannebod,31
+Dronning Dagmar,Valdemar den Store,31
+Helga,Valdemar den Store,31
+Mary,Valdemar,32
+Helga,Valdemar,32
+Helga,Valdemar,32
+Mary,Valdemar,34
+Mary,Thryms,34
+Mary,Saar,36
+Mary,Saar,36
+Digi,Helga,41
+Mary,lille Helga,43
+Helga,Mary,43
+Helga,Mary,43
+Helga,Mary,44
+Grimms,Helga,44
+Grimms,Mary,44
+Carl,Mary,50
+Carl,Mary,50
+Cousine,Mary,50
+Carll,Mary,54
+Faust*\,Mary,55
+Candidat Larsen,Consul Petersens,58
+Hr. Sørensen,Michael Wiehe,59
+Carl,Mary,60
+Carl,deril,73
+Helga,deril,73
+Mary,Moder,78
+Jeronimus,Mary,78
+Helga,Mary,79
+Carl Bagge,Dr. Bagges,80
+Dr. Bagges,Jens Bagge,80
+Enl,Gud,81
+Bagges,Carl,82
+Bagge,Carl,84
+Carl,ilive,89
+Bagge,Carl,90
+Bagge,Carl,102
+Bagge,Frøken Rasmussen,105
+Carl,Frøken Rasmussen,108
+Carl,Frøken Rasmussen,108
+Carl,Krads,109
+Bagge,Carl,110
+Bagge,Carl,110
+Bagge,Mutter,111
+Bagge,Carls philosophiske,111
+Carl,Faust,113
+Bagge,Carl,113
+Carll,Jens,114
+Carl,Lund,115
+Carl,Marry,116
+Carl,tillive,116
+Carl,tillive,116
+Carl,Mary,116
+Helga,Mary,117
+Carl,Mary,118
+Carl,Mary,118
+Christina Nilsson,Mary,121
+Margaretha,Mary,121
+Christina Nilsson,Margaretha,121
+Carl,Mary,123
+Carl,Mary,124
+Jette,Mary,125
+Carl,Mary,126
+Carl,Helga,126
+Christensen,Jette,127
+Jette,Mary,128
+Christensen,Mary,129
+Christensen,Mary,129
+Jette,Mary,130
+Carl,Lund,132
+Lund,Mary,132
+Carl,Christensen,133
+Carl,Mary,137
+Helga,Mary,138
+Helga,Mary,138
+Helga,Jette,140
+Graad,Mary,148
+Helga,Mary,148
+Helga,Mary,151
+Mary,Prof. Christensen,152
+Christensen,Mary,153
+Carl,Mary,155
+Jette,Mary,156
+Helga,Jette,156
+Helga,Lund,156
+Helga,Lund,160
+Helga,Mary,160
+Helga,Mary,162
+Helga,Mary,162
+Bjørnstjerne Bjørnsons,Mary,164
+Helga,Mary,166
+Lund,Mary,167
+Helga,Mary,167
+Jette,Mary,169
+Helga,Mary,172
+Helga,Mary,172
+Mary,bille,173
+Lund,Mary,174
+Helga,Lund,174
+Helga,Mary,175
+Gud,Mary,175
+Helga,Mary,178
+Jette,Mary,178
+Jette,Mary,178
+Helga,Mary,178
+Helga,Mary,181
+Don Pedro di Joxullos,Mary,183
+Helga,Mary,183
+Helga,Mary,183
+Helga,Mary,186
+Helga,Mary,190
+Helga,Mary,196
+Helga,Mary,196
+Jette,Mary,198
+Helga,Mary,198
+Helga,Mary,198
+Helga,Mary,199
+Helga,Mary,200
+Bagge,Mary,200
+Bagge,Mutter,200
+Døttre,Lund,201
+Døttre,Mary strax,201
+Helga,Mary strax,201
+Lund,Mary,204
+Lund,Professoi Christensen,204
+Jette,Professoi Christensen,204
+Helga,Jette,204
+Carl,Helga,206
+Carl,Mary,206
+Carl,Mary,207
+Mary,Maryl,209
+Carl,Mary,210
+Carl,Mary,211
+Carl,Mary,211
+Mary,Mørk,212
+Mørk,taus,212
+Margaretha,Mary,213
+Faust,Margaretha,213
+Christensen,Mary,214
+Christensen,Margaretha,214
+Elisabeths,Margaretha,214
+Dich,Elisabeth,216
+Dich,Mieder,216
+Carl,Mary,226
+Hr. Johansen,Sophie Madsen,228
+Lund,Mary,229
+Mary,Pepita,229
+Mary,Sands,230
+Lund,Sands,230
+Bagge,Lund,230
+Dr. Bagges,Mary,231
+Helga,Jette,233
+Helga,Jette,233
+Bagge,Mary,235
+Mary,taus,239
+Bagge,taus,239
+Fader,Mary,248
+Lund,Mary,249
+Lund,Mary,249
+Jette,Mary,250
+Jette,Mary,251
+Frøken Rasmussen,Mary,251
+Frøken Rasmussen,Noahs,251
+Helga,Mary,258
+Edith,Mr.,264
+. Howe,Mr.,264
+Edith,Gud,267
+Campbell,Mrs.,269
+Campbell,Gud,269
+Edith,Gud,272
+Edith,Gud,273
+Gud,Miss Edith,273
+Gud,Miss Edith,273
+Edith,Gud,273
+Edith,Gud,278
+Edith Campbell,Mr. Howe,284
+Admiral,Edith Campbell,284
+Edith,Mr. Howe,285
+Edith,Mrs. Campbell,285
+Mr. Howe,Mrs. Campbell,285
+Campbell,Mrs.,286
+Campbell,Mrs. Howe,286
+Edith,Mrs. Howe,286
+Mr.,Mrs. Howe,296
+Edith,Mrs. Howe,296
+Mr. Howe,Mrs.,297
+Campbell,Mrs.,297
+Campbell,Edith,297
+Edith,Mr. Heinrich,298
+Mr. Heinrich,Mr. Howe,298
+Edith,Mr. Howe,298
+Hal,hal,303
+Miss Harel,hal,303
+Adieu,Carter,304
+Adieu,Mr. Lewis,304
+Adieu,Mr. Lewis,304
+Adieu,adieul,304
+Edith,Heinrich,306
+Edith,Mr. Howe,306
+Edith,Mr. Howe,308
+Edith,Mr. Heinrich,309
+Mr. Heinrich,Mr. Howe,309
+Frøken,Mr. Heinrich,311
+Edith,Howe,313
+Edith,Howe,313
+Edith,Heinrich,313
+Edith,Mr. Heinrich 1,315
+Edith,Mr. Howe,322
+Edith,Mr. Heinrich,322
+Heinrich,Mr. Howe,323
+Edith,Heinrich,323
+Edith,Mr. Howe,323
+Miss Campbell,Mr. Howe,324
+Heinrich,Howe,325
+Edith,Mr. Howe,326
+Edith,Mr. Heinrich,328
+Edith,Frank Heinrich,329
+Edith,Mr. Howe,330
+Franks,Mr. Howe,330
+Frank,Franks,330
+Frank,Mr.,330
+Mr.,Mrs. Howe,330
+Edith,Mrs. Howe,330
+Edith,Frank,330
+Edith,Frank,330
+Edith,Frank,331
+Edith,Howe,331
+Edith,Frank,332
+Frank,Howe,334
+Frank,Howe,335
+Edith,Miss Campbell,336
+Edith,Mr. Heinrich,338
+Campbell,Frank,340
+Campbell,Mr. Howe,340
+Howe,Mr. Heinrich,342
+Howe,Mr. Heinrich,342
+Mr. Heinrich,hanl,342
+Howe,hanl,342
+Edith,Mrs. Howe,344
+Mr. Howe,Mrs. Howe,344
+Howe,Mrs.,345
+Edith,Mrs. Howe,348
+Mr. Howe,Mrs. Howe,348
+Edith,Frank,350
+Edith,Frank,350
+Edith,Mrs. Howe,352
+Edith,Mrs. Morley,359
+Edith,Mrs. Morley,360
+Edith,Raphaels,362
+Edith,Mrs.,362
+Edith,Mrs.,362
+Edith,Mr. Howe,362
+Edith,Mr. Howe,362
+Morley,Mrs.,364
+Carl den,Mary,365
+Bastian,Tyndall,370
+. Morley,Edith,371
+Edith,Mr. Howe,371
+Howe,Mr. Howe,371
+Miss Campbell,Mrs.,372
+Morley,Mrs.,372
+Edith,Mr. Howe,375
+Edith,Gud,375
+Morley,Mrs.,376
+Madam Jones,Mrs.,378
+Morley,Mrs.,378
+Morley,Mr. Morley,378
+Edith,Howe,379
+Mr.,Mrs. Morley,380
+Mr.,Mrs. Howe,380
+Morley,Mrs.,381
+Edith,Morley,381
+Gud,J^g,382
+Edith,Howe,383
+Frank Heinrich,Mrs. Morley,384
+Miss Campbell,Mrs. Morley,384
+Frank,Miss Campbell,384
+. Morley,Frank,384
+. Morley,Miss Campbell,384
+Frank,Miss Campbell,384
+Frank,Mrs. Morley,384
+Doktor Coles,Mr Heinrich,385
+Morley,Mrs.,386
+Frank,Morley,386
+Coles,Mrs. Morley,388
+Coles,Mrs.,388
+Morley,Mrs.,388
+Edith,Mrs. Morley,389
+Mary,bets,395
+Frøken Lund,Mary,401
+Gud,Madam Mortensens,405
+Gud,Mary,405
+Frøken Rasmussen,Gud,411
+Frøken Lund,IO,417
+Johan,Mary,422
+Gud,Quilp,423
+Frøken Rasmussen,Mary,432
+Johan,Mrs. Field,435
+Mary,Mrs. Field,435
+Frøken Rasmussen,Mary,436
+Mary,lee,436
+Howe,Mrs.,438
+Howe,Tulls,438
+Mary,Mrs.,439
+Howe,Mrs.,439
+Howe,Mary,439
+Mary,Mr. Howe,441
+Mr. Howe,St. Bernhards,441
+Mary,St. Bernhards,441
+Mary,Princel«,441
+Mr. Howe,Princel«,441
+Mary,ning,444
+Mary,Mr. Howe,445
+Lund,Mary,446
+Mary,Mr. Howe,447
+Mr. Howe,a,449
+Mrs. Howe,a,449
+Mr. Howe,Mrs. Howe,449
+Mary,Mr. Howe,450
+Mr. Howe,Mrs. Howe,452
+. Howe,Mary,453
+Mrs.,Mrs. Howe,454
+Howe,Mrs.,454
+Mary,Prince,455
+Mr.,Prince,455
+Mr.,Mrs. Howe,455
+Frøken Lund,Mary,459
+Mary,Mr. Howe,459
+Lunch,Mr. Howe,459
+Lunch,Mary,459
+Mr.,Mrs.,462
+Howe,Mrs.,462
+Howe,Mary,462
+Mary,Raphael,462
+Raphael,Titian,462
+Michel Angelo,Titian,462
+Howe,Mrs.,463
+Mary,Mr. Howe,464
+Howe,Mrs.,465
+Howe,Mr. Howe,465
+Lund,Mr. Howe,465
+Mary,Mr. Heinrich,468
+. Howe,Mr. Howe,469
+. Howe,Heinrich,469
+Cousine,Heinrich,469
+Cousine,Mandl,469
+Mr. Howe,Mrs. Howe,474
+Miss Lundi,Moder,477
+Mary,Mr. Howe,479
+Helga,Roes,480
+Mrs. Howe,Roes,480
+Mary,Mrs. Howe,485
+Mary,Mrs.,486
+Howe,Mrs.,486
+Howe,Mrs.,486
+Howe,Mrs.,486
+Heinrich,Howe,486
+Carstensen,Mr. Howe,489
+Gud,Mary,492
+Bach,Beethoven,497
+Howe,Mrs. Howe,503
+Howe,Mrs.,503
+Howe,Mrs.,503
+Howe,Mr. Howe,503
+Mary,Mr. Howe,504
+Christensen,Heinrich,508
+Howe,Mrs.,509
+Howe,Mary,509
+Kong Salomons,Mary,509
+Heinrich,Mary,511
+Howe,Mary,511
+Rezias,Rosinas,514
+Rosinas,tina,514
+Annas,Mary,516
+Annas,Mrs.,516
+Howe,Mrs.,516
+Heinrich,Howe,516
+Annas,Margaretha,521
+Annas,Mrs. Howe,521
+Heinrich,Mrs. Howe,521
+Christina Nilsson,Margaretha,525
+Miss Lund,Mrs.,526
+Burnes,Mrs.,526
+Heinrich,Mary,530
+Beethoven,Leonoras,533
+Fidelio,Leonoras,533
+Alice,Vilhelmine,534
+Alice,Mrs.,534
+Howe,Mrs.,534
+Grisi,Tietjens,535
+Burnes,Mrs.,538
+Heinrich,Mary,539
+. Howe,Mary,542
+Consul min Cousine,j,544
+Frank,j,544
+Mary,Mrs. Howe,547
+Mr. Howe,Mrs. Burnes,549
+Heinrich,Mr. Howe,549
+Miss Lund,Mr. Howe,551
+Miss Burnes,Mr. Howe,551
+Mary,Mr. Howe,553
+Liv,Mary,554
+Mary,Mary strax,554
+Alexandra,Mary strax,554
+Alexandra,Nelson,554
+Mr. Howe,Nelson,554
+Giottos,Johannes,556
+Johannes,f,556
+Giotto,f,556
+Angelico,Filippo Lippi,557
+Angelico,Miss Mary,558
+Angelico,Bartolomeo,558
+Angelieo,Bartolomeo,558
+Angelieo,Leonardo da,558
+Leonardo da,Michel Angelo,558
+Michel Angelo,Raphael,558
+Raphael,Titian,558
+Bellini,Mary,559
+Mary,Mr. Howe,559
+Leonardos,Michel Angelo,561
+Mary,Michel Angelo,561
+Mary,Raphael,561
+Raphael,Titian,561
+Carl,Mary,568
+Mary,Shakespeare,569
+Carl,Howe,570
+Howe,Mr. Howe,572
+Mr. Howe,Mrs.,572
+Howe,Mrs.,572
+Howe,Mary,572
+Heinrich,Mary,572
+Heinrich,Mrs.,572
+b,l.,578
+Johan,Johan Petersen,582
+Johan Petersen,Petersen,582
+Johan,b,584
+JeS,belle,588
+. Howe,Howe,594
+Frøken Rasmussen,Johan,596
+Edith,Frank,597
+Frank,Mary,597
+Morley,Mrs.,599
+Edith,Morley,599
+. Howe,Edith,599
+. Howe,Edith,599
+Edith,Frank,599
+Frank,Mrs. Morley,600
+Frank,Mrs. Howe,600
+Frank,Mr. Howe,601
+Frank,Mary,601
+Mary,Mr. Howe,601
+Miss Lund,Mr. Howe,601
+Howe,Mrs.,603
+Heinrich,Howe,603
+Heinrich,Mary,603
+Jarretl,Mary,603
+Mr. Hepworth,Mr. Stark,610
+Mr. Stark,vipsi,610
+Jarret,ff,612
+Jarret,Mary,614
+Mary,hal,614
+Miss Smyth,hal,614
+Mary,Papurus,620
+Jarret,Mary,621
+. Howe,b,629
+Mary,Mr. Howe,639
+Mary,Mr. Howe,641
+Beethoven,Schumanns,647
+Jarret,Miss Lundi Da capo,648
+Beethoven,Raphael,650
+Beethoven,Shakespeare,650
+Napoleon,Shakespeare,650
+Howe,Mrs.,651
+Howe,Mary,651
+Jarret,Mary,651
+Frøken Lund,Mrs. Howe,652
+Mary,Prince,663
+Jarret,Mr. Howe,666
+Mary,Mrs.,673
+Hove,Mrs.,673
+Hove,Mrs.,673
+Howe,Mrs.,673
+Jarret,Mr. Howe,674
+Mary,j,675
+Gud,Mary,677
+Christiane,Juliane,678
+Christiane,Juliane,678
+Christiane,Juliane,678
+Moses,Mr. Howe,679
+Gud,Philosoph,684
+Mary,sel,685
+Dallinger,Tyndall,690
+Dallinger,Howe,690
+Philosoph,Xenophanes,692
+Mary,j,696
+Howe,j,696
+Howe,j,696
+a,b,697
+Gud,b,697
+Howe,Jarret,700
+Howe,Mary,700
+Dallinger,Tyndall,705
+Bastian,Dallinger,705
+Bastian,J,705
+Bastian,J,705
+Jarret,Marry,706
+Howe,Marry,706
+Howel,Mary,708
+Mary,Mrs. Howe,710
+Mrs. Howe,Prince,710
+dandse,lee,711
+Mr.,dandse,711
+. Howe,Mr.,711
+. Howe,Mary,711
+Clara Schumann,Rubinstein,712
+Christina Nilsson,Clara Schumann,712
+Christina Nilsson,Roes,712
+Heinrich,Roes,712
+Heinrich,Mrs. Burnes,712
+. Howe,Mrs. Burnes,712
+a,lings,714
+Mrs.,a,714
+Howe,Mrs.,714
+Mary,Mrs.,719
+Howe,Mrs.,719
+Howe,Mary,719
+Howe,Mrs.,721
+Howe,Mary,721
+Mary,itaan,721
+Mary,Mr. Howe,722
+Heinrich,Mr. Howe,722
+Howe,Mary,724
+Howe,Mary,725
+Howe,Mary,725
+Mary,Mrs. Howe,728
+Howe,Mrs. Howe,728
+Howe,Mary,728
+Mary,Mrs.,728
+Brown,Mrs.,728
+Brown,Mary,728
+Brown,Mr. Howe,731
+Mary,Mr. Howe,731
+Mary,Mr. Howe,731
+Mary,Mr. Howe,732
+. Howe,Arthur,734
+. Howe,Mr. Howe,734
+Mary,Tycho Brahes,735
+Tycho Brahes,a,735
+a,j,735
+Mrs.,j,735
+Howe,Mrs.,735
+Howe,Mrs.,736
+Howe,Mrs.,736
+Howe,Mrs.,736
+Edith,Frank,738
+Digi,Frank,738
+Digi,Edith,738
+Arthur,Mrs. Morley,739
+Edith,Mrs. Morley,739
+Edith,Frank,739
+. Howe,Edith,742
+Frank,Mrs.,743
+Morley,Mrs.,743
+Mary,Mr. H Howe,744
+Mary,Mr. H Howe,744
+Mary,Mr. Howe,744
+Howe,lyo,747
+Tycho Brahes,lyo,747
+Howe,Tycho Brahes,747
+Mary,Steen,748
+Heinrich,Mary,750
+Adelina Patti,Heinrich,750
+Adelina Patti,Rosina,750
+Mary,Rosina,750
+Heinrich,Mary,750
+Heinrich,Mary,750
+H Haab,Mary,750
+Mary,Patti,753
+Arien,Mary,753
+J,Mrs. Howe,755
+J,d,755
+Mary,Mr. Howe,756
+d,rf,757
+Mr. Howe,d,757
+Mr. Howe,b,757
+b,d,757
+Howe,Mrs.,759
+Howe,Mr. Howe,759
+Mary,Mrs.,760
+Howe,Mrs.,760
+Howe,Mr. Howe,760
+Mary,Mr. Howe,760
+Mary,Mrs.,766
+Howe,Mrs.,766
+Howe,Mrs.,766
+Howe,Mrs.,766
+Mary,Naturers,768
+Mrs.,Naturers,768
+Howe,Mrs.,768
+Howe,Mr. Howe,768
+Mary,Mr. Howe,770
+Mary,Mr. Howe,771
+Mary,Mr. Howe,771
+Mary,Mr. Howe,773
+Mr. Howe,Mrs.,778
+Howe,Mrs.,778
+Howe,VenJa,778
+Mrs. Howe,VenJa,778
+Mrs. Howe,gbder,778
+Howe,gbder,778
+Howe,Uhr,778
+Mrs.,Uhr,778
+Howe,Mrs.,778
+Mary,Mrs.,784
+Howe,Mrs.,784
+Mary,Mr. Howe,785
+Mary,Moder,786
+Mr. Hove,Mr. Howe,788
+Howe,Mary,791
+Howe,Mary,792
+Edith,Mary,793
+Mary,Mrs.,793
+Howe,Mrs.,793
+Howe,Mary,793
+Howe,Mary,794
+Mary,Steen,795
+Frøken Lund,Steen,795
+Howe,Mary,797
+Howe,Mary,799
+Erica vagans,Howe,799
+Mary,Mr. Howe,800
+Howe,Mary,801
+Howe,Mr.,803
+Mr.,Mrs. Howe,803
+Heinrich,Mary,804
+Howe,Mary,807
+Howe,Mary,822
+Howe,Mary,823
+Howe,Mary,823
+Howe,Mary,823
+Mary,Mr. Howe,825
+Howe,Mary,827
+Howe,Mary,827
+Edith,Mary,828
+Edith,Howe,829
+Edith,Mary,829
+Edith,Mary,829
+Howe,Mary,833
+Mary,Mr. Howe,840
+Mary,Mrs. Howe,841
+Heinrich,Mary,841
+Heinrich,Mary,841
+Arthur,Mary,841
+Mary,kave,843
+. Howe,Mary,843
+. Howe,Mary,845
+. Howe,Arthur,845
+Arthur,Mary,846
+Arthur,Gud,846
+Howe,Mrs.,848
+Howe,Mary,848
+Mary,haml,849
+Howe,Mrs.,850
+Howe,Mary,850
+. Howe,Mary,852
+. Howe,Mary,852
+Edith,Mary,856
+Frøken Lundi,Mary,857
+Howe,Mrs.,860
+Mary,Mr. Howe,865
+Mary,dyb,865
+Chor,Elzas,866
+Mary,Roes,870
+Heinrich i,Roes,870
+Gounod,Mefistofeles,872
+Margaretha,Mefistofeles,872
+Margaretha,Mr. Heinrich,872
+Faust,Mary,875
+Margaretha,Mary,875
+Margaretha,Mary,875
+Faust,Margaretha stode,876
+Margaretha stode,Steen,876
+Heinrich,Steen,876
+Heinrich,c'est toi que,876
+Faust,Mary,877
+Margarethal Da capo,Mary,880
+Mary,Mr. Heinrich,881
+Heinrich,Mary,883
+Mary,Mrs. Howe,884
+Helga,Mrs. Howe,884
+Helga,Mary,884
+Helga,Mary,884
+Fader,Helga,886
+Helga,Mary,889
+Mary,lille Helga,889
+Mary,lille Helga,889
+Helga,Mary,892
+Helga,Jette,892
+Carl,Jette,892
+Bagge,Carl,892
+Bagge,Lund,892
+Helga,Mary,893
+Carl,Mary,896
+Carl,Helga,901
+Carl,Mary,901
+Jeanne d'Arc,Mary,908
+Jeanne d'Arc,Mary,908
+Howe,Mary,910
+Carl,Howe,910
+Carl,Howe,910
+Howe,haml,910
+Carl,Howe,911
+Helga,Howe,911
+Carl,Mary,912
+Carl,Mary,913
+Carl,Helga,913
+Carl,Helga,913
+Carl,Mary,914
+Howe,Mary,915
+Graad,Howe,915
+Mary,j,926
+Carl,Mary,930
+Helga,Mary,930
+Helga,Mary,931
+Helga,Mary,934
+Helga,Mary,934
+Mr.,Mrs. Howe,936
+Mary,Mrs. Howe,936
+Heinrich,Mary,937
+Howe,Mary,937
+Howe,Mr. Heinrich,937
+Howe,Mary,938
+Howe,Lunch,938
+Mary,Mrs.,939
+Howe,Mrs.,939
+Howe,Mary,939
+Mary,Mrs.,939
+Howe,Mrs.,939
+Howe,haml,939
+Mary,Mr. Howe,940
+Mary,Mrs. Howe,941
+Howe,Mary,941
+. Howe,Mary,945
+Edith,Mary,946
+Edith,Mr. Howe,946
+Heinrich,Mary,947
+Mary,Mrs. Howe,949
+Mary,Mr. Heinrich,954
+Mary,taus,955
+Mr. Heinrich,taus,955
+Atlaskes,Mr. Heinrich,955
+Atlaskes,Mary,955
+Heinrich«,Mary,955
+Christina Nilsson,Faust,956
+Christina Nilsson,Trebelli,956
+Patti,Trebelli,956
+Faust,Margaretha,957
+Margaretha,Mary,957
+Faust,Mary,957
+Faust,Martha,958
+Faust,Margaretha,958
+Heinrich,Mary,960
+Mary,Trebelli,962
+Christina Nilsson,Trebelli,962
+Mary,Mr.,963
+Mr.,Mrs. Howe,963
+Mary,Mrs. Howe,963
+Arthur,Mary,964
+Howe,Mrs.,966
+Arthur,Howe,966
+Arthur,Edith,966
+Mary,Prince,967
+Mary,Prince,967
+Howe,Mrs.,970
+Edith,Mary,971
+Edith,Mary,972
+Edith,Mary,972
+Edith,Margaretha,972
+Margaretha,Mary,972
+Edith,Mary,973
+Edith,Mary,974
+Edith,Mary,974
+Edith,Mary,977
+Edith,Mary,977
+Edith,Mary,977
+Arthur,Mary,977
+Arthur,Mary,977
+Edith,Mary,977
+Gud,Howe,980
+Gud,Howe,980
+Gud,Howe,980
+.Arthur,Gud,980
+.Arthur,Mrs. Howe,980
+Arthur,Mary,983
+Gud,Howe,989
+Howe,Mrs.,992
+Howe,Mary,992
+Mary,taus,993
+Gud,Mary,994
+Mary,Mrs. Howe,999
+Mary,Mrs. Howe,999
+Edith,Mary,1002
+. Howe,Mr.,1003
+. Howe,Edith,1003
+Edith,Mary,1003
+Mary,Mrs. Howe,1003
+Edith,Mrs. Howe,1003
+Edith,Mary,1004
+. Howe,Mr.,1005
+Edith,Mary,1006
+Edith,Mary,1006
+Edith,Howe,1006
+Edith,Howe,1006
+. Howe,Edith,1010
+. Howe,Edith,1010
+Edith,Mrs. Howe,1010
+Mary,Mrs. Howe,1010
+Edith,Mary,1010
+Gud,Mary,1019
+Edith,kMary,1020
+Arthur,Mary,1021
+Edith,Mary,1022
+Edith,Howe,1022
+Arthur,Gud,1023
+Howe,Mary,1025
+Arthur,Howe,1025
+Arthur,Edith,1025
+Edith,Helga,1026
+Helga,Mary,1027
+Anna,Mary,1032
+Elisabeth,Leonora,1033
+Elisabeth,Elza,1033
+Carl,Mary,1036
+Elisabeth,Lund,1037
+Elisabeth,Margaretha,1037
+Carl,Mary,1039
+Carl,Mary,1039
+Mary,lille Helga,1039
+Carl,Eros,1049
+Apollo,Eros,1049

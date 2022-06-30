@@ -1,0 +1,82 @@
+source,target,type,weight
+Hansen,Ole Pihl,Undirected,1
+Bang,Hansen,Undirected,11
+Hansen,Pilt,Undirected,2
+Hansen,Piltenberg,Undirected,1
+Hansen,Karl Eliassen,Undirected,1
+Kallefa,Onnesen,Undirected,2
+Hansen,Karremann,Undirected,1
+Hansen,Wolff,Undirected,18
+Karremann,Wolff,Undirected,5
+Krøyer,Wolff,Undirected,2
+Ove Hellested,Sagerberg,Undirected,1
+Hansen,Ove,Undirected,1
+Ove,Ove Hellested,Undirected,2
+Makaronien,Napoleons,Undirected,1
+Frue,Napoleons,Undirected,1
+Angnes,Frue,Undirected,1
+Angnes,Annes,Undirected,1
+Agnes,Hansen,Undirected,1
+Dideriksen vaer,Pilt,Undirected,1
+Dideriksen vaer,Hansen,Undirected,1
+Dideriksen,Hansen,Undirected,13
+Hansen,Konrad,Undirected,1
+Konrad,Sidse,Undirected,1
+Hansen,Sidse,Undirected,1
+Hansen,Karl,Undirected,1
+Dideriksen,Karl,Undirected,1
+Gud,Madam Jonassen,Undirected,1
+Freundes,Sieben,Undirected,1
+Freundes,eins,Undirected,1
+ein Becher guten Weins,eins,Undirected,1
+Hansen,Lund,Undirected,1
+Lund,Philipsen,Undirected,1
+Karl,Tonnerslev,Undirected,1
+Hansen,Tonnerslev,Undirected,13
+Hansen,Marie,Undirected,2
+Karl,Marie,Undirected,1
+Fader Mistbergs,Mist-bergs,Undirected,1
+Madam Mistberg,Mistbergs,Undirected,1
+Dubloner,Mistbergs,Undirected,2
+Mistberg,Mistbergs,Undirected,1
+Hansen,Mistberg,Undirected,2
+Detlefsen,Hansen,Undirected,3
+Hansen,Hildet,Undirected,1
+Hansen,Toben,Undirected,2
+Adler,Hansen,Undirected,1
+Hansen,Vals,Undirected,1
+Gud,Wolff,Undirected,2
+Hansen,Olsen,Undirected,17
+Ada,Hansen,Undirected,1
+Die,Hansen,Undirected,1
+Kathinka Olsen,Olsen,Undirected,2
+Kathinka,Olsen,Undirected,5
+Hr. Olsen,Kathinka,Undirected,1
+Hansen,Hr. Olsen,Undirected,1
+Hansen,Kathinka Olsen,Undirected,1
+Hr. Hansen,Kathinka,Undirected,1
+Hansen,Kathinka,Undirected,2
+Olsen,Storms,Undirected,2
+Hansen,Thorfeldt,Undirected,2
+Evropas,Valsens,Undirected,1
+Hansen,Maane,Undirected,3
+Hansen,hnn,Undirected,1
+Hansen,Skonliteraturens,Undirected,1
+Hansen,Mark Twain,Undirected,1
+Don Quixote,Hansen,Undirected,1
+Don Quixote,Wolff,Undirected,1
+Hansen,ester,Undirected,1
+Hansen,vimse,Undirected,1
+Drachmann,Hansen,Undirected,1
+Carl Møller,Hansen,Undirected,1
+Gaasen,Julie,Undirected,1
+Hansen,Hansens,Undirected,1
+Gud,Pilatus,Undirected,1
+Gud,Meza,Undirected,1
+Danebroges,Hansen,Undirected,1
+Alexander,Napoleons,Undirected,1
+jert Danebrog daled,maled,Undirected,1
+Gotfred,Johan Sobieskys,Undirected,1
+Gunzhøveme,Johan Sobieskys,Undirected,1
+Gunzhøveme,Stenbock,Undirected,1
+Karl Gustavs,Karl den tolvtes,Undirected,1

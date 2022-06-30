@@ -1,0 +1,302 @@
+source,target,type,weight
+Miss Campbell,Vilhelm Conquestor,Undirected,2
+Colonna,Eolonnas,Undirected,1
+Eolonnas,Thomasine Campbell,Undirected,1
+Napoleon,Prinsesse Bonaparte,Undirected,1
+Madame Lætitia,Napoleon,Undirected,1
+Keiserens,Madame Lætitia,Undirected,1
+Keiserens,Napoleon den,Undirected,1
+Marianna,Napoleon den,Undirected,1
+Eugenie,Marianna,Undirected,1
+Marianna,Miss Campbell,Undirected,1
+Miss Campbell,roesværdig,Undirected,1
+Herrens,iland,Undirected,1
+Kudsfen,iland,Undirected,1
+Grev Colonnas,Marianna,Undirected,1
+Colonna,Marianna,Undirected,1
+Colonna,Mama,Undirected,1
+Colonna,Zevaco,Undirected,1
+Colonna,Manrsel Fleuron,Undirected,1
+Colonna,Paolo,Undirected,2
+Andreani,Paola,Undirected,1
+Andreani,Pozzo di Borgo,Undirected,1
+Mariano,Pozzo di Borgo,Undirected,1
+Mama,Paola,Undirected,2
+Andreas Colonna,Paola,Undirected,1
+Andreas Colonna,Godefroy,Undirected,1
+Mama,Urbino,Undirected,1
+Frøken Colonna,Pater Simoni,Undirected,1
+Colonna,Pozzo di Borgo,Undirected,3
+Baad,Pozzo,Undirected,1
+Paola,Paters,Undirected,1
+Fleuron,Paters,Undirected,1
+Fleuron,Paola,Undirected,3
+Noel Bertin,Rue de Fesch,Undirected,1
+Paola,PaterSimoni,Undirected,1
+Paola,Pater Simoni,Undirected,1
+Bertin,Paola,Undirected,5
+Colonna,Paola,Undirected,7
+Baptiste,Paola,Undirected,7
+Baptiste,Pater Simoni,Undirected,1
+Noel Bertin,Paola,Undirected,2
+Paola,vexelviis,Undirected,1
+Beicn,sfal,Undirected,1
+Donzella,Frasseto,Undirected,1
+Donzella,Stefnnini,Undirected,1
+Gud,Stefanini,Undirected,1
+Ange Marie,Gud,Undirected,1
+Carcopina,Noel,Undirected,1
+Carcopina,Paola,Undirected,4
+Carcopina,Gud,Undirected,1
+Antennes,Gud,Undirected,1
+Paola,fom,Undirected,1
+fom,lil,Undirected,1
+Balzacs,lil,Undirected,1
+Balzacs,Langeais,Undirected,1
+Carcopina,Pater Simoni,Undirected,1
+Colonna,Pater Simoni,Undirected,1
+Comtesses,Novl,Undirected,1
+Comtesses,M.,Undirected,1
+C.,M.,Undirected,1
+C.,Mariano Colonna,Undirected,1
+Colonna,ilive,Undirected,1
+Myrthcn,ilive,Undirected,1
+Luur,Myrthcn,Undirected,1
+Luur,Stefanini,Undirected,1
+Ifjor,Stefanini,Undirected,1
+Paola,Stefanini,Undirected,1
+Santandra,Stefanini,Undirected,2
+Mairens,Santandra,Undirected,1
+Comtessen,Maries,Undirected,1
+Maries,sidsfe Mring,Undirected,1
+Karl eller,Marie,Undirected,1
+Marie,Stefanini,Undirected,1
+Bertin,Marie,Undirected,1
+Bertin,Zevaco,Undirected,2
+Noel,Zevaco,Undirected,1
+Noel,Santandra,Undirected,1
+Paola,Sari,Undirected,3
+Hon,ina bsrrsrro,Undirected,1
+Paola,Zevaco,Undirected,28
+Novl Bertin,Zevaco,Undirected,1
+Novl Bertin,Sari,Undirected,1
+Paola,Reises,Undirected,1
+Paola,helsl,Undirected,1
+Santandra,Zevacvs,Undirected,1
+Komtessens,Paola,Undirected,1
+Santandra,Zevaco,Undirected,4
+Hr. Zevaco,Santandra,Undirected,1
+Diavolo,Hr. Zevaco,Undirected,1
+Marie,Zevaco,Undirected,4
+Franks,Pozzo di Borgo,Undirected,1
+Bertin,Sari,Undirected,1
+Colonna,Frøken Fleurons,Undirected,1
+Frøken Fleurons,Zevaco,Undirected,1
+Baptiste,Zevaco,Undirected,1
+Marie,Paola,Undirected,2
+Mai,Marie,Undirected,1
+Colonna,Marie,Undirected,1
+Humeur,Marie,Undirected,1
+Frøken Fleuron,Komtessen,Undirected,2
+Frøken Fleuron,Paola,Undirected,4
+Baptisle,Fleuron,Undirected,1
+Marie,rnortorio,Undirected,1
+Zevaco,fyntes,Undirected,1
+Ange,Marie,Undirected,7
+Marie,Padovani,Undirected,1
+Franks,Padovani,Undirected,1
+Graad,Paola Zevaco,Undirected,1
+Padovani,Pater Joseph,Undirected,1
+Carcopina,Marie,Undirected,2
+Ange,Carcopina,Undirected,3
+Ange,Paola,Undirected,3
+Ange,Padovani,Undirected,1
+Marie,Santandra,Undirected,1
+Ange,Santandra,Undirected,5
+Carcopina,Paøla,Undirected,1
+Ange Marie sfaffede,Costa,Undirected,1
+Costa,inat,Undirected,1
+Hr. Zevaco,Paola,Undirected,1
+Bella Coccia,Gud,Undirected,1
+0ta,Stefanini,Undirected,1
+Stefanini,Teodora,Undirected,1
+Bataille,Teodora,Undirected,1
+Forcioli,Zevaco,Undirected,1
+Forcioli,Pater Joseph,Undirected,1
+Costa,Pater Joseph,Undirected,1
+Joseph,Pater Joseph,Undirected,3
+Josef,Pater Joseph,Undirected,1
+Forcioli,Josef,Undirected,1
+Forcioli,Tu,Undirected,2
+Zevaco,nei,Undirected,1
+Hr. Zevaco,Ifjor,Undirected,1
+Paola,Touranjon,Undirected,1
+Hr. Zevaco,Touranjon,Undirected,1
+Serafino,Zevaco,Undirected,2
+Brancoli,Cassini,Undirected,1
+Arbellara Forcioli,Teodore,Undirected,1
+Cassini,helsf,Undirected,1
+Forcioli,Joseph,Undirected,1
+Cassini,Serafino,Undirected,1
+Forcioli,Serafino,Undirected,1
+Cassini,Paola,Undirected,1
+Cassini,Costa,Undirected,1
+Costa,Zevaco,Undirected,2
+Frøken Fleuron,Zevaco,Undirected,2
+Frøken Fleuron,trl,Undirected,1
+Costa,Soccia,Undirected,1
+Christinazzis,Paola,Undirected,1
+Marco,Mulledo,Undirected,1
+Greven,Mulledo,Undirected,2
+Jesus,Madonna,Undirected,1
+Franks,Madonna,Undirected,1
+Anita,Franks,Undirected,1
+Anita,Madonna,Undirected,2
+Bei,Paola,Undirected,1
+Marco,Zevaco,Undirected,5
+Paola,Verdis,Undirected,1
+Rigvletto,Verdis,Undirected,1
+Arien,Rigvletto,Undirected,1
+Arien,Donna,Undirected,1
+Donna,Marie,Undirected,1
+Marco,Paola,Undirected,7
+Marco,Zevaco Ange,Undirected,1
+Marie,Zevaco Ange,Undirected,1
+Gud,Jesus,Undirected,1
+Jesus,Nino,Undirected,1
+Nino,Vico,Undirected,1
+Vico,fil,Undirected,1
+Multedo,Tem,Undirected,1
+Ange,Marco,Undirected,1
+Ange,Bastia,Undirected,1
+Kalebas,Tu,Undirected,1
+Marco,Tens,Undirected,1
+Carcopina,Tens,Undirected,1
+Carcopina,iveien,Undirected,1
+Carcopina,Jesus,Undirected,1
+Zevaco,øs,Undirected,1
+Baptiste,Marco,Undirected,2
+Marco,Steen,Undirected,1
+Eieren,Marco,Undirected,1
+Baal,Marco,Undirected,1
+Fleuron,Zevaco,Undirected,2
+Komtessen,Zevaco,Undirected,2
+Komtessen,Paola,Undirected,2
+iforgaars,Øe,Undirected,1
+Anita,Paola,Undirected,1
+Gud,Marco,Undirected,1
+Gud,Inglese,Undirected,1
+Paola,bo,Undirected,1
+Paola,Santandra,Undirected,4
+Niolino,Zevaco,Undirected,4
+Colonna,Santandra,Undirected,1
+Matthæus,Santandra,Undirected,1
+Niolino,Santandra,Undirected,10
+Frøken Lama,Niolino,Undirected,1
+Lavia,rasf,Undirected,1
+Lavia,Paola,Undirected,5
+Komtessen,Tavia,Undirected,1
+Grev Colonna,Tavia,Undirected,1
+Grev Colonna,Paola,Undirected,1
+Paola,Papa,Undirected,1
+Mama,Papa,Undirected,1
+Mama,Tu,Undirected,1
+Colonnaernes,Tu,Undirected,1
+Colonna,Frøken Lama,Undirected,1
+Frøken Lama,Tu,Undirected,1
+Gud,Niolino,Undirected,6
+Madonna,Zeno,Undirected,1
+Marie,Zeno,Undirected,1
+Santandra,Zeno,Undirected,1
+Balducci Zeno,Zeno,Undirected,1
+Paola,Zeno,Undirected,1
+Niolino,Zeno,Undirected,3
+Niolino,Zenvs,Undirected,1
+Santandra,Zenvs,Undirected,1
+Grev Colonna,Marie,Undirected,1
+Francs,Niolino,Undirected,1
+Francs,nik,Undirected,1
+Niolino,Paola,Undirected,1
+Santandra,Tartaroli,Undirected,6
+Niolino,Tartaroli,Undirected,1
+Joseph,Veroniko,Undirected,1
+Gud,Joseph,Undirected,2
+Joseph,Vico,Undirected,1
+Pater Joseph,haltende,Undirected,1
+Brancoli,Joseph,Undirected,1
+Brancoli,iveien,Undirected,1
+Joseph,Madonna,Undirected,1
+Jkkesandt,Joseph,Undirected,1
+Ioseph,Maria,Undirected,1
+Effer,Ioseph,Undirected,2
+Alberto,Joseph,Undirected,1
+Alberto,Diavolo,Undirected,1
+Alberto,Giglioni,Undirected,1
+Alberto,Santandra,Undirected,3
+Kirsten,Tartaroli,Undirected,1
+Paola,Vilhelm Tell,Undirected,1
+Baptiste,Xavia,Undirected,1
+Lavia,Xavia,Undirected,1
+Colonna,Lavia,Undirected,1
+Steen,Villie,Undirected,1
+Colonna,Niolino,Undirected,2
+Fleuron,Xavia,Undirected,1
+Brisens,Paola,Undirected,1
+Niolino,ffor,Undirected,2
+Marie,Niolino,Undirected,3
+Ange,Sang,Undirected,1
+Joseph,Satandra,Undirected,1
+Gud,Santandra,Undirected,1
+Santandra,Uveir,Undirected,1
+Niolino,Uveir,Undirected,1
+Jofeph,Niolino,Undirected,1
+Joseph,Niolino,Undirected,1
+Joseph,Præsfen,Undirected,1
+Niolino,Pater Joseph,Undirected,4
+Niolino,ban,Undirected,1
+ban,borst,Undirected,1
+Ange Marie,Zeno,Undirected,1
+Paola,Xavia,Undirected,1
+Colonna,Xavia,Undirected,1
+Pater Joseph meddeelt,Zevaco,Undirected,1
+Steen,Zevaco,Undirected,1
+Alberto Tartaroli,Zevaco,Undirected,2
+Tartaroli Alberto,Zevaco,Undirected,1
+Marco,Marie,Undirected,2
+Marie,Tartaroli Alberto luske,Undirected,1
+Marie,sfjod,Undirected,1
+Santandra,sfjod,Undirected,1
+Santandra,Steen,Undirected,1
+Maki,Steen,Undirected,1
+Diesteen,Zevaco,Undirected,1
+Pater Joseph,Zevaco,Undirected,3
+Gud,Tartaroli Alberto,Undirected,1
+Alberto,Niolino,Undirected,1
+Alberto,Gud,Undirected,1
+Gud,Ore,Undirected,1
+Pater Joseph,Tartaroli,Undirected,1
+Pater Joseph,Santandra,Undirected,4
+Santandra,arie,Undirected,1
+Tartaroli,arie,Undirected,1
+Sværmeil,Tartaroli,Undirected,1
+Gud,Sancta Marias,Undirected,1
+Sancta Marias,Santandra,Undirected,1
+Niolino,barsf,Undirected,1
+Niolino,Steen iveien,Undirected,1
+Hr. Bertin,Paola,Undirected,1
+Colonna,Gud,Undirected,1
+Marco,Santandru,Undirected,1
+Niolino,Pater Ioseph,Undirected,3
+Alberto Tartaroli,fløi,Undirected,1
+Alberto Tartaroli,Zenaco,Undirected,1
+Alberto,Pater Ioseph,Undirected,1
+Alberto,Zevaco,Undirected,1
+Colonna Zevaco,Paola,Undirected,1
+Marco,Maria,Undirected,2
+Bictor Hugos Quasimodo,Marco,Undirected,1
+Carcopina,Marco,Undirected,1
+Ange,Niolino,Undirected,1
+Paola,yam,Undirected,1
+Joseph,Santandra,Undirected,1
+Pater Joseph,freidig,Undirected,1
+Madonna,freidig,Undirected,1

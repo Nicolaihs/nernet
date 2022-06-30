@@ -1,0 +1,848 @@
+source,target,type,weight
+Jakobs,Pedersdatter Lykke,Undirected,1
+Anna Corfitsdatter,Hardenberg,Undirected,1
+Hardenberg,Myndling,Undirected,1
+Myndling,Zwonnike,Undirected,1
+Jomfru Annas,Zwonnike,Undirected,1
+Faster,Zwonnike,Undirected,2
+Ejler,Sophie,Undirected,4
+Lykke,Sophie,Undirected,38
+Anna Hardenberg,Samson,Undirected,3
+Ejler Hardenberg,Samson,Undirected,2
+Abildhauge,Hans Mikkelsens,Undirected,1
+Abildhauge,Anna,Undirected,1
+Anna,Faster Sophies,Undirected,1
+Anna,Zwonnike,Undirected,18
+Anna,Samson,Undirected,13
+Corfits,Mette Skram,Undirected,1
+Birgitte,Herluf Trolle,Undirected,1
+Herluf Trolle,Sophie Lykke,Undirected,5
+Birgitte Gjøe,Sophie Lykke,Undirected,7
+Sophie Lykke,Zwonnike,Undirected,4
+Samson,Zwonnike,Undirected,3
+Frederik,Kong Frederik,Undirected,2
+Gud,Jomfru Anna,Undirected,2
+Anna,Gud,Undirected,45
+Gud,Samson,Undirected,1
+Anna Hardenberg,Zwonnike,Undirected,3
+Anna,Ejler Hardenberg,Undirected,13
+Ejler Hardenberg,Erik,Undirected,3
+Erik,Hack,Undirected,1
+Hack,Jens Ulfstand,Undirected,1
+Jens Ulfstand,Oluf Mouritsen Krognos,Undirected,1
+Erik Rosenkrantz,Oluf Mouritsen Krognos,Undirected,1
+Erik Rosenkrantz,Oluf Daa,Undirected,1
+Hertug Frederiks,Oluf Daa,Undirected,1
+Ejler Hardenberg,Hertug Frederiks,Undirected,1
+Anna,Erik,Undirected,10
+Samson,lil,Undirected,1
+Jomfru Anna,Samson,Undirected,2
+Jonas,Kjeldersvenden,Undirected,1
+Jonas,Zwonnike,Undirected,1
+Frederik,Zwonnike,Undirected,2
+Erik Hardenberg,Frederik,Undirected,1
+Erik Hardenberg,Frants Bilde,Undirected,2
+Frants Bilde,Oluf Krognos,Undirected,1
+Frederik,Hak Ulfstand,Undirected,1
+Frederik,Moritz,Undirected,1
+Anna,Erik Hardenberg,Undirected,3
+Anna,Frederik,Undirected,7
+Erik Rosenkrantz,Oluf Krognos,Undirected,1
+Erik,Oluf,Undirected,2
+Christian,Frederik,Undirected,1
+Frederik,Oluf Clausens,Undirected,1
+Ejler Hardenberg,Melchior Zweck,Undirected,2
+Anna Hardenberg,Ejler Hardenberg,Undirected,2
+Erik Hardenberg,Spiegel,Undirected,1
+Erland,Spiegel,Undirected,1
+Erik Hardenberg,Erland,Undirected,1
+Erik Hardenberg,Melchior,Undirected,2
+Ejler Eriksen,Erik,Undirected,1
+Erik Hardenberg nær,Melchior Zweck,Undirected,1
+Erland,Hans Spiegel,Undirected,1
+Erland,Melchior Zweck,Undirected,1
+Bilde,Frants,Undirected,9
+Bilde,Melchior,Undirected,1
+Frants,Melchior Zweck,Undirected,2
+Frants,Oluf Daa,Undirected,1
+Frants Bilde,Hak Ulfstand,Undirected,1
+Frants Bilde,Melchior,Undirected,1
+Ejler Eriksen,Frants,Undirected,1
+Ejler Eriksen,Frants Andersen,Undirected,1
+Frederik,Melchior Zweck,Undirected,1
+Ejler,Melchior Zweck,Undirected,1
+Hak Ulfstand,Niels,Undirected,1
+Erik Hardenberg,Oluf Daa,Undirected,2
+Erik,Oluf Daa,Undirected,2
+Erik Hardenberg,Hak Ulfstand,Undirected,1
+Erik Hardenberg,Hans Spiegel,Undirected,2
+Maisle,Melchior,Undirected,1
+Hak Ulfstand,Hans Spiegel,Undirected,1
+Hak Ulfstand,Oluf Daa,Undirected,1
+Erland,Oluf Daa,Undirected,1
+Anna Hardenberg,Sophie Lykke,Undirected,8
+Anna,Sophie Lykkes Griffel,Undirected,1
+Anna,Birgitte Gjøe,Undirected,87
+Anna,Faster,Undirected,10
+Gud,Zwonnike,Undirected,1
+Anna,gjentbg,Undirected,1
+Anna,Ejler,Undirected,17
+Ejler,Samson,Undirected,1
+Samson,Sophie,Undirected,2
+Ejler,Sophie Lykke,Undirected,9
+Anna Hardenberg,Sofie Lykke,Undirected,1
+Anna,Sophie Lykke,Undirected,62
+Anna,Anna Hardenberg,Undirected,6
+Kong Frederik,Sophie Lykke,Undirected,2
+Anna,Sophie,Undirected,27
+Anna,Hans Spiegel,Undirected,5
+Hans Spiegel,beleiligt,Undirected,1
+Hans Spiegel,Ulfstand,Undirected,1
+Oluf Daa,Ulfstand,Undirected,1
+Oluf Daa,Sophie Lykke,Undirected,2
+Sophie Lykke,Spiegel,Undirected,1
+Ejler,hans Hans,Undirected,1
+Ejler,Kantslers,Undirected,1
+Hans Spiegel,Kantslers,Undirected,1
+Oluf Clausen,Sophie Lykke,Undirected,1
+Hak Ulfstand,Oluf Clausen,Undirected,1
+Anna,Sophie Lykke strax,Undirected,1
+August,Lykke,Undirected,1
+Anna,Keiser Ferdinand,Undirected,1
+Jep Nielsen,Peder Hansen,Undirected,2
+Jep Nielsen,Jeppe,Undirected,1
+Ejler Eriksen,Jep Nielsen,Undirected,1
+Gud,Jep Nielsen,Undirected,1
+Anna Corfitsdatter,Jep Nielsen,Undirected,1
+Anna,Dandsen,Undirected,3
+Anna,Oluf Clausen,Undirected,1
+Dands,Oluf Clausen,Undirected,1
+Anna,Svend,Undirected,1
+Oluf Daa,Oluf Krognos,Undirected,3
+Anna,Oluf Daa,Undirected,1
+Oluf Daa,grant,Undirected,1
+Anna,Oluf,Undirected,15
+Erik,Faders,Undirected,1
+Erik Corfitsen,Erik Hardenberg,Undirected,1
+Oluf,Oluf Mouritsen,Undirected,6
+Erik Ejlersen,Oluf Daa,Undirected,1
+Dandsen,Sophie Lykke,Undirected,2
+Anna,Oluf Krognos,Undirected,9
+Anna,Erland,Undirected,7
+Anna,Oluf Mouritsen,Undirected,8
+Erik,Oluf Clausen,Undirected,1
+Elline Gjøe,Mette,Undirected,2
+Holger Rosenkrantz,Mette,Undirected,1
+Anna,Holger Rosenkrantz,Undirected,9
+Birgitte Gjøe,Oluf Krognos,Undirected,2
+Frants Bille,Hak Ulfstand,Undirected,1
+Frants Bille,Oluf Krognos,Undirected,1
+Ejler Hardenberg,Jens Ulfstand,Undirected,2
+Haks,Jens Ulfstand,Undirected,1
+Axel Walkendorf,Jens,Undirected,1
+Ejler Hardenberg,Johan Friis,Undirected,12
+Johan Friis,Plans,Undirected,1
+Axel Henningsen,Ejler Hardenberg,Undirected,1
+Axel Walkendorf,Ejler Hardenberg,Undirected,2
+Axel Walkendorf,Jens Ulfstand,Undirected,2
+Axel Henningsen,Axel Walkendorf,Undirected,1
+Axel Henningsen,Jens Ulfstand,Undirected,1
+Axel Walkendorf,Dands,Undirected,1
+Christoffer,Jens,Undirected,1
+Axel,Jens Ulfstand,Undirected,1
+Anna Hardenberg,Jens Ulfstand,Undirected,1
+Anna Hardenberg,Axel,Undirected,2
+Anna,Axel,Undirected,13
+Ejler,Jens,Undirected,1
+Axel,Ejler Eriksen,Undirected,2
+Anna,Jens,Undirected,1
+Axel,Jens Holgersen,Undirected,1
+Ejler Hardenberg,Johan,Undirected,2
+Gud,Johan,Undirected,2
+Ejler Hardenberg,Spiegel,Undirected,1
+Ejler,Johan Friis,Undirected,5
+Ejler,Frederik,Undirected,1
+Ejler Hardenberg,Ulfstand,Undirected,1
+Dandsen,Johan Friis,Undirected,1
+Ejler Hardenberg,Gud,Undirected,7
+Johan Friis,loe,Undirected,2
+Annalil,Johan Friis,Undirected,1
+Frederik,Johan Friis,Undirected,3
+Gud,Kong Christian,Undirected,2
+Ejler Hardenberg,taug,Undirected,1
+Anna Corfitsdatter,Johan Friis,Undirected,4
+Ejler,Oluf Mouritsen,Undirected,4
+Johan Friis,Oluf,Undirected,2
+Dandsen,tang,Undirected,1
+Dands,Jens Ulfstand,Undirected,1
+Axel Walkendorf,Johan Friis,Undirected,2
+Ejler,Ejler Hardenberg,Undirected,3
+Ejler,Hr. Johan,Undirected,1
+Anna,Axel Walkendorf,Undirected,8
+Axel Walkendorf,Sophie,Undirected,1
+Ejler Hardenberg,Sophie Lykke,Undirected,12
+Anna,Beiler,Undirected,2
+Frederik,Oluf Mouritsen,Undirected,1
+Axel Walkendorf,Frederik,Undirected,1
+Axel Walkendorf,Oluf Krognos,Undirected,3
+Ole Fisker,hans Baad,Undirected,1
+Anna Hardenberg,Axel Walkendorf,Undirected,1
+Anna,Ole,Undirected,1
+Axel,Farbroder,Undirected,1
+Farbroder,Zwonnike,Undirected,1
+Johan Friis,Sophie,Undirected,1
+Ole,Sophie,Undirected,1
+Ejler Eriksen,Ole,Undirected,1
+Johan Friis,Ziir,Undirected,1
+Frederik,Ole,Undirected,1
+Hr. Johan,grant,Undirected,1
+Anna Hardenberg,Ole Fisker,Undirected,3
+Ole,Ole Fisker,Undirected,1
+Axel Walkendorf,Ole,Undirected,1
+Axel,Gud,Undirected,5
+Axel,grant,Undirected,1
+Frederik,Sophie Lykke,Undirected,2
+Anna Hardenberg,Frederik,Undirected,1
+Gud,Lykke,Undirected,1
+Anna,Lykke,Undirected,13
+Ejler Eriksen,Lykke,Undirected,1
+Axel Walkendorf,Sophie Lykke,Undirected,3
+Ejler Hardenberg,Sophie,Undirected,2
+Frederik,Sophie,Undirected,1
+Amor,Gud,Undirected,1
+Amor,Roers,Undirected,1
+Roers,Sophie Lykke,Undirected,1
+Kong Christian,Sophie Lykke,Undirected,1
+Caspar Wiesz,Ejler Hardenberg,Undirected,1
+Caspar Wiesz,Frederik,Undirected,1
+Herluf Trolle,Jørgen Lykke,Undirected,2
+Jørgen Lykke,Jørgen Rosenkrantz,Undirected,1
+Holger,Jørgen Rosenkrantz,Undirected,2
+Holger,Oluf Krognos,Undirected,1
+Ejler Hardenberg,Herluf Trolle,Undirected,3
+Holger Rosenkrantz,Oluf Krognos,Undirected,2
+Frederik,Oluf Krognos,Undirected,1
+Dorothea,Frederik,Undirected,1
+Dorothea,Ejler Hardenberg,Undirected,3
+Frederik,Gud,Undirected,4
+Christian,Gud,Undirected,1
+Anna Corfitsdatter,Birgitte,Undirected,1
+Birgitte Gjøe,Oluf Mouritsen,Undirected,2
+Birgitte Gjøe,Birgitte Mogensdatter,Undirected,2
+Birgitte Mogensdatter,Oluf Mouritsen,Undirected,1
+Jomfru Anna,Oluf Mouritsen,Undirected,1
+Birgitte Gjøe,Dorothea stum,Undirected,1
+Frederik,Throner,Undirected,1
+Gud,Throner,Undirected,1
+Gustav Vasas,Maria Stuart,Undirected,1
+Eleonora,Maria Stuart,Undirected,1
+Eleonora,Joachim,Undirected,1
+Christian,Joachim,Undirected,1
+Christian,Renata,Undirected,1
+Kong Christian,Renata,Undirected,1
+Frederik,Frøken Eleonore,Undirected,1
+Christian,Keiser Ferdinand,Undirected,1
+Frederik,Keiser Ferdinand,Undirected,1
+Frederik,Renata,Undirected,1
+Lothringen,Renata,Undirected,1
+Christian den,Lothringen,Undirected,1
+Christian den,Gud,Undirected,1
+Gud,Somme,Undirected,1
+Somme,Throne,Undirected,1
+Ejler Hardenberg,moxen,Undirected,1
+Sophie Lykke,Stifdatter,Undirected,1
+Anna,Stifdatter,Undirected,1
+Anna,Edele Jakobsdatter Hardenberg,Undirected,1
+Edele Jakobsdatter Hardenberg,Sophie Lykke,Undirected,1
+Edele,Sophie Lykke,Undirected,5
+Birgitte Gjøe,Edele,Undirected,8
+Birgitte Gjøe,Gud,Undirected,9
+Birgitte Mogensdatter,Sophie Lykke,Undirected,1
+Birgitte Mogensdatter,Herluf,Undirected,1
+Birgitte,Ejler,Undirected,4
+Birgitte,Dorothea,Undirected,2
+Dorothea,Herluf,Undirected,1
+Herluf,Peder Oxe,Undirected,1
+Birgitte Gjøe,Herluf Trolle,Undirected,6
+Birgitte Gjøe,Frederik,Undirected,3
+Oluf Mouritsen,Thyra Danebod,Undirected,1
+Dagmar,Thyra Danebod,Undirected,1
+Dagmar,Margrethe,Undirected,1
+Dagmar,Lise,Undirected,1
+Lise,Sophie Lykke,Undirected,1
+Sophie,Zwonnike,Undirected,4
+Anna hiin,Lykke,Undirected,1
+Anna,Anna hiin,Undirected,1
+Holger Ottesen,Schilchen,Undirected,1
+Hans Schilchen,Holger Ottesen Rosenkrantz,Undirected,1
+Holger Ottesen Rosenkrantz,Oluf Krognos,Undirected,1
+Oluf Krognos,Sophie Lykke,Undirected,3
+Oluf Mouritsen,Sophie Lykke,Undirected,3
+Anna,Helvig,Undirected,3
+Erik Ottesen,Helvig,Undirected,1
+Erik Ottesen,Erik Rud,Undirected,1
+Anna,Erik Rud,Undirected,1
+Edele Billes,Sophie,Undirected,1
+Anna Corfitsdatter,Ejler Hardenberg,Undirected,1
+Anna,Holger,Undirected,5
+Oluf,dannis,Undirected,1
+Birgitte Mogensdatter,Jesper Daas,Undirected,1
+Birgitte Herluf Trolles,Jesper Daas,Undirected,1
+Ejler Hardenberg,Kong Christian,Undirected,2
+Christian,Ejler Hardenberg,Undirected,1
+Christian,Erik Corfitsen,Undirected,1
+Anna,Birgitte Herluf Trolles,Undirected,1
+Birgitte Herluf Trolles,Ejler,Undirected,1
+Faster,Sophie,Undirected,1
+Ferle,Sophie,Undirected,1
+Birgitte,Ferle,Undirected,1
+Anna,Riis,Undirected,1
+Birgitte,Riis,Undirected,1
+Gud,Sophie,Undirected,6
+Oluf Mouritsen,Sophie,Undirected,1
+Ejler,Gud,Undirected,4
+Birgitte Mogensdatter,Villie,Undirected,1
+Birgitte Mogensdatter,Eiler,Undirected,1
+Eiler,Oluf Mouritsen,Undirected,1
+Jesper Daa,Oluf Mouritsen,Undirected,1
+Herluf,Jesper Daa,Undirected,1
+Ejler,Mourits,Undirected,1
+Samson,Sophie Lykke,Undirected,3
+Frants Bilde,Oluf Mouritsen,Undirected,1
+Ejler Hardenberg,Oluf Mouritsen,Undirected,1
+Beiler,Oluf,Undirected,1
+Ejler Hardenberg,Oluf,Undirected,1
+Ejler,Oluf,Undirected,1
+Ejler Eriksen,Sophie Pedersdatter,Undirected,1
+Samson,Sophie Pedersdatter,Undirected,1
+Anna Corfitsdatter,Zwonnike,Undirected,1
+Hevn,Zwonnike,Undirected,1
+Anna,Throne,Undirected,1
+Anna tang,Sophie Lykke,Undirected,1
+Faster,Gud,Undirected,1
+Anna Hardenberg,Sophie,Undirected,1
+Anna paa,Sophie,Undirected,1
+Elline Gjøe,Oluf Krognos,Undirected,1
+Holger Rosenkrants,Mette,Undirected,1
+Ejler Hardenberg,Holger Rosenkrants,Undirected,1
+Anna,Lise,Undirected,2
+Frederik,Lise,Undirected,1
+Ejler Hardenberg,Zwonnike,Undirected,5
+Hans Spiegel,Zwonnike,Undirected,1
+Dronning Dorothea,Johan Friis,Undirected,2
+Ejler Hardenberg,Gud signe,Undirected,1
+Erik,Hans Schilchen,Undirected,1
+Anna just,Sophie Lykke,Undirected,1
+Erik,Sophie Lykke,Undirected,3
+Erik Hardenberg,Gud,Undirected,1
+Erik,Gud,Undirected,3
+Ejler,Kong Christian,Undirected,1
+Anna,Kong Christian,Undirected,1
+Ejler,Zwonnike,Undirected,2
+Erik,Zwonnike,Undirected,1
+Erik,lier,Undirected,1
+Sophie Lykke Blaar,Zwonnike,Undirected,1
+Erik Hardenberg,Zwonnike,Undirected,1
+Evret,Sophie Lykke,Undirected,1
+Ejler,Erik,Undirected,1
+Anna Corfitsdatter,Gud,Undirected,4
+aarle,signe,Undirected,1
+Sophie,Sophie Lykke,Undirected,2
+Sophie,beesk,Undirected,1
+Friis,beesk,Undirected,1
+Karl,Lykke,Undirected,1
+Anna,Karl,Undirected,1
+Ejler Hardenberg,Frants Bilde,Undirected,1
+Adolf,Kong Frederik,Undirected,1
+Adolf,Kong Hans,Undirected,1
+Anna Hardenberg,Birgitte Gjøe,Undirected,7
+Birgitte Gjøe,Ejler Hardenberg,Undirected,3
+Birgitte Gjøe,Lise,Undirected,1
+Anna,Sophie Lykkes Stifdatter,Undirected,1
+Edele Hardenberg,Sophie Lykkes Stifdatter,Undirected,1
+Annas Alder,Edele Hardenberg,Undirected,1
+Birgitte Gjøe,Gjøe,Undirected,1
+Gjøe,Herluf Trolle,Undirected,1
+Herluf Trolle,Kong Frederik,Undirected,2
+Kong Frederik,Kong Fredrik,Undirected,1
+Herluf til Skokloster,Kong Fredrik,Undirected,1
+Anna,Edele,Undirected,81
+Edele,Frants Andersen,Undirected,1
+Edele,Frants Andersen Bilde,Undirected,1
+Frants Andersen Bilde,Frederik,Undirected,1
+Edele,Evret,Undirected,1
+Anna,Engele,Undirected,1
+Anna Corfitsdatter,Edele,Undirected,2
+Anna,Birgitte,Undirected,13
+Birgitte,Gud,Undirected,3
+Anna,Birgitte Gjøe taug,Undirected,1
+Birgitte Gjøe,Jesper Daa,Undirected,1
+Jesper,Jesper Daa,Undirected,1
+Jesper,Oluf,Undirected,2
+Gud,Jesper,Undirected,1
+Gud,Oluf,Undirected,6
+Gud,Oluf Krognos,Undirected,2
+Jesper Daa,Oluf Krognos,Undirected,1
+Birgitte Gjøe,Dorothea,Undirected,2
+Anna,Farbroder,Undirected,2
+Birgitte Gjøe,Ejler,Undirected,1
+Birgitte,Kong Frederik kjær,Undirected,1
+Birgitte Gjøe,Sophie,Undirected,2
+Albrecht,Anna,Undirected,1
+Albrecht,Ernst,Undirected,1
+Donau,Ernst,Undirected,1
+Anna,Frænkes,Undirected,1
+Birgitte Gjøe,Graad,Undirected,1
+Birgitte Gjøe,signe,Undirected,2
+Drosselens,Edele,Undirected,1
+Anna,Skjoldemose,Undirected,1
+Edele,Skjoldemose,Undirected,1
+Erland,Frederik,Undirected,1
+Edele Jakobsdatter,Jomfru Anna,Undirected,1
+Anna,Herluf,Undirected,6
+Anna Corfitsdatter,Herluf Trolle,Undirected,1
+Anna Corfitsdatter,Kong Frederik,Undirected,1
+Birgitte Gjøe,Herluf,Undirected,7
+Gud,Herluf,Undirected,6
+Herluf,loe,Undirected,1
+Birgitte,Herluf,Undirected,2
+Eierinde,Herluf,Undirected,1
+Anna,Eierinde,Undirected,1
+Edele,Erland,Undirected,1
+Kong Frederik,Kong Wolmer,Undirected,1
+Christian,Herluf Trolle,Undirected,1
+Christian,Dorothea,Undirected,1
+Dorothea,Jesper Daa,Undirected,1
+Dorothea,Kong Christian,Undirected,3
+Edele Jakobsdatter,Kong Frederik,Undirected,1
+Edele,Herluf Trolle,Undirected,1
+Herluf Trolle,Oluf Krognos,Undirected,1
+Karl,Oluf Mouritsen,Undirected,1
+Anna,Birgitte Mogensdatter,Undirected,2
+Anna,Jomfru Edele,Undirected,1
+Anna Corfitsdatter,Ejler Eriksen,Undirected,1
+Anna og Edele,Birgitte Gjøe,Undirected,1
+Herluf,Kjelderen,Undirected,1
+Anna Ejlersdatter,Rønnov,Undirected,1
+Ejler Hardenberg,Rønnov,Undirected,1
+Edele,Frants Bilde,Undirected,3
+Birgitte Gjøe,Frants Bilde,Undirected,1
+Anna Corfitsdatter,Oluf,Undirected,2
+Johan Friis,Kong Christian,Undirected,1
+Ejler,Holger Rosenkrantz,Undirected,1
+Anna Rønnovs,Birgitte,Undirected,1
+Anna Rønnovs,Ejler,Undirected,1
+Ejler,Kong Frederik,Undirected,1
+Birgitte Gjøe,Kong Frederik,Undirected,1
+Anna Hardenberg,Edele,Undirected,1
+Anna Corfitsdatter,Birgitte Gjøe,Undirected,1
+Birgitte Gjøe,Lykke,Undirected,1
+Carolus Skotte,Niels Fontein,Undirected,1
+Carolus Skotte,Fløiels,Undirected,1
+Fløiels,"Frederik,",Undirected,1
+"Frederik,",Frue Kirke,Undirected,1
+Frants Brokkenhuus,Jørgen,Undirected,1
+Anna Skinkel,Frants Brokkenhuus,Undirected,1
+Edele,Pernille Gjøe,Undirected,1
+Anna Rønnov,Pernille Gjøe,Undirected,1
+Anna Hardenberg,Anna Rønnov,Undirected,1
+Anna,Churfyrst August,Undirected,2
+Anna,Magnus,Undirected,1
+Anders Sørensen,Anna,Undirected,2
+Anders Sørensen,Anders Sørensen Vedel,Undirected,1
+Anders Sørensen Vedel,Kong Frederik,Undirected,1
+Kong Christian,Kong Frederik,Undirected,1
+Anna Hardenberg,Kong Frederik,Undirected,2
+Gud,Nicolaus Palladius,Undirected,1
+Birgitte Gjøe,Dronning Dorothea,Undirected,1
+Anna fornam,Dronning Dorothea,Undirected,2
+Hans Spiegel,Kjeldersvend,Undirected,1
+Anna Hardenberg,Kjeldersvend,Undirected,1
+Anna,Hans,Undirected,1
+Hans,Hans Spiegel,Undirected,1
+Hans Spiegel,Sophie Lykke,Undirected,1
+Hans Spiegel,Hardenberg,Undirected,1
+Erik Rosenkrantz,Hardenberg,Undirected,1
+Erik Rosenkrantz,Erik Rud,Undirected,1
+Anna Rønnov,Erik Rud,Undirected,1
+Gud,Hans Spiegel,Undirected,1
+Anna,Anna Rønnov,Undirected,1
+Erik Rud,Hans Spiegel,Undirected,1
+Anna Corfitsdatter,Hans Spiegel,Undirected,1
+Anna Ronnov,Edele,Undirected,1
+Anna,Anna Corfitsdatter,Undirected,3
+Anna til,Sophie Lykke,Undirected,1
+Anna,Saffians,Undirected,1
+Anna,Dorothea,Undirected,11
+Anna Corfitsdatter,Erland,Undirected,1
+Sophie Lykke,løi Anna Corfitsdatter,Undirected,1
+Birgitte Gjøe,Ejler Eriksen,Undirected,1
+Anna,Ejler Eriksen,Undirected,2
+Dronning Dorothea,Friis,Undirected,1
+Friis,Holger Rosenkrantz,Undirected,2
+Holger Rosenkrantz,Oluf Mouritsen,Undirected,2
+Kong Frederik,Oluf Mouritsen,Undirected,1
+Hans Skovgaard,Kong Frederik,Undirected,1
+Hans Skovgaard,Johan Friis,Undirected,5
+Hans,Johan Friis,Undirected,6
+Hans Skovgaard,Magnus,Undirected,1
+Hans Skovgaard,Hr. Johan,Undirected,1
+Brahe,Hr. Johan,Undirected,1
+Brahe,Claus Urne,Undirected,1
+Gud,Johan Friis,Undirected,3
+Johan Friis,Kong Frederik,Undirected,3
+Holger,Johan Friis,Undirected,2
+Haugens,Johan Friis,Undirected,1
+Holger Rosenkrantz,Kong Hans,Undirected,1
+Hans Skovgaard,Holger Rosenkrantz,Undirected,2
+Hans,Hans Skovgaard,Undirected,1
+Elisabeth,Johan Friis,Undirected,1
+Dronning Elisabeth,Holger Rosenkrantz,Undirected,1
+Hans Skovgaard,moxen,Undirected,1
+Hans,Mads,Undirected,1
+Holger,Mads,Undirected,1
+Holger Rosenkrantz,Johan,Undirected,1
+Anna,Johan Friis,Undirected,1
+Dorothea,Holger Rosenkrants,Undirected,1
+Ejler Eriksen,Johan Friis,Undirected,1
+Holger Rosenkrantz,Jørgen Lykke,Undirected,5
+Jørgen,Jørgen Lykke,Undirected,2
+Hans Spiegel,Jørgen,Undirected,1
+Hans Spiegel,Johan Jespersen,Undirected,1
+Anna,Johan Jespersen,Undirected,1
+Dronning Dorothea,Holger Rosenkrantz,Undirected,1
+Ejler Eriksen,Hans Skovgaard,Undirected,2
+Hans Skovgaard,Holger Ottesen,Undirected,1
+Anna,Hans Skovgaard,Undirected,1
+Anna Hardenberg,Dorothea,Undirected,1
+Anna Corfitsdatter,Anna Hardenberg,Undirected,1
+Dorothea,Holger Rosenkrantz,Undirected,2
+Jørgen,Sophie Lykke,Undirected,3
+Anna Corfitsdatter,Jørgen,Undirected,1
+Holger Rosenkrantz,Oluf,Undirected,4
+Anna Hardenberg,Oluf,Undirected,1
+Holger Rosenkrantz,Johan Friis,Undirected,2
+Dorothea,Hans Skovgaard,Undirected,1
+Dorothea,Oluf og,Undirected,1
+Axel Valkendorf,Oluf og,Undirected,1
+Axel Valkendorf,Caspar Wiesz,Undirected,1
+Anna Hardenberg,Kong Frederiks Hof,Undirected,1
+Anna Hardenberg,Oluf Mouritsen,Undirected,1
+Axel,Oluf Kjærlighed,Undirected,2
+"Anna,",Axel,Undirected,1
+Oluf,Sophie Lykke,Undirected,2
+Axel,Oluf,Undirected,21
+Axel,Morten Venstermand,Undirected,1
+Kong Hans,Morten Venstermand,Undirected,1
+Erik Ejlersen,Kong Hans,Undirected,1
+Erik Ejlersen,Erik Styggesen,Undirected,1
+Erik Styggesen,Kirsten,Undirected,1
+Kirsten,Mattrup,Undirected,1
+Axel,Morten,Undirected,1
+Erik,Morten,Undirected,1
+Oluf,Oluf fort,Undirected,1
+Borchorst von Pappenheim,Christoffer von Festenberg,Undirected,1
+Jørgen Lykke,Pax,Undirected,1
+Borchorst,Pax,Undirected,1
+Borchorst,Kong Frants,Undirected,1
+Kong Frants,s,Undirected,2
+Borchorst,Christoffer,Undirected,1
+Christoffer,Jørgen,Undirected,1
+Kong Frederik,Pax,Undirected,1
+Borchorst,Jørgen Pedersens,Undirected,1
+Jørgen Lykke,Jørgen Pedersens,Undirected,1
+Johan Friis,Jørgen Lykke,Undirected,5
+Holger,Jørgen,Undirected,1
+Jørgen,Konster,Undirected,1
+Fysters,Konster,Undirected,1
+Frants,Fysters,Undirected,1
+Johan Friis,Karl,Undirected,1
+Jørgen,Karl,Undirected,1
+Jørgen,Vizir,Undirected,1
+Vizir,heisz,Undirected,1
+Johan Friis,Jørgen,Undirected,1
+Jørgen,Kong Frants,Undirected,1
+Anna,Jørgen Lykke,Undirected,4
+Hans Birken,Hans Jespersen,Undirected,1
+Bertel Lollik,Hans Birken,Undirected,1
+Hans Bertelsen,Hr. Jørgen,Undirected,1
+Hr. Jørgen,hans Falkneri,Undirected,1
+Hans Jespersen,hans Falkneri,Undirected,1
+Dorothea,Kong Frederik,Undirected,1
+Borchorst,Jørgen Lykke,Undirected,2
+Jørgen Lykke,Sophie Lykke,Undirected,2
+Eigil,Hans Jespersen,Undirected,2
+Bertel,age,Undirected,1
+Axel Walkendorf,Jørgen Lykke,Undirected,1
+Axel Walkendorf,Pedersdatters,Undirected,1
+Herluf Trolle,Sophie Pedersdatter Almagt,Undirected,1
+Herluf,Sophie,Undirected,2
+Davren,Jørgen,Undirected,1
+Jørgen,Sophie,Undirected,1
+Anna Eders,Erland,Undirected,1
+Anna,Jørgen,Undirected,3
+Herluf Trolle,Jørgen,Undirected,1
+Kong Frederik,Sophie,Undirected,1
+Oluf,Sophie Pedersdatter,Undirected,1
+Oluf,Sanden,Undirected,1
+Gud,Oluf Mouritsen,Undirected,2
+Axel,Ejler,Undirected,2
+Dorothea,Ejler,Undirected,1
+Christoffer,Oluf,Undirected,1
+Anna,Fuchs,Undirected,1
+Hr. Jørgen,Oluf,Undirected,1
+Axel,lee,Undirected,1
+Erland,Samson,Undirected,7
+Herman Oldrok,Samson,Undirected,1
+Herman,Oldrok,Undirected,1
+Erland,Herman Oldrok,Undirected,1
+Christoffer von Festenberg,Samson,Undirected,1
+Borchort von Pappenheim,Christoffer von Festenberg,Undirected,1
+Axel,Birgitte Gjøe,Undirected,1
+Axel Walkendorf,Samson,Undirected,1
+Axel Walkendorf,Oluf Mouritsen,Undirected,1
+Herluf Trolle,Oluf,Undirected,1
+Ejler,Herluf,Undirected,1
+Herluf,Steen,Undirected,1
+Edele Hardenberg,Sophie Lykke,Undirected,1
+Edele,Jomfru Anna,Undirected,1
+Edele,Frants,Undirected,7
+Anna,Frants,Undirected,6
+Ejler Hardenberg,Taus,Undirected,1
+Frants Bilde,Herluf Trolle,Undirected,1
+Axel Walkendorf,Edele,Undirected,1
+Anna,Eigil,Undirected,1
+Anna,hei,Undirected,1
+Herluf,Herluf Trolle,Undirected,1
+Anna,Axel Valkendorf,Undirected,1
+Erland,Sophie Lykke,Undirected,4
+Oluf,Samson,Undirected,1
+Gud,Herren,Undirected,1
+Anna Corfitsdatter,Sophie,Undirected,1
+Annas Sauvegarde,Axel Walkendorf,Undirected,1
+Annas Sauvegarde,Oluf Mouritsen,Undirected,1
+Oluf Mouritsen,Samson,Undirected,1
+Axel,Sophie Lykke,Undirected,1
+Axel,Samson,Undirected,1
+Axel,Jørgen,Undirected,1
+Axel,Sophie,Undirected,1
+Axel Henningsen,Sophie Lykke,Undirected,1
+Anna Corfitsdatter,Axel Henningsen,Undirected,1
+Ejler,Herluf Trolle,Undirected,1
+Glenten,Jørgen Lykke,Undirected,1
+Anna Hardenberg,Glenten,Undirected,1
+Herluf,Oluf karsk,Undirected,1
+Herluf,Oluf,Undirected,1
+Birgitte,Edele,Undirected,1
+Edele,Herluf,Undirected,1
+Dorothea,Steenfalke,Undirected,1
+Anna,Herluf Trolle,Undirected,1
+Anna,høire,Undirected,1
+Sophie,høire,Undirected,1
+Jørgen,Lykke,Undirected,1
+Høibords,Johan Friis,Undirected,1
+Axel Walkendorf,Mosekonen,Undirected,1
+Frants,Oluf,Undirected,1
+Axel,Bilde,Undirected,1
+Axel Walkendorf,Frants,Undirected,1
+Johan Friis,aarle,Undirected,1
+Herluf Trolle,Holger Rosenkrantz,Undirected,4
+Hans Spiegel,Naades,Undirected,1
+Hans Spiegel,Jørgen Lykke,Undirected,2
+Hans,Jørgen Lykke,Undirected,1
+Hans,Jørgen,Undirected,1
+Hans Spiegel,Holger Rosenkrantz,Undirected,1
+Gud,Herluf Trolle,Undirected,2
+Holger Ottesen,Jørgen Lykke,Undirected,1
+Holger Rosenkrantz,Jørgen Pedersen,Undirected,1
+Jørgen Pedersen,Sophie,Undirected,1
+Frøken Renata,Herluf,Undirected,1
+Holger,Jørgen Lykke,Undirected,2
+Anna Corfitsdatter,Holger,Undirected,1
+Hans Spiegel,Johan Friis,Undirected,1
+Herluf Trolle,Johan Friis,Undirected,1
+Ejler Hardenberg,Jørgen Lykke,Undirected,2
+Anna Corfitsdatter,Holger Rosenkrantz,Undirected,1
+Anna,Johan,Undirected,1
+Katharina Steenbock,Kong Gøste,Undirected,1
+Katharina Steenbock,Margaretha Lejonhufvud,Undirected,1
+Johan Friis,Kong Gøste,Undirected,1
+Gustav Vasa,Johan Friis,Undirected,1
+Birgitte Gjøe,Kong Christian,Undirected,2
+Birgitte,Gemal,Undirected,1
+Birgitte,Guds Thrones,Undirected,1
+Dorothea,Gud,Undirected,1
+Anna Corfitsdatter,Jesus Christus,Undirected,1
+Birgitte,Jesus Christus,Undirected,1
+Ejler,Jørgen Lykke,Undirected,1
+Anna,Erik Corfitsen,Undirected,1
+Anna,August,Undirected,1
+Anna Corfitsdatter,August,Undirected,1
+Anna,grant,Undirected,1
+Anna,Christen,Undirected,1
+Dorothea,Evas,Undirected,1
+Ejler Hardenberg,Jomfru Anna,Undirected,1
+Ejler Hardenberg,Kong Frederik,Undirected,1
+Anna Corfitsdatter,Jørgen Lykke,Undirected,1
+Ejler Hardenberg,grant,Undirected,1
+Dorothea,Hans Spiegel,Undirected,1
+Hans Spiegel,Kong Frederik,Undirected,1
+Ejler Eriksen,Sophie Lykke,Undirected,1
+Hans Spiegel,Roes,Undirected,1
+Hr. Ejler,Roes,Undirected,1
+Hans,Lykke,Undirected,1
+Axel,Silke,Undirected,1
+Axel Walkendorf,Oluf,Undirected,3
+Edele,Sophie Pedersdatter,Undirected,1
+Bilde,Edele,Undirected,2
+Axel Walkendorf,Kaardestød,Undirected,1
+Frants,Kaardestød,Undirected,1
+Axel,Dandsen,Undirected,1
+Holger Ottesen,Johan Friis,Undirected,1
+Gud,Holger Ottesen,Undirected,1
+Ejler Hardenberg,Holger Rosenkrantz,Undirected,1
+Aakjær,Birgitte Gjøe,Undirected,1
+Ejler Hardenberg,Unaadens,Undirected,1
+Frants Bilde,Unaadens,Undirected,1
+Frants Bilde,hans Been,Undirected,1
+Axel Walkendorf,hans Been,Undirected,1
+Axel Walkendorf,Glavind,Undirected,1
+Daniel Rantzov,Glavind,Undirected,1
+Aakjær,Anna Hardenberg,Undirected,1
+Anna,Dronning Dorothea,Undirected,1
+Birgitte,Voxlysenes,Undirected,1
+Farbroder,Faster,Undirected,1
+Faster,Mattrup,Undirected,1
+Annalil,Frederik,Undirected,1
+Frederik,Margrethe,Undirected,2
+Birgitte Gjøe,Samson,Undirected,1
+Anna,Hans Schilchen,Undirected,5
+Birgitte,Birgitte Gjøe,Undirected,1
+Frøken Sophia,Gud,Undirected,2
+Gud,signe,Undirected,3
+Erik Ejlersen,signe,Undirected,1
+Hans Skovgaard,P.,Undirected,1
+Elisabeth,Hans Skovgaard,Undirected,1
+Birgitte Gjøe,Frøken Sophia,Undirected,1
+Birgitte Gjøe,Margrethe,Undirected,1
+Anna,Margrethe,Undirected,2
+Margrethe,Sophie,Undirected,1
+Birgitte Gjøe,Ida Ulfstand,Undirected,2
+Falk Gjøes,Ida Ulfstand,Undirected,1
+Falk Gjøes,Ida,Undirected,1
+Elisabeth,Margrethe,Undirected,1
+Elisabeth,Sophia,Undirected,1
+Gud,Sophia,Undirected,2
+Edele,Ida,Undirected,1
+Birgitte Gjøe,Jesus Christus,Undirected,1
+Birgitte Gjøe,Elisabeth,Undirected,2
+Frederik,Hans Mikkelsens,Undirected,1
+Hans Mikkelsens,Samson,Undirected,1
+Holger Rosenkrantz,hans Been,Undirected,1
+Anna,Hjertenskjære,Undirected,1
+Anna,Carolus de Mornay,Undirected,1
+Carolus de Mornay,Daniel Rantzov,Undirected,1
+Daniel Rantzov,Hak Ulfstand,Undirected,1
+Hak Ulfstand,Moritz,Undirected,1
+Daniel Rantzov,Moritz,Undirected,1
+Daniel Rantzov,Gud,Undirected,2
+Holger Rosenkrantz,hiin,Undirected,1
+Daniel Rantzov,hiin,Undirected,1
+Axel Walkendorf,Daniel Rantzov,Undirected,2
+Axel Walkendorf,Gud,Undirected,1
+Friis,Gud,Undirected,2
+Gud,Jerichos,Undirected,1
+Kong Frederik,Oluf Krognos,Undirected,1
+Jerichos,Oluf Krognos,Undirected,1
+Faster,Samson,Undirected,1
+Birgitte Gjøe,Bo,Undirected,1
+Bo,Samson,Undirected,1
+Birgitte Gjøe,Oluf,Undirected,1
+Peblinge,Sophie,Undirected,1
+Gud,Peblinge,Undirected,1
+Birgitte Mogensdatter,Edele,Undirected,1
+Bilde,Sophie Lykke,Undirected,1
+Gud,Margrethe,Undirected,1
+Anna Corfitsdatter,Dronning Dorothea,Undirected,1
+Dronning Dorothea,Kong Frederik,Undirected,1
+Edele,Kong Frederik,Undirected,2
+Edele,Sophie,Undirected,1
+Anna,Edele Hardenberg,Undirected,1
+Aakjær,Anna,Undirected,2
+Edele Hardenberg,Frants Bilde,Undirected,2
+Arne,Gud,Undirected,1
+Edele,Erik,Undirected,1
+Anders,Erik,Undirected,1
+Anders,Torben,Undirected,3
+Edele,Frantz,Undirected,1
+Anders,Edele,Undirected,1
+Erik,Torben,Undirected,1
+Edele,Gud,Undirected,4
+Anders Sørensen Vedel,Edele,Undirected,1
+Frøken Sophie,Snoghøi,Undirected,1
+Anna Corfitsdatter,Oluf Mouritsen,Undirected,1
+Edele,Oluf,Undirected,2
+Anna taug,Edele,Undirected,1
+Anna,siig,Undirected,1
+Oluf Mouritsen,siig,Undirected,1
+Edele,Oluf høit,Undirected,1
+Gud,Oluf høit,Undirected,1
+Edele,Hornelands,Undirected,1
+Dorothea,Jørgen,Undirected,1
+Edele,Jesus,Undirected,1
+Gud,Kong Frederik,Undirected,2
+Gud,Holger Rosenkrantz,Undirected,1
+Holger Rosenkrantz,Karen Gyldenstjerne,Undirected,1
+Anna,Karen Gyldenstjerne,Undirected,1
+Gud,Holger,Undirected,1
+Anna,Karen,Undirected,4
+Frøken Sophie,Holger Rosenkrantz,Undirected,1
+Elisabeth,Frøken Sophie,Undirected,1
+Holger Rosenkrantz,Jørgen,Undirected,2
+Birgitte Gjøe,Holger Rosenkrantz,Undirected,2
+Holger Rosenkrantz,Sigil,Undirected,1
+Anna,Sigil,Undirected,1
+Holger Rosenkrantz,Hønborg,Undirected,1
+Edele,Karen Gyldenstjerne,Undirected,1
+Edele,Holger Rosenkrantz,Undirected,1
+Holger Rosenkrantz,Karen,Undirected,1
+Holger Rosenkrantz,loe,Undirected,1
+Dorothea,Karen Gyldenstjerne,Undirected,1
+Anna,Elisabeth,Undirected,4
+Holger Rosenkrantz,aarle,Undirected,1
+Anna,Spange,Undirected,1
+Anna,Sophia,Undirected,1
+Oluf,Oluf Krognos,Undirected,1
+Anna,Jørgen Rosenkrantz,Undirected,1
+Anna,Erland vaer,Undirected,1
+Erland,Jomfru Anna,Undirected,1
+Dorothea,Erik Hardenberg,Undirected,1
+Oluf Krognos,Skjold,Undirected,1
+Birgitte Gjøe,Edele Hardenberg,Undirected,1
+Edele Hardenberg,Kong Frederik,Undirected,1
+Anna Hardenberg,Corfits Grubbe,Undirected,1
+Corfits Grubbe,Palle Grubbe,Undirected,1
+Anna,Palle Grubbe,Undirected,1
+Anna Rosenkrantz,Margrethe,Undirected,1
+Anna Rosenkrantz,Edele Hardenberg,Undirected,1
+Edele Hardenberg,Helvig,Undirected,1
+Erik Ottesen Rosenkrantz,Helvig,Undirected,1
+Anna,Corfits,Undirected,2
+Corfits,Marie,Undirected,1
+Anna Hardenberg,Anna Rosenkrantz,Undirected,1
+Anders Sørensen Vedel,Gud,Undirected,2
+Anna,Axel Henningsen,Undirected,1
+Anders Vedel,Axel,Undirected,1
+Anders,Erik Bildes,Undirected,1
+Anders Vedel grant,Erik Bilde,Undirected,1
+Erik Bilde,Jørgen Rud,Undirected,1
+Erik,Jørgen Rud,Undirected,1
+Erik,Jørgen,Undirected,1
+Anders Vedel,Jørgen,Undirected,1
+Anders Vedel,Axel Henningsen,Undirected,1
+Axel Henningsen,Gud,Undirected,1
+Anders Vedel,Gud,Undirected,4
+Anders Vedel,Friis,Undirected,1
+Anders Vedel,Kong Frederik,Undirected,2
+Christen,Niels Hemmingsens,Undirected,1
+Anders Vedel,Anna,Undirected,1

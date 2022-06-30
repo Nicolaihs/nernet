@@ -1,0 +1,735 @@
+source,target,timestamp
+Christian,Sverig,1
+Christian,Keiseren,1
+Gustav Adolfs,Keiseren,1
+Axel Oxenstjerne,Gustav Adolfs,1
+Chrisfian,Merkurius,2
+Fama,Merkurius,2
+Ceres,Fama,2
+Ceres,Julius Cæsars,2
+Alexander den,Julius Cæsars,2
+Chrisfian den,Frederik Urne,3
+Frederik Urne,Lehnsmand,3
+Chrisfian Fris,Lehnsmand,3
+Chrisfian Fris,Frantz Rantzau,3
+Chrisfian Tomæssen Sehesfed,Frantz Rantzau,3
+Anders Bilde,Chrisfian Tomæssen Sehesfed,3
+Anders Bilde,Karlstein,3
+Karlstein,Solms,3
+Christian Fris,Frantz Rankzau,4
+Anders Bilde,Christian Fris,4
+Anders Bilde,Frantz Rankzau,4
+Frantz Rankzau,Kirsten Munks,4
+Anna Kathrine,Kirsten Munks,4
+Gefion,Rankzaus,5
+Gefion,Sverig,5
+Gustav Adolf,Sverig,6
+Elisabeth Augusta,Gustav Adolf,7
+Rankzau,Sverig,8
+Frederik Urne,Thurn,9
+Solm,Thurn,9
+Fegræus,Sverig,10
+Holk,Wollenstem,11
+Johan den,Otto Ludvig,13
+Johan den,Otto Ludvig,13
+Christian den,Otto Ludvig,13
+Christian den,nedersachsifle,13
+Christian den,nedersachsifle,13
+Kirsten,Munk,14
+Kong Valdemars,Munk,14
+Kong Valdemars,Ludvig Munk,14
+Lehnsmand,Ludvig Munk,14
+Lehnsmand,Marsvin,14
+Kirsten Munk,Marsvin,14
+Christian den,Kirsten Munk,14
+Kirsten,Taflet,15
+Kai Lykkes,Lykke,21
+Christian Fris,Kai Lykkes,21
+Christian Fris,Fris,21
+Karen,Kirsten,22
+Karen,Rothkirch,22
+Jens Munk,Karen Munks,25
+Jens Munk,Karen Munks,25
+Frederik den,Jens Munk,25
+Solm,Thurn,27
+Munk,Solm,27
+Christian den,Munk,28
+Christian den,Thurn,28
+Munk,Thurn,28
+Munk,Rensund,29
+Frederik Quintzov,Lykke,30
+Frederik Quintzov,Pernille,30
+Karen Munk,Pernille,30
+Christian,Karen Munk,30
+Christian,Rantzau,30
+Rantzau,Rothkirch,30
+Christian den,Henrik Ramel,32
+Karen Munk,Rothkirch,35
+Jens Boltmester,Karen Munk,35
+Jens Boltmester,Lykke,35
+Gud,Lykke,35
+Henrik,Karen Munk,36
+Ramel,Vams,39
+Henrik Ramel,Jens Munk,40
+Henrik Ramel,Ramel,40
+Karen,Ramel,40
+Henrik Ramel,Karen Munk,41
+Karen Munk,Ramel,49
+Henrik Ramel,Karen,50
+Henrik Ramel,Kaptain Munk,50
+Kaptain Munk,Karen,50
+Anna Kathrina,Karen,50
+Anna Kathrina,Sophia,50
+Eleonora Kristine,Sophia,50
+Eleonora Kristine,Valdemar,50
+Sophia Hedvig,Valdemar,50
+Ernst Casimir,Sophia Hedvig,50
+Ernst Casimir,Karen “,50
+Dorthe,Karen “,50
+Dorthe,Karen,50
+Dorthe,Karen,50
+Dorthe,Jomfru Munk,50
+Jomfru Munk,Karen,50
+Dorthe,Karen,50
+Stralfund,Wallenstein,51
+Christian den,Wallenstein,51
+Christian den,Stralsund,51
+Admiral Henrik Vind,Stralsund,51
+Admiral Henrik Vind,Markvard Rankzau,51
+Christian den,Markvard Rankzau,51
+Karen,Karen Munk,53
+Kaptain Munk,Karen,54
+Karen,Munk,54
+Marie,Otto,57
+Jens Boltmester,Otto,65
+Jens,Otto,65
+Munk,hans Kaarde,66
+Karen,Munk,68
+Karen,Munk,68
+Dorthe,Kirsten Munk,69
+Kirsten Munk,Vibeke Kruse,69
+Dorthe,Vibeke Kruse,69
+Dorthe,Marie,69
+Marie,Vibeke,69
+Marsvin,Vibeke,69
+Dorthe,Vibeke,70
+Anna Jacob Mikelsøn,Dorthe,71
+Jens Munk,Kirsten Munk,76
+Kirsten Munk,Munk,78
+Kirsten,Munk,78
+Kaptain Munk,Rothkirch,80
+Kirsten Munk,Munk,82
+Karen,Kirsten Munk,82
+Karen,Munk,82
+Marsvin,Munk,82
+Christian den Fjerdes,Marsvin,82
+Christian den Fjerdes,Jens Munk,82
+Jens Munk,Karen,82
+Munk,Rothkirch,88
+Munk,Rothkirch,89
+Jens Munk,Rothkirch,89
+Jomfru Munk,Karen,91
+Jomfru Munk,Karen,91
+Jacob Mikelsøns,Karen,91
+Anna,Jacob Mikelsøns,91
+Anna,Jomfru Munk,91
+Dorthe,Jomfru Munk,91
+Henrik Ramel,Rothkirch,92
+Henrik Ramel,Rothkirch,92
+Kaptain Munk,Rothkirch,92
+Anna Jacob,Karen Munk,94
+Karen,Ramel,95
+Henrik,Ramel,95
+Henrik,Karen,95
+Christian Fris,Karen,95
+Munk kjær,Rothkirch,96
+Munk,Munk kjær,96
+Munk,Rothkirch,98
+Anna Jacob,Karen Munk,99
+Anna Jacob,Karen,99
+Anna Jacob,Karen,103
+Anna Jacob,Karen,105
+Anna Jacob,Dorthe,105
+Dorthe,Karen Munk,105
+Dorthe,Kirsten Munk,106
+Dorthe,Karen,108
+Dorthe,Karen,108
+Dorthe,Karen,108
+Dorthe,Karen,108
+Gud,Karen,108
+Christian den,Wallenstein,109
+Dorthe,Karen Munk,110
+Anna Jacob,Karen Munk,110
+Anna Jacob,Dorthe,112
+Dorthe,Karen,112
+Dorthe,Karen,112
+Dorthe,Karen Munk,112
+Lykke,Thronarving,119
+Dorthe,Karen Munk,120
+Anna Jacob,Karen Munk,120
+Anna Jacob,Dorthe,122
+Anna Jacob,Dorthe,122
+Dorthe,Karen,123
+Dorthe,Karen,123
+Karen,Vibeke,125
+Kaptain Munk,Vibeke,128
+Else,Karen,135
+Else,Karen,135
+Karen,Moer,135
+Else,Moer,135
+Karen,Munk,136
+Karen,Munk,136
+Karen,Seir,141
+Karen,Karen Munk,143
+Jomfru Karen,Møer,148
+Else,Møer,148
+Jens Munk,Karen,149
+Gud,Karen,150
+Gud,Jesus,150
+Else,Moer,151
+Else,Munk,151
+Karen,Munk,151
+Frantz Rantzau,Karen Munk,152
+Frantz Rantzau,Rothkirch,152
+Frederik Urne,Rothkirch,152
+Frederik Urne,Henrik Ramel,152
+Henrik Ramel,Karen,152
+Kirsten Munk,Rantzau,153
+Frederik Urne,Kirsten Munk,153
+Frederik Urne,Henrik Ramel,153
+Anna Kathrine,Karen Munk,156
+Karen Munk,Rantzau,156
+Frederiks,Ten Lærdes,157
+Ten Lærdes,Væxt,157
+Ole Vorm,Torfæus,158
+Chrisfian,Torfæus,158
+Chrisfian,Frederik,158
+Chrisfian,Frederik,158
+Christian,Karen Munk,160
+Anna Jacob,Karen Munk,160
+Frederik,Karen Munk,162
+Ramel,grant,164
+Karen,grant,164
+Karen,Karen Munk,164
+Henrik Ramel,Karen Munk,164
+Henrik Ramel,Karen,164
+Henrik Ramel,Karen Munk,165
+Henrik Ramel,Karen Munk,165
+Karen,Karen Munk,166
+Karen Munk,Ramel,166
+Karen Munk,Ramel,166
+Karen,Karen Munk,166
+Frederik,Henrik Ramel,169
+Frederik,Kong Christians,172
+Karen Munk,Kong Christians,172
+Geisflig,Karen Munk,172
+Geisflig,Kirsten Munk,172
+Kirsten Munk,Thronfolgeren,172
+Rosenkrans,Thronfolgeren,172
+Ramel,Rosenkrans,172
+Frederik,Ulrik,179
+Ulrik,fransfe Krone,179
+Ulrik,fransfe Krone,179
+Frederik,Ulrik,179
+Chrisfian,Frederik,181
+Frederik,Ulrik,181
+Jens Munk,Kaptain Munk,183
+Jens Munk,Munk,183
+Henrik Ramel,Ramel,184
+Chrisfian,Ramel,184
+Henrik Ramel,Karen,190
+Karen,Ramel,191
+Jens Munk,Stralsund,193
+Leslie,Stralsund,193
+Kong Chrisfian,Leslie,193
+Kong Chrisfian,Volgast,193
+Volgast,Wallenstein,193
+Chrisfian,Wallenstein,193
+Chrisfian,Gustav Adolf,193
+Gustav Adolf,Jens Boltmester,193
+Jens Boltmester,Kirsten Munk,193
+Chrisfian,Kirsten Munk,193
+Chrisfian,Marie,193
+Karen Munk,Marie,193
+Karen Munk,Munk,193
+Kirsten Munk,Munk,193
+Karen,Kirsten Munk,193
+Anna Jacob,Rosenkrans,195
+Karen,Ramel,198
+Christian bi,Sophie,200
+Christian bi,Sophie,200
+Anders Sørensen,Sophie,200
+Sophie,Ulrik,201
+Elisabeth,Ulrik,201
+Elisabeth,Frederik den,201
+Frederik den,Niels Kaas,201
+Christian den,Munk,202
+Karen,Karen Munk,203
+Karen,Page,203
+Karen,Sehested,204
+Claus Sehested,Sehested,205
+Claus Sehested,Tyge Kruse,205
+Enevold Kruse,Tyge Kruse,205
+Enevold Kruse,Karen Munk,205
+Gud,Karen,209
+Gud,Munk,209
+Karen,Munk,209
+Anna Katharina,Karen,209
+Anna Katharina,Karen Munk,209
+Karen,Sehested,211
+Karen,Sehested,212
+Moer Else,Sehested,212
+Karen,Sehested,214
+Sehested,Tyge Kruse,215
+Kruse,Sehested,218
+Jørgen Seefeldt,Kruse,218
+Jørgen Seefeldt,Karen Munk,218
+Karen Munk,Karen Sehested,220
+Karen Munk,Tyge Kruse,220
+Jørgen Seefeldt,Tyge Kruse,220
+Jørgen Seefeldt,Karen Sehested,220
+Jørgen Seefeldt,Sehested,221
+Karen Munk,didhen,222
+Frederik,Krist,225
+Frederik,Ulrik,225
+Henrik Ramel,Karen Munk,228
+Henrik Ramel,Karen,230
+Gud,Levvel,233
+Gustav Adolf,Rhingreven,234
+Anna Katharina,Vibeke Kruse,235
+Anna Jacob,Henrik Ramel,236
+Anna Jacob,Jomfru Munk,236
+Jomfru Munk,Ramel,236
+Frederik,Ulrik,237
+Frantz Rankzau,Ulrik,237
+Chrisfian Pentz,Frantz Rankzau,237
+Chrisfian Pentz,Henrik Ramel,237
+Kirsten,Marsvin,247
+Christian,Kirsten,249
+Ludvig Munk,Marsvin,251
+Gud,Kirsten Munk,252
+Gud,Kristus,252
+Anna,Gud,253
+Kirsten Munk,Kong Christians,257
+Otto,Rhingreven,259
+Ellen Marsvin,Kirsten,260
+Christian den,Marsvin,261
+Ellen Marsvin,Marsvin,262
+Ellen Marsvin,Vibeke Kruse,265
+Ellen Marsvin,Vibeke Kruse,265
+Marie,Vibeke Kruse,265
+Kirsten Munk,Marie,265
+Kirsten Munk,Vibeke Kruse,265
+Vibeke,Vibeke Kruse,265
+Henrik Ramel,Vibeke,265
+Christian,Henrik Ramel,265
+Jomfru Karen Munks,Monsieur Ramel,272
+Karen Munk,Monsieur Ramel,273
+Marsvin,Vibeke,282
+Kirsten Munk,Vibeke,282
+Kirsten Munk,Marsvin,282
+Marsvin,Vibeke,282
+Ellen Marsvin,Vibeke,287
+Kirsten Munk,Vibeke Kruse,288
+Gustav Adolf,Keiseren,290
+Christian den,Keiseren,290
+Christian den,Keiser Ferdinand den Anden,290
+Johan Adler Salvius,Keiser Ferdinand den Anden,290
+Johan Adler Salvius,Johan Sparre,290
+Gustav Adolf,Johan Sparre,290
+Christian,Gustav Adolf,290
+Gustav Adolf,Kong Christians,291
+Gustav Adolf,Kong Christian,291
+Jørgen Scheel,Kong Christian,291
+Claus Daa,Jørgen Scheel,291
+Christian Thomæsen,Claus Daa,291
+Christian Thomæsen,Gustav Adolf,291
+Axel Oxenstjerne,Gustav Adolf,291
+Axel Oxenstjerne,Hans høie,291
+Gabriel Oxenstjerne,Hans høie,291
+Gabriel Oxenstjerne,Johan Salvius,291
+Lundstrøm,Seir,292
+Gustav Adolf,Keiseren seirer,293
+Keiseren,Wallenstein,294
+Gustav Adolf,Wallenstein,294
+Gusfav Adolf,dansfe,296
+Kong Gusfav Adolf,Marie Eleonora,297
+Gusfav Adolf,Kong Christian den Fjerde,298
+Christian,Gusfav Adolf,301
+Christian den,Sverig,304
+Christian,Keiseren,309
+Christian,Jørgen Skeel,311
+Axel Oxenstjerne,Gustav Adolf,312
+Christian,Kirsten Munk,313
+Frederik,Kirsten Munk,313
+Frederik,Ulrik,313
+Rantzau,Ulrik,313
+Rantzau,Rothkirch,313
+Kirsten,Rothkirch,313
+Kirsten,Munk,313
+Gustav Adolf,hans,318
+Frederik,Gustav Adolf seiret,319
+Gustav Adolf,Sverig,320
+Frederik,Keiseren,321
+Christian den,Gud,323
+Gud,Kirsten,331
+Christian,Henning Arnisenius,335
+Henning Arnisenius,Marie,335
+Kong Christian,Marie,335
+Kirsten Munk,Marsvin,339
+Chrisfian Jensen,Marsvin,339
+Anna Katharina,Gustav Adolf,340
+Gustav Adolf,Ludvig Rasf,340
+Gustav Adolf,Kirsten Munk,341
+Fegræus,Gustav Adolf,341
+Fegræus,Gustav Adolf,341
+Chrisfian den,Gustav Adolf,341
+Chrisfian den,Gustav Adolf,341
+Gustav Adolf,Kirsfen,341
+Anna Katharina,Kirsfen,341
+Anna Katharina,Sverig,341
+Gustav Adolf,Kirsfen Munk,342
+Anna Katharina,Gustav Adolf,342
+Anna Katharina,Christian den,342
+Christian den,Morgan,342
+Danebrog,Morgan,342
+Danebrog,Ed,342
+Ed,Slammersdorf,342
+Chrisfian Jensen,Gud,343
+Doklor,Peter Paynk,347
+Christian,Frederik Urne,351
+Dorthe,Frederik Urne,351
+Henrik Ramel,Reis,355
+Kong Christian,Marsvin,359
+Kong Christian,Vibeke Kruse,359
+Ellen,Vibeke Kruse,359
+Fris,Ulfeldt,360
+Kirsten Munk,Kjerstrup,362
+Kirsten Munk,Valdemar Christian,362
+Christian,Keiseren,369
+Christian,Keiseren,369
+Vibeke,Vibeke Kruse,370
+Vibeke,Vibeke Kruse,370
+Gud,Jesper Brochmand,377
+Gud,Vibeke,379
+Gud,Herren,379
+Ellen Marsvin,Jørgen Vind,388
+Ellen Marsvin,Vibeke Kruse,389
+Vibeke,Vibeke Kruse,389
+Ellen Marsvin,Vibeke,394
+Ellen Marsvin,Vibeke,394
+Kirsten Munk,Vibeke Kruse,397
+Vibeke,Vibeke Kruse,397
+Kirsten Munk,Vibeke,397
+Ellen Marsvin,Kirsten Munk,397
+Christian,Ellen Marsvin,397
+Christian,Henrik Ramel,397
+Frederik Urne,Henrik Ramel,397
+Christian den,Frederik Urne,397
+Christian den,Lykke,397
+Jens Boltmester,Jørgen Vind,398
+Jens Boltmester,Urne,398
+Gustav Adolf,Kirsten Munk,409
+Fegræus,Thurn,414
+Chrisfian,Thurn,414
+Jens Munk,Kirsten Munk,417
+Karen,Rhingreven,418
+Karen,Ulks,418
+Christian,Rhingreven,420
+Frederik Urne,Rhingreven,420
+Johan Reinhard,Magdalena,422
+Grev Thurns,Thurn,423
+Kirsten Munk,Paynk,426
+Kirsten Munk,Monstro,430
+Gud,Jomfru Marie,434
+Kirsten Munk,Marie,435
+Karen Munk,Kirsten Munk,435
+Karen Munk,Sehested,451
+Karen Munk,Kirsten Munk,454
+Karen Munk,Kirsten Munk,454
+Jens Munk,kjær,455
+Karen,kjær,455
+Christian den,Karen,455
+Christian den,Kirsten Munk,455
+Kirsten Munk,Sophie,455
+Karen Munk,Sophie,455
+Henrik,Karen Munk,456
+Karen Sehested,høifornemme,457
+Henrik Ramel,Karen Munk,459
+Frederik den,Henrik Ramel,459
+Frederik den,Karen Munk,459
+Henrik Ramel,Karen Munk,459
+Henrik Ramel,Karen Munk,459
+Henrik Ramel,Karen Munk,459
+Karen Munk,Karen Sehested,460
+Karen Munk,Monsieur Ramel,460
+Henrik Ramel,Karen Munk,461
+Karen Munk,Karen Sehested,462
+Karen Sehested,Monsieur Ramel,462
+Ramel,nn,463
+Karen Munk,nn,463
+Karen,Ramel,464
+Henrik Ramel,Karen,464
+Hans Overberg,Henrik Ramel,464
+Hans Overberg,Henrik Ramel,464
+Henrik Ramel,Karen,464
+Karen,Palle Rosenkrans,464
+Henrik Ramel,Krist give,465
+Krist give,Lehnsmand,465
+Gud,Karen Sehested,468
+Karen Munk,Overberg,469
+Hans Overberg,Henrik Ramel,470
+Henrik Ramel,Moer Else,470
+Karen Munk,Moer Else,470
+Karen Munk,Overberg,470
+Karen Munk,Overberg,470
+Henrik Ramel,Karen Munk,472
+Karen Sehested,hnn,483
+Christian,Karen Munk,484
+Christian,hnn,484
+Henrik,hnn,484
+Else,Fogdens,486
+Fogdens,Karen Munk,486
+Elfe,Karen Munk,486
+Elfe,Fogden,486
+Fogden,Karen,486
+Elfe,Karen,486
+Elfe,Karen,486
+Monsieur Henrik Ramel,Nei,492
+Monsieur Henrik Ramel,Sehested,492
+Naades,Sehested,492
+Christian,Karen,493
+Christian,Henrik Ramel,493
+Henrik,Karen,499
+Gud,Henrik,501
+Karen,Karen Munk,503
+Henrik Ramel,Karen Sehesfed,505
+Henrik Ramel,Uveir,505
+Marsvin,fligt,506
+Karen,Marsvin,506
+Kirsten Munk,Marsvin,507
+Karen Sehested,Marsvin,507
+Henrik Ramel,Karen Sehested,507
+Henrik Ramel,Karen Munk,512
+Karen Munk,Monsieur Ramel,523
+Gud,Ramel,528
+Henrik Ramel,Sehested,531
+Christian,Kirsten Munk,532
+Kirsten Munk,Marsvin,532
+Marsvin,Vibeke Kruse,532
+Vibeke,Vibeke Kruse,532
+Ellen Marsvin,Vibeke,532
+Karen Munk,Kirsten Munk,533
+Gustav Adolf,Kirsten Munk,533
+Gustav Adolf,dansf,533
+Gustav Adolf,dansf,533
+Christian,Gustav Adolf,533
+Christian,Elsfer,533
+Elsfer,Kirsten Munk,533
+Jomfru Marie,Kirsten Munk,534
+Fegræus,Kong Christian,535
+Kirsten Munk,Sverig,537
+Kirsten Munk,Kong Christian,537
+Kong Christian,Sverig,537
+Gusfav Adolf,Kong Christian,539
+Fegræus,Kirsten Munk,543
+Fegræus,Gusfav Adolf,543
+Fegræus,Gusfav Adolf,543
+Kirsten Munk,Sverig,544
+Arnens,Henrik Ramel,545
+Arnens,Henrik Ramel,545
+Ramel,Vibeke Kruse,546
+Kaptain Jens Munks,Ramel,546
+Henrik Ramel,Kaptain Jens Munks,546
+Henrik Ramel,Vibeke Kruse,546
+Henrik Ramel,Rhingreven,548
+Braadden,Ramel,553
+Frederik Gynther,Wallenstein,555
+Reinhard von Walmerode,Wallenstein,555
+Gynther,Reinhard von Walmerode,555
+Gynther,Wallenstein,555
+Gustav Adolf,Wallenstein,557
+Gustav Adolf,Keiseren,557
+Keiseren,Svensferkongens,557
+Gustav Adolf,Svensferkongens,557
+Gustav Adolf,Ramel,558
+Chrisfian den,Gynther,562
+Gynther,Keiseren,562
+Elbtold,Keiseren,562
+Elbtold,Gynther,562
+Gynther,Wallenstein,562
+Keiseren,Wallenstein,562
+Gynther,Keiseren,562
+Gynther,Henrik Ramel,566
+Gustav Adolf,Monsieur Ramel,568
+Gustav Adolf,Monsieur Ramel,568
+Gustav Adolf,Thronarving,568
+Otto Ludvig,Thronarving,568
+Henrik Ramel,Karen Munk,571
+Henrik,Henrik Ramel,573
+Henrik Ramel,Ramel,574
+Tillys,Wallenstein,575
+Gustav Adolf,Wallenstein,575
+Bugislav,Henrik Ramel,576
+Henrik Ramel,Sverig,576
+Braunsberg,Sverig,576
+Braunsberg,Pillau,576
+Pillau,Snildhed,576
+Gustav Adolf,Ramel,577
+Kong Christian,Ramel,578
+Gustav Adolf,Kong Christian,578
+Gustav Adolf,Ramel,579
+Christian den Fjerde,Gustav Adolf,579
+Christian den Fjerde,Ramel,579
+Gustav Adolf,Otto Ludvig,580
+Gustav Adolf,Ramel,581
+Gustav Adolf,Henrik Ramel,587
+Gustav Adolf,Ramel,587
+Gustav Adolf,Ramel,588
+Gustav Adolf,Torstenson,588
+Gustav Horn,Torstenson,588
+Gustav Horn,Johan Ban6r,588
+Gustav Adolf,Monsieur Ramel,589
+Gustav Adolf,Ramel,590
+Marsvin,Vibeke Kruse,591
+Valdemar,Vibeke Kruse,591
+Ellen Marsvin,Valdemar,591
+Ellen Marsvin,Vibeke Kruse,591
+Ellen,Vibeke Kruse,591
+Ellen Marsvin,Kirsten Munk,592
+Ellen Marsvin,Vibeke,597
+Ellen Marsvin,Kristi,601
+Kristi,Vibeke Kruse,601
+Vibeke,Vibeke Kruse,601
+Ellen Marsvin,Vibeke,601
+Ellen Marsvin,Vibeke,601
+Taterkvindens,Vibeke,601
+Taterkvindens,Vibeke,601
+Kirsten Munk,Vibeke,601
+Christian,Kirsten Munk,601
+Christian,Vibeke,601
+Ellen Marsvin,Vibeke,601
+Ellen Marsvin,Kirsten Munk,601
+Ellen Marsvin,Kirsten Munk,601
+Ellen Marsvin,Vibeke,601
+Ludvig Munk,Vibeke,601
+Ludvig Munk,Vibeke Kruse,601
+Vibeke,Vibeke Kruse,601
+Ellen Marsvin,Vibeke,601
+Ellen Marsvin,Vibeke,601
+Gud,Vibeke,601
+Karen Munk,Katharina,602
+Karen Munk,Katharina,602
+Karen,Karen Munk,602
+Karen,Otto Ludvig,602
+Jomfru Karen Munk,Otto Ludvig,602
+Dorthe,Jomfru Karen Munk,602
+Dorthe,Marie,602
+Dorthe,Munk,603
+Kaptain Munk,Munk,603
+Kaptain Munk,alsfjens,603
+Kaptain Munk,alsfjens,603
+Anna Jacob Mikkelsens,Kaptain Munk,603
+Anna Jacob Mikkelsens,Karen,603
+Anna Jacob,Karen,603
+Anna Jacob,Dorthe,603
+Dorthe,Karen Munk,603
+Dorthe,Karen Munk,603
+Gud,Karen Munk,604
+Henrik Ramel,Ramel,606
+Ramel,Vibeke Kruse,606
+Henrik Ramel,Vibeke Kruse,606
+Henrik Ramel,Ramel,606
+Gud,Ramel,606
+Gustav Adolf,Ramel,607
+Rhingreven,Sverig,611
+Ramel,Vibeke Kruse,613
+Kirsten Munk,Vibeke Kruse,613
+Karen,Kirsten Munk,613
+Karen,Munk,613
+Munk,Ramel,613
+Christian,Ramel,613
+Christian,Henrik Ramel,613
+Henrik Ramel,Jens Munk,614
+Henrik Ramel,Karen Munk,615
+Ellen Marsvin,Kirsten Munk,616
+Christian den,Ellen Marsvin,616
+Christian den,Kirsten Munk,616
+Christian,Kirsten Munk,616
+Christian,Page,616
+Chrisfian,Evropa,623
+Henrik Ramel,Kaptain Munk,625
+Jens Munk,Kirsfen,636
+Chrisfian,høire,637
+Kirsten Munk,høire,637
+Frederik,Kirsten Munk,637
+Frederik,Ulrik,637
+Lykke,Ulrik,637
+Adolf Frederik,Iohan Albrecht,638
+Chrisfian,Iohan Albrecht,638
+Adolf Frederik,Frederik,641
+Graad,Stans,645
+Kirsten Munk,Pernille,646
+Pernille,Ulrik,646
+Kirsten Munk,Ulrik,646
+Kirsten Munk,Lykke,646
+Ellen Marsvin,Lykke,646
+Lykke,borl,648
+Kirsfen Munk,Lykke,649
+Kirsfen Munk,borl,649
+Christian,borl,649
+Christian,Frederik,649
+Frederik,Ulrik,649
+Kirsfen Munk,Ulrik,649
+Henrik Ramel,Vibeke Kruse,653
+Kirsten Munk,Vibeke Kruse,653
+Christian den,Gud,657
+Christian,Henrik Ramel,659
+Christian den,Henrik Ramel,660
+Christian den,Karen Munk,660
+Henrik,Karen Munk,660
+Niels Persøn,Ole Jespersøn,661
+Karen Munk,Munk,662
+Jens Munk,Munk,662
+Henrik Ramel,Karen Sehested,665
+Karen,Lykke,666
+Anna Katharina,Lykke,666
+Anna Katharina,Dorothea Elisabeth,666
+Dorothea Elisabeth,Marsvin,666
+Kirsten Munk,Marsvin,666
+Gud,Kirsten Munk,666
+Gud,Magdalena Sybille,666
+Magdalena Sybille,Vibeke Kruse,666
+Vibeke Kruse,fasf,666
+Kong Christian,fasf,666
+Ellen Marsvin,Kirsten Munk,668
+Jørgen Seefeldt,Monsieur Henrik Ramel,669
+Karen,Monsieur Henrik Ramel,669
+Bibeke Kruses,Karen,669
+Henrik Ramel,Tyge Kruse,673
+Karen Munk,Kong Christian,676
+Ramel,Sehested,677
+Christian den,Ramel,677
+Christian den,Kirsten Munk,677
+Brockmand,Kirsten Munk,677
+Brockmand,Hans Resen,677
+Hans Resen,Lauritz Mortensen,677
+Lauritz Mortensen,Scavenius,677
+Karen Sehested,Vibeke Kruse,679
+Karen Munk,Vibeke,681
+Ramel,Vibeke Kruse,682
+Karen Sehested,Kong Christian,685
+Karen,Kong Frederik,688
+Gud,Karen,689
+Jomfru Marie,Munk,690
+Ellen Marsvin,Jomfru Marie,690
+Ellen Marsvin,Valdemar Christian,690
+Ulfeldt,Valdemar Christian,690
+Holger Vind,Ulfeldt,690
+Grev Pentzs,Holger Vind,690
+Grev Pentzs,Kirsten Mnnks,690
+Kirsten Mnnks,Marie,690
+Kirsten Munk,Tyge Bylov,691
+Otto Krag,Tyge Bylov,691
+Frederik den Tredie,Kirsten Munk,696
+Eleonora Christine,Marie,697

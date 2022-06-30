@@ -1,0 +1,170 @@
+source,target,type,weight
+Henriette Brommer,Schack,Undirected,1
+Hansen,Jensen,Undirected,1
+Jensen,Petersen,Undirected,1
+Petersen,Sørensen,Undirected,2
+Laps,Peter Holmstrup,Undirected,1
+Io,Mutter,Undirected,1
+Mutter,Therese,Undirected,1
+Flegma,Preisler,Undirected,1
+Hansen,Jette,Undirected,1
+Hansen,Poul,Undirected,1
+Jens,Sørensen,Undirected,1
+Schack,Snakkenborg,Undirected,1
+Preisler,Therese,Undirected,3
+Sørensen,X,Undirected,2
+Danton,Sørensen,Undirected,1
+Danton,Robespierrc,Undirected,1
+Jens Sørensens,Kirsten,Undirected,1
+Jens Peters,Kirsten,Undirected,2
+Jens Peter,Kirsten,Undirected,3
+Jens Peter,Kirsfen,Undirected,1
+Kirsfen,Sørensen,Undirected,2
+Kirsten,Sørensen,Undirected,2
+Kirsfen,Kirsten,Undirected,2
+Gud,Kirsten,Undirected,2
+Gud,Sørensen,Undirected,1
+Kirsfen,Kirsfen Jens Peters,Undirected,1
+Bjørnstjerne Bjørnson,Kirsfen Jens Peters,Undirected,1
+Bjørnstjerne Bjørnson,Jens Peter,Undirected,1
+Karen,Kirsten,Undirected,5
+Frøken Anna,Kirsten,Undirected,1
+Gud,Jens Peter,Undirected,6
+Frøken Anna,Hanne,Undirected,2
+Hanne,Jens Peter,Undirected,2
+Hanne,Kirsten,Undirected,3
+Hanne,Jesus,Undirected,1
+Jens Peter,Merinos,Undirected,1
+L. 5.,Merinos,Undirected,1
+Kirsten Jens Peters,L. 5.,Undirected,1
+Jens Peter,Kirsten Jens Peters,Undirected,1
+Gud,Karen,Undirected,2
+Jens Peter,Karen,Undirected,2
+Daggry,Sørensen,Undirected,1
+Justitsraad Smith,Sørensen,Undirected,2
+Krogs,Sørensen,Undirected,1
+Arnes,Krogs,Undirected,2
+Blaalys,Krogs,Undirected,1
+Blaalys,Sørensen,Undirected,1
+Smith,Sørensen,Undirected,2
+Schack,Sørensen,Undirected,1
+Fedtballe,Schack,Undirected,1
+Fedtballe,Stensen,Undirected,1
+Herman,Kirsten Vaskerkone,Undirected,1
+Kirsten,Kirsten Vaskerkone,Undirected,1
+eanll,pimrm. Kristensen,Undirected,1
+Preisler,pimrm. Kristensen,Undirected,1
+Frøken Therese,Stensen,Undirected,1
+Karen,Preisler,Undirected,2
+Karl,Krogs,Undirected,1
+Gud,Krog,Undirected,12
+Gud,Preisler,Undirected,2
+Lille Karls,Preisler,Undirected,1
+Gud,Jakob,Undirected,1
+Karen,Lille Karl,Undirected,1
+Karen,Krog,Undirected,3
+Gud,Lille Karl,Undirected,1
+Krog,Kæmpæns,Undirected,1
+Fritz,Ole Røgter,Undirected,1
+Emilie,Fritz,Undirected,1
+Emilie,Jesn Kristi,Undirected,1
+Fritz,Johannes,Undirected,2
+Fritz,Lille Fritz,Undirected,1
+Fritz,lille Karls,Undirected,1
+,Fritz,Undirected,1
+,s.,Undirected,1
+Gud,blol,Undirected,1
+Emilie,Krog,Undirected,1
+Johannes,Petersen,Undirected,1
+Krog,Lille Karl,Undirected,1
+Kirsten,Lunden,Undirected,1
+Karen,Lunden,Undirected,1
+Karen,lille Karls,Undirected,1
+Kirsten,hnn,Undirected,1
+Justitsraad Smith,Preisler,Undirected,1
+Christensen,Koch,Undirected,1
+Bloch,Koch,Undirected,1
+Bloch,Lund,Undirected,1
+Chrisfensen,Lund,Undirected,1
+Chrisfensen,Petersen,Undirected,1
+Rhytme,Sørensen,Undirected,1
+Jesus,Kristus,Undirected,2
+Judas,Kristus,Undirected,1
+Posfbud Clausen,pdurm,Undirected,1
+Christian Koch,pdurm,Undirected,1
+Christian Koch,Koch,Undirected,1
+Christian,Krog,Undirected,1
+Chrisfian Koch,Koch,Undirected,1
+Gud,Jesus,Undirected,5
+Karen,Koch,Undirected,1
+Koch,Krog,Undirected,2
+Gud,Paulus,Undirected,1
+Koch,Øglers,Undirected,1
+Gud,Kristus Jesus,Undirected,2
+Kristus Jesus,Krog,Undirected,1
+Kristus,Krog,Undirected,1
+Kristus Jesus,Paulus,Undirected,1
+Koch,Pasfor Krog,Undirected,1
+Jesus,Krog,Undirected,3
+Gud,véd,Undirected,1
+Koch,Preisler,Undirected,1
+Karen,Præsfen,Undirected,1
+Kirsten,Præsfen,Undirected,2
+Karen,Sørensen,Undirected,1
+Preisler,Sørensen,Undirected,3
+Frøken Snakkenborg,Preisler,Undirected,1
+Frøken Snakkenborg,Jomfru Gliltrup,Undirected,1
+Jomfru Gliltrup,hnn,Undirected,1
+Koch,hnn,Undirected,1
+Brystkatarh,Koch,Undirected,1
+Caroline,Krog,Undirected,1
+Caroline,Gud,Undirected,1
+Gud,felv,Undirected,1
+Jesus,felv,Undirected,1
+Glid,Gud,Undirected,1
+Gud,Jesus annammer,Undirected,1
+Jens Sørensen,Sørensen,Undirected,1
+Sørensen,sét,Undirected,2
+Sørensen,Therese,Undirected,2
+Krog,Sørensen,Undirected,1
+Therese,nicd,Undirected,1
+Sørensen,nicd,Undirected,1
+Frøken Therese,Sørensen,Undirected,1
+Gud,Jens Sørensen,Undirected,1
+Enkefru Snakkenborgs,Præsfen,Undirected,1
+hnn,lille Karls,Undirected,1
+Gud,Kains,Undirected,1
+Abels,Kains,Undirected,2
+Abels,Gud,Undirected,2
+Gud,Jesu Kristi,Undirected,2
+Theori,Therese,Undirected,1
+Gud,Kristus,Undirected,5
+Justitsraad Smith,Lunden,Undirected,1
+Søren-sens,ester,Undirected,1
+Karen,Søren-sens,Undirected,1
+Kirsten Vaskerkone,Schack,Undirected,1
+Kirsten,Therese,Undirected,1
+NaZnuin Lonuin,Preisler,Undirected,1
+Holbergs,Therese,Undirected,1
+Holbergs,Preisler,Undirected,1
+Peter Holmstrup,X,Undirected,1
+Kølle,X,Undirected,1
+Fedtballe,Kølle,Undirected,1
+Kristus,Satan,Undirected,1
+Gud,Herrens,Undirected,1
+Djævelæns,Gud,Undirected,1
+Christian Koch,Therese Preisler,Undirected,1
+Christian Koch,Gabriel,Undirected,1
+Gud,Therese,Undirected,1
+Kristus,ussell,Undirected,2
+Kristus Jesus vor Herre,Roes,Undirected,1
+Isak,Jens Peter,Undirected,1
+Isak,Jsasi,Undirected,1
+Jens Peter,Jsasi,Undirected,1
+Adam,Gud,Undirected,1
+Gud,Zinzendorff,Undirected,2
+Jesus,Johannes,Undirected,1
+Jesu,Johannes,Undirected,1
+Gud,sif,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Jesus Kristus,Undirected,1

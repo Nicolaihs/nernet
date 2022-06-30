@@ -1,0 +1,127 @@
+source,target,type,weight
+Bentson,Stagerup,Undirected,1
+Bentson,Herr Bentson,Undirected,2
+Katrine,Mette,Undirected,1
+Herr Bentson,Katrine,Undirected,1
+Emilie Lund,Mette Katrine,Undirected,1
+Hofgal,Mette Katrine,Undirected,1
+Bentson,Trdr,Undirected,1
+Avrora,Mette Katrine,Undirected,2
+Avtøra,Emilie Lund,Undirected,1
+Avtøra,Isidbra,Undirected,1
+Emilie,Isiddra,Undirected,1
+Herr Bentson,Pripp,Undirected,1
+Mette Katrine,Tjæneren,Undirected,1
+Herr Bentson,Volterman,Undirected,1
+Frank,Wenks,Undirected,1
+Emilie,Isiddra Bentzon,Undirected,1
+Emilie,Frank,Undirected,19
+Isiddra,Mo,Undirected,2
+Frank,Isidora,Undirected,45
+Emilie,Isidora,Undirected,10
+Isidåra,Vilhelm,Undirected,1
+Bentson,Isidåra,Undirected,1
+Eduard Løve,Isidåra,Undirected,1
+Eduard Løve,Kong Salomon,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Eros,Frank,Undirected,2
+Frank,Mimi,Undirected,1
+Frank,Schuberts,Undirected,1
+Schuberts,Ständchen,Undirected,1
+Frank,Isiddra,Undirected,6
+Isidora,Krepshawl,Undirected,1
+Cicerone,Herr Bentson,Undirected,1
+Herr Bentson,Isiddra,Undirected,1
+Frank,Herr Bentson,Undirected,5
+Emilie,Herr Bentson,Undirected,1
+Frank fortålte,Rafaels,Undirected,1
+Frank •en,Herr Bentson,Undirected,1
+Frank,Frank •en,Undirected,1
+Isidora,Mozart,Undirected,1
+Bentson,Frank,Undirected,1
+Emilie,Mette Katrine,Undirected,2
+Bentson,Isidora,Undirected,2
+Frank,hjæm,Undirected,1
+Frank,Johannes,Undirected,11
+Bentson,Soiré,Undirected,1
+Astrid Voltermann,Emilie,Undirected,1
+Avrora,Kristen,Undirected,3
+Emilie,Kristen,Undirected,3
+Kristen,Kristen Lassen,Undirected,2
+Kristen Lassen,Madame Lund,Undirected,1
+Emilie,Madame Lund,Undirected,1
+Emilie,H o,Undirected,1
+Emilie,Kristen Lassen,Undirected,6
+Bentson,Kristen Lassen,Undirected,1
+j,t,Undirected,1
+Avrora,Emilie,Undirected,4
+Astrid,Lassen,Undirected,1
+Astrid,Avrora,Undirected,7
+Astrid,Emilie,Undirected,8
+Astrid,Isidora,Undirected,5
+Astrid,Frank,Undirected,12
+Frank,N. N.,Undirected,1
+Astrid,Mo,Undirected,2
+Frank,Gud,Undirected,1
+Frank,mjnd,Undirected,1
+Astrid,Vilhelm,Undirected,2
+Astrid,Johannes,Undirected,18
+Avrora,Johannes,Undirected,2
+Aurora,Johannes,Undirected,2
+Avrora,Isidora,Undirected,9
+Avrora,Stagerup,Undirected,1
+Isidora,Kristen,Undirected,1
+Isidora,Isidåra,Undirected,1
+Astrid,N.,Undirected,1
+N,N.,Undirected,1
+Astrid,skælmsk,Undirected,1
+Emilie,skælmsk,Undirected,1
+Aurora,Emilie,Undirected,1
+Avrora,Herr Franks,Undirected,1
+Johannes,N.,Undirected,1
+Astrid,Bedstemo,Undirected,3
+Isidora,Johannes,Undirected,2
+Baronens,Johannes,Undirected,1
+Baronens,Interésse,Undirected,1
+Astrid,Interésse,Undirected,1
+Frank,stitsråden,Undirected,1
+Frank,Stagerup,Undirected,1
+Frank,Kristen,Undirected,2
+Emilie,stens,Undirected,1
+Herr Bentson,Mette Katrine,Undirected,2
+Frank,tam,Undirected,1
+Herr Bentson,Isidora,Undirected,1
+Gud,Herr Bentson,Undirected,1
+Astrid,Herr Bentson,Undirected,1
+Astrid,Kristen,Undirected,1
+Astrid,Kristen Lassen,Undirected,6
+Astrid,Mette Katrine,Undirected,2
+Kristen Lassen,N. N.’s,Undirected,1
+Astrid,N. N.’s,Undirected,1
+Herr Lassen,Johannes,Undirected,1
+Johannes,Kristen Lassen,Undirected,2
+Avrora,Kristen Lassen,Undirected,4
+Astrid,Baron Pripp,Undirected,1
+Astrid,hiin,Undirected,1
+Herr Lassen,Kristen Lassen,Undirected,1
+Avrora,Mo,Undirected,1
+Herr Bentson,Kristen Lassen,Undirected,2
+Aløde,Herr Bentson,Undirected,1
+Emilie,lille Astrid,Undirected,1
+Mette Katrine,b,Undirected,1
+Frank,Mette Katrine,Undirected,1
+Frank,este,Undirected,1
+Bedstemo,Frank,Undirected,2
+Frank-,Johannes,Undirected,1
+Johannes,lille Astrid,Undirected,1
+Johannes,t,Undirected,1
+Astrid,t,Undirected,1
+Frank,lille Astrid,Undirected,1
+Astrid,Hjæm,Undirected,1
+Frank,Hjæm,Undirected,1
+Isidora,Mette Katrine,Undirected,1
+Isiddra,Isidora,Undirected,1
+Astrid,léd,Undirected,1
+Emilie,léd,Undirected,1
+Frank,eier,Undirected,1
+Frank,Frank •,Undirected,1

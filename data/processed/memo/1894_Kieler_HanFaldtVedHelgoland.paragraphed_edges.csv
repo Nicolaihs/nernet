@@ -1,0 +1,270 @@
+source,target,type,weight
+Magsvejr,Puntervig,Undirected,1
+Puntervig,Thestrup,Undirected,2
+Edda,Hejmdals,Undirected,1
+Frederik,Sessan,Undirected,1
+Frederik,Stahlin,Undirected,1
+Stahlin,em,Undirected,1
+Dronning Margarethe,Thestrup,Undirected,1
+Stahlin,Thestrup,Undirected,4
+Skagerak,Thestrup,Undirected,1
+Bendz,Puntervig,Undirected,17
+Lesser,Puntervig,Undirected,15
+Holmsen,Puntervig,Undirected,1
+Lesser,Pfefferkorns,Undirected,1
+De Meza,Lesser,Undirected,1
+Etatsraad Bruns,Hall,Undirected,1
+Gehejmeraad Hall,Hall,Undirected,2
+Frederik den,Mitchel,Undirected,1
+Bendz,Lesser,Undirected,14
+Hertz,"Øehlenschlåger, Hejberg",Undirected,1
+Hauch,Hertz,Undirected,1
+Hauch,Ingemann,Undirected,1
+Bendz,Edele,Undirected,7
+Edele,Lesser,Undirected,48
+Edele,Papa,Undirected,7
+Lesser,Madam Sannæm,Undirected,3
+Madam,Sannæm,Undirected,2
+Iversens,Madam Sannæm,Undirected,1
+Edele,Lundberg,Undirected,9
+Guds,Lesser,Undirected,1
+Lundberg,Vorm,Undirected,25
+Edele,Iversens,Undirected,1
+Lesser,Pfefferkorn,Undirected,1
+Edele,Mons,Undirected,1
+Hektor,Mons,Undirected,1
+Dronning Dagmars,Tycho Brahes,Undirected,1
+Edele,taus,Undirected,1
+Hejbergs,Lesser,Undirected,1
+Hejbergs,Kristian Winthers,Undirected,1
+H. C. Andersens,Kristian Winthers,Undirected,1
+Aakander,H. C. Andersens,Undirected,1
+Aakander,Peder Oxes,Undirected,1
+Edele,Kjerulfs,Undirected,1
+Kjerulfs,Lesser,Undirected,1
+Lesser,Principals,Undirected,1
+Madam Sannæm,Principals,Undirected,1
+Madam Sannæm,Vorm,Undirected,2
+Lesser,lien,Undirected,1
+Lesser,Lydia,Undirected,1
+Lesser,Lundberg,Undirected,5
+Edele,Hr. Lundby,Undirected,1
+Edele,Puntervig,Undirected,9
+Edele,Vorm,Undirected,11
+Puntervig,Worm,Undirected,1
+Brems,Vorm,Undirected,1
+Cæsar,Vorm,Undirected,1
+Cæsar,Puntervig,Undirected,1
+Lesser,Napoleon,Undirected,1
+Grundtvig,Puntervig,Undirected,1
+Lundberg,Puntervig,Undirected,5
+Gaustad,Lundberg,Undirected,1
+Hr. Smith,Lesser,Undirected,1
+Lesser,Smith,Undirected,11
+Arnoldus,Gud,Undirected,3
+Arnoldus,Zebaoth,Undirected,1
+Arnoldus,Karl,Undirected,1
+Chorazim,Karl,Undirected,1
+Alarholm,Madam Møller,Undirected,1
+Ferdinand Ludvigsen,Madam Aløller,Undirected,1
+Gud,Lesser,Undirected,4
+Arnoldus,Madam Møller,Undirected,2
+Graad,Madam Møller,Undirected,1
+Arnoldus Møller,Madam Møller,Undirected,1
+Lesser,marschere,Undirected,1
+Bendz,Karl,Undirected,1
+Karl,Manderstrøm,Undirected,1
+Bendz,Sæter,Undirected,1
+Gud,Sæter,Undirected,1
+Gud,Harald Haarfager,Undirected,1
+Normand han,Puntervig,Undirected,1
+Bendz,Normand han,Undirected,1
+Bergtagen,Lesser,Undirected,1
+Bergtagen,sorn,Undirected,1
+Heines,sorn,Undirected,1
+Heine,Napoleon,Undirected,1
+Frøken Edele,Lesser,Undirected,2
+Beata,Jomfru Petersen,Undirected,1
+Beata,Jomfru Jensen,Undirected,1
+Døttre,Edele,Undirected,1
+Hr. Lessers,Puntervig,Undirected,2
+Puntervig,Toverud,Undirected,2
+Jeremias,Puntervig,Undirected,1
+Bendz,Jomfru Jensen,Undirected,1
+Puntervig,Rosenvinge,Undirected,1
+Gud,Toverud,Undirected,1
+Karl den femtende,Puntervig,Undirected,1
+Karen,Puntervig,Undirected,1
+Frederik,Jansen,Undirected,1
+Jeremias,Madam Sannæm,Undirected,1
+Lesser,Tovelille,Undirected,1
+Kong Volmers,Tovelille,Undirected,1
+Kong Volmers,Valdemar Atterdags,Undirected,1
+Arnoldus,Frederik den syvende,Undirected,1
+Henri quatre,Marholm,Undirected,1
+Cavour,Garibaldi,Undirected,1
+Garibaldi,Wilhelm,Undirected,1
+Dahlberg,Olaus Sivertsen,Undirected,1
+Kong Karls,Puntervig,Undirected,1
+Edele,Gud,Undirected,4
+Hektor,Papa,Undirected,1
+Lars Gaardskarl,Madam Sannæm,Undirected,1
+Madam Sannæm,Stine,Undirected,2
+Mette,Stine,Undirected,1
+Marie,Mette,Undirected,1
+Marie,Per,Undirected,1
+Per,Povl,Undirected,1
+Ole,Povl,Undirected,1
+Edele,Madam Sannæm,Undirected,5
+Papa,Vorm,Undirected,1
+Stine,Vorm,Undirected,1
+Lesser,Stine,Undirected,2
+Alan,Edele,Undirected,1
+Alelje,Edele,Undirected,1
+Alen Edele,Lundberg,Undirected,1
+Ingemann,Weyses,Undirected,1
+Madam Møller,Marholm,Undirected,1
+Lydia,Marholm,Undirected,1
+Gud,Jensen,Undirected,1
+Hektor,Lesser,Undirected,1
+Puntervig,Vorm,Undirected,2
+L’,Puntervig,Undirected,2
+Madam Sannæm,Salomos,Undirected,1
+Puntervig,Salomos,Undirected,1
+Edele,Grog,Undirected,1
+Lars,Sielau,Undirected,1
+Edele,Lars,Undirected,5
+Marholm,Smith,Undirected,1
+Hallunk,Smith,Undirected,1
+Smith Edele,Stine,Undirected,1
+Edele,Smith,Undirected,2
+Edele,Sielau,Undirected,2
+Edele,hans,Undirected,1
+Lars,Stine,Undirected,1
+Lars,Lundberg,Undirected,2
+Bendz,hans Guddatter,Undirected,1
+Edele,Graad,Undirected,1
+Madam Sannæm,Smith,Undirected,3
+Edele,Stine,Undirected,2
+Madam Sannæm,h a,Undirected,1
+Edele,h a,Undirected,1
+Hektor,Madam Sannæm,Undirected,4
+Edele Kathrine Agathe Bendz,Puntervig,Undirected,1
+Karl den 15des,Lesser,Undirected,1
+Bendz,Iversen,Undirected,1
+Gud,Magen,Undirected,1
+Fredrik,Sies,Undirected,1
+Kristian,spø,Undirected,1
+Puntervig,Smith,Undirected,2
+Olsen,Smith,Undirected,2
+Lesser,Monrad,Undirected,1
+Lesser,de Meza,Undirected,2
+Frederick Carl,Kaptejn Ahlmann,Undirected,1
+Jansen,Malthe,Undirected,1
+Bluhme,Malthe,Undirected,1
+Bluhme,Hersch,Undirected,1
+Hersch,Lundby,Undirected,1
+Lundby,Mathiesen,Undirected,1
+Mathiesen,Meulengracht,Undirected,1
+Leyfforth,Meulengracht,Undirected,1
+Gerlach,Leyfforth,Undirected,1
+Ahlmann,Gerlach,Undirected,1
+Iversen,Toverud,Undirected,1
+Bendz,Lars,Undirected,1
+Smith,Thyra Danebod,Undirected,1
+Hansen,Smith,Undirected,1
+Bendz,saagar,Undirected,1
+Gablenz,Vogel von Falkenstein,Undirected,1
+Blume,Manders,Undirected,1
+Hartfeldt,Katarrh,Undirected,1
+Puntervig,loves,Undirected,1
+Edele,Rosenvinge,Undirected,1
+Hansen,Lapsen,Undirected,1
+Lapsen,Smith,Undirected,1
+Smith,Wernau,Undirected,1
+Lundberg,Smith,Undirected,1
+Hans,Lesser,Undirected,1
+Marholm,å Piston,Undirected,1
+Madam Møller,å Piston,Undirected,1
+Bendz,anderswo engagirt,Undirected,1
+Puntervig,anderswo engagirt,Undirected,1
+Kong Kristian,Puntervig,Undirected,1
+Kong Kristian,Marholm,Undirected,1
+Marholm,lian,Undirected,1
+Lesser,briljant,Undirected,1
+Alavens,Bendz,Undirected,1
+Lesser,Rosenvinge,Undirected,1
+Jansen,Rosenvinge,Undirected,1
+Jansen,Lesser,Undirected,1
+Hans,Madam Sannæm,Undirected,1
+Hans,Smith,Undirected,1
+Smith,Toverud,Undirected,2
+Rolf,Smith,Undirected,1
+Bendz,Holms,Undirected,1
+Hr. Smith,Rosenvinge,Undirected,1
+Rosenvinge,Smith,Undirected,2
+Frøken Jansens,Smith,Undirected,1
+Friedrich Carl,Kong Frederik,Undirected,1
+Jefta,Papa,Undirected,1
+Bendz,Lundberg,Undirected,3
+Bendz,Vorm,Undirected,1
+Adams,Vorm,Undirected,1
+Adams,Lars,Undirected,1
+Axel,Hakon Jarl“,Undirected,1
+Axel,Valborg,Undirected,1
+Edele,Valborg,Undirected,1
+Bendz,Gud,Undirected,2
+Gud,Sauerbreys,Undirected,1
+Madam Møller,Marhohn,Undirected,1
+Lesser,Marhohn,Undirected,1
+Lesser,Vorm,Undirected,1
+Gud,Jente,Undirected,2
+Lars,Lesser,Undirected,2
+Lesser,sorn,Undirected,2
+Lesser,Mette Kokkepige,Undirected,1
+Iversen,Lars,Undirected,1
+Lundberg,Madam Sannæm,Undirected,2
+Kong Karl Johan,Puntervig,Undirected,1
+Edele,Hother,Undirected,3
+Hother,Lesser,Undirected,1
+Hektor,Lundberg,Undirected,3
+Ancker,Puntervig,Undirected,1
+Ancker,Rolf Krake,Undirected,1
+Bendz,j,Undirected,1
+Lunding,Wrangel,Undirected,1
+Anna Douman,Frederik den,Undirected,1
+Peter Rørdam,lindes,Undirected,1
+Gud,Smith,Undirected,1
+Edele,raabteBendz,Undirected,1
+Gud,Puntervig,Undirected,1
+Alen Bendz,Puntervig,Undirected,1
+Alen Bendz,Edele,Undirected,1
+Lars,Madam Sannæm,Undirected,2
+Iler,Lunding,Undirected,1
+Edele,Niels Juel,Undirected,2
+Bendz,Jansen,Undirected,1
+Anne,Edele,Undirected,2
+Hother,Papa,Undirected,1
+Niels Larsens,Sielau,Undirected,1
+Karen,Sielau,Undirected,1
+Niels Larsens,Puntervig,Undirected,1
+Bendz,Suenson,Undirected,1
+Mette,Stine Stuepige,Undirected,1
+Clintock,Mr. Osborne,Undirected,1
+Grey,Mr. Osborne,Undirected,1
+Edele,Hektor,Undirected,3
+Fru Pfefferkorns,Hektor,Undirected,1
+Bendz,Hektor,Undirected,1
+Bendz,Madam Sannæm,Undirected,1
+hans,lille Ellevild,Undirected,1
+Eskadrechefen,Suenson,Undirected,1
+Ferdinand Ludvigsen,Puntervig,Undirected,1
+Schwarzenberg,Smith,Undirected,1
+Radetzky,Schwarzenberg,Undirected,1
+Anker,Puntervig,Undirected,1
+Bruder,mir,Undirected,1
+Kaarde,Vorm,Undirected,1
+Alen Lesser,Smith,Undirected,1
+Mags,Smith,Undirected,1
+Niels Juel,Suenson,Undirected,2
+Niels Juel,Smith,Undirected,1

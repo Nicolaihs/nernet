@@ -1,0 +1,111 @@
+source,target,type,weight
+Hans,Kristense,Undirected,1
+Faa,Kristense,Undirected,1
+Gud,Kristense,Undirected,2
+Graad,Kristense,Undirected,1
+Kristense,Svend,Undirected,9
+Graad,Margrethe,Undirected,1
+Margrethe,Svend,Undirected,38
+Gud,Svend,Undirected,4
+Hans,Svend,Undirected,2
+Gud,Hans,Undirected,1
+Hans,Margrethe,Undirected,1
+Kristense,Margrethe,Undirected,3
+Hans Fjorddal,Svend,Undirected,1
+Hans Fjorddal,Margrethe,Undirected,4
+Gud,Gunild,Undirected,1
+Gunild,Margrethe,Undirected,2
+Gunild,Svend,Undirected,1
+Klavs,hans,Undirected,2
+Klavs,Svend,Undirected,2
+Gud,Margrethe,Undirected,2
+Nielses,Svend,Undirected,4
+Cecilie,Nielses,Undirected,2
+Cecilie,Svend,Undirected,23
+Ole,Svend,Undirected,5
+Jette,Niels,Undirected,3
+Jette,Svend,Undirected,3
+Niels,Svend,Undirected,21
+Jette,Ole,Undirected,1
+Gud,Niels,Undirected,3
+Niels,Ole,Undirected,4
+Karlen,Niels,Undirected,1
+Margrethe,Nielses,Undirected,2
+Karlen,Svend,Undirected,2
+Margrethe,Niels,Undirected,4
+Julie,Nielses,Undirected,2
+Julie,Margrethe,Undirected,9
+Julie,Niels,Undirected,6
+Elise,Margrethe,Undirected,21
+Alfred,Nielses,Undirected,1
+Alfred,Margrethe,Undirected,4
+Karl,Svend,Undirected,1
+Karl,Margrethe,Undirected,1
+Gunild,hans,Undirected,1
+Elise,Julie,Undirected,13
+Alfred,Elise,Undirected,27
+Elise,Gud,Undirected,5
+Elise,Svend,Undirected,7
+Alfred,Julie,Undirected,5
+Cecilie,Jette,Undirected,2
+Cecilie,Julie,Undirected,5
+Julie,Svend,Undirected,11
+Elise,Jette,Undirected,1
+Cecilie,Margrethe,Undirected,2
+Cecilie,Kat,Undirected,1
+Kat,Margrethe,Undirected,1
+Cecilie,Mormo,Undirected,1
+Cecilie,Elise,Undirected,5
+Margrete,Svend,Undirected,1
+Margrete,Margrethe,Undirected,1
+Henrik,Ole,Undirected,1
+Hagen,Jette,Undirected,1
+Hagen,Svend,Undirected,1
+Lars,Ole,Undirected,1
+Lars,Svend,Undirected,1
+Lars,paany,Undirected,1
+Polka,paany,Undirected,1
+Cecilie,Erik,Undirected,2
+Erik,Gud,Undirected,1
+Cecilie,Gud,Undirected,1
+Birthe Jakobs,Erik,Undirected,1
+Elise,Nielses,Undirected,3
+Fjorddal,Hans,Undirected,1
+Svend,hans,Undirected,1
+Margrethe,hans,Undirected,1
+Elise,Lars Spillemand,Undirected,1
+Lars Spillemand,Mathilde,Undirected,2
+Alfred,Gud,Undirected,3
+Lars Spillemand,Niels,Undirected,1
+Alfred,Niels,Undirected,3
+Alfred,paany,Undirected,1
+Alfred,Harmen,Undirected,1
+Alfred,Karl,Undirected,3
+Svend,Søgang,Undirected,1
+Elise,Karl,Undirected,2
+Elise Saaret,Karl,Undirected,1
+Alfred,Svend,Undirected,5
+Elise,Niels,Undirected,2
+Antoinette,Elise,Undirected,2
+Antoinette,Fjorddal,Undirected,1
+Elise,Frøken Antoinette,Undirected,4
+Alfred,Antoinette,Undirected,7
+Antoinette,Hans Fjorddal,Undirected,1
+Lars,Larses,Undirected,1
+Lars,Mathilde,Undirected,3
+Svend,skoggerlo,Undirected,1
+Elise,Erik,Undirected,2
+Erik,Svend,Undirected,2
+Svend,digj,Undirected,1
+Alfred,Gunild,Undirected,3
+Antoinette,hans hans,Undirected,1
+Alfred,Fjorddal,Undirected,1
+Alfred,Burrer,Undirected,1
+Antoinette,Gunild,Undirected,3
+Alfred,Lars,Undirected,2
+Alfred,Lars Spillemand,Undirected,1
+Cecilie,Ole,Undirected,1
+Karlen,Ole,Undirected,1
+Alfred,Karlen,Undirected,1
+Svend,hin,Undirected,1
+Alfred,hnn,Undirected,1

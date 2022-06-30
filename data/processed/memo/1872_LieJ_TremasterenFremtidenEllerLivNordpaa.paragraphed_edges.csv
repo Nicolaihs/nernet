@@ -1,0 +1,424 @@
+source,target,type,weight
+Kong Skjold,Kraaka,Undirected,1
+Kraaka,Leif,Undirected,1
+Jon Zachariasen,Jon Zachariasens,Undirected,1
+Braar,Jon,Undirected,1
+Braar,Erfugl,Undirected,1
+Finnens,Lovo,Undirected,1
+Corporal Stuwitz,Isak,Undirected,1
+Born,Kirstine,Undirected,1
+Born,Isak,Undirected,1
+Corporal Stuwikz,Jsaks,Undirected,1
+Isak,Stuwitz,Undirected,5
+Carl IX,Jakob Nutto,Undirected,1
+Archangel,ester,Undirected,1
+Jakob Nutto,Stuwitz,Undirected,2
+Finnens,Stuwitz,Undirected,1
+Finnens,Mathis,Undirected,1
+,Stuwitz,Undirected,5
+Ssnnen,Stuwikz,Undirected,1
+Brsgelmann,Ssnnen,Undirected,1
+Brsgelmann,Stuwikz,Undirected,2
+Brøgelmanns,Stuwikz,Undirected,1
+Isak,Stuwikz,Undirected,2
+Storm,Stuwikz,Undirected,1
+Lars,Store-Lars,Undirected,1
+Store-Lars,Storm,Undirected,1
+Brøgelmann,Storm,Undirected,1
+Brsgelmann,Brøgelmann,Undirected,1
+Brsgelmann,Regine,Undirected,1
+Per,Store-Lars,Undirected,1
+Anders Hind,Store-Lars,Undirected,1
+,Store-Lars,Undirected,2
+,Orfke,Undirected,1
+Jon Zachariasen,Marina,Undirected,7
+Jon,Marina,Undirected,23
+Jon,Stuwitz,Undirected,11
+Budeicn,Budeiens,Undirected,1
+Budeicn,eger,Undirected,1
+Jon,Kostald,Undirected,1
+Budeien,Jon,Undirected,1
+Budeien,Marina,Undirected,1
+Brøgelmann,Jon,Undirected,2
+Jon,Jon Aarke,Undirected,1
+Jon Aarke,sormaa,Undirected,1
+Erik Spillemands Fele,Jon,Undirected,1
+Erik Spillemands Fele,Peer Pladsens,Undirected,1
+Fele,Fiolin,Undirected,1
+Fiolin,Karl,Undirected,1
+Jægten,hans,Undirected,1
+hans,hnn,Undirected,1
+Marina,Thor Stuwitz^,Undirected,1
+Marina,Stuwitz,Undirected,2
+Madam Brøgelmann,Marina,Undirected,1
+Madam Brøgelmann,opsagdcs,Undirected,1
+Jon Zachariasen,Krisis,Undirected,1
+Brcendestur Brøgelmann,Zachariasen,Undirected,1
+Store-Lars,Zachariasen,Undirected,1
+Abe,NisLemad,Undirected,1
+Nejsckosf,NisLemad,Undirected,1
+Donen,Jon,Undirected,2
+Jon,Stuwikz,Undirected,1
+Jon,Store-Lars,Undirected,5
+Jon,Skjær,Undirected,1
+Jon Zachariasen,Store-Lars,Undirected,1
+Marina,Store-Lars,Undirected,3
+Jon,Lars,Undirected,1
+Jon,Thor Stuwitz,Undirected,1
+Kristian,Thor Stuwitz,Undirected,1
+Kristian,Marina,Undirected,1
+Lars,Marina,Undirected,1
+Brøgelmann,Heggelund,Undirected,2
+Brøgelmann,Jon Zachariasen,Undirected,1
+Jon,Sjømanden,Undirected,1
+Lonbø,Sjømanden,Undirected,1
+Sejen,Store-Lars,Undirected,1
+Jon,Sejen,Undirected,1
+Jon,Lonbø,Undirected,1
+Didhcn,Jon,Undirected,1
+Didhcn,Sovcj,Undirected,1
+Sovcj,Stuwitz,Undirected,1
+Morten,Store-Lars,Undirected,8
+Marina,Morten,Undirected,18
+Guds,Marina,Undirected,1
+NordfarjKg ter,Pontoppidans,Undirected,1
+Pontoppidans,Skot,Undirected,1
+Skot,Stavn,Undirected,1
+Kjeip,Stavn,Undirected,1
+ninger,violette,Undirected,1
+Store-Lars,violette,Undirected,1
+Lars,Morten,Undirected,2
+Havkongcn,Lars,Undirected,1
+Marina,gansfe,Undirected,1
+Jon,gansfe,Undirected,1
+Jon Zachariasen,Kvænen,Undirected,3
+Kvænen,grssse,Undirected,1
+Kvæncn,Musti,Undirected,1
+Musti,Rensdyrsencr,Undirected,1
+Kvænen,Sjorris,Undirected,1
+Kvænen,Mufti,Undirected,2
+Bejle,Mos,Undirected,1
+Kvænen,Maren,Undirected,1
+Kvænen,Lyma,Undirected,4
+Bladtang,Store-Lars,Undirected,1
+Isak Pelto,Lyma,Undirected,2
+Jon,Lyma,Undirected,1
+Jon,Morten,Undirected,15
+Mathis Nutto,Morten,Undirected,2
+Mathis Nutto,Silla,Undirected,1
+Marina,Stuwikz,Undirected,3
+,Stuwikz,Undirected,3
+Jon,Kvænen,Undirected,1
+Kjobetoug,Stuwitz,Undirected,1
+Jon,Ottring,Undirected,1
+Hcggelund,Stuwikz,Undirected,1
+Corporal Stuwikz,Isak Lsvøen,Undirected,1
+Corporal Stuwikz,Stuwikz,Undirected,1
+Stuwikz,Stuwitz,Undirected,2
+Stuwitz,Uvejrssky,Undirected,2
+Isak,Marina,Undirected,2
+Isak,Morten,Undirected,1
+Mathis,Stuwikz,Undirected,4
+Isak,Mathis,Undirected,3
+Finnen,Isak,Undirected,2
+Finnen,Stuwitz,Undirected,1
+Mathis Nutto,Stuwitz,Undirected,2
+Isak,Mathis Nutto,Undirected,1
+Kvænen,Morten,Undirected,2
+Lyma,Morten,Undirected,4
+Lyma,Stuwitz,Undirected,1
+Stelle,Store-Lars,Undirected,1
+Stelle,sysle,Undirected,1
+Jon Zachariasen,Kvæmen,Undirected,1
+Stuwitz,didhen,Undirected,1
+Kvænen,didhen,Undirected,1
+Jon,ester,Undirected,1
+Morten,ester,Undirected,1
+Stuwikz,Stuwikz vexle,Undirected,2
+Stuwikz,braat,Undirected,2
+Finnen,Stuwikz,Undirected,2
+Kvænen,Mathis Nutto,Undirected,1
+Jon,Mathis Nutto,Undirected,1
+Morten,Russelo dje,Undirected,1
+Selje,Silju,Undirected,1
+Guds,berge,Undirected,1
+Bris,Brøgelmann,Undirected,1
+Siynesv,Skavl,Undirected,1
+Marina,Thor,Undirected,1
+Stuwitz,Thor,Undirected,1
+Jon,Jon Zachariasen,Undirected,1
+Rosse,Store-Lars,Undirected,1
+Gaadripe,Jon,Undirected,1
+Gaadripe,NElurg,Undirected,1
+Fog,NElurg,Undirected,1
+Jon,nn,Undirected,1
+Morten,nn,Undirected,1
+Halskar,Morten,Undirected,1
+Jon,Tenholmen,Undirected,1
+Bredsel,Jon,Undirected,1
+Bredsel,ppe,Undirected,1
+Dragsugct,Morten,Undirected,1
+Marina,klein,Undirected,1
+Morten,klein,Undirected,1
+Heggelund,Stnwitz,Undirected,1
+Heggelund,Stuwikz,Undirected,5
+Brsgelmann,Finnen,Undirected,1
+John,Stuwitz,Undirected,1
+John,Jon,Undirected,1
+Andreas Heggelund,Jon,Undirected,3
+Andreas Heggelund,Stuwitz,Undirected,2
+Isak Løvøen,Morten,Undirected,2
+Jon Zachariasen,Morten,Undirected,1
+Andreas Heggelund,Jon Zachariasen,Undirected,1
+Andreas Heggelund,Jon Skorpen,Undirected,1
+Andreas Heggelund,didhen,Undirected,1
+Morten,didhen,Undirected,1
+Andreas Heggelund,Morten,Undirected,15
+Gutten,Marina,Undirected,1
+Gutten,Jon,Undirected,1
+Morten,Stuwikz,Undirected,10
+Heggelund,Marcus Heggelund,Undirected,1
+Heggelund,K...,Undirected,1
+Andreas,K...,Undirected,1
+Elias Røst,Marcus Gjø Heggelunds,Undirected,1
+Elias,Peder Das,Undirected,1
+,Peder Das,Undirected,1
+Brøgelmann,Tobias Storm,Undirected,1
+Stuwikz,Tobias Storm,Undirected,1
+Heggelund,Tobias,Undirected,2
+Edel,Tobias,Undirected,6
+Edel,fil,Undirected,1
+Tobias,fil,Undirected,1
+Stuwitz,Tobias,Undirected,3
+Conduite,fletikke,Undirected,1
+Conduite,Stuwitz,Undirected,1
+Stuwitz,Triek,Undirected,1
+Andreas,Morten,Undirected,15
+Heggelund,Morten,Undirected,13
+Andreas Heggelund,Edel,Undirected,2
+Andreas,sfal,Undirected,1
+Jonscn,Morten Jonsen,Undirected,1
+Jonscn,Morten Skorpen,Undirected,1
+Isak Løvøen,Marina,Undirected,1
+Andreas Heggelund,Martens,Undirected,1
+Andreas Heggelund,Tobias,Undirected,1
+Morten,Tobias,Undirected,4
+Morten,hnn,Undirected,3
+Morten,Stuwitz,Undirected,17
+Jonsen,Stuwitz,Undirected,1
+Andreas Heggelund,Heggelund,Undirected,1
+Andreas Heggelund,Stuwikz,Undirected,2
+Edel Heggelund,Morten,Undirected,3
+Edel Heggelund,Sørenskriverens,Undirected,1
+Karl,Sørenskriverens,Undirected,1
+Jomfru Dyring,Morten,Undirected,2
+Stuwikz,hort Stuwikz,Undirected,1
+Edel,Storm,Undirected,1
+Edel,Stuwitz,Undirected,5
+Andreas,Gud,Undirected,1
+Andreas,Stuwitz,Undirected,3
+Edel,Morten,Undirected,17
+Heggelnnds,Stuwitz,Undirected,1
+Heggelnnds,Jomfru Dyring,Undirected,1
+Jomfru Dyring,Tobias,Undirected,2
+,Tobias,Undirected,2
+,Heggelund,Undirected,1
+Heggelund,Stuwitz,Undirected,10
+Stuwitz,Uvejrslyn,Undirected,1
+Morten,Saar,Undirected,1
+Morten,ast,Undirected,2
+Morten,Thor Stuwikz,Undirected,1
+Edel,Heggelund,Undirected,4
+Edel,Julie Schultz,Undirected,2
+Andreas,Pensa,Undirected,1
+Morten,Pensa,Undirected,1
+Andreas,for-Morten,Undirected,1
+Andreas,Julie,Undirected,1
+,Andreas,Undirected,1
+Andreas,Julie Schultz,Undirected,5
+Andreas,Edel,Undirected,13
+Morten,Morten Jonsen,Undirected,8
+Kong Oscar,Morten Jonsen,Undirected,1
+Kong Oscar,Prinds Gustav,Undirected,1
+Andreas Heggelund,Jægterne,Undirected,1
+Andreas Heggelund,Julie Schultz,Undirected,1
+Julie Schultz,Morten,Undirected,1
+Baadenc,Jægterne,Undirected,1
+Andreas,Baadenc,Undirected,1
+Andreas,Andreas Heggelund,Undirected,1
+Andreas,Jægten,Undirected,1
+Andreas fin Artium,Heggelund,Undirected,1
+Andreas,Heggelund,Undirected,2
+Jægterne,Morten,Undirected,1
+Jægterne,Stuwitz,Undirected,1
+Jomfru Dyring,Stuwitz,Undirected,1
+Dyring,Jomfruens,Undirected,1
+Hrggelunds,Morten,Undirected,1
+Heggelund,Hrggelunds,Undirected,1
+Edel,ester,Undirected,2
+Edel,nn,Undirected,1
+Hansine,nn,Undirected,1
+Edel,Frøken Edel,Undirected,1
+Edel,Jomfrn Dyrings,Undirected,1
+Jomfrn Dyrings,Jonsen,Undirected,1
+Dyring,hnn,Undirected,1
+Gud,Morten,Undirected,1
+Edel,Jomfru Dyring,Undirected,3
+Daniel,Wollert,Undirected,2
+,didhen,Undirected,1
+Stuwikz,didhen,Undirected,1
+Morten Jonsen,Stuwikz,Undirected,5
+Miihlenwads,Morten,Undirected,1
+Miihlenwads,Morten Jonsen,Undirected,1
+Hr. Wollert,Morlen Jonsen,Undirected,1
+Morlen Jonsen,Wollert,Undirected,1
+Morten,Wollert,Undirected,1
+Mollert,Morten Jonsen,Undirected,1
+Morten,corresponderer,Undirected,1
+Edel Heggelund,Heggelund,Undirected,1
+Fru Heggelund,Morten Jonsen,Undirected,1
+Morten Jonsen,hnn,Undirected,2
+Andreas,Tobias,Undirected,1
+Andreas,Jomfru Dyring,Undirected,1
+Jomfru Dyring,Morten Jonsen,Undirected,1
+Heggelund,Morten Jonsen,Undirected,2
+Edel,Edel Heggelund,Undirected,1
+Edel Heggelund,Stuwikz,Undirected,1
+Kvænen,Stuwitz,Undirected,1
+Edel Heggelund,Morten Jonsen,Undirected,1
+Edel,Morten Jonsen,Undirected,5
+Jomfru Dyring,hnn,Undirected,1
+Markus Gjø,Stuwitz,Undirected,1
+Jomfru Øyring,Morten ifærd,Undirected,1
+Stuwitz,hnn,Undirected,2
+Dyring,Morten Jonsen,Undirected,1
+Dyring,Edel,Undirected,1
+Edel,Morten Jonscn,Undirected,4
+Morten,Morten Jonscn,Undirected,1
+Stuwitz,gdslem,Undirected,1
+Almisselem,gdslem,Undirected,1
+Edel,Heggelnnd,Undirected,1
+,Stnwitz,Undirected,1
+Gud,Jomfru Dyring,Undirected,1
+Edel,Morten Jorisens,Undirected,1
+Elias Røst,Morten,Undirected,1
+Christine,Eilert,Undirected,2
+Kvænen,Nosle,Undirected,1
+Kvænen,Marina,Undirected,1
+Edel Heggelund,Marina,Undirected,2
+Kvænen,Mathis,Undirected,2
+Marina,Mathis,Undirected,2
+Lyma,Marina,Undirected,1
+,Mathis,Undirected,3
+Mathis,Stuwitz,Undirected,1
+Lyma,Mathis,Undirected,1
+Eilert,Morten Jonsen,Undirected,1
+Finnescerd,Solv-Sara,Undirected,1
+Kristen,Morten,Undirected,1
+Kristen,Sølv-Sara,Undirected,1
+Morten,hine Fjeldaanders,Undirected,1
+Mathis,Morten Jonsen,Undirected,3
+Mathis,Morten,Undirected,1
+Mathis,Sølv-Sara,Undirected,2
+Mathis,Store-Lars,Undirected,1
+Morten,endel,Undirected,1
+Mathis Nutto,Sølv-Sara,Undirected,1
+Morten Ionsens,SølvSara,Undirected,1
+StoreLars,SølvSara,Undirected,1
+Grue,Trakke,Undirected,1
+Arne,Grue,Undirected,1
+Lyma,Lyma endel,Undirected,1
+Isak Pelto,Morten,Undirected,2
+Mathis Nuttos Gamme,Morten,Undirected,1
+Lyma,Stuwikz,Undirected,2
+Morten,Sølv-Sara,Undirected,4
+Isak Pelto,Mathis Nutto,Undirected,2
+Morten,Solv-Sara,Undirected,1
+Lyma,Solv-Sara,Undirected,1
+Marina,Martin,Undirected,1
+Finneflcede,Kjnrris,Undirected,1
+Morten,Morten lagde,Undirected,1
+Graad,Lyma,Undirected,1
+Graad,Sølv-Sara,Undirected,1
+Morten,Pulken,Undirected,1
+Pulken,slingrede,Undirected,1
+El. Jssvul,Morten Jonsen,Undirected,1
+Josias,Morten Jonsen,Undirected,1
+Josias,Umek,Undirected,1
+Lise,Morten,Undirected,1
+Josias,Morten,Undirected,1
+Morten,Werts,Undirected,2
+Finnen,Sølv-Sara,Undirected,1
+Josias,Sølv-Sara,Undirected,2
+Ulv,Wassilieff,Undirected,1
+Bjørn,Ulv,Undirected,1
+Bjørn,mjg,Undirected,1
+Lars,mjg,Undirected,1
+Lars,Melk,Undirected,1
+Corporal Stuwitz,Melk,Undirected,1
+Corporal Stuwitz,Stuwitz,Undirected,1
+Brøgelmann,Stuwitz,Undirected,1
+Brøgelmann,Jakob Nutto,Undirected,1
+Jakob,Jakob Nutto,Undirected,1
+Jakob,Stuwitz,Undirected,1
+Stuwitz,Wassilieff,Undirected,1
+Jakob Nutto,Maderakka,Undirected,1
+Gud,Maderakka,Undirected,1
+Gud,Lars,Undirected,1
+Rener,Sølv-Sara,Undirected,1
+Morten,Nadvers,Undirected,1
+Sjøfin Isak Løvøen,Sølv-Sara,Undirected,1
+Stuwitz,Sølv-Sara,Undirected,2
+Eilert,Morten,Undirected,3
+Andreas Heggelund,Morten Jonsen,Undirected,2
+Heggelund,Julie,Undirected,1
+Andreas,Morten Jonsen,Undirected,6
+Andreas,Fættæres,Undirected,1
+Cousine,Fættæres,Undirected,1
+Andreas,Muller,Undirected,1
+Morten Jonsen,Muller,Undirected,1
+Marina,Zachariasen,Undirected,1
+Edel,Zachariasen,Undirected,1
+Andreas,Cousine,Undirected,1
+Iulie,Schultz,Undirected,1
+Morten Jonsen,Stuwitz,Undirected,4
+Jackmann,Morten Jonsen,Undirected,1
+Jackmann,Morten Jonscn,Undirected,1
+Jackmann,Stuwitz,Undirected,2
+Jackmann,Jon Zachariasen,Undirected,1
+Morten,lykkets,Undirected,1
+Stuwikz,lykkets,Undirected,1
+Morten Jonsen,Tobias,Undirected,1
+Stuwitz,næsfen,Undirected,1
+Morten,næsfen,Undirected,1
+Jackmann,Morten,Undirected,1
+Coutume,Jackmann,Undirected,1
+Coutume,Stuwikz,Undirected,1
+Jackmann,Stuwikz,Undirected,1
+Heggelund,Morten sfar,Undirected,1
+,Morten,Undirected,1
+Stuwitz,aik,Undirected,1
+Edel,hnn,Undirected,1
+Heggelund,hnn,Undirected,1
+Jomfru Dyring,Morten Jonscn,Undirected,1
+Mathis Nutto,Stuwikz,Undirected,1
+Mathis Nutto,Morten Jonsen,Undirected,1
+Marina,Stuwitz ester,Undirected,1
+Finnen,Stuwitz ester,Undirected,1
+Finnen,Mathis,Undirected,1
+Andreas,Mathis Nutto,Undirected,1
+Finnen,Mathis Nutto,Undirected,1
+Jon Zachariasen,Mathis,Undirected,1
+Morten Jonsen,oer,Undirected,1
+Morten Jonsen,iland,Undirected,2
+Stnwitz,son,Undirected,1
+Hnn,Tobias,Undirected,1
+Edel,Marina,Undirected,2
+Edel,Jon,Undirected,1
+Ion,Morten,Undirected,1
+Marina —,Morten,Undirected,1
+Dyring,Muller,Undirected,1
+Gud,Tobias,Undirected,1
+Marina,Tobias,Undirected,1
+Elias Røst,Tobias,Undirected,1
+Andreas Heggelund,Elias Røst,Undirected,1

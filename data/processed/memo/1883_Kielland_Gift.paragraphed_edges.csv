@@ -1,0 +1,187 @@
+source,target,type,weight
+Lalle,Marius,Undirected,1
+Borring,Gud,Undirected,1
+Aalbom,Gud,Undirected,1
+Namur,Tolleiv,Undirected,1
+Lille Marius,Marius,Undirected,1
+Abraham,Marius,Undirected,36
+Reinert,Tolleiv,Undirected,1
+Bryssel,Reinert,Undirected,1
+Abraham,Duxen,Undirected,2
+Abraham,lille Marius,Undirected,15
+Abraham,Achilles,Undirected,2
+Achilles,Morten Bagstræver,Undirected,2
+Morten Bagstræver,hoplites,Undirected,1
+Fienden,hoplites,Undirected,1
+Morten Bagstræver,hastati,Undirected,1
+hastati,principes,Undirected,1
+Achilles,principes,Undirected,1
+Duxen,hoplites,Undirected,1
+Achilles,hoplites,Undirected,1
+Achilles,lille Marius,Undirected,1
+Aalbom,Borring,Undirected,2
+Jlle,Marius,Undirected,1
+Marius,lille Marius,Undirected,7
+Madvigs,eiheller,Undirected,1
+Madvigs,lille Marius,Undirected,1
+lille Marius,monebor moneberis monebitur,Undirected,1
+monebimur monebimini monebuntur,monebor moneberis monebitur,Undirected,1
+Abraham,Løvdahl,Undirected,13
+Abraham,Lille Marius,Undirected,2
+Marius,Sparres,Undirected,1
+Abraham,Eriksen,Undirected,1
+Marius,artium,Undirected,1
+Homers Iliade,Troja,Undirected,1
+Troja,lille Marius,Undirected,1
+Far,Snorre,Undirected,1
+Karl,Snorre,Undirected,1
+Wenche Knorr,voxte Wenche Knorr,Undirected,1
+Carsten Løvdahl,Wenche Knorr,Undirected,1
+Carsten Løvdahl,Valkyrie,Undirected,1
+Carsten Løvdahl,Wenche Løvdahl,Undirected,1
+Abraham,Snorre,Undirected,1
+Gottwald,Marius,Undirected,1
+Abraham,Marius Gottwald,Undirected,1
+Løvdahl,lille Marius,Undirected,1
+Marius,s,Undirected,1
+Aalbom,Abraham,Undirected,6
+Bentzen,Marius,Undirected,1
+Marius,Morten Bagstræver,Undirected,3
+Ciceros,Cæsar,Undirected,1
+Ciceros,Curtius,Undirected,1
+Curtius,Xenophon,Undirected,1
+Abraham,Morten,Undirected,3
+Bessesen,artium,Undirected,1
+Plutarch,Xenophon,Undirected,1
+Herodot,Plutarch,Undirected,1
+Borring,Reinert,Undirected,1
+Karl den 12te,Marius,Undirected,1
+Abraham,Karl den 12te,Undirected,1
+Marius,nedenifra,Undirected,1
+Gud,Morten,Undirected,1
+Marius,Morten,Undirected,4
+Broch,Duxen,Undirected,1
+Broch,Marius,Undirected,4
+Broch,Morten Kruse,Undirected,3
+Abel,lille Marius,Undirected,2
+Abel,Marius,Undirected,1
+Marius,x,Undirected,1
+lille Marius,x,Undirected,1
+Broch,lille Marius,Undirected,2
+Broch,Gottwald,Undirected,2
+Marius,Mathematik,Undirected,1
+Madvigius,parvulus,Undirected,1
+Abel,Madvigius,Undirected,1
+Abel,Pythagoras,Undirected,1
+Madvigius,Pythagoras,Undirected,2
+Broch,Pythagoras,Undirected,1
+Abel,Morten,Undirected,4
+Duxen,Marius,Undirected,1
+Marius,Pythagoras,Undirected,1
+Abel,Napoleon,Undirected,1
+Cortes,Jørgen Tambur,Undirected,1
+Haan,lille Marius,Undirected,1
+Aalbom,Gottwald,Undirected,4
+deas,per,Undirected,1
+Aalbom,Marius,Undirected,6
+Aalbom,Henrichsens,Undirected,1
+Abraham,Sparres,Undirected,1
+Løvdahl,Michal Mordtmann,Undirected,3
+Isac Mordtmann,Michal,Undirected,1
+Isac Mordtmann,Michal Mordtmann,Undirected,1
+Abraham Knorr,Løvdahl,Undirected,1
+Kafifeen,Michal Mordtmann,Undirected,1
+Abel,Klausen,Undirected,1
+Aalbom,Klausen,Undirected,1
+Ephorer,Michal Mordtmann,Undirected,1
+Carsten,Hr. Abel,Undirected,1
+Aalbom,Michal Mordtmann,Undirected,1
+Bravo,Hr. Mordtmann,Undirected,1
+Kahrs,Mordtmann,Undirected,2
+Mordtmann,Parnassus,Undirected,1
+Hr. Mordtmann,Kahrs,Undirected,1
+Løvdahl,jVI ichal Mordtmann,Undirected,1
+Jørgen Kruse,Morten,Undirected,1
+Aalbom,Jørgen Kruse,Undirected,1
+Jørgen Kruse,Løvdahl,Undirected,2
+Mo’,Prospektus,Undirected,1
+Mo’,rdtmann,Undirected,1
+Marius,Pontoppidans,Undirected,1
+Gottwald,lille Marius,Undirected,1
+Aalbom,lille Marius,Undirected,1
+fefelli,lille Marius,Undirected,1
+fefelli,pello,Undirected,1
+Gottwald,amo,Undirected,1
+amavi,amo,Undirected,1
+ama,amavi,Undirected,1
+Abraham,Abraham Løvdahl,Undirected,3
+Aalbom,Abraham Løvdahl,Undirected,1
+Abraham,Gottwald,Undirected,1
+Jørgen Kruse,Michal Mordtmann,Undirected,1
+Isac Mordtmann,Løvdahl,Undirected,1
+Abraham,Michal Mordtmann,Undirected,1
+Abraham,sorn,Undirected,1
+Christensen,Mordtmann,Undirected,1
+Christensen,Løvdahl,Undirected,1
+Abraham Løvdahl,lille Marius,Undirected,2
+Bentze'n,lille Marius,Undirected,1
+Bentze'n,Løvdahl,Undirected,1
+Monebor moneberis monebitur,monebimur monebimini monebuntur,Undirected,1
+lille Marius,monebimur monebimini monebuntur,Undirected,1
+fallo,fefelli,Undirected,1
+falsum,fefelli,Undirected,1
+falsum,lille Marius,Undirected,1
+Gud,lille Marius,Undirected,1
+Abel,Mordtmann,Undirected,2
+Abel,Carsten Løvdahl,Undirected,1
+Abraham,Gutten,Undirected,1
+Abraham Knorr Løvdahl,Hans Egede Broch,Undirected,1
+Abraham,Morten Kruse,Undirected,1
+Abel,Borring,Undirected,1
+Gud,Jesu,Undirected,1
+Ephor,Gud,Undirected,1
+Abraham,Sparre,Undirected,2
+Wenche,nei,Undirected,1
+Abraham,Wenche,Undirected,1
+Abraham,Mordtmann,Undirected,2
+Abraham,Broch,Undirected,5
+A. L.,Abraham,Undirected,1
+Pontoppidans,Provsten Sparre,Undirected,1
+Abraham,Provst Sparres,Undirected,1
+Gutten,Ole Martinius Pedersen,Undirected,1
+Jens Hansen,Ole Martinius,Undirected,1
+Mons Monsen,Ole Martinius,Undirected,1
+Gud,Guds Kjærligheds,Undirected,2
+Osmund,Sparre,Undirected,1
+Abraham,Goliath,Undirected,1
+Broch,artium,Undirected,1
+Borring,Madvig,Undirected,1
+Erik Pontoppidan,Madvig,Undirected,1
+Broch,Løvdahl,Undirected,1
+Mordtmann,t,Undirected,1
+Abraham,sanddru,Undirected,1
+Mordtmann,nei,Undirected,1
+Gud,Wenche,Undirected,1
+Lykke,Mordtmann,Undirected,1
+Carsten Løvdahl,stanse,Undirected,1
+Abraham,Bentzen,Undirected,2
+Bentzen,Løvdahl,Undirected,1
+Bentzen,Carsten Løvdahl,Undirected,1
+Carsten Løvdahl,seire,Undirected,1
+Carsten Løvdahl,Mordtmann,Undirected,1
+Mordtmann,b,Undirected,1
+Abraham,Carsten Løvdahl,Undirected,2
+P'ru Bentzen,tf,Undirected,1
+lille Marius,tf,Undirected,1
+Hans Egede Broch,lille Marius,Undirected,1
+Abraham,enddog,Undirected,1
+Hans Egede Broch,Marius,Undirected,1
+Abraham,Hans Egede Broch,Undirected,2
+Abraham,voxen,Undirected,1
+Abraham,Gulduhr,Undirected,2
+Gutten,Vorherre,Undirected,1
+Løvdahl,Sparre,Undirected,2
+Osmund Asbjørnsen Sauamyren,Sparre,Undirected,1
+Abraham,tilhøire,Undirected,1
+Hans Egede Broch,tilhøire,Undirected,1
+Abel,Broch,Undirected,1

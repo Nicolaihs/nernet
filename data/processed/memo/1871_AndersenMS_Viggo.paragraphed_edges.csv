@@ -1,0 +1,51 @@
+source,target,type,weight
+Steen,Viggo,Undirected,1
+Jørgen,Steen,Undirected,1
+Hr. Povlsen,Jørgen,Undirected,3
+Hr. Povlsen,Karen,Undirected,1
+Jørgen,Lille Viggo,Undirected,1
+Gud,Lille Viggo,Undirected,1
+Gud,lille Viggo,Undirected,1
+Jørgen,Viggo,Undirected,1
+Jens Røgter,Viggo,Undirected,3
+Christine,Jens Røgter,Undirected,1
+Christine,Viggo,Undirected,38
+Viggo,alfid,Undirected,2
+Gud,Riis,Undirected,1
+Christine,Jomfru Petersen,Undirected,1
+Christine,hans,Undirected,2
+Christine,Viggo Jørgensen,Undirected,1
+Viggo,ester,Undirected,2
+Christine,hiin,Undirected,1
+Christine,fale,Undirected,1
+Gud,Viggo,Undirected,4
+Christine,Juul,Undirected,1
+Juul,Viggo,Undirected,1
+Viggo,fil,Undirected,2
+Hr. Strand,Viggo,Undirected,2
+Trosvend,sidsf,Undirected,1
+Ormen,sandru,Undirected,1
+Trosvend,sandru,Undirected,1
+Anna,Kalf,Undirected,1
+Kalf,Ridder Kalfs,Undirected,1
+Viggo,fro,Undirected,1
+Viggo,alf,Undirected,1
+alf,alfid,Undirected,1
+Hr. Povlsen,Viggo,Undirected,1
+Præsfen,Søgaard,Undirected,1
+Christine,Søgaard,Undirected,2
+Christine,Karl,Undirected,1
+Karl,Søgaard,Undirected,1
+Karl,Viggo,Undirected,1
+Vesf,Viggo,Undirected,1
+Christine,Gud,Undirected,1
+Chrisfine,Viggo,Undirected,6
+Chrisfine,Sophaen,Undirected,1
+Povlsen,Viggo,Undirected,2
+Christine,Povlsen,Undirected,2
+Mutter,Povlsen,Undirected,1
+Christine,lille Fatter,Undirected,1
+Karen,Povlsen,Undirected,1
+Karen,Sophaen,Undirected,1
+Sophaen,froe,Undirected,1
+Viggo,froe,Undirected,1

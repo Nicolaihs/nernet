@@ -1,0 +1,536 @@
+source,target,type,weight
+Kali,Silke,Undirected,1
+Faringhea,Kali,Undirected,2
+Budhas,Kali,Undirected,1
+Farings,Tumba,Undirected,1
+Phosfar,Schakalens,Undirected,1
+Glands,Schakalens,Undirected,1
+Dschunglens,ban,Undirected,1
+Bei,Dschunglens,Undirected,1
+Pater Antomio,slaa,Undirected,1
+Edward D,dley,Undirected,1
+Lady Edith Lowso,dley,Undirected,1
+Lady Edith Lowso,ui,Undirected,1
+Jesnitten,Lila,Undirected,1
+Aldina,Rajah,Undirected,1
+Anna,Rajah,Undirected,1
+Rajah,Roers,Undirected,1
+Aldina,Almas,Undirected,1
+Aiinas,Aldanis,Undirected,1
+Gud,Satan,Undirected,1
+Aschinta,Lila,Undirected,3
+Lady Faidherbe,Lila,Undirected,3
+Lady Faidherbe,Mylady,Undirected,1
+Aschinta,Lady Faidherbe,Undirected,1
+Aschinta,Mylady,Undirected,1
+Ata,Lady Faidhcrbe,Undirected,1
+Lila,Mylady,Undirected,3
+Gud,Lady Faidherbe,Undirected,1
+Aschinta,Gud,Undirected,2
+Aschinta,Ladyen,Undirected,1
+Ladyen,Lila,Undirected,1
+Faringhea,Tumba,Undirected,5
+Aschinta,Tumba,Undirected,2
+Lady Faidherbe,Pater Antonio,Undirected,2
+Faringhea,Pater Antonio,Undirected,2
+Honny soit,overall,Undirected,1
+Aare,Aschinta,Undirected,2
+Aschinta,Kali,Undirected,4
+Aare,dreo pilsnart,Undirected,1
+Aschinta,felv,Undirected,1
+Aschinta,Merias,Undirected,1
+Aschinta,inMerias,Undirected,1
+Kali,inMerias,Undirected,1
+Aschinta,Bronce,Undirected,1
+Kali,slal,Undirected,1
+Aschinta,Mai sfal,Undirected,1
+Aschinta,Faringhca,Undirected,1
+Dandsm,Goruens,Undirected,1
+Kapitains,Skotte,Undirected,1
+Mac,Mac Elaire,Undirected,1
+Kapitain,Mac,Undirected,4
+Jligemaade,Mac,Undirected,1
+Gud,Mac,Undirected,1
+Kali,Sivahs,Undirected,1
+Aschinta,Elsiers,Undirected,1
+Aschinta,Sahib,Undirected,14
+Edward Dudley,Sahib,Undirected,1
+Kapitainen,Mac,Undirected,9
+Lord,Skotten,Undirected,1
+Rødkjolcn,Sahib,Undirected,1
+Aschinta,Sahib Kapitainen,Undirected,1
+Edward Dudley,Lady Edith Lowson,Undirected,3
+Hindupige,Sahib,Undirected,1
+Aschinta,Hindupige,Undirected,1
+Kali,sfal,Undirected,1
+Kali,Sutha,Undirected,2
+Sergeanten,St. Patrik,Undirected,1
+Kapifainen,Ladyen,Undirected,1
+Fakir,Lady Edith,Undirected,1
+Kapifainen,Lord,Undirected,1
+LadyLowson,Ofsiceers,Undirected,1
+Lady Lowsons,Lord,Undirected,1
+Lady Lowson,Sahib,Undirected,1
+Elsfer,Lady,Undirected,1
+Lord,Øe,Undirected,1
+Budha,Sahib,Undirected,1
+Lady Lowson,Lord Cannaught,Undirected,1
+Kapitain Dudley,Lady Lowson,Undirected,3
+Antonio,Bastonnåde,Undirected,1
+Bastonnåde,Lord Cannaught,Undirected,1
+Edward Dudley,Lord Cannaught,Undirected,1
+Edward Dudley,Tu sind Pund Sterling,Undirected,2
+Kapitain Dudley,Lord Cannaught,Undirected,1
+Antonio,Kapitain Dudley,Undirected,1
+Antonio,Lady Lowson,Undirected,1
+Lady Lowson,betids,Undirected,1
+Ebna,Sahid,Undirected,1
+Ebna,Pater Antonio,Undirected,2
+Jesus,Sahib,Undirected,1
+Budha,Jesus,Undirected,1
+Graves,Lord Cannaught,Undirected,1
+Aschinta,Lord Cannaught,Undirected,1
+KyroS,Samuns,Undirected,1
+Graves,Vedas,Undirected,1
+Lord Welseight,Sahib,Undirected,1
+Lorden,loe,Undirected,1
+King,Lorden,Undirected,3
+Lorden,oz,Undirected,1
+Lord Welseight,Tyran,Undirected,1
+Lord elsfede,Lurus,Undirected,1
+Kali,Thug,Undirected,1
+Bramah,Budha,Undirected,1
+Ncna Sahib,Saib,Undirected,1
+Nena Saib,hilsfe,Undirected,1
+Nena Saib,sfal Budhas,Undirected,1
+hersfe,sfal Budhas,Undirected,1
+Dina,hersfe,Undirected,1
+Kali,Nena Saib,Undirected,2
+Nena Saib,Sahib,Undirected,1
+Ebna,Thuggcn,Undirected,1
+Ebna,Nena Saib,Undirected,2
+Nena Saib,Thug,Undirected,1
+Antonio,Lord Cannaught,Undirected,1
+Lila,Lord Welseight,Undirected,1
+Goruc,Thug,Undirected,1
+Sahib,Thug,Undirected,1
+Kali,Nena,Undirected,1
+Nena Saib,Thuggens,Undirected,1
+Djalma,Nena Saib,Undirected,8
+Nena,Nena Saib,Undirected,1
+Nena Saib,Thuggen,Undirected,1
+Goruen,Thuggen,Undirected,1
+Djalma,Lord Welseight,Undirected,1
+Lord Welseight,Nena Saib,Undirected,1
+Djalma,Lady Lowson,Undirected,3
+Kapitain,Thug,Undirected,1
+Kapitaincn,Lady Lowson,Undirected,1
+Aschinta,Mac,Undirected,5
+Lord Welscights,Mac,Undirected,1
+Jdetsamme,Mac,Undirected,1
+Mac,Skotte,Undirected,1
+Hinduen,Sahib,Undirected,1
+Kapitainen,loe,Undirected,2
+Kapitainen,rhi,Undirected,1
+Ismuels,Mac,Undirected,1
+Antonio,Ebna,Undirected,1
+Imidlcrtid,Mac,Undirected,1
+Delhis,Mac,Undirected,1
+Delhis,Ismuel,Undirected,1
+Mae Claire,Sahib Kapitainen,Undirected,1
+Ismuel,Kapitainen,Undirected,1
+Ismuel,Sahib,Undirected,2
+Ismuel,Mac,Undirected,8
+Sahib,seil,Undirected,1
+Budha,KapitainS,Undirected,1
+Claire,Ismuel,Undirected,1
+Aschinta heldte,Mac,Undirected,1
+Aschinta,knittrc,Undirected,1
+Aschinta,Kapitain Dudley,Undirected,2
+Renegaten Ismuel,Sahib,Undirected,1
+Hindu,Nubuks,Undirected,1
+Gud,Nubuks,Undirected,1
+Gud,Kapitainen,Undirected,4
+Lady Lowson,Lord Welseight,Undirected,1
+Lord Canaught,Lord Welseight,Undirected,1
+Kapitain Dudley,Lord Canaught,Undirected,1
+Kapitain Dudley,Lady,Undirected,1
+Lady Lowson,Mac Claire,Undirected,1
+Kapifainen,Lord Canaught,Undirected,1
+Lady,Lord Kanaught,Undirected,1
+Kapitain Dudley,Lady Lowsvn,Undirected,1
+Kapitain,Kapitain Dudley,Undirected,1
+Gud,Pater Antonio,Undirected,2
+Pater Antomio,Sir Faidherbes,Undirected,1
+Edith,kjære,Undirected,2
+Edith,Edward Dudley,Undirected,1
+Edith Lowson,Edward Dudley,Undirected,1
+Dudley,Lady Edith,Undirected,2
+Edith,Lord Canaught,Undirected,1
+Kapitain Edward Dudley,Lord Eanaught,Undirected,1
+Edward Dudley,Lord Canaught,Undirected,1
+Edith,Kapitainen,Undirected,6
+Kapitainen,Lord Canaught,Undirected,2
+Edward,Lady Lowson,Undirected,1
+Kapitainen,Ladyen,Undirected,1
+Edith Lowson,Lady Lowson,Undirected,1
+Edith Lowson,Gud,Undirected,1
+Aschinta,Jkke,Undirected,1
+Aschinta,Beiret,Undirected,1
+Mac,Mac Claire,Undirected,1
+Goruen,Thug,Undirected,1
+Aschinta,Ismuel,Undirected,3
+Goruen,Ismuel,Undirected,1
+Ismuel,Kali,Undirected,1
+Ismuel,efler Goruens,Undirected,1
+Feringhe,Goruen,Undirected,1
+Goruen,Mae,Undirected,1
+Ismuel,sif,Undirected,1
+Langhc,sif,Undirected,1
+Mac,assted,Undirected,1
+Ismuel,ban,Undirected,1
+Mac,Urs ALtucivi,Undirected,1
+Ismuel,Urs ALtucivi,Undirected,1
+Holloi,Jan,Undirected,1
+Kapitainen,Majesfæts,Undirected,1
+Mac,Majesfæts,Undirected,1
+Ismuel,asspeilede,Undirected,1
+Goruen,svaredeJsmuel,Undirected,1
+Godaverrys,Ismuel,Undirected,1
+Gorue,Mac,Undirected,1
+Ismuel,Mac Claire,Undirected,1
+Ismuel,Thuggernc,Undirected,1
+Ismuel,Skotte,Undirected,1
+Budha,Ismuel,Undirected,1
+Gorucn,Ismuel,Undirected,1
+Mylady Faidherbe,ester,Undirected,1
+Mylady,Søreise,Undirected,1
+Mylady Faidherbe,iland,Undirected,1
+Harry Dunwall,Mylady,Undirected,1
+Harry,Mylady Faidherbe,Undirected,1
+Dunwal,Harry,Undirected,1
+Harry Dunwal,Mylady,Undirected,2
+Bl,Mylady,Undirected,1
+Ismuel,Mylady,Undirected,1
+Ismnel,Mac,Undirected,1
+Baandenc,Mac,Undirected,1
+Harry Dur wall,fhi,Undirected,1
+Harry Dunwall,Mac,Undirected,3
+Ismuel flap,Thug,Undirected,1
+Gud,Harry Dunwall,Undirected,1
+Mac,Peter Antonio,Undirected,1
+Honny soit,mal y pence,Undirected,1
+Edith,Lord Welseight,Undirected,1
+Havelock,Kapitainen,Undirected,1
+Brigadcgeneral Graves,Whceler,Undirected,1
+Brigadcgeneral Graves,Hawelocke,Undirected,1
+Hawelocke,Schneill,Undirected,1
+Mindy,Schneill,Undirected,1
+Mindy,Willoughby,Undirected,1
+Raynon,Willoughby,Undirected,1
+Lord Kannaugt,Raynon,Undirected,1
+Buckley,Lord Kannaugt,Undirected,1
+Buckley,Scully,Undirected,1
+General Wheelers,Lord Kannaugt,Undirected,1
+General Wheelers,Pater Antonio,Undirected,1
+Lady Lowsen,Pater Antonio,Undirected,1
+Edward Dudley,Lady Lowsen,Undirected,1
+Lady Lowsen,militair Honneur,Undirected,1
+Lord Kannaugt,Lord Konnaught,Undirected,1
+Lord Kannaught,Lord Konnaught,Undirected,1
+Lady Lowson,Lord Kannaught,Undirected,1
+Lady Lowson,hnn,Undirected,1
+Kapitan Dudley,hnn,Undirected,1
+Kapitain Dudley,Peter Antonio,Undirected,1
+Lady Lowson,Lord Konnaught,Undirected,1
+Lord Kannaught,Pater Antonio,Undirected,2
+Eden,Gud,Undirected,1
+Edward Dudley,Kapitain Dudley,Undirected,1
+Aschinta,Kapitainen,Undirected,3
+Buddha,laddem,Undirected,1
+Mylady,Nubuh,Undirected,1
+Lord Welseight,Lorden,Undirected,1
+Edith,Nubuk,Undirected,8
+Kapitainen,Lady Lovson,Undirected,1
+Aaget sfak,Faringhea,Undirected,1
+Edith,Nstbuk,Undirected,1
+Nubuk,sfands,Undirected,1
+Dolken,Goruen,Undirected,1
+Pater Antonio,Tumba,Undirected,1
+Faringhea,Pateren,Undirected,2
+Faringhea,forbausef,Undirected,1
+Lord,Lord Wheelers,Undirected,1
+loe,Øe,Undirected,1
+' Onell,Kapitain D,Undirected,1
+Hvorleoes,Kapitain,Undirected,1
+Lord,Lord Kannaught,Undirected,1
+Jdetsamme,Lord Konnaught,Undirected,1
+Lord James Wheler,Wheler,Undirected,1
+Bravo,Lorden,Undirected,1
+Mylady,Nubuk,Undirected,5
+Mylady,loe,Undirected,2
+Ladyen,Lord Konnought,Undirected,1
+Lady Lowson,Lord Konnought,Undirected,1
+Mylady,Pateren,Undirected,1
+Lord Konnought,Mylady,Undirected,1
+Nubuk,Sahib Lorden,Undirected,1
+Lord,Mylady,Undirected,1
+Mylady Lowson,ester min,Undirected,1
+Kapitain Dudley,Lord Kannaught,Undirected,1
+Kapitain Dudley,Lord Knanaught,Undirected,1
+Gud,Lady Edith Lowson,Undirected,1
+Lady Lowson,Lord,Undirected,1
+Lady Lowson,Mylady,Undirected,2
+Lady,Pateren,Undirected,1
+Edvard Dudley,Lord Kannaught,Undirected,1
+Lady Lowson,Nubuk,Undirected,1
+Ladyen,Nubuk,Undirected,1
+Sepoyer,Sepoyernc,Undirected,1
+Edith,høit,Undirected,1
+Edith,Rubuk,Undirected,1
+Dina,Rama,Undirected,1
+Nena Sahib,Saib,Undirected,1
+Bramas,Nena Saib,Undirected,1
+Lady Lowson,Nena Saib,Undirected,2
+Brahma,Nena Saib,Undirected,1
+Edith,Lemon,Undirected,1
+Ten,ester,Undirected,1
+Siwahs,Suthu,Undirected,1
+Kali,Sivah,Undirected,2
+Skjærmplantens,Øjalma,Undirected,1
+Djalma,Radja,Undirected,1
+Djalma,Thuggen,Undirected,2
+Djalma,Ebna,Undirected,1
+Djalma,Mutu,Undirected,1
+Aare,hau,Undirected,1
+Nena Saib sor,Prinds Djalma,Undirected,1
+Faders,alrid,Undirected,1
+Faders,oz,Undirected,1
+Djalma,Lady Edith Lowson,Undirected,1
+Lady Edith Lowson,Lord Welseighf,Undirected,1
+Djalma,Lila,Undirected,10
+Delhi,Djalma,Undirected,1
+Aare,Brahma,Undirected,1
+Aschinta,stig iland,Undirected,1
+Sahib,eg,Undirected,2
+Elsfer,bluedes,Undirected,1
+Sahib,bluedes,Undirected,1
+Hindupigen,nn,Undirected,1
+Hindupigen,Sahib,Undirected,1
+Aschinta,Asrhinta,Undirected,1
+Kapitain,Sahib,Undirected,1
+Aschinta,Edith,Undirected,4
+Gud,Sahib,Undirected,1
+Dn,Kali,Undirected,1
+Dn,Sahib,Undirected,1
+Aschinta,Ibentræes,Undirected,1
+Aschinta,loe,Undirected,1
+Aschinta,Thugger,Undirected,1
+Kali,Offret,Undirected,1
+Kali,Kapitain Edward Dudley,Undirected,1
+Goruen,Sutha,Undirected,2
+Goruen,Kali,Undirected,1
+Dschimma,Edith forbauset,Undirected,1
+Edith strax,Lord Kanaugths,Undirected,1
+Edith,paany,Undirected,1
+Brahma,Djalma,Undirected,1
+Edith,Nabuk,Undirected,1
+Edith,Lady Lowson,Undirected,1
+Djalma,Edith,Undirected,3
+Edith,Lady Faidherbe,Undirected,1
+Aschinta,Elsfede,Undirected,1
+Kapitainen,Thuggernc,Undirected,1
+Kali,Rama,Undirected,1
+Buthoten,Kali,Undirected,1
+Djalma,Kali,Undirected,1
+Kali,Kapitain,Undirected,1
+Aschinta,Lady Lowson,Undirected,4
+Forest,Raynov,Undirected,1
+Buckley,Forest,Undirected,1
+Buckley,Schully,Undirected,1
+Crow,Schully,Undirected,1
+Crow,Steward,Undirected,1
+Edward,Steward,Undirected,1
+Edward,Hvo,Undirected,1
+Aschinta,Sepoybruden,Undirected,1
+Lady Lowson,Sepoy,Undirected,1
+Lady Lowson,Roes,Undirected,1
+Aschinta,Roes,Undirected,1
+Djalma,Harry Dunwall,Undirected,3
+Aschinta,Harry Dunwall,Undirected,1
+Lady,Nena,Undirected,1
+Elsfer,Nena,Undirected,1
+Elsfer,Ursfoven,Undirected,1
+Lady Edith Lowson,Rajah Djalma,Undirected,1
+Harry Dunwall,Rajah Djalma,Undirected,1
+Harry Dunwall,nn,Undirected,1
+Kali,nn,Undirected,1
+Aschinta,iland,Undirected,1
+Aschinta,ilive,Undirected,1
+fnart,paauy,Undirected,1
+Aschinta,Lord Kannaught,Undirected,1
+Aschinta,Nena Saib,Undirected,1
+Kali,Sahib,Undirected,2
+Goruen,Lady Lowson,Undirected,1
+Lord Kannought,Nena Saib,Undirected,1
+Sahib,Sahib Kapitainen,Undirected,1
+Sahib,Sepoybruden,Undirected,1
+Nena Saib,Sepoybruden,Undirected,1
+Sahib,fom,Undirected,1
+Aschinta,Gorue,Undirected,1
+Gorue,jNena Sahib,Undirected,1
+Sahib,jNena Sahib,Undirected,1
+Lord Kannought,Sahib,Undirected,1
+Aschinta,Lados,Undirected,1
+Lady Lowson,Thugger,Undirected,1
+Lord Kannought,Ojnc,Undirected,1
+Lord Kannought,Pater Antonio,Undirected,1
+Lady Lowson,Pater Antonio,Undirected,1
+Djalma,Edith Lowson,Undirected,1
+Edith,elsfede,Undirected,1
+Edith,myrdcs,Undirected,2
+Djalma,Nubuk,Undirected,4
+Lila,Nubuk,Undirected,1
+Edith,Lord Kannougth,Undirected,1
+Edith,List,Undirected,1
+Sabib,Sahib,Undirected,1
+Djalma,Nena,Undirected,1
+Djalma,Mylady,Undirected,3
+Djalma,Sepoyer,Undirected,1
+Brama,Nena Saib,Undirected,1
+Djalma,felv,Undirected,1
+Dschumma,Gud,Undirected,1
+Lady Lowson,Radja,Undirected,1
+Lady Lowson,Nubuk kjærtegnede,Undirected,1
+D!,alma,Undirected,1
+Kapitainen,Lady Lowson,Undirected,2
+Djalma,Kapitainen,Undirected,3
+Alan,anan,Undirected,1
+Dn,Edith,Undirected,1
+Lila,flap Edith,Undirected,1
+Ladyen,flap Edith,Undirected,1
+Djalma,Ladyen,Undirected,1
+Edith,lille Lila,Undirected,1
+Edith,Gud,Undirected,2
+Djalma,Sahib,Undirected,4
+Djalma,Lord Konaught,Undirected,1
+Lord Konaught,straz,Undirected,1
+Sahib,Sepoy,Undirected,1
+Sahib,Sepoyen,Undirected,1
+Aschinta,Sepoyen,Undirected,1
+Aschinta,Jsmuel,Undirected,1
+Ismuel,Jsmuel,Undirected,1
+Djalma,Sahib Kapitain,Undirected,1
+Gud,Sahib Rajab,Undirected,1
+Edith,Lili,Undirected,1
+Kapitainen,Lili,Undirected,1
+Kapitain,Sepoyen,Undirected,1
+Mac Claire,Sepoyen,Undirected,1
+Lady Faidherbe,Thuggen,Undirected,1
+Lord Konaught,Pater Antonio,Undirected,1
+Aschinta,Lord Konaught,Undirected,1
+Aschinta,Thuggen,Undirected,1
+Djalma,Ismuel,Undirected,1
+Edith,Lila,Undirected,6
+Djalma,devare,Undirected,1
+Kapitain Dudley,Lila,Undirected,1
+Edith,Kapitain Dudlcys,Undirected,1
+Ismuel,Rajah,Undirected,1
+Kali,Rajah,Undirected,1
+Aschinta,Sepoy,Undirected,1
+Kapitainen,Lord Kanought,Undirected,1
+Kapitainen,Sahib,Undirected,1
+Edith,Edward,Undirected,2
+Edith,slilles,Undirected,1
+Djalma,Gud,Undirected,1
+Djalma,Sepoy,Undirected,1
+Kapitainen,Sepoy,Undirected,1
+Kapitain Dudley,Mac Claire,Undirected,2
+Karl,Mt,Undirected,1
+Harry,Mac,Undirected,2
+Edith,Lord Konought,Undirected,1
+Baand,Mac,Undirected,1
+Kapitainen,Mae,Undirected,1
+Kapitainen,Mac Claire,Undirected,1
+Kapitainen,Lados,Undirected,1
+Kapitainen,Thugger,Undirected,1
+Ismuel,St. Patrick,Undirected,1
+Ismuel,Pater Antonio,Undirected,1
+Lord Kannought,Mae,Undirected,1
+Faringhea,Mae,Undirected,1
+Djalma,Faringhea,Undirected,2
+Lord Kannought,Thuggcn,Undirected,1
+Kapitainen,ilive,Undirected,1
+Sepoyer,ilive,Undirected,1
+Edith,Lord Kannought,Undirected,1
+Lady Edith Lowson,Mac Claire,Undirected,1
+Faringhca,Mac Claire,Undirected,1
+Nena Saib,Thuggcn,Undirected,1
+Faringhea,Thug,Undirected,1
+Pater Antonio,Raleight Home,Undirected,1
+Lord Kannonght,Raleight Home,Undirected,1
+Edith,Lord Kannonght,Undirected,1
+Harry Dunwall,Mac Claire,Undirected,1
+Havelock,Nena Saib,Undirected,1
+Gorue,Kali,Undirected,1
+Pater Antonio,Thuggen,Undirected,1
+Baronettcn,Pateren,Undirected,1
+Lady Faidhebre,Pateren,Undirected,1
+Home,Thuggen,Undirected,1
+Home,Mac,Undirected,1
+Lady Lowson,Lila,Undirected,1
+Lila,Sepoyhobe,Undirected,1
+Kapitain Dudley,Sepoyhobe,Undirected,1
+Harry Dunwall,Kapitain Dudley,Undirected,1
+Djalma,Mac,Undirected,2
+Djalma,Radjahrang,Undirected,1
+Harry Dunwall,Radjah,Undirected,1
+Sahib,Sahib Radjah,Undirected,1
+Kapitain,Sabib,Undirected,1
+Kapitain,Radjahen,Undirected,1
+Aschinta,Edward,Undirected,1
+Aschinta,Edits,Undirected,1
+Edward Dudley,Mac,Undirected,1
+Lord Mayoren,Stsjen,Undirected,1
+Lord Mayorenr Stol,Lord Welseight,Undirected,1
+Lady Leonie Emma Faidherbe,Lord Mayoren,Undirected,1
+Kapitain Dudley,Lord Mayoren,Undirected,2
+Radjah af,Sahib Djalma,Undirected,1
+Mysore,Radjah af,Undirected,1
+Lord Mayoren,Mysore,Undirected,1
+Lord Mayoren,Pater,Undirected,1
+Antonio,Pater,Undirected,1
+Anna,Radjah Aldina,Undirected,1
+Lila Faidherbe,ilive,Undirected,1
+Faringhea,Lord Kannaught,Undirected,1
+Lord,Lord Kannought,Undirected,1
+Lord,Raleigt Home,Undirected,1
+Djalma,Kullur,Undirected,1
+Edith Lowson,Nubuk,Undirected,1
+Harry Dunwall,Lila,Undirected,1
+Kapitain,Sir Dudleys,Undirected,1
+Lady Edith Lowson,Lila Faidherbe,Undirected,1
+Kapitain Edward Dudley,Lady Edith Lowson,Undirected,1
+Edward Dudley,Mac Claire,Undirected,1
+Lady Lila Faidherbe,Mac Claire,Undirected,1
+Lord Kannought,Mac,Undirected,1
+Mac Claire,etten,Undirected,1
+Charles,Mac,Undirected,5
+Mac,Vildornen,Undirected,1
+Mac,fog,Undirected,2
+Laird,Mac,Undirected,1
+Edward Dudley,Riis Lowson,Undirected,1
+Mac,Ronde,Undirected,1
+Dumrian,Mac,Undirected,1
+Charles,Mae Claire,Undirected,1
+Edith,Mac Claire,Undirected,1
+Charles,Mac Claire,Undirected,1
+Edward,Mac,Undirected,1
+Andeu,Edith,Undirected,1
+Andeu,Pater Antonio,Undirected,1
+Edith Lowson,Gretna-Green,Undirected,1
+Edith,Gretna-Green,Undirected,1
+Lord Cannouht,fraNorfolh,Undirected,1
+Edith,Pater Antonio,Undirected,1
+Lord Kanaught,Skotten,Undirected,1
+Mac,Mylady,Undirected,1

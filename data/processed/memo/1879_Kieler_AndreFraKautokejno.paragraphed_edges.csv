@@ -1,0 +1,201 @@
+source,target,type,weight
+Alten,Tana,Undirected,1
+Andreas Thorsen,Gud,Undirected,9
+Aina,Andreas,Undirected,1
+Aina,Alor,Undirected,1
+Lap,lappaa,Undirected,1
+Samer,Thorsen,Undirected,1
+Stockfleth,Thorsen,Undirected,1
+Andreas Thorsen,Stockfleth,Undirected,1
+Jakob,Peder,Undirected,1
+Jakob,Johannes,Undirected,1
+Jesus,Johannes,Undirected,1
+Lamik,Nikkut,Undirected,5
+Lamik,Lamik Nikkut,Undirected,2
+Anathema,Nikkut,Undirected,2
+Andreas Thorsen,Lamik Nikkut,Undirected,4
+Balzac,George Sand,Undirected,1
+Balzac,Tana,Undirected,1
+Aloses,Tana,Undirected,1
+Aloses,Johannes Aabenbaring,Undirected,1
+Andreas Thorsen,hans,Undirected,1
+AbrahamsTro,Thorsen,Undirected,1
+AbrahamsTro,Gud,Undirected,1
+Andreas Thorsen,Kvænens,Undirected,1
+Andreas Thorsen,Jesus Kristus,Undirected,1
+Rembrandt,dieu,Undirected,1
+Grev Wasili,monsieur Thorsen,Undirected,1
+Jakob Tudekas,Lamik Nikkut,Undirected,2
+Greven,Jakob Tudekas,Undirected,1
+Olga,Wasili,Undirected,4
+Olga,Thorsen,Undirected,7
+Thorsen,dot,Undirected,2
+Jakob Tudekas,Saccalekef vadnas,Undirected,1
+Andreas Thorsen,velan,Undirected,1
+Lamik Nikkut og Seimke Tudekas,velan,Undirected,1
+Excelsior,Greven,Undirected,1
+Lamik Nikkut,Olga,Undirected,3
+Lamik Nikkut,Tana,Undirected,1
+Olga,Seimke,Undirected,5
+Garcon,ea,Undirected,1
+Nikkut,Olga,Undirected,1
+Aled,monsieur,Undirected,1
+André,monsieur,Undirected,1
+Greven,Thorsen,Undirected,3
+Jesus Kristus,Thorsen,Undirected,1
+Jesus,Jesus Kristus,Undirected,1
+Jesu,Jesus,Undirected,1
+Greven,Monsieur Thorsen,Undirected,1
+Greven,Vive la,Undirected,1
+Tana,Wasili,Undirected,1
+Greven,barons,Undirected,1
+Grev Wasili,Thorsen,Undirected,2
+Lamik Nikkut,Thorsen,Undirected,4
+Olga,djærv,Undirected,1
+Guttens,Olga,Undirected,1
+Faust,Schlegels,Undirected,1
+Faust,dieu,Undirected,1
+dieu,monsieur Thorsen,Undirected,1
+Greven,monsieur Thorsen,Undirected,1
+Thorsen,vissui,Undirected,1
+Greven,keg,Undirected,1
+Andreas Thorsen,Olga,Undirected,2
+Lamik Nikkut,Seimke,Undirected,5
+Olga,bojet,Undirected,1
+Baaden,Olga,Undirected,1
+Genua,Thorsen,Undirected,1
+Gud,Thorsen,Undirected,7
+Thorsen,liam,Undirected,1
+Alan,Lamik Nikkut,Undirected,1
+Andreas Thorsen,Wasili,Undirected,1
+Kristi,Thorsen,Undirected,2
+honneur,monsieur Thorsen,Undirected,1
+Kristi,Paven,Undirected,1
+Gud,es,Undirected,1
+AVasili,Thorsen,Undirected,1
+AVasili,Komtesse Olga,Undirected,1
+Lamik Nikkut,Seimke Tudekas,Undirected,1
+Sarakka,Uksakka,Undirected,1
+Nanna,Nannacam,Undirected,2
+Olga Wasili,Thorsen,Undirected,1
+Gud,Lamik Nikkut,Undirected,4
+Gud,Olga Wasili,Undirected,1
+Andreas Thorsen,Jesu,Undirected,1
+Gud,Stocktleths,Undirected,1
+Lamik Nikkut,Radien Attschje,Undirected,1
+Johannes,Lamik Nikkut,Undirected,1
+Davids,Salomo,Undirected,1
+Lamik Nikkut,Salomo,Undirected,1
+Grev Wasili,lians,Undirected,1
+Aland,Aled,Undirected,1
+Aled,Hnn,Undirected,1
+d'honneur,madame,Undirected,1
+Olga Wasili,d'honneur,Undirected,1
+Henrik,apucius,Undirected,1
+Dronning Katharinas,Henrik,Undirected,1
+Greven,Olga,Undirected,1
+Esau,Olga,Undirected,1
+Nemesis,Nlin,Undirected,1
+Wasili,hin,Undirected,1
+Louise Walter,Olga,Undirected,1
+Madame,Wasili,Undirected,1
+Nemesis,Olga,Undirected,1
+Gud,Olga,Undirected,2
+Grev Wasili,Olga,Undirected,1
+Olga,hans Janusansigt,Undirected,1
+Lamik Nikkuts Gamme,Seimke,Undirected,1
+Nikkut,Petrus,Undirected,1
+Lamik,Seimke,Undirected,4
+Aled,Seimke,Undirected,1
+Seimke,Thorsen,Undirected,3
+Seimke,Sidtn,Undirected,1
+Djævlen,Gud,Undirected,1
+Jesu,Thorsen,Undirected,2
+Jesu,Seimke,Undirected,1
+Aledens,Jesu,Undirected,1
+Aledens,Vaibi,Undirected,1
+Lappens Ore,siz,Undirected,1
+Jakob Tudekas,Seimke,Undirected,1
+Ibmel,Thorsen,Undirected,1
+Samer,Sara Hurri,Undirected,1
+Kristus,Sara Hurri,Undirected,1
+Kristus,Stockfleth,Undirected,1
+Hurri,Sara,Undirected,1
+Hurri,Thorsen,Undirected,1
+Jakob Tudekas,Thorsen,Undirected,4
+Aiken,Thorsen,Undirected,2
+Alin Husbonde,Thorsen,Undirected,1
+Aiken Judnir,Gud,Undirected,1
+Aiken,Husbond,Undirected,1
+Aiken,Gud,Undirected,3
+Jesu,Stefan,Undirected,1
+Aiken,Stefan,Undirected,1
+Aiken,Jesu,Undirected,2
+Aiken,Judnir,Undirected,1
+Aiken,liam,Undirected,1
+Aiken Judnir,Jesus »,Undirected,1
+Lamik Nikkut,Samer,Undirected,2
+Thorsen,Tudekas,Undirected,1
+Jakob Tudekas,Tudekas,Undirected,1
+Seimke,Vaibi,Undirected,1
+Lamik,Vaibi,Undirected,1
+Gud,Seimke,Undirected,1
+Bu-,Thorsen,Undirected,1
+Se,j,Undirected,1
+Se,Stockfietli,Undirected,1
+Seimke,Stockfietli,Undirected,1
+Seimke,Tudekas Thorsen,Undirected,1
+Lazzaronens,Pygmalion,Undirected,1
+Pygmalion,hans Galathea,Undirected,1
+Wasili,lian,Undirected,1
+Aland,Usling,Undirected,2
+Grev Wasili,Sons,Undirected,1
+AA’,asilis,Undirected,1
+Aland,asilis,Undirected,1
+Aland,Olga,Undirected,1
+Gissur Galle,Kong Haakon V,Undirected,1
+AVasili,Neptun,Undirected,1
+Neptun,sondersledes,Undirected,1
+Miss Hope,Olga,Undirected,1
+Luise Walters,Olga,Undirected,1
+Luise Walter,Miss Hope,Undirected,1
+Alions,Olga,Undirected,1
+Wasili,enfants,Undirected,1
+Ibmel,Olga,Undirected,1
+Apparas,Olga,Undirected,1
+Renen,Wasili,Undirected,2
+Hopo,Olga,Undirected,1
+Olga,taus,Undirected,1
+Flegma,Miss Hope,Undirected,1
+Flegma,Kvænen,Undirected,1
+Olga Wasili,liun,Undirected,1
+Kvænen,Olga,Undirected,1
+Nemesis,hnn,Undirected,1
+Kitulis,jella saiti,Undirected,1
+Vappusen,•Vorherrre,Undirected,1
+Noaiden,Tario,Undirected,1
+Noaiden,aibmo,Undirected,1
+Gud,Jesu,Undirected,2
+Nemesis,Renen,Undirected,1
+Lappens,Nemesis,Undirected,1
+Lappens,Reuvot,Undirected,1
+Gud,Reuvot,Undirected,1
+Alen,Aluse,Undirected,1
+Moses,Olga,Undirected,1
+Ama,Thorsen,Undirected,1
+Aland,Andreas,Undirected,2
+Aina,Grev Wasili,Undirected,1
+Aina,Aland,Undirected,1
+Alin,Andreas,Undirected,2
+Andreas Thorsen,dodes,Undirected,1
+Grev Wasili,Wasili,Undirected,1
+Andreas Thorsen,Grev Wasili,Undirected,1
+Henri,Wasili,Undirected,1
+Aland,Andreas Thorsen,Undirected,1
+Anathema,Lamik Nikkut,Undirected,1
+Aslak Jakobsen Hætta,Rasmus,Undirected,1
+Lamik Nikkut,Rasmus,Undirected,1
+Kautokejno,Lamik Nikkut,Undirected,1
+Seimke,Suoite,Undirected,1
+Jabmi aibmo,Rota*,Undirected,1
+Jesu,Lamik Nikkut,Undirected,1

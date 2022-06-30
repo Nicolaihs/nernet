@@ -1,0 +1,409 @@
+source,target,type,weight
+Mamma,Pappa Rønnow,Undirected,1
+Sofie,lille Hans,Undirected,1
+Sofie,Terjesen,Undirected,1
+Clerkers,Wenns,Undirected,1
+Monsieur Argus,Rønnow,Undirected,1
+Mr. Argus,Rønnow,Undirected,1
+Mr. Krauss,Pappa,Undirected,1
+Alfred von Schlauenbaart,Mefisto,Undirected,1
+Mefisto,Mr. Argus,Undirected,1
+Monsieur Albert,Monsieur Alphonse,Undirected,1
+Lille Alphonse,frs,Undirected,1
+Kapt. Morton,Mr. Wenns,Undirected,1
+Mefisto,Morton,Undirected,3
+Alphonse,Morton,Undirected,4
+Morton,Mr. Argus,Undirected,1
+Mr. Alfred,Mr. Argus,Undirected,1
+Alphonse Argus,slig,Undirected,1
+lille Alphonse,slig,Undirected,1
+Alfred,Mr. Alfred,Undirected,2
+Alfred,Lille Alphonse,Undirected,1
+Pappa,Pappa Rønnow,Undirected,2
+Mr. Alfred,Mr. Morton,Undirected,3
+Morton,Mr. Alfred,Undirected,1
+Mefisto,Mr. Alfred,Undirected,1
+Morton,lille Alphonse,Undirected,1
+Alfred,Morton,Undirected,1
+Lille Alphonse,dingled,Undirected,1
+Alphonse,dingled,Undirected,1
+Alphonse,Argus,Undirected,2
+Alfred’,Argus,Undirected,1
+Alphonse,grazieust,Undirected,1
+Alfred,Alphonse,Undirected,1
+Alphonse,Mefisto,Undirected,1
+rose-,van Schenken,Undirected,1
+Pappa Rønnow,Schef roed,Undirected,1
+Krauss,Schef,Undirected,3
+Schef,Seier,Undirected,1
+Pappa Rønnow,Seier,Undirected,1
+Monsieur Argus,Pappa Rønnow,Undirected,1
+Doel,Schef,Undirected,2
+Hans,Mynheer,Undirected,5
+Hans,Schef,Undirected,2
+Clerk,Salve,Undirected,2
+Herr Appelgaard,Keiser Wilhelm,Undirected,1
+Clerkernes,Keiserens,Undirected,1
+Appelgaard,Clerkernes,Undirected,1
+Appelgaard,Salve,Undirected,3
+Keiseren,Salve,Undirected,1
+Keiseren,Salve Svendsen,Undirected,1
+Mynheer van Schenken,Van Schenkens,Undirected,1
+Kapt. Sivertsen,Salve,Undirected,1
+Anne Marie,Kapt. Sivertsen,Undirected,1
+Joachim,vesle,Undirected,1
+Hans,vesle,Undirected,1
+Hans,Sofie,Undirected,2
+Keiseren,Sofie,Undirected,2
+Kapt. Olsen,Keiseren,Undirected,1
+Joachim,Salve Svendsen,Undirected,4
+Joachim,Sofie,Undirected,1
+Anthonisen,ivei,Undirected,1
+Anthonisen,lel,Undirected,1
+Joachim,svarteAppelgaard,Undirected,1
+Beyer,Sofie,Undirected,1
+Appelgaard,Clerken,Undirected,1
+Schef,Sofie,Undirected,1
+Appelgaard,Clerk,Undirected,1
+Clerk,Jacob von Grim,Undirected,1
+Appelgaard,Stewedore,Undirected,1
+Keiseren,Stewedore,Undirected,1
+Joachim,Svendsen,Undirected,1
+Joachim,kommanderte Appelgaard,Undirected,1
+Salve,Slengemand,Undirected,1
+Senor,Slengemand,Undirected,1
+Don,Senor,Undirected,1
+Don,magnifique,Undirected,1
+Salvio,magnifique,Undirected,1
+Salvio,s,Undirected,1
+Antonette,Salve,Undirected,1
+Antonette,Kjærringe,Undirected,1
+Joachim,Kjærringe,Undirected,1
+Beyer,Van Schenken,Undirected,1
+Joachim,Salve,Undirected,7
+Gut,Joachim,Undirected,1
+Heisan,Kong Salve,Undirected,1
+Heisan,Salve Svendsen,Undirected,1
+Salve Svendsen,lel,Undirected,1
+Consul Prebensen,Salve,Undirected,1
+Consul Prebensen,Salve Svendsen,Undirected,1
+D,Schef,Undirected,1
+Beyer,Joachim,Undirected,7
+Don Juan,Joachim,Undirected,1
+Don Juan,Peter Beyer,Undirected,1
+Joachim,Peter Beyer,Undirected,1
+Joachim kasted,Olsen,Undirected,1
+Joachim,Stakkars,Undirected,1
+Beyer,Salve,Undirected,1
+Karen,Sofie,Undirected,1
+Laxerius &,Skaal,Undirected,1
+Salve,lel,Undirected,1
+Salve,tirred Beyer,Undirected,1
+Joachim,Mikkelsen,Undirected,1
+Salve,Skakke,Undirected,1
+Kaptein Olsen,Sandefjord,Undirected,1
+Sandefjord,per Exempel,Undirected,1
+Jasaa,Kaptein,Undirected,1
+Joachim sværmed,glytted,Undirected,1
+Beyer,Kaptein Olsen,Undirected,1
+Beyer,iland,Undirected,1
+Schef,Seiren,Undirected,1
+Kaien,Pappa Rønnow,Undirected,1
+Anthonisen,Kaien,Undirected,1
+Mamma Rønnow,Pappa,Undirected,1
+. Olsen,Mamma,Undirected,1
+Kaptein Kofoed,Mamma Rønnow,Undirected,1
+Kapt.,Olsen,Undirected,1
+Mamma Rønnow,Olsen,Undirected,1
+Olsen,j eg,Undirected,1
+Rønnow,lille Frue,Undirected,1
+Elise,Rønnow,Undirected,3
+Olsen,Rønnow,Undirected,1
+Mamma,Pappa,Undirected,3
+Olsen,Pappa,Undirected,4
+Kaptein Olsen,Mr. Argus,Undirected,1
+Consul Christiansen,Olsen,Undirected,1
+Clerk,Pappa,Undirected,3
+Mamma,Rønnow,Undirected,1
+Gud,Rønnow,Undirected,1
+Mette,Pappa,Undirected,2
+Pappa,paany,Undirected,1
+Mamma,taug,Undirected,1
+Mamma,Wenns,Undirected,3
+Clerk,Wenns,Undirected,1
+Kaptein Olsen,Wenns,Undirected,2
+Mamma,kjære Kapt. Olsen,Undirected,1
+Clerken,Olsen,Undirected,1
+Elise,Herr Rønnow,Undirected,1
+Herr Rønnow,Rønnow,Undirected,1
+Mamma,sejeannes,Undirected,1
+Jeanne,sejeannes,Undirected,1
+Jeanne,lille Frue,Undirected,1
+Anthonisen,Pappa,Undirected,6
+Anthonisen,Kaptein,Undirected,1
+Elise,Olsen,Undirected,1
+Kaptein Olsen,Svendsen,Undirected,1
+Kaptein Svendsen,Wenns,Undirected,1
+Kaptein Svendsen,Mr. Wenns,Undirected,1
+. Kaptein Svendsen,Mr. Wenns,Undirected,1
+. Kaptein Svendsen,Mr. Rønnow,Undirected,1
+Mr. Rønnow,Wenns,Undirected,1
+Nestior,Wenns,Undirected,1
+Kaptein Morton,Wenns,Undirected,1
+Rønnow,Wenns,Undirected,3
+Kaptein Olsen,Morton,Undirected,1
+Jasan,Rønnow,Undirected,1
+Clerker,Lucie,Undirected,1
+Bettie,grazieust,Undirected,1
+Bettie,Lucie,Undirected,2
+Bettie,Olaf Ask,Undirected,2
+Lucie,Terjesen,Undirected,2
+Olaf,Terjesen,Undirected,1
+Olaf,Pappa Rønnow,Undirected,1
+Haba,Terjesen,Undirected,1
+Jente,Terjesen,Undirected,1
+Jente,hu,Undirected,1
+Gamla,hu,Undirected,1
+Gamla,Rønnow,Undirected,1
+Pappa,Rønnow,Undirected,2
+Pappa,Terjesen,Undirected,1
+Gamla,Terjesen,Undirected,1
+Gamla,Jora,Undirected,1
+Jora,Lucie,Undirected,1
+Lucie,henneses,Undirected,1
+Sofie,Wenns,Undirected,1
+Lille Alphonse,Wenns,Undirected,1
+Lille Alphonse,Olsen,Undirected,1
+Morton,Olsen,Undirected,1
+Alphonse,Pappa,Undirected,1
+Morton,Wenns,Undirected,1
+Alphonse,Kurtise,Undirected,2
+Alphonse,Wenns,Undirected,2
+Dandyens,Wenns,Undirected,1
+Dandyens,Laps,Undirected,1
+Laps,Schef,Undirected,1
+Schef,slig,Undirected,1
+Alphonse Argus,Schef,Undirected,1
+Simonsen,Simonsens,Undirected,1
+Elias Simonsens,Simonsen,Undirected,1
+Mr. Wenns,Salve,Undirected,1
+Bettie,Salve,Undirected,3
+Jacob v. Grim,Wenns,Undirected,1
+Jacob v. Grim,didhen,Undirected,1
+Salve,didhen,Undirected,1
+Grim,Herr v.,Undirected,1
+Knekkenbein,Van Knekkenbeins,Undirected,1
+Hansson,Van Bottenfoer,Undirected,1
+Axel Oxenstjerna,Hansson,Undirected,1
+Betties Skaal,Lucie,Undirected,1
+Bettie,Wenns,Undirected,9
+Salve,Svendsen,Undirected,3
+Salve,Salve Svendsen,Undirected,2
+Kaptein Svendsen,Salve Svendsen,Undirected,1
+Bettimor,vesle søde,Undirected,1
+Lucie,Wenns,Undirected,3
+Lucie,Mr. Wenns,Undirected,2
+Lucie,v.,Undirected,1
+Herr Svendsen,v.,Undirected,1
+Bettie,Herr Svendsen,Undirected,1
+Bettie,Svendsen,Undirected,2
+Lucie,Svendsen,Undirected,1
+Salve,Wenns,Undirected,3
+Salve glytted,Samson,Undirected,1
+Antonette,Juling,Undirected,1
+Kjære Mynheer Svendsen,Wenns,Undirected,1
+Kapt. Svendsen,Salve,Undirected,1
+Wenns,paany Salve,Undirected,1
+Adiøs,Antonette,Undirected,1
+Antonette,Salve Svendsen,Undirected,2
+Antonette —,Mr. Wenns,Undirected,1
+Antonette,Vesla,Undirected,1
+Heisan,Mr. Wenns,Undirected,1
+Mr. Svendsen,snerred Wenns,Undirected,1
+Hans,Thor,Undirected,1
+Gut,Hans,Undirected,1
+Antonette,anbelangendes,Undirected,1
+Salve Svendsen-,Sjømand,Undirected,1
+Pepita,vesle Jenta mi,Undirected,1
+Kaptein Svendsen,Karen,Undirected,1
+Kaptein Svendsen,Pepita,Undirected,1
+Langtifra,Pepita,Undirected,1
+Langtifra,Pys,Undirected,1
+Maren,Mulaten,Undirected,1
+Hans,Mulaten,Undirected,1
+Antonette,Hans,Undirected,1
+Pepita,Salve Svendsen,Undirected,1
+Antonette,Pepita,Undirected,1
+Pepita,Per Askeland,Undirected,1
+Hyra,Per Askeland,Undirected,2
+Antonette,Per Askeland,Undirected,1
+Antonette,Pappa Rønnow,Undirected,1
+Pappa Rønnow,Per,Undirected,1
+Kaftein,Per,Undirected,4
+Mefisto,Pappa,Undirected,3
+Pappa,snille Rønnow,Undirected,1
+Isak,Kaptein Hagenæs,Undirected,1
+Hans,Kaptein Hagenæs,Undirected,1
+Gut,Salve Svendsen,Undirected,1
+Moses,Olaf Trygvesøn,Undirected,1
+Hans,Salve,Undirected,1
+Consul,Salve Svendsen,Undirected,2
+Consul,Hans,Undirected,1
+Antonette,Consuler,Undirected,1
+Hubro,circus,Undirected,1
+Hans,Jonas Lie,Undirected,2
+Hans,Ole Bergsvik,Undirected,1
+Ole Bergsvik,iland,Undirected,1
+Ole Seilmager,iland,Undirected,1
+Ole,Ole Seilmager,Undirected,1
+Hans,Langtifra,Undirected,1
+Hans,Salve Svendsen,Undirected,1
+Consulen,Hans,Undirected,1
+Hans,Toddy,Undirected,1
+Pepita,vesle,Undirected,1
+Hans,Kaptein Svendsen,Undirected,1
+Kaptein Salve Svendsen,Kaptein Svendsen,Undirected,1
+Clerkerne,Mefisto,Undirected,2
+Krauss,Wenns,Undirected,3
+Mefisto,Wenns,Undirected,2
+Anthonisen,Wenns,Undirected,2
+Clerkerne,Wenns,Undirected,1
+Albert,Lille Alphonse,Undirected,1
+Wenns,v. Grim,Undirected,1
+Morton,v. Grim,Undirected,1
+Drosche,Morton,Undirected,1
+Kapt,Olsen,Undirected,1
+. Olsen,Kapt,Undirected,2
+Alphonse,Kapt,Undirected,1
+Adieu,Alphonse,Undirected,1
+Adieu,Morton,Undirected,1
+Droschen,Morton,Undirected,1
+Droschen,Wenns,Undirected,1
+Grim,Wenns,Undirected,1
+Alphonse,Grim,Undirected,1
+Alphonse,sogar,Undirected,1
+Wenns,sogar,Undirected,1
+Alphonse,Lille Alphonse,Undirected,1
+Alphonse,Pappa Rønnow,Undirected,1
+Alphonse paany,Krauss,Undirected,1
+Alphonse paany,Wenns,Undirected,1
+Anthonisen,Mefisto,Undirected,1
+Anthonisen,Schef,Undirected,1
+Schef,Wenns,Undirected,4
+Wenns,iveien,Undirected,1
+Argus,Wenns,Undirected,1
+Albert,Krauss,Undirected,5
+Albert,Pappa,Undirected,2
+Albert,Skakke,Undirected,1
+Depesche,Schef,Undirected,1
+Pappa,Wenns,Undirected,3
+Krauss,Pappa,Undirected,1
+Albert,Monsieur Albert,Undirected,1
+Mynheer Rønnow,Rønnow,Undirected,1
+Mynheer Hans,Mynheer Rønnow,Undirected,1
+Mefisto,Monsieur,Undirected,1
+Hans,Pappa,Undirected,1
+Hans,Wenns,Undirected,2
+Mefisto Mynheer Rønnow,Pappa,Undirected,1
+Jens Søren Rønnow,Pappa,Undirected,1
+Schef,vaad,Undirected,1
+Mr. Wenns,vaad,Undirected,1
+Krauss,Mynheer,Undirected,1
+Gottverdamm,Krauss,Undirected,1
+Gottverdamm,Mynheer,Undirected,1
+Hans,Mefisto,Undirected,1
+Sacrrremille-tonnerres,Wenns,Undirected,1
+Mefisto,Mr. Wenns,Undirected,1
+Mefisto,Schef,Undirected,1
+Pappa Rønnow,skjæve,Undirected,1
+Mefisto,skjæve,Undirected,1
+Krauss,Mefisto,Undirected,1
+Anthonisen,Clerker,Undirected,2
+Anthonisen,Pappa Rønnow,Undirected,1
+H. Anthonisen,Pappa,Undirected,1
+An thonisen,Rønnow,Undirected,1
+Bachus,Salve Svendsen,Undirected,1
+Anthonisen,lille Severin,Undirected,1
+Anthonisen,Lille Severin,Undirected,1
+Anthonisen,Rønnow,Undirected,5
+Anthonisen,Severin,Undirected,6
+Severin,Sinne,Undirected,1
+Anthonisen,iveien,Undirected,1
+Anthonisen,Salve,Undirected,2
+Anthonisen,Sofie,Undirected,1
+Kaien,Pappa,Undirected,1
+Rønnow,Salve,Undirected,6
+Mr. Wenns,rnin kjære Svendsen,Undirected,1
+Clerk,Rønnow,Undirected,1
+Clerk,Svendsen,Undirected,1
+Svendsen,William Wenns,Undirected,1
+Beyer,Hans,Undirected,1
+Beyer,Rønnow,Undirected,1
+Kristian,Wenns,Undirected,1
+Kommers,Wenns,Undirected,1
+Anthonisen,Hans,Undirected,1
+Anthonisen,pegte Rønnow,Undirected,1
+Pappa,Salve,Undirected,1
+Rønnow,Wetlesen,Undirected,1
+Grim,Jacob v.,Undirected,3
+Anthonisen,Grim,Undirected,1
+Anthonisen,skjalv,Undirected,1
+Flos,Rønnow,Undirected,1
+Broder,Rønnow,Undirected,2
+Anthonisen,Kjære Rønnow,Undirected,1
+Baron,Kjære Rønnow,Undirected,1
+Grim,Pappa,Undirected,2
+Rønnow,von Grim,Undirected,1
+Grim,Salve,Undirected,2
+Jacob,Priso,Undirected,2
+Jacob,Rønnow,Undirected,2
+Rønnow,Salve Svendsen,Undirected,1
+Consul,Slengemand,Undirected,1
+Svendsen,Von Grim,Undirected,2
+Kong Farao,Rønnow,Undirected,1
+Josef,Kong Farao,Undirected,1
+Alphonse,Krauss,Undirected,1
+Morton,Pappa,Undirected,1
+Albert,Alphonse,Undirected,1
+Albert,Pappa Rønnow,Undirected,1
+Argus,Rønnow,Undirected,1
+Argus,Toddy risled,Undirected,1
+Rønnow,Toddy risled,Undirected,1
+s,v. Grim,Undirected,1
+Jakob v.,Wenns,Undirected,1
+Plebsen,Wenns,Undirected,1
+Jakob,Salve,Undirected,1
+Jacob,Salve,Undirected,2
+Kaien,Salve,Undirected,2
+Lurifas,Salve,Undirected,1
+Salve Svendsen,sligt,Undirected,1
+Jacob,Joachim,Undirected,2
+Joachim,lel,Undirected,1
+Wenns,lel,Undirected,1
+Jacob,Wenns,Undirected,1
+Flos,Kaien vased Clerkerne,Undirected,1
+Jacob,Mor Heybrook,Undirected,1
+Fulas,Mor Heybrook,Undirected,1
+Grim,Heybrooks,Undirected,1
+Jacob v.,Jacob —,Undirected,1
+Kaien,iland,Undirected,1
+Joachim,iland,Undirected,1
+Gutten,Joachim,Undirected,1
+Joachim,vesle Joachim,Undirected,2
+Joachim,Schef,Undirected,1
+Mynheer,Pappa,Undirected,1
+Schef,s,Undirected,1
+Jacob,Salve Svendsen,Undirected,2
+Grim,Salve Svendsen,Undirected,1
+Joachim,Wenns,Undirected,1
+Clerk,Joachim,Undirected,1
+Salve Svendsen,William Wenns,Undirected,1
+Wenns,William Wenns,Undirected,1
+Wenns,omtaaged Salve Svendsens,Undirected,1
+Portoricos,Vesle Pepita,Undirected,1
+Portoricos,Salve Svendsen,Undirected,1
+Mr. Wenns,Wenns,Undirected,1
+Clerk,Schef,Undirected,1
+Gud,Schef,Undirected,1
+Mynheer Rønnow,Schef,Undirected,1
+Joachim,Pappa,Undirected,1

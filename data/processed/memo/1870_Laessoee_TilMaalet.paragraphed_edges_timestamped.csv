@@ -1,0 +1,962 @@
+source,target,timestamp
+Carl,Maria,3
+Jørgen Jensen,Terkild Madsens,5
+Jørgen Jensen,Terkild Madsens,5
+Jørgen Jensen,Verner,5
+Jørgen,Maria,9
+Gud,Verner,12
+Alan,Steen,13
+Jørgen,Lene,15
+Gud,Lene,16
+Barme,Lene,17
+Barme,Jørgen,17
+Jørgen,Lene,17
+Gud,Lene,17
+Gud,Jørgen,17
+Verner,tom,18
+Gud,tom,18
+Ane,Gud,18
+Ane,Gud,18
+Gud,Maria,18
+Maria,Verner,19
+Maria,Verner,19
+Jørgen,Verner,20
+Husbond,Jørgen,22
+Husbond,Jørgen,22
+Jørgen,Lene,22
+Jørgen,Lene,22
+Jørgen,Lene,22
+Jørgen,Lene,25
+Jørgen,Verner,26
+Jørgen,Lene,26
+Jørgen,Lene,27
+Jørgen,Lene,28
+Dn,Jørgen,29
+Dn,Lene,30
+Lene,Verner,30
+Ane,Verner,30
+Ane,Lene,30
+Jørgen,Lene,30
+Jørgen Jensen,lille Anna Verner,32
+Jørgen,Jørgen Jensen,32
+Jørgen,Lene,32
+Verner,lille Anna,33
+Jørgen,lille Anna,33
+Jørgen,Lene,33
+Jørgen,Lene,33
+Jørgen,Lene,33
+Lene,Verner,33
+Maria,Verner,33
+Kobbere,Verner,34
+Anna,Verner,34
+Anna,hnn,34
+Jngling,hnn,34
+Antonius,Jngling,34
+Anna,Antonins,35
+Anna,Antonins,35
+Anna,Antoninsbilledet,36
+Anna,Antoninsbilledet,36
+Anna,Antonius,38
+Anna,Antonius,40
+Anna,hnn,41
+Anna,hnn,41
+Anna,hendx,41
+Anna,Victor,43
+Anna,Maria,43
+Agathe,Anna,45
+Agathe,hnn,45
+Anna,Victor,46
+Anna,Victor,47
+Maria,Verner,49
+Agathe,Bergmann,50
+Agathe,Victor,50
+Maria,Victor,50
+Barme,Verner,52
+Barme,Maria,52
+Anna,Maria,52
+Agathe,Maria,53
+Jørgen,Verner,55
+Jørgen,Verner,56
+Gud,Maria,57
+Maria,Verner,58
+Jensen,Verner,58
+Jensen,Verner,58
+Jørgen Jensen,Verner,58
+Jørgen,Jørgen Jensen,58
+Jørgen,Lene,58
+Jørgen Jensen,Lene,58
+Maria,Verner,59
+Jørgen,Verner,59
+Maria,Verner,60
+Maria,Victor,62
+Maria,Verner,62
+Maria,Verner,63
+Jørgen,Verner,68
+Anna,Verner,68
+Anna,Victor,68
+Maria,Verner,71
+Maria,Verner,72
+Maria,Verner,74
+Maria,Verner,76
+Jørgen,Maria,76
+Jørgen,Lene,76
+Ane,Lille Anna,77
+Ane,Verner,77
+Maria,Verner,77
+Ane,Maria,77
+Ane,Anna,77
+Ane,Anna,77
+Jørgen,Verner,78
+Jørgen,Verner,79
+Jørgen,Verner,81
+Jørgen,Verner,81
+Jørgen,Verner,81
+Jørgen,Verner,81
+Jørgen,Verner,84
+Jørgen,Verner,84
+Jørgen,Verner,84
+Maria,Verner,84
+Lene,Maria,84
+Lene,Maria,85
+Lene,Maria,86
+Maria,Verner,86
+Jørgen,Maria,87
+Maria,Verner,90
+Maria,Verner,90
+Lene,Maria,91
+Lene,Maria,91
+Lene,Maria,91
+Lene,Maria,93
+Jørgen,Lene,93
+Jørgen,Lene,94
+Lene,Maria,94
+Jørgen,Maria,94
+Jørgen,Maria,94
+Jørgen,Lene,95
+Lene,Lene Jørgen,98
+Anna,Lene Jørgen,98
+Anna,Lene,98
+Jørgen,Lene,98
+Jørgen,Lene,98
+Jørgen,Lene,99
+Lene,Lille Anna,99
+Ane,Anna,100
+Ane,Lene,100
+Jørgen,Lene,101
+Jørgen,Lene,102
+Jørgen,Lene,104
+Jørgen,Lene,107
+Anna,Jørgen,107
+Ane,Lene,108
+Jørgen,Lene,109
+Anna,Lene,109
+Anna,Lene,109
+Antonius,Lene,109
+Anna,Antonius,109
+Anna,Lene,109
+Anna,Lene,109
+Anna,Lene,109
+Anna,Lene,109
+Lene,Tænte Agathe,110
+Agathe,Victor,111
+Lene,Victor,111
+Lene,Victor,111
+Lene,Victor,112
+Anna,Victor,113
+Anna,Victor,113
+Anna,Jørgen,113
+Anna,Jørgen,113
+Anna,Lene,113
+Ane,Lene,113
+Ane,Anna,113
+Anna,Lene,113
+Jørgen,Lene,113
+Jørgen,Lene,113
+Jørgen,Lene,113
+Anna,Lene,114
+Jørgen,Lene,114
+Ane,Jørgen,114
+Ane,Anna,114
+Agathe,Maria,115
+Agathe,Maria,115
+Anna,Maria,115
+Agathe,Anna,115
+Agathe,Verner,115
+Marin,Verner,115
+Maria,Marin,115
+Anna,Maria,115
+Anna,Lene,116
+Anna,Victor,117
+Anna,Victor,117
+Anna,Victor,117
+Anna,Victor,117
+Anna,Nordfalk,118
+Anna,Lene,122
+Ane,Lene,132
+Ane,Anna,132
+Anna,Hans,141
+Johannes,Victor,150
+Valdemar,Victor,150
+Dronning Dagmar,Valdemar,150
+Dronning Dagmar,Konstner,150
+Hansen,Victor,151
+Gud,Martini,163
+Jacob Hansen,Martini,164
+Martini,Victor,166
+Johannes,Martini,166
+Johannes,Victor,166
+Karen,Martini,167
+Martini,ester,167
+Johannes,Victor,170
+Martini,Victor,173
+Martini,kjære Hansen,174
+Carl Verner,Martini,174
+Martini,Verner,175
+Verner,Victor,175
+Grevinde Gyldcnfeldt,Maria Verner,176
+Gyldenfcldts,Martini,177
+Gyldenfcldts,Verner,177
+Gyldenfeldt,Martini,179
+Bøgevang,Gyldenfeldt,180
+Bøgevang,as,180
+Anna,Victor,181
+Martini,Pastor,184
+Pastor,Verner,184
+Andrea del Sarto,Verner,184
+Signore,Verner,185
+Grevinde Gyldcnfcldt,Signore,185
+Hnn,kelig,186
+Hnn,hnn,186
+Anna,hnn,186
+Anna,Sophaen,186
+Lille Anna,Sophaen,186
+Antonius,Lille Anna,186
+Antonius,Martini,186
+Martini,Victor.,186
+Anna,Victor,187
+Martini,meente,188
+Gyldenfeldt,Martini,188
+Anna,Gyldenfeldt,188
+Martini,Victor,189
+Martini,Victor,190
+Bergmann,Victor,190
+Bien,Victor,195
+Hr. Martini,Victor,196
+Martini,Victor,197
+Gud,Victor,197
+Jacob Hansen,Victor Bergmann,198
+Hansen,Victor,199
+Martini,Victor,200
+Konstnerbancn,Martini,200
+Dn,Victor,201
+Dn,Victor Bergmann,201
+Hansen,Victor,203
+Martini,Victor,207
+Victor,Væxt,208
+Victor,Væxt,208
+Don,Victor,209
+Don,Vittorio,209
+Annarella,Victor,210
+Signore,Victor,211
+Annarella,Signore,213
+Signorino,Victor,214
+Annarcllas,Signorino,214
+Don Vittorio,Victor,219
+Signore,Victor,220
+Bravo,bslii Aiovani,221
+Martini,Victor,222
+Hansen,Martini,222
+Hansen,assides,222
+Victor,assides,222
+Annarella,Victor,222
+Annarella,Victor,222
+Don Vittorio,Victor,222
+Donna Serafina,Signori,223
+Dands,Signori,223
+Annarella,Victor,224
+Don Vittorio,Signore,225
+Don Vittorio,Maria,225
+Annarella,Tarantellen,227
+Oapri,Tarantellen,227
+Annarella,Signore,229
+Annarella,Don Vittorio,229
+Don Vittorio,Victor,229
+Annarella,Victor,229
+Annarella,Victor,229
+Annarella,Victor,229
+Annarella,Martini,230
+Marfini,Monsieur Gaspard,231
+Marfini,Victor,232
+Martini,Victor,233
+Annarella,Victor,233
+Annarella,Victor,233
+Annarella,Victor,233
+Annarella,Martini,233
+Annarella,Martini,233
+Annarella,Victor,233
+Martini,Victor,233
+Martini,Victor,233
+Martini,Victor,233
+Martini,Victor,233
+Martini,Victor,233
+Martini,Victor sfal,233
+Martini,Victor sfal,233
+Martini,Victor,233
+Martini,Victor,234
+Martini,Victor,234
+Annarella,Victor,236
+Anna,Victor,236
+Anna,Maria,236
+Anna,Maria,236
+Anna,Lille Anna,236
+Anna,Lille Anna,236
+Anna,Annarella,236
+Annarella,Martini,236
+Maria,Verner,238
+Annarella,hnn,239
+Anna,hnn,239
+Anna,Gyldenfeldf,239
+Gyldenfeldf,Martini,239
+Anna,Martini,239
+Anna,Annarella,239
+Annarella,Michel Angelos,239
+Michel Angelos,Onofrio,239
+Onofrio,Tasso,239
+Colosseum,Verner,240
+Maria,Verner,240
+Anna,Lille Anna,241
+Hillemænd,Lille Anna,241
+Hillemænd,Victor,241
+Cousine,Victor,241
+Anna,Cousine,241
+Anna,Martini forat,241
+Martini,Victor,242
+Martini,Victor,242
+Prinds Borghese,Victor,243
+Martini,Victor,251
+Victor,rafl,252
+Martini,rafl,252
+Anna,Gyldenfeldt,269
+Gyldenfeldt,Martini,269
+Anna,Martini,269
+Anna,Gyldenfeldt,270
+Angelica,Sparres,274
+Angelica,Sparres,274
+Angelica,Sparres,274
+Angelica,Sparre,274
+Angelica,Sparre,274
+Angelica,Anna,274
+Angelica,Anna,274
+,Angelica,274
+Anna,hnn,275
+Birken,hnn,275
+Birken,Jørgen Jensen,275
+Jørgen Jensen,Lene,275
+Anna,Gud,279
+Anna,Bergmann,280
+Anna,Victor,281
+Anna,Victor,282
+Anna,Victor,282
+Anna,Victor,283
+Hr. Bergmann,Victor,285
+Anna,Victor,286
+Anna,Victor,288
+Anna,Victor,288
+Anna,Tante Agathe,288
+Anna,Victor,292
+Anna,Victor,293
+Anna,Victor,294
+Anna,Victor,296
+Anna,Victor,296
+Adam,Anna,296
+Adam,Evas,296
+Anna,Evas,296
+Anna,Victor,297
+Anna,Victor,298
+Anna,Victor,298
+Anna,Victor,299
+Anna,Victor,299
+Anna,Victor,300
+Anna,Victor,301
+Anna,Victor,302
+Anna,Victor,303
+Anna,Victor,304
+Anna,Victor,305
+Anna,Victor,309
+Anna,Victor,309
+Anna,Victor,309
+Anna,Christne,309
+Anna,Victor,310
+Amors,Victor,310
+Anna,Gud,312
+Anna,Victor,312
+Anna,Victor,312
+Anna,Antonius,314
+Anna,Victor,316
+Anna,Victor,316
+Anna,Victor,316
+Anna,Victor,316
+Victor,lee,316
+Victor,lee,316
+Anna,Victor,316
+Anna,Victor,317
+Anna,Victor,318
+Anna,lee,318
+Victor,lee,318
+Anna,Victor,320
+Anna,Victor,321
+Victor,soran,323
+Anna,Dandsen,326
+Angelica,Anna,326
+Angelica,Victor,326
+Angelica,Victor,326
+Angelica,Anna,326
+Anna,Victor,326
+Bøgcvang,Victor,326
+Angelica,Bøgcvang,326
+Angelica,Hr. Bergmann,327
+Angelica,Victor,327
+Anna,Victor,327
+Anna,Victor,327
+Angelica,Victor,327
+Angelica,Anna,327
+Anna,Victor,327
+Angelica,Victor,327
+Angelica,Anna,327
+Angelica,Victor,329
+Anna,Victor,330
+Anna,Victor,330
+Angelica,Anna,330
+Angelica,Anna,330
+Angelica,Anna,330
+Angelica,hnn,330
+Victor,hnn,330
+Angelica,Victor,330
+Anna,Johnson,332
+Angelica,Bergmann,333
+Bergmann,Nordfalk,333
+Adonis,Angelica,334
+Adonis,Brynie,334
+Angelica,Stucn,335
+Angelica,Bergmann,337
+Angelica,Anna,338
+Anna,Docforen,339
+Angelica,Doctor Johnson,343
+Angelica,Cuur,343
+Anna,Grevinden,348
+Anna,Lene,351
+Anna,Lene,351
+Anna,Nn,351
+Anna,Nn,351
+Anna,Jørgen,354
+Jørgen,Lene,354
+Anna,Lene,354
+Anna,Victor,354
+Angelica,Anna,355
+Angelica,Victor,355
+Anna,Victor,356
+Angelica,Anna,357
+Angelica,Anna,357
+Anna,Victor,357
+Anna,Victor,357
+Angelica,Anna,358
+Angelica,Victor,359
+Angelica,Victor,359
+Angelica,Victor,359
+Angelica,Anna,359
+Doctoren,Victor,360
+Doctoren,Victor,360
+Victor,frisf,361
+Hr. Bergmann,frisf,361
+Victor,toren,363
+Angelica,Anna,366
+Anna,Doctoren,367
+Angelica,Anna,367
+Angelica,Anna,367
+Anna,Victor,367
+Bøgcvang,Doctoren,369
+Bian,Victor,370
+Angelica,Gustav Sparres,371
+Angelica,Anna,372
+Anna,Victor,372
+Antoniusbilledets,Victor,376
+Anna,Doctor Johnson,378
+Anna,Victor,378
+Doctorcns,Victor,379
+Doctoren,Victor,380
+Doctoren,Victor,380
+Anna,Victor,382
+Angelica,Victor,383
+Angelica,Anna,383
+Anna,Victor,385
+Signore,Victor,386
+Doctor Johnson,Victor,386
+Angelica,Grevinden,387
+Angelica,Anna,387
+Anna,hnn,387
+Angelica,hnn,387
+Angelica,Anna,387
+Angelica,Anna,387
+Angelica,Anna,387
+Anna,pna Bøgcvang,387
+Angelica,pna Bøgcvang,387
+Angelica,Grev Sparres,387
+Anna,Grev Sparres,387
+Anna,ester,388
+Anna,Johnson,388
+Angelica,Victor,389
+Angelica,Anna,389
+Anna,hnn,389
+Victor,Victor sra,391
+Peters,Victor sra,391
+Huns,Peters,391
+Huns,gua uosko8u,391
+El Glas,Victor,392
+Anna,El Glas,392
+Anna,Victor,392
+Anna,Victor,392
+Anna,Victor,392
+Martini,Victor,392
+Martini,Victor,392
+Martini,Victor,394
+Anna,Victor,396
+Anna,Gyldenfeldt,396
+Martini,Victor,397
+Anna,Martini,397
+Angelica,Anna,397
+Angelica,Martini,397
+Hansen,Martini,397
+Bøgevang,Victor,398
+Bøgevang,Martini,398
+Martini,Victor,398
+Konstnerøje,Victor,401
+Benedictus,Victor,402
+Benedictus,Victor,402
+Victor,afBenedictus,402
+Antoniusbilledet,afBenedictus,402
+Anna,Antoniusbilledet,402
+Anna,Victor,404
+Anna,Victor,404
+Anna,Victor,404
+Martini,Victor,405
+Le Moulin,Monsieur Gaspard,406
+Monsieur Gaspard,Monsieur Vittorio,406
+Gaspard,Monsieur Vittorio,406
+Gaspard,Victor,406
+Victor,batiø^a,406
+Oupri,batiø^a,406
+Martini,Victor,407
+Annarella,Victor,407
+Annarella,Victor,407
+Martini,Victor,409
+Anna,Victor,411
+Martini,Victor,412
+Martini,Victor,417
+Martini,Vicfor,419
+Martini,Vicfor,419
+Carnevalstone ovcrdængede,Vicfor,419
+Carnevalstone ovcrdængede,Confetti,419
+Confetti,Victor,419
+Martini,rejsf,420
+Konstens,rejsf,420
+Martini,Victor,421
+Annarella,Victor,421
+Annarella,Martini,421
+Martini,Victor,421
+Annarella,Victor,421
+Annarella,Victor,421
+Victor,hnn,421
+Annarella,Victor,422
+Martini,Victor,422
+Corsoen,Martini,423
+Martini,Victor,424
+Annarella,Martini,424
+Annarella,Martini,424
+Domino,Martini,425
+Martini,Victor,425
+Alan,Victor,425
+Alan,Victor,425
+Masfen,Victor,425
+Anna,Masfen,425
+Anna,Victor,425
+Gylden -,feldt,426
+Martini,feldt,426
+Angelica,Martini,426
+Anna,Hr. Bergmann,427
+Anna,Victor,428
+Anna,Victor,428
+Anna,Gud,430
+Bergmann,Grev Sparre,431
+Angelica,Grev Sparre,431
+Anna,Victor,432
+Angelica,Anna,432
+Angelica,Sparre,432
+Anna,Sparre,432
+Anna,Victor,432
+Anna,Victor,432
+Anna,Victor,432
+Anna,Victor,432
+Anna,Victor,432
+Anna,Victor,433
+Anna,Victor,433
+Anna,Victor,433
+Mandolin,Victor,433
+Anna,Mandolin,433
+6iovanni,Anna,433
+Anna,Victor,434
+Martini,Victor,435
+Anna,Victor,435
+Anna,Martini,435
+Anna,Victor,436
+Anna,Victor,437
+Anna,Victor,437
+Anna,Madonnas,438
+Anna,Madonnas,438
+Anna,Signora,438
+Anna,Victor,442
+Anna,hnn,445
+Anna,Martini,446
+Anna,Victor,446
+Martini,Victor,446
+Martini,Victor,446
+Anna,Victor,446
+Anna,Gud,446
+Gud,Victor,446
+Anna,Victor,446
+Anna,Victor,446
+Anna,Margherita,447
+Anna,Margherita,447
+Anna,hnn,448
+Anna,Margherita,448
+Anna,Margherita,448
+Anna,Uhrets,449
+Uhrets,Victor,449
+Graad,Victor,449
+Anna,Graad,449
+Anna,Victor,449
+Anna,Victor,449
+Anna,hnn,449
+Victor,hnn,449
+Anna,Margherita,451
+Anna,Margherita,451
+Anna,Margherita,451
+Madonna,Margherita,451
+Madonna,Margherita,453
+Margherita,hnn,453
+Pater Anselmo,hnn,453
+Anselmos,Pater,456
+Anselmos,Maria,456
+Anna,Victor,458
+Anna,Victor,458
+Anna,Martini,459
+Hagen,Martini,459
+Anna,Hagen,459
+Anna,Victor,459
+Anna,Victor,461
+Aare,Victor,461
+Aare,Anna,461
+Anna,Victor,466
+Anna,Margherita,467
+Hnn,Victor,468
+Anna,Victor,468
+Anna,Victor,468
+Anna,Victor,468
+Anna,Margherita,469
+Victor,hnn,470
+Victor,hnn,470
+Anna,Lene,471
+Madonna,Margherita,472
+Anna,Madonna,472
+Anna,Victor,476
+Anna,Anna sfadig,476
+Annarella,Victor,478
+Annarella,Victor,478
+Annarella,Victor,478
+Annarella,hnn,478
+Don Vittorio,hnn,478
+Annarclla,Victor,479
+Anna,Victor,480
+Martini,Victor,480
+Martini,Pater Anselmo,480
+Madonna,Pater Anselmo,480
+Anna,Margherita,481
+Margherita,dcn,481
+Anna,Margherita,482
+Anna,Margherita,482
+Anna,Jørgen,482
+Jørgen,Lene,482
+Lene,hnn,482
+Victor,hnn,482
+Victor,fig,482
+fig,hnn,482
+Victor,hnn,482
+Anna,Victor,483
+Anna,Signor Vittorio,485
+Signor Vittorio,Victor,485
+Anna,Victor,485
+Anna,hnn,485
+Madonna,Victor,486
+Anna,hnn,487
+Anna,hnn,487
+Anna,Banquieren,487
+Banquieren,Hr. Bergmann,487
+Anna,Martini,488
+Anna,Florents,490
+Diligencens,Florents,490
+Anna,Diligencens,490
+Anna,nn,491
+Anna,huu,492
+boe,huu,492
+Anna,boe,492
+Anna,Martini,492
+Anna,Martini,492
+Anna,Mademoiselle Sarasin,492
+Anna,Mademoiselle Sarasin,492
+Anna,mam,492
+Mademoiselle,mam,492
+Mademoiselle,Sarasin,492
+Anna,Sarasin,492
+Anna,Martini,492
+Anna,Martini,492
+Anna,Martini,493
+Anna,Mademoiselle Sarasin,494
+Anna,Victor,494
+Anna,Mademoiselle Sarasin,495
+Anna,Mademoiselle Sarasin,495
+Anna,Mademoiselle Sarasin,495
+Anna,Mademoiselle Sarasin,495
+Anna,Mademoiselle Sarasin,495
+Anna,Victor,495
+Mademoiselle Sarasin,Victor,495
+Anna,Martini,496
+Anna,Martini,496
+Anna,Martini,497
+Anna,Victor,497
+Martini,Victor,497
+Martini,Victor,498
+Anna,Victor,498
+Anna,Martini,498
+Anna,Martini,498
+Anna,Victor,498
+Anna,Kjørctur,502
+Anna,Mademoiselle Sarasin,502
+Anna,Mademoiselle Sarasin,502
+Mademoiselle Sarasin,Martini,503
+Anna,Victor,505
+Anna,Victor,506
+Anna,Martini,506
+Martini,strax,506
+Victor,strax,506
+Victor,tom,506
+Anna,tom,506
+Anna,Victor,506
+Martini,Victor,506
+Martini,Victor,506
+Ariadne,Victor,506
+Ariadne,Pantheren,506
+Martini,Pantheren,506
+Annarella,Martini,506
+Martini,Victor,507
+Anna,Victor,507
+Anna,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,Victor,507
+Martini,äol,507
+Martini,äol,507
+Karl,Martini,507
+Karl,Victor,507
+Martini,Victor,507
+Anna,Martini,508
+Anna,Martini,508
+Anna,Martini,509
+Anna,Martini,509
+Jørgen Jensen,Martini,509
+Bøgcvang,Jørgen Jensen,509
+Angelica,Bøgcvang,509
+Angelica,Anna,509
+Anna,Victor,509
+Martini,Victor,509
+Barme,Gud,511
+Anna,Mademoiselle Sarasin,512
+Mademoiselle Sarasin,Martini,512
+Anna,Martini,512
+Anna,soni,512
+Anna,Gud,513
+Anna,tans,514
+Anna,tans,514
+Bøgevang,Victor,515
+Annarclla,Victor,515
+Annarclla,Victor,515
+Anna,Victor,517
+Anna,Jørgen Jensen,521
+Anna angst,Jørgen Jensen,521
+Anna,Anna angst,521
+Anna,Victor,522
+Jørgen,Lene,523
+Johnson,Martini,524
+Anna,Martini,524
+Anna,Martini,524
+Anna,Johnson,525
+Anna,Johnson,529
+Anna,Johnson,529
+Jørgen Jensen,Lene,531
+Anna,Lene,531
+Anna,Jørgen,531
+Anna,Jørgen,532
+Anna,Jørgen,533
+Jørgen,Lene,533
+Martini,Victor,534
+Martini,Victor,534
+Anna,glcdc,535
+Anna,Victor hisset,535
+Johnson,Victor hisset,535
+Johnson,Jørgen,535
+Jørgen,Lene,535
+AnnaS,Lene,535
+AnnaS,Glands,535
+Glands,maasfee,535
+Anna,maasfee,535
+Anna,Jørgen,535
+Jørgen,Lene,535
+AngelicaS,Anna,538
+Anna,Victor,538
+Anna,Johnson,540
+Executor,Johnson,540
+Angelica,Anna,541
+Angelica,Anna,541
+Angelica,Anna,542
+Anna,Victor,543
+Anna,Victor,543
+Anna,Jørgen,543
+Jørgen,Lene,543
+Anna,Jørgen,545
+Jørgen,Lene,545
+Jørgen,Lene,545
+Anna,Jørgen,553
+Anna,Lene,554
+Anna,Lene,554
+Anna,Lene,554
+Lene,Præsf,554
+Jørgen,Lene,555
+Anna,Lene,555
+Anna,Antoniusbillcde,555
+Anna,Antoniusbillcde,555
+Anna,Maria,555
+Martini,Victor,556
+Martini,Victor,556
+Martini,Victor,556
+Martini,Victor,557
+Martini,Victor,558
+Martini,Victor,558
+Martini,franste Konstner,558
+Monsieur Gaspard,franste Konstner,558
+Martini,Monsieur Gaspard,558
+Konstner,Martini,558
+,G.,560
+Annarella,lu bøUazM äi Capri,561
+Monsieur Martini,Signor Vittorio dandse,562
+Monsieur Bergmann,Signor Vittorio dandse,562
+Antonius,Bcnedictus,569
+Martini,Monsieur Gaspard,572
+Signori,Victor,574
+Benedictus,Signori,574
+Martini,Victor,576
+Benedictus,Martini,578
+Martini,Victor,578
+Martini,Victor,578
+Signor Thomaso,Victor,580
+Gastano,Signor Thomaso,580
+Antonius,Gastano,580
+Antonius,Benedictus,580
+Gaotanos,Signori,582
+Martini,Victor,583
+Martini,Victor,584
+Martini,Victor,584
+Martini,Victor,584
+Martini,Victor,584
+Martini,Victor,584
+Victor,idethan,585
+Martini,idethan,585
+Martini,Victor,586
+Martini,Victor,586
+Doctor Johnson,Martini,588
+Anna,Victor,589
+Doctor Johnson,Martini,590
+Martini,Victor,590
+Victor,VictorAnna,590
+Martini,VictorAnna,590
+Martini,Victor,590
+Victor,øg Johnson,590
+Anna,Doctoren,593
+Anna,Victor,596
+Anna,Victor,598
+Lene,Victor,599
+Anna,Johnson,601
+Anna,Victor,602
+Anna,Johnson,603
+Anna,koni,604
+Victor,koni,604
+Anna,Doctoren,605
+Anna,Lene,608
+Jørgen,Lene,608
+Anna,Lene,609
+Anna,Lene,609
+Anna,Doctoren,609
+Doctoren,Jørgen,609
+Anna,Lene,611
+Jørgen,Lene,611
+Anna,Jørgen,611
+Anna,Victor,611
+Endnn,Martini,612
+Endnn,Victor,612
+Antonius,Victor,613
+Signor Thomaso,Victor,613
+Signor Thomaso,Victor,613
+Anna,Martini,615
+Anna,Florents,615
+Anna rakfe,Martini,616
+Anna,Martini,617
+Anna,Martini,619
+Anna,Martini,619
+Anna,Martini,620
+Anna,Victor,621
+Martini,Victor,621
+Anna,Victor,625
+Anna,Victor,627
+Anna,Victor,628
+Martini,Victor,631
+Anna,Victor,631
+Anna,Victor,631
+Martini,Signor Thomaso,632
+Signor Thomaso,Victor,632
+Gud,Victor,633
+Anna,Victor,634
+Anna,Victor,635
+Anna,Victor,635
+Anna,Herren,637
+Anna,Victor,638
+Anna,Victor,638
+Anna,Victor,642
+Monsieur Gaspard,Signor Vittorio,646
+Monsieur Gaspard,Victor,647
+Gaspard,Martini,649
+Gaspard,Signor Vittorio,652
+Gaspard,Victor,652
+Gaspard,Signor,653
+Signor Vittorio,Vittorio,654
+Signor Vittorio,Victor,654
+Gaspard,Victor,655
+Gaspard,Victor strax,657
+Gaspard,Victor strax,657
+Gaspard,Victor,658
+Anna,Victor,659
+Gaspard,Victor,661
+Gaspard,Victor,661
+Anna,Victor,661

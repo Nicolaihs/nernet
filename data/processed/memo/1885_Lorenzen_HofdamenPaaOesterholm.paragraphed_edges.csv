@@ -1,0 +1,398 @@
+source,target,type,weight
+Joachim Ernst,Johan Adolph,Undirected,3
+Hans,Joachim Ernst,Undirected,1
+Hans,Kong Christian III,Undirected,1
+Frederik Vilhelm,Niels Rosenkrands,Undirected,1
+Ahlefeldt,Saar,Undirected,1
+Ahleseldt,Rankzau,Undirected,2
+Rankzau,taug,Undirected,1
+Ahleseldt,Hans v. Ahleseldt,Undirected,1
+Henning Pogvisch,Johan Adolph,Undirected,1
+Rantzau,Rantzauernes,Undirected,1
+Gud,as,Undirected,1
+Gud,Pogvisch,Undirected,1
+Asstand,as Hr. Henning,Undirected,1
+Dorothea Sophia,Prinsesse as Brunsvig-Wolfenbyttel,Undirected,1
+Dorothea,Gud,Undirected,2
+Griffenfeld,Rumohr,Undirected,1
+Griffenfeld,as,Undirected,1
+Johan Adolph,as,Undirected,1
+Aichelberg,Hr. v. Aichelberg,Undirected,1
+Aichelberg,August,Undirected,1
+Johan Frants v. Aichelberg,as Slesvig-Holsten-Sønderborg-Pløn,Undirected,1
+Eutin,v. Aichelberg,Undirected,1
+Eutin,Naades,Undirected,1
+Anna Sophie v. Traudenburg,Naades,Undirected,1
+Anna Sophie v. Traudenburg,Gud,Undirected,1
+Christine,Dorothea,Undirected,1
+v. Aichelberg,vemodig,Undirected,1
+Aichelberg,Eders,Undirected,1
+Aichelberg,ban høs,Undirected,1
+Pløn,v. Aichelberg,Undirected,1
+Pløn,Virgil,Undirected,1
+v. Aichelberg,v. Traudenburg,Undirected,1
+Aichelberg,Aline,Undirected,1
+Gud,v. Aichelberg,Undirected,1
+v. Aichelberg,v. Rønnov,Undirected,1
+Aare,v. Aichelberg,Undirected,1
+Anna Sophie v.,v. Aichelberg,Undirected,1
+Dorothea Christine,v. Aichelberg,Undirected,1
+Aichelberg,Dorothea Christine,Undirected,2
+Aichelberg,Hr. Wunderlich,Undirected,1
+Aichelberg,Wunderlich,Undirected,1
+Hr. Wunderlich,Wunderlich,Undirected,1
+Babba,Dorothea Chrisfine,Undirected,1
+Hr. Wunderlich,v. Aichelberg,Undirected,1
+Griffenfeld,Schumacher,Undirected,1
+Griffenfeld,Johan Adolph,Undirected,5
+Bernhard,Johan Adolph,Undirected,4
+Dell,Gustav Wrangel,Undirected,1
+Dell,Wrangel,Undirected,1
+Alen,Wrangel,Undirected,1
+Alen,Griffenfeld,Undirected,1
+Bibow,Niels Rosenkrands,Undirected,2
+Bibow,Johan Adolph,Undirected,1
+Bernhard,Hahn,Undirected,1
+Hahn,Knuth,Undirected,1
+Johan Adolph,Wrangel,Undirected,1
+Bernhard,Niels Rosenkrands,Undirected,1
+knn,v. Aichelberg,Undirected,1
+karl,knn,Undirected,1
+Bernhard,besternf,Undirected,1
+Johan Adolph,Niels Rosenkrands,Undirected,1
+Niels Rosenkrands,v. Aichelberg,Undirected,2
+Saar,v. Aichelberg,Undirected,1
+Hertug August,v. Aichelberg,Undirected,1
+Griffenfeld,Sophie Amalie,Undirected,1
+Ernst Günther,Griffenfeld,Undirected,2
+Ernst Günther,Lovise Charlotte,Undirected,1
+Lovise Charlotte,Tarents,Undirected,1
+Charlotte,Tarents,Undirected,1
+Charlotte,Dorothea,Undirected,1
+Dorothea,Ernst Günther,Undirected,1
+Johan Adolph,Pløn,Undirected,1
+Pløn,Ulrich Frederik Gyldenløve,Undirected,1
+Ahleseldt,Ulrich Frederik Gyldenløve,Undirected,1
+Ahleseldt,Griffenfeld,Undirected,1
+Griffenfeld,Simoni,Undirected,1
+Høiforræderi,Simoni,Undirected,1
+Grisfenselds,Johan Adolph,Undirected,1
+Grisfenselds,v. Aichelberg,Undirected,1
+Johan Adolph,v. Aichelberg,Undirected,2
+August,Johan Adolph,Undirected,3
+August,Hans,Undirected,1
+Hans,Kong Christian Ill,Undirected,1
+Alexander,Johan Adolph,Undirected,1
+Joachim Ernst Pløn,Johan Adolph,Undirected,1
+Christian Ærø,Joachim Ernst Pløn,Undirected,1
+Christian,Christian Ærø,Undirected,1
+Christian,Johan Adolph,Undirected,1
+Frederik.,Johan Adolph,Undirected,1
+Frederiks,Johan Bugislav,Undirected,1
+Johan Bugislav,Kong Frederik III,Undirected,2
+Reinseld,d. e. Pløn,Undirected,1
+Joachim Ernst,Reinseld,Undirected,1
+Eie,Hain,Undirected,1
+Eie,Frederik Vilhelm,Undirected,1
+Dorothea Chrisfine,v. Aichelberg,Undirected,1
+Dorothea Chrisfine,Dorothea Johanne,Undirected,1
+Dorothea Johanne,ester,Undirected,1
+August,Joachim Frederik,Undirected,1
+Christian Carl,Joachim Frederik,Undirected,9
+Elisabeth Charlotte,Hans,Undirected,1
+Dorothea Christine v. Aichelberg,Hans,Undirected,1
+Frederik,Frederik Vilhelm,Undirected,1
+Dorothea,Frederik Vilhelm,Undirected,1
+Dorothea,Kong Frederik,Undirected,1
+Kong Frederik,Sophie Charlotte,Undirected,1
+Ernst August,Sophie Charlotte,Undirected,1
+Keiser Leopold,Keiseren,Undirected,1
+Eugen,Keiseren,Undirected,1
+Eugen,Leopold,Undirected,1
+Frederik I,Leopold,Undirected,1
+Frederik I,Frederik II,Undirected,1
+Frederik II,Frederik udkastede,Undirected,1
+Frederik,Ludvig XIV,Undirected,1
+Frederik,Wartenberg,Undirected,1
+An gu ft Philip,Ludvig Frederik,Undirected,1
+An gu ft Philip,August Philips,Undirected,1
+Alexander,August Philips,Undirected,1
+Alexander,Hans,Undirected,2
+Alexander,August Philip,Undirected,1
+August Philip,Ludvig Frederik,Undirected,1
+Dornek,Mons,Undirected,1
+Dornek,Griffenfeld,Undirected,1
+Griffenfeld,Lovise Charlotte,Undirected,1
+Ernst Güuther,Lovise Charlotte,Undirected,1
+Augusta,Ernst Güuther,Undirected,1
+Alexander,Augusta,Undirected,1
+Alexander,as,Undirected,1
+Philip,as,Undirected,1
+Alexander,Philip,Undirected,1
+Christian Carl,Obersfen,Undirected,1
+August,Christian Carl,Undirected,1
+August,Dorothea Johanne,Undirected,1
+Karl den,Sobelpels,Undirected,1
+Sobelpels,as,Undirected,1
+Aichelberg,Frøken v.,Undirected,5
+Henrik,v. Gerlach,Undirected,1
+Frøken v. Aichelberg,Gemalinde,Undirected,1
+Aichelberg,Frøken v. Aichelberg,Undirected,1
+Aichelberg,Dalbergs,Undirected,1
+Aichelberg,Wartenberg,Undirected,2
+Aichelberg,v. Wartenberg,Undirected,1
+Chrisfian Carl,Frøken v. Aichelberg,Undirected,1
+Chrisfian Carl,Kønigsbergs,Undirected,1
+Chrisfian Carl,Hain,Undirected,1
+Aichelberg,Hain,Undirected,2
+Aichelberg,Chrisfian Carl,Undirected,3
+Chrisfian Carl,Frøken Aichelbergs,Undirected,1
+Eugen,Frøken Aichelbergs,Undirected,1
+Eugen,sra italiensk Jordbund,Undirected,1
+Christian Carl,sra italiensk Jordbund,Undirected,1
+Christian Carl,Eugen,Undirected,2
+Eugen,Keiser Leopold,Undirected,1
+Frederik,Keiser Leopold,Undirected,1
+Catinats,Eugen,Undirected,1
+Catinats,Christian Carl,Undirected,1
+Eugen,rnaatte,Undirected,2
+Christian Carl,Dorothea Christine,Undirected,1
+Jngen,Theobald,Undirected,1
+Christian Carl,Ester,Undirected,1
+Aichelberg,sorn,Undirected,1
+Charlotte Sophie,Joachim Frederik,Undirected,1
+Charlotte Sophie,Christian Carl,Undirected,1
+Christian Carl,Gyntelberg,Undirected,1
+Jacob II,Vilhelm,Undirected,1
+Jacob II,bun,Undirected,1
+ban,bun,Undirected,1
+Magdalene Juliane,ban,Undirected,1
+Christian Ebenhardt,Magdalene Juliane,Undirected,1
+Aichelberg,Charlotte Sophie,Undirected,1
+Aichelberg,Joachim Frederik,Undirected,1
+Joachim Frederik,bun,Undirected,1
+Frøken v. Aichelberg,bun,Undirected,1
+Aichelberg,Støi,Undirected,1
+Aichelberg,Theobald,Undirected,1
+Gud,Huri,Undirected,1
+Aichelberg,freidig,Undirected,1
+as Rasfau-Dillenburg,soran,Undirected,1
+Gud,as Rasfau-Dillenburg,Undirected,1
+Christian Carl,Gudsgave,Undirected,1
+Gudsgave,Hans,Undirected,1
+Christian Carl,Hans,Undirected,1
+Christian Carl rnaatte,son,Undirected,1
+Aichelberg,son,Undirected,1
+Aichelberg,Gyntelberg,Undirected,1
+Christian Carl,Hain,Undirected,1
+Ernsf Augusf,Frederik Vilhelm,Undirected,5
+Ernst August,Frederik Vilhelm,Undirected,2
+Christian August,Frederik Vilhelm,Undirected,1
+Philip,Philip Ernst,Undirected,1
+Philip,ban,Undirected,1
+Frederik IV,ban,Undirected,1
+Joachim Ernst,Johan Ernst Ferdinand,Undirected,1
+August,Bernhard,Undirected,1
+August,Joachim Ernst,Undirected,1
+Grand,Isabella Margaretha,Undirected,1
+Isabella Margaretha,Marquise de Merode Wesferlo,Undirected,1
+Johan Ernst Ferdinand,Marquise de Merode Wesferlo,Undirected,1
+Johan Ernst Ferdinand,Marie,Undirected,1
+Marie,Marquise de Merode Terlon,Undirected,1
+Marquise de Merode Terlon,Marquisen,Undirected,1
+Aichelberg,Ester Taffelet,Undirected,1
+Aichelberg,Anna Christina Berender,Undirected,1
+Anna Christina Berender,sra Kiel,Undirected,1
+Sophie Cantelberger,sra Kiel,Undirected,1
+Anna Christine Berender,Frederik,Undirected,1
+Anna Christine Berender,Chrisfian V.,Undirected,1
+Anna Sophie,Chrisfian V.,Undirected,1
+Anna Sophie,Leopold Chrisfian,Undirected,1
+Chrisfian Adolph,Leopold Chrisfian,Undirected,1
+Chrisfian Adolph,Philip Ernst,Undirected,1
+Leopold Christian,Philip Ernst,Undirected,1
+Aichelberg,Johan Adolph,Undirected,3
+Aichelberg,Aland,Undirected,1
+Johan Adolph,Johan Ernst Ferdinand as Rethwisch,Undirected,1
+Hesfen,Joachim Frederik,Undirected,1
+Aichelberg,Hesfen,Undirected,1
+Carl ste,Christian Carl,Undirected,1
+Aichelberg,Ernst August,Undirected,1
+Christian Carl,v. Curti,Undirected,1
+Aichelberg,Christian Carl,Undirected,1
+Aichelberg,Ankergrund,Undirected,1
+Aichelberg,Curti,Undirected,1
+Chrisfian Carl,v. Curti,Undirected,1
+Hain,Joachim Frederik,Undirected,1
+Hain,Joachim,Undirected,1
+Frederik,Joachim,Undirected,1
+Christian Carl,Frederik,Undirected,1
+Angust,Joachim Frederik,Undirected,1
+F. v. Krogh,Joachim Frederik,Undirected,1
+halls,huil,Undirected,1
+halls,siii,Undirected,1
+Jolle,dei,Undirected,1
+Theobald,dei,Undirected,1
+Christine,hnn,Undirected,2
+Theobald,Vilhelmine Auguste,Undirected,2
+Gud,hnn,Undirected,1
+eil,sif,Undirected,1
+sif,sorn,Undirected,1
+Theobald,Vilhelmines,Undirected,1
+Gud,Theobald,Undirected,3
+Aichelberg,Griffenfeld,Undirected,1
+Dorothea Sophie,Johan Adolph,Undirected,1
+August,Dorothea Sophie,Undirected,1
+August,Elisabeth Marie,Undirected,1
+Elisabeth Marie,Rudolph Frederik as Nordborg,Undirected,1
+Johan Bugislav,Rudolph Frederik as Nordborg,Undirected,1
+Adolph August,Kong Frederik III,Undirected,1
+Adolph August,Elisabeth Marie,Undirected,1
+Leopold August,uu Johan Adolph,Undirected,1
+Joachim Frederik,Johan Ernsf Ferdinand,Undirected,1
+Johan Adolph,Johan Ernsf Ferdinand,Undirected,1
+Joachim Frederik,Johan Adolph,Undirected,2
+Joachim Ernsf,Johan Ernsf Ferdinand,Undirected,1
+Don Raimund,Joachim Ernsf,Undirected,1
+Don Raimund,Johan Ernst Ferdinand,Undirected,2
+Don Raimund,Johan Adolph,Undirected,2
+Adolph August,Don Raimund,Undirected,1
+Adolph August,Leopold,Undirected,1
+Ben Ibrahim,Hain,Undirected,2
+,Leopold Augusf,Undirected,1
+,Joachim Frederik as Nordborg,Undirected,1
+Joachim Frederik as Nordborg,Johan Ernst,Undirected,1
+Joachim Frederik,Johan Ernst,Undirected,1
+Augusf,Johan Adolph,Undirected,1
+Joachim Frederik,Keiser,Undirected,1
+Frederik Carl,v. Carlstein *),Undirected,1
+Vilhelmine Auguste,v. Carlstein *),Undirected,1
+Christian Carl sra Umstadt,v. Curti,Undirected,1
+Gyntelberg,v. Curti,Undirected,1
+Cærti,Gyntelberg,Undirected,2
+Gyntelberg,Harn,Undirected,1
+Gyntelberg,Vielfesacten,Undirected,1
+Aichelberg,Christine,Undirected,1
+Christine,Fred erik Reventlow,Undirected,1
+August,Fred erik Reventlow,Undirected,1
+Christian Carl,Grev Reventlow,Undirected,1
+Greven,Reventlow,Undirected,1
+Cbriftian Carl,Frøken v.,Undirected,1
+Gyntelberg,Nielsen,Undirected,1
+Effer,Frederik Reventlow,Undirected,1
+Effer,Haan,Undirected,1
+Christine,Haan,Undirected,1
+Christine,von Ehrenkron,Undirected,1
+Theobald,dant,Undirected,1
+Frederik Carl,Vilhelmine Auguste,Undirected,5
+Frederik Carl,Joachim Frederik,Undirected,5
+Christine,Vilhelmine Auguste,Undirected,1
+Christian Carl,Vilhelmine Augusfe,Undirected,1
+Borgmeslerens,Christine,Undirected,1
+Kong Frederik IV,Vilhelmine Auguste,Undirected,1
+Christian Eberhardt,Magdalene Juliane v. Birchenfeldt,Undirected,1
+Christian Eberhardt,Johan Ernst Ferdinand,Undirected,1
+Foederik IV,Johan Ernst Ferdinand,Undirected,1
+Foederik IV,von Pedersdorff,Undirected,1
+von,von Pedersdorff,Undirected,1
+Babbe,von,Undirected,1
+Babbe,Joachim Frederik,Undirected,1
+Christian Carl,D. Reventlow,Undirected,1
+D. Reventlow,v. John,Undirected,1
+Carlstein,Frederik Carl,Undirected,1
+Anna Sophia,v. John,Undirected,1
+Anna Sophia,Conrad Reventlow,Undirected,1
+Conrad Reventlow,as Slesvig,Undirected,1
+Anna Sophia Reventlow,as Slesvig,Undirected,1
+Gaader,John,Undirected,1
+Frederik Reventlow,v. John,Undirected,1
+Frederik Carl,Hs,Undirected,1
+Johan Ernsf Ferdinand,John,Undirected,1
+Johan Ernsf Ferdinand,Marquise Marie de Merode Terlon,Undirected,1
+Marquise Marie de Merode Terlon,Marquisen,Undirected,1
+Marquisen,Nordborgs,Undirected,1
+Joachim Frederik,Nordborgs,Undirected,1
+Christian Carl,John Resfen,Undirected,1
+Christian Carl,Christine,Undirected,1
+Christine,John,Undirected,1
+Gemal,Gud,Undirected,1
+Christine sor,John,Undirected,1
+Christine sor,sorn,Undirected,1
+Christine,sorn,Undirected,1
+Carlsten fil,Norborg,Undirected,1
+Christian Carl,Dorothea Christine v. Aichelberg,Undirected,1
+Dorothea Christine v. Aichelberg,Frederik Carl,Undirected,1
+Allles,Christian Carl,Undirected,1
+Allles,Frederik Carl,Undirected,1
+Carls tein,Frederik Carl,Undirected,1
+Carls tein,Christine,Undirected,1
+Christine,as,Undirected,1
+Christian Ditlew,Conrad Ditlev Reventlow,Undirected,1
+Christian Ditlew,John,Undirected,1
+John,v. Reventlows,Undirected,1
+Gud,v. Reventlows,Undirected,1
+Conrad Reventlow,Vilhelmine Auguste,Undirected,1
+Armgardis Reventlow,Frederik Carl,Undirected,1
+Armgardis Reventlow,Conrad Ditlev,Undirected,1
+Charlotte Sophie,ester Broderens,Undirected,1
+Joachim Frederik,ester Broderens,Undirected,1
+Reventlow,Vilhelmine Auguste,Undirected,1
+Frederik“,Vilhelmine Auguste,Undirected,1
+Frederik,Greves,Undirected,1
+Anna Sophie,Christian,Undirected,1
+Christian,sligt,Undirected,1
+Conrad Ditlev Reventlow,Vilhelmine Auguste,Undirected,2
+Atands,Vilhelmine Auguste,Undirected,1
+John,v. John,Undirected,1
+Frederik Carl,Pløn,Undirected,3
+Vilhelmine Auguste,v. John,Undirected,1
+Brysf,Son,Undirected,1
+Frederik Carl,v. Carlstein,Undirected,1
+Ukrud,dein,Undirected,1
+Dorothe Johanne,Ukrud,Undirected,1
+Christian Carl,Dorothe Johanne,Undirected,1
+Niels Rosenkrands,v. Holstein,Undirected,1
+Johan Rudolph,Niels Rosenkrands,Undirected,1
+Johan Rudolph,v. Rumohr,Undirected,1
+Rumohrsgaard,v. Rumohr,Undirected,1
+Frederik Carl,John,Undirected,1
+Frederik Carl,Keiseren,Undirected,1
+Bedstefaderens,Keiseren,Undirected,1
+Frederik Vilhelm,John,Undirected,1
+Frederik Carl,Frederik Vilhelm,Undirected,1
+Frederik Carl,Ludvig Frederik,Undirected,2
+Ludvig den,Philip,Undirected,1
+Fleurys,Ludvig den,Undirected,2
+Frederik Carl,Ludvig den,Undirected,1
+Frederik Carl,as,Undirected,1
+Molzahn sra Breslau,as,Undirected,1
+Frederik Carl,Molzahn sra Breslau,Undirected,1
+Frederik Carl,Molzahn,Undirected,1
+Joachim Frederik,John,Undirected,1
+John,Nordborg,Undirected,1
+Frederik Carl,Nordborg,Undirected,1
+Frederik Carl,Johan Ernst Ferdinand,Undirected,1
+Frederik Carl,Pedersdorsf,Undirected,1
+Pedersdorsf,v. Babbe,Undirected,1
+Frederik Carl,v. Babbe,Undirected,1
+Christine Armgardis,Frederik Carl,Undirected,3
+Frederik Carl,Komtesse Armgardis,Undirected,1
+Gyntelberg,frein,Undirected,1
+Gyntelberg,fank,Undirected,1
+Gyntelberg,son,Undirected,3
+Gyntelberg,dei,Undirected,1
+Johan Adolph,son,Undirected,1
+Johan,Johan Adolph,Undirected,1
+Adolphs,Johan,Undirected,1
+Frederik Carl,Susel,Undirected,2
+Frederik Carl,son,Undirected,1
+Christine Armgardis,Pløn,Undirected,1
+Christine Armgardis,Georg Ludvig,Undirected,1
+Christian Frederik,Georg Ludvig,Undirected,1
+Charlotte Amalie Vilhelmine,Christian Frederik,Undirected,1
+Caroline,Charlotte Amalie Vilhelmine,Undirected,1
+Frederik Carl,Hans,Undirected,1
+Hans,Reinfeld,Undirected,1
+Christian den sjette,Frederik den,Undirected,1
+Aled,ester,Undirected,1
+Tcenk,ester,Undirected,1

@@ -1,0 +1,79 @@
+source,target,type,weight
+Gud,polisk,Undirected,1
+Frøken Vinter,Marie,Undirected,2
+Line,Sine,Undirected,1
+Dine,Sine,Undirected,1
+Dine,Marie,Undirected,1
+Liv,Marie,Undirected,2
+Marie«,Vinter,Undirected,1
+Marie,per aspera,Undirected,1
+astra,per aspera,Undirected,1
+Julia,Marie,Undirected,1
+Fredriksen,Pincenez,Undirected,1
+Harry Vinter,Vinter,Undirected,1
+Marie,Vinter,Undirected,1
+Harry,Marie,Undirected,42
+Line,Marie,Undirected,2
+Harry,Honoratiores,Undirected,1
+Gud,Harry,Undirected,11
+Bruns,Harry,Undirected,1
+Gud,Marie,Undirected,4
+Harry,Stella,Undirected,1
+B.,Marie,Undirected,1
+Marie,h en d,Undirected,2
+Antonio,Pietro,Undirected,1
+Harry,Signor Torre,Undirected,1
+Maud,Vest,Undirected,1
+Harry,Maud,Undirected,35
+Harry,Vesuvs,Undirected,1
+Harry,Monsieur,Undirected,1
+Maud,Monsieur,Undirected,1
+Gud,Maud,Undirected,7
+Harry,chansonnette,Undirected,1
+Maud,hdte,Undirected,1
+Harry,Victor,Undirected,2
+Harry,Mr. Victor,Undirected,3
+Maud,Mr. Victor,Undirected,1
+Mr. Victor,Sottise,Undirected,1
+Antonio,Ninetta,Undirected,1
+Adam,Bjørn,Undirected,1
+Christian Wintherske,Harry,Undirected,1
+Christian Wintherske,Heinesk Kjærlighed,Undirected,1
+Kapitain C.,Maud,Undirected,1
+Faders,Gud,Undirected,1
+Harry,Sottise,Undirected,1
+Hansen,Maud,Undirected,1
+Maud,vims,Undirected,1
+Maud,Musse,Undirected,1
+Marie,Rogert,Undirected,16
+Marie,Maud,Undirected,33
+Marie Vinter,Vinter,Undirected,1
+Mane,Rogert,Undirected,1
+Harry,ban bode,Undirected,1
+Emmy,Harry,Undirected,1
+Emmy,Møller,Undirected,1
+Harry,Møller,Undirected,1
+Harry,Rogert,Undirected,10
+Marie Maud,Maud,Undirected,1
+Bentzon,Marie,Undirected,1
+Bentzon,Maud,Undirected,1
+Maud,Rogert,Undirected,3
+Juliette,Maud,Undirected,1
+Flan,Marie,Undirected,1
+Fredriksberg Allé,Marie,Undirected,1
+Fredriksberg Allé,Rogert,Undirected,1
+Marie,hans,Undirected,2
+Brun,Harry,Undirected,1
+Gud,Karoline,Undirected,2
+Frøken Vest,Maud,Undirected,1
+Kjære,Maud,Undirected,1
+Kjære,Marie,Undirected,1
+Harry,Marie Vinter,Undirected,1
+Marie Vinter,Maud,Undirected,1
+Maud,taust,Undirected,1
+Maud,lille Rogerts,Undirected,1
+Maud,hans,Undirected,1
+Fløjels,Rogert,Undirected,1
+Madam Hansen,Marie,Undirected,1
+Madam Hansen,Rogert,Undirected,1
+Maud,sinf,Undirected,1

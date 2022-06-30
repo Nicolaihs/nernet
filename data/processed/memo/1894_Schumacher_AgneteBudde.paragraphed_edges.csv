@@ -1,0 +1,462 @@
+source,target,type,weight
+sisfe,von der Wisch,Undirected,1
+Christian,sisfe,Undirected,1
+Christian,Hr. Timme,Undirected,1
+Hr. Timme,Meerheims,Undirected,2
+Hr. Timme,Volter,Undirected,2
+Hr. Timme,Karl,Undirected,4
+Hr. Timme,Wer,Undirected,1
+Jens Brade,kong Frederik,Undirected,1
+Gud,kong Frederik,Undirected,1
+Gud,giffue,Undirected,1
+Ano,giffue,Undirected,1
+Burchard,Drcwitz,Undirected,1
+Carl Gustaf,Drcwitz,Undirected,1
+Asten,Carl Gustaf,Undirected,1
+Christoffer Barnekow,Parsberg,Undirected,1
+Birgitte Skeel,Parsberg,Undirected,1
+Birgitte Skeel,Christen Skeel,Undirected,1
+Birgitte Rud,Christen Skeel,Undirected,1
+Birgitte Rud,Carl Gustaf,Undirected,1
+Carl Gustaf,Joachim Gersdorf,Undirected,1
+Joachim Gersdorf,Ove Juel,Undirected,1
+Kjeld Lange,Ove Juel,Undirected,1
+Barnekow,Lillø,Undirected,1
+Lillø,Vidskøfle,Undirected,1
+Christen Skeel,Vidskøfle,Undirected,1
+Christen Skeel,Kjeld,Undirected,1
+Christoffer Parsberg,Kjeld,Undirected,1
+Christoffer Parsberg,Frederik den Tredie,Undirected,1
+Chrisfian den Femte,Frederik den Tredie,Undirected,1
+Chrisfian den Femte,stauden,Undirected,1
+Ove Rammel,stauden,Undirected,1
+Christian,Duncams,Undirected,1
+Duncams,Hr. Timme,Undirected,1
+Agnete Sofie Budde,Selsiab,Undirected,1
+Hnn,Selsiab,Undirected,1
+Agnete,Hnn,Undirected,1
+Faster,sorn,Undirected,1
+Agnete,Kjeld,Undirected,15
+Agnete,mildl,Undirected,1
+Hr. Burchard,Hr. Timme,Undirected,3
+Hr. Burchard,Kasper,Undirected,1
+Hain,Kasper,Undirected,1
+Ieg,hnn,Undirected,1
+Hr. Burchard,Ieg,Undirected,1
+Agnete,Junker,Undirected,1
+Junker,Kjeld,Undirected,1
+Hr. Timme,Jens Brahe,Undirected,1
+Aaens,Hr. Timme,Undirected,1
+Carl,Christian,Undirected,1
+Gud,Kong Christian,Undirected,1
+Kong Christian,allenfals,Undirected,1
+Inger,Snaphanen,Undirected,1
+Aaens,Snaphanen,Undirected,1
+Hr. Burchard,lille Mads,Undirected,1
+Kraff,lille Mads,Undirected,1
+Hr. Timme,Kraff,Undirected,1
+Timme,lille Mads,Undirected,1
+Mads,ein Karl,Undirected,1
+Aabreddcn,sif „,Undirected,1
+Hr. Timme,Per,Undirected,5
+Mads,kain,Undirected,1
+Mads,Per,Undirected,11
+Hr. Timme,lille Mads,Undirected,2
+Hr. Timme,Lille Mads,Undirected,1
+Lille Mads,lille Mads,Undirected,1
+Mads,lille Mads,Undirected,4
+Mads,Swanewedel,Undirected,2
+Mcerheim,Meerheim,Undirected,1
+Alles,Swanewedel,Undirected,1
+Mads,Vamsen,Undirected,1
+Hr. Burchard,Swanewedel,Undirected,1
+Hr. Burchard,sif,Undirected,1
+Swanewedel,ei,Undirected,1
+Swanewedel,lille Mads,Undirected,1
+Svenslerne,lille Mads,Undirected,1
+Aaen,Svenslerne,Undirected,1
+Gud,Swanewedel,Undirected,1
+Per Fisfer,lille Mads,Undirected,1
+Per Fisfer,Vams,Undirected,1
+Inger,Snaphane,Undirected,1
+Erik,Mads,Undirected,16
+Mads,kauffe,Undirected,1
+Erik,Per Fisfer,Undirected,1
+Mads,Meerheim,Undirected,3
+Erik,Karl,Undirected,1
+Junker Timme,d. Wisch,Undirected,3
+Haquin Spegel,Hr. Timme,Undirected,1
+Haquin Spegel,Helmfelt,Undirected,1
+Carl den Ellevtes,Haquin Spcgel,Undirected,1
+Carl den Ellevtes,Johan Gyllenstierna,Undirected,1
+Elsas,Gyllenstierna,Undirected,1
+Elsas,Is Uoi Lolsil,Undirected,1
+Christian,Is Uoi Lolsil,Undirected,1
+Gyllenstierna,Haquin Spegel,Undirected,1
+Johan,Kong Johan,Undirected,1
+Hs,Kong Johan,Undirected,1
+Swnncwedels,Wachtmeister,Undirected,1
+Leir,Swnncwedels,Undirected,1
+Spegel,d. Wisch,Undirected,1
+Gyllenstierna,Wachtmeister,Undirected,1
+Gyllensfierna,Swanewedel,Undirected,1
+Kaptain Drewitz,d. Wisch,Undirected,1
+Gyllenstierna,Hans Wachtmeister,Undirected,1
+Christianopel,Hans Wachtmeister,Undirected,1
+Axel Wachtmeister,Christianopel,Undirected,2
+Axel Wachtmeister,Schultz,Undirected,1
+Feltmarskalk Helmfelt,Gyllenstierna,Undirected,1
+Fist,Hau,Undirected,1
+Fist,Per,Undirected,2
+Snaphane,Ulfeldt,Undirected,1
+Mester Hermans,Ulfeldt,Undirected,1
+Gud,Per,Undirected,1
+Hr. Ulfeldt,v. d. Wisch,Undirected,1
+Vidfløfle,v. d. Wisch,Undirected,1
+Eriksson,Hr. Timme,Undirected,1
+Hr. Timme,Vidskøsle,Undirected,1
+Lysef,Vidskøsle,Undirected,1
+Leir,Per Fisker,Undirected,1
+Gudsfred,Per Fisker,Undirected,1
+Gudsfred,Per,Undirected,1
+Per,Swanewedel,Undirected,1
+Hain,Mads,Undirected,1
+d. Wisch,v.,Undirected,1
+Meerheim,lille Mads,Undirected,1
+Schultz,Svenslerne,Undirected,1
+Schultz,fom,Undirected,1
+Carl,Schultz,Undirected,1
+,Schultz,Undirected,1
+,Johan Gyllenstierna,Undirected,1
+Axel Wachtmeister,Johan Gyllenstierna,Undirected,2
+Dansfen,Hedvig Eleonora,Undirected,1
+Dansfen,Kong Christian,Undirected,1
+Gud,fluide,Undirected,1
+Slædæn,hnn,Undirected,1
+Anders Falsladius,Carsten Rønnow,Undirected,1
+Anders Falsladius,Carl uhindret,Undirected,1
+Kaptam Drewitz,Lieutenant Sparrfelt,Undirected,1
+Drewitz,Sparrfelt,Undirected,1
+Amor,Karlen,Undirected,1
+Karen,dansfe,Undirected,1
+Corfits Ulfeldt,dansfe,Undirected,1
+Bartholomæus Mikkelsen,Corfits Ulfeldt,Undirected,1
+Bartholin,Bartholomæus Mikkelsen,Undirected,1
+Bartholin,Kong Frederiks,Undirected,1
+Kong Frederiks,Schøw,Undirected,1
+Budde,Schøw,Undirected,1
+Budde,Jomfru Karen,Undirected,1
+Jomfru Karen,lille Karen,Undirected,1
+Jomfru Karen,Lindqvist,Undirected,1
+Jomfru Karen,fulgle,Undirected,1
+Lindqvist,fulgle,Undirected,1
+Karen,Lindqvist,Undirected,1
+Karen,Karl,Undirected,1
+Karen,Karlen,Undirected,2
+Karen,lille Karen,Undirected,3
+Lieutenant Sparrfelt,lille Karen,Undirected,1
+Karen,Lieutenant Sparrfelt,Undirected,1
+Burchard v. Drewitz,Jomfru Karen,Undirected,1
+Karen,Niels Svabe,Undirected,1
+Karen,Ola Eriksson,Undirected,1
+Lindqvist,Ola Eriksson,Undirected,1
+Carl Gustaf,Karen,Undirected,1
+Carl Gustaf,Lieutenant Budde,Undirected,1
+Lieutenant Budde,Lieutenant Drewitz,Undirected,1
+Karen,Lieutenant Drewitz,Undirected,1
+Kaptain Drewitz,Lieutenant Sparrfelt,Undirected,1
+Jomfru Agnete,Lieutenant Sparrfell,Undirected,1
+Jomfru Agnete,Karen Svabe,Undirected,1
+Jomfru Agnete,Kaptain Drewitz,Undirected,1
+Agnete,Junker Kjeld,Undirected,1
+Agnete,Jomfru Agnete,Undirected,1
+Jomfru Agnete,Niels Svabe,Undirected,1
+Laurits Budde,Niels Svabe,Undirected,1
+Drewitz,Karen,Undirected,1
+Jomfru Agnete,Karen,Undirected,1
+Drewikz,Sparrfelt,Undirected,1
+Kong Karl,grant,Undirected,1
+Eriksson,Kaptain Drewikz,Undirected,1
+Eriksson,Leir,Undirected,1
+Beien,Leir,Undirected,1
+Hr. Timme,Vidsføfle,Undirected,2
+Hr. Timme,d. Wisch,Undirected,1
+Lieutenanten,Sparrfelt,Undirected,1
+Per Fisker,Vidsføfle,Undirected,1
+Hr. Timme,Præsfen,Undirected,1
+Niels Trulsson,Præsfen,Undirected,1
+Niels Trulsson,Sparrfell,Undirected,1
+Hr. Timme,Sparrfell,Undirected,1
+Hr. Timme,age,Undirected,1
+Karl,age,Undirected,1
+Hr. Timme,Niels Trulsson,Undirected,2
+Lars Støvle,Mikkel Smed,Undirected,1
+Lars,Mads,Undirected,44
+Lars,snild,Undirected,1
+Lars,Mikkel,Undirected,3
+Mads,Mikkel Smed,Undirected,3
+Miltel Smed,lille Mads,Undirected,1
+Lars,Miltel Smed,Undirected,1
+Mads,Mikkel,Undirected,4
+Lars Støvle,Mads,Undirected,3
+Jeppe,Mads,Undirected,1
+Jeppe,Per Krage,Undirected,1
+Lars,lange,Undirected,2
+Mikkel,Tøi,Undirected,1
+Mads,Ole Tasfe,Undirected,1
+Karl,Lars,Undirected,1
+Karl,lille Mads,Undirected,1
+Lars,lille Mads,Undirected,3
+Lars,Per Krage,Undirected,4
+Kasper,Lars,Undirected,1
+Gud,Per Krage,Undirected,1
+Per,Per Krage,Undirected,1
+Kansfe,Lars,Undirected,1
+Lars,Per,Undirected,2
+Mads,sock,Undirected,2
+,Mads,Undirected,2
+,Lars,Undirected,2
+Johan,Mads,Undirected,1
+Johan,Niels Trulsson,Undirected,1
+Mads,Niels Trulsson,Undirected,1
+Mads,Timme,Undirected,2
+Niels,Timme,Undirected,1
+Mads,Niels,Undirected,7
+Hr. Timme,Niels,Undirected,3
+Hr. Timme,Mads,Undirected,3
+Johan,Mads skjøtter,Undirected,1
+Ingeborg Mänsdotter,Mads,Undirected,1
+Eskild,Ingeborg Mänsdotter,Undirected,1
+Eskild,Ingeborg,Undirected,1
+Ingeborg,klein,Undirected,1
+Niels,klein,Undirected,1
+Johan,Lars,Undirected,1
+Niels Trulsson,Sabel,Undirected,1
+Niels,Sabel,Undirected,1
+Mikkel Smed,Mølle-Erik,Undirected,1
+Erik,Mikkel,Undirected,7
+Mads,d. Wisch,Undirected,1
+Degeberg,Mads,Undirected,1
+Erik,truffef,Undirected,1
+Per,truffef,Undirected,1
+Per Fisker,jø,Undirected,1
+Erik,Hr. Timme,Undirected,13
+Erik,Lars,Undirected,1
+Niels Trulsson,lange Lars,Undirected,1
+Hr. Timme,Lars,Undirected,2
+Lars,Niels Trulsson,Undirected,3
+Mikkel,Niels Trulsson,Undirected,1
+Lars,Snaphane,Undirected,2
+Hr. Timme,Snaphane,Undirected,1
+Hr. Timme,Snaphanernc,Undirected,1
+Davren,Mikkel,Undirected,1
+Erik,Mikkel Smed,Undirected,1
+Erik,Mondurens,Undirected,1
+Erik,Hain,Undirected,1
+Lars,Per Kroge,Undirected,1
+Mads,Per Krage,Undirected,1
+Hain,Snaphane,Undirected,1
+Hørrøds,Lars,Undirected,1
+,Asfen,Undirected,1
+Asfen,Niels,Undirected,1
+Hr. Timme,fimes,Undirected,1
+Niels,Vidskøfle,Undirected,1
+Askald,Hr. Timme,Undirected,1
+Erik,Sparrfelt,Undirected,1
+Erik,Inger,Undirected,11
+Erik,Per,Undirected,3
+Hr. Timme,lille Erik,Undirected,1
+Erik,Snaphane,Undirected,2
+Erik,fog,Undirected,1
+Per,Per Fisker,Undirected,1
+Hr. Timme,Per Fifler,Undirected,1
+Mosfer,Per,Undirected,1
+Inger,Mosfer,Undirected,1
+Inger,Per,Undirected,11
+Inger,hnn,Undirected,1
+Mads Skytte,Per,Undirected,1
+Inger,Jnger,Undirected,1
+Inger,Mads Skytte,Undirected,1
+Mads,kvrt,Undirected,1
+Mads,Tina,Undirected,2
+Inger,Tina,Undirected,6
+Anger,Tina,Undirected,1
+Erik,Tina,Undirected,4
+Tina,taus,Undirected,1
+Tina Saarene,taus,Undirected,1
+Mads,Tina Saarene,Undirected,1
+Per,Tina,Undirected,1
+Jnger,Vorherre,Undirected,1
+Barnekow,Else Ramme,Undirected,1
+Else Ramme,Inger,Undirected,1
+Inger,Skaane,Undirected,1
+Per,Skaane,Undirected,1
+,Kaptain Drewitz,Undirected,1
+,Fist,Undirected,1
+Aste,Per,Undirected,1
+Per,lille Mads,Undirected,2
+Per,Sine,Undirected,1
+Erik,Rasmus,Undirected,2
+Mads,grant,Undirected,1
+Lars,grant,Undirected,1
+Kong Carls,Lars,Undirected,2
+Hr. Krabbe,Krabbe,Undirected,1
+Gud,Ingeborg,Undirected,1
+Ingeborg,lille Niels,Undirected,2
+Ingeborg,Niels,Undirected,5
+Ingeborg,grant,Undirected,1
+ester,grant,Undirected,1
+Ingeborg,ester,Undirected,1
+Admiral Tromp,Karl,Undirected,1
+Mølleren,hau,Undirected,1
+Ingeborg,Lille Mads,Undirected,1
+Gud,Niels,Undirected,1
+Gud,sfal Niels,Undirected,1
+Kong Chrisfian,sfal Niels,Undirected,1
+Mads,Per Fisfer,Undirected,1
+Per,Per Asfen,Undirected,1
+Per,lille Inger,Undirected,1
+Drewikz,Swane-wedels,Undirected,1
+Carl Gustaf,Swane-wedels,Undirected,1
+Carl Gustaf,Drewikz,Undirected,1
+Agnete,Drewikz,Undirected,5
+Agnete,Parsberg,Undirected,1
+Drewikz,Parsberg,Undirected,1
+Drewitz,Nisten,Undirected,2
+Agnete,Kapfain Drewitz,Undirected,1
+Agnete,Grubbe,Undirected,1
+Grubbe,Hans Ulrik Gyl-løves,Undirected,1
+Agnete,Lakai,Undirected,1
+Agnete,Gud,Undirected,2
+Agnete,Lakaien,Undirected,1
+Agnete,Madames,Undirected,1
+Agnete,Madame,Undirected,1
+Lucie Heuriksdatter,fransfe Demoiselle,Undirected,1
+Agnete,Lucie,Undirected,5
+Agnete,Chresten Sørensen,Undirected,1
+Agnete,Chresten,Undirected,7
+Agnete,Chresfen,Undirected,1
+Agnete,Edele Rosenkrands,Undirected,1
+Chresten,Kasf,Undirected,1
+Jomfru Lisbeth,Kasf,Undirected,1
+Jomfru Lisbeth,Lisbeth,Undirected,1
+Chresten,Lisbeth,Undirected,1
+Agnete,Jomfru Lisbeth,Undirected,1
+Agnete,Johan Finche,Undirected,4
+Agnete,Kapitain Drewitz,Undirected,2
+Budde,Kapitain Drewitz,Undirected,1
+Budde,Kapitain,Undirected,1
+Drewitz,Kapitain,Undirected,1
+Agnete,Drewitz,Undirected,6
+Agnete,Kapitainen,Undirected,4
+Mads Skytte,Timme,Undirected,1
+Kapitain Drewitz,Timme,Undirected,1
+Kapitain Drewitz,Per Fisfer,Undirected,1
+Knud Thott,Per Fisfer,Undirected,2
+Mads Skytte,Per Fisfer,Undirected,1
+Gemal,Mads Skytte,Undirected,1
+Gemal,Per,Undirected,1
+Knud Thott,Per,Undirected,1
+Knud Thott,Niels Juel,Undirected,1
+Knud Thott,Mads Hansen,Undirected,1
+Mads Hansen,lille Mads,Undirected,1
+Knud Thott,sif Skrivebord,Undirected,1
+Hr. Thott,Knud Thott,Undirected,1
+Hr. Thott,lille Mads,Undirected,1
+Mads Skyfte,lille Mads,Undirected,1
+Mads,Mads Skyfte,Undirected,1
+Agnete,XIX,Undirected,1
+Agnete,Elisabeth,Undirected,2
+Agnete,Lise,Undirected,1
+Christian den,Hans Gyldenløve,Undirected,1
+Christian den,Karen Andersdatter,Undirected,1
+Gud,felv,Undirected,1
+Agnete,felv,Undirected,1
+Agnete,hnn,Undirected,2
+eiheller,hnn,Undirected,1
+Agnete,eiheller,Undirected,1
+Agnete,Christus,Undirected,2
+Malene,hnn,Undirected,1
+Agnete,Malene,Undirected,4
+Lakaien,Malene,Undirected,2
+Kjeld,Malene,Undirected,1
+Agnete,Agnete fluide,Undirected,1
+Agnete,Kjeld Barnekow,Undirected,2
+Bækkestov,Ove Rammel,Undirected,1
+Birgitte,Gud,Undirected,1
+Agnete,Birgitte,Undirected,1
+Gud,Kjeld,Undirected,3
+Agnete,Kapitain Drewifz,Undirected,2
+Agnete,Kapitain,Undirected,2
+Agnete,Drewifz,Undirected,1
+Carl Gustaf,Drewifz,Undirected,1
+Agnete,Carl Gustaf,Undirected,1
+Agnete,Graad,Undirected,1
+Agnete,Arild Svabe,Undirected,2
+Finche,J,Undirected,1
+Drewitz,Finche,Undirected,1
+Drewitz,Kapitain Burchard v. Drewitz,Undirected,1
+Jomfru Agnete Budde,Kapitain Burchard v. Drewitz,Undirected,1
+Arild,Drewitz,Undirected,1
+Agnete,Johan Flnche,Undirected,1
+Drewitz,Johan Finche,Undirected,1
+Hr. Finche,Kapitain Drewitz,Undirected,1
+Arild Svabe,Hagen,Undirected,1
+Arild Svabe,Niels,Undirected,1
+Arild,Niels,Undirected,1
+Arild,slal,Undirected,2
+Arild Svabe,Johan Finche,Undirected,1
+Kapitain Drewitz,Karl,Undirected,1
+Gud,Karl,Undirected,1
+Gud,Jomfru Agnete,Undirected,1
+Drewitz,Jomfru Agnete,Undirected,1
+Daniel Paullis,Drewitz,Undirected,1
+Agnete,sif,Undirected,1
+Barnekow,sif,Undirected,1
+Kjeld,Spaakviuden,Undirected,1
+Kapitain Drewitz,Spaakviuden,Undirected,1
+Erik,Mads Skytte,Undirected,3
+Jnger,Mads,Undirected,1
+Jnger,lille Mads,Undirected,1
+Erik,lille Mads,Undirected,3
+Erik,Skyften,Undirected,1
+Inger,Per Fisker,Undirected,1
+Knud Thott,Mads,Undirected,1
+Admiral Juel,Mads,Undirected,1
+Drewitz,Hr. Timme,Undirected,1
+Drewitz,sidsfe,Undirected,1
+Kjeldermesferen,sidsfe,Undirected,1
+Lars,Niels,Undirected,1
+Niels,lille Mads,Undirected,1
+Mads,lange Lars,Undirected,1
+Lars,allenfals,Undirected,1
+Lars,Sparrfelt,Undirected,1
+Hr. Timme,Sparrfelt,Undirected,2
+Kjæret,Lars,Undirected,2
+Erik,Vidsføfle,Undirected,1
+Lille Mads,Vidsføfle,Undirected,1
+Inger,Lille Mads,Undirected,1
+Mads,Mads Skytte,Undirected,1
+Erik,Svend Erlandsen,Undirected,1
+Mads,Svend Erlandsen,Undirected,1
+Mads,sire,Undirected,1
+lille Mads,sire,Undirected,1
+Svend Erlandsen,lille Mads,Undirected,2
+lange,lille Mads,Undirected,1
+Lars,Svend.,Undirected,1
+Lars,lille Madses,Undirected,1
+Mads,lille Madses,Undirected,1
+Blads,Mads,Undirected,1
+Blads,Lars,Undirected,1
+Erik,Swanewedel,Undirected,2
+Finche,Kapitain Drewitz,Undirected,1
+Drewikz,Kapitain Drewitz,Undirected,1
+Agnete,Lucie Henriksdatter,Undirected,2
+Agnete,Sophie Amalie,Undirected,1
+Drewitz,Sophie Amalie,Undirected,1
+,Drewitz,Undirected,1
+Drewitz,Kjeld,Undirected,2
+Drewitz,Kjeld Barnekow,Undirected,2
+Drewitz,Kapitainen,Undirected,1
+Kapitainen,Kjeld,Undirected,1
+Erik,Per Fisker,Undirected,1

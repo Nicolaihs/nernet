@@ -1,0 +1,74 @@
+source,target,type,weight
+Felix,Lars,Undirected,1
+Felix,Kapitain Knudsen,Undirected,1
+Kapitain Knudsen,Lieutenant Sander,Undirected,1
+Felix,Lieutenant Sander,Undirected,1
+Reinhardt,Sander,Undirected,8
+Felix,Kristiansen,Undirected,1
+Kristiansen,Sander,Undirected,1
+Felix,Karl,Undirected,2
+Asperant,Felix,Undirected,1
+Felix,inge,Undirected,1
+Ferdinand,Kresjan,Undirected,4
+Ferdinand,Wilster,Undirected,2
+Kresjan,Wilster,Undirected,1
+Ferdinand,Lilletaa,Undirected,1
+Ferdinand,klein,Undirected,1
+Wilster,klein,Undirected,1
+Felix,Pless,Undirected,3
+Felix,Sander,Undirected,28
+Freya,Sander,Undirected,1
+Felix,Freya,Undirected,1
+Felix,Kapitajn Knudsen,Undirected,3
+Felix,Kaden,Undirected,5
+Felix,Lieutenant,Undirected,2
+Felix,Høyer,Undirected,5
+Larsen,Larsens,Undirected,1
+Felix,Larsen,Undirected,12
+Larsen,Pless,Undirected,2
+Larsen,Lærke,Undirected,2
+Felix,Jesper,Undirected,3
+Felix,slaas,Undirected,1
+Felix,Knudsen,Undirected,1
+Felix,Reinhardt,Undirected,5
+Dybbøl,Felix,Undirected,2
+Høyer,Sander,Undirected,2
+Reinhardt,v. Kaden,Undirected,2
+Mads,v. Kaden,Undirected,1
+Reinhardt,sixteen,Undirected,1
+Kaden,sixteen,Undirected,1
+Kaden,Sander,Undirected,1
+N.,Reinhardt,Undirected,1
+Felix,N.,Undirected,1
+Anna,Bertha,Undirected,1
+Anna,Sander,Undirected,1
+-Sander,Kaden,Undirected,1
+Mjølnir,Thors,Undirected,1
+Felix,Karl den tolfte,Undirected,1
+F yens,Felix,Undirected,1
+Felix,Krioline,Undirected,1
+Krioline,Sander,Undirected,1
+Sander,ban,Undirected,2
+Karl den Tolvte,Staal,Undirected,1
+Felix,Karl den Tolvte,Undirected,1
+Felix,Staal,Undirected,1
+Jesper,a,Undirected,1
+Felix,Rohweder,Undirected,1
+Felix,Gud,Undirected,3
+Sander,jq,Undirected,1
+Kaden,Kapitajn Knudsen,Undirected,1
+Kaden,Reinhardt,Undirected,1
+Felix,v. Kaden,Undirected,2
+Mars,v. Kaden,Undirected,1
+Mars,s,Undirected,1
+Gud,Staal,Undirected,1
+Martis,v. Kaden,Undirected,2
+Gud,Larsen,Undirected,1
+Kaden,v. Kaden,Undirected,1
+L’,v. Kaden,Undirected,1
+Kaden,v,Undirected,1
+Felix,Marv,Undirected,1
+Felix,lian,Undirected,2
+Felix,Felix heldte,Undirected,2
+Felix,ban,Undirected,1
+Bertelsen,Sander,Undirected,1

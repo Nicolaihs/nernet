@@ -1,0 +1,244 @@
+source,target,type,weight
+Bertel Matisen,Mikkel Bendix,Undirected,26
+Bertel,Mikkel Bendix,Undirected,27
+Bertel,Mikkel,Undirected,73
+Bertel,Bertel Matisen,Undirected,19
+Anders Matisen,Bentine Bendix,Undirected,1
+Anders,Bentine,Undirected,25
+Mikkel,Mikkel Bendix,Undirected,26
+Bertel Matisen,Mikkel,Undirected,17
+Mikkel,j eg,Undirected,2
+Grønning,Mikkel,Undirected,16
+Mikkel,Sofus Grønning,Undirected,4
+Grønning,Sofus Grønning,Undirected,2
+Grønning,frank,Undirected,1
+Bertel Matisen,Grønning,Undirected,5
+Hr. Grønning,Mikkel Bendix,Undirected,1
+Hr. Grønning,Karl,Undirected,1
+Bentine,Mikkel Bendix,Undirected,24
+Bentine,Bertel,Undirected,9
+Bertel Matisen,Sofus Grønning,Undirected,3
+Bendix,Sofus Grønning,Undirected,1
+Grønning,Mikkel Bendix,Undirected,12
+Bendix,Bertel Matisen,Undirected,1
+Bertel,saagu,Undirected,1
+Mikkel,Toddy,Undirected,1
+Mikkel Bendix,Sofus Grønning,Undirected,5
+Mikkel Bendix,bart,Undirected,1
+Mikkel Bendix,tine,Undirected,1
+Frøken Bendix,Toddy —,Undirected,1
+Frøken 1,Frøken Bendix,Undirected,1
+Bendix,Grønning,Undirected,2
+Bertel,Sofus Grønning,Undirected,4
+Anders Matisen,Bertel,Undirected,6
+Anders Matisen,Mikkel Bendix,Undirected,4
+Mikkel,Somme,Undirected,1
+Bertel Matisen,nyssen,Undirected,1
+Bentine,Bertel Matisen,Undirected,9
+Bentine,Grønning,Undirected,3
+Karl,Sofus Grønning,Undirected,1
+Grønning,Karl,Undirected,1
+Bertel,Grønning,Undirected,8
+Grønning,Matisen,Undirected,3
+Bendix,Matisen,Undirected,3
+Mikkel,mintro,Undirected,1
+Ormen,Sofus Grønning,Undirected,1
+Mikkel,Tys,Undirected,2
+Mikkel Bendix,jere,Undirected,1
+Bentine,Mikkel,Undirected,15
+Bentine Bendix,nyssen,Undirected,1
+Mikkel Bendix,aa,Undirected,1
+Karl,Mikkel,Undirected,1
+Anders,Karl,Undirected,1
+Anders,Mikkel,Undirected,10
+Anders,Anders Matisen,Undirected,7
+Anders,Karl?,Undirected,1
+Bertel Matisen,Fa,Undirected,2
+Anders Matisen,Bentine,Undirected,23
+Bentine,Karen,Undirected,3
+Karen,Karl Anders Matisen,Undirected,1
+Bentine,jert,Undirected,1
+Anders Matisen,Karen,Undirected,2
+Bentine,Bentine Bendix,Undirected,2
+Anders Matisen,Jøsses,Undirected,2
+Anders Matisen,Sofus Grønning,Undirected,1
+Buesaven,Sofus Grønning,Undirected,1
+Buesaven,Grønning,Undirected,1
+Grønning,liendes,Undirected,1
+Anders,liendes,Undirected,1
+Anders Matisen,Bertel Matisen,Undirected,3
+Anders,Bertel,Undirected,6
+Jøsses,Karen,Undirected,1
+Bendix,Frøken Bendix,Undirected,1
+Frøken Bendix,Spøggels,Undirected,1
+Anders Matisen,Frøken,Undirected,1
+Anders Matisen,Grønninghaab,Undirected,1
+Grønninghaab,Sofus Grønning,Undirected,1
+Bertel Matisen,Oraklet,Undirected,1
+Bertel,jen,Undirected,1
+Grønning,Proprietær Bendix,Undirected,1
+Matisen,Proprietær Bendix,Undirected,1
+Bendix,Proprietær Bendix,Undirected,3
+Elisabeth,Mikkel Bendix,Undirected,1
+Briveliantl,Lise,Undirected,1
+Bentine,Lise,Undirected,20
+Bertel,Tine,Undirected,1
+Mikkel,Tine,Undirected,2
+Bentine,Bentinel,Undirected,1
+Bentine,Sofus Grønning,Undirected,1
+Bertel Matisen,rykk,Undirected,1
+Grønning,Lise,Undirected,1
+Blaar,Mikkel Bendix,Undirected,1
+Blaar,Mikkel,Undirected,1
+Knud Jensen,Mikkel,Undirected,4
+Knud Jensen,Mikkel Bendix,Undirected,9
+Bertel Matisen,Knud Jensen,Undirected,4
+Knud Jensen,Tomas Hørrup,Undirected,1
+Mikkel,ersenl,Undirected,1
+Gud,Mikkel,Undirected,6
+Knud Jensen,Matisen,Undirected,1
+Bertel,vos,Undirected,1
+Grønninghaab,Hr. Grønning,Undirected,1
+Grønninghaab,Mikkel Bendix,Undirected,1
+Mikkel Bendix,Proprietær Grønnings,Undirected,1
+B,J,Undirected,1
+J,Mikkel Bendix,Undirected,1
+Bertel Matisen,Mikkel »,Undirected,1
+Gud,Proprietær Bendix,Undirected,1
+Anders,Lise,Undirected,14
+Anders,Arie,Undirected,1
+Anders,Tante,Undirected,1
+Tante,kriske,Undirected,1
+Anders,Bentine Bendix,Undirected,1
+Bentine,Dystrup,Undirected,1
+Bentine,Gud,Undirected,4
+Knud Jensen,Tante Lise,Undirected,1
+Bertel Matisen,Tante Lise,Undirected,1
+Mikkel Bendix,Tante Lise,Undirected,1
+Lise,Mikkel Bendix,Undirected,7
+Bentine,Grunker,Undirected,1
+Grunker,Mikkel Bendix,Undirected,1
+Bentine,Lisbeth,Undirected,1
+Bentine Bendix,Mikkel,Undirected,1
+Anders,Bertel Matisen,Undirected,3
+Bertel,Bertel Matisén,Undirected,1
+Hvidtjørn,Mikkel,Undirected,1
+Bertel Matisen,Skrædder Hansen,Undirected,1
+Hansen,Mikkel Bendix,Undirected,1
+Bertel Matisen,Søren Jessen,Undirected,1
+Karl,Mikkel Bendix,Undirected,1
+Mikkel,jen skuld,Undirected,1
+A,Anders Matisen,Undirected,1
+A,B.,Undirected,1
+Bertel Matisen,Morten Petersen,Undirected,1
+Bertel Matisen,Morten,Undirected,1
+Mikkel,Morten Petersen,Undirected,1
+Bendix,haml,Undirected,1
+Bentine,låse,Undirected,1
+Bertel Matisen,Lise,Undirected,8
+Bentine,Hermann,Undirected,2
+Bertel Matisen,Tante,Undirected,1
+Bertel Matisen,Gud,Undirected,2
+Anders Matisen,Gud,Undirected,2
+Anders,Ole,Undirected,1
+Lise,sin,Undirected,1
+Lise,Tante,Undirected,1
+Anders,Tante Lise,Undirected,2
+Lise,Tante Lise,Undirected,1
+Anders Matisen,Tante Lise,Undirected,1
+Anders Matisen,Lise,Undirected,3
+Anders —,Bentine,Undirected,1
+Anders,Gud,Undirected,1
+Anders Matisen,Tante,Undirected,1
+Bertel Matisen,lille Bentine,Undirected,1
+Lise,Mikkel,Undirected,5
+Bentine,Sofie,Undirected,3
+Anders Matisen,lille Sofie,Undirected,1
+Anders,Sofus Grønning,Undirected,2
+Bravo,Sofie,Undirected,1
+Anders,Sofie,Undirected,1
+Gud,Sofie,Undirected,1
+Bravo,Lise,Undirected,1
+Grønning,Mikkel »,Undirected,1
+Mikkel,Niels Andersen,Undirected,1
+Niels Andersen,Søren Lassen,Undirected,2
+Bertel,Niels Andersen,Undirected,1
+Sofus Grønning,Sylow,Undirected,1
+Grønning,Sylow,Undirected,1
+Bentine,Kabuds,Undirected,1
+Kabuds,Mikkel Bendix,Undirected,1
+Anders Matisen,d,Undirected,1
+Anders Matisen,Mikkel Bendix almutters,Undirected,1
+Bentine,Mikkel Bendix almutters,Undirected,1
+Bertel Matisen,Tine,Undirected,1
+Lise,liun,Undirected,1
+Bertel Matisen,liun,Undirected,1
+Dagi,Mikkel,Undirected,1
+Gud,Lise,Undirected,2
+Bentinel,Mikkel Bendix,Undirected,1
+Bertel,Lise,Undirected,8
+Fa,Tante Lise,Undirected,1
+Jomfru Lisken,Mikkel,Undirected,1
+Mikkel,lille Bentine,Undirected,1
+Anders Matisen,Tine,Undirected,1
+Grønninghaab,Mikkel,Undirected,1
+Bertel Matisen,Grønninghaab,Undirected,1
+Mikkel Bendix,lille Tine,Undirected,2
+Lise,Sofus Grønning,Undirected,1
+Lise,lille Tine,Undirected,1
+Mikkel,Soen,Undirected,1
+Hawthornden,Mikkel,Undirected,1
+Faster,lille Tine,Undirected,1
+Mads Brun,lille Bentine,Undirected,1
+Mads Brun,Skalleris,Undirected,1
+Jes Nissen,Skalleris,Undirected,1
+Jes Nissen,Snorr Poul,Undirected,1
+Karlen,Snorr Poul,Undirected,1
+Karlen,Snorr,Undirected,1
+Poul,Snorr,Undirected,2
+Mikkel,Snorr Poul,Undirected,3
+Mads,Mikkel,Undirected,1
+Mikkel Bendix,Poul,Undirected,2
+Jes Nissen,Knud Jensen,Undirected,1
+Mikkel Bendix,kakkel Bendix,Undirected,1
+Bertel Matisen,kakkel Bendix,Undirected,1
+Mikkel,Poul Jensen,Undirected,1
+Poul Jensen,askegraa,Undirected,1
+Bertel Matisen,Poul Jensen,Undirected,1
+Jes,Mads,Undirected,3
+Jes,Poul,Undirected,1
+Mikkel,Poul,Undirected,1
+Mads Brun,Snorr Poul,Undirected,1
+Jes Nissen,Mads Brun,Undirected,1
+Mikkel Bendix,Poul Jensen,Undirected,2
+Bertel,Jes Nissen,Undirected,1
+Mikkel,lille Bro,Undirected,1
+Bentine,Jes,Undirected,1
+Karlen,Mikkel Bendix,Undirected,1
+Gaarde,Karlen,Undirected,1
+Lise,Lise h,Undirected,1
+Bertel,lille Mikkel,Undirected,1
+Bentine,Snorr Poul,Undirected,1
+Mikkel,Snorr,Undirected,1
+Bentine,Elisabeth,Undirected,1
+Gud,Jen,Undirected,1
+Jen,jen,Undirected,1
+Bertel Matisen,Kaaring,Undirected,1
+Hr. Matisen,Mikkel,Undirected,1
+Bertel,Hr. Matisen,Undirected,1
+Bentine Bendix,Mikkel Bendix,Undirected,2
+Anders,Mikkel Bendix,Undirected,4
+Mikkel,herut,Undirected,1
+Gud,jere,Undirected,1
+Kirsten Giftekniv,Lise,Undirected,1
+Bertel,Jomfru Lisken,Undirected,1
+Mikkel Bendix,lille Mikkel,Undirected,1
+Mikkel,nyssen,Undirected,1
+Bertel,nyssen,Undirected,1
+Jomfru Lisken,Mikkel Bendix,Undirected,1
+Anders,Hans,Undirected,1
+Bentine,Fa,Undirected,1
+Anders Matisen,Mikkel,Undirected,2
+Jagilde,Mikkel,Undirected,1
+Bentinel,Lise,Undirected,1
+Bertel Matisen,Broder Mikkel,Undirected,1

@@ -1,0 +1,121 @@
+source,target,type,weight
+Ejner,Nelly,Undirected,5
+Helene,Nelly,Undirected,5
+Frøken Helene,Nelly,Undirected,2
+Nelly,Steinnitz,Undirected,1
+Asta,Paula,Undirected,4
+Asta,Nelly,Undirected,1
+Minka,Nelly,Undirected,3
+Nelly,Paula,Undirected,5
+Fruens,Paula,Undirected,1
+Fruens,Nelly,Undirected,1
+Asta,Colbergs,Undirected,1
+Colbergs,Paula,Undirected,1
+Helene,Minka,Undirected,5
+Colbergs,Helene,Undirected,2
+Anna,Frøken Falck,Undirected,1
+Marie,Miss,Undirected,2
+Marie,Nelly,Undirected,16
+Anna Colberg,Marie,Undirected,1
+Colberg,Nelly,Undirected,29
+Colberg,Marie,Undirected,11
+Anna,Marie,Undirected,3
+Marie Colberg,Nelly,Undirected,6
+Catchere,Nelly,Undirected,1
+Marie,Poul,Undirected,12
+Marie,Nelly Falck,Undirected,1
+Marie,Poul Colberg,Undirected,2
+Falck,Poul Colberg,Undirected,1
+Falck,Poul,Undirected,1
+Catcher,Poul,Undirected,1
+Catcher,Marie,Undirected,1
+Henriksen,Nelly,Undirected,2
+Frøken Falck,Nelly,Undirected,2
+Henriksen,Marie,Undirected,1
+Henriksen,Poul,Undirected,3
+Nelly,Poul,Undirected,40
+Colberg,Nelly Falck,Undirected,3
+Henriksen,Peter Henriksen,Undirected,1
+Colberg,Frøken Falck,Undirected,8
+Frøken Falck,Henriksen,Undirected,1
+Flun,Marie,Undirected,1
+Anna,Nelly,Undirected,1
+Georg,Poul,Undirected,1
+Fader,Poul,Undirected,2
+Christian den 5te,Poul,Undirected,2
+Larsen,Nelly,Undirected,1
+Gud,P'røken Helene,Undirected,1
+Gud,Nelly,Undirected,1
+Gud,Helene,Undirected,3
+Hat,Nelly Falck,Undirected,1
+Fanny Svendsen,Marie,Undirected,1
+Anna,Fanny Svendsen,Undirected,1
+Miss,Nelly Falck,Undirected,1
+Frøken Herman,Nelly,Undirected,1
+Frøken Falck,Poul,Undirected,1
+Frøken Herman,Gud,Undirected,1
+Frøken Falck,Frøken Herman,Undirected,1
+Marie,Nelly P'alck,Undirected,1
+Colberg,Jensen,Undirected,1
+Frøken Falck,Frøken Jensen,Undirected,1
+Colberg,Frøken Jensen,Undirected,1
+Helene,Paula,Undirected,5
+Gud,Minka,Undirected,1
+Minka,lille Helene,Undirected,2
+Nelly,lille Helene,Undirected,1
+Colberg,lille Helene,Undirected,1
+Colberg,Helene,Undirected,5
+Gud,Helmbo,Undirected,2
+Paula,Poul,Undirected,1
+Marie,Minka,Undirected,1
+Gud,Marie,Undirected,1
+Helene,Marie,Undirected,1
+Nelly,lille Nelly,Undirected,2
+Ejner,Poul,Undirected,2
+Nelly,igaarmorges,Undirected,1
+Mais,Nelly,Undirected,1
+Ejlersen,Frøken Holm,Undirected,1
+Frederik Ristrup,Hans Praxis,Undirected,1
+Hans Praxis,Ristrup,Undirected,1
+Ristrup,Schak,Undirected,1
+Dr. Ristrup,Schak,Undirected,1
+Frøken Holm,Julie Brun,Undirected,2
+Dr. Ristrup,Frøken Holm,Undirected,2
+Julie Brun,Ristrup,Undirected,10
+Frøken Holm,Julie,Undirected,5
+Julie,Madame,Undirected,1
+Julie,Ristrup,Undirected,55
+Dr. Ristrup,Frøken Brun,Undirected,1
+R.,Ristrup,Undirected,1
+Frøken Holm,Ristrup,Undirected,2
+Julie,Julie Brun,Undirected,2
+Frøken Brun,Julie,Undirected,1
+Frøken Brun,Jomfru Lunds,Undirected,1
+Gud,Jomfru Lunds,Undirected,1
+Gud,Julie Brun,Undirected,1
+Frøken Brun,Ristrup,Undirected,3
+Frøken Brun,Schak,Undirected,1
+Frøken Holm,Gud,Undirected,1
+Julie,Sirtses,Undirected,1
+Frederik,Ristrup,Undirected,4
+Ida,Johanne,Undirected,4
+Ida,Ristrup,Undirected,7
+Johanne,Ristrup,Undirected,2
+Ida,Julie,Undirected,18
+Frederik,Ida,Undirected,5
+Frederik,Julie,Undirected,10
+Ida,ifjor Sommer,Undirected,1
+Frederik,Moders,Undirected,2
+Ida,Karl,Undirected,1
+Karl,Ristrup,Undirected,1
+Ristrup,skraa,Undirected,1
+Julie,Schak,Undirected,1
+Gud,Hansen,Undirected,1
+Hansen,Ristrup,Undirected,4
+Hansen,Julie,Undirected,3
+Ida,Jules Vernes,Undirected,1
+Graad,Julie,Undirected,1
+Frederik,Gud,Undirected,1
+Anna,Julie,Undirected,2
+Anna,Møllers,Undirected,1
+Anna,J,Undirected,1

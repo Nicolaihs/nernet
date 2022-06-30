@@ -1,0 +1,246 @@
+source,target,type,weight
+Jensen,Paludans,Undirected,1
+Bendtsens,Paludans,Undirected,1
+August,Bendtsens,Undirected,1
+Mads Fændrik,Mads Nielsen,Undirected,1
+Jens,Mads Fændrik,Undirected,1
+Jens,attenaars,Undirected,1
+Smed Jensen,attenaars,Undirected,1
+Rasmus Degn,Smed Jensen,Undirected,1
+Jensen,Rasmus Degn,Undirected,1
+Smed Jensen,Tordenskjold,Undirected,1
+Caroline Mathildes,Tordenskjold,Undirected,1
+Caroline Mathildes,Jensen,Undirected,1
+Jensen,Smed Jensen,Undirected,2
+Jens,Paven,Undirected,1
+Bonaparte,Farao,Undirected,5
+Bonaparte,Paven,Undirected,2
+Admiral Nielsen,Bonaparte,Undirected,2
+Admiral Nielsen,Nelson,Undirected,1
+Bonaparte,Nelson,Undirected,1
+Bonaparte,slaas,Undirected,1
+Svend,Svend Sobæk,Undirected,2
+Jens,s,Undirected,2
+Jens,Svend Sobæk,Undirected,7
+Admiral Nielsen,Jens,Undirected,1
+Jens,Svend,Undirected,3
+Farao,Jens,Undirected,1
+Admiral Nielsen,Farao,Undirected,1
+Admiral Nielsen,ogGeneral Bonaparte,Undirected,1
+Admiral Nielsen,Svend Sobæk,Undirected,1
+Admiral Nielsen,Jensen,Undirected,1
+Bernsdorff,Jensen,Undirected,1
+Jens,Rasmus Lyngby,Undirected,6
+Jens,Rasmus,Undirected,4
+Flaadens,Jens,Undirected,1
+Jens,Mads,Undirected,1
+Mads,Svend Sobæk,Undirected,1
+Rasmus,Rasmus Lyngby,Undirected,1
+Frederik den,Napoleon,Undirected,1
+Philip Bendtsen,Weigell,Undirected,2
+Gud,Philip,Undirected,3
+Lars Tambour,Philip,Undirected,10
+Lars Færing,Philip,Undirected,4
+Lars,Philip,Undirected,8
+Nolsøpoul,Poul,Undirected,1
+Lars,Nolsøpoul,Undirected,2
+Nolsøpoul,Poul Nolsø,Undirected,2
+Lars Tambour,Voxtrup,Undirected,1
+Per Larsen,Voxtrup,Undirected,1
+Per Larsen,Per Voxtrup,Undirected,1
+Per Voxtrup,Pernille,Undirected,1
+Lars Terkelsen,Pernille,Undirected,1
+Lars Terkelsen,Terkel Nielsen,Undirected,1
+Dandsen,Vals,Undirected,1
+Per Voxtrup,Terkel Nielsen,Undirected,3
+Napoleon,Terkel Nielsen,Undirected,2
+Napoleon,Rasmus Hiortespring,Undirected,1
+Bernadotte,Carl Johan,Undirected,1
+Bernadotte,J. H.,Undirected,1
+Per Voxtrup,Terkel,Undirected,2
+Per Voxtrup,Pontecorvo,Undirected,2
+Lars Kjældsen,Terkel Hov,Undirected,1
+Per Voxtrup,Terkel Hov,Undirected,3
+Terkel,Terkel Hov,Undirected,2
+Per,Thomas Slagters,Undirected,1
+Per Voxtrup,Thomas Slagters,Undirected,1
+Per,Pontecorvo,Undirected,1
+Jensen,Pontecorvo,Undirected,1
+Per Voxtrup,Smed Jensen,Undirected,2
+Jensen,Per Voxtrup,Undirected,1
+Jensen,Paven,Undirected,1
+PavenI,Per Voxtrup,Undirected,1
+Jensen,Terkel Hov,Undirected,1
+Rasmus Hjortespring,bgsaa,Undirected,1
+Krk,Rasmus Hjortespring,Undirected,1
+Rasmus Hjortespring,Smed Jensen,Undirected,1
+Jens Skovfoged,Per Voxtrup,Undirected,1
+Per Jensen,Smed Jensen,Undirected,1
+Per Voxtrup,Philip Bendtsen,Undirected,1
+Philip,Philip Bendtsen,Undirected,5
+Per Voxtrup,Philip,Undirected,2
+Bendt Persen,Philip,Undirected,1
+Bendt Persen,Philip Bendtsen,Undirected,1
+Philip,Terkel Nielsen,Undirected,1
+Gud,Jens Skovfoged,Undirected,2
+Gud,Jens,Undirected,1
+Jens Skovfoged,Voxtrup,Undirected,1
+Fændrike-Jens,Voxtrup,Undirected,1
+Voxtrup,hænd,Undirected,1
+Jens Skovfoged,Philip,Undirected,5
+Mary,Wejgells,Undirected,1
+Maren,Mary,Undirected,5
+Karlen,Maren,Undirected,1
+Philip,Voxtrup,Undirected,1
+Jens Madsen,Jens Skovfoged,Undirected,1
+Mary,Svend Sobæk,Undirected,1
+Jens,Jøsses,Undirected,1
+Jens,Philip,Undirected,1
+Philip,Svend Sobæk,Undirected,4
+Philip,Svend,Undirected,1
+Lars Tambour,Svend Sobæk,Undirected,3
+Lars,Svend,Undirected,6
+Jens Jæger,Svend,Undirected,1
+Lars,Svend Sobæk,Undirected,3
+Lars,Lars Tambour,Undirected,4
+Sidse,Sidse Hvass,Undirected,1
+Birthe,Sidse,Undirected,4
+Birthe,Gud,Undirected,1
+Erhard,Sidse,Undirected,1
+Philip,Sidse,Undirected,2
+Birthe,Philip,Undirected,1
+Philip,Poul Nolsø,Undirected,2
+Eges,Gud,Undirected,1
+Mary,Philip,Undirected,1
+Jakob Reimers,Philip,Undirected,1
+Jensen,Napoleon,Undirected,2
+Frantses,Napoleon,Undirected,1
+Frantses,Russen,Undirected,1
+Jeppe,Russen,Undirected,1
+Jeppe,Niels,Undirected,1
+Jens Nielsen,Philip,Undirected,1
+Gud,Jensen,Undirected,1
+Fagot Carl,Jens Jæger,Undirected,1
+Pernille,Valdberg,Undirected,1
+Pernille,Philip,Undirected,2
+Jens Sognefoged,Pernille,Undirected,1
+Napoleon,Philip,Undirected,3
+Mary,Weigell,Undirected,2
+Kousine,Mary,Undirected,2
+Mary,Thoras,Undirected,1
+Lyngbye,Thoras,Undirected,1
+Lyngbye,Thora,Undirected,1
+Lyngbye,s,Undirected,1
+Jens,Uhret,Undirected,1
+Lyngbye,Uhret,Undirected,1
+Thora,Thora Weigells,Undirected,2
+Rasmus Lyngbye,Thora,Undirected,1
+Poul,Poul Nolsøe,Undirected,1
+Jørgensen,Karl,Undirected,1
+Jørgensen,Poul,Undirected,1
+Philip,Væxt,Undirected,2
+Esrom,Philip,Undirected,3
+Lars Tambour,Lars Trane,Undirected,1
+Lars Færing,Lars Tambour,Undirected,1
+Lars Færing,Poul Nolsø,Undirected,1
+Nolsøpoul,Philip,Undirected,5
+Napoleon,P.,Undirected,2
+Kancelliraad Skovlund,Poul Nolsøe,Undirected,1
+Jantzen,Kancelliraad Skovlund,Undirected,1
+Jantzen,Weigell,Undirected,3
+Karl,Poul Nolsø,Undirected,1
+Philip Bendtsen,Poul Nolsø,Undirected,1
+Karl,Philip,Undirected,1
+Jantzen,Zuschlag,Undirected,1
+Jantzen,Philip,Undirected,8
+Jens Skovfoged,Per Trunte,Undirected,1
+Napoleon,Per Trunte,Undirected,1
+Napoleon,Smed Jensen,Undirected,1
+Niels,Smed Jensen,Undirected,1
+Jens Jæger,Philip,Undirected,3
+Jens Jæger,Poul Skræder,Undirected,1
+Jeppe,Niels Aagesen,Undirected,1
+Bastiver,Niels Aagesen,Undirected,1
+Bastiver,Niels,Undirected,1
+Niels,Philip,Undirected,2
+Niels Aagesen,Philip,Undirected,1
+Niels,Niels Aagesen,Undirected,1
+Jeppe,Ole Slagter,Undirected,4
+Gud,Jeppe,Undirected,1
+Jeppe,Napoleon,Undirected,2
+Diogenes,Pernille,Undirected,1
+Hans,Ludvig,Undirected,3
+Jeppe,Jeppe Nielsen,Undirected,1
+Markussens,haa,Undirected,1
+Jantzen,Markussens,Undirected,1
+Lille Valberg,Valberg,Undirected,1
+Rikke,Valberg,Undirected,5
+Markussen,Valberg,Undirected,5
+Jensen,Rikke,Undirected,1
+Jens Skomager,Markussen,Undirected,1
+Jensen,Per Saanes,Undirected,1
+Markussen,Per Saanes,Undirected,1
+Markussen,Per Saane,Undirected,1
+Rikke Løvinden,Valberg,Undirected,1
+Rikke Løvinden,Steenholt,Undirected,1
+Markussen,Steenholt,Undirected,1
+Per Trunte,Philip,Undirected,1
+Jeppe Nielsen,Lars Færing,Undirected,1
+Jeppe Nielsen,Philip,Undirected,1
+Jeppe,Philip,Undirected,5
+Holla,Philip,Undirected,1
+Jacob Reimers,Philip,Undirected,1
+Jacob Reimers,Lars,Undirected,1
+Jeppe,Lars,Undirected,5
+Jeppe,Lars Tambour,Undirected,2
+Etatsraad Wejgell,Philip Bendtsen,Undirected,1
+E. W.,Jantzen,Undirected,1
+E. W.,Esrom,Undirected,1
+Esrom,Mary,Undirected,2
+Gud,Rasmus Lyngby,Undirected,2
+Gud,Lise Maansdatter,Undirected,1
+Lise Maansdatter,Rasmus Lyngby,Undirected,1
+Jantzen,Niels Aagesen,Undirected,1
+Jantzen,Lise,Undirected,3
+Bastiver,Lise,Undirected,2
+Henrik,Philip,Undirected,7
+Bendtsen,Henrik,Undirected,1
+Bendtsen,Markussen,Undirected,1
+Jantzen,Markussen,Undirected,1
+Henrik,Jantzen,Undirected,6
+Erhard,Jantzen,Undirected,1
+Erhard,Mads,Undirected,1
+Henrik,Mads,Undirected,1
+Grib,Philip,Undirected,2
+Mary,Pernille,Undirected,2
+Per Trunte,Smed Jensen,Undirected,1
+Smed Jensen,Svend Sobæk,Undirected,1
+Per Voxtrup,Svend Sobæk,Undirected,1
+Frederik den Store,Smed Jensen,Undirected,1
+Frederik den Store,Per Trunte,Undirected,1
+Hov,Terkel,Undirected,1
+Jens Jæger,Svend Sobæk,Undirected,1
+Etatsraad Wejgell,Wejgell,Undirected,1
+Uhr,Wejgell,Undirected,3
+Hr. Madsen,Mary,Undirected,2
+Mary,Rasmus Lyngby,Undirected,2
+Jens Madsen,Rasmus Lyngby,Undirected,1
+Frøken Wejgells,Wejgell,Undirected,1
+Mary,j,Undirected,1
+Markussen,Pernille,Undirected,1
+Lars Tambour,Svend,Undirected,1
+Poul Nolsø,Svend Sobæk,Undirected,1
+Lars,s,Undirected,2
+Lassen,Svend,Undirected,1
+Philip,Valberg,Undirected,1
+Lille Valberg,Markussen,Undirected,1
+Madsen,Markussen,Undirected,1
+Madsen,N. N.’s,Undirected,1
+N. N.’s,Weigell,Undirected,1
+Mary,Thora,Undirected,1
+Markussen,Thora,Undirected,2
+Ingeborg,Svend Sobæk,Undirected,1
+Ingeborg,Svend,Undirected,1
+Anders Færing,Pernille,Undirected,1
+Smed Jensen,Valberg,Undirected,1
+Metternich,Smed Jensen,Undirected,1

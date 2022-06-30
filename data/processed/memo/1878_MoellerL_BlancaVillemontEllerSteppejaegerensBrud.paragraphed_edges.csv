@@ -1,0 +1,503 @@
+source,target,type,weight
+haur,son,Undirected,1
+Bianca,Marquicns,Undirected,2
+Bianca,Mama,Undirected,1
+Camille Desmoulins,Robespierre,Undirected,1
+Bravo,Marquis Villemont,Undirected,1
+Bravo,Marquien,Undirected,1
+Marquien,dein,Undirected,1
+Villemont,loe,Undirected,1
+Brutus,Robespierre,Undirected,1
+Brutus,Cassius,Undirected,3
+Cassius,Charles Dampierer,Undirected,1
+Guds,Marquien,Undirected,1
+Heloise,Marquien,Undirected,1
+Blanca,Marquisen,Undirected,5
+Gud,Heloise,Undirected,1
+Gud,Marquisen,Undirected,3
+Bravo,loe,Undirected,1
+Brutus,loe,Undirected,1
+Marquisen,Richard,Undirected,3
+Heloise,hnn,Undirected,1
+Heloise,Villemont,Undirected,1
+,Cassius,Undirected,1
+Brutus,Marquise,Undirected,2
+Brutus,Jean Bapfiste,Undirected,1
+Brutus,Simon,Undirected,8
+Brutus,Marquis Villemont,Undirected,1
+Simon,loe,Undirected,1
+Brutus,Karl,Undirected,1
+Brutus løi,Marquien,Undirected,1
+Marquien,Simon,Undirected,1
+Brutus,Gud,Undirected,1
+Gud,Hr. Marquis,Undirected,1
+Hr. Marquis,Simon,Undirected,1
+Patriot Brutus,Simon,Undirected,1
+Brutus,Patriot Brutus,Undirected,1
+Brutus,nn,Undirected,1
+Delmont,Marquise Villemont,Undirected,1
+Blanca,Heloise,Undirected,1
+Marquisen itide,Offre,Undirected,1
+Lille Blanca,Offre,Undirected,1
+Gud,Lille Blanca,Undirected,1
+Marquise Villemont,hnn,Undirected,1
+Marquisen,sine Kjæres,Undirected,1
+Marquise Villemont,renesfe,Undirected,1
+Robespierre,renesfe,Undirected,1
+Marat,Robespierre,Undirected,1
+Ino,Marquisen,Undirected,5
+Bertrand,Mr. Clayrmont,Undirected,2
+Bertrand,anen,Undirected,1
+Mr. Clayrmont,anen,Undirected,1
+Blanca,Gud,Undirected,10
+Blanca,Clayrmont,Undirected,2
+Bertrand,Blanca,Undirected,6
+Clayrmont,Gud,Undirected,2
+Bertrand,Mr. Luigi Barbados,Undirected,1
+Luigi Barbados,sfak,Undirected,1
+Don Cæsor Barbados,Signor Luigi Barbados,Undirected,1
+Luige Barbados,Signor Barbados,Undirected,1
+Tom“,dein,Undirected,1
+Ruigi,Tom,Undirected,14
+Luigi,Signor Barbados,Undirected,2
+Zuna,nei,Undirected,1
+Massa,Zuna,Undirected,10
+Panther,Zuna,Undirected,3
+Massa Ruigis Pidsk,Zuna,Undirected,2
+Zuna,fortrak,Undirected,1
+Znna,Znna ile,Undirected,1
+Massa Luigi,Znna ile,Undirected,1
+Massa Luigi,Massa Ruigi,Undirected,1
+Massa Ruigi,Zuna,Undirected,2
+Ruigi,Zuna,Undirected,9
+Massas Pidst,Zuna,Undirected,1
+Mr. Clayrmont,Zuna,Undirected,1
+Luigi,Rnigi,Undirected,1
+Massa Luigi,Zuna,Undirected,1
+Massa,Ruigi,Undirected,1
+Briennes,Zuna,Undirected,1
+Briennes,Gud,Undirected,1
+Bertrand,Zuna,Undirected,14
+Luigi,loe,Undirected,1
+Ruigi,nien,Undirected,1
+Mr. Harrington,Tom“,Undirected,1
+Harrington,Tom,Undirected,7
+Air.,Harrington,Undirected,2
+Harrington,heida,Undirected,1
+Miss Blanca Clayrmont,Tom,Undirected,1
+Luigi Barbados,Tom,Undirected,2
+Bertrand,loe Ruigi,Undirected,1
+Luigi,Ruigi,Undirected,5
+Signor,Tom,Undirected,2
+Nøde,Tom,Undirected,5
+Harrington,Signor,Undirected,2
+Harrington,Karl,Undirected,1
+Signor Luigi Barbados,Tom,Undirected,1
+Luigi Barbados,Mr. James Turnbill,Undirected,1
+Tom,Turnbill,Undirected,1
+Luigi,Tom,Undirected,9
+Mr. Turnbill,Tom,Undirected,1
+Mr. Turnbill,frenr,Undirected,1
+Tom,iland,Undirected,2
+Sennor,Tom,Undirected,1
+Signor Luigi,Tom,Undirected,2
+Luigi,Toni loe,Undirected,1
+Kapitain,Tom,Undirected,1
+Engelsf,Tom,Undirected,1
+Karl,Tom,Undirected,1
+Berkrands,Blanca,Undirected,1
+Brienne,Wkke,Undirected,1
+Blanca,Brienne,Undirected,12
+Bertrand,Brienne,Undirected,11
+Bertrand,Luigi,Undirected,1
+Brienne,Tomahavken,Undirected,1
+Bertrand,hani,Undirected,1
+Blanca,Zuna,Undirected,7
+Bertrand,Hesf,Undirected,1
+Blanca,Hesf,Undirected,1
+Blanca,Znna,Undirected,2
+Brienne,Zuna,Undirected,5
+Mitjel Blane,Tom,Undirected,1
+Brienne,Daggry,Undirected,1
+Bianca,Zuna,Undirected,1
+Brienne,Hain,Undirected,1
+Jones Smith,Ponpon,Undirected,3
+Brienne,Jones Smith,Undirected,6
+Brienne,høilys,Undirected,1
+Blanca,Prairi,Undirected,3
+Jones,Ponpon,Undirected,8
+Blanca,Jones,Undirected,3
+Brienne,Jones,Undirected,13
+Ponpon,rasf,Undirected,1
+Brienne,rasf,Undirected,1
+Bravo,loe Jones,Undirected,1
+Bertrand,Jones Smith,Undirected,1
+Blanca,Jones Smith,Undirected,1
+Bertrand nær,Zuna,Undirected,1
+Bertrand,Jones,Undirected,1
+Ponpon,Zuna,Undirected,1
+Hesfene,Jones,Undirected,1
+Hesfene,Panther,Undirected,1
+Brienne,Tom,Undirected,6
+Jones,Tom,Undirected,5
+Maria 6a Cloria,Ruigi,Undirected,1
+Luigi Barbados,Maria 6a Cloria,Undirected,1
+Luigi Barbados,Ruigi,Undirected,4
+Luigi,Zuna,Undirected,3
+Ruigi,Tom tilligemed,Undirected,1
+Danton,Robespierre,Undirected,1
+Robespierre,fransfe,Undirected,1
+Blanca,Signor Barbados,Undirected,4
+Delmont,Signor,Undirected,1
+Sir Harrington,Tom,Undirected,1
+Ruigi,Signor Barbados,Undirected,1
+Brienne,Hr. Clayrmont,Undirected,2
+Ponpon,Prairi,Undirected,1
+Luigi Barbados,Zuna,Undirected,1
+Luigi elffer Blanca,Zuna,Undirected,1
+Kapitain James Turnbill,Tom,Undirected,1
+Smith,Øe,Undirected,1
+James Turnbill,Tom,Undirected,1
+Anna Stratford,Bjørn,Undirected,1
+Kapitain,Kapitain James Turnbill,Undirected,1
+Gud,Jones Smith,Undirected,1
+Jones Smith,Tom,Undirected,3
+Anna,Tom,Undirected,1
+Jones,lados,Undirected,1
+Gud,lados,Undirected,1
+Brienne,Ponpon,Undirected,3
+Asstande,Jones,Undirected,1
+Bravo,Jones,Undirected,1
+Jones,Mr. Harrington,Undirected,1
+Mr. Harrington,iland,Undirected,1
+Mr. Harrington,Tom,Undirected,1
+Signor Barbados,Tom,Undirected,1
+Brienne,Harrington,Undirected,1
+Bianca,strax Jones,Undirected,1
+Aare,strax Jones,Undirected,1
+Ponpon,nied,Undirected,2
+Janes,Tom,Undirected,1
+Janes,skjelne,Undirected,1
+Jones,skjelne,Undirected,1
+Brienne,Clayrmont,Undirected,1
+Gud,Jones,Undirected,2
+Bertrand,Posf,Undirected,1
+Brienne,Malm,Undirected,1
+Jeannette Miron,Niels Ebbesen,Undirected,1
+B.,N.,Undirected,1
+Bjørn,Panther,Undirected,1
+Brienne,Prairi,Undirected,1
+Prairi,jaf de Tappre,Undirected,1
+PraiUcns,Wha-Wha,Undirected,1
+Blanca,freni,Undirected,1
+Ten,boiedc,Undirected,1
+Ten,Vanvittige,Undirected,1
+Anna Smith,Anna Stratford,Undirected,1
+Anna Smith,WhaWha,Undirected,1
+Gud,WhaWha,Undirected,1
+Anna Stratford,WhaWha,Undirected,1
+Anna,Gud,Undirected,3
+Blanca,Smith,Undirected,1
+Anna,Bien,Undirected,1
+Anna,Jones,Undirected,1
+Blanca,endnn,Undirected,1
+Gud,hnn,Undirected,1
+Blanca,hnn,Undirected,9
+Blanca,høilys,Undirected,1
+Blanca,Frucntimmers,Undirected,1
+Frucntimmers,son,Undirected,1
+Blanca,son,Undirected,1
+Anna,Blanca,Undirected,7
+Anna,Øine,Undirected,1
+Blanca,Maisen,Undirected,1
+hnn,loe,Undirected,1
+hiin,hnn,Undirected,1
+Anna,Jones Smith,Undirected,2
+Anna,hnn,Undirected,1
+Anna,Prairibjørncn,Undirected,1
+Anna,Kentncky,Undirected,1
+Jones,Kentncky,Undirected,1
+Prairibjørn,foni,Undirected,1
+Gud,mcn Blanca,Undirected,1
+Anna,Blanco,Undirected,2
+Blanca,Monselin,Undirected,1
+Tom,Tue,Undirected,1
+Baal,Tom,Undirected,1
+Blanca,Luigi,Undirected,12
+Tom,smnttcde,Undirected,1
+Bjørn,Tom,Undirected,1
+Blanca,nn,Undirected,1
+Bjørn,hnn,Undirected,1
+Bjørn,Blanca,Undirected,1
+Blanca,Pumas,Undirected,1
+Luigi Barbados,Mr. Turnbill,Undirected,1
+Luigi,SmigerHan,Undirected,1
+SmigerHan,Tom,Undirected,1
+Pidsi,Zuna,Undirected,1
+Luigi,hnn,Undirected,1
+Tom,hnn,Undirected,2
+Blanca,Tom,Undirected,2
+Tom,nn,Undirected,1
+Anna,nn,Undirected,1
+Blanca,seire,Undirected,1
+alleredeSeireus,seire,Undirected,1
+Brienne,Hesfene,Undirected,1
+Bertrand,Hesfene,Undirected,1
+Puma,Tomahavk,Undirected,1
+Tomahavk,Zuna,Undirected,1
+Jones Smith,hine,Undirected,1
+Brienne,Gud,Undirected,3
+Gud,Joncs,Undirected,1
+Jones,sine folv Fod i Længden,Undirected,1
+Brienne,Kasf,Undirected,1
+Ieg,Jones,Undirected,1
+Anna Stratford,Kapitain Turnbill,Undirected,1
+Jones Smith,hans Anna,Undirected,1
+Bianca,hans Anna,Undirected,1
+Bianca,Jones Smith,Undirected,1
+Jones Smith,hans Anna paany,Undirected,1
+Blanca,hans Anna paany,Undirected,1
+Bertrand,Tøilen,Undirected,1
+Jones,Tøilen,Undirected,1
+Frøken Clayrmont,Marquise Villemont,Undirected,1
+Delmont,paany,Undirected,1
+Luigi,Nøde-Tom,Undirected,1
+Blanca „,Lnigi,Undirected,1
+Kapitain,Røde-Tom,Undirected,1
+Frøken Clayrmont,fom,Undirected,1
+Frøken Clayrmont,se,Undirected,1
+Frøken Clayrmont,Luigi Barbados,Undirected,1
+-,Luigi,Undirected,1
+-,Blanca,Undirected,1
+Blanca,Lnigi,Undirected,1
+Luigi,Røde-Tom,Undirected,3
+Blanca maasfe,Røde-Tom,Undirected,1
+Blanca,Toni,Undirected,1
+Brienne,Luigi,Undirected,1
+Luigi Barbados,Signor Barbados,Undirected,1
+Gud,Luigi,Undirected,1
+Blanca,Maanelys,Undirected,1
+Tom,soni,Undirected,1
+Blanca,Signor,Undirected,2
+Frøken Blancas,Luigi,Undirected,1
+Luigi,sfjønne Blanca,Undirected,1
+Gud,elsfe,Undirected,1
+Hnn,øg,Undirected,1
+Bertrand,Brienne øg Smith,Undirected,1
+Signor Barbados,Zuna,Undirected,1
+henhe,hnn,Undirected,1
+Blanca,Dn,Undirected,1
+Massa Ruigi,hnn,Undirected,1
+Blanca,husf,Undirected,1
+Biester Ruigi,Nnigis Pidsk,Undirected,1
+Ruigi,vni,Undirected,1
+Blanca,Ruigi,Undirected,3
+Ruigi,hnn,Undirected,2
+Signor Ruigi,hnn,Undirected,1
+hnn,sial,Undirected,1
+Ruigi,Slavindes,Undirected,1
+Blanca Clayrmvnt,Slavindes,Undirected,1
+Donna Blanca Clayrmont,Ruigi,Undirected,1
+Donna Blanca Clayrmont,Signor,Undirected,1
+Blanca,Gurga,Undirected,3
+Dands,Gurga,Undirected,1
+Dands,Massa Ruigi,Undirected,1
+Massa Ruigi,Pidsk,Undirected,1
+Massa Barbados,Pidsk,Undirected,1
+Gurga,hnn,Undirected,2
+Gurga,Pidsk,Undirected,1
+Massa,Tamborin,Undirected,1
+Luigi Barbados,soni,Undirected,1
+Nigger,Signora,Undirected,1
+Massa,Nigger,Undirected,1
+Glavinds,Massa,Undirected,2
+Massa,Signora,Undirected,1
+Pidsk,Signor Barbados,Undirected,1
+Pidsk,hnn,Undirected,1
+Signor,Signor Luigi de Barbados,Undirected,1
+Signor,Signor Barbados,Undirected,1
+Mr. Harrington,Røde-Tom,Undirected,1
+Ruigi,Rødc-Tom,Undirected,1
+Blanca,Voxlys,Undirected,1
+Ruigi,Røde-Tom,Undirected,1
+Dein,Signor,Undirected,1
+Bien,Kdpitaincn,Undirected,1
+Luigi,Signor Ruigi,Undirected,1
+Ruigi,Signor,Undirected,2
+Luigi Barbados,Øe,Undirected,1
+Røde-Tom,Signor Barbados,Undirected,1
+Røde-Tom,Øe,Undirected,1
+Jones Smith,Kapitain Turnbill,Undirected,1
+Anna,soni,Undirected,1
+Massa Vriennes,Miss Blanco,Undirected,1
+Massa Vriennes,Miss Blanca,Undirected,1
+Massa Luigi Barbados,Miss Blanca,Undirected,1
+Miss Blanca,Zuna,Undirected,1
+Massa Luigi,loe Zuna,Undirected,1
+Massa Luigi,Signor Luigi,Undirected,1
+Ponpon,Ruigi,Undirected,1
+Ruigi,soni,Undirected,1
+Pisfoler,Ruigi,Undirected,1
+Jon,Tim,Undirected,1
+Luigi,Pisfolen,Undirected,1
+Signor Ruigi,Tom,Undirected,1
+Hnn,Ruigi,Undirected,1
+Pisfol,Ruigi,Undirected,1
+Pisfol,Signor Barbados,Undirected,1
+Don Luigi,Ruigi,Undirected,1
+Donna els Barbados,Signor Barbados,Undirected,1
+Brienne,Don Luigi,Undirected,1
+Frøken Clayrmont,Jones,Undirected,1
+Brienne,Joncs,Undirected,1
+Frøken Clayrmont,Ruigi,Undirected,1
+Ruigi,sone,Undirected,1
+Blanca,sone,Undirected,1
+Blau,hnn,Undirected,1
+Node Tvin,Ruigi,Undirected,1
+Aare,Rnigi,Undirected,1
+Aare,Tom,Undirected,1
+Mr. Harrington,freni,Undirected,1
+Anna Stratsord,Blanca,Undirected,1
+Kapitain,Ruigi,Undirected,1
+Blanca,Karl,Undirected,1
+Gaas,Tom,Undirected,1
+Gaas,deroin,Undirected,1
+Kapitain Turnbill,loe Ruigi,Undirected,1
+Kentnckyerens,soer,Undirected,1
+Anna Stratford,Turnbill,Undirected,1
+Brienne transpotcrede Ruigi,Tom,Undirected,1
+Frøken Clayrmont,Jones Smith,Undirected,1
+Jones,Ruigi,Undirected,1
+Jones,Kapitain Turnbill,Undirected,1
+Kentuckycren,Tom,Undirected,1
+Jones Smith,Ruigi,Undirected,2
+Ruigi,Znna,Undirected,1
+Massa Ruigi,Znna,Undirected,1
+Tom,Zuna,Undirected,1
+Massa Smith,Zuna,Undirected,2
+Frøken Clayrmont,Kapitain Turnbill,Undirected,2
+Frøken Blanca,Frøken Clayrmont,Undirected,1
+Frøken Blanca,Jesu,Undirected,1
+Blanca,Hr. Clayrmont,Undirected,2
+iland,lluigi,Undirected,1
+Mthorn,Nuighrcb,Undirected,1
+OrækkAigl,Ruigi,Undirected,1
+Mr. Harrington,Ruigi,Undirected,1
+Mr. Harrington,Ruigi flap,Undirected,1
+Bart,Mr. Harrington,Undirected,1
+Delmont Ruigis,Signor Ruigi,Undirected,1
+Ruigi,Sir Harrington,Undirected,3
+Harrington,Ruigi,Undirected,5
+Harrington taalmødig,Ruigi,Undirected,1
+Blanca,sone Delmont,Undirected,1
+Harrington,Rnigi,Undirected,1
+Anna,Frøken Clayrmont,Undirected,1
+Frøken Clayrmont,Røde-Tom,Undirected,1
+Luigi de Barbados,Røde-Tom,Undirected,1
+Kentnckyeren,Ruigi,Undirected,1
+Anna,Kentnckyeren,Undirected,1
+Anna,Frøken Blanca,Undirected,1
+Parks,Zuna,Undirected,1
+Koni,Zuna,Undirected,1
+Kapitainen,Sømanden,Undirected,1
+Sir Clayrmont,hani,Undirected,1
+Brienne,xy,Undirected,1
+Brienne,Pisfolen,Undirected,1
+Clayrmont,Pisfolen,Undirected,1
+Brienne,Clayrmont pedblev,Undirected,1
+Blanca,Clayrmont pedblev,Undirected,1
+Blanca,Richardt,Undirected,1
+Bertrand,Znna,Undirected,3
+Znna,hnn,Undirected,1
+Blanca,Portechaisen,Undirected,1
+Blanca,Kapitain Pierre,Undirected,1
+Znna,sone,Undirected,1
+Jones Smith,sone,Undirected,1
+Brienne,Ruigi,Undirected,1
+Aland,Brienne,Undirected,1
+Lynck,Zuna,Undirected,1
+Zuna,hnn,Undirected,1
+Brienne,Sir Harrington,Undirected,1
+Pidsk,Zuna,Undirected,3
+Massa Rnigi,Pil,Undirected,1
+Gurga,Zuna,Undirected,2
+Brienne,Znna,Undirected,2
+Nigger,Zuna,Undirected,1
+Massa Brienne,Nigger,Undirected,1
+Massa Brienne,Zuna,Undirected,1
+Bertrand,Bnennc,Undirected,1
+Bertrand,Gud,Undirected,3
+Klosteres,Ursala,Undirected,1
+Gud,Ursala,Undirected,1
+Ursala,hnn,Undirected,1
+Blanca,Marquis ' de,Undirected,1
+Delmont,Marquis ' de,Undirected,1
+Blanca,Marquien,Undirected,1
+Cassius,Marquis de Villemont,Undirected,1
+Brienne,Marquisen,Undirected,1
+Marquisen,hani,Undirected,1
+Bertrand,sfakkels Bertrand,Undirected,1
+Gud,Zuna,Undirected,3
+Bertrand,sigHan,Undirected,1
+Heloise,sigHan,Undirected,1
+Bertrand,Vamsen,Undirected,1
+Cassius,Froken,Undirected,2
+Baad,Cassius,Undirected,1
+Baad,Dieu,Undirected,1
+Cassius,Danton,Undirected,1
+Cassius,Marquisen,Undirected,2
+Delmont,Marquise elv Villemonts,Undirected,1
+Cassius,Marquis,Undirected,1
+Bertrand strax,Cassius,Undirected,1
+Bertrand,Ina,Undirected,1
+Bertrand,Cassius,Undirected,4
+Bertrand,son,Undirected,1
+Bertrand,Ino,Undirected,5
+Bertrand,Brutus,Undirected,1
+Bertrand,Marquis de Villemont,Undirected,1
+Gud,Ino,Undirected,1
+Cassius,Ino,Undirected,2
+Cassius,hnn,Undirected,1
+Marquisen,hnn,Undirected,2
+Brutus,JnvS,Undirected,1
+Frøken Blanca,Ino,Undirected,1
+Bertrand,Bianca,Undirected,1
+Bianca,Cassius,Undirected,1
+Brutus,Ino,Undirected,1
+Ino,Marquise de,Undirected,1
+Marquititlen,hnn,Undirected,1
+Zuna,loe,Undirected,1
+Bertrand,loe,Undirected,1
+Bertrand,Massa Merki,Undirected,3
+Mairen,Villemout,Undirected,1
+Gud,Uslingen,Undirected,1
+Gud,Karl,Undirected,1
+Cassins,Marquis,Undirected,1
+Dct,Satan,Undirected,1
+Hr. Delmont,hnn,Undirected,1
+Maquisen,sigBlanca,Undirected,1
+Gud,Heloise de Villemont,Undirected,1
+Gud,Mairen,Undirected,1
+Brienne,Marquise,Undirected,1
+Cassius,Svend,Undirected,1
+Pisfolen,Richard Villemont,Undirected,1
+Delmont,Richard Villemont,Undirected,1
+Delmout,Ino,Undirected,2
+Ino,ane,Undirected,1
+Delmont,Gud,Undirected,1
+Brienne,Cassius,Undirected,1
+Brienne,nicn,Undirected,1
+Cassius,Lorden,Undirected,1
+Brienne,Lorden,Undirected,1
+Cassius,Iran Baptiste,Undirected,1
+Bertrand,Jean Baptiste,Undirected,2
+Brienne,Jean Baptiste,Undirected,1
+Brienne,Sally,Undirected,2
+Cassius,bleo,Undirected,1
+Sally,de Villcmont,Undirected,1
+Bertrand,de Villcmont,Undirected,1
+Jean Baptiste,Znna,Undirected,1
+Gud,Hcloise,Undirected,1
+Bertrand,Marquisen,Undirected,1
+Gud,oL,Undirected,1
+Glavind,Zuna,Undirected,1

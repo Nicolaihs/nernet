@@ -1,0 +1,49 @@
+source,target,type,weight
+Frands,Susse,Undirected,1
+Gud,véd,Undirected,1
+Hansen,Klausen,Undirected,4
+Hansen,Jomfru Klausens,Undirected,2
+Martha,Petræa,Undirected,1
+Kristiane,Maria,Undirected,1
+Maria,Susse,Undirected,1
+Ellen Klausen,Smith,Undirected,1
+Ellen Klausen,Mamsellen,Undirected,1
+Sissel,lille Johan,Undirected,1
+Mo,Sissel,Undirected,1
+Feddersens,Fejsens,Undirected,1
+Holberg,og,Undirected,1
+Karl,Nis Fallesen,Undirected,1
+Beethoven,Nis,Undirected,1
+Nis,hans,Undirected,1
+Jomfru Klausen,Vedbend,Undirected,2
+Klausen,Susse,Undirected,2
+Jomfru Klausen,Susse,Undirected,2
+Jomfru Klausen,Klausen,Undirected,3
+Liv,Susse,Undirected,1
+Jomfru Klausen,Morbroders,Undirected,1
+Gud,Hansen,Undirected,5
+Anna Müller,Klausen,Undirected,2
+Frøken Skaarup,Susse,Undirected,1
+Anna Millier,Frøken Skaarup,Undirected,1
+Hansen,Susse,Undirected,6
+Kristiane,Susse,Undirected,1
+Hansen,Jomfru Klausen,Undirected,4
+Anna,Susse,Undirected,1
+Anna,Jomfru Klausen,Undirected,1
+Klausen,Kreutzmann,Undirected,1
+Klausen,Nis Callesen,Undirected,1
+Klausen,Kristus,Undirected,1
+Kristus,Maria,Undirected,1
+Maria,Martha,Undirected,1
+Johannes,Martha,Undirected,1
+Anna Müller,Hansen,Undirected,1
+Anna,Gud,Undirected,1
+Karl,Wilhelm Kreutzmann,Undirected,1
+Jomfru Klausen,Nis Callesen,Undirected,2
+Gud,Nis Callesen,Undirected,1
+Gud,Kreutzmann,Undirected,1
+Anna Müller,Nis Callesen,Undirected,1
+Anna Müller,Susse,Undirected,1
+Gud,Kejserens,Undirected,1
+Hansen,Karle,Undirected,1
+Anna Müller,Jomfru Klausen,Undirected,1

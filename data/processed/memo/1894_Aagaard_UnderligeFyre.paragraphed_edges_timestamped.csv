@@ -1,0 +1,547 @@
+source,target,timestamp
+Mamma,Pappa Rønnow,2
+Sofie,lille Hans,6
+Sofie,Terjesen,6
+Clerkers,Wenns,10
+Monsieur Argus,Rønnow,14
+Mr. Argus,Rønnow,16
+Mr. Krauss,Pappa,18
+Alfred von Schlauenbaart,Mefisto,21
+Mefisto,Mr. Argus,22
+Monsieur Albert,Monsieur Alphonse,25
+Lille Alphonse,frs,26
+Kapt. Morton,Mr. Wenns,29
+Mefisto,Morton,39
+Alphonse,Morton,39
+Morton,Mr. Argus,43
+Mefisto,Morton,43
+Mr. Alfred,Mr. Argus,45
+Alphonse Argus,slig,47
+lille Alphonse,slig,47
+Alfred,Mr. Alfred,48
+Alfred,Lille Alphonse,48
+Pappa,Pappa Rønnow,49
+Mr. Alfred,Mr. Morton,50
+Mr. Alfred,Mr. Morton,50
+Morton,Mr. Alfred,51
+Mr. Alfred,Mr. Morton,55
+Mefisto,Mr. Alfred,55
+Alfred,Mr. Alfred,57
+Morton,lille Alphonse,59
+Alfred,Morton,60
+Lille Alphonse,dingled,62
+Alphonse,dingled,62
+Alphonse,Argus,62
+Alfred’,Argus,62
+Alphonse,grazieust,63
+Alfred,Alphonse,66
+Alphonse,Mefisto,66
+Mefisto,Morton,66
+Alphonse,Morton,73
+rose-,van Schenken,76
+Pappa Rønnow,Schef roed,77
+Krauss,Schef,79
+Krauss,Schef,81
+Schef,Seier,81
+Pappa Rønnow,Seier,81
+Monsieur Argus,Pappa Rønnow,81
+Doel,Schef,82
+Doel,Schef,82
+Hans,Mynheer,86
+Hans,Schef,86
+Clerk,Salve,88
+Herr Appelgaard,Keiser Wilhelm,89
+Clerkernes,Keiserens,101
+Appelgaard,Clerkernes,101
+Appelgaard,Salve,101
+Keiseren,Salve,101
+Keiseren,Salve Svendsen,102
+Mynheer van Schenken,Van Schenkens,103
+Kapt. Sivertsen,Salve,105
+Anne Marie,Kapt. Sivertsen,105
+Joachim,vesle,113
+Hans,vesle,113
+Hans,Sofie,113
+Keiseren,Sofie,113
+Kapt. Olsen,Keiseren,113
+Joachim,Salve Svendsen,114
+Joachim,Sofie,114
+Anthonisen,ivei,118
+Anthonisen,lel,118
+Joachim,svarteAppelgaard,123
+Beyer,Sofie,131
+Appelgaard,Clerken,141
+Hans,Mynheer,144
+Hans,Sofie,144
+Schef,Sofie,144
+Hans,Schef,145
+Appelgaard,Clerk,148
+Clerk,Jacob von Grim,148
+Appelgaard,Stewedore,149
+Keiseren,Stewedore,149
+Joachim,Svendsen,153
+Joachim,kommanderte Appelgaard,153
+Salve,Slengemand,157
+Senor,Slengemand,157
+Don,Senor,157
+Don,magnifique,157
+Salvio,magnifique,157
+Salvio,s,157
+Antonette,Salve,158
+Antonette,Kjærringe,158
+Joachim,Kjærringe,158
+Beyer,Van Schenken,160
+Joachim,Salve,167
+Joachim,Salve,182
+Gut,Joachim,184
+Joachim,Salve Svendsen,185
+Heisan,Kong Salve,186
+Heisan,Salve Svendsen,186
+Salve Svendsen,lel,186
+Consul Prebensen,Salve,187
+Consul Prebensen,Salve Svendsen,187
+Joachim,Salve Svendsen,187
+D,Schef,193
+Beyer,Joachim,198
+Don Juan,Joachim,198
+Don Juan,Peter Beyer,198
+Joachim,Peter Beyer,198
+Beyer,Joachim,200
+Beyer,Joachim,208
+Beyer,Joachim,213
+Appelgaard,Salve,214
+Beyer,Joachim,215
+Joachim kasted,Olsen,220
+Joachim,Stakkars,221
+Keiseren,Sofie,224
+Beyer,Salve,230
+Karen,Sofie,233
+Laxerius &,Skaal,236
+Salve,lel,247
+Beyer,Joachim,250
+Salve,tirred Beyer,252
+Joachim,Salve,258
+Joachim,Mikkelsen,265
+Salve,Skakke,272
+Kaptein Olsen,Sandefjord,281
+Sandefjord,per Exempel,281
+Jasaa,Kaptein,283
+Joachim sværmed,glytted,294
+Beyer,Kaptein Olsen,295
+Beyer,Joachim,299
+Beyer,iland,299
+Schef,Seiren,300
+Appelgaard,Salve,301
+Kaien,Pappa Rønnow,302
+Anthonisen,Kaien,304
+Mamma Rønnow,Pappa,306
+. Olsen,Mamma,308
+Kaptein Kofoed,Mamma Rønnow,309
+Kapt.,Olsen,310
+Mamma Rønnow,Olsen,310
+Olsen,j eg,315
+Rønnow,lille Frue,316
+Elise,Rønnow,318
+Olsen,Rønnow,323
+Mamma,Pappa,325
+Olsen,Pappa,329
+Kaptein Olsen,Mr. Argus,330
+Consul Christiansen,Olsen,334
+Olsen,Pappa,334
+Clerk,Pappa,334
+Mamma,Rønnow,338
+Gud,Rønnow,338
+Mette,Pappa,340
+Mamma,Pappa,340
+Mette,Pappa,342
+Pappa,paany,342
+Mamma,taug,343
+Mamma,Wenns,352
+Clerk,Wenns,353
+Olsen,Pappa,355
+Kaptein Olsen,Wenns,357
+Mamma,kjære Kapt. Olsen,358
+Clerken,Olsen,362
+Elise,Herr Rønnow,363
+Herr Rønnow,Rønnow,363
+Mamma,sejeannes,367
+Jeanne,sejeannes,367
+Jeanne,lille Frue,370
+Olsen,Pappa,373
+Anthonisen,Pappa,375
+Anthonisen,Kaptein,375
+Elise,Olsen,380
+Elise,Rønnow,380
+Kaptein Olsen,Svendsen,382
+Kaptein Svendsen,Wenns,386
+Kaptein Svendsen,Mr. Wenns,386
+. Kaptein Svendsen,Mr. Wenns,386
+. Kaptein Svendsen,Mr. Rønnow,386
+Mr. Rønnow,Wenns,386
+Nestior,Wenns,387
+Kaptein Morton,Wenns,388
+Rønnow,Wenns,389
+Kaptein Olsen,Morton,391
+Kaptein Olsen,Wenns,391
+Jasan,Rønnow,394
+Elise,Rønnow,396
+Clerker,Lucie,404
+Bettie,grazieust,407
+Bettie,Lucie,410
+Bettie,Olaf Ask,410
+Bettie,Olaf Ask,410
+Lucie,Terjesen,412
+Olaf,Terjesen,412
+Olaf,Pappa Rønnow,412
+Haba,Terjesen,413
+Jente,Terjesen,413
+Jente,hu,413
+Gamla,hu,413
+Gamla,Rønnow,413
+Pappa,Rønnow,413
+Pappa,Terjesen,413
+Lucie,Terjesen,413
+Gamla,Terjesen,414
+Gamla,Jora,414
+Jora,Lucie,414
+Lucie,henneses,414
+Sofie,Wenns,415
+Lille Alphonse,Wenns,415
+Lille Alphonse,Olsen,415
+Morton,Olsen,415
+Alphonse,Morton,415
+Alphonse,Pappa,415
+Morton,Wenns,418
+Alphonse,Morton,418
+Alphonse,Kurtise,418
+Alphonse,Kurtise,418
+Alphonse,Wenns,418
+Dandyens,Wenns,418
+Dandyens,Laps,418
+Laps,Schef,418
+Schef,slig,418
+Alphonse Argus,Schef,422
+Simonsen,Simonsens,424
+Elias Simonsens,Simonsen,425
+Mr. Wenns,Salve,431
+Bettie,Salve,435
+Jacob v. Grim,Wenns,440
+Jacob v. Grim,didhen,440
+Salve,didhen,440
+Grim,Herr v.,442
+Knekkenbein,Van Knekkenbeins,445
+Hansson,Van Bottenfoer,448
+Axel Oxenstjerna,Hansson,449
+Betties Skaal,Lucie,456
+Bettie,Wenns,460
+Salve,Svendsen,461
+Salve,Salve Svendsen,463
+Kaptein Svendsen,Salve Svendsen,463
+Salve,Svendsen,464
+Bettimor,vesle søde,465
+Bettie,Wenns,466
+Lucie,Wenns,468
+Lucie,Mr. Wenns,470
+Lucie,v.,470
+Herr Svendsen,v.,470
+Bettie,Herr Svendsen,470
+Bettie,Svendsen,471
+Lucie,Svendsen,471
+Lucie,Mr. Wenns,471
+Bettie,Wenns,472
+Bettie,Svendsen,472
+Salve,Wenns,473
+Salve glytted,Samson,474
+Antonette,Juling,484
+Bettie,Wenns,485
+Kjære Mynheer Svendsen,Wenns,486
+Bettie,Wenns,487
+Kapt. Svendsen,Salve,488
+Wenns,paany Salve,490
+Adiøs,Antonette,494
+Antonette,Salve Svendsen,495
+Antonette —,Mr. Wenns,499
+Antonette,Vesla,502
+Heisan,Mr. Wenns,505
+Mr. Svendsen,snerred Wenns,509
+Hans,Thor,515
+Mamma,Pappa,516
+Gut,Hans,519
+Antonette,anbelangendes,524
+Salve Svendsen-,Sjømand,525
+Pepita,vesle Jenta mi,531
+Kaptein Svendsen,Karen,533
+Kaptein Svendsen,Pepita,533
+Langtifra,Pepita,533
+Langtifra,Pys,533
+Maren,Mulaten,534
+Hans,Mulaten,534
+Antonette,Hans,534
+Pepita,Salve Svendsen,537
+Antonette,Pepita,538
+Pepita,Per Askeland,538
+Hyra,Per Askeland,538
+Hyra,Per Askeland,538
+Antonette,Per Askeland,538
+Antonette,Pappa Rønnow,538
+Pappa Rønnow,Per,538
+Kaftein,Per,538
+Kaftein,Per,538
+Kaftein,Per,538
+Kaftein,Per,538
+Mefisto,Pappa,540
+Pappa,snille Rønnow,540
+Isak,Kaptein Hagenæs,552
+Hans,Kaptein Hagenæs,552
+Gut,Salve Svendsen,553
+Moses,Olaf Trygvesøn,555
+Hans,Salve,558
+Antonette,Salve Svendsen,560
+Consul,Salve Svendsen,561
+Consul,Hans,561
+Antonette,Consuler,563
+Hubro,circus,566
+Hans,Jonas Lie,568
+Hans,Jonas Lie,568
+Hans,Ole Bergsvik,568
+Ole Bergsvik,iland,568
+Ole Seilmager,iland,568
+Ole,Ole Seilmager,568
+Hans,Langtifra,569
+Hans,Salve Svendsen,573
+Consulen,Hans,574
+Hans,Toddy,575
+Pepita,vesle,576
+Hans,Kaptein Svendsen,577
+Kaptein Salve Svendsen,Kaptein Svendsen,577
+Clerkerne,Mefisto,581
+Krauss,Wenns,584
+Mefisto,Wenns,585
+Pappa,Pappa Rønnow,586
+Anthonisen,Pappa,586
+Anthonisen,Wenns,586
+Clerkerne,Wenns,586
+Anthonisen,Pappa,587
+Albert,Lille Alphonse,588
+Krauss,Wenns,591
+Wenns,v. Grim,591
+Morton,v. Grim,591
+Drosche,Morton,591
+Kapt,Olsen,592
+. Olsen,Kapt,592
+. Olsen,Kapt,592
+Alphonse,Kapt,592
+Adieu,Alphonse,592
+Adieu,Morton,592
+Droschen,Morton,592
+Droschen,Wenns,592
+Grim,Wenns,592
+Alphonse,Grim,592
+Alphonse,sogar,592
+Wenns,sogar,592
+Alphonse,Lille Alphonse,594
+Alphonse,Pappa Rønnow,595
+Krauss,Wenns,598
+Alphonse paany,Krauss,598
+Alphonse paany,Wenns,598
+Mefisto,Wenns,606
+Anthonisen,Mefisto,606
+Anthonisen,Schef,606
+Schef,Wenns,606
+Wenns,iveien,607
+Salve,Wenns,612
+Alphonse,Wenns,620
+Argus,Wenns,620
+Alphonse,Argus,620
+Albert,Krauss,624
+Albert,Pappa,625
+Albert,Skakke,628
+Depesche,Schef,631
+Schef,Wenns,631
+Pappa,Wenns,633
+Krauss,Pappa,638
+Anthonisen,Wenns,640
+Albert,Monsieur Albert,642
+Mynheer Rønnow,Rønnow,644
+Mynheer Hans,Mynheer Rønnow,645
+Mefisto,Monsieur,646
+Albert,Krauss,647
+Anthonisen,Pappa,651
+Hans,Pappa,652
+Hans,Wenns,652
+Mefisto Mynheer Rønnow,Pappa,653
+Jens Søren Rønnow,Pappa,653
+Schef,vaad,654
+Mr. Wenns,vaad,654
+Hans,Mynheer,657
+Krauss,Schef,658
+Krauss,Mynheer,660
+Gottverdamm,Krauss,660
+Gottverdamm,Mynheer,660
+Hans,Mynheer,660
+Hans,Mefisto,660
+Sacrrremille-tonnerres,Wenns,661
+Mefisto,Mr. Wenns,662
+Hans,Mynheer,663
+Mefisto,Pappa,665
+Clerk,Pappa,665
+Mefisto,Schef,671
+Pappa Rønnow,skjæve,676
+Mefisto,skjæve,676
+Albert,Krauss,677
+Krauss,Mefisto,677
+Anthonisen,Clerker,679
+Anthonisen,Clerker,679
+Anthonisen,Pappa Rønnow,683
+H. Anthonisen,Pappa,688
+An thonisen,Rønnow,690
+Bachus,Salve Svendsen,691
+Anthonisen,lille Severin,693
+Anthonisen,Lille Severin,697
+Anthonisen,Rønnow,699
+Anthonisen,Severin,704
+Severin,Sinne,711
+Anthonisen,Severin,712
+Anthonisen,iveien,714
+Anthonisen,Salve,720
+Anthonisen,Sofie,722
+Kaien,Pappa,729
+Rønnow,Wenns,731
+Rønnow,Salve,732
+Pappa,Rønnow,732
+Mr. Wenns,rnin kjære Svendsen,734
+Clerk,Rønnow,738
+Clerk,Svendsen,738
+Svendsen,William Wenns,738
+Hans,Wenns,741
+Beyer,Hans,741
+Beyer,Rønnow,741
+Rønnow,Salve,745
+Kristian,Wenns,750
+Rønnow,Salve,753
+Lucie,Wenns,754
+Lucie,Wenns,754
+Mamma,Wenns,754
+Mamma,Wenns,754
+Kommers,Wenns,754
+Rønnow,Salve,755
+Anthonisen,Hans,756
+Anthonisen,pegte Rønnow,759
+Pappa,Salve,762
+Rønnow,Wetlesen,764
+Grim,Jacob v.,768
+Anthonisen,Grim,768
+Anthonisen,skjalv,770
+Anthonisen,Pappa,770
+Flos,Rønnow,773
+Anthonisen,Severin,774
+Anthonisen,Severin,776
+Anthonisen,Severin,778
+Anthonisen,Salve,779
+Anthonisen,Rønnow,779
+Broder,Rønnow,780
+Anthonisen,Kjære Rønnow,782
+Baron,Kjære Rønnow,782
+Grim,Pappa,787
+Grim,Pappa,787
+Anthonisen,Rønnow,792
+Anthonisen,Rønnow,792
+Rønnow,von Grim,792
+Broder,Rønnow,793
+Grim,Salve,794
+Jacob,Priso,795
+Jacob,Priso,795
+Jacob,Rønnow,795
+Anthonisen,Severin,796
+Anthonisen,Rønnow,800
+Rønnow,Salve Svendsen,810
+Consul,Salve Svendsen,810
+Consul,Slengemand,810
+Svendsen,Von Grim,814
+Svendsen,Von Grim,814
+Kong Farao,Rønnow,816
+Josef,Kong Farao,816
+Rønnow,Salve,817
+Mefisto,Pappa,821
+Clerkerne,Mefisto,824
+Albert,Krauss,825
+Alphonse,Krauss,825
+Albert,Pappa,826
+Morton,Pappa,826
+Albert,Alphonse,828
+Albert,Krauss,830
+Albert,Pappa Rønnow,830
+Anthonisen,Pappa,831
+Salve,Svendsen,835
+Argus,Rønnow,836
+Argus,Toddy risled,836
+Rønnow,Toddy risled,836
+s,v. Grim,837
+Grim,Salve,838
+Rønnow,Salve,838
+Rønnow,Wenns,838
+Jakob v.,Wenns,838
+Plebsen,Wenns,839
+Bettie,Wenns,839
+Bettie,Wenns,839
+Bettie,Wenns,839
+Jakob,Salve,841
+Bettie,Salve,841
+Jacob,Salve,843
+Kaien,Salve,843
+Bettie,Salve,844
+Lurifas,Salve,846
+Joachim,Salve Svendsen,849
+Salve Svendsen,sligt,849
+Joachim,Salve,850
+Jacob,Joachim,850
+Jacob,Joachim,850
+Joachim,lel,850
+Wenns,lel,850
+Jacob,Wenns,853
+Jacob,Salve,858
+Flos,Kaien vased Clerkerne,859
+Kaien,Salve,860
+Jacob,Mor Heybrook,861
+Fulas,Mor Heybrook,861
+Grim,Jacob v.,863
+Grim,Heybrooks,863
+Jacob v.,Jacob —,867
+Kaien,iland,868
+Joachim,iland,868
+Gutten,Joachim,868
+Joachim,Salve,870
+Joachim,vesle Joachim,871
+Joachim,vesle Joachim,871
+Joachim,Schef,873
+Salve,Wenns,875
+Joachim,Salve,877
+Mynheer,Pappa,878
+Joachim,Salve,880
+Schef,s,881
+Jacob,Rønnow,889
+Jacob,Salve Svendsen,889
+Jacob,Salve Svendsen,889
+Grim,Jacob v.,890
+Grim,Salve Svendsen,890
+Joachim,Wenns,891
+Schef,Wenns,891
+Clerk,Joachim,892
+Clerk,Salve,892
+Salve,Salve Svendsen,892
+Salve Svendsen,William Wenns,892
+Wenns,William Wenns,892
+Wenns,omtaaged Salve Svendsens,892
+Portoricos,Vesle Pepita,893
+Portoricos,Salve Svendsen,893
+Bettie,Lucie,896
+Bettie,Wenns,896
+Mr. Wenns,Wenns,896
+Pappa,Wenns,898
+Clerk,Pappa,898
+Clerk,Schef,898
+Schef,Wenns,898
+Gud,Schef,902
+Mynheer Rønnow,Schef,902
+Joachim,Pappa,905
+Pappa,Wenns,907

@@ -1,0 +1,454 @@
+source,target,type,weight
+Bismarck,Moltke,Undirected,1
+Gud,Henriksen,Undirected,1
+Anders Nielsen,Anna Kristine,Undirected,1
+Ravn,sorn,Undirected,2
+Ravn,adder,Undirected,1
+Gud,Per Andersen,Undirected,2
+Beck,Storm,Undirected,2
+Beck,Krarup,Undirected,3
+Beck,Ravn,Undirected,1
+Ewalds,Krarup,Undirected,1
+Ewalds,Keils,Undirected,1
+Herredsfoged Henriksen,Krarup,Undirected,1
+Jessen,Kristen Pedersen,Undirected,1
+Krarup,Kristen Pedersen,Undirected,1
+Jessen,Krarup,Undirected,2
+Frederik d.,Jessen,Undirected,2
+Gud,Hr. Greve,Undirected,1
+Greven,Jessen,Undirected,3
+Gud,Jessen,Undirected,4
+Hans,Ole Rasmussen,Undirected,5
+Greven,Hans,Undirected,1
+Kristen Pedersen,Ole Rasmussen,Undirected,1
+Greven,Kristen Pedersen,Undirected,1
+Gud,Kristen Pedersen,Undirected,1
+Hjorth,Per Andersen,Undirected,13
+Jessen,Per Andersen,Undirected,1
+Møller Kristensen,Per Anders,Undirected,1
+Mikkel Blodpølse,Per Anders,Undirected,1
+Niels Spegesild,Per Andersen,Undirected,1
+Hjorth,Niels Spegesild,Undirected,1
+Store Jens Persen,lille Jens Persen,Undirected,1
+Jens Persen,lille Jens Persen,Undirected,1
+Jens Persen,Kristen Olsen,Undirected,1
+Krarup,Kristen Olsen,Undirected,1
+Jens Persen,Krarup,Undirected,2
+Falkenstjærne,Ole,Undirected,1
+Falkenstjærne,Ole Ras,Undirected,1
+Ole Rasmussen,mussen,Undirected,1
+Ole,Ole Rasmussen,Undirected,1
+Ole,lille Jens Persen,Undirected,1
+hart,lille Jens Persen,Undirected,1
+hart,lille Jens,Undirected,1
+Kristensen,Per Anders,Undirected,1
+Beck,Kristensen,Undirected,1
+Niels,Peer Andersen,Undirected,1
+Anders,Krarup,Undirected,1
+Ole Rasmussen,aa,Undirected,1
+Henrik Larsen,Jessen,Undirected,1
+Per,Per Andersen,Undirected,1
+Andersen,Per,Undirected,1
+Beck,Provst Sommer,Undirected,1
+Hjorth,Per«,Undirected,1
+Krarup,Per Andersen,Undirected,1
+Hjorth,Niels Christian Hjorth,Undirected,1
+Frederik den,Jørgen Hjorth,Undirected,1
+Clausen,Orla Lehmann,Undirected,1
+Clausen,Ploug,Undirected,1
+Ploug,nationalliberal,Undirected,1
+dj,nationalliberal,Undirected,1
+bf,dj,Undirected,1
+Niels Chri’•'f,j,Undirected,1
+Jens,j,Undirected,1
+Jens,Niels Christian,Undirected,1
+Per Andersen,sirtses,Undirected,1
+Hjorth,liun,Undirected,2
+Hjorth,Judas,Undirected,1
+Judas,Kristine,Undirected,1
+Gud,Kristine,Undirected,4
+Krarup,Kristine,Undirected,1
+Ane,Per Andersen,Undirected,1
+Ane,Falkenstjærne,Undirected,1
+Falkenstjærne,Hjorth,Undirected,1
+Hjorth,Peer Andersen,Undirected,1
+Frederik den syvende,Per Andersen,Undirected,1
+Jon,Per Andersen,Undirected,1
+Gud,Hjorth,Undirected,7
+Niels Christian Hjorth,Per Andersen,Undirected,1
+Rythme,j,Undirected,1
+Hjorth,Kristian den,Undirected,1
+Hjorth,Kristine,Undirected,23
+Hansen,Kristine,Undirected,2
+Hjorth,Petersen,Undirected,9
+Petersen,sorn,Undirected,1
+Hjorth,Lindekær,Undirected,7
+Hansen,Hjorth,Undirected,1
+Hansen,Per Andersen,Undirected,1
+Kristine,Per Andersen,Undirected,13
+Kristine,Per,Undirected,1
+Hansen,Per,Undirected,1
+Lindekær,Petersen,Undirected,2
+Katekismen,Kristine,Undirected,1
+Kirsten,Per Andersen,Undirected,1
+Henrik Larsen,Kristine,Undirected,5
+Henrik Larsen,Hjorth,Undirected,3
+Henriks,Hjorth,Undirected,1
+Henrik,Henriks,Undirected,1
+Henrik Larsen,Per Andersen,Undirected,2
+Henrik Larsen,Jonen,Undirected,1
+Jonen,Kristine,Undirected,1
+Henrik,Hjorth,Undirected,5
+Hjorth,Lindedal,Undirected,1
+Henrik Larsen hode,Per Andersen,Undirected,1
+Henrik,Kristine,Undirected,5
+Henrik,Karle,Undirected,1
+Amanda,Herman,Undirected,1
+Amanda,Henrik Larsen,Undirected,1
+Henrik,Niels,Undirected,2
+Kristine,Niels,Undirected,4
+Kli,kla,Undirected,1
+kla,kli,Undirected,1
+Heinerik,lia,Undirected,2
+Anders Jørgensen,Hans Olesen,Undirected,1
+Anders Jørgensen,Niels,Undirected,1
+Genna nernes,Hjorth,Undirected,1
+Griechenlands,Götter,Undirected,1
+Wie ganz,euer Wonnedienst,Undirected,1
+Wie ganz,anders war,Undirected,1
+Goethe,Hjorth,Undirected,2
+Goethe,Schiller,Undirected,3
+Wallenstein,Werthers,Undirected,1
+Max,Peter fra,Undirected,1
+Dorothea,Kristine,Undirected,1
+Krarup,lien,Undirected,1
+Frederiksen,Ravn,Undirected,3
+Jessen,Meyer,Undirected,1
+Gud,lian,Undirected,1
+Jessen,Ravn,Undirected,3
+Pastor Krarup,lian,Undirected,1
+Krarup,Nelly,Undirected,2
+Hjorth,Nelly,Undirected,4
+Hjorth,Jessen,Undirected,14
+Jessen,livis,Undirected,1
+Jessen,Nelly,Undirected,2
+Gud,Krarup,Undirected,1
+Jessen,Magnus Eiriksons,Undirected,1
+Magnus Eiriksons,Theodorus,Undirected,1
+Theodorus,Victor Rydberg,Undirected,1
+Strauss,Victor Rydberg,Undirected,1
+Baur,Strauss,Undirected,1
+Baur,Spinozas,Undirected,1
+Gud,Spinozas,Undirected,1
+Jessen,Møller Kristensens Pudel,Undirected,1
+Møller Kristensens Pudel,Niels Larsens,Undirected,1
+Niels Larsens,Per Andersen,Undirected,1
+Per Andersen,orandring,Undirected,1
+Niels,Per Andersen,Undirected,2
+Frederik den,Per Andersen,Undirected,1
+Graads,Kristine,Undirected,1
+Møller Kristensen,Per Andersen,Undirected,4
+Kristine,liun,Undirected,1
+Hjorth,Krarup,Undirected,3
+Hjorth,Storm,Undirected,2
+Luther,Petersen,Undirected,1
+Darwin,Spencer,Undirected,2
+Spencer,Væxt,Undirected,1
+Mefistofeles,Væxt,Undirected,1
+Attestas,Mefistofeles,Undirected,1
+Baur,Hilgenfeldt,Undirected,1
+Bornemann,Fritz Jürgensens,Undirected,1
+Bornemann,Petersen,Undirected,1
+Kristus,Martensens,Undirected,1
+Hutherus redivivus,Petersen,Undirected,1
+Marc,Per,Undirected,1
+Dont,Marc,Undirected,1
+Christian Winther,Oehlenschlåger og,Undirected,1
+Meyer,Paulus,Undirected,1
+Glausens,Paulus,Undirected,1
+Glausens,Hjorth,Undirected,1
+Fredløse,Hjorth,Undirected,1
+Hr. Winkelmann,Karls,Undirected,1
+Hjorth,Hr. Winkelmann,Undirected,2
+Jessen,Kristine,Undirected,1
+Futurum Hifil,jatah,Undirected,1
+Gud,Iversen,Undirected,1
+Hjorth,Kleistrup,Undirected,5
+Giavis Cleistrupii,Iversen,Undirected,1
+Iversen,Kleistrup,Undirected,4
+Hr. Winkelmann,Kleistrup,Undirected,1
+Gud,Nolo,Undirected,1
+Kong Salomo,Nolo,Undirected,1
+Iversen,dogmaticoethid,Undirected,2
+Hjorth skoggerlo,Iversen,Undirected,1
+Hjorth skoggerlo,Kleistrup,Undirected,1
+Gud,véd,Undirected,5
+Martensens,lisme,Undirected,1
+Brøchner,Rasmus Nielsen,Undirected,1
+Aristoteles,Ole Buil,Undirected,1
+Aristoteles,Hegels,Undirected,1
+Goethe,Hellas,Undirected,1
+Paulus,Schiller,Undirected,1
+Paulus,s,Undirected,1
+Hegel,Stuart Miil,Undirected,1
+Hegel,Spencer,Undirected,1
+Heine,Hjorth,Undirected,1
+Jakob,Kleistrup,Undirected,1
+Jakob,Stuart Miil,Undirected,1
+Spencer,Stuart Miil,Undirected,1
+Darwin,Martensens,Undirected,2
+Hjorth,Hr. Frederiksen,Undirected,1
+Hr. Frederiksen,Vischer,Undirected,1
+Hjorth,Vischer,Undirected,1
+Goethe,Luthardt,Undirected,1
+Augustanas,Hr. Hjorth,Undirected,1
+Kristine,Vilhelmine,Undirected,4
+Vilhelmine,Walter Scotts,Undirected,1
+Dronning Elisabeths,Walter Scotts,Undirected,1
+Gud,Moses,Undirected,1
+Goethe,Rafaels,Undirected,1
+Bjørnson,bent,Undirected,1
+Bjørnson,Ellinor,Undirected,1
+Ellinor,Grieg,Undirected,2
+Hjorth,Provst Lindekær,Undirected,3
+Georg Brandes,Gud,Undirected,1
+Ernst Dybdals,Frans Saxners,Undirected,1
+Bjørnson,Provst Lindekær,Undirected,1
+Hjorth,Lessings,Undirected,1
+Lessings,Nathan,Undirected,1
+Moses Mendelssohn,Nathan,Undirected,1
+Gotthold Ephraim Lessing,Moses Mendelssohn,Undirected,1
+Lessing,Nathan,Undirected,2
+Lessing,Strauss,Undirected,1
+Hjorth,Nathan,Undirected,2
+Lessing,Sittahs,Undirected,1
+Recha,Sittahs,Undirected,1
+Heinrich Heine,Lessing,Undirected,1
+Goethe,Jakobi,Undirected,1
+Jakobi,Lessing,Undirected,1
+Lessing,Spinozas,Undirected,1
+Hjorth,Lessing,Undirected,1
+Christus,sorn,Undirected,1
+Jesus Christus,sorn,Undirected,1
+Ellinor,Rubinstein,Undirected,1
+Provst Lindekær,Rubinstein,Undirected,1
+Darwin,Hjorth,Undirected,1
+Krarup,Petersen,Undirected,7
+Fru Herredsfogedinden,Krarup,Undirected,1
+Axel,Valborg,Undirected,1
+Ravn,Sommer,Undirected,1
+Hjorth,Pastor Frederiksen,Undirected,1
+Frøken Klingenbergs,Ravn,Undirected,2
+Bo —,Frøken Klingenbergs,Undirected,1
+Hjorth,skraas,Undirected,1
+Frøken Klingenberg,Kristine,Undirected,1
+BedsteHorns,ifjor,Undirected,1
+Ge—Gambetta,Krarup,Undirected,1
+Frederiksen,Storm,Undirected,1
+Krarup,Ravn,Undirected,4
+Martensens,Storm,Undirected,1
+Frøken Klingenberg,Gud,Undirected,1
+Krarup,beraabe,Undirected,1
+Hjorth,beraabe,Undirected,1
+Gud,Martensens,Undirected,1
+Krarup,Martensens,Undirected,1
+Darwin,Frederiksen,Undirected,1
+Frederiksen,Martensens,Undirected,1
+Darwin,Darwin rose,Undirected,1
+Kristine,Ravn,Undirected,3
+Ravn,Vilhelmine,Undirected,1
+Pastor Frederiksen,Ravn,Undirected,1
+Amanda,Vilhelmine,Undirected,1
+Amanda,Hjorth,Undirected,2
+Frederiksen,Hjorth,Undirected,1
+Frederiksen,skraa,Undirected,1
+Frøken Henriksen,Frøken Kristine,Undirected,1
+Frøken Kristine,Kristine,Undirected,1
+Hjorth,Vilhelmine,Undirected,1
+Karl,Kristine,Undirected,1
+Hans,Ole,Undirected,2
+Henrik,Ole,Undirected,2
+Ole,Skaal,Undirected,1
+Møller,Skaal,Undirected,1
+Henrik Larsen,Kristensen,Undirected,1
+Mølleren,Ole,Undirected,1
+Hegel,Kants,Undirected,1
+Hegel,Schiller,Undirected,1
+Gud,Schiller,Undirected,1
+Hjorth,Schiller,Undirected,1
+Petersen,Rabies,Undirected,1
+Meyer,Petersen,Undirected,1
+Luther,Meyer,Undirected,1
+Hjorth,Valbert,Undirected,1
+Schak,Valbert,Undirected,1
+Madam,Schak,Undirected,1
+Hjorth,Uhr,Undirected,1
+Ellinor,Uhr,Undirected,1
+Ellinor,Provst Lindekær,Undirected,1
+Provst Lindekær,løvrig,Undirected,1
+Hjorth,Stine,Undirected,1
+Ellinor,Stine,Undirected,1
+Ellinor,Vilhelm Tell,Undirected,1
+Ellinor,Hjorth,Undirected,5
+Ellinor,Gemmy,Undirected,1
+Gemmy,Vilhelm Tell,Undirected,1
+Vilhelm Tell,skraa,Undirected,1
+mørk,skraa,Undirected,1
+Schiller,mørk,Undirected,1
+Schiller,Wilhelm Tell,Undirected,1
+Ellinor,Wilhelm Tell,Undirected,1
+Gessier,Tell,Undirected,1
+Hjorth,Tell,Undirected,1
+Hjorth,Svend,Undirected,1
+Ellinor,Kristine,Undirected,1
+Ellinor,Fader,Undirected,1
+Hegel,Hjorth,Undirected,1
+Alin,Luther,Undirected,1
+Frederiksen,Thomsen,Undirected,1
+Kleistrup,Thomsen,Undirected,1
+Hjorth,Martensens,Undirected,1
+Licentiat Willumsen,Licentiat Willumsens,Undirected,1
+Jesus dér,Licentiat Willumsen,Undirected,1
+Jesus,Jesus dér,Undirected,1
+Jesus,Meyer,Undirected,2
+Meyer,Willumsen,Undirected,1
+Jesus,Willumsen,Undirected,1
+Frederiksen,Irenæus,Undirected,1
+Gregor,Irenæus,Undirected,1
+Gregor,Nyssa,Undirected,1
+Logos,Maria,Undirected,1
+Gud,Hr. Christensen,Undirected,1
+Hr. Christensen,Logos,Undirected,1
+Gud,Logos,Undirected,1
+Kristus,Licentiat Willumsen,Undirected,1
+Hr. Hansen,Jesus,Undirected,1
+Hr. Hansen,Meyer,Undirected,1
+Jesu,Meyer,Undirected,1
+Baaders,Jesu,Undirected,1
+Lindekær,Nelly,Undirected,1
+Nelly,Tramp,Undirected,1
+Ravn,Tramp,Undirected,3
+Nelly,Ravn,Undirected,2
+Bob,Nell,Undirected,1
+Gud,Petersen,Undirected,1
+Kristine,Nelly,Undirected,2
+Kristus,Moses,Undirected,1
+Gideons,Moses,Undirected,1
+Hjorth,Strauss,Undirected,2
+Gud,Luther,Undirected,2
+Baur,Hjorth,Undirected,1
+Baur,Pauls,Undirected,1
+Frøken Klingenberg,Petersen,Undirected,1
+Frøken Klingenberg,Hjorth,Undirected,1
+Ellinor,Mendelssohns,Undirected,1
+Cecilie,Gud,Undirected,1
+Brøchner,conditio sine qva,Undirected,1
+Brøchner,Theodor,Undirected,1
+Strauss,Theodor,Undirected,1
+Gud,Niels Christian Hjorth,Undirected,1
+Woyens,Zollrevision,Undirected,1
+Hugo’,sØren,Undirected,1
+Hjorth,Jens,Undirected,1
+Bæk,Niels,Undirected,2
+Bæk,Jens Christian,Undirected,1
+Hjorth,Jørgen Juel,Undirected,1
+Hjorth,Kromand Bek,Undirected,1
+Karle,Kromand Bek,Undirected,1
+Lars,wis,Undirected,1
+Jens Hjorth,Lars,Undirected,1
+Jen,Lars,Undirected,1
+Christian,Jen,Undirected,1
+Hjorth,bøse Junge dort,Undirected,1
+Ellinor,Hjort,Undirected,1
+Jens Hjorth,Leonardo da Vincis,Undirected,1
+Leonardo da Vincis,Niels,Undirected,1
+Jens Hjorth,Niels,Undirected,1
+Jen,Niels,Undirected,3
+Jen,Kromand Bek,Undirected,1
+Bek,Kromand Bek,Undirected,1
+Søren,a,Undirected,1
+Bismarck,Jen,Undirected,1
+Jen,Jørgen,Undirected,1
+Jen,sejer,Undirected,1
+Jørgen,aa,Undirected,1
+Jens Hjorth,Jørgen,Undirected,1
+Niels,immer,Undirected,2
+. Sauerbrei,Johanna,Undirected,1
+Gud,Kristian den,Undirected,1
+Kristian,Kristian den,Undirected,1
+Hjorth,Johanna,Undirected,18
+Johanna,Schmettau,Undirected,1
+Johanna,Mein Schatz,Undirected,1
+Bæk,Jørgen Juel,Undirected,1
+Jørgen Juel,Kromand Bek,Undirected,1
+Kromand Bek,"Vilhelmine, den gamle Madam Hjorths",Undirected,1
+Hr. Fris,Jens’,Undirected,1
+Jen,Per,Undirected,1
+Hans,Per,Undirected,1
+Per,Sam,Undirected,1
+Hr. Fris,Jørgen Juel,Undirected,1
+Jesu,Juel,Undirected,1
+Juel,Æ Kaptajn,Undirected,1
+Angelo,Æ Kaptajn,Undirected,1
+Angelo,Kromand Bek,Undirected,1
+Jens Hjorth,Kromand Bek,Undirected,1
+Jens Hjorth,Per,Undirected,1
+Bek,Per,Undirected,1
+A,a,Undirected,1
+Alen Fris,Gud,Undirected,1
+Fris,Jens Hjorth,Undirected,1
+Bek,Jen,Undirected,1
+Fris,Niels,Undirected,3
+Hans,Niels,Undirected,1
+Hjorth,Schmettau,Undirected,1
+Johanna,Kristine,Undirected,2
+Dronning Dagmars,Hjorth,Undirected,1
+Dunhaar,Johanna,Undirected,1
+Johanna,Niels,Undirected,3
+Frederik den syvende,Kristian den,Undirected,1
+Kristian den,Niels,Undirected,1
+Niels,Olaf Rye,Undirected,1
+Kryger,Olaf Rye,Undirected,1
+Niels,Sam,Undirected,3
+Niels,Sømanden,Undirected,1
+Sømanden,hans,Undirected,1
+Niels,hans,Undirected,1
+Hjorth,Sam,Undirected,1
+Kerl,Sam,Undirected,2
+Niels,Schmettau,Undirected,1
+Johanna geht,Lebe wohl,Undirected,1
+Sam,Søs,Undirected,1
+Hjorth,Niels,Undirected,1
+Niels,XCII,Undirected,1
+Johanna,Venus,Undirected,1
+Jessen,Larsen,Undirected,1
+Larsen,Ravn,Undirected,1
+Kristen Pedersen,Petersen,Undirected,1
+Greven,Ravn,Undirected,1
+Hjorth,Johanna Schmettau,Undirected,1
+Frøken Schmettau?-,Hjorth,Undirected,2
+Frøken Schmettau,Hjorth,Undirected,1
+Hr. Hjorth,Johanna,Undirected,1
+Hjorth,aledes,Undirected,1
+Puk,Titania,Undirected,1
+Johanna,Midje,Undirected,1
+Dunhaar,Gud,Undirected,1
+Hr. Hjorth,Kaaring,Undirected,1
+Beck,Petersen,Undirected,1
+Hjorth,Ravn,Undirected,1
+Frederiksen,Krarup,Undirected,1
+Hans Nielsen,Krarup,Undirected,1
+Lindekær,Martensen,Undirected,1
+Eden,Hr. Hjorth,Undirected,2
+Frøken Jessen,Jessen,Undirected,1
+Beck,Hjorth,Undirected,1
+Beck,Jen,Undirected,1
+Beck,dan Provst,Undirected,1
+Beck,Dril,Undirected,1
+Beck,Jessen,Undirected,1
+Beck,Jens Hjorth,Undirected,1
+Beck,Gud,Undirected,1
+Kristine,Møller Kristensen,Undirected,1
+Henrik,Per Andersen,Undirected,1
+Henrik,Henrik Larsen,Undirected,1
+Johanna,Sam,Undirected,5

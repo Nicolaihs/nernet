@@ -1,0 +1,566 @@
+source,target,type,weight
+Andrea,Grev Vittorio,Undirected,1
+Andrea,Ghiberti,Undirected,1
+Donatello,Ghiberti,Undirected,1
+Dantes,Petrarcas,Undirected,1
+Arnos,Dante,Undirected,1
+Arnos,Grev Vittorio,Undirected,1
+Erik Præstehader,Grev Vittorio,Undirected,1
+Carlo Emmanuele,Karl,Undirected,1
+Abbate,Vergil,Undirected,1
+Dante,Vergil,Undirected,2
+Dante,Marcellus’,Undirected,1
+Marcellus’,s,Undirected,1
+Evropa,kjære Abbate Caluso,Undirected,1
+Brunelleschi,Michelangelo,Undirected,1
+Abbate Caluso,Giovanni Boccaccios,Undirected,1
+Asen,Louis XV,Undirected,1
+Louis XV,Voltaire,Undirected,1
+Trajan,Voltaire,Undirected,1
+Ludvig XV,Odi profanum vidgus et arceo,Undirected,1
+Karl Emmanuel,Ludvig XV,Undirected,1
+Karl Emmanuel,Paven,Undirected,1
+Caluso,Plutark,Undirected,1
+Andrea,Giovanni Boccaccios,Undirected,1
+Frederik,Maria Teresia,Undirected,1
+Abbate,Giovanni Boccaccios,Undirected,1
+Jean Jacques Rousseau,Karl,Undirected,1
+Dante,Vittorio,Undirected,1
+Arno,hans Arno,Undirected,1
+Antigone,Sofokles,Undirected,1
+Homers,Petrarca,Undirected,1
+TUofwrov,jigoToimv oudb' lar,Undirected,1
+Abbaten,Ludvig XIVs,Undirected,1
+Karl Edward,Louise,Undirected,1
+Caluso,Guido Renis,Undirected,1
+Carlo Dolces,Guido Renis,Undirected,1
+Abbate,Stuart,Undirected,1
+Abbaten,Alfieri,Undirected,1
+Ariosto,Dante,Undirected,1
+Alfieri,Dante,Undirected,1
+Madame,Tartuffes,Undirected,1
+Abbate,Gemal,Undirected,1
+Alfieri,Andrea,Undirected,2
+Andrea,Eccellenza,Undirected,1
+Andrea,Klodrianers,Undirected,1
+Bravo,bravo,Undirected,1
+Andrea,bravo,Undirected,1
+Gud,Hr. Greve,Undirected,1
+Andrea,Eggen,Undirected,2
+Abbate Caluso,Alfieri,Undirected,5
+Alfieri,Caluso,Undirected,17
+Julius Cæsar,Kastrat Signore Passavanti,Undirected,1
+Alfieri,Stuart,Undirected,6
+Caluso,Louis XIVs,Undirected,1
+Caluso,Grev Alfieris,Undirected,1
+Tommaso Caluso,jert,Undirected,1
+Gud,jert,Undirected,1
+Gud,Petrarca,Undirected,1
+Dante,Petrarca,Undirected,1
+Dante,Francesco Petrarca,Undirected,2
+Dante,Palestrinas,Undirected,1
+Palestrinas,Tommaso,Undirected,1
+Dante,Tommaso,Undirected,1
+Dante,Francesca,Undirected,1
+Francesca,Riminis,Undirected,1
+Cesare in Egitto,Julius Cæsar,Undirected,1
+Arien,Julius Cæsar,Undirected,1
+Alfieri,Arien,Undirected,1
+Gud,Stuart,Undirected,2
+Karl I,Stuart,Undirected,1
+Karl I,s,Undirected,1
+Maria Stuarts,s,Undirected,1
+Caluso,Pak,Undirected,1
+Beatrice,Fystinde,Undirected,1
+Beatrice,Laura,Undirected,1
+Dante,Laura,Undirected,1
+Dante,Gud,Undirected,3
+Dante Alighieri,Lorenzo den Prægtiges,Undirected,1
+Dante Alighieri,Palazzo vecchios,Undirected,1
+Dante,Tommaso Caluso,Undirected,1
+Francesco Petrarca,Tommaso Caluso,Undirected,1
+Andrea,Francesco Petrarca,Undirected,1
+Alfieri,Arno,Undirected,1
+Alfieri,Corso,Undirected,1
+Abbate Caluso,Karl Edward,Undirected,2
+Alfieri,Tornabuoni,Undirected,1
+Gehegan,Stuart,Undirected,2
+Alfieri,Hr. Gehegan,Undirected,3
+Alfieri,Karl Edward,Undirected,7
+Apollons,Guido Reni,Undirected,1
+Greven,Lung’Arno Acciajoli,Undirected,1
+Gehagan,Hr. Greve,Undirected,1
+Gehegan,Signora Orlandini,Undirected,2
+Greven,Signora,Undirected,1
+Gud,Livius,Undirected,1
+Latiums,Livius,Undirected,1
+Caluso,Latiums,Undirected,1
+Alfieri,Clanarald,Undirected,1
+Alfieri,Cameroner,Undirected,1
+Jakob VIII,Markien,Undirected,1
+Jakob III,Jakob VIII,Undirected,1
+Jakob III,Karl Edward,Undirected,1
+Gud,Karl Edward,Undirected,3
+Gud,Karl Edward Stuart,Undirected,1
+George Murray,Karl Istes,Undirected,1
+Gud,Oliver Cromwells,Undirected,1
+Marys,Oliver Cromwells,Undirected,1
+Karl Edward,Marys,Undirected,1
+Gud,Jakobiter foldede deres store Hænder,Undirected,1
+Dante,Gemma Donati,Undirected,2
+Gud,Signora,Undirected,1
+Bandinelli,Signora,Undirected,1
+Abbate Caluso,Voltaire,Undirected,1
+Abbate Tommaso Caluso,Caluso,Undirected,1
+Lorenzo,Macchiavelli f.,Undirected,1
+Alessandro,Lorenzo,Undirected,1
+Alessandro,Medici,Undirected,1
+Abbaten,Macchiavelli,Undirected,1
+Lorenzaccio,Macchiavelli,Undirected,2
+Macchiavelli,lille Lorenzino,Undirected,1
+Latiums,Plutark,Undirected,1
+.Hellas,Latiums,Undirected,1
+.Hellas,Platon,Undirected,1
+Aristoteles,Platon,Undirected,1
+Albany,Alfieri,Undirected,2
+Faun,Ludvig XV,Undirected,1
+Faun,Jupiter,Undirected,1
+Jupiter,Madame du Barrys,Undirected,1
+Signora Orlandini,de Gehegan,Undirected,2
+Abbate Caluso,Gehegan,Undirected,2
+Alfieri,Signora Orlandini,Undirected,2
+Indignatio facit versus,Signora Orlandini,Undirected,1
+Abbate,Caluso,Undirected,1
+Kardinal Bandinellis,Karl Edward,Undirected,1
+Guglielmo,Taalmod,Undirected,1
+Biancas,Raimondo,Undirected,1
+Bandinelli,Karl Edward,Undirected,1
+Abbate Caluso,Greve,Undirected,1
+Alfieri,Bandinelli,Undirected,1
+Eminenza,Greven,Undirected,1
+Lorenzo af Medici,Salviati,Undirected,1
+Raffaello Sansoni,Salviati,Undirected,1
+Eminenzen,Hr. Greve,Undirected,1
+Gud,Jehovahs,Undirected,1
+Eminenza,Karl Edward,Undirected,3
+Karl Edward,Klemens,Undirected,1
+Gian Gastone,Klemens,Undirected,1
+Caluso,Eminenza,Undirected,1
+Augustin,Dante,Undirected,1
+Eminenza,Jg,Undirected,1
+il core In sul mio,quei sospiri,Undirected,1
+giovanil errore,il core In sul mio,Undirected,1
+Caluso,Karl Edward,Undirected,1
+Ludvig XIVs,Marquis’,Undirected,1
+Caluso,Gehegan,Undirected,2
+Gehegan,serventes,Undirected,1
+Caluso,serventes,Undirected,1
+Qui vivra,Versesmed,Undirected,1
+Qui vivra,verra,Undirected,1
+Gehegan,Irishman,Undirected,1
+Caluso,Dante,Undirected,1
+Dante,sorn,Undirected,1
+Alfieri,Beatrice,Undirected,1
+Gehegan,Hr. Gehegan,Undirected,1
+Marie Louise,Pietro Leopoldo,Undirected,1
+Caluso,Souveræn,Undirected,1
+Caluso,Vittorio,Undirected,3
+Alfieri,Vittorio,Undirected,2
+Niccolo Macchiavelli,Tommaso Caluso,Undirected,1
+Abbaten,Vittorio,Undirected,1
+Abbaten,Dantes Ugolino,Undirected,1
+Dantes Ugolino,Michelangelo,Undirected,1
+Michelangelo,Per ardua,Undirected,1
+Per ardua,jert,Undirected,1
+Filippo Brunellescos,jert,Undirected,1
+Filippo Brunellescos,Orsanmi-,Undirected,1
+Caluso,chele,Undirected,1
+Caluso,Orestes,Undirected,1
+Orestes,Pylades,Undirected,2
+Carlo Emmanuels,Pietro Leopoldo,Undirected,1
+Pietro Leopoldo,Vliess,Undirected,1
+Gud,Vliess,Undirected,1
+Gud,Pietro Leopoldo,Undirected,1
+Francesco Stefano,Maria Teresa,Undirected,1
+Francesco Stefano,Tommaso Caluso,Undirected,1
+Rousseau,Voltaire,Undirected,2
+Greve,Lorenzino,Undirected,1
+Alessandro,Lorenzino,Undirected,1
+Alessandro,Rousseau,Undirected,1
+Grev Alfieri,Rousseau,Undirected,1
+Grev Alfieri,Gud,Undirected,1
+Michelangelos David,Palazzo vecchios,Undirected,1
+David,Palazzo vecchios,Undirected,1
+David,Goliath,Undirected,1
+Goliath,Karl Edward,Undirected,1
+Karl Edward,Michelangelo,Undirected,1
+David,Michelangelo,Undirected,1
+David,Karl,Undirected,1
+Gehegan,Karl Edward,Undirected,7
+Gehegan,Gud,Undirected,2
+Frederik II,Gehegan,Undirected,1
+Frederik II,Voltaire,Undirected,1
+Gehegan,Pøblen,Undirected,1
+Achen,Ludvig XV,Undirected,1
+Charlottes,Clementine Walkinshaw,Undirected,1
+Charlottes,Louise Stolberg,Undirected,1
+Charlotte Stuart,Miss Walkinshaw,Undirected,1
+Charlotte Stuart,Gehegan,Undirected,1
+Bellini,Louise,Undirected,1
+Virgina,della Robbias,Undirected,1
+Virginia,Virginias,Undirected,1
+Gud,Madonna,Undirected,2
+Kristus,Madonna,Undirected,1
+Gud,Kristus,Undirected,1
+Gud,Patre Lorenzo,Undirected,2
+Fiesole,Filippo Lippi,Undirected,1
+Henricus de Stuardis,Sigillet,Undirected,1
+Gud,Madame de Marzan,Undirected,2
+Gud,Monsignore Lascaris,Undirected,3
+Angelo Braschi,Pius,Undirected,1
+Gehegan,Pietro Leopoldo,Undirected,1
+Karl Edward,Karl Edward Stuart,Undirected,1
+Fiesole,Peter Leopold,Undirected,1
+Leopold,Peter Leopold,Undirected,1
+Josef,Leopold,Undirected,1
+Josef,Paven,Undirected,1
+Sancta Mater Dei,ora pro,Undirected,1
+Orlandini,Stuart,Undirected,2
+Frederik,Kong George,Undirected,1
+Kong George,Throne,Undirected,1
+Irishman,Pietro Leopoldo,Undirected,1
+Guido,John,Undirected,4
+John,Karl Edward,Undirected,1
+Gehegan John,Guido,Undirected,1
+Gehegan,Guido,Undirected,4
+Eccellenza,Guido Camponi,Undirected,1
+Gud,Guido Camponi,Undirected,1
+Michele,kjære,Undirected,1
+Michele,Ruffino,Undirected,1
+Guido,Michele,Undirected,1
+Gehegan,Greve,Undirected,1
+Alfieri,Gehegan,Undirected,3
+Guido,Karl Edward,Undirected,2
+Guido,Karl,Undirected,2
+Alfieri,Kusk,Undirected,1
+Pave Pius Vis,Stuart,Undirected,1
+Alfieri,Voltaire,Undirected,2
+Madame de Marzan,sorn,Undirected,1
+Henry,Stuart,Undirected,1
+Consalvi,Monsignore Lascaris,Undirected,1
+Eminenze,Simone,Undirected,1
+Gud,Herkules,Undirected,1
+Stuart,hatved,Undirected,1
+confessio oris,consistentia,Undirected,1
+Monsignore,confessio oris,Undirected,1
+Lascaris,Monsignore,Undirected,1
+Monsignore Lascaris,Paven,Undirected,1
+Anselmus,Monsignore,Undirected,1
+Consalvi,Monsignore,Undirected,2
+Stuart,Voltaire,Undirected,1
+Anselmus,Voltaire,Undirected,1
+Gud,Isaac Newton,Undirected,1
+Gud,Jakob Iis,Undirected,1
+Ercole Consalvi,Monsignorens,Undirected,1
+Hercule,Isaac Newton,Undirected,1
+Gud,Newton,Undirected,1
+Gud,Hercule,Undirected,1
+Eminenza,Gud,Undirected,3
+Gud,"ibo a spiritu tao,",Undirected,1
+"ibo a spiritu tao,",tu illic est,Undirected,1
+Gud,tu illic est,Undirected,1
+Gud,Paulos,Undirected,1
+Galilei,Monsignoren,Undirected,1
+Galilei,Gud,Undirected,1
+Gud,Nero Decius,Undirected,1
+Nero Decius,Sangfis,Undirected,1
+Grevinden,Gud,Undirected,1
+Grevinden,Monsignoren,Undirected,1
+Madame de Marzan,Signora Orlandini,Undirected,3
+Grev Alfieri,Madame de Marzan,Undirected,1
+Louis XIV,s,Undirected,1
+Atlaskes,s,Undirected,1
+Abbate Caluso,Atlaskes,Undirected,1
+Eminenza,Paulus,Undirected,1
+Paulus,s,Undirected,1
+Madame de Marzan,Monsignore,Undirected,1
+Monsignore Lascaris,Signora Orlandini,Undirected,1
+Signora Orlandini,s,Undirected,1
+Alfieri,Gud,Undirected,3
+Gehegan,Trusel,Undirected,1
+Gud,Miglia,Undirected,1
+Moses,thora et mensa,Undirected,1
+Alfieri,Greve,Undirected,2
+Aristark,Greve,Undirected,1
+Abbate Caluso,Aristark,Undirected,1
+Gerdel,Tasso,Undirected,1
+Lockes,Voltaire,Undirected,1
+Sara,Voltaire,Undirected,1
+Sara,Stuart,Undirected,1
+Stuart,pritni ordmis,Undirected,1
+pritni ordmis,åxfoiios,Undirected,1
+Parenthesis claudatur,Summa summarum,Undirected,1
+Tommaso Caluso,Vittorio Alfieri,Undirected,1
+Andrea,Caluso,Undirected,1
+Caluso,Tommaso Caluso,Undirected,1
+Eminenza,Stuart,Undirected,2
+Karl Edward,Stuart,Undirected,1
+Karl Edward,de Gehegan,Undirected,1
+Alfieri,Orlandini,Undirected,1
+Eminenza,Orlandini,Undirected,1
+Eminenza,Jacob Illdies,Undirected,2
+Gehegan,Karl Edvards,Undirected,1
+Alfieri,Karl Edvards,Undirected,1
+Alfieri,Eminenza,Undirected,2
+Bronce,Monsignore Consalvi,Undirected,1
+Alfieri,Monsignore Consalvi,Undirected,2
+Gud,Monsignore Consalvi,Undirected,1
+Georges,Jakob Illdies,Undirected,1
+St. Georges,s,Undirected,1
+Alfieri,Consalvi,Undirected,1
+Consalvi,Gud,Undirected,1
+Eminenzen,Gud,Undirected,1
+Pave Pius VI,qvondam Angelo Braschi,Undirected,1
+Andrea,Paolo Romanos,Undirected,1
+Lorenzettis,Paolo Romanos,Undirected,1
+Lorenzettis,Petrus,Undirected,1
+Alfieri,Pave Pius VI,Undirected,1
+Alfieri,Grev Alfieri,Undirected,2
+Alfieri,Kristo,Undirected,1
+Eminenza,Kristo,Undirected,1
+Paulus,Stuart,Undirected,1
+Paulus,cymbalum tinniens,Undirected,1
+Filii hujus seculi nubunt,cymbalum tinniens,Undirected,1
+Filii hujus seculi nubunt,Illi vero,Undirected,1
+Illi vero,qui digni habebuntur seculo illo,Undirected,1
+Grev Alfieri,qui digni habebuntur seculo illo,Undirected,1
+Grev Alfieri,Stuart,Undirected,1
+Consalvi,Stuart,Undirected,1
+Grev Vittorio,Luisas,Undirected,1
+Alfieri,adorata donna,Undirected,1
+Alfieri,Klerus,Undirected,1
+Klerus,Patriziat,Undirected,1
+Alfieri,Patriziat,Undirected,1
+Caluso,Cicero,Undirected,1
+Cicero,Livius,Undirected,1
+Alfieri,Grimaldi,Undirected,1
+Alfieri,Don Quijotes,Undirected,1
+Shakespeare,Voltaire,Undirected,1
+Greve,Horats,Undirected,1
+Grev Alfieri,Santo Demonio,Undirected,1
+Elisabeths,Thomas Corneilles,Undirected,1
+Juno,Thomas Corneilles,Undirected,1
+Braschi,Vincenzo Monti,Undirected,1
+Alfieri,Vincenzo Monti,Undirected,2
+Alfieri,Monti,Undirected,1
+Monti,Virginia,Undirected,1
+Livius,Virginia,Undirected,1
+Livius,Vittorio,Undirected,1
+Grimaldi,Oehlenschlåger etc.,Undirected,1
+Alfieri,Zaparolas,Undirected,2
+Paven,Rospigliosi,Undirected,1
+Alfieri,Apollon,Undirected,1
+Eteokles,Polyneikes,Undirected,1
+Laodamas,Polyneikes,Undirected,1
+Kreon,Laodamas,Undirected,1
+Kreon,Theben,Undirected,1
+Polyneikes,Theben,Undirected,1
+Antigone,Polyneikes,Undirected,1
+Antigone,Argia,Undirected,4
+Adrast,Argia,Undirected,1
+Adrast,Polyneikes,Undirected,1
+Argia,Polyneikes,Undirected,1
+Antigone,Kreon,Undirected,5
+Haimon,Kreon,Undirected,1
+Antigone,Haimon,Undirected,1
+Creonte,Rospigliosi,Undirected,1
+Creonte,Kreon,Undirected,1
+Alfieri,Kiton,Undirected,1
+Kiton,Klamys,Undirected,1
+Antigone,Zaparolas,Undirected,1
+Marchese,Rospigliosi,Undirected,1
+Marchese,Monsignore,Undirected,1
+Borgia,Monsignore,Undirected,1
+Borgia,Kardinal Stuarts,Undirected,1
+Alfieri,Kardinal Stuarts,Undirected,1
+Gemal,Stuart,Undirected,1
+Consalvi,Signora Orlandini,Undirected,1
+Signora Orlandini,Stuart,Undirected,1
+Marchese Barberini,Signora,Undirected,1
+Kreon,Loredans,Undirected,1
+Fer Campidoglio,Loredans,Undirected,1
+Fer Campidoglio,Italias,Undirected,1
+Hesperien,Italias,Undirected,1
+Venisti,vidisti,Undirected,1
+Monsignore Consalvi,Stuart,Undirected,1
+Consalvi,Karl,Undirected,1
+Karl,Louise Caroline Maximilienne Emmanuel,Undirected,1
+Eminenza,Signora Orlandini,Undirected,2
+Consalvi,Karl Edward,Undirected,1
+Henry,Karl Edward,Undirected,1
+Alfieri,Saul,Undirected,2
+Consilium abeundi,Saul,Undirected,1
+Antigenes,Grev Alfieri,Undirected,1
+Antigenes,Arne,Undirected,1
+Antonio,hans sonore Røst,Undirected,1
+Alfieri,Rospigliosi,Undirected,2
+Monsignore Consalvi,Signora Orlandini,Undirected,1
+Greve,Hr. Greve,Undirected,1
+Alfieri,Giacomo Russo,Undirected,1
+Apollon,Braschi,Undirected,1
+Apollon,Hellas,Undirected,1
+Hellas,Pulcinellas,Undirected,1
+Alfieri,Pulcinellas,Undirected,1
+Benedikt XIV,Voltaire,Undirected,1
+Kai'fas,Pilatus,Undirected,1
+Atrevs,Pilatus,Undirected,1
+Atrevs,Thyestes,Undirected,1
+Eminenza,Monsignore Lascaris,Undirected,1
+Apollon,Gemma Donati,Undirected,1
+Angelo Braschi,Apollon,Undirected,1
+Angelo Braschi,Monsignore Consalvi,Undirected,1
+Dante,Pythia,Undirected,1
+Angelo Braschi,Laura de,Undirected,1
+Aloysia,Laura de,Undirected,1
+Aloysia,Stolbergs,Undirected,1
+Ariosto,Stolbergs,Undirected,1
+Ariosto,thi,Undirected,1
+Jupiter,thi,Undirected,1
+Jupiter,hathan,Undirected,1
+Dante,Kristus,Undirected,1
+Dante,Tasso,Undirected,1
+Sallust,Tommaso Caluso,Undirected,1
+Caluso,Sallust,Undirected,1
+Apollon,Vittorio,Undirected,1
+Caluso,Xenofon,Undirected,1
+Homer,Xenofon,Undirected,1
+Caluso,Louise,Undirected,1
+Louise,Monsignore Lascaris,Undirected,1
+Gud,Gustav III,Undirected,1
+Bjørn,Gud,Undirected,1
+Hannibal,Turin,Undirected,1
+Drots Vittorio Amadeos,Turin,Undirected,1
+Drots Vittorio Amadeos,Drotten,Undirected,1
+Drotten,Paven,Undirected,1
+Angelo Braschi,Paven,Undirected,1
+Abbata Caluso,P.,Undirected,1
+Abbata Caluso,Melchiorre Cesarotti,Undirected,1
+Melchiorre Cesarotti,Ossiano,Undirected,1
+Ossiano,Shakespeare,Undirected,1
+Hellas,Shakespeare,Undirected,1
+Caluso,Hellas,Undirected,1
+Caluso,Melchiorre Cesarotti,Undirected,1
+Alfieri,Marie Antoinette,Undirected,1
+Platon,Xenofon,Undirected,1
+Lukian,Platon,Undirected,1
+Alfieri,Signora,Undirected,1
+Prometheus,Signora,Undirected,1
+Luisa,Prometheus,Undirected,1
+Alfieri,Luisa,Undirected,1
+Germaine Necker,Jean-Jacques Rousseaus,Undirected,1
+Germaine Necker,Holstein,Undirected,1
+JeanJacques,Signora,Undirected,1
+Alfieri,Necker,Undirected,1
+Alfieri,Rousseau,Undirected,3
+Julie,Rousseau,Undirected,1
+Julie,Wolmar,Undirected,2
+Rousseau,Wolmar,Undirected,1
+Alfieri,Julie,Undirected,1
+Alfieri,Figaros,Undirected,1
+Alfieri,Beaumarchais,Undirected,7
+Beaumarchais,Figaro,Undirected,3
+Ratn,Voltaire,Undirected,2
+Voltaire,|j,Undirected,1
+Alfieri,|j,Undirected,1
+Germaine,Madame Necker,Undirected,2
+Beatrice,Dante,Undirected,1
+Beatrice,Vittorio Alfieri,Undirected,1
+Archias,Beaumarchais,Undirected,1
+Flan,Karl Edward Stuart,Undirected,1
+Henrik IX,Throne,Undirected,1
+Gud,Henrik IX,Undirected,1
+Gud,rex Mugnæ Britanniæ,Undirected,1
+"Cardinalis,",rex Mugnæ Britanniæ,Undirected,1
+"Cardinalis,",Episcopus,Undirected,1
+Episcopus,Frascutorum og,Undirected,1
+Frascutorum og,desideriis,Undirected,1
+desideriis,hominum.,Undirected,1
+hominum.,sed voluntate,Undirected,1
+Gehegan,Miss Walkinshaw,Undirected,1
+Karl Edward,Miss Walkinshaw,Undirected,1
+Jean-Jacques,Rousseau,Undirected,1
+Jean Jacques,Jean-Jacques,Undirected,1
+Rousseau,Throne,Undirected,1
+Karl Edward,Rousseau,Undirected,1
+Rousseau,Vittorio,Undirected,1
+Lascaris,Vittorio,Undirected,1
+Consalvi,Lascaris,Undirected,1
+Consalvi,Rousseau,Undirected,1
+Signora,Vittorio,Undirected,1
+Mirra,Vittorio Alfieri,Undirected,1
+Alfieri,Didot,Undirected,2
+Figaro,Suzanne,Undirected,1
+Alfieri,Ludvig XVI,Undirected,1
+Ludvig XVI,Marat,Undirected,1
+Ludvig XVI,Vive le roi,Undirected,1
+Jean-Jacques-ske,Vive le roi,Undirected,1
+Jean-Jacques-ske,Robespierre,Undirected,1
+Beaumarchais,Grev Alfieri,Undirected,1
+",",Louis Capets,Undirected,1
+",",Macaroni,Undirected,1
+Catilina,Svend,Undirected,1
+Guillotins,Jean-Jacques’,Undirected,1
+Alfieri,sorn,Undirected,1
+Ludvig XV,Ludvig XVI,Undirected,1
+Marat,Robespierre,Undirected,1
+Homer,Platon,Undirected,1
+Caluso,Sofokles,Undirected,1
+Caluso,Pindar,Undirected,1
+Pindar,Tasso,Undirected,1
+Alfieri,kjkqave,Undirected,1
+Alfieri,Homer,Undirected,1
+Caluso,Tommaso,Undirected,1
+Faraos,Tommaso,Undirected,1
+Fabre,Vittorio,Undirected,1
+Alfieri,Fabre,Undirected,5
+David,Fabre,Undirected,1
+Hr. Fabre,Vittorio,Undirected,1
+Evropa,Hr. Fabre,Undirected,1
+,Alfieri,Undirected,1
+Alfieri,David,Undirected,2
+Bonapartes,Fabre,Undirected,1
+Beaumarchais,Brighella,Undirected,1
+Beaumarchais,Marquis,Undirected,1
+Karl,liar,Undirected,1
+Saul,Voltaire,Undirected,1
+Amletto,Voltaire,Undirected,1
+Abbate,Amletto,Undirected,1
+Aristofanes,Figaro-Beaumarchais,Undirected,1
+Aristofanes,Caluso,Undirected,1
+Alfieri,Maestro Ludovico Ariosto,Undirected,1
+Mandola,Rosina,Undirected,1
+Quando vidi la Rosina,il cuor nei seno,Undirected,1
+della Rosina Non giammai,il cuor nei seno,Undirected,1
+Marietta,Teresina,Undirected,1
+Carolina,Teresina,Undirected,1
+Carolina,Rosina,Undirected,1
+Bravo,Caluso,Undirected,1
+Rosina,Tommaso Caluso,Undirected,2
+Alfieri,Rosina,Undirected,1
+Gud,Rosina,Undirected,1
+Fuggiamo nei,deserto Fuggiamo,Undirected,1
+Fuggiamo,poi vittima,Undirected,1
+Il canto degli uccelli Sia l,inno nuziale,Undirected,1
+Di rose io ti porrd,Un cerchio su capelli,Undirected,1
+Di rose io ti porrd,Regina del deserto,Undirected,1
+Regina del deserto,j,Undirected,1
+j,Ørknens,Undirected,1
+Alfieri,Tommaso Caluso,Undirected,1
+Alfieri,Petrarca,Undirected,1
+Laura,Petrarca,Undirected,1
+Jehovah,Laura,Undirected,1
+Cesare Borgia,Jehovah,Undirected,1
+Cesare Borgia,Niccold Macchiavelli,Undirected,1
+Ansse de Villoison,Florens,Undirected,1
+Sofokles,Æskylos,Undirected,1
+Catilina,Sofokles,Undirected,1

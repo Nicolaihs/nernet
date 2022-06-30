@@ -1,0 +1,63 @@
+source,target,type,weight
+Lone,lille Lone,Undirected,1
+Kaske,Lone,Undirected,1
+Boel,Lone,Undirected,6
+Farfars,Fars,Undirected,1
+Hans,Maren,Undirected,2
+JlT,Momme,Undirected,1
+Boel,Halte-Stine,Undirected,1
+Gud,Lone,Undirected,1
+Lone,Momme,Undirected,2
+Blomberg,Meyer,Undirected,1
+Meyer,Mollerup,Undirected,1
+Frk. Drehling,Frk. Jentzsen,Undirected,2
+Drehling,Frk. Drehling,Undirected,1
+Drehling,Jentzsen,Undirected,1
+Balderups,Jentzsen,Undirected,1
+Frk. Drehling,Knud —,Undirected,1
+Frk. Blomberg,Madsen,Undirected,1
+Boel,Knud —,Undirected,1
+Knud,Madsen,Undirected,3
+Karlsen,Ydberg,Undirected,1
+Frk. Drehling,Knud,Undirected,1
+Knud,Rosalie,Undirected,3
+Knud,lille Tante —,Undirected,1
+Knud,lille Tante,Undirected,1
+Boel,paany,Undirected,1
+Frk. Drehling,Lille Knud,Undirected,1
+Blomberg,Frk. Jentzsen,Undirected,1
+Boel,Frk. Jentzsen,Undirected,2
+Gud,Kay,Undirected,1
+Boel,Solberg,Undirected,1
+Boel,Knud,Undirected,7
+Madam Jacobsen,Oline,Undirected,2
+Jochumsen,Madam Jacobsen,Undirected,1
+Madam Jacobsen,Madammens,Undirected,2
+Semberlin,Skipper Jochumsens,Undirected,1
+Jochumsen,Ole Nielsens,Undirected,1
+Kasper,Kasper Kapper,Undirected,2
+Alen,Kasper Kapper,Undirected,1
+Alands,Kasper Kapper,Undirected,1
+Jochumsen,Kong Kristian,Undirected,1
+Ole Nielsen,Semberlin,Undirected,4
+Boel,adam Jacobsen,Undirected,1
+Madam Jacobsen,Madammen,Undirected,1
+Amanda,Hansen,Undirected,1
+Boel,Frk. Rosalie,Undirected,1
+Frk. Rosalie,paany,Undirected,1
+Drehling,JÆL,Undirected,1
+Drehling,Jensen-Damgaard,Undirected,1
+Bang,Madsen,Undirected,1
+Alan,Jensen-Damgaard,Undirected,1
+Frk. Rosalie,Rosalie,Undirected,1
+Madsen,kjære Madsen,Undirected,1
+Anna,Gehejmeetatsraad Drehlings,Undirected,1
+Knud,lille Knud,Undirected,1
+Frk. Jacobys,Frk. Zahles,Undirected,1
+Frk. Rosalie,Knud,Undirected,2
+Jensen,Povelsen,Undirected,1
+Balder,Povelsen,Undirected,1
+Halte-Stine,Lone,Undirected,2
+Lone,Stine,Undirected,2
+Boel,lille Karen,Undirected,1
+Lone,lille Karen,Undirected,1

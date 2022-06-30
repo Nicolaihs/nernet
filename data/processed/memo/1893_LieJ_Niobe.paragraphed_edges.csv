@@ -1,0 +1,190 @@
+source,target,type,weight
+Bente,jagu,Undirected,1
+Bente,Minka,Undirected,5
+Gud,Minka,Undirected,1
+Bente,Gud,Undirected,5
+Johansen,Joho,Undirected,1
+Joho,joho,Undirected,1
+Johansen,joho,Undirected,1
+Bertheas,Minka,Undirected,1
+Arnt,Bertheas,Undirected,1
+Arnt,Massi,Undirected,12
+Minka,Schulteiss,Undirected,28
+Berthea,Minka,Undirected,14
+Berthea,Døttre,Undirected,1
+Svend,Svend Tveskjæg,Undirected,1
+Olaf Trygvasons,Thyra,Undirected,1
+Minka,Sigrid Storraade,Undirected,1
+Hr. Schulteiss,Minka,Undirected,2
+Berthea,Schulteiss,Undirected,1
+Arnt,Gyda,Undirected,1
+Freyas,Gyda,Undirected,1
+Anstand,Berthea,Undirected,1
+Arnt,Hr. Schulteiss,Undirected,1
+Massi,Minka,Undirected,2
+Frøken Feiring,Schulteiss,Undirected,1
+Kjel,Schulteiss,Undirected,3
+Fatter,Kjel,Undirected,1
+Minka,Taa,Undirected,1
+Minka,Napoleon,Undirected,3
+Frøken Feiring,Minka,Undirected,3
+Flun,Minka,Undirected,1
+Arnt,Endre,Undirected,2
+Frøken Minka,Schulteiss,Undirected,2
+Fars,Schulteiss,Undirected,1
+Frøken Lund,Schulteiss,Undirected,1
+Frøken Lund,Isaafald,Undirected,1
+Isaafald,Thekla Feiring,Undirected,1
+Schulteiss,Thekla Feiring,Undirected,1
+Lutzmann,Schulteiss,Undirected,1
+Begsøms,Preus,Undirected,1
+Minka,Preus,Undirected,1
+Minka,Thekla Feiring,Undirected,1
+Berthea,Krefting,Undirected,1
+Krefting,Minka,Undirected,1
+Minka,traakle,Undirected,1
+Bente,Kjel,Undirected,8
+Luise Lund,Thekla,Undirected,1
+Luise,Thekla,Undirected,1
+Anna Rists,Luise,Undirected,1
+Minka,Thekla,Undirected,5
+Minka,Varberg,Undirected,19
+Kjel,Massi,Undirected,2
+Arnt,Baarvig,Undirected,1
+Arnt,Minka,Undirected,2
+Minka,Plun,Undirected,1
+Schulteiss,Varberg,Undirected,3
+Varberg,isommer,Undirected,1
+Frøken Minka,Minka,Undirected,2
+Kjel,Thekla Feiring,Undirected,1
+Bente,Endre,Undirected,1
+Gud,véd,Undirected,2
+Thekla,jamæn,Undirected,1
+Bente,Kjæresten,Undirected,1
+Bente,Prens,Undirected,1
+Kjel,Thekla,Undirected,11
+Baarvig,Minka,Undirected,1
+Bente,Vets,Undirected,1
+Thekla,ban,Undirected,1
+Berthea,heklas,Undirected,1
+Thekla,nonchalant,Undirected,1
+Kjel,Mutter,Undirected,1
+Flan,Minka,Undirected,1
+Berthea,Massi,Undirected,4
+Minka,Minka aligevel,Undirected,1
+Minka,Schulteisses,Undirected,1
+Hr. Varberg,wzzZZcr,Undirected,2
+Hr. Varberg,Varberg,Undirected,2
+Appolonius,Tyane,Undirected,1
+Aleksander Aboniticus,Tyane,Undirected,1
+Aleksander Aboniticus,Kristi,Undirected,1
+Simon Magus,St. Peter,Undirected,1
+Neros,Simon Magus,Undirected,1
+Neros,Sanct Peter,Undirected,1
+Jesus,Sanct Peter,Undirected,1
+Frue,Schulteiss,Undirected,1
+Bente,Joho,Undirected,1
+,Endre,Undirected,1
+Endre,Nota,Undirected,1
+Flan,Thekla,Undirected,1
+Massi,Thekla,Undirected,1
+Thekla,joviale,Undirected,1
+Endre,Minka,Undirected,4
+Endre,Hamlet,Undirected,1
+Endre,Thekla,Undirected,1
+Noch,Thekla,Undirected,2
+Thekla,Wahl,Undirected,1
+Thekla,skydse,Undirected,1
+Baarvig,Finsland,Undirected,1
+Berthea,Endre,Undirected,4
+Berthea,Finsland,Undirected,1
+Endre,Finsland,Undirected,1
+Joho,Minka,Undirected,1
+Finsland,Minka,Undirected,9
+Varberg,keg,Undirected,1
+Cæsar,Finsland,Undirected,1
+Cæsar,Goethe,Undirected,1
+Byron,Goethe,Undirected,1
+Napoleon,Schulteiss,Undirected,1
+Hannibal,Napoleon,Undirected,1
+Frederik den store,Hannibal,Undirected,1
+Dante,Frederik den store,Undirected,1
+Hr. Varberg,Schulteiss,Undirected,2
+Hr. Varberg,Muhamed,Undirected,1
+Muhamed,Paulus,Undirected,1
+Schulteiss,ehe,Undirected,1
+Minka,Tor,Undirected,1
+Kjel,Tor,Undirected,1
+Berthea,Stakkars,Undirected,1
+Endre,hans,Undirected,1
+Endre,Varberg,Undirected,1
+Baard Kjelsen,Gutten,Undirected,1
+Baard,Gutten,Undirected,1
+Baard,Baard Kjelsen,Undirected,1
+Baarvig,Kjel,Undirected,2
+Bente,Stenvig,Undirected,1
+Stenvig,Thekla,Undirected,5
+Baarvig,Bente,Undirected,1
+Baarvig,Toddy,Undirected,1
+Bente,Thekla,Undirected,1
+Baard Baarvigs,Bente,Undirected,1
+Baard Baarvigs,Kjel,Undirected,1
+Finsland,Thekla,Undirected,1
+Finsland,Varberg,Undirected,1
+Finsland,Thekla angelegent,Undirected,1
+Frøken Minka,Thekla,Undirected,1
+Berg,Thekla,Undirected,1
+Flan,Merimack,Undirected,1
+Merimack,Schiller,Undirected,1
+Goethe,Schiller,Undirected,1
+Thekla,marsch,Undirected,1
+Minka,hututu,Undirected,1
+Schulteiss,skakke,Undirected,1
+Kjel,Minka,Undirected,1
+Endre,Schulteiss,Undirected,1
+Finsland,Schulteiss,Undirected,2
+Frøken Minka,Gud,Undirected,2
+Liv,Schulteiss,Undirected,1
+Schulteiss,Thekla,Undirected,1
+Finsland,Frøken Minka,Undirected,1
+Jon Vaaler,Lars Færgemand,Undirected,1
+Adiø,adiø,Undirected,1
+Karjolen,Kjel,Undirected,1
+Baarvig,Stenvig,Undirected,2
+Arne Bergersen,Kjel,Undirected,2
+Berthea,Schiølberg,Undirected,1
+Anna Lund,Endre,Undirected,1
+Endre,Kong Lear,Undirected,1
+Hamlet,Kong Lear,Undirected,1
+Hamlet,Minka,Undirected,1
+Anna,Finsland,Undirected,1
+Berthea,Frøken Berthea,Undirected,1
+John Vaalers,Thekla,Undirected,1
+Cæsar,Luthers,Undirected,1
+Luthers,Napoleon,Undirected,1
+Gud,Morten Luthere,Undirected,1
+Arnt,Schulteiss,Undirected,3
+Ananias Schulteiss,Minka,Undirected,1
+Gud,Schulteiss,Undirected,1
+Gud,Thekla,Undirected,1
+Kjel,age,Undirected,1
+Berthea,Schølberg,Undirected,4
+Schulteiss,Schølberg,Undirected,1
+Finsland,Ymtes,Undirected,1
+lian,volens,Undirected,1
+Baarvig,Elvsæt,Undirected,1
+Bente,véd,Undirected,1
+Jakobsen,Schølberg,Undirected,1
+Stakkars,stakkars,Undirected,1
+Kjel,Lille Baard,Undirected,1
+Kjel,ivaar,Undirected,1
+Flan,ehe,Undirected,1
+Baarvig,Schulteiss,Undirected,2
+Arnt,Kjære Schulteiss,Undirected,1
+Stakkars,stakkars Schulteiss,Undirected,1
+Bente,LilleBaard,Undirected,1
+Baard,Bente,Undirected,1
+Endre,Kjel,Undirected,1
+Fru Baarvigs,Kjel,Undirected,1
+Arnt,Kjel,Undirected,1
+Baarvig,Massi,Undirected,1

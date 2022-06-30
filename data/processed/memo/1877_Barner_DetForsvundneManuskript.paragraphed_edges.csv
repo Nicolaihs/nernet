@@ -1,0 +1,184 @@
+source,target,type,weight
+Otilie Hilton,Peter Holsted,Undirected,1
+Otilie Hilton,harr,Undirected,1
+Isabella,Roland,Undirected,1
+Alexis,Alexis Hiltons,Undirected,1
+Arngrim,Kammerraad Erløvs,Undirected,1
+Arngrim,Erløvs,Undirected,2
+Agate,Arngrim,Undirected,13
+Agate,Agate Erløv,Undirected,2
+Agate Erløv,Erløv,Undirected,1
+Arngrim,Erløv,Undirected,14
+Arngrim,Frøken Knop,Undirected,2
+Arngrim,Papa,Undirected,1
+Agate,Erløv,Undirected,17
+Erløv,Frøken Knop,Undirected,1
+Agate,bun,Undirected,1
+Erløv,Otilies,Undirected,1
+Agate,Alexis,Undirected,34
+Aristoteles,Salomon,Undirected,1
+Bien,Demoiselles,Undirected,2
+Agate,Malpighi,Undirected,1
+Bien,Guds,Undirected,1
+Agate,Hain,Undirected,2
+Agate,sum,Undirected,1
+Agate,Peter,Undirected,3
+Agate,Bien,Undirected,1
+Agate,Holsteds,Undirected,3
+Erløv,Peter,Undirected,2
+Alexis,Arngrim,Undirected,5
+Alexis,Peter Skrupler,Undirected,1
+Alexis,Erløv,Undirected,2
+Erløv,Villie,Undirected,1
+Arngrim,Tøi,Undirected,1
+Hnn,høi Røsf,Undirected,1
+Otilie,Plinius,Undirected,1
+Arngrim,harvillet,Undirected,1
+Agate,Holsfed,Undirected,8
+Arngrim,Holsfed,Undirected,1
+AgaLes,Agate,Undirected,2
+Agate,Gud,Undirected,2
+,Alexis,Undirected,14
+Agate,srem,Undirected,1
+Alexis,Peter,Undirected,6
+Agate,Aled,Undirected,2
+Agate,Neveuen,Undirected,1
+Alexis,Neveuen,Undirected,1
+Agate,Alexis Hiltons,Undirected,1
+Alexis,grant,Undirected,1
+Gud,Swamerdam,Undirected,1
+Agate,strax,Undirected,2
+Agate,Lykkealf,Undirected,1
+Alexis,Lykkealf,Undirected,1
+Gud,Holsfed,Undirected,2
+Seierens,Viktor,Undirected,1
+Agate,Holsted,Undirected,6
+Agate,Vilsfrup,Undirected,1
+Alexis,Holsfed,Undirected,6
+,Agate,Undirected,1
+Agate,Viktor,Undirected,3
+Agate,Graad,Undirected,1
+Alexis,Graad,Undirected,1
+Holsfed,Vikfor,Undirected,1
+Holsfed,Viktor,Undirected,2
+Lille Viktor,Torbisten,Undirected,1
+Agate,Torbisten,Undirected,1
+Alexis,Torbisten,Undirected,1
+,Torbisten,Undirected,1
+Alexis,Ungersen,Undirected,17
+Hilton,Ungersen,Undirected,3
+Gud,Ibrahim,Undirected,2
+,Josefine Ungersen,Undirected,1
+Josefine Ungersen,Klara,Undirected,1
+Keiser Hoang-ti,Si-ling-ki,Undirected,1
+Josefine,Klara,Undirected,4
+Alexis,Klara,Undirected,4
+Alexis,fig,Undirected,1
+Josefine,Ungersen,Undirected,8
+Alexis,Josefine,Undirected,52
+Iosefine,Josefine,Undirected,1
+Alexis,Iosefine,Undirected,1
+Alexis,Lamarcks,Undirected,1
+Agate,Ungersen,Undirected,2
+Alexis Hilton,Ungersen,Undirected,2
+Alexis Hilton,Josefine,Undirected,4
+Josefine,denl,Undirected,1
+Josefine,iveien,Undirected,1
+Susanne,iveien,Undirected,1
+Josefine,Lille Klara,Undirected,2
+Vilhelm Tells,ro^ina inontiurn,Undirected,1
+Alexis,fom,Undirected,1
+Josefine,fom,Undirected,1
+Alexis,Lille Klara,Undirected,1
+Alexis,Susanne,Undirected,4
+Susanne,Ungersen,Undirected,1
+Alexis,lille Klara,Undirected,1
+Josefine,lille Susanne,Undirected,2
+Alexis,Ibrahim,Undirected,2
+Alexis,Swammerdam,Undirected,1
+Alexis,Hagaus,Undirected,1
+Hagaus,Josefine,Undirected,1
+Hagau,Josefine,Undirected,17
+Alexis,Hagau,Undirected,43
+Hagau,Ungersen,Undirected,5
+Hilton,Josefine,Undirected,4
+Hagau,Minerva,Undirected,1
+Hagau,Hilton,Undirected,4
+Hagau,Klara,Undirected,1
+Etatsraad Holsfed,Hilton,Undirected,1
+Etatsraad Holsfed,Holsfed,Undirected,1
+Josefine,Susanne,Undirected,3
+Hilton,Susanne,Undirected,2
+Alexis Hilton,Susanne,Undirected,1
+Alexis Hilton,Kasper,Undirected,1
+Kasper,Susanne,Undirected,3
+Kasper,freidig,Undirected,1
+Hilton,freidig,Undirected,1
+Alexis,Kasper,Undirected,3
+Agate,Josefine,Undirected,2
+Ungersen,lille Klara,Undirected,2
+Don Riperta,Donna Mercedes,Undirected,1
+Lille Francisko,Riperta,Undirected,1
+Francisko,Riperta,Undirected,1
+Gud,Riperta,Undirected,2
+Don Riperta,Francisko,Undirected,1
+Dandse,Don Riperta,Undirected,1
+Dandse,Riperta,Undirected,1
+Riperta,Schærf,Undirected,2
+Alexis,Riperta,Undirected,1
+Riperta,lille Klara,Undirected,1
+Ungersen,Wedell,Undirected,1
+Hagau,Hr. Ungersen,Undirected,1
+Alexis,Gud,Undirected,1
+Hilton,Ibrahim,Undirected,2
+Alexis,Torbist,Undirected,1
+Torbist,Torbisternes,Undirected,1
+Ibrahim,Torbisternes,Undirected,1
+Ibrahim,Josefine,Undirected,2
+Alexis,wen,Undirected,1
+Alexis Hilton,wen,Undirected,1
+Alexis,Jetter,Undirected,1
+Agate,Ferdinand Ungersens,Undirected,2
+Agate,Alexis Hilton,Undirected,1
+Alexis,Ferdinand Ungersens,Undirected,1
+Ferdinand Ungersen,Ungersen,Undirected,1
+Josefine Ungersen,Viktor,Undirected,2
+Josefine,sif,Undirected,1
+Ungersen,sif,Undirected,1
+Alexis,Løitnant Hilton,Undirected,2
+,Hagau,Undirected,1
+Alexis,Holsted,Undirected,4
+Hagau,Peter,Undirected,2
+Hagau,Holsted,Undirected,2
+Hagau,eonZs,Undirected,1
+Agate,Hagau,Undirected,3
+Ferdinand Ungersen,Hagau,Undirected,5
+Alexis,Ferdinand Ungersen,Undirected,1
+Alexis,fil,Undirected,1
+Alexis Hilton,Holsfed,Undirected,2
+Hagau,Holsfed,Undirected,1
+Ferdinand,Hagau,Undirected,1
+Ferdinand,Ungersen,Undirected,1
+Alexis,Støi,Undirected,1
+Alexis,lille Viktor,Undirected,1
+Holsted,Ungersen,Undirected,2
+Hilton,Holsfed,Undirected,1
+Alexis,Hilton,Undirected,1
+Arngrim,Holsted,Undirected,1
+Arngrim,lille Viktor,Undirected,4
+Agate,lille Viktor,Undirected,1
+Hagan,Klara,Undirected,1
+Hagan,xllilosoxbiW,Undirected,1
+Ferdinand Ungersen,xllilosoxbiW,Undirected,1
+Ferdinand Ungersen,Gud,Undirected,1
+Gud,Ioseftnes,Undirected,1
+Hilton,Ioseftnes,Undirected,1
+Alexis,Dokfor Hagau,Undirected,1
+Dokfor Hagau,Ungersen,Undirected,1
+Josefine,lille Klara,Undirected,1
+Gud,Josefine,Undirected,1
+Hagau,lille Klara,Undirected,1
+Hilton,Kasper,Undirected,1
+Josefine,Peter,Undirected,1
+Agate,Josefine Ungersen,Undirected,1
+Alexis Hilton,Arngrim,Undirected,1

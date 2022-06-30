@@ -1,0 +1,773 @@
+source,target,type,weight
+Gud,Kaja Helms,Undirected,1
+Kaja Helm,fnart,Undirected,1
+Birgitte,Kaja Helm,Undirected,3
+Lord Edwill,mio,Undirected,1
+Edwills,mio,Undirected,1
+Birgitte,Edwills,Undirected,1
+Birgitte,ester,Undirected,1
+Birgitte,J-g,Undirected,1
+Gud,Kaja Helm,Undirected,2
+Birgitte Maar,Lionel Edwill,Undirected,2
+Kaja,j,Undirected,1
+g,j,Undirected,1
+Birgitte,Graciella,Undirected,1
+Birgitte,Kaja,Undirected,1
+Alfhild,Lille Alfhild,Undirected,1
+Alfhild,Kaja,Undirected,58
+AlfhildZ,Beiret,Undirected,1
+Alfhild,Stine,Undirected,2
+Kaja,Stine,Undirected,2
+Kaja,Zogen,Undirected,1
+Stine,Zogen,Undirected,1
+Beir,Kaja,Undirected,1
+Alfhild,Tante Kajas,Undirected,2
+Diets,Kaja,Undirected,1
+Alfhild,Tanta Kaja,Undirected,1
+Alfhild,Graad,Undirected,2
+Graad,Kaja,Undirected,1
+Kaja,mmtte,Undirected,1
+Alfhild,mmtte,Undirected,1
+Carlsen,Diet,Undirected,1
+Carlsen,idt ester,Undirected,1
+Frits,Jungmand,Undirected,1
+Popvedrengcn,deu,Undirected,1
+Itu,sia,Undirected,1
+Mathilde,jeo,Undirected,1
+Carlsen,Dn,Undirected,2
+Mathilde,Tina,Undirected,1
+Carlsen,Frits,Undirected,7
+Sivertsen,ban,Undirected,3
+Frits,Sivertsen,Undirected,41
+Frits,sor,Undirected,1
+Frits,von Harden,Undirected,1
+Aure,von Harden,Undirected,1
+Aure,Neveus,Undirected,1
+Friis Carlsen,Neveus,Undirected,1
+Friis Carlsen,Frits,Undirected,1
+Effer,Frits,Undirected,1
+Carlsen,Effer,Undirected,1
+Carlsen,høitstaaende,Undirected,1
+Dandys,Frits,Undirected,1
+Carlsen,Dandys,Undirected,1
+Frits,Kaptain Sivertsen,Undirected,4
+Frits,Von Harden,Undirected,1
+Frits,Frits soer Gade,Undirected,2
+Frits,Kaja,Undirected,11
+Frits,ester,Undirected,1
+,FritS,Undirected,2
+,Alfhild,Undirected,6
+,Frits,Undirected,54
+Carlsen,Frils,Undirected,1
+Frils,maallø,Undirected,1
+Frils,Kaja,Undirected,1
+Alfhild,Frits,Undirected,41
+Frits,moen,Undirected,2
+Alfhild,Jmidleitid,Undirected,1
+Frits,ban,Undirected,5
+Kaja,ban,Undirected,1
+Alfhild,Pioe,Undirected,1
+Kaja,hunikke,Undirected,1
+Gud,Kaja,Undirected,2
+Alfhild,hnn,Undirected,2
+Christus,sfal,Undirected,1
+Alfhild,sfal,Undirected,1
+Mathilde,v. Horden,Undirected,1
+Frits,v. Horden,Undirected,1
+Harden,Major v.,Undirected,3
+Harden,Neveuen,Undirected,1
+Frits,Neveuen,Undirected,1
+Alfhild,Friis,Undirected,2
+Friis,Frits,Undirected,2
+Alfh,Kaja,Undirected,1
+Alfh,Frits,Undirected,1
+Kaja,bende,Undirected,1
+Alfhild,bende,Undirected,1
+Frøken Helms,Kaja,Undirected,2
+Frits,Madame Hennings,Undirected,1
+Kaja,Madame Hennings,Undirected,1
+Kaja,Madam Hennings,Undirected,5
+Alfhild,Madame Hennings,Undirected,1
+Diet,Hennings,Undirected,1
+Hennings,Kaja,Undirected,2
+Alfhild,Madam Hennings,Undirected,21
+Henuings,Kaja,Undirected,1
+,Henuings,Undirected,1
+,Madam Hennings,Undirected,4
+Alfhild,Gud,Undirected,12
+Gud,Taalmod,Undirected,1
+Madam Hennings,Taalmod,Undirected,1
+Alfhild,Hennings,Undirected,22
+Frits,Madam Hennings,Undirected,1
+Alfhild,Bei,Undirected,3
+Hennings,slige,Undirected,1
+Alfhild,ban,Undirected,1
+Frits,Harden,Undirected,1
+Diet,Frits,Undirected,1
+Alfhild,Diet,Undirected,1
+Frits,v. Harden,Undirected,4
+,Gyldengvist,Undirected,1
+Frits,Gyldengvist,Undirected,3
+Lord Rakley,Sparrelitz,Undirected,1
+Lord Rakley,ester,Undirected,1
+Gyldenqvists,ester,Undirected,1
+,Frits iron,Undirected,1
+Frits,Lady Rakley,Undirected,46
+Gyldengvist,Lady Rakley,Undirected,3
+Gyldenqvist,v. Harden,Undirected,1
+Lady Rakley,Viggo Gyldenqvist,Undirected,2
+Carlsen,Lady Rakley,Undirected,3
+Ella Rakley,Mary Jim,Undirected,1
+Carlsen,Mary Jim,Undirected,3
+Lady Ella,Viggo Gyldenqvist,Undirected,1
+Mylady,v. Harden,Undirected,1
+Gyldengvist,Harden,Undirected,1
+Gyldengvist,Mylady,Undirected,1
+Harden,Mylady,Undirected,1
+Lady Rakley,Miss Mary Jim,Undirected,1
+Lady Ella,Lady Rakley,Undirected,1
+Lady Ella,Mary Jim,Undirected,1
+Gyldengvist,Lady Ella,Undirected,2
+Ella Rakley,v. Harden,Undirected,1
+Mary Jim,v. Harden,Undirected,1
+Frits,Mary Jim,Undirected,2
+,Lady Rakley,Undirected,4
+Gyldenqvist,Lady Rakley,Undirected,2
+Frits,Gyldenqvist,Undirected,9
+,Mre,Undirected,1
+Lady Ella,Mre,Undirected,1
+Frits,Lady Ella,Undirected,1
+Lady Rakley,ban,Undirected,2
+Frits,Samnie,Undirected,1
+Ella,Samnie,Undirected,1
+Ella,Friis,Undirected,2
+Alfhild,Ella,Undirected,8
+Gyldnrgvist,Lady Rakley,Undirected,1
+Lady Nakley,v. Harden,Undirected,1
+Ella,Frits,Undirected,44
+Ella,Gyldenqvist,Undirected,2
+Friis,Mylady,Undirected,2
+Ella,oar,Undirected,1
+Ella,v. Harden,Undirected,1
+Lady Rakley,v. Harden,Undirected,1
+Fløils,Lady Rakley,Undirected,1
+Lady Rakley,Semire,Undirected,1
+Ella,Semire,Undirected,1
+Frits,Frn Carlsen,Undirected,1
+Ella,Frn Carlsen,Undirected,1
+Frits,Mylady,Undirected,2
+Gyldengvist,iveien,Undirected,1
+Gyldengvist,soer Frits,Undirected,1
+Hennings,ban,Undirected,1
+Frits,Hnn,Undirected,1
+Frits soer,Gyldengvist,Undirected,1
+Frits,Hr. Carlsen,Undirected,1
+Gyldengvist,Hr. Carlsen,Undirected,1
+Frits,Hr. Baron,Undirected,1
+Mary Jim,Mylady,Undirected,4
+Ella,Mary Jim,Undirected,7
+Lady Rakley,Mary Jim,Undirected,17
+Løitnant,Neveus,Undirected,1
+Lady Rakley,Neveus,Undirected,1
+Madam Hennings,Sands,Undirected,1
+Alfhild,hevdes,Undirected,1
+Hennings,Madam Hennings,Undirected,4
+Madam Hennings,Marquisen,Undirected,3
+Madam Hennings,Ore,Undirected,1
+Madam Hennings,nil,Undirected,1
+Marquise d,Raoul,Undirected,4
+Alfhild,Raoul,Undirected,88
+Marquise d,Marquisen,Undirected,2
+' Hartincourts,Marquise d,Undirected,1
+' Hartincourts,Raoul,Undirected,1
+Raoul,d,Undirected,1
+Hartincourt,d,Undirected,1
+Hartincourt,Marquisen,Undirected,1
+Bei,Luxus,Undirected,1
+Plaio,hani,Undirected,1
+Cyrano,Marquisen,Undirected,1
+Bergeracs,Cyrano,Undirected,1
+Bergeracs,Marquisen,Undirected,1
+Marquisen,Raoul,Undirected,23
+Alfhild,Marguisens,Undirected,2
+Alfhild,Monsieur Leonard,Undirected,1
+Hennings,Monsieur Leonard,Undirected,1
+Hennings,nien,Undirected,1
+Naouls,nien,Undirected,1
+Naoul,Raonl,Undirected,1
+Alfhild,Marguis d,Undirected,1
+Marquisen,MonsieurLeonard,Undirected,1
+Alfhild,Marquisen,Undirected,48
+Marquisen,Roouls,Undirected,1
+Monsienr Leonard,Roouls,Undirected,1
+Monsienr Leonard,Raoul,Undirected,1
+Marquisen,Tauten,Undirected,1
+,d,Undirected,1
+Marquisen,Raoul befl ' ive Hennings,Undirected,1
+Kaja,Raoul,Undirected,2
+Raoul,Tantes,Undirected,1
+Madam Hennings,Tantes,Undirected,1
+Alfhild Marquisen,Kaja,Undirected,1
+Kaja,Marquisen,Undirected,1
+Alfhild,d,Undirected,2
+PigcS,d,Undirected,1
+Marquisen,PigcS,Undirected,1
+Lord Edw,Marquisen,Undirected,1
+Lord Edw,ll,Undirected,2
+Birgitte,ll,Undirected,1
+Alfhild,Birgitte,Undirected,2
+Hennings,Marquisen,Undirected,1
+Hennings,S,Undirected,2
+Marquisen,S,Undirected,1
+Lionel Edwill,Raoul,Undirected,1
+Lord Edwill,Marquisen,Undirected,3
+Lord Edwill,Raoul,Undirected,11
+Raoul,iveien,Undirected,1
+Birgitte Maar,Marquisen,Undirected,3
+Marguien,Marquisen,Undirected,1
+Gud,Raoul,Undirected,6
+Hennings,Raoul,Undirected,12
+,Hennings,Undirected,17
+Alfhild,fig,Undirected,1
+Raonl,fig,Undirected,1
+Alfhild,Raonl,Undirected,6
+Alfhild,Chantily,Undirected,10
+Chantily,koni Hennings,Undirected,1
+Alfhild,koni Hennings,Undirected,1
+Alfhild,bun,Undirected,1
+Raoul,bun,Undirected,1
+Madam Hennings,Raoul,Undirected,1
+Madam Hennings,l. gt,Undirected,1
+Raoul,l. gt,Undirected,1
+,Raoul,Undirected,5
+Alfhild,Cæsar,Undirected,1
+Cæsar,Lucins,Undirected,1
+Alfhild,Le Chütean,Undirected,1
+Vienne,des Adrets,Undirected,1
+Lebons,Marquis Raoul de Hartincourt,Undirected,1
+Madame d,Marquis Raoul de Hartincourt,Undirected,1
+Leon,Madame d,Undirected,1
+Henriette,Leon,Undirected,1
+Hordes,Mersfe,Undirected,1
+CarrierS,Mersfe,Undirected,1
+CarrierS,Marquis,Undirected,1
+Carriers,Marquis,Undirected,1
+Carriers,Leon,Undirected,1
+Leon,Marquisen,Undirected,1
+Marquisen,dandsct,Undirected,1
+Marguien,dandsct,Undirected,1
+Leon,Marguien,Undirected,1
+Leon,Nizza,Undirected,2
+Arcole,Leon,Undirected,1
+Arcole,Bonaparte,Undirected,1
+Bonaparte,Chnntily,Undirected,1
+la Usur,le la noblesse,Undirected,1
+Leon,le la noblesse,Undirected,1
+Leon,Marquis d ' Hartincourt,Undirected,1
+Marquisen,ban,Undirected,1
+Alfbild,Raoul,Undirected,1
+Alfhild,Lord Lionel Edwill,Undirected,1
+' Hartincourt,Marquise d,Undirected,2
+' Hartincourt,Hennings,Undirected,2
+Graad,Raoul,Undirected,1
+,s.,Undirected,1
+Dn,s.,Undirected,1
+,Gud,Undirected,1
+Birgitte Maar,Raoul,Undirected,1
+Frits,sidsfe,Undirected,1
+Gyldengvisf,sidsfe,Undirected,1
+Frits,Gyldengvisf,Undirected,1
+Frits,Sidsfe,Undirected,2
+Frits,Myldenqvists,Undirected,1
+Famas,Lady Rakley,Undirected,1
+Carlsen,Gyldengvist,Undirected,1
+Carlsen,Mary,Undirected,1
+Jim,Mary,Undirected,6
+Frits,Jim,Undirected,1
+Gyldengvist,Gyldenqvist,Undirected,1
+Ella,Viets,Undirected,1
+Frits,Viets,Undirected,1
+Frits,Jøvrigt,Undirected,1
+Alfhild,Nn,Undirected,1
+Gud,Mary Jim,Undirected,1
+Anders Borkhof,Mylady,Undirected,1
+Lady Rakley,Mylady,Undirected,1
+Mary Jim,bende,Undirected,1
+Anders,Anna,Undirected,5
+Raoul,sledse,Undirected,1
+Raoul,niin,Undirected,1
+Alfhild,niin,Undirected,1
+' Hartincourt,d,Undirected,1
+Alfhild,Nischer,Undirected,2
+Chantily,Marquisen,Undirected,2
+Tantalus,as,Undirected,1
+as,dans,Undirected,1
+Hennings,dans,Undirected,1
+Alfhild,bragle,Undirected,1
+Raoul,bragle,Undirected,1
+Jupiter,Kaja,Undirected,1
+Alfhild,Marquiens,Undirected,1
+Alfhild,Lord Edwill,Undirected,14
+Alfhild,Sums,Undirected,2
+Hennings,Lord Edwill,Undirected,11
+Alfhild,Marquise d ' Hartincourts,Undirected,1
+Kaja,Tante Kajas,Undirected,1
+Eurybia,Holla,Undirected,1
+Eurybia,Krius,Undirected,2
+Chantily,Eurybia,Undirected,1
+Chantily,Raoul,Undirected,7
+Jacques Chassaings,Raoul,Undirected,1
+Jacques Chassaings,Naoul,Undirected,1
+Alfhild,Naoul,Undirected,1
+Alfhild,Marquien,Undirected,15
+Alfhild,msa,Undirected,1
+Marquisen,msa,Undirected,1
+Frits,Marquisen Raoul,Undirected,1
+Marquien,Raoul,Undirected,9
+Gud,Raonl,Undirected,1
+Raonl,hani,Undirected,1
+Marquisen,hani,Undirected,1
+Anna,Lady Rakley,Undirected,12
+Anna,Ree,Undirected,1
+Anders,Sparrelitz,Undirected,1
+Kaarde,Sparrelitz,Undirected,1
+Kaarde,Karl,Undirected,1
+Karl,vaa,Undirected,1
+Fyen,vaa,Undirected,1
+Ella,bun,Undirected,2
+Ella,Lord Rakley,Undirected,1
+Anders Borkhof,Villie,Undirected,1
+Karl,haanes,Undirected,1
+Gud,Lady Rakley,Undirected,2
+Anders Bnrkhof,Anna,Undirected,1
+Anders Bnrkhof,Sivertsen,Undirected,1
+Anna,Sivertsen,Undirected,2
+Mary Jim,Viggo Gyldenqvist,Undirected,1
+Alfhild,sone,Undirected,1
+Raoul,sone,Undirected,1
+Marquien,Neveu allid,Undirected,1
+Alfhild,Neveu allid,Undirected,1
+Lord Edwill,Mmquiens,Undirected,1
+Alfhild,Mmquiens,Undirected,1
+Alfhild,Bel,Undirected,1
+Bel,Marquisen,Undirected,1
+Alfhild,Birgitte Maar,Undirected,2
+Lord Edwill,Marquien,Undirected,4
+Edwill,Madam Hennings,Undirected,1
+Edwill,Hennings,Undirected,4
+Hennings,Lord Lionel Edwill,Undirected,1
+Lionel,Lord Lionel Edwill,Undirected,1
+Hennings,Lionel,Undirected,1
+Lord Lionel Edwill,Maar,Undirected,1
+Ryqpen,dam,Undirected,1
+Lord Edwill,Ryqpen,Undirected,1
+Hennings,Marquis d ' Hartincourt,Undirected,1
+Lady Edwill,Marquis d ' Hartincourt,Undirected,1
+Hennings,Lørden,Undirected,1
+,S,Undirected,2
+Birgitte Maar,Edwill,Undirected,1
+Bigami,Lord Edwill,Undirected,1
+Birgitte Maar,Hennings,Undirected,1
+Edwill,kjcert,Undirected,1
+Alfhild,kjcert,Undirected,1
+Lord Edwill,Marquieu,Undirected,1
+Hennings,Marquieu,Undirected,1
+Marquien uåbnede,gjenncmfoer,Undirected,1
+' Hartincourt,D,Undirected,1
+Hardiesse,Hennings,Undirected,1
+' Hartincourt,Lionel,Undirected,1
+Gud,Lionel,Undirected,1
+Edwill,Lord Edwill,Undirected,1
+Lordens,Margnien,Undirected,1
+Lord Edwill,Lordens,Undirected,1
+Lord Edwill,Marquien Dolken,Undirected,1
+Alfhild,Lordens,Undirected,1
+Gemalindes,Lordens,Undirected,1
+Franks,Hennings,Undirected,1
+Hennings,Lorden,Undirected,2
+Hennings,Marquien,Undirected,4
+Lorden,Marquien,Undirected,4
+Dolken,Hennings,Undirected,7
+Lorden,Raoul,Undirected,1
+Marquien,Marquisen,Undirected,3
+Kaja,Naoul,Undirected,1
+Chantily,Naoul,Undirected,1
+Chantily,Jocclyn,Undirected,1
+Alfhild,Jocclyn,Undirected,1
+Alfhild,Jocelyns,Undirected,1
+Jocelyns,Laurences,Undirected,1
+Laurences,Raoul,Undirected,1
+Raoul,Ravuls,Undirected,1
+Hnn,Raoul,Undirected,1
+Marquisen,nicn,Undirected,1
+Raonl,ester,Undirected,1
+siskE,skfr^j,Undirected,1
+,Ella,Undirected,5
+Ella,Lady Rakley,Undirected,9
+Frits,Luxus,Undirected,1
+Alfhild,Lady Rakley,Undirected,1
+Ella,hnn,Undirected,1
+Ella,Mylady,Undirected,1
+Ella,Harden,Undirected,2
+Harden,lende,Undirected,1
+Ella,lende,Undirected,1
+Ella,Scylla,Undirected,1
+CharybdiS.,Scylla,Undirected,1
+Anna Mogens,Frits,Undirected,2
+Anna,Ella,Undirected,2
+Anna,strox,Undirected,1
+hnn vibste,strox,Undirected,1
+Anna,hnn vibste,Undirected,1
+Anders,Sivertsen,Undirected,4
+Frankrige,Lamartine,Undirected,1
+Lamartine,Mary,Undirected,1
+Mary,Rolighed,Undirected,1
+Gyldengvist,Rentier Carlsen,Undirected,1
+Harden,v. Harden,Undirected,1
+Reversen,v. Harden,Undirected,1
+Frits,Lady Nakley,Undirected,1
+Frits,sordin Uleilighed,Undirected,1
+Lady Rakley,von Harden,Undirected,1
+Lady Rakley,Lhantily.,Undirected,1
+Ester Bordet,Frits,Undirected,1
+Lynild,Raoul,Undirected,1
+Lynild,Tzerko,Undirected,1
+Nn,Tzerko,Undirected,2
+Allahs,Davids,Undirected,1
+Kaja,Siloams,Undirected,1
+Alfhild,Siloams,Undirected,1
+Raoul,nn,Undirected,1
+Seir,nn,Undirected,1
+Marquien,Seir,Undirected,1
+Chantily,Marquien,Undirected,2
+Marquisen,Raonl,Undirected,3
+DietS,Raonl,Undirected,1
+Alfhild,DietS,Undirected,1
+Alfhild,Rvoul,Undirected,1
+Raoul,asier,Undirected,1
+Chantily,Lord Edwill,Undirected,2
+Alfhild,maaskc,Undirected,1
+Lord Edwill,maaskc,Undirected,1
+Engelsf,von Harden,Undirected,1
+Engelsf,Harden,Undirected,1
+Woodson reisfe,Woodsons,Undirected,1
+Woodson reisfe,øg,Undirected,1
+Harden,Woodsons,Undirected,1
+Harden,Lady Rakley,Undirected,1
+IMs,Madame de A.,Undirected,1
+Madame de A.,Madame de C.,Undirected,1
+Hebes,Madame de C.,Undirected,1
+Madame de A.,Marquien,Undirected,1
+Madame de A.,de K.,Undirected,1
+Monsieur de N.,de K.,Undirected,1
+Efferat,Øe,Undirected,1
+Efferat,Marquien,Undirected,1
+Alfhild,siv,Undirected,2
+Majoren,nordifl,Undirected,1
+Alfhild,Carlsen,Undirected,1
+Frits,Raoul,Undirected,9
+Alfhild,RaoulS,Undirected,1
+RaoulS,maattc,Undirected,1
+Alfhild,maattc,Undirected,1
+Bei,Marquis d ,Undirected,1
+Alfhild,Marquis d ,Undirected,1
+Raoul,haa,Undirected,1
+Harden,Raoul,Undirected,7
+Alfhild,Raoul slod,Undirected,1
+Lord Edwill,Marquis d,Undirected,1
+Hartincourt,Marquis d,Undirected,1
+Chantily,Harden,Undirected,3
+Harden,Hennings,Undirected,5
+Chantily,Frits,Undirected,1
+Berring,flal,Undirected,1
+Berring,bornert,Undirected,1
+Gud,bornert,Undirected,1
+Berring,Frits,Undirected,2
+Kong Frederik,Lady Rakley,Undirected,1
+Hmdes,Lady Rakley,Undirected,1
+Lady Rakleys Die,Mary Jim,Undirected,1
+Lady Rakleys Die,Master Woodson,Undirected,1
+Lady Rakley,Master Woodson,Undirected,6
+Mary Jim,Master Woodson,Undirected,1
+Mary Jim,Woodson,Undirected,3
+Lady Rakley,Mary,Undirected,2
+Mary,denj,Undirected,1
+Mary,Mylady,Undirected,1
+Ella,Jim,Undirected,1
+Ella,Sivertsen,Undirected,6
+Sivertsen,Woodson,Undirected,6
+Frits,Master Woodson,Undirected,1
+Lady,Lady Rakley,Undirected,1
+Ella,Lady,Undirected,1
+Ella,Woodson,Undirected,4
+Lady Rakby,Woodson,Undirected,1
+Lady Rakley,Woodson forbitrede,Undirected,1
+Carlsen,Woodson,Undirected,2
+Frits,Woodson,Undirected,10
+kvugs,pjoir,Undirected,1
+Ella,Master Woodson,Undirected,3
+Anna,Anna Mogens,Undirected,1
+' Hartincourt,Chantily,Undirected,1
+El Smil,Hennings,Undirected,1
+Alfhild,El Smil,Undirected,1
+Dolken,Lord Edwill,Undirected,4
+Alexis v.,Dolken,Undirected,1
+Alexis v.,Lord Edwill,Undirected,1
+Harden,S,Undirected,1
+Madam Hennings,gjennsmskuede,Undirected,1
+,Chantily,Undirected,1
+Chantily,Hennings,Undirected,2
+Alfhild,Harden,Undirected,11
+Harden,l ,Undirected,1
+Bienne,ban,Undirected,1
+Alfhild,Bienne,Undirected,1
+Marquifen,Raoul,Undirected,2
+Harden,bende,Undirected,1
+Alfhild knnde,bende,Undirected,1
+H an,Marquisen,Undirected,1
+Raoul,jø,Undirected,1
+Alfhild,jø,Undirected,1
+Alfhild,Marquien iraadte,Undirected,1
+Harden,Marquien iraadte,Undirected,1
+Alexis v.,Alfhild,Undirected,1
+Alexis v.,Birgitte Maar,Undirected,1
+Harden,Marquisen,Undirected,1
+Birgitte,Maar,Undirected,1
+Marquien,inaaske,Undirected,1
+Harden,lin,Undirected,1
+Lord Edvill,kasfef,Undirected,1
+Lady Edwill,Lord Edwill,Undirected,1
+Harden,Lord Lionel Edwill,Undirected,1
+Lord Lionel Edwill,Nei,Undirected,1
+Nei,Raoul,Undirected,1
+Hennings,Nemesis,Undirected,1
+Dieblik,Hennings,Undirected,1
+Hennings,Pater,Undirected,1
+Antonio,Pater,Undirected,2
+Harden,hum,Undirected,1
+Lord Edwill,hum,Undirected,1
+Lord Edwill,ZEre,Undirected,1
+ZEre,v. Harden,Undirected,1
+ester,v. Harden,Undirected,1
+Harden,Lord Edwill,Undirected,2
+Raoul,hnn,Undirected,1
+Alfhild,Dolken,Undirected,1
+Hennings,Lord Edw,Undirected,1
+Alfhild,ll,Undirected,1
+Harden,Piet,Undirected,1
+Piet,Xbolutonasss,Undirected,1
+Harden,Xbolutonasss,Undirected,1
+Alexis,Raoul,Undirected,1
+Alexis,von,Undirected,1
+Hennings,Karl strar,Undirected,1
+Hennings,Raoul kammen,Undirected,2
+Hennings,Trund,Undirected,1
+,Harden,Undirected,1
+Hennings,assted,Undirected,1
+Pater,assted,Undirected,1
+Antonio,Madonna,Undirected,1
+Birgitte Maar,Gud,Undirected,1
+Alfhild,lss,Undirected,1
+Alfhild,Kristus,Undirected,1
+Gud,Kristus,Undirected,1
+Gud,Lord Edwill,Undirected,1
+Raoul,fnax,Undirected,1
+Hennings,Pater Antonio,Undirected,2
+Madam Hennings,Pater Antonio,Undirected,2
+Harden,Marquien,Undirected,1
+Edwill,Harden,Undirected,1
+Alfhild,Lorden,Undirected,1
+Chantily,Marquim,Undirected,1
+Harden,Marquim,Undirected,1
+Dolken,Harden,Undirected,1
+Chantily,Gud,Undirected,1
+Hennings,fom,Undirected,1
+Dolken,Marquien,Undirected,1
+Marquien,ban,Undirected,1
+Alfhild,Ledy Rakleys,Undirected,1
+Lady Rakley,Woodson,Undirected,10
+Ella,hani,Undirected,2
+Ella,hon,Undirected,1
+Frits,Mr. Woodsons,Undirected,1
+Dd,Woodson,Undirected,1
+Lady Rakley,vsa Mary Jim,Undirected,1
+dun,vsa Mary Jim,Undirected,1
+Gud,dun,Undirected,1
+Gud,Mylody,Undirected,1
+Mary Jim,Mylody,Undirected,1
+Mary Jim,Rentier Carlsen,Undirected,1
+Mr. Woodsons,Mylady,Undirected,1
+Mylady,hani,Undirected,1
+Jim,Woodson,Undirected,1
+Jim,ns,Undirected,1
+Lady Rakley,ns,Undirected,1
+Ella,hmde,Undirected,1
+Mary Jim,hmde,Undirected,1
+Lady Rakley,Mr. Woodson,Undirected,4
+Frits,nien,Undirected,1
+Mary Jim,nien,Undirected,1
+Woodson,d,Undirected,1
+Frits,d,Undirected,1
+Frits,l,Undirected,1
+Ella,l,Undirected,1
+Ella,Frits tzar,Undirected,2
+Anders Borkhof,Sivertsen,Undirected,4
+Carlsen,Sivertsen,Undirected,3
+Lady Rakley,hom,Undirected,2
+Woodson,forstenef,Undirected,1
+ms,änm,Undirected,1
+Frits,Willmgion,Undirected,1
+Arthur,Willmgion,Undirected,1
+Arthur,Lady Rakley,Undirected,1
+Arthur,Woodson,Undirected,1
+Lady Rakley,Miss Jim,Undirected,2
+Lady Rakley,Neveu,Undirected,1
+Arthur Willingtons,Lady Rakley,Undirected,1
+Frits,Lady Ella Rakley,Undirected,1
+Lady Ella Rakley,efte Lord Willy Rakley,Undirected,1
+Harry Woodson,efte Lord Willy Rakley,Undirected,1
+Harry Woodson,Lady,Undirected,2
+Harry Woodson,Lady Ella Rakley,Undirected,1
+Lady Ella Rakley,Villie,Undirected,1
+Harry Woodson,Villie,Undirected,1
+Tiaerms,Woodson,Undirected,1
+Frits,Tiaerms,Undirected,1
+Anna Mogens,Lady Rakley,Undirected,1
+Anna,Frits,Undirected,1
+Arthur Willington,Berring,Undirected,1
+Sivertsen,dir,Undirected,1
+Frits,dir,Undirected,1
+Frits,Lord Rakley,Undirected,1
+Billie,Ella,Undirected,1
+Frits,Grøsserer Sivertsen,Undirected,1
+Anders Borkhof,Anna Mogens,Undirected,1
+Anders,frels,Undirected,1
+Lady Rakley,frels,Undirected,1
+Anders-,Seir,Undirected,1
+,Mr. Woodson,Undirected,1
+Mylady,Woodson,Undirected,2
+Ester,Mr. Woodson,Undirected,1
+Carlsen,Miss J-m,Undirected,1
+Lady Rakley,Miss J-m,Undirected,1
+Mary Jim,Woodson arter,Undirected,1
+Lady Rakley,Woodson arter,Undirected,1
+Carlsen,J-g,Undirected,1
+Mary,Woodson,Undirected,2
+Jim,Woodsvu,Undirected,1
+Anders Borkhof,Lady Rakley,Undirected,1
+Anders Borkhof,Ella,Undirected,1
+Lord Rakley,Mr. Woodson,Undirected,1
+Anders,Willington,Undirected,1
+Mr. Woodson,Willington,Undirected,1
+Anders Borkhof,Ella reisle,Undirected,1
+Sivert,Sivertsen,Undirected,1
+Sivert,sen,Undirected,1
+Ella Sparrelitz,sen,Undirected,1
+Anders,Faa Mwuter,Undirected,1
+Anders,Lady Rakley,Undirected,1
+Anders Bmkhof,Frits,Undirected,1
+Anders,Frits,Undirected,2
+Friis,Sivertsen,Undirected,2
+Ali,Friis,Undirected,1
+Ali,Lady Rakley,Undirected,1
+,Anders Borkhof,Undirected,1
+Anders Borkhof,Friis,Undirected,1
+Kaar,Sivertsen,Undirected,1
+Kaar,Woodson,Undirected,1
+Gud,Woodson,Undirected,1
+Ella,Gud,Undirected,1
+Amors,Frits,Undirected,1
+Amors,Pluto,Undirected,1
+Pluto,Seir,Undirected,1
+Amor,Seir,Undirected,1
+Anker,Ella,Undirected,1
+Sivertsen,soer UUøes,Undirected,1
+Anton,soer UUøes,Undirected,1
+Frits soer,Lady Rakley,Undirected,1
+Dn,Sivertsen,Undirected,1
+Arthur Willington,Woodson,Undirected,1
+Arthur Willington,Frits,Undirected,1
+Anders Borkhof,Sparrelitz,Undirected,1
+Anders Borkhof,Frits,Undirected,1
+Kaptain Sivertsen,Slige Saar,Undirected,1
+Sivertsen,Slige Saar,Undirected,1
+Anna Mogens,Sivertsen,Undirected,2
+Carlsen,Ella,Undirected,1
+Mary Jim,Uhret,Undirected,1
+Lady Rakley,Rentier Carlsen,Undirected,1
+Miss Jim,Woodson,Undirected,1
+Mary,MyladhS,Undirected,1
+Mary Jim,Sivertsen,Undirected,1
+Sivertsen,llsar,Undirected,1
+llsar,vitk,Undirected,1
+osull de mors,vitk,Undirected,1
+osull de mors,urs,Undirected,1
+Woodson,urs,Undirected,1
+Ella,Mary,Undirected,2
+Siverisen,Woodson,Undirected,1
+Lil riZiit,Sivertsen,Undirected,1
+Lady Rakfly,Mary Jim,Undirected,1
+Lady Rakfly,Woodson,Undirected,1
+Ella,Kaptam Sivertsen,Undirected,1
+Frits,Kaptam Sivertsen,Undirected,1
+FritS,Sivertsen,Undirected,1
+Frits,Gud,Undirected,3
+Frits,j-g,Undirected,1
+Alexis,Gud,Undirected,1
+Alfhild,Ko,Undirected,1
+Ko,jas,Undirected,1
+Frits,Hennings,Undirected,2
+Gud,Hennings,Undirected,1
+Ella,FritS,Undirected,1
+Alfhild,FritS,Undirected,3
+Dolken,Frits,Undirected,1
+Alexis,Frits,Undirected,1
+Hartincourt,d ,Undirected,1
+Dolken,Hartincourt,Undirected,1
+Frits,alrsaa,Undirected,1
+Chantily,alrsaa,Undirected,1
+Careys,Frits,Undirected,1
+Careys,Sivertsen,Undirected,1
+Frits,øg,Undirected,1
+Sivertsen,øg,Undirected,1
+Alfhild,Sivertsen,Undirected,8
+Frits,vg Sivertsen,Undirected,1
+,Sivertsen,Undirected,1
+Messfna,Sivertsen,Undirected,1
+Raoul,travaiiiours,Undirected,1
+Alfhild,Major Hardens,Undirected,1
+Lord Edwill,Major Hardens,Undirected,1
+Alfhild,Dn,Undirected,1
+Alfhild,hu,Undirected,1
+Alfhild,Marquis,Undirected,1
+Alfhild,stos,Undirected,1
+Lord Edwill,fluide,Undirected,1
+Alfhild,hon,Undirected,1
+Frits,Frøken Helms,Undirected,1
+Frøken Helms,ester,Undirected,1
+Alexis v. Hordens,Friis,Undirected,1
+Alexis v. Hordens,Birgitte Manrs,Undirected,1
+Alfhild,Birgitte Manrs,Undirected,1
+Fortællingens,Raoul,Undirected,1
+Fortællingens,Traad,Undirected,1
+Frits,Kelkommen,Undirected,1
+Frits,Mmne,Undirected,1
+Alfhild,hase,Undirected,1
+hase,hua,Undirected,1
+Alfhild,Marquise d,Undirected,1
+Alfhild,MarquisenS,Undirected,1
+FritS,MarquisenS,Undirected,1
+FritS,Kaja,Undirected,1
+Alshilds,Ella,Undirected,1
+Chantily,Sivertsen,Undirected,3
+Chantily,Kong Ludvig,Undirected,1
+Llarissa,Madonna,Undirected,1
+Kong Ludvig,Llarissa,Undirected,1
+fig,sea,Undirected,1
+ClariSsa,Gud,Undirected,1
+Chantily,Marter,Undirected,1
+Ave Maria,Chantily,Undirected,1
+Alfhild,von Harden,Undirected,1
+Sivertsen,von Harden,Undirected,1
+Alfhild,haode,Undirected,2
+Alfhild,Kaptain Sivertsen,Undirected,1

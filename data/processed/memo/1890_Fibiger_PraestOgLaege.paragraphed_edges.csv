@@ -1,0 +1,126 @@
+source,target,type,weight
+Gratien,Marechal Bernadottes,Undirected,1
+Marechal Bernadottes,Napoleon,Undirected,1
+Mikkel Sørensen,liam,Undirected,1
+Capitain Blom,æge Larsen,Undirected,1
+Jørgen van,Weldern,Undirected,1
+Jørgen van Weldern,Sophie,Undirected,3
+Petermandog,Sophie,Undirected,1
+Sophie,Tante Sophie,Undirected,1
+Blom,Jørgen van Weldern,Undirected,1
+Blom,Johan,Undirected,2
+Frue,Sophie,Undirected,1
+Farbroders,Julius,Undirected,2
+Julius,Moders,Undirected,1
+Jomfru Petrine,Julius,Undirected,1
+Grandmama,Julius,Undirected,10
+Gratie,Julius,Undirected,2
+Grandmama,Piquet,Undirected,1
+Hans,van Weldern,Undirected,1
+Grandmama,van Weldern,Undirected,1
+Eva,Kain,Undirected,1
+Abel,Kain,Undirected,1
+Himmeriges,Jørgen,Undirected,1
+Andrine,Julius,Undirected,1
+Julius,Pauline,Undirected,3
+Hans,Julius,Undirected,5
+Mama,Pauline,Undirected,1
+Cousine Andrine,Pauline,Undirected,1
+Cousine Andrine,bonheur,Undirected,1
+Grandmama,Hans,Undirected,6
+Jørgen von Weldern,Pauline,Undirected,1
+Julius,Marie,Undirected,1
+Faders,Jacob,Undirected,1
+Jacob,Pauline,Undirected,1
+Jacob,lian,Undirected,1
+Jacob,Julius,Undirected,2
+Faders,Julius,Undirected,1
+Fader,Faders,Undirected,1
+Ane Vævers,Julius,Undirected,1
+Jacob kjørte,Larsen,Undirected,1
+Blom,Larsen,Undirected,1
+Julius,indirecte,Undirected,1
+Blom,Julius,Undirected,1
+Blom,lille Pauline,Undirected,1
+Jens,Truelsen,Undirected,1
+Blom,Jens,Undirected,1
+Julius,lian,Undirected,1
+Fader,Grandmama,Undirected,2
+Jomfru Petrine,Petrine,Undirected,1
+Petrine,liun,Undirected,1
+Hans,Paul,Undirected,1
+Hans,Marie,Undirected,1
+Frøken Paulines,Grandmama,Undirected,1
+Grandmama,Johan,Undirected,1
+Julius,paany,Undirected,1
+Hans,Johan Blom,Undirected,2
+Capitain Blom,Grandmama,Undirected,1
+Hans,Paul Jensen,Undirected,1
+Aare,Johan Bioms,Undirected,1
+Guds,Paul,Undirected,1
+Grandmama,Petrine,Undirected,1
+Hans,Petrine,Undirected,1
+Clausul,Paul Jensen,Undirected,1
+Johan Blom,Paul Jensen,Undirected,1
+Jørgen van Weldern,Paul Jensen,Undirected,1
+Gud,Karl,Undirected,1
+Gud,lian,Undirected,1
+Jørgen van Weldern,Krisis,Undirected,1
+Jørgen van Weldern,Mikkel Sørensen,Undirected,1
+Mikkel Sørensen,Sophie,Undirected,1
+Knud,Laurent Herder,Undirected,1
+Jørgen,Sophie,Undirected,1
+Ane,Jørgen,Undirected,2
+Ane,Julie,Undirected,1
+Ane,Sands,Undirected,1
+Sands,Tante Bolette,Undirected,1
+Bolette Blom,Jørgen van Weldern,Undirected,1
+Bolette Blom,Buxetrold,Undirected,1
+Buxetrold,Larsen,Undirected,1
+Laurent Herder,Sophie,Undirected,1
+Julie,Jørgen van Weldern,Undirected,9
+Jørgen van Weldern,Kjørselen,Undirected,1
+Julie,Kjørselen,Undirected,1
+Julie,Laurent Herder,Undirected,4
+Jørgen van Welder,Larsen,Undirected,1
+Julie,Larsen,Undirected,1
+Blom,Jørgen,Undirected,1
+Jørgen,Pauline,Undirected,1
+Julie,Jørgen,Undirected,1
+Bolette,Laurents,Undirected,1
+Carl Blom,Julie,Undirected,1
+Carl Blom,Jørgen van Weldern,Undirected,2
+Jørgen van Weldern,Pauline,Undirected,2
+Doctoren,Jørgen van Weldern,Undirected,1
+Carl,Laurent,Undirected,2
+Arthur Weel,Ellida,Undirected,1
+Blom,Laurent,Undirected,1
+Ellida,Laurent,Undirected,1
+Julius,Jørgen van Weldern,Undirected,1
+Arthur Weel,Julie,Undirected,3
+Julie,liam,Undirected,1
+Laurent,liam,Undirected,1
+Carl,Jørgen van Weldern,Undirected,1
+Arthur Weel,Carl,Undirected,1
+Arthur Weel,Laurent Herder,Undirected,2
+Julie,Tante Bolette,Undirected,1
+Blom,Johan Clausens,Undirected,1
+Hr. Weel,Larsen,Undirected,1
+Arthur Weel,Jørgen von Weldern,Undirected,1
+Jørgen von Weldern,Laurent Herder,Undirected,1
+Julie,ilive,Undirected,1
+Arthur Weél,Julie,Undirected,1
+Arthur Weel,Johan Clausen,Undirected,5
+Ellida,Johan Clausen,Undirected,1
+Graad,Julie,Undirected,1
+Jesus,Julie,Undirected,1
+Jairi,Jesus,Undirected,1
+Bolette,Julie,Undirected,1
+Arthur Weel,Jørgen,Undirected,2
+Johan Clausen,Laurent,Undirected,1
+Gud,Johan Clausen,Undirected,1
+Arthur Weel,Jørgen van Weldern,Undirected,1
+Arthur Weel,Capitain Blom,Undirected,1
+Grandmama,Johan Clausen,Undirected,1
+Jee,Johan Blom,Undirected,1
+Jørgen van Weldern,lian,Undirected,1

@@ -1,0 +1,217 @@
+source,target,type,weight
+Bergstrom,Ole Hjort,Undirected,2
+Hjort,Ole Hjort,Undirected,1
+Bergstom,Hjort,Undirected,1
+Bergstom,Bergstrøm,Undirected,1
+Brandt,Gud,Undirected,17
+Gud,leO,Undirected,1
+,Gud,Undirected,1
+Bergstrøm,Gud,Undirected,2
+Bergstrøm,Brandt,Undirected,6
+Brandt,Hjort,Undirected,9
+Brandt,Sivbæk,Undirected,4
+Alrune,Brandt,Undirected,70
+Alrune,Gud,Undirected,9
+Amor,Gud,Undirected,2
+Amor,Bergstrøm,Undirected,1
+Alrune,Bergstrøm,Undirected,7
+Alrune,Hr. Brandt,Undirected,2
+Gud,visseli,Undirected,1
+Bergstrom,Brandt,Undirected,10
+Brandt,Fæstemø,Undirected,1
+Brandt,Lind,Undirected,4
+Bergstrom,Niels Hansens,Undirected,1
+Brandt,Niels Hansens,Undirected,1
+Brandt,Peder Nielsen,Undirected,2
+Else,Kjæresten,Undirected,2
+Else,Søren Storgaard,Undirected,1
+Niels Hansens,Søren Storgaard,Undirected,1
+Niels Hansens,Søren,Undirected,1
+Brandt,Niels Skovgaard,Undirected,1
+Niels Skovgaard,Skovgaard,Undirected,1
+Peder Nielsen,Skovgaard,Undirected,1
+Alrune,Ein Aften,Undirected,1
+Brandt,Frøken Alrune,Undirected,1
+Brandt,Elise,Undirected,13
+Alrune,Elise,Undirected,5
+Brandt,Eros,Undirected,1
+Brandt,liam,Undirected,1
+/Alrune,Elise,Undirected,1
+Alrune,JOergstoms,Undirected,1
+Brandt,Waldner,Undirected,3
+Bergstrøm,Waldner,Undirected,1
+Alrune,Waldner,Undirected,1
+Elise,Nemesis,Undirected,1
+Frøken Bergstrøm,Storm,Undirected,1
+Storm,j eg,Undirected,1
+Frøken Bergstrøm,j eg,Undirected,1
+Elise,Frøken Bergstrøm,Undirected,1
+Alrune,J,Undirected,1
+Brandt,Poul Skrædder,Undirected,2
+Poul,Poul Skrædder,Undirected,1
+Brandt,Jakob,Undirected,1
+Balak,Ole Hjort,Undirected,1
+Brandt,trine,Undirected,1
+Brandt,Ole Hjort,Undirected,2
+Brandt,zXlrune,Undirected,1
+Waldner,zXlrune,Undirected,1
+Elise,Waldner,Undirected,1
+Waldner,daarcs,Undirected,1
+Alrune-,Brandt,Undirected,1
+Alrune,Bergstrom,Undirected,5
+Bergstrom,Storm,Undirected,2
+Alrune,Storm,Undirected,12
+Brandt,Storm,Undirected,6
+Hr. Brandt,Storm,Undirected,1
+Bergstrom,Nina,Undirected,1
+Alrune,Nina,Undirected,9
+Alrune,Degnens,Undirected,1
+Degnens,Knud Hjort,Undirected,1
+Knud,Knud Hjort,Undirected,2
+Alrune,Knud,Undirected,14
+Alrune,Hjort,Undirected,1
+Hjort,Knud,Undirected,3
+.Alrune,Knud,Undirected,1
+Bergstrøm,Knud,Undirected,1
+Brandt,Knud,Undirected,6
+Alrune,Doren,Undirected,2
+Alrune,Mette,Undirected,9
+Gud,Mette,Undirected,3
+Mette,tom Ordbram,Undirected,2
+Bergstrøm,Storm,Undirected,1
+Maren Hansdatter,Stine Hvas,Undirected,1
+Poul Skrædder,Stine Hvas,Undirected,1
+Poul Skrædder,Sidsel,Undirected,1
+Sidsel,edlen,Undirected,1
+Kaffetaar,edlen,Undirected,1
+Kaffetaar,Poul,Undirected,1
+Kristen Brink,Sidsel,Undirected,1
+Kristen,Sirak,Undirected,1
+Poul,Sirak,Undirected,2
+Karen Brink,Poul,Undirected,1
+Karen Brink,Kristen,Undirected,1
+Maren,Sidsel,Undirected,3
+Mutter,Sidsel,Undirected,1
+Anders Kjær,Gud,Undirected,1
+Poul,kjedelens,Undirected,1
+Alrune,Stine,Undirected,1
+Kjæresten,Maren,Undirected,1
+Mette,Stine,Undirected,3
+Mette,Poul,Undirected,1
+Hvas,Stine,Undirected,1
+Hvas,Karl,Undirected,1
+Mutter,Sirak,Undirected,1
+Maren,Poul,Undirected,1
+Hans,Stine,Undirected,2
+Biieam,Poul,Undirected,1
+Poul,Stine,Undirected,4
+Sidsel,Stine,Undirected,2
+Salomo,Sirak,Undirected,1
+Sirak,Stine,Undirected,1
+Karoline,Vævers,Undirected,1
+Poul,Sidsel,Undirected,1
+Mutter,Poul,Undirected,1
+Poul Skrædder,Stine,Undirected,1
+Maren,Poul Skrædder,Undirected,1
+Kirsten,Maren,Undirected,1
+Goldschmidts,Gud,Undirected,1
+Elise,Gud,Undirected,1
+Gud,Jesu Sirak,Undirected,1
+Jesu Sirak,Mette,Undirected,1
+Jonathan,Kong Davids,Undirected,1
+Bergstrom,Jonathan,Undirected,1
+Bergstrom,David,Undirected,1
+David,Gud,Undirected,1
+Gud,Ole Hjort,Undirected,1
+Ole Hjort,Sinaj,Undirected,1
+Golgatha,Sinaj,Undirected,1
+Belials,Ole Hjort,Undirected,1
+Belials,Gud,Undirected,1
+Bergstrom,Gud,Undirected,1
+Bergstrom,kjære Brandt,Undirected,1
+Gud,kjære Brandt,Undirected,1
+Gud,J,Undirected,2
+Gud,Simon Peter,Undirected,1
+Sivbæk,Sivo,Undirected,1
+Sivbæk,Tyfus,Undirected,1
+J o,Stine Hvas,Undirected,1
+Poul,Stine Hvas,Undirected,2
+Brandt,Kapellan,Undirected,1
+Kapellan,Stine,Undirected,1
+Ronne,Stine,Undirected,1
+Dejo,Ronne,Undirected,1
+Brandt,Poul,Undirected,2
+Gud,Stine,Undirected,2
+Hans,Jens Peder,Undirected,1
+Gud,Jens Peder,Undirected,1
+Brandt,Stine,Undirected,5
+Brandt,Stine Hvas,Undirected,1
+Poul,Profeten,Undirected,1
+Poul Skrædder,Profeten,Undirected,1
+Halvorsen,izer,Undirected,1
+Jesus,Skovgaard,Undirected,1
+Anders,Halvorsen,Undirected,4
+F'olkelykke,Halvorsen,Undirected,1
+Ane,Skovgaard,Undirected,2
+Anders,Skovgaard,Undirected,1
+Gud,Skovgaard,Undirected,2
+Anders,Kapellan Brandt,Undirected,1
+Bergstrom,Kapellan Brandt,Undirected,1
+Bergstrom,Krieger,Undirected,1
+Brandt,Halvorsen,Undirected,5
+Elustru,Skovgaard,Undirected,1
+Elustru,F'olk,Undirected,1
+Anders,Brandt,Undirected,3
+Brandt,Skovgaard,Undirected,2
+Krieger,Skovgaard,Undirected,1
+Halvorsen,Krieger,Undirected,2
+Krieger,Kristi,Undirected,1
+Anders,Krieger,Undirected,1
+Halvorsen,Ole Hjort,Undirected,1
+Gud,Hjort,Undirected,1
+Bergstrøm,JL^et,Undirected,1
+Alrune,Hering,Undirected,3
+Brandt,Nina,Undirected,8
+Kapellan Brandt,Nina,Undirected,1
+Agnete,Kapellan Brandt,Undirected,1
+Agnete,Nina,Undirected,1
+Brandt,Mette,Undirected,1
+Mette,Nina,Undirected,1
+Nina,Storm,Undirected,1
+Eros,Nina,Undirected,1
+Gud,j,Undirected,1
+Kristus,j,Undirected,1
+Lefleri,Nina,Undirected,1
+Bergstrom,Plans,Undirected,1
+Brandt,Plans,Undirected,1
+Bergstrom,Fremtidskaar,Undirected,1
+Alrune,Frøken Bergstrøm,Undirected,1
+Alrune,Moster,Undirected,2
+Moster,Nina,Undirected,1
+Bergstrom,Bergstrøm,Undirected,1
+Stine,Stine Hvas,Undirected,1
+JOO,Pastor Brandt,Undirected,1
+Hjort,Pastor Brandt,Undirected,1
+Gud,Knud,Undirected,2
+Alrune,Knud Hjort,Undirected,4
+Brandt,Knud Hjort,Undirected,2
+Brandt,lostes Hjorts,Undirected,1
+Alrune,lostes Hjorts,Undirected,1
+Anders Kjær,Brandt,Undirected,1
+Anders Kjær,Halvorsen,Undirected,1
+Anders,Pastor Brandt,Undirected,2
+Anders,kjær,Undirected,1
+Halvorsen,Pastor Brandt,Undirected,1
+Hjort,Spener,Undirected,1
+Franke,Spener,Undirected,1
+Franke,Hjort,Undirected,1
+Hjort,Karleskolens,Undirected,1
+Karleskolens,Knud Hjort,Undirected,1
+Gud,Knud Hjort,Undirected,1
+Knud Hjort,Nina,Undirected,1
+Elise,Sivbæk,Undirected,1
+Alrune,Lind,Undirected,1
+Doden,kjære Brandt,Undirected,1
+Brandt,Knud Alrune,Undirected,1
+Frigjoreisen,Gud,Undirected,1
+Brandt,j eg,Undirected,1

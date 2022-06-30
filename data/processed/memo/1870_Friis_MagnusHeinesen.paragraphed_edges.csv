@@ -1,0 +1,316 @@
+source,target,type,weight
+Christoffer Walckendorff,Hans Lindenow,Undirected,3
+Hans Lindenow,Lehnsmanden,Undirected,1
+Clerck,Walckendorff,Undirected,1
+Clerck,Øsfers,Undirected,1
+Hain,Mogens Heinesen,Undirected,1
+Hans Lindenow,Mogens Heinesen,Undirected,2
+Hans Lindenow,Walckendorff,Undirected,4
+Mogens,Walckendorff,Undirected,7
+Christoffer Walckendorff,Mogens Heinesen,Undirected,1
+Jørgen Friis,trceffc,Undirected,1
+Dryssel,trceffc,Undirected,1
+Mogens,iland,Undirected,1
+Kaptain Seierscel,Mogens,Undirected,1
+Kaptain Seierscel,Lin,Undirected,1
+Hans,ber,Undirected,1
+Hans,Mogens,Undirected,1
+Kaptain Seierscrl,Mogens,Undirected,1
+Mogens“,spurgteJonas,Undirected,1
+Jonas,Mogens,Undirected,5
+Magnus Heinesen,Mogens,Undirected,1
+Heine sen,Ionas,Undirected,1
+Andreas,Christoffer Walckendorff,Undirected,1
+Andreas,Ionas,Undirected,1
+Ionas,Maibom,Undirected,1
+Christoffer Walckendorff,Mogens,Undirected,1
+Andreas,Heinesen,Undirected,1
+Heinesen,Jonas,Undirected,9
+Jonas,Mogens“,Undirected,1
+Heinesen,Jonas“,Undirected,4
+Heckel,Heinesen,Undirected,1
+Heckel,Mogens,Undirected,3
+Lehnsmanden,Mogens,Undirected,1
+Jonas,Lehnsmanden,Undirected,1
+Jonas,Thomas Brakncese,Undirected,1
+Christoffer Walckendorff,Magnus Heinesen,Undirected,2
+Hans Lindenow,Magnus Heinesen,Undirected,3
+Hans Lindenow,nasten,Undirected,1
+Walckendorff,ban,Undirected,1
+Lehnsmanden,Mogens Heinesen,Undirected,2
+Burckart,Hermann Wulfs,Undirected,1
+Christoffer Øltapper,Hermann Wulfs,Undirected,1
+Heinesen,Mogens,Undirected,3
+Magnus Heinesen,iland,Undirected,1
+Lehnsmand,Magnus,Undirected,1
+Herr Lehnsmand,Magnus Heinesen,Undirected,1
+Heckel,Walckendorff,Undirected,1
+Mogens Heines,Walckendorff,Undirected,1
+Mogens Heinesen,Walckendorff,Undirected,2
+Heinesen,sfrax,Undirected,1
+Clercken,sfrax,Undirected,1
+Magnus Heinesen,Walckendorff,Undirected,1
+Clerck,Kaptain Clerck,Undirected,1
+Christian Degn,Christian Olesen,Undirected,1
+Christoffer Walckendorff,Thomas Braknæse,Undirected,1
+Jonas,Thomas Braknæse,Undirected,1
+B r,Heinesen,Undirected,1
+B r,Heckel,Undirected,1
+Garper,Heckel,Undirected,1
+Garper,Mcends,Undirected,1
+Heinesen,Karl,Undirected,1
+Jonas,Karl,Undirected,1
+Clerck,Heinesen,Undirected,8
+Clerck,Magnus Heinesen,Undirected,2
+Bjørn,Clerck,Undirected,1
+Magnus Heinesen,cerbodig,Undirected,1
+Magnus Heine,cerbodig,Undirected,1
+Magnus Heine,ns,Undirected,1
+Mogens Heinesen,ns,Undirected,1
+Clerck,Herr Lehnsmand,Undirected,1
+Clerck,sif,Undirected,1
+Magnus Heinesen,sif,Undirected,1
+Walckendorff,tappre,Undirected,1
+Heinesen,nied,Undirected,2
+H eine sen,Heinesen,Undirected,1
+Clerck,Jvnas Maibøm,Undirected,2
+Clerck,Karl,Undirected,2
+Heinesen,Jonas Maibom,Undirected,1
+Jonas Maibom,ban,Undirected,1
+Hein es,Jonas Maib,Undirected,1
+Jonas Maib,Le foge,Undirected,1
+Mcerke,Mogens,Undirected,1
+Duprimer,Heinesen,Undirected,1
+Børge,Heinesen,Undirected,2
+Axel Gyntelberg,Jonas,Undirected,1
+Axel Gyntelberg,CL erck,Undirected,1
+Børge,CL erck,Undirected,1
+Børge,Jonas,Undirected,1
+Børge,Mogens Heinesen,Undirected,1
+Axel Gyntelberg,Børge,Undirected,1
+Cecilie,Mogens Heinesen,Undirected,1
+Inger,Peder Hansen,Undirected,1
+Cecilie,Inger,Undirected,2
+Børge,Cecilie,Undirected,1
+Inger,Sophie,Undirected,2
+Axel Gyntelberg,Mogens,Undirected,1
+Axel Gyntelberg,Sophie,Undirected,3
+Annas,Sophie,Undirected,1
+Anna,Sophie,Undirected,1
+Jnger,Sophie,Undirected,1
+Gud,Jnger,Undirected,1
+Gud,cekel,Undirected,1
+Clerck,Mogens Heinesen,Undirected,1
+Mogens Heinesen,Sophie,Undirected,3
+Einar,Mogens Heinesen,Undirected,1
+Anna Gyntelberg,Sophie,Undirected,1
+Einar,Jomfru Sophie,Undirected,1
+Jomfru Sophie,Mogens Heinesen,Undirected,1
+Anna,Sophie Gyntelberg,Undirected,1
+Einar,Sophie Gyntelberg,Undirected,1
+Einar,Inger,Undirected,1
+Anna,S,Undirected,1
+Cecilie,Sophie,Undirected,1
+Heinesen,Sophie Gyntelberg,Undirected,3
+Magnus Heine sens,Sophie Gyntelberg,Undirected,1
+Heinesen,Ionas Maibom,Undirected,1
+Axel Gyntelberg,Mogens Heinesen,Undirected,1
+Heinesen,hengaa,Undirected,1
+Axel Gyntelberg,hengaa,Undirected,1
+Axel Gyntelberg,Sophie Gyntelberg,Undirected,1
+Hans Lindenow,Heinesen,Undirected,3
+Hans Lindenow,Sophie Gyntelberg,Undirected,1
+Garper slode,Heinesen,Undirected,1
+Garper slode,Lindenows,Undirected,1
+Heinesen,Lindenows,Undirected,1
+Heinesen,Seener,Undirected,1
+Seener,Walckendorff,Undirected,1
+Heinesen,Walckendorff,Undirected,2
+Jonas,MagnusHeinesen,Undirected,1
+Clerck,Jonas,Undirected,2
+Falken,Jonas,Undirected,3
+Gud,Heinesen,Undirected,2
+Gud,Søren Flue,Undirected,1
+Søren Flue,iland,Undirected,1
+Jonas,iland,Undirected,1
+Jonas,Jonas“,Undirected,1
+Halfred,Heinesen,Undirected,1
+Heinesen,Mcrnd,Undirected,2
+Heinesen,kjcephøi,Undirected,1
+Heinesen,Rut *,Undirected,1
+Ketil,Thorgeir,Undirected,2
+Ketil,Magnus Heinesen,Undirected,2
+Heinesen,Ion,Undirected,2
+Einar,Heinesen,Undirected,19
+Heinesen,Magnus Heinesen,Undirected,4
+Heinesen,bøg,Undirected,2
+Heinesen,hall,Undirected,1
+Heinesen,Skjalg,Undirected,10
+Einar,Magnus,Undirected,1
+Falken,Heinesen,Undirected,1
+Einar „,Heinesen,Undirected,1
+Einar,Reis,Undirected,1
+Einar,Magnus Heinesen,Undirected,1
+Dimon,Heinesen,Undirected,1
+Dimon,Sands,Undirected,1
+Heinesen,Karlfolket,Undirected,2
+Einar,Hive,Undirected,1
+Heinesen,hille,Undirected,1
+hille,iland,Undirected,1
+Einar,iland,Undirected,1
+Einar,Jonas,Undirected,1
+Jonas,fro,Undirected,1
+Aase,Heinesen,Undirected,3
+Aase,Skjalg,Undirected,1
+Skjalg,flulde,Undirected,1
+flulde,naa Heinesen,Undirected,1
+Einar,Skjalg,Undirected,2
+Mogens,Skjalg,Undirected,2
+Aase,Ingrid,Undirected,1
+Heinesen,tbi Einar,Undirected,1
+Karl,Skjalg,Undirected,1
+Einar,Jonas Maib,Undirected,1
+Hesfs,Jonas Maib,Undirected,1
+Heinesen,Hesfs,Undirected,3
+Hesfs,Jonas,Undirected,1
+Heinesen,Sands,Undirected,2
+Heinesen,seile,Undirected,1
+Kapergasts,seile,Undirected,1
+Heinesen,Kapergasts,Undirected,1
+Kolfinna,Skjalg,Undirected,1
+Brooks,Kolfinna,Undirected,1
+Heinesen,Kolfinna,Undirected,1
+Heinesen,Øsfers,Undirected,3
+Heinesen,ban,Undirected,3
+Einar,sidsfe,Undirected,1
+Heinesen,hans Wre,Undirected,1
+Heinesen,Rasmus,Undirected,3
+Heinesen,Mogens Heinesen,Undirected,4
+Antonio,Max,Undirected,2
+Antonio,Robert,Undirected,1
+Heine se,Heines,Undirected,1
+Heine se,Heinesen,Undirected,1
+Harald,ifjor,Undirected,1
+Heinesen,ifjor,Undirected,1
+Karl,sidsf,Undirected,1
+Ketil,Mogens,Undirected,3
+Kristiane,Mogens Heinesen,Undirected,2
+Mogens Heinesen,Thorgeir,Undirected,1
+Ketil Gormsen,Mogens“,Undirected,1
+Ketil,sorn,Undirected,1
+Fugls,Mogens,Undirected,2
+Ketil trodsig,Mogens Heinesen,Undirected,1
+Ketil,Kristiane,Undirected,4
+Ketil Gormsen,Kristiane,Undirected,2
+Ketil Gormsen,Mogens,Undirected,1
+Gud,Kristiane,Undirected,1
+eil Seiler,hall,Undirected,1
+Ketil,hall,Undirected,1
+Magnus Heinesen,hall,Undirected,1
+Ketil,Mogens Heillesen,Undirected,1
+Mogens Heillesen,iland,Undirected,1
+iland,marr,Undirected,1
+iland inat,marr,Undirected,1
+Ketil Gormsen,iland inat,Undirected,1
+Heinesen,Ketil Gormsen,Undirected,2
+Heinesen,Ketil,Undirected,9
+Heinesen,sif,Undirected,3
+Ketil,iland,Undirected,2
+Ketil,Sone,Undirected,2
+Anker,Ketil,Undirected,1
+Anker,Heinesen,Undirected,1
+Heinesen,sine Baand,Undirected,2
+Heinesen,mili,Undirected,1
+Heinesen,Lin Skjælm,Undirected,1
+Lin Skjælm,leenve,Undirected,1
+Heinesen,leenve,Undirected,1
+Heinesen,Willia m,Undirected,1
+Heinesen,Thompson,Undirected,1
+Heinesen,Zolle,Undirected,1
+,Jonas,Undirected,1
+Heinesen,Jonas Mai bom,Undirected,3
+Heinesen,iland,Undirected,1
+Heinesen,untres,Undirected,1
+Anker,untres,Undirected,1
+Anker,Hein esc ns,Undirected,1
+Ketil Gørmsens,Kristiane,Undirected,1
+Heine se,Kristiane,Undirected,1
+Heine se,ns,Undirected,1
+Ketil,ns,Undirected,1
+Heinesen,Lehnsmand,Undirected,1
+Ketil Gormsen,blol,Undirected,1
+Heinesen,Samson,Undirected,2
+Ketil Gorm,ns,Undirected,1
+Heinesen,ns,Undirected,1
+Heinesen,Maren,Undirected,1
+Ketil,Maren,Undirected,1
+Ketil,Søren Laves,Undirected,1
+Mogens Heinesen,Søren Laves,Undirected,1
+Ketil,Ulrik,Undirected,1
+Jonas Mai bom,Ketil,Undirected,1
+Jonas,Mogens Heinesen,Undirected,1
+Jonas,Ketil,Undirected,5
+Ketil,Samson,Undirected,1
+Ketil,Mogens Heinesen,Undirected,2
+Mogens Heinesen,Ol,Undirected,1
+Ketil,Mogens Heinesens Mcend,Undirected,1
+Jonas,Jøvrigt,Undirected,1
+Jøvrigt,Ketil,Undirected,1
+Jonas,Maib,Undirected,1
+Ketil,Maib,Undirected,1
+Jonas,Ketil Gormsen,Undirected,2
+Hændies,Jonas,Undirected,1
+Jonas,Svino,Undirected,1
+Ketil Gormsen,Magnus Heinesen,Undirected,1
+Heinesen,Thørgeir,Undirected,1
+Rut,Thørgeir,Undirected,1
+Mo gens Heinesen,ane,Undirected,1
+Ketil,ane,Undirected,1
+Christoffer Walckendorff,Hans Lind,Undirected,1
+Hans Lind,Magnns,Undirected,1
+Christoffer Walckendorff,Kong Christian den Fjerdes,Undirected,1
+Hans Lindenow,Lindenow,Undirected,2
+Lindenow,Mogens Heinesen,Undirected,2
+Gud,Mogens Heinesen,Undirected,2
+franst,“,Undirected,1
+Lindenow,Magnus Heinesen,Undirected,2
+Heinesen,Lindenow,Undirected,6
+Lindenow,Niels Kaas,Undirected,1
+Gud,Niels Kaas,Undirected,1
+Dronning Elisabeths,Mogens,Undirected,1
+Dronning Elisabeths,Heinesen,Undirected,1
+Lerfor,Lindenow,Undirected,1
+Elisabeths,Magnus Heinesen,Undirected,2
+Jonas,Magnus Heinesen,Undirected,1
+Jonas,Santa John,Undirected,1
+Einar,Hesfs,Undirected,1
+Hans Lind,Heinesen,Undirected,1
+LEgfefalles,Mogens,Undirected,1
+Heinesen,Jon,Undirected,1
+Jon,Sarg,Undirected,1
+Lindenow,S anta,Undirected,1
+Jobn,S anta,Undirected,1
+Jobn,ban,Undirected,1
+Jon,ban,Undirected,1
+Jon,Lindenow,Undirected,1
+Frille,Ketil Gormsen,Undirected,1
+IWalckendorff,Lindenow,Undirected,1
+Doendes,Gud,Undirected,1
+Einar,Lindenow,Undirected,1
+Christoffer Walckendorff,Lindenow,Undirected,1
+Christoffer Walckendorff,Peder Munk,Undirected,1
+Anna,Peder Munk,Undirected,1
+Anna,Jacob,Undirected,1
+Jacob,Walckendorff,Undirected,1
+Lindenow,Walckendorff,Undirected,2
+Bryssel,Mogens Heinesen,Undirected,1
+Bryssel,ParmaS,Undirected,1
+Mogens Heinesen,ParmaS,Undirected,1
+Gud,Hans Lindenow,Undirected,1
+Mogens Heinesen,ZEre,Undirected,1
+Magnus Heinesen,ZEre,Undirected,1
+Gud,HansLindenow,Undirected,1
+Lindenow,høilig,Undirected,1
+Christoffer Walckendorff,dan,Undirected,1
+Kong Christian,Sophie Gyntelberg,Undirected,1
+Hans Lindenow,Kong Christian,Undirected,1

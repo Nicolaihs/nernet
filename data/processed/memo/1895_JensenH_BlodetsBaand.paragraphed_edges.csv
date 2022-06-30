@@ -1,0 +1,102 @@
+source,target,type,weight
+Flygelet,Kingos,Undirected,1
+Agnes,Provsten,Undirected,2
+Agnes,Krabbe,Undirected,1
+Agnes taug,Sonja Perowskaja,Undirected,1
+Agnes,Sonja Perowskaja,Undirected,1
+Agnes,Edvard,Undirected,42
+Agnes,lille Agnes,Undirected,1
+Agnes,Mathilde,Undirected,41
+Agnes,Farbror,Undirected,2
+Agnes’,Lasson,Undirected,1
+Lasson,Mathilde,Undirected,1
+Frøken Paludan,Mathilde,Undirected,2
+Ebba,Ebba v. Lasson,Undirected,1
+Ebba,Mathilde,Undirected,18
+Ebba,Stupigen,Undirected,1
+Amalie,Stupigen,Undirected,1
+Agnes,Ebba,Undirected,38
+Agnes,v. Lassons,Undirected,1
+Amalie,Frøken Dahl,Undirected,1
+Amalie,Ebba,Undirected,3
+Holst,Peter Christian Holst,Undirected,1
+Mathilde,Uraad,Undirected,1
+Agnes,Uraad,Undirected,1
+Mathilde,Smith,Undirected,3
+Frøken Palu-,dan,Undirected,1
+Agnes,Holst,Undirected,3
+Holst,Mathilde,Undirected,2
+Dahl,Mathilde,Undirected,1
+Agnes,Dahl,Undirected,1
+Ebba,Smith,Undirected,1
+Agnes,Valdemar,Undirected,73
+Mathilde,Valdemar,Undirected,31
+Agnes,Lasson,Undirected,2
+Edvard,Mathilde,Undirected,1
+Agnes,j Edvard,Undirected,1
+Valdemar,j Edvard,Undirected,1
+Ebba,v. Lasson,Undirected,1
+Agnes,Poulsen,Undirected,2
+Valdemar,z,Undirected,2
+Absalon,Davids,Undirected,1
+Absalon,Valdemar,Undirected,1
+Moses,Valdemar,Undirected,5
+Agnes,Graad,Undirected,2
+Graad,Valdemar,Undirected,1
+Provst Paludan,Valdemar,Undirected,2
+Gud,Valdemar,Undirected,3
+Agnes,Svend,Undirected,1
+Mathilde,Provst Paludan,Undirected,1
+Agnes,paany,Undirected,1
+Agnes,F ruen,Undirected,1
+Bang,Valdemar,Undirected,1
+Agnes,IO,Undirected,1
+Moses,Provsten,Undirected,1
+Dronning Louises,Valdemar,Undirected,1
+Edvard,Valdemar,Undirected,21
+Jasaa,jasaa,Undirected,1
+Agnes,jasaa,Undirected,1
+Edvard,Jasaa,Undirected,2
+Edvard,Provsten,Undirected,1
+Provsten,Valdemar,Undirected,2
+Agnes,Paulus,Undirected,1
+Agnes,Jasaa,Undirected,1
+Lazarus,Valdemar,Undirected,1
+-Edvard,Valdemar,Undirected,1
+Ebba,Valdemar,Undirected,8
+Ebba,Edvard,Undirected,7
+Dr. Paludans,Ebba,Undirected,1
+Valdemar,strængt,Undirected,1
+Ebba,Kong Christian,Undirected,1
+Ebba,Edvard strængt,Undirected,1
+Grevinden,Mathilde,Undirected,1
+Agnes,Grevinden,Undirected,1
+Grevinden,Madam Abildgaard,Undirected,1
+Agnes,Madam Abildgaard,Undirected,7
+Agnes,Ludvig Munk,Undirected,2
+Ellen Marsvin,Ludvig Munk,Undirected,2
+Ellen Marsvin,Valdemar,Undirected,1
+Valdemar,Vams,Undirected,1
+Ellen Marsvin,Vams,Undirected,1
+Ellen Marsvin,Kristine Munk,Undirected,1
+Agnes,Kristine Munk,Undirected,1
+Agnes,Ellen Marsvin,Undirected,1
+Greven,Madam Abildgaard,Undirected,1
+Greven,Karlekammer,Undirected,1
+Gud,Morten,Undirected,1
+Morten,Morten Kusk,Undirected,1
+Gregers Krabbe,Madam Abildgaard,Undirected,1
+Edvard,v. Lasson,Undirected,2
+Agnes,Morten,Undirected,5
+Agnes,Gud,Undirected,2
+Edvard,Morten,Undirected,1
+Adam,Eva,Undirected,1
+Agnes,Eva,Undirected,1
+Bang,Mathilde,Undirected,1
+Agnes,Jagu,Undirected,1
+Agnes,Bang,Undirected,1
+Agnes,Jesu,Undirected,3
+Gud,Jesu,Undirected,3
+Jesu,Maria,Undirected,1
+Agnes,Golgatha,Undirected,1
+Agnes,Paludan,Undirected,1

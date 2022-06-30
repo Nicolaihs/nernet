@@ -1,0 +1,547 @@
+source,target,type,weight
+Brandt,Junker Brandt,Undirected,1
+Junker Brandt,sladig,Undirected,1
+lin,sladig,Undirected,1
+Greven,Sliske,Undirected,1
+Brandt,as,Undirected,2
+Brandt,Oxen,Undirected,1
+Heida,Kelner,Undirected,1
+Brandt,Cæsar,Undirected,1
+Brandt,Struense,Undirected,6
+Brandt,Hofnar,Undirected,1
+Struense,øg,Undirected,1
+øg,øg Brandt,Undirected,1
+Bjelder,Struense,Undirected,1
+Brandt,Bravo,Undirected,1
+Emilie,Rankzau,Undirected,2
+Struense,ester,Undirected,1
+Christian den,Frederik den,Undirected,1
+Christian den Syvende,Holk,Undirected,1
+Holk,Juliane Marie,Undirected,1
+Juliane Marie,Kong Frederik den Femtes,Undirected,1
+Juliane Marie,Mathilde,Undirected,5
+Amalie Thot,Grev Rankzau,Undirected,1
+Dronning Mathildes,Grev Rankzau,Undirected,1
+Dronning Mathildes,Grev Holks,Undirected,1
+Conferentsraad Struense,Grev Holks,Undirected,1
+Bernsforff,Conferentsraad Struense,Undirected,1
+Rantzau,skaan mig,Undirected,1
+Brandt,skaan mig,Undirected,1
+Brandt,Øder,Undirected,1
+Brandt,Obersfen,Undirected,2
+Obersfen,as,Undirected,1
+Amalie Thott,Obersfen,Undirected,1
+Rankzau,von Piessen,Undirected,1
+Speilet,von Piessen,Undirected,1
+Obersfen,Pahlen,Undirected,1
+de Plaisir,farsk,Undirected,1
+Brandt,Rantzau,Undirected,3
+Bernstorff,Guldberg,Undirected,1
+Guldberg,Otto Thott,Undirected,2
+Otto Thott,Schimmelmann,Undirected,5
+Caroline,Schimmelmann,Undirected,1
+Livmedikus Struense,Struense,Undirected,1
+Struense,Thott,Undirected,1
+Caroline Mathilde,Thott,Undirected,1
+Brandt,Caroline Mathilde,Undirected,1
+Caroline Mathilde,Frederik den,Undirected,1
+Caroline Mathilde,Struense,Undirected,5
+Struense,hnn,Undirected,1
+bersves,hnn,Undirected,1
+Domino,Schak,Undirected,1
+Struense,allehaande,Undirected,1
+Bernstorff borr,Brandt,Undirected,1
+Portefeuille,Struense,Undirected,1
+Brandt,Kongen,Undirected,1
+Julianes,Struense,Undirected,1
+Mathilde,Struense,Undirected,1
+Guds,Struense,Undirected,1
+Guds,nei,Undirected,1
+Bernstorff,Brandt,Undirected,1
+Bernstorff,Struense,Undirected,4
+Keraus,Struense,Undirected,1
+Brandt,Keraus,Undirected,1
+Hr. Greve,Methusalem,Undirected,1
+Keiser,Poul den 3dies,Undirected,1
+Keiser,Ruslavd,Undirected,1
+Lybek,Peter den,Undirected,1
+Bernstorff,Peter den,Undirected,1
+Struense,Struensee,Undirected,1
+Grev Bernstorff,Ikkun,Undirected,1
+Brandt,Struensee,Undirected,31
+Bernstorff,Struensee,Undirected,1
+Caroline Mathilde,Struensee,Undirected,3
+Caroline Mathilde,Rankzau,Undirected,1
+Juliane Marie,Rankzau,Undirected,3
+Christians,Struensee,Undirected,1
+Comtessen,Struensee,Undirected,1
+Christian,Frederik,Undirected,4
+Christian,Struensee,Undirected,1
+Brandt,Christian,Undirected,1
+Christian,Mathilde,Undirected,4
+Juliane Marie,jø,Undirected,1
+Struensee,ef af disse Menneskebjerge,Undirected,1
+Struensee,al Mathilde,Undirected,1
+Piinsler,bæve,Undirected,1
+Struensee,bæve,Undirected,1
+Brandt,Cathrine,Undirected,1
+Cour,Struensee,Undirected,1
+Mathilde,Struensee,Undirected,8
+Henrici,Schimmelmann,Undirected,1
+Bernstorff,Thott,Undirected,1
+Schak-Rathlau,Schimmelmann,Undirected,2
+Guldberg,Struensee,Undirected,8
+Schimmelmann,lee,Undirected,1
+Otto Thott,lee,Undirected,1
+Guldberg,Øoer,Undirected,1
+Guldberg,Øder,Undirected,1
+Schimmelmann,Strnensee,Undirected,1
+Otto Thot,Strnensee,Undirected,1
+Grev Thott,Schimmelmann,Undirected,1
+Schak-Rathlau,Schimm^lmann,Undirected,1
+Grev Struensee,Schak-Rathlau,Undirected,1
+Hr. Greve,Nei,Undirected,1
+D ,Rathlan,Undirected,1
+Gud,høilys,Undirected,1
+Grev Rathlau,Otto Thott,Undirected,1
+Grev Rathlau,Schimmelmann,Undirected,1
+Schimmelmann,ester Skjøn,Undirected,1
+Rantzau,ester Skjøn,Undirected,1
+Oldermænd,Rantzau,Undirected,1
+Henrice,Oldermænd,Undirected,1
+Friseur,Henrice,Undirected,1
+Struensee,Øder,Undirected,2
+KronprindsNok,Struensee,Undirected,1
+KronprindsNok,Øder,Undirected,1
+Guldberg,Skruensee,Undirected,1
+Geheimeraad,Struensee,Undirected,1
+Gud,Otto Thott,Undirected,1
+Amalie Thott,Otto Thott,Undirected,1
+Otto,Struensee,Undirected,1
+Asten,Thott hvidske,Undirected,1
+Rathlaus,Struensee,Undirected,1
+Grev Schimmelmann,Struenjees,Undirected,1
+Rathlou,SchimmelmannS,Undirected,1
+Grev Schimmelmann,Struensee,Undirected,1
+Henrici,Struensee,Undirected,5
+Chor,Henrici,Undirected,1
+Struense,lee,Undirected,1
+Gud,lee,Undirected,1
+Mester Henrici,Struensee,Undirected,1
+kenst Du mir nicht,meiner Seele,Undirected,1
+Johann,kenst Du mir nicht,Undirected,1
+Warte,warte,Undirected,1
+Mathilde,Steen,Undirected,1
+Graad,Struensee,Undirected,1
+Halle,Tobbi,Undirected,1
+Bernstorff,Schimmelmann,Undirected,1
+Gud,Henrici,Undirected,1
+Karl,Øder,Undirected,1
+Amalie,hvarlor,Undirected,1
+Thott,Øe,Undirected,1
+Amalie Thott,Struensee,Undirected,1
+Buur,Struensee,Undirected,1
+Gud,Struensee,Undirected,7
+Juliane Marie,Struensee,Undirected,6
+Gud,Juliane Marie,Undirected,1
+Gud,jø,Undirected,1
+Lee,Taffeluhrs,Undirected,1
+Steen,Struensee,Undirected,1
+Brandt,Steen,Undirected,1
+Rankzau,Struensee,Undirected,1
+Juliane,Struensee,Undirected,5
+Rankzau-Ascheberg,Struensee,Undirected,3
+Geheimeministeren,Hans Excellence,Undirected,1
+Brandt,Falkenskjold,Undirected,2
+Falkenskjold,Struensee,Undirected,2
+Bonmots,Brandt,Undirected,1
+Bonmots,Falkenskjold,Undirected,1
+Brandt,iveien,Undirected,1
+Rumohr,Struensee,Undirected,1
+Rantzau-Ascheberg,RantzauAscheberg,Undirected,1
+RantzauAscheberg,StruenseeS,Undirected,1
+Guldberg,StruenseeS,Undirected,1
+Guldberg,Jessen,Undirected,3
+Frederik den,Jessen,Undirected,1
+Jessen,Struensee,Undirected,1
+Rantzau-Ascheberg,Struensee,Undirected,4
+Broder,Struensee,Undirected,1
+Grev Rankzau,Nei,Undirected,1
+Nei,nei Rantzau,Undirected,1
+Struensee,lee,Undirected,1
+Grev Rantzu,Øe,Undirected,1
+Rantzau Aschebergs,Struensee,Undirected,1
+Comtesse Thott,Jacob,Undirected,1
+Ester,Rantzau-Mcheberg Struensee,Undirected,1
+Hnn,umpher,Undirected,1
+Struensee,Zoega,Undirected,1
+Struensee,øg Brandt,Undirected,1
+Holger,Oretunge,Undirected,1
+Brandt,Skaal,Undirected,1
+Brandt,Christian den Syvende,Undirected,1
+Brandt,mas,Undirected,1
+Grev Brandt,Gud,Undirected,1
+Grev Brandt,Piberdrengms,Undirected,1
+Frederik,Mathilde,Undirected,5
+Frederik,taus,Undirected,1
+Augusta,Frederik,Undirected,1
+Christian,Gud,Undirected,2
+Madam,eun,Undirected,1
+Grev Struensee,Gud,Undirected,1
+Grev Struensee,Mathilde,Undirected,1
+Madame,Mathilde,Undirected,1
+Dronning Mathilde,Juliane Marie,Undirected,2
+Juliane Marie,Køngen,Undirected,1
+Køngen,Mathilde,Undirected,1
+Mama,Struensee,Undirected,1
+Mathilde,Nei,Undirected,1
+Mathilde,Strucnsees,Undirected,1
+Dpren,Strucnsees,Undirected,1
+Amalie Thott,Juliane,Undirected,1
+Christian,Liese,Undirected,1
+Frederik,Gud,Undirected,3
+Di,Gud,Undirected,1
+Brandt,Juliane Marias,Undirected,1
+Gud,Mathilde,Undirected,4
+Mathilde,lin,Undirected,1
+Guldberg,lin,Undirected,1
+Guldberg,Schack Rathlau,Undirected,1
+Schack Rathlau,Schimmclmann,Undirected,1
+Schimmclmann,Thott,Undirected,1
+Kronprinds Frederik,Thott,Undirected,1
+JeSsenS,Rankzau-Ascheberg,Undirected,1
+Guldberg,Rankzau-Ascheberg,Undirected,3
+Beringskjold,Guldberg,Undirected,1
+Beringskjold,Gneral Eichftcdt,Undirected,1
+Gneral Eichftcdt,Køller,Undirected,1
+Eichstedts,Køller,Undirected,2
+Guldberg,Køller,Undirected,2
+Eistedt,Rankzau-Ascheberg,Undirected,1
+Eistedt,Køller,Undirected,1
+Jessen,Rankzau-Ascheberg,Undirected,1
+Juslitsraad,Rankzau-Ascheberg,Undirected,1
+Juslitsraad,Struensee,Undirected,1
+Brandt,Mathilde,Undirected,3
+Hnn,Mathilde,Undirected,1
+Brandt,Hnn,Undirected,1
+Brandt,Daniel,Undirected,1
+Brigel,as Rantzau-Ascheberg,Undirected,1
+Schak Rathlau,as Rantzau-Ascheberg,Undirected,1
+Guldberg,Schak Rathlau,Undirected,1
+Guldberg,Henricv,Undirected,1
+Henricv,Mathilde,Undirected,1
+Domino,Mathilde,Undirected,1
+Sire,Vl,Undirected,1
+Vl,haml,Undirected,1
+Brandt,haml,Undirected,1
+Eders,Gud,Undirected,1
+Brandt,Sire,Undirected,1
+Sire,Struensee,Undirected,1
+Guldberg,Rantzau,Undirected,7
+Frederik,Struensee,Undirected,3
+Mathilde,froe,Undirected,1
+Mathilde,Strucnsee,Undirected,1
+Guldberg,Juliane,Undirected,4
+Juliane,Struenseel,Undirected,1
+Christian,miz,Undirected,1
+Brandt,Gud,Undirected,3
+Gud,dal,Undirected,1
+dal,def,Undirected,1
+Guldberg,Juliane Marie,Undirected,9
+Guldberg,def,Undirected,1
+Cathrine,def,Undirected,1
+Cathrine,Mathilde,Undirected,1
+Halloi,Mathilde,Undirected,1
+Christian,Thømas,Undirected,1
+Thomas,slille,Undirected,1
+Guldberg,Rantzau-Ascheberg,Undirected,1
+Domino,Struensee,Undirected,1
+Eichstedt,Jessen,Undirected,1
+Eichstedt,Struense,Undirected,2
+Struensee,hanHuus,Undirected,1
+Christian,Johan Frederik Struensee,Undirected,1
+B-ehold,Guldberg,Undirected,1
+Chrislian Rex,Struensee,Undirected,1
+Guldberg,dersll,Undirected,1
+Dronning Mathilde,Juliane,Undirected,2
+Ranfzau,Struensee,Undirected,2
+Exellence,Rankzau,Undirected,1
+Juliane,Marie,Undirected,1
+Grev Rankzau,Kronprindsens,Undirected,1
+Grev Rankzau,Guldberg,Undirected,1
+Grev Thott,Guldberg,Undirected,1
+Dronning Mathilde,Guldberg,Undirected,2
+Dronning Mathilde,Struensee,Undirected,3
+Caroline Mathilde,sesse,Undirected,1
+Grev Struensee,Thronarving,Undirected,1
+Eichstedt,Struensee,Undirected,3
+Eichstedt,Mau,Undirected,1
+Eichstedt,Slruensee,Undirected,1
+Slruensee,Struensee,Undirected,1
+Struensee,ester,Undirected,2
+Juliane Marie,ester,Undirected,2
+Caroline Mathilde,Juliane Marie,Undirected,1
+Struensee,l,Undirected,1
+Rantzau,Struensee,Undirected,2
+Kronprindsen,Mathilde,Undirected,2
+Guldberg,Mathilde,Undirected,3
+Mester Struensee,Rantzau,Undirected,1
+Guldberg,Kronprinda Frederik,Undirected,1
+Caroline Mathilde,Corfitz Uldfeld,Undirected,1
+Caroline Mathilde,Dan«,Undirected,1
+Caroline Mathilde,mark,Undirected,1
+Grev Brandt,Struensee,Undirected,2
+Bonmots,Enevold Brandt,Undirected,1
+Bonmots,Struensee,Undirected,1
+Domino,ed Guldberg,Undirected,1
+Rantzau,ed Guldberg,Undirected,1
+Brandt,l,Undirected,2
+Brandt,Uhr,Undirected,1
+Schak-Rathlan,Uhr,Undirected,1
+Rathlan,Schak-Rathlan,Undirected,1
+Brandt,Rathlan,Undirected,2
+Brandt,RathlauS,Undirected,1
+Grev Brandt,Hr. Greve,Undirected,2
+Brandt,Rathlau,Undirected,14
+Brandt,Hr. Greve,Undirected,1
+Frantz den,Struensee,Undirected,1
+Rathlau,Struensee,Undirected,2
+Rathlau,Strnensee,Undirected,1
+Brandt,Grev Rathlau,Undirected,3
+Brandt,Nik,Undirected,1
+Brandt,ove fin ege,Undirected,2
+Brandt,Marv,Undirected,2
+Honneur,Nathlau,Undirected,1
+Brandt,Ratblau,Undirected,1
+Mathed,Struensee,Undirected,1
+Brandt,Mathed,Undirected,1
+Brandt zittrcde,Struensee,Undirected,2
+Brandt,Rathlan taust,Undirected,1
+Rathlan,Rathlan taust,Undirected,1
+Struensee,Wolfert,Undirected,2
+Brandt,Wolfert,Undirected,1
+Guldberg,Wolfert,Undirected,1
+Guldberg,Rathlau,Undirected,1
+RathlauS,Struensee,Undirected,1
+Augustinus,Struensee,Undirected,1
+Brandt,Juliane,Undirected,2
+Caroline,Struensee,Undirected,1
+Caroline,Mathilde,Undirected,1
+Brandt,Dokter,Undirected,1
+Dokter,Struensee,Undirected,1
+Rathlau,Wolfert,Undirected,1
+Gud,Køller,Undirected,1
+Gud,Koller,Undirected,1
+Keller,Rankzau,Undirected,1
+Greven,ester,Undirected,1
+Struensee,øg Guldberg,Undirected,1
+Guldberg,ester Struensee,Undirected,1
+Sladderkjerlinz,Vaas,Undirected,1
+Juliane Marie,Kronprindsen,Undirected,2
+Guldberg,bie,Undirected,1
+Frederik,Traad,Undirected,1
+Guldberg,Kronprindsen,Undirected,7
+Guldberg,feil,Undirected,1
+Brandt,muntrrste,Undirected,1
+Mathilde,muntrrste,Undirected,1
+Juliane Marie,hnn,Undirected,1
+Køller,Rantzau,Undirected,1
+Gud,Rantzau,Undirected,1
+Jnliane Marie,Prindsen,Undirected,1
+Frederik,Jnliane Marie,Undirected,1
+Juliane,Rankzau,Undirected,1
+Køller,Rankzau,Undirected,1
+Grev Rankzau,Køller,Undirected,1
+Køller,v. Osten,Undirected,1
+Caroline Mathilde,v. Osten,Undirected,1
+Brandt,Grev Schak-Rathlaus,Undirected,2
+Stiuenscee,Struensee,Undirected,2
+Struensee,lunde,Undirected,1
+Ivriur,Juliane Marie,Undirected,1
+Kraff,lon tanfes,Undirected,1
+Marter,lon tanfes,Undirected,1
+Caroline Mathilde,b,Undirected,1
+b,esterstrive,Undirected,1
+Struensee,esterstrive,Undirected,1
+Himlm,Struensee,Undirected,1
+Gud,Himlm,Undirected,1
+Johan Friederich Struensee,Lnevøld Brandt,Undirected,1
+Lnevøld Brandt,hannem,Undirected,1
+. G.,I. K. Juell-Wind,Undirected,1
+. G.,A. Braëm. H. Stampe,Undirected,1
+A. G. Carstens,Luxdorph,Undirected,1
+A. G. Carstens,Kofod Ancher,Undirected,1
+F. C. Sevel,I. E. Schmidt,Undirected,1
+F. C. Sevel,Ø. Guldberg,Undirected,1
+Munter,Struensee,Undirected,1
+Sirueniees,Uldal,Undirected,1
+Struensee,Uldal,Undirected,2
+Mynster,Struensee,Undirected,6
+Mynster,Uldal,Undirected,1
+Mynster,dale,Undirected,1
+Mynster,ril,Undirected,1
+Gud,Mynster,Undirected,2
+Gud,hiin Engel,Undirected,1
+Mynster,hiin Engel,Undirected,1
+Dut,Struensee,Undirected,1
+Dut,telse,Undirected,1
+Dif,Golgatha,Undirected,1
+Golgatha,Mynster,Undirected,1
+Msstring,hnn,Undirected,1
+Brandt,Guldberg,Undirected,1
+Brandt,Mynster,Undirected,1
+Juliane,ttltrods,Undirected,1
+Mynster,ttltrods,Undirected,1
+Mynster,ester,Undirected,1
+Georg,Mathilde,Undirected,1
+Briegrl,Kong Christian,Undirected,1
+Briegrl,Caroline Mathilde,Undirected,1
+hnn,øg,Undirected,1
+Guldberg,Gusmann,Undirected,2
+Guldberg,ben tro Gusman,Undirected,1
+Juliane,Mathilde,Undirected,6
+Guldberg,Meo,Undirected,1
+Gud,Juliane,Undirected,2
+Juliane,eg,Undirected,1
+Gud,Struense,Undirected,1
+Guldbcrg,Guldberg,Undirected,1
+Guldbcrg,Mathilde,Undirected,1
+Gud,Gusmann,Undirected,2
+Gud,Guldberg,Undirected,1
+Caroline Mathilde,Christian den,Undirected,1
+Caroline Mathilde,Lørd Robert Keiths,Undirected,1
+Georg,Lørd Robert Keiths,Undirected,1
+Juliane Marie,ilke,Undirected,1
+hnn,huu,Undirected,2
+Georg,hnn,Undirected,1
+Caroline Mathilde,Robert Keith,Undirected,1
+Frøken Møsting,Holstein,Undirected,1
+Frøken Møsting,Raben,Undirected,1
+Lord Keith,Raben,Undirected,1
+Fregat,Marschal Biilov,Undirected,1
+Holstein,Marschal Biilov,Undirected,1
+Charlotte,Mathilde,Undirected,1
+Charlotte,Juliane,Undirected,1
+Guldberg,Ranzas,Undirected,1
+Aøller,Ranzas,Undirected,1
+Aøller,Struensee,Undirected,1
+Jesus,Maria,Undirected,1
+Charlotte,Maria,Undirected,1
+Bilow,Charlotte,Undirected,1
+Frederik,GuSmann,Undirected,1
+Gusmann,rakfe,Undirected,1
+Gusmann,sliv,Undirected,1
+Gusmann,Hml,Undirected,1
+Asscheberg sorviist,Ranzau Asscheberg,Undirected,1
+Hutmann,Stampe,Undirected,1
+Guldberg slod,Juliane,Undirected,1
+Krouprindsens,siig,Undirected,1
+Jakob,Juliane,Undirected,2
+Bernstorff,Juliane,Undirected,1
+Dronning Caroline Mathildes,Juliane,Undirected,1
+Bisf,Juliane,Undirected,1
+Mathilde,Sandhen,Undirected,1
+Grev Schimmelmann,Mathilde,Undirected,1
+Juliane,thilde,Undirected,1
+Albert,Mathilde,Undirected,1
+Mr. Wryth,hnn,Undirected,1
+Gusmann,hnn,Undirected,1
+Mathilde,huul,Undirected,1
+Albert,Page,Undirected,1
+Albert,Frederik,Undirected,1
+Albert,bm,Undirected,1
+Albert,Wryth,Undirected,1
+Gud,Wryth,Undirected,1
+Gud,Steinlænder,Undirected,1
+Charlotte,Hnn,Undirected,1
+Charlotte,Steinlænder,Undirected,1
+Charlotle,Steinlænder,Undirected,1
+Steinlænder,leilighcdsviis,Undirected,1
+Mr. Wryth,Steinlænder,Undirected,1
+Mr. Wryth,turd,Undirected,1
+Gud,ester,Undirected,1
+Charlotte,Mr. Wryth,Undirected,1
+Mr. Wryth,Steen,Undirected,1
+Mr. Wrhth,nn,Undirected,2
+Dronning Mathilde,Kronprindsen,Undirected,1
+Frederik den,Mathilde,Undirected,1
+Juliane,bergske,Undirected,1
+GuldbergL,hans Birken,Undirected,1
+GuldbergL,Kronprindsen,Undirected,1
+Juliane,v. Eichstedt,Undirected,1
+Juliane,Kronprindsen,Undirected,1
+Frederik,Frederik Maanen,Undirected,1
+Bent,estersaa,Undirected,1
+Slangenbusch,estersaa,Undirected,1
+Kronprindsen,frods,Undirected,1
+Guldberg,Taffel,Undirected,1
+Eichsteds,Guldberg,Undirected,1
+,Prinds,Undirected,1
+,Aarer,Undirected,1
+Kronprindsen,Slangenbusch,Undirected,3
+Eickstedt,Slangenbusch,Undirected,1
+Eickstedt,t,Undirected,1
+Ecckstedt,t,Undirected,1
+Eicksledt,Slangenbusch,Undirected,2
+Eicksledt,Prindsen taug,Undirected,1
+Eicksledt,Guldberg,Undirected,1
+Eichstedt,Prindsen,Undirected,2
+Eicksledt,Kronprindsen,Undirected,1
+Eickstedt,Guldberg,Undirected,1
+Huth,Slangenbusch,Undirected,2
+Revcntlau,Schak,Undirected,1
+Moltke,Schak,Undirected,1
+Moltke,Stampe,Undirected,1
+Bernstorff,Stampe,Undirected,3
+,Slangenbusch,Undirected,1
+Dei es,Guldberg,Undirected,1
+Dei es,Juliane,Undirected,1
+Marchal,Prindsen,Undirected,1
+Eichstedt,Marchal,Undirected,1
+Eichstedt,Oberhofmester,Undirected,1
+Geheimeraad,Oberhofmester,Undirected,1
+Gud,Huth,Undirected,1
+Huth,Reventlan,Undirected,1
+Bernstorff,Reventlan,Undirected,1
+Slangenbusch,Stampe,Undirected,1
+Cathrine,tg,Undirected,1
+Huth Leilighed,Slangenbusch,Undirected,1
+Gud,Prinds l,Undirected,1
+Gud,flee,Undirected,1
+Kronprindsen,Overhofmarschal Schak,Undirected,1
+Schack,haardt,Undirected,1
+Kronprindsen,Møskings,Undirected,1
+Frederik,Kronprindsen,Undirected,2
+Moltre,Stemann,Undirected,1
+Guldberg,Stemann,Undirected,1
+Gud,Kronprindsen,Undirected,1
+Schack,j,Undirected,1
+Møstings,kronprindsen,Undirected,1
+Caroline Mathilde,Juliane,Undirected,1
+Frederik den 2den,Kronprindsen,Undirected,1
+Juliane,knnde,Undirected,2
+Geheimeraad Stampes,Prindsen,Undirected,1
+Juliane,Pande,Undirected,1
+Geheimeraad,Geheimeraad Rosenkran,Undirected,1
+Geheimeraad,Grev Bernsdorfs,Undirected,1
+Grev Bernsdorfs,Huth,Undirected,1
+Geheimeraad Stampe,Huth,Undirected,1
+Huth,Numsen,Undirected,1
+Kronprindsen,prindsen,Undirected,1
+Rumfen,ax,Undirected,1
+Huth,Kronprindsen,Undirected,1
+Kronprindsen,Køngen,Undirected,1
+Huth,Kong n,Undirected,1
+Huth,befandf,Undirected,1
+Neventlau,befandf,Undirected,1
+Bcrnsdorff,Neventlau,Undirected,1
+Juliane Marie,hare,Undirected,1
+Kronprindsen,Thron,Undirected,1
+Juliane Marie,ag,Undirected,1
+Kronprindsen,ag,Undirected,1
+Frederik,Saar,Undirected,2
+Frederik,esfer,Undirected,1
+Eickstedt,Rosenkrantz,Undirected,1
+Bernsdorff,Guldberg,Undirected,1
+Carls,Prindsesse Marie,Undirected,1
+Grev Struense,Gud,Undirected,1

@@ -1,0 +1,15 @@
+Id,Polarity,Polarity_normalized,Polarity_sentence,Polarity_sentence_normalized,Connections,Connections_normalized,Interactions,Interactions_normalized,Degree,Degree_normalized,Centrality,Centrality_normalized,Betweenness,Betweenness_normalized
+Tyli,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Vilhelm Tells,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Jesper Ridefoged,0,0,0,0,2,1.0,2,0.33,2,1.0,0.6,1.0,0.03,1.0
+j,0,0,0,0,1,0.0,1,0.0,1,0.0,0.37,0.62,0.0,0.0
+p,0,0,0,0,2,1.0,2,0.33,2,1.0,0.6,1.0,0.03,1.0
+Rasmus Bergs,0,0,0,0,1,0.0,1,0.0,1,0.0,0.37,0.62,0.0,0.0
+Hegels,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Hejberg fornam,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Alexander,0,0,0,0,1,0.0,4,1.0,1,0.0,0.0,0.0,0.0,0.0
+Diogenes,0,0,0,0,1,0.0,4,1.0,1,0.0,0.0,0.0,0.0,0.0
+Per,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Povl,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Ein’,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+ein,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0

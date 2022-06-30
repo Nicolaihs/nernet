@@ -1,0 +1,106 @@
+source,target,type,weight
+Jens Tapdrup,Knud Taars,Undirected,1
+Jens Tapdrup,Pylle,Undirected,1
+Knud,Pylle,Undirected,38
+Pyile,Pylle,Undirected,2
+Knud,Pyile,Undirected,1
+Egil,Eigil Holmer,Undirected,1
+Holmer,Knud,Undirected,1
+Eigil,Knud,Undirected,33
+Asta Gormsen,Knud,Undirected,1
+Asta,Knud,Undirected,57
+Pylle,Vanning,Undirected,2
+Knud,Vanning,Undirected,2
+Eigil,Pylle,Undirected,19
+Asta,Eigil,Undirected,30
+Knud,paany,Undirected,2
+Eigil,Selmann,Undirected,4
+Eigil,Thomsen,Undirected,16
+Eigil,Hr. Holmer,Undirected,1
+Eigil,Frøken Lynov,Undirected,5
+Frøken Lynov,Thomsen,Undirected,2
+Frøken Lynov,Lynov,Undirected,1
+Lynov,Molly,Undirected,1
+L’,Molly,Undirected,1
+L’,Thomsen,Undirected,3
+Eigil,Molly,Undirected,32
+Thomsen,hartad,Undirected,1
+Eigil,hartad,Undirected,1
+Asta,Pylle,Undirected,15
+Knud,Thomsen,Undirected,3
+Selmann,Thomsen,Undirected,1
+Eigil,paany,Undirected,1
+Sebaldsen,Sebaldsens,Undirected,1
+Eigil,Es,Undirected,1
+Eigil,Sebaldsen,Undirected,1
+Asta Gormsen,Pylle,Undirected,1
+Asta Gormsen,Eigil,Undirected,1
+Egil,Knud,Undirected,2
+Eigil,Guds,Undirected,1
+Molly,Thomsen,Undirected,1
+Frøken Lynov,Karl,Undirected,1
+Eigil,Henrik Ibsens,Undirected,2
+Carl Møller,Henrik Ibsens,Undirected,1
+Eigil,Fincke,Undirected,3
+Knud,Tarlatan,Undirected,1
+Pylle,Thomsen,Undirected,1
+Frøken Johansen,Pylle,Undirected,1
+Fincke,Thomsen,Undirected,1
+Sifon,Thomsen,Undirected,1
+Pylle,Sifon,Undirected,1
+Eigil,Graaden,Undirected,1
+Holmer,Molly,Undirected,1
+Etatsraad Selmanns,Molly,Undirected,1
+Eigil,Schopenhauer,Undirected,1
+Hr. Taars,s,Undirected,1
+Hr. Taars,Knud,Undirected,1
+Asta,Molly,Undirected,4
+Hr. Holmer,Knud,Undirected,1
+Madam Olsen,Olsen,Undirected,4
+Eigil,L’,Undirected,1
+Eigil Filippine,Thomsen,Undirected,1
+Lynov,Rasmussen,Undirected,2
+Mo,Molly,Undirected,1
+Molly,Mo’,Undirected,1
+Fa,Molly,Undirected,1
+Gud,Molly,Undirected,2
+Molly,Olsen,Undirected,10
+Harder,Olsen,Undirected,8
+Adam,Olsen,Undirected,1
+Adam,Eva,Undirected,1
+Karl,Olsen,Undirected,1
+Frøken Selmann,Madam Olsen,Undirected,1
+Gud,Harder,Undirected,3
+Madam Olsen,Molly,Undirected,1
+Harder,Molly,Undirected,14
+Harder,Marie,Undirected,2
+Frøken Lynov,Molly,Undirected,1
+Frøken Lynov,Harder,Undirected,3
+Frøken Lynov,Hr. Harder,Undirected,1
+Frøken Lynov,Olsen,Undirected,1
+Eigil,Harder,Undirected,14
+Asta,Hans,Undirected,1
+Eigil,Toilette,Undirected,1
+Knud,Toilette,Undirected,1
+Knud,Knud —,Undirected,1
+Buk,Eigil,Undirected,1
+Buk,Genhlisen,Undirected,1
+Frue,Knud,Undirected,2
+Harder,Knud,Undirected,1
+Gudbevares,gudbevares,Undirected,1
+Harder,Selmann,Undirected,1
+Eigil,Olsen,Undirected,6
+Eigil,lille Molly,Undirected,1
+Barnegraad,Olsen,Undirected,1
+Moll,Olsen,Undirected,1
+Molly,Stella Hiller,Undirected,1
+Stella,Stella Hiller,Undirected,1
+Knud,Madam Jensen,Undirected,3
+Madam Jensen,Pylle,Undirected,2
+Asta,Madam Jensen,Undirected,1
+Asta,Knud ret,Undirected,2
+Eigil,Iver,Undirected,1
+,Molly,Undirected,1
+Eigil,Graad,Undirected,1
+Knud Taars,Taars,Undirected,1
+Eigil,Eigil Holmer,Undirected,1

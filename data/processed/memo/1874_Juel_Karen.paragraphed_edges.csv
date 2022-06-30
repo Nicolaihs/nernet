@@ -1,0 +1,138 @@
+source,target,type,weight
+Frøken Theben,Stella,Undirected,1
+Frøken Theden,Karen,Undirected,1
+Lille Karen,Stella,Undirected,1
+Hr. Eilersen,Stella,Undirected,2
+Karen,Stella,Undirected,12
+Stella,jø,Undirected,1
+Hr. Eilersen,Karen,Undirected,2
+Elise,Gud,Undirected,1
+Karen,lille Karen,Undirected,5
+Frøken H.,ril,Undirected,1
+Frøken H.,Tønte Stella,Undirected,1
+Søren,Tanle Srella,Undirected,1
+Len,Stella,Undirected,1
+Dorthe,Stella,Undirected,1
+Stella,Søren,Undirected,2
+Stella,betids,Undirected,1
+Kjærs,betids,Undirected,1
+Kjærs,Stella,Undirected,1
+Stella,lille Karen,Undirected,2
+Ieg,Stella,Undirected,1
+Gud,bun,Undirected,1
+Frokosfen,Karen,Undirected,1
+Karen,ber,Undirected,1
+Eriksen,Gud,Undirected,1
+Eriksen,ban,Undirected,1
+ban,leer,Undirected,1
+Gud,leer,Undirected,1
+Tantes,eg,Undirected,1
+Karen,Tante,Undirected,2
+Stella,Tante,Undirected,1
+Karen,bos,Undirected,1
+Hr. Eilersen,bos,Undirected,1
+Hr. Eilersen,bende,Undirected,1
+Karen,bun,Undirected,1
+bun,bvor bun,Undirected,2
+Høire,Stella,Undirected,1
+Høire,Karen,Undirected,1
+Frøken Theden,Ingenieur Eilersen,Undirected,1
+Hr. Hartmann,Stella,Undirected,1
+Hr. Hartmann,Karen,Undirected,1
+Ol,lille Karen,Undirected,1
+Ol,bente,Undirected,1
+bente,ber,Undirected,1
+ban,ber,Undirected,1
+Karen,ban,Undirected,3
+Hr. Eilersen,Thee,Undirected,1
+Ole køm,Stella,Undirected,1
+Ole,Ole køm,Undirected,1
+Ole,ril Juul,Undirected,1
+Len,Mime,Undirected,1
+Mime,Thee,Undirected,1
+Dortbe,Karen,Undirected,2
+Dorthe,flet,Undirected,1
+Frøken Karen,flet,Undirected,1
+Frøken Karen,Karen,Undirected,1
+Gud,Karen,Undirected,2
+Hr. Hariman,lille Karen,Undirected,1
+Hr. Hariman,Uhret,Undirected,1
+Karen,Uhret,Undirected,1
+Hr. Hartman,Karen,Undirected,1
+Li,Stella,Undirected,1
+Li,Thee,Undirected,1
+Hr. Hartman,ril,Undirected,1
+Hr. Hartman,Stella,Undirected,2
+Hr. Hartman,bun,Undirected,1
+Stella,dei,Undirected,1
+Mette,Ole Jensens,Undirected,1
+Karen,Ole Smeds,Undirected,2
+Karen,lille Tante Stella,Undirected,1
+bvad,lille Tante Stella,Undirected,1
+Hr. Harlman,Tbee,Undirected,1
+Hr. Harlman,Stella,Undirected,1
+ban,jø,Undirected,2
+Gud,ban,Undirected,2
+Gud,dans,Undirected,1
+Karen,fil,Undirected,1
+Frøken Theben,fil,Undirected,1
+Frøken Theben,Gud,Undirected,1
+Hr. Eilersen,ban,Undirected,1
+Gud,Stella,Undirected,1
+Gud,Hr. Eilersen,Undirected,1
+Hr. Eilersen,def,Undirected,1
+ban,def,Undirected,1
+Stella,ban,Undirected,1
+Hartman,Karen,Undirected,2
+Per,Stella,Undirected,1
+Karen,Per,Undirected,6
+Per,Roes,Undirected,1
+Hr. Eilersen,Roes,Undirected,1
+Hartman,berøve Eilersen,Undirected,1
+Eilersen,berøve Eilersen,Undirected,1
+Gud,lro,Undirected,1
+Ieg,Karen,Undirected,1
+Karen,tor,Undirected,1
+Hr. Hartman,ban,Undirected,1
+Hartmann,ester Frøken Theden,Undirected,1
+Hartmann,Karen,Undirected,1
+Hariman,Karen,Undirected,1
+Kam,Lee,Undirected,1
+eg,olege,Undirected,1
+ban,bvad,Undirected,1
+Fader,fil,Undirected,1
+Fader,Tove,Undirected,3
+Eden,Tove,Undirected,1
+Fader,bisse,Undirected,1
+bisse,l,Undirected,1
+Tove,ber,Undirected,1
+Tove,jø,Undirected,1
+Tove,ban,Undirected,1
+Gud,bcbøvc,Undirected,1
+Gud,Tove,Undirected,2
+Moders,Tove,Undirected,1
+Moder,Tove,Undirected,3
+Aagerkarlen,Aagerkarls,Undirected,1
+Tove,fig,Undirected,3
+Tove,lee,Undirected,2
+Tu,sil,Undirected,1
+Jomfru Marie Hansen,lraadle,Undirected,1
+Eilersen,Marie Eilersen,Undirected,1
+Marie Hansen,bende,Undirected,1
+frods,lidl,Undirected,1
+frods,henke,Undirected,1
+Grandonkels,Mr. Bruun,Undirected,2
+Mr. Bruun,Mr«,Undirected,1
+Mr«,elv,Undirected,1
+Losle,elv,Undirected,1
+Losle,dei,Undirected,1
+Betty,son,Undirected,1
+Betty,Muhamed,Undirected,1
+Gud,Mama,Undirected,1
+Bruun,Mrs.,Undirected,1
+Betty,lille Betty,Undirected,2
+Betty,Mrs. Bruun,Undirected,2
+Letty,Lettys,Undirected,1
+Letty,Mr. Bruun,Undirected,1
+Betty,fabt,Undirected,1
+Tove,froede,Undirected,1

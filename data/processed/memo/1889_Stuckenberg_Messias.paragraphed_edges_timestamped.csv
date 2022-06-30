@@ -1,0 +1,354 @@
+source,target,timestamp
+Hostrup,lille Ove Eriksen,3
+Fog,Klein,7
+Jansen,Klein,7
+Fog,Jansen,8
+Fog,Jansen,8
+Arnold Hertz,Frode Jensen,18
+Jansen,Klein,24
+Fog,Jansen,24
+Eriksens,Klein,25
+Fog,Klein,26
+Fog,Jansen,26
+Eriksens,Jansen,26
+Klein,ri,37
+Fog,ri,37
+Fog,Jans,37
+Fog,Jansen,38
+Fog,Jansen,41
+Fog,Jansen,42
+Eriksen,Jansen,54
+Jansen,Klein,54
+Eriksen,Jansen,58
+Eriksen,Klein,58
+Eriksen,Klein,61
+Fog,Jansen,66
+Fog,Jansen,66
+Eriksen,Jans,73
+Fog,Jansen,74
+Fog,Klein,75
+Eriksen,Klein,75
+Eriksen,Klein,78
+Eriksen,Klein,78
+Estrup,Klein,84
+Eriksen,Jansen,86
+Karlen,Niels,89
+Fog,Niels,90
+Karlen,Klein,91
+Fog,Jansen,94
+Jansen,Klein,94
+Eriksen,Klein,94
+Eriksen,Klein,97
+Jens Andersen,Jørgen,102
+Jens Andersen,Jørgen,103
+Jens Andersen,immer,103
+Jens Andersen,Jørgen,104
+Jens Andersen,Niels Persen,109
+Fog,Jørgen Kromand,113
+Eriksen,Jens Andersen,117
+Jens,Klein,120
+Hans Jesper,Jørgen Kromand,126
+Estrup,Hans Jesper,126
+Hans Jesper,Jørgen,127
+Hans Jesper,Jens Andersen,128
+Jens Andersen,Skaal,128
+Hans Jesper,Skaal,128
+Estrup,Jens Andersen,131
+Hans Jesper,Jørgen,146
+Eriksen,Hans Jesper,151
+Eriksen,Hans Jesper,152
+Jens Andersen,Toddy,160
+Jens,Jens Andersen,161
+Anders,Klein,165
+Jens Andersen,Klein,165
+Eriksen,Fog,166
+Eriksen,Fog,166
+Eriksen,Fog,166
+Klein,Sørensen,171
+Klein,Sørensen,173
+Klein,Sørensen,174
+Jens Andersen,Toddy,177
+Jørgen,Toddy,177
+Eriksen,Fog,181
+Ole Eriksen,Ove,183
+Ove,Ove Eriksen,184
+Eriksen,Klein,187
+Eriksen,Jens Andersen,187
+Fog,Klein,188
+Eriksen,Fog,188
+Eriksen,Skaal Eriksen,188
+Hans Jesper,Søren,189
+Hans Jesper,Søren,190
+Jens Andersen,Søren,192
+Jens Andersen,ded,192
+Hans Jesper,Søren,195
+Hans Jesper,Søren,195
+Jens Andersen,Klein,199
+Jens Andersen,Klein,199
+Jens Andersen,Søren,199
+Jens Andersen,ded,201
+Eriksen,ded,201
+Eriksen,Jansen,201
+Hans Jesper,Jansen,201
+Eriksen,Jørgen,202
+Eriksen,Jens Andersen,202
+Eriksen,Jørgen,203
+Eriksen,Fog,203
+Fog,Klein,203
+Klein,Niels Persen,203
+Jørgen,Niels Persen,203
+Jørgen,Toddy,203
+Jens Andersen,Jørgen Kromand,205
+Jens Andersen,Jørgen Kromand,205
+Eriksen,Klein,213
+Fog,Jansen,214
+Jansen,Messias,215
+Eriksen,Klein,221
+Jens Andersen,Niels Persen,224
+Hans Jesper,Jens Andersen,225
+Eriksen,Fog,229
+Fog,Jans,229
+Eriksen,Fog,230
+Fog,Jansen,230
+Hans Jesper knurre,Klein,233
+Eriksen,Klein,238
+Fog,Jansen,239
+Fog,Jansen,242
+Fog,Messias,242
+Fog,Jansen,243
+Jansen,Valdemar Mogensen,244
+Jansen,Valdemar Mogensen,244
+Jansen,Valdemar Mogensen,249
+Jansen,Mogensen,249
+Jansen,Mogensen,251
+Jansen,Mogensen,253
+Bargren,Mogensen,265
+Jansen,Mogensen,266
+Jansen,Mogensen,267
+Fog,Jansen,270
+Fog,Jansen,272
+Fog,Jansen,274
+Fog,Jansen,278
+Fog,Jansen,289
+Fog,Messias,292
+Fog,Jansen,301
+Fog,Jansen,305
+Fog,Jansen,306
+Fog,Jansen,315
+Fog,Jansen,315
+Fog,Jansen,317
+Georg,Jansen,322
+Gud,Tante,325
+Gud,Jansen,328
+Georg,Gud,336
+Jansen,Mogensen,341
+Jansen,Mogensen,342
+Georg,Valdemar,343
+Gud,Mogensen,345
+Georg,Gud,345
+Georg,Valdemar,345
+Georg,Gud,349
+Georg,Jansen,353
+Georg,Jansen,353
+Georg,Jensen,353
+Jensen,Ulrikke,353
+Jansen,Ulrikke,353
+Darwin,Matzen,358
+Darwin,Jansen,358
+Darwin,Jansen,361
+Darwin,Jansen,361
+Georg,Jespersen,366
+Gud,Jespersen,366
+Georg,Gud,366
+Georg,Gud,366
+Georg,Gud,366
+Gud,Jansen,368
+Georg,Vorherre,371
+Møllers,Vorherre,371
+Eriksen,Klein,375
+Eriksen,Klein,375
+Klein,Klokker Jespersen,376
+Jansen,Klokker Jespersen,376
+Holger Klein,Ove Eriksen,377
+Holger Klein,Klokker Jespersen,377
+Jansen,Klokker Jespersen,377
+Georg,Klein,381
+Eriksen,Klein,381
+Georg,Jansen,382
+Georg,Jansen,386
+Jansen,Klein,391
+Aagesen,Klein,397
+Aagesen,Bork,397
+Bork,Dahl,397
+Dahl,Eriksen,397
+Aagesen,Eriksen,397
+Jansen,Klein,407
+Jansen,Klein,412
+Jansen,Klein,416
+Eriksen,Jansen,424
+Jansen,Klein,426
+Aagesen,Eriksen,428
+Johannes,Klein,439
+Eriksen,Klein,440
+Eriksen,Klein,449
+Eriksen,Jansen,462
+Eriksen,Klein,463
+Jespersen,Ulrikke,473
+Jespersen,Ulrikke,473
+Jespersen,Ulrikke,473
+Jespersen,Ulrikke,473
+Bøg,Lind,474
+Anna,Jansen,477
+Valdemar,Vilhelmine,489
+Julianehaab,Tante,491
+Mogensen,Peer Gynt,504
+Bargren,Mogensen,505
+Bargren,Mogensen,511
+Bargren,Mogensen,515
+Bargren,Mogensen,520
+Bargren,Mogensen,521
+Mogensen,Peer Gynt,523
+Bargren,Mogensen,524
+Bargren,Mogensen,525
+Bargren,Mogensen,531
+Bargren,Mogensen,533
+Bargren,Mogensen,534
+Mogensen,saa Bargren,535
+Bargren,Mogensen,537
+Bargren,Gud,538
+Mogensen,Peer Gynt,540
+Bargren,ovei,541
+Mogensen,ovei,541
+Bargren,Mogensen,542
+Bargren,Mogensen,544
+Bargren,Mogensen,549
+Bargren,Mogensen,554
+Bargren,Mogensen,557
+Fog,Jansen,559
+Fog,Jansen,560
+Falkens,Fog,562
+Fog,Jansen,564
+Aagesen,Jansen,568
+Fog,Jansen,569
+Fog,Jansen,569
+Dahl,Jansen,572
+Hans,Klein,575
+Dahis,Jansen,576
+Dahl,Jansen,577
+Jansen,Klein,578
+Dahl,Jansen,578
+Dahl,Eriksen,579
+Dahl,Eriksen,581
+Dahl,Eriksen,583
+Dahl,Jansen,584
+Dahl,Fog,584
+Eriksen,Fog,584
+Fog,Jansen,588
+Fog,Jansen,597
+Fog,Jansen,599
+Fog,Mogensen,601
+Fog,Mogensen,601
+Jansen,Mogensen,603
+Jansen,Mogensen,603
+Bargren,Jansen,605
+Dahl,Fog,614
+Fog,Jansen,618
+Gud,Winkel,621
+Fog,Jansen,624
+Fog,Jansen,627
+Aagesen,Karl,629
+Jansen,Klein,630
+Jansen,Klein,630
+Jansen,Klein,630
+Jansen,Klein,631
+Gud,Jansen,636
+Fog,Jansen,650
+Fog,Jansen,650
+Høyer,Jansen,651
+Jansen,Mogensen,652
+Jansen,Rønnen,655
+Anna,Rønnen,655
+Anna,Fog,662
+Anna,Georg,663
+Anna,Jansen,664
+Fog,Jansen,665
+Georg,Ulrikke,680
+Høyer,Jansen,686
+Høyer,Jansen,687
+Dirch,Jansen,688
+Dirch,Høyer,690
+Dirch,Jansen,692
+Dirch,Jansen,693
+Dirch,meris Høyer,695
+Dirch,Jansen,696
+Dirch,Jansen,697
+Dirch,Jansen,697
+Høyer,Jansen,700
+Dirch,Schmit,704
+Schmit,saa Smed Jensen,704
+Dirch,Schmit,705
+Dirch,Jansen,705
+Høyer,Jansen,711
+Dirch,Høyer,719
+Dirch,Holst,726
+A arhus-,Jensen,728
+Dirch,Holst,737
+Dirch,Sirtses,741
+Jansen,Schmit,745
+Birkedahls,Jansen,745
+Høyer,Jansen,747
+Rembrandt,Rubens,760
+Jansen,Mogensen,761
+Jansen,Mogensen,765
+Georg Jansen,Messias,771
+Fog,Jansen,774
+Eriksen,Jansen,780
+Eriksen,Mogensen,789
+Eriksen,Mogensen,789
+Eriksen,Jansen,789
+Klein,Mogensen,793
+Klein,Mogensen,795
+Eriksen,Fog,798
+Eriksen,Klein,799
+Eriksen,Jansen,799
+Eriksen,Jansen,799
+Fog,Mogensen,806
+Klein,Mogensen,807
+Eriksen,Mogensen,807
+Eriksen,Fog,807
+Fog,Jansen,807
+Eriksen,Jansen,808
+Eriksen,Jansen,818
+Eriksen,Klein,824
+Eriksen,Fog,838
+Fog,Jansen,838
+Jansen,Mogensen,838
+Fog,Klein,839
+Klein,Mogensen,839
+maanelys,tine,840
+Eriksen,Jansen,842
+Eriksen,Jansen,843
+Eriksen,Jansen,843
+Eriksen,Jansen,844
+Jansen,Mogensen,846
+Eriksen,Jansen,847
+Eriksen,Mogensen,854
+Jansen,Orion,857
+Jansen,Orion,857
+Høyer,Jansen,861
+Høyer,Jansen,864
+Høyer,Jansen,867
+Anna,Jansen,876
+Georg,Gud,877
+Anna,Jansen,884
+Jansen,Klokker Jespersen,901
+Georg,Ulrikke,902
+Anna Jørgensen,Georg,906
+Anna Jørgensen,Madam Jørgensens,906
+Jansen,Madam Jørgensens,906
+Jansen,Onkelens,906
+Fog,Jansen,917
+Fog,Jansen,917
+Fog,Jansen,917
+Fog,Jansen,917
+Fog,Jansen,922

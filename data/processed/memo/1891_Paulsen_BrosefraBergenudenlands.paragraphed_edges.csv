@@ -1,0 +1,378 @@
+source,target,type,weight
+Brose,Siewertsen,Undirected,9
+Brose,Jettemor,Undirected,133
+Jettemor,Ulriken,Undirected,6
+Brose,Ulriken,Undirected,2
+Jettemor,Siewertsen,Undirected,11
+Gert Westphaler,Siewertsen,Undirected,1
+Jettemor,gammelost,Undirected,1
+Roquefort,gammelost,Undirected,1
+Brose,Roquefort,Undirected,1
+Jettemor,Napoleons,Undirected,1
+Napoleons,Thiers,Undirected,1
+Napoleon,Thiers,Undirected,1
+Bernadotte,Napoleon,Undirected,1
+Bernadotte,Ney,Undirected,1
+Siewertsen,høgt,Undirected,1
+Brose,høgt,Undirected,1
+Brose,Petronelle,Undirected,12
+Petronelle,Siewertsen,Undirected,3
+Jette-mor,Jettemor,Undirected,1
+Marius,kelt,Undirected,1
+Marius,Øhlenschlæger,Undirected,1
+Ole Buil,Øhlenschlæger,Undirected,1
+Ole Buil,frøken Jensen,Undirected,1
+Per Kristian,frøken Jensen,Undirected,1
+Per Kristian,Tassos,Undirected,1
+principalens,torret ningsmand,Undirected,1
+Brose,Wenche Konow,Undirected,1
+Wenche,Wenche Konow,Undirected,1
+Brose,jomfru Hermansen,Undirected,4
+Brose,Jomfru Hermansen,Undirected,1
+Jomfru Hermansen,stelle,Undirected,1
+Brose,Hermansen,Undirected,2
+Brose,høilig,Undirected,2
+Jettemor,Margrethe,Undirected,1
+Brose,Karens,Undirected,1
+Karen,Karens,Undirected,1
+Jettemor,madame,Undirected,3
+Jettemor,madam,Undirected,1
+eg,madam,Undirected,1
+Brose,eg,Undirected,7
+Brose,Meyer,Undirected,1
+Brose,Thiers,Undirected,1
+Jettemor,Thiers,Undirected,1
+Jettemor,Karen,Undirected,1
+Karen,Napoleon,Undirected,1
+Brose,Napoleon,Undirected,8
+Mons,Ulriken,Undirected,1
+Eg,eg,Undirected,10
+Jettemor,madam Erpekam,Undirected,2
+Jettemor,Mons,Undirected,3
+Jettemor,Petronelle,Undirected,15
+Petronelle,Rasch,Undirected,1
+Brose,Rasch,Undirected,1
+Jette,Jettemor,Undirected,1
+Petronelle,Tante Petronelle,Undirected,1
+Jettemor,Tante Petronelle,Undirected,1
+Jettemor,tante Petronelles,Undirected,1
+Marius,Petronelle,Undirected,1
+Jette,Petronelle,Undirected,1
+Jette,guds,Undirected,1
+Petronelle,lykkets,Undirected,1
+Brose,lykkets,Undirected,1
+Siewertsen,madame Evremond,Undirected,1
+Jettemor,madame Evremond,Undirected,1
+Mons,Petronelle,Undirected,5
+Petronelle,guds,Undirected,3
+Jettemor,liv,Undirected,1
+Jettemor,Marius Brose,Undirected,4
+Brose,Karen,Undirected,4
+Brose,Bædecker,Undirected,1
+Jettemor,Napoleon,Undirected,4
+Eg,Jettemor,Undirected,8
+Brose,Figaro,Undirected,1
+Brose,Merci,Undirected,1
+Brose,påny,Undirected,1
+Merci,påny,Undirected,1
+Monsieur Mercisilvousplait,Napoleon,Undirected,1
+Jettemor,tante Petronelle,Undirected,1
+Brose,tante Petronelle,Undirected,1
+Brose,Murillos,Undirected,1
+Jettemor,di,Undirected,2
+Jason,Jettemor,Undirected,3
+Psyche,Rafael,Undirected,1
+Murillo,Rafael,Undirected,1
+Murillo,Phidias,Undirected,1
+Phidias,enthousiasme,Undirected,1
+Petronelle,haken,Undirected,1
+Agrippina,Neros,Undirected,1
+Brose,Neros,Undirected,1
+Brose,madam Jeremiassen,Undirected,1
+Jettemor,haken,Undirected,1
+Brose,Titus,Undirected,1
+Hututu,Jettemor,Undirected,1
+Brose,Hututu,Undirected,1
+Jettemor,eied,Undirected,2
+Jettemor,hare,Undirected,1
+Brose,Eg,Undirected,2
+Brose,Marie Antoinette,Undirected,2
+Marie Antoinette,Napoleon,Undirected,1
+Moskous,Napoleon,Undirected,1
+Brose,Moskous,Undirected,1
+Jettemor,Mehren,Undirected,1
+Jettemor,Marie Antoinette,Undirected,3
+ciceronen,madame,Undirected,1
+Brose,ciceronen,Undirected,1
+Jettemor,guds,Undirected,1
+Brose,guds,Undirected,1
+Jettemor,Mirabeau,Undirected,1
+Goethe,Mirabeau,Undirected,1
+Goethe,Schiller,Undirected,1
+Schiller,Verweile,Undirected,1
+Verweile,augenblich,Undirected,1
+augenblich,zu,Undirected,1
+Brose,Trianon,Undirected,2
+Jettemor,Trianon,Undirected,1
+Henriette Brose,Tante Petronelle,Undirected,1
+Henriette Brose,Hermansen,Undirected,1
+Gottliebs,Lille Nelly,Undirected,1
+Gottliebs,madame Schwanenflügel,Undirected,1
+Anne,madame Schwanenflügel,Undirected,1
+Anne,Wenche,Undirected,1
+Mina,Wenche,Undirected,1
+Mina,Thinka,Undirected,1
+Thinka,gratulation,Undirected,1
+Annas,gratulation,Undirected,1
+Annas,Jenny,Undirected,1
+Anne,Jenny,Undirected,1
+Anne,Tinka,Undirected,1
+Jonas Lies,Mina,Undirected,1
+Jonas Lies,Wenche,Undirected,1
+Didrik,Dorthea,Undirected,3
+Dorthea,Jette,Undirected,2
+Didrik,Jette,Undirected,1
+Jensine,Mons,Undirected,4
+Brose,Jensine,Undirected,1
+Brose,Mons,Undirected,1
+Mons,Monsen,Undirected,2
+Beate Rohde,Schulz,Undirected,1
+Kruses,Schulz,Undirected,1
+Dorthea,Marius,Undirected,1
+Marius,Nelly Monsen,Undirected,1
+Inger Malene,Jettemor,Undirected,1
+Inger Malene,Siste,Undirected,1
+Malene,Siste,Undirected,1
+Jettemor,keiser,Undirected,1
+Brose,keiser,Undirected,1
+Hudson Lowe,keiseren,Undirected,1
+Didrik,Siewertsen,Undirected,1
+Brose,Jette,Undirected,2
+Jettemor,madame Juliette de la Farandolle,Undirected,1
+Brose,madame Juliette de la Farandolle,Undirected,1
+Brose,George Sand,Undirected,2
+Brose,Brose keg,Undirected,1
+Brose keg,Jettemor,Undirected,1
+Jettemor,madame Juliette,Undirected,5
+George Sand,Jettemor,Undirected,1
+George Sand,madame Juliette,Undirected,1
+madame Juliette,monoclen,Undirected,1
+Jettemor,Madame Juliette,Undirected,1
+Brose,madame Juliette,Undirected,4
+Jettemor,eg,Undirected,6
+Jettemor,Judas,Undirected,1
+Brose,Louis,Undirected,1
+Jettemor,Juliette de la Farandolle,Undirected,1
+Liszt —,Martin,Undirected,1
+Brose,Martin,Undirected,1
+Brose,Drueblod,Undirected,1
+Brose,Juliette,Undirected,3
+Brose,George,Undirected,1
+George,mon ami,Undirected,1
+Brose,donna,Undirected,2
+Marius Brose,madame Juliette,Undirected,1
+Jettemor,stakkers Jettemor,Undirected,1
+Jettemor,madam Jokkumsen,Undirected,31
+madam,madam Jokkumsen,Undirected,1
+Di,madam Jokkumsen,Undirected,2
+Di,Per Lascheis,Undirected,1
+Per Lascheis,madam Jokkumsen,Undirected,1
+Di,Jettemor,Undirected,2
+Di,di,Undirected,1
+di,maddam Jokkumsen,Undirected,1
+Madam Jok-kumsen,paven,Undirected,1
+Eufemia,Jettemor,Undirected,1
+Brose,madammen,Undirected,1
+gud,madammen,Undirected,1
+Madame Jokkumsen,påny,Undirected,1
+Pierre,påny,Undirected,1
+Jettemor,Pierre,Undirected,1
+madam Jokumsen,steiled,Undirected,1
+Jettemor,Juliette,Undirected,2
+madam Jokkumsen,madame Juliette,Undirected,1
+Brose,hine tøiter,Undirected,2
+Brose,Madame de la Farandolles,Undirected,1
+Brose,Georg-Reneé-Alfred,Undirected,1
+Georg-Reneé-Alfred,madame Juliette,Undirected,1
+Jettemor,reisaus,Undirected,2
+Brose,Madam de la Farandolle,Undirected,1
+Brose,Sarah Bernhardt,Undirected,1
+Donna Sol,madame Juliette,Undirected,1
+Donna Sol,Viktor Hugos,Undirected,1
+Prenez garde,madame,Undirected,1
+Henriette Brose,madam Jokkumsen,Undirected,1
+Drøbak,madam Jokkumsen,Undirected,3
+Brose,Drøbak,Undirected,1
+Mac Mahon,gamins,Undirected,1
+Jettemor,sympathi,Undirected,1
+Jettemor,påny,Undirected,1
+Marius Brose,Napoleon,Undirected,1
+Henriette Brose,Petronelle Monsen,Undirected,1
+Brose,Dorthe,Undirected,1
+Dorthe,Petronelle,Undirected,1
+Brose,Thoresen,Undirected,1
+Jette Hermansen,Thoresen,Undirected,1
+Jette Hermansen,løi Brose,Undirected,1
+Brose,tru Jokumsen,Undirected,1
+Lauis,Petronelle,Undirected,1
+Brose,madam Erpekam,Undirected,1
+Karen,Siewertsen,Undirected,1
+Anna og,Siewertsen,Undirected,1
+Anna og,Tinka,Undirected,1
+Mina,Tinka,Undirected,2
+Didrik,Mina,Undirected,1
+Didrik,Dorthe,Undirected,1
+Dorthe,Henriette Brose,Undirected,1
+Blom,Brose,Undirected,1
+Napoleon,kusks,Undirected,1
+Jettemor,kusks,Undirected,1
+Jettemor,Madam Jokkumsen,Undirected,5
+jysses,paven,Undirected,1
+Gregorovius,Jettemor,Undirected,1
+Hututu,Napoleon,Undirected,1
+hr. Brose,sjøl,Undirected,1
+madam,sjøl,Undirected,1
+Jokkumsens,madam,Undirected,1
+Huhei,jagu,Undirected,1
+donna,madame Juliette,Undirected,1
+Brose,Di,Undirected,2
+Germoise,madam Jokkumsen,Undirected,1
+Brose,Madam Jokkumsen,Undirected,2
+Brose,madam Jokkumsen,Undirected,14
+Brose,Jan Didriks,Undirected,1
+Jan Didriks,Jettemor,Undirected,1
+Brose,Sievertsen,Undirected,2
+Jettemor,Stakkers Brose,Undirected,1
+Brose,Hyss,Undirected,1
+Jettemor,Romas,Undirected,1
+Brose,niente,Undirected,1
+Eg,Jokkumsen,Undirected,2
+Jettemor,Jokkumsen,Undirected,3
+bjørker,eg,Undirected,1
+bjørker,di,Undirected,1
+Brose,Trine,Undirected,1
+Michel Angelos,Schiller,Undirected,1
+Jettemor,Michel Angelo,Undirected,1
+Michel Angelo,Mikaelsen,Undirected,1
+Brose,Mikaelsen,Undirected,1
+Jettemor,madam Erpe-kam,Undirected,2
+Brose,Funny oldgentleman,Undirected,1
+Funny oldgentleman,Jettemor,Undirected,1
+Drøbak,Jettemor,Undirected,1
+di,madam Jokkumsen,Undirected,1
+Jettemor,madammen,Undirected,1
+Jettemor,skrek,Undirected,1
+Briccone,mutter,Undirected,1
+Brose,madam Jok-kumsen,Undirected,1
+Jettemor,madam Jok-kumsen,Undirected,1
+Brose,Tys,Undirected,1
+Jettemor,Tys,Undirected,1
+Jokkumsen,Påny,Undirected,1
+Ibsen,paven,Undirected,1
+Ibsen,Jettemor,Undirected,1
+Jettemor,eiterte,Undirected,1
+Ibsen,madam Jokkumsen,Undirected,1
+Ibsen,reisaus,Undirected,1
+Nora,hu,Undirected,2
+Nei Ibsen,han Ibsen,Undirected,1
+Jan Didrik,Siewertsen,Undirected,1
+Jan Didrik,Mons,Undirected,1
+Eviva,Jettemor,Undirected,1
+domino,madam Jokkumsen,Undirected,3
+Jettemor,domino,Undirected,1
+Brose,gutten,Undirected,1
+Brose,Signoraen,Undirected,1
+Brose,signora,Undirected,2
+Drøbak,Madam Jokkumsen,Undirected,1
+Drøbak,Terpsichores,Undirected,1
+Terpsichores,tarantella,Undirected,1
+Jettemor,tarantella,Undirected,1
+Jettemor,gud,Undirected,2
+Jokkumsen,gud,Undirected,1
+Huhei,Jokkumsen,Undirected,1
+Huhei,Jettemor,Undirected,1
+Jokkumsen,domino,Undirected,1
+Jokkumsen,ublid,Undirected,1
+madam Jokkumsen,ublid,Undirected,1
+gud,råpte,Undirected,1
+Jettemor,råpte,Undirected,4
+Beppo,donna,Undirected,1
+Jettemor,tiara,Undirected,1
+Di,ikje,Undirected,1
+Jokkumsen,ikje,Undirected,1
+Humles,Jettemor,Undirected,1
+Brose,afveied Homers,Undirected,1
+Homer,afveied Homers,Undirected,1
+Antinous Humles,Homer,Undirected,1
+Antinous Humles,Brose,Undirected,1
+Hamlet,Shakespeare,Undirected,1
+Brose,la Bellmann,Undirected,1
+Lona,snille,Undirected,1
+Lona,iveien,Undirected,1
+Lona,Maren kokke,Undirected,1
+Lona,Lorentzmand,Undirected,1
+Lona,gud,Undirected,1
+Lona,S.,Undirected,1
+Di,Lona,Undirected,3
+Lorentzmand,hin graverkars,Undirected,1
+Lona,bent,Undirected,1
+Hansen,Lona,Undirected,1
+Luthers,Pontoppidans,Undirected,1
+Lona,Lorentz,Undirected,1
+Lona,Stanleys,Undirected,1
+Lona,madam Jokkumsen,Undirected,4
+Jettemor,Wenche Konow,Undirected,1
+Jettemor,Wenche,Undirected,1
+Brose,Wenche,Undirected,1
+Jokkumsen,madam,Undirected,2
+Brose,Jokkumsen,Undirected,1
+Jettemor,Per Gynt,Undirected,1
+Per Gynt,di,Undirected,1
+Brose,Lona,Undirected,6
+Brose,Este,Undirected,1
+Ibsen,domino,Undirected,1
+han Ibsen,madam Jokkumsen,Undirected,1
+Homer,Ibsen,Undirected,1
+Diotima,Druen,Undirected,1
+Diotima,madam Jokkumsen,Undirected,2
+Diotima,Sokrates,Undirected,1
+Jettemor,Lona,Undirected,3
+Mads,råpte,Undirected,1
+Jettemor,høilig,Undirected,1
+høilig,madame Juliette,Undirected,1
+Lona,reises,Undirected,1
+frøken Lona,sali,Undirected,1
+faldera,trailera,Undirected,1
+Hon,Jettemor,Undirected,2
+Platons,madam Jokkumsen,Undirected,1
+Lona,Madam Jokkumsen,Undirected,1
+Antinous,Brose,Undirected,2
+Brose,Hellas,Undirected,1
+Hellas,Jettemor,Undirected,1
+Lona,lykkesrus,Undirected,1
+Lona,hu,Undirected,1
+hu,madam Jokkumsen,Undirected,1
+Hossen,madam Jokkumsen,Undirected,1
+Bravo,råpte,Undirected,1
+Brose,råpte,Undirected,1
+Venus,signor Pasquales,Undirected,1
+Fratello miok,miok,Undirected,1
+Fratello miok,madam Jokkumsen,Undirected,1
+Jettemor,Tinka,Undirected,1
+Jan Didrik,Mina,Undirected,1
+Dorthe,Jan Didrik,Undirected,2
+Jettemor,signor Pasquales,Undirected,1
+madam Jokkumsen,signor Pasquale,Undirected,1
+Jansons,Jettemor,Undirected,1
+Jettemor,Ulrikens top,Undirected,1
+Brose,Marius Brose,Undirected,2
+Brose,madam,Undirected,1
+Jettemor,Jettemor Walkendorfstårnet,Undirected,1
+Brose,Jettemor Walkendorfstårnet,Undirected,1
+Brose,gud,Undirected,1
+Ole Buli,gud,Undirected,1
+Jettemor,ikvæld,Undirected,1
+Jan Didrik,Karen,Undirected,1
+Karen,hon,Undirected,1
+Tøiet,eg,Undirected,1
+Tøiet,iland,Undirected,1

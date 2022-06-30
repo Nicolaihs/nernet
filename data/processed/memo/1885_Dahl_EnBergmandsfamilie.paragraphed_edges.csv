@@ -1,0 +1,227 @@
+source,target,type,weight
+Arentz,Jenny,Undirected,2
+Kaja,Olaf,Undirected,1
+Olaf,Peter,Undirected,2
+Arentz,Tulla,Undirected,6
+Arentz,Vorherre,Undirected,1
+Olaf,Tulla,Undirected,15
+Tulla,ida,Undirected,1
+Tulla,Vorherre,Undirected,1
+Gutten,Vorherre,Undirected,1
+Gutten,Tulla,Undirected,1
+Kaja,Peter,Undirected,1
+Olaf,Olavas,Undirected,1
+Andersens,Olavas,Undirected,1
+Andersens,Peter,Undirected,1
+Olava,Tulla,Undirected,1
+Olaf,Olava,Undirected,2
+Lille,Olava storlo,Undirected,1
+Lasse,Lille,Undirected,1
+Lasse,lille bitte Lasse,Undirected,1
+aa,lille bitte Lasse,Undirected,1
+Kaja,Tulla,Undirected,1
+Kaja,Streiftog,Undirected,1
+Maren,Streiftog,Undirected,1
+Maren,Olaf,Undirected,9
+Maren myg,fyste,Undirected,1
+Maren,Peter,Undirected,1
+Jei,Maren Toskesdatter,Undirected,1
+Jei,eg,Undirected,2
+Gud,eg,Undirected,1
+Eg,eg,Undirected,1
+Nor,eg,Undirected,2
+eg,totri,Undirected,1
+Maren,totri,Undirected,1
+Jei,Maren,Undirected,1
+eg,jei,Undirected,1
+Olsen,jei,Undirected,1
+Maren,meg,Undirected,1
+Maren,plirte Olaf skjelmsk,Undirected,1
+Gjert Olsen,Skipper Finkeisen,Undirected,1
+Gud,Olaf,Undirected,2
+Gud,Maren,Undirected,5
+Gjert,Maren,Undirected,5
+Gud,Maren Toskesdatter,Undirected,1
+fløi Tulla,trilte,Undirected,1
+Jenny,Tulla,Undirected,1
+Arentz fløi,Nils,Undirected,1
+Tulla,kjør,Undirected,1
+Mamas,Tulla,Undirected,1
+Arentz,Nils,Undirected,2
+Mama,Tulla,Undirected,1
+Arentz,Mama,Undirected,1
+Arentz,Olaf,Undirected,7
+Arentz,Frue,Undirected,1
+Frue,Gud,Undirected,1
+Gud,Mama,Undirected,1
+Gut,Tulla,Undirected,1
+Maren,iforregaars,Undirected,1
+Arentz,s. Arentz,Undirected,1
+Arentz,Bertelsen,Undirected,1
+Bertelsen,Enoksen,Undirected,1
+Sjou,forman,Undirected,1
+Maren,Tulla,Undirected,2
+Bertelsen,Sten,Undirected,1
+Bertelsen,Plinius,Undirected,1
+Mort,Plinius,Undirected,1
+Sten,iland,Undirected,1
+Arentz,Holm,Undirected,1
+Arentz,Lars Vagle,Undirected,1
+Madam Salvesen,Tønnesen,Undirected,1
+Maren,Olava,Undirected,1
+Maren,dere,Undirected,1
+Pitter,Taa,Undirected,1
+Andreas Kjæft,Taa,Undirected,1
+Arentz,Maren,Undirected,11
+Arentz,Sten,Undirected,2
+Arentz,graad,Undirected,2
+Gjert,s,Undirected,1
+Maren,Sten,Undirected,1
+Mamma,Pappa,Undirected,1
+Arentz,Mamma,Undirected,1
+Mamma graad,Mani mas Røst,Undirected,1
+Gjert,Olaf,Undirected,1
+Mama,Olaf,Undirected,1
+Arentz,s,Undirected,1
+Arentz,Kongsbergs,Undirected,1
+Brynhild,Gudrun,Undirected,1
+Arentz,Pe,Undirected,7
+Olaf,Pe,Undirected,6
+Olaf,s,Undirected,1
+Pe,Petra,Undirected,1
+Petra,Petrine,Undirected,1
+Petrine,Petronelle,Undirected,1
+Pe,Petronelle,Undirected,1
+Pe,Tante Pe,Undirected,1
+Maren,Tante Pe,Undirected,2
+Brun,Tulla,Undirected,1
+Brun,Pe,Undirected,4
+Maren,Pe,Undirected,8
+Maren,harm,Undirected,1
+eg,harm,Undirected,1
+Pe,lille Tulla,Undirected,1
+Kongsbergs,Meyer,Undirected,1
+Brun,Olaf,Undirected,1
+Arentz,Tahte Pe,Undirected,1
+Arentz,Brandtouger,Undirected,1
+Arentz,Tbugene,Undirected,1
+Pe,Tbugene,Undirected,1
+Brodermands,Tante Pe,Undirected,1
+Broder,Gud,Undirected,1
+Kjør,viltert,Undirected,1
+Gjert,Sjul,Undirected,1
+Orta,Rudseie,Undirected,1
+Simen,Skott,Undirected,1
+Sjul,Tia,Undirected,1
+Berentz,Tia,Undirected,1
+Berentz,Sjul,Undirected,1
+Sjul,bent,Undirected,1
+Aassaa,Grua,Undirected,1
+Bjørn,Sjul Brudevolden,Undirected,1
+Gut,Lammers,Undirected,1
+Per Warter,warta,Undirected,1
+Arentz,Sjul,Undirected,5
+Arentz,Nils Orlistulen,Undirected,1
+Nils Orlistulen,Schikt,Undirected,1
+bent,hannem,Undirected,1
+Binna,Nils Braaten,Undirected,1
+Binna,a,Undirected,1
+Høgda,a,Undirected,1
+Høgda,Knophemyra,Undirected,1
+Binna,Knophemyra,Undirected,1
+Erik Vogt,Kjerka,Undirected,1
+Kjerka,Santehans,Undirected,1
+Lufta,Santehans,Undirected,1
+Lufta,Siljuen,Undirected,1
+Siljuen,nikte,Undirected,1
+bent,nikte,Undirected,1
+Berg,Svend,Undirected,1
+Bjertnæs,Collega,Undirected,1
+Collega,Fru Justitias,Undirected,1
+Christie,Fru Justitias,Undirected,1
+Gutten,Sjul,Undirected,1
+Maren,udpaa,Undirected,1
+Maren,Svend,Undirected,3
+Arentz,Gjert,Undirected,4
+Maren,Marenmor,Undirected,4
+Jesus,eg,Undirected,1
+Maren,eg,Undirected,1
+Maren,Tantes,Undirected,2
+Arentz,Marenmor,Undirected,1
+Maren,Posturin,Undirected,1
+Gud,guds,Undirected,1
+Madam Haavelsen,Michaeli,Undirected,1
+Karen Akkurat,Kongsbergs,Undirected,1
+Gud,Karen Akkurat,Undirected,1
+Elen,Jens Nilseplads,Undirected,1
+Ola,Ola Dokka,Undirected,1
+Larseberthe,Peder Harm,Undirected,1
+Ola Dokka,Peder Harm,Undirected,1
+Hven,Peder Harm,Undirected,1
+Brun,Maren,Undirected,2
+Jesus,Maren,Undirected,2
+Jesus,sine,Undirected,1
+Maren,sine,Undirected,1
+Gud,Jesus,Undirected,1
+Jesus,Mikelsen,Undirected,2
+Brun,Mikelsen,Undirected,1
+Per,Per Holmestrand,Undirected,1
+Per,hans,Undirected,1
+Gjert,Per,Undirected,1
+Per,Sultan,Undirected,1
+Gjert,Per Holmestrand,Undirected,1
+Berget giindste,Løkke,Undirected,1
+Jøran,Svend,Undirected,1
+Sjul,Svend,Undirected,2
+Arentz,Svend,Undirected,1
+Mikeli,Svend,Undirected,1
+Jenta,Svend,Undirected,1
+Arentz,Jenta,Undirected,1
+reint,tru,Undirected,1
+Jøran,stelte,Undirected,1
+Brun,Svend,Undirected,3
+Arentz,Brun,Undirected,1
+Brun,Jøran,Undirected,1
+Jøran,Maren,Undirected,6
+Heltzen,Kristian den,Undirected,1
+Narve Kjøita,Svend,Undirected,1
+Narve Kjøita,slige unisone Amenraab,Undirected,1
+Jøran,Pe,Undirected,1
+Maren,Ole,Undirected,1
+Marenmor,Ole,Undirected,1
+Gutten,Jøran,Undirected,1
+Pe,Tulla Arentz,Undirected,1
+Olaf,Tulla Arentz,Undirected,2
+Laura,Tulla Arentz,Undirected,1
+Laura,Pe,Undirected,1
+Gjert Olsen,Skipper Pallesen,Undirected,1
+Goldschmidt,Pallesen,Undirected,1
+Gjert,Tante Pe,Undirected,1
+Tante Pe,s,Undirected,2
+Ella,Kathinka,Undirected,1
+Ella,Meir Aaron Goldschmidt,Undirected,1
+Cathinka,Ella,Undirected,1
+Gjert,Pe,Undirected,3
+Gud,Pe,Undirected,1
+Pe,Tulla,Undirected,1
+Maren synte,vesle Svend,Undirected,1
+Maren,Sjul,Undirected,1
+Sjul,hendes,Undirected,1
+Heltzen,Ritsch,Undirected,1
+Arentz,Heltzen,Undirected,1
+Gert,Maren,Undirected,1
+Maren,vesle Svend,Undirected,1
+Juul,Olaf,Undirected,1
+Juul,Pe,Undirected,3
+Arentz,Kjøns,Undirected,1
+Hys,Pe,Undirected,1
+Hys,Olaf,Undirected,1
+Olaf,Peckel,Undirected,1
+Arentz,Peckel,Undirected,1
+Mønsters,Olaf,Undirected,1
+Mønsters,Pe,Undirected,1
+Bergetatens,Pe,Undirected,1
+Pe,Peckel,Undirected,2
+Kongsberg,Peckel,Undirected,1
+Punchen,graad,Undirected,1
+Peckel,Punchen,Undirected,1

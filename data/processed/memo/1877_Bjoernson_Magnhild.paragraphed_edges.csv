@@ -1,0 +1,137 @@
+source,target,type,weight
+Bjørnstjerne Bjørnson,Magnhild,Undirected,1
+Magnhild,Rønnaug,Undirected,84
+Magnhild,Rønnangs,Undirected,1
+Fist,Magnhild,Undirected,1
+Fist,sine Scalaer,Undirected,1
+Magnhild,sine Scalaer,Undirected,1
+Magnhild,Præsfens,Undirected,1
+' Magnhild,Magnhild,Undirected,1
+Magnhild,Skarlie,Undirected,32
+Magnhild,graa,Undirected,1
+Jænter,Rønnaug,Undirected,2
+Magnhild,Præsfen,Undirected,9
+Jcenten,Præsfen,Undirected,1
+Hnn,Jcenten,Undirected,1
+Hnn,ban,Undirected,1
+Magnhild,ban,Undirected,1
+Magnhild,Mutter,Undirected,1
+Magnhild,kjære Magnhild,Undirected,1
+Magnhild,vera,Undirected,2
+Harr,Skarlie,Undirected,1
+Ronnaug,h.,Undirected,1
+Skarlie,helsf,Undirected,1
+Hnn,hnn,Undirected,1
+Magnhild,Tande,Undirected,27
+Magda,Magnhild,Undirected,18
+Magda,hnn,Undirected,1
+Magnhild,hnn,Undirected,4
+Magda,Tande,Undirected,6
+Asp,Bjørk,Undirected,1
+Tande,tans,Undirected,1
+Magda,Magnhild Magda,Undirected,1
+Magda,Magnhild taug,Undirected,1
+Magnhild,Magnhild taug,Undirected,1
+Magnhild,Sopran,Undirected,2
+Sopran,Tande,Undirected,1
+Elvens,Skogens,Undirected,1
+' Tandes,Magnhild,Undirected,1
+Magnhild,sif,Undirected,1
+Lille Magdas,Magnhild,Undirected,1
+Magnhild,lille Magda,Undirected,1
+Graad,Magnhild,Undirected,1
+Magnhild,Marie,Undirected,3
+Sopran,Ter,Undirected,1
+Judith,Magnhild,Undirected,1
+Hans,Magnhild,Undirected,1
+Kaptejn Bang,Skarlie,Undirected,1
+Knnstner,Martha,Undirected,1
+Skarlie,sitta,Undirected,1
+Line,Magnhild,Undirected,1
+Adjutanten,Line,Undirected,1
+Adjutanten,Magnhild,Undirected,1
+Klownens,Magnhild,Undirected,1
+Jomfruen,Magnhild,Undirected,1
+Karjol,Rønnaug,Undirected,1
+Rønnaug,rnaatte Magnhild se,Undirected,1
+Magnhild,Ronnangs,Undirected,1
+Grong,Rønnaug,Undirected,9
+Grong,jusf,Undirected,1
+Miss Roland,Rønnaug,Undirected,4
+Miss Roland,Mrs. Skarlie,Undirected,1
+Mrs. Skarlie,Rønnaug,Undirected,1
+Betsl,Roland,Undirected,1
+Roland,Rønnaug,Undirected,1
+Rønnaug,ester,Undirected,2
+Magnhild,ester,Undirected,1
+Magnhild,earmnAe tllrouAll,Undirected,1
+Rønnaug,gjønno,Undirected,1
+Magnhild,gjønno,Undirected,1
+Præsfen,Rønnaug,Undirected,4
+Magnhild,Ronnaug,Undirected,4
+Magnhild,bent,Undirected,1
+Grong,bent,Undirected,1
+Grong,Magnhild,Undirected,4
+Lovise,Marie,Undirected,1
+Lovise,Magnhild,Undirected,1
+Grong,Hnn,Undirected,1
+Hnn,Magnhild,Undirected,1
+Charles Randon,Rønnaug,Undirected,1
+Rønnaug,Skarlie,Undirected,5
+Graaden,Magnhild,Undirected,2
+Charles,Skarlie,Undirected,1
+Magnhild,Mr. Skarlie,Undirected,2
+Mr. Skarlie,Præsfen,Undirected,1
+Grong,Præsfen,Undirected,1
+Gud,Rønnaug,Undirected,1
+Graaden,Rønnaug,Undirected,1
+Rønnaug,Stans,Undirected,1
+Jænte,Rønnaug,Undirected,2
+Ester,Rønnaug,Undirected,1
+Elven,Magnhild,Undirected,1
+Bjørk,Charles,Undirected,1
+Charles,Rønnaug,Undirected,1
+Charles,Magnhild,Undirected,1
+Magnhild,Miss Roland,Undirected,4
+Mr. Charles Randon,Rønnaug,Undirected,2
+Mr. Charles,Rønnaug,Undirected,4
+Rønnaug,lille Harry,Undirected,1
+Betsy Roland,Rønnaug,Undirected,2
+Rønnaug,Te,Undirected,1
+Magnhild,Te,Undirected,2
+Magnhild,Taalmod,Undirected,1
+Andreas,Magnhild,Undirected,1
+Andreas,Søren,Undirected,1
+Knut,Søren,Undirected,1
+Ane,Knut,Undirected,1
+Ane,Magnhild,Undirected,1
+Ane,Rønnaug,Undirected,1
+Rønnaug,sorn rejsfe,Undirected,1
+Magnhild,sorn rejsfe,Undirected,1
+Gud,kjære Magnhild,Undirected,1
+Andreas,Ole Bjørgans,Undirected,1
+Andreas,Præsfen,Undirected,1
+Hnn,Skarlie,Undirected,1
+Grong,Miss Roland,Undirected,1
+Grong,Gutten,Undirected,1
+Gutten,Magnhild,Undirected,3
+Grong,Tande,Undirected,2
+Rønnaug,Tande,Undirected,1
+Rønnaug,hnn,Undirected,1
+Ronnangs,Rønnaug,Undirected,2
+Gud,Magnhild,Undirected,2
+Miss Roland,Ronnaug,Undirected,1
+Gud,Miss Roland,Undirected,1
+Kjære Magnhild,Marie,Undirected,1
+Hnn,Lovise,Undirected,1
+Kjære Magnhild,Lovise,Undirected,1
+Ronnang,Skarlie,Undirected,1
+Magnhild,Ronnang,Undirected,1
+Høing,Magnhild,Undirected,1
+Høing,Miss Roland,Undirected,1
+Gutten,Rønnaug,Undirected,1
+Gutten,Rønnang,Undirected,1
+Jagu,Rønnang,Undirected,1
+Andreas,Rønnaug,Undirected,1
+Andreas,Gutten,Undirected,1
+Magnhild,raa,Undirected,1

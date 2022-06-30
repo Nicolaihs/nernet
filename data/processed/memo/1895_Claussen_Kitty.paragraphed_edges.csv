@@ -1,0 +1,110 @@
+source,target,type,weight
+Jakob Arendsen,Vilhelmines,Undirected,1
+Vilhelmines,spaa,Undirected,1
+lille Vilhelmine,spaa,Undirected,1
+Jakob Arendsen,Sørens,Undirected,1
+Andreas Povlsen,Jakob Arendsen,Undirected,3
+Andreas Povlsen,"Søren,",Undirected,1
+Jakob,Søren,Undirected,1
+Andreas Povlsen,Søren,Undirected,2
+Arendsen,Vilhelmine,Undirected,1
+Emma,Jakob Arendsen,Undirected,3
+Emma,Sophie,Undirected,2
+Jakob Arendsen,Vilhelmine,Undirected,11
+Alexander den store,Homer,Undirected,1
+Alexander den store,egy,Undirected,1
+Jakob,Vilhelmine,Undirected,15
+Jakob,Kitty,Undirected,49
+Emma,Vilhelmine,Undirected,3
+Jakob Arendsen,Movitz,Undirected,1
+Jakob,Movitz,Undirected,1
+Andreas Povlsen Bas,Jakob Tenor,Undirected,1
+Jakob,Svend,Undirected,1
+Andreas Povlsen,Jakob,Undirected,4
+Andreas Povlsen,Kamilla,Undirected,1
+Jakob,Kamilla,Undirected,1
+Andreas Povlsen,Jakob«,Undirected,1
+Andreas,Jakob«,Undirected,1
+Andreas,Jakob,Undirected,2
+Jakob,Jakob Arendsen,Undirected,14
+Andres,Jakob,Undirected,1
+Gud,Jakob,Undirected,3
+Gud,Mohr,Undirected,1
+Povlsen,stum,Undirected,1
+Jakob,Povlsen,Undirected,2
+Andreas Povlsen,Fifikus,Undirected,1
+Fifikus,Jakob,Undirected,1
+Homer,Jakob,Undirected,1
+Jakob Arendsen,Kitty,Undirected,7
+Jakob,Katrine Bundsgaard,Undirected,2
+Katrine Bundsgaard,alfar,Undirected,1
+Katrine,Katrine Bundsgaard,Undirected,1
+Jakob,kam,Undirected,1
+Bundsgaard,Jakob Arendsen,Undirected,3
+Katrine,jere,Undirected,1
+Homer,Katrine,Undirected,1
+Bukar,Katrine,Undirected,1
+Katrine,Kitty,Undirected,2
+Jakob,Katrine,Undirected,4
+Jakob,hverdags,Undirected,1
+Bruns,Kitty,Undirected,1
+Bruns,Jakob,Undirected,1
+Jakob,Magdalene,Undirected,1
+Em,Kitty,Undirected,1
+Em,Jakob Arendsen,Undirected,1
+Katrine Bundsgaard,Kitty,Undirected,1
+Andreas,Jakob Arendsen,Undirected,2
+Jakob,lille Kristine Munk,Undirected,1
+Ellen Marsvins,lille Kristine Munk,Undirected,1
+Kristine,Lille Kristine Munk,Undirected,1
+Pampani ed uva,e la mia mamma sempre lo diceva,Undirected,1
+l'amor del,poco dura,Undirected,1
+Jakob,Pasop,Undirected,3
+Emma,Jakob,Undirected,1
+Jakob Arendsen,Pasop,Undirected,2
+Jakob Arendsen,Zola,Undirected,1
+Sophie,Vilhelmine,Undirected,1
+Andreas Povlsen,Sørensen,Undirected,1
+Sørensen,Vilhelmine,Undirected,3
+Lærer Sørensen,Odin,Undirected,1
+Andreas Povlsen,Vilhelmine,Undirected,2
+Svend,Sørensen,Undirected,1
+Sørensen,djærv,Undirected,1
+Arendsen,Jakob,Undirected,1
+Povlsen,edlem,Undirected,1
+Brutus,Sørensen,Undirected,1
+Jakob Arendsen,Sørensen,Undirected,1
+Andreas,Kitty,Undirected,2
+Kitty,Vilhelmine,Undirected,2
+Elsa,Kitty,Undirected,11
+Carmen,Kitty,Undirected,1
+Carmen,Elsa,Undirected,1
+Carmen,Jakob,Undirected,1
+Elsa,Jakob,Undirected,8
+Frøken Vilhelmine,Jakob,Undirected,1
+Brun,Kitty,Undirected,2
+Elsa,Frøken Jærnø,Undirected,1
+Arendsen,Kitty,Undirected,1
+Brun,Frøken Jærnø,Undirected,1
+Frøken Jærnø,Jakob Arendsen,Undirected,1
+Brun,Jakob Arendsen,Undirected,2
+Brun,L’,Undirected,1
+Jakob Arendsen,Johan Brun,Undirected,1
+Jakob,Johan Brun,Undirected,3
+Rudolf,Vetsera,Undirected,1
+Johan Brun,Kitty,Undirected,1
+Kitty,Liv,Undirected,2
+Brun,Elsa,Undirected,1
+Alvilda Jærnø,Frøken Jærnø,Undirected,1
+Brun,Jakob,Undirected,1
+Aare,Johan Brun,Undirected,2
+Aare,Jakob,Undirected,1
+Johan Brun,juris,Undirected,1
+Gud,juris,Undirected,1
+Elsa,Gud,Undirected,1
+Frøken Jærnø,Jakob,Undirected,1
+Frøken Jærnø,Kitty,Undirected,2
+Alvilda Jærnø,Elsa,Undirected,1
+Gud,Sørensen,Undirected,1
+Gud,Vilhelmine,Undirected,1
+Alvilda Jærnø,Jakob Arendsen,Undirected,1

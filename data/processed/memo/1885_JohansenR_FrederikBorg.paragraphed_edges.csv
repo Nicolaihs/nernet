@@ -1,0 +1,189 @@
+source,target,type,weight
+Kristian Borg,hams,Undirected,1
+Kathrine,hams,Undirected,1
+Andreas,Kathrine,Undirected,1
+Andreas,Frederik,Undirected,26
+Frederik,Frederik Borg,Undirected,8
+Andreas Borg,Jens,Undirected,1
+Karl Hansen,Karoline Millers,Undirected,1
+Karl Hansen,Millers,Undirected,1
+Karoline,Millers,Undirected,1
+Andreas,Jens Kristiansen,Undirected,2
+Jens,Karoline,Undirected,1
+Frederik Borg,juan,Undirected,1
+Andreas,juan,Undirected,1
+Kathrine,Kristian,Undirected,2
+Andreas,Matros,Undirected,1
+Andreas,Andreas’,Undirected,1
+Jakob,Jakob Gorm,Undirected,8
+Anders Gorms Jakob,Jens Knudsens,Undirected,1
+Jakob,Knud,Undirected,1
+J akob,Knud,Undirected,1
+Jakob Gorm,Ole,Undirected,2
+Ole,Vestergaard,Undirected,2
+Jakob Gorm,Sofie —,Undirected,1
+Jakob,Sofie,Undirected,13
+Ane,Jakob,Undirected,16
+Ane,Sofie,Undirected,6
+Jakob Gorm,Sofie,Undirected,14
+Sofie,hnn,Undirected,1
+Frederik Borg,Gud,Undirected,2
+Ane,Gud,Undirected,1
+Frederik,Sofie,Undirected,35
+Ane,Frederik,Undirected,4
+Ane,lille Jakob,Undirected,1
+Jens,Knud,Undirected,2
+Niels Pedersens,iVestergaard,Undirected,1
+Ole,iVestergaard,Undirected,1
+Ole,Sofie,Undirected,10
+Niels Pedersens,Sofie,Undirected,1
+Frederik,Gud,Undirected,3
+Frederik,Jakob,Undirected,7
+Frederik,Kristian Borg,Undirected,3
+Kristian,Magsvejr,Undirected,1
+Kristian,Trine,Undirected,11
+Frederik,Kristian,Undirected,5
+Trine,lille Kristian,Undirected,1
+Frederik,Trine,Undirected,5
+Andreas,Kristian,Undirected,3
+Frederik Borg,Kristian,Undirected,1
+Frederik Borg,Kristian Borg,Undirected,1
+Gud,Kristian Borg,Undirected,1
+Andreas,Trine,Undirected,3
+Frederik,eg,Undirected,1
+Andreas Borg,Jens Jørgensens,Undirected,1
+Andreas’,Frederik Borg,Undirected,1
+Andreas,Gud,Undirected,1
+Kristian,lille Kristian,Undirected,1
+Dumaa,Sofie Gorm,Undirected,1
+Kristian,Kristian Suhr,Undirected,1
+Karl,Niels Knudsens,Undirected,1
+Andreas,Jakob Gorm,Undirected,2
+Andreas,Sofie,Undirected,3
+Freedriks,Jakob Gorm,Undirected,1
+Gud,Jakob,Undirected,1
+Graad,Jakob,Undirected,1
+Hans,Sofie,Undirected,2
+Sofie,lille Hans,Undirected,1
+Jens,Sofie,Undirected,16
+Jakob,Jens,Undirected,7
+Jakob,lille Hans,Undirected,1
+Jens,lille Hans,Undirected,1
+Jens,ban,Undirected,1
+Ane,ban,Undirected,1
+Ane,Husbonds,Undirected,1
+Jakob,ban,Undirected,1
+Jakob,Karl,Undirected,1
+Frederik,Jakob Gorm,Undirected,3
+Jakob,Jakob G orms,Undirected,1
+Jakob G orms,Jens strax,Undirected,1
+Frederik Borg,Jens strax,Undirected,1
+Frederik Borg,Sofie Gorm,Undirected,2
+Frederik,Sofie Gorm,Undirected,5
+Frederik,Jens,Undirected,25
+Gud,Sofie,Undirected,3
+Jens,Sofie Gorm,Undirected,4
+Frederik,lian,Undirected,4
+Andreas,lian,Undirected,2
+Andreas,liam,Undirected,1
+Sofie,t,Undirected,1
+Frederik,t,Undirected,1
+Frederik,ril,Undirected,1
+Andreas,ril,Undirected,1
+Jakob Gorm,Jens,Undirected,5
+Andreas,Jens,Undirected,2
+Frederik,Hans Petersen,Undirected,2
+Jakob Gorm,Klavs,Undirected,3
+Jakob Gorm,Knud,Undirected,4
+Klavs,Knud,Undirected,2
+Knud,Per Jensen,Undirected,2
+Knud,Vestergaard,Undirected,1
+Jakob Gorm“,Per Jensen,Undirected,1
+Jens,Per Jensen,Undirected,1
+Knud,Niels Hansen,Undirected,1
+Frederik Borg,Jakob Gorm,Undirected,2
+Mn,Sofie,Undirected,1
+Frederik,aage,Undirected,1
+Frederik —,aage,Undirected,1
+Frederik —,Lether,Undirected,1
+Gud,Jens,Undirected,1
+Gorm,Sofie,Undirected,2
+Gorm,Jakob Gorm,Undirected,1
+Frederik Borg,Sofie,Undirected,4
+Frederik,ban,Undirected,5
+Sofie,Sofie Gorm,Undirected,2
+Frederik,Knud,Undirected,1
+Jakob Gorm,Niels Petersen,Undirected,1
+Niels Petersen,Sofie,Undirected,1
+Niels Petersen,Ole,Undirected,1
+Jakob,Ole,Undirected,1
+Jakob,Niels Petersen,Undirected,1
+Ane,Niels Petersen,Undirected,1
+Jakob Gorm,Sofie Gorm,Undirected,2
+Frederik,liam,Undirected,2
+Frederik,Kronprins Frederik,Undirected,2
+Frederik,Kjøresvend,Undirected,1
+Frederik Borg,Jens,Undirected,1
+Frederik,livor,Undirected,2
+Kronprins Frederik,tys,Undirected,1
+Frederik,ovei,Undirected,1
+Frederik,Kong Kristian,Undirected,1
+Knud Skindkræmmer,lian,Undirected,1
+Knud,lian,Undirected,1
+Jakob Gorm,Knud Skindkræmmer,Undirected,1
+Jakob Gorm,Klavs Kromand,Undirected,1
+Jens’,Sofie,Undirected,1
+goc,lian,Undirected,1
+Gud,goc,Undirected,1
+.Jakob Gorms,Frederik,Undirected,1
+Karl,Tyrken,Undirected,1
+Korning,Tolstrup,Undirected,4
+Tolstrup,liam,Undirected,1
+Gud,Konning,Undirected,1
+Dj ævle drik,Gud,Undirected,1
+Adam,Tolstrup,Undirected,1
+Adam,Eva,Undirected,1
+Eva,Kain,Undirected,1
+Adam,Korning,Undirected,1
+Arne,s,Undirected,1
+Gud,s,Undirected,1
+Frederik,Korning,Undirected,12
+Frederik Borg,Korning,Undirected,3
+Frederik Borg,ban,Undirected,1
+Frederik,Rye,Undirected,1
+Gud,Korning,Undirected,1
+Frederik,Tolstrup,Undirected,6
+Rye,lier,Undirected,1
+Korning,Rye,Undirected,1
+Gorm,Jens,Undirected,1
+Frederik,Hrovdan,Undirected,1
+Sofie Gorm,Sofie Hansen,Undirected,1
+Jakob Gorm,Sofie Hansen,Undirected,1
+Sofie Gorm,Vestergaard,Undirected,1
+Ole,ban,Undirected,1
+Kristens,Sofie Gorm,Undirected,1
+Frederik Borg,Jens Knudsen,Undirected,2
+Jens Knudsen,Sofie Hansen,Undirected,1
+Jens,Sofie Hansen,Undirected,1
+Jakob Gorm,lille Kristian,Undirected,2
+Frederik^,Jens,Undirected,2
+Ane,Jakob Gorm,Undirected,1
+Hans,Hans Petersen,Undirected,1
+Hans Petersen,Jakob Gorm,Undirected,1
+. B. Petersen,C. Poulsen Madsen,Undirected,1
+Madsen,Vibo,Undirected,1
+Bording,Karl,Undirected,1
+Jens Nielsen,Karl,Undirected,1
+0le,Ole,Undirected,1
+Dandse,Ole,Undirected,1
+Karl,Uggerlose,Undirected,1
+Bording,Ole,Undirected,1
+Uggerlose,tor,Undirected,1
+Ordonants,Uggerlose,Undirected,1
+Ole,lose,Undirected,1
+Ole,Uggerlose,Undirected,1
+Christoffer,Ole,Undirected,2
+Uggerlose,stet,Undirected,1
+Gud,P. L.,Undirected,1
+Bording,Gud,Undirected,1
+Christian,Svend,Undirected,1

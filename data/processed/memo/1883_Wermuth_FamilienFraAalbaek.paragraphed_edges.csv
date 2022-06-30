@@ -1,0 +1,244 @@
+source,target,type,weight
+Hans,Jens,Undirected,16
+Ane,Jens Svendsen,Undirected,36
+Ane,Arne,Undirected,1
+Arne,Jens,Undirected,1
+Ane,Jens,Undirected,70
+Jens,s,Undirected,4
+Ane ygsaa,Jens,Undirected,1
+Ane ygsaa,Karl,Undirected,1
+Fatter,Jens,Undirected,1
+Jens,Sine,Undirected,3
+Ane,Gud,Undirected,22
+Jens,Lars,Undirected,5
+Gud,Jens,Undirected,9
+Alan,Lars,Undirected,1
+Lars,s,Undirected,1
+Evropas,Gullø,Undirected,1
+Ekstrøm,Hr. Ekstrøm,Undirected,1
+Ekstrøm,Harristowu,Undirected,1
+Harristowu,Karl Ekstrøm,Undirected,1
+Ekstrøm,Harristown,Undirected,9
+Hans,Jack,Undirected,3
+Harristawn,Jack,Undirected,1
+Harrisfown,Jack,Undirected,1
+Hans,Harristown,Undirected,7
+Jens,Jens Svendsen,Undirected,20
+Ane,Sine,Undirected,5
+Jens,Simer,Undirected,1
+Ane,Simer,Undirected,1
+Lectie,Sine,Undirected,1
+Jens Svendsen,s,Undirected,1
+Jens Svendsen,blaa Vadmels,Undirected,1
+Ane,blaa Vadmels,Undirected,1
+Ane,Oro,Undirected,2
+Gud,Lars Nielsen,Undirected,1
+Jens,Lars Nielsen,Undirected,2
+Ane,Hans,Undirected,25
+,Jens,Undirected,10
+,Gud,Undirected,1
+Jens,Tyfus,Undirected,1
+,nied,Undirected,1
+Jens Svendsen,nied,Undirected,1
+Harristown,Jens Svendsen,Undirected,11
+deni,hnn,Undirected,1
+HarrisfownS,hnn,Undirected,1
+Ane,HarrisfownS,Undirected,1
+Gud,Harristown,Undirected,7
+Harristown,Lars Nielsen,Undirected,2
+Hans,Jens Svendsen,Undirected,20
+,Lars,Undirected,2
+,Jens Svendsen,Undirected,3
+Harristown,Jens,Undirected,6
+Gud,Jens Svendsen,Undirected,5
+Gud,Hans,Undirected,7
+Harristown,lille Hans,Undirected,1
+Hans,Lars,Undirected,1
+Hans,sif,Undirected,1
+Hans,lille Hans,Undirected,1
+Ane,Jens Hansen,Undirected,2
+Ane,Hans Peder Jensen,Undirected,1
+Hans Peder Jensen,Jens Hansen,Undirected,1
+Ane Nielsine Sørensdatter,Jens Hansen,Undirected,2
+Ane Marie Jensen,Ane Nielsine Sørensdatter,Undirected,1
+Ane Marie Jensen,Jens Hansen,Undirected,1
+Jens,hau,Undirected,1
+Hans,Sine,Undirected,8
+Ane,Stine,Undirected,4
+Gud,Jesu,Undirected,1
+Jens Svendsen,sif,Undirected,1
+Davren,Jens Svendsen,Undirected,1
+Davren,Hans,Undirected,1
+Jens Svendsen,sagdeHarristown,Undirected,1
+Hans,sagdeHarristown,Undirected,1
+Hans,vg,Undirected,1
+Gud,vg,Undirected,1
+Gud,väd,Undirected,1
+Sine,väd,Undirected,1
+,Ane,Undirected,2
+Alanden,Lars,Undirected,1
+Jens Svendsen,Lars Jensens,Undirected,1
+Jens Svendsen,Lars Jensen,Undirected,3
+Jens Svendsen,Lars,Undirected,6
+Lars,Lars Jensen,Undirected,1
+Jens,Søren,Undirected,2
+Marie,Søren,Undirected,3
+Marie,Stine,Undirected,3
+Bedste,Bedstefa,Undirected,1
+Bedstefa,Jens,Undirected,1
+Lars Jensen,Marie,Undirected,1
+Lars Jensen,Stine,Undirected,1
+Sine,Stine,Undirected,1
+Gud,Sine,Undirected,2
+Gud,Mortensdag,Undirected,1
+Ester,Jens Svendsen,Undirected,1
+Ane,Præsfen,Undirected,1
+Hans,Præsfen,Undirected,2
+,Hans,Undirected,6
+,Lars Nielsen,Undirected,2
+Jens Svendsen,Kren Krænsen,Undirected,12
+Christen Christensen,Kren Krænsen,Undirected,1
+Karen,Kren Krænsen,Undirected,1
+Karen,Per,Undirected,3
+Maren,Per,Undirected,7
+Kren Krænsen,Per,Undirected,11
+Kren,Per,Undirected,22
+Jens Svendsen,Per,Undirected,8
+Jens Svendsen,Kren,Undirected,17
+Per,Sine,Undirected,4
+Jens Svendsen,Sine,Undirected,1
+Jens,Kren,Undirected,26
+Jens Svendsen,Karen,Undirected,1
+Hans,Kren,Undirected,1
+,Kren,Undirected,2
+Jens Svendsen,Krænsen,Undirected,1
+Kren,Krænsen,Undirected,2
+Hans,Kren Krænsen,Undirected,1
+Jens,Kren Krænsen,Undirected,7
+Karl,Kren,Undirected,1
+Jens,Karl,Undirected,1
+Kren,Kren Krænsen,Undirected,5
+Ane,Søren,Undirected,3
+Harristown,Miss Svendsens,Undirected,1
+Karl Ekstrøm,Miss Svendsens,Undirected,1
+Hans,Jens fil,Undirected,1
+Jens Svendsen,Mutter,Undirected,1
+Jens,Mutter,Undirected,1
+Ekstrøm,Hans,Undirected,5
+Ekstrøm,Miss Svendsen,Undirected,18
+Eksfrøms,Glæede,Undirected,1
+Ekstrøm,Svendsen,Undirected,2
+Harristown,sanU,Undirected,1
+Miss Svendsen,sanU,Undirected,1
+Mis Svendsen,Miss Svendsen,Undirected,1
+Karl Eksfrøm,Mis Svendsen,Undirected,1
+Karl Eksfrøm,ester,Undirected,1
+Ekstrøm,Sine,Undirected,3
+Miss Svendsen,Sine,Undirected,1
+Ekstrøm,sidsfe,Undirected,1
+Harristown,Svendsen,Undirected,3
+Hain,ber,Undirected,1
+Ekstrym,Miss Svendsen,Undirected,1
+Gud,Miss Svendsen,Undirected,2
+Hans,Miss Svendsen,Undirected,2
+Miss Svendsen,strax,Undirected,1
+Harristown,strax,Undirected,1
+Ane,Per,Undirected,2
+Sine,Søren,Undirected,1
+Per,Stine,Undirected,1
+Dorthe,Jens Svendsen,Undirected,3
+Halte,Jens Svendsen,Undirected,1
+Dorthe,Halte,Undirected,1
+Ane,Dorthe,Undirected,4
+Ane fom,Dorthe,Undirected,1
+Ane,Ane fom,Undirected,1
+Jens Svendsen,Jens tillivs,Undirected,1
+Jens tillivs,Kren,Undirected,1
+Jens,meir,Undirected,2
+Ane,Kren,Undirected,7
+Krcn,Per,Undirected,1
+Ane,Kren Krænsen,Undirected,5
+Jens Svendsen,fil Kren Krænscn,Undirected,1
+Jens Svendsen fil,Kren Krænsen,Undirected,1
+Jens Svendsen,Jens Svendsen fil,Undirected,1
+,Kren Krænsen,Undirected,1
+Gud,Kren Krænsen,Undirected,1
+Ekstrøm,Kjøbmand Ekstrøms,Undirected,2
+Ekstrøm,Mons,Undirected,1
+Erik,Mons,Undirected,1
+Harristown,Miss Svendsen,Undirected,1
+Karl Ekstrym,Miss Svendsen,Undirected,1
+Harristown,Karl Ekstrym,Undirected,1
+Gud,hnn,Undirected,1
+Harristown,ester,Undirected,1
+Ekstrym,Harristown,Undirected,1
+N.,as,Undirected,1
+Gud,Hansis,Undirected,1
+Gud,Sophaen,Undirected,1
+Ellen,Klavs,Undirected,15
+Ellen,kjøn,Undirected,1
+Ellen,Svendsen,Undirected,9
+Klavs,Svendsen,Undirected,3
+Morbro,Svendsen,Undirected,1
+Hans,Svendsen,Undirected,1
+Ellen,Morbro,Undirected,1
+Ellen,Gud,Undirected,2
+Ellen,Jens Svendsen,Undirected,2
+Jens Svendsen,Lars Nielsen,Undirected,2
+Jens Svendsens Hans,Lars Nielsen,Undirected,2
+Ellen,Lars Nielsen,Undirected,2
+Ellen,hans Baad,Undirected,1
+Gud,Klavs,Undirected,2
+Ellen,Harristown,Undirected,8
+Jens Svendsen,fom Kren Krænsen,Undirected,1
+Jens,Per,Undirected,5
+Kren,ban,Undirected,1
+Kren Krænsen,ban,Undirected,1
+Karl,Per,Undirected,1
+Ane,Harristown,Undirected,6
+Harristown,Sine,Undirected,1
+Ane,Øe,Undirected,1
+Jens Svendsen,Vorherre,Undirected,1
+Ekstrøm,Jens Svendsen,Undirected,4
+Jens,jere,Undirected,1
+Ekstrøm,Gud,Undirected,2
+Hans Svendsen,Klavs Madsen,Undirected,1
+Jens Post,Jens Svendsen,Undirected,1
+Jens Svendsen,Svendsen,Undirected,1
+Klavs,Lars Nielsen,Undirected,2
+,Klavs,Undirected,2
+Jens Svendsen,Klavs,Undirected,2
+Ellen,KlavS.,Undirected,1
+,Harristown,Undirected,1
+Hans,Lars Nielsen,Undirected,1
+Ester,Lars Nielsen,Undirected,1
+Ane,inan,Undirected,1
+Ane,ganile Klavs,Undirected,1
+Ellen,Klavs Madsen,Undirected,1
+Ane,Ellen,Undirected,4
+Harristown,Klavs,Undirected,3
+Ane,Jens Posf,Undirected,1
+Asten,Jens Posf,Undirected,1
+Ane,Klavs,Undirected,7
+Klas,Klavs Madsen,Undirected,1
+Ellen,Jens,Undirected,1
+Per,jere,Undirected,1
+Hans,Klavs,Undirected,1
+Harristown,Per,Undirected,4
+Harristown,Kren Krænsen,Undirected,2
+Harristown,Kren,Undirected,1
+Kren,dein,Undirected,1
+Jens,dein,Undirected,1
+Ellen,Marie,Undirected,1
+Jens,Stine,Undirected,1
+Ellen,Vorherre,Undirected,1
+Klavs,Morfa,Undirected,1
+Harristown,Karl Ekstrøm,Undirected,1
+Ellen,Tante,Undirected,1
+Jens Svendsen,fil,Undirected,2
+Ellen,fil,Undirected,2
+Harristown,sidsfe,Undirected,1
+Jens,alf,Undirected,1
+Ekstrøm,Jens,Undirected,1
+,Ellen,Undirected,1
+,Per,Undirected,1

@@ -1,0 +1,78 @@
+source,target,type,weight
+Birgitte,Oskars,Undirected,1
+Karen Isgaard,Oskar,Undirected,1
+Illerup,Karen Isgaard,Undirected,1
+Madam,h,Undirected,1
+Madam,Madam Søndervejle,Undirected,1
+Guds,Madam Søndervejle,Undirected,1
+Oskar,hans Sostersons,Undirected,1
+Jorgen Blussings,hans Sostersons,Undirected,1
+Jorgen Blussings,Jørgen Blussing,Undirected,1
+Jørgen,Oskar,Undirected,1
+Jørgen,Møller,Undirected,1
+Mølleren,Oskar,Undirected,1
+Gud,Mølleren,Undirected,1
+Gud,véd,Undirected,2
+Oren,Oskar,Undirected,1
+Emma,Karen,Undirected,2
+Karen,Oskar,Undirected,60
+Gustad,Karen,Undirected,8
+Harriet,Valdemar,Undirected,1
+Oskar,Valdemar,Undirected,11
+Karen,Valdemar,Undirected,15
+Gustad,Karlekammer,Undirected,1
+Karlekammer,Valdemar,Undirected,1
+Harald,Harriet,Undirected,1
+Harriet,alias,Undirected,1
+Gud,Sælsted,Undirected,1
+Anders varder,Valdemar,Undirected,1
+Anders varder,Oskar,Undirected,1
+Anders,Oskar,Undirected,1
+Fruens,Karen,Undirected,1
+Flan,Karen,Undirected,2
+Born,Laura Strehling,Undirected,1
+Birgitte,Oskar,Undirected,2
+Birgitte,Bredager,Undirected,5
+Bredager,Valdemar,Undirected,1
+Mama,Oskar,Undirected,2
+Hasting,Karen,Undirected,6
+Hasting,Oskar,Undirected,3
+Harriet,Karen,Undirected,3
+Brikander,Valdemar,Undirected,1
+Brikander,Karen,Undirected,1
+Karen,Kykeliky,Undirected,1
+Harald,Karen,Undirected,1
+Harald,Oskar,Undirected,2
+Madame,Mølleren,Undirected,1
+Blussings,Madam Søndervejle,Undirected,1
+Gud,Oskar,Undirected,3
+Blussings,Gud,Undirected,1
+Arturs,Blussings,Undirected,1
+Arturs,Madam Søndervejle,Undirected,1
+Gud,Madam Søndervejle,Undirected,1
+Gud,Marie Vold,Undirected,1
+Kjøn,Oskar,Undirected,1
+Ane,Valdemar,Undirected,1
+Ane,Brikander,Undirected,1
+Brikander,Jomfru Hansen,Undirected,1
+Karen,j6,Undirected,1
+Gustad,Oskar,Undirected,3
+Gud,Karen,Undirected,2
+Frøken Isgaard,notam,Undirected,2
+Møller,lille Nikolaj,Undirected,1
+Madam Sondervejle,Oskar,Undirected,1
+Brikander,Oskar,Undirected,1
+Gud,Gustad,Undirected,1
+Don Juan,Gustad,Undirected,1
+Don Juan,Hasting,Undirected,1
+Hasting,Lados,Undirected,1
+Harriet,Hasting,Undirected,1
+Goethe,Valdemar,Undirected,1
+Fru Gustad,Oskar,Undirected,1
+Folgen,Karen,Undirected,1
+Birgitte,Karen,Undirected,1
+Hexeri,Karen,Undirected,2
+Bøgumgaard,Oskar,Undirected,3
+Blussing,Oskar,Undirected,1
+Oskar,Sælsted,Undirected,1
+Bredager,Oskar,Undirected,1

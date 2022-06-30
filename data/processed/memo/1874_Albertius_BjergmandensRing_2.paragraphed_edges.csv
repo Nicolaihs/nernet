@@ -1,0 +1,252 @@
+source,target,type,weight
+Albert,Nanna,Undirected,78
+Nanna,Sveitser,Undirected,1
+Fatter,Madam,Undirected,1
+Fatter,Knud Bentsen,Undirected,1
+Ib,Moses,Undirected,1
+Albert,Knud Bentsen,Undirected,2
+Moses,lille Nanna,Undirected,1
+Moses,Nanna,Undirected,7
+Albert,Karlen,Undirected,1
+Karl,Nanna,Undirected,1
+Jbs,Moses,Undirected,1
+Hesfen,Moses,Undirected,1
+Graad,Moses,Undirected,1
+,Moses,Undirected,1
+Alice,Villiam Falz,Undirected,1
+Dams,Moses,Undirected,1
+Alice,Moses,Undirected,1
+Alice,Ivan,Undirected,10
+Ivan,Villiam Falz,Undirected,1
+Adonis,Villiam,Undirected,2
+Frida,Villiam,Undirected,1
+Frida,Hjertenskjær,Undirected,1
+Gud,Hjertenskjær,Undirected,1
+Alice,Villiam,Undirected,5
+Alice,seigpines,Undirected,1
+Madam Bentsen,Nanna,Undirected,3
+Knud Bentsen,Moses,Undirected,1
+Moses,taalmodig,Undirected,1
+Grev Æhreuskjolds,Nanna,Undirected,1
+Frida,Nanna —,Undirected,1
+Frida,Moses,Undirected,1
+Amandas,Nanna,Undirected,1
+Dam,Søderborg,Undirected,2
+Grev Æhrenskjold,Moses,Undirected,1
+Dam,Moses,Undirected,1
+Dam,Ib,Undirected,1
+Dam,Greve,Undirected,1
+Ivan,Villiam,Undirected,2
+Ivan,Kvaien,Undirected,1
+Albert,Frida,Undirected,2
+Kong Frederik,Nanna,Undirected,2
+Albert,Gud,Undirected,9
+Albert Jul,hans Skaal,Undirected,1
+Albert,Jomfru Smith,Undirected,1
+Halloh,Mathæus,Undirected,1
+Chrisfians,Frida,Undirected,1
+Christian,Frida,Undirected,22
+Christian knnde,Frida,Undirected,1
+Frida,Palles,Undirected,1
+Christian,Palles,Undirected,1
+Palle,Tyran,Undirected,1
+Palle,Ulk,Undirected,1
+Frida,Palle,Undirected,9
+Hnn,Palle,Undirected,1
+Christian,Palle,Undirected,4
+Chrisfian Bek,Frida,Undirected,1
+Aaget,Napoleon,Undirected,1
+Mairen,Pjerre,Undirected,2
+Moses,Æhrenfljolds,Undirected,1
+Nanna,Æhrenfljolds,Undirected,1
+Amandas,Søderborg,Undirected,1
+Moses,Søderborg,Undirected,1
+Albert,Pjewe,Undirected,1
+Pjerre,Pjewe,Undirected,1
+Baron Søderborg,Dam,Undirected,1
+Dam,Nanna,Undirected,7
+Albert,Dam,Undirected,4
+Dam,Jan,Undirected,1
+Greven,Moses,Undirected,1
+Albert,Greven,Undirected,3
+Albert,Pjerre,Undirected,3
+Greven,Mairen,Undirected,1
+Nanna,Pjerre,Undirected,1
+Albert,Madam Bentsen,Undirected,1
+Knud,Madam Bentsen,Undirected,1
+Gud,Nanna,Undirected,6
+Albert,Berg,Undirected,2
+Alice,Gud,Undirected,2
+Jb,Laura,Undirected,1
+Magnus,Villiam,Undirected,1
+Eie,Gud,Undirected,1
+Frida,Frida Smith,Undirected,1
+Dam,Frida Smith,Undirected,1
+Frida,Herr Pasfor,Undirected,1
+Frida,hnn,Undirected,1
+Dam,Frida,Undirected,13
+Frida,MarL,Undirected,1
+Frida,With,Undirected,3
+Frida,Gud,Undirected,4
+Frida,Gertrud,Undirected,1
+Dands,Frida,Undirected,1
+Alice,Tom,Undirected,1
+Alice,Magnus,Undirected,1
+Alice Dam,Gud,Undirected,1
+Alice,Gertrude,Undirected,1
+Alice,With,Undirected,3
+Albert,Alice,Undirected,16
+Frida,Nanna,Undirected,8
+Nanna,j,Undirected,1
+Ib,Villiam Falz,Undirected,1
+Christian Bek,Ib,Undirected,1
+Malene,Nanna,Undirected,3
+Christian Bek,Malene,Undirected,1
+Christian,Nanna,Undirected,3
+Alice,Nanna fil,Undirected,1
+Nanna,ester,Undirected,1
+Hart,Nanna,Undirected,2
+Anders Steffensen,Søren,Undirected,1
+Christian Bek,Frida,Undirected,1
+Anders,Søren,Undirected,4
+Anders,Anders Stefensens,Undirected,1
+Anders Stefensens,Søren,Undirected,1
+Anders Stefensen,Søren,Undirected,2
+Kjøbmand Juls,Søren,Undirected,1
+Karl,Støi,Undirected,1
+Anders Stefensen,Zigeunerindens,Undirected,2
+Anders Stefensen,Gud,Undirected,1
+Anders Stefensen,Zigeunerinde,Undirected,1
+Alfred,hu,Undirected,1
+Alfred,Nanna,Undirected,5
+Albert,Fisker,Undirected,1
+Albert,Niels Fisker,Undirected,1
+Alice,Nanna,Undirected,21
+Ivan,ilke,Undirected,1
+Albert,Ivan,Undirected,1
+Gertrude,With,Undirected,1
+With,hckks,Undirected,1
+Frida,Jomfru Smith,Undirected,1
+Frida,wen,Undirected,1
+Angelika,Frida,Undirected,10
+Angelika,With,Undirected,3
+Pastor With,With,Undirected,2
+Kong Frederik,Palle,Undirected,1
+Palle,Toby,Undirected,3
+Angelika,Anina,Undirected,1
+Angelika,Lasfens,Undirected,1
+Palle Baadsmand,With,Undirected,2
+Palle,Seil,Undirected,1
+Dam,Palle,Undirected,1
+Palle,iland,Undirected,1
+Frida,Hulda,Undirected,2
+Frida,Leopold,Undirected,1
+Leopold,Vorherre,Undirected,1
+Christian,Toby,Undirected,1
+Jokumsen,Rigoletto,Undirected,2
+Lille Toby,Palle,Undirected,1
+Lille Toby,Toby,Undirected,1
+Frida,Lykkes,Undirected,1
+Alice,Elsfer,Undirected,1
+Louise,Nanna,Undirected,15
+Alice,riDa Albert,Undirected,1
+Alfred,Alice,Undirected,1
+Nanna,Seir,Undirected,1
+Alice,Louise,Undirected,2
+Christen Fisker,Moder,Undirected,1
+Albert,Alfred,Undirected,2
+Albert,ezr,Undirected,1
+Gud,ezr,Undirected,1
+Alice,Præsfen,Undirected,1
+Albert,Præsfen,Undirected,2
+Alice,jæg,Undirected,1
+Albert,jæg,Undirected,1
+Alice,Aliee,Undirected,1
+Pasforen,With,Undirected,1
+Frida,sidsfe,Undirected,1
+Fatter Petrus,Frida,Undirected,1
+Frida,Palle foer,Undirected,1
+Frida,Palle vexlede,Undirected,1
+Frida,Palle Baadsmand,Undirected,2
+Christian,Palle Baadsmand,Undirected,2
+Christian,Dam,Undirected,1
+Angelika,Dam,Undirected,1
+Dam,With,Undirected,2
+Dam,Gertrude,Undirected,1
+Lady Wilson,Miss Wilson,Undirected,1
+Amanda,Rigoletto,Undirected,1
+Frida,Rigoletto,Undirected,1
+Albert,Kong Frederik,Undirected,1
+Anker,Palle,Undirected,1
+Frederik Folkekjær,Roeskilde,Undirected,1
+Blaar,Tordenskjold,Undirected,1
+Magnus,Palle Baadsmand,Undirected,1
+Chrisfian,Frida,Undirected,4
+Brumbasse,Chrisfian,Undirected,1
+Brumbasse,Frida,Undirected,1
+Chrisfian,Palle,Undirected,1
+Dam,Øm,Undirected,1
+Skjød,sir,Undirected,1
+Albert,Louise,Undirected,5
+Knud Bentsen,Nanna,Undirected,5
+Knud,Nanna,Undirected,8
+Dam,Hart,Undirected,1
+Albert,Lazarethel,Undirected,1
+Albert Jul,Nanna,Undirected,2
+Albert,Jul,Undirected,1
+Doris,Hnn,Undirected,1
+Dam,Knud,Undirected,1
+Albert,Knud,Undirected,3
+Albert,ilive,Undirected,1
+Albert Jul,ilive,Undirected,1
+Louise,hæsf,Undirected,1
+Gud,Louise,Undirected,3
+Knud Bentsen,Louise slode,Undirected,1
+Nanna,Præsfen,Undirected,1
+Gud signe Eder,Knud,Undirected,1
+Louise,kjær,Undirected,1
+Louise,Palle,Undirected,4
+Nanna,Palle,Undirected,3
+Knud Bentsen,Palle,Undirected,1
+Ester,Frida,Undirected,1
+Alfred,Frida,Undirected,4
+Alfred,Louise,Undirected,13
+Grethe Larsdatter,Jens Kromand,Undirected,1
+Grethe,Jens Kromand,Undirected,1
+Alfred,Palle,Undirected,5
+Alfred,Gud,Undirected,4
+Albert,Palle,Undirected,5
+Alfred,Allenfals,Undirected,1
+Louise,sagbe Baadsmanden,Undirected,1
+Albert Jul,Louise,Undirected,1
+Dam,Hnn,Undirected,1
+Christian,Hnn,Undirected,1
+Alfred,Knud Bentsen,Undirected,1
+Christian Fyrvægter,Knud Bentsen,Undirected,1
+Alfred,Christian Fyrvægter,Undirected,1
+Alfred,Christian,Undirected,3
+Alfred,Chrisfian,Undirected,1
+Frida,bun,Undirected,1
+Mustafa,Nanna,Undirected,1
+Alfred,Mustafa,Undirected,1
+Pisfolen,sfete,Undirected,1
+Alfred forbauset,sfete,Undirected,1
+Alfred forbauset,Frida,Undirected,1
+Grev LEHrenskjolds,Moses,Undirected,1
+Moses,Pasforen,Undirected,1
+Pasforen,Seire,Undirected,1
+Seire,iveien,Undirected,1
+Frida,iveien,Undirected,1
+Moses,hi,Undirected,1
+Grev LEHrenskjold,hi,Undirected,1
+Amanda,Grev LEHrenskjold,Undirected,1
+Amanda,Venus,Undirected,1
+Louise,Tante,Undirected,1
+Chrisfian,Ib,Undirected,2
+Frida,Villiam Falz,Undirected,1
+Gud,Ib,Undirected,1
+Chrisfian,Gud,Undirected,1
+Christian,Gud,Undirected,2
+Christian Bek,Dam,Undirected,1
+Albert Jul,Madam Smith,Undirected,1
+Albert Jul,Palle Baadsmand,Undirected,1

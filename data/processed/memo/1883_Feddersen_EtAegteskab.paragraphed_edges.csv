@@ -1,0 +1,134 @@
+source,target,type,weight
+Erik Gorm,Gorm,Undirected,1
+Halte,Jens,Undirected,1
+Fisker,Niels Olsen,Undirected,1
+Fisker,Gud,Undirected,1
+f,j,Undirected,1
+Tora,nette,Undirected,1
+Erik Gorm,Mariane,Undirected,2
+Gorm,Mariane,Undirected,1
+Principal,Tomsen,Undirected,2
+Emilie Holsted,Tora,Undirected,2
+Berta,Tora,Undirected,4
+Karlen,Tomsen,Undirected,1
+Tora,tom,Undirected,1
+Edvard,Tora,Undirected,54
+Edvard,Julius,Undirected,63
+Julius,Tora,Undirected,47
+Tora,Toras Formening,Undirected,1
+Gorm,Toras Formening,Undirected,1
+Mariane,Tora,Undirected,1
+Principalens,Tora,Undirected,1
+Gorm,Tomsen,Undirected,1
+Tomsen,Tora,Undirected,24
+Ole Jensen,Tora,Undirected,1
+Berta,Ole Jensen,Undirected,1
+Frøken Tora Holsted,Julius,Undirected,2
+Harriet,Papa,Undirected,2
+Julius,Papa,Undirected,1
+Baronen,Tora,Undirected,1
+capisco bene,signor,Undirected,1
+Gorm,Julius,Undirected,4
+Edvard Gorm,Gorm,Undirected,1
+Edvard Gorm,Tora,Undirected,2
+Baron C,Edvard Gorm,Undirected,1
+Baron C,Edvard,Undirected,1
+Edvard,Frøken Holsted,Undirected,1
+Frøken Holsted,Julius,Undirected,1
+Papa,Sarah Wilson,Undirected,1
+Papa,you,Undirected,1
+Miss Wilson,Tora,Undirected,22
+Tora,Wilsons,Undirected,2
+Julius,Miss Wilson,Undirected,12
+Miss Hopgood,Miss Wilson,Undirected,1
+Harriet Hopgood,Miss Wilson,Undirected,4
+Edvard,Harriet Hopgood,Undirected,2
+Edvard,Miss Wilson,Undirected,15
+Papa,Tora,Undirected,3
+Miss Sarah,Miss Wilson,Undirected,1
+Mistress Gorm,Tora,Undirected,1
+Miss Wilson,Mistress Gorm,Undirected,1
+Lærkens,Miss Wilson,Undirected,2
+Miss Wilson,Tomsen,Undirected,2
+Principal,Tora,Undirected,1
+Miss-Wilson,Tora,Undirected,1
+Edvard,Miss-Wilson,Undirected,1
+Tomsen,taug,Undirected,1
+Tora,Wilson,Undirected,2
+Miss Wil-,Tora,Undirected,1
+Miss Wil-,son,Undirected,2
+Miss Wilson,son,Undirected,1
+Niels Olsen,Tora,Undirected,6
+Hiin,Tora,Undirected,1
+Hiin,Niels Olsen,Undirected,1
+Fisker,J,Undirected,1
+J,Tora,Undirected,1
+Tora,Tora taug,Undirected,1
+J,Meran,Undirected,1
+Edvard,hennes,Undirected,2
+Edvard,Tomsen,Undirected,2
+Tomsen,j,Undirected,2
+Tora,j denne,Undirected,1
+Wilson,j denne,Undirected,1
+j,jr,Undirected,1
+jr,t,Undirected,1
+Erik,Tora,Undirected,1
+Edvard,Meran,Undirected,2
+Schillers,Tora,Undirected,1
+Julius,Tomsen,Undirected,3
+Berta,Peter Rasmussen,Undirected,1
+Niels Olsen,Peter Rasmussen,Undirected,1
+Julius,Niels Olsen,Undirected,1
+Harriet,Tora,Undirected,7
+Edvard,Edvard Gorm,Undirected,4
+Julius,Wilson,Undirected,1
+Julius,Sarah Wilson,Undirected,1
+Harriet,Julius,Undirected,9
+Harriet,Sarah Wilson,Undirected,1
+Hopgood,Sarah Wilson,Undirected,1
+Gorm,Miss Wilson,Undirected,1
+Bravo,Miss Wilson,Undirected,1
+Hopgood,Julius,Undirected,1
+Miss Harriet Hopgood,Miss Wilson,Undirected,1
+Harriet Hopgood,Tora,Undirected,1
+Edvard,Edvard ytre,Undirected,1
+Edvard,ménte,Undirected,1
+Edvard,Harriet,Undirected,12
+August,Edvard,Undirected,1
+Edvard,taug,Undirected,1
+Edvard,Konsulens,Undirected,1
+Julius,Konsulens,Undirected,1
+Edvard,Gorm,Undirected,2
+Edvard,Erik Glipping,Undirected,1
+Erik Glipping,Gud,Undirected,1
+Edvard,Søren Bang,Undirected,2
+Baron C.,Edvard,Undirected,1
+Sarah,Tomsen,Undirected,1
+Gorm,Harriet,Undirected,1
+Harriet,Mistress Gorm,Undirected,1
+Julius,Miss Hopgood,Undirected,1
+Harriet,Miss Hopgood,Undirected,1
+Edvard,Julius taug,Undirected,2
+Edvard,Mo,Undirected,1
+Julius,Mo,Undirected,1
+Harriet,Miss Wilson,Undirected,1
+Gorm,Tora,Undirected,1
+Gorm,taug,Undirected,1
+Niels,Niels Olsen,Undirected,1
+Niels,Tora,Undirected,1
+Frue,Tora,Undirected,1
+Mariane,Tomsen,Undirected,1
+Mariane,lille Mariane,Undirected,1
+Harriet,Tomsen,Undirected,2
+Tjæneren,Tora,Undirected,1
+Harriet,Tjæneren,Undirected,1
+Gud,Tora,Undirected,1
+JeS,Julius,Undirected,1
+Edvard,Kono,Undirected,1
+Tora,sulen,Undirected,1
+Julius,taug,Undirected,2
+Julius,Tora taug,Undirected,1
+Julius,beo,Undirected,1
+Julius’,Tora,Undirected,1
+Julius,lille Edvard,Undirected,1
+Gud,Madonna,Undirected,1

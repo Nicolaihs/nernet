@@ -1,0 +1,183 @@
+source,target,type,weight
+Anders,Karene,Undirected,1
+Gardintøi,UTøiel,Undirected,1
+Brandt,Cornelius Knudsen,Undirected,11
+Brandt,Knudsen,Undirected,5
+Brandt,Gustav Krøger,Undirected,3
+Jacobs,lian —,Undirected,1
+Brandt,Tørres,Undirected,1
+Pierren,Tørres,Undirected,1
+Jessen,Knudsen,Undirected,2
+Hr. Jessen,Knudsen,Undirected,4
+Brandt,Krøger,Undirected,3
+Julie,Julie Krøger,Undirected,2
+Krøger,Sofie,Undirected,6
+Gustav Krøger,Knudsen,Undirected,1
+Julie,Sofie,Undirected,9
+Julie,—,Undirected,1
+Jolla Blom,—,Undirected,1
+Gustav Kroger,Luther,Undirected,1
+Jolla Blom,Julie,Undirected,7
+Krøger,Morten,Undirected,1
+Gustav Krøger,Jolla Blom,Undirected,1
+Gud,Sofie,Undirected,1
+Gud,Salomo,Undirected,1
+Jolla Blom,Sofie,Undirected,2
+Frøken Thorsen,Reinert,Undirected,1
+Jessen,b'ru Knudsen,Undirected,1
+Bertha,livor,Undirected,1
+Bertha,Knudsen,Undirected,1
+Bertha,Tørres,Undirected,2
+Bertha,Jomfru Thorsen,Undirected,1
+Olaves,Simon Varhoug,Undirected,1
+Halvor,Simon,Undirected,2
+Hr. Jessen,Plan,Undirected,1
+Jessen,Plan,Undirected,1
+Anton,Jessen,Undirected,1
+Eru Jessen,Liun,Undirected,1
+Anton,Tørres Wold,Undirected,2
+Hr. Jessen,Jessen,Undirected,4
+Hr. Jessen,Tørres,Undirected,3
+Frøken Thorsen,Hr. Jessen,Undirected,1
+Bertha,lian,Undirected,1
+Gustav Krøger,Vexler,Undirected,1
+Cornelius Knudsen,Krøger,Undirected,2
+Knudsen,Krøger,Undirected,2
+Krøger,Tørres,Undirected,1
+Krøger,Tørres Wold,Undirected,2
+Gustav Krøger,Tørres Wold,Undirected,1
+Joseph,Robinson,Undirected,1
+Joseph,Samson,Undirected,1
+Jacob,Samson,Undirected,1
+Gud,Jacob,Undirected,6
+Jacob,bent,Undirected,2
+Esau,Isachs,Undirected,1
+Isach,Jacob,Undirected,2
+Jacob,Rebekka,Undirected,1
+Esau,Jacob,Undirected,1
+Jacob,Rachel,Undirected,4
+Abraham,Isach,Undirected,1
+Jacob,Sauer,Undirected,1
+Eiv,Wold,Undirected,1
+Toddy,Tørres,Undirected,1
+Jessen,Toddy,Undirected,1
+Bertha,Frøken Thorsen,Undirected,1
+Gustav Krøger,Sofie,Undirected,3
+Jensen,Sofie,Undirected,1
+Gustav,Sofie,Undirected,1
+Figen,Julie,Undirected,1
+Julie,Steiner,Undirected,2
+Julie Krøger,Steiner,Undirected,2
+Julie,Lullis,Undirected,1
+Julie,Lulli,Undirected,6
+Julie,Krøger,Undirected,5
+Sofie,Tru Steiner,Undirected,1
+Hr. Wold,Julie,Undirected,4
+Flan,Julie,Undirected,1
+Gustav Krøger,Hamre,Undirected,2
+Hamre,Krøger,Undirected,2
+Hr. Jessen,Wold,Undirected,3
+Cornelius Knudsen,Lir.,Undirected,1
+Jessen,Lir.,Undirected,1
+Gustav Krøger,Jessen,Undirected,2
+Krøger,skjævt,Undirected,1
+Frøken Thorsen,hans,Undirected,1
+Halvor Røidervaag,ivei,Undirected,1
+Halvor Røidervaag,Simon Varhoug,Undirected,1
+Simon,Simon Varhoug,Undirected,3
+Halvor Røidevaag,Simon,Undirected,1
+Gustav Krøger,Julie,Undirected,3
+Anton Jessen,Brandt,Undirected,2
+Cornelius Knudsen,G. Krøgers,Undirected,1
+G. Krøgers,Knudsen,Undirected,1
+Hr. Jessen,voxen,Undirected,1
+Gustav Krøger,voxen,Undirected,1
+Hr. Jessen,Krøger,Undirected,1
+Brandt,Hr. Jessen,Undirected,1
+Tørres Wold,Vexler,Undirected,1
+Fris,Vexler,Undirected,1
+Eru Knudsens,Gud,Undirected,1
+Gud,T. Wold,Undirected,2
+Brandt,Jessen,Undirected,2
+Gustav Krøger,Wold,Undirected,1
+Jolla Blom,Julie Krøger,Undirected,2
+Jolla Blom,Tlilla Arentz,Undirected,1
+Dalla With,Tlilla Arentz,Undirected,1
+Assen,Dalla With,Undirected,1
+Assen,Trutte Maribo,Undirected,1
+Dada,Trutte Maribo,Undirected,1
+Dada,Didi Brun,Undirected,1
+Eøitnant Filtvedt,Julie,Undirected,1
+Eøitnant Filtvedt,Løitnant Tuftemo,Undirected,1
+Julie Krøger,Krøger,Undirected,1
+Gustav Krøger,Plan,Undirected,1
+Krøger,Plan,Undirected,1
+Christensen,T. Wold,Undirected,1
+Gustav Krøger,T. Wold,Undirected,2
+Julie,Wold,Undirected,2
+Julie,Løitnant Filtvedt,Undirected,3
+Christensen,røken Julies,Undirected,1
+Jolla,Jolla Blom,Undirected,1
+Julie,billers,Undirected,1
+Krøger,Wold,Undirected,2
+Brandt,Christensen,Undirected,1
+Bertha,bent,Undirected,1
+Gustav Krøger,Krambodhandlers,Undirected,1
+Brandt,Krambodhandlers,Undirected,1
+Christensen,Wold,Undirected,2
+Halvor Røidevaag,Simon Varhoug,Undirected,2
+Halvor Røidevaag,Wold,Undirected,1
+Tørres Wold,lian,Undirected,1
+G. Krøger,Vexler,Undirected,1
+Bertha,Julie Krøger,Undirected,1
+Krøger,iveien,Undirected,1
+Lille Julie,Sofie,Undirected,2
+Jessen,iveien,Undirected,1
+Cornelius Knudsen,Tørres,Undirected,1
+Frøken Thorsen,Tørres,Undirected,1
+Frøken Thorsen,Jessen,Undirected,1
+Anton Jessen,løi,Undirected,1
+Brandt,Frøken Thorsen,Undirected,2
+Christensen,Hr. Jessen,Undirected,1
+Anton Jessen,Gustav Krøger,Undirected,1
+Gustav Krøger,Krøger,Undirected,2
+Christensen,Cornelius Knudsen,Undirected,1
+Jessen,Wold,Undirected,2
+Julie Krøger,Kaja Thorsen,Undirected,1
+Anton Jessen,Vexler,Undirected,1
+Ffan,Jacob,Undirected,1
+Reinert,c,Undirected,1
+Hr. Wold,Krøger,Undirected,1
+Wold,lille Frøken Thorsen,Undirected,1
+Brandt,lille Frøken Thorsen,Undirected,1
+Anton Jessen,Hr. Jessen,Undirected,1
+Hr. Jessen,Tørres Wold,Undirected,1
+Jessen,Tørres Wold,Undirected,1
+Jessen,Terje Vigen,Undirected,1
+Anton Jessen,Jessen,Undirected,1
+Anton Jessen,Hans P'ald,Undirected,1
+Brandt,Hans P'ald,Undirected,1
+Christensen,With,Undirected,1
+Carsten Løvdals,With,Undirected,1
+Carsten Løvdals,Tørres Wold,Undirected,1
+Konsul With,Wold,Undirected,1
+Soleh,With,Undirected,1
+Brandt,C. Knudsen,Undirected,1
+C. Knudsen,With,Undirected,1
+With,Wold,Undirected,1
+Anton Jessen,With,Undirected,1
+Bertha,Wold,Undirected,1
+Liun,Wold,Undirected,1
+Anton Jessen,Krøger,Undirected,1
+Anton Jessen,Cornelius Knudsen,Undirected,2
+Cornelius Knudsen,Jessen,Undirected,1
+Anton Jessen,sorn,Undirected,1
+Brandt,T. Wold,Undirected,1
+Gud,Wold,Undirected,1
+Gud,jevn,Undirected,1
+St. Olafs,T. Wold,Undirected,1
+Christensen,Dreyer,Undirected,1
+Dreyer,Hr. Wold,Undirected,1
+Tørres Wold,Wold,Undirected,1
+Rachel,oran,Undirected,1
+Jacob,Jacob —,Undirected,1

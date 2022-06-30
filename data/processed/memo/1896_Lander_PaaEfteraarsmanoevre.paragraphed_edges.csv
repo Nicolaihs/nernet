@@ -1,0 +1,158 @@
+source,target,type,weight
+Karl,Ole,Undirected,1
+Ole,Pilehans,Undirected,20
+Niels Hans,Stine,Undirected,2
+Ole,Stine,Undirected,6
+Jensen,Ole,Undirected,11
+Basselars,Lars Albrecht,Undirected,1
+Lars Albrecht,Ole,Undirected,2
+Lars,Ole,Undirected,1
+Hemming,Ole,Undirected,1
+Basselars,Ole,Undirected,5
+Ole,lille Ole,Undirected,1
+Karen,Pilehans,Undirected,1
+Frederik Frederiksen,Ole,Undirected,4
+Karen,Ole,Undirected,1
+Frederiksen,Ole Værsø,Undirected,1
+Ole,Punschen,Undirected,1
+Hansen,Lars Hansen,Undirected,1
+Hansen,Lars Larsen,Undirected,1
+Lars Hansen,Svendsen,Undirected,1
+Niels Hans,Ole,Undirected,1
+Ole,Olsens,Undirected,1
+Olsens,Peter,Undirected,1
+Mo’,Ole,Undirected,3
+Kjølborg,Ole,Undirected,25
+Noah,Tycho Brahe,Undirected,1
+Hansen,Ole Værsø,Undirected,1
+Ole,Ole Værsø,Undirected,1
+Bismarck,Nebukadnezar,Undirected,1
+Mo,Stine,Undirected,1
+Mo,Ole,Undirected,4
+Karle,Ole,Undirected,1
+Karle,Stine,Undirected,1
+Jensen,Stine,Undirected,7
+Lassen,Mortensen,Undirected,2
+Andersen,Jensen,Undirected,1
+Mortensen,Skaal,Undirected,1
+Ole,Skaal,Undirected,1
+Jensen,Mortensen,Undirected,1
+Lassen,Stine,Undirected,1
+Gjerdrup,Ole,Undirected,22
+Kjøl-borg,Ole,Undirected,1
+Kjøl-borg,Kjølborg,Undirected,1
+Hansine,Kjølborg,Undirected,4
+Hansine,Signe,Undirected,3
+Clara,Signe,Undirected,16
+Clara,Kjølborg,Undirected,8
+Løjtnanten,Ole,Undirected,1
+Ole,Signe,Undirected,48
+Kjølborg,Signe,Undirected,13
+Gjerdrup,allehaande,Undirected,1
+Ole,allehaande,Undirected,1
+Clara,Ole,Undirected,6
+Ole,lille Clara,Undirected,1
+Gud,Signe,Undirected,1
+Hr. Værsø,Signe,Undirected,2
+Frits,Hansine,Undirected,1
+Ole,Per Gantes,Undirected,1
+Hr. Værsø,Kragsted,Undirected,1
+Kommis Kragsted,Kragsted,Undirected,1
+Kommis Kragsted,Signe,Undirected,2
+Hr. Værsø,Kjølborg,Undirected,1
+Gjerdrup,Kjølborg,Undirected,1
+Kjølborg,Nerien,Undirected,1
+Jens Gjer-drups,Ole,Undirected,1
+Abelone,Jens Gjerdrups,Undirected,2
+Karlen,Ole,Undirected,6
+F. F. Portorico,Mo,Undirected,1
+F. F. Portorico,Søren Vejmand,Undirected,1
+Ole,Søren Vejmand,Undirected,1
+Pilehans,Signe,Undirected,4
+Gud,lille Ole,Undirected,1
+Bo,Pilehans,Undirected,1
+Bo,Ole,Undirected,1
+Jens Gjerdrups,Pilehans Ole,Undirected,1
+Gjerdrup,Mikkel,Undirected,1
+Kong Tippukatippus,Ole,Undirected,1
+Kong Tippukatippus,Nansen,Undirected,1
+Ole,marsch,Undirected,1
+Kahrner,Karlen,Undirected,1
+Karlen,Signe Kjølborg,Undirected,1
+Karen,Mo,Undirected,1
+Karen Værsø,Signe Kjølborg,Undirected,1
+Ole,Signe Kjølborg,Undirected,2
+Fritz,Kjølborg,Undirected,3
+Frederik Frederiksen,Pilehans,Undirected,2
+Pilehans,Signe Ole,Undirected,1
+Karen Værsø,Ole,Undirected,11
+Kjølborg,Pilehans,Undirected,9
+Signe,Værsø,Undirected,2
+Frøken Hansine,Signe,Undirected,2
+Clara,Frederik Frederiksen,Undirected,1
+Frederik Frederiksen,Signe,Undirected,1
+Frøken Signes,Ole,Undirected,1
+Gud,Pilehans,Undirected,1
+Karen Værsø,Signe,Undirected,4
+Hansine,Karen Værsø,Undirected,3
+Hansine,mørknes,Undirected,1
+Frederik Frederiksen,Hr. Kjølborg,Undirected,1
+Gaardkones,Karen Værsø,Undirected,1
+Ole,l’,Undirected,2
+Ole,Ole foré-trak,Undirected,1
+Ole,von Kahrner,Undirected,1
+Kahrner,von Kahrner,Undirected,2
+Gjerdrup,Niels Jensen,Undirected,1
+Kahrner,Ole,Undirected,1
+Kjølborg,Værsø,Undirected,1
+Clara,Værsø,Undirected,1
+Frederik Frederiksen,Mo’,Undirected,1
+Mo,Pilehans,Undirected,1
+Kjølborg,lille Signemo’,Undirected,1
+Kjølborg,lille Fru Værsø,Undirected,1
+Mo,lille Signe,Undirected,1
+Pilehans,Signe Kjølborg,Undirected,1
+Kjølborg,Signe Kjølborg,Undirected,1
+Fritzine,Jensine,Undirected,2
+Fritzine,Signe,Undirected,1
+Fritz,Signe,Undirected,1
+Fritz,Fritzine,Undirected,1
+Fritzine,Sine,Undirected,1
+Hans,Karen,Undirected,1
+Hans,Kjølborg,Undirected,1
+Jensine,Kjølborg,Undirected,1
+Clara,Hansine,Undirected,1
+Fritz,Proprietær Frederiksen,Undirected,1
+Fritz,Hansine,Undirected,1
+Basselars,Frederik,Undirected,1
+Basse-Lars,Frederik,Undirected,1
+Ole,Værsø,Undirected,1
+Niels,Ole,Undirected,2
+Morten,lille Ole,Undirected,1
+Ole,velsaa,Undirected,1
+Niels,fiffig,Undirected,1
+Ole,fiffig,Undirected,1
+Niels,Pilehans,Undirected,1
+Frederik den 7des,Pilehans,Undirected,1
+Clara,Karen Værsø,Undirected,2
+Hansine,Karen,Undirected,1
+Frederik,Karen,Undirected,1
+Karen,Nørregaardens,Undirected,1
+Nørregaardens,Pilehans,Undirected,1
+Karen Værsø,Pilehans,Undirected,1
+Frederiksen,Kjølborg,Undirected,1
+Gud,Kjølborg,Undirected,1
+Frederik,Kjølborg,Undirected,1
+Frederik,Hansine,Undirected,1
+Frederik,Værsø,Undirected,1
+Niels Vævers,Pilehans,Undirected,1
+Niels Væver,Niels Vævers,Undirected,1
+Christoffer Smed,Niels Væver,Undirected,1
+Christoffer,Christoffers,Undirected,1
+Christoffer,Ole,Undirected,1
+Ole,Rasmus Rasmussen,Undirected,1
+Ole,Unge-Rasmus,Undirected,2
+Frederik Frederiksen,Kjølborg,Undirected,2
+Kjølborg,Niels Væver,Undirected,1
+Frederik Frederiksen,Karen Værsø,Undirected,1
+Niels Væver,Ole,Undirected,1

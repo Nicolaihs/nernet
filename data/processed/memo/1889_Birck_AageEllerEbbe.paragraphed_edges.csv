@@ -1,0 +1,219 @@
+source,target,type,weight
+Birken,Ellen,Undirected,1
+Aage,v. Mehren,Undirected,4
+Simon Hæk,v. Mehren,Undirected,2
+Aage,Simon Hæk,Undirected,1
+Aage,Guds,Undirected,1
+Guds,Sofie Amalie,Undirected,1
+Nansen,Sofie Amalie,Undirected,1
+Høgholms,v. Mehren,Undirected,1
+Høgholms,Vilhelm,Undirected,1
+Høgh,v. Mehren,Undirected,1
+Høgh,Mehren,Undirected,2
+Mehren,Sandager,Undirected,1
+Høgh,Høgholms,Undirected,1
+Aage,Ebbe,Undirected,72
+Ebbe,Leoni,Undirected,25
+Aage,Leoni,Undirected,46
+Aage,Høgholm,Undirected,6
+Karl,Leoni Adelejde,Undirected,1
+Høgh Høgholm,Leoni Adelejde,Undirected,1
+Hr. v.,Mehren,Undirected,7
+Kretis,Pletis,Undirected,1
+Aage,hans Jeremiader,Undirected,1
+Leoni,Mama,Undirected,1
+Mama,Mehren,Undirected,1
+Mama,Papa,Undirected,1
+Ebbe,Papa,Undirected,1
+Ebbe,Jomfru Stivnakke,Undirected,1
+Høgholm,Sandager,Undirected,1
+Aage,Herkules,Undirected,3
+Herkules,Leoni,Undirected,3
+Leoni,Papa,Undirected,1
+Ebbe,v. Mehren,Undirected,7
+Ebbe,Høgholm,Undirected,6
+Ebbe,Mehren,Undirected,1
+Frederik den,Høgh,Undirected,1
+bravo,jeS,Undirected,1
+Anna,Høgh,Undirected,1
+Anna,Leoni,Undirected,1
+Moders,Prahls,Undirected,1
+Aage,Høgh,Undirected,1
+Aage,Mama,Undirected,1
+Leoni,Sofie,Undirected,3
+Hr. Hjersing,Mama,Undirected,1
+Blache,Provst Petersen,Undirected,2
+Blache,Petersen,Undirected,1
+Høgh,Petersen,Undirected,1
+Aage,Prahl,Undirected,2
+Helene,Høgholm,Undirected,1
+Helene,Sofie,Undirected,7
+Ebbe,Helene,Undirected,2
+Aage,Sofie,Undirected,2
+Helene,Prahl,Undirected,2
+Hr. Prahl,Sofie,Undirected,1
+Jacob Flydekilde,Simon,Undirected,1
+Anders Nielssøn,Niels Anderssøn,Undirected,1
+Hjersing,Sofie Amalie,Undirected,1
+Hjersing,Syltenge,Undirected,1
+Dorthe,Simon Hæk,Undirected,6
+Dorthe,Marius,Undirected,25
+Dorthe,Ebbe,Undirected,9
+Marius,Shavl,Undirected,1
+Ebbe,Shavl,Undirected,1
+Karl,Marius,Undirected,2
+Ebbe,Marius,Undirected,17
+Marius,Simon Hæk,Undirected,16
+Jakob Flydekilde,Simon Hæk,Undirected,1
+Jakob Flydekilde,Marius,Undirected,1
+Kong Frederiks,Marius,Undirected,1
+Estrups,Kong Frederiks,Undirected,1
+Jacob Flydekilde,Marius,Undirected,3
+Jacob Flydekilde,hans Kjæresten,Undirected,1
+Simon Hæk,hans Kjæresten,Undirected,1
+Estrup,Marius,Undirected,1
+Marius Petersen,Marius Skrædder,Undirected,1
+Marius,Simon Flæk,Undirected,1
+Dorthe,Flan,Undirected,1
+Flan,Marius,Undirected,1
+Marius,Simon,Undirected,14
+Hr. Mariussen,Simon Hæk,Undirected,1
+Marius,Mathias Poulsen,Undirected,1
+Dorthe,Karl,Undirected,1
+Karl,Simon,Undirected,1
+Simon Hæk,kanskesens,Undirected,1
+Mathias,Simon Hæk,Undirected,1
+Marius,Mathias,Undirected,1
+Dorthe,Simon,Undirected,4
+J,Leoni,Undirected,1
+Ebbe,Hjersing,Undirected,1
+Hjersing,phil.,Undirected,2
+Hjersing,von,Undirected,1
+Marius,Søren Flydekilde,Undirected,1
+Søren,v. Mehren,Undirected,1
+Ebbe,Simon Hæk,Undirected,3
+Marius,Søren,Undirected,1
+Havanna,Marius,Undirected,2
+Høgholm,Leoni,Undirected,3
+Marius Skrædder,Simon Hæk,Undirected,2
+Aage,Hjersing,Undirected,4
+Aage,Leoni gottede,Undirected,1
+Guds,Leoni,Undirected,1
+Guds,Madonna,Undirected,1
+Leoni,Madonna,Undirected,1
+Leoni,hnn,Undirected,1
+Hr. Bjerg,Marius,Undirected,1
+Simon Hæk,vos,Undirected,1
+Jacob,Simon,Undirected,1
+Simon,vos,Undirected,1
+Ebbe,Marius Skrædder,Undirected,1
+Søren Sejrsen,Wolle Christensen,Undirected,1
+Bjerg,Wolle Christensen,Undirected,2
+Søren,Wolle,Undirected,1
+Marius Skrædder,Simon,Undirected,1
+Ebbe,Simon,Undirected,1
+Dorthe,Kristen Lindeballes,Undirected,1
+Prahl,v. Mehren,Undirected,5
+Ebbe,Prahl,Undirected,2
+Mehren,Prahl,Undirected,1
+Mefistofeles,Prahl,Undirected,1
+Don Juan,Ebbe,Undirected,1
+Ebbe,Skaal,Undirected,1
+Ebbe,Hr. Hjersing,Undirected,1
+Frederik den,Gud,Undirected,1
+Nidkjær,Provst Petersen,Undirected,1
+Est modus in rebus,Provst Petersen,Undirected,1
+Kjæresten,Marius,Undirected,1
+Jomfru Hjort,Marius,Undirected,1
+Leoni,Marius,Undirected,1
+Anna,Ebbe,Undirected,10
+Aage,Anna,Undirected,1
+Ebbe,Laban,Undirected,2
+Anna,v. Mehren,Undirected,2
+Anna,Prahl,Undirected,3
+Anna,Maren,Undirected,5
+Maren,Prahl,Undirected,4
+Maren,v. Mehren,Undirected,1
+Ebbe,Maren,Undirected,5
+Ebbe,Hr. Prahl,Undirected,1
+Maren,Mehren,Undirected,1
+Asen,lille Anna,Undirected,1
+Ebbe,lille Anna,Undirected,1
+Blache,Ebbe,Undirected,6
+Blache,Prahl,Undirected,2
+Prahl,Provst Petersen,Undirected,1
+H,Provst Petersen,Undirected,1
+H,Prahl,Undirected,1
+Blache,Helene,Undirected,2
+Hjersing,Hr. Prahl,Undirected,1
+Anna,Hr. Prahl,Undirected,1
+Marius,Marius Skrædder,Undirected,1
+Mathis,Peter Kusk,Undirected,1
+Dorthe,Mathis,Undirected,2
+Eksposé,Simon,Undirected,1
+Eksposé,Høgholm,Undirected,1
+Simon,Simon Hæk,Undirected,2
+Mathis,Simon,Undirected,5
+Marius,Mathis,Undirected,12
+Ebbe,Fru Hjersings,Undirected,1
+Adelsgaard,Ebbe,Undirected,1
+Adelsgaard,Dorthe,Undirected,1
+Auroras,Leoni,Undirected,1
+Auroras,Herkules,Undirected,1
+Aurora,Herkules,Undirected,10
+Aurore,Herkules,Undirected,2
+Aurora,Ebbe,Undirected,2
+Aurora,Leoni,Undirected,6
+Marius,Per,Undirected,1
+Per,Povl,Undirected,1
+Don Juan,Dorthe,Undirected,1
+Marius,Mied,Undirected,1
+Leoni,diet,Undirected,1
+Ebbe,diet,Undirected,1
+Aage,Aurora,Undirected,3
+Herkules,Marius Skrædder,Undirected,1
+Aage,Gud,Undirected,1
+Aage,Tue,Undirected,2
+Ebbe,Tue,Undirected,1
+Høgholm,Mariage d,Undirected,1
+Blache,Høgholm,Undirected,1
+Høgholm,Prahl,Undirected,1
+Hendrik,v. Mehren,Undirected,1
+Gud,Prahl,Undirected,1
+Baronen,v. Mehren,Undirected,1
+Blache,Leoni,Undirected,2
+Høg-,holm,Undirected,1
+Leoni,Prahl,Undirected,1
+Marius,Napoleon,Undirected,1
+Estrup,Simon Hæk,Undirected,2
+Kong Frederiks,Simon Hæk,Undirected,1
+Marius,dito,Undirected,1
+Marius,Mathis Kusk,Undirected,4
+Don Juan,Marius,Undirected,2
+Mathis Kusk,Simon Hæk,Undirected,1
+Mathis,Mathis Kusk,Undirected,1
+Gud,Simon,Undirected,1
+Marius,Utak,Undirected,1
+Dorthe,Mathis Kusk,Undirected,1
+Mathis,Simon Hæk,Undirected,1
+Ebbe,Sandager,Undirected,1
+Leoni,Sandager,Undirected,1
+Gud,Sofie,Undirected,1
+Aage,Blache,Undirected,1
+Aage,Helene,Undirected,1
+Ebbe,Leoni-,Undirected,1
+Anna,Marius,Undirected,1
+Aage,Provst Petersen,Undirected,1
+Ebbe,Gud,Undirected,1
+Kesten,Marie,Undirected,1
+Ebbe,frede,Undirected,1
+Aage,Hr. v. Mehren,Undirected,1
+Anna,Dorthe,Undirected,1
+Ebbe,Hr. v.,Undirected,1
+Mehren,v. Mehren,Undirected,1
+Anna,Provst Petersen,Undirected,1
+Anna,Ebbe spodsk,Undirected,1
+Aage,Sandager,Undirected,1
+Hokuspokus,Høgholm,Undirected,1
+Aage,Hokuspokus,Undirected,1
+Ane Sofie,Helene,Undirected,1

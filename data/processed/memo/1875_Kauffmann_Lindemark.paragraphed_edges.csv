@@ -1,0 +1,204 @@
+source,target,type,weight
+Grethe,Haløi,Undirected,1
+Birthe,Kurt,Undirected,2
+Birthe,Haløi,Undirected,1
+Birthe,Raabet,Undirected,1
+Birthe,Grethe,Undirected,1
+Kurt,Ottos,Undirected,2
+Linden,Ottos,Undirected,1
+Kurt,Linden,Undirected,2
+Karl,Kurt,Undirected,2
+Duus,Suus,Undirected,1
+Duus,Kurt,Undirected,1
+Comtessen,Kurt,Undirected,1
+Kurt,Lectie,Undirected,1
+Comtessen,Otto,Undirected,2
+Otto,Trinenes,Undirected,1
+Kurt,Wlde,Undirected,1
+Otto,gansie,Undirected,2
+Otto,Thran,Undirected,1
+Kurt,Otto,Undirected,35
+Mama,Papa,Undirected,2
+Egards,Mama,Undirected,1
+Mama,le bon Dieu,Undirected,1
+Prindsessen,le bon Dieu,Undirected,1
+Pater Ioseph,Prindsessen,Undirected,1
+Alexis,Otto,Undirected,1
+Grandpapa,Max,Undirected,1
+Max,Prindsessen,Undirected,1
+Prinds,Prindsessen,Undirected,1
+Otto,Papa,Undirected,1
+Baron Astolf,Dands,Undirected,1
+Grev Alex,Otto,Undirected,1
+Otto,pauvre lui,Undirected,1
+,Alex,Undirected,1
+Mama,Nourrice,Undirected,1
+Nourrice,Otto,Undirected,1
+Gud,Otto,Undirected,6
+Gud,louche,Undirected,1
+Mama,Otto,Undirected,2
+Feter,Grandmama,Undirected,2
+Grandmama,Gud,Undirected,1
+Grandpapa,Gud,Undirected,1
+Marthens,Thee,Undirected,1
+Grandmama,Thee,Undirected,1
+Avait bu son petit coup,David,Undirected,1
+Avait bu son petit coup,Quand il dansa devant l,Undirected,1
+le dieu d ’ Amour,pour mieux,Undirected,1
+Hans-Orm,Otto,Undirected,1
+Hans-Orm,Kurt,Undirected,1
+Otto,pour un homme,Undirected,1
+Grethe,Kurt,Undirected,3
+Eva —,Otto,Undirected,1
+Eva —,Physiognomie,Undirected,1
+Grandpapa,Physiognomie,Undirected,1
+Kurt,bien,Undirected,1
+Kern,bien,Undirected,1
+Birthe,Marthens,Undirected,1
+Birthe,Irma,Undirected,1
+Dandsen,Vals,Undirected,2
+Dandsen,Grandmama,Undirected,1
+Eva,Gudenow,Undirected,1
+Elsfer,Eva,Undirected,1
+Elsfer,Otto Linden,Undirected,1
+Moses,Otto Linden,Undirected,1
+Nissen,Otto Linden,Undirected,1
+Grandpapa,Rudolf Svanefelt,Undirected,1
+Grandpapa,Kurt,Undirected,2
+Bjørn,Kurt,Undirected,1
+Gud,Linden,Undirected,2
+Linden,tans,Undirected,1
+Otto,tans,Undirected,1
+Linden,Prindsessen,Undirected,1
+Oftos,Rudolf Svanefelt,Undirected,1
+Linden,Otto,Undirected,1
+Otto,Rudolfs,Undirected,1
+Otto,Rudolf,Undirected,24
+Alten,Marthens,Undirected,1
+Grev Svanefelt,Julie,Undirected,1
+Grev Svanefelt,Miss Tobson,Undirected,1
+Julie,Miss Tobson,Undirected,3
+Julie,Rudolf,Undirected,13
+Julie,Otto,Undirected,68
+Miss Tobson,Rudolf,Undirected,1
+Rudolf,Øtto,Undirected,1
+Rudolf,tang,Undirected,1
+Julie,tang,Undirected,1
+Rudolf raabte,Sylphiden,Undirected,1
+Annitas,Rudolf raabte,Undirected,1
+Bravo,Publicum,Undirected,1
+Bravo,Sylphiden,Undirected,1
+Rudolf,Sylphiden,Undirected,3
+Karle,Rudolf,Undirected,2
+Grandmama,Kurt,Undirected,1
+Grandmama,Karl,Undirected,1
+Karl,Otto Linden,Undirected,1
+Coco,Otto,Undirected,1
+Coco,Irma,Undirected,1
+Irma,Otto,Undirected,80
+Grandmama,Otto,Undirected,2
+Prindsens,Rudolf,Undirected,1
+Irma,Kurt,Undirected,14
+Marthens,Otto,Undirected,1
+Kurt,Marthens,Undirected,2
+Amazone,Otto,Undirected,1
+Miss Tobson,Svanefeldt,Undirected,1
+Greven,Rudolf,Undirected,2
+Greven,Otto,Undirected,1
+Cousine,Rudolf,Undirected,1
+Julie,Svanens,Undirected,1
+Otto,Svanens,Undirected,1
+Iulies,Otto,Undirected,1
+Julie,Linden,Undirected,6
+Helene Gudenow,Otto Linden,Undirected,1
+Iulie,Otto,Undirected,1
+Iulie,Julie,Undirected,3
+Gud,Kurt,Undirected,1
+Irma,Otto gjemme,Undirected,1
+Otto,Svanefelt,Undirected,1
+Julie,Svanefelt,Undirected,1
+Irma,sif,Undirected,1
+Julie,sif,Undirected,1
+Otto,Thomas a,Undirected,1
+Kempis,Thomas a,Undirected,1
+Grandpapa,Mama,Undirected,1
+Otto,miel,Undirected,1
+Grandpapa,miel,Undirected,1
+Prindsessen,ravir,Undirected,1
+Comtessen,høilys,Undirected,1
+Dn,høilys,Undirected,1
+Otto,Thomas a Kempis,Undirected,2
+Julie Svanefelt,Otto,Undirected,1
+Julie,Kurt,Undirected,4
+Julie,c ' est un rien,Undirected,2
+Comtesse Julie,Otto,Undirected,1
+Comtesse Julie,Gud,Undirected,1
+Otto,Streiflys,Undirected,1
+Capella,Linden,Undirected,1
+Capella,Julie,Undirected,1
+Cousine,Otto,Undirected,1
+Irma,Tellets,Undirected,1
+Irma,Julie,Undirected,23
+Bravo,Rudolf,Undirected,1
+Irma,Rudolf,Undirected,7
+Gud,Miss Tobson,Undirected,1
+Gud,Julie,Undirected,2
+Linden,Rudolf,Undirected,2
+Julie,Rudolf meente,Undirected,1
+Bohave,Kurt,Undirected,1
+Bohave,Otto,Undirected,1
+Gud,Irma,Undirected,5
+Comtesse Julie,Kurt,Undirected,2
+Heffig,Irma,Undirected,2
+misérables,pauvres,Undirected,1
+Otto,misérables,Undirected,1
+Irma,Thomas a Kempis,Undirected,1
+Julie,Svanesøs,Undirected,1
+Otto,Taus,Undirected,1
+Conrad,Julie,Undirected,6
+Otto,hnn,Undirected,1
+Grandmama,Julie,Undirected,1
+Halbheit,Rudolf,Undirected,1
+Antinous,Halbheit,Undirected,1
+Antinous,Silen,Undirected,1
+Otto,Plato,Undirected,1
+Otto,Svaness,Undirected,2
+Irma,Pisa,Undirected,1
+Pisa,villieløs,Undirected,1
+Otto,hin,Undirected,1
+Kurt,hin,Undirected,1
+Kurt,Rudolf,Undirected,3
+Otto,Otto hiin,Undirected,1
+Irma,Ofto Linden,Undirected,1
+Ofto,Ofto Linden,Undirected,1
+Irina,Ofto,Undirected,1
+Irma,Kern,Undirected,2
+Irma,Ofto,Undirected,1
+Kurt,Ofto,Undirected,1
+Gud,Line,Undirected,4
+Ane,Gud,Undirected,1
+Ane,Hannibal,Undirected,1
+Hannibal,lille Bine,Undirected,1
+Gud,perplex,Undirected,1
+Hannibal,lille Ane,Undirected,1
+Line,Otto,Undirected,1
+Don Juan,Linden,Undirected,1
+Comtesse Julie Svanefelt,Linden,Undirected,1
+Greve,Rudolf,Undirected,1
+Greve,Julie,Undirected,1
+Greve,Kurt,Undirected,1
+Irma,Ole,Undirected,1
+Abrahams,Irma,Undirected,1
+Amalst,Oleander,Undirected,1
+Fakkelskin,Prindsessen,Undirected,1
+Fakkelskin,Otto,Undirected,1
+Julie,Otto Linden,Undirected,1
+Linden,Verner,Undirected,1
+Otto,Seir,Undirected,1
+Irma,Seir,Undirected,1
+Otto,Villien,Undirected,1
+Gud,Steen,Undirected,1
+Otto Linden,Steen,Undirected,1
+Julie Svanefelt,Linden,Undirected,1
+Dn,Otto,Undirected,1
+Otto,Otto Linden,Undirected,1

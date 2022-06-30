@@ -1,0 +1,164 @@
+source,target,type,weight
+Martha,Rasmus,Undirected,2
+Gud,Rasmus,Undirected,3
+Gud,Moer,Undirected,1
+Rasmus,as,Undirected,1
+Ane,Marie,Undirected,3
+Ole Glattrup,Rasmus,Undirected,3
+Ane Rasmus Vindings,Ole,Undirected,1
+Faster,Ole,Undirected,1
+Marie,Ole,Undirected,7
+Ole,Rasmus,Undirected,6
+Ane,Ole,Undirected,2
+Ulrik,Ulrik Burre,Undirected,1
+Burre,Rasmus Vinding,Undirected,1
+Burre,Vinding,Undirected,7
+Marie,Vinding,Undirected,2
+Marie,Rasmus,Undirected,5
+Gud,Marie,Undirected,2
+Anders Humle,Rasmus Vinding,Undirected,1
+Anders Humle,Rasmus,Undirected,1
+Humle,Rasmus,Undirected,1
+Anders Humle,Vinding,Undirected,1
+Marie,Moer,Undirected,1
+Frits Vinding,Fritz,Undirected,1
+Hnstru,Marie,Undirected,1
+Ane,Rasmus,Undirected,6
+Dorren,Rasmus,Undirected,1
+Ane,Dorren,Undirected,1
+Ane,Ole Glattrup,Undirected,1
+Ole,nefop,Undirected,1
+Marie slal,Ole,Undirected,1
+Marix,Ole,Undirected,1
+Marix,Rasmus,Undirected,1
+Fals,Marie,Undirected,1
+Faster,Ole Glattrup,Undirected,1
+Faster,Marie,Undirected,1
+Burre,Rasmus,Undirected,2
+Køne,Vinding,Undirected,1
+Burre,Marie,Undirected,7
+Lhsct,Marie,Undirected,1
+Burre,slvvc,Undirected,1
+Procurator,Vinding,Undirected,1
+Procurator,Rasmus,Undirected,1
+Marie,ester,Undirected,2
+Rasmus,hans Marie,Undirected,1
+Marie,hans Marie,Undirected,1
+Broder,ber,Undirected,1
+Ole,ber,Undirected,1
+Marie,fabt,Undirected,2
+Rasmus horde,hans Marie fluide,Undirected,1
+Marie,hcnoes,Undirected,1
+Ludvig Ovist,Ulrik,Undirected,1
+Ludvig Ovist,Ulrik Burre,Undirected,1
+Ludvig flet,Ulrik,Undirected,1
+Ludvig flet,Malhilde,Undirected,1
+Ludvig,Malhilde,Undirected,4
+Ludvig,Ulrik,Undirected,1
+Mathilde,ning,Undirected,1
+Mathilde,skjelmsk,Undirected,1
+Ludvig,Mathilde,Undirected,1
+Ulrik,fiildes,Undirected,1
+Ulrik,bo gende,Undirected,1
+Marie,bo gende,Undirected,1
+Marie,Ulrik,Undirected,6
+sia,yHan,Undirected,1
+em,vaders,Undirected,1
+Marie,inge,Undirected,2
+Ulrik,hnn,Undirected,1
+Karl,Rasmus,Undirected,1
+Alsing,sføtter,Undirected,1
+Marie,sføtter,Undirected,1
+Marie,def,Undirected,1
+Marie,Vera,Undirected,1
+Marie,ilers,Undirected,1
+Marie,Ole Glattrup,Undirected,2
+Rahbek,Wessel,Undirected,1
+Graatoppen,Ole,Undirected,4
+Graatoppen,Lif,Undirected,1
+Graatoppcn,Ole,Undirected,2
+Constantinopels,prange,Undirected,1
+Skaanes,prange,Undirected,1
+Skaanes,Sælands,Undirected,1
+Aurelia,Burre,Undirected,1
+Burre,ester,Undirected,2
+Aagerkarl,Gud,Undirected,1
+Ane,Møer,Undirected,1
+Midie,Ulrik,Undirected,1
+Amalie,Hain,Undirected,1
+Graatoppen,Ole Glattrup,Undirected,2
+Rasmus,fluide,Undirected,1
+Darren,fluide,Undirected,1
+Ane,Darren,Undirected,1
+Glarøincne,Rasmus,Undirected,1
+Glarøincne,Ole Glattrup,Undirected,1
+Rasmus,h.,Undirected,1
+Marie,h.,Undirected,1
+be,ozJ,Undirected,1
+christen,ozJ,Undirected,1
+Gud,christen,Undirected,1
+Marie,Ole siriver,Undirected,1
+Ole,Rasmus siraabe,Undirected,1
+Marie,ben Ovinde,Undirected,1
+ben Ovinde,hnn,Undirected,1
+Marie Vinding,hnn,Undirected,1
+Glattrup,Marie Vinding,Undirected,1
+Glattrup,Ole Glattrup,Undirected,1
+Graatoppen,ban,Undirected,1
+Christen,Salomons,Undirected,1
+Salomons,Vinding,Undirected,1
+Mdre,sorud,Undirected,1
+Fransf,sif,Undirected,1
+Graatoppen,lab detglatt,Undirected,1
+Lsbner,Vinding,Undirected,1
+Vinding,ber,Undirected,1
+Arne,Ole,Undirected,1
+Arne,Ole Glattrup,Undirected,1
+Allsaa,Husf,Undirected,1
+Ole,plire,Undirected,1
+Ole,Øiekrogc,Undirected,2
+lille Aurclia,skjelmsk,Undirected,1
+Burre,Theobald,Undirected,1
+Ludvig den,slore,Undirected,1
+Frederik ben,Pidst,Undirected,1
+ester,spranM^,Undirected,1
+Farbroders,Marie,Undirected,1
+Theobald,Ulrik,Undirected,2
+Theobald,hensattc,Undirected,1
+ber,ter,Undirected,1
+Consortia,Prent,Undirected,1
+Marie,ber,Undirected,1
+Asten,Marie,Undirected,1
+Asten,Taubleau,Undirected,1
+Frederik ben,Kneis,Undirected,1
+Bert,Vertinde,Undirected,1
+Tyrkinden,ester Paris,Undirected,1
+Brygger Hpmle,Vinding,Undirected,1
+Fallits,Rasmns,Undirected,1
+Rasmus,j,Undirected,1
+Ole,berfvr,Undirected,1
+Marie,berfvr,Undirected,1
+Humle,Ole,Undirected,2
+Mathilde,Ole,Undirected,1
+Ole,fom,Undirected,1
+Constantia,soni,Undirected,1
+Rasmus,soni,Undirected,1
+Mutter,Ole,Undirected,1
+Marie,Mutter,Undirected,1
+Marie,Mathilde,Undirected,1
+Marie,lisle,Undirected,2
+Rasmus,Vinding,Undirected,1
+Burre,Burrhv,Undirected,1
+Burre,Burrhi,Undirected,1
+Burrhi,Kjødlagcre,Undirected,1
+Kjødlagcre,Vinding,Undirected,1
+Burreiilfland,Ulrik,Undirected,1
+Ole Glattrup,tøile,Undirected,1
+Marie,tøile,Undirected,1
+Ole,el,Undirected,1
+Rasmus,el,Undirected,1
+Ole,Rasmus Vinding,Undirected,1
+Hr. Geheimeetatsraad,bisse,Undirected,1
+Ole,bs,Undirected,1
+Lu,Rasmus,Undirected,1
+Frits,Rasmus,Undirected,1

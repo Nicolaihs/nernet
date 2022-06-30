@@ -1,0 +1,391 @@
+source,target,type,weight
+Drosflens,L—,Undirected,1
+Emma,Siig,Undirected,1
+Gud,Julie,Undirected,7
+Emma,Julie,Undirected,143
+Emma,Faders,Undirected,2
+Emma,Rosen,Undirected,2
+Axel Rosenfeldt,Julie,Undirected,1
+Axel Rosenfeldt,Johan,Undirected,1
+Baron Axels,Julie,Undirected,1
+Baron Axel,Baron Axels,Undirected,1
+Axel,Baron Axel,Undirected,1
+Emma,Gud,Undirected,7
+Baron Axel,Julie,Undirected,2
+Julie,as,Undirected,2
+Døttrenes,Julie,Undirected,1
+Emma,Rosenfeldt,Undirected,4
+Axel,Johan,Undirected,7
+Axel,Rosenseldt,Undirected,1
+Gud,Rosenseldt,Undirected,1
+Gud,Johan,Undirected,4
+Axel,ester,Undirected,2
+Gud,ester,Undirected,1
+Albert,Albert Bielke,Undirected,2
+Albert,Axel,Undirected,73
+Albert,voxen,Undirected,1
+Axel,voxen,Undirected,1
+Asten,Die,Undirected,1
+Die,Johan,Undirected,1
+Axel,Emma,Undirected,61
+Axel Rosenfeldt,sine Døttre,Undirected,1
+Julie,Moller,Undirected,1
+Emma,Ester megen,Undirected,1
+Axel,Rvsenfeldt,Undirected,1
+Axel,ban,Undirected,2
+Axel,Jomfru Petersen,Undirected,1
+Candidat Møller,Møller,Undirected,1
+Julie,Møller,Undirected,12
+Candidat,Julie,Undirected,1
+Axel,Julie,Undirected,149
+Axel,Møller,Undirected,6
+Emma,Møller,Undirected,6
+Emma,sif Livbaand,Undirected,1
+Julie,sif Livbaand,Undirected,1
+Julie,sif Broderi,Undirected,1
+Emma beed,lee høit,Undirected,1
+Julie,sif,Undirected,3
+Jomfru Petersen,sif,Undirected,1
+Jomfru Petersen,Julie,Undirected,6
+Julie,Steen,Undirected,2
+Ole,Steen,Undirected,1
+Julie,Ole,Undirected,5
+Emma,lille Oles,Undirected,1
+Julie,taus,Undirected,8
+Bouquetten,taus,Undirected,1
+Bouquetten,Iulie,Undirected,1
+Iulie,Julie,Undirected,1
+Agnes Bielke,Gud,Undirected,1
+Emma,Moller,Undirected,1
+Møller,Rosenfeldt,Undirected,1
+Emma,sjeldne,Undirected,1
+Axel,sjeldne,Undirected,1
+Emma,paany,Undirected,1
+Axel,paany,Undirected,1
+Julie,frods,Undirected,1
+Emma,frods,Undirected,1
+Methusalem,Møller,Undirected,1
+Julie,Justitsraadens,Undirected,1
+Justitsraadens,lil,Undirected,1
+Agnes,Bielke,Undirected,4
+Agnes,Julie,Undirected,19
+Agnes,ligegylgigt,Undirected,1
+Julie,hiin,Undirected,1
+Emma,Gusta,Undirected,1
+,Gusta,Undirected,1
+,Axel,Undirected,2
+Axel,Froken Agnes,Undirected,1
+Agnes Bielke,Emma,Undirected,1
+Agnes Bielke,Julie,Undirected,3
+Julie,hnn,Undirected,9
+Albert Bielke,Axel,Undirected,1
+Axel,Werts,Undirected,3
+Albert,Werts,Undirected,1
+Axel,Cousine,Undirected,3
+Agnes,Emma,Undirected,10
+Emma,Jomfru Petersen,Undirected,7
+Cousine,Lille Ole,Undirected,1
+Julie,Lille Ole,Undirected,2
+Albert,Jomfru Petersen,Undirected,4
+Albert,Julie,Undirected,35
+Frøken Bielke,lille Ole,Undirected,1
+Emma,Frøken Bielke,Undirected,1
+Albert,Emma,Undirected,38
+Anna,Julie,Undirected,5
+Anna,Axel,Undirected,2
+Axel,Præsfen,Undirected,1
+Anna,Præsfen,Undirected,1
+Julie,Præsfen,Undirected,2
+Gud,sif,Undirected,1
+Agnes,Zigeunere,Undirected,1
+AgneS,Julie,Undirected,1
+Emma,vexelviis,Undirected,1
+Axel,vexelviis,Undirected,1
+Julie,lille Ole,Undirected,1
+Broder,Sly,Undirected,1
+Emma,Iulie,Undirected,1
+Axel,esrer,Undirected,1
+esrer,ester Julie,Undirected,1
+Axel,hnn,Undirected,3
+Albert,bois,Undirected,1
+Agnes,Axel,Undirected,51
+Lieutenant Kerner,Panter,Undirected,1
+Agnes,kaldle hnn,Undirected,1
+Emma rg,kaldle hnn,Undirected,1
+Calesche,Emma rg,Undirected,1
+Calesche,Iulie,Undirected,1
+Agnes,Jomfru Petersen,Undirected,1
+Candidat Moller,Jomfru Petersen,Undirected,1
+Candidat Moller,Julie kjøre,Undirected,1
+Julie,Taterfles,Undirected,2
+Axel,faus,Undirected,1
+Jomfru Petersen,Møller,Undirected,1
+Albert Bielke,Julie,Undirected,2
+Albert Bielke,Emma,Undirected,2
+Agnes,Lieutenanten,Undirected,1
+Emma,Lieutenanten,Undirected,1
+Axel,hans Kousine Agnes,Undirected,1
+Albert,sif,Undirected,1
+Dands,Julie,Undirected,1
+Axel dandse,hnn,Undirected,1
+Axel dandse,Emma,Undirected,1
+Dandsen,Emma,Undirected,1
+Agnes,Dandsen,Undirected,1
+Emma,huu,Undirected,1
+Agnes Bielke,Axel,Undirected,4
+Agnes Bielke,j g,Undirected,1
+Rosenfeldt,j g,Undirected,1
+Gud,Rosenfeldt,Undirected,1
+Gud,slolt,Undirected,1
+Emma,Zulie,Undirected,1
+D,Zulie,Undirected,1
+Axel,D,Undirected,1
+Axel,Gud,Undirected,12
+Axel,Kousine,Undirected,1
+Emma,Kousine,Undirected,1
+Møller,slille,Undirected,1
+Julie,slille,Undirected,1
+Axel reiser,Julie,Undirected,1
+Emma,Lille Ole,Undirected,1
+Julie,Musselins,Undirected,1
+Albert,Julie slod,Undirected,1
+Julie,dyb,Undirected,1
+Emma,Sophaen,Undirected,2
+Albert,Axel Rosenfeldt,Undirected,2
+H.,Juslitsraad,Undirected,1
+B.,H.,Undirected,1
+B.,Clara,Undirected,1
+Emma,sledse,Undirected,1
+Axel,sledse,Undirected,1
+Gud,fiin,Undirected,1
+Gud,roes,Undirected,1
+Emma,roes,Undirected,1
+Julie,ester,Undirected,6
+Emma,hnn,Undirected,1
+Gud,christen,Undirected,1
+Julie,Tantes,Undirected,1
+Julie,tøg,Undirected,1
+Emma,Julie ded,Undirected,1
+Roes,hnn,Undirected,1
+Axel,Frøken Bielke,Undirected,1
+,Agnes,Undirected,6
+,Bielke,Undirected,1
+Agnes,Seir,Undirected,1
+Axel,Julie taug,Undirected,2
+Julie,Lange,Undirected,1
+JMie,dewLyMp,Undirected,1
+dewLyMp,mok,Undirected,1
+BsHimring,hnn Lunde,Undirected,1
+Axel,wslMWeD,Undirected,1
+lWaW,wslMWeD,Undirected,1
+KaMfsvP,SrmtalmiK,Undirected,1
+SrmtalmiK,siv,Undirected,1
+Nastm,hans-,Undirected,1
+Mst,sstraWda,Undirected,1
+JuMMiaaüsm,sstraWda,Undirected,1
+ftam.,jja siMa,Undirected,1
+Mai,ftam.,Undirected,1
+Axel,Mai,Undirected,1
+Johan,Julie,Undirected,10
+Tanshed,hnn,Undirected,1
+Tanshed,gfarde hnn nagle,Undirected,1
+Kane,gfarde hnn nagle,Undirected,1
+faruwilmet,jjeg,Undirected,1
+Julie,bendes,Undirected,2
+Axel,Julie —,Undirected,1
+Axel taug,Julie,Undirected,1
+Lille Ole,Møller,Undirected,1
+Julie,Sophaen,Undirected,3
+Emma,køld,Undirected,1
+Agnes,Albert,Undirected,10
+Agnes,Rosenfeldt,Undirected,6
+Axel,Rosenfeldt,Undirected,8
+Agnes Bielke,Albert,Undirected,1
+Julie,Juul,Undirected,2
+Axel,lee,Undirected,1
+Julie,lee,Undirected,3
+Albert,Amalie,Undirected,1
+Amalie,Axel,Undirected,4
+Axel,Elverhøis,Undirected,1
+Elverhøis,fog,Undirected,1
+Elverhøj,fog,Undirected,1
+Axel,Elverhøj,Undirected,1
+Axel,tilZylland,Undirected,2
+Agnes Bielke,Cousine,Undirected,1
+Axel,Vincent,Undirected,1
+Axel,Moller,Undirected,1
+Moller,Rosenfeldt,Undirected,1
+Julie,pleie,Undirected,1
+Agnes,Baron Axel,Undirected,1
+Agnes,Albert Bielke,Undirected,1
+Cursus,Julie Rosen,Undirected,1
+Axel,Cursus,Undirected,1
+Axel,Rosen,Undirected,1
+Agnes Julie,Roes,Undirected,1
+Agnes,Roes,Undirected,1
+Axel,Seire,Undirected,1
+Rosen,ester,Undirected,1
+Agnes,Anna,Undirected,2
+Agnes flulde,Axel,Undirected,2
+Axel,H >,Undirected,1
+Baron,ahne Uraad,Undirected,1
+Axel,øg,Undirected,1
+Agnes,øg,Undirected,1
+Axel,Bielke,Undirected,1
+Axel,Sophaen,Undirected,4
+Gud,Julie taug,Undirected,1
+Agnes,Johan,Undirected,1
+Johan,ban,Undirected,1
+Julie,lhi,Undirected,1
+hviffe,lhi,Undirected,1
+Axel flulle,hviffe,Undirected,1
+Axel,Broderen,Undirected,1
+Axel,Julie ubekjendfe,Undirected,1
+Agnes Bielke,Julie ubekjendfe,Undirected,1
+Julie,fransfe Confecter,Undirected,1
+Johan,fransfe Confecter,Undirected,1
+Julie,Rosenfeldt,Undirected,4
+Rosenfeldt,ester,Undirected,1
+Julie,j,Undirected,2
+Julie,Luthers,Undirected,1
+Axel,slrax,Undirected,1
+Emma,christen Jord,Undirected,1
+Axel,huu,Undirected,1
+Julie,huu,Undirected,2
+Axel slod,Gud,Undirected,1
+Axel slod,Maanens,Undirected,1
+Julie,Maanens,Undirected,1
+Rosenfeldt,seil,Undirected,1
+Julie,taug,Undirected,1
+Hans Tove,Julie,Undirected,1
+Ester,Julie,Undirected,1
+Baron Rosenfeldt,Julie,Undirected,1
+Baron Rosenfeldt,Rosenfeldt,Undirected,1
+Axel,floi,Undirected,1
+Julie,floi,Undirected,1
+Julie,Taus,Undirected,2
+Julie,flet,Undirected,1
+Julie,Lykke,Undirected,2
+Emma,lille Ole,Undirected,2
+Bielke,Julie,Undirected,1
+Albert,Gud,Undirected,1
+Agnes,hierteløs,Undirected,1
+Axel,hierteløs,Undirected,1
+Albert,Bielke,Undirected,1
+RWe,Rosenfeldt,Undirected,1
+Albert,RWe,Undirected,1
+Albert,alf,Undirected,1
+Axel sfal,alf,Undirected,1
+Axel sfal,Hjelm,Undirected,1
+Agnes,Hjelm,Undirected,1
+Emma faug,Julie,Undirected,1
+Agnes,Gud,Undirected,2
+Emma,Johan,Undirected,1
+Albert,Major Hjelm slege,Undirected,1
+Axel,Dosmer,Undirected,1
+Agnes,soran,Undirected,1
+Julie,soran,Undirected,1
+Axel,ane,Undirected,2
+Julie,Nei,Undirected,1
+Axel,Nei,Undirected,1
+Axel,Julie ef,Undirected,1
+Axel,taus,Undirected,1
+Julie,Ssn,Undirected,2
+Brosche,Julie,Undirected,1
+Albert,Brosche,Undirected,1
+Agnes Bielke,Albert rolig,Undirected,1
+Albert,fog,Undirected,1
+Agnes,fog,Undirected,1
+Axel,Oscar,Undirected,2
+Axel,Tu,Undirected,1
+Alf,Tu,Undirected,1
+Alf,Rosenfeldt,Undirected,1
+D,Rosenfeldt,Undirected,1
+D,g,Undirected,1
+Axel,g,Undirected,1
+Albert,taus,Undirected,1
+Albert,elsfe,Undirected,1
+Axel,elsfe,Undirected,1
+Axel,aidrig,Undirected,1
+Albert,Julie Rosen,Undirected,1
+Albert,itke,Undirected,1
+Emma,ril,Undirected,1
+,Albert,Undirected,1
+Dandsen,Julie,Undirected,1
+Axel,Dandsen,Undirected,1
+Emma toge,Julie,Undirected,1
+Frøken Bielke,Julie,Undirected,2
+Axel,Julie øg Emma,Undirected,1
+Emma skjælve,Julie,Undirected,1
+Albert —,Lieutnant Bielke,Undirected,1
+Albert Bielsne,Julie,Undirected,1
+Allsaa,Julie,Undirected,1
+Julie,Mosen,Undirected,2
+Agnes,letze,Undirected,1
+Agnes,Jusfitsraaden,Undirected,1
+Alberf,Julie,Undirected,1
+Emma,ester,Undirected,2
+Alberf,Emma,Undirected,1
+Julie,Sopha,Undirected,1
+Axel,Sopha,Undirected,1
+Axel,hoilys,Undirected,1
+Jomfru Petersen,Lille Ole,Undirected,1
+Axel,bendes,Undirected,1
+Axel,Ole,Undirected,1
+Albert,ester,Undirected,1
+Agnes,Oscar,Undirected,3
+Oscar,skaane Axels,Undirected,1
+Major Hielm,ilfe,Undirected,1
+Agnes,jv,Undirected,1
+Gud,jv,Undirected,1
+Agnes,huu,Undirected,1
+Axel,Johaus,Undirected,1
+Axel,Julie fil Naboo,Undirected,1
+Axel,ester Alberts,Undirected,1
+Agnes,ester Alberts,Undirected,1
+,flulde,Undirected,1
+Gud,flulde,Undirected,1
+Julie,maa,Undirected,1
+Gud,jaldrig,Undirected,1
+Alf,meo,Undirected,1
+Alf,Julie,Undirected,1
+Alf,Jomfru Petersen,Undirected,1
+Albert,ester Bordet,Undirected,1
+Axel,Juul,Undirected,1
+Axel,Dr,Undirected,1
+Dr,Rosenfeldt,Undirected,1
+Rosenfeldt,muntre,Undirected,1
+Axel,Øine,Undirected,1
+Huu,Jomfru Petersen,Undirected,1
+Julie,Petersen,Undirected,3
+Jomfru Petersen,Thee,Undirected,1
+Albert,Thee,Undirected,1
+Axel,Pindsen,Undirected,1
+Albert,Pindsen,Undirected,1
+Ait,Emma,Undirected,1
+Axel,el,Undirected,1
+,Selflabe,Undirected,1
+Albert Bielke,Ester,Undirected,1
+Achilles,Gud,Undirected,1
+Axel,barsf,Undirected,1
+Albert,Nochnichtdagewesenes,Undirected,1
+Julie,Pintse,Undirected,1
+Emma,Petersen,Undirected,1
+Axel,Petersen,Undirected,1
+Julie,nn,Undirected,1
+Albert,Iulie,Undirected,1
+Albert,ai,Undirected,2
+Anna,Jomfru Petersen,Undirected,1
+Clarett,ino,Undirected,1
+Clarett,Karl,Undirected,1
+Emma,ce,Undirected,1
+Dorte,Emma,Undirected,1
+Axel høitidelig,Julie,Undirected,2
+Axel,Hesfene,Undirected,1
+Albert,Hesfene,Undirected,1
+Julie,citlid,Undirected,1
+Petersen,Rosenfeldt,Undirected,1
+Candidat Møller,Julie,Undirected,1
+Albert,Johan,Undirected,1
+Axel,Bedstefader,Undirected,1
+Julie,Lærke,Undirected,1

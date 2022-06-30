@@ -1,0 +1,90 @@
+source,target,type,weight
+Hans,Sissy,Undirected,2
+Papa,Sissy,Undirected,1
+Sissy,skjels,Undirected,1
+gud,skjels,Undirected,1
+mama,papa,Undirected,3
+Petter,Rudolph,Undirected,2
+Hansegutten,hei fallera,Undirected,1
+Lina,hei fallera,Undirected,1
+Vilhelmsen,lian,Undirected,1
+Petter,Vilhelmsen,Undirected,1
+Petter,Sverdrup,Undirected,1
+gutten,paany,Undirected,1
+Lissy,Sissy,Undirected,4
+Karl Johan,Lissy,Undirected,1
+Hans Witt,Knud Abrehamsen,Undirected,1
+Hans,Taus,Undirected,1
+Taus,stur,Undirected,1
+Knud Abrehamsen,guldaldren,Undirected,1
+Brun,Janson,Undirected,1
+Bjørnson,Janson,Undirected,1
+Bjørnson,Elias,Undirected,1
+Gambetta,Sverdrup,Undirected,1
+Hans,gud,Undirected,4
+Lissy,mama,Undirected,2
+Danton,Robespierre,Undirected,1
+Marat,Robespierre,Undirected,2
+Marat,paany,Undirected,1
+Danton,Stakkars,Undirected,1
+Arentzen,vors,Undirected,1
+Gud,Henrik Wergeland,Undirected,1
+Brandes,Sverdrup,Undirected,1
+Papa,mama,Undirected,2
+Knud Abrehamsen,Sissy,Undirected,1
+Hans,Petter,Undirected,2
+Bismarck,Petter,Undirected,1
+Sissy,Stakkars,Undirected,1
+Hans,Knud Abrehamsen,Undirected,3
+Knud Abrehamsen,Papa,Undirected,1
+Hans,Lissy,Undirected,2
+Sissy,mama,Undirected,1
+Plougs,Sissy,Undirected,1
+Plougs,Richards,Undirected,1
+Lissy,papa,Undirected,1
+Lucy,Valborg,Undirected,1
+Engel,Lucy,Undirected,1
+Engel,Maja,Undirected,1
+Maja,Tilla,Undirected,1
+Knud,Tilla,Undirected,1
+Knud Abrehamsen,Lissy,Undirected,1
+Karl Johan,Milla Brandt,Undirected,1
+gud,papa,Undirected,2
+Sissy,graaten,Undirected,1
+Archipel,Sokrates,Undirected,1
+Hans Witt,Sokrates,Undirected,1
+Hans,gamlingens,Undirected,1
+Hans,Skårs,Undirected,1
+Jørgen,Nils,Undirected,1
+Lissy,haanlo,Undirected,1
+Hans,mama,Undirected,1
+Lissy,Mama,Undirected,1
+Jesus,Lissy,Undirected,1
+Mama,papa,Undirected,1
+Hans,Tossa,Undirected,1
+Tossa,tossa,Undirected,2
+Hans,din,Undirected,1
+Hansen,rektors,Undirected,1
+Lises,onkel Petter,Undirected,1
+Petter,onkel Petter,Undirected,1
+Hans,Rudolph,Undirected,1
+Lise,Rudolph,Undirected,1
+Hans,Lise,Undirected,1
+Soffi,Valborg,Undirected,1
+Milla,Soffi,Undirected,2
+Milla,Ranghild,Undirected,1
+Engel Blom,Ranghild,Undirected,1
+Engel Blom,Soffi,Undirected,1
+Hans,Lina,Undirected,1
+Anne,Lina,Undirected,2
+Lazarus,gud,Undirected,1
+Lazarus,Stakkars,Undirected,1
+Knud,Sverdrup,Undirected,1
+Gud,Sverdrup,Undirected,1
+Karlsen,Thingvalla,Undirected,1
+Di,Thingvalla,Undirected,1
+Cunnard,Thingvalla,Undirected,1
+gud,mama,Undirected,3
+mama,snille,Undirected,2
+Christiane,Petter,Undirected,1
+Petter,gud,Undirected,1

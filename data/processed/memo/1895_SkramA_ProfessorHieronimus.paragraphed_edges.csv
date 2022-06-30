@@ -1,0 +1,248 @@
+source,target,type,weight
+gud,kløved,Undirected,1
+Else,gutten,Undirected,2
+lille mamma,mamma,Undirected,1
+Else,Knut,Undirected,63
+Else,malte,Undirected,1
+Knut,gud,Undirected,3
+Else,gud,Undirected,15
+Kirsten,jamred Else,Undirected,1
+Knut,Tvede,Undirected,11
+Else,mamma,Undirected,1
+Hieronimus,Knut,Undirected,22
+Else,Tvede,Undirected,9
+Hieronimus,Kirsten,Undirected,1
+Knut,pegte Knut,Undirected,1
+Else,Knut banked,Undirected,1
+Else,Hieronimus,Undirected,47
+Else,John,Undirected,1
+Else,Frøken Stenberg,Undirected,2
+Else,Stenberg,Undirected,12
+Else,frk. Stenberg,Undirected,35
+Else,Frk. Stenberg,Undirected,13
+Eider,Frk. Stenberg,Undirected,1
+Eider,Else,Undirected,1
+frk. Stenberg,madam Hoff,Undirected,1
+Frk. Stenberg,frk. Stenberg,Undirected,1
+Thorgren,frk. Stenberg,Undirected,9
+Else,Thorgren,Undirected,43
+Else,ivred,Undirected,1
+Else,frk. Hansens,Undirected,1
+frk. Hansen,frk. Stenberg,Undirected,2
+Kant,frk. Stenberg,Undirected,3
+Frk. Suenson,lille Alma,Undirected,1
+Else,frk. Suenson,Undirected,13
+frk. Suenson,gud,Undirected,2
+Else,Frk. Suenson,Undirected,6
+Kant,frk. Suenson,Undirected,1
+Else,Suenson,Undirected,13
+Knut,frk. Stenberg,Undirected,2
+Hieronimus,gud,Undirected,2
+Thorgren,frk. Suenson,Undirected,1
+frk. Stenberg,frk. Suenson,Undirected,1
+Suenson,frk. Suenson,Undirected,1
+Hieronimus,Hieronimus fort,Undirected,1
+Hieronimus,frk. Stenberg,Undirected,2
+frk. Stenberg,lille Thorgren,Undirected,1
+Hieronimus,Thorgren,Undirected,1
+Else,rene,Undirected,1
+Hieronimus,rene,Undirected,1
+Thorgren,frk. Hansen,Undirected,1
+Else,frk. Hansen,Undirected,1
+Else,Frk. Hansen,Undirected,1
+Frk. Hansen,Karin,Undirected,1
+Frk. Hansen,frk. Hansen,Undirected,1
+Knut,Lille Tage,Undirected,3
+Gud,Knut,Undirected,1
+Else,Frøken Hansen,Undirected,1
+Stenberg,Suenson,Undirected,1
+Else,frøken Suenson,Undirected,3
+frøken Suenson,lise,Undirected,1
+Jesus,frk. Suenson,Undirected,1
+Kant,Suenson,Undirected,1
+Knut,Suenson,Undirected,3
+Frk. Stenberg,Suenson,Undirected,1
+Else,Hieronimus horn--------Nu,Undirected,1
+Kant,frk. Hansen,Undirected,1
+Else,lille frue,Undirected,1
+Else,frank,Undirected,1
+Kant,frøken Stenberg,Undirected,2
+Else,frøken Stenberg,Undirected,12
+Jørgen,frk. Stenberg,Undirected,4
+Else,Jørgen,Undirected,10
+Carl,Else,Undirected,3
+Else,liun,Undirected,1
+Frøken Stenberg,ban,Undirected,1
+Stenberg,frøken Stenberg,Undirected,1
+Suenson,Thorgren,Undirected,5
+Hieronimus,idetheletat,Undirected,1
+Tage,gud,Undirected,2
+Knut,Tage,Undirected,4
+Thorgren,frøken Suenson,Undirected,1
+Suenson,gud,Undirected,1
+Else fort,fdr,Undirected,1
+Else,Gud,Undirected,1
+Jesus,Knut,Undirected,1
+Else,Frøken Suenson,Undirected,2
+Alma,frøken Suensen,Undirected,1
+Else,Svenson,Undirected,2
+Suenson,Syverts,Undirected,2
+Frøken Suenson,Syverts,Undirected,1
+Else,Syverts,Undirected,16
+Stenberg,Thorgren,Undirected,2
+Knut,Stenberg,Undirected,3
+gud,skjalv,Undirected,1
+Else,skjalv,Undirected,1
+Knu,Thorgren,Undirected,3
+Antonius,Else,Undirected,1
+Frøken Stenberg,Stenberg,Undirected,1
+frøken Stenberg,gud,Undirected,1
+Else,Madonna-Hansen,Undirected,6
+Madonna-Hansen,Suenson,Undirected,1
+Else,Kloral,Undirected,2
+Knut,idetheletat,Undirected,1
+Else,Kant,Undirected,5
+Else,bedstemor,Undirected,7
+Thorgren,bedstemor,Undirected,1
+Alma,Else,Undirected,1
+Jørgen,geasyl,Undirected,1
+Else,frøken Ræder,Undirected,9
+Else,Idetheletat,Undirected,2
+Else taug,Suenson,Undirected,1
+Else,karl »,Undirected,1
+Else,hode,Undirected,1
+Else,komtessens,Undirected,1
+Thorgren,komtessens,Undirected,1
+Kant,Thorgren,Undirected,2
+Stenberg,frøken Ræder,Undirected,1
+Gud,gud,Undirected,1
+Else,Ræder,Undirected,3
+Hieronimus,Ræder,Undirected,1
+Kant,frøken Ræder,Undirected,1
+mamma,pappa,Undirected,1
+Tage,pappa,Undirected,1
+Else,Tage,Undirected,2
+Else,"lille fru Kant », Thorgren",Undirected,1
+Knut,pappa,Undirected,1
+Thorgren,snille Thorgren,Undirected,1
+Else,snille Thorgren,Undirected,1
+Knut,Thorgren,Undirected,1
+Knut,Madonna-Hansen,Undirected,1
+Madonna-Hansen,Nådda,Undirected,1
+Else,komtessen,Undirected,16
+Thorgren,komtessen,Undirected,1
+Jesus,Kristus,Undirected,1
+gud,komtessen,Undirected,3
+Bedstemor,Else,Undirected,3
+Else,kuldegys,Undirected,1
+Else,Else studsed,Undirected,1
+Else,Jesus,Undirected,1
+frøken Bøhn,komtessen,Undirected,1
+Else,frøken Bøhn,Undirected,5
+Else,pegte,Undirected,1
+Else,lille fru,Undirected,1
+Kant,lille fru,Undirected,1
+Frøken Bøhn,frøken Bøhn,Undirected,1
+Thorgren,frøken Bøhn,Undirected,1
+Bøhn,Else,Undirected,3
+Else,frk. Bøhn,Undirected,7
+Lille Tage,ilive,Undirected,2
+Lille Tage,Tage,Undirected,1
+Madonna-Hansen,frk. Bøhn,Undirected,1
+Frk. Bøhn,frk. Bøhn,Undirected,1
+Else,Frk. Bøhn,Undirected,1
+Else,Inat,Undirected,1
+Frøken Ræder,MadonnaHansen,Undirected,1
+Else,MadonnaHansen,Undirected,1
+Else,keg,Undirected,1
+Else,sét,Undirected,2
+Else,kloral,Undirected,1
+frk. Ræder,frk. Stenberg,Undirected,3
+Else,frk. Ræder,Undirected,4
+Nå,Ræder,Undirected,1
+Karen,frk. Stenberg,Undirected,1
+Kant,frk. Stenherg,Undirected,1
+Else,frk. Stenherg,Undirected,1
+Frøken Ræder,frk. Stenberg,Undirected,1
+Syverts,frøken Stenberg,Undirected,1
+Frøken Stenberg,Syverts,Undirected,1
+Kant,Mariane,Undirected,1
+Else,Fog,Undirected,12
+Bertha von Sutners,Else,Undirected,1
+Frk. Stenberg,Hieronimus,Undirected,1
+Else,skingred Hieronimus,Undirected,1
+frk. Stenberg,gud,Undirected,2
+Thorgren,kant,Undirected,1
+Else,Mariane,Undirected,1
+Jørgen,Mariane,Undirected,1
+Bella Holm,Thorgren,Undirected,3
+Fog,Thorgren,Undirected,1
+Bella Holm,Else,Undirected,8
+Bella Holm,frk. Stenberg,Undirected,1
+Else,vai-,Undirected,2
+Carl,fru Syverts,Undirected,1
+Carl,frk. Stenberg,Undirected,1
+Syverts,frk. Stenberg,Undirected,2
+Hysh,Thorgren,Undirected,2
+Thorgren,frk. Bøhn,Undirected,1
+Bella Holm,frk. Suenson,Undirected,1
+Bella Holm,Madonna-Hansen,Undirected,2
+Else,fru Fogs,Undirected,2
+Else,bronchitis,Undirected,1
+bedstemor,bronchitis,Undirected,1
+Bella Holm,Lunds,Undirected,1
+Else,Lund,Undirected,1
+Bedstemor,Syverts,Undirected,1
+Syverts,pegte,Undirected,1
+Syverts,gud,Undirected,1
+Jesus,Syverts,Undirected,2
+Hieronimus,Tvede,Undirected,4
+Bella Holm,Hieronimus,Undirected,1
+Jørgen,Tvede,Undirected,2
+Hieronimus,Jørgen,Undirected,2
+Anton Ringe,Halms,Undirected,1
+Else,Frøken Bøhn,Undirected,1
+Fog,Suenson,Undirected,1
+Else,Fru Fogs,Undirected,1
+Knut,Tage —,Undirected,1
+frk. Stenberg,madam From,Undirected,1
+Else,dr. Tvede,Undirected,1
+Kant,Tvede,Undirected,1
+Else,hans,Undirected,1
+Inger,Tvede,Undirected,1
+Inger,Knut,Undirected,1
+Kanske,Knut,Undirected,1
+Hieronimus,Kanske,Undirected,1
+Jørgen,Knut,Undirected,1
+Stenberg,madam From,Undirected,1
+Else,Inger,Undirected,5
+å Jakobsen,å Rasmussen,Undirected,1
+Rasmussen,å Jakobsen,Undirected,1
+Else,Rasmussen,Undirected,1
+gud,å Rasmussen,Undirected,1
+Else,å Rasmussen,Undirected,1
+Frk. Foss,Jesus,Undirected,1
+Jesus,Rasmussen,Undirected,1
+Jakobsen,Rasmussen,Undirected,1
+Jakobsen,gud,Undirected,1
+Else,frk. Foss,Undirected,3
+Knut,frk. Foss,Undirected,1
+Gritskovs,Marusjas,Undirected,1
+Else,Frk. Ræders,Undirected,1
+frk. Foss,frk. Stenberg,Undirected,1
+Frk. Suenson,frk. Stenberg,Undirected,1
+Frk. Stenberg,Frk. Suenson,Undirected,1
+Frk. Stenberg,frk. Foss,Undirected,2
+Suenson,frk. Foss,Undirected,1
+Frk. Stenberg,frk. Suenson,Undirected,1
+frk. Foss,frk. Suenson,Undirected,1
+Else,Frk. Foss,Undirected,1
+Knut,Å Knut,Undirected,2
+frk. Stenberg,keg,Undirected,1
+frk. Foss,keg,Undirected,1
+Frk. Foss,Rasmussen,Undirected,1
+Rasmussen,gud,Undirected,1
+Kant,dr. Tvede,Undirected,1
+Kant,Tvede »,Undirected,1
+Hieronimus,Tvede »,Undirected,1
+Bella Holm,Knut,Undirected,1

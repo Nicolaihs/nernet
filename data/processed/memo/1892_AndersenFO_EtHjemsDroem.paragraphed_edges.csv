@@ -1,0 +1,59 @@
+source,target,type,weight
+Otto Hellman,Rudolf Holter,Undirected,1
+Hellman,Rudolf Holter,Undirected,1
+Hellman,Rudolf,Undirected,2
+Otto,Rudolf,Undirected,2
+Otto,dito,Undirected,1
+Hr. Petersen,Olsen,Undirected,2
+Hr. Petersen,j,Undirected,1
+Gud,Hr. Petersen,Undirected,1
+Hr. Petersen,Rudolf,Undirected,1
+Hr. Hellman,Hr. Olsen,Undirected,1
+Gud,pø,Undirected,1
+Hr. Petersen,pø,Undirected,1
+Hr. Petersen,Otto,Undirected,1
+Olsen,Petersen,Undirected,2
+Hr. Olsen,Hr. Petersen,Undirected,1
+Hr. Olsen,Otto,Undirected,1
+Rudolf,taug,Undirected,1
+Hr. Poulsen,Rudolf,Undirected,3
+Hr. Paulsen,Rudolf,Undirected,2
+Mikkelsens,Olsen,Undirected,1
+Milo,Venus,Undirected,1
+Gibser Piil,Venus,Undirected,1
+Gibser Piil,Nielsens,Undirected,1
+Nielsens,Svend,Undirected,1
+Piil,Venus,Undirected,1
+Rudolf,s,Undirected,3
+Flan,Rudolf,Undirected,1
+Rudolf,Schweiter,Undirected,28
+Rudolf —,Schweiter,Undirected,1
+Gud,Schweiter,Undirected,1
+Plum,Schweiter,Undirected,3
+Gud,Plum,Undirected,1
+Rudolf Holter,Schweiter,Undirected,1
+Gud,Rudolf,Undirected,1
+Olsen,Otto Hellmanns,Undirected,1
+Holter,Schweiter,Undirected,4
+Anna,Gud,Undirected,1
+Gud,Tys,Undirected,1
+Rudolf,Tys,Undirected,1
+Madillo,Rudolf,Undirected,1
+Chanteuse,trikotklædte,Undirected,1
+Hellmann,Holter,Undirected,1
+Rudolf,paany,Undirected,1
+Holter,Rudolf,Undirected,2
+K,k,Undirected,1
+Poulsen,Rudolf,Undirected,4
+Bombom,Rudolf,Undirected,1
+Bombom,Hammer,Undirected,1
+Gud,Holter,Undirected,1
+Hr. Poulsen,Poulsen,Undirected,1
+Holter,Poulsen,Undirected,1
+C,tout Copenhague,Undirected,1
+Pjalten,Schweiter,Undirected,1
+Pjalten,Rudolf,Undirected,1
+Assessoren,Schweiter,Undirected,2
+Hellman,Schweiter,Undirected,1
+Frandsen,Schweiter,Undirected,1
+Otto,Schweiter,Undirected,1

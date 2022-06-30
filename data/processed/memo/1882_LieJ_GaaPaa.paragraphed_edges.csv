@@ -1,0 +1,168 @@
+source,target,type,weight
+Helgedags,Nistemad,Undirected,1
+Lid,Nisse,Undirected,1
+Far Juhls,Lovl,Undirected,1
+Jan Rejersen,Juhl,Undirected,1
+Jan Rejersen,Jansen Juhl,Undirected,1
+Carl Johan,Swardecroon,Undirected,1
+Jørun Budeje,Olje,Undirected,1
+B’,jds,Undirected,1
+Kostald,jds,Undirected,1
+Fjærenl,Jørun,Undirected,1
+Haarstad,Lensmand Haarstad,Undirected,1
+Rejer,Rejer Jansen Juhl,Undirected,1
+Jente,Plystre,Undirected,1
+Juhl,Madam Juhl,Undirected,1
+Hvaljag,Kjeip,Undirected,1
+Juhl,Rejer,Undirected,1
+Flan,karslig,Undirected,1
+Karl,karslig,Undirected,1
+Karl,Skraa,Undirected,1
+Flan,Lind,Undirected,1
+Lind,haanlø,Undirected,1
+Stina,Svarte-Stinal,Undirected,1
+Svarte-Stina,Svarte-Stinal,Undirected,1
+Reier,Stina,Undirected,1
+Juhl,Juhlegutten,Undirected,1
+Anders Rosdreng,Juhlegutten,Undirected,1
+Anders Rosdreng,Madam Juhl,Undirected,1
+Anders Rosdreng,Ranson,Undirected,1
+Gnikking,Kostald,Undirected,1
+Gnikking,GuierL,Undirected,1
+Balje,Rejer,Undirected,1
+Pin,Stina,Undirected,1
+haanlo,niti,Undirected,1
+haanlo,liam,Undirected,1
+Jan Juhl,Jansen Juhl,Undirected,1
+Jan Juhl,Rejer Juhl,Undirected,1
+Rejer Juhl,Svarte-Stina,Undirected,1
+Svarte-Stina,Tater,Undirected,1
+Fredriksen,Juhl,Undirected,1
+Ank,Atpaa,Undirected,1
+Anders Rosmand,Martin,Undirected,1
+Anders Rosmand,Juhl,Undirected,1
+Anders Rosmand,iland,Undirected,1
+Anders Rosmand,Madame Juhl,Undirected,1
+Juhl,Karen,Undirected,2
+Karen,Svarte-Stina,Undirected,1
+Kai,Karl,Undirected,1
+Alert,Juhl,Undirected,1
+Stewarten,tom Terrin,Undirected,1
+Lind,Stewarten,Undirected,2
+Stewarten,iland,Undirected,1
+Rejer,Stewarten,Undirected,1
+Karen,Swardecroon«,Undirected,1
+PIaar,Plan,Undirected,1
+Flun,Hubro,Undirected,1
+Alert,Brisen,Undirected,1
+Alert,Baugen,Undirected,1
+Baut,Jansen Juhl,Undirected,1
+assowske,didind,Undirected,1
+Melancholi,didhen,Undirected,1
+Aderton tusan,Lizzy Pump,Undirected,1
+Miss Lizzy,Mr. Juhl,Undirected,1
+Mr. Juhl,Paddy,Undirected,1
+Cork,Paddy,Undirected,1
+Mr. Juhl,Mr. Pump,Undirected,1
+Mr. Fearwather,Mr. Juhl,Undirected,1
+Jansen,Juhl,Undirected,2
+Juhl,hatsch,Undirected,1
+Flan,Walla,Undirected,1
+Walla,akurat,Undirected,2
+Madam Wahl,Walla,Undirected,2
+Juhl,Wahl,Undirected,1
+Juhl,graad,Undirected,1
+Anne Wahl,graad,Undirected,2
+graad,jø,Undirected,1
+Anne Wahl,Engelskjøn,Undirected,1
+Anne,Anne Wahl,Undirected,1
+Wahl,maatru,Undirected,1
+Anne,Wahl,Undirected,1
+Gud,Madam Wahl,Undirected,2
+Ejamej,Ejamejl,Undirected,1
+Anne Ludvigsen,Ejamej,Undirected,1
+Anne Ludvigsen,Juhl,Undirected,2
+Juhl,Sara Rørdam,Undirected,1
+Albrechtsen,Walla,Undirected,1
+C. Rørdam,Juhl,Undirected,1
+Jansen Juhl,Sara,Undirected,1
+tikarre,udtalo,Undirected,1
+Juhl,udtalo,Undirected,1
+Lind,Walla,Undirected,2
+Flan,Sirtses,Undirected,1
+Sara Rørdam,lian,Undirected,1
+Engelsdansen,Sara Rørdam,Undirected,1
+Birdseye,Juhl,Undirected,2
+Juhl,Nils Juel,Undirected,1
+Marie Berg,Sara Rørdam,Undirected,1
+Sara Rørdam,Walla,Undirected,1
+Adiø,adiø,Undirected,1
+Lind,Sara Rørdam,Undirected,2
+Juhl,Walla,Undirected,1
+Alert,Lind,Undirected,2
+Lind,iland,Undirected,2
+Alert,Jakobsen,Undirected,1
+Hagen,iland,Undirected,1
+Lind,Rejer,Undirected,1
+Lind,Shagtobak iland,Undirected,1
+Nilsen,Stewarten,Undirected,1
+Kaptejn Berentsen,Rejer,Undirected,1
+Juhl,Torgersen,Undirected,1
+Juhl,Lind,Undirected,1
+Flan,Stewarten,Undirected,1
+hon,jag,Undirected,1
+Patron Bromander,hon,Undirected,1
+Bienda Plastings,Lind,Undirected,1
+Bienda Plastings,Line,Undirected,1
+Flun,Lind,Undirected,1
+Lind,Sally,Undirected,1
+Knuak,Tulle,Undirected,1
+Rørdam,Sara,Undirected,1
+Alert,Un daf afvejen,Undirected,1
+Alert,endel,Undirected,1
+endel,iland,Undirected,1
+Alert,iland,Undirected,1
+Lind,Madam Berentsen,Undirected,1
+Kaptejnens,Madam Berentsen,Undirected,1
+MadamWahl,Rejer,Undirected,1
+Albrechtsen,Madam Wahl,Undirected,1
+Sara,sét,Undirected,1
+Rejer,iland,Undirected,1
+Sreberia,Viep,Undirected,1
+Snau,Sreberia,Undirected,1
+Jansen Juhl,Sara Rørdam,Undirected,1
+Ottilie,Sara Rørdam,Undirected,1
+Ottilie,Stakkar,Undirected,1
+Stakkar,hans,Undirected,1
+Gud,hans,Undirected,1
+Drage Kj c u d s,Lug,Undirected,1
+Drage Kj c u d s,el,Undirected,1
+Dands,el,Undirected,1
+Le,Lja,Undirected,1
+Fele,Fiolin,Undirected,1
+Gamlen,Lind,Undirected,1
+Jan,Jan.,Undirected,1
+Conrad,Jan,Undirected,1
+Arcturus,Sara,Undirected,1
+Sara,sju,Undirected,1
+Harcelas,Sara,Undirected,1
+Lind,Sara,Undirected,1
+Jens Emanuel Lind,Stewarten,Undirected,1
+Sara,Walla,Undirected,1
+Madam Wahl,Sara,Undirected,1
+Fredriks,Madam Wahl,Undirected,1
+Madam Juhl,Walla,Undirected,1
+Madam Juhl,Madam Wahl,Undirected,1
+Anders,Eja,Undirected,1
+Stakkar,Walla,Undirected,1
+Jan,Jan Conrad,Undirected,3
+Jan Conrad,Sara,Undirected,2
+Sara,haml,Undirected,1
+Inger,Sara,Undirected,1
+Inger,Theodor,Undirected,1
+Sara,skjøns,Undirected,1
+bent,skjøns,Undirected,1
+Sara,bent,Undirected,1
+Jan,Tange,Undirected,1
+Jan,Rejer,Undirected,1
+Jan,Plun,Undirected,1

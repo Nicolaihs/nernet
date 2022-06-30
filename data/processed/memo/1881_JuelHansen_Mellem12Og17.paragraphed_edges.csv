@@ -1,0 +1,112 @@
+source,target,type,weight
+Klara,g.\,Undirected,1
+Ellen,Hr. Fredriksen,Undirected,2
+Ellen,Ludovikas,Undirected,1
+Ellen,Ludovika,Undirected,18
+Chopin,Ellen,Undirected,2
+Ellen,Fran^aisens,Undirected,1
+Klara,Ludovika,Undirected,1
+Ellen,Klara,Undirected,1
+Ellen,Ludo vikas,Undirected,1
+Ellen,Graf,Undirected,6
+Bramsen,Graf,Undirected,1
+Bramsen,Ellen,Undirected,7
+Ellen,Kamilla Graf,Undirected,2
+Ellen,Kamilla,Undirected,52
+Kamilla,Kamilla Graf,Undirected,1
+Edvard Muller,Graf,Undirected,1
+Kamilla,le poisson avec le couteau,Undirected,1
+le poisson avec le couteau,mette spas,Undirected,1
+Il faut boire son vin a petites,mette spas,Undirected,1
+Edvard,Kamilla,Undirected,23
+Kamilla,Mademoiselle,Undirected,4
+Ellen,Mademoiselle,Undirected,3
+Edvard,Ellen,Undirected,47
+Kamilla,Ludovika,Undirected,5
+Ludovika,Mademoiselle,Undirected,1
+Ludovika,Sigrid,Undirected,1
+Kamilla,Sigrid,Undirected,1
+Edvard,Mademoiselle,Undirected,1
+Mademoiselle,Migraine,Undirected,1
+Kamilla,Monsieur Edvard,Undirected,1
+Edvard,Schawlet,Undirected,1
+Ellen,Frøken Petersen,Undirected,2
+Ellen,k,Undirected,1
+Ellen,Frøken Boldt,Undirected,1
+Gud,Skjels,Undirected,1
+Charles Petersen,lille Ellen,Undirected,1
+Ellen,hans Kousine,Undirected,1
+Emma Andersen,hans Kousine,Undirected,1
+Emma,Emma Andersen,Undirected,1
+Ellen,c,Undirected,2
+Edvard,Gud,Undirected,1
+Ellen,Gud,Undirected,4
+Bramsen,Mathilde,Undirected,5
+Ellen,Frøken Bramsen,Undirected,8
+Ellen,Mathilde,Undirected,25
+Kamilla,Mathilde,Undirected,4
+Bramsen,Kamilla,Undirected,1
+Frøken Bramsen,Kamilla,Undirected,1
+Edvard,Mathilde,Undirected,3
+Graf,Hr. Lund,Undirected,1
+Hr. Muller,Hr. Mullers,Undirected,1
+Edvard,Hr. Muller,Undirected,1
+Bramsen,Tante Mathilde,Undirected,1
+Ellen,Tante Mathilde,Undirected,4
+Edvard,Grosserer Bramsens,Undirected,1
+Ellen,Grosserer Bramsens,Undirected,1
+Ellen,peur et sans reproche,Undirected,1
+Ludovika,Mama,Undirected,2
+Barons,Mama,Undirected,1
+Barons,Krogs,Undirected,1
+Mama,Papa,Undirected,1
+Mathilde,Tante Mathilde,Undirected,2
+Kamilla,Tante Mathilde,Undirected,1
+Ellen,grand,Undirected,1
+Kamilla,v. Rosenthais,Undirected,1
+funklede,v. Rosenthais,Undirected,1
+Edvard,Edvard —,Undirected,1
+Edvard —,lieber,Undirected,1
+Edvard,nonchalant,Undirected,1
+Hr. Forsters,Malice,Undirected,1
+Ellen,Hr. Forster,Undirected,2
+Ellen,paany,Undirected,3
+Baronen,Kamilla,Undirected,2
+Graf,Rosenthai,Undirected,2
+Ellen,Frøken van Arndt,Undirected,1
+Hr. Forster,Ludovika,Undirected,2
+Ellen,Forster,Undirected,2
+Gud,Mathilde,Undirected,1
+Gud,Tante Mathilde,Undirected,1
+Bøges,Elmes,Undirected,1
+Ellen,Kamilla maalte,Undirected,1
+Ellen,Kamilla strængt,Undirected,1
+Edvard,Kamilla strængt,Undirected,1
+Jens Kusk,Kamilla,Undirected,1
+Engels,Kamilla,Undirected,1
+Edvard,Engels,Undirected,1
+Bramsen,Edvard,Undirected,1
+Bramsen,Muller,Undirected,1
+Ellen,Muller,Undirected,1
+Edyard,Kamilla,Undirected,1
+Ellen,Hur,Undirected,1
+Hur,Kamilla,Undirected,1
+Kamilla Graf,anderswo engagiert,Undirected,1
+Ellen,Frits,Undirected,1
+Ellen,Molbech,Undirected,1
+Ludovika,Molbech,Undirected,1
+Ellen,eier,Undirected,1
+Ellen,Graad,Undirected,1
+Ellen,ortens,Undirected,1
+Ellen —,Tante Mathilde,Undirected,1
+Ludovika,Tante Mathilde,Undirected,1
+Gud,mutters,Undirected,1
+Ludovika,Mathilde,Undirected,3
+Ellen,Tante,Undirected,1
+Frøken Bramsen,Ludovika,Undirected,1
+Ludovika,Uraad,Undirected,1
+Braad,jeS,Undirected,1
+Tante Mathilde,sagdeLudovika,Undirected,1
+Bramsen,Frøken ,Undirected,1
+Bramsen,Herren,Undirected,1
+Ellen,Rosenthai,Undirected,1

@@ -1,0 +1,100 @@
+source,target,type,weight
+Brandt,Robert,Undirected,4
+Robert,nn,Undirected,2
+Barnor,Robert,Undirected,8
+Robert,maasfe,Undirected,1
+Brandt,maasfe,Undirected,1
+Frederik Barnor,Robert,Undirected,10
+Frederik Barnor,Vensfab,Undirected,1
+Barnor,Vensfab,Undirected,1
+Barnor,Frederik Barnor,Undirected,1
+Marie,Robert,Undirected,54
+Marie,hnn,Undirected,1
+Marie Barnor,hnn,Undirected,1
+Frederik,Marie Barnor,Undirected,1
+Frederik,Robert,Undirected,29
+Frederik,Vensfab,Undirected,1
+Marie,Vensfab,Undirected,1
+Barnor,Marie,Undirected,12
+Barnor,Solsfin,Undirected,1
+Marie,Solsfin,Undirected,1
+Frederik Barnor,Marie,Undirected,2
+Frederik,Marie,Undirected,19
+Gud,Robert,Undirected,3
+Barnor,sormaa,Undirected,1
+Asten,Barnor,Undirected,1
+Almii,Frederik,Undirected,2
+Asten,Frederik,Undirected,1
+Asten,Marie,Undirected,1
+Lyne,Robert,Undirected,3
+Lyne,Marie,Undirected,2
+Barnor,Lyne,Undirected,1
+Frederik,baadc,Undirected,1
+Robert Brandt,baadc,Undirected,1
+Robert,Robert Brandt,Undirected,1
+Robert,adsfille,Undirected,1
+Marie,Robert Brandt,Undirected,1
+Frederik Barnor,Robert Brandt,Undirected,1
+Frederik,as,Undirected,1
+Robert,as,Undirected,3
+Brandt,Gud,Undirected,1
+Frederik,sif,Undirected,1
+Barnor,sif,Undirected,1
+Barnor,Frederik,Undirected,5
+Frederik,Frederik haabedc,Undirected,1
+Frederik haabedc,Robert,Undirected,1
+Frederik,Frue,Undirected,2
+Robert,nicn,Undirected,1
+Gud,nicn,Undirected,1
+Gud,ester,Undirected,1
+Robert,ester,Undirected,3
+Karl,Robert,Undirected,2
+Karl,Karl ytre,Undirected,1
+Karl ytre,Robert,Undirected,1
+Moer,treanrs,Undirected,1
+Robert,dam,Undirected,1
+Madame Barnor,Marie,Undirected,3
+Robert,maafkc,Undirected,1
+Barnor,maafkc,Undirected,1
+Marie,fom,Undirected,1
+Marie,dan,Undirected,1
+Mette Sophie,Robert,Undirected,1
+Fatter,Frederik,Undirected,1
+Hain,Robert,Undirected,2
+Frederik,Hain,Undirected,2
+Frederik,Gud,Undirected,2
+Madame Barnor,Robert,Undirected,1
+Robert,Sejro,Undirected,1
+Marie,as,Undirected,2
+Robert,lidl,Undirected,1
+Barnor,yan,Undirected,1
+Barnor,nanr,Undirected,1
+Barnor,Hemmingsen,Undirected,1
+Marie,ban,Undirected,2
+Grethe,Robert,Undirected,7
+Grethe,Marie,Undirected,4
+Grethe,Gud,Undirected,2
+Grethe,ester,Undirected,1
+Marie,Nn,Undirected,1
+Frederik,Nn,Undirected,1
+Frederik,flel,Undirected,1
+Marie,flel,Undirected,1
+Jere,Marie,Undirected,1
+Dn,Jere,Undirected,1
+Dn,Marie,Undirected,1
+Frederik fro Butiken,Marie,Undirected,1
+Frederik fro Butiken,Robert,Undirected,1
+Ester,Marie,Undirected,1
+Ester,Robert,Undirected,1
+Glut,Robert,Undirected,2
+Robert,Robert mna,Undirected,1
+Frederik,Robert mna,Undirected,1
+Bis,Robert,Undirected,1
+Marie,Tante Grethes,Undirected,1
+Grethe,paany,Undirected,1
+Drnaber,Marie,Undirected,1
+Artium,Robert,Undirected,2
+Robert,hnn,Undirected,1
+Frederik,Ieg,Undirected,2
+Marie,ester,Undirected,1
+Ieg,Robert,Undirected,1

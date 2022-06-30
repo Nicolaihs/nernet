@@ -1,0 +1,175 @@
+source,target,type,weight
+Gertrude Coldbjørnsen,Winge,Undirected,1
+Konsul Grove,Winge,Undirected,1
+Coldbjørnsen,Winge,Undirected,1
+Coldbjørnsen,Iversen,Undirected,1
+Coldbjørnsen,Gertrude,Undirected,3
+Feddersen,Gertrude,Undirected,64
+Feddersen,Rosalie,Undirected,5
+Feddersen,Winge,Undirected,6
+Gertrude,Winge,Undirected,6
+Gertrude,Rosalie,Undirected,51
+Gertrude,Konsul Grove,Undirected,2
+Gertrude,hajn,Undirected,1
+Dr. Winge,Rosalie,Undirected,1
+Dr. Winge,Vaas,Undirected,1
+Rosalie,Vaas,Undirected,1
+Gertrude,Meier,Undirected,1
+Emma,Gertrude,Undirected,16
+Gertrude,Gud,Undirected,16
+Emma,Rosalie,Undirected,1
+Birkeved,Etatsraad Coldbjørnsens,Undirected,1
+Feddersen,Hr. Coolmann,Undirected,1
+Gertrude,Hr. Coolmann,Undirected,1
+,Gertrude,Undirected,1
+Gertrude,hans,Undirected,1
+Gertrude,Tante Rosalies,Undirected,2
+Tante Rosalie,Tante Rosalies,Undirected,1
+Gertrude,Tante Rosalie,Undirected,8
+Gertrude,Johanne,Undirected,2
+Rosalie,Tante Rosalie,Undirected,1
+Rosalie,Tantes,Undirected,2
+Johanne,Rosalie,Undirected,1
+Gertrude,Gertrude Coldbjørnsen,Undirected,1
+Emil,Feddersen,Undirected,1
+Gertrude,Veto,Undirected,1
+Rosalie,Veto,Undirected,1
+Gertrude ’,Rosalie,Undirected,1
+Feddersen,Gertrude ’,Undirected,1
+Gertrude,Halvonkels,Undirected,1
+Halvonkels,Tante Rosalie,Undirected,1
+Belinda,Fabricius,Undirected,7
+Fabricius,Holbergs,Undirected,1
+Hallager,Holbergs,Undirected,1
+Bechs,Hallager,Undirected,1
+Bech,Frøken Thoras,Undirected,1
+Fabricius,Frøken Thoras,Undirected,1
+Frøken Thora,ces,Undirected,1
+Betty,ces,Undirected,1
+Fabricius,Gertrude Coldbjørnsen,Undirected,5
+Frøken Coldbjørnsen,hdjt,Undirected,1
+Fabricius,Frøken Hallager,Undirected,3
+Fabricius,Gertrude,Undirected,130
+Fabricius,Kvien,Undirected,1
+Christian,Kvien,Undirected,1
+Christian,Fabricius,Undirected,2
+Gertrude,hiin,Undirected,1
+Christian,Gertrude,Undirected,2
+Feddersen,Frøken Hallager,Undirected,1
+Fabricius,Feddersen,Undirected,17
+Gertrude,paany,Undirected,2
+Gertrude,Kalesche,Undirected,1
+Gertrude,Thora Fabricius,Undirected,1
+Fabricius,Thora,Undirected,45
+Frøken Hallager,Gertrude,Undirected,6
+Fabricius,allenfals,Undirected,1
+Fabricius,lille Poul,Undirected,1
+Frøken Gertrudes,Poul,Undirected,1
+Gertrude Coldbjørnsen,Poul,Undirected,1
+Christian Winthers,Fabricius,Undirected,1
+Christian Winthers,Sakuntala,Undirected,1
+Gertrude,Thora,Undirected,27
+Fabricius,Gouvernantens,Undirected,1
+Feddersen,Thora,Undirected,3
+Gertrude,skraa,Undirected,1
+Gud,Tante Rosalie,Undirected,2
+Belinda,Mads,Undirected,1
+Judas,Mads,Undirected,1
+Johanne,Judas,Undirected,1
+Ane,Johanne,Undirected,1
+Ane,Gertrude,Undirected,1
+Bruhn,Fabricius,Undirected,3
+Bruhn,Thora,Undirected,1
+Belinda,Thora,Undirected,3
+Gertrude Coldbjørnsen,Wahlbom,Undirected,1
+Gertrude Coldbjørnsen,Thora,Undirected,1
+Fabricius,Rosalie,Undirected,5
+Fabricius,har,Undirected,1
+Bech,Feddersen,Undirected,1
+Bech,Fabricius,Undirected,3
+Fabricius,P'abricius,Undirected,1
+Bech,Thora,Undirected,2
+Bech,Rosalie,Undirected,1
+Rosalie,Thora,Undirected,1
+Frøken Hallager,paany,Undirected,1
+Fabricius,paany,Undirected,1
+Feddersen,Frøken Gertrude,Undirected,1
+Belinda,Feddersen,Undirected,1
+Belinda,Vilhjelm,Undirected,4
+Belinda,van- Gertrude,Undirected,1
+Fabricius,Vilhjelm,Undirected,33
+Arthur,Vilhjelm,Undirected,1
+Balles,Pagina,Undirected,1
+Frøken Thora,Gertrude Coldbjørnsen,Undirected,1
+Fabricius,haii,Undirected,1
+Vilhjelm,haii,Undirected,1
+Arthur Fabricius,Fabricius,Undirected,1
+Gertrude,Vilhjelm,Undirected,8
+Thora,Vilhjelm,Undirected,13
+Fabricius,—,Undirected,1
+Vilhjelm,—,Undirected,1
+Gertrude,mod'Fabricius,Undirected,1
+Damers,Vilhjelm,Undirected,1
+Damers,Harer,Undirected,1
+Colbjørnsen,Fabricius,Undirected,1
+Dyveke,Fabricius,Undirected,7
+Emma,Feddersen,Undirected,3
+Arthur,Gud,Undirected,1
+Gud,Thora,Undirected,1
+Emma —,Gertrude,Undirected,1
+Belinda,Emma,Undirected,1
+Coldbjørnsen,Rosalie,Undirected,1
+Gertrude Coldbjørnsen,Rosalie,Undirected,2
+Gertrude,Ifjor,Undirected,1
+Georg,Gertrude,Undirected,1
+Gud,Rosalie,Undirected,5
+Coldbjørnsenske,Tante Rosalie,Undirected,1
+Coldbjørnsenske,Frederik den,Undirected,1
+Feddersen,Frederik den,Undirected,1
+Coldbjørnsen,Vilhjelm,Undirected,1
+Niels’,Rosalie,Undirected,1
+Marianes,Niels’,Undirected,1
+Lars,bricius,Undirected,1
+Gertrude,Lars,Undirected,5
+Fabricius,Lars,Undirected,3
+Arthur,Gertrude,Undirected,3
+Gertrude,Lars klirre,Undirected,1
+Emil,Lars,Undirected,1
+Emil,Rosalie,Undirected,1
+Lars »,Rosalie,Undirected,1
+Fabricius,Gud,Undirected,3
+Feddersen,Gud,Undirected,4
+Gud,Johanne,Undirected,1
+Gud,Kristus,Undirected,2
+Emil,Gertrude,Undirected,3
+Feddersen,Lars,Undirected,2
+Feddersen,Gotfred,Undirected,1
+Gertrude,Gotfred,Undirected,1
+Gertrude,Levin,Undirected,2
+Gertruda,Rosalie,Undirected,1
+Fabricius,Gertruda,Undirected,1
+Hallager,Winge,Undirected,1
+Thora,Winge,Undirected,10
+Coldbjørnsen,Feddersen,Undirected,1
+Emil,Fabricius,Undirected,1
+Amagerkonens,Rosalie,Undirected,2
+Gertrude,Tantens,Undirected,1
+Funck,Rosalie,Undirected,1
+Funck,Gertrude,Undirected,1
+Emma,Winge,Undirected,1
+Fabricius,Winge,Undirected,3
+Dybbøls,Fabricius,Undirected,1
+Vilhjelm,Winge,Undirected,1
+Emma,Vilhjelm,Undirected,1
+Emma,Fabricius,Undirected,1
+Frederik,Gertrude,Undirected,1
+Emma,Gud,Undirected,1
+J,Winge,Undirected,1
+Madam Sigbrit,Vilhjelm,Undirected,1
+Gertrude Coldbjørnsen,Vilhjelm,Undirected,1
+Dyveke,Vilhjelm,Undirected,4
+Bech,Vilhjelm,Undirected,1
+Coldbjørnsen,Fabricius,Undirected,2
+Fabribricius,Kvor,Undirected,1
+Gertrude,Kvor,Undirected,1
+Dyveke,Gertrude,Undirected,1

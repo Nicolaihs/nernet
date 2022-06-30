@@ -1,0 +1,41 @@
+source,target,type,weight
+Brun,halvni,Undirected,1
+Brun,gø,Undirected,1
+Karle,Proprietær Brun,Undirected,1
+Holger Moe,Moe,Undirected,1
+Brun,Moe,Undirected,8
+Brun,Holger Moe,Undirected,1
+Astrid,Holger Moe,Undirected,14
+Holger Moe,Proprietær Brun,Undirected,1
+Astrid,Proprietær Brun,Undirected,1
+Kong Vilhelm,Lumbye,Undirected,1
+Balduin Dahis,Siegeskranz,Undirected,1
+Napoleon,Siegeskranz,Undirected,1
+Kong Vilhelm,Napoleon,Undirected,1
+Bismarck,Leboeuf,Undirected,1
+Bismarck,Helmuth Moltke,Undirected,1
+Astrid,Baand,Undirected,1
+Lille Magle,Ole Hansen,Undirected,1
+Brun,Proprietær Brun,Undirected,3
+Astrid,skjælve,Undirected,1
+Lise,Thora,Undirected,1
+Astrid,Moe,Undirected,2
+Holger,Moe,Undirected,1
+Kelker,Moe,Undirected,1
+Astrid,Brun,Undirected,2
+Astrid,Gud,Undirected,1
+Moe,Proprietær Brun,Undirected,1
+Astrid,Faders,Undirected,1
+Gud,Moe,Undirected,1
+,Moe,Undirected,1
+Astrid,Haabets,Undirected,1
+Astrid,Bellis,Undirected,1
+Holger Moe,Jens,Undirected,1
+Astrid,Holger,Undirected,4
+Astrid,HolgerMoe,Undirected,1
+Karl,Niels,Undirected,1
+Holger Moe,Store-Niels,Undirected,2
+Karlen,Store-Niels,Undirected,1
+Niels Peter Jønsson,Store-Niels,Undirected,1
+Alfred Bruns,Brun,Undirected,2
+Brun,Obersten,Undirected,1

@@ -1,0 +1,507 @@
+source,target,type,weight
+Jomfru Edel Mikkelsdatter Jernskjæg,Lasse,Undirected,1
+Jep Andersen Grubbe,Jomfru Edel Mikkelsdatter Jernskjæg,Undirected,1
+Jep Andersen Grubbe,Kirsten Nielsdatter Skram,Undirected,1
+Kirsten,Kirsten Nielsdatter Skram,Undirected,1
+Kirsten,Lasse,Undirected,5
+Edel,Kirsten,Undirected,92
+Edel,Lasse,Undirected,2
+Edel,Guds,Undirected,1
+Edel,Horvendil,Undirected,1
+Amlet,Kirsten,Undirected,1
+Edel,Johanne Andersdatter,Undirected,1
+Edel,Mikkel Andersen,Undirected,2
+Edel,Niels Skram,Undirected,1
+Mattrup nede,Niels Skram,Undirected,1
+Cæcilie Jensdatter Frost,Mattrup nede,Undirected,1
+Cæcilie Jensdatter Frost,Jensdatter Frost,Undirected,1
+Albert Skeel,Jensdatter Frost,Undirected,1
+Albert Skeel,Birthe,Undirected,2
+Birthe,Edel,Undirected,10
+Edel,Kirsten.,Undirected,1
+Kirsten.,døje,Undirected,1
+Haardhed,døje,Undirected,1
+Birthe,Gud,Undirected,5
+Birthe,Kirsten,Undirected,43
+Karl,Kirsten,Undirected,2
+Edel,Jørgen,Undirected,1
+Edel,Jørgen Høg,Undirected,3
+Jørgen Høg,Svend stor,Undirected,1
+Gud,Kirsten,Undirected,21
+Edel,Gud,Undirected,4
+Gud,Jørgen Høg,Undirected,2
+Albert Mus,Jørgen Høg,Undirected,14
+Edel,Evret,Undirected,1
+Edel,Erik Styggesen,Undirected,29
+Erik Styggesen,Kong Hans,Undirected,2
+Edel,Kong Hans,Undirected,1
+Edel,Erik,Undirected,34
+Albert Mus,Edel,Undirected,1
+Hove,Jørgen Høg,Undirected,1
+Albert Mus,Mattrup,Undirected,1
+Mattrup,Niels Skram,Undirected,1
+Kirsten,Niels Kaas,Undirected,1
+Edel,Erik Rosenkrantz,Undirected,2
+Erik,Kirsten,Undirected,93
+Barbara,Kirsten,Undirected,2
+Erik,Erik Styggesen,Undirected,18
+Edel Mikkelsdatter,Erik Styggesen,Undirected,6
+Erik,Jomfru Edel,Undirected,6
+Erik Rosenkrantz,Jørgen Høg,Undirected,1
+Albert Mus,Erik Rosenkrantz,Undirected,2
+Albert Mus,Erik Styggesen,Undirected,5
+Edel Mikkelsdatter,Kirsten,Undirected,5
+Albert,Mus,Undirected,1
+Jomfru Edel,Mus,Undirected,1
+Erik Styggesen,Jørgen,Undirected,8
+Erik,Jørgen Pedersen,Undirected,1
+Jørgen Høg,Niels,Undirected,3
+Erik Styggesen,Niels,Undirected,3
+Jørgen Høg,Kirsten,Undirected,12
+Jørgen,Jørgen Høg,Undirected,7
+Jørgen,Niels,Undirected,2
+Jørgen Høg,Jørgen Saamænd,Undirected,1
+Albert,Jørgen Saamænd,Undirected,1
+Albert,nidkær Jørgen,Undirected,1
+Albert,Kirsten,Undirected,1
+Albert Mus,Jep Andersen,Undirected,1
+Edel,Jep Andersen,Undirected,4
+Jomfru Edel,Kirsten,Undirected,4
+Anne Povelsdatter,Jep Andersen,Undirected,1
+Jep,Jep Andersen,Undirected,2
+Jep,Kirsten,Undirected,30
+Edel Mikkelsdatter,Jep,Undirected,5
+Edel,Edel Mikkelsdatter,Undirected,2
+Anne,Edel,Undirected,6
+Edel,Jep,Undirected,18
+Anne Dyre,Edel Kirsten,Undirected,1
+Edel Kirsten,Erik Styggesen,Undirected,1
+Erik Styggesen,Jep Andersen,Undirected,2
+Hove,Jep Andersen,Undirected,1
+Erik,Hove,Undirected,2
+Anne Dyre,Edel,Undirected,7
+Anne,Kirsten,Undirected,4
+Anne,Kirsten Nielsdatter,Undirected,1
+Kirsten,Kirsten Nielsdatter,Undirected,2
+Else Jensdatter Frost,Kirsten,Undirected,1
+Anne Dyre,Else Jensdatter Frost,Undirected,1
+Anne Dyre,Jep Andersen,Undirected,3
+Anne,Jep Andersen,Undirected,1
+Anne,Erik Styggesen,Undirected,3
+Erik Styggesen,bruclt,Undirected,1
+Edel,bruclt,Undirected,1
+Anne Dyre,Kirsten,Undirected,5
+Anne Dyre,Edel Mikkelsdatter,Undirected,1
+Erik Styggesen,Kirsten,Undirected,49
+Edel,JTdo,Undirected,1
+Edel,Kirsten Nielsdatter,Undirected,2
+Kirsten,Mattrup,Undirected,8
+Albert Skeel,Kirsten,Undirected,10
+Edel,Jakob,Undirected,4
+Erik Styggesen,Kristine,Undirected,1
+Inger Billes,Kristine,Undirected,1
+Anne Dyre,Knud Nielsen,Undirected,1
+Edel,Inger Billes,Undirected,1
+Dronning Kristine,Erik,Undirected,1
+Erik,Inger Billes,Undirected,1
+Erik Styggesen,Jep,Undirected,10
+Edel,Mirsa,Undirected,2
+Mirsa,Pral,Undirected,1
+Jep,Stygge,Undirected,1
+Kong Keduval,Stygge,Undirected,1
+Erik,Jep,Undirected,47
+Albert Skeel,Erik Rosenkrantz,Undirected,1
+Albert Skeel,Edel,Undirected,5
+Birthe,Birthe Albertsdatter,Undirected,1
+Birthe,Jakob,Undirected,28
+Jakob,Kirsten,Undirected,27
+Edel,Niels Kat,Undirected,1
+Jep Nielsen,Niels Kat,Undirected,1
+Albert Skeel,Jep Nielsen,Undirected,1
+Kirsten,Kong Hans,Undirected,2
+Frøken Kristine,Kong Hans,Undirected,1
+Edel,Frøken Kristine,Undirected,1
+Cttesen,Erik Rosenkrantz,Undirected,1
+Cttesen,Kristine,Undirected,1
+Hans,Kristine,Undirected,1
+Erik Ottesen,Hans,Undirected,1
+Erik,Erik Ottesen,Undirected,4
+Erik,Frøken Kristine,Undirected,1
+Ernst,Frøken Kristine,Undirected,1
+Erik Ottesen,Ernst,Undirected,1
+Edel,Erik Ottesen,Undirected,2
+Kirsten,Krist,Undirected,1
+Edel,Kirsten Fru Anne Stensdatter,Undirected,1
+Kirsten Fru Anne Stensdatter,Kristine,Undirected,1
+Erik Ottesen,Erik Styggesen,Undirected,4
+Jakob,Laurids Brandere,Undirected,1
+Jakob,Munk,Undirected,2
+Florian,Gud,Undirected,9
+Albert Mus,Birthe,Undirected,2
+Kirsten,Satans,Undirected,1
+Jakob,Kirsten Lasse,Undirected,1
+Jakob,Taalmod,Undirected,1
+Gud,Jakob,Undirected,3
+Gud,Laurits,Undirected,1
+Gud,Lasse,Undirected,1
+Jens,Lasse,Undirected,1
+Kirsten,Mirsa,Undirected,3
+Erik Styggesen,Jakob,Undirected,4
+Erik,Jakob,Undirected,5
+Edel Mikkelsdatter,Kirsten Nielsdatter,Undirected,1
+Erik freidig,Jomfru Edel,Undirected,1
+Edel Mikkelsdatter,Gud,Undirected,1
+Edel Mikkelsdatter,Satans,Undirected,1
+Edel Erik,Kirsten,Undirected,1
+Erik,Jep Andersen,Undirected,1
+Kirsten,Knud Nielsen Dyres,Undirected,1
+Inger Bille,Knud Nielsen Dyres,Undirected,1
+Edel,Inger Bille,Undirected,1
+Erik Styggesen,Sø Knud Nielsen,Undirected,1
+Anne,Sø Knud Nielsen,Undirected,1
+Birthe,Erik Styggesen,Undirected,7
+Birthe,Erik,Undirected,9
+Albert,Erik Styggesen,Undirected,3
+Albert Skeel,Hove,Undirected,1
+Albert Skeel,Erik Styggesen,Undirected,5
+Birthe,Kirsten nej,Undirected,1
+Albert Skeel,Erik,Undirected,3
+Albert Skeel,Jakob,Undirected,2
+Albert,Birthe,Undirected,1
+Birthe,Sø,Undirected,1
+Erik,Inger Bille,Undirected,3
+Jakob,Niels Kaas,Undirected,4
+Erik,Niels Kaas,Undirected,6
+Anne Dyre,Erik,Undirected,1
+Anne Dyre,Else Frost,Undirected,2
+Else Frost,Erik,Undirected,2
+Edel Mikkelsdatter,Erik,Undirected,2
+Jep Andersen,Kirsten,Undirected,2
+Anne,Jep,Undirected,2
+Erik,Mirsa,Undirected,16
+Esbern,Mirsa,Undirected,5
+Erik,Esbern,Undirected,4
+Albert Mus,Erik,Undirected,5
+Albert Mus,Esbern,Undirected,1
+Albert Mus Jørgen Høg,Esbern,Undirected,1
+Albert Mus Jørgen Høg,Niels Kaas,Undirected,1
+Jørgen,Niels Kaas,Undirected,3
+Albert,Jørgen,Undirected,4
+Erik Styggesen,Niels Kaas,Undirected,2
+Erik,Jørgen,Undirected,14
+Albert,Erik Aa,Undirected,1
+Jørgen Høg,Kirsten Nielsdatter,Undirected,1
+Erik,Kirsten Nielsdatter,Undirected,4
+Erik,Jørgen Høg,Undirected,14
+Jørgen Høg,Niels Kaas,Undirected,4
+Albert Mus,Niels Kaas,Undirected,2
+Erik,Niels Høg,Undirected,1
+Jørgen,Niels Høg,Undirected,2
+Jakob,Jomfru Maria,Undirected,1
+Kirsten,Vadmels,Undirected,1
+Jep Andersen,Vadmels,Undirected,1
+Edel Mikkelsdatter,Erik Rosenkrantz,Undirected,1
+Erik,Erik Rosenkrantz,Undirected,1
+Birthe,Kirsten Nielsdatter,Undirected,2
+Erik Styggesen,Jacob,Undirected,1
+Erik Styggesen,Kirsten Nielsdatter,Undirected,2
+Florian,Kirsten,Undirected,34
+Gud,signe,Undirected,3
+Kirsten,signe,Undirected,3
+Florian,Jakob,Undirected,12
+Florian,Karen,Undirected,2
+Broder Florian,Kirsten,Undirected,6
+Erik Styggesen,Gud,Undirected,6
+Anne Dyre,Florian,Undirected,1
+Jep,Kong Hans,Undirected,1
+Kong Hans,s,Undirected,1
+Axel,Edel,Undirected,1
+Axel,Jep,Undirected,1
+Albert Skeel,Jep Andersen,Undirected,2
+Birthe,Jep,Undirected,1
+Broder Jakobs,Kirsten,Undirected,1
+Birthe,Broder Jakobs,Undirected,1
+Kirsten,Lisbeth,Undirected,1
+Jørgen Høg,Lisbeth,Undirected,2
+Erik Styggesen,Jørgen Høg,Undirected,2
+Erik Styggesen,Lisbeth,Undirected,1
+Kirsten,Niels Høg,Undirected,2
+Albert Mus,Jørgen,Undirected,2
+Albert Mus,Niels,Undirected,1
+Gjøe,Niels,Undirected,1
+Gjøe,Jørgen Høg,Undirected,1
+Drossels,Kirsten,Undirected,1
+Drossels,Jørgen Høg,Undirected,1
+Jørgen,Kirsten,Undirected,10
+Jørgen,Stefan,Undirected,1
+Gud,Stefan,Undirected,1
+Jørgen Høg,Karen,Undirected,1
+Jomfru Marie,Kirsten,Undirected,1
+Jomfru Marie,Kristus,Undirected,1
+Kirsten,Kristus,Undirected,1
+Jep Andersen,Niels,Undirected,1
+Birthe Ja,Edel,Undirected,1
+Birthe Ja,Kirsten,Undirected,1
+Kirsten,Kristian,Undirected,1
+Edel,Kristian,Undirected,4
+Birthe,Jørgen,Undirected,1
+Kongsgaard,Povel Abildgaards,Undirected,1
+Inger Bille,Knud Dyres,Undirected,1
+Inger Bille,Kong Hans,Undirected,1
+Kong Hans,Kristine,Undirected,2
+Kong Kristian,Kristine,Undirected,1
+Kong Hans,Kong Kristian,Undirected,1
+Kristian,Kristine,Undirected,1
+Else,Kirsten,Undirected,2
+Else,Erik Styggesen,Undirected,1
+Anne,Birthe,Undirected,2
+Edel,Torben Bille,Undirected,3
+Erik Styggesen,Kristian,Undirected,1
+Erik,Kristian,Undirected,1
+Edel,Ovesdatter,Undirected,1
+Ovesdatter,Torben Bille,Undirected,1
+Kirsten,Torben Bille,Undirected,2
+Erik,Kirsten“,Undirected,1
+Florian,Kirsten“,Undirected,1
+Erik,Gud,Undirected,6
+Erik,Niels,Undirected,3
+Belials,Erik,Undirected,1
+Belials,Kirsten,Undirected,1
+Edel,Jomfru Edel,Undirected,1
+Kirsten,banlys,Undirected,1
+Erik Styggesen,banlys,Undirected,1
+Albert Skeel,Gomorrha,Undirected,1
+Gomorrha,Jakob,Undirected,1
+Albert,Jørgen Høg,Undirected,2
+Erik,Hans Bartskær,Undirected,2
+Albert Muus,Jørgen Høg,Undirected,2
+Albert Mus,Albert Skeel,Undirected,1
+Albert Skeel,Gud,Undirected,1
+Jakob,Jørgen Høg,Undirected,1
+Erik Styggesen,Svend,Undirected,2
+Edel,Svend,Undirected,1
+Erik Styggesen,Esbern,Undirected,1
+Esbern,Kirsten,Undirected,3
+Ejler,Erik Styggesen,Undirected,1
+Ejler,Kirsten,Undirected,4
+Ejler,Kirsten Pedersdatter Gyldenstjerne,Undirected,1
+Erik,signe,Undirected,3
+Ejler Styggesen,Erik,Undirected,1
+Ejler,Erik,Undirected,11
+Pedersdatter,Stygge,Undirected,1
+Kristoffer,Stygge,Undirected,1
+Erik,Kristoffer,Undirected,1
+Ejler,djærv,Undirected,1
+Kirsten Nielsdatter,djærv,Undirected,1
+Erik,Ottesen,Undirected,1
+Edel,Ottesen,Undirected,1
+Ejler,Niels,Undirected,1
+Ejler,Else Jensdatter,Undirected,2
+Else Jensdatter,Jørgen,Undirected,1
+Erik Ottesen,Kirsten,Undirected,4
+Erik Ottesen,Jørgen Høg,Undirected,1
+Erik,Niels Styggesen,Undirected,1
+Kirsten,Mari Hareskaar,Undirected,3
+Mari Hareskaar,Valpurgis,Undirected,1
+Erik,Mari Hareskaar,Undirected,1
+Mari,Mari Hareskaar,Undirected,1
+Kirsten,Mari,Undirected,19
+Erik,Mari,Undirected,1
+Erik,Svend,Undirected,5
+Birthe,Mari,Undirected,1
+Erik,Florian,Undirected,7
+Broder Florian,Erik,Undirected,2
+Florian,Mogens,Undirected,3
+Erik Styggesen,Florian,Undirected,5
+Jakob,Mari,Undirected,2
+Birthe,Mette Nielsdatter,Undirected,1
+Florian,Mette Nielsdatter,Undirected,1
+Ejler Styggesen,Kirsten,Undirected,2
+Gud,signe eder,Undirected,1
+Florian,signe eder,Undirected,1
+Broder Florian,Jakob,Undirected,2
+Gud,Mari,Undirected,1
+Florian,Franciskus,Undirected,1
+Florian,Jomfru Kirstens,Undirected,1
+Kirsten,Moster,Undirected,1
+Mari,Moster,Undirected,1
+Erik Styggesen,Mari,Undirected,1
+Florian,sagae,Undirected,1
+Florian,Mari Hareskaar,Undirected,1
+Florian,Karl,Undirected,1
+Broder Jakob,Florian,Undirected,1
+Jakob,mun,Undirected,2
+Birthe,Florian,Undirected,2
+Alari,Birthe,Undirected,1
+Ane Fadeburspige,Kirsten,Undirected,1
+Ane Fadeburspige,Broder Florian,Undirected,1
+Erik Styggesen,Esbern Mirsa,Undirected,1
+Esbern,Esbern Mirsa,Undirected,1
+Kirstine,Kong Hans,Undirected,1
+Kirstine,Kristian,Undirected,1
+Fredrik,Kristian,Undirected,1
+Abildgaards,Erik,Undirected,1
+Else Jensdatter Frost,Kirsten Nielsdatter,Undirected,1
+Eru Else,Inger Bille,Undirected,1
+Gud,Jomfru Edel,Undirected,1
+Edel,Nandrup,Undirected,1
+Jørgen Høg,Nandrup,Undirected,1
+Albert Mus,Jørgen Fløg,Undirected,2
+Erik,Jep Jepsen,Undirected,3
+Jep,Jep Jepsen,Undirected,2
+Blak,Jep,Undirected,8
+Anne Dyre,Jep,Undirected,1
+Anne Dyre,Gjertrud Nielsdatter,Undirected,1
+Gjertrud Nielsdatter,Kaas,Undirected,2
+Jep,Kaas,Undirected,1
+Florian,Søren,Undirected,2
+Florian,Jep Jepsen,Undirected,1
+Erik Styggesen,Jep Jepsen,Undirected,2
+Edel Mikkelsdatter,Jep Jepsen,Undirected,1
+Florian,Jep,Undirected,4
+Erik Styggesen,Svend Esbern,Undirected,1
+Erik Styggesen,Søren,Undirected,1
+Jep,Søren,Undirected,1
+Jep,Jørgen Høg,Undirected,11
+Albert Mus,Jep,Undirected,6
+Albert,Erik,Undirected,1
+Erik Styggesen,Estrup,Undirected,2
+Jep,Svend,Undirected,2
+Jep,Jørgen,Undirected,2
+Albert,Niels Kaas,Undirected,1
+Birthe,Niels Kaas,Undirected,1
+Jep,Kirsten Nielsdatter,Undirected,1
+Erik Styggesen,Kaas,Undirected,1
+Jesper,Kaas,Undirected,1
+Jep,Jesper,Undirected,4
+Blak,Jesper,Undirected,1
+Erik Stygesen,Jep,Undirected,2
+Erik,Kaas,Undirected,1
+Gjertrud Nielsdatter,Jep,Undirected,1
+Gjertrud,Jep,Undirected,1
+Edel,Gjertrud,Undirected,1
+Jep,Sei,Undirected,1
+Havren,Mirsa,Undirected,1
+Blak,Erik,Undirected,1
+Esbern,Jep,Undirected,2
+Jep,Mikkel,Undirected,3
+Erik,Esbern Mirsa,Undirected,1
+Birthe,Esbern Mirsa,Undirected,1
+Mirsa,Slaa,Undirected,1
+Jep,Mirsa,Undirected,2
+Jep,Jørgen Høg Niels Kaas,Undirected,1
+Jørgen,Jørgen Høg Niels Kaas,Undirected,1
+Blak,Jørgen,Undirected,1
+Blak,Niels Kaas,Undirected,1
+Erik lysten,Jep,Undirected,1
+Erik lysten,Niels Kaas,Undirected,1
+Erik,frank,Undirected,1
+Edel,frank,Undirected,1
+Erik,Mattrup,Undirected,4
+Niels Jensen Kaas,Pedersdatter Skram,Undirected,1
+Kirsten,Niels Jensen Kaas,Undirected,1
+Else Skram,Kirsten,Undirected,6
+Erik,Niels Jensen,Undirected,2
+Else Jensdatter,Kirsten,Undirected,1
+Erik Niels Jensen,Kirsten,Undirected,1
+Erik Niels Jensen,Jørgen Høg,Undirected,1
+Jørgen Høg,Niels Jensen,Undirected,1
+Kirsten,Niels Jensen,Undirected,1
+Graad,Niels Jensen,Undirected,1
+Erik,Jesper,Undirected,1
+Erik Styggesen,Niels Jensen,Undirected,1
+Kirsten Nielsdatter,Mattrup,Undirected,1
+Gud,Jep,Undirected,2
+Erik,Maria,Undirected,1
+Erik,Karl,Undirected,1
+Kristen Skram,Mattrup,Undirected,1
+Kristen Skram,Mette Timmersdatter,Undirected,1
+Erik,Mette Timmersdatter,Undirected,1
+Kirsten,Kristen Skram,Undirected,2
+Bohave,Kirsten,Undirected,2
+Faders,Kirsten,Undirected,1
+Jep Jepsen,Kirsten,Undirected,1
+Kirsten,Niels,Undirected,1
+Jep,Mattrup,Undirected,5
+Erik Styg gesen,Jep,Undirected,1
+Erik,Erik Styg gesen,Undirected,1
+Jakob,Jørgen,Undirected,1
+Gud,Kirsten Nielsdatter,Undirected,1
+Kirsten Nielsdatter,frank,Undirected,1
+Erik Ottesen,Karen,Undirected,1
+Birthe,Mattrup,Undirected,1
+Erik Styggesen,Mattrup,Undirected,1
+Jep,Jomfru Maria,Undirected,1
+Erik,Jomfru Maria,Undirected,1
+Erik Hovslag,Mirsa,Undirected,1
+Erik,Erik Hovslag,Undirected,1
+Estrup,Jørgen Høg,Undirected,1
+Jørgen,Kirsten Pedersdatter Høg,Undirected,1
+Kirsten Pedersdatter Høg,Lars Brok,Undirected,1
+Erik,Lars Brok,Undirected,1
+Albert,Hans Skeel,Undirected,1
+Hans,Jørgen,Undirected,1
+Hans,Karl,Undirected,1
+Erik Styggesen,Karl,Undirected,1
+Erik Styggesen,Hans,Undirected,1
+Erik,Hans,Undirected,1
+Hans Skeel,Jørgen,Undirected,1
+Hans Skeel,Kirsten,Undirected,1
+Erik,Lave Broks,Undirected,1
+Jens,Lave Broks,Undirected,1
+Jens,Mattrup,Undirected,1
+Erik,Jens Brok,Undirected,4
+Jens Brok,høilig,Undirected,1
+Erik,høilig,Undirected,1
+Fredrik,Jens Brok,Undirected,1
+Fredrik,Kirsten,Undirected,1
+Jens Brok,Jørgen Høg,Undirected,2
+Else Laxmand,Jørgen Høg,Undirected,1
+Else Laxmand,Jørgen,Undirected,1
+Jørgen,Kirsten altsaa,Undirected,1
+Erik,Kirsten altsaa,Undirected,1
+Jørgen Høg,Mattrup,Undirected,1
+Jens Brok,Jørgen,Undirected,1
+Ditmarskerne,Erik,Undirected,1
+Ditmarskerne,Jørgen,Undirected,1
+Jens Brok,Jep,Undirected,1
+Jens Brok,Kirsten,Undirected,1
+Junker Thomas Schlentz,Kong Hans,Undirected,1
+Jep,Meldorf,Undirected,1
+Dannebrog,Meldorf,Undirected,1
+Erik,Fredrik,Undirected,1
+Ahlefeldt,Fredrik,Undirected,1
+Ahlefeldt,Schlentz,Undirected,1
+Fredrik,Junker Schlentz,Undirected,1
+Fredrik,Otto,Undirected,1
+Adolf,Otto,Undirected,1
+Adolf,Junker Schlentz,Undirected,1
+Junker Schlentz,Wolf Isebrand,Undirected,1
+Maria milde,Wolf Isebrand,Undirected,1
+Maria,Maria milde,Undirected,1
+Junker Schlentz,bievne,Undirected,1
+Erik,Hans Ahlefeldt,Undirected,1
+Jørgen Høg,Mirsa,Undirected,1
+Ditmarskerbonde,Erik,Undirected,2
+Ditmarskeren,Jep,Undirected,1
+Erik Ottesen,Jep,Undirected,1
+Erik Ottesen,Henrik Knud,Undirected,1
+Henrik Knud,Tønne,Undirected,1
+Jørgen Høg,Tønne,Undirected,1
+Jørgen,Mirsa,Undirected,1
+Birthe,Else,Undirected,1
+Albert Skeel,Mattrup,Undirected,1
+Berete,Kirsten,Undirected,2
+Berete,Karen,Undirected,2
+Erik,Karen,Undirected,1
+Edel,Erik Edel,Undirected,1
+Erik Edel,Torben Bille,Undirected,1
+Broder Florian,Karen,Undirected,1
+Florian,Frue,Undirected,1
+Gud,Karen,Undirected,1
+Florian,Graad,Undirected,1
+Erik,Mogens,Undirected,1
+Broder Florian,Vadmels,Undirected,1
+Florian,Vadmels,Undirected,1
+Kirsten,Kirsten Visen,Undirected,1
+Kirsten Visen,Mattrup,Undirected,1

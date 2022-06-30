@@ -1,0 +1,107 @@
+source,target,type,weight
+Nordstrøm,Payer,Undirected,1
+Nordstrøm,Smith,Undirected,78
+Kellner,Smith,Undirected,1
+Kellner,Nordstrøm,Undirected,1
+Nordstrom,Smith,Undirected,21
+N.,Nordstrøm,Undirected,2
+N.,Smith,Undirected,2
+Godthaab,Smith,Undirected,1
+Smith,lians,Undirected,2
+Smith,Søulk,Undirected,1
+Nordstrom,Søulk,Undirected,1
+Nordstrom,Nordstrøm,Undirected,6
+Kelen,Smith,Undirected,1
+Nordstrøm,Ullo*,Undirected,1
+Smith,Ullo*,Undirected,1
+Nordstrøm,Ullo,Undirected,57
+Smith,Ullo,Undirected,69
+Nordstrom,Ullo,Undirected,10
+Eskimoracen,Ullo,Undirected,1
+N.’s,Smith,Undirected,2
+Nordstrøm,Søulk,Undirected,1
+Ellen,Smith,Undirected,15
+Ellen,Nordstrøm,Undirected,8
+Gud,Smith,Undirected,3
+Smith,teren,Undirected,1
+Smith,Upernivik,Undirected,1
+Nordstrom,Uilos,Undirected,1
+Nordstrøm,Uilos,Undirected,1
+Saasnart,Smith,Undirected,1
+Ullo,lian,Undirected,1
+B.,Nordstrøm,Undirected,1
+Nanok,Ullo,Undirected,1
+Renen,Ullo,Undirected,1
+Bjørn,Nordstrom,Undirected,1
+Bjørn,Nordstrøm,Undirected,1
+Smith,tastrofe,Undirected,2
+Pred,Smith,Undirected,1
+Kong Wilhelms,Smith,Undirected,1
+Kejser Frans Josefs,Kong Wilhelms,Undirected,1
+Kejser Frans Josefs,Smith,Undirected,1
+Sebastian Cabot,Willoughby,Undirected,1
+Chanceler,Willoughby,Undirected,1
+Burrow,Chanceler,Undirected,1
+Burrow,Martin Trobisher,Undirected,1
+John Dawis,Martin Trobisher,Undirected,1
+Bylot,John Dawis,Undirected,1
+Baffin,Bylot,Undirected,1
+Baffin,John Ross,Undirected,1
+Franklins,John Ross,Undirected,1
+Franklins,James Ross,Undirected,1
+James Ross,Mac Clintock,Undirected,1
+Mac Clintock,Nordstrøm,Undirected,1
+Uilos,Ullo,Undirected,2
+Jolfn,Nordstrøm,Undirected,1
+Jack,Smith,Undirected,18
+Jack,John,Undirected,21
+B.,n.,Undirected,1
+B.,Jack,Undirected,1
+Jack,Mac Clintock,Undirected,2
+Franklins,Nordstrøm,Undirected,1
+John,Ullo,Undirected,14
+John,Smith,Undirected,8
+Jack,Ullo,Undirected,10
+Lichener,Ullo,Undirected,2
+Jack,Nordstrøm,Undirected,6
+Jack,M. Clintock,Undirected,2
+Franklin,Jack,Undirected,3
+Franklin,s,Undirected,1
+Lady Franklins,M. Clintock,Undirected,1
+Franklin,M. Clintock,Undirected,1
+Franklin,jjeg,Undirected,1
+Franklin,ri,Undirected,2
+Franklin,Hobsom,Undirected,2
+Franklin,Kong Williamsøen,Undirected,1
+Hobsom,Kong Williamsøen,Undirected,1
+Aurora,Smith,Undirected,1
+Ellen,Uilos,Undirected,1
+Smith,Uilos,Undirected,1
+Eskimohøvdingen,Smith,Undirected,2
+John,Nordstrom,Undirected,5
+Eskimo,Smith,Undirected,3
+Jack,Nordstrom,Undirected,3
+Bjørn,Ullo,Undirected,1
+Mikkel,Nordstrøm,Undirected,2
+paany Ullo,ril,Undirected,1
+Nordstrom,Ullo ladede,Undirected,1
+Jack,Karl,Undirected,1
+Franklin,Smith,Undirected,2
+Gud,Kong Willams,Undirected,1
+Kong Willams,Smith,Undirected,1
+Eskimoen,Jack,Undirected,1
+John,Nordstrøm,Undirected,10
+Nordstrøm,n. B.,Undirected,1
+Gondolens,Nordstrøm,Undirected,1
+Gondolens,John,Undirected,1
+John,tom,Undirected,1
+Gud,Nordstrøm,Undirected,1
+John,Tove,Undirected,1
+Nansen,Smith,Undirected,1
+Nordstrøm,n.,Undirected,1
+Nordstrøm Smith,Ullo,Undirected,1
+Johns Baand,Ullo,Undirected,1
+Johns Baand,Smith,Undirected,1
+Kejser Franz Josefs,Kronprins Rudolfs,Undirected,1
+Kronprins Rudolfs,Smith,Undirected,1
+Ellen,Ullo,Undirected,1

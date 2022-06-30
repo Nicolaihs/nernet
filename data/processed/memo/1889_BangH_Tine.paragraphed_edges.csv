@@ -1,0 +1,224 @@
+source,target,type,weight
+Katinka Bai,Nina Høeg,Undirected,1
+Fata Morgana,gf,Undirected,1
+Nina,Stella Høeg,Undirected,1
+Herlufs,Tine,Undirected,2
+Maren,Tine,Undirected,4
+Sofie,Tine,Undirected,33
+Herlufs,Sofie,Undirected,1
+Herluf,Tine,Undirected,12
+Tine,liun,Undirected,9
+Bergs,Tine,Undirected,1
+Sode,Sofie,Undirected,1
+Herluf,Sode,Undirected,1
+Herluf,liun,Undirected,1
+liam,liun,Undirected,1
+Berg,Henrik,Undirected,1
+Berg,Tine,Undirected,46
+Herluf,Sofie,Undirected,4
+Madam Bølling,Sofie,Undirected,1
+Madam Bølling,Tine,Undirected,45
+Bølling,Tine,Undirected,20
+Bølling,Mutter,Undirected,1
+Kong Kristian,Tine,Undirected,1
+Kong Frederiks,Kong Kristian,Undirected,1
+Maren,Sorrig,Undirected,1
+Kong FredTik,Sorrig,Undirected,1
+Ajax,liun,Undirected,1
+Ajax,Hektor,Undirected,6
+Ajax,Tine,Undirected,2
+Hektor,Sotie,Undirected,1
+Herluf,Sotie,Undirected,1
+Lars,Tine,Undirected,2
+Anders,Ane,Undirected,2
+Berg,Staub,Undirected,1
+Oehlenschlågers,Tine,Undirected,1
+Graad,Sofie,Undirected,1
+Axel,Tine,Undirected,1
+Axel,Dronning Zoe,Undirected,1
+Frederik,liam,Undirected,1
+Kong Frederik,Tine,Undirected,1
+Jessen,Tine,Undirected,2
+Gud,Sofie,Undirected,4
+Dagge,Tine,Undirected,1
+Bølling,Gud,Undirected,2
+Bølling,cki,Undirected,1
+liun,livor,Undirected,1
+Bølling,Herluf,Undirected,3
+Tine,ifjor,Undirected,1
+c,ifjor,Undirected,1
+Hektor,Tine,Undirected,1
+Anders Nils,Lars Peters,Undirected,1
+Lars Peters,Tine,Undirected,1
+Lars Eriks,Tine,Undirected,1
+Hans Lorents,Tine,Undirected,1
+Berg,Bølling,Undirected,9
+Knud Smed,Madam Henrichsen,Undirected,1
+Bølling,Sine,Undirected,1
+Sine,Tine,Undirected,1
+Rubbert,Tine,Undirected,1
+Berg,"Oehlenschlåger,",Undirected,1
+Bølling,Madam Bølling,Undirected,11
+Mo’,Tine,Undirected,1
+Lars Erik,Trine,Undirected,1
+Lars Erik,Tine,Undirected,1
+Jomfru Jessen,Katinka,Undirected,1
+Fader,Madam Henrichsen,Undirected,1
+Bølling,Madam Henrichsen,Undirected,1
+Gammelgaard,Madam Esbensen,Undirected,1
+Madam Esbensen,Tine,Undirected,1
+Madam Bølling,Madam Henrichsen,Undirected,4
+Hans Lorentz,Madam Henrichsen,Undirected,1
+Gud,Madam Bølling,Undirected,10
+Ane-Pige,Madam Bølling,Undirected,1
+Madam Bølling,Niels Lars,Undirected,1
+Madam Bølling,Nils Lars,Undirected,1
+Madam,Madam Bølling,Undirected,1
+Madam Bølling,liun,Undirected,1
+Katinka,Tine,Undirected,2
+Tine,Tinka,Undirected,26
+Nils,Tine,Undirected,1
+Gammelgaard,Tine,Undirected,1
+Gammelgaard,Knud Smed,Undirected,1
+Berg,iforgaars,Undirected,1
+H. R. Berg,de Bergs,Undirected,1
+Bølling,de Bergs,Undirected,1
+Madam Bølling,don sidste Gang,Undirected,1
+Madam Bølling,Tine:,Undirected,1
+Jomfru Bølling,Tine,Undirected,1
+Kros,Stens,Undirected,1
+Madam Henrichsen,Tine,Undirected,4
+Aage,Tine,Undirected,1
+Bølling,Madam,Undirected,9
+Marie,Tine,Undirected,2
+Tine,ling,Undirected,1
+Katinka,Madam Bølling,Undirected,2
+.Sofie,Tine,Undirected,1
+Gud,Tine,Undirected,1
+Ane,Tine,Undirected,4
+Hiin,Tine,Undirected,2
+Berg,Herluf,Undirected,3
+Anders Lars,Tine,Undirected,1
+Frederik,Graa,Undirected,1
+Gammelgaard,Helgesen,Undirected,1
+Helgesen,Karl,Undirected,1
+Karl,Ryes,Undirected,1
+Graa,Gud,Undirected,1
+Jens,Klint,Undirected,1
+Kapellan Graa,Klint,Undirected,1
+Klint,Kong Kristian,Undirected,1
+Bluhme,Scheel Piessen,Undirected,1
+Dahl,Louise,Undirected,1
+Fangel,Peltsen,Undirected,1
+Lars Forkarl,Sofie,Undirected,1
+Alexandralokker,Sofie,Undirected,1
+Lieutenant Appel,Tine,Undirected,1
+Appel,Tine,Undirected,6
+Moer,Tine,Undirected,5
+Maren,Sofie,Undirected,8
+Berg,Marie,Undirected,1
+Løvenhjelm,Tine,Undirected,2
+Niedelich,Tine,Undirected,1
+Jøs,bun,Undirected,1
+Madam Bølling,Moer,Undirected,1
+Bølling,Erik,Undirected,1
+Erik,Lars Avlskarl,Undirected,1
+Bølling,Lars Avlskarl,Undirected,1
+Dybbøl,Madam Bølling,Undirected,1
+Bølling,Dybbøl,Undirected,1
+Madam Bølling,liam,Undirected,1
+Lars Avlskarl,sine Dvr.,Undirected,1
+Krøblingen,Tine,Undirected,1
+Bølling,Lieutenant Berg,Undirected,1
+Lieutenant Berg,Mr. Arboun,Undirected,1
+Jens Husmands,Per Eriks,Undirected,1
+Gud,Jomfru,Undirected,1
+Grete,Wiig,Undirected,1
+Wiig,lille Grete,Undirected,1
+Mo,Tine,Undirected,3
+Mo,liun,Undirected,1
+Berg,Sofie,Undirected,2
+Berg,Madam Bølling,Undirected,8
+Bølling,hui\,Undirected,1
+Tine,hui\,Undirected,1
+Madam Henrichsen,Tinka,Undirected,2
+Madam Bølling,Tinka,Undirected,5
+Madammen,Tine,Undirected,2
+Berg,Madammen,Undirected,1
+Bølling,Ivde,Undirected,1
+Sergean tstuen,Sofie,Undirected,1
+Berg,Tinka,Undirected,4
+Berg,Tine taug,Undirected,1
+Tine taug,Tinka,Undirected,1
+Berg,Løvenhjelm,Undirected,1
+Julia,Julia Julia Hopsasa,Undirected,1
+Løvenhjelm,Tinka,Undirected,1
+Hopsasa,Julia,Undirected,2
+Henrik,Tine,Undirected,1
+Jessens Augusta aste,Tinka,Undirected,1
+Gusta,Tinka,Undirected,7
+Gusta,Maren,Undirected,1
+Hopsasa,Sofie,Undirected,1
+Gusta,Sofie,Undirected,2
+Lars Avlskarl,Sofie,Undirected,1
+Gusta,Løvenhjelm,Undirected,2
+Lieutenant Jensen,Tinka,Undirected,1
+Gusta,Tine,Undirected,1
+Daggry,Sofie,Undirected,1
+Tine,eier,Undirected,2
+Bølling,Petra,Undirected,1
+Petra,Tine,Undirected,1
+Bølling,paany,Undirected,1
+Berg,liun,Undirected,2
+Madam Bølling,paany,Undirected,2
+Appel,Berg,Undirected,2
+Berg,lian,Undirected,1
+Berg,Maren,Undirected,3
+Kros,Tine,Undirected,1
+Madam Bølling,graa,Undirected,1
+Tine,graa,Undirected,1
+Berg,Faa,Undirected,1
+Lars Avlskarl,Maren,Undirected,1
+Anders Husmand,Lars Avlskarl,Undirected,2
+Lars,Maren,Undirected,1
+Fanny,Tine,Undirected,1
+Fanny,Herluf,Undirected,1
+Jessen,Lv,Undirected,1
+Gud,Jesus,Undirected,2
+Gud,Tinka,Undirected,1
+Lars Husmands,Tine,Undirected,1
+Niels Invalid,Tine,Undirected,1
+Ane,Niels Invalid,Undirected,1
+Ane,Gud,Undirected,1
+Choiseul Praslin,esaadanne,Undirected,1
+Tralala,lalala,Undirected,1
+lalala,tralala,Undirected,1
+Erik,Pér,Undirected,1
+Tine,paany,Undirected,2
+Tinka,taus,Undirected,1
+Tine,taus,Undirected,1
+Berg,taug,Undirected,1
+Berg,Rønhaves,Undirected,1
+Fred,Tine,Undirected,1
+Tine,lian,Undirected,2
+Bølling,Madammen,Undirected,1
+Gud,Madam,Undirected,1
+Herluf,Madam Bølling,Undirected,1
+Jesus,Sofie,Undirected,1
+Sofie,Tine Bøllings,Undirected,1
+Hektor,Trine,Undirected,1
+Herluf,Marie,Undirected,1
+Tine,liendes,Undirected,1
+Lars,Tinka,Undirected,1
+Lars,Sofie,Undirected,1
+Sofie,Tinka,Undirected,1
+Maren,Tinka,Undirected,1
+Anders Husmand,Tine,Undirected,1
+Bølling,Sofie,Undirected,1
+Bølling,Tinka,Undirected,2
+Gøtsche,Tinka,Undirected,1
+Gud,véd,Undirected,1
+Madam Henrichsen,Sofie,Undirected,2
+Madam Bølling,lian,Undirected,1
+Graad,Madam Bølling,Undirected,1
+Madam Esbensen,liun,Undirected,1

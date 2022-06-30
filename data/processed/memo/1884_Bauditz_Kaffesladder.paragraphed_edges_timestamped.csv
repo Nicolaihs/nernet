@@ -1,0 +1,876 @@
+source,target,timestamp
+Gud,Rolands,2
+Gud,Rolands,2
+Gud,Jensen,2
+Gud,Jensen,2
+Gud,Petrine gilt,2
+Frits Grønbæk,Jochumsen,3
+Jochumsen,Madsen,3
+Madsen,Sørensen,3
+Jespersen,Jitlianes,4
+Gud,Sørensen,5
+Gud,Sørensen,5
+Gud,Juliane,5
+Jespersen,Juliane,5
+Jespersen,Sørensen,5
+Jespersen,Juliane,6
+Jespersen,fro,7
+Jespersen,Juliane,7
+Jespersen,Juliane,8
+Jespersen,Madsen,9
+Jespersen,Sørensen,9
+Madsen,Sørensen,9
+Sørensen,lille,10
+Mariane,Sørensen,10
+Mariane,Sørensen,10
+Fritz Grønbæk,Sørensen,10
+Fritz Grønbæk,Jes,10
+Fritz,Jes,10
+Petrine,Sørensen,12
+Frøken Schwartz,Petrine,12
+Fritz Grønbæk,Frøken Schwartz,12
+Fritz,Fritz Grønbæk,12
+Klopstock,mar,13
+Sørensen,mar,13
+Fritz Grønbæk,Sørensen,13
+Fritz,Fritz Grønbæk,13
+Classen-Langes,Fritz,13
+Mutter,Sørensen,14
+Fritz Grønbæk,Mutter,14
+Fritz Grønbæk,Sørensen,14
+Nikoline,Sørensen,14
+Madam Ludvigsen,Nikoline,14
+Kommersraad Jacobsen,Madam Ludvigsen,14
+Fritz Grønbæk,Sørensen,16
+Fritz Grønbæk,Sørensen,16
+Sørensen,Trebelli,18
+Sørensen,Trebelli,18
+Sørensen,salig Rasmussen,18
+Sørensen,salig Rasmussen,18
+Petrine,Sørensen,18
+Petrine,Sørensen,18
+Fritz Grønbæk,Sørensen,18
+Fritz Grønbæk,Ravn,18
+Ravn,Schrøder,18
+Petrine,Schrøder,18
+Bendix,Petrine,19
+Bendix,Petrine,19
+Fritz Grønbæk,Petrine,19
+Drachmanns,Fritz Grønbæk,19
+Drachmanns,Sørensen,19
+Basji-Bozuk,Sørensen,19
+Basji-Bozuk,Petrine,19
+Fritz Grønbæk,Petrine,19
+Fritz Grønbæk,Jespersen,19
+Jespersen,Juliane,19
+Juliane,Sørensen,19
+Petrine,Sørensen,19
+Petrine,Sørensen,20
+Petrine,Sørensen,20
+Sørensen,Øllegaard,20
+Petrine,Øllegaard,20
+Petrine,Sørensen,20
+Petrine,Sørensen,20
+Petrine,Sørensen,20
+Frits Grønbæk,Sørensen,20
+Frits Grønbæk,Petrine,20
+Frits,Petrine,20
+Frits,Sørensen,20
+Petrine,Sørensen,20
+Petrine,Sørensen,21
+Frits Grønbæk,Petrine,21
+Frits Grønbæk,Sørensen,21
+Madam Frandsen,Sørensen,21
+Madam Frandsen,Petrine,21
+Petrine,Sørensen,21
+Sandbergs,Sørensen,21
+Sandberg,Sandbergs,21
+Jespersen,Juliane,22
+Gud,Sørensen,23
+Petrine,Sørensen,23
+Petrine,Sørensen,23
+Sørensen,verloren Sørensen,23
+Frits Grønbæk,verloren Sørensen,23
+Frits Grønbæk,Sørensen,23
+Kaufmann,Sørensen,23
+H. P. Holst,Kaufmann,23
+H. P. Holst,lian,23
+A iktor Hngo,lian,23
+A iktor Hngo,liam,23
+liam,liar,23
+Dannoas,liar,23
+Dannoas,Sørensen,23
+Frits Grønbæk,Petrine,24
+Petrine,Sørensen,24
+Sørensen,j,25
+Juliane,j,25
+Juliane,Madame Schrøder,25
+Gud,Sørensen,28
+Gud,Sørensen,28
+Frits Grønbæk,Sørensen,28
+Frits Grønbæk,Petrine,28
+Geschichte,Petrine,28
+Geschichte,ieg,28
+Sørensen,ieg,28
+Frits,Sørensen,28
+Frits,Sørensen,28
+Frits,Sørensen,28
+Frits,Sørensen,28
+Juliane,Sørensen,30
+Juliane,Kronprinsessens,30
+Kronprinsessens,Sørensen,30
+Petrine,Sørensen,30
+Frits Grønbæk,Petrine,30
+Augusta,Frits Grønbæk,30
+Augusta,Frits Grønbæk,30
+Ferslews,Frits Grønbæk,30
+Ferslew,Ferslews,30
+Ferslew,Frits,30
+Frits,K.,30
+Frits Grønbæk,K.,30
+Christian Firtals,Frits Grønbæk,30
+Christian Firtals,Sørensen,30
+Goltz,Sørensen,30
+Goltz,Petrine,30
+Jacobine Petersen,Sørensen,31
+Juliane,Sørensen,31
+Juliane,Sørensen,31
+Gud,Sørensen,31
+Gud,Sørensen,31
+Dinesen,Sørensen,31
+Dinesen,Sørensen,31
+Sørensen,lille Sørensen,33
+Bettelstaven,Eva,35
+Adam,Eva,35
+Adam,Sørensen,35
+Ambrosius,Sørensen,36
+Sørensen,lille Sørensen,37
+Androkles,Sørensen,37
+Androkles,Frits Grønbæk,37
+Frits Grønbæk,Villie,37
+Sørensen,Villie,37
+Arne,Sørensen,37
+Arne,Petrine,37
+Emil Poulsen,Petrine,37
+Emil Poulsen,Frits Grønbæk,37
+Sørensen,lian,38
+Sørensen,lian,38
+Petrine,Sørensen,38
+Frits,Petrine,38
+Frits,Juliane,38
+Jespersen,Juliane,38
+Frits,Jespersen,38
+Frits,Sørensen,38
+Juliane,Sørensen,38
+Juliane,Petrine,38
+Frits Grønbæk,Petrine,38
+Svane,Sørensen,39
+Svane,Sørensen,39
+Schrøder,Sørensen,39
+Schrøder,Sørensen,39
+Schrøder,Sørensen,39
+Gud,Schrøder,39
+Gud,Schrøder,39
+Schrøder,Sørensen,39
+Petrine,Sørensen,39
+Petrine,lille Sørensen,39
+Petrine,lille Sørensen,39
+Petrine,Sørensen,39
+Petrine,Sørensen,39
+Frits Grønbæk,Petrine,39
+Frits Grønbæk,lian,39
+Petrine,lian,39
+Gades,Petrine,39
+Gades,Petrine,39
+Gade,Petrine,39
+Gade,Petrine,39
+Amalie,Sørensen,41
+Amalie,Sørensen,41
+Alma,Frits Grønbæk,42
+Alma,Mater,42
+Drachmann,Mater,42
+Drachmann,Kofods,42
+Kofods,Niels Juel,42
+Frederik den sjette,Niels Juel,42
+Caroline Mathilde kjørt,Frederik den sjette,42
+Caroline Mathilde kjørt,Struense,42
+Malvina Hansen,Struense,42
+Malvina Hansen,Pedersen,42
+Alfons Daudis,Jette Hummer,44
+Alfons Daudis,Kancelliraad Jespersens,44
+Kancelliraad Jespersens,Sørensen,44
+Samson,Sørensen,44
+Samson,Sørensen,44
+Livi æger,Sørensen,44
+Kong Georg,Livi æger,44
+Kong Georg,Sørensen,44
+Frits Grønbæk,Sørensen,44
+Frits Grønbæk,Kaufmann,44
+Kaufmann,Petrine,44
+Jette Hummer,Petrine,44
+Petrine,Sørensen,45
+Frits Grønbæk,Petrine,45
+Frits Grønbæk,Jensen,45
+Gud,Sørensen,47
+"Rasmusse^,",Sørensen,47
+"Rasmusse^,",Sørensen,47
+Olsen,Sørensen,47
+Olsen,Sørensen,47
+Don Johan,Sørensen,47
+Don Johan,Mefistofeles,47
+Mefistofeles,Vilhelm Tæll,47
+Vilhelm Tæll,mier,47
+Gud,mier,47
+Gud,Sørensen,47
+Nora,Sørensen,47
+Nora,mir,47
+Gud,mir,47
+Gud,Sørensen,47
+Nora,Petrine,48
+Nora,ifjor,48
+Frits Grønbæk,ifjor,48
+Frits Grønbæk,Helmer,48
+Helmer,Sørensen,48
+Rank,Sørensen,48
+Juliane Fru Lindegaard,Rank,48
+Ane-Marie,Juliane Fru Lindegaard,48
+Ane-Marie,Frits Grønbæk,48
+Frits Grønbæk,Sørensen,48
+Eru Schrøder,Sørensen,48
+Eru Schrøder,Henrik Ibsen,48
+Gud,sulasjere,50
+Gud,Søresen,50
+Amalie,Søresen,50
+Amalie,Petersen,50
+Juliane,Petersen,50
+Juliane,lille Ambrosius,50
+Ambrosiuses,lille Ambrosius,50
+Gud,Petrine,51
+Gud,Kasmine,51
+Kasmine,salig Schrøder,51
+Eru Sørensen,Sørensen,53
+Frederikke Schrøders,Sørensen,53
+Frederikke Schrøders,Sørensen,53
+Frits Grønbæk,Sørensen,53
+Frits Grønbæk,Sørensen,53
+Amalie,Sørensen,53
+Amalie,lille Sørensen,53
+lille Amalie,lille Sørensen,53
+Sørensen,Valdemar,54
+Frits,Sørensen,54
+Frits,Nordenskiøld,54
+Andersen,Gud,55
+Andersen,Gud,55
+Bille,Gud,55
+Bille,Gud,55
+Gud,Meldahl,55
+Meldahl,Saaby,55
+Meldahl,Saaby,55
+Meldahl,Saaby,55
+Saaby,Sørensen,55
+Frits Grønbæk,Sørensen,55
+Frits Grønbæk,ifjor,55
+Meldahl,ifjor,55
+Petersen,Sarah Bernhard,56
+Gud,Petersen,57
+Juliane,Petersen,57
+Juliane,Sørensen,57
+Sørensen,lille Ambrosius,57
+Sørensen,lille Ambrosius,57
+Madam Hamber,Sørensen,57
+Madam Blache,Madam Hamber,57
+Madam Blache,Sarah Bernhard,57
+Frits Grønbæk,Sarah Bernhard,57
+Frits Grønbæk,Petrine,57
+Nikolajsens,Petrine,57
+Brygger Jacobsen,Nikolajsens,57
+Brygger Jacobsen,Sarah Bernhard,57
+Sarah Bernhard,Sørensen,57
+Frits Grønbæk,Sørensen,57
+Frits Grønbæk,Sarah,57
+Sarah,Sørensen,57
+Gud,Sørensen,58
+Petrine,Sørensen,58
+Petrine,Sørensen,58
+Anton Nielsens,Sørensen,58
+Anton Nielsens,Sørensen,58
+Regnar,Sørensen,58
+Petrine,Regnar,58
+Petrine,Svane,58
+Andersen,Svane,58
+Ambrosius,Andersen,58
+Ambrosius,Sørensen,58
+Rasmine,bun,61
+Petrine,bun,61
+Petrine,liun,61
+Frits Grønbæk,liun,61
+Frits Grønbæk,Sørensen,61
+Bruns,Sørensen,61
+Bruns,Zangenberg,61
+Emil,Zangenberg,61
+Ambrosius,Emil,61
+Ambrosius,Neumann,61
+Neumann,Wolle,61
+Wolle,viel Geschrei,61
+viel Geschrei,wenig Wolle,61
+Hyltoft,wenig Wolle,61
+Hunderup,Hyltoft,61
+Agnete,Hunderup,61
+Abrahams,Agnete,61
+Abrahams,Juliane,61
+Juliane,Rasmine,61
+Malene Christensen,Rasmine,61
+Frits Grønbæk,Malene Christensen,61
+Petrine,Sørensen,63
+Frits,Petrine,63
+Frits,Gud,63
+Gud,Sørensen,63
+Petrine,Sørensen,63
+Petrine,Sørensen,63
+Sørensen,lille Ambrosius,63
+Sørensen,lille Ambrosius,63
+Frits,Sørensen,63
+Frits,Petrine,63
+Petrine,salig Schrøder,63
+Frits,salig Schrøder,63
+Frits,Petrine,64
+Mikkelsens,Sørensen,65
+Madsen,Sørensen,65
+Madsen,Sørensen,65
+Petrine,Sørensen,65
+Gud,Petrine,65
+Gud,Petrine,65
+Petrine,Sørensen,65
+Frits,Sørensen,65
+Sørensen,bæk,66
+Licht,Sørensen,66
+Licht,inehr Licht,66
+Sørensen,inehr Licht,66
+Jungmands,Sørensen,66
+Gud,Sørensen,68
+Petrine,Sørensen,69
+Frits Grønbæk,Petrine,69
+Frits Grønbæk,Petersen,69
+Juliane,Petersen,69
+Juliane,Sørensen,69
+Gambetta,Sørensen,69
+Gambetta,Petrine,69
+Nana,Petrine,69
+Frits Grønbæk,Nana,69
+Frits Grønbæk,Richard Kauffmann,69
+Richard Kauffmann,Sørensen,69
+Sørensen,salig Schrøder,69
+Sørensen,salig Schrøder,69
+Gud,Sørensen,69
+Gud,Sørensen,69
+Philip den,Sørensen,69
+Dora,Philip den,69
+Dora,Petrine,69
+Dora,Petrine,69
+Abrahams,Dora,69
+Abrahams,Sangenberg,69
+Dora,Sangenberg,69
+Dora,Dorakiste,69
+Dorakiste,Frits Grønbæk,69
+Elixiren,Frits Grønbæk,69
+Elixiren,Rostrup,69
+Frits,Gud,70
+Gud,Sørensen,70
+Abrahams,Sørensen,70
+Frits Grønbæk,Kaufmann,71
+Frits Grønbæk,Peter Tordenskjold,71
+Peter Tordenskjold,Sortepeter,71
+Sortepeter,Sørensen,71
+Frits Grønbæk,Sørensen,71
+Frits Grønbæk,Gud,71
+Gud,H. P. Holst,71
+H. P. Holst,Olaf Paulsen,71
+Crone,Olaf Paulsen,71
+Crone,Juliane,71
+Juliane,lille Eva Dora Nora Thora Leonarda,71
+lille Ambrosius,lille Eva Dora Nora Thora Leonarda,71
+Petersen,lille Ambrosius,71
+Ambrosius,Petersen,71
+Ambrosius,Sørensen,71
+Kaufmann,Richard Kaufmann,72
+Kaufmann,Sørensen,72
+Frits Grønbæk,Sørensen,72
+Frits Grønbæk,Sørensen,72
+Ernest,Sørensen,72
+Ernest,Sørensen,72
+Madam Pascha,Sørensen,72
+Dymorads,Madam Pascha,72
+Dymorads,Orase,72
+Orase,Pascha,72
+Kannibal,Pascha,72
+Kannibal,Pascha,72
+Madam Pascha,Pascha,72
+Madam Pascha,Pascha,72
+Lotte,Pascha,72
+Dymorads,Fulvia,73
+Fulvia,Sørensen,73
+Gud,Sørensen,73
+Frits Grønbæk,Gud,73
+Gud,Petrine,74
+Frits Grønbæk,Petrine,74
+Frits Grønbæk,Petrine,74
+Petrine,Sørensen,74
+Signora,Sørensen,74
+Frits Grønbæk,Signora,74
+Frits Grønbæk,L’,74
+L’,lille Ambrosius,74
+Pierrot,lille Ambrosius,74
+Petrine,Pierrot,74
+Petrine,Wæls,74
+Petersen,Wæls,74
+Petersen,Sørensen,74
+Fenger,Sørensen,74
+Estrup,Fenger,74
+Gud,Jochumsen,75
+Jespersen,Jochumsen,75
+Jespersen,Sørensen,75
+Nora Dora Leonarda,Sørensen,75
+Nora Dora Leonarda,Sørensen,75
+Frits,Sørensen,75
+Frits,Gud,75
+Gud,Sørensen,75
+Knud Sørensen,Sørensen,75
+Frits Grønbæk,Sørensen,76
+Frits,Sørensen,76
+Frits,Petrine,76
+Frits,Petrine,76
+Fabers,Frits,76
+Fabers,Sørensen,76
+Juliane,Sørensen,76
+Juliane,Sørensen,76
+Gud,Sørensen,76
+Gud,Petrine,76
+Frits Grønbæk,Petrine,76
+Frederik,Sørensen,77
+Frederik,Sørensen,77
+King,Sørensen,77
+King,Petrine,77
+Frits Grønbæk,Petrine,77
+Fessel,Gud,79
+Fessel,Wett,79
+Lorenzen,Wett,79
+Lorenzen,Sørensen,79
+Petrine,Sørensen,79
+Petrine,Sørensen,79
+Petrine,Sørensen,79
+Gud,Petrine,79
+Gud,véd,79
+Svane,véd,79
+Muggermand,Svane,79
+Muggermand,Petrine,79
+Muggermand,Petrine,79
+Muggermand,Petrine,79
+Muggermand,Petrine,79
+Muggermand,Petrine,79
+Petrine,Sørensen,79
+Petrine,Superen,80
+Petrine,Superen,80
+Frits Grønbæk,Petrine,80
+Frits Grønbæk,Paul Petersens,80
+Paul Petersens,Petrine,80
+Petrine,Sørensen,80
+Frits,Sørensen,80
+Frits,Lahaatvolæ,80
+Lahaatvolæ,Sørensen,80
+Frits Grønbæk,Sørensen,80
+Frits Grønbæk,Sørensen,80
+Petrine,Sørensen,80
+Petrine,Regine,80
+Richard,Valdemar Sejr,82
+K,Richard,82
+Drakmands,K,82
+Abrahams,Drakmands,82
+Abrahams,Arnfred,82
+Arnfred,Frits Grønbæk,82
+Frits,Frits Grønbæk,82
+Berengaria,Frits,82
+Berengaria,Kai,82
+Helene,Kai,82
+Frits,Helene,82
+Frits,Nordahl-Bing,82
+Karl afrise,Nordahl-Bing,82
+Karl afrise,Molbæk,82
+Helene,Molbæk,82
+Helene,Valdemar,82
+Berengaria,Valdemar,82
+Berengaria,Karlafrise,82
+Berengaria,Karlafrise,82
+Berengaria,Karlafrise,82
+Karlafrise,Nordahl Bing,82
+Helene,Nordahl Bing,82
+Gud,Helene,82
+Gud,Sørensen,82
+Sørensen,lille Ambrosius,82
+Frits,lille Ambrosius,82
+Frits,Sørensen,82
+Sørensen,Thomsen,82
+Frits,Petrine,83
+Petrine,Sørensen,83
+Petrine,Sørensen,83
+Frits,Petrine,83
+Don Juan,Frits,83
+Don Juan,livor,83
+Cetti,livor,83
+Cetti,Frits Grønbeck,83
+Abrahams,Frits Grønbeck,83
+Abrahams,Pio,83
+Nøimann,Pio,83
+Abrahams,Nøimann,83
+Abrahams,egmi,83
+Sørensen,egmi,83
+Sigfred Nebelongen,Sørensen,83
+Schumann,Sigfred Nebelongen,83
+Andersen,Schumann,83
+Andersen,livor,83
+Borchsenius,livor,83
+Borchsenius,Schandorph,83
+Drachmann,Schandorph,83
+Borchsenius,Drachmann,83
+Borchsenius,zens,83
+Hr. E. Schumann,zens,83
+Hagen,Hr. E. Schumann,83
+Hagen,Sørensen,83
+Drachmann,Sørensen,83
+Gud,véd,84
+Hovgaard,véd,84
+Hovgaard,Sørensen,84
+Frits Grønbæk,Sørensen,84
+Frits Grønbæk,Gud,84
+Gud,Jakob Holmblads,84
+Jakob Holmblads,Juliane,84
+Juliane,lille Eva Nora Dora Leonarda,84
+Juliane,lille Eva Nora Dora Leonarda,84
+Juliane,lille Ambrosius,84
+Juliane,lille Ambrosius,84
+Juliane,liun,84
+Gud,liun,84
+Gud,Juliane,84
+Gud,Juliane,84
+Gud,véd,84
+Sørensen,véd,84
+Petersen,Sørensen,84
+Petersen,Sørensen,84
+Petrine,Sørensen,84
+Gud,Petrine,84
+Christoffersens,Gud,84
+Christoffersens,Walter Scott,84
+Frits,Walter Scott,84
+Frits,Grønbæk,84
+Amalie,Gud,85
+Amalie,Sørensen,85
+Nikoline Schrøder,Sørensen,85
+Nikoline Schrøder,Sørensen,85
+Petrine,Sørensen,85
+Frits Grønbæk,Petrine,85
+Frits,Frits Grønbæk,85
+Frits,Minjong,85
+Minjong,Moe,85
+Frøken Strandberg,Moe,85
+Frøken Strandberg,Kristoffersen,85
+Fortepiano,Kristoffersen,85
+Fortepiano,Kristoffersen,85
+Erhart,Kristoffersen,85
+Erhart,Faline,85
+Faline,Philine,85
+Philine,Simonsen,85
+Simonsen,Sørensen,85
+Frits Grønbæk,Sørensen,85
+Frits Grønbæk,Zanvandt,85
+Faline,Zanvandt,85
+Faline,Ginderup,85
+Ginderup,Sørensen,85
+Petrine,Sørensen,85
+Frits Grønbæk,Petrine,85
+Frits Grønbæk,Petrine,85
+Petrine,Sørensen,85
+Petrine,Sørensen,85
+Frits Grønbæk,Petrine,85
+Frits Grønbæk,Petrine,85
+Petrine,Sørensen,85
+Petrine,Sørensen,85
+Petrine,Sørensen,85
+Frits Grønbæk,Sørensen,85
+Frits Grønbæk,Sørensen,85
+Greves,Gud,87
+Frits Grønbæk,Greves,87
+Frits,Frits Grønbæk,87
+Bockmager,Frits,87
+Bockmager,bock,87
+Dinahbeumer,bock,87
+Balduins,Dinahbeumer,87
+Anton Svendsen,Balduins,87
+Anton Svendsen,Frits,87
+Frits,Lønholt,87
+Hougaard,Lønholt,87
+Hougaard,Sørensen,87
+Frits,Sørensen,87
+Duncker,Frits,87
+Duncker,Sørensen,87
+Heymann,Sørensen,87
+Heymann,Sørensen,87
+Georg Brandes,Sørensen,88
+Petrine,Sørensen,88
+Rachel Nathan,Rosalia Benjamin,89
+Rachel Nathan,Sørensen,89
+Pipi,Sørensen,89
+Pipi,Sørensen,89
+Frits,Sørensen,89
+Frits,Juliane,89
+Augustin Frants-Josef,Juliane,89
+Augustin Frants-Josef,HovgaardPetersen,89
+HovgaardPetersen,Oda Dijmphna,89
+Gaméline,Oda Dijmphna,89
+Franziska Josephine Petersen,Gaméline,89
+Franziska Josephine Petersen,Petrine,89
+Petrine,Richard Kaufmann,89
+Frits Grønbæk,Richard Kaufmann,89
+Frits Grønbæk,Krohns,89
+Krohns,lille Frits,89
+Krohn,lille Frits,89
+Brandes,Krohn,89
+Gud,Petrine,90
+Petrine,Sørensen,90
+Petrine,Sørensen,90
+Frits Grønbæk,Petrine,90
+Andersen,Frits Grønbæk,90
+Andersen,Petrine,90
+Gud,Petrine,90
+Frits,Gud,90
+Frits,Petrine,90
+Petrine,Schandorfs,94
+Frøken Ludvigsen,Schandorfs,94
+Frits Grønbæk,Frøken Ludvigsen,94
+Frits Grønbæk,Petrine,94
+Petrine,Pio,94
+L—L—Hansen,Pio,94
+Benjamin,L—L—Hansen,94
+Babette,Benjamin,94
+Babette,Petrine,94
+Bojesens,Petrine,94
+Bojesens,Sørensen,94
+Gud,Sørensen,95
+Svane,Sørensen,95
+Petrine,Svane,95
+Petrine,Sørensen,95
+Petrine,Sørensen,95
+Petrine,Schandorfs,95
+Gud,Petrine,96
+Gud,Juliane,96
+Juliane,lille Ambrosius,96
+Sørensen,lille Ambrosius,96
+Gud,Herman Bang,97
+Frits Grønbæk,Herman Bang,97
+Frits Grønbæk,Sørensen,97
+Frits,Sørensen,97
+Frits,Pesjyle,97
+Pesjyle,Petersen,97
+Frits,Petersen,97
+Frits,Venus,97
+Schrøder,Venus,97
+Schrøder,sjalu,97
+Farmasøjt,sjalu,97
+Farmasøjt,Sørensen,97
+Frits,Sørensen,97
+Frits,Venus,97
+Madam Skruk,Venus,97
+Madam Skruk,Petrine,97
+Frøken Petersen,Petrine,97
+Frøken Petersen,Miss Æneas,97
+Miss Æneas,Rothe,97
+Fallesen,Rothe,97
+Fallesen,Margrethe,97
+Margrethe,Petrine,97
+Petrine,Sørensen,97
+Frits Grønbæk,Sørensen,97
+Frits Grønbæk,Sørensen,97
+Frits,Sørensen,97
+Frits,Gud,97
+Gud,Petrine,97
+Petrine,Sørensen,97
+Frøken Pyk,Lone Eibeschiitz,98
+Axel,Frøken Pyk,98
+Axel,Ingeborg Hansen,98
+Ingeborg Hansen,Saarell,98
+Saarell,Sjarvinka,98
+Brandes,Sjarvinka,98
+Brandes,L’,98
+L’,Sørensen,98
+Ambrosius,Sørensen,98
+Ambrosius,Petrine,98
+Gud,Petrine,98
+Gud,Petrine,98
+Brandes,Petrine,98
+Brandes,Petrine,98
+Petrine,lille Ambrosius,98
+Madam Flaubert,lille Ambrosius,98
+Bovary,Madam Flaubert,98
+Bovary,Else,98
+Else,Gjellerups,98
+Gjellerups,Gud,98
+Gud,Sørensen,98
+Gud,Sørensen,98
+Frits,Gud,98
+Frits,Kate,98
+Kate,Petrine,98
+Brandes,Petrine,98
+Brandes,Sørensen,98
+"Frederiknielsen,",Petrine,100
+Petrine,lille Ambrosius,101
+Heymans,Petrine,101
+Heymans,Svane,101
+Svane,Sørensen,101
+Frits,Sørensen,101
+Frits,Petrine,101
+Lieutenant Svane,Petrine,101
+Frits,Lieutenant Svane,101
+Frits,Sørensen,101
+Wessel,Wett,102
+LIL,Wessel,102
+Berg,Pingel,104
+Berg,Sørensen,104
+Sørensen,salig Schrøder,104
+Heymann,Sørensen,105
+Heymann,Sørensen,105
+Petrine,Sørensen,105
+Petrine,Sørensen,105
+Frits Grønbæk,Sørensen,105
+Frits Grønbæk,Petrine,105
+Gud,Petrine,105
+Frits Grønbæk,Gud,105
+Gud,Sørensen,107
+Bernhart Olsen,Sørensen,107
+Frits Grønbæk,Frits emu,108
+Cassa,Frits emu,108
+Cassa,Nora,108
+Nora,Sørensen,108
+Kapitain Richelieu,Sørensen,108
+Kapitain Richelieu,Petrine,108
+Petrine,Sarah Bernhard,108
+Buster,Sarah Bernhard,108
+Buster,Christoffersen,108
+Christoffersen,Frits,108
+Christoffersen,Frits,108
+Christoffersen,Frues,108
+Frues,Olaf,108
+Olaf,Tobiesen,108
+Gud,Tobiesen,108
+Frits,Gud,109
+Frits,Sørensen,109
+Frits Grønbæk,Sørensen,109
+Frits Grønbæk,Sørensen,109
+Edvard Brandes,Sørensen,109
+Edvard Brandes,Sørensen,109
+Melansje,Sørensen,109
+Gud,Melansje,109
+Fischer,Gud,109
+Fischer,Frits Grønbæk,109
+Brandes,Frits Grønbæk,109
+Brandes,Linden,109
+Frits,Linden,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Fredsberg,Sørensen,109
+Bismark,Fredsberg,109
+Bismark,Dalsgaard,109
+Dalsgaard,Petrine,109
+Frits,Petrine,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Frits,Sørensen,109
+Darf,Sørensen,109
+Darf,Sørensen,109
+Gud,Sørensen,109
+Gud,Sørensen,109
+Caen,Sørensen,109
+Caen,Gud,109
+Gud,Sørensen,110
+Amalie,Sørensen,110
+Amalie,Sørensen,110
+Ribssjelé,Sørensen,110
+Gud,Ribssjelé,110
+Gud,Sørensen,110
+Ferslev,Sørensen,110
+Ferslev,Sørensen,110
+Sørensen,Wæles,110
+Glætstone,Wæles,110
+Desert,Glætstone,110
+Desert,Ehlers,110
+Ehlers,Frits Grønbæk,110
+Frits Grønbæk,Sørensen,110
+Ferslev,Sørensen,110
+Ferslev,Sørensen,110
+Ansjos-Sørensen,Sørensen,110
+Ansjos-Sørensen,Frits Grønbæk,110
+Frits Grønbæk,Gine,110
+Georgine Rasmussen,Gine,110
+Georgine Rasmussen,Gine Rasmussen,110
+Gud,Pastor Rumlebæk,111
+Gud,Pastor Rumlebæk,111
+Frits Grønbæk,Gud,111
+Frits Grønbæk,Petrine,111
+Petrine,Sørensen,111
+Frits Grønbæk,Sørensen,111
+Frits Grønbæk,Petersen,111
+Petersen,lille Ambrosius,111
+Nora Dora Leonarda,lille Ambrosius,111
+Gud,Nora Dora Leonarda,111
+Gud,Kristian den,111
+Herman Bang,Kristian den,111
+Gjellerup,Herman Bang,111
+Gjellerup,Herman,111
+Falkman,Herman,111
+Falkman,Petrine,111
+Petrine,Rosalie,111
+Petrine,Rosalie,111
+Petrine,Rosalie,111
+Petrine,Rosalie,111
+Gud,Petrine,111
+Gud,Sørensen,111
+Negerdam,Sørensen,111
+Falkman,Negerdam,111
+Holberg,esten,112
+Alotto,Sørensen,113
+Petrine,lian,114
+Petrine,liun,114
+Saxus,liun,114
+Grandmamaticus,Saxus,114
+Grandmamaticus,Odapetersen,114
+Odapetersen,Tolderlund,114
+Schandorph,Tolderlund,114
+Frits Grønbæk,Schandorph,114
+Frits,Frits Grønbæk,114
+Frits,Petrine,114
+Petrine,Sørensen,114
+Sørensen,Wessel,114
+Vett,Wessel,114
+Sørensen,Vett,114
+Petrine,Sørensen,114
+Herman Bang,Petrine,114
+Herman Bang,Sørensen,114
+Høgsbro,Sørensen,114
+Figaro,Høgsbro,114
+Figaro,lille Sørensen,114
+Frits Grønbæk,lille Sørensen,114
+Frits Grønbæk,Høgsbro,114
+Høgsbro,Sørensen,114
+Gud,Sørensen,114
+Gud,Richard Kaufmann,114
+Gud,Petrine,116
+Frits Grønbæk,Petrine,116
+Frits Grønbæk,Sørensen,116
+Kullerups,Sørensen,116
+Kullerup,Kullerups,116
+Alen Petrine,Kullerup,116
+Alen Petrine,Frits Grønbæk,116
+Frits Grønbæk,Sørensen,116
+Sørensen,livis,116
+Frits Grønbæk,livis,116
+Frits Grønbæk,Sørensen,116

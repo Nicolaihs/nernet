@@ -1,0 +1,528 @@
+source,target,timestamp
+Bangs,Gimle,2
+Bangs,Kong Leopold,3
+Kong Leopold,Magnats,3
+Katharina von Boras,Magnats,3
+Katharina von Boras,Luther,3
+Kristian den,Luther,3
+Aage Bang,Kristian den,3
+Aage Bang,Bjørn,3
+Bang,Bjørn,3
+Mama,Onkel Ejnar,11
+Hjørdis,Mama,11
+Hjørdis,Stakkars,19
+Hjørdis,Mama,20
+Egil,Hjørdis,26
+Egil,Hjørdis,31
+Bang,Hjørdis,31
+Egil,Mama,33
+Hjørdis,Mama,36
+Gimle,Olsen,39
+Hjørdis,Olsen,39
+Hjørdis,Jomfru Olsen,39
+Jomfru Olsen,grændseløs,39
+Hjørdis,sorn,40
+Hjørdis,John Finson,40
+John Finson,Tellefsen,40
+Engels,Tellefsen,40
+Engels,Hjørdis,40
+Hjørdis,Jomfru Olsen,40
+Jomfru Olsen,Ponny,40
+Albert,Hjørdis,41
+Albert,tretti,41
+Hjørdis,tretti,41
+Hjørdis,Mama,41
+Jomfru Olsen,Mama,41
+Bohave,Hjørdis,43
+Hjørdis,Stanley,44
+Muhameds,Stanley,44
+Egil,Gimle,51
+Egil,Gimle,51
+Hans Egholm,Torsten Vik,52
+Finne,Svend Finne,53
+Finne,Hjørdis,53
+Hjørdis,Sofus Torkilsen,56
+Hjørdis,Michael Wendel,56
+Egil,Michael Wendel,58
+Mø,Wendel,59
+Meldahl,Sande,65
+Egil,Hans Egholm,69
+Hans Egholm,Wendel,69
+Torkilsens,Wendel,69
+Torkilsens,Vik,69
+Egil,Vik,69
+Egil,Meldahl,69
+Bang,Meldahl,69
+Bang,Hjørdis,69
+Hjørdis,Jomfru Olsen,69
+Hjørdis,Jomfru Olsen,69
+Mama,Wandel,72
+Mama,Selmer,72
+Fogdens,Selmer,73
+Sande,Selmer,73
+Mama,Papa,75
+Hjørdis,Rosendahl,78
+Frøken Rosendahl,Hjørdis,78
+Egil,Laura,79
+Hans Egholm,Hjørdis,81
+Hans Eghoim,Torkilsen,82
+Hjørdis,Meldahl,94
+Kristi,svarte Torkilsen,96
+Kristus,Platons,97
+Hjørdis,Meldahl,99
+Rubinstein,Wagner,106
+Egil,Torsten Vik,109
+Laura,Torsten Vik,109
+Egil,Laura,109
+Egil,Torsten Vik,109
+Laura,Torsten Vik,109
+Gimle,Laura,109
+Gimle,Hjørdis,109
+Hjørdis,Torsten Vik,110
+Hjørdis,Rosendahl,116
+Hjørdis,Torsten Vik,116
+Hjørdis,Meldahl,118
+Hjørdis,Michael Wendel,122
+Gutten,Lille Sverre,129
+Adolf,Sverre,130
+Adolf,Sverre,130
+Adolf,Sverre,130
+Adolf,Sverre,130
+Adolf,Sverre,131
+Adolf,Sverre,132
+Hjørdis,Sverre,133
+Hjørdis,Sande,133
+Sande,Sverre,133
+Fanny,Sverre,134
+Hjørdis,Sverre,136
+Rosendahl,Sverre,137
+Gimle,Rosendahl,137
+Mel-dahls,Sverre,143
+Hjørdis,Sverre,143
+Anna,Hjørdis,150
+Hjørdis,Sverre,162
+Hjørdis,Sverre,162
+Meldahl,Peter,165
+Stedmors,Sverre,169
+Stedmors,Sverre,169
+Bang,Sverre,169
+Bang,Hjørdis,169
+Hjørdis,Sverre,169
+Sande,Sverre,170
+Hjørdis,Sverre,170
+Egil,Hjørdis,170
+Egil,Mama,170
+Anna,Hjørdis,171
+Anna,Papa,171
+Anna,Hjørdis,172
+Anna,Hjørdis,172
+Hjørdis,Sverre,172
+Egil,Sverre,173
+Hjørdis,Sverre,173
+Gimle,Sande,178
+Egil,Sverre,179
+Egil,Sverre,179
+Hjørdis,Rosendahl,181
+Egil,Rosendahl,181
+Egil,Kaptejn Rosendahls,181
+Egil,Michael Wendel,184
+Fogdens,Hjørdis,186
+Hjørdis,Mel-dahl,187
+Egil,Laura,188
+Laura,Torsten Vik,188
+Hjørdis,Torsten Vik,188
+Hjørdis,Kaptejn Rosendahl,188
+Frøken Laura,Mama,191
+Hjørdis,paany,192
+Laura,paany,192
+Egil,Laura,192
+Hjørdis,Uhrkjæde,196
+Hjørdis,Rosendahl,197
+Egil,Laura,201
+Egil,Laura,205
+Fogdens,Kaptejn Rosendahl,207
+Frederik,Gutten,209
+Frederik,Laura,212
+Bang,Gimle,213
+Laura,Vik,214
+Egil,Vik,214
+Egil,Laura,214
+Laura,Torsten Vik,215
+Hjørdis,Kaptejn Rosendahl,216
+Hjørdis,Meldahl,217
+Egil,Selmer,220
+Hjørdis,Sverre,221
+Egil,Laura,222
+Frederik Rosendahl,Hjørdis,232
+Hjørdis,Sverre,232
+Hjørdis,Sverre,232
+Alma,Rosendahl,233
+Egil,Laura,235
+Hjørdis,Sverre,239
+Eremiten,Gud,240
+Gud,Hjørdis,245
+Moses,Sverre,252
+Hjørdis,Kristus,253
+Egholms,Sverre,257
+Egholms,Hjørdis,257
+Hjørdis,paany,258
+Hjørdis,Sverre,261
+Hjørdis,Rosendahl,261
+Hjørdis,Sverre,262
+Alma,Hjørdis,262
+Alma,Ifgil,262
+Ifgil,Laura,262
+Egil,Laura,262
+Egil,Laura,262
+Egil,Laura,262
+Laura,Torsten Vik,263
+Egil,Torsten Vik,263
+Egil,Laura,263
+Bang,Frederik,264
+Bang,Laura,264
+Gimle,Laura,264
+Gimle,Hjørdis,264
+Egil,Hjørdis,267
+Egil,Fruen,270
+Frøken Rosendahl,Selmer,271
+Egil,Selmer,271
+Egil,Fogdens,271
+Fogdens,Laura,271
+Rosendahl,Sverre Meldahl,272
+Rosendahl,Vik,273
+Hjørdis,Sverre,277
+.Torsten Viks,Hjørdis,279
+.Torsten Viks,Mel-dahis,279
+Hjørdis,Mel-dahis,279
+Hjørdis,Oxens,282
+Hjørdis,Oxens,282
+Apis,Hjørdis,282
+Apis,Mama,282
+Anna,Skomager Aanaas,284
+Anna,Sverre,286
+Egil,Laura,288
+Egil,Sverre,288
+Anna,Egil,292
+Egil,Hjørdis,295
+Egil,Laura,295
+Hjørdis,Sverre,297
+Egil,Hjørdis,297
+Egil,Laura Rosendahl,297
+Anna,Sverre,298
+Anna,Hjørdis,298
+Kristi,Sverre,299
+Hjørdis,Sverre,299
+Anna,Sverre,300
+Hjørdis,Sverre,300
+Anna,Hjørdis,300
+Anna,Laura,300
+Egil,Laura,300
+Egil,Hjørdis,300
+Bang,Sverre,306
+Laura,Rosendahl,309
+Egil Bang,Laura,309
+Anna,Wang,312
+Gimle,Hjørdis,318
+Gud,Mama,320
+Gud,lille Hjørdis,320
+Gud,Kristus,322
+Kristus,Marcus Aurel,322
+Marcus Aurel,Seneca,322
+Kristi,Seneca,322
+Kristus,Mama,325
+Gud,Kristus,325
+Gud,Kristus,325
+Hjørdis,Kristus,325
+Hjørdis,Kristus,325
+Alma,Laura,330
+Alma,Laura,332
+Frederik,Laura,333
+Alma,Laura,342
+Egil,Laura,347
+Frederik,Laura,347
+Egil,Laura,350
+Anna,Hjørdis,352
+Anna,Meldahl,352
+Meldahl,paany,352
+Anna,Wandel,353
+Meldahl,Wandel,353
+Anna,Meldahl,353
+Anna,Egil,353
+Egil,Hjørdis,353
+Hjørdis,s,353
+Anna,s,353
+Hjørdis,Meldahl,354
+Meldahl,Sverre,354
+Sverre,Sølje,354
+Sølje,mi,354
+Sverre,mi,354
+Svend,Sverre,355
+Egil,Egil Bang,356
+Egil,Laura,356
+Gimle,Laura,356
+Egil,Gimle,356
+Bang,Egil,356
+Egil,Kaptejn Rosendahl,357
+Alma,Kaptejn Rosendahl,357
+Alma,Bang,357
+Bang,Rosendahl,357
+Hjørdis,Rosendahl,357
+Hjørdis,Meldahl,357
+Bang,Hjørdis,358
+Hjørdis,Laura,358
+Hjørdis,Laura,358
+Hjørdis,Laura,358
+Alma,Laura,358
+Laura,Meldahl,360
+Hjørdis,Sverre,361
+Hjørdis,Rosendahl,361
+Hjørdis,Sverre,362
+Alma,Hjørdis,362
+Hjørdis,Sverre,365
+Egil,Laura,369
+Egil,paany,372
+Bang,Egil,377
+Egil,Sverre,378
+Hjørdis,Rosendahl,381
+Hjørdis,Sverre,382
+Egil,Sverre,385
+Egil,Rosendahl,386
+Laura,Sverre,388
+Bang,Chopins,392
+Carmens,Chopins,392
+Carmens,Hjørdis,392
+Elisabeth,Wagner,398
+Elisabeth,Hjørdis,398
+Hjørdis,paany,404
+Anna,Bang,405
+Anna,Frøken Bang,408
+Bang,Hjørdis,409
+Anna,Sverre,410
+Anna,Hjørdis,410
+Anna,Hjørdis,411
+Anna,Meldahl,418
+Hjørdis,Sverre,420
+Gud,Hjørdis,420
+Gud,Sverre,420
+Hjørdis,Sverre,420
+Egil Bang,Rosendahl,421
+Alma,Rosendahl,421
+Alma,Laura,421
+Egil,Laura,421
+Egil,Rosendahl,421
+Egil,hatas,424
+Aagerkarle,Egil,425
+Alma,Egil,436
+Alma,Frederik,436
+Frederik,Laura,436
+Egil,Laura,441
+Egil,Hjørdis,441
+Hjørdis,Laura,441
+Alma,Laura,441
+Alma,Laura,441
+Hjørdis,Laura,443
+Egil,Sverre Meldahl,444
+Hjørdis,Sverre Meldahl,444
+Egil,Hjørdis,444
+Egil,Sverre,444
+Egil,Hjørdis,451
+Hjørdis,Mama,451
+Fogdens,Sverre,454
+Fogdens,Rotor,454
+Egil,Mama,455
+Egil,Hjørdis,459
+Egil,Sverre,460
+Egil,Laura,461
+Egil,Sverre,468
+Bang,Lapse,469
+Alma,Hjørdis,470
+Hjørdis,Laura,470
+Laura,Vik,470
+Oskar Vik,Wikstrøm,472
+Vik,Wikstrøm,472
+Frøken Wikstrøm,Vik,472
+Frøken Wikstrøm,Vik,472
+Torsten Vik,Vik,472
+Exekutor,Vik,473
+Exekutor,Torsten,473
+Laura,Torsten,473
+Egil Bang,Laura,473
+Egil Bang,paany,473
+Laura,paany,473
+Egil,Laura,473
+Egil,Torsten Vik,474
+Egil,Vik,474
+Egil,Vik,474
+Egil,Laura,474
+Alma,Hjørdis,476
+Alma,Hjørdis,476
+Alma,Hjørdis,476
+Alma,Hjørdis,477
+Hjørdis,Torsten Vik,478
+Hjørdis,Laura,478
+Alma,Hjørdis,479
+Alma,Alma Rosendahl,480
+Alma,Hjørdis,480
+Alma,Hjørdis,480
+Egil,Sverre Meldahl,481
+Egil,Torsten,483
+Hjørdis,Sverre,484
+Laura,Vik,486
+Laura,Vik,486
+Egil,Laura,486
+Alma,Egil,486
+Alma,Sverre,486
+Hjørdis,Sverre,486
+Egil,Hjørdis,486
+Egil,Torsten Vik,487
+Hjørdis,Sverre,491
+Egil,Sverre,494
+Gud,Sverre,496
+Alma,Laura,500
+Egil,Laura,500
+Egil,Frøken Rosendahl,500
+Egil,Laura,509
+Egil,Laura,515
+Alma,Laura,515
+Alma,Laura,516
+Alma,Frederik leende,525
+Alma,Hjørdis,528
+Alma,Laura,528
+Alma,Laura,533
+Egil,Torsten Vik,535
+Bang,Hjørdis,536
+Edward Whits,Hjørdis,537
+Hjørdis,Isommer,539
+Gimle,Meldahl,540
+Gimle,Hjørdis,540
+Hjørdis,Sverre,547
+Paulus,Sverre taug,551
+Kristus,Paulus,553
+Kristus,Sverre,553
+Hjørdis Bang,S. Meldahl,558
+Askepot,Hjørdis,561
+Askepot,Sverre,561
+Gutten,Sverre,565
+Hjørdis,Sverre,572
+Bang,Sverre,579
+Bang,Sverre,579
+Gud,Jesus,584
+Gud,Kristus,584
+Hjørdis,Kristus,584
+Bang,Sverre,585
+Bang,Magnats,585
+Magnats,paany,585
+Hjørdis,Sverre,586
+Hjørdis,Sverre,590
+Hjørdis,Sverre,593
+Sverre,sorn,595
+Hjørdis,Sverre,598
+Johannes,Sverre,598
+Gud,Michel Angelos,603
+Abraham,Isak,611
+Isak,Jakob,611
+Gud,Jakob,611
+Hjørdis,Sverre,612
+Gud,Hossianna,616
+Gud,Sejer,618
+Egil,Laura,619
+Egil,Laura,619
+Egil,Torsten,619
+Egil,Torsten,619
+Egil,Laura,621
+Laura,Vik,621
+Hjørdis,Torsten Vik,622
+Hjørdis,Meldahl,622
+Hjørdis,Meldahl,622
+Hjørdis,Laura,622
+Laura,Torsten Vik,622
+Marv,Torsten Vik,622
+Egil,Marv,622
+Egil,Laura,623
+Bang,Torsten Vik,630
+Egil,Vik,631
+Egil,Laura,633
+Egil,Laura,641
+Laura,Vik,643
+Egil,Laura,643
+Egil,Laura,643
+Laura,Vik,644
+Laura,Vik,646
+Egil,Vik,646
+Egil,Laura,647
+Egil,Laura,654
+Hjørdis,Laura,655
+Egil,Laura,657
+Hjørdis paany,Laura,658
+Hjørdis,Laura,660
+Egil,Vik,661
+Egil,Vik,661
+Hjørdis,Sverre,665
+Egil,Sverre,665
+Bang,Sverre,668
+Egil,Hjørdis,669
+Egil,Laura,669
+Laura,Sverre,671
+Hjørdis,Laura,671
+Egil,Sverre,672
+Egil,Hjørdis paany,672
+Egil,Torsten Vik,673
+Bang,Torsten Vik,673
+Bang,Kex,673
+Laura,Torsten Vik,678
+Egil,Tyrifakkel,684
+Mama,Papa,693
+Laura,Vik,700
+Egil,Laura,702
+Laura,hans,710
+Laura,askegraa,711
+Sverre,Vik,719
+Laura,Vik,719
+Egil,Laura,719
+Egil,Sverre,728
+Egil,Hjørdis,728
+Laura,Sverre,730
+Hjørdis,Sverre,730
+Egil,Gud,731
+Egil,Gimle,731
+Egil,Sverre,733
+Egil,Torsten Vik,735
+Egil,Vik,735
+Egil,P.,739
+E. Bang,Meldahl,748
+Hjørsdis,Schous,749
+Hjørsdis,Laura,749
+Graad,paany,755
+Egil Bang,Sverre,756
+Laura,Sverre,760
+Egil,Sverre,763
+Laura,Sverre,769
+Egil Bang,Sverre,770
+Dr. Schwartz,Egil Bang,770
+Dr. Schwartz,Laura,770
+Schwartz,Sverre,771
+Bang,Laura,777
+Bang,Egil,781
+Egil,Laura,781
+Laura,Schwartz,781
+Egil,Schwartz,781
+Egil,Hjørdis,782
+Hjørdis,Laura,782
+Hjørdis,Laura,782
+Hjørdis,Olje,782
+Egil,Hjørdis,783
+Hjørdis,Sverre,783
+Hjørdis,paany,784
+Hjørdis,Sverre,784
+Anna,Hjørdis,785
+Anna,Hjørdis,786
+Hjørdis,Meldahl,786
+Hjørdis,Meldahl,786
+Egil,Hjørdis,788
+Papa,Peter,790
+Kristus,Papa,796
+Gud,Kristus,796
+Egil,Sverre Meldahl,799
+Egil,Sande,805
+Hjørdis,Jairus,813
+Kristus,Sverre,822

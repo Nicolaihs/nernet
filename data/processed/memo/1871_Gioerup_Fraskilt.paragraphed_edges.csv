@@ -1,0 +1,133 @@
+source,target,type,weight
+CarlBrandt,Vorres,Undirected,1
+CarlBrandt,Marie,Undirected,1
+Marie,fluide,Undirected,1
+fluide,hans Bohave,Undirected,1
+Anna,Fred man,Undirected,1
+Fred man,Vorre,Undirected,1
+Thora,Vorre,Undirected,2
+Møller,Thora,Undirected,1
+Anna,Marie,Undirected,9
+Brandt,Marie,Undirected,31
+Anna,Thora,Undirected,3
+Fredman,Thora,Undirected,5
+Marie,Thora,Undirected,9
+Anna,Fredman,Undirected,14
+Anna,Svogerens,Undirected,1
+Fischer,Frederik den,Undirected,1
+Julie,Maren,Undirected,1
+Brandt,Maren,Undirected,2
+Marie,Vorre,Undirected,8
+Brandt,Vorre,Undirected,3
+Fredman,Vorre,Undirected,3
+Fader,Marie,Undirected,1
+Brandt,Hans Been,Undirected,2
+August Vibe,Brandt,Undirected,1
+Brandt,Vibe,Undirected,4
+Marie,Vibe,Undirected,1
+Marie,Øsfergade,Undirected,2
+Hansen,Thora,Undirected,3
+Hansen,Marie,Undirected,44
+Hansen,Roes,Undirected,1
+Roes,Thora,Undirected,1
+Vorre,mørknes,Undirected,1
+Brandt,Marie deeltog,Undirected,2
+Dands,Marie,Undirected,2
+Dands,Hansen,Undirected,1
+Dands,Thora,Undirected,1
+Dandse,Marie,Undirected,1
+Dandse,Hansen,Undirected,1
+Kousine,Thora,Undirected,1
+Brandt,Dandsen,Undirected,2
+Amalie Felsens,Kathinka,Undirected,1
+Kathinka,Thora,Undirected,1
+Laura,Thora,Undirected,1
+Hansen,Vorre,Undirected,2
+Dandsen,paany,Undirected,1
+Thora,paany,Undirected,1
+Thora,skjelmsk,Undirected,1
+Bravo,bravo,Undirected,1
+Kathinka,Marie,Undirected,1
+Brandt,Hansen,Undirected,7
+Brandt,Vide,Undirected,1
+Maren,Marie,Undirected,7
+Maren,Vibe,Undirected,1
+Hansen,Vibe,Undirected,4
+Betty Helsinges,Hansen,Undirected,1
+Fist,Vibe,Undirected,1
+Gud,Hansen,Undirected,1
+Fredman,Marie,Undirected,19
+Anna,Hansen,Undirected,5
+Fredman,Hansen,Undirected,6
+Hansen,ester,Undirected,2
+Marie,ester,Undirected,4
+Marie,Vorres Huns,Undirected,1
+Thora,Vorres Huns,Undirected,1
+Anna leende,Kousine,Undirected,1
+Anna leende,Hansen,Undirected,1
+Hansen,ban,Undirected,1
+Marie,ban,Undirected,1
+Fredman,Frøken Brandt,Undirected,1
+Brandt,Gud,Undirected,1
+Axel,Marie,Undirected,1
+Axel,Valborg,Undirected,1
+Hansen,Kousine,Undirected,1
+Brandt,fleet,Undirected,1
+Betty,Brandt,Undirected,3
+Betty,Ester,Undirected,1
+Betty,hakblev,Undirected,1
+Marie,spurgteFredman,Undirected,1
+Esterkoinnier,Fredman,Undirected,1
+Dr. Brandt,Fredman,Undirected,1
+Døttre,Vorre,Undirected,1
+Brandt,Døttre,Undirected,1
+Brandt,Fredman,Undirected,5
+Hansen,hnn,Undirected,2
+Marie,Rudolf,Undirected,47
+Marie,paany,Undirected,4
+Brandt,paany,Undirected,2
+Fredman,Ønsfe,Undirected,2
+Betty,Fredman,Undirected,1
+Betty Hansen,bun,Undirected,1
+Betty Hansen,faug,Undirected,1
+Betty Hansen,Marie,Undirected,1
+Betty,Marie,Undirected,6
+Hansen,Rudolf,Undirected,3
+Lykke,Marie,Undirected,1
+Betty,Lykke,Undirected,1
+Brandt,Rudolf,Undirected,5
+Hnn,Marie,Undirected,1
+Hnn,ilive,Undirected,1
+Gud,Marie,Undirected,3
+Dr. Brandt,Rudolf,Undirected,1
+Anna,Dr. Brandt,Undirected,1
+Anna,Rudolf,Undirected,1
+Manes,Rudolf,Undirected,1
+Fredman,Rudolf,Undirected,5
+Betty,Betty Helsinge,Undirected,3
+asbryde,sorlanger,Undirected,1
+Maren,Rudolf,Undirected,4
+Dr. Brandt,Maren,Undirected,1
+Dr. Brandt,Marie,Undirected,1
+Gud,Rudolf,Undirected,1
+Hansen,sfal han,Undirected,1
+Maren,paany,Undirected,2
+Rudolf,Vorre,Undirected,3
+Betty Helsinge,Hansen,Undirected,2
+Betty Helsinge,Marie,Undirected,4
+Carl,Marie,Undirected,1
+Betty Helsinge,Carl,Undirected,1
+Jstederfor,Marie,Undirected,1
+Betty Helsinge,Jstederfor,Undirected,1
+Dandsen,Marie,Undirected,1
+Dandsen,Humeur,Undirected,1
+Rudolf,fleet,Undirected,1
+Hansen,fleet,Undirected,1
+Eiegode,Marie,Undirected,1
+Rudolf,sfal,Undirected,1
+Fader,Rudolf,Undirected,1
+Marie,pleie,Undirected,1
+Betty Helsinge,Rudolf,Undirected,1
+Marie,Tu,Undirected,1
+Thora,flulle,Undirected,1
+Betty,Rudolf,Undirected,2

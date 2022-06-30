@@ -1,0 +1,287 @@
+source,target,type,weight
+Jonas,Thøgersen,Undirected,1
+Jonas,Tværmose,Undirected,3
+Jokumsen,Tværmose,Undirected,1
+Griserup,Jokumsen,Undirected,1
+Cecilia,Griserup,Undirected,1
+Cecilia,Sidse,Undirected,1
+Klavs,Morten,Undirected,1
+Gdthe,Morten,Undirected,1
+Felix,Gdthe,Undirected,1
+Felix,Jonas Thøgersen Tværmose,Undirected,1
+Bech,L’,Undirected,2
+L’,Wimmer,Undirected,1
+Sivertsen,Wimmer,Undirected,3
+Krankl,Sivertsen,Undirected,1
+Bech,Wimmer,Undirected,1
+Aksel,Valkyrie,Undirected,1
+Aksel,Valborg,Undirected,1
+Signe,Valborg,Undirected,1
+Ingeborg,Signe,Undirected,1
+Ingeborg,Tristan,Undirected,1
+Isolde,Tristan,Undirected,1
+Alexander,Isolde,Undirected,1
+Alexander,Cæsar,Undirected,1
+Cæsar,Napoleon,Undirected,1
+Bodil,Jonas,Undirected,2
+Cecilia,Rafaels,Undirected,1
+Bodil Andresen,Cecilia,Undirected,2
+Bodil Andresen,St. Cecilia,Undirected,1
+Bodil,St. Cecilia,Undirected,1
+Botildes,Madam Andresens,Undirected,1
+K.,bode,Undirected,1
+Giraf,Petersen,Undirected,1
+Bjørn,Giraf,Undirected,1
+Bjørn,Jonas Tværmose,Undirected,1
+Barbara,Gitte,Undirected,1
+Gitte,Jonas,Undirected,1
+Gitte —,Jonas,Undirected,1
+Etatsraad Thayssen,emeritus,Undirected,1
+Lise,Stankelben,Undirected,1
+Villie,phil. Felix,Undirected,1
+Leander,Octavio,Undirected,1
+Geronte,Leander,Undirected,1
+Defensors,Felix,Undirected,1
+Felix,Msr,Undirected,1
+Felix,Regina,Undirected,1
+Palm,Regina,Undirected,1
+Regina,Tante Palm,Undirected,2
+Regina,rose,Undirected,1
+Jonas,Regina,Undirected,2
+Regina,Søren Matisens,Undirected,1
+Regina,St. Avgustinus,Undirected,1
+Laban,Regina,Undirected,1
+Finsen,Holms,Undirected,1
+Holms,Liebling,Undirected,1
+Regina,Slambek,Undirected,2
+Fyrl,Regina,Undirected,1
+Fyrl,George Sand,Undirected,1
+Hr. Suderup,Tea,Undirected,2
+Frithiof,Hr. Suderup,Undirected,1
+Frithiof,Helge,Undirected,1
+Helge,Suderup,Undirected,1
+Fabula docet,Suderup,Undirected,1
+Suderup,Tea,Undirected,8
+Tea,from,Undirected,1
+Alliken,Tea,Undirected,1
+Jonas Tværmose,Peter Suderup,Undirected,1
+Heine,Suderup,Undirected,1
+Hegels,Tea,Undirected,1
+Peter Suderup,Tea,Undirected,1
+Frithiof,Tea,Undirected,2
+Frithiof,Ingeborg,Undirected,1
+Ingeborg,Peter Suderup,Undirected,1
+Helge,Peter Suderup,Undirected,1
+Helge,Tværmose,Undirected,1
+Jeppe,Tea,Undirected,1
+Praase,Suderup,Undirected,1
+Rossinis,Suderup,Undirected,1
+Pumpenbergs,Rossinis,Undirected,1
+Pumpenbergs,Wilhelm Tell,Undirected,1
+Suderup,Wilhelm Tell,Undirected,1
+Hr. Suderup,Suderup,Undirected,1
+Jonas,Suderup,Undirected,1
+Urania,beraaber,Undirected,1
+Urania,Uriane Grip,Undirected,1
+Urania,Uriane,Undirected,1
+Kaptain Landseck,Uriane,Undirected,1
+Gubben,Kaptain Landseck,Undirected,1
+Gubben,Jean de Paris,Undirected,1
+Bramarbas,Jean de Paris,Undirected,1
+Bramarbas,Gubben,Undirected,1
+Frøken Alvildas,Rolfs,Undirected,1
+Canevas,Hr. Malmberg,Undirected,1
+Pernille,Stine,Undirected,1
+Hr. Tværmose,Rolf,Undirected,1
+Sivertsen,Tværmose,Undirected,2
+Gubben,Rolf,Undirected,1
+Gubben,gammal,Undirected,1
+Alvildes,Stine,Undirected,1
+Malmbergs,Stine,Undirected,1
+A,B —,Undirected,1
+B —,Gud,Undirected,1
+Herodes,Pilatus,Undirected,1
+Gud,Proprietær N. N.,Undirected,1
+Jonas,Spardame,Undirected,1
+Codille,Spardame,Undirected,1
+Codille,Jonas,Undirected,1
+Kancelliraad Beitzers,Urania,Undirected,1
+Kancelliraad Beitzer,Urania,Undirected,1
+Shylock,j eg,Undirected,1
+Housemann,Shylock,Undirected,1
+Housemann,Mefistofeles,Undirected,1
+Jonas,Jørgen,Undirected,2
+Nielsen,Stub,Undirected,2
+Dr. Pilqvist,Stub,Undirected,1
+Pilqvist,Stub,Undirected,1
+Christen Højgaard,Jørgen,Undirected,2
+Tværmose,véd,Undirected,1
+Bulvers,Eugen Aram,Undirected,1
+Eugen Aram,Tværmose,Undirected,1
+Bulme,Tværmose,Undirected,2
+Dimling,Malm,Undirected,1
+Jonas,Sivertsen,Undirected,1
+Jørgen Dimling,Lisbet,Undirected,1
+Jørgen,Lisbet,Undirected,1
+Jomfru Bolines,Lisbet,Undirected,1
+Jonas,Jørgen Dimling,Undirected,1
+Kastor,Pollux,Undirected,5
+Pollux,Telemak,Undirected,1
+Kong Salomons,Telemak,Undirected,1
+Jørgen Hattemagers,Kong Salomons,Undirected,1
+Dolly,John,Undirected,3
+Leopold,Polle,Undirected,1
+Jonas,Kastor,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,3
+Friedrich von Schiller,Kastor,Undirected,1
+Kreti,Pieti,Undirected,1
+Pollux,Polluxl,Undirected,1
+Svanebæks,Tesevs,Undirected,1
+Hr. Tværmose,Øhlenschlægers,Undirected,1
+Dina,Frøken Dollys,Undirected,1
+J.,T.,Undirected,1
+Dolly,Jonas Tværmose,Undirected,2
+Hr. Tværmose,Hr. X.,Undirected,1
+Dolly,Tværmose,Undirected,1
+John,Tværmose,Undirected,1
+Dolly,bode,Undirected,1
+John,bode,Undirected,1
+Sandgaard,Svanebæk,Undirected,1
+Jansen,Polydeukes,Undirected,1
+Jansen,Kastor,Undirected,1
+Jansen,Zevs,Undirected,1
+Tværmose,Zevs,Undirected,1
+Hr. Tværmose,Svanebæk,Undirected,2
+Jansen,Pollux,Undirected,1
+Svanebæk,alias Fuldmægtig Tværmose,Undirected,1
+Jansen,skoggerlo,Undirected,1
+Svanebæk,Tværmose,Undirected,1
+Strom,Strøm,Undirected,1
+Milding,Strøm,Undirected,4
+Strøm,Ævne,Undirected,1
+Morten,Ævne,Undirected,1
+Adolf,lille Morten,Undirected,1
+Adolf,Morten,Undirected,1
+Ise,Morten,Undirected,1
+Gud,Ise,Undirected,1
+Morten Strøm,Strøm,Undirected,1
+Fromberg,Milding,Undirected,2
+Fromberg,Strøm,Undirected,10
+Dhrr,Strøm,Undirected,1
+Dhrr,Fromberg,Undirected,1
+Fromberg,Maxmand,Undirected,4
+From berg,Milding junior,Undirected,1
+Hymens,Olivia Fromberg,Undirected,1
+Olivia,Olivia Fromberg,Undirected,1
+Maxmand,Milding,Undirected,1
+Maxmand,Strøm,Undirected,1
+Gud,Stupigen,Undirected,1
+Bavelse,Strøm,Undirected,1
+Mahomed,Strøm,Undirected,1
+B,Fromberg,Undirected,1
+B,else,Undirected,1
+Liszt,Schumann,Undirected,1
+Grace,grace,Undirected,1
+Robert le diable,grace,Undirected,1
+Dronning Hortense,Liszt,Undirected,1
+Liszt,Schuberts,Undirected,1
+Ludvig den,Marats,Undirected,1
+Jonas,Tomas,Undirected,1
+Jonas,Tante,Undirected,1
+Lucy,Maren,Undirected,4
+Kehraus,Lucy,Undirected,2
+Klinkerup,Lucy,Undirected,1
+Klinkerup,Mendelssohn-Bartholdys,Undirected,1
+Miss Lucy,Sopran,Undirected,1
+Frøken Munks,Lind,Undirected,1
+Frøken Munks,Kong David,Undirected,1
+Lars,Stine,Undirected,2
+Karl,Lars,Undirected,1
+Ami,Karl,Undirected,1
+Ami,Stine,Undirected,1
+Lars’,Stine,Undirected,1
+Ami,Lars’,Undirected,1
+Ami,Fruens,Undirected,1
+Fruens,Karlens,Undirected,1
+Karlens,Moppens,Undirected,1
+Korfits Ulfeld,Lind,Undirected,1
+Frøken Munk,Malm,Undirected,2
+Ramle,liun,Undirected,1
+Ramle,Sivertsen,Undirected,1
+Malm,graa,Undirected,1
+Frøken Munk,Sivertsen,Undirected,1
+Emilie,Sivertsen,Undirected,1
+Hr. N.,N.,Undirected,1
+Hr. Tværmose,N.,Undirected,1
+Hr. Tværmose,N. N.,Undirected,1
+Malm,N. N.,Undirected,1
+Frøken Munk,Madam Din nessen,Undirected,1
+Gud,Sidse,Undirected,1
+Finkelos,Sidse,Undirected,2
+Madam Dinnessen,Pettenkofer,Undirected,1
+Kong David,Madam Dinnessen,Undirected,1
+Liun,Madam Dinnessen,Undirected,1
+Karl von Karlsberg oder,Salzmanns,Undirected,1
+Stine,véd,Undirected,1
+Frøken Petersen,Stine,Undirected,1
+Anna,Anna Rosalinda,Undirected,1
+Anna,Rosa,Undirected,1
+Linda,Rosa,Undirected,1
+Linda,Rosalia,Undirected,1
+Rosalia,Rosalinda,Undirected,1
+Annalinda,Rosalinda,Undirected,1
+Ane,Annalinda,Undirected,1
+Gud,Mariane,Undirected,1
+Adjøs,Mariane,Undirected,1
+Askepots,Clara,Undirected,1
+Lotta,hon,Undirected,1
+alis,hon,Undirected,1
+Lotta,hendel,Undirected,1
+Hr. Tværmose,Karen,Undirected,1
+Karen«,Karine,Undirected,1
+Karen,liun,Undirected,1
+Karen,Karl,Undirected,1
+Karen,Stine,Undirected,4
+Karen,Ævne,Undirected,2
+Karen,Lassen,Undirected,2
+Karen,trælle,Undirected,1
+Karen,Karen«,Undirected,1
+Karen«,Stine,Undirected,1
+Rosalia Lassen,Stine,Undirected,1
+Rosa li as,Rosalia Lassen,Undirected,1
+Karen,Rosa li as,Undirected,1
+Karen,Rosalia,Undirected,10
+Karen,bode,Undirected,1
+Karen,sift,Undirected,1
+Karen,Mantillen,Undirected,2
+Flan,Karen,Undirected,1
+Birte,Gud,Undirected,1
+Honningstrøm,Signora Bajocci,Undirected,1
+Edvard,Kunigunde,Undirected,1
+Burre,Svendsen,Undirected,1
+Denogden,N.,Undirected,1
+Burre,Potifar,Undirected,1
+Burre,Josef,Undirected,1
+Kammerraad Klægl,Tværmose,Undirected,1
+Emilie Krank,Sivertsen,Undirected,1
+Buch,Sivertsen,Undirected,3
+Wimmer,Wimmerl,Undirected,1
+Armidas,Wimmer,Undirected,1
+Wimmer,liendes,Undirected,1
+Andreas,Fabian,Undirected,1
+Buch,Wimmer,Undirected,1
+Frederik den,Tværmose,Undirected,1
+Frederik den,Sagas,Undirected,1
+Garbrecht,Sagas,Undirected,1
+Garbrecht,Job,Undirected,1
+Malm,Tværmose,Undirected,1
+Job,Tværmose,Undirected,1
+Buch,Gud,Undirected,1
+Gud,Regina,Undirected,1
+Bingen,Gubben,Undirected,1
+Belsebubs,bella,Undirected,1
+Regine,Regine Palm,Undirected,1
+Regine,liun,Undirected,1
+Signorina,liun,Undirected,1
+Frøken Callander,Regine,Undirected,1
+Jonas Thøgersen Tværmose,Raimond,Undirected,1

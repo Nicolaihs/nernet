@@ -1,0 +1,155 @@
+source,target,type,weight
+Carl Steen,Steen,Undirected,3
+lian,liun,Undirected,2
+,trolos,Undirected,1
+Brunck,liam,Undirected,1
+Brunck,Elizabeth,Undirected,69
+liam,liun,Undirected,1
+Carl Steen,liun,Undirected,1
+Sons,ban,Undirected,1
+Guds,Thorvald Jørgensen,Undirected,1
+Brunck,TTan,Undirected,1
+Carl Steen,lian,Undirected,3
+Bru,Carl Steen,Undirected,2
+Carl Steen,Sons,Undirected,1
+Froken Agnete Petersen,sode Agnete,Undirected,1
+Agnete Petersen,sode Agnete,Undirected,1
+Agnete Petersen,Brunck,Undirected,1
+Brunck,Elizabeth Jensen,Undirected,1
+Pedersen,Pedersens,Undirected,1
+Gud,Pedersen,Undirected,1
+Gud,Jensen,Undirected,1
+Elizabeth,Petersen,Undirected,1
+Froken Petersen,Gud,Undirected,1
+Gud,sode,Undirected,1
+Agnete,Gud,Undirected,1
+Frøken Petersen,Gud,Undirected,2
+Gud,Henriksen,Undirected,1
+liam,lian,Undirected,1
+Henriksen,lian,Undirected,1
+Gud,liun,Undirected,1
+Henriksen,rokenen,Undirected,1
+Gud,sode Agnete,Undirected,1
+Frøken Petersen,Jensen,Undirected,3
+Jensen,Petersen,Undirected,1
+Chignon,Petersen,Undirected,1
+Chignon,Elizabeth Jensen,Undirected,1
+AGnduer,Eru Hansens,Undirected,1
+AGnduer,Petersen,Undirected,1
+Elizabeth,liun,Undirected,1
+Petersen,liun,Undirected,1
+Gud,Petersen,Undirected,1
+Elizabeth,Gud,Undirected,10
+Abrahams,Elizabeth,Undirected,1
+Elizabeth,Froken Petersen,Undirected,1
+Elizabeth,cg,Undirected,1
+Elizabeth,Frøken Petersen,Undirected,3
+Methusalem,sode,Undirected,1
+Elizabeth«,Frøken Petersen,Undirected,1
+Elizabeth«,Gud,Undirected,1
+Elizabeth,lian,Undirected,5
+Elizabeth,odt,Undirected,1
+Gud,addre,Undirected,1
+Hr. Brunck,doner,Undirected,1
+Brunck,lian,Undirected,5
+Elisabeth,Elizabeth,Undirected,1
+B,Elizabeth,Undirected,1
+Brunck,Per Ole,Undirected,4
+Brunck,Gud,Undirected,11
+Brunck,Jensen,Undirected,3
+Frederiks,lian,Undirected,1
+Elizabeth,Jensen,Undirected,12
+Brunck,Dor,Undirected,1
+B.ær og,Brunck,Undirected,1
+Elizabeth,Purk,Undirected,1
+Purk,Schawl,Undirected,1
+Brunck,hnn,Undirected,1
+Graad,lille Hans,Undirected,1
+Elizabeth,Graad,Undirected,1
+Gud Faders,Skjærsommer,Undirected,1
+Brunck,Carl Steen,Undirected,12
+Agent Jensens,Brunck,Undirected,1
+Agent Jensens,ban,Undirected,1
+Elizabeth,Steen,Undirected,22
+Gud,Steen,Undirected,2
+Jensen,foi,Undirected,1
+Frøken Ag,nete,Undirected,1
+Brunck,Liv,Undirected,1
+Gud,dog⁻,Undirected,1
+Gud,Kristus,Undirected,1
+Gud,lian,Undirected,1
+Jensen,ban,Undirected,1
+,Carl Steen,Undirected,1
+Brunck,entens,Undirected,1
+Elizabeth,entens,Undirected,1
+Brunck,tom,Undirected,1
+Eliza-                    ,beth,Undirected,1
+H. B.,P.,Undirected,1
+Brunck,Steen,Undirected,15
+Brunck,Brunek,Undirected,1
+Brunek,Carl Steen,Undirected,1
+Carl Steen,Graad,Undirected,1
+Carl Steen,Elizabeth,Undirected,18
+Karen,g'amle Karen,Undirected,1
+Elizabeth,Karen,Undirected,9
+Brunck,Karen,Undirected,1
+Jensen,Karen,Undirected,1
+Elizabeth,lille Karen,Undirected,1
+Brunck,ban,Undirected,2
+Carl Steen,Hans,Undirected,2
+Elizabeth,g'anske Bruncks,Undirected,1
+Brunck,Carl,Undirected,4
+Carl,Elizabeth,Undirected,8
+Carl Steen,Jensen,Undirected,3
+Jensen,Steen,Undirected,2
+Eli-,Elizabeth,Undirected,1
+Eliza-   ,Steen,Undirected,1
+Eliza-   ,beth,Undirected,1
+Elizabeth,beth,Undirected,1
+Bøgegren,Fug-lenes,Undirected,1
+Carl Steen,yar,Undirected,1
+Elizabeth,yar,Undirected,1
+Brunck,Eliza-,Undirected,1
+Eliza-,beth,Undirected,1
+Brunck,beth,Undirected,1
+Elizabeth,Elizabeth g-ik,Undirected,2
+Gud,livor,Undirected,1
+Eli-  ,zabeth,Undirected,1
+Elizabeth,Steen g'ik,Undirected,1
+Ansig-t,Brunck,Undirected,1
+Carl,Steen,Undirected,1
+Gud,Hr. Brunck,Undirected,1
+Elizabeth,Henrik Bruncks,Undirected,1
+Carl,Gud,Undirected,1
+Faders,Steen,Undirected,1
+Brunck,Carl  ,Undirected,3
+Bedstefader,Brunck,Undirected,1
+Carl  ,Steen,Undirected,1
+Carl Steen,Gud,Undirected,1
+Brunck,Carl Brunck,Undirected,1
+Carl Brunck,Elizabeth Brunck,Undirected,1
+-K. Danemarc,Elizabeth Jensen,Undirected,1
+-K. Danemarc,Elizabeth,Undirected,1
+Danois,d’,Undirected,1
+Aurelle  ,d’,Undirected,1
+Aurelle  ,Chanzy,Undirected,1
+Chanzy,Coulmiers,Undirected,1
+Brunck,Coulmiers,Undirected,2
+Brunck,vive le,Undirected,1
+mare,vive le,Undirected,1
+Barry stil-,mare,Undirected,1
+Barry stil-,Brunck,Undirected,1
+Brunck,rys,Undirected,1
+Brunck,Mademoi-                 ,Undirected,1
+Mademoi-                 ,selle Elizabeth Jensen,Undirected,1
+arc,selle Elizabeth Jensen,Undirected,1
+Barry,arc,Undirected,1
+Barry,ral,Undirected,1
+Barry,Brunck,Undirected,4
+Carl,Stueuhrets,Undirected,1
+Coulmiers,Stueuhrets,Undirected,1
+Coulmiers,Elizabeth,Undirected,1
+Elizabe,Elizabeth,Undirected,1
+Elizabe,Pigvu,Undirected,1
+Elizabeth,Pigvu,Undirected,1
+Bedstefader,Fader,Undirected,1

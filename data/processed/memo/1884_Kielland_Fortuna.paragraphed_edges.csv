@@ -1,0 +1,171 @@
+source,target,type,weight
+Clara,Clara Meinhardt,Undirected,2
+Clara,Mamma,Undirected,1
+Abraham,Clara,Undirected,16
+Clara,Graad,Undirected,1
+Graad,Jus,Undirected,1
+Abraham ' Løvdahl,Meinhardt,Undirected,1
+Christensen,Løvdahl,Undirected,10
+Løvdahl,P'orretning,Undirected,1
+Mordtmanns,With,Undirected,1
+Løvdahl,With,Undirected,3
+Christensen,Mordtmann,Undirected,1
+Løvdahl,Mordtmann,Undirected,4
+Carsten Løvdahl,Mordtmann,Undirected,1
+Carsten Løvdahl,Charlatan,Undirected,1
+Isach Mordtmann,Mordtmann,Undirected,1
+Abraham,ai,Undirected,1
+Abraham,Gretes,Undirected,3
+Abraham,Steffensen,Undirected,25
+Mordtmann,Steffensen,Undirected,1
+Abraham a Santa Clara,Peder Kruse,Undirected,1
+Kruse,Steffensen,Undirected,2
+Gud,Morten,Undirected,1
+Jørgen Kruse,Morten,Undirected,2
+Morten,Peder,Undirected,12
+Jørgen,Peder,Undirected,3
+Jørgen,Morten,Undirected,8
+Madam Kruse,Morten,Undirected,5
+Morten Bagstræver,Morten Kruse,Undirected,1
+Fredrikke Andersen,Madam Kruse,Undirected,1
+Jasaa,Morten,Undirected,1
+Morten,Peder Kruse,Undirected,2
+Jørgen Kruse,Madam,Undirected,2
+Jørgen,Madam Kruse,Undirected,1
+Amalie Cathrine,Jørgen,Undirected,3
+Amalie Cathrine,Morten,Undirected,2
+Gud,Jørgen Kruse,Undirected,1
+Fredrikke,Morten,Undirected,4
+Fredrikke,Jørgen,Undirected,2
+Fredrikke,Madam Kruse,Undirected,1
+Fredrikke,Gud,Undirected,1
+Gud,Madam Kruse,Undirected,2
+Fortuna,Peder,Undirected,1
+Fortuna,Løvdahl,Undirected,1
+Jørgen,Løvdahl,Undirected,1
+Christensen,Peder,Undirected,1
+Abraham,Grete Steffensen,Undirected,2
+Abraham,Grete,Undirected,18
+Grete,Steffensen,Undirected,10
+Marcussen,Steffensen,Undirected,4
+Løvdahl,Marcussen,Undirected,7
+Abraham,lille Marius,Undirected,2
+Abraham,Marius,Undirected,2
+Grete Steffensen,Steffensen,Undirected,1
+Clara,kanske,Undirected,1
+Clara,Fredrikke,Undirected,1
+Abraham,Fredrikke,Undirected,1
+Abraham,Morten Bagstræver,Undirected,1
+Clara,Morten Bagstræver,Undirected,1
+Konsul With,Marcussen,Undirected,3
+Konsul With,Løvdahl,Undirected,1
+Christensen,Gud,Undirected,1
+Clara,iveien,Undirected,1
+Abraham,Løvdahl,Undirected,2
+Grete Steffensen,Løvdahl,Undirected,1
+Abraham,Gud,Undirected,2
+Steffensen,øgte,Undirected,1
+Abraham,Christensen,Undirected,2
+Abraham,Carsten Løvdahl,Undirected,1
+Løvdahl,dg Løvdahl sist,Undirected,1
+Christensen,dg Løvdahl sist,Undirected,1
+Bentzen,Clara,Undirected,1
+Bentzen,Løvdahl,Undirected,3
+Christensen,Marcussen,Undirected,6
+Fortuna,Marcussen,Undirected,1
+Abraham,Marcussen,Undirected,3
+Abraham,best,Undirected,1
+Grete Steffensen,ivei,Undirected,1
+Steffensen,ivei,Undirected,1
+Abraham,Peder Kruse,Undirected,3
+Kruse,Peder Kruse,Undirected,1
+Abraham,Kruse,Undirected,8
+Abraham,Morten,Undirected,1
+Kruse,Marius,Undirected,1
+Løvdahl,Steffensen,Undirected,2
+Haan,Steffen Steffensen,Undirected,1
+Abraham,kjære,Undirected,1
+Abraham,lille Carsten,Undirected,5
+Clara,lille Carsten,Undirected,1
+Madame Kruse,Sparre,Undirected,2
+Jørgen,Madame Kruse,Undirected,2
+Jørgen,Kruse,Undirected,1
+Gud,Peder,Undirected,1
+Madame Kruse,Peder,Undirected,4
+Fredrikke,Peder,Undirected,3
+Madame Kruse,Morten,Undirected,3
+Jørgen Kruse,Madame Kruse,Undirected,1
+Jørgen Kruse,Peder,Undirected,1
+Fredrikke,Madame Kruse,Undirected,2
+Amalie Cathrine,Fredrikke,Undirected,1
+Liebig,Madame Kruse,Undirected,1
+Klodrian,Morten,Undirected,1
+Morten,strængt,Undirected,1
+Christensen,t,Undirected,2
+Carsten Løvdahl,Christensen,Undirected,7
+Carsten Løvdahl,Løvdahl,Undirected,1
+Gud,Marcussen,Undirected,2
+Marcussen,Rasmus,Undirected,2
+Christensen,Rasmus,Undirected,1
+Marcussen,ivold,Undirected,1
+Marcussen,Vexler,Undirected,1
+Carsten Løvdahl,Marcussen,Undirected,1
+Carsten Løvdahl,al-,Undirected,1
+Christensen,Steffensen,Undirected,1
+Abraham Løvdahl,Steffensen,Undirected,1
+Jørgen Kruse,Marcussen,Undirected,1
+Jørgen Kruse,Løvdahl,Undirected,1
+Jørgen F. Kruse,Løvdahl,Undirected,1
+Carsten Løvdahl,Jørgen F. Kruse,Undirected,1
+Carsten Løvdahl,Morten Kruse,Undirected,1
+Clara Løvdahl,Løvdahl,Undirected,1
+Garmans,With,Undirected,1
+Christensen,Garmans,Undirected,1
+Clara,With,Undirected,1
+Marcussen,With,Undirected,1
+Clara ivei,Marcussen,Undirected,1
+Clara ivei,Principalens,Undirected,1
+Clara,Principalens,Undirected,1
+Clara,Marcussen,Undirected,5
+Clara,Grete,Undirected,2
+Christensen,paaden,Undirected,1
+JeS,Mordtmann,Undirected,1
+Carsten Løvdahl,Vexler,Undirected,1
+Løvdahl,Vexler,Undirected,1
+Profesb soren,lille Carsten,Undirected,1
+Marcussen,casse,Undirected,1
+Abraham Knorrs,Marcussen,Undirected,1
+Marcussen,raa,Undirected,1
+Marcussen,lille Rasmus,Undirected,2
+Taraldsen,lille Rasmus,Undirected,1
+Marcussen,Taraldsen,Undirected,1
+Evropa,Løvdahl,Undirected,1
+Abraham K. Løvdahl,C. R. With,Undirected,1
+Jørgen Kruse,Randulphs,Undirected,1
+Christensen,Clara —,Undirected,1
+Clara —,øgte,Undirected,1
+Hr. Marcussen,iveien,Undirected,1
+Carsten Løv-,dahl,Undirected,1
+Abraham,Lille Carsten,Undirected,1
+Abraham Løvdahl,Lille Carsten,Undirected,1
+Abraham,Assessor Meinhardt,Undirected,1
+Abraham Knorr Løvdahl,Assessor Meinhardt,Undirected,1
+Abraham Knorr Løvdahl,Carsten Løvdahl,Undirected,1
+Bo,Carsten Løvdahl,Undirected,1
+Gud,Kruse,Undirected,1
+Clara,Fars,Undirected,1
+Clara,Kruse,Undirected,1
+Marius,lille Marius,Undirected,1
+Abraham Løvdahl,Grete,Undirected,1
+Abraham Løvdahl,Kruse,Undirected,1
+Morten,ivei,Undirected,1
+Jørgen Kruse,ivei,Undirected,1
+Kahrs,Peder,Undirected,1
+Kahrs,Madame Kruse,Undirected,1
+Løvdahl,Peder,Undirected,2
+Peder,eg,Undirected,1
+Marius,Peder,Undirected,1
+Morten,Sparre,Undirected,1
+Christensen,With,Undirected,1
+Løvdahl,Madame Kruse,Undirected,1
+Christensen,Silke,Undirected,1

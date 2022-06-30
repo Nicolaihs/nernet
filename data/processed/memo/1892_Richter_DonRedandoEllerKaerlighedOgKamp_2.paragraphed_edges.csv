@@ -1,0 +1,906 @@
+source,target,type,weight
+Lytton,Vikarius,Undirected,1
+Jesper Lytton,Vikarius,Undirected,1
+Georg Lytton,Jesper,Undirected,3
+Georg,Jesper,Undirected,9
+Frn Jenvers,Georg Lytton,Undirected,1
+Hr. Pauncefort,rakfe,Undirected,1
+Hr. Jenvers,litte,Undirected,1
+Lady Lytton,livis,Undirected,1
+Georg,Hr. Lytton,Undirected,1
+Georg rask,Guinecrnc,Undirected,1
+Georg,lian,Undirected,2
+Georg,ban,Undirected,6
+Georg,SMnmen,Undirected,1
+Lord Bere,ban,Undirected,1
+Lord Bere,rnig,Undirected,1
+Vilhelm Erobrerens,kein,Undirected,1
+Hr. Hopkins,Jesper,Undirected,1
+Georg,Hr. Pauncefort,Undirected,2
+Gegrg,Pauncefort,Undirected,1
+Gegrg,Plember,Undirected,1
+Georg,Hopkins,Undirected,5
+Georg,Grog,Undirected,1
+Georg,Georg Lytton paany,Undirected,1
+Hr. Pauncefort,Sir Jesper,Undirected,1
+Guds,Hopkins,Undirected,1
+Georg,hnn,Undirected,6
+Jesper,hnn,Undirected,1
+Hr. Pauncefort,hnn,Undirected,1
+Hopkins,Karl,Undirected,1
+Hr. Georg,Jesper,Undirected,1
+Hopkins,Pauncefort,Undirected,2
+Pauncefort,Ramas,Undirected,1
+Ramas,Visehuu,Undirected,1
+Jesper,Visehuu,Undirected,1
+Pauncefort,ban,Undirected,2
+Jesper,ban,Undirected,1
+Gud,sone Zlpollo,Undirected,1
+Jesper,raabfe,Undirected,1
+Jesper,yvor hnit,Undirected,1
+Baronen,Pauncefort,Undirected,1
+Hopkins,Lytton,Undirected,1
+Panncefort,danrpedc,Undirected,1
+Gud,dei,Undirected,1
+Drømmcbillcdc,Georg,Undirected,1
+Clara,Georg,Undirected,24
+Clara,Væsæn,Undirected,1
+Georg,yan,Undirected,1
+Georg,Ore,Undirected,2
+Clara,Dein,Undirected,1
+Hopkins,snn,Undirected,1
+Georg Lytton,Hopkins,Undirected,1
+Clara,Hopkins,Undirected,1
+Jupiter,yar,Undirected,1
+Clara,yar,Undirected,1
+Georg,kim,Undirected,1
+J,g,Undirected,1
+dein,g,Undirected,1
+Gud,dein,Undirected,1
+Brama,Clara,Undirected,1
+Georg,Walter Scott,Undirected,1
+Eugen Sne,Walter Scott,Undirected,1
+Cooper,Eugen Sne,Undirected,1
+Georg,Hr. Froberts,Undirected,1
+Clara,Georg Lytton,Undirected,8
+Jesper,sagdeFrobert,Undirected,1
+Clara,Papa,Undirected,2
+Georg Lytton,Hail,Undirected,1
+Hail,taalmodig,Undirected,1
+Frobers,taalmodig,Undirected,1
+Frobers,Georg,Undirected,1
+Georg,linder Claras,Undirected,1
+linder Claras,sone Clara flin,Undirected,1
+Hain,sone Clara flin,Undirected,1
+Georg,hails,Undirected,1
+Georg,sknlde,Undirected,2
+Clara,Frobert,Undirected,9
+Georg,Hr. Pannceforts,Undirected,1
+Elara,Lytton,Undirected,1
+Elara,bun,Undirected,1
+Frobert,Panncefort,Undirected,1
+Panncefort,ban,Undirected,1
+Panncesort,sorbi,Undirected,1
+Bojar,Clara,Undirected,2
+Jesper,Maal,Undirected,1
+Georg,Georg Lytton,Undirected,1
+Georg Lytton,Roderik,Undirected,1
+Georg,Pauncefort,Undirected,5
+Knnst adler,Pauncefort,Undirected,1
+Georg,Hr. Frobert,Undirected,1
+Elara,hnn,Undirected,1
+Georg,Hain,Undirected,3
+Hnn,Jesper,Undirected,1
+Georg,Kaptejn Lee,Undirected,1
+Evropa,rask,Undirected,1
+Gud,Johan Scott,Undirected,1
+Lee,ryi,Undirected,1
+Clara,as,Undirected,1
+Panncefort,Papa,Undirected,2
+Bojar,Papa,Undirected,2
+Clara Frobert,Papa,Undirected,1
+Georg,Panncefort,Undirected,2
+Frobert,Georg Lytton,Undirected,1
+Hin,Pauncefort,Undirected,1
+Georgs Bessg,Pauncefort,Undirected,1
+Frobert,ban,Undirected,1
+Clara,ban,Undirected,1
+Hnn,hnn,Undirected,2
+Clara Frobert,Georg Lytton,Undirected,1
+Clara,Jesper Lytton,Undirected,2
+Georg,Jesper befrygte,Undirected,1
+Frobert,Gud,Undirected,1
+Clara,Dn,Undirected,2
+Dn,liar,Undirected,1
+Lytton,liar,Undirected,1
+Hnn,Lytton,Undirected,1
+Clara,Saaret,Undirected,1
+Frobert,Georg,Undirected,2
+Baronen,Clara,Undirected,1
+Jesper,sra Monkland,Undirected,1
+Akand,lal,Undirected,1
+Akand,Jesper,Undirected,1
+Jesper,Lytton,Undirected,1
+Abrahams,Lytton,Undirected,1
+Abrahams,Karl,Undirected,1
+Jesper,Karl,Undirected,1
+Gud,Jesper,Undirected,1
+Clara,Gud,Undirected,1
+Clara,hnn,Undirected,4
+Jesper Lytton,hnn,Undirected,1
+Georg,bun,Undirected,1
+Clara,Hr. Lytton,Undirected,1
+Georg,Skive,Undirected,1
+Ieg,Jesper,Undirected,2
+Frøken Frobert,Ieg,Undirected,1
+Pauncefort,lin,Undirected,1
+-Georgs,Clara,Undirected,1
+-Georgs,hans Saar,Undirected,1
+Clara,hau,Undirected,1
+Bojar,Frobert,Undirected,1
+Clara,Panncefort,Undirected,2
+Georg,hajs,Undirected,1
+Walter Grossi,sorn,Undirected,1
+Gud,Walters,Undirected,1
+Baron Vere,Gud,Undirected,1
+Georg,Sid,Undirected,1
+Georg,Vere,Undirected,1
+Georg leende,hnn,Undirected,1
+Lytton,hnn,Undirected,1
+Lytton,Ulan,Undirected,1
+Ulan,mau,Undirected,1
+Frøken Olivia,Tu,Undirected,1
+Die,Frøken Olivia,Undirected,1
+Georg,Gud,Undirected,2
+Georg,Hnn,Undirected,1
+Frøken Olivia,Georg,Undirected,1
+Clara,Walter,Undirected,1
+Jesper,Pauncefort,Undirected,1
+Gud,Lady Lytton,Undirected,1
+Greven,nein,Undirected,1
+Jane,hnn,Undirected,1
+Clara Frobert voxe,Lin,Undirected,1
+Georg,Olidt,Undirected,1
+Clara,fænfler,Undirected,1
+Clara,hin Jane,Undirected,2
+Georg,Parmcefort,Undirected,1
+Georg Lytton,Lytton,Undirected,1
+Pauncefort,sone,Undirected,1
+Georg,sone,Undirected,1
+Ester,Kaptejn Lee,Undirected,1
+Georg Lytton,Lee,Undirected,3
+Ellen,Lee sg,Undirected,1
+Dein,Jesver,Undirected,1
+ag Paunceforf,nlin,Undirected,1
+Paunceforf,nlin,Undirected,1
+Pauncesort,nejt Bel,Undirected,1
+Pauncesort,liam,Undirected,1
+Ourstændigheder Pauncesort,liam,Undirected,1
+Ieg,lmn,Undirected,1
+Georg,son,Undirected,1
+Georg,Lee,Undirected,9
+Hustrir,Majorms,Undirected,1
+Georg,Hustrir,Undirected,1
+Clara vax,Lee,Undirected,1
+Georg,Oberste,Undirected,1
+Georg,Lady Olivia,Undirected,1
+Grev Manvers,Lady Olivia,Undirected,1
+Georg,Grev Manvers,Undirected,1
+Georg L,Lee,Undirected,1
+Georg L,L.....,Undirected,1
+Hall,L.....,Undirected,1
+Clara F,Hall,Undirected,1
+Clara F,Jesper L,Undirected,1
+Alma,Lee,Undirected,1
+Alma,hari,Undirected,1
+Ellen,hari,Undirected,1
+Georg,oni Harn,Undirected,1
+Hopkins,Plember,Undirected,2
+Georg,Plember,Undirected,2
+Mørkef,ban,Undirected,1
+Jesper,sorstaa,Undirected,1
+Jesper,fil Lytton Hall,Undirected,1
+Ellen,Jesper,Undirected,1
+Georg Lytton,Jesper Lytton,Undirected,1
+Clara,Ellen,Undirected,6
+Georg,Obersten,Undirected,1
+Lytton,Papa,Undirected,1
+Georg,Manuel,Undirected,1
+Manuel,Redando,Undirected,1
+Bajonne,Georg —,Undirected,1
+Georg —,orn,Undirected,1
+Ellen,orn,Undirected,1
+Ellen,ban,Undirected,3
+ban,m,Undirected,1
+Papa,Redando,Undirected,1
+Nedando,Redando,Undirected,2
+Derrs,Georg Lytton,Undirected,1
+Plember,Sir Georg Lytton,Undirected,1
+Hopkins,OberstLee,Undirected,1
+Frøken Ellens,Georg,Undirected,1
+Lee,ban,Undirected,1
+Hain,Lee,Undirected,1
+Ellen Lee,Lady Lytton,Undirected,1
+Ellen,hau,Undirected,1
+Georg,hau,Undirected,1
+Frøken Lee,Mt,Undirected,1
+Ellen,Gud,Undirected,2
+Ellen,Georg,Undirected,14
+Ieg,Lord Mont Severn,Undirected,1
+Georg,Ieg,Undirected,2
+Ellen,Lee,Undirected,5
+Alan,Obersfen,Undirected,1
+Ellen,Georg Lytton,Undirected,10
+Lee,Lord Mont Severn,Undirected,1
+Ellen,Tom,Undirected,5
+Lorden,Sir Lytton,Undirected,1
+Georg,Lorden,Undirected,1
+Ellen,Lord Mont Severn,Undirected,2
+Ellen,Hyldesf,Undirected,1
+Carlina,Hyldesf,Undirected,1
+Carlina,Georg Lytton,Undirected,1
+Ellen,Lorden,Undirected,1
+Gud,nein,Undirected,1
+Hnn,nefop,Undirected,1
+Ellen,Sir Lytton,Undirected,1
+Frøken Græ,Lorden,Undirected,1
+Frøken Græ,Georg,Undirected,2
+Frøken Græ,Georg Lytton,Undirected,2
+Ellen,Frøken Græ,Undirected,4
+Hain,MinDyrebare,Undirected,1
+Gud,Lytton,Undirected,1
+Georg Lytton,Gud,Undirected,1
+Clara,Georg leende,Undirected,1
+Clara,Frøken Græ,Undirected,1
+Clara,Sands,Undirected,1
+Georg,Roderik,Undirected,1
+Affin,Sir Georg Lytton,Undirected,1
+Georg Lytton,Roderik P.,Undirected,1
+Barvnm,JiffinS,Undirected,1
+Georg,Iiffin,Undirected,2
+Clara,sidm,Undirected,1
+Frøken Clara,Georg,Undirected,1
+hnn,sam,Undirected,1
+Jiffin,sam,Undirected,1
+Georg Lytton,sif,Undirected,1
+Clara,Frøken Lee,Undirected,2
+Frøken Lee,Georg Lytton,Undirected,1
+Georg Lytton,Pauncefort,Undirected,2
+Frøken Græ,Plember,Undirected,1
+Hr. Hopkins,Pauncefort,Undirected,1
+Frøken Græ,Pauncefort,Undirected,1
+Jesper,Plember,Undirected,1
+Georg Lytton,Jiffin,Undirected,1
+Clara,Jiffin,Undirected,7
+Lee,Plember,Undirected,1
+Frøken Lee,Jiffin,Undirected,1
+Ellen,Frøken Lee,Undirected,1
+Clara,Hr. Pauncefort,Undirected,1
+Jiffin,soran,Undirected,1
+Georg,Jiffin,Undirected,2
+Jærnovn,Sir Jesper Lytton,Undirected,1
+Jiffin,fil Lytton Hall,Undirected,1
+Georg,Jiffin spodsk,Undirected,1
+Frøken Græ,yendes,Undirected,1
+Georg,næsfen,Undirected,1
+Clara,Lord Mønt Severn,Undirected,1
+Dein,Ellen,Undirected,2
+Don Fernando,Grev Monteræ-Sandoval,Undirected,1
+Georg,Grev Monteræ-Sandoval,Undirected,1
+Ellen,Redando,Undirected,23
+Georg,Redando,Undirected,4
+Don Fernando,Ellen,Undirected,8
+Ellen,Fernando,Undirected,1
+Don Fernando,Greve Monteræ-Sandoval y Ponce de Leon,Undirected,1
+Don Fernando,Redando,Undirected,3
+Don,Georg,Undirected,1
+Jiffin,ban,Undirected,1
+Ellen,Jiffin,Undirected,1
+Don Fernando,Frøken Lee,Undirected,1
+Don Fernando,Lee,Undirected,1
+Barbara,Lord Mont Severn,Undirected,1
+Barbara,Lres,Undirected,1
+Lorden,Lres,Undirected,1
+Don Fernando,Lady Barbara,Undirected,2
+Georg Lytton,Monteræ,Undirected,1
+Ellen,Lady Barbara,Undirected,1
+Georg,Lady Barbara,Undirected,1
+Don Fernando,Don Redando,Undirected,3
+Don Redando,Sir Lytton,Undirected,1
+Elsfeds,Redando,Undirected,1
+Ellen,Elsfeds,Undirected,1
+Don Fernando,Georg,Undirected,1
+Severn-Caftle i England,sorn,Undirected,1
+Don Redando,Gud,Undirected,1
+Don Redando,Ellen,Undirected,8
+Clara Frobert,Ellen Lee,Undirected,2
+Georg Lytton,Jifsin,Undirected,1
+Ellen,Lord,Undirected,1
+Lady Belgrave,Lady Isabella,Undirected,1
+Grev Monteræ,Lady Isabella,Undirected,1
+Grev Monteræ,Sir Georg Lytton,Undirected,1
+Lord Adilswood,Sir Georg Lytton,Undirected,1
+Ellen,hnn,Undirected,1
+Lady Isabella,hnn,Undirected,1
+Lady Barbara Lee,Lady Isabella,Undirected,1
+Don Redando,Grev Monteræ,Undirected,1
+August Pato,Olivia,Undirected,1
+August Pato,Ellen,Undirected,1
+Greven,Paula,Undirected,1
+Greven,Henrik von Hersenstein,Undirected,1
+Don Redandø,Paula,Undirected,1
+Henrik,Prinfen,Undirected,1
+Gud,Redandø,Undirected,1
+Henrik,Redando skælmsk,Undirected,1
+Don Redando,Panla,Undirected,1
+Henrik,Paula,Undirected,5
+Don Redando,Ieg,Undirected,2
+Paula,Redando,Undirected,15
+Ellen,Henrik,Undirected,1
+Ellen,Paula,Undirected,7
+Ellen,dein,Undirected,1
+Paula,sone,Undirected,1
+Ellen,sone,Undirected,1
+Gud,soni,Undirected,1
+Paula,soni,Undirected,1
+Georg Lytton,Paula,Undirected,1
+Ditlev v.,Henrik,Undirected,1
+Ditlev v.,Georg,Undirected,1
+Don Redando,Redando,Undirected,4
+Don Redando,Donna Paula,Undirected,1
+Donna Paula,Paula,Undirected,1
+Paula,taalf,Undirected,1
+Ellen,taalf,Undirected,1
+Don Redando,Øe,Undirected,3
+Georg,Paula,Undirected,1
+Flacon,Georg,Undirected,1
+Flacon,Paula,Undirected,1
+Haan,sælles,Undirected,1
+Paula,sælles,Undirected,1
+Donna Ellen Redando,Paula,Undirected,1
+Paula,Øe,Undirected,2
+Ellen,Øe,Undirected,1
+Deur,Don Redando,Undirected,1
+Gud,Paula,Undirected,2
+Gud,Redando,Undirected,3
+Panla,Redando,Undirected,2
+Ditlev v. Breda,Henrik,Undirected,2
+Ia,Redando,Undirected,1
+Ellen,oz,Undirected,1
+Don Redando,Karl,Undirected,1
+Ieg,Paula,Undirected,1
+Don Redando,Usto,Undirected,1
+Don Redando,Paula,Undirected,3
+Redando,kokette Paula,Undirected,1
+Hersensteins,kokette Paula,Undirected,1
+Hersensteins,Redando,Undirected,1
+Baron Naarvil,Ellen,Undirected,1
+Ellen,Lytton,Undirected,2
+Anierr,Ellen,Undirected,1
+Ellen,Ieg,Undirected,1
+Hahaha,Paula,Undirected,1
+Paula,hnn,Undirected,1
+Baronm,Ellen,Undirected,1
+Georg,sine Hesfe,Undirected,1
+ea.,sine Hesfe,Undirected,1
+Baron Fevals,Ellen,Undirected,2
+ban,visf,Undirected,1
+-flog,Ellen,Undirected,1
+Paula,sif,Undirected,1
+Ellen,Ottoman,Undirected,1
+Ottoman,Øe,Undirected,1
+Ellen,lille Charles,Undirected,1
+Ellen,Ester,Undirected,1
+Blanchin,Ellen,Undirected,1
+Paula,j Baronen,Undirected,1
+Georg,j Baronen,Undirected,1
+Noarvil,Redando,Undirected,1
+Redando,mi,Undirected,1
+Feval,Redando,Undirected,1
+Feval,igm,Undirected,1
+Ellen,Toni,Undirected,1
+Redando,Toni,Undirected,1
+Charles,Georg Lytton,Undirected,1
+Charles,Redando,Undirected,1
+Redando,Sir Georg Lytton,Undirected,1
+Ellen,Sir Georg Lytton,Undirected,1
+Ellen,Hnn,Undirected,1
+Georg Lytton,Redando,Undirected,3
+Baron Feval,Ellen,Undirected,1
+Baron Feval,Feval,Undirected,1
+Charles,oz,Undirected,1
+Charles,Ellen,Undirected,5
+Donna Ellen Redando,Ellen,Undirected,1
+Redando,ban,Undirected,2
+Redando,j,Undirected,2
+Redando,s,Undirected,1
+Bugival,Mal-mæsou og,Undirected,1
+Bugival,Lucienne,Undirected,1
+Lucienne,Siv Georg Lytton,Undirected,1
+Ellen,Siv Georg Lytton,Undirected,1
+Redando,Tom,Undirected,1
+Ellen,zausfe,Undirected,1
+Georg,Tom,Undirected,1
+Clara,Schillings,Undirected,1
+Schillings,hnn,Undirected,1
+Don Redando,imldte dam,Undirected,1
+imldte dam,yan,Undirected,1
+Ellen,yan,Undirected,1
+Clara Græ,Ellen,Undirected,1
+Clara,Græ engelst,Undirected,1
+Don Redando,Ester,Undirected,1
+Georg Lytton,yvad,Undirected,1
+Donna,Ellen,Undirected,2
+Berden,jæg,Undirected,1
+P,jæg,Undirected,1
+Georg,P,Undirected,1
+Ellen,jæg,Undirected,1
+Clara,Don Redando,Undirected,6
+Don Redando,Lytton,Undirected,1
+Lytton,traadt,Undirected,1
+Don Redando,Paun,Undirected,1
+Paun,Sir Georg Lytton,Undirected,1
+MinHusfru,Mylady,Undirected,1
+Clara,Don Rædando,Undirected,2
+Clara,strax,Undirected,1
+Hr. Pauncefort,Pauncefort,Undirected,1
+Clara,Hr. Panncefort,Undirected,1
+Roderik Pauncefort,ba,Undirected,1
+Pauncefort,j,Undirected,1
+Elara,srem,Undirected,1
+Pauncefort,irden,Undirected,1
+Lee,Plads,Undirected,1
+Don Redando,Pauncefort,Undirected,3
+Ellen,Pauncefort,Undirected,2
+Clara,Pauncefort,Undirected,1
+Clara,Hnn,Undirected,1
+Hnn,Redando,Undirected,2
+Jiffin,Redando,Undirected,1
+Clara,Redando,Undirected,2
+Jiffin,valt decipi,Undirected,1
+Affin,Sjulas,Undirected,1
+Nim,Sjulas,Undirected,1
+Nini,Sjulas,Undirected,17
+Jifsin,Sjulas,Undirected,1
+Petit-Fort,Sjulas,Undirected,2
+Imidlerlid,Petit-Fort,Undirected,1
+Imidlerlid,Nini,Undirected,1
+Jiffin,Sjulas,Undirected,7
+Lucas,Sjulas,Undirected,14
+Jiffin,Lucas,Undirected,2
+Lucas,Nini,Undirected,8
+Lucas,Petit-Fort,Undirected,1
+Pjalter,Straa,Undirected,1
+Jærnovn,Pjalter,Undirected,1
+Lucas,Navaja,Undirected,1
+Dolores,Lucas,Undirected,5
+Gud,Lucas,Undirected,1
+Dolores,Lucas Montex,Undirected,2
+Don Redando,Sjulas,Undirected,2
+Redando,Sjulas,Undirected,3
+Carl,Sjulas,Undirected,1
+Sjulas,Tom,Undirected,1
+Georg Lytton,Lucienne,Undirected,2
+Kusi,Redando,Undirected,1
+Jokey,Kusi,Undirected,1
+Jokey,Kusim,Undirected,1
+Johan,Kusim,Undirected,1
+Don Redando,Johan,Undirected,2
+Doktor Ferrisier,Sir Georg Lytton,Undirected,1
+Bonrepos,Redando,Undirected,1
+Bonrepos,Fernsfer,Undirected,1
+Fernsfer,Georg,Undirected,1
+Lady Clara,Redando,Undirected,2
+Donna Elle,Lady Clara,Undirected,2
+Georg,Tem,Undirected,1
+Jiffin,Nini,Undirected,1
+Lucienne,Tom,Undirected,1
+Don Redando,felv,Undirected,1
+Clara,felv,Undirected,1
+Clara Frobert,Ellen,Undirected,2
+Ellen,dm,Undirected,1
+Gud,dm,Undirected,1
+Tom,as-üediget,Undirected,1
+Lucas tilligemed,Sjulas,Undirected,1
+Dolores,Nini,Undirected,1
+Sjulas,hon,Undirected,1
+Lucas,j,Undirected,1
+Nini,hnn,Undirected,1
+Redando,hnn,Undirected,1
+Ester Redandos,Paula,Undirected,1
+Don Mandos,Paula,Undirected,1
+Don Mandos,Henrik,Undirected,1
+Don Redando,dein,Undirected,1
+Miette,Paula,Undirected,1
+Mettes,Paula,Undirected,1
+Ditlev von Breda,Paula,Undirected,1
+Paula,hein,Undirected,1
+Nini,eg,Undirected,1
+Mette,hnn,Undirected,1
+Evadatter,Nini,Undirected,1
+Paula,Sjulas,Undirected,1
+Lucas Monter,Sjulas,Undirected,1
+Abraham,Nini,Undirected,3
+Alfons Hastiko,Lucas,Undirected,1
+Alfons Hastiko,hane,Undirected,1
+Lucas,Rini,Undirected,1
+Rini,Sjulas,Undirected,1
+Abraham,Sjulas,Undirected,8
+Nun,Sjulas,Undirected,1
+Abraham,Lucas,Undirected,6
+Jøden,Minntters,Undirected,1
+Abraham,vaabteSjulas,Undirected,1
+Abrakam,Øe,Undirected,1
+Sjulas,ban,Undirected,1
+Abraham,Francs,Undirected,1
+Abraham,Akoses,Undirected,1
+Akoses,Moses,Undirected,1
+Aagerkarlen,Moses,Undirected,1
+Aagerkarlen,hin,Undirected,1
+Lucas,hin,Undirected,1
+Lucas,Moses,Undirected,16
+Abraham,Moses,Undirected,1
+Abraham,Lucas Taalmodighed,Undirected,1
+Don Lucas Montex,ban,Undirected,1
+Lncas,ban,Undirected,1
+Don Lncas,Mosts,Undirected,1
+Lncas,Moses,Undirected,1
+Don Lucas,Moses,Undirected,2
+Don Lucas,yos,Undirected,1
+Sjulas,hnn,Undirected,1
+,Lucas,Undirected,1
+Moses,Sjulas,Undirected,2
+Nisses,Sjulas,Undirected,1
+Don Lucas,Sjulas,Undirected,1
+Don Romano,Moses,Undirected,2
+Don Romano,Manuel Frania,Undirected,1
+Georg,Manuel Frania,Undirected,2
+Ekrer,Lucas,Undirected,1
+Lucas,Mosts,Undirected,1
+Lueas,ban,Undirected,1
+Lucas,ban,Undirected,2
+,Sjulas,Undirected,2
+,Moses,Undirected,2
+ban,øsfers,Undirected,1
+Moses,ban,Undirected,1
+Lucas,bam,Undirected,1
+bam,ban,Undirected,1
+ban,tbi,Undirected,2
+Hain,Lucas,Undirected,1
+Don Romano,Georg,Undirected,1
+Moses,hakn,Undirected,1
+Lucas,hakn,Undirected,1
+Ben,Don Redando,Undirected,1
+Jærn,Lytton,Undirected,1
+Don Romano,Lucas Montex,Undirected,1
+Don Romano,Hnn,Undirected,1
+Redando,Vogterske,Undirected,1
+Dolores,Vogterske,Undirected,1
+Dolores,List,Undirected,1
+List,sri,Undirected,1
+Dolores,Sjulas,Undirected,1
+Don Redando,Ferrisier,Undirected,2
+Dolores,Ferrisier,Undirected,2
+Dolores,Don Redando,Undirected,2
+Don Redando,Lady Clara,Undirected,1
+Lian,Redando,Undirected,1
+Dolores,Redando fulgle,Undirected,1
+Dolores,Ellen,Undirected,1
+Redando,Viktor Dysjatel,Undirected,1
+Redando,hm,Undirected,1
+Hr. Dysjatels,Redando,Undirected,1
+Redando,Viktor,Undirected,1
+Frøken Constance,j,Undirected,1
+Constance,Hertuginde de C.,Undirected,1
+Constance,Morcerf,Undirected,8
+Dysjatel,Greven,Undirected,1
+Artur,Mor-cerf,Undirected,1
+Constance,Ieg,Undirected,1
+Artur,Greven,Undirected,2
+Gud,Papa,Undirected,1
+Constance,Viktor Dysjatel,Undirected,3
+Greven,SigHr,Undirected,1
+Constancæ,Greven,Undirected,1
+Greve,Journalisten,Undirected,1
+Alviera,Dysjatel,Undirected,1
+Alviera,Amors,Undirected,1
+Julia Dysjatel,Viktor Dysjatel,Undirected,1
+Artur,Constance,Undirected,6
+Constance,Dysjatel,Undirected,2
+Florenz,Greven,Undirected,1
+D,g,Undirected,1
+Consfance,g,Undirected,1
+Greven,Gud,Undirected,1
+ArturS,dr fo Grever,Undirected,1
+Artur,Morcerf,Undirected,2
+Constance,Constance de Vilnov,Undirected,1
+Artur,sfal,Undirected,1
+Greve,Gud,Undirected,1
+Bilnov,Greve,Undirected,1
+Artur Morcerf,Greven,Undirected,1
+Constance de Morcerf,Greven,Undirected,1
+Greven,Prinsen,Undirected,1
+Constance,hnn,Undirected,1
+Constance,j,Undirected,1
+Constance de Vilnov,Viktor Dysjatel,Undirected,1
+Vikfor,hnn,Undirected,1
+Vikfor,Vikfor Dysjatels,Undirected,1
+Viktor Dysjatel,ilke,Undirected,1
+Viktor,Viktor Dysjatel,Undirected,1
+Don Redando,Victor Dysjatel,Undirected,1
+Don Redando,Fernsfer,Undirected,1
+Fernsfer,Viktor,Undirected,1
+Constance,Viktor,Undirected,2
+Constance de Vilnov,Ferrisier,Undirected,1
+Ben Don Redando,Dolores,Undirected,1
+Don Redando,Vikfor,Undirected,1
+Redando,Vikfor,Undirected,1
+Don Redando,Joli,Undirected,1
+Ester,Redando,Undirected,1
+Dolores,Redando,Undirected,3
+Dysjatel,Redando,Undirected,2
+Minnters,Redando,Undirected,1
+Jakob,dm,Undirected,1
+Don Redandv,Redando,Undirected,1
+Baron de,Cresson,Undirected,1
+Crolier,asDem,Undirected,1
+Redando,tst,Undirected,1
+Redando,ten,Undirected,1
+Cresson,Redando,Undirected,2
+Artur Morcerf,Constance,Undirected,2
+Artur tik,staaenoe,Undirected,1
+Grev Artur Morcerf,erDe,Undirected,1
+Dyfjatcl,Viklor,Undirected,1
+Artur,Dysjatel,Undirected,1
+Artur,Pisfoler,Undirected,1
+Morcerf,dans,Undirected,1
+Viktor Dysjatel,kim,Undirected,1
+Dysjatel,Leses,Undirected,1
+Kyraseren,Viktor,Undirected,1
+Grev Morcerf,Lesco,Undirected,2
+Artur Morcerf,Viktor Dysjatel,Undirected,1
+Greven,sif,Undirected,1
+Ieg,Lesco,Undirected,1
+Dysjatel,Ieg,Undirected,1
+Lesco,Viktor,Undirected,2
+Ieg,Morcerf,Undirected,1
+Ben Redando,Viktor Dysjatel,Undirected,1
+Viktor Dysjatel,ril Grev Morcerfs,Undirected,1
+Dysjatel,Ferrisier,Undirected,1
+Ferrisier,fil,Undirected,1
+Dr. F.,Ferrisiier,Undirected,1
+Clara,Constance,Undirected,2
+Fernsfer,fernsfer,Undirected,1
+Clara,Morcerf,Undirected,1
+Conslance de Morcerf,Viktor,Undirected,1
+Conslance de Morcerf,Grev Morcerf,Undirected,1
+Grev Morcerf,Gud,Undirected,2
+Grev Morcerf,Viktor,Undirected,1
+Constance,Dn,Undirected,1
+Clara,Dysjatel,Undirected,1
+Don Redando,Viktor,Undirected,1
+Riam,sorn,Undirected,1
+Usurpator,sorn,Undirected,1
+Cres-son,Riom,Undirected,1
+Cres-son,Henry de Cresson,Undirected,1
+Marie de Rioms,kelse,Undirected,1
+Marie,Riom,Undirected,1
+Marie,bun,Undirected,1
+Gud,Marie,Undirected,1
+Henry,Skelmsmester,Undirected,1
+Franz,Henry,Undirected,1
+Henry de Cresson,sorstaar,Undirected,1
+Henry,Marie,Undirected,1
+ban,hare,Undirected,1
+Henry de Cresson,Riom,Undirected,1
+Henry de Cresson,Redando,Undirected,2
+Don <,Redando,Undirected,2
+Lesco,Viktor Dysjatel,Undirected,1
+Lesco,de Majefor,Undirected,1
+Morcerf,ül,Undirected,1
+Lesco,ül,Undirected,1
+Constance,Majefor,Undirected,1
+Majefor,ui lille,Undirected,1
+Emma Vårr,Hnn,Undirected,1
+Emma Bari,Emma Van,Undirected,1
+Emma Van,Katarina,Undirected,1
+Majefor,vidsfe hnn,Undirected,1
+Emma Bari,vidsfe hnn,Undirected,1
+Emma Bari,Viktor,Undirected,2
+Emma,Lesco,Undirected,2
+Comtessens,Emma Vari,Undirected,1
+Dysjatel,Emma,Undirected,1
+Harald,Viktor,Undirected,1
+Emma Bari,Harald de Lesco,Undirected,2
+Harald de Lesco,Viktor Dysjn-tel,Undirected,1
+Emma,Vikfor,Undirected,1
+Emma,Viktor,Undirected,4
+Komtesse Bari,Lesco,Undirected,1
+Hesfe,krem,Undirected,1
+Ammen,Hesfe,Undirected,1
+Gud,Ieg,Undirected,1
+Emma Vari,de Lesco,Undirected,1
+Emma,Harald,Undirected,3
+Stig,Øe,Undirected,1
+Komtessen,Lesco,Undirected,1
+Komtessen,hnn,Undirected,1
+Lesco,Øuske,Undirected,1
+Harald,Øuske,Undirected,1
+Emma Vari,soran Lesco,Undirected,1
+Constance de Morcerf,Vikfor,Undirected,1
+Lucas hav^e,Moses,Undirected,1
+Fatter,Nini,Undirected,1
+Gud,Nini,Undirected,1
+Lucas Montez,Moses,Undirected,2
+Nini,skrækfis,Undirected,1
+Moses,Nini,Undirected,1
+Antonio Fortoni,Keiner,Undirected,1
+Antonio,Lamtidig,Undirected,1
+Monte,Moses,Undirected,1
+Ben Ernst Loran,Fortoni,Undirected,1
+Sjulas,Øe,Undirected,1
+Lucas,ak,Undirected,1
+Moses,ak,Undirected,1
+Don Romano,Serena,Undirected,1
+Moses,Serena,Undirected,1
+Manuel Frania,d ' Obinje,Undirected,2
+Constance de Morcerf,Dysjatel,Undirected,1
+Morcerf,de Lesco,Undirected,1
+Lesco,d ' Obinje,Undirected,2
+Morcerf,d ' Obinje,Undirected,1
+Morcerf,Viktor Dysjatel,Undirected,2
+Viktor Dysjatel,ovet denne,Undirected,1
+Greven,Viktor Dysjatel,Undirected,1
+Constance,Florenz,Undirected,1
+Greven,Moreerf,Undirected,1
+Vilnov,Øe,Undirected,1
+Vilnov,zeg,Undirected,1
+Ma,Øe,Undirected,1
+Grev Morcerf,Øe,Undirected,1
+Grev Morcerf,Manuel Frania,Undirected,1
+Frania,nml,Undirected,1
+Frania,Pisfolen,Undirected,1
+Mannel,Pisfolen,Undirected,1
+Grev Motten,Manuel Frania,Undirected,1
+Manuel,d ' Obinje,Undirected,1
+Gud,Manuel Frania,Undirected,1
+Manuel,ban,Undirected,1
+Greven,Manuel,Undirected,1
+Grevinde de Morcerf,de Lesco,Undirected,1
+Manuel,Ræna,Undirected,2
+Lesco,Ræna,Undirected,1
+Consfance,Greve,Undirected,1
+Dysjatel,Manuel,Undirected,1
+Dysjatel,de Lesco,Undirected,1
+Gemals,Mannel,Undirected,1
+Manuel,ge,Undirected,1
+Georg,Ræna,Undirected,3
+son,ultid,Undirected,1
+Busi,Maanens,Undirected,1
+' Øbinje,Grev d,Undirected,1
+as,Øe,Undirected,1
+as,h,Undirected,1
+Alexander den Store,Hannibal,Undirected,1
+Hannibal,Karl den Tolvte,Undirected,1
+Frederik den anden,Karl den Tolvte,Undirected,1
+Ræna,mi,Undirected,1
+Ines,Ines Barola,Undirected,1
+Dei,Ræna,Undirected,1
+Impressario,as,Undirected,1
+beren,md,Undirected,1
+Epemi,oz,Undirected,1
+Ceretti,Ines,Undirected,2
+Ines,Teresa,Undirected,1
+Murillo,Teresa,Undirected,1
+Teresa,Triosas,Undirected,1
+Ræna,hnn,Undirected,1
+Mannel d,Ræna,Undirected,1
+Emma Bari,Ma-efor,Undirected,1
+Ma-efor,Manueffog,Undirected,1
+Constance,Manueffog,Undirected,1
+Emma de Lesco,Ræna,Undirected,2
+Ariosto,Harald,Undirected,1
+Florens,d,Undirected,1
+,d,Undirected,1
+,Øbinje,Undirected,1
+Ræna,Øbinje,Undirected,1
+Emma,Hr. Greve,Undirected,1
+Hr. Greve,Ræna,Undirected,2
+Dysjatel,Florens,Undirected,1
+Constance,Lesco,Undirected,1
+Henrik,Paula læsfe,Undirected,1
+dei,hnn,Undirected,1
+Lesco,d ' Øbinje,Undirected,1
+Ræna,d ' Øbinje,Undirected,1
+Donna Elvira,Donna Jnes de Cariablanca,Undirected,1
+Henrik,d,Undirected,1
+' Obinje,d,Undirected,1
+Henrik,Major Grev Sparef,Undirected,1
+Mama,Paula,Undirected,1
+Nn,Usfo,Undirected,1
+Ditlev,Henrik,Undirected,3
+Grev Sparef,Henrik,Undirected,1
+Ditlev von,Henrik,Undirected,1
+Ditlev,von Breda,Undirected,2
+Ditlev,Greven,Undirected,3
+Ditlev von Breda,Sparef,Undirected,1
+Ditlev von Breda,Henrik,Undirected,2
+H“,^alon,Undirected,1
+Ditlev slod,H“,Undirected,1
+Ditlev von Breda,Grev Sparek,Undirected,1
+Henrik,harDu,Undirected,1
+Ditlev,Fortuna,Undirected,1
+Adelaide,Elsfer,Undirected,1
+Ditlev,hnn,Undirected,1
+Lesco,Ulrik de Sparef,Undirected,1
+Ditlev,EF,Undirected,1
+EF,Nst,Undirected,1
+Grevinde H,Henrik,Undirected,1
+,Grevinde H,Undirected,1
+,Ditlev von Breda,Undirected,1
+Ditlev von Breda,O-,Undirected,1
+Ditlev,H,Undirected,1
+,H,Undirected,1
+,lynsnart,Undirected,1
+Morcerf,Øe,Undirected,1
+Adelaide,Greven,Undirected,1
+Henrik von Hersenstein,von Breda,Undirected,1
+Mied,strax,Undirected,1
+Sparek,strax,Undirected,1
+Ditlev,Sparek,Undirected,1
+Greven,Henrik,Undirected,1
+Ditlev,Lesco,Undirected,1
+Baron Breda,Grev Morcerf,Undirected,1
+Baron,Baron Breda,Undirected,1
+Gud,Moreerf,Undirected,1
+Constance de Vilnov,Morcerf,Undirected,1
+Constance de Vilnov,Dy-sjatel,Undirected,1
+Bredas,Dy-sjatel,Undirected,1
+Morcerf,sfille,Undirected,1
+Adelaide,Ditlev,Undirected,2
+Ditlev,Morcerf,Undirected,1
+Henrik,d ' Obinje,Undirected,1
+Grev,Lesco,Undirected,1
+Grev,Manuel,Undirected,1
+Lady Clara,Morcerf,Undirected,1
+Morcerf,Roderik Pauncefort,Undirected,1
+Ladyen,Ulrik,Undirected,1
+Henrik,Ulrik,Undirected,1
+Grev,tteg,Undirected,1
+Lady Clara,hnn,Undirected,1
+Henrik,Ulris,Undirected,1
+Lady Clara,Ulrik Sparef,Undirected,1
+Lady Clara,Mannel,Undirected,1
+Ladyen,Mannel,Undirected,1
+Clara,Priesen,Undirected,1
+Clara,Don Redondo,Undirected,1
+Don Redondo,Sparef,Undirected,1
+Don Redando,Ulrik,Undirected,1
+Clara,Ulrik von Sparef,Undirected,1
+Charles,Lucas,Undirected,2
+Don Lucas,sorn,Undirected,1
+Verola,sorn,Undirected,1
+Sjulas,Verola,Undirected,1
+Don Lucas Montez,Sjulas,Undirected,1
+Lucas,Sjn-las,Undirected,1
+Sjulas,lille Nini,Undirected,1
+Charles,Sjulas,Undirected,1
+as,iTurin,Undirected,1
+Adelaide,as,Undirected,1
+Artur Morcerf,deras,Undirected,1
+Artur Morcerf,Ditlev von Breda,Undirected,1
+Florens,Greven,Undirected,1
+Adelaide,Breda,Undirected,1
+Ditlev,herpæa,Undirected,1
+Don Juan Redando,d ' Obinje,Undirected,1
+Don Juan Redando,Monteræ,Undirected,1
+Don Fernando,Pauncefort,Undirected,1
+Manuel,Suchra,Undirected,1
+Don Redando,Suchra,Undirected,1
+Breda,Greven,Undirected,1
+Don Juan Redando,Henrik,Undirected,1
+Don Juan Redando,von Breda,Undirected,1
+Hr. de Losco,Manuel d ' Obinje,Undirected,1
+Bore Benners,Ibrahim Pobhas,Undirected,1
+Ditlev von Breda,Grev Monteræ,Undirected,1
+Ellen,Roderich Pauncefort,Undirected,1

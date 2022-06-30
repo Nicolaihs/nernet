@@ -1,0 +1,461 @@
+source,target,type,weight
+Guds,Palladius,Undirected,1
+Gud,sorn,Undirected,1
+Gud,Kong Christiern,Undirected,1
+Pratensis,Tyge,Undirected,3
+Brahe,Tyge,Undirected,2
+Pratensis,Tyge Brahe,Undirected,34
+Laurids,Pratensis,Undirected,4
+Edele,Tyge Brahe,Undirected,9
+Francisci Ripensis,Tyge Brahe,Undirected,1
+Francisci Ripensis,Johannes,Undirected,1
+Johannes,Ripensis,Undirected,2
+Ripensis,Tyge Brahe,Undirected,2
+Johannes Pratensis,Ripensis,Undirected,1
+Johannes Pratensis,Laurids Bøssestøber,Undirected,1
+Johannes,Johannes Pratensis,Undirected,1
+Johannes Pratensis,Jomfru Edele,Undirected,1
+Edele,Pratensis,Undirected,2
+Graver-Steffens,Pratensis,Undirected,1
+Edele,Steffen,Undirected,1
+Johannes Pratensis,Steffen,Undirected,3
+Johannes Pratensis,Pratensis,Undirected,3
+Christus,Johannes,Undirected,2
+Johannes,Pratensis,Undirected,1
+Jørgen,Pratensis,Undirected,1
+Johannes,Jørgen,Undirected,1
+Edele,Laurids Bøssestøber,Undirected,1
+Laurids Bøssestøber,Pratensis,Undirected,1
+Steffen,Tyge Brahe,Undirected,11
+Johannes Pratensis,Tyge Brahe,Undirected,12
+Pratensis,Steffen,Undirected,8
+Mester Pratensis,Tyge Brahe,Undirected,2
+Brahe,Tyge Brahe,Undirected,3
+Mester Pratensis,Steffen,Undirected,4
+Mester Pratensis,P'orældres,Undirected,1
+Johannes a Prato,P'orældres,Undirected,1
+Johannes a Prato,Pratensis,Undirected,2
+Filip a Prato,Pratensis,Undirected,1
+Filip a Prato,Kong Christiern,Undirected,1
+Kong Christiern,Steffen,Undirected,1
+Brahe,Mester Pratensis,Undirected,1
+Cyprianus Leovitius,Steffen,Undirected,1
+Aager,Tyge Brahe,Undirected,1
+Mester Steffen,Pratensis,Undirected,3
+Perseus,Vega,Undirected,1
+Bernhard,Eskild,Undirected,2
+Frederik,Steen Bille,Undirected,1
+Laurentius,Steen Bille,Undirected,1
+Laurentius,Peblinge,Undirected,1
+Bille,Krabbe,Undirected,1
+Krabbe,Lange,Undirected,1
+Axel,Lange,Undirected,1
+Axel,Steen Brahe,Undirected,1
+Steen Bille,Steen Brahe,Undirected,1
+Steen Bille,Tyge,Undirected,6
+Gud,Tyge Brahe,Undirected,9
+Jørgen Brahe,Steen Bille,Undirected,1
+Gud,Jørgen Brahe,Undirected,1
+Flan,Gud,Undirected,1
+Casper Peucers,Flan,Undirected,1
+Casper Peucers,Steen,Undirected,1
+Axel Brahe,Steen,Undirected,1
+Axel Brahe,Jørgen,Undirected,1
+Jørgen,Steen Bille,Undirected,1
+Anders Sørensen Vedel,Tyge,Undirected,1
+Anders Sørensen Vedel,Steen Brahe,Undirected,1
+Cyprianus Leovitius,Tyge Brahe,Undirected,1
+Erik,Steen,Undirected,1
+Bille,Steen,Undirected,3
+Bille,Erik,Undirected,1
+Bille,Tyge Brahe,Undirected,4
+Julius Cæsar,Tyge Brahe,Undirected,2
+Steen,Tyge Brahe,Undirected,2
+Brahe,Karl,Undirected,1
+Karle,Steen Bille,Undirected,1
+Leovitius,Tyge Brahe,Undirected,21
+Steen Bille,Tyge Brahe,Undirected,3
+Felix proficiscens,Leovitius,Undirected,1
+Junker,Tyge Brahe,Undirected,2
+Junker,Tyge,Undirected,10
+Brahe,Leovitius,Undirected,2
+Kong Salomon,Tyge Brahe,Undirected,1
+Tyge Brahe,skoggerlo,Undirected,1
+Mester Leovitius,Pratensis,Undirected,1
+Johannes Pratensis,Mester Leovitius,Undirected,1
+Johannes Pratensis,Leovitius,Undirected,1
+Mester Leovitius,Tyge Brahe,Undirected,6
+Gud,Leovitius,Undirected,2
+Sophia,Tyge Brahe,Undirected,1
+Kong Frederik,Tyge Brahe,Undirected,3
+Anders Sørensen Vedel,Steffen,Undirected,1
+Anders Sørensen Vedel,Steffen Graver,Undirected,1
+Alchymister,Steffen,Undirected,1
+Oxe,Steffen,Undirected,1
+Peder Oxe,Tyge Brahe,Undirected,1
+Peder Oxe,Pratensis,Undirected,1
+Synesius,Tyge Brahe,Undirected,1
+Christus,Synesius,Undirected,1
+Christus,Tyge Brahe,Undirected,2
+Brahe,Gud,Undirected,2
+Steen Brahe,Tyge Brahe,Undirected,3
+Jomfru Sophie,Tyge Brahe,Undirected,1
+Jomfru Sophie,Lange,Undirected,1
+Lange,Tyge,Undirected,1
+Bryde,Hr. Claes,Undirected,1
+Hr. Claes,Kirstine,Undirected,1
+Claes,Kirstine,Undirected,2
+Hr. Claes,Tyge Brahe,Undirected,1
+Kirstine,Tyge Brahe,Undirected,3
+Luthers,Tyge Brahe,Undirected,1
+Luthers,Melanchtons,Undirected,1
+Bartholomæus Scultetus,Melanchtons,Undirected,1
+Bartholomæus Scultetus,Camerarius,Undirected,1
+Claes Bryde,Tyge Brahe,Undirected,1
+Tyge Brahe,Vams,Undirected,1
+Alchymiens,Mester,Undirected,1
+Philosophus,Tyge Brahe,Undirected,1
+Bille,Leovitius,Undirected,2
+Kirstine,Sophie Brahe,Undirected,3
+Kirstine,Tyge,Undirected,1
+Sophie,Tyge,Undirected,1
+Tyge,lille Kirstine,Undirected,1
+Hjærtenskjær,lille Kirstine,Undirected,1
+Sophie,Thott,Undirected,2
+Mariage,lille Kirstine,Undirected,1
+Sophie Brahe,Tyge,Undirected,2
+Brahe,Kirstine,Undirected,1
+Karl,Pratensis,Undirected,1
+Aldebaran,Capella,Undirected,1
+Bjørn,Capella,Undirected,1
+Christi,sorn,Undirected,1
+Sophie Brahe,Steen Bille,Undirected,1
+Sophie Brahe,Tyge Brahe,Undirected,1
+Karle,Leovitius,Undirected,2
+Edele,Liar,Undirected,1
+Liar,Tyge Brahe,Undirected,1
+Pratensis,lille Edele,Undirected,1
+Pratensis,Steen Brahe,Undirected,1
+Kong Frederik,Tyge,Undirected,1
+Steen Brahe,Tyge,Undirected,4
+Bille,Brahe,Undirected,1
+Tyge,Tyge Brahe,Undirected,4
+Steen,Tyge,Undirected,1
+Pratensis,Steen,Undirected,1
+Beate,P'ru,Undirected,1
+Beate,Tyge,Undirected,1
+Kirstine Claesdatter,Mariage,Undirected,1
+Kirstine Claes-datter,Tyge,Undirected,1
+Christi,Regina,Undirected,1
+Kejser Maximilians,Rudolf den,Undirected,1
+Cassel,Tyge Brahe,Undirected,1
+Gud,Mester Bursch,Undirected,1
+Gud,Hipparchs,Undirected,1
+Cyprianus,Leovitius,Undirected,1
+Junker Tyge,Tyge Brahe,Undirected,4
+Junker Tycho,Paracelsus,Undirected,1
+Luth,Tyge Brahe,Undirected,2
+Karl,Leovitius,Undirected,1
+Mester Gemperlin,Svend,Undirected,1
+Gem perlins,Leovitius,Undirected,1
+Gem perlins,Gemperlin,Undirected,1
+Karl,Tyge Brahe,Undirected,1
+Allenfals,Mester Leovitius,Undirected,1
+Tyge Brahe,allenfals,Undirected,1
+Gud,Kumpan,Undirected,1
+Gemperlin,Tyge Brahe,Undirected,8
+Gemperlin,Karl,Undirected,1
+Gemperlin,Tobias Gemperlin,Undirected,2
+Kong Frederik,Mester Gemperlin,Undirected,2
+Mester Gemperlin,Tyge Brahe,Undirected,6
+Brahe,Gemperlin,Undirected,1
+Svend,Tyge,Undirected,1
+Maximilians,Paukers,Undirected,1
+Maximilians,Rudolf den,Undirected,1
+Doctor Hagecius,Mester Gemperlin 1,Undirected,1
+Thaddæus Hagecius,Tyge Brahe,Undirected,2
+Hajek,Thaddæus Hagecius,Undirected,1
+Hajek,Rudolfs,Undirected,1
+Hagecius,Tycho Brahe,Undirected,1
+Tobias Gemperlin,Tyge Brahe,Undirected,1
+Gud,Mester Hagecius,Undirected,1
+Hagecius,Pierre,Undirected,1
+Pierre,Tyge Brahe,Undirected,1
+Jupiter,Tyge Brahe,Undirected,1
+Flvad,Jupiter,Undirected,1
+Kirstine,Magdalene,Undirected,1
+Magdalene,Tobias Gemperlin,Undirected,1
+Mester Gemperlin,Sophie,Undirected,1
+Mester Gemperlin,Otto Thott,Undirected,1
+Allandsens,Otto Thott,Undirected,1
+Gemperlin,Hr. Tyge,Undirected,1
+Gemperlin,Sophie Brahe,Undirected,1
+Erik Lange,Sophie Brahe,Undirected,1
+Erik Lange,Tyge Brahe,Undirected,7
+Mats,Vams,Undirected,1
+Oxe,Wilhelm,Undirected,1
+Philip den højmodiges,Wilhelm,Undirected,1
+Kaas,Philip den højmodiges,Undirected,1
+Kaas,Rosenkrands,Undirected,1
+Jørgen Rosenkrands,Kaas,Undirected,1
+Jørgen Rosenkrands,Steen Brahe,Undirected,1
+Christoffer Valkendorf,Steen Brahe,Undirected,1
+Christoffer Valkendorf,Peder Sørensen,Undirected,1
+Majestæt,Steen Brahe,Undirected,1
+Jørgen Rosenkrands,Niels Kaas,Undirected,2
+Jørgen Rosenkrands,Tyge Brahe,Undirected,1
+Steen,Steen Brahe,Undirected,1
+Niels Kaas,Steen Brahe,Undirected,1
+Junker Tyge,Jørgen Rosenkrands,Undirected,1
+Frederik den anden,Tyge Brahe,Undirected,1
+Niels Kaas,Tyge Brahe,Undirected,3
+Niels Kaas,Rosenkrands,Undirected,1
+Rosenkrands,Steen Brahe,Undirected,1
+Graver-Steffen,Pratensis,Undirected,1
+Mo,Tyge Brahe,Undirected,1
+Doctor Pratensis,Tyge Brahe,Undirected,1
+Jomfru Liuva,Tyge Brahe,Undirected,1
+Gemperlin,Mester Leovitius,Undirected,1
+Pratensis,Uranieborg,Undirected,1
+Urania,Uranieborg,Undirected,1
+Gud,Pratensis,Undirected,1
+Isse,Tyge Brahe,Undirected,1
+Liuva,Tyge Brahe,Undirected,1
+Per Hasselkæp,Per Olssøn,Undirected,1
+Adonai,Per Hasselkæp,Undirected,1
+Adonai,Sabaoth,Undirected,1
+Gud,Sabaoth,Undirected,1
+Gud,Gud Søn,Undirected,2
+Gemperlin,Junkeren,Undirected,1
+Mester Gemperlin,Peder Flemløse,Undirected,2
+Tobias Gemperlin,TygeBrahes,Undirected,1
+Tobias Gemperlin,Vivimus ingenio,Undirected,1
+Christi,Gemperlin,Undirected,1
+Christi,Vivimus,Undirected,1
+Christa,Vivimus,Undirected,1
+Christa,coetera mortis erunt,Undirected,1
+Christus,coetera mortis erunt,Undirected,1
+Peder Flemløse,Tyge Brahe,Undirected,3
+Gemperlin,Olai Morsing,Undirected,1
+Morsing,Tyge Brahe,Undirected,1
+Hr. Tyge,Kong Frederik den anden,Undirected,1
+Kong Frederik den anden,Sofie,Undirected,1
+Sofie,Tyge Brahe,Undirected,1
+Anders Sørensen Vedel,Tyge Brahe,Undirected,1
+Anders Sørensen Vedel,Gemperlin,Undirected,1
+Johannes Pratensis,Liuva Lauridsdatter,Undirected,1
+Liuva Lauridsdatter,Tyge Brahe,Undirected,1
+Christians,Julius,Undirected,1
+Christians,Ulrichs,Undirected,1
+Johannes Pratensis,Peder Sørensen,Undirected,2
+Magdalene,Tyge,Undirected,1
+Junker Tyge,Slaa,Undirected,1
+Gemperlin,Kaardefæstet,Undirected,1
+Kaardefæstet,Vams,Undirected,1
+Erik Langel,Tyge Brahe,Undirected,1
+Junker Geert von Naudersberg,Tyge Brahe,Undirected,1
+Junker Geert von Naudersberg,Uranieborg,Undirected,1
+Raimarus Ursus Ditmarsicus,Uranieborg,Undirected,1
+Rudolf,Tyge Brahe,Undirected,1
+Maximilian,Rudolf,Undirected,1
+Gemperlin,Raimarus Ursus Ditmarsicus,Undirected,1
+Erik Lange,Raimarus Ursus,Undirected,1
+Junker von Naudersberg,Raimarus Ursus,Undirected,1
+Junker von Naudersberg,Naudersberg,Undirected,1
+Nil,migas,Undirected,1
+Erik Lange,Junker Tyge,Undirected,3
+Junkeren,Per Hasselkæp,Undirected,1
+Otto Thott,Sophie,Undirected,1
+Erik,Otto Thott,Undirected,2
+Hr. Eriks,Tyge Brahe,Undirected,1
+Erik Lange,Junker,Undirected,1
+Steffen,Steffen Graver,Undirected,3
+Junker Tyge,Steffen Graver,Undirected,1
+Erik Lange,Karl,Undirected,1
+Jason,Tyge,Undirected,1
+Erik,Tyge Brahe,Undirected,1
+Peder Flemløse,Raimarus Ursus,Undirected,1
+Raimarus Ursus,Tyge Brahe,Undirected,6
+Olai Morsing,Peder Flemløse,Undirected,2
+Junker Tyge,Peder Flemløse,Undirected,2
+Allandsens,Peder Flemløse,Undirected,1
+Jomfru Magdalene,Peder Flemløse,Undirected,1
+Jomfru Magdalene,Lange,Undirected,1
+Lange,Raimarus Ursus,Undirected,1
+Raimarus,Raimarus Ursus,Undirected,1
+Bjørn —,Raimarus,Undirected,1
+Flan,Peder Flemløse,Undirected,1
+Flan,Raimarus Ursus,Undirected,1
+Rai-marus,Ursus,Undirected,1
+Peder Flemløse,Ursus,Undirected,1
+Raimarus Ursus,Vams,Undirected,1
+Laurids,Tyge Brahe,Undirected,3
+Mester Laurids,Steffen,Undirected,1
+Brahe,Steffen,Undirected,3
+Brahe,Laurids,Undirected,1
+Laurids Bøssestøber,Tyge Brahe,Undirected,2
+Edele,Gud,Undirected,1
+Doctor Pratensis,Junker Tyge,Undirected,1
+Doctor Pratensis,Gud,Undirected,1
+Gud,Johannes Pratensis,Undirected,1
+Laurids,Peder Sørensen,Undirected,1
+Peder,Steffen Graver,Undirected,1
+Peder,Tyge Brahe,Undirected,1
+Steffen Graver,Tyge,Undirected,1
+Peder,Steffen,Undirected,1
+Edele,Laurids,Undirected,1
+Laurids,Steffen,Undirected,1
+Steffen Graver,Tyge Brahe,Undirected,1
+Gud,Steffen,Undirected,1
+Brahe,Pratensis,Undirected,1
+Aager,Pratensis,Undirected,1
+Aager,Johannes Pratensis,Undirected,1
+Erik Lange,Steffen,Undirected,1
+Kurfyrst August,Niels Hemming-sen,Undirected,1
+Hr. Tyge,Tyge Brahe,Undirected,1
+Jep,Reymer,Undirected,1
+Reymer,Ursus,Undirected,1
+Jep,Ursus,Undirected,1
+Jep,Uranieborg,Undirected,1
+Allandsens,Jep,Undirected,1
+Jep,Jeppe,Undirected,1
+Otto Thott,Tyge,Undirected,1
+Sophie Brahe,Tobias Gemperlin,Undirected,1
+Junker Tyge,Kong Frederik,Undirected,1
+Sophie Brahe,Tobias Gimberlin,Undirected,1
+Gemperlin,Kong Frederik,Undirected,1
+Jakob den sjette,Tyge,Undirected,1
+Jakob den sjette,brunsvigske,Undirected,1
+Henrik .,brunsvigske,Undirected,1
+Gemperlin,Junker,Undirected,1
+Mester Gemperlin,Sophie Brahe,Undirected,1
+Sophie Brahe,Tobias Gemberlin,Undirected,1
+Johannes Steenvinkel,Uranieborg,Undirected,1
+Hans Gaschitz,Johannes Steenvinkel,Undirected,1
+Hans Gaschitz,Johannes Croll,Undirected,1
+Johannes Croll,Tyge Brahe,Undirected,1
+Christen Longberg,Olai Morsing,Undirected,1
+Christen Longberg,Longomon-tanus,Undirected,1
+Longomon-tanus,Tyge Brahe,Undirected,1
+Hansi,Tyge Brahe,Undirected,1
+Hansi,Steenvinkel,Undirected,1
+Dybsens,Hans Gaschitz,Undirected,1
+Kong Frederik,Peter Flemløse,Undirected,1
+Jakob,Kong Frederik,Undirected,1
+Anna,Jakob,Undirected,1
+Christen Longomontanus,Peder Flemløse,Undirected,1
+Anna,Peder Flemløse,Undirected,1
+Anna,Kong Jakob,Undirected,1
+Mester Croll-,Mester Steen-vinkel,Undirected,1
+Christoffer Valkendorf,Peder Munk,Undirected,1
+Christoffer Valkendorf,Jacob Skrivers,Undirected,1
+Croll,Langvinus,Undirected,1
+Gaschitz,Johannes Steenvinkel,Undirected,1
+Hans Gaschitz,Tyge Brahe,Undirected,1
+Hans Gaschitz,Jeppe,Undirected,1
+Hans Gaschitz,Jep,Undirected,1
+Jep,Mester Gemperlin,Undirected,3
+Gemperlin,Jep,Undirected,2
+Gemperlin,Jeppe Dværg,Undirected,1
+Raimarus Ursus,Ursus,Undirected,1
+Ursus,paany,Undirected,1
+Erik Lange,paany,Undirected,1
+Erik Lange,Jep,Undirected,1
+Hipparch,Tyge Brahe,Undirected,1
+Hipparch,Sophie,Undirected,1
+Christian den,Sophie,Undirected,1
+Christian den,Junker,Undirected,1
+Kong Jakob,Sophie Brahe,Undirected,1
+Kong Jakob,Tyge,Undirected,1
+Jakob,Tyge Brahe,Undirected,1
+Junker Tyge,Sofie,Undirected,1
+Anders Sørensen Vedel,Sofie,Undirected,1
+Anders Sørensen Vedel,Junker,Undirected,1
+Sørensen,Tyge,Undirected,1
+Sørensen,Ulrik,Undirected,1
+Elisabeth,Ulrik,Undirected,1
+Elisabeth,Kong Frederik,Undirected,1
+Holger Rosenkrands,Tyge Brahe,Undirected,1
+Gud,Holger Rosenkrands,Undirected,1
+Axel,Tyge Brahe,Undirected,1
+Axel,Steen,Undirected,1
+Dronning Sofie,Steen,Undirected,1
+Gud,Mester Gemperlin,Undirected,1
+Tyge Brahe,Ursus,Undirected,1
+Karl,Peder Flemløse,Undirected,1
+Peder Flemløse,TygeBrahe,Undirected,1
+Gud,Kaas,Undirected,1
+Gud,Laurids Bøssestøber,Undirected,1
+Kaas,Tyge Brahe,Undirected,1
+Kong Frederik den anden,Tyge Brahe,Undirected,1
+Niels Kaas,Tyge,Undirected,1
+Niels Kaas,Pratensis,Undirected,1
+Hexen,Laurids Bøssestøber,Undirected,1
+Mikkel Galgenbakke,Steffen,Undirected,1
+Jomfru Edele,Laurids Bøssestøber,Undirected,1
+Jomfru Edele,Laurids,Undirected,1
+Gud,Hexen,Undirected,1
+Jomfru Edele,Tyge Brahe,Undirected,1
+Jep,Tyge Brahe,Undirected,1
+Holger,Niels Kaas,Undirected,1
+Christoffer Valkendorf,Niels Kaas,Undirected,1
+Christen Friis,Christoffer Valkendorf,Undirected,1
+Christen Friis,Peder Sørensen,Undirected,1
+Peder Sørensen,Peder Vinstrup,Undirected,1
+Gud,Peder Vinstrup,Undirected,1
+Gellius Sascerides,Gud,Undirected,1
+Gellius Sascerides,"Karl,",Undirected,1
+"Karl,",Magdalene Brahe,Undirected,1
+Gellius,Magdalene Brahe,Undirected,1
+Jakob Curtius,Rudolf,Undirected,1
+Jakob Curtius,Thaddæus Hagecius,Undirected,1
+Hagecius,Thaddæus Hagecius,Undirected,1
+Hagecius,Rudolf Corra-ducius,Undirected,1
+Friis,Kong Christian den fjerdes,Undirected,1
+Peder Sørensen,Raimarus Ursus,Undirected,1
+Carsten Rytter,Kong Frederik,Undirected,1
+Carsten Rytter,Doctor Raimarus Ursus,Undirected,1
+Doctor Raimarus Ursus,Raimarus Ursus,Undirected,1
+Hr. Axel Brahe,Hr. Junker,Undirected,1
+Hr. Axel Brahe,Thomas Finke,Undirected,1
+Iver Stub,Thomas Finke,Undirected,1
+Raimarus Ursus,thil,Undirected,1
+Christen Friis,Tyge Brahe,Undirected,1
+Junker Tyge Brahe,Wandesborg,Undirected,1
+Johan,Karl den fjerde,Undirected,1
+Johan,Wenzel,Undirected,1
+Rudolf den andens,Wenzel,Undirected,1
+Jacob Curtius,Rudolf den andens,Undirected,1
+Brahe,Flan,Undirected,1
+Flan,Rudolf den,Undirected,1
+Benatky,Rudolf den,Undirected,1
+Benatky,Tyge Brahe,Undirected,1
+Elisabeth Brahes,Frands Tengnagel,Undirected,1
+Brahe,Junker Tyge,Undirected,1
+Bo,Brahe,Undirected,1
+Erik,Sophie Brahe,Undirected,1
+Sophie,Sophie Brahe,Undirected,1
+Gud,Sophie,Undirected,1
+Tyge Brahe,—,Undirected,1
+Kejser Rudolf,Rudolf den,Undirected,1
+Barvitius,Johan Barvitius,Undirected,1
+Barvitius,Brahe,Undirected,1
+Junker,Tycho,Undirected,1
+Doctor Kepler,Tycho,Undirected,1
+Doctor Kepler,Kepler,Undirected,1
+Despiciendo suspicio,despicio,Undirected,1
+Despiciendo suspicio,Gud,Undirected,1
+Brahe,Grev Rosenberg,Undirected,1
+Junker Tyge,Tyge,Undirected,1
+Johannes Kepler,Tyge,Undirected,1
+Johannes Kepler,Tyge Brahe,Undirected,2
+Kepler,Tyge Brahe,Undirected,1
+Kepler,Tobias Gemperlin,Undirected,1
+Grev Rosenberg,Tyge Brahe,Undirected,1
+Grev Rosenberg,Johannes Kepler,Undirected,1
+Johannes Kepler,Mester Gemperlin,Undirected,1
+Johannes,Urania,Undirected,1
+Jørgen Brahe,Tyge,Undirected,1
+Magdalene,Tyge Brahe,Undirected,1
+Elisabeth,Magdalene,Undirected,1
+Cecilie,Elisabeth,Undirected,1

@@ -1,0 +1,16 @@
+source,target,type,weight
+Cordt,heid,Undirected,1
+Olav Trygvasson,Thyre,Undirected,1
+Guds,Olav Trygvasson,Undirected,1
+Gud,Guds,Undirected,1
+Gud,Thyre,Undirected,1
+Cordt,Gud,Undirected,1
+Hagbarth,Signe,Undirected,1
+Romeo,Signe,Undirected,1
+Julia,Romeo,Undirected,1
+Julia,Maria Veczera,Undirected,1
+Elvira Madigan,Maria Veczera,Undirected,1
+Kong Olav,Thyre,Undirected,1
+Dronning Thyre,Signe,Undirected,1
+Adelheid,Gud,Undirected,2
+Adelheid,Cordt,Undirected,1

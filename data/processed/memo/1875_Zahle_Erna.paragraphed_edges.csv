@@ -1,0 +1,232 @@
+source,target,type,weight
+Rolf,vaa Lander,Undirected,1
+SøkroneS,fig,Undirected,1
+,Væxt,Undirected,1
+Mathilde,Meo,Undirected,1
+Huri,Meo,Undirected,1
+Glassing,Løvenstcdt,Undirected,1
+Løvenstcdt,Mathilde,Undirected,1
+Glassing,Mathilde,Undirected,6
+Glassing,ec,Undirected,1
+GlaLsing,Mathilde,Undirected,1
+Glassing,Løvenstedts,Undirected,1
+Løvenstedt,Quolstrup,Undirected,1
+fig,strop,Undirected,1
+Glassing,strop,Undirected,1
+Hain,Mathilde,Undirected,1
+Mathilde,itke,Undirected,1
+Mathilde,Povl,Undirected,1
+Møller,Povl,Undirected,1
+Mathilde,Quolsfrups,Undirected,1
+Glassing,ester Haands,Undirected,1
+Gud,ehvert,Undirected,2
+Gud,Maria,Undirected,1
+Engelen,Maria,Undirected,1
+Mathilde,Pasfor Glassing,Undirected,1
+Hr. Pasfor,Mg,Undirected,1
+Tokrones,horde,Undirected,1
+Rolf,Tokrones,Undirected,1
+Hr. Baron,kait,Undirected,1
+Mathilde,Olivia Frühling,Undirected,1
+Hohendorffbragde,Hohendorffs,Undirected,1
+Jagltager,Rolf,Undirected,1
+Jagltager,Olivia Frühling,Undirected,1
+Elverholt,j,Undirected,1
+Emma,Krones,Undirected,1
+Erna,Krones,Undirected,1
+Erna,Konsul Krones,Undirected,1
+Erna,hettdes,Undirected,1
+Erna,Krone,Undirected,1
+Jusfitsraad Meldørf,ban,Undirected,1
+Erna,ester,Undirected,2
+Mathilde,ril ar giense,Undirected,2
+Mathilde,øg,Undirected,2
+Meldorf,Søkrone,Undirected,2
+Hr. Baron,hust,Undirected,1
+Erna,jø,Undirected,2
+Baron Adelkrones,Baron Søkrone,Undirected,1
+Adekkrone,Baron Søkrone,Undirected,1
+Erna,son,Undirected,1
+son,tans,Undirected,1
+Beiler,ErnaZ,Undirected,1
+Adelkrone,Elverholt,Undirected,1
+Wolfgang,opførdeS ber Wreporte,Undirected,1
+Adelkrone,Sølrone,Undirected,1
+Erna,estersaa,Undirected,1
+Erna,fil,Undirected,1
+Erna,fpurgde,Undirected,1
+Adelkrone,Meldorf,Undirected,2
+Erna,Søkrone,Undirected,10
+Erna,helsf,Undirected,1
+ber,helsf,Undirected,1
+Erna,mcnde,Undirected,1
+Bodil,Erna,Undirected,1
+Erna,Erna Adelkrone,Undirected,1
+Bodil,Gud,Undirected,1
+Bodil,filbage,Undirected,1
+Erna,filbage,Undirected,1
+Frøken Mathildes,Mathilde,Undirected,1
+aun,vidsfe man,Undirected,1
+Uraad,aun,Undirected,1
+Navolager,ester,Undirected,1
+akke,dyn,Undirected,1
+Frøken Frühling,fulgde dereffer,Undirected,1
+Erna,Rogen,Undirected,1
+Rogen,Søkrone,Undirected,1
+Søkrone,ester,Undirected,1
+Riand,ester,Undirected,1
+Bodil,Wolfgang,Undirected,1
+Erna,taus,Undirected,2
+Bodil,sely,Undirected,1
+Erna,Jngen,Undirected,2
+Erna,trælle,Undirected,1
+Erna,sidsfe Villie,Undirected,1
+sidsfe,sidsfe Villie,Undirected,1
+Eiermand,fom,Undirected,1
+Erna,reisve,Undirected,1
+Emas,Erna,Undirected,1
+Høitstaaende,Jkke faa,Undirected,1
+Emma,Høitstaaende,Undirected,1
+Glassing,Koffardikaptain Hansen,Undirected,1
+C ro,Crones,Undirected,1
+Crones,Erna,Undirected,1
+Emma,Erna,Undirected,1
+Erna,Tøkrone,Undirected,2
+ErnaS,Tøkrone,Undirected,1
+Mathilde,Tokrones,Undirected,1
+Tokrones,jTid,Undirected,1
+Søkrone,jTid,Undirected,1
+Emma,Ester Baronesse Søkrones,Undirected,1
+Erna Abelkrone,Søkrone,Undirected,1
+Adelkrone,as,Undirected,1
+Adelkrone,Roads,Undirected,1
+Erna,Mathilde,Undirected,26
+Erna,Mathilde mebdelde,Undirected,1
+Erna,jez,Undirected,1
+Helvig,Sidsfe,Undirected,1
+Barbara,Sidsfe,Undirected,1
+Justitsraad Meldorf,Søkrone,Undirected,1
+Adelkrone,got,Undirected,1
+Baron Sskrone,Erna,Undirected,1
+Erna,Hr. Baron,Undirected,1
+Ema,Mathilde,Undirected,2
+Erna,Justitsraad Meldorf,Undirected,1
+Søkrone,soa,Undirected,1
+Baron Adelfrone,Meldorf,Undirected,1
+Baron Adelfrone,Baron Tokrone,Undirected,1
+Erna,Meldorf,Undirected,1
+Frederik d.,alfid,Undirected,1
+Erna,hu,Undirected,1
+Adelkrone,Erna,Undirected,3
+ester,lund,Undirected,1
+Meldors,lund,Undirected,1
+Mathilde,paany,Undirected,1
+Axel Brink,Karl v Sturz,Undirected,1
+Axel Brink,Møller,Undirected,1
+Axel Brink,Sturz,Undirected,2
+Birgitte Vilmer,Meldorf,Undirected,1
+Axel Brink,Birgitte Vilmer,Undirected,1
+Axel,Birgitte Vilmer,Undirected,2
+Birgitte,Søkrone,Undirected,2
+Birgitte,Erna,Undirected,3
+Erna,got,Undirected,1
+Bjørn,Rolf,Undirected,1
+Erna,Rolf,Undirected,4
+Mathilde,Vertinden asen,Undirected,1
+Justitsraad Meldorf,bred,Undirected,1
+Erna,Grevens,Undirected,1
+Olivia,ester,Undirected,1
+Sturz,got,Undirected,1
+Mathilde,got,Undirected,1
+Birgitte Vilmer,tzntet,Undirected,1
+Brink,Meldorf vidsfe,Undirected,1
+Brink,vidsfe,Undirected,1
+ber,frank,Undirected,1
+Axel,mende,Undirected,1
+Axel Brink,Frederik den Sjettes,Undirected,1
+Elverholt,Erna,Undirected,1
+Elverholt,Søkrone,Undirected,1
+. pkil. Brink,Baron Søkrone,Undirected,1
+Baron Søkrone,Baronesse Søkrone,Undirected,1
+Axel Brink,ber,Undirected,1
+Erna,ber,Undirected,1
+Axel —,Erna,Undirected,1
+Axel,Jngen,Undirected,1
+Erna,Nette,Undirected,1
+Nette,ester Ernas,Undirected,1
+ber,ester Ernas,Undirected,1
+Mathilde Løvenstedt,kjende,Undirected,1
+Mathilde,Rolf Søkrone,Undirected,2
+Søkrone,Vertens,Undirected,1
+Mathilde,Rolf,Undirected,3
+Erna,Gud,Undirected,1
+Birgitte,got,Undirected,1
+Erna,Ru,Undirected,1
+Erna,hnn,Undirected,2
+Axel Brink,Erna,Undirected,1
+Bjørn,Løvenstedt,Undirected,1
+Erna hovde,Løvenstedt,Undirected,1
+Axel Brink,Erna hovde,Undirected,1
+Birgitte,Mathilde,Undirected,2
+Axel,Birgitte,Undirected,5
+Axel,Erna,Undirected,14
+Erna,hansin Kusk,Undirected,1
+Erna,Frøken Vilmer,Undirected,1
+Erna,Kousine,Undirected,2
+Bjørn,Vertinden,Undirected,1
+Løvenstedt,Vertinden,Undirected,1
+Erna,Løvenstedt,Undirected,1
+Erna,Rolf Søkrone,Undirected,1
+Birgitte Vilmer,Rolf Søkrone,Undirected,1
+Birgitte Vilmer,Løvenstedt,Undirected,1
+Erna,skraas,Undirected,1
+Erna,Rolf skraas,Undirected,1
+Mathilde,Rolf skraas,Undirected,1
+Erna,fluide,Undirected,1
+Herluf Trolle,Søkrone,Undirected,1
+Axel,soni,Undirected,1
+Axel,Mathilde,Undirected,1
+Sidonia,bode,Undirected,1
+Sidonia,ber,Undirected,2
+Axel Brink,Søkrone,Undirected,1
+Axel Brink,Sibonia,Undirected,1
+Axel Brink,Lieutenanten«,Undirected,1
+Axel,Axel fil Erna,Undirected,1
+Birgitte,Rolf,Undirected,2
+Elverholt,Rolf,Undirected,1
+Adelskrone,Erna,Undirected,1
+Olivia Frühling,Snille,Undirected,1
+Snille,hnn,Undirected,1
+Erna,Olivia,Undirected,1
+Birgitte Vilmer,Erna,Undirected,1
+Abelkrone,got,Undirected,1
+Adelkrone,Bryl,Undirected,1
+Adelkrone,Mathilde,Undirected,1
+Adelkrone,Birgitte,Undirected,1
+Birgitte,Brink,Undirected,1
+Adelkrone,Axel,Undirected,2
+Adelkrone,sulgde,Undirected,1
+Brink,Erna,Undirected,1
+Axel,Dorren,Undirected,1
+Axel,ber,Undirected,1
+B. l Frøken Vilmerl,Gehcimeraadinde,Undirected,1
+Moller Brink,taus,Undirected,1
+Dndling,Erna,Undirected,1
+Ihre,ber,Undirected,1
+Rolf,Søkrone,Undirected,1
+Frühling,te,Undirected,1
+Ieg,Seirherre,Undirected,1
+Adelkrone,Søkrone,Undirected,3
+Frøken Vilmer,d,Undirected,1
+Adelkrone,d,Undirected,1
+Adelkrone,Brink,Undirected,2
+Brink,Frøken Vilmer,Undirected,1
+Frøken Vilmer,ester,Undirected,1
+Axel,Rolf,Undirected,1
+Mathilde,reisde,Undirected,1
+EierindeS,reisde,Undirected,1
+EierindeS,horde,Undirected,1
+Axel,hvides,Undirected,1
+Møller Brink,hvides,Undirected,1
+Brink,Møller Brink,Undirected,1
+Etatsraad Meldorf,sif,Undirected,1

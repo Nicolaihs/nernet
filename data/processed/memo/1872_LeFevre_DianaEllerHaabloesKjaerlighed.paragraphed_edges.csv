@@ -1,0 +1,483 @@
+source,target,type,weight
+Diana,Niels Skytte,Undirected,1
+Diana,def,Undirected,1
+Knud,Niels,Undirected,1
+Knud,ester,Undirected,1
+Kudsk,paany,Undirected,1
+KuS,fig,Undirected,1
+KuS,skens,Undirected,1
+Karlsen,ester,Undirected,4
+Diana,Gud,Undirected,3
+Linds,Mo,Undirected,1
+Diana,Linds,Undirected,1
+Linds,lille Diana,Undirected,1
+Linds,lille Henrik,Undirected,1
+Mo,lille Henrik,Undirected,1
+Gynt,Mo,Undirected,1
+Gynt,ester,Undirected,1
+Bjerres,lille Henrik,Undirected,1
+lille Diana,lille Henrik,Undirected,1
+Diana høs,Mo,Undirected,1
+Diana,Mo,Undirected,1
+Chatollets,øg,Undirected,1
+Jens Krold,Marie,Undirected,5
+Jens Krold,ban,Undirected,1
+Marie,Søren,Undirected,8
+Jens Kcold,Marie,Undirected,1
+Jens,Marie,Undirected,2
+Jens Krold,Søren,Undirected,8
+Søren,ban,Undirected,3
+Marie,Pauls,Undirected,1
+Linds,Nils,Undirected,1
+Birthe,Søren,Undirected,1
+Niels,fig,Undirected,1
+Saaret,ban,Undirected,1
+Linds,meu,Undirected,1
+Linds,Niels Skytte,Undirected,1
+Niels,ester,Undirected,1
+Frøken Lind,Niels,Undirected,1
+Paul,Søren,Undirected,1
+Gud,Søren,Undirected,3
+Diana,Løltnant Karlsen,Undirected,1
+Diana,Lind,Undirected,6
+Karlsen,Lind,Undirected,1
+Diana,ester,Undirected,5
+Diana,Hden,Undirected,2
+Diana,ffal,Undirected,1
+Diana,Niels Brandt,Undirected,5
+Diana,Le,Undirected,1
+Hersfabs,Le,Undirected,1
+Diana,Niels,Undirected,1
+Else,Z,Undirected,1
+Diana,Else,Undirected,1
+Else,as,Undirected,1
+Else,Godseier,Undirected,1
+Diana,Løltnant,Undirected,1
+Karlsen,Løltnant,Undirected,1
+Diana,Kirstine,Undirected,10
+Kirstine,dobbell,Undirected,1
+Diana,dobbell,Undirected,1
+Diana,malte,Undirected,1
+Kirstine,malte,Undirected,1
+Diana,Kirstir.,Undirected,1
+Kirstir.,es,Undirected,1
+Diana,bun,Undirected,3
+Diana,ban,Undirected,7
+ban,bun,Undirected,1
+Diana,Karlsen,Undirected,3
+Bjerre,Lind,Undirected,3
+Kammeraad Bjerre,Lind,Undirected,1
+Henrik Bjerre,ban,Undirected,3
+ban,sorbause,Undirected,1
+Augusta,lil Diana,Undirected,1
+benvttcde hun,lil Diana,Undirected,1
+Diana lil,benvttcde hun,Undirected,1
+Diana,Kirsfine,Undirected,6
+Diana,fig,Undirected,9
+bun,fil,Undirected,1
+Diana,dam,Undirected,2
+dam,hiin Trutsel,Undirected,1
+dans,hiin Trutsel,Undirected,1
+Diana,Jens Krold,Undirected,3
+Diana,Søren,Undirected,1
+Jens,Søren,Undirected,3
+Søren,fig,Undirected,8
+Jens Krold,fig,Undirected,1
+Bjerre,Jens Krold,Undirected,1
+Jens Krold,ester,Undirected,1
+Stine,ester,Undirected,1
+Stine,dvgug Karl,Undirected,1
+ban,dvgug Karl,Undirected,1
+Jens,Jørgen Skovs,Undirected,1
+Søren,bun,Undirected,1
+Henrik Bjerre,Løttnant Karlsen,Undirected,1
+Karlsen,ber,Undirected,1
+ban,ber,Undirected,2
+Augusta,ban,Undirected,2
+Augusta,Frøken Bjerre,Undirected,1
+Diana,Henrik Bjerre,Undirected,8
+Henrik,Kjællings,Undirected,1
+Frøken Lind,Kjællings,Undirected,1
+Diana,Frøken Lind,Undirected,1
+Diana,Henrik,Undirected,56
+Diana,ril,Undirected,1
+Henrik,ban,Undirected,6
+Augusta,Henrik,Undirected,10
+Henrik Bjerre,ester,Undirected,1
+ban,fig,Undirected,3
+Henrik,fig,Undirected,7
+Diana,Gynt,Undirected,1
+Gynt,Henrik,Undirected,2
+Henrik,Karen,Undirected,3
+Diana,Karen,Undirected,3
+Henrik,bun,Undirected,1
+Bjerre,Diana fluide,Undirected,1
+Bjerre,Henrik,Undirected,2
+Henrik,ver,Undirected,1
+Diana,Kammerraad Bjerre,Undirected,3
+Augusta,Diana,Undirected,11
+ban,fluide ban,Undirected,1
+Henrik,ber,Undirected,1
+Ulriksholm,Zeg,Undirected,1
+Diana,Ulriksholm,Undirected,1
+Frøken Lind,Henrik,Undirected,1
+Henrik,Mo,Undirected,1
+Henrik,Specien,Undirected,1
+Gyut,lille Karen,Undirected,1
+Karl,lille Karen,Undirected,1
+Karen,ban,Undirected,1
+Niels Brandt,ban,Undirected,1
+Niels Brandt,taus,Undirected,1
+Karen,taus,Undirected,1
+Karen,fig,Undirected,1
+Diana øg Augusta,Henrik,Undirected,1
+AugustaS,Diana,Undirected,1
+Diana,dun,Undirected,1
+Augusta,bun,Undirected,1
+Augusta,Karlsen,Undirected,4
+Henrik,Lindegaard,Undirected,1
+Henrik,hnn,Undirected,2
+ffal,flal,Undirected,1
+Henrik,flal,Undirected,1
+Henrik,Sofies,Undirected,1
+Henrik,Sofie,Undirected,5
+Henrik,lille Sofie,Undirected,1
+Hcuriks,Sofie,Undirected,1
+Diana,Sofie,Undirected,2
+Augusta,fig,Undirected,7
+Karlsen,fig,Undirected,1
+Henrik,Niels Brandt,Undirected,3
+Henrik,Sciren,Undirected,1
+Henrik,lille Henrik,Undirected,1
+jæg,lille Henrik,Undirected,1
+Lindegaard,ester,Undirected,1
+Augusta,Lindegaard,Undirected,1
+Henrik,Karlsen,Undirected,1
+Angusta,Augusta,Undirected,1
+Jens Krold,Karen,Undirected,1
+Frøken Lind,Karen,Undirected,1
+Dands,Jens Krold,Undirected,1
+Lindegaard,Søren,Undirected,1
+Karen,Lindegaard,Undirected,1
+Karen,Søren vaa Flugten,Undirected,1
+Diana,heade,Undirected,1
+Diana,aepye,Undirected,1
+Henrik,aepye,Undirected,1
+Diana,hnn,Undirected,1
+bendes,hnn,Undirected,1
+Diana,bendes,Undirected,1
+ester,fig,Undirected,3
+Høiby,Skræver Bang,Undirected,1
+Bjerre,fig,Undirected,3
+Augusta,Bjerre,Undirected,1
+Bjerre,øg,Undirected,1
+Viktor,fig,Undirected,1
+Diana,Elsfer,Undirected,1
+Elsfer,Henrik,Undirected,1
+Henrik,Husf,Undirected,1
+Diana,Zo,Undirected,1
+Henrik,Kirstine,Undirected,4
+Kirstine,ester,Undirected,1
+Diana,Karen helde,Undirected,1
+Henrik,ester,Undirected,1
+Mester Birk,fig,Undirected,1
+Karlsen,Marie Birk,Undirected,2
+Bang,Marie,Undirected,3
+Bang,Birk,Undirected,1
+Bang,Mutter,Undirected,1
+Marie,blaa Øine,Undirected,1
+Marie,Theodor,Undirected,2
+Marie taug,Rogens,Undirected,1
+Høiby,Karlsen,Undirected,1
+Høiby,Tøi,Undirected,1
+Karlsen,Marie,Undirected,2
+Høiby,Marie,Undirected,3
+Høiby,Løjtnantens Kjæresfe,Undirected,1
+Højby,Marie,Undirected,1
+Marie,ktor,Undirected,1
+Karlsen,ktor,Undirected,1
+Frøken Bjerre,Marie,Undirected,1
+Marie,Viktor,Undirected,1
+Jens Krold,bvorfra,Undirected,1
+Jens Krold,Jørgen Skov,Undirected,1
+Jørgen Skov,Martha,Undirected,1
+Henrik,Jørgen Skov,Undirected,2
+Diana Lind,lille Niels Brandt,Undirected,1
+Diana Lind,Karen,Undirected,1
+Niels Brandt,fabt,Undirected,1
+banS,fabt,Undirected,1
+Aurelia,AureliaS,Undirected,3
+Aurelia,Hnsbond,Undirected,1
+Niels Brandt,Tu,Undirected,1
+Diana,Tu,Undirected,1
+Aurelia,Diana,Undirected,6
+Aurelia,taus Niels Brandt,Undirected,1
+lille Aurelio,taus Niels Brandt,Undirected,1
+Niels Brandt,Søren,Undirected,2
+Aurelia,Søren,Undirected,3
+Aurelia,Vorher,Undirected,1
+Aurelia,bavde,Undirected,1
+Aurelia,bun,Undirected,1
+Aurelia,fig,Undirected,20
+Aurelie,fig,Undirected,1
+Gud,fig,Undirected,3
+Aurelia,Niels Brandt,Undirected,15
+Niels Brandt,fig,Undirected,4
+ba han,fig,Undirected,1
+Aurelia,vexelvis,Undirected,2
+Aurelia,Aurelie,Undirected,1
+Michael Storm,Søren,Undirected,1
+Storm,Søren,Undirected,3
+Kjæresfe,Niels Brandt,Undirected,1
+Frøken Lind,Kjæresfe,Undirected,1
+Frøken Lind,lille Karen Jørgens,Undirected,1
+Niels Brandt,lille Karen Jørgens,Undirected,1
+Frøken Aurelia,Niels Brandt,Undirected,1
+Hændeine,Søren,Undirected,1
+Aurelia,Hændeine,Undirected,1
+Aurelia,ban,Undirected,1
+Aurelia,faus,Undirected,2
+Asten,fiden,Undirected,1
+AureliaS,Niels Brandt,Undirected,4
+Bjerre,Karlsen,Undirected,1
+AureliaS,Kammerraad Bjerre,Undirected,1
+Henrik Bjerre,Karen Jørgens,Undirected,1
+Karen Jørgens,ban,Undirected,1
+Lind,Niels Brandt,Undirected,1
+Lind,fig,Undirected,4
+Augusta,Karsen,Undirected,1
+Augusta,nstir,Undirected,2
+Aurelia,Karlsen,Undirected,3
+Karlsen,Mar ^lev,Undirected,1
+Henrik Bjerre,t,Undirected,1
+Hnn,t,Undirected,1
+Thorvald Storm,meente,Undirected,1
+Aurelia,Henrik Bjerre,Undirected,1
+Emilie,fig,Undirected,2
+Aurelia,Emilie,Undirected,1
+Emilie,Storm,Undirected,1
+Storm,vexelviis,Undirected,1
+Aurelia,vexelviis,Undirected,1
+Aurelia,Aurelio,Undirected,1
+Niels Brandt,lille Kirsline,Undirected,1
+Gud,Henrik,Undirected,1
+Karen Jørgens,Niels Brandt,Undirected,1
+Kirstine,tjl,Undirected,1
+Kirstine,j,Undirected,1
+Graad,fig,Undirected,1
+Augusta,Kirstine,Undirected,2
+Gud,Kirstine,Undirected,1
+Kirstine,Marie,Undirected,3
+Augusta,Marie,Undirected,1
+Augusta,ester,Undirected,1
+Aurclias,jæg,Undirected,1
+Elias,Krag,Undirected,2
+Aurelia,Elias,Undirected,1
+Aurelia,Storm,Undirected,2
+Gud,Maria,Undirected,4
+Maria,Søren,Undirected,12
+Graad,Maria,Undirected,1
+Søren,alfid,Undirected,1
+Maria,alfid,Undirected,1
+B. gge tause,Maria,Undirected,1
+B. gge tause,Søren,Undirected,1
+Søren,ester,Undirected,1
+Maria,fig,Undirected,2
+Aurelia strax,Fader,Undirected,1
+Aurelia,strax ester,Undirected,1
+Martha,rsrl,Undirected,1
+Thorvald ffulde,ester,Undirected,1
+Aurelia,Gud,Undirected,5
+ban,lille Aurelia,Undirected,1
+Henriette,Viggo,Undirected,23
+Henriette,ban,Undirected,2
+ban,fil,Undirected,1
+Viggo,fil,Undirected,1
+Henriette,lille Henriette,Undirected,1
+Henriette,hnn,Undirected,1
+Lind,Viggo,Undirected,5
+Diana,Theodor,Undirected,1
+Henrik,sfal,Undirected,2
+Høiby,ester,Undirected,1
+Augusta,Marie Birk,Undirected,2
+Lind,j. g fluide,Undirected,1
+Augusta,Lind,Undirected,2
+Augusta,Augusta Bjerre,Undirected,1
+Viggo Sven,sen,Undirected,1
+Viggo Svendsen,sen,Undirected,1
+Diana,Henriette,Undirected,3
+Lind,ban,Undirected,1
+Viggo,fig,Undirected,3
+Henriette,fig,Undirected,2
+Karen,Karl,Undirected,1
+Karen,Viggo,Undirected,1
+Karen,Lind,Undirected,1
+Else,fig,Undirected,1
+Karen,Niels Brandt,Undirected,1
+Henriette,Henrik,Undirected,2
+Aurelia,Henriette,Undirected,1
+Diana,Øe,Undirected,2
+Henrik,Viggo,Undirected,2
+Henrik Bjerre,Viggo,Undirected,1
+Viggo,ester,Undirected,1
+Henrik,Lind,Undirected,6
+Henriette,Lind,Undirected,3
+Lange,Lind,Undirected,1
+Lind,taus,Undirected,1
+Viggo,taus,Undirected,1
+Viggo,Viggo Svendsen,Undirected,1
+Viggo Svendsen,fig,Undirected,1
+fig,fig.,Undirected,1
+Gud,fig.,Undirected,1
+Jean Pauls Maigave,Viggo,Undirected,1
+Gud,offre,Undirected,1
+Viggo,offre,Undirected,1
+Alfsaa,fig,Undirected,1
+Søren,øg,Undirected,1
+fig,øg,Undirected,2
+Gud,Marie,Undirected,2
+Huslcie,Tu,Undirected,1
+Thomas Tyr,fig,Undirected,1
+Maria,Thomas Tyr,Undirected,1
+Thomas,Thomas Tyr,Undirected,3
+Søren,Thomas,Undirected,6
+,Thomas,Undirected,1
+Thomas,fig,Undirected,1
+Søren,Thomas Tyr,Undirected,2
+Søren,Thomas Thyr,Undirected,1
+Gynt,Viggo Svendsen,Undirected,1
+Gynt,fig,Undirected,2
+Gynt,Mo ' er,Undirected,1
+Moer Gynts,fig,Undirected,1
+Gud,Viggo,Undirected,2
+Lind,Moer Gynts,Undirected,1
+Aurelia,Mikael Storm,Undirected,1
+Aurelia,Henrik,Undirected,1
+AureliaS,Diana,Undirected,1
+Aurelia,ester,Undirected,3
+ester,sorstummer,Undirected,1
+Aurelia,sorstummer,Undirected,1
+Sidsle,Søren,Undirected,1
+Maria fig,fig,Undirected,1
+Poul,fig,Undirected,1
+Peter Grønberg,Søren,Undirected,1
+Grønberg,Søren,Undirected,2
+Peter Ludvig Grønberg,Søren,Undirected,1
+Søren,Søren Jensen,Undirected,1
+Moer Gynt,Viggo,Undirected,1
+Henricttcs,Viggo,Undirected,1
+Lin Reise,Viggo,Undirected,1
+Fader,Lin Reise,Undirected,1
+Augusta,Nevcu,Undirected,1
+Ester Begravelsen,Niels Brandt,Undirected,1
+Niels Brandt,Thorvald Storm,Undirected,1
+Aurelia,Thorvald Storm,Undirected,1
+Aurelia,Karl,Undirected,1
+Diana,kjære Aurelia,Undirected,1
+Aurelia,hiin,Undirected,1
+Diana,Kristine,Undirected,4
+Kirstine,fig,Undirected,1
+Kirstine,Lind,Undirected,1
+Henrik Bjerre,Lind,Undirected,1
+Diana,fidste,Undirected,1
+I. Bjerre,fidste,Undirected,1
+Diana,Emma,Undirected,2
+Henrik Bjerre,fig,Undirected,1
+Kirstine,Niels Brandt,Undirected,1
+Diana,Knud,Undirected,1
+Henrik,Henrik Bjerre,Undirected,1
+Aurelia,ester Dianas,Undirected,1
+Aurelia,Le,Undirected,1
+Aurelia,nyl,Undirected,1
+AureliaS,estersces,Undirected,1
+Aurelia,Skjær,Undirected,1
+Henrik Bjerre,Kirsfine,Undirected,1
+Thorvald Storm,fig,Undirected,1
+Ten gamle Bjerre,sal fig tilbords,Undirected,1
+Kristine,sal fig tilbords,Undirected,1
+Kristine,Lind,Undirected,1
+Theodor Carlsen,fig,Undirected,1
+Bjerre,Carlsen,Undirected,1
+Aurelia,Carlsen,Undirected,1
+Aurelia,Kjøbmand- Wulffs,Undirected,1
+Kjøbmand- Wulffs,Lind,Undirected,1
+Gud,Lind,Undirected,2
+Augusfas,fig,Undirected,2
+Viggo Svendsen,Wolff,Undirected,1
+Augusta,Thora,Undirected,1
+Thora,fig,Undirected,1
+Carlsen,reisfe fig,Undirected,1
+Augusta,reisfe fig,Undirected,1
+Theodor,fig,Undirected,2
+Augusfa,Theodor,Undirected,1
+Marie Birk,bun,Undirected,1
+Bang,bun,Undirected,1
+Augusta,Theodor,Undirected,6
+Augusta,rigignok,Undirected,1
+ester,rigignok,Undirected,1
+Marie,bun,Undirected,1
+Jei,jei,Undirected,1
+Jens Krøld,Marie,Undirected,1
+Jens Krold,Maria,Undirected,1
+JenS,Søren,Undirected,1
+Jens Krold Maria,Søren,Undirected,1
+Biggo Svendsen,Henriette,Undirected,1
+Henriette,Paulun,Undirected,1
+Henriette,ester,Undirected,1
+Lille Maria,Viggo,Undirected,1
+Maria,Viggo,Undirected,1
+Henriette,lille Marie,Undirected,3
+Viggo,lille Marie,Undirected,1
+Biggos,Henriette,Undirected,1
+Henriette,bun,Undirected,1
+Viggo,hu,Undirected,1
+Carlsen,Viggo,Undirected,1
+Carlsen,Frøken Bjerre,Undirected,1
+Frøken Bjerre,Mama,Undirected,1
+Mama,Marie,Undirected,1
+Bodil Gynt,Viggo,Undirected,1
+Henriette,Johan,Undirected,2
+Gud,Nathalia,Undirected,2
+Johan,Viggo,Undirected,1
+Gud,Henriette,Undirected,1
+Gud,Tause,Undirected,1
+Le,Storm,Undirected,1
+Le,fig,Undirected,1
+Harald Storm,Niels Brandt,Undirected,1
+Theodor,øg,Undirected,1
+Aabyes,Theodor,Undirected,1
+Aabyes,ban,Undirected,1
+Bang,Theodor Carlsen,Undirected,1
+Augusfa,Bang,Undirected,1
+Augusfa,ester,Undirected,1
+Emilie,ester,Undirected,1
+Angusta,as,Undirected,1
+Kjør,Poul,Undirected,1
+Augusla,Theodor,Undirected,1
+Gud,Julius,Undirected,2
+Augusta,Julius,Undirected,4
+Augusla,Julius,Undirected,1
+Lille Karen Jørgens,fig,Undirected,1
+Lind,Lindegaard“,Undirected,1
+Gud,Kristine,Undirected,1
+Anker,Kristine,Undirected,1
+Anker,Diana,Undirected,1
+Gud,ester,Undirected,2
+Augusta,Carlsen,Undirected,1
+Carlsen,Sofie,Undirected,1
+Sofie,fig,Undirected,2
+Henrik Bjerre,Sofie,Undirected,1
+Sofie,Sofie-,Undirected,1
+,Sofie,Undirected,1
+Lille Sofie,lille Sofie,Undirected,1
+Sofie,ban,Undirected,2
+Johan Poulsen,Sofie,Undirected,3
+Liret,ns,Undirected,1
+Augusta bavde,ban,Undirected,1
+Augusta,Julius Aaby,Undirected,2
+Julius Aaby,øg,Undirected,1
+fig,øg fog,Undirected,2
+Julius Aaby,fig,Undirected,1
+Augusta,Gud,Undirected,1
+Emilie,Krøg,Undirected,1
+EliaS,Emilie,Undirected,1

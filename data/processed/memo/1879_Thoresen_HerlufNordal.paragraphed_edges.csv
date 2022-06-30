@@ -1,0 +1,367 @@
+source,target,type,weight
+Ehrenreich Nordal,soni,Undirected,1
+Herluf,Nordals,Undirected,1
+Andreas,Herluf,Undirected,40
+Andreas,Ingeborg,Undirected,2
+Herluf,Ingeborg,Undirected,5
+Herlus,Ingeborg,Undirected,1
+Ingeborg,ester,Undirected,1
+Herluf,Herlus,Undirected,4
+Andreas,Herlus,Undirected,1
+Ingeborg,nien,Undirected,1
+Herluf,nien,Undirected,1
+Herluf,keg,Undirected,2
+,Andreas,Undirected,4
+,Husbonds,Undirected,1
+Clas,Herluf,Undirected,10
+Clas,Oldens,Undirected,3
+Madam Lydia,Oldens,Undirected,1
+Clas,Madam Lydia,Undirected,4
+Rolf Enevoldsen,Stadshauptmand Rolf Enevoldsen,Undirected,1
+Enevoldsen,Rolf Enevoldsen,Undirected,1
+Lydia Enevoldsen,Madame Lydia,Undirected,1
+Clas,Lydia Enevoldsen,Undirected,1
+Lydia,Rolf Enevoldsen,Undirected,4
+Clas,Rolf Enevoldsen,Undirected,1
+Clas,Lydia,Undirected,6
+Olden,ester Rolf Enevoldsens,Undirected,1
+Olden,orgo,Undirected,1
+Braad,orgo,Undirected,1
+Braad,Herluf,Undirected,1
+Andreas,Madam Lydia,Undirected,2
+Laura,Madam Lydia,Undirected,12
+Laura,Rolf Enevoldsen,Undirected,1
+Andreas,Clas,Undirected,1
+Andreas,Laura,Undirected,27
+Herluf,Laura,Undirected,88
+Andreas,Graad,Undirected,1
+Andreas,Nik,Undirected,1
+Cæsar,Herluf,Undirected,1
+Cæsar,Philip,Undirected,1
+Guds,Philip,Undirected,1
+Herluf,Olden,Undirected,15
+Herluf,Madam Lydia,Undirected,16
+Andreas,Lydia,Undirected,7
+Laura,Lydia,Undirected,13
+Clas,Laura,Undirected,3
+Clas,Olden,Undirected,1
+Ehrenreich Nordal,Olden,Undirected,1
+Ehrenreich Nordal,Herluf,Undirected,1
+Andreas,Herluf sliv,Undirected,2
+Clas Olden,Madam Lydia,Undirected,2
+Berget,Ulrikken,Undirected,1
+Titan,Ulrikken,Undirected,1
+Herluf Nordal,eunclillutus tbeologiW,Undirected,1
+Guttens,Herluf,Undirected,1
+Herluf,Karl,Undirected,2
+Gutten,Jasaa,Undirected,1
+Herluf,Karl“,Undirected,1
+Gutten,Karl,Undirected,1
+Herluf,ester,Undirected,3
+Herluf,Madam Olden,Undirected,1
+Laura,hnn,Undirected,1
+Benedikte,hnn,Undirected,3
+Arnesen,Benedikte,Undirected,2
+Madam Lydia,Rolf,Undirected,1
+Olden,Rolf,Undirected,2
+Olden,Rolf Enevoldsen,Undirected,3
+Laura,Olden,Undirected,16
+Laura,Stadshauptmand Enevoldfen,Undirected,1
+Herluf,Stadshauptmand Enevoldfen,Undirected,1
+Herluf,faug,Undirected,1
+Bien,faug,Undirected,1
+Bien,Herluf,Undirected,1
+Benedikte,Herluf,Undirected,43
+Benedikte,Madam Lydia,Undirected,11
+Enevoldsen,Olden,Undirected,7
+Enevoldsen,Lydia,Undirected,7
+Herluf,Lydia,Undirected,17
+Gud,oni,Undirected,1
+Gud,Stadshauptmanden,Undirected,2
+Gud,Lydia,Undirected,1
+Lrgo,Lydia,Undirected,1
+Lydia,Madam,Undirected,1
+Benedikfes,Herluf,Undirected,1
+Benedikfes,Benedikte,Undirected,1
+Gud,Laura,Undirected,6
+Gud,ester,Undirected,2
+Benedikte,Gud,Undirected,10
+Gud,Madam Lydia,Undirected,1
+Benedikfe,Benedikte,Undirected,2
+Clas,Enevoldsen,Undirected,3
+Herluf,sorsvandf,Undirected,2
+Benedikte,Laura,Undirected,23
+Clas Olden,Madam Lydia sfreg,Undirected,1
+Madam Lydia,Skjelm eri,Undirected,1
+Laura,ester,Undirected,3
+Madam Lydia,ester,Undirected,1
+Madam Lydia,Rolf Enevoldfen,Undirected,1
+Benedikte,Rolf Enevoldfen,Undirected,1
+Konsul Bremer,Madam Lydia,Undirected,1
+Bremer,Klyver,Undirected,2
+Benedikte,ester,Undirected,5
+Benedikte,Klyver,Undirected,6
+Ester,Nicodemus,Undirected,1
+Benedikfe,Gud,Undirected,1
+Benedikte,bam,Undirected,1
+bam,tom,Undirected,1
+Benedikte,tom,Undirected,1
+Dn,Herluf,Undirected,1
+Fredriksbergs,Herluf,Undirected,1
+Astenskyens,Benedikte,Undirected,1
+Stadshauptmand Enevoldsen,ester,Undirected,1
+Lydia,Stadshauptmand Enevoldsen,Undirected,2
+Benedikte,Lydia,Undirected,7
+Benedikles,Madam Lydia,Undirected,1
+Herluf,tren,Undirected,2
+Clas,tren,Undirected,1
+Benedikte,Marv,Undirected,2
+Lydia,Marv,Undirected,1
+Herluf,Rolf Enevoldsen,Undirected,3
+Blaalys,Olden,Undirected,1
+Benedikte,Fugl-Phønix,Undirected,1
+Benedikfe,Herluf,Undirected,2
+Benedikfe,Rolf,Undirected,1
+Lydia,Rolf,Undirected,3
+Benedikte,Clas,Undirected,2
+Herluf,else,Undirected,1
+Jomfru Arnesen,Madam Lydia,Undirected,1
+Benedikte,mev,Undirected,1
+Benedikte,Herhid,Undirected,1
+Ebben,Herluf,Undirected,1
+Benedikfe,Laura,Undirected,2
+Benedikte,Graad,Undirected,1
+Graad,Herluf,Undirected,1
+Benedikte,sky,Undirected,1
+Benedikte,Enevoldsen,Undirected,1
+Arnesen,Lydia,Undirected,1
+Jomfru Arnesen,Stadshauptmand Enevoldsen,Undirected,1
+Herluf,Jomfru Arnesen,Undirected,1
+Jomfru Arnesen,Lydia,Undirected,1
+Madam Lydia,Marv,Undirected,1
+Benedikte,Stadshauplmand Enevoldsen,Undirected,1
+Benedikte,Bremer,Undirected,2
+Benedikte slolt,Gud,Undirected,1
+,Gud bevar,Undirected,1
+,Arnesen,Undirected,1
+Benedikte,Madam Warniche,Undirected,38
+Benedikfe,Madam Warniche,Undirected,3
+Benedikfe,Clamer Stub,Undirected,2
+Gamle,Jomfru Arnesen,Undirected,1
+,Benedikte,Undirected,1
+Herluf,Visfnok,Undirected,4
+Gud,Herluf,Undirected,20
+Karl,Minervas,Undirected,1
+Herluf,as,Undirected,1
+Gud,Urflogens,Undirected,1
+Herluf,Urskogens,Undirected,2
+Herluf Nordal,sfreg,Undirected,1
+Arnold von Haller,Herluf Nordal,Undirected,1
+Arnold von Haller,Herluf,Undirected,1
+Herluf,Jevnlige,Undirected,2
+Herluf,niedens,Undirected,2
+Arnold von,von der Haag,Undirected,1
+Haller,tren,Undirected,1
+Gud,beraade,Undirected,1
+Herluf,raadløs,Undirected,1
+Haller,von Haller,Undirected,1
+Haller,Robens,Undirected,1
+Robens,von Haller,Undirected,1
+Greven,von Haller,Undirected,1
+Haller,Herluf,Undirected,1
+Grev von Haller,Herluf,Undirected,1
+Hedevigs,Herluf skjalv,Undirected,1
+Hedevig,Herluf,Undirected,3
+Hedevig,Laura,Undirected,1
+Herluf,Madame,Undirected,1
+Greven,Herluf,Undirected,1
+Greven,Taal,Undirected,1
+Gud,Taal,Undirected,1
+Herluf,von Haller,Undirected,2
+Grev Hallers,Herluf,Undirected,1
+Herluf,Ieg,Undirected,1
+Herluf,sif Maal,Undirected,2
+Herluf,sif,Undirected,1
+Grev Haller,Herluf,Undirected,1
+Clas Olden,Herluf,Undirected,1
+Lydia,Olden,Undirected,12
+Lydia,paany,Undirected,1
+Ehrenreich,paany,Undirected,1
+Ehrenreich,Herluf Nordal,Undirected,1
+Herluf Nordal,Madam Lydia,Undirected,1
+Madam Lydia,Olden,Undirected,2
+Herluf,felv,Undirected,1
+Lydia,felv,Undirected,1
+Benedikfe Arnesen,Herlus,Undirected,1
+Visfnok,nien,Undirected,1
+Madam Warniche,nien,Undirected,1
+Madam Kall,Madam Warniche,Undirected,1
+Benedikte,Clamer Stub,Undirected,13
+Jomfru Benedikte,Madam Warniche,Undirected,1
+Clamer Stub,Madam Warniche,Undirected,6
+Clamer Stub,Konsul Bremer,Undirected,1
+Benedikte,Konsul Bremer,Undirected,1
+Madam Warniche,Stub,Undirected,13
+Benedikte,Stub,Undirected,19
+Marthe,Stub,Undirected,7
+Hatten,Marthe,Undirected,1
+Stub,fom Marthe,Undirected,1
+Benedikte,skjalv,Undirected,1
+Clamer Stub,ask,Undirected,1
+Benedikte,ask,Undirected,1
+Clamer,Stub,Undirected,14
+Madam Warniche,Peter Warniche,Undirected,3
+Peter Warniche,Taa,Undirected,1
+Garver Johansen,Taa,Undirected,1
+Adolfines,Garver Johansen,Undirected,1
+Adolfines,Peter Warniche,Undirected,1
+Johansen,Peter Warniche,Undirected,1
+Clamer,Johansen,Undirected,1
+Madam Warniche,Warniches,Undirected,1
+Mutter Warniche,Warniches,Undirected,1
+Klyver,Stub,Undirected,4
+Ask Mojø,Madam Warniche,Undirected,1
+Klyver,Madam Warniche,Undirected,3
+Benedikfe,Klyver,Undirected,1
+Benedikfe,Stub,Undirected,4
+Benedikte,Jomsru Benedikte Arnesen,Undirected,1
+Jomfru Arnesen,Stub,Undirected,2
+Gud,Stub,Undirected,2
+Gud,Madam Warniche,Undirected,3
+Jomfru Benedikte,Stub,Undirected,1
+Husbonds,Marthe,Undirected,1
+Husbonds,Stub,Undirected,1
+Herluf Nordal,hon,Undirected,1
+Ehrenreich,Olden,Undirected,1
+Ehrenreich,Laura,Undirected,1
+Ehrenreich,Herluf,Undirected,2
+Lydia,Madam Lydia,Undirected,2
+Enevoldsen,Laura,Undirected,1
+Benedikte,Rolf,Undirected,1
+Clamer Stub,Herluf,Undirected,1
+Pantalons,Rolf Enevoldsen,Undirected,1
+Lydia,Pantalons,Undirected,1
+Herluf,Karlen,Undirected,1
+Hain,Herluf,Undirected,1
+Gud,Hain,Undirected,1
+Liv,Olden,Undirected,1
+Hys,Lydia,Undirected,1
+Anelfen,Herluf taus,Undirected,1
+Alen,Herluf,Undirected,1
+Herluf,Salvelsens,Undirected,1
+Herluf,Ulrikken,Undirected,4
+Gutten,Herluf,Undirected,2
+Herluf,Stub,Undirected,6
+Stub,Warniche,Undirected,2
+Benedikte,d,Undirected,1
+Herluf,d,Undirected,1
+Herluf,rasft,Undirected,1
+Gud,hannem fle,Undirected,1
+Gud,Paulus,Undirected,1
+Christus,Johannes,Undirected,1
+Benedikte,signe,Undirected,1
+Jomfru Arnesen,Olden,Undirected,1
+Clamer,Madam Warniche,Undirected,2
+Clamer Stub,Klyver,Undirected,2
+Benedikte,Røsf,Undirected,1
+Morbro,Røsf,Undirected,1
+Benedikte,Mo,Undirected,2
+Benedikte,Jesus,Undirected,1
+Jesus,Jomfru Arnefen,Undirected,1
+Lydia,Svogers,Undirected,1
+Bien Stadshauptmanden,Svogers,Undirected,1
+Bien Stadshauptmanden,Olden,Undirected,1
+Lydia,Rols,Undirected,1
+Laura,Rols,Undirected,1
+Herluf,Svoger,Undirected,1
+Olden,Svoger,Undirected,1
+Laura,fom,Undirected,2
+Enevoldsen,fom,Undirected,1
+Lydia,Stadshauptmanden,Undirected,1
+Herluf,Stadshauptmanden,Undirected,1
+Laura,Liljens,Undirected,1
+Enevoldsen,Laura Alida Olden,Undirected,1
+Andreas,Olden,Undirected,3
+Andreas,paany,Undirected,1
+Andreas,sidsfe,Undirected,1
+Herluf,soran,Undirected,1
+Clas Olden,Herluf Nordal,Undirected,1
+Clamer Stub,Herluf Nordal,Undirected,1
+Laura,Madam Warniche,Undirected,1
+Arnesen,Clamer Stub,Undirected,1
+Eden,Herluf,Undirected,1
+Eden,Gud,Undirected,3
+Bestemmelfe,Laura,Undirected,1
+Benedikte,oni,Undirected,1
+fro,hnn,Undirected,1
+Gud,fro,Undirected,1
+Laura,Oldm,Undirected,1
+Herluf,niaatte,Undirected,2
+Olden,ester,Undirected,1
+Lydia,ester,Undirected,2
+Herluf,Laura fnart,Undirected,1
+Herluf,dans,Undirected,2
+Laura,rasft,Undirected,1
+Herluf,Marven,Undirected,1
+Marven,Skjebnens,Undirected,1
+Madam Lydia,eno,Undirected,1
+Christo,Gud,Undirected,1
+Elsfov,Gud,Undirected,1
+Christum,Gud,Undirected,2
+Christum,Christus,Undirected,1
+Christus,Gud,Undirected,1
+Gud,ask,Undirected,1
+Gud,Jesum ester,Undirected,1
+As,Clamer,Undirected,1
+Madame Warniche,Stub,Undirected,2
+Clamer Stub,Stub,Undirected,1
+Benedikfe fljalv,Herluf,Undirected,1
+Herluf,taug,Undirected,1
+Christi,Herluf,Undirected,1
+Gud,Herlusk,Undirected,1
+Christus,Herluf,Undirected,2
+Benedikte,fig,Undirected,1
+Gud,fig,Undirected,1
+Benedikte,Hnn,Undirected,1
+Hnn,Peter,Undirected,1
+Peter,Warniche,Undirected,1
+Clamer Stub,Paulun,Undirected,1
+Herluf,Klyver,Undirected,2
+Herluf,Madam Warniche,Undirected,2
+Clamer,Clamer Stub,Undirected,1
+Madam Warniche,fom,Undirected,1
+Benedikte,fom,Undirected,1
+Benedikte,Olden,Undirected,1
+Clamer,Olden,Undirected,1
+Gud,Herluf Nordal,Undirected,1
+Enevoldsen,Herluf,Undirected,2
+Herluf,fom,Undirected,1
+Lydia,Mamsel,Undirected,1
+Ehrenreich Norbal,ester,Undirected,1
+Herlus,Laura,Undirected,1
+Herluf,Jomfru Benedikfe,Undirected,1
+Gud,Kongm,Undirected,1
+Gud,Vinhns,Undirected,1
+Herluf,Jomfru Benedikte,Undirected,1
+Enevoldsen,Madam Lydia,Undirected,1
+Benedikte,Clamer,Undirected,1
+Benedikte,Skjebne,Undirected,1
+Olden,lille Clamer,Undirected,1
+Enevoldsen,lille Clamer,Undirected,1
+Stub,Tran,Undirected,1
+Clamer,Tran,Undirected,1
+Andreas,ester,Undirected,1
+Andreas,Ehrenreich Nordal,Undirected,1
+Graad,Gud,Undirected,1
+Graad,Herlus,Undirected,1
+Herluf,lilbage,Undirected,1
+Ask,Herluf,Undirected,1
+Andreas,Gud,Undirected,1
+Enevoldsen,Gud,Undirected,2
+Benedikle,Madam Warniche,Undirected,3
+Benedikte,Rysfelse,Undirected,1
+Andreas Nordal,Olden,Undirected,1
+Andreas Nordal,Laura,Undirected,1
+Clamer,paany,Undirected,1
+Benedikte,Nellik,Undirected,1
+Nellik,Stub,Undirected,1

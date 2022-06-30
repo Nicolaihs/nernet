@@ -1,0 +1,202 @@
+source,target,type,weight
+Jomfru Holst,Nils,Undirected,1
+Holst,Kirsten Holst,Undirected,1
+Holst,Proprietær Rings,Undirected,1
+Hilda,Marianne,Undirected,13
+Andreasen,Kirsten Holst,Undirected,2
+Andreasen,Mads Foss,Undirected,1
+Kirsten Holst,Stakkars,Undirected,1
+Fossegaards,Kirsten Holst,Undirected,1
+Edike,Hilda,Undirected,1
+Mads Foss,Marianne,Undirected,7
+Hubroen,Marianne Foss,Undirected,1
+Bastian Borg,Marianne Foss,Undirected,1
+Bastian,Marianne,Undirected,2
+Bastian Borg,fælleds,Undirected,1
+Anne,Henrik,Undirected,1
+John Foss,Mads Foss,Undirected,1
+Duren,Mads Foss,Undirected,1
+John,j,Undirected,1
+Hilda,Majorens,Undirected,1
+Biermanns,Majorens,Undirected,1
+Mads Foss,Robarth,Undirected,1
+Johnny,Robarth,Undirected,1
+Johnny,Marianne,Undirected,8
+Jomfru Holst,Marianne,Undirected,3
+Fars,Marianne,Undirected,2
+Husch,Marianne,Undirected,1
+Marianne,Stryet,Undirected,1
+Architekt Schiørn,Marianne,Undirected,1
+Høslaatten,Marianne,Undirected,1
+Henrik,Marianne,Undirected,10
+Jomfru Høist,Marianne,Undirected,1
+Marianne Borg,Marianne Foss,Undirected,1
+Johnny,Wiese,Undirected,6
+Hilda,Johnny,Undirected,1
+Hilda,Kanske,Undirected,1
+Antonia,Kanske,Undirected,1
+Biermanns,Johnny,Undirected,1
+Biermanns,Mina,Undirected,1
+Antonia,Griiner,Undirected,1
+Griiner,Marianne,Undirected,1
+Kirsten Holst,Marianne,Undirected,1
+Holst,Wiese,Undirected,1
+Holst,Marianne,Undirected,1
+Moro,Nichts,Undirected,1
+Marianne,Moro,Undirected,1
+Biermann,Johnny,Undirected,3
+Biermann,Ferdinand Wiese,Undirected,1
+Hysing,Marianne,Undirected,3
+Marianne,Saturnus,Undirected,1
+Marianne,Wiese,Undirected,6
+Biermann,Mina,Undirected,2
+Biermann,Shawler,Undirected,1
+Shawler,Wiese,Undirected,1
+Adiø,Wiese,Undirected,1
+Fossegaard,Marianne,Undirected,1
+Andreasen,Henrik,Undirected,1
+Andreasen,Johnny,Undirected,2
+Berthelsen,Binas,Undirected,1
+Gud,Mads Foss,Undirected,1
+Marianne,Mina,Undirected,4
+Johnny,Mina,Undirected,2
+Henrik,Hilda,Undirected,6
+Andreasen,Gud,Undirected,1
+Andreasen,Flan,Undirected,1
+Flan,Fossegaard,Undirected,1
+Fossegaard,Henrik,Undirected,2
+Antonia,Henrik,Undirected,3
+Henrik,Holst,Undirected,1
+Hilda,Mads F'oss,Undirected,1
+Henrik,Mads F'oss,Undirected,1
+Kirsten Holst,Mads Foss,Undirected,1
+Henrik,Jomfru Holst,Undirected,2
+Henrik,nedenifra Mads Foss,Undirected,1
+Hilda,Kirsten,Undirected,1
+Gutten,Kirsten,Undirected,1
+Gutten,Johnny,Undirected,1
+Bertha,Marianne,Undirected,1
+Fossegaard,schen,Undirected,1
+Henrik,Minda,Undirected,1
+Ellingsens,Minda,Undirected,1
+Ellingsens,Foss,Undirected,1
+Foss,Marianne,Undirected,1
+Anton Johannesen,Marianne,Undirected,1
+Johnny,Liv,Undirected,1
+Anton Johannesen,Johnny,Undirected,2
+Johnny,Lorden,Undirected,1
+Lorden,iland,Undirected,1
+Johnny,iland,Undirected,1
+Johannesen,Johnny,Undirected,1
+Johnny,yar,Undirected,1
+Alette,Johnny,Undirected,5
+Alette,Hilda,Undirected,1
+Hilda,grejti,Undirected,1
+Mina Biermann,grejti,Undirected,1
+Marianne,Mina Biermann,Undirected,1
+Ellingsens,Hilda,Undirected,1
+Fossegaard,Johnny,Undirected,3
+Holst,Ola,Undirected,1
+Alette,Holst,Undirected,1
+Johnny,Sjauen,Undirected,1
+Ferdinand Wiese,Sjauen,Undirected,1
+Falbes,Strauss,Undirected,1
+Atlaskes,Tilda,Undirected,1
+Bastian,Tilda,Undirected,1
+Bastian,Hysing,Undirected,1
+Antonia,Wiese,Undirected,1
+Kirsten,Marianne,Undirected,4
+Hilda,Mina,Undirected,1
+Bertha Ellingsen,Henrik,Undirected,1
+Bertha Ellingsen,Wiese,Undirected,1
+Marianne,Minda,Undirected,1
+Antonia,Johnny,Undirected,3
+Biermann,Henschen,Undirected,1
+Bertha Ellingsen,Fars,Undirected,1
+Johnny,akurat,Undirected,1
+Mads Foss,akurat,Undirected,1
+Biermann,Mads Foss,Undirected,1
+Gruner,Mina,Undirected,1
+Henrik,Mina,Undirected,1
+Biermann,Henrik,Undirected,1
+Antonia,Biermann,Undirected,1
+Antonia,Mads Foss,Undirected,1
+Bastian,Wiese,Undirected,1
+Gruner,Wiese,Undirected,1
+Biermann,Gruner,Undirected,1
+Griiner,Johnny,Undirected,1
+.Biermanns,Griiner,Undirected,1
+Henrik,Hysing,Undirected,2
+Hysing,isommer,Undirected,1
+Ellingsens,Henrik,Undirected,1
+Bertha,Ellingsens,Undirected,1
+Karuds,Kirsten,Undirected,1
+Bertha Ellingsen,Hilda,Undirected,1
+Bertha Ellingsen,Mads Foss,Undirected,1
+Bertha,Mads Foss,Undirected,1
+Biermann,Hilda,Undirected,1
+Jomfru Holst,braat,Undirected,1
+Borg,Hilda,Undirected,1
+Mads Foss,ostensiv,Undirected,2
+Biermann,Bjølstad,Undirected,1
+Mads Foss,s,Undirected,1
+Ellingsen,Hilda,Undirected,1
+Bjølstad,Hilda,Undirected,1
+Bjølstad,Marianne,Undirected,2
+Bjølstad,Fossegaard,Undirected,1
+Jenta mi,Johnny,Undirected,1
+Bjølstad,Mads Foss,Undirected,1
+Ferdinand Wiese,Mads Foss,Undirected,1
+Henrik,Mads Foss,Undirected,1
+Mads Foss,Wiese,Undirected,1
+Holst,Mads Foss,Undirected,1
+Hilda,Holst,Undirected,1
+Johnny,Peltskaaben,Undirected,1
+Robarth,Toddy,Undirected,1
+Henrik,Skjænken,Undirected,1
+Hilda,Mads Foss,Undirected,1
+Madam Torbjørnsen,Marianne,Undirected,2
+Henrik,Madam Torbjørnsen,Undirected,1
+Kirsten,Torbjørnsen,Undirected,1
+Henrik,Johnny,Undirected,4
+Gubben,Marianne,Undirected,1
+Antonia,Gubben,Undirected,3
+Antonia,Mina Biermann,Undirected,1
+Biermann,Gubben,Undirected,1
+Biermann,Griiner,Undirected,2
+Antonia,Mina,Undirected,2
+Antonia,Marianne,Undirected,5
+Antonia,Bastian,Undirected,1
+Biermann,Marianne,Undirected,2
+Biermann,Robarth,Undirected,1
+Henrik,Robarth,Undirected,1
+Lea,Rakel,Undirected,1
+Bertha,Kirsten,Undirected,1
+Kirsten,Kirsten Holst,Undirected,1
+Marianne,hans,Undirected,1
+Antonia,Jomfru Holst,Undirected,1
+Antonia,Kirsten,Undirected,1
+Antonia,Hilda,Undirected,1
+Antonia,Gudbevars,Undirected,1
+Gudbevars,Mina,Undirected,1
+Henrik,Kirsten,Undirected,4
+Andreasen,Fars,Undirected,1
+Andreasen,Peder Haalbakken,Undirected,1
+Comp.s,Johnny,Undirected,1
+Fejer,Foss,Undirected,1
+Johnny,Kudsk,Undirected,1
+Alette,Henrik,Undirected,1
+Johnny,Willy,Undirected,3
+Henrik,lians,Undirected,1
+Anton Johannesen,Henrik,Undirected,2
+Minda Henschen,Vanke,Undirected,1
+Sands,Willy,Undirected,1
+Johnny,lille Willy,Undirected,1
+Adiø,Alette,Undirected,1
+Bo,Hr. Foss,Undirected,1
+Olafsen,Viggers,Undirected,1
+Johnny Foss,Olafsen,Undirected,1
+Johnny Foss,s,Undirected,1
+Gubben,lille Tony mi,Undirected,1
+Johannesen,Madam Torbjørnsen,Undirected,1
+Borg,Madam Torbjørnsen,Undirected,1

@@ -1,0 +1,161 @@
+source,target,type,weight
+Alma,Skov,Undirected,1
+Alma,Erna,Undirected,10
+Brun,Hansen,Undirected,1
+Alma,Brun,Undirected,1
+Alma,Tangs,Undirected,1
+Erna,Urne,Undirected,6
+Tang,Urne,Undirected,2
+Alma,Tang,Undirected,7
+Pastor Urne,Tang,Undirected,1
+Alma,Urne,Undirected,1
+Tang,Taug,Undirected,1
+Erna,Tang,Undirected,22
+Tang,lians,Undirected,1
+Alma,Boje,Undirected,1
+Boje,Tang,Undirected,4
+Boje,Bondesen,Undirected,1
+Grundtvig,Ingemann,Undirected,1
+Holst,Urne,Undirected,1
+Erna,Hvidby,Undirected,1
+Bondesen,Tang,Undirected,1
+Bondesen,Grundtvig,Undirected,1
+Erna,Heise,Undirected,1
+Heise,Schumann,Undirected,1
+Augustin,Calvin,Undirected,1
+Calvin,Luther,Undirected,1
+Gud,Luther,Undirected,4
+Gud,Karl den,Undirected,1
+Gud,Hvidby,Undirected,1
+Hvidby,Tang,Undirected,1
+Erna,Gud,Undirected,3
+Bette,Erna,Undirected,1
+Gud,Mylady,Undirected,1
+Gud,Urne,Undirected,1
+Petersen,Urne,Undirected,1
+Petersen,sorn,Undirected,1
+Erna,Eru Bojes,Undirected,1
+Bjørnsons,Heise,Undirected,1
+Boje,Hvidby,Undirected,1
+Hvibys,Hvidby,Undirected,1
+Tang,liun,Undirected,1
+Chopin,Erna,Undirected,1
+Alma,Gud,Undirected,1
+Faders,Karl,Undirected,3
+Gud,Karl,Undirected,2
+Fader,Karl,Undirected,2
+Karl,Stenberg,Undirected,1
+Brun,Stenberg,Undirected,1
+Brun,Otto,Undirected,1
+Brun,Tang,Undirected,4
+Brun,Erna,Undirected,1
+Tang,Voltaire,Undirected,1
+Byron,Voltaire,Undirected,1
+Byron,Guiccioli,Undirected,1
+Guiccioli,Stuart Miil,Undirected,1
+Bruno,Stuart Miil,Undirected,1
+Bruno,Tang,Undirected,1
+Ema,Tang,Undirected,1
+Ema,Stenberg,Undirected,1
+Emil Valter,Erna,Undirected,1
+Erna,Valter,Undirected,6
+Hnn,Valter,Undirected,1
+Tang,Valter,Undirected,3
+Luther,Tang,Undirected,1
+Hans Heilingf,Hr. Tang,Undirected,1
+Simonsen,Valter,Undirected,1
+Mishag,Tang,Undirected,1
+Erna,Mishag,Undirected,1
+Tang,liendes,Undirected,1
+Don Juan,Viggo Berner,Undirected,2
+Rosenvinge,lian,Undirected,1
+Berner,Tang,Undirected,10
+Erna,Viggo Berner,Undirected,1
+Berner,Dupuys,Undirected,1
+Erna,Julius Lange,Undirected,1
+Julius Lange,Tang,Undirected,1
+Ber,Berner,Undirected,1
+Berner,Erna,Undirected,39
+Ber,Erna,Undirected,1
+Berner,Erna »,Undirected,1
+Erna,Erna »,Undirected,1
+Gud,Tang,Undirected,4
+Berner,Juan,Undirected,1
+Correggios,Erna,Undirected,1
+Correggios,Tizians,Undirected,1
+Giulio Romanos,Tizians,Undirected,1
+Giulio Romanos,Psykes,Undirected,1
+Gyges,Psykes,Undirected,1
+Berner,Gyges,Undirected,1
+Dionysos,Erna,Undirected,1
+Dionysos,Semeles,Undirected,1
+Baudin,Tang,Undirected,1
+Baudin,Bruno Tang,Undirected,1
+Bruno Tang,Erna,Undirected,1
+Berner,Hartmanns,Undirected,1
+Hartmanns,Salomons,Undirected,1
+Salomons,Sulamits,Undirected,1
+Berner,liam,Undirected,1
+Erna,liam,Undirected,1
+Madsen,Viggo Berner,Undirected,1
+Berner,Viggo Berner,Undirected,1
+Erna,Madsen,Undirected,2
+Emmy Madsen,liun,Undirected,1
+Erna,liun,Undirected,1
+Berner,Emmy,Undirected,1
+Berner,Madsen,Undirected,1
+Berner,Hr. Madsens,Undirected,1
+Erna,Otto,Undirected,8
+Alma,hnn,Undirected,1
+Gud,hnn,Undirected,1
+Alma,lian,Undirected,1
+Alma Tang,lian,Undirected,1
+Alma,Alma Tang,Undirected,1
+Frøken Skov,Tang,Undirected,1
+Frøken Skov,Stenberg,Undirected,1
+Alma,Berner,Undirected,2
+Gud,lian,Undirected,1
+Erna Stenberg,Tang,Undirected,1
+Hr. Berner,Madsen,Undirected,1
+Erna,Voldborgs,Undirected,2
+Gud,kim,Undirected,1
+Newman,Stein,Undirected,1
+Orestes,Stein,Undirected,1
+Brownson,Orestes,Undirected,1
+Erna,dyb,Undirected,1
+Hr. Rasmussen,Otto,Undirected,1
+Ema,Erna,Undirected,1
+Gustav Adolfs,Zacharias Topelius,Undirected,1
+Berner,Spaadoms,Undirected,1
+Berner,Gud,Undirected,1
+Bauers,Erna,Undirected,1
+Bauer,Gud,Undirected,2
+Bauer,Erna,Undirected,3
+Bauer,Be,Undirected,1
+Be,Gud,Undirected,1
+Bauer,Otto,Undirected,3
+Bauer,Newman,Undirected,1
+Brownson,Newman,Undirected,1
+Beusch,Brownson,Undirected,1
+Beusch,Erna,Undirected,1
+Erna,Schweifs,Undirected,1
+Peters,Tang,Undirected,1
+Kristi,Kristus,Undirected,1
+Kristi,hildes,Undirected,1
+Friederich,hildes,Undirected,1
+Friederich,von,Undirected,1
+Spee,von,Undirected,1
+Goethe,Schiller,Undirected,1
+Dante,Schiller,Undirected,1
+Dante,Rafael,Undirected,1
+Kopernikus,Rafael,Undirected,1
+Kopernikus,Mozart,Undirected,1
+Beethoven,Mozart,Undirected,1
+Beethoven,Manzoni,Undirected,1
+Manzoni,el,Undirected,1
+Gud,Otto,Undirected,1
+Erna,Madonna,Undirected,1
+Madonna,Maria,Undirected,1
+Stenberg,Tang,Undirected,1
+Gud,liun,Undirected,1
+L i,liai-,Undirected,1

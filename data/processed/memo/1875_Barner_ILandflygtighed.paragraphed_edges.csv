@@ -1,0 +1,637 @@
+source,target,type,weight
+Kong Chrisfian,Siig,Undirected,1
+Ivan Mironausco,Kong Edvards,Undirected,1
+Calvins,Kong Edvards,Undirected,1
+Calvins,Drot,Undirected,1
+Knud Torbensen,Kong Edvards,Undirected,1
+Kong Edvards,Marie,Undirected,1
+Feodora Mironausco,Johan a Lasco,Undirected,1
+Johan a Lasco,Kong Edvard,Undirected,1
+Kong Christians,Kong Edvard,Undirected,1
+Johan a Lasco,Martinus Micronius,Undirected,1
+Johan Utenhov,Martinus Micronius,Undirected,1
+Colding,Johan Utenhov,Undirected,1
+Colding,didhen,Undirected,1
+didhen,naadigen,Undirected,1
+Gud,Knud Torbensen,Undirected,3
+Elfe Svenning,fom,Undirected,1
+Junker Slentz,fom,Undirected,1
+Jomfru Elses,Junker Slentz,Undirected,1
+Jomfru Elses,Kong Hanses,Undirected,1
+Christine,Kong Hanses,Undirected,1
+Jesper Persen,Knud Torbensen,Undirected,2
+Agnete Abbelgaardt,Torbensen,Undirected,1
+Agnete Abbelgaardt,Sjunge,Undirected,1
+Aage Torbenfens,Agnetes,Undirected,1
+Aage Torbenfens,Jørgen Heller,Undirected,1
+Jørgen Heller,Jørgen Hykler,Undirected,1
+Dokfor Petrus Palladius,Jørgen Hykler,Undirected,1
+Dokfor Johannes Maccabæus Alpinas,Dokfor Petrus Palladius,Undirected,1
+Agnete,Knud Torbensen,Undirected,7
+Agnete,Jens Abbelgaardt,Undirected,1
+Knud Torbensen,Palladius,Undirected,1
+Jens Abbelgaardt,Palladius,Undirected,1
+Palladius,Zwingli,Undirected,1
+Calvin,Zwingli,Undirected,3
+Christi,Christus,Undirected,1
+Kong Christigns,Luthers,Undirected,1
+Kong Christian,Poul N ' oviomagus,Undirected,1
+Bellas,Christopher Michelsen,Undirected,1
+Christopher Michelsen,Lauritz Hellesen,Undirected,1
+Johannes,Lauritz Hellesen,Undirected,1
+Helle,Johannes,Undirected,1
+Aage Torbensens,Henrik,Undirected,1
+Henrik,Maccabæus,Undirected,1
+Macalpin,grant,Undirected,1
+Jørgen Heklers,Philippus Melanchton,Undirected,1
+Jørgen Hekler,Skotte,Undirected,1
+Baccalaureus,Skotte,Undirected,1
+Macalpin,Melanchton,Undirected,1
+Judas MaccabcenS.,Macalpin,Undirected,1
+Erkebispen,Sagtmodighd,Undirected,1
+Erkebispen,Gud,Undirected,1
+Knud Torbensen,svor,Undirected,1
+Jørgen,Knud Torbensen,Undirected,1
+Agnete Abbelgaardt,Jørgen,Undirected,3
+Maccabæus,Palladius,Undirected,1
+Jens Abbelgaardt,Maccabæus,Undirected,1
+Gobelins,Torbensen,Undirected,1
+Johannes Calvin,Martin Luther,Undirected,1
+Johannes Calvin,Zwingli,Undirected,1
+Aage Torbensen,Luther,Undirected,2
+Christi,Kong Christian,Undirected,1
+Christi,Zwingli,Undirected,1
+Calvin,Zwingst,Undirected,2
+Godske,Svend,Undirected,1
+Povel Hansen,Svend,Undirected,1
+Godske,Povel Hansen,Undirected,1
+Knud Torbensen,Kong Christian,Undirected,1
+Agnete,aarle,Undirected,1
+Agnete,Jørgen Hekler,Undirected,3
+Aages,Jørgen Hekler,Undirected,1
+Aages,Jørgen,Undirected,1
+Knud Torbensen,Mironausco,Undirected,4
+Aage,Mironausco,Undirected,2
+Aage,Feodoras,Undirected,1
+Feodora,Feodoras,Undirected,1
+Knud Torbensen,Povl Hansens,Undirected,1
+Christopher,Povl Hansens,Undirected,1
+Christopher,Frantz Willomßen,Undirected,1
+Frantz Willomßen,Godske,Undirected,1
+Godske,Johan a Lasco,Undirected,1
+Godfke,Johan a Lasco,Undirected,1
+Corfitz Ulfeld,Godfke,Undirected,1
+Mironausco,hnn,Undirected,1
+Feodora,hnn,Undirected,3
+Agnete,Feodora,Undirected,20
+Agnete,Jesper Persen,Undirected,4
+Feodora Mironausco,Jesper Persen,Undirected,1
+Feodora Mironausco,aanI,Undirected,1
+Christian,Knud,Undirected,2
+Agnete,Fransten,Undirected,1
+Jomfru Agnete,grant,Undirected,1
+Aage,grant,Undirected,2
+Aage,Torbensen,Undirected,1
+Feodora,Knud Torbensen,Undirected,14
+Agnete,Bo^,Undirected,1
+Hartad,Knud Torbensen,Undirected,1
+Feodora,Saalunde,Undirected,1
+Philip des Comines,Saalunde,Undirected,1
+Agnete,Nicolaus Mironausco,Undirected,1
+Jørgen,Nicolaus,Undirected,1
+Jesper Persen,Jørgen,Undirected,2
+Jesper Persen,Jørgen Hykler,Undirected,1
+Agnete,Jørgen,Undirected,6
+Jespers,Nicolaus,Undirected,1
+Jesper,Nicolaus,Undirected,1
+Jesper,Mironausco,Undirected,2
+Jørgen,Mironausco,Undirected,1
+Bifkop Johan a Lafco,Utenhov,Undirected,1
+Utenhov,tli Colding By,Undirected,1
+Poul Noviomagus,tli Colding By,Undirected,1
+Johan a Lafco,Johan a Lasco,Undirected,1
+Johan a Lasco,Poul Noviamagus,Undirected,1
+Johan Utenhov,Kong Edvard,Undirected,1
+Mecronius,s,Undirected,1
+Confessionarius assloge,Johan a Lasco,Undirected,1
+Confessionarius assloge,Poul Noviomagus,Undirected,1
+Johan a Lafco,Poul Noviomagus,Undirected,1
+Henrik Buscoducense,Johan a Lafco,Undirected,1
+Henrik Buscoducense,Lasco,Undirected,1
+Corfitz Ulfeld,Peder Godskes,Undirected,1
+Christian den,Peder Godskes,Undirected,1
+Christian den,Noviomagus,Undirected,2
+Johan a Lasco,Noviomagus,Undirected,1
+Christian den,Johan a Lasco,Undirected,3
+Christopher,Kong Christian den Tredie,Undirected,1
+Christopher,Johan a Lasco,Undirected,4
+,Christopher,Undirected,3
+Christian den,Christopher,Undirected,3
+Christian den,Jnnker,Undirected,1
+Jnnker,Johan a Lafco,Undirected,1
+Edvard,Johan a Lasco,Undirected,1
+Christopher,Noviomagus,Undirected,1
+Johan Friis,Johan a Lasco,Undirected,2
+,Johan Friis,Undirected,2
+Christopher,Confessionarius,Undirected,1
+Confessionarius,Johan a Lasco,Undirected,1
+Christian den Tredie,Johan a Lasco,Undirected,2
+Christian den Tredie,Papisf,Undirected,1
+Johan a Lasco,Papisf,Undirected,1
+Noviomagus,christen,Undirected,1
+christen,nidkjær,Undirected,1
+Gud,Johan a Lasco,Undirected,1
+Gud,mcegter,Undirected,1
+Noviomagus,Theologus,Undirected,1
+Henrik Buscoducense,Johan a Lasco,Undirected,2
+Christian den,Henrik Buscoducense,Undirected,1
+Christian den,Colloquium,Undirected,1
+Colloquium,Noviomagus,Undirected,1
+Christopher,Utenhov,Undirected,2
+Johan a Lasco,Spaanild,Undirected,1
+Christi,Utenhov,Undirected,1
+Christi,Christopher,Undirected,1
+Johan a Lasco,Poul Noviomagus,Undirected,2
+Johan a Lasco,christen Barmhjertighed,Undirected,1
+Johannes,christen Barmhjertighed,Undirected,1
+Chrisfopher,ilive,Undirected,1
+Chrisfopher,Christian den Tredie,Undirected,2
+Chrisfopher,Mesfer Henrik Buscodusence,Undirected,1
+Mesfer Henrik Buscodusence,sorn,Undirected,1
+Christopher,sorn,Undirected,1
+Christopher,Wynen,Undirected,1
+Wynen,sormaa,Undirected,1
+a Lascos,sormaa,Undirected,1
+Kong Christian,Utenhov,Undirected,1
+Kong Christian,christen Konge,Undirected,1
+Johan a Lasco,Utenhov,Undirected,1
+Christian den,Utenhov,Undirected,1
+Christian den,Godske,Undirected,1
+Godske,Peder Palladius,Undirected,1
+Godfredt Wynen,Johan a Lasco,Undirected,1
+Hermes Backerelius,Mironausco,Undirected,1
+David Simson,Hermes Backerelius,Undirected,2
+David Simson,Nicolaus,Undirected,1
+Feodora,Nicolaus,Undirected,9
+David Simson,Palladius,Undirected,2
+David Simson,Hermes,Undirected,1
+Hermes,Povel Hansen,Undirected,1
+Palladius,Simsons,Undirected,1
+Palladius,Simson,Undirected,1
+Feodora,Hermes,Undirected,2
+Feodora,Palladius,Undirected,1
+Calvin,Johannes Macabæus,Undirected,1
+Agnete,Calvin,Undirected,1
+Aage,Abbelgaardt,Undirected,1
+Agnete,felv,Undirected,1
+Dotters,felv,Undirected,1
+Dotters,Mesfer Abbelgaardts,Undirected,1
+Agnete,Mesfer Abbelgaardts,Undirected,1
+Edele,Knud Torbensen,Undirected,1
+Edele,von Hack,Undirected,1
+Feodor,Feodora Mironausco,Undirected,1
+Feodor von Hack,Feodora Mironausco,Undirected,1
+Christian,Sorrig,Undirected,1
+Agnete,Christus,Undirected,1
+Christus,son,Undirected,1
+Aage Torbensen,Knud,Undirected,1
+Aage Torbensen,Gud,Undirected,1
+Agnete,Gud,Undirected,1
+Agnete,Knud,Undirected,7
+Knud,Polakinde,Undirected,2
+Feodora,Knud,Undirected,34
+Aage,Agnete,Undirected,18
+Agnete,Jesus,Undirected,1
+Aage sfudsede,Jesus,Undirected,1
+Aage sfudsede,Jesu,Undirected,1
+Aage sfudsede,Gud,Undirected,1
+Aage,Gud,Undirected,4
+Knud“,taus,Undirected,1
+Aage,taus,Undirected,1
+Glavind,Johan a Lasco,Undirected,1
+Christopher,Knud Torbensen,Undirected,3
+Christian den,Torbensen,Undirected,1
+Christian den,Dokkor Niels Hemmingsens Hus,Undirected,1
+Agnete Abbelgaardt,Dokkor Niels Hemmingsens Hus,Undirected,1
+Agnete Abbelgaardt,Skjold,Undirected,1
+Hermes Backerelius,Jesper Persen,Undirected,1
+Feodora,Martyr Mironauscos,Undirected,1
+Arne,Feodora,Undirected,3
+Johannes,a Lascos,Undirected,1
+Hieronimus a Lasco,Johannes,Undirected,1
+Nicolaus,Polakinde,Undirected,1
+Aarle,Feodora,Undirected,1
+Feodor,Nicolaus,Undirected,1
+Graaskimler,Jesper Persen,Undirected,1
+Feodora,Graaskimler,Undirected,1
+Feodora,Torbensen,Undirected,4
+Jesper Persen,ogFeodora,Undirected,1
+Knud Torbensen,Povel Hansen,Undirected,1
+Mironausco,Povel Hansen,Undirected,1
+Nicolaus,Portechaisen,Undirected,1
+Knud Torbensen,Nicolaus,Undirected,4
+Nicolaus,a Lascos,Undirected,1
+Godefredt Wynen,a Lascos,Undirected,1
+Godefredt Wynen,Hermes Backerelius,Undirected,1
+Jesper,Jørgen H ekler,Undirected,1
+Jesper,"Lisbeth,",Undirected,1
+Jesper,Jørgen Hekler,Undirected,2
+Jesper,Jørgen,Undirected,7
+Jesper,Knud Torbensen,Undirected,3
+Jesper,Jørgen Hckler,Undirected,2
+Abbelgaardt,Hckler,Undirected,1
+Agnete,Torbensen,Undirected,3
+Aage Torbensen,Jomfru Agnete,Undirected,1
+Jesper,Svend,Undirected,1
+Jørgen ester,Svend,Undirected,1
+Jørgen,Jørgen Hekler,Undirected,1
+Jesper,Torbensen,Undirected,2
+Agnete,Else,Undirected,2
+Abbelgaardt,Jørgen Hekler,Undirected,2
+Abbelgaardt,sra,Undirected,1
+Junkerens,sra,Undirected,1
+Eder,Feodora,Undirected,1
+Agnete lied,Feodor von Hack,Undirected,1
+Agnete,ivare,Undirected,1
+Calvin,Feodora,Undirected,8
+Johan Calvin,Martin Luther,Undirected,2
+Agnete taug,Feodora,Undirected,1
+Aage,Feodora,Undirected,11
+Agnete,Luther,Undirected,3
+Aage,Luther,Undirected,4
+Agnete,Feodor von Hack,Undirected,1
+Christen Petersen,Feodora,Undirected,1
+Aristoteles,Cicero,Undirected,1
+Cicero,Homerus,Undirected,1
+Homerus,Virgils,Undirected,1
+Feodora,Luther,Undirected,9
+Wartburg,Zwingli,Undirected,1
+Martin Luther,Zwingli,Undirected,1
+Luther,Martin Luther,Undirected,1
+Gud,Luther,Undirected,2
+Luther,Zwingli,Undirected,3
+Vockingers,Zwingli,Undirected,1
+Aage,Zwingli,Undirected,2
+Christus,Luther,Undirected,2
+Feodora taus,Knud,Undirected,1
+Aage,Knud,Undirected,11
+Calvin,Peters,Undirected,1
+Calvin,Luther,Undirected,2
+Knud,Luther,Undirected,2
+Calvin,Knud,Undirected,3
+Gud,Knud,Undirected,3
+Farels,Feodora,Undirected,1
+Calvin,Farels,Undirected,1
+Calvin,Kjætterbaal,Undirected,1
+Christ,Knud,Undirected,1
+Feodora,grant,Undirected,1
+Feodora,Mironausco,Undirected,4
+Mironausco,Torbensen,Undirected,1
+Knud,Nicolaus,Undirected,2
+Johan a Lasco,Knud,Undirected,2
+Feodora,Johan a Lasco,Undirected,5
+Feodora,kirkegaard,Undirected,1
+Aage Torbensen,Christopher,Undirected,1
+Christopher,Feodora,Undirected,6
+Chrisfopher,esterdi Krigshornet,Undirected,1
+Pesfen,effen,Undirected,1
+Gustav,Iwan Basilowitz,Undirected,1
+Iwan Basilowitz,Kong Gustav,Undirected,1
+Chrisfopher,Kong Christian,Undirected,1
+Chrisfopher,Henrik,Undirected,1
+Feodora,Henrik,Undirected,1
+Keiser Carl,Mogens Gyldenstjerne,Undirected,1
+Allenfals,Christopher,Undirected,1
+Christopher,Knud,Undirected,2
+Aage,Christopher,Undirected,2
+Annas,Dorothea,Undirected,1
+Annas,August,Undirected,1
+August,Christ skjærme,Undirected,1
+Aage færdedes,Knud Torbensen,Undirected,1
+Henrik,Kong Christian,Undirected,1
+Feodora,Seiladsen,Undirected,1
+Feodora sorfærdef,Johan a Lasco,Undirected,1
+Knud Torbensen,Luther,Undirected,3
+Calvin,Knud Torbenfen,Undirected,1
+Adam,Eva,Undirected,1
+Bernhardin Samson,Gud,Undirected,1
+Bernhardin Samson,Calvin,Undirected,1
+Johanniter-Comthuren Conrad Schmidt,Paulus,Undirected,1
+Aage,Johan a Lasco,Undirected,2
+Luther,Melanchton,Undirected,2
+Arne,sorn,Undirected,1
+Arne,Knud,Undirected,2
+Knud,son,Undirected,1
+Knud Torbensen,son,Undirected,1
+Feodora,Zwingli,Undirected,1
+Knud,Knud Torbensen,Undirected,2
+Jørgen,Knud,Undirected,15
+Knud,Ronde,Undirected,1
+Jørgen,Ronde,Undirected,1
+Hekler,Jørgen,Undirected,2
+Hekler,Knud,Undirected,3
+Knud Torbensen,Lisbeth,Undirected,1
+Jacob,Lisbeth,Undirected,1
+Jacob,Jørgen,Undirected,1
+Jørgen,Madam Jacob,Undirected,2
+Lisbeth,Martin Luther,Undirected,1
+Jørgen,Lisbeth,Undirected,9
+Jesper,Jomfru Agnete,Undirected,1
+Jomfru Agnete,Lisbeth,Undirected,1
+Hekler,Lisbeth,Undirected,1
+Agnete,Lauritz Fenkel,Undirected,2
+Jørgen,Lauritz Fenkel,Undirected,2
+Aage,Jørgen,Undirected,3
+Jørgen,taug,Undirected,1
+Hans Svend Jesper,Jørgen,Undirected,1
+Hans Svend Jesper,Uraad,Undirected,1
+Else,Uraad,Undirected,1
+Baccalaureus Jørgen Hekler,Else,Undirected,1
+Baccalaureus Jørgen Hekler,Jesper,Undirected,1
+Calvin,Nicolaus,Undirected,1
+Calvin,Knud Torbensen,Undirected,1
+Johan a Lasco,Knud Torbensen,Undirected,2
+Leo Juda,Zwingli,Undirected,1
+Leo Juda,Philip Melanchton,Undirected,1
+Martin Luther,Philip Melanchton,Undirected,1
+Sekretair Christopher,Trende,Undirected,1
+Maccabceus Malcapin,Sekretair Christopher,Undirected,1
+Christopher,Kong Christian,Undirected,1
+Christopher,Johan,Undirected,1
+Elisabeth,Johan,Undirected,1
+Elisabeth,Ulrich,Undirected,2
+Anna Sophia,Johan Albrecht,Undirected,1
+Albrecht,Anna Sophia,Undirected,1
+Albrecht,Kong Christian,Undirected,1
+Kong Christian,Otto Krumpen,Undirected,1
+Holger Rosenkrands,Otto Krumpen,Undirected,1
+Dandsen,Holger Rosenkrands,Undirected,1
+Dandsen,Kong Sigismund,Undirected,1
+Christian,Kong Sigismund,Undirected,1
+Anker,Christian,Undirected,1
+Knnd,Prinds Frederik,Undirected,1
+Christopher,Niels,Undirected,1
+Knnd,Niels,Undirected,1
+Kong Gustav,Niels,Undirected,1
+Luther,Palladius,Undirected,1
+Katholskes,Luther,Undirected,1
+Katholskes,Maccabceus,Undirected,1
+Maccabceus,Zwingli,Undirected,1
+Aage,Carlstadt,Undirected,1
+Carlstadt,Zwingli,Undirected,2
+Carlstadt,Luther,Undirected,1
+Hagenbach,Luther,Undirected,1
+Aage,Christus,Undirected,2
+Christi,Johannes,Undirected,1
+Feodora,Gud,Undirected,5
+Calvin,Gud,Undirected,1
+Christopher,Gustav,Undirected,1
+Christian den,Johan Albrecht,Undirected,1
+Christian den,Elisabeth,Undirected,1
+Magnus,Ulrich,Undirected,1
+Balthasar,Magnus,Undirected,1
+Balthasar,Vilkaar,Undirected,1
+Erik Krabbe,Johan,Undirected,1
+Christian den,Erik Krabbe,Undirected,1
+Nicolaus,ane,Undirected,1
+Aage,ane,Undirected,1
+Luther,Zwingst,Undirected,1
+Chrisfus,Luther,Undirected,1
+Chrisfus,Gud,Undirected,2
+Christus,Feodora,Undirected,2
+Christus,Gud,Undirected,5
+Chrisfi Kjød,Gud,Undirected,2
+Gud,Zwingli,Undirected,1
+Aage,Martin Luther,Undirected,1
+August Wildenhahu,Martin Luther,Undirected,1
+Chrisfus,Christi,Undirected,1
+Christi,Gud,Undirected,1
+Christus aldenstund,Gud,Undirected,1
+Feodora,Martin Luther,Undirected,1
+Elsfov,Knud,Undirected,1
+Broder,Feodora,Undirected,1
+Broder,Sorrig,Undirected,1
+Aage,fæsfe,Undirected,1
+Jørgen Hekler,Lisbeth,Undirected,2
+Jørgen,Lisbeth Jacobsdatter,Undirected,1
+Lisbeth Jacobsdatter,lee,Undirected,1
+age,lee,Undirected,1
+Jørgen,^per,Undirected,1
+Jesper,Lauritz Fenkel,Undirected,1
+Lauritz Fenkel,Mette Fenkel,Undirected,1
+Jesper,Mette Fenkel,Undirected,2
+Elfe,Jesper,Undirected,1
+Jørgen,K,Undirected,1
+K,Torbensen,Undirected,1
+Feodora,Jørgen,Undirected,8
+Feodor von Hack,Jørgen,Undirected,1
+Feodor von Hack,Feodora,Undirected,1
+Hack,Hekler,Undirected,1
+Hack,Jørgen,Undirected,1
+Jørgen,fie,Undirected,1
+Feodora,Hekler,Undirected,2
+Feodora seil,Knud,Undirected,1
+Jørgen fil,Knud,Undirected,1
+Jørgen,Jørgen fil,Undirected,1
+Abbelgaardt,Agnete,Undirected,3
+Agnete,Sorrig,Undirected,1
+Jørgen,felv,Undirected,1
+Lisbeth Jacobsdatter,felv,Undirected,1
+Lisbeth Jacobsdatter,Mette Fenkel,Undirected,2
+Jens Abbelgaardt,Mette Fenkel,Undirected,1
+Jens Abbelgaardt,Jørgen,Undirected,1
+' En,Jørgen Hekler,Undirected,1
+' En,Jørgen,Undirected,1
+Caprif,Jørgen,Undirected,1
+Agnete,Hekler,Undirected,1
+Aage,Hekler,Undirected,1
+Knud,grant,Undirected,1
+Feodora,Jert,Undirected,1
+Johan a Lasco,lille Nicolaus Mironausco,Undirected,1
+Johan a Lasco,Kong Sigismund,Undirected,2
+Kong Sigismund,Poul van Windth,Undirected,1
+Johan a Lasco,Poul van Windth,Undirected,1
+Chrislus,Paven,Undirected,1
+Arne,Nicolaus^s,Undirected,1
+Feodora,Nicolaus^s,Undirected,1
+Calvin,Troesam,Undirected,1
+Troesam,fkuelse,Undirected,1
+Christian den Ill.,Stephanius,Undirected,1
+Knud,Mironausco,Undirected,1
+Jørgen,lVI,Undirected,1
+Knud,lVI,Undirected,1
+Agnete Abbelgaardt,Feodora,Undirected,1
+Agnete Abbelgaardt,Jesper Persen,Undirected,1
+Jesper,Jesper Persen,Undirected,1
+Jørgen Hekler,Palladius,Undirected,1
+Maccabceus,Palladius,Undirected,1
+Jørgen,Maccabceus,Undirected,1
+Feodora,Maccabæus,Undirected,1
+Hack,Maccabæus,Undirected,1
+Hack,Mironausco,Undirected,1
+LEres,Mironausco,Undirected,1
+Agnete,Feodora-saaledes,Undirected,1
+Feodora,Hack,Undirected,2
+Jesper Persen,Sekretair Christopher,Undirected,1
+Feodora,Sekretair Christopher,Undirected,1
+Gud,Jesper Persen,Undirected,1
+Feodora,Jesper Perfen,Undirected,1
+Christopher,Jesper Perfen,Undirected,1
+Christian den,Johannes Wigands,Undirected,1
+Haupt-Artickel christlicher Lehr,Johannes Wigands,Undirected,1
+Gott,Sonst andern kein,Undirected,1
+Ach Gott,Sonst andern kein,Undirected,1
+Ach Gott,schaff Deinen,Undirected,1
+Feodor von Hack,Jert,Undirected,1
+Knud Torbensen,Torbensen,Undirected,3
+Calvin,grant,Undirected,1
+Arne,grant,Undirected,1
+Jørgen Hekler,Knud Torbensen,Undirected,1
+Feodora,taus,Undirected,1
+Johan a Lasco,effen,Undirected,1
+didhen,effen,Undirected,1
+Christian Vei,Torbensen,Undirected,1
+Christian Vei,Christian den,Undirected,1
+Christian den,Knud Torbensen,Undirected,1
+Feodor von Hack,Luther,Undirected,1
+Feodor von Hack,Torbensen,Undirected,1
+Christian den,Feodora,Undirected,3
+Christopher,Eder,Undirected,1
+Agnete,Graad,Undirected,1
+Feodora,Graad,Undirected,1
+Feodor von Hack,Knud,Undirected,1
+Christian den,Knud,Undirected,2
+Agnete,Mester Abbelgaardts,Undirected,1
+Christopher,Feodora Mironausco,Undirected,2
+Jesper,Knud,Undirected,2
+Lauritz Fenkel,Mette,Undirected,1
+Agnete,Mette,Undirected,1
+Agnete,Jesper,Undirected,3
+Garver Jacobs,Jesper,Undirected,1
+Garver Jacobs,Jørgen,Undirected,1
+Jørgen,Lisbeth ene,Undirected,1
+Lisbeth,gantes,Undirected,1
+Jesper,gantes,Undirected,1
+Jesper,Mette,Undirected,1
+Baccalaureus Jørgen,Mette,Undirected,1
+Agnete Abbelgaardt,Baccalaureus Jørgen,Undirected,1
+Hekler,Jesper,Undirected,1
+Hekler,Lauritz Fenkel,Undirected,1
+Lisbeth,Mette Fenkel,Undirected,1
+Jesper,Lisbeth,Undirected,1
+Agnete,Lisbeth,Undirected,1
+Abbelgaardt,Jørgen,Undirected,3
+Abbelgaardt,Hellers,Undirected,1
+Hellers,Jesper,Undirected,1
+Agnete,Maccabæus,Undirected,2
+Maccabæus,ane,Undirected,1
+Else,Lisbeth Jacobsdatter,Undirected,1
+Hekler,Mette Fenkel,Undirected,1
+Hekler,Mesfer,Undirected,1
+Abbelgaardt,Mesfer,Undirected,1
+Jørgen Hekler,Maccabæus,Undirected,1
+Macalpin,Mesfer Abbelgaardt,Undirected,1
+Jens Abbelgaardt,Lisbeth,Undirected,1
+Jørgen,Voxlys,Undirected,1
+Voxlys,meo,Undirected,1
+Fenkel,meo,Undirected,1
+Aager,Fenkel,Undirected,1
+Jørgen,bavde,Undirected,1
+Jørgen,Mester Abbelgaardts,Undirected,1
+Hekler,Maccabæus,Undirected,1
+Hekler,Lisbeth Jacobsdotter,Undirected,1
+Chrisfopher,Christian den,Undirected,1
+Christian den,Palladius,Undirected,1
+Christian,Palladius,Undirected,1
+Christian,Knud Torbensen,Undirected,1
+Jørgen Heller,Knud Torbensen,Undirected,1
+Jesper,Jørgen Heller,Undirected,1
+Aage,Jesper,Undirected,1
+Agnete,Feodor,Undirected,1
+Feodor,von,Undirected,1
+Hack,von,Undirected,1
+Feodora,Jesper Persen,Undirected,2
+Jesper,ester,Undirected,1
+Aage,ester,Undirected,1
+Aage,Knud Torbensen,Undirected,1
+Gud,Jesper,Undirected,1
+-MedensFeodora,Agnete,Undirected,1
+-MedensFeodora,Feodora,Undirected,1
+-Knud,Feodora,Undirected,1
+Christopher,Feodor von Hack,Undirected,1
+Aage,Taalmod,Undirected,1
+Feodora,Taalmod,Undirected,1
+Kong Christian,le,Undirected,1
+Maccabæus,Mesfer Abbelgaardt,Undirected,1
+Feodor von Hack,Mesfer Abbelgaardt,Undirected,1
+Knud,Torbensen,Undirected,2
+Feodora Luthers,Torbensen,Undirected,1
+Knud,St. Paulus,Undirected,1
+Agnete,Chrisfopher,Undirected,1
+Chrisfopher,Jesper Persen,Undirected,1
+Jesper Persen,Karni,Undirected,1
+Karni,Knud,Undirected,1
+Knud,vexle,Undirected,2
+Anker,Knud,Undirected,1
+Christian,Gud,Undirected,1
+Christian,PoulNoviomagus,Undirected,1
+Christopher,Kong Christian den,Undirected,1
+Christopher,Prinds Frederik,Undirected,1
+Christopher,Martin Luther,Undirected,1
+Gud,Martin Luther,Undirected,1
+BudI,Knud Torbensen,Undirected,1
+Chrisfopher,Knud Torbensen,Undirected,1
+Chrisfian,Chrisfopher,Undirected,1
+Gud,grant,Undirected,1
+Gud,Kong Christian,Undirected,1
+Aage,gak,Undirected,1
+Aage,Arne,Undirected,1
+Arne,Magda,Undirected,1
+Jesper Persen,h.,Undirected,1
+Jesper Persen,Knud,Undirected,1
+Johan a Lasco,Luther,Undirected,1
+Luther,Westphal,Undirected,2
+Luther,Utenhow,Undirected,1
+Johan a Lasco,Utenhow,Undirected,1
+Feodora,Johan a Zasco,Undirected,1
+Johan a Lassco,lille Nicolaus,Undirected,1
+Harboes,Johan a Lassco,Undirected,1
+Harboes,Johan a Lasco,Undirected,1
+Calvin,Johan a Lasco,Undirected,1
+Aage Torbensen,Feodora,Undirected,1
+Aage Torbensen,Nicolaus,Undirected,1
+Nico15,Nicolaus,Undirected,1
+,laus,Undirected,1
+,Luther,Undirected,1
+Luther,Nicolaus,Undirected,1
+Feodora,paaNicolaus,Undirected,1
+,Nicolaus,Undirected,1
+,Feodora,Undirected,1
+Johan a Lafco,Kong Sigismund,Undirected,1
+Johan a Lafco,Nicolaus,Undirected,1
+Feodora.,Nicolaus,Undirected,1
+B.,von H. I. Wetzer,Undirected,1
+B.,Gud,Undirected,1
+Christus,Peter,Undirected,1
+Gud,Peter,Undirected,1
+Feodora,didhen,Undirected,1
+Powitz,didhen,Undirected,1
+Knud,Powitz,Undirected,1
+Johan a Lasco,annammes,Undirected,1
+Nicolaus,dck han,Undirected,1
+Dronning Marie,dck han,Undirected,1
+Dronning Marie,sorn,Undirected,1
+Feodora,Warschau,Undirected,1
+Christopher,Jl,Undirected,1
+Christian den Tredie,Frederik den,Undirected,1
+Knnd,Nicolaus,Undirected,2
+Feodora,Magister Powitz,Undirected,1
+Luther,hartad,Undirected,1
+Gud,hartad,Undirected,1
+Knnd,Torbeusens,Undirected,1
+Feodora,Knnd,Undirected,1
+Feodora,Powitz,Undirected,1
+Knnd,Powitz,Undirected,1
+Nicolaus,Powitz,Undirected,2
+Knud Torbensen,Powitz,Undirected,1
+Martin Luther,Nicolaus,Undirected,1

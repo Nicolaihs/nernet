@@ -1,0 +1,1019 @@
+source,target,timestamp
+Ole Prip,Petersen,2
+Hans Jensen,Ole Prip,2
+Hans Jensen,Kara Mustafas,2
+Dichson,Kara Mustafas,2
+Benedich,Dichson,2
+Benedich,Else Nielsen,2
+Else Nielsen,L. C. Nielsen,2
+Korte Hansen,L. C. Nielsen,2
+Halte Svendsen,Korte Hansen,2
+Halte Svendsen,Schmidt,2
+Hansen,Schmidt,2
+Hansen,Jensen,2
+Jensen,Sørensen,2
+Svendsen,Sørensen,2
+Svendsen,Søren Smuth,2
+Lange Hansen,Søren Smuth,2
+Kara Mustafa,Lange Hansen,2
+Kara Mustafa,Karl Mortensen,2
+Hose Hansen,Karl Mortensen,2
+H. C. Hansen,Hose Hansen,2
+H. C. Hansen,Palle Gram,2
+Palle Bister,Palle Gram,2
+Hose Hansen,Palle Bister,2
+Gud,Kara Mustafa,4
+Gud,Mustafa,4
+Hose Hansen,Kara Mustafa,6
+Hose Hansen,Mustafa,6
+Hansen,Mustafa,6
+Hansen,Kara Mustafa,6
+Gud,Kara Mustafa,6
+Hansen,Palle,9
+Hansen,Moses,11
+Hose Hansen,Kara Mustafa,16
+Kara Mustafa,Palle,18
+Hose Hansen,Kara Mustafa,24
+Gud,Lange Hansen,25
+Gud,Kara Mustafa,25
+Gud,Kara Mustafa,25
+Gud,Lange Hansen,25
+Doctoren,perialis Glaspeter Petersen,28
+Hansen,Hose Hansen,31
+Gud,Søren Smuth,34
+Karl den,Søren Smuth,34
+Gripominus,Storveziren,38
+Arne,Kara Mustafa,41
+Arne,Holtens,41
+Mustafa,kjær,46
+Kara Mustafa,Palle Bister,49
+Hansen,Hose Hansen,50
+Gripominus,Palle Gram,57
+Palle Bister,gram,59
+Palle Tværer,gram,59
+Mustafa,Palle Bister,60
+Palle Bister,St. Paulus,60
+St. Paulus,Titus,60
+Skrævole,Søren Smuth,69
+Hose Hansen,Kara Mustafa,77
+Kara Mustafa,Mustafa,79
+Hose Hansen,Kara Mustafa,84
+Hose Hansen,Mustafa,84
+Gud,Harald Jensen,89
+Benedich,Kukmand,91
+Kara Mustafa,Kukmand,91
+Hose Hansen,Skrævole,92
+Hose Hansen,Ole,93
+Kara Mustafa,Skrævole,99
+Benedich,Kara Mustafa,99
+Benedich,tom,99
+Hose Hansen,Musikus,106
+Benedich,Kara Mustafa,107
+Benedich,Gud,109
+Kara Mustafa,Mustafa,112
+Else,Else Nielsen,114
+Else,Hannibal,114
+Hannibal,Xenophon,114
+Hveen,Xenophon,114
+Hansen,Hose Hansen,121
+Hansen,Søren Smuth,121
+Benedich,Hose Hansen,125
+Hose Hansen,Kara Mustafa,125
+Hose Hansen Conservativ,Kara Mustafa,125
+Hose Hansen,Hose Hansen Conservativ,125
+Hose Hansen,Mustafa,125
+Benedich,Kara Mustafa,126
+Gud,Kara Mustafa,126
+Gud,Jason,127
+Gud,Kara Mustafa,131
+Gud,Kara Mustafa,131
+Gud,Kara Mustafa,131
+Kara Mustafa,Mustafa,131
+Kara Mustafa,Mustafa,131
+Skrævole,Søren Smuth,139
+Benedich,Skrævole,139
+Adam,Benedich,139
+Kara Mustafa,Skrævole,140
+Frøken Thane,Kara Mustafa,144
+Hose Hansen,Søren Smuth,145
+Benedich,Søren Smuth,145
+Benedich,Kara Mustafa,149
+Kara Mustafa,saagar,149
+Mustafa,Palle,152
+Mustafa,Palle,152
+Kara Mustafa,Palle,152
+Gud,Kara Mustafa,152
+Gud,véd,152
+Hose Hansen,Søren Smuth,153
+Kara Mustafa,Søren Smuth,153
+Benedich,Jesajas,155
+Jacobiner,Jesajas,155
+Jacobiner,Kara Mustafa,155
+Kara Mustafa,Mustafa,155
+Musikus Skrævole,Mustafa,155
+Musikus Skrævole,Skrævole,155
+Hose Hansen,Skrævole,155
+Hose Hansen,Søren Smuth,155
+Kara,Kara Mustafa,159
+Kara,Mustafa,159
+Hose Hansen,Kara Mustafa,160
+Kara Mustafa,Søren Smuth,162
+Benedich,Søren Smuth,162
+Benedich,Grand,164
+Benedich,Grand,164
+Benedich,Skrævole,164
+Skrævole,Søren Smuth,164
+Benedich,Søren Smuth,164
+Benedich,Dich,164
+Dich,Gud,164
+Hose Hansen,Mustafa,165
+Kara Mustafa,Mustafa,167
+Hose Hansen,Mustafa,167
+Hose Hansen,Kara Mustafa,167
+Kara Mustafa,Musikus Skrævole,167
+Benedich,Musikus Skrævole,167
+Benedich,Søren,167
+Hose Hansen,Kara Mustafa,169
+Kara Mustafa,Søren Smuth,169
+Benedich,Søren Smuth,169
+Skrævole,Søren Smuth,170
+Hose Hansen,Søren Smuth,170
+Hose Hansen,Kara Mustafa,170
+Skrævole,Søren Smuth,172
+Hose Hansen,Søren Smuth,172
+Hose Hansen,Kara Mustafa,172
+Kara Mustafa,Skrævole,172
+Skrævole,Søren,172
+Hose Hansen,Søren,172
+Hose Hansen,Kara Mustafa,172
+Hose Hansen,Søren Smuth,173
+Kara Mustafa,Skrævole,177
+Kara Mustafa,Skrævole,177
+Kara Mustafa,Søren,179
+Benedich,Søren,179
+Benedich,Hose Hansen,179
+Hose Hansen,Kara Mustafa,179
+Gud,Hose Hansen,183
+Gud,véd,183
+Hansen,véd,183
+Hansen,Hose Hansen,183
+Skrævole,Søren Smuth,185
+Benedich,Skrævole,185
+Kara Mustafa,Søren,187
+Skrævole,Søren,187
+Skrævole,Søren,187
+Skrævole,Søren,187
+Skrævole,Søren,187
+Ole,Søren,187
+Kara Mustafa,Ole,187
+Kara Mustafa,Skrævole,187
+Ole,Skrævole,187
+Kara Mustafa,Ole,187
+Kara Mustafa,Søren Smuth,187
+Ole,Søren Smuth,187
+Musikus Skrævole,Søren Smuth,188
+Banders,Søren Smuth,188
+Banders,Kara Mustafa,188
+Kara Mustafa,Søren,188
+Ole,Søren,188
+Ole,Søren Smuth,188
+Gud,Søren Smuth,188
+Gud,véd,188
+Benedich,Hose Hansen,189
+Gud,Kara Mustafa,194
+Gud,Ole,194
+Søren,Søren Smuth,197
+Søren,Søren Smuth,201
+Frøken Thane,Søren,201
+Ole,Skrævole,204
+Kara Mustafa,Søren Smuth,205
+Kristian,Tyras,206
+Niels,Søren Smuth,208
+Søren,Søren Smuth,208
+Niels,Søren,208
+Frøken Bruhns,Musikus Skrævole,209
+Frøken Bruhns,Ole,209
+Kara Mustafa,Ole,209
+Kara Mustafa,Søren Smuth,209
+Frøken Thane,Søren Smuth,209
+Frøken Bruhn,Kara Mustafa,210
+Kara Mustafa,Musikus,210
+Hose Hansen,Musikus,210
+Benedich,Hose Hansen,210
+Benedich,Frøken Thane,210
+Frøken Thane,Søren Smuth,210
+Søren,Søren Smuth,210
+Palle,Søren,213
+Mustafa,Søren,213
+Kara Mustafa,Palle Bister,214
+Kara Mustafa,Søren Smuth,214
+Søren,Søren Smuth,215
+Palle Gram,Søren Smuth,217
+Søren,Søren Smuth,220
+Søren,lille Søren,220
+Søren,lille Søren,220
+Musikus Skrævole,Søren,222
+Benedich,Musikus Skrævole,222
+Benedich,Gud,222
+Gud,Søren,222
+Kara Mustafa,Palle,223
+Benedich,Søren Smuth,224
+Frøken Bruhn,Hose Hansen,225
+Hose Hansen,Kara Mustafa,226
+Palle,hvast,228
+Kara Mustafa,Karle,231
+Kara Mustafa,Palle Bister,231
+Palle Bister,Tyrken,237
+Hose Hansen,Kara Mustafa,241
+Jupiter,Kara Mustafa,241
+Frøken Bruhn,Jupiter,241
+Hose Hansen,Kara Mustafa,242
+Hose Hansen,Kara Mustafa,243
+Kara Mustafa,Palle,246
+Hose Hansen,Tyrken,249
+Gud,Kara Mustafa,251
+Hose,Kara Mustafa,251
+Hansen,Hose,251
+Hansen,Kara Mustafa,251
+Hose Hansen,Kara Mustafa,252
+Kara Mustafa,Palle,253
+Mustafa,Palle,255
+Hansen,Mustafa,257
+Hose Hansen,Kara Mustafa,259
+Frøken Bruhn,Frøken Thane,265
+Frøken Thane,Pukkelsens,265
+Hansen,Hose,266
+Kara Mustafa,Taal,288
+Hose Hansen,Kara Mustafa,290
+Kara Mustafa,Moses,291
+Hose Hansen,Moses,291
+Hose Hansen,Hr. Pukkelsen,291
+Hr. Pukkelsen,Tokkesen,291
+Gud,Sjofnas,292
+Hansen,Kara Mustafa,294
+Hose Hansen,Kara Mustafa,295
+Abrahams,Kara Mustafa,298
+Pukkelsen,Tokkesen,301
+Pukkelsen,Tokkesen,302
+Ole Nordistuen,Pukkelsen,302
+Bjørnsons,Ole Nordistuen,302
+Hose Hansen,Petum,309
+Gud,Petum,309
+Maurers,Petum,313
+Palle,Palle Bister,318
+Palle,Pukkelsen,318
+Hose Hansen,Kara Mustafa,320
+Bamse,Hose Hansen,321
+Kara Mustafa,Lisbeth,326
+Mustafa,Palle Bister,332
+Palle Bister,Palle Bister-,332
+Pukkelsen,Tokkesen,336
+Frøken Thane,Tokkesen,336
+Frøken Bruhn,Frøken Thane,336
+Hose Hansen,Kara Mustafa,337
+Hose Hansen,Kara Mustafa,339
+Hose Hansen,Kara Mustafa,340
+Thane,Wodrofsvej Nr.,341
+Marie Sofie Agnete Thane,Wodrofsvej Nr.,341
+Palle,Tyrken,345
+a,lid,348
+Hose Hansen,a,348
+Hose Hansen,Kara Mustafa,348
+Kara Mustafa,Lifthers,348
+Kara Mustafa,Lifthers,348
+Hose Hansen,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,348
+Esajas,Kara Mustafa,348
+Esajas,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,348
+Hose Hansen,Kara Mustafa,350
+Hose Hansen,Palle,351
+Palle,lian,353
+Hose Hansen,Tyrken,355
+Tyrk,Tyrken,355
+Hose Hansen,Kara Mustafa,365
+Hose Hansen,Krapyl,366
+Hose Hansen,Kara Mustafa,366
+Hedegaard,Kara Mustafa,366
+Hedegaard,Mortensen,367
+Kara Mustafa,Mortensen,367
+Frits,Gamle Mortensen,371
+Frits,Hose Hansen,371
+Hose Hansen,Mortensen,371
+Frits,Mortensen,371
+Frits,age med,371
+Hose Hansen,age med,371
+Frits,Mortensen,372
+Frits,Studen,374
+Frits,Mortensen,374
+Mortensen,Studen,374
+Frits,Studen,374
+Frits,Studen,375
+Frits,Kara Mustafa,375
+Frits,Kara Mustafa,375
+Frits,Studen,375
+Frits,Studen,375
+Frits,Studen,376
+Frits,Studen,376
+Frits,Studen,376
+Frits,Studen,376
+Frits,Studen,376
+Frits,Studen,377
+Hose Hansen,Kara Mustafa,378
+Frits,Kara Mustafa,378
+Mis,Studen,379
+Mis,Studen,379
+Frits,Kara Mustafa,381
+Frits,Tyrken,381
+Frits,Tyrken,381
+Frits,Mustafa,381
+Frits,Studen,382
+Frits,Studen,384
+Frits,Kristian,393
+Frits,Kris,398
+Frits,Kara Mustafa,400
+Frits,Kristian,402
+Kristian,Studen,402
+Faders,Studen,402
+Faders,Frits,402
+Frits,Studen,402
+Frits,Studen,402
+Frits,Kristian,402
+Kara Mustafa,Kristian,404
+Frits,Kara Mustafa,404
+Frits,Hose Hansen,404
+Hose Hansen,Kara Mustafa,404
+Hose Hansen,Kara Mustafa,404
+Frits,Hose Hansen,404
+Frits,Kristian,404
+Frits,Kristian,404
+Frits,Kristian,404
+Frits,Kristian,404
+Anna,Frits,404
+Anna,Fader,405
+Anna,Hose Hansen,406
+Frits,Kara Mustafa,407
+Frits,Kristian,407
+Hose Hansen,Kara Mustafa,408
+Frits,Kara Mustafa,408
+Frits,Kristian,408
+Frits,Mustafa,409
+Fader,Mustafa,409
+Fader,Kristian,409
+Frederiksen,Mortensen,411
+Mortensen,l’,411
+Mortensen,l’,411
+Frederiksen,Mortensen,411
+Frederiksen,l’,411
+kjønne,l’,411
+Elise Ersted,kjønne,411
+Frederiksen,Kara Mustafa,412
+Frederiksen,Mustafa,412
+Frits,Mustafa,412
+Frits,Kristian,412
+Frederiksen,Kristian,412
+Kara Mustafa,Kristian,414
+Frits,Kara Mustafa,414
+Frits,Mustafa,414
+Frits,Mustafa,414
+Frits,Kristian,414
+Gud,livor,416
+Glaspeter,livor,416
+Mortensen,Palle Gram,417
+Fader,Frederiksen,419
+Frederiksen,Kara Mustafa,421
+Søren Bold,jo gjahn wed,423
+Søren Bold,indskjød Frederiksen,423
+Frederiksen,Søren Bold,426
+Kara Mustafa,Madam Frederiksen,428
+Frits,Kara Mustafa,429
+Fenris,Frederiksen,430
+Fenris,Frederiksen,431
+Gud,Kara Mustafa,433
+Kara Mustafa,Mustafa,436
+Frederiksen,Mustafa,436
+Frederiksen,Kara Mustafa,437
+Frederiksen,Morten Rødspæt,438
+Huhde,Hwons,448
+Jakob,gjahn,452
+Jens Post,Kara Mustafa,458
+Frits,Mortensen,460
+Frits,Kara Mustafa,460
+Jakob Staastilles,Kristian,463
+Frederiksen,Kristian,466
+Frederiksen,Niels Rytters,466
+Frederiksen,Kristian,468
+Fader,Kristian,469
+Kara Mustafa,Kristian,469
+Frits,Kara Mustafa,469
+Frits,Kristian,469
+Kara Mustafa,Kræn Klavsen,470
+Kara Mustafa,Kræn Klavsen,470
+Frits,Kræn Klavsen,470
+Frits,Mustafa,470
+Kristian,Mustafa,470
+Frits,Kara Mustafa,471
+Kara Mustafa,Kristian,471
+Frits,Kristian,472
+Kristian,Mustafa,472
+Frits,Kristian,474
+Jessu Kresti Naawn,Kristian,474
+Frits,Jessu Kresti Naawn,474
+Frits,Luthers,474
+aalle,mihr,476
+Gud,Kræn Klavsen,477
+Frits,Kara Mustafa,479
+Frits,Kara Mustafa,479
+Huhde o waa Røjter,nihr,481
+Huhde o waa Røjter,bløw wal møj baangh,481
+Niels,bløw wal møj baangh,481
+blywer,jens,482
+Balles,Gud,485
+Gud,Kræn Klavsen,486
+Gud,Kræn Klavsen,486
+Kara Mustafa,Kræn Klavsen,486
+Kara Mustafa,Kræn Klavsen,488
+Kræn Klavsen,jen,490
+Kræn Klavsen,trowe,493
+Kræn Klavsen,wal,496
+Kara Mustafa,Kræn Klavsen,497
+Kara Mustafa,Kræn Klavsen,497
+Hose Hansen,Kræn Klavsen,497
+Hansen,Palle Bister,498
+Kristian,Mustafa,501
+Gud,Kara Mustafa,502
+Kara Mustafa,Kris,505
+Frits,Kristian,506
+Gud,Kristian,508
+Kristian,Mads,508
+Kristian,Mads,509
+Kara Mustafa,Kip,510
+Kara Mustafa,Mads,510
+Mads,Mustafa,510
+Kristian,Mustafa,510
+Kristian,Mads,510
+Frits,Kristian,513
+Mustafa,Palle,515
+Frits,Kristian,516
+Frits,Kristian,516
+Anna,Kristian,518
+Gud,Moder,520
+Frits,Kara Mustafa,521
+Frits,lian,521
+Jakob,Kara Mustafa,525
+Fruerlund,Kara Mustafa,526
+Fruerlund,Mustafa galant,526
+Anna,Henrik Juul,527
+Anna,Sofie,527
+Knud Lyng,Sofie,527
+Elise Ersted,Knud Lyng,527
+Elise Ersted,Frederiksen,527
+Frederiksen,Hansen,527
+Hansen,Palle Bister,529
+Jakob Staastilles,Palle Bister,529
+Frederiksen,Kara Mustafa,530
+Frederiksen,Kara Mustafa,532
+Frederiksen,Kara Mustafa,532
+Kara Mustafa,Knud Lyng,532
+Juul,Sofie,533
+Frøken Thane,Marie,534
+Kara Mustafa,Marie,534
+Frederiksen,Kara Mustafa,534
+Frederiksen,Sofie,534
+Anna Juul,Henrik,535
+Anna Juul,Hose Hansen,535
+Ekse,Hose Hansen,535
+Elise,Hose Hansen,536
+Henrik,Kristian,538
+Anna,Kristian,540
+Anna,Frits,540
+Frits,Kristian,540
+Kara Mustafa,Kristian,540
+Henrik,Kara Mustafa,540
+Henrik,Kristian,540
+Kara Mustafa,Kris,541
+Kara Mustafa,Kristian,541
+Palle Bister,Tyrken,542
+Kara Mustafa,Kristian Gram,544
+Kara Mustafa,Kristian,545
+Juul,Kara Mustafa,545
+Gud,Mutter,546
+Kristian,davel,548
+Juul,Karl,550
+Fruerlund,Hr. Juul,554
+Anna vimsede,Sofie,556
+Kara Mustafa,Sofie,556
+Tyrken,lille Karl,558
+Hr. Juul,lille Karl,558
+Knud Lyng,lille Fatter,559
+Knud Lyng,Palle Bister,559
+Kara Mustafa,Knud,560
+Hr. Juul,Palle,561
+Jakob,Jakob Staastilles,562
+Jakob,Knud,562
+Albue,Knud,564
+Henrik,Knud,565
+Henrik,Knud,565
+Henrik,Kara Mustafa,565
+Kara Mustafa,Sofie,565
+Henrik,Sofie,565
+-Knud,Henrik,565
+Henrik,Mustafa,566
+Knud,Mustafa,566
+Kara Mustafa,Knud,566
+Henrik,Kara Mustafa,566
+Henrik,Kara Mustafa,567
+Frits,Knud,568
+Frits,Knud,568
+Knud,frank,568
+Kara Mustafa,Sofie,569
+Kara Mustafa,Sofie,569
+Knud,Sofie,573
+Mustafa,Sofie,574
+Knud,Sofie,574
+Gud,Knud,575
+Knud,Sofie,575
+Palle,Sofie,575
+Anna,Anna Juul,576
+Kara Mustafa,Sofie,577
+Sofie,a,577
+a,jus,577
+Fruerlund,jus,577
+Gud,Hejmdal,579
+Hejmdal,Jakob Staastilles,579
+Jøsses,Palle,583
+Kara Mustafa,Palle,583
+Farao,Kara Mustafa,583
+Kara Mustafa,Mustafa,586
+Gud,Kara Mustafa msd,590
+Henrik,Kara Mustafa msd,590
+Hose Hansen,Knud Lyng,591
+Elise,Knud Lyng,591
+Elise,Frits,591
+Frits,Kristian,591
+Hr. Juul,Kristian,591
+Elise,Hose Hansen,592
+Elise,Knud,592
+Anna,Knud,592
+Anna,Vaas,592
+Anna,Kara Mustafa,593
+Anna,Mustafa,593
+Knud,Mustafa,593
+Knud,Mustafa,593
+Knud,Mustafa,593
+Knud,Mustafa,593
+Knud,Mustafa,593
+Knud,Tyrken,593
+Knud,Tyrken,593
+Aleuteme,Venus,597
+Venus,Zenith,597
+Anna,Elise,601
+Elise,Hose Hansen,601
+Henrik,Saba,602
+Knud Lyng,Saba,602
+Knud,Knud Lyng,603
+Kara Mustafa,Sofie,604
+Frits,Sofie,604
+Elise,Frits,604
+Elise,Hose Hansen,604
+Knud Lyng,Sofie,606
+Knud Lyng,Tyrken,608
+Knud,Mustafa,610
+Kara Mustafa,Knud,612
+Kara Mustafa,Palle,613
+Kara Mustafa,Kristian,614
+Hose Hansen,Kara Mustafa,614
+Kara Mustafa,Knud,617
+Knud,Mustafa,622
+Hr. Juul,Kara Mustafa,624
+Kara Mustafa,Pavlus,625
+Hr. Juul,Knud,627
+Hr. Juul,Knud,627
+Hr. Juul,Knud,627
+Holbergs,Jakob von Thyboe,628
+Jakob von Thyboe,Jeppe,628
+Jeppe,Mortensen,628
+Hr. Juul,Kara Mustafa,629
+Hr. Juul,Kara Mustafa,629
+Hr. Juul,Knud Lyng,629
+Henrik,Hr. Juul,630
+Braadde,Henrik,630
+Braadde,Henrik,630
+anne,wos,632
+Frederik den,anne,632
+Frederik den,Kristian,632
+Frederik den,Kristian,632
+Frederik den,Kristian,632
+Søren,wos,645
+Kara Mustafa,Søren Urmager,646
+Kara Mustafa,Søren Urmager,646
+Kara Mustafa,Søren Urmager,646
+Frederik,Søren Urmager,646
+Frederik,Søren,646
+Madam Frow,jen Teng,648
+Kong Frederik,Mustafa,651
+Kara Mustafa,Søren Urmager,659
+Stjahnhywl,Søren,660
+Gud,Hr. Juul,666
+Frederiksen,do,671
+do,hwine,671
+Frederiksen,hwine,671
+Frederiksen,Søren,671
+Gud,Henrik,673
+Henrik,Knud Lyng,675
+Henrik,Knud Lyng,675
+Kara Mustafa,Sofie,676
+Kara Mustafa,Sofie,676
+Mustafa,Sofie,676
+Mustafa,Sofie,676
+Kara Mustafa,Sofie,676
+Henrik,Kara Mustafa,676
+Henrik,Kristian,676
+Anna Juul,Kristian,676
+Anna Juul,Knud Lyng,676
+Knud,Knud Lyng,676
+Knud,Sofie,676
+Arne,Sofie,676
+Jens Brokkeisen,Jens Virum,677
+Jens,Jens Brokkeisen,678
+Brokkeisen,Himstregims Jens,679
+Himstregims Jens,Prang,679
+Fatters,Prang,679
+Brokkeisen,Holm,680
+Holm,Jens Brokkeisen,680
+Juul,Kathrine Holm,682
+Jens Brokkeisen,Juul,682
+Kara Mustafa,Sofie,684
+Kristian,Sofie,684
+Anna,Kristian,684
+Anna,Kathrine Holm,684
+Frøken Thane,Kathrine Holm,684
+Frøken Thane,Kathrine,684
+Frøken Thane,Kathrine,684
+Kathrine Holm,Sofie Juul,685
+Frøken Thane,Kathrine Holm,685
+Frøken Thane,Kathrine,685
+Gud,Kathrine Holm,687
+Anna,Kathrine Holm,687
+Anna,Kathrine,687
+Anna,Kathrine Holm,688
+Kathrine,Kathrine Holm,688
+Anna,Kathrine,688
+Anna,Jens Brokkeisen,688
+Jens Brokkeisen,Kathrine,688
+Kara Mustafa,Lassen,689
+Kara Mustafa,Lassen,689
+Lassen,Mustafa,689
+Kathrine Holm,Moder,693
+Fader,Kathrine Holm,693
+Pro primo,Pro secundo,694
+Anna,Kathrine,695
+Fader,Kara Mustafa,697
+Fader,Kristian,697
+Kara Mustafa,lyne,699
+Kræn Klavsen,lyne,699
+Anna,Kathrine,700
+Frits,Kristian,701
+Kristian,Søren Smuth,701
+Benedich,Søren Smuth,701
+Benedich,Hansen,701
+Anna,Kathrine Holm,702
+Frøken Holm,Frøken Thane,703
+Frøken Thane,Kathrine,703
+Kathrine,Kathrine Holm,704
+Kathrine,Kathrine Holm,704
+Julius Strandbergske,Kathrine,704
+Julius Strandbergske,Kristian Wintherske,704
+Kristian Richard,Kristian Wintherske,704
+Kristian Richard,Rikard Kristensen,704
+Anna,Kristian,706
+Frits,Kara Mustafa,707
+Frits,Mustafa,707
+Mortensen,Mustafa,707
+Kara Mustafa,Mortensen,707
+Kara Mustafa,Mustafa,707
+Kathrine,Kristian,708
+Anna,Kathrine,708
+Anna,Frits,709
+Anna,Kristian,709
+Kara Mustafa,Kristian,709
+Kara Mustafa,Kathrine,709
+Gud,véd,710
+Anna,Frits,711
+Anna,lille Kathrine,711
+Anna,Frits,714
+Anna,Kathrine,714
+Frits,Kathrine,715
+Frits,Kathrine,715
+Charybdis,Kathrine,715
+Charybdis,Scylla,715
+Anna,Frits,720
+Anna,Frits,720
+Frits,s,722
+Anna,s,722
+Frits,Kathrine,725
+Elise,Kathrine,726
+Jens Brokkeisen,Kathrine,726
+Kara Mustafa,Palle Bister,728
+Kara Mustafa,Palle,729
+Himstregims,Jens,730
+Jakob Staastilles,Kathrine,733
+Jakob Staastilles,Kathrine Holm,733
+Kathrine,Kathrine Holm,733
+Attraa,Mathispøl,735
+Kara Mustafa,Sofie Juul,737
+Kara Mustafa,Kristian,737
+Knud Lyng,Kristian,737
+Frøken Brokkeisen,Knud Lyng,737
+Frøken Brokkeisen,Kathrine,739
+Kathrine Holm,k,740
+Henrik Juul,k,740
+Frøken Brokkeisen,Henrik Juul,740
+Frøken Brokkeisen,Holm,740
+Jens Brokkeisen,Kathrine,742
+Himstregims,Jens,743
+Jens Brokkeisen,Kathrine,746
+Jens Brokkeisen,wed,748
+Elise,Hose Hansen,750
+Elise,Frits Mortensen,750
+Anna,Frits Mortensen,750
+Anna,Sofie,750
+Kara Mustafa,Sofie,750
+Henrik Juul,Kara Mustafa,750
+Henrik Juul,Knud Lyng,750
+Kara Mustafa,Knud Lyng,750
+Frederiksen,Kara Mustafa,750
+Knud Lyng,Peter,751
+Kara Mustafa,Knud,752
+Kara Mustafa,Knud,761
+Kara Mustafa,z,761
+Sofie,z,761
+Frøken Elise Ersted,Studiosus Hans Hansen,762
+Hose,Hose Hansen,763
+Hansen,Hose,763
+Anna,Hansen,763
+Frederiksen,Knud nøs,764
+Frederiksen,Kara Mustafa,764
+Hansen,Valdemar Sejer,766
+Byron,Hansen,766
+Mustafa,Storvezir,767
+Kara Mustafa,Storvezir,767
+Kara Mustafa,Knud,768
+Kara Mustafa,Knud,768
+Hr. Lyng,Hr. Lyngs,769
+Kara Mustafa,Knud,770
+Kara Mustafa,Tyrken,771
+Elise,Hose Hansen,773
+Elise,Hansen,773
+Hansen,Hose Hansen,773
+Elise,Hose Hansen,774
+Eros,Hose Hansen,775
+Hose Hansen,Kristian,775
+Frits,Kristian,775
+Frits,Kara Mustafa,775
+Juul,Kara Mustafa,775
+Juul,Sofie,775
+Kristian,Sofie,775
+Anna Juul,Kristian,776
+Kara Mustafa,Kristian,777
+Kristian,Palle,781
+Kristian,Palle,781
+Anna,Kristian,781
+Kristian,Sofie,783
+Kara Mustafa,Sofie,785
+Kristian,Sofie,785
+Anna,Kristian,785
+Kara Mustafa,Mortensen,786
+Anna,Kathrine,788
+Anna,Kathrine,788
+Hedegaard,Kathrine,788
+Anna,Kristian,789
+Kara Mustafa,Kristian,789
+Hansen,Kara Mustafa,789
+Hansen,Kara,789
+Kara,Mustafa,789
+Frits,Kara Mustafa,790
+Kara Mustafa,Kathrine Holm,790
+Hansen,Hose,791
+Hansen,Kristian,791
+Kara Mustafa,Kristian,791
+Kara Mustafa,frank,791
+Hansen,Kara Mustafa,796
+Kara Mustafa,Kristian,796
+Ewald,Kristian,796
+Anna,Kristian,798
+Anna,Kristian,798
+Anna,Kara Mustafa,798
+Kara Mustafa,Kristian,799
+Kara Mustafa,Kristian,799
+Kara Mustafa,Mustafa,799
+Anna,Hose Hansen,800
+Hose Hansen,Kara Mustafa,800
+Kara Mustafa,Mustafa,800
+Frits,Hose Hansen,802
+Hose Hansen,Svend From,802
+Svend From,Svend Pinedød,802
+Principals,Svend Pinedød,802
+Birkelund,Principals,802
+Birkelund,Svigerpapas,802
+Svend,Svigerpapas,802
+Frits,Svend,802
+Frits,Kara Mustafa,802
+Hose Hansen,Kara Mustafa,802
+Hose Hansen,Muhammed,802
+Hose Hansen,Mustafa,803
+Fader,Hose Hansen,803
+Fader,Hose Hansen,803
+Hedegaard,Mortensen,804
+Hose Hansen,Mortensen,804
+Kara Mustafa,Kristian,805
+Kara Mustafa,Kristian,805
+Hedegaard,Kara Mustafa,805
+Hedegaard,Hose Hansen,805
+Hose Hansen,Kristian,805
+Kara Mustafa,Kristian,805
+Hedegaard,Mortensen,807
+Gud,Onkels,809
+Kathrine Holm,Knud Lyng,811
+Henrik Juul,Kathrine Holm,812
+Henrik,Henrik Juul,812
+Henrik,Kara Mustafa,812
+Henrik,Kara Mustafa,812
+Hose Hansen,Kara Mustafa,813
+Gud,Kara Mustafa,813
+Kara Mustafa,Sofie,814
+Frits,Henrik,816
+Henrik,Kathrine,816
+Henrik,Kathrine,816
+Henrik,Kathrine,816
+Henrik,Kathrine,816
+Frits,Henrik,816
+Kara Mustafa,Palle Bister,817
+Henrik,Palle Bister,817
+Henrik,Kathrine,818
+Henrik,Tællepraasens,818
+Kathrine,Sofie,821
+Hansen,Kara Mustafa,823
+Kara Mustafa,Mustafa,823
+Fruerlund,Mustafa,823
+Henrik,Hose Hansen,825
+Henrik,Palle,826
+Henrik,Kathrine,826
+Gud,Kathrine,827
+Morten,Morten Rødspæt,828
+Morten Rødspæt,Studiosus Palle Gram,829
+Morten,Morten Rødspæt,829
+Henrik Juul,Morten,829
+Henrik Juul,Kara Mustafa,829
+Kara Mustafa,Sofie Juul,829
+Ewald,Palle Gram,830
+Ewald,Palle Gram,830
+Ewald,Morten Rødspæt,830
+Finkel,Hagen,831
+Finkel,Henrik,831
+Henrik,Kathrine,831
+Gud,Johannes Ewald,836
+Gud,véd,836
+Mustafa,véd,836
+Mustafa,Pegasus,836
+Anna,Kristian,845
+Gud,Henrik,846
+Gud,Zeus,846
+Knud Lyng,Zeus,846
+Kathrine Holm,Knud Lyng,846
+Kathrine Holm,Knud,846
+Knud,Kristian,846
+Birkelund,Kristian,846
+Birkelund,Noæ,846
+Gud,Noæ,846
+Frits,Kara Mustafa,849
+Birkelund,Frits,849
+Birkelund,Kara Mustafa,849
+Kathrine,Palle,850
+Gud,Kara Mustafa,852
+Kara Mustafa,Palle Bister,852
+Jakob Staastilles,Palle Bister,853
+Anna,Sofie,854
+Anna,Henrik,854
+Palle,Sofie,855
+Mustafa,lille Fie,861
+Mustafa,Palle Bister,861
+Mustafa,Palle,863
+Jespersen,Svend,864
+Jespersen,Petersen,864
+Hose Hansen,Svend,866
+Jespersen,Svend,866
+Hansen,Jespersen,866
+Gud,véd,867
+Kara Mustafa,véd,867
+Gud,Svend,869
+Hose Hansen,Svend,870
+Hose Hansen,Kara Mustafa,870
+Petersen,Svend,873
+Frøken Petersen,Svend,873
+Frøken Petersen,Frøken Thane,873
+Kara Mustafa,tamme,877
+Frøken Thane,Jespersen,883
+Frøken Thane,Hose Hansen,883
+Hose Hansen,Kara Mustafa,883
+Hose Hansen,Kara Mustafa,884
+Hose Hansen,Sofie Juul,885
+Frøken Thane,Sofie Juul,885
+Madam Jespersen,Svend,887
+Joha,tamme,888
+Petersen,Svend,891
+Jespersen,Petersen,891
+Anders,s,893
+Anders,s,893
+Jespersen,Svend,894
+Jespersen,Svend,894
+Frøken Thane,Svend,898
+Jespersen,Søren,900
+Jespersen,Søren,900
+Hr. Jespersen,Niels,906
+Blyhed,Gud,908
+Frøken Petersen,Kara Mustafa,913
+Frøken Petersen,Svend,913
+Gud,Svend,913
+Mustafa,Sofie,914
+Frits Mortensen,Sofie,914
+Anna,Frits Mortensen,914
+Anna,Henrik,914
+Henrik,Kathrine,914
+Kathrine,Svend og,914
+Hose Hansen,Svend og,914
+Elisa,Hose Hansen,914
+Elisa,Kristian,914
+Anna Juul,Kristian,914
+Anna Juul,Kara Mustafa,914
+tamme,Ægteparret Petersen,915
+Svend,vexles,916
+Kara Mustafa,Sofie Juul,919
+Graad,Sofie,923
+Graad,Marie,923
+Kara Mustafa,Marie,923
+Kara Mustafa,Svend,923
+Marie,Sofie,924
+Marie,Palle,924
+Kara Mustafa,Svend,926
+Frøken Sofie,Tyrk,927
+Kristian,Tyrken,930
+Anna Juul,Kristian,930
+Anna Juul,Henrik,930
+Henrik,Kathrine Holm,930
+Marie,Svend,931
+Mutter,Petersen,933
+Knud,Svend,935
+Knud,Svend,938
+Frøken Petersen,Svend,938
+Knud,Svend,939
+Mutter,Svend,941
+Mutter,Svend,942
+Kara Mustafa,Palle,943
+Svend,Tyrk,944
+Gud,Svend,944
+Gud,Palle,944
+Palle,capo,944
+Gud,capo,944
+Kara Mustafa,Palle Bister,945
+Petersen,Svend,946
+Birkelund,Petersen,946
+Birkelund,Svend,947
+Birkelund,Svend,947
+Frøken Petersen,Knud,948
+Palle,Palle Bister,951
+Mustafa,Svend,952
+Mutter,Vorherre,956
+Mutter,Svend,956
+Kara Mustafa,Svend,957
+Kristian,Skaal,959
+Petersen,Svend,961
+Frits,Svend,965
+Anna,Frits,965
+Anna,Frits Mortensen,965
+Anna Gram,Frits Mortensen,965
+Mustafa,Svend,971
+Svend,Tyrk,974
+Mustafa,Svend,977
+Hose Hansen,Kara Mustafa,981
+Marie,vexledes,984
+Hose Hansen,Kara Mustafa,985
+Petersen,Svend From,986
+Kathrine Holm,Petersen,986
+Kathrine Holm,Mustafa,986
+Hose Hansen,Mustafa,986
+Petersen,Svend,987
+Frøken Petersen,Petersen,987
+Frøken Petersen,Knud,987
+Marie,Søren Smuth,988
+Svend,Søren Smuth,988
+Petersen,Svend,988
+Petersen,Svend,988
+Petersen,Svend,988
+Petersen,Svend niente,990
+Petersen,Svend,990
+Marie,lille,991
+Hose Hansen,Kara Mustafa,992

@@ -1,0 +1,430 @@
+source,target,timestamp
+Granholt,Madam Bjerke,1
+Granholt,Knorterud,2
+KjæreDem,atterGranholt,6
+Flan,Granholt,7
+Bismarck,Granholt,8
+Granholt,Knorterud,9
+Granholt,Knorterud,9
+Granholt,Knorterud,9
+Granholt,Knorterud,9
+Anne,Maren Holtet,13
+Anne,Maren Holtet,13
+Anders Braaten,Gud,14
+Gud,Maren Holtet,14
+Anne,Maren Holtet,14
+Anne,Vesle,14
+Anne,Vesle,14
+Anders Braaten,Maren Holtet,15
+Granholt,Maren Holtet,17
+Knorterud,Maren Holtet,21
+Maren Holtet,lille Anne,22
+Anne,Bedstefader,24
+Anne,Bedstefader,24
+Anne,Granholt,25
+Anne,Maren Holtet,25
+Anders,Bedstefars,26
+Anders,Bedstefar,26
+Anders,Bedstefar,26
+Anne,Maren Holtet,27
+Anne,Bedstefar,27
+Bedstefar,vesle Anne,27
+Anne,Maren Holtet,28
+Granholt,Maren Fidtet,30
+Anders,Maren Fidtet,30
+Anders,Maren Holtet,32
+Knorterud,Maren Holtet,32
+Knorterud,lille Anne,32
+Marens,lille Anne,32
+Anders Braaten,Marens,32
+Anders Braaten,Knorterud,32
+Anne,Vesle,33
+Galten,Purke,40
+Purke,j,41
+uiff,urff,44
+urf,urff,44
+Rand. Andersen,Sørensen,61
+Petersen,Sørensen,61
+Aaget,Sørensen,62
+Petersen,Sørensen,64
+Andersen,Sørensen,65
+Petersen,Sørensen,65
+Andersen,Sørensen,67
+Andersen,Sørensen,70
+Andersen,Sørensen,70
+Andersen,Sørensen,72
+Andersen,Petersen,72
+Andersen,Sørensen,75
+Andersen,Sørensen,75
+Andersen,Sørensen,77
+Kodiks,Laban,80
+Almanach de Gotha,Senfelt,86
+Grev Senfelt,Senfelt,86
+Lejonhiertas,Senfelt,88
+Josef,Marie,98
+Marie,Nero,102
+Marie,Stakkar,103
+Gutten,Stakkar,106
+Gutten,Marie,106
+Gutten,Marie,106
+Gutten,Stakkar,106
+Marie,Stakkar,106
+Josef,Marie,107
+Josef,Nero,108
+Gudbevars,Josef,111
+Josef,Marie,113
+Marie,Nero,113
+Josef,Marie,115
+Josef,Nero,115
+Mesteren,Muller,123
+Mesteren,Svend,123
+Mesteren,Muller,125
+Marie,hans,131
+Marie,Nero,132
+Marie,Nero,133
+Josef,Nero,133
+Marie,Tom,137
+Marie,Nero,143
+Jasaa,Josef,146
+Marie,Nero,148
+Josef Muller,Nero,152
+Josef,Nero,154
+Josef,Nero,156
+Josef,Nero,156
+Josef Muller,Nero,158
+Josef,Nero,163
+Frick,Marie,164
+Frick,Maja,167
+Frick,Maja,167
+Maja,Marie,168
+Frick,Maja,173
+Beitse,Gud,174
+Frick,Maja,176
+Frick,Maja,176
+Maja,Mefistofeles,179
+Marthe,Mefistofeles,180
+Maja,Marthe,180
+Maja,Marthe,180
+Frick,Marthe,180
+Frick,Maja,180
+Frick,Maja,180
+Maja,Marthe,182
+Frick,Maja,183
+Frick,Maja,184
+Frick,Maja,184
+Maja,Marthe,185
+Frick,Maja,187
+Maja,Marthe,188
+Frick,Marthe,195
+Frick,lian,197
+Maja,Marthe,199
+Frick,Marthe,199
+Frick,Maja,200
+Gud,Marthe,202
+Frick,Marthe,206
+Frick,Marthe,212
+Frick,Maja,217
+Frick,Marthe,222
+Frick,S. L. Frick,224
+Flun,Frick,225
+Holm,Wille,226
+Holm,Madam Hansen,238
+Herkules,ikkePilatus,240
+Holm,Madam Hansen,243
+Jasaa,stakkars,246
+Marthe,stakkars,246
+Marthe,Piolm,252
+Bing,Piolm,252
+Bing,Plolms,252
+Naa,Piolm,254
+Bing,Holm,256
+Jasaa,jasaa,258
+Bing,Holm,260
+Hans,Olsen,263
+Holm,Olsen,264
+Holm,Olsen,267
+Holm,Olsen,269
+Gud,Gut,272
+Hr. Holm,Olsen,273
+Hans,Olsen,275
+Gut,Olsen,279
+Gud,Gut,280
+Hans,Olsen,281
+Flolm,Olsen,281
+Hans,Olsen,285
+Hans,Olsen,285
+Gud,Hans,286
+Hans,Olsen,287
+Holm,Olsen,288
+Hans,Olsen,290
+Hans,Holm,290
+Elise,Hans,294
+Elise,Hans,300
+Holm,taus,301
+Elise,Hans,302
+Elise,Holm,307
+Elise,Sandberg,308
+Elise,Hr. Holm,308
+Gud,Holm,311
+Gud,Holm,311
+Hans,Sandberg,312
+Hans,Olsen,312
+Emma,Jagdman,330
+Emma,Jagdman,330
+Emma,Jagdman,330
+Papa,Seydei,334
+Hans,Hilda,360
+Emma,Hans,360
+Emma,Jagdman)-,364
+Teodor,jagdmans,365
+Fritz,Ursula,372
+Hilda,Ursula,372
+Papa,Ursula Bom,375
+Papa,Skara,375
+Hilda,Skara,375
+Jagdman,Teodor,377
+Bergman,Papa,379
+Jagdman,Teodor,380
+Bergman,Papa,385
+Bergman,Papa,385
+Papa,Seydel,385
+Bergman,Seydel,385
+Bergman,Hilda,385
+Hilda,Teodor,385
+Hilda,Ursula,390
+Hilda,ogRinmans,390
+Tante Ursula,ogRinmans,390
+Hilda,Teodor,394
+Hilda,Papa,394
+Bergman,Papa,394
+Bergman,Teodor,394
+Papa,Teodor,394
+Jagdman,Papa,394
+Emma,Jagdman,394
+Papa,Seydel,396
+Seydel,Ursula,396
+Fritz,Seydel,399
+Seydel,Teodor,407
+Blumenbergs,Ursula,408
+Jagdman,Teodor,410
+Seydel,Ursula,413
+Fritz,Ursula,416
+Fritz,Ursula,416
+Fritz,Ursula,416
+Emma,Ursula,416
+Emma,Hilda,416
+Fritz,Hilda,420
+Fritz,Hilda,420
+Emma,Hilda,420
+Emma,Seydel,420
+Herr Blumenberg,Ursula,424
+Hr. Bergman,Hr. Seydel,431
+Blumenberg,Jagdman,435
+Don Juan,Seydel Aha,441
+Jasaa,Maja,446
+Emma,Jagdman,448
+Fritz,Ursula,450
+Hilda,Tante Ursula,452
+Jagdman,Tante Ursula,452
+Fritz,Ursula,453
+Gud,Hilda,464
+Hilda,Teodor,464
+Bergman,Jagdman,471
+Blumenberg,Jagdman,477
+Magen,Seydel,480
+Hilda,Seydel,480
+Emma,skjelmsk,486
+Mama,skjelmsk,486
+Emma,Hilda,488
+Emma,Fritz,488
+Emma,Hilda,490
+Emma,Seydel,490
+Emma,Hilda,491
+Emma,Teodor,491
+Blumenberg,Teodor,491
+Fritz,TeodOf,514
+Fritz,Tante Ursula,514
+Hilda,Ursula,516
+Hilda,Ursula,516
+-,Teodor,519
+Hilda,Ursula,520
+Fritz,Teodor,523
+Axel,Teodor,523
+Axel,Valborg«,523
+Knut,Valborg«,523
+Blumenberg,brydd,545
+Papa,Teodor,547
+Blumenberg,Papa,555
+Gud,Papa,567
+Gud,Sypigen,567
+Frøken Ursula,Joho,570
+Frøken Ursula,Stina,570
+Hr. Seydel,Seydel,571
+Emma,Jagdman,572
+Emma,Hilda,572
+Blumenberg,Hilda,572
+P'røken Ursula,Stina,576
+Fritz,Ursula,581
+Fritz,Hr. Blumenberg,587
+Stina,Tante,594
+Stina,Tante,594
+Hilda,Jagdman,595
+Gud,Hilda,600
+Hilda,Stina,600
+Fritz,Lotta,601
+Hilda,Ursula,612
+Fritz,Ursula,612
+Fritz,Papa,612
+Bergman,Papa,612
+Bergman,Teodor,612
+skbna,uti Hildings,622
+Hilda,skbna,622
+Fritz,Teodor,623
+Teodor,Ursula,623
+Hilda,dagas,626
+Fritz,Stina,632
+Fritz,Lotta,632
+Lotta,Stina,633
+Fritz,Stina,640
+F ritz,Lotta,653
+Gud,Stina,654
+Fritz,Ursula,655
+Blumenberg,Ursula,656
+Sympathi,Teodor,672
+Teodor,Ursula,672
+Fritz,Hr. Blumenberg,677
+Fritz,Ursula,688
+Gud,Hr. Blumenberg,704
+Blumenberg,Hr.Blumenberg,721
+Blumenberg,Hilda,721
+Emma,Hilda,721
+Fritz,Ursula,722
+Blumenberg,Hr. Blumenberg,724
+Fritz,Ursula,727
+Hilda,Ursula,733
+Fritz,Ursula,735
+Emma,skjelmsk,739
+Blumenberg,Papa,740
+Fritz,Seydel,743
+Jagdman,Seydel,743
+Emma,Teodor,747
+Blumenberg,Fritz,748
+Blumenberg,Stina,751
+Seydel,Ursula,753
+Emma,Fritz,760
+Emma,Hilda,765
+Blahaha,Hilda,768
+Fritz,Ursula,772
+Jasaa,Ursula,774
+Seydel,Ursula,774
+Bergman,Blumenberg,783
+Bergman,Frøken Borns,783
+Jagdman,Seydel,786
+Fritz,Seydel,788
+Bergman,Fritz,788
+Emma,Fritz,791
+Fritz,Seydel,791
+Seydel,Ursula,791
+Blumenberg,Ursula,795
+Hilda,Stina,796
+Gud,Hilda,796
+Fritz,Hr. Jagdman,809
+Hr. Jagdman,Teodor,809
+Fritz,Stina,810
+Hilda,Teodor,831
+Jasaa,Ursula,844
+Fritz,Ursula,844
+Fritz,Ursula,846
+Fritz,Seydel,848
+Seydel,naaja,848
+Ursula,naaja,848
+Fritz,Ursula,849
+Hr. Blumenberg,Jagdman,853
+Hr. Blumenberg,Hr. Seydel,861
+Hr. Blumenberg,Jagdman,863
+Frøken Ursula,Seydel,866
+Seydel,lille Emma,889
+Jasaa,jasaa,895
+Pivad,lille Emma,896
+Emma,lille Emma,896
+Emma,Fritz,903
+Fritz,Ursula,907
+Fritz,Jagdman,910
+Gud,Jagdman,916
+Fritz,Seydel,926
+Fritz,Seydel,926
+Fritz,Ursula,926
+Bergman,Emma,928
+Bergman,Fritz,931
+Emma,Fritz,931
+joho,lille Emma,945
+Hr. Jagdman,joho,945
+Hr. Jagdman,Jasaa,945
+Daasen,Emma,948
+Papa,jagdman,954
+Jagdman,jagdman,954
+Emma,Jagdman,955
+Jagdman,Seydel,958
+Emma,Piar,965
+Emma,Ursula,973
+Blumenberg,Hr. Jagdman,979
+Bergman,Gud,987
+Fritz,Jagdman,992
+Emma,Hilda,994
+Emma,Hilda,994
+Fritz,Taa,1000
+Emma,Hilda,1002
+Emma,Jagdman,1002
+Jasaa,jasaa,1006
+Blumenberg,Jasaa,1008
+Blumenberg,Pelikan,1008
+Blumenberg,Pelikan,1008
+Marie,Ursula,1011
+Emma,Seydel,1012
+F ritz,Seydel,1012
+Blumenberg,Ursula,1014
+Jagdman,Ursula,1030
+Fritz,Ursula,1031
+Fritz,Ursula,1035
+Fritz,jagdman,1039
+Fritz,Ursula,1041
+Jagdman,Ursula,1042
+Stina,Ursula,1071
+Fritz,Ursula,1071
+Stina,Ursula,1073
+Stina,Ursula,1076
+Hilda,Stina,1113
+Emma,Hilda,1113
+Fritz,Ursula,1117
+Fritz,Hilda,1117
+Blumenberg,Hilda,1124
+Bergman,Teodor,1130
+Jagdman,Teodor,1130
+Hilda,Jagdman,1130
+Bergman,Blumenberg,1131
+Blumenberg,Emma,1137
+Emma,Jagdman,1137
+Bergman,Jagdman,1155
+Bergman,Hr. Jagdman,1164
+Hilda,Teodor,1172
+Hilda,Teodor,1174
+Blumenberg,Teodor,1174
+Hilda,falder Bergman,1176
+Jasaa,Ursula,1186
+Fritz,Ursula,1186
+Bergman,Fritz,1186
+Fritz,Ursula,1187
+Hilda,Teodor,1201
+Fritz,Teodor,1201
+Fritz,Ursula,1201
+Hilda,Ursula,1201
+Hilda,Teodor,1201
+Bergman,Teodor,1203
+Bergman,Ursula,1208
+Seydel,Ursula,1216
+Fritz,Ursula,1216
+Fritz,Ursula,1238
+Bergman,Blumenberg,1251
+Blumenberg,Fritz ftager Jagdman,1251
+Hilda,Ursula,1253
+Emma,Hilda,1253

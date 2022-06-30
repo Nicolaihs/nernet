@@ -1,0 +1,494 @@
+source,target,type,weight
+Hr. Svendsen,Svendsen,Undirected,1
+Gud,Hr. Svendsen,Undirected,1
+Henrik,Svendsen,Undirected,1
+Gud,as,Undirected,1
+Gud,Henrik,Undirected,4
+Hr. Svendsen,Høirc,Undirected,1
+Leonidas,Sokrates,Undirected,1
+Harald,Ida,Undirected,4
+Fløiels,Ida,Undirected,1
+hnn,jcg,Undirected,5
+Jcg,hnn,Undirected,1
+Frederik Krog,Muhameds,Undirected,1
+Hr. Svendsen,lille Idas,Undirected,1
+Hanndcn,Hr. Svendsen,Undirected,1
+Herer Cæsar,Tiberius,Undirected,1
+Claudius,Tiberius,Undirected,1
+Claudius,Nero,Undirected,1
+Agrippina den,Liv,Undirected,1
+Frederik Krog,Ieg,Undirected,1
+Nemesis,hnn,Undirected,1
+Ida,Nemesis,Undirected,2
+Harald,Hr. Svendsen,Undirected,4
+Hr. Svendsen staac,jcg,Undirected,1
+Svendsen,jcg,Undirected,1
+Gudskcelov,kjær,Undirected,1
+Gud,Nna,Undirected,1
+Frederik,Jacobs,Undirected,1
+Henrik,Jacobs,Undirected,1
+Franyaise,Svendsen,Undirected,1
+Svendsen,Talang,Undirected,1
+Jcg sattc,jcg,Undirected,1
+Frederik Krog,Ida,Undirected,1
+Henrik,Nci,Undirected,1
+hnn,tans,Undirected,1
+Frederik Krog,Hr. Svendsen,Undirected,2
+Frederik Krog,Harald,Undirected,1
+Hr. Svendsen,taus,Undirected,1
+Frederik Krog,taus,Undirected,1
+Frederik Krog,esterhaandcn,Undirected,1
+Frederik Krog,Thebordct,Undirected,1
+Ida,Thebordct,Undirected,1
+Henrik,Rosen reisfe,Undirected,1
+Frederik Krog,lee,Undirected,1
+Ida,as,Undirected,1
+Ida,Sophaen,Undirected,1
+Frederik,Harald,Undirected,2
+Frederik,Hr. Svendsen,Undirected,1
+Hr. Svendsen,jcg,Undirected,3
+Ida,jcg,Undirected,9
+Ida,mcd,Undirected,1
+jcg,mcd,Undirected,2
+De gothiske,Gud,Undirected,1
+Echo,Talang,Undirected,1
+Vesf,as,Undirected,1
+Frederik,Vesf,Undirected,2
+Dor,Frederik,Undirected,1
+Gud,hoi Nosf,Undirected,1
+Apollo Belvedcres,jcg,Undirected,1
+Ida,Jngcn sormaaer,Undirected,1
+Ida,Rosens,Undirected,2
+Hnn,Ida,Undirected,1
+Clara,Hnn,Undirected,1
+Frøken Svendsen,Jcg,Undirected,1
+Frederik,Jcg,Undirected,2
+Jcg,trocr,Undirected,1
+Jcg,igjcn,Undirected,1
+Sands,jcg,Undirected,1
+Frøken Stines,Levald,Undirected,1
+Clara,jcg,Undirected,4
+Rosens,dc,Undirected,1
+Hr. Svendsen,dc,Undirected,1
+Dandsen,Halvmaamn,Undirected,1
+Dandsen,Soliman,Undirected,1
+Clara,Ida,Undirected,4
+jcg raspc,skjærc,Undirected,1
+Ida,skjærc,Undirected,1
+Clara,Jcg,Undirected,6
+Dct cr cn,jcg,Undirected,1
+Dct cr cn,Orion,Undirected,1
+Jcg,jcg,Undirected,12
+dcn,jcg,Undirected,2
+ct,dcn,Undirected,1
+ct,jcg,Undirected,2
+Harald Rosen,jcg,Undirected,3
+jcg,taalc,Undirected,1
+Pjalte,jcg,Undirected,1
+Frederik,Ten,Undirected,1
+Alan,dct,Undirected,1
+Alan,Frederik,Undirected,1
+Frederik,cct,Undirected,1
+Jcg maattc,jcg,Undirected,2
+Kong Lear,jcg,Undirected,1
+Frederik,Støi,Undirected,1
+Frederik,nf Arnolds,Undirected,1
+Arnold,mcgct,Undirected,1
+Arnold,Frederik,Undirected,4
+Jacobs,sphærc,Undirected,1
+Ida,sphærc,Undirected,1
+Elfenbens,jcg,Undirected,1
+Elfenbens,saalcdes,Undirected,1
+Ida,saalcdes,Undirected,1
+Mechanist,saalcdes,Undirected,1
+Clara,Hr. Svendsen,Undirected,1
+Hr. Svendsen,Jcg,Undirected,2
+Clara,Draabernc,Undirected,1
+Ida,Jcg,Undirected,4
+dandscndc,jcg,Undirected,1
+Jcg,dandscndc,Undirected,1
+Gud,jcg,Undirected,4
+Ahncr,dct,Undirected,1
+ilct,leie dct,Undirected,1
+Brandt,lee,Undirected,1
+Clara,Prindscn,Undirected,1
+Prindscn,Sidcn,Undirected,1
+Sidcn,dcn blcvcn,Undirected,1
+Hr. Vesf,Sands,Undirected,1
+Attraa,Clara,Undirected,1
+Attraa,Dct,Undirected,1
+Dct,Jcg,Undirected,1
+Kjærcre,jcg,Undirected,1
+Jcg,Kjærcre,Undirected,1
+Ida,maattc jcg,Undirected,1
+lillc,maattc jcg,Undirected,1
+Clara,lillc,Undirected,1
+Clara,Frederik,Undirected,1
+Arnold,Clara,Undirected,1
+Henrik,Jcg,Undirected,2
+Gud,Ida,Undirected,2
+Gud,Jmorgen,Undirected,1
+Frederik,Henrik,Undirected,3
+Emilie,Henriette,Undirected,2
+Benfsteg,Ingling,Undirected,1
+Arnold,Jcg,Undirected,4
+Jcg,Nemesis,Undirected,1
+Henriette,Nemesis,Undirected,1
+Emilie,jcg,Undirected,1
+Harald,jcg,Undirected,1
+Clara,Frøken Lcvald,Undirected,1
+Frøken Lcvald,Villic,Undirected,1
+Jcg,Villic,Undirected,1
+Gud,Jcg,Undirected,1
+Dct,jcg,Undirected,1
+minc,sine tansc Röster og dcn,Undirected,1
+dc,jcg,Undirected,1
+Henrik,Ida,Undirected,1
+Tin,Tu,Undirected,1
+Tin,as,Undirected,1
+jcg,vidc,Undirected,1
+Arnold cn,jcg,Undirected,1
+Arnold,Arnold cn,Undirected,1
+jcg,kjendtc,Undirected,1
+Hnn,Peter,Undirected,1
+Peter,Skjæbncn,Undirected,1
+Skjæbncn,jcg,Undirected,1
+dct trocdc,hnn,Undirected,2
+NLand,Rosen,Undirected,1
+Arnold,ZEre,Undirected,1
+ZEre,hnn,Undirected,1
+Andromache,Homers,Undirected,1
+Frederik,jcg,Undirected,1
+Frederik,dct,Undirected,1
+Elsfov,Hnn,Undirected,1
+Harald,Levald,Undirected,4
+Clara,Levald,Undirected,1
+Clara,Harald,Undirected,4
+Harald,Vests,Undirected,1
+Clara,Vests,Undirected,1
+Harald,maattc,Undirected,1
+jcg,maattc,Undirected,1
+Henrik Brandt,gjcnncm,Undirected,1
+Henrik Brandt,lee,Undirected,1
+Arnold,cu andcn,Undirected,1
+Frederik,Frederik dcn,Undirected,1
+Frederik,soni han,Undirected,1
+Damon,Pytheas,Undirected,1
+Banco,Pytheas,Undirected,1
+Banco,Theevand,Undirected,1
+Frederik Krog,Raphael,Undirected,1
+Druen kjær,Frederik,Undirected,1
+Frederik,traadtc,Undirected,1
+jcg,traadtc,Undirected,1
+Jcg,Mechanist,Undirected,1
+Jcg,blcv,Undirected,1
+Jcg,Lcvald,Undirected,3
+Hr. Svendsen,ct,Undirected,1
+Bowicknive,Hr. Svendsen,Undirected,1
+Henrik,jcg,Undirected,3
+Swiff,ester,Undirected,1
+Apollo,Swiff,Undirected,1
+Henrik,dct,Undirected,1
+Harald,Lcvald,Undirected,2
+Clara,Lcvald,Undirected,1
+Arnold,Klljllief,Undirected,1
+Arnold,Laasc,Undirected,1
+Laasc,jcg,Undirected,1
+Arnold,dc,Undirected,2
+Arnold,Nnade,Undirected,1
+Nnade,Unaade,Undirected,1
+Unaade,cn Droschckudsk,Undirected,1
+Dct,blaa Bjørn,Undirected,1
+Nische,dc,Undirected,1
+Voxlys,jcg,Undirected,1
+cn Baarc,jcg,Undirected,1
+Taa,cn Baarc,Undirected,1
+Taa,morkc,Undirected,1
+Lkowsnto,morkc,Undirected,1
+Jcg,Lkowsnto,Undirected,1
+Jcg,ct,Undirected,1
+Arnold,Nimbns,Undirected,1
+Arnold,Keiser Rudolf II,Undirected,1
+Keiser Rudolf II,Tycho de Brahe,Undirected,1
+cn andcn,ct,Undirected,1
+Arnold,jcg,Undirected,15
+Arnold,dct,Undirected,4
+Skjont,jcg,Undirected,1
+Arnold,hnn,Undirected,1
+hnn,lee,Undirected,1
+bcvægct,jcg,Undirected,2
+Henrik,Skne,Undirected,1
+Skne,dandse,Undirected,1
+Alan,dandse,Undirected,1
+Alan,mcd,Undirected,1
+Sneebjergc,Zenith,Undirected,1
+Zenith,od,Undirected,1
+jcg,od,Undirected,1
+Arnold,ester soer Gondolen,Undirected,1
+Arnold,Hys,Undirected,1
+Raphael,Tizian,Undirected,1
+Ida,Maaucskin,Undirected,1
+Maaucskin,jcg,Undirected,1
+Arnold,Dulcinea,Undirected,1
+as kim,will koop,Undirected,1
+Marcus,S. Theodor,Undirected,1
+,Marcus,Undirected,1
+,Markus,Undirected,1
+,Johannes den,Undirected,1
+Peter,jcg,Undirected,1
+Peter,Taa,Undirected,1
+Paven,Taa,Undirected,1
+Gud,Paven,Undirected,1
+Francesca Cornaro,Sagcns,Undirected,1
+Francesca,Sagcns,Undirected,1
+Dct,Francesca,Undirected,1
+Dct,dct Enesfe,Undirected,1
+dct Enesfe,hin,Undirected,1
+Stovct,kundc,Undirected,1
+aabnedc,høi Røsf,Undirected,1
+6loiro,Aoiro,Undirected,1
+Paolo Vcronese,Tizian,Undirected,1
+Paolo Vcronese,Tintoretto,Undirected,1
+Hnn,ct,Undirected,1
+ct,maattc,Undirected,1
+hendc,maattc,Undirected,1
+Wi,tom,Undirected,1
+Arnold,Frokcn Ida,Undirected,1
+Arnold,Lord Byron,Undirected,1
+Francesca,Lord Byron,Undirected,1
+Arnold,Francesca,Undirected,2
+George Sands,Lord Byron,Undirected,1
+Harald,sra Lord Byron,Undirected,1
+Arnold,Harald,Undirected,1
+Berns,Didrik,Undirected,1
+Throncns,fog,Undirected,1
+ct,fog,Undirected,1
+Arnold,Marie,Undirected,1
+dct,lee,Undirected,1
+FranceSca,Hnn,Undirected,1
+ct,jcg Tommaso,Undirected,1
+jcg,jcg Tommaso,Undirected,1
+Signora Ida,jcg,Undirected,1
+Dct cr forholdsvis,jcg,Undirected,1
+Dct cr forholdsvis,ct,Undirected,1
+Francesca,Jcg,Undirected,1
+Francesca,Hnn,Undirected,1
+Hnn,fun,Undirected,1
+Tommaso,fun,Undirected,1
+Arnold,Tommaso,Undirected,2
+Frøken Ida,dct,Undirected,1
+Tommaso,lee,Undirected,1
+Arnold,Veicn,Undirected,2
+Arnold,ingcn,Undirected,1
+Gondolen,Piazcttacn,Undirected,1
+Tommaso,jcg,Undirected,1
+Arnold,forøgedcs,Undirected,1
+Ida,forøgedcs,Undirected,1
+Arnold,Grevindes,Undirected,1
+Grevindes,Silvio Pellico,Undirected,1
+Cornaro,Evviva,Undirected,1
+FranceSca,Tommaso,Undirected,1
+H. M.,Pitaval,Undirected,1
+Dct,Tommaso,Undirected,1
+Arnold,Henrik,Undirected,1
+Arnold,knAioni,Undirected,1
+eftcrat,knAioni,Undirected,1
+eftcrat,jcg,Undirected,1
+Jcg,mcn,Undirected,1
+Signore,dct,Undirected,1
+Arnold,ct,Undirected,1
+jcg,sjeldcn,Undirected,1
+Gondol,jcg,Undirected,1
+Gondol,Titians,Undirected,1
+Panl Veroncscs,Titians,Undirected,1
+Slaaernc,jcg,Undirected,2
+Hnrraraab,jcg,Undirected,1
+Hnrraraab,frank,Undirected,1
+frank,jcg,Undirected,1
+Cornaro,Skjæbnc,Undirected,1
+Skjæbnc,overfusct,Undirected,1
+jcg,overfusct,Undirected,1
+Arnold frigivcn,jcg,Undirected,1
+dct,jcg,Undirected,1
+dct,mcn,Undirected,1
+Florenz,mcn,Undirected,1
+Rosen,Wort,Undirected,1
+Arnold,Rosen,Undirected,1
+Gndskeclov,Jcg,Undirected,1
+Adam,Henrik,Undirected,1
+jcg,kundc,Undirected,1
+Hr. Brandt,Hr. Svendsen,Undirected,1
+Arnold,Hr. Svendsen,Undirected,6
+Harald,Høier,Undirected,1
+Arnold,Zeus,Undirected,1
+Hr. Svendsen,neppc,Undirected,1
+Arnold,neppc,Undirected,2
+Svendsen,dct,Undirected,1
+Kong Christian,Lorenzo,Undirected,1
+Arnold,Kong Christian,Undirected,1
+Arnold,soran,Undirected,1
+jcg,soran,Undirected,1
+Arnold,Frederik Krogh,Undirected,1
+Frederik Krogh,Hr. Svendsen,Undirected,1
+Arnold,as,Undirected,1
+Jcg,cn klog,Undirected,1
+Karl,cn klog,Undirected,1
+Karl,kjcndcr,Undirected,1
+jcg,kjcndcr,Undirected,1
+Thecpottcn,jcg,Undirected,1
+Kjæræ,jcg,Undirected,2
+Karl,jcg,Undirected,1
+Karl,flog,Undirected,1
+Jcg vildc,hovcre,Undirected,1
+cu,hovcre,Undirected,1
+Sine,cu,Undirected,1
+Frøken Rosen,Hr. Høier,Undirected,1
+Frøken Rosen,Maasfee,Undirected,1
+Frøken Rosen,jcg,Undirected,1
+Venus,felv,Undirected,1
+Dante,Leonardo,Undirected,1
+Dante,Michelangelo,Undirected,1
+Michelangelo,Petrarca,Undirected,1
+"Macchiavelli,",Petrarca,Undirected,1
+Lorenzo,"Macchiavelli,",Undirected,1
+Shakespeare,flet,Undirected,1
+Frederik,Frederik Krogh,Undirected,1
+Frøken Rosen,soran,Undirected,1
+Frederik,soran,Undirected,1
+Frederik,Gud,Undirected,1
+Arnold,Epheu,Undirected,1
+Hoi,jcg,Undirected,1
+jcg,jcg neppc,Undirected,1
+Arnold,Florenz,Undirected,1
+Harald Rosen,hys,Undirected,1
+Hr. Svendsen,mcn,Undirected,1
+Asten,Frøken Rosen,Undirected,1
+Frøken Rosen,hend,Undirected,1
+hend,jcg,Undirected,1
+Clara,Prinds,Undirected,1
+Frøken Rosen,Jcg,Undirected,1
+Frøken Rosen,opreisf,Undirected,1
+bsr,Øe,Undirected,1
+Henrik,Øe,Undirected,1
+dct,Øe,Undirected,1
+Femimne Einpije,Hr. Svendsen,Undirected,1
+Gloucesters,Lord Harford,Undirected,1
+Gloucesters,Humeur,Undirected,1
+Arnold,Humeur,Undirected,1
+Arnold,mcd,Undirected,1
+Henrik,tyst,Undirected,1
+LErle Gjsgm,Lear,Undirected,1
+LErle Gjsgm,Pleie,Undirected,1
+cndnn,hnn,Undirected,1
+Arnold,cn,Undirected,1
+Arnold,cfterhaandcn,Undirected,1
+Dc,sknldc,Undirected,1
+Jcg,sknldc,Undirected,1
+Dct rummcr,jcg,Undirected,1
+Dct rummcr,dct,Undirected,1
+Bise,Karl,Undirected,1
+Arnold,Karl,Undirected,2
+Arnold,Thecn,Undirected,1
+Hannd,Jcg,Undirected,1
+Dc,dcn,Undirected,1
+Hcrregaardcn,jcg,Undirected,1
+Arnold,Hcrregaardcn,Undirected,1
+Arnold,Exekutor,Undirected,1
+Haarlok,Jcg,Undirected,1
+Arnold,Levald,Undirected,2
+Arnold,sørend,Undirected,1
+Antipathi,Arnold,Undirected,1
+Rosen,Øe,Undirected,1
+Hr. Svendsen,Levald,Undirected,2
+Arnold,Svendsen,Undirected,1
+Arnold,Harald Rosen,Undirected,2
+Arnold,Hr. Best,Undirected,1
+Arnold,as Klinken,Undirected,1
+Arnold,vadskcde,Undirected,1
+jcg,vg,Undirected,1
+Harald Rosen,Villie,Undirected,1
+Villie,jcg,Undirected,1
+Harald Rosen,kundc,Undirected,1
+Frederik Krog,kundc,Undirected,1
+Frøken Rosen,JEre,Undirected,1
+JEre,jcg,Undirected,1
+cr,mcd,Undirected,1
+cr,megct,Undirected,1
+jcg,megct,Undirected,1
+Maanelys,jcg,Undirected,1
+Dct,srem,Undirected,1
+Dct,cn,Undirected,1
+cn,jcg,Undirected,1
+Haarenc rcisc,jcg,Undirected,1
+Aarald Rosen,Levald,Undirected,1
+Esterhaanden,Harald,Undirected,1
+Arnold,Gaardcn,Undirected,1
+Gud,rcntud,Undirected,1
+dct,mcd,Undirected,1
+Henrik,Mcn,Undirected,1
+Karl jcg,jcg,Undirected,1
+jcg,slal,Undirected,1
+Harald,Sands,Undirected,1
+Ovcrveielsc,dct,Undirected,1
+Harald Rosen,Hr. Svendsen,Undirected,1
+Hr. Svendsen,havti,Undirected,1
+Horizont,Hr. Vesf,Undirected,1
+Best,Hr. Svendsen,Undirected,1
+Krogveic,cn lille,Undirected,1
+Tue,cn lille,Undirected,1
+Arnold,Tue,Undirected,1
+jcg,koldc,Undirected,1
+Harald Noscn,koldc,Undirected,1
+Harald Noscn,Hr. Levald,Undirected,1
+Hr. Levald,Jcg,Undirected,1
+Clara,Dcnnc Folelsc,Undirected,1
+Dc,Jcg,Undirected,1
+Jcg cr,jcg,Undirected,1
+Abraham,Gud,Undirected,2
+Levald,jcg,Undirected,1
+Hei,ovcr,Undirected,1
+jcg,ovcr,Undirected,1
+Jcg,niin,Undirected,1
+jcg,niin,Undirected,1
+ingcn,jcg,Undirected,1
+Jcg,ingcn,Undirected,1
+Jcg,tngc,Undirected,1
+jcg,tngc,Undirected,1
+Hr. Brandt,cn,Undirected,2
+Afgrnnd,Lcvald,Undirected,1
+Afgrnnd,skjænkcdc,Undirected,1
+skjænkcdc,tomte dct,Undirected,1
+ndcn,tomte dct,Undirected,1
+Pils,soer,Undirected,1
+dct Høiestc,dct lykkedcs,Undirected,1
+dct lykkedcs,jcg,Undirected,1
+iblinde,jcg,Undirected,1
+Karl,Svendsen,Undirected,1
+Hr. Levald,jcg,Undirected,1
+Jdetsamme,Lcvald,Undirected,1
+Lcvald,jcg,Undirected,1
+knr,xu,Undirected,1
+Cicero,Clodius,Undirected,1
+Clodius,Drusus,Undirected,1
+Caligula,Drusus,Undirected,1
+Caligula,asPrætoriancnies,Undirected,1
+Cornaro,Frederik Krog,Undirected,1
+Damchaand,Jcg,Undirected,1
+Cornaro,Damchaand,Undirected,1
+Alan,Amor,Undirected,1
+Amor,Hnn,Undirected,1
+Leonardo,Raphacl,Undirected,1
+Michelangelo,Raphacl,Undirected,1
+Gud,dc,Undirected,1
+Frederik,Ida,Undirected,2
+Clara,Gud,Undirected,1
+Gud,sfal,Undirected,1
+Asen,sfal,Undirected,1
+Grevinde Cornaro,Ida,Undirected,1
+Ida,maasfee,Undirected,1
+hnn,mcd,Undirected,1
+bcdst,hendc,Undirected,1
+Hnn,bcdst,Undirected,1
+Hnn,Martyr,Undirected,1
+Frederik,Lcvald,Undirected,1
+dcr,jcg maattc,Undirected,1

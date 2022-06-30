@@ -1,0 +1,341 @@
+source,target,type,weight
+Ingeborg,Jørgen Daafelt,Undirected,1
+FaderenMan,Ingeborg,Undirected,1
+FaderenMan,Jørgen,Undirected,1
+Johannes,Kristi,Undirected,1
+Ingeborg,Jørgen,Undirected,12
+Guds,Jørgen,Undirected,2
+Ingeborg,Madam Jensen,Undirected,11
+Jørgen,Madam Jensen,Undirected,5
+Jørgen,Madamen,Undirected,1
+Gud,Jørgen,Undirected,3
+Gud,Ingeborg,Undirected,4
+Ingeborg,Strodtd,Undirected,1
+Jørgen,Strodts,Undirected,1
+Herberg,Mathilde,Undirected,17
+Mathilde,lee,Undirected,2
+Jiskagen,Mathilde,Undirected,1
+Herberg,Jansens,Undirected,1
+Julius,Thomas Herberg,Undirected,12
+Karl,Thomas Herberg,Undirected,1
+Ferdinand Thessel,gros,Undirected,1
+Thessel,gros,Undirected,1
+Frue,Thessel,Undirected,1
+Anna,Frue,Undirected,1
+Anna,Jansen,Undirected,8
+Jansen,Mathilde Elbing,Undirected,2
+Jansen,Mathilde,Undirected,3
+Anna,Mathilde,Undirected,8
+Petersen,paany,Undirected,1
+Anna,paany,Undirected,1
+Anna,Petersen,Undirected,2
+Anna,Gud,Undirected,4
+Kjør,kjør,Undirected,1
+Anna,Hnn,Undirected,1
+Anna Krøjer,Thessel,Undirected,4
+Jørgen,Thessel,Undirected,2
+Jørgen,Strodt,Undirected,1
+Anna,Jørgen,Undirected,18
+Anna,Jørgen Daafelt,Undirected,5
+Mathilde,Mjan,Undirected,1
+Julius Jansen,ThomasHerberg,Undirected,1
+Julius,Julius Jansen,Undirected,3
+Herberg,Julius,Undirected,41
+Herberg,Julius Jansen,Undirected,8
+Jansen,Julius Jansen,Undirected,3
+Jansen,Julius,Undirected,11
+,Julius,Undirected,8
+Julius,Svend,Undirected,2
+Svend,ester,Undirected,1
+Herberg,P. A. Hejbergs,Undirected,1
+P. A. Hejberg,P. A. Hejbergs,Undirected,1
+Bismarcks,Julius,Undirected,1
+Herberg,Jansen,Undirected,11
+Jansen,Uhre,Undirected,1
+Julius,Toddy,Undirected,1
+Jørgen Daafelt,Mikkel Hjuler,Undirected,1
+Mikkel Hjuler,Peer Smed,Undirected,1
+Peer Smed,Præsfen,Undirected,1
+Jørgen,Præsfen,Undirected,1
+Anna Krøj,Ingeborg,Undirected,1
+Gud,Madam Jensen,Undirected,2
+Kryger,Krøjer,Undirected,1
+Daafell,Ingeborg,Undirected,1
+Daafell,Jørgen,Undirected,1
+Anna Krøjer,Jørgen,Undirected,3
+Anna,Julie,Undirected,7
+Anna,Øsfergade,Undirected,1
+Anna,Vincent,Undirected,1
+Anna,Thessel,Undirected,5
+Frøken Krøjers,Ingeborg,Undirected,1
+Darwin,Jørgen,Undirected,1
+Jansen,jevn,Undirected,1
+Krølhaars,jevn,Undirected,1
+Brøndums,Thessel,Undirected,1
+Julie,ask,Undirected,1
+Karen Jansens,Toddyen,Undirected,1
+Julius Jansen,Peter Jensen,Undirected,1
+Madam Jensen,Peter Jensen,Undirected,5
+Jensen,Peter Jensen,Undirected,1
+Mursvcnd Julius Jansen,ban,Undirected,1
+Jansen,Peter Jensen,Undirected,3
+Jansen,Madam Jensen,Undirected,2
+Madam Jensen,Mesteren,Undirected,1
+Julius,Madam Jensen,Undirected,11
+Herberg,Thomas Herberg,Undirected,6
+E. Renan,Rabbi Jeschua,Undirected,1
+Kroghs,Rabbi Jeschua,Undirected,1
+Robesprerre,Thomas Herberg,Undirected,1
+Lasalle,Robesprerre,Undirected,1
+Lasalle,Louis Pio,Undirected,1
+Julius,spiist,Undirected,1
+Gud,Thomas Herberg,Undirected,2
+Gud,Herberg,Undirected,1
+Herberg,Madam Jensen,Undirected,1
+Gud,Julius,Undirected,4
+Jensen,Madamen,Undirected,1
+Julius,kremens,Undirected,1
+Julius,Peter Jensen,Undirected,2
+Jensen,Julius,Undirected,1
+Herberg,Jensen,Undirected,1
+Herberg,Peter Jensen,Undirected,1
+Peter Jensen,Thomas Herberg,Undirected,2
+Ingeborg Daafelt,Madam Jensen,Undirected,1
+Lærkens,Madam Jensen,Undirected,1
+Ingeborg,Julius,Undirected,47
+Ingeborg,Thomas Herberg,Undirected,3
+Julius,Nette,Undirected,2
+Madam Jensen,Thomas Herberg,Undirected,1
+Ingeborg,Ingemanns,Undirected,2
+Ingeborg,fig,Undirected,1
+Ferdinand Thessel,Thessel,Undirected,1
+Mortensens,Roes,Undirected,1
+Kjørslen,Mortensen,Undirected,1
+Kjørslen,Thessel,Undirected,2
+Anna Krøjer,Mortensen,Undirected,5
+Daafelt,Thessel,Undirected,1
+Daman,Thessel,Undirected,1
+Mortensen,Thessel,Undirected,7
+Julie,Thessel,Undirected,1
+Anna,Mortensen,Undirected,5
+Darwin,Itu,Undirected,1
+Hr. Mortensen,Thessel,Undirected,1
+Gud,Mortensen,Undirected,1
+Gud,Hr. Mortensen,Undirected,3
+Otto Daafelt,Thessel,Undirected,4
+Jansen,Otto Daafelt,Undirected,2
+Jansen,vidsf,Undirected,1
+Ingeborg,vidsf,Undirected,1
+Jansen,Thessel,Undirected,7
+Ingeborg,Jansen,Undirected,9
+Anna,Julius,Undirected,25
+Jansen,Jørgen,Undirected,7
+Hr. Jansen,Jørgen,Undirected,1
+Julius,Jørgen,Undirected,7
+Husi,Jansen,Undirected,1
+Jansen,ban,Undirected,1
+Ingeborg,Thessel,Undirected,2
+Julius,Thessel,Undirected,15
+Jansen,kastedes,Undirected,1
+Julius,kastedes,Undirected,1
+Ingeborg,Julius Jansen,Undirected,3
+Ingeborg,Otto,Undirected,4
+Otto,menteJngeborg,Undirected,1
+Jørgen,Otto,Undirected,6
+Gud,Otto,Undirected,3
+Julius,bun,Undirected,1
+Gud,ilke,Undirected,1
+Julius,ilke,Undirected,1
+Frøken Daafelt,Jansen,Undirected,1
+Ingeborg Daafelt,Julius,Undirected,2
+Julius,bam,Undirected,2
+Julius,Mesteren,Undirected,3
+Mesteren,moer,Undirected,1
+Julius Jensen,Thomas Herberg,Undirected,1
+Ingeborg,Julms,Undirected,1
+Herberg,Ingeborg,Undirected,1
+Herberg,Julius taug,Undirected,1
+Alan,Jørgen,Undirected,1
+Alan,Ingeborg,Undirected,1
+Jørgen,Tømmermester Jansens,Undirected,1
+Julius Jansen,Jørgen,Undirected,1
+Anna,Karen,Undirected,4
+Jansen,Karen,Undirected,3
+Anna,Digteren,Undirected,1
+Karen,Thessel,Undirected,1
+Julius,rimaligviis,Undirected,1
+Onkel Jansens,Thessel,Undirected,1
+Julius,Onkel Jansens,Undirected,1
+Anna Krøjer,Julius,Undirected,2
+Anna Krøjer,Madam Jensen,Undirected,2
+Jørgen,lee,Undirected,1
+Kliqves,lee,Undirected,1
+,Thessel,Undirected,1
+Herberg,Sjou,Undirected,1
+Jansen,Svend,Undirected,1
+Petersen,Thomas Herberg,Undirected,1
+Jansen,Thomas Herberg,Undirected,3
+Gud,Punsch,Undirected,1
+Darwin,Gud,Undirected,1
+Darwin,Julius Jansen,Undirected,1
+Herberg,Jullus,Undirected,1
+Julius,Jullus,Undirected,1
+Julius,Petersen,Undirected,3
+Herberg,Nikolaj Taarnuhr,Undirected,1
+Julius,Nikolaj Taarnuhr,Undirected,1
+Julius,Runs,Undirected,1
+Ingeborg,Runs,Undirected,1
+Julius,hanselv,Undirected,2
+Herberg,Nikolaj Taain,Undirected,1
+Herberg,Nikolaj Taarn,Undirected,1
+Dien ester,Julius,Undirected,2
+Julius,Mester,Undirected,2
+Herberg,Mester,Undirected,2
+Jansen,Mester,Undirected,1
+Julius,hnn,Undirected,1
+Stedmo,Theodor Petersen,Undirected,1
+Julius,Theodor Petersen,Undirected,2
+Anna Krøjer,Karen de Attraa,Undirected,1
+Karen de Attraa,ger,Undirected,1
+Julius,ger,Undirected,1
+Anna Krøjer,Jansen,Undirected,3
+Anna Krøjer,hnn,Undirected,1
+Thessel,taug,Undirected,1
+Anna,Axel Mortensen,Undirected,1
+Børstid,Thessel,Undirected,1
+Darwin,Thessel,Undirected,1
+Darwinist,Mortensen,Undirected,2
+Julie,Mortensen,Undirected,1
+"Anna,",Julie,Undirected,1
+Anna,Hr. Mortensen,Undirected,2
+Gud,Gud/,Undirected,1
+Anna,Stine,Undirected,1
+Julius,Mathilde,Undirected,8
+Anna,Mesteren,Undirected,2
+Anna,Tømmermesferen,Undirected,1
+Julius,Tømmermesferen,Undirected,1
+Anna,Mesferen,Undirected,1
+Julius Jansen,Thomas Herberg,Undirected,2
+Herberg,Slaa,Undirected,2
+Herberg,Reseda,Undirected,1
+Reseda,Thomas Herberg,Undirected,1
+Herberg,Vilhelm,Undirected,1
+Klaus,Mathilde,Undirected,1
+Jomfru Skive,Mathilde,Undirected,1
+Herberg,Madam Sørensen,Undirected,2
+General Daafelts,Herberg,Undirected,1
+Herberg,Mathilde Elbing,Undirected,1
+Sørensen,Thomas Herberg,Undirected,2
+Herberg,Sørensen,Undirected,1
+Jomfru Elbing,Sørensen,Undirected,1
+Julius,hiin,Undirected,1
+Anna,hiin,Undirected,1
+Anna Krøjer,Mathilde,Undirected,1
+Herberg,thilde,Undirected,1
+General Daafelts,Mathilde,Undirected,1
+Christian den Ottendes,Jens Daafell,Undirected,1
+Christian den Ottendes,Daafell,Undirected,1
+Mathilde,Thomas Herberg,Undirected,7
+Herberg,Marie Herberg,Undirected,1
+Gud,Marie Herberg,Undirected,1
+Daafelt,Mathilde,Undirected,1
+Daafelt,Herberg,Undirected,2
+Herberg,Karl.,Undirected,1
+Ingeborg Daafelt,Jansen,Undirected,1
+Anna Krøjer,Ingeborg Daafelt,Undirected,1
+Frederiksbergtour,Jansen,Undirected,1
+August,Frederiksbergtour,Undirected,1
+Ingeborg,Otto Daafelt,Undirected,2
+Otto,Otto Daafelt,Undirected,1
+Anna Krøjer,Otto Daafelt,Undirected,1
+Anna,Anna Krøjer,Undirected,1
+Bismarck,Otto,Undirected,1
+Bismarck,Paven,Undirected,2
+Bismarck,Gud,Undirected,1
+Jdrgen,Otto,Undirected,1
+Jdrgen,Paven,Undirected,1
+Julius,Otto,Undirected,1
+Anna,Otto,Undirected,2
+Ingeborg Daafelt,Julius Jansen,Undirected,2
+,Ingeborg,Undirected,1
+Ingeborg,Mursvends,Undirected,1
+Ingemanns,Mursvends,Undirected,1
+Ingeborg,Ingemann,Undirected,1
+Ingemann,Julius,Undirected,1
+Mathilde,Mathilde Elbing,Undirected,2
+Kjæresfe,Thomas Herberg,Undirected,1
+Mathilde,Thessel,Undirected,1
+Svend,Thessel,Undirected,1
+Herberg,Thessel,Undirected,6
+Burmester,Wain,Undirected,1
+Herberg,Julius JansenS,Undirected,1
+Gud,Thessel,Undirected,1
+Julius Jansen,Thessel,Undirected,3
+Herberg,Julie Thessel,Undirected,1
+Julius Jansen,Murmester Herberg,Undirected,1
+Gud,Julius Jansen,Undirected,1
+Anna Krøjer,Ingeborg,Undirected,1
+Anna,Ingeborg,Undirected,3
+Hr. Mortensen,Ingeborg,Undirected,1
+Ingeborg,Tømmermesten,Undirected,1
+Jansen,Tømmermesten,Undirected,1
+Anna Krøjer,Julius Jansen,Undirected,1
+Hr. Jansen,Ingeborg,Undirected,1
+Fru Daafelt,Ingeborg,Undirected,1
+Anna,Fru Daafelt,Undirected,1
+Ingeborg taug,Julius,Undirected,1
+Anna,Ingeborg taug,Undirected,1
+Frue,Julius,Undirected,1
+Frøken Ingeborg,Julius,Undirected,1
+Frn Thessel,Jørgen Daafelt,Undirected,1
+Frn Thessel,Herberg,Undirected,1
+Julie,Karen,Undirected,1
+Anna,Jørgen taug,Undirected,1
+Julius,ban,Undirected,1
+Ingeborg,Julie,Undirected,1
+Julius,taus,Undirected,1
+Jansen,skjelmsk,Undirected,1
+Anna taug,Ingeborg,Undirected,1
+Figaros,Ingeborg,Undirected,1
+Anna,Mutter,Undirected,1
+Dumaa,Mutter,Undirected,1
+Thessel,Vincent,Undirected,4
+Murmester Herberg,Vincent,Undirected,1
+Mammbn,Thessel,Undirected,1
+Thessel,selig,Undirected,1
+Peter Madsens,selig,Undirected,1
+Daafelt,Thomas Herberg,Undirected,2
+Thessel,Thomas Herberg,Undirected,3
+Otto Daaselts,Thessel,Undirected,1
+Otto Daafelt,Thomas Herberg,Undirected,3
+Herberg,fig,Undirected,1
+Arning,fig,Undirected,1
+Arning,Herberg,Undirected,1
+Herberg,Otto Daafelt,Undirected,2
+Julius,Jørgen Daafelt,Undirected,3
+Julius knnde,Jørgen Daafelt,Undirected,1
+Julius knnde,Jørgen,Undirected,1
+Daafelt,Otto,Undirected,1
+Jespersen,Julius,Undirected,1
+,Skipper Clemens,Undirected,1
+,Slægtens,Undirected,1
+Thomas Herberg,Toddyen,Undirected,2
+Herberg,Øtto Daafell,Undirected,1
+Thomas Herberg,Øtto Daafell,Undirected,1
+Otto,Thomas Herberg,Undirected,1
+Jørgen,sinj,Undirected,1
+Ingeborg,sinj,Undirected,1
+Julius,Otto Daafelt,Undirected,1
+Anna,Otto Daafelt,Undirected,1
+Julius Jansen,Jørgen Daafelt,Undirected,1
+Jørgen Daafelt,Thessel,Undirected,1
+Jørgen Daafelt,Thomas Herberg,Undirected,1
+Daafelt,Jørgen Daafelt,Undirected,1
+Jørgen Daafelt,Mathilde,Undirected,1
+Jørgen,Mathilde,Undirected,1
+Jørgen,Mathilde Elbing,Undirected,2
+Jørgen,Thomas Herberg,Undirected,1
+Bastarden,Jørgen,Undirected,2
+Mathilde Elbing,Thomas Herberg,Undirected,2
+Julius,Roes,Undirected,1
+,Jansen,Undirected,1

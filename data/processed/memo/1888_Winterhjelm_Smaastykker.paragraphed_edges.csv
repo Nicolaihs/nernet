@@ -1,0 +1,216 @@
+source,target,type,weight
+Granholt,Madam Bjerke,Undirected,1
+Granholt,Knorterud,Undirected,5
+KjæreDem,atterGranholt,Undirected,1
+Flan,Granholt,Undirected,1
+Bismarck,Granholt,Undirected,1
+Anne,Maren Holtet,Undirected,6
+Anders Braaten,Gud,Undirected,1
+Gud,Maren Holtet,Undirected,1
+Anne,Vesle,Undirected,3
+Anders Braaten,Maren Holtet,Undirected,1
+Granholt,Maren Holtet,Undirected,1
+Knorterud,Maren Holtet,Undirected,2
+Maren Holtet,lille Anne,Undirected,1
+Anne,Bedstefader,Undirected,2
+Anne,Granholt,Undirected,1
+Anders,Bedstefars,Undirected,1
+Anders,Bedstefar,Undirected,2
+Anne,Bedstefar,Undirected,1
+Bedstefar,vesle Anne,Undirected,1
+Granholt,Maren Fidtet,Undirected,1
+Anders,Maren Fidtet,Undirected,1
+Anders,Maren Holtet,Undirected,1
+Knorterud,lille Anne,Undirected,1
+Marens,lille Anne,Undirected,1
+Anders Braaten,Marens,Undirected,1
+Anders Braaten,Knorterud,Undirected,1
+Galten,Purke,Undirected,1
+Purke,j,Undirected,1
+uiff,urff,Undirected,1
+urf,urff,Undirected,1
+Rand. Andersen,Sørensen,Undirected,1
+Petersen,Sørensen,Undirected,3
+Aaget,Sørensen,Undirected,1
+Andersen,Sørensen,Undirected,8
+Andersen,Petersen,Undirected,1
+Kodiks,Laban,Undirected,1
+Almanach de Gotha,Senfelt,Undirected,1
+Grev Senfelt,Senfelt,Undirected,1
+Lejonhiertas,Senfelt,Undirected,1
+Josef,Marie,Undirected,4
+Marie,Nero,Undirected,6
+Marie,Stakkar,Undirected,2
+Gutten,Stakkar,Undirected,2
+Gutten,Marie,Undirected,2
+Josef,Nero,Undirected,7
+Gudbevars,Josef,Undirected,1
+Mesteren,Muller,Undirected,2
+Mesteren,Svend,Undirected,1
+Marie,hans,Undirected,1
+Marie,Tom,Undirected,1
+Jasaa,Josef,Undirected,1
+Josef Muller,Nero,Undirected,2
+Frick,Marie,Undirected,1
+Frick,Maja,Undirected,13
+Maja,Marie,Undirected,1
+Beitse,Gud,Undirected,1
+Maja,Mefistofeles,Undirected,1
+Marthe,Mefistofeles,Undirected,1
+Maja,Marthe,Undirected,6
+Frick,Marthe,Undirected,6
+Frick,lian,Undirected,1
+Gud,Marthe,Undirected,1
+Frick,S. L. Frick,Undirected,1
+Flun,Frick,Undirected,1
+Holm,Wille,Undirected,1
+Holm,Madam Hansen,Undirected,2
+Herkules,ikkePilatus,Undirected,1
+Jasaa,stakkars,Undirected,1
+Marthe,stakkars,Undirected,1
+Marthe,Piolm,Undirected,1
+Bing,Piolm,Undirected,1
+Bing,Plolms,Undirected,1
+Naa,Piolm,Undirected,1
+Bing,Holm,Undirected,2
+Jasaa,jasaa,Undirected,3
+Hans,Olsen,Undirected,8
+Holm,Olsen,Undirected,4
+Gud,Gut,Undirected,2
+Hr. Holm,Olsen,Undirected,1
+Gut,Olsen,Undirected,1
+Flolm,Olsen,Undirected,1
+Gud,Hans,Undirected,1
+Hans,Holm,Undirected,1
+Elise,Hans,Undirected,3
+Holm,taus,Undirected,1
+Elise,Holm,Undirected,1
+Elise,Sandberg,Undirected,1
+Elise,Hr. Holm,Undirected,1
+Gud,Holm,Undirected,2
+Hans,Sandberg,Undirected,1
+Emma,Jagdman,Undirected,9
+Papa,Seydei,Undirected,1
+Hans,Hilda,Undirected,1
+Emma,Hans,Undirected,1
+Emma,Jagdman)-,Undirected,1
+Teodor,jagdmans,Undirected,1
+Fritz,Ursula,Undirected,29
+Hilda,Ursula,Undirected,9
+Papa,Ursula Bom,Undirected,1
+Papa,Skara,Undirected,1
+Hilda,Skara,Undirected,1
+Jagdman,Teodor,Undirected,4
+Bergman,Papa,Undirected,5
+Papa,Seydel,Undirected,2
+Bergman,Seydel,Undirected,1
+Bergman,Hilda,Undirected,1
+Hilda,Teodor,Undirected,8
+Hilda,ogRinmans,Undirected,1
+Tante Ursula,ogRinmans,Undirected,1
+Hilda,Papa,Undirected,1
+Bergman,Teodor,Undirected,4
+Papa,Teodor,Undirected,2
+Jagdman,Papa,Undirected,1
+Seydel,Ursula,Undirected,6
+Fritz,Seydel,Undirected,7
+Seydel,Teodor,Undirected,1
+Blumenbergs,Ursula,Undirected,1
+Emma,Ursula,Undirected,2
+Emma,Hilda,Undirected,13
+Fritz,Hilda,Undirected,3
+Emma,Seydel,Undirected,3
+Herr Blumenberg,Ursula,Undirected,1
+Hr. Bergman,Hr. Seydel,Undirected,1
+Blumenberg,Jagdman,Undirected,2
+Don Juan,Seydel Aha,Undirected,1
+Jasaa,Maja,Undirected,1
+Hilda,Tante Ursula,Undirected,1
+Jagdman,Tante Ursula,Undirected,1
+Gud,Hilda,Undirected,3
+Bergman,Jagdman,Undirected,2
+Magen,Seydel,Undirected,1
+Hilda,Seydel,Undirected,1
+Emma,skjelmsk,Undirected,2
+Mama,skjelmsk,Undirected,1
+Emma,Fritz,Undirected,5
+Emma,Teodor,Undirected,2
+Blumenberg,Teodor,Undirected,2
+Fritz,TeodOf,Undirected,1
+Fritz,Tante Ursula,Undirected,1
+-,Teodor,Undirected,1
+Fritz,Teodor,Undirected,3
+Axel,Teodor,Undirected,1
+Axel,Valborg«,Undirected,1
+Knut,Valborg«,Undirected,1
+Blumenberg,brydd,Undirected,1
+Blumenberg,Papa,Undirected,2
+Gud,Papa,Undirected,1
+Gud,Sypigen,Undirected,1
+Frøken Ursula,Joho,Undirected,1
+Frøken Ursula,Stina,Undirected,1
+Hr. Seydel,Seydel,Undirected,1
+Blumenberg,Hilda,Undirected,3
+P'røken Ursula,Stina,Undirected,1
+Fritz,Hr. Blumenberg,Undirected,2
+Stina,Tante,Undirected,2
+Hilda,Jagdman,Undirected,2
+Hilda,Stina,Undirected,3
+Fritz,Lotta,Undirected,2
+Fritz,Papa,Undirected,1
+skbna,uti Hildings,Undirected,1
+Hilda,skbna,Undirected,1
+Teodor,Ursula,Undirected,2
+Hilda,dagas,Undirected,1
+Fritz,Stina,Undirected,3
+Lotta,Stina,Undirected,1
+F ritz,Lotta,Undirected,1
+Gud,Stina,Undirected,1
+Blumenberg,Ursula,Undirected,3
+Sympathi,Teodor,Undirected,1
+Gud,Hr. Blumenberg,Undirected,1
+Blumenberg,Hr.Blumenberg,Undirected,1
+Blumenberg,Hr. Blumenberg,Undirected,1
+Jagdman,Seydel,Undirected,3
+Blumenberg,Fritz,Undirected,1
+Blumenberg,Stina,Undirected,1
+Blahaha,Hilda,Undirected,1
+Jasaa,Ursula,Undirected,3
+Bergman,Blumenberg,Undirected,3
+Bergman,Frøken Borns,Undirected,1
+Bergman,Fritz,Undirected,3
+Fritz,Hr. Jagdman,Undirected,1
+Hr. Jagdman,Teodor,Undirected,1
+Seydel,naaja,Undirected,1
+Ursula,naaja,Undirected,1
+Hr. Blumenberg,Jagdman,Undirected,2
+Hr. Blumenberg,Hr. Seydel,Undirected,1
+Frøken Ursula,Seydel,Undirected,1
+Seydel,lille Emma,Undirected,1
+Pivad,lille Emma,Undirected,1
+Emma,lille Emma,Undirected,1
+Fritz,Jagdman,Undirected,2
+Gud,Jagdman,Undirected,1
+Bergman,Emma,Undirected,1
+joho,lille Emma,Undirected,1
+Hr. Jagdman,joho,Undirected,1
+Hr. Jagdman,Jasaa,Undirected,1
+Daasen,Emma,Undirected,1
+Papa,jagdman,Undirected,1
+Jagdman,jagdman,Undirected,1
+Emma,Piar,Undirected,1
+Blumenberg,Hr. Jagdman,Undirected,1
+Bergman,Gud,Undirected,1
+Fritz,Taa,Undirected,1
+Blumenberg,Jasaa,Undirected,1
+Blumenberg,Pelikan,Undirected,2
+Marie,Ursula,Undirected,1
+F ritz,Seydel,Undirected,1
+Jagdman,Ursula,Undirected,2
+Fritz,jagdman,Undirected,1
+Stina,Ursula,Undirected,3
+Blumenberg,Emma,Undirected,1
+Bergman,Hr. Jagdman,Undirected,1
+Hilda,falder Bergman,Undirected,1
+Bergman,Ursula,Undirected,1
+Blumenberg,Fritz ftager Jagdman,Undirected,1

@@ -1,0 +1,1135 @@
+source,target,timestamp
+Tordenskjold,Tordenskjold knn,3
+Steffens,Tordenskjold knn,3
+Gud,Steffen,7
+Hans,Steffen,16
+Gud,Ieg,22
+Ask del,Bluhme,32
+Bluhme,Køngen^,39
+Bluhme,Holberg,42
+Bluhme,Holberg,46
+Christian,Frederik den,52
+Frederik den,Gud,52
+Bartholomæus Bluhme,Kong Christian,53
+Bluhme,Kong Christian,53
+Bluhme,Christian,53
+Bluhme,Lakaien,66
+Bartholomæus Bluhme,Bluhme,74
+Krock,øg de Thurah,75
+Hoffef,Krock,75
+Bluhme,Taflets,80
+Lea,Rachel,81
+Blnhme,Køngen,87
+Blnhme,Køngen,87
+Blnhme,Køngen,88
+Bluhme,Lakaien,106
+Bluhme,Lakaien,107
+Bluhme,lee,134
+Beiler,Concretus,135
+Beiler,hnn,135
+Kong Christian,hnn,135
+Beiler,Kong Christian,135
+Olr,eos lromwos,142
+Ieg,Ornes,151
+Bluhme,Vizir,162
+Bluhme,Ieg,176
+Christian,Sofie Magdalene,178
+Prindsessen,Sofie Magdalene,178
+Prindsessen,Sofie Magdalene,178
+Christian,Sofie Magdalene,178
+Christian den,Frederik den,180
+Frederik den,Kronprinds Christian,180
+Løi-tenanten,Mogens Friis,183
+Mogens Friis,ber,183
+Mogens Friis,j,186
+Friis flog,Holger Urne,197
+Bravo,Steffan Galt,201
+Steffan Galt,fagds,201
+Friis,Holger Urne,205
+Okevulior,Urns,222
+Friis,Urnes,250
+Friis,Sofiee Magdalene,251
+Mollke,Urne,259
+Moltke,Urne,265
+Holger Urne,tens,267
+Holger,Molkte,268
+Moltke,Urne,272
+Korfitz Ulfeld,Signelil,275
+Urne,øg,278
+Gehcimeraadens,Urne,290
+Geheimeraad,Pless,292
+Gud,Pless,294
+Gud,Pless,294
+,Pless,294
+,Christian den,294
+Bluhme,Pless,296
+Bluhme,Pless,296
+Pless,Urne,296
+Bluhme,Conrad Pless,297
+Bluhme,Conrad Pless,297
+Geheimeraad Pless,Geheimeraaden,306
+Herkules,Pless,326
+Hans Majesfæt,Pless,329
+,Pless,339
+,Urne,339
+Holger Urne,Pless,342
+Bartholds,Guttenbergs,348
+Bartholds,Schwartz,348
+Geheimeraad Conrad Pless,Schwartz,348
+Geheimeraad Conrad Pless,Pless,348
+Pless,øg,349
+Edes,Holger Urne,350
+Conrad,Pless,352
+Ester,Karlen,359
+Jon,Karlen,360
+Karlen,froer,370
+Geheimeraad,Karlen,375
+Plefs,Pless,376
+Herr Geheimeraad,Pless,378
+Karl,Urne,379
+Køngen,Sands,387
+Sands,Taflets,387
+Bluhme,Pless,388
+Bluhme,Køngen,389
+Køngen,Taflets,390
+Køngen,Taflets,390
+Bluhme,Køngen,390
+Bluhme,Pless,390
+Carolus Magnus,Pless,390
+Urne,for-Bluhmes,391
+Urne,for-Bluhmes,391
+Geheimeraad Pless,Urne,396
+Bluhme,b. klazer,400
+Geheimeraad Pless,hnn,407
+Geheimeraad Pless,Pless,407
+Bluhme,Veiens,413
+Geheimeraad Pless,Lieutenant Urne,422
+Herr Bluhme,Pless,425
+Herr Bluhme,Pless,427
+Bluhme,Pless,439
+Bluhme,Pless,440
+Blnhme,Pless,443
+Bluhme,Geheimeraad Pless,446
+,Geheimeraad Pless,446
+,Bluhme,446
+Bluhme,Eders,448
+Holberg,Ludvig Holberg,454
+Ludvig Holberg,Peder Paars,454
+Christian den,Peder Paars,454
+Christian den,Holberg,454
+Holberg,Peder Paars,454
+Holberg,Peder Paars,454
+Holberg,Ludvig Holberg,454
+Holberg,Ludvig Holberg,454
+Holberg,Per-nillers,454
+Hsndrikkers,Per-nillers,454
+Hsndrikkers,Jeppe,454
+Holberg,Jeppe,454
+Holberg,Krøsus,456
+Krøsus,Ludvig Holberg,456
+Holberg,Ludvig Holberg,456
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,nanmodet,458
+Holberg,nanmodet,458
+Bøttger,Holberg,458
+Bøttger,Holberg,458
+Bøttger,Holberg,459
+Holberg,Stads-Chirurgus Carl Frederik Reiser,459
+Bøttger,Stads-Chirurgus Carl Frederik Reiser,459
+Bøttger,Holger Urne,459
+Holger Urne,Urne,459
+Holberg,Urne,459
+Holberg,Mester Bøttger,459
+Holberg,Mester Bøttger,459
+Holberg,voxen,461
+Holberg,voxen,461
+Holberg,Reisers,461
+Holberg,Reisers,461
+Holberg,ollronigus scniillultznss,461
+Ester,ollronigus scniillultznss,461
+Bøttger,Holberg,462
+Holberg,Niels Klims,462
+Niels Klims,Sieur,462
+Holberg,Reiser,465
+Holberg,Monsieur,466
+Holberg,Monsieur,467
+Reiser,hdmygst,470
+Holberg,sif,471
+Karl,Mester Bøttger,473
+Bøttger,Holberg,475
+Monsieur Hermann,Reiser,479
+Holberg,Reiser,479
+Holberg,Mænsieur,480
+Holberg,Roes,484
+Roes,Sands,484
+Holberg,Mester Bøttger,485
+Holberg,fog,485
+Bøttger,fog,485
+Mester Bøttger,Svend,486
+Anton Iversen,Svend,486
+Anton Iversen,Bøttger,486
+Bøttger,Jomfru Leonores,486
+Anton Iversen,Jomfru Leonores,486
+Holberg,Mester Bøttger,488
+Holberg,Leonore Anton,488
+Anton,Leonore,493
+Anton,Jomfru Leonorcs,493
+Marsch,Urne,501
+Bøttger,Leonore,503
+Bøttger,Leonore,503
+Iversen,Leonore,503
+Bøttger,Iversen,503
+Bøttger,ester,503
+Leo-nores,Leonore,507
+Bøttger,sif,508
+Iversen,Mesfer,509
+Mesfer,Mesfer Bøttger,511
+Antonius,Holberg,514
+Mester Bøttger,Roes,518
+Iversen,Mesfer Bøttger,525
+Jomfru Leonore,Mesfer Bøttger,526
+Anton Jversens,Svend,528
+Anton Jversens,Mester Bøttger,528
+Bøttger,Gøtt-gers,530
+Iversen,Mester Bøttger,535
+Abelone,Mamsel Leonore,544
+Mamsel Leonore,Monsienr Iversen,544
+Ieg,Leonore,549
+Gud,elsfede Leonore,555
+Jomfru Leonore,Mesfer Bøttger,557
+Leonore,Mesfer Bøttger,559
+Holger Urne,Leonore,559
+Holger Urne,Mester Bøttger,559
+Hjeronymus,Leonore,560
+Ester,Mester Bøttger,561
+Hjeronymus Bøttger,Leonore,562
+Hjeronymus Bøttger,Leonore,562
+Hans,Majesfæt,573
+Herr Bluhme,Majesfæt,573
+Herr Bluhme,Sophie Magdalene,573
+Bluhme,Majeslæt,579
+Majeslæt,Niels Hedehus,579
+Majeslæt,Niels Hedehus,579
+Blnhme,Konfes-sionarius,585
+Blnhme,Konfes-sionarius,585
+Bøttger,Tycho Brahcs,593
+Bøttger,Mester Bøttger,594
+Bøttger,Holberg,594
+Holberg,Mester Bøttger,596
+Holberg,Mester Bøttger,596
+Holberg,Peblinges,599
+Monsieur,Pebling,600
+Monsieur,Peblinge,600
+Holberg,Mester Bøttger,601
+Holberg,Mester Bøttger,604
+Bøttger,Tycho Brahe,616
+Holberg,Monsieur Bøttger,620
+Holberg,Monsieur Bøttger,623
+Bluhme,Holberg,623
+Bluhme,Pless,623
+Ludvig Holberg,Pless,623
+Holberg,Mester Bøttger,624
+Mester Bøttger,strax,624
+Bøttger,strax,624
+Bøttger,Mester Bøttger,624
+Mester Bøttger,reisfe,624
+Holberg,reisfe,624
+Holberg,Niels Klim,626
+Abelone,Monsieur Urnes,629
+Abelone,Urne,629
+Hans Excellence,Holger Urne,630
+Geheimeraad Pless,Hans Excellence,630
+Geheimeraad Pless,Holger,637
+Sergeanten,Urne,644
+Ieg,Urne,653
+Bluhme,L lu 8uits,669
+Bluhme,Pless,674
+Bluhme,Pless,675
+Ieg,Pless,678
+Geheimeraad Pless,Pless,684
+ItvM inujestatis,Lieutenant Urne,687
+Geheimeraad,Pless,688
+Mesfer Bøttger,Monsieur Reiser,695
+Holberg,Reiser,696
+Bartholomæus Bluhme,Geschichtens,697
+Bøttger,Sieur Reiser,698
+Bøttger,Urne,698
+Holberg,Urne,698
+Mester,Svend,704
+Mester,Svend,706
+Mesfer,Monsieur,707
+Bøttger,Holberg,709
+Holberg,Reiser,709
+Bøttger,Reiser,709
+Anton Iversen,Mester Bøttger,715
+hans Leonora,l Den unge,717
+Bøttger,Leonora,718
+Leonora,Mester Bøttger,718
+Holger Urne,Mester Bøttger,718
+Bøttger,Urne,719
+Bøttger,Urne,719
+Christian den,Kudsk,720
+Anders Peersen,Ieg,724
+Heisa,Hopsa,727
+Køter,sfor,729
+Bluhme,øg,739
+Bluhme,Sophie Magdalene,739
+Sands,Shakespeares,745
+Molieres,Shakespeares,745
+Colberg,Molberg,746
+Monsienr Bluhmes,Sophie Charlolte,748
+Monsieur Blnhme,Sophie Magda-lene,752
+Dn,Sophie Charlotte,763
+Christian,Sophie Charlotte,763
+Jomfru Bøttger,Mester Bøttger,767
+Gardeofficier,Jomfru Bøttger,767
+Holger von Urne,von Bnlow,769
+Holger von Urne,Jomsrue Bottger,769
+Jomsrue Bottger,celdste,769
+Gud,celdste,769
+Achilles,Hundsvot,773
+A.,B.,775
+paany,riDgnok,786
+Urne,riDgnok,786
+Jomfru Leonore,Urne,786
+Jomfru Leonore,Urne,786
+Lieutenanten,Wilhelm von Huth,803
+Urne,von Huth,806
+Holberg,Mesfer Bøttger,808
+ester,gommen,809
+gommen,von Huth,809
+Bluhme,sans comparaison,823
+Mazarin,Richelieu,826
+Bluhme,Ludvig Holberg,842
+Monsieur Bluhme,Monsieur Urne,848
+Bluhme,Geheimeraad Pless,851
+Bluh-mes,Urne,853
+Nemesis,Urne,853
+Christian den,Hoffef,864
+Christian den,Urne,864
+Urne,sorHUrr,864
+Monsieur,lee,867
+Monsieur,Reiser,867
+Ieg,Urne,868
+Christian den 4dcs,Monsieur Spytte-gøg,871
+Christian den 4dcs,Peder Hvidtfeld,871
+Geschichte,Peder Hvidtfeld,871
+Holberg,Monsieur,874
+Christian den,Holberg,874
+Arild Hvidtfeld,Christian den,874
+Arild Hvidtfeld,Peder Hvidfeldt,874
+Monsieur,blol,877
+Monsieur,Urne,883
+Reifer,Urne,895
+Reiser,Urne,895
+Monsieur,Næcingsvei,898
+Bøttger,Monsieur,900
+Jomfru Bøttger,Reiser,901
+Reiser,Urne,907
+Genius,Holger,908
+Genius,fig,908
+Urne,j,912
+Mester Bøttger,Reiser,916
+Holberg,Mester Reiser,921
+Bøttger,Holberg,923
+Jomfru Bøttger,Urne,924
+Bøttger,Holberg,927
+Monsieur,Reiser,929
+Monsieur,Urne,931
+Urne,visfnok,931
+Reiser,Urne,932
+Gud,Monsieur Bøttger,939
+Bluhme,Gud,942
+Gud,Morpheus,942
+Lieutenant Urne,sif Væddemaal,955
+Ge-heimcraad Pless,Pless,958
+Herr Bluhme,Monsieur Bluhme,962
+Blnhme,Monsieur Urne,966
+Lehn,Monsieur Urne,966
+Lehn,Monsieur-Urne,966
+Blnhme,sif,968
+Blnhme,sif,968
+Ieg,Monsieur Bluhme,975
+Ieg,Monsieur Bluhme,975
+Monsieur,Monsieur Bluhme,980
+Bluhme,Evers,981
+Adre,Monsieur,983
+Bakus,Mesfer Bøttger,984
+Bakus,Reiser,984
+Svend,Urne,995
+Pless,Urne,1004
+Podagras,Reiser,1021
+Holberg,Stads-Chirurgus Reiser,1030
+Carl Friederich,Gud,1034
+Carl Friederich,Friederich,1034
+Pee Nielen,Peer Nielen,1040
+Obersfen,Urne,1045
+Urne,kasfes,1054
+Gud,Malth,1058
+Holger Urne,Obersfen,1061
+Mesfer Bonifacius,Urne,1074
+Mesfer Bonifacius,Urne,1075
+Gud,Urne,1079
+Bonifacius,Tydsk,1080
+Bonifacius,Monsieur Urne,1092
+Bonifacius,Urne,1094
+Bonifacius,Monsieur Urne,1099
+Ester,Urne,1103
+Holger Urne,Monsieur Bluhme,1105
+Urne,d.,1113
+Chrisfian den,Stads-Kirurgus Reiser,1116
+Mester Bonifacius,Tydsk,1117
+Mesfer Bonifacius,Urne,1119
+Bonifacius,Mester Bonifacius,1128
+Mesfer Bo-nifacius,strax,1134
+Bonifacius,Møllerens,1140
+Møller,Møllerens,1140
+Bonifacius,Urne,1143
+Holger Urne,Mester Bonifacius,1145
+Banifacius,Holger Urne,1146
+Christian den,lee,1147
+Gud,Monsieur Urne,1151
+Holberg,Sjavs,1157
+Herr Holberg,Holberg,1163
+Holberg,Monsieur,1164
+Gud,Herr Holberg,1165
+Gud,Herr Holberg,1165
+Herr Holberg,fro,1166
+Kong Christian,Reiser,1169
+Bluhme,Monsieur Bluhme,1170
+Bluhme,Monsieur Bluhme,1170
+Jomfru Bøttger,Urne,1181
+Jomfru Bødtcher,Reiser,1190
+Barmwittz,paany,1195
+Christian,Køngen,1197
+Sofie Caroline,øg,1200
+Sofie Magdalene,øg,1200
+Sofie,Sofie Caroline,1201
+Caroline,Sofie,1201
+Dronning Sofie,Sofie Magdalene,1203
+Christian den,Urne,1204
+Geheimeraad Pless,Pless,1206
+Ederselv,Majesfæt,1211
+Geheime-raadsns,Urne,1217
+Pless,Urne,1220
+Pless,Urne,1232
+Pless,paany,1235
+Lakai,Mester Bonifasius,1237
+Mester Bonsacius,sledse,1239
+Bonifacius,sledse,1239
+Bonifacius,Pless,1240
+Bonifacius,Pless,1240
+Bluhme,Monsieur,1243
+Bluhme,Urne,1243
+Gsheimeraad,Urne,1243
+Gsheimeraad,Pless,1243
+Monsieur Bluhme,nence,1244
+Lakaien,Monsieur Bluhme,1245
+Lakaien,Monsieur Bluhme,1246
+Bluhme,ester,1251
+Monsieur Blnhme,Nidt,1254
+Blnhme,Nidt,1254
+Bluhme,as,1261
+Bluhme,Monsieur Bluhme,1262
+Mazarin,Richelieu,1263
+Mazarin,nik,1263
+Bluhme,nik,1263
+Bluhme,Geheimeraad Pless,1263
+Bluhme,Geheimeraad Pless,1263
+Bluhme,sif,1263
+Bluhme,Monsieur Bluhme,1264
+Bluhme,Urne,1267
+Bluhme,Holger Urne,1274
+Geheimeraad Pless,Monsieur,1278
+Bluhme,Monsieur Urne,1285
+Herr Holger Urne,Pless,1289
+Geheimeraad Pless,Pless,1289
+Bluhme,Geheimeraad Pless,1298
+Bluhme,Geheimeraad Pless,1298
+Geheimeraad Pless,Holger Urne,1301
+Holger Urne,Pless,1301
+Holger Urne,Pless,1301
+Holberg,Monsieur,1308
+Monsieur,Monsieur Holberg,1308
+Monsieur Holberg,Monsieur Urne,1308
+Bonifacius,Holger Urne,1313
+Bonifacius,Pless,1320
+Pless,Urne,1321
+Holger Urne,Monsieur Urne,1322
+Holger Urne,Karl,1322
+Holger Urne,Pless,1323
+Bluhme,Holger Urne,1325
+,Gcheimcraad Pless,1331
+Geheimeraad Pless,Monsieur Urne,1332
+Urne,hnn,1334
+Eders,Urne,1339
+Geheimeraad Pless,Holger Urne,1344
+Bluhme,Geheimeraad Pless,1346
+Monsieur Bluhme,Seir,1347
+Peder Syvs,Seir,1347
+Peder Syvs,Steen,1347
+Bluhme,Geheimeraad Pless,1348
+Bluhme,Pless,1348
+Pless,Urne,1348
+Gud,Urne,1363
+Bøttger,j,1367
+Chirurgus Reisers,Monsieur Reiser,1374
+Chirurgus Reisers,ester,1374
+Mester Bøttger,Monsieur,1377
+Holberg,Monsieur,1377
+Holberg,Mester Bøttger,1378
+Holberg,Monsieur,1379
+Bøttger,Holberg,1380
+Holberg,Monsieur,1385
+Gud,Holberg,1385
+Arilds,Monsieur,1387
+Ieg,Monsieur,1389
+Holberg,Monsieur,1389
+Reiser,Sati-rikus,1391
+-,Geheimeraad Pless,1393
+Christian Vi,Sofie Magda-lene,1394
+Christian den,Dronning Sofie Magdalene,1412
+Christian den,Dronning Sofie Magdalene,1412
+Christian den,Frederik,1412
+Christian den,Frederik,1412
+Frederik den,Throne,1413
+Monsieur Bluhme,Throne,1413
+Christian den,Monsieur Bluhme,1413
+Christian den,Prinds,1413
+Monsieur Bluhme,Prinds,1413
+Christian den,Monsieur Bluhme,1413
+Christian den,Frederik den,1413
+Fleertallel,Frederik den,1413
+Adam Gottlob Mollke,Fleertallel,1413
+Adam Gottlob Mollke,Grev Molktes,1413
+Frederik,Grev Molktes,1413
+Frederik,Louise,1413
+Erik,Louise,1413
+Erik,Louise,1413
+Frederik den,Louise,1413
+Frederik den,Louise,1413
+Juliane,Louise,1413
+Juliane,Marie,1413
+Frederik den,sif,1414
+Pøbelens,sif,1414
+Holberg,Pøbelens,1414
+Frederik den,Holberg,1415
+Liaison,Pless,1420
+j,mir,1424
+,Geheimeraad Pless,1429
+Louise,Peter-Nielsen,1430
+Prindsesse,Sofie Caroline,1433
+Def,Landsperg,1435
+Landsperg,sif,1437
+Landsperg,hcndes,1438
+Landsperg,hcndes,1438
+Landsperg,ester,1462
+,Geheimeraad Pless,1463
+,Peter Nielsen,1463
+Frederik den,Peter Nielsen,1463
+,Frederik den,1463
+,Geheimeraad,1463
+Geheimeraad,Peter Nielsen,1463
+Geheimeraad Pless,Geheimeraaden,1480
+Geheimeraad Pless,Geheimeraaden,1481
+Karethen,Pless,1482
+,Pless,1493
+Monsieur Bluhme,Pless,1502
+Frederik den,Hcevd,1510
+Peter Nielsen,Vartov,1511
+Geheimeraad Pless,kjæræ,1516
+,Geheimeraad Pless,1517
+Blaataarn,Leonore Kirstine,1521
+Christian den,Leonore Kirstine,1521
+Frederik den,Louise,1530
+Juliane Marie,Louise,1530
+Frederik den,Juliane Marie,1530
+Frederik den,Juliane Marie,1531
+Frederik den,Juliane Marie,1531
+Juliane Marie,Kronprinds Christian,1531
+Juliane Marie,Kronprinds Christian,1532
+Frederik den,Juliane Marie,1533
+Juliane Marie,Louise,1534
+Au-dients,Geheimeraad Pless,1535
+Frederik V,Juliane Marie,1537
+Geheimeraa-dens,Pless,1545
+Geheimeraa-dens,Pless,1545
+Judas,Kristus,1548
+ester,gridfl,1552
+Pless,ester,1553
+Christian den,ester,1553
+Christian den,Juliane Marie,1553
+Juliane Marie,Pless,1553
+Majesfæt,Pless,1554
+Pless,fransf Grund,1559
+Prindsessen,fransf Grund,1559
+Mhnheer van,Mhnheer van der Brygge,1561
+Brygges,der Brygge,1562
+der,der Brygge,1563
+Myn-heer,der Brygge,1563
+Hnn,Mademoiselle Ulrica,1566
+Hnn,Mademoiselle Ulnca,1566
+Mademoiselle Ulnca,der Brygge,1566
+der,der Brygge,1566
+Ulrica,der,1566
+Fruens,Gud,1569
+Gud,Ulrica,1569
+Mynheer van der,Ulrica,1569
+Mademoiselle Ulrica,Mynheer van der,1569
+Mademoiselle Ulrica,Ulrica,1569
+der Brygge,strax,1570
+Chevalier,Mynheer van,1584
+Mynheer van der,der,1585
+Ulrica,der,1585
+Gud,Ulrica,1585
+Mynheer van der Brygge,der Brygge,1586
+Ulrica,der Brygge,1587
+Christian,Frederik,1591
+Frederik,rnig,1591
+Mynheer,Sokrates,1593
+Aldermann,Ester,1596
+Heinrich Kirchhofs,Pavens,1613
+Kirchhofs,Pavens,1613
+Kirchhoffs,Kirchhofs,1616
+Kirchhofs,U ' XiZIo,1618
+Monsieur,U ,1619
+U ,Xi^s,1619
+Gud,Kirchhofs,1624
+Gud,Kirchhofs,1624
+Kapitaincn,Knchhoff,1626
+Christian den Sjette,Kirchhofs,1629
+Christian den Sjette,Kirchhofs,1629
+Gud,Kirchhofs,1630
+Feaucart,Kirchhofs,1633
+Kapitainen,Mr. Kirchhofs,1634
+Monsieur Kirchhofs,Mr. Kirchhofs,1634
+Kirchhofs,Monsieur Feaucart,1635
+Kirchhøfs,Monsieur Feaucart,1639
+Kirchhofs,Kirchhøfs,1641
+Antoinette,Monsieur Kirchhoff,1644
+Bonmots,Feaucart,1646
+Feaucart,Kirchhoffs,1646
+Kirchhoffs,Kirchhofs,1646
+Feaucart,Kirchhofs,1646
+Antoinette,Mr. Kirchhofs,1647
+Monsieur Kirch-hoff,mintro,1649
+Kirchhofs,Monsieur,1650
+Feaucurt,Mademoiselle Antonistte Feaucarts,1654
+Antoinette,Mademoiselle Antonistte Feaucarts,1654
+Kirchhofs,Knchhoff,1655
+Feau-carts,Kirchhofs,1655
+Feancart,Kirchhosfs,1657
+Feancart,Kirchhofs,1658
+Kirchhofs,Mademoiselle,1658
+Anfoinette,Mademoiselle,1658
+Feaucart,Kirchhofs,1662
+Feancart,Kirchhofs,1665
+Heinrich Kirchhofs,Monsieur Feaucart,1676
+Kirchhofs,Monsieur Feaucart,1676
+Eierinden,Kirchhofs,1678
+Eierinden,Juffrouw,1678
+Ebhard,Juffrouw,1678
+Antoinette Feaucart,Kirchhofs,1679
+Antoinette Feaucart,Juffrouw,1679
+Kirchhoffs,Kirchhofs,1680
+Ebbe,Heinrich,1685
+Kirchhofs,benhttes,1693
+Kirchhofs,Valdemar,1693
+Praxis,Theori,1694
+Monsieur Kirchhofs,Praxis,1694
+Monsieur Kirchhofs,Ulrica,1694
+Kirchhofs,Mynheer van,1695
+Kirchhofs,Kirchoff,1695
+Kirchhofs,Kirchoff,1695
+Monsieur Kirchhofs,der Brygge,1702
+Mademoiselle Ulrica,der Brygge,1702
+Heinrich Kirchhofs,Mynheer van der Brygge,1703
+Heinrich Kirchhofs,Mademoiselle Ulrica,1703
+Mademoiselle Ulrica,Mynheer van der Brygge,1704
+Ulrica,der Brygge,1713
+Gud,Ulrica,1715
+Ulrica,ravs,1716
+Ul-rica,der Brygge,1717
+Ulrica,Ulrica sva-dem,1721
+Lises,Ulrica,1723
+Lise,Lises,1723
+Lise,sif,1723
+sif,t.,1723
+Lise,t.,1723
+Lise,helsl,1723
+Lise,helsl,1723
+Jousirouw,Lise,1724
+Lise,der Brygge,1725
+Lise,Ulrica,1725
+Lise,Ulrica,1725
+Lise,Ulrica,1726
+Lise,Ulrica,1726
+Pavens,Ulrica,1726
+Lise,Pavens,1726
+Lise,Ulrica,1726
+Lise,Ulrica,1726
+Lise,Ulrica,1726
+Lise,Ulrica,1726
+Lise,Ulrica,1726
+Monsienr Kirchhofs,ul-tnirss,1727
+David Myops,Myops,1728
+David,Myops,1732
+David,strax,1736
+David,Myops,1738
+Myops,fidt,1738
+Myops,fidt,1738
+Martha,Myops,1738
+Gud,Martha,1745
+Gud,Jouffrouw,1745
+Jouffrouw,Lise,1745
+David,kjæræ,1753
+David,kjæræ David,1753
+Martha,kjæræ,1754
+David Myops,Heinrich Kirchhofs,1757
+Heinrich Kirchhofs,Jdees,1765
+Jdees,Mhops,1765
+Martha,Mhops,1765
+Martha,ester,1765
+Heinrich kirchhoff,ester,1765
+Mademoiselle Ulrica,der Brygge,1769
+Kirchhofs,der Brygge,1773
+Kirchhofs,der Brygge,1773
+Kirchhoff,Ulrica,1779
+Kirchhoff,Mademoiselle Ulrica,1780
+Monsieur Kirchhoff,sif,1784
+Myops,sif,1784
+Lise,sif,1785
+Kirchhofs,sif,1785
+Kirchhofs,Lise,1785
+Kirchhoff,Lise,1787
+Kirchhoff,Lise,1787
+Taarnuhr,atLise,1789
+Kirchhofs,Lise,1791
+Jouffrouw,Lise,1794
+Mademoiselle Ulrica,der Grhgge,1812
+Kirchhofs,hend,1813
+.,hend,1813
+Mademoiselle Ulrica,Ulrica laas,1821
+Ulrica stjaalne,Ulrika,1824
+Ulrica,Ulrica stjaalne,1824
+dt,hnn,1826
+Ulrica,hnn,1826
+Ulrica,der Brygge,1827
+Ulrica,der,1828
+Ulrica,der,1828
+Ulrica,der,1829
+Hanegal,Ulrica,1830
+der Brhgge,der Brygge,1831
+Lifts,Ulrica,1838
+Lise,Ulrica,1838
+Lise,der Brygge,1838
+Lise,Mademoiselle Ulrica,1839
+Lise,Mademoiselle Ulrica,1839
+Lise,Mademoiselle Ulrica,1839
+Lise,Ulrica,1840
+Lise,Ulrica,1840
+Lise,der Brygge,1841
+Vaa-ningshuset,der Brygge,1841
+Lise,Ulrica,1842
+Lise,der Brygge,1849
+Lise,Ulrica,1850
+Lise,Ulrica,1850
+Lise,Ulrica,1850
+Lise,Ulrica,1850
+Ulrica,sif,1852
+Lise,d-t,1853
+Lise,Ulrica,1853
+Lise,Ulrica,1853
+Lise,Ulrica,1853
+Lise,Mr. H. K.,1855
+Mademoiselle Ulrika,Mr. H. K.,1855
+Mademoiselle Ulrika,Ulrica,1855
+Lise,Ulrica,1855
+Lise,Ulrica,1856
+Lise,Ulrica,1856
+Lise,Ulrica,1859
+Kirchhofs,Mademoiselle Ulrica,1860
+Kirchhoff,Lise,1862
+Jouffrouw Lise,Kirchhoff,1864
+Lise,der Brygge,1867
+Mademoiselle Ulrica,der Brygge,1867
+Ieg,Kirchhoff,1868
+Ieg,Mademoiselle Ulrica,1871
+Monsieur,Myops,1876
+Mynheer,Myops,1876
+Mynheer,lee,1876
+Dands,lee,1876
+Dands,der Brygge,1876
+Iouffrouw,Kirchhofs,1878
+Jouffrouw Lise,Lise,1889
+Jouffrouw Lise,Kirchhofs,1889
+Lise,Mademoiselle Ulrica,1890
+Lise,Ulrica,1891
+Kirchhof,Lise,1891
+Lise,Ulrica,1892
+Lise,Ulrica,1892
+Mademoiselle Ulrica,Tantalns,1894
+Mademoiselle Ulrica,Tantalns,1894
+Lise,Mademoiselle Ulrica,1894
+Lise,Ulrica,1894
+Lise,Ulrica,1894
+Lise,Ulrica,1894
+Jonffrouw,Lise,1896
+Lise,asfljære Lise Leilighed,1896
+Ulrica,asfljære Lise Leilighed,1896
+Lise,Mademoiselle Ulrica,1898
+Jonffrouw Lise,Lise,1898
+Lise,Rubicon,1899
+Ulrica,der Brygge,1900
+der Brygge,sif,1903
+Ulrica,gjentøg,1909
+Ulrica,gjentøg,1909
+Ulrica,gjentøg,1913
+Mademoiselle Ulrica,hosFrusvan der Brygge,1914
+Lise,Mademoisellen,1915
+Heinrich Kirchhoff,Jouffrow Lise,1919
+Heinrich Kirchhoff,Kirch,1920
+-hoff,Kirch,1920
+Mademoiselle Ulrica,Ulrica,1923
+Ulrica,kjæræ,1923
+helsl,kjæræ,1923
+Kirchhoff,Lise,1927
+Mademoiselle Ulrica,Ulrica,1928
+Chevalier,Lise,1930
+Chevalier,Mademoiselle Ulrica,1930
+Kirchhoff,Lise,1931
+Lise,Ulrica,1932
+Chevalier,Ulrica,1934
+Lise,Ulrica,1937
+Kirchhof,Lise,1937
+Jouf-frou,Lise,1940
+Jouf-frou,Lise,1940
+Kirchhof,Lise,1940
+Daggry,Kirchhof,1940
+Daggry,Kirchhoff,1940
+Kirchhoff,maalløs,1951
+Kirchhoff,Lise,1953
+Christian den,Sofie Magdalene,1956
+Christian den,Sofie Magdalene,1956
+Frederik den,Juliane Marie,1957
+Geheimeraad Pless,Juliane Marie,1957
+Geheimeraad Pless,Pless,1958
+Geheimeraad Pless,Pless,1958
+Geheimeraad Pless,Majesfæt,1958
+Majesfæt,Prinds Carl,1958
+Køngen,Prinds Carl,1958
+Køngen,Prinds Carl,1958
+Køngen,Prinds Carl,1958
+Hcffeis,Køngen,1958
+Juliane Marie,Pless,1960
+Ove Høegh Guldberg,Prinds Frederik,1961
+Prinds Frederik,Prindsens,1961
+Guldberg,Prindsens,1961
+Guldberg,Hs.,1961
+Juliane Marie,Prindsen,1962
+Guldberg,Prindsen,1962
+Guldberg,Prinds Frederik,1962
+Kronprinds Christian,Prinds Frederik,1962
+Guldberg,Kronprinds Christian,1962
+Guldberg,Prinds Frederik,1962
+Juliane,Prinds Frederik,1962
+Juliane,Marias,1962
+Guldberg,Marias,1962
+Guldberg,Jacob,1964
+Jacob,Lea,1964
+Guldberg,Guldborgs,1965
+Guldberg,Guldborgs,1965
+Juliane Marie,Kronprinds Christian,1968
+Christian,Kronprinds Christian,1968
+Christian,Frederik den,1968
+Guldberg,Juliane Marie,1969
+Guldberg,Ove Høegh-Guldberg,1969
+Kronprinds Christian,Louise,1970
+Frederik,Kronprinds Christian,1970
+Frederik,Guldberg,1970
+Guldberg,Juliane Marie,1970
+Guldberg,Majesfæt,1972
+Guldberg,Majestæfs,1977
+Majeslæt,sif,1980
+Guldberg,Roes,1985
+Guldberg,Landsperg,1988
+Juliane Marie,Landsperg,1989
+Guldberg,Landsperg,1990
+Juliane Marie,Landsperg,1990
+Juliane Marie,Landsperg,1990
+Juliane Marie,Landsperg,1993
+Juliane Marie,Landsperg,1993
+Geheimeraad Pless,Kristians-borg,1994
+Landsperg,sif Dødsleie,1996
+sif Dødsleie,sor,1996
+Landsperg,sor,1996
+Cendrillon,Landsperg,1998
+Frederik den Femte,Landsperg,1998
+Frederik den Femte,Juliane Marie,1998
+Juliane Marie,Marie,1998
+Frederik den,sledse,2000
+Landsberg,strax,2001
+Danneskjold,Gyldenløve,2003
+Danneskjold,Ulrica,2003
+Landsperg,der Landsperg,2007
+Andientsen,Landsperg,2008
+Prindsesse Ulrica,Ulrica,2010
+Landsperg,Prindsesse Ulrica,2010
+Landsperg,Ulrica,2013
+Landsperg,øg,2014
+Frederik den,Landsperg,2020
+Henrik Ramel,ask,2022
+Gud,ask,2022
+Monsieurs Ramels,Ulrica,2023
+Heinrich Kirchhofs,Ulrica,2023
+. woll,Villie,2024
+. woll,Søulk,2024
+Dukat,Søulk,2024
+Anders Brolægger,Sslvtak,2029
+Christian den,Lars Larsen,2030
+Landsperg,Tjalfsn,2031
+Landsperg,sidsf,2033
+Hoffef,Landsperg,2040
+Landsperg,hels,2045
+Guldberg,Juliane Maris,2046
+Guldberg,Landsperg,2046
+Landsperg,Ulrica“,2046
+Guldberg,Ulrica“,2046
+Frederik,Guldberg,2046
+Frederik,Lakai,2046
+Guldberg,Lakai,2046
+Guldberg,Lakaien,2046
+Guldberg,nn,2053
+Dronning Sophie Magdalene,Guldberg taug,2055
+Balls,Caroline Mathilde,2056
+Guldberg,Knn,2057
+Guldberg,dan Hofmand,2059
+Guldberg,Guldborgs,2059
+Guldberg,Guldborgs,2059
+Juliane Maiie,Juliane Marie,2060
+Guldberg,Prindsesse Ulrica,2062
+Guldberg,Prindsesse Ulrica,2062
+Ju.,lians Marie,2064
+Kirchhof,Ramel,2073
+Kirchhof,Ramel,2073
+Kirchhof,Ramel,2073
+Kirchhof,Ramel,2073
+Amsferdam,Lise,2074
+Kirchhof,Kirchhoff,2075
+Kirchhoff,Tjalfen,2075
+Kirchhoff,Tjalfen,2075
+Daggry,Kirchhoff,2075
+Daggry,Kirchhoff,2075
+Kirchhoff,bezeistret,2075
+Kirchhoff,bezeistret,2075
+Kirchhoff,Lise,2075
+Kirchhoff,Lise,2075
+Kirchhof,Lise,2076
+Kirchhof,Lise,2076
+Kirchhof,Lise,2076
+Kirchhof,Lise,2076
+Kirchhof,pæa,2078
+Lise,pæa,2078
+Kirchhof,Lise,2078
+Kirchhof,Lise,2078
+Lise,sledse,2078
+Kirchhoff,Lise,2079
+Kirchhoff,Prindsessen,2080
+Kirchhoff,Prindsessen,2080
+Kirchhoff,Lise,2080
+Prindsessen,ap,2083
+Ester,Kirchhof,2086
+Kirchhof,Lise,2086
+Frederik den Femte,Lise,2086
+Lise,Tydsk,2087
+Kirchhof,Tydsk,2087
+Kirchhof,Lise,2087
+Kirchhof,Lise,2087
+Kirchhof,Lise,2087
+Kirchhof,Lise,2087
+Kirchhoff,Lise,2089
+Kirchhoff,Lise,2089
+Kirchhoff,Lise,2089
+Frederik den,Lands,2092
+-pergs,Lands,2092
+-pergs,Daggry,2092
+. Kirchhoff,Prindsessen,2094
+Juliane Marie,Ulrica,2104
+Ester,ester,2106
+Steffen,Tjalfen,2110
+Kirchhoff,Steffen,2110
+dernæsf,j,2111
+Monsieur Guldberg,dernæsf,2111
+Kirchhof,Lise,2131
+Kirchhof,Ulrica,2131
+Kirchhof,Lise,2136
+Lise,Prindsessen,2136
+Kirchhof,iland,2137
+Kirchhoff,Lise,2138
+Lise,iland,2139
+Kirchhof,Landsperg,2156
+Anna Sophie Magdalene,Majesfæt,2157
+Anna Sophie Magdalene,Frederikke Ulrica,2157
+Kirchhoff,Lise,2176
+Kirchhof,Lise,2177
+Kirchhoff,Lise,2179
+Lise,Ulrica,2183
+Or.,Ulrica,2183
+. Kirchhofs,Or.,2183
+Heras,Ulrica,2189
+Kirchhof,freidig,2195
+Prinds,seil,2205
+Kirchhof,Kirchhosf,2211
+Kirchhosf,strax,2211
+Kirchhoff,moll. Kirchhofs,2212
+Pless,hnn,2213
+Landsperg,Ulrica,2214
+Landsperg,Ulrica,2214
+Christian den,lee,2219
+Monsieur Reiser,Wiedewslt,2221
+Adam,Æblel,2231
+Adam,Monsieur,2232
+Adam,Æblel,2232
+Monsieur,Reiser,2233
+Ulrica,der,2243
+Brygges,der,2243
+Landsperg,sif,2248
+Landsperg,Lise,2252
+Lise,esterkom,2253
+Landsperg,Prindsessen,2257
+Landsperg,Prindsessen,2258
+Guldberg,Ulrica,2275
+Guldberg,Ulrica,2275
+Lieutenant Urne,Monsieur Reiser,2280
+. Kirchhofs,Lieutenant Urne,2280
+Polilimand,barTalemaade,2283
+Lakaien,Landsperg,2291
+Kaarde,Prindsessen,2297
+Landsperg,neppe,2301
+Landsperg,sif Leie,2305
+Lientenanten,Prindsessen,2308
+Lieutenanten,Prindsessen,2309
+Kirchhof,Lise,2312
+Kirchhoff,Lise,2312
+Kirchhoff,pra,2314
+ester al,siz,2315
+Kirchboff oz,ester al,2315
+Kirchhof,Resolulion,2317
+Kirchhof,Lise,2319
+Kirchhof,Lise,2319
+Kirchhoff,Lise,2324
+Kirchhoff,Lise,2324
+Kirchhoff,Kommandantens,2324
+Kirchhoff,Ulrica,2329
+Kirchhof,Kirchhoff,2331
+Kirchhof,Lise,2332
+Kirchhof,Lise,2332
+Kirch-hoffs,Lise,2332
+Knchhoff,ester,2333
+Kirchhof,vexledes,2338
+Kirchhoff,sorfeile,2342
+ester,mynders,2344
+Henrik Ra-mel,Henrik Ramel,2348
+Henrik Ramel,Ramel,2348
+Ramel,freisfe,2348
+Ramel,freisfe,2348
+Kirchhoff,Rammels,2349
+Kirchhoff,Ramel,2349
+Ramel,siz,2349
+Kirchhoff,siz,2349
+Kirchhoff,Ramel,2349
+Ramel,Tjalfen,2349
+Ramel,Tjalfen,2349
+Kirchhof,mandantens,2355
+Kirchhof,mandantens,2355
+llveirssky,sorudsee,2357
+B slutning,Guld-berg,2358
+B slutning,Guldberg,2358
+Guldberg,Majesfæt,2361
+Guldberg,Majesfæt,2361
+Prindsesse,Ulricca,2364
+Kong Christian den Sjette,Prindsesse,2364
+Christian den Sjette,Guldberg,2366
+Henry Ramel,Kirchhof,2368
+Henry Ramel,Tjalfen,2368
+Reiser,Tjalfen,2368
+Reiser,isfand,2368
+Kirchhof,Ulrica,2371
+Jouffrouw Lise,Ulrica,2371
+Henrik Ramel,Lise,2372
+Ramel,sif,2376
+Kirchhof,ester,2377
+Kaien,Kirchhof,2377
+Kaien,Ramel,2377
+Henrik Ramel,Ramel,2377
+Lise,der Brygge,2378
+Lise,der Brygge,2378
+Lise,sif,2378
+as,sif,2378
+Mademoiselle Ulrica,Ulrica,2379
+Ulrica,der Brygge,2379
+Ulrica,der Brygge,2379
+Mademoiselle Ulrica,Ulrica,2382
+Mademoiselle Ulrica,Ulrica,2385
+Mademoiselle Ulrica,hu,2385
+Ulrica,hu,2385
+Ulrica,der Brygge,2385
+Majestæts,Monsieur Kirchhofs,2392
+Guld-berg,Majestæts,2392
+Guld-berg,Guldberg,2392
+Guldberg,Landsperg,2393
+Kirchhof,Lise,2394
+Monsieur,asgaaer,2396
+Histo,Kirchhoff,2400
+Histo,rien,2400
+Peer Poses,rien,2400
+Kirchhoff,Prindsesse Ulrica,2403
+Kirchhoff,Prindsessen,2404
+Kirchhoff,Lise,2405
+Kirchhcff,Lise,2405
+Kirchhcff,Lise,2405
+Kirchhoff,Lise,2406
+Kirchhoff,Lise,2406
+Kirchhoff,dernæsf,2406
+Lise,dernæsf,2406
+Kongtn,Prindsessen,2407
+Kirchhoff,Prindsessen,2407
+Kirchhof,Lise,2410
+Kirchhof,Ulrica,2410
+Kirchhof,Lise,2417
+Kirchhof,Ramel,2418
+Kirchhof,Ramel,2418
+Kirchhof,Ramel,2418
+Kirchhof,Ramel,2419
+Ester,Monsieur Ramels,2421
+Henrik Ramel,Kirchhoff,2422
+Kirchhoff,Ramel,2423
+Guldberg,Ramel,2423
+Herr Ramels,sagve Guldberg,2425
+Herr Ramels,Kirchhof,2425
+Kirchhoff,Skipptren,2426
+Skipptren,devare,2426
+Gud,Monsieur Ramel,2431
+Gud,Mynheer van der,2431
+Guldberg,Kirchhoff,2432
+Henrik Ramel,Kirchhof,2433
+Karl,Kirch-hosfs,2440
+Kong Kristian den Sjette,strax,2442
+Christian den,Kong Kristian den Sjette,2442
+Kirchhoff,høilys,2447
+Frederik,Prinds,2449
+Frederik,Kronprindsens,2449
+Kirchhof,Kronprindsens,2449
+Ifjor,Kirchhof,2449
+Kirchhof,hilfedes,2451
+Guldberg,Lise,2457
+Guldberg,Prindsessen,2457
+Ester,sidsf,2460
+Frøken Ulricas,sidsf,2460
+Kirchhof,Lise,2461
+Lise,ester,2461

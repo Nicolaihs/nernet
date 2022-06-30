@@ -1,0 +1,101 @@
+source,target,type,weight
+Elisabeth,Olga Strøm,Undirected,4
+Gud,véd,Undirected,1
+Elisabeth,véd,Undirected,1
+Gud,Olga,Undirected,5
+Elisabeth,Gud,Undirected,2
+Elisabeth,Olga,Undirected,24
+Elisabeth,Ornatens,Undirected,1
+Elisabeth,Holm,Undirected,1
+Elisabeth,Elisabeth Broscher,Undirected,1
+Armbaand,Elisabeth Broscher,Undirected,1
+Elisabeth,Olivarius,Undirected,5
+Elisabeth,Frk. Hvidt,Undirected,1
+Clausen,cHan,Undirected,1
+Etatsraad Clausen,Frk. Olivarius,Undirected,1
+Clausen,Elisabeth,Undirected,5
+Elisabeth,Prinsessers,Undirected,1
+Frøken Holst,Frøken Vestrup,Undirected,1
+Brandt,Elisabeth,Undirected,75
+Brandt,Frk. Amalie,Undirected,2
+Frk. Amalie,Hr. Brandt,Undirected,1
+Frk. Olivarius,Hr. Brandt,Undirected,1
+Frk. Amalie,Frk. Olivarius,Undirected,1
+Brandt,Hades,Undirected,1
+Elisabeth,Frk. Amalie,Undirected,4
+Frk.,Ida,Undirected,1
+Amalie,Frk.,Undirected,1
+Gades,Henriksens,Undirected,1
+Brandt,Clausen,Undirected,2
+Amalie,Clausen,Undirected,1
+Brandt,Glausens,Undirected,2
+Brandt,Olivarius,Undirected,1
+Brandt,Frk. Olivarius,Undirected,1
+Frk. Olivarius,Frue,Undirected,1
+Brandt,tine,Undirected,2
+Elan,Elisabeth,Undirected,1
+Elisabeth,hejie,Undirected,1
+Josty“,voxne,Undirected,1
+Elisabeth,Heine,Undirected,1
+Elisabeth,Mo,Undirected,1
+Elisabeth,Tys,Undirected,1
+Leth,Tys,Undirected,1
+Brandt,Gud,Undirected,4
+Amalie,Gud,Undirected,1
+Amalie,Olga Strøm,Undirected,1
+Amalie,Olga,Undirected,1
+Amalie,Frk. Leth,Undirected,1
+Cliquen,Frk. Leth,Undirected,1
+Brandt,Cliquen,Undirected,1
+Gud,Skraa,Undirected,1
+Bjerring,Elisabeth,Undirected,3
+Olga,Olivarius,Undirected,1
+Albert,Elisabeth,Undirected,1
+Don Juan,Elisabeth,Undirected,1
+Olga,Strøms,Undirected,2
+Elisabeth,liendes,Undirected,1
+Olga,Tusch,Undirected,1
+Elisabeth,Konsul Bjerrings,Undirected,1
+Christiansen,Varberg,Undirected,1
+Saxen,Varberg,Undirected,1
+Bjerring,Brandt —,Undirected,1
+Elisabeth,Papa,Undirected,1
+Bjerring,Brandt,Undirected,3
+Elisabeth,Uhret,Undirected,1
+Clausen,Etatsraad Clausen,Undirected,1
+Elisabeth,Frk. Clausen,Undirected,1
+Brandt,L’,Undirected,1
+L’,hombre,Undirected,1
+Brandt,s,Undirected,1
+Brandt,Konsul Bjerring,Undirected,1
+Elisabeth,Konsulen,Undirected,1
+Harald Jessen,Olga,Undirected,1
+Elisabeth,Jessen,Undirected,2
+Harald Jessen,Steen,Undirected,1
+Jessen,Steen,Undirected,1
+Elisabeth,Harald,Undirected,30
+Harald,Harald Jessen,Undirected,1
+Brandt,Harald Jessen,Undirected,1
+Haraids,Olga,Undirected,2
+Harald,Olga,Undirected,12
+Harald,hans,Undirected,1
+Bjerring,Olga,Undirected,1
+Brandt,Olga,Undirected,1
+Eggen,Elisabeth,Undirected,1
+Eggen,Harald,Undirected,1
+Elisabeth,Møller,Undirected,10
+Haraids,Møller,Undirected,1
+Elisabeth,Hnn,Undirected,1
+Elisabeth,Steen,Undirected,3
+Harald,Steen,Undirected,1
+Gud,Harald,Undirected,3
+Harald,Mama,Undirected,1
+Elisabeth,Graad,Undirected,1
+Aløller,Steen,Undirected,1
+Aløller,Elisabeth,Undirected,1
+Pastor Møller,Steen,Undirected,1
+Møller,Pastor Møller,Undirected,1
+Møller,dito,Undirected,1
+Clausen,Harald,Undirected,1
+Ada,Mores,Undirected,1
+Bjærge,Mores,Undirected,1

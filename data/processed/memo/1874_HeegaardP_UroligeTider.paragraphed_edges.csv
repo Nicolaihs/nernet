@@ -1,0 +1,519 @@
+source,target,type,weight
+Sands,hnn,Undirected,1
+Christian,Nikoline,Undirected,19
+Christian,Johanne,Undirected,1
+Christian,jevn,Undirected,1
+Nikoline,hnn,Undirected,4
+Christian,slilles,Undirected,1
+Christian,Nikoline Krag,Undirected,1
+Bolvig,Nikoline,Undirected,10
+Leiers,Nikoline,Undirected,1
+Christian,Leiers,Undirected,1
+Banmann,Nikoline,Undirected,2
+Banmann,Nikokine,Undirected,1
+Kraff,Nikokine,Undirected,1
+Kraff,Marius,Undirected,1
+Marius,Nikoline,Undirected,3
+Baumann,vadsfe,Undirected,1
+Baumann,Steen,Undirected,2
+Fløil,Nikoline,Undirected,1
+Baumann,Nikoline,Undirected,12
+Angelika,Nikoline,Undirected,1
+Angelika,Marius,Undirected,2
+Krag,Marius,Undirected,2
+Krag,ester,Undirected,1
+Krag,Øe,Undirected,1
+Nikoline,Øe,Undirected,3
+Godseier Dalsgaard,Marius,Undirected,2
+Godseier Dalsgaard,Nikoline,Undirected,1
+Dalsgaard,Godseier Dalsgaard,Undirected,2
+Baumann,Dn,Undirected,1
+Baumann,Dalsgaard,Undirected,57
+Charles,Dalsgaard,Undirected,12
+Amanda,Charles,Undirected,2
+Augustus,Charles,Undirected,1
+Amanda,lapsus,Undirected,1
+Marie Antoinette,"Prindsesse,",Undirected,1
+Dalsgaard,Daniel,Undirected,8
+Daniel,kjære Baumann,Undirected,1
+Daniel,Nikoline,Undirected,4
+Baumann,Daniel,Undirected,2
+Dalsgaard,Karl,Undirected,2
+Bamnanns,Bolvig,Undirected,1
+Dalsgaard,Hnn,Undirected,1
+Bamnann,Dalsgaard,Undirected,1
+Christian Krag,Nikoline,Undirected,1
+Ieg,Jus,Undirected,1
+Felix Bernsteen,Theodor,Undirected,1
+Chrisfian,Theodor,Undirected,1
+Bernsteen,Chrisfian,Undirected,4
+Krag,Theodor,Undirected,3
+Bernsteen,Krag,Undirected,5
+Bernsteen,Christian,Undirected,16
+Bernsteen,Øe,Undirected,3
+Christian,Krag,Undirected,2
+Gud,Nikoline,Undirected,4
+Christian Krag,Felix Bernsteen,Undirected,1
+Gud,Krag,Undirected,1
+Hr. Bernsteen,jæg,Undirected,1
+Bernsteen,Nikoline,Undirected,1
+Christian,Godaffen,Undirected,1
+Godaffen,Godaffen Krag,Undirected,1
+Bernsteen,Godaffen Krag,Undirected,1
+Bernsteen,Cecilie,Undirected,2
+Cecilie,Principals,Undirected,1
+Karl,Principals,Undirected,1
+Christian,Karl,Undirected,3
+Cecilie Christian,Christian,Undirected,2
+Gud,Øe,Undirected,1
+Bernsteen,Tolberg,Undirected,1
+Bernsteen,Reiersen,Undirected,1
+Cecilie,Christian,Undirected,2
+Christian,liam,Undirected,1
+Bernsteen,liam,Undirected,1
+Alfred,Godseier Dalsgaard,Undirected,1
+Alfred,Dalsgaard,Undirected,11
+Alfred,Alfred Rützau,Undirected,3
+Alfred Rützau,Charles,Undirected,1
+Charles,s,Undirected,1
+Alfred,s,Undirected,1
+Alfred,tans,Undirected,1
+Dn,Margrethe,Undirected,1
+Alfred,Dn,Undirected,1
+Margrethe,hnn,Undirected,2
+Margrethe,hiinsides,Undirected,1
+Clans Bernsteen,Dalsgaard,Undirected,1
+Claus Bernsteen,Dalsgaard,Undirected,3
+Hans Jensen,Per Adrian,Undirected,1
+Per Adrian,Rasmus Studedriver,Undirected,1
+Bernsteen,Rasmus Studedriver,Undirected,1
+Bernsteen,Heida,Undirected,1
+Heida,Karle,Undirected,1
+Bonnesen,Margrethe,Undirected,2
+As,Bonnesen,Undirected,1
+Dalsgaard,kelse,Undirected,1
+Dalsgaard,Kraff,Undirected,1
+Kraff,orn,Undirected,1
+hnn,orn,Undirected,1
+Bolvig,Møller,Undirected,1
+Alfred,Bolvig,Undirected,8
+Daniel Hammer,Meesf,Undirected,1
+Daniel Hammer,Nikoline Krag,Undirected,1
+Baumann,Nikoline Krag,Undirected,1
+Baumann,Daniel Hammer,Undirected,2
+Daniel Hammer,as,Undirected,1
+as,paalangs,Undirected,1
+Daniel,Dhrr,Undirected,1
+Dhrr,Rhinskviin,Undirected,1
+Daniel,Per Adnan,Undirected,1
+Daniel,Per Adrian,Undirected,2
+Bernsteen,Per Adnan,Undirected,1
+Claus Bernsteen,Daniel,Undirected,4
+Bernsteen,Peter,Undirected,1
+Bernsteen,Daniel,Undirected,2
+Claus Bernsteen,Feliee,Undirected,6
+Clans Bernsteen,Felix,Undirected,4
+Clans Bernsteen,Feliee,Undirected,2
+Bernsteen,Feliee,Undirected,1
+Felix,Torben,Undirected,7
+Felix Bernsteen,Torben,Undirected,3
+Felix,Karl,Undirected,1
+Claus Bernsteen,Felice,Undirected,4
+Felix,Kapitain Oxford,Undirected,1
+Bernsteen,Morten Krog,Undirected,1
+Morten Krog,Rasmus Stag,Undirected,1
+Feliee,Felix,Undirected,2
+Clans Bernsteen,Tyge Raben,Undirected,1
+Feliee,Tyge,Undirected,2
+Claus Bernsteen,Tyge,Undirected,5
+Felice,Feliee,Undirected,1
+Felice,Felix,Undirected,2
+Banmann,Baumann,Undirected,2
+Baumann,Marius,Undirected,1
+Krag,Nikoline,Undirected,2
+Krag,Utak,Undirected,2
+Christian,dck,Undirected,1
+Bolvig,dck,Undirected,1
+Bernsteen,Bolvig,Undirected,2
+Gud,høilys,Undirected,1
+Chrisfian,Nikoline,Undirected,3
+Bolvig,Charles Dalsgaard,Undirected,2
+Charles Dalsgaard,Margrethe,Undirected,3
+Margrethe,ester hiin,Undirected,1
+Alfred Rükzau,ester hiin,Undirected,1
+Alfred,Alfred Rükzau,Undirected,1
+Bolvig,Dalsgaard,Undirected,12
+Dalsgaard,Margrethe,Undirected,11
+Bolvig,Charles,Undirected,10
+Charles,Margrethe,Undirected,11
+Hr. Bolvig,Margrethe,Undirected,1
+Alfred Rützan,Charles,Undirected,1
+Alfred,Charles,Undirected,4
+Baumann,Margrethe,Undirected,2
+Baumann,Charles,Undirected,11
+Angelika,Charles,Undirected,6
+Angelika,Baumann,Undirected,2
+Dalsgaard,Hain,Undirected,1
+Charles,Hain,Undirected,1
+Charles,ane,Undirected,1
+Baumann,ane,Undirected,1
+Charles,ZEren,Undirected,1
+Angelika,Hr. Dalsgaard,Undirected,1
+Baumann,Margrethe Dalsgaard,Undirected,1
+Margrethe Dalsgaard,Marius,Undirected,1
+Charles,Frøken Basse,Undirected,1
+Baumann,Skjelmsmester,Undirected,1
+Baumann,Felix Bernsteen,Undirected,2
+Baumann,Felix,Undirected,3
+Baumann,Krølhaar,Undirected,1
+Margrethe,Nikoline,Undirected,10
+Angelika,Margrethe,Undirected,1
+Charles,Nikoline,Undirected,9
+Frn Banmann,Margrethe,Undirected,1
+Frøken Krag,Margrethe,Undirected,1
+Charles Dalsgaard,Nikoline,Undirected,2
+Claus Bernsteen,Felix,Undirected,6
+Felix,s,Undirected,2
+Claus Bernsteen,s,Undirected,1
+Cecilics,Felix,Undirected,1
+Cecilie,Felix,Undirected,3
+Cecilie,Claus Bernsteen,Undirected,1
+Claus Bernsteen,Madam Schukart,Undirected,2
+Cecilie,Madam Schukart,Undirected,1
+Felise,Sille,Undirected,1
+Cecilie,Sille,Undirected,2
+Madam Schukart,Sille,Undirected,2
+Mille,Sille,Undirected,1
+Claus Bernsteen,Mille,Undirected,1
+Claus Bernsteen,hnn,Undirected,1
+Pintse,hnn,Undirected,2
+Madam Brasen,Sine —,Undirected,1
+Kathrine,Sine —,Undirected,1
+Johanne,Johanne Brasen,Undirected,1
+Johanne,Madam,Undirected,1
+Claus Bernsteen,Johanne,Undirected,1
+Felice,Fisfen,Undirected,2
+fyve,meente,Undirected,1
+Felix,meente,Undirected,1
+Felix,ivold,Undirected,1
+Felix,Øe,Undirected,4
+Felix,Krag,Undirected,4
+Bernsteen,Oxford,Undirected,3
+Baumann,Bolvig,Undirected,1
+Bolvig,Mortensdag,Undirected,1
+Mortensdag,Nikoline,Undirected,1
+Alf,Nikoline,Undirected,1
+Alf,Charles Dalsgaard,Undirected,1
+Charles Dalsgaard,Hr. Bolvig,Undirected,1
+Hr. Bolvig,Nikolme,Undirected,1
+Bolvig,Nikolme,Undirected,1
+Bolvig,Harald,Undirected,1
+Nikoline,fig,Undirected,1
+Luur,fig,Undirected,1
+Christian,Luur,Undirected,1
+Christian,Frøken BolvigS,Undirected,1
+Chrisfian,hiin,Undirected,1
+hiin,hnn,Undirected,2
+Cecilie,Herren,Undirected,1
+Banmann,Felix,Undirected,2
+Christian,Felix,Undirected,5
+Cecilie,Nikoline,Undirected,3
+Cecilie sfal,Felix,Undirected,1
+Christian,sorn,Undirected,1
+Christian,s,Undirected,1
+Nikolme,hnn,Undirected,1
+Bolvig,Christian,Undirected,2
+Felix,Frøken Bolvig,Undirected,1
+Cecilie,Frøken Bolvig,Undirected,1
+Frøken Bolvig,Nikoline,Undirected,1
+,Felix,Undirected,1
+,Pascha,Undirected,1
+Felice,Laurens,Undirected,1
+Claus Bernsteen,Mikkel,Undirected,1
+Feliee,Mikkel,Undirected,1
+Felice,Schukart,Undirected,1
+Clans Bernsteen,Kudsken,Undirected,1
+Daniel Hammer,Dein,Undirected,1
+Clans Bernsteen,Daniel,Undirected,1
+Claus Bernsteen,Frøken Bolvig,Undirected,1
+Kirstine,Nikoline,Undirected,5
+Claus Bernsteen,ivold,Undirected,1
+Daniel Haininer,sauime,Undirected,1
+Nikoline,sauime,Undirected,1
+Christian,Clans Bernsteen,Undirected,2
+Christian,Claus Bernsteen,Undirected,5
+Christian,tans,Undirected,1
+Nikoline,tans,Undirected,1
+Christian,Tyge,Undirected,3
+Chrisfian,Tyge,Undirected,1
+Nikoline,Tyge,Undirected,12
+Dalsgaard,Nikoline,Undirected,20
+Charles Dalsgaard,Christian,Undirected,1
+Bonnesen,Charles Dalsgaard,Undirected,2
+Christian,dein,Undirected,1
+Charles,Fader,Undirected,1
+Bonnesen,Christian,Undirected,6
+Bonnesen,Charles,Undirected,5
+Bolvig,Bonnesen,Undirected,2
+Bomskoly,Bonnesen,Undirected,1
+Christian,Dalsgaard,Undirected,5
+Baumann,Christian,Undirected,1
+Bolvig,Margrethe,Undirected,2
+Dalsgaard,hans Roes,Undirected,1
+Bonnesen,Dalsgaard,Undirected,10
+Bonnesen,Nikoline,Undirected,3
+Dalsgaard,Rlikzaus,Undirected,1
+Alfred,Rlikzaus,Undirected,1
+Sliddersladder,lee,Undirected,1
+Christian,Nikoline pleiede,Undirected,1
+Christian,maasfee,Undirected,1
+Christian,Gud,Undirected,1
+Christian,Tyge Raben,Undirected,1
+Nikoline,Tyge Raben,Undirected,2
+Anton,ivold,Undirected,1
+Anton,Kirstine,Undirected,2
+Daniel,Kirstine,Undirected,4
+Anton,Daniel,Undirected,1
+Frøken Margrethe,Kirstine,Undirected,1
+Karl,Kirsfine,Undirected,1
+Anton,Kirsfine,Undirected,1
+Daniel,Kirsfine,Undirected,1
+Adrienne,Daniel,Undirected,1
+Dalsgaard,ZEre,Undirected,1
+Kirstine,ZEre,Undirected,1
+Christian,Kirstine,Undirected,1
+Bcrnsteens,Christian,Undirected,1
+Bcrnsteens,Dalsgaard,Undirected,1
+Bonnesen,Claus Bernsteen,Undirected,6
+Bonnesen,Wrbodigsfe,Undirected,1
+Hr. Bonnesen,Wrbodigsfe,Undirected,1
+Bernsteen,Bonnesen,Undirected,3
+Bonnesen,Slobrok,Undirected,1
+Seil,Slobrok,Undirected,1
+Bernsteen,Seil,Undirected,1
+Clans Bernsteen,Pascha,Undirected,1
+Bonnesen,Pascha,Undirected,1
+Bonnesen,Clans Bernsteen,Undirected,3
+Felix,Nikoline,Undirected,3
+Clans Bernsteen,Nikoline,Undirected,2
+Dalsgaard,Felix,Undirected,4
+Dalsgaard,Feliee,Undirected,1
+Dn,Felice,Undirected,4
+Claus Bernsteen,Krebs,Undirected,1
+Krebs,Torben,Undirected,1
+Feliee,Torben,Undirected,1
+Chrisfian,Felix,Undirected,1
+Chrisfian,Christian,Undirected,1
+Bernsteen,Felix,Undirected,2
+Tyge Raben,fil,Undirected,1
+Claus Bernsteen,Dein,Undirected,1
+Dein,Magnussens,Undirected,1
+Clans Bernsteen,Dn,Undirected,1
+Dn,Felix,Undirected,1
+Christian,Felix Bernsteen,Undirected,2
+Claus Bernsteen,hiin,Undirected,1
+Dalsgaard,Kirstine,Undirected,2
+Kirstine,Margrethe,Undirected,1
+Carl den Store,Gud,Undirected,1
+Carl den Store,Pipin,Undirected,1
+Margrethe,lee,Undirected,1
+Claus Bernsteen,Nikoline,Undirected,2
+Christian,næsfen,Undirected,1
+Nikoline,næsfen,Undirected,1
+Ieg,Nikoline,Undirected,1
+Christian,Elsiede,Undirected,1
+Clans Bernsteen,Hækker,Undirected,1
+Tyge,hnn,Undirected,1
+Bonnesen,Tyge,Undirected,9
+Hr. Bonnesen,Nikoline,Undirected,1
+Charles,Tyge,Undirected,3
+Hr. Bonnesen,Øe,Undirected,1
+St. Michaelis,Tyge,Undirected,2
+Alfred Rützau,Bonnesen,Undirected,1
+Alfred Rützau,Margrethe,Undirected,1
+Charles,Torben,Undirected,1
+Charles,Steen,Undirected,1
+Charles,Øe,Undirected,1
+Claus Bernsteen,Kirstine,Undirected,1
+Charles Dalsgaard,Claus Bernsteen,Undirected,1
+Clans Bernsteen,Tycho,Undirected,1
+Tycho,Tycho de Råben,Undirected,1
+Tycho de Brahe,Tycho de Råben,Undirected,1
+Tycho,Tycho de Brahe,Undirected,1
+Bernsteen,Tyge,Undirected,1
+Claus Bernsteen,ZEsel,Undirected,1
+Mathed,Tyge,Undirected,1
+Baumann,flog Dalsgaard,Undirected,1
+Dalsgaard,flog Dalsgaard,Undirected,1
+Dalsgaard,Malm,Undirected,1
+Baumann,ester,Undirected,1
+Dalsgaard,ester,Undirected,2
+Banmann,Dalsgaard,Undirected,11
+Bonnesen,Kirstine,Undirected,1
+Banmann,Marius,Undirected,3
+Angelika,flog,Undirected,1
+Marius,Marius Trelde,Undirected,2
+Angelika,Krag,Undirected,1
+Angelika,hnn,Undirected,1
+Krag,hnn,Undirected,1
+Christian Krag,Dalsgaard,Undirected,1
+Banmann,Ieg,Undirected,1
+Dalsgaard,Ieg,Undirected,1
+Baumann,Bernsteen,Undirected,1
+Dalsgaard,Siig Dalsgaard,Undirected,1
+Dalsgaard,Daniel Hammer,Undirected,2
+Daniel Hammer,Tyge,Undirected,1
+Tyge,fig,Undirected,1
+Bonnesen,fig,Undirected,1
+Claus Bernsteen,Karl,Undirected,1
+Karl,Yan,Undirected,1
+Dalsgaard,Yan,Undirected,1
+Nikoline,hiint,Undirected,1
+hiint,ilaas,Undirected,1
+Claus Bernsteen,Mads Eilersen,Undirected,1
+Claus Bernsteen,Øe,Undirected,3
+Mads Eilersen,Øe,Undirected,1
+Mads,Mads Eilersen,Undirected,1
+Claus Bernsteen,Mads,Undirected,1
+Claus Bernsteen,Mads Eilerftn,Undirected,1
+Mads Eilersen,Torben,Undirected,2
+Gud,Per Adrian,Undirected,1
+Claus Bernsteen,Ester,Undirected,1
+Claus Bernsteen,ril,Undirected,2
+Manus,Marius,Undirected,1
+Manus,Nikoline,Undirected,1
+Baumann,Manus,Undirected,1
+Baumann,Krag,Undirected,1
+Baumann,helsf,Undirected,1
+Godseier Dalsgaard,helsf,Undirected,1
+Dalsgaard,Plutarch,Undirected,2
+Nikoline,ndbrød Dalsgaard,Undirected,1
+Baumann,ndbrød Dalsgaard,Undirected,1
+Angelika Baumann,Charles,Undirected,1
+Dalsgaard,as,Undirected,1
+Margrethe,as,Undirected,1
+Dalsgaard,Frøken Bolvig,Undirected,2
+Dalsgaard,Laurenze,Undirected,1
+Wre,ZEre,Undirected,1
+Dalsgaard,Gud,Undirected,5
+Gud,Laurenze,Undirected,1
+Margrethe,Tyge,Undirected,4
+Charles,ester,Undirected,1
+Dalsgaard,Langfeldt,Undirected,1
+Dalsgaard,Oxford,Undirected,6
+Bonnesen,Hektor,Undirected,3
+Bonnesen,Daniel,Undirected,3
+Kjødklump,Øe,Undirected,1
+Bernsteen,Daniel Hammer,Undirected,1
+Daniel,Daniel Hammer,Undirected,1
+Bernsteen,Dalsgaard,Undirected,1
+Bernsteen,Daniel dreiede,Undirected,1
+Daniel,Godseieren,Undirected,1
+Dalsgaard,ivold,Undirected,1
+Bernsfeen,reentud,Undirected,1
+Claus Bernsfeen,Hektor,Undirected,3
+Dalsgaard,ZErmde,Undirected,1
+Dalsgaard,ei,Undirected,1
+Claus Bernsteen,ei,Undirected,1
+Banmann,Claus Bernsteen,Undirected,1
+Nikoline,Torben,Undirected,1
+Claus Bernsteen,sorn,Undirected,1
+Brosteen,sorn,Undirected,1
+Brosteen,Claus Bernsteen,Undirected,1
+Hain,Oxford,Undirected,1
+Clans Bernsteen,Codans,Undirected,1
+Codans,Heis,Undirected,1
+Heis,Kapitain,Undirected,1
+Bernsteen,Claus Bernsteen,Undirected,1
+Claus Bernsteen,Kapitain,Undirected,1
+Hnn,Øe,Undirected,1
+Gansfe,Oxford,Undirected,1
+Gansfe,Kapitain,Undirected,1
+Kapitain,Øe,Undirected,1
+Claus Bernsteen,Torben,Undirected,1
+Anton,Mads,Undirected,2
+Anton,ZEnder,Undirected,1
+Kirstine,Mads,Undirected,1
+Claus Bernstecns,Daniel Hammer,Undirected,1
+Felix,Steen,Undirected,1
+Dalsgaard,Streiftoure,Undirected,1
+Baumann,Øe,Undirected,1
+Banmann,Christian,Undirected,1
+Christian,Margrethe,Undirected,1
+Daniel Hammer,Margrethe,Undirected,1
+Bonnesen,Daniel Hammer,Undirected,1
+Daniel,Tyge,Undirected,1
+Dalsgaard,Tyge,Undirected,5
+Mollen,Tyge,Undirected,1
+Dalsgaard,Dands,Undirected,1
+Dands,Marius,Undirected,1
+Daniel,Marius,Undirected,1
+Baumann,Claus Bernsteen,Undirected,1
+Angelika,Madam,Undirected,1
+Banmann,Felix Bernsteen,Undirected,1
+Torben,stig,Undirected,1
+Insfinkfmæssigt,Torben,Undirected,1
+Dalsgaard,Torben,Undirected,9
+Møller,Per Atman,Undirected,1
+Alfred,Anton,Undirected,2
+Anton,Charles Dalsgaard,Undirected,1
+Bonnesen,Nn,Undirected,1
+Bersærk,Nn,Undirected,1
+Bersærk,Charles,Undirected,1
+,Charles,Undirected,1
+,Dalsgaard,Undirected,1
+Dalsgaard,bent,Undirected,1
+Alfred,Daniel,Undirected,2
+Charles,Daniel,Undirected,2
+Daniel,Diderik,Undirected,1
+Alfred,Margrethe,Undirected,5
+Alfred,hnn,Undirected,1
+Dalsgaard,d,Undirected,1
+Alfred,Øe,Undirected,1
+Cecilie Schukart,pudelund,Undirected,1
+Bolvig,glubsf,Undirected,1
+Ceeilie,Gud,Undirected,1
+Bolvig,Gud,Undirected,2
+Gud,Torben,Undirected,1
+Bernsteen,Torben,Undirected,3
+Bolvig,Torben,Undirected,3
+Bolvig,sorbanses,Undirected,1
+Alfred,sorbanses,Undirected,1
+Alfred Rützau,Anton,Undirected,1
+Anton,Bolvig,Undirected,2
+Dalsgaard,heldte Dalsgaard,Undirected,1
+Dalsgaard,Weber,Undirected,5
+Baumann,Gud,Undirected,1
+Godseier Dalsgaard,Weber,Undirected,1
+Felix Bernsteen,Godseier Dalsgaard,Undirected,1
+Baumann,Karl,Undirected,1
+Bolvig,Weber,Undirected,4
+Dalsgaard,Hr. Weber,Undirected,1
+Torben,sorn,Undirected,1
+Cecilie,Torben,Undirected,2
+Bolvig,Cecilie,Undirected,1
+Cecilie,Dalsgaard,Undirected,2
+Dalsgaard,rasfløsf,Undirected,1
+Cecilie,Claus Bernsfeen,Undirected,1
+Cecilie,Weber,Undirected,1
+Bolvig,Ester,Undirected,1
+Hr. Bolvig,Weber,Undirected,1
+Dalsgaard,Marius,Undirected,1
+Marius,Weber,Undirected,2
+Marms,Weber,Undirected,1
+Felix Bernsteen,Marius,Undirected,1
+Felix Bernsteen,Weber,Undirected,1
+Bernsteen,Weber,Undirected,2
+Bernsteen,Roes,Undirected,1
+Felix,Weber,Undirected,4
+Bolvig,Langfeldt,Undirected,1
+Gud,Langfeldt,Undirected,1
+Alfred Rützau,Bolvig,Undirected,1
+Charles,Gud,Undirected,2
+Dalsgaard,Juul,Undirected,1
+Juul,Nikoline,Undirected,1
+Alfred gjøre,Dalsgaard,Undirected,1
+Felix Bernsteen,Tyge,Undirected,2
+Charles,reisfe Nikoline,Undirected,1
+Tyge,reisfe Nikoline,Undirected,1
+Dalsgaard,lee,Undirected,1

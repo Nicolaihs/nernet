@@ -1,0 +1,95 @@
+source,target,type,weight
+Lili,Nils Falk,Undirected,1
+Lili,sjawlet,Undirected,1
+Falk,Lilis øine,Undirected,1
+Lili,adieu,Undirected,1
+Adieu,Nils,Undirected,5
+Adieu,Lili,Undirected,1
+Guds,Lili,Undirected,1
+Guds,Nils,Undirected,1
+Lili,Nils,Undirected,2
+Falk,Gran,Undirected,14
+Falk,skakke,Undirected,1
+Falk,Ragnar Mørch,Undirected,2
+Falk,Mørch,Undirected,3
+Falk,souverain,Undirected,1
+Gran,Gud,Undirected,1
+Thora,lille fru,Undirected,1
+Falk,stakkars,Undirected,1
+Falk,Nils,Undirected,2
+Nils,gut,Undirected,2
+Thora,gud,Undirected,1
+Thora,silke,Undirected,2
+Falk,Thora,Undirected,18
+Gud,Thora,Undirected,14
+Nils,j,Undirected,1
+A,Nils,Undirected,2
+Nils,Thore,Undirected,1
+Gud,Thore,Undirected,1
+Nils,Thora,Undirected,5
+Thora,lille Thore,Undirected,2
+Stakkars,stakkars,Undirected,1
+Thora,stakkars,Undirected,1
+Thora,kjære,Undirected,2
+Å Falk,å Falk,Undirected,1
+Thora,lille Thora,Undirected,1
+Gud,lille Thora,Undirected,1
+Jeanne,skjøgers,Undirected,1
+Gud,Jeanne,Undirected,1
+Nils,lille Thore,Undirected,1
+Thora,Thore,Undirected,2
+Nils,Nilsl,Undirected,1
+Ragnar,lille Thore,Undirected,1
+Gud,Nemesis,Undirected,1
+Gud,Ragnar,Undirected,4
+Adieu,Thora,Undirected,3
+Thora,adieu,Undirected,1
+Thora,taug,Undirected,1
+Å Ragnar,å Ragnar,Undirected,1
+Falk,Gud,Undirected,2
+Nils,Ragnar,Undirected,2
+Falk,Yr,Undirected,1
+Gran,lille Thore,Undirected,2
+Falk,lille Thore,Undirected,3
+Gran,Thore,Undirected,1
+Falk,forsigtigNemesis,Undirected,1
+Thora,kløved,Undirected,1
+Falk,Lili Holsen,Undirected,2
+Inat,Lili,Undirected,2
+Gud,Nils,Undirected,4
+Lili,Thora,Undirected,2
+Hans,hans,Undirected,1
+Adieu,adieu,Undirected,2
+Thora,påny,Undirected,1
+Lili,lian,Undirected,1
+Nemesis,Nils,Undirected,2
+Nils,grant,Undirected,2
+Falk,Thoras øine,Undirected,1
+Falk,kvak,Undirected,1
+Skjøge,skjøge,Undirected,1
+Gran,skjøge,Undirected,1
+Å Thora,å Thora,Undirected,1
+Thora,clou,Undirected,1
+Thora,fløi,Undirected,1
+Ragnar Mørch,Thora,Undirected,1
+Mørch,s,Undirected,2
+Gran,Mørch,Undirected,1
+Thora,svarte Mørch,Undirected,2
+Ragnar,Thora,Undirected,1
+Mørch,Thora,Undirected,1
+Albert,Falk,Undirected,1
+Albert,Thora,Undirected,1
+Thora,å,Undirected,1
+Ragnar,å,Undirected,1
+Gud,kjære,Undirected,1
+Falk,sjø,Undirected,1
+Thora,kj,Undirected,1
+Albert,Ragnar,Undirected,3
+Gud,brusque,Undirected,1
+Thora,lille Nils,Undirected,1
+Lili,Nils«,Undirected,1
+Lili,isommer,Undirected,1
+Nils,kjære,Undirected,1
+Nemesis,Thora,Undirected,1
+Nils,stakkars,Undirected,1
+Nils,adieu,Undirected,2

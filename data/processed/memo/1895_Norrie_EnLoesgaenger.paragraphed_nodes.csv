@@ -1,0 +1,12 @@
+Id,Polarity,Polarity_normalized,Polarity_sentence,Polarity_sentence_normalized,Connections,Connections_normalized,Interactions,Interactions_normalized,Degree,Degree_normalized,Centrality,Centrality_normalized,Betweenness,Betweenness_normalized
+Gud,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+véd,0,0,0,0,1,0.0,1,0.0,1,0.0,0.0,0.0,0.0,0.0
+Esther,0,0,0,0,6,1.0,58,1.0,6,1.0,0.55,1.0,0.34,1.0
+Verner,0,0,0,0,3,0.4,8,0.12,3,0.4,0.39,0.71,0.01,0.03
+Jeanna,0,0,0,0,4,0.6,50,0.86,4,0.6,0.39,0.71,0.21,0.62
+Ryvsing,0,0,0,0,3,0.4,7,0.11,3,0.4,0.4,0.73,0.02,0.06
+Rolfsen,0,0,0,0,3,0.4,7,0.11,3,0.4,0.35,0.64,0.06,0.18
+Walter Ryvsing,0,0,0,0,1,0.0,1,0.0,1,0.0,0.17,0.31,0.0,0.0
+Maal,0,0,0,0,1,0.0,1,0.0,1,0.0,0.17,0.31,0.0,0.0
+paal,0,0,0,0,2,0.2,2,0.02,2,0.2,0.22,0.4,0.02,0.06
+Walter,0,0,0,0,1,0.0,2,0.02,1,0.0,0.12,0.22,0.0,0.0

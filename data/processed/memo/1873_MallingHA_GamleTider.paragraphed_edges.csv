@@ -1,0 +1,286 @@
+source,target,type,weight
+Dante,Dickens,Undirected,1
+Bernadette,Prinds af,Undirected,1
+Hamelinaye,Prinds af,Undirected,1
+Herr von,von Levetzau,Undirected,1
+Herr von,Levetzau,Undirected,2
+Keisers,Levetzau,Undirected,1
+von Bardenfleth,von Haffner,Undirected,1
+Ehefen,Prindsen,Undirected,1
+Flaades,Levetzau,Undirected,1
+Hamelinaye,Marechalens,Undirected,1
+Marquis de la Romana,Talleyrand,Undirected,1
+Keiserens,Marechalen,Undirected,1
+Keiserens,Souverain,Undirected,1
+Keiseren,Souverain,Undirected,1
+Hamelinaye,Keiseren,Undirected,1
+Hidalgo de naturalezza,høs Marquis de la Romana,Undirected,1
+Karl,sine Sfridt,Undirected,1
+Joseph,øg,Undirected,1
+Gud,Marie,Undirected,1
+Elsbeth,Joseph,Undirected,1
+Elsbeth,dunkell,Undirected,1
+Castor,Joseph,Undirected,1
+Castor,Gud,Undirected,1
+Gud,Heide,Undirected,1
+Gud,Joseph,Undirected,1
+Joseph,Marie,Undirected,1
+Don Rodrigo de Leon,Joseph,Undirected,1
+Don Rodrigo,Rodrigo,Undirected,1
+Karl,lee,Undirected,1
+Don Rodrigo,Sancho Pansa,Undirected,1
+Frederik den Sjette,Throne,Undirected,1
+Sophaen,von Egstrøm,Undirected,2
+Don Rodrigo,von Egstrøm,Undirected,1
+Don Rodrigo,von,Undirected,1
+Peter,von,Undirected,1
+Paul,Peter,Undirected,2
+Hr. von Paul,Peter,Undirected,1
+Egstrøm,Gine,Undirected,1
+Gine,Line,Undirected,2
+Line,Stine,Undirected,2
+Petronella,Stine,Undirected,1
+Leon,de Leon,Undirected,1
+Papa,Thora Planov,Undirected,1
+Papa,von Planov,Undirected,1
+Cæsar,Don Rodrigo,Undirected,1
+Cæsar,Thora Planov,Undirected,1
+Don Rodrigo,Leon,Undirected,1
+Don Rodrigo,Thora,Undirected,1
+Prindsen,Rodrigo,Undirected,1
+Martin,Prindsen,Undirected,1
+Martin,Rodrigo,Undirected,1
+Madame,Prindsen,Undirected,2
+Prindsen,øg,Undirected,1
+Hr. von Levetzau,Levetzau,Undirected,1
+Les Anglais,Levetzau,Undirected,1
+Petronella,Rodrigo,Undirected,1
+Don Rodrigo,Planov,Undirected,1
+Frøken Planov,Rodrigo,Undirected,1
+Frøken Planov,Mariane,Undirected,1
+Keisers,Napoleon,Undirected,1
+Don Rodrigo,Rodrigo Leilighed,Undirected,1
+Rodrigo,Thora,Undirected,5
+Leon,Rodrigo,Undirected,1
+Gud,Kong Joseph,Undirected,1
+Eden,Kong Joseph,Undirected,1
+Leon,Princesa,Undirected,1
+España,Viva,Undirected,1
+Adios Daneses,España,Undirected,1
+Karlen,Rodrigo,Undirected,1
+Madame,Rodrigo,Undirected,1
+Madame,Petronella von Egstrøm,Undirected,1
+Stine,Thora Planov,Undirected,1
+Leon,Thora Planov,Undirected,1
+Leon,Thora,Undirected,1
+Frøken de,Rodrigo,Undirected,1
+Frøken de,Saint-Leger,Undirected,1
+Dønna,Petronella,Undirected,1
+Rodrigo,Saint-Leger,Undirected,1
+Barønen,Marquis de la Romana,Undirected,1
+Ferdinand den Syvende,Rodrigo,Undirected,1
+Don Rodrigo,Thora Planov,Undirected,1
+Møller,Rodrigo,Undirected,1
+Don Rodrigo,Lamora,Undirected,1
+Kjødsuppe,Petronella,Undirected,1
+Japsen,Petronella,Undirected,1
+Rodrigo,pero no puedo expresarme bien en,Undirected,1
+Clotilde,froer,Undirected,1
+Fouquier Tinville,froer,Undirected,1
+Karl,Marquien,Undirected,1
+Frøken Saint-Leger,Leon,Undirected,1
+Mariane,Martin,Undirected,1
+Mariane,Marie le,Undirected,1
+Rodrigo,hans Marie,Undirected,1
+Clotilde,Joseph,Undirected,1
+Carl Nitter,Vilhelm,Undirected,1
+Keiser,Napoleon,Undirected,1
+Napoleon,l ' Empereur,Undirected,1
+Claus,Les maudits,Undirected,2
+c ' est,juste,Undirected,1
+Pierre ouvrez,juste,Undirected,1
+Pierre ouvrez,ce sont de braves Danois,Undirected,1
+Claus,Pierre,Undirected,5
+Antinuus,Pierre,Undirected,1
+,Antinuus,Undirected,1
+,Robert de Villemain,Undirected,1
+,Pierre,Undirected,1
+,Laon,Undirected,1
+Keiseren,Lieutenant Ritter,Undirected,1
+Claus,Lallemand,Undirected,1
+Lallemand,ami,Undirected,1
+Pierre,Ritter,Undirected,4
+Adagioen,Ritter,Undirected,1
+Carl Ritter,Vilhelm,Undirected,3
+Carl Ritter,deriinod,Undirected,1
+Carl Ritter,Lessing,Undirected,1
+Lessing,Posfen,Undirected,1
+Claus,Karl,Undirected,2
+Babette,Mamsell,Undirected,1
+Louise,Mamsell,Undirected,1
+Ritter,Vilhelm Ritter,Undirected,3
+Claus,Obersten,Undirected,1
+Babette,Pierre,Undirected,4
+Affart,Pierre,Undirected,1
+Pierre,la Choseforte,Undirected,1
+,Vilhelm Ritter,Undirected,1
+Ludvig,Napoleon,Undirected,1
+Keiseren,la Choseforte,Undirected,1
+Keiseren,Marie Louise Reisen,Undirected,1
+Obersf,Pierre,Undirected,2
+Mylord,Pierre,Undirected,1
+Carl Ritter,Pierre,Undirected,4
+Babette,Carl Ritter,Undirected,1
+Babette,Chose forte,Undirected,1
+Chose forte,Ritter,Undirected,1
+Choseforte,Vilhelm,Undirected,1
+Carl,Vilhelm,Undirected,1
+Babette,Claus,Undirected,3
+Babette,Vilhelm Ritter,Undirected,2
+Babette,Choseforte,Undirected,2
+Babette,Obersten,Undirected,1
+Carl Ritter,Vilhelm Ritter,Undirected,2
+Claus,Vilhelm Ritter,Undirected,3
+Pierre,Vilhelm Ritter,Undirected,1
+Carl Ritter,Herr de la,Undirected,1
+Carl Ritter,Obersfen,Undirected,2
+Frøken Héloise,Herr de la Choseforte,Undirected,1
+Obersfen,Ritter,Undirected,1
+Obersfen,Pierre,Undirected,1
+Obersfen,Vilhelm Ritter,Undirected,1
+Hauzahn,Ritter,Undirected,1
+Claus,Ritter,Undirected,3
+Franciska,Vilhelm Ritter,Undirected,2
+Franciska,Vilhelm,Undirected,3
+Michel Kreller,Sedrach,Undirected,1
+Kreller,Sedrach,Undirected,4
+Karl,Kreller,Undirected,1
+Kreller,Societas leonina,Undirected,1
+Kreller,Ritter,Undirected,2
+Kreller,Vexler,Undirected,1
+Franciska,Haiens,Undirected,1
+Haiens,Kreller,Undirected,1
+Franciska,Kreller,Undirected,1
+Ritter,ester,Undirected,1
+Franciska,Ritter,Undirected,2
+Ritter,kjeuder,Undirected,1
+Ritter,Vexler,Undirected,1
+Bergmann,Franciska,Undirected,7
+Bergmann,Vilhelm,Undirected,2
+,Bergmann,Undirected,1
+B.,Vilhelmine,Undirected,1
+Franciska,Hermes,Undirected,2
+Carl Bergmann,Franciska,Undirected,2
+Carl Bergmann,boer,Undirected,1
+Cordes,Vilhelmine,Undirected,1
+Franciska,Vilhelmine,Undirected,2
+Vilhelm,Vilhelmine,Undirected,1
+Altona,Vilhelm Ritter,Undirected,1
+Altona,Claus,Undirected,1
+Claus,Pinneberg,Undirected,1
+Babette,Pinneberg,Undirected,1
+Ritter,Schrøders,Undirected,1
+Obersf,Ritter,Undirected,1
+Albion,Ritter,Undirected,1
+Achmet,Ritter,Undirected,1
+Michel,Sedrach,Undirected,1
+Sedrach,Vilhelm Ritter,Undirected,1
+Vilhelm,Vilhelm Ritter,Undirected,1
+Ritter,cher,Undirected,1
+Petersens,Ritter,Undirected,1
+Marie,Theobald,Undirected,2
+Marie,Ritter,Undirected,8
+Cathrine,Marie,Undirected,1
+Cathrine,Ritter,Undirected,1
+Hagen,Tobiesen,Undirected,1
+Carl Ritler,Ritler,Undirected,1
+Ritter,Vilhelm,Undirected,3
+Vilhelm,fransfe Dame,Undirected,1
+Marie,fransfe Dame,Undirected,1
+Marie,Præsfen,Undirected,1
+Gustav“,Marie,Undirected,1
+Marie,Pasforen,Undirected,1
+Pasforen,Ritter,Undirected,1
+Herr Bergmann,Ritter,Undirected,1
+B.,kjære Bergmann,Undirected,1
+Franciska,Herr Kapitain,Undirected,1
+Bergmann,Ritter,Undirected,4
+Bergmann,Herr Kapitain,Undirected,1
+Herr Kapitain,herhid,Undirected,1
+Franciska,herhid,Undirected,1
+Franciska,Franz Huber,Undirected,1
+Franz Huber,Ritter,Undirected,2
+Gaardeier Ehrbeck,Ritter,Undirected,1
+Gaardeier Ehrbeck,N.,Undirected,1
+Herr Kapitian,N.,Undirected,1
+Claus,Herr Ehrbeck,Undirected,1
+Claus,Herr Gaardeier,Undirected,1
+Babette,Claus Ehrbeck,Undirected,1
+Babette,Ehrbeck,Undirected,1
+Ehrbeck,Ritter,Undirected,3
+Claus,øg,Undirected,1
+Ehrbeck,Vilhelm,Undirected,1
+Claus,Franz Huber,Undirected,1
+froer,øg Ritter,Undirected,1
+Madam Ritter,Ritter,Undirected,1
+Hetzberger,Sedrach,Undirected,1
+Adieu,Sedrach,Undirected,1
+Herr Kapitain,Ritter,Undirected,1
+Cordes,Ritter,Undirected,1
+Cordes,Monsieur,Undirected,1
+Monsieur,Romanowsky,Undirected,1
+Herr Jaromir Romanowsky,Romanowsky,Undirected,1
+Ritter,fiffig,Undirected,1
+Ritter,Romanowsky,Undirected,2
+Billette,Frøken Adèle,Undirected,1
+Kapitainen,Ritter øgsaa,Undirected,1
+Kapitainen,Vilhelmine,Undirected,1
+Herr Romanowsky,Vilhelmine,Undirected,1
+Ritter,Scylla,Undirected,2
+Romanowsky,Vilhelm,Undirected,1
+Jaromir Romanow sky,Romanowsky,Undirected,1
+Jaromir Romanow sky,Vilhelmine,Undirected,1
+Ritter,Vilhelmine,Undirected,2
+Jaromir Romanowsky,Vilhelmine,Undirected,1
+Hermes,Vilhelmine Ritter,Undirected,1
+Monsieur,Ritter,Undirected,2
+Madame Billette,Ritter,Undirected,2
+Monsieur Romanovsky,mari a vendu,Undirected,1
+Monsieur Romanovsky,"scélerat,",Undirected,1
+Monsiour Romanowsky,"scélerat,",Undirected,1
+Monsiour Romanowsky,beaucoup,Undirected,1
+Ritter,tøg,Undirected,1
+Hekzberger,Jaromir,Undirected,2
+Billette,Ritter,Undirected,1
+Billette,Monsieur Billette,Undirected,1
+Monsieur Billette,Ritter,Undirected,1
+Køne,Ritter,Undirected,2
+Hekzberger,Ritter,Undirected,1
+Bergmann,Hekzberger,Undirected,1
+Carl,Franciska,Undirected,1
+Bergmann,Mamsell,Undirected,1
+Franciska,Madame Chevalier,Undirected,2
+Bergmann,Carl Ritter,Undirected,2
+Franciska,Herr Carl Ritter,Undirected,1
+Monsieur le capitaine,dito,Undirected,1
+Ce vrai gentilhomme,Monsieur le capitaine,Undirected,1
+Ce vrai gentilhomme,Theobald,Undirected,1
+Theobald,mari,Undirected,1
+Himles,mari,Undirected,1
+Himles,Ritter,Undirected,1
+Gud,Ritter,Undirected,1
+Franz Huber,Marie,Undirected,1
+Franz,Franz Huber,Undirected,1
+Diana,Franz,Undirected,4
+Franz,Gud,Undirected,2
+Franz,Kapitain Ritter,Undirected,1
+Franz,Ritter,Undirected,2
+Bergmann,Theobald,Undirected,1
+Franz,Theobald,Undirected,1
+Ehrbeck,Tobiesen,Undirected,1
+Hauzahn,Hermes,Undirected,2
+Hermes,Kreller,Undirected,2
+Ehrbeck,Madam Bergmanns,Undirected,1
+Marie,Pasfor Theobald,Undirected,1
+Belle Poule,Napoleon,Undirected,1
+Belle Poule,Ritter,Undirected,1

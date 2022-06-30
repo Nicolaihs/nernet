@@ -1,0 +1,558 @@
+source,target,type,weight
+Kratskovs,Ramel,Undirected,1
+Poul,Poul Hjulmand,Undirected,1
+Halloi,Poul,Undirected,1
+Halloi,Mamsell,Undirected,1
+Jeppe,Papa,Undirected,5
+Jeppe,Mama,Undirected,3
+Jeppe,Rigmor,Undirected,47
+Jeppe,Poul Hjulmand,Undirected,2
+Jeppe,Poul,Undirected,9
+Jeppe,hpn,Undirected,2
+Jeppe,Kjørehest,Undirected,2
+Jansen,lille Rigmor,Undirected,1
+Jeppe,Lindens,Undirected,2
+Grevinde Brion,Rigmor,Undirected,2
+Gulduhr,Rigmor,Undirected,2
+Marie Antoinette,Rigmor,Undirected,3
+Pøblen,Rigmor,Undirected,1
+Mama,Pøblen,Undirected,1
+Brion,Mama,Undirected,1
+Brion,Rigmor,Undirected,19
+Brian,Rigmor,Undirected,2
+Adlen,Rigmor,Undirected,1
+Adlen,Ramel,Undirected,1
+Brion,Ramel,Undirected,3
+Brion,Jeppe,Undirected,128
+Jeppe,Marie Antoinette,Undirected,3
+Gud,Rigmor,Undirected,24
+Baronesse,Rigmor,Undirected,2
+Baronesse,Jeppe,Undirected,1
+Rigmor,liun,Undirected,1
+Brion,liun,Undirected,1
+Jeppe Poulsen,Peter Hansen,Undirected,4
+Jeppe,Peter Hansen,Undirected,17
+Gud,Peter Hansen,Undirected,3
+Gud,Jeppe Poulsen,Undirected,7
+Jeppe,Jeppe Poulsen,Undirected,10
+Gud,Jeppe,Undirected,125
+Jeppe,Jesus,Undirected,4
+Gud,Jesus,Undirected,5
+Flan,Jeppe,Undirected,12
+Mama,Rigmor,Undirected,1
+Hjulmands,Jeppe,Undirected,1
+Hjulmands,Poul,Undirected,1
+Gud,lille Mo,Undirected,1
+Jeppe,lille Mo,Undirected,1
+Jeppe,liun,Undirected,10
+jeppe,liun,Undirected,1
+Jeppe,jeppe,Undirected,2
+Lieutenanten,Rigmor,Undirected,1
+Jeppe,Lieutenanten,Undirected,1
+Hjulmanden,Jeppe,Undirected,3
+Hansen,Jeppe,Undirected,8
+Hansen,Poul Hjulmand,Undirected,1
+Jeppe,Peter,Undirected,6
+Jens Olsen,Peter,Undirected,2
+Gud,Peter,Undirected,2
+Hansen,Peter,Undirected,1
+Hansen,Rigmor,Undirected,1
+Borgas,Jeppe,Undirected,23
+Borgas,Rigmor,Undirected,53
+Ramel,Rigmor,Undirected,5
+Borgas,Gud,Undirected,24
+Borgas,Ramel,Undirected,19
+Gud,Ramel,Undirected,2
+Christiansen,Ramel,Undirected,1
+Baron Borgas,Christiansen,Undirected,1
+Baron Borgas,Rigmor,Undirected,4
+Jeppe,liam,Undirected,2
+Baron Borgas,liam,Undirected,2
+Baron Borgas,Borgas,Undirected,8
+Jeppe,Ramel,Undirected,14
+Borgas,Karl,Undirected,4
+Gud,Jeppe 1,Undirected,1
+Jeppe,Jeppe 1,Undirected,1
+Baron Borgas,Baronesse,Undirected,1
+Baron Borgas,Gud,Undirected,6
+Edvard,Gud,Undirected,1
+Baron Borgas,Edvard,Undirected,1
+Baron Borgas,Høimark,Undirected,2
+Baron Borgas,Baron Ramel,Undirected,5
+Baron Ramel,Rigmor,Undirected,1
+Baron Borgas,Jensen,Undirected,1
+Jensen,Jeppe,Undirected,1
+Jeppe,Lupin,Undirected,93
+Lupin,Peter Hansen,Undirected,6
+Bødker Jensens,Lupin,Undirected,1
+Bødker Jensens,Madam Jensen,Undirected,1
+Jeppe,Madam Jensen,Undirected,1
+Peter,Peter Hansen,Undirected,1
+Jeppe,lians,Undirected,1
+Lupin,lians,Undirected,1
+Don Juan Lupin,Jeppe,Undirected,2
+Baron Borgas,Jeppe,Undirected,7
+Jeppe,Pia,Undirected,1
+Pia,Ramel,Undirected,1
+Ingemanns,Jeppe,Undirected,2
+Jeppe,Limes,Undirected,1
+Limes,Tøile,Undirected,1
+Jeppe,Tøile,Undirected,1
+Eloved,Jeppe,Undirected,2
+Baronessens,Jeppe,Undirected,2
+Borgas,Lupin,Undirected,30
+Lupin,Rigmor,Undirected,1
+Gud,Lupin,Undirected,15
+Borgas,Flan,Undirected,3
+Lord,Lupin,Undirected,1
+Lord,Rigmor,Undirected,1
+Borgas,Christian,Undirected,1
+Christian,Lupin,Undirected,1
+Borgas,Graad,Undirected,1
+Graad,Gud,Undirected,1
+Baron Borgas,Lupin,Undirected,7
+Baron Borgas,Hr. Lupin,Undirected,1
+Hr. Lupin,Lupin,Undirected,2
+Lupin,liun,Undirected,3
+Grev Borgas,Lupin,Undirected,2
+Baron Ramel,Lupin,Undirected,4
+Lupin,Ramel,Undirected,5
+Lupin,Pre-zocky,Undirected,1
+Baron Ramel,Pre-zocky,Undirected,1
+Baron Ramel,Ramel,Undirected,2
+Flan,Ramel,Undirected,1
+Baronesse Ramel,Borgas,Undirected,1
+Baronesse Ramel,Lupin,Undirected,1
+Borgas,de Borgas,Undirected,1
+Kratskov,de Borgas,Undirected,1
+Kratskov,Lupin,Undirected,2
+Borgas,Hr. Lupin,Undirected,1
+Baron Borgas,Grev Prezocky,Undirected,1
+Elr,Grev Prezocky,Undirected,1
+Elr,Ramel,Undirected,1
+Baron Ramel,Baronen,Undirected,1
+Baronen,Lupin,Undirected,1
+Greve,Lupin,Undirected,1
+Greve,Ramel,Undirected,1
+Borgas,Kratskov,Undirected,1
+Graad,Lupin,Undirected,2
+Baron Borgas,Georg,Undirected,1
+Georg,St. Georg,Undirected,1
+Borgas,St. Georg,Undirected,1
+Beethovens,Borgas,Undirected,3
+Beethovens,Maaneskinssonate,Undirected,1
+Borgas,Maaneskinssonate,Undirected,1
+Morpheus,Ramel,Undirected,1
+Borgas,Morpheus,Undirected,1
+Borgas,Orpheus,Undirected,2
+Chopin,Rigmor,Undirected,1
+Borgas,Chopin,Undirected,1
+Aaget,Borgas,Undirected,1
+Ramel,magnifique,Undirected,1
+Rubens,magnifique,Undirected,1
+Borgas,Rubens,Undirected,3
+Rigmor,Rubens,Undirected,2
+Borgas,de Strunck,Undirected,4
+Baron Schillingshorst,Borgas,Undirected,2
+Borgas,eine,Undirected,1
+eine,ganzen,Undirected,1
+Rigmor,ganzen,Undirected,1
+Rigmor,altdeutsch,Undirected,1
+Goethes,altdeutsch,Undirected,1
+Goethes,Schillers,Undirected,1
+Borgas,Schillers,Undirected,1
+Borgas,mein lieber Borgas,Undirected,1
+ein groszer Redner,mein lieber Borgas,Undirected,1
+Ramcl,ein groszer Redner,Undirected,1
+Ramcl,Ramel,Undirected,1
+Borgas,Wie,Undirected,1
+Wie,einmal,Undirected,1
+Ramel,einmal,Undirected,1
+Borgas,gewiss,Undirected,1
+gewiss,spielen,Undirected,1
+de Strunck,spielen,Undirected,1
+Beethoven,de Strunck,Undirected,1
+de Strunck,hal,Undirected,1
+hal,høilys,Undirected,1
+Ramel,høilys,Undirected,1
+Borgas,Peter Hansen,Undirected,1
+Peter Hansen,Ramel,Undirected,1
+Borgas,Høimark,Undirected,5
+Høimark,Jeppe,Undirected,1
+Lupin,ban,Undirected,1
+Examens,ban,Undirected,1
+Baronesse,Borgas,Undirected,1
+Flan,Jeppel,Undirected,1
+Dalila,Jeppel,Undirected,1
+Dalila,Jeppe,Undirected,1
+Jeppe,Susanne,Undirected,4
+Gud,Hjulmanden,Undirected,1
+Gud,Poul,Undirected,3
+Elaven,Gud,Undirected,1
+Hille,Jeppe,Undirected,2
+Blochs,Moppen,Undirected,1
+Jeppe,Moppen,Undirected,1
+Jeppe,hil,Undirected,1
+hi,hil,Undirected,1
+Borgas,hi,Undirected,1
+Jeppe Poulsen,Rigmor,Undirected,2
+Borgas,Hans,Undirected,1
+Hans,Jeppe,Undirected,1
+Borgas,Brion,Undirected,8
+Brion,Gud,Undirected,23
+Borgas,de Brion,Undirected,2
+Baro nessen,Jeppe,Undirected,1
+Baro nessen,Jeppe«,Undirected,1
+Jeppe,Jeppe«,Undirected,3
+Flan,Rigmor,Undirected,2
+BrionI Brion,Gud,Undirected,1
+BrionI Brion,Jeppe,Undirected,1
+Alile,Rigmor,Undirected,2
+Jeppe,Nelly,Undirected,1
+Nelfy,Nelly,Undirected,1
+Jeppe,Nelfy,Undirected,1
+Jeppe,Jespersen,Undirected,5
+Jespersen,Lupin,Undirected,1
+Jeppe,Skomager Jespersen,Undirected,2
+Jeppe,Mutter,Undirected,6
+Mutter,Poulsen,Undirected,1
+Jeppe,Poulsen,Undirected,17
+Jeppe,Madam Jespersen,Undirected,4
+Droschke,Mutter,Undirected,1
+Droschke,Madsen,Undirected,1
+Madsen,Svend,Undirected,1
+Jeppe,Svend,Undirected,1
+Bravo,Peter,Undirected,1
+Bravo,Madsen,Undirected,1
+Jespersen,Madsen,Undirected,1
+Hr. Poulsen,Jespersen,Undirected,1
+Gud,Hr. Poulsen,Undirected,3
+Line,Mutter,Undirected,4
+Jeppe,Line,Undirected,3
+Jeppe,lille Marie,Undirected,5
+Gud,liam,Undirected,2
+Marie,liam,Undirected,1
+Jeppe,Marie,Undirected,2
+Gud,lille Marie,Undirected,1
+Madam Jespersen,lille Marie,Undirected,1
+Jespersen,Madam Jespersen,Undirected,1
+Gud,Marie,Undirected,1
+Gud,Kristus,Undirected,1
+Kristus,Mutter,Undirected,1
+Line,Marie,Undirected,1
+Gud,Jespersen,Undirected,1
+Jespersen,lille Marie,Undirected,1
+Madam Jespersen,Marie,Undirected,1
+Gud,Johannes,Undirected,2
+Jeppe,Madam Ellinger,Undirected,1
+Madam Ellinger,Poulsen,Undirected,1
+Gud,Søren,Undirected,1
+Jeppe,Søren,Undirected,1
+Jeppe,Karen,Undirected,5
+Fiver,Jeppe,Undirected,1
+Jeppe,blendes,Undirected,1
+Gud,blendes,Undirected,1
+Hansen,Peter Hansen,Undirected,1
+Hansen,ranner,Undirected,2
+Baronesse Borgas,Hansen,Undirected,1
+Baronesse Borgas,Peter Flansen,Undirected,1
+Jeppe,Peter Flansen,Undirected,2
+Flan,Peter Flansen,Undirected,1
+Baronesse Borgas,Jeppe,Undirected,7
+Baronesse Borgas,Gud,Undirected,1
+Gud,Poulsen,Undirected,4
+Poulsen,Susanne,Undirected,1
+Ramel,Susanne,Undirected,1
+Jeppe,lian,Undirected,6
+Flan,Lupin,Undirected,2
+Glands,Gud,Undirected,1
+Glands,Jeppe,Undirected,1
+Peter Hansen,Poulsen,Undirected,3
+Jeppe,Principal,Undirected,2
+Karen,Lupin,Undirected,1
+Lupin,P. H.,Undirected,1
+Jeppe,P. H.,Undirected,1
+Hansen,Poulsen,Undirected,2
+Lupin,Poulsen,Undirected,1
+Lupin,Svend,Undirected,2
+Lian,Lupin,Undirected,2
+Karl,Lupin,Undirected,3
+Jeppe,Karl,Undirected,5
+Jeppe,isa,Undirected,1
+Gud,Hille,Undirected,1
+Hille,Lupin,Undirected,1
+Jeppe Poulsen,Lupin,Undirected,1
+Borgas,Poulsen,Undirected,1
+Baronesse Borgas,Lupin,Undirected,3
+Borgas,liun,Undirected,2
+Lupin,Mishag,Undirected,1
+Borgas,Eloteller,Undirected,1
+Borgas,Diana,Undirected,2
+Borgas,voxne,Undirected,2
+Borgas,Primadonna,Undirected,2
+Høimark,Rigmor,Undirected,1
+Borgas,Jægermester Kurz,Undirected,2
+Borgas,Grev Barinsky,Undirected,2
+Borgas,Strunck,Undirected,3
+Gud,Strunck,Undirected,1
+Borgas,Grev Brion,Undirected,1
+Brion,Grev Brion,Undirected,2
+Grev Brion,Høimark,Undirected,1
+Borgas,paany,Undirected,2
+Bob,Borgas,Undirected,2
+Borgas,Prezocky,Undirected,1
+Baron Borgas,Prezocky,Undirected,1
+Jeanne Delft,Jeppe,Undirected,6
+Gjøgl,Jeanne Delft,Undirected,1
+Gjøgl,Gud,Undirected,1
+Antonius,Jeppe,Undirected,1
+Antonius,Jeanne Delft,Undirected,1
+Jeppe,Lærkens,Undirected,1
+Beridersker,Borgas,Undirected,2
+Borgas,Lucrezia,Undirected,1
+Elvad,Rigmor,Undirected,1
+Elvad,Elvis,Undirected,1
+Elvis,Jeanne,Undirected,1
+Jeanne,Jeanne Delft,Undirected,2
+Jeanne Delft,Liun,Undirected,1
+Borgas,Liun,Undirected,1
+Borgas,Jeanne,Undirected,12
+Jeanne,Mamsellen,Undirected,3
+Borgas,Mamsellen,Undirected,1
+Gud,Jeanne,Undirected,34
+Baronessens,Borgas,Undirected,1
+Baronessens,Circus,Undirected,1
+Jeanne Delft,Lupin,Undirected,1
+Borgas,Jeanne Delft,Undirected,1
+Borgas,Tyendes,Undirected,1
+Leie,Tyendes,Undirected,1
+Leie,Urias,Undirected,1
+David,Urias,Undirected,3
+David,itte,Undirected,3
+Urias,itte,Undirected,2
+Borgas,itte,Undirected,1
+Momsen,Putte,Undirected,1
+Momsen,Peer Nilen,Undirected,1
+Brion,Jens,Undirected,1
+Jens,Jeppe,Undirected,1
+David,Jeppe,Undirected,1
+Bathseba,David,Undirected,1
+Jeanne,Jeppe Poulsen,Undirected,3
+Jeanne,Jeppe,Undirected,367
+Jeanne,Pierre,Undirected,1
+Gud,Pierre,Undirected,1
+Delft,Jeanne,Undirected,1
+Delft,Jeppe,Undirected,2
+Flvad,Gud,Undirected,1
+Flvad,Jeanne,Undirected,1
+Elan,Jeppe,Undirected,2
+Baronessen,Jeanne,Undirected,4
+Baronessen,Jeppe,Undirected,10
+Hans,Jeanne,Undirected,1
+Hans,Peter,Undirected,1
+Jeppe,Nille,Undirected,2
+Maren,Nille,Undirected,1
+Jeppe,Maren,Undirected,10
+ban,lian,Undirected,1
+Maren,ban,Undirected,1
+Gud,Maren,Undirected,1
+Jeanne,Maren,Undirected,2
+Don Juan,Jeppe,Undirected,1
+Jeanne,Mo,Undirected,2
+Dorthe,Jeanne,Undirected,2
+D,Jeppe,Undirected,1
+Jeppe,livis,Undirected,1
+Jeanne,livis,Undirected,1
+Benved,Jeppe,Undirected,2
+Jeppe,Kjær,Undirected,1
+Bregner,Kjær,Undirected,1
+Bregner,Jeppe,Undirected,1
+Jeanne,lier,Undirected,1
+Jeppe,lier,Undirected,1
+Baronessen,Monsieur Jeppe,Undirected,1
+Jeppe,Monsieur Jeppe,Undirected,1
+Jeanne,liun,Undirected,5
+B.,Jeanne,Undirected,1
+B.,Borgas,Undirected,1
+Jeanne,liam,Undirected,3
+Jeanne,Tøites,Undirected,1
+Jeppe,Madame Ellinger,Undirected,1
+Lupin,Madame Ellinger,Undirected,1
+Hr. Poulsen,Jeppe,Undirected,1
+Hr. Poulsen,Meyer,Undirected,1
+Jeppe,Meyer,Undirected,8
+Baron Borgas,Meyer,Undirected,1
+Brion,Lupin,Undirected,4
+Baron Borgas,Poulsen,Undirected,1
+Lupin,joo,Undirected,1
+Jeppe,joo,Undirected,1
+Lupin,Sands,Undirected,1
+Jeanne Delft,Sands,Undirected,1
+Alvilda,Gud,Undirected,1
+Alvilda,Lupin,Undirected,1
+Lupin,lian,Undirected,1
+Jeppe,Løiers,Undirected,1
+Lupin,Løiers,Undirected,1
+Borgas,Ritmester de Brion,Undirected,1
+Jeppe Poulsen,Ramel,Undirected,1
+Baron Ramel,Jeppe,Undirected,1
+Delft,vanzires,Undirected,1
+Jeppe,vanzires,Undirected,1
+Hr. Ritmester,Jeppe,Undirected,2
+Baron Borgas,Jeanne,Undirected,2
+Brion,Jeanne,Undirected,44
+Baronesse Borgas,Brion,Undirected,1
+Jeppe,de Brion,Undirected,2
+Jeanne,Lupin,Undirected,4
+Flan,Jeanne,Undirected,3
+JeanneI,Lupin,Undirected,1
+Jeanne,JeanneI,Undirected,1
+Baronessen,Brion,Undirected,2
+Ansgar,Jeanne,Undirected,3
+Jeppe,Wessel,Undirected,2
+Ansgar,Jeppe,Undirected,1
+Gorm,Jeppe,Undirected,1
+Gorm,Thyra Danebod,Undirected,1
+Jeanne,Thyra Danebod,Undirected,1
+Alvilda,Jeanne,Undirected,2
+Jeanne,Uveir,Undirected,1
+Jeppe,Uveir,Undirected,3
+Alvilda,Jeppe,Undirected,1
+Alvilda,liun,Undirected,1
+Jeannne,Jeppe,Undirected,2
+Jeanne,Jeannne,Undirected,1
+Griller,Jeppe,Undirected,1
+Flvad,Griller,Undirected,1
+Flvad,Jeppe,Undirected,1
+Jeppe,Peltskaabe,Undirected,2
+FIvad,Jeppe,Undirected,2
+Aladdin,Jeppe,Undirected,3
+Aladdin,Jeanne,Undirected,1
+Gud,Jeppe jo,Undirected,1
+Brion,Jean,Undirected,7
+Jean,Jeppe,Undirected,7
+Nille,liam,Undirected,1
+Baron Borgas,Brion,Undirected,1
+Hr. Ritmesteren,Jeanne,Undirected,1
+Hr. Ritmesteren,Jeppe,Undirected,1
+Jean,Jeanne,Undirected,2
+Hyldethe,Jeanne,Undirected,2
+Hyldethe,Jeppe,Undirected,2
+Jeppe,Ritmesteren,Undirected,3
+Brion,Ritmesteren,Undirected,1
+Jeppe,tor,Undirected,2
+Jean,Johannes,Undirected,1
+Brion,ban,Undirected,1
+Jeppe,ban,Undirected,1
+Jean,Rigmor,Undirected,2
+Baronessen,Rigmor,Undirected,1
+Jeppe,Peer Olsen,Undirected,15
+Arnens,Peer Olsen,Undirected,2
+Jeanne,Peer Olsen,Undirected,6
+Jeanne,Mette,Undirected,1
+Jeppe,Mette,Undirected,1
+Gud,liun,Undirected,1
+Jeanne,Peer,Undirected,3
+Peer,hænd,Undirected,2
+Gud,jeppe,Undirected,1
+Jeppe,Schloss,Undirected,1
+Maren,Schloss,Undirected,1
+Hr. Maurmeister,Maren,Undirected,2
+Brion,Kjære,Undirected,1
+Brion,kjære,Undirected,2
+Frøken Delft,Jeppe,Undirected,4
+Bajads,Brion,Undirected,1
+Bajads,Jeanne,Undirected,1
+Jeppe,Peltsen,Undirected,1
+Brion,Peltsen,Undirected,1
+Jeppe,Stig,Undirected,1
+Jeanne,Stig,Undirected,1
+Ane,Jeppe,Undirected,39
+Ane,Maren,Undirected,1
+Mamsellen,Peer Olsen,Undirected,1
+Mamsellen,Olsens,Undirected,1
+Olsen,Olsens,Undirected,1
+Gud,Jean,Undirected,6
+Brion,Venus,Undirected,1
+Melos,Venus,Undirected,1
+Jeppe,Melos,Undirected,1
+Brion,Poulsen,Undirected,1
+Ane,Jeanne,Undirected,12
+Ane,Gud,Undirected,3
+Jeppe,livor,Undirected,2
+Jeppe,Jøsses,Undirected,2
+Ane,Jøsses,Undirected,1
+Ane,Herkules,Undirected,1
+Herkules,Omphale,Undirected,1
+Jeppe,Omphale,Undirected,1
+-,Gud,Undirected,1
+-,Jeppe,Undirected,1
+Asen,Jeppe,Undirected,2
+Jeppe,skumpies,Undirected,2
+Ane,Baronessen,Undirected,3
+Baronessen,Gud,Undirected,1
+Ane,Hansen,Undirected,4
+Ane,Flan,Undirected,2
+Hansen,lien,Undirected,1
+Jeanne,lien,Undirected,1
+Hansen,Jeanne,Undirected,3
+Gud,Lærkens,Undirected,2
+Brion,Flan,Undirected,2
+Brion,Frøken Brion,Undirected,1
+Baronessen,Frøken Brion,Undirected,1
+Jean,s,Undirected,2
+P.,S.,Undirected,1
+Jean,S.,Undirected,1
+Gud,Mathilde,Undirected,1
+Ludvig den,Mathilde,Undirected,1
+Ludvig den,Petersen,Undirected,1
+Jensen,Petersen,Undirected,1
+Brion,Jensen,Undirected,1
+Brion,Mathilde,Undirected,2
+Brion,Petersen,Undirected,1
+Petersen,Tante Brions,Undirected,1
+Jeppe,Tante Brions,Undirected,1
+Jeppe,sagdejeanne,Undirected,1
+Peer Olsen,sagdejeanne,Undirected,1
+Jøsses,Peer Olsen,Undirected,1
+Banoressen,Jeppe,Undirected,2
+Grev Brion,Jeanne,Undirected,2
+Grev Brion,Jeppe,Undirected,2
+Jeppe,Rigmor de Brion,Undirected,1
+Lupin,Rigmor de Brion,Undirected,1
+Jeanne,de Brion,Undirected,2
+Brion,Hr. Greve,Undirected,1
+Hr. Greve,Poulsen,Undirected,1
+Aa,Jeppe,Undirected,1
+Aa,Jeanne,Undirected,1
+Jeppe,Rialto,Undirected,2
+Frøken,Jeppe,Undirected,1
+Frøken,Jeanne,Undirected,1
+Brion,li,Undirected,1
+Akl,Jeppe,Undirected,1
+Akl,Brion,Undirected,1
+Gud,lian,Undirected,1
+Paulus,lian,Undirected,1
+Jeanne,Rialto,Undirected,1
+Jeppe,Mammesellen,Undirected,1
+Mammesellen,liun,Undirected,1
+Gud,Peer Olsen,Undirected,1
+Flan,Peer Olsen,Undirected,1
+Jeanne Delft,Peer Olsen,Undirected,1
+Lupin,lian Jeppe,Undirected,1
+Frøken Delft,Jeanne,Undirected,1
+Brion,lian,Undirected,1
+Grev Brion,Gud,Undirected,2
+Brion,Frøken Delft,Undirected,1
+Frøken Delft,de Brion,Undirected,1
+Grev Brion,de Brion,Undirected,1
+Brion,Peer Olsen,Undirected,1
+Maren,Peer Olsen,Undirected,1
+Brion,Maren,Undirected,1
+Brion,Paulus,Undirected,1
+Jeppe,Paulus,Undirected,1
+Gud,ban,Undirected,2
+Brion,Momsen,Undirected,1
+Gud,Momsen,Undirected,1
+Jeppe,kim,Undirected,1
+Brion,kim,Undirected,1

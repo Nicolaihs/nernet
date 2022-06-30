@@ -1,0 +1,159 @@
+source,target,type,weight
+Alfred,Arthur,Undirected,1
+Alfred,løi,Undirected,1
+Dorren,løi,Undirected,1
+Alsred,Dorren,Undirected,1
+Alfred,Degnens,Undirected,2
+Boels,Oles,Undirected,1
+huns,itu,Undirected,1
+Edmund,Gud,Undirected,5
+Edmund,h.,Undirected,1
+Gud,Sone,Undirected,1
+Lassen,Lif,Undirected,1
+Hansen,Lassen,Undirected,2
+Flora,hinde,Undirected,1
+Flora,hnn,Undirected,1
+Edmund,Ver,Undirected,1
+Edmund,Esmund,Undirected,1
+Hain,hnn,Undirected,1
+Marie,hnn,Undirected,4
+Haabet,meren,Undirected,1
+Gud,Marie,Undirected,2
+Gud,got,Undirected,1
+Marie,got,Undirected,2
+Mari,sela,Undirected,1
+Gud,sela,Undirected,1
+Edmnnd,ren,Undirected,1
+em,ren,Undirected,1
+Ed,d r,Undirected,1
+Alfred,Edmund,Undirected,4
+Alsr.,d,Undirected,1
+Alfred,got,Undirected,2
+Alfred,Hnn,Undirected,1
+Hnn,elig,Undirected,1
+Alfred,elig,Undirected,1
+Ole,Ole Glim,Undirected,1
+Ole,got,Undirected,1
+Alfred,y.,Undirected,1
+Alfred knn,B itikr,Undirected,1
+Alfred knn,Sich,Undirected,1
+Kjeld,Sich,Undirected,1
+Kjeld,Ole Rosten,Undirected,1
+Ole,itke,Undirected,1
+gjene,itke,Undirected,1
+Ole »,gjene,Undirected,1
+Koni,Ole,Undirected,1
+Alfred,Koni,Undirected,1
+Alfred,Alfred horde,Undirected,1
+Marie,ljørde,Undirected,1
+Alfred,ester,Undirected,3
+Alfred,Marie,Undirected,12
+Hnn,Marie,Undirected,1
+Alfred,hans Bert,Undirected,1
+Alfred,franste Svend,Undirected,1
+Alfred,Di,Undirected,1
+Di,mehre lehrreiche Schrister,Undirected,1
+Alfred,Err Studiosus,Undirected,1
+Alfred,ester Pastoren,Undirected,1
+Edmund,Faders,Undirected,1
+Alfred,as,Undirected,1
+Alfred,ban,Undirected,2
+Alfred,Hain,Undirected,1
+Elfride,Klara Stolby,Undirected,1
+Alfred,Frøken Elfride,Undirected,1
+Heidelberg,got,Undirected,1
+Alfred,mende,Undirected,1
+Alfred,Klara,Undirected,8
+Alfred,Alfred Leilighev,Undirected,1
+Alfred,Herberts,Undirected,1
+Gud,Herbert,Undirected,1
+Alfred,fil Alfred,Undirected,1
+Elfride,Klara,Undirected,4
+Alfred,Froken Klara,Undirected,2
+Alfred,Eie,Undirected,1
+Alfred,Charlotte Corday,Undirected,1
+Alfred,srem,Undirected,1
+Klara,srem,Undirected,1
+Klara,sor,Undirected,1
+Elstovnes,sor,Undirected,1
+Alfred,be,Undirected,1
+Alfred,Frøken Klara,Undirected,1
+Klara,ber,Undirected,1
+Alfred,Froken Elfride,Undirected,1
+Alfred,Frøken Lindr,Undirected,1
+Alfred,Katfzvliker,Undirected,1
+Gud,fil,Undirected,1
+Alfred,Jesus,Undirected,2
+Alfred,eiefaders,Undirected,2
+Alfred,Mebstyld,Undirected,2
+Alfred,Rothschild,Undirected,1
+Klara,pig,Undirected,1
+Gjek,pig,Undirected,1
+Alfred,bart H. wed,Undirected,1
+Alfred,ben vide,Undirected,1
+Marie,ben vide,Undirected,1
+Marie,hon Alfred,Undirected,1
+Alfred,jaa,Undirected,1
+Alfred,Gud,Undirected,4
+Alfred,hnn,Undirected,1
+Alfred,Sønncson,Undirected,1
+Alfred,Alikktt,Undirected,1
+Alfred,Hain Herberge,Undirected,2
+Bryde,Svensen,Undirected,1
+Klara,ban,Undirected,1
+Alfred,Pasforen,Undirected,3
+Alfred,n.,Undirected,1
+Jesus,n.,Undirected,1
+Ester Haands,Jesus,Undirected,1
+Alfred,Alred,Undirected,1
+Alsred,Gud,Undirected,1
+Faa,Marie,Undirected,2
+Gubbe,Marie,Undirected,2
+Alfred,Angel,Undirected,1
+Angel,Gud,Undirected,1
+Gud,ester,Undirected,1
+Herodes,Jesus,Undirected,1
+Herodes,Pilatus,Undirected,1
+Christne,Pilatus,Undirected,1
+Alfred,alf christeligt Kind,Undirected,2
+Alfred,hare,Undirected,1
+Adam,Alfred,Undirected,1
+Honr,ester,Undirected,1
+Frejr,Honr,Undirected,1
+Alfred,Frejr,Undirected,1
+Alfred,bet,Undirected,1
+Jetter,sandj,Undirected,1
+Asers,sandj,Undirected,1
+Asers,Jetter,Undirected,1
+Jetter,Ont,Undirected,1
+Hagel,Ont,Undirected,1
+Born,Thursers,Undirected,1
+Thurser,Thursers,Undirected,1
+Gerda,Thurser,Undirected,1
+Freir,Gerda,Undirected,1
+Alfred,Freir,Undirected,1
+Alfred,Alfred fulgde,Undirected,1
+Alfred,Aljred,Undirected,1
+Alfr d lunde,Alfred,Undirected,1
+Edmund,Elflov,Undirected,1
+Alfred,Vertinde,Undirected,1
+Alfred,L ommer,Undirected,1
+L ommer,Marie,Undirected,1
+Marie,dein,Undirected,1
+Dc,dein,Undirected,1
+Alfred,Dc,Undirected,1
+Alfred,Nogei,Undirected,1
+Alfred,Alfred Glim,Undirected,1
+Alfred,nel,Undirected,1
+hnn,siv,Undirected,1
+Aste,Ore,Undirected,1
+Alfred,Alfred-,Undirected,1
+Alfred,yens,Undirected,1
+-e,Marie,Undirected,1
+Brodes,Marie,Undirected,1
+Alfred,Brodes,Undirected,1
+Alfred,Elfride,Undirected,1
+Bøgelov,kvor,Undirected,1
+Alfred,Jltog,Undirected,1
+Elfride,Jltog,Undirected,1
+Klara,skjelmsk,Undirected,1

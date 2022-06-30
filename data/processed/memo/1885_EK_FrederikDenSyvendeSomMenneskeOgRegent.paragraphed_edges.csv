@@ -1,0 +1,447 @@
+source,target,type,weight
+Morten Dille,Morten Eskcsen,Undirected,1
+Morten,Morten Dille,Undirected,1
+Christen Smed,Clans,Undirected,1
+Adam,Claus,Undirected,1
+Christen Madsen,Claus,Undirected,1
+Christen,Claus,Undirected,5
+Claus,Stine,Undirected,2
+Claus,vl,Undirected,1
+Caroline Amalie,Kronprinds Frederik,Undirected,1
+Arveprinds Ferdinand,Kronprinds Frederik,Undirected,1
+Kong Christian den Ottende,Kong Frederik den Syvende,Undirected,1
+Charlotte,Frederik,Undirected,1
+Prinds Frederik,lhi,Undirected,1
+Frederik,Prinds Frederik,Undirected,2
+Frederik den 6tcs,Wilhelmine,Undirected,1
+Christen,hare,Undirected,1
+Ellen,Poul,Undirected,10
+Ellen,Guds,Undirected,1
+Guds,Poul,Undirected,1
+Ellen,Gud,Undirected,2
+Gud,eu Krage,Undirected,1
+Poul,eu Krage,Undirected,1
+Ellen,Kjæresten,Undirected,1
+Chrisfen,Ellen,Undirected,1
+Chrisfen,Poul,Undirected,1
+Christen,Poul,Undirected,1
+Poul,hans Baand,Undirected,1
+Ellen,Poul hen,Undirected,1
+Herfugen,Poul,Undirected,1
+Ellen,Karen Marie,Undirected,1
+Avdiens,Poul,Undirected,2
+Frederik den Syvende,Poul,Undirected,1
+Frederik,Frederik den Syvende,Undirected,2
+Hedemann,LæSsøc,Undirected,1
+Wedell,de Meza,Undirected,1
+Lunding,de Meza,Undirected,1
+Ellen,nn,Undirected,1
+Ellen,Ponl,Undirected,1
+Ellen,Jernholt,Undirected,1
+Johan,Mutter,Undirected,1
+Ellen,jø,Undirected,1
+Anna,Ellen,Undirected,1
+Anna,jø,Undirected,1
+jø,lille Ellen,Undirected,1
+Ellen,Johan,Undirected,1
+Jernholt,Johan,Undirected,8
+Johan,Mesters,Undirected,2
+Anna,Johan,Undirected,9
+Jernholt,Smed Jernholt,Undirected,1
+Jernholt,Svend,Undirected,2
+Gud,Johan,Undirected,1
+Anna,Skjær c,Undirected,1
+Anna,Hebe,Undirected,1
+Johan,Madam Jernholt,Undirected,1
+Frederik den Syvende,Jernholt,Undirected,1
+Frederik,Johan,Undirected,2
+Anna,Kong Frederik,Undirected,1
+Johan,Kong Frederik,Undirected,1
+Gjæsf,Hnn,Undirected,1
+Jernhvll,Johan,Undirected,1
+Jernhvll,hans Svend,Undirected,1
+Frederik,Jernholt,Undirected,1
+Jernholt,Karl,Undirected,1
+Mutter,Putte,Undirected,1
+Anna,Skaal,Undirected,1
+Anna Jernholt,Jernholt,Undirected,1
+Hnn,Jernholt,Undirected,1
+Johan Hammer,Mester Jernholt,Undirected,1
+Johan Hammer,Svend han nogensinde havde haft,Undirected,1
+Anna,Dahl,Undirected,1
+Johan,eu Othello,Undirected,1
+eu Othello,sorstaa,Undirected,1
+Anna,Mester Jernhvlt,Undirected,1
+Karl,Svend,Undirected,1
+fonrvdelig,hendeHendes,Undirected,1
+Madam Jernholt,hendeHendes,Undirected,1
+Anna,Madam Jernholt,Undirected,2
+Anna,hnn,Undirected,1
+Anna,Mutter,Undirected,1
+Anna,Johan Hammer,Undirected,3
+Anna,SmcdcnS,Undirected,1
+Anna,Jernholt,Undirected,1
+Dir.,Jernholt,Undirected,1
+Anna,Mester Jernholt,Undirected,2
+Anna,Frederik,Undirected,3
+Mesfer Jernholl,øgsaa,Undirected,1
+Johan,Mesfer,Undirected,1
+Frederik den Syvende,Johan,Undirected,1
+Anna,Jernholl,Undirected,1
+Johan,Mester Jernholl,Undirected,1
+Anna,sein Johan Hammer,Undirected,1
+Anna,Dn,Undirected,2
+Frederik,Johan Hammer,Undirected,3
+Jernholl,Johan,Undirected,1
+Cupido,Pantser,Undirected,1
+Louvise Hellman,bun,Undirected,1
+Anna,Anna Jernholt,Undirected,1
+Anna,Louise,Undirected,1
+Mester Jernholt,Svend,Undirected,1
+Louise,ester,Undirected,1
+Johan,Svend,Undirected,1
+Johan,gam,Undirected,1
+Lonise,gam,Undirected,1
+Anna Jernholt,Hellman,Undirected,1
+Hellman,Mester Jernholt,Undirected,1
+Anna,Glands,Undirected,1
+Johan,Johan Hammer,Undirected,1
+Anna,Frederik Dahl,Undirected,1
+Anna Jernholt,Frederik Dahl,Undirected,1
+Dahl,Madam Jernholt,Undirected,1
+Assled,Dahl,Undirected,1
+Frederik Christiansen,Mesfer,Undirected,1
+Jernholt,Mesfer,Undirected,1
+Iohan Hammer,Mesfer Jernholt,Undirected,1
+Anna,lille Anna,Undirected,1
+Hellman,Lonise,Undirected,1
+Anna,helved Frederik Dahl,Undirected,1
+Mester Jernholt,helved Frederik Dahl,Undirected,1
+Frederik Dahl,Johan Hammer,Undirected,1
+Breschen,Md. Bentsen,Undirected,1
+Breschen,Kourmageri,Undirected,1
+Jens,Kristine,Undirected,10
+Kristine,Madam Bentsen,Undirected,2
+Kristine,Md. Bentsen,Undirected,1
+Jens,Md. Bentsen,Undirected,1
+Axel Kruse,Madam Bentsen,Undirected,1
+Axel Kruse,Kristine,Undirected,1
+Axel Kl use,Kristine,Undirected,1
+Madam Bentsen,hnn,Undirected,2
+Sylfide,hnn,Undirected,1
+Fruen,Sylfiden,Undirected,1
+Maren,Sylfiden,Undirected,1
+Kruse,Maren,Undirected,2
+Anders,Maren,Undirected,8
+Anders,Kruse,Undirected,2
+Anders,Bo,Undirected,1
+FloraS,Majesfæts,Undirected,1
+Kru Kruse,Kruse,Undirected,1
+Frueu,Maren,Undirected,1
+Gud,Jens,Undirected,1
+Gud,Kruse,Undirected,1
+Anna,Jens,Undirected,1
+Exercits,Kristine,Undirected,1
+Jens,Kruse,Undirected,1
+Kruse,lille Madam Bentsen,Undirected,1
+Karl,Madam Bentsen,Undirected,1
+Kristine,soe,Undirected,1
+Asen,Kruse,Undirected,1
+Asen,as,Undirected,1
+Maren,ester,Undirected,1
+Kristine,Majesfæts,Undirected,1
+Laps,Majesfæts,Undirected,1
+Ieg,Kristine,Undirected,1
+Axel Kruse,Ieg,Undirected,1
+Ladegaardcn,sessorers,Undirected,1
+Maren,Tsndcn,Undirected,1
+Madam Bentsen,lille Rikkemoer,Undirected,1
+klædæ,kunoe,Undirected,1
+Kruse,Madam Bentsen,Undirected,1
+Kruse,lille Frederikke,Undirected,1
+Kruse,hnn,Undirected,1
+Kruse,hatt,Undirected,1
+Kruse,Offret,Undirected,1
+Kristine,hnn,Undirected,1
+Punschen,hnn,Undirected,1
+Kristine Bentsen,Mad.,Undirected,1
+Bentscns,Mad.,Undirected,1
+Axel,Kirstine,Undirected,1
+Hnn,hnn,Undirected,2
+Bentsen,Kristine,Undirected,1
+Madam Bentsen,Sons,Undirected,1
+Bentsen,hnn,Undirected,1
+Herrcdsfogedfrues,nn,Undirected,1
+Arne,EderAlle,Undirected,1
+Arne,Gud,Undirected,1
+Preuscre,ril,Undirected,1
+LeZedisch,Preuscre,Undirected,1
+Bisfop Mynster,LouiseChristine,Undirected,1
+Ferdinand,LouiseChristine,Undirected,1
+Ferdinand,Geheimeraad Scheele,Undirected,1
+Geheimeraad Scheele,Grev Knuth,Undirected,1
+Berling,Grev Knuth,Undirected,1
+Berling,Leoetzau,Undirected,1
+Dannesfjold-Samss,Leoetzau,Undirected,1
+Dannesfjold-Samss,Grev Ahlefeldt Laurvigcn,Undirected,1
+Ahlefeldt Laurvigen,Comtesse Friis,Undirected,1
+Comtesse Friis,Knuth,Undirected,1
+Moer,Rasmus,Undirected,2
+Louise,hnn,Undirected,1
+Moer Rasmus,ril,Undirected,1
+Berthelsen,Prinds Fredrik,Undirected,1
+Berthelsen,Prinds Frederik,Undirected,1
+Berthelsen,Lonise,Undirected,1
+Carl Berling,Louise Christine,Undirected,1
+Frederik,Louise Christine,Undirected,1
+Frederik,yun,Undirected,1
+Louise Chrisfine,Prinds Frederik,Undirected,1
+Carl Berling,Prinds Frederik,Undirected,1
+Moer,Næsfe Dag,Undirected,1
+Louise Christine,Prinds Frederik,Undirected,1
+Louise,Moer Rasmns,Undirected,1
+Christine,Lonise,Undirected,2
+Carl Berling,huvdc,Undirected,1
+Helene,Kilian lommer,Undirected,1
+Helene,em,Undirected,1
+em,hnn,Undirected,1
+hnn,ll,Undirected,1
+!,ll,Undirected,1
+Louise,Prinds Frederik,Undirected,1
+Dn,Lonise,Undirected,1
+Frederik,Louiic,Undirected,1
+Frederik,Verdens,Undirected,1
+Louise Christine,hei,Undirected,1
+Lomses,Lonse,Undirected,1
+Louis-,skjælmsk,Undirected,1
+Carl,Prinds Frederik,Undirected,1
+Carl,Lonise,Undirected,1
+Gud,Prinds Frederik,Undirected,1
+Carolines,Lonise,Undirected,1
+Carl,Carolines,Undirected,1
+bun,dicv,Undirected,1
+Frederik,Gud,Undirected,1
+Carl,Frederik,Undirected,1
+Frederik,jez,Undirected,1
+Frederik,Grevinde,Undirected,1
+Frederik,Louise Chrisfine,Undirected,1
+Gaardmandcn,Prindsen,Undirected,1
+Karl Berling,Prinds Frederik,Undirected,1
+Karl Berling,Louise,Undirected,1
+Louise,Prindsen,Undirected,1
+Karl Berling,Prindsen,Undirected,1
+Frederik den Syvende,Prinds Frederik,Undirected,1
+Frederik,Louise,Undirected,1
+Lonise,imidlcrtw,Undirected,1
+Lonise Christine Rasmussen,imidlcrtw,Undirected,1
+Graad,Gud,Undirected,1
+Christian den,Christine Munk,Undirected,1
+Frederik den,Louise Christine,Undirected,1
+Frederik,Frederik den,Undirected,1
+Kusk,Sognefogdm,Undirected,1
+Kjør,lille Ole,Undirected,1
+Kong Frederik den syvende,Morten Luthers,Undirected,1
+Kong Frederik den syvende,Louise Christine,Undirected,1
+Frederik den,Gehcjmcraad Unsgaard,Undirected,1
+Adre,Pihl,Undirected,1
+Clara Korn,Kruse,Undirected,1
+Clara,Clara Korn,Undirected,1
+Clara,Pihl,Undirected,3
+Pihl,ttl,Undirected,1
+Phil,Pihl,Undirected,1
+Axel,Hr. Meyer,Undirected,1
+Gud,Hr. Meyer,Undirected,1
+Clara,Hr. Meyer,Undirected,3
+H,s,Undirected,1
+Clara,Herres,Undirected,1
+Gud,Herres,Undirected,1
+Clara,Gud,Undirected,2
+Clara,Meyer,Undirected,2
+Clara,j,Undirected,1
+Axel,Clara,Undirected,21
+Mylady soreslaar,Myladys,Undirected,1
+Abel,Clara,Undirected,1
+Axel,wen,Undirected,1
+Christen,Clans,Undirected,1
+Jomfru Flora,ane,Undirected,1
+Flora,Hr. Kruse,Undirected,1
+Phil,Wilnov,Undirected,1
+Bravo,Grevinde Danner,Undirected,1
+Pihl,imidlerlid,Undirected,1
+Greven,Græve,Undirected,1
+Greve,saagar,Undirected,1
+saagar,son,Undirected,1
+Greve,Pihl,Undirected,5
+Pihl,Wilnov,Undirected,2
+Eden,Wilnov,Undirected,1
+Julins Rasmussen,dam,Undirected,1
+Greve,Wilnov,Undirected,2
+Axel,Greve,Undirected,1
+Axel,Pihl,Undirected,5
+Axel Kruse,Pihl,Undirected,1
+Greve,Pol,Undirected,1
+Axel,Gud,Undirected,2
+Axel,Wilnov,Undirected,2
+Greve,Karl,Undirected,1
+Axel,Øe,Undirected,1
+Axel,fagdc Pihl,Undirected,1
+Ester,Pihl,Undirected,1
+Axel,Pol,Undirected,1
+Greve,bløt,Undirected,1
+Clara,Wilnov,Undirected,1
+Clara,strax,Undirected,1
+Clara,Signor Lontard,Undirected,1
+Betty,Clara,Undirected,2
+Betty oz,Clara,Undirected,1
+Betty,kjærnesund,Undirected,1
+Lontard,Renome,Undirected,1
+Clara,Lontard,Undirected,1
+-Betty,Axel,Undirected,1
+Pihl,rim,Undirected,1
+Axel —,Clara,Undirected,1
+Pihl,ifle Greve,Undirected,1
+Hnn,raa,Undirected,1
+Frederik Folkekær,Kristian den,Undirected,1
+Betty,Robert,Undirected,21
+Betty saa raat,Dien,Undirected,1
+Betty,Betty saa raat,Undirected,1
+Betty,hnn,Undirected,2
+Anna Jensen,Betty,Undirected,1
+Linds,Robert,Undirected,1
+Lind,Robert adlød,Undirected,1
+Eva Bollman,Robert,Undirected,3
+Eva Bollman,Gustav Bollmans,Undirected,1
+Eva Bollman,Øet,Undirected,1
+Gustav Bollman,Robert,Undirected,1
+Robert,s,Undirected,1
+Caroline,Marie,Undirected,2
+Bertha,Marie,Undirected,2
+Betty,Madam Jensen,Undirected,2
+Madam Jensen,j,Undirected,1
+Jettes,Madam Jensen,Undirected,1
+Madam Jensen,taus,Undirected,1
+Betty Weller,Jette Hansen,Undirected,1
+Betty,Jette Hansen,Undirected,1
+Betty,Md. Jensen,Undirected,1
+Madam Jensen,Øet,Undirected,1
+Jette Hansen,Madam Jensen,Undirected,2
+Betty,Jette,Undirected,1
+Betty,j,Undirected,1
+Betty,Hr. Lind,Undirected,1
+Betty Weller,Robert,Undirected,3
+Frandsen,Lehmann,Undirected,2
+Bollmamr,Eva,Undirected,1
+Eva,Robert,Undirected,7
+Bollmann,Gustav Bollman,Undirected,1
+Eva,Ida Bollman,Undirected,1
+Bollman,Lind,Undirected,1
+Bollman,Eva,Undirected,2
+Bollman,Robert,Undirected,4
+Robert,Tillsb,Undirected,1
+Eva,Lind,Undirected,1
+Lind,Robert,Undirected,2
+Betty,Eva,Undirected,1
+Frandsen,Lehman,Undirected,14
+Lehman,Robert,Undirected,4
+Buch,Lehman,Undirected,1
+Betty Weller,Buch,Undirected,1
+Ebers,Vetty Weller,Undirected,1
+Betty,Ebers,Undirected,2
+Ebers,Lehmann,Undirected,1
+Lehman,Lind,Undirected,1
+Lehman,iblsd,Undirected,1
+Betty Weller,Robert Lind,Undirected,1
+Betty,saagar,Undirected,1
+Betty,Madam Binder,Undirected,2
+Betty,Madamen,Undirected,1
+Hr. Lind,Md. Binders,Undirected,1
+Frandsen,Lind,Undirected,2
+Betty Weller,Frandsen,Undirected,1
+Betty Weller,Ida,Undirected,1
+Gustav Bollmann,saagar,Undirected,1
+Don Malaniies,saagar,Undirected,1
+Don Malenties,Gustav Bollman,Undirected,1
+Bollman,Lehman,Undirected,4
+Bollman,Malentes,Undirected,1
+rehman,saagar,Undirected,1
+Frandsen,rehman,Undirected,1
+Don Malentes,Frandsen,Undirected,1
+Bollman,Don Malentes,Undirected,2
+Bollman,hans Eva,Undirected,1
+Robert,hans Eva,Undirected,1
+Bollman,Frandsen,Undirected,1
+Hr. Bollman,dcsværrre,Undirected,1
+EberS.,Lehman,Undirected,1
+EberS.,Hr. EberS.,Undirected,1
+Eva Bollmann,Robert,Undirected,1
+Fader,Robert,Undirected,1
+Eva,Fader,Undirected,1
+Kjæræ,Robert,Undirected,1
+Betty,Kjæræ,Undirected,1
+Betty Weller,Ebers,Undirected,1
+Robert,Thomas,Undirected,18
+Heg,Naa,Undirected,1
+Thomas,Thomas Fing,Undirected,1
+Thomas,gorde,Undirected,1
+Robert,gorde,Undirected,1
+Robert,Thomas Fing,Undirected,1
+Halfen,Robert,Undirected,1
+Don Malentes,Robert,Undirected,1
+Don Malentes,Thomas,Undirected,2
+Madammen,Thomas,Undirected,1
+Betty,Rrbert,Undirected,1
+Betty Weller,Lind,Undirected,1
+Betty,Madammen,Undirected,1
+Ebers,Madammen,Undirected,1
+Betty,Thomas,Undirected,5
+Robert,Thomas blæst,Undirected,1
+Betty,Thomus,Undirected,1
+Madam Katrine,Thomas,Undirected,2
+Betty,taus,Undirected,1
+Madam Katrine,taus,Undirected,1
+Hr. Lind,Madam Katrine,Undirected,1
+Lind,Villie,Undirected,1
+Betty,Lind,Undirected,1
+Betty,Nn,Undirected,1
+Betty,Gud,Undirected,1
+Gud,Thomas,Undirected,1
+Lind,gebt,Undirected,1
+Dhomas,Lind,Undirected,1
+Betty,Kathrine,Undirected,1
+Don Malentes,Sylvan,Undirected,1
+Betty,fom Robert,Undirected,1
+Frokosfen,Robert,Undirected,1
+Bollmann,Eva,Undirected,1
+Betty,Betty Weller,Undirected,2
+Betty,fasf,Undirected,1
+Gud,Robert,Undirected,1
+Betty,Katrine,Undirected,7
+Gud,ajer,Undirected,1
+Betty Weller,Katrine,Undirected,2
+Betty Welker,Katrine,Undirected,1
+Lind,Thomas Fing,Undirected,1
+Katrine,Thomas Fing,Undirected,1
+Jø,Katrine,Undirected,1
+Katrine,Thomas,Undirected,5
+Gud,Katrine,Undirected,1
+Betty,Jasaa,Undirected,1
+Betty,Madam Katrine,Undirected,2
+Betty,ganflc,Undirected,1
+Betty,øg,Undirected,1
+Betty,Madame Katrine,Undirected,1
+Robert sknlde,Thomas,Undirected,1
+Katrine,Robert,Undirected,1
+Moders,Thomas,Undirected,1
+Katrine,Moders,Undirected,1
+Betty,Lehman,Undirected,3
+Flora,Ida,Undirected,1
+Flora,Frandsen,Undirected,1
+Røbert,Thomas,Undirected,2
+Betty,Røbert,Undirected,1
+Don Malentes,Lehmann,Undirected,1
+Don Malentes,derso,Undirected,1
+Betty,Ssnnens,Undirected,1
+Lund,ester,Undirected,1
+Kong Carls,Kong Frederik,Undirected,1
+Grev Bjørnftjerne,Kong Carls,Undirected,1
+Christian,Kong Carls,Undirected,1

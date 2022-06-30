@@ -1,0 +1,369 @@
+source,target,type,weight
+Karl,hans Praxis,Undirected,1
+Gud,Hanne,Undirected,2
+Christine,Hanne,Undirected,60
+Christine,Gud,Undirected,2
+Hanne,Thomas,Undirected,30
+,Thomas,Undirected,6
+Hanne,Lieutenanten,Undirected,1
+Clausen,Thomas,Undirected,4
+,Hanne,Undirected,1
+Roes,Thomas,Undirected,1
+Hanne,Roes,Undirected,1
+Architekf,Muurmesfer,Undirected,1
+Architekf,Gorm,Undirected,1
+Gorm,Honneurs,Undirected,1
+Gud,hnn,Undirected,1
+Abel,Christine,Undirected,11
+Christine,Justitsraad Gorm,Undirected,1
+Christine,taug,Undirected,1
+Christine,fil,Undirected,3
+Abel,jnst de,Undirected,1
+Christine,Mama,Undirected,2
+Christine,Gumling,Undirected,1
+Gorm,Johan,Undirected,1
+Christine,Hanne boer,Undirected,1
+Clausen,Kraft,Undirected,6
+Clansen,Hanne,Undirected,2
+Brygger Kraft,Thomas,Undirected,2
+Hr. Kraft,Thomas,Undirected,1
+Hanne,Hr. Kraft,Undirected,2
+Krast,Thomas,Undirected,1
+Johannes Clansen,Thomas,Undirected,1
+Hektor,Thomas,Undirected,2
+Angusta,Hanne,Undirected,1
+Hanne,Marie,Undirected,4
+Kraft,Marie,Undirected,3
+Augusta,Clausen,Undirected,12
+Clausen,Hanne,Undirected,1
+Augusta,Hanne,Undirected,2
+Chrisfine,Hanne,Undirected,7
+Abel,lille Christine,Undirected,1
+Christine,Gorm,Undirected,16
+Clansen,Gorm,Undirected,5
+Gorm,Selmer,Undirected,33
+B,Selmer,Undirected,1
+B,Gorm,Undirected,1
+Abel,Selmer,Undirected,5
+Christine,Selmer,Undirected,40
+Gorm,Hanne,Undirected,3
+Abel,hnn,Undirected,1
+Bravo,Gumling,Undirected,1
+Abel,Bravo,Undirected,1
+Christine,von Gumling,Undirected,1
+Frøken Haffner,von Gumling,Undirected,1
+Frøken Haffner,Gumling,Undirected,1
+Abel,von Gumling,Undirected,1
+Richard Løvehjerte,von Gumling,Undirected,1
+Gumlinger,ester,Undirected,1
+Abel,Gumlinger,Undirected,1
+Abel,Diderik von Gumling,Undirected,6
+Abel,Gumling,Undirected,9
+Gumling,Øe,Undirected,1
+Anastasius von Gumlings,Gumling,Undirected,1
+Dokfor Clansen,Kraft,Undirected,1
+Augusta,Kraft,Undirected,3
+Clausen,Kraff,Undirected,2
+Clansen maaflee,Clausen,Undirected,1
+Augusta,Clansen maaflee,Undirected,1
+Augusta,Clansen,Undirected,5
+Clausen,Jusfitsraad Gorm,Undirected,1
+Gorm,Jusfitsraad,Undirected,1
+Augusta sorundrct,Gorm,Undirected,1
+Angusta,Gorm,Undirected,6
+Clausen,Gorm,Undirected,6
+Clausen,Methodisf,Undirected,1
+Augusta,Gorm,Undirected,21
+Frn Gorm,Gorm sknlde,Undirected,1
+Abel,Frn Gorm,Undirected,1
+Abel,Prinds,Undirected,1
+Gumling,Kraft,Undirected,1
+Gumling,Gumlingcr,Undirected,1
+Diderik von Gumling,Gumlingcr,Undirected,1
+Abel,Clausen,Undirected,1
+Clansen,Clausen,Undirected,2
+Abel,Gorm,Undirected,10
+Abel,Augusfa,Undirected,1
+Augusfa,Christine,Undirected,1
+Gorm,Krog,Undirected,41
+Krog,Marv,Undirected,1
+Gorm,Marv,Undirected,1
+Gorm,Kvarts,Undirected,1
+Gorm,Thomas Hammer,Undirected,1
+Gorm,Gumling,Undirected,2
+Augusta,Gumling,Undirected,1
+Augusta,Christine,Undirected,11
+Abel,Augusta,Undirected,5
+Abel,Gnmling,Undirected,2
+Abel,iveien,Undirected,1
+Abel,Gud,Undirected,1
+Abel,lille Kousine,Undirected,1
+Hanne leiet,Kraft,Undirected,1
+Clausen,Thomas Hammer,Undirected,1
+Hanne,Thomas Hammer,Undirected,2
+Hanne,Johan,Undirected,3
+Bruun,Hanne,Undirected,4
+Hanne,Humeur,Undirected,1
+Hanne,hnn,Undirected,2
+Christine,hnn,Undirected,5
+Johan,Øe,Undirected,1
+Hanne,Selmer,Undirected,16
+Hanne,Hr. Selmer,Undirected,1
+Hanne,tillive,Undirected,1
+Selmer,tillive,Undirected,1
+Hanne,Tvedes,Undirected,1
+Christine,Tvedes,Undirected,2
+Selmer,Tvcdc,Undirected,1
+Tvcdc,nn,Undirected,1
+Christine,Hr. Tvede,Undirected,1
+Gud,Selmer,Undirected,1
+Christine,Tvede,Undirected,13
+Bruun,Christine,Undirected,18
+Bruun,Selmer,Undirected,5
+Hanne,Tvede,Undirected,6
+Clara,Tvede,Undirected,4
+Frøken Hasfner,Tvede,Undirected,2
+Chrisfine,Christine,Undirected,2
+Bruun,Chrisfine,Undirected,3
+Hanne,loe,Undirected,1
+Christine,Clara,Undirected,2
+Hanne,Theodor,Undirected,5
+Størsf,Tvede,Undirected,1
+Størsf,soni Voxlys,Undirected,1
+Tvede,soni Voxlys,Undirected,1
+Christine,Theodor,Undirected,14
+Frøken Haffner,Theodor,Undirected,2
+Frøken Haffner,Theodor Tvede,Undirected,1
+Christine,Onkels,Undirected,1
+Christine,Fransf,Undirected,1
+Clara,Fransf,Undirected,1
+Clara,Gud,Undirected,2
+Selmer,Theodor,Undirected,9
+Feilberg,Tvede,Undirected,1
+Feilberg,Theodor,Undirected,1
+Ferdinand Schuster,Selmer,Undirected,1
+Ferdinand Schuster,Tvede,Undirected,1
+Mozart,Tvede,Undirected,3
+Farbroders,Tvede,Undirected,1
+Philip,Theodor,Undirected,1
+Tvede,ester,Undirected,1
+Theodor,Tvede,Undirected,16
+Clara,Theodor,Undirected,10
+Clara,Selmer,Undirected,1
+Mozart,Theodor,Undirected,2
+Chrisfine,Theodor,Undirected,1
+Ferdinand Haffner,Haffner,Undirected,1
+Ferdinand Christoffer Haffner,Theodor,Undirected,1
+Angusta,Clausen,Undirected,4
+Angusta,hnn,Undirected,3
+Gorm,hnn,Undirected,2
+Augusta,næsfen,Undirected,1
+Bohave,hnn,Undirected,1
+Augusta,lille Augusta,Undirected,1
+Augusta,Øe,Undirected,2
+Angusta,Augusta,Undirected,5
+Clausen,Selmer,Undirected,2
+Clausen,Johansen,Undirected,1
+Johansen,Thomas,Undirected,3
+Clansen,Thomas,Undirected,2
+Christine,Thomas,Undirected,2
+Elvinæ,Thomas Marie,Undirected,1
+Elvinæ,Kong Hannibal,Undirected,1
+Kong Hannibal,Marie,Undirected,1
+Hannibal,Marie,Undirected,1
+Hannibal,Thomas,Undirected,1
+Christian,Thomas,Undirected,1
+Christian,hiin,Undirected,1
+Thomas,hiin,Undirected,1
+Marie,Thomas,Undirected,12
+Tvede,hnn,Undirected,3
+Selmer,Tvede,Undirected,11
+Thee,Theodor,Undirected,1
+Frøken Hasfner,Selmer,Undirected,1
+Clara,Gorm,Undirected,1
+Clara,Hanne,Undirected,1
+Hanne,lee,Undirected,2
+hiin,j,Undirected,1
+Christine,hiin,Undirected,1
+Gud,Theodor,Undirected,2
+Fransfe,Gud,Undirected,1
+Fransfe,Frøken Haffner,Undirected,1
+Bruun,Theodor,Undirected,10
+Bruun,lee høit,Undirected,1
+Christine,lee høit,Undirected,1
+Christine,Christine fog,Undirected,1
+Christine fog,Hanne,Undirected,1
+Hanne,Johansen,Undirected,2
+Kraft,Thomas,Undirected,2
+Christine,Frøken Haffner,Undirected,1
+Frøken Haffner,lille Christine,Undirected,1
+felv,lille Christine,Undirected,1
+Hanne,je^,Undirected,1
+Bruun,Støien,Undirected,1
+Bruun,Clausen,Undirected,3
+Christine,Johansen,Undirected,4
+Selmer,Thomas,Undirected,1
+Gumling,von,Undirected,2
+Gumling,knn,Undirected,1
+Diderik von Gumling,Saffians,Undirected,1
+Diderik von Gumling,Gorm,Undirected,1
+Frederiksen,Poulsen,Undirected,2
+Petersen,Poulsen,Undirected,2
+Petersen,Svendsen,Undirected,1
+Gorm,Svendsen,Undirected,1
+Augusta,Bohave,Undirected,1
+Augusfa,Clausen,Undirected,3
+Clansen,felv,Undirected,1
+Clausen,hnn,Undirected,1
+Angusta,Dokfor Clansen,Undirected,1
+Augusfa,Dokfor Clansen,Undirected,1
+Augusfa,Clansen,Undirected,1
+Augusfa,Gorm,Undirected,1
+Karl,Krog,Undirected,2
+Augusta,Karl,Undirected,1
+Angusta,Krog,Undirected,1
+Krog,Selmer,Undirected,7
+Augusta,Selmer,Undirected,1
+Gorm,Prelleri,Undirected,1
+Prelleri,Selmer,Undirected,1
+Selmer,tildeels,Undirected,1
+Gorm,Gud,Undirected,1
+Gorm,Tvede,Undirected,3
+Klems,Mikkel,Undirected,2
+Abel,Mikkeler,Undirected,2
+Abel,Clansen,Undirected,2
+Clausen,hiint,Undirected,1
+Gorm,hiint,Undirected,1
+FrU-Gorm,Gorm,Undirected,1
+Angusta,Clansen,Undirected,2
+Clansen,hnn,Undirected,1
+Augusta,lee,Undirected,1
+Augusfa,sorsvare Clausen,Undirected,1
+Angusta,sorsvare Clausen,Undirected,1
+Clausen,nn,Undirected,1
+Gorm,Steen,Undirected,1
+Abel,høilys,Undirected,1
+Been,Gorm,Undirected,1
+Balles,Been,Undirected,1
+Balles,Gorm,Undirected,2
+Gorm,høilys,Undirected,1
+Abel,Krog,Undirected,10
+Gorm,Karl,Undirected,2
+Gorm,Philosoph,Undirected,1
+Philosoph,hnn,Undirected,1
+Spsg,hnn,Undirected,1
+Philosoph,Spsg,Undirected,1
+Augusta,hnn,Undirected,2
+Krast,hnn,Undirected,1
+Krog,Kvarts,Undirected,1
+Konrs,Kvarts,Undirected,1
+Feldspath,Konrs,Undirected,1
+Feldspath,Krog,Undirected,2
+Kraft,Selmer,Undirected,6
+Gorm,Marven,Undirected,1
+Marven,Selmer,Undirected,1
+Augusta,assted,Undirected,1
+Christine,Hnn,Undirected,2
+Bruun,hnn,Undirected,1
+Dokfor Johansen,sif,Undirected,1
+Bruun,Tvede,Undirected,4
+Theodor,hnn,Undirected,1
+Gorm,Selmer Tvede,Undirected,2
+Gorm,Theodor,Undirected,5
+Beethoven,Mozart,Undirected,2
+Beethoven,Theodor,Undirected,1
+Haydn,Theodor,Undirected,1
+Beethoven,Haydn,Undirected,1
+Beethoven,hnn,Undirected,2
+Theodor,^nkel,Undirected,1
+Dn,Theodor,Undirected,2
+Bruun,Frøken Haffner,Undirected,1
+Christine,Roes,Undirected,1
+Christine,Frøken Augnsta,Undirected,2
+Christine,Kraft,Undirected,3
+Angusta,Christine,Undirected,1
+Chrisfine,Tvede,Undirected,2
+Augusta,Tvede,Undirected,2
+Chrisfine,hnn,Undirected,3
+Froken Haffner,Karl,Undirected,1
+Augusta,Froken Haffner,Undirected,1
+Clara,Hanne itide,Undirected,1
+Gud,Thomas,Undirected,1
+Bruun,Thomas,Undirected,1
+Gorm,hiin,Undirected,1
+Clausen,hiin,Undirected,1
+Clansen,Selmer,Undirected,2
+Bruun,Johansen,Undirected,2
+Abel,hiin,Undirected,1
+Mikkel,hiin,Undirected,1
+Diderik von Gumling,Mikkel,Undirected,1
+Dokfor Iohansen,Gorm,Undirected,2
+Gorm,Johansen,Undirected,3
+Bruun,Gorm,Undirected,3
+Abel,Existents,Undirected,1
+Christine,Existents,Undirected,1
+Chrisfine,Gorm,Undirected,2
+Gorm,Kraft,Undirected,1
+Christine,Hanne iforveien,Undirected,2
+Christine,Clausen,Undirected,1
+Christine,Clansen,Undirected,1
+Bruun,Clansen,Undirected,1
+Asren,Clausen,Undirected,1
+Asren,Theodor,Undirected,1
+Hain,Tvede,Undirected,1
+Christine,Hain,Undirected,1
+Darwin,Humbugcn,Undirected,1
+Asten,Gorm,Undirected,1
+Kjederup,Krog,Undirected,2
+Abel,Beviis,Undirected,1
+Bisf,Gorm,Undirected,1
+Dokfor Johansen,Gorm,Undirected,1
+Bruun,Dokfor Johansen,Undirected,1
+Bruun,Lægcn,Undirected,2
+Bruun,Charles Maurices,Undirected,1
+Gorm,Jusfitsraad Gorm,Undirected,1
+Gorm,fig,Undirected,1
+fig,paany,Undirected,1
+Haffner,paany,Undirected,1
+Christine Haffner,Haffner,Undirected,1
+Christine Haffner,Mr. Martinet,Undirected,1
+Gorm,Mr. Martinet,Undirected,1
+Ferdinand Haffner,Gorm,Undirected,3
+Ferdinand Haffner,Martinet,Undirected,1
+Martinet,dansfe,Undirected,1
+Gorm,dansfe,Undirected,1
+Charles Manrice,Gorm,Undirected,1
+Charles Manrice,frossct,Undirected,1
+Gorm,frossct,Undirected,1
+Beviis,Gorm,Undirected,1
+Gorm,Maurice,Undirected,2
+Hanne,Maurice,Undirected,3
+Bruun,Theodor Tvede,Undirected,2
+Haffner,Thomas Hammer,Undirected,1
+Bruun,Haffner,Undirected,1
+Bruun,hiin,Undirected,2
+Bruun,Charles Maurice,Undirected,1
+Charles Maurice,Gorm,Undirected,1
+Charles Maurice,Tvede,Undirected,2
+Maurice,Tvede,Undirected,1
+Gorm,Hasfner,Undirected,1
+Christine,Haffner,Undirected,1
+Chrisfine,Steen,Undirected,1
+Steen,hnn,Undirected,1
+Bruun,Gud,Undirected,1
+Abel,Marv,Undirected,1
+Krog,Maurice,Undirected,1
+Maurice,Theodor,Undirected,1
+Haffner,Theodor,Undirected,1
+Johansen,Theodor,Undirected,3
+Krog,Theodor,Undirected,1
+Feldspath,Kvarts,Undirected,1
+Selmcrs,Selmer,Undirected,1
+Clansen,Selmcrs,Undirected,1
+Humeur,Selmer,Undirected,1
+Christine,Humeur,Undirected,1
+Clansen,Krast,Undirected,1
+Johansen,Selmer,Undirected,1
+Kraft,Theodor,Undirected,1
+Johansen,sidsfe,Undirected,2
+Chrisfine,Johansen,Undirected,1

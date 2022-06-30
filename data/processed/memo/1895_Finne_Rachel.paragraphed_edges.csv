@@ -1,0 +1,224 @@
+source,target,type,weight
+Josefa,fars,Undirected,1
+Albert,Josefa,Undirected,1
+Albert,Rikard,Undirected,2
+Rachels,papa,Undirected,1
+Volle,papa,Undirected,1
+Alida,sogar,Undirected,1
+sjø,sogar,Undirected,1
+Alida,sjø,Undirected,1
+Adjøs,Enevold,Undirected,1
+Enevold,Jens,Undirected,8
+Aias,Sancho,Undirected,4
+Aias,Sacho,Undirected,1
+Enevold,jente,Undirected,1
+jente,stelle,Undirected,1
+Rachel,Volle,Undirected,3
+Jossa,Volle,Undirected,2
+Jossa,Sancho,Undirected,2
+Sancho,ivei,Undirected,1
+Jens,Stein,Undirected,2
+Aias,Jens,Undirected,1
+jøie,å jøie,Undirected,1
+Enevold,Rachel,Undirected,16
+G. Finne,Rachel,Undirected,6
+Jens,Rachel,Undirected,1
+Enevold,Sancho,Undirected,5
+Rachel,kjæks,Undirected,1
+Enevold,kjæks,Undirected,2
+Enevold,taus,Undirected,1
+allright,taus,Undirected,1
+Enevold,Rasmussen,Undirected,5
+Enevold,Krag,Undirected,4
+Finsen,kjære ågerkarl Finsen,Undirected,2
+Enevold,Finsen,Undirected,5
+Finsen,Rasmussen,Undirected,1
+Finsen,javist,Undirected,2
+Bader,Finsen,Undirected,2
+Finsen,Rachel,Undirected,2
+Finsen,Jossa,Undirected,1
+Bisken,Eliassen,Undirected,1
+Gud,Guds,Undirected,1
+Gud,ivei,Undirected,1
+Rachel,lille Volle,Undirected,4
+Rachel,Vesle Volle,Undirected,1
+Rachel,Thorsbakke,Undirected,2
+Thorsbakke,tufs,Undirected,1
+Sancho,Volle,Undirected,2
+Enevold,Volle,Undirected,5
+Bohemen,Enevold,Undirected,1
+Bohemen,Jens,Undirected,1
+Bohemen,Sancho,Undirected,1
+Enevold,krisis,Undirected,1
+Enevold,Woxen,Undirected,3
+Gullaksens,Sancho,Undirected,2
+Jens,Sancho,Undirected,1
+Rachel,trut,Undirected,1
+Josefa,trut,Undirected,1
+Josefa,Woxen,Undirected,1
+Rachel,Woxen,Undirected,2
+Luthers,Woxen,Undirected,1
+Elias,satan,Undirected,1
+Eliassen,Enevold,Undirected,5
+Elias Eliassen,Finsen,Undirected,1
+Eliassen,Finsen,Undirected,2
+Josefa,Rachel,Undirected,4
+Eliassen,sjømand,Undirected,1
+Eliassen,Gregersen,Undirected,2
+Enevold,Gregersen,Undirected,4
+Bader,Gregersen,Undirected,1
+Bader,Enevold,Undirected,2
+Frida,atlaskes,Undirected,1
+Enevold,Frida,Undirected,4
+Enevold,burgunder,Undirected,1
+Eger,ifjor,Undirected,1
+Eger,Enevold,Undirected,1
+Rachel,Rasmussen,Undirected,2
+iland,køie,Undirected,1
+Josefa,Madammen,Undirected,2
+Josefa,kolera,Undirected,2
+Rikard,gutten,Undirected,2
+Rachel,Rikard,Undirected,5
+lel,mycke,Undirected,1
+Frida,Rachel,Undirected,2
+Frida,Josefa,Undirected,2
+Frida,hendes,Undirected,1
+Enevold,hendes,Undirected,1
+Rachel,gud,Undirected,1
+Bjarke,Enevold,Undirected,10
+Bjarke,Josefa,Undirected,1
+Anna,Josefa,Undirected,1
+Anna,Rachel,Undirected,2
+Bjarke,Stakkars,Undirected,1
+Bjarke,Kanske,Undirected,1
+Enevold,Kanske,Undirected,1
+Enevold,Gutten,Undirected,1
+Gutten,Rachel,Undirected,2
+Rachel,hans,Undirected,2
+Rasmussen,hans,Undirected,1
+Enevold,Rikard,Undirected,3
+Josefa,Rikard,Undirected,1
+Josefa,Thorsbakke,Undirected,1
+corned beaf,kjæks,Undirected,1
+Enevold,Rikard Woxens,Undirected,1
+Rikard Woxens,gutten,Undirected,1
+gutten,nichts,Undirected,1
+Gutten,nichts,Undirected,1
+Enevold,Josefa,Undirected,1
+Enevold skvat,Josefa,Undirected,2
+Josefa,Rasmussen,Undirected,1
+Kristiania,Rachel,Undirected,1
+Enevold,Jossa,Undirected,2
+Enevold,Thorsbakke,Undirected,1
+Eliassen,gut,Undirected,1
+gut,reis,Undirected,1
+Rachel,pikker,Undirected,1
+Rachel,isommer,Undirected,1
+Eliassen,isommer,Undirected,1
+Eliassen,madammen,Undirected,1
+Madammen,madammen,Undirected,1
+Finne,G,Undirected,1
+Finne,Rachel,Undirected,3
+Asker,Rachel —,Undirected,1
+Rachel —,Woxen,Undirected,1
+Bjerre,Woxen,Undirected,1
+Bjerre,Olaf,Undirected,2
+Olaf,hans,Undirected,1
+Eliassen,hans,Undirected,1
+Bjerre,Eliassen,Undirected,1
+Eliassen,Olaf,Undirected,1
+Enevold,reise,Undirected,1
+Rachel,reise,Undirected,1
+Korlissen,Rikard,Undirected,1
+Enevold,Korlissen,Undirected,1
+Eg,eg,Undirected,1
+eg,meg,Undirected,1
+Bjarke,Bjarke keg,Undirected,1
+Rachel,eg,Undirected,1
+Elias Eliassen,Rachel,Undirected,2
+Bjarke,Elias Eliassen,Undirected,1
+Bjarke,Nietzsche,Undirected,1
+Enevold,Nietzsche,Undirected,1
+Gut gebriillt,gud,Undirected,1
+Gut gebriillt,Løwe,Undirected,1
+Enevold,Løwe,Undirected,1
+Bjarke,Rachel,Undirected,6
+Enevold,gud,Undirected,1
+Bjarke,Finne,Undirected,1
+Aias,kane,Undirected,1
+Bjarke,Volle,Undirected,2
+Bjarke,Jossa,Undirected,1
+Aias,Enevold,Undirected,8
+Lille Rachel,Rachel min,Undirected,1
+Albert,Chikago,Undirected,1
+Albert,Volle,Undirected,1
+Enevold,stugge,Undirected,1
+papa,stugge,Undirected,1
+Volleguttens,papa,Undirected,1
+Bader,Jossa,Undirected,1
+Anna,Jossa,Undirected,1
+Anna,Volle,Undirected,1
+Anna,Enevold,Undirected,1
+Jossa,Rachel,Undirected,3
+Enevold,Helhesten,Undirected,1
+Mikal Opsal,eig,Undirected,1
+Enevold,hans,Undirected,1
+Adam,Fredrik,Undirected,1
+Enevold,Fredrik,Undirected,10
+Enevold,Fredrik Gjerding,Undirected,2
+Fredrik,Gjerding,Undirected,1
+Enevold,Gjerding,Undirected,1
+Alida,Fredrik,Undirected,1
+Fredrik,Krag,Undirected,1
+Fredrik,kjære papa,Undirected,1
+Fredrik,papa,Undirected,1
+Finsen,Fredrik,Undirected,2
+Enevold,eg,Undirected,1
+Eliassen,Sancho,Undirected,1
+Aias,Eliassen,Undirected,1
+Aias,Elias,Undirected,1
+Elias,Enevold,Undirected,1
+Enevold,Nei,Undirected,2
+Aias,Rachel,Undirected,1
+Jossa,Winsnæs,Undirected,1
+Enevold,øine,Undirected,1
+Aias,øine,Undirected,1
+Enevold,G. Finne,Undirected,1
+Rachel,melk,Undirected,1
+Aias,melk,Undirected,1
+Enevold,kjød,Undirected,1
+Kanske,Rachel,Undirected,1
+Eliassen,Kanske,Undirected,1
+Eliassen,stryknin,Undirected,1
+Rachel,Sancho,Undirected,1
+Bjarke,Fredrik,Undirected,1
+Bjarke,Gud,Undirected,1
+Fredrik,Gud,Undirected,1
+Josefa,Jossa,Undirected,1
+Jossa,Thorsbakke,Undirected,1
+Bjarke,Finsen,Undirected,1
+Enevold,iland,Undirected,1
+Enevold,ivei,Undirected,1
+akerriksens,ivei,Undirected,1
+Rachel,akerriksens,Undirected,1
+Rachel,Vollegutten,Undirected,1
+Enevold,Vollegutten,Undirected,1
+Thorsbakke,Volle,Undirected,1
+Enevold,j,Undirected,1
+Johannes,Rachel,Undirected,1
+Enevold,skoggerlo,Undirected,1
+Enevold,Kristus,Undirected,1
+Enevold,Finne,Undirected,1
+Ohlsen,Olsen,Undirected,1
+Ohlsen,Visvas,Undirected,1
+Visvas,guti,Undirected,1
+Elias Eliassen,Fredrik,Undirected,1
+Enevold,lille Volle,Undirected,1
+Ivar,Rachel,Undirected,1
+Eide,Ivar,Undirected,1
+Eide,gud,Undirected,1
+Eliassen,gud,Undirected,1
+Bjarke,lille Enevold,Undirected,1
+Enevold,trev,Undirected,1
+Enevold,Ivar,Undirected,1
+Ivar,stelle,Undirected,1

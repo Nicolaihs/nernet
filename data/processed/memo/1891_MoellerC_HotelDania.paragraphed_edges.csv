@@ -1,0 +1,312 @@
+source,target,type,weight
+Ane,Niels Gaardskarl,Undirected,1
+Madam Wonge,Niels Gaardskarl,Undirected,1
+Hans Wonge,Madam Wonge,Undirected,1
+Gud,devare,Undirected,1
+Becker,Gud,Undirected,1
+Becker,Madam Wonge,Undirected,1
+Line,Madam Wonge,Undirected,1
+Line,adjøs,Undirected,1
+Flid,Wonge,Undirected,1
+Klovborg,Møller,Undirected,1
+Gud,Wonge,Undirected,3
+Becker,Hansen,Undirected,1
+Isse,Wonge,Undirected,1
+Klovborg,Wonge,Undirected,4
+Lundholm,Nielsen,Undirected,1
+Albert Maag,Wonge,Undirected,3
+Jochumsens,Purrh,Undirected,1
+Kjøkke,Wonge,Undirected,1
+Klovborg,Trine,Undirected,1
+Nikoline,Wonge,Undirected,1
+Maag,Wonge,Undirected,6
+Agathe Wonge,Wonge,Undirected,1
+Agathe,ovei,Undirected,1
+Agathe Wonge,ovei,Undirected,1
+Agathe,Wonge,Undirected,14
+Agathe,Sax,Undirected,1
+Agathe,Hr. Brockhoff,Undirected,5
+Reinhard,Reinhard Brockhoff,Undirected,1
+Brockhoff,Reinhard,Undirected,6
+Brockhoff,Rasmussen,Undirected,3
+Rasmussen,Reinhard,Undirected,1
+Agathe,Reinhard,Undirected,52
+Gud,Reinhard,Undirected,1
+Agathe,Maag,Undirected,7
+Frøken Agathes,Maag,Undirected,1
+Frøken Agathes,Wonge,Undirected,1
+Wonge,liendes,Undirected,1
+Niels Gaardskarl,Wonge,Undirected,1
+Madam Wonge,hnn,Undirected,1
+Niels,Wonge,Undirected,2
+Hester,Niels,Undirected,1
+Carla Melsing,Niels,Undirected,1
+Carla Melsing,Wonge,Undirected,9
+Frk. Melsing,Wonge,Undirected,6
+Helsing,Welding,Undirected,1
+Agathe,Melsing,Undirected,1
+Gud,Hr. Brockhoff,Undirected,2
+Gud,har,Undirected,1
+Brockhoff,Prent,Undirected,1
+Brockhoff,Wonge,Undirected,4
+Frk. Carla Melsing,Wonge,Undirected,1
+Trine,Wonge,Undirected,2
+Trine,undgaa,Undirected,1
+Line,Wonge,Undirected,8
+Line,Trine,Undirected,1
+Frk. Melsing,Wongers,Undirected,1
+Hans,Wonge,Undirected,2
+Wonge,hankan,Undirected,1
+Boldt,Trine,Undirected,1
+Boldt,Buli,Undirected,1
+Buil,Wonge,Undirected,3
+Carla Melsing,Frk. Melsing,Undirected,1
+Buli,Frk. Melsing,Undirected,1
+Buli,Maag,Undirected,6
+Maag,foi,Undirected,1
+Buli,foi,Undirected,1
+Buli,Carla Melsing,Undirected,1
+Buil,Carla Melsing,Undirected,4
+Ollendorffs,Ploetz,Undirected,1
+Carla,Maag,Undirected,10
+Ferdinand,Wonge,Undirected,2
+Buli,Danias,Undirected,1
+Danias,Wonge,Undirected,1
+Agathe,Brockhoff,Undirected,4
+Brockhoff,Ferdinand Buils,Undirected,1
+Brokhoff,Ferdinand Buils,Undirected,1
+Brokhoff,Gud,Undirected,1
+Agathe,Frk. Melsing,Undirected,4
+Agathe,Carla Melsing,Undirected,3
+Carla Melsing,Jens,Undirected,1
+Agathe,Jens,Undirected,1
+Agathe,Buli,Undirected,3
+Buli,Wonge,Undirected,9
+Maag,grant,Undirected,1
+grant,sacrosancte,Undirected,1
+Maag,Mister Wonge,Undirected,1
+Athene,Pallas,Undirected,1
+Buil,Buli,Undirected,2
+Carla Melsing,Klovborg,Undirected,1
+Carla,Klovborg,Undirected,1
+Carla,Ossian,Undirected,1
+Klovborg,Odysseen,Undirected,1
+Klovborg,Sands,Undirected,1
+Carla,Hr. Buil,Undirected,1
+Buli,Hyllesteds,Undirected,1
+Maag,liun,Undirected,1
+Agathe,Carla,Undirected,6
+Carla,Lots,Undirected,1
+Buil,Don Juan,Undirected,1
+Agathe,Buil,Undirected,4
+Hyllested,Wonge,Undirected,2
+Buli,Praxis,Undirected,1
+Praxis,Wonge,Undirected,1
+Wonge,lian,Undirected,2
+Flaarup,Reinhard,Undirected,1
+Flaarup,Wonge,Undirected,1
+Holberg,Reinhard,Undirected,1
+Reinhard,quaien,Undirected,2
+Gud,Rasmussen,Undirected,1
+Reinhard,Wonge,Undirected,8
+Line,Reinhard,Undirected,1
+Jøsses,Wonge,Undirected,1
+Hr. Brockhoff,skjælmsk,Undirected,1
+Hr. Brockhoff,foi,Undirected,1
+Hr. Brockhoff,Line,Undirected,1
+Reinhard,daAgathes,Undirected,1
+Agathe,daAgathes,Undirected,1
+Kænguruh,Reinhard,Undirected,1
+Reinhard,vims,Undirected,1
+Reinhard,liun,Undirected,1
+liam,liun,Undirected,1
+Buil,liam,Undirected,1
+Buil,Praxis,Undirected,1
+Buli,Reinhard,Undirected,4
+Brockhoff,Buli,Undirected,2
+Brockhoff,Hr. Rasmussens,Undirected,1
+Frk. Melsing,Maag,Undirected,2
+Carla Melsing,Dands,Undirected,1
+Albert Maag,Dands,Undirected,1
+Frøken Melsing,Lassen,Undirected,1
+Carla,Frk. Melsing,Undirected,3
+Carla,Hallager,Undirected,1
+Hallager,Wonge,Undirected,4
+Hallager,Smed,Undirected,1
+Ryttei’,Wonge,Undirected,1
+Wonge,a,Undirected,1
+Fru Kuhlmanns,Wonge,Undirected,1
+Agathe,Agathe Wonge,Undirected,1
+Frøken Wonge,Reinhard,Undirected,1
+Agathe,Frederiksen,Undirected,1
+Agathe,Kuhlmann,Undirected,3
+Kuhlmann,Reinhard,Undirected,4
+Amelie,Hr. Brockhoff,Undirected,2
+Amelie,Reinhard,Undirected,14
+Brockhoff,Lumbye,Undirected,1
+Amelie,lian,Undirected,1
+Buil,lian,Undirected,1
+Ferdinand Buli,Gud,Undirected,1
+Gud,Margrethe,Undirected,1
+Buli,Kuhlmann,Undirected,1
+Buli,Voxne,Undirected,1
+Hr. Brockhoff,Voxne,Undirected,1
+Buli,Ferdinand,Undirected,1
+Christopher,Ferdinand,Undirected,1
+Christopher,Joachim Buli,Undirected,1
+Fru Kuhlmanns,Maag,Undirected,1
+Brockhoff,Frk. Melsing,Undirected,1
+Brockhoff,Buil,Undirected,1
+Lanciers,Maag,Undirected,1
+Frk. Bang,Larsens,Undirected,1
+Bang,Carla Melsing,Undirected,1
+Bang,Carla,Undirected,1
+Carla,Don Juan,Undirected,1
+Don Juan,Leporello,Undirected,1
+Carla,Hrr,Undirected,1
+Hrr,Musici,Undirected,1
+Carla,Frk. Bang,Undirected,2
+Carla,Dandsen,Undirected,1
+Charybdis,Scylla,Undirected,1
+Carla,Charybdis,Undirected,1
+Carla,Reinhard,Undirected,4
+Amelie,Lanciers,Undirected,1
+Lanciers,Tralalala,Undirected,1
+Dandsen,Trine,Undirected,1
+Langsje,Melange,Undirected,1
+Wonge,kongplet,Undirected,1
+Dands,Wonge,Undirected,1
+Hr. Brockhoff,Melsing,Undirected,1
+Dands,Reinhard,Undirected,4
+Amelie,Reinhard Brockhoff,Undirected,2
+Amelie,Buli,Undirected,1
+Agathe,Amelie,Undirected,8
+Agathe,Frøken Kuhlmann,Undirected,1
+Agathe,Frøken Wonge,Undirected,1
+Hr. Brockhoff,Romeo,Undirected,1
+Julie,Romeo,Undirected,1
+Julie,Shakespeare,Undirected,1
+Agathe Jalusiens,Reinhard,Undirected,1
+Agathe,Jalusi,Undirected,1
+Jalusi,Maag,Undirected,1
+Amelie,Maag,Undirected,3
+Agathe,Manufakturhan,Undirected,1
+Maag,Reinhard,Undirected,1
+Amelie patrouillerede,Reinhard,Undirected,1
+Amelie patrouillerede,Wonge,Undirected,1
+Dandsen,Herrens,Undirected,1
+Frk. Bang,Wonge,Undirected,1
+Lanciers,lian,Undirected,1
+Agathe,lian,Undirected,1
+Wonge,sis,Undirected,1
+Madammens,sis,Undirected,1
+Albert Maag,Kopernikus,Undirected,1
+Dandsen,Frk. Bang,Undirected,1
+Frk. Bang,Lanciers,Undirected,1
+Frøken Kuhlmann,Hr. Brockhoff,Undirected,1
+Agathe,Midie,Undirected,1
+Buil,Frøken Agathe,Undirected,2
+Brockhoff,Frøken Agathe,Undirected,1
+Carla,Ægtevivs,Undirected,1
+Frk. Wonge,Ægtevivs,Undirected,1
+Agathe,oni,Undirected,1
+Buil,Trine,Undirected,1
+Buli,Trine,Undirected,1
+Buli,Hebe,Undirected,1
+Buil,Hebe,Undirected,1
+Bull,Burre,Undirected,1
+Buli,fiffig,Undirected,1
+Carla,fiffig,Undirected,1
+Buli,Carla,Undirected,5
+Bull,Carla,Undirected,2
+Allan Dahis,Buli,Undirected,1
+Maag,lian,Undirected,1
+Carla,Carla Melsing,Undirected,1
+Buil,Carla,Undirected,4
+Amelie,Carla,Undirected,5
+Amelie,Frøken Melsing,Undirected,3
+Amelie,Vilhelm Tell,Undirected,1
+Amelie,Jens,Undirected,1
+Carla,Jens,Undirected,1
+Amelie,Dands,Undirected,1
+Amelie,Bull,Undirected,2
+Bull,Frøken Melsing,Undirected,1
+Bull,Villie,Undirected,1
+Frøken Wonge,Hr. Brockhoff,Undirected,1
+Dandsen,Wonge,Undirected,1
+Amelie,Mama,Undirected,2
+Amelie,Buil,Undirected,3
+Amelie,Bnll,Undirected,1
+Bull,Carla Melsing,Undirected,1
+Carla,Frøken Kuhlmann,Undirected,1
+Carla,Wonge,Undirected,6
+Carla,Kuhlmann,Undirected,1
+Kuhlmann,Wonge,Undirected,1
+Døttres,Wonge,Undirected,1
+Døttres,Maag,Undirected,1
+Agathe,Dands,Undirected,2
+Agathe,Dandsen,Undirected,1
+Agathe,Graad,Undirected,1
+Amelie,hnn,Undirected,1
+Agathe,bun,Undirected,1
+Amelie,bun,Undirected,1
+Frk. Wonge,iReinhards,Undirected,1
+Frk. Kuhlmann,Frk. Wonge,Undirected,1
+Agathe,Frk. Kuhlmann,Undirected,1
+Klovborg,radmagre,Undirected,1
+Klovborg,Zweckessen,Undirected,1
+Hyllested,salig Hyllested,Undirected,1
+Frøken Melsing,Wonge,Undirected,1
+Madammen,Wonge,Undirected,1
+Maag,Pathos,Undirected,1
+Frk. Melsing,Madammen,Undirected,1
+Buli,Hagel,Undirected,1
+Buil,Ferdinand,Undirected,1
+Albert,Christopher Maag,Undirected,1
+Beaumonde,Petersen,Undirected,1
+Petersen,Sørensen,Undirected,1
+Albert Maag,Frøken Agathe,Undirected,1
+Bull,Wonge,Undirected,4
+Buli,Bull,Undirected,1
+Hyllested,Tyrras,Undirected,2
+Tyrras,badous,Undirected,1
+badous,langhan,Undirected,1
+Klovborg,Køter,Undirected,1
+Køter,Tyrras,Undirected,1
+Klovborg,Reinhard,Undirected,1
+Agathe,Bull,Undirected,3
+Hmarsch,Wonge,Undirected,1
+Frk. Melsing,Hmarsch,Undirected,1
+Frk. Melsing,Kuhlmann,Undirected,1
+Buil,Kuhlmann,Undirected,1
+Buil,liun,Undirected,1
+liun,livor,Undirected,1
+Maag,livor,Undirected,1
+Bull,Reinhard,Undirected,3
+Reinhard,Springgaas,Undirected,1
+Frøken Wonge,Springgaas,Undirected,1
+Buil,Reinhard,Undirected,1
+Buli,Hr. Maag,Undirected,1
+Carla,Kehraus,Undirected,1
+Albert,Carla,Undirected,1
+AIaag,Agathe,Undirected,1
+Agathe,marsch,Undirected,1
+lian,liar,Undirected,1
+Bullind,Mr. Wonge,Undirected,1
+Mutter,Nikoline,Undirected,1
+Amelie,Herr Brockhoff,Undirected,1
+A,Wonge,Undirected,1
+Amelie,Wonge,Undirected,1
+Amelie,Toddy,Undirected,1
+Carla,Edikke,Undirected,1
+Edikke,strax,Undirected,1
+Slagter Beckers,Wonge,Undirected,1
+Mutter,liam,Undirected,1
+Agathe,Mutter,Undirected,1
+Mutter,tora,Undirected,1
+Anders,Wonge,Undirected,1
+Brockhoff,Mutter,Undirected,1
+Brockhoff,a Saltedød Brockhoff,Undirected,1
+Hr. Brockhoff,else,Undirected,1
+Carla Melsing,Frk. Terpsichore,Undirected,1
+Hansen,Moneter,Undirected,1

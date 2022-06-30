@@ -1,0 +1,255 @@
+source,target,type,weight
+Holger,Jens,Undirected,5
+Jens,Marie,Undirected,3
+Hansen,Marie,Undirected,10
+Hansen,Provst Jørgensen,Undirected,1
+Provst Jørgensen,Provst Møller,Undirected,2
+Martensen,Provst Møller,Undirected,1
+Hansen,Jens,Undirected,5
+Jens,Jenses,Undirected,5
+Jenses,Rasmussen,Undirected,1
+Jens,Rasmussen,Undirected,2
+Marie,Nyrup,Undirected,1
+Hansen,Thorsen,Undirected,2
+Hansen,Jørgensens,Undirected,1
+Dahlberg,theol. Dahlberg,Undirected,1
+Marie,Pastor Hansens,Undirected,1
+Berner,Marie,Undirected,1
+Holger,Marie,Undirected,12
+Anna Berner,Holger,Undirected,1
+Anna le,Holger,Undirected,1
+Holger,Jenses,Undirected,1
+Anna,Jens,Undirected,3
+Anna,Holger,Undirected,27
+Jens,Kudsk,Undirected,2
+Anna,Marie,Undirected,11
+Anna,Hansen,Undirected,3
+Hansen,Holger,Undirected,3
+Anna,Guds,Undirected,1
+Guds,Marie,Undirected,1
+Dahlberg,Provst Møller,Undirected,1
+Birthe,lille Jens,Undirected,1
+Birthe,Jens,Undirected,1
+Dahlberg,Marie,Undirected,2
+Anna,lian,Undirected,1
+Marie,Vedel,Undirected,46
+Holger,Vedel,Undirected,8
+Anna,Vedel,Undirected,5
+Ketty,Marie,Undirected,2
+Hansen,Hr. Petersen,Undirected,1
+Hr. Petersen,Provst Jørgensen,Undirected,1
+Holger,Provst Møller,Undirected,1
+Gud,Vedel,Undirected,12
+Pastor Nyrup,Vedel,Undirected,1
+Nyrup,Pastor Nyrup,Undirected,2
+Halte-Ki,Nyrup,Undirected,1
+Halte-Ki,Pastor Dahlberg,Undirected,1
+Sofie,lille Sofie,Undirected,1
+Ki’sten,Sofie,Undirected,1
+Dahlberg,Sofie,Undirected,1
+Madsen,Nyrup,Undirected,1
+Dahlberg,Goddav,Undirected,2
+Dåhlberg,Kyd,Undirected,1
+Gud,Madsen,Undirected,4
+Dåhlberg,Gud,Undirected,3
+Dåhlberg,harves,Undirected,1
+Dåhlberg,Madsen,Undirected,1
+Dahlberg,Madsen,Undirected,1
+Dahlberg,Rasmus,Undirected,1
+Josef,Rasmus,Undirected,1
+Gud,Josef,Undirected,1
+Dåhlberg,Maren Lisbeth,Undirected,3
+Maren Lisbeth,saaden,Undirected,1
+Halte-Ki,Madsen,Undirected,2
+Hansen,Rasmussen,Undirected,7
+Anna,Rasmussen,Undirected,1
+Hansen,Vedel,Undirected,3
+Gud,Holger,Undirected,4
+Halte-Ki,Maren Lisbeth,Undirected,3
+Jens,Maren Lisbeth,Undirected,1
+Gud,Jens,Undirected,4
+Maren Lisbeth,saad,Undirected,1
+Svend,saad,Undirected,1
+Svend,age,Undirected,1
+Jens,saad,Undirected,1
+Jens,Thorsen,Undirected,1
+Holger,Madam Rasmussen,Undirected,1
+Madam Rasmussen,Rasmussen,Undirected,5
+Rasmussen,lian liar,Undirected,1
+Gud,Rasmussen,Undirected,2
+Holger,Petersen,Undirected,2
+Holger,Thorsen,Undirected,1
+Petersen,foi-,Undirected,1
+Hansen,Petersen,Undirected,5
+Dahlberg,Nyrup,Undirected,1
+Rasmussen,Thorsen,Undirected,2
+Augustin,Hr. Thorsen,Undirected,1
+Grundtvig,Paulus,Undirected,1
+Augustin,Paulus,Undirected,1
+Gud,Hansen,Undirected,9
+Pastor Nyrup,Provst Møller,Undirected,1
+Gud,Ketty,Undirected,1
+Christian,Gud,Undirected,1
+Gud,Marie,Undirected,19
+Anna,Gud,Undirected,1
+Maria,Marie,Undirected,1
+Ingeborg,Marie,Undirected,24
+Anna,Ingeborg,Undirected,3
+Ingeborg,Knud Larsen,Undirected,5
+Karl —,Knud Larsen,Undirected,1
+Ingeborg,Søgaarden,Undirected,1
+Hans Jensen,Søgaarden,Undirected,1
+Hans Jensen,Ingeborg,Undirected,7
+Gud,Hans Jensen,Undirected,4
+Gud,Ingeborg,Undirected,9
+Ingeborg,Kornerup,Undirected,1
+Hans Jensen,Kornerup,Undirected,1
+Petersen,rask,Undirected,1
+Proprietær Smith,rask,Undirected,1
+Hr. Smith,Proprietær Smith,Undirected,1
+Marie,Petersen,Undirected,3
+Rasmus Andersen,Vedel,Undirected,1
+Gud,Rasmus Andersen,Undirected,1
+Hans Jensen,Marie,Undirected,7
+Madsen,Maren Lisbeth,Undirected,4
+Madsen,sgo,Undirected,1
+Dahlberg,sgo,Undirected,1
+HalteKi,Madsen,Undirected,1
+Gud,Skrædder Madsen,Undirected,2
+Skrædder Madsen,kvor,Undirected,1
+Halte,Madsen,Undirected,1
+Hans Jensen,Jakob Pedersen,Undirected,2
+Hans Jensen,Madsen,Undirected,1
+Hans Jensen,Maren Lisbeth,Undirected,1
+Hans Jensen,Knud Larsen,Undirected,1
+Hr. Petersen,Petersen,Undirected,1
+Hr. Petersen,Jakob Pedersen,Undirected,1
+Jakob Pedersen,Maren Lisbeth,Undirected,1
+Jakob Pedersen,Jeremias,Undirected,2
+Jeremias,Johannes,Undirected,1
+Johannes,Petersen,Undirected,1
+Jakob Pedersen,Petersen,Undirected,1
+Ingeborg,Jakob Pedersen,Undirected,1
+Gud,Jakob Pedersen,Undirected,2
+Hans Jensen,Ki,Undirected,1
+Jakob Pedersen,Ki,Undirected,1
+Ingeborg,Knud,Undirected,3
+Petersen,Vedel,Undirected,1
+Gud,Jesus Kristus,Undirected,1
+Jesus Kristus,Paulus,Undirected,1
+Arnljot Gelline,Bjørnson,Undirected,1
+Madam Rasmussen,liam,Undirected,1
+Gud,lille Rasmussen,Undirected,1
+Hans Jensen,Peter Sørensen,Undirected,2
+Peter Sørensen,Rasmussen,Undirected,5
+Dahlberg,Rasmussen,Undirected,2
+Pilatus,Rasmussen,Undirected,1
+Jakob,Rasmussen,Undirected,2
+Jakob,Pilatus,Undirected,1
+Jesus,Pilatus,Undirected,1
+Karen,Rasmussen,Undirected,1
+Rasmussen,Sidses,Undirected,1
+Peter,Rasmussen,Undirected,3
+Hans,Peter,Undirected,3
+Hans,Rasmussen,Undirected,2
+Peter,taug,Undirected,1
+Gud,Peter,Undirected,1
+Hans,Sidse,Undirected,1
+Hans Jensen,Rasmussen,Undirected,2
+Gud,Peter Sørensen,Undirected,2
+Hans Jensen,Madam Rasmussen,Undirected,1
+Hans Jensen,Madam,Undirected,1
+Gud,véd,Undirected,1
+Madam,Peter Sørensen,Undirected,1
+Madam Rasmussen,Paulus,Undirected,1
+Madam Rasmussen,stig,Undirected,1
+Madam Rasmussen,Peter Sørensen,Undirected,1
+Gud,lille Mor,Undirected,1
+Clausen,Poulsen,Undirected,1
+Gud,Pastor Dahlberg,Undirected,1
+Gud,Mohr,Undirected,5
+Gud,Luthers,Undirected,1
+Mohr,Poulsen,Undirected,1
+Johnsen,Poulsen,Undirected,1
+Gud,Jakob,Undirected,1
+Gud,Satan,Undirected,2
+Gud,Pastor Hansens,Undirected,2
+Gud,Jesus,Undirected,1
+Hansen,Poulsen,Undirected,1
+Hansen,Pastor Hansens,Undirected,1
+Gud,Poulsen,Undirected,1
+Gud,Pastor Hansen,Undirected,1
+Dahlberg,Gud,Undirected,5
+Gud,Johnsen,Undirected,2
+Dahlberg,Poulsen,Undirected,2
+Dahlberg,Rørholm,Undirected,1
+Hans Jensen,Vedel,Undirected,4
+Gud,Paulus,Undirected,1
+Gud,drr,Undirected,1
+Ingeborg,Vedel,Undirected,2
+Hans Jensen,eining,Undirected,1
+Marie,eining,Undirected,1
+Hans Jensen,Karen,Undirected,6
+Karen,Marie,Undirected,1
+Gud,Knud,Undirected,3
+Knud,Marie,Undirected,2
+Knud,Vedel,Undirected,1
+Jesus,Knud,Undirected,1
+Knud Larsen,Marie,Undirected,1
+Gud,Knud Larsen,Undirected,1
+Hr. Vedel,Præstens,Undirected,1
+Gud,Præstens,Undirected,1
+Gud,Hr. Vedel,Undirected,1
+Dahlberg,Vedel,Undirected,2
+Jesu,Vedel,Undirected,3
+Krebses,Slagter Krebs,Undirected,1
+Gud,Kydet,Undirected,1
+Hans Jensen,Hr. Krebs,Undirected,1
+Peter Sørensen,Vedel,Undirected,1
+Krebs,Peter Sørensen,Undirected,2
+Hr. Vedel,Krebs,Undirected,1
+Hr. Vedel,Peter Sørensen,Undirected,1
+Magdalene,Peter Sørensen,Undirected,1
+Claus,Gud,Undirected,1
+Seir,Vedel,Undirected,1
+Krebs,Vedel,Undirected,1
+Jesu,Pilatus,Undirected,1
+Frits Dahlberg,Jesu,Undirected,1
+Gud,Rebekka,Undirected,1
+Isaks,Rebekka,Undirected,1
+Isaks,Marie,Undirected,1
+Gud,lian,Undirected,1
+Gud,Jesu,Undirected,9
+Pastor Dahlberg,Vedel,Undirected,3
+Frøken Hansen,Hr. Vedel,Undirected,1
+Fruen,Rasmussen,Undirected,1
+Fruen,Marie,Undirected,1
+Ingeborg,Rasmussen,Undirected,2
+Ingeborg,Pru Hansen,Undirected,1
+Gud,Pru Hansen,Undirected,1
+Ingeborg,Karen,Undirected,1
+Herrens,Ingeborg,Undirected,1
+Hans Jensen,Herrens,Undirected,1
+Holger,Ingeborg,Undirected,1
+Pastor Hansen,Rasmussen,Undirected,1
+Holger,Rasmussen,Undirected,1
+Anna,Grand,Undirected,1
+Grand,Hansen,Undirected,1
+Anna,Ingemanns,Undirected,1
+Pastor Hansen,naal,Undirected,1
+Gud,Pastor Nyrup,Undirected,1
+Baals,Hr. Andersen,Undirected,1
+Baals,Hansen,Undirected,1
+Hansen,Hr. Andersen,Undirected,1
+Andersen,Krebs,Undirected,2
+Andersen,Skrædder Madsen,Undirected,1
+Hansen,Skrædder Madsen,Undirected,1
+Hansen,hvilkehan,Undirected,1
+Gud,hvilkehan,Undirected,1
+Andersen,Gud,Undirected,2
+Hansen,Jesu,Undirected,1
+Madsen,Skrædder Madsen,Undirected,1
+lian,lien,Undirected,1
+Marie,lien,Undirected,1
+Holger,liam,Undirected,1
+Pastor Hansen,Vedel,Undirected,1

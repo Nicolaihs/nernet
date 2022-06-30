@@ -1,0 +1,616 @@
+source,target,timestamp
+Henri IV,sorn,1
+Mathias Ulriksen,Mutter,14
+Gad,Kusk,16
+Casper Vognmand,Kusk,16
+Casper,Caspers,24
+Casper,Kresten Skrædder,26
+Gad,Kresten Skrædder,27
+Kresten Skrædder,Svend,27
+Casper Vognmand,Svend,27
+Casper,Gad,29
+Gad,Julius Kjeldsen,35
+Gad,Julius Kjeldsen,35
+Gad,Kjeldsen,42
+Kjeldsen,Ludvig XVI,42
+Kjeldsen,Ludvig XVI,42
+Casper Vognmand,liam,44
+Casper Vognmand,Mathias Ulriksen,44
+Kresten Skrædder,Mathias Ulriksen,44
+Julius Kjeldsen,Kresten Skrædder,44
+Gad,ban,46
+A,Mo,49
+Mo,erlillen,49
+Maren Bødkers,a,51
+Maren Bødkers,a,51
+A,a,52
+Gad,Maren Christophersen,54
+Maren Christophersen,Reinhold,54
+Gad,Julius Kjeldsen,56
+Detle,Kjeldsen,57
+Detle,Kjeldsen,57
+Gad,Krygers,58
+Betzy,Krygers,58
+Betzy,Svejstrup,58
+Krygers,Svejstrup,58
+Børge Svejstrups,Krygers,58
+Gad,Kjeldsen,63
+Gad,Kjeldsen,63
+Christian Rouhmd,Kjeldsen,65
+Gad,Kjeldsen,65
+Gad,Roulund,68
+Kjeldsen,Roulund,68
+Kjeldsen,ermin,70
+Gad,Rou-lunds,72
+Hylke-dams,Rou-lunds,72
+Guds,Roulund,73
+Gad,Roulund,74
+Frøken Roulund,Reinhold Gad,78
+Ebba,Gud,86
+Kong Roulund,Roulund,89
+Bøttger,Riegel,91
+Ebba,Riegel,91
+Hauberg,Preisler,94
+Hylkedams,Roulund,96
+Marie,Roulund,99
+Gad,Rou-lunds,100
+Gad,Roulund,101
+Ebba —,ban,102
+Ebba,ban,102
+Ebba,Riegel,102
+Riegel,Roulund,102
+Bøtt-ger,Roulund,107
+Bøtt-ger,Riegel,107
+Riegel,allenfals,109
+Ebba,allenfals,109
+Gad,Roulund,115
+Arthur Riegel,Sofus Bøtt-ger,118
+Ebba,Sofus Bøtt-ger,118
+Ebba,Jenny,118
+Hertha,Jenny,118
+Anna Hauberg,Hertha,118
+Anna Hauberg,Ebba,118
+Ebba,Hertha Hauberg,118
+Gad,Hertha Hauberg,118
+Gad,Peter Roulund,118
+Ebba,Peter Roulund,118
+Ebba,Riegel,118
+Hertha,hare,121
+Ebba,Peter,122
+Hertha,Riegel,129
+Hertha,Sofus Bøttger,129
+Bøttger,Roulund,131
+Gad,Sofus,133
+Anna Hauberg,LIvad,134
+Anna Hauberg,Ebba,134
+Frøken Hauberg,Sofus,136
+Bøttger,Riegel,137
+Bøttger,Sofus,137
+Ebba,Sofus,137
+Ebba,Gud,138
+Ebba,Mazeppa,138
+Gad,Hertha,139
+Anna Hauberg,Jenny Roulund,140
+Anna Hauberg,Hertha,140
+Gad,Hertha,141
+Ebba,Hertha,141
+Ebba,Sofus,141
+Augustinus,Riegel,142
+Ebba,Riegel,142
+Ebba,Sofus,142
+Riegel,Sofus,146
+Hertha,Riegel,146
+Hertha,Sofus,150
+Ebba,Riegel,153
+Hertha,Riegel,153
+Arthur Riegel,Ebba,155
+Arthurs,Ebba,156
+Ebba,Larsen,160
+Arthur,Ebba,162
+Ebba,Taa,162
+Sofus,Taa,162
+Ebba,Riegel,169
+Arthur,Ebba,170
+Anna Hauberg,Jenny,179
+Hertha,Jenny,179
+Gad,Roulund,180
+Gad,Patron,180
+Arthur,Sofus,184
+Arthur,Reinhold,184
+Hertha,Reinhold,184
+Hertha,Pluralis,187
+Gad,Hertha,188
+Karen,Maren,190
+Maren,Mette,190
+Mette,Rosalinde,190
+Arthur,Hertha,192
+Arthur,Ebba,192
+Ebba,Sofus,193
+Anna,Hertha,194
+Ebba,Riegel,198
+Hertha,Riegel,199
+Bøttger,Riegel,199
+Bøttger,Kirsten Giftekniv,199
+Hertha,Reinhold,200
+Anna,Reinhold,200
+Anna,Hertha,201
+Hertha,Riegel,204
+Kryger,Roulund,207
+Betzy,Kryger,207
+Betzy,Ebba Roulund,207
+Betzy,Ebba Roulund,207
+Kryger,Roulund,209
+Kryger,Riegel,209
+Betzy,Riegel,209
+Betzy,Svejstrup,209
+Roulund,Villie,210
+Ebba,Villie,210
+Ebba,Riegel,210
+Betzy,Riegel,210
+Betzy,Svejstrup,210
+Betzy,Svejstrup,210
+Betzy,Svejstrup,210
+Julius Kjeldsen,Reinhold Gad,211
+Kjeldsen,hartad kammerjunkerlig Reverens,212
+Bøttger,Kjeldsen,212
+Preisler,Roulund,214
+Bøttger,Sofus Bøttger,219
+allenfals,rabundus rejectus,220
+Bøttger,Hr. Riegel,222
+Arthur Riegel,Gad,224
+Arthur Riegel,Kjeldsen,224
+Kjeldsen,Preisler,224
+Gad,Sofus Bøttger,225
+Peter,Rou-lunds,238
+Gad,kjære Riegel,239
+Roulund,kjære Riegel,239
+Arthur,Reinhold,240
+Arthur,Roulund,247
+Rasmus,Reinhold,249
+Arthur,Reinhold,249
+Rasmus,Reinhold,250
+Peter,Sofus,251
+Peter,Rasmus,251
+Balleberg,Rasmus,252
+Gad,Rasmus,252
+Peter,Sofus,253
+Gad,Sofus,258
+Peter,Sofus,261
+Sofus,ban,262
+Peter,Rasmus,264
+Sofus,bøst,265
+Arthur,Gad,266
+Arthur,Gad,271
+Peter,Riegel,272
+Arthur,Peter,272
+Arthur,Gad,273
+Peter,Preisler,274
+Ebba,Sofus,276
+Hr. Gad,Peter,279
+Hr. Gad,Sofus,279
+Ebba,Sofus,279
+Gad,Peter,280
+Autor,Peter,280
+Riegel,Sofus,281
+Frøken Ehba,Riegel,281
+Gad,Sofus,283
+Gad,Riegel,283
+Arthur,Reinhold,284
+Gad,Peter,285
+Arthur,Kjeldsen,286
+Gad,Peter,287
+Gad,Sofus,287
+Peter,Sofus,288
+Peter,Riegel,288
+Betzy Kryger,Børge Svejstrup,291
+Børge Svejstrup,Preisler,291
+Gad,Peter,293
+Peter,Riegel,293
+Bøttger,Sofus,294
+Bøttger,Preisler,294
+Peter,Sofus,296
+Gad,Peter,300
+Peter,Preisler,301
+Gertrude,Peter,302
+Gertrude,Riegel,302
+Gad,Peter,303
+Ebba,t Peter,304
+Ebba,Riegel,304
+Frøken Roulund,Gad,310
+Ebba,Riegel,311
+Peter,Riegel,311
+Peter,Riegel,313
+Peter Roulund,Riegel,314
+Peter Roulund,Riegel,314
+Frøken Roulund,Riegel,314
+Riegel,Sofus Bøttger,317
+Riegel,Sofus Bøttger,317
+Frøken Roulund,Riegel,318
+Peter,Riegel,318
+Hylkedams,Peter,320
+Gad,Peter,320
+Gad,Preisler,320
+Gad,Preisler,321
+Ebba,Peter,322
+Ebba,Riegel,326
+Arthur,Peter,327
+Arthur,Ebba,327
+Ebba,Gad,327
+Gad,Peter,327
+Peter,Riegel,327
+Gad,Nik,329
+Herman,Nik,329
+Herman,Peter,329
+Arthur,Ebba,333
+Arthur,Ebba,333
+Hr. Gad,Peter,334
+Frøken Roulund,Riegel,338
+Ann,Frøken Roulund,338
+Arthur,Ebba,339
+Ebba,Sofus,339
+Riegel,Sofus,340
+Ebba,Riegel,340
+Ebba,Sofus Bøttger,341
+Ebba,Riegel,341
+Ebba,Riegel,341
+Arthur,Peter,343
+Arthur,Ebba,343
+Gad,Peter,344
+Peter,Riegel,344
+Betzy Kryger,Peter —,345
+Betzy Kryger,Børge Svejstrup,345
+Arthur,Børge Svejstrup,345
+Betzy Kryger,Børge Svejstrup,346
+Børge Svejstrup,Kryger,346
+Hylke-dam,Kryger,346
+Hylke-dam,Preisler,346
+Gad,Holsts,347
+Bøttger,Roulund,348
+Bøttger,Roulund,348
+Kryger,Roulund,348
+Kryger,Selmer,348
+Martin,Selmer,348
+Martin,Sofus,348
+Betzy,Sofus,348
+Betzy,Kryger,348
+Kryger,Selmer,348
+Gad,Hertha,349
+Frøken Hauberg,Gad,350
+Gad,Hertha,352
+Gad,flicka,356
+Anna,Hertha,360
+Gud,Hertha,361
+Gad,Hertha,366
+Anna,Hertha,366
+Anna,Hertha,366
+Anna,Hertha,366
+Anna,Hertha,366
+Bøttger,Hertha,368
+Betzy,Frøken Roulund,370
+Frøken Roulund,Riegel,370
+Bøttger,hare,375
+Gad,sorn,378
+Hertha,sorn,378
+Gad,Hertha,378
+Hertha,Kjeldsen,379
+Roulund,sorn,381
+Juliane —,sorn,381
+Ane —,Juliane —,381
+Ane —,Sands,381
+Bøttger,Gad,382
+Gad,Hertha,382
+Hertha,Riegel,384
+Arthur,Frøken Roulund,385
+Ebba,Frøken Hertha,390
+Ebba,Frøken Hertha,390
+Gad,Sofus Bøttger,393
+Ginderup,Roulund,395
+Ginderup,Soyer,395
+Ane,Soyer,395
+Ane,Madam Mangor,395
+Ane,Roulund,397
+Ane,Roulund,397
+Ane,Mette,400
+Christian,Hertha,402
+Christian,Hertha,403
+Frøken Ebba,Sofus,408
+Ebba,Sofus,410
+Arthur,Ebba,410
+Arthur,Frøken Ebba,410
+Ebba,Sofus,411
+Arthur,Sofus,411
+Arthur Riegel,Roulund,415
+Riegel,Roulund,415
+Riegel,hans Ebba,415
+Sofus,hans Ebba,415
+Riegel,Sofus,415
+Gad,Riegel,415
+Ebba,Roselille,416
+Ebba,Jenny,419
+Arthur,Jenny,419
+Arthur,Sofus,419
+Jenny,Sofus,419
+Arthur,Sofus,420
+Ebba,Reinhold,422
+Frøken Roulund,Riegel,424
+Riegel,Sofus Bøttger,425
+Gud,Hertha,432
+Gad,Hertha,432
+Gad,Gud,433
+Arthur,Hertha,435
+Arthur,Ebba,435
+Ebba,Sofus,435
+Arthur Riegel,Roulund,436
+Riegel,Roulund,436
+Riegel,Roulund,436
+Riegel,Roulund,436
+Ebba,Riegel,436
+Ebba,Riegel,436
+Hertha,Riegel,436
+Ane,Roulund,437
+Riegel,Roulund,443
+Riegel,Sofus,443
+Mutter,Sofus,443
+Mutter,Sofus,443
+Ebba,Sofus,447
+Gad,Hertha,448
+Hertha,Livor,449
+Riegel,livor Bøttgers,450
+Ebba,Riegel,453
+Frøken Roulund,Riegel,454
+Betzy,Riegel,454
+Betzy,Poul,454
+Hr. Bøttger,Poul,454
+Christian,Hertha,460
+Mutter,Roulund,461
+Riegel,Sofus,466
+Arthur,Roulund,467
+Riegel,Roulund,467
+Kodille,Riegel,467
+Hertha,Riegel,468
+Gad,Hertha,468
+Gad,Selmer,470
+Riegel,Selmer,470
+Riegel,Svejstrup,470
+Bøttger,Svejstrup,470
+Bøttger,Riegel,470
+Riegel,Roulund,470
+Riegel,Roulund,470
+Arthur Riegel,Hylkedams,471
+Hr. Kjeldsen,Riegel,472
+Gertrude,Herman,487
+Gertrude,Herman,487
+Gertrude,Sofus Bøttger,487
+Gertrude,Sofus Bøttger,487
+Gertrude,Sørensen,487
+Herman,Sørensen,487
+Gud,Herman,487
+Gertrude,Gud,487
+Ebba,Gertrude,487
+Ebba,Gertrude,487
+Gertrude,Sofus,487
+Riegel,Roulund,489
+Gad,Riegel,493
+Gad,Riegel,494
+Gad,Riegel,494
+Gad,Riegel,494
+Ebba Roulund,Riegel,494
+Ebba Roulund,Roulund,494
+Riegel,Roulund,494
+Gad,Kjeldsen,496
+Hr. Gad,Kjeldsen,498
+Gad,allenfals,500
+Gad,Kjeldsen,503
+Gad,Gud,504
+Riegel,Roulund,510
+Kjeldsen,Roulund,515
+Arthur Riegel,Gad,516
+Arthur,Gad,517
+Arthur,Roulund,517
+Peter Roulund,Søren Bøttger,524
+Kjeldsen,Peter Roulund,524
+Kjeldsen,Sofus Bøttger,524
+Bøttger,Sofus Bøttger,524
+Gad,Peter,525
+Gad,Hr. Gad,525
+Hr. Gad,daisy beil,525
+Sofus,daisy beil,525
+Sofus,a. b. c.,526
+Peter,Sofus,528
+Barclay Perkins & Co,Kjeldsen,529
+Barclay Perkins & Co,Sofus,529
+Kjeldsen,Peter Roulund,532
+Kjeldsen,Peter Roulund,532
+Kjeldsen,Peter,532
+Kjeldsen,Peter,532
+Kjeldsen,Peter,532
+Kjeldsen,Peter,532
+Gad,Peter Roulund,536
+Peter,Sofus,546
+Hr. Gad,Peter,550
+Gad,Sofus,552
+Kjeldsen,Peter,557
+Hr.,Peter,565
+Peter,niente,567
+Kjeldsen,Peter,570
+Sofus,ban,571
+ban,purr,571
+gade,purr,571
+Gad,Sofus,574
+Arthur,Sofus,575
+Arthur,Sofus,575
+Peter,Sofus,575
+Gad,Sofus,576
+Peter,Sofus,576
+Peter,Sofus,577
+Ebba,Riegel,580
+Arthur,Riegel,580
+Arthur,Ebba,580
+Arthur,Gad,583
+Arthur,Ebba,585
+Arthur,Ebba,587
+Roulund,lier,589
+Ebba,Riegel,591
+Arthur,Ebba,592
+Ebba,Roulund,592
+Riegel,Roulund,592
+Arthur,Roulund,594
+Arthur,Ebba,597
+Anna,Hertha,599
+Ebba,Elar,600
+Preisler,Roulund,605
+Gertrude,Roulund,605
+Ebba,Gertrude,606
+Jenny,Roulund,607
+Kjeldsen,Sofus,609
+Arthur,Gad,611
+Arthur,Sofus Bøttger,612
+Arthur,Gad,618
+Arthur,Gad,618
+Arthur,Frøken Ebba,619
+Arthur,Gud,622
+Gad,Preisler,627
+Gad,Riegel,627
+Riegel,Sofus,627
+Arthur,Gad,639
+Gad,Hr. Riegel,641
+Ebba,Sofus,642
+Roulund,Sofus,643
+Gad,Sofus,645
+Arthur,Roulund,648
+Arthur,Riegel,648
+Arthur,Ebba,649
+Ebba,Sofus,649
+Mæcenas,Sofus Jenny,651
+Arthur,Roulund,654
+Roulund Arthur,Sofus,655
+Ebba,Roulund Arthur,655
+Ebba,Gud,655
+Jenny,Roulund,657
+Gad,Hauberg,658
+Hauberg,Hertha,658
+Hertha,Riegel,661
+Gad,Hr. Roulund,662
+Arthur,Hr. Roulund,662
+Gad,Hertha,663
+Gad,Roulund,663
+Riegel,Roulund,663
+Gad,Roulund,664
+Gad,Hertha,667
+Flan,Gad,672
+Gad,Hertha,677
+Hertha,Sofus,677
+Gad,Sofus,679
+Gad,Sofus,681
+Gad,Hertha,681
+Gad,Sofus,683
+Hertha,Sofus,684
+Gad,Hertha,685
+Gad,Sofus,686
+Hertha,Sofus,686
+Gad,Hertha,686
+Gad,Sofus,686
+Hertha,Sofus,686
+Gad,Sofus,687
+Hertha,Sofus,689
+Gad,Sofus,690
+Gad,Nemesis,690
+Hertha,Sofus,693
+Ebba,Gad,694
+Ebba,Hertha,694
+Arthur,Hertha,694
+Gud,liar,695
+Gud,Kryger,695
+Betzy Kryger,Kryger,695
+Betzy Kryger,Livor,695
+Livor,Martin Selmer,695
+Betzy,Martin Selmer,695
+Betzy,Poul Svejstrup,695
+Kjeldsen,Reinhold,696
+Arthur,Kjeldsen,696
+Arthur,Roulund,696
+Gad,Kryger,702
+Kryger,Poul Svejstrup,702
+Poul Svejstrup,Rou-lunds,702
+Hauberg,Rou-lunds,702
+Hauberg,Roulund,702
+Arthur Riegel,Roulund,709
+Gad,Roulund,710
+Hylkedam“,Roulund,710
+Busch,Roulund,711
+Busch,Riegel,711
+Riegel,Roulund,712
+Ebba,Riegel,713
+Gad,Roulund,714
+Gad,Hertha,714
+Pirs,Roulund,717
+Gad,Riegel,719
+Preisler,Riegel,720
+Gad,Riegel,722
+Gad,Roulund,724
+Arthur,Ebba,725
+Ebba,Sofus,726
+Ebba,Gad,726
+Gad,Hertha,726
+Gad,Hertha,727
+Hertha,Riegel,727
+Ebba,Riegel,729
+Ebba,Sofus,729
+Arthur,Sofus,729
+Frøken Hauberg,Gad,730
+Gad,Hertha,730
+Kneipp,ban,733
+Ebba,Sofus Bøttger,738
+Gad,Hertha,741
+Bøttger,Hertha,741
+Bøttger,Hertha,741
+Arthur,Roulund,742
+Gad,Riegel,748
+Preisler,Roulund,750
+Gad,Roulund,750
+Gad,Riegel,750
+Roulund,lien-tydede,751
+Herman,Roulund,759
+Jenny,Piet,762
+Gad,Hertha,763
+Hertha,bun,764
+Kryger,Roulund,768
+Arthur Riegel,Roulund,768
+Arthur Riegel,Poul Svejstrup,768
+Hennings,Poul Svejstrup,768
+Hennings,Zangenberg,768
+Etatsraad Olaf,Zangenberg,768
+Flun,Hertha,772
+Riegel,Roulund,780
+Riegel,Roulund,780
+Riegel,Roulund,780
+Riegel,Roulund,782
+Arthur,Gad,785
+Arthur,Gad,786
+Frøken Hertha,Gad,786
+Hertha,kjære Riegel,787
+Gad,Hertha,790
+Arthur,Ebba,791
+Kjeldsen,Roulund,799
+Bøttger,Kjeldsen,799
+Bøttger,Roulund,805
+Bøttger,Roulund,805
+Bøttger,Roulund,805
+Bøttger,Jakel,805
+Gud,Roulund,806
+Bøttger,Roulund,807
+Riegel,Rou-lund,808
+Bøttger,Riegel,809
+Hertha,Riegel,813
+Arthur,kjære,814
+kjære,kjære Gad,814
+Arthur,kjære Gad,814
+Arthur,Gad,814
+Bøttger,Sofus,815
+Riegel,Sofus,815
+Ebba,Riegel,815
+Ebba,Mazeppa,815
+Arthur,Gad,818
+Arthur,Gad,818
+Gad,Jenny,818
+Gad,Hertha,820

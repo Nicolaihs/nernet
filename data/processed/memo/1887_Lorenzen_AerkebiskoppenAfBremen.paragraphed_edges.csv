@@ -1,0 +1,518 @@
+source,target,type,weight
+Erik,Ulrich Petersen,Undirected,1
+Christian den,DeDen,Undirected,1
+Christian den,Gert Rantzau,Undirected,1
+Casper Hinkze,Gert Rantzau,Undirected,1
+Casper Hinkze,Slien,Undirected,1
+Feltmarskalk,Schack,Undirected,2
+Augusta,Christoph Schack,Undirected,2
+Adolph,Ahlefeldt,Undirected,1
+Ahlefeldt,Johan Adolph,Undirected,1
+Adolph fom Kurer,Behrend Soltov,Undirected,1
+Adolph fom Kurer,Behrend,Undirected,1
+Christoph Schack,Gert Rankzau,Undirected,1
+Claus v. Thienen,Gert Rankzau,Undirected,1
+Claus v. Thienen,Grønholdt,Undirected,1
+Grønholdt,Hennicke v. Rumohr,Undirected,1
+Hennicke v. Rumohr,Joackim v.,Undirected,1
+Bertram v. Ratlau,Joackim v.,Undirected,1
+Bertram v. Ratlau,Lindaa,Undirected,1
+Hans v. Blome,Lindaa,Undirected,1
+Hans v. Blome,Johan v. d. Wisch,Undirected,1
+Johan v. d. Wisch,Wulfs v. Ahlefeldt,Undirected,1
+Brockdorff,Wulfs v. Ahlefeldt,Undirected,1
+Brockdorff,Erik Krummedige,Undirected,1
+Christoph Schack,Erik Krummedige,Undirected,1
+,Augusta,Undirected,1
+,Johan Adolph,Undirected,1
+Bertram Ratlau,Morits Ratlau,Undirected,1
+Bertram Ratlau,Johan v. Ahlefeldl,Undirected,1
+Christne,Diderik,Undirected,1
+Diderik,Margrethe,Undirected,3
+Margrethe,dein,Undirected,1
+Diderik,dein,Undirected,1
+Elsbeth,Margrethe,Undirected,1
+Bertram Ratlau,Lindaa,Undirected,1
+Johan v. Ahlefeldt,Morits,Undirected,1
+Guds,Johan v. Ahlefeldt,Undirected,1
+Diderik,Guds,Undirected,1
+Guds,Morits,Undirected,1
+Hr. Bertrauls,Morits,Undirected,1
+Johan Adolph,Johan Frederik,Undirected,3
+Adolph,Vilhelm,Undirected,1
+Ulrich Zwinglis,Vilhelm,Undirected,1
+Calvins,Ulrich Zwinglis,Undirected,1
+Calvins,Philips,Undirected,1
+Philips,Poul v. Eittzen,Undirected,1
+Johan v. Wowern,Poul v. Eittzen,Undirected,1
+Johan v. Wowern,Philip Cæsar,Undirected,1
+Luthers,ester,Undirected,1
+dein,eil,Undirected,1
+Gert Rantzau,eil,Undirected,1
+Gert Rantzau,dein,Undirected,1
+Frederik den,lideli,Undirected,1
+lideli,melier,Undirected,1
+Gud,Hr. Gert,Undirected,1
+Christoph Schack,Claus Ahlefetdt,Undirected,1
+Claus Ahlefetdt,hall,Undirected,1
+Gert Rankzau,Niels Kaas,Undirected,1
+Gert Rankzau,Johan Adolph,Undirected,1
+Adolph,Johan Adolph,Undirected,1
+Gert Rantzau,Johan Frederik,Undirected,1
+Chrisfoph Schack,Gert Rantzau,Undirected,1
+Christian den,Christoph Schack,Undirected,1
+Christoph Schack,Wowern,Undirected,1
+Gehejmeraad v.,Wowern,Undirected,1
+Gehejmeraad v.,Munsfer-Meinhofel,Undirected,1
+Ahlefeldt,Johan Frederik,Undirected,1
+Dorothea,Johan,Undirected,4
+Johan,fille,Undirected,2
+Johan,son,Undirected,2
+Anna Sophie,Grevelis,Undirected,1
+Anna Sophie,kuli,Undirected,1
+Dorothea,Hirn,Undirected,1
+Anna Sophie,Magdalene,Undirected,3
+Anna Sophie,eil,Undirected,1
+Anna Sophie,son,Undirected,2
+Anna Sophie,Bertha v.,Undirected,1
+Bertha,Marie Elisabeth,Undirected,1
+Winterfeld,son,Undirected,1
+Frøken v. Winterfeld,Magdalene,Undirected,1
+Anna Sophie,Catharina,Undirected,1
+Diderik Otto Schultes,ban,Undirected,1
+Johan,Roes,Undirected,1
+Gottorp,Johan,Undirected,1
+Gud,Johan Frederik,Undirected,2
+ban,eil,Undirected,1
+Johan,Johan Frederik,Undirected,2
+Anton,Johan,Undirected,2
+Delmenhorst,Johan,Undirected,1
+Hertng Johan Adolph,Johan,Undirected,1
+Anton,Hertng Johan Adolph,Undirected,1
+Anton,felv,Undirected,1
+Naades,felv,Undirected,1
+Magdalene,Naades,Undirected,1
+Johan,Magdalene,Undirected,2
+Anna Sophie,stegen,Undirected,1
+Acen,Hansnat,Undirected,1
+Hansnat,hall,Undirected,1
+Berthold,fille,Undirected,1
+Anna Sophie,Anton Günthers,Undirected,1
+Anton Günthers,helides,Undirected,1
+Anna Sophie,Hain,Undirected,4
+Hain,hali,Undirected,1
+Anna Sophie,helides,Undirected,1
+Bertha v. Tchbnau,helides,Undirected,1
+Bertha v. Tchbnau,Johan Frederik,Undirected,1
+Anna Sophie,Harn,Undirected,1
+Anna Sophie,as Bertha v.,Undirected,1
+Anna Sophie,k,Undirected,1
+Anna Sophie,Gud,Undirected,4
+Anhalt-Zerbst,Magdalene,Undirected,1
+Anhalt-Zerbst,Rudolph,Undirected,1
+Rudolph,Winterfeld,Undirected,1
+Anna Sophie,Winterfeld,Undirected,1
+Anna Sophie,Dorothea,Undirected,6
+Anna Sophie,Støvfky,Undirected,1
+Støvfky,Taarnvægteræns,Undirected,1
+Anna Sophie,Taarnvægteræns,Undirected,1
+Christian,Johan,Undirected,2
+Alexander,Christian,Undirected,1
+Alexander,Hans,Undirected,1
+Hans,deur,Undirected,1
+Johan,deur,Undirected,1
+Anna Sophie,Marie Elisabeth,Undirected,1
+Anna Sophie,Johan Frederik,Undirected,10
+Christian,sorn,Undirected,2
+Alexander,Johan,Undirected,2
+Alexander,Anna Sophie,Undirected,5
+Anna Sophie,fnart,Undirected,1
+Alexander,Bertha v. Schonau,Undirected,1
+Bertha v. Schonau,son,Undirected,1
+Alexander,son,Undirected,1
+Alexander,Johan Frederik,Undirected,1
+Alexander,Greve,Undirected,1
+Alexander,Huri,Undirected,1
+Dorothea,Johan Frederik,Undirected,1
+Dorothea,Grevinde Magdalenes,Undirected,1
+Alexander,Dorothea,Undirected,11
+Catharina,Marie Elisabeth,Undirected,1
+Bertha v.,Catharina,Undirected,1
+Alexander,Bertha v.,Undirected,1
+Alexander,stig,Undirected,1
+Grevinde Doroheas,stig,Undirected,1
+,Hans,Undirected,2
+,Alexander,Undirected,1
+inger,sorn,Undirected,1
+Vinkelmann,inger,Undirected,1
+Vinkelmann,wohlgezierte Jungser,Undirected,1
+Johan,hans Exempel,Undirected,1
+Johan Frederik,hans Exempel,Undirected,1
+Johan Frederik,frein,Undirected,1
+Brødreneskilles,Johan Frederik,Undirected,2
+Grevens,Johan Frederik,Undirected,1
+Anna Sophie,Grevens,Undirected,1
+Anna Sophie,Graad,Undirected,1
+Graad,Johan Adolph,Undirected,1
+Johan Adolph,son,Undirected,1
+rnaatte,son,Undirected,1
+Johan Frederik,rnaatte,Undirected,1
+Gud,Johan,Undirected,1
+Schuttes,voxen,Undirected,1
+Johan Frederik,karl Ærkebiskop,Undirected,1
+Johan Frederik,Markgrev Joachim Frederik,Undirected,1
+Joachim Frederik,sorn Eders,Undirected,1
+ban,sorn Eders,Undirected,1
+Johan Frederik,ganfke,Undirected,1
+Catbarina,Marie Elisabeth,Undirected,1
+Catbarina,Dorothea,Undirected,1
+Alexander,Grevedatter,Undirected,1
+Anna Sophie,felv,Undirected,1
+Alexander,felv,Undirected,1
+Eil,Johan,Undirected,1
+Caspar,Johan,Undirected,1
+Alexander,Caspar,Undirected,1
+Herre Junker,djsfe,Undirected,1
+Hans,djsfe,Undirected,1
+,v. BreiUacken,Undirected,1
+Anna Sophie,Haabets,Undirected,1
+Alexander,Haabets,Undirected,1
+Breitlacken,Dorothea,Undirected,1
+Dorothea,Junker Alexander,Undirected,4
+Alexander,fasf,Undirected,1
+Hans,Johan,Undirected,1
+Hans,Junker Alexander,Undirected,1
+Christian den Fjerde,Johan,Undirected,1
+Johan,tte Bueanoi,Undirected,1
+Haschiconrt,Johan,Undirected,1
+Haschiconrt,Joban,Undirected,1
+Hamelmann,Joban,Undirected,1
+Joban,Semirami,Undirected,1
+,Semirami,Undirected,1
+,Johan,Undirected,1
+Johan,Junker Alexander,Undirected,1
+Anna Sophie,Junker Alexander,Undirected,1
+Dorothea,Grevedatter,Undirected,1
+Ahlefeld,Diderik,Undirected,1
+Anna Sophie,dans,Undirected,1
+Anna Sophie,dun,Undirected,1
+dans,dun,Undirected,1
+Adolp,dans,Undirected,1
+Adolp,Trusel,Undirected,1
+Trusel,dam,Undirected,1
+dam,hall,Undirected,1
+hall,onsfer,Undirected,1
+Diderik,Gud,Undirected,1
+Greven,Von,Undirected,1
+Greven,Gud,Undirected,1
+Hain,bjem,Undirected,1
+Dorothea,sine Døttre,Undirected,1
+Alexander,Gud,Undirected,1
+Anna Sophie,lydlosf,Undirected,1
+Grev Johans,Wandsbek,Undirected,1
+Neinbek,Wandsbek,Undirected,1
+Christian den Fjerde,Neinbek,Undirected,1
+Christian den Fjerde,Johan Adolph,Undirected,1
+Gert Rantzau,Johan Adolph,Undirected,1
+Benediet v.,Gert Rantzau,Undirected,1
+Ahlefeldt,Benediet v.,Undirected,1
+Ahlefeldt,Christoffer Fulteus,Undirected,1
+Diderik Blome,Nicolaus Junge,Undirected,1
+Augusta,Catharina,Undirected,1
+Augusta,Hedvig,Undirected,1
+Elisabeth,Hedvig,Undirected,1
+Elisabeth,Ernst,Undirected,1
+Ernst,Frederik Ulrich,Undirected,1
+Frederik Ulrich,Johan Frederik,Undirected,1
+Johan Frederik,Storsyrst Ivanowitz,Undirected,1
+Adolph Frederik,Storsyrst Ivanowitz,Undirected,1
+Adolph Frederik,Johan Albrecht,Undirected,1
+Alexander,Johan Albrecht,Undirected,1
+Alexander,Philip,Undirected,1
+Albrecht,Philip,Undirected,2
+Albrecht,Kuno,Undirected,1
+Anton Gynther,Kuno,Undirected,1
+Anton Gynther,fom,Undirected,1
+Dorothea,fom,Undirected,1
+Dorothea,Grev Gynther,Undirected,1
+Johan,sor,Undirected,1
+Halls,Johan,Undirected,1
+Johan Frederik,mille,Undirected,1
+Schuttes,nn,Undirected,1
+Anna Sophie,hall,Undirected,1
+Gud,hall,Undirected,1
+Johan,eil,Undirected,1
+Kong Christian,eile,Undirected,1
+Anna Sophie,Halls,Undirected,2
+Halls,hall,Undirected,2
+Brodereils,hall,Undirected,1
+Beileile,Brodereils,Undirected,1
+Johan Frederik,Ulrik,Undirected,1
+Johan Scbelhammer,boldt,Undirected,1
+Johan Adolph,Jokum Beckendorff,Undirected,1
+Arilds,Johan Adolph,Undirected,1
+Ingemanns Peil,Walter Scotts,Undirected,1
+Christian den,Ingemanns Peil,Undirected,1
+Christian den,Ernst,Undirected,1
+Ernst,ban,Undirected,1
+Christoph Schack,Hr. v. Ahlefeldt,Undirected,1
+Christoph Schack,Hilledød,Undirected,1
+Christoph Schack,Kunsfens,Undirected,1
+Kunsfens,Pralhans,Undirected,1
+Pralhans,harr,Undirected,1
+Thienerrs,harr,Undirected,1
+Behrend Soltov,Thienerrs,Undirected,1
+Johan,v. Ahlefeldts,Undirected,1
+Anton Gynther,Gert Rantzau,Undirected,1
+Gert Rantzau,Philip,Undirected,1
+Anton Gynther,Philip,Undirected,1
+Anna Sophie,Johan miskjendte,Undirected,2
+Anton Gynther,Christoph Schack,Undirected,1
+Christoph Schack,Claus v. Ahlefeldt,Undirected,1
+Greve,Karl,Undirected,1
+Gud,Philip,Undirected,1
+Anton Gynther,Gud,Undirected,2
+Anton Gynther,Gerhards,Undirected,1
+Gerhards,Kong Christiall den Fjerdes,Undirected,1
+Anna Sophie,Kong Christiall den Fjerdes,Undirected,1
+Anna Sophie,Anton Gynther,Undirected,3
+Albrecht,Alexander,Undirected,1
+Alexander,Beck,Undirected,1
+Anna Sophie,Dr. Stangen,Undirected,1
+Anton Gynther,Beck,Undirected,1
+Alexander,Anton Gynther,Undirected,1
+Alexander,Sophie Catharina,Undirected,1
+Anton Gynther,ban,Undirected,1
+Gert Rankzau,ban,Undirected,1
+Nicolaus Junge,v. Wowern,Undirected,1
+Nicolaus Junge,Philip Cæsar,Undirected,1
+Philip Cæsar,felv,Undirected,1
+Cæsars,felv,Undirected,1
+Calvin,Cæsars,Undirected,1
+Calvin,Dorthea,Undirected,1
+Dorthea,Gud,Undirected,1
+Behrend,son,Undirected,1
+Gert Rankzan,Hans,Undirected,1
+Johan Adolf,Johan Frederik,Undirected,1
+Anna Sophie,Kansler Schuttes,Undirected,1
+Anton Gynther,Magdalene,Undirected,1
+Johan Frederik,Kansler Protts,Undirected,1
+Anna Sophie,Schultes,Undirected,1
+TjAMstsL,mitz,Undirected,1
+TjAMstsL,veNAm,Undirected,1
+Kanslerew,veNAm,Undirected,1
+Mille,tauife,Undirected,1
+em,tauife,Undirected,1
+Anton,Gynther,Undirected,1
+Gynther,frw,Undirected,1
+Anna Sophie,MrKebiMpMm,Undirected,1
+MrKebiMpMm,hanso DugteM,Undirected,1
+MMbiMppem,hanso DugteM,Undirected,1
+Antonl GhnHem,hmidle,Undirected,1
+Aingpeb,Anton,Undirected,1
+Anton Gynther,Kong Christian den Fjerde,Undirected,1
+Kong Christian den Fjerde,lovelfe,Undirected,1
+lovelfe,Ærkebiskop „,Undirected,1
+clikkamuri,Ærkebiskop „,Undirected,1
+Annas,Broderes,Undirected,1
+Broderes,Roes,Undirected,1
+Anna Dobbel,Roes,Undirected,1
+Anna Dobbel,Johan Frederik,Undirected,1
+Johan Frederik,les Hayes,Undirected,1
+Anna Dobbel,v. Holsfein,Undirected,1
+Johan Frederik v. Holsfein,v. Holsfein,Undirected,2
+Augusta,Grev Penz,Undirected,1
+Augusta,Hedevig,Undirected,1
+Elisabeth,Hedevig,Undirected,1
+Elisabeth,Jørgen,Undirected,1
+Døttre,Penz,Undirected,1
+Adolph,Christian,Undirected,1
+Johan Frederik,Jørgen,Undirected,3
+Adolph,Johan Frederik,Undirected,1
+Johan Frederik,Villie,Undirected,1
+Augusta,Søsfrene,Undirected,1
+Jørgen,Søsfrene,Undirected,1
+Disfe,taufe,Undirected,1
+Harn,Kansler Schultes,Undirected,1
+Albert Skeel,Martin von der,Undirected,1
+Albert Skeel,Jacob Ulfelt,Undirected,1
+Jacob Ulfelt,von der,Undirected,1
+Christian den,Kong Jacob,Undirected,1
+Anna Sophie,Kong Jacob,Undirected,1
+Anna Sophie,Folianter,Undirected,1
+Folianter,October 1619,Undirected,1
+,Frederik,Undirected,1
+Frederik,Frederik den,Undirected,1
+Bremerførde,harr,Undirected,1
+Margot,dein,Undirected,1
+Anton Gynther,Kong Christian,Undirected,2
+Kains,Kong Christian,Undirected,1
+Tilly,Wollenstem,Undirected,1
+Christian den Fjerde,Gustav Adolph,Undirected,1
+Christian,Jørgen,Undirected,2
+Christian,Mansfelds,Undirected,1
+Gustav Adolph,Kong Christian,Undirected,2
+Schultes,son,Undirected,1
+Jørgen,son,Undirected,1
+Jørgen,Lynebvrgs,Undirected,1
+Christian f.,Markgrev Christian Vilhelm,Undirected,1
+Frederik,Markgrev Christian Vilhelm,Undirected,1
+Frants Carl,Frederik,Undirected,1
+Christian,Gustav Adolph,Undirected,1
+Gustav Adolph,Johan Frederik,Undirected,2
+Gustav Adolph,Jørgen,Undirected,1
+Kong Christian,Sejer,Undirected,1
+Christian,Hans Philip Fuchs,Undirected,1
+Hans Philip Fuchs,Johan Ernst,Undirected,1
+Bernhard,Johan Ernst,Undirected,1
+Bernhard,Markgrev Christian Bilhelm,Undirected,1
+Markgrev Christian Bilhelm,Obentraut,Undirected,1
+Ludvig Otto,Obentraut,Undirected,1
+Ludvig Otto,Sigvard Pagwisch,Undirected,1
+Markvard Penz,Sigvard Pagwisch,Undirected,1
+Markvard Penz,Mogens Kaas,Undirected,1
+Mogens Kaas,Wulf,Undirected,1
+Joachim Witzlaf,Wulf,Undirected,1
+Baltasar Schlammendorf,Joachim Witzlaf,Undirected,1
+Baltasar Schlammendorf,Gert Rantznu,Undirected,1
+Gert Rantznu,son,Undirected,1
+Otto Krag,son,Undirected,1
+Hans Schack,Otto Krag,Undirected,4
+Behrend Soltov,Hans Schack,Undirected,1
+Behrend Soltov,Christoph Schack,Undirected,1
+Christoph Schack,Tilly,Undirected,1
+,Tilly,Undirected,2
+,Wallensfeins,Undirected,1
+Frederik Ulrik,Halfen,Undirected,1
+Gud,Jørgen,Undirected,1
+Chrisfian,Gud,Undirected,1
+Simon,Simon Walter,Undirected,2
+son,sorn,Undirected,1
+Gud,Judas,Undirected,1
+Maria,Tilly,Undirected,1
+Fuchs,Vilhelm af Hessen,Undirected,1
+Malte Sehested,Vilhelm af Hessen,Undirected,1
+Malte Sehested,Sigward Pogwisch,Undirected,1
+Markvard Penz,Sigward Pogwisch,Undirected,1
+GflMAMldMm,VMM,Undirected,1
+Brandenbmg,VMM,Undirected,1
+Johan Frederik as Brennern,hall,Undirected,1
+hall,harr,Undirected,1
+as,harr,Undirected,1
+Frederik,Nordpraht,Undirected,2
+Frederik,sorn,Undirected,1
+Gud,sorn,Undirected,1
+Baudissin,Hr. Gert,Undirected,1
+Baudissin,Holk,Undirected,1
+Holk,Mitzlaf,Undirected,1
+Hans Majesfæt,Hans Schack,Undirected,1
+C. C Lorenzen Kjøbenhavn,Carl Gustav,Undirected,1
+Andr. Schous,C. C Lorenzen Kjøbenhavn,Undirected,1
+Gud,rasfe Hans Schack,Undirected,1
+Jørgen,Renegat,Undirected,1
+Ottø Krag,ester,Undirected,1
+Mnnk,ester,Undirected,1
+Mnnk,Ottø,Undirected,1
+Hans Schack,Ottø,Undirected,1
+Hans Schack,WeiMMte,Undirected,1
+H«,WeiMMte,Undirected,1
+Ludbrød,Ottø Krag,Undirected,1
+Ottø Krag,hoorfor,Undirected,1
+fe,hoorfor,Undirected,1
+Otto,Thomas Munzer,Undirected,1
+Johan von Lejden,Thomas Munzer,Undirected,1
+Mutter,Otto Krag,Undirected,1
+Krag,Schack,Undirected,1
+Junker,Schack,Undirected,1
+Junker,Otto,Undirected,2
+Otto,Seida,Undirected,1
+Jens,Seida,Undirected,1
+Monkør,Tyras,Undirected,1
+Hans Schack,Tyras,Undirected,1
+Hans Schack,Lars Jyde,Undirected,1
+Lars Jyde,Otto Krag,Undirected,1
+hall,sorn,Undirected,1
+Otto,hall,Undirected,1
+Otto er,son,Undirected,1
+Carl Morgan,hall,Undirected,1
+Carl Morgan,Montgomery,Undirected,1
+Henrik Mathias,Montgomery,Undirected,1
+Henrik Mathias,Markgrev Georg Frederik,Undirected,1
+Bernhard,Markgrev Georg Frederik,Undirected,1
+Bernhard,Tilly,Undirected,1
+Schlick,Tilly,Undirected,1
+Altringer,Schlick,Undirected,1
+Gert Rantzau,Johan Nantzaus,Undirected,1
+Gert Rantzau,Nantzau,Undirected,1
+Gert Rantzau,Henrik Rantzaus,Undirected,1
+Schlick,fe Wollenstem,Undirected,1
+Jørgen,Schlick,Undirected,1
+Chrisfian Friis,Ægidius v.,Undirected,1
+Anna Dobbel,Margot,Undirected,2
+Lazare,Margot,Undirected,1
+Anna Dobbel,Verde,Undirected,1
+Geheimeraad Neventlow,Leopold Wilhelm,Undirected,1
+Frederik,Leopold Wilhelm,Undirected,1
+Conrad v.,Hr. Gehejmeraad,Undirected,1
+Bugislavs,Tilly,Undirected,1
+Johan Frederik,Reventlow,Undirected,1
+Ferdinands,Johan Frederik,Undirected,1
+Johan Frederik,ban,Undirected,1
+Gud,Gustav Adolph,Undirected,1
+Gehejmeraad v.,Kansler Schultes,Undirected,2
+,Kansler Schultes,Undirected,2
+Gustav Adolph,Harn,Undirected,1
+Kaspar Wanzelin,tvi,Undirected,1
+Judas,Karle,Undirected,1
+Tasfen,v. d. Maase,Undirected,1
+Frank,harr,Undirected,1
+Gud,harr,Undirected,1
+Ester,Frank,Undirected,1
+Frank,hall,Undirected,1
+Kaspar,hall,Undirected,1
+bo,ru,Undirected,1
+bo,lille Else,Undirected,1
+Kaspar,harr,Undirected,1
+Else,harr,Undirected,1
+Kaspar,Konrad,Undirected,2
+Else,Kaspar,Undirected,1
+Else,kanskesens,Undirected,1
+Paul,Tilly,Undirected,1
+Tilly,fnart,Undirected,1
+Geheimeraad v.,Tilly,Undirected,1
+Geheimeraad v.,Hans v. Bulom,Undirected,1
+Kaspar Wanzelin,son,Undirected,1
+Kaspar,Rudolph,Undirected,1
+Else,Hai,Undirected,1
+Seehusen,Tilly,Undirected,1
+Noahs,Seehusen,Undirected,1
+Seehasen,v. d. Manse,Undirected,1
+Gustav Adolph,Jonsen,Undirected,1
+Gustav Adolph,Kast,Undirected,1
+Kast,Runer,Undirected,1
+Gustav Adolph,Tilly,Undirected,1
+Gustav Adolph,Leopold Wilhelm,Undirected,1
+Gehejmeraad v.,Neventlow,Undirected,1
+Hans v. Bulow,Neventlow,Undirected,1
+Gusfav Adolph,Tilly,Undirected,1
+Alexander Leslie,Johan Frederik,Undirected,1
+Alexander Leslie,Gustav Adolph,Undirected,1
+Braadden,Gustav Adolph,Undirected,1
+Adam,Sylid,Undirected,1
+Adam,Jomfru Maria,Undirected,1
+Gud,son,Undirected,1
+Andreas Ungnad,hall,Undirected,1
+Andreas Ungnad,Weissenfels,Undirected,1
+Sonneck,Weissenfels,Undirected,1
+Enno,Sonneck,Undirected,1
+"Elisabeth,",Enno,Undirected,1
+Alexander,fidsnok,Undirected,1
+Elisabeth v. Ungnad,ÆrkebiAnton Gynthers,Undirected,1
+Elisabeth v. Ungnad,v. Altenburg,Undirected,1
+Margot,fransfe,Undirected,1
+Anna Sophie,fransfe,Undirected,1
+Danle,Johan Frederik,Undirected,1
+Danle,fille,Undirected,1
+Hain,Halls,Undirected,1
+Johan Frederik,v. Leslie,Undirected,1
+Anton Gynther,Sophie Catharine,Undirected,1

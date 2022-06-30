@@ -1,0 +1,421 @@
+source,target,type,weight
+D,Frøken Hjelm,Undirected,1
+Frøken Hjelm,Martha,Undirected,9
+Mads,Marthe,Undirected,1
+Ane,Mads,Undirected,1
+Ane,Gud,Undirected,1
+Ane,Martha,Undirected,1
+Ella Hjelm,Mads,Undirected,1
+Ella,Frøken Hjelm,Undirected,9
+Ella,Martha,Undirected,35
+Martha,lille Ella,Undirected,1
+Martha,Procurator Kaufmann,Undirected,5
+Gud,Procurator Kaufmann,Undirected,2
+Gud,Martha,Undirected,2
+Kaufmann,Martha,Undirected,2
+Frøken Hjelm,Mads sfal,Undirected,1
+Kaufmann,Mads,Undirected,1
+Frøken Hjelm,Kaufmann,Undirected,1
+Ester Maallidet,Frøken Hjelm,Undirected,1
+Ester Maallidet,Martha,Undirected,1
+Ella,Hanne,Undirected,15
+Brunhilde,Hanne,Undirected,1
+Kaufmann,ester,Undirected,3
+Martha,ester,Undirected,2
+Mads,Martha,Undirected,1
+Kaufmann fil Thorshoi,Martha,Undirected,1
+HanneS,Moders,Undirected,1
+Ella,Kaufmann,Undirected,11
+Kaufmann,ilive,Undirected,1
+Hjelm,ilive,Undirected,1
+Hjelm,Procurator Kaufmann,Undirected,1
+Ella,MarthaS,Undirected,2
+Hanne,Procurator Kaufmann,Undirected,2
+Ella,Thorshøi,Undirected,7
+Ella,Procurator Kaufmann,Undirected,11
+Maren,Thorshøi,Undirected,1
+Maren,Mette,Undirected,1
+Mette,Trine,Undirected,1
+Frederik den Sjette,Wiedewelt,Undirected,1
+Kjære,Procurator Kaufmann,Undirected,1
+Frøken Hjelm,Stills,Undirected,1
+Ella,lille Ella,Undirected,2
+Martha,Thorshøi,Undirected,9
+Hanne,Martha,Undirected,5
+Ella,Lehmann,Undirected,31
+Hanne,Thorshøi,Undirected,6
+Ella,Olga,Undirected,99
+Frøken Grøn,Olgas Gouvernante,Undirected,1
+Frøken Grøn,Olga,Undirected,19
+Hansen,lee,Undirected,1
+Hansen,Olga,Undirected,2
+Ella,Gouvernantes,Undirected,1
+Frøken Grøn,Gouvernantes,Undirected,1
+Frøken Grøn,Thee,Undirected,1
+Hanne,Olga,Undirected,5
+Olga,Thorshøi,Undirected,7
+Graad,Olga,Undirected,1
+Frøken Grøn,Gud,Undirected,2
+Ella,Frøken Grøn,Undirected,28
+Frøken Grøn,ester,Undirected,3
+Olga,ester,Undirected,4
+Ella,kjære,Undirected,1
+Hanne,kjære,Undirected,1
+Chrisfen,Olga,Undirected,1
+Chrisfen,Hansen,Undirected,2
+Ella,Hansen,Undirected,6
+Lehmann,ilu,Undirected,1
+Lehmann,Olga,Undirected,17
+Christen,Frøken Grøn,Undirected,1
+Ella,Tantalus,Undirected,1
+Hanne,Thorshoi,Undirected,1
+Froken Grøn,Thorshoi,Undirected,1
+Froken Grøn,Olga,Undirected,3
+Christen nær,Hansen,Undirected,1
+Christen nær,Ella,Undirected,1
+Hansen,Lehmann,Undirected,3
+Olga,serer Lehmanns,Undirected,1
+Frøken Grøn,Saabyes,Undirected,1
+Lehmann,Saabyes,Undirected,1
+Ella,Spiis,Undirected,1
+Spiis,spiis,Undirected,1
+Ella,spiis,Undirected,1
+Frøken Bjerg,Olga,Undirected,2
+Ella,Tants,Undirected,1
+Hanne,Tants,Undirected,1
+Gud,Olga,Undirected,1
+Frøken Grøn,Frøken Kaalund,Undirected,1
+Capitain Oldenburg,Tanta,Undirected,1
+Saabyes,lus,Undirected,1
+Annette,Saabyes,Undirected,1
+Annette,Capitain Oldenburg,Undirected,1
+Capitain Oldenburg,Oberstens,Undirected,1
+Frøken Grøn,Oberstens,Undirected,1
+Frøken Grøn,as,Undirected,1
+Capitain Oldenburg,seil,Undirected,1
+Frøken Hildebrand,seil,Undirected,1
+Frøken Hellesen,Warnung,Undirected,1
+Saabyes,Warnung,Undirected,1
+Capitain Winding,Warnung,Undirected,1
+Major Bjerg,Mandsfeld,Undirected,1
+Major Bjerg,lille Maries,Undirected,1
+Maren,Marie,Undirected,2
+Doctoren,Maren,Undirected,1
+Mandsfeld,lee,Undirected,1
+Doctor Mandsfelds,ester,Undirected,1
+Hjelm,fil Thorshoi,Undirected,1
+Hjelm,Thorshøi,Undirected,3
+Froken,Thorshøi,Undirected,1
+Froken,Hanne,Undirected,1
+Hanne,Hanne Hjelm,Undirected,1
+Hanne,Lehmann,Undirected,1
+Olga,sor,Undirected,1
+Ella,sor,Undirected,1
+Hjelm,Thorshoi,Undirected,2
+Capitain Stroier,Thorshoi,Undirected,1
+Frøken Grøn,Martha,Undirected,2
+Martha,Olga,Undirected,11
+Ella,kjærtegne,Undirected,1
+Martha,MarthaS,Undirected,1
+Frøken Hjelm,Hanne,Undirected,1
+Lehmann,Martha,Undirected,7
+Ella,Mads,Undirected,9
+Froken Hjelms,Mads,Undirected,1
+Hanne,Kirkegaard,Undirected,1
+Jomfru Pingel,Martha,Undirected,3
+Jomfru Pingel,Olga,Undirected,1
+Ella,Pingel,Undirected,2
+Frue,Hjelm,Undirected,1
+Ella,Frue,Undirected,1
+Froken Grøn,Martha,Undirected,1
+Procurator Kaufmann,Thorshøi,Undirected,2
+Frøken Grøn,Jomfru Pingel,Undirected,1
+Ella,ester,Undirected,1
+Froken,Pingel,Undirected,1
+Froken,Olga,Undirected,2
+Ella,Froken Grøn,Undirected,3
+Ella,Froken,Undirected,3
+Frøken GrønS,Martha,Undirected,1
+Frøken GrønS,Mas,Undirected,1
+Martha,Pingel,Undirected,1
+Frøken Hjelm,Thee,Undirected,1
+Frøken Hjelm,Olga,Undirected,1
+Dei,Martha,Undirected,1
+Gud,ban,Undirected,1
+Ella,Froken Grøv,Undirected,1
+Saaby,ester,Undirected,1
+Enesfe,Olga,Undirected,1
+Olga,Perle,Undirected,6
+Frøken Hildebrand,Perle,Undirected,1
+Frøken Hildebrand,Olga,Undirected,1
+Annette,Marie Hansen,Undirected,1
+Frøken Grøn,Thorshøi,Undirected,1
+Borg,Harbo,Undirected,1
+Harbo,lille Marie Hansen,Undirected,1
+Olga,Saaby,Undirected,2
+Saaby,slakkels,Undirected,1
+Olga,slakkels,Undirected,1
+Ella,as,Undirected,2
+Ella,Frøken Hildebrand,Undirected,2
+Bei,Frøken Grøn,Undirected,1
+Paul,Peer,Undirected,1
+Frøken Grøn,Perle,Undirected,1
+Ella,ThorShoi,Undirected,1
+Procurator Kaufmann,ThorShoi,Undirected,1
+Lehmann,Procurator Kaufmann,Undirected,1
+Brunhilda,Hanne,Undirected,2
+Procurator Kaufmann,hans,Undirected,1
+Kaufmann,Olga,Undirected,5
+Ella,Stella,Undirected,1
+Palle,Palle sfal,Undirected,1
+Kaufmann,Lehmann,Undirected,1
+Ella,Palle,Undirected,2
+Ester,Thorshøi,Undirected,2
+Ella,Marie-Lyst,Undirected,1
+Jomfru Pingel,Marie-Lyst,Undirected,1
+Frøken Grøn,Mandsfeld,Undirected,1
+Frøken Lind,Mandsfeld,Undirected,1
+Nei,Procurator Kaufmann,Undirected,1
+Kaufmann,Nei,Undirected,1
+Olga,flog,Undirected,1
+Ella,Procuraforen,Undirected,1
+Olga,Procuraforen,Undirected,1
+Olga,Procurator Kaufmann,Undirected,1
+Marie-Lyst,Procurator Kaufmann,Undirected,1
+Olga,elffe,Undirected,1
+Marie-Lhst,Olga,Undirected,1
+Capitain Oldenburg,Martha,Undirected,1
+Brunhilde,Frøken Grøn,Undirected,1
+Brunhilde,Mads,Undirected,4
+Hilde,Mads,Undirected,1
+Ella,ak,Undirected,1
+Capitain Oldenburg,Frøken Grøn,Undirected,3
+Ella,lee,Undirected,1
+MadS,Olga,Undirected,1
+,Mads,Undirected,1
+Brunhilde,Ella,Undirected,2
+Karl,eg,Undirected,1
+Ella,tom,Undirected,1
+Ella,Peter,Undirected,2
+Mads,Peter,Undirected,1
+Ella,Steen,Undirected,2
+Brunhilde,Froken Grøn,Undirected,1
+MadS,Peter,Undirected,1
+Capitain Oldenburg,Mads,Undirected,1
+Ella,Thorshoi,Undirected,2
+Martha,hnn,Undirected,1
+Frøken Grøn,Hammer,Undirected,1
+Capitain Oldenburg,Thorshøi,Undirected,1
+Capitain Oldenburg,Saaby,Undirected,1
+Lehmann,Thorshøi,Undirected,2
+Frøken Grøn,Thorshoi,Undirected,2
+Lehmann,as,Undirected,1
+Crisen,as,Undirected,1
+Crisen,Hammer,Undirected,1
+Lehmann,ester,Undirected,1
+Ella,Perle,Undirected,2
+Perle,Thorshøi,Undirected,1
+Lehmann,fit,Undirected,1
+Ella,fit,Undirected,1
+Ella,skjøndt Hansen,Undirected,1
+Capitain Oldenburg,Ella,Undirected,3
+Ella,Major Copi,Undirected,4
+,Major Copi,Undirected,1
+,Olga sløi,Undirected,1
+Olga,ber,Undirected,1
+Ella,fil,Undirected,2
+fil,reisfe,Undirected,1
+Hansen,reisfe,Undirected,1
+Hansen,nefop,Undirected,1
+Luur,ber,Undirected,1
+Capitain Oldenburg,Hansen,Undirected,1
+Frøken Grøn,Hansen,Undirected,3
+Copi,Lehmann,Undirected,1
+Frøken Olga,Olga,Undirected,1
+Ieg,Major,Undirected,1
+Frøken Grøn,Major,Undirected,1
+Frøken Grøn,Ieg,Undirected,1
+Frøken Grøn,Frøken Olga,Undirected,2
+Frøken Grøn,Major Copi,Undirected,2
+Frøken Grøn,Theepotte,Undirected,1
+Major Copi,Olga,Undirected,3
+Major,Olga,Undirected,1
+Froken Grøn,Frøken Olga,Undirected,1
+Mille,SaabyeS,Undirected,1
+B,D,Undirected,1
+....,B,Undirected,1
+Copi,Ella,Undirected,1
+De lee,Ella,Undirected,1
+Olga,Platow,Undirected,7
+Olga,el,Undirected,1
+Asten,Lehmann,Undirected,1
+Saabye,sorstode,Undirected,1
+Frøken Lehmann,Grev Plalow,Undirected,1
+Greven,Olga,Undirected,4
+Ella,Frøken Ella,Undirected,2
+Dandsen,Olga,Undirected,1
+Greven,kvor Ellas,Undirected,1
+Dandsen,Greven,Undirected,1
+Ella,Harboe,Undirected,1
+Greven,Harboe,Undirected,1
+Greven,Lehmann,Undirected,1
+Ella,Grev Platow,Undirected,1
+Frøken Lehmann,Grev Platow,Undirected,1
+Ella,Greven,Undirected,6
+Ella,Neptun,Undirected,1
+Neptun,Olga,Undirected,1
+Frøken Lehmann,Greven,Undirected,3
+Ella Hjelm,Hjelm,Undirected,1
+Greven,paany,Undirected,1
+Dands,Olga,Undirected,1
+Ella,Grev Platon »,Undirected,1
+Grev Platon »,SaabyeS,Undirected,1
+Ella,Platow,Undirected,9
+Olga,Peer,Undirected,2
+Frøken Grøn,Peer,Undirected,1
+Olga,esfe,Undirected,1
+Ane,esfe,Undirected,1
+Ane,Marie,Undirected,2
+Froken Hjelm,Frøken Lehmann,Undirected,2
+Ella,Greve,Undirected,1
+Frøken Hjelm,Greve,Undirected,1
+Froken Lehmann,Thorshøi,Undirected,1
+Frøken Hjelm,Oldenburg,Undirected,1
+Capitainen,Greven,Undirected,1
+Ella,Justitsraad Grum,Undirected,1
+Capitain Oldenburg,Justitsraad Grum,Undirected,1
+Capitain Oldenburg,Olga,Undirected,1
+Ella,Saabye,Undirected,1
+Froken Lehmann,Greven,Undirected,1
+Ella,Thee,Undirected,2
+Frøken Hjelm,Kjøns,Undirected,1
+Platow,Thee,Undirected,1
+Frøken Grøn,Frøken Lehmann,Undirected,1
+Frøken Lehmann,Olga,Undirected,1
+Greve,Olga,Undirected,1
+Frøken Hjelm,Greven,Undirected,2
+Olga,fig,Undirected,1
+Ella,Moppe,Undirected,1
+Ella,Moppen,Undirected,1
+Frøken Grøn,Frøken Hildebrand,Undirected,2
+Frøken Grøn,Jacob,Undirected,3
+Frøken Hildebrand,Jacob,Undirected,2
+Ella,Froken Hildebrand,Undirected,1
+Ella,Tante Hannes,Undirected,1
+Ella,Ieg,Undirected,4
+Ieg,Thorshøi,Undirected,1
+Ella,sagve,Undirected,1
+Olga,sil,Undirected,1
+Frøken Grøn,Frøken GrønS,Undirected,1
+Copi,Petronelle,Undirected,1
+Petronelle,Sebastian,Undirected,1
+Petronelle,Sidsfe,Undirected,1
+Frøken Grøn,Petronelle Kopi,Undirected,1
+Petronelle Copi,Petronelle Kopi,Undirected,1
+Olga,Pien,Undirected,1
+Olga,Platon,Undirected,1
+Frøken Hjelm,Jacob,Undirected,1
+Gud,Hansen,Undirected,1
+Aaget,Frøken Grøn,Undirected,1
+Ella,Jacob,Undirected,2
+Olga,sfreg,Undirected,1
+Huusholdersfen,Jacob,Undirected,1
+Huusholdersfen,intelsleds,Undirected,1
+Ella,slakkels,Undirected,1
+Io,Thorshoi,Undirected,1
+Io,Olga,Undirected,1
+Jacob,Lehmann,Undirected,1
+Ella,Gud,Undirected,9
+Frøken Grens,Gud,Undirected,1
+Ella,overladeEllas,Undirected,1
+Brink,kelse,Undirected,1
+Ella Hjelm,Wre,Undirected,1
+Grev Platow,Olga,Undirected,2
+Frederik,Gud,Undirected,1
+Froken,Gud,Undirected,1
+Bidstrup,Gud,Undirected,1
+Doctor Bruun,Elise,Undirected,1
+Elise,Ella,Undirected,1
+Doctoren,Froken,Undirected,1
+Pingel,ai,Undirected,1
+Jomfru Pingel,ester,Undirected,1
+Doctoren,Ella,Undirected,1
+Martha,øg,Undirected,2
+A,Mads,Undirected,1
+A,B,Undirected,1
+B,Mads,Undirected,1
+Mads,huns,Undirected,1
+Mads,Rose,Undirected,4
+Maren,Peer,Undirected,1
+Ole,Rose,Undirected,2
+Dorthe,Jacob,Undirected,1
+Jacob,Rose,Undirected,6
+Dorthe,Rose,Undirected,2
+Dorthe,Ole,Undirected,1
+Peer,Rose,Undirected,2
+Jacob,Peer,Undirected,1
+Jacob,Ole,Undirected,1
+Ole,Peer,Undirected,1
+Gud,Jacob,Undirected,1
+Pingel,Rose,Undirected,4
+Pingel,Silke,Undirected,2
+Jomfru Pingel,Silke,Undirected,2
+Jacob,Jomfru Pingel,Undirected,2
+Mads,Silke,Undirected,2
+Rose,Silke,Undirected,1
+Silke,^zucvo,Undirected,1
+Frøken Grøn,Pingel,Undirected,1
+Jacob,Silke,Undirected,1
+Rose,hnn,Undirected,1
+Martha,Ole,Undirected,1
+Jomfru Pingel,Ole,Undirected,2
+Maren,Silke,Undirected,1
+Mads,Maren,Undirected,1
+Jomfru Pingel,Mads,Undirected,1
+Martha,Silke,Undirected,1
+Jomfru Pingel,Procurator Kaufmann,Undirected,1
+Frøken Hildebrand,Martha,Undirected,1
+Brunhilde,Martha,Undirected,1
+Brunhilde,Lehmann,Undirected,1
+Frøken Grøn,Lehmann,Undirected,1
+Frøken Hjelm,Hansen,Undirected,1
+Lehmann,slakkels,Undirected,1
+ester ai,slakkels,Undirected,1
+Arsenik,ester ai,Undirected,1
+Arsenik,Gud,Undirected,1
+Frøken Grøn,Frøken Hjelm,Undirected,1
+Brink,Thorshoi,Undirected,1
+Brink,Frøken Hjelm,Undirected,1
+Frøken Hjelm,Siraf,Undirected,1
+Siraf,aniog Frøken Hjelm,Undirected,1
+aniog Frøken Hjelm,ril,Undirected,1
+Hain,Platow,Undirected,1
+Martha,mai,Undirected,1
+Gud,Tys,Undirected,1
+Kafmann,Martha,Undirected,1
+Ella,Kafmann,Undirected,1
+Augustsolens,Ella,Undirected,1
+Ella,Frederik,Undirected,2
+Frederik,Gimle,Undirected,1
+Frederik Øe,Lien Øe,Undirected,1
+Ella,Øe,Undirected,1
+Ella,ire,Undirected,2
+Ella,rofasfe,Undirected,2
+Frederik,Martha,Undirected,2
+Frederik,Thorshøi,Undirected,1
+Alf,Ella,Undirected,1
+Olga,Rose,Undirected,1
+Martha,Rose,Undirected,1
+Hanne,tom,Undirected,1
+Martha,tom,Undirected,1
+Frøken Lehmann,Martha,Undirected,1
+Ella,Martba,Undirected,1
+Ella,Sophaen,Undirected,1
+Platow,Procurator Kaufmann,Undirected,1
+Ella,Thdrshøi,Undirected,1
+,Ella,Undirected,2
+Frederik,Thorskoi,Undirected,1
+Gud,Thorshøi,Undirected,1
+Grev Platow,Ole,Undirected,1
+Gimle,Martha,Undirected,1
+Frederik,Olga,Undirected,1

@@ -1,0 +1,409 @@
+source,target,type,weight
+Eriks,Oskar,Undirected,1
+Erik felv,Ols,Undirected,1
+Erik,Gud,Undirected,7
+Oskar,Western,Undirected,5
+Ols,Oskar,Undirected,43
+Erik,Oskar sfal,Undirected,1
+Ols,Western,Undirected,5
+Kaardcn,Oskar,Undirected,1
+Greve,Gud,Undirected,2
+Greve,Oskar,Undirected,1
+Greve,Kunz,Undirected,1
+Erik,Kunz,Undirected,1
+Grev Paul,Ncveu,Undirected,1
+Hr. Greve,Paul,Undirected,1
+Oskar,Paul,Undirected,17
+Ols,Ulrikkas,Undirected,1
+Ojnc,Ols,Undirected,1
+Ojnc,Oskar,Undirected,1
+J,Oskar,Undirected,1
+Paul,Tornhill,Undirected,9
+Marie,soer,Undirected,1
+Kunz,Tornhill,Undirected,1
+Lconores,Marie,Undirected,1
+Leonore,figee,Undirected,1
+Marie,Tornhill,Undirected,3
+Gud,Tornhill,Undirected,2
+Marie,Paul,Undirected,4
+Oskar,Ulrikkas,Undirected,1
+Oskar,Wanda,Undirected,17
+Erik,Ulrikka,Undirected,80
+Tornhill,Wanda,Undirected,6
+Johannes Ols,Tornhill,Undirected,1
+Leonore Kingsried,Tornhill,Undirected,1
+Marie,Ols,Undirected,9
+Grev Gustavs,Leonore,Undirected,1
+Marie,Oskar,Undirected,14
+Leonore,Wanda,Undirected,1
+Grev Tornhills,Leonore,Undirected,1
+Gabriel,Greve,Undirected,1
+Gabriel,Ieg,Undirected,1
+Eden,Ieg,Undirected,1
+Erik Swentburg,Marie Stux,Undirected,1
+Marie Stux,s,Undirected,1
+Jndblanden,Oskar,Undirected,1
+Marie,Wanda,Undirected,2
+Oskar,Takl,Undirected,1
+Ols,Takl,Undirected,1
+Erik,Paul,Undirected,3
+Erik,Tornhill,Undirected,33
+Gabriel,Ols,Undirected,2
+Gabriel,Oskar,Undirected,1
+Clients,Oskar,Undirected,1
+Clients,Ols,Undirected,1
+,Ols,Undirected,2
+Oskar,ncppe,Undirected,1
+Ols,ncppe,Undirected,1
+Erik,Oskar,Undirected,95
+Oskar,høst,Undirected,1
+Paul,Wanda,Undirected,4
+Gud,ester,Undirected,1
+Grevinde Tornhill,Oskar,Undirected,1
+Marie,vaa,Undirected,1
+Erik,Marie,Undirected,5
+Støi,Ulrikka,Undirected,1
+Ols,bles,Undirected,1
+Marie,Ulrikka,Undirected,8
+Johannes Nepomuk Ols,Tornhill,Undirected,1
+,Marie,Undirected,1
+Marie,Menederske,Undirected,1
+,Gud,Undirected,1
+Gud,Marie,Undirected,1
+Ols,hendeL,Undirected,1
+Ols,grk,Undirected,1
+grk,tu,Undirected,1
+Erik,Orloff,Undirected,1
+Katharina,Tornhill,Undirected,1
+Erik,Onskc,Undirected,1
+Erik,Grev Tornhill,Undirected,1
+Erik,Katharina,Undirected,1
+Grev Tornhill,Katharina,Undirected,1
+Erik,cerbodig,Undirected,1
+Tvrnhill,ban,Undirected,1
+Erik,Rybing,Undirected,1
+Erik,Lafleur,Undirected,7
+Lafleur,Ulrikka,Undirected,17
+Laflcur,Ulrikka,Undirected,2
+Dn,Ulrikka,Undirected,1
+Ulrikka,Zingri,Undirected,1
+Zingri,fom,Undirected,1
+Gud,Zingri,Undirected,1
+Ulrikka,gjcnlød,Undirected,1
+Gud,Lafleur,Undirected,1
+Lafleur,nn,Undirected,1
+Ulrikka,nn,Undirected,1
+Laflleur,Ulrikka,Undirected,1
+Oskar,Ulrikka,Undirected,26
+Oskar,igjcn,Undirected,1
+Grev Rybing,igjcn,Undirected,1
+Erik,Greven,Undirected,3
+Oskar,Sems,Undirected,1
+Oskar,taarckvalt,Undirected,1
+Panl,Tornhill,Undirected,1
+Betlerske,Erik,Undirected,1
+Panl,sfal Tornhill,Undirected,1
+Erik,sfal Tornhill,Undirected,1
+Gud,Wanda,Undirected,1
+Gud,Oskar,Undirected,3
+Oskar,anstrcngtc,Undirected,1
+Oskar,Tornhill,Undirected,14
+Marie,Neppc,Undirected,1
+Marie,Oskar soer,Undirected,1
+Dn,Fcjge,Undirected,1
+Greven,Oskar,Undirected,1
+Greven,Marie,Undirected,1
+Erik,Ols,Undirected,27
+Ieg,Ols,Undirected,1
+Ncveu,Oskar,Undirected,1
+Ncveu,Tornhill,Undirected,1
+Paul,Wrcdensteen,Undirected,1
+Oskar,dyht,Undirected,1
+Gud,mil smukke Tornhill,Undirected,1
+Grev Wredenstecn,sfal,Undirected,1
+Lukfilds,Paul,Undirected,1
+Lukfild,Lukfilds,Undirected,1
+Lukfild,Paul,Undirected,2
+Kjøbmcmdcn,Paul,Undirected,1
+Oskar,ncj,Undirected,1
+Grev Wredenstcens,Paul,Undirected,1
+Brannau,Paul,Undirected,1
+Brannau,cr,Undirected,1
+Gud,cr,Undirected,1
+Marie,Ncppe,Undirected,1
+Oskar,jcg,Undirected,1
+Erik Swcntburg,jcg,Undirected,1
+Gud,Wesfern,Undirected,1
+Erik,Western,Undirected,9
+Adaang,Oskar,Undirected,1
+Ols,Tornhill,Undirected,7
+Grev Stremberg,Wanda,Undirected,1
+Erik oz,Grev Stremberg,Undirected,1
+Lukficld,Paul,Undirected,2
+Gud,Ols,Undirected,4
+Gud,Paul,Undirected,1
+Ieg,Oskar,Undirected,1
+Andreas,Oskar,Undirected,7
+Hr. Dokter,Oskar,Undirected,1
+Neppc,Oskar,Undirected,1
+Neppc,Paul,Undirected,1
+Berten,Oskar,Undirected,1
+Andreas,Flefkcn,Undirected,1
+Oskar,nng,Undirected,1
+Oskar,Saaledcs,Undirected,1
+Oskar,ganskc,Undirected,1
+ganskc,maattc,Undirected,1
+Bestern,Usup,Undirected,1
+Kunz,Usup,Undirected,1
+,Kunz,Undirected,1
+Kjælderen,Western,Undirected,1
+Grev Oskar,Gud,Undirected,2
+Erik Westerns,Ulrikka,Undirected,1
+Oskar,maattc,Undirected,1
+maattc,vcekkc,Undirected,1
+Oskar,vcekkc,Undirected,1
+kjendtc Oskar,staacndc,Undirected,1
+Oskar,Stuhrs,Undirected,1
+Oskar,Taarernc,Undirected,1
+Andreas,Stremberg,Undirected,1
+Andreas,igjcn,Undirected,1
+Gud,Ulrikka,Undirected,6
+Erik,mtn,Undirected,1
+Marie Stux,Tornhill,Undirected,1
+Hr. Greve,Oskar,Undirected,1
+Erik,Tørnhill,Undirected,1
+Ols,Paul,Undirected,3
+Ols,Wesfern,Undirected,2
+Ols,nng,Undirected,1
+Grev Stremberg,Oskar,Undirected,1
+Greven,naadigc Herre,Undirected,1
+Oskar,aidrig,Undirected,1
+Erik,VennenHaand,Undirected,1
+Jutta,Oskar,Undirected,3
+Oskar,maasfe,Undirected,2
+Oskar,kjcnde,Undirected,1
+Swentburg,kjcnde,Undirected,1
+Swentburg,Tornhill,Undirected,1
+Erik,Oren,Undirected,1
+Ols,Oren,Undirected,1
+Grev Oskar,Mikkel,Undirected,1
+Jcg,falsf,Undirected,1
+falsf,jcg,Undirected,1
+Grev Stremberg,Ols,Undirected,2
+Ols,ovcrtraf Oskar,Undirected,1
+Gustav,Kunz,Undirected,1
+Brodcr,Tornhill,Undirected,2
+Brodcr,kjærc Wanda,Undirected,1
+Ncvcn,Paul,Undirected,1
+Wanda,stans,Undirected,1
+Paul,stans,Undirected,1
+Grevinden,Tornhill,Undirected,1
+Oskar,Slotct,Undirected,1
+Gustav,Paul,Undirected,2
+Frue,Marie,Undirected,1
+Frue,Gud,Undirected,1
+Gud,øgsaa,Undirected,1
+Marie,elsfede,Undirected,1
+Gustav,sra Tornhill,Undirected,1
+Grev Oskar,Ols,Undirected,1
+Paul,Western,Undirected,1
+Erik,selo,Undirected,1
+Kunz,Oskar,Undirected,3
+Kunz,Ols,Undirected,3
+Madam Stuhr,Oskar,Undirected,1
+Andreas,Usup,Undirected,1
+Madam Stuhr,Usup,Undirected,1
+Bent,Oskar,Undirected,1
+Erik,Saaret,Undirected,1
+Fatasi,Tornhill,Undirected,1
+Fatasi,Ols,Undirected,1
+Gutturp,Oskar,Undirected,1
+Oskar tøg,Tornhill,Undirected,1
+Neveus,Ols,Undirected,1
+Erik,Judas,Undirected,1
+Kaarde,Oskar,Undirected,1
+Greve,Ingling,Undirected,1
+Dolken,Ols,Undirected,1
+D,Erik,Undirected,1
+Mistroeus,Ols,Undirected,1
+Greven,Mistroeus,Undirected,1
+Gutturp,N.,Undirected,1
+Erik,Wanda,Undirected,5
+Lafleur,Oskar,Undirected,2
+Kellys,Oskar,Undirected,1
+Erik,Kellys,Undirected,1
+Erik,Wesfern,Undirected,3
+Erik,Kelly,Undirected,8
+Ols,Ulrikka,Undirected,6
+Engels,Gud,Undirected,1
+Erik,Greve,Undirected,1
+Greve,Marie,Undirected,1
+Gutturp,Western,Undirected,1
+Andreas,Andreas Stuhrs,Undirected,1
+Ols,Stuhr,Undirected,2
+Hr. Wesfern,Ols,Undirected,1
+Kelly,Ulrikka,Undirected,3
+Kelly,Lafleur,Undirected,4
+Lafleur,dvg,Undirected,1
+Kelly,dvg,Undirected,1
+Erik,Opmærksømhed,Undirected,1
+Ester,Kelly,Undirected,1
+Kelly,Oskar,Undirected,16
+Tornhill,Ulrikka,Undirected,13
+Erik,Skjæbncn,Undirected,1
+Skjæbncn,fammc,Undirected,1
+Ulrikka,falsf,Undirected,1
+Paul,Ulrikka,Undirected,1
+Ulrikka,Wanda,Undirected,2
+Erik Me,Tornhill,Undirected,1
+Greven,kjende,Undirected,1
+Oskar,sorstaa,Undirected,1
+Erik,sorstaa,Undirected,1
+Erik,hæns,Undirected,1
+Oskar,hæns,Undirected,1
+Erik,Jcg,Undirected,2
+Jcg,jcg,Undirected,1
+Erik,Tøner,Undirected,1
+Ore,Oskar,Undirected,1
+Erik,Hcrpaa,Undirected,1
+Marie,ester,Undirected,1
+Cirkasierdrengen,Erik,Undirected,1
+Grev Stremberg,Gustav,Undirected,1
+Erik,Gustav,Undirected,1
+Erik,Erik sfal,Undirected,1
+Ulrikka,fom,Undirected,2
+Ulrikka,skaan,Undirected,1
+Taabc,Ulrikka,Undirected,1
+Marie,fie,Undirected,1
+Kelly,sif,Undirected,1
+Oskar,sif,Undirected,2
+Erik,Ore,Undirected,1
+Gud,Ore,Undirected,1
+Klaus,Oskar kamme,Undirected,1
+Marie,Oskar kamme,Undirected,1
+Marie,cn Bonde,Undirected,1
+Hcfner,cn Bonde,Undirected,1
+Klaus,Præsfen,Undirected,1
+Klaus,Tvrnhill,Undirected,1
+Grev Stremberg,Tvrnhill,Undirected,1
+Grev Stremberg,Marie Stux,Undirected,1
+Greven,Ulrikka,Undirected,1
+Klaus,Oskar,Undirected,1
+Hain,Oskar,Undirected,1
+Hain,raabtc,Undirected,1
+Jcg,rcjsc,Undirected,1
+Tornhill,rcjsc,Undirected,1
+Nci,Ulrikka,Undirected,1
+Oskar,raabtc,Undirected,2
+Ulrikka,fig,Undirected,1
+Ulrikka,maasfe,Undirected,1
+Ulrikka,øg,Undirected,1
+Erik,Leonore,Undirected,1
+Leonore,Tornhill,Undirected,1
+Wanda,dct,Undirected,1
+Tornhill,dct,Undirected,1
+Klavs,Western,Undirected,2
+Greve“,Western,Undirected,1
+Erik,Jgjcn,Undirected,1
+Erik,yan,Undirected,1
+Lengen,Marie,Undirected,1
+Ieg,Ulrikka,Undirected,1
+Erik,Hcnimod,Undirected,1
+Oskar,næsfen,Undirected,1
+Tornhill,næsfen,Undirected,1
+Kelly,Madam Stuhr,Undirected,1
+Oskar,ester,Undirected,2
+Tornhill,Western,Undirected,1
+Usup,Western,Undirected,2
+Gustav,Leonore Kingsried,Undirected,1
+Leonore Kingsried,Stephanus Hold,Undirected,1
+Ols,Stephanus Hold,Undirected,1
+Gustav Adolph Johannes Erik,Leonore,Undirected,1
+Claus Nils,Marie,Undirected,1
+Kurt,Marie,Undirected,1
+Claus,Kurt,Undirected,3
+Claus,Guttens,Undirected,2
+Erik Swentburg,Kurt,Undirected,1
+Erik Swentburg,fom,Undirected,1
+Greven,Tornhill,Undirected,2
+Grev Tornhill,Greven,Undirected,1
+Erik,Erik Swentburg,Undirected,1
+Erik Swentburg,Gvdsejer,Undirected,1
+Erik Swentburg,Nilsdorf,Undirected,1
+Erik,Tilfældel,Undirected,1
+Grev Tornhill,Ulrikka,Undirected,1
+Ulrikka,hnn,Undirected,1
+Erik,Iver,Undirected,1
+Tornhill,ester,Undirected,1
+Ulrikka,ester,Undirected,1
+Erik,fpurgte,Undirected,1
+Mcn Oskar,Ols,Undirected,1
+Kunz,Paul,Undirected,1
+Gustav,Tornhill,Undirected,4
+Tornhill,as,Undirected,1
+Marie,as,Undirected,1
+Ols,Rafl,Undirected,1
+Andreas Stuhrs,Greven,Undirected,1
+Andreas Stuhrs,Erik,Undirected,1
+Ahlfeld,Gustav Adolph Borg,Undirected,1
+Hnn,Tornhill,Undirected,1
+Ahlfeld,Oskar,Undirected,1
+Erik,Scott,Undirected,1
+Erik,Erik nysgjerrig,Undirected,1
+Grev Oskar,maaskc,Undirected,1
+Grev Gusfav,Tornhill,Undirected,1
+Erik Swentburg,Gustav Adolph Johannes Erik,Undirected,2
+Erik,Weslern,Undirected,1
+Oskar,Wesfern,Undirected,1
+Erik,Gustav Adolph Johannes Erik,Undirected,1
+Oskar,sørvrires,Undirected,1
+Oskar,soer,Undirected,1
+Wanda,raabtc,Undirected,1
+Oskar,hans Wrinde,Undirected,1
+Gustav,Ols,Undirected,2
+Erik,forstum,Undirected,1
+Erik Swentburg,forstum,Undirected,1
+Erik Swentburg,Gustav af,Undirected,1
+Gustav af,Tornhill,Undirected,1
+Erik,Wgte,Undirected,1
+Betlerste,Brodcr,Undirected,1
+Hyænen,Tornhill,Undirected,1
+Gustav,Ulrikka,Undirected,2
+Gustav,Tvrnhill,Undirected,1
+Menederske,Ulrikka,Undirected,1
+Tornhill,jcg,Undirected,1
+ALgtefællcs,jcg,Undirected,1
+Erik,cne,Undirected,1
+Erik,sorandrc,Undirected,1
+Oskar,igscn,Undirected,1
+Ahlfeld,Borg,Undirected,1
+Gjcnstand,Oskar,Undirected,2
+Kunz,Strcmberg,Undirected,1
+Ols,Strcmberg,Undirected,1
+Adolph Johannes Erik,Erik,Undirected,1
+Oskar,Zellen,Undirected,1
+Erik Swentburg,Wanda,Undirected,2
+Dn,slal,Undirected,1
+Uhret,Zellen,Undirected,1
+Oskar foer,igjcn,Undirected,1
+Oskar,dct,Undirected,1
+Hr. Greve,dct,Undirected,1
+Kilian,Oskar,Undirected,2
+Oskar,Præsfen,Undirected,1
+Graad,Oskar,Undirected,1
+Grev Stremberg,maasfe,Undirected,1
+,Leonore,Undirected,1
+Erik Swentburg,Tornhill,Undirected,1
+Greven,Western,Undirected,1
+Erik,Ulrikka kjørte,Undirected,1
+Erik,Grevinden,Undirected,1
+Greven,Ols,Undirected,2
+Betty Bruns,Erik,Undirected,1
+Betty Bruns,Paul,Undirected,1
+Leonore,Paul,Undirected,1
+Leonore,Ulrikka,Undirected,1
+Ols,elsfede,Undirected,1
+Leønores,Ols,Undirected,1
+Greven,øgsaa Ols,Undirected,1
+Leønvre,Ols,Undirected,1
+Betty,Ols,Undirected,1

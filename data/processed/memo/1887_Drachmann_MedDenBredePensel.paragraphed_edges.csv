@@ -1,0 +1,173 @@
+source,target,type,weight
+Ivar Feldmann Christensen,Tegne-Christensen,Undirected,1
+Beethovens,Michelangelos,Undirected,1
+Christensen,Gud,Undirected,2
+Christensen,ivold,Undirected,1
+Leo,Pius,Undirected,1
+Mama,Papa,Undirected,1
+Albions,Hr. Christensen,Undirected,1
+Albions,Gud,Undirected,1
+Gud,Karsten,Undirected,2
+Karsten,Mesters,Undirected,1
+Mester,Mesters,Undirected,1
+Hr. Christensen,Rembrandt,Undirected,1
+Dada,Ivar Christensen,Undirected,1
+Bach,Beethoven,Undirected,1
+Beethoven,Weyse,Undirected,1
+L’,hombre,Undirected,1
+Oehlenschlåger;,hombre,Undirected,1
+Calderon,Oehlenschlåger;,Undirected,1
+Calderon,Weyse,Undirected,1
+Ivar,Ivar Christensen,Undirected,3
+Ivar,hutsch,Undirected,1
+hatsch,hutsch,Undirected,1
+Jærn,hatsch,Undirected,1
+Jærn,Karle,Undirected,1
+Albrecht,Ivar,Undirected,1
+Albrecht,Holbein,Undirected,1
+Hs,Ivar,Undirected,1
+Avind,Ivar,Undirected,2
+Ivar,Jakobs,Undirected,1
+Jakobs,Kristus,Undirected,1
+Dante,Kristus,Undirected,1
+Dante,Kaar,Undirected,1
+Christensen,Ivar Christensen,Undirected,1
+Kobbere,Rafael,Undirected,1
+Cranach,Diirer,Undirected,1
+Abildgaard,Eckersberg,Undirected,2
+Abildgaard,Ivar Christensen,Undirected,1
+Eckersberg,Frederik den,Undirected,1
+Aladdins,Oehlenschlæger,Undirected,1
+Ivar Christensen,Oehlenschlæger,Undirected,1
+Ivar Christensen,Phidias,Undirected,1
+Aaget,Ivar Christensen,Undirected,1
+Arne,Ivar,Undirected,1
+Ivar Feldmann Christensen,paany danne,Undirected,1
+Cranach,Durer,Undirected,1
+Michelangelo,Rafael,Undirected,4
+Christensen,Rafael,Undirected,1
+Adelaides,Christensen,Undirected,1
+Christensen,Ivar Feldmann,Undirected,1
+Christensen,Ivar Feldmann Christensen,Undirected,1
+Edgren,Elliot,Undirected,1
+Elliot,Miil,Undirected,1
+Miil,Spencer,Undirected,1
+Spencer,quem honoris causa nomino,Undirected,1
+Lamballe,Marie Antoinette,Undirected,1
+Maria Stuart,Marie Antoinette,Undirected,1
+Jane Gray,Maria Stuart,Undirected,1
+Hr. Christensen,I. F. Christensen,Undirected,1
+Hr. Christensen,Sokrates,Undirected,1
+Hera,Hr. Christensen,Undirected,1
+Athene,Hera,Undirected,1
+Athene,ane,Undirected,1
+Borghese,Canova,Undirected,1
+Ariadnes,Dionysos,Undirected,1
+Frederikke,Kathinka,Undirected,1
+Kathinka,Thora,Undirected,1
+Ivar Feldmann,Thora,Undirected,1
+Christensen,Sofist,Undirected,1
+Christensen,Ivar,Undirected,1
+Darnley,Maria Stuart,Undirected,1
+Darnley,Rizio,Undirected,1
+Bothwell,Rizio,Undirected,1
+Bothwell,Byron,Undirected,1
+Byron,Robert Burns,Undirected,1
+Robert Burns,Walter Scott,Undirected,1
+Christensen,Walter Scott,Undirected,1
+Christensen,Lejebibliotheket,Undirected,1
+Annas,Dronning Elisabeths,Undirected,1
+Christensen,Feldmanns,Undirected,1
+Dante,Virgil«,Undirected,1
+Ivar Feldmann Christensen,Ruf,Undirected,1
+Christensen,John Leech,Undirected,1
+Christensen,Lord Dunham,Undirected,1
+Hr. Christensen,Lord Dunham,Undirected,1
+Christensen,Hr. Christensen,Undirected,3
+Christensen,Lord,Undirected,1
+Delaroche,Ingres,Undirected,1
+Flors,Notre-Dames,Undirected,1
+Christensen,rutsch,Undirected,1
+Christensen,paany,Undirected,1
+Christensen,Goethe,Undirected,2
+Augusts,Rafael,Undirected,1
+Cicerone,Ivar Feldmann Christensen,Undirected,1
+Christensen,Prosit,Undirected,1
+Alburum,Prosit,Undirected,1
+Gud,véd,Undirected,2
+jere,véd,Undirected,1
+Evropas,Michelangelo,Undirected,1
+Jol,Tizians,Undirected,1
+Christensen,Pluches,Undirected,1
+Christensen,Van Dyck,Undirected,1
+Christensen,Divan,Undirected,1
+Christensen,ReifReiffenstein,Undirected,1
+Christensen,Michelangelo,Undirected,1
+Vicolo,vicolo,Undirected,1
+Christensen,Kristoffer,Undirected,1
+Christensen,Paolo,Undirected,1
+Christus,Paolo,Undirected,1
+Paolo,Rembrandt,Undirected,1
+Aal,Christensen,Undirected,1
+Christensen,Karsten,Undirected,29
+Christensen,Mester,Undirected,1
+Hr. Christensen,Karsten,Undirected,3
+Campe,Robinsons,Undirected,1
+Campe,Christensen,Undirected,1
+Goldschmidt,Øhlenschlager,Undirected,1
+Goldschmidt,Winther,Undirected,1
+Hostrup,Winther,Undirected,1
+Hostrup,Karsten,Undirected,1
+Karsten,visvas,Undirected,1
+Rafael,Rembrandt,Undirected,1
+Frans Hals,Rembrandt,Undirected,1
+Dorthe,Frans Hals,Undirected,1
+Dorthe,Tizians,Undirected,1
+Peter Poul Rubens,Tizians,Undirected,1
+Christensen,Feldmann,Undirected,1
+Christensen,Helene Borg,Undirected,1
+Christensen,Drosches,Undirected,1
+Frøken Kamilla,Mands,Undirected,1
+Christensen,kruse,Undirected,1
+Christensen,Frøken Kamilla,Undirected,1
+-,Christensen,Undirected,1
+Christensen,ét,Undirected,1
+Christensen,Stillitsen,Undirected,1
+Frk. Helene Borg,Ivar Feldmann Christensen,Undirected,1
+Karsten,Monsieur,Undirected,1
+Monsieur,allenfals,Undirected,1
+Kesten,Kirstine,Undirected,1
+Karsten,Principal,Undirected,1
+Julius Lange,Liibke,Undirected,1
+Julius Lange,Rembrandt,Undirected,1
+Margrethe,Rembrandt,Undirected,1
+Karsten,Kirstine,Undirected,7
+Klownen,Pjerrot,Undirected,1
+Karsten,rutsche,Undirected,1
+Beethoven,Karsten,Undirected,1
+Adelaide,j e,Undirected,1
+Gud,j e,Undirected,1
+Mama,véd,Undirected,1
+Christensen,Hans,Undirected,1
+Christensen,Helene,Undirected,4
+Frøken Borg,Karsten,Undirected,1
+Helene,Karsten,Undirected,1
+Christensen,Karsten Feldmann,Undirected,2
+Frøken Adelaide,Karsten,Undirected,4
+Christensen,Frøken Adelaide,Undirected,1
+Chri-,Frøken Adelaide,Undirected,1
+Christensen,haml,Undirected,2
+haml,violette,Undirected,1
+Jens,Karsten,Undirected,1
+Jan Steen,Karsten,Undirected,1
+Karsten,keg,Undirected,1
+Diana,paany,Undirected,1
+Christensen,Don Juan,Undirected,1
+Karsten,hans Pallet,Undirected,1
+Karsten,Mama,Undirected,2
+Jørgensen,Karsten Feldmann Christensen,Undirected,1
+Jørgensen,Konrad Adolf Jørgensen,Undirected,1
+Christensen,Robertsons,Undirected,1
+Christensen,Millet,Undirected,1
+Guido Renis,Kirstine,Undirected,1
+Dorothea,Hermann,Undirected,1

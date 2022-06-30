@@ -1,0 +1,957 @@
+source,target,type,weight
+Don Blas,Stanos,Undirected,4
+Don Blas,Karl,Undirected,2
+Pepifa,hnn,Undirected,1
+Obersfen,Pepifa,Undirected,1
+Don Blas,Pepito lo spodsk,Undirected,1
+Esfer,Obersfen,Undirected,1
+Obersfen,Tom,Undirected,1
+Stanos,ester,Undirected,1
+Pepito,ester,Undirected,1
+Don Blas,Pepito,Undirected,9
+Don Blas,Hr. Stanos,Undirected,1
+Pepito,kim,Undirected,1
+Stanos,kim,Undirected,1
+Asm,Don Blas,Undirected,1
+Makel,Tom,Undirected,1
+Makel,Pepita,Undirected,1
+Ellen,Papa,Undirected,3
+Kusk,Stanos,Undirected,1
+Arriba,Ellen Faderens,Undirected,1
+Ellen,Mabel,Undirected,2
+Pepito,hnn,Undirected,3
+Don Redando,Mulæseldrivereu,Undirected,1
+Don Bias,Don Redando,Undirected,1
+Don Bias,Ellen,Undirected,1
+Don Rcdando,Ellen,Undirected,1
+Don Redando,Ellen,Undirected,8
+Mabel,Tom,Undirected,1
+Ieg,Stanos,Undirected,1
+Don Redando,Stanos,Undirected,1
+Pepito,Stanos,Undirected,5
+Dn,Stanos,Undirected,1
+Dn,vivil,Undirected,1
+Pepilo,Tom,Undirected,1
+Akabel,Tom,Undirected,1
+Don Rcdando,Ellcn,Undirected,1
+liam,yan,Undirected,1
+liam,lian,Undirected,1
+lian,ynn,Undirected,1
+liam,ynn,Undirected,1
+Don Blas,Pepilo,Undirected,1
+Don Blas,ban,Undirected,3
+Don Blas,Redando,Undirected,10
+Don Blas,yam,Undirected,1
+Flasfe,yam,Undirected,1
+Ellen,hnn,Undirected,4
+Hnn,hnn,Undirected,2
+Hnn,Tom,Undirected,1
+Don,Tom,Undirected,1
+Don,Redando,Undirected,1
+Ellen,Redando,Undirected,50
+Redando,ester,Undirected,3
+Don Blas,Don Redando,Undirected,2
+Ejlens,Redando,Undirected,1
+Redando,nn,Undirected,3
+Re-dandos,nn,Undirected,1
+Re-dandos,hnn,Undirected,1
+Don Blas,hnn,Undirected,1
+Don Blas,hank,Undirected,1
+Mabcl,Pepito,Undirected,3
+Stanos,Ver,Undirected,1
+StanoS,Ver,Undirected,1
+StanoS,ban,Undirected,1
+Stanos,ban,Undirected,1
+Stanos,fhi,Undirected,1
+Don Blas,Tom,Undirected,2
+Pepito ester,Tom,Undirected,1
+Akabel,Pepito ester,Undirected,1
+Akabel,Ellen,Undirected,1
+Ellen,Pepito,Undirected,3
+Redando,halls,Undirected,1
+Hail,halls,Undirected,1
+Don Redando,hnn,Undirected,2
+hiin,hnn,Undirected,1
+Ellen,hiin,Undirected,1
+Carlina,Romano,Undirected,10
+Ellen,wrst,Undirected,1
+Pepito,wrst,Undirected,1
+Pepito,Redando bavde,Undirected,1
+Hnn,Redando bavde,Undirected,1
+Ellen,Tom,Undirected,1
+Don Redando,ban,Undirected,2
+,Don Blas,Undirected,2
+Don Blas,mebførcndc Mabels,Undirected,1
+Don Blas,Teres,Undirected,1
+Ellen,Obersfen,Undirected,1
+Obersfen,Redando,Undirected,1
+Makel,Redando,Undirected,1
+Ellen,Makel,Undirected,1
+Blas,fvrang,Undirected,1
+Fideicommisbcsidderc,Redando,Undirected,1
+Redando,genncmgaacndc,Undirected,1
+Ellen,genncmgaacndc,Undirected,1
+Redando,yan,Undirected,1
+Ellen,ban,Undirected,3
+hnn,sricdc,Undirected,1
+mnn,nnkom,Undirected,1
+Don Redando,mnn,Undirected,1
+Don Redando,nein,Undirected,1
+Gud,Von,Undirected,1
+Aked,Redando,Undirected,1
+Ellen,Obersten,Undirected,3
+Obersten,Tom,Undirected,1
+Bogncn,Ellen,Undirected,1
+HeudcsØjnc,aj,Undirected,1
+Don Bartolomeo,ben betrcssede,Undirected,1
+Don Bartolomeo,Serenn,Undirected,1
+Bartolomeos,Romano,Undirected,1
+Don Redando,Lucas,Undirected,1
+Carlina,Lucas,Undirected,7
+Lucas,Romano,Undirected,8
+Earlina,Nein,Undirected,1
+Carlinns,Romano,Undirected,1
+Hesfen,ber,Undirected,1
+Don Redando,Romano,Undirected,1
+Bravo,Redando,Undirected,1
+Redando,fig,Undirected,1
+Don Bartolomeo Serena,Earlina,Undirected,1
+Earlina,Myndling,Undirected,1
+Don Lueas,Myndling,Undirected,1
+Bravo,Don Romano,Undirected,2
+Bravo,Don Romano Serena,Undirected,1
+Don Romano,Don Romano Serena,Undirected,1
+Dois Romano,Don Romano,Undirected,1
+Carlina,Dois Romano,Undirected,1
+Don Bartolomeo Sercna,Donna Carlina,Undirected,1
+Donna Carlina,Hnn,Undirected,1
+Don Romano De Screna,Hnn,Undirected,1
+Don Lucas Monte,Don Romano De Screna,Undirected,1
+Lucas dcrimod,Romano,Undirected,1
+Lucas dcrimod,knnnc,Undirected,1
+Don Bartolomeo,knnnc,Undirected,1
+Carlina,Schak,Undirected,1
+Don Bartolomeo,Schak,Undirected,1
+Don Bartolomeo,Don Lucas,Undirected,6
+Don Bartolomeo,hnn,Undirected,1
+Carlina,ban,Undirected,2
+Don Lucas,Romano,Undirected,1
+Cnrlina,Ia,Undirected,1
+Don Bartolomeo,Ia,Undirected,1
+Don Bartolomeo,Lucas,Undirected,8
+Don Bartolomeo,Hr. Branco,Undirected,1
+Do »,Hr. Branco,Undirected,1
+Bartolomeo,Do »,Undirected,1
+Don Lucas,Moses,Undirected,7
+Don Lncas,Øe,Undirected,1
+Don Bartolomeo,Gud,Undirected,1
+Aagerkarl,Don Lucas,Undirected,1
+Don Redando,Lee,Undirected,1
+Dein,Don Redando,Undirected,1
+Ellen,Gud,Undirected,2
+Ellen,bønlig,Undirected,1
+Dn,Ellen,Undirected,3
+Alma,Lee,Undirected,1
+Alma,Dicgo,Undirected,1
+Carl,Ellen,Undirected,1
+Alma,Dn,Undirected,1
+Carl,as,Undirected,2
+Don Redando,Oberste,Undirected,1
+Ellen,hairs,Undirected,1
+Dicgo,Ellen,Undirected,1
+Diego,Ellen,Undirected,4
+Ellen,eilten,Undirected,1
+ban,yen,Undirected,1
+ban,sif,Undirected,1
+sif,thi,Undirected,1
+-,thi,Undirected,1
+-,hnn,Undirected,1
+Diego,Ieg,Undirected,1
+Ellen,hare,Undirected,1
+Ellen,hin,Undirected,1
+Ellen,Manuel,Undirected,12
+Gud,Manuel,Undirected,1
+Gud,hnn,Undirected,1
+hnn,kim,Undirected,1
+Dn,Don Blas,Undirected,1
+Gomcs,Manuel,Undirected,1
+Don Blas,Manuel,Undirected,10
+Don Blas,kvor hin,Undirected,1
+hnn,kvor hin,Undirected,1
+Ellen Lee,hnn,Undirected,1
+Manuel,Teresa,Undirected,5
+Daniel,bcstjaalcn,Undirected,1
+Daniel,Don Bartolomeo,Undirected,2
+Don Lucas,hnn,Undirected,3
+Daniel,Don Lncas,Undirected,1
+Lucas,snn,Undirected,1
+Bien Daniel,Don Lucas,Undirected,1
+Don Lucas,Don Romano,Undirected,3
+Hnn,lien,Undirected,1
+Hais,Lucas,Undirected,1
+Lucas,ester,Undirected,1
+Lucas,hnn,Undirected,3
+Lucas,Ønkcl,Undirected,1
+Don Lucas,Jøden,Undirected,1
+Ellen,Mannel,Undirected,4
+DaAnnette,Tom,Undirected,1
+M,Manuel Frania,Undirected,1
+Redando,Usand,Undirected,1
+Manuel,Usand,Undirected,1
+Ellen,Sands,Undirected,1
+Ellen,Manuel Frania,Undirected,2
+Redando,Tom,Undirected,1
+Ladrone,dein,Undirected,1
+Mannel,dein,Undirected,1
+Manuel Frania,Velasko,Undirected,1
+bette,mnn,Undirected,1
+Manuel,bette,Undirected,1
+Ladrone,Manuel Frania,Undirected,1
+Ellen,Mutter Bianca,Undirected,1
+Ellen,Gomcs,Undirected,1
+Manncl,Manuel Frania,Undirected,1
+Ellen,ester,Undirected,1
+Ellen,Øe,Undirected,2
+Moskito,ban,Undirected,1
+Teresa,ril,Undirected,1
+Alan,Teresa,Undirected,1
+Løjtcnanten,Moskito,Undirected,1
+Manuel Frania,Moskito,Undirected,2
+Manuel Frania,sons,Undirected,1
+Kaptejnen,Manuel Frania,Undirected,1
+Kaptejnen,Manuel,Undirected,1
+Georg,Mannel,Undirected,20
+Løjtnamcns,cl,Undirected,1
+harr,naM,Undirected,1
+Redando,harr,Undirected,1
+Georg,Maml Franias,Undirected,1
+Manuel,Redando,Undirected,18
+Manuel,Moskito yar,Undirected,1
+Redando,sia-,Undirected,1
+Georg,sia-,Undirected,1
+Georg,sra,Undirected,1
+Ladrone,hin,Undirected,1
+Georg,Løjtnant Ladroncs,Undirected,1
+Ellen,Georg,Undirected,8
+Georg,Redando,Undirected,49
+Karl,Manuel,Undirected,1
+Karl,Usto,Undirected,1
+Dn,Usto,Undirected,1
+Redando,Redando m Gnitar,Undirected,1
+Georg,Redando m Gnitar,Undirected,1
+Georg,ban,Undirected,6
+ban,ban isølgc,Undirected,1
+Muck,Redando,Undirected,1
+Muck,ban,Undirected,1
+ban,hnn,Undirected,2
+ban,dein,Undirected,1
+Josi Blaria,Rinaldo Rinaldini,Undirected,1
+Josi Blaria,Robin Hvod,Undirected,1
+Manuel Frania,Redando,Undirected,3
+Paula,Redando,Undirected,14
+Paula,Usto,Undirected,5
+Dwunel,Paula,Undirected,1
+Georg,Paula,Undirected,3
+Ellen,Paula,Undirected,9
+Peder,olla potrida,Undirected,1
+Juan,Manuel Frania,Undirected,2
+Juan,Usto,Undirected,1
+Georg,Mannel Frania,Undirected,4
+Georg,Manuel,Undirected,60
+Georg,Usto,Undirected,8
+Manuel,Usto,Undirected,2
+Ieg,Redando,Undirected,1
+Hallunk,Marie,Undirected,1
+Marie,Redando,Undirected,2
+Papa,Redando,Undirected,1
+Manuel,Marie,Undirected,1
+Redando,Usto,Undirected,2
+Redando,rasf,Undirected,1
+Ladrone,Redando,Undirected,1
+Georg,Moiskto,Undirected,1
+Georg,Karl,Undirected,2
+Georg,Teresa,Undirected,1
+Georg,Moskito,Undirected,3
+Manuel,Moskito,Undirected,3
+Moskito,Teresa,Undirected,1
+Moskito,ester,Undirected,1
+Manuel,Paula,Undirected,2
+Maria,Redando,Undirected,1
+Juan,Manuel,Undirected,1
+Juan,inig,Undirected,1
+Georg,Moskifo,Undirected,1
+Manuel Frania,Moskifo,Undirected,1
+Georg,Manuel Frania,Undirected,5
+Bianca,Damms,Undirected,1
+Tilla-,else,Undirected,1
+Ellen,eg,Undirected,1
+hm,oz,Undirected,1
+Don,Ellen,Undirected,1
+E,Redando,Undirected,1
+E,H,Undirected,1
+H,Redando,Undirected,1
+Bianca,Ellen,Undirected,1
+Bianca,Manuel Frania,Undirected,1
+Don Redando,Manuel,Undirected,3
+Georg,sandl,Undirected,1
+Don Redando,sandl,Undirected,1
+Don Redando,ester,Undirected,1
+Don Redando,Georg,Undirected,5
+Ellen,Nøverløjtnantcns,Undirected,1
+Gud,Redando,Undirected,2
+Gomes,Mannel Frania,Undirected,1
+Mannel Frania,Redando,Undirected,1
+Ellen,Usto,Undirected,2
+Panla,Redando,Undirected,3
+Ellen,Panla,Undirected,2
+Paulas Ansigf,Redando,Undirected,1
+Atlaskes,Paulas Ansigf,Undirected,1
+Juan,Paula,Undirected,5
+Bianca,Mutter,Undirected,1
+Redando,lM,Undirected,1
+Juan,Ng,Undirected,1
+Frøkm,Ng,Undirected,1
+Donna Ellens,Mannel,Undirected,1
+Don Blas,j Mannel,Undirected,1
+Krast,Redando,Undirected,1
+Lorenzo,Rendando,Undirected,1
+Ester,Paula,Undirected,1
+Lorenzo,Redando,Undirected,1
+Redando,hall,Undirected,1
+Hnn,Redando,Undirected,2
+Redando,ban,Undirected,1
+ban,bendc,Undirected,1
+ban,ban knu,Undirected,1
+ban knu,bun,Undirected,1
+ban,bun,Undirected,3
+Manuel,bun,Undirected,1
+Paula,hnn,Undirected,1
+Don Juan Redando,Ellen,Undirected,2
+Don Juan Redando,Mannel,Undirected,1
+Dez,Redando,Undirected,1
+Juan,Panla,Undirected,1
+Ellen,Juan,Undirected,9
+Lorenzo,Paula,Undirected,1
+Ellen,Lorenzo,Undirected,1
+Mannel,Usto,Undirected,2
+Don Blas,Usto,Undirected,3
+Juan,Redando,Undirected,1
+Don Blas,Paula,Undirected,1
+Don Blas,Ellen,Undirected,1
+Don Blas,sfal,Undirected,1
+Don Blas,sorhaaner,Undirected,1
+Don,Don Redando,Undirected,1
+Ieg,Manuel,Undirected,1
+Manuel,Tnngc Don Blas,Undirected,1
+Bianca,Pedro,Undirected,1
+Asten,Bianca,Undirected,1
+Asten,Redando,Undirected,1
+Georg,Pedro,Undirected,10
+Don Blas,Ilsto,Undirected,1
+Mannel,Moskito,Undirected,1
+Don Blas,Mannel,Undirected,1
+Usto,mindsfe,Undirected,1
+Usto,nun,Undirected,1
+Donna Ellen,Mannel,Undirected,1
+Pedro,Usto,Undirected,3
+Ellen,Pedro,Undirected,2
+Ellen,T,Undirected,1
+Bent,Bianka,Undirected,1
+Bent,Manuel,Undirected,1
+Redando,hm,Undirected,1
+Don Blas,Georg,Undirected,6
+Georg,HHtz ycd,Undirected,1
+D,Don Juan,Undirected,1
+Don Redando,Ladrone,Undirected,1
+Ladrone,Moskito,Undirected,1
+Georg,GæstH,Undirected,1
+Lee,Redando,Undirected,3
+Lee,von,Undirected,1
+Juan Redando,von,Undirected,1
+Don Blas,Juan Redando,Undirected,1
+Georg,Nsto,Undirected,1
+Nsto,Pedro,Undirected,1
+Nedandos,yannd,Undirected,1
+Don Mas,yannd,Undirected,1
+Hnn,Paula,Undirected,1
+Manuel,ban,Undirected,5
+Don Blas,ester,Undirected,1
+Juan Redando,ester,Undirected,1
+Don Rcdando,Georg,Undirected,2
+Georg,llstos,Undirected,1
+Manuel,Pedro,Undirected,5
+Georg,Gud,Undirected,2
+Ladrone,Manuel,Undirected,3
+Redando,hnn,Undirected,3
+EllenS,hnn,Undirected,1
+Don Blas,Pedro,Undirected,1
+Basa,Redando,Undirected,1
+Georg,Ladronc,Undirected,3
+Ellen,Tellw Redando,Undirected,1
+Ellen,LE,Undirected,1
+LE,Redando,Undirected,1
+Redando,feg,Undirected,1
+Georg,dein,Undirected,2
+Mannel,Redando,Undirected,1
+Gomes,Redando,Undirected,1
+-,Gomes,Undirected,1
+-,j,Undirected,1
+Mannel Frania,j,Undirected,1
+Aland,Mannel Frania,Undirected,1
+Redando,ber hnvbe,Undirected,1
+Manuel,Manuel Frania,Undirected,1
+Diego,Lucas,Undirected,11
+Juan Redando,Manuel Frania,Undirected,1
+Don Lucas,IM,Undirected,1
+Lucas,Moses,Undirected,15
+Hagel,Moses,Undirected,1
+L,Lucas,Undirected,1
+Abrahams,Moses,Undirected,1
+Am,Moses,Undirected,1
+Don Bartolomeo,hack,Undirected,1
+Romano,dans,Undirected,1
+Don Lucas,l«,Undirected,1
+Francesco Ring,Giralda,Undirected,1
+Don Lucas,Lucas,Undirected,2
+Don Lucas,Triana,Undirected,1
+Moses,Triana,Undirected,1
+Diego,Don Lucas,Undirected,1
+Diego,Dolores,Undirected,2
+Dolores,Lucas,Undirected,8
+Dolores,Elfenben,Undirected,1
+DoloreS,Lucas,Undirected,1
+Dolores,Hnn,Undirected,1
+Diego,Pepito,Undirected,1
+Pepita,Pepito,Undirected,1
+Dolores,Pepita,Undirected,2
+Diego,Pepita,Undirected,2
+Lucas,Pepita,Undirected,1
+Don Diego,Don Lucas,Undirected,1
+Greven,Pepita,Undirected,1
+Greven,eil,Undirected,1
+Don Diego,Pepita,Undirected,1
+Akand,Dolores,Undirected,1
+Romano,hnn,Undirected,1
+Dolores,hnn,Undirected,2
+iTriana,Øe,Undirected,1
+Dolores,iTriana,Undirected,1
+Carlina,Don Bartolomeo,Undirected,3
+,Lucas,Undirected,2
+Dolorcs,bMchl,Undirected,1
+Dolorcs,Hnn,Undirected,1
+Hnn,Romano,Undirected,1
+Lucas,ban,Undirected,1
+Carlina,hz,Undirected,1
+Dolores,Don Lucas,Undirected,2
+Dolores,Romano,Undirected,2
+Dolores,Don Bartolomeo,Undirected,1
+Carlina,DoloreS,Undirected,1
+Carlina,Dolores,Undirected,7
+D,Dolores,Undirected,1
+Carlim,Dolores,Undirected,1
+Daniel,Lucas,Undirected,1
+Aagerkarlen,Don Lucas,Undirected,2
+Lucas,bitter,Undirected,1
+Don Romano,Øe,Undirected,1
+Lucas,Vexler,Undirected,1
+Vexler,lian,Undirected,1
+Dolores,Moses,Undirected,1
+Diego,Don Redando,Undirected,1
+Don Redando,Hin Kafe,Undirected,1
+Lucas,fom,Undirected,1
+Don Lucas Montex,Lucas,Undirected,1
+Don Lucas Montex,d,Undirected,1
+Lucas,Mel,Undirected,1
+Diego,d,Undirected,1
+Lucas,Mesf,Undirected,1
+Don Lucas,Greve,Undirected,1
+Diego,Greve,Undirected,1
+Lucas,hem,Undirected,1
+Lucas,eil,Undirected,1
+Karl,eil,Undirected,1
+Aagerkarl,Lucas,Undirected,1
+Lucas,de Torre,Undirected,1
+Carlinns,Don Bartolomeo,Undirected,1
+Don Montex,Lucas,Undirected,1
+Daniel,Pedro,Undirected,1
+Juan,Pedro,Undirected,1
+Don Bartolomeo,Romano,Undirected,3
+Carlina,Don Lucas,Undirected,1
+Lucas,Øe,Undirected,1
+,Myndling,Undirected,1
+Bent,Georg,Undirected,1
+Georg,de Tom,Undirected,1
+Moses,hm,Undirected,1
+M,hm,Undirected,1
+Georg,Lucas,Undirected,2
+Bartolomeo,dm gamle,Undirected,1
+Manuel sz Georg,Redando,Undirected,1
+Carlina,Lee,Undirected,1
+Redando,Romano,Undirected,3
+Ellen,Romano,Undirected,4
+Carlina,Ellen,Undirected,10
+Don Bartolomeo,ll,Undirected,1
+Don Romano,ll,Undirected,1
+Romano,el,Undirected,1
+Hmsp,Romano,Undirected,1
+Hmsp,Mmneske-kender,Undirected,1
+Mmneske-kender,Romano,Undirected,1
+Aaqerkarlens,Don Bartolomeo,Undirected,1
+Aagcrknrlcns,Lucas,Undirected,1
+Lncas,Lucas,Undirected,1
+Don Romano,Lucas,Undirected,1
+Don Bartolomeo,Don Romano,Undirected,3
+Don Lucas haanlig,Moses,Undirected,1
+Aagerkarlen,Don Lums,Undirected,1
+Romano,haanlig,Undirected,1
+Don Romano,hnn,Undirected,1
+Aagerkarlen,Lucas,Undirected,1
+Carlina,Don Lncas,Undirected,1
+Don Bartolomeo,Don Lucas Monte,Undirected,1
+Don Bartolomeo,Jøden,Undirected,1
+Don Lucas,skondt Øe,Undirected,1
+Don Romane,Øe,Undirected,1
+Don Bartolomeo,Don Lucas Montez,Undirected,2
+Geong,Manuel,Undirected,1
+Don Bartolomeo,Moses,Undirected,3
+Bartolomeo,Lucas,Undirected,1
+Don Romano,Manuel,Undirected,2
+Don Barfolomeos,Manuel,Undirected,1
+M Georg,Mannel,Undirected,1
+Mannel,sam,Undirected,1
+atMMck,hnn,Undirected,1
+Hnn,luW,Undirected,1
+Dn,Manuel,Undirected,1
+Grev de Torre,Manuel,Undirected,1
+Dein,Hr. Greve,Undirected,1
+Georg m,d,Undirected,1
+Georg,Greem-melsc,Undirected,1
+Hr. Greve,Olivia,Undirected,1
+Georg,Ramon Osorio,Undirected,2
+Ramon,Ramon Osorio,Undirected,1
+N,Ramon,Undirected,2
+Jane,Ramon,Undirected,3
+Georg,Olivia,Undirected,3
+Grande,veg,Undirected,1
+Grev de Torre sen,de Torre jun.,Undirected,1
+Aland,Georg,Undirected,1
+Aland,Manuel,Undirected,4
+,Moses,Undirected,1
+Georg,Ramon Ososio,Undirected,1
+Aagerkarl,Georg,Undirected,1
+Bent,Mannel,Undirected,1
+Georg,Moses,Undirected,3
+Dn,Moses,Undirected,1
+Karl,Mannel,Undirected,1
+Moses,endnn,Undirected,1
+endnn,sif,Undirected,1
+Dolkespidseu,Manuel,Undirected,1
+Georg,Sune,Undirected,1
+Manuel,Moses,Undirected,1
+Georg den tunge,Manuel,Undirected,1
+Felleis,Georg den tunge,Undirected,1
+Aagerkarlen,Felleis,Undirected,1
+Felleisen,Pedro,Undirected,1
+Don Lucas,Georg,Undirected,2
+Manuel,Tu,Undirected,1
+Don Lucas,Kaarde,Undirected,1
+Lucas Monte,Ramon Osorio,Undirected,1
+Don Lucas,Osorio,Undirected,1
+Osorio,yar,Undirected,1
+Aagerkarl,yar,Undirected,1
+Aagerkarl,tbi,Undirected,1
+Moses,tbi,Undirected,1
+Moses,hnn,Undirected,1
+Ieg,hnn,Undirected,1
+Dc,Ieg,Undirected,1
+Olivie,de Torre,Undirected,1
+Moses,Ølivie,Undirected,1
+de Torre,Ølivie,Undirected,1
+Moses,yan,Undirected,1
+oz,yan,Undirected,1
+LucaS,mi,Undirected,1
+Binduct,mi,Undirected,1
+Ieg,Lucas,Undirected,1
+Gabriel,Lucas,Undirected,1
+Don Bartolomeo,Ellen,Undirected,1
+Redando,sari,Undirected,1
+Don Tristan,Vera,Undirected,1
+Georg,de Torre,Undirected,1
+Frøken Ellens,Manuel,Undirected,1
+Pedro,Redando,Undirected,1
+Georg,Romano,Undirected,1
+Don Lucas,ban,Undirected,2
+ban,son,Undirected,1
+Lucas,son,Undirected,1
+,Don Lucas,Undirected,2
+Don Lucas Montez,Moses,Undirected,1
+Don Romano,Moses,Undirected,1
+Don Romano,Ingling,Undirected,1
+Don Romano,hin,Undirected,1
+Moses,ban,Undirected,1
+Don 8ms,Mn Moses,Undirected,1
+Mn Moses,dein,Undirected,1
+Don Romano,Romano,Undirected,1
+Hnn,Lucas,Undirected,1
+Flora,Ræna,Undirected,8
+Ræma,hnn,Undirected,1
+Dn,Flora,Undirected,2
+Georg,Redando fjermere,Undirected,1
+Ellen,Redando fjermere,Undirected,1
+Don Bernardo Lesset,Don Manuel,Undirected,1
+Don Bcrnardos,Manuel,Undirected,1
+Don Bernardo,Manuel,Undirected,1
+Don Bernardo,Ræna,Undirected,2
+Donna Carlina,Donna Ræna,Undirected,1
+Donna Carlina,Donna Ellen,Undirected,1
+Don Redando,Donna Ellen,Undirected,1
+Don Redando,Donna Carlina,Undirected,1
+Don Romano,Donna Carlina,Undirected,2
+Don Romano,fom,Undirected,1
+Ræna,fom,Undirected,1
+Grev de Versata,Manuel,Undirected,1
+Don Bernardo,Grev de Versata,Undirected,1
+Ellen,Georg koldl,Undirected,1
+Bernardo,Redando,Undirected,1
+Manuel Frania,de Versata,Undirected,1
+Maar,Manuel Frania sfrækket,Undirected,1
+Ellen,Losek,Undirected,1
+Losek,Texesa,Undirected,1
+Georg,Texesa,Undirected,1
+Georg,Ræna,Undirected,7
+Don Juan,Manuel,Undirected,1
+Dn,Georg,Undirected,2
+Dn,Redando,Undirected,2
+Don Redando,Grev de Versata,Undirected,1
+Donna Ræna,Redando,Undirected,1
+Donna Ræna,Georg,Undirected,2
+Flora,Ræma,Undirected,1
+Donna Ellen,hnn,Undirected,1
+Flora,Grev Manuel,Undirected,1
+Flora,helsf,Undirected,1
+Don Manuel,Ræna,Undirected,1
+Flora,Ræena,Undirected,1
+Georg Grevens,Manuel,Undirected,1
+Lin,Manuel,Undirected,1
+Georg,hnn,Undirected,1
+Manuel,Ræna,Undirected,19
+Flora,Manuel,Undirected,2
+Don Manuel,Flora,Undirected,1
+Mannel,nein,Undirected,1
+Ræna,nein,Undirected,1
+Georg,Ræena,Undirected,1
+Donna Ræna,Hr. Greve,Undirected,1
+Donna Ræna,Manuel,Undirected,1
+Grev de Torre,Ræna,Undirected,1
+Mannel,Ræna,Undirected,6
+Gud,Ræna,Undirected,1
+Bent,Donna Ræna,Undirected,1
+Greven,Ræna,Undirected,1
+Georg bavde,Manuel Frania,Undirected,1
+Donna,Ræna,Undirected,2
+Carl,Henrik,Undirected,1
+Baronesse Røder,Hilda,Undirected,1
+Baronesse Røder,Elisa von Waldow,Undirected,1
+Carl,Pisfoler,Undirected,1
+Ditlev,Teresa,Undirected,2
+Carl,Ditlev,Undirected,3
+Carl,saaret,Undirected,1
+Carmen,Ditlev,Undirected,1
+Carmen,Rosa,Undirected,1
+Hnn,Panla,Undirected,1
+Ditlev,Vexler,Undirected,1
+Don,Eisenfresser,Undirected,1
+de Torre,fig,Undirected,1
+Mannel Frania,de Torre,Undirected,1
+Georg,Ladrone,Undirected,7
+Ladrone,Mannel Frania,Undirected,1
+Donna Ræna,Greven,Undirected,1
+Donna Ræna,Ladrone,Undirected,1
+Greven,Manuel,Undirected,1
+Georg,son,Undirected,1
+Georg,tvers,Undirected,1
+Georg,strax,Undirected,1
+Carlina,Redando,Undirected,2
+Carlina,Don Romano,Undirected,1
+Carlina,Don Redands,Undirected,1
+Lucas,Redando,Undirected,1
+Dolores,Redando,Undirected,3
+Carlina,Dolorcs,Undirected,2
+Ellen,l,Undirected,1
+Dolorcs,Ellen,Undirected,1
+Ellen,siq,Undirected,1
+Redando,Øbersten,Undirected,1
+Don Romano,Øbersten,Undirected,1
+Dolores,Don Lucas Montez,Undirected,1
+Gud,Lucas,Undirected,1
+Dolores,flies,Undirected,2
+Lucas,Straa,Undirected,1
+Dolores,Straa,Undirected,1
+Dolores,Mimr,Undirected,2
+Dolores,sif,Undirected,1
+Ester,Hnn,Undirected,1
+Don Lucas,Redando,Undirected,1
+Don Lucas,Don Redando,Undirected,1
+Don Blas,sknlde,Undirected,1
+Mcdmenneskes,Redando,Undirected,1
+Manuel,mat,Undirected,1
+Manuel,fig fil Ladronc,Undirected,1
+Ladrone,barsi,Undirected,1
+Anbcbnring,Georg,Undirected,1
+Ladronc,Manuel Frania,Undirected,1
+Frania,Manuel,Undirected,1
+Georg,ber,Undirected,1
+Næna,Ræna,Undirected,1
+Georg,Manncl,Undirected,1
+Georg,vidsfe,Undirected,1
+Manuel,vidsfe,Undirected,1
+Alma,Ellen,Undirected,1
+Donna Rænæ,Ellen Lee,Undirected,1
+Don Bartolomeo,Donna Carlina,Undirected,1
+Cnrlina,Lucas,Undirected,1
+Don,Juan,Undirected,1
+Ditlev,St. Hubert,Undirected,1
+Henrik leende,Mamas,Undirected,1
+Mama,Mamas,Undirected,1
+Ditlev,Henrik,Undirected,6
+Carl Moor,Schiller,Undirected,1
+Ditlev,von Breda,Undirected,1
+Eskadron,Lucifer,Undirected,1
+Grevinde Sarsons,Manons,Undirected,1
+Georg,Ieg,Undirected,2
+Georg,fransf,Undirected,1
+Ditlev,Georg,Undirected,10
+Knn,ban,Undirected,1
+Mannel,ban,Undirected,1
+Mannel,sfedse fabt,Undirected,1
+Manuel,fabt,Undirected,1
+Ræna,fabt,Undirected,1
+Don Fcrnardo,Donna Marie,Undirected,1
+eil,nudens,Undirected,1
+Jane,Olivia,Undirected,1
+August Pates,Don Fernando,Undirected,1
+Don Fernando,hnn,Undirected,1
+Greven,Marie,Undirected,1
+Bisf,Tu,Undirected,1
+Jane,Pato,Undirected,1
+Jane,Marie,Undirected,1
+Fernando,Olivia,Undirected,2
+Olivia,sorn,Undirected,1
+hnn,sorn,Undirected,1
+Fernando,Ramon Osorio knn,Undirected,1
+Donna Marie,Fernando,Undirected,1
+Hnn,Olivia,Undirected,1
+Fernando,Hnn,Undirected,1
+Greven,Ieg,Undirected,1
+Ieg,Olivia,Undirected,1
+Olivia,Ramon,Undirected,1
+Fernando,ester,Undirected,1
+Donna Marie,lian,Undirected,1
+Frania,Manncl,Undirected,1
+Frania,Greven,Undirected,1
+Greven,Pedro,Undirected,1
+Georg,Ten as,Undirected,1
+Pisfoler,tkl Manuel Franias,Undirected,1
+Manuel Frania,ban,Undirected,1
+Grevm,ban,Undirected,1
+Osorio,Wert,Undirected,1
+Wert,ban,Undirected,1
+Grev de Monter,fortairc,Undirected,1
+Grev de Monter,Manuel Frania,Undirected,1
+Dei,hnn,Undirected,1
+Osorio,hnn,Undirected,1
+Greven,Olivia,Undirected,1
+Papa,liam,Undirected,1
+Greven,Papa,Undirected,1
+Greven,ban,Undirected,1
+Olivia Osorio,ban,Undirected,1
+Monteræ,hnn,Undirected,1
+Ræna,de Versata,Undirected,1
+Don Diego,Ræna,Undirected,2
+Greven,d ' Aknna,Undirected,1
+Diego,Ræna,Undirected,4
+Donna Ræna,Manuel Frania,Undirected,1
+Ellen Lee,Ræna,Undirected,1
+Alma,Redando,Undirected,1
+Ellen,Ræna,Undirected,1
+Don Redando,Ræna,Undirected,2
+Kamena,Teresa,Undirected,1
+Donna,Teresa,Undirected,1
+Donna Ræna,Grev de Versata,Undirected,1
+Manuel,hnn,Undirected,1
+Manuel,Næna,Undirected,2
+Pedro —,sorn,Undirected,1
+ban,sorn,Undirected,1
+Donna Ræna,Vampa,Undirected,1
+Frøken Teresa,Pedro,Undirected,1
+Donna Ræna,Frøken Teresa,Undirected,1
+Pedro,ban,Undirected,1
+l > n,swrl Formall Hem,Undirected,1
+dan ivrang,l > n,Undirected,1
+Krwns,aadendarr,Undirected,1
+Lei,fro ver WsttzL^,Undirected,1
+Lei,yrrves,Undirected,1
+Ellen ny Redando sild,Leri ester staadu,Undirected,1
+ingdr,ril Kns,Undirected,1
+Obersten,Redando,Undirected,1
+Ellen,lille Papa,Undirected,1
+Juan,Obersfen,Undirected,1
+Gud,Juan,Undirected,1
+,Obersf Lec,Undirected,1
+de Versata,dei,Undirected,1
+Diego,de Versata,Undirected,1
+Donna Ræna,Giffermaal,Undirected,1
+Hnn,Ræma,Undirected,1
+Ranms,Ræma,Undirected,1
+Alma,Ranms,Undirected,1
+Ræna,hnn,Undirected,2
+Diego,hnn,Undirected,1
+Diego,Don Bernardo,Undirected,2
+Cadix,Ellen,Undirected,1
+Cadix,Lee,Undirected,1
+Dn,Juan,Undirected,1
+Don Jnan,Haneben,Undirected,1
+Panla,yun,Undirected,1
+Dn,Paula,Undirected,1
+Mama,Paula,Undirected,1
+Angelika,Teresa,Undirected,1
+Ditlev von Breda,Henrik,Undirected,3
+Damen,Ræna,Undirected,1
+Manuel,ester,Undirected,1
+Ræna,ester,Undirected,1
+Donna Ræna,Pedro,Undirected,1
+Dn,Mannel,Undirected,1
+Ieg,Mannel,Undirected,1
+Mannel Frania,Pedro ctusiastisk,Undirected,1
+Manuel,ikkeUilbage,Undirected,1
+Ellen,Teresa,Undirected,1
+Aland,Ellen,Undirected,1
+Manuel,son,Undirected,1
+Ræna,son,Undirected,1
+Ræna,Taflets,Undirected,1
+Don Diego,Greve d ,Undirected,1
+Ræna,ane,Undirected,1
+Digo,Ræna,Undirected,1
+Dicgo,Ræna,Undirected,1
+Dicgo,oz,Undirected,1
+Diego,de Torre,Undirected,1
+Manuel Frania,de Torre,Undirected,1
+Manuel Frania,Ræna,Undirected,1
+Diego,Manuel,Undirected,2
+Bernardo,Manuel,Undirected,1
+Don Juan Redando,Georg,Undirected,1
+Georg,Henrik,Undirected,2
+Georg,de Versata,Undirected,1
+Georg,Piet,Undirected,1
+Henrik,Redando,Undirected,3
+Redando,Rybesal,Undirected,1
+Ditlev leende,Don Juan,Undirected,1
+Don Georg,Don Juan,Undirected,1
+Don Juan,Henrik,Undirected,1
+Bergen,von Rotenstcin,Undirected,1
+lian,von Rotenstcin,Undirected,1
+Bergen,Rotenstein,Undirected,1
+Georg,nein Uuggc,Undirected,1
+Don Fernando,Ester,Undirected,1
+GeorgS,Redando,Undirected,1
+Aldra,Georg,Undirected,1
+Aldra,Mercedes,Undirected,2
+Mercedes,line,Undirected,1
+Mercedes,ban,Undirected,1
+Ieg,Mercedes,Undirected,1
+.,Ieg,Undirected,1
+Aldra,Ieg,Undirected,2
+Ieg,nein,Undirected,1
+Mercedes,nein,Undirected,1
+Dein,Mercedes,Undirected,1
+Dein,kim,Undirected,1
+Mercedes,Olivia,Undirected,1
+Greve,Olivia,Undirected,1
+Fernando,Greve,Undirected,1
+Martin,Mercedes,Undirected,2
+Baleiro,Martin,Undirected,1
+Grev d,Manuel Frania,Undirected,1
+' Obinje,Grev d,Undirected,1
+Don Ditlev,Georg,Undirected,1
+Diana,Post,Undirected,1
+Don Redando,Kægerlatin,Undirected,1
+Dorn,ester,Undirected,1
+Ellen Lee,Georg,Undirected,1
+Ellen,Ellen Lee,Undirected,1
+Ellen,Henrik,Undirected,1
+Ditlev,Ellen,Undirected,1
+Ditlev,Redando,Undirected,3
+Næna,Redando,Undirected,1
+Henrik,Usto,Undirected,1
+Don Jnan Redando,Usto,Undirected,1
+Don Jnan Redando,Georg,Undirected,1
+Mannel,Manuel,Undirected,1
+Henrik,Paula,Undirected,1
+Mannel Frania,Paula,Undirected,1
+Ditlev von Breda,Georg,Undirected,1
+Ditlev von Breda,Ladrone,Undirected,1
+Georg,Sancho,Undirected,2
+Don Henrik,Sancho,Undirected,1
+Don Ditlev,Don Henrik,Undirected,2
+Carl,Usto,Undirected,1
+Knnsten,Paula,Undirected,1
+Dein,Paula,Undirected,1
+Paula,ester,Undirected,1
+bos Barnet,son,Undirected,1
+Don Henrik,son,Undirected,1
+Don Henrik,bun,Undirected,1
+bun,dorr,Undirected,1
+Alan,dorr,Undirected,1
+Alan,Baris,Undirected,1
+Ditlev,ban,Undirected,1
+Paula,ban,Undirected,1
+Ditlev,Paula,Undirected,1
+Don Bernardo Lesset,Ladrone,Undirected,1
+Don Bernardo,Don Jeremias,Undirected,1
+Don Jeremias,Ladrone,Undirected,1
+Dsren,Ladrone,Undirected,1
+Dsren,ban,Undirected,1
+as,ban,Undirected,1
+as,yvor,Undirected,1
+ban,yvor,Undirected,1
+ban,livor Ladrone,Undirected,1
+Georg,livor,Undirected,2
+Pedro,Rutter,Undirected,1
+Manuel,Rutter,Undirected,1
+Georg,Saaret,Undirected,1
+Georg,Saar,Undirected,1
+Ræna,von Breda,Undirected,1
+Cesina,Redando,Undirected,1
+Cesina,Don Redando,Undirected,1
+Eesina,Georg,Undirected,1
+Cestna,Don Georg,Undirected,1
+Don Redando,Jacob,Undirected,1
+Redando,fom,Undirected,1
+Georg,fom,Undirected,1
+Redando,fom Don Ditlev,Undirected,1
+Georg,dm,Undirected,1
+Pam,Redando,Undirected,1
+Georg rasf,Redando,Undirected,1
+Redando,paany Kamret,Undirected,1
+Georg,vemodig,Undirected,1
+Baron Breda,Henrik,Undirected,1
+Baron Breda,Don Bernardo,Undirected,1
+Don Georg,Georg,Undirected,1
+Henrik,Kong Henrik“,Undirected,1
+Bertrand du Gucslin,Henrik,Undirected,1
+Bertrand du Gucslin,Don Pedro,Undirected,1
+Georg,Sevrenesti,Undirected,1
+Georg,lian,Undirected,1
+Sevevesti,lian,Undirected,1
+Manuel Frania,son,Undirected,1
+Francesco,Rcdando,Undirected,1
+Georg,Rcdando,Undirected,1
+Francesco,Georg,Undirected,1
+Karl,Redando,Undirected,1
+Francesco rolig,Karl,Undirected,1
+lmm,lmn,Undirected,1
+Georg,Redandø,Undirected,1
+Pepe,Redando,Undirected,1
+Fabian,Pepe,Undirected,1
+Fabian,Francesco,Undirected,1
+Bjørn,Redando,Undirected,1

@@ -1,0 +1,186 @@
+source,target,type,weight
+Henriette,Petersen,Undirected,42
+Gud,Petersen,Undirected,19
+Hr. Petersen,Petersen,Undirected,4
+Gud,Jensen,Undirected,1
+Petersen,voxen,Undirected,1
+Jomfru Lindau,Lindau,Undirected,1
+Jensen,Kristian Fredriksen,Undirected,1
+Kristen,Marie,Undirected,11
+Fiskers,Marie,Undirected,1
+Gud,Jette,Undirected,1
+Gud,Hr. Petersen,Undirected,2
+Frederiksens,Hr. Petersen,Undirected,1
+Frøken Lindau,Jettemo,Undirected,1
+Frøken Lindau,Henriette,Undirected,1
+Gud,Henriette,Undirected,4
+Henriette,Henrik,Undirected,54
+Henrik,Lange,Undirected,1
+Greves,Henrik,Undirected,2
+Henriette,Marie,Undirected,82
+Lærke,Marie,Undirected,1
+Henriette,Lærke,Undirected,1
+Krusemynte,Thimian,Undirected,1
+Marie,Petersen,Undirected,47
+Jørgensens,Kristen,Undirected,1
+Henrik,Petersen,Undirected,26
+Henrik,Marie,Undirected,7
+Greves,Henriette,Undirected,1
+Gud,Marie,Undirected,17
+Gud,Ole,Undirected,1
+Anders Skævben,Marie,Undirected,1
+Anders Skævben,Ole,Undirected,1
+Anders Skævben,Petersen,Undirected,1
+Anders Skjævben,Henriette,Undirected,1
+Anders Skjævben,Marie,Undirected,2
+Anders,Petersen,Undirected,1
+Anders,Marie,Undirected,1
+Marie,Ole,Undirected,15
+Ole,Petersen,Undirected,8
+Hr. Petersen,Ole,Undirected,1
+. Petersen,Anders Skjævben,Undirected,1
+Marig,Ole,Undirected,1
+Marig,somme,Undirected,1
+Anders,Anders Skjævben,Undirected,1
+Anders Skjævben,Ole,Undirected,6
+Anders,Ole,Undirected,1
+Marie,Zigeunere,Undirected,1
+Marie,Zigeuneren,Undirected,9
+Klodrian,Zigeuneren,Undirected,1
+Ole,Zigeuneren,Undirected,2
+Anders Skjævben,Zigeuneren,Undirected,1
+Jerl,Marie,Undirected,1
+Anders Skjævben,Petersen,Undirected,1
+Henriette,Plejemoders,Undirected,1
+Gud,Plejemoders,Undirected,1
+Frøken Henriette,Petersen,Undirected,2
+Frøken Lindau,Petersen,Undirected,4
+Hr. Petersen,Marie,Undirected,3
+Greve,Gud,Undirected,1
+Henriette,Henriette Hansen,Undirected,1
+Grevinden,Gud,Undirected,1
+Jensen,Jomfru Jensen,Undirected,1
+Henriette,Jomfru Jensen,Undirected,1
+Henriette,Lærkens,Undirected,1
+Henriette,Hr. Petersen,Undirected,3
+Henriette,Mutter,Undirected,1
+Henriette,Moer,Undirected,1
+Gud,Moer,Undirected,1
+Baron Høgh,Petersen,Undirected,2
+Henriette,Høgh,Undirected,2
+Høgh,Petersen,Undirected,4
+Hansens,Høgh,Undirected,1
+Hansens,Henrik,Undirected,1
+Kunz,Petersen,Undirected,1
+Kunz,Mus,Undirected,1
+Jægermester Kunz,Tind,Undirected,1
+Jægermester Kunz,Petersen,Undirected,1
+Homer,Petersen,Undirected,1
+Nau-,sikaa,Undirected,2
+Petersen,sikaa,Undirected,2
+Nau-,Odysseus,Undirected,1
+Frøken Hansen,sikaa,Undirected,1
+Kirtov,Nausikaa,Undirected,1
+Nausikaa,Petersen,Undirected,2
+Hr. Petersen,Høgh,Undirected,1
+Frøken Hansen,Petersen,Undirected,1
+Henrik,Kunz,Undirected,2
+Flun,Petersen,Undirected,2
+Hen-,riette,Undirected,1
+Henrik,riette,Undirected,2
+Hr. Petersen,rik,Undirected,1
+Petersen,tersen,Undirected,1
+Petersen,lunde,Undirected,1
+Henrik,kjære Petersen,Undirected,2
+Grevinden,Henriette,Undirected,1
+Hansen,Henriette,Undirected,2
+Henriette,Kunz,Undirected,1
+Henrik,Hr. Petersen,Undirected,1
+Grevinden,Petersen,Undirected,5
+Gud,Henrik,Undirected,2
+Henrik,Høgh,Undirected,7
+Petersen,kelse,Undirected,2
+Grev Henrik,Petersen,Undirected,1
+Henriette,den,Undirected,1
+Gud,rie,Undirected,1
+Marie,Mo,Undirected,1
+Mo,Ole,Undirected,1
+Aaens,Marie,Undirected,1
+Fins,Petersen,Undirected,1
+Grev Henrik,Henriette,Undirected,1
+Jakob,Rachel,Undirected,1
+Fisker,Henriette,Undirected,1
+Fisker,Marie,Undirected,1
+Somme,somme,Undirected,1
+Graad,Marie,Undirected,1
+Graad,Henriette,Undirected,1
+Lærken,Marie,Undirected,1
+Karl,Marie,Undirected,1
+Hansen,ømmel,Undirected,1
+Henriette,Madsen,Undirected,5
+Gud,Madsen,Undirected,1
+Henriette,Hr. Madsen,Undirected,1
+Madsen,Marie,Undirected,11
+Kristen,Madsen,Undirected,3
+Henriette,Kristen,Undirected,2
+Fini,Kristen,Undirected,1
+Dans,Marie,Undirected,1
+Madsen,Mette,Undirected,3
+Jomfru Marie,Mette,Undirected,1
+Jomfru Marie,Marie,Undirected,1
+Marie,Mette,Undirected,2
+Hr. Madsen,Marie,Undirected,2
+Hr. Madsen,Madsen,Undirected,2
+Madsen,Mammesel,Undirected,2
+Gud,Hr. Madsen,Undirected,1
+Hr. Madsen,Mette,Undirected,1
+Henriette,riette,Undirected,1
+Henriette,Schawl,Undirected,1
+Joli,Schawl,Undirected,1
+Henrik,Joli,Undirected,1
+Frøken Hansen,Henrik,Undirected,2
+Joli,riette,Undirected,1
+Lindau,Trebelli,Undirected,1
+Marie,Plysses,Undirected,1
+Petersen,Plysses,Undirected,1
+Hansen,Petersen,Undirected,1
+Frøken Hansen,riette,Undirected,1
+Petersen,riette,Undirected,1
+Henriette,Henriette kjær,Undirected,1
+Henriette kjær,Petersen,Undirected,1
+Mus,lille Maren,Undirected,1
+Gud,Maren,Undirected,1
+Gud,Peter,Undirected,2
+Christian Winther,Peter,Undirected,1
+Maren,Petersen,Undirected,2
+Paulus,Svend,Undirected,1
+Jesus,Paulus,Undirected,1
+Petersen,Zigeuneren Petersen,Undirected,2
+Petersen,Zigeuneren,Undirected,3
+Karle,Marie,Undirected,1
+Karle,Petersen,Undirected,1
+Petersen,be-,Undirected,1
+Marie,be-,Undirected,1
+Petersen,Zigeuner,Undirected,1
+Gud,sorn,Undirected,1
+Anders   ,Petersen,Undirected,1
+Anders   ,Marie,Undirected,1
+Ole,Peter,Undirected,1
+Mads,Peter,Undirected,1
+Mads,Poul,Undirected,1
+Hr. Petersen,Lærke,Undirected,1
+Gud,Lærke,Undirected,1
+Høgh,Marie,Undirected,1
+Henriette,kjørte Petersen,Undirected,1
+Jens,Ole,Undirected,1
+Jens,Petersen,Undirected,1
+Jens,Marie,Undirected,3
+Karl,Petersen,Undirected,1
+Jens,lille Frue,Undirected,1
+Petersen,hans   ,Undirected,1
+hans   ,hans Jamren,Undirected,1
+Ingemanns,Petersen,Undirected,1
+Henriette,Ingemanns,Undirected,1
+Henrik,Jens,Undirected,3
+Henriette,Jens,Undirected,1
+Marie,bleve Petersen,Undirected,1

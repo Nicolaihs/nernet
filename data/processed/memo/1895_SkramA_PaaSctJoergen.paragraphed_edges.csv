@@ -1,0 +1,210 @@
+source,target,type,weight
+Else,Hieronimus,Undirected,17
+Knut,Knuts,Undirected,1
+Else,Knut,Undirected,19
+Jørgen,Knut,Undirected,2
+Else,saurgte,Undirected,1
+Else,hækled,Undirected,2
+Else,livis,Undirected,2
+gud,mørk,Undirected,1
+Else,åf tågedisen,Undirected,2
+Else,gud,Undirected,8
+Hieronimus,ilive,Undirected,2
+Hieronimus,Jørgen varsom,Undirected,2
+Else,Jørgen,Undirected,2
+Else,Frk. Schrader,Undirected,11
+Else,boaen,Undirected,1
+Frk. Schrader,frk. Schrader,Undirected,1
+Else,Maren,Undirected,23
+Else,frk. Stenberg,Undirected,1
+Hieronimus,gud,Undirected,1
+Seneke,gud,Undirected,3
+Maren,Seneke,Undirected,1
+Maren,gud,Undirected,1
+Seneke,sjall,Undirected,3
+Else,Seneke,Undirected,1
+Seneke,hytted,Undirected,1
+Else,stakkel,Undirected,1
+Jørgen,Vibe,Undirected,1
+Vibe,gud,Undirected,1
+Else,Vibe,Undirected,6
+Hieronimus,frk. Schrader,Undirected,1
+Hieronimus,Maren,Undirected,1
+Else,klora,Undirected,1
+Henderson,frk. Hall,Undirected,4
+Else,Idetheletat,Undirected,1
+Frants,Henderson,Undirected,5
+Frants,frk. Hall,Undirected,1
+Flun,frk. Hall,Undirected,1
+Else,nornen,Undirected,11
+Else,frk. Hall,Undirected,44
+Else,Henderson,Undirected,18
+Else,Nornen,Undirected,6
+Else,frk. Schrader,Undirected,38
+Maren,nornen,Undirected,1
+Else,sjall,Undirected,2
+Henderson,Kant,Undirected,1
+Else,sely,Undirected,1
+Sejer,frk. Schrader,Undirected,1
+Else,Sejer,Undirected,4
+dr. Sejer,frk. Schrader,Undirected,1
+Else,frk. Thomsen,Undirected,65
+frk. Schrader,frk. Thomsen,Undirected,8
+Henderson,frk. Thomsen,Undirected,2
+Kant,frk. Thomsen,Undirected,3
+Else,Frants,Undirected,2
+Else,Frk. Thomsen,Undirected,8
+frk. Thomsen,pegte,Undirected,1
+Schrader,inge,Undirected,1
+Maren,Schrader,Undirected,1
+Maren,frk. Thom-,Undirected,1
+Vengt,vengt,Undirected,1
+Tys,frk. Thomsen,Undirected,1
+Petrus,frank,Undirected,1
+Else,frank,Undirected,2
+Else,ilive,Undirected,1
+Kant,frk. Schrader,Undirected,1
+Maren,frk. Schrader,Undirected,5
+Anne,Else skotted,Undirected,1
+Else skotted,Maren,Undirected,1
+Anne,Maren,Undirected,7
+Henderson,nornen,Undirected,1
+Anne,Else,Undirected,16
+Anne,Schrader,Undirected,1
+Else,Schrader,Undirected,4
+Else,bode frk. Hall,Undirected,2
+Frk. Thomsen,frk. Hall,Undirected,5
+frk. Hall,frk. Thomsen,Undirected,15
+Hall,frk. Hall,Undirected,1
+Hall,frk. Thomsen,Undirected,3
+Anne,Kant,Undirected,3
+Anne,frk. Hall,Undirected,3
+Henderson,drejed,Undirected,1
+Else,Winther,Undirected,7
+Winther,pegte,Undirected,1
+Eriksen,Winther,Undirected,2
+Winther,påny,Undirected,1
+Peter,Winther,Undirected,1
+Else,Peter,Undirected,1
+Peter,mamma,Undirected,1
+frk. Schrader,mamma,Undirected,1
+Else,frk. Schrader taug,Undirected,1
+Nå,nå,Undirected,1
+nå,trued,Undirected,1
+frk. Schrader,trued,Undirected,1
+Henderson,Maren,Undirected,4
+Frk. Schrader,Maren,Undirected,1
+Vibe,frk. Schrader,Undirected,5
+Hieronimus,Vibe,Undirected,1
+Sejer,frk. Hall,Undirected,1
+Else,Frk. Hall,Undirected,8
+Else,Tvede,Undirected,4
+Else,servanten,Undirected,1
+Frk Hall,frk. Hall,Undirected,1
+Frk Hall,hodegjærde,Undirected,1
+Else,hodegjærde,Undirected,1
+Else,Hall,Undirected,3
+Hall,frk.,Undirected,1
+frk. Hall,kurred,Undirected,1
+frk. Thomsen,kurred,Undirected,1
+frk. Thomsen,røngte,Undirected,1
+Kant,frk. Hall,Undirected,4
+frk. Thomsen,liun,Undirected,1
+Anne,Henderson,Undirected,1
+Maren,Vibe,Undirected,1
+Henderson,Kloral,Undirected,1
+Else,norne,Undirected,1
+norne,nornen,Undirected,1
+Sibylle,nor,Undirected,2
+Flun,Henderson,Undirected,1
+Henderson,Mørcks,Undirected,1
+frk. Hall,stansed,Undirected,1
+Else,Inger,Undirected,1
+Else,mamma,Undirected,1
+Inger,gutten,Undirected,1
+gutten,mamma,Undirected,1
+Else git,frk. Thomsen,Undirected,2
+Anne,Else stansed,Undirected,1
+Else stansed,frk. Thomsen,Undirected,1
+Maren,frk. Thomsen,Undirected,6
+Anne,frk. Nielsen,Undirected,1
+Else,Frk. Nielsen,Undirected,1
+Maren,sjall,Undirected,1
+Hugafen,frk. Hall,Undirected,1
+Gud,Kant,Undirected,1
+Henderson,Mørck,Undirected,1
+Winther,hode,Undirected,1
+Else,flou,Undirected,1
+Winther,flou,Undirected,1
+Else taug,frk. Thomsen,Undirected,1
+Else,Kristus,Undirected,1
+Else,Thomsen,Undirected,1
+Hall,Thomsen,Undirected,1
+frk. Hall trued,frk. Thomsen,Undirected,1
+Hall,nå,Undirected,1
+gud,véd,Undirected,1
+Jørgen,Kant,Undirected,1
+Else,Kant,Undirected,4
+L’,frk. Schrader,Undirected,1
+Else,frk Hall,Undirected,1
+Anne,frk. Schrader,Undirected,1
+Else,Gud,Undirected,2
+Frk. Hall,frk. Thomsen,Undirected,2
+frk. Thomsen,ignen,Undirected,1
+hagen,ignen,Undirected,1
+Frk. Hall,hagen,Undirected,1
+frk. Hall,frk. Schrader,Undirected,2
+Frk. Hall,frk. Hall,Undirected,1
+Else,Inger-,Undirected,1
+Else,dr. Vibe,Undirected,1
+dr. Sejer,dr. Vibe,Undirected,1
+Vibe,madam Nilsen,Undirected,1
+Else,madam Nilsen,Undirected,6
+Else,hu,Undirected,1
+hu,spenser,Undirected,1
+Henderson pilsnart,frk. Thomsen,Undirected,1
+Else,Henderson pilsnart,Undirected,1
+Anne,Seneke,Undirected,2
+Anne,Gud,Undirected,1
+Gud,norner,Undirected,1
+Else vaa-,raisonnerte,Undirected,1
+Else,raisonnerte,Undirected,1
+Frk. Schrader,frk. Thomsen,Undirected,1
+Frk. Schrader,frk. Hall,Undirected,1
+Frk. Thomsen,Hall,Undirected,1
+frk. Hall,gud,Undirected,1
+Hall,gud,Undirected,1
+Anne,frk. Thomsen,Undirected,1
+Hein,Knut,Undirected,1
+Hieronimus,Knut,Undirected,6
+Hieronimus,liun,Undirected,2
+Hieronimus bildt,Knut,Undirected,1
+Else,Horn,Undirected,1
+Hieronimus,Horn,Undirected,1
+Else,spodsk,Undirected,1
+Else,Hein,Undirected,8
+Hein,Nornen,Undirected,1
+dr. Tvedes,frk. Schrader,Undirected,1
+Else,tilsengs,Undirected,1
+Knut,Sejer,Undirected,1
+Frk. Hall,Hall,Undirected,1
+Vibe,pene madam Nilsen,Undirected,1
+madam Nilsen,spenser,Undirected,1
+Else,madam Sørensen,Undirected,1
+madam Nilsen,madam Sørensen,Undirected,1
+Frk. Hall,madam Nilsen,Undirected,1
+Else,Hamilton,Undirected,3
+Hamilton,frk. Hall,Undirected,4
+Hall,Hamilton,Undirected,1
+Håmiltons,gud,Undirected,1
+Hein,frk. Thomsen,Undirected,1
+Hein,Tvede,Undirected,1
+Gud,Jørgen,Undirected,1
+Sibylle,Vibe,Undirected,1
+frk. Thomsen,jomfru Marias,Undirected,1
+'Thomsen,Else,Undirected,1
+Else,Rudolf,Undirected,1
+Maren,frk. Hall,Undirected,1
+Anne,nornen,Undirected,1
+Jørgen,trykked,Undirected,1
+Hein,Hieronimus,Undirected,1

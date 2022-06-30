@@ -1,0 +1,27 @@
+source,target,type,weight
+Erik Krumfinger,winger,Undirected,1
+Møllerens,hans Svend,Undirected,1
+Svend,hans Svend,Undirected,1
+Guds,Munk,Undirected,1
+Per,aarie Gry,Undirected,1
+Per,Poul,Undirected,1
+Gud,Poul,Undirected,1
+Grethe,Mølleren,Undirected,2
+Grethe,Skraa,Undirected,1
+Grethe,Klaus Bryde,Undirected,2
+Gud,Karlen,Undirected,1
+Ane Marie,Grethe,Undirected,1
+Grethe,JVIin,Undirected,1
+Grethe,J eg,Undirected,2
+Asta,Grethe,Undirected,5
+Asta,Carl,Undirected,4
+Carl,Grethe,Undirected,1
+Asta,Mølleren,Undirected,1
+Grethe,rethe,Undirected,1
+Grethe,Moders,Undirected,2
+Grethe,Grethe ilag,Undirected,1
+Grethe,Gud,Undirected,7
+Flun,Grethe,Undirected,1
+Flun,Gud,Undirected,1
+Grethe,Møller,Undirected,1
+Grethe,ban,Undirected,2

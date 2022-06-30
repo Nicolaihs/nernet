@@ -1,0 +1,338 @@
+source,target,type,weight
+Alms,Minnie,Undirected,1
+Magda,Minnie,Undirected,3
+Ella,Minnie,Undirected,5
+Minnie,Stakkars,Undirected,2
+Minnie Fredriksen,candidat Heller,Undirected,1
+Minnie Fredriksen,eine,Undirected,1
+Ella,eine,Undirected,1
+Minnie,far,Undirected,1
+Minnie,consul Brekkes,Undirected,1
+Ella Brekke,Minnie Fredriksen,Undirected,1
+Consulen,Ella Brekke,Undirected,1
+Consulen,consulen,Undirected,1
+Victor,consulen,Undirected,7
+Ella,Victor,Undirected,51
+Ella,consulen,Undirected,6
+Ella,Stakkars,Undirected,1
+Alm,consul,Undirected,1
+Alm,Ella,Undirected,1
+Stakkar consul Brekke,Victor,Undirected,1
+Victor Heller,Vilhelm Brandt,Undirected,5
+Venus,Vilhelm,Undirected,2
+Victor,Vilhelm,Undirected,23
+Chasseur,Minnie,Undirected,2
+Victor,craniets,Undirected,1
+Daniel Heire,Vilhelm,Undirected,1
+Anna Hall I.,Victor Heller,Undirected,1
+Vilhelm Brandt,nolens,Undirected,1
+Vilhelm Brandt,usands,Undirected,1
+Ella Brekke,birkeskov,Undirected,1
+birkeskov,livis,Undirected,1
+livis,wie,Undirected,1
+Gott,wie,Undirected,1
+Gott,behüte,Undirected,1
+Minnie Fredriksen,eg,Undirected,1
+eg,ril,Undirected,1
+Minnie,ril,Undirected,1
+Minnie,Vilhelm Brandt,Undirected,5
+Ella Brekke,Magda,Undirected,1
+Brekkes,Ella Brekke,Undirected,1
+Victor,Vilhelm Brandt,Undirected,8
+Fredriksens,Vilhelm Brandt,Undirected,1
+N.,lian,Undirected,1
+X.,gjore,Undirected,1
+Fredriksen,X.,Undirected,2
+Pastor Helt,Pedersen,Undirected,1
+Strom,hr. X.s,Undirected,1
+X.,hr. X.s,Undirected,1
+Hansen,Y.,Undirected,1
+X.,hr. Hansen,Undirected,1
+Brandt,N.,Undirected,2
+N.,hr. Hansen,Undirected,1
+Brandt,hr. Hansen,Undirected,1
+Hin,jaså,Undirected,1
+Hall,Victor Heller,Undirected,1
+Fredriksen,Magda,Undirected,1
+Fredriksen,Hansen,Undirected,2
+Hansen,consul Brekke,Undirected,1
+Brandt,consul Brekke,Undirected,1
+Brandt,Victor Heller,Undirected,1
+Magda,Victor,Undirected,32
+Ella Brekke,Magda Strom,Undirected,1
+Ella,Hansen,Undirected,2
+Kanunculus,Magda,Undirected,1
+Ella-blomst,Magda,Undirected,1
+Fredriksen,fröken,Undirected,2
+Vilhelm,taug,Undirected,2
+Honny soit,taug,Undirected,1
+Honny soit,qui mai y pense,Undirected,1
+Victor,j,Undirected,1
+Fredriksen,consul Brekke,Undirected,1
+Fredriksen,Vilhelm Brandt,Undirected,2
+Hansen,Victor,Undirected,1
+Amalie,Vilhelm,Undirected,2
+Brandt,Petra,Undirected,1
+Fredrikke,Petra,Undirected,1
+Fredrikke,Undine,Undirected,1
+Petra,doktor Brandt,Undirected,1
+Fredrikke,Minnie,Undirected,2
+Amalie,Ella,Undirected,1
+Magda,Petra,Undirected,1
+Ella,Magda,Undirected,27
+Hansen,Magda,Undirected,1
+Hansen,Vilhelm Brandt,Undirected,1
+Victor Heller,skjbnt veien,Undirected,1
+fjeldbæk,skjbnt veien,Undirected,1
+Hanseu,fjeldbæk,Undirected,1
+Hansen,Vilhelm,Undirected,2
+Ella,Vilhelm,Undirected,3
+Magda,Vilhelm,Undirected,1
+Victor,frøken Magda,Undirected,1
+frøken Magda,ogihan,Undirected,1
+Vilhelm,ogihan,Undirected,1
+Vilhelm,iland,Undirected,1
+Ella,iland,Undirected,1
+Minnie,obne,Undirected,1
+Hansen,Minnie,Undirected,8
+Hansen,Vilhelm leende,Undirected,1
+Minnie,Victor,Undirected,6
+Bravo,Hansen,Undirected,1
+Bravo,Vilhelm,Undirected,1
+Minnie,Vilhelm,Undirected,10
+Victor,eine,Undirected,2
+N.,Vilhelm,Undirected,1
+Minnie,N.,Undirected,2
+Rembrandt,Victor,Undirected,1
+Vilhelm,kjør,Undirected,1
+Delaroche,kjør,Undirected,1
+Ella,Gud,Undirected,14
+Magda,k,Undirected,1
+Magda,candidat,Undirected,1
+Ella,candidat,Undirected,2
+Magda,Vilhelm Brandt,Undirected,4
+Anna Hall,Victor,Undirected,1
+Diana,skogs,Undirected,2
+Birgitte,Pram,Undirected,2
+Brandt,Minnie,Undirected,3
+Brandt,Ella Brekke,Undirected,1
+Ella Brekke,theol.,Undirected,2
+Ella Brekke,Victor,Undirected,3
+Ella,Magda Strom,Undirected,1
+Magda Strom,tom,Undirected,1
+Ella,tom,Undirected,1
+Ella,Jaså,Undirected,1
+Magda,consulen,Undirected,2
+candidat,consulen,Undirected,1
+Magda,seier,Undirected,1
+Ella,seier,Undirected,2
+Consulen,Victor,Undirected,1
+Consulen,Ella,Undirected,1
+N.,Victor,Undirected,1
+Magda,N.,Undirected,2
+Brandt,Sille,Undirected,1
+Brandt,Silla,Undirected,1
+Gud,Marie,Undirected,1
+Fredriksen,Minnie,Undirected,2
+Gud,Minnie,Undirected,2
+Victor,foleisen,Undirected,1
+Vilhelm,foleisen,Undirected,1
+Vilhelm,hensynslos,Undirected,1
+Minnie Eredriksen,Victor,Undirected,1
+Minnie Eredriksen,Vilhelm,Undirected,1
+Vilhelm,tove,Undirected,1
+Victor pleiede,reis,Undirected,1
+ivold,reis,Undirected,1
+Strom,Victor,Undirected,2
+Goethe,consulen,Undirected,1
+consulen,skjøn,Undirected,1
+Minnie,taug,Undirected,1
+Minnie,liun,Undirected,2
+Vilhelm,liun,Undirected,1
+Vilhelm,eine,Undirected,1
+Amalie,Minnie,Undirected,2
+Fredrikke,Vilhelm,Undirected,1
+Fredrikke,Gud,Undirected,1
+Vilhelm,kvassia,Undirected,1
+Anton,mama,Undirected,2
+Fredrikke,Malle,Undirected,1
+Fredrikke,mama,Undirected,1
+Fikka,mama,Undirected,1
+Minnie,mama,Undirected,2
+Victor,lian,Undirected,1
+Vilhelm Brandt,lian,Undirected,1
+Ella Brekke,Vilhelm Brandt,Undirected,1
+Bliks,liun,Undirected,1
+Birgitte Pram,Bliks,Undirected,1
+Birgitte Pram,Victor,Undirected,8
+Birgitte Pram,livis,Undirected,1
+Hall,Magda Ström,Undirected,2
+Hall,Strom,Undirected,2
+Hall,Victor,Undirected,15
+Magda,Strom,Undirected,1
+Hall,Magda,Undirected,18
+Ella Brekke,Victor Heller,Undirected,1
+Hall,candidat,Undirected,1
+Hall,N.,Undirected,1
+Fru Hall,Magda,Undirected,1
+Ella,Hall,Undirected,6
+A,kjære,Undirected,1
+Hall,kjære,Undirected,1
+Gud,Hall,Undirected,4
+Hansen,liun,Undirected,1
+Hansen,lian,Undirected,2
+Tor,tor,Undirected,1
+lieres,tor,Undirected,1
+Brandt,Gud,Undirected,1
+Brandt,Minnie Fredriksen,Undirected,2
+A ictor,Ella,Undirected,1
+Ella,broute,Undirected,1
+Hall,broute,Undirected,1
+eier,yar,Undirected,1
+Ella,lian,Undirected,2
+Stakkars,Victor,Undirected,2
+Birgitte,Victor,Undirected,1
+Victor,candidat Heller,Undirected,1
+Pram,Victor,Undirected,7
+Gud,liendes,Undirected,1
+Birgitte Pram,Vilhelm Brandt,Undirected,1
+B. P.,Birthe Pedersen,Undirected,1
+Birgitte Pram,jaså,Undirected,1
+Vilhelm,tomandshånd,Undirected,1
+Fredriksen,tomandshånd,Undirected,1
+Ella,lykke,Undirected,2
+Formosa,Victor,Undirected,1
+Ella,Formosa,Undirected,1
+Ella Brekke,Vilhelm,Undirected,1
+Vilhelm,frøken Alm.,Undirected,1
+frøken Alm,frøken Alm.,Undirected,1
+Alm,Fredriksen,Undirected,1
+Anton,Kierkegård,Undirected,1
+Eremita,Kierkegård,Undirected,1
+Anton,Pettersen,Undirected,1
+Brandt,Pettersen,Undirected,1
+Brandt,suggen,Undirected,1
+Ellingsen,candidat,Undirected,1
+Anton,Hellers,Undirected,2
+Alm,Gud,Undirected,1
+Hall,Magda Strøm,Undirected,1
+Magda Strøm,Victor,Undirected,1
+Magda,N.’s,Undirected,1
+Hall,Neste,Undirected,1
+Reisen,Victor,Undirected,1
+Ella,N.,Undirected,1
+Victor,consul Brekke,Undirected,2
+Strom,consul Brekke,Undirected,1
+Gud,candidat,Undirected,1
+Birgitte Pram,ril,Undirected,1
+Victor,theol.,Undirected,1
+Birgitte Pram,Consulen,Undirected,1
+Ella,liun,Undirected,1
+A,Magda,Undirected,2
+N.’s,aris,Undirected,1
+Per degn,ikkun,Undirected,1
+Bukker,Per degn,Undirected,1
+Bukker,Victor,Undirected,3
+Ella,Pram,Undirected,1
+Bukker,Pram,Undirected,1
+Birgitte,Bukker,Undirected,2
+Birgitte Pram,Bukker,Undirected,1
+Rer,Vilhelm Brandt,Undirected,1
+N.,Vilhelm Brandt,Undirected,1
+Brandt,Victor,Undirected,2
+Chasseur,Victor,Undirected,1
+Venus,Victor,Undirected,1
+Marthe,sancta Magdalena medica,Undirected,1
+Birgitte Pram,frøken Pram,Undirected,1
+frk. Pram,frøken Pram,Undirected,1
+Victor,lier,Undirected,1
+N.,påny,Undirected,1
+Birgitte Pram,hr. Bukkers,Undirected,1
+Victor —,hr. Bukkers,Undirected,1
+Victor —,hr.,Undirected,1
+Bukker,hr.,Undirected,1
+Ella,Kjære,Undirected,1
+Kjære,Magda,Undirected,1
+Anton Helt,liam,Undirected,1
+Napoleon I.,theol. A.,Undirected,1
+Napoleon I.,Pram,Undirected,1
+Pram,kjøbm. F. Hansen,Undirected,1
+Gud,kjøbm. F. Hansen,Undirected,1
+Ella Brekke,Minnie,Undirected,1
+Ella Brekke,Vilh. Brandt,Undirected,1
+Gud,hans,Undirected,1
+Magda,frøken Magda,Undirected,1
+A,Ella,Undirected,2
+Magda,taug,Undirected,1
+Ella,söde,Undirected,2
+Gud,Magda,Undirected,2
+Victor,seire,Undirected,1
+Hall,röst,Undirected,1
+Jene machen Partei,unerlaubtes,Undirected,1
+freilich,unerlaubtes,Undirected,1
+Eilert Frank,Victor,Undirected,2
+N.,Pram,Undirected,1
+Frank,Victor,Undirected,3
+Victor,candidat Frank,Undirected,1
+Victor,carriere,Undirected,1
+Frank,Lossing,Undirected,4
+Lossing,Victor,Undirected,1
+Lossing,taug,Undirected,1
+Bachus,Belling,Undirected,1
+Bachus,Venus,Undirected,1
+Consul Brekke,Victor Heller,Undirected,1
+Ella,liam,Undirected,2
+Ella,kjær,Undirected,1
+Stakkars,kjær,Undirected,1
+Brandt,Hall,Undirected,1
+Hall,stakkars,Undirected,1
+Victor,stakkars,Undirected,2
+Magda Strom,fru Hall,Undirected,1
+Adelina,Nicolini,Undirected,1
+Ella,Nicolini,Undirected,1
+Minnie,lian,Undirected,1
+lian,liun,Undirected,1
+Stakkars,liun,Undirected,1
+Fridtjof Hansens,Stakkars,Undirected,1
+Stakkars,frøken Pram,Undirected,1
+Alm.,frøken Pram,Undirected,1
+Victor,ivold,Undirected,1
+ivold,lise,Undirected,1
+Ella,lille Gudrun,Undirected,3
+lille Gudrun,mama,Undirected,1
+Ella doren,Victor,Undirected,1
+Gudruns,Victor,Undirected,1
+Gud,Gudruns,Undirected,1
+Gud,signe,Undirected,3
+Alen,Ella,Undirected,1
+Alan,Ella,Undirected,1
+Ella,Victor skalv,Undirected,1
+Gud,Victor,Undirected,2
+Vilhelm,fafon,Undirected,1
+Victor,fafon,Undirected,1
+Victor,Vilhelm taug,Undirected,1
+Vilhelm,lille Gudrun,Undirected,1
+lian,liar,Undirected,1
+liar,per fas,Undirected,1
+nefas,per fas,Undirected,1
+Hall,lille Gudrun,Undirected,1
+Gudrun,Hall,Undirected,2
+Hall,"assessor Lyngs*,41^r",Undirected,1
+Hall,Nii,Undirected,1
+Magda,niit,Undirected,1
+Hall,jder,Undirected,1
+Magda,j.,Undirected,1
+Hall,j,Undirected,1
+j,yictor,Undirected,1
+Ella,yictor,Undirected,1
+Magda,j.eg-inu,Undirected,1
+j.eg-inu,tor,Undirected,1
+Magda,tor,Undirected,1
+Ajl,Magda,Undirected,1
+Ajl,Ellas^,Undirected,1
+Ella,Ellas^,Undirected,1
+Hall,serjoi,Undirected,1
+Hans,Magda,Undirected,1
+Magda,pat,Undirected,1
+Magda,hum,Undirected,1
+jfolor,oddi,Undirected,1

@@ -1,0 +1,72 @@
+source,target,type,weight
+Ekbatanas,én,Undirected,1
+Kongedøtres,Silvio,Undirected,1
+Kongedatres,Kongedøtres,Undirected,1
+Kongedatres,Silvio,Undirected,1
+Napoleon,Silvio —,Undirected,1
+Bonaparte,Silvio,Undirected,2
+Bonaparte,Josefine,Undirected,2
+Josefine,Silvio,Undirected,1
+Napoleon Bonaparte,Silvio,Undirected,1
+Silvio,bo,Undirected,1
+Silvio,maestro,Undirected,1
+Benvenuto Cellini,Silvio,Undirected,1
+Napoleon,Silvio,Undirected,3
+Silvio,non entra il medico,Undirected,1
+Silvio,mari,Undirected,1
+Florens,Silvio,Undirected,1
+Viktor Emmanuels-Pladsen,seme Viktor Emmanuel,Undirected,1
+Dante,Siena,Undirected,1
+Dante,Stude,Undirected,1
+Dante,olla paterna,Undirected,1
+Lauras,Petrarcas,Undirected,1
+Lauras,Petrarca,Undirected,1
+Rom Le pape,Tizian,Undirected,1
+Neptun,Venus,Undirected,1
+Evas,Theatre fran^ais,Undirected,1
+Michelangelos,Silvio,Undirected,2
+Canepà,Padre,Undirected,1
+Madonnas,Renan,Undirected,1
+Madonna,Renan,Undirected,1
+Cavour,Viktor Emmanuel,Undirected,1
+Clara,Viktor Emmanuel,Undirected,1
+Clara,Gud,Undirected,1
+Signora Clara,taalmodig,Undirected,1
+Signora,giovane giovane,Undirected,1
+Angelica,Clara,Undirected,1
+Papa,Signori,Undirected,4
+Papa,Signore,Undirected,1
+ed io sonava,sonare ed io da ridere,Undirected,1
+Carlo,Signorina,Undirected,1
+Signore,Signorina,Undirected,2
+Sono io,sono io,Undirected,2
+Carlo,Clara,Undirected,3
+Carlo,Signori,Undirected,2
+Clara,Signora,Undirected,2
+Odysseus,Poseidon,Undirected,1
+Carlotta,Silvio,Undirected,2
+Carlotta,Vesco,Undirected,1
+Signora,Silvio,Undirected,1
+Clara,Silvio mio.,Undirected,1
+Silvio,Silvio mio,Undirected,1
+Silvio,Sofia,Undirected,1
+Silvio,Silvio caro,Undirected,1
+Signora,Silvio caro,Undirected,1
+Assai,assai,Undirected,4
+Hannibal,assai,Undirected,2
+Assai,Hannibal,Undirected,1
+Assai,skraas,Undirected,1
+Michelangelo,piace,Undirected,1
+Jere,Rapallo,Undirected,1
+Assai,Rapallo,Undirected,1
+Lenau,assai,Undirected,1
+Lenau,Rapallo,Undirected,1
+Lenau,N. N.,Undirected,1
+Clara,Pavens,Undirected,1
+Clara,Luigi,Undirected,1
+Giulio Romano,Rafael,Undirected,1
+Giulio Romano,Michelangelo,Undirected,1
+Michelangelo,Ozon,Undirected,1
+Clara,Friedrich,Undirected,1
+Kristus,Napoleon,Undirected,1
+Kristus,Paven,Undirected,1

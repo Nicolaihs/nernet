@@ -1,0 +1,261 @@
+source,target,type,weight
+Julie Rørby,Worms,Undirected,2
+Mathilde,Worms,Undirected,1
+Ida Worm,Mathilde,Undirected,1
+Julie,eg,Undirected,1
+Ida Worm,eg,Undirected,1
+Marie,Marie Franck,Undirected,1
+Ida Worm,Julie,Undirected,1
+Gud,Marie,Undirected,1
+Gud,Mathilde,Undirected,1
+Ida,Mathilde,Undirected,1
+Francks,Julie Rørby,Undirected,1
+Rørby,Worms,Undirected,1
+L’,Rørby,Undirected,1
+Jakob«,L’,Undirected,1
+Agent Borre,Bellonas,Undirected,1
+Engberg,nri,Undirected,1
+Knud,Marie Fhmck,Undirected,1
+Julie,Knud,Undirected,1
+Julie,Julie Rørby,Undirected,1
+Franck,Julie Rørby,Undirected,7
+Jørgen«,Marie Franck,Undirected,1
+Julie Rørby,Marie Franck,Undirected,4
+Julie Rørby,Knud,Undirected,1
+Knud,Ludvig,Undirected,1
+Knud,Marie,Undirected,1
+Franck,Knud,Undirected,2
+Ludvig,Marie Franck,Undirected,3
+Frøken Julie Hørby,Julie Rørby,Undirected,1
+Franck,Marie,Undirected,9
+Franck,Gud,Undirected,2
+Bech,Franck,Undirected,16
+Franck,Rørby,Undirected,2
+Granberg,Rørby,Undirected,1
+Franck,Granberg,Undirected,22
+Franck,Hei,Undirected,1
+Franck,Granstad,Undirected,22
+Granberg,Granstad,Undirected,4
+Julie,Marie Franck,Undirected,2
+Julie,Lieutenant Franck,Undirected,2
+Helvig,Kaptain Gram,Undirected,1
+Helvig,Ryding,Undirected,1
+Granberg,Lieutenant Franck,Undirected,1
+Lieutenant Franck,Marie,Undirected,1
+Franck,Onkels,Undirected,3
+Julie Rørby,Onkels,Undirected,2
+Kaptain Gram,Lieutenant Rheinstorff,Undirected,1
+Kyding,lille Bech,Undirected,1
+Granstad,Kaptain Gram,Undirected,1
+Granberg,Midas,Undirected,1
+Bech,Midas,Undirected,1
+Bech,Vaas,Undirected,1
+Franck,Kaptain Gram,Undirected,1
+A.,Dtp,Undirected,1
+Dtp,Julie Rørby,Undirected,1
+Julie Rørby,rin-tinnok,Undirected,1
+Marie,rin-tinnok,Undirected,1
+Bech,Granberg,Undirected,3
+Franck,liam,Undirected,1
+liam,livis,Undirected,1
+Franck,Svend,Undirected,1
+Granstad,Vilsted,Undirected,1
+Bech,Vilsted,Undirected,3
+Granberg,Vilsted,Undirected,3
+Bech,Proprietær Bangs,Undirected,1
+Martha Helmer,Thora,Undirected,1
+Lieutenant Franck,Martha Helmer,Undirected,1
+Franck,Marius,Undirected,1
+Granstad,Marius,Undirected,1
+Bang,Marius,Undirected,1
+Lieutenant Granstad,Marius,Undirected,1
+Franck,Frøken Thoras,Undirected,1
+Karl,Mads,Undirected,1
+Bang,Mads,Undirected,4
+Bang,livor Lieutenanten,Undirected,1
+Hosbond,livor Lieutenanten,Undirected,1
+Hosbond,Mads,Undirected,3
+Tschit,nøs,Undirected,1
+Bang,Moer,Undirected,4
+Franck,Helmer,Undirected,1
+Bech,Helmer,Undirected,2
+Bech,Granstad,Undirected,4
+Granstad,Mads,Undirected,1
+Lieutenant Granstad,Mads,Undirected,1
+Jøsses,Mads,Undirected,1
+Hosbond,Jøsses,Undirected,1
+Mads,Ryding,Undirected,1
+Franck,Ryding,Undirected,2
+Lieutenant Granstad,Ryding,Undirected,2
+Granstad,Ryding,Undirected,3
+Bang,Lieutenant Granstad,Undirected,1
+Granstad,Rheinstorff,Undirected,4
+Franck,Rheinstorff,Undirected,2
+Granstad,Uhret,Undirected,1
+Kancelliraad Franck,Uhret,Undirected,1
+Julie Rørby,lien,Undirected,1
+Julie Rørby,Lieutenant Franck,Undirected,1
+Lieutenant Franck,Vilsted,Undirected,1
+Marie,Vilsted,Undirected,1
+Frøken Lund,Marie,Undirected,1
+Ilahaha,Ludvig,Undirected,1
+Borre,Ludvig,Undirected,1
+Arne,Granberg,Undirected,1
+Marie,hnn,Undirected,1
+Granstad,Kancelliraad Franck,Undirected,2
+Granberg,Julie Rørby,Undirected,1
+Franck,liun,Undirected,1
+Martha Helmer,liun,Undirected,1
+Granstad,Hr. Mellerup,Undirected,1
+Vilsted,Worms,Undirected,1
+Herman,lange Rheinstorff,Undirected,1
+Bien,Franck,Undirected,1
+Franck,Lu,Undirected,1
+Engberg,livis,Undirected,1
+Borre,Franck,Undirected,4
+EngBergs,Lieutenant Franck,Undirected,1
+EngBergs,Franck,Undirected,1
+Cromwell,Granstad,Undirected,1
+Carl den,Cromwell,Undirected,1
+Carl den,liam,Undirected,1
+Borre,Granstad,Undirected,1
+Franck,examinatus juris P. Engberg,Undirected,1
+Julie Rørby,Marie,Undirected,2
+Frøken Rørby,Marie,Undirected,1
+Frøken Rørby,Granberg,Undirected,1
+Granstad,ban,Undirected,1
+Franck,ban,Undirected,1
+Granstad,Julie Rørby,Undirected,3
+Franck,Frøken,Undirected,1
+Granberg,Hr. —,Undirected,1
+Granberg,Julie,Undirected,1
+Franck,Frøken Rørby,Undirected,3
+Arnulff,Mikkel Postbud,Undirected,1
+Arnulff,m. il,Undirected,1
+Granstad,Morten Kudsk,Undirected,1
+Laus,itte,Undirected,1
+Granstad,Julie,Undirected,9
+Kancelliraad Franck,Marie,Undirected,1
+Marie,siu,Undirected,2
+Kaptain Gram,liun,Undirected,1
+Kaptain Gram,Rørby,Undirected,1
+Granberg,Martha Helmer,Undirected,1
+Marie,Martha Helmer,Undirected,1
+Granberg,Marie,Undirected,2
+Bech,Julie Rørby,Undirected,1
+Bech,Marie,Undirected,3
+Bech,anderswo engagirt,Undirected,2
+Ludvig,Visborg,Undirected,1
+Hr. Visborg,L. V. Franck,Undirected,1
+Franck,Hr. Visborg,Undirected,1
+Franck,P. Engberg,Undirected,1
+lians,lien,Undirected,1
+Franck,Julie,Undirected,2
+Julie,lio,Undirected,1
+Marie,Sørensen,Undirected,1
+Ludvig,Sørensen,Undirected,1
+Bech,liam,Undirected,1
+Julie,Martha,Undirected,2
+Bang,Franck,Undirected,5
+Bang,Martha,Undirected,1
+Marie,Martha,Undirected,1
+Franck,Martha,Undirected,1
+Bech,Martha,Undirected,1
+Julie,Marie,Undirected,3
+Frøken Hørby,Marie,Undirected,1
+Eng-bergs,Engberg,Undirected,1
+Engberg,Franck,Undirected,2
+J ulie Rørby,Mathilde Worni,Undirected,1
+Franck,Mathilde Worni,Undirected,1
+Franck,Martha Helmer,Undirected,3
+Bech,Martha Helmer,Undirected,1
+Bech,Marie Franck,Undirected,1
+Ida Worm,Marie Franck,Undirected,1
+Ida Worm,Rheinstorff,Undirected,1
+Julie,Rørby,Undirected,1
+Rørby,speech,Undirected,1
+Gram,speech,Undirected,1
+Gram,Kaptain Gram,Undirected,1
+Bang,Kaptain Gram,Undirected,2
+Borre,Kaptain Gram,Undirected,1
+Kaptain Gram,Ryding,Undirected,1
+Ryding,Thora Helmer,Undirected,2
+Bang,Thora Helmer,Undirected,1
+Bang,Devisef,Undirected,1
+Devisef,Julie Rørby,Undirected,1
+Julie Rørby,Martha Helmer,Undirected,1
+Julie,Martha Helmer,Undirected,1
+Bjørns,Martha Helmer,Undirected,1
+Bjørns,Ryding,Undirected,1
+Frøken Helmer,Ryding,Undirected,1
+Martha,Ryding,Undirected,1
+Ryding,Thora,Undirected,1
+Julie,hvidskede,Undirected,1
+Bang,Rørby,Undirected,1
+Helmer,Rørby,Undirected,1
+Helmer,storBravour,Undirected,1
+Bang,Ryding,Undirected,4
+Bang,Julie,Undirected,2
+Julie,Lieutenant Granstad,Undirected,1
+Honoratiores,Kjøbmand Rørbys,Undirected,1
+Honoratiores,Julie Rorbys,Undirected,1
+Bang,Julie Rorbys,Undirected,1
+Bang,Borre,Undirected,1
+Borre,Engberg,Undirected,1
+Franck,Vilsted,Undirected,2
+Le,Lieutenant Granstad,Undirected,1
+Le,Veir,Undirected,1
+Thora,Veir,Undirected,1
+Bang,Thora,Undirected,1
+Anton,Ryding,Undirected,1
+Søren Pei,liar,Undirected,1
+Bang,Søren Pedersen,Undirected,3
+Bang,Granstad,Undirected,7
+Granstad,Proprietam Bang,Undirected,1
+Lieutenanten,Søren Pedersen,Undirected,1
+Granstad,Søren Pedersen,Undirected,1
+Granstad,op-rinti,Undirected,1
+Bang,skoggerlo,Undirected,1
+Hille,liam,Undirected,1
+Bech,Hille,Undirected,1
+Franck,kerten,Undirected,1
+Bang,Uhrmager Strømbæk,Undirected,1
+Granstad,Strømbæks,Undirected,2
+Granstad,Hr. Strømbæk,Undirected,2
+Granstad,Uhrmagers,Undirected,1
+Gram,Ryding,Undirected,1
+Bang,Gram,Undirected,2
+Bang,Julie Rørby,Undirected,1
+Bech,Ryding,Undirected,3
+Kjøretøi,Vilsted,Undirected,1
+Granberg,lille Bech,Undirected,1
+Bang,Lars,Undirected,1
+Morten,don,Undirected,1
+Bang,Jørgen,Undirected,1
+J,Ryding,Undirected,1
+J,Jørgen,Undirected,1
+Franck,Jjænge,Undirected,1
+Franck,Jørgen,Undirected,1
+Eierinde,Marie Franck,Undirected,1
+Julie,Strømbæk,Undirected,2
+Amalie Strømbæk,Strømbæk,Undirected,1
+Granstad,Marie,Undirected,1
+Bang,Morten,Undirected,1
+Granberg,Morten,Undirected,1
+Engberg,Granstad,Undirected,1
+Franck,livor,Undirected,1
+Julie,livor,Undirected,1
+Julie,Mads,Undirected,2
+Faders,Julie,Undirected,1
+Faders,Mads,Undirected,1
+Julie,liam,Undirected,1
+Granberg,liam,Undirected,1
+Amalie,Franck,Undirected,1
+Amalie,Strømbæk,Undirected,1
+Mads,liun,Undirected,1
+Horby,Rørby,Undirected,1
+Julie,Victor,Undirected,2
+Julie,lians,Undirected,1
+Bang,lians,Undirected,1
+Bech,Borre,Undirected,1
+Anton,Thora Helmer,Undirected,1

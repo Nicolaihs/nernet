@@ -1,0 +1,41 @@
+source,target,type,weight
+Bjarke,Trine,Undirected,1
+Enggrøf,Hr. Enggrøf,Undirected,1
+Boild,Otta,Undirected,1
+Otta,Palle,Undirected,5
+Boild,Gud,Undirected,1
+Jøsses,Mads Kristjan,Undirected,1
+Anaki,Bajads,Undirected,1
+Anaki,Gud,Undirected,1
+Gud,véd,Undirected,1
+Boild,Ellen,Undirected,3
+Boild,Mads Kristjan,Undirected,1
+Mads Kristjan,Otta,Undirected,1
+Otta,Palle —,Undirected,1
+Palle,Palle —,Undirected,1
+Ellen,Palle,Undirected,7
+Ellen,Otta,Undirected,3
+Ellen,Mo’,Undirected,1
+Boild,Mo’,Undirected,1
+Karl Lier,Lier,Undirected,1
+Emile,Hr. Lier,Undirected,1
+Ellen,Lier,Undirected,9
+Lier,Tudstrup,Undirected,1
+Lier,Olje,Undirected,1
+J,j,Undirected,2
+j,j	,Undirected,1
+Ellen,j	,Undirected,1
+An,Katrine,Undirected,1
+An-Katrine,Ellen,Undirected,4
+Ellen,Gud,Undirected,2
+Enggrøf,ovre fraWraa,Undirected,1
+Ellen,Jan,Undirected,1
+Ellen,Palle raabe,Undirected,1
+Ellen,Kresten Kløve,Undirected,1
+ELLEN,WRAA,Undirected,1
+Lier,Trine,Undirected,1
+Hr. Enggrøf,Katrine,Undirected,1
+Gud,Otta,Undirected,1
+Lier,Staalfjedre,Undirected,1
+Anathema,Rousseau,Undirected,1
+Maagers,Svaners,Undirected,1

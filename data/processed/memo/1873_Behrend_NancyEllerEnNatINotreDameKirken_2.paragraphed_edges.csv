@@ -1,0 +1,367 @@
+source,target,type,weight
+Clarendown,Toms,Undirected,1
+James,Nancy,Undirected,11
+Clarendown,James,Undirected,9
+Clarendown,Nancy,Undirected,8
+Nancy,jig,Undirected,1
+Henry,James,Undirected,3
+Gud,Nancy,Undirected,4
+Nancy,ester,Undirected,1
+Belleville,Nancy,Undirected,1
+Nancy,hnn,Undirected,1
+Gud,James,Undirected,3
+James,srem,Undirected,1
+Josefine äs,Olivier,Undirected,1
+Fernando,Gud,Undirected,1
+Bianka,hnn,Undirected,2
+Bianka,Josefine,Undirected,2
+Bianka,Obersteil,Undirected,1
+Bianka,Fernando,Undirected,3
+Bianka,Joseftnes,Undirected,1
+Bernard,Henry,Undirected,46
+Bernard,kjære Bernard,Undirected,1
+Bianka,Ina,Undirected,16
+Bianka,nng,Undirected,1
+ester,nng,Undirected,1
+Ina,ester,Undirected,2
+Clarendown,Tom,Undirected,4
+Tom,hank,Undirected,1
+Clarendown,Mimi,Undirected,1
+Clarendown,SaintNeut,Undirected,1
+Tom,deb,Undirected,1
+Saint-Neuf,deb,Undirected,1
+Missaura,Tom,Undirected,1
+Tom,ilive,Undirected,1
+,James,Undirected,10
+Clarendown,Saint-Neuf,Undirected,1
+Clarendown,SaintNeuf,Undirected,1
+Disie,hank,Undirected,1
+James Ciarendowm,Saint-Neuf,Undirected,1
+Mimi,rnaatte,Undirected,2
+James Clarendown,Mimi,Undirected,2
+Clarendown,Mimi sfrengt,Undirected,1
+Mimi,Saint-Neuf,Undirected,1
+Gud,Mimi,Undirected,2
+Missaura,Sir Buttli,Undirected,6
+Nancy,Sir Buttli,Undirected,6
+Missaura dandse,Sir Buttli,Undirected,1
+Louis,dandset,Undirected,1
+Sir Buttli,dandset,Undirected,1
+James,Missaura,Undirected,26
+Bruno,Missaura,Undirected,1
+Bruno,James,Undirected,1
+Bruno,freidig,Undirected,1
+Bruno,Clarendown,Undirected,7
+Marquisen,ester Harn,Undirected,1
+Illa,Ina,Undirected,1
+Ina,hellenske,Undirected,1
+Ina,Marqnien,Undirected,1
+Ina,Marquien,Undirected,3
+Bianka,Vanciers,Undirected,2
+Tantes,Vanciers,Undirected,1
+Bianka,Tantes,Undirected,1
+Bernard,Bianka,Undirected,10
+Gud,Vanciers,Undirected,1
+Gud,Marquien,Undirected,2
+Gud,Ina,Undirected,8
+Ina,reent,Undirected,1
+Ina,kjære Bianka,Undirected,1
+Bianka,Frøken Belleville,Undirected,1
+Bianka,Jua,Undirected,1
+Ina,skælmsk,Undirected,1
+Bianka,taus,Undirected,1
+Clarendown,Kaptain Roger,Undirected,2
+Clarendown,John Millers,Undirected,10
+James,John Millers,Undirected,9
+Bottwell,Clarendown,Undirected,21
+John Millers,Missaura,Undirected,16
+Clarendown,Missaura,Undirected,21
+Bottwell,Gud,Undirected,2
+Bottwell,James,Undirected,8
+Bottwell,Missaura,Undirected,2
+Bottwell,Clarendown rakke,Undirected,1
+Clarendown,Clarendown rakke,Undirected,1
+John Millers,Voxkjerten,Undirected,1
+Gud,John Millers,Undirected,3
+Clarendown,Gud,Undirected,4
+Bottwell,John Millers,Undirected,5
+Clarendown,John,Undirected,2
+Gud,Missaura,Undirected,2
+Gud,Millers,Undirected,1
+John,John Millers,Undirected,3
+James,John,Undirected,11
+James,Millers,Undirected,2
+Missaura,næsfen,Undirected,1
+John,Missaura,Undirected,17
+Millers,Missaura,Undirected,2
+John Millers,iveien,Undirected,1
+James froer,John Millers,Undirected,1
+James Clarendown,John Millers,Undirected,1
+John,Nancy,Undirected,1
+Bottwel,James,Undirected,1
+Bottwel,Clarendown,Undirected,1
+Bottwell,Skadefryd,Undirected,1
+Mr. Millers,ester Reisen,Undirected,1
+Est,ei,Undirected,1
+ei,lille Kirstin,Undirected,1
+Gud,John,Undirected,7
+John,hnn,Undirected,1
+Bottwell,Sir Buttli,Undirected,1
+lille Bianka,lille Mama,Undirected,1
+Fernando,lille Mama,Undirected,1
+Bianka,Obersfen,Undirected,2
+Fernando,flal,Undirected,1
+Bianka,flal,Undirected,1
+Bianka,Gjæsf,Undirected,1
+Bianka,Mama,Undirected,1
+Albert,James,Undirected,2
+Albert,haren,Undirected,1
+Albert,Nancy,Undirected,1
+Albert,Gud,Undirected,1
+Hesfen,Nancy,Undirected,1
+James,Sir Buttli,Undirected,3
+Clarendown,konime,Undirected,1
+Minette,Nancy,Undirected,2
+Marquis de Belleville,Nancy,Undirected,1
+Amelies,Bernard,Undirected,1
+Amelies,Henry,Undirected,1
+Amelie,Bernard,Undirected,3
+Amelie,Henry,Undirected,2
+Bernard,taus,Undirected,1
+Nancy,taus,Undirected,1
+Bernard,Nancy,Undirected,21
+Bernard,Busfen,Undirected,1
+Henry,Sir Buttli,Undirected,3
+Bernard,Seir,Undirected,1
+Bernard,Gittret,Undirected,1
+Gud,Henry,Undirected,4
+Bernard,Sir Buttli,Undirected,8
+Henry,Kaarde,Undirected,1
+Henry,Nancy,Undirected,20
+Bernard,ester,Undirected,1
+Bernard,Ester,Undirected,1
+Bernard,Pisfolen,Undirected,1
+Bernard,Bernard Kudsken,Undirected,1
+Bernard,Kudsken,Undirected,1
+Mimi,Nancy,Undirected,9
+Marquien,Marquis,Undirected,1
+Henry,Marquien,Undirected,1
+Nancy,nikket,Undirected,2
+Mimi,Roes,Undirected,1
+Henry,Roes,Undirected,1
+Bernard,Mimi,Undirected,3
+Henry,Mimi,Undirected,8
+Henry,Ina,Undirected,11
+Ina,Nancy,Undirected,27
+Bernard,Ina,Undirected,29
+Bernard,rasf,Undirected,1
+Bernard,Marquien,Undirected,2
+Bianka,Onkels,Undirected,1
+Bianka,seent,Undirected,1
+Bernard,Marquis,Undirected,2
+Bianka,Marquis,Undirected,1
+Bianka,Marquien,Undirected,1
+Bianka,haanlo Bernard,Undirected,1
+Bianka,Faders,Undirected,2
+Bernard,Gud,Undirected,3
+Ina,Michel,Undirected,2
+Bernard,halls,Undirected,1
+Bianka,Missaura,Undirected,45
+Dien,Missaura,Undirected,1
+Kokette,Missaura,Undirected,1
+Missaura,Visfnok,Undirected,1
+Bianka,Obersten,Undirected,1
+Bianka,sanime,Undirected,1
+Ina,alfsaa,Undirected,1
+alfsaa,ask,Undirected,1
+Bianka,Mssaura,Undirected,1
+Missaura,huu,Undirected,1
+Bianka,tans,Undirected,1
+Bianka,Gud,Undirected,2
+Missaura,kvn,Undirected,1
+Bianka,Louis,Undirected,3
+Clarendown,Louis,Undirected,11
+Louis,Mademoiselle Lydia,Undirected,1
+Bianka,Clarendown,Undirected,1
+John Millers,Sir Bottwell,Undirected,1
+Ask,Clarendown,Undirected,1
+Ask,Misaura,Undirected,1
+Missaura,hvilkef,Undirected,2
+Haan,Missaura,Undirected,1
+A. Behrends,Julius Behrend,Undirected,1
+Bianka,Margrethe,Undirected,3
+Ina,Obersfen,Undirected,1
+Bianka,kjære Bianka,Undirected,1
+Gud,kjære Bianka,Undirected,1
+Bianca,Ina,Undirected,2
+hnn,son,Undirected,1
+ber,hnn,Undirected,1
+Clarendown,hnn,Undirected,1
+Clarendown,Fernando,Undirected,1
+,Mrs.,Undirected,1
+Millers,Mrs.,Undirected,20
+Clarendown,John visfnok,Undirected,1
+John,Johu Millers,Undirected,1
+James,Visvas,Undirected,1
+Clarendown,Visvas,Undirected,1
+Clarendown,Pathos,Undirected,1
+John,Mrs. Clarendown,Undirected,1
+Judre,Missaura,Undirected,1
+Clarendown,Millers,Undirected,1
+John Millers,Lucie,Undirected,1
+John Millers,taus,Undirected,1
+Inhn,John,Undirected,1
+Millers,Tys,Undirected,1
+Tys,tys,Undirected,1
+John Millers,Lucia,Undirected,1
+Lucia,hnn,Undirected,1
+Ester,Louis,Undirected,2
+Louis,Tom,Undirected,1
+Bottwell,Buttli,Undirected,1
+John Millers,Louis,Undirected,1
+Buttli,Missaura,Undirected,1
+Buttli,Godthaab,Undirected,1
+Clarendown,k. 8.,Undirected,1
+Clarendown mørk,Gud,Undirected,1
+Louis,Oberstell,Undirected,1
+Oberstell,taus Clarendowns,Undirected,1
+Clarendown,taus Clarendowns,Undirected,1
+Vanciers,ester,Undirected,1
+Missaura,Vanciers,Undirected,1
+Clarendown,Mrs.,Undirected,2
+Georg,Kate,Undirected,5
+Kate,stet,Undirected,1
+Maria,gjerne,Undirected,1
+Kate,gjerne,Undirected,1
+Gud,Kate,Undirected,4
+Georg,John,Undirected,3
+Gud,fn,Undirected,1
+Georg Bramley,Maria,Undirected,1
+Bramley,Maria,Undirected,2
+Kate,Maria,Undirected,3
+John,Kate,Undirected,43
+Georg,Maria,Undirected,1
+Georg,Gud,Undirected,1
+Bramley,Kate,Undirected,11
+Lucie,Mrs.,Undirected,1
+Kate Bramleys,lille Kate,Undirected,1
+Kate,Lucie,Undirected,19
+Gud,Lucie,Undirected,3
+Bramley,John Millers,Undirected,2
+Clarendown,Lucie,Undirected,1
+Holsfen,Lucie,Undirected,1
+John,Lucie,Undirected,5
+Bramley,John,Undirected,13
+Bravo,Kate,Undirected,1
+Jean,Missaura,Undirected,1
+Missaura,Nancy,Undirected,3
+Buttli,James,Undirected,1
+Bramley,Lucie,Undirected,3
+Kate,skoggerlo Bramley,Undirected,1
+Kate,Lucia,Undirected,1
+Miss Bramley,Miss Kate,Undirected,1
+Kate,Miss Kate,Undirected,1
+Kate,Massa,Undirected,1
+Kate Bramleys,Lucie,Undirected,1
+John Millers,Kate Bramley,Undirected,1
+Lucie,Sands,Undirected,1
+Kate,Mrs. Millers,Undirected,1
+Clarendovn,Millers,Undirected,1
+John,Mrs.,Undirected,1
+. Clarendown,John,Undirected,1
+Kate,Mrs.,Undirected,2
+Kate,Missaura,Undirected,3
+Bramley,Neveuens,Undirected,1
+John Millers,Marquien reisfe,Undirected,1
+John Millers,Marquien meente,Undirected,1
+Bernard,Herr Marquis,Undirected,1
+Bernard,Clarendown,Undirected,3
+James,Steen,Undirected,1
+Nancy,Steen,Undirected,1
+Kate,bDem,Undirected,1
+Bernard,John,Undirected,6
+Bernard,Kate,Undirected,2
+Bernard,Missaura,Undirected,12
+Clarendown,Obersfen,Undirected,1
+Bernard,John Millers,Undirected,2
+Bernard,Bramley,Undirected,3
+Gud,sif,Undirected,1
+James,fom,Undirected,1
+Heia,Hnn,Undirected,1
+Marquis,Missaura,Undirected,1
+John,Marquis,Undirected,1
+Bernard,Frøken Belleville,Undirected,2
+Bernard,Gonde,Undirected,1
+Amelie,Ina,Undirected,1
+Bianka,dein,Undirected,1
+Ina,dein,Undirected,2
+Kate,Millers,Undirected,1
+John,Millers,Undirected,1
+Kate,sfreg Bramley,Undirected,1
+John flap,Kate,Undirected,2
+Kate,Wertanke,Undirected,1
+Sir Buttli,vverali,Undirected,1
+Bob,Sir Buttli,Undirected,1
+Louis,Sir Buttli,Undirected,8
+Louis,Missaura,Undirected,3
+Clarendown,Hnn,Undirected,1
+Ask,Gud,Undirected,1
+Brysf,Sir Buttli,Undirected,1
+Louis,Missaura reisfe,Undirected,1
+Gud,Louis,Undirected,1
+Sir Buttli,eil,Undirected,1
+Mimi,Sir Buttli,Undirected,1
+Hml,hall,Undirected,1
+Henry,hall,Undirected,1
+Nancy,hellenske Inas,Undirected,1
+Ina,daman,Undirected,1
+Ina,Marquis,Undirected,1
+Henry,vxæe,Undirected,2
+Bcrnard,Nancy,Undirected,1
+Henry,Louis,Undirected,6
+Nancy,Seiren,Undirected,1
+Ina,Louis,Undirected,5
+Ina,äs,Undirected,1
+Belleville,äs,Undirected,1
+,Louis,Undirected,1
+,Ina,Undirected,1
+Ina,Missaura,Undirected,31
+Ina,hnn,Undirected,1
+hnn,Øe,Undirected,1
+Ina,jnogle,Undirected,1
+Missaura,taus,Undirected,1
+Frøken Belleville,Missaura,Undirected,1
+Louis,Misfaura,Undirected,1
+Clarendown,Missanra,Undirected,1
+Clarendown,elffer,Undirected,1
+Ina,Missanra,Undirected,1
+Ina,Skjønheo,Undirected,1
+Henry,Skjønheo,Undirected,1
+Ina,Sir Buttli,Undirected,3
+Sir Buttli,tom,Undirected,1
+Sir Buttli,indsaae,Undirected,1
+Bernard haabe,Enrnm,Undirected,1
+Ina,freidig,Undirected,1
+Ina,Tys,Undirected,1
+Henry,Tys,Undirected,1
+Ask,Nancy,Undirected,1
+Henry,Hnn,Undirected,1
+Buttli,Pidst,Undirected,1
+Bernard underveis,Ina,Undirected,1
+Gud sfe,Ina,Undirected,1
+Ina,Missauras Leie,Undirected,1
+Dein,Marquis do Belleville,Undirected,1
+Kate,Nancy,Undirected,3
+Ask,Henry,Undirected,1
+Amors,Henry,Undirected,1
+Clarendown,Ina,Undirected,2
+Hnn,stig,Undirected,1
+Bernard,hnn,Undirected,1
+Ina,Vanciers,Undirected,1
+Hall,Ina,Undirected,1
+Kate,Viktor,Undirected,2
+Henry,synfes,Undirected,2
+Clarendown,Frøken Belleville,Undirected,1
+Frøken äs,Henry,Undirected,1
+Belleville,Frøken äs,Undirected,1
+Bernard,Vanciers,Undirected,1

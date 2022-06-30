@@ -1,0 +1,82 @@
+source,target,type,weight
+Andreas,Rebbe Meyer Bruun,Undirected,12
+Rebbe Meyer Bruun,Taube,Undirected,2
+Andreas,Taube,Undirected,1
+,Andreas,Undirected,7
+Andreas Jødedreng,Stefanik,Undirected,1
+Andreas,Salmele,Undirected,1
+Christendreng,Salmele,Undirected,1
+Meyer Bruun,Taube,Undirected,4
+Priveles,Salmele,Undirected,1
+Andreas,Stephanik,Undirected,3
+Andreas,Præsfen,Undirected,1
+Andreas,kjær,Undirected,2
+Andreas,Gud,Undirected,6
+Gud,Meyer,Undirected,1
+Andreas,Sigismund,Undirected,37
+Andreas,Meyer Bruun,Undirected,16
+Andreas,Glands,Undirected,1
+Glands,Sigismund,Undirected,1
+Andreas,Moses,Undirected,1
+Aron,Moses,Undirected,1
+Ave Marie,Paternoster,Undirected,1
+Ave Marie,Sigismund,Undirected,1
+Andreas,Hr. Bruun,Undirected,3
+Hr. Bruun,Sigismund,Undirected,2
+Meyer Bruun,Sigismund,Undirected,3
+Ave Maria,Paternoster,Undirected,1
+Sigismund,tollo,Undirected,1
+Andreas,Keiserens,Undirected,1
+Christne,Meyer Bruun,Undirected,1
+Andreas,Cyrill —,Undirected,1
+Andreas,Cyrill,Undirected,24
+Cyrill,Sigismund,Undirected,10
+Andreas,paany offre Sigismund,Undirected,1
+Cyrill,Sigismund slor,Undirected,1
+Andreas troskyldigl,Cyrill,Undirected,1
+Cyrill,Gud,Undirected,2
+Barnabas,Gud,Undirected,1
+Jesus,Rebbe Meyer Bruun,Undirected,1
+Andreas,Jesus,Undirected,1
+Faust,Jesus-Maria,Undirected,1
+Faust,Gud,Undirected,1
+Andreas,paupertatis,Undirected,1
+Rebbe Meyer Bruun,Sigismund,Undirected,1
+Pater,Theobald,Undirected,1
+Gud,Meyer Bruun,Undirected,3
+Meyer Brun,Sigismund,Undirected,1
+Andreas,Graad,Undirected,1
+Sigismund,fhi Meyer Bruun,Undirected,1
+Andreas,Villies,Undirected,1
+Cyrill,Villies,Undirected,1
+Katzenjammer,Sigismund,Undirected,1
+,Sigismund,Undirected,1
+Meyer Bruun,Salomon Hamburger,Undirected,4
+Meyer Brnun,Tanbe,Undirected,1
+Prive,Taube,Undirected,2
+Gud,Rebbe Meyer Bruun,Undirected,1
+Dn,Rebbe Meyer Bruun,Undirected,1
+Dn,Gud,Undirected,1
+Gitele,Jossef Kreszelis,Undirected,1
+Bhaile,Rebbe Meyer Bruun,Undirected,1
+Gud,Privele,Undirected,1
+Gud,Salomon,Undirected,1
+Hamburger,Salomon,Undirected,1
+Andreas slod,Faust,Undirected,1
+Alf,Cyrill,Undirected,2
+Meyer,Taube Bruun,Undirected,1
+Bruun,Taube Bruun,Undirected,1
+Andreas,Bruun,Undirected,1
+Bruun,Sigismund,Undirected,1
+Sigismund,Taube,Undirected,2
+Salomon Hamburger,Sigismund,Undirected,1
+Bruun,Romer,Undirected,1
+Andreas,Romer,Undirected,1
+Meyer Brunn,Salomon Hamburger,Undirected,2
+Meyer Bruun,Salomon Hamburger log,Undirected,1
+Bruun,Hr. Bruun,Undirected,1
+Gud,def,Undirected,1
+Chor,Gud,Undirected,1
+Gud,Luther,Undirected,2
+Andreas,Salomon Hamburger,Undirected,1
+Sigismund,Stephanik,Undirected,1

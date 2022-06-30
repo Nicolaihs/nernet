@@ -1,0 +1,202 @@
+source,target,type,weight
+Guds,Thomas Schmidt,Undirected,1
+Thomas Schmidt,dot,Undirected,1
+Fndorgang,doros,Undirected,1
+Fndorgang,Ghodo,Undirected,1
+Bjørnson,Ghodo,Undirected,1
+Christian,Thomas,Undirected,28
+J,Thomas,Undirected,1
+Thomas,Tue,Undirected,1
+Thomas,lian,Undirected,7
+Christian,lian,Undirected,2
+Hans Christian,Thomas,Undirected,2
+Peter Hansen,Peter Hansen Schmidt,Undirected,1
+Carl,Thomas,Undirected,2
+Peter Hansen,Thomas’,Undirected,3
+Carl«,Thomas,Undirected,1
+. Petersen,Carl«,Undirected,1
+. Petersen,Peter Hansen,Undirected,1
+Thomas’,flen,Undirected,1
+Carl,Christian,Undirected,2
+Carl,Hans,Undirected,1
+Hans,Thomas,Undirected,4
+Hinrich,Thomas,Undirected,8
+Hinrich,Lorentz,Undirected,1
+Lorentz,Thomas,Undirected,6
+Peter Ludvig,Thomas,Undirected,1
+Hans,Peter Ludvig,Undirected,1
+Mama,Papa,Undirected,1
+Postilen,livor,Undirected,1
+Peter Hansen,Thomas,Undirected,14
+Gud,J,Undirected,1
+Damasse,Thomas,Undirected,3
+Christian,Damasse,Undirected,3
+Damasse,Napoleon,Undirected,1
+Lorentz,Peter Hansen,Undirected,2
+Mutter,Peter Hansen,Undirected,1
+Svend,Thomas,Undirected,2
+Peter Hansen,Sejr,Undirected,1
+Kong Frederik,lian,Undirected,1
+Kong Frederik,Thomas,Undirected,4
+B jørneskindshuer,Thomas,Undirected,1
+B jørneskindshuer,sis,Undirected,1
+Christian,Peter,Undirected,12
+Christian,Peter Hansen,Undirected,4
+Christian,Lorentz,Undirected,1
+Najaden,Thomas,Undirected,1
+Najaden,Peter Hansen’,Undirected,1
+Hekla,ban,Undirected,1
+Alnor,Thomas,Undirected,1
+Rohde,lien,Undirected,1
+Peter Hansen,lien,Undirected,1
+Rohde,siv,Undirected,1
+Thomas,siv,Undirected,1
+Peter Hansen,høs,Undirected,1
+Rohde,høs,Undirected,1
+Gejser,Peter Hansen,Undirected,2
+Gejser,Najaden,Undirected,1
+Gejser,Thomas,Undirected,2
+Thomas,fle,Undirected,2
+Hans,Peter Hansen,Undirected,1
+Peter Hansen,lian,Undirected,2
+Gejser,venus kelske,Undirected,1
+Peter,Peter Hansen,Undirected,4
+Madam Stentoft,Peter Hansen,Undirected,1
+Hinrich,livor,Undirected,1
+Carl,livor,Undirected,1
+Carl,Hans Christian,Undirected,1
+Hinrich,Peter,Undirected,2
+Peter,lian,Undirected,1
+Lorentz,Peter,Undirected,5
+Hinrich,Peter Hansen,Undirected,1
+Peter,Uraad,Undirected,2
+Christian,Madam Stentoft,Undirected,1
+Madam Stentoft,Peter,Undirected,1
+Muttersbach,Peter,Undirected,1
+Peter,tik Petersen,Undirected,1
+Peter,Søulke,Undirected,1
+Jes,Jes Mathiessen,Undirected,1
+Jes,Mathiessen,Undirected,1
+Lorentz Fisker,Thomas’,Undirected,1
+Jes Mathiessen,Peter Hansen,Undirected,2
+Jes Mathiessen,Muttersbach,Undirected,3
+Jes,Muttersbach,Undirected,1
+Jes Mathiessen,Lorentz Fisker,Undirected,1
+Lorentz,Muttersbach,Undirected,1
+Jes Mathiessen,Lorentz,Undirected,1
+Christian,Jes Mathiessen,Undirected,2
+Jes Mathiessen,lian,Undirected,2
+Carl,Thomas’,Undirected,1
+Bravo,bravo,Undirected,1
+Thomas,liere,Undirected,2
+Peter Hansen,Peter Ludvig,Undirected,2
+-D---,Hansen,Undirected,1
+Mutter,Peter,Undirected,1
+Peter,liam,Undirected,1
+Peter,Thomas’,Undirected,1
+Thomas,Thomas’,Undirected,3
+Svend,Thomas’,Undirected,1
+Jens Kolbæk,Svend,Undirected,1
+Jens Kolbæk,Richelsens,Undirected,1
+Steffensen,lian,Undirected,1
+Jørgen,Thomas,Undirected,1
+Johansen,Thomas,Undirected,7
+Bjørn,Johansen,Undirected,2
+Anker,Thomas,Undirected,2
+Jes Mathiessen,Thomas,Undirected,4
+Jærnbane,Thomas,Undirected,1
+Jærnbane,lian,Undirected,1
+Jes,Thomas,Undirected,1
+Christian,Sundeved,Undirected,1
+Peter Hansen,Sundeved,Undirected,1
+Sara,Thomas’,Undirected,1
+Sara,Thomas,Undirected,2
+Bødker Petersen,Thomas,Undirected,1
+Mesteren,Thomas,Undirected,1
+Magsvejr,lian,Undirected,1
+Carl,Peter Hansen,Undirected,1
+Christian,lier,Undirected,1
+Bob,Thomas,Undirected,31
+Thomas,i deres,Undirected,1
+Thomas,kapten,Undirected,1
+Beissenherz,Thomas,Undirected,1
+Frederik,Thomas,Undirected,1
+Nielsen,Thomas,Undirected,1
+Peter,Thomas,Undirected,1
+Bob,lian,Undirected,1
+Bob,Gud,Undirected,2
+Loen,Thomas,Undirected,1
+Janisch,Meiring,Undirected,1
+Thomas,capo,Undirected,2
+Thomas,liam,Undirected,5
+Saabye,Thomas,Undirected,1
+Majoren,Thomas,Undirected,1
+Jærnb anes,Thomas,Undirected,1
+Thomas,livad,Undirected,1
+Bob,liam,Undirected,1
+Jørgen,Kettinge,Undirected,1
+Christian,Thomas O	,Undirected,1
+Thomas,Thomas O	,Undirected,1
+Christian,Klingers,Undirected,1
+Brodei1,Thomas,Undirected,1
+Alens,Thomas,Undirected,1
+Marv,Thomas,Undirected,1
+Madam Stentoft,Thomas,Undirected,1
+Thomas,lied Espen,Undirected,1
+Espen,Thomas,Undirected,1
+Petersen,Thomas,Undirected,5
+Petersen,lian,Undirected,2
+Alan,Thomas,Undirected,1
+Schmidt,Thomas,Undirected,1
+Jenser,liam,Undirected,1
+Gud,Thomas,Undirected,3
+Gud,Wilster,Undirected,1
+Aaget,Karl,Undirected,1
+Aare,Thomas Schmidt,Undirected,1
+Thomas,livis,Undirected,2
+Hanptmann,ich kenne Ench seit acht,Undirected,1
+Christian,Friedrich Carl,Undirected,1
+Friedrich Carl,wie noch nie,Undirected,1
+Bob,Diippeler Schanzen« .,Undirected,2
+Peter Hansen,livor,Undirected,1
+Guten,Thomas,Undirected,1
+Frederik den Syvendes,Thomas,Undirected,2
+liam,lian,Undirected,1
+Egernsund,niente ' man,Undirected,1
+Ahlmann,Egernsund,Undirected,1
+Ahlmann,Mathiesen,Undirected,1
+Krause,Mathiesen,Undirected,1
+Krause,Thomas,Undirected,1
+Angel,Thomas,Undirected,1
+Christian,Grogger,Undirected,1
+Ahlmann,Grogger,Undirected,1
+Ahlmann,Lippe-Detmoldernes,Undirected,1
+Ahlmann,Jes Mathiessen,Undirected,1
+Ahlmann,Thomas,Undirected,2
+Ahlmann,Mathiessen,Undirected,1
+Jes Mathiessen,Mathiessen,Undirected,1
+Jes Mathiessen,djærve,Undirected,1
+Ahlmann,Kriiger,Undirected,1
+Eden,Thomas,Undirected,16
+Christian,Kong Frederik,Undirected,1
+Karl,Kong Frederik,Undirected,1
+Karl,Thomas,Undirected,2
+Christian den,Gud,Undirected,1
+Thomas,hans Daad,Undirected,1
+Thomas Schmidt,hans Daad,Undirected,1
+Eden,Edsnægterne,Undirected,2
+Christian Tychsen,Thomas,Undirected,1
+Feldwebel,Thomas,Undirected,1
+Frederiksen,Thomas,Undirected,4
+Christian,Christian *,Undirected,1
+Orare,Thomas,Undirected,1
+Plaetner,Thomas,Undirected,1
+Elbby,Thomas,Undirected,1
+Hauptmann,Thomas,Undirected,2
+Haupt-,Thomas,Undirected,1
+Eden,Hauptmanden,Undirected,1
+Hauptmanden,Thomas,Undirected,1
+Spandau,Thomas,Undirected,2
+Ahlmann,Lorentz,Undirected,1
+Ahlmann,djærve,Undirected,1
+Thomas,djærve,Undirected,1

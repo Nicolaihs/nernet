@@ -1,0 +1,103 @@
+source,target,type,weight
+Holgersen,Holgersens,Undirected,1
+Holgersen,irette,Undirected,1
+. Thorup,Holgersen,Undirected,1
+Holgersen,Thorup,Undirected,3
+Jensen,Thorup,Undirected,1
+Aagaard,Ed. Jensen,Undirected,1
+Jensen,juris Maarup,Undirected,1
+Jensen,Maarup,Undirected,18
+Aagaard,Jensen,Undirected,10
+Aagaard,Maarup,Undirected,9
+Andersen,Mo’,Undirected,3
+Andersen,Kristine Bang,Undirected,1
+Bang,Kristine Bang,Undirected,1
+Augusta,daKousinen,Undirected,1
+Jensen,daKousinen,Undirected,1
+Bang,Jensen,Undirected,1
+Frøken Bang,Kristine,Undirected,2
+Frøken Bang,Jensen,Undirected,7
+Jensen,Kristine,Undirected,3
+Frøken Bang,Herlofsen,Undirected,3
+Aagaard,Herlofsen,Undirected,2
+Aagaard,Frøken Bang,Undirected,4
+Herlofsen,Høyen,Undirected,1
+Høyen,Julius Lange,Undirected,1
+Aagaard,Julius Lange,Undirected,1
+Herlofsen,Jensen,Undirected,11
+Herlofsen,Kousine,Undirected,1
+Herlofsen,Kristine,Undirected,4
+Herlofsen,Hr. Herlofsens,Undirected,1
+Christian den,Maarup,Undirected,1
+Christian den,ifjor,Undirected,1
+Aagaard,Manschetskjorte,Undirected,1
+Jensen,Jupiter,Undirected,1
+Augusta,Kristine,Undirected,9
+Don Alfonzo,Kristine,Undirected,1
+Augusta,Herlofsen,Undirected,11
+Gud,lille Augusta,Undirected,1
+Augusta,Jensen,Undirected,10
+Jespersen,Momme,Undirected,2
+Bøgsted,Jespersen,Undirected,1
+Jespersen,kim,Undirected,1
+Aagaard,Momme,Undirected,3
+Maarup,Momme,Undirected,1
+Jensen,Momme,Undirected,1
+Karl den tolvte,L’,Undirected,1
+Bøgsted,L’,Undirected,1
+Aagaard,Smalhans,Undirected,1
+Aagaard,Jespersen,Undirected,6
+Aagaard,Doktor Aagaards,Undirected,1
+Doktor Aagaards,Maarup,Undirected,1
+Aagaard,Chr. Richardts,Undirected,1
+Chr. Richardts,Kong Rosmer Havmand,Undirected,1
+Aagaard,Kong Rosmer Havmand,Undirected,1
+A—,Petersen,Undirected,1
+Jensen,Petersen,Undirected,2
+Holgersen,Madsen,Undirected,1
+Holgersen,Traad,Undirected,1
+Jensen,Jespersen,Undirected,2
+Jespersen,Maarup,Undirected,1
+Julius,Martin,Undirected,1
+Maarup,Martin,Undirected,1
+Maarup,Petersen,Undirected,1
+Bøgsted,Rhinskvin,Undirected,1
+Bø—Bøgsteds,Jensen,Undirected,1
+Aagaard,ken Bangvhøjligt,Undirected,1
+Jensen,ken Bangvhøjligt,Undirected,1
+Jensen,Mo’,Undirected,1
+Augusta,Haabets,Undirected,1
+Augusta,Augusta Jægermesteren,Undirected,1
+Augusta Jægermesteren,Jensen,Undirected,1
+Aagaard,Jen-,Undirected,1
+Jen-,Petersen,Undirected,1
+Herlofsen,Petersen,Undirected,1
+Frøken Bang,stine,Undirected,1
+Kristine,Manuel,Undirected,1
+Au-,Kristine,Undirected,1
+Au-,gusta,Undirected,1
+Herlofsen,Maler        ,Undirected,1
+Jen-,sen,Undirected,1
+Augusta,sen,Undirected,2
+Jensen,Kristine —,Undirected,1
+Augusta,Her-,Undirected,2
+Her-,lofsen,Undirected,2
+Frøken Bang,lofsen,Undirected,1
+Herlofsen,Liv,Undirected,1
+Augusta,Flan,Undirected,1
+Herlofsen,sen,Undirected,1
+Jensen,ken Bang,Undirected,1
+Augusta,lille Augusta,Undirected,1
+Aagaard,lofsen,Undirected,1
+Edvard Jensen,hans Praxis,Undirected,1
+Hr. Hol-,gersen,Undirected,1
+Holgersen,tom,Undirected,1
+Gud,Holgersen,Undirected,1
+Gud,Petersen      ,Undirected,1
+Holgersen,Jensen,Undirected,1
+Petersen,paany     ,Undirected,1
+Holgersen,else,Undirected,1
+Jensen,gersen,Undirected,1
+Holgersen,gersen,Undirected,1
+Edvard Jensen,Holgersen,Undirected,2
+Holgersen,phil. Thorup,Undirected,1

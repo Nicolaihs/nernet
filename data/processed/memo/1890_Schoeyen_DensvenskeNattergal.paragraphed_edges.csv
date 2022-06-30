@@ -1,0 +1,212 @@
+source,target,type,weight
+Josephine,Kong Oscar,Undirected,1
+Blinde-Per,Elsa,Undirected,3
+Blinde-Per,Udpaa,Undirected,1
+Elsa,Gud signe Arbejdeti,Undirected,2
+Elsa,Maj,Undirected,1
+Blinde-Per,Per,Undirected,1
+Elsa,Per,Undirected,2
+Elsa,Lionel,Undirected,9
+Elsa,Gutten,Undirected,1
+Gambi,Lionel,Undirected,1
+Blinde-Per,Lionel,Undirected,1
+Elsa,livløs,Undirected,2
+Elsa,strax,Undirected,3
+Elsa,Wikners,Undirected,1
+Elsa,Harpe,Undirected,2
+Elsa,svarte,Undirected,3
+Elsa,Faust,Undirected,3
+Faust,Mefistofeles,Undirected,1
+Marcel,Mefistofeles,Undirected,1
+Faust,itale,Undirected,1
+Elsa,Margaretas,Undirected,1
+Elsa,paany,Undirected,3
+Elsa,tom,Undirected,2
+Elsa,Margareta,Undirected,2
+Elsa,Gudegaven,Undirected,1
+Madame,Madame Gemain,Undirected,1
+Elsa,Elsa Wikner,Undirected,1
+Elsa,Herr Bergstrøm,Undirected,1
+Bergstrøm,Elsa,Undirected,17
+Arvid,Arvid Bergstrøm,Undirected,1
+Arvid Bergstrøm,Gutten,Undirected,1
+Arvid Bergstrøm,Elsa,Undirected,1
+Elsa,Raphael,Undirected,1
+Michel Angelo,Raphael,Undirected,1
+Elsa,Michel Angelo,Undirected,1
+Ladien,Miss Elsa,Undirected,1
+Ladien,Mrs. Wikner,Undirected,1
+Elsa,Ladien,Undirected,5
+Bergstrøm,Lionel,Undirected,1
+Hr. Bergstrøm,Lord Churchill,Undirected,1
+Elsa,Mylady,Undirected,3
+Elsa,Lord Lionel,Undirected,17
+Arvid dal,Elsa,Undirected,1
+Elsa,Lord,Undirected,3
+Elsa,Gambi,Undirected,3
+Arvid,Elsa,Undirected,2
+Bergstrøm,taus,Undirected,1
+Ingeborg,Ladien,Undirected,1
+Gud,Samuel Deska,Undirected,1
+Bergstrøm,Lord Lionel,Undirected,2
+Elsa,Graad,Undirected,2
+Elsa,Signor Amati,Undirected,1
+Margareta,Mignon,Undirected,1
+Alice,Mignon,Undirected,1
+Elsa,Florents,Undirected,1
+Amati,Signorinaen,Undirected,1
+Elsa,Gud,Undirected,7
+Carolo Venturelli,Impressario Messina,Undirected,1
+Elsa,Signor Venturelli,Undirected,3
+Signorina,Vittorio Emmanuelle,Undirected,1
+Elsa,Valentine,Undirected,3
+Messina,Signorina,Undirected,1
+Messina,Signor Venturelli,Undirected,1
+Signor Venturelli,Signorina,Undirected,1
+Elsa,Signorina,Undirected,1
+Elsa,Signorinaen,Undirected,1
+Elsa,Signorina Jacobi,Undirected,2
+Signorina Bartoldi,Signorina Jacobi,Undirected,1
+Signorina,Signorina Bartoldi,Undirected,1
+Jacobi,Signorina,Undirected,1
+Elvira Bartoldi,Signoraen,Undirected,1
+Messina,Signorina Bartalucci,Undirected,1
+Elsa,Signora Bartoldi,Undirected,1
+Messina,iland,Undirected,1
+Desserien,Elsa,Undirected,1
+Elsa,Signoraen,Undirected,1
+Messina,Venturelli,Undirected,3
+Impressario,Venturelli,Undirected,1
+Elsa,Etna,Undirected,1
+Elsa,Signor Mascaroni,Undirected,1
+Elsa,Venturelli,Undirected,5
+Elsa,Kaien,Undirected,1
+Elsa,for-bauses,Undirected,1
+Signorina Jacobi,Venturelli,Undirected,1
+Signorina,Signorina Jacobi,Undirected,1
+Norma,Signorina Jacobi,Undirected,1
+Elsa,Georg Bernhardi,Undirected,1
+Georg Bernhardi,Messina,Undirected,1
+Elsa,Greven,Undirected,3
+Elsa,Rossini,Undirected,1
+Elsa,Norma,Undirected,1
+Bernhard,Napoleon,Undirected,1
+Elsa,Francs,Undirected,1
+Bernhard,Elsa,Undirected,37
+Amor,Mascaroni,Undirected,1
+Elsa forbauset,Signor Venturelli,Undirected,1
+Elsa,Impres-sarioens,Undirected,1
+Mascaroni,Signor Mascaroni,Undirected,1
+Elsa,Georg Bernhard,Undirected,3
+Ambroise Thomas,Elsa,Undirected,1
+Ambroise Thomas,Mignon,Undirected,1
+Elsa,Mignon,Undirected,2
+Elsa,taus,Undirected,1
+Davids,taus,Undirected,1
+Bernhard,Mignon,Undirected,1
+Carina,Graziosa,Undirected,1
+Elsa,von Zetlitz,Undirected,1
+Bernhard,von Zetlitz,Undirected,1
+Elsa,Karl den tolvtes,Undirected,1
+Elsa,Zetlitz,Undirected,1
+Elsa,Lord Lionel Churchill,Undirected,1
+Bernhard,Kong Wilhelm,Undirected,1
+Elsa,Kong Wilhelm,Undirected,1
+Bernhard —,Samuel Deska,Undirected,1
+Elsa,Samuel Deska,Undirected,5
+Bernhard,Deska,Undirected,5
+Deska,Georg Bernhard,Undirected,1
+Champs,Deska,Undirected,1
+Champs,Elysées,Undirected,1
+Deska,Elsa,Undirected,33
+Bernhard,Samuel Deska,Undirected,2
+Elsa,Franz Joseph,Undirected,1
+Bassen,Herr Deska,Undirected,1
+Demi,Elsa,Undirected,1
+Eisa,Samuel Deska,Undirected,1
+Deska,Herr Deska,Undirected,1
+Elsa,Herr Deska,Undirected,1
+Elsa,Impressarioen,Undirected,1
+Bergstrøm,Deska,Undirected,1
+Bergstrøm,Samuel Deska,Undirected,1
+Blancs,Elsa,Undirected,1
+Elsa,Formandens,Undirected,1
+Deska,Formandens,Undirected,1
+Atlaskes,Deska paany,Undirected,1
+Maletzka,femti,Undirected,1
+Deska,Tenor,Undirected,2
+Leve Samuel Deska,Samuel Deska,Undirected,1
+Deska,Maletzka,Undirected,2
+Maletzka,tom,Undirected,1
+Aagerkarle,tom,Undirected,1
+Elsa,Maletzka,Undirected,2
+Elsa,von Gortschakow,Undirected,1
+Deska,von Gortschakow,Undirected,2
+Bernikow,Maletzka,Undirected,1
+Elsa,Uraad,Undirected,2
+Allah,Deska,Undirected,2
+Addio fanciulla,Deska,Undirected,1
+Addio fanciulla,Baml,Undirected,1
+Samuel Deska,iforgaars,Undirected,1
+Graad,Gud,Undirected,1
+Elsa,Palestrinas,Undirected,1
+David,Elsa,Undirected,2
+David,Saul,Undirected,4
+David,Gud,Undirected,1
+Lord Lionel,paastaar,Undirected,1
+Lady Jane,Lord Lionel,Undirected,3
+Lord Lionel,Wellington,Undirected,1
+Liszt,Wellington,Undirected,1
+Elsa Wikner,Mrs.,Undirected,1
+Albert Hall,Elsa Wikner,Undirected,1
+Lady Jane,Mrs. Wikner,Undirected,1
+Lady Churchill,Mylord,Undirected,1
+Mrs.,Wikner,Undirected,1
+Elsa,Lady Jane,Undirected,2
+Lady Churchill,Lady Jane,Undirected,2
+Lady Churchill,Lionel —,Undirected,1
+Ladien,Lionel,Undirected,1
+Elsa,Lady Churchill,Undirected,8
+Elsa,Lordens,Undirected,1
+Dick,Lordens,Undirected,1
+. Wikner,Lorden,Undirected,1
+Elsa,Mylord,Undirected,2
+Lærker,Wagner,Undirected,1
+Schuberts,Wagner,Undirected,1
+Lorden,Schuberts,Undirected,1
+Elsa,Saul,Undirected,1
+Elsa,Kaleschen,Undirected,2
+Lady Churchill,strax,Undirected,1
+Amazone,Lord Lionel,Undirected,1
+Bergstrøm,paany,Undirected,1
+Elsa,Sing Bada,Undirected,1
+Ambra,Elsa,Undirected,1
+Lady Churchill,Lord Lionel,Undirected,3
+Elsa,Ingeborg,Undirected,1
+Gud,Lionel,Undirected,1
+Lord Lionel Elsa,Lorden,Undirected,1
+Elsa,Lorden,Undirected,1
+Mrs. Wikner,Stakkars,Undirected,1
+Gaader,Lorden,Undirected,1
+Elsa,Prinsen,Undirected,1
+D..........,Leopold,Undirected,2
+Leopold,Mrs. Wikner,Undirected,1
+Iwan Berka,Mrs. Wikner,Undirected,1
+Bohave,Iwan Berka,Undirected,1
+. Wikner,Bohave,Undirected,1
+P.,ivare,Undirected,1
+Dandier,Lord Lionel,Undirected,1
+Lord Lionel,Mrs. ElsaWikner,Undirected,1
+Deska,Lord Lionel,Undirected,1
+Elsa,Stakkars,Undirected,1
+Lady Churchill,Lord Lionel Churchill,Undirected,1
+Lady Churchill,Lorden,Undirected,2
+Gud,Lord Lionel,Undirected,1
+Elsa,Ladyes,Undirected,2
+Lord Lionel,Lorden,Undirected,1
+Dick,Elsa,Undirected,1
+Dante,Michel Angelo,Undirected,1
+Kjære,telParis Calais,Undirected,1
+Kjære,Mrs. Elsa Wikner,Undirected,1
+Lionel,Mrs. Wikner,Undirected,1
+Gud,Mrs. Wikner,Undirected,1

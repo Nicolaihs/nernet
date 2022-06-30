@@ -1,0 +1,167 @@
+source,target,type,weight
+Ingeborg,Pilten2,Undirected,1
+Ingeborg,Pilt,Undirected,1
+Flan,Stulka,Undirected,1
+Pilt,Stejngrim,Undirected,1
+Endrid Skularsons,Stejngrim,Undirected,1
+Endrid Skularsons,Sira Vigfus,Undirected,1
+Aline,Ingeborg,Undirected,2
+Ingeborg,Stejngrim,Undirected,30
+Guttorm Boye,Ingeborg,Undirected,1
+Guttorm,Guttorm Boye,Undirected,1
+Granders,Guttorm,Undirected,1
+Granders,Jon Natfari,Undirected,1
+Ingeborg,Jon Natfari,Undirected,2
+Holla,Stulka,Undirected,1
+Kaptejn Dybdal,Stejngrim,Undirected,2
+Dybdal,Stejngrim,Undirected,3
+Sira Vigfus,Stejngrim,Undirected,2
+Frederik,Stejngrim,Undirected,1
+Avdients,Stejngrim,Undirected,1
+Endrid Skularson,Skularson,Undirected,1
+Dybdal,Skularson,Undirected,2
+Fossens,Ingeborg,Undirected,2
+Fossens,Liv,Undirected,1
+Ingeborg,Liv,Undirected,1
+Groa,Stejngrim,Undirected,6
+Groa,Gud,Undirected,1
+Gud,Thorvald Vidførle,Undirected,1
+Arnesen,Jonsson,Undirected,1
+Arne Arnesen,Gudmundsen,Undirected,1
+Gudmundsen,Stephan Arnesen,Undirected,1
+Jon,Jon“,Undirected,1
+Erik Palmblad Bjørnson,Gudmundsen,Undirected,1
+Erik Bjørnson,Gudmundsen,Undirected,1
+Erik,Erik Bjørnson,Undirected,1
+Darwin,Gud,Undirected,3
+Darwin,Mistress Wright,Undirected,1
+Darwin,Jonsson,Undirected,1
+Arne Arnesen,Stejngrim Jonsson,Undirected,1
+Matthias Jochumsson,iSaga’,Undirected,1
+Sagamand,Stejngrim Jonsson,Undirected,1
+Thuride,Thuride Gram,Undirected,1
+Alan,Thuride,Undirected,2
+Arne,Thuride,Undirected,2
+Jonsson,Thuride,Undirected,2
+Horats,Oders,Undirected,1
+Oders,Venus,Undirected,1
+Horats,Jon Arnesens,Undirected,1
+Ingeborg Boye,Jon Arnesens,Undirected,1
+Jon Natfari,Stejngrim,Undirected,1
+Jon,Stejngrim,Undirected,2
+Ingeborg,Jon,Undirected,1
+Ingeborg,Stejngrim Jonsson,Undirected,1
+Arne,Ingeborg,Undirected,8
+Stejngrim,Thuride,Undirected,5
+Satyrs,Thuride,Undirected,1
+Satyrs,Stejngrim,Undirected,1
+Arne,Jon,Undirected,2
+Ingeborg,Thuride,Undirected,16
+Jon,Thuride,Undirected,2
+Jon,Othar,Undirected,1
+Othar,Sigrid,Undirected,2
+Ingeborg,Jomfru Arnesen,Undirected,2
+Kong Sigvalds,Skjald,Undirected,1
+Sigrid fejde,monne,Undirected,1
+Liljevaand,Sigrid kjære,Undirected,1
+Ingeborg,Sigrid,Undirected,2
+Huldasaga,Stejngrim Thorstejnsson,Undirected,1
+Huldas,Odin,Undirected,2
+Hulda,Thuride,Undirected,2
+Myra,Olaf Post,Undirected,1
+Jomfru Styr,Myra,Undirected,1
+Endrid Skularson,Jomfru Styr,Undirected,1
+Skularson,Stejngrim,Undirected,9
+Arnesen,Stejngrim,Undirected,2
+Arne,Stejngrim,Undirected,11
+Jomfru Arnesen,Stejngrim,Undirected,1
+Gustav Adolfs,Thuride,Undirected,1
+Gustav Adolfs,Katharina Daschkov,Undirected,1
+Gud,Thuride Finsdatter,Undirected,1
+Ingeborg Arnesen,Stejngrim,Undirected,1
+Ingeborg,Ingeborg Arnesen,Undirected,2
+Aled,Thuride Finsdatter,Undirected,1
+Ingeborg,Jon Arnesen,Undirected,1
+Aland,Ingeborg,Undirected,2
+Ingeborg,Skjald,Undirected,1
+Skjald,Skjalden,Undirected,1
+Endrid,Stejngrim,Undirected,3
+Solveg,Stejngrim,Undirected,2
+Aland,Skularson,Undirected,1
+Arne,Myra,Undirected,1
+Myra,Skularson,Undirected,2
+Arnesen,Skularson,Undirected,1
+Endrid Skularson,Stejngrim,Undirected,1
+Ingeborg,Skularson,Undirected,5
+Endrid,Pastor Skularsons,Undirected,1
+Arne,Endrid,Undirected,1
+Arne,Stundum,Undirected,1
+Solveg,Stundum,Undirected,1
+Gud,Stejngrim,Undirected,1
+Skularson,Stejngrim Jonsson,Undirected,1
+Gud,Jefferson,Undirected,1
+Bjørn,Gud,Undirected,1
+Bjørn,Groa,Undirected,1
+Arne,Skularson,Undirected,4
+Darwin,Skularson,Undirected,2
+Bjørn,Svarthamr,Undirected,2
+Bjørn,Stejngrim,Undirected,1
+Jonsson,Stejngrim,Undirected,2
+Hr. Skularson,Jonsson,Undirected,2
+Arne Arnesen,Jonsson,Undirected,1
+Myra,Stejngrim,Undirected,4
+Endrid Skularson,Myra,Undirected,1
+Hil,Thuride,Undirected,1
+Rafn,Repstyrerens,Undirected,1
+Aled,Jonsson,Undirected,1
+Jonsson,Skularson,Undirected,5
+Darwin,Karl,Undirected,1
+Rafn,Stejngrim Jonsson,Undirected,1
+Rafn,Skularson,Undirected,1
+Arne,Diogenes,Undirected,1
+Kaptejn Dybdal,Stejngrim Jonsson,Undirected,1
+Air. Cook,Kaptejn Dybdal,Undirected,1
+Air. Cook,Dybdal,Undirected,1
+Groa,Svarthamr,Undirected,1
+Skularson,Svarthamr,Undirected,1
+Dybdal,Jonsson,Undirected,1
+Braad,Stejngrim,Undirected,1
+Jonathan,Mariubakki,Undirected,1
+Jonsson,Renen,Undirected,1
+Endrid Skularson,Jonsson —,Undirected,2
+Afaa,Ingeborg,Undirected,1
+Afaa,Jonsson,Undirected,1
+Akre,Esja,Undirected,1
+Jonathan,Stejngrim,Undirected,1
+Ingeborg,Jonathan,Undirected,1
+Audun Bonde,Ingeborg,Undirected,1
+Audun Bonde,Saga,Undirected,1
+Hallgrim Petursons,Saga,Undirected,1
+Hallgrim Petursons,Ingeborg,Undirected,1
+Skurlarson,Stejngrim,Undirected,1
+Anker,Gud,Undirected,1
+Ingeborg,Liun,Undirected,2
+Endrid Skularson,Ingeborg,Undirected,1
+Dybdal,Endrid Skularson,Undirected,1
+Gud,ngrims,Undirected,2
+Groa,amle,Undirected,1
+Sira Vigfus,amle,Undirected,1
+Arne,Groa,Undirected,6
+Groa,Ingeborg,Undirected,5
+Arne,Steingrim,Undirected,1
+Jon Arnesen,Stejngrim,Undirected,1
+Thuride,Ymers,Undirected,1
+Gudmundur,Myra,Undirected,1
+Aland,Myra,Undirected,1
+Aland,Aled Hallormsstad,Undirected,1
+Aline,Stejngrim,Undirected,1
+Aline,Jonsson,Undirected,1
+Groa,Jonsson,Undirected,1
+Arne,Seneca,Undirected,1
+Gudmundur,Ingeborg,Undirected,2
+Gudmundur,Kaptejn Dybdal,Undirected,1
+Dybdal,Karl,Undirected,1
+Dybdal,Ingeborg,Undirected,1
+Ingeborg,Odin,Undirected,1
+Hel,Odin,Undirected,1
+Skularson,Thuride,Undirected,1

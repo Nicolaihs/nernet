@@ -1,0 +1,465 @@
+source,target,type,weight
+Broche,S. Schandorph,Undirected,1
+Klavs Spliith,Niels Jørgensens,Undirected,2
+Klavs Spliith,Mette Jensdatters,Undirected,1
+Charlotte,Mette Jensdatters,Undirected,1
+Amalie,Charlotte,Undirected,1
+Klavs Spliith,Mette,Undirected,1
+Meta,Mette,Undirected,1
+Lotte,Meta,Undirected,1
+Lotte,Malle,Undirected,1
+Klavs Spliith,Malle,Undirected,1
+Klavs Spliith,Nemesis,Undirected,2
+Meta Spliith,Mette,Undirected,1
+Lotte,Mette,Undirected,18
+Klavs Spluths,Lotte,Undirected,1
+Kjør,Mette,Undirected,1
+Hans,Kjør,Undirected,1
+Hans,Mette,Undirected,1
+Klavs Spliith,Mette Jensdatter,Undirected,1
+Lars Iversen,Peter,Undirected,9
+Lotte Spliith,Peter,Undirected,1
+Lotte Spliith,Peter Iversen,Undirected,1
+Lotte,Peter,Undirected,49
+Karl,Peter,Undirected,3
+Lars Iversen,Mette Splyd,Undirected,12
+Lars Iversen,Spliiths,Undirected,1
+Peter Iversen,Spliiths,Undirected,1
+Lotte Splyds,Peter Iversen,Undirected,1
+Lotte Splyds,Peter,Undirected,1
+Dril,Lars Iversen,Undirected,2
+Lind,Mette,Undirected,1
+Glarmester Ellingsen,Lind,Undirected,1
+Glarmester Ellingsen,Lotte,Undirected,1
+Glarmester Ellingsen,Mette,Undirected,1
+Ellingsens,Mette,Undirected,1
+Ellingsens,Lotte,Undirected,1
+Carlotta,Lotte,Undirected,2
+Carlotta,Peter Iversen,Undirected,1
+Lotte,Peter Iversen,Undirected,22
+Lars Iversen,Lotte,Undirected,3
+Glarmester Ellingsen,Lars Iversen,Undirected,1
+Glarmester Ellingsen,Peter Iversen,Undirected,1
+Mette Splyd,Peter,Undirected,5
+Lotte,Mette Splyd,Undirected,3
+Peter,Peter Iversen,Undirected,16
+Mette Splyd,Peter Iversen,Undirected,2
+Baronens,Lotte,Undirected,1
+Lotte,ning,Undirected,1
+Jørgen,Lotte,Undirected,1
+Gamascher,Mo,Undirected,1
+Anders T,Peter Iversen,Undirected,1
+Jørgen,Peter Iversen,Undirected,1
+Anders Karlsen,Peter,Undirected,2
+Peter,S. Schandorph,Undirected,2
+Frits,Sofy,Undirected,1
+Lotte,Sofy,Undirected,1
+Anders Tjener,Mette Splyd,Undirected,1
+Anders Tjener,Lotte,Undirected,1
+Frederik Vis,Kristian VIIIs,Undirected,1
+Mette,lille Mette,Undirected,3
+Baronessen,Mette,Undirected,2
+Baronessen,Lotte,Undirected,1
+Lise,Mette,Undirected,3
+Lars Iversen,Mette,Undirected,9
+Mo,Peter,Undirected,1
+Mette,Peter,Undirected,5
+Lars Iversen,Madam,Undirected,1
+Madam,Splyd,Undirected,1
+Lotte,Splyd,Undirected,1
+Mette,Peter Iversen,Undirected,2
+Mette Splyd,s,Undirected,1
+Mette,Trine,Undirected,3
+Mette Splyd,Trine,Undirected,2
+Mette,Mette Splyd,Undirected,4
+Lars Iversen,Trine,Undirected,2
+Lars Iversen,j-a,Undirected,1
+Iversen,j-a,Undirected,1
+Iversen,Splyd,Undirected,1
+Mette,Splyd,Undirected,1
+Iversen,Mette,Undirected,8
+Lotte,Paany,Undirected,1
+Lotte,Trine,Undirected,2
+Peter Iversen,Trine,Undirected,1
+Lars Iversen,Trumf,Undirected,1
+Filip den,Ludvig XIVs,Undirected,1
+Ludvig XIIIs,Ludvig XIVs,Undirected,1
+Ludvig XIIIs,Marie,Undirected,1
+Frederik den,Peter Jørgensen,Undirected,1
+Frederik den,Ole Nielsen,Undirected,1
+Ole Nielsen,Valet de chambre,Undirected,1
+Kristen Hansen,Valet de chambre,Undirected,1
+Kristen Hansen,Mads Sørensen,Undirected,1
+Ludvig XIIIs,Mads Sørensen,Undirected,1
+Emil Toile,Ludvig XIIIs,Undirected,1
+Emil Toile,Hans Peter Jensen,Undirected,1
+Hans Peter Jensen,Morten Persen,Undirected,1
+Frans den,Lotte Splyd,Undirected,1
+Frans den,Lotte,Undirected,1
+Baron Horsten,Kristian,Undirected,1
+Baron Horsten,Husarri tmester,Undirected,1
+Beringskjold,Husarri tmester,Undirected,1
+Bjørns,Horsten,Undirected,1
+Agavens,Bjørns,Undirected,1
+Anders,Beringskjold,Undirected,1
+J,ami Fritz,Undirected,1
+Beringskjold,ami Fritz,Undirected,1
+Beringskjold,le Chåtelain,Undirected,1
+Soubrette,le Chåtelain,Undirected,1
+Beringskjold,Jamais,Undirected,1
+Anders,Lotte Splyd,Undirected,2
+Anders,Lotte,Undirected,5
+Gud,Lotte,Undirected,2
+Nesse,Peter Iversen,Undirected,1
+Lotte,lille Lotte,Undirected,2
+Lotte Splyd,Peter Iversen,Undirected,7
+Lotte Splyd,Mette,Undirected,1
+Ingemanns,Lotte,Undirected,1
+H. F. Ewalds,Ingemanns,Undirected,1
+Karl,Lotte,Undirected,1
+Mette,gurer,Undirected,1
+Karo,Lotte,Undirected,1
+Lotte,Lotte Splyd,Undirected,4
+Fa,Mette Splyd,Undirected,1
+Iversen,Mette Splyd,Undirected,3
+Iversen,Porce-,Undirected,1
+Lars Iversen,Lotte Splyd,Undirected,1
+Lars Iversen,Lødberg,Undirected,1
+Gud,Lars Iversen,Undirected,2
+Gud,Sidse,Undirected,1
+Iversen,Lars Iversen,Undirected,2
+Mette,Ollendorffs,Undirected,1
+Mette,hans,Undirected,1
+Iversen,Madam Splyd,Undirected,1
+Gud,Iversen,Undirected,1
+Graad,Mette,Undirected,1
+Lotte,Mads Hansen,Undirected,1
+Mette,bo,Undirected,1
+Lars Iversen,bo,Undirected,1
+Graad,Lotte,Undirected,1
+Peter,Thors,Undirected,1
+Lotte,Thors,Undirected,1
+Lotte,Thor,Undirected,1
+Loke,Thor,Undirected,1
+Loke,Lotte,Undirected,1
+Lotte,Thialfe,Undirected,1
+Kodans,Thialfe,Undirected,1
+Thialf,Thor monne,Undirected,1
+Frejas,Roska,Undirected,1
+Graad,Peter,Undirected,1
+Adjøs,Pedersen,Undirected,1
+Adjøs,Hansen,Undirected,1
+Jespersen,Lotte,Undirected,1
+Juliane,Lotte,Undirected,3
+Lotte,Spliith,Undirected,1
+Lotte,Sjanne,Undirected,1
+Liihrs,Sjalotte,Undirected,1
+Gud,Lotte Skovfoged Iversens,Undirected,1
+Iversen,Lotte,Undirected,1
+Juliane,Spliith,Undirected,1
+Juliane,Kristian VIII,Undirected,1
+Gud,Kristian VIII,Undirected,1
+Liihrs,dan,Undirected,1
+Gud,Liihrs,Undirected,1
+Gud,Juliane,Undirected,1
+Juliane,Svend,Undirected,1
+Liihrs,Svend,Undirected,1
+Juliane,Liihrs,Undirected,3
+Horsten,Lotte,Undirected,1
+Anders,Horsten,Undirected,1
+Anders,Peter Iversen,Undirected,1
+Morfeus,Pjerrot,Undirected,1
+Abrahamsens,Morfeus,Undirected,1
+Lotte,Pjerrot,Undirected,1
+Liihrs,Madam Svendsen,Undirected,1
+Jonas,Pjerrot,Undirected,1
+Jonas,Liihrs,Undirected,1
+Liihrs,nte,Undirected,1
+Jonas,Juliane,Undirected,1
+Alexandersen,Jonas,Undirected,1
+Alexandersen,Feddersen,Undirected,2
+Feddersen,Jacobsens,Undirected,1
+Alexandersen,Jacobsens,Undirected,1
+Feddersen,valse,Undirected,1
+Feddersen,Pepita,Undirected,1
+El Olsen,Pepita,Undirected,1
+Feddersen,Jonas,Undirected,1
+Lotte,Petersen,Undirected,2
+Alexandersen,Lotte,Undirected,2
+Petersen,Vals,Undirected,1
+Lotte,Vals,Undirected,1
+Frederik den,Petersen,Undirected,1
+Anders Tjener,Lakajens,Undirected,1
+Lakajens,Peter Iversen,Undirected,1
+Alexandersen,Peter Iversen,Undirected,1
+Iversen,Peter Iversen,Undirected,3
+H..,L D,Undirected,1
+Horsten,L D,Undirected,1
+Horsten,Lars Iversen,Undirected,1
+Lars Iversen,S. Schandorph,Undirected,1
+Fuldmægtig Jespersen,Hr. Jespersen,Undirected,1
+Goethes,Ifigenia,Undirected,1
+Goethes,mutters,Undirected,1
+Goethes,Gud,Undirected,1
+Gud,Jespersen,Undirected,3
+Don Juan,Rosina,Undirected,1
+Jespersen,Karl,Undirected,1
+Henrik Ibsen,Per Gynt,Undirected,1
+Heiberg,Oehlenschlager,Undirected,1
+Heiberg,Poul Møller,Undirected,1
+Poul Møller,Weyse,Undirected,1
+Kuhlau,Weyse,Undirected,1
+Kuhlau,Ryge,Undirected,1
+Karl Winsløw,Ryge,Undirected,1
+Karl Winsløw,Nielsen,Undirected,1
+Nielsen,Rosenkilde,Undirected,1
+G. H. Gram,Jespersen,Undirected,2
+Jespersen,Justitsraad Gram,Undirected,3
+Justitsraad Gram,tede,Undirected,1
+Nikodemus,tede,Undirected,1
+Kristus,Nikodemus,Undirected,1
+Jespersen,Kristus,Undirected,1
+Anders Tjener,Peter Iversen,Undirected,1
+Gud,Peter Iversen,Undirected,2
+Annette,Charlotte,Undirected,31
+Charlotte,Lotte Splyd,Undirected,1
+Annette,Lotte Splyd,Undirected,1
+Annette,Oberkellnerens,Undirected,1
+Annette,Pathos,Undirected,1
+Charlotte,Pathos,Undirected,1
+Charlotte,Oberkellner Osternmayer,Undirected,1
+Annette Knauer,Oberkellner Osternmayer,Undirected,1
+Annette,Annette Knauer,Undirected,1
+Annette,Karl,Undirected,1
+Karl,Karlen,Undirected,1
+Charlotte,Karl,Undirected,2
+Annette,Karlen,Undirected,1
+Annette,Lars Iversen,Undirected,1
+Charlotte,Horsten,Undirected,1
+Horsten,Sparre,Undirected,1
+Sparre,Østerager,Undirected,1
+Brahdes,Fermez la,Undirected,1
+Charlotte,Laube,Undirected,1
+Brahde,Grev Broks,Undirected,1
+Charlotte,Fuldmægtig Jespersen,Undirected,1
+Jespersen,Kristian den,Undirected,1
+Fuldmægtig Jespersen,Jespersen,Undirected,1
+Jespersen,L’,Undirected,1
+Gram,Karl,Undirected,1
+Annette,Oberkellneren,Undirected,2
+Annette,Charlotte Splyd,Undirected,1
+Annette,Mette Splyd,Undirected,1
+Gud,véd,Undirected,1
+Karl,Peter Iversen,Undirected,1
+Charlotte,Osternmayer,Undirected,2
+Annette,S. Schandorph,Undirected,1
+Charlotte,Gud,Undirected,2
+Annette,Ferdinands,Undirected,1
+Charlotte,Gram,Undirected,3
+Charlotte,Skrædder Hansens,Undirected,1
+Annette,Gud,Undirected,1
+.Annette,Charlotte,Undirected,1
+Charlotte,Madam Hansen,Undirected,44
+Annette,Hansen,Undirected,8
+Madam Hansen,Neglikers,Undirected,1
+Annette,Madam Hansen,Undirected,2
+Annette,Skrædder Hansen,Undirected,2
+Annette uden,Madam Hansen,Undirected,1
+Hansen,lille Hansen,Undirected,1
+Annette,Annette Hansen,Undirected,1
+Hansen,Jomfru Spliith,Undirected,2
+Charlotte,S. Schandorph,Undirected,3
+Hansen,Madam Hansen,Undirected,10
+Annette,Whiskers,Undirected,1
+Charlotte,Hansen,Undirected,9
+Annette,Oberkellner Osternmayer,Undirected,1
+Madam Hansen,Oberkellner Osternmayer,Undirected,1
+Annette,skraa,Undirected,1
+lang,skraa,Undirected,1
+Madam Hansen,Rufs,Undirected,1
+Bruns,Madam Hansen,Undirected,1
+Charlotte,Jespersen,Undirected,3
+Anders Karlsen,Charlotte,Undirected,1
+Charlotte,Goethes,Undirected,1
+Frøken Brun,Jespersen,Undirected,1
+Etatsraad Fischers,Jespersen,Undirected,1
+Kristian Winther,lian,Undirected,1
+Proinethevs,Satans,Undirected,1
+Rolla,Satans,Undirected,1
+Brun,Jespersen,Undirected,1
+Jespersen,Luxus,Undirected,2
+Hillebrandt,Oraklet,Undirected,1
+Jespersen,Ovariesvulsters,Undirected,2
+Holberg,Per,Undirected,1
+Jespersen,Kaalunds,Undirected,2
+Jenny,Vilhelm Wiehe,Undirected,1
+Brun,Charlotte Spliith,Undirected,1
+Charlotte Spliith,Hansen,Undirected,1
+Hansen,Jespersen,Undirected,3
+Fuldmægtig Jespersen,elshynders,Undirected,1
+Hillebrandt,Jespersen,Undirected,1
+Jeppe,Madam Hansen,Undirected,1
+Jespersen,Madam Hansen,Undirected,2
+Jenny Brun,Karl Jespersen,Undirected,1
+Jenny Brun,Loupen,Undirected,1
+Jespersen,Loupen,Undirected,1
+Jenny Brun,Jespersen,Undirected,3
+Jenny,Jespersen,Undirected,1
+Anders Tjener,Charlotte,Undirected,1
+Anders,Anders Tjener,Undirected,1
+Anders,Jespersen,Undirected,2
+Anders,Madam Hansen,Undirected,2
+Anders,Charlotte,Undirected,2
+Charlotte,Sjalotte,Undirected,1
+Annette,Osternmayer,Undirected,1
+Charlotte,Luhrs,Undirected,1
+Jesus,Madam Hansen,Undirected,1
+Justitsraad Gram,Madam Hansen,Undirected,1
+Gud,Justitsraad Gram,Undirected,1
+Charlotte,Patchouli,Undirected,1
+moi la paix,quand tu t'en approches,Undirected,1
+Charlotte,quand tu t'en approches,Undirected,1
+Charlotte,Mamselle von der Spliith,Undirected,1
+Charlotte Spliith,Oberkellneren,Undirected,2
+Oberkellneren,Whiskers,Undirected,1
+Charlotte,Oberkellneren,Undirected,2
+Annette,Figaro,Undirected,1
+Charlotte,Madam,Undirected,1
+Charlotte,Liihrs,Undirected,4
+Charlotte,Madam Esbensen,Undirected,6
+Fresberre,Madam Esbensen,Undirected,2
+Fredrik,Madam Esbensen,Undirected,1
+Charlotte,Peter Iversen,Undirected,10
+Tys,j,Undirected,1
+Gram,Madam Hansen,Undirected,2
+Charlotte,Klavs Spluths,Undirected,1
+Klavs Spluths,unde Aahn,Undirected,1
+Gud,Madam Hansen,Undirected,2
+Hansen,L’,Undirected,1
+L’,hombre,Undirected,1
+Sjavs,hombre,Undirected,1
+Sjavs,Toddy,Undirected,1
+Hansen,Toddy,Undirected,3
+Flauberts,Zolas,Undirected,1
+Didelom,Hejdidelidelom,Undirected,1
+Amor,Hansen,Undirected,1
+Amor,Bacchus,Undirected,1
+Charlotte,Madam Liihrs,Undirected,2
+Hansen,Sine,Undirected,1
+Madam Hansen,Sømanden,Undirected,1
+Charlotte,Sømanden,Undirected,1
+Annette,Charlotte Spliith,Undirected,1
+Hansen,tysse,Undirected,1
+Charlotte Spliith,Madam Hansen,Undirected,1
+Charlotte Spliith,revMadam Hansen,Undirected,1
+Charlotte,revMadam Hansen,Undirected,1
+Charlotte,Irettesættelser,Undirected,1
+Madam Hansen,Peter Iversen,Undirected,7
+Charlotte,lille Charlotte,Undirected,1
+Gud,Korup,Undirected,1
+Gud,Hansen,Undirected,1
+Hansen,Lund,Undirected,1
+Lund,Madam Hansen,Undirected,1
+Hansen,j,Undirected,1
+j,lille Charlotte,Undirected,1
+Hansen,lille Charlotte,Undirected,1
+Kirstine,Peder Jensen,Undirected,1
+Peter Iversen,Ulriksen,Undirected,6
+Amtrup,Iversen,Undirected,3
+Amtrup,Mette,Undirected,1
+Mette Spliiths,Peter Iversen,Undirected,1
+Lotte,maisons^,Undirected,1
+Iversen,maisons^,Undirected,1
+Amtrup,Horsten,Undirected,2
+Mama,Ulriksen,Undirected,1
+Iversen,Ulriksen,Undirected,2
+Mama,Peter Iversen,Undirected,1
+Frits,Papa,Undirected,1
+Mama,marchons,Undirected,1
+Iversen,Mama,Undirected,1
+Holberg,Peter,Undirected,1
+Holberg,Leander,Undirected,1
+Leander,Peder Iversen,Undirected,1
+Horsten,Peder Iversen,Undirected,1
+Horsten,Peter Iversen,Undirected,4
+Lotte,Ulriksen,Undirected,1
+Anders,Frits,Undirected,2
+Anders,Karl,Undirected,1
+Beringskjold,Etatsraad Poulsens,Undirected,1
+Don Ranudo de Colibrados,Peter Iversen,Undirected,1
+Don Ranudo,Peter Iversen,Undirected,1
+Rasmus Kortsen,candidatus philosophiæ,Undirected,1
+Iversen,candidatus philosophiæ,Undirected,1
+Iversen,ayro,Undirected,2
+Peter Iversen,Rasmus Kortsen,Undirected,17
+Iversen,Peter,Undirected,1
+Iversen,Rasmus Kortsen,Undirected,1
+Rasmus Kortsen,Ulriksen,Undirected,2
+Baron von,Ulriksen,Undirected,1
+Baron von,van,Undirected,1
+Ulriksen,van,Undirected,1
+Peter Iversen,Virgil,Undirected,1
+Cæsar,Peter Iversen,Undirected,1
+Cicero,Cæsar,Undirected,1
+Cicero,Voltaires,Undirected,1
+Goethe,Voltaires,Undirected,1
+Goethe,Rasmus Kortsen,Undirected,1
+Peter,Rasmus Kortsen,Undirected,5
+Leon Gambetta,Peter,Undirected,1
+Rasmus Kortsen,Stuart Miil,Undirected,1
+Peter Iversen,Stuart Miil,Undirected,1
+Peter Iversen,h Karl den,Undirected,1
+Peter,h Karl den,Undirected,1
+Karl den Store,Rasmus Kortsen,Undirected,1
+Karl den Store,Ludvig den,Undirected,1
+Kortsen,Peter Iversen,Undirected,1
+Rasmus Kortsen,Sidse,Undirected,1
+Iversen,lille Godeste,Undirected,1
+Iversen,Theologi,Undirected,1
+Theologi,lille Iversen,Undirected,1
+Iversen,lille Iversen,Undirected,1
+Iversen,Mette Spliith,Undirected,1
+P. Iversen,Sidse,Undirected,1
+P. Iversen,Peter Iversen,Undirected,1
+Baronesse von Horsten,Peter Iversen,Undirected,2
+Fuldmægtig Jespersen,Madam Hansen,Undirected,1
+Jespersen,Liihrs,Undirected,1
+Liihrs,Madam Hansen,Undirected,4
+Hr. Liihrs,Madam Hansen,Undirected,1
+Bournonvilles,Hr. Liihrs,Undirected,1
+Madam Hansen,siisze Madam,Undirected,1
+Charlotte,Hr. Liihrs,Undirected,1
+Madam Hansen,Rasmus Kortsen,Undirected,1
+Charlotte,Rasmus Kortsen,Undirected,1
+Oberkellner Osternmayer,Peter,Undirected,1
+Charlotte,Peter,Undirected,4
+Oberkellneren,Peter Iversen,Undirected,1
+Lotte,Oberkellneren,Undirected,1
+Jespersen,Peter Iversen,Undirected,2
+Madam Hansen,Peter,Undirected,2
+Hansen,Iversen,Undirected,1
+Charlotte Spluths,Hansen,Undirected,1
+Hansen,Madarp Hansen,Undirected,1
+Juliane,Madam Hansen,Undirected,1
+Annette,Peter Iversen,Undirected,2
+Annette,Peter,Undirected,2
+Hr. Liihrs,Peter Iversen,Undirected,1
+Frue,Hr. Liihrs,Undirected,2
+Charlotte Spliith,Hr. Liihrs,Undirected,1
+Charlotte Spliith,Peter Iversen,Undirected,1
+Hans,Peter Iversen,Undirected,1
+Charlotte,Hans,Undirected,1
+Peter Iversen,j,Undirected,1
+Peter Iversen,Rasmus Kortsensk,Undirected,1
+Liihrs,Peter Iversen,Undirected,1
+Liihrs,Peter,Undirected,1
+Amtrup,Peter Iversen,Undirected,4
+Amtrup,Peter,Undirected,1
+Kortsen,Rasmus Kortsen,Undirected,1
+Charlotte,Lars Iversen,Undirected,1
+Mette Splyd,Ulriksen,Undirected,1
+Charlotte,Iversen,Undirected,1
+Hc,lille Iversen,Undirected,1
+.,Hc,Undirected,1
+Horsten,Iversen,Undirected,1
+Fil,Iversen,Undirected,1

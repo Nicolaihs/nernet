@@ -1,0 +1,140 @@
+source,target,type,weight
+Hjarl Møller,Vigant,Undirected,1
+Bedstemoer,Vigant,Undirected,1
+Helmuth,Vigant,Undirected,1
+Line,Vigant,Undirected,5
+Line,Niels,Undirected,2
+Christoffer,Line,Undirected,1
+Christoffer,Lotte,Undirected,1
+Line,Lotte,Undirected,4
+Lotte,Susselam,Undirected,1
+Susselam,Vigant,Undirected,1
+Vigant,Villie,Undirected,1
+Assesoren,Vigant,Undirected,1
+Caffe,Line,Undirected,1
+Manne,Papa,Undirected,1
+Herluf,Manne,Undirected,2
+Papa,Vigant,Undirected,3
+Gud,Papa,Undirected,1
+Gud,Vigant,Undirected,4
+Ingemann,Line,Undirected,1
+Lectier,Møller,Undirected,1
+Manne,Moer,Undirected,1
+Vigant,skraa,Undirected,1
+Manne,Vigant,Undirected,16
+Chr. Winther,Lotte,Undirected,1
+Chr. Winther,Oehlenschlæger,Undirected,1
+Vagn Poulsen,Vigant,Undirected,2
+Vagn,Vagn —,Undirected,1
+Vagn,Vigant,Undirected,29
+Møller,Vigant,Undirected,2
+Manne,Vagn,Undirected,4
+Doctoren,Vagn,Undirected,1
+Doctoren,Vigant,Undirected,2
+Poulsens,Vigant,Undirected,2
+FVu Poulsen,Vigant,Undirected,1
+FVu Poulsen,Madam,Undirected,1
+Madam,Vigant,Undirected,1
+Christoffer,Niels,Undirected,1
+Gotlieb,Vilhelm,Undirected,1
+"Poul,",Vilhelm,Undirected,1
+Einar Christiansen,"Poul,",Undirected,1
+Consul Runge,Vigant,Undirected,1
+Jonna,Vigant,Undirected,26
+Consulens,Jonna,Undirected,1
+Consulens,Gotlieb,Undirected,1
+Jonna,Pappa,Undirected,1
+Niels,Vigant,Undirected,1
+Consulen,Niels,Undirected,1
+Ciceros,Vigant,Undirected,1
+Vigant,sine Lectier,Undirected,1
+Gud,Manne,Undirected,2
+Einar Christiansen,Hjarl,Undirected,1
+Agnetes,Vigant Hjarl Møller,Undirected,1
+Danae,Leda,Undirected,1
+Danae,Eva,Undirected,1
+Eva,Magdalene,Undirected,1
+Consulen,Vigant,Undirected,2
+Consulen,Jonna,Undirected,1
+Commando,Consulen,Undirected,1
+Jonna,Tact,Undirected,1
+Mamma,Villie,Undirected,1
+Hjarl Møller,bent,Undirected,1
+Graad,Jonna,Undirected,2
+Jonna,tactfast,Undirected,1
+Hys,Pappa,Undirected,1
+Elvens,pjaskvaad,Undirected,1
+Jonna,Karen,Undirected,4
+Karen,Thor,Undirected,3
+Karen,Vigant,Undirected,1
+Graad,Vigant,Undirected,1
+Jonna,Vagn,Undirected,1
+Vagn,paany,Undirected,1
+Gorm,Vagn,Undirected,4
+Gorm,Svend Vonved,Undirected,2
+Gorm,Svend,Undirected,2
+Svend,Villie,Undirected,1
+Bjørn,Lænde,Undirected,1
+Gorm,Vigant,Undirected,7
+Svend,Svend Vonved,Undirected,4
+Jonna,Kampraabs,Undirected,1
+Svend Vonved,Vigant,Undirected,1
+Evret,Svend Vonved,Undirected,1
+Gud,Tact,Undirected,1
+Beethoven,Hartmann,Undirected,1
+Juel,Theori,Undirected,1
+Godfred Holm,Theori,Undirected,1
+Juel,notam,Undirected,1
+Juel,Vigant,Undirected,9
+Gud,Juel,Undirected,1
+Juel,Svend Vonved,Undirected,2
+Beethoven,Vigant,Undirected,1
+Beethoven,Svend Vonved,Undirected,1
+Juel,P'ejlsyn,Undirected,1
+Doctor Poulsen,Juel,Undirected,1
+Doctor Poulsen,Vigant,Undirected,1
+Bedstefader,Manne,Undirected,1
+Møller,Philip,Undirected,1
+Dufour,Mme,Undirected,7
+cher monsieur,est-cepas,Undirected,1
+Magdalene,Vigant,Undirected,1
+Florence slængte,skraa,Undirected,1
+Diablement belle,skraa,Undirected,1
+Florences,Vigant,Undirected,1
+Florences,Mme.,Undirected,1
+Dufour,Mme.,Undirected,1
+Dufour,Florence,Undirected,3
+Florence,Tes yeux,Undirected,1
+Florence,Gud,Undirected,1
+Gud,Mme,Undirected,1
+Florence,Madame,Undirected,1
+Mr. Proust,Svend Vonved,Undirected,1
+Mr. Proust,Vigant,Undirected,5
+Mr. Proust,frank,Undirected,1
+Florence,Vigant,Undirected,1
+Florence,Manne,Undirected,1
+Gud,Møller,Undirected,1
+Assessoren,Manne,Undirected,3
+Gorm,Jonas,Undirected,2
+Gorm,Møller,Undirected,1
+Christus,Gorm,Undirected,1
+Bohn,Vigant,Undirected,2
+Estrid,Vigant,Undirected,7
+F'ru Bohns,Manne,Undirected,1
+F'ru Bohns,Vigant,Undirected,1
+Betty Toft,Manne,Undirected,1
+Estrid,Iris,Undirected,1
+Manne,Uroens,Undirected,1
+Betty Toft,Estrid,Undirected,1
+Betty Toft,Vigant,Undirected,1
+Estrid,Manne,Undirected,1
+Saxen,Vigant,Undirected,1
+Assessoren,Bohave,Undirected,1
+Bohave,Vigant,Undirected,1
+Jonna,Jonna Geyer,Undirected,1
+Gud,Herre,Undirected,1
+Boesen,Vigant,Undirected,1
+Advocaten,Vigant,Undirected,3
+Advocaten,Gud,Undirected,1
+Aagren,Vigant,Undirected,1
+Graad,Manne,Undirected,1

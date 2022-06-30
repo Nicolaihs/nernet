@@ -1,0 +1,1520 @@
+source,target,type,weight
+Guds,Valborgs,Undirected,1
+Guds,Lysef,Undirected,1
+Anna Kirstine,Ellen,Undirected,14
+Anua Kirstine,Ellen,Undirected,1
+Anna Kirstine,Anua Kirstine,Undirected,1
+Anna Kirstine,Karen,Undirected,7
+Anna Kirsfine,Anna Kirstine,Undirected,1
+Christen Munck,Tycho Brahes,Undirected,1
+Ellen,Jesus Kristus,Undirected,1
+Ellen,sif,Undirected,2
+Steffen Peders,sif,Undirected,1
+Jørgen Glarmesters,Steffen Peders,Undirected,3
+Anna Kirstine,Jørgen Glarmesters,Undirected,1
+Ellen,Hexeri,Undirected,1
+AnKong Frederik den Tredie,Been,Undirected,1
+Ellen,hurt,Undirected,1
+Ellen,Valborgs,Undirected,1
+Ellen,Vorherres,Undirected,1
+Anna Kirstine,sfode,Undirected,1
+Ellen,Glenten,Undirected,1
+Glenten,sif,Undirected,1
+Ellen,Tangen,Undirected,1
+Tangen,sif,Undirected,1
+Ellen,Valdemars,Undirected,1
+Christen Munck,Ellen,Undirected,6
+Christen Mnnck,Ellen,Undirected,1
+Borgholms,Ellen,Undirected,2
+Ellen,Tycho Brahe,Undirected,1
+Christen Munck,Tycho Brahe,Undirected,1
+Anna Kirstine,Frederik den,Undirected,1
+Christen,Frederik den,Undirected,1
+Christen,Munck,Undirected,1
+Ellen,hnn,Undirected,5
+Chrisfen Muncks,Lian,Undirected,1
+Christian den,Frederik den,Undirected,3
+Frederik den,Sophie Amalie,Undirected,1
+Kong Frederik,Sophie Amalie,Undirected,2
+Schumacher,Svane,Undirected,4
+Ester,Peter Schumacher,Undirected,1
+Herr Korfitz,Niels Stensen,Undirected,1
+Herr Korfitz,Korfitzs,Undirected,1
+Husbonds,Kirsfine,Undirected,1
+Hans Svane,Leonora Kirsfine,Undirected,1
+Kong Frederik den Tredies,Svane,Undirected,1
+Guds,Hr. Gistop,Undirected,1
+Hr. Gistop,Korfitz,Undirected,1
+,Korfitz,Undirected,1
+,Svane,Undirected,1
+Korfitz Ulfeldt,Svane,Undirected,1
+Dina Vinhofers,Korfitz Ulfeldt,Undirected,1
+Dina Vinhofers,Korfitz,Undirected,1
+Dina,Korfitz,Undirected,1
+Frøken Leonoras,Leonora,Undirected,1
+Leonora Kirstine,Svane,Undirected,1
+Gud,Leonora Kirstine,Undirected,3
+Korfikz Ulfelds,ningens,Undirected,1
+Korfikz Ulfelds,Leonora Kirstine,Undirected,1
+Leonora Kirstine Ulfeld,Sophie Amalie,Undirected,1
+Leonora Kirstine Ulfeld,hnn,Undirected,1
+Leonora Kirstine,Sophie Amalie,Undirected,5
+Sophie Amalie,sknlde,Undirected,1
+Christian den,Leonora Kirstine,Undirected,2
+Peder,Spaadom,Undirected,1
+Peder Schumacher,Spaadom,Undirected,1
+Peder Schumacher,Svane,Undirected,1
+Christian den,kjæræ,Undirected,1
+Bøgey,Værelsefs,Undirected,1
+Peder Schumacher,Værelsefs,Undirected,1
+Ellen,Schumacher,Undirected,41
+Schumacher,as Schumachers,Undirected,1
+Ellen,denUdaad,Undirected,1
+Ellen,Lysef,Undirected,1
+Anna Kirstine,Lysef,Undirected,2
+Christen Munck,Karen,Undirected,1
+Karen,Peder Schumacher,Undirected,1
+Christen Munck,Schumacher,Undirected,4
+Anna Kirstine,Christen Munck,Undirected,6
+Anna Kirsfine,Christen Mnnck,Undirected,1
+Anna Kirsfine,Lysef,Undirected,1
+Kong Christian den Fjerdes,Schumacher,Undirected,1
+Christen Munck,Høibords,Undirected,1
+Karl,Peder Schumacher,Undirected,1
+Karlen,Schumacher,Undirected,2
+Herr Schumacher,minTokaierer,Undirected,1
+Ellen,Gud,Undirected,10
+Ellen,Peder Schumacher,Undirected,6
+Christen Munck,Tokaier,Undirected,2
+Anna Kirsfine,Christen Munck,Undirected,1
+Christen Munck,Marv,Undirected,1
+Marv,Munck,Undirected,1
+Munck,endnn,Undirected,1
+Ieg,Prokurprens,Undirected,1
+Schumacher,endnn,Undirected,1
+Christen Munck,Ieg,Undirected,1
+Christian,sif blaa,Undirected,1
+Leonora Kirstine,sif blaa,Undirected,1
+Leonora Kirstine,Ulfelds,Undirected,2
+Ulfelds,sif,Undirected,3
+Leonora,sif,Undirected,1
+Kirstine,Leonora,Undirected,3
+Aaget,sif,Undirected,1
+Aaget,hnn,Undirected,1
+Christian,Ulfelds,Undirected,1
+Christian,soni Leonora Kirstine,Undirected,1
+Kong Christians,soni Leonora Kirstine,Undirected,1
+Kong Christians,Leonora,Undirected,1
+Kirstine,Leonora Kirstine,Undirected,1
+Sofie Amalie,Sophie Amalie,Undirected,1
+Leonora Kirstine,Sofie Amalie,Undirected,2
+Christian,Leonora Kirstine,Undirected,1
+Christian,Leonora,Undirected,1
+Kong Frederik,Leonora,Undirected,1
+Kong Frederik,Ulfcld,Undirected,1
+Leonora,Ulfcld,Undirected,1
+Leonora,Leonora Kirstine,Undirected,1
+Kong Carl den,Leonora Kirstine,Undirected,2
+Leonora Kirstine,Sophie Amalie Peder Schumacher,Undirected,1
+Kay Lykke,Sophie Amalie,Undirected,1
+Leonora Kirstine,jø,Undirected,1
+Ellen,Leonora Kirstine Ulfeld,Undirected,1
+Ellen,Leonora Kirstine,Undirected,22
+Leonora Kirstine,Pinsel,Undirected,2
+Ellen,Fals,Undirected,1
+Ellen,Køngen,Undirected,2
+Hans Nansen,Kantsler Vinds,Undirected,1
+Hans Nansen,Schumacher,Undirected,11
+Ellen,Hans Nansen,Undirected,1
+Hans Nansen,Løvte,Undirected,1
+Assessor,Hans Nansen,Undirected,1
+Ellen,jø,Undirected,2
+Gud,Peder Schumacher,Undirected,2
+Peder Schumacher,Schumacher,Undirected,5
+Kong Frederik den Tredie,Sophie Amalie,Undirected,1
+Frederik,Schumacher,Undirected,1
+Frederik den,dandse,Undirected,1
+Catharina Nansen,Schumacher,Undirected,5
+Catharina Nansen,Naades,Undirected,1
+Naades,Schumacher,Undirected,1
+Jomfru Nansen,Peder Schumacher,Undirected,2
+Jomfru Nansen,Schumacher,Undirected,1
+Nansen,Schumacher,Undirected,8
+Catharina Nansen,Nansen,Undirected,1
+Catharina Nansen,Ellen,Undirected,1
+Catharine Nansen,Ellen,Undirected,4
+Catharine Nansen,Peder Schumacher,Undirected,2
+Catharine,Ellen,Undirected,4
+Beiler,Ellen,Undirected,1
+Beiler,Schumacher,Undirected,1
+Catharina Nansen,Peder Schumacher,Undirected,3
+Ellen,Nansen,Undirected,1
+Ca-tharines,Catharine,Undirected,1
+Ca-tharines,Schumacher,Undirected,1
+Catharine Nansen,Schumacher,Undirected,2
+Avind,Catharine Nansen,Undirected,1
+Jomfru Catharine,Schumacher,Undirected,1
+Hansen,Schumacher,Undirected,1
+Jomfru Catharina,Schumacher,Undirected,2
+Ellen,Rattens,Undirected,1
+Leonora Kirstine,Schumacher,Undirected,5
+Schumacher,ester,Undirected,1
+Prinds,Schumacher,Undirected,2
+Frøken Leonoras,Hr. Schumacher,Undirected,1
+Schumacher,sif,Undirected,1
+Hans Nansen,sif,Undirected,1
+Hans Nansen,Jomfru Catharine,Undirected,2
+Dandsens,Jomfru Catharine,Undirected,1
+Dandsens,Hans Nansen,Undirected,1
+Hans Nansen,Kong Frederik,Undirected,1
+Ellen,Kong Frederik,Undirected,1
+Ellen,høilys,Undirected,1
+Ellen,Leonora,Undirected,1
+Leonora Kirstine,Sofie Amalias,Undirected,1
+Eleo nora Kirstines,Ellen,Undirected,1
+Ellen,Peder,Undirected,1
+Peder,Schumacher,Undirected,1
+Leonora Kirstine,høilys,Undirected,1
+Peder Schumacher,celli,Undirected,1
+Ellen,Herr Schumacher,Undirected,2
+Prindsen,Schumacher,Undirected,9
+Herr Schnmacher,Prindsen,Undirected,1
+Anna Kirstine,Pintes,Undirected,2
+Christen Munck,Ellen Andersdatter,Undirected,2
+Ellen Andersdatter,Karen,Undirected,1
+Anna Kirstine,Slegfred,Undirected,1
+Frederik den,Resen,Undirected,1
+Christen Munck,Gud,Undirected,1
+Frederik,Gud,Undirected,1
+Christen Munck,kaldfes,Undirected,1
+Christen Munck,sorat,Undirected,1
+Christen Munck,Hans Resen,Undirected,1
+Hans Resen,Resen,Undirected,1
+Christen Munck,Resen,Undirected,5
+Anna Kirstine,Ellen Andersdatter,Undirected,2
+Chrisfen Munck,Resen,Undirected,2
+Resen,steiles,Undirected,1
+Ellen,PrindsenS,Undirected,1
+Schumacher,forbausef,Undirected,1
+Ellen,Prindsen,Undirected,4
+Ellen,Jomfrn Nansen,Undirected,1
+Marter,Schumacher,Undirected,1
+Herkules,Peder Schumacher,Undirected,1
+Hans Nansen,Peder Schumacher,Undirected,1
+Ellen,Prinds Christian,Undirected,1
+Horizont,Schumacher,Undirected,2
+Schumacher,Sophie Amalie,Undirected,1
+Prinds,Sophie Amalie,Undirected,1
+Madonnas,Prinds,Undirected,1
+Madonnas,Schumacher,Undirected,1
+Schumacher,Steen,Undirected,1
+Schumacher,def,Undirected,1
+Herr Schumacher,Prindsen,Undirected,2
+Peder Schumacher,gelse,Undirected,1
+Christian,Saasnart Prinds,Undirected,1
+Christian,Secretair Schumacher,Undirected,1
+Christian,Schumacher,Undirected,1
+Hans Høihed,Prindsen,Undirected,1
+Nansen,Svane,Undirected,1
+Flor,Nansen,Undirected,1
+Lasson strax,Resen,Undirected,1
+Erkebisp Svane,Nansen,Undirected,1
+Nansen,Stadshauptmand Thuresen,Undirected,1
+Lassen,Peder Schumacher,Undirected,1
+Herr Schumacher,Svane,Undirected,2
+Schumacher,Thuresen,Undirected,1
+Resen,Svane,Undirected,1
+Resen,Thuresen,Undirected,1
+Niels Juel,Thuresen,Undirected,1
+Lasson,Peder Schumacher,Undirected,6
+Lasson,Resen,Undirected,24
+Resen,Schumacher,Undirected,10
+Lasson,pede,Undirected,1
+Peder Schumacher,kjølnc,Undirected,1
+Herr Lassen,kjølnc,Undirected,1
+Herr Lassen,sfyrter Schumacher,Undirected,1
+Schumacher,sfyrter Schumacher,Undirected,1
+Gud,Lassen,Undirected,1
+Gud,Peder Resen,Undirected,1
+Balks,Svane,Undirected,1
+Lasson,Svane,Undirected,5
+Herr Schumacher,Schumacher,Undirected,1
+Lasson,iveiret,Undirected,1
+Ben Hans Nansens,Peder Lasson,Undirected,1
+Hans Svane,Peder Lasson,Undirected,1
+Kong Frederik,Svane,Undirected,1
+Kong Frederik,Schumacher,Undirected,1
+Jomfru Catharmas,Nansen,Undirected,1
+Hans Nansen,Jomfru Catharmas,Undirected,1
+Catharina,Schumacher,Undirected,4
+Catharina,Ellen,Undirected,1
+Blomsf,Catharina,Undirected,1
+Catharina,Hans Nansen,Undirected,1
+Chatarinas,Schumacher,Undirected,2
+Køngen,Schumacher,Undirected,1
+Catharina Nansen,Køngen,Undirected,3
+Hans Nansen,Køngen,Undirected,1
+Hans Nansen,Nansen,Undirected,5
+Frederik,Hans Nansen,Undirected,1
+Jomfru Catharina,Nachen,Undirected,1
+Catharina,Nan,Undirected,1
+Nansen,Schnmacher,Undirected,1
+Schnmacher,blol,Undirected,1
+Catharina,Prinds Chrisfian,Undirected,1
+Nansen,Resen,Undirected,4
+Peder Lassen,Resen,Undirected,1
+Peder Lassen,Schumacher,Undirected,1
+Hans Nansen,Resen,Undirected,3
+Herr Schumacher,Nansen,Undirected,1
+Christen Munck,Nansen,Undirected,1
+Christen Munch,Resen,Undirected,1
+Christen Munch,Schumacher,Undirected,1
+Ellen,Resen,Undirected,3
+Schumacher,taus,Undirected,1
+Peder Lasson,Peder Resen,Undirected,1
+Borgholm,Schumacher,Undirected,1
+Borgholm,Resen,Undirected,1
+Gud,Jnstrux,Undirected,1
+Christen Munck,Lasson,Undirected,1
+Christen Munck,Ellen Pedersdatter,Undirected,3
+Catharina Nansen,Peder Schumacher Borgholm,Undirected,1
+Elvin,Lasson,Undirected,4
+Lasson,Rasmus Vinding,Undirected,1
+Lasson,Vinding,Undirected,1
+Christen Munck,Peder Resen,Undirected,1
+Munck,Peder Resen,Undirected,1
+Christen Munck sfal,Munck,Undirected,1
+Borg holm,Schumacher,Undirected,1
+Lasson,Pagen,Undirected,1
+Lasson,ban,Undirected,1
+Leonora Kirstine,Peder Schumacher,Undirected,1
+Gud,Schumacher,Undirected,2
+Dacknarks,Frederik den Tredie,Undirected,1
+Catharina Nansen,saamegen,Undirected,1
+Pagen,Schumacher,Undirected,1
+Ellen,Schnmacher,Undirected,1
+Lasson,lovel,Undirected,1
+Lassen,lovel,Undirected,1
+Lassen,Schumacher,Undirected,1
+Herr Lasson,kjæræ Schumacher,Undirected,1
+Pagen,Prinds Christian,Undirected,1
+Prinds,Prindsen,Undirected,1
+Ellen,Kong Valdemar,Undirected,1
+Ellen,Kronprindsens,Undirected,1
+Ellen,Marv,Undirected,1
+Hans Høihed,Kronprindsen,Undirected,1
+Leonora Kirstine,hendd,Undirected,1
+Christian den Femte,Peder Schumacher,Undirected,1
+Christian den Femte,Frederik den Tredie,Undirected,1
+Paul Løvenørn,Ulrik Gyldenløve,Undirected,1
+Ole Rømer,Paul Løvenørn,Undirected,1
+Kurt Adeler,Ole Rømer,Undirected,1
+Schumacher,ester Solnedgang,Undirected,1
+Hans Nansen,Thomas Kingo,Undirected,1
+Kantate,Thomas Kingo,Undirected,1
+Herr,Kantate,Undirected,1
+Hans Svane,paabe,Undirected,1
+Hans Nansen,paabe,Undirected,1
+Bisfoppen,Schumacher,Undirected,2
+Schumacher,koldl,Undirected,1
+Catharina Nansen,Kronprinds Chrisfian,Undirected,1
+Kronprinds Chrisfian,Schumacher,Undirected,1
+Schumacher,hnn,Undirected,1
+Prindsen,hnn,Undirected,2
+Husarrest,Prindsen,Undirected,1
+Husarrest,Schumacher,Undirected,1
+Schumacher,j,Undirected,2
+Catharina Schumacher,Dandsen,Undirected,1
+Filur,Schumacher,Undirected,1
+Lasson,shnes,Undirected,1
+Lasson,Schumacher,Undirected,9
+Peder Resen,Schumacher,Undirected,1
+Christian,Kronprinds Christian,Undirected,1
+Christian,Prinds Georg,Undirected,1
+Frederik den,Prinds Georg,Undirected,2
+Anna,Prinds Georg,Undirected,1
+Griffenfeld,fasf,Undirected,2
+Geheimeraad,Griffenfeld,Undirected,2
+Jomfru Moth,Mathias Moth,Undirected,1
+Griffenfeld,Moth,Undirected,9
+Be,Moth,Undirected,1
+Catharine Nansen,Kronprinds Christian,Undirected,1
+Kronprinds Christian,Ludvig den,Undirected,1
+Kong Ludvig,Kronprinds Christian,Undirected,1
+Kong Ludvig,Ludvig,Undirected,1
+Kronprinds Christian,Ludvig,Undirected,1
+Charlotte Amalie,Kronprinds Christian,Undirected,1
+Charlotte Amalia,Charlotte Amalie,Undirected,1
+Charlotte Amalia,Kronprinds Christian,Undirected,1
+Kronprinds Christian,Sofie Amalie,Undirected,1
+Charlotte Amalia,Sofie Amalie,Undirected,1
+Kong Frederik,sørend,Undirected,1
+Kønges,Sophie Amalie Moth,Undirected,1
+Hnn,Sophie Amalie Moth,Undirected,1
+Hnn,Sophie Moth,Undirected,1
+Mathias Moth,Sophie Moth,Undirected,1
+Kong Frederik den Tredie,Mathias Moth,Undirected,2
+Folkefs,Mathias Moth,Undirected,1
+Folkefs,Schumacher,Undirected,1
+Charlotte Amalia,Schumacher,Undirected,1
+Gaader,Mathias,Undirected,1
+Mathias,Sophie,Undirected,1
+Sophie Moth,huu,Undirected,1
+hnn,huu,Undirected,1
+Jomfru Moth,dvg,Undirected,1
+Griffenfeld,Sophie Amalie,Undirected,1
+Ellen,Kronprinds Christian,Undirected,1
+Ellen,iland,Undirected,2
+Ellen,Sophie Amalie,Undirected,1
+Boler,Ellen iveiret,Undirected,1
+Ellen,Rudera,Undirected,1
+Ellen,Kapi tains,Undirected,1
+Ellen,Kapitain Arensstorff,Undirected,1
+Ester,Komando,Undirected,1
+Ellen,Niels,Undirected,1
+Kapitainen,Niels Juel,Undirected,1
+Gud,Niels Jucl,Undirected,1
+Ellen,Kapitainen,Undirected,2
+Niels Juel,djærve,Undirected,1
+Ellen,djærve,Undirected,1
+Bremerholms,Ellen,Undirected,2
+Bremerholms,Niels Jnel,Undirected,1
+Ellen,Niels Jnel,Undirected,2
+Kapitainen,Niels Jnel,Undirected,1
+Ellen,Kronprindsen,Undirected,1
+Ellen,fig,Undirected,2
+Jomfru Moth,offre,Undirected,1
+Jomfru Moth,hnn,Undirected,1
+Famas,hnn,Undirected,1
+Famas,Lehnsgrevinde,Undirected,1
+Lehnsgrevinde,Samsøe,Undirected,1
+Gud,Samsøe,Undirected,1
+Jomfru Moth,lef,Undirected,1
+Jomfru Moth,Samsøe,Undirected,3
+Jomfru Moth,kjære Griffenfeld,Undirected,1
+Griffenfeld,Terlon,Undirected,2
+Kong Ludvig,Samsøe,Undirected,1
+Griffenfeld,Køngen,Undirected,4
+Mathias MothS,Sophie Moth,Undirected,2
+Samsøe,Sophie Moth,Undirected,1
+Griffenfeld,Samsøe,Undirected,1
+Millio ners,hnn,Undirected,1
+hnn,sif,Undirected,1
+Christian den,sif,Undirected,1
+Christian den,Gyldenløve,Undirected,4
+Christian den,Frederik,Undirected,3
+Kronprinds Frederik,Ulrik Frederik Gyldenløve,Undirected,1
+Kronprinds Frederik,Margrethe von Pappen,Undirected,1
+Gyldensløves,sik Paalæg,Undirected,1
+Ulrik Gyldenløve,sik Paalæg,Undirected,1
+Sofie Amalie,Ulrik Gyldenløve,Undirected,1
+Gyldenløve,Sofie Amalie,Undirected,1
+Gyldenløve,mesf,Undirected,1
+Christian,mesf,Undirected,1
+Carl Gustavs,Ulrik Gyldenløve,Undirected,1
+Be leiringen,Carl Gustavs,Undirected,1
+Be leiringen,Gyldenløve,Undirected,1
+Gyldenløve,Ulrik Gyldenløve,Undirected,1
+Carl Il,Ulrik Gyldenløve,Undirected,1
+,Carl Il,Undirected,1
+Gyldenløve,Prinds Christian,Undirected,1
+Prinds Christian,Ulrik Gyldenløve,Undirected,1
+Christian den,Ulrik Gyldenløve,Undirected,1
+Adam Levin,Gyldenløve,Undirected,1
+Adam Levin,"h,",Undirected,1
+Kronprinds Christian,"h,",Undirected,1
+Griffenfeld,Knuth,Undirected,16
+Griffenfeld,sif Banner,Undirected,1
+Prinds Christian,sif Banner,Undirected,1
+Knuth,Prinds Christian,Undirected,1
+Gyldenløve,Knuth,Undirected,18
+Griffenfeld,Mathias Moth,Undirected,2
+Griffenfeld,sif,Undirected,2
+Jomfru Moth,sif,Undirected,1
+Gyldenløve,Samsøe,Undirected,2
+Knuth,ask,Undirected,1
+Charlotte Amalie,ask,Undirected,1
+Charlotte Amalie,Gyldenløve,Undirected,1
+Christian,Knuth,Undirected,1
+Christian,Sofie Amalie Moth,Undirected,2
+Knuth,Sofie Moth,Undirected,5
+Griffenfeld,Knnth,Undirected,3
+Samsøe,kjære Knuth,Undirected,1
+Griffenfeld,Peer Nittengryn,Undirected,1
+Knuth,Peer Nittengryn,Undirected,1
+Knuth,Susanne,Undirected,1
+Knuth,Sofie,Undirected,1
+Griffenfeld,Gyldenløve,Undirected,54
+Griffenfeld,Jomfru Moth,Undirected,1
+Geheimeraad,Gyldenløve,Undirected,1
+Grif fenseld,Knuth,Undirected,1
+Gyldenløve,Knnth,Undirected,2
+Samsøe,Sofie Amalie Moth,Undirected,2
+Charlotte Amalie,Sofie Moth,Undirected,1
+Mathias Moth,Sofie Moth,Undirected,1
+Mathias Moth,Peder Griffenfeld,Undirected,1
+Honneur,Sofie Moth,Undirected,1
+Gyldenløve,Sofie Moth,Undirected,7
+Kaval lerers,Sofie Moth,Undirected,1
+Gyldenløve Kallø Slol,Knuth,Undirected,1
+Sofie Moth,hnn,Undirected,3
+Geheimeraad Griffenfeld,Knuth,Undirected,1
+Kong Christian,Moth,Undirected,1
+Knuth,Moth,Undirected,3
+Griffenselds,Knuth,Undirected,1
+Moth,Wigand Michelbecker,Undirected,1
+Christian den,Knuth,Undirected,1
+Griffenfeld,tans,Undirected,1
+Grisfenfeld,Levin Knuth,Undirected,1
+Grisfenfeld,Moth,Undirected,1
+Avind,Griffenfeld,Undirected,1
+Avind,Knuth,Undirected,1
+Herr Griffenfeld,Moth,Undirected,1
+Geheimeraad Griffenfeld,Moth,Undirected,2
+Griffenfeld,Herr Knuth,Undirected,2
+Christian den,Moth,Undirected,1
+Herr Griffenfeld,Herr Knuth,Undirected,2
+Griffenfeld,Sofie Moth,Undirected,8
+Knnth,Moth,Undirected,1
+Grevinde Moth,Knnth,Undirected,1
+Gyldenløve,Herr Grisfenfeld,Undirected,1
+Grevinde Moth,Herr Grisfenfeld,Undirected,1
+Griffenfeld,Kuuths,Undirected,1
+Frederik den,Leonora Kirstine,Undirected,1
+Frederik den,Sofie Amalie,Undirected,1
+Christian den,Sofie Amalie,Undirected,3
+Griffenfeld,Leonora Kirstine,Undirected,1
+Ellen,Griffenfeld,Undirected,27
+Christian,Christian den Fjerde,Undirected,1
+Køngen,Peder Griffenfeld,Undirected,1
+Christian den,Griffenfeld,Undirected,5
+Ellen,Merkel,Undirected,2
+Ellen,tans,Undirected,1
+Ellen,Herr Merkel,Undirected,3
+Gjertrud,Moer,Undirected,1
+Ellen,Gjertrud,Undirected,1
+,Agnes,Undirected,1
+Griffenfeld,Kirsten Piils,Undirected,1
+Ellen forlod,Griffenfeld,Undirected,1
+Kong Ludvig,Ludvig den,Undirected,1
+Kong Ludvig,fransfe,Undirected,1
+Christian den Femte,fransfe,Undirected,1
+Christian den Femte,Ludvig,Undirected,1
+Christian den,Frederik den Tredie,Undirected,1
+Adam Levin Knuth,Christian den,Undirected,1
+Frederik,Peder Schumacher,Undirected,1
+Christian den,Peder Schumacher,Undirected,1
+Griffenfeld,Grisfenfeld,Undirected,4
+Grisfenfeld,Gyldenløve,Undirected,2
+Gyldenløve,hans kjæræ,Undirected,2
+Griffenfeld,Griffenseld,Undirected,1
+. d Sverig,Griffenfeld,Undirected,2
+Grevinde Moth,Gyldenløve,Undirected,1
+Grevinde Moth,Griffenfeld,Undirected,2
+Griffenfeld,Kon seilets,Undirected,1
+Gyldenløve,Kon seilets,Undirected,1
+Griffen felds,Gyldenløve,Undirected,1
+Depecher,Gyldenløve,Undirected,1
+Grfffenfelds,Gyldenløve,Undirected,1
+Gyldenløve,j,Undirected,1
+Sverig,j,Undirected,1
+Griffenfeld,fig,Undirected,1
+Sverig,fig,Undirected,1
+Sverig,blol,Undirected,1
+Gyldenløve,Schu,Undirected,1
+Gyldenløve,Ieg,Undirected,3
+Ieg,Juels,Undirected,1
+GriffenfeldS,Gyldenløve,Undirected,1
+Geheimeraad Griffenfeld,Sverig,Undirected,1
+Generallieutcnant Gyldenløves,Gustav Adolfs,Undirected,1
+Carl Gustavs,Gustav Adolfs,Undirected,1
+Carl Gustavs,Excellences,Undirected,1
+Excellences,Sverig,Undirected,1
+Griffenfeld,Ulrikke Eleonora,Undirected,1
+Carl,Griffenfeld,Undirected,1
+Geheimeraad Grif fenfelds,Griffenfeld,Undirected,1
+Griffenfeld,Majesfæt,Undirected,1
+Geheimeraad Griffenfeld,Gyldenløve,Undirected,1
+Askald,Griffenseld,Undirected,1
+Herr Gyldenløves,ask,Undirected,1
+Griffenfeld,Sofie Amalie,Undirected,5
+Sofie Amalie,Ulrikka,Undirected,1
+Griffenfeld,Ulrikka,Undirected,1
+Griffenfeld,Sverig,Undirected,2
+Christian den,Geheimeraad,Undirected,1
+Christianus V.,Geheimeraad,Undirected,1
+Gud,kjære Griffenfeld,Undirected,2
+Griffenfeld,Gud,Undirected,10
+Griffenfeld,Kong Frederik,Undirected,1
+Karl,sørend,Undirected,1
+Griffenfeld,Karl,Undirected,1
+Ellen,Herr Griffenfeld,Undirected,1
+Aland,Schnmacher,Undirected,1
+Griffenfeld,Schnmacher,Undirected,1
+Griffenfeld,Merkel,Undirected,1
+Ellen,Geheimeraadens,Undirected,1
+Griffenfeld,ester Kontrakten,Undirected,1
+Griffenfeld,Præsfen,Undirected,1
+Herr Merkel,Præsfen,Undirected,1
+Ellen,Præsfen,Undirected,2
+Ellen,Hans Excellence Geheime raaden,Undirected,1
+Charlolte,Merkel,Undirected,1
+Comtessen,Jomfru Merkel,Undirected,1
+Gud,Ieg,Undirected,1
+Geheimeraaden,Prindsessen,Undirected,1
+Cæsar,Gyldenløve,Undirected,2
+Gyldenløve,Prindsessen,Undirected,8
+Prindsessen,Prindsesseus,Undirected,1
+Gyldenløve,Prindsesses,Undirected,1
+fnedigc Gyldenløve,hnn,Undirected,1
+Christian den Femte,Gyldenløve,Undirected,1
+Charlotte,Prindsessen,Undirected,1
+Amalie,Charlotte,Undirected,2
+Amalie,Prindsessen,Undirected,1
+Adam Levin Knurh,Prindsessen,Undirected,1
+Adam Levin Knurh,Kuriosum,Undirected,1
+Griffenfeld,Kuriosum,Undirected,1
+Gyldenløve fidligere,Prindsessen,Undirected,1
+Griffenfeld,Prindsessen,Undirected,2
+Gyldenløve,felv,Undirected,1
+Herr Griffenfeld,Schumacher,Undirected,1
+Geheimeraad Griffenfeld,Prindsessen,Undirected,1
+Gyldenløve,Herr Griffenfeld,Undirected,4
+Gyldenløve,Moths Page,Undirected,1
+Griffenfeld,Kong Christian den Femte,Undirected,1
+Griffenfeld,Schumacher,Undirected,3
+Hagar,Schumacher,Undirected,1
+Sofie Moth,Sofie Moth veemodig,Undirected,1
+Moth,Slegfred,Undirected,1
+Jomfru Moth,Slegfred,Undirected,1
+Jomfru Moth,Peder Griffenfeld,Undirected,1
+Peder Griffenfeld,Ulrik,Undirected,1
+Frederik Gyldenløve,Ulrik,Undirected,1
+Griffenfeld,Sieur Bording,Undirected,1
+Griffenfeld,Lasson,Undirected,41
+Frederik,Lasson,Undirected,1
+Carthago,Lasson,Undirected,1
+Carthago,Peder Lasson,Undirected,1
+Griffenfeld,Kesen,Undirected,1
+Herr Lasson,Lasson,Undirected,2
+Herr Lasson,LaSson,Undirected,1
+Ole Rosenkrans,Wiveke,Undirected,1
+Griffenfeld,blol,Undirected,1
+Grisfenfeld,blol,Undirected,1
+Grisfenfeld,chan,Undirected,1
+Foucquet,chan,Undirected,1
+Foucquet,Griffenfeld,Undirected,1
+Christian,Griffenfeld,Undirected,4
+Griffenfeld,LaSson,Undirected,1
+Griffenfeld,Peder Resen,Undirected,2
+Lasson,Peder Resen,Undirected,1
+Christian,Resen,Undirected,1
+Griffenfeld,Herr Lasson,Undirected,10
+Herr Resen,Lasson,Undirected,1
+Herr Griffenfeld,Lasson,Undirected,1
+Geheimeraad Griffenfeld,Resen,Undirected,1
+Geheimeraad Griffenfeld,Griffenfeld,Undirected,1
+Grev Griffenfeld,Resen,Undirected,1
+Christian,Lasson,Undirected,1
+Gud,Lasson,Undirected,4
+Lasson,Peder Lasson,Undirected,2
+Resen,hiin,Undirected,1
+Herr Lasson,hiin,Undirected,1
+Greven,Griffenseld,Undirected,1
+Greven,Griffenfeld,Undirected,1
+Ieg,Resen,Undirected,2
+Griffenfeld,Peder Griffenfeld,Undirected,4
+Griffenfeld,Peder Lasson,Undirected,4
+Griffenfeld,Resen,Undirected,21
+Christian,Christian den,Undirected,1
+Christian,Sofie Moth,Undirected,1
+Kalleboderne,Sofie Moth,Undirected,1
+Christian,hnn,Undirected,2
+Frederik den Tredie,Resen,Undirected,2
+Peder Resen,Resen,Undirected,1
+Geheimeraad Griffenfeld,Herr Griffenfeld,Undirected,1
+Griffenfeld,Lasfon,Undirected,1
+Lassen,Resen,Undirected,1
+Herr Griffenfeld,Roes,Undirected,1
+Griffenfeld,Hr. Griffenfeld,Undirected,1
+Griffenfeld,Herr Peder Lasson,Undirected,1
+Griffenfeld,Herr Resen,Undirected,1
+Griffenfeldts,Ulrikke Eleonores,Undirected,1
+Griffenfeld,Ulrikke Eleonores,Undirected,1
+Griffenfeld,iland,Undirected,2
+Gyldenløve sknlde,iland,Undirected,1
+Anker,Gyldenløve sknlde,Undirected,1
+Gyldenløve,Moth,Undirected,2
+Griffenfeld idel,Moth,Undirected,1
+Griffenfeld,strax,Undirected,3
+Herr Geheimeraad,Z,Undirected,1
+Griffenfeld,jæg,Undirected,5
+jæg,sælv,Undirected,1
+Frederik,sælv,Undirected,1
+Greven,Resen,Undirected,1
+Resen,jæg,Undirected,3
+Judaspenge,Resen,Undirected,1
+Gæheimeraad Griffenfeld,Resen,Undirected,1
+Herr Lasson,Peder Lasson,Undirected,1
+Peder Las-svns,Resen,Undirected,2
+Greven,lille Troels,Undirected,1
+Espen,Troels,Undirected,1
+Griffenfeld,Rasmns,Undirected,1
+Rasmus Knndsen,Troels,Undirected,1
+Griffenfeld,Rasmus Knudsen,Undirected,1
+Herr Lasson,Rasmus Knudsen,Undirected,1
+Kudsken,Rasmus Knndsen,Undirected,1
+Alfing,Rasmus Knndsen,Undirected,1
+Espen,Rasmus Knndsen,Undirected,1
+Lasson,atler,Undirected,1
+Gud,atler,Undirected,1
+Dn,Gud,Undirected,3
+Dn,Ellen,Undirected,3
+Gud,Peder,Undirected,1
+Christian Gyldenløve,Christian Uox,Undirected,1
+Sofie,as,Undirected,1
+Assessor Lasson,Resen,Undirected,1
+Griffenfeld,Merkurius,Undirected,1
+Griffenfeldt,Merkurius,Undirected,1
+Griffenfeldt,LaSson,Undirected,1
+LaSson,Resen,Undirected,1
+Ellen,Læsson,Undirected,1
+Ellen,Lasson,Undirected,7
+Christen Mnnck,Ellen AnderSdatter,Undirected,1
+Lassøn,Merkel,Undirected,1
+Kong Frederik,Peder Schumacher,Undirected,1
+Herr Schumacher,Peder Schumacher,Undirected,1
+Herr Schumacher,jæg,Undirected,1
+Kong Frederik,jæg,Undirected,1
+Kong Frederik,Nansen,Undirected,1
+Grisfenfeld,Rasmus Knudsen,Undirected,1
+Ellen,Fløiels,Undirected,1
+Fløiels,hnn,Undirected,1
+Lasson,hnn,Undirected,3
+H,Pagina 14,Undirected,1
+Griffenfeld,Jomfru Merkel,Undirected,1
+Ellen,Herr Lasson,Undirected,2
+Ellen,jæg,Undirected,3
+Ellen,frods,Undirected,1
+frods,jø,Undirected,1
+Griffenfeld,Sophie Moth,Undirected,1
+Sofie Mofh,lel,Undirected,1
+Detle,Mofh,Undirected,1
+Mæth,Sofie,Undirected,2
+Griffenfeld,hnn,Undirected,4
+Gud,hnn,Undirected,3
+Grevinde Moth,Gud,Undirected,1
+Christian V.,Kong Frederik den Tredie,Undirected,1
+Christian V.,snarf,Undirected,1
+Frederik den Tredie,snarf,Undirected,1
+Frederik den Tredie,Gud,Undirected,1
+Kong Frederik,maatle,Undirected,1
+Frederik,Kong Frederik,Undirected,1
+Christian,Frederik,Undirected,1
+Christian,Kirstine Munck,Undirected,1
+Christian den Femte,Holberg,Undirected,1
+Assessor,Holberg,Undirected,1
+Assessor,Lasson,Undirected,3
+Grevinde Moth,Lasson,Undirected,1
+Lasson,saasnart Griffenfeld,Undirected,1
+Mare,paany,Undirected,1
+ester,fil,Undirected,1
+Herr Griffenfeld,Løvle,Undirected,1
+Leonora Kirstine,Løvle,Undirected,1
+Ellen,Løvle,Undirected,1
+Assessor,nn,Undirected,1
+Ellen,yan,Undirected,1
+traadfe,yan,Undirected,1
+Christian den,Kong Karl feirede,Undirected,1
+Adam Levin Knuth,Gyldenløve,Undirected,1
+Adam Levin Knuth,Griffenfeld,Undirected,1
+Griffenfeld,Natletid,Undirected,1
+Gyldenløve,Kureer,Undirected,1
+Carl Rex,Kureer,Undirected,1
+Sverig,kjære Griffenfeld,Undirected,1
+Karl Gustav,Sverig,Undirected,1
+Karl Gustaf,Ulfeld,Undirected,2
+Gyldenløve,sif,Undirected,2
+Gyldenløve,Karl,Undirected,1
+Ieg,Karl,Undirected,1
+Griffenfeld,Ieg,Undirected,1
+Griffenfeld,Jnel,Undirected,1
+Gyldenløve,kjære Griffenfeld,Undirected,1
+Gyldenløve,Kong Karls,Undirected,1
+Gyldenløve,Sverig,Undirected,1
+Griffenfeld,Gyldenløvæ,Undirected,2
+Mriffenfeld,offe,Undirected,1
+Griffenfeld,def,Undirected,4
+Fogden,Grisfenfeld,Undirected,1
+Ellen,meu,Undirected,1
+Ellen,Peder Griffenfeld,Undirected,1
+Christen Munck,Herr Grif-senfeld,Undirected,1
+Ellen,Ever,Undirected,1
+Brixen,Ellen,Undirected,1
+Ellen,sælv,Undirected,1
+Hnn,Sofie Moth,Undirected,1
+Gyldenløve,hnn,Undirected,1
+Sofie Moth,jæg,Undirected,1
+Frederik den Trediæ,Kæng Christian den Fjerde,Undirected,1
+Christian,Dn,Undirected,1
+Peder Lasson,meldfe,Undirected,1
+Lasson,felv,Undirected,1
+Læsson,fig,Undirected,1
+Griffenfeld,Lassvns,Undirected,1
+Griffenfeld,Skadæ,Undirected,1
+Læsson,Skadæ,Undirected,1
+Læsson,hnn,Undirected,1
+Lasson,sil,Undirected,2
+Griffenfeld,son,Undirected,1
+Moth,Peder Lasson,Undirected,1
+Peder Lasson,Resen,Undirected,1
+Renegat,Resen,Undirected,1
+Griffenfeld,Renegat,Undirected,1
+bragf,jæg,Undirected,1
+Herr Lasson,bragf,Undirected,1
+Herr Lasson,jæg,Undirected,2
+jæg,sidsl,Undirected,1
+Lasson,sidsl,Undirected,1
+Lasson,fabte,Undirected,1
+Lasson,jæg,Undirected,2
+Resen,elv,Undirected,1
+Herr Lasson,Moth fær,Undirected,1
+Moth fær,Naades,Undirected,1
+Grevindes,Resen,Undirected,1
+LaSsonS,Resen,Undirected,1
+Griffenfeld,tilfoiedc bitlert,Undirected,1
+Moth,jæg,Undirected,1
+Griffenfeld,Læsson,Undirected,1
+Lasson,froer,Undirected,1
+Edær,Peder Griffenfeld,Undirected,1
+Edær,Gud,Undirected,1
+Griffenfeld,Resem,Undirected,1
+Læonora Kirstine,Sofie Amalie,Undirected,2
+Christian den,Læonora Kirstine,Undirected,2
+Sofie Amalie,hnn,Undirected,3
+Charlotte,hnn,Undirected,2
+Amalie,Christian,Undirected,1
+Sofie Moth,Sophie Amalie,Undirected,1
+Gud,Sofie Moth,Undirected,1
+Amalie,Sofie,Undirected,1
+Ulrikke Elconora,sif,Undirected,1
+Charlolte,fidt Offre,Undirected,1
+Midle,fidt Offre,Undirected,1
+Charlolte,Midle,Undirected,1
+Charlolte,alffor tnng,Undirected,1
+hæns,paany,Undirected,1
+Moth,hæns,Undirected,1
+Charlotte Amalie,Sofie Amalie,Undirected,2
+Charlotte Amalie,hnn,Undirected,1
+Assessor Lasson,Moth,Undirected,1
+hnn,mif,Undirected,1
+Sofie Moth,dein,Undirected,1
+Sofie Møth,aarle,Undirected,1
+Edær,Sophie Moth,Undirected,1
+Christian Gyldenløve,lilsin,Undirected,1
+Sæfie Molh,lilsin,Undirected,1
+Sæfie Molh,hnn,Undirected,1
+Christian den,Kong Frederik,Undirected,1
+Kong Frederik,Kurt Sivertsen,Undirected,1
+Kurt Adelaer,Kurt Sivertsen,Undirected,1
+Kurt Adelaer,Roes,Undirected,1
+Ibrahim Pascha,Kurt Adelaer,Undirected,3
+Flaadens,Kurt Adelaer,Undirected,1
+Flaadens,effer,Undirected,1
+Griffenfeld,effer,Undirected,1
+Griffenfeld,haabe,Undirected,1
+Niels Juel,haabe,Undirected,1
+Niels Juel,hin Griffenfelds,Undirected,1
+Bremerholms,hin Griffenfelds,Undirected,1
+Ellen,drabf,Undirected,1
+drabf,dæts,Undirected,1
+Kurt Adelaer,Pralhans,Undirected,1
+Frederik den,Pralhans,Undirected,1
+Christian den,Niels Juel,Undirected,1
+Frederik,Niels Juel,Undirected,1
+Frederik,Niels Jnel,Undirected,1
+Kurt Adelaer,Niels Jnel,Undirected,1
+Jnel,Kurt Adelaer,Undirected,1
+Bjelke,Jnel,Undirected,2
+Jnel,Opdam,Undirected,2
+Christian den,hæn,Undirected,1
+frods,hæn,Undirected,1
+Niels Juel,Seilere,Undirected,1
+Niels Rosenkrands,Seilere,Undirected,1
+Be-leiring,Niels Rosenkrands,Undirected,1
+Be-leiring,Rosenkrands,Undirected,1
+Defte,Rosenkrands,Undirected,1
+Defte,sknlde,Undirected,1
+Lauren,sknlde,Undirected,1
+Griffenfeld,Villie,Undirected,1
+Fetaille,Villie,Undirected,1
+Roes-kilde,Ræsenkrands,Undirected,1
+Griffenfeld,Ræsenkrands,Undirected,1
+Griffenfeld,noglæ,Undirected,1
+Arenstorff,Bibow,Undirected,2
+Arenstorff,Sophie Amalie Molh,Undirected,1
+Aren-storff,Griffenfeld,Undirected,1
+Arenstorff,Moth,Undirected,4
+Christian den Femfes,Griffenfeld,Undirected,1
+Arensforff,David,Undirected,1
+Jæg,Sofie Moth,Undirected,1
+Gud,jæg,Undirected,4
+Griffenfeld,sclv,Undirected,1
+Griffenfeld,dif,Undirected,1
+Hænad Middag,Rosenkrands,Undirected,1
+Griffenfeld,Rosenkrands,Undirected,8
+Christian den Femte,Roeskilde,Undirected,1
+Christian den Femte,Rosenkrands,Undirected,1
+Herr Griffenfeld,Sofie Amalie,Undirected,1
+Moth,Sofie Amalie,Undirected,1
+Moth,Sofie Moth,Undirected,5
+Grevinde Moth,Jomfru Moth,Undirected,1
+Peder Griffenfeld,Sofie Moth,Undirected,1
+Griffenfeld,taus,Undirected,1
+Charlotte Amalie,Søsie Amalie,Undirected,1
+Charlotte Amalie,Louise Charlottes,Undirected,1
+Sofie Amalie lende,alk,Undirected,1
+Frederik,dæn,Undirected,1
+Kong Frederik dæn,dæn,Undirected,1
+Frederik,Kong Frederik dæn,Undirected,1
+Frederik,Frederik I,Undirected,1
+Ernst Günfher,Frederik I,Undirected,1
+Ernst Günfher,Kong Christian dæn,Undirected,1
+Kong Christian dæn,Louise,Undirected,1
+Charlotte,Louise,Undirected,1
+Charlotte,Prindsessenavn,Undirected,1
+Prindsessenavn,Prindsesserang,Undirected,1
+Griffenfeld,Kong Chrislians,Undirected,1
+Charlotte as Augustenborg,Prindsesse Lovise,Undirected,1
+Hertygen,Louise Charlotte,Undirected,1
+Christian Albrecht,Ernst Günther,Undirected,3
+Ernst Günther,Kraff,Undirected,1
+Griffenfeld,Paschas,Undirected,1
+Griffenfeld,lil Vanheld,Undirected,2
+Griffenfeld,sorn Aandshovmod,Undirected,1
+Peder Schumacher,dæn,Undirected,1
+Peder Griffenfeld,dæn,Undirected,1
+Griffenfeld,hæn,Undirected,9
+Resen,hæn,Undirected,1
+Griffenfeld,log,Undirected,1
+Griffenfeld,Peder Schumacher,Undirected,2
+Grisfenfeld,Køngen,Undirected,1
+,Rosenkrands,Undirected,2
+Rosenkrands,jæg,Undirected,1
+Per soner,Rosenkrands,Undirected,1
+-,Grisfenfeld,Undirected,1
+Moth,Rosenkrands,Undirected,1
+Lasson,Moth,Undirected,1
+Grevinde Molhs,Niels Juel,Undirected,1
+Niels Juel,strax,Undirected,1
+Niels Jnel,Sofie Moth,Undirected,1
+Griffenfeld,fidligere,Undirected,1
+Griffenfeld,paany,Undirected,1
+Arenstorff,Griffenfeld,Undirected,14
+Arenstorff,hæn,Undirected,1
+Griffenfeld,Sofiæ Molhs,Undirected,1
+Sofiæ Molhs,hnn,Undirected,1
+Arenstorff,Frederik Arenstorff,Undirected,1
+Griffenfeld,Herr von Kielmansegge,Undirected,1
+Herr von Kielmansegge,Troliges,Undirected,1
+,Griffenfeld,Undirected,1
+Rosenkrands,følle,Undirected,1
+alfid forpligtet,følle,Undirected,1
+Gyldenløve,Rosenkrands,Undirected,1
+Christian dæn,Rosenkrands,Undirected,2
+Grif-senfeld,Rosenkrands,Undirected,1
+Grif-senfeld,snarf,Undirected,1
+Kængen,iland,Undirected,1
+Herlugen,iland,Undirected,1
+Herlugen,fil Griffenfeld,Undirected,1
+Herlugen,Herr von Kielmannsegge,Undirected,1
+Herr von Kielmannsegge,Rosenkrands,Undirected,1
+Rosenkrands,fil,Undirected,1
+Christian Albrecht,Herr von Kielmannsegge,Undirected,1
+Griffenfeld,Herr Kielmannsegge,Undirected,2
+-senkrands,Ro-,Undirected,1
+Wrangel,al,Undirected,1
+Griffenfeld,Herr von Kielmannsegge,Undirected,1
+Griffenfeld,hans Natfero,Undirected,1
+Esler,Kielmansegge,Undirected,1
+Herfugen,Kielmansegge,Undirected,1
+Griffenfeld,Herr Kielmansegge,Undirected,1
+Hertng Christian Albrecht,dæn,Undirected,1
+Rosenkrands,kundæ,Undirected,1
+Griffenfeld,alfid,Undirected,1
+Arenstorff,Sofie Moth,Undirected,4
+Arenstorff,hans Hilfen,Undirected,1
+Arenstorff,Peder Griffenfeld,Undirected,4
+Peder Griffenfeld,Pygmæers,Undirected,1
+Griffenfeld,Thomas Kingo,Undirected,1
+Ernst Günther,Griffenfeld,Undirected,2
+Christian Albrecht,Prindsessen,Undirected,1
+Griffenfeld,derfil,Undirected,1
+Køngen,derfil,Undirected,1
+Kong Christian,Køngen,Undirected,2
+Christian,Kong Christian,Undirected,1
+Christian,Frederik Wilhelm,Undirected,1
+Frederik Wilhelm,Køngen,Undirected,1
+Griffenfeld,idef,Undirected,1
+Brandt,Grisfenfeld,Undirected,1
+Brandt,Dænmark,Undirected,1
+Dænmark,Griffenfeld,Undirected,2
+Geheimeraad Brandt,Griffenfeld,Undirected,3
+Griffenfeld,el,Undirected,2
+Geheimeraad,Geheimeraad Brandt,Undirected,1
+Gadebusch,Geheimeraad Brandt,Undirected,1
+Gadebusch,Mona,Undirected,1
+Arenstorff,Rosenkrands,Undirected,2
+Brandt,Rosenkrands,Undirected,1
+Rosenkrands,alfsaa,Undirected,1
+Rosenkrands,froer,Undirected,1
+Herr Griffenfeld,Niels Rosenkrands,Undirected,1
+Geheimeraad Brandt,Grissenfelds,Undirected,1
+Frederik Vilhelm as Brandenburg,fil Gadebusch,Undirected,1
+Christian den,fil Gadebusch,Undirected,1
+Edær,skeg,Undirected,2
+Alf,sif,Undirected,1
+Herr Griffenfeld,Sands,Undirected,1
+Christian den,jæg,Undirected,2
+Christian den Femte,jæg,Undirected,1
+Brandt,Kong Christian,Undirected,1
+Arild Hvifseld,Christian den,Undirected,1
+Arild Hvifseld,Arild Løgnhals,Undirected,1
+Lovise Charlottes,Peder Griffenfeld,Undirected,1
+Griffenfeld,zittre,Undirected,1
+Peder,Roes,Undirected,1
+Arenstorff,Lasson,Undirected,4
+Rosenkrands,Sofie Moth,Undirected,1
+Griffenfeld,lef,Undirected,1
+Griffenfeld,Snille,Undirected,1
+Sofie Amalie,sælv,Undirected,1
+Griffenfeld,Roeskilde,Undirected,2
+Griffenfeld fil,Moth,Undirected,1
+Griffenfeld fil,Gud,Undirected,1
+Gud,Moth,Undirected,2
+Charlotte Amalie,jæg,Undirected,3
+Charlotte Amalie,Sofie Mofh,Undirected,1
+Griffenfeld,nn,Undirected,2
+Charlotte Amalie,del Griffenfeld,Undirected,1
+Moth,hæn,Undirected,1
+Moth,nelop,Undirected,1
+Griffenfeld,nelop,Undirected,2
+Griffenfeld,pllrusg,Undirected,1
+Griffenfeld,Sandberg,Undirected,1
+Gæneral Arenstorff,al,Undirected,1
+Charlotte Amalie,Moth,Undirected,2
+Charlotte Amalie,Frederik IV,Undirected,1
+Frederik IV,ldsfe,Undirected,1
+Charlotte Amalie,Grevinde Moth,Undirected,1
+Christian den,Mofh,Undirected,1
+Arenstorff,Christian den,Undirected,1
+Christian den,def,Undirected,1
+Griffenfeld,lil Leiren,Undirected,2
+Griffenfeld,lil,Undirected,3
+Roes,lil,Undirected,1
+Griffenfeld,Roes,Undirected,1
+Sandberg,Wis-mar,Undirected,1
+Christian,Sandberg,Undirected,1
+Carlson,Kong Carl,Undirected,1
+Kong Carl,Walther,Undirected,1
+Asten,blæv,Undirected,1
+Asten,Griffenfeld,Undirected,1
+Kong Christian,Wis-mar,Undirected,1
+Kong Christian,nn,Undirected,1
+Sofie Moth atler,hnn,Undirected,1
+Moth,ester,Undirected,1
+Arenstorff,Køngen,Undirected,1
+Sennora,Toreador,Undirected,1
+Arenstorff,Toreador,Undirected,1
+Moth,nn,Undirected,1
+dæg,nn,Undirected,1
+Moth,dæg,Undirected,1
+Arenstorff,dæm,Undirected,1
+Griffenfeld,Soste Moth,Undirected,1
+Dandsen,Taflets,Undirected,1
+Dandsen,Griffenfeld,Undirected,1
+Arenslorff,Griskenfeld,Undirected,1
+Arenslorff,Griffenfeld,Undirected,1
+Christian,Mølln,Undirected,1
+Durchlauchtighed,Mølln,Undirected,1
+Griffenfeld,alf,Undirected,2
+Griffenfeld,saafrcmtZ.,Undirected,2
+Jsolge,alf,Undirected,1
+Griffenfeld,Jsolge,Undirected,1
+Brnd,Griffenfeld,Undirected,1
+Griffenfeld,Peder,Undirected,1
+Kay Lykke,Peder,Undirected,1
+Gottorp,Griffenfeld,Undirected,1
+Ernst Günther,Gottorp,Undirected,1
+Durchlautigheds,Griffenfeld,Undirected,2
+Ernst,Peder Schumacher,Undirected,1
+Ernst,Frederik den Fjerde,Undirected,1
+def,ovær,Undirected,1
+Griffenfeld,ovær,Undirected,1
+Arenstorff,Lui musguo,Undirected,1
+Niels Rosenkrands,Peder Lasson,Undirected,1
+Arenstorff,Ed,Undirected,1
+Arenstorff,lhi,Undirected,1
+Hertngen,lhi,Undirected,1
+Dronningen,Griffenfeld,Undirected,1
+Dronningen,Kongæn,Undirected,1
+Augustenborgs,Hertngen,Undirected,1
+Greve af,p. p.,Undirected,1
+Doknment,Griffenfeld,Undirected,1
+Griffenfeld,Jæg,Undirected,1
+Griffenfeld,svandf,Undirected,1
+Gud,svandf,Undirected,1
+Griffenfeld,Molh General Arenstorff,Undirected,1
+Durch-lauchtizhed,Herlugen,Undirected,1
+Griffenfeld,Herlugen,Undirected,1
+Louise Charlotte,ch Prindsesse,Undirected,1
+Louise Charlotte,Ludvig Frederik,Undirected,1
+Arenstorff,Sabel,Undirected,1
+Arenstorff,iland,Undirected,1
+Baadsmandsmathcn,dænne,Undirected,1
+Griffenfeld,dænne,Undirected,1
+Griffenfeld,al,Undirected,5
+Haus,al,Undirected,1
+Christus,Griffenfeld,Undirected,1
+Arenstorff,Christus,Undirected,1
+Griffenfeld,Slaa,Undirected,1
+Peder Griffenfeld,froer,Undirected,1
+Peder Griffenfeld,blol,Undirected,2
+Peder Lasson,Rasmus Vinding,Undirected,1
+Rasmus Vinding,Thomas Fincke,Undirected,1
+Ove Juel æm,Thomas Fincke,Undirected,1
+Ove Juel æm,Peder Griffenfeld,Undirected,1
+Herr Lasson,Knudsen,Undirected,1
+Høher,Knudsen,Undirected,1
+Høyer,Lasson,Undirected,1
+Rasmus Vinding,son,Undirected,1
+Ove Jnel,Rasmus Vinding,Undirected,1
+Fincke,Ove Jnel,Undirected,1
+Fincke,bæstaar,Undirected,1
+Griffenfeld,pæa,Undirected,1
+Ellen,Fincke,Undirected,1
+Fincke,Lasson,Undirected,4
+Finck,Lasson,Undirected,1
+Finck,sæm,Undirected,1
+Griffenfeld,sæm,Undirected,2
+Fincke,Griffenfeld,Undirected,1
+Griffenfeld,defte,Undirected,2
+Moth,hnn,Undirected,3
+Grif-fenselds,hnn,Undirected,1
+Lassøn,Moth,Undirected,1
+Griffenfeld,Lassøn,Undirected,1
+Kong Christian,Sofie,Undirected,1
+Arenstorff,Gud,Undirected,1
+Carl Frederik von Ahrensdorff,Martius,Undirected,1
+Martius,Peder,Undirected,1
+Christian II,Gud,Undirected,1
+Griffenfeld,dæ,Undirected,2
+Arenstorff,Resen,Undirected,1
+Sofie,hnn,Undirected,1
+Charlotte,Sofie,Undirected,4
+Grisfenfeld,Resen,Undirected,1
+Aren-storff,Arenstorff,Undirected,1
+Arenstorff,Herr Asses,Undirected,1
+Herr Asses,Ove Juel,Undirected,1
+Christen Skeel,Ove Juel,Undirected,1
+Christen Skeel,Eiler Holck,Undirected,1
+Eiler Holck,Thomas Fincke,Undirected,1
+Conrad Hesse,Thomas Fincke,Undirected,1
+Conrad Hesse,Hendrik Mathesius,Undirected,1
+Hendrik Mathesius,Titns Bulcke,Undirected,1
+Geheimeraad Corfitz Trolle,Lasson,Undirected,1
+Birgitte Rantzau,Schumacher,Undirected,2
+Schumacher,Trolle,Undirected,3
+Arenstorff,Herr Corfitz Trolle,Undirected,1
+Arenstorff,Geheimeraaden,Undirected,1
+Lasson,Schnmacher,Undirected,1
+Otto Mauritius,Schnmacher,Undirected,1
+Arenstorff,Schumacher,Undirected,2
+Herr Arenstorff,Schumacher,Undirected,1
+Ove Juel,Schumacher,Undirected,1
+Arensforff,Schumacher,Undirected,1
+Arensforff,Lakaien,Undirected,1
+Arensforff,efferat,Undirected,1
+Resen,Schnmacher,Undirected,1
+Anna,Gud,Undirected,2
+hnn,voxef,Undirected,1
+Nero,hæn,Undirected,1
+Præsfen,synfes,Undirected,1
+Gud,Merkel,Undirected,1
+Ellen,fabt,Undirected,2
+Ellen,atler,Undirected,1
+Hjeroymus,Køne,Undirected,1
+Herr Merkel,Hjeronymus,Undirected,1
+Eiheller,Ellen,Undirected,1
+Ellen,Mester Hjeronymns,Undirected,1
+Mester Hjeronymns,lil,Undirected,1
+Hæns,lil,Undirected,1
+Ellen,Natfen,Undirected,1
+Griffenfeld,soran,Undirected,1
+Ellen Andersdatter,hnn,Undirected,3
+Ellen,Herr Merkel hørfe Griffenfelds,Undirected,1
+Aaskow,Knuth,Undirected,1
+Kongehndling,Molh,Undirected,1
+Ellen,effer,Undirected,1
+Alf,effer Griffenfelds,Undirected,1
+Griffenfeld,Leth,Undirected,1
+Griffenfeld,Herr Kapifain,Undirected,1
+Herr vøetor juris Otto Mauritius,Peder Schumacher,Undirected,1
+Herr vøetor juris Otto Mauritius,innjtz-stutis,Undirected,1
+Orimon,innjtz-stutis,Undirected,1
+Orimon,l >,Undirected,1
+eouc-us-sionis,l >,Undirected,1
+Crimou poouiutus,eouc-us-sionis,Undirected,1
+Crimou poouiutus,Orimon pgrcinoUionis,Undirected,1
+Aager,Orimon pgrcinoUionis,Undirected,1
+Griffenfeld,Mauritius,Undirected,1
+Brahe,Griffenfeld,Undirected,1
+Griffenfeld,Kielmannsegge,Undirected,1
+Kielmannsegge,sandf,Undirected,1
+Griffenfeld,snildl,Undirected,1
+Herr Lasson,snildl,Undirected,1
+Fiscals,Snees,Undirected,1
+Griffenfeld,Kraff,Undirected,1
+Arrestan ttens,jæg,Undirected,1
+Arrestan ttens,Peder Schumacher,Undirected,1
+Kongl. Majst,Peder Griffenfeld,Undirected,1
+H. K. Majst,Kongl. Majst,Undirected,1
+Greve,H. K. Majst,Undirected,1
+Greve,Kong Frederik,Undirected,1
+Kong Frederik,Simonie,Undirected,1
+Aager,Simonie,Undirected,1
+Aager,Gud,Undirected,1
+Grev Griffenfeld,Kong Christian den Fjerdes,Undirected,1
+Fogh,Grev Griffenfeld,Undirected,3
+Rasmus Knudsen,ester Advarsel,Undirected,1
+Peder Griffenfeld,ester Advarsel,Undirected,1
+Peder Brandt,Peder Griffenfeld,Undirected,1
+Jligemaade,Peder Brandt,Undirected,1
+Jligemaade,Lund,Undirected,1
+Lund,Peder Jespersen,Undirected,2
+Lund,Peder Plade,Undirected,1
+Griffenfeld,Peder Plade,Undirected,1
+Jakob Becker,Peder Griffenfeld,Undirected,1
+Jakob Becker,Kielmansegge,Undirected,1
+Fogh,Kielmansegge,Undirected,1
+Fogh,Peder Luxdorff,Undirected,2
+Lund,Peder Luxdorff,Undirected,1
+Lund,Ræsmus,Undirected,1
+Knudsen,Ræsmus,Undirected,1
+Johan Bauiermann,Knudsen,Undirected,1
+Jligemaade,Lehn,Undirected,1
+Jligemaade,engelst Lords,Undirected,1
+bæmærke,engelst Lords,Undirected,1
+Christopher Casparsen,bæmærke,Undirected,1
+Christopher Casparsen,Peler Christophersen,Undirected,1
+Fogh,Peler Christophersen,Undirected,1
+Fogh,Gud,Undirected,1
+Gud,Kong Christian,Undirected,1
+,Kong Christian,Undirected,1
+Christian,Sophie Moth,Undirected,1
+Moth,Vagfen,Undirected,1
+Vagfen,sil,Undirected,1
+Griffenfeld,sæalænge,Undirected,1
+Christian den,Lasson,Undirected,1
+Frederik,al Griffenfeld,Undirected,1
+Lasson,Maje,Undirected,3
+Maria Motzfeld,Vinhandler-Schumachers,Undirected,1
+Fogh,jæg,Undirected,2
+Peder Brandt,jæg,Undirected,1
+Peder Brandt,Peder Plade,Undirected,1
+Peder Plade,jæg,Undirected,1
+ester,jæg,Undirected,1
+Peder Jespersen,ester,Undirected,1
+Henrik Lnnd,Peder Jespersen,Undirected,1
+Gud,Henrik Lnnd,Undirected,1
+Egidius Heuings,Jacob Becker,Undirected,1
+Egidius Heuings,Jakob Becker,Undirected,1
+Jakob Becker,def,Undirected,1
+Christopher Cæspersen,def,Undirected,1
+Christopher Cæspersen,Peder Christophersen,Undirected,1
+Bielke,Christopher Cæspersen,Undirected,1
+Bielke,germester Fogh,Undirected,1
+Baniermann,Fogh,Undirected,1
+Baniermann,Klingenberg,Undirected,1
+Herr v.,Herr von,Undirected,1
+Herr von,Kielmansegge,Undirected,1
+Gnd,Majesfæt,Undirected,1
+Greve,Lord,Undirected,1
+Greve,Keusfaw,Undirected,1
+Gud,Keusfaw,Undirected,1
+Mauritius,jø,Undirected,1
+Schultz,jæg,Undirected,1
+Ludvig Sfruds,Schultz,Undirected,1
+Mauritius,Mr. Terlon,Undirected,1
+Lasson,Otto Maurilius,Undirected,1
+Herr Lasson,sif,Undirected,1
+Herr Mauritius,Lasson,Undirected,1
+Resen,sif haanlige,Undirected,1
+Lasson,beflylds,Undirected,1
+Hærr Lasson,Lasson,Undirected,1
+Griffenfeld fil,Hærr Lasson,Undirected,1
+Griffenfeld fil,Lasson,Undirected,1
+Lasson,Majeslæt,Undirected,2
+Hæns,Lasson,Undirected,1
+Griffenfeld,Hæns,Undirected,1
+Schumacher,el,Undirected,2
+Herr Lasson,sAlvor,Undirected,1
+Griffenfeld,sAlvor,Undirected,1
+Herr Lasson,sæm,Undirected,1
+sæm,sæm Herr Lasson,Undirected,1
+Herr Lasson,sæm Herr Lasson,Undirected,1
+Herr Resen,Manritius,Undirected,1
+Peder Schumacher,jæg,Undirected,1
+hæn,jæg,Undirected,1
+Fogh,hæn,Undirected,1
+Fogh,Rasmus Knudsen,Undirected,1
+Rasmus Knudsen,dæ,Undirected,1
+Klingenberg,dæ,Undirected,1
+H. K.,M.,Undirected,2
+H. K.,Henrik Lund,Undirected,1
+Henrik Lund,Herr-Griffenfelds,Undirected,1
+Herr Griffenfeld,Herr-Griffenfelds,Undirected,1
+Grisfenfeld,Herr Griffenfeld,Undirected,1
+Grisfenfeld,Henrik Lund,Undirected,1
+Griffenfeld,Herr Licentiatus,Undirected,2
+Griffenfeld,Herr Mauritius,Undirected,3
+Greven,Herr Mauritius,Undirected,1
+Lasson,Mauritius,Undirected,1
+Mauritius,Resen,Undirected,1
+Aren-storff,Lasson,Undirected,1
+Kong Christian,offre,Undirected,1
+Resen fil,hnn,Undirected,1
+hnn,j,Undirected,1
+Griffenfeld,alffor,Undirected,1
+Mofh,Sophie,Undirected,1
+Mofh,hnn,Undirected,1
+Resen,hnn,Undirected,3
+Edær,Z,Undirected,1
+Z,jæg,Undirected,1
+Sophie Amalie Moth,jæg,Undirected,1
+Griffenfeld,Sophie Amalie Moth,Undirected,1
+Edær,jæg,Undirected,1
+imæd Griffenfeld,jæg,Undirected,2
+Moth,Resen,Undirected,1
+Griffenfeld,Re sen,Undirected,1
+Griffenfeld,alfsaa,Undirected,1
+Fæn-driken,Schumacher,Undirected,1
+Charlotte Amalie,Gker,Undirected,1
+Griffenfeld,benaades,Undirected,1
+Nogef,Resen,Undirected,1
+Jæg,Lasson,Undirected,1
+Herr Lasson,Reftens,Undirected,1
+Geheimeraad Christen Skeel,Resen,Undirected,1
+Geheimeraad Christen Skeel,Rasmus Winding,Undirected,2
+Lasson,Winding,Undirected,1
+Peder Griffenfeld,Peder Schumacher,Undirected,1
+Gøds,Peder Schumacher,Undirected,1
+Herr Mauritius,Thomas Fincke,Undirected,1
+Arenstorff,Herr Læsson,Undirected,1
+Greve Griffenfeld,Griffenfeld,Undirected,2
+Schumacher,hannem,Undirected,2
+Korfitz Trolle,Ove Junl,Undirected,1
+Carl Ahrensdorff,Eiler Holck,Undirected,1
+Carl Ahrensdorff,Thomas Finke,Undirected,1
+Conrad Hesse,Thomas Finke,Undirected,1
+Lassen,el,Undirected,1
+Haan,Lasson,Undirected,1
+Kay Lykke,Korfitz Ulfeld,Undirected,1
+Korfitz Ulfeld,def,Undirected,1
+Christian,Sverig,Undirected,1
+Korfitz Ulfeld,Sverig,Undirected,1
+Herr Griffenfeld,Korfitz Ulfeld,Undirected,1
+Ieg,Lasson,Undirected,1
+Gris-fenfelds,Ieg,Undirected,2
+Dær,Lasson,Undirected,1
+Lasson,sif,Undirected,1
+Edær,kjøle Edærs,Undirected,1
+Edær,mif,Undirected,1
+Ellæn,Lasson,Undirected,2
+Herr Lasson,jeK,Undirected,1
+Lasson,Lucifer,Undirected,1
+Ellen Andersdatter,Ellen Merkel,Undirected,1
+Ellen,Ellen Andersdatter,Undirected,1
+Ellen fil,hnn paany,Undirected,1
+Ellen,Griffenfeldt,Undirected,1
+Lasson,rei-ftes,Undirected,1
+Griffenfeld,rei-ftes,Undirected,1
+Glenten,Griffenfeld,Undirected,1
+Lasson,el,Undirected,1
+Lasson,Schak,Undirected,1
+Lasson,hæn,Undirected,4
+Griffenfeld,visfnok,Undirected,2
+Lasson,Tabef,Undirected,1
+Peder Lasson,Schumacher,Undirected,1
+Herr Lasson,Peder Griffenfeld,Undirected,1
+Griffenfeld,Lasson Griffenfelds,Undirected,1
+Griffenfeld,maale,Undirected,1
+filfreds,maale,Undirected,1
+Grif-senfeld,filfreds,Undirected,1
+Grif-senfeld,Griffenfeld,Undirected,2
+Griffenfeld,Schack,Undirected,2
+Herr Lasson,Judas,Undirected,1
+Judas,Kristus,Undirected,1
+Dæm,æg Schack,Undirected,1
+Assisfent æg,Dæm,Undirected,1
+Dina,Torben Oxe,Undirected,1
+Admiral Galt,Dina,Undirected,1
+Schack,Skaffottets,Undirected,1
+Gud,jdg,Undirected,1
+Skaffottets,lil defte,Undirected,1
+Def,lil defte,Undirected,1
+Def,Hnn,Undirected,1
+Schack,lil Griffenfeld,Undirected,1
+Peder Schnmacher,Schnmacher,Undirected,1
+Geheimeraad Christen Skeel,Schack,Undirected,1
+al Griffenfeld,hæn,Undirected,1
+Christian den,Peder Griffenfeld,Undirected,1
+Arilds,Charlotte Amalie,Undirected,1
+Arilds,Grisfenfeld,Undirected,1
+Charlotte Amalie,Griffenfeld,Undirected,3
+Gyldenløve,Roes,Undirected,1
+Griffenfeld,Hans Excellence Geheimeraad Arenstorff,Undirected,1
+Arenstorff,Herr Griffenfeld,Undirected,1
+Griffenfeld,efler Griffenfelds,Undirected,1
+Griffenfeld,Sofie Mofh,Undirected,1
+Christian,Sofie Moll,Undirected,1
+Sofie Moll,dæres,Undirected,1
+dæres,filfreds,Undirected,2
+Christian dæn,dæres,Undirected,1
+Christian dæn,Sofie Moth,Undirected,1
+Grif-senfeldS,Griffenfeld,Undirected,1
+Grif-senfeldS,Køngen,Undirected,1
+ai Griffenfeld,defte,Undirected,1
+Sofie Moth,ai Griffenfeld,Undirected,1
+Sofie Moth,al Griffenfeld,Undirected,1
+Arresfantens,Griffenfeld,Undirected,1
+Christian,Niels Juel,Undirected,1
+Christian,franste,Undirected,1
+Arenstorff,Grif-fenselds,Undirected,1
+Griffenfeld,Kommandantens,Undirected,2
+Kommandantens,hæn,Undirected,1
+Grif-fenfelds,Griffenfeld,Undirected,2
+Alf,Griffenfeld,Undirected,1
+Alf,Fængen,Undirected,1
+Fængen,Jonrnal,Undirected,1
+Alf,Jonrnal,Undirected,1
+Alf,maatfe Fængen,Undirected,1
+Griffenfeld,maatfe Fængen,Undirected,1
+Griffenfeld,Uveir,Undirected,1
+Merkurius,def,Undirected,1
+Dissæ,Griffenfeld,Undirected,1
+Griffenfeld,Otto Mauritius,Undirected,1
+Griffenfeld,Vexler,Undirected,1
+Ove Juel,Vexler,Undirected,1
+Ove Juel,Wolffs,Undirected,1
+Arenstorff,Corfitz,Undirected,1
+Corfitz,Th ' omas Finke,Undirected,1
+Griffenfeld,Th ' omas Finke,Undirected,1
+Conrad Hesse,Griffenfeld,Undirected,1
+Conrad Hesse,Titus,Undirected,1
+Peder Resen,Titus,Undirected,1
+Aaget,Sofie Moth,Undirected,1
+Aaget,Moth,Undirected,1
+Christian Gyldenløve,Sofie Moth,Undirected,1
+Charlotte Amalie Danneskjold,Christian Gyldenløve,Undirected,1
+Charlotte Amalie Danneskjold,Ulrik Frederik Gyldenlsve,Undirected,1
+Gyldenløve,Ulrik Frederik Gyldenlsve,Undirected,1
+Dannestjold-Samsse,Gyldenløve,Undirected,1
+Dannestjold-Samsse,Sonnesons-Sennesens,Undirected,1
+Moth,Sonnesons-Sennesens,Undirected,1
+Christian dæn,Moth,Undirected,1
+Christian dæn,Griffenfeld,Undirected,1
+Christian dæn,Hændling,Undirected,1
+Arenstorff,hnn,Undirected,1
+Kim et,Moth,Undirected,1
+Christian,Kim et,Undirected,1
+Christian,Sofie,Undirected,1
+Charlotte Amalie Griffenfelds,Frederik Krag,Undirected,1
+Seir,Sofie Moth,Undirected,1
+Krag,Sofie Moth,Undirected,1
+Griffenfeld,Krag,Undirected,8
+Griffenfeld,kjøl-net,Undirected,1
+Charlotte Amalie,Frederik Krag,Undirected,1
+Baron Krag,Griffenfeld,Undirected,4
+Krag,paany,Undirected,1
+Krag,lilfreds,Undirected,1
+Griffenfeld,lilfreds,Undirected,1
+Charlotte Amalie Griffenfeld,Griffenfeld,Undirected,1
+Griffenfeld,dær,Undirected,1
+dæn,dær,Undirected,2
+dæn Sum,dær,Undirected,1
+Baron Krag,Komtesse Griffenfeld,Undirected,1
+efferat,hæn,Undirected,1
+Ellen,hæn,Undirected,2
+Gud,hæn,Undirected,2
+Krag,hæn,Undirected,1
+Komtessen,Krag,Undirected,1
+Krag,stig Nysgjerrighed,Undirected,2
+Charlotte Amalie,Charlotte Amalie Krag,Undirected,1
+Komtesse Griffenfeld,Krag,Undirected,3
+Krag,defte,Undirected,1
+defte,sif,Undirected,1
+Charlotte,Krag,Undirected,1
+Krag,hnn,Undirected,1
+hnn,mif Bærn,Undirected,1
+Krag,stiff,Undirected,1
+hnn,stiff,Undirected,1
+Jæg,Krag,Undirected,1
+Griffenfeld,Kræg,Undirected,1
+Charlotte Amalie,Krag,Undirected,1
+Charlotte Amalie,fredie,Undirected,1
+Charlotte,Frederik Krag,Undirected,1
+Charlotte,Gud,Undirected,2
+Sofie Moths Roes,sæm,Undirected,1
+Geheimeraad,Sofie Moths Roes,Undirected,1
+Geheimeraad,Peder Krog,Undirected,1
+Griffenfeld,Krog,Undirected,1
+Gud,Munkholm,Undirected,1
+Adam,Schumacher,Undirected,1
+Biflop Krog,Gyldenløve,Undirected,1
+Defte,Griffenfeld,Undirected,1
+Charlotte,Defte,Undirected,1
+dæres,hæn,Undirected,1
+Bjergef,hæn,Undirected,1
+Bjergef,Defte,Undirected,1
+Defte,hæns Nalur,Undirected,1
+hæns Nalur,oz,Undirected,1
+Griffenfeld,oz,Undirected,1
+Griffenfeld,dæn,Undirected,3
+Griffenfeld,gers,Undirected,1
+Griffenfeld,fil,Undirected,1
+Gyldenløve,al,Undirected,1
+el,nn,Undirected,1
+Gyldenløve hørfe,el,Undirected,1
+Gyldenløve,Lise,Undirected,1
+Griffenfeld,venfe,Undirected,1
+Gyldenløve,def,Undirected,1
+Griffenfeld,Herr Gyldenløve,Undirected,1
+Gyldenløve,Herr Gyldenløve,Undirected,1
+Baron Krag,Charlotte Amalie,Undirected,1
+Charlotte Amalie,dæ,Undirected,1
+Eli,dæ,Undirected,1
+Grifsenfeld,sif,Undirected,1
+Effer,Griffenfeld,Undirected,1
+Baron Krag,Charlotte Amalie Griffenfeld,Undirected,1
+Charlotte Amalie Griffenfeld,Gyldensparre,Undirected,1
+Erik Krag,Gyldensparre,Undirected,1
+Christian den Femfes,Krag,Undirected,1
+Christian den Femfes,Sofie Amalie dyd,Undirected,1
+Sofie Amalie dyd,sæm,Undirected,1
+Christian den Femle,Leonora Kristine Ulfeld,Undirected,1
+Christian den Femle,fil,Undirected,1
+Leonora,fil,Undirected,1
+Kirstine,Ulfeld,Undirected,1
+Sofie Amalie,tjl Griffenfelds,Undirected,1
+Griffenfeld,Leonora Kristines,Undirected,1
+Leonora Kristines,Munkholm,Undirected,1
+Jldsvaade,Krog,Undirected,1
+Gyldenløve,fil Griffenfeld,Undirected,1
+Fangæn,Griffenfeld,Undirected,1
+Griffenfeld,Grifsenfeld,Undirected,1
+Depechen,Griffenfeld,Undirected,1
+Depechen,Kommandantens,Undirected,1
+Griffenfeld,jø,Undirected,2
+Gud,sæm,Undirected,1
+Krag,Moth,Undirected,1

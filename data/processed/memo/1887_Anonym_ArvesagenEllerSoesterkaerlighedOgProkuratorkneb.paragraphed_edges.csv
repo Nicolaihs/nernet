@@ -1,0 +1,444 @@
+source,target,type,weight
+Madam H.,Martin,Undirected,3
+Madam H.,Mathis,Undirected,3
+Martin,Mathis,Undirected,31
+Mathis,hnn,Undirected,1
+,Mathis,Undirected,13
+Mathis,Sos,Undirected,1
+Mathis,athan,Undirected,2
+Friis,Mathis,Undirected,3
+Ceres,Friis,Undirected,1
+Friis,filsøes,Undirected,1
+Johnsen,Johnson,Undirected,1
+Malhis,Mathis,Undirected,1
+Johnson,Malhis,Undirected,4
+Magsvejr,Mathis,Undirected,2
+Johnson,Mathis,Undirected,11
+Hr. Bauer,Mathis,Undirected,2
+Amygo,Hr. Bauer,Undirected,1
+Amygo,Friis,Undirected,1
+Johnson,Mathis iland,Undirected,1
+Mathis,Mathis iland,Undirected,1
+Johan d. Fjerde,Pedro,Undirected,1
+Pedro,Pedro den,Undirected,1
+Amygo,Bauer,Undirected,1
+Hr. Amygvs,Mathis,Undirected,3
+Amygo,Mathis,Undirected,21
+Mhthis,Nankins,Undirected,1
+Mathis,Pidsk,Undirected,1
+Hr. Amygo,Mathis,Undirected,1
+Hr. Amygo,Utak,Undirected,1
+Mathis,Utak,Undirected,1
+Mathis,jSol,Undirected,1
+Cora,Jims,Undirected,1
+Jims,riglignok,Undirected,1
+Jim,riglignok,Undirected,1
+Jim,Mathis,Undirected,1
+Amygo,Cora,Undirected,1
+Hnn,Mathis,Undirected,1
+Amhgvs,Cora,Undirected,1
+Cora,Mathis,Undirected,13
+Cora,ali,Undirected,2
+Mathis,noz,Undirected,1
+Mathis,farstaa,Undirected,1
+Cora,VcerS,Undirected,1
+Cora,hau,Undirected,1
+Mathis,hau,Undirected,1
+Amygo havge,Mathis,Undirected,1
+Adolph —,Mathis,Undirected,1
+Adolph —,Bauer,Undirected,1
+Bauer,Mathis,Undirected,5
+Mathis,Pibehoveds,Undirected,1
+Caragan,Kctti,Undirected,1
+Ketti,Mathis,Undirected,2
+,Caragan,Undirected,1
+Caragan,Mathis,Undirected,1
+Mathis,nn,Undirected,1
+Amygo,Richardson,Undirected,3
+Mathis,Richardson,Undirected,1
+Amygo,Mathis^,Undirected,1
+Mathis,Mathis^,Undirected,1
+Boutik,Hr. Caragan,Undirected,1
+Boutik,Mathis,Undirected,1
+Mathis,fornærme,Undirected,1
+Amygo,fornærme,Undirected,1
+Bauer,Hr. Bauer,Undirected,1
+Kaptejn Thiesson,Mathis,Undirected,1
+Briggen,Mathis,Undirected,1
+Anna,Mathis,Undirected,4
+H.,Madam H.,Undirected,2
+H.,Martin,Undirected,5
+Martin,Onkels,Undirected,1
+Mathis,Onkels,Undirected,1
+,Martin,Undirected,1
+,Madam H.,Undirected,1
+Baadcne,Martin,Undirected,1
+Herman,Martin,Undirected,7
+Herman,Marne,Undirected,1
+Martin,Sam,Undirected,4
+Martin,lunde,Undirected,1
+Sam,Wigh,Undirected,3
+Dokforen,Sam,Undirected,4
+Miss Bctsy,Sam,Undirected,1
+Miss Bctsy,Mr. Marne,Undirected,1
+Marner,Sam,Undirected,2
+Sam,Sambo,Undirected,2
+Guds,Mr. Dicks,Undirected,1
+Dokforen,Sambo,Undirected,1
+Martin,Sambo,Undirected,4
+Corset,jden,Undirected,1
+Corset,Ibenholts,Undirected,1
+Martin,Miss Minerva,Undirected,1
+Martin,Mo,Undirected,1
+Martin,Miss Betsy,Undirected,1
+Martin,Minervas,Undirected,1
+Jack,Jeffry,Undirected,1
+Jack,Martin nysgjerrig,Undirected,1
+Jeffry,Martin,Undirected,6
+Martin,Mr. Jeffry,Undirected,3
+Minerva,Minervas,Undirected,1
+Martin,Steiner,Undirected,6
+Martin,Minerva,Undirected,10
+Martin,herut,Undirected,1
+Kerl,Steiner,Undirected,1
+Steiner,vaa,Undirected,1
+Marne,Martin,Undirected,1
+Steiner,jsom,Undirected,1
+Guds,jsom,Undirected,1
+Jeffry,Minerva,Undirected,2
+Martin,ester,Undirected,2
+Martin,assled,Undirected,1
+Minerva,Steiner,Undirected,2
+Martin,ester Massa Martin,Undirected,1
+Sambo,Tritton,Undirected,1
+Martin,Tritton,Undirected,1
+Hr. Marne,Martin,Undirected,2
+Hr. Marne,Minerva,Undirected,1
+Steiner,knnde,Undirected,1
+Martin,Mr. Jeffty,Undirected,1
+H.,hnn,Undirected,3
+,hnn,Undirected,1
+Hr. H.,Md. H.,Undirected,2
+Mathis,Md. H.,Undirected,2
+H.,Mathis,Undirected,2
+H.,d,Undirected,1
+Anna,H.,Undirected,1
+H.,ester,Undirected,1
+Martin,derlil,Undirected,1
+Martin,iland,Undirected,3
+Martin,Walter,Undirected,3
+Bolton,Martin,Undirected,6
+Martin,Sir Walter,Undirected,1
+Sir,Sir Walter,Undirected,1
+Lord Gambier,Napoleon,Undirected,1
+Bolton,Walter,Undirected,4
+Anker,ester de,Undirected,1
+Jeffry,Wilson L Son,Undirected,1
+Martin,Martin fom,Undirected,2
+Akces,Martin,Undirected,1
+Martin,Mr. Sebber,Undirected,2
+Hr. Harrison,Mr. Sebber,Undirected,1
+Hr. Harrison,Martin,Undirected,1
+Martin,Sebber,Undirected,3
+Blackwal,Joel,Undirected,2
+Martin,Oxen,Undirected,1
+Blackwal,Mr. Sebber,Undirected,1
+Joel,Panthers,Undirected,1
+Martin,Rosa,Undirected,11
+Vejv,seren,Undirected,1
+Blackwal,Harrison,Undirected,7
+Harrison,Joel,Undirected,2
+Asten,Joel,Undirected,1
+Harrison,Martin,Undirected,8
+Martin,Waldsee,Undirected,12
+Harrison,Waldsee,Undirected,5
+Harrison,Sebber,Undirected,1
+Bernhard,Waldsee,Undirected,2
+Rosa,elsfeds,Undirected,1
+elsfe,elsfeds,Undirected,1
+Marlin,Martin,Undirected,1
+Marlin,Waldsee,Undirected,2
+Marlin,Rosa,Undirected,1
+Bernhardt,Praieriulvs,Undirected,1
+Martin,fia,Undirected,1
+benn,zrr,Undirected,1
+Martin,benn,Undirected,1
+Blackwal,Martin,Undirected,1
+Blackwal,Rosa,Undirected,1
+Bernhaardt,Bernhard,Undirected,1
+Almery,Waldsee,Undirected,2
+Almery,Rosa,Undirected,1
+Martin,meo,Undirected,1
+Rosa,meo,Undirected,1
+Almary,Rosa,Undirected,3
+Rosa,Waldses,Undirected,1
+Bernhard,Waldses,Undirected,1
+Almary,Martin,Undirected,3
+Bernhard,Harrison,Undirected,2
+Bernhard,Martin,Undirected,77
+Bernhard,Rosa,Undirected,1
+Almary,Blackwal,Undirected,4
+Rosa,Waldsee,Undirected,3
+Almarh,Rosa,Undirected,1
+Almarh,Almary,Undirected,1
+Almary,Harrison,Undirected,13
+Almary,Waldsee,Undirected,2
+Bernhardt,Waldsee,Undirected,1
+Harrison,Waldsec,Undirected,1
+Hr. Harrison,Øe,Undirected,2
+Hr. Harrison,nvar,Undirected,1
+Dickson,Miller,Undirected,1
+Hr. Harnson,Øe,Undirected,1
+Hr. Harnson,Hr. Harrison,Undirected,1
+,H.,Undirected,1
+H.,Punschen,Undirected,1
+Adolph,Othelia,Undirected,4
+H.,Othelia,Undirected,1
+,Fris,Undirected,1
+Bavian,Mathis,Undirected,2
+Ceres,Mathis,Undirected,1
+Johnsen,Mathis,Undirected,1
+Anna,Emma,Undirected,30
+Anna,nanstændig,Undirected,1
+Anna,Lorio,Undirected,1
+Lorio,wusikals,Undirected,1
+Anna,wusikals,Undirected,1
+Anna,Chansonnette,Undirected,1
+Chansonnette,Mathis,Undirected,1
+Anna,Johnson,Undirected,1
+Bernhard Bisonen,Martin,Undirected,1
+Bernhard,Blackwal,Undirected,1
+Martin,egge,Undirected,1
+Bell,Sam,Undirected,1
+Bell,Martin,Undirected,8
+Bell,Benjamin,Undirected,1
+Benjamin,Martin,Undirected,1
+Cedcre,Pinier,Undirected,1
+Martin,Pinier,Undirected,1
+Bernhard,Sands,Undirected,1
+ester,it,Undirected,1
+Martin,dm,Undirected,1
+Martin,Sam Bell,Undirected,1
+Martin,Sam. Bell,Undirected,1
+Dands,Martin,Undirected,1
+Martin,ask,Undirected,1
+Dandsen,Martin,Undirected,1
+Martin,as,Undirected,1
+Hain,Martin,Undirected,1
+Bell,Sam.,Undirected,1
+Martin,Sante-Fe,Undirected,1
+Bernhard,Sante-Fe,Undirected,1
+Martin,istaa,Undirected,1
+Bernhard,Sam. Bell,Undirected,1
+Bernhard,Sante-Fs,Undirected,1
+Elise,Pastor Holm,Undirected,1
+Elise,Per,Undirected,1
+Karl,Per,Undirected,2
+Ane Marie,Karl,Undirected,1
+Ane Marie,Per,Undirected,4
+Ane,Per,Undirected,7
+Joroen,Per,Undirected,1
+Ane,Othelia,Undirected,2
+Othelia,Per,Undirected,2
+Per,befaleoe Othelia,Undirected,1
+Don Juan,Felix,Undirected,1
+Holm,Ulrik,Undirected,1
+Johanne,Ulrik,Undirected,1
+Elise,Jøsses,Undirected,1
+Jøsses,Ulrik,Undirected,1
+Elise,Othelia,Undirected,1
+H.,Johanne,Undirected,1
+Elise,Sofus,Undirected,1
+Felix,Karo,Undirected,2
+Othelia,Ulrik,Undirected,1
+Felix,Per,Undirected,3
+Jomfru Othelia,Per,Undirected,1
+Ulrik,mg Elise,Undirected,1
+Sofus,mg Elise,Undirected,1
+Felix,Sofus,Undirected,1
+Felix,Othelia,Undirected,5
+Gottlob,Sofus,Undirected,2
+Felix,Gottlob,Undirected,5
+,Felix,Undirected,2
+Ane Marie,Othelia,Undirected,1
+Anders,Felix,Undirected,1
+Anders,Per,Undirected,1
+Gottlob,ester,Undirected,1
+Felix venote,Othelia,Undirected,1
+Gottlob,Ulrik,Undirected,1
+Ane,Felix,Undirected,1
+Per,gaardcn,Undirected,1
+Gottlob,Martin,Undirected,2
+Mariin,Vera-Cruz,Undirected,1
+Bernhard,Mariin,Undirected,1
+Bernhard,forman,Undirected,1
+ester,forman,Undirected,1
+Bernhard,Mathis,Undirected,2
+Bernhard,Martin sknlde,Undirected,1
+Bernhard,St Fvancisko,Undirected,1
+Karl,Martin,Undirected,1
+Martin omtrenl,hau,Undirected,1
+Bernhard,hau,Undirected,1
+J,Mads Post,Undirected,1
+Mads Post,Martin,Undirected,1
+Hr. H.,Mathis,Undirected,1
+Martin,Santoz,Undirected,2
+Gud,Mathis,Undirected,1
+Gud,Martin,Undirected,2
+Anna,Rosa,Undirected,14
+Martin,fil,Undirected,1
+Martin,fog,Undirected,2
+Herman,Marfin,Undirected,1
+Marfin,Martin,Undirected,1
+Herman,Othelia,Undirected,1
+Gottlob,Othelia,Undirected,5
+Othelia,hnn,Undirected,2
+Frn Gottlob,Othelia,Undirected,2
+Ofhelie,Othelia,Undirected,1
+H.,dg,Undirected,1
+Mathis,dg,Undirected,1
+Anna,Charles,Undirected,4
+Anna,d,Undirected,1
+Anna,Mendel,Undirected,2
+Anna,sormaa Grosserer,Undirected,1
+Emma,sormaa Grosserer,Undirected,1
+Martin,oeraf,Undirected,1
+nn,oeraf,Undirected,1
+Farføjet,Martin,Undirected,1
+Hr. H.,Martin,Undirected,1
+Hr. H.,d,Undirected,1
+Martin,kjære,Undirected,1
+Martin,Santa,Undirected,3
+Martin,Santo,Undirected,1
+Martin,lir,Undirected,1
+Martin,Sergipi,Undirected,1
+Martin,Sanloz,Undirected,1
+Martin,Taronne,Undirected,1
+Githaren,Martin,Undirected,3
+Mariin,Nn,Undirected,1
+Martin,Nn,Undirected,1
+Julie,Martin,Undirected,6
+Rosa,Svend,Undirected,1
+Chrisfen,Rosa,Undirected,2
+Adolf,Martin,Undirected,1
+Graad,Julie,Undirected,1
+Anna,Julie,Undirected,4
+Martin,Othelia,Undirected,11
+Martin,hnn,Undirected,1
+Anna,Martin,Undirected,5
+Kaptejn Gottlobs,Martin,Undirected,1
+Martin Kjøbenhavn,ester,Undirected,1
+Githar,Martin,Undirected,1
+Githar,Julie,Undirected,1
+Rosa,deras,Undirected,1
+Mathis,itale,Undirected,1
+Mathis,Stcinback,Undirected,1
+Kaptejn Stcinbacks,Mathis,Undirected,1
+Ester,Steinback,Undirected,2
+Mathis,Steinback,Undirected,1
+Dn,Mathis,Undirected,1
+,Anna,Undirected,2
+Anna,Mendels Sysfue,Undirected,1
+Anna,Jakobsen,Undirected,1
+Dandsen,Theodors,Undirected,1
+Emma,Theodors,Undirected,1
+Dandsen,Emma,Undirected,1
+Dandsen,Theodor,Undirected,1
+Anna,Theodor,Undirected,1
+Emma,Oskar Strøm,Undirected,1
+Oskar Strøm,Theodor,Undirected,1
+,hare,Undirected,1
+def,hare,Undirected,1
+Martin,def,Undirected,1
+Mathis,def,Undirected,1
+Mathis,iland,Undirected,4
+Mathis,Nio de Janeiro,Undirected,1
+Martin,Steinback,Undirected,2
+Brodersen,Mathis,Undirected,1
+Malin,Martin,Undirected,1
+Mathis,Othelia,Undirected,2
+Anna,Candidat Møller,Undirected,2
+Amor,Othelia,Undirected,1
+Anna,Othelia,Undirected,5
+Othelia,Rosa,Undirected,3
+Anna,Rose,Undirected,1
+Otheliass,Rosa,Undirected,1
+N. N. L N.,Othelia,Undirected,1
+Helle,Othelia,Undirected,1
+Rosa,hnn,Undirected,1
+N.,T,Undirected,1
+N.,Othelia,Undirected,1
+T,jig,Undirected,1
+N.,X,Undirected,1
+Martin,T.,Undirected,1
+Martin,sidsfe Onske,Undirected,1
+,L.,Undirected,1
+L,Othelia,Undirected,2
+Othelia,ester,Undirected,1
+L,ester,Undirected,2
+Othelia,kalots,Undirected,2
+Anna,Hans,Undirected,2
+Frues,Hans,Undirected,2
+Martin,Moder,Undirected,1
+H.,Rosa,Undirected,1
+H.,Pe,Undirected,1
+Adolph,Rosa,Undirected,8
+Rosa,fig,Undirected,1
+Rosa,ban,Undirected,1
+Adolph,Frøken H.,Undirected,1
+Adolph,Martin,Undirected,1
+Adolph,fig,Undirected,1
+A,B,Undirected,1
+Martin,N.,Undirected,1
+Frøken Othelia,Othelia,Undirected,1
+Y,Y.,Undirected,1
+Gud,X,Undirected,1
+Hr. L,Othelia,Undirected,1
+,T,Undirected,1
+Emma,Theodor,Undirected,1
+Adolph,Anna,Undirected,4
+L,Y,Undirected,1
+Adolph,Y,Undirected,1
+Pla,ester,Undirected,1
+-s,Pla,Undirected,1
+-s,H-m,Undirected,1
+H-m,Othelia,Undirected,1
+Adolph,Y.,Undirected,1
+MMzfieg,llø,Undirected,1
+Adolp,X,Undirected,1
+Othelia,X,Undirected,3
+Othelia,Stine,Undirected,1
+Stine,strax,Undirected,1
+Adolph,L,Undirected,1
+T,Y,Undirected,1
+T,itale,Undirected,1
+X,itale,Undirected,1
+X,hnn,Undirected,1
+YNaa,nefop,Undirected,1
+Grobian,YNaa,Undirected,1
+Adolph,P,Undirected,1
+Ia,P,Undirected,1
+Hr. P,Ia,Undirected,1
+Adolph,Procurator X,Undirected,1
+Adolph,X,Undirected,3
+aj,yaa,Undirected,1
+Adolph,T,Undirected,1
+Aolph,Rosa,Undirected,2
+Gottlob,Rosa,Undirected,1
+Othelia,hanselv,Undirected,1
+ril,spaa,Undirected,1
+Anna,Y.,Undirected,1
+L Othelia,X,Undirected,1
+L,Rosa,Undirected,1
+Anna,X,Undirected,1
+Anna,Gottlob,Undirected,1
+Gottlob,L,Undirected,1
+Gottlob,hans,Undirected,1
+Rosa,X,Undirected,1
+Anna,fil,Undirected,1
+,X,Undirected,1
+Hr. X.,Othelia,Undirected,1
+Hr. X.,L.,Undirected,1
+Anna,ester,Undirected,1
+Anna,T.,Undirected,1
+,naa Mathis,Undirected,1

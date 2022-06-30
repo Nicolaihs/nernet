@@ -1,0 +1,776 @@
+source,target,timestamp
+Odins,Rinda,2
+Marie,Odins,2
+Kerner,Rinda,3
+Kerner,Marie,3
+Marie,Rinda,3
+Kerner,Rinda,4
+Kerner,Præsfegaard,4
+Marie,Præsfegaard,4
+Frøken Fos,Marie,5
+Lille Maries,Rinda,7
+Gud,Marie,8
+Marie,Præsfen,10
+Marie,Rinda,10
+Præsfen,Rinda,10
+Præsfen,fig,10
+Marie,fig,10
+Frøken Fos,Gud,11
+,Frøken Fos,12
+Nimbus,Præsfen,15
+Marie,Rinda,17
+Marie,Rinda,17
+Marie,Rinda,17
+Doris,Marie,17
+Doris,Rinda,17
+Marie,Rinda,19
+Anton,Gerhard,20
+Kerner,Marie,21
+Marie,Rinda,21
+Marie,Rinda,21
+Clausen,Rinda,24
+Rinda,hæn,24
+Karl,hæn,24
+Karl,hæn,24
+Rinda,hæn,24
+Bergvaldt,Clausen,26
+Clausen,Marie,26
+Hr. Bergvaldt,Rinda,27
+Hr. Bergvaldt,Rinda,30
+Clausen,Hr. Bergvaldt,30
+Bergvaldt,Rinda,32
+Bergvaldt,Rinda,32
+Marie,Rinda,36
+Marie,Rinda,36
+Marie,Rinda,36
+Bergvaldt,Rinda,36
+Bergvaldt,Rinda,36
+Marie,Rinda,40
+Marie,Rinda,40
+Bergvaldt,Rinda,40
+Marie,Rinda,41
+Bergvaldt,Marie,41
+Bergvaldt,Marie,41
+Marie,Rinda,41
+Marie,Rinda,41
+Bergvaldt,Marie,41
+Bergvaldt,Rinda,41
+Bergvaldt,Marie,42
+Bergvaldt,Marie,42
+Bergvaldt,Rinda,43
+Bergvaldt,Rinda,43
+Marie,Rinda,46
+Bergvaldt,Rinda,48
+Marie,Rinda,48
+Marie,Rinda,51
+Marie,Rinda,53
+Bergvaldt,Rinda,53
+Bergvaldt,hnn,53
+Heibergs,hnn,53
+Heibergs,Klara,53
+Klara,Marie,53
+Marie,Rinda,53
+Doris,Rinda,53
+Doris,Rinda,53
+Marie,Rinda,53
+Marie,Rinda,53
+Marie strax,Rinda,55
+Marie,Rinda,56
+Marie,Rinda,57
+Marie,Rinda,57
+Marie,Rinda,59
+Marie,Rinda,60
+Marie,Rinda,61
+Marie,Rinda,61
+Marie,Rinda,61
+Kantor Bruun,Rinda,61
+Marie,Rinda,62
+Marie,Rinda,63
+Marie,Rinda,63
+Gerhardt,Rinda,64
+Anton,Gerhardt,64
+Anton,Marie,64
+Rinda,ester,65
+Frøken Starks,ester,65
+Frøken Starks,Rinda,65
+Gerhardt,Poulsens,66
+Minna,Olga,67
+Frue,Rinda,70
+Bruun,Minna,71
+Minna,Rinda,72
+Major Scherfs,Minna,72
+Major Scherfs,Ravns,72
+Ravns,Rinda,72
+Minna,Rinda,73
+Minna,Rinda,73
+Bruun,Rinda,74
+Minna Stark,Rinda,74
+Minna,Rinda,75
+Minna,Rinda,77
+Minna,Rinda,78
+Marie,Rinda,78
+Marie,Minna,78
+Marie,Rinda,79
+Marie,Rinda,79
+Lieutenant Bergvaldt,Rinda,79
+Lieutenant Bergvaldt,Marie,79
+Marie,Rinda,79
+Bergvaldt,Rinda,79
+Bergvaldt,Minna,79
+Minna,Olga,79
+Stark,voxne,81
+Marie,Rinda,82
+Marie,Rinda,82
+Anton,Marie,84
+Marie,hnn,84
+Marie,hnn,84
+Marie,Rinda,84
+Marie,Rinda,84
+Minna,Olga,85
+Marie,Olga,85
+Major Scherfs,Marie,87
+Gerhardt,Marie,87
+Gerhardt,Marie,87
+Bergvaldt,Marie,88
+Minna Stark,Rinda,89
+Rinda,Stark,89
+Rinda,Stark,89
+Marie,Rinda,89
+Marie,Rinda,90
+Anton,Gerhardt,91
+Marie,Rinda,93
+Marie,Rinda,93
+Marie,Rinda,93
+Minna,Rinda,94
+Olga,Rinda,96
+Minna,Olga,96
+Lauritzen,Minna,96
+Olga,Rinda,98
+Bergvaldt,Rinda,98
+Bergvaldt,Rinda,98
+Rinda,valse,98
+Bergvaldt,Rinda,100
+Raasted,Rinda,101
+Marie,Rinda,105
+Marie,Stark,105
+Bergvaldt,Rinda,108
+Minna,Rinda,110
+Minna,Stark,110
+Bergvaldt,Stark,110
+Bergvaldt,Rinda,110
+Minna,Rinda,110
+Minna,Minna Stark,110
+Minna Stark,Schytte,110
+Rinda,Schytte,110
+Bergvaldt,Rinda,111
+Bergvaldt,Phillipine,111
+Bergvaldt,Phillipine,111
+Bergvaldt,Rinda,111
+Bergvaldt,Rinda,111
+Bergvaldt,Rinda,111
+Olga,Rinda,112
+Minna,Olga,114
+Olga,Rinda,114
+Minna,Rinda,115
+Minna,Rinda,115
+Bergvaldt,Rinda,115
+Lieutenant Bergvaldt,Minna,117
+Marie,Rinda,118
+Bergvaldt,Marie,118
+Bergvaldt,Marie,118
+Bergvaldt,Marie,118
+Bergvaldt,Ingeborg,125
+Ingeborg,Strandhøj,125
+Bergvaldternes,Strandhøj,125
+Bergvaldt,Rinda,126
+Bergvaldt,Rinda,126
+Olga,Rinda,127
+Bergvaldt,Olga,127
+Bergvaldt,Rinda,127
+Rinda,Stark,127
+Rinda,Stark,127
+Bergvaldt,Rinda,131
+Bruun,Lieutenant Bergvaldt,139
+Rinda,Stark,140
+Marie,Stark,140
+Bergvaldt,Marie,140
+Rinda,Stark,141
+Bergvaldt,Rinda,143
+Bergvaldt,Rinda,144
+Bergvaldt,Minna,144
+Minna,Rinda,144
+Bergvaldt,Rinda,144
+Bergvaldt,Rinda,145
+Bergvaldt,Bruun,148
+Bergvaldt,Scherfs,149
+Rinda,Scherfs,149
+Bergvaldt,Rinda,149
+Poulsens,Rinda,152
+Marie,Poulsens,152
+Marie,Rinda,152
+Bergvaldt,Rinda,152
+Bergvaldt,Marie,152
+Marie,Susannes,152
+Figaro,Susannes,152
+Marie,Nindas,153
+Marie,Nindas,153
+Marie,Poulsens,153
+Poulsens,Rinda,153
+Marie,Rinda,153
+Marie,Rinda,154
+Marie,Rinda,154
+Bergvaldt,Marie,154
+Marie,Rinda,155
+Bergvaldt,Rinda,155
+Bergvaldt,Rinda,155
+Marie,Rinda,155
+Marie,Rinda,155
+Rinda,Susannes,155
+Bergvaldt,Poulsens,156
+Bergvaldt,Rinda,156
+Marie,Rinda,156
+Marie,Rinda,156
+Bergvaldt,Rinda,157
+Marie,Rinda,157
+Bergvaldt,Marie,157
+Marie,Rinda,158
+Marie,Rinda,158
+Bergvaldt,Marie,158
+Bergvaldt,Marie,158
+Marie,Rinda,159
+Marie,Rinda,160
+Marie,Rinda,161
+Marie,Rinda,163
+Marie,Rinda,163
+Marie,Rinda,163
+Bergvaldt,Rinda,164
+Bergvaldt,Strandhøj,164
+Rinda,Strandhøj,164
+Rinda,Strandhøj,164
+Rinda,Strandhøj,164
+Doctor Magens,Rinda,164
+Doctor Magens,Heises,164
+Heises,Rinda,164
+Rinda,Tomhed,164
+Marie,Rinda,165
+Bergvaldt,Rinda,165
+Marie,Rinda,166
+Marie,Rinda,167
+Marie,Rinda,168
+Bergvaldt,Marie,168
+Bergvaldt,bei,171
+Bergvaldt,Ingeborg,173
+Bergvaldt,Ingeborg,174
+Bergvaldt,Rinda,177
+Bergvaldt,Ingeborg,177
+Ingeborg,Rinda,177
+Pintse,Rinda,178
+Marie,Pintse,178
+Marie,Rinda,178
+Rinda,hnn,178
+Bergvaldt,hnn,178
+Bergvaldt,Marie,179
+Bergvaldt,Rinda,179
+Marie,Rinda,179
+Marie,Rinda,179
+Doris,Rinda,179
+Doris,Gud,179
+Gud,Marie,179
+Marie,Rinda,179
+Bergvaldt,Marie,180
+Bergvaldt,Stark,180
+Marie,Stark,180
+Marie,Rinda,180
+Marie,Rinda,180
+Marie,Rinda,180
+Marie,Rinda,181
+Anton,Rinda,181
+Anton,Gerhardt,181
+Gerhardt,Runeborg,181
+Bergvaldt,Runeborg,181
+Bergvaldt,Marie,181
+Gud,Marie,182
+Bergvaldt,Gud,182
+Bergvaldt,Rinda,182
+Marie,Rinda,184
+Bergvaldt,Marie,186
+Rinda,ester,187
+Marie,ester,187
+Lieutenant Bergvaldt,Marie,187
+Bergvaldt,Marie,188
+Blom,Marie,188
+Bergvaldt,Marie,189
+Marie,Rinda,189
+Doris Meiniche,Rinda,189
+Bergvaldt,Rinda,191
+Marie,Rinda,192
+Bergvaldt,Marie,192
+Bergvaldt,Rinda,192
+Marie,Rinda,192
+Marie,Rinda,192
+Heyses,Rinda,192
+Heyses,Rinda,192
+Marie,Rinda,192
+Bergvaldt,Marie,192
+Gud,Marie,194
+Bergvaldt,Gud,194
+Bergvaldt,Rinda,194
+Marie vidsfe,Rinda,194
+Bergvaldt,Marie,195
+Marie,Rinda,195
+Marie,Rinda,195
+Bergvaldt,Marie,195
+Bergvaldt,Marie,195
+Marie,Rinda,196
+Marie,Rinda,196
+Bergvaldt,Marie,196
+Marie,Rinda,199
+Marie,Rinda,200
+Marie,Rinda,201
+Bergvaldt,Marie,202
+Bergvaldt,Rinda,202
+Marie,Rinda,204
+Marie,Rinda,204
+Marie,Rinda,204
+Marie,Rinda,205
+Doris,Marie,205
+Doris,Rinda,205
+Doris,Rinda,206
+Marie,Rinda,207
+Marie,Rinda,207
+Minna Stark,Rinda,207
+Marie,Minna Stark,207
+Marie,Stark,207
+Bergvaldt,Stark,207
+Marie,Rinda,209
+Marie,Rinda,209
+Marie,Rinda,209
+Bergvaldt,Rinda,214
+Oscar Bergvaldt,Rinda,215
+Bergvaldt,Rinda,217
+Marie,Rinda,217
+Marie,Rinda,218
+Posfen,Rinda,218
+Oscar,Posfen,218
+,Rinda,219
+Bergvaldt,Rinda,229
+Bergvaldt,Rinda,230
+Bergvaldt,Rinda,230
+Bergvaldt,sknlde,232
+Bergvaldt,sknlde,232
+Bergvaldt,Rinda,233
+Bergvaldt,Rinda,236
+Bergvaldt,Maren Postkone,236
+Maren Postkone,Rinda,236
+Bergvaldt,Rinda,236
+Lars Skovløbers,Maren Postkone,237
+Lars Skovløbers,Oscar,237
+Maren,Oscar,237
+Maren,hnn,237
+Oscar,hnn,237
+Maren,Rinda,240
+Lars,Maren,240
+Lars,Rinda,240
+Bergvaldt,Rinda,240
+Bergvaldt,Lars,240
+Bergvaldt,Lars,241
+,Lars,241
+,Maren,241
+Maren,Rinda,241
+Bergvaldt,Rinda,242
+Bergvaldt,Lars,242
+,Lars,242
+,Bergvaldt,242
+Bergvaldt,Maren,242
+Bergvaldt,Lars,243
+Graaden,Rinda,245
+Bergvaldt,Graaden,245
+Bergvaldt,Marie,245
+Marie,Rinda,245
+Doris,Rinda,245
+Doris,Marie,245
+Marie,Rinda,246
+Marie,Rinda,246
+Marie,Rinda,249
+Marie,Rinda,249
+Marie,Rinda,252
+Marie,Rinda,252
+Marie,Rinda,253
+Marie,Rinda,253
+Marie,Rinda,253
+Marie,Rinda,255
+Marie,Villie,255
+Bohave,Marie,256
+Bohave,Marie,256
+Marie,Rinda,260
+Bergvaldt,Hansens,262
+Ingeborg,Oscar,264
+F.,Oscar,265
+Marie,Rinda,269
+Marie,Rinda,269
+Gerhardt,Marie,269
+Marie,Rinda,271
+Marie,Minna,271
+Marie,Minna Stark,272
+Bergvaldt,Minna Stark,272
+Bergvaldt,hiin,272
+Rinda,hiin,272
+Marie,Rinda,272
+Marie,Minna Stark,272
+Minna,Minna Stark,272
+Bergvaldt,Minna,272
+Minna,sidsfe Vinter,273
+Lieutenant Bergvaldt,Minna,274
+Bergvaldt,Rinda,276
+Lieutenant Bergvaldt,Strandhøj,279
+Minna,Rinda,280
+Minna,Rinda,280
+Minna,Rinda,283
+Bergvaldt,Rinda,283
+Ester,Minna,285
+Ester,Minna,285
+Minna,Rinda,285
+Anton,hnn,287
+Præsfen,hnn,287
+Marie,Ninda,288
+Marie,Rinda,288
+Marie,Rinda,288
+Bergvaldt,Marie,289
+Bergvaldt,Marie,295
+Bergvaldt,Rinda,295
+Marie,Rinda,296
+Bergvaldt,Marie,297
+Bergvaldt,Gud,297
+Bergvaldt,Rinda,298
+Bergvaldt,Marie,298
+Gerhardt,Marie,299
+Anton,Marie,301
+Marie,Rinda,301
+Gerhardt,Rinda,301
+Gerhardt,Marie,302
+Marie,Rinda,302
+Marie,Rinda,302
+Marie,Rinda,303
+Marie,Rinda,303
+Gerhardt,Marie,306
+Anton,Gerhardt,307
+Anton,Rinda,307
+Marie,Rinda,307
+Kinin,Marie,307
+Gud,Kinin,307
+Marie,Rinda,309
+Bergvaldt,Rinda,309
+Bergvaldt,Marie,309
+Marie,Rinda,309
+Anton,Rinda,309
+Anton,Rinda,309
+Gud,Rinda,309
+Gud,Rinda,309
+Marie,Rinda,310
+Io,Rinda,312
+Bergvaldt,Rinda,312
+Maren,Rinda,314
+Maren,Rinda,314
+Bergvaldt,Rinda,316
+Bergvaldt,Minna,318
+Marie,Rinda,321
+Doris,Rinda,321
+Doris,ester,321
+Rinda,ester,321
+Bergvaldt,Rinda,322
+Marie,Rinda,322
+Blomsf,Marie,322
+Blomsf,Rinda,322
+Rinda,Stine,322
+Marie,Rinda,323
+Marie,Rinda,325
+Marie,Rinda,325
+Marie,Rinda,325
+Rinda,Sophaen,325
+Marie,Sophaen,325
+Marie,hnn,325
+Marie,Stine,326
+Rinda,Stine,326
+Marie,Rinda,326
+Marie,Rinda,326
+Marie,Rinda,326
+Marie,Stine,326
+Marie,Stine,326
+Marie,Rinda,326
+Marie,Rinda,327
+Marie,Rinda,329
+Rinda,Stine,329
+Marie,Stine,329
+Marie,Rinda,329
+Marie,Rinda,330
+Doris,Rinda,330
+Doris,Marie,330
+Marie,Rinda,331
+Doris,Marie,334
+Doris,Faber,334
+Faber,Marie,334
+Gud,Marie,334
+Gud,Rinda,334
+Gud,Rinda,334
+Faber,Rinda,335
+Marie,Rinda,335
+Marie,Rinda,335
+Marie,Rinda,336
+Gud,Marie,337
+Gud,Rinda,337
+Marie,Rinda,337
+Marie,Rinda,337
+Anton,Marie,339
+Anton,Marie,339
+Marie,Rinda,339
+Marie,Rinda,339
+Bergvaldt,Marie,339
+Bergvaldt,Rinda,339
+Ingeborg,stræng,340
+Oscar,stræng,340
+Ingeborg ellen,Oscar,340
+Ernst,Ingeborg ellen,340
+Oscar,Rinda,341
+Marie,Rinda,342
+Bergvaldt,Rinda,342
+Bergvaldt,nn,342
+Rinda,nn,342
+Marie,Rinda,342
+Marie,Rinda,343
+Doris,Marie,343
+Doris,Rinda,343
+Marie,Rinda,344
+Doris,Marie,344
+Doris,Marie,344
+Marie,Rinda,344
+Doris,Rinda,344
+Marie,Rinda,346
+Marie,Rinda,346
+Bergvaldt,Marie,347
+Marie,Rinda,349
+Marie,Rinda,349
+Marie,Rinda,349
+Marie,Rinda,350
+Marie,Rinda,352
+Marie,Rinda,358
+Marie,Rinda,360
+Marie,Rinda,361
+Gerhardt,Marie,363
+Marie,Minna Stark,363
+Minna Stark,Rinda,363
+Marie,Rinda,363
+Marie,Rinda,363
+Doris,ask,364
+Doris,Marie,364
+Johansen,Marie,364
+Johansen,Marie,364
+Anton,Marie,365
+Anton,Gerhardt,365
+Gerhardt,Rinda,365
+Minna Stark,Rinda,365
+Lientenant Bergvaldt,Minna Stark,365
+Lientenant Bergvaldt,Rinda,365
+Gerhardt,Marie,366
+Gerhardt,Strandhøj,367
+Marie,Strandhøj,367
+Marie,Rinda,367
+Rinda,v. Bergvaldt,367
+Bergvaldt,Rinda,368
+Rinda,fasfholdt,368
+Oscar,fasfholdt,368
+Ernst,Oscar,368
+Bergvaldt,Oscar,369
+Bergvaldt,Ernsf,369
+Bergvaldt,Rinda,372
+Oscar Bergvaldt,Rinda,372
+Ingeborg,Oscar,376
+Bergvaldt,Ingeborg,376
+Kapellan Johansen,Marie,379
+Anton,Marie,380
+Anton,Gud,380
+Christus,Gud,380
+Christus,Rinda,380
+Braad,Rinda,380
+Braad,Johansen,380
+Johansen,Marie,382
+Gerhardt,Johansen,382
+Anton,Gerhardt,382
+Anton,Johansen,382
+Johansen,Marie,382
+Anton,Marie,382
+Gud,Marie,383
+Doris,Marie,384
+Gerhardt,Marie,384
+Anton,Gerhardt,384
+Anton,Marie,384
+Gud,Marie,384
+Gud,Marie,384
+Bergvaldt,Marie,384
+Bergvaldt,Rinda Mayrik,384
+Friederich Mayrik,Rinda Mayrik,384
+Marie,Rinda,385
+Marie,ellen Pastor Johansen,387
+Bergvaldt,ellen Pastor Johansen,387
+Bergvaldt,Ernst v. Bergvaldt,387
+Bergvaldt,Marie,389
+Bergvaldt,Rinda,389
+Marie,Minna,391
+Gerhardt,Marie,391
+Marie,Minna,394
+Marie,Minna,397
+Gerhardt,Iversen,398
+Gerhardt,Stark,398
+Minna,Stark,398
+Minna,meb,398
+Minna,meb,398
+Minna,Olga,398
+Marie,Minna,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,399
+Minna,Rinda,401
+Marie,Minna,402
+Marie,Minna,403
+Gerhardt,Marie,404
+Gerhardt,Minna,405
+Gerhardt,Marie,405
+Gerhardt,Marie,405
+Gerhardt,Marie,405
+Marie,Minna,405
+Marie,Minna,406
+Marie,Minna,409
+Minna,Rinda,409
+Minna,Rinda,409
+Johansen,Marie,410
+Frøken Marie,Gud,414
+Gud,Stark,414
+Frøken Marie,Marie,415
+Frøken Starks,hnn,416
+Johansen,Minna,418
+Anton,Marie,420
+Kong Frederik den syvendes,Marie,421
+Gerhardt,Iver ester,422
+Iver ester,Marie,422
+Lise,Marie,427
+Lise,Marie,427
+Marie,Trainkuske,428
+Gerhardt,Marie,431
+Gerhardt,Marie,431
+Frøken Kerner,Gerhardt,433
+Gerhardt,Rinda,434
+Gud,Marie,437
+Gerhardt,Marie,437
+Captain Bergvaldt,Gerhardt,437
+Captain Bergvaldt,Rinda,437
+Gerhardt,Marie,438
+Captain Bergvaldt,Hesf,440
+Gud,Marie,441
+Gerhardt,Gud,441
+Gerhardt,Marie,441
+Gerhardt,Marie,442
+Capitain Bergvaldt,Gerhardt,446
+Bergvaldt,Gerhardt,447
+Bergvaldt,Marie,447
+Marie,Rinda,447
+Bergvaldt,Marie,448
+Gud,Marie,448
+Bergvaldt,Marie,450
+Bergvaldt,Marie,451
+Gerhardt,Marie,451
+Bergvaldt,Marie,454
+Bergvaldt,Marie,456
+Marie,Sejer,460
+Gud,Marie,461
+Gud,Rinda,462
+Gud,Marie,462
+Gud,Marie,464
+Marie,hnn,467
+Bergvaldt,hnn,468
+Bergvaldt,Marie,470
+Marie,Rinda,472
+Capitain Bergvaldt,Marie,473
+Gerhardt,Marie,474
+Bergvaldt,Marie,474
+Gud,Marie,475
+Gerhardt,Gud,475
+Birken,Gerhardt,475
+Bergvaldt,Gerhardt,476
+Bergvaldt,Gerhardt,476
+Bergvaldt,Gerhardt,479
+Bergvaldt,Gerhardt,481
+Bergvaldt,Marie,481
+Bergvaldt,Marie,481
+Bergvaldt,Gerhardt,483
+Bergvaldt,Gerhardt,483
+Gerhardt,Marie,483
+Anton,Marie,485
+Anton,Marie,485
+Marie,Rinda,485
+Gerhardt,Rinda,485
+Anton,Gerhardt,485
+Line Larsen,Marie,486
+Line Larsen,Marie,486
+Anton,Marie,486
+Anton,Marie,486
+Anton,Marie,486
+Anton,Line,486
+Anton,Line,486
+Anton,Line,486
+Line,Marie,486
+Kapellan Johansen,Marie,486
+Kapellan Johansen,Minna Stark,486
+Bergvaldt,Gerhardt,488
+Bergvaldt,Marie,488
+Gerhardt,Marie,488
+Bergvaldt,Gerhardt,488
+Bergvaldt,Gerhardt,488
+Frøken Kerner,Marie,489
+Bergvaldt,Marie,490
+Bergvaldt,Gerhardt,490
+Gerhardt,Marie,492
+Bergvaldt,Marie,492
+Bergvaldt,Gerhardt,493
+Bergvaldt,Gerhardt,493
+Bergvaldt,Marie,493
+Bergvaldt,Marie,493
+Bergvaldt,Vevey,493
+Bergvaldt,Gerhardt,494
+Bergvaldt,Gerhardt,495
+Bergvaldt,Marie,496
+Bergvaldt,Marie,497
+Bergvaldt,Gerhardt,498
+Gerhardt,Marie,499
+Bergvaldt,Marie,500
+Bergvaldt,Marie,500
+Gerhardt,Marie,500
+fil,j,502
+fil,j,502
+Bergvaldt,Hr. Gerhardts,506
+Hr. Gerhardts,Ingeborg,506
+Bergvaldt,Marie,507
+Bergvaldt,Marie,508
+Bergvaldt,Marie,517
+Bergvaldt,Gerhardt,519
+Bergvaldt,Gerhardt,519
+Bergvaldt,Marie,519
+Bergvaldt,Marie,519
+Bergvaldt,Gerhardt,519
+Bergvaldt,Marie,520
+Gerhardt,Marie,520
+Gerhardt,Lugano,520
+Bergvaldt,Lugano,520
+Bergvaldt,Gerhardt,520
+Bergvaldt,Gerhardt,522
+Bergvaldt,Marie,522
+Gud,Rinda,523
+Frøken Kerner,Marie,526
+Capitain Bergvaldt,Frøken Kerner,526
+Gud,Marie,534
+Bergvaldt,Margrethe,539
+Bergvaldt,Marie,539
+Gud,Marie,539
+Gud,Margrethe,542

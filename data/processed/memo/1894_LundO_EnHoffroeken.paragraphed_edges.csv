@@ -1,0 +1,223 @@
+source,target,type,weight
+Dorothea,Dorotheas,Undirected,1
+Dorothea,Sophie Hedevig,Undirected,3
+Kong Christian den Femtes,Sophie Hedevig,Undirected,1
+Dorothea,Kong Christian den Femtes,Undirected,1
+Charlotte Amalie,Dorothea,Undirected,8
+Doro tb,ea,Undirected,1
+Dorothea,ea,Undirected,1
+Dorothea,Gud,Undirected,10
+Dorothea,Dorthe,Undirected,5
+Dorothea,oppebie,Undirected,1
+Dorothea,e,Undirected,2
+Dorothea,Lund-,Undirected,2
+Dorothea,liun,Undirected,2
+.Dorothea,Dorothea,Undirected,2
+Christian den,Dorothea,Undirected,1
+Charlotte Amalie,Christian den,Undirected,1
+Charlotte Amalie,Gyldenløve,Undirected,2
+Dorothea,Gyldenløve,Undirected,2
+Dorothea,Frederik den Fjerde,Undirected,1
+Dorothea,Liendes,Undirected,4
+Dorothea,Graad,Undirected,2
+Dorothea,Lund,Undirected,3
+Calvin,Luther,Undirected,1
+Dorothea,Dorothea Haxthausen,Undirected,1
+Dorothea,Lise,Undirected,1
+Hansen,Lise,Undirected,1
+Dorothea,Hansen,Undirected,8
+Dorothea,Moder,Undirected,1
+Hansen,Karethen,Undirected,1
+Dorothea,Karethen,Undirected,1
+Dorothea,liendes,Undirected,2
+Flos,Hansen,Undirected,1
+Flos,Peder Jensen,Undirected,1
+Jens Pedersens,Peder Jensen,Undirected,1
+Jens Pedersen,Jens Pedersens,Undirected,1
+Dorothea,Jens Pedersen,Undirected,1
+Dorothe,Dorothea,Undirected,4
+Dorotbea,Dorothea,Undirected,1
+Christian den ote,Dorotbea,Undirected,1
+Charlotte Amalie,Christian den ote,Undirected,1
+Amors,Dorothea,Undirected,2
+Dorothea,Luther,Undirected,1
+Gud,Luther,Undirected,1
+Gud,véd,Undirected,1
+Anker,Dorothea,Undirected,2
+lian,lians,Undirected,1
+Gud,lian,Undirected,1
+Huslund,Kong Christian,Undirected,1
+Dorothea,TTIT,Undirected,1
+Sofie Amalia,Ulfelds,Undirected,1
+Christian den 5te,Ulfelds,Undirected,1
+Christian den 5te,Frederik,Undirected,1
+Dorothea,F.,Undirected,35
+Agnes,Charlotte Amalie,Undirected,1
+Agnes,Dorothea,Undirected,11
+Agnes,liun,Undirected,1
+Anna Sophie Reventlov,Kong Frederik,Undirected,1
+F.,Frederik den 4de,Undirected,2
+Dorothea,Louise,Undirected,2
+Dorothea,Vorm,Undirected,1
+Dorothea,Frederik den,Undirected,2
+Carl,Frederik den,Undirected,7
+Carl,Sophie Hedevig,Undirected,5
+Sophie Hedevig,Vilhelm,Undirected,1
+Carl Charlottenborg,Vilhelm,Undirected,1
+Carl Charlottenborg,Johan Drewesen,Undirected,1
+Carl,Johan Drewesen,Undirected,1
+F.,Wessel,Undirected,1
+Agnes,F.’s,Undirected,2
+Agnes,F.,Undirected,3
+F.,F.’s,Undirected,3
+Dorothea,F.’s,Undirected,2
+Dorothea,ban,Undirected,2
+Carl den Tolvte,Karl Hans Wachtmeister,Undirected,1
+Hans Wachtmeister,Karl Hans Wachtmeister,Undirected,1
+Hans Wachtmeister,Ivar Hvidtfeld,Undirected,1
+Christian Carl Gabel,Ivar Hvidtfeld,Undirected,1
+Christian Carl Gabel,Greve Wachtmeister,Undirected,1
+Greve Wachtmeister,Wessel,Undirected,2
+Admiral Sparre,Karl den Tolvte,Undirected,1
+Frederik,Karl den Tolvte,Undirected,1
+Frederik,Peter,Undirected,1
+Carl,Tordenskjold,Undirected,1
+Carl,Edingers,Undirected,1
+Edingers,Morten Dyssel,Undirected,1
+Morten Dyssel,Zaren,Undirected,1
+Zaren,ban,Undirected,1
+Frederik den,ban,Undirected,1
+Gørtz,Karl den Tolvte,Undirected,1
+Frederik den Fjerde,Gørtz,Undirected,1
+Carl,Frederik den Fjerde,Undirected,2
+Carl,F.,Undirected,1
+Carl,Karl den 12te,Undirected,1
+Karl den 12te,Poul Vendelbo,Undirected,1
+F.,Poul Vendelbo,Undirected,1
+F.,Løvenørn,Undirected,1
+Dorothea Løvenørn,Løvenørn,Undirected,1
+Dorothea Løvenørn,Poul Vinding,Undirected,1
+Løvenørn,Poul Vinding,Undirected,1
+Frøken Vinding,Løvenørn,Undirected,1
+Frøken Vinding,Menzikow,Undirected,1
+Menzikow,Peter,Undirected,1
+Frederik den,Peter,Undirected,1
+Anna Sophie,Sophie Hedevig,Undirected,1
+Anna Sophie,Christian den,Undirected,1
+Christian den,Sophie Magdalene,Undirected,1
+Poul Vendelbo,Sophie Magdalene,Undirected,1
+Frederik den,Poul Vendelbo,Undirected,1
+Dorothea,Frederik Løvenørn,Undirected,1
+Dorothea,Løvenørn,Undirected,2
+Højstrup,Jens Juel,Undirected,1
+Carl,Højstrup,Undirected,1
+Frederik den,Louise,Undirected,2
+Clausen,Louise,Undirected,1
+Clausen,Frederik den,Undirected,1
+Frederik den,Frederik den Fjerde,Undirected,1
+Holstein,Sophie Hedevig,Undirected,1
+Charlotte,Holstein,Undirected,1
+Charlotte,Louise,Undirected,1
+Carl,Louise,Undirected,1
+Frederik,Tordenskjold,Undirected,1
+Frederik,Karl,Undirected,1
+Frederik den,Karl,Undirected,1
+Frederik den,Tordenskjold,Undirected,1
+Tordenskjold,Tordenskjold Marstrand,Undirected,1
+Frederik den,Tordenskjold Marstrand,Undirected,1
+Frederik den,Sophie Magdalene,Undirected,2
+Anna Sophie,Sophie Magdalene,Undirected,2
+Anna Sophie,Kronprinsessen,Undirected,1
+Kronprinsessen,Sophie Hedevig,Undirected,1
+Frederik den,Sophie Hedevig,Undirected,3
+Gehejmeraad Rosenkrands,Sophie Hedevig,Undirected,1
+Gehejmeraad Rosenkrands,Gehejmeraad Wibe,Undirected,1
+Anna Sophie,Gehejmeraad Wibe,Undirected,1
+Anna Sophie,F.,Undirected,1
+Carl,Dorothea,Undirected,2
+Dorothea,Frederik den Femte,Undirected,2
+Dorothea,Morten,Undirected,2
+Mette,Morten,Undirected,5
+Dorothea,Mette,Undirected,12
+Morten,varder,Undirected,1
+Mette,Terkel Terkelsen,Undirected,1
+F.,Terkel Terkelsen,Undirected,1
+F.,Terkelsen,Undirected,1
+Dorothea,Terkelsen,Undirected,4
+F.,Mette,Undirected,1
+F.,Morten,Undirected,1
+Mette,Trine,Undirected,7
+Dorothea,Trine,Undirected,8
+Sigrid,Trine,Undirected,22
+Dorothea,Sigrid,Undirected,23
+Mette,Sigrid,Undirected,1
+F.,Trine,Undirected,4
+Dorothea,Mgaard,Undirected,1
+Mgaard,Terkelsen,Undirected,1
+F.,Tordenskjold,Undirected,2
+F.,Sigrid,Undirected,1
+Anna Sophie,Kong Frederik den Fjerde,Undirected,1
+Anna Sophie,Charlotte,Undirected,3
+Anna Sophie,Deichmann,Undirected,1
+Christian den,Deichmann,Undirected,1
+Anna Sophie,Carl,Undirected,1
+Carl,Charlotte,Undirected,1
+Carl,Piessen,Undirected,2
+Christen Vorm,Lintrup,Undirected,1
+Hersleb,Lintrup,Undirected,1
+Hersleb,Jensenius,Undirected,1
+Christo,Jensenius,Undirected,1
+Carl,Doiothea,Undirected,2
+Anne Sophie,Frederik den,Undirected,1
+Anne Sophie,Sophie Hedevig,Undirected,1
+Kres,Sophie Hedevig,Undirected,1
+Kres,Piessen,Undirected,1
+Gehejmeraad Iver Rosenkrands,Piessen,Undirected,1
+Frederik den Fjerde,Gehejmeraad Iver Rosenkrands,Undirected,1
+Anna Sophie,Frederik den Fjerde,Undirected,1
+Anna Sophie,Stahl,Undirected,1
+Frederik den,Stahl,Undirected,1
+Hersleb,Piessen,Undirected,1
+Frederik den,Piessen,Undirected,1
+Anna Sophie,Piessen,Undirected,1
+Christian,Frederik,Undirected,1
+Charlotte,Christian,Undirected,1
+Charlotte,Sophie Hedevig,Undirected,1
+Anna Sophie,Frederik den,Undirected,2
+Anna Sophie,Kong Christian,Undirected,3
+Holstein,Kong Christian,Undirected,1
+Greve Rantzau,Holstein,Undirected,1
+Anna Sophie,Greve Rantzau,Undirected,1
+Anna Sophie,Marv,Undirected,1
+Gott selig ruhende Frau Mutter dadurch in Ihrem Leben,Marv,Undirected,1
+Gott selig ruhende Frau Mutter dadurch in Ihrem Leben,nach,Undirected,1
+Tode verhøhnet,nach,Undirected,1
+Frederik,Tode verhøhnet,Undirected,1
+Frederik,Klausholm,Undirected,1
+Christian,Klausholm,Undirected,1
+Anna Sophie,Christian,Undirected,1
+Anna Sophie,J66,Undirected,1
+Friederich des Vierten,Gott ruhenden Kønigs,Undirected,1
+Friederich des Vierten,Wittwe«,Undirected,1
+Klausholm,Wittwe«,Undirected,1
+Klausholm,Sophie Magdalene,Undirected,1
+Blume,Christian den Sjettes,Undirected,1
+Anna Sophie,Blume,Undirected,1
+Anna Sophie,Laurvig,Undirected,1
+Frederik den,Laurvig,Undirected,1
+Carl —,Sophie Hedevig,Undirected,1
+Carls Apanage,Christian den,Undirected,1
+Anna Sophie,Carls Apanage,Undirected,1
+Agnes,Sigrid,Undirected,1
+Charlotte Amalie,F.,Undirected,1
+liun,von Almen will ich nichts gedacht haben,Undirected,1
+Lund,liun,Undirected,1
+Calvin,Luther	,Undirected,1
+Calvin,Gud,Undirected,1
+Christi,Gud,Undirected,1
+Christi,Dorothea,Undirected,1
+Dorothea,Haxthausen,Undirected,1
+Haxthausen,liun,Undirected,1
+Sigrid,liun,Undirected,1
+F.’s,Sigrid,Undirected,1
+F.,Sophie Hedevig,Undirected,1

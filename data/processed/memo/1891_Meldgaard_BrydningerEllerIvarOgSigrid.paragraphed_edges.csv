@@ -1,0 +1,196 @@
+source,target,type,weight
+Ivar,Rasmus,Undirected,12
+Gud,Hyrdedrengens,Undirected,1
+Abelones,Ivar,Undirected,1
+Bedstefaders,Gud,Undirected,1
+Bedstefaders,Urhanens,Undirected,1
+Skogren,Urhanens,Undirected,1
+Ivar,Skogren,Undirected,1
+Abelone,Gud,Undirected,1
+Abelone,Ivar,Undirected,1
+Ingemanns,Ivar,Undirected,2
+Ingemanns,Otto,Undirected,1
+Otto,Valdemar Sejr,Undirected,1
+Ivar,Mads,Undirected,2
+Ivar,florlette,Undirected,1
+Bekkasinens,florlette,Undirected,1
+Bedstemoders,Ivar,Undirected,1
+Gud,Ivar,Undirected,7
+Bedstemoder,Gud,Undirected,1
+Gud,S. Lind,Undirected,1
+Abelone,Ingemanns,Undirected,1
+Abelone,Axel,Undirected,1
+Axel,Ivar,Undirected,1
+Axel,Isabelle,Undirected,1
+Axel oer,Isabelle,Undirected,1
+Hastrup,Skovgaard,Undirected,2
+Hastrup,Ivar,Undirected,2
+Hans,Jens Larsens,Undirected,1
+Hans,Jens,Undirected,1
+Hastrup,Jens,Undirected,1
+Ivar,Sigrid,Undirected,68
+Ingemanns,Sigrid,Undirected,2
+.Karl,Ivar,Undirected,2
+Karoline Amalie,Kristian den,Undirected,1
+Bryde,Karl,Undirected,1
+Sigrid,Ungmøens,Undirected,1
+Gud,Sigrid,Undirected,2
+S. Lind,Sigrid,Undirected,1
+Gud,Maren,Undirected,1
+Maren,Sigrid,Undirected,1
+Ane,Sigrid,Undirected,2
+Bruun,Sigrid,Undirected,1
+Bruun,Ivar,Undirected,3
+Hr. Holst,Ivar,Undirected,1
+Hr. Holst,Ida Bruun,Undirected,1
+Ida,kiær,Undirected,1
+Ida,Sigrid,Undirected,14
+Karl,Sigrid,Undirected,1
+Holst,Mutter,Undirected,2
+Ida,Ivar,Undirected,29
+Ida,Mutter,Undirected,1
+Mutter,Sigrid,Undirected,1
+Holst,Ivar,Undirected,11
+Frue,Sigrid,Undirected,1
+Bruun,Ida,Undirected,3
+Holberg,Kuhlaus,Undirected,1
+Ivar,Rømer,Undirected,1
+Romer,Rømer,Undirected,1
+Hr. Magnus,theol. Hansen,Undirected,1
+Ivar Skovgaard,Rømer,Undirected,1
+Gud,Hansen,Undirected,4
+Hansen,sage Rømer,Undirected,1
+Gud,Magnus,Undirected,3
+Ivar,Magnus,Undirected,1
+Ivar,Magen,Undirected,1
+Gud,Magen,Undirected,1
+Frøken Sigrid,Karl,Undirected,1
+Karl,Rasmus,Undirected,1
+Ivar,Mutter,Undirected,2
+Hind,Ivar,Undirected,1
+Hans Skovgaard,Ivar,Undirected,1
+Hans Skovgaard,Rasmus,Undirected,1
+Hans,Ivar,Undirected,1
+Hans,Maren,Undirected,1
+Holm,Ivar,Undirected,2
+Graad,Ivar,Undirected,1
+Faster,Graad,Undirected,1
+Holm,Skovgaard,Undirected,1
+Holst,Sigrid,Undirected,4
+Ida Brun,Ivar,Undirected,1
+Ida,Ida Brun,Undirected,1
+Amors,Ivar,Undirected,1
+Amors,Ida Brun,Undirected,1
+Holst,Rømer,Undirected,1
+Sigrid,juris Thorson,Undirected,1
+Sigrid,Thorsons,Undirected,2
+Sigrid,Thorson,Undirected,27
+Gud,Thorson,Undirected,2
+Frøken Sigrid Holst,Sigrid,Undirected,1
+Ivar,Thorson,Undirected,11
+Ivar,grant,Undirected,1
+Sigrid,Skovgaard,Undirected,4
+Holst,Ida Bruun,Undirected,1
+Ida Bruun,Ivar,Undirected,3
+Hr. Skovgaard,Sigrid,Undirected,1
+Hr. Skovgaard,Søren Jensener,Undirected,1
+J. A. Hansen,Sørensen,Undirected,1
+Frøken Sigrid,haanlo,Undirected,1
+Braad,Thorson,Undirected,1
+Braad,Ivar,Undirected,1
+Ida Bruun,Thorson,Undirected,2
+Ida,Thorson,Undirected,5
+Hr. Thorson,Sigrid,Undirected,2
+Eros,Sigrid,Undirected,1
+Dril,Eros,Undirected,1
+J,Sigrid,Undirected,1
+Eros,Ivar,Undirected,3
+Braad,Sigrid,Undirected,1
+Braad,Ida,Undirected,1
+Ida,Ida Bruun,Undirected,1
+Ida Holsts,Ivar,Undirected,2
+Ida,hans,Undirected,1
+Sigrid,hans,Undirected,1
+Amalie Knudsen,Ida,Undirected,1
+Hr. Skovgaard,Ivar,Undirected,1
+Frøken Sigrid,Skovgaard,Undirected,1
+Hr. Skovgaard,Skovgaard,Undirected,1
+Amalie Knudsen,Ivar,Undirected,4
+Amalie Knudsen,Sigrid,Undirected,1
+Amalies,Emma,Undirected,1
+Frøken Holst,Gud,Undirected,1
+Klara,Ottilie,Undirected,1
+Hr. Skovgaard,Ida Bruun,Undirected,1
+Amalie Knudsen,Ida Bruun,Undirected,2
+Amalie,Ivar,Undirected,3
+Gud,Josva,Undirected,1
+Evropas,Muravieffs,Undirected,1
+Magnus,Muravieff,Undirected,1
+Ivar,Jomfru Rasmussen,Undirected,1
+Frederik,Hr. Ejlersen,Undirected,1
+Frederik den Vil,Kong Kristian den IX,Undirected,1
+Kong Frederik,Lind,Undirected,1
+Gud,Kong Frederik,Undirected,1
+Dronning Margretes,hans,Undirected,1
+Drots,Frederik den,Undirected,1
+Frode,Valdemar,Undirected,1
+Gud,Thrane,Undirected,2
+Gud,Gustav Adolf,Undirected,1
+Ivar,Jonas,Undirected,2
+Ida,Jonas,Undirected,1
+Gud,Kongshøj,Undirected,1
+Dybbøl,Jonas,Undirected,1
+Dybbøl,Ivar,Undirected,2
+Dybbøl,Sigrid,Undirected,1
+Holst,Thorson,Undirected,1
+Thorson,lille Sigrid,Undirected,1
+Amalie,Sigrid,Undirected,1
+Amalie Knudsen,Thorson,Undirected,2
+Ivar,Skovgaard,Undirected,2
+Hr. Lindholm,Skovgaard,Undirected,1
+Frøken Herholdt,Skovgaard,Undirected,1
+Lindholm,Skovgaard,Undirected,2
+Bramsen,Lindholm,Undirected,1
+Bramsen,kjære Lindholm,Undirected,1
+Skovgaard,kjære Lindholm,Undirected,1
+Jens Nielsen,Skovgaard,Undirected,14
+Bramsen,Jens Nielsen,Undirected,2
+Bramsen,kjære Skovgaard,Undirected,1
+Bramsen,Hr. Skovgaard,Undirected,1
+Bramsen,Skovgaard,Undirected,4
+Jens Nielsen,Kristen Jensen,Undirected,1
+Geleff,Kristen Jensen,Undirected,1
+Brix,Geleff,Undirected,1
+Jens,Skovgaard,Undirected,1
+Frands Hansen,Jens,Undirected,1
+Jens,Peder Dehn,Undirected,1
+Bramseu,Jens Nielsen,Undirected,1
+Bramsen,Kj,Undirected,1
+Bramsen,Hr. Bramsens,Undirected,1
+Jens Nielsen,gaards,Undirected,1
+gaards,paany,Undirected,1
+Jens Nielsen,paany,Undirected,1
+Dalby,Kristen Jensen,Undirected,1
+Dan,Ivar,Undirected,2
+Ida,Sjøgren,Undirected,2
+Magnus,Sjøgren,Undirected,1
+Holst,Magnus,Undirected,1
+Jonas,Sigrid,Undirected,1
+Ivar,Thema Hansen,Undirected,1
+Gud,Vig,Undirected,1
+Gud,Ivar Skovgaard,Undirected,1
+Bramsen,Ivar,Undirected,2
+Ivar,juris Thorson,Undirected,2
+Ivar,Kristoffers,Undirected,1
+Bohave,Ivar,Undirected,2
+Ivar,Karle,Undirected,1
+Ivar,Saga,Undirected,1
+Gustav Adolf,Ivar,Undirected,1
+Ivar,Karl XII.s,Undirected,1
+Ida Bruun,Sigrid,Undirected,1
+Holst,Iver,Undirected,1
+Iver,Magen,Undirected,1
+Ivar,Sjøgren,Undirected,2
+Ivar,kjære Sigrid,Undirected,1
+Sigrid,Sjøgren,Undirected,1
+Holst,S. Lind,Undirected,1

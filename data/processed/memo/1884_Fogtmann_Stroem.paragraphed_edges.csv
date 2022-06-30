@@ -1,0 +1,190 @@
+source,target,type,weight
+Erna,Høst,Undirected,1
+Erna,Helene,Undirected,1
+Helen,Helene,Undirected,1
+Erna,Helen,Undirected,87
+Helen,Papa,Undirected,8
+Erna,t-llsoIoZiss Holm,Undirected,1
+Sosterson,t-llsoIoZiss Holm,Undirected,1
+Erna,Sosterson,Undirected,1
+Erna,Helmer,Undirected,10
+Helmer,tlieoloZias Holm,Undirected,1
+Erna,Holm,Undirected,59
+Erna,Frøken Erna,Undirected,1
+Foss,Holm,Undirected,6
+Erna,Foss,Undirected,17
+Foss,Helmer,Undirected,4
+Foss,Helen,Undirected,57
+Helen,taug,Undirected,1
+Dandsen,taug,Undirected,1
+Dandsen,Erna,Undirected,1
+Dands,Helmer,Undirected,1
+Erna,Hagen,Undirected,1
+Erna,Papa,Undirected,6
+Hansen,Papa,Undirected,1
+Hansen,Johannes,Undirected,1
+Erna,Johannes,Undirected,8
+Helen,Holm,Undirected,11
+Gud,Helen,Undirected,12
+Helen,hans Been,Undirected,1
+Helen,Hr. Foss,Undirected,1
+Erna,Hr. Foss,Undirected,1
+Erna,Svane,Undirected,1
+Julie,Svane,Undirected,1
+Elisabeth,Julie,Undirected,1
+Elisabeth,Hr. Foss,Undirected,1
+Hr. Foss,varder,Undirected,1
+Elisabeth,varder,Undirected,1
+Elisabeth,Helen,Undirected,1
+Erna. Foss,Helen,Undirected,1
+Hansen,Thomas,Undirected,20
+Hansen,Marie,Undirected,5
+Marie,Thomas,Undirected,4
+,Thomas,Undirected,8
+,Marie,Undirected,1
+Georg,Hansen,Undirected,1
+Georg,Thomas,Undirected,1
+Hansen,Principals,Undirected,1
+Hansen,Steen,Undirected,2
+Johannes,Marie,Undirected,1
+Gud,Johannes,Undirected,2
+,Hansen,Undirected,1
+Gud,Hansen,Undirected,2
+Gud,Thomas,Undirected,3
+Holm,Thomas,Undirected,4
+Høst,Thomas,Undirected,1
+Gud,Holm,Undirected,5
+Holm,Steen,Undirected,1
+Gud,Steen,Undirected,1
+Erna,Uhret,Undirected,1
+Holm,Uhret,Undirected,1
+Erna,Gud,Undirected,13
+Mama,Papa,Undirected,1
+Erna,Mama,Undirected,3
+Helen,Johannes,Undirected,2
+Johannes,Papa,Undirected,1
+Erna,lille Lise,Undirected,1
+Helen,Lise,Undirected,1
+Ernas Skjød,Helen,Undirected,1
+Fossen,Helen,Undirected,1
+Helen,Strøm,Undirected,26
+Foss,Strøm,Undirected,12
+Helen,Stroms,Undirected,1
+Helen,Mama,Undirected,3
+Helmer,Holm,Undirected,1
+Erna,Pastor Holms,Undirected,1
+Gustav,Helen,Undirected,2
+Erna,Gustav,Undirected,5
+Erna,Pasfor,Undirected,1
+Pasfor,Thomas,Undirected,1
+Duda,Erna,Undirected,2
+Helen,Principals,Undirected,1
+Holm,Papa,Undirected,1
+Foss,Mama,Undirected,1
+Høst,Karl,Undirected,1
+Helen,iveien,Undirected,1
+,Helen,Undirected,2
+Georg Strøm,Strøm,Undirected,1
+Falk,Holm,Undirected,5
+Doktor Falk,Strøm,Undirected,1
+Falk,Thomas,Undirected,2
+,Strøm,Undirected,2
+Falk,hanK,Undirected,1
+Falk,Strøm,Undirected,9
+Falk,Helmer,Undirected,1
+Strøm,Thomas,Undirected,1
+Thomas,ban,Undirected,1
+Helen,liegt,Undirected,1
+Foss,Svane,Undirected,1
+Svane,Thomas,Undirected,1
+Erna,fjederham,Undirected,1
+Gud,Gustav,Undirected,1
+Helmer,Stroms,Undirected,1
+,Foss,Undirected,5
+,Helmer,Undirected,1
+Aage Foss,Foss,Undirected,1
+Helen,Helmer,Undirected,2
+Falk,Helen,Undirected,23
+Dokfor Falk,Foss,Undirected,1
+Gud,Jesu,Undirected,1
+Jesu,Kristi,Undirected,1
+Erna,Falk,Undirected,3
+Falk,Lund,Undirected,5
+Foss,Lund,Undirected,9
+Hermann Foss,Lund,Undirected,1
+Føss,Hermann Foss,Undirected,1
+Fatter,Mutter,Undirected,1
+Grandpapa,Mutter,Undirected,1
+Grandpapa,Gustav Holm,Undirected,1
+Falk,lille Gustav,Undirected,1
+Aage,Helen,Undirected,8
+Mama,lille Papa,Undirected,1
+Erna,lille Gustav,Undirected,2
+Bedstefader,lille Gustav,Undirected,1
+Falk,Thomas Ross,Undirected,1
+Erna,Thomas Ross,Undirected,1
+Erna,Strøm,Undirected,4
+Holm,Priest,Undirected,1
+Erna,ers,Undirected,1
+Holm,Lille Gustav,Undirected,2
+Erna,Oluf Gustav,Undirected,1
+Oluf,Oluf Gustav,Undirected,1
+Holm,Oluf,Undirected,1
+Faders,Holm,Undirected,1
+Erna,Faders,Undirected,1
+Gustav,Holm,Undirected,1
+Erna,monde,Undirected,1
+Helen,monde,Undirected,1
+,Johannes,Undirected,1
+,Falk,Undirected,1
+Foss,Helms,Undirected,1
+Foss,Helm,Undirected,1
+Falk,Foss,Undirected,15
+Foss,Thomas Ros,Undirected,2
+Gud,H.,Undirected,1
+Helen,Justitsraad Lund,Undirected,2
+Helen,Svane,Undirected,1
+Svane,Thomas Ros,Undirected,1
+Falk,Thomas Ros,Undirected,1
+Falk,Uhret,Undirected,1
+STrøm,Uhret,Undirected,1
+STrøm,Strøm,Undirected,1
+Foss,Justitsraad Lund,Undirected,2
+Falk,rhi,Undirected,1
+Demain,Strøm,Undirected,1
+Falk,Strom,Undirected,1
+Helen,Lund,Undirected,8
+Lund,Strøm,Undirected,2
+Falk,H.,Undirected,1
+H.,Svane,Undirected,1
+Falk,Svane,Undirected,1
+Helen,Kudsk,Undirected,3
+Gud,bun,Undirected,1
+Helen,Hesfen,Undirected,2
+Hesfen,graaden,Undirected,1
+Falk,Froken Lund,Undirected,1
+Froken Lund,Kudsk,Undirected,1
+Helen,Hr. Strøm,Undirected,2
+Froken Lund,Helen,Undirected,2
+Falk,Sands,Undirected,1
+Holm,Johannes,Undirected,1
+Helen,Maren,Undirected,2
+Helen,Tat,Undirected,2
+Gud,Strøm,Undirected,1
+Brandt,Iforgaars,Undirected,1
+Iforgaars,Justitsraad Lund,Undirected,1
+Foss,Føss,Undirected,2
+Foss,Gud,Undirected,2
+Helen,J,Undirected,1
+Falk,Gud,Undirected,2
+Helen,Seir,Undirected,1
+Helen,Thomas,Undirected,1
+Gud,Kjære Papa,Undirected,1
+,Føss,Undirected,1
+Gud,Thomas Ros,Undirected,1
+,Thomas Ros,Undirected,1
+Hr. Foss,Strøm,Undirected,1
+Erna,lille Olufs,Undirected,1
+Aage Johan,Foss,Undirected,1
+Justitsraad,Lund,Undirected,1
+Aage,Gud,Undirected,1

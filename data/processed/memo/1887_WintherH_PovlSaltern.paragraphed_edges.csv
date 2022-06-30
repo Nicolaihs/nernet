@@ -1,0 +1,117 @@
+source,target,type,weight
+J,svntes,Undirected,1
+Axel,Povl Saltern,Undirected,1
+Olaf,Povl,Undirected,23
+Povl,Tante Clara,Undirected,3
+Claras,Povl,Undirected,1
+Bloch,Clara,Undirected,1
+Axel,Pasop,Undirected,1
+Axel,Clara,Undirected,3
+Clara,Mathilde,Undirected,1
+Olaf,Saltern,Undirected,1
+Povl,Saltern,Undirected,3
+Clara,Saltern,Undirected,4
+Clara,Povl,Undirected,37
+Povl,Søren,Undirected,2
+Clara,Søren,Undirected,1
+Clara,Villie,Undirected,1
+Olaf,Pastor Viller,Undirected,1
+Olaf,Per,Undirected,1
+Karlen,Povl,Undirected,1
+Clara,Olaf,Undirected,9
+Coopers,Povl,Undirected,4
+Axel,Olaf,Undirected,1
+Hastings,Povl,Undirected,1
+Edith Hasting,Povl,Undirected,1
+Povl,Villars,Undirected,20
+Edith,Villars,Undirected,3
+Edith,Povl,Undirected,10
+Edith,Olaf,Undirected,10
+Olaf,Villars,Undirected,5
+Clara,Villars,Undirected,5
+Hr. Lassen,Lassen,Undirected,1
+Lassen,Povl,Undirected,1
+Povl,Sands,Undirected,1
+Hr. Lassen,Sands,Undirected,1
+Frøken Jørgensen,Hr. Lassen,Undirected,2
+Hr. Lassen,Povl,Undirected,6
+Edith,Frk. Jørgensen,Undirected,1
+Katzenjammer,Povl,Undirected,1
+Katzenjammer,Villars,Undirected,1
+Gud,Lassen,Undirected,1
+Mathilde,Povl,Undirected,1
+Mathilde,Saltern,Undirected,1
+Povl,Thomsen,Undirected,2
+Hans Contubernal Thomsen,Olaf,Undirected,1
+Olaf,Thomsen,Undirected,1
+Bolles,Thomsen,Undirected,1
+Schøtt,Thomsen,Undirected,1
+Jensen,Schøtt,Undirected,1
+Jensen,Villars,Undirected,1
+Hr. Hasting,Povl,Undirected,2
+Hr. Hasting,Villars,Undirected,1
+Junos,Povl,Undirected,1
+Dianas,Venus,Undirected,1
+Edith,Villie,Undirected,1
+Gud,Olaf,Undirected,3
+Olaf,Sørensen,Undirected,1
+Peter,Sørensen,Undirected,2
+Clara,Harder,Undirected,1
+Harder,Peter,Undirected,1
+Justitsraad Svendsen,Peter,Undirected,1
+Olaf,skraa,Undirected,1
+Dickens,Povl,Undirected,1
+Madam Petersen,Povl,Undirected,3
+Baron Gyldenstrøms,Madam Petersen,Undirected,1
+Gud,Madam Sørensen,Undirected,1
+Madam Sørensen,Sørensen,Undirected,1
+Madam Sørensen,Petersen,Undirected,1
+Madam Petersen,Øxe,Undirected,1
+Madam Sørensen,Malte Schmidt,Undirected,1
+Ellen,Povl Saltern,Undirected,1
+Ellen Wide,Povl,Undirected,2
+Ellen,Povl,Undirected,29
+Assessor Wide,Povl,Undirected,2
+Povl,Wide,Undirected,1
+Ellen,Wide,Undirected,3
+Frøken Wide,sér,Undirected,1
+Donna,Villars,Undirected,1
+Povl gjennem,Villars,Undirected,1
+Povl gjennem,Wide,Undirected,1
+Hr. Saltern,Madam Sørensen,Undirected,1
+Madam Sørensen,Villars,Undirected,1
+Jærnhaand,Villars,Undirected,1
+Clara,Gud,Undirected,1
+Frøken Saltern,Villars,Undirected,1
+Frøken Wide,Villars,Undirected,1
+Clara,Ellen,Undirected,10
+Fiedler,Povl,Undirected,7
+Edith,Svigerpapa,Undirected,1
+Clara,Svend,Undirected,1
+Giaras,Povl,Undirected,1
+Hr. Saltern,Povl,Undirected,1
+Christian,Ellen,Undirected,1
+Ellen,Fiedler,Undirected,3
+Christian Fiedler,Povl Saltern,Undirected,1
+Ellen Wide,Povl Saltern,Undirected,2
+Christian Fiedler,Ellen Wide,Undirected,2
+Ellen Wide,Villars,Undirected,2
+Assessor Wide,Karl,Undirected,1
+Villars,Wide,Undirected,1
+Ellen,Gud,Undirected,2
+Ellen,Villars,Undirected,5
+Ellen,Sofie,Undirected,1
+Villars,tom Droske,Undirected,1
+Clara,tom Droske,Undirected,1
+Ellen Wide,Sladrens,Undirected,1
+Villars,Villars Hasting,Undirected,1
+Pøvi Salterns,Villars Hasting,Undirected,1
+Emmy,Sofie,Undirected,1
+Emmy,Thora,Undirected,1
+Ellen,Frøken Saltern,Undirected,1
+Frøken Sal tern,Hasting,Undirected,1
+Olaf Saltern,tys,Undirected,1
+Gud,Povl,Undirected,1
+Ellen,Olaf,Undirected,1
+Gud,Stakkel,Undirected,1
+Clara,Povl skjælmsk,Undirected,1

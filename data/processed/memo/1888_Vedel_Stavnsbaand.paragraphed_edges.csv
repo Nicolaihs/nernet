@@ -1,0 +1,81 @@
+source,target,type,weight
+Henrik,Henriks,Undirected,1
+Bertha,Henrik,Undirected,14
+Henrik,Moer,Undirected,6
+Bertha,Moer,Undirected,4
+Esther,Moer,Undirected,1
+Bertha Kraft,Esther Thortsen,Undirected,1
+Bertha Kraft,Esther,Undirected,1
+Esther,Thortsen,Undirected,2
+Bertha,Esther,Undirected,18
+Frk. Esther,Henrik,Undirected,1
+Esther,Henrik,Undirected,73
+Esther Thortsen,Henrik,Undirected,1
+Esther,Philip,Undirected,1
+Henrik,haanes,Undirected,1
+Henrik,Rousseau,Undirected,2
+.Bertha,Linnedets,Undirected,1
+Henrik,Henrik afvexlende,Undirected,2
+Henrik,hans Albu,Undirected,1
+Esther,hans Albu,Undirected,1
+Henningsen,Henrik,Undirected,1
+Henrik,frank,Undirected,1
+.Thortsen,Esther,Undirected,1
+Bache,Bertha,Undirected,1
+Esther,sonore,Undirected,1
+Henrik,Keks,Undirected,1
+Henrik,von X.,Undirected,2
+Esther Caprifolieranker,Henrik,Undirected,1
+Henrik,hans,Undirected,1
+Esther,hans,Undirected,1
+Esther,Gud,Undirected,4
+Gud,lilli bul—le—ro,Undirected,1
+Gudi,Herre,Undirected,1
+Gudi,aahl,Undirected,1
+Elise Vernon,Mouriers,Undirected,1
+Karstensen,Mouriers,Undirected,1
+Karstensen,s,Undirected,1
+Figaros,Henrik,Undirected,1
+Don Juan,Figaros,Undirected,1
+Esther,Henrik Kraft,Undirected,1
+Abrahams,Henrik,Undirected,2
+Henrik,frede,Undirected,1
+Henrik Kraft,frede,Undirected,1
+Esther,lOtiden,Undirected,1
+Dampyacht,Kong Kristian,Undirected,1
+Henrik,Kong Kristian,Undirected,1
+Esther,Henrik Esther,Undirected,1
+Henrik Esther,tyst,Undirected,1
+Esther,tyst,Undirected,1
+Henrik,Pitt,Undirected,1
+Esther,Henrik —,Undirected,1
+Henrik,Henrik strax,Undirected,1
+Bork,Henrik,Undirected,1
+Bork,Moer,Undirected,1
+Henrik,Kuhlaus,Undirected,2
+Esther,Shelley,Undirected,1
+Goethe,Tasso —,Undirected,1
+Tasso —,Werthers,Undirected,1
+Henrik,douce,Undirected,2
+Esther,Napoleons,Undirected,1
+Napoleons,taalmodig,Undirected,1
+Ahl hviken,Lise,Undirected,1
+Knutsens,Nørregaards,Undirected,1
+Gud,Mariane,Undirected,1
+Wencke,pyti,Undirected,1
+Henrik,Wencke,Undirected,1
+Esther,klein,Undirected,2
+Aahl,Esther,Undirected,2
+Aahl,aahl,Undirected,1
+Esther,With,Undirected,1
+Esther,lille Bertha,Undirected,1
+Henrik,Svend,Undirected,2
+Moer,Svend,Undirected,1
+Esther,Hennings,Undirected,1
+Hennings,Otto,Undirected,1
+Svend,tom,Undirected,1
+Bo,Esther,Undirected,1
+Esther,Esther dér,Undirected,1
+Esther,gejle,Undirected,1
+Esther,Svend —,Undirected,2
+Esther,Svend,Undirected,1

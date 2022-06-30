@@ -1,0 +1,730 @@
+source,target,type,weight
+Rosenfeldt,Rosenhjelm,Undirected,1
+Baron Rosenfeldt,Carl,Undirected,1
+Eduard,ester,Undirected,1
+Carl,ester,Undirected,2
+Amalias,Amalies,Undirected,1
+Amalies,Louises,Undirected,1
+Amalie,Louises,Undirected,1
+Amalie,Carl,Undirected,113
+Carl,Roes,Undirected,1
+Eduard,Louise,Undirected,6
+Carl,Louise,Undirected,10
+Hain,Hank,Undirected,1
+Amalie,Hain,Undirected,1
+Carl,Eduard,Undirected,58
+Amalie,Eduard,Undirected,46
+Carl,Maria Tofana,Undirected,1
+Ednards,yun,Undirected,1
+Eduard,yun,Undirected,1
+Eduard,Gud,Undirected,4
+Gud,Louise,Undirected,1
+Louise,nn,Undirected,1
+Eduard,nn,Undirected,1
+Eduard,jø,Undirected,1
+Lonise,Louise,Undirected,1
+Louise,Sara,Undirected,1
+Komtessen,Sara,Undirected,1
+Taterdreng,Taterdrengen,Undirected,1
+Eduard,Tater,Undirected,2
+Jørgen,Tater,Undirected,1
+Carl,Moerbroder,Undirected,10
+Amalia,Amalie,Undirected,1
+Carl,kjære Moerbroder,Undirected,1
+Carl,Greve,Undirected,17
+Eduard,Grev Nordenstov,Undirected,1
+Amalie,Rosenhjelm,Undirected,1
+Carl,Rosenhjelm,Undirected,1
+Frederik,Louise,Undirected,2
+Carl,Greven,Undirected,7
+Ednard,Louise,Undirected,1
+Ednard,Ednard fløi,Undirected,1
+Amalie,Louise,Undirected,6
+Carl,Grev Ednard Rosenfelt,Undirected,1
+Baron Ghldenskjold,Ednard,Undirected,1
+Carl,Ednard,Undirected,3
+Baron Ghldenskjold,Eduard,Undirected,1
+Aland,Louise,Undirected,1
+Amalie,Carl Øie,Undirected,1
+Eduard,Lonise,Undirected,7
+Carl,Lonise,Undirected,1
+Lhngbusk,Sara,Undirected,1
+Sara,Tater,Undirected,1
+Taterqvinden,hnn,Undirected,1
+Sara,Taterqvinden,Undirected,1
+Comtessen,Sara,Undirected,1
+Ibis,Taterqvinde,Undirected,1
+Ibis,Salomons,Undirected,1
+Carl,Comtessen,Undirected,21
+Penne,Sara,Undirected,1
+Bachus,Eduard,Undirected,1
+Bachus,Venus,Undirected,5
+Amalie,Carl Rosenfelt,Undirected,4
+Amalie,Hnn,Undirected,2
+Carl,Gyldenskjold,Undirected,41
+Carl,Tacl,Undirected,1
+Louise,Marven,Undirected,1
+Carl,Moerbrodev,Undirected,1
+Gud,Moerbrodev,Undirected,1
+Gud,Moerbroder,Undirected,1
+Carl,def,Undirected,1
+Eduard,def,Undirected,1
+Amalie,tans,Undirected,2
+Carl,tans,Undirected,2
+Ieg,Nn,Undirected,1
+Comtesse Rosenfelt,Louise,Undirected,1
+hiin,hnn,Undirected,1
+Engels,hnn,Undirected,1
+Bachus,Podagra,Undirected,1
+Amalie,Greven,Undirected,16
+Greven,Sophaen,Undirected,1
+Eduard,Jørgen,Undirected,4
+Amalie,Greve,Undirected,9
+Rosenfelt,traadfe,Undirected,1
+Eduard,traadfe,Undirected,1
+Eduard,Lise,Undirected,1
+Bjørn,Eduard,Undirected,1
+Eduard,Rosenfelt,Undirected,13
+Dn,Louise,Undirected,1
+Amalie,lee,Undirected,2
+Carl,Jørgen kjørende,Undirected,1
+Comtessen,Taterkonen,Undirected,2
+Sara,Taterkonen,Undirected,1
+Sara,hnn,Undirected,1
+Comtessen,Lhnstraale saae,Undirected,1
+Comtessen,Steen,Undirected,1
+Carl,Taterkonen,Undirected,1
+Jørgen,Taterqvinden,Undirected,1
+Jens,Moer,Undirected,1
+Jens,Sara,Undirected,1
+Baron Gyldenskjolds,Grev Eduard,Undirected,1
+Grev Eduard,bendes,Undirected,1
+Louise,bendes,Undirected,1
+Comtessen,Eduard,Undirected,11
+Comtesse,Comtessen,Undirected,2
+Amalie,Comtesse,Undirected,7
+Eduard,Vilhelm Erobreren,Undirected,1
+Ghldenskjold,Louise,Undirected,2
+Ghldenskjold,Ieg,Undirected,2
+Carl,Comtesse Louise,Undirected,5
+Eduard,Ieg,Undirected,1
+Greven,Rosenfelt,Undirected,2
+Carl,Comtesse Amalie,Undirected,9
+Comtesse Amalie,Eduard,Undirected,5
+Comtesse Louise,Eduard,Undirected,5
+Comtesse Louise,Gyldenskjold,Undirected,4
+Baron Gyldenskjold,Comtesse Louise,Undirected,1
+Eduard,Pocal,Undirected,1
+Carl,Eleonore Nosenfell,Undirected,1
+Carls Pocal,Viggo,Undirected,1
+Eduard,Gyldenskjold,Undirected,14
+Gyldenskjold,Henrik,Undirected,2
+Henrik,sfal,Undirected,1
+Carl,sfal,Undirected,1
+Carl,høilys,Undirected,1
+Barønen,Henrik,Undirected,1
+Gud,Henrik,Undirected,4
+Gud,Tater,Undirected,1
+Eduard,Greve,Undirected,5
+Greven,Henrik,Undirected,10
+Ednard,Greven,Undirected,1
+Ednard,Ieg,Undirected,1
+Henrik,Hjalens,Undirected,1
+Henrik,herhid,Undirected,1
+Junker Carl Rosenfelt,Mikkel,Undirected,1
+Junker Carl Rosenfelt,Rosenfelt,Undirected,1
+Carl,Grev Eduard,Undirected,11
+Carl,Grev Carls,Undirected,1
+Carl,Ellen,Undirected,1
+Carl,Di,Undirected,1
+Ellen,Steen,Undirected,1
+Eduard,Ghldcnskjold,Undirected,2
+Eduard,Henrik,Undirected,23
+Greve,Henrik,Undirected,3
+Carl,Gyldensfjold,Undirected,3
+Comtessen,Ghldenskjold,Undirected,3
+Baron Gyldenskjold,Eduard,Undirected,2
+Baron Gyldenskjold,Henrik,Undirected,1
+Carl,Gud,Undirected,12
+Ghldenskjold,Henrik,Undirected,2
+Jørgen,ester,Undirected,1
+Carl,Jørgen,Undirected,13
+Ednard,Henrik,Undirected,3
+Henrik,Jørgen,Undirected,3
+Rosenfelt,hans Leie,Undirected,1
+Carl,hans Leie,Undirected,1
+Amalie,Taterdrcngen,Undirected,1
+Eduard,visfnok,Undirected,1
+Carl,froede,Undirected,1
+Carl,Gyldcnskjold,Undirected,2
+Carl,nn,Undirected,1
+Carl,froe,Undirected,1
+Carl,Ghldenskjold,Undirected,23
+Carl,Frelserens,Undirected,1
+Gyldenskjold,Te,Undirected,1
+Gyldenskjold,Louise,Undirected,3
+Carl,øg,Undirected,1
+Carl,Gyldenskjold Herregaarde,Undirected,1
+Gyldenskjold Herregaarde,Rosenfelt,Undirected,1
+Carl,Liljengreen,Undirected,13
+Bluhme,Liljengreen,Undirected,25
+Bluhme,tydste,Undirected,1
+Blnhme,Liljengreen,Undirected,5
+Baron Gyldenskjold,Carl,Undirected,5
+Carl,Dn,Undirected,2
+Amalie,hnn,Undirected,5
+Greven,hans høie,Undirected,1
+Grev Blnhme,Gyldenskjold,Undirected,1
+Carl Rosenfelt,Liljengreen,Undirected,3
+Carl,Ghldensfjold,Undirected,2
+Ghldensfjold,Greven,Undirected,1
+Christens,FortunaS,Undirected,1
+Amalie,Baron Liljengreen,Undirected,1
+Baron Liljengreen,Martre,Undirected,1
+Ghldenskjold,Martre,Undirected,1
+Liljengreen sor,Rosenfelt,Undirected,1
+Blnhme,Rosenfelt,Undirected,1
+Bluhme,Gyldenskjvld,Undirected,2
+Bachus,Liljengreen leende,Undirected,1
+Bachus,Carl,Undirected,1
+Baron Gyldenskjold,Grev Vluhme,Undirected,1
+Ghldenskjold,Greven,Undirected,1
+Bluhme,Carl Rosenfelt,Undirected,3
+Carl Rosenfelt,Ghldenskjold,Undirected,1
+Bluhmes Secundant,Carl,Undirected,1
+Bluhme,Gyldenskjold,Undirected,6
+Carl,Grev Bluhme,Undirected,2
+Bluhme,Gyldcnskjold,Undirected,1
+Bluhme,Carl,Undirected,14
+Grev Bluhme,Steen,Undirected,1
+Ghldenskjold,Gyldenskjold,Undirected,2
+Carl,Edvard,Undirected,2
+Bluhme,Ludvig den Fjortendes,Undirected,1
+Blnhme,Bluhme,Undirected,1
+Grev Blnhme,Liljengreen,Undirected,1
+Grev Nordenskjold,son,Undirected,1
+Carl,Grev Nordenskjold,Undirected,1
+Amalie,han fenere,Undirected,1
+Bluhme,ramnie,Undirected,1
+Gkjæbncn,Grev Blnhme,Undirected,1
+Blnhme,Grev Blnhme,Undirected,1
+Carl,Edvard ihænde,Undirected,1
+Amalie,Baron Gyldensfjolds,Undirected,1
+Amalie,Nordensfjold,Undirected,1
+Gyldensfjold,Nordensfjold,Undirected,1
+Eduard,Nordenfljold,Undirected,1
+Amalie,Grev Eduard,Undirected,6
+Eduard,Grev Eduard,Undirected,4
+Amalie,Moerbroder,Undirected,6
+Greve,Jørgen,Undirected,1
+Amalie,Jørgen,Undirected,5
+Moerbroder,hiint,Undirected,1
+Grev Eduard,hiint,Undirected,1
+Bluhme,Capitains,Undirected,1
+Eduard,Gyldensfjold,Undirected,2
+Amalie,Rosenfelt,Undirected,9
+Carl,Julie,Undirected,1
+Amalie,Carl Nosenfelt,Undirected,1
+Amalie,Gyldenskjold,Undirected,5
+Amalie,Grev Carls,Undirected,1
+Grev Carls,Gyldenskjold,Undirected,1
+Bachus,Ludvig,Undirected,1
+Grev Bluhme,Salomon,Undirected,1
+noir,rouxe,Undirected,1
+Gyldenfljold,Liljengreen,Undirected,1
+Carl,jø,Undirected,1
+Greven,Liljengreen,Undirected,1
+Grev Nosenfelt,Liljen green,Undirected,1
+Carl Rosenfell,Ghldenskjold,Undirected,2
+Carl,mcnneskekjærlige,Undirected,1
+Carl,Gyldenstjold,Undirected,1
+Amalie,Gyldenstjold,Undirected,1
+Amalie,Nordenskjold,Undirected,1
+Grev Eduard,Nordenskjold,Undirected,1
+Grev Bluhme,Liljengreen,Undirected,8
+Bluhme,Eduard,Undirected,4
+Gyldenskjold,Liljengreen,Undirected,2
+Gyldenskjold,Liljengrccn,Undirected,1
+Carl,strax,Undirected,2
+Nosenfell,Rosenfelt,Undirected,1
+Eduard,Grev Blnhme,Undirected,1
+Baron Liljengreen,Grev Blnhme,Undirected,1
+Carl,Dolk,Undirected,1
+Baron Liljengreen,Karl,Undirected,1
+Grev Bluhme,Greven,Undirected,1
+Carl,Grev Blnhme,Undirected,1
+Grev Blnhme,gjentøg,Undirected,1
+Ghldenskjold,gjentøg,Undirected,1
+Baron Liljengreen,Grev Bluhme,Undirected,6
+Blnhme,Gud,Undirected,1
+Asten,Baron Liljengreen,Undirected,1
+Asten,Bluhme,Undirected,1
+Carl froer,Ducater,Undirected,1
+Liljengreen,hnn,Undirected,1
+Grev Rosenfelt,Liljengreen,Undirected,2
+Grev Bluhme,as,Undirected,1
+Baron Liljengreen,Grev Rosenfelt,Undirected,1
+Liljengreen,fil,Undirected,1
+Peter,Vilhelm,Undirected,6
+Dn,Peter,Undirected,1
+Vilhelm,nn,Undirected,1
+Peter,nn,Undirected,1
+Karl,Peter,Undirected,2
+Peter,lee,Undirected,1
+Peter,hnn,Undirected,1
+Peter,Praas,Undirected,1
+Bluhme,Ghldenskjold,Undirected,1
+Ghldenskjold,Rosenfelt,Undirected,3
+Hnn,hnn,Undirected,2
+Hnn,ningsmand,Undirected,1
+Gud,yar,Undirected,1
+Grev Rosenfelt,tverfimod,Undirected,1
+Grev Bluhmcs,Hnn,Undirected,1
+Greven,Gud,Undirected,2
+Bluhme,Gyldenstjold,Undirected,1
+Ghldenskjold,Peter hævnede,Undirected,1
+Gyldensfjold,Rosenfell,Undirected,1
+CapitainSenkcnS,Rosenfell,Undirected,1
+Damocles,Rosenfell,Undirected,1
+Edvard Rosenfelt,Gyldenskjold,Undirected,1
+Edvard Rosenfelt,Tanshed,Undirected,1
+Jomfru Marie,Raphael,Undirected,1
+Corregio,Raphael,Undirected,1
+Eduard Rosenfelt,Maries,Undirected,1
+Comtesse Amalie,Eduard Rosenfelt,Undirected,1
+Amalie,Comtesse Amalie,Undirected,1
+Amalie,Comtessen,Undirected,4
+Eduard,Ghldenskjold,Undirected,5
+Marie,dring,Undirected,1
+Comtesse Amalie,Marie,Undirected,3
+Carl,hnn,Undirected,2
+Amalie,Marie,Undirected,5
+Baron Gyldenskjold,Comtesse Amalie,Undirected,1
+Eduard,Jomfru Marie,Undirected,1
+Gyldenskjold,Jomfru Marie,Undirected,1
+Comtessen,Gyldenskjold,Undirected,4
+Eduard,Marie,Undirected,5
+Ducater,froede,Undirected,1
+Marie,maaffe,Undirected,2
+Comtessen,Marie,Undirected,15
+Carl Rosenfelt,Marie,Undirected,1
+Hnn,Rosenfelt,Undirected,1
+Comtesse,ester,Undirected,1
+Grev Carls,Marie,Undirected,1
+Baron Gyldenskjold,Rosenfelt,Undirected,1
+Marie,hnn,Undirected,3
+Comtessen,hnn,Undirected,1
+Comtessen,Greven,Undirected,3
+Comtesse Amalie,Greven,Undirected,2
+Grev Carl,Gyldenskjold,Undirected,7
+Carl,Marie,Undirected,7
+Eduard Rosenfelt,Marie,Undirected,1
+Ghldcnskjold,hnn,Undirected,1
+Amalie,Grev Carl,Undirected,2
+Comtesse Amalie,Comtessen,Undirected,1
+Catholiks,eomigue,Undirected,1
+Catholiks,Grev Carl,Undirected,1
+Grev Carl,Priis,Undirected,1
+Amalie,Riis,Undirected,1
+Comtessen,Grev Carl,Undirected,5
+Gyldenfljold,Gyldenskjold,Undirected,1
+Carl,Gyldenfljold,Undirected,2
+Carl,Clausul,Undirected,1
+Carl,miu,Undirected,1
+Amalie,Edvard,Undirected,3
+Lonise,"Stamhnusbesiddcr,",Undirected,1
+Amalie,Ghldenskjold,Undirected,3
+Ghldenskjold,Lhkke,Undirected,1
+Amalie,SkjøgenS,Undirected,1
+Carl,Øe,Undirected,3
+Grev Rosenfells,Gyldenskjold,Undirected,1
+Amalie,Grev Rosenfells,Undirected,1
+Amalie,Carl sknldc,Undirected,1
+Ednard,Gyldensfjold,Undirected,1
+Carl,sknlde,Undirected,2
+Dn,Eduard,Undirected,1
+Gyldenskjold,hnn,Undirected,1
+Carl,Rosenfelt,Undirected,16
+Amalie slal,Rosenfelt,Undirected,1
+Christian den,Maitresse,Undirected,1
+Maitresse,Sophie Moth,Undirected,1
+Samsøe,Sophie Moth,Undirected,1
+Christen Skeel,Samsøe,Undirected,1
+Ednard as,Ghldenskjold,Undirected,1
+Ednard,Ghldenskjold,Undirected,2
+Grev Carls Ring,Gyldenskjold,Undirected,2
+Comtesse,Louise,Undirected,5
+Louise,kim,Undirected,1
+Amalie,kim,Undirected,1
+Amalie,Broger,Undirected,2
+Greve var,Rosenfelt,Undirected,1
+Amalie,hans Carl,Undirected,2
+Ghldenskjold,hnn,Undirected,1
+Comtessen,Grev Eduard,Undirected,4
+Capitain Belcour,Comtesse Amalie,Undirected,1
+Baron Gyldenskjold,Grev Eduard Rosenfelt,Undirected,1
+Josephine Belcour,Rosenfeltr,Undirected,1
+Eduard,Rosenfeltr,Undirected,1
+Amalie,Belanis,Undirected,1
+Amalie,Ieg,Undirected,2
+Eduard.,Ieg,Undirected,1
+Christus,Eduard,Undirected,1
+Amalie,Rosenfell,Undirected,1
+Belani,Carl,Undirected,1
+Belani,Ghldenskjold,Undirected,1
+Belani,Rosenfelt,Undirected,1
+Belani,iveien,Undirected,1
+Ednard,Rosenfelt,Undirected,1
+Amalie,Ednard,Undirected,6
+Carl øg,Peter,Undirected,1
+Carl,Grev Carl,Undirected,7
+Greven,Gyldenskjold,Undirected,6
+Carl,Ghldenfljold,Undirected,3
+Capitain,Rosenfelt,Undirected,1
+Carl,Gyldcnfljold,Undirected,1
+Amalie,froe,Undirected,1
+Ghldenskjold,froe,Undirected,1
+Eduard,Gyldenstjold,Undirected,1
+Greven,hnn,Undirected,1
+Amalie,Rosenselt,Undirected,3
+DonancnS,Sobieskys,Undirected,1
+Bluhme,Gyldenfljold,Undirected,1
+Grev Eduard,Liljengreen,Undirected,2
+Bluhme,Grev Eduard,Undirected,1
+Bluhme,Nosenfelt,Undirected,1
+Rosenselt,Venus,Undirected,1
+Bachus,Rosenfelt,Undirected,1
+Liljengreen,Venus,Undirected,1
+Gyldenskjold,Riim,Undirected,1
+Amalie,Garrick,Undirected,1
+Eduard,Garrick,Undirected,1
+Biuhme,Liljengreen,Undirected,1
+Eduard Rosenfelt,visfnok,Undirected,1
+Rosensell,visfnok,Undirected,1
+Karles,Rosensell,Undirected,1
+Ebbe,Ghldenstjold,Undirected,1
+Amalie,seil,Undirected,1
+Eduard Rosenfelt,Ghldenskjold,Undirected,2
+Carl,lin,Undirected,1
+Ednard strax,Gyldenskjold,Undirected,1
+Amalie,Ednard strax,Undirected,1
+Amalie,Ghldensijold,Undirected,1
+Amalie,Moerbrøder,Undirected,1
+Amalie,Sobiesky,Undirected,1
+Carl Rosenfelt,Valen,Undirected,1
+Amalie,Valen,Undirected,1
+Amalie,Kjære Moerbrodcr,Undirected,1
+Greve,Ieg,Undirected,1
+Carl,Ieg,Undirected,2
+Amalie,sorebhgge,Undirected,1
+Carl,Sif,Undirected,1
+Carl,erholde,Undirected,1
+Grev Eduard,Rosenfelt,Undirected,1
+Comtesse Louise,Greve,Undirected,1
+Comtesse,Eduard,Undirected,1
+Advocat,Elsfovsfjas,Undirected,1
+Marie,Rosenfelt,Undirected,1
+Allid,Carl,Undirected,1
+Carl,Hesfen,Undirected,1
+Bcnder,Christenhcdens,Undirected,1
+Christenhcdens,Spahis,Undirected,1
+Eduard,rinde,Undirected,1
+Christus,Lazarus,Undirected,1
+Carl,grant,Undirected,1
+Amalie,sin Moerbroders,Undirected,1
+Amalie,Comtesse Lonise,Undirected,1
+Amalie,Comtesse Louise,Undirected,2
+Henrik,ane,Undirected,2
+Carl,Henrik,Undirected,6
+Amalie,Støi,Undirected,1
+Henrik,Støi,Undirected,1
+Eduard,Priis,Undirected,1
+Henrik,paany,Undirected,1
+Henrik,Jonas,Undirected,2
+Eduard Roseufell,Henrik,Undirected,2
+Amalie,Lonise,Undirected,1
+Eduard,Eduard Rosenfelt,Undirected,2
+Amalie,Dn,Undirected,1
+Bettelsiaven,Eduard,Undirected,1
+Grev Eduard,Ieg,Undirected,1
+Grev Eduard,Marie,Undirected,8
+Capitainsenkcn,Carl,Undirected,1
+Marie,hiin,Undirected,1
+Greven,Marie,Undirected,1
+Dn,Karl,Undirected,1
+Chalnppen,Charles,Undirected,1
+Lieutenant de LatonnKre,Vilhelm,Undirected,1
+' Arlincourt,Capifain D,Undirected,1
+Fregatten,Vilhelm,Undirected,1
+Capitainens,Vilhelm,Undirected,1
+Karl,Vilhelm,Undirected,2
+Ieg,Liljengreen,Undirected,1
+Karl,Liljengreen,Undirected,1
+Vilhelm,øg,Undirected,1
+Liljengreen,Vilhelm,Undirected,3
+Grev Bluhme,Vilhelm,Undirected,4
+Greven,Kaarde,Undirected,1
+Carl,Kaarde,Undirected,2
+Carl Rosenfelt,ester,Undirected,1
+Greven,Lieutenanten,Undirected,2
+forlode,øg Vilhelm,Undirected,1
+Belcour,Liljengreen,Undirected,1
+Amalie,Vilhelm,Undirected,1
+Greven,Vilhelm,Undirected,4
+Carl Rosenfelt,Vilhelm Morton,Undirected,1
+Carl Rosenfelt,Gyldenfljold,Undirected,1
+Carl Rosenfelt,Rosenfelt,Undirected,2
+Eduard,gjerne,Undirected,1
+Gyldenskjold,gjerne,Undirected,1
+Grev Eduard,sknlde,Undirected,1
+Rosenfelt,sknlde,Undirected,1
+Gyldenskjold,Rosenfelt,Undirected,4
+Blnhme,Eduard,Undirected,1
+Eduard,Liljengreen,Undirected,3
+Grev Bluhme,Gyldenskjold,Undirected,1
+Ghldenskjold,Jørgen,Undirected,2
+Eva,Gyldenskjold,Undirected,2
+Bluhme,Eva,Undirected,1
+Bachus,Liljengreen,Undirected,1
+Bluhme,Rosenfelt,Undirected,1
+Bluhme,Liljengreen angik,Undirected,1
+Liljengreen angik,Rosenfelt,Undirected,1
+Gyldenskjold,Rostnfelt,Undirected,1
+Bluhme,Gud,Undirected,1
+Eduard,Gyldenfljold,Undirected,4
+Comtesse Louise,Liljengreen,Undirected,1
+Gud,Liljengreen,Undirected,1
+Eduard,GYldenfljold,Undirected,1
+Grev Eduard,Gyldenskjold,Undirected,3
+Ghldenskjold,Marie,Undirected,1
+Comtesse Amalie,Rosenfelt,Undirected,3
+Brysf,Comtesse Amalie,Undirected,1
+Grev Eduard,Greven,Undirected,1
+Comtesse Amalie,Grev Carl,Undirected,2
+Christus,Grev Carl,Undirected,1
+Ieg,Marie,Undirected,1
+Ednard,Gud,Undirected,1
+Henrik,Seir,Undirected,1
+Eduard Rosenfelt,Henrik,Undirected,1
+Comtessen,Henrik,Undirected,4
+Amalie,Gud,Undirected,4
+Grev Eduard,Hr. Greve,Undirected,1
+Amalie,Henrik,Undirected,3
+Henrik,lee,Undirected,1
+Comtessen,Dolken,Undirected,1
+Amalie,spodsk,Undirected,1
+Carl Rosenfelt,Vilhelm,Undirected,1
+Ghldenskjold,Henrik den Fjerdes,Undirected,1
+Caffehnset,Carl,Undirected,1
+Caffehnset,Carl Rosenfelt,Undirected,1
+Greve,Vilhelm,Undirected,1
+Ieg,Vilhelm,Undirected,3
+Henrik den Fjerdes,Ieg,Undirected,1
+Bluhme,Henrik den Fjerdes,Undirected,1
+Carl,Peter,Undirected,2
+Bluhme,Vilhelm,Undirected,1
+Liljengreen,Peter,Undirected,2
+Carl,Carl Rosenfelt,Undirected,2
+Bluhme,Grev Rosenfelt,Undirected,1
+Ghldenfljold,katholfl,Undirected,1
+Bluhme,øg,Undirected,1
+Carl øg Vilhelm,øg,Undirected,1
+Bluhme,Carl øg Vilhelm,Undirected,1
+Carl Mosenfelt,Vilhelm,Undirected,1
+Greven,Ørengen,Undirected,1
+Bluhme,Judas Ischariot,Undirected,1
+Eva,Liljengreen,Undirected,1
+Baron Liljengreen,Ghldenskjold,Undirected,1
+Baron Ghldenskjold,Grev Bluhme,Undirected,1
+Bluhme,Liljengreen ville,Undirected,1
+Carl,Vilhelm,Undirected,1
+Vilhelm,ane,Undirected,1
+Ghldenskjold,Peter,Undirected,1
+Gud,Vilhelm,Undirected,1
+Bluhme,Eduard Rosenfelt,Undirected,1
+Eduard Rosenfelt,Ghldensfjold,Undirected,1
+Grev Eduard,Gyldenfljold,Undirected,1
+Liljengreen,Rosenfelt,Undirected,1
+Grev -Eduard,Liljengreen,Undirected,1
+Baron Gyldenskjold,Grev -Eduard,Undirected,1
+Baronen,oz,Undirected,1
+Amalie,Gyldenfljold,Undirected,1
+Amalie,ester,Undirected,2
+Jørgen,Rosenfelt,Undirected,4
+Eder,Jørgen,Undirected,1
+Rabuntus,Rosenfelt,Undirected,1
+Comtesse Amalie,Jørgen,Undirected,2
+Greven,Jørgen,Undirected,8
+Greven,Rosenfell,Undirected,1
+Gud,Rosenfell,Undirected,1
+Gud,Rosenfelt,Undirected,1
+Henrik,Rosenfelt,Undirected,2
+Jørgen,Peter,Undirected,5
+Christen,Frederik den,Undirected,1
+Frederik den,Peder Oxe,Undirected,1
+Peder Oxe,ester,Undirected,2
+Tater,Tys,Undirected,1
+Greven,Peter,Undirected,2
+Jørgen,Rosenfell,Undirected,1
+Greven,Tateren,Undirected,2
+Jørgen,Tateren,Undirected,1
+Ester,Jørgen,Undirected,1
+Hr. Greve,Karl,Undirected,1
+Ghldenskjold,Grev Eduard,Undirected,2
+Gyldenskjold,WM,Undirected,1
+Greven,Karl,Undirected,3
+Jørgen,Øe,Undirected,2
+Eduard,Øe,Undirected,1
+Hr. Greve,Jørgen,Undirected,1
+Grev Carl,inat,Undirected,1
+Baron Ghldenskjold,Baron Gyldenskjold,Undirected,1
+Grev Eduard,Henrik,Undirected,1
+Daniel,Jonas,Undirected,1
+Gyldenfljold,Henrik,Undirected,1
+Henrik,Jesus,Undirected,1
+Ghldensfjold,Rosenfelt,Undirected,1
+Greve,Greven,Undirected,1
+Carl Rosenfelt,Henrik,Undirected,1
+Eduard,Greven,Undirected,1
+Ghldenfljold,Greven,Undirected,1
+Amalie,as,Undirected,1
+Greve fog,Henrik,Undirected,1
+Henrik,sorbarm,Undirected,1
+Henrik,Jesns,Undirected,1
+Henrik,maasfe,Undirected,1
+Eduard,Kaarde,Undirected,1
+Comtesse Lonise,Kjærdahl,Undirected,1
+Peter,Rosenfelt,Undirected,1
+Jokai,Peter,Undirected,2
+Jokaidragt,Peter,Undirected,1
+Jørgen,Sara,Undirected,1
+Comtessen,Hr. Greve,Undirected,1
+Comtessen,lee,Undirected,2
+Henrik,Tateren,Undirected,1
+Greven,ester,Undirected,1
+Godseier Kjærdahl,Jørgen,Undirected,1
+Jørgen,Kjærdahl,Undirected,1
+Carl Rosenfelt,Greven,Undirected,1
+Jørgen,Ole,Undirected,6
+Hr. Greve,Ieg,Undirected,1
+Amalie,Baron Kjærdahl,Undirected,1
+Jørgen,Lesteg,Undirected,1
+Jokask,Lesteg,Undirected,1
+Eduard Nosenfelt,Ghldenskjold,Undirected,1
+Baron Kjærdahl,fale,Undirected,1
+Carl,Kjærdahl,Undirected,2
+Eduard,Kjærdahl,Undirected,3
+Kjærdahl,Rosenfelt,Undirected,1
+Comtesse Amalie Rosenfelts,Eduard,Undirected,1
+Eduard,paany,Undirected,2
+Carl,Eduard after,Undirected,2
+Baron Kjærdahl,Carl,Undirected,10
+Baron Kjærdahl,Jørgen,Undirected,1
+Jokai,Kjærdahl,Undirected,1
+Carl,Jokai,Undirected,5
+Baron Kjærdahl,Jokai,Undirected,1
+.,Carl,Undirected,1
+Barons Jokask,Greven,Undirected,1
+Jokaien,sfak,Undirected,1
+Greven,nn,Undirected,1
+Baron Kjærdahls Jokai,Peter,Undirected,1
+Baron Kjærdahls Jokai,lee,Undirected,1
+lee,tys,Undirected,1
+Peter,tys,Undirected,1
+Egern,Jokai,Undirected,1
+Grev Eduard,Iokaien,Undirected,1
+Gud,Jokaien,Undirected,1
+Halfen,Jakob,Undirected,1
+Greven,Jakob,Undirected,1
+Hans,Jakob,Undirected,1
+Hans,Jokaien,Undirected,1
+Jokaien,Jørgen,Undirected,1
+Eduard Comtesse,Iokaien,Undirected,1
+Amalie,Jokaien,Undirected,2
+Comtessen,Frhderaab,Undirected,1
+Carl,Comtesse,Undirected,1
+Comtessen,Marsch,Undirected,1
+Hr. Greve,Jokaien,Undirected,1
+Comtesse Amalie,Jokaien,Undirected,1
+Iokaien,Jørgen,Undirected,1
+Gnd,Iokaien,Undirected,1
+Comtesse Lonise,Gyldenskjold,Undirected,1
+Carl Rosenfelt,Comtessen,Undirected,1
+Carl efter,Comtessen,Undirected,1
+Baron Kjærdahl,Gyldenskjold,Undirected,3
+Comtessen,Kjærdahl,Undirected,2
+Ghldenskjold,Kjærdahl,Undirected,2
+Ghldenskjold,Grev Carl,Undirected,2
+Grev Eduard,Gud,Undirected,1
+hnn,skjelmsk,Undirected,1
+Baron Ghldenskjold,Heden,Undirected,1
+Baron Ghldenskjold,Comtessen,Undirected,1
+Gyldenskjold,Kjærdahl,Undirected,2
+Comtessen,Nyttersfe,Undirected,1
+Greven,Nyttersfe,Undirected,1
+Jokai,Rosenfelt,Undirected,1
+Greven,fil,Undirected,1
+Ghldenstjold,Jokaien,Undirected,1
+Ghldenstjold,Greven,Undirected,1
+Greven,kai,Undirected,1
+Carl,Christus,Undirected,1
+Grev Carl,ivovc,Undirected,1
+Baron Gyldenskjold,Baron Kjærdahl,Undirected,1
+Comtesse,Gyldenskjold,Undirected,1
+Gyldenskjold,Marie,Undirected,1
+Gyldenskjold,Øe,Undirected,1
+Gud,sagve Comtessen,Undirected,1
+Comtesse Amalie,Ghldenskjold,Undirected,1
+Ghldenskjold,Jokai,Undirected,1
+Alf,Jokai,Undirected,1
+Alf,Ghldenskjold,Undirected,1
+Comtesse Lonise,Ghldenskjold,Undirected,2
+Carl,Comtesse Lonise,Undirected,1
+Baronesse Kjærdahl,Komtessen,Undirected,1
+Baron Kjærdahl,Kjærdahl,Undirected,1
+Baron Kjærdahl,Ghldenskjøld,Undirected,1
+Kjærdahl,paany,Undirected,1
+Comtessen,paany,Undirected,1
+Carl blonde,Ieg,Undirected,1
+Carl,Carl blonde,Undirected,1
+Amalie,Eduard sfal,Undirected,1
+Grev Carl,sif,Undirected,1
+Baronesse Kjærdahl,Louise,Undirected,1
+Comtesse Louise,Gyldensfjold,Undirected,1
+Amalie,Gyldensfjold,Undirected,1
+Comtessen,Gyldensfjold,Undirected,1
+Comtesse Louise,Grev Eduard,Undirected,1
+Ghldenskjold,Grev -Eduard,Undirected,1
+Baron Kjærdahl,Greven,Undirected,1
+Gud,Jørgen,Undirected,2
+Gud,Peter,Undirected,1
+Greven,Jokaien,Undirected,1
+Christi Himmelfarf,Greven,Undirected,1
+Baron Kjærdahl,Comtesse Lonise,Undirected,1
+Baron Kjærdahl,Rosenfelt,Undirected,1
+Eduard,Grev Carl,Undirected,1
+Grev Carl,Kjærdahl,Undirected,1
+Baron Kjærdahl,Comtessen,Undirected,1
+Baron Kjærdahl,Eduard,Undirected,1
+Henrik,Lonise,Undirected,1
+Greven,Lonise,Undirected,1
+Frantz,Kjærdahl,Undirected,1
+Carl øg Peter,Jørgen,Undirected,2
+Carl,Jokaien,Undirected,1
+Jokaien,Karl,Undirected,1
+Ednard,Jørgen,Undirected,1
+Comtesse Amalie,Rosensclt,Undirected,1
+Comtessen,Rosensclt,Undirected,1
+Eduard,Pisfol,Undirected,4
+Eduard,trinmphere,Undirected,1
+Greve,Gud,Undirected,1
+Carl,hans Amalie,Undirected,2
+Comtesse Amalie,Gud,Undirected,1
+Carl og,Hnn,Undirected,1
+Carl og,Comtesse,Undirected,1
+Grev Eduard,Jørgen,Undirected,1
+Jacob,Jørgen,Undirected,1
+Henrik,Jacob,Undirected,1
+Capitain,Vilhelm Fripons,Undirected,1
+Peter,Vilhelm Fripons,Undirected,1
+Amalie,Peter,Undirected,1

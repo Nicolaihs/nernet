@@ -1,0 +1,1081 @@
+source,target,type,weight
+Fredrik,Jespersen,Undirected,133
+Fredrik,hnn,Undirected,26
+Fredrik,Zakarias,Undirected,1
+Hanne,Julie,Undirected,16
+Peter,Thee,Undirected,2
+Fredrik,Md. Jespersen,Undirected,14
+Clausen,Fredrik,Undirected,7
+Clausen,Jespersen,Undirected,1
+Iulie,Jespersen,Undirected,11
+Fredrik,Iulie Bækløv,Undirected,1
+Cæsar,Fredrik,Undirected,2
+Fredrik,Julie,Undirected,301
+Fredrik,Stade,Undirected,2
+Jespersen,Stade,Undirected,2
+Jespersen,Md. Jespersen,Undirected,11
+Jespersen,Julie,Undirected,53
+Julie,Md. Jespersen,Undirected,25
+Md. Jespersen,Naa,Undirected,1
+Fredrik,Gud,Undirected,12
+Fredrik,Madammen,Undirected,6
+Jespersen,Madammen,Undirected,1
+Jomfru Bækløv,Julie,Undirected,3
+Adam,Fredrik,Undirected,1
+Adam,Jespersen,Undirected,1
+Jomfru Bækløv,Md. Jespersen,Undirected,5
+Jomfru Bækløv,Jomfru Clausen,Undirected,1
+Jomfru Bue,Jomfru Clausen,Undirected,1
+Jomfru Bue,Jomfru Bækløv,Undirected,1
+,Md. Jespersen,Undirected,1
+,Fredrik,Undirected,1
+Jespersen,atStade,Undirected,1
+Julie,atStade,Undirected,1
+Peter,Stade,Undirected,1
+Amor,Julie,Undirected,1
+Amor,Fredrik,Undirected,1
+Fredrik,Karlen,Undirected,4
+Fredrik,Jomfru Bækløv,Undirected,6
+Jespersen,Jomfru Bækløv,Undirected,2
+Fredrik,Hnn,Undirected,5
+Jespersen,Johan,Undirected,6
+Johan,Nissens,Undirected,1
+Jomfru Clausen,Karlen,Undirected,1
+Fredrik,Helle«,Undirected,1
+Md. Jespersen,bjerggaard,Undirected,1
+Jomfru Bæklev,Md. Jespersen,Undirected,1
+Johan,Krogsgaard,Undirected,1
+Johan,Thee,Undirected,1
+Julie,Thee Krogsgaard,Undirected,2
+Fredrik,Thee Krogsgaard,Undirected,1
+Julie,Thee,Undirected,22
+Julie,Md. Krogsgaard,Undirected,6
+Krogsgaard,Md. Krogsgaard,Undirected,2
+Krogsgaard,Md. Jespersen,Undirected,1
+Md. Jespersen,Thee,Undirected,2
+Jespersen,Thee,Undirected,6
+Hanne,Jespersen,Undirected,10
+Hanne,Thee,Undirected,4
+Clansen,Thee,Undirected,1
+Jomfru Bæklsv,Jomfru Krogsgaard,Undirected,1
+Fredrik,Thee,Undirected,11
+Md. Jespersen,Nissens,Undirected,1
+Fredrik,Nissen,Undirected,1
+Bækløv,Nissen,Undirected,1
+Bækløv,Jespersen,Undirected,4
+Fredrik,Iulie,Undirected,11
+Bækløv,Iulie,Undirected,3
+Iulie,Md. Hannes,Undirected,1
+Fredrik,Md. Hannes,Undirected,1
+Julie,fit,Undirected,2
+Fredrik,Lars,Undirected,4
+Carl,Fredrik,Undirected,247
+Fredrik,spurgdc,Undirected,1
+Bækløv,Fredrik,Undirected,17
+Carl,Julie,Undirected,45
+Carl,Clausen,Undirected,2
+Bæklov,Jespersen,Undirected,2
+Md. Bækløv,Md. Jespersen,Undirected,3
+Carl,Md. Bækløv,Undirected,6
+Carl,spnrgde,Undirected,1
+"Naa,",spnrgde,Undirected,1
+Md. Bækløv,hnn,Undirected,9
+Jespersen,hnn,Undirected,4
+Jespersen,Wachmann,Undirected,4
+Carl,Wachmann,Undirected,13
+Carl,Jespersen,Undirected,42
+Jedpersens,Jespersen,Undirected,1
+Julie,heikde,Undirected,1
+Gud,heikde,Undirected,1
+Bækløv,Gud,Undirected,2
+Bækløv,Md. Bækløv,Undirected,8
+Julie,Md. Bækløv,Undirected,58
+Carl,Md. Jespersen,Undirected,10
+Carl,Hanne,Undirected,1
+Clausen,Lilsøgaard,Undirected,2
+Lilsøgaard,nn,Undirected,1
+Fredrik,nn,Undirected,7
+Julie,Wachmann,Undirected,8
+Hanne,Wachmann,Undirected,2
+Julie,Øe,Undirected,1
+Hr. Wachmann,Øe,Undirected,2
+Md. Jespersen,Nid.,Undirected,1
+JespersenS,Nid.,Undirected,1
+Carl,JespersenS,Undirected,1
+Julie,Md.,Undirected,4
+Jespersen,Md.,Undirected,1
+Iespersen,Julie,Undirected,1
+Iespersen,Md. Iespersen,Undirected,1
+Carl,Md. Iespersen,Undirected,1
+Carl,Lilsøgaard,Undirected,8
+Fredrik,ban,Undirected,1
+Julie,ban,Undirected,1
+Hanne,Md. Jespersen,Undirected,1
+Fredrik Julie Tømmen,Jespersen,Undirected,1
+Fredrik,Fredrik Julie Tømmen,Undirected,1
+Fredrik,Md. Bækløv,Undirected,37
+Earl,Fredrik,Undirected,3
+Fredrik,Jalusie,Undirected,2
+Carl,Jnlie,Undirected,7
+Jespersen,Jnlie,Undirected,2
+Jespersen,Præsfens,Undirected,1
+Fredrik,Præsfens,Undirected,1
+Jespersen,Nid,Undirected,2
+Jnlie,Jomfru Bækløv,Undirected,1
+Hnn,Margrethe,Undirected,3
+Gud,Margrethe,Undirected,1
+Gud,Julie,Undirected,10
+Julie,Margrethe,Undirected,34
+Nissen,Trine Nissen,Undirected,1
+Hanne Md. Jespersen,Trine,Undirected,1
+Amalie,Julie,Undirected,6
+,Julie,Undirected,1
+Jomfru Bækløv,Wachmann,Undirected,1
+Frederik,Julie,Undirected,1
+Julie,Md. jespersen,Undirected,1
+Fredrik,Md. jespersen,Undirected,1
+Fredrik,kjære Julie,Undirected,2
+Asten,Julie,Undirected,1
+Gud,Wachmann,Undirected,2
+Julie,Peter,Undirected,2
+Frederik,Lilsøgaard,Undirected,1
+Carl,Frederik,Undirected,1
+Bækløv,Carl,Undirected,1
+Bækløv,Julie,Undirected,22
+Carl,Carl Lilsøyaard,Undirected,2
+Fredrik,Moloch,Undirected,1
+Blau,Julie,Undirected,1
+Blau,Jespersen,Undirected,1
+Carl Betragtninger,Julie,Undirected,1
+Carl mende,Fredrik,Undirected,2
+Carl,Nissen,Undirected,1
+Julie,Nissen,Undirected,2
+Fredrik,Margrethe,Undirected,7
+Margrethe,Trine Nissen,Undirected,1
+Julie,Trine Nissen,Undirected,1
+Hr. Wachmann,Md. Jespersen,Undirected,1
+Hr. Wachmann,Julie,Undirected,2
+Clausen,Rudolf,Undirected,1
+Fredrik,Rudolf Krogsgaard,Undirected,6
+Carl,Rudolf Krogsgaard,Undirected,2
+Carl,Thee Krogsgaard,Undirected,2
+Jespersen,Jomfru Julie,Undirected,1
+Hr. Jespersen,Julie,Undirected,2
+Jomfru Julie,Thee,Undirected,1
+Thee,hnn,Undirected,1
+Thee,Wachmann,Undirected,1
+Jnlie,hans,Undirected,1
+Jespersen,hans,Undirected,1
+Jnlie,Md. Jespersen,Undirected,3
+Fredrik,Molle,Undirected,1
+Mol,Molle,Undirected,1
+Mester,Thee Krogsgaard,Undirected,1
+Jnlie,Thee Krogsgaard,Undirected,1
+Fredrik,Jnlie,Undirected,12
+Jnlie,Thee,Undirected,1
+Carl,Thee,Undirected,2
+Fredrik,Hanne,Undirected,3
+Julie,kjølnes,Undirected,1
+Carl,kjølnes,Undirected,1
+Jomfru Bækløv,Thee,Undirected,2
+Fredrik,Krisis,Undirected,1
+Krisis,Thee,Undirected,1
+Anders Jensen,Bækløv,Undirected,1
+Anders Jensen,Husfreds,Undirected,1
+Husfreds,Pasfor Bækløv,Undirected,1
+Bækløv,Pasfor Bækløv,Undirected,1
+Bone,Bækløv,Undirected,8
+Bone,Jomfru Bone,Undirected,2
+Bone,BæUsv,Undirected,1
+Jomfru Bone,Md. Jansen,Undirected,6
+Bone,Md. Jansen,Undirected,2
+Bone,Gud,Undirected,1
+Jansen,Md. Jansen,Undirected,3
+Bæklov,Jomfru Bone,Undirected,1
+Bæklov,fsrsts,Undirected,1
+Jansen,fsrsts,Undirected,1
+Bone,Md. Bækløv,Undirected,2
+Md. Bækløv,Præsfen,Undirected,3
+Graad,Md. Jansen,Undirected,1
+Præsfen,ask,Undirected,1
+Jens,Præsfen,Undirected,2
+Jens,Plaisers,Undirected,1
+Husbond,Jens,Undirected,1
+Gud,Jens,Undirected,1
+Jens,Madam,Undirected,1
+Jens,Md. Bækløv,Undirected,2
+Christen —,Jens,Undirected,1
+Christen,Christen —,Undirected,1
+Christen,Jens,Undirected,1
+Husfreds,Md. Bækløv,Undirected,1
+Husfreds,Madammen,Undirected,1
+Jeppe,Madammen,Undirected,1
+Margrethe,Md. Bækløv,Undirected,4
+Carl,Stade,Undirected,6
+Pilmand,Stade,Undirected,1
+Julie,Pilmand,Undirected,2
+Pilmand,Wachmann,Undirected,3
+Lilsøgaard,Wachmann,Undirected,1
+Lilsøgaard,Md. Bæklsvs,Undirected,1
+Julie,Md. Bæklsvs,Undirected,1
+Md. Bækløv,Mejerske,Undirected,1
+Julie,Mejerske,Undirected,1
+Julie,voxen,Undirected,1
+Md. Bækløv,voxen,Undirected,1
+Md. Bækløv,Stade,Undirected,2
+Stade,Wachmann,Undirected,7
+Julius,Vækløv,Undirected,1
+Carl,Julius,Undirected,1
+Jnlie,Md. Bækløv,Undirected,4
+Julie,kjæreft,Undirected,1
+Iulie,Md. Bækløv,Undirected,3
+Iulie,Jnlie,Undirected,1
+Jnlie,Jomfru Jnlie,Undirected,1
+Gud,Hr. Wachmann,Undirected,1
+Bækløv,X,Undirected,1
+Julie,X,Undirected,2
+Iulie,Julie,Undirected,6
+Carl,Iulie,Undirected,3
+Iulie,Md. Bæklsvs,Undirected,1
+Fredrik,Md. Bæklsv,Undirected,1
+Md. Bæklsv,Md. Bækløv,Undirected,1
+Jespersen,Md. Krogsgaard,Undirected,4
+Md. Bækløv,Md. Krogsgaard,Undirected,5
+Hanne,Peter,Undirected,1
+Jomfru Bæsklov,Julie,Undirected,1
+Bækløv,Hr. Jespersen,Undirected,1
+Jespersen,L,Undirected,2
+L,Thee,Undirected,1
+Ester,Fredrik,Undirected,3
+Muhamed,Pilmand,Undirected,1
+Rudolf,Thema,Undirected,1
+Dn,Hanne,Undirected,1
+Julie Bæklsv,Thee,Undirected,1
+Rudolf,Thee,Undirected,2
+Claussens,Jespersen,Undirected,1
+Claussens,Fredrik,Undirected,1
+-k,Fredrik,Undirected,1
+Fredrik,Krogsgaard,Undirected,16
+Krogsgaard,ander Strange,Undirected,1
+Md. Krogsgaard,ander Strange,Undirected,1
+Md. Krogsgaard,Thee,Undirected,1
+Hr. Stade,Julie,Undirected,1
+Md.,Thee,Undirected,1
+Hanne,Md.,Undirected,1
+Julie,Krogsgaard,Undirected,5
+Krogsgaard,flulde kjøre Jespersens,Undirected,1
+Julie,flulde kjøre Jespersens,Undirected,1
+Krogsgaard,Thee,Undirected,1
+Jespersen,Krogsgaard,Undirected,6
+Krogsgaard,Thee kjørde,Undirected,1
+Fredrik,Thee kjørde,Undirected,1
+Julie,thnn,Undirected,1
+athan,thnn,Undirected,1
+Hanne,athan,Undirected,1
+Jesperrsen,Julie,Undirected,1
+Jespersen,Julie Bæskløv,Undirected,1
+Fredrik —,Julie,Undirected,1
+. Krogsgaard,Thee,Undirected,1
+. Krogsgaard,Julie,Undirected,1
+Julie,hnn,Undirected,47
+Krogsgaard,Madeira,Undirected,1
+Fredrik,Madeira,Undirected,1
+Jesperscns,Julie,Undirected,2
+Iulie,Wachmann,Undirected,1
+Graad,Iulie,Undirected,1
+Iulie,Thee,Undirected,2
+Iulie,Nissen,Undirected,1
+Fredrik,Md. Bcrklov,Undirected,1
+Bækløv,Md.,Undirected,1
+Bækløv rnaatte,Fredrik,Undirected,1
+Julie,Karl,Undirected,1
+Højcrsløv,Karl,Undirected,1
+Jansen,Rudolf Krogsgaard,Undirected,1
+Fredrik,ask,Undirected,5
+Carl,bode,Undirected,2
+Dn,Jomfru Clausen,Undirected,1
+Carl,Clansen,Undirected,5
+Fredrik,Wachmann,Undirected,18
+Fredrik,Lilssgaard,Undirected,1
+Carl,Lilssgaard,Undirected,1
+Fredrik,Johnsen,Undirected,3
+Fredrik,Lotte,Undirected,2
+Fredrik,Ludvig,Undirected,4
+Johnsen,Lotte,Undirected,3
+Julie,ester,Undirected,4
+Julie,Lovi,Undirected,1
+Johnsen,Ludvig,Undirected,1
+Fredrik,Steen,Undirected,15
+Julie,Steen,Undirected,2
+Gud,Mama,Undirected,1
+Frednk,Julie,Undirected,1
+Lotte,Md. Stade,Undirected,1
+Lotte,ask,Undirected,1
+Ludvig,ask,Undirected,2
+Fredrik,paaJohnsens,Undirected,1
+Fredrik,Md. Wachmann,Undirected,8
+Carl,Md. Wachmann,Undirected,3
+Carl,Susanne,Undirected,1
+Susanne,hnn,Undirected,1
+Anne,hnn,Undirected,1
+Anne,Wachmann,Undirected,1
+Anne,Fredrik,Undirected,1
+Fredrik kjørde,Steen,Undirected,1
+Carl,Fredrik kjørde,Undirected,3
+Fredrik,Pilmand,Undirected,3
+Hins,Md. Bækløv,Undirected,1
+Bækløv,Hins,Undirected,1
+Bækløv,Pilmand,Undirected,1
+Gud,Md. Bækløv,Undirected,2
+Jansen,Julie,Undirected,1
+Bækløv,Md. Krogsgaard,Undirected,5
+Julie,feg,Undirected,1
+Jnlie,Madammen,Undirected,1
+Iulie,Madammen,Undirected,1
+Iulie,sJulie,Undirected,1
+Julie,ask,Undirected,3
+Fredrik,filt,Undirected,1
+Carl,Mesfer Carl,Undirected,2
+Krogsgaard,Wachmann,Undirected,1
+Lars,Wachmann,Undirected,2
+Carl,Lars,Undirected,1
+Carl,Dase,Undirected,1
+Dase,Fredrik,Undirected,1
+Carl,Gud,Undirected,4
+Fredrik,ester,Undirected,5
+Bæklov,Julie,Undirected,2
+Carl,Ester,Undirected,2
+Carl,L,Undirected,3
+Fredrik,L,Undirected,4
+Jespersen,Lars,Undirected,4
+Fredrik,L.,Undirected,2
+Johan,Lise,Undirected,1
+Krogsgaard,spnrgde,Undirected,1
+Fredrik,Fredrik kjørde,Undirected,2
+Fredrik,Iespersen,Undirected,2
+Peter,Rudolf Krogsgaard,Undirected,1
+Iespersen,Peter,Undirected,1
+Iespersen,Rudolf,Undirected,1
+Johan,Rudolf,Undirected,1
+Johan,saavel Jespersen,Undirected,1
+Iohan,Jespersen,Undirected,1
+Johan,Karl,Undirected,1
+Jespersen,Karl,Undirected,2
+Jespersen,Rudolf Krogsgaard,Undirected,1
+Jespersen,Md. Bækløv,Undirected,8
+Julie,Md. Bæklov,Undirected,4
+Fredrik,Md. Bæklov,Undirected,4
+Krogsgaard,Md. Bækløv,Undirected,5
+Hanne,Hellebjerggaard,Undirected,1
+Hellebjerggaard,Jnlie,Undirected,1
+Julie,Skade,Undirected,1
+Bæklsv,Johan,Undirected,1
+Johan,Vexler,Undirected,1
+Brang,Johan,Undirected,1
+Did. Krogsgaard,Md. Bækløv,Undirected,1
+Did. Krogsgaard,Md. Krogsgaard,Undirected,1
+Krogsgaard,hnn,Undirected,2
+Vrang,hnn,Undirected,2
+beraube,hnn,Undirected,1
+Krogsgaard,beraube,Undirected,1
+Stade,Vrang,Undirected,3
+Lrang,Md. Bæklov,Undirected,1
+Aagerkarls,Wachmann,Undirected,1
+Md. Bækløv,Vrang,Undirected,1
+Md. Krogsgaard,Vrang,Undirected,2
+Julie,Stade,Undirected,1
+Bækløv,Krogsgaard,Undirected,1
+Binhandler Vrang,Krogsgaard,Undirected,1
+Krogsgaard,Md. Bæklov,Undirected,1
+Fredrik,Jobsposf,Undirected,1
+Jobsposf,mørk,Undirected,1
+Ieg,Krogsgaard,Undirected,1
+Fredrik,Ieg,Undirected,1
+Bue,Fredrik mende,Undirected,1
+Bue,Fredrik,Undirected,3
+Fredrik,Peter Jespersens,Undirected,1
+Fredrik,Mynde,Undirected,2
+Julie,Mynde,Undirected,1
+Jespersen,Mynde,Undirected,1
+Fredrik,Vesf,Undirected,1
+Førstander Strange,Vesf,Undirected,1
+Aagerkarle,Førstander Strange,Undirected,1
+Aagerkarle,Vesf,Undirected,1
+Fredrik,X,Undirected,2
+Justitsraad Vesf,Strange,Undirected,1
+Julie,Vesf,Undirected,2
+Alands,Md. Bækløv,Undirected,1
+Alands,Fredrik,Undirected,1
+Bexel,Bækløv,Undirected,1
+Bexel,nn,Undirected,1
+Mynde,nn,Undirected,1
+Mynde,Vexler,Undirected,1
+Md. Bækløv,Vexler,Undirected,1
+Fredrik,Jesperfens,Undirected,1
+Aagerkarle,Fredrik,Undirected,1
+Alode,Fredrik,Undirected,1
+Alode,Vesf,Undirected,1
+Fredrik,Kaptejn Strambo,Undirected,1
+Kaptejn Strambo,L,Undirected,1
+Kaptejn,L,Undirected,1
+Fredrik-,Lars,Undirected,1
+Frederik,Jespersen,Undirected,2
+Fred,Jespersen,Undirected,1
+-,Fred,Undirected,1
+-,rik,Undirected,1
+Julie,Md. Bæklsv,Undirected,2
+Dn,Julie,Undirected,4
+Dn,Fredrik,Undirected,4
+Fredrik,Morpheus,Undirected,1
+Md. Bækløv,Morpheus,Undirected,1
+Julie,hjort,Undirected,1
+Md. Bækløv,hjort,Undirected,1
+Frederik,Md. Bækløv,Undirected,1
+Fredrik,Madam,Undirected,1
+Julie,Madam,Undirected,1
+Julie,Julst,Undirected,1
+Fredrik,Julst,Undirected,1
+Fredrik,Uraad,Undirected,2
+Julie,vexle,Undirected,2
+Julie,nn,Undirected,5
+Julie,Moder,Undirected,1
+Bækløv,Nid,Undirected,1
+Hnn,Julie,Undirected,9
+Julie,Md. Basktov,Undirected,1
+Julie trængdc,Md. Basktov,Undirected,1
+Jnlie,Julie trængdc,Undirected,1
+Jnlie,Julie,Undirected,4
+Julie,Md. Bæskløv,Undirected,3
+Julie,Præsfen,Undirected,3
+Præsfen,ane,Undirected,1
+Julie,ane,Undirected,1
+Hnn,hnn,Undirected,6
+Bækløv,Jnlie,Undirected,1
+Jespersen,ask,Undirected,1
+Bækløv,hnn,Undirected,4
+Cousines,Jespersen,Undirected,1
+Julie,Sands,Undirected,1
+Jespersen,kjørde Md. Bækløv,Undirected,1
+Bæskløv,Hanne,Undirected,1
+Hanne,Md. Bækløv,Undirected,3
+Hanne,Krogsgaard,Undirected,1
+Hanne,Jnlie,Undirected,4
+Jespersen,Rudolsi,Undirected,1
+Jespersen,Rudolf,Undirected,2
+Hanne,Md. Krogsgaard,Undirected,1
+Hnn,Jespersen,Undirected,2
+Julie,Md. Krogsgaard kjørt,Undirected,1
+Md. Jespersen,lund,Undirected,1
+Jnlie,Md. Bæklov,Undirected,1
+Julie Bækløv,hnn,Undirected,1
+Julie,Mikkelsen,Undirected,3
+Johan,Md. Krogsgaard,Undirected,1
+Fredrik sknlde,Johan,Undirected,1
+Fredrik sknlde,Julie,Undirected,1
+Fredrik after,Julie,Undirected,1
+Fredrik,Frøken Bækløv,Undirected,1
+Julie,Julie mende,Undirected,1
+Jespersen,Julie mende,Undirected,1
+Jespersen,Julie —,Undirected,1
+Fredrik,Julie —,Undirected,1
+Julie,Kaptejnens,Undirected,3
+Jespersen,laant Krogsgaard,Undirected,1
+StamboS,ask,Undirected,1
+Fredrik,Mammon,Undirected,2
+Gud,Jnlie,Undirected,1
+Gud,Stens,Undirected,1
+Bests,Stens,Undirected,1
+Bæskløv,Hellebjerggaard,Undirected,1
+Jespersen,Onkels,Undirected,1
+Onkels,ask,Undirected,1
+Moder,ask,Undirected,1
+Kaptejnens,Moder,Undirected,1
+Ieg,Julie,Undirected,2
+Julie,rakde,Undirected,1
+Evadatter,Md. Bækløv,Undirected,1
+Evadatter,Julie,Undirected,1
+Kaptejnens,Kur,Undirected,1
+Julie,Kur,Undirected,1
+Aagerkarle,hnn,Undirected,1
+Aagerkarl,Aagerkarle,Undirected,1
+Aagerkarl,Julie,Undirected,1
+Julie,Proprietær Jespersen,Undirected,1
+Fredrik mende,Jespersen,Undirected,2
+Elisabct,Kaptejnens,Undirected,1
+Onkels,Tante,Undirected,1
+Onkel,Tante,Undirected,1
+Fredrik,Lilsøgaard,Undirected,2
+Fredrik kjørde,Wachmann,Undirected,1
+Gud,j,Undirected,1
+Jespersen,Mikkelsen,Undirected,4
+Carl,nn,Undirected,4
+Cousine,Julie,Undirected,2
+Bone,Julie,Undirected,5
+Frøken Bæklov,Iulie,Undirected,1
+Bone,Fredrik,Undirected,3
+Julie,vesk ask,Undirected,2
+Julie,Kaptejn Landers,Undirected,2
+Bone,Md. Bæklov,Undirected,1
+Bone,Hanne,Undirected,1
+Bone,nn,Undirected,1
+Hanne,nn,Undirected,1
+Hanne,Paulun,Undirected,1
+Md. Nielsen,Paulun,Undirected,1
+Julie,Md. Nielsen,Undirected,1
+ester,hnn,Undirected,1
+Md. Nielsen,hnn,Undirected,2
+Hnn,Md. Bækløv,Undirected,1
+Bceklov,Hnn,Undirected,1
+Bceklov,Md. Nielsen,Undirected,1
+Md. Bækløv,Md. Nielsen,Undirected,3
+Kaptejn Landers,Md. Bækløv,Undirected,1
+Frokosf,Muhamed,Undirected,1
+Fredrik,Mikkelsen,Undirected,22
+Carl,Mikkelsen,Undirected,20
+Julie,øg,Undirected,1
+Julie,Rosensfjær,Undirected,1
+Carl,Fredrik knnde,Undirected,1
+Fredrik,L ' hombre,Undirected,1
+Clansen,L ,Undirected,1
+Carl,Krogsgaard,Undirected,5
+Carl,til-Fredrik,Undirected,1
+Carl,Karl,Undirected,2
+Fredrik,jour,Undirected,1
+Carl,jour,Undirected,1
+Dhrr,Fredrik,Undirected,3
+Dhrr,Wachmann,Undirected,1
+Carl,Fransfus,Undirected,1
+Asten,Fredrik,Undirected,1
+Carl,Markegaard,Undirected,1
+Lander,Markegaard,Undirected,1
+Kaptejn Lander,Lander,Undirected,2
+Fredrik,Kaptejn Lander,Undirected,3
+Fredrik,Lander,Undirected,1
+Bækløv,Lander,Undirected,1
+Jnlie,Markegaard,Undirected,1
+Jnlie,alf,Undirected,1
+Fredrik,alf,Undirected,1
+Frøken Bækløv,Julie,Undirected,2
+Julie,Varreskjolds,Undirected,1
+Christi Himmelfarts,Jespersen,Undirected,1
+Hanne,Johan Lander,Undirected,1
+Karl,Lander,Undirected,1
+Jespersen,Lander,Undirected,3
+Jnlie,Lander,Undirected,1
+Hnn,Lander,Undirected,1
+Hnn,Jnlie,Undirected,1
+Julie,Lander,Undirected,3
+Gud,Hanne,Undirected,1
+Elisabet,Julie,Undirected,3
+Ester Aftale,Julie,Undirected,2
+Julie,fil,Undirected,2
+Bone,Fredrik kjørde,Undirected,1
+Carl,Næsgaard,Undirected,1
+Næsgaard,Wachmann,Undirected,2
+Fredrik kjørdc,Jespersen,Undirected,1
+Napoleon,Næsgaard,Undirected,1
+Stabel,sorladc Rorupgaard,Undirected,1
+Strambo,Tscherning,Undirected,1
+Kaptejn Strambo,Strambo,Undirected,1
+Fredrik,Havren,Undirected,1
+Duss,Havren,Undirected,1
+Duss,Fredrik,Undirected,2
+Larsen,Nielsen,Undirected,1
+Clausen,Owens,Undirected,1
+Fredrik,Larsen,Undirected,2
+Mikkelsen,Skjønt Mikkelsen,Undirected,1
+Fredrik,Skjønt Mikkelsen,Undirected,1
+Carl,Kaptejn Strambo,Undirected,1
+Fredrik,Næsgaard,Undirected,1
+Clausen,Rudolf Krogsgaard,Undirected,1
+Fredrik kjørde,Mikkelsen,Undirected,1
+Fredrik,Konradslhst,Undirected,2
+Fredrik,Peter Jespersen,Undirected,6
+Jespersen,Peter Jespersen,Undirected,3
+Clausen,Mikkelsen,Undirected,5
+Clausen,Hans Jespersen,Undirected,2
+Hans Jespersen,Mikkelsen,Undirected,5
+Carl,Peter Jespersen,Undirected,2
+Carl,Hans Jespersen,Undirected,4
+Clansen,Mikkelsen,Undirected,6
+Carl,Heras,Undirected,1
+Fredrik fulgdes,Mikkelsen,Undirected,2
+Mikkelsen,Wachmann,Undirected,4
+Clansen,Mikkelsen mende,Undirected,2
+Clansen,Clausen,Undirected,1
+Hans Jespersen,Jespersen,Undirected,3
+Carl,fil,Undirected,1
+Fredrik,fil,Undirected,1
+Fredrik,fulgdeS,Undirected,1
+Julie,Kaptejn Lander,Undirected,2
+BoneS,Fredrik,Undirected,1
+BoneS,Julie,Undirected,1
+Carl,X,Undirected,2
+Carl,paany,Undirected,1
+Peter Jespersen,Wachmann,Undirected,2
+Hans,Jespersen,Undirected,3
+Kaptejn Strambo,Wachmann,Undirected,1
+Hans,Hans Jespersen,Undirected,1
+Fredrik,Hans Jespersen,Undirected,6
+Fredrik,Hesfen,Undirected,1
+Chren Atterup,Jens Atterup,Undirected,1
+Carl,Chren Atterup,Undirected,1
+Fredrik,Niels Hugger,Undirected,1
+Fredrik,Førstander Strange,Undirected,2
+Fredrik,Md. Strange,Undirected,2
+Fredrik,anderens,Undirected,1
+Fredrik,sra,Undirected,1
+Carl,sra,Undirected,1
+Fredrik,Post,Undirected,3
+Wachmann,Øe,Undirected,1
+Carl,Post,Undirected,20
+Post,Wachmann,Undirected,2
+Mikkelsen,Posf,Undirected,1
+Carl,Møller,Undirected,2
+Møller,Posf,Undirected,2
+D,Fredrik,Undirected,1
+D,hrr,Undirected,3
+D,Mølleren,Undirected,1
+Lassen,Post,Undirected,1
+Proprietær Grader,hnn,Undirected,1
+Marie Grader,hnn,Undirected,1
+Jomfru Post,Marie Grader,Undirected,2
+Marie,Mølleren,Undirected,3
+Marie,Møller Post,Undirected,3
+Jomfru Post,Marie,Undirected,1
+Marie,after,Undirected,1
+Jomfru Post,after,Undirected,1
+Mikkelsen,Stade,Undirected,1
+iHulebækmolle,mende Posf,Undirected,1
+Carl,Carl mende,Undirected,1
+Carl mende,Md. Posf,Undirected,1
+Carl,Md. Posf,Undirected,1
+Carl,Posf,Undirected,5
+D,Posf,Undirected,1
+Mikkelsen,hrr,Undirected,1
+Fredrik,Posf,Undirected,1
+Carl,Marie,Undirected,22
+Carl,Jomfru Marie,Undirected,1
+Fredrik,Jomfru Marie,Undirected,1
+Carl,Md. Post,Undirected,1
+Jette,Mads,Undirected,1
+Mads,Wachmann,Undirected,1
+Carl Post,Hansted s,Undirected,1
+Carl,Hansted,Undirected,20
+Carl,Øe,Undirected,3
+Post,Øe,Undirected,1
+Hansted,Øe,Undirected,2
+Hansted,def,Undirected,3
+Md. Post,def,Undirected,1
+Hansted,Md. Post,Undirected,1
+Hansted,Post,Undirected,1
+Marie,Post,Undirected,3
+Fredrik,Hansted,Undirected,10
+Marie,Posf,Undirected,2
+Clausen,Marie,Undirected,1
+Clausen,Posf,Undirected,1
+Hansted,Posf,Undirected,1
+Hansted,Marie,Undirected,12
+Marie,Mikkelsen,Undirected,1
+Marie,Md. Post,Undirected,2
+Md. Post,Post,Undirected,1
+Karl,Mikkelsen,Undirected,1
+Carl kjørde,Marie,Undirected,1
+Julie,Marie,Undirected,3
+Fredrik,Marie,Undirected,9
+Jomfru Post,Rudolf,Undirected,1
+Jomfru Post,Knudsen,Undirected,1
+Diana,Knudsen,Undirected,1
+Diana,Madam,Undirected,1
+Madam,Wachmann,Undirected,1
+Hansted,Wachmann,Undirected,3
+Thor,Wachmann,Undirected,1
+Mølnir,Thor,Undirected,1
+Diana fil Bords,Wachmann,Undirected,1
+Diana fil Bords,Hr. Hansted,Undirected,1
+Hr. Hansted,Rudolf,Undirected,1
+Hain,Rudolf,Undirected,1
+Hain,Johan,Undirected,1
+Diana,Johan,Undirected,1
+Diana,Peter Jespersen,Undirected,1
+Diana,Wachmann,Undirected,1
+Hansted,Julie,Undirected,4
+Carl,Mølleren,Undirected,5
+Marie,nn,Undirected,2
+Carl,hnn,Undirected,5
+Marie,hnn,Undirected,4
+Marie,Wachmann,Undirected,11
+Marie,Thee Krogsgaard,Undirected,1
+Rudolf Krogsgaard,Thee Krogsgaard,Undirected,1
+Rudolf Krogsgaard,Thee,Undirected,1
+Marie,Thee,Undirected,1
+Karl,Marie,Undirected,1
+Mølleren,hnn,Undirected,2
+Carl,Hr. Wachmann,Undirected,1
+Dn,Wachmann,Undirected,4
+Dn,Marie,Undirected,4
+Fredrik,Major Strambo,Undirected,1
+Fredrik,Strambo,Undirected,1
+Fredrik,Jensen,Undirected,5
+Fredrik,Strange,Undirected,22
+Fredrik,Karl,Undirected,1
+Strange,hnn,Undirected,1
+Fredrik paany,Strange,Undirected,1
+Frn Lander-,Kaptejn Lander,Undirected,1
+Frn Lander-,Lander,Undirected,1
+Lander,hnn,Undirected,1
+Jespcrsens,Julie,Undirected,2
+Bækløv,Margrethe,Undirected,3
+Margrethe,hnn,Undirected,5
+Julie,Majore,Undirected,1
+Elisabet,Jnlie,Undirected,1
+Dn,Jnlie,Undirected,1
+Dn,Elisabet,Undirected,1
+Jnlie,nn,Undirected,1
+hnn,nn,Undirected,1
+Elisabet,Frøken Bækløv,Undirected,2
+Elisabet,hnn,Undirected,2
+Elisabet,Hnn,Undirected,1
+Elisabet,Margrethe,Undirected,1
+Angust,Fredrik,Undirected,1
+Angust,Julie,Undirected,1
+Bo,Jnlie,Undirected,1
+Bo,Julie,Undirected,1
+Fredrik tidligere Justitsraad Vest,Mied,Undirected,1
+Dn,hnn,Undirected,1
+Aagerkarl,Dn,Undirected,1
+Jensen,Strange,Undirected,1
+Bin,Julie,Undirected,1
+Bin,Punsch,Undirected,1
+Bækløv,Jesus,Undirected,1
+Jesus,Luther,Undirected,1
+Gud,Luther,Undirected,1
+Julie slal,Margrethe,Undirected,1
+Ask,Fredrik,Undirected,1
+Mikkelsen,Stabel,Undirected,1
+Amalie,Fredrik,Undirected,3
+Amalie,hnn,Undirected,3
+Fredrik,Julie strax,Undirected,1
+Hcnpaa,meders Jensen,Undirected,1
+Mikkelsen,fil Jensen,Undirected,1
+Amalie,Clausen,Undirected,1
+Clausen,Steller,Undirected,1
+Rudolf Krogsgaard,Steller,Undirected,1
+Clansen,Steller,Undirected,4
+Bækløv,Clansen,Undirected,2
+Md. Bækløv,Steller,Undirected,1
+Amalie,Steller,Undirected,1
+Margrethe,Md. Bæklov,Undirected,2
+Julie,Syles,Undirected,1
+Margrethe,Syles,Undirected,1
+Julie,Margrethe sknlde,Undirected,1
+Julie fog,Md. Bækløv,Undirected,1
+Julie fog,Margrethe,Undirected,1
+Major,hnn,Undirected,1
+Margrethe,loft,Undirected,1
+Boncs,Syles,Undirected,1
+Boncs,Md. Bækløv,Undirected,1
+Bækløv kjørde,Margrethe,Undirected,1
+Margrethe,Syle,Undirected,2
+Amalie,Syle,Undirected,2
+Amalie,Md. Bækløv,Undirected,2
+Hain,Julie,Undirected,3
+Fredrik,hu,Undirected,2
+Frøken Pas,hnn,Undirected,1
+Amalie,Margrethe,Undirected,4
+Frøken Pas,Margrethe,Undirected,4
+Jensen,Julie,Undirected,1
+Amalie,Jensen,Undirected,1
+Amalie,Frøken Pas,Undirected,1
+Froken,Julie,Undirected,1
+Froken Pas,Margrethe,Undirected,1
+Jensen,Mikkelsen,Undirected,1
+Amalie,Bone,Undirected,1
+Bone,Margrethe,Undirected,4
+Margrethe,ask,Undirected,2
+Frøken Bækløv,Gud,Undirected,1
+Faders,Fredrik,Undirected,1
+Faders,Margrethe,Undirected,1
+Elisabet,Syle,Undirected,1
+Ester,Ieg,Undirected,1
+Mikkelsen,X,Undirected,2
+Fredrik,sif,Undirected,1
+Julie,sif,Undirected,2
+Julie,sif Ur,Undirected,2
+Brems,Fredrik,Undirected,1
+Brems,Gud,Undirected,1
+Dn,Gud,Undirected,1
+Fredrik,adler,Undirected,1
+Gud,adler,Undirected,1
+Julie,Strange,Undirected,1
+X,nn,Undirected,1
+Margrethe,nn,Undirected,1
+Julie,L.,Undirected,3
+Julie,Syle,Undirected,1
+Bone,Syle,Undirected,1
+Aager,Jensen,Undirected,1
+Aager,Fredrik,Undirected,1
+. Jensen,Julie,Undirected,1
+. Jensen,Jensen,Undirected,1
+Jensen,næsfe,Undirected,1
+Fredrik,næsfe,Undirected,1
+Fredrik,heed Christensen,Undirected,1
+Christensen,heed Christensen,Undirected,1
+Fredrik,Hr. Christensen,Undirected,1
+Christensen,Fredrik,Undirected,1
+Fredrik,Lars Jensen,Undirected,1
+Julie,soni,Undirected,2
+L,Md. Bækløv,Undirected,1
+Fredrik,Jens Willumsen,Undirected,4
+Lars Jensen,Wachmann,Undirected,1
+Julie,Mortensen,Undirected,1
+Carl,Jens Willumsen,Undirected,1
+Førstander Strange,Krogsgaard,Undirected,1
+Førstander Strange,Strange,Undirected,1
+Strange,Wachmann,Undirected,1
+Hansted,Lykke,Undirected,1
+Fredrik sorlangde,Hansted,Undirected,1
+Møller,Øe,Undirected,2
+Lilsøgaard,Øe,Undirected,1
+Moller,Øe,Undirected,1
+Clansen,Hansted,Undirected,1
+Aland,Carl,Undirected,1
+Steen,Øe,Undirected,1
+Fredrik,Jens Kok,Undirected,3
+Ellernp,Jens Kok,Undirected,2
+Carls Morbroders,Ellernp,Undirected,1
+Carls Morbroders,Jens Christensen,Undirected,1
+Fredrik,Jens Christensen,Undirected,1
+Carl,Jens Kok,Undirected,1
+Jens Kok,nn,Undirected,1
+Jens Kok,Wachmann,Undirected,3
+Wachmann,vita,Undirected,1
+Jens Kok,Karen Kolens,Undirected,1
+Karen Kolens,ester,Undirected,1
+Jens Kok,ester,Undirected,1
+Fredrik,Karen KokenS,Undirected,2
+Fredrik,mende,Undirected,1
+Karen Kokens,novet,Undirected,1
+Thomas,a,Undirected,1
+A,Thomas,Undirected,1
+A,mæ,Undirected,1
+Jens,mæ,Undirected,1
+Carl Wachmann,Karen,Undirected,1
+Fredrik,Karen,Undirected,1
+Carl Wachmann,Jens Christensen Kok,Undirected,1
+Carl Wachmann,Ernst Wachmann,Undirected,2
+Fredrik,Karen Kokens,Undirected,2
+Jens Christensen Kok,Karen Niels,Undirected,1
+Karlen,Steen,Undirected,1
+Karlen,Md. Stade,Undirected,1
+Fredrik,Md. Stade,Undirected,3
+Bid,sif,Undirected,1
+Bid,Wachmann,Undirected,1
+Julie,sordi,Undirected,1
+Fredrik,sordi,Undirected,1
+Fredrik,hani,Undirected,2
+Christensen Kok,Fredrik,Undirected,1
+Carl,Fredrik fil,Undirected,1
+Jens Willumsen,Lars Jensen,Undirected,1
+L..,Stade,Undirected,1
+Julie,L..,Undirected,1
+Carl,Lil Øe,Undirected,2
+Carl,Pilmand,Undirected,3
+Carl,Jens Nielsen,Undirected,2
+Fredrik,Jens,Undirected,1
+Carl,Rorupgaard,Undirected,1
+Fredrik,Rorupgaard,Undirected,1
+Fredrik,Md. Pilmand,Undirected,2
+Lilsøgaard,Stade,Undirected,1
+Hain,Lilsøgaard,Undirected,1
+Carl,Karen Kokens,Undirected,2
+Carl,Jens Holt,Undirected,3
+Eigarer,Toddy,Undirected,1
+Fredrik,Toddy,Undirected,1
+Lander,Seener,Undirected,1
+Julie,hans Hesfe,Undirected,2
+L,Strange,Undirected,1
+Strange,nn,Undirected,1
+Md. Hansen,Strange,Undirected,4
+Fredrik,Md. Hansen,Undirected,7
+Bin,fog Fredrik,Undirected,1
+Carl,Earl,Undirected,1
+fil,nn,Undirected,1
+Møller,fil,Undirected,1
+Carl,Pipmann,Undirected,1
+Hansted,Pipmann,Undirected,1
+Fredrik,Jens Holt bode,Undirected,1
+Carl,Jens Holt bode,Undirected,1
+Fredrik,wen,Undirected,1
+Carl,soni,Undirected,1
+Lilsøgaard,Næsgaard,Undirected,1
+Ieg,ll,Undirected,1
+Høsfen,ll,Undirected,1
+Gud,Krogsgaard,Undirected,1
+Krogsgaard,L,Undirected,1
+Krogsgaard,Lars,Undirected,1
+Carl,Vrang,Undirected,2
+Md. Bæklov,Vrang,Undirected,1
+Carl attesk,Mergel,Undirected,1
+Julie,frein,Undirected,2
+Julie,Pi,Undirected,1
+Lars Jensen,Pi,Undirected,1
+Jens Villumsen,Lars Jensen,Undirected,1
+Jens Willumsen,hnn,Undirected,1
+Clausen,Post,Undirected,1
+Fredrik,næsfen,Undirected,1
+Konradslysf,Post,Undirected,1
+Carl,Konradslysf,Undirected,1
+Aland,Fredrik,Undirected,1
+Md. Wachmann,godhcdsfnld,Undirected,1
+Carl,Madammen,Undirected,1
+Aland,hnn,Undirected,1
+Carls Signet,Fredrik,Undirected,1
+Carls Signet,Wachmann,Undirected,1
+Wachmann,hnn,Undirected,1
+Md. Wachmann,ester,Undirected,1
+Wachmann,ester,Undirected,1
+Carl,frode,Undirected,1
+Wachmann,sid,Undirected,1
+Fredrik,T,Undirected,1
+Strange,T,Undirected,3
+Fredrik,Førsf,Undirected,1
+Førsf,Md. Hansen,Undirected,1
+Fredrik,Nid. Hansen,Undirected,1
+Carl,sor Carls,Undirected,2
+Carl,Christensen,Undirected,1
+Wachmann,fil,Undirected,1
+Johan,Marie,Undirected,7
+Johan,Wachmann,Undirected,2
+Johan,Saasnart Posf,Undirected,1
+Marie,Marie favs,Undirected,1
+Marie,Møller,Undirected,1
+Alan,Fredrik,Undirected,1
+Fredrik,Johan,Undirected,3
+Fredrik,Hr. Johans,Undirected,1
+Fredrik,Hr. Johan,Undirected,1
+Carl,Johan,Undirected,1
+Aid. Hansen,Fredrik,Undirected,1
+Aid. Hansen,Carl,Undirected,1
+Krogsgaard,Strange,Undirected,2
+Exekutor,Md. Hansen,Undirected,1
+Exekutor,Strange,Undirected,1
+Earl,Strange,Undirected,2
+Marie,Strange,Undirected,1
+Fredrik,Hr. Iohan,Undirected,1
+Hr. Iohan,Marie,Undirected,1
+Md. Wachmann,Wachmann,Undirected,1
+Dein,Wachmann,Undirected,1
+Mikkelsen,Strange,Undirected,2
+Fredrik kjørde,Krogsgaard,Undirected,2
+Carl,Mikkel,Undirected,1
+' sstamsnti,Fredrik,Undirected,1
+' sstamsnti,Tesfator,Undirected,1
+Md. Hansen,Tesfator,Undirected,1
+Ludvig,Md. Hansen,Undirected,1
+Fredrik Stade,Ludvig,Undirected,1
+Fredrik,Fredrik Stade,Undirected,1
+Borgemestcren,Fredrik,Undirected,1
+Ludvig,skjont Fredrik,Undirected,1
+Ludvig,Strange,Undirected,1
+Gud,Peter Jespersen,Undirected,1
+Rorupgaard,Wachmann,Undirected,1
+Nielsen,Wachmann,Undirected,2
+Fredrik kjørde,Jespersen,Undirected,1
+Førstanders,Krogsgaard,Undirected,1
+Hanne Jespersen,Julie,Undirected,1
+Clansen,Hanne Jespersen,Undirected,1
+Clansen,Fredrik,Undirected,1
+Julie,Møllcrdattercn,Undirected,1
+Fredrik,Saasnart,Undirected,1
+Jespersen,Karlen,Undirected,1
+Iespersen,hnn,Undirected,1
+Fredrik,Fredrik Iespersen,Undirected,1
+Fredrik,Md. Iespersen,Undirected,1
+Julie,Md. Iespersen,Undirected,1
+Elisabetslyst,Fredrik,Undirected,1
+Iespersen,tots,Undirected,1
+Jomfru Bæklov,Julie,Undirected,1
+Iulie,Md. Jespersen,Undirected,1
+Frøken Paf,Julie,Undirected,3
+Jespersen,Margrethe,Undirected,1
+Frøken Pas,Julie,Undirected,5
+Julie,endnn,Undirected,1
+endnn,hnn,Undirected,1
+Frøken Paf,Frøken Pas,Undirected,1
+Frøken Paf,Jnlie,Undirected,1
+Frøken Bæklov,Jnlie,Undirected,1
+Major Lander,Margrethe,Undirected,2
+Frøken Pas,Major Lander,Undirected,1
+Frøken Paf,hnn,Undirected,1
+Hns,hnn,Undirected,1
+Hns,Julie,Undirected,1
+Akan,Fredrik,Undirected,1
+Akan,hnn,Undirected,1
+Morpheus,hnn,Undirected,1
+Julie,bragdc,Undirected,1
+Amalie,Clansen,Undirected,1
+Clansen,Julie,Undirected,1
+Clausen,Julie,Undirected,1
+Julie,Md. Clansen,Undirected,2
+Md. Bæskløv,Wachmann,Undirected,1
+Julie,sidsf,Undirected,1
+Hanne,Kjørctur,Undirected,1
+Julie,Kjørctur,Undirected,1
+Julie,Madammen,Undirected,1
+Hans,Wachmann,Undirected,1
+Bien,Wachmann,Undirected,1
+Hans,Peter,Undirected,3
+Fredrik,losfe,Undirected,1
+Carl,losfe,Undirected,1
+Hans Jespersen,Wachmann,Undirected,1
+Jespersen,L.,Undirected,1
+L.,X,Undirected,1
+Hans,Stade,Undirected,1
+Dhrr,Jespersen,Undirected,3
+Mikkelsen,Peter Jespersen,Undirected,1
+Carl,Mikkelsen sknlde,Undirected,1
+Mikkelsen,Mikkelsen sknlde,Undirected,1
+Dhrr,Mikkelsen,Undirected,1
+Peter,Øe,Undirected,1
+Carl,Dhrr,Undirected,1
+Amalie,Iulie,Undirected,1
+Fredrik,Steller,Undirected,4
+Julie,Steller,Undirected,1
+L,Søndergaard,Undirected,3
+Julie,Ludvig,Undirected,2
+Fredrik,Stens,Undirected,1
+Johnsen,Stens,Undirected,1
+Johnsen,Md. Stade,Undirected,1
+Ludvig,Md. Stade,Undirected,1
+Hansted,Thee,Undirected,3
+Iulie,Md. Stade,Undirected,1
+Fredrik,Hansfed,Undirected,2
+Hansfed,Thee,Undirected,1
+Hans Jespersen,Julie,Undirected,1
+Hans Jespersen,JespersenS,Undirected,1
+JespersenS,Julie,Undirected,1
+Thee,tete,Undirected,1
+Julie,tete,Undirected,1
+Julie,L,Undirected,1
+Hansted,L,Undirected,1
+Peter Jespersen,Thee,Undirected,1
+Fredrik/,Strambo,Undirected,1
+Fredrik,Fredrik/,Undirected,1
+Fredrik,Hans,Undirected,2
+Hans,Peter Jespersen,Undirected,2
+Fredrik,Peter,Undirected,2
+Jespersen,Peter,Undirected,1
+Fader,Stade,Undirected,2
+Fader,Hans,Undirected,1
+Fredrik,spnrgdc,Undirected,1
+Hanne,spnrgdc,Undirected,1
+Fredrik,fe Kammerherre,Undirected,1
+Varrcskjold,fe Kammerherre,Undirected,1
+Jnlie,hnn,Undirected,1
+Bel,Julie,Undirected,1
+Md. Hanne,Peter Jespersen,Undirected,1
+Md. Bækløv,Md. Hanne,Undirected,1
+Fredrik,Varreskjold,Undirected,1
+Mai,Varreskjold,Undirected,1
+Mai,Peter Jespersen,Undirected,1

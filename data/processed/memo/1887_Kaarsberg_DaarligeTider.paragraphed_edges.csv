@@ -1,0 +1,119 @@
+source,target,type,weight
+Gammelmand,Jens Bondes,Undirected,1
+Jens,Jens Bonde,Undirected,11
+Jens Bonde,Jkars,Undirected,1
+Jens Bonde,Karles,Undirected,1
+Jens,Jørgen,Undirected,5
+Jørgen,Karl,Undirected,1
+Jørgen,Karl saavel,Undirected,1
+Jens Bonde,Jørgen,Undirected,8
+Jens,hans,Undirected,1
+Gud,Jens,Undirected,5
+Gud,Mo,Undirected,1
+Jørgen,Mads Hjulben,Undirected,1
+Karles,Mads,Undirected,1
+Jørgen,Karles,Undirected,1
+Jens Pedersen,Per Jensen,Undirected,1
+Jens Nielsen,Jens Pedersen,Undirected,1
+Johannes Aabenbaring,Rasmussen,Undirected,1
+Peer,Silkensen,Undirected,2
+Ded,vos,Undirected,1
+Bodil,Per,Undirected,1
+Jens,Per,Undirected,2
+Gud,Per,Undirected,2
+Hans Nielsen,Hans Nilen,Undirected,1
+Hans Nilen,Jens,Undirected,3
+Jens Bonde,Karen,Undirected,1
+Haresteg,Jens Bonde,Undirected,1
+Christens,Jens Bonde,Undirected,1
+Jochum,Jochums,Undirected,1
+Herren,Jens Bonde,Undirected,1
+Christi,Jens Bonde,Undirected,1
+Jens Iversen Bonde,Jesu,Undirected,1
+Jesu,ns,Undirected,1
+Jens Bonde,Jørgen Børstenbinder,Undirected,1
+Hans Jacobsen,iforgaars,Undirected,1
+Hans Jacob,Jørgen Bonde,Undirected,1
+Jochum,Jørgen,Undirected,3
+Gud,Jørgen,Undirected,1
+Gud,Jens Bonde,Undirected,2
+Jens Bonde,Jørgen Bonde,Undirected,1
+Jørgen,Jørgen Bonde,Undirected,1
+Jørgen Bonde,Søren Hansen,Undirected,1
+Gud,Søren Hansen,Undirected,1
+Jørgen,Søren Hansen,Undirected,1
+Johannes,Jørgen,Undirected,1
+kjære Jørgen,"lille,",Undirected,1
+Frants,Jørgen,Undirected,3
+Frants,Jens Bonde,Undirected,1
+Hans Kjeldsens,Jens Bonde,Undirected,1
+Jørgen,Straataget,Undirected,1
+Henning,inat,Undirected,2
+Hans Jacobsen,Jesu,Undirected,1
+Jens Bonde,Johanne,Undirected,3
+Gud,Kasparsen,Undirected,21
+Johanne,Sands,Undirected,2
+Johanne,Kasparsen,Undirected,6
+Gud,Johanne,Undirected,1
+Kasparsen,Rollo,Undirected,1
+Graad,Johan,Undirected,1
+Johan,Kasparsen,Undirected,20
+Johan,Kaspersen,Undirected,1
+Mikkel,inat,Undirected,1
+Johan,Mikkel,Undirected,1
+Gud,Johan,Undirected,3
+Jansen,Johan,Undirected,6
+Kasparsen,ban,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Jansen,Undirected,7
+Johan,ban,Undirected,2
+Stine,ban,Undirected,1
+Johan,Sopha,Undirected,1
+Jens Bonde,Kasparsen,Undirected,1
+Jansen,Kasparsen,Undirected,13
+Kasparsen,Slagter Bagges,Undirected,1
+Hans Rantzau,Johan,Undirected,1
+Gud,Hans Rantzau,Undirected,3
+Gud,Pelts,Undirected,1
+Johan,christne,Undirected,1
+Christen,christne,Undirected,1
+Gud,lille Johan,Undirected,1
+Kong Frederik VI,Sophaen,Undirected,1
+Kong Frederik VI,s,Undirected,1
+Johanne,Kaparsens,Undirected,1
+Kaparsens,Kasparsen,Undirected,1
+Gud,Hr. Kasparsen,Undirected,2
+Christen,Gud,Undirected,1
+Gud,Kaspersen,Undirected,1
+Johan Theodor Jansen,tesque,Undirected,1
+Gud,Johannes Theodor Jansen,Undirected,3
+Laura y,k,Undirected,1
+Jacob,Laura y,Undirected,1
+Jacob,Søren Pottemager,Undirected,1
+Søren,Søren Pottemager,Undirected,1
+Jabob,Søren,Undirected,2
+Jacob,Søren,Undirected,1
+Jacob,Stine,Undirected,2
+Hjort,Kasparsen,Undirected,1
+Johannes —,Kasparsen,Undirected,1
+Charles Leon,Johannes —,Undirected,1
+Charles Leon,Niels Peter,Undirected,1
+Jaquen,Kasparsen,Undirected,2
+Dr. Råben,Kasparsen,Undirected,1
+Hr. Kasparsen,Kasparsen,Undirected,1
+Cappellan,Kasparsen,Undirected,1
+Cappellan,Gud,Undirected,1
+Dr. Råben,Johan,Undirected,1
+Habakuk,Johan,Undirected,4
+Jansen,Jesu,Undirected,1
+Kasparsen,kjære Kasparsen,Undirected,1
+Kasparsen,kjære,Undirected,2
+Kasparsen,Sophaen,Undirected,2
+Jansen,Sophaen,Undirected,1
+Gud,Sophaen,Undirected,1
+Jarisen,Kasparsen,Undirected,1
+Gud,Stine,Undirected,1
+Johan,Kasparsens,Undirected,1
+Johan,Stine,Undirected,1
+Kasparsen,Stine,Undirected,1
+Doctor Råben,Stine,Undirected,1

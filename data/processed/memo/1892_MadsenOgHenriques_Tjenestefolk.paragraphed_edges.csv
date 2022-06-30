@@ -1,0 +1,197 @@
+source,target,type,weight
+Hr. Jespersen,Jespersen,Undirected,1
+Gud,Jespersen,Undirected,1
+Jensens,Peter Sengeløv,Undirected,1
+Jensen,Peter Sengeløv,Undirected,1
+Jensen,sigei,Undirected,1
+Anes,Jensen,Undirected,2
+Jensen,Sigfred,Undirected,17
+Gud,lille Jensen,Undirected,1
+Garibaldi,Jensen,Undirected,2
+Ane,Jensen,Undirected,6
+Ane,Camilla,Undirected,1
+Jensen,Jespersen,Undirected,3
+Frøken Vanda,Sigfred,Undirected,1
+Frøken Vanda,Madam Mortensen,Undirected,1
+Ane,Jespersen,Undirected,1
+Bonjour,Jensen,Undirected,1
+Ane,Frøken Vandas eau de mille fleurs,Undirected,1
+Jensen,Mathilde,Undirected,2
+Frøken Mathilde,Jensen,Undirected,1
+Frøken Vanda,Jensen,Undirected,7
+Frøken Vanda,Rosa,Undirected,1
+Rosa,Rosita,Undirected,1
+Rosita,Sigfred,Undirected,1
+Jensen,Olaf,Undirected,1
+Olaf,Zangenberg,Undirected,1
+Grev Flabens,Mr. Dickson,Undirected,1
+Holst,Mr. Dickson,Undirected,1
+Bergsøe,Holst,Undirected,1
+Hermelinskaabe,Jensen,Undirected,1
+Frøken Vanda,Hermelinskaabe,Undirected,1
+Frøken Vanda,Midje,Undirected,1
+Jensen,Midje,Undirected,1
+Jensen,Niels,Undirected,6
+Haase,Jensen,Undirected,3
+Haase,Vanda,Undirected,1
+Ane,Peltsen,Undirected,1
+Peltsen,Sigfred,Undirected,1
+Mama,lille Sigfred,Undirected,1
+Jensen,Papa,Undirected,1
+Papa,Vanda,Undirected,1
+Jensen,Mama,Undirected,1
+Jensen,Vanda,Undirected,1
+Sigfred,Vanda,Undirected,1
+Gud,Jensen,Undirected,1
+Jensen,Sigfred hai*,Undirected,1
+Cæsars,Sigfred hai*,Undirected,1
+Cæsars,Jensen,Undirected,1
+Jensen,lille Jensen,Undirected,1
+Carl Bøghske Krondyr,Jensen,Undirected,1
+Carl Bøghske Krondyr,Haase,Undirected,1
+Cæsar,Sigfred,Undirected,2
+Franciska,Krammerup,Undirected,6
+Franciska,amore,Undirected,1
+Franciska,Petersen,Undirected,7
+Franciska,sen,Undirected,1
+Franciska,Hr. Krammerup,Undirected,2
+Hr. Krammerup,sen,Undirected,1
+Krammerup,Viggo Krammerup,Undirected,1
+Hr. Krammerup,Viggo Krammerup,Undirected,1
+Franciska,lille Franciska,Undirected,1
+Krammerup,Sirtses,Undirected,1
+Franciska,Krammerup sen,Undirected,1
+Franciska,Viggo Krammerup,Undirected,5
+Amalie,lille Viggo,Undirected,1
+Franciska,Frk. Amalies,Undirected,2
+Brodérsaks,Frk. Amalies,Undirected,1
+Brodérsaks,Frk. Amalie,Undirected,1
+Franciska,Frk. Amalie,Undirected,2
+Carl Møllers,Franciska,Undirected,1
+Amalie,Carl Møllers,Undirected,1
+Amalie,Frk. Franciskas,Undirected,1
+Franciska,Frk. Franciskas,Undirected,1
+Hr. Viggo,Krammerup,Undirected,1
+Hr. Krammerup,Hr. Viggo,Undirected,1
+Anders,Krammerup,Undirected,3
+Franciska,Fru Krammerup,Undirected,2
+Anders,Franciska,Undirected,3
+Franciska,Mortensen,Undirected,1
+Franciska,Hjærteside,Undirected,1
+Frk. Amalie,Jacquet,Undirected,1
+Anders,Jacquet,Undirected,1
+Frk. Amalie,Fru Krammerup,Undirected,1
+Frk. Amalie,Krammerup,Undirected,2
+Francisl,Frk. Amalie,Undirected,1
+Anders,Francisl,Undirected,1
+Franciska,Hr. Petersen,Undirected,3
+Franciska,Gud,Undirected,1
+Niels,Niels’,Undirected,1
+Niels,Niels Spendrup,Undirected,5
+Gustav Vasa,Niels Spendrup,Undirected,2
+Niels Spendrup,Søholms,Undirected,1
+Brandt-Seidelin,Søholms,Undirected,1
+Brandt-Seidelin,Niels,Undirected,1
+Katrines,Niels Spendrup,Undirected,1
+Katrines,Niels,Undirected,1
+Katrine,Niels,Undirected,9
+Katrine,Niels Spendrup,Undirected,2
+Niels,lille Trine,Undirected,1
+Mutter,Niels,Undirected,1
+Niels,Peter —,Undirected,1
+Peter,Peter —,Undirected,1
+Niels Spendrup,Peter,Undirected,1
+Niels Spendrup,lille Peter,Undirected,1
+Niels,lille Peter,Undirected,1
+Niels,Peter,Undirected,4
+Frederik,Niels,Undirected,1
+Frederik,Peter bovlam,Undirected,1
+Niels,Søholms,Undirected,2
+Esben,Papa,Undirected,1
+Papa,Rasmussen,Undirected,1
+Frk. Bondesen,Jensen,Undirected,2
+Jensen,Niels langer,Undirected,1
+Hr. Rasmussen,Rasmussen,Undirected,1
+Niels,Rærup,Undirected,2
+Brandt,Greve,Undirected,1
+Honnørs,Niels,Undirected,1
+Esben,Niels,Undirected,1
+Kirsten Lugekone,Niels,Undirected,1
+Kirsten Lugekone,Norbaggen,Undirected,1
+Niels,Norbaggen,Undirected,1
+Niels Spendrup,imidlerlid,Undirected,1
+Frk. Bondesen,Niels Spendrup,Undirected,1
+Frk. Klara,Jensen,Undirected,1
+Jensen,Niels Spendrup,Undirected,1
+Jensen,Katrine,Undirected,1
+Aark,Jensen,Undirected,1
+Katrine,Søholms,Undirected,1
+saad,saad’,Undirected,1
+Jakob,saad’,Undirected,1
+Katrine,sukker Jensen,Undirected,1
+Niels,Seideliners,Undirected,2
+Hr. Jensen,Jensen,Undirected,1
+Frøken Bondesen,Jensen,Undirected,1
+Jensen,Niels’,Undirected,1
+EZaren,Møller,Undirected,1
+Kristi,Møller,Undirected,1
+Karen,Karens,Undirected,1
+Farao,Karen,Undirected,1
+Hr. Møllers,Karen,Undirected,1
+Karen,Oksenbøll,Undirected,2
+Karen,Møller,Undirected,3
+Karen,Karen «,Undirected,1
+Karen,Philipsen,Undirected,2
+Hr. Kindermann,Karen og,Undirected,1
+Hr. Kindermann,Møller,Undirected,1
+Hr. Kindermann,Karen,Undirected,19
+Karen,Kindermann,Undirected,4
+Gud,Karen,Undirected,2
+Gud,Kindermann,Undirected,1
+Hr. Kindermann,Kindermann,Undirected,1
+Karen,Karen treds,Undirected,1
+Madsen,Madsens,Undirected,1
+Hr. Madsens,Madsen,Undirected,1
+Hr. Madsen,Madsen,Undirected,1
+Karl,Madsen,Undirected,1
+Frøken,Grethe,Undirected,1
+Frk. Grethe,Frøken,Undirected,1
+Grethe,saagar,Undirected,2
+Grethe,bh,Undirected,2
+Grethe,Hr. Madsen,Undirected,1
+Arne,Grethe,Undirected,1
+Arne,Karl,Undirected,1
+Grethe,Karl,Undirected,3
+Karl,lille Kallemand,Undirected,1
+Faders,lille Kallemand,Undirected,1
+Faders,Hr. Madsen,Undirected,1
+Grethe,Kallemand,Undirected,21
+Kallemand,Karl hans Ble,Undirected,1
+Grethe,Lille Kallemand,Undirected,2
+Grethe,Peter,Undirected,1
+Diana,Grethe,Undirected,1
+Grethe,Hanne,Undirected,7
+Grethe,Hr. Rasmussen,Undirected,1
+Kallemand,Rasmussen,Undirected,2
+Hanne,Kallemand,Undirected,1
+Frøken Grethe,Hr. Rasmussen,Undirected,1
+Hr. Madsen,Linnemanns,Undirected,1
+Frøken Zahle,Linnemanns,Undirected,2
+Linnemanns,Madsen,Undirected,1
+Hr. Linnemanns,Hr. Madsen,Undirected,1
+Hr. Linnemanns,Madeira,Undirected,1
+Linnemann,Madsen,Undirected,2
+Hr. Madsen,Linnemann,Undirected,2
+Hr. Linnemann,Hr. Madsen,Undirected,1
+Hr. Linnemann,Madsen,Undirected,1
+Bjørnstjerne Bjørnson,Madsen,Undirected,1
+Kykeliky,Linnemann,Undirected,1
+Kykeliky,Madsen,Undirected,1
+Lille Kallemand,Linnemann,Undirected,1
+Kallemand,sen,Undirected,1
+Kallemand,lille Kallemand,Undirected,1
+Grethe,Hr. Kallemand,Undirected,1
+Grethe,sen,Undirected,1
+Kallemand,lilles,Undirected,1
+Grethe,lilles,Undirected,1
+Grethe,Madsen,Undirected,2

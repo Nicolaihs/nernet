@@ -1,0 +1,207 @@
+source,target,type,weight
+Grande,Johannes Bjørnsrud,Undirected,2
+Bjørn Rydningsmand,Knut Sve,Undirected,1
+Knut,Knut Sve,Undirected,1
+Knut,Sigrid,Undirected,8
+Sigrid,Sigurd,Undirected,2
+Knut,Sigurd,Undirected,4
+Gamlingen,Knut,Undirected,1
+Gamlingen,Sigrid,Undirected,1
+Sigrid,Sjugul,Undirected,2
+Gjertrud,Sjugul,Undirected,1
+Sigurd,Thore,Undirected,2
+Sigrid,Thore,Undirected,6
+Knut,Sjugul,Undirected,2
+Bjørn Rydningsmand,Ingrid,Undirected,1
+Bjørn,Bjørn Rydningsmand,Undirected,1
+Johannes,Nils,Undirected,2
+Ingrid,grant,Undirected,1
+Bjørken,Ingrid,Undirected,1
+Ingrid,Jesu,Undirected,1
+Bjørn,Ingrid,Undirected,3
+Bjørn,javistja,Undirected,1
+Ragna,Thora,Undirected,1
+Malmfrid,Thora,Undirected,1
+Johannes Bjørnsrud,Taa,Undirected,1
+Johannes,Taa,Undirected,1
+Ingrid,Johannes,Undirected,2
+Johannes,Turid,Undirected,10
+Marit,Thore Sigurdsøn,Undirected,2
+Johannes Bjørnsrud,Marit,Undirected,1
+Bjørn,Johannes,Undirected,6
+Johannes,kanske,Undirected,1
+Bakke,kanske,Undirected,1
+Bakke,Johannes,Undirected,1
+Johannes,Proprietær Bakkes,Undirected,1
+Proprietær Bakkes,Turid,Undirected,1
+Knut,Turid,Undirected,2
+Gamlingen,Sjugul,Undirected,1
+Johannes,Sigurd,Undirected,5
+Johannes,Sjugul,Undirected,3
+Johannes,Knut,Undirected,2
+Granden,Johannes,Undirected,1
+Bakkegaard,Bjørnsrud,Undirected,1
+Erik,Johannes,Undirected,2
+Erik,rik,Undirected,1
+Erik,Per,Undirected,3
+Johannes,Sist,Undirected,1
+Sigurd,Sist,Undirected,1
+Knut,Lek,Undirected,1
+Felen,Knut Sve,Undirected,1
+Johannes,Knut Sve,Undirected,1
+Felen,jamle,Undirected,1
+Bjørkeløv,Felen,Undirected,1
+Marit,Thore,Undirected,17
+Gutten,Turid,Undirected,1
+Gutten,Thore,Undirected,1
+Aaja,Sjugul,Undirected,1
+Johannes,Thore,Undirected,4
+Gjertrud,Thore,Undirected,1
+Erik,Sigurd,Undirected,10
+Ane,Erik,Undirected,1
+Kjærringl,Sigurd,Undirected,1
+Grande,Kjærringl,Undirected,1
+Erik,bent,Undirected,2
+Erik,Gjertrud,Undirected,1
+Bakke,Sigurd,Undirected,1
+Sigurd,Sigurd K. Sve,Undirected,2
+Sigurd,bent,Undirected,1
+Hyss,hyss,Undirected,1
+Knut,hyss,Undirected,1
+Knut,Thore,Undirected,2
+Knut,Santhans,Undirected,1
+Kjelbottens,Santhans,Undirected,1
+Johannes,Kjelbottens,Undirected,1
+Bjørnsrud,Johannes,Undirected,1
+Bjørnsrud,Sigurd,Undirected,1
+Bjørn,Johannes Bjørnsrud,Undirected,1
+Johannes,Nils Skolemester,Undirected,1
+Havren,Johannes,Undirected,2
+Bjørn,Nils,Undirected,1
+Nils Skolemester,Norriges,Undirected,1
+Guds,Norriges,Undirected,1
+Bjørn,Marit,Undirected,3
+Johannes Bjørnsrud,Nils Skolemester,Undirected,1
+Niels Skolemester,Proprietær Bakke,Undirected,1
+Erik Høgreinen,Per Tejgen,Undirected,1
+Anders Myren,Johannes,Undirected,2
+Aker,Johannes,Undirected,1
+Ingrid,Turid,Undirected,2
+Johannes,Marit,Undirected,5
+Bjørn,Brit Haugen,Undirected,1
+Brit Haugen,Marit,Undirected,1
+Johannes,tyssed,Undirected,1
+Ingrid,tyssed,Undirected,1
+Bakke,Gutten,Undirected,1
+Thore,atpaa,Undirected,1
+Gut,Jenten,Undirected,1
+Jenten,Sigurd,Undirected,1
+Bakke,Jenten,Undirected,1
+Guds,Knut,Undirected,1
+Thore,kryt,Undirected,1
+Granden,Thore,Undirected,1
+Granden,iland,Undirected,1
+Halfpenny,Lorden,Undirected,1
+Johannes,Ljaer,Undirected,1
+Anders,Ljaer,Undirected,1
+Anders,Tunet,Undirected,1
+Johannes,Tunet,Undirected,1
+Anders,Johannes,Undirected,4
+Thore,William Longfield,Undirected,2
+Marit,jamred,Undirected,1
+Jente,Marit,Undirected,2
+Marit,Turid,Undirected,1
+Johannes Bjørnsrud,Kronaar,Undirected,1
+Erik,Kronaar,Undirected,1
+Per,pilted,Undirected,1
+Lensmands-Erik pilted,Per,Undirected,1
+Lensmands-Erik,Lensmands-Erik pilted,Undirected,1
+Johannes Bjørnsrud,Proprietær Bakke,Undirected,1
+Johannes Bjørnsrud,Turid,Undirected,1
+Bjørn,Turid,Undirected,1
+Godkveld,Turid,Undirected,1
+Jenten,Johannes,Undirected,1
+Johannes,Per,Undirected,1
+Erik,Rasmus,Undirected,1
+Haugen,Johannes,Undirected,1
+Haugen,Johannes Bjørnsrud,Undirected,1
+Johannes Bjørnsrud,Knut,Undirected,1
+Johannes,Johannes Bjørnsrud,Undirected,3
+Johannes,Rasmus,Undirected,2
+Ane Haugen,Gud,Undirected,1
+.Vlarit,Ane Haugen,Undirected,1
+Ane Haugen,bent,Undirected,1
+Lord,Thore,Undirected,1
+Thore,tuhel,Undirected,1
+Gud,Marit Gutten,Undirected,1
+Gud,Thore,Undirected,4
+Jertrud,jøje,Undirected,1
+Johannes,Turid rolig,Undirected,1
+A.tter,Jonsokros,Undirected,1
+Jonsokros,Mauren,Undirected,1
+Ola,Thore,Undirected,1
+Ola Fløtmand,Thore,Undirected,1
+Gut,Ola,Undirected,1
+Thore,bent,Undirected,2
+Th. Sewardson esq,bent,Undirected,1
+Jertrud,Knut,Undirected,3
+Age,Gamlingen,Undirected,1
+Age,Sigurd,Undirected,1
+Jertrud,Sigurd,Undirected,3
+Sigurd,ivold,Undirected,2
+Einer,Thore,Undirected,1
+Jertrud,Thore,Undirected,3
+Jertrud,baus,Undirected,1
+Thore,baus,Undirected,1
+Knut,sistpaa,Undirected,1
+Sigrid,sistpaa,Undirected,1
+Mr. Sewardson,Thore,Undirected,1
+Bjørn,Thore,Undirected,6
+Sigrid,Sigrid Sve,Undirected,1
+Bjørnsrud,Sigrid,Undirected,1
+Bjørnsrud,Ingrid,Undirected,1
+Grander,Ingrid,Undirected,1
+Grander,Johannes,Undirected,1
+Grandekone,Turid,Undirected,1
+Marit,Sigrid,Undirected,2
+Johannes,Sigrid,Undirected,3
+Sigrid,Turid,Undirected,1
+Naaja,Sigrid,Undirected,1
+Johannes,Stakkars,Undirected,1
+Jertrud,Stakkars,Undirected,1
+Gutten,Johannes,Undirected,1
+Hahahahal,Johannes,Undirected,1
+Johannes,voxte,Undirected,1
+Gammen,Marit,Undirected,1
+Gammen,Thore,Undirected,1
+Bjørn,bent,Undirected,1
+Karen,Knut,Undirected,1
+Jagu,Johannes,Undirected,1
+Hr. Bakke,Nemesis,Undirected,1
+Gut,Knut,Undirected,1
+Bakke,Knut,Undirected,1
+Knut,skoggerlo,Undirected,1
+Johannes,Rasmus Reiten,Undirected,1
+Kjelbottens,Marit,Undirected,1
+Broder,Hr. Bakke,Undirected,1
+Jertrud,Sigrid,Undirected,1
+Johannes Bjørnsrud,Sesaa,Undirected,1
+Erik,Gutten,Undirected,1
+Anders,Bakke,Undirected,2
+Anders,Per Høgreinen,Undirected,2
+Anders,Anders Myren,Undirected,1
+Marit,sistpaa,Undirected,1
+Thore,sistpaa,Undirected,1
+Jertrud,Sjugul,Undirected,1
+Knut haanlo,Sjugul,Undirected,1
+Knut haanlo,Sigrid,Undirected,1
+Johannes Bjørnsrud,Rasmus Reiten,Undirected,1
+Johannes Bjørnsrud,Rasmus,Undirected,1
+Johannes,signe,Undirected,1
+Rasmus,signe,Undirected,1
+Knut,Sigrid Sve,Undirected,1
+Gud,Marit,Undirected,1
+Haleluja,Thore,Undirected,2
+Haleluja,brandt,Undirected,2
+Johannes Bjørnsrud,Thore,Undirected,2
+Einer,Johannes Bjørnsrud,Undirected,1

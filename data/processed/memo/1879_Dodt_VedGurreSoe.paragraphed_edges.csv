@@ -1,0 +1,166 @@
+source,target,type,weight
+Charlotte Amalie,Struensees,Undirected,1
+Struensees,Vedelstrøm,Undirected,1
+Clara,Lectie,Undirected,1
+Lectie,Otto,Undirected,1
+Glente,Hjort,Undirected,1
+Clara,Otto,Undirected,54
+Clara,Gud,Undirected,9
+Jomfru Selma,Jomfru Søholm,Undirected,1
+Jomfru Selma,Otto,Undirected,9
+Otto,Storm,Undirected,1
+Clara,Storm,Undirected,2
+Geranier,Jomfru Selma,Undirected,1
+Clara,Selma,Undirected,9
+Otto,Selma,Undirected,15
+Gud,Otto,Undirected,13
+Gud,Jomfru Selma,Undirected,6
+Otto«,Selma,Undirected,1
+Clara«,Selma,Undirected,1
+Selma,ogClaras,Undirected,1
+Gud,ogClaras,Undirected,1
+Gud,Selma,Undirected,3
+Clara,Jomfru Selma,Undirected,2
+Clara,Soholm,Undirected,1
+Clara,Kong Valdemar,Undirected,2
+Gud,Kong Valdemar,Undirected,1
+Caroline Mathilde,Clara,Undirected,1
+Caroline Mathilde,Grev Struensee,Undirected,1
+Otto,Vedelstrøm,Undirected,4
+Lund,Otto,Undirected,3
+Clara,Struensee,Undirected,1
+Otto,Tovelille,Undirected,2
+Clara Lund,Tovelille,Undirected,1
+Clara Lund,Greven,Undirected,1
+Kong Valdemar,Otto,Undirected,1
+Otto,Tove,Undirected,2
+Eichfeldt,hiin,Undirected,1
+Eichfeldt,Gud,Undirected,5
+Grev Struensee,Gud,Undirected,1
+Eichfeldt,Otto,Undirected,23
+Maren Jørgensdatter,Otto,Undirected,1
+Maren Jørgensdatter,hiin,Undirected,1
+Otto,hiin,Undirected,1
+Eichfeldt,Otto leende,Undirected,1
+Axel Ovenstjemes,Eichfeldt,Undirected,1
+Axel Ovenstjemes,Otto,Undirected,1
+Eichfeldt,Karl,Undirected,1
+Otto Vedelstrøm,Verdenberg,Undirected,1
+Frøken Verdenberg,Otto,Undirected,9
+Eichfeldt,Frøken Verdenberg,Undirected,6
+Eichfeldt,Otto Vedelstrøm,Undirected,1
+Otto,Verdenberg,Undirected,3
+Grev Struensee,Otto,Undirected,4
+Cæsar,Otto,Undirected,1
+Eichfeldt,Kammeijunker,Undirected,1
+Eichfeldt,Verdenberg,Undirected,1
+Don Qvixot,Frøken Verdenberg,Undirected,1
+Otto,Vedelstrom,Undirected,2
+Alexanders,Frøken Verdenberg,Undirected,1
+Karl,Morten,Undirected,1
+Gud,Morten,Undirected,1
+Ane,Jens Svendsen,Undirected,1
+Morten,Otto,Undirected,3
+Bo,Otto,Undirected,1
+Verdenberg,sæi,Undirected,1
+Frøken Hedevig,Verdenberg,Undirected,1
+Frøken Hedevig,rosa,Undirected,1
+Gud,•j,Undirected,1
+Jomfru Selma,lian,Undirected,1
+Gud,lian,Undirected,1
+Gud,liun,Undirected,1
+Jomfru Selma,liun,Undirected,1
+Eiclrfeldt,Jomfru Selma,Undirected,1
+Candidat Sigurdsen,Otto,Undirected,1
+Candidat Sigurdsen,Sigurdsen,Undirected,1
+Clara,Grev Struensee,Undirected,1
+Otto,hnn,Undirected,2
+Madam Lund,Otto,Undirected,2
+Clara,Mutter,Undirected,2
+Gud,Madam Lund,Undirected,1
+Mutter,Otto,Undirected,3
+Gurre,Otto,Undirected,1
+Lund,Madam Lund,Undirected,1
+Otto,Revenfeldt,Undirected,1
+Clara,Revenfeldt,Undirected,1
+Clara,Jens Olsen,Undirected,1
+Clara,lian,Undirected,1
+Gud,Otto«,Undirected,1
+Ane,Morten,Undirected,1
+Ane,hans,Undirected,1
+Ane,Jomfru Selma,Undirected,1
+Otto,lille Clara,Undirected,1
+Clara Lund,Frøken Hedevig,Undirected,1
+Clara,Jomfru Lund,Undirected,1
+Jomfru Lund,Otto,Undirected,2
+Eichfeldt,Gurre,Undirected,1
+Grev Struensee,Otto«,Undirected,1
+Greven,Otto,Undirected,1
+Eichfeldt,Thomas«,Undirected,1
+Clara,Frøken Verdenberg,Undirected,1
+Hedevig,Jomfru Sten,Undirected,1
+Frøken Verdenberg,Hedevig,Undirected,1
+Clara,Eichfeldt,Undirected,6
+Clara,Druens,Undirected,1
+Hedevig,Otto,Undirected,4
+Clara«,Hedevig,Undirected,1
+Clara«,taug,Undirected,1
+Hedevig,Kong Valdemar,Undirected,1
+Tovelille,Valdemar,Undirected,1
+Frøken Verdenberg,Gurre,Undirected,1
+Hedevig,Scylla,Undirected,1
+Jomfru Clara,Otto,Undirected,1
+Clara,Tove,Undirected,1
+Clara«,Eichfeldt,Undirected,1
+Eichfeldt,Otto«,Undirected,1
+Frøken Verdenberg,Selma,Undirected,1
+Selma,liun,Undirected,1
+Clara,liun,Undirected,1
+Gud,Roes,Undirected,1
+Clara,Roes,Undirected,1
+Marie Antoinette,Otto,Undirected,1
+Eichfeldt,Zens,Undirected,1
+Pallas Athene,Zens,Undirected,1
+Eichfeldt,høist,Undirected,1
+Troels,høist,Undirected,1
+Monsieur Corfits,Troels,Undirected,1
+Damascus,Sarons,Undirected,1
+Damascus,Eichfeldt,Undirected,1
+Hedevig,Jomfru Selma,Undirected,1
+Clara,Otto«,Undirected,1
+Clara,Morten,Undirected,1
+Otto,Sigurdsen,Undirected,2
+Eichfeldt,har,Undirected,1
+Eichfeldt,Selma,Undirected,6
+Clara,Hedevig,Undirected,1
+Hedevig,Jomfru Lund,Undirected,2
+Selma,Vedelstrøm,Undirected,1
+Otto,Seirens,Undirected,1
+Frøken Verdenberg,Gud,Undirected,1
+Otto,Pastor Søholms,Undirected,1
+Otto«,hets,Undirected,1
+Tøilen,hets,Undirected,1
+Eichfeldt,Jomfru Lund,Undirected,1
+Clara,Sigurdsen,Undirected,1
+Eichfeldt,Sigurdsen,Undirected,3
+Pastor Søholms,Sigurdsen,Undirected,1
+Selma,Verdenberg,Undirected,1
+Eichfeldt,Jomfru Selma,Undirected,3
+Jomfru Selma,Selma,Undirected,3
+Eichfeldt,Mutter,Undirected,1
+Keiserens,Otto,Undirected,1
+Keiserens,Selma,Undirected,1
+Selma,Sigurdsen,Undirected,1
+Frøken Verdenberg,Jomfru Selma,Undirected,1
+Otto,Soholm,Undirected,1
+Selina,Soholm,Undirected,1
+Gud,Verdenberg,Undirected,2
+Jens,Karlens,Undirected,1
+Karlen,Karlens,Undirected,1
+Karlen,Otto,Undirected,1
+Otto,taug,Undirected,1
+Hjob,Jomfru Selma,Undirected,1
+Gud,Lund,Undirected,1
+Clara,Lund,Undirected,1
+Morten,livis,Undirected,1
+Otto Vedelstrom,Otto Vedelstrøm,Undirected,1

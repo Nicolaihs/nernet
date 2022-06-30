@@ -1,0 +1,30 @@
+source,target,type,weight
+lille Povl,lille Povls,Undirected,1
+Emma,Tavsen,Undirected,16
+Emma,Graad,Undirected,2
+Graad,Tavsen,Undirected,1
+Bedstemor,alf,Undirected,2
+Tavsen,Weiss,Undirected,13
+Karl,Tavsen,Undirected,2
+Assessor Weiss,Tavsen,Undirected,3
+Emma,Sirtses,Undirected,1
+Sirtses,Tavsen,Undirected,1
+Doktor Tavsens,Tavsen,Undirected,1
+Flun,Tavsen,Undirected,1
+Samum,Tavsen,Undirected,1
+Assessor Weiss,Samum,Undirected,1
+Emma,Raavad,Undirected,6
+Emma,Lille Povl,Undirected,2
+Raavad,Tavsen,Undirected,5
+Jurs,Raavad,Undirected,1
+Jiirs,Jurs,Undirected,1
+Jiirs,Raavad,Undirected,1
+Povl,Tavsen,Undirected,2
+Emma,lille Povl,Undirected,4
+Emma,Povl,Undirected,5
+Lille Povl,lille Povl,Undirected,1
+Raavad,lille Povl,Undirected,1
+Emma,Weiss,Undirected,2
+Gud,Raavad,Undirected,1
+Hys,dies,Undirected,1
+Raavad,ban,Undirected,1

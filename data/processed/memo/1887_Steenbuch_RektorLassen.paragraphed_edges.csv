@@ -1,0 +1,80 @@
+source,target,type,weight
+Hvid,Terain,Undirected,1
+Davidsen,Kunstdrejer Hansen,Undirected,1
+Konsul Hvids,R. L. Lassen,Undirected,1
+Hansen,R. L. Lassen,Undirected,1
+Davidsen,R. L. Lassen,Undirected,3
+L.,R. L.,Undirected,1
+Lassen,R. L.,Undirected,5
+Hvid,Margrethe,Undirected,1
+Jens Johansen Søndergaard,Margrethe,Undirected,1
+Hansen,L. Lassen,Undirected,1
+Hvid,Sondergaard,Undirected,2
+R. L. Lassen,Sondergaard,Undirected,1
+Lassen,Søndergaard,Undirected,4
+Guds,Lassen,Undirected,1
+Kunstdrejer Hansen,Søndergaard,Undirected,1
+Hvid,Søndergaard,Undirected,1
+Harald,Hvid,Undirected,1
+Bertha Søndergaard,Thyra,Undirected,1
+Ragnhild,Thyra,Undirected,3
+Lassen,Thyra,Undirected,1
+Lassen,Ragnhild,Undirected,1
+Davidsen,Søndergaard,Undirected,1
+Aron,Davidsen,Undirected,1
+Aron,Eli Davidsen,Undirected,1
+Aron Davidsen,Harald Lassen,Undirected,2
+Davidsen,Hanske,Undirected,1
+Hanske,Kidt,Undirected,1
+Jensen,Lassen,Undirected,1
+Kidt,Lassen,Undirected,1
+Drejer Hansens,Marie,Undirected,1
+Harald,Marie,Undirected,6
+Harald,Kunstdrejer Hansen,Undirected,1
+Eli,Søndergaard,Undirected,5
+Bertha,Eli,Undirected,12
+Bertha,Søndergaard,Undirected,8
+Aron,Petersen,Undirected,1
+Harald,Høri,Undirected,1
+Aron,Johnsen,Undirected,1
+Hvid,Lassen,Undirected,1
+Hansen,Lassen,Undirected,1
+Aron,Lassen,Undirected,1
+Aron,Davidsen raabe,Undirected,1
+Davidsen raabe,Tysi,Undirected,1
+Davidsen,Tysi,Undirected,1
+Eli Davidsen,Søndergaard,Undirected,2
+Eli,Harald,Undirected,3
+Eli,Harald Lassen,Undirected,1
+Bertha Søndergaard,Eli,Undirected,1
+Harald,Jensen,Undirected,1
+Harald,Harald Lassen,Undirected,2
+Harald,saa Jensen,Undirected,1
+Harald,Pasjaren,Undirected,1
+Hr. Jensen,Marie,Undirected,1
+Harald,Hr. Jensen,Undirected,2
+Hansen,Harald,Undirected,2
+Søndergaard,lille Margrethe,Undirected,1
+Faders,Marie,Undirected,1
+Hansen,Marie,Undirected,1
+Drejeren,Harald,Undirected,1
+Eli,Elil,Undirected,2
+Aron,Rosa,Undirected,1
+Hansen,Søndergaard,Undirected,1
+Bertha,Hansen,Undirected,1
+Davidsen,Harald Lassen,Undirected,1
+Kunstdrejer Hansen,Marie,Undirected,1
+Eli Davidsen,Hansen,Undirected,1
+Hansen,Harald Lassen,Undirected,1
+Anders Hvid,Aristocrat,Undirected,1
+Adiunct Lassen,Blaar,Undirected,1
+Adiuncten,Kunstdreier Hansen,Undirected,1
+Margrethe,Søndergaard,Undirected,1
+Margrethe,P.,Undirected,1
+Søndergaard,Takl,Undirected,1
+Søndergaard,tys,Undirected,1
+Hr. Søndergaards,Kunstdrejer Hansen,Undirected,1
+Hr. A. Davidsen,pharm. Jensen,Undirected,1
+Eli,Isak B. Davidsen,Undirected,1
+Isak B. Davidsen,Søndergaard,Undirected,1
+Hr. Jensen,Ragnhild,Undirected,1

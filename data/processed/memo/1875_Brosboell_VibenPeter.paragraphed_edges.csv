@@ -1,0 +1,666 @@
+source,target,type,weight
+Carsten Peter,Reimers,Undirected,1
+Carsten Peter,Reimer,Undirected,8
+Carsten,Reimer,Undirected,27
+Bartel,Carsten,Undirected,5
+Bartel,Johan,Undirected,1
+Johan,Reimer Grote,Undirected,2
+Carsten,Reimer Grote,Undirected,4
+Carsten,Carsten Peter,Undirected,5
+Carsten,Viben,Undirected,9
+Carsten,Ranne,Undirected,1
+Bartel,Viben,Undirected,44
+Bartel,Peter,Undirected,1
+Gud,Henrik,Undirected,3
+Carsten,Nanne,Undirected,10
+Nanne,Viben,Undirected,15
+Isemans,Viben,Undirected,1
+Carsten,Jseman,Undirected,2
+Carsten,hans,Undirected,1
+Henrik,Viben,Undirected,4
+Peter,Viben,Undirected,3
+Pintse,felv,Undirected,1
+Kong Hans,felv,Undirected,1
+Carsfen Peter,Kong Hans,Undirected,1
+Carsfen Peter,Reimer,Undirected,1
+Carsten,lybske,Undirected,1
+Carsten Peter,Reimer Grote,Undirected,6
+Carsten Peter,Voxlys,Undirected,1
+Voxlys,sorn,Undirected,1
+Carsten Peter,ilaas,Undirected,1
+Nanne,Reimer,Undirected,3
+Grote,Reimer,Undirected,5
+Carsten,Grote,Undirected,1
+Hargen Junge,Schuddinge Frenkz,Undirected,1
+Claeß,Hargen Junge,Undirected,1
+Boisen,Claeß,Undirected,1
+Boisen,Hargen,Undirected,1
+Frenkz,Hargen,Undirected,1
+Frenkz,hans,Undirected,1
+Henning,hans,Undirected,1
+Hargen,Henning,Undirected,2
+Hargen,sfal Hargen Junge,Undirected,1
+Boisen,sfal Hargen Junge,Undirected,1
+Boisen,Henning,Undirected,1
+Evermod,Henning,Undirected,2
+Hargen,Sone,Undirected,1
+Henning,Sone,Undirected,1
+Henning,Jomfru Maries,Undirected,2
+Gud,Henning,Undirected,2
+Carsten,Henning,Undirected,1
+Gørres Ratlov,Lentzahn,Undirected,1
+Futterkamp,Lentzahn,Undirected,1
+Futterkamp,Otto,Undirected,1
+Gørres Ratlov,Meldorf,Undirected,1
+Ditmarskerne,Meldorf,Undirected,1
+Ditmarskerne,Gørres,Undirected,1
+Gørres Ratlov,Kong Hans,Undirected,1
+Gørres Ratlov,Jørgen Slenzes,Undirected,1
+Jørgen Slenzes,sfal,Undirected,1
+Gudfader,sfal,Undirected,1
+Gud,Gudfader,Undirected,1
+Gørres,Ratlov,Undirected,5
+Gørres,felv,Undirected,1
+Gørres,Junker Kay,Undirected,1
+Kay,Peter,Undirected,2
+Peter,Reimer Grote,Undirected,2
+Hanne,Reimer Grote,Undirected,2
+Hanne,Peter,Undirected,1
+Reimer Grote,Viben,Undirected,10
+Hanne,Viben,Undirected,5
+Hanne,Reimer,Undirected,8
+Hanne,ogfaa,Undirected,1
+Buxbomgreen,Hanne,Undirected,1
+Junker,Kay,Undirected,1
+Junker Kay,Viben,Undirected,1
+Kay,Viben,Undirected,38
+Junkerens,Kay,Undirected,1
+Junkerens,Viben,Undirected,1
+Carsten Peter,Viben,Undirected,11
+Carsten,Merveds,Undirected,1
+Merveds,Nanne,Undirected,1
+Dilen,Merveds,Undirected,1
+Carsten,lille Tieze,Undirected,1
+lille Miecke,lille Tieze,Undirected,4
+lille Miecke,lille TieZe,Undirected,1
+Carsten,Hilfen,Undirected,1
+Viben,ogfaa,Undirected,1
+Merved,Nanne,Undirected,1
+Carsten,Gud,Undirected,1
+Carsten Peter,Gud,Undirected,1
+Ranne,Ratlov,Undirected,1
+Carsten,Ratlov,Undirected,1
+Junker Kap,Viben Peter,Undirected,1
+Peter,Viben Peter,Undirected,1
+Carsfen,Nanne,Undirected,1
+Peter,kjære Carsfen,Undirected,1
+Peter,Torneborch,Undirected,1
+Torneborch,Viben,Undirected,1
+Carsten itale,Reimer Grote,Undirected,1
+Carsten,Carsten itale,Undirected,1
+Carsten,sfal,Undirected,1
+Gørres Ratlov,Viben,Undirected,1
+Carsten Peter,Nanne,Undirected,1
+Junker,Tu,Undirected,1
+Tu,ogfaa,Undirected,1
+Tu,Viben,Undirected,6
+Viben,husf,Undirected,1
+Prior Augustinus Torneborch,husf,Undirected,1
+Kay led,ask,Undirected,1
+Giselaa,Viben,Undirected,1
+Viben,sorn,Undirected,1
+Meldorf,Tensbyttel,Undirected,1
+Tensbyttel,Viben,Undirected,1
+Detlefs,Maez,Undirected,1
+Detlefs,Mathias Røncke,Undirected,1
+Viben,schlag,Undirected,1
+Ditmarskerne,Gerhard,Undirected,2
+Ditmarskerne,Kong Hans,Undirected,1
+Frederik,Kong Hans,Undirected,1
+Frederik,Kong Frederik den Anden,Undirected,1
+Adolf,Kong Frederik den Anden,Undirected,1
+Adolf,Johan Rankzau,Undirected,1
+Johan Rankzau,graa,Undirected,1
+Anneke Eckmes,Viben,Undirected,1
+Viben,christne,Undirected,1
+Anneke,christne,Undirected,1
+Anneke,Tu,Undirected,2
+Anneke,Eckmes,Undirected,1
+Curt Videriks,Viben,Undirected,1
+Jerren,Jerren Silves,Undirected,2
+Jerren,Steen,Undirected,2
+Jerren Silves,ask,Undirected,1
+Curt,Curt Viderik,Undirected,1
+Curt,Jerren,Undirected,11
+Viben,Vibeu,Undirected,2
+Jan Gyge,Viben,Undirected,14
+Korfets,Viben,Undirected,1
+Ditmarskerens,Ratlov,Undirected,1
+Kay,ask,Undirected,1
+Junker,Viben,Undirected,2
+Gørres,Peter,Undirected,2
+Kay,Ter,Undirected,1
+Beate,Rumor,Undirected,1
+Jesu,Schak,Undirected,1
+Beate,Schak,Undirected,1
+Nine,Viben,Undirected,1
+Beate,Kap,Undirected,1
+Gørres,Lille Beate,Undirected,1
+Beate,Kay,Undirected,30
+Gørres,Kay,Undirected,2
+Beate,Gprres,Undirected,3
+Beate,Viben,Undirected,22
+Gørres,Viben,Undirected,5
+Beate,Gørres Ratlov,Undirected,1
+Beate,Kay Viben,Undirected,1
+Bremer-Sandsteen,Ratlov,Undirected,1
+Gyge,Jan Gyge,Undirected,2
+Jan Gyge,Kay,Undirected,5
+Gyge,Kay,Undirected,2
+Gyge,felv,Undirected,1
+Gyge,Junker,Undirected,2
+Gyge,Junker Slenz,Undirected,1
+Jans,Kay,Undirected,1
+Gyge,Jans,Undirected,1
+Beate,Gyge,Undirected,2
+Dolkens,Jan Gyge,Undirected,1
+Jan,Jan Gyge,Undirected,5
+Gyge,Jan,Undirected,1
+Ditmarsker,Junker,Undirected,1
+Jan,Kay,Undirected,5
+Kay,Ratlov,Undirected,2
+Beate,Jan Gyge,Undirected,4
+Gørres,Wisch,Undirected,1
+Pater Augustinus,Wisch,Undirected,1
+Ellene,Viben,Undirected,1
+Kay,Merved,Undirected,1
+Beate,Merved,Undirected,4
+Beate,Gørres,Undirected,11
+Beate,Kyndelmisse,Undirected,1
+Kay,Kyndelmisse,Undirected,1
+Meldorsk,Viben,Undirected,1
+Kay,Meldorsk,Undirected,1
+Beate,nn,Undirected,1
+Viben,nn,Undirected,1
+Beate,Graad,Undirected,1
+Asfe,Karle,Undirected,1
+Karle,Rolands,Undirected,1
+Kolster,Roland,Undirected,2
+Hesfe,Jan Gyge,Undirected,1
+Hesfe,Jan,Undirected,1
+Hesfene,Jan,Undirected,1
+Ditmarsker,Hesfene,Undirected,1
+Ditmarsker,VolfJsebrandts,Undirected,1
+Jan Gyge,Kaarde,Undirected,1
+Jan,Roland,Undirected,1
+Beate,Jan,Undirected,2
+Jan,Viben,Undirected,19
+Brysf,Jan,Undirected,1
+Jan,Seirens,Undirected,1
+Jan Gyge,Seirens,Undirected,1
+Gyge,Viben,Undirected,1
+Jan Gyge,Pater Augustinus,Undirected,2
+Augustinus,Viben,Undirected,12
+Auguslinus,Gørres,Undirected,1
+Auguslinus,Viben,Undirected,1
+Auguslinus,Augustinus,Undirected,1
+Augustinus,Beate,Undirected,1
+Boje,Carsten Peter,Undirected,2
+Viben,Vindbergens,Undirected,1
+Carsten Peter,Tedes,Undirected,1
+Beate,Tedes,Undirected,1
+Pater Augustinus,Viben,Undirected,1
+Maria,Pater Augustinus,Undirected,1
+Maria,Sanct Georg,Undirected,1
+Sanct Georg,Sanct Valentin,Undirected,1
+Beate,Sanct Valentin,Undirected,1
+Henrik Møller,Luther,Undirected,1
+Filip Melanchton,Luther,Undirected,1
+Filip Melanchton,ifjor,Undirected,1
+Prioren,Viben,Undirected,1
+Beate,Prioren,Undirected,1
+Augustinus,Prioren,Undirected,1
+Anasfasius,Viben,Undirected,1
+Prior Augustinus,øgsaa,Undirected,1
+Jan Gyge,Prior Augustinus,Undirected,1
+Jan Gyge,Jomfru Beate,Undirected,1
+Kap,as,Undirected,1
+Viben,as,Undirected,1
+Kay,Marehalm,Undirected,1
+Beate,Hnn,Undirected,2
+Hnn,Viben,Undirected,2
+Graad,Kay,Undirected,1
+Juul,Mortensdag,Undirected,1
+Beate,fmuk,Undirected,1
+Kay,fmuk,Undirected,1
+Mosters,Viben,Undirected,1
+Gud,Kay,Undirected,1
+Kirkegaard,Ratlov,Undirected,1
+Ratlov,Viben,Undirected,7
+.,Viben,Undirected,1
+.,Beate,Undirected,1
+Fætters,Gørres Ratlov,Undirected,1
+Maria,Viben,Undirected,1
+Frederik,Ratlov,Undirected,2
+Frederik,d. Wisch,Undirected,1
+Gørres Ratlov,d. Wisch,Undirected,1
+Frederik,Gørres Ratlov,Undirected,1
+Frederik,Gørres,Undirected,1
+Kay Viben,Ratlov,Undirected,1
+Gørres,Kay Viben,Undirected,1
+Fredrik,Gørres,Undirected,2
+Kong Frederik,Viben,Undirected,5
+Gørres,v. d. Wisch,Undirected,1
+Kay,Kong Frederik,Undirected,1
+Viben,fabt,Undirected,1
+Kong Frederik,fabt,Undirected,1
+Ten,Viben,Undirected,2
+Viben,hnn,Undirected,2
+Frederik,Viben,Undirected,4
+Frederik,Vesf,Undirected,1
+Frederik,v. d. Wisch,Undirected,1
+Viben,ilaas,Undirected,2
+Anders,Pater,Undirected,1
+Prior Augustinus Torneborch,Regine Ahlefeld,Undirected,1
+Beate,Euseb,Undirected,1
+Beate,Ratlov,Undirected,4
+Jomfru Beate,Povisch ivold,Undirected,1
+Viben,Øreyg,Undirected,1
+Jodeken,Øreyg,Undirected,1
+Anders iland,Jodeken,Undirected,1
+Anders iland,Beate,Undirected,1
+Gørres,Jan Gyge,Undirected,1
+Agnete,Beate,Undirected,1
+Agnete,Lcengsel,Undirected,1
+Lcengsel,graa,Undirected,1
+Almisse,Ratlov,Undirected,1
+Gørres Ratlov,Povisch,Undirected,1
+Beate,ilaas,Undirected,2
+Gørres,Povisch,Undirected,1
+Jomfru Regine Ahlefelds,Povisch,Undirected,1
+Beate,Jomfru Regine Ahlefelds,Undirected,1
+,Almisse,Undirected,1
+Beate,Povisch,Undirected,5
+Beate,Gud,Undirected,2
+Beate,Beate Gertrud Rumor,Undirected,1
+Gunneke Helvig Rumor,Heinrich Breide Rumor,Undirected,1
+Gunneke Helvig Rumor,as,Undirected,1
+Gud,felv,Undirected,1
+Heinrichs,felv,Undirected,1
+Gunnekes,Heinrichs,Undirected,1
+Gunnekes,Regine Ahlefeld,Undirected,1
+Regine Ahlefeld,Wsken,Undirected,1
+Beate,Wsken,Undirected,1
+Allandsens,Asmus,Undirected,1
+Jesu,Povitz,Undirected,1
+Beate,Jesu,Undirected,1
+Frants,Isak,Undirected,1
+Arved,Beate,Undirected,1
+Gørres,lille Beate,Undirected,1
+Gørres,Merved,Undirected,1
+Beate,Rønnovs,Undirected,1
+.,rres,Undirected,1
+Povisch,rres,Undirected,1
+Beate,Klaus Ahlefeld,Undirected,1
+Klaus Ahlefeld,Marqvard Rønnov,Undirected,1
+Beate,Tu,Undirected,2
+Beate,Prior Augustinus,Undirected,1
+Prior Augustinus,Rønnov,Undirected,1
+Ahlefeld,Rønnov,Undirected,1
+Augustinus,ester,Undirected,1
+Peter,ester,Undirected,1
+Munk,Viben,Undirected,1
+Jødeken,Viben,Undirected,1
+Augustinus,Jødeken,Undirected,1
+Boje,Henrik Zytphen,Undirected,1
+Boje,sidsf,Undirected,1
+Henrik,sidsf,Undirected,1
+Beate,Marqvard Rønnov,Undirected,1
+Ahlefeld,Gud,Undirected,1
+Ahlefeld,Viben,Undirected,3
+Marqvard Nønnov,Tu,Undirected,1
+Beate,Marqvard,Undirected,1
+Beate,Peter,Undirected,2
+Marqvard,Viben,Undirected,1
+Junker Ahlefeld,Viben,Undirected,2
+Junker Ahlefeld,Nicolaus Boje,Undirected,1
+Nicolaus Boje,Vicar,Undirected,1
+Henrik,Vicar,Undirected,1
+Tue,Viben,Undirected,1
+Hans Ahlefeld,Tue,Undirected,1
+Hans Ahlefeld,Tylft,Undirected,1
+Claus Ahlefeld,Viben,Undirected,1
+Bartel,Jomfru Beate,Undirected,1
+Claus,Junker,Undirected,2
+Bartel,Michaeli,Undirected,1
+Bartel,Hanne,Undirected,11
+Bartel,Jan Gyge,Undirected,2
+Gørres,Jan,Undirected,1
+Henrik,Spies,Undirected,1
+Prior Augustinus,Spies,Undirected,1
+Gynther,Prior Augustinus,Undirected,1
+Gynther,Henrik,Undirected,1
+Henrik,Keiserens,Undirected,1
+Keiserens,Mynster,Undirected,1
+Boje,Mynster,Undirected,1
+Boje,Henrik,Undirected,3
+Augustinus,Henrik,Undirected,3
+Augustinus,Peter Nanne,Undirected,1
+Peter Nanne,Peter Schwien,Undirected,1
+Claus Rohde,Peter Schwien,Undirected,2
+Nanne,Peter Schwien,Undirected,3
+Augustinus,Nanne,Undirected,1
+Augustinus,Henrik Zytphen,Undirected,3
+Henrik,Henrik Zytphen,Undirected,2
+Bartel,Jomfru Rumors,Undirected,1
+Henrik Zptphen,Jomfru Rumors,Undirected,1
+Boje,Henrik Zptphen,Undirected,1
+Bartel,Nanne,Undirected,3
+Bartel,Javisf,Undirected,1
+Carsten Peter,Peter Nanne,Undirected,1
+Carsten Peter,Reis,Undirected,1
+Bartel,Jan,Undirected,1
+Jan,Merved,Undirected,1
+Merved,Viben,Undirected,1
+Ditmarsken,Viben,Undirected,1
+Ditmarsken,Meldorf,Undirected,1
+Beate,Fru Merved,Undirected,1
+Fru Merved,Viben,Undirected,2
+Jan Gyge,Ratlov,Undirected,1
+Jan.,Viben,Undirected,2
+Spedalskes,Viben,Undirected,1
+Jan Gyge,ivare,Undirected,1
+Junge Martens Scherer,Martens,Undirected,1
+Martens,Prior Augustinus,Undirected,1
+Meldorf,Viben,Undirected,3
+Bartel,Meldorf,Undirected,1
+Viben,fil,Undirected,1
+Bartel,Carsten Peter,Undirected,1
+Bartel,Henrik,Undirected,5
+Ave Maria,Carsten,Undirected,1
+Ave Maria,Bartel,Undirected,1
+Gud,Viben,Undirected,4
+Claus Ahlefeld,fom,Undirected,1
+Henrik Zytphen,Jomfru Rumor,Undirected,1
+Gud,Jomfru Rumor,Undirected,1
+Ahlefeld,Bartel,Undirected,1
+Bartel,Steen,Undirected,3
+Carsten Peter,Henrik,Undirected,1
+Ahlefeld,hans Svend,Undirected,1
+Claus,hans Svend,Undirected,1
+Junker Claus,Meldorf,Undirected,1
+Bartel,Junker Claus,Undirected,1
+Claus Ahlefeldt,Viben,Undirected,1
+Henrik,Seir,Undirected,2
+Bom,Viben,Undirected,1
+Ahlefeld,Svend,Undirected,1
+Bartel,Reimer Grote,Undirected,4
+Pavel Seke,Reimer Grote,Undirected,1
+Bartel,Pavel,Undirected,2
+Pavel,Reimer,Undirected,3
+Bartel,Peters Bartel,Undirected,1
+Peter Schwien,Peters Bartel,Undirected,1
+Carsten Peter,Peter Schwien,Undirected,1
+Claes Spergens,Pavel,Undirected,1
+Carsten,Pavel,Undirected,1
+Bartel,ivold,Undirected,1
+Jan Gyge,Peter Schwien,Undirected,1
+Carsten,Peter Schwien,Undirected,1
+Bartel,Henrik Zytphen,Undirected,2
+Henrik Zytphen,Viben,Undirected,2
+Claus,Peter Schwien,Undirected,1
+Pavel Seke,Peter Schwien,Undirected,2
+Peter Schwien,floges,Undirected,1
+Dreyg,Viben,Undirected,2
+Ahlefeld,Gørres,Undirected,1
+Ratlov,Tu,Undirected,1
+Beate,Henrik Zytphen,Undirected,2
+Ahlefeld,Henrik Zytphen,Undirected,1
+Ahlefeld,Henrik,Undirected,1
+Beate,Seir,Undirected,1
+Beate,Henrik,Undirected,2
+Bartel,Gørres,Undirected,1
+Jan Gyge,Koffen,Undirected,1
+Ahlefeld,Koffen,Undirected,1
+Jan,Tu,Undirected,1
+Henrik,Nicolaus Boje,Undirected,2
+Henrik,Prior Augustinus,Undirected,1
+Augustinus,Krønnikeskriveren,Undirected,1
+Henrik,Krønnikeskriveren,Undirected,1
+Henrik,Mariæ,Undirected,1
+Mariæ,Peter Nanne,Undirected,1
+Peter Nanne,Prior Augustinus,Undirected,1
+Augu stinus,Prior Augustinus,Undirected,1
+Augu stinus,Henrik Zytphen,Undirected,1
+Angustinus,Henrik,Undirected,2
+Henrik,Prior,Undirected,1
+Angustinus,Prior,Undirected,1
+Henrik Zytphen,Johan,Undirected,1
+Johan,Valke,Undirected,1
+Augustinus,Gud,Undirected,1
+Gud,Maria,Undirected,1
+Henrik,Valke,Undirected,1
+Augustinus,Valke,Undirected,1
+Valke Johan,Viben,Undirected,1
+Balke Johan,iveiret,Undirected,1
+Henrik,iveiret,Undirected,1
+Augustinus,Raldeners,Undirected,1
+Augustinus,Vibe Junge,Undirected,1
+Peter Nanne,Vibe Junge,Undirected,1
+Boje,Peter Nanne,Undirected,1
+Mishagsraab,Vibe Junge,Undirected,1
+Vibe Junge,Viben,Undirected,2
+Henrik,Reimer Hozekens,Undirected,1
+Augustinus,Reimer Hozekens,Undirected,1
+Augustinus,Carsten Peter,Undirected,1
+Bartel,Peter Schwien,Undirected,1
+Nanne,Peter,Undirected,1
+Morten Luther,Van Broder Henrico in Dytmarschen vorbrent,Undirected,1
+V. d.,Wisch,Undirected,1
+Ditmarskerne,Wisch,Undirected,1
+Gud,Keller,Undirected,1
+Claus Ahlefeld,Gud,Undirected,1
+Claus Ahlefeld,Keller,Undirected,1
+Beate,Heide,Undirected,2
+Beate,v. d. Wifch,Undirected,1
+Jan,Viben Peter,Undirected,1
+Karl,Peter,Undirected,1
+Ditmarsker,Jomfru Rumor,Undirected,1
+Jomfru Rumor,Junker Kay,Undirected,1
+Junker Ahlefeld,Junker Kay,Undirected,1
+Viben,felv,Undirected,1
+Karl,Viben,Undirected,2
+Jomfru Beate,Viben,Undirected,1
+Ahlefeld,flog Jan Gyge,Undirected,1
+Jan,Ratlov,Undirected,2
+Ahleselb,Jan,Undirected,1
+Ahleselb,Junker,Undirected,1
+Claus,Karl,Undirected,1
+Ditlev Vasmer,Gørres,Undirected,1
+.,Jan Gyge,Undirected,1
+Junker Ahleseld,Viben,Undirected,1
+Henrik Zytphen,Junker Ahleseld,Undirected,1
+Henrik Zytphen,Jan,Undirected,1
+Claus,Jan Gyge,Undirected,1
+Claus,lille Beate,Undirected,1
+lille Beate,lille Merved,Undirected,1
+Beate,Junker Ahlefeld,Undirected,1
+Moster Regines,Viben,Undirected,2
+Træl,Viben,Undirected,1
+Gørres,lille Peter,Undirected,1
+Carsten Peter,Ratlov,Undirected,1
+Boje,Prior Augustinus,Undirected,1
+Augustinus,Luther,Undirected,1
+Reimer,Viben,Undirected,11
+Bartel,soran,Undirected,1
+Bartel,Kay,Undirected,1
+Kay,Reimer Grote,Undirected,1
+Bartel,Reimer,Undirected,3
+Bartel,Gud,Undirected,2
+Gud,Hanne,Undirected,1
+Delf,Hanne,Undirected,2
+Delf,sial,Undirected,1
+Bartel,Skipper Dels,Undirected,1
+Carsten Peter,Skipper Dels,Undirected,1
+Carsten Peter,Roland,Undirected,1
+Reimer,Roland,Undirected,1
+Reimer,Ulvs,Undirected,1
+Carsten,Ulvs,Undirected,1
+Brunsviger,Carsten,Undirected,1
+Hanne,sfal,Undirected,1
+Bartel,sfal,Undirected,2
+Johan,Viben,Undirected,2
+Carsten,Johan,Undirected,1
+Bartel,Grote,Undirected,2
+Grote,Viben,Undirected,1
+Carsten,Ties,Undirected,1
+Ties,Viben,Undirected,2
+Mari Zitgen,Viben,Undirected,1
+Jseman,Mari Zitgen,Undirected,1
+Jseman,Mari,Undirected,1
+Carsten Peter,Mari,Undirected,2
+Mari,Reimer Grote,Undirected,1
+Carsten,Mari,Undirected,2
+Mari,Reimer,Undirected,2
+Mari,Nanne,Undirected,6
+Carsten Peter,ester,Undirected,1
+Johan,Nanne,Undirected,1
+Nicolaus Boje,Reimer Grote,Undirected,1
+Nanne,Steen,Undirected,1
+Carsfen Peter,Nanne,Undirected,1
+Carsten Peter,Mari Reimers,Undirected,1
+Gud,Mari,Undirected,1
+Reimer,Reimer Grote,Undirected,1
+Reimer,Viben Peter,Undirected,1
+Viben,Viben Peter,Undirected,3
+Bartel,Delf,Undirected,1
+Carsten,Peter,Undirected,3
+Viben,taalmodig,Undirected,1
+Reimer,taalmodig,Undirected,1
+Markus Hebeken Blefs,Viben,Undirected,1
+Borg,Markus Hebeken,Undirected,1
+Markus,Ties,Undirected,1
+Reimer Grote,Ties,Undirected,1
+Reimer,Ties,Undirected,1
+Gud,Reimer Grote,Undirected,1
+Henrik Zytphen,Pavel Seke,Undirected,1
+Viben,fom,Undirected,2
+Bartel,huul,Undirected,1
+Reimer Grete,Viben,Undirected,1
+Bartel,Viben Peter,Undirected,1
+Havgusen,Viben,Undirected,1
+Bartel,Havgusen,Undirected,1
+Meldorf,Reimer,Undirected,1
+Bartel,Karle,Undirected,1
+Gynther,Reimer GrM,Undirected,1
+Gynther,Viben,Undirected,3
+Curt Viderik,Jerren Selves,Undirected,1
+Gynther,Reimer,Undirected,1
+Henrik Zytphen,Prior Augustinus,Undirected,1
+Luther,Prior Augustinus,Undirected,1
+Angustinus,Luther,Undirected,1
+Reimer,Steen,Undirected,1
+Claus Grote,Reimer,Undirected,1
+Jerren Selves,Reimer,Undirected,1
+Jerren Selves,Steen,Undirected,1
+Carsten Peter,Peter,Undirected,1
+Oxe,Viben,Undirected,1
+Oxe,Pavel Seke,Undirected,1
+Pavel Seke,Viben,Undirected,8
+Pavel,Viben,Undirected,9
+Gud,Reimer,Undirected,1
+Gynther,Reimer Grote,Undirected,1
+Oxen,Pavel Seke,Undirected,1
+Pavel,Peter,Undirected,1
+Gynther,Pavel,Undirected,2
+Gud,Volf Harpyt,Undirected,1
+Ditmarsken,Pavel Seke,Undirected,1
+Carsten Peter,Heide,Undirected,1
+Jost Jerremen,Luther,Undirected,1
+Hesfe,Reimer Grote,Undirected,2
+Garre,Hesfe,Undirected,1
+Carsten Peter,Telse,Undirected,2
+Biben,Peter,Undirected,1
+Bast,Peter,Undirected,1
+Røsfen,Viben,Undirected,1
+Frants,Røsfen,Undirected,1
+Frants,Viben,Undirected,1
+Jerremen,Peter,Undirected,1
+Dilen,Jerremen,Undirected,1
+Jerremen,Viben,Undirected,2
+Jost Jerremen,Viben,Undirected,1
+Beate,Pavel,Undirected,2
+Pavel,Sekes,Undirected,1
+Sekes,Viben,Undirected,1
+Gynther,Johan,Undirected,1
+Gud,Johan,Undirected,2
+Jesu,Pavel,Undirected,1
+Beate,Deltagelfe,Undirected,2
+Ratlov,Volf Hargens,Undirected,1
+Ditmarsken,Viben Peter,Undirected,1
+Adolf,Ditmarsken,Undirected,1
+Adolf,Viben,Undirected,1
+Keiser Karl den Femte,Viben,Undirected,1
+Jacobs,Viben,Undirected,2
+Raven Claesses,Viben,Undirected,1
+Borg,Raven Claesses,Undirected,1
+Borg,Viben,Undirected,1
+Dik,Pavel Seke,Undirected,2
+Maes Frents,Pavel Seke,Undirected,1
+Frents,Maes,Undirected,3
+Frents,Viben,Undirected,1
+Dik,Maes Frents,Undirected,3
+Ralfs,Viben,Undirected,1
+Jasaa,Ralfs,Undirected,1
+Gud,Jasaa,Undirected,1
+Gud,Lazarus,Undirected,1
+Maes,Maes Frents,Undirected,1
+Frents,Maes Frents,Undirected,1
+Maes Frents,Peter,Undirected,1
+Peter,Tik,Undirected,1
+Dik,Pavel,Undirected,4
+Jesu,Tu,Undirected,1
+Jesu,lille Maes,Undirected,1
+Frents,lille Maes,Undirected,1
+Pavel,sfal,Undirected,1
+Dcek,lille Maes,Undirected,1
+Pavel,Pavel Seke,Undirected,1
+Ol,Pavel,Undirected,1
+Heide,Pavel,Undirected,1
+Heide,Pavel Seke,Undirected,1
+Oxe,Pavel,Undirected,1
+Oxen,Pavel,Undirected,4
+Pavel,Reimer Grote,Undirected,1
+Oxen,Viben,Undirected,1
+Jan,hani,Undirected,2
+Hans Pommerink,Peter,Undirected,1
+Arved Povisch,Viben,Undirected,1
+Arved Povisch,Regine,Undirected,1
+Regine,Viben,Undirected,1
+Peter,Povisch,Undirected,1
+Beate,sfal,Undirected,1
+Povisch,Tu,Undirected,1
+Povisch,Ratlov,Undirected,1
+Ratlov,Regine,Undirected,1
+Gud,Regine,Undirected,1
+Gud,Peter,Undirected,1
+Beate,Mørkef,Undirected,1
+Johan tilligemed,Viben,Undirected,1
+Joachim,Johan tilligemed,Undirected,1
+Joachim,Lyders,Undirected,1
+Beate,Lyders,Undirected,1
+Peter,isaafald,Undirected,1
+Claus,Viben Peter,Undirected,1
+Claus,Peter,Undirected,1
+Carsten Peter,Johan,Undirected,1
+Erik,Mikkels,Undirected,1
+Ditmarskerne,Erik,Undirected,1
+Ditmarskerne,Viben,Undirected,1
+Joachim,Viben,Undirected,1
+Heide,Viben Peter,Undirected,1
+Heide,Viben,Undirected,1
+Frederik den,Viben,Undirected,1
+Frederik den,Reimer,Undirected,1
+Bartel,Heide,Undirected,1
+Heide,Meldorf,Undirected,1
+Meldorf,Peter,Undirected,1

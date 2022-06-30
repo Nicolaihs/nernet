@@ -1,0 +1,74 @@
+source,target,type,weight
+Athene,Pallas,Undirected,1
+Gud,Jensens,Undirected,1
+Berner,Gabriel Berner,Undirected,1
+Berner,Betty Corning,Undirected,1
+Betty Corning,Meyers,Undirected,1
+Berner,Mary,Undirected,13
+Berner,Frk. Corning,Undirected,2
+Berner,blaagraa,Undirected,1
+Cornings,Gabriel Berner,Undirected,1
+Berner,ban,Undirected,3
+Berner,Bettys,Undirected,1
+Berner,Betty,Undirected,25
+Betty,Gud,Undirected,2
+Betty,Ida,Undirected,1
+Berner,paany,Undirected,1
+Gabriel,Mama,Undirected,1
+Berner,Mary Heller,Undirected,1
+Anker,Mary Heller,Undirected,1
+Anker,Berner,Undirected,30
+Berner,Flora,Undirected,4
+Berner,Bernes,Undirected,1
+Anker,Bernes,Undirected,1
+Anker,Flora,Undirected,1
+Flora,bon ton,Undirected,1
+Frk.,bon ton,Undirected,1
+Anker,Mark Twains,Undirected,1
+Anker,Cornings,Undirected,1
+Gud,Mary,Undirected,1
+Anker,Corning,Undirected,3
+Anker,Frk.,Undirected,1
+Corning,nient,Undirected,1
+Berner,ning,Undirected,1
+Frk. Hellers,Mary,Undirected,1
+Berner,eds,Undirected,2
+Berner,plud-,Undirected,1
+Berner,Hellers,Undirected,1
+Betty,Hellers,Undirected,1
+Betty,rens,Undirected,1
+Berner,liun,Undirected,1
+Berner,dereftei,Undirected,1
+Betty,siettere,Undirected,1
+Betty,ning,Undirected,1
+Berner,Gabriel,Undirected,1
+Berner,Corning,Undirected,4
+Berner,Tante Flora,Undirected,1
+Gud,Ida,Undirected,3
+Berner,Ida,Undirected,1
+Charles Bram-,Ida,Undirected,1
+Charles,Charles Bram-,Undirected,1
+Charles,Christiane Møller,Undirected,1
+Charles,Flora,Undirected,1
+Berner,Charles,Undirected,3
+Anker,Betty,Undirected,1
+Anker,Mary,Undirected,3
+Berner,ai,Undirected,1
+Berner,lian,Undirected,2
+Charles,Corning,Undirected,1
+Corning,Verlin,Undirected,1
+Berner,Verlin,Undirected,1
+lian,ner,Undirected,1
+ban,plud-,Undirected,1
+Anker,plud-,Undirected,1
+Anker,Hei-,Undirected,1
+Hei-,berg,Undirected,1
+Hammel,Marry,Undirected,1
+Berner,Hammel,Undirected,2
+Christine,Johanne,Undirected,1
+Gud,Johanne,Undirected,1
+Schrøder,Verlin,Undirected,1
+Anker,fox’,Undirected,1
+Berner,Jochumsen,Undirected,1
+Frederik den syvende,Kong      ,Undirected,2
+Berner,Hagen,Undirected,1

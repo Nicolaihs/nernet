@@ -1,0 +1,101 @@
+source,target,type,weight
+Olaf,Olafs,Undirected,1
+Olaf,Olaf Holm,Undirected,2
+Marie,Olaf,Undirected,15
+Anker,Olaf,Undirected,1
+Henriksen,Olaf,Undirected,14
+Erik,Olaf,Undirected,1
+Lectierne,Rahben,Undirected,1
+Olaf,Rahben,Undirected,1
+Amy,Olaf,Undirected,8
+Amy,Barner,Undirected,2
+Barner,Olaf,Undirected,5
+Olaf,knudret,Undirected,1
+Eva Vimmer,Henrik Vimmer,Undirected,1
+Milla,Vimmer,Undirected,3
+Cederstrøm,Ingeborg,Undirected,1
+Cederstrøm,Karl »,Undirected,1
+Olaf,Vimmer,Undirected,4
+Holm,Olaf bode,Undirected,1
+Hr. Holm,Olaf bode,Undirected,1
+Hr. Holm,Olaf,Undirected,1
+Milla,Olaf,Undirected,71
+Milla,Plejl,Undirected,7
+Olaf,Plejl,Undirected,4
+Milla Vimmer,Olaf,Undirected,2
+Milla,P'ra,Undirected,1
+Milla,boquet,Undirected,1
+Beethoven,Schumann,Undirected,1
+Milla,Rikke,Undirected,1
+Bangs,Ella Bang,Undirected,1
+Bangs,Ella,Undirected,1
+Bang,Ella,Undirected,1
+Bang,Gud,Undirected,1
+Gud,Milla,Undirected,10
+Ella,Milla,Undirected,2
+Holm,Milla,Undirected,5
+Hanne,Larsen,Undirected,1
+Olaf,Sigar,Undirected,1
+Amy,Sigar,Undirected,1
+Gud,Olaf,Undirected,3
+Emma,Milla,Undirected,1
+Emma,Hansen,Undirected,1
+Hansen,Milla,Undirected,1
+Graad,Olaf,Undirected,1
+Bang,Milla pines,Undirected,1
+Ella,Ella Bang,Undirected,1
+Plejl,Vimmer,Undirected,1
+Maren,Plejl,Undirected,2
+Maren,Milla,Undirected,2
+Maren,Olaf,Undirected,1
+Gud,Plejl,Undirected,1
+Barner,Milla,Undirected,3
+Line Lobedans,Vessel,Undirected,1
+Diogenes,Olaf,Undirected,1
+Richard,Vimmer,Undirected,1
+Emma,Emma Jørgensen,Undirected,1
+Olaf,P'ruen,Undirected,1
+Marie,Milla,Undirected,8
+Amy,Milla,Undirected,3
+Jørgensen,Olaf,Undirected,1
+Henriksen,Milla,Undirected,3
+Don Juan-Skikkelse,Milla,Undirected,1
+Don Juan-Skikkelse,Zerline,Undirected,1
+Milla,Zerline,Undirected,1
+Don Juan,Sigaren,Undirected,1
+Axel,Milla,Undirected,11
+Axel,Olaf,Undirected,11
+Hagen,Milla,Undirected,1
+Hagen,Olaf,Undirected,1
+Bodil,Marie,Undirected,1
+Bodil,Olaf,Undirected,2
+Axel,Bodil,Undirected,1
+Bodil,Milla,Undirected,1
+Axel,Marie,Undirected,2
+Gud,véd,Undirected,1
+Lund,Milla,Undirected,1
+Milla,ban,Undirected,1
+Amy,Axel,Undirected,3
+Milla,sone,Undirected,1
+Byhlau,lille Bodil,Undirected,1
+Gud,Pastor Byhlau,Undirected,1
+Byhlau,Kristo »,Undirected,1
+Eva,Frelsers,Undirected,1
+Per,Poul,Undirected,1
+Axel,Byhlau,Undirected,1
+Byhlau,Milla,Undirected,2
+Jespersen,Milla,Undirected,1
+Axel,Vimmer,Undirected,1
+Milla,Wessel,Undirected,1
+Børre Lorentsens,Wessel,Undirected,1
+Lund,Olaf,Undirected,1
+Gud,Per Persen,Undirected,1
+Mads Madsen,Per Persen,Undirected,1
+Mads Madsen,Søren,Undirected,1
+Henriksen,Marie,Undirected,2
+Bedstes,Olaf,Undirected,1
+Henriksen,Mon Henriksen,Undirected,1
+Henriksen,Olaf Holm,Undirected,2
+Evropas,Henriksen,Undirected,1
+Henriksen,Nemesis,Undirected,1
+Gjedser,Olaf,Undirected,1

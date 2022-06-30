@@ -1,0 +1,138 @@
+source,target,type,weight
+Damasfes,Ploug,Undirected,1
+Brandes,Ploug,Undirected,1
+Brandes,Damasfes,Undirected,1
+Frøken Dorothea,Jntelligents,Undirected,1
+Dorothea,Odd,Undirected,14
+Hanseaten,Holberg,Undirected,1
+Holberg,Luife Bruns,Undirected,1
+Lucie,Luife Bruns,Undirected,1
+Lucie,Wolfs,Undirected,1
+Pernille,Wolfs,Undirected,1
+Dorothea,Pernille,Undirected,1
+Bull,Ole Bull,Undirected,1
+Bull,Dorothea,Undirected,1
+Dorothea,Laura,Undirected,1
+Graad,Laura,Undirected,1
+Adam,Dorothea,Undirected,1
+Adam,Eva,Undirected,1
+Eva,vesle Anders Espeseth,Undirected,1
+Dorothea,vesle Anders Espeseth,Undirected,1
+Borka,Dorothea,Undirected,1
+Borka,Storm,Undirected,1
+Gutten,Storm,Undirected,4
+Dorothea,Gutten,Undirected,3
+Sigurd Storm,Si—gurd,Undirected,1
+Johanne,Møller,Undirected,1
+Dorothea,Storm,Undirected,22
+Lecture,Storm,Undirected,1
+Hnn,hnn,Undirected,2
+Gud,Hnn,Undirected,1
+Hebe,Hnn,Undirected,1
+Gud,Hebe,Undirected,1
+Helga,Papa,Undirected,1
+Gud,Odd,Undirected,1
+Dorothea,Mama,Undirected,6
+Dorothea,Helga,Undirected,50
+Frk. Møller,Storm,Undirected,3
+Bravo,Dorothea,Undirected,2
+Dorothea,Maria,Undirected,1
+Maria,Marthe,Undirected,1
+Lise,Odd,Undirected,1
+Dorothea,Gud,Undirected,5
+Dorothea,Frøken Møller,Undirected,1
+Storm,Sympathi,Undirected,1
+Dorothea,Sympathi,Undirected,2
+Dior,Dorothea,Undirected,1
+Helga,Storm,Undirected,15
+Frøken Moller,Helga,Undirected,1
+Dorothea,Møller,Undirected,2
+Dorothea,Frøken Dorothea,Undirected,1
+Dorothea,Papa,Undirected,1
+Helga,Odd,Undirected,3
+Odd,Tante Møller,Undirected,1
+Mama,Odd,Undirected,1
+Ane,Papa,Undirected,1
+Dorothea,Sigurd,Undirected,4
+Helga keg,Storm,Undirected,1
+David,Dorothea,Undirected,1
+Helga,rysfet,Undirected,1
+Bacchus,Bentsen,Undirected,1
+Helga,Sigurd,Undirected,7
+Frk. Dorotheas,Helga,Undirected,1
+Toddy,as,Undirected,1
+Dokforen,Storm,Undirected,2
+Storm,Toddyen,Undirected,2
+Sigurd,Storm,Undirected,1
+Helga,LEre,Undirected,1
+Frk. Møller,Helga,Undirected,3
+Frk. Møller,Tu,Undirected,1
+Helga,Witz,Undirected,1
+Dorothea,Witz,Undirected,1
+Dorothea,Hebe,Undirected,1
+Dorothea,Toddy,Undirected,2
+Lars,Toddy,Undirected,1
+Lars,Stakkel,Undirected,1
+Anne,Stakkel,Undirected,1
+Odd,Te,Undirected,1
+Gud,Helga,Undirected,5
+Dickens,s,Undirected,1
+Gud,Sigurd,Undirected,1
+Dorothea,Lars,Undirected,1
+Lars,felv,Undirected,1
+Dorothea,Toddyen,Undirected,2
+Kurz,s,Undirected,1
+Storm,s,Undirected,1
+Doktoren,Tydslen,Undirected,1
+Helga,Kurz,Undirected,1
+Dorothea,Frk. Møller,Undirected,3
+Dokforen,Dorothea,Undirected,2
+Dorothea,Thea,Undirected,1
+Ole fluide,Thea,Undirected,1
+Ole fluide,Sverre,Undirected,1
+Sverre,Thea,Undirected,1
+Dorothea,Sigurd Storm,Undirected,1
+Storm,felv,Undirected,1
+Dorothea,felv,Undirected,2
+Helga,hunI,Undirected,1
+Gud,hans,Undirected,1
+Helga,Helga Storm,Undirected,1
+Bjørn,Toddy,Undirected,1
+Bjørn,Dorothea,Undirected,1
+Dorothea,fank,Undirected,1
+Dorothea skalv,Sigurd,Undirected,1
+Dokforen,Helga,Undirected,1
+Helga,Salomons,Undirected,1
+Faust,Gretchen,Undirected,1
+Dorothea,Jnleaften,Undirected,1
+Dorothea,henve,Undirected,1
+Dorothea,Ieg,Undirected,1
+Feuerbach,Taine,Undirected,1
+Frøken Møller,Odd,Undirected,1
+Nette,taust,Undirected,1
+Frk. Møller,løvte,Undirected,1
+Gud,dn,Undirected,1
+Helga,dn,Undirected,1
+Mama,Storm,Undirected,1
+Ester,Helga,Undirected,1
+Helga,hel,Undirected,1
+Dorothea,Haabets,Undirected,1
+Helga,Horizont,Undirected,1
+Dorothea,Horizont,Undirected,1
+Dorothea,hamDorothea,Undirected,1
+Helga,felv,Undirected,1
+Dorothea,ester,Undirected,1
+Gud,ester,Undirected,1
+Arne,brandt,Undirected,1
+Storm,brandt,Undirected,1
+Storm,signe,Undirected,1
+Sigurd,signe,Undirected,1
+Dorothea,Slaguhrs,Undirected,2
+Ben,Helga,Undirected,1
+Salomos,Storm,Undirected,1
+Bentsen,ester,Undirected,1
+Bentsen,Wergeland,Undirected,1
+Dorothea,Wergeland,Undirected,1
+Doklor,Dorothea,Undirected,1
+Dorothea,Hanna Winsnæs,Undirected,1
+Ambrosia,Dorothea,Undirected,1

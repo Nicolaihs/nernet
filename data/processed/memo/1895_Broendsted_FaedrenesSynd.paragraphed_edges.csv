@@ -1,0 +1,215 @@
+source,target,type,weight
+Bamnann,Baumann,Undirected,1
+Baumann,Pastor Baumann,Undirected,1
+Baumann,Jesus Kristus,Undirected,1
+Guds,Jesus Kristus,Undirected,1
+Baumann,Guds,Undirected,1
+Gudrun,Karl,Undirected,7
+Baumann,Karl,Undirected,8
+Baumann,Gudrun,Undirected,5
+B.,Baumann,Undirected,6
+Andersen,Baumann,Undirected,29
+Axel,Baumann,Undirected,9
+Rasmus Nielsen,Schkin,Undirected,1
+Andersen,Gud,Undirected,1
+Baumann,Tikøb,Undirected,1
+Andersen,Karl Baumanns,Undirected,1
+Andersen,Karl Baumann,Undirected,2
+Andersen,Karl,Undirected,1
+Gud,Karl,Undirected,3
+Gud,Gudrun,Undirected,6
+Axel Andersen,Baumann,Undirected,3
+Andersen,Mathias Claudius,Undirected,1
+helles,nte,Undirected,1
+Nils Nilsen,helles,Undirected,1
+Nils,Nils Nilsen,Undirected,1
+kissejaver,saadn,Undirected,1
+kissejaver,nte,Undirected,1
+Andersen,Blomsten,Undirected,1
+Andersen,Bing bang,Undirected,1
+Andersen,Procul este,Undirected,1
+Andersen,Malene,Undirected,1
+Andersen,Frk. H.,Undirected,2
+G. D.,Grethe,Undirected,1
+Grethe,Hedevig,Undirected,1
+Andersen,G. D.,Undirected,1
+G. D.,Hedevig,Undirected,1
+Charlotte,G. D.,Undirected,1
+Charlotte,Grethe,Undirected,1
+Andersen,Charlotte,Undirected,1
+Charlotte,Fasting,Undirected,1
+Andersen,Fasting,Undirected,1
+J,eg,Undirected,1
+Petra,eg,Undirected,1
+Andersen,Frøken Gudrun,Undirected,1
+Mutter,Skovrider Ravn,Undirected,1
+Gud,Mutter,Undirected,3
+Andersen,Mutter,Undirected,1
+Hr. Møller,Møller,Undirected,1
+Hr. Andersen,Hr. Møller,Undirected,1
+Andersen,Møller,Undirected,1
+Andersen,Iversen,Undirected,4
+Baumann,Iversen,Undirected,2
+Gud,Iversen,Undirected,1
+A.,B.,Undirected,3
+A.,Karlen,Undirected,1
+B.,Iversen,Undirected,3
+A,Baumann,Undirected,1
+Andersen,B.,Undirected,3
+Andersen dér,B.,Undirected,1
+Andersen,Andersen dér,Undirected,1
+B,B.,Undirected,1
+A.,Baumann,Undirected,1
+Baumann,Møller,Undirected,3
+Hr. Møller,Skovrider Ravn,Undirected,1
+Gudrun,Skovrider Ravn,Undirected,1
+Faders,Karl,Undirected,1
+Gudrun,Nielsen,Undirected,1
+Gudrun,Hr. Smith,Undirected,1
+Gudrun,Wulff,Undirected,4
+Katrine,Wulff,Undirected,1
+Hansen,Katrine,Undirected,2
+Mutter,Smith,Undirected,1
+Katrine,Mutter,Undirected,2
+Hansen,Mutter,Undirected,1
+Gudrun,Ravns,Undirected,5
+Fader,Gudrun,Undirected,2
+Gudrun,Gutti,Undirected,1
+Karl,Ravns,Undirected,2
+Axel Andersen,Gudrun,Undirected,1
+Axel,Møller,Undirected,4
+Axel,Gudrun,Undirected,22
+Hr. Møller,Ravns,Undirected,1
+Axel,Ravns,Undirected,1
+Gudrun,Hr. Møller,Undirected,1
+Axel,Oehlenschlåger.,Undirected,1
+Eros,Gudrun,Undirected,1
+Gudrun,Madam Mortensen,Undirected,5
+Jøs,Madam Mortensen,Undirected,4
+Gud,Madam Mortensen,Undirected,4
+G. D.,Olsen,Undirected,1
+Olsen,Y. D.,Undirected,1
+Frøken Hedevig,Gudrun,Undirected,1
+G. D.,Ravns,Undirected,1
+Baumann,Pjankeris,Undirected,1
+G. D.,Wulff,Undirected,1
+Baumann,Wulff,Undirected,5
+Frøken Hedevig,Wulff,Undirected,1
+Frøken Fasting,Gud,Undirected,1
+Gud,lille Gudrun,Undirected,1
+Gudrun,Mutter,Undirected,1
+.,“,Undirected,1
+Mutter,R.,Undirected,3
+Mutter,lille Gudrun,Undirected,1
+R.,lille Gudrun,Undirected,1
+Gud,Wulff,Undirected,1
+Gud,véd,Undirected,3
+Gudrun,Ravn,Undirected,5
+Anders,Dosmer,Undirected,2
+Anders,Mutter,Undirected,2
+Mutter,elllers,Undirected,1
+Gudrun,Møller,Undirected,1
+Gud,Møller,Undirected,1
+Gudrun,Karl Baumann,Undirected,1
+Baumann,Karl Baumann,Undirected,2
+Axel,Karl,Undirected,12
+Axel,Iversen,Undirected,1
+A.,Andersen,Undirected,1
+Baumann,Ziz,Undirected,1
+Andersen,Chaos,Undirected,1
+A.,Iversen,Undirected,1
+Andersen,Gudrun,Undirected,2
+Gudrun,Iversen,Undirected,1
+Axel,Gudrun Møller,Undirected,1
+Gudrun Møller,Smith,Undirected,1
+Gudrun,Smith,Undirected,4
+Smith,Wulff,Undirected,6
+Søren Malthe,Wulff,Undirected,1
+Eden,Smith,Undirected,2
+Axel,Chr. Winther,Undirected,1
+Fader,Wulff,Undirected,1
+Gudrun,Karl“,Undirected,1
+Axel,Karl Møller,Undirected,1
+Axel,Karl Baumann,Undirected,2
+Axel,Smith,Undirected,1
+Bau,Møller,Undirected,1
+Madam Mortensen,Møller,Undirected,1
+Hr. Olsen,Madam Mortensen,Undirected,1
+Gud,Hr. Olsen,Undirected,1
+Gud,Jøs,Undirected,1
+Ravn,none,Undirected,1
+Ravn,lille Gudrun,Undirected,1
+Andersen,Herr Amtmand,Undirected,1
+. p. p.,Andersen,Undirected,1
+Malcolms,Roes,Undirected,1
+Niels Valdemar Wulff,Wulff,Undirected,1
+aa,æ,Undirected,1
+Petersen,Ramsing,Undirected,1
+Baumann,Petersen,Undirected,1
+Baumann,Christensen,Undirected,1
+Christensen,Svendsen o.s.v,Undirected,1
+Baumann,graalig tyndhaaret,Undirected,1
+Axel,graalig tyndhaaret,Undirected,1
+Ramsingsf,Wulff,Undirected,1
+Ramsingsf,Svendsens,Undirected,1
+Baumann,W.,Undirected,2
+B.,W.,Undirected,7
+W.,lorstaa,Undirected,1
+Hr. Baumann,W.,Undirected,2
+B.,Hr. Baumann,Undirected,2
+B.,Wulff,Undirected,1
+Wulff,honnette,Undirected,2
+Andersen,Wulff,Undirected,3
+Andersen,Karl“,Undirected,1
+Axel,Wulff,Undirected,2
+Karl,Karl —,Undirected,1
+Axel,Skovrider Ravn,Undirected,1
+Axel,Jøs,Undirected,1
+Axel,Hr. Møller,Undirected,1
+Andersen,Axel Andersen,Undirected,1
+Andersen,R.,Undirected,2
+Andersen,Madam Mortensen,Undirected,3
+Madam Mortensen,Ravn,Undirected,2
+Madam Mortensen,R.,Undirected,1
+A.,Madam Mortensen,Undirected,1
+Axel Andersen,Mutter,Undirected,1
+Baumann,nte,Undirected,1
+Axel,Ravn,Undirected,3
+Axel,Mutter,Undirected,1
+Baumann,Mutter,Undirected,2
+Himles,Madam Mortensen,Undirected,1
+Gudrun Møller,Madam Plejel,Undirected,1
+Jansen,Niels Valdemar Wulff,Undirected,1
+Jansen,Smith,Undirected,2
+Klein,Smith,Undirected,4
+Klein,Niels Valdemar Wulff,Undirected,1
+Eden,Klein,Undirected,1
+Møller,Smith,Undirected,1
+Fader,Frøken Gudrun,Undirected,1
+Frøken Gudrun,vos,Undirected,1
+Axel,Gud,Undirected,1
+Axel,Gravere,Undirected,1
+Axel,Pastor Baumann,Undirected,1
+Axel,Karl“,Undirected,1
+Agamemnons,Gudrun,Undirected,1
+Graad,Gudrun,Undirected,2
+Axel,haard,Undirected,1
+Dahlberg,Jensen,Undirected,1
+Etatsraad Wulff,Karl Baumann,Undirected,1
+Etatsraad Wulff,Wulff,Undirected,1
+Cicero,Wulff,Undirected,1
+Madam Poulsen,Peter,Undirected,1
+Iversen,lisom,Undirected,1
+Iversen,Smith,Undirected,1
+Hansen,Rasmussen,Undirected,1
+Gudrun,Rasmussen,Undirected,1
+Andersen,Hansen,Undirected,1
+Mortensen,Pavse,Undirected,1
+Andersen,Ravn,Undirected,2
+A.,R.,Undirected,1
+Baumann,Ravn,Undirected,1
+Gudrun,R.,Undirected,2
+Gud,R.,Undirected,2
+Hr. Andersen,R.,Undirected,1
+A.,Gudrun,Undirected,1
+Gud,Hr. Andersen,Undirected,2

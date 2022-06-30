@@ -1,0 +1,771 @@
+source,target,type,weight
+Gud,Hulda,Undirected,24
+Hulda,Tadlos,Undirected,4
+Tadlos,tys,Undirected,1
+Garique,Grevinde TadloS,Undirected,1
+Hulda,Konrad,Undirected,35
+Charles,Konrad,Undirected,26
+Charles,Hulda,Undirected,129
+Charles,Madame Garrique,Undirected,1
+Madame Garrique,Tadlos,Undirected,1
+Konrad,after,Undirected,1
+Ester,Konrad,Undirected,3
+Jean Petit,Konrad,Undirected,7
+Broder Gauiin,Jean Petit,Undirected,1
+Gautin,Hulda,Undirected,1
+Broder Gautin,Hulda,Undirected,1
+Hulda,Konrad Gautin,Undirected,5
+Gud,Tadlos,Undirected,1
+Gud,Lcegen,Undirected,1
+Hulda,Lcegen,Undirected,1
+Charles,ban,Undirected,4
+Charles,ester,Undirected,8
+Hulda,Taus,Undirected,1
+Charles,HuLda,Undirected,1
+HuLda,Hulda,Undirected,1
+Hulda sormaade,Tadlos,Undirected,1
+Gautin,Gud,Undirected,2
+Gud,Konrad Gautin,Undirected,3
+Læegen,taus,Undirected,1
+Gaulin,taus,Undirected,1
+Konrad Gautin,Tadlos,Undirected,2
+Konrad,fig,Undirected,5
+Hulda,strar,Undirected,1
+,Charles,Undirected,12
+,Konrad,Undirected,1
+Fru Tadlos,Konrad,Undirected,1
+Konrad,Steen,Undirected,1
+Franks,Konrad,Undirected,1
+Konrad,otier,Undirected,1
+Gefrielfcstime,Konrad,Undirected,1
+Frøken Hulda,Hulda,Undirected,1
+Charles cengstelige,Hulda,Undirected,1
+Alice,Charles,Undirected,1
+Grev Tadlos,Mcengde,Undirected,1
+Grev Tadlos,Mcrngden,Undirected,1
+Tadlos,Z,Undirected,1
+Roligheden,Tadlos,Undirected,1
+Gud,Hcender,Undirected,1
+Konrad,ester,Undirected,4
+Konrad,slille,Undirected,1
+Asta,Gontran,Undirected,6
+Asta,ai,Undirected,1
+ai,djcevelfie,Undirected,1
+Asta,djcevelfie,Undirected,1
+Asta,ril,Undirected,1
+Asta,Hnn,Undirected,1
+Arnold,Asta,Undirected,19
+Arnold,ban,Undirected,2
+Arnold,Gud,Undirected,3
+Asta taug,Gud,Undirected,1
+Asta,lidenskabeligl,Undirected,1
+Asta,kjære Asta,Undirected,1
+Arnold,Asla,Undirected,5
+Asta,Graad,Undirected,1
+Hulda,sagd,Undirected,1
+Charles,sagd,Undirected,1
+Asta,Hulda,Undirected,3
+Asta,Charles,Undirected,5
+Frøken Astas,Hulda,Undirected,1
+Hulda,ester,Undirected,5
+Karl,sirar,Undirected,1
+Karl,Svir,Undirected,1
+Hulda,Svir,Undirected,1
+Hulda,Karlen,Undirected,1
+Asta,Tadlos,Undirected,2
+Asta,Konrad,Undirected,8
+Arnold,slakkels,Undirected,1
+Arnold,Konrad,Undirected,6
+Asta,flke,Undirected,2
+Asta,vet,Undirected,1
+lille Asta,vet,Undirected,1
+Arnold,lille Asta,Undirected,1
+Arnold,ester,Undirected,1
+Arnold,Hulda,Undirected,2
+Arnold,ril,Undirected,1
+Charles Gautin,ril,Undirected,1
+Frøken Hulda,Konrad,Undirected,1
+Asta,Gud,Undirected,5
+Charles,hahahaha,Undirected,1
+Konrad Gautin,Naava,Undirected,1
+Charles,hønes,Undirected,1
+Charles,Gud,Undirected,6
+Konrad,strar,Undirected,1
+Konrad,Konrad Gautin,Undirected,1
+Konrad,Putte,Undirected,1
+Gud,Konrad,Undirected,4
+Frøken TadloS,Hulda,Undirected,1
+Hulda,Iran Petit,Undirected,1
+Broder Gautin,Iran Petit,Undirected,1
+Broder Gautin,Gud,Undirected,1
+Konrad,taus,Undirected,1
+Broder Petit,Konrad,Undirected,1
+Haan,Spot,Undirected,1
+Gautin,Jean Petit,Undirected,3
+Konrad,Napoleon,Undirected,1
+Jean Petit,Napoleon,Undirected,1
+Jean Petit,Keiseren,Undirected,1
+Keiseren,Konrad,Undirected,3
+Jean Petit,Petit,Undirected,1
+Jean Petit,Mcengde,Undirected,1
+Keiser,Napoleon,Undirected,1
+Jean Petit,Oren,Undirected,1
+Gud,Jean,Undirected,5
+Hulda,aandelos,Undirected,1
+Asta,iveien,Undirected,1
+Tor,ulLWlz,Undirected,1
+Gontran,øg,Undirected,1
+Scrde,kjcrre,Undirected,1
+Charles,Tadlos,Undirected,1
+Hulda,dtt,Undirected,1
+Ester,Graad,Undirected,1
+Eugen flal,Jean,Undirected,1
+Eugen,Jean,Undirected,1
+Eugen,Rosttta,Undirected,1
+Alice Petit,Eugen,Undirected,1
+Alice,Rositta,Undirected,1
+Alice,Eugen,Undirected,26
+Eugen,ban,Undirected,2
+Alice,ban,Undirected,1
+Alice,bun,Undirected,2
+Alice,sfreg,Undirected,1
+Eugen,sfreg,Undirected,1
+Alice taug,Eugen,Undirected,1
+Eugen,Tys,Undirected,1
+Keiser,vot,Undirected,1
+Iran Petit benaadet,Keiser,Undirected,1
+Alice,Philip,Undirected,1
+Gud,Philip,Undirected,1
+Philip,a,Undirected,1
+Alice,Jean,Undirected,4
+Jean,Jutta,Undirected,42
+Frøken Jutta,Jutta,Undirected,1
+Jutta,Vorherre,Undirected,1
+Jutta,taus,Undirected,1
+Jean Petit,Jutta,Undirected,4
+Jean slod,taus,Undirected,1
+a,taus,Undirected,1
+Jean,ban,Undirected,2
+Marquise,ban,Undirected,1
+Jean,Marquise,Undirected,1
+Asten,Jutta,Undirected,1
+Asten,Jean,Undirected,1
+Elsfer,Jutta,Undirected,1
+Jutta,betcenk,Undirected,1
+Jean.,betcenk,Undirected,1
+Freidig,Jean,Undirected,1
+Betcenk,Jutta,Undirected,1
+Alice,Mcrnd,Undirected,1
+Jutta,L Jeans,Undirected,1
+Asta,rildage,Undirected,1
+Konrad,ban,Undirected,7
+Asta,Line,Undirected,1
+Arnold,Line,Undirected,1
+Arnold,Bel,Undirected,1
+Arnold,bun,Undirected,1
+Arnold,Gotttran,Undirected,1
+Amasone,Madam Gontran,Undirected,1
+Amasone,Gontran,Undirected,1
+Asta,øg,Undirected,1
+Madam Gontran,øg,Undirected,1
+Asta,GonLran mcerkede,Undirected,2
+Asta,Skræek,Undirected,1
+Arnold,Skræek,Undirected,1
+Madam Gontran,bun,Undirected,1
+Jean Petit,Konrad Gautin,Undirected,1
+Jean PetitS,Konrad,Undirected,1
+Konrad Gautin,ban,Undirected,1
+Asta,dun,Undirected,2
+Hulda,børe,Undirected,1
+Hulda,ban,Undirected,6
+Djcevelen,Konrad,Undirected,1
+Djcevelen,Hcevn,Undirected,1
+Hulda,Konrad Leilighed,Undirected,1
+Konrad,sif,Undirected,1
+Jakins,Konrad,Undirected,3
+Jakins,m. n,Undirected,1
+Dumrian,Konrad,Undirected,2
+Jakins,Karlen,Undirected,1
+Karlen,sia,Undirected,1
+Charles,Hulda asbrsd,Undirected,1
+Hulda,mgen Grcændser,Undirected,1
+Charles,mgen Grcændser,Undirected,1
+Charles,kjære,Undirected,1
+Hulda,kjære,Undirected,1
+Hulda,asslaa,Undirected,1
+Charles,asbrød,Undirected,1
+Hulda,asbrød,Undirected,1
+Charles,Lin,Undirected,1
+Broder,Lin,Undirected,1
+Charles,øg,Undirected,3
+Gud,dorr,Undirected,1
+Hulda,dorr,Undirected,1
+Froken,Hulda,Undirected,1
+Konrad,hastlg,Undirected,1
+Hnlda,Konrad,Undirected,1
+Gud,Konrad fit,Undirected,1
+Hulda,KonradS,Undirected,1
+Haller,Hulda,Undirected,1
+Alice,Hulda,Undirected,2
+Komtesse Tadlos,Tadlos,Undirected,1
+Eugen,Uveir,Undirected,1
+Eugen,Hulda ff,Undirected,1
+Eugen,ligbleg,Undirected,1
+bun,hnn,Undirected,1
+Jutta,øg,Undirected,4
+Jutta,ban,Undirected,2
+Jean,bun,Undirected,1
+Grev Tadlos,Vcertem,Undirected,1
+hans,hans Boeder,Undirected,1
+Jean,Linz,Undirected,1
+Jean,Jujta,Undirected,1
+Jean —,Jutta,Undirected,1
+Jean,Tadlos,Undirected,2
+Greven,Jean,Undirected,1
+Gud,Pedro,Undirected,2
+Grev Tadlos,Gud,Undirected,1
+Jntta,Jutta,Undirected,1
+Jean,Jntta,Undirected,1
+Gud,Jutta,Undirected,4
+Jean,øg,Undirected,2
+Dosmer,Giclli,Undirected,1
+Giclli,Hulda,Undirected,1
+Charles Gautin,Hulda,Undirected,1
+Lcezens,ester,Undirected,1
+Hulda,Lcegcns,Undirected,1
+Charles,Lieber,Undirected,1
+Hulda,Lieber,Undirected,1
+Elsfer,Gud,Undirected,1
+Charles,Fru Tadlos,Undirected,1
+BarnerovVi,Konrad Ganrin,Undirected,1
+Asta,hnn,Undirected,1
+Gontran,Konrad,Undirected,3
+Gontran,ban,Undirected,3
+Asta,ban,Undirected,1
+Asta,rud,Undirected,1
+Gud,rud,Undirected,1
+Gud,himmelsfe,Undirected,1
+ban,himmelsfe,Undirected,1
+Asta,Konrad Gautin,Undirected,2
+Konrad,dans,Undirected,1
+Konrad,duff,Undirected,1
+Asta,sfreg Gontran,Undirected,1
+Konrad Gamin,Lu,Undirected,1
+Madam,siZ,Undirected,1
+Hulda,verlebe,Undirected,1
+Greven,Hulda,Undirected,10
+Greven,fig,Undirected,1
+Hulda,fig,Undirected,10
+Hulda,fil Pedro,Undirected,1
+bun,fil Pedro,Undirected,1
+Tadlos,bun,Undirected,1
+Tadlos,a,Undirected,1
+Hulda,a,Undirected,1
+a,fig,Undirected,1
+Gautin,ban,Undirected,1
+,Grev Tadlos,Undirected,3
+Gautin,øg,Undirected,1
+Hulda,Jmannel,Undirected,1
+Charles,Charles Gautin,Undirected,1
+Charles,Mama,Undirected,1
+Sally,Signor,Undirected,1
+Charles,Korilla,Undirected,18
+Korilla,nei,Undirected,1
+Hulda,nei,Undirected,1
+Hulka,Konrad,Undirected,1
+Konrad,Korilla,Undirected,7
+Konrad,Signora,Undirected,1
+Korilla,Signora,Undirected,2
+Konrad,Sally,Undirected,2
+ban,øg,Undirected,1
+Charles,Pjerri,Undirected,1
+Konrad,Pjerri,Undirected,1
+Asten,Charles,Undirected,2
+Charles kasted,Gud,Undirected,1
+Grev Tadlos,Hulda,Undirected,2
+Hulda,lisfe,Undirected,1
+Hulda,Vene,Undirected,1
+Vene,hnn,Undirected,1
+Grevinden,Gud,Undirected,1
+Greven,Gud,Undirected,1
+Charles,fig,Undirected,5
+Hulda,bun,Undirected,3
+Charles,sorn Konrad,Undirected,1
+,dans,Undirected,1
+Alice P.,dans,Undirected,1
+Hulda,Nemesis,Undirected,1
+Konrad,Nemesis,Undirected,1
+Francois,Konrad,Undirected,5
+Francois,Hulda,Undirected,13
+Hulda,Korilla,Undirected,1
+Hulda,aaledes,Undirected,1
+Fronrois,aaledes,Undirected,1
+Fronrois,Konrad,Undirected,1
+Charles,paany,Undirected,1
+Gaurin,Hulda,Undirected,1
+Hulda,hnn,Undirected,2
+Hulda,øg,Undirected,4
+Hulda,sem,Undirected,1
+Jean,wen,Undirected,1
+Hulda,wen,Undirected,1
+Hulda,Jutta,Undirected,5
+Grev Tadlos,Jean,Undirected,1
+Charles,Jutta,Undirected,2
+Francois,hnn,Undirected,1
+fersrare,hnn,Undirected,1
+Francois,fersrare,Undirected,1
+Francois,Vcrnlftr,Undirected,1
+Vcrnlftr,don,Undirected,1
+Charles,Sally,Undirected,9
+Korilla,Sally,Undirected,1
+Sally,fil Sally,Undirected,1
+Sally,ban,Undirected,2
+Tu,ban,Undirected,1
+Charles Gautin,Konrad,Undirected,1
+Charles,eg,Undirected,1
+Sally,eg,Undirected,1
+Charles,dm,Undirected,1
+Hulda,Sally,Undirected,1
+Sally,ril Lvigerssn,Undirected,1
+Charles,ril Lvigerssn,Undirected,1
+Arnold,Gontran,Undirected,2
+Signora Garinclli,sir Lisnlort,Undirected,1
+Konrad Gautin,Narnet,Undirected,1
+Arnold,Konrad Gaurin,Undirected,1
+Alma,Arnold,Undirected,9
+Alma,Konrad,Undirected,5
+Hr. Gautin,Signor,Undirected,1
+Alma,Asta,Undirected,2
+Alma,Gautin,Undirected,1
+Alma,Driblers,Undirected,1
+Graaden,Hulda,Undirected,1
+Graaden,fig,Undirected,1
+Hulda,JuleS,Undirected,1
+Francois,JuleS,Undirected,1
+Alma,Gontran,Undirected,1
+Charles Gautin,Gontran,Undirected,1
+Charles Gautin,slaa,Undirected,1
+Konrad,slaa,Undirected,1
+Charles,Grev TadloS,Undirected,1
+Alice Petit,Tadlos,Undirected,1
+Charles,Greven,Undirected,5
+Charles,Jack Lillier,Undirected,1
+Charles,fin kjærkomnc,Undirected,1
+Charles,Della,Undirected,1
+Charles Gautin,HuldaS,Undirected,1
+Della,ban,Undirected,1
+Hulda,Lcengsel,Undirected,1
+Konrad,seent,Undirected,1
+Konrad,iland,Undirected,1
+Charles,iland,Undirected,1
+Hulda,ver strar,Undirected,1
+Charles,ver strar,Undirected,1
+Charles,ver,Undirected,1
+Konrad,ver,Undirected,1
+Grev Tadlos,Konrad,Undirected,2
+Konrad,Mcrrke,Undirected,1
+Jutta,Konrad,Undirected,2
+Jean,Konrad,Undirected,8
+Jutta,dam,Undirected,1
+Iran Petit,Jutta,Undirected,2
+Jean,eun,Undirected,1
+Jean,Konrad tøg,Undirected,1
+Hulda,Jean,Undirected,1
+Charles,Jules,Undirected,6
+Konrad,Tadlos,Undirected,2
+Jules,Zules,Undirected,1
+Francois,Zules,Undirected,1
+Charles,Francois,Undirected,3
+Francois,Jules,Undirected,1
+Hulda flet,fig,Undirected,1
+Konrad,fiz,Undirected,1
+Grev Tadlos,fiz,Undirected,1
+Charles,Grev Tadlos,Undirected,2
+Gud,Jules,Undirected,2
+Jules,Lillier,Undirected,1
+Gud,Lillier,Undirected,1
+Hulda,Jules,Undirected,1
+Charles øg Hulda,øg,Undirected,1
+Arnold øg Alma,Konrad,Undirected,1
+Konrad,Nero,Undirected,7
+Kvnrads,Nero,Undirected,1
+Gud,Nero,Undirected,3
+Gud,Sjcels,Undirected,1
+Alice,Konrad,Undirected,9
+Grev Tadlos,Komtesse Hulda <,Undirected,1
+Konaad,Konrad,Undirected,1
+Eugen,Konrad,Undirected,2
+Eugen,Fillip,Undirected,6
+Alice,Fillip,Undirected,3
+Eugen,Lin,Undirected,1
+Alice,Jutta,Undirected,3
+Fillip sremskynder,Jutta,Undirected,1
+Alice,Fillip sremskynder,Undirected,1
+Alice,ester,Undirected,1
+Fillip,Konrad,Undirected,1
+Alice,Hulva,Undirected,1
+Eugen,Gud,Undirected,1
+Kari,Nero,Undirected,2
+Kaptain,Nero,Undirected,2
+Gounod,Nero,Undirected,1
+Køne,Nero,Undirected,1
+Gud,Køne,Undirected,1
+Jutta,fig,Undirected,1
+Jean,fig,Undirected,1
+Burillo,Konrad,Undirected,2
+Jutta,Nero,Undirected,5
+Jutta,cedle,Undirected,1
+Lisette,cedle,Undirected,1
+Lisette,Nero,Undirected,15
+Jean,Nero,Undirected,2
+Nero,koldl,Undirected,1
+Jean,Jutia,Undirected,1
+Jean,Lisette,Undirected,9
+Hulda,lseng,Undirected,1
+Dinora,Lisette,Undirected,4
+Fillip,Lisette,Undirected,2
+Fillip,Gud,Undirected,1
+Dinora,Gud,Undirected,4
+Dinvra,Karlo,Undirected,1
+Dinora,Karlo,Undirected,22
+Inglingen,Karlo,Undirected,1
+Karlo,øg,Undirected,1
+Karlo,Tadlos,Undirected,1
+Ingling,Karlo,Undirected,2
+Grev Tadlos,Karlo,Undirected,2
+Karlo,Nero,Undirected,35
+Karlo,Moder,Undirected,1
+Gud,ban,Undirected,1
+Burillo,Nero,Undirected,1
+Jutta,Lisette,Undirected,5
+Konrad,Støien,Undirected,1
+Konrad,halvhøit,Undirected,1
+Konrad,djcevelfl,Undirected,2
+Konrad,Kudsk,Undirected,1
+Konrad,maalløs,Undirected,1
+ban,maalløs,Undirected,1
+Konrad,Parks,Undirected,1
+Nero,Parks,Undirected,1
+Grev Tadlos,Nero,Undirected,3
+Dinora,Jutta,Undirected,1
+Charles,ril,Undirected,1
+Jean,ril,Undirected,1
+Dinora,Nero,Undirected,10
+Lisette,lil,Undirected,1
+Karlo,lille Lisette,Undirected,1
+Nero,fig,Undirected,10
+Charles øg,Karlo,Undirected,1
+Charles,Lisette,Undirected,4
+Hulda,Nero,Undirected,8
+Nero,lille Nero,Undirected,2
+Hulda,Karlo,Undirected,8
+Dinora,KarLo,Undirected,1
+Charles,Dinora,Undirected,7
+Dinora,Hulda,Undirected,6
+Burillo,strar,Undirected,1
+filsengs,jø,Undirected,1
+Konrad,Lisetie,Undirected,1
+Karlo,Lisette,Undirected,5
+Grev Tadlos,Lisette,Undirected,2
+Lisette,ester,Undirected,1
+Lisette,sidsfe,Undirected,1
+Graad,Nero,Undirected,1
+Karle,Nero,Undirected,1
+Charles,rmar,Undirected,2
+Grev Tadlos,øg,Undirected,1
+,Nero,Undirected,1
+Grønsvcer,Nero,Undirected,1
+Jean,barsf,Undirected,1
+Jean ksm,Lisette,Undirected,2
+Lisette,øg,Undirected,5
+Hesfen,Nero,Undirected,2
+Nero,ban,Undirected,3
+Knce,Nero,Undirected,1
+Gud,Knce,Undirected,1
+Nero,ester Herren,Undirected,1
+DinoraS,Karlo,Undirected,1
+Nero,ester,Undirected,1
+Nero,ærekjærPngling,Undirected,1
+Nero,tøg,Undirected,1
+Nero,Tadlos,Undirected,2
+Lisette,tøg,Undirected,1
+Hulda,Lisefte,Undirected,2
+Jean,Lisefte,Undirected,1
+Jutta,Lisefte,Undirected,1
+Charles Lillier,Lisefte,Undirected,1
+Karl,Lisefte,Undirected,1
+Dinora,Karl,Undirected,1
+Dinora,Lisefte,Undirected,1
+Karlo,Lisefte,Undirected,2
+Lionel«,le Tandy,Undirected,1
+Lionel,le Tandy,Undirected,1
+Lisette,le Tandy,Undirected,1
+Lionel,Lisette,Undirected,4
+Lionel,dei,Undirected,1
+Lisette,bur,Undirected,1
+Grev Tadlos,bur,Undirected,1
+Lisette,fig,Undirected,11
+Nei,fit,Undirected,1
+Lisette,Livnel,Undirected,1
+Dinora,lille Dinora,Undirected,1
+Karlo,lille Dinora,Undirected,1
+Karlo,fil,Undirected,2
+Gud,Karlo,Undirected,2
+Jutta,Lionel,Undirected,1
+Burillo,Lionel,Undirected,3
+Hesfen,Lionel,Undirected,1
+Hesfen,Steen,Undirected,1
+Konrad,Lionel,Undirected,3
+Jutta øg Jean,Lionel,Undirected,1
+Lionel,Nero,Undirected,2
+Hellenske,Mutter Standi,Undirected,1
+Mutter Standi,Standi,Undirected,1
+Karlo,Kursa,Undirected,1
+Armand spodsk,sorfeiler,Undirected,1
+Armands,Karlo flap,Undirected,1
+Karlo,kakkels,Undirected,1
+Lisette,kakkels,Undirected,1
+Karlo,Uhret flog,Undirected,1
+Karlo,taus,Undirected,1
+Karlo,ban,Undirected,1
+Karlo,fig,Undirected,5
+Armand,Karlo,Undirected,5
+Dinora,Lisette slode,Undirected,1
+Armand,lcegge,Undirected,2
+Hulda,Ib,Undirected,1
+Hulda,Karl,Undirected,1
+bun,taus,Undirected,1
+Charles,Karlo,Undirected,7
+Karlo,ester,Undirected,1
+Hulda,h,Undirected,1
+Charles,taus,Undirected,1
+øg,øg Jean,Undirected,2
+Karlo,Konrad,Undirected,2
+Charles,Lcegen,Undirected,1
+Charles,Lirgen,Undirected,1
+Charles,Grevinde Tadlos,Undirected,1
+Charles,L«,Undirected,1
+Karl,Nero,Undirected,1
+Karle,Karlo,Undirected,1
+Karlo,tfe,Undirected,1
+Karlo,Lillier-Tadlos,Undirected,1
+KarloS,Nero,Undirected,1
+Ingling,KarloS,Undirected,1
+Grev TadloS,Lisette,Undirected,1
+,Grev TadloS,Undirected,1
+,Hulda,Undirected,1
+Hulda,Lisette,Undirected,1
+Lioncls,Lisette,Undirected,1
+Lisette,Tadlos,Undirected,1
+Lionel,tael,Undirected,1
+LionelS,Lisette,Undirected,1
+Jø,fig,Undirected,1
+Jø,øg,Undirected,1
+Lionel,fig,Undirected,3
+Gud,Lisette,Undirected,2
+Grev Tadlos,Tadlos,Undirected,1
+Haarlok,Tadlos,Undirected,1
+Dinora,dun,Undirected,2
+Dinora,Konrad,Undirected,1
+Charles,Vuldas,Undirected,1
+Hulda,Madam,Undirected,1
+Lisette,Skæebnens,Undirected,1
+Lisette,Skræek,Undirected,1
+Skræek,Taa,Undirected,1
+Lisette,Taa,Undirected,1
+Lisette,slolt,Undirected,1
+Lignes,Lisetle,Undirected,1
+Lisette,bun,Undirected,1
+Lisette,Skjondt Lisette,Undirected,1
+Liscttcs,Lisette,Undirected,2
+Elling,Wefte,Undirected,1
+Elling,Lisette,Undirected,9
+Lisette,Wefte,Undirected,1
+Wefte,bendes,Undirected,1
+bendes,kisettes,Undirected,1
+Mefte,fig,Undirected,1
+Mrs. Elling,fig,Undirected,1
+Lisette,Mette,Undirected,1
+Line,Lisette,Undirected,1
+Line,Mrs.,Undirected,1
+Elling,Mrs.,Undirected,20
+Mr. Ellis,flemme,Undirected,1
+Mefte,flemme,Undirected,1
+Lisette,Mr. Elling,Undirected,6
+Mr. Elling,Otto —,Undirected,1
+Lisette,Otto,Undirected,33
+Lisette,Miss Elling,Undirected,14
+Frøken Lisette,Otto,Undirected,1
+Gud,age,Undirected,1
+Lisette,age,Undirected,1
+Grev Tadlos,sidsf,Undirected,1
+Nero,sidsf,Undirected,1
+Hulda,sidsf,Undirected,1
+Hulda,HuldaS,Undirected,1
+Gud,HuldaS,Undirected,1
+Hulda,sæer,Undirected,1
+Dinora,sæer,Undirected,1
+Dinora,Josva,Undirected,1
+Bedstemoder,Lisette,Undirected,1
+Bedstemoder,Dinora,Undirected,1
+Petit,ban,Undirected,1
+Lisette,Petit,Undirected,1
+Dinora,hnn,Undirected,1
+Mrs. Elling,Otto,Undirected,2
+Lisette,Mrs,Undirected,1
+Elling,Mrs,Undirected,1
+Lisette,Mrs.,Undirected,5
+Otto,ban,Undirected,2
+Lisette,ban,Undirected,2
+. Elling,Orne,Undirected,1
+Orne,Otto,Undirected,1
+Miss Elling,Otto,Undirected,3
+Miss,Miss Elling,Undirected,1
+Lisette,Miss,Undirected,1
+Lisette,Mrs. Elling,Undirected,1
+Elling,Mrs. Elling,Undirected,1
+Miss Elling,Mr. Walther,Undirected,1
+Mr. Walther,Mrs Elling,Undirected,1
+Gud,Otto,Undirected,2
+Dands,Lisette,Undirected,2
+Miss Elling,æendse,Undirected,1
+Miss Elling,cendse Mr. Walthers,Undirected,1
+Dandsen,cendse Mr. Walthers,Undirected,1
+Otto,fig,Undirected,4
+Dandsen,Otto,Undirected,1
+Dandsen,Lisette,Undirected,2
+Mr. Elling,Mrs.,Undirected,1
+Freken,Otto,Undirected,1
+Freken,Lisette,Undirected,1
+Miss Elling,Nero,Undirected,4
+Miss Elling,Miss Elltng,Undirected,1
+Lisette,Miss Elltng,Undirected,1
+Konstance Elling,Lisette Petit,Undirected,1
+Konstance Elling,Nero soer,Undirected,1
+Miss Elling,Petit,Undirected,1
+Nero,Petit,Undirected,2
+Lisette,Nerø,Undirected,3
+Dinora,Nerø,Undirected,1
+Otto,hnn,Undirected,2
+Lisette,Nero reisle,Undirected,1
+Die,Karlo,Undirected,2
+Gud,fie,Undirected,1
+Dinora,fig,Undirected,4
+Charles,Seir,Undirected,1
+Dinora,John,Undirected,2
+John,øg,Undirected,1
+Hulda,John,Undirected,1
+Hulda,slore Øine,Undirected,1
+Hulda,Nei,Undirected,1
+Hr. Gautin,Nei,Undirected,1
+Konrad øg,Nero,Undirected,1
+Hulda,Konrad øg,Undirected,1
+Charles,Halda,Undirected,1
+Hulda,Konrad Gaatin,Undirected,1
+Hulda,Tje,Undirected,1
+Tje,estefolkeae,Undirected,1
+Halda,Konrad,Undirected,1
+Haa,Hulda,Undirected,1
+Miss Elling,Paul,Undirected,1
+Miss Elling,Paul —,Undirected,1
+Miss Elling,Mr. Balther,Undirected,3
+Lisette,Otto oz Mr. Balther,Undirected,1
+Otto oz Mr. Balther,fig,Undirected,1
+Mr. Balther,Otto,Undirected,1
+Miss Elling,Mr. Valther,Undirected,1
+Miss Elling,Mrs.,Undirected,2
+Elling,Miss Elling,Undirected,1
+Miss Elling,MrS Elling,Undirected,1
+MrS Elling,Otto,Undirected,1
+Hnn,Lisette,Undirected,1
+Hnn,Miss Elling,Undirected,1
+. Elling,Otto,Undirected,2
+Lisette,oz,Undirected,3
+Mr Elling,fig,Undirected,1
+Mr. Elling,Nero,Undirected,2
+Lisette,Otto taug,Undirected,1
+Lisette,bisse,Undirected,1
+Alice,Hustrues,Undirected,1
+Alice,lille Lisette,Undirected,1
+. Elling,oz,Undirected,1
+Alice,MrS. Elling,Undirected,1
+Lisette,MrS. Elling,Undirected,1
+Eugen,Mrs.,Undirected,1
+Alice,Elling,Undirected,1
+Alice,Lisette,Undirected,9
+Fillip,Jean,Undirected,1
+Lifettes,Lisette,Undirected,1
+Mrs.,hnn,Undirected,1
+Elling,Mer,Undirected,1
+fig,hnn,Undirected,1
+Alice,Do,Undirected,1
+Do,Mrs.,Undirected,1
+. Elling,Lisette,Undirected,1
+Otto,hu,Undirected,2
+Lisette,hua,Undirected,1
+Miss Elling,hnn,Undirected,1
+Eugen,lille Lisette,Undirected,1
+Eugen,Lisette,Undirected,4
+Alice,mir,Undirected,1
+Dn,Lisette,Undirected,1
+Lisette,LisetteS,Undirected,1
+Gud,LisetteS,Undirected,1
+Mrs.,Otto,Undirected,1
+Miss Elling,spodsk,Undirected,1
+Mama,spodsk,Undirected,1
+Gud,Mama,Undirected,1
+Lisette,hnn,Undirected,1
+Wette,adea,Undirected,1
+Nero,Wette,Undirected,1
+Lisefte,LisetteS,Undirected,1
+Lisefte,Mefte,Undirected,1
+Lisefte,Otto,Undirected,1
+Lisefte,hnn,Undirected,1
+Lisefte,Mrs.,Undirected,1
+Lisefte,Mrs Elling,Undirected,1
+ach,ook,Undirected,1
+Wen,ach,Undirected,1
+Engen,WrS.,Undirected,1
+Elling,WrS.,Undirected,1
+Elling,Mette,Undirected,1
+All,Charles,Undirected,1
+All,Jean,Undirected,1
+Charles,heade,Undirected,1
+Allier,hnn,Undirected,1
+Lionel,che,Undirected,1
+Mefte,che,Undirected,1
+Eugen,fig,Undirected,1
+Lisette,Tandy,Undirected,1
+Charles,oz,Undirected,1
+SSoUa,slakkels,Undirected,1
+Hnn,hnn,Undirected,1
+Hnn,Lionel,Undirected,1
+Baron Petit,Klaus,Undirected,1
+Elling,Otto,Undirected,1
+Otto,Sevilla,Undirected,2
+fig,hua,Undirected,1
+Alice,fig,Undirected,1
+Alice,Mrs. Elling,Undirected,1
+Mrs. Elling,Otto fig deslo,Undirected,1
+Eugen sladig,Grev Tadlos,Undirected,1
+Grev Tadlos,Otto,Undirected,1
+Alice,Otto,Undirected,1
+Lisette,OttoS,Undirected,1
+Mrs.,Paul,Undirected,1
+Mrs.,Valther,Undirected,1
+Valther,fig,Undirected,1
+Mr. Valther,fig,Undirected,1
+Mr. Valther,sægde,Undirected,1
+Do,hnn,Undirected,1
+Balther,Mrs.,Undirected,1
+Mr. Balther,fil,Undirected,1
+Monsieur,Nero,Undirected,2
+Lsvollö,Nero,Undirected,1
+Gud,fig,Undirected,1
+Levolle,Nero,Undirected,1
+Baneßmionen,Nero,Undirected,1
+Heras,Nero,Undirected,2
+Dinora,Lucy,Undirected,1
+Karlo,Lucy,Undirected,1
+Karlo,slille,Undirected,1
+Dinora,slille,Undirected,1

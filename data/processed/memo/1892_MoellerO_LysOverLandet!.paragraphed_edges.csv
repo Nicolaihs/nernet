@@ -1,0 +1,111 @@
+source,target,type,weight
+During,Jensen-Viby,Undirected,1
+During,Poulsen,Undirected,1
+Bang,Poulsen,Undirected,1
+Bang,Hr. Frøhde,Undirected,1
+Flor,Hr. Frøhde,Undirected,1
+Gud,Hr. Larsen,Undirected,1
+Diiring,Hr. Frøhde,Undirected,1
+Diiring,Oluf,Undirected,1
+Estrup,Scavenius,Undirected,1
+Ravn,Scavenius,Undirected,1
+Hr. Frøhde,Poulsen,Undirected,1
+Hr. Nielsen,Poulsen,Undirected,1
+Jensen-Viby,Karl Helmuth,Undirected,1
+Flor,Oluf Larsen,Undirected,1
+Diiring,Flor,Undirected,1
+Diiring,Hi’.,Undirected,1
+Frøhde,Hi’.,Undirected,1
+During,Graad,Undirected,1
+Oluf Larsen,With,Undirected,1
+Oluf,With,Undirected,8
+Oluf,v. Schilden,Undirected,1
+Karl Helmuth,Oluf,Undirected,7
+Karl Helmuth,Stein,Undirected,1
+Carl Bloch,Stein,Undirected,1
+Carl Bloch,Oluf,Undirected,1
+Exners,Oluf,Undirected,1
+Ewalds,Exners,Undirected,1
+Ewalds,Oluf,Undirected,1
+Ellen,Oluf,Undirected,57
+. Larsen,Frøken With,Undirected,1
+Frøken With,Oluf,Undirected,1
+Ellen,v. Hollstorff,Undirected,6
+Oluf,v. Hollstorff,Undirected,2
+Karl Helmuth,Kong Svend,Undirected,1
+Carl Bloch,Kong Svend,Undirected,1
+Marie,Oluf,Undirected,1
+Gud,Oluf,Undirected,3
+Karl,Mo’,Undirected,1
+Karl,liun,Undirected,1
+Hr. Larsen,Karl Helmuth,Undirected,1
+Jantzen,Thor Andersen,Undirected,1
+With,lian,Undirected,1
+Ellen,Karl Helmuth,Undirected,2
+Jantzen,Karl Helmuth,Undirected,3
+Ellen,Olaf,Undirected,1
+lian,liun,Undirected,1
+Ellen,Jensen-Viby,Undirected,1
+Karl Helmuth,Liebmann,Undirected,2
+. Agerbye,Oluf,Undirected,1
+Oluf,conditio sine,Undirected,2
+Ager-bye,Oluf,Undirected,2
+Ellen,lian,Undirected,1
+Gud,Rasmus Jensen,Undirected,1
+Jensen-Viby,Oluf,Undirected,5
+Ellen,hans,Undirected,1
+Jantzen,Oluf,Undirected,6
+Jantzen,Nathansen,Undirected,1
+Gjedde,Nathansen,Undirected,1
+Nathansen,igno rere,Undirected,1
+. Carlsen,Erik Snare,Undirected,1
+Erik Snare,Ole Hansen,Undirected,1
+J. O. Fahle,Ole Hansen,Undirected,1
+J. O. Fahle,R. Rasmussen,Undirected,1
+Gustav Holst,R. Rasmussen,Undirected,1
+Gustav Holst,Nathansen,Undirected,1
+Oluf,timmer,Undirected,1
+Gustav Holst,Ole Hansen,Undirected,1
+Carlsen,Gustav Holst,Undirected,1
+Carlsen,Haar,Undirected,2
+Nathansen,Oluf,Undirected,1
+Ellen,Oskar,Undirected,5
+Jensen-Viby,grant,Undirected,2
+Hollstorff,v. Hollstorff,Undirected,1
+Oluf,Taffels,Undirected,1
+Dit,hin,Undirected,1
+liun,v. Hollstorff,Undirected,1
+Ellen,liun,Undirected,1
+Ellen,d,Undirected,1
+Gud,Jensen-Viby,Undirected,1
+Aarestrup,Liebmann,Undirected,1
+Aarestrup,Erik Snare,Undirected,1
+Erik Snare,Kirkeby,Undirected,1
+Oluf,ban,Undirected,1
+Ellen,ban,Undirected,1
+Ellen,allenfals,Undirected,1
+Allandsens,nichts,Undirected,1
+Estrup,Karl,Undirected,1
+Kristian Pedersen,Rasmus Jensen,Undirected,2
+Oluf,lian,Undirected,2
+Oluf,Oskar With,Undirected,2
+Jantzen,Kristian Pedersen,Undirected,1
+Jantzen,Møller Tychsen,Undirected,1
+Jærnbaner,Oluf,Undirected,1
+Oluf,Wendt,Undirected,2
+Dagmar,Jensen-Viby,Undirected,1
+Jensen-Viby,Kong Valdemar,Undirected,1
+Oluf Larsen,Seir,Undirected,1
+Oluf,hnn,Undirected,1
+Oluf,Oskar,Undirected,2
+Dalby,Rasmus Jensen,Undirected,1
+Kristian Pedersen,Oluf,Undirected,3
+Oluf,Pedersen,Undirected,2
+Bravo,Oluf,Undirected,1
+Oluf,Pra,Undirected,1
+Møller Tychsen,Oluf,Undirected,1
+Kristian Pedersen,Møller Tychsen,Undirected,1
+Kristian Pedersen,Tychsen,Undirected,1
+Ilpostens,J. P. Fahle,Undirected,1
+Larsens,Oskar With,Undirected,1
+Ellen,Oskar With,Undirected,1

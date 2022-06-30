@@ -1,0 +1,107 @@
+source,target,type,weight
+Eiler Grubbe,Grubbe,Undirected,1
+Diana,Eiler Grubbe,Undirected,1
+Eiler Grubbe,Ida Krabbe,Undirected,4
+IGrubbe,Ida Krabbe,Undirected,1
+Aaens,Øreng,Undirected,1
+lee,monne dandse,Undirected,1
+Eiler Grubbe,Henrik Grubbe,Undirected,1
+Hans Krisfian,Henrik,Undirected,3
+Amine,Henrik,Undirected,20
+Amine,Hans Krisfian,Undirected,2
+Amine,Henrik Grubbe,Undirected,8
+Henrik,Henrik Grubbe,Undirected,4
+Amine,Hans Kristian,Undirected,2
+Henrik,iland,Undirected,1
+Grubbe,Henrik Grubbe,Undirected,3
+Amine,Roed,Undirected,2
+Alexander Krabbe,Eiler Grubbe,Undirected,1
+Grubbe,Ida Krabbe,Undirected,1
+Henrik Grubbe,Krabbe,Undirected,2
+Henrik Grubbe,Roed,Undirected,1
+Henrik,Roed,Undirected,3
+Hans Kristian,Henrik,Undirected,1
+Grubbe,Roed,Undirected,1
+Grubbe,Henrik,Undirected,8
+Gud,Krabbe,Undirected,1
+Gud,ester,Undirected,2
+Gud,Johannes,Undirected,1
+Amine,Gud,Undirected,9
+Alexander Cæsar Amandus,Polycarpus Cartesins von Krabbe,Undirected,1
+Alexander Cæsar,o. s. v. von Krabbe,Undirected,1
+Henrik,hnn,Undirected,2
+Henrik,Musici,Undirected,1
+Franst,Signora,Undirected,1
+Dandsens,dandse,Undirected,1
+Henrik,eiheller,Undirected,1
+Thora,gol,Undirected,3
+Thora,Væverstol,Undirected,2
+Dands,Kraff,Undirected,1
+Dands,Graad,Undirected,1
+Roed,Signora,Undirected,1
+Baronesse Krabbe,Henrik,Undirected,1
+Hagel,Henrik,Undirected,1
+Grubbe,alflags,Undirected,1
+Amme,Henrik,Undirected,2
+Amine,Hr. Kolby,Undirected,1
+Henrik,Hr. Kolby,Undirected,2
+Henrik,Karle,Undirected,2
+Grubbe,Præsfens,Undirected,1
+Henrik,ester,Undirected,2
+Dands,ester,Undirected,1
+Dands,Signoraen,Undirected,1
+Svend,ester,Undirected,1
+Henrik,Karlen,Undirected,1
+Karlen,seile,Undirected,1
+Amine,seile,Undirected,1
+Henrik,Rotur,Undirected,2
+Henrik,Øe,Undirected,1
+hnn,Øe,Undirected,1
+Amine fil Barn,Henrik,Undirected,1
+Amine,Amine fil Barn,Undirected,1
+Amine,Grubbe,Undirected,1
+Henrik Grubbe,Iris,Undirected,1
+Henrik,Iris,Undirected,1
+Erik,Henrik Grubbe,Undirected,1
+Henrik,ZEndcr,Undirected,1
+Henrik,Hnn,Undirected,1
+Henrik,as,Undirected,1
+as,ban,Undirected,1
+Henrik,Io,Undirected,1
+Gala,Henrik,Undirected,2
+Henrik,Souverains,Undirected,1
+Scirocco,Vesuv,Undirected,1
+Henrik Grubbe,Scirocco,Undirected,1
+Gud,Henrik Grubbe,Undirected,4
+Aaen,Henrik Grubbe,Undirected,1
+Henrik Grubbe,hnn,Undirected,1
+Amine,hnn,Undirected,1
+Amine,Mette Voergaard,Undirected,1
+Henrik Grubbe,Kolbys,Undirected,1
+Kolby,Kolbys,Undirected,1
+Amine,Kolby,Undirected,2
+Gud,Kolby,Undirected,1
+Capris,Henrik Grubbe,Undirected,1
+Capris,hnn,Undirected,1
+Dandsen,Henrik,Undirected,1
+Henrfk,Henrik,Undirected,1
+Henrik,søran,Undirected,2
+Elsfer,Gud,Undirected,1
+Gud,Hildes,Undirected,1
+Dands,Henrik,Undirected,1
+Henrik Grubbe,Øe,Undirected,1
+Dands,Violoncel,Undirected,2
+Henrik,Herman Flindt,Undirected,1
+Flindt,Herman Flindt,Undirected,1
+Flindt,Grubbe,Undirected,3
+Flindt,Henrik,Undirected,10
+Henrik,Henrik afsyne,Undirected,1
+Flindf,Henrik afsyne,Undirected,1
+Flindf,Henrik,Undirected,1
+Flindf,fig,Undirected,1
+Pathos,fig,Undirected,1
+Grubbe,von Quixote,Undirected,1
+Baronesse Krabbe,Krabbe,Undirected,1
+Henrik Grubbe,tillive,Undirected,1
+Henrik,hon,Undirected,1
+Amine,Præsfen,Undirected,1

@@ -1,0 +1,150 @@
+source,target,type,weight
+Garman,Holck,Undirected,14
+Christensen,Thomas Randulf,Undirected,3
+Christensen,Garman,Undirected,2
+Abraham Løvdahl,Holck,Undirected,1
+Abraham Løvdahl,Garman,Undirected,1
+Garman,Madam Spåckbom,Undirected,1
+Carsten Løvdahls,Withs,Undirected,1
+Randulfs,Withs,Undirected,1
+Morten Garman,Randulfs,Undirected,1
+Jacob Worse,Morten Garman,Undirected,1
+Christian Fredrik,Jacob Worse,Undirected,1
+Christian Fredrik,Sandsgaard,Undirected,1
+Christian Fredrik,voxen,Undirected,1
+Garman,Thomas Randulf,Undirected,1
+Christian Fredrik,Thomas Randulf,Undirected,1
+Abraham,Randulf,Undirected,2
+Garman,Randulf,Undirected,5
+Løvdahl,Randulf,Undirected,5
+Abraham,Løvdahl,Undirected,1
+Fanny Hiorth,Randulf,Undirected,1
+Fanny Hiorth,Morten Garman,Undirected,1
+Morten Garman,Randulf,Undirected,1
+Abraham Løvdahl,Randulf,Undirected,2
+Abraham Løvdahl,Christian Fredrik,Undirected,1
+Christian Fredrik,Randulf,Undirected,2
+Holck,Løvdahl,Undirected,5
+Holck,Randulf,Undirected,10
+Christian Fredrik,Holck,Undirected,2
+Madame Blomgreens,Randulf,Undirected,1
+Løvdahl,Madame Blomgreens,Undirected,1
+Holck,LøvdahlI,Undirected,1
+Abraham,Morten Kruse,Undirected,3
+Iversen,R.und,Undirected,1
+Iversen,Madame Eriksen,Undirected,2
+Iversen,Løvdahl,Undirected,3
+Abraham,Iversen,Undirected,1
+Iversen,Randulf,Undirected,1
+Christensen,Ellingsen,Undirected,2
+Christensen,Ivar Ellingsens,Undirected,1
+Ellingsen,Larsen,Undirected,1
+Ellingsen,Morten Kruse,Undirected,1
+Ivar Ellingsen,Morten Kruse,Undirected,1
+Ellingsen,Randulf,Undirected,2
+Madam Blomgreen,Randulf,Undirected,1
+Ivar Ellingsen,Madame Blomgreens,Undirected,1
+Randulf,Randulf-,Undirected,1
+Madame Blomgreen,Randulf,Undirected,5
+Madame Blomgreen,Thomas Randulf,Undirected,2
+Constance,Thomas Randulf,Undirected,3
+Madame Blomgreen,Selters,Undirected,1
+Constance,Randulf,Undirected,10
+Constance Blomgreen,Randulf,Undirected,1
+Constance,Madam Blomgreen,Undirected,1
+Blomgreen,Thomas Randulf,Undirected,1
+Blomgreen,Hr. Randulf,Undirected,1
+Ellingsen,lille Frøken Gine,Undirected,1
+Ellingsen,Kruse,Undirected,1
+Kruse,Randulf,Undirected,2
+Christensen,Holck,Undirected,2
+Holck,Ivar Ellingsen,Undirected,1
+Ivar Ellingsen,Sørensen,Undirected,1
+Iversen,Sørensen,Undirected,3
+Iversen,Thomas Randulf,Undirected,1
+Thomas Randulf,sist,Undirected,1
+Doppe,sist,Undirected,1
+Christian Fredrik,Iversen,Undirected,1
+Christian Fredrik,Hr. Ellingsen,Undirected,1
+Christensen,Ivar Ellingsen,Undirected,2
+Garman,Iversen,Undirected,1
+Garman,Porter,Undirected,1
+Christensen,Randulf,Undirected,2
+Christensen,Løvdahl,Undirected,1
+Christensen,Ivar,Undirected,1
+Christian Frederik,Randulf,Undirected,1
+Christian Frederik,Holck,Undirected,1
+Christian Frederik,Doppe,Undirected,1
+Christian,Frederik,Undirected,1
+Carsten Løvdahls,Morten Kruse,Undirected,1
+Jørgen,Madame Kruse,Undirected,1
+Jørgen,Morten,Undirected,1
+Gud,Morten,Undirected,1
+Kruse,Morten,Undirected,2
+Gud,Kruse,Undirected,2
+Jørgen Kruse,lille Morten,Undirected,1
+Jesus,Jørgen Kruse,Undirected,1
+Jørgen,Morten Kruse,Undirected,1
+Jørgen Kruse,Morten Kruse,Undirected,1
+Kruse,Morten Kruse,Undirected,1
+Kruse,Sparre,Undirected,1
+Morten Kruse,Sparre,Undirected,2
+Jesus,Kruse,Undirected,2
+Gud,Morten Kruse,Undirected,3
+Morten,Morten Kruse,Undirected,1
+Fredrikkes,Jørgen,Undirected,1
+Løvdahl,Morten Kruse,Undirected,4
+Fredrikke,Løvdahl,Undirected,1
+Claras,Kruse,Undirected,1
+Abraham,Kruse,Undirected,1
+Gud,Løvdahl,Undirected,1
+F'ørst,Peder Pedersen,Undirected,1
+Gud,Peder Pedersen,Undirected,1
+Løvdahl,Peder Pedersen,Undirected,1
+Emma,Emma Sørensen,Undirected,1
+Constance,Kruse,Undirected,3
+Iversen,Kruse,Undirected,5
+Christensen,Kruse,Undirected,1
+Christensen,Iversen,Undirected,6
+Iversen,Peder Pedersen,Undirected,2
+Iversen,ivold,Undirected,1
+Iversen,spodsk,Undirected,1
+Løvdahl,spodsk,Undirected,1
+Constance,Madame Blomgreen,Undirected,5
+Blomgreen,Constance,Undirected,2
+Randulf,iblinde,Undirected,1
+Jesus,iblinde,Undirected,1
+Kruse,Madame Blomgreen,Undirected,2
+Iversen,Simon Taskeland,Undirected,1
+Simon,Simon Taskeland,Undirected,1
+Iversen,Morten Kruse,Undirected,1
+Kruse,Thomas Randulf,Undirected,1
+Peder Pedersen,Randulf,Undirected,1
+Kristum,Madame Eriksen,Undirected,1
+Holck,I. C. Garman,Undirected,1
+Christian Fredrik,Emma Sørensen,Undirected,1
+Christian Fredrik,Constance Blomgreen,Undirected,1
+Doppe,Garman,Undirected,1
+Ivar Ellingsen,Madame,Undirected,1
+Gud,Ivar Ellingsen,Undirected,1
+A. K.,Randulf,Undirected,2
+A. K.,L.,Undirected,1
+Abraham Knorr Løvdahl,L.,Undirected,1
+Garman,Ivar Ellingsen,Undirected,1
+Ivar Ellingsen,Løvdahl,Undirected,1
+Ivar,Morten Kruse,Undirected,1
+Ellingsen,Ivar,Undirected,1
+Ellingsen,Peder Pedersen,Undirected,2
+Ivar Ellingsen,Peder Pedersen,Undirected,2
+Ivar,Peder Pedersen,Undirected,2
+Ivar Ellingsen,Peder,Undirected,1
+Christensen,Sørensen,Undirected,1
+Ivar Ellingsen,Kruse,Undirected,2
+Peder,Peder Pedersen,Undirected,1
+Doppe,Kapellan Doppe,Undirected,1
+Kapellan Doppe,Randulf,Undirected,1
+Doppe,Kruse,Undirected,1
+Iversen,Madame Blomgreen,Undirected,1
+Kruse,Peder Pedersen,Undirected,1
+Peder Pedersen,eie,Undirected,1
+Christian Fredrik,Løvdahl,Undirected,1

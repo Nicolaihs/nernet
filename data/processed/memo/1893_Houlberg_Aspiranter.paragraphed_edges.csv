@@ -1,0 +1,127 @@
+source,target,type,weight
+Lars Hjulmand,Lars Jespersen,Undirected,1
+Ane Marie,Lars,Undirected,9
+Ane Marie,Lars Hjulmand,Undirected,2
+Lars,Mads Olsens,Undirected,1
+Ane Marie,Reseda,Undirected,1
+Lars.,Reseda,Undirected,1
+Rasmus,tor,Undirected,1
+Rasmus Jespersen,tor,Undirected,1
+Lars,Lars Hjulmand,Undirected,1
+Lars,Rasmus,Undirected,3
+Olsen,Rasmus,Undirected,3
+Gud,Rasmus,Undirected,1
+Lars,Søren Pind,Undirected,2
+Lars,Maren,Undirected,1
+Søren,sorn,Undirected,1
+Lars Hjulmand,Søren,Undirected,1
+Søren Pind,lian,Undirected,1
+Estrup,lian,Undirected,1
+Estrup,Søren,Undirected,1
+Søren,lian,Undirected,1
+Søren,Søren Pind,Undirected,1
+Rasmus Vidn%,Søren,Undirected,2
+Rasmus,Søren,Undirected,1
+Maren,sinKone,Undirected,1
+Rasmus,Rasmuses,Undirected,2
+Mikkel,Mikkel Skrædders,Undirected,1
+Mikkel,Rasmus,Undirected,1
+Ingeborg Olsen,Rasmus,Undirected,4
+Ingeborg Olsen,Mikkel,Undirected,1
+Ane,Lars,Undirected,1
+Ane,Marie,Undirected,1
+Lars,Mari,Undirected,1
+Mari,Niels,Undirected,1
+Ane Marie,Rasmus,Undirected,2
+Madam Jespersen,Rasmus,Undirected,1
+Lars,Madam Jespersen,Undirected,1
+Rasmus,lian,Undirected,6
+Christian Møller,Rasmus Jespersen,Undirected,2
+Christian,Rasmus,Undirected,66
+Juncker,Svendsen,Undirected,6
+Juncker,Winther,Undirected,4
+Juncker,paany,Undirected,1
+Christian,Darwins,Undirected,1
+Juncker,lian,Undirected,1
+Christian,Juncker,Undirected,3
+'Winther,Christian,Undirected,1
+Svendsen,Winther,Undirected,2
+Hille,Svendsen,Undirected,1
+-Svendsen,Winther,Undirected,1
+Rasmus,Winther,Undirected,4
+Mersch,Rasmus,Undirected,1
+Christian —,Viggo,Undirected,1
+Juncker,Rasmus,Undirected,8
+Christian,lian,Undirected,3
+Juncker,Reimer,Undirected,1
+Jespersen,Reje,Undirected,1
+Jespersen,Ulriksen,Undirected,1
+Frederiksen,Ulriksen,Undirected,1
+Diderichsen,Frederiksen,Undirected,1
+Jespersen,Juncker,Undirected,1
+Rasmus kunde,Winther,Undirected,1
+Christian,Winther,Undirected,1
+Karl lian,Rasmus Jespersen,Undirected,1
+Rasmus,Tut,Undirected,1
+Viggo,Viggo Møller,Undirected,1
+Beli-sarius,Viggo,Undirected,1
+Iversen,Viggo,Undirected,2
+Larsen,lian,Undirected,1
+Iversen,Larsen,Undirected,1
+Besten,Iversen,Undirected,2
+Christian,Viggo,Undirected,4
+Jomfru Madsen,Viggo,Undirected,1
+Christian,Rasmuses,Undirected,5
+Reje,Viggo,Undirected,1
+Christian,Jomfru Madsen,Undirected,1
+Jomfru Madsen,Møller,Undirected,1
+Alfred,lian,Undirected,2
+Alfred,Møller,Undirected,1
+Christian Møller,Rasmus es,Undirected,1
+Rasmus,livor Christians,Undirected,1
+Christian,Jespersen,Undirected,2
+Ane Marie,Gud,Undirected,1
+Christian,Rasmus1,Undirected,1
+Lars,Rasmus1,Undirected,1
+Lars,Olsen,Undirected,1
+Christian,Ingeborgs,Undirected,1
+Ingeborg,Rasmus,Undirected,6
+Rasmuses,Søren Pind,Undirected,1
+Mikkel Skrædder,Søren Pind,Undirected,1
+Maren,Søren Pind,Undirected,1
+Christian,Lars,Undirected,1
+Kusk,Lars Hjulmand,Undirected,1
+Belisarius,Jespersen,Undirected,1
+Christian,Kængs,Undirected,1
+Christian,Karlen,Undirected,1
+Christian,Rasmus Jespersen,Undirected,5
+Christian,Rossa,Undirected,1
+Christian Møller,aren,Undirected,1
+Ingeborg,Onkels,Undirected,1
+Ingeborg,Olsen,Undirected,3
+Jakobsen,Rasmus-,Undirected,1
+Christian,Jakobsen,Undirected,1
+Christian,Ingeborg Olsen,Undirected,3
+Christian,Møller,Undirected,3
+Burrer,Jespersen,Undirected,1
+Jespersen,liam,Undirected,1
+Christian,Mersch,Undirected,2
+Arne,Jespersen,Undirected,1
+Ingeborg,Jespersen,Undirected,1
+Rasmus,hjælpe-Ingeborg,Undirected,1
+Ingeborg,Pe’r,Undirected,1
+Hansens,Pe’r,Undirected,1
+Grethe,Hansens,Undirected,1
+Inge borg,Rasmus,Undirected,1
+Christian,Ingeborg,Undirected,7
+Hostrups,Olsen,Undirected,1
+Hostrups,Ingeborg,Undirected,1
+Ogival,Rasmus,Undirected,2
+Rasmus,Svejs,Undirected,1
+.graasorte,Rasmus,Undirected,2
+Frøken Olsen,Jespersen,Undirected,1
+Rasmus Jespersen,lian,Undirected,1
+Christian Møller,Ingeborg Olsen,Undirected,2
+Christian Møller,Jespersen,Undirected,2
+Christian,Frøken Olsen,Undirected,1
+Jespersen,Olsen,Undirected,1

@@ -1,0 +1,175 @@
+source,target,type,weight
+Emil,Livree,Undirected,1
+Livree,Norstrand,Undirected,1
+Norstrand,Stjernholm,Undirected,1
+Gud,Norstrand,Undirected,1
+Moer,Norstrand,Undirected,1
+Emil,Haabets,Undirected,1
+Hans Norstrand,Napoleons,Undirected,1
+Hans høie,Napoleons,Undirected,1
+Emil,Norstrand,Undirected,5
+Mutter,Norstrand,Undirected,2
+Anker,Emil,Undirected,29
+Anker,Grevinden,Undirected,1
+Anker,Grev Stjernholm,Undirected,1
+Arabella,Grev Stjernholm,Undirected,1
+Anker,Madam Norstrand,Undirected,2
+Anker,Øe,Undirected,1
+Anker,sfal,Undirected,1
+Escadroner holsteensfe,Karle,Undirected,1
+Effer,Karle,Undirected,1
+Effer,Norstrand,Undirected,1
+Arabella,Norstrand,Undirected,2
+Emil,Moiroes,Undirected,2
+Emil,natnrtroe,Undirected,1
+Emil,Raphaels,Undirected,1
+Arabella,Nonchalance,Undirected,1
+Alfred Staal,Nonchalance,Undirected,1
+Kievisch,Staal,Undirected,12
+Kievisch,Stjernholm,Undirected,5
+Norsfrand,Staal,Undirected,1
+Norsfrand,bien,Undirected,1
+Arabella,Staal,Undirected,19
+Aarabellas,Arabella,Undirected,1
+Aarabellas,Stjernholm,Undirected,1
+Arabella,Stjernholm,Undirected,2
+Emil,Øe,Undirected,1
+Emil,Hr. Norstrand,Undirected,2
+Emil,Roes,Undirected,1
+Amors,Øe,Undirected,1
+Arabella,Emil,Undirected,42
+Arabella,Comtessen,Undirected,2
+Emil,Kokettes,Undirected,1
+Anker,Kokettes,Undirected,1
+Anker,Kongsberg,Undirected,2
+Arabella,Sjels,Undirected,1
+Emil,hans Arne,Undirected,1
+Arabella,hnn,Undirected,3
+Emil,hnn,Undirected,1
+Arabella,Herkules,Undirected,1
+Arabella,Mama,Undirected,1
+Mama,Norstrand,Undirected,1
+Gud,hnn,Undirected,1
+Comtesse Stjernholm,Dn,Undirected,1
+Comtesse Stjernholm,Norstrand,Undirected,1
+Norstrand,Staal,Undirected,1
+Gud,Staal,Undirected,1
+Arabella,Correggio,Undirected,1
+Emil,Michel Angelo,Undirected,1
+Comtesse,Michel Angelo,Undirected,1
+Staal,della,Undirected,1
+Emil,Madam Norstrand,Undirected,3
+Anker,Arabella,Undirected,11
+Emil,Hans Norstrand,Undirected,1
+Arabella,Comtesse,Undirected,1
+Comtesse,Jacob,Undirected,1
+Arabella,Jacob,Undirected,10
+Comtessen,Jacob,Undirected,2
+Emil,Maasfee,Undirected,1
+Staal,fig,Undirected,1
+Emil,fig,Undirected,1
+Arabella,Mathilde P.,Undirected,1
+Kievisch,Kongsberg,Undirected,3
+Arabella,Kongsberg,Undirected,1
+Kicvisch,Staal,Undirected,1
+Grevinde Stjernholms,Kongsberg,Undirected,1
+Ellen,Hilda,Undirected,7
+Hilda,Vilhelm Emil,Undirected,1
+Emil,Vilhelm Emil,Undirected,1
+Ellen,Emil,Undirected,9
+Dands,Ellen,Undirected,1
+Dands,Kievisch,Undirected,1
+Baronesse Hildas,Kievisch,Undirected,1
+Baronesse Hildas,Emil,Undirected,1
+Emil,Kievisch,Undirected,13
+Emil,Stjernholm,Undirected,2
+Emil,Vilhelm,Undirected,1
+Hilda,Vilhelm,Undirected,2
+Hilda,Lars Olsen,Undirected,1
+Staal,Stjernholm,Undirected,1
+Arabella,Kievisch,Undirected,11
+Comtessen,Staal,Undirected,1
+Arabella taug,Staal,Undirected,1
+Hilda,Kievisch,Undirected,7
+Kievisch,Vilhelm,Undirected,3
+Norstrand,Vilhelm,Undirected,1
+Ellen,Norstrand,Undirected,1
+Emil,Frank,Undirected,1
+Frank,Kievisch,Undirected,2
+Kievisch,Wilhelm,Undirected,3
+Comtesse Hilda,Kievisch,Undirected,1
+Kievsich,kasfe,Undirected,1
+Kievsich,sor,Undirected,1
+Valdhorn,sor,Undirected,1
+Kievisch,Valdhorn,Undirected,1
+Ellen,Tosselars,Undirected,1
+Emil,Hilda,Undirected,4
+Emil,Wilhelm,Undirected,4
+Emil,Gud,Undirected,3
+Ellen,Gud,Undirected,1
+Ellen,Wilhelm,Undirected,1
+Emil,hiin,Undirected,1
+Hilda,Wilhelm,Undirected,3
+Arabella,Baronesse Hilda,Undirected,2
+Kievisch,lille Ellen,Undirected,1
+Baron Vilhelms,Kongsberg,Undirected,1
+Baron Vilhelms,Hilda,Undirected,1
+Arabella,Doctor Anker,Undirected,3
+Doctor Anker,Grosserer Frederiksens,Undirected,2
+Arabella,Deel,Undirected,1
+Deel,Frisf,Undirected,1
+Anker,Frisf,Undirected,1
+Gud,Stjernholm,Undirected,1
+Rikke,Staal,Undirected,1
+Arabella,Jacob Petersen,Undirected,1
+Maastee,Staal,Undirected,1
+Arabella,Priis,Undirected,1
+Jacob,Staal,Undirected,1
+Gud,Jacob,Undirected,1
+Doctor Anker,Kievisch,Undirected,1
+Frederiksen,Kievisch,Undirected,1
+Frederiksen,Kongsberg,Undirected,1
+Kongsberg,Norstrand,Undirected,1
+Emil,Kongsberg,Undirected,2
+Kongsberg,Staal,Undirected,1
+Gud,Pleti,Undirected,1
+Anker,Stjernholm,Undirected,1
+Arabella,Frederiksen,Undirected,1
+Anker,Staal,Undirected,3
+Doctor Anker,Staal,Undirected,1
+Anker,Gud,Undirected,1
+Arabella,Gud,Undirected,2
+Emil stal,Moer,Undirected,1
+Norstrand,Sopha,Undirected,1
+Maria Stuarts,amour,Undirected,1
+Anker,amour,Undirected,1
+Anker,Madam Norsfrands,Undirected,1
+Madam Norsfrands,Thee,Undirected,1
+Emil,elffe,Undirected,1
+Comtesse Stjernholm,Emil,Undirected,1
+Frederiksen,Stjernholm,Undirected,1
+Frederiksen,Staal,Undirected,1
+Stjernholm,Wilhelm,Undirected,1
+Kongsberg,Stjernholm,Undirected,1
+Hilda,Stjernholm,Undirected,1
+Grevinde Stjernholms,Kievisch,Undirected,1
+Hilda,lille Wilhelm,Undirected,1
+Anker,Edvard,Undirected,1
+Anker,Kievisch,Undirected,1
+Juveleer Christensen,Stjernholm,Undirected,1
+Staal,blamere,Undirected,1
+Anker,Comtessen,Undirected,1
+Arabella,Madam Norstrand,Undirected,1
+Doctor Anker,Stjernholm,Undirected,1
+Arabella Stjernholm,Emil,Undirected,2
+Gud,Madam Norstrand,Undirected,1
+Emil,asbrød,Undirected,1
+Emil,Staal,Undirected,1
+Arabella,reisfe,Undirected,1
+Emil,reisfe,Undirected,1
+Arabella Stjernholm,Ariadnes,Undirected,1
+Arabella,Hilda Kongsbergs,Undirected,1
+Baronesse Hilda,Vilhelm,Undirected,2
+Baronesse Hilda,Emil,Undirected,1
+Stjernholm,Vilhelm,Undirected,1
+Arabella,Hilda,Undirected,1

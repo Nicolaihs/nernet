@@ -1,0 +1,423 @@
+source,target,timestamp
+Jens Tapdrup,Knud Taars,2
+Jens Tapdrup,Pylle,2
+Knud,Pylle,2
+Knud,Pylle,2
+Pyile,Pylle,2
+Knud,Pyile,2
+Egil,Eigil Holmer,3
+Holmer,Knud,6
+Eigil,Knud,9
+Eigil,Knud,9
+Asta Gormsen,Knud,9
+Asta,Knud,10
+Eigil,Knud,10
+Pylle,Vanning,19
+Knud,Pylle,24
+Knud,Vanning,24
+Knud,Vanning,24
+Eigil,Knud,24
+Eigil,Knud,24
+Pyile,Pylle,25
+Knud,Pylle,27
+Eigil,Pylle,27
+Asta,Eigil,27
+Knud,Pylle,29
+Knud,paany,35
+Asta,Eigil,39
+Asta,Knud,43
+Eigil,Knud,45
+Asta,Eigil,47
+Knud,Pylle,49
+Eigil,Knud,49
+Eigil,Pylle,50
+Eigil,Selmann,56
+Eigil,Thomsen,57
+Eigil,Hr. Holmer,58
+Eigil,Frøken Lynov,61
+Frøken Lynov,Thomsen,61
+Frøken Lynov,Lynov,65
+Lynov,Molly,65
+L’,Molly,65
+L’,Thomsen,65
+L’,Thomsen,65
+Eigil,Molly,68
+Eigil,Thomsen,69
+Eigil,Molly,70
+Eigil,Thomsen,71
+Eigil,Thomsen,71
+Eigil,Thomsen,72
+Thomsen,hartad,81
+Eigil,hartad,81
+Eigil,Thomsen,83
+Eigil,Thomsen,86
+Eigil,Thomsen,86
+Knud,Pylle,87
+Knud,Pylle,87
+Asta,Pylle,87
+Asta,Knud,87
+Asta,Knud,87
+Asta,Eigil,88
+Asta,Knud,88
+Asta,Knud,88
+Asta,Pylle,88
+Knud,Pylle,88
+Knud,Thomsen,88
+Knud,Thomsen,88
+Knud,Thomsen,88
+Knud,Pylle,90
+Asta,Pylle,90
+Asta,Knud,90
+Eigil,Knud,90
+Eigil,Thomsen,91
+Eigil,Thomsen,91
+Eigil,Thomsen,92
+Eigil,Thomsen,93
+Selmann,Thomsen,95
+Eigil,paany,99
+Eigil,Knud,104
+Eigil,Knud,108
+Eigil,Knud,109
+Sebaldsen,Sebaldsens,113
+Eigil,Es,116
+Eigil,Sebaldsen,117
+Eigil,Pylle,121
+Asta Gormsen,Pylle,121
+Asta Gormsen,Eigil,121
+Eigil,Knud,121
+Knud,Pylle,121
+Asta,Pylle,121
+Asta,Eigil,121
+Asta,Eigil,122
+Asta,Knud,123
+Asta,Eigil,123
+Asta,Knud,134
+Asta,Eigil,136
+Egil,Knud,137
+Egil,Knud,137
+Asta,Knud,138
+Asta,Eigil,138
+Eigil,Guds,139
+Asta,Eigil,143
+Asta,Knud,143
+Asta,Knud,147
+Eigil,Knud,147
+Eigil,Knud,153
+Eigil,Knud,155
+Asta,Eigil,155
+Molly,Thomsen,159
+Frøken Lynov,Karl,160
+Eigil,Pylle,161
+Eigil,Pylle,163
+Eigil,Frøken Lynov,164
+Eigil,Henrik Ibsens,164
+Carl Møller,Henrik Ibsens,164
+Eigil,Pylle,165
+Eigil,Henrik Ibsens,167
+Eigil,Pylle,167
+Eigil,Pylle,167
+Eigil,Knud,169
+Eigil,Fincke,172
+Asta,Eigil,172
+Knud,Tarlatan,173
+Eigil,Thomsen,174
+Eigil,Pylle,175
+Eigil,Pylle,175
+Eigil,Molly,176
+Pylle,Thomsen,177
+Eigil,Pylle,184
+Eigil,Fincke,186
+Frøken Johansen,Pylle,187
+Eigil,Selmann,188
+Eigil,Selmann,189
+Eigil,Fincke,189
+Fincke,Thomsen,191
+Sifon,Thomsen,191
+Pylle,Sifon,191
+Eigil,Graaden,199
+Holmer,Molly,208
+Eigil,Molly,212
+Etatsraad Selmanns,Molly,214
+Eigil,Molly,214
+Eigil,Molly,215
+Eigil,Thomsen,220
+Eigil,Thomsen,221
+Eigil,Schopenhauer,221
+Asta,Knud,223
+Hr. Taars,s,227
+Hr. Taars,Knud,230
+Asta,Knud,233
+Asta,Knud,233
+Knud,Pylle,234
+Asta,Knud,234
+Knud,Pylle,235
+Asta,Knud,236
+Asta,Pylle,236
+Knud,Pylle,236
+Asta,Pylle,243
+Asta,Pylle,248
+Asta,Knud,249
+Asta,Pylle,249
+Eigil,Pylle,252
+Asta,Eigil,252
+Asta,Molly,252
+Eigil,Molly,252
+Eigil,Pylle,252
+Eigil,Pylle,252
+Eigil,Molly,252
+Eigil,Molly,252
+Eigil,Pylle,252
+Eigil,Pylle,252
+Asta,Knud,255
+Eigil,Knud,259
+Asta,Knud,260
+Hr. Holmer,Knud,266
+Asta,Eigil,267
+Asta,Eigil,275
+Eigil,Frøken Lynov,279
+Eigil,Molly,285
+Eigil,Molly,285
+Eigil,Molly,286
+Eigil,Thomsen,291
+Eigil,Molly,291
+Eigil,Molly,291
+Madam Olsen,Olsen,295
+Eigil,Frøken Lynov,307
+Frøken Lynov,Thomsen,307
+Eigil,Molly,308
+Eigil,L’,309
+L’,Thomsen,309
+Eigil Filippine,Thomsen,309
+Lynov,Rasmussen,312
+Lynov,Rasmussen,312
+Madam Olsen,Olsen,318
+Eigil,Molly,327
+Mo,Molly,330
+Molly,Mo’,333
+Fa,Molly,338
+Eigil,Molly,340
+Eigil,Frøken Lynov,350
+Gud,Molly,353
+Eigil,Molly,364
+Molly,Olsen,364
+Harder,Olsen,365
+Adam,Olsen,366
+Adam,Eva,366
+Karl,Olsen,367
+Harder,Olsen,368
+Frøken Selmann,Madam Olsen,377
+Gud,Harder,379
+Madam Olsen,Molly,385
+Madam Olsen,Olsen,385
+Harder,Molly,386
+Harder,Olsen,391
+Harder,Marie,391
+Harder,Marie,391
+Frøken Lynov,Molly,395
+Frøken Lynov,Harder,397
+Gud,Molly,400
+Frøken Lynov,Hr. Harder,402
+Frøken Lynov,Harder,405
+Harder,Molly,408
+Frøken Lynov,Harder,409
+Frøken Lynov,Olsen,410
+Asta,Eigil,413
+Asta,Eigil,415
+Asta,Eigil,416
+Asta,Knud,416
+Asta,Knud,416
+Asta,Knud,416
+Eigil,Harder,421
+Eigil,Molly,421
+Harder,Molly,421
+Asta,Hans,422
+Asta,Molly,422
+Asta,Eigil,424
+Asta,Knud,424
+Asta,Molly,425
+Asta,Knud,425
+Asta,Knud,426
+Asta,Knud,427
+Asta,Knud,427
+Asta,Knud,429
+Asta,Knud,429
+Eigil,Knud,429
+Eigil,Toilette,430
+Knud,Toilette,430
+Knud,Pylle,431
+Knud,Pylle,431
+Knud,Pylle,432
+Knud,Pylle,433
+Asta,Pylle,433
+Asta,Pylle,433
+Knud,Pylle,433
+Asta,Knud,434
+Asta,Knud,434
+Asta,Knud,434
+Asta,Eigil,434
+Asta,Eigil,434
+Asta,Knud,434
+Eigil,Knud,434
+Eigil,Knud,434
+Knud,paany,434
+Eigil,Knud,435
+Eigil,Knud,435
+Eigil,Pylle,435
+Eigil,Pylle,435
+Eigil,Knud,435
+Asta,Knud,435
+Asta,Knud,435
+Asta,Knud,435
+Asta,Knud,435
+Eigil,Knud,435
+Asta,Eigil,435
+Asta,Knud,436
+Asta,Knud,438
+Asta,Knud,439
+Asta,Eigil,440
+Asta,Molly,441
+Asta,Knud,441
+Asta,Knud,442
+Eigil,Knud,442
+Asta,Knud,443
+Eigil,Knud,444
+Knud,Pylle,449
+Asta,Eigil,456
+Eigil,Harder,461
+Eigil,Harder,461
+Molly,Olsen,462
+Molly,Olsen,462
+Eigil,Harder,463
+Eigil,Molly,463
+Eigil,Molly,463
+Eigil,Harder,464
+Eigil,Harder,464
+Madam Olsen,Olsen,465
+Harder,Olsen,466
+Harder,Olsen,466
+Harder,Olsen,467
+Eigil,Harder,467
+Harder,Molly,468
+Eigil,Molly,468
+Harder,Olsen,470
+Asta,Knud,472
+Asta,Eigil,472
+Eigil,Knud,472
+Eigil,Knud,472
+Eigil,Knud,472
+Asta,Knud,472
+Asta,Eigil,472
+Asta,Knud,473
+Asta,Eigil,473
+Asta,Eigil,474
+Asta,Eigil,475
+Eigil,Knud,475
+Eigil,Knud,475
+Knud,Knud —,478
+Asta,Eigil,506
+Buk,Eigil,506
+Buk,Genhlisen,506
+Frue,Knud,507
+Frue,Knud,507
+Knud,Pylle,517
+Pylle,Vanning,517
+Asta,Knud,519
+Knud,Pylle,520
+Knud,Pylle,521
+Knud,Pylle,522
+Knud,Pylle,523
+Knud,Pylle,524
+Eigil,Harder,529
+Harder,Knud,529
+Knud,Pylle,529
+Eigil,Pylle,529
+Eigil,Knud,529
+Knud,Pylle,529
+Eigil,Selmann,530
+Eigil,Molly,530
+Eigil,Harder,531
+Eigil,Harder,534
+Gudbevares,gudbevares,536
+Harder,Selmann,539
+Knud,Pylle,548
+Molly,Olsen,550
+Eigil,Molly,552
+Molly,Olsen,553
+Molly,Olsen,554
+Eigil,Molly,555
+Eigil,Olsen,555
+Eigil,lille Molly,556
+Eigil,Olsen,559
+Eigil,Molly,559
+Harder,Molly,560
+Harder,Molly,560
+Eigil,Harder,560
+Molly,Olsen,561
+Eigil,Olsen,562
+Barnegraad,Olsen,562
+Eigil,Molly,564
+Molly,Olsen,567
+Eigil,Olsen,569
+Eigil,Molly,576
+Harder,Molly,581
+Eigil,Harder,581
+Eigil,Olsen,581
+Moll,Olsen,581
+Molly,Stella Hiller,582
+Stella,Stella Hiller,582
+Eigil,Molly,590
+Knud,Pylle,593
+Knud,Madam Jensen,593
+Knud,Madam Jensen,594
+Knud,Pylle,596
+Madam Jensen,Pylle,597
+Madam Jensen,Pylle,597
+Knud,Madam Jensen,600
+Asta,Knud,602
+Knud,Pylle,608
+Knud,Pylle,608
+Asta,Pylle,609
+Asta,Pylle,610
+Asta,Knud,612
+Asta,Madam Jensen,614
+Asta,Pylle,617
+Asta,Pylle,617
+Knud,Pylle,618
+Asta,Knud,618
+Asta,Knud,619
+Asta,Knud,620
+Knud,Pylle,620
+Asta,Pylle,621
+Asta,Knud,621
+Asta,Knud ret,625
+Asta,Knud ret,625
+Asta,Knud,625
+Knud,Pylle,626
+Asta,Knud,627
+Knud,Pylle,628
+Knud,Pylle,628
+Asta,Knud,631
+Eigil,Iver,632
+Molly,Olsen,634
+Molly,Olsen,634
+Eigil,Olsen,635
+,Molly,637
+Gud,Harder,642
+Gud,Harder,642
+Harder,Molly,653
+Harder,Molly,653
+Harder,Molly,653
+Harder,Molly,653
+Eigil,Molly,654
+Eigil,Molly,657
+Eigil,Graad,658
+Harder,Molly,659
+Harder,Olsen,659
+Harder,Molly,660
+Eigil,Molly,660
+Eigil,Harder,660
+Eigil,Harder,660
+Knud Taars,Taars,670
+Eigil,Knud,678
+Eigil,Eigil Holmer,680
+Harder,Molly,684

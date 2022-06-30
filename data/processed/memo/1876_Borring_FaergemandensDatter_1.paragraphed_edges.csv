@@ -1,0 +1,355 @@
+source,target,type,weight
+John Harrison,Lars,Undirected,5
+Lars Færgemand,sledsk,Undirected,1
+felv,sledsk,Undirected,1
+John,Lars,Undirected,2
+John,Lars Færgemand,Undirected,1
+Ingeborg,Lars,Undirected,7
+Jep Johnsen,Karen,Undirected,8
+Jep,Karen,Undirected,17
+Jep,Jep Johnsen,Undirected,1
+Jep,Jxp,Undirected,1
+Ingeborg,Jxp,Undirected,1
+Iohnsen,Jep,Undirected,2
+Iohnsen,Karen,Undirected,1
+Aarle,Gud,Undirected,1
+Gud,Karen,Undirected,6
+Ingeborg,Karen,Undirected,2
+Karen,Knud,Undirected,6
+Knud,def,Undirected,1
+Jep Johnsen,Knnd,Undirected,1
+Ingeborg,Knud,Undirected,26
+Gud,Knud,Undirected,9
+Knud,oz,Undirected,1
+grant,oz,Undirected,1
+Christen Baadsmand,Gud,Undirected,3
+Fatter Petrus,Jep Johnsen,Undirected,1
+Christen Baadsmand,Christoffer,Undirected,1
+Knud,kjær,Undirected,1
+Gud,Ingeborg,Undirected,12
+Holla,holla,Undirected,1
+Christoffer,holla,Undirected,1
+Margrethe,fiden,Undirected,1
+Christoffer,Margrethe,Undirected,20
+Christen,Christoffer,Undirected,1
+Chrisfen Baadsmand,iland,Undirected,1
+Hnn,hann,Undirected,1
+Knud,hann,Undirected,1
+Gud,Jep Johnsen,Undirected,2
+Christen Baadsmand,Jep Johnsen,Undirected,2
+Christoffer,Ingeborg,Undirected,3
+Ingeborg,Ole,Undirected,11
+Christoffer,Knud,Undirected,4
+Broder,Ole,Undirected,1
+Christoffer,Ole,Undirected,2
+Anker,Christoffer,Undirected,2
+Anker,Knud,Undirected,1
+Hopsasa,Margrethe,Undirected,1
+Hopsasa,tralala,Undirected,1
+Christoffer,Gud,Undirected,6
+Chrisfoffer,Ingeborg,Undirected,1
+Ingeborg,kjær,Undirected,1
+Knud,Margrethe,Undirected,2
+Lars Færgemand,Ole,Undirected,1
+Lars Færgemand,Margrethe,Undirected,6
+Jep Johnsen,Ole,Undirected,3
+John Harrison,Ole,Undirected,2
+John Harrison,Johnsen,Undirected,1
+Jep,Knud,Undirected,2
+Harrison,Ole,Undirected,2
+Knud,Ole,Undirected,12
+Ingeborg,Knud reisf,Undirected,1
+Ingeborg,John Harrison,Undirected,7
+Gud,John Harrison,Undirected,2
+Gud,Steen,Undirected,2
+Ole,Steen,Undirected,1
+Jep Johnsen,John Harrison,Undirected,3
+Ingeborg,Jep Johnsen,Undirected,8
+Christen Baadsmand,Ole,Undirected,2
+Christen,Skaal,Undirected,1
+Ingeborg,Margrethe,Undirected,9
+Margrethe,ftal,Undirected,1
+Gud,sfal,Undirected,1
+Knud,sfal,Undirected,1
+Gud,Margrethe,Undirected,5
+John Harrison,Margrethe,Undirected,4
+Ingeborg,Johnsen,Undirected,1
+Lars Færgemand,jusf,Undirected,1
+Ingeborg,jusf,Undirected,1
+Jep Johnsen,Lars Færgemand,Undirected,1
+Karen,frank,Undirected,1
+Karen,kJeg,Undirected,1
+Gud,kJeg,Undirected,1
+Karen,lhun,Undirected,1
+Harrison,Tom,Undirected,1
+Jep Johnsen,soer,Undirected,4
+Ingeborg,Jep,Undirected,3
+Jep,Johnsen,Undirected,1
+John Harrison,Karen,Undirected,4
+Chrisfoffer,Margrethe,Undirected,3
+Karen,Margrethe,Undirected,3
+Christoffer,Fesfen,Undirected,1
+Christen Baadsmand,Margrethe,Undirected,1
+Christen Baadsmand,Dands,Undirected,1
+Dands,dandse,Undirected,1
+Christen,Jep,Undirected,2
+Anker,Jep,Undirected,1
+Chrisfen Baadsmand,Ole,Undirected,1
+Chrisfen,Chrisfen Baadsmand,Undirected,1
+Margrethe,Ole,Undirected,3
+Gud,Ole,Undirected,5
+Christen Baadsmand,Jep,Undirected,1
+Christoffer,Jep Johnsen,Undirected,3
+Chrisfoffer,Gud,Undirected,1
+Chrisfoffer,ester,Undirected,1
+Jep,Margrethe,Undirected,3
+Gud,Jep,Undirected,2
+Karen,iland,Undirected,1
+Christoffer,Karen,Undirected,1
+Christoffer,John Harrison,Undirected,1
+Jep,John Harrison,Undirected,4
+Gud,Tom,Undirected,1
+John Harrison,Tom,Undirected,1
+Born,Margrethe,Undirected,1
+Christoffer,Iohnsen,Undirected,1
+John,soer,Undirected,1
+Ingeborg,Ulk,Undirected,1
+Ingeborg,fleet,Undirected,1
+Chrisfoffer,Knud,Undirected,1
+Ingeborg,Ole ffal,Undirected,1
+Arne,Ole ffal,Undirected,1
+Ole,soer,Undirected,1
+John Harrison,Knud,Undirected,1
+Christen,Sellene,Undirected,1
+Christen,Jep Harrison,Undirected,1
+John Harrison,Lars Færgemand,Undirected,1
+Lars,Tom Harrison,Undirected,8
+Jep Johnsen,Tom Harrison,Undirected,1
+Jep,Tom Harrison,Undirected,2
+Jep,srem,Undirected,1
+Jep,Tom,Undirected,2
+Jep,Lars,Undirected,1
+Tom,Tom Harrison,Undirected,2
+Christen,Ole,Undirected,1
+Jep Iohnsens,Ole,Undirected,1
+Ingeborg,Jep Iohnsens,Undirected,1
+Gud,Knud imøde,Undirected,1
+Lars Færgemand,Tom Harrison,Undirected,17
+Knud,Lars,Undirected,3
+Knud,Lars Færgemand,Undirected,1
+Tom Harrison,as Lars Færgemand,Undirected,1
+Lars Færgemand,sjeg,Undirected,1
+Tom,sjeg,Undirected,1
+Dn,Tom,Undirected,2
+Lars Færgemand,Tom,Undirected,1
+Lars,Tom,Undirected,8
+Lars,Ole,Undirected,2
+Gud,Øle,Undirected,1
+Ole,Tom Harrison,Undirected,1
+Ingeborg,Tom Harrifon,Undirected,1
+Ingeborg,Tom Harrison,Undirected,8
+Jep,Ole,Undirected,2
+Ingeborg,Øle,Undirected,1
+Ingeborg,Tom Harrison inat,Undirected,1
+Gud,Tom Harrison inat,Undirected,1
+Knud,øle,Undirected,1
+Tom Harrison,soer,Undirected,1
+Jep Johnsen,Knud,Undirected,1
+Spn,din,Undirected,1
+Ingeborg,Lars Færgemand,Undirected,8
+lille Ingeborg,smaaloLars,Undirected,1
+smaaloLars,strog,Undirected,1
+Tu,hans,Undirected,1
+Ingeborg,hans,Undirected,1
+,Lars,Undirected,2
+Knud,Tøilcn,Undirected,1
+Ingeborg,Tøilcn,Undirected,1
+Lars,No,Undirected,1
+Gud,Lars Færgemand,Undirected,1
+Dn,Ingeborg,Undirected,1
+Jdetsamme,Lars Færgemand,Undirected,1
+Elisabeth,Ingeborg,Undirected,2
+Eduard Bech,Hallnnk,Undirected,1
+Billie,Ingeborg,Undirected,2
+Eduard Bech,Gundersen,Undirected,1
+Ingeborg nn,ester,Undirected,1
+Gud,Kaptainen,Undirected,1
+Elisabeth,ester,Undirected,1
+Seil,ester,Undirected,1
+Eduard,Halløl,Undirected,1
+Eduard,Ingeborg,Undirected,1
+Eduard Bech,ane,Undirected,1
+Broder Guilaume,Therese,Undirected,1
+Celia,Ingeborg,Undirected,6
+Ingeborg,Petrulli,Undirected,10
+Ingeborg,Jomfru Celia,Undirected,1
+Petrulli,Pleiefader,Undirected,1
+Ingeborg,Pleiefader,Undirected,1
+Celia,Petrulli,Undirected,16
+Ingeborg,faufe,Undirected,1
+Ingeborg,Øe,Undirected,4
+Eduard,iland,Undirected,1
+Ingeborg,iveien,Undirected,1
+Ingeborg,sjeg,Undirected,1
+Ingeborg,lille Petrulli,Undirected,1
+Celia,Jomfru Ingeborg,Undirected,1
+Knud,Tom Harrison,Undirected,1
+Christen,Gud,Undirected,3
+Fisker,Knud,Undirected,1
+Christen Baadsmand,Knud,Undirected,12
+as,herse,Undirected,1
+Prindsessen,as,Undirected,1
+Modsfand,Prindsessen,Undirected,1
+Chrisfen Baadsmand,Knud,Undirected,1
+Elisabeth,Gud,Undirected,1
+Christen Baadsmand,Knnd,Undirected,1
+Eduard Bek,Knud,Undirected,1
+Christen Baadsmand,har,Undirected,1
+Christen Baadsmand,Eduard Bek,Undirected,1
+Christen Baadsmand,Eduard,Undirected,1
+Christian Baadsmand,Eduard Bel,Undirected,1
+Knud,gsemtes,Undirected,1
+Christen,Knud,Undirected,13
+Christen,Ingeborg,Undirected,4
+Banlys,Knud,Undirected,1
+Jep,Karl,Undirected,1
+Jep Iohnsen,Karen,Undirected,1
+Jep Iohnsen,Tom Harrison,Undirected,1
+Jngeborgs,Tom Harrison,Undirected,1
+Jngeborgs,Margrethe ^maatte,Undirected,1
+Ingeborg,Nat Tom Harrison,Undirected,1
+Ingeborg,fig,Undirected,2
+Fisker,Tom,Undirected,1
+Gud,skoggerlo Tom Harrison,Undirected,1
+Lars,as,Undirected,1
+Jep Johnsen,Tom,Undirected,1
+Margrethe,hnn,Undirected,1
+Jep,Lars Færgemand,Undirected,1
+Jep Johnsen,Margrethe,Undirected,2
+Margrethe,hans Leie,Undirected,1
+Tom,fror,Undirected,1
+Gud,Støi,Undirected,1
+Margrethe,Støi,Undirected,1
+Jesper David,Margrethe,Undirected,1
+Jesper David,Mikkel Olsen,Undirected,1
+Ingeborg,Tom,Undirected,1
+Ingeborg,jDem,Undirected,1
+Ingeborg,smede Petrulli,Undirected,1
+Bernard,h,Undirected,1
+Bernard,Gud,Undirected,1
+Bernard,Dands,Undirected,1
+Bernard,steenhaarde,Undirected,1
+Ingeborg,steenhaarde,Undirected,1
+el,sorsilde,Undirected,1
+Ingeborg,Lea,Undirected,1
+Ingeborg,ester,Undirected,2
+Ole,ester,Undirected,1
+Fiffig,Ingeborg,Undirected,1
+Ingeborg,ogsStok,Undirected,1
+Villiers,soran Herr,Undirected,1
+Dn,Lars,Undirected,1
+Lars Færgemand,TomHarrison,Undirected,1
+Knud,sia,Undirected,1
+Christen Baadsmand,Ingeborg,Undirected,2
+Knud,Steen,Undirected,1
+Ingeborg,Roes,Undirected,1
+Bidau,Ten gamle,Undirected,1
+Jg,Tem,Undirected,1
+Herr äs,Ingeborg,Undirected,1
+Villiers,sired,Undirected,1
+Bidau,sired,Undirected,1
+Bidau,Ingeborg,Undirected,1
+Bidau,Petrulli,Undirected,1
+Celia,Ingeborg fank,Undirected,1
+Graad,Ingeborg,Undirected,1
+Jep,fig,Undirected,1
+Karen,Ole,Undirected,1
+Bidan,Ingeborg,Undirected,2
+Bidau,Herr Zs Villiers,Undirected,1
+Herr äs,Villiers,Undirected,6
+Bidau,Villiers,Undirected,7
+Charrin,Villiers,Undirected,1
+Kristoffer,Margrethe,Undirected,2
+Tom Harrison,barsf,Undirected,1
+Kristoffer,Tom Harrison,Undirected,1
+Fa,Tom,Undirected,1
+Lars,fig,Undirected,1
+Margrethe,Mgtemand,Undirected,1
+Len,Margrethe,Undirected,1
+Margrethe,Tom Harrison,Undirected,4
+Nofaren,Villiers,Undirected,1
+Billiers,Herr äo,Undirected,1
+Chrisfen,Karl,Undirected,2
+Chrisfen,Knud,Undirected,3
+Hesf,Vladimir,Undirected,1
+Christoffer,Jesus,Undirected,1
+Gud,Tu,Undirected,1
+Christosfers,tras,Undirected,1
+Tom Harrison,slaacs,Undirected,1
+Chrisfoffer,Tom Harrison,Undirected,1
+Christoffer,Tom Harrison,Undirected,7
+Christo ffers,Tom Harrison,Undirected,2
+Donsfe,Engelsfe,Undirected,1
+Engelsfe,ester Christoffer,Undirected,1
+Margrethe,ester Christoffer,Undirected,1
+Charles Henri äs,Villiers,Undirected,1
+Bouton,Ingeborg,Undirected,1
+Herr äo,Villiers,Undirected,2
+Villiers,paany,Undirected,1
+Knud,felv,Undirected,2
+Don Felix äo,engelsfe Kaptain,Undirected,1
+Don Felix äo,Donna Elvira,Undirected,1
+Donna Elvira,Marius 6o Cilbas,Undirected,1
+Don Manille,Elviras,Undirected,1
+Bukley,Donna Elvira,Undirected,1
+Don Cilbas,Don Manille,Undirected,1
+Christen Baadsmand,Don Cilbas,Undirected,1
+Don Cilbas,Donna Elvira,Undirected,1
+Donnas,Fregatten,Undirected,1
+Knud,as,Undirected,1
+Christen Baadsmand,Hans,Undirected,1
+Budolf,Te,Undirected,1
+Budolf,Marius,Undirected,1
+Marius,Tverfimod,Undirected,1
+Donna Elvira,Marius,Undirected,1
+Knud,ester,Undirected,1
+Knud,Munk,Undirected,1
+Christen,Munk,Undirected,1
+Christen,Donna,Undirected,1
+Christen,Mnnken,Undirected,2
+Elvira,fig,Undirected,1
+Knud,iland,Undirected,1
+Gud,Tom Harrison,Undirected,1
+Margrethe,felv,Undirected,1
+Margrethe,fom,Undirected,1
+Ingeborg,hnn,Undirected,1
+Celia,hnn,Undirected,1
+Charrin,Ingeborg,Undirected,1
+Celia,Petrulli reise,Undirected,1
+Ingeborg,reifes,Undirected,1
+Ingeborg,Klicntindes,Undirected,1
+Celtaog Petrulli,Ingeborg,Undirected,1
+Lars Færgemand,sif,Undirected,1
+Margrethe,Taalmodig-,Undirected,1
+Christoffer,Taalmodig-,Undirected,1
+Christoffer,Hn,Undirected,1
+Christoffer,Lars Færgemand,Undirected,3
+Tom,hersank,Undirected,1
+Tom,j,Undirected,1
+Lars,j,Undirected,2
+Villic,j,Undirected,1
+Lars,iland,Undirected,1
+Margrethe,Tom Harris n,Undirected,1
+t,t han,Undirected,1
+l,t han,Undirected,1
+Margrethe,l,Undirected,1
+Margrethe,j,Undirected,1
+Margrethe,Tom,Undirected,1
+Lars Færgemand,Wsel,Undirected,1
+Christoffer,sremad,Undirected,1
+Christoffer,næsfen,Undirected,1
+Christoffer,fig,Undirected,1
+Christoffer,jnst,Undirected,1
+Margrethe,jnst,Undirected,1
+Lars Færgemand,grelse,Undirected,1
+Margrethe,paany,Undirected,1

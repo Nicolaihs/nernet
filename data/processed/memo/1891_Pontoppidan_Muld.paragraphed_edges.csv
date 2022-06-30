@@ -1,0 +1,144 @@
+source,target,type,weight
+Hansted,Provst Tønnesen,Undirected,2
+Hansen,Hansted,Undirected,1
+Hansen,Hr. Hansted,Undirected,4
+Hansted,Hr. Hansted,Undirected,2
+Gud,Hansted,Undirected,1
+Kristi,Provst Tønnesen,Undirected,1
+Provst Tønnesen,Tønnesen,Undirected,4
+Hansted,vos,Undirected,1
+Gud,ban,Undirected,1
+Gud,Jesu,Undirected,1
+Mortensen,Villing,Undirected,4
+Hr. Jensen,Proprietær Jensen,Undirected,1
+Mortensen,Trumf,Undirected,1
+Hans Jensen,Søren Skrædder,Undirected,1
+Søren Skrædder,Villing,Undirected,1
+Kaleschehimmel,Tønnesen,Undirected,1
+Hansen,Provst Tønnesen,Undirected,2
+Peder,Provst Tønnesen,Undirected,1
+Hagen,Tønnesen,Undirected,1
+Hagen,Kapellan Hansted,Undirected,1
+Ragnhild,Tønnesen,Undirected,1
+Hr. Hansted,Ragnhild,Undirected,3
+Hr. Hansted,Provst Tønnesen,Undirected,2
+Emanuel,Melanchton,Undirected,1
+Emanuel,Etatsraad Hansteds,Undirected,1
+Emanuel,Pontoppidan,Undirected,2
+Emanuel,Provst Tønnesen,Undirected,6
+Niels Petersen,Peter Nielsen,Undirected,1
+Niels Petersen,Peter Nielsen Petersen,Undirected,1
+Niels Petersen Nielsen,Peter Nielsen Petersen,Undirected,1
+Emanuel,Hr. Hansted,Undirected,2
+Bondekarl,Emanuel,Undirected,1
+Anders Jørgens,Emanuel,Undirected,1
+Monrad,Tscherning,Undirected,1
+Frederik,Monrad,Undirected,1
+Emanuel,Frederik,Undirected,1
+Anders Jørgen,Emanuel,Undirected,11
+Emanuel,Hansine,Undirected,18
+Emanuel,Væver Hansen,Undirected,3
+Anders Jørgen,Provst Tønnesen,Undirected,1
+Provst Tønnesen,Væver Hansen,Undirected,5
+Emanuel,Hansted,Undirected,1
+Johansen,Villing,Undirected,1
+Johansen,Provst Tønnesen,Undirected,1
+Hr. Johansen,Johansen,Undirected,1
+Emanuel,Hr. Johansen,Undirected,2
+Emanuel,Jensen,Undirected,2
+Aggerbølles,Plumbudding,Undirected,1
+Emanuel,Johansen,Undirected,2
+Emanuel,i,Undirected,1
+Beethoven,Johansen,Undirected,1
+Else Anders Jørgen,Hansine,Undirected,2
+Else Anders Jørgen,Væver Hansen,Undirected,1
+Else,Hansen,Undirected,2
+Anders Jørgen,Hansine,Undirected,1
+Hansine,Pontoppidan,Undirected,2
+Provst Tønnesen,stelse,Undirected,1
+Hansen,Tønnesen,Undirected,1
+Emanuel,Hansen,Undirected,3
+Tønnesen,Væver Hansen,Undirected,1
+Emanuel,Tønnesen,Undirected,4
+Emanuel,Maren Smeds,Undirected,3
+Emanuel,Kamplur,Undirected,1
+Emanuel,Nielsen,Undirected,5
+Ane,Hansine,Undirected,7
+Gammel-Erik,Væver Hansen,Undirected,1
+Bures,Hr. Bures,Undirected,1
+Ane —,Hansine,Undirected,1
+Hansine,Nielsen,Undirected,1
+Hansine,Væver Hansen,Undirected,1
+Hansen,Nielsen,Undirected,1
+Emanuel,Gammel-Erik,Undirected,1
+Hansine,bægge,Undirected,1
+Lone,Tønnesen,Undirected,2
+Hr. Hansted,Lone,Undirected,1
+Hansted,Hr. Johansen,Undirected,1
+Lone,dér,Undirected,1
+Emanuel,Hr. Kapellan,Undirected,1
+Hr. Hansted,Hr. Kapellan,Undirected,1
+Emanuel,Provstens,Undirected,1
+Gud,Hr. Hansted,Undirected,2
+Petersens,Ragnhild,Undirected,1
+Emanuel,Gud,Undirected,2
+Graad,Hansine,Undirected,1
+Emanuel,Graad,Undirected,1
+Else,Hansine,Undirected,8
+Hansine,Ole,Undirected,3
+Ane,Ole,Undirected,1
+Andersen,Ane,Undirected,1
+Anders Jørgen,Else,Undirected,7
+Else,Emanuel,Undirected,11
+Anders,Emanuel,Undirected,2
+Anders,Else,Undirected,3
+Anders Jørgen,ban,Undirected,1
+Emanuel,ban,Undirected,1
+Emanuel,Ole,Undirected,2
+Provst Tønnesen,Villing,Undirected,2
+Villing,Væver Hansen,Undirected,1
+Jensen,Provst Tønnesen,Undirected,1
+Jensen,Villing,Undirected,1
+Hansen,Villing,Undirected,2
+Gud,Hansen,Undirected,1
+Gud,Ludvig,Undirected,1
+Gud,Villing,Undirected,1
+Hr. Hansted,Væver Hansen,Undirected,1
+Hansen,Sirtses,Undirected,1
+Sirtses,Villing,Undirected,1
+Ludvig,Villing,Undirected,1
+Hans Olsen,Ludvig,Undirected,1
+Tønnesen,Villing,Undirected,1
+Pontoppidan,Provst Tønnesen,Undirected,1
+Hansen,Væver Hansen,Undirected,1
+Gaasegang,Kalesche,Undirected,1
+Johansen,Tønnesen,Undirected,1
+Hansen —,Tønnesen,Undirected,1
+Anders Jørgen,Tønnesen,Undirected,1
+Emanuel,Væver,Undirected,1
+Hansen,Væver,Undirected,1
+Emanuel,Muhamed,Undirected,1
+Gud,Jette,Undirected,2
+Emanuel,Jette,Undirected,1
+Ernst,Povl,Undirected,3
+Grethe,Jens Iver,Undirected,1
+Else,Grethe,Undirected,1
+Else,Jette,Undirected,1
+Adolf Evaldsen,Lene Gylling,Undirected,1
+Lene Gylling,Tyge Jakobsen,Undirected,1
+Gud,Provst Tønnesen,Undirected,1
+Provst Tønnesen,k,Undirected,1
+Emanuel,Jesu,Undirected,1
+Frøken Ragnhild,Tønnesen,Undirected,1
+Emanuel,Lone,Undirected,1
+Emanuel,Maren,Undirected,1
+Emanuel,Veilbys,Undirected,2
+Emanuel,Fredrik den,Undirected,1
+Anders Jørgen,Villing,Undirected,2
+Emanuel,Villing,Undirected,4
+Aggerbølle,Jensen,Undirected,1
+Hansine,Maren,Undirected,2
+Else,Væver Hansen,Undirected,1
+Else,Karl,Undirected,1
+Hansen,Jette,Undirected,1
+Maren Smeds,Villing,Undirected,1

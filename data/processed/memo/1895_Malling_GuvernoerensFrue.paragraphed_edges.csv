@@ -1,0 +1,265 @@
+source,target,type,weight
+Berthier,Junot,Undirected,1
+Berthier,Madame la Gouverneuse,Undirected,1
+Caroline Murat,Cleve,Undirected,1
+Cleve,Junot,Undirected,2
+Junot,Laurette,Undirected,23
+Joachim,Laurette,Undirected,1
+Caroline,Joachim,Undirected,1
+Junot,kejs,Undirected,4
+Caroline,kejs,Undirected,1
+Madame Junot,Venus,Undirected,1
+Caroline,Laure Junot,Undirected,1
+Caroline,Madame Junot,Undirected,5
+Austerlitz,Berg,Undirected,1
+Berg,Cleve,Undirected,6
+Junot,Montbreton,Undirected,1
+Chapelle,Monseigneur,Undirected,1
+Madame Junot,Nicolo Isouard,Undirected,1
+Camilla,Nicolo Isouard,Undirected,1
+Camilla,Junot,Undirected,1
+Caroline,Junot,Undirected,11
+Madame Junot,Ouvrard,Undirected,1
+Junot,Madame Junot,Undirected,15
+Grand-Officier de l,Junot,Undirected,1
+Grand-Officier de l,la cour de Lisbonne,Undirected,1
+Louis XIV,Madame Junot,Undirected,1
+Louis,Madame Junot,Undirected,2
+Berg,Louis,Undirected,1
+Berg,Brutus,Undirected,1
+Brutus,Torquatus,Undirected,1
+Clichy,Torquatus,Undirected,1
+Henri IV-Baret,Madame Junot,Undirected,2
+le gouverneur de Paris,recevait seul,Undirected,1
+le gouverneur,recevait seul,Undirected,1
+Borghese,Cæsars,Undirected,1
+Bonaparte,Toulons,Undirected,1
+Bonaparte,Junot,Undirected,9
+Bonaparte,Madame Lætitia,Undirected,1
+Madame Lætitia,Pauline,Undirected,1
+Caroline,Pauline,Undirected,1
+Caroline,Mademoiselle Permon,Undirected,1
+Junot,Mademoiselle Permon,Undirected,1
+Junot,Murats,Undirected,1
+Caroline,Murats,Undirected,2
+Junot,Paulette,Undirected,1
+Laurette,Paulette,Undirected,1
+Caroline,Paulette,Undirected,1
+Laurette,de Talleyrand,Undirected,1
+Junot,d’,Undirected,1
+de la Valette,d’,Undirected,1
+Junot,de la Valette,Undirected,1
+Junot,Madame Bonaparte,Undirected,1
+Laurette,Madame Bonaparte,Undirected,1
+Laurette,Madame Junot,Undirected,4
+Madame Junot,Mademoiselle Avrillon,Undirected,2
+Caroline,Laurette,Undirected,11
+Bonaparte,Caroline,Undirected,1
+Bonaparte,Laurette,Undirected,1
+Laurette,Prinsesse Borgheses,Undirected,1
+Caroline Murat,Gud,Undirected,1
+Gud,Madame Junot,Undirected,2
+Madame Junot,jo,Undirected,1
+Bonaparte,Gud,Undirected,3
+Achilles,Laurette,Undirected,2
+Achilles,Madame Loir,Undirected,1
+Laurette,Madame Loir,Undirected,1
+Laurette,Louis,Undirected,1
+Madame Junot,Raincy,Undirected,3
+Junot,Raincy,Undirected,3
+Junot,Percier,Undirected,1
+Fontaine,Percier,Undirected,1
+Madame la Duchesse de Guastalla,Pauline Borghese,Undirected,1
+Madame Junot,lille Laurette,Undirected,1
+Madame Junot,kejs,Undirected,1
+Madame Junot,Paulette,Undirected,1
+Laurette,Monsieur Junot,Undirected,1
+Madame Junot,Pauline,Undirected,3
+Caroline,Rosina,Undirected,1
+Prinsesse Borghese,lille Laurette,Undirected,1
+Laure,Madame Junot,Undirected,2
+Borghese,Laure,Undirected,1
+Pauline,skraa,Undirected,1
+Laurette,Pauline,Undirected,1
+Caroline,Charles,Undirected,3
+Graad,Junot,Undirected,1
+Joséphine,Junot,Undirected,1
+Borghese,Madame Junot,Undirected,1
+Borghese,Caroline,Undirected,2
+Cleve,Graad,Undirected,1
+Madame de,Pauline,Undirected,1
+Madame Junot,Madame de,Undirected,1
+Charles,Madame Junot,Undirected,1
+Junot,Longchatnps,Undirected,1
+Caroline,Longchatnps,Undirected,1
+Caroline,Mairen,Undirected,1
+Mairen,Patos,Undirected,1
+Hortense de Beauharnais,Patos,Undirected,1
+Charles,Hortense de Beauharnais,Undirected,1
+Caroline,Monsieur de Brigode,Undirected,1
+Monsieur de Brigode,Monsieur de Montbreton,Undirected,1
+Mairen,Monsieur de Montbreton,Undirected,1
+Gud,véd,Undirected,4
+Junot,Laure,Undirected,2
+Caroline Bonaparte,Laure,Undirected,1
+Caroline Bonaparte,Junot,Undirected,1
+Julie,Laurette,Undirected,2
+Dronning Julie,Laure,Undirected,1
+Baudelocque,Madame Frangeau,Undirected,1
+Caroline,Mademoiselle —,Undirected,1
+Madame de la Grange,Mademoiselle —,Undirected,1
+Junot,Madame de la Grange,Undirected,1
+Junot,Madame de la,Undirected,1
+Madame Junot,Mademoiselle de la Grange,Undirected,1
+Louis de Narbonne,Madame Marmont,Undirected,1
+Madame Marmont,Madame de Zayonscheck,Undirected,1
+Madame Junot,Madame de Zayonscheck,Undirected,1
+Kardinal Maury,Sultan Selim,Undirected,1
+Berg,Kardinal Maury,Undirected,1
+Cleve,Hertug Aubusson de La Feuillade,Undirected,1
+Kardinal Maury,Madame,Undirected,1
+Lannes,Madame Junot,Undirected,1
+Madame Junot,Madame Lannes,Undirected,1
+Madame Junot,Madame Lefebvre,Undirected,2
+Junot,Madame Lefebvre,Undirected,1
+Madame Lefebvre,Maury,Undirected,1
+Caroline,Madame Lallemand,Undirected,1
+Madame Lallemand,Madame Lannes,Undirected,1
+Madame Junot,Marchais,Undirected,1
+Madame Lallemand,Marchais,Undirected,1
+Baudelocque,Madame Lallemand,Undirected,1
+Louis de Narbonne,Maury,Undirected,1
+Eylau,Junot,Undirected,2
+Raincy,jom,Undirected,1
+Corinne,Madame de,Undirected,1
+Laurette,Marengo,Undirected,1
+Alexander Erobrerens,Franz II,Undirected,1
+Evropa,Franz II,Undirected,1
+Evropa,Karl den,Undirected,1
+Karl den,Stores,Undirected,1
+Cæsars,Stores,Undirected,1
+Bonaparte,Cæsars,Undirected,1
+Bonaparte,Muhameds,Undirected,1
+Alexander,Luises,Undirected,1
+je suis fait pour gouverner,que moi seul,Undirected,1
+Junot,Monsieur de la Nautte-Hauterive,Undirected,1
+Marie Thérèse,Monsieur de la Nautte-Hauterive,Undirected,1
+Junot,Marie Thérèse,Undirected,1
+Junot,Monsieur Junot,Undirected,1
+Junot,Sire,Undirected,4
+Pauline,Sire,Undirected,1
+Junot,Murat,Undirected,5
+Gud,Junot,Undirected,6
+Junot,Savary,Undirected,1
+Caroline,Murat,Undirected,1
+Gud,Laurette,Undirected,3
+Madame,Madame Junot,Undirected,3
+Bona-parte,Laurette,Undirected,1
+Laurette,Murat,Undirected,1
+Camille,Laurette,Undirected,1
+Achilles,Camille,Undirected,1
+Achille,Lætitia,Undirected,1
+Laurette,véd,Undirected,1
+Cleve,Madame Junot,Undirected,1
+Berg,Meneval,Undirected,1
+Cleve,Duroc,Undirected,1
+Kaarde,Meneval,Undirected,1
+Lannes,Ney,Undirected,1
+Augereau,Lannes,Undirected,1
+Augereau,Gud,Undirected,1
+Junot,Signora Lætitia,Undirected,1
+Signora Lætitia,Sire,Undirected,1
+Beauharnais,Gud,Undirected,1
+Beauharnais,Louis,Undirected,1
+Achille,Louis,Undirected,1
+Caroline,Gud,Undirected,1
+Gud,Murat,Undirected,1
+Louis,Murat,Undirected,1
+Madame Caroline,Madame Junot,Undirected,1
+Elisa,Junot,Undirected,1
+Cæsar,Hdtel,Undirected,1
+Cæsar,Frochot,Undirected,1
+Madame Junot,Murat,Undirected,2
+Henri IV.s,Madame Junot,Undirected,1
+Henri IV.s,Madame la Gouvmeuse,Undirected,1
+Madame,Madame la Gouvmeuse,Undirected,1
+Buonapartes,Madame Junot,Undirected,2
+Baal,Murat,Undirected,1
+Junot,Serail,Undirected,1
+Madame,Monseigneur,Undirected,2
+Dubois,Martin,Undirected,2
+Dubois,Monseigneur,Undirected,1
+Madame de Lalligant,Monseigneur,Undirected,1
+Dubelloy,Madame de Lalligant,Undirected,1
+Duroc,Laurette,Undirected,3
+Catherine,Junot,Undirected,2
+Madame Junot,Marguerite,Undirected,1
+Laurette,Marguerite,Undirected,1
+Eliza,Junot,Undirected,1
+Eliza,Madame Junot,Undirected,1
+Bourgognes,Catherine,Undirected,1
+Madame Junot,Madame de Luçay,Undirected,1
+Hr. v. Wintzingerode,Laurette,Undirected,1
+Catherine,Madame Junot,Undirected,1
+Berg,Raincy,Undirected,1
+Berg,Kong Jérômes,Undirected,1
+Kong Jérômes,Madame Junot,Undirected,1
+Madame Junot,esprit,Undirected,1
+Laurette,Signora Panoria,Undirected,1
+Junot,Pauline,Undirected,2
+Cleve,Talleyrand,Undirected,1
+Kong Joseph,Talleyrand,Undirected,2
+Monsieur de Talleyrand,sois,Undirected,1
+Talleyrand,sois,Undirected,1
+Murat,Talleyrand,Undirected,1
+Caroline,Metternich,Undirected,2
+Berg,Junot,Undirected,1
+Berg,Laurette,Undirected,1
+Junot,Metternich,Undirected,4
+Husardolmans,Junot,Undirected,1
+Husardolmans,Metternich,Undirected,1
+Caroline,Hr. v. Metternich,Undirected,1
+Duroc,Junot,Undirected,8
+Duroc,Gud,Undirected,3
+Duroc,Madame Walewska,Undirected,1
+Madame Gazani,Madame Walewska,Undirected,1
+Duroc,Madame Junot,Undirected,4
+Madame,Madame Walewska,Undirected,1
+Duroc,Madame,Undirected,1
+Duroc,Laure,Undirected,1
+Junot,Madame Louis,Undirected,1
+Duroc,Hortense,Undirected,1
+Duroes,Madame Junot,Undirected,1
+Duroes,Laurette,Undirected,1
+Bonaparte,Madame Bonaparte,Undirected,1
+Louis XIV,Westphalens,Undirected,1
+Julie,Louis XIV,Undirected,1
+Julie,Pauline,Undirected,1
+Constans,Roustam,Undirected,1
+Meneval,Roustam,Undirected,1
+Hr. Canning,Meneval,Undirected,1
+Junot,ban,Undirected,1
+Alexander,Savary,Undirected,1
+Alexander,Romanzoff,Undirected,1
+Metternich,Romanzoff,Undirected,1
+Friedrich Wilhelm,Metternich,Undirected,1
+Friedrich Wilhelm,Junot,Undirected,1
+Carl IV,Junot,Undirected,1
+Arcole,Junot,Undirected,1
+Arcole,Lonato,Undirected,1
+Butard,Madame la gouver-neuse,Undirected,1
+Madame,Madame Laurette,Undirected,1
+Franchard —,Junot,Undirected,1
+Eurydice,Franchard —,Undirected,1
+Esprit,dern,Undirected,1
+Franz’,lila,Undirected,1
+Caroline,Mademoiselle de la Grange,Undirected,1
+Duroc,l’,Undirected,1
+Rossos,l’,Undirected,1
+Pauline,Rossos,Undirected,1
+Borghese,Pauline,Undirected,1
+Caroline,Madame de Canisy,Undirected,1
+Madame de Canisy,Murat,Undirected,1
+Cleve,Pauline,Undirected,1
+Junot,hans,Undirected,1
+Junot,slaa,Undirected,1

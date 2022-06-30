@@ -1,0 +1,56 @@
+source,target,type,weight
+Anton Ingvorsen,Karl,Undirected,1
+Antons,Niels Ingvorsen,Undirected,1
+Anton,Niels Ingvorsen,Undirected,2
+Anton,Lærken,Undirected,1
+Anton,Haldrups,Undirected,1
+Anton,Haldrup,Undirected,18
+Haldrup,J	,Undirected,1
+J,j,Undirected,1
+Anton,j,Undirected,1
+Cæsar,Karl,Undirected,1
+Anton,Kristensen,Undirected,1
+Anton,Gud,Undirected,4
+Anton,Katekismus,Undirected,1
+Abel,Katekismus,Undirected,1
+Anton,Lund,Undirected,9
+Anton,Johanne,Undirected,49
+Johanne,Lund,Undirected,4
+Anton,Karles,Undirected,2
+Anton,Napoleons,Undirected,1
+Johanne,Vallensaa,Undirected,1
+Anton,Vallensaa,Undirected,1
+Anton,Napoleon,Undirected,1
+Gud,Johanne,Undirected,1
+Johanne,bægges,Undirected,1
+Anton,bægges,Undirected,1
+Johanne,Niels Ingvorsen,Undirected,2
+Gud,Lund,Undirected,1
+Anton,liers,Undirected,1
+Anton,Charlotte,Undirected,2
+Ane,Anton,Undirected,1
+Ane,Rasmus,Undirected,1
+Anton,Poulsen,Undirected,6
+Anton,Sørensen,Undirected,1
+Poulsen,Sørensen,Undirected,2
+Haldrup,Sørensen,Undirected,1
+Hr. Haldrup,Ingvorsen,Undirected,1
+Hr. Haldrup,Poulsen,Undirected,1
+Haldrup,Johanne,Undirected,3
+Haldrup,Poulsen,Undirected,2
+Dagny,Helga,Undirected,1
+Helga,Valborg,Undirected,1
+Anton,Valborg,Undirected,2
+Anton,Niels Simonsen,Undirected,1
+Johanne,Rasmus Nielsen,Undirected,3
+Johanne,Karlen,Undirected,2
+Graaden,Johanne,Undirected,1
+Anton,Graaden,Undirected,1
+Kristen,Rasmus,Undirected,1
+Johanne,Valborg,Undirected,2
+Lærken,Valborg,Undirected,2
+Anton,Rasmus Nielsen,Undirected,2
+Johanne,Trine,Undirected,1
+Charlotte,Frøken,Undirected,1
+Anton Ingvorsen,Johanne,Undirected,1
+Valborg,lille Valborg,Undirected,1

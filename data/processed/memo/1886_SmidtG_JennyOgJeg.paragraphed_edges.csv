@@ -1,0 +1,12 @@
+source,target,type,weight
+Artium,Fatter,Undirected,1
+Fatter,Lcvevei,Undirected,1
+Cæsar,Pontos,Undirected,1
+Pontos,kr^eokoris,Undirected,1
+Guttens,Mutter,Undirected,1
+Hesfen,Mutter,Undirected,1
+Jenny,slaa,Undirected,1
+Gampen,Husbond,Undirected,1
+Husbond,laus,Undirected,1
+Aasen,Gutten,Undirected,1
+Guttorm,Jan,Undirected,1

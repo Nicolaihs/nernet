@@ -1,0 +1,325 @@
+source,target,type,weight
+Henrik,Winkel,Undirected,1
+Gud,Marie,Undirected,1
+Jago,Othello,Undirected,2
+Desdemona,Othello,Undirected,1
+Charita,Corps,Undirected,1
+Charita,Keanz,Undirected,8
+Frk. Roszi nskys,Regina,Undirected,1
+Hr. Brandt,Regina,Undirected,1
+Brandt,Charlotte Corday,Undirected,1
+Charlotte Corday,Paul,Undirected,1
+Keanz,Paul,Undirected,5
+Ida Brandt,Keanz,Undirected,7
+Hermiones,William Shakespeare,Undirected,1
+Cruck,Paul,Undirected,1
+Cruck,Frk. Roszinsky,Undirected,1
+Brandt,Charita,Undirected,4
+piissima,sanctissima,Undirected,1
+Dulcis,piissima,Undirected,1
+Dulcis,Maria,Undirected,1
+Athanasia,Hr. Keanz,Undirected,1
+Dorothea,Komesarias,Undirected,1
+Arias,Gomes,Undirected,1
+Charita,Frk. Zimmermann,Undirected,6
+Frk. Lomejers,Frk. Zimmermann,Undirected,1
+Brandt,Henrik Keanz,Undirected,1
+Dionysos,Ida Brandt,Undirected,1
+Ariadne,Dionysos,Undirected,1
+Ariadne,Keanz,Undirected,1
+Frk. Roszinsky,Hr. K	,Undirected,1
+Lucia-Maria,n,Undirected,1
+Keanz,Rosenfeldt,Undirected,2
+Brandt,Hr. Keanz,Undirected,1
+Brandt,Hr. Cruck,Undirected,1
+Keanz,Regina,Undirected,9
+Brimh,Charita,Undirected,2
+Eddelin,hau,Undirected,1
+Joseph,hau,Undirected,1
+Eddelin,Hr. Eddelin,Undirected,1
+Ilendes,Lir,Undirected,1
+Frk. Zimmermann,Hr. Schwartz,Undirected,1
+Carstens,Hr. Schwartz,Undirected,1
+Carstens,Schwartz,Undirected,1
+Hopfen,Ida Brandt,Undirected,1
+Gud,Hopfen,Undirected,1
+Hr. Kreuzer,Hr. Mannheim,Undirected,1
+Henrik Keanz,Hr. Kreuzer,Undirected,1
+Frk. Roszinsky,Henrik Keanz,Undirected,1
+Frk. Roszinsky,Frøken Roszinskys,Undirected,1
+Hr. Schwartz,Natalia,Undirected,1
+Hr. Keanz,Hr. Schwartz,Undirected,1
+Hr. Eddelin,P'ornøjelse,Undirected,1
+Cours,Eskimo,Undirected,1
+Anna Prunsch,Pies,Undirected,1
+Frk. Zimmermann,Zimmermann,Undirected,1
+Frøken Morel,Frøken Prunsch,Undirected,1
+Don Juan,Liljendahl,Undirected,1
+Don Juan,Frøken Morel,Undirected,1
+Frøken Morel,Paul Brandt,Undirected,2
+Frk. Roszinsky,Keanz,Undirected,4
+Frk. Zimmermann,Roszinsky,Undirected,1
+Keanz,Roszinsky,Undirected,2
+Frøken Roszinsky,Paul Brandt,Undirected,1
+Henrik Keanz,Roszinsky,Undirected,1
+Gud,véd,Undirected,6
+Charita,véd,Undirected,1
+Charita,Paul,Undirected,4
+Keanz,Sue,Undirected,2
+Gud,Keanz,Undirected,2
+A,Keanz,Undirected,1
+A,B.,Undirected,1
+Keanz,Lucia-Maria,Undirected,2
+Lucia-Maria,Margrethe,Undirected,1
+Hr. Willbrand,Keanz,Undirected,1
+Hr. Schwartz,Hr. Willbrand,Undirected,1
+Charita,Hr. Schwartz,Undirected,2
+Flvad,Paul Brandt,Undirected,1
+Paul Brandt,Shakespeare’,Undirected,1
+Erasmus Montanus,Shakespeare’,Undirected,1
+Erasmus Montanus,Henrik,Undirected,1
+Frk. Roszinsky,Henriette —,Undirected,1
+Charita,Frk. Roszinsky,Undirected,3
+Hr. Eddelin,Starcke,Undirected,1
+Hr. Eddelin,Hr. Starcke,Undirected,1
+Albrecht,Hr. Starcke,Undirected,1
+Albrecht,Frk. Roszinsky,Undirected,1
+Don Baziles,Frk. Roszinsky,Undirected,1
+Hr. Starcke,Keanz,Undirected,2
+Baron Pies,Hr. Cruck,Undirected,1
+Grandpapa,Schack,Undirected,1
+Sara Bernhard,Schack,Undirected,1
+Charita,Frøken Roszinsky,Undirected,1
+Frøken Roszinsky,Paul,Undirected,1
+Hr. Hopfens,Ida Brandt,Undirected,1
+Delcroix,Hr. Cruck,Undirected,1
+Delcroix,n,Undirected,1
+Brandt,Margrethe,Undirected,1
+Brandt,Ida Wulf,Undirected,1
+Frederik —,Ida Wulf,Undirected,1
+Ida Wulf,else,Undirected,1
+Hejns,Ida Wulf,Undirected,1
+Arvid,Frederik,Undirected,2
+Arvid,Regina,Undirected,1
+Flun,Ida,Undirected,1
+Charita,lille Charita,Undirected,1
+Frøken Morel,Kaaben,Undirected,1
+Hr. Cruck,Hr. Starcke,Undirected,1
+Hr. Cruck,Katinka Sember,Undirected,1
+Hr. Cruck,Madam Stirm,Undirected,1
+Alvilda Funck,Sember,Undirected,1
+Funck,Sember,Undirected,1
+Funck,Starcke,Undirected,1
+Keanz,Starcke,Undirected,5
+Frk. Sember,Keanz,Undirected,2
+Frøken Sember,Gud,Undirected,1
+Alvilda,Sember,Undirected,1
+Frk.,Sember,Undirected,1
+Frøken Schancke,Sember,Undirected,1
+Frøken Schancke,Hr. Samson,Undirected,1
+Hr. Keanz,Hr. Starcke,Undirected,1
+Gud,Starcke,Undirected,1
+Kalanus,Sember,Undirected,1
+Frk. Funck,elstrøje,Undirected,1
+Hellesen,Ida Brandt,Undirected,2
+Jesus,Keanz,Undirected,2
+Henrik,Keanz,Undirected,1
+Henrik,Paul Brandt,Undirected,1
+Keanz,Paul Brandt,Undirected,6
+Keanz,s,Undirected,1
+Hellesen,Regina,Undirected,1
+Hejns,Hellesen,Undirected,1
+Charita,Hejns,Undirected,1
+Brandt,Keanz,Undirected,5
+Hr. Schwartz,Kjelskov,Undirected,1
+Hr. Schwartz,Kladderadatsch,Undirected,1
+Kladderadatsch,langhan,Undirected,1
+Hazard,langhan,Undirected,1
+Hazard,Hr. Kreuzer,Undirected,1
+Bufibsangerindes,Hellesen,Undirected,1
+Emanuel,Ida Brandt,Undirected,1
+Hellesen,Ida Brandt Ophelia,Undirected,1
+Hamlet,Ida Brandt Ophelia,Undirected,1
+Hamlet,Hr. Hellesen,Undirected,1
+Andrea del Sarto,Hellesen,Undirected,1
+Schoppenhauer,elsbløde,Undirected,1
+Schoppenhauer,tor,Undirected,1
+Ida Brandt,tor,Undirected,1
+F'orældres,Ida Brandt,Undirected,1
+F'orældres,Mannheims,Undirected,1
+Mannheims,Willbrandts,Undirected,1
+Elise,Willbrandts,Undirected,1
+Elise,lians,Undirected,1
+Mo,lians,Undirected,1
+Gud,Regina,Undirected,1
+Hr. Hellesen,Ida Brandt,Undirected,1
+Hamlet,Henrik,Undirected,1
+Frøken Morel,Hr. Hellesen,Undirected,1
+Keanz,Mo’,Undirected,1
+Hr. Hellesen,Regina,Undirected,1
+Charita,Regina,Undirected,3
+Brandt,Regina,Undirected,1
+Bon jour,Frk. Roszinsky,Undirected,1
+Frk. Roszinsky,Hr. Cruck,Undirected,2
+Charita,Ida Brandt,Undirected,7
+Frk. Roszinsky,Gud,Undirected,1
+Gringoire,Ida Brandt,Undirected,1
+Frk. Roszinsky,Gringoire,Undirected,1
+Frk. Roszinsky,Rosina,Undirected,1
+Hr. Keanz,beo,Undirected,1
+Henrik,Jacob,Undirected,1
+Henrik,Henrik den,Undirected,1
+Jacob,Keanz,Undirected,1
+Hr. Cruck,Jacob,Undirected,1
+Hr. Cruck,Montanus,Undirected,1
+Jeppe,Montanus,Undirected,1
+Jeppe,Nille,Undirected,1
+Henrik,Montanus,Undirected,1
+Falstaff,Montanus,Undirected,1
+Johan Falstaff,Vin,Undirected,1
+Glendower,Vin,Undirected,1
+Hr. Cruck,Keanz,Undirected,3
+Glendower,Keanz,Undirected,2
+Hr. Cruck,Hr. Keanz,Undirected,2
+Hr. Cruck,Ida Brandt,Undirected,3
+Hr. Fraenckel,Hr. Schwartz,Undirected,1
+Heins,Keanz,Undirected,2
+Henrik,Pharao,Undirected,1
+Pies,Regina,Undirected,1
+Croquet,Keanz,Undirected,1
+Charita,Croquet,Undirected,1
+Charita,Hr. Cruck,Undirected,2
+Hr. Cruck,Liun,Undirected,1
+Gud,Liun,Undirected,1
+Brandt,Liljendahl,Undirected,1
+Margrethe,Maria,Undirected,1
+Faust,Margrethe,Undirected,1
+Margrethe,P'røken Roszinsky,Undirected,1
+Gounods,Lucia-Maria,Undirected,1
+Frøken Roszinsky,Gounods,Undirected,1
+Alvilda Funck,Frk. Sember,Undirected,1
+Frk. Funck,Keanz,Undirected,1
+Frk. Funck,Katinka Sember,Undirected,1
+Funck,Niniche,Undirected,1
+Frk. Funck,Hr. Keanz,Undirected,1
+Margrethe,Sember,Undirected,1
+Frk. Funck,Niniche,Undirected,1
+Frk. Roszinsky,Frk. Sember,Undirected,1
+Charita,Paul Brandt,Undirected,1
+Hr. Keanz,Paul,Undirected,1
+Kammerj,unkercn,Undirected,1
+Erichsen,Keanz,Undirected,1
+Kong Leontes,Rossi,Undirected,1
+Keanz,Rossi,Undirected,2
+Hr. Keanz,Plør,Undirected,1
+Hr. Brimh,Hr. Eddelin,Undirected,1
+Hr. Brimh,Hr. Schwartz,Undirected,1
+Keanz,véd,Undirected,1
+Eddelin,Keanz,Undirected,1
+Keanz,Mariannes,Undirected,1
+Hermione,Hr. Cruck,Undirected,1
+Cravate,P,Undirected,1
+Hermione,liun,Undirected,1
+Hermione,Kong Leontes,Undirected,1
+Hr. Cruck,Kong Leontes,Undirected,1
+Kong Leontes,Leontes,Undirected,2
+Frøken Prunsch,Mariannes,Undirected,1
+Charita,Ida,Undirected,1
+Ida,Keanz,Undirected,1
+Hopfen,Keanz,Undirected,1
+Hr. Keanz,Regina,Undirected,1
+Frk. Morel,Hr. Keanz,Undirected,1
+Alvilda Funck,Ida Brandt,Undirected,1
+Ida Brandt,Mariannes,Undirected,1
+Mariannes,Octave,Undirected,2
+Celio,Mariannes,Undirected,1
+Brandt,Frk. Roszinsky,Undirected,2
+Charita,Pies,Undirected,2
+Frk. Roszinsky,lien,Undirected,1
+Keanz,lien,Undirected,1
+Heins,Leontes,Undirected,1
+Hermione,Leontes,Undirected,2
+Flan,Hr. Cruck,Undirected,1
+Hr. Cruck,Manulius,Undirected,1
+Kong Leontes,Manulius,Undirected,1
+Hr. Keanz,Kong Leontes,Undirected,1
+Hr. Keanz,pind,Undirected,1
+pind,selig,Undirected,1
+Hr. Willbrand,selig,Undirected,1
+Hr. Fraenckel,Hr. Willbrand,Undirected,1
+Antolykus,Hr. Fraenckel,Undirected,1
+Keanz-Leontes,Manulius,Undirected,1
+Hermione,Keanz-Leontes,Undirected,1
+Brandt,Rosenfeldt,Undirected,1
+Kerberos,Rosenfeldt,Undirected,1
+Apollo,Hermione,Undirected,1
+Apollo,Keanz,Undirected,1
+Keanz,Leontes,Undirected,1
+Hermione,Keanz,Undirected,1
+Hr. Cruck-Polyxenes,Hr. KeanzLeontes,Undirected,1
+Ir Liun,Leontes,Undirected,1
+Liun,Perdita,Undirected,1
+Frk. Roszinsky,Parquette,Undirected,1
+Frk. Roszinsky,Willbrand,Undirected,1
+Geltzer,Willbrand,Undirected,1
+Debutanten,Keanz,Undirected,2
+Frøken Morel,Ida Brandt,Undirected,1
+Keanz,Pir.,Undirected,1
+Jacob Berg,Montanus,Undirected,1
+Hellesen,Henrik Keanz,Undirected,1
+Emanuel Hellesen,Keanz,Undirected,1
+Feddersen,Keanz,Undirected,1
+Hr. Hellesen,Hr. Keanz,Undirected,1
+Hellesen,Hr. Keanz,Undirected,1
+Gud,Hellesen,Undirected,1
+Paul,Regina,Undirected,3
+Charita,Henrik,Undirected,1
+Ida Brandt,Regina,Undirected,1
+Erichsen,Hr. Cruck,Undirected,1
+Hr. Keanz,Keanz,Undirected,1
+Alvilda P\mck,Frk. Sember,Undirected,1
+Alvilda,Frk. Sember,Undirected,1
+Ecce enim,Lucia-Maria,Undirected,1
+Charita,Starcke,Undirected,1
+Heine,Sie schauen,Undirected,1
+Charita,Hopfen,Undirected,1
+Hopfen,Hr. Pies,Undirected,1
+Hr. Pies,Pies,Undirected,1
+Charita,Gud,Undirected,1
+Gud,Pies,Undirected,1
+Pies,Sue,Undirected,1
+Czar Peter,Henrik,Undirected,1
+Charita,Czar Peter,Undirected,1
+Goethe,Stein,Undirected,1
+Goethe,Keanz,Undirected,1
+Heins,Ida Brandt,Undirected,1
+Hr. FLddelin,Keanz,Undirected,1
+Eddel,Elvira,Undirected,1
+Elvira,diave,Undirected,1
+Eddelin,diave,Undirected,1
+Eddel,Eddelin,Undirected,1
+ELn,Starcke,Undirected,1
+Peder,Starcke,Undirected,1
+Frk. Roszinsky,Hr. Starcke,Undirected,1
+Hr. Starcke,Margrethe,Undirected,1
+lamentoso,morendo,Undirected,1
+Ida,Regina,Undirected,1
+Paul Brandt,Regina,Undirected,1
+Cruck,Rem,Undirected,1
+Hr. Fraenckel,capo,Undirected,1
+Maren Amme,capo,Undirected,1
+Hr. Schwartz,Maren Amme,Undirected,1
+Bacchus,Hr. Kreuzer,Undirected,1
+L’,hombre,Undirected,1
+Hr. Cruck,Hr. Willbrand,Undirected,1
+Hr. Starcke,Hr. Willbrand,Undirected,1
+Cassio,s,Undirected,1
+Arvid,Paul,Undirected,1
+Arvid,J,Undirected,1
+Frøken Roszinsky,Gud,Undirected,1
+Frk. Zimmermann,Hellesen,Undirected,1
+Eddelin,Frk. Zimmermann,Undirected,1
+Hr. Keanz,jjeg,Undirected,1
+Ida Brandt,Jamber,Undirected,1
+Jamber,dyb,Undirected,1
+Ida Brandt,Ivlskers,Undirected,1

@@ -1,0 +1,262 @@
+source,target,type,weight
+J,ivre,Undirected,1
+J. J. Rousseau,Jean-Jacques Rousseau,Undirected,1
+Fichu,Madame Basile,Undirected,1
+Madame Basile,Zulietta,Undirected,1
+Claire,Julie,Undirected,1
+Epinay,Madame d,Undirected,28
+Madame Le Vasseur,Rousseaus,Undirected,1
+Jeari-Jacques Rousseau,Julie,Undirected,1
+Graad,Rousseaus,Undirected,1
+Le Vasseur,Pelissen,Undirected,1
+Houdetot,Madame d,Undirected,55
+Houdetot,Rousseau,Undirected,8
+Jean-Jacques,Madame d,Undirected,2
+Chevrette,Epinay,Undirected,2
+Houdetot,d,Undirected,8
+Emilie,Monsieur Rousseau,Undirected,1
+Madame,Mademoiselle Le Vasseur,Undirected,1
+Thérèse,d,Undirected,1
+Epinay,d,Undirected,6
+Houdetot,sorn,Undirected,1
+Julie,Rousseau,Undirected,3
+Houdetot,Saint-Pierres,Undirected,1
+Julie,Madame d,Undirected,1
+Monsieur Grimm,Monsieur Rousseau,Undirected,1
+Grimm,Madame d,Undirected,10
+Grimm,Rousseau,Undirected,5
+Grimm,Madame,Undirected,1
+Madame d,Mimi,Undirected,2
+Madame d,Rousseau,Undirected,19
+Epinay,Monsieur de Saint-Lambert,Undirected,1
+Per-golese,Voltaires,Undirected,1
+Grimm,Voltaires,Undirected,1
+Madame,Madame d,Undirected,4
+Jean-Jaeques,Madame d,Undirected,2
+Rousseau,livor,Undirected,1
+Madame d,livor,Undirected,1
+Esclavelles,d,Undirected,1
+Malice,Rousseau,Undirected,1
+Monsieur,Saint-Lambert,Undirected,1
+Rousseau,Saint-Lambert,Undirected,17
+Houdetot,Monsieur d,Undirected,4
+Jean-Jacques Rousseau,d’Epinay,Undirected,1
+Houdetot,Madame de Blain-ville,Undirected,1
+Madame de Blain-ville,Rousseau,Undirected,1
+Monsieur de Saint-Lambert,Rousseau,Undirected,1
+Madame d,Monsieur,Undirected,6
+Madame,Sophie,Undirected,6
+Emilie,Monsieur de Saint-Lambert,Undirected,1
+Emilie,Rousseau,Undirected,2
+Chevrette,J. J. Rousseau,Undirected,1
+Chevrette,Monsieur de Jully,Undirected,1
+Madame de Pompadour,Monsieur de Jully,Undirected,1
+Madame d,Madame de Pompadour,Undirected,1
+Esclavelles,Madame d,Undirected,1
+Esclavelles,Markis de Croismare,Undirected,1
+Grimm,Markis de Croismare,Undirected,1
+Madame d,Mademoiselle d,Undirected,3
+Ette,Mademoiselle d,Undirected,3
+Ette,Madame d,Undirected,2
+Chevalier de Valory,Madame d,Undirected,2
+Madame d,Monsieur de Margency,Undirected,1
+Madame de Verdelin,Monsieur de Margency,Undirected,1
+Madame de Verdelin,Rousseau,Undirected,1
+Madame de Epinays,Monsieur,Undirected,1
+Bronce,Madame d,Undirected,2
+Bronce,Madame d Epinay,Undirected,1
+Madame d,Madame d Epinay,Undirected,1
+Diderot,Madame d,Undirected,1
+Diderot,d,Undirected,2
+Diderot,Mademoiselle d,Undirected,1
+Gud,véd,Undirected,2
+Jelyotte,Jully,Undirected,3
+Jelyotte,Mademoiselle d,Undirected,1
+Mimi,d,Undirected,1
+Jelyotte,d,Undirected,1
+Jelyotte,Louise,Undirected,1
+Houdetot,Jully,Undirected,1
+Houdetot,Mademoiselle,Undirected,1
+Emilie,Mademoiselle,Undirected,2
+Mademoiselle,d,Undirected,1
+Madame d,d,Undirected,2
+Madame d,Mademoiselle,Undirected,1
+.Monsieur de Margency,Madame de Verdelin,Undirected,1
+Epinay,d’,Undirected,1
+Confessions,J. J. Rousseau,Undirected,1
+Madame d,Madame de Verdelin,Undirected,1
+Madame d,Margency,Undirected,1
+Louis XIILStole,Rousseau,Undirected,1
+Louis XIILStole,Madame d,Undirected,1
+Houdetot,Madame de,Undirected,1
+Madame de,Margency,Undirected,1
+Madame de Verdelin,Margency,Undirected,4
+Madame,Rousseau,Undirected,2
+Madame,Margency,Undirected,2
+Gud,Voxlys,Undirected,1
+Madame d'Hou-detot,lians,Undirected,1
+Madame d,Maman,Undirected,1
+Halle,Monsieur d,Undirected,1
+Bronce,Halle,Undirected,1
+Chevrette,lier,Undirected,1
+Epinay,Monsieur de Bellegardes,Undirected,1
+Monsieur,Monsieur de Bellegardes,Undirected,1
+Monsieur,Monsieur de Jully,Undirected,1
+Madame d,Monsieur de Jully,Undirected,1
+Marcel,ban,Undirected,1
+Madame d,ban,Undirected,1
+Epinay,Monsieur d,Undirected,5
+Epinay,Sainl-Lambert,Undirected,1
+Emilie,Sainl-Lambert,Undirected,1
+Houdetot,Saint-Lambert,Undirected,3
+Monsieur d,Saint-Lambert,Undirected,2
+Monsieur d,Rousseau,Undirected,4
+Madame,Monsieur d,Undirected,1
+Diogenes,Monsieur,Undirected,1
+Monsieur,lian,Undirected,1
+Epinay,Gud,Undirected,1
+Houdetot,liun,Undirected,2
+Madame d,Monsieur Rousseau,Undirected,1
+Jean-Jacques,Manon,Undirected,1
+Manon,Suzon,Undirected,2
+Rousseau,liun,Undirected,1
+Manon,Rousseau,Undirected,2
+Kaarde,Madame d,Undirected,1
+Colettes,Rousseau,Undirected,2
+Rousseau,d,Undirected,3
+J’,Le Devin du,Undirected,1
+J’,ai perdu tout mon,Undirected,1
+ai perdu tout mon,bonheur;,Undirected,1
+ai perdu mon,bonheur;,Undirected,1
+Colin me délaisse.,ai perdu mon,Undirected,1
+Houdetot,skraa,Undirected,1
+Colettes,Saint-Lambert,Undirected,1
+Rousseau,Sainl-Lambert,Undirected,1
+Grimm,Saint-Lambert,Undirected,1
+Houdetot,Sophie,Undirected,1
+Sainl-Lambert,Sophie,Undirected,1
+Kong Stanislas,d,Undirected,1
+Chevrette hovedkulds,Rousseau,Undirected,1
+Chevrette hovedkulds,lian,Undirected,1
+Kaarde,Saint-Lambert Peignoiren,Undirected,1
+Reinette,Saint-Lambert,Undirected,1
+Grimm,Gud,Undirected,1
+Gud,Reinette,Undirected,1
+Reinette,Sophie,Undirected,1
+Bjørn,Madame d,Undirected,1
+Chevrette,Saint-Lambert,Undirected,1
+Chevrette,Monsieur d,Undirected,1
+Monsieur d,Monsieur de Francueil,Undirected,1
+Madame,Monsieur de Francueil,Undirected,1
+Madame de,Rousseau,Undirected,1
+Rousseau,Sophie,Undirected,8
+"Fran-c.ueil,",Madame,Undirected,1
+Lindor,Mademoiselle d,Undirected,1
+Mademoiselle d,Monsieur de Jully,Undirected,1
+Francueil,Madame d,Undirected,1
+Gud,d’,Undirected,1
+Houdetot,d’,Undirected,2
+Epinay,Margency,Undirected,2
+Francueil,Madame,Undirected,1
+d’Epinay,véd,Undirected,1
+Monsieur de,d’Epinay,Undirected,1
+Helene,Houdetot,Undirected,1
+Bravo,Margency,Undirected,1
+Houdetot,Monsieur,Undirected,1
+Monsieur,Ninon de L,Undirected,1
+Margency,Rousseau,Undirected,2
+Lofte,Venus,Undirected,2
+Mademoiselle d,Venus,Undirected,1
+Margency,Markien,Undirected,1
+Margency,de Saint-Lambert,Undirected,1
+Madame d,Saint-Lambert,Undirected,4
+Epinay,Rousseau,Undirected,3
+Jean-Jacques’,Sophie,Undirected,1
+Epinay,Jean-Jacques,Undirected,1
+Gud,liendes,Undirected,1
+lian,liendes,Undirected,1
+Sophie,lian,Undirected,2
+Madame d,veuille,Undirected,1
+Markien,Rousseau,Undirected,4
+Jean-Jacques —,Rousseau,Undirected,1
+Madame,Saint-Lambert,Undirected,1
+Gud,Rousseau,Undirected,1
+Emilie,d,Undirected,1
+Rousseau,d’,Undirected,1
+Emilie,Gud,Undirected,1
+Emilie,Sophie,Undirected,1
+Epinay,Jean-Jacques Rousseau,Undirected,1
+Sophie,liar,Undirected,1
+Saint-Lambert,Sophie,Undirected,3
+Houdetot,Margency,Undirected,1
+Margency,Saint-Lambert,Undirected,1
+Markien,Saint-Lambert,Undirected,2
+Le Vasseur,Madame d,Undirected,1
+Epinay,Jean Jacques Rousseau,Undirected,1
+Grimm,Jean Jacques Rousseau,Undirected,1
+Grimm,illoyal,Undirected,1
+Grimm,Sophie,Undirected,2
+Chevrette,Grimm,Undirected,1
+Chevrette,Markis,Undirected,1
+Madame d,Markis,Undirected,1
+Monsieur Dupin de Francueil,Monsieur d,Undirected,1
+Margency,Monsieur d,Undirected,1
+Mademoiselle d,Margency,Undirected,1
+Madame d,Monsieur de Crois-mare,Undirected,1
+Chevrette —,Epinay,Undirected,1
+Chevrette —,Madame d,Undirected,1
+Francueil,Margency,Undirected,1
+Francueil,Monsieur d,Undirected,1
+Bravo,Jean-Jaques,Undirected,1
+Cæsar,Francueil,Undirected,1
+Cæsar,Madame de Verdelin,Undirected,1
+Cæsar,De Monseigneur le Dauphin,Undirected,1
+De Monseigneur le Dauphin,Monsieur?,Undirected,1
+Dauphin,Rousseau,Undirected,1
+Cæsar,Dauphin,Undirected,1
+Margency,Richelieu,Undirected,1
+Louis XIV,Markis,Undirected,1
+Hr. Markis,Margency hvast,Undirected,1
+Margency,Markis,Undirected,1
+Epinay,Monsieur,Undirected,1
+Madame d,Pelissen,Undirected,1
+Julie,Saint-Lambert,Undirected,1
+d,d’,Undirected,1
+Houdetot,Maria Lec-zinskas,Undirected,1
+Maria Lec-zinskas,Rousseau,Undirected,1
+Monsieur de Jully,Rousseau,Undirected,1
+Monsieur de Jully,Rameau,Undirected,1
+Jean-Jacques,Rameau,Undirected,1
+Jean-Jacques,Saint-Lambert,Undirected,2
+Rousseau,Signora Bruna,Undirected,1
+Gud,Monsieur de la Popeliniére,Undirected,1
+Chevrette,Holbach,Undirected,1
+Epinay,Voltaires,Undirected,1
+Epinay,Madame Dueros,Undirected,1
+Madame d,Markien,Undirected,1
+Houdetot,Jean-Jacques,Undirected,1
+Madame,Monsieur de,Undirected,1
+Monsieur,d’Houdetot,Undirected,1
+Chevrette,Madame,Undirected,1
+Madame Dueros,Markien,Undirected,2
+Madame d,Sophie,Undirected,1
+Gud,Madame,Undirected,1
+Madame d,Monsieur d,Undirected,1
+Le temps de mon bel,l’,Undirected,1
+amour seul le remplit,l’,Undirected,1
+Quand j,la raison me,Undirected,1
+Henrik,Monsieur de Saint-Lambert,Undirected,1
+Gabrielle,Henrik,Undirected,1
+Gabrielle,Samson,Undirected,1
+Dalila,Samson,Undirected,1
+Dalila,Madame d,Undirected,1
+Gud,valman,Undirected,1
+Flun,skraa,Undirected,1
+Jean-Jacques,Sophie,Undirected,2
+Mademoiselle Le Vasseur,Monsieur de Saint-Lambert,Undirected,1
+Manon,liun,Undirected,1
+Houdetot,Markien,Undirected,1
+Sophie,paany,Undirected,1
+Dantes,paany,Undirected,1
+Dantes,Jean-Jacques Rousseau,Undirected,1
+Jean-Jacques Rousseau,Julie,Undirected,1

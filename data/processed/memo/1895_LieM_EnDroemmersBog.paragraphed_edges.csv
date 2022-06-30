@@ -1,0 +1,60 @@
+source,target,type,weight
+Alfred,Balzac,Undirected,2
+Corregio,Millet,Undirected,1
+Ask,Byron,Undirected,1
+Byron,Kona,Undirected,1
+Byron,hans,Undirected,1
+Byron,ivei,Undirected,1
+Rotschild,heia,Undirected,1
+Mackay,Rotschild,Undirected,1
+Mackay,humpti,Undirected,1
+dumpti,humpti,Undirected,2
+Vesle,dumpti,Undirected,1
+Ola,Vesle,Undirected,1
+bæsch,hæsch,Undirected,1
+Bjørn,Brunen,Undirected,1
+Humpti,dumpti,Undirected,2
+Orion,Sirius,Undirected,1
+Baccus,humpti,Undirected,1
+Folen,humpti,Undirected,1
+Almafi,Marvene,Undirected,4
+Faars,Hunds,Undirected,1
+Kjelderlem,hans,Undirected,1
+Irma,Nirwana,Undirected,1
+Darwin,Jumbo,Undirected,1
+Brahma,Muhamed,Undirected,1
+Buddah,Muhamed,Undirected,1
+Buddah,Christus,Undirected,1
+Haydn,Mozart,Undirected,1
+Haydn,Wagner,Undirected,1
+Adam,Eva,Undirected,1
+Jungs,hutetu,Undirected,1
+Jungs,Mr. Jung,Undirected,1
+Frøken Emery,Frøken Laroche,Undirected,1
+Brunhilde,Fredegunde,Undirected,2
+Fredegunde,Laurvanne,Undirected,1
+Brunhilde,Vaabengny,Undirected,1
+Sværdklir,Vaabengny,Undirected,1
+Gud,Julie,Undirected,1
+Delorme,Komtessen,Undirected,1
+Heine,Heinrich,Undirected,1
+Raskolnikow,Støren,Undirected,1
+Pauken,macabre,Undirected,1
+Gud,dang,Undirected,2
+Donna,Stella,Undirected,1
+Lorenzaggio,Stella,Undirected,1
+Mons Lie,jr t,Undirected,1
+Don Juan,Julien,Undirected,1
+Cynisme,Don Juan,Undirected,1
+. um,dr . r,Undirected,1
+Michel Angelo,Moses,Undirected,2
+Herkules,Moses,Undirected,1
+Michel Angelo Buonarotti,rotti,Undirected,1
+Rafael Santio,rotti,Undirected,1
+Peter,Peter den store,Undirected,1
+Budeien,gud,Undirected,1
+hans,iland,Undirected,1
+Odin,Tor,Undirected,1
+Balder,Tor,Undirected,1
+Gud,Kai,Undirected,1
+Didhen,Kai,Undirected,1

@@ -1,0 +1,115 @@
+source,target,type,weight
+Gunnar,Inga,Undirected,3
+Gud,Krist,Undirected,1
+Gud,Gunnar,Undirected,2
+Van G,van Geyer,Undirected,1
+Van G,sen,Undirected,1
+VanGeyersen,van Geyersen,Undirected,2
+Gunnar,van Geyersen,Undirected,11
+Sympathi,van Geyersen,Undirected,1
+Guttens,Sympathi,Undirected,1
+Huldrens,van Geyersen,Undirected,1
+Fossens,Huldrens,Undirected,1
+Fossens,Huldren,Undirected,1
+Gunnar,VanGeyersen,Undirected,2
+Gunnar,Huldren,Undirected,1
+Huldren,Van Geyer,Undirected,1
+Gunnar,Van Geyer,Undirected,1
+Gunnar,lian,Undirected,1
+lian,van Geyersen,Undirected,1
+.lorden,van Geyersen,Undirected,1
+.lorden,liam,Undirected,1
+Stakkar,liam,Undirected,1
+Gunnar,van Geyer,Undirected,1
+Gunnar,Van Geyersen,Undirected,2
+Guttens,Van Geyersen,Undirected,1
+Virtuos,van Geyersen,Undirected,1
+Van Geyersen,Virtuos,Undirected,1
+Gunnar,Hanskulde,Undirected,1
+Guts,Hanskulde,Undirected,1
+Van Geyersen,van Geyersen,Undirected,1
+Gud,Van Geyersen,Undirected,1
+Christian Clausen,Peter,Undirected,2
+Peter,lian,Undirected,2
+Marie,Peter,Undirected,16
+Gud,Uha,Undirected,1
+Tamp,liun,Undirected,1
+Clausens,Peter,Undirected,2
+Peter,liam,Undirected,1
+Clausen,Peter,Undirected,16
+Clausen,Jensen,Undirected,1
+Clausen,lian,Undirected,1
+Alo,Peter,Undirected,1
+Alarie,Peter,Undirected,2
+Gud,Peter,Undirected,1
+Peter,Sophie,Undirected,2
+Marie,ban,Undirected,2
+Gud Fader,Peter,Undirected,1
+Clausen,Marie,Undirected,2
+Marie,Mo,Undirected,1
+Gud,Marie,Undirected,2
+Clausen,Gud,Undirected,1
+Peter,Provst Clausens,Undirected,2
+Flan,Peter,Undirected,1
+Marie,liun,Undirected,1
+Olaf,Vilhelmine,Undirected,5
+Eriksen,Vilhelmine,Undirected,2
+Præstens,Vilhelmine,Undirected,1
+Eriksen,Hildur Berg,Undirected,1
+Hildur,Hildur Berg,Undirected,1
+Hildur,Vilhelmine,Undirected,7
+Hildur,Jonas,Undirected,4
+Jonas,Vilhelmine,Undirected,6
+Hildur,Jonas Vilhelmine,Undirected,1
+Joseph,Vilhelmine,Undirected,1
+Jonas,Olaf,Undirected,1
+Gud,Jonas,Undirected,1
+Aare,Vilhelmine,Undirected,1
+Thorer,Vilhelmine,Undirected,8
+Thorer,bun,Undirected,1
+Jonas,Thorer,Undirected,5
+Thorer,liun,Undirected,1
+Jonas,liun,Undirected,2
+Jonas,Jonas Lie,Undirected,1
+Clara,Marie Holm,Undirected,4
+Clara,Marie,Undirected,41
+Clara,liar,Undirected,1
+liar,liar Tante,Undirected,1
+Chartron,liar Tante,Undirected,1
+Clara,Toilette,Undirected,1
+Marie,Toilette,Undirected,1
+Hr. Chartron,Marie,Undirected,1
+Alarie,Marie,Undirected,2
+Alarie,Clara,Undirected,4
+Bun,Clara,Undirected,1
+Alarie,Bun,Undirected,1
+Marie,taus,Undirected,2
+Chartron,Clara,Undirected,10
+Chartron,Marie,Undirected,26
+Chartron,lian,Undirected,1
+Marie,lian,Undirected,1
+Chartron,Marie Holm,Undirected,2
+Chartron Regnault,Marie,Undirected,1
+Chortron,Clara,Undirected,2
+Angela,Clara,Undirected,3
+Angela,Marie,Undirected,2
+Clara polidsk,Marie,Undirected,1
+Angelo,Clara,Undirected,1
+Clara Marie,Marie,Undirected,1
+Marie,kim,Undirected,1
+Mama,Marie,Undirected,1
+Clara,Mama,Undirected,1
+Chartron,ban,Undirected,1
+J eg,Marie,Undirected,1
+Ankers,Chartron,Undirected,1
+Anker,Markus,Undirected,1
+Clara,Markus,Undirected,2
+Anker,Clara,Undirected,3
+Kristus,Marie,Undirected,1
+Kristus,Magdalene,Undirected,1
+Chartron,Magdalene,Undirected,2
+Marie,Regnault,Undirected,1
+Anker,Regnault,Undirected,4
+Angela,Regnault,Undirected,1
+Anker,Chartron,Undirected,2
+Chartron,Gud,Undirected,1

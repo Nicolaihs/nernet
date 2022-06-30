@@ -1,0 +1,1265 @@
+source,target,type,weight
+Juliane Marie,lee,Undirected,2
+Gud,Struensee,Undirected,3
+Brandts,Struensee,Undirected,1
+Caroline Mathilde,Struensee,Undirected,4
+Dronning Caroline Mathilde,Struensee,Undirected,1
+Caroline Mathilde,Juliane Marie,Undirected,2
+Kraff,Struensee,Undirected,1
+Hs,Majesfæt,Undirected,1
+Majesfæt,Struensee,Undirected,1
+Caroline Mathilde,"GeheimeraadSchakRathlau,",Undirected,1
+Caroline Mathilde,SchakRathlau,Undirected,1
+SchakRathlau,Struensee,Undirected,1
+Geheimeraaden,Struensee,Undirected,2
+Hnn,Kudsks,Undirected,1
+Gud,Ludvig,Undirected,2
+Geheimeraad Guldberg,Grev Struensee,Undirected,1
+Caroline Mathilde,Øe,Undirected,1
+Caroline Mathilde,Geheimeraad,Undirected,1
+Caroline Mathilde,hnn,Undirected,1
+Schack-Rathlou,hnn,Undirected,1
+Gud,Lene,Undirected,1
+Mette,Steffen,Undirected,2
+Lene,Mette,Undirected,1
+Steffen,paany,Undirected,1
+Lene,Steffen,Undirected,9
+Frederik,Lene,Undirected,5
+Frederik,Mette,Undirected,1
+Mette,hnn,Undirected,1
+Lene,Struensee,Undirected,2
+Nyboders,Steffen,Undirected,2
+Hnn,Steffen,Undirected,1
+Frederik Holm,Steffen,Undirected,3
+Frederik Holm,Nyboders,Undirected,1
+Gud,Steffen,Undirected,3
+Frederik,Steffen,Undirected,13
+Frederik freidig,Tordenskjold,Undirected,1
+Heras,Struensee,Undirected,1
+Aaget,Struensee,Undirected,1
+Arveprinds Frederik,Juliane Marie,Undirected,1
+Arveprinds Frederik,Caroline Mathilde,Undirected,1
+Caroline Mathilde,Thronarvings,Undirected,1
+Struensee,Thronarvings,Undirected,1
+Juliane Marie,Struensee,Undirected,1
+Juliane Marie,Kronprindsen,Undirected,3
+Kronprindsen,Struensee,Undirected,1
+Jnliane Marie,Kronprindsen,Undirected,1
+Arveprinds,Jnliane Marie,Undirected,1
+Arveprinds,Frederik,Undirected,1
+Frederik,Juliane Marie,Undirected,1
+Geheimeraad Ove Guldberg,Struensee,Undirected,1
+Struensee,Villie,Undirected,1
+Juliane Marie,Ove Guldberg,Undirected,1
+Johann von,Kronprinds Frederiks,Undirected,1
+Majesfæt,von,Undirected,1
+enlhaard,von,Undirected,1
+Geheimeraad,Juliane Marie,Undirected,1
+Juliane Marie,von,Undirected,1
+Christian,l enhver,Undirected,1
+Bernstorff,Caroline Mathilde,Undirected,4
+Struensee,de Arresfordrer,Undirected,1
+Juliane Marie,de Arresfordrer,Undirected,1
+Christian,Enewold Brandt,Undirected,1
+Enewold Brandt,Struensee,Undirected,1
+Johan v.,Støvletkathrine,Undirected,1
+Lene,Steffen Holm,Undirected,1
+Moer,Steffen,Undirected,1
+Lene,husf,Undirected,1
+Steffen,husf,Undirected,1
+Steffen,vn,Undirected,1
+Frederik Blund,Lene,Undirected,1
+Lene,øg,Undirected,1
+Frederik,øg,Undirected,4
+Admiralen,Frederik,Undirected,1
+Profossen,Steffen,Undirected,1
+Frederik,Profossen,Undirected,1
+Frederik,Frederik Holm,Undirected,1
+Frederik,ban,Undirected,1
+Steffen,barst,Undirected,1
+Høibro,Orfevs,Undirected,1
+Frederik,Gud,Undirected,9
+Goe Hoegh-Guldberg,Prindsen,Undirected,1
+Guldberg,Jens Skytte,Undirected,1
+Guldberg,Johan v.,Undirected,1
+Johan v.,von Bülow,Undirected,1
+Jens Skytte,Marv,Undirected,1
+Guldberg,Juliane Marie,Undirected,5
+Prindsen,Steffen,Undirected,2
+Kronprinds Frederik,Steffen,Undirected,2
+Daler,Steffen,Undirected,1
+Bisfop Balle,Kronprinds Frederik,Undirected,1
+Frederik,sfulde,Undirected,1
+Gud,Kronprindsem Han,Undirected,1
+Josef,Keiser,Undirected,1
+Guldberg,Prindsen,Undirected,1
+Frederik,Guldberg,Undirected,2
+A. P. Bernsforff,Struensee,Undirected,1
+Bernsforff,da-Struensee,Undirected,1
+Bernsforff,Struensee,Undirected,1
+Kronprindsen,Slanbusch,Undirected,12
+Juliane Marie,Slanbusch,Undirected,5
+Bernstorff,Kronprindsen,Undirected,3
+Prindsen,Slanbnsch,Undirected,1
+Bernstorff,Slanbusch,Undirected,11
+Guldberg,Schack-Ralhlau,Undirected,3
+Bernstorff,Schack-Ralhlau,Undirected,3
+Bernstorff,Guldberg,Undirected,4
+Bernstorff,Grev Schimmelmann,Undirected,1
+Grev Bernstorff,Kronprindsen,Undirected,2
+Prindsen,Slanbusch,Undirected,2
+Prindsen,von Bülow,Undirected,1
+Sanderum,von Bülow,Undirected,1
+Kraff,Prindsen,Undirected,1
+Biilows,stulde,Undirected,2
+ester,sordin,Undirected,1
+Prindsen,chan,Undirected,1
+Bernstorff,Georg v. Slanbusch,Undirected,1
+Bernstorff,Fransf,Undirected,1
+Kronprinds Frederik pleiede,Munter,Undirected,1
+Kronprindsen,hnn,Undirected,3
+Johan von,Kronprindsen,Undirected,1
+Kronprindsen,gansfe,Undirected,1
+Grev A. P. Bernstorff,Kronprindsen,Undirected,1
+Slanbusch,reisfe,Undirected,1
+Guldberg,Kronprindsen,Undirected,4
+Kronprindsen,Lene,Undirected,1
+Prindsen,nn,Undirected,1
+Nyboders,flulde,Undirected,1
+Slanbusch,ban,Undirected,1
+Imidlerlid,Slanbusch,Undirected,1
+Bernstorff,Grev Bernstorff,Undirected,2
+Slanbusch,von Slanbusch,Undirected,1
+Geheimeraad Schack-Ralhlau,Slanbusch,Undirected,1
+Caroline Mathilde,Kronprindsen,Undirected,1
+Bernstorsf,Kronprindsen,Undirected,1
+Grev Bernstorfs,Schack-Ralhlau,Undirected,1
+Schack-Ralhlau,Von,Undirected,1
+Kronprindsen,Schack-Rathlau,Undirected,1
+Bernsforff,Kronprindsen,Undirected,1
+Bernsforff,Schack-Rathlau,Undirected,1
+Bernsforff,SchackRathlau,Undirected,1
+Grev Bernsforff,SchackRathlau,Undirected,1
+Bernstorff,Gud,Undirected,1
+Schimmelmann,flal,Undirected,1
+Schack-Rathlau,Schimmelman,Undirected,1
+Kronprindsen,Schimmelmann,Undirected,1
+Bernstorff,Herr Eggers von Horn,Undirected,1
+Geheimeraad Schack-Ralhlau,høs,Undirected,1
+Juliane Marie,høs,Undirected,1
+Kronprindsen,Schack-Ralhlau,Undirected,1
+Bernstorff,Schack-Nalhlau,Undirected,1
+Bernstorff,Geheimeraaden,Undirected,1
+Bernstorff,sorelaae,Undirected,2
+Bernstorff,eiheller,Undirected,1
+Schack-Nalhlau,eiheller,Undirected,1
+Juliane Marie,Schimmelmann,Undirected,1
+Souperen,nn,Undirected,1
+Bernstorff,Eggers von Horn,Undirected,1
+Juliane Marie,Schack-Ralhlau,Undirected,2
+Gemak,Juliane Marie,Undirected,1
+Geheimeraaden,Grev Bernstorff,Undirected,1
+Slanbusch,nn,Undirected,1
+Prindsen,von Slanbnsch,Undirected,1
+Miinter,Prinds,Undirected,2
+Kronprindsen,Miinter,Undirected,1
+Juliane Marie,Prinds,Undirected,1
+Balle,Prinds,Undirected,1
+Jnliane Marie,Slanbusch,Undirected,1
+Guldberg,Jnliane Marie,Undirected,1
+Admiral Nosenpalm,ban,Undirected,1
+Argusøines,Prindsen,Undirected,1
+Juliane Marie,Prindsen,Undirected,1
+Bernstorff,Schach-Ralhlau,Undirected,1
+Bernstorff,Majesfæt,Undirected,1
+Juliane Marie,Schack-Rathlau,Undirected,1
+Geheimeraad,Schack-Rathlau,Undirected,1
+Bernstorff,Geheimeraad,Undirected,2
+Bernstorff,SchackRalhlau,Undirected,2
+Herr von Horn,SchackRalhlau,Undirected,1
+DYvekes,Herr von Horn,Undirected,1
+Kronprindsen,SchackRalhlau,Undirected,1
+Grev Bernstorff,Slanbusch,Undirected,1
+Kronprinds Frederik,Slanbusch,Undirected,1
+Bachus,Venus,Undirected,1
+Effer,Schack-Ralhlau,Undirected,1
+Bernstorff,Hans Excellence,Undirected,1
+Schack-Ralhlan,Schimmelmann,Undirected,1
+Christian den,Hertng,Undirected,1
+Guldberg,Slanbusch,Undirected,1
+Grnnd,Marie,Undirected,1
+Grnnd,Kronprindsen,Undirected,1
+Bent,Kronprindsen,Undirected,1
+Schack-Ralhlau,Schimmelmann,Undirected,1
+Guldberg,Guldberg stulde,Undirected,1
+A. P. Bernstorff,SchackRathlau,Undirected,1
+SchackRathlau,Schimmelmann,Undirected,1
+Juliane Marie,von Bülow,Undirected,1
+Christian den,Juliane Marie,Undirected,1
+Kronprinds Frederik,Marie Sofie Frederikke,Undirected,1
+A. P. Bernstorff,Schack-Rathlan,Undirected,1
+Caroline Mathilde,Schack-Rathlan,Undirected,1
+Geheimeraad,Slanbusch,Undirected,1
+Frederikke,Steffen,Undirected,16
+Frederik,Frederikke,Undirected,4
+Frederik,j,Undirected,1
+Asten,Løitcnants,Undirected,1
+Frederik Holm,Holmy,Undirected,1
+Engelsf,Holmy,Undirected,2
+Engelsf,Frederik,Undirected,1
+Frederikke,næsfen,Undirected,1
+Frederikke næsfen,Steffen,Undirected,1
+Frederikke næsfen,Mr. Frederiks,Undirected,1
+Mr. Frederiks,fransfe,Undirected,1
+Seier Møller,Steffen,Undirected,2
+Steffen,alsfens,Undirected,1
+Steffen,ester,Undirected,1
+Frederikke,Seier,Undirected,1
+Frederik,Seier,Undirected,1
+Caroline Mathilde,jø,Undirected,1
+Frederikke,Steffen forat,Undirected,1
+Husf,nn,Undirected,1
+Gud,Steffen Holm,Undirected,3
+Alex. Thorsoes,xbil.,Undirected,1
+Alex. Thorsoes,Or. Th.,Undirected,1
+Kong Kristian den Syvendes,Kronprinds Frederik,Undirected,1
+Andreas Peter,Kong Kristian den Syvendes,Undirected,1
+Andreas Peter,Bernstorff,Undirected,1
+Bernstorff,Kristian 2,Undirected,1
+Ludvig den,Ludvig den Sextendes,Undirected,1
+Andreas Peter Bernstorf,Ludvig den Sextendes,Undirected,1
+Andreas Peter Bernstorf,Bcrnstorff,Undirected,1
+Bcrnstorff,Bernstorff,Undirected,1
+Katharina den,Nikita Panin,Undirected,1
+Andreas Peter Bernsforff,Bernstorff,Undirected,1
+Tanmark-Nørge,stulde,Undirected,1
+Grev Bernstorff,Tanmark-Nørge,Undirected,1
+Andreas Peter Bernstorff,Katharina,Undirected,1
+Grev Bernstorff,Katharina,Undirected,1
+Baron Staöl-Holstein,Hertng Carl,Undirected,1
+Baron Staöl-Holstein,Grev Bernstorff,Undirected,1
+Kong Georg den Tredie,Lord Granville,Undirected,1
+Bernstorff,Lord Granville,Undirected,2
+Andreas Peter Bernstorff,Bernstorfss,Undirected,1
+Andreas Bernstorffs,Andreas Peter Bernstorff,Undirected,1
+Andreas Bernstorffs,Kristian Bernstorff,Undirected,1
+Bernstorff,Kristian Bernstorff,Undirected,1
+Bernstorff,William Pitt,Undirected,1
+Christian Bernstorff,William Pitt,Undirected,1
+Adolf,Gustav den Fjerde,Undirected,1
+Adolf,Gustav den,Undirected,1
+Christian Bernstorff,Gustav den,Undirected,1
+Peter Krabbe,Thomas Baker,Undirected,1
+Nemesis,Thomas Baker,Undirected,1
+Konvoichef,Nemesis,Undirected,1
+Baker,Konvoichef,Undirected,1
+Baker,Krabbe,Undirected,1
+Krabbe,Skesfington Lutwige,Undirected,1
+Freia,Skesfington Lutwige,Undirected,1
+Kong Kristian den Syvende,Krabbe,Undirected,1
+Grev WedelJarlsberg,Kong Kristian den Syvende,Undirected,1
+Bernstorff,Lord Withworth,Undirected,2
+Krisfian Bernstorff,Withworth,Undirected,1
+DamnarkNorge,Withworth,Undirected,1
+Viceadmiral Dickson,stulde,Undirected,1
+Keiser,Poul,Undirected,2
+Napoleon Bonaparte,Poul,Undirected,1
+Keiseren,Napoleon Bonaparte,Undirected,1
+Keiseren,Kong Gustav,Undirected,1
+Gustav,Gustav mangehaande,Undirected,1
+Gustav mangehaande,Poul,Undirected,1
+Gustav,Poul,Undirected,1
+Gustav,TanmarkNorge,Undirected,1
+Keiser Pouls,Lord Withworth,Undirected,1
+Bernstorff,Lisakewitsch,Undirected,2
+Keiser,Lisakewitsch,Undirected,1
+Keiser,Ponl,Undirected,1
+Lisakewitsch,Ponl,Undirected,1
+Christian Bernstorff,Lisakewitsch,Undirected,1
+Grev Bernstørff,d,Undirected,1
+Bernstørff,d,Undirected,1
+Bernstørff,Drummond,Undirected,1
+Drummond,Grev Bernstorff,Undirected,1
+Grev Bernstorff,Keiser,Undirected,1
+Niels Rosenkrands,Poul,Undirected,1
+Lisakewitsch,Niels Rosenkrands,Undirected,1
+Bernstorff,Kong Georg,Undirected,1
+Drummond,Kong Georg,Undirected,1
+Drummond,Grev Wedel-Jarlsberg,Undirected,1
+Grev Wedel-Jarlsberg,Lord Hawkesbury,Undirected,1
+Lord Addington,Lord Hawkesbury,Undirected,1
+Lord Addington,Pitt,Undirected,1
+Thomas,Vilhelm A.,Undirected,1
+Karl Vilhelm Jessen,Lindemann,Undirected,1
+Jessen,Karl Vilhelm Jessen,Undirected,2
+Jessen,LougenS,Undirected,1
+Jessen,John Perkins,Undirected,1
+John Perkins,Karl Vilhelm Jessen,Undirected,1
+John Jcrvis,Nicholas Vansittart,Undirected,1
+Nicholas Vansittart,iland,Undirected,1
+Drummond,iland,Undirected,1
+Drummond,Grev Chrisfian,Undirected,1
+Bernstorff,Grev Chrisfian,Undirected,1
+Bernstorff,Drummond,Undirected,2
+Bernstorff,Karl,Undirected,1
+Frederik,Karl,Undirected,1
+Frederik,Weser,Undirected,1
+Baird,Holmy,Undirected,1
+' Nelson,Baird,Undirected,1
+Holmy,Nelson,Undirected,10
+Admiral Nelson,Holmy,Undirected,2
+Frederik,fløi Frederiks,Undirected,1
+dreiund,j,Undirected,1
+Frederik sfred,Lord Nelson,Undirected,1
+Frederik sfred,Nelson,Undirected,1
+Frederik,Nelson,Undirected,40
+Frederik,Tordenskjold,Undirected,1
+Herr Holmy,Holmy,Undirected,1
+Frederikke,gjentøg,Undirected,1
+Ieg,rine,Undirected,1
+Dunsf,Mads Urias,Undirected,1
+Kronprinds Frederik,Steffen Holm,Undirected,1
+Kronprindsen,Steffen,Undirected,4
+Steffen,fasf,Undirected,1
+Frederikke,fasf,Undirected,1
+Frederikke,Gud,Undirected,3
+Gud,fasf,Undirected,1
+Steffen,jrg,Undirected,1
+Don Juan,Prinds Henrik,Undirected,1
+Don Juan,Ritmester Roses,Undirected,1
+Knudsen,Ritmester Roses,Undirected,1
+Dupuy,Knudsen,Undirected,1
+Christian den Spvende,Dupuy,Undirected,1
+Dupnh,Dupuy,Undirected,1
+Bouruonville,Dupnh,Undirected,1
+Bouruonville,Dupuy,Undirected,1
+Balle,Gud,Undirected,1
+Gud,Knudsen,Undirected,1
+Dupny,Knudsen,Undirected,1
+Peter Norden Sølling,Ølfer Fischer,Undirected,1
+Prindsen loe øg,Sølling,Undirected,1
+Prindsen loe øg,øg,Undirected,1
+Peter Vessel,Sølling,Undirected,2
+Baad,Sølling,Undirected,2
+Sølling,Søulks,Undirected,1
+Frederik,Lordens,Undirected,2
+Frederik,Struenses,Undirected,1
+Frederik fil,Steffen,Undirected,1
+Nelson,n. Zolling,Undirected,1
+Hospitalels,Nelson,Undirected,1
+Admiralen,Hospitalels,Undirected,1
+Steffen Holm,felv,Undirected,1
+Frederik knnde,Steffen,Undirected,1
+Frederik øg,bavde,Undirected,1
+Lord Nelson,vaa,Undirected,1
+Admiral Parker,Lord Nelson,Undirected,1
+Gustav den,stulde,Undirected,1
+Flaadens,stulde,Undirected,1
+Olfert Fischer,Sten Bille,Undirected,1
+Prove-,hændles,Undirected,1
+Nelson,Prove-,Undirected,1
+Høie,Nelson,Undirected,1
+Edgar,Høie,Undirected,1
+Lassen,Michael Bille,Undirected,1
+Fischer,Michael Bille,Undirected,1
+Fischer,Lassen,Undirected,1
+Lassen,Risbrich,Undirected,1
+Nelson,Risbrich,Undirected,2
+Fischer,Kapitain Egede,Undirected,1
+Fischer,heisf,Undirected,1
+Lassen,heisf,Undirected,1
+Fischer,Kapitain Braun,Undirected,1
+Kapitain Braun,Kapitain Lemming,Undirected,1
+Kapitain Thurah,Thurah,Undirected,1
+Dansfes,Nelson,Undirected,1
+Nelson,Riou,Undirected,1
+Nelson,Rothe,Undirected,1
+Admiral Nelson,Villemoes,Undirected,1
+Admiral Nelson,Nelson,Undirected,1
+Nelson,Villemoes,Undirected,1
+Billes,Parkers,Undirected,1
+Lassen,nn,Undirected,1
+Lassen,Michael,Undirected,1
+Michael,Risbrich,Undirected,1
+Nelson,Nelson fog,Undirected,1
+Nelson,Olfert Fischer,Undirected,1
+Fischer,Nelson,Undirected,1
+Fischer,Lindholm,Undirected,2
+-Nelson,Fischer,Undirected,1
+-Nelson,Lindholm,Undirected,1
+Nelson,Steen,Undirected,1
+Nelson stulde,iland,Undirected,1
+Franste,iland,Undirected,1
+Franste,Villemoes,Undirected,1
+Kronprindsen,Villemoes,Undirected,1
+Kronprindsen,sfal Kronprindsen,Undirected,1
+Elephanten,sfal Kronprindsen,Undirected,1
+Elephanten,as,Undirected,1
+Nelson,Steen Bille,Undirected,1
+Alexander,Keiser Poul,Undirected,1
+Kronprinds Frederik,Marie Sophie Frederikke,Undirected,1
+Juliane Marie,Throne,Undirected,1
+Kronprindsessen,Throne,Undirected,1
+Prindsen,Steffen Holm,Undirected,1
+Frederikke,Kronprindsen,Undirected,6
+Frederik,Kronprindsen,Undirected,2
+Fran,von,Undirected,2
+Kronprindsen,Steffen Holm,Undirected,4
+Venus,frnentimmersky.,Undirected,1
+Franz,Unaade,Undirected,1
+Keller,Unaade,Undirected,1
+Keller,ban,Undirected,1
+ban,vwrc Euevoldsherre,Undirected,1
+Steffen Holm,ester Nyboders,Undirected,1
+Frederikke,Steffen Holm,Undirected,2
+Gud,j,Undirected,1
+Lørden,Steffen Holm,Undirected,2
+Herr Løitnant,Holmy,Undirected,1
+Gud,Holmy,Undirected,1
+Løitenanten,hau,Undirected,1
+Lady.,Løitenanten,Undirected,1
+Frederik,Lady Nelsons,Undirected,1
+Frederik,Lady Nelson,Undirected,18
+Beethowen,Frederik,Undirected,4
+Frederik,Ieg,Undirected,7
+Gud,Ieg,Undirected,1
+,Charles,Undirected,10
+Holmy,Lady Nelson,Undirected,2
+Lørd,Nelson,Undirected,1
+Charles,Nelson,Undirected,23
+Lady Nelson,Sir Charles,Undirected,5
+Charles,Lady Nelson,Undirected,13
+Beethowen,Lady Nelson,Undirected,1
+Beethowen,Charles,Undirected,2
+Enhvtr,Lady Nelson,Undirected,1
+Charles,Lady.,Undirected,1
+Frederik,Lady.,Undirected,1
+Charles,Frederik,Undirected,17
+Frederik,Sir Charles,Undirected,7
+Charles,Mr. Holmy,Undirected,3
+Gud,Øe,Undirected,1
+Lady,Lady Nelson,Undirected,1
+Lady Nelson,Lord Nelson,Undirected,2
+Lord Nelson,Mr. Holmy,Undirected,1
+Lady Nelson,Mr. Holmy,Undirected,1
+Admiral Nelson,Lady Nelson,Undirected,1
+Admiral Nelson,iland,Undirected,1
+Prindsen,gjentøg,Undirected,1
+Frederikke,Prindsen,Undirected,1
+Seiren,dhr,Undirected,1
+Gud,Nelson,Undirected,2
+Frederik,Holmy,Undirected,6
+Løitnant Holmy,Øe,Undirected,1
+Bjørn,Charles,Undirected,1
+Charles,Kronprindsen,Undirected,1
+Charles,Lord Nelson,Undirected,10
+Frederik,Lady,Undirected,6
+Ieg,Mr. Holmy,Undirected,1
+Charles Leilighed,Frederik,Undirected,1
+Charles Leilighed,Lady Nelson,Undirected,1
+Lady,Sir Charles,Undirected,1
+Charles,Kønvenientsen,Undirected,1
+Frederik,Kønvenientsen,Undirected,1
+Lady Nelson,Sir,Undirected,1
+Nelson,saamegen,Undirected,1
+Nelson,lee,Undirected,2
+Charles,foer,Undirected,1
+foer,iveiret,Undirected,1
+Nelson,rallieutenant,Undirected,1
+Lordens,Sir Charles,Undirected,1
+Lady Nelson viskbel,Sir Charles,Undirected,1
+Flaadens,Nelson,Undirected,1
+Charles,Flaadens,Undirected,1
+Mr. Holmy,Nelson,Undirected,4
+,Sir Charles,Undirected,3
+,Lady Nelson,Undirected,2
+Lady Nelson,Nelson,Undirected,3
+Mylady,SirCharles,Undirected,1
+Frederik,Mylady,Undirected,1
+Lien,Roiens,Undirected,1
+Frederik,Lord Nelson,Undirected,8
+Charles,Holberg,Undirected,1
+Frederik,reisfe Nelson,Undirected,1
+Nelson,Sir Charles,Undirected,3
+Holmy,Lady ' Nelson,Undirected,1
+Lady ' Nelson,Sir Charles,Undirected,1
+Herr von,j,Undirected,1
+Herr von,zausfe,Undirected,1
+j,zausfe,Undirected,1
+Prindsen,Øe,Undirected,4
+Kronprindsen,Kureer,Undirected,1
+Frederik,dansfe,Undirected,1
+Knreer,dansfe,Undirected,1
+Sabel,Steffen Holm,Undirected,1
+Jeppe,Steffen Holm,Undirected,2
+Gammelholms,Steffen Holm,Undirected,2
+Hans Durchlautighed,Steffen Holm,Undirected,1
+Hans Durchlautighed,Wilhelm,Undirected,1
+Frederik,strax,Undirected,1
+Charles,strax,Undirected,1
+Lady Nelson,øg,Undirected,1
+Charles,Sir Charles,Undirected,2
+Sir Charles,lee,Undirected,2
+Admiralen,Lady Nelson,Undirected,1
+Ladyen,Sir Charles,Undirected,1
+Ieg,Nelson,Undirected,1
+Charles,Lorden,Undirected,4
+Charles,James,Undirected,1
+Lady“ Nelson,Nelson,Undirected,1
+Lord Nelson,Nelson,Undirected,1
+Frederik,Lord øg Lady Nelson,Undirected,1
+Charles,Lady,Undirected,2
+Ieg,Jean,Undirected,1
+Classen,tillive,Undirected,1
+Classen,Jean,Undirected,1
+Frederik pleiede,Lord Nelson,Undirected,1
+Piiues,Sir Charles,Undirected,1
+Charles,Piiues,Undirected,1
+Frederik,Øe,Undirected,4
+Charles Bollingbrokes,Frederik,Undirected,1
+Charles Bollingbrokes,Lord Nelson,Undirected,1
+Holmy,Lord Nelson,Undirected,1
+Charles,Sir Hugo Asserton,Undirected,1
+Nelson,Sir Hugo Asserton,Undirected,1
+Hugo,Nelson,Undirected,1
+Kronprinds Frederik,Napoleon Bonaparte,Undirected,1
+Frederik VI,Napoleon Bonaparte,Undirected,1
+Frederik VI,Kronprinds,Undirected,1
+Kronprinds,Napoleon,Undirected,2
+Napoleon,Napoleon fom,Undirected,1
+Keiseren,Napoleon,Undirected,3
+Caroline Mathilde,Horizont,Undirected,1
+Caroline Mathilde,Napoleon,Undirected,1
+Napoleon,fransle Keiser,Undirected,1
+Christian Gynther Bernstorff,Griffcnfelds,Undirected,1
+Bernstorff,Griffcnfelds,Undirected,1
+engelsfe Guineer,lee,Undirected,1
+Kapitain Frederik Holmy,øg Lady Holmy,Undirected,1
+Lady Holmy,lee,Undirected,1
+Adam,Holmy,Undirected,1
+Adam,Kapitain Holmy,Undirected,1
+Lady Holmy,hnn,Undirected,2
+Frederik,Napoleon,Undirected,2
+Napoleon,Nelson,Undirected,2
+Alexander den,Nelson,Undirected,1
+Kartovernch,Nelson,Undirected,1
+Frederik slal,Lady Holmy,Undirected,1
+Frederik,Lady Holmy,Undirected,13
+Lady Holmy,Nelson,Undirected,10
+Frokosf,Nelson,Undirected,1
+Gud,Lady Holmy,Undirected,1
+Graad,Lady Holmy,Undirected,1
+Frederik,Graad,Undirected,2
+Arne,Frederik,Undirected,1
+Arne,Lord ,Undirected,1
+Lord ,Nelson,Undirected,1
+Lady Holmy,jø,Undirected,1
+Frederik,jø,Undirected,1
+James,Napoleon,Undirected,1
+Hannover,Napoleon,Undirected,2
+Napoleon,arHoratio Nelson,Undirected,1
+Napoleon,fransfe,Undirected,1
+Admiral Gambier,Gambier,Undirected,1
+Gambier,Sir Cathecart,Undirected,1
+Nelson,Sir Cathecart,Undirected,1
+Admiral Gambier,Nelson,Undirected,1
+Admiral Gambier,Cathecart,Undirected,1
+Kapitain Holmy,Nelson,Undirected,6
+Kapitain,Kapitain Holmy,Undirected,1
+Admiral Gambier,Frederik,Undirected,2
+Kapitain Holmy,Lord Nelson,Undirected,1
+Frederik,stulde,Undirected,1
+Holmy,stulde,Undirected,2
+Hans Excellence,Nelson,Undirected,2
+Nelson,flulde,Undirected,1
+Frederik,flulde,Undirected,1
+Excellences,Frederik,Undirected,2
+Napoleon,Niels Jnel,Undirected,1
+Niels Jnel,Tordenskjold,Undirected,1
+Admiral Gambier,Kapitain Holmy,Undirected,1
+Frederik,Kapitain Holmy,Undirected,6
+Bernstorff,Wests,Undirected,1
+Greven,Kronprindsen,Undirected,1
+H. I. Blom,Kraff,Undirected,1
+Kronprinds,fransfe,Undirected,1
+Napoleon,Napoleon Continentalshstem,Undirected,1
+Ewald øg Binzer,Frederik øg Christian,Undirected,1
+Ewald øg Binzer,Kronprindsen,Undirected,1
+Carl øg General,Kronprindsen,Undirected,1
+Carl øg General,Huth,Undirected,1
+Huth,Kapitain,Undirected,1
+Fransle,Kapitain,Undirected,1
+Binzer,Fransle,Undirected,1
+Mr. Garlike,stulde,Undirected,1
+Admiral Gambier,tim Oourior,Undirected,1
+Admiral Gambier,Stanhope,Undirected,1
+Hood,Stanhope,Undirected,1
+Hood,Keates,Undirected,1
+Keates,LloruillA Ollrouiolo,Undirected,1
+Fylla,Hedemann,Undirected,1
+Hedemann,Steen Bille,Undirected,1
+Grev Ioachim Bernstorff,Steen Bille,Undirected,1
+Colbergs,Gustav den,Undirected,1
+Cathcart flulde,Gustav den,Undirected,1
+Cathcart flulde,de engelfle,Undirected,1
+Admiral Gambier,Seil,Undirected,1
+Admiral Nelson,Seil,Undirected,1
+Admiral Nelson,Charles Cathecard,Undirected,1
+Charles Cathecard,Gambier,Undirected,1
+Comodore Homo Popham,Gambier,Undirected,1
+David Bairds,Essington,Undirected,1
+Ankers,Stricker,Undirected,1
+Ankers,Peymann,Undirected,1
+Grev 2. Bernstorff,Peymann,Undirected,2
+Pehmanns,Peymann,Undirected,1
+Henrik Ernst Peymann,Huth,Undirected,1
+Huth,Peymann,Undirected,1
+Bielefeldt,Huth,Undirected,1
+Huth,Kronprindsen,Undirected,1
+Kronprindsen,Steen Bille,Undirected,1
+Ahlefeldts,Schacks,Undirected,2
+Lord Castlereagh,Lord Cathecart,Undirected,1
+Lord Castlereagh,timir orZmrnoo,Undirected,1
+C. Wulf,Kommandeur I. C. Krieger,Undirected,1
+C. Wulf,Meyer,Undirected,1
+Prindsesse Vilhelmine,van Dockum,Undirected,1
+C. Hohlenberg,van Dockum,Undirected,1
+C. Hohlenberg,Juel,Undirected,1
+Mhlius,v. Kroghs,Undirected,1
+Hallander,Mhlius,Undirected,1
+Nelson,Saasnart,Undirected,1
+Lady,Nelson,Undirected,1
+Graad,Lady,Undirected,1
+Frederik,Lorden,Undirected,2
+Admiral,Frederik,Undirected,1
+Frederik,flulle,Undirected,1
+Gambier,Nelson,Undirected,1
+Gud,Kapitain Holmy,Undirected,1
+Admiral Gambier,slor,Undirected,1
+Frederik,Gambier,Undirected,2
+Sjæland,flulle,Undirected,1
+Hs.,K. Majestæts,Undirected,1
+Frederik,ester,Undirected,1
+Frederik,Frederik —,Undirected,1
+Frederik,James Wilson,Undirected,2
+Frederik,Wilson,Undirected,2
+Frederik,Kaarde,Undirected,1
+Gambier,Wilson,Undirected,1
+Holmy,Wilson,Undirected,1
+Hably,Wilson,Undirected,1
+Gud,Romas,Undirected,1
+Frede,Gerner,Undirected,1
+Capitain Heywood,Gerner,Undirected,1
+Capitain Ekins,Fregat,Undirected,1
+Fregat,Gerner,Undirected,1
+Germer,Gerner,Undirected,1
+Fregat,Germer,Undirected,1
+Fregat,Heywoods,Undirected,1
+Heywoods,Watts,Undirected,1
+Watts,p,Undirected,1
+Sir Home Pophams,WelleSley,Undirected,1
+Admiral Essington,WelleSley,Undirected,1
+,Bassewitz,Undirected,2
+Lord Noslyn,Wellesley,Undirected,1
+Lord Cathecart,Lord Noslyn,Undirected,1
+Lord Cathecart,strax,Undirected,1
+høire,strax,Undirected,1
+D. Baird,Ludlow,Undirected,1
+Ludlow,Wellesley,Undirected,1
+Wellesley,as,Undirected,1
+Spencer,as,Undirected,1
+Kreber,Vibenshns,Undirected,1
+Kreber,engelsfe,Undirected,1
+Kapitain Hummel,engelsfe,Undirected,1
+Hdre,Kapitain Hummel,Undirected,1
+engelsfe,mirancoll sgumiron,Undirected,1
+Kapitain Puget,mirancoll sgumiron,Undirected,1
+Kapitain Puget,engelsfe,Undirected,1
+Boll,engelsfe,Undirected,1
+Boll,Smith,Undirected,1
+Tscherning,v. d.,Undirected,1
+Deckens,v. d.,Undirected,1
+Deckens,Krauchenberg,Undirected,1
+Krauchenberg,Tscherning,Undirected,2
+Tscherning,d. Decken,Undirected,1
+Krauchenberg,d. Decken,Undirected,1
+Krauchenberg,Kronprindsen,Undirected,1
+Kronprindsen,Kudfle,Undirected,1
+Ernst,Lord Cathcart,Undirected,1
+Hesfe,v. d. Decken,Undirected,1
+Falbe,imidl«,Undirected,1
+Falbe,Lemming,Undirected,1
+Grev Schmettov,Lemming,Undirected,1
+Beck,Grev Schmettov,Undirected,1
+Beck,Bielefeldt,Undirected,1
+Bielefeldt,Falbe,Undirected,1
+Falbe,Major Fris,Undirected,1
+Funk,Major Fris,Undirected,1
+Funk,Søderberg,Undirected,1
+Grev Holk,Søderberg,Undirected,1
+Grev Holk,von Qvaden,Undirected,1
+Cederfeldt,von Qvaden,Undirected,1
+Cederfeldt,Voigt,Undirected,1
+A. Holsten,Prinds Ferdinand,Undirected,1
+Peyman,Prinds Ferdinand,Undirected,1
+Peyman,stulde,Undirected,1
+Kruse,Lord Roslyn,Undirected,1
+Kruse,Woodford,Undirected,1
+Lord Roslyn,Wellesley,Undirected,1
+Kapitain G. Baring,Lord Roslyn,Undirected,1
+Kapitain G. Baring,Reinbold,Undirected,1
+Andersen,Reinbold,Undirected,1
+Caroc,Kapitain Lassen,Undirected,1
+Durings,Kapitain Lassen,Undirected,1
+Durings,Plats,Undirected,1
+Plats,Ø. Baird,Undirected,1
+Halkett,Ø. Baird,Undirected,1
+Halkett,Skandsen,Undirected,1
+Lord Cathcart,Skandsen,Undirected,1
+Baird,Lord Cathcart,Undirected,1
+Baird,Bruun,Undirected,1
+Bruun,Rothe,Undirected,1
+Platen,Rothe,Undirected,1
+Lieutenant P.,U. Bruun,Undirected,1
+Buhl,C. Wulff,Undirected,1
+. Wulff,Lieutenant Fog,Undirected,1
+. Wulff,Peymann,Undirected,1
+Ostentation,Peymann,Undirected,1
+Bielefeld,sleer,Undirected,1
+Bielefeld,Bille,Undirected,1
+Bille,Frederik C. P.,Undirected,1
+Frederikke,Hans Kgl. Høihed,Undirected,2
+Kronprindsen,nndvez,Undirected,1
+Ester,Frederik den,Undirected,1
+Catchart,Frederik den,Undirected,1
+Frederik Holmy,Kapifain,Undirected,1
+Castenskjold,Walterstorff,Undirected,1
+Castenskjold,Oxholm,Undirected,7
+Oxholm,Skjøn,Undirected,1
+Castenskjold,Hellesen,Undirected,2
+Castenskjold,Roeskilde,Undirected,2
+Godseier Grandjean,Kirkeblh,Undirected,1
+Grev Mollke,Oxholm,Undirected,1
+Major Krieger,Wachtmann,Undirected,1
+Oldeland,v. Ovalen General Oxholm,Undirected,1
+Kronprindsen,v. Ovalen General Oxholm,Undirected,1
+Castenskjold,Kronprindsen,Undirected,1
+Castenskjold,Gamst,Undirected,1
+Leir,Oxholm,Undirected,1
+Arthur Willesley,Leir,Undirected,1
+Arthur Willesley,Roeskilde,Undirected,1
+Kjøge,Roeskilde,Undirected,1
+Linsingen,Roeskilde,Undirected,1
+Roeskilde,Weiles,Undirected,1
+Weiles,ley,Undirected,1
+Roeskilde,ley,Undirected,1
+Cavalleris,Roeskilde,Undirected,1
+Oxholm,Wellesley,Undirected,2
+Lieutenant Schultes,Oxholm,Undirected,1
+Kapitain Qvistgaard,Wellesley,Undirected,1
+Ikkun,Kapitain Qvistgaard,Undirected,1
+Ikkun,Oxholm,Undirected,1
+Aaen,Wellesley,Undirected,1
+Jausen,Rudors,Undirected,1
+Castenskjold,Lieutenant Schuering,Undirected,1
+Lieutenant Baron,Lieutenant Schuering,Undirected,1
+Lieutenant Baron,WedelJarlsberg,Undirected,1
+Oxholm,WedelJarlsberg,Undirected,1
+Capitain Nørager,Capitain Ovistgaard,Undirected,1
+Capitain Nørager,ban,Undirected,1
+Kretchmann,ban,Undirected,1
+Kretchmann,øg Wedel-Jarlsberg,Undirected,1
+Blom,øg Wedel-Jarlsberg,Undirected,1
+Cathcart,Frederik,Undirected,2
+Frederik,Kapitain Brown,Undirected,1
+Bille,David,Undirected,1
+Bille,Kronprinds Frederik,Undirected,1
+Kronprinds Frederik,Kronprindsen,Undirected,1
+Kronprindsen,Peymann,Undirected,2
+Engelsf,Peymann,Undirected,1
+Luther,Peymann,Undirected,1
+Pehmann,ril stor,Undirected,1
+Frederik,Peymann,Undirected,5
+Frederik,freidig,Undirected,1
+Peyman,freidig,Undirected,1
+Charles Brown,Frederik,Undirected,1
+Brown,Peymann,Undirected,1
+Bille,Frederik,Undirected,1
+Peymann,Romans,Undirected,1
+Bretlands,Frederik,Undirected,1
+Lindholm,Napoleon,Undirected,1
+Ahlefeldts,Rosenkrands,Undirected,1
+Nestors,Rosenkrands,Undirected,1
+Tutein,gelser,Undirected,1
+Lieutenant S.,S. Svendsens,Undirected,1
+Kapitain v. Resforff,Kapitain v. Restorff,Undirected,1
+Kapitain v. Resforff,Pique,Undirected,1
+Bugges,Risbrighs,Undirected,1
+Bugges,Hornemanns,Undirected,1
+Bangs,Hornemanns,Undirected,1
+Bangs,Wøldikes,Undirected,1
+Wolfs,Wøldikes,Undirected,1
+Warbergs,Wolfs,Undirected,1
+Sanders,Warbergs,Undirected,1
+Meiers,Sanders,Undirected,1
+Meiers,Plums,Undirected,1
+Clansens,Plums,Undirected,1
+Clansens,Nissens,Undirected,1
+Munthes,Nissens,Undirected,1
+Munthes,Weinschencks,Undirected,1
+Weinschencks,inuAiMeus,Undirected,1
+Treschow,inuAiMeus,Undirected,1
+Scepters,Treschow,Undirected,1
+Kong Jacob,Scepters,Undirected,1
+Bahrenses,Treschow,Undirected,1
+Bahrenses,Torkelius,Undirected,1
+Bisfop Balle,Torkelius,Undirected,1
+A. Kalls,Bisfop Balle,Undirected,1
+j,offre,Undirected,1
+Hallander,v. Beck,Undirected,1
+slal,v. Beck,Undirected,1
+Major v. Holsteins,v. Mangor,Undirected,1
+Lieutenant v.,v. Mangor,Undirected,1
+Lord Catchart,v. Peymann,Undirected,1
+Lord Cathcart,Murray,Undirected,1
+Walterstorf,v. Gedde,Undirected,1
+Walterstorf,v. Falbe,Undirected,1
+v. Falbe,v. Lemming,Undirected,1
+v. Beck,v. Lemming,Undirected,1
+v. Beck,v. Schmettov,Undirected,1
+Winterfeldt,v. Schmettov,Undirected,1
+Kierulf,Winterfeldt,Undirected,1
+Kierulf,v. Kirchhofs,Undirected,1
+Over-Hofmarchal v. Hanch,v. Kirchhofs,Undirected,1
+Etatsraad Kold,Over-Hofmarchal v. Hanch,Undirected,1
+Etatsraad Kold,v. Moltke,Undirected,1
+Konferentsraad Malling,v. Moltke,Undirected,1
+Konferentsraad Malling,Lange,Undirected,1
+Colbjørnsen,Lange,Undirected,1
+Axel Mørk,Colbjørnsen,Undirected,1
+Axel Mørk,Peder Frederik,Undirected,1
+Peder Frederik,Stadhauptmand,Undirected,1
+Mhlius,Stadhauptmand,Undirected,1
+Mhlius,v. Peymann,Undirected,1
+didhen,stulde,Undirected,1
+Kapitain i Marinen,Sir Arthur Wellesley,Undirected,1
+Kapitain i Marinen,Murray,Undirected,1
+sidsfe,v. Pehmanns,Undirected,1
+Lord Cathcart,sidsfe,Undirected,1
+Lord Cathcart,v. Walterstorf,Undirected,1
+Konire-Admiral Lutten,v. Walterstorf,Undirected,1
+Konire-Admiral Lutten,sidsfe,Undirected,1
+Bille,sidsfe,Undirected,1
+Bille,Borneman,Undirected,2
+Bille,v. Peymann,Undirected,2
+v. Peymann,v. Walterstorf,Undirected,2
+Bornemann,v. Peymann,Undirected,2
+Home Popham,stulde,Undirected,1
+Franst,Popham,Undirected,1
+Popham,Thomas Christian Brunn,Undirected,1
+ning,stulde,Undirected,1
+Peymann,v. Walterstorf,Undirected,1
+Colbjørnsen,Hannibal,Undirected,1
+v. Peymann,v. Walterstors,Undirected,1
+Bielefeldt,Peymann,Undirected,1
+Bielefeldt,Steen-Bille,Undirected,1
+Cathcart,v. Peymann,Undirected,1
+Kronprindsen,v. Peywann,Undirected,1
+v. Peymann,v. Steffens,Undirected,1
+bausf,v. Peymann,Undirected,1
+Aland kan taale,bausf,Undirected,1
+Lieutenant v. Steffens,Treschow,Undirected,1
+Flaades,v. Pehmann,Undirected,1
+Bornemann,v. Kirchhofs,Undirected,1
+,v. Kirchhofs,Undirected,1
+Admiral Gambier,Cathcart,Undirected,1
+Admiral Gambier,v. Peymann,Undirected,1
+Wellesleh,Øe,Undirected,1
+Popham,didhen,Undirected,1
+Murrah,didhen,Undirected,1
+Murray,Wellesley,Undirected,1
+Murray,Popham,Undirected,1
+Wallerstors,v. Peymann,Undirected,1
+Brunn,Franst,Undirected,1
+Brunn,v. Peymann,Undirected,1
+Høivelbaarne Sir,v. Peymann,Undirected,1
+Arthur Wellesley,Høivelbaarne Sir,Undirected,1
+Arthur Wellesley,Sir Home Popham,Undirected,1
+Maltha,Sir Home Popham,Undirected,1
+Kapitain,Maltha,Undirected,1
+George Murray,Kapitain,Undirected,1
+George Murray,James Gambier,Undirected,1
+James Gambier,britisfe,Undirected,1
+Arthur Wellesleh,Ernst Fr. Walterstorf,Undirected,1
+Arthur Wellesleh,I. H. Kirchhof,Undirected,1
+Georg Murray,I. H. Kirchhof,Undirected,1
+Burrards,Cameron,Undirected,1
+Cameron,Nyholm,Undirected,1
+Nyholm,Spencer,Undirected,1
+Jackson,v. Peymann,Undirected,1
+Frederik,Hektor,Undirected,15
+Frederik,Hekfor,Undirected,3
+Hektor,Peymann,Undirected,1
+Harens,sagdeHekfor,Undirected,1
+Gud,Hektor,Undirected,1
+Hekfor,Hektor,Undirected,1
+Hekfor,Jessen,Undirected,2
+Frederik,Jessen,Undirected,5
+Jessen,Kadet Jessen,Undirected,1
+Hektor,Jessen,Undirected,6
+Jessen,Saaret,Undirected,1
+Christian den,Waldemar,Undirected,1
+Sophie Frederikke,Waldemar,Undirected,1
+Arveprinds Frederik,Sophie Frederikke,Undirected,1
+Arveprinds Frederik,Kronprinds Frederik,Undirected,1
+Kronprinds Frederik,Odin,Undirected,1
+Kronprindsesse Marie,Prindsesse Caroline,Undirected,1
+Mars,Prindsesse Caroline,Undirected,1
+Iris,Triton,Undirected,1
+Fylla,Triton,Undirected,1
+Bielefeldt,Pehmann,Undirected,1
+Bielefeldt,Steen Bille,Undirected,1
+Pehmann,Peymann,Undirected,1
+Rosenstand-Goifle,v. Binzer,Undirected,1
+Portpas,b.,Undirected,1
+Bassewitz,Steffen,Undirected,1
+Castenfljold,stulde,Undirected,1
+Bassewitz,flulde,Undirected,1
+Artillerikapitain Stessen,flulde,Undirected,1
+Artillerikapitain Stessen,Walterstorff stulde,Undirected,1
+Obersfløjtnant Voigt,Walterstorff stulde,Undirected,1
+Obersfløjtnant Voigt,flulde,Undirected,1
+Bcck,Voigt,Undirected,1
+Fr. Hettzen oolttra,Joachim Melchior,Undirected,1
+Joachim Melchior,v. Holten Castenskjold,Undirected,1
+Henrik Ernst Peymann,v. Holten Castenskjold,Undirected,1
+Carl Frederik Bielefelds,Henrik Ernst Peymann,Undirected,1
+Carl Frederik Bielefelds,Hans Christoph Gedde,Undirected,1
+Ernst Frederik Walterstorf,Hans Christoph Gedde,Undirected,1
+Admiral Otto Liitken,Ernst Frederik Walterstorf,Undirected,1
+Frederik Beck,Johan Hieronimus Kirchhofs,Undirected,1
+Frederik Beck,Johan Mangelsen Voigt,Undirected,1
+H. E. Peymann,Kronprindseus,Undirected,1
+E. F. Walterstorf,Walterstors,Undirected,1
+Fiflalens,Jannar d. A.,Undirected,1
+Joachim Melchior von Holten Castenskjold,Otto Lütkcn,Undirected,1
+Johan Hjeronimus Kirchhofs,Otto Lütkcn,Undirected,1
+C. F. Bielefeldt,Flaadens,Undirected,1
+Flaadens,directe,Undirected,1
+directe,indirecte,Undirected,2
+Peymann,indirecte,Undirected,2
+H. C. Gedde,directe,Undirected,1
+I. M. Voigt,Peymann,Undirected,1
+O. Liitken,Obersf,Undirected,1
+I. H. Kirchhof,Obersf,Undirected,1
+H. Castenskjold,I. H. Kirchhof,Undirected,1
+F. Helfzens,H. E. Pehmanns,Undirected,1
+C. F.,H. E. Pehmanns,Undirected,1
+Biefeldts,H. C. Gedde,Undirected,1
+H. C. Gedde,H. Castenskjold,Undirected,1
+C. F. Wallerstorff,H. Castenskjold,Undirected,1
+C. F. Wallerstorff,O. Liitken,Undirected,1
+I. H. Kirchhof,O. Liitken,Undirected,1
+F. Beck,I. H. Kirchhof,Undirected,1
+Carl Mangelsen Voigt,F. Beck,Undirected,1
+Carl Mangelsen Voigt,H. E. Pehmanns,Undirected,1
+F. Bielefeldts,H. C. Gedde,Undirected,1
+Friedrich pr.,H. C. Gedde,Undirected,1
+Friedrich pr.,z. Hessen,Undirected,1
+Landisstn,W. Støchsteth,Undirected,1
+Carl Friederich Bielefeld,Heinrich Ernst Peymann,Undirected,1
+Carl Friederich Bielefeld,Hans Christoph Gedde,Undirected,1
+Friederich Beck,Johann Mangelsen Voigt,Undirected,1
+Løitnants,Peymann,Undirected,1
+Hektor,Løitnants,Undirected,1
+Saasnart Peymann,de ester,Undirected,1
+Kadet Jessen,de ester,Undirected,1
+Kadet Jessen,Peymann,Undirected,1
+Frederik Holmy,Kadet Jessen,Undirected,1
+Frederik,Tycho Jessen,Undirected,1
+Peymann,Øe,Undirected,1
+Frederik,Høisfsamme,Undirected,1
+Frederik Holm,Holm,Undirected,1
+Biilows,Frederik,Undirected,1
+engelsfe,lee,Undirected,1
+Kapitain Holmy,flal,Undirected,1
+Kapitain Holmy,Kronprindsen,Undirected,1
+Moltke,von Bülow paa Amalienborg,Undirected,1
+Frederikke,Holmy,Undirected,1
+Admiral Nelson,Lady Holmy,Undirected,1
+Kapitain Holmy,Lady Holmy,Undirected,1
+J,Jack,Undirected,1
+Nelson,kuirMII,Undirected,1
+Sam,øg,Undirected,1
+Holmy,Sam,Undirected,1
+Eiendele,Lady Holmy,Undirected,1
+Eiendele,IUrMII,Undirected,1
+IUrMII,limes,Undirected,1
+Lorden,Nelson,Undirected,2
+Lorden,as,Undirected,1
+Mr. Holmy,Mr. Lady Holmy,Undirected,1
+Frederik,Lady Holmh,Undirected,1
+Frederik,Seire,Undirected,1
+Lady Holmy,paany,Undirected,1
+Holmy,Sirk,Undirected,1
+Bretlands,Mr. Holmy,Undirected,1
+Charles Bollingbroke,Lady Holmh,Undirected,1
+Charles,ester,Undirected,1
+Nelson,ester,Undirected,1
+Lady Holmy,Lorden,Undirected,3
+Bollingbrokes,Lorden,Undirected,1
+Charles,Sir Charles Bollingbroke,Undirected,1
+Admiralen,Nelson,Undirected,1
+Admiralen,Lady Holmy,Undirected,1
+Kareth,Lady,Undirected,1
+Holmy sig med sine,Kareth,Undirected,1
+Adres,Lady Holmh,Undirected,1
+Lord Nelson øg,Nelson,Undirected,1
+Lady Nelson,Lord Nelson øg,Undirected,1
+Lady Holmy,Lord Nelson,Undirected,4
+Kudsk,Lady Holmy,Undirected,1
+Hnn,Lord Boilingbrokes,Undirected,1
+Lord Boilingbrokes,Lord Nelson,Undirected,1
+Charles,Lady Holmy,Undirected,20
+Kirkaldy,Nelson,Undirected,1
+Charles,hnn,Undirected,2
+Nelson,Sir Eharles,Undirected,1
+Lord Nelson,Sclønniny,Undirected,1
+Hnn,hnn,Undirected,1
+Admiral Nelson,Mutter,Undirected,1
+Lady Holmy,Leir,Undirected,1
+Lady,Leir,Undirected,1
+Lord Nelson,Sir Charles,Undirected,6
+Lady Holmy,Sir Charles,Undirected,4
+Charles,Sid,Undirected,1
+Lady Holmh,Nelson,Undirected,1
+Charles Bollingbroke,Don Juan,Undirected,1
+Charles,Don Juan,Undirected,1
+Lord Nelson,stulde,Undirected,1
+Lady Nelson,stulde,Undirected,1
+Charles,Lady Hvlmys,Undirected,1
+Lady Holmy,Lord,Undirected,1
+Lord,Sir Charles,Undirected,1
+Charles,tilsidsf,Undirected,1
+Lord Nelson,tilsidsf,Undirected,1
+Lorden,Sir Charles,Undirected,1
+Lady,Lord Nelson,Undirected,1
+Charles,gaae,Undirected,1
+Gud,Ulk,Undirected,1
+Ladyen,Lord Nelson,Undirected,1
+Saasnart Karlen,itte,Undirected,1
+Lady Holmy,itte,Undirected,1
+Evadatter,Lady Holmy,Undirected,1
+Nancy,kjær,Undirected,1
+Lady Holmy,Nancy,Undirected,1
+Dn,^niiyRil,Undirected,1
+John,Lorden,Undirected,1
+Jøhn,Sam,Undirected,2
+Karl,Sam,Undirected,1
+Lord Nelson,fiffig,Undirected,1
+John havde,fiffig,Undirected,1
+John havde,Sam,Undirected,1
+Lady Holmy,Sam,Undirected,2
+Lady Nelson,Sam,Undirected,1
+Charles Bollingbroke,Sam,Undirected,1
+Lady Nelson,Lørden,Undirected,1
+Charles,Lord,Undirected,1
+Lady Nelson,Lord,Undirected,1
+Lady Holmy,Lady.,Undirected,1
+Charles,Sam,Undirected,1
+Charles,Frederik Holmy,Undirected,2
+Frederik,Lord,Undirected,1
+Frokosf,Lord Nelson,Undirected,1
+Charles Bollingbroke,Frokosf,Undirected,1
+Charles,Kellneren,Undirected,1
+Lord,Nelson,Undirected,1
+Gud,elfler,Undirected,1
+Frederik,elfler,Undirected,1
+Nelson,Sam,Undirected,1
+Frederik Holmy,Sam,Undirected,1
+Charles,Gud,Undirected,2
+Frederik,Horatio Nelsons,Undirected,1
+Nancy,Nelson,Undirected,1
+Frederik,Nancy,Undirected,15
+Engelsf,Kapitain Holmy,Undirected,1
+Kapitain Holmy,engelst,Undirected,1
+Gud,Wilson,Undirected,1
+Frederik Holmy,Nelson,Undirected,1
+Frederik Holmy,Holmy,Undirected,2
+Holmy,Lady Holmy,Undirected,3
+Charles,Franst,Undirected,1
+Ladhs,Lady Holmy,Undirected,1
+Hans Majesfæt,Praxis,Undirected,1
+Majesfæt,Praxis,Undirected,1
+Holmy,Majesfæt,Undirected,1
+Holmy,ester,Undirected,2
+Charles,Holmy,Undirected,1
+sidsf,stulde,Undirected,1
+Lord Bollingbroke,flulle,Undirected,1
+Frederik Holmy,Lady Holmy,Undirected,1
+Frederik Holmy,Frederik jHolmh,Undirected,1
+Gud,Wohnston,Undirected,1
+Frederik,Seymor,Undirected,4
+Frederik,Sehmors,Undirected,1
+Frederik,Schmor,Undirected,1
+Holmy,Kong Georg,Undirected,1
+Frederik,Kong Georg,Undirected,1
+Charles,tans,Undirected,1
+Lady Holmy,tans,Undirected,1
+Lady Holmy,freisf,Undirected,1
+Holmy,Mhlady,Undirected,1
+Hans,Nanchs,Undirected,1
+Frederik,Grenaderen,Undirected,2
+Grenaderen,Gud,Undirected,1
+Ioseph Bonaparte,Napoleon,Undirected,1
+Frederik den,Peymann,Undirected,1
+Bernadotte,Napoleon,Undirected,2
+Marsfal Bernadotte,fransfe d.,Undirected,1
+Abel,Grændseborg,Undirected,1
+Erik Glipping,Grændseborg,Undirected,1
+Christian den,Erik Glipping,Undirected,1
+Christian den,Frederik den,Undirected,2
+Abel,Erik Kolding,Undirected,1
+Bernadotte,Frederik,Undirected,12
+Bernadette,Frederik,Undirected,2
+Frederik Holmy,Napoleon,Undirected,1
+Frederik Holmy,Keiseren,Undirected,1
+Holmy,Keiseren,Undirected,1
+Kapitain Holmy,Keiser,Undirected,1
+Frederik Holmy,sire,Undirected,1
+flulde,sire,Undirected,1
+Madame Holmy,Nancy,Undirected,1
+Mdlle Marguerita Dupont,Nancy,Undirected,1
+Marguerite,Nancy,Undirected,14
+Frederik,Marguerite,Undirected,7
+Madame,Marguerite,Undirected,3
+Nancy,øg,Undirected,1
+Nancy,Nn,Undirected,1
+Frederik,Nn,Undirected,1
+Nancy,ver,Undirected,1
+Constance Derval,Nancy,Undirected,1
+Constance Derval,Marguerite Dupont,Undirected,1
+Frederik,Ponte-Corvo,Undirected,1
+Bernadette,Ponte-Corvo,Undirected,1
+Bernadotte,Kapitain Holmy,Undirected,5
+Bernadotte,kjærest,Undirected,1
+Bernadotte,Frederik äo,Undirected,1
+franst Officier,Øe,Undirected,1
+Gud,franst Officier,Undirected,1
+Frederik gjensaae,fransfe General Bernadotte,Undirected,1
+Prinds af,fransfe General Bernadotte,Undirected,1
+Frederik,Hesfen,Undirected,1
+Franst,Frederik,Undirected,1
+Frederik,somBernadotte,Undirected,1
+Franst,Kapitain Holmy,Undirected,1
+Frederik,Keiseren,Undirected,2
+Prindsen,tilleie,Undirected,1
+Kapitain Frederik Holmy,Marguerite Dupont,Undirected,1
+Gud,Madame Holmy,Undirected,1
+Bernadotte,Prindsen,Undirected,1
+Bernadotte,gansfe,Undirected,1
+Marguerite,fransfe Moder,Undirected,1
+Bernadotte,Leboeuf,Undirected,6
+Frederik Holmy,Leboeuf,Undirected,1
+Holmy,fransfe,Undirected,1
+fransfe,lødLeboeufs,Undirected,1
+Kapitain Holmy,lene,Undirected,1
+Holmy,Leboeuf,Undirected,2
+Hans Høihed,Mademoiselle Dupont,Undirected,1
+Hans Høihed,Lebouf,Undirected,1
+Ganfle,HerrObersten,Undirected,1
+Herr Kapitain Holmy,HerrObersten,Undirected,1
+Kapitainen,Maguerite,Undirected,1
+Leboeuf,Maguerite,Undirected,1
+Kapitain Holmy,Leboeuf,Undirected,2
+Leboeuf,høilys,Undirected,1
+Kapitain Holmy,høilys,Undirected,1
+Dupont,Marguerite,Undirected,2
+Holmy,Kong Ludvigs,Undirected,1
+Holmy,Marguerite Dupont,Undirected,2
+Kapitain Holmy,Marguerite Dupont,Undirected,1
+Holmy,Kapitain Holmy,Undirected,1
+Leboeuf,Marguerite Dupont,Undirected,2
+Kapitain Holmy,Prindsen,Undirected,1
+Kapitain Holmy,Marguerite Dupont vexler,Undirected,1
+Leboeuf,Prindsen,Undirected,1
+Nancy Holmy sødt,Nelson,Undirected,1
+Bernadotte,Nancy,Undirected,5
+Bernadotte,Madame,Undirected,1
+Bernadotte,Marguerite Dupont,Undirected,1
+Marguerite Dupont,Nancy,Undirected,1
+Madame,Marguerite Dupont,Undirected,2
+Bernadotte,Marguerite,Undirected,1
+Leboenf,Marguerite Dupont,Undirected,1
+Leboeuf,hnn,Undirected,1
+Kapitain Holmy,Kong Frederiks,Undirected,1
+Bernadotte,Holmy,Undirected,2
+Holmy,Prindsen,Undirected,2
+Keiseren,asgaae,Undirected,1
+Kapitain Holmy,Madame Holmy,Undirected,2
+Marguerite,fransfe,Undirected,2
+Herberg,Marguerite,Undirected,1
+Kellner,Nancy,Undirected,2
+Frederik,Kellner,Undirected,1
+Isis L Tsts,Kellneren,Undirected,1
+Nancy,oni,Undirected,1
+Madame H,franst Dame,Undirected,1
+H *,Madame H,Undirected,1
+Madame Holmy,Pontecorvos,Undirected,1
+Kellneren,Madame Holmy,Undirected,1
+Madame Holmy,Rene,Undirected,1
+Holmy,Nancy,Undirected,1
+Holmy,tillive,Undirected,1
+Holmy,Ponte-Corvo midlertidig Byfogedens Sals-Etage,Undirected,1
+Madame Holmy,Marguerite Dupont,Undirected,1
+Madame Holmy,Marguerie Dupont,Undirected,1
+Holmy,Marguerie Dupont,Undirected,1
+Blame,Frederik,Undirected,1
+Guldberg,Lakai,Undirected,1
+Kapitain Holmy,Lakai,Undirected,1
+Andresen,lille Dresen,Undirected,1
+Frederik Holmy,Marguerite Dupont,Undirected,1
+Kapitain Holmy,Nancy,Undirected,1
+Madame Holmy,Marguerite,Undirected,3
+Margueritte,Nancy,Undirected,1
+Frederik,Naney,Undirected,1
+Nancy,Naney,Undirected,1
+Andresen,Frederik,Undirected,2
+Frederik,Laas,Undirected,1
+Kapitain Holmy,huu,Undirected,1
+Nancy,huu,Undirected,1
+Nancy,afzaa,Undirected,1
+Karl,fleet,Undirected,1
+Bernadotte,Prinds,Undirected,1
+Arresfen,Holmy,Undirected,1
+Bernadotte,Diesen,Undirected,1
+Madame Holmy,Mirabeau,Undirected,1
+Mirabeau,sur.,Undirected,1
+Jens Høst,sur.,Undirected,1
+Frederik flulde,Kapitain Holmy,Undirected,1
+Frederik Arrestbhgningen,Kapitain Holmy,Undirected,1
+Frederik Holmy,Portecorvo,Undirected,1
+Holmy,sagdeBernadotte,Undirected,1
+Frederik,Prindsen,Undirected,1
+Bernadotte,Frederik »,Undirected,1
+Prindsen,deø,Undirected,1
+Lebouef,Marquis as Romano,Undirected,1
+Bernadotte,Gud,Undirected,1
+Frederik,Saasnart Holmy,Undirected,1
+Lebouef,Saasnart Holmy,Undirected,1
+Bernadotte,stulde,Undirected,1
+Bernadotte,Romano,Undirected,1
+Leboeuf,Roeskilde,Undirected,2
+Holmy,Romano,Undirected,1
+Christus,Gud,Undirected,1
+Bernadotte strax,Frederik,Undirected,1
+Frederik,Ilmarsch,Undirected,1
+Frederik den,Roeskilde,Undirected,2
+Bernadotte,flal,Undirected,1
+Frederik den,flal,Undirected,1
+Bernadofte,Frederik,Undirected,1
+Bernadofte,ganfle,Undirected,1
+Holmy,ganfle,Undirected,1
+Napoleon,Sedans,Undirected,1
+Keiser Wilhelm,Sedans,Undirected,1
+Holmy,Keiser Wilhelm,Undirected,1

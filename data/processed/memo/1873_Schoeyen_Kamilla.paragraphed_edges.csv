@@ -1,0 +1,77 @@
+source,target,type,weight
+Emil Bugge,Emma,Undirected,1
+Mama,sfreg,Undirected,1
+Emil Bugge,Madam Bugges,Undirected,1
+Madam Bugges,Principal,Undirected,1
+Kamilla,Thea,Undirected,1
+Kamilla,Papa,Undirected,2
+Bugges,Kamilla,Undirected,1
+Kamilla,Mama,Undirected,2
+Gud,Kamilla,Undirected,2
+Kamilla,Sofie,Undirected,9
+Mama,Sofie,Undirected,1
+Ieg,Papa,Undirected,1
+Ieg,Kamilla,Undirected,1
+Bugge,Kamilla,Undirected,11
+Anna,Sofie,Undirected,2
+Anna,Kamilla,Undirected,7
+Anna,Bugge,Undirected,1
+Kamilla,hnn,Undirected,11
+Sofie,hnn,Undirected,1
+L.,Sofie,Undirected,1
+Kamilla,L.,Undirected,1
+Helene,Verner,Undirected,5
+Helene,Helene Verner,Undirected,1
+Helene Verner,Kamilla,Undirected,1
+Helene,Kamilla,Undirected,14
+Gutten,Hans,Undirected,2
+Gutten,Kamilla,Undirected,1
+Helene,Sofie,Undirected,3
+Hnn,Verner,Undirected,1
+Glcrdens,heise,Undirected,1
+Kamilla,hnn Dandsen,Undirected,2
+Kamilla,fhi,Undirected,1
+Helene,fhi,Undirected,1
+Helene,Leutnant Siverts,Undirected,1
+Helene,Jasaa,Undirected,1
+Ferdinand,Helene,Undirected,1
+Helene,Kamilla Vugge,Undirected,1
+Kamilla,Leutnant Siverts,Undirected,1
+Hr. Siverts,Kamilla,Undirected,1
+Richard,Verner,Undirected,1
+Kamilla,Shakespeare,Undirected,2
+Kamilla,Verner,Undirected,24
+Bugge,Leutnant Siverts,Undirected,1
+Siverts,Sofie,Undirected,2
+Frøken Bugge,Siverts,Undirected,1
+Kamilla,bart,Undirected,1
+Frøken Vugge,Verner,Undirected,1
+Helene,Siverts,Undirected,1
+Kamilla,Loitnanten,Undirected,2
+Helene,hnn,Undirected,1
+Bugge,Verner,Undirected,1
+Sofie,taus,Undirected,1
+Hermione,Maria Stuart,Undirected,1
+Kamilla,Racines,Undirected,1
+Helene,Hnn,Undirected,2
+Leutnant Siverts,Sofie,Undirected,1
+Anna,Storm,Undirected,1
+Kamilla,Storm,Undirected,1
+Kamilla,Tante Annas,Undirected,1
+Bergs,Kamilla,Undirected,1
+hnn,ivaares,Undirected,1
+Hans,Kamilla,Undirected,1
+Berner,Hans,Undirected,1
+Kamilla,Nn,Undirected,2
+Berner,Kamilla,Undirected,2
+Kamilla,Kaptein Berg,Undirected,1
+Hedvig L.,Henriette B.,Undirected,1
+Amalie,Verner,Undirected,1
+Nn,Verner,Undirected,1
+Kamilla,W.,Undirected,1
+Efferat,W.,Undirected,1
+Anna,Efferat,Undirected,1
+Dokfor Verner,Maria,Undirected,1
+Burleigh,Maria,Undirected,1
+Dokfor Verner,Maria Stuart,Undirected,1
+Ester,Verner,Undirected,1

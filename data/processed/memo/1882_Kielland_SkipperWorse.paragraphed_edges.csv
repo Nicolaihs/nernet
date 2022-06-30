@@ -1,0 +1,242 @@
+source,target,type,weight
+Garman,Zacharias,Undirected,1
+Christian Fredrik,Sandsgaard,Undirected,1
+Christian Fredrik,Richard,Undirected,3
+Garman,Richard,Undirected,3
+Jacob Worses,Worse,Undirected,1
+Randulf,Worse,Undirected,16
+Sandsgaard,Worse,Undirected,5
+Garman,Jacob Worses,Undirected,1
+Gutten,Lauritz Seehus,Undirected,2
+C. F. Garman,iland Skibets,Undirected,1
+Garman —,Sandsgaard,Undirected,1
+Christian Fredrik,Garman,Undirected,1
+Christian,Fredrik,Undirected,1
+Sandsgaard,iland,Undirected,1
+Jacob Worse,Lauritz Boldeman,Undirected,1
+Jacob Worse,Worse,Undirected,10
+Jacob Worse,Lauritz,Undirected,1
+Lauritz,Lauritz Seehus,Undirected,1
+Madame Torvestad,tilleie,Undirected,1
+Sara,Worse,Undirected,17
+Madame Torvestad,Sara,Undirected,14
+Hauge,Hauges,Undirected,1
+Hans Nilsen Hauges,Hauge,Undirected,2
+Henriette,Sara,Undirected,22
+Hans Nilsen,Sara,Undirected,10
+Hauge,Sara,Undirected,1
+Henriette,Skipper Worse,Undirected,1
+Skipper Worse,Worse,Undirected,3
+Lauritz,Worse,Undirected,9
+Lauritz,iland,Undirected,2
+bent,iland,Undirected,1
+Lauritz,Sara,Undirected,5
+Lauritz Seehus,Sara,Undirected,1
+Lauritz,Saral,Undirected,1
+Henriette,Lauritz,Undirected,10
+Jacob,Sneli,Undirected,1
+C. F. Garman,Worse,Undirected,4
+Worse,jasaa,Undirected,1
+Gutten,Worse,Undirected,1
+Gutten,Madame Torvestad,Undirected,1
+Madame Torvestad,Worse,Undirected,6
+Jacob Worse,Madam Torvestad,Undirected,3
+Dg,Jacob Worse,Undirected,1
+Madam,Madame Torvestad,Undirected,1
+Lauritz,Madam,Undirected,1
+Jungmandens,Worse,Undirected,1
+Kaptein Worse,Sara,Undirected,1
+Madame,Worse,Undirected,1
+Jungmanden,Worse,Undirected,1
+Jungmands,Lauritz,Undirected,1
+Graad,Gud,Undirected,1
+Hans Nilsen,Hauge,Undirected,5
+Gud,Hans Nilsen Hauge,Undirected,1
+Peltse,Skjærf,Undirected,1
+Gud,Sara,Undirected,7
+Endre,Nicolai Egeland,Undirected,1
+Nicolai Egeland,Sivert Jespersen,Undirected,1
+Hans Fennefos,Sara,Undirected,1
+Hans Nilsen,Madame Torvestad,Undirected,5
+Jacob Worse,Madame Torvestad,Undirected,3
+Sivert Jespersen,Worse,Undirected,2
+Sivert Gesvint,Worse,Undirected,3
+Sivert,Worse,Undirected,1
+Gesvint,Sivert,Undirected,1
+Sara,Skipper Worse,Undirected,1
+Madame Torvestad,lille Erik Pontoppidan,Undirected,1
+Erik Pontoppidan,Madame Torvestad,Undirected,1
+Endre Egeland,Erik Pontoppidan,Undirected,1
+Sivert,lille Erik Pontoppidan,Undirected,1
+Luthers,lille Erik Pontoppidan,Undirected,1
+Christum,Luthers,Undirected,1
+Nicolai Egeland,Worse,Undirected,1
+Gud,Kristus,Undirected,1
+Eva,Kristus,Undirected,1
+Eva,Gud,Undirected,1
+Madame Torvestad,Nicolai Egeland,Undirected,1
+Gud,Skipper Worse,Undirected,1
+Gud,Jesus,Undirected,1
+Aarestrup,Snell,Undirected,1
+Aarestrup,Preuss,Undirected,1
+Endre Egeland,Jacob Worse,Undirected,1
+Madame Torvestad,iland,Undirected,1
+Mirandas,Romarino,Undirected,1
+Romarino,Worse,Undirected,6
+Konsul Garmans,Romarino,Undirected,1
+Jacob Worse,Konsul Garmans,Undirected,1
+Romarino,Thomas Randulf,Undirected,2
+Lauritz Seehus,Worse,Undirected,1
+C. F. Garman,Sneli,Undirected,1
+C. F. Garman,bent,Undirected,1
+C. F. Garman,Jacob Worse,Undirected,4
+Skipper Worse,Zacharias,Undirected,1
+Birgitte,Mette,Undirected,6
+Birgitte,Jacob Worse,Undirected,2
+Adam Kruse,Garman,Undirected,1
+Adam Kruse,Worse,Undirected,1
+Freya,tein Andersen,Undirected,1
+Adam,Freya,Undirected,1
+Jacob Worse,Morten Garman,Undirected,2
+C. F*,Garman,Undirected,1
+. Garman,C. F*,Undirected,1
+C. F. Garman,Hr. Kaptein Worse,Undirected,1
+Morten,Worse maalløs,Undirected,1
+Morten W. Garman,Worse,Undirected,2
+Garman &,Jacob Worse,Undirected,1
+Garman &,Randulf,Undirected,1
+Brandl Brand,Jørgen Tambur,Undirected,1
+Brandl,Brandl Brand,Undirected,1
+Jacob Worse,Thomas Randulf,Undirected,1
+Assurance,Gud,Undirected,1
+Berje,Lars,Undirected,1
+Skipper Worse,eiheller,Undirected,1
+Hauge,Sivert Jespersen,Undirected,2
+Hans Nilsen Fennefos,Hauge,Undirected,1
+J omfru,Sara,Undirected,1
+Henriette,Madame Torvestad,Undirected,5
+Johannes,Sara,Undirected,1
+Gud,Johannes,Undirected,1
+Hans Nilsen,Worse,Undirected,2
+Hans Nilsen,Sivert Jespersen,Undirected,9
+Fennefos,Gud,Undirected,1
+Madame Torvestad,Sivert Jespersen,Undirected,4
+Madame Torvestad,Torvestad,Undirected,1
+Hans,Hans Nilsen,Undirected,1
+Hans,Nilsen,Undirected,1
+Sara,Sivert Jespersen,Undirected,1
+Egeland,Sivert Jespersen,Undirected,1
+Hans Nilsen,October,Undirected,1
+Garman,Jacob Worse,Undirected,2
+Gud,Jacob Worse,Undirected,1
+Adam,Sara,Undirected,2
+IO,Worse-,Undirected,1
+Madam Torvestad,Sara,Undirected,1
+Lauritz,Randulf,Undirected,1
+Jacob Worse,Sara,Undirected,7
+Garman,Sandsgaard,Undirected,3
+Birgitte,Sandsgaard,Undirected,1
+Garman,Mette,Undirected,1
+Garman,Gud,Undirected,1
+Madame Torvestad,Martha,Undirected,2
+Jasaa,Madame Torvestad,Undirected,1
+Kaptein Worse,Saral,Undirected,1
+Kaptein Worse,Martha,Undirected,1
+Martha,Salopen,Undirected,1
+Jacob Worse,Sandsgaard,Undirected,1
+Madam,Worse,Undirected,1
+Martha,Sara,Undirected,1
+Henriette iseng,Sara,Undirected,1
+Garman,Skipper Worse,Undirected,2
+Garman,P'orlo velsen,Undirected,1
+Sara,Skipper Randulfs,Undirected,1
+Skipper Randulfs,Thomas Randulf,Undirected,1
+Thomas Randulf,Worse,Undirected,2
+Jacob,Randulf,Undirected,2
+Sara,sorn,Undirected,1
+Randulf,Sara,Undirected,2
+Sara,Scriver,Undirected,1
+Johan Arnt,Scriver,Undirected,1
+Johan Arnt,Luther,Undirected,1
+Luther,Worse,Undirected,1
+Randulf,voxne,Undirected,1
+Jacob Worse,Randulf,Undirected,8
+Henriette,Lauritz Seehus,Undirected,1
+Jacob Worse,Konsul Garman,Undirected,1
+Jacob Worse,Sivert Gesvint,Undirected,1
+Romarino,Sara,Undirected,1
+Jacob Worse,Romarino,Undirected,1
+Garman,Worse,Undirected,3
+Mette,Sandsgaard,Undirected,1
+Hans Nilsen Fennefos,Høi,Undirected,1
+Sara,s,Undirected,1
+Sandsgaard,s,Undirected,1
+Garman,Sara,Undirected,1
+Fennefos,Garman,Undirected,1
+Fennefos,Skipper Worse,Undirected,1
+Fennefos,Hans Nilsen,Undirected,4
+Hans Nilsen,Randulf,Undirected,1
+Randulf,Sivert Jespersen,Undirected,1
+Hans Nilsen,Sara —,Undirected,1
+Nans Nilsen,Sara,Undirected,1
+Johan Arndt,Sivert Jespersen,Undirected,1
+Johan Arndt,Spener,Undirected,1
+Francke,Spener,Undirected,1
+Francke,Gud,Undirected,1
+Francke,Madame Torvestad,Undirected,1
+Elias,Madame Torvestad,Undirected,1
+Arndt,trende,Undirected,1
+Arndt,Spener,Undirected,1
+Madam Torvestad,Sivert Jespersen,Undirected,1
+Fennefos,Sivert Jespersen,Undirected,1
+P,Randulf,Undirected,1
+Garman,Randulf,Undirected,1
+Thomas Randulf,iland,Undirected,1
+Sara,Thomas,Undirected,1
+Thomas,Worse,Undirected,2
+Randulf haansk,Sivert Jespersen,Undirected,1
+Sivert Jespersen,Vorherre,Undirected,1
+Pillau,Randulf,Undirected,1
+Pillau,lieber,Undirected,1
+Fennefos,Sara,Undirected,3
+Fennefos,Sandsgaard,Undirected,1
+Sandsgaard,Sara,Undirected,1
+Jacob Worse,eil,Undirected,1
+Fennefos,Madame Torvestad,Undirected,2
+Hans Nilsen,Isaafald,Undirected,1
+Gud,Hans Nilsen,Undirected,3
+Gud,Henriette,Undirected,1
+Hans Nilsen,Paulus,Undirected,1
+Hans Nilsen,Lauritz Seehus,Undirected,1
+Hans,Henriette,Undirected,1
+Gud,Sivert Jespersen,Undirected,1
+Hans Nilsen,Henriette,Undirected,2
+Arons,Gud,Undirected,1
+.Worse,Sara,Undirected,1
+.Worse,Gud,Undirected,1
+Endre Egeland,Madame Torvestad,Undirected,1
+Henriette,Sivert Jespersen,Undirected,1
+Hans Nilsen,Sivert,Undirected,1
+Gud,Sivert,Undirected,1
+Gud,Hauge,Undirected,3
+Gud,Hans Nilsen Fennefos,Undirected,2
+Hans Nilsen,Madame,Undirected,1
+Henriette,Madame Endre Egeland,Undirected,1
+Erik Pontoppidan Egeland,Madame Endre Egeland,Undirected,1
+Erik Pontoppidan Egeland,Sara,Undirected,1
+Jacob Worse,Skipper Worse,Undirected,1
+Sara,Thomas Randulf,Undirected,1
+Endre Egeland,Sivert Jespersen,Undirected,1
+Garman,Romarino,Undirected,1
+Christian Fredrik,Tin,Undirected,1
+Christian Fredrik,Jacob Worse,Undirected,1
+. Worse,Jacob Worse,Undirected,1
+. Worse,Worse,Undirected,1
+Richard,Sandsgaard,Undirected,1
+Jacob Worse,Richard,Undirected,1
+Erik Pontoppidan,Henriette Torvestad,Undirected,1
+Erik Pontoppidan,Madam-,Undirected,1
+Madam-,Torvestad,Undirected,1
+Ebenezer,Hans Nilsen,Undirected,1
+Ebenezer,iland,Undirected,1
+Fennefos,Henriette,Undirected,1

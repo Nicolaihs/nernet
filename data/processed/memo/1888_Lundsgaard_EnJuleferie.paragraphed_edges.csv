@@ -1,0 +1,536 @@
+source,target,type,weight
+Ole Prip,Petersen,Undirected,1
+Hans Jensen,Ole Prip,Undirected,1
+Hans Jensen,Kara Mustafas,Undirected,1
+Dichson,Kara Mustafas,Undirected,1
+Benedich,Dichson,Undirected,1
+Benedich,Else Nielsen,Undirected,1
+Else Nielsen,L. C. Nielsen,Undirected,1
+Korte Hansen,L. C. Nielsen,Undirected,1
+Halte Svendsen,Korte Hansen,Undirected,1
+Halte Svendsen,Schmidt,Undirected,1
+Hansen,Schmidt,Undirected,1
+Hansen,Jensen,Undirected,1
+Jensen,Sørensen,Undirected,1
+Svendsen,Sørensen,Undirected,1
+Svendsen,Søren Smuth,Undirected,1
+Lange Hansen,Søren Smuth,Undirected,1
+Kara Mustafa,Lange Hansen,Undirected,1
+Kara Mustafa,Karl Mortensen,Undirected,1
+Hose Hansen,Karl Mortensen,Undirected,1
+H. C. Hansen,Hose Hansen,Undirected,1
+H. C. Hansen,Palle Gram,Undirected,1
+Palle Bister,Palle Gram,Undirected,1
+Hose Hansen,Palle Bister,Undirected,1
+Gud,Kara Mustafa,Undirected,15
+Gud,Mustafa,Undirected,1
+Hose Hansen,Kara Mustafa,Undirected,49
+Hose Hansen,Mustafa,Undirected,7
+Hansen,Mustafa,Undirected,2
+Hansen,Kara Mustafa,Undirected,6
+Hansen,Palle,Undirected,1
+Hansen,Moses,Undirected,1
+Kara Mustafa,Palle,Undirected,9
+Gud,Lange Hansen,Undirected,2
+Doctoren,perialis Glaspeter Petersen,Undirected,1
+Hansen,Hose Hansen,Undirected,5
+Gud,Søren Smuth,Undirected,2
+Karl den,Søren Smuth,Undirected,1
+Gripominus,Storveziren,Undirected,1
+Arne,Kara Mustafa,Undirected,1
+Arne,Holtens,Undirected,1
+Mustafa,kjær,Undirected,1
+Kara Mustafa,Palle Bister,Undirected,7
+Gripominus,Palle Gram,Undirected,1
+Palle Bister,gram,Undirected,1
+Palle Tværer,gram,Undirected,1
+Mustafa,Palle Bister,Undirected,3
+Palle Bister,St. Paulus,Undirected,1
+St. Paulus,Titus,Undirected,1
+Skrævole,Søren Smuth,Undirected,6
+Kara Mustafa,Mustafa,Undirected,12
+Gud,Harald Jensen,Undirected,1
+Benedich,Kukmand,Undirected,1
+Kara Mustafa,Kukmand,Undirected,1
+Hose Hansen,Skrævole,Undirected,2
+Hose Hansen,Ole,Undirected,1
+Kara Mustafa,Skrævole,Undirected,6
+Benedich,Kara Mustafa,Undirected,4
+Benedich,tom,Undirected,1
+Hose Hansen,Musikus,Undirected,2
+Benedich,Gud,Undirected,2
+Else,Else Nielsen,Undirected,1
+Else,Hannibal,Undirected,1
+Hannibal,Xenophon,Undirected,1
+Hveen,Xenophon,Undirected,1
+Hansen,Søren Smuth,Undirected,1
+Benedich,Hose Hansen,Undirected,4
+Hose Hansen Conservativ,Kara Mustafa,Undirected,1
+Hose Hansen,Hose Hansen Conservativ,Undirected,1
+Gud,Jason,Undirected,1
+Benedich,Skrævole,Undirected,3
+Adam,Benedich,Undirected,1
+Frøken Thane,Kara Mustafa,Undirected,1
+Hose Hansen,Søren Smuth,Undirected,6
+Benedich,Søren Smuth,Undirected,6
+Kara Mustafa,saagar,Undirected,1
+Mustafa,Palle,Undirected,5
+Gud,véd,Undirected,6
+Kara Mustafa,Søren Smuth,Undirected,7
+Benedich,Jesajas,Undirected,1
+Jacobiner,Jesajas,Undirected,1
+Jacobiner,Kara Mustafa,Undirected,1
+Musikus Skrævole,Mustafa,Undirected,1
+Musikus Skrævole,Skrævole,Undirected,1
+Kara,Kara Mustafa,Undirected,1
+Kara,Mustafa,Undirected,2
+Benedich,Grand,Undirected,2
+Benedich,Dich,Undirected,1
+Dich,Gud,Undirected,1
+Kara Mustafa,Musikus Skrævole,Undirected,1
+Benedich,Musikus Skrævole,Undirected,2
+Benedich,Søren,Undirected,2
+Skrævole,Søren,Undirected,5
+Hose Hansen,Søren,Undirected,1
+Kara Mustafa,Søren,Undirected,3
+Gud,Hose Hansen,Undirected,1
+Hansen,véd,Undirected,1
+Ole,Søren,Undirected,2
+Kara Mustafa,Ole,Undirected,3
+Ole,Skrævole,Undirected,2
+Ole,Søren Smuth,Undirected,2
+Musikus Skrævole,Søren Smuth,Undirected,1
+Banders,Søren Smuth,Undirected,1
+Banders,Kara Mustafa,Undirected,1
+Gud,Ole,Undirected,1
+Søren,Søren Smuth,Undirected,6
+Frøken Thane,Søren,Undirected,1
+Kristian,Tyras,Undirected,1
+Niels,Søren Smuth,Undirected,1
+Niels,Søren,Undirected,1
+Frøken Bruhns,Musikus Skrævole,Undirected,1
+Frøken Bruhns,Ole,Undirected,1
+Frøken Thane,Søren Smuth,Undirected,2
+Frøken Bruhn,Kara Mustafa,Undirected,1
+Kara Mustafa,Musikus,Undirected,1
+Benedich,Frøken Thane,Undirected,1
+Palle,Søren,Undirected,1
+Mustafa,Søren,Undirected,1
+Palle Gram,Søren Smuth,Undirected,1
+Søren,lille Søren,Undirected,2
+Musikus Skrævole,Søren,Undirected,1
+Gud,Søren,Undirected,1
+Frøken Bruhn,Hose Hansen,Undirected,1
+Palle,hvast,Undirected,1
+Kara Mustafa,Karle,Undirected,1
+Palle Bister,Tyrken,Undirected,2
+Jupiter,Kara Mustafa,Undirected,1
+Frøken Bruhn,Jupiter,Undirected,1
+Hose Hansen,Tyrken,Undirected,2
+Hose,Kara Mustafa,Undirected,1
+Hansen,Hose,Undirected,4
+Frøken Bruhn,Frøken Thane,Undirected,2
+Frøken Thane,Pukkelsens,Undirected,1
+Kara Mustafa,Taal,Undirected,1
+Kara Mustafa,Moses,Undirected,1
+Hose Hansen,Moses,Undirected,1
+Hose Hansen,Hr. Pukkelsen,Undirected,1
+Hr. Pukkelsen,Tokkesen,Undirected,1
+Gud,Sjofnas,Undirected,1
+Abrahams,Kara Mustafa,Undirected,1
+Pukkelsen,Tokkesen,Undirected,3
+Ole Nordistuen,Pukkelsen,Undirected,1
+Bjørnsons,Ole Nordistuen,Undirected,1
+Hose Hansen,Petum,Undirected,1
+Gud,Petum,Undirected,1
+Maurers,Petum,Undirected,1
+Palle,Palle Bister,Undirected,2
+Palle,Pukkelsen,Undirected,1
+Bamse,Hose Hansen,Undirected,1
+Kara Mustafa,Lisbeth,Undirected,1
+Palle Bister,Palle Bister-,Undirected,1
+Frøken Thane,Tokkesen,Undirected,1
+Thane,Wodrofsvej Nr.,Undirected,1
+Marie Sofie Agnete Thane,Wodrofsvej Nr.,Undirected,1
+Palle,Tyrken,Undirected,1
+a,lid,Undirected,1
+Hose Hansen,a,Undirected,1
+Kara Mustafa,Lifthers,Undirected,2
+Esajas,Kara Mustafa,Undirected,2
+Hose Hansen,Palle,Undirected,1
+Palle,lian,Undirected,1
+Tyrk,Tyrken,Undirected,1
+Hose Hansen,Krapyl,Undirected,1
+Hedegaard,Kara Mustafa,Undirected,2
+Hedegaard,Mortensen,Undirected,3
+Kara Mustafa,Mortensen,Undirected,3
+Frits,Gamle Mortensen,Undirected,1
+Frits,Hose Hansen,Undirected,4
+Hose Hansen,Mortensen,Undirected,2
+Frits,Mortensen,Undirected,4
+Frits,age med,Undirected,1
+Hose Hansen,age med,Undirected,1
+Frits,Studen,Undirected,15
+Mortensen,Studen,Undirected,1
+Frits,Kara Mustafa,Undirected,21
+Mis,Studen,Undirected,2
+Frits,Tyrken,Undirected,2
+Frits,Mustafa,Undirected,7
+Frits,Kristian,Undirected,22
+Frits,Kris,Undirected,1
+Kristian,Studen,Undirected,1
+Faders,Studen,Undirected,1
+Faders,Frits,Undirected,1
+Kara Mustafa,Kristian,Undirected,19
+Anna,Frits,Undirected,8
+Anna,Fader,Undirected,1
+Anna,Hose Hansen,Undirected,2
+Fader,Mustafa,Undirected,1
+Fader,Kristian,Undirected,3
+Frederiksen,Mortensen,Undirected,2
+Mortensen,l’,Undirected,2
+Frederiksen,l’,Undirected,1
+kjønne,l’,Undirected,1
+Elise Ersted,kjønne,Undirected,1
+Frederiksen,Kara Mustafa,Undirected,9
+Frederiksen,Mustafa,Undirected,2
+Frederiksen,Kristian,Undirected,3
+Gud,livor,Undirected,1
+Glaspeter,livor,Undirected,1
+Mortensen,Palle Gram,Undirected,1
+Fader,Frederiksen,Undirected,1
+Søren Bold,jo gjahn wed,Undirected,1
+Søren Bold,indskjød Frederiksen,Undirected,1
+Frederiksen,Søren Bold,Undirected,1
+Kara Mustafa,Madam Frederiksen,Undirected,1
+Fenris,Frederiksen,Undirected,2
+Frederiksen,Morten Rødspæt,Undirected,1
+Huhde,Hwons,Undirected,1
+Jakob,gjahn,Undirected,1
+Jens Post,Kara Mustafa,Undirected,1
+Jakob Staastilles,Kristian,Undirected,1
+Frederiksen,Niels Rytters,Undirected,1
+Kara Mustafa,Kræn Klavsen,Undirected,6
+Frits,Kræn Klavsen,Undirected,1
+Kristian,Mustafa,Undirected,4
+Jessu Kresti Naawn,Kristian,Undirected,1
+Frits,Jessu Kresti Naawn,Undirected,1
+Frits,Luthers,Undirected,1
+aalle,mihr,Undirected,1
+Gud,Kræn Klavsen,Undirected,3
+Huhde o waa Røjter,nihr,Undirected,1
+Huhde o waa Røjter,bløw wal møj baangh,Undirected,1
+Niels,bløw wal møj baangh,Undirected,1
+blywer,jens,Undirected,1
+Balles,Gud,Undirected,1
+Kræn Klavsen,jen,Undirected,1
+Kræn Klavsen,trowe,Undirected,1
+Kræn Klavsen,wal,Undirected,1
+Hose Hansen,Kræn Klavsen,Undirected,1
+Hansen,Palle Bister,Undirected,2
+Kara Mustafa,Kris,Undirected,2
+Gud,Kristian,Undirected,1
+Kristian,Mads,Undirected,3
+Kara Mustafa,Kip,Undirected,1
+Kara Mustafa,Mads,Undirected,1
+Mads,Mustafa,Undirected,1
+Anna,Kristian,Undirected,11
+Gud,Moder,Undirected,1
+Frits,lian,Undirected,1
+Jakob,Kara Mustafa,Undirected,1
+Fruerlund,Kara Mustafa,Undirected,1
+Fruerlund,Mustafa galant,Undirected,1
+Anna,Henrik Juul,Undirected,1
+Anna,Sofie,Undirected,3
+Knud Lyng,Sofie,Undirected,2
+Elise Ersted,Knud Lyng,Undirected,1
+Elise Ersted,Frederiksen,Undirected,1
+Frederiksen,Hansen,Undirected,1
+Jakob Staastilles,Palle Bister,Undirected,2
+Kara Mustafa,Knud Lyng,Undirected,2
+Juul,Sofie,Undirected,2
+Frøken Thane,Marie,Undirected,1
+Kara Mustafa,Marie,Undirected,2
+Frederiksen,Sofie,Undirected,1
+Anna Juul,Henrik,Undirected,2
+Anna Juul,Hose Hansen,Undirected,1
+Ekse,Hose Hansen,Undirected,1
+Elise,Hose Hansen,Undirected,7
+Henrik,Kristian,Undirected,3
+Henrik,Kara Mustafa,Undirected,7
+Kara Mustafa,Kristian Gram,Undirected,1
+Juul,Kara Mustafa,Undirected,2
+Gud,Mutter,Undirected,1
+Kristian,davel,Undirected,1
+Juul,Karl,Undirected,1
+Fruerlund,Hr. Juul,Undirected,1
+Anna vimsede,Sofie,Undirected,1
+Kara Mustafa,Sofie,Undirected,13
+Tyrken,lille Karl,Undirected,1
+Hr. Juul,lille Karl,Undirected,1
+Knud Lyng,lille Fatter,Undirected,1
+Knud Lyng,Palle Bister,Undirected,1
+Kara Mustafa,Knud,Undirected,9
+Hr. Juul,Palle,Undirected,1
+Jakob,Jakob Staastilles,Undirected,1
+Jakob,Knud,Undirected,1
+Albue,Knud,Undirected,1
+Henrik,Knud,Undirected,2
+Henrik,Sofie,Undirected,1
+-Knud,Henrik,Undirected,1
+Henrik,Mustafa,Undirected,1
+Knud,Mustafa,Undirected,8
+Frits,Knud,Undirected,2
+Knud,frank,Undirected,1
+Knud,Sofie,Undirected,4
+Mustafa,Sofie,Undirected,4
+Gud,Knud,Undirected,1
+Palle,Sofie,Undirected,2
+Anna,Anna Juul,Undirected,1
+Sofie,a,Undirected,1
+a,jus,Undirected,1
+Fruerlund,jus,Undirected,1
+Gud,Hejmdal,Undirected,1
+Hejmdal,Jakob Staastilles,Undirected,1
+Jøsses,Palle,Undirected,1
+Farao,Kara Mustafa,Undirected,1
+Gud,Kara Mustafa msd,Undirected,1
+Henrik,Kara Mustafa msd,Undirected,1
+Hose Hansen,Knud Lyng,Undirected,1
+Elise,Knud Lyng,Undirected,1
+Elise,Frits,Undirected,2
+Hr. Juul,Kristian,Undirected,1
+Elise,Knud,Undirected,1
+Anna,Knud,Undirected,1
+Anna,Vaas,Undirected,1
+Anna,Kara Mustafa,Undirected,2
+Anna,Mustafa,Undirected,1
+Knud,Tyrken,Undirected,2
+Aleuteme,Venus,Undirected,1
+Venus,Zenith,Undirected,1
+Anna,Elise,Undirected,1
+Henrik,Saba,Undirected,1
+Knud Lyng,Saba,Undirected,1
+Knud,Knud Lyng,Undirected,2
+Frits,Sofie,Undirected,1
+Knud Lyng,Tyrken,Undirected,1
+Hr. Juul,Kara Mustafa,Undirected,3
+Kara Mustafa,Pavlus,Undirected,1
+Hr. Juul,Knud,Undirected,3
+Holbergs,Jakob von Thyboe,Undirected,1
+Jakob von Thyboe,Jeppe,Undirected,1
+Jeppe,Mortensen,Undirected,1
+Hr. Juul,Knud Lyng,Undirected,1
+Henrik,Hr. Juul,Undirected,1
+Braadde,Henrik,Undirected,2
+anne,wos,Undirected,1
+Frederik den,anne,Undirected,1
+Frederik den,Kristian,Undirected,3
+Søren,wos,Undirected,1
+Kara Mustafa,Søren Urmager,Undirected,4
+Frederik,Søren Urmager,Undirected,1
+Frederik,Søren,Undirected,1
+Madam Frow,jen Teng,Undirected,1
+Kong Frederik,Mustafa,Undirected,1
+Stjahnhywl,Søren,Undirected,1
+Gud,Hr. Juul,Undirected,1
+Frederiksen,do,Undirected,1
+do,hwine,Undirected,1
+Frederiksen,hwine,Undirected,1
+Frederiksen,Søren,Undirected,1
+Gud,Henrik,Undirected,2
+Henrik,Knud Lyng,Undirected,2
+Anna Juul,Kristian,Undirected,4
+Anna Juul,Knud Lyng,Undirected,1
+Arne,Sofie,Undirected,1
+Jens Brokkeisen,Jens Virum,Undirected,1
+Jens,Jens Brokkeisen,Undirected,1
+Brokkeisen,Himstregims Jens,Undirected,1
+Himstregims Jens,Prang,Undirected,1
+Fatters,Prang,Undirected,1
+Brokkeisen,Holm,Undirected,1
+Holm,Jens Brokkeisen,Undirected,1
+Juul,Kathrine Holm,Undirected,1
+Jens Brokkeisen,Juul,Undirected,1
+Kristian,Sofie,Undirected,4
+Anna,Kathrine Holm,Undirected,4
+Frøken Thane,Kathrine Holm,Undirected,2
+Frøken Thane,Kathrine,Undirected,4
+Kathrine Holm,Sofie Juul,Undirected,1
+Gud,Kathrine Holm,Undirected,1
+Anna,Kathrine,Undirected,8
+Kathrine,Kathrine Holm,Undirected,4
+Anna,Jens Brokkeisen,Undirected,1
+Jens Brokkeisen,Kathrine,Undirected,4
+Kara Mustafa,Lassen,Undirected,2
+Lassen,Mustafa,Undirected,1
+Kathrine Holm,Moder,Undirected,1
+Fader,Kathrine Holm,Undirected,1
+Pro primo,Pro secundo,Undirected,1
+Fader,Kara Mustafa,Undirected,1
+Kara Mustafa,lyne,Undirected,1
+Kræn Klavsen,lyne,Undirected,1
+Kristian,Søren Smuth,Undirected,1
+Benedich,Hansen,Undirected,1
+Frøken Holm,Frøken Thane,Undirected,1
+Julius Strandbergske,Kathrine,Undirected,1
+Julius Strandbergske,Kristian Wintherske,Undirected,1
+Kristian Richard,Kristian Wintherske,Undirected,1
+Kristian Richard,Rikard Kristensen,Undirected,1
+Mortensen,Mustafa,Undirected,1
+Kathrine,Kristian,Undirected,1
+Kara Mustafa,Kathrine,Undirected,1
+Anna,lille Kathrine,Undirected,1
+Frits,Kathrine,Undirected,3
+Charybdis,Kathrine,Undirected,1
+Charybdis,Scylla,Undirected,1
+Frits,s,Undirected,1
+Anna,s,Undirected,1
+Elise,Kathrine,Undirected,1
+Himstregims,Jens,Undirected,2
+Jakob Staastilles,Kathrine,Undirected,1
+Jakob Staastilles,Kathrine Holm,Undirected,1
+Attraa,Mathispøl,Undirected,1
+Kara Mustafa,Sofie Juul,Undirected,3
+Knud Lyng,Kristian,Undirected,1
+Frøken Brokkeisen,Knud Lyng,Undirected,1
+Frøken Brokkeisen,Kathrine,Undirected,1
+Kathrine Holm,k,Undirected,1
+Henrik Juul,k,Undirected,1
+Frøken Brokkeisen,Henrik Juul,Undirected,1
+Frøken Brokkeisen,Holm,Undirected,1
+Jens Brokkeisen,wed,Undirected,1
+Elise,Frits Mortensen,Undirected,1
+Anna,Frits Mortensen,Undirected,3
+Henrik Juul,Kara Mustafa,Undirected,2
+Henrik Juul,Knud Lyng,Undirected,1
+Knud Lyng,Peter,Undirected,1
+Kara Mustafa,z,Undirected,1
+Sofie,z,Undirected,1
+Frøken Elise Ersted,Studiosus Hans Hansen,Undirected,1
+Hose,Hose Hansen,Undirected,1
+Anna,Hansen,Undirected,1
+Frederiksen,Knud nøs,Undirected,1
+Hansen,Valdemar Sejer,Undirected,1
+Byron,Hansen,Undirected,1
+Mustafa,Storvezir,Undirected,1
+Kara Mustafa,Storvezir,Undirected,1
+Hr. Lyng,Hr. Lyngs,Undirected,1
+Kara Mustafa,Tyrken,Undirected,1
+Elise,Hansen,Undirected,1
+Eros,Hose Hansen,Undirected,1
+Hose Hansen,Kristian,Undirected,2
+Kristian,Palle,Undirected,2
+Hedegaard,Kathrine,Undirected,1
+Hansen,Kara,Undirected,1
+Kara Mustafa,Kathrine Holm,Undirected,1
+Hansen,Kristian,Undirected,1
+Kara Mustafa,frank,Undirected,1
+Ewald,Kristian,Undirected,1
+Hose Hansen,Svend From,Undirected,1
+Svend From,Svend Pinedød,Undirected,1
+Principals,Svend Pinedød,Undirected,1
+Birkelund,Principals,Undirected,1
+Birkelund,Svigerpapas,Undirected,1
+Svend,Svigerpapas,Undirected,1
+Frits,Svend,Undirected,2
+Hose Hansen,Muhammed,Undirected,1
+Fader,Hose Hansen,Undirected,2
+Hedegaard,Hose Hansen,Undirected,1
+Gud,Onkels,Undirected,1
+Kathrine Holm,Knud Lyng,Undirected,2
+Henrik Juul,Kathrine Holm,Undirected,1
+Henrik,Henrik Juul,Undirected,1
+Frits,Henrik,Undirected,2
+Henrik,Kathrine,Undirected,8
+Henrik,Palle Bister,Undirected,1
+Henrik,Tællepraasens,Undirected,1
+Kathrine,Sofie,Undirected,1
+Fruerlund,Mustafa,Undirected,1
+Henrik,Hose Hansen,Undirected,1
+Henrik,Palle,Undirected,1
+Gud,Kathrine,Undirected,1
+Morten,Morten Rødspæt,Undirected,2
+Morten Rødspæt,Studiosus Palle Gram,Undirected,1
+Henrik Juul,Morten,Undirected,1
+Ewald,Palle Gram,Undirected,2
+Ewald,Morten Rødspæt,Undirected,1
+Finkel,Hagen,Undirected,1
+Finkel,Henrik,Undirected,1
+Gud,Johannes Ewald,Undirected,1
+Mustafa,véd,Undirected,1
+Mustafa,Pegasus,Undirected,1
+Gud,Zeus,Undirected,1
+Knud Lyng,Zeus,Undirected,1
+Kathrine Holm,Knud,Undirected,1
+Knud,Kristian,Undirected,1
+Birkelund,Kristian,Undirected,1
+Birkelund,Noæ,Undirected,1
+Gud,Noæ,Undirected,1
+Birkelund,Frits,Undirected,1
+Birkelund,Kara Mustafa,Undirected,1
+Kathrine,Palle,Undirected,1
+Anna,Henrik,Undirected,2
+Mustafa,lille Fie,Undirected,1
+Jespersen,Svend,Undirected,4
+Jespersen,Petersen,Undirected,2
+Hose Hansen,Svend,Undirected,2
+Hansen,Jespersen,Undirected,1
+Kara Mustafa,véd,Undirected,1
+Gud,Svend,Undirected,3
+Petersen,Svend,Undirected,9
+Frøken Petersen,Svend,Undirected,3
+Frøken Petersen,Frøken Thane,Undirected,1
+Kara Mustafa,tamme,Undirected,1
+Frøken Thane,Jespersen,Undirected,1
+Frøken Thane,Hose Hansen,Undirected,1
+Hose Hansen,Sofie Juul,Undirected,1
+Frøken Thane,Sofie Juul,Undirected,1
+Madam Jespersen,Svend,Undirected,1
+Joha,tamme,Undirected,1
+Anders,s,Undirected,2
+Frøken Thane,Svend,Undirected,1
+Jespersen,Søren,Undirected,2
+Hr. Jespersen,Niels,Undirected,1
+Blyhed,Gud,Undirected,1
+Frøken Petersen,Kara Mustafa,Undirected,1
+Frits Mortensen,Sofie,Undirected,1
+Kathrine,Svend og,Undirected,1
+Hose Hansen,Svend og,Undirected,1
+Elisa,Hose Hansen,Undirected,1
+Elisa,Kristian,Undirected,1
+Anna Juul,Kara Mustafa,Undirected,1
+tamme,Ægteparret Petersen,Undirected,1
+Svend,vexles,Undirected,1
+Graad,Sofie,Undirected,1
+Graad,Marie,Undirected,1
+Kara Mustafa,Svend,Undirected,3
+Marie,Sofie,Undirected,1
+Marie,Palle,Undirected,1
+Frøken Sofie,Tyrk,Undirected,1
+Kristian,Tyrken,Undirected,1
+Henrik,Kathrine Holm,Undirected,1
+Marie,Svend,Undirected,1
+Mutter,Petersen,Undirected,1
+Knud,Svend,Undirected,3
+Mutter,Svend,Undirected,3
+Svend,Tyrk,Undirected,2
+Gud,Palle,Undirected,1
+Palle,capo,Undirected,1
+Gud,capo,Undirected,1
+Birkelund,Petersen,Undirected,1
+Birkelund,Svend,Undirected,2
+Frøken Petersen,Knud,Undirected,2
+Mustafa,Svend,Undirected,3
+Mutter,Vorherre,Undirected,1
+Kristian,Skaal,Undirected,1
+Anna Gram,Frits Mortensen,Undirected,1
+Marie,vexledes,Undirected,1
+Petersen,Svend From,Undirected,1
+Kathrine Holm,Petersen,Undirected,1
+Kathrine Holm,Mustafa,Undirected,1
+Frøken Petersen,Petersen,Undirected,1
+Marie,Søren Smuth,Undirected,1
+Svend,Søren Smuth,Undirected,1
+Petersen,Svend niente,Undirected,1
+Marie,lille,Undirected,1

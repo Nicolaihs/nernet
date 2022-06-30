@@ -1,0 +1,440 @@
+source,target,type,weight
+Lehnsgrevens,Maria H.,Undirected,1
+Louise,Marie,Undirected,71
+H.,Louise,Undirected,3
+Eleonora Svane,H.,Undirected,1
+Eleonora Svane,Marie,Undirected,1
+Fenris,Marie,Undirected,11
+Fenris,lille Fenrisulv,Undirected,1
+Louise,lille Fenrisulv,Undirected,1
+Fenris,Louise,Undirected,4
+Frøken Høg,Louise,Undirected,4
+Grethe,Gud,Undirected,1
+Grethe,Marie,Undirected,7
+Marie,øg,Undirected,2
+Marie,Steen,Undirected,1
+Marie,Marie H.,Undirected,1
+Frøken Høg,Marie,Undirected,1
+Einar Nordberg,Louise,Undirected,2
+Einar Nordberg,Marie,Undirected,1
+Marie Doctoren,Nordberg,Undirected,1
+Doctoren,Nordberg,Undirected,1
+Doctoren,Grethe,Undirected,1
+Grethe,Øle Madsen,Undirected,1
+Marie,Ole Madsen,Undirected,3
+Frøken Høg,Grethe,Undirected,1
+Frøken Høg,Ole Madsen,Undirected,1
+Nordberg,Ole Madsen,Undirected,1
+Comtesse Marie,Grethe,Undirected,1
+Ejnar Nordbergs,Marie,Undirected,1
+Gud,Thorvald,Undirected,1
+Ejnar,Gud,Undirected,11
+Ejnar,Marie,Undirected,154
+Ejnar,eg,Undirected,1
+Camilla Ring,Marie,Undirected,1
+Camilla Ring,Thorvald,Undirected,2
+Anna,Marie,Undirected,70
+Marie,Nordberg,Undirected,8
+Nordberg,lille Marie,Undirected,1
+Grethe,lille Marie,Undirected,1
+Grethe,Nordberg,Undirected,1
+Grethe,Louise,Undirected,1
+Grethe Vaagekones,Ole Madsen,Undirected,1
+H.,Marie,Undirected,5
+H.,s,Undirected,1
+Ejnar,alleflags,Undirected,1
+Marie,alleflags,Undirected,1
+Beethovens,Frøken Høg,Undirected,1
+Fenris,Nordberg,Undirected,1
+Gud,Marie,Undirected,7
+Cleonora Svane,H.,Undirected,1
+Cleonora Svane,Eleonoras,Undirected,1
+Eleonora,Eleonoras,Undirected,1
+Greven,Marie,Undirected,13
+Ejnar,Greven,Undirected,19
+Comtessen,Ejnar,Undirected,5
+Ejnar,Ole Madsen,Undirected,2
+Ejnar,Hr. Nordberg,Undirected,1
+Camilla,Thorvald,Undirected,1
+Marie,hnn,Undirected,3
+Ejnar,Sopha,Undirected,3
+Ejnar,H.,Undirected,12
+Ejnar,Vedbend,Undirected,1
+Ejnar,Louise,Undirected,15
+Comtesse,Ejnar,Undirected,2
+Comtesse,Marie,Undirected,2
+Louise Marie,Marie,Undirected,1
+Marie,lee,Undirected,2
+Ejnar,Shakspear,Undirected,1
+Goethe,Shakspear,Undirected,1
+Goethe,Schiller,Undirected,1
+Schiller,Walter Scotts,Undirected,1
+Greven,Walter Scotts,Undirected,1
+Contrabande,Louise,Undirected,1
+Contrabande,Ejnar,Undirected,1
+Einar,Marie,Undirected,1
+Ejnar,Grevinde H.,Undirected,1
+Ejnar,Grev H.,Undirected,10
+Ejnar Nordberg,Fenris,Undirected,1
+Ejnar Nordberg,borl,Undirected,1
+Marie,borl,Undirected,1
+Ejnar,Fenris,Undirected,1
+Comtesse Marie,Fenris,Undirected,1
+Comtesse Marie,Ejnar,Undirected,3
+Marie,Thorvald,Undirected,1
+Ejnar,Thorvald,Undirected,1
+Anna,Gud,Undirected,3
+Anna,Ejnar,Undirected,107
+Jeremias,Marie,Undirected,1
+Gud,Wilhelm Meister,Undirected,1
+H.,Undal,Undirected,2
+Ejnar,Franklin,Undirected,3
+Franklin,Marie,Undirected,1
+Ejnar,Undal,Undirected,12
+Ejnar,Grev H-s,Undirected,2
+Ejnar,Øehlenschlager,Undirected,2
+Fichtes,Kants,Undirected,1
+Fichtes,Schelling,Undirected,1
+Doris,Marie,Undirected,1
+Ejnar,Hans,Undirected,2
+Undal,hyn,Undirected,1
+Ejnar,H. C. Ørsteds,Undirected,1
+Haano,Marie,Undirected,1
+Faust,Marie,Undirected,1
+Gud,Mephistopheles,Undirected,1
+Marie,Mephistopheles,Undirected,1
+Byrons,Marie,Undirected,1
+Byrons,Rene,Undirected,1
+Thorvald,Ørsteds,Undirected,1
+Marie,Ørsteds,Undirected,1
+Ejnar,Huulningcn,Undirected,2
+Esnar,Gud,Undirected,1
+Gud,Undal,Undirected,1
+Fichte,Schelling,Undirected,1
+Gud,Schelling,Undirected,1
+Harms,Undal,Undirected,1
+,Harms,Undirected,1
+,Marie,Undirected,1
+Anna,hnn,Undirected,1
+Ejnar,Graad,Undirected,1
+Anna,Herrnhutter,Undirected,1
+Ejnar,Nordberg,Undirected,10
+Anna,Nordberg,Undirected,10
+Anna Nordberg,Ejnar,Undirected,1
+Anna,Walter Scotts,Undirected,2
+Christus,Paulus,Undirected,1
+Claudiusses,Marie,Undirected,1
+Comtesse Marie,Marie,Undirected,1
+Adam,Marie,Undirected,1
+Adam,Eva,Undirected,1
+Ejnar,Hr. Leval,Undirected,2
+Christian,Ejnar,Undirected,2
+Esnar,Louise,Undirected,1
+Esnar,Marie,Undirected,2
+Camilla,Marie,Undirected,4
+Marie,pet,Undirected,1
+Marie,Priis,Undirected,1
+Dands,Ejnar,Undirected,2
+Cuviers,Laplaces,Undirected,1
+Laplaces,Marie,Undirected,1
+Christian Walter,Marie,Undirected,1
+Ejnar,Walter,Undirected,129
+Grev H.,Walter,Undirected,1
+Marie,Walter,Undirected,8
+Ejnar,betoges,Undirected,1
+Comtesse Marie,Walter,Undirected,1
+H.,Walter,Undirected,2
+E,ban,Undirected,1
+Walrer,ban,Undirected,1
+Monsieur Leval,Walrer,Undirected,1
+Monsieur Leval,ril,Undirected,1
+Walrer,ril,Undirected,1
+Ejnar,Walrer,Undirected,1
+Ejnar,ban,Undirected,1
+ban,dan,Undirected,1
+Ejnar,dan,Undirected,1
+Ejnar,Leval,Undirected,2
+Ejnar,fil Walter,Undirected,1
+Walter,stig,Undirected,1
+Ejnar,paany,Undirected,2
+Walfer,paany,Undirected,1
+Ejnar,Walfer,Undirected,4
+Leval,Walter,Undirected,1
+Marie,Sosters,Undirected,1
+Ejnar,Walte,Undirected,2
+Greven,Wallers,Undirected,1
+Rose,Seebæk,Undirected,1
+Ejnar,Rose,Undirected,1
+Ejnar,Schelling,Undirected,1
+Schelling,Schubert,Undirected,1
+Ejnar,Schubert,Undirected,1
+Ejnar,X,Undirected,2
+Walter,dn,Undirected,1
+Ejnar,Roes,Undirected,2
+Roes,høs,Undirected,1
+Ejnar,høs,Undirected,1
+Ejnar,hnn,Undirected,1
+felv,hnn,Undirected,1
+Walter,felv,Undirected,1
+Amalies,Undal,Undirected,1
+Amalies,Walter,Undirected,1
+Ejnar,Walter strax,Undirected,1
+Ejnar,Maria H.,Undirected,1
+Ejnar,soran Walfer,Undirected,1
+Walfer,soran Walfer,Undirected,1
+Sorrento,Walfer,Undirected,1
+,P.,Undirected,1
+,S,Undirected,1
+Ejnar,Herman,Undirected,3
+Aager,Herman,Undirected,1
+Aager,Blaar,Undirected,1
+Anna,Blaar,Undirected,1
+Anna,hans Aager,Undirected,1
+Grev H.,Herman,Undirected,1
+Ejnar,Madam Villumsen,Undirected,4
+Camilla,Ejnar,Undirected,1
+Camilla,Maria,Undirected,1
+Maria,hnn,Undirected,1
+Snee,hnn,Undirected,1
+Snee,Walter,Undirected,1
+Anna,Walter,Undirected,22
+Madam Villumsen,Walter,Undirected,6
+Ejnar,hauz,Undirected,1
+Camilla,hauz,Undirected,1
+Ejnar,Grev H,Undirected,2
+Greven,Sophaen,Undirected,1
+Greven,Louise,Undirected,4
+Axel H.,Ejnar,Undirected,1
+Axel,Louise,Undirected,23
+Axel,Marie,Undirected,32
+,H.,Undirected,1
+Madam Villumsen,Marie,Undirected,1
+Axel,Greven,Undirected,4
+Ejnar,nants,Undirected,1
+Jesus,Louise,Undirected,1
+Grevinden,Gud,Undirected,1
+Grevinden,Marie,Undirected,1
+Greven,ber,Undirected,2
+Louise,sor Marie,Undirected,1
+Orion,Sirius,Undirected,2
+Marie,ester,Undirected,1
+Haraldsborg,Marie,Undirected,2
+Axel,Ejnar,Undirected,17
+Ejnar,ester,Undirected,1
+H.,ester,Undirected,1
+Greven,Nordberg,Undirected,3
+Louise,Moder,Undirected,1
+Grev H.,Marie,Undirected,2
+Doctoren,Marie,Undirected,1
+Doctoren,Louise,Undirected,1
+Juul,Marie,Undirected,2
+Bv,Ejnar,Undirected,1
+Doctoren,Ejnar,Undirected,4
+Axel,Doctoren,Undirected,2
+Doctoren,Greven,Undirected,1
+Axel,H.,Undirected,1
+Doctoren,H.,Undirected,1
+Doctoren,Lehnsbesidder,Undirected,1
+Louise,smukf,Undirected,1
+Marie,kjære Nordberg,Undirected,1
+Candidat Schønman,Thorvald,Undirected,1
+Camilla Ring,Ejnar,Undirected,1
+Ejnar,Schønman,Undirected,28
+Dantes,Ejnar,Undirected,1
+Dante,Ejnar,Undirected,1
+Beatrice,Dante,Undirected,1
+Beatrice,Candidat Schonman,Undirected,1
+Ejnar,jusf,Undirected,1
+Schonman,Theori,Undirected,1
+Camilla,Divina øomwsllia^,Undirected,1
+Camilla,flog,Undirected,1
+Ejnar,flog,Undirected,1
+Ejnar,Schonman,Undirected,13
+Madam Villumsen,Sophaen,Undirected,1
+Karen,Sophaen,Undirected,1
+Ejnar,lee,Undirected,1
+Ejnar,slor,Undirected,2
+Ejnar,Sophaen,Undirected,3
+Schonman,Sophaen,Undirected,1
+Schonman,Schønman,Undirected,2
+Walfer,Walter,Undirected,1
+Sophaen,Walfer,Undirected,1
+Candidat Schønman,Walter,Undirected,1
+Schønman,Walter,Undirected,4
+Døttre,Walter,Undirected,1
+Døttre,Margrete,Undirected,1
+Inger,Margrete,Undirected,1
+Ejnar,Inger,Undirected,1
+Stropher,Walter,Undirected,1
+Walter,paany,Undirected,1
+Axel,Kepler,Undirected,1
+Ejnar,Marqrete,Undirected,1
+Marqrete,Walter,Undirected,1
+Kepler,Walter,Undirected,1
+Ejnar,Margrete,Undirected,3
+Margrete,Walter Haab,Undirected,1
+Walter,philosophere,Undirected,1
+Kepler,Roger Baco,Undirected,1
+Margrete,Walter,Undirected,1
+Schønman,kjære Nordberg,Undirected,1
+Schonman,hvilkef Walter,Undirected,1
+Schonman,Walter,Undirected,2
+Aristoteles,Walter,Undirected,1
+,Aristoteles,Undirected,1
+Ejnar,Kepler,Undirected,1
+Gud,Kepler,Undirected,1
+Ejnar,Johansen,Undirected,3
+Ejnar,Iohannes,Undirected,1
+Gud,Jesus,Undirected,1
+Ejnar,Jesus,Undirected,1
+Anna,Ore,Undirected,1
+Anna,Graad,Undirected,2
+Anna,Madam Billumsen,Undirected,1
+Anna,Kjobs,Undirected,1
+Anna,Hermann,Undirected,1
+Anna,Bejle,Undirected,1
+Madam Villumsen,iforgaars,Undirected,1
+Grev H.,Louise,Undirected,1
+,Grev H.,Undirected,7
+,Axel,Undirected,1
+Anna,Greven,Undirected,3
+Anna flet,Ejnar,Undirected,1
+Anna Tøjet,Marie,Undirected,2
+Anna,Anna paany,Undirected,1
+Anna sølte,Ejnar,Undirected,1
+Anna sølte,Marie,Undirected,1
+Ejnar,Margrethe,Undirected,1
+Anna,bisse,Undirected,2
+Anna,Louise,Undirected,1
+Anna,Anna fluide,Undirected,1
+Anna fluide,Marie,Undirected,1
+Classe,E.,Undirected,1
+E.,Ejnar,Undirected,1
+E.,Nordberg,Undirected,1
+Louise,c,Undirected,1
+Johan Kepler,Marie „,Undirected,1
+Anna,Eratosthenes,Undirected,1
+A,B,Undirected,1
+Anna,Columbus,Undirected,1
+Anna,Archimedes,Undirected,1
+Archimedes,Conon —,Undirected,1
+Conon,Conon —,Undirected,1
+Archimedes,Conon,Undirected,4
+Ejnar,Juul,Undirected,1
+Greven,H.,Undirected,1
+Ejnar,ifjor,Undirected,2
+Marie,ifjor,Undirected,2
+Marie,vidsfe,Undirected,1
+Ejnar,Schak,Undirected,1
+Marie,Schak,Undirected,1
+Anna,Comtesse Marie,Undirected,1
+Axel,lee,Undirected,1
+Marie,h,Undirected,1
+Anna,Axel,Undirected,1
+Frøken Nordberg,Greven,Undirected,1
+Frøken Nordberg,Nordberg,Undirected,1
+Ejnar,Sneefog,Undirected,1
+Anna,Sneefog,Undirected,1
+Anna,Madam Villumsen,Undirected,1
+Ejnar,hanuhar,Undirected,1
+Anna,hanuhar,Undirected,1
+Roes,Walter,Undirected,1
+Roes,Schønman,Undirected,1
+Schønman,SchønmanS,Undirected,1
+Anna,Schouman,Undirected,1
+Nordberg,Schonman,Undirected,3
+Nordberg,blof,Undirected,1
+Ejnar,Hr. Friis,Undirected,1
+Friis,Schønman,Undirected,2
+Friis,Gud,Undirected,1
+Pisfoler,Schønman,Undirected,1
+Schønman,ester,Undirected,1
+Johansen,ester,Undirected,1
+Gud,Johansen,Undirected,1
+Anna,Schønman,Undirected,1
+Schønman,Sophaen,Undirected,1
+Friis,Walter,Undirected,1
+Ejnar,Friis,Undirected,1
+Walter,ben Triumph,Undirected,1
+Hr. Nordberg,Schønman,Undirected,1
+Ejnar,heell,Undirected,1
+Ejnar,Johan Kepler,Undirected,1
+lee,lille Anna,Undirected,1
+Ejnar,Ferdinand,Undirected,1
+Anna,Kepler,Undirected,1
+Madam Walter,Marie,Undirected,1
+Anna,Comedie,Undirected,1
+Marie,ber,Undirected,1
+Ejnar,Haralds,Undirected,1
+Christen,Haralds,Undirected,1
+Christen,Maria,Undirected,1
+Harald,Maria,Undirected,2
+Anna,Valdemar den Store,Undirected,1
+Cjnar,Marie,Undirected,1
+Anna,Sopha,Undirected,2
+Comtessen,Marie,Undirected,1
+Marie,Sopha,Undirected,1
+Hr. Vang,Marie,Undirected,2
+Marie,hans,Undirected,3
+Marie,Sophaen,Undirected,1
+Ejnar,flog strax,Undirected,1
+Ejnar,Hr. Vang,Undirected,4
+Hr. Vang,Vangs,Undirected,1
+Marie,Vangs,Undirected,1
+Johanne,Marie,Undirected,5
+Marie,R.,Undirected,3
+Nordberg,R.,Undirected,1
+Nordberg,Schønman,Undirected,1
+R.,Vangs,Undirected,1
+Anna,Esnar,Undirected,1
+Ejnar,R.,Undirected,3
+Ejnar,sif,Undirected,1
+Anna,Mane,Undirected,1
+Anna,Hr. Vang,Undirected,2
+Ejnar Nordberg,Johannes Kepler,Undirected,1
+Kora,Marie,Undirected,3
+Riisgaard,jusf,Undirected,1
+Marie,Riisgaard,Undirected,1
+Marie,Tante Kora,Undirected,3
+Gehejmeraadinden,Louise,Undirected,1
+Anna,ifjor,Undirected,1
+Husarofstceer,Marie,Undirected,1
+Madam Camilla,Marie,Undirected,1
+Baronessens,Marie,Undirected,1
+Baronessens,Gehejmeraadinden,Undirected,1
+Gehejmeraadinden,Marie,Undirected,1
+Fritz,Marie,Undirected,3
+Fritz,Schønman,Undirected,1
+Axel,Harald,Undirected,1
+Louise,lille Harald,Undirected,1
+Marie,lille Harald,Undirected,1
+Louise,Vang,Undirected,1
+Louise,Riisgaard,Undirected,2
+Louise,Nielsen,Undirected,1
+Marie,Nielsen,Undirected,1
+Axel,Nielsen,Undirected,1
+Ieg,Marie,Undirected,1
+Ieg,Riisgaard,Undirected,1
+Byron Fritz,ban,Undirected,1
+Marie,ban,Undirected,1
+Anna Nordberg,Louise,Undirected,1
+,L.,Undirected,1
+,Ejnar,Undirected,1
+Christian Haraldsfeldts,Ejnar,Undirected,1
+Marie,Rordberg,Undirected,1
+Marie,Vang,Undirected,4
+Axel,ifjor,Undirected,1
+Læuise,Tante Kora,Undirected,1
+Johanne,Vang,Undirected,1
+Axel,Vang,Undirected,1
+Louise,Pythia,Undirected,1
+Axel,Pythia,Undirected,1
+Ejnar Walter,Walter,Undirected,1
+Faders,Marie,Undirected,1
+Anna paany,Juul,Undirected,1
+Anna paany,Marie,Undirected,1
+Harald,Juul,Undirected,1
+Anna,Vang,Undirected,1
+Ejnar,Haraldsborg,Undirected,1
+Axel,Haraldsborg,Undirected,1
+Ejnar,erfarede-Vangs,Undirected,1

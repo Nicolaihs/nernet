@@ -1,0 +1,539 @@
+source,target,type,weight
+Gud,Rolands,Undirected,2
+Gud,Jensen,Undirected,2
+Gud,Petrine gilt,Undirected,1
+Frits Grønbæk,Jochumsen,Undirected,1
+Jochumsen,Madsen,Undirected,1
+Madsen,Sørensen,Undirected,4
+Jespersen,Jitlianes,Undirected,1
+Gud,Sørensen,Undirected,30
+Gud,Juliane,Undirected,4
+Jespersen,Juliane,Undirected,7
+Jespersen,Sørensen,Undirected,3
+Jespersen,fro,Undirected,1
+Jespersen,Madsen,Undirected,1
+Sørensen,lille,Undirected,1
+Mariane,Sørensen,Undirected,2
+Fritz Grønbæk,Sørensen,Undirected,6
+Fritz Grønbæk,Jes,Undirected,1
+Fritz,Jes,Undirected,1
+Petrine,Sørensen,Undirected,58
+Frøken Schwartz,Petrine,Undirected,1
+Fritz Grønbæk,Frøken Schwartz,Undirected,1
+Fritz,Fritz Grønbæk,Undirected,2
+Klopstock,mar,Undirected,1
+Sørensen,mar,Undirected,1
+Classen-Langes,Fritz,Undirected,1
+Mutter,Sørensen,Undirected,1
+Fritz Grønbæk,Mutter,Undirected,1
+Nikoline,Sørensen,Undirected,1
+Madam Ludvigsen,Nikoline,Undirected,1
+Kommersraad Jacobsen,Madam Ludvigsen,Undirected,1
+Sørensen,Trebelli,Undirected,2
+Sørensen,salig Rasmussen,Undirected,2
+Fritz Grønbæk,Ravn,Undirected,1
+Ravn,Schrøder,Undirected,1
+Petrine,Schrøder,Undirected,1
+Bendix,Petrine,Undirected,2
+Fritz Grønbæk,Petrine,Undirected,2
+Drachmanns,Fritz Grønbæk,Undirected,1
+Drachmanns,Sørensen,Undirected,1
+Basji-Bozuk,Sørensen,Undirected,1
+Basji-Bozuk,Petrine,Undirected,1
+Fritz Grønbæk,Jespersen,Undirected,1
+Juliane,Sørensen,Undirected,9
+Sørensen,Øllegaard,Undirected,1
+Petrine,Øllegaard,Undirected,1
+Frits Grønbæk,Sørensen,Undirected,32
+Frits Grønbæk,Petrine,Undirected,25
+Frits,Petrine,Undirected,13
+Frits,Sørensen,Undirected,29
+Madam Frandsen,Sørensen,Undirected,1
+Madam Frandsen,Petrine,Undirected,1
+Sandbergs,Sørensen,Undirected,1
+Sandberg,Sandbergs,Undirected,1
+Sørensen,verloren Sørensen,Undirected,1
+Frits Grønbæk,verloren Sørensen,Undirected,1
+Kaufmann,Sørensen,Undirected,2
+H. P. Holst,Kaufmann,Undirected,1
+H. P. Holst,lian,Undirected,1
+A iktor Hngo,lian,Undirected,1
+A iktor Hngo,liam,Undirected,1
+liam,liar,Undirected,1
+Dannoas,liar,Undirected,1
+Dannoas,Sørensen,Undirected,1
+Sørensen,j,Undirected,1
+Juliane,j,Undirected,1
+Juliane,Madame Schrøder,Undirected,1
+Geschichte,Petrine,Undirected,1
+Geschichte,ieg,Undirected,1
+Sørensen,ieg,Undirected,1
+Juliane,Kronprinsessens,Undirected,1
+Kronprinsessens,Sørensen,Undirected,1
+Augusta,Frits Grønbæk,Undirected,2
+Ferslews,Frits Grønbæk,Undirected,1
+Ferslew,Ferslews,Undirected,1
+Ferslew,Frits,Undirected,1
+Frits,K.,Undirected,1
+Frits Grønbæk,K.,Undirected,1
+Christian Firtals,Frits Grønbæk,Undirected,1
+Christian Firtals,Sørensen,Undirected,1
+Goltz,Sørensen,Undirected,1
+Goltz,Petrine,Undirected,1
+Jacobine Petersen,Sørensen,Undirected,1
+Dinesen,Sørensen,Undirected,2
+Sørensen,lille Sørensen,Undirected,2
+Bettelstaven,Eva,Undirected,1
+Adam,Eva,Undirected,1
+Adam,Sørensen,Undirected,1
+Ambrosius,Sørensen,Undirected,4
+Androkles,Sørensen,Undirected,1
+Androkles,Frits Grønbæk,Undirected,1
+Frits Grønbæk,Villie,Undirected,1
+Sørensen,Villie,Undirected,1
+Arne,Sørensen,Undirected,1
+Arne,Petrine,Undirected,1
+Emil Poulsen,Petrine,Undirected,1
+Emil Poulsen,Frits Grønbæk,Undirected,1
+Sørensen,lian,Undirected,2
+Frits,Juliane,Undirected,2
+Frits,Jespersen,Undirected,1
+Juliane,Petrine,Undirected,1
+Svane,Sørensen,Undirected,4
+Schrøder,Sørensen,Undirected,4
+Gud,Schrøder,Undirected,2
+Petrine,lille Sørensen,Undirected,2
+Frits Grønbæk,lian,Undirected,1
+Petrine,lian,Undirected,2
+Gades,Petrine,Undirected,2
+Gade,Petrine,Undirected,2
+Amalie,Sørensen,Undirected,6
+Alma,Frits Grønbæk,Undirected,1
+Alma,Mater,Undirected,1
+Drachmann,Mater,Undirected,1
+Drachmann,Kofods,Undirected,1
+Kofods,Niels Juel,Undirected,1
+Frederik den sjette,Niels Juel,Undirected,1
+Caroline Mathilde kjørt,Frederik den sjette,Undirected,1
+Caroline Mathilde kjørt,Struense,Undirected,1
+Malvina Hansen,Struense,Undirected,1
+Malvina Hansen,Pedersen,Undirected,1
+Alfons Daudis,Jette Hummer,Undirected,1
+Alfons Daudis,Kancelliraad Jespersens,Undirected,1
+Kancelliraad Jespersens,Sørensen,Undirected,1
+Samson,Sørensen,Undirected,2
+Livi æger,Sørensen,Undirected,1
+Kong Georg,Livi æger,Undirected,1
+Kong Georg,Sørensen,Undirected,1
+Frits Grønbæk,Kaufmann,Undirected,2
+Kaufmann,Petrine,Undirected,1
+Jette Hummer,Petrine,Undirected,1
+Frits Grønbæk,Jensen,Undirected,1
+"Rasmusse^,",Sørensen,Undirected,2
+Olsen,Sørensen,Undirected,2
+Don Johan,Sørensen,Undirected,1
+Don Johan,Mefistofeles,Undirected,1
+Mefistofeles,Vilhelm Tæll,Undirected,1
+Vilhelm Tæll,mier,Undirected,1
+Gud,mier,Undirected,1
+Nora,Sørensen,Undirected,2
+Nora,mir,Undirected,1
+Gud,mir,Undirected,1
+Nora,Petrine,Undirected,1
+Nora,ifjor,Undirected,1
+Frits Grønbæk,ifjor,Undirected,2
+Frits Grønbæk,Helmer,Undirected,1
+Helmer,Sørensen,Undirected,1
+Rank,Sørensen,Undirected,1
+Juliane Fru Lindegaard,Rank,Undirected,1
+Ane-Marie,Juliane Fru Lindegaard,Undirected,1
+Ane-Marie,Frits Grønbæk,Undirected,1
+Eru Schrøder,Sørensen,Undirected,1
+Eru Schrøder,Henrik Ibsen,Undirected,1
+Gud,sulasjere,Undirected,1
+Gud,Søresen,Undirected,1
+Amalie,Søresen,Undirected,1
+Amalie,Petersen,Undirected,1
+Juliane,Petersen,Undirected,3
+Juliane,lille Ambrosius,Undirected,4
+Ambrosiuses,lille Ambrosius,Undirected,1
+Gud,Petrine,Undirected,16
+Gud,Kasmine,Undirected,1
+Kasmine,salig Schrøder,Undirected,1
+Eru Sørensen,Sørensen,Undirected,1
+Frederikke Schrøders,Sørensen,Undirected,2
+Amalie,lille Sørensen,Undirected,1
+lille Amalie,lille Sørensen,Undirected,1
+Sørensen,Valdemar,Undirected,1
+Frits,Nordenskiøld,Undirected,1
+Andersen,Gud,Undirected,2
+Bille,Gud,Undirected,2
+Gud,Meldahl,Undirected,1
+Meldahl,Saaby,Undirected,3
+Saaby,Sørensen,Undirected,1
+Meldahl,ifjor,Undirected,1
+Petersen,Sarah Bernhard,Undirected,1
+Gud,Petersen,Undirected,1
+Sørensen,lille Ambrosius,Undirected,6
+Madam Hamber,Sørensen,Undirected,1
+Madam Blache,Madam Hamber,Undirected,1
+Madam Blache,Sarah Bernhard,Undirected,1
+Frits Grønbæk,Sarah Bernhard,Undirected,1
+Nikolajsens,Petrine,Undirected,1
+Brygger Jacobsen,Nikolajsens,Undirected,1
+Brygger Jacobsen,Sarah Bernhard,Undirected,1
+Sarah Bernhard,Sørensen,Undirected,1
+Frits Grønbæk,Sarah,Undirected,1
+Sarah,Sørensen,Undirected,1
+Anton Nielsens,Sørensen,Undirected,2
+Regnar,Sørensen,Undirected,1
+Petrine,Regnar,Undirected,1
+Petrine,Svane,Undirected,2
+Andersen,Svane,Undirected,1
+Ambrosius,Andersen,Undirected,1
+Rasmine,bun,Undirected,1
+Petrine,bun,Undirected,1
+Petrine,liun,Undirected,2
+Frits Grønbæk,liun,Undirected,1
+Bruns,Sørensen,Undirected,1
+Bruns,Zangenberg,Undirected,1
+Emil,Zangenberg,Undirected,1
+Ambrosius,Emil,Undirected,1
+Ambrosius,Neumann,Undirected,1
+Neumann,Wolle,Undirected,1
+Wolle,viel Geschrei,Undirected,1
+viel Geschrei,wenig Wolle,Undirected,1
+Hyltoft,wenig Wolle,Undirected,1
+Hunderup,Hyltoft,Undirected,1
+Agnete,Hunderup,Undirected,1
+Abrahams,Agnete,Undirected,1
+Abrahams,Juliane,Undirected,1
+Juliane,Rasmine,Undirected,1
+Malene Christensen,Rasmine,Undirected,1
+Frits Grønbæk,Malene Christensen,Undirected,1
+Frits,Gud,Undirected,7
+Petrine,salig Schrøder,Undirected,1
+Frits,salig Schrøder,Undirected,1
+Mikkelsens,Sørensen,Undirected,1
+Sørensen,bæk,Undirected,1
+Licht,Sørensen,Undirected,1
+Licht,inehr Licht,Undirected,1
+Sørensen,inehr Licht,Undirected,1
+Jungmands,Sørensen,Undirected,1
+Frits Grønbæk,Petersen,Undirected,2
+Gambetta,Sørensen,Undirected,1
+Gambetta,Petrine,Undirected,1
+Nana,Petrine,Undirected,1
+Frits Grønbæk,Nana,Undirected,1
+Frits Grønbæk,Richard Kauffmann,Undirected,1
+Richard Kauffmann,Sørensen,Undirected,1
+Sørensen,salig Schrøder,Undirected,3
+Philip den,Sørensen,Undirected,1
+Dora,Philip den,Undirected,1
+Dora,Petrine,Undirected,2
+Abrahams,Dora,Undirected,1
+Abrahams,Sangenberg,Undirected,1
+Dora,Sangenberg,Undirected,1
+Dora,Dorakiste,Undirected,1
+Dorakiste,Frits Grønbæk,Undirected,1
+Elixiren,Frits Grønbæk,Undirected,1
+Elixiren,Rostrup,Undirected,1
+Abrahams,Sørensen,Undirected,1
+Frits Grønbæk,Peter Tordenskjold,Undirected,1
+Peter Tordenskjold,Sortepeter,Undirected,1
+Sortepeter,Sørensen,Undirected,1
+Frits Grønbæk,Gud,Undirected,5
+Gud,H. P. Holst,Undirected,1
+H. P. Holst,Olaf Paulsen,Undirected,1
+Crone,Olaf Paulsen,Undirected,1
+Crone,Juliane,Undirected,1
+Juliane,lille Eva Dora Nora Thora Leonarda,Undirected,1
+lille Ambrosius,lille Eva Dora Nora Thora Leonarda,Undirected,1
+Petersen,lille Ambrosius,Undirected,2
+Ambrosius,Petersen,Undirected,1
+Kaufmann,Richard Kaufmann,Undirected,1
+Ernest,Sørensen,Undirected,2
+Madam Pascha,Sørensen,Undirected,1
+Dymorads,Madam Pascha,Undirected,1
+Dymorads,Orase,Undirected,1
+Orase,Pascha,Undirected,1
+Kannibal,Pascha,Undirected,2
+Madam Pascha,Pascha,Undirected,2
+Lotte,Pascha,Undirected,1
+Dymorads,Fulvia,Undirected,1
+Fulvia,Sørensen,Undirected,1
+Signora,Sørensen,Undirected,1
+Frits Grønbæk,Signora,Undirected,1
+Frits Grønbæk,L’,Undirected,1
+L’,lille Ambrosius,Undirected,1
+Pierrot,lille Ambrosius,Undirected,1
+Petrine,Pierrot,Undirected,1
+Petrine,Wæls,Undirected,1
+Petersen,Wæls,Undirected,1
+Petersen,Sørensen,Undirected,3
+Fenger,Sørensen,Undirected,1
+Estrup,Fenger,Undirected,1
+Gud,Jochumsen,Undirected,1
+Jespersen,Jochumsen,Undirected,1
+Nora Dora Leonarda,Sørensen,Undirected,2
+Knud Sørensen,Sørensen,Undirected,1
+Fabers,Frits,Undirected,1
+Fabers,Sørensen,Undirected,1
+Frederik,Sørensen,Undirected,2
+King,Sørensen,Undirected,1
+King,Petrine,Undirected,1
+Fessel,Gud,Undirected,1
+Fessel,Wett,Undirected,1
+Lorenzen,Wett,Undirected,1
+Lorenzen,Sørensen,Undirected,1
+Gud,véd,Undirected,3
+Svane,véd,Undirected,1
+Muggermand,Svane,Undirected,1
+Muggermand,Petrine,Undirected,5
+Petrine,Superen,Undirected,2
+Frits Grønbæk,Paul Petersens,Undirected,1
+Paul Petersens,Petrine,Undirected,1
+Frits,Lahaatvolæ,Undirected,1
+Lahaatvolæ,Sørensen,Undirected,1
+Petrine,Regine,Undirected,1
+Richard,Valdemar Sejr,Undirected,1
+K,Richard,Undirected,1
+Drakmands,K,Undirected,1
+Abrahams,Drakmands,Undirected,1
+Abrahams,Arnfred,Undirected,1
+Arnfred,Frits Grønbæk,Undirected,1
+Frits,Frits Grønbæk,Undirected,4
+Berengaria,Frits,Undirected,1
+Berengaria,Kai,Undirected,1
+Helene,Kai,Undirected,1
+Frits,Helene,Undirected,1
+Frits,Nordahl-Bing,Undirected,1
+Karl afrise,Nordahl-Bing,Undirected,1
+Karl afrise,Molbæk,Undirected,1
+Helene,Molbæk,Undirected,1
+Helene,Valdemar,Undirected,1
+Berengaria,Valdemar,Undirected,1
+Berengaria,Karlafrise,Undirected,3
+Karlafrise,Nordahl Bing,Undirected,1
+Helene,Nordahl Bing,Undirected,1
+Gud,Helene,Undirected,1
+Frits,lille Ambrosius,Undirected,1
+Sørensen,Thomsen,Undirected,1
+Don Juan,Frits,Undirected,1
+Don Juan,livor,Undirected,1
+Cetti,livor,Undirected,1
+Cetti,Frits Grønbeck,Undirected,1
+Abrahams,Frits Grønbeck,Undirected,1
+Abrahams,Pio,Undirected,1
+Nøimann,Pio,Undirected,1
+Abrahams,Nøimann,Undirected,1
+Abrahams,egmi,Undirected,1
+Sørensen,egmi,Undirected,1
+Sigfred Nebelongen,Sørensen,Undirected,1
+Schumann,Sigfred Nebelongen,Undirected,1
+Andersen,Schumann,Undirected,1
+Andersen,livor,Undirected,1
+Borchsenius,livor,Undirected,1
+Borchsenius,Schandorph,Undirected,1
+Drachmann,Schandorph,Undirected,1
+Borchsenius,Drachmann,Undirected,1
+Borchsenius,zens,Undirected,1
+Hr. E. Schumann,zens,Undirected,1
+Hagen,Hr. E. Schumann,Undirected,1
+Hagen,Sørensen,Undirected,1
+Drachmann,Sørensen,Undirected,1
+Hovgaard,véd,Undirected,1
+Hovgaard,Sørensen,Undirected,1
+Gud,Jakob Holmblads,Undirected,1
+Jakob Holmblads,Juliane,Undirected,1
+Juliane,lille Eva Nora Dora Leonarda,Undirected,2
+Juliane,liun,Undirected,1
+Gud,liun,Undirected,1
+Sørensen,véd,Undirected,1
+Christoffersens,Gud,Undirected,1
+Christoffersens,Walter Scott,Undirected,1
+Frits,Walter Scott,Undirected,1
+Frits,Grønbæk,Undirected,1
+Amalie,Gud,Undirected,1
+Nikoline Schrøder,Sørensen,Undirected,2
+Frits,Minjong,Undirected,1
+Minjong,Moe,Undirected,1
+Frøken Strandberg,Moe,Undirected,1
+Frøken Strandberg,Kristoffersen,Undirected,1
+Fortepiano,Kristoffersen,Undirected,2
+Erhart,Kristoffersen,Undirected,1
+Erhart,Faline,Undirected,1
+Faline,Philine,Undirected,1
+Philine,Simonsen,Undirected,1
+Simonsen,Sørensen,Undirected,1
+Frits Grønbæk,Zanvandt,Undirected,1
+Faline,Zanvandt,Undirected,1
+Faline,Ginderup,Undirected,1
+Ginderup,Sørensen,Undirected,1
+Greves,Gud,Undirected,1
+Frits Grønbæk,Greves,Undirected,1
+Bockmager,Frits,Undirected,1
+Bockmager,bock,Undirected,1
+Dinahbeumer,bock,Undirected,1
+Balduins,Dinahbeumer,Undirected,1
+Anton Svendsen,Balduins,Undirected,1
+Anton Svendsen,Frits,Undirected,1
+Frits,Lønholt,Undirected,1
+Hougaard,Lønholt,Undirected,1
+Hougaard,Sørensen,Undirected,1
+Duncker,Frits,Undirected,1
+Duncker,Sørensen,Undirected,1
+Heymann,Sørensen,Undirected,4
+Georg Brandes,Sørensen,Undirected,1
+Rachel Nathan,Rosalia Benjamin,Undirected,1
+Rachel Nathan,Sørensen,Undirected,1
+Pipi,Sørensen,Undirected,2
+Augustin Frants-Josef,Juliane,Undirected,1
+Augustin Frants-Josef,HovgaardPetersen,Undirected,1
+HovgaardPetersen,Oda Dijmphna,Undirected,1
+Gaméline,Oda Dijmphna,Undirected,1
+Franziska Josephine Petersen,Gaméline,Undirected,1
+Franziska Josephine Petersen,Petrine,Undirected,1
+Petrine,Richard Kaufmann,Undirected,1
+Frits Grønbæk,Richard Kaufmann,Undirected,1
+Frits Grønbæk,Krohns,Undirected,1
+Krohns,lille Frits,Undirected,1
+Krohn,lille Frits,Undirected,1
+Brandes,Krohn,Undirected,1
+Andersen,Frits Grønbæk,Undirected,1
+Andersen,Petrine,Undirected,1
+Petrine,Schandorfs,Undirected,2
+Frøken Ludvigsen,Schandorfs,Undirected,1
+Frits Grønbæk,Frøken Ludvigsen,Undirected,1
+Petrine,Pio,Undirected,1
+L—L—Hansen,Pio,Undirected,1
+Benjamin,L—L—Hansen,Undirected,1
+Babette,Benjamin,Undirected,1
+Babette,Petrine,Undirected,1
+Bojesens,Petrine,Undirected,1
+Bojesens,Sørensen,Undirected,1
+Gud,Herman Bang,Undirected,1
+Frits Grønbæk,Herman Bang,Undirected,1
+Frits,Pesjyle,Undirected,1
+Pesjyle,Petersen,Undirected,1
+Frits,Petersen,Undirected,1
+Frits,Venus,Undirected,2
+Schrøder,Venus,Undirected,1
+Schrøder,sjalu,Undirected,1
+Farmasøjt,sjalu,Undirected,1
+Farmasøjt,Sørensen,Undirected,1
+Madam Skruk,Venus,Undirected,1
+Madam Skruk,Petrine,Undirected,1
+Frøken Petersen,Petrine,Undirected,1
+Frøken Petersen,Miss Æneas,Undirected,1
+Miss Æneas,Rothe,Undirected,1
+Fallesen,Rothe,Undirected,1
+Fallesen,Margrethe,Undirected,1
+Margrethe,Petrine,Undirected,1
+Frøken Pyk,Lone Eibeschiitz,Undirected,1
+Axel,Frøken Pyk,Undirected,1
+Axel,Ingeborg Hansen,Undirected,1
+Ingeborg Hansen,Saarell,Undirected,1
+Saarell,Sjarvinka,Undirected,1
+Brandes,Sjarvinka,Undirected,1
+Brandes,L’,Undirected,1
+L’,Sørensen,Undirected,1
+Ambrosius,Petrine,Undirected,1
+Brandes,Petrine,Undirected,3
+Petrine,lille Ambrosius,Undirected,2
+Madam Flaubert,lille Ambrosius,Undirected,1
+Bovary,Madam Flaubert,Undirected,1
+Bovary,Else,Undirected,1
+Else,Gjellerups,Undirected,1
+Gjellerups,Gud,Undirected,1
+Frits,Kate,Undirected,1
+Kate,Petrine,Undirected,1
+Brandes,Sørensen,Undirected,1
+"Frederiknielsen,",Petrine,Undirected,1
+Heymans,Petrine,Undirected,1
+Heymans,Svane,Undirected,1
+Lieutenant Svane,Petrine,Undirected,1
+Frits,Lieutenant Svane,Undirected,1
+Wessel,Wett,Undirected,1
+LIL,Wessel,Undirected,1
+Berg,Pingel,Undirected,1
+Berg,Sørensen,Undirected,1
+Bernhart Olsen,Sørensen,Undirected,1
+Frits Grønbæk,Frits emu,Undirected,1
+Cassa,Frits emu,Undirected,1
+Cassa,Nora,Undirected,1
+Kapitain Richelieu,Sørensen,Undirected,1
+Kapitain Richelieu,Petrine,Undirected,1
+Petrine,Sarah Bernhard,Undirected,1
+Buster,Sarah Bernhard,Undirected,1
+Buster,Christoffersen,Undirected,1
+Christoffersen,Frits,Undirected,2
+Christoffersen,Frues,Undirected,1
+Frues,Olaf,Undirected,1
+Olaf,Tobiesen,Undirected,1
+Gud,Tobiesen,Undirected,1
+Edvard Brandes,Sørensen,Undirected,2
+Melansje,Sørensen,Undirected,1
+Gud,Melansje,Undirected,1
+Fischer,Gud,Undirected,1
+Fischer,Frits Grønbæk,Undirected,1
+Brandes,Frits Grønbæk,Undirected,1
+Brandes,Linden,Undirected,1
+Frits,Linden,Undirected,1
+Fredsberg,Sørensen,Undirected,1
+Bismark,Fredsberg,Undirected,1
+Bismark,Dalsgaard,Undirected,1
+Dalsgaard,Petrine,Undirected,1
+Darf,Sørensen,Undirected,2
+Caen,Sørensen,Undirected,1
+Caen,Gud,Undirected,1
+Ribssjelé,Sørensen,Undirected,1
+Gud,Ribssjelé,Undirected,1
+Ferslev,Sørensen,Undirected,4
+Sørensen,Wæles,Undirected,1
+Glætstone,Wæles,Undirected,1
+Desert,Glætstone,Undirected,1
+Desert,Ehlers,Undirected,1
+Ehlers,Frits Grønbæk,Undirected,1
+Ansjos-Sørensen,Sørensen,Undirected,1
+Ansjos-Sørensen,Frits Grønbæk,Undirected,1
+Frits Grønbæk,Gine,Undirected,1
+Georgine Rasmussen,Gine,Undirected,1
+Georgine Rasmussen,Gine Rasmussen,Undirected,1
+Gud,Pastor Rumlebæk,Undirected,2
+Nora Dora Leonarda,lille Ambrosius,Undirected,1
+Gud,Nora Dora Leonarda,Undirected,1
+Gud,Kristian den,Undirected,1
+Herman Bang,Kristian den,Undirected,1
+Gjellerup,Herman Bang,Undirected,1
+Gjellerup,Herman,Undirected,1
+Falkman,Herman,Undirected,1
+Falkman,Petrine,Undirected,1
+Petrine,Rosalie,Undirected,4
+Negerdam,Sørensen,Undirected,1
+Falkman,Negerdam,Undirected,1
+Holberg,esten,Undirected,1
+Alotto,Sørensen,Undirected,1
+Saxus,liun,Undirected,1
+Grandmamaticus,Saxus,Undirected,1
+Grandmamaticus,Odapetersen,Undirected,1
+Odapetersen,Tolderlund,Undirected,1
+Schandorph,Tolderlund,Undirected,1
+Frits Grønbæk,Schandorph,Undirected,1
+Sørensen,Wessel,Undirected,1
+Vett,Wessel,Undirected,1
+Sørensen,Vett,Undirected,1
+Herman Bang,Petrine,Undirected,1
+Herman Bang,Sørensen,Undirected,1
+Høgsbro,Sørensen,Undirected,2
+Figaro,Høgsbro,Undirected,1
+Figaro,lille Sørensen,Undirected,1
+Frits Grønbæk,lille Sørensen,Undirected,1
+Frits Grønbæk,Høgsbro,Undirected,1
+Gud,Richard Kaufmann,Undirected,1
+Kullerups,Sørensen,Undirected,1
+Kullerup,Kullerups,Undirected,1
+Alen Petrine,Kullerup,Undirected,1
+Alen Petrine,Frits Grønbæk,Undirected,1
+Sørensen,livis,Undirected,1
+Frits Grønbæk,livis,Undirected,1

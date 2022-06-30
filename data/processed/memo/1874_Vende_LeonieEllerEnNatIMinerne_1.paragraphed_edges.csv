@@ -1,0 +1,237 @@
+source,target,type,weight
+Erik,Gud,Undirected,12
+Greven,Herbert,Undirected,1
+Gud,slakkels,Undirected,1
+Florenes,Gud,Undirected,1
+Herbert,Viktor,Undirected,8
+Erik,Herbert,Undirected,28
+Erik Vilmers,Herbert,Undirected,1
+Erik,hæsf,Undirected,1
+Florenes,Herbert,Undirected,1
+Florence,Herbert,Undirected,14
+Gud,Herbert,Undirected,7
+Erik,John Welles,Undirected,2
+Herbert,Margaritha,Undirected,5
+Leonie,Margaritha,Undirected,6
+Erik Vilmer,John Welles,Undirected,1
+Erik Vilmer,Leonie,Undirected,1
+Leonie,Spanierens,Undirected,1
+Florence,Gud,Undirected,5
+Leonie,Seire,Undirected,1
+Herbert,Leonie,Undirected,22
+Erik,reisfe,Undirected,1
+Erik,Margaritha,Undirected,2
+Erik,John Willes,Undirected,1
+Erik,grant,Undirected,1
+Erik,Leonie,Undirected,4
+Arne,Leonie,Undirected,1
+Erik,Hex,Undirected,1
+Gud,Leonie,Undirected,6
+John Welles,foer,Undirected,1
+John Welles,Leonie,Undirected,1
+Herbert,Steen,Undirected,1
+Herbert,Øe,Undirected,1
+Herbert,John Welles,Undirected,7
+Herbert,Pisfolen,Undirected,1
+Gregorius,iveien,Undirected,1
+Leonie,iveien,Undirected,1
+Erik,Kaien,Undirected,1
+Leonie,frods,Undirected,1
+Gud,Viktor,Undirected,4
+Herbert,kjære,Undirected,1
+Henriette,Vikfor,Undirected,2
+Viktor,hu,Undirected,1
+Elsfede,Herbert,Undirected,1
+Gud,traues,Undirected,1
+Birthe,hnn,Undirected,1
+Birthe,Greven,Undirected,1
+Birthe,Florence,Undirected,4
+Birthe,soer-tilbage,Undirected,1
+Erik,imidlerlid,Undirected,1
+Erik Vilmer,Florence,Undirected,2
+Erik,Erik Vilmer,Undirected,1
+ban,ilaas,Undirected,1
+Erik,Florence,Undirected,4
+Birthe,Erik,Undirected,1
+Florence Laverton,Herbert,Undirected,1
+Florence Laverton,Viktor,Undirected,1
+Erik,gjøs,Undirected,2
+Florence Laverton,Gud,Undirected,1
+Birthe,Florence vaagnede,Undirected,1
+Florence,Greven,Undirected,4
+Erik Vilmer,Gud,Undirected,1
+Frøken Laverton,Greven,Undirected,1
+Florence,Frøken Laverton,Undirected,1
+Greve,Gud,Undirected,1
+Arne,Gud,Undirected,1
+Erik Vilmer,Herbert,Undirected,1
+Principals,Viklor,Undirected,1
+Henriette,Principals,Undirected,1
+Florence,Viktor,Undirected,7
+Henriette,Viktor,Undirected,12
+Erik Vilmer,Viktor,Undirected,1
+Erik,Florence Laverton,Undirected,2
+Florence Laverton,Greven,Undirected,1
+Herbert,sfal,Undirected,1
+Principals,Viktor,Undirected,1
+Greve,Principals,Undirected,1
+Erik,Greve,Undirected,1
+Florence,Henriette,Undirected,1
+Alflags,Eiers,Undirected,1
+Eiers,Erik,Undirected,1
+Florence,taus,Undirected,1
+Greven,sif,Undirected,1
+Asten,Jeanne,Undirected,1
+Florenes,Jeanes,Undirected,1
+Florence,rasf,Undirected,1
+Florence,Jeanne,Undirected,5
+Florence,Francois,Undirected,2
+Francois,Jeanne,Undirected,6
+Francois,Gud,Undirected,1
+Florence,Louis Pjerre,Undirected,3
+Gud,Louis Pjerre,Undirected,1
+Florence,fabt,Undirected,1
+Florence,Greve,Undirected,1
+Greven,Gud,Undirected,2
+Danfkens,Roes,Undirected,1
+,John Welles,Undirected,2
+John Welles,Margaritha,Undirected,1
+John Welles,Murillo,Undirected,2
+John Welles,Neppe,Undirected,2
+Herbert,Mulatten,Undirected,1
+Herbert,tans,Undirected,1
+Eden,Murillo,Undirected,1
+Herbert,Murillo,Undirected,1
+Herbert,fil,Undirected,1
+John Welles,fil,Undirected,1
+Gud,Murillo,Undirected,1
+Murillo,bun,Undirected,1
+,Herbert bavde,Undirected,1
+Herbert,rasfe,Undirected,1
+Erik,Viktor,Undirected,6
+Erhardt,Viktor,Undirected,1
+Erhardt,Herbert,Undirected,2
+Florence,Leonie,Undirected,1
+Bering,Henriette,Undirected,4
+Henrietfe,Roes,Undirected,1
+Hellen,Viktor Larverton,Undirected,1
+Viktor,Viktor Larverton,Undirected,1
+Bering,Viktor,Undirected,2
+as,fom,Undirected,1
+Henriette,lille Henriette,Undirected,1
+Henriette,dybl,Undirected,2
+Lavertons,jeo,Undirected,1
+Gud,Henriette,Undirected,2
+Henriette,seners,Undirected,1
+Faders,Viktor,Undirected,1
+Villiam,Villiam Henriette,Undirected,1
+Henriette,Viklor,Undirected,1
+Gud,Vikfor,Undirected,1
+Laverton,Vikfor,Undirected,1
+Villiam,elsier,Undirected,1
+Principalens,Viktor,Undirected,1
+Henriette,Steen,Undirected,1
+Neppe,Viktor,Undirected,1
+Herbert,Viklor,Undirected,1
+Erhard,Herbert,Undirected,3
+Erik,Vilmer,Undirected,2
+Erik,rysfer,Undirected,1
+Erik,Lynsnart,Undirected,1
+Viktor,Villieløs,Undirected,1
+Erik,undfiy,Undirected,1
+Elisabeth,Erik,Undirected,2
+Viktor,Vilmer,Undirected,3
+Erhard,Viktor,Undirected,1
+Erik,ditzExempel,Undirected,1
+Erhard,Leonie,Undirected,2
+Erhard,Florence,Undirected,4
+Erhard,Erik,Undirected,1
+Erik,fHerbert,Undirected,1
+Erik,Frants,Undirected,7
+Mutter,fleet,Undirected,1
+Frants,Mutter,Undirected,1
+Herbert slod,Leonie,Undirected,1
+Greven,iland,Undirected,1
+Herbert,Vikfor,Undirected,3
+Henriette,Herbert,Undirected,1
+Henriette,minDroder,Undirected,1
+Viktor,minDroder,Undirected,1
+Taus,slille,Undirected,1
+Erik,Karle,Undirected,1
+Erik,Hans Nødraab,Undirected,1
+Himle,Pietro,Undirected,1
+Erik,Luxus,Undirected,1
+Erik,itals,Undirected,1
+itals,nelop,Undirected,1
+Verita,Veritas,Undirected,1
+Verita,dandse,Undirected,1
+el,"el Par Minuter, før en",Undirected,1
+Greven,Verita,Undirected,2
+Antonio,Verita,Undirected,6
+Salvieri,Verita,Undirected,1
+Erik,Lauretta,Undirected,18
+Erik,Greven,Undirected,3
+Lauretta,maafle,Undirected,1
+Lauretta,Verita,Undirected,1
+Antonio,Madonna,Undirected,1
+Erik,slille,Undirected,1
+Erik,hu,Undirected,1
+Antonio,Gud,Undirected,1
+Erik,Madonna,Undirected,1
+Madonna,Verita,Undirected,1
+Erik,Verita,Undirected,1
+Antonio,Beiler,Undirected,1
+Greven,hansjSmertensleie,Undirected,1
+Frants,Vilmer,Undirected,1
+Frants,ban,Undirected,1
+Margaritha,bun,Undirected,1
+Herbert,bun,Undirected,1
+Grev Erhard,Margaritha,Undirected,1
+Florence,Grev Erhard,Undirected,1
+Gud,grant,Undirected,1
+Jep,Vilmer,Undirected,1
+Gunnitz,Pisfolen,Undirected,1
+Gunnikz,Jep,Undirected,3
+Gunnitz,Jep,Undirected,8
+Jep,Pisfol,Undirected,1
+Gud,Jep,Undirected,1
+Jep,lille Purk,Undirected,1
+Erik,Lanretta,Undirected,1
+Gud,Vikfor Laverton,Undirected,1
+Herbert,Vikfor Laverton,Undirected,1
+Antonio,Lauretta,Undirected,2
+Erik,Signor Vilmero,Undirected,1
+Ave,Erik,Undirected,1
+Signor,hu«,Undirected,1
+Eder,Erik,Undirected,1
+Gud,ban,Undirected,1
+Antonio,Lourettas,Undirected,1
+Erik,Lukretia,Undirected,1
+Lukretia,Salvieri,Undirected,1
+Lauretta,Salvieri,Undirected,1
+Gud,Lauretta,Undirected,5
+Attraa,Erik,Undirected,1
+Attraa,Lauretta,Undirected,1
+Antonio,ha,Undirected,1
+Erik,Erik Veien,Undirected,1
+Erik,ban,Undirected,1
+Erik,Halfen,Undirected,1
+Erik,Signor,Undirected,1
+Erik,LaurettaS,Undirected,1
+Erik,Jesus Maria,Undirected,1
+Antonio,Erik,Undirected,1
+Erik skælveds,Francesco,Undirected,1
+Beiler,Verita,Undirected,1
+Antonio Salvieri,Beiler,Undirected,1
+Antonio Salvieri,Lauretta,Undirected,1
+Erik,Villieløs,Undirected,2
+Dolken,Erik,Undirected,1
+Dolken,Lauretta,Undirected,1
+Lamettas,Lauretta,Undirected,1
+Gud,Lamettas,Undirected,1
+-,Erik,Undirected,1
+-,Lauretta,Undirected,1
+Lamettas,Virera,Undirected,1
+Erik,Virera,Undirected,1
+Antonio Salvieri,Erik,Undirected,1
+Aarti,Gud,Undirected,1

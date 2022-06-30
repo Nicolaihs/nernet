@@ -1,0 +1,119 @@
+source,target,type,weight
+Gud,Jensen,Undirected,3
+Jensen,gudbevares,Undirected,1
+Jacobæus,Peter Jensen,Undirected,8
+Frøken Petrea,Jacobæus,Undirected,1
+Petrea,Sofie,Undirected,1
+Malle,—,Undirected,1
+Alfons,Lydia,Undirected,1
+Alfons,Mosjø Kristoffer,Undirected,1
+Gud,Jacobæus,Undirected,2
+Kristoffer,Peter Jensen,Undirected,1
+Jacobæus,Jensen,Undirected,2
+Jacobæus,Peter,Undirected,5
+Peter,Petrea,Undirected,1
+Jacobæus,Petrea,Undirected,1
+Lurifas,Petrea,Undirected,1
+Bærentsen,Jacobæus,Undirected,1
+Jacobæus,Skaal,Undirected,1
+Lydia,Mosjø Kristoffer,Undirected,1
+Basse,Kristoffer,Undirected,1
+Kristoffer,Lydia,Undirected,1
+Arne,Jensen,Undirected,1
+Jensen,j,Undirected,1
+Hr.	,Jacobæus,Undirected,1
+Fløjels,Lene Jensen,Undirected,1
+Lene Jensen,Levin,Undirected,7
+Gud,Levin,Undirected,1
+Kong Ludvigs,Lene Jensen,Undirected,1
+Hildebrandt,Peter,Undirected,2
+Levin,lille Frue,Undirected,1
+Levin,Peter,Undirected,3
+Lene Jensen,Sofie,Undirected,1
+Christensens,Sofie,Undirected,1
+Amalie,Christensens,Undirected,1
+Amalie,Klejnsmedemester Jacobsens,Undirected,1
+Bine,Klejnsmedemester Jacobsens,Undirected,1
+Bine,Rentier Møllers,Undirected,1
+Amanda,Rentier Møllers,Undirected,1
+Amanda,Spækhøker Mortensens,Undirected,1
+Petra,Spækhøker Mortensens,Undirected,1
+Peter til,Petra,Undirected,1
+Lene Jensen,Peter,Undirected,8
+Lene Jensen,Mutter,Undirected,1
+Anna,Lene Jensen,Undirected,2
+Lene Jensen,Thomsen,Undirected,1
+Funtus,Sørensen,Undirected,4
+Gud,Lene Jensen,Undirected,2
+Høker Petersens,Lene Jensen,Undirected,1
+Ejnar Petersens,Laura,Undirected,2
+Funtus,Mutter,Undirected,1
+Lene Jensen,Peter —,Undirected,1
+Peter,Vogelsang,Undirected,3
+Peter,Sølvtoft,Undirected,3
+Jensen,Peter,Undirected,1
+Alfonso,Peter,Undirected,1
+Alfonso,Fernando,Undirected,1
+Fernando,Robert Sølvtoft,Undirected,1
+Robert Sølvtoft,Zither,Undirected,1
+Harpe,Zither,Undirected,1
+Generalbas,Harpe,Undirected,1
+Peter,Rosina,Undirected,7
+Kamilla,Rosina,Undirected,4
+Elvira,Zerlina,Undirected,3
+Antonina,Giacomelli,Undirected,2
+Antonina,Jensen,Undirected,4
+Antonina,Kamilla,Undirected,1
+Hr. Jensen,Kamilla,Undirected,2
+Kamilla,Sjaskedorthe,Undirected,1
+Jensen,Sjaskedorthe,Undirected,1
+Jensen,Kamilla,Undirected,1
+Beethoven,Jensen,Undirected,1
+Lindoro,Rosina,Undirected,1
+Gud,Rossini,Undirected,1
+Jensen,Rossini,Undirected,1
+Peter Jensen,Rossini,Undirected,1
+Rosina,Rossini,Undirected,1
+Signor,"fatemi la gråzia di sedére,",Undirected,1
+Kamilla,Peter,Undirected,1
+Elvira,Rosina,Undirected,1
+Antonina,Peter Jensen,Undirected,1
+Antonina,Peter,Undirected,1
+Gud,véd,Undirected,2
+Jacobæus,Lene Jensen,Undirected,5
+Frøken Vogelsang,Peter —,Undirected,1
+Peter,Peter —,Undirected,1
+Gud,Peter,Undirected,3
+Jacobæus,gusten,Undirected,1
+Frøken Vogelsang,Peter,Undirected,7
+Fris,Lene Jensen,Undirected,1
+Fris,Hr. Fris,Undirected,1
+Hr. Fris,Peter,Undirected,5
+Hr. Fris,Lene Jensen,Undirected,1
+Graad,Lene Jensen,Undirected,1
+Hr. Fris,lille Petermand,Undirected,1
+Hr. Fris,lille Peter,Undirected,1
+lille Peter,lille Petermand,Undirected,1
+Hr. Sølvtoft,Mutter,Undirected,1
+Gud,Vogelsang,Undirected,1
+Frøken Vogelsang,Lene Jensen,Undirected,2
+Lene Jensen,Vogelsang,Undirected,1
+Frøken Vogelsang,Gud,Undirected,1
+Geschichten,Jensen,Undirected,1
+Jensen,Levin,Undirected,1
+Jensen,Rebekka,Undirected,1
+Rebekka,Sally,Undirected,1
+Lene Jensen,lille,Undirected,1
+Salomon,lille,Undirected,1
+Hr. Fris,Peter Jensen,Undirected,1
+Bernina,Hr. Fris,Undirected,1
+Høker Jespersen,Rembrandt van Ryn,Undirected,1
+Grandseigneurens,Peter,Undirected,1
+Lene Jensen,Petermand,Undirected,1
+Flintholm,Petermand,Undirected,1
+Rosina,Sordine,Undirected,1
+Sordine,Vogelsang,Undirected,1
+Figaros,Pagens,Undirected,1
+Rosina,lille Rosina,Undirected,1
+Alfons,Peter,Undirected,1
+Alfons,Rosina,Undirected,1

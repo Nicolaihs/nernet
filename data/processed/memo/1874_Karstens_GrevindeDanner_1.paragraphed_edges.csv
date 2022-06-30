@@ -1,0 +1,557 @@
+source,target,type,weight
+Morten,Morten Anders,Undirected,1
+Anton From,Karl,Undirected,1
+From,Karl Falk,Undirected,3
+From,ester,Undirected,1
+Anton,Guds,Undirected,1
+From,Karl,Undirected,1
+Karl Falk,Olaf,Undirected,1
+Katarine,Louise,Undirected,1
+Karl Falk,Karl taug,Undirected,1
+Karl Falk,Olaf Rye,Undirected,1
+Falk,From,Undirected,6
+Anton From,From,Undirected,1
+Anton,Karl,Undirected,3
+Hirschfeldt,Sommer,Undirected,1
+Olaf Nye,Sommer,Undirected,1
+Hirschfeldt,Olaf Nye,Undirected,1
+Olaf Nye,sfete,Undirected,1
+Anton From,Karl Falk,Undirected,2
+Karl Falk,Katarine,Undirected,1
+Nyes,Ryes,Undirected,1
+Frederits,Ryes,Undirected,1
+Karl Falk,Olaf Nye,Undirected,1
+Irminger,Karl Falk,Undirected,1
+Irminger,Ryes,Undirected,1
+From,Offre,Undirected,1
+Anton,J.,Undirected,1
+J.,g,Undirected,1
+Karl,g,Undirected,1
+Anton,Moliere,Undirected,1
+Anton,paany,Undirected,1
+Anton,Ester,Undirected,1
+Anton FromElskovskvaler,Elvine Martens,Undirected,1
+Anton From,flet,Undirected,1
+Karl Falk,flet,Undirected,1
+Elvine,Falk,Undirected,1
+Lovises,Mons,Undirected,3
+Madam Jensen,Mons,Undirected,2
+Kordia,Madam Jensen,Undirected,2
+Lovise,Mons,Undirected,1
+Kordia Vg,Mons,Undirected,1
+Kordia Vg,Mis,Undirected,1
+Fanny Knudsen,Kordia,Undirected,3
+Kordia,Moer,Undirected,1
+Kordia,Madame Jensen,Undirected,3
+Hugo Sneider,fro Theodor,Undirected,1
+Madame Jensen,tillive,Undirected,1
+Madam Jensen,Theodor,Undirected,1
+Madam Jensen,Theodor upaatvivlelig,Undirected,1
+Balle,Walter Scott,Undirected,1
+Madame Jensen,Sidsle,Undirected,1
+Høkermada,Lovise,Undirected,2
+Kordia,Lovise,Undirected,2
+Lovise,Madame Jensen,Undirected,3
+Faders,Jenseu,Undirected,1
+Jensen,Madame Jensen,Undirected,1
+Hr. Jensen,Kordia,Undirected,2
+Lovise,Rasmussen,Undirected,1
+Familjen Jensen,Lovise Rasmussen,Undirected,1
+Lovise,Tu,Undirected,1
+Graaden,Lovise,Undirected,2
+Lovise,Theodor,Undirected,8
+Mons,Theodor,Undirected,1
+Dar,Kramers,Undirected,1
+Kramers,Lovise,Undirected,2
+Frøken Rasmussen,ondnu,Undirected,1
+Frøken Rasmussen,Sidsle,Undirected,1
+Lovise,Sneider,Undirected,3
+Frøken Rasmussen,Lovise,Undirected,4
+Lovise,Madame de Maintenon,Undirected,2
+Ludvig den Fjortendes,Madame de Maintenon,Undirected,1
+Fanny Knudsen,Lovise,Undirected,2
+Lovise,Lovise Rasmussen,Undirected,3
+Dandsen,Lovise Rasmussen,Undirected,1
+Dandsen,Madame Jensen,Undirected,1
+Lovise fiel,Smith,Undirected,1
+Lovise,Lovise fiel,Undirected,1
+Lovise,Smith,Undirected,8
+Lovfie,Smith,Undirected,1
+Herr Smith,Lovise,Undirected,1
+Smilh,hnn,Undirected,1
+Smith,hnn,Undirected,1
+B,Smith,Undirected,1
+Balle,Lovise,Undirected,2
+Smith,paany Lovises,Undirected,1
+Frøken Rasmussen,Smith,Undirected,1
+Robert der Teufel,Smith,Undirected,1
+,Agnes,Undirected,1
+Agnes Lund,Lovise Rasmussen,Undirected,4
+Agnes Lund,Hugo Sneider,Undirected,1
+Agnes,Sneider,Undirected,1
+Agnes,ning,Undirected,1
+Agnes,Ane Lund,Undirected,1
+Agnes,Karlen,Undirected,1
+Agnes,Lund,Undirected,1
+Lovise Rasmussen,Smith,Undirected,1
+Dandsen,Lovise,Undirected,1
+Lovise,Smiht,Undirected,1
+Hr. Smith,Smith,Undirected,1
+Gud,Lovise,Undirected,1
+Lovise,Smilh,Undirected,1
+Smilh,Smith,Undirected,1
+Agnes,Smith,Undirected,3
+Frøken Lund,Smith,Undirected,1
+Agnes,Hr. Smith,Undirected,2
+Frøken Rasmussen,Hr. Smith,Undirected,1
+Agnes,Frøken Lund,Undirected,1
+Hr. Smith,Lovise,Undirected,2
+Agnes,Snejder,Undirected,1
+Frøken Lund,Frøken Rasmussen,Undirected,2
+Agnes,Lovise,Undirected,1
+Dandsen,Frøken Rasmussen,Undirected,1
+Agnes Lund,Lovise,Undirected,5
+Kamille Flammarion,ifjor,Undirected,1
+Def,Lovise Rasmussen,Undirected,1
+Def,Kramers,Undirected,1
+Reseda,Theodor,Undirected,7
+Kramer,Lovise,Undirected,32
+Kramer,Theodor,Undirected,4
+Kramer,Snejder,Undirected,4
+Reseda,lille Karl,Undirected,1
+Storm,Svingberg,Undirected,1
+Svingberg,mich,Undirected,1
+Scheibe,mich,Undirected,1
+Falk,Kramer,Undirected,23
+Falk,Lovise,Undirected,106
+Falk,Scheibe,Undirected,1
+Lovise,Rubens,Undirected,1
+Falk,Storm,Undirected,2
+Rubens,Storm,Undirected,1
+Ruben,niemals,Undirected,1
+Ruben,was,Undirected,1
+Falk,Ruben,Undirected,1
+Scheibe,und,Undirected,1
+LovUe,Vertold Schwartz,Undirected,1
+Falk,LovUe,Undirected,1
+Storm,von Scheibe,Undirected,1
+Kramer,jæg,Undirected,1
+Donnerwetter,lo Scheibe,Undirected,1
+Ruben,lo Scheibe,Undirected,1
+Lovise,Scheibe,Undirected,1
+die,uns,Undirected,1
+Scheibe,Sturm,Undirected,1
+Gott,jai,Undirected,1
+Schejbe,Svingberg,Undirected,2
+Gud,Svingberg,Undirected,1
+Falk,Hr. Storm,Undirected,1
+Schejbe,Storm,Undirected,4
+Schejbe,jai,Undirected,1
+Falk,Schejbe,Undirected,1
+Falk,lille Karl,Undirected,4
+Gud,Klara,Undirected,1
+Karlsen,Lovise,Undirected,3
+Lovise,Støi,Undirected,1
+Falk,Karlsen,Undirected,30
+Karlsen,b. d,Undirected,1
+Lovise,Snejder,Undirected,3
+Karlsen,Snejder,Undirected,7
+Frøken Rasmussen,Lonise,Undirected,1
+Falk,Lonise,Undirected,1
+Falk,Frøken Rasmussen,Undirected,2
+Falk,j,Undirected,1
+Falk,Reseda,Undirected,4
+Reseda,Snejder,Undirected,1
+Lovise,rasfe,Undirected,1
+Falk,rasfe,Undirected,1
+Falk,Jmet,Undirected,1
+Falk,Talleyrands,Undirected,1
+Dandsen,Falk,Undirected,1
+Falk,von Schejbe,Undirected,1
+Lovise,Storm,Undirected,1
+Engels,Storm,Undirected,1
+Engels,Schejbe,Undirected,1
+Kramer,Schejbe,Undirected,1
+Dandsen,Morfevs,Undirected,1
+Morfevs,Terpsikore,Undirected,1
+Storm,Terpsikore,Undirected,1
+Storm,von Schejbe,Undirected,1
+Asten,Kramer,Undirected,1
+Asten,Falk,Undirected,1
+Lovise,Støien,Undirected,1
+Kramer,Svingberg,Undirected,2
+Svingberg,von Scheibe,Undirected,2
+Falk,Theodor,Undirected,2
+Lovise,Reseda,Undirected,3
+Falk,ester,Undirected,2
+Falk,Moses,Undirected,1
+Falk,Margrets,Undirected,3
+Kramer,Margretes,Undirected,1
+Falk,Margretes,Undirected,1
+Gud,Margrets,Undirected,1
+Gud,Margrete,Undirected,2
+Scheibe,von Scheibe,Undirected,1
+Kramer,Scheibe,Undirected,2
+Falk,Frøken Lund,Undirected,3
+Agnes Lund,Falk,Undirected,4
+Falk,tichun,Undirected,1
+Agnes,tichun,Undirected,1
+Jomfru Margrets,Reseda,Undirected,2
+Margrets,Reseda,Undirected,2
+Lovise,Margrets,Undirected,1
+Honni,Margrets,Undirected,1
+HUI mal xeri86,Honni,Undirected,1
+HUI mal xeri86,Kramer,Undirected,1
+Falk,Margrete,Undirected,11
+Lovise,d. e.,Undirected,1
+Karlsen,Lovise Rasmussen,Undirected,2
+Elsfer,Lovise Rasmussen,Undirected,1
+Elsfer,Smith,Undirected,1
+Theodor,lille Reseda,Undirected,1
+Lovise Rasmussen,lille Reseda,Undirected,1
+Anna Falk,f. Lund,Undirected,1
+Gud,Loviie,Undirected,1
+Anna Falk,Gud,Undirected,1
+Frøken Lovise,Lovise,Undirected,1
+Falk,siost,Undirected,1
+Lovise,Margrete,Undirected,7
+Falk,Karl,Undirected,5
+Konstenselv,lille Karl,Undirected,1
+Guttenberg,Konstenselv,Undirected,1
+Guttenberg,lille Karl,Undirected,1
+Frisfelsen,lille Karl,Undirected,1
+Falk,Lovile,Undirected,1
+Anna,Anna Lund,Undirected,1
+Agnes,Falk,Undirected,1
+Frøken Lund,Lovise,Undirected,1
+Karlsen,Kramer,Undirected,1
+Frøken Lind,Snejder,Undirected,1
+Agnes Lund,Frøken Lind,Undirected,1
+Agnes Lund,Snejder,Undirected,1
+Jmiolertid,Margrete,Undirected,1
+Falk,Gud,Undirected,3
+Margrete,bele,Undirected,1
+Lovise,hnn,Undirected,2
+Falk Lovise,Lovise,Undirected,1
+Lovise,xrokesso,Undirected,1
+Falk,xrokesso,Undirected,1
+Falk,alen,Undirected,1
+Falk,Lvvise,Undirected,1
+Kramer,Lvvise,Undirected,1
+Falk,Øe,Undirected,1
+Karl,Lovise,Undirected,9
+Falk,Nesida,Undirected,1
+Anna,Karl,Undirected,1
+Falk,Jesus,Undirected,1
+Falk,Maalløs,Undirected,1
+Kramer,lille Karl,Undirected,3
+Gud,Karl,Undirected,2
+Kramer,lil Falk,Undirected,1
+Lovise,lille Karl,Undirected,1
+Lovise,Stine afsindig,Undirected,1
+Karlen,Lovise,Undirected,3
+Karlen,Stine,Undirected,1
+Gud,Stine,Undirected,2
+Lovise,Stine,Undirected,14
+Falk,Stine,Undirected,2
+r.,Øe,Undirected,1
+Kramer,Øe,Undirected,1
+Lovise,Svingberg,Undirected,1
+Svingberg,von Schejbe,Undirected,1
+Nathanson,von Schejbe,Undirected,1
+Berling,Nathanson,Undirected,5
+Kramer,Nathanson,Undirected,2
+Berling,Hr. Nathansons,Undirected,1
+Berling,Lovise,Undirected,9
+Hr. Nathansons,Lovise,Undirected,1
+Berling,Guttenberg,Undirected,1
+Svingberg,linesom von Schejbe,Undirected,2
+Lru Kramer,Nathanson,Undirected,1
+Svingberg,l,Undirected,1
+Berling,Svingberg,Undirected,1
+Berling,ed Lovise,Undirected,1
+Lovies,Lovise,Undirected,1
+Lovise,max,Undirected,1
+Lovise,Lovsie,Undirected,1
+Karl,ester,Undirected,1
+Diogenes,Stine,Undirected,1
+Lovise mev,Stine,Undirected,1
+Stine,hnn,Undirected,1
+Kramer,Lovise Rasmussen,Undirected,1
+Lovise Rasmussen,Madame Fleurys,Undirected,1
+Carpentier,Napoleons,Undirected,1
+Madame Carpentier,Napoleons,Undirected,1
+Carpentier,Madame Carpentier,Undirected,1
+Madame Carpentier,Madame Fleury,Undirected,3
+Madame Fleury,Mademoiselle,Undirected,1
+Madame Fleury,Tendents,Undirected,1
+NonZisur Henri,Tendents,Undirected,1
+Oorntssss,pere,Undirected,1
+Madame Fleury,pere,Undirected,1
+Lovise,Madame Fleury,Undirected,2
+Lovise,Monsieur Kramer,Undirected,1
+Berling,Flemy,Undirected,1
+Madame Flemy Hr. Kramer,Madame Fleury,Undirected,1
+Kramer,Madame Flemy Hr. Kramer,Undirected,1
+Kramer,Madame Fleury,Undirected,4
+Madame,Madame Fleury,Undirected,4
+Fanchette,Madame,Undirected,1
+Madame Flmry,Madams Fleury,Undirected,1
+Kramer,Madams Fleury,Undirected,1
+Madame Flenrys,Madame Fleury,Undirected,1
+Madame Flenrys,Mademoisellen,Undirected,1
+Madame Fleury,Mademoisellen,Undirected,1
+Kramer næsfen,Madame Fleury,Undirected,1
+Kramer,Madame Flenrys,Undirected,1
+Kramer,Madame,Undirected,1
+Madame Flemys,paalangs,Undirected,1
+Madame Flemys,Madame Fleury,Undirected,1
+Fanchette,Madame Fleury,Undirected,1
+K. L.,Nahbek,Undirected,1
+Fleury,Henry,Undirected,1
+Fanchette,Madame Fleyrys,Undirected,1
+Fanchette,XVII,Undirected,1
+Papas,Sofie,Undirected,1
+Papas Sofie,Sofie,Undirected,1
+Valter,enMoman,Undirected,1
+elhvert,enMoman,Undirected,1
+Valter,elhvert,Undirected,1
+Valter,Valter fil,Undirected,1
+Balters,Klausen,Undirected,1
+Grosserer Klausens,Valter,Undirected,1
+Madame,Volter,Undirected,2
+Madame,otfeogtyve,Undirected,1
+Valter,ligeledesHan,Undirected,1
+Hr. N.,Karl Arederik Søgaard,Undirected,1
+Ballers,Valter,Undirected,1
+Karl Frederik Søgaard,Valter,Undirected,1
+Balters,Valter,Undirected,1
+Søgaard,Volter,Undirected,1
+Balter,Valter,Undirected,1
+Sofie,Valter,Undirected,1
+Karl Frederik Søgaard,Valler,Undirected,1
+Madame,franst,Undirected,2
+Madame Fleury,Monsieur Karlsen,Undirected,2
+Hr. Karlsen,Katarine,Undirected,1
+Karlsen,Madame Flemys,Undirected,1
+Gud,Madame,Undirected,1
+Bravo,Kramer,Undirected,2
+Berling,Vefour,Undirected,1
+Berling,Kramer,Undirected,3
+Berling,Lovise M,Undirected,1
+Karl,Lovise M,Undirected,1
+Karl,Reseda,Undirected,1
+Berling,hcm,Undirected,1
+Lovise,Madame Carpentier,Undirected,1
+Louis,Lovise,Undirected,2
+Karl,Pjerre,Undirected,1
+Hr. Carpentier,Pjerre,Undirected,1
+Kramer,Lille Karl,Undirected,1
+Gud,Jomfru Rasmussen,Undirected,2
+Jomfru Rasmussen,Niels,Undirected,1
+Lovise,Madame,Undirected,1
+Jomfru Rasmussen,Karen,Undirected,1
+Gud,Niels,Undirected,1
+Karl Falk,Theodor,Undirected,1
+Berling,Prindsen,Undirected,4
+Lovise,Prindsen,Undirected,3
+Lovise,Prinds Frederik,Undirected,1
+X.,visl,Undirected,1
+Prindsen,X.,Undirected,1
+Kronprinds Frederik,Lovise,Undirected,1
+Kronprinds Frederik,Lovise Rasmussen,Undirected,2
+Kronprinds,gansfe,Undirected,1
+Berling,Kronprindsen,Undirected,1
+Lovise,Pisfoler,Undirected,1
+,Grev X,Undirected,1
+Lovise,Pisfolen,Undirected,1
+Lovise,paany,Undirected,1
+Frederik,Kronprinds,Undirected,1
+Anna,Klara,Undirected,1
+XVII,XVIII,Undirected,1
+Baronessens,f. n.,Undirected,1
+Katarine,Katariue,Undirected,1
+Kronprinds Frederik Danmarks,Kronprindsen,Undirected,1
+Frederik,Kronprindsen,Undirected,1
+Karl Falk,Lovise Rasmussen,Undirected,2
+Karl,Karl Falk,Undirected,1
+Alf,Lovise,Undirected,1
+Karl,Katarine,Undirected,6
+Karlsen,Katarine,Undirected,36
+C. Falk,Falk,Undirected,1
+Brun,Katarine,Undirected,2
+Falk,Katarine,Undirected,24
+Brun,Doklor,Undirected,1
+Brun,Karlsen,Undirected,8
+Anton,Lovise,Undirected,1
+Anton,From,Undirected,2
+Anton,Elvine,Undirected,2
+Anton From,Arilds,Undirected,1
+Brun,Falk,Undirected,12
+Falk,Hr. Bruns,Undirected,2
+Amalie,Brun,Undirected,1
+Brun,Hr. Falk,Undirected,1
+Amalie,Hr. Falk,Undirected,1
+Brun,FalkS,Undirected,1
+Konsten,Øe,Undirected,1
+Hr. Falk,Øe,Undirected,1
+Konstner,Øe,Undirected,1
+Konsten,Konstner,Undirected,1
+Falk,Konsten,Undirected,2
+Dokforens,Falk,Undirected,1
+Anton From,Falk,Undirected,2
+Amalie Brun,Anton From,Undirected,2
+Amalie Brun,Anton —,Undirected,1
+Anton —,Brun,Undirected,1
+Brun,Lovise,Undirected,3
+From,Gud,Undirected,1
+Anton From,Elvine Martens,Undirected,1
+Brun,Katarine Duval,Undirected,1
+Gud,Saaret,Undirected,1
+Falk,Frøken Duval,Undirected,1
+Karl,Karlsen,Undirected,3
+Karlsen,Øe,Undirected,1
+Karl Falk,Karlsen,Undirected,1
+Katarine,elffe,Undirected,1
+Katarine,Pkads,Undirected,1
+Kalarine,Lovise,Undirected,2
+Falk,Kalarine,Undirected,1
+Bravo,Katarine,Undirected,1
+Karlsen,Myndling,Undirected,1
+Karlsen,Katarine Duval,Undirected,1
+Jomfru Rasmussen,Lovise Rasmussen,Undirected,1
+Katarine,Lovise,Undirected,19
+Falk,Karl Falk,Undirected,1
+Frøken Duval,Jomfru Rasmussen,Undirected,1
+Jomfru Rasmussen,Katarine,Undirected,1
+Katarine,Lovise Rasmussen,Undirected,1
+Gun,Katarine,Undirected,1
+Katarine,se,Undirected,1
+Brun,Katarine Duvoll,Undirected,1
+Duval,Katarine,Undirected,1
+Faders,Katarine,Undirected,1
+Gud,Katarine,Undirected,1
+Jkkesandt,Katarine,Undirected,1
+Falk,Hr. Falk,Undirected,2
+Hnn,Katarine,Undirected,1
+Hr. Karlsen,Philipps,Undirected,1
+Philipps,Söhne,Undirected,1
+Falk,hau,Undirected,1
+hau,maalløs,Undirected,1
+Falk,maalløs,Undirected,1
+Bintervej,Falk,Undirected,1
+Falk,Snejder,Undirected,3
+Fantasies,Katarine,Undirected,2
+Joloufi,Snejder,Undirected,1
+Karlsen,tillive,Undirected,1
+Brun,Frøken Duval,Undirected,1
+Katarine,hWde,Undirected,1
+Snejder,hWde,Undirected,1
+Katarie,Lovise,Undirected,1
+Atlaskes,Katarine,Undirected,1
+Katarine,hu,Undirected,1
+Antoinette,Frederik,Undirected,11
+Frederik,Sofie,Undirected,1
+Frøken Klausen,N.,Undirected,1
+Klausen,N.,Undirected,1
+Sofie,lselv,Undirected,1
+B.,lselv,Undirected,1
+Charlotte Corday,Gabrielle,Undirected,1
+Gabrielle,Madame,Undirected,1
+Gabrielle,Katarine,Undirected,1
+Frøken Katarine,Madame,Undirected,1
+Frøken Katarine,Gabrielle,Undirected,1
+Gabrielle,sæm,Undirected,2
+Ida hun paany,Katarine,Undirected,1
+Falk,Rasmussen,Undirected,1
+Karlen,Karlsen,Undirected,1
+Karlsen,ester,Undirected,1
+Anton,Falk,Undirected,1
+Lovise,feg,Undirected,1
+Anton,Katarine,Undirected,1
+/Froms,Falk,Undirected,1
+Hr. Falk,j,Undirected,1
+Falk,Sturn,Undirected,2
+Falk,vidsfe,Undirected,2
+Hr. Karlsen,Karlsen,Undirected,2
+Falk,paany,Undirected,3
+Karlsen,stete,Undirected,1
+Karlsen,paany,Undirected,1
+Falk,Katrines,Undirected,1
+Assessoren,Falk,Undirected,2
+Frøken Rasmussen,fcelles,Undirected,1
+Lovise,Walter,Undirected,1
+Lovise,Valter,Undirected,1
+Katarine,ester,Undirected,1
+Frederik den,Lovise,Undirected,1
+Frederik,Madame,Undirected,1
+Frederik,Karl Falk,Undirected,2
+Frederik,Rex,Undirected,1
+Greven,Lovise,Undirected,1
+Madame,—,Undirected,1
+Lovise,lille Katarine,Undirected,1
+Katarine,Valler,Undirected,1
+Katarine,Valter,Undirected,1
+Karl,Konstner,Undirected,1
+Kong Frederik den Syvendes,Lovise,Undirected,1
+Katarine,Kong Frederik,Undirected,1
+Grev N.,Karl Falk,Undirected,1
+Falk,Javisf,Undirected,1
+Falk,Graad,Undirected,1
+Frederik den Syvende,Karl Falk,Undirected,2
+N. N. Bataillon,X,Undirected,1
+Falk,Levvel,Undirected,1
+Shakespeare,^Vornan,Undirected,1
+^Vornan,nanas,Undirected,1
+Martens,Øe,Undirected,1
+Karl Falk,lille Lise,Undirected,1
+Evaline Martens,Karl Falk,Undirected,1
+Martens,hat gewesen,Undirected,1
+Frederik den,hins,Undirected,1
+Lovise Rasmussen,paany,Undirected,1
+Frederik den,Lovise Rasmnssen,Undirected,1
+Emilie —,Lovise Rasmussen,Undirected,1
+Jvanoff,Karl Falk,Undirected,1
+Agnes Lund,Frøken Lund,Undirected,1
+Agnes Lund,Grev Zwanoffs,Undirected,1
+Grev Iwanoff,htznde,Undirected,1
+Iwanoff,Oll,Undirected,1
+Iwanoff,Rous,Undirected,1
+Agnes,Greven,Undirected,4
+Agnes,Hr. Greve,Undirected,1
+Gud,Hr. Greve,Undirected,1
+Agnes,Grev Jvanoff,Undirected,1
+Ag,Greven,Undirected,1
+Ag,es,Undirected,1
+Næsfens,Peter Madsens,Undirected,1
+Jøsses,Madam,Undirected,1
+Jøsses,ellerbli,Undirected,1
+Adjøs,Madam,Undirected,1
+Anton From,Elvine,Undirected,2
+Elvine,From,Undirected,2
+Elvine,Øe,Undirected,1
+Elvine,Putte,Undirected,1
+Elvine,Gud,Undirected,2
+Elvine,Ester,Undirected,2
+Elvin-,Elvine,Undirected,1
+Elvine,Karlsen,Undirected,9
+Elvine,No,Undirected,1
+From,Karlsen,Undirected,1
+Gud,Jomfru Martens,Undirected,1
+Elvine,Madammen,Undirected,1
+Elvine,Smith,Undirected,3
+Bakkus,Hr. Smith,Undirected,1
+Selsfab,Smith,Undirected,1
+hrorfor,huu,Undirected,1
+Hr. Smith,d?,Undirected,1
+Smith,d?,Undirected,1
+Karlsen,Madam Jensen,Undirected,1
+Smith,sør,Undirected,1
+Frøken Martens,sør,Undirected,1
+Frøken Martens,Smith,Undirected,1
+Madam Jensen,Smith,Undirected,2
+Elvine,Madam Jensen,Undirected,3
+Elvine,Frederik den Syvende,Undirected,1
+Frederik den Syvende,Kong Kristian den Oltende,Undirected,1
+Elvine,Hr. Smith,Undirected,1
+Eoers,Smith,Undirected,1

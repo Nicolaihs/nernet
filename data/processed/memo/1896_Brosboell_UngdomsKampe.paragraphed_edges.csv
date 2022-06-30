@@ -1,0 +1,239 @@
+source,target,type,weight
+Bertha,Julius,Undirected,1
+August Stilling,Laura,Undirected,1
+Carl,Jules,Undirected,7
+Carl,lille Jules,Undirected,1
+Dien,Dorthea,Undirected,1
+Ida,Jules,Undirected,36
+Carl,Ida,Undirected,2
+Elias,Ulf,Undirected,1
+Elias,Ida,Undirected,2
+Carl,Frank,Undirected,1
+Frank,Rikke Lange,Undirected,1
+Jules,Rikke Lange,Undirected,1
+Jules,Madam Lange,Undirected,1
+Carl Tilfredshed,Jules,Undirected,1
+Lee,Rikke,Undirected,1
+Rikke,Sands,Undirected,1
+Jules,Sands,Undirected,1
+Carl,Rikke,Undirected,1
+Adelheid,Ida sfal,Undirected,1
+Mama,Otto,Undirected,1
+Adelheid,Mama,Undirected,1
+Adelheid,Otto,Undirected,8
+Adelheid,Øtto,Undirected,6
+Adelheid,Frank,Undirected,12
+Adelheid,Ida,Undirected,14
+Frank,Ida,Undirected,8
+Frank,paany,Undirected,1
+Adelheid,paany,Undirected,1
+Adelheid,b,Undirected,1
+Frank,b,Undirected,1
+Adelheid,Otto Bretton,Undirected,2
+Otto Bretton,Øtto,Undirected,1
+Froken Ida,Øtto,Undirected,1
+Froken Ida,sorn,Undirected,1
+Adelheid,sorn,Undirected,1
+Ida,blaa,Undirected,1
+blaa,grazies,Undirected,1
+Frank,Jules,Undirected,4
+Jules,Kruse,Undirected,4
+Beviis,Kruse,Undirected,1
+Beviis,Hjelm,Undirected,1
+Gud,Nikolai,Undirected,1
+Jules,Marthe,Undirected,1
+Gud,Marthe,Undirected,1
+Carl,Hjelm,Undirected,1
+Jules,Lund,Undirected,1
+Maren,Marthe,Undirected,1
+Froken Frank,Jules,Undirected,1
+Bisted,Ida,Undirected,1
+Ida,Kareth,Undirected,1
+Adelheid,Kareth,Undirected,1
+Mosters,Stine,Undirected,1
+Marthe,Stine,Undirected,1
+Marthe,Niels,Undirected,1
+Gud,Niels,Undirected,1
+Gud,Stakkel,Undirected,1
+Emma,Stakkel,Undirected,1
+Emma,Frank,Undirected,1
+Ida,Nicolai,Undirected,2
+Gud,Ida,Undirected,3
+Jørgens,Marthe,Undirected,1
+Jørgens,Sanct,Undirected,1
+Jules,Sanct,Undirected,1
+Marthe,Riis,Undirected,1
+Adelheid,Jules,Undirected,18
+Adelheid,Øtto Bretton,Undirected,1
+Øtto,Øtto Bretton,Undirected,1
+Jules,Jules Adelheid,Undirected,1
+Adelheid,osfe,Undirected,1
+. Hjelms,Jules,Undirected,1
+Gud,Jules,Undirected,2
+Adelheid,Herman,Undirected,2
+Brettons,Herman,Undirected,1
+Brettons,Otto,Undirected,1
+Herman,Jules,Undirected,2
+Bretton,Jules,Undirected,3
+Bretton,Herman,Undirected,2
+Adelheid,Bretton,Undirected,3
+Adelheid,Sophaen,Undirected,1
+Jules,Minntters,Undirected,1
+Ida,Minntters,Undirected,1
+,Jules,Undirected,1
+,Ida,Undirected,1
+Ida,Julie,Undirected,23
+Jules,Julie,Undirected,3
+Adelheid,Julie,Undirected,6
+. Hjelms,Julie,Undirected,1
+. Hjelms,Hr . Hjelms,Undirected,1
+Jules,Roes,Undirected,1
+Jules,Otto Bretton,Undirected,2
+Bretton,Hermann,Undirected,1
+Adelheid skonne,Hermann,Undirected,1
+Adelheid,Adelheid skonne,Undirected,1
+Adelheid,Ida øg Julie,Undirected,1
+Hjelm,Julie,Undirected,1
+Hjelm,Jules,Undirected,3
+Hjelm,Ida,Undirected,1
+Adelheid,Hjelm,Undirected,1
+Hermann,Jules,Undirected,8
+Hermann,Julie,Undirected,4
+Hermann,Ida,Undirected,4
+Hermann,Tusse,Undirected,3
+Graad,Hermann,Undirected,2
+Almuen,Hermann,Undirected,1
+Almuen,Julie,Undirected,1
+Ida,Steiner,Undirected,5
+Jules,Steiner,Undirected,1
+Adelheid,Præsfens,Undirected,1
+Julie,Præsfens,Undirected,1
+Hagbarth,Herman,Undirected,1
+Hagbarth,Signe,Undirected,2
+Frantz,Signe,Undirected,2
+Frantz,Julie,Undirected,5
+,Frantz,Undirected,1
+,Gud,Undirected,1
+Gud,Steiner,Undirected,1
+Julie,Philosoph,Undirected,1
+Julie,Steiner,Undirected,10
+Frantz,Steiner,Undirected,1
+Adelheid,Betty,Undirected,1
+Betty,Steiner,Undirected,8
+Betty,Julie,Undirected,2
+Frankz,Julie,Undirected,6
+Dands,Steiner,Undirected,1
+Frøken Henning,Julie,Undirected,1
+. Steiner,Dandsen,Undirected,1
+Dandsen,Frøken Bisted,Undirected,1
+Frøken Bisted,Julie,Undirected,1
+Bretton,Julie,Undirected,1
+Frankz,Frøken Bisted,Undirected,1
+Betty,Frøken Bisted,Undirected,1
+Betty,Dandsen,Undirected,1
+Bretton,Ida,Undirected,1
+Bretton,Otto,Undirected,1
+Otto,Steiner,Undirected,1
+Betty,Otto Bretton,Undirected,1
+Steiner,Øtto,Undirected,2
+Bretton,Steiner,Undirected,1
+Betty,Øtto,Undirected,1
+Betty,Frankz,Undirected,2
+Jules,Sopha,Undirected,1
+Betty,Sopha,Undirected,1
+Ida,Øtto,Undirected,1
+Frankz,Jules,Undirected,1
+Adelheid,Stine,Undirected,1
+Adelheid,Frankz,Undirected,1
+Frankz,Steiner,Undirected,1
+Jules,Riis,Undirected,1
+Jules,Tusse,Undirected,4
+Doren,Jules,Undirected,1
+Frøken Bisted,Jules,Undirected,1
+Steen,Tusse,Undirected,1
+Jules,Steen,Undirected,1
+Nland,ove,Undirected,1
+Mo,Nland,Undirected,1
+Mo,Tusse,Undirected,1
+Herman,Sibeknasper,Undirected,1
+Sibeknasper,Tusse,Undirected,1
+Hermann,prate,Undirected,1
+Julie,tys,Undirected,1
+Frantz Steiner,Julie,Undirected,1
+Betty,Frantz,Undirected,1
+Herman,Ida,Undirected,1
+Herman,Julie,Undirected,1
+Julie,Tusse,Undirected,1
+Hexen,Julie,Undirected,1
+Adelheid,Hexen,Undirected,1
+Copella L Henning,Ida,Undirected,1
+Copella L Henning,Riis,Undirected,1
+Copella,Riis,Undirected,1
+A .,Frank L Jo,Undirected,1
+Adelheid,Steiner,Undirected,1
+Frank,Steiner,Undirected,1
+.,Ida,Undirected,1
+.,R .,Undirected,1
+Julie,Troldborg,Undirected,1
+Hermann,Moer Tusses,Undirected,1
+Adelheid,Moer Tusses,Undirected,1
+Adelheid,Frantz,Undirected,1
+Ida,stan,Undirected,1
+Jules,stan,Undirected,1
+Drosters,Karethen,Undirected,1
+Broder Jules,Carl,Undirected,1
+Carl,Gud,Undirected,2
+Carl,Carl Hansen,Undirected,1
+Ida Frank,Jules,Undirected,1
+Ida,Ida Frank,Undirected,1
+Bretton,Frank,Undirected,1
+Frank,Otto Bretton,Undirected,1
+. Frank,Adelheid Frank,Undirected,1
+Adelheid Frank,Frank,Undirected,1
+Frank,Lady,Undirected,1
+,Lady,Undirected,1
+,Melchior Bretton,Undirected,1
+.,P,Undirected,1
+.,H .,Undirected,1
+Otto,Papa,Undirected,1
+Hull,Otto,Undirected,1
+Adelheid,Hull,Undirected,1
+Papa,Victoria,Undirected,1
+Copella,Minna,Undirected,1
+Copella,Frank,Undirected,9
+Copella,Ida,Undirected,17
+Frank,Gud,Undirected,3
+Copella,Gud,Undirected,3
+Glutten,Gud,Undirected,1
+Emma,Glutten,Undirected,1
+Emma,Ida,Undirected,2
+Copella,Emma,Undirected,1
+Ida,Laura,Undirected,1
+Frank,Laura,Undirected,1
+Gud,Hjelm,Undirected,1
+Adelheid,Iva,Undirected,1
+Copella,Husalfs,Undirected,1
+Ida,kjære Adelheid,Undirected,1
+Otto,Otto Bretton,Undirected,1
+Adelheid,Ida og,Undirected,1
+Copella,Ida og,Undirected,1
+Copella,Otto,Undirected,1
+Minntters,Otto,Undirected,1
+Adelheid,Minntters,Undirected,1
+Frank,Øtto,Undirected,1
+Frank,Øtto Bretton,Undirected,1
+Jules Hjelms,Øtto Bretton,Undirected,1
+Ida,Jules Hjelms,Undirected,1
+Ida,Sands,Undirected,1
+Hjelm,Sands,Undirected,1
+Ida,Papa,Undirected,1
+Jules,Papa,Undirected,1
+Copella,Jules,Undirected,3
+Ida,paany,Undirected,1
+Gud,paany,Undirected,1
+Copella,Hjelm,Undirected,1
+. Copella,Jules,Undirected,1
+Jules,Julius,Undirected,1
+Ida,Julius,Undirected,1
+Henriette F,Ida Copella,Undirected,1
+Henriette,Jules,Undirected,1

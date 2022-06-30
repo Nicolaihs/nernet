@@ -1,0 +1,34 @@
+source,target,type,weight
+Brisa,sorn Schyneis,Undirected,1
+Brisa,Schyneis,Undirected,11
+Arkas,Schyneis,Undirected,13
+Arkas,Myro,Undirected,3
+Myro,Skylax,Undirected,3
+Brisa,Skylax,Undirected,3
+Brisa,hnn,Undirected,1
+Brisa,Myro,Undirected,3
+Myro,Schyneis,Undirected,6
+Arkas,Brisa,Undirected,7
+Arkas,f,Undirected,1
+Aphrodite,Brisa,Undirected,1
+Archimedes,Brisa,Undirected,1
+Brisa,signe,Undirected,1
+Brisa,Guds,Undirected,1
+Arkas,sorn,Undirected,1
+Schyneis,sorn,Undirected,1
+Arkas,Brisas B.aad,Undirected,1
+Brisa,Hex,Undirected,1
+Arkas,Skylax,Undirected,4
+Myro,Phylax,Undirected,1
+Phylax,Skylax,Undirected,2
+Arkas,frank,Undirected,1
+Skylax,frank,Undirected,1
+Skylax,Tvers,Undirected,1
+Phylax,Schyneis,Undirected,1
+Schyneis,Skylax,Undirected,1
+Aristolochia,Asphodil,Undirected,1
+Aphrodite,Urt Alrune,Undirected,1
+Aphrodite,Idas,Undirected,1
+Aeneas,Idas,Undirected,1
+Arkas,Kitso,Undirected,1
+Aasen,Schyneis,Undirected,1

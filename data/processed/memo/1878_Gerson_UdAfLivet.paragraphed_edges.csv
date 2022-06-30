@@ -1,0 +1,32 @@
+source,target,type,weight
+Jørgen Lovson,Thomsens,Undirected,1
+Doctoren,Thomsens,Undirected,1
+Doctoren,Lovson,Undirected,1
+Lovson,Thomsens,Undirected,1
+Collega,Lovson,Undirected,3
+ban,tom,Undirected,1
+Kudsken,paany,Undirected,1
+faur,fiin,Undirected,1
+Gud,signe,Undirected,1
+Gud,Offret,Undirected,1
+Gud,Maries,Undirected,1
+Steen,lian,Undirected,1
+Steenkrands,Taus,Undirected,1
+Steen,Steenkrands,Undirected,1
+Gud,Tulle,Undirected,1
+Jens,Tulle,Undirected,1
+Marie Tulline,Tulline,Undirected,1
+Marie Tulline,Tulle,Undirected,1
+Tulle,dan,Undirected,1
+Graad,heade,Undirected,1
+heade,lee,Undirected,1
+Alan,Gud,Undirected,1
+Gud,kim,Undirected,1
+Gud,Morbroders,Undirected,1
+ban,nn,Undirected,1
+Anker,Phrase,Undirected,1
+Anker,lian,Undirected,1
+dei,lian,Undirected,1
+B,dei,Undirected,1
+Gud,paany,Undirected,1
+Greven,Greves,Undirected,2

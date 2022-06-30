@@ -1,0 +1,122 @@
+source,target,type,weight
+Hektor,Rektors,Undirected,2
+Petersen,østergaard,Undirected,1
+Petersen,Vestergaard,Undirected,4
+Far Petersen,Kristiane,Undirected,1
+Hans,Rolf,Undirected,31
+Kristiane,Rolf,Undirected,27
+Hans,Kristiane,Undirected,20
+Høg,Kristiane,Undirected,9
+Hans,Høg,Undirected,7
+Hans,Petersen,Undirected,60
+Kristiane,Petersen,Undirected,16
+Graad,Petersen,Undirected,2
+Hans,Saul,Undirected,1
+Hr. Glahn,Papa,Undirected,1
+Nik,Papa,Undirected,1
+Hr. Glahn,Nik,Undirected,1
+Hr. Glahn,Petersen,Undirected,4
+Johnson,lille Kristiane,Undirected,1
+Johnson,Ruth,Undirected,1
+Glahns,Ruth,Undirected,1
+Glahns,Vestergaard,Undirected,1
+Fatter,Høg,Undirected,1
+Høg,Moder,Undirected,1
+Hans,Moder,Undirected,1
+Glahn,Johnson,Undirected,2
+Johnson,Petersen,Undirected,1
+Petersen,Rolf,Undirected,6
+Johnson,Rolf,Undirected,2
+Johnson,Kristiane,Undirected,1
+Glahn,Hr. Glahn,Undirected,2
+Høg,Johnson,Undirected,1
+Høg,Petersen,Undirected,5
+Petersen,Ruth Johnson,Undirected,1
+Glahn,Shawl,Undirected,1
+Frøken Johnson,Rolf,Undirected,1
+Frøken Johnson,Kristiane,Undirected,1
+Rolf,grant,Undirected,1
+Kristiane,Kristiane Høg,Undirected,1
+Rolf,lille Rolf,Undirected,1
+Guds,Petersen,Undirected,1
+P. S.,R. G.,Undirected,1
+Hr. Glahn,Rolf,Undirected,2
+Hans,lille Kristiane,Undirected,2
+Guds,Hr. Glahn,Undirected,1
+Kristiane,Rolf Glahn,Undirected,3
+Johnson,Rolf Glahn,Undirected,1
+Glahn,Rolf,Undirected,2
+Rolf,s,Undirected,2
+Julie,Ruth,Undirected,2
+Julie,Rolf,Undirected,4
+Hans,Julie Johnson,Undirected,1
+Kristiane,Stakkel,Undirected,1
+Emilie,Hans,Undirected,3
+Gud,Hans,Undirected,2
+Gud,Petersen,Undirected,4
+Gud,Ruth,Undirected,1
+Julie Johnson,Rolf Glahn,Undirected,1
+Kresten Sognefogeds,hans,Undirected,1
+Kresten Sognefogeds,Rolf,Undirected,1
+Høg,Rolf,Undirected,3
+Gradevis,Kristiane,Undirected,1
+Gradevis,Rolf,Undirected,1
+Rolf,Rolf Glahn,Undirected,2
+Graad,Hans,Undirected,1
+Kristiane,Ruth,Undirected,8
+Gud,Rolf,Undirected,2
+Kristiane,lille Kristiane,Undirected,2
+Petersen,ban,Undirected,1
+Kresten Sognefoged,Petersen,Undirected,1
+Hans,s,Undirected,1
+Rolf,Ruth,Undirected,2
+Kage-Simons,Rolf Glahn,Undirected,1
+Rolf Glahn,Simon,Undirected,1
+Kage-Simons,Mette,Undirected,1
+Mette,Simon,Undirected,4
+Hans,Kage-Simon,Undirected,1
+Kage-Simon,Mette,Undirected,1
+Hans,Volle,Undirected,2
+Simon,Volle,Undirected,6
+Simon,højrød,Undirected,1
+Mette,Volle,Undirected,1
+Hans,Simon,Undirected,4
+Kristiane,Simon,Undirected,1
+Fader,Hans,Undirected,1
+Hans,Ruth,Undirected,1
+Kristiane,lille,Undirected,1
+lille,lille Kristiane,Undirected,1
+Gud,Kristiane,Undirected,1
+Petersen,Ruth,Undirected,2
+Vestergaard,østergaard,Undirected,1
+Rolf Glahn,Vestergaard,Undirected,1
+Kage-Mette,Mette,Undirected,1
+Mette,Rolf Glahn,Undirected,1
+Høg,Mette,Undirected,3
+Høg,Rolf Glahn,Undirected,2
+KageMettes,Rolf,Undirected,1
+Judas,Rolf,Undirected,1
+Petersen,Rolf Glahn,Undirected,1
+Kristus,Pilatus,Undirected,2
+Rolf,trine,Undirected,1
+Glahn,Petersen,Undirected,1
+Karl,Rolf Glahn,Undirected,1
+Hans,Rolf Glahn,Undirected,2
+Petersen,Prangeren,Undirected,1
+Hans,Kain,Undirected,1
+Kage-Mette,Simon,Undirected,1
+Petersen,j,Undirected,2
+Johannes,Moses,Undirected,1
+Jesus,Johannes,Undirected,1
+Gud,Jesus,Undirected,2
+Gud,lian,Undirected,1
+Johannes,Judas,Undirected,1
+Johannes,Peter,Undirected,1
+Far Petersen,Petersen,Undirected,1
+Kristiane,Pilsnart,Undirected,1
+Golgathas,Kristus,Undirected,1
+Hans,Karlen,Undirected,1
+Karlen,Petersen,Undirected,1
+Emilie,Petersen,Undirected,1
+Hans,hviken Maade Petersen,Undirected,1
+Hans,Judas,Undirected,2

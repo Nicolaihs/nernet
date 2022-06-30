@@ -1,0 +1,260 @@
+source,target,type,weight
+Gravenhorsts,Johanne Alslev,Undirected,1
+Gravenhorsts,Gyldenskjolds,Undirected,1
+Andreas Borch,theol. Karl Hellmann,Undirected,1
+Alslev,Andreas Borch,Undirected,1
+Andreas Borch,Karl Hellmann,Undirected,20
+Borch,Hellmann,Undirected,2
+Borch,Karl Hellmann,Undirected,1
+Andreas Borch,Karl,Undirected,3
+Andreas,Karl,Undirected,2
+Andreas,Karl Hellmann,Undirected,1
+Borch,Karl,Undirected,1
+Karl Hellmann,Smidt,Undirected,1
+Karl,Smidt,Undirected,1
+Karl Hellmann,hans,Undirected,1
+Borch,Karl —,Undirected,1
+Borch,Skaal,Undirected,1
+Johanne,Skaal,Undirected,2
+Karl Hellmann,Skaal,Undirected,1
+Andreas,Johanne Alslev,Undirected,1
+Ambra,Andreas,Undirected,1
+Karl Forstmanden,Karl Hellmann,Undirected,1
+Johanne Alslev,Karl,Undirected,2
+.Karl Hellmann,Karl,Undirected,1
+Andreas,Platons,Undirected,1
+Madam Alslev,Peter Alslev,Undirected,1
+Malviria Orbech,Peter Alslev,Undirected,1
+Eader,Johanne,Undirected,1
+Goethes,Schillers,Undirected,1
+Madame de,Schillers,Undirected,1
+Madame de,Victor Hugo,Undirected,1
+Alfred de Vignys,Victor Hugo,Undirected,1
+Johanne,Johanne Alslev,Undirected,1
+Johanne,Malvina,Undirected,3
+Johanne,Mama,Undirected,1
+Alslev,kjøn,Undirected,1
+t,vina Alslev,Undirected,1
+Borrings,vina Alslev,Undirected,1
+Borrings,Peder Hjorts,Undirected,1
+Gaasen,Johanne,Undirected,1
+Johanne,Søren Kierkegaard,Undirected,1
+Gravenhorst,Søren Kierkegaard,Undirected,1
+Andreas Borch,Johanne,Undirected,14
+Alslev,Johanne,Undirected,2
+Alslev,Gud,Undirected,1
+Borch,Gud,Undirected,1
+Gud,Johanne,Undirected,3
+Borch,Johanne,Undirected,19
+Hr. Borch,Johanne,Undirected,3
+Borch,Johannes Røst,Undirected,1
+Johanne,Stundum,Undirected,1
+Goethe,Tanz,Undirected,1
+Goethe,Johanne,Undirected,1
+Hellmann,Karl Hellmann,Undirected,2
+Fahlgren,Karl Hellmann,Undirected,3
+Aurelia,Fahlgren,Undirected,1
+Karl Hellmann,l’,Undirected,1
+Peter Alslev,l’,Undirected,1
+Gud,Karl Hellmann,Undirected,1
+Frøken Aurelia,Gud,Undirected,1
+Gud,Karl,Undirected,4
+Johanne Alslev,Karl Hellmann,Undirected,2
+Andreas Borch,Johanne Alslev,Undirected,4
+Birthe,Karl,Undirected,2
+Candidatus philosophiæ,Hellmann,Undirected,1
+Fru Alslev,Johanne,Undirected,1
+Birthe,Gud,Undirected,3
+Birthe,Johanne,Undirected,1
+Frøken Fahlgren,Johanne,Undirected,2
+Frøken Fahlgren,Gud,Undirected,1
+Johanne,Karl Hellmann,Undirected,10
+Birthe,Karl Hellmann,Undirected,2
+Alma,Johanne,Undirected,1
+Alma,Stjernes,Undirected,1
+Henrik,Stjernes,Undirected,1
+Else,Henrik,Undirected,1
+Hagbarth,Signe,Undirected,1
+Karl Hellmann,Signe,Undirected,1
+Gud,lille Johanne,Undirected,1
+Gud,Johanne Alslev,Undirected,1
+Frøken,M. Alslev,Undirected,1
+Karl,P. Alslevs,Undirected,2
+Johanne,P. Alslevs,Undirected,1
+Fahlgren,P. Alslevs,Undirected,1
+Graad,Karl,Undirected,1
+Aurelia,Karl Hellmann,Undirected,4
+Aurelia,Karl,Undirected,1
+Gosens,Pak,Undirected,1
+Karl,Karl Hellmann,Undirected,2
+Andreas,Johanne,Undirected,4
+Johanne,Tante,Undirected,1
+Griesbachs,KAI,Undirected,1
+Abailard,t,Undirected,1
+Abailard,Arnold,Undirected,1
+Arnold,Francesco,Undirected,1
+Francesco,Franciscus,Undirected,1
+Francesco,Kristus,Undirected,1
+Abailard,HeloTse,Undirected,1
+HeloTse,Kristus,Undirected,1
+Kristus,Morten Luther,Undirected,1
+Franciscus,Morten Luther,Undirected,1
+Abailard,Franciscus,Undirected,1
+Karl Hellmann,Tante Aurelia,Undirected,1
+Conferenceraad Fahlgren,Gud,Undirected,4
+Birthe Mogensdatter,Carl,Undirected,1
+Birthe,Gravenhorst,Undirected,1
+Aurelia P. de Fahlgren,Birthe,Undirected,1
+G. A. Weis,Karl Hellmann,Undirected,1
+Aurelia Petronella de Fahlgren,Karl Hellmann,Undirected,1
+Karl Hellmann,Weis,Undirected,1
+Frøken de Fahlgren,de Fahlgrens,Undirected,1
+Aurelia,Tante Aurelia,Undirected,1
+Birthe,Tante Aurelia,Undirected,1
+Hr. Heilmann,Karl Hellmann,Undirected,1
+Holk,Karl Hellmann,Undirected,1
+Kaptejn Holk,Karl Hellmann,Undirected,1
+Kaptejn Holk,Karl,Undirected,1
+Hr. Hellmann,Husum,Undirected,1
+Bismarck,Napoleon,Undirected,1
+Nielsen,hem,Undirected,1
+Michael Wiehe,Nielsen,Undirected,1
+Karl Hellmann,Michael Wiehe,Undirected,1
+Hr. Husum,Karl Hellmann,Undirected,1
+Hauchs,Knud Lavard,Undirected,1
+Anders Svendsen,Ole Hansen,Undirected,1
+Egelund,Uhrmager Becker,Undirected,1
+Plougs,amarc,Undirected,1
+Hr. Husum,Rye,Undirected,1
+Ewald,Wessel,Undirected,1
+Gud,Wessel,Undirected,1
+Einar,Peter,Undirected,1
+Heigaard iberegnet,Peter,Undirected,1
+Heigaard,Svendsen,Undirected,1
+Bøghs,Kong Frederik,Undirected,1
+Gravenhorst,Ludvigsens,Undirected,1
+Olaf Rye,Svendsen,Undirected,1
+Jernstøber Lunds,Karl Hellmann,Undirected,1
+Andreas Borch,Frøken Alslev,Undirected,1
+Anna Lorenzen,Karl Hellmann,Undirected,1
+Johanne,Pommade,Undirected,1
+Alma Lund,Pommade,Undirected,1
+Alma Lund,Zimmermanns,Undirected,1
+Kaptejn Holk,Zimmermanns,Undirected,1
+Hellmann,Kaptejn Holk,Undirected,1
+Borch,Johanne Alslev,Undirected,1
+Adoltine,Madam,Undirected,1
+Grundtvigs,Karl,Undirected,1
+Karl Hellmann,Psalmes,Undirected,1
+Gud,Marie,Undirected,1
+Karl Hellmann,Kulos,Undirected,1
+Lale,bête,Undirected,1
+Droschken,Karl Hellmanhs,Undirected,1
+Karl Hellmann,Rafael,Undirected,1
+Kristus,Rafael,Undirected,1
+Frans den,Ludvigs,Undirected,1
+Filip den,Ludvigs,Undirected,1
+Filip den,Homers,Undirected,1
+Homers,Mazarins,Undirected,1
+Karl Hellmann,Mazarins,Undirected,1
+Griesbachs,Karl Hellmann,Undirected,1
+Karl Hellmann,Louis,Undirected,1
+Beatrice,Dante,Undirected,1
+Beatrice,Laura,Undirected,1
+Goethe,Laura,Undirected,1
+Friederike,Goethe,Undirected,1
+Route de Saint Sulpice,sagde'Karl Hellmann,Undirected,1
+Hellmann,Lui,Undirected,1
+Marius,galopin,Undirected,1
+Karl Hellmann,Sapristie,Undirected,1
+Hr. Hellmann,Sapristie,Undirected,1
+bien,votre,Undirected,1
+Souffler,bien,Undirected,1
+Marius,Mein Liebchen,Undirected,1
+Husum,Mein Liebchen,Undirected,1
+Ernest Renan,Kristus,Undirected,1
+Kristus,Madonna,Undirected,1
+Madonna,Maria Magdalene,Undirected,1
+O piissima,Ora,Undirected,1
+Erik Bøghs,Hellmann,Undirected,1
+'Pour Saint-Jacques,Karl Hellmann,Undirected,1
+Michael,Rafåels,Undirected,1
+Michael,Venus,Undirected,1
+Boldt,Gravenhorst,Undirected,1
+X,s,Undirected,1
+Y’,s,Undirected,1
+Taas,Y’,Undirected,1
+Andreas Borch,Peter Alslev,Undirected,1
+Andreas,Andreas Borch,Undirected,1
+Johanne,Olga,Undirected,22
+Andreas Borch,Olga,Undirected,1
+Hans kjønne,Karl,Undirected,1
+Borch,Olga,Undirected,2
+AdamHomo,Alma,Undirected,1
+Johanne,kjønt,Undirected,1
+Andreas,Borch,Undirected,2
+Borch,Marven,Undirected,1
+Andreas Borch,Fredriksborger,Undirected,1
+Gud,yéd,Undirected,1
+Andreas Borch,yéd,Undirected,1
+Borch,Karen,Undirected,1
+-Johanne,Johanne,Undirected,1
+Borch,Øl-Didrik,Undirected,1
+Karlen,Øl-Didrik,Undirected,1
+Andreas Borch,Mortmis,Undirected,1
+Johanne,Rafael,Undirected,2
+Arne,Karl Hellmann,Undirected,1
+Per,Povl,Undirected,1
+Gert Westphaler,Karl Hellmann,Undirected,1
+Gud,Petersen,Undirected,1
+Candidat,Jean de France,Undirected,1
+Hougaard,Karl Hellmann,Undirected,1
+Hr. Hougaard,Karl Hellmann,Undirected,2
+,Hestemøllers,Undirected,1
+,Skraa,Undirected,1
+Karl Hellmann,Vincent,Undirected,1
+Aurelia,Johanne,Undirected,1
+.,Andreas Borch,Undirected,1
+Karl Hellmann,theol. Brønnum,Undirected,1
+Kodans,Kong Kristian,Undirected,1
+Karl Hellmann,Toddy,Undirected,1
+Garfeld,Karl Hellmann,Undirected,2
+Hellmann,lille Olga,Undirected,1
+Garfeld,Olga,Undirected,1
+Garfeld,Ich sehe,Undirected,1
+Ich sehe,Setze,Undirected,1
+Setze,sitze,Undirected,1
+sasz,sitze,Undirected,1
+Olga,sasz,Undirected,1
+Hellmann,Olga,Undirected,8
+Andreas Borch,Johanne Borch,Undirected,1
+Gravenhorst,Johanne,Undirected,1
+Julie,Romeo,Undirected,1
+Gud,Olga,Undirected,2
+Dunstrand,Olga,Undirected,1
+Brorson,Olga,Undirected,1
+Ingemanns,Olga,Undirected,1
+Kong Lear,Kong tf Lear,Undirected,1
+Karl Hellmann,Olga,Undirected,5
+Faisant,Olga,Undirected,1
+Faisant,fesani,Undirected,1
+Hellmann,Johanne,Undirected,5
+Olga,\ril,Undirected,1
+Olga,Tys,Undirected,1
+Oehlenschlåger,Victor Hugo,Undirected,1
+Brønnums,Gud,Undirected,1
+Hr. Hellmann,Olga,Undirected,1
+Karl Hellmann,magisterii,Undirected,1
+Hellmann,Victor Hugo,Undirected,1
+Mérimée,Victor Hugo,Undirected,1
+Karl Hellmann,Kognakstoddy,Undirected,1
+Johanne,lille,Undirected,1
+Karl Hellmann,Mussets Proverbes,Undirected,1
+Mussets Proverbes,Rolla,Undirected,1
+Helge,Svava,Undirected,1
+Aurelia,Olga,Undirected,1
+Brønnum,Olga,Undirected,1
+Moder,num,Undirected,1
+Garfeld,Hellmann,Undirected,1
+Moll,Olga,Undirected,1
+Karl Hellmann,Mihi est,Undirected,1

@@ -1,0 +1,89 @@
+source,target,type,weight
+Aage Vinther,Vandas,Undirected,1
+Aage Vinther,Frøken Vanda,Undirected,2
+Frøken Vanda,Kancelliraad Vinthers,Undirected,1
+Aage,Kancelliraad Vinthers,Undirected,1
+Aage,Vanda,Undirected,82
+Aage,Wessel,Undirected,1
+Eilers,Vanda,Undirected,1
+Maries,Vanda,Undirected,1
+Marie,Maries,Undirected,1
+Aage,Marie,Undirected,5
+Marie,Vanda,Undirected,4
+Aage,liam,Undirected,2
+Aage Vinther,Vanda,Undirected,1
+Guds,Vanda,Undirected,1
+Vanda,ifjor,Undirected,1
+Aage,ifjor,Undirected,1
+Aage,Van-das,Undirected,1
+Palen,Van-das,Undirected,1
+liam,lians,Undirected,1
+hnn,lians,Undirected,1
+Gud,Vanda,Undirected,1
+Anna —,Vanda,Undirected,1
+Anna —,Hr. Aage Vinther,Undirected,1
+Niels,Petersens,Undirected,1
+Annas,Vanda,Undirected,1
+Annas,Glenten,Undirected,1
+Glenten,Vanda,Undirected,1
+Aage,Anna,Undirected,4
+Anna,Vanda,Undirected,3
+Anna,Marie,Undirected,1
+Vanda,ovei-,Undirected,1
+Holberg,Niels Klem,Undirected,1
+Niels Klem,Vanda,Undirected,5
+Aage,Niels,Undirected,2
+Anna,Niels,Undirected,2
+Bravo,Niels,Undirected,1
+Aage,Niels Klem,Undirected,18
+Aage,Holger Funch,Undirected,2
+Holger Funch,Vanda,Undirected,2
+Funch,Vanda,Undirected,2
+Anna,Holger Funch,Undirected,1
+Vanda,liun,Undirected,1
+Johan Ludvig Heibergs,Niels Klem,Undirected,1
+Aage,Klem,Undirected,6
+Niels Klem,liam,Undirected,2
+Klem,Vanda,Undirected,2
+Kellner,Niels Klem,Undirected,1
+Vanda,hans,Undirected,1
+Anna staa,Niels Klem,Undirected,1
+Anna,Anna staa,Undirected,1
+Dril,Vanda,Undirected,1
+Dril,Niels,Undirected,1
+Anna,Niels Klem,Undirected,1
+Aage,ban,Undirected,1
+Anna,Klem,Undirected,1
+Aage,ua,Undirected,1
+Anne,Vanda,Undirected,1
+Anna,Gud,Undirected,1
+Aage,Jaquetten,Undirected,2
+Niels,Vanda,Undirected,1
+Aage Vinther,Ida Hansen,Undirected,1
+Aage Vinther Vandas,Ida Hansen,Undirected,1
+Frøken Ida,Vanda,Undirected,1
+Aage,Frøken Ida,Undirected,1
+Aage,Hansen,Undirected,1
+Vanda,ove,Undirected,1
+Aage,ove,Undirected,1
+Aage,Hiin,Undirected,1
+Hiin,paany,Undirected,1
+Aage,lian,Undirected,1
+Vanda,lian,Undirected,1
+Anna,liun,Undirected,1
+Aage,liun,Undirected,1
+Vanda,ban,Undirected,2
+Kancelliraad Vinther,Vanda,Undirected,1
+Kafe,Vanda,Undirected,1
+Aage,sorn,Undirected,1
+Aage Vinther,Niels Klem,Undirected,1
+Aage,Aage Vinther,Undirected,1
+Aage,Nids,Undirected,1
+Klem,Nids,Undirected,1
+Hr. Vinther,Niels Klem,Undirected,1
+Niels Klem,allehaande,Undirected,1
+Niels Klem,Petersen,Undirected,1
+Klem,Niels Klem,Undirected,1
+Langben,Niels,Undirected,1
+Holger Funch,Niels Klem,Undirected,1
+Holger Funch,liam,Undirected,1

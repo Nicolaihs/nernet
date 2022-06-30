@@ -1,0 +1,75 @@
+source,target,type,weight
+From,Knud,Undirected,101
+Knud Knud,j,Undirected,1
+Knud,iblinde,Undirected,1
+Knud,Nielsen,Undirected,6
+Frits Nielsen,Nielsen,Undirected,1
+Frits,Knud,Undirected,9
+Frits,Helga,Undirected,11
+From,NieL,Undirected,1
+From,peine,Undirected,1
+From,Knud sér,Undirected,1
+From,Knud —,Undirected,3
+Arthur From,Knud —,Undirected,1
+Arthur From,Knud Lundby,Undirected,1
+Arthur,pan,Undirected,1
+JOLu,Knud,Undirected,1
+Knud,Knud From,Undirected,1
+From,Nielsen,Undirected,4
+Frits Nielsen,Knud,Undirected,2
+Knud,Lundby,Undirected,1
+L’,Nielsen,Undirected,1
+L’,Mønsted,Undirected,1
+From,Frøken Helgas,Undirected,1
+Frits,Nielsen,Undirected,1
+Frøken Helga,Knud,Undirected,4
+Knud —,Roes,Undirected,1
+Hr. Nielsen,Knud,Undirected,2
+L’,hombre,Undirected,1
+Knud,hombre,Undirected,1
+From,Helga,Undirected,13
+L’,hombren,Undirected,1
+Knud,Knud —,Undirected,2
+Helga,Knud,Undirected,60
+Knud,halvsov,Undirected,2
+Gud,Knud,Undirected,2
+Frits,Frøken Helga,Undirected,1
+From,Lundby,Undirected,1
+From,paany,Undirected,2
+Helga,Knud saa,Undirected,1
+Arthur,Bo,Undirected,1
+Arthur,Knud,Undirected,2
+Arthur,Lundby,Undirected,1
+E.,Helga,Undirected,1
+Knud,taust,Undirected,1
+Knud,tvers,Undirected,2
+From,tvers,Undirected,1
+From,j,Undirected,1
+From,Knud frivillig,Undirected,1
+From,Karl,Undirected,1
+Karl,Knud,Undirected,1
+Bauman,Helga,Undirected,1
+Hr. Bauman,Knud,Undirected,1
+Hr. From,Hr. Lundby,Undirected,2
+Hf. Froms,Knud,Undirected,1
+From,Gud,Undirected,1
+lille Peter,livis,Undirected,1
+J,lille Peter,Undirected,1
+Helga,Hellerupgaard,Undirected,1
+Helga,tvers,Undirected,1
+Hartmann,Schopenhauer,Undirected,1
+Knud,lian,Undirected,1
+From,taug,Undirected,1
+Per,Poul,Undirected,1
+Knud,Poul,Undirected,1
+From,Mønsted,Undirected,1
+Helga,Mønsted,Undirected,1
+Knud,Mønsted,Undirected,2
+From,Knud taug,Undirected,1
+Helga,Lundby,Undirected,1
+Knud,Lynsnart,Undirected,1
+Mønsted,Nielsen,Undirected,1
+Dokter Mønsted,From,Undirected,1
+From,S,Undirected,1
+From,g,Undirected,1
+Knud,g,Undirected,1

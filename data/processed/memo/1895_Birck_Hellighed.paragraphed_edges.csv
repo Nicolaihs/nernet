@@ -1,0 +1,307 @@
+source,target,type,weight
+Axel Barnekow,Kjørslen,Undirected,1
+Gud,Kjørslen,Undirected,1
+Ada,Gud,Undirected,3
+Ada,Axel,Undirected,26
+Axel,Papa,Undirected,5
+Ada,Papa,Undirected,2
+Ada,Kristian,Undirected,2
+Axel,Gud,Undirected,4
+Ada,Karl,Undirected,2
+Ada,Karlen,Undirected,1
+Axel,Karl,Undirected,1
+Gud,Karl,Undirected,1
+Husbond,Karlen,Undirected,1
+Axel,Karlen,Undirected,2
+Axel,Ingvar,Undirected,3
+Ada,Sommer,Undirected,2
+Axel,Ras,Undirected,1
+Ada,Ras,Undirected,1
+Axel,Borren,Undirected,1
+Borren,Ingvar,Undirected,2
+Axel,Jørgen,Undirected,4
+Andrea,Jørgen,Undirected,22
+Andrea,Axel,Undirected,1
+Frederik Hedebos,Jørgen,Undirected,1
+Grete,Jørgen,Undirected,3
+Frederik Hedebo,Grete,Undirected,2
+Andriette,Grete,Undirected,1
+Fanny Kirtzner,Jørgen,Undirected,1
+Fanny,Jørgen,Undirected,22
+Andrea,Fanny,Undirected,28
+Fanny,Grete,Undirected,1
+Jørgen,lille Fanny,Undirected,1
+Andrea,Fanny’,Undirected,1
+Ada,Jørgen,Undirected,3
+Ada,Fanny,Undirected,12
+Ada,Andrea,Undirected,2
+Andrea,Karl,Undirected,1
+Andrea,Karlen,Undirected,1
+Andrea,Ingvar,Undirected,26
+Andrea,Sommer,Undirected,1
+Gud,Pastor Sommer,Undirected,3
+Fanny,Sommer,Undirected,7
+Fanny,Hr. Killerup,Undirected,1
+Barbara Røgters,Fanny,Undirected,1
+Fanny,Ingvar,Undirected,31
+Jesus,Matthæi,Undirected,1
+Jesus,Satan,Undirected,1
+Gud,Satan,Undirected,1
+Gud,Jens,Undirected,1
+Barbara,Jens,Undirected,4
+Barbara,Pastor Sommer,Undirected,1
+Dagesen,Pastor Sommer,Undirected,1
+Dagesen,Jens Røgters,Undirected,1
+Barnekow,Jens,Undirected,3
+Tyras,Unkas,Undirected,3
+Unkas,trur,Undirected,1
+Jens,Jens Røgter,Undirected,5
+Ada,Barnekow,Undirected,9
+Axel,Barnekow,Undirected,2
+Ada,Jomfru Borrem,Undirected,1
+Axel,Stine Borren,Undirected,1
+Ada,lille Frue,Undirected,1
+Gud,Hr. Barnekow,Undirected,1
+Barnekow,Sommer,Undirected,5
+Gerda,Haldur,Undirected,5
+Jenny,Pastor Sommer,Undirected,7
+Barnekow,Jenny,Undirected,1
+Barnekow,Bayer,Undirected,1
+Bayer,Pastor Sommer,Undirected,1
+Martin,Pastor Sommer,Undirected,1
+Martin,Sommer,Undirected,1
+Jens Røgter,Martin,Undirected,1
+Ada,Jens,Undirected,1
+Haldur,Sommer,Undirected,1
+Ingvar,Jens,Undirected,1
+Amanda,Jens,Undirected,1
+Fru Sommer,Gud,Undirected,1
+Jens Røgter,Pastor Sommer,Undirected,1
+Kristus,Sommer,Undirected,1
+Karl,Sommer,Undirected,1
+Gud,Sommer,Undirected,1
+Ada,Pastor Sommer,Undirected,1
+Adam,Gud,Undirected,2
+Gud,Jesus Kristus,Undirected,1
+Jesus,Pilatus,Undirected,1
+Gud,Pilatus,Undirected,1
+Judas,Pilatus,Undirected,1
+Gud,Killerup,Undirected,1
+Ingvar,Jørgen,Undirected,8
+Andrea,Barnekow,Undirected,3
+Barnekow,Ingvar,Undirected,10
+Aaens,Ingvar,Undirected,1
+Hansorme,Ingvar,Undirected,1
+Barnekow,erien,Undirected,1
+Aaen,Barnekow,Undirected,1
+Fanny,Jens Røgter,Undirected,1
+Barnekow,Jens Røgter,Undirected,2
+Ada,Ingvar,Undirected,1
+Ingvar,Jomfru Borren,Undirected,5
+Andrea,Jomfru Borren,Undirected,2
+Barnekow,Fanny,Undirected,13
+Barnekow,Tyras,Undirected,2
+Axel,Fanny,Undirected,5
+Fanny,Hr. Barnekow,Undirected,1
+Fanny,Gud,Undirected,5
+Gud,Jørgen,Undirected,1
+Fanny,Gerda,Undirected,1
+Ada,Borren,Undirected,2
+Borren,strængt,Undirected,1
+Ada,Barbara,Undirected,2
+Jomfru Borren,riu,Undirected,1
+Amanda,riu,Undirected,1
+Amanda,Maren,Undirected,1
+Jøsses,Maren,Undirected,1
+Ada,Maren,Undirected,2
+Ras,itte,Undirected,1
+Jens Røgter,Jomfru Borren,Undirected,1
+Jomfru Borren,Maren,Undirected,4
+Barnekow,Maren,Undirected,1
+Hr. Barnekow,Jomfru Borren,Undirected,1
+Ras,Sommer,Undirected,1
+Barbara,Barnekow,Undirected,1
+Barbara,Jens Røgter,Undirected,1
+Ras,Ras Willassen,Undirected,1
+Ingvar,Sommer,Undirected,2
+Barbara,Jørgen,Undirected,2
+Barbara,Jøsses,Undirected,1
+blywe,saadden,Undirected,1
+Jørgen,blywe,Undirected,1
+Barbara,Ingvar,Undirected,2
+Barbara,Fanny,Undirected,1
+Fanny,Rasmus Willassen,Undirected,1
+Axel,lian,Undirected,1
+Ada,lian,Undirected,1
+Ada,Niels Jacobsen,Undirected,1
+Maren,janne dov,Undirected,1
+Borren,Mutter,Undirected,1
+Barnekow,lille Frue,Undirected,1
+Maren,lille Frue,Undirected,1
+Jens,Maren,Undirected,1
+Ada,Evadatter,Undirected,1
+Barnekow,Evadatter,Undirected,1
+Gud,Luther,Undirected,1
+Karl,Luther,Undirected,1
+Karl,Melanchthon,Undirected,1
+David,Sommer,Undirected,1
+Margarete,Sommer,Undirected,1
+Fanny,Margarete,Undirected,1
+Hr. Killerup,L’,Undirected,1
+Bodil,Pastor Sommer,Undirected,1
+Fanny,Jenny,Undirected,5
+Barnekow,Hr. Killerup,Undirected,2
+Barnekow,Rasmus Willassen,Undirected,1
+Hr. Killerup,Rasmus Willassen,Undirected,1
+Hr. Killerup,Willassens,Undirected,1
+Moses,Rasmus Willassen,Undirected,1
+Karl,Moses,Undirected,1
+Jesus,Karl,Undirected,1
+Jesus,Rasmus Willassen,Undirected,1
+Andrea,Hr. Killerup,Undirected,1
+Kong David,Rasmus Willassen,Undirected,1
+Rasmus Willassen,l,Undirected,1
+Killerup,l,Undirected,1
+Axel Barnekow,Henrik Løve,Undirected,1
+Axel,Axel Barnekow,Undirected,1
+Axel,Henrik,Undirected,12
+Henrik,Povl Møller,Undirected,1
+Henrik Løve,Jomfruen,Undirected,1
+Hennesy,Løve,Undirected,1
+Axel,Henrik Løve,Undirected,1
+Henrik,Solstraaleme,Undirected,1
+Axel,Fatter,Undirected,1
+Fatter,Henrik,Undirected,3
+Flun,Henrik,Undirected,2
+Flun,Løve,Undirected,2
+Henrik Løve,Jørgen,Undirected,1
+Jens Røgter,Jørgen,Undirected,1
+Jenny,Jens,Undirected,1
+Dorthe,Jenny,Undirected,1
+Cicerone,Jens,Undirected,1
+Jens,Løve,Undirected,4
+Jens Røgter,Jens Søgaard,Undirected,1
+Jens’,Løve,Undirected,1
+Henrik Løve,Jens,Undirected,1
+Fanny,Henrik,Undirected,1
+Gud,Ingvar,Undirected,5
+Andrea Etuiet,Fanny,Undirected,2
+Andrea,Andrea Etuiet,Undirected,1
+Andrea Etuiet,Ingvar,Undirected,1
+Henrik Løve,Ingvar,Undirected,1
+Fanny,Løve,Undirected,2
+Løve,Moppe,Undirected,1
+Henrik Love,Ingvar trevent,Undirected,1
+Barnekow,Ingwar,Undirected,1
+Jomfru Borren,Karl,Undirected,1
+Ingvar,Karl,Undirected,2
+Jenny,Sommer,Undirected,3
+Fanny,Pastor Sommer,Undirected,3
+Ada,age,Undirected,1
+Hr. Killerup,Løve,Undirected,1
+Fanny,Madam —,Undirected,1
+Gerda,Madam Killerup,Undirected,2
+Haldur,Madam Killerup,Undirected,1
+Haldur,Løve,Undirected,1
+Axel,Løve,Undirected,1
+Hr. Killerup,Valdemine,Undirected,1
+Barnekow,Løve,Undirected,1
+Borren,Fanny,Undirected,3
+Pastor Sommer,Sommer,Undirected,2
+Fanny,Karl,Undirected,1
+Dumrian,Karl,Undirected,1
+Dumrian,Gud,Undirected,1
+Hr. Callesen,Sommer,Undirected,2
+Principalens,Sommer,Undirected,1
+Jenny,Principalens,Undirected,1
+Callesen,Pastor Sommer,Undirected,1
+Napoleon,Sommer,Undirected,1
+Hr. Callesen,Napoleon,Undirected,1
+Callesen,Jensen,Undirected,1
+Moses,Pastor Sommer,Undirected,2
+Flan,Gud,Undirected,1
+Jenny,Madam Killerup,Undirected,1
+Madam Killerup,Mamas,Undirected,1
+Fanny,Søren Mikkelsen,Undirected,1
+Ingvar,Jenny,Undirected,2
+Andrea,strængt,Undirected,1
+anny,b’,Undirected,1
+Andrea,anny,Undirected,1
+Andrea,Pastor Sommer,Undirected,2
+Barbara,Jens’,Undirected,2
+Andrea,Barbara,Undirected,1
+Filur,Hr. Callesen,Undirected,1
+Barnekow,Filur,Undirected,1
+Ada,Jomfru Borren,Undirected,1
+Fanny,Magdalene,Undirected,1
+Fanny,Fru Hejbergs,Undirected,1
+Fanny,Jomfru Borren,Undirected,3
+Fanny,Fanny skoggerlo,Undirected,1
+Ingvar,Jomfru,Undirected,1
+Borren,Jomfru,Undirected,1
+Maren,jane dov,Undirected,2
+aa,jane dov,Undirected,1
+Maren,aa,Undirected,1
+Jørgen,Maren,Undirected,1
+Borren,Kavaj,Undirected,1
+Barnekow,Dyvelsdræk,Undirected,1
+Davesen,a,Undirected,1
+Jørgen,jane dov,Undirected,1
+Barnekow,L’,Undirected,1
+Beneblet,Borren,Undirected,1
+JVu,Jørgen,Undirected,1
+Andrea,Gud,Undirected,2
+Frederik Hedebo,Jørgen,Undirected,1
+Andrea,lille Fa,Undirected,1
+Fanny,hans,Undirected,1
+Gud,Jesus,Undirected,2
+Aaen,Jesus,Undirected,1
+Barnekow,Pastor Sommer,Undirected,2
+Barnekow,Killerup,Undirected,1
+Fanny,Killerup,Undirected,1
+Jomfru Borren,lusbondes,Undirected,1
+Killerup,Kristian Petersen,Undirected,1
+Killerup,Kristian,Undirected,1
+Andrea,Tubal Kajn,Undirected,1
+Jørgen,Skomagerens,Undirected,1
+Pastor Petersens,Skomagerens,Undirected,1
+Gerda,Morbroder,Undirected,1
+Haldur,Morbroder,Undirected,1
+.Haldur,Papa,Undirected,1
+Borren,Marie Gregers,Undirected,1
+Barnekow,Borren,Undirected,1
+Christian,Gud,Undirected,2
+Fru Sommer,Jomfru Borren,Undirected,1
+Løve,lendes,Undirected,1
+madame vilde dinere,monsieur,Undirected,1
+monsieur,monsieur le directeur,Undirected,1
+Hannibals,Silferstolpes,Undirected,1
+erinra Mamsellens,vara,Undirected,1
+Pastor Sommer,hans,Undirected,1
+Fånny,lian,Undirected,1
+Barnekow,Gud,Undirected,2
+Barnekow,Born,Undirected,1
+Killerup,Sprichwort,Undirected,1
+Madame Ambré,Monsieur,Undirected,1
+Løve,madame,Undirected,1
+Løve,Valdemine,Undirected,1
+Karl,Killerup,Undirected,1
+Jomfru Borren,Sommer,Undirected,1
+Borren,Jomfru Borren,Undirected,1
+Borren,Pastor Sommer,Undirected,1
+Borren,Jenny medindbefattet,Undirected,1
+Fanny,Jenny medindbefattet,Undirected,1
+Callesen,Jenny,Undirected,1
+Axel Barnekow,Pastor Sommer,Undirected,1
+Gud,Jenny,Undirected,1
+Jesus,Kristus,Undirected,1
+Pastor Sommer,lian,Undirected,1
+Karl,Ritmesterens,Undirected,1
+Karlen,dier,Undirected,1
+Anton Melby,Pastor Sommer,Undirected,1
+Anton Melby,Fr. Sørensen,Undirected,1
+Devil,Fanny Kirtzner,Undirected,1
+Jenny,Karlen,Undirected,1
+Dagesen,Sommer,Undirected,1
+Jens Røgter,Maren,Undirected,1
+Ingvar,Maren,Undirected,1

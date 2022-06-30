@@ -1,0 +1,261 @@
+source,target,type,weight
+Georg Brandes,Louis Pio,Undirected,1
+Brandes,Louis Pio,Undirected,2
+Gerda,lille Gerda,Undirected,1
+Gerda,Nora,Undirected,161
+Jensen,Jørgensen,Undirected,4
+Grethe,Jørgensen,Undirected,2
+Grethe,Jensen,Undirected,1
+Nora,lille Gerda,Undirected,3
+Gerda,Hr. Jørgensen,Undirected,1
+Harald,Winberg,Undirected,2
+Christian,Winberg,Undirected,1
+Ellen,Winberg,Undirected,1
+Gerda,Jørgensen,Undirected,9
+Gerda,Johan,Undirected,6
+Johan,Nora,Undirected,22
+Goethe,Johan,Undirected,2
+Johan,Øhlenschlægers,Undirected,1
+Goethe,Jesus,Undirected,1
+Jesus,Peder,Undirected,4
+Jesus,Johan,Undirected,3
+Fedteniels,Hr. Nielsen,Undirected,1
+Jørgensen,Nora,Undirected,6
+Gerda,Winberg,Undirected,8
+Jørgensen,Winberg,Undirected,1
+Jensen,lille Nora,Undirected,1
+Madam Jensen,Martha,Undirected,1
+Jensen,Madam Jensen,Undirected,1
+Jensen,Martha,Undirected,6
+Johan,Madam Jensen,Undirected,1
+Madam Jensen,Nora,Undirected,1
+Johan,Skomager Christensen,Undirected,1
+Johan,Martha,Undirected,1
+Nora,Tosse-Johan,Undirected,2
+Gerda,Gerda Marie Jørgensen,Undirected,1
+Jensen,Lars Larsen,Undirected,2
+Jensen,Madam Larsen,Undirected,3
+Lars Larsen,Nora,Undirected,1
+Madam Larsen,Nora,Undirected,8
+Larsen,Madam Larsen,Undirected,2
+Larsen,Nora,Undirected,4
+Jensen,Larsen,Undirected,1
+Nora,Taa,Undirected,1
+Elenora Sofie Jensen,Gerda Marie Jørgensen,Undirected,1
+Elenora Sofie Jensen,Madam Larsen,Undirected,1
+Jensen,Johan,Undirected,1
+Jensen,Nora,Undirected,9
+Gerda,Harald Winberg,Undirected,5
+Gerda,Harald,Undirected,7
+Harald Winberg,Jørgensen,Undirected,1
+Martha,Nora,Undirected,8
+Madamen,Nora,Undirected,1
+Madamen,tom,Undirected,1
+Gerda —,Nora,Undirected,1
+Madam Larsen,lille Nora,Undirected,1
+Madamen,Peter Jensen,Undirected,1
+Gud,Nora,Undirected,6
+Gud,véd,Undirected,3
+Gerda,véd,Undirected,1
+Bianca Hoffmann,Oline Hansen,Undirected,1
+Julie,Oline Hansen,Undirected,1
+Bianca,Oline,Undirected,2
+Julie,Oline,Undirected,3
+Julie,Line,Undirected,1
+Bianca,Gerda,Undirected,1
+Bianca,Julie,Undirected,1
+Nora,Oline,Undirected,1
+Mo,Nora,Undirected,2
+Gerda,Mo,Undirected,2
+Jomfru Clausen,Jomfru Jensen,Undirected,1
+Nora,Petersen,Undirected,62
+Nora,Svend,Undirected,1
+Petersen,Svend,Undirected,2
+Hr. Petersen,Johan,Undirected,1
+Johan,Petersen,Undirected,9
+Marie,Pjerrot,Undirected,5
+Johan,Pjerrot,Undirected,1
+Gerda,Petersen,Undirected,3
+Madam Petersen,Petersen,Undirected,2
+Madam Petersen,Nora,Undirected,2
+Madam Petersen,Peter,Undirected,1
+Frøken Møller,Nora,Undirected,5
+Davidsen,Nora,Undirected,3
+Davidsen,Valborg,Undirected,3
+Davidsen,Etatsraad Davidsen,Undirected,1
+Frøken Jensen,Nora,Undirected,1
+Bloch,Nielsen,Undirected,6
+Davidsen,Hansen,Undirected,1
+Davidsen,Valborg Hansen,Undirected,2
+Bloch,Nora,Undirected,44
+Bloch,Frøken Jensen,Undirected,4
+Frøken Jensen,Frøken Møller,Undirected,1
+Frøken Møller,Jensen,Undirected,1
+Davidsen,kaad,Undirected,1
+-,Frøken Hansen,Undirected,1
+-,Bloch,Undirected,1
+Bloch,Frøken Nora,Undirected,1
+Frk. Møller,Nora,Undirected,27
+Kellneren,Nora,Undirected,1
+Blocks,Nora,Undirected,1
+Nielsen,Valborg,Undirected,1
+Frøken Møller,Nielsen,Undirected,1
+Block,Frøken Møller,Undirected,1
+Block,Nora,Undirected,3
+Block,Kusken,Undirected,1
+Gerda,Plyds,Undirected,2
+Frk. Jensen,Gerda,Undirected,2
+Frk. Jensen,H. Bloch,Undirected,1
+Bloch,Frk. Møller,Undirected,7
+Bloch,Gud,Undirected,1
+Hr. Bloch,Nora,Undirected,2
+Gerda,Hr. Bloch,Undirected,1
+Frøken Møller,Løjtnant Nielsen,Undirected,1
+Bloch,Toddy,Undirected,1
+Nora,Toddy,Undirected,1
+Bloch,Petersen,Undirected,8
+Bloch,Gerda,Undirected,4
+Frk. Møller,Valborg Hansen,Undirected,1
+Bloch,Frøken Møller,Undirected,1
+Dyveke,Tove,Undirected,7
+Dyveke,Valdemar den stores,Undirected,1
+Kristian den,Valdemar den stores,Undirected,1
+Kristian den,Tove,Undirected,1
+Dyveke,Kong Kristians,Undirected,1
+Kong Kristians,Tove,Undirected,1
+Tove,Valdemars,Undirected,1
+Valdemar den store,Valdemars,Undirected,1
+Kristian den,Valdemar den store,Undirected,1
+Frøken Jensen,Kristian den,Undirected,1
+Bloch,Dyveke,Undirected,1
+Nielsen,Nora,Undirected,7
+Frk. Møller,Tove,Undirected,1
+Dyveke,Gud,Undirected,1
+Bloch,Davidsen,Undirected,4
+Davidsen,Frk. Hansen,Undirected,1
+Frk. Møller,Nielsen,Undirected,7
+Davidsen,Nielsen,Undirected,1
+Nielsen,Spielhagens,Undirected,1
+Nielsen,Valborg Hansen,Undirected,1
+Nora,hvidskede Bloch,Undirected,1
+Hr. Nielsen,Nora,Undirected,1
+Frøken Møller,Hr. Nielsen,Undirected,1
+Frk. Møller,Johan,Undirected,1
+Gerda,Martha,Undirected,1
+Jensen,Petersen,Undirected,1
+Frk. Møller,Gud,Undirected,2
+Gerda,Thyra,Undirected,1
+Gorm,Thyra,Undirected,1
+Frk. Møller,Gerda,Undirected,2
+Frk. Møller,Svendsen,Undirected,6
+Nora,Svendsen,Undirected,31
+Frk. Thomsen,Storkenskjold,Undirected,1
+Frk.Thomsen,Kellner,Undirected,1
+Frk. Thomsen,Hr. Jokumsen,Undirected,1
+Frk. Ludvigsen,Svendsen,Undirected,3
+Jokumsen,Sardin,Undirected,1
+Frk. Thomsen,Sardin,Undirected,1
+Frk. Thomsen,Jokumsen,Undirected,2
+Constance,Frk. Ludvigsen,Undirected,1
+Frk. Ludvigsen,Jokumsen,Undirected,3
+Frk. Møller,Hr. Jokumsen,Undirected,2
+Frk. Møller,Jokumsen,Undirected,2
+Constance,Jokumsen,Undirected,1
+Frk. Jensen,Svendsen,Undirected,1
+Harald Winberg,Nora,Undirected,8
+Harald,Nora,Undirected,10
+Nora,Winberg,Undirected,4
+Frk. Møller,Petersen,Undirected,5
+Gaasepige,Gertrud,Undirected,1
+Frk. Jensen,Gaasepige,Undirected,1
+Bloch,Harald,Undirected,1
+Gertrud,Titus Brandstok,Undirected,1
+Barber Svendsen,Gertrud,Undirected,1
+Barber Svendsen,Titus,Undirected,1
+Nora,Titus,Undirected,1
+Frk. Thomsen,Nora,Undirected,1
+Jokumsen,Svendsen,Undirected,3
+Bloch,véd,Undirected,1
+Petersen,Svendsen,Undirected,14
+Nora,Vals,Undirected,1
+Nora,véd,Undirected,1
+Bloch,Marie,Undirected,1
+Gerda,Gud,Undirected,2
+Gud,Hr. Bloch,Undirected,1
+Agnete,Nora,Undirected,1
+Marie,Nora,Undirected,12
+Eddison,Gud,Undirected,2
+Frk. Jensen,Marie Petersen,Undirected,1
+Hansen,Marie Petersen,Undirected,2
+Bloch,Marie Petersen,Undirected,1
+Bloch,Mathilde Hansen,Undirected,2
+Frk. Møller,Hr. Bloch,Undirected,1
+Frk. Hansen,Frk. Møller,Undirected,1
+Frk. Hansen,Hr. Bloch,Undirected,3
+Marie Petersen,Mathilde Hansen,Undirected,1
+Bloch,Hr. Bloch,Undirected,1
+Nora,istaa,Undirected,1
+Magdalene,Nora,Undirected,1
+Gerda,Magdalene,Undirected,1
+Frk. Møller,Frk. Thomsen,Undirected,2
+Frk. Thomsen,Meyer,Undirected,1
+Meyer,Svendsen,Undirected,1
+Møller,Nora,Undirected,2
+Jokumsen,Nora,Undirected,3
+Frk. Jensen,Hr. Jokumsen,Undirected,1
+Frk. Jensen,Jokumsen,Undirected,4
+Gimle,Meyer,Undirected,1
+Meyer,Pilsner,Undirected,1
+Frk. Jensen,Pilsner,Undirected,1
+Frk Jensen,Nora,Undirected,1
+Frk. Ludvigsen,Nora,Undirected,1
+L.,slaar,Undirected,1
+Frk Ludvigsen,slaar,Undirected,1
+Bravo,Nora,Undirected,1
+Frk. Jensen,Frk. Møller,Undirected,1
+Jokumsen,ganze,Undirected,1
+Frk. Jensen,Skomager Petersen,Undirected,2
+Cæsars,Veni vidi vici,Undirected,1
+Cæsar,Veni vidi vici,Undirected,2
+Cæsar,Jokumsen,Undirected,2
+Frøken Thomsen,Jokumsen,Undirected,1
+Cæsar,Hr. Svendsen,Undirected,1
+Gertrud Gaasepige,Hr. Svendsen,Undirected,1
+Cæsar,Frk. Møller,Undirected,1
+Frøken Jensen,Jokumsen,Undirected,1
+Petersen,Skaal,Undirected,2
+Frk. Jensen,Skaal,Undirected,1
+Hr. Jokumsen,Skaal,Undirected,1
+Madam Mikkelsen,Nora,Undirected,14
+Petersen,Petrine,Undirected,1
+Nora,Petrine,Undirected,1
+Mo’,Petersen,Undirected,1
+Madam Mikkelsen,Petrine,Undirected,1
+Frk. Jensen,Petersen,Undirected,2
+Frøken Jensen,Svendsen,Undirected,1
+Frøken Jensen,Petersen,Undirected,2
+Kirsten Pils,Svendsen,Undirected,1
+Gud,Madam Mikkelsen,Undirected,1
+Fader,Nora,Undirected,1
+Larsen,Martha,Undirected,1
+Gerda,Graad,Undirected,1
+Graad,Nora,Undirected,1
+Md. Mikkelsen,Nora,Undirected,1
+Johan,Larsen,Undirected,1
+Johan,Svendsen,Undirected,1
+Gimle,Svendsen,Undirected,1
+P. Svendsen,Svendsen,Undirected,2
+Nora,hans Svend,Undirected,1
+Broschen,Nora,Undirected,1
+Hansen,Nora Jensen,Undirected,1
+Gerda,Nora Jensen,Undirected,1
+Bloch,Harald Winberg,Undirected,1
+Bloch,Svendsen,Undirected,1
+Svendsen,Winberg,Undirected,5
+Svendsen,Svogeren,Undirected,1
+Hr. Winberg,Svendsen,Undirected,1
+Gerda,Svendsen,Undirected,2
+Frk. Jensen,Nora,Undirected,1
+Barber Svendsen,Nora,Undirected,1
+Gerda,lille Nora,Undirected,1
+Hr. Jørgensen,lille Nora,Undirected,1

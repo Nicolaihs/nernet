@@ -1,0 +1,46 @@
+source,target,type,weight
+Paul,Stakkars,Undirected,1
+Kristiern,Paul,Undirected,1
+mama,papa,Undirected,3
+Gud,papa,Undirected,1
+Larsen,Møhl,Undirected,1
+Møhl,Vilhelmsen,Undirected,8
+Vilhelmsen,vos,Undirected,1
+Larsen,jæ,Undirected,1
+Kyperen,Larsen,Undirected,1
+Kyperen,Møhl,Undirected,1
+Immanuel,Møhl,Undirected,4
+Møhl,karlen,Undirected,1
+Immanuel,Trine,Undirected,1
+Immanuel,greja,Undirected,1
+Møhl,karen,Undirected,1
+Møhl,Svendsen,Undirected,1
+Svendsen,briljant,Undirected,1
+Holm,Møhl,Undirected,8
+Birkelund,Hansen,Undirected,1
+Hansen,klinked,Undirected,1
+.,Hs,Undirected,1
+Høyberg,tyssed,Undirected,1
+Høyberg,max,Undirected,1
+Terkildsen,Vilhelmsen,Undirected,1
+Vilhelmsen,hr. Brøndum,Undirected,1
+Jakobsen,bjørn,Undirected,1
+Møhl,fraNorje,Undirected,1
+Pjalter,gud,Undirected,1
+Jacobsen,Møhl,Undirected,2
+Holm,Lilly,Undirected,2
+Holm,Vilhelmsen,Undirected,1
+Møhl,lo,Undirected,1
+Holm,Weber,Undirected,2
+Lilly,Weber,Undirected,2
+Lilly,Møhl,Undirected,2
+Lilly,toddy,Undirected,1
+J. F. Møhl,gud,Undirected,1
+Johnson,gud,Undirected,1
+Møhl,Trine,Undirected,2
+Vilhelmsen,tom —,Undirected,1
+Vilhelmsen,skulde én,Undirected,1
+Vilhelmsen,laban,Undirected,3
+Lilly Holm,kanske,Undirected,1
+Immanuel,Vilhelmsen,Undirected,1
+Immanuel,frk. Holm,Undirected,1

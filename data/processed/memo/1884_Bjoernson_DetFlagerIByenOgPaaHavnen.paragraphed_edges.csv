@@ -1,0 +1,971 @@
+source,target,type,weight
+Curt,Kurt,Undirected,1
+Claus Mathiassøn,Curt,Undirected,3
+Claus Mathiassøn,Curt hannem,Undirected,1
+Claus,Curt hannem,Undirected,1
+Claus,hannem,Undirected,1
+hannem,joeg,Undirected,1
+Ectehustru,joeg,Undirected,1
+Ectehustru,hindes,Undirected,1
+Villies,hindes,Undirected,1
+Mariæ,Villies,Undirected,1
+Mariæ,gick,Undirected,1
+Curt,gick,Undirected,5
+Curt,riis,Undirected,1
+Hans,riis,Undirected,1
+Fürst,Hans,Undirected,1
+Fürst,torde,Undirected,1
+Curt,torde,Undirected,1
+Bernhard v. Kliiwer,Curt,Undirected,1
+Bernhard v. Kliiwer,hannem,Undirected,1
+Hannem,hannem,Undirected,1
+Curt,Hannem,Undirected,1
+Curt,Iland,Undirected,1
+Folck tenckte,Iland,Undirected,1
+Folck tenckte,hans folck,Undirected,1
+hannem,hans folck,Undirected,1
+fick frøickenen,hannem,Undirected,1
+Ulrich Frederich Gtildenløve,fick frøickenen,Undirected,1
+Ulrich Frederich Gtildenløve,kong Frederich,Undirected,1
+Claus Mathiassen,kong Frederich,Undirected,1
+Claus Mathiassen,Curt,Undirected,2
+Curt,Ingeborg Clausdotter,Undirected,1
+Ingeborg Clausdotter,ecte,Undirected,1
+Curt,ecte,Undirected,1
+Curt,Søren Rasmussen,Undirected,1
+Søren Rasmussen,fick,Undirected,1
+blef,fick,Undirected,1
+Ingeborg,blef,Undirected,1
+Claus Mathiassen,Ingeborg,Undirected,1
+Curt,hannem,Undirected,9
+deris,hannem,Undirected,1
+Curt,deris,Undirected,2
+Curt hafde,gick,Undirected,2
+Georg v.,gick,Undirected,1
+Curt,Georg v.,Undirected,1
+Curt,Spitzbube,Undirected,1
+Spitzbube,hielpte Curt,Undirected,1
+fick,hielpte Curt,Undirected,1
+Curt,Gamble Claus,Undirected,1
+Curt,d,Undirected,1
+d,hofve,Undirected,1
+Claus Mathiassøn,hofve,Undirected,1
+hand,hannem,Undirected,2
+Claus Mathiassøn,hannem,Undirected,3
+Claus Mathiassøn,dissimillom,Undirected,1
+dissimillom,fick,Undirected,1
+bref,fick,Undirected,1
+Curt,bref,Undirected,1
+aid Skofven,verck,Undirected,1
+Curt,verck,Undirected,1
+Curt,Flan,Undirected,1
+Flan,Saug Werck,Undirected,1
+arfveførste,blefven,Undirected,1
+Kong Christian den 5te,arfveførste,Undirected,1
+Kong Christian den 5te,høysalig,Undirected,1
+Hand,høysalig,Undirected,1
+Hand,Størcke,Undirected,2
+Hand,sofvit,Undirected,1
+høysalig,sofvit,Undirected,1
+høysalig,kong Christian,Undirected,1
+Curt,kong Christian,Undirected,1
+Curt,hiem,Undirected,1
+hiem,rifves,Undirected,1
+gick,iverck,Undirected,1
+fick,iverck,Undirected,1
+Sancta Maria,fick,Undirected,1
+Curt,Sancta Maria,Undirected,2
+Curt,mact,Undirected,1
+Curt,sigis,Undirected,1
+Curt,Folck,Undirected,6
+fick,hannem,Undirected,2
+Adler,Curt,Undirected,5
+Adler,Cort Adler,Undirected,1
+Cort Adler,Curt,Undirected,1
+Curt,Nafn,Undirected,3
+Curt,sof,Undirected,1
+Adler,sof,Undirected,1
+Curt,Tornet,Undirected,1
+Tornet,gick,Undirected,1
+gick,teigl-steen,Undirected,1
+Saaledis,teigl-steen,Undirected,1
+Curt,Saaledis,Undirected,1
+Curt,blef,Undirected,2
+Skoufven,blef,Undirected,1
+Curt,Skoufven,Undirected,1
+Curt,øfrigt,Undirected,1
+mercker,øfrigt,Undirected,1
+hinders,mercker,Undirected,1
+Mercker,hinders,Undirected,1
+Curt,Mercker,Undirected,1
+Curt,ieg,Undirected,1
+ieg,it Molteber,Undirected,2
+Sieur van Geelmuyden,ieg,Undirected,1
+Curt,Sieur van Geelmuyden,Undirected,1
+Curt,hender,Undirected,2
+Curt,Ingeborg Curt,Undirected,1
+Folck,Ingeborg Curt,Undirected,1
+Curt,Curt van,Undirected,1
+Curt van,Geelmuyden,Undirected,1
+Geelmuyden,Iland,Undirected,1
+Iland,fiduce,Undirected,1
+fick,fiduce,Undirected,1
+Jersin,fick,Undirected,1
+Curt,Jersin,Undirected,1
+-nys,Curt,Undirected,2
+Curt,Niels Ingebrechtsøn,Undirected,2
+Folck,blef,Undirected,1
+Curt,Patroner,Undirected,2
+Curt,meenige,Undirected,1
+Curt,hans,Undirected,2
+hannem,karl,Undirected,1
+Curt,karl,Undirected,1
+Curt,Curt sijt Lif,Undirected,1
+Gud,lorden,Undirected,2
+Curt,Owe Gude,Undirected,2
+Adler,Max,Undirected,6
+Adler,gick,Undirected,2
+Adler,hannem,Undirected,2
+Adler,tyck,Undirected,1
+Saaledis,tyck,Undirected,1
+Folck,Saaledis,Undirected,1
+Adler,Torbiørn Christoffersen,Undirected,2
+Adler,Christian den,Undirected,1
+Christian den,Kong Frederich,Undirected,1
+Adler,giord,Undirected,1
+carrosse,giord,Undirected,1
+Adler,seis,Undirected,2
+Torbiørn Christoffersen,fick,Undirected,1
+Adler,fick,Undirected,1
+Adler,Lof,Undirected,1
+Lof,Panter,Undirected,1
+Torbiørn,stoffersen,Undirected,1
+Adler,stoffersen,Undirected,1
+Max,alskiøns,Undirected,1
+Torbiørn Christoffersen,alskiøns,Undirected,1
+Torbiørn Christoffersen,ieg,Undirected,1
+Max,ieg,Undirected,4
+Gud,Max,Undirected,2
+Gud,blefven,Undirected,1
+Sancta Maria,blefven,Undirected,1
+Arf,Curt,Undirected,1
+Arf,ieg,Undirected,1
+Drick,ieg,Undirected,1
+Drick,Martins,Undirected,1
+Martins,Max,Undirected,1
+hannem,ieg,Undirected,1
+Gud,hannem,Undirected,2
+Curt,Max,Undirected,1
+Max,hannem,Undirected,7
+Max,s,Undirected,3
+Nafn,s,Undirected,1
+Max,Nafn,Undirected,1
+Willie,ieg,Undirected,1
+Willie,hannem,Undirected,1
+Kircke,fick,Undirected,1
+Kircke,Stycker,Undirected,1
+Stycker,hannem,Undirected,1
+gick,hannem,Undirected,1
+Steen,gick,Undirected,1
+Carl Brandenburg,Steen,Undirected,1
+Carl Brandenburg,Iland,Undirected,1
+Christiane,Iland,Undirected,1
+Christiane,Max,Undirected,1
+Christiane,s,Undirected,1
+Christiane,æcte,Undirected,1
+Carl Brandenburg,æcte,Undirected,1
+Carl Brandenburg,Gud,Undirected,1
+Gud,hiem,Undirected,1
+Carl Brandenburg,hiem,Undirected,1
+fick,ieg,Undirected,2
+Sarah Andersens,fick,Undirected,1
+Heinrich Arendt,Sarah Andersens,Undirected,2
+Heinrich Arendt,hannem,Undirected,1
+Max,Sarah,Undirected,1
+Kircke,Sarah,Undirected,1
+Heinrich Arendt,Kircke,Undirected,1
+Max,Sarah Andersens,Undirected,1
+Gud,saaledis,Undirected,1
+Max,saaledis,Undirected,1
+hannem,s,Undirected,1
+Nyaar,hannem,Undirected,1
+Nyaar,lonsock,Undirected,1
+Max,lonsock,Undirected,1
+Ane Trulsdotter,Max,Undirected,1
+Ane Trulsdotter,Carstens,Undirected,1
+Carstens,Nille Monsdotter,Undirected,1
+Nille Monsdotter,Paavelsens,Undirected,1
+Ane Raadmand,Paavelsens,Undirected,1
+Paavelsens,gick,Undirected,1
+Max,gick,Undirected,1
+Arfvinger,Max,Undirected,1
+Arfvinger,fick,Undirected,1
+dennem,fick,Undirected,2
+Folck,fick,Undirected,1
+Folck,prædicke,Undirected,1
+Max,prædicke,Undirected,1
+Lifsens,Max,Undirected,2
+Max,mact,Undirected,1
+Anders,Anders Rødnæse,Undirected,1
+Anders Rødnæse,Budsticke,Undirected,1
+Anders,Budsticke,Undirected,1
+Anders,Max,Undirected,1
+Anders gick,hånd,Undirected,1
+Max self,hånd,Undirected,1
+Max self,stengis,Undirected,1
+Folck,gantske,Undirected,1
+Max,gantske,Undirected,1
+Max,hvilckit,Undirected,1
+hvilckit,la,Undirected,1
+Thomasius,la,Undirected,1
+Max,Thomasius,Undirected,1
+Max,Mercke,Undirected,1
+Stycke,ieg,Undirected,2
+Aadel Knutsdotters,ieg,Undirected,1
+Aadel Knutsdotters,Gud,Undirected,1
+Birgitte Mogensdotter,Gud,Undirected,1
+Birgitte Mogensdotter,salig Aadel gick,Undirected,1
+Bryllopet,salig Aadel gick,Undirected,1
+Birgitte,Bryllopet,Undirected,1
+Birgitte,Qvindfolck,Undirected,1
+Qvindfolck,stærcke,Undirected,1
+Mogens Mauritius,stærcke,Undirected,1
+Drick,Mogens Mauritius,Undirected,1
+Drick,hannem,Undirected,1
+døf,hannem,Undirected,1
+døf,it,Undirected,1
+Fiaan,it,Undirected,1
+hannem,hvilcke,Undirected,2
+hannem,hielpte Folck,Undirected,1
+hafver,hielpte Folck,Undirected,1
+hafver,ieg,Undirected,1
+dref,ieg,Undirected,1
+Gewindst,dref,Undirected,1
+Gewindst,hannem,Undirected,1
+Curt,Gud,Undirected,1
+Max,deris,Undirected,1
+Claus Mathiassøn,Max,Undirected,1
+Claus Mathiassøn,Nafn,Undirected,1
+Nafn,blef,Undirected,1
+Niels Ingebrechtsøn,iland,Undirected,1
+Niels,iland,Undirected,1
+Niels,hannem,Undirected,1
+Huli,Konrad Kurt,Undirected,2
+Konrad Kurt,kurt,Undirected,2
+Konrad Kurt,Kurt,Undirected,4
+Kurt,panne,Undirected,2
+Gutten,Konrad Kurt,Undirected,1
+Green,Gutten,Undirected,1
+Green,gutten,Undirected,1
+Konrad,gutten,Undirected,1
+Konrad,Kurt,Undirected,1
+Green,Kurt,Undirected,4
+Green,Konrad Kurt,Undirected,1
+Green,laban,Undirected,2
+Gutten,hækker,Undirected,1
+Gutten,gutten,Undirected,2
+John —,gutten,Undirected,1
+John —,Kurt —,Undirected,1
+John,Kurt —,Undirected,1
+John,gutten,Undirected,6
+Kurt’,æn John Kurt,Undirected,1
+Gutten,John,Undirected,2
+Andreas Berg,John,Undirected,1
+Andreas Berg,Kurt,Undirected,2
+John,tillits-full,Undirected,1
+John,Kanske,Undirected,1
+Gutten,Kanske,Undirected,1
+bent ner,gutten,Undirected,1
+bent ner,storskrek,Undirected,1
+Jora,jora,Undirected,1
+John Kurt,hét Tomasine Rendalen,Undirected,1
+Rendalen,hét Tomasine Rendalen,Undirected,1
+Mariane,Rendalen,Undirected,1
+Mariane,Tomasine,Undirected,5
+Hennes,pince-nez,Undirected,1
+Hennes,Kanske,Undirected,1
+John Kurt,hennes,Undirected,1
+hennes,j’,Undirected,1
+j’,oppi,Undirected,1
+hanna,oppi,Undirected,1
+hanna,henne,Undirected,1
+henne,lua,Undirected,1
+Tomasine,Tomasine Holm Rendalen,Undirected,1
+henne,stans,Undirected,1
+anna busk,stans,Undirected,1
+John Kurt,henne,Undirected,8
+Tomasine,henne,Undirected,6
+annens,saken,Undirected,1
+Tomas,Tomasine,Undirected,5
+Konrad Kurt,bjørk,Undirected,1
+Konrad Kurt,Summa summarum,Undirected,1
+Summa summarum,finnes,Undirected,1
+henne,klan,Undirected,1
+Kurt,klan,Undirected,1
+John Kurt,Kurt,Undirected,1
+Tomasine,crq,Undirected,1
+Tomasine,provst Green,Undirected,1
+Green,provst Green,Undirected,1
+Rendalen,Tomasine,Undirected,2
+Saken,Tomasine,Undirected,2
+John Kurt,Mariane,Undirected,1
+Mariane,henne,Undirected,2
+John Kurt,Tomasine,Undirected,5
+John Kurt,hanne,Undirected,1
+Hennes,henne,Undirected,8
+frua,henne,Undirected,1
+Bægge,Tomasine,Undirected,1
+Kurt,pias,Undirected,1
+Hennes,pias,Undirected,1
+Kurt,henne,Undirected,1
+Flun,visshed,Undirected,1
+Flun,henne,Undirected,1
+henne,hiin,Undirected,2
+Andeas Berg,John Kurt,Undirected,1
+Andreas Berg,John Kurt,Undirected,1
+Kurt,Tomasine,Undirected,2
+Kurt,Rendalen,Undirected,3
+Andreas Berg,henne,Undirected,3
+henne,kurt’,Undirected,2
+John,Konrad Kurt,Undirected,1
+John,John Kurt,Undirected,1
+ensteds,henne,Undirected,1
+henne,hennes kiim,Undirected,1
+hennes kiim,sist,Undirected,1
+henne,sist,Undirected,1
+Rendalen,Tomas,Undirected,15
+Tomas,henne,Undirected,10
+Tomasine,æhda,Undirected,1
+Tomasine,gutten,Undirected,1
+gutten,slavinne,Undirected,1
+David,Tomasine,Undirected,1
+David,Sauls,Undirected,1
+Rendalen,henne,Undirected,15
+David Copperfield,henne,Undirected,2
+Charles Dickens,David Copperfield,Undirected,1
+Charles Dickens,Tomas,Undirected,1
+Tomas,lille Jip,Undirected,1
+lille Jip,lille Tomas,Undirected,1
+henne,kurt,Undirected,1
+Gutten,henne,Undirected,1
+Tomas,snil,Undirected,1
+Marit Støen,henne,Undirected,1
+Marit Støen,Støa,Undirected,1
+Marit Støa,Støa,Undirected,1
+Marit Støa,Tomasine,Undirected,1
+Andreas Berg,Tomasine,Undirected,1
+Marit Støen,Tomasine,Undirected,2
+Andreas Berg,Marit Støen,Undirected,2
+Sjauen,Tomasine,Undirected,1
+Berg,Støa,Undirected,1
+Berg,Marit Støen,Undirected,1
+Tomasine,frua,Undirected,1
+Marit Støen,frua,Undirected,1
+frua,sia,Undirected,1
+henner,størman Aslaksen,Undirected,1
+Aslaksen,henner,Undirected,1
+Aslaksen,John Kurt,Undirected,1
+John Kurt,Petrea,Undirected,1
+Petrea,hu,Undirected,1
+John Kurt,Marit Støen,Undirected,1
+Marit,hu,Undirected,1
+hu,nå morosam åsså,Undirected,1
+Aslaksen,Petrea,Undirected,1
+Rendalen,kejserinne,Undirected,1
+Tomasine ænnu,kejserinne,Undirected,1
+Marit,henner,Undirected,2
+Lars Tobiassens,Marit,Undirected,1
+Marit,frua Lars Tobiassen,Undirected,1
+Tomasine,je,Undirected,1
+Marit,je,Undirected,1
+Marit,snille,Undirected,1
+snille,vori,Undirected,1
+henne,vori,Undirected,1
+Marit,Tomasine,Undirected,6
+Andreas Berg,Marit,Undirected,1
+gud,lian,Undirected,1
+frua,jenta,Undirected,1
+hanna,jenta,Undirected,1
+Hu,hanna,Undirected,1
+Hu,stakkar,Undirected,1
+henner,stakkar,Undirected,1
+Marit,vranga,Undirected,1
+Lars Tobiassen,Tomasine,Undirected,2
+Tomasine,gud,Undirected,1
+Kurt,gud,Undirected,1
+Kurt,je,Undirected,1
+Green,Tomasine,Undirected,1
+Nils Hansen,Tomasine,Undirected,2
+Hansen,Tomasine,Undirected,1
+Hansen,Nils Hansen,Undirected,1
+Green,bent,Undirected,1
+Green,Nils Hansen,Undirected,1
+Nils Hansen,Plans,Undirected,1
+Plans,pias,Undirected,1
+Hansen,pias,Undirected,2
+Laura,Tomasine,Undirected,5
+John Kurt,Laura,Undirected,3
+Laura,Laura Hansen,Undirected,1
+Hansen,Laura,Undirected,2
+Tomasine,lille Augusta,Undirected,1
+lille Augusta,ongei,Undirected,1
+Augusta,Tomas,Undirected,11
+henne,invortes,Undirected,1
+Lille Augusta,invortes,Undirected,1
+Hennes,Lille Augusta,Undirected,1
+Hennes,snau,Undirected,1
+Tomasine,snau,Undirected,1
+Augusta,henne,Undirected,6
+Augusta,ænda,Undirected,1
+Tomasine,ænda,Undirected,1
+Augusta,Tomasine,Undirected,1
+Laura,henne,Undirected,3
+henne,provst Green,Undirected,1
+Augusta Hansen,asen,Undirected,1
+Augusta Hansen,Laura,Undirected,1
+Augusta,Laura,Undirected,1
+Angusta,Augusta,Undirected,2
+Tomas,bakefter,Undirected,1
+Augusta,Gud,Undirected,1
+Green,kapellan Vangen,Undirected,1
+Green,Karl,Undirected,2
+Karl,Rendalen,Undirected,3
+Karl Vangen,tokpias,Undirected,1
+Tomas,tokpias,Undirected,1
+Karl,Tomas,Undirected,35
+Karl,Karoline,Undirected,2
+Tomas,lian,Undirected,1
+Karl,lian,Undirected,1
+Augusta,Karl,Undirected,6
+Hværgang,Karl,Undirected,2
+Karl undgælde,Tomas,Undirected,2
+Tomas,panne,Undirected,2
+Karl,panne,Undirected,2
+Karl,gut,Undirected,1
+Tomas,gut,Undirected,1
+Andreas Berg,Rendalen,Undirected,3
+John Kurt,Tomas,Undirected,1
+Berg,henne,Undirected,3
+Berg,Tomas,Undirected,1
+Karl mer,Tomas,Undirected,1
+John Kurt,Karl mer,Undirected,1
+John Kurt,gut,Undirected,1
+Berg,gut,Undirected,1
+Green,henne,Undirected,5
+Karl,henne,Undirected,5
+Augusta,oppi,Undirected,2
+Knut Holmsen,Tomas,Undirected,2
+Augusta,Gracchemes,Undirected,2
+Graccheme,Jesus,Undirected,1
+Augusta,Jesus,Undirected,1
+Augusta,kong Edvards,Undirected,1
+Lars Tobiassen,Rendalen,Undirected,1
+Nils Hansen,Tomas,Undirected,4
+Augustas lekekammerat,Nils Hansen,Undirected,1
+Augustas lekekammerat,Hansen,Undirected,1
+Hansen,henne,Undirected,1
+Laura,Tomas,Undirected,1
+Tomas,lin,Undirected,1
+henne,lin,Undirected,1
+Augusta,Rendalen,Undirected,1
+Augusta fræm,Tomas,Undirected,1
+Augusta,Augusta fræm,Undirected,1
+Lucas,s,Undirected,1
+Karl teologi,Tomas,Undirected,1
+Karl teologi,rej,Undirected,1
+Karl,rej,Undirected,1
+F. e.,søsken,Undirected,1
+Jensen,bent,Undirected,1
+Døsen,Jensen,Undirected,2
+Andreas Berg,Døsen,Undirected,2
+Andreas Berg,Jensen,Undirected,1
+Døsen,fars,Undirected,1
+fars,inlot Berg,Undirected,1
+Berg,inlot Berg,Undirected,1
+Andreas Berg,ropte Døsen,Undirected,1
+Andreas Berg,Nils Hansen,Undirected,1
+Nils Hansen,derimot,Undirected,1
+Berg,derimot,Undirected,1
+Berg,Nils Hansen,Undirected,1
+Amtmannen,Jens«,Undirected,1
+Jens«,henne,Undirected,1
+Krieger,henne,Undirected,1
+Berg,Krieger,Undirected,1
+Berg,amtman,Undirected,1
+amtman,henne,Undirected,1
+amtmannen,amtmannens,Undirected,1
+Win gaard,Wingaard,Undirected,1
+Wingaard,henne,Undirected,1
+Døsen,henne,Undirected,1
+Døsen,pekefinger,Undirected,1
+Niels Fürst,henne,Undirected,1
+Emmy,Niels Fürst,Undirected,1
+Emmy,Kaja Grøndal,Undirected,1
+Kaja Grøndal,hans,Undirected,1
+Niels Fürst,hans,Undirected,1
+Niels Fürst,amtman lot alle damer gå foran in,Undirected,1
+Andreas Berg,amtman lot alle damer gå foran in,Undirected,1
+Andreas Berg,Berg,Undirected,2
+Berg,Rendalen,Undirected,1
+Holmsen,Tomas Rendalen,Undirected,2
+Green,Tomas Rendalen,Undirected,1
+Green,Karl Vangen,Undirected,5
+Green,Vangen,Undirected,1
+Karl,Vangen,Undirected,1
+Karl Vangen,Rendalen,Undirected,12
+Karl Vangen,Tomas Rendalen,Undirected,5
+skipperens,øke,Undirected,1
+Jensen,henne,Undirected,1
+Jensen,Nils Hansen,Undirected,1
+Laura,Nils Hansen,Undirected,1
+Engel,henne,Undirected,2
+Engel,Rendalen,Undirected,4
+Rendalen,gud,Undirected,2
+Rendalen,firak,Undirected,1
+Tomas,firak,Undirected,1
+Nils Hansen,di,Undirected,1
+Hu,di,Undirected,1
+Augusta,Hu,Undirected,2
+Hu,Nå,Undirected,1
+Tomas Rendalen,henne,Undirected,1
+Nora,Rendalen,Undirected,17
+Rendalen,ivej,Undirected,1
+Nora,ivej,Undirected,1
+Nora,Tomas,Undirected,3
+Green,Tomas,Undirected,2
+Laura,bægge,Undirected,1
+Emilie,Rendalen,Undirected,7
+Emilie,henne,Undirected,3
+Emilie,varl,Undirected,1
+Tomas,varl,Undirected,1
+konsul Engels,kvæll,Undirected,1
+Rendalen,konsul Engels,Undirected,1
+Karl Vangen,gud,Undirected,2
+Jesu,Marc,Undirected,1
+Coloss,Marc,Undirected,1
+Kasper Johannesen,Tomas Rendalen,Undirected,2
+Tomas Rendalen,lel,Undirected,1
+Augusta Hansen,Engel,Undirected,1
+Augusta Hansen,Emilie Engel,Undirected,1
+Emilie Engel,Rendalen,Undirected,1
+Tomas,tok,Undirected,1
+Tomas,Tomas Rendalen,Undirected,2
+Emilie Engel,Green,Undirected,1
+Green,Rendalen,Undirected,1
+Tomas,gud,Undirected,3
+Engels minne,Rendalen forespurte,Undirected,1
+Engel,bægge,Undirected,1
+fræmad,pias,Undirected,1
+Emilie Engel,fræmad,Undirected,1
+Engel,stakkar,Undirected,1
+Emilie,stakkar,Undirected,1
+Engel,Green,Undirected,1
+Green,dr. Holmsen,Undirected,1
+Emilie,stræv,Undirected,1
+Emilie,Tomas,Undirected,1
+Tomas,hét,Undirected,1
+Emilie,hét,Undirected,1
+Augusta Hansen,Tomas Rendalen,Undirected,1
+Augusta Hansen,Karl Vangen,Undirected,1
+Tomas,fru Rendalens,Undirected,1
+Nora,ora pro nobis,Undirected,1
+Tinkas,ora pro nobis,Undirected,1
+Millas,Tinkas,Undirected,1
+Emilie Engel,Milla,Undirected,1
+Emilie Engel,breje,Undirected,1
+Tinka,breje,Undirected,1
+Katinka Hansen,Tinka,Undirected,1
+Augusta,Katinka Hansen,Undirected,1
+Augusta,Nora,Undirected,1
+Nora,Tora,Undirected,23
+Tinka,Tinka Hansen,Undirected,2
+Augusta,Tinka,Undirected,1
+Augusta,Katinka,Undirected,1
+Katinka,Nora,Undirected,1
+Nora,henne,Undirected,26
+Nora,Tinka,Undirected,43
+Tinka,tiisa,Undirected,1
+Nora,tiisa,Undirected,1
+Tinka,henne,Undirected,6
+Frederik,Tinka,Undirected,3
+Frederik,Frederik Tygesen,Undirected,1
+Frederik Tygesen,Tygesen,Undirected,1
+Nora,Tygesen,Undirected,1
+Nora,gud,Undirected,2
+Augusta,Tomas Rendalen,Undirected,2
+Emilie Engel,henne,Undirected,1
+Tinka Hansen,henne,Undirected,1
+Milla,Tinka,Undirected,12
+Milla,Nora,Undirected,30
+Kristianiabémærkninger,henne,Undirected,2
+Milla,henne,Undirected,37
+Jensen,lille Anna Rogne,Undirected,1
+Anna,lille Anna Rogne,Undirected,1
+Anna,Karl Vangen,Undirected,3
+Karl Vangen,Milla,Undirected,5
+Milla,lille Anna,Undirected,2
+henne,lille Anna,Undirected,2
+Engel,Jesu,Undirected,1
+Jesu,gud,Undirected,1
+Anna,gud,Undirected,1
+Anna Rogne,Milla,Undirected,4
+Anna,Anna Rogne,Undirected,1
+Anna,henne,Undirected,1
+Milla,Tora,Undirected,62
+Anna,Milla,Undirected,14
+Anna,Tora Holm,Undirected,1
+Anna,Tora,Undirected,9
+Augustus-hodets,Milla,Undirected,2
+Milla,annetI,Undirected,1
+Karl Vangen,Tora Holm,Undirected,1
+Karl Vangen,henne,Undirected,6
+frøken Holm,overtollbetjent Holms,Undirected,1
+Tora,pias,Undirected,4
+Tora sky,pias,Undirected,1
+Karl,gud,Undirected,1
+Tora,gud,Undirected,3
+Rendalen,Tora,Undirected,15
+Miss Hall,Rendalen,Undirected,6
+Miss Hall,Tora,Undirected,5
+Tora,miss Hall,Undirected,7
+Tora,henne,Undirected,34
+Nora,Tora Holm,Undirected,4
+Tora Holm,henne,Undirected,1
+Nora,Nora—Tora,Undirected,1
+Nora—Tora,Tora—Nora,Undirected,1
+Nora,Tora—Nora,Undirected,1
+Nora,Tinka Hansen,Undirected,2
+Tinka,Tora,Undirected,17
+Tomas,Tora Holm,Undirected,1
+Milla,Tora Holm,Undirected,1
+Gud,Tora,Undirected,4
+Gud,Milla Engel,Undirected,1
+Milla Engel,henne,Undirected,1
+Bergenserinnen,henne,Undirected,1
+Bergenserinnen,Milla,Undirected,1
+Tora,fru Engels,Undirected,1
+Anna Rogne,Tora,Undirected,1
+Anna Rogne,henne,Undirected,1
+Gulnare,Nora,Undirected,1
+Gulnare,Milla Engel,Undirected,1
+Milla,gud,Undirected,4
+Nora,bergenserinne,Undirected,1
+Gina Krog,Tora,Undirected,1
+Milla,Milla Engel,Undirected,1
+Milla,mettes,Undirected,1
+Tora,mettes,Undirected,1
+fali,henne,Undirected,1
+Milla-var,henne,Undirected,1
+Milla,Milla-var,Undirected,1
+Tinka,pias,Undirected,1
+Milla Engel,Tora,Undirected,1
+Tinka,gud,Undirected,2
+Gud,Tinka,Undirected,1
+Tora,annen,Undirected,1
+Tinka,Tora Holm,Undirected,1
+Engel,Tora,Undirected,2
+Tinka,hjøte,Undirected,1
+Nora,Tomas Rendalen,Undirected,1
+Karl Vangen,Tinka,Undirected,2
+Tora,annerledes,Undirected,1
+Rendalen,annerledes,Undirected,1
+Karl Vangen,Nora,Undirected,3
+Karl Vangen,Tora,Undirected,6
+Tora,panne-skal,Undirected,1
+Rendalen,Tinka,Undirected,2
+Anna Rogne,gud,Undirected,1
+Anna,Tinka,Undirected,5
+Anna,Nora,Undirected,5
+Erards,Nora,Undirected,1
+Erards,Milla,Undirected,1
+Nora,amtmannen,Undirected,1
+amtmannen,henne,Undirected,1
+Milla,Milla fræm,Undirected,1
+Milla fræm,Tora,Undirected,1
+Tora,Tora løp,Undirected,1
+Tinka løp,Tora løp,Undirected,1
+Milla løp,Tinka løp,Undirected,1
+Milla løp,Nora,Undirected,1
+Milla,frøken Holm,Undirected,4
+Frederik,Nora,Undirected,1
+Milla,stans,Undirected,2
+Nora,jøn,Undirected,1
+Anna,Fabiola,Undirected,2
+Anna,Lille Anna,Undirected,1
+Lille Anna,Milla,Undirected,1
+Hennes,lille Anna,Undirected,1
+Hennes,Milla,Undirected,3
+Milla,pias,Undirected,1
+Henrik Ibsen,Nora —,Undirected,1
+Henrik Ibsen,Rendalen,Undirected,1
+Anna,miss Hall,Undirected,1
+lille Anna,miss Hall,Undirected,1
+Nora,lille Anna,Undirected,1
+Anna,Rendalen,Undirected,2
+Lille Anna,henne,Undirected,1
+Gud,Karl Vangen,Undirected,1
+Karl Vangen,Tomas,Undirected,3
+Karl Vangen,miss Hall,Undirected,1
+Nora,miss Hall,Undirected,2
+Karen Lote,henne,Undirected,5
+Lote,Rendalen,Undirected,1
+henne,miss Hall,Undirected,1
+gud,kæntl,Undirected,1
+henne,kæntl,Undirected,1
+Augusta,Karl Vangen,Undirected,1
+Karl Vangen,fru Rendalens,Undirected,1
+Karen Lote,miss Hall,Undirected,2
+Hennes,miss Hall,Undirected,1
+Karl,tom,Undirected,1
+Gud,Tomas,Undirected,2
+Tomas,stakkar,Undirected,2
+Karl,stor-tute,Undirected,2
+falle,henne,Undirected,1
+Nora,pias,Undirected,1
+Miss Hall,henne,Undirected,2
+Frederik«,Tinka,Undirected,1
+Flun,Nora,Undirected,1
+Hennes,Karl Vangen,Undirected,2
+Hennes,John Wesley,Undirected,1
+Kurt’,Tora,Undirected,1
+Kurt,Tomas Rendalen,Undirected,2
+Tomas Rendalen,Vangen,Undirected,1
+Tomas,Vangen,Undirected,1
+Tora,erkænnes,Undirected,1
+Frederik,Tinka Hansen,Undirected,1
+Frederik,Miss Hall,Undirected,1
+Miss Hall,frederikianer.,Undirected,1
+Tinka,Tirrkas,Undirected,1
+Karen Lote,Milla,Undirected,1
+Karen Lote-,henne,Undirected,1
+Karen,henne,Undirected,1
+Milla krøp,Tora,Undirected,1
+Hansen,Tinka,Undirected,1
+henne,taus,Undirected,1
+Milla,Milla.-,Undirected,2
+Engel,Milla,Undirected,3
+Anna Rogne,Rendalen,Undirected,2
+Rendalen,miss Hall,Undirected,3
+Elisa,Olava,Undirected,1
+Grøndal,Olava,Undirected,1
+Grøndal,køpt,Undirected,1
+Miss Hall,Tinka,Undirected,1
+Kaja Grøndal,Tora,Undirected,3
+Kaja,Kaja Grøndal,Undirected,1
+Kaja,Tora,Undirected,3
+Kaja Grøndal,henne,Undirected,2
+Grøndal,henne,Undirected,3
+Tinka,miss Hall,Undirected,1
+Niels,Tora,Undirected,1
+Fürst,Niels,Undirected,4
+Fürst,jente,Undirected,1
+Kaja Grøndal,jente,Undirected,1
+Anna Rogne,Tinka,Undirected,5
+Karen Lote,Rendalen,Undirected,1
+Anna,Karen Lote,Undirected,1
+Jensen,Kaja Grøndal,Undirected,1
+Desuten,Tora,Undirected,1
+Desuten,Grøndal,Undirected,1
+Frøken Holm,ropte,Undirected,1
+Grøndal,ropte,Undirected,1
+Frøken Holm,Grøndal,Undirected,1
+Grøndal,Tora,Undirected,3
+Tora,gol,Undirected,1
+Tora,Wingaard,Undirected,2
+Grøndal,Wingaard,Undirected,2
+Iris,Tora,Undirected,1
+Tora,taust,Undirected,2
+Niels Fiirst,Tora,Undirected,1
+Grøndal,Hennes,Undirected,1
+Nora,hell,Undirected,1
+Tora,hell,Undirected,1
+hans,henne,Undirected,1
+Hennes,Tora,Undirected,1
+Rendalen,skomaker Hansens,Undirected,1
+Hansen,skomaker Hansens,Undirected,1
+Vangen,Wesley,Undirected,1
+Wesley,henne,Undirected,1
+Maria Magdalena,Rubens,Undirected,1
+Jesu,Maria Magdalena,Undirected,1
+Jesu,henne,Undirected,1
+Jesu,Tora,Undirected,2
+Hennes,Nora,Undirected,1
+Engel,Gud,Undirected,1
+Niels Fürst,Tora,Undirected,2
+Grøndal,lykkets,Undirected,1
+Niels Fürst,papa,Undirected,2
+Sofiero,papa,Undirected,2
+gud,h. k. h. prins Oskar,Undirected,1
+Karen Lote,papa,Undirected,1
+Gud,papa,Undirected,1
+Papa,papa,Undirected,1
+gud,pias,Undirected,1
+Rendalen,pias,Undirected,1
+Tora,kalier,Undirected,1
+kalier,maj.s,Undirected,1
+Karl Vangen,Niels Fürst,Undirected,1
+Gud,Nora,Undirected,1
+Tora,hvitt,Undirected,1
+Markus Larsson,hvitt,Undirected,1
+Fiirst,papa,Undirected,1
+Nora,papa,Undirected,1
+Furst,Papa,Undirected,1
+miss Hall,søsken,Undirected,1
+Miss Hall,pias,Undirected,1
+henne,trivdes,Undirected,1
+henne,liun,Undirected,1
+Miss Hall,Nora,Undirected,2
+Nora,Tora rope,Undirected,1
+Tora Holm,miss Hall,Undirected,2
+Frøken Holm,miss Hall,Undirected,1
+Nora,fru Rendalens,Undirected,1
+Tora,derinne,Undirected,1
+Jesu,herinne,Undirected,1
+Miss Hall,miss Hall,Undirected,1
+Hall,Rendalen,Undirected,1
+Tora,skrek,Undirected,1
+Rendalen,Tora Holm,Undirected,5
+Nora,liun,Undirected,1
+Hys,Nora,Undirected,2
+Nora,Tomasine,Undirected,1
+Rendalen,fræmmed,Undirected,1
+Hværgang,henne,Undirected,2
+fræm,henne,Undirected,1
+henne,lian,Undirected,1
+Tora,tokes,Undirected,1
+Tora,Tora dithen,Undirected,1
+Tora dithen,henne,Undirected,1
+Tora,stakkar,Undirected,1
+Tora,Tora Holm,Undirected,2
+Nora,amtman Tue,Undirected,1
+Anton Døsen,Niels Ftirst,Undirected,1
+Tinka Hansen,mettes,Undirected,1
+Milla,Tinka Hansen,Undirected,1
+Milla,Niels Fiirst,Undirected,1
+Milla,Niels Furst,Undirected,1
+Niels Furst,Nora,Undirected,1
+Tora,væninne,Undirected,1
+Rendalen,væninne,Undirected,1
+Anna Rogne,Nora,Undirected,1
+.Nora,Tomas,Undirected,1
+.Nora,Tinka,Undirected,1
+Fürst havde,Niels,Undirected,1
+Milla,Rendalen,Undirected,3
+Niels,Rendalen,Undirected,1
+Fürst,Milla,Undirected,1
+Anton Døsen,Nora,Undirected,1
+annerledes,henne,Undirected,1
+Døsen,Tora Holm,Undirected,1
+Tora,vai,Undirected,1
+Karl Vangen,stakkar,Undirected,1
+henne,stakkar,Undirected,1
+Rendalen,fnen,Undirected,1
+Nora,fnen,Undirected,1
+Tomas,fræmgik,Undirected,1
+Anton Døsen,miss Hall,Undirected,1
+Døsen,miss Hall,Undirected,1
+Grøndal,Rendalen,Undirected,1
+Grøndal,Niels Fiirst,Undirected,1
+Grøndal,Kanske,Undirected,1
+Kanske,Tora,Undirected,1
+Tora,dypest,Undirected,1
+Karl Vangen,dypest,Undirected,1
+Tomas,Tora,Undirected,1
+Tora,kjære Nora,Undirected,1
+Nora,minnes,Undirected,1
+Hennes,Sofiero,Undirected,1
+Sofiero,Tora,Undirected,1
+Stakkars,Tora,Undirected,2
+Frederik Tygesen,Tinka,Undirected,1
+Anna Rogne,Frederik Tygesen,Undirected,1
+Furst,Tora,Undirected,1
+Furst,henne,Undirected,1
+Tora,grun,Undirected,1
+Anna Rogne,grun,Undirected,1
+Nora,annen,Undirected,1
+Nils Hansen,kvæll,Undirected,1
+Kurt’,Tomas,Undirected,1
+Gud,Rendalen,Undirected,1
+Nora Tue.i,Rendalen,Undirected,1
+Karl Vangen,Nils Hansen,Undirected,1
+Nils Hansen,hans grun,Undirected,1
+Rendalen,hans grun,Undirected,1
+Bugge,Engel,Undirected,2
+Bugge,fali,Undirected,1
+fali,von,Undirected,1
+Karl Vangen,Vangen,Undirected,1
+dere,ropte Nils Hansen,Undirected,1
+Bugge,gud,Undirected,1
+Bugge,Vangen,Undirected,1
+Bugge,konsul Engel,Undirected,1
+bruk,konsul Engel,Undirected,1
+Milla Engel,Niels Fiirst,Undirected,1
+Milla Engel,Rendalen,Undirected,1
+Milla Engel,Niels,Undirected,1
+Milla,Niels Fürst,Undirected,1
+Hitintil,Niels Fürst,Undirected,1
+Hitintil,Niels,Undirected,1
+henne,papa,Undirected,1
+Green,Niels Fürst,Undirected,1
+Niels Fürst,ivej,Undirected,1
+Niels Fiirst,sejer,Undirected,1
+Hall,sejer,Undirected,1
+Hall,Tora,Undirected,1
+Max Kurts,butte,Undirected,1
+Max Kurts,gud,Undirected,1
+Provst Greens,henne,Undirected,1
+Milla,al,Undirected,1
+al,henne,Undirected,1
+Hennes,Milla—I,Undirected,1
+Engel,iland,Undirected,1
+Engel,Fiirst,Undirected,1
+Fiirst,Grøndal,Undirected,1
+Engel,Niels Fiirst,Undirected,1
+Engel,Hs.,Undirected,1
+Emilie,Engel,Undirected,2
+Niels Ftirst,Tora,Undirected,1
+Green,Milla,Undirected,3
+Milla,annen,Undirected,1
+Milla,Stakkars,Undirected,1
+Milla,Wingaard,Undirected,1
+orlogs,pias,Undirected,1
+Max,pias,Undirected,1
+Engel,pias,Undirected,3
+Engel,Wingaard,Undirected,2
+møtte,pias,Undirected,1
+møtte,sjøbad,Undirected,1
+sjøbad,wenn Konstantznopel,Undirected,1
+ischt,wenn Konstantznopel,Undirected,1
+Engel,frue,Undirected,1
+frue,sjau,Undirected,1
+pias,sjau,Undirected,1
+fræm,pias,Undirected,1
+Garman,fræm,Undirected,1
+Bemick,Garman,Undirected,1
+Bemick,Riis,Undirected,1
+Anton Døsen,Wingaard,Undirected,1
+Wingaard,pias,Undirected,1
+gud,schwabers,Undirected,1
+Engel,schwabers,Undirected,1
+Tora Holm,Vangen,Undirected,1
+Bernick,Engel,Undirected,2
+Engel,Kurt,Undirected,1
+Emil Engel,gud,Undirected,2
+Bægge,henne,Undirected,1
+Bægge,Milla,Undirected,1
+Gud,Milla,Undirected,1
+Green,Gud,Undirected,1
+henne,pias,Undirected,1
+Karl Vangen,pias,Undirected,1
+Bernick,Døsen,Undirected,1
+Døsen,Riis,Undirected,1
+Riis,gud,Undirected,1
+Garmann,gud,Undirected,1
+Green,Tora,Undirected,1
+Engel,fræm,Undirected,1
+Tora,fræm,Undirected,2
+Milla,ropte,Undirected,1
+Milla,Miss Hall,Undirected,1
+Milla,liv,Undirected,1
+Nora,liv,Undirected,1
+Nils Hansen,Tora,Undirected,1

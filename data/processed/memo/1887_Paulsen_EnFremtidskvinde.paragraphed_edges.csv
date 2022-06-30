@@ -1,0 +1,129 @@
+source,target,type,weight
+Holme,derborte,Undirected,1
+Kieler,derborte,Undirected,1
+Holme,påny,Undirected,6
+Harald,Harald Stang,Undirected,1
+Harald,Holme,Undirected,29
+Holme,silke —,Undirected,1
+Lydia,Tony,Undirected,41
+Antoinette,Tony,Undirected,1
+Holme,Lydia,Undirected,15
+Harald,Tony,Undirected,32
+Harald,gutten,Undirected,2
+Harald,kafeen,Undirected,1
+frøken Nygård,kafeen,Undirected,2
+Holme,vens,Undirected,1
+Harald,vens,Undirected,1
+Harald,Tony nys,Undirected,1
+Lydia Kieler,frøken Kieler,Undirected,1
+Harald gren,Holme,Undirected,1
+Holme,lian,Undirected,3
+Holme,Tony,Undirected,29
+Holme,Stang,Undirected,6
+Lydia,Sarah Bernhardt,Undirected,1
+Sarah Bernhardt,Tony,Undirected,3
+Harald,Lydia,Undirected,7
+Harald,Ly dia,Undirected,1
+Holme,gester,Undirected,1
+Tony,gester,Undirected,1
+Hohne,Tony,Undirected,1
+Lydia,lian,Undirected,1
+Lydia,Stang,Undirected,3
+Sarah Bernhardt,mrs. Clarcson,Undirected,1
+Haraids,Harald,Undirected,2
+Harald,livad,Undirected,2
+Tony,donc,Undirected,1
+Lydia,mademoiselle Charpentier,Undirected,1
+Loiseau,Tony,Undirected,1
+Harald,Harald skæm tende,Undirected,1
+Harald skæm tende,Tony,Undirected,1
+Harald,påny,Undirected,1
+Harald,leit,Undirected,1
+Holme,Josef’,Undirected,1
+Harald taug,Holme,Undirected,1
+Harald,livor,Undirected,1
+Haraids,Tony,Undirected,1
+Dolce,niente,Undirected,1
+Holme,frøken Nygård,Undirected,2
+frøken Nygård,herr Løberg,Undirected,1
+Holme,Reinertsen,Undirected,26
+Reinhardt,herr Reinhardt,Undirected,1
+Reinertsen,gud,Undirected,1
+Reinertsen,påny,Undirected,2
+Håkon,lille Dagny,Undirected,1
+Harald,chere,Undirected,2
+Stang,herr N.,Undirected,1
+Ibsens,Lydia,Undirected,1
+Andersen,Ibsens,Undirected,1
+Haraids,Holme,Undirected,2
+Harald,Worth,Undirected,1
+Tony,frøken Nygård,Undirected,2
+Stang,Tony,Undirected,5
+Gud,Harald,Undirected,1
+N. N.,påny Lydia,Undirected,1
+Lydia,husch,Undirected,1
+Holme,husch,Undirected,1
+Metternich,Therese,Undirected,1
+Lydia,mon amih,Undirected,1
+Tony,beieiligere,Undirected,1
+Antoinette Elisabeth Nygård,Ole Pedersen Nygården,Undirected,1
+Antonette Larsen,Ole Pedersen Nygården,Undirected,1
+Tony,jomfru Larsen,Undirected,1
+Ellen Kragh,Tony,Undirected,1
+Schmidts,Tony,Undirected,2
+Minna Hauge,Tony,Undirected,1
+Reinertsen,Stang,Undirected,2
+Reinertsen,Skive,Undirected,1
+Frøken Nygård,Reinertsen,Undirected,1
+Reinertsen,Vefour,Undirected,1
+frøken Kieler,frøken Ly dia,Undirected,1
+faders,løitnant Krohn,Undirected,1
+faders,pleie,Undirected,1
+Kruse,Maren,Undirected,1
+broder,gud,Undirected,1
+Erik Moen,Kallerud,Undirected,1
+Tony,frøken Kieler,Undirected,2
+Reinertsen,Tony,Undirected,5
+Holme,Murillos,Undirected,3
+Murillos,Tony,Undirected,1
+Harald,Kieler,Undirected,1
+Lydia,sist,Undirected,1
+Heine,Musset,Undirected,1
+Musset,Tony,Undirected,1
+Lydia,Reinertsen,Undirected,2
+Harald,Stang,Undirected,3
+Kieler,Tony,Undirected,2
+Krage,Tony,Undirected,1
+Kieler,Krage,Undirected,1
+Stang,frøken Nygård,Undirected,1
+Harald,gud,Undirected,1
+Harald,frøken Lydia,Undirected,1
+frøken Lydia,frøken Nygård,Undirected,1
+Desdemonas,Othello,Undirected,1
+Harald,dreiedes,Undirected,1
+Haraids,dreiedes,Undirected,1
+Tony,amico,Undirected,1
+Antoinette,Holme,Undirected,1
+Lexau,Reinertsen,Undirected,1
+Erik Moen,Tony,Undirected,1
+Reinertsen,lian,Undirected,1
+Holme,china,Undirected,1
+Reinertsen,taus,Undirected,1
+Inat,klein,Undirected,1
+klein,pro,Undirected,1
+contra,pro,Undirected,1
+Bjørnson,Holme,Undirected,1
+Heisan,gud,Undirected,1
+Holme,gud,Undirected,2
+Tony,grimace,Undirected,1
+chansonettes,grimace,Undirected,1
+Dis moi,qui tu hantes,Undirected,1
+Tony,høist,Undirected,1
+Livor,gud,Undirected,1
+darf,was keusche,Undirected,1
+Tony,dia,Undirected,1
+. Stang,Holme,Undirected,1
+Holme,conciergen,Undirected,1
+Tony,siste,Undirected,2
+Harald,dia,Undirected,1
+Lydia Kieler,frøken Nygård,Undirected,1

@@ -1,0 +1,670 @@
+source,target,type,weight
+Peter,Peter Flink,Undirected,2
+Ove Jacobsen,Peter,Undirected,4
+Peter,Peter sin,Undirected,1
+Peter,Vincent Riber strax,Undirected,1
+Peter Fløjkok,Vincent Riber strax,Undirected,1
+Ove,Peter Fløjkok,Undirected,1
+Dingeling,Vincent,Undirected,1
+Johannes«,Peter,Undirected,1
+Peter,Vincent Riber,Undirected,1
+Ove,Peter,Undirected,80
+Johannes,Vincent,Undirected,4
+Johannes,Ove,Undirected,21
+Camilla Worm,Ove,Undirected,5
+Camilla Worm,Vincent Riber,Undirected,6
+Camilla,Vincent,Undirected,22
+Johannes,Peter,Undirected,13
+Peter,Vincent,Undirected,10
+Ove,Vincent,Undirected,33
+Dingeling,Peter,Undirected,3
+Peter,svaredejohannes,Undirected,1
+Gud,Vincent,Undirected,3
+Asen,Peter,Undirected,1
+Peter,mannovar,Undirected,1
+Ove Jacobsen,Vincent,Undirected,2
+Dingeling,Ove,Undirected,3
+Gud,Peter,Undirected,5
+Ove,dettehersens,Undirected,1
+Egholt,Valders,Undirected,3
+Egholt,Riber,Undirected,1
+Valders,smaalo Eru Egholt,Undirected,1
+Gud,Vilhelms,Undirected,1
+Vilhelm,Vilhelms,Undirected,1
+Gud,Vilhelm,Undirected,1
+Riber,Valders,Undirected,1
+Gud,Pøblen,Undirected,1
+Baadsmand Hau,Magnussen,Undirected,1
+Hau,Kanoner Jespersen,Undirected,1
+Satan,Valders,Undirected,1
+Hau,Ove,Undirected,1
+Johannes,smaalo,Undirected,1
+Ove,Sprichwort,Undirected,1
+Hau,Johannes,Undirected,1
+Valders,Vincent,Undirected,2
+Hau,Riber,Undirected,1
+Gud,Johannes,Undirected,5
+Riber,Vincent,Undirected,2
+Arabella,Riber,Undirected,1
+Johannes,Riber,Undirected,1
+Madam Flink,Peter,Undirected,1
+Madam Flink,Ove,Undirected,1
+Ove exercerede,Peter,Undirected,1
+Ove exercerede,Vincent,Undirected,1
+Jacobsen,Ove,Undirected,15
+Brun,Ove,Undirected,9
+Brun,Jomfru Jacobsens,Undirected,2
+Gud,Jomfru Jacobsen,Undirected,1
+Gud,Peter —,Undirected,1
+Frøken Worm,Vincent,Undirected,1
+Mama,Vincent,Undirected,2
+Mama,Peter,Undirected,1
+Madam Flink,Madam Hansen,Undirected,1
+Gud,Hansen,Undirected,1
+Arrabella,Otto Jomfru Jacobsens,Undirected,1
+Otto Jomfru Jacobsens,Vincent,Undirected,1
+Ove,Vincent Riber,Undirected,2
+Camilla,Ove,Undirected,50
+Ove,Vissenpind,Undirected,1
+Jespersen,Peter,Undirected,2
+Høker Jensen,Peter,Undirected,1
+Jespersen,Ove,Undirected,3
+Fatter,Mutter,Undirected,1
+Mortensen,Peter,Undirected,1
+Fatter,Peter,Undirected,4
+Ove,Tante,Undirected,1
+Peter,Tante,Undirected,1
+Carro,Peter,Undirected,1
+Nicolaj,Nicolaj Unnerod,Undirected,2
+Christensen,Nicolaj Unnerod,Undirected,1
+Christensen,Marcussen,Undirected,1
+Blikkensla,Mutter,Undirected,1
+Bedstefa,Mutter,Undirected,1
+Madam Ehlers,Nicolaj Unnerod,Undirected,1
+Herman v.,Nicolaj Unnerod,Undirected,1
+Herman v.,Ove,Undirected,1
+Peter,skoggerlo,Undirected,1
+Herman v.,skoggerlo,Undirected,1
+Herman v.,Unna,Undirected,1
+Unna,Unnerod,Undirected,1
+Hr. Sørensen,Unnerod,Undirected,1
+Jacobsen,Peter,Undirected,1
+Jacobsen,Vincent,Undirected,3
+Camilla Worm,Riber,Undirected,1
+Camilla Worm,Dingeling,Undirected,1
+Mesteren,Ove,Undirected,1
+Peter,heraus,Undirected,1
+Kristian,Noer,Undirected,1
+Noer,Ove,Undirected,1
+Ove,haa,Undirected,1
+Adele,Ove,Undirected,43
+Greven,Komtessen,Undirected,1
+Adele,hans,Undirected,1
+Gud,Hr. v. Hartvig,Undirected,1
+Gud,Ove,Undirected,10
+Greven,Kirstine,Undirected,2
+Adele,Papa,Undirected,3
+Greven,Jørgen,Undirected,4
+Greven,Søren Lilleballes,Undirected,1
+Greven,Ida,Undirected,1
+Greven,Gud,Undirected,2
+Adele,Mama,Undirected,4
+Hartvig,Holstein-Rathlou,Undirected,2
+jag,lof,Undirected,1
+Hartvig,sodan,Undirected,1
+Egholt,Hau,Undirected,1
+Fatter,Ove,Undirected,2
+Lagerbjelke,sjelf,Undirected,1
+sjelf,stanne,Undirected,1
+Gert Hyttendorff,po,Undirected,1
+Hartvig,Ove,Undirected,11
+Flink,Hartvig,Undirected,4
+Dannebrog,Gud,Undirected,1
+Gud,Hartvig,Undirected,1
+Bles,Gud,Undirected,1
+Hartvig,Sehested,Undirected,2
+Hartvig,Peter,Undirected,2
+Flink,Sehested,Undirected,1
+Daniel Rantzaus,Ryes,Undirected,1
+Daniel Rantzaus,Ejnar Tambeskjælver,Undirected,1
+Ove,lille Peter,Undirected,1
+Valders,saluteredes,Undirected,1
+Bau,Gud,Undirected,2
+Juels,Volmers,Undirected,1
+Juels,Wessels,Undirected,1
+Tychos,Wessels,Undirected,1
+Thorvalds,Tychos,Undirected,1
+Thorvalds,Valdemar Atterdag,Undirected,1
+Lehn,Valdemar Atterdag,Undirected,1
+Erik,Stenbock,Undirected,1
+Frederik den 5te,Kristian den 6te,Undirected,1
+Frederik den 5te,Kristian den,Undirected,1
+Frederik den 6te,Kristian den,Undirected,2
+Frederik den,Kristian den,Undirected,4
+Sverig,Valdemar,Undirected,1
+Griffenfeldt,Kristian den,Undirected,1
+Carl Ploug,Moses,Undirected,2
+Hald,Monrad,Undirected,2
+Bluhme,Monrad,Undirected,1
+Bluhme,Hald,Undirected,1
+Gud,Jespersen,Undirected,1
+Fritz,Ida,Undirected,3
+Ida,Svane,Undirected,1
+Svane,Svik,Undirected,1
+Fritz,Svik,Undirected,2
+Adele,Fritz,Undirected,2
+Adele,Skovrider Brun,Undirected,1
+Greven,Skovrider Brun,Undirected,1
+Greven,Kragelund,Undirected,1
+Arilds,Kragelund,Undirected,1
+Adele,Svik,Undirected,1
+Jacobsen,Jørgen,Undirected,1
+Jørgen,Ove,Undirected,9
+Mama,Svik,Undirected,1
+Rotwitt,Svik,Undirected,1
+Baron Blixen,Rotwitt,Undirected,2
+Dalum,Rotwitt,Undirected,1
+Hr. Bille,Hr. Hald,Undirected,1
+Brun,Greven,Undirected,1
+Skaal,kjære Hr. Brun,Undirected,1
+Ove,Viggo,Undirected,1
+Ejnar,Viggo,Undirected,1
+Ejnar,Grevinden,Undirected,1
+Grevinden,Ove,Undirected,3
+Jærnhaand,Ove,Undirected,1
+Jomfru Jacobsen,Ove,Undirected,1
+Ove,Ove Jacobsen,Undirected,1
+Brun,Søren Lilleballe,Undirected,2
+Kirstine,Ove,Undirected,1
+Brun,Jacobsen,Undirected,1
+Sjur,Skjolberg,Undirected,1
+Jensen,Sjur,Undirected,1
+Adele,Brun,Undirected,2
+Camilla Worm,Vincent,Undirected,3
+Camilla,frank,Undirected,1
+Camilla,Dingeling,Undirected,6
+Camilla,Johannes Brorsen,Undirected,1
+Camilla,deren,Undirected,1
+Camilla,Vincent Riber,Undirected,2
+Peter Flink,Vincent Riber,Undirected,1
+Camilla Worm,bild,Undirected,1
+Ove,Reinholtdine,Undirected,1
+Clementine,Reinholtdine,Undirected,3
+.Sønderby,Sønderby,Undirected,1
+Jacobsen,Riber,Undirected,2
+Camilla Worm,Jacobsen,Undirected,3
+Riber,Vincent Riber,Undirected,1
+Mutter,Ove,Undirected,1
+Flink,Ove,Undirected,1
+Morten Luther,Niels Alexander,Undirected,1
+Morten Luther,Ove,Undirected,1
+Hannibal,Niels Alexander,Undirected,1
+Hannibal,Morten Luther,Undirected,3
+Clementine Stine,Reinholtdine Petrine,Undirected,1
+Clementine Stine,Stine,Undirected,1
+Ditlevvine Maximaline Georgine,Stine,Undirected,1
+Ditlevvine Maximaline Georgine,ede,Undirected,1
+Mutter,Reinholt Hannibal Alexander,Undirected,1
+Mutter,Peter,Undirected,1
+Jens,Peter,Undirected,1
+Clementine,Hannibal Morten Luther,Undirected,1
+Hannibal Morten Luther,Niels Alexander,Undirected,1
+Alexander,Niels Alexander,Undirected,1
+Alexander,Hannibal Morten Luther,Undirected,1
+Gjerrigpeter,Hannibal Morten Luther,Undirected,1
+Camilla,Peter,Undirected,5
+Dingeling,Flink,Undirected,1
+Bobinets,Flink,Undirected,1
+Camilla,Graad,Undirected,1
+Graad,Ove,Undirected,1
+Camilla,Johannes,Undirected,10
+Kusks,Ove,Undirected,2
+Frederik den,Fritz,Undirected,1
+Hr. Svik,Ove,Undirected,1
+Achilles,Troja,Undirected,1
+Jørgen,hans kjære Greve,Undirected,1
+Greven,hans kjære Greve,Undirected,1
+Dalilas,Samson,Undirected,1
+Jacobsen,Papa,Undirected,1
+Mama,Papa,Undirected,7
+Adele,Jacobsen,Undirected,3
+Ove,Papa,Undirected,3
+Eden,Ove,Undirected,1
+Adele,Eden,Undirected,1
+Mama,Ove,Undirected,3
+Frederik,Papa,Undirected,1
+Frederik,Jørgen,Undirected,1
+Jørgen,Søren Lilleballe,Undirected,1
+Adele,Søren Lilleballe,Undirected,3
+Jacobsen,Søren Lilleballe,Undirected,2
+Søren,Søren Lilleballe,Undirected,1
+Frederik,Jacob,Undirected,2
+Jacob,vos,Undirected,1
+Ove,Søren Lilleballe,Undirected,3
+Ove,Søren,Undirected,4
+Brun,Ole,Undirected,1
+Adele,kelse,Undirected,1
+Adele,Ole,Undirected,1
+Ole,Ove,Undirected,1
+Komtessen,Ove,Undirected,2
+Brun,Gud,Undirected,1
+Etatsraad Jespersen,Kirstine,Undirected,2
+Frederik,Frederik den 7de,Undirected,1
+Frederik den 7de,Kristian den,Undirected,1
+Peter,Valders,Undirected,4
+Argus,Valders,Undirected,2
+Gud,Vilhelm Egholt,Undirected,1
+Peter,smaalo,Undirected,1
+Peter,erjonannes,Undirected,1
+Johannes,Peter Fløjkok,Undirected,1
+Johannes,Peter Flink,Undirected,1
+Egholt,Johannes,Undirected,3
+Camilla Worm,Petersens,Undirected,1
+Frøken Petersen,Yokohama,Undirected,1
+Ove,Yokohama,Undirected,1
+Clementine,Jacobsen,Undirected,1
+Jacobsen,Reinholtdine,Undirected,1
+Karl,Ove,Undirected,1
+Gud,enorhorns,Undirected,1
+Kon-,Ove,Undirected,1
+Kon-,Peter,Undirected,1
+Dybbøl,Ove,Undirected,4
+Hans,Peter,Undirected,1
+Arilds,Dybbøl,Undirected,1
+Arilds,Tyras,Undirected,1
+Margretes,Tyras,Undirected,1
+Johannes,harf,Undirected,1
+Altona,Camilla,Undirected,1
+Altona,Ove,Undirected,1
+Frederik den,Ove,Undirected,2
+Adele,hurt,Undirected,1
+Adele,Camilla,Undirected,3
+Ove,ten,Undirected,2
+Johannes,•Ove,Undirected,1
+Camilla,•Ove,Undirected,1
+Camilla,Villie,Undirected,1
+Gud,joEn,Undirected,1
+Jungmand,Ove,Undirected,1
+Komtessen,Vincent,Undirected,2
+Komtessen,Peter,Undirected,1
+Adele,Vincent,Undirected,13
+Absinth,Ove,Undirected,1
+Absinth,Peter,Undirected,1
+Clementine,Ove,Undirected,3
+Clementine,jalou,Undirected,1
+Brun,Camilla,Undirected,1
+Caroline Amalies,Valders,Undirected,1
+Caroline Amalies,Hartvig,Undirected,1
+Gert,Hartvig,Undirected,1
+Gert,Hyttendorf,Undirected,1
+Hyttendorf,mo,Undirected,1
+Bille,Ploug,Undirected,2
+Gud,Ploug,Undirected,1
+Alfred Stange,Lippe-Detmold,Undirected,1
+Nicolaj Unnerod,Skaal,Undirected,1
+Nicolaj Unnerod,Ove,Undirected,2
+Ove,Peter Flink,Undirected,1
+Peter,Unnerod,Undirected,5
+Ove,Unnerod,Undirected,5
+Dybbøl,Johannes,Undirected,1
+Gud,Rikke Unnerod,Undirected,1
+Mutter,Unnerod,Undirected,1
+Mutter,Nicolaj,Undirected,1
+Nicolaj,Rikke Unnerod,Undirected,1
+Nicolaj,Unnerod,Undirected,1
+Nicolaj,Peter Nicolaj Unnerod,Undirected,1
+Faers,Unnerod,Undirected,1
+Gud,Unnerod,Undirected,1
+Gud,Peter Nicolaj,Undirected,1
+Mutter de Place,Peter Nicolaj,Undirected,1
+Mutter de Place,Nicolaj,Undirected,1
+Lilles,Peter,Undirected,1
+Alfred Stange,Lilles,Undirected,1
+Peter,Stange Erik Bøghs,Undirected,1
+Nicolaj,Stange Erik Bøghs,Undirected,1
+Nicolaj,friska,Undirected,1
+Nicolaj Unnerod,friska,Undirected,1
+Ida,Vincent,Undirected,1
+Adele,Brattingsborg,Undirected,1
+Adele,Don Juans,Undirected,1
+Adele,Grandpapa,Undirected,1
+Frøken Lythoff,Vincent,Undirected,1
+Fritz,Riber,Undirected,1
+Kristian den,Vincent,Undirected,2
+Monnies,Vincent,Undirected,1
+Adele Barndorff,Frøken Lythoff,Undirected,1
+Adele Barndorff,Mama,Undirected,1
+Jørgen,Vincent,Undirected,7
+Ove,Richelieu,Undirected,1
+Grimstad,Ove,Undirected,1
+Grandpapa,Jacobsen,Undirected,1
+Grandpapa,Vincent,Undirected,1
+Vincent,smaalo Etatsraaden,Undirected,1
+Adele,Hald,Undirected,1
+Ove,Schaldemoses,Undirected,1
+Schaldemoses,Straa,Undirected,1
+Frøken Lythoff,Nathalia,Undirected,1
+Komtesse Barndorff,Valders,Undirected,1
+Beringgaard,Frederik VII.s,Undirected,1
+Frederik VII.s,de plaisir,Undirected,1
+Ove,de plaisir,Undirected,1
+Havmand,Skjøn,Undirected,1
+Erik Menved,Frederik,Undirected,1
+Erik Menved,Ingeborg,Undirected,1
+Carl XI.s,Ingeborg,Undirected,1
+Carl XI.s,Ulrike Eleonora,Undirected,1
+Oscar I.s,Ulrike Eleonora,Undirected,1
+Carl XV,Oscar I.s,Undirected,1
+Buk,Valders,Undirected,1
+Gud,Valders,Undirected,1
+Kristian VIII.s,Valders,Undirected,1
+Frøken Lythofi,Valders,Undirected,1
+Frøken Lythofi,Jespersen,Undirected,1
+Jespersen,Valders,Undirected,1
+Etatsraad Jespersen,Vincent,Undirected,1
+Etatsraad Jespersen,Grevinden,Undirected,1
+Klodrian,Vincent,Undirected,1
+Hartvig,Salighet,Undirected,2
+Bismarck,Frederik VII.s,Undirected,2
+Hansen,Johannes,Undirected,1
+Camilla,Mo,Undirected,1
+Camilla,Johan nes,Undirected,1
+Camilla,Uhret,Undirected,2
+Knud Hertugs,aarvaagne Vogter,Undirected,1
+Kong Hans,Kristian I.,Undirected,1
+Kong Hans,Kristian II,Undirected,1
+Frederik I,Kristian II,Undirected,1
+Frederik I,Frederik II,Undirected,1
+Frederik II,Kristian IV,Undirected,1
+Frederik III,Kristian IV,Undirected,1
+Carl X.,ban,Undirected,1
+Carl X.,Frederik III,Undirected,1
+Frederik III,Kristian V.,Undirected,1
+Carl XI,Kristian V.,Undirected,1
+Carl XI,Niels Juel,Undirected,1
+Frederik IV,Niels Juel,Undirected,1
+Frederik IV,Sverig,Undirected,1
+Carl XII,Sverig,Undirected,1
+Carl XII,Frederik IV,Undirected,1
+Frederik IV,Steenboch,Undirected,1
+Frederik VI,Steenboch,Undirected,1
+Frederik VI,Kristian VIII,Undirected,1
+Anders,Riber,Undirected,2
+Brattingsborg,Vincent,Undirected,1
+Petersen,Vincent,Undirected,1
+Hugaf,Komtesse,Undirected,1
+Gabriel,Gud,Undirected,2
+Frederik VI,Gabriel,Undirected,2
+Hr. Kragelund,Kragelund,Undirected,4
+Kragelund,lian,Undirected,1
+Gabriel,junior,Undirected,1
+Gabriel,Hr. Kragelund,Undirected,2
+Hr. Kragelund,Riber,Undirected,1
+Jacobsen,Kragelund,Undirected,2
+Hr. Kragelund,Jacobsen,Undirected,1
+Gabriel,Kragelund,Undirected,5
+Gjedes,Kragelund,Undirected,2
+Admiralen,Kragelund,Undirected,1
+H. C. Andersen,Kragelund,Undirected,1
+Andersen,H. C. Andersen,Undirected,1
+Bondegaard Sørensen,Sørensen,Undirected,2
+Ditlevvine Maximaline Georgine,Mama,Undirected,1
+Camilla,hans,Undirected,1
+Egholt,vos,Undirected,1
+Ove,Salighet,Undirected,1
+Flink,Maxmine,Undirected,1
+Maximaline,Maxmine,Undirected,1
+Barring,Ove,Undirected,1
+Barring,Jacobsen,Undirected,1
+Birgitte Bolle,Ritmester Røder,Undirected,1
+Birgitte Bolle,Bolle,Undirected,2
+Birgitte,Ove,Undirected,1
+Birgitte,Bollés,Undirected,1
+Bollés,Sørine Kallegaard,Undirected,1
+Hartvig,Sørine Kallegaard,Undirected,1
+Hartvig,Riber,Undirected,1
+Fransiska,Fransiska Trolle,Undirected,1
+Alexander,Vincent,Undirected,6
+Grev Barndorff,Ove,Undirected,3
+Borgholm,tom,Undirected,1
+Bedstefaders,Grandpapa,Undirected,1
+Adele,Maximaline,Undirected,2
+Hartvig,Niels Alexander,Undirected,1
+Hannibal Martin Luther,Niels Alexander,Undirected,1
+Hannibal Martin Luther,Reinholtdine,Undirected,1
+Alexander Barndorff,Ove,Undirected,3
+Alexander Barndorff,Peter,Undirected,1
+Peter,Stewart,Undirected,1
+Camilla Worm,Peter,Undirected,1
+Dantes,gol,Undirected,1
+Frederik den,Kristian VIII,Undirected,1
+Kjære,Valders,Undirected,1
+Clementine,Peter,Undirected,1
+Peter,Reinholtdine,Undirected,1
+Erhart,Konrad,Undirected,1
+Maximaline,Ove,Undirected,4
+Flink,Peter,Undirected,1
+Greven,Maximaline,Undirected,1
+Egholt,Peter,Undirected,2
+Brorsen,Flun,Undirected,1
+Brorsen,Jørgen,Undirected,1
+Jørgen,Theori,Undirected,1
+Praxis,Theori,Undirected,1
+Jørgen,Praxis,Undirected,1
+Maximaline,Peter,Undirected,2
+Jørgen,Maximaline,Undirected,7
+Alexander Barndorff,Maximaline,Undirected,1
+Alexander Barndorff,Egholt,Undirected,1
+Alexander,Jacobsen,Undirected,1
+Alexander,Ove Jacobsen,Undirected,2
+Frøken Flink,Gud,Undirected,1
+Clara,Riber,Undirected,1
+Barndorff,Kragelund,Undirected,1
+Madpues,Svigerpapa,Undirected,1
+Gud,Hr. Kragelund,Undirected,1
+Hr. Kragelund,Hr. Riber,Undirected,1
+Anette Marie,Eufrosine,Undirected,3
+Hr. Kragelund,Villum,Undirected,1
+Karl,Villum,Undirected,1
+Villum,Villum Villumsen,Undirected,2
+Kragelund,Villum,Undirected,1
+Fader,Lærke,Undirected,1
+Alexander,Ove,Undirected,20
+Alexander,Hartvig bievne,Undirected,1
+Hartvig bievne,Kragelund,Undirected,1
+Barndorff,Jacobsen,Undirected,1
+Barndorff,Greve,Undirected,2
+Fatter,Hartvig,Undirected,1
+Hr. Greven,Principals,Undirected,1
+Gud,Hr. Greven,Undirected,1
+Hartvig,hier,Undirected,1
+Alexander Barndorff,Astrid Fasting,Undirected,1
+Alexander,Astrid,Undirected,5
+Astrid,Ove,Undirected,5
+Hurop,Ove,Undirected,1
+Alexander,Riber,Undirected,1
+Gabriel,Riber,Undirected,2
+Landauer,Riber,Undirected,1
+Carlsbad,F.ru Riber,Undirected,1
+Alexander Eufrosine,Astrid,Undirected,1
+Alexander Eufrosine,Ove,Undirected,1
+Eufrosine,Ove,Undirected,1
+Anette Marie,Ove,Undirected,1
+Hr. Kragelund,Ove,Undirected,1
+Kragelund,Ove,Undirected,2
+Astrid Fasting,Barndorff,Undirected,1
+Maria,Riber,Undirected,1
+Camilla,Riber,Undirected,1
+Camilla,Flink,Undirected,1
+Camilla Worm,Flink,Undirected,1
+Camilla,Camilla Worm,Undirected,3
+Camilla Worm,Maria,Undirected,1
+Camilla,Maximaline,Undirected,1
+Ove,hans Valkyrie,Undirected,1
+Alexander,Clementine,Undirected,1
+Alexander,Maximaline,Undirected,3
+Mo,Reinholtdine,Undirected,1
+Hartvig,Martin Luther,Undirected,1
+Lilleballe,Ove,Undirected,1
+Jomfru Jacobsen,Lilleballe,Undirected,1
+Camilla,Hartvig,Undirected,1
+Maximaline,orver,Undirected,1
+Ca-,orver,Undirected,1
+Ca-,milla,Undirected,1
+Edv.,Lembcke,Undirected,1
+Hr. Kragelund,Søren Lilleballe,Undirected,1
+Gabriel,Jacobsen,Undirected,1
+Gabriel,Gjede,Undirected,3
+Riber,kjør,Undirected,1
+Markussen,kjør,Undirected,1
+Alexander,Greven,Undirected,1
+Grandpapa,Mama,Undirected,1
+Gud,Mama,Undirected,1
+Alexander,Mama,Undirected,1
+Alexander,Frøken Worm,Undirected,1
+Frøken Worm,Maria,Undirected,1
+Grandpapa,Maria,Undirected,3
+Alexander,Conrad,Undirected,1
+Conrad,Erhart,Undirected,1
+Alexander,Camilla,Undirected,2
+Alexander,Johannes Brorsen,Undirected,1
+Johannes,Johannes Brorsen,Undirected,1
+Ove,Weyses,Undirected,1
+Frederik,Ove,Undirected,1
+Mortensen,Ove,Undirected,2
+Frederik Mortensen,Ove,Undirected,1
+Frederik Mortensen,Mortensen,Undirected,1
+Jacob Sørensen,Ove,Undirected,4
+Ove,dale,Undirected,1
+Holgers,Ove,Undirected,1
+Ove,Ålle,Undirected,1
+Barndorff,Ove,Undirected,1
+Barndorff,Camilla,Undirected,2
+Grev Barndorff,Maria,Undirected,1
+Barndorff,Grev Barndorff,Undirected,1
+Adele,Greven,Undirected,1
+Helleliden,Peter,Undirected,1
+Jacob-  ,sen,Undirected,1
+Grev Barndorff,Greven,Undirected,1
+Greven,Ove,Undirected,4
+Adele,Alexander,Undirected,6
+Jacobsen,Maria,Undirected,2
+Ove,Putty,Undirected,1
+Peter,Putty,Undirected,1
+Kringelbaks,Peter,Undirected,1
+Gud,Mortensen,Undirected,2
+Mortensen,Stange,Undirected,2
+Emil,Gud,Undirected,1
+Flun,Svendsen,Undirected,1
+Bekker,Ove,Undirected,1
+Luise,Peter,Undirected,1
+Gud,Jørgen Egholt,Undirected,1
+Egholt,Jørgen,Undirected,1
+Adele,Barndorff,Undirected,1
+Maximaline,Vincent,Undirected,1
+Jørgen,Unnerod,Undirected,1
+Jacobsen,Unnerod,Undirected,2
+Ove,Vincent Testamentets,Undirected,1
+Agnete,Arabella,Undirected,1
+Carl,Fritz,Undirected,1
+Camilla,Gud,Undirected,2
+Kommerceraad Raphael,Ove,Undirected,2
+Napoleon,Ove,Undirected,1
+Papa,Valders,Undirected,1
+Ove,Valders,Undirected,1
+Jacobsen,Valders,Undirected,1
+Egholt,Ove,Undirected,2
+Luise,Ove,Undirected,1
+Lamsemo,Luise,Undirected,1
+Axel,Schrøder,Undirected,1
+Alfred Stange,Ove,Undirected,3
+Kommerceraad Raphael,Stange,Undirected,1
+Kommerceraaden,Stange,Undirected,2
+Estrup,Ove,Undirected,1
+Jacobsen,Søren,Undirected,2
+Kirstine,Søren,Undirected,3
+Jacob,Ove,Undirected,2
+Jacob,Søren,Undirected,1
+Gud,Søren,Undirected,1
+Kong Frederiks,Ove,Undirected,1
+Camilla,Grev Barndorff,Undirected,1
+Jacobsen,Stange,Undirected,1
+Jacobsen,strax,Undirected,1
+Alfred Stange,Jacobsen,Undirected,1
+Egholt,Jacobsen,Undirected,1
+Camilla,Jacobsen,Undirected,1
+N. P.,P. N.,Undirected,1
+Jacobsen,P. N.,Undirected,1
+B.,Jacobsen,Undirected,1
+Kirstine,Søren Lilleballe,Undirected,2
+Nicolaj Unnerod,phil.,Undirected,1
+Ove,Remse,Undirected,1
+Camilla,Jørgen Egholt,Undirected,1
+Jensen,Jørgen,Undirected,1
+Jensen,Ove,Undirected,1
+Camilla,Jørgen,Undirected,1
+Camilla,Dn,Undirected,1
+Camilla,Camilla —,Undirected,1
+Adele,Gud,Undirected,1
+Camilla,Grevinden,Undirected,1
+Hejberg,Thomasine,Undirected,1
+Alexander,Barndorff,Undirected,1
+Jacobsen,Johannes,Undirected,1
+Alexander,Grevinden,Undirected,1
+Adele,Grandmama,Undirected,1
+Grandmama,Ove,Undirected,1
+Adele,Venus,Undirected,1
+Alfred,Alfred Stange,Undirected,1
+Astrid,Hartvig,Undirected,1
+Adele,Maria,Undirected,1
+Camilla,ban,Undirected,1
+Camilla,Valdemar Sejer,Undirected,1
+Kong Volmer,Ove,Undirected,1
+Kong Volmer,Spaamandens,Undirected,1
+Agnes,Henrik Ibsen,Undirected,1
+Camilla,Gabriel,Undirected,2
+Augustin,Marius,Undirected,1
+Camilla,Gjede,Undirected,1
+Astrid Fasting,Camilla,Undirected,1
+Madam,lille Madam,Undirected,1
+Astrid,Hades,Undirected,2
+Hades,Kristus,Undirected,2
+Jesus,Lazarus,Undirected,1
+Astrid,Grev Barndorff,Undirected,1
+Ove,Provstens,Undirected,1
+Astrid,Provstens,Undirected,1
+Alexander,Astrid Fasting,Undirected,1
+Astrid Fasting,Lehnsbesidder,Undirected,1
+Adele,Lehnsbesidder,Undirected,1
+Hurup,Ove,Undirected,1
+Astrid,Camilla,Undirected,1
+Astrid,Peter,Undirected,1
+Dina Schuldt,Peter,Undirected,1
+Alexander,Peter,Undirected,1
+Alexander,Villum Villumsen,Undirected,2
+Ove,Villum Villumsen,Undirected,2
+Kong Kristians,Louises,Undirected,1
+Kronprinsen,Sofie Amalie,Undirected,1
+"Kong Georgs Palæ,",vedbelv,Undirected,1
+Karl,smaalo,Undirected,1
+Dref,Karl,Undirected,1
+Maximaline,Putty,Undirected,1
+Jørgen,Putty,Undirected,1
+Jørgen,Luise,Undirected,1
+Luise,Maximaline,Undirected,1
+Ove,Sølvax,Undirected,1
+Kong Kristian,Villum,Undirected,1
+Kong Kristian,Louise,Undirected,1
+Louise,Napoleon,Undirected,1
+Kong Kristian,Napoleon,Undirected,1
+Alexander,Anna Plads,Undirected,1
+Anna Plads,Porta,Undirected,1
+Brønnum,Porta,Undirected,1
+Brønnum,Nicolaj Taarn,Undirected,1
+Gabriel,Mutter,Undirected,1
+Eufrosine,Mutter,Undirected,1
+Alexander,Hr. Kragelund,Undirected,1
+Papa,Putty,Undirected,1
+Camilla,Ida,Undirected,1
+Adele,Ida,Undirected,1
+Camilla,Egholt,Undirected,1

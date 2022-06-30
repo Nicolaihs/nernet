@@ -1,0 +1,472 @@
+source,target,type,weight
+Carl Johan,ester,Undirected,1
+Anders Andersson,Kalmar Lehn,Undirected,1
+Jøns Pehrson,Kalmar Lehn,Undirected,1
+Anders Pehrsson,Jøns Pehrson,Undirected,1
+Anders Pehrsson,Carlsson,Undirected,1
+Carl,Carlsson,Undirected,1
+Hans,Specien,Undirected,1
+Bertel Jönsson,Hans,Undirected,1
+Bertel Jönsson,Niels Petterson,Undirected,1
+Bertel,Hans,Undirected,1
+Bertel,Principals,Undirected,2
+Bertel,Nils,Undirected,1
+Bertel,Nils Pettersson,Undirected,2
+Bertel,Seven Pehrsson,Undirected,1
+Formandens,Seven Pehrsson,Undirected,1
+Lars,Messingjens,Undirected,4
+Messingjens,esterat,Undirected,1
+Alan,Peter,Undirected,1
+,Lars,Undirected,2
+,Markus,Undirected,1
+Birgittes,Markus,Undirected,2
+Birgittes,Sidses,Undirected,2
+Hans Poulsen,Messingjens,Undirected,1
+Birgittes,Messingjens,Undirected,2
+Lars,Pølsepeters,Undirected,1
+Messingjens,Pølsepeters,Undirected,1
+Lars,harr,Undirected,1
+Druen,Lars,Undirected,1
+Birgitte,Birgitte Asbjørn,Undirected,1
+Birgitte,Sidse,Undirected,2
+,Messingjens,Undirected,1
+Lars,fenere,Undirected,1
+LarS,Lars,Undirected,2
+Lars,ester,Undirected,1
+Druen,Pølsepeter,Undirected,1
+Birgitte,Markus,Undirected,2
+Markus,Sidse,Undirected,3
+Joseph,Sidse,Undirected,1
+Markus,Messingjens,Undirected,3
+Lars iberegnet,Messingjens,Undirected,1
+Birgitte,Josef,Undirected,2
+Markus,Markus Erik H.,Undirected,1
+Karl,Markus,Undirected,1
+Markus Erik H.,iland,Undirected,1
+Markus,iland,Undirected,1
+Markus,Pølsepeter,Undirected,1
+Garibaldi,ester,Undirected,1
+Johan,Thomas,Undirected,15
+Tutmann,Warmer,Undirected,1
+Helene,Tutmann,Undirected,2
+Helene,Principal,Undirected,1
+Karl for,Mesters,Undirected,1
+Frantz,Tutmann,Undirected,1
+,Helene M.,Undirected,1
+Moder,fkarpt,Undirected,1
+P.,R.,Undirected,2
+N. N. Fæsfning,P.,Undirected,1
+N. N-,S.,Undirected,1
+,S.,Undirected,1
+,P.,Undirected,1
+P.,sif Skib,Undirected,2
+Hr. F.,P.,Undirected,1
+Hr. F.,N. N.,Undirected,1
+Gray,Mr. Gray,Undirected,1
+Hans Vadsæk,Mr. Gray,Undirected,1
+Gray,Hans Vadsæk,Undirected,1
+Gray,Mr. Thomsson,Undirected,1
+I. Jester,Mr. Thomsson,Undirected,1
+Gray,I. Jester,Undirected,1
+H.,Schwabe,Undirected,1
+N. N.,Schwabe,Undirected,1
+X,høilys,Undirected,1
+X.,høilys,Undirected,1
+Overbetjenten,X.,Undirected,1
+Brosche,X.,Undirected,1
+,X.,Undirected,2
+Carl Severin,Jens Thyge,Undirected,1
+Jens Thyge,Karen,Undirected,1
+Carl,Karen,Undirected,1
+Carl Severin,Jstedetfor,Undirected,1
+Eierens,Torben Hasbeck,Undirected,1
+John Harrison,Torben Hasbeck,Undirected,1
+John Harrison,Torben,Undirected,1
+Harrisons,Torben,Undirected,1
+Torben,fnart,Undirected,1
+Principal,Torben,Undirected,1
+Hakon Jønsson,Jønsson,Undirected,1
+Jønsson,Torben,Undirected,2
+Torben,Torben —,Undirected,1
+Hannibal,P.,Undirected,1
+Gustaf,Torben,Undirected,2
+Torben,reist fil Varberg,Undirected,1
+Torben,gene,Undirected,1
+Torben,Wallin,Undirected,3
+Torben,Torben Hasbech,Undirected,2
+Torben,ester,Undirected,1
+Adolf Warner,sif,Undirected,1
+Henriette,Henriette S.,Undirected,1
+Henriette,Md. Hansen,Undirected,7
+Adolf Warner,Henriette,Undirected,2
+Adolf,Adolf Warner,Undirected,1
+Adolf,Henriette,Undirected,6
+Henriette,Lagerstrøm,Undirected,1
+Greven,Lagerstrøm,Undirected,1
+Adolf,Greven,Undirected,3
+Adolf,Knorr L Ko,Undirected,2
+Adolf,Principal,Undirected,1
+Adolf —,Principal,Undirected,1
+Adolf uafvidende,Henriette,Undirected,1
+Henriette,fom,Undirected,1
+Louis,engnu,Undirected,1
+Hr. Poitrovitz,listand,Undirected,1
+Louis,Poitrovitz,Undirected,1
+Lucie,Mr. Burham,Undirected,1
+Franyois Poitrovitz,Mr. Burham,Undirected,1
+Mr. Burham,Poitrovitz,Undirected,1
+Franyois Potrovitz,Lucie,Undirected,1
+Lucie,Robertson,Undirected,4
+Ieg,Robertson,Undirected,1
+Nanny,matt,Undirected,1
+Lucie,matt,Undirected,1
+Lucie,Poitrovikz,Undirected,2
+Asten,Nanny,Undirected,1
+Nanny,Robertson,Undirected,6
+Poitrovikz,Robertson,Undirected,4
+Burham,Robertson,Undirected,1
+Burham,Poitrovikz,Undirected,2
+Nanny,Poitrovikz,Undirected,6
+Francois Poitrovikz,Nanny,Undirected,1
+Nanny,nei,Undirected,1
+Burham,Nanny,Undirected,1
+Nanny,ester,Undirected,1
+Fran^ois Poitrovitz,Nanny,Undirected,1
+Fran^ois Poitrovitz,Robertson,Undirected,1
+Mr. Burham,Robertson,Undirected,1
+Nanny,Poitrovitz,Undirected,3
+Franxois Poitrovitz,Nanny,Undirected,1
+Franxois Poitrovitz,Lucie,Undirected,1
+Mr. Frank,Nanny,Undirected,1
+Lucie,soer,Undirected,1
+Nanny,soer,Undirected,1
+Aagerkarl,Fran^ois Poitrovitz,Undirected,1
+Benjamin Calvers,Mr. Jenkins,Undirected,1
+Mr. Jenkins,fom Poitrovitz,Undirected,1
+Vexel,fom Poitrovitz,Undirected,1
+Mr. Jenkins,Vexel,Undirected,1
+Mr. Jenkins,Poitrovitz,Undirected,1
+Ben,Jenkins,Undirected,1
+Jenkins,John Wilfons,Undirected,2
+Jenkins,John,Undirected,1
+Calvers,John,Undirected,1
+Calvers,Sarah Benton,Undirected,1
+John Wilson,Sarah,Undirected,1
+Calvers,Jenkins,Undirected,3
+Benjamin Calvers,Jenkins,Undirected,1
+Calvers,iveien,Undirected,1
+B. Calvers,Calvers,Undirected,1
+B. Calvers,Vexler,Undirected,1
+Franøois Poitrovitz,alias Jenkins,Undirected,1
+Georg Robertsons,alias Jenkins,Undirected,1
+Georg Robertsons,Harry,Undirected,1
+Harry,Mr. Burham,Undirected,1
+Harry Robertson,Poitrovitz alias Jenkins,Undirected,2
+Poitrovitz,Robertson,Undirected,2
+Jenkins,Robertson,Undirected,1
+Jenkins,Nanny,Undirected,1
+Harry Robertson,Nanny,Undirected,1
+Harry Robertson,Poitrovitz,Undirected,1
+Benjamin Calvers,Robertson,Undirected,1
+Benjamin Calvers,Calvers,Undirected,1
+Calvers,Jenkins alias,Undirected,1
+Jenkins alias,Poitrovitz,Undirected,1
+Calvers,Nanny,Undirected,1
+Christo,Poitrovikz,Undirected,1
+Baronesse T,Joseph,Undirected,1
+Baronesse T,P—,Undirected,1
+Joseph,K.,Undirected,1
+,K.,Undirected,1
+Joseph,Kjøn,Undirected,1
+Carlsen,Poitrovikz,Undirected,2
+Carlsen,Petersen,Undirected,1
+Fran^ois Poitrovikz,Joseph,Undirected,1
+Joseph,Poitrovitz,Undirected,2
+Hr. Petersen,Poitrovitz,Undirected,1
+Poitrovikz,Poitrovikz trække,Undirected,1
+Carlsen,Joseph,Undirected,2
+Petersen,Poitrovitz,Undirected,1
+Carlsen,Poitrovitz,Undirected,1
+Carlsen,Joseph Poitrovitz,Undirected,1
+Agathe,Carlsen,Undirected,1
+Joseph,gry,Undirected,1
+Agathe,Joseph,Undirected,3
+Carlsen,Franyois Poitrovitz,Undirected,1
+Agathe,Joseph Poitrovitz,Undirected,1
+Amalie,Johansen,Undirected,4
+Clausen,Gud,Undirected,1
+Clansen,Clausen,Undirected,1
+Adolf Clausen,Johansen,Undirected,2
+Amalie,Flora Petersen/,Undirected,1
+Amalie,Flora,Undirected,10
+Flora,Malle,Undirected,1
+Amalie,Clausen,Undirected,5
+Johansen,eiheller,Undirected,1
+Amalie,Clansen,Undirected,3
+Clansen,Løiers,Undirected,1
+Amalie paany,Clansen,Undirected,1
+Clansen,Sine Gotfredsens,Undirected,1
+Clansen,Sine Gotfredsen,Undirected,1
+Clausen,Sine Gotfredsen,Undirected,1
+Clausen,Marie,Undirected,3
+Flora,Marie,Undirected,1
+Marie,Sine Gotfredsen,Undirected,2
+Amalie,Marie,Undirected,3
+Amalie,Spaakonens,Undirected,2
+Clausen,Johansen,Undirected,1
+Flora,Johansen,Undirected,2
+Amalie,Sine Gotfredsen,Undirected,1
+Johansen,Sine Gotfredsen,Undirected,1
+Amalie,Graad,Undirected,1
+Graad,Sine Gotfredsen,Undirected,1
+Flora,Sine Gotfredsen,Undirected,1
+Adolf Clausen,Sine Gotfredsen,Undirected,2
+Adolf Clausen,Amalie,Undirected,1
+Kall,Steffen Kalk,Undirected,1
+Jens Langfinger,Steffen,Undirected,1
+Jens Langfinger,Rasmus Vilborg,Undirected,1
+Knud,Steffen,Undirected,1
+Steffen,Søren,Undirected,7
+Ella,Søren,Undirected,1
+Ella,Steffen,Undirected,6
+Ellen,Steffen,Undirected,2
+Karl,Steffen,Undirected,1
+Karl,Poul,Undirected,1
+Poul,Søren,Undirected,1
+Ellen,Søren,Undirected,2
+Gustave,Steffen Kall,Undirected,1
+Kjørsel,Steffen,Undirected,1
+Steffen,Steffen Kall,Undirected,2
+Steffen,brave,Undirected,1
+Steffen,Søren taug,Undirected,1
+Ester,Steffen,Undirected,1
+Steffen Kall,Søren,Undirected,2
+Bjørnen,Steffen,Undirected,1
+Mads Madsen,Steffen høit,Undirected,1
+Steffen,lille Mads,Undirected,1
+Mads Madsen,Steffen,Undirected,2
+Steffen,ester,Undirected,1
+Søren,ester,Undirected,1
+Bjørn,Søren,Undirected,10
+Steen,Søren,Undirected,1
+L.,Steen,Undirected,1
+Capitain Jensen,L.,Undirected,1
+Capitain Jensen,Jensen,Undirected,1
+Jensen,L.,Undirected,1
+L.,freisfe,Undirected,1
+fløine,freisfe,Undirected,1
+Bjørn,Toll,Undirected,1
+Bjørn,Steffen Kall,Undirected,1
+Ella,Steffen Kall,Undirected,2
+Emilie,Hansen,Undirected,1
+Emilie,as Hansen,Undirected,1
+as Hansen,ester,Undirected,1
+Emilie,Ludvig Holm,Undirected,3
+S.,Zyk,Undirected,1
+Hansen,Zyk,Undirected,1
+Hansen,fluide,Undirected,1
+Ludvig,Ludvig Holm,Undirected,1
+Kapitain Hansen,Kapitains,Undirected,1
+Kapitain Hansen,Karen,Undirected,1
+Kapifainens,Karen,Undirected,1
+Kapifainens,Kapitainen,Undirected,1
+Kapitainen,S.,Undirected,2
+Kapitainen,Karen,Undirected,1
+Karen,Ludvig Holm,Undirected,1
+Kapitain Hansen,Ludvig Holm,Undirected,2
+Ludvig Holm,nogem,Undirected,1
+Emilie Hansens,Per Søren,Undirected,2
+Ole Petersen,Per Søren,Undirected,8
+Lærke,Ole Petersen,Undirected,1
+Per Søren,j,Undirected,1
+Ole Petersen,Per,Undirected,1
+Per,Søren,Undirected,1
+Per Søren,Søren,Undirected,1
+Md. Petersen,Per Søren,Undirected,1
+Md. Petersen,Petersen,Undirected,1
+Per,Petersen,Undirected,1
+Md. Petersen,Ole Petersen,Undirected,1
+Ole Petersen,Stine R.,Undirected,1
+Per Søren,Stine R.,Undirected,1
+Ole Petersen,Petersen,Undirected,5
+Ole Petersen,asgaaede,Undirected,1
+Petersen,hail,Undirected,1
+Johanne,hail,Undirected,1
+Johanne,Ole Petersen,Undirected,1
+Madam Petersen,Petersen,Undirected,2
+Petersen,hutl,Undirected,1
+Ole Petersen,hutl,Undirected,1
+Emilie,Skibskapitain Petersens,Undirected,2
+fig,h,Undirected,1
+N. N.,fig,Undirected,1
+N. N.,Viggo U.,Undirected,1
+Harald P.,Viggo U.,Undirected,1
+Harald,Viggo,Undirected,5
+Gud,Harald,Undirected,1
+Gud,Viggo,Undirected,1
+Viggo,XXHarald,Undirected,1
+Alexander,Asten,Undirected,1
+Alexander,Christoffer B.,Undirected,2
+Alexander,falsf,Undirected,1
+Alexander,Gud,Undirected,1
+Alexander,Tu,Undirected,1
+Alexander,Christoffer,Undirected,15
+Alexander,nn,Undirected,1
+Alexander,Alexander B.,Undirected,1
+Alexander B.,Christoffer,Undirected,1
+Assnit,Christoffer,Undirected,1
+R.,fom,Undirected,1
+Berthe Larsen,Julie R,Undirected,1
+Julie,Julie R,Undirected,1
+Berthe,Julie,Undirected,1
+,Julie R.,Undirected,1
+,Sophus,Undirected,1
+Julie R.,Sophus,Undirected,1
+Berthe Larsen,Julie R.,Undirected,1
+Berthe Larsen,tans,Undirected,1
+Julie,tans,Undirected,1
+Bertha Larsen,Julie,Undirected,2
+Charles Wintringham,alias Carlo Bertolacci,Undirected,2
+,L. I. Bagger,Undirected,1
+Wilhelm,Wilhelm B.,Undirected,2
+Andrea H.,Wilhelm,Undirected,1
+Candidat B.,H.,Undirected,1
+Candidat B.,G.,Undirected,1
+Andrea,Wilhelm,Undirected,5
+Aarf orud,Julie,Undirected,1
+Greve —,Jean,Undirected,1
+B,Wilhelm,Undirected,1
+Andrea,Greven,Undirected,1
+Andrea,Lieutenanten,Undirected,1
+Charlotte,N.,Undirected,1
+Hilmer,taus,Undirected,1
+Charlotte,Hilmer,Undirected,6
+Hilmer,fasfe,Undirected,1
+Hilmer,Hrr,Undirected,1
+Charlotte,Hrr,Undirected,1
+Hilmer,asstaa,Undirected,2
+Hilmer,Industriridderens,Undirected,1
+Industriridderens,dobbøsjA,Undirected,1
+A.,pilsy,Undirected,1
+A.,B.,Undirected,1
+Baron S.,fpurgte,Undirected,1
+Baron,r.,Undirected,1
+Julie,Vexler,Undirected,1
+Asten,Mfeph,Undirected,1
+Axel strax,Mfeph,Undirected,1
+Olivia,sra Sverrig,Undirected,1
+Olivia,nn,Undirected,1
+Axel,Joseph,Undirected,1
+Axel,Hain,Undirected,2
+Axel,eiheller,Undirected,2
+B.,Carrie,Undirected,1
+Axel,Carrie,Undirected,7
+Amandus,Axel,Undirected,7
+Amandus,Carrie,Undirected,6
+Amandus K.,Carrie,Undirected,1
+Amandus,Joseph,Undirected,2
+Amandus,strax,Undirected,1
+assted,strax,Undirected,1
+Amandus,assted,Undirected,1
+Carrie,lille Carrie,Undirected,1
+Gud,Margrethe,Undirected,1
+,Amandus,Undirected,1
+,Nn,Undirected,1
+Margrethe,Nn,Undirected,1
+Amandus,Margrethe,Undirected,2
+Carrie,Margrethe,Undirected,1
+Bertha,Moder,Undirected,1
+Bertha,Elsiers,Undirected,1
+Baerth Kalby,Elsiers,Undirected,1
+Hr. Petersen,Marie,Undirected,1
+Bertha,hnn,Undirected,1
+Bertha,deras,Undirected,1
+Bertha,mia,Undirected,1
+Marie,Petersen,Undirected,1
+Ane,Marie,Undirected,1
+Ane,Bertha,Undirected,1
+Bertha,Berthv,Undirected,1
+Berthv,Petersen,Undirected,1
+Petersen,sog,Undirected,1
+Kjøn,sog,Undirected,1
+Hr. Petersen,Kjøn,Undirected,1
+Bertha,Petersen,Undirected,7
+Petersen,Willemoes,Undirected,2
+Willemoes,lille Bertha,Undirected,1
+Bertha,lille Bertha,Undirected,2
+Petersen,Thorvald,Undirected,1
+Bertha,Marie Willemoes,Undirected,1
+Karen,Marie Willemoes,Undirected,1
+Bertha,sra Hr. Petersen,Undirected,1
+Hr. Petersen,ester,Undirected,1
+Bertha,ester,Undirected,1
+Bertha,Thorvald,Undirected,1
+Bertha,Kalby,Undirected,2
+Bertha,Thorvald Petersen,Undirected,7
+Bertha,Willemoes,Undirected,1
+Bertha,Brysf,Undirected,1
+Hr. Petersen,Petersen,Undirected,1
+Bertha,Hr. Petersen,Undirected,1
+,Bertha,Undirected,1
+Hr. Petersen,Thorvald Petersen,Undirected,1
+Elsfer,Hr. Petersen,Undirected,1
+Bertha,Susanne,Undirected,1
+Petersen,Susanne,Undirected,1
+Charles,Javisf,Undirected,1
+Charles,X,Undirected,3
+X,XX,Undirected,1
+,XX,Undirected,1
+,Charles,Undirected,4
+Charles Karremer,Henriette Z.,Undirected,1
+Henriette,Henriette Z.,Undirected,1
+Charles,Henriette,Undirected,3
+Charles,X.,Undirected,1
+Charles,Grev X,Undirected,1
+Henriette,X,Undirected,1
+Greve,Peter,Undirected,1
+Charles,lee,Undirected,2
+Charles,Taffeluhr,Undirected,1
+Grev X.,Taffeluhr,Undirected,1
+Charles,Gud,Undirected,1
+Charles,hail tilhøire,Undirected,1
+Greven,paany,Undirected,1
+Nicolai Hansen,Peter Nielsen,Undirected,1
+Nicolai Hansen,Sivert,Undirected,1
+Andrea,Mads,Undirected,4
+Johanne,Thrine,Undirected,1
+Sivert,sem,Undirected,1
+Mads,sem,Undirected,1
+Mads,Sivert,Undirected,7
+,Mads,Undirected,3
+Ester,Mads,Undirected,2
+Gud,Mads,Undirected,1
+Sivert,tik,Undirected,1
+Mads,tik,Undirected,1
+Gulduhr,Mads,Undirected,1
+Gulduhr,Sivert,Undirected,1
+Andrea,Sivert,Undirected,3
+,Andrea,Undirected,1
+Andrea,Asten,Undirected,1
+Andrea,Dirkepeter,Undirected,1
+,Dirkepeter,Undirected,1
+Mads,Melmanden,Undirected,1
+Hans,Mads,Undirected,2
+Mads,Møller,Undirected,1
+Søren Sørensen,Søren Sørensen Eiby,Undirected,1
+Søren,Søren Sørensen,Undirected,2
+Søren,ganfle,Undirected,1
+Karen,ganfle,Undirected,1
+Søren tik,Sørensen,Undirected,1
+Haksen,Søren Sørensen,Undirected,1
+Annie,Mr. Mike Giles,Undirected,1
+Annie,Mary,Undirected,2
+Henderson,Mary,Undirected,1
+Henderson,Mr. Giles,Undirected,3
+Mary,ogfaa,Undirected,1
+Henderson,ogfaa,Undirected,1
+Henderson,Irlænders,Undirected,3
+Henderson,Hr. Giles,Undirected,2
+Hr. Henderson,Mr. Henderson,Undirected,1
+Henderson,Hr. Henderson,Undirected,1
+Henderson,Mr. Henderson,Undirected,1
+Irlænders,Mr. Henderson,Undirected,1

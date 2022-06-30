@@ -1,0 +1,118 @@
+source,target,type,weight
+Fol-kets,Hs,Undirected,1
+Christian,Gud,Undirected,5
+Christian,Helle-gud,Undirected,1
+Helle-gud,leer,Undirected,1
+Emil Holm,tans,Undirected,1
+Jens,Peter Faders,Undirected,2
+Emil,Jens,Undirected,6
+Dands,Karen,Undirected,2
+Jens,Karen,Undirected,32
+Emil,Karen,Undirected,2
+Gud,Wiitternich,Undirected,1
+Bang,Ben,Undirected,1
+Peter Fabers,ester,Undirected,1
+Asen,Gud,Undirected,1
+Emilie,Wütternich,Undirected,2
+Erik Føde,Karen,Undirected,2
+Anders,Erik,Undirected,1
+Anders,Karen,Undirected,1
+Erik,Karen,Undirected,2
+Emil Holm,Jens Birkerød,Undirected,1
+Emilie,Frøken Wülternich,Undirected,1
+Emil,Frøken Wülternich,Undirected,1
+Jens,ester,Undirected,2
+Gud,Øe,Undirected,1
+Emilie,Karen,Undirected,5
+Emilie,Toilette,Undirected,1
+Karen,Toilette,Undirected,1
+,Jens,Undirected,4
+,Karen,Undirected,1
+Karen,hnn,Undirected,2
+Emil,nn,Undirected,1
+Gud,Jens,Undirected,1
+,lille Karen,Undirected,1
+,Erik Føbe,Undirected,1
+Christian,Madam Thiesen,Undirected,5
+Emil,Madam Thiesen,Undirected,1
+Madam Tiefen,hnn,Undirected,1
+Hnn,hnn,Undirected,1
+Emil,hnn,Undirected,1
+Emil,Emilie Wiitternich,Undirected,1
+Emilie Wiitternich,Gud,Undirected,1
+Wie,hnn,Undirected,1
+Gud,Henr. Hertzs,Undirected,1
+Berden,Jens,Undirected,1
+Christian,Jens,Undirected,3
+Emil,Øreng,Undirected,1
+Emilie,Hnn,Undirected,2
+Per,Povl,Undirected,1
+Jens Birkerød,Karen,Undirected,3
+Holm,Jens Birkerød,Undirected,1
+Jens Birkerød,hnn,Undirected,1
+Jens,Jens Birkerød,Undirected,1
+H. P. Holsts,Jens,Undirected,1
+Wrangel,ning,Undirected,1
+Emil,Emilie,Undirected,2
+Emil,Jens Birkerød,Undirected,1
+Emilie,Jens,Undirected,1
+Christian,fig,Undirected,1
+Christian,Madam Tiefen,Undirected,1
+Christian,Jens Birkerød,Undirected,2
+Madam Thesen,lille Frn Holm,Undirected,1
+Madam Thiesen,ifjor Foraar,Undirected,1
+Asten,Thiesen,Undirected,1
+Emil,Jenser,Undirected,1
+Jenser,Kong Frederik,Undirected,1
+Bang,Emil,Undirected,2
+Emil,sif,Undirected,1
+Bei,kcmme,Undirected,1
+Bang,Thiesen,Undirected,1
+Blom,Lieutenanten,Undirected,1
+Karen,hendks,Undirected,1
+Jens,hendks,Undirected,1
+Erik,Johan,Undirected,1
+Erik Føde,Johan Wütternich,Undirected,1
+Karen,taus,Undirected,1
+Jessen,forsvaredcs,Undirected,1
+-Jens,Karen,Undirected,1
+Dn,Karen,Undirected,1
+Wütternich,ester,Undirected,1
+Emilie,Wiitternich,Undirected,1
+Emil,Kommanderser-genten,Undirected,1
+Emilie,ber,Undirected,1
+hnn,yvei,Undirected,2
+Emilie,hiin,Undirected,1
+Obersfen,tert,Undirected,1
+Emilie,Obersfen,Undirected,1
+Faders,ben Gaard,Undirected,1
+Gud,Karen,Undirected,1
+Christian,hnn,Undirected,2
+Madam Thiesen,hnn,Undirected,1
+Emilie,Madam Thiesen,Undirected,2
+Irmingers,ThestrupS,Undirected,2
+Christian,Holm,Undirected,1
+Jensemand,Karen,Undirected,1
+Gud,Sciren,Undirected,1
+Emilie,Holm,Undirected,2
+Fatter,Gud,Undirected,1
+Emilie,Madam Thæsen,Undirected,1
+Christian,Madam Thæsen,Undirected,1
+Jens,Lien,Undirected,1
+Emilie,Lien,Undirected,1
+Adolf Reckes,Peter Fabers,Undirected,1
+Christian,HøibordS,Undirected,1
+HøibordS,hnn,Undirected,1
+Fatter,hnn,Undirected,1
+Madam Thiesen,Thiesen,Undirected,1
+Jens Birkerød,mar-scheres,Undirected,1
+Karen,mar-scheres,Undirected,1
+Gud,Karen skjælmsk,Undirected,1
+Bang,Emilie,Undirected,2
+Bang,H. P Holst,Undirected,1
+Tyras,reifes,Undirected,1
+Hermann Bissen,Jens,Undirected,1
+Orla Lehmann,Stenstrup,Undirected,1
+Bissen,Jens Birkerød,Undirected,1
+Beiler,Jens,Undirected,2
+C. PlougS,Emilie,Undirected,1

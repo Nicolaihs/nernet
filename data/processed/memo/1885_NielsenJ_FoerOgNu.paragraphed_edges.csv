@@ -1,0 +1,292 @@
+source,target,type,weight
+Jesu,Sirtses,Undirected,1
+Gud,Niels Hevring,Undirected,2
+Klavs Bjærgen,Madsens,Undirected,1
+Madsens,Peder Jonsen,Undirected,1
+Grete,Klavs,Undirected,2
+Klavs,Peder,Undirected,2
+Iohanne,Peder,Undirected,1
+Klavs,Peder Jonscn,Undirected,1
+Johanne,Peder Jonscn,Undirected,1
+Klavs,ester,Undirected,1
+Grete,Peder Jonfen,Undirected,1
+Klavs,vos,Undirected,1
+Grete,vos,Undirected,1
+Klavs,Peder Ionsen,Undirected,1
+Grete,Larsine,Undirected,5
+Jørgen Funders,Larsine,Undirected,1
+Klavs,Larsine,Undirected,1
+Gud,Iohanne,Undirected,1
+Grete,Iohanne,Undirected,1
+Grete,Peder,Undirected,1
+Grete,Peder Jonsen,Undirected,1
+Johanne,Peder Jonsen,Undirected,1
+Gud,Johanne,Undirected,1
+Gud,oni,Undirected,1
+J,Klavs Bjærgen,Undirected,1
+Karen,Mette,Undirected,9
+Grete,Jomfru Karen,Undirected,1
+Jomfru Karen,Mette,Undirected,1
+Grete,kain,Undirected,2
+Grete,Mesfers,Undirected,2
+Peder Jonsen,er Gretes,Undirected,1
+Peder,Peder Jonsen,Undirected,2
+Davre,Klavs,Undirected,2
+Karle,Peder Jonsen,Undirected,1
+Karle,Klavs,Undirected,1
+Grete Hellesen,Peder Jonsen,Undirected,1
+Grete Hellesen,Karle,Undirected,1
+Karle,Kasper Filler up,Undirected,1
+Kasper Filler up,Mads Ring,Undirected,1
+Alette,Mads Ring,Undirected,1
+Alette,Karen,Undirected,1
+Grete Hellesen,Mette,Undirected,1
+Mette,skoggerlo,Undirected,1
+Karlen,idef,Undirected,1
+Mette,idef,Undirected,1
+Larfes,Mads,Undirected,1
+Kasper Fillerup,Mads Ring,Undirected,2
+Hain,Karen,Undirected,2
+Hain,Mette,Undirected,3
+Karen,Mads,Undirected,1
+Kaspers,Mads,Undirected,1
+Karen,jen,Undirected,1
+Karen,Kasper Fillerup,Undirected,1
+Mette,Tu,Undirected,1
+Asfen,Karen,Undirected,1
+Kasper,Mads Ring,Undirected,1
+Hain,Mads Ring,Undirected,2
+Kasper Fillerup,Klavs Bjærgeir,Undirected,1
+Klavs Bjærgeir,eir,Undirected,1
+Karen,Klavs,Undirected,4
+Karlen,Klavs,Undirected,1
+Klavs,Mette,Undirected,3
+Klavs Bjærgen,Mette,Undirected,1
+Kasper Fillerup,Klavs Bjærgen,Undirected,1
+Karen,Klavs Bjærgen,Undirected,2
+Klavs Bisp,Mads Ring,Undirected,1
+Kasper Fillerup,Klavs Bisp,Undirected,1
+Gud,Karle,Undirected,1
+Kasper,Mette,Undirected,1
+Kasper,Mads,Undirected,1
+Mads Ring,Mette,Undirected,1
+Kasper brumledc,Mads Ring,Undirected,1
+Gud,Klavs,Undirected,1
+Klavs Røgter,Mads Ring,Undirected,1
+Alette,Klavs,Undirected,1
+Gud,crrdda,Undirected,1
+Hubav,Klavs,Undirected,1
+Mette,frein,Undirected,1
+Kasper,Klavs,Undirected,1
+Peder Jonsen,son,Undirected,1
+Grete Hellcsen,son,Undirected,1
+Anders Lind,Iesper Gravesen,Undirected,1
+Jespers,nun,Undirected,1
+Emmeline,skjelnes,Undirected,1
+Emmeline,Jens,Undirected,1
+Jens,Kristen,Undirected,1
+Kristen,Povl,Undirected,1
+Gud,ugiffe,Undirected,1
+Davre,Unnen,Undirected,1
+Gud,lulla,Undirected,1
+Karl,Mikkel Asmussen,Undirected,1
+kain,lid,Undirected,1
+Kresten,Mikkel,Undirected,2
+Miltel Asmussen,Niels Hevring,Undirected,1
+Mikkel,Trumf,Undirected,1
+Kresten,Niels,Undirected,1
+Anders Lind,Mikkel,Undirected,1
+Kresten,Søren,Undirected,2
+Niels,Søren,Undirected,1
+Mikkel,Niels Hcvrings,Undirected,1
+Niels Hcvrings,Niels Hevring,Undirected,1
+Jesper Gravesen,Niels Hevring,Undirected,2
+Grete Hellescn,Sirtscs,Undirected,1
+Larsine —,Niels Hevring,Undirected,1
+Niels,Niels Hevring,Undirected,5
+Gud,Ove Flarup,Undirected,1
+Hain,Ove Flarup,Undirected,1
+Lars Hellesen,gansle,Undirected,1
+Lars,Larsine,Undirected,1
+Lars Hellescns,Larsine,Undirected,1
+Lars Hellescns,Lars Hellesen,Undirected,1
+Grete,Lars Heliosens,Undirected,1
+Grete,Lars,Undirected,4
+Hain,Lars,Undirected,2
+Gud,Hain,Undirected,1
+Gud,Lars,Undirected,6
+Bien,Lars,Undirected,1
+Bien,Gud,Undirected,1
+Eines,Gud,Undirected,1
+Grete,Grete Heliosen,Undirected,1
+Grete,Lars Hellesen,Undirected,2
+Lars,Lars Hellesen,Undirected,2
+Bjørnen,Lars Hellescn,Undirected,1
+Kammerraad Petersens,Lars Hellesen,Undirected,1
+Lars,Rane,Undirected,1
+Brasf,Lars,Undirected,1
+Lars,Petersen,Undirected,1
+Grete,Hain,Undirected,2
+Højgaard,Larsine Hellesen,Undirected,1
+Helle,Lars,Undirected,1
+Helle,Larsine,Undirected,1
+Hain,Mikkel,Undirected,1
+Lars,Sine,Undirected,1
+Sine,vos,Undirected,1
+Hellesine,vos,Undirected,1
+Niels Hevring,Søren,Undirected,1
+Kosak,Niels,Undirected,1
+Larsine,Niels,Undirected,14
+Grete Hellesen,Larsine,Undirected,2
+Grete,Karlen,Undirected,1
+Grete,Niels Hevring,Undirected,8
+Niels,Zeg,Undirected,1
+Ieg,lille Niels,Undirected,1
+Gud,Larsine,Undirected,2
+Niels,son,Undirected,2
+Niels,hair,Undirected,1
+Larsine,Niels Hevring,Undirected,11
+Grete Hellesen,Niels Hevring,Undirected,5
+Hain,Niels Hevring,Undirected,4
+Driveir,Gud,Undirected,1
+Karl,Niels Hevring,Undirected,3
+Karl,son,Undirected,1
+Kjæresten,son,Undirected,1
+Larsine,dn,Undirected,2
+Gud,Persen,Undirected,2
+Hain,Niels,Undirected,3
+Grete,Grete Hellesen,Undirected,1
+Gud,Somme,Undirected,1
+Larsine,Suner,Undirected,1
+Karl,somme,Undirected,1
+Hain,jen,Undirected,1
+Hain,haii,Undirected,1
+Larsine,jen,Undirected,1
+Grete,Niels,Undirected,7
+Asten,Grete,Undirected,1
+Højgaard,Zeg,Undirected,1
+Grete,Karl,Undirected,1
+Lars Hellesen,Larsine,Undirected,1
+Dien,Hain,Undirected,1
+Per,Povl,Undirected,1
+Ieg,Niels Hevring,Undirected,2
+Karl,Niels,Undirected,1
+Kjæresten,Niels,Undirected,2
+Rane,Zeg,Undirected,1
+Grete,jen,Undirected,1
+Karl,Larsine,Undirected,1
+Grete Hellesen,Karl,Undirected,1
+Mikkel Asmussen,Niels Hevring,Undirected,1
+Hain,Sid,Undirected,1
+Niels Hcvring,Sid,Undirected,1
+Mikkel Asmussen,Niels Hcvring,Undirected,1
+Hain,Mikkel Asmussen,Undirected,1
+Mikkel,Niels,Undirected,1
+Mikkel,hair,Undirected,1
+Grete,Kjæresten,Undirected,1
+Kjæresten,hnn,Undirected,2
+Larsine,hnn,Undirected,1
+Jesper Gravesen,Karl,Undirected,1
+Jesper Gravesen,Niels,Undirected,4
+Karlen,Niels,Undirected,4
+Grete Hellesen,Niels,Undirected,5
+Lavrids,Lavrids Jepsen,Undirected,1
+Jesper Gravesen,Lavrids,Undirected,1
+Gud,Lavrids,Undirected,1
+Lavrids,hair,Undirected,1
+Lavrids Jepsen,drr,Undirected,1
+Niels,drr,Undirected,1
+Niels Hevring,son,Undirected,1
+Niels,vos,Undirected,1
+Grete,Hellescns,Undirected,1
+Lavrids Iepsen,Niels,Undirected,1
+Larsine,Pasiar,Undirected,1
+Kjæresten,Larsine,Undirected,2
+Jørgen Funders Gaard,Niels Hevring,Undirected,1
+Jørgen Funders Gaard,Larsine,Undirected,1
+Larsine Hellesen,Niels Hevring,Undirected,1
+Gud,Zo,Undirected,1
+Gud,Niels,Undirected,4
+Grete,Hellesen,Undirected,3
+Grete Hellesen,Kjæresten,Undirected,1
+Niels,haii,Undirected,1
+Niels Hevring,notlc,Undirected,1
+Dn,Zeg,Undirected,1
+Niels Hevring,Ole,Undirected,10
+Zeg,son,Undirected,1
+Lavrids Jepsen,Niels Hevring,Undirected,3
+Lavrids Jepsen,Niels,Undirected,5
+Niels,Ole,Undirected,12
+Lavrids,Niels,Undirected,1
+Niels Hevring,ester,Undirected,1
+Ole,ester,Undirected,1
+Jesper Gravesen,hans Karles,Undirected,1
+Mesterens,hans Karles,Undirected,1
+Niels,Ole Lærling,Undirected,1
+Jeppe Lavrids,Niels,Undirected,1
+Jeppe Lavrids,Niels Hevring,Undirected,2
+Lavrids Zepsens,Niels,Undirected,1
+Jeppe Lavrids,Lavrids Zepsens,Undirected,1
+Hain,Jeppe Lavrids,Undirected,1
+Jeppe Lavrids,Mesfers,Undirected,1
+Mesfers,Niels Hevring,Undirected,1
+Grete,Iesper Gravesen,Undirected,1
+Niels,s,Undirected,1
+Grete,s,Undirected,1
+Ole,kair,Undirected,2
+Niels,jen,Undirected,1
+Karlen,Peter,Undirected,1
+Niels,Peter,Undirected,2
+Niels Hevring,Peter,Undirected,2
+Cyprianus,Niels,Undirected,1
+Niels Hevring,Villads,Undirected,2
+Niels Hevring,Peter leende,Undirected,1
+Niels,Peter leende,Undirected,1
+Ole,Peter,Undirected,1
+Niels Hevring,dein,Undirected,1
+Iesper Gravesen,Sejer,Undirected,1
+Niels Hevring,Sejer,Undirected,1
+Jesper Gravesen,Peter,Undirected,1
+Johanne,Peter,Undirected,1
+Johanne,Villads,Undirected,2
+Bton,Ole,Undirected,1
+Bton,Niels Hevring,Undirected,1
+Fatter,Zeg,Undirected,1
+Fatter,Vilhelm,Undirected,1
+Jesper Gravesen,Jørgen Funder,Undirected,1
+Jesper,Karl,Undirected,1
+Jørgen Funder,Niels Hevring,Undirected,2
+Anders Lind,Kristian Thomsen,Undirected,1
+Anders Lind,Niels Hevring,Undirected,1
+Hellesen,Niels,Undirected,1
+Grete,Gud,Undirected,1
+Grete Hellesen,Niels Hcvring,Undirected,1
+Larsine,Niels Hcvring,Undirected,1
+Aland,Niels Hcvring,Undirected,1
+Bæven,Grete,Undirected,1
+Jesper Gravesen,Lavrids Jepsen,Undirected,1
+Gravers,Niels Hevring,Undirected,2
+Gravers,Niels,Undirected,1
+Ole,son,Undirected,1
+Ole,Peter —,Undirected,1
+Niels Hevring,Peter —,Undirected,1
+Ole,Villads,Undirected,1
+Johanne,Mitfel Asmussen,Undirected,1
+Mitfel Asmussen,Niels,Undirected,1
+Mesterens,Peter,Undirected,2
+Lavrids Jepsen,Peter,Undirected,1
+Larsine,Stiels,Undirected,1
+Grete,Lavrids Jepsen,Undirected,1
+Lavrids Jepsen,Ole,Undirected,2
+Gravers,Ole Lukøje,Undirected,1
+Lars Hevring,Ten,Undirected,1
+Larsine,Ten,Undirected,1
+Jørgen Funder,Larsine,Undirected,1
+Grete,Larsemand,Undirected,1
+Grete Hellesen,Gud,Undirected,1
+Hain,Larsemand,Undirected,1
+Hain,ers,Undirected,2
+Anne,Lille Lars,Undirected,1
+Anne,Bedstemoders,Undirected,1
+Lars,Larsemand,Undirected,1
+Larsemand,Sam,Undirected,1

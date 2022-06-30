@@ -1,0 +1,123 @@
+source,target,type,weight
+Karlsen,Skjold Karlsen,Undirected,1
+Karlsen,haTde,Undirected,1
+Gud,haTde,Undirected,1
+Albert Bang,Kristine,Undirected,1
+Knud,Kristine,Undirected,1
+Balles,Borrings,Undirected,1
+Karisens,Nikolaisen,Undirected,1
+Karisens,Skjold,Undirected,1
+Jomfru Nikolaisen,Skjold,Undirected,1
+Jomfru Nikolaisen,hnn,Undirected,1
+Hømadrats,Jomfru Nikolaisen,Undirected,1
+Krieg,giebt,Undirected,1
+Krieg,oder,Undirected,1
+Jansen,Madam Storms,Undirected,1
+Madam Sturms,Skjold,Undirected,1
+Gud,Madam Storm,Undirected,1
+Luci,Madam Storm,Undirected,3
+Jansen,Skjold,Undirected,1
+Jansen,Madam Storm,Undirected,1
+Luci Petersen,Madam Storm,Undirected,2
+Korporal Nielsen,lille Luci,Undirected,1
+Jansen,Jomfru Jansen,Undirected,1
+Jomfru Jansen,Madam Storm,Undirected,3
+Korporal Nielsen,Madam Storm,Undirected,1
+Jomfru Jansen,Luci,Undirected,1
+Jansen,Luci,Undirected,1
+Luci,Skjold,Undirected,21
+Gud,véd,Undirected,1
+Karl,Svend Trøst,Undirected,1
+Inge,Kirstine Spændelsko,Undirected,1
+Ingemanns,Kirstine Spændelsko,Undirected,1
+Ingemanns,Luci,Undirected,1
+Hr. Ritmester,Skjold,Undirected,1
+Frøken Nikotine,Karlsen,Undirected,1
+Frøken Nikotine,Skjold,Undirected,1
+Hanne,Skjold,Undirected,1
+Luci Petersen IV,Skjold,Undirected,1
+Gud,Skjold,Undirected,5
+Karlsen,Madam Madsens,Undirected,1
+Karlsen,Luci,Undirected,1
+Olaf Rye,Rolff,Undirected,1
+Olaf Rye,Rolf,Undirected,3
+Olaf Rye,Tinsabel,Undirected,1
+Skjold,liam,Undirected,1
+Olaf Rye,Skjold,Undirected,11
+Kaptejnens,Nikolajsen,Undirected,1
+Kaptejnens,Luci,Undirected,1
+Jomfru Nikolajsens,Luci,Undirected,1
+Jomfru Nikolajsen,Jomfru Nikolajsens,Undirected,1
+Luci,Nikolajsen,Undirected,2
+Gud,Luci,Undirected,1
+Fn,Luci,Undirected,2
+Nikolajsen,Olaf Rye,Undirected,7
+Luci,Olaf Rye,Undirected,11
+Gud,Jomfru Nikolajsen,Undirected,1
+Jomfru Nikolajsen,Nikolajsen,Undirected,1
+Faders,Rolf,Undirected,1
+Kay Jespersen,Rolf,Undirected,1
+Kay Jespersen,Nikolajsen,Undirected,1
+Kay Jespersen,Olaf Rye,Undirected,1
+Kay,Olaf Rye,Undirected,3
+Kay ug,Olaf Rye,Undirected,1
+Olaf Rve,c,Undirected,1
+Konsul Jespersens,Olaf Rye,Undirected,1
+Gud,Konsul Jespersens,Undirected,1
+Gud,Nikolajsen,Undirected,2
+Gud,Olaf,Undirected,1
+Holm,Jomfru Nikolajsen,Undirected,1
+Jomfru Nikolajsen,Olaf Rye,Undirected,2
+Karlsen,Oline,Undirected,1
+Gud,lille Olaf Rye,Undirected,1
+Hr. Holm,Olaf Rye,Undirected,1
+Oline,hnn,Undirected,1
+Hr. Nikolajsen,Olaf Rye,Undirected,1
+Franklin,Turgot,Undirected,1
+Madvigs,Olaf Rye,Undirected,1
+Fa,Rigmor,Undirected,1
+Olaf Rye,Rigmor,Undirected,6
+Hr. Holm,Ivanhoe,Undirected,1
+Jomfru Nikolajsen,Stine,Undirected,1
+Stine,Søren,Undirected,1
+Bu,Olaf Rye,Undirected,1
+Big,Bu,Undirected,3
+Big,Rigmor,Undirected,2
+Olaf Rye,hnn,Undirected,1
+Graad,Olaf Rye,Undirected,1
+Olaf Rye,him,Undirected,1
+Olaf Rye,lier,Undirected,1
+Pig,lier,Undirected,1
+Olaf Rye,Pig,Undirected,1
+J	,Olaf Rye,Undirected,1
+Lille Mo,ers,Undirected,1
+Luci,ers,Undirected,1
+Mo,Olaf Rye,Undirected,1
+Luci,Mo,Undirected,1
+Luci,tint,Undirected,1
+Mo’,Olaf Rye,Undirected,2
+Dy,Luci,Undirected,1
+Olaf Rye,paany,Undirected,1
+Rigmor,Skjold,Undirected,1
+Skjold,liere,Undirected,1
+Karlsen,Petersen,Undirected,1
+Olaf Rye,Petersen,Undirected,2
+Nikolajsen,Skjold,Undirected,2
+Nikolajsen,Oline,Undirected,3
+Olaf Rye,Urtekræmmer Petersens Bod,Undirected,1
+Jespersens,Olaf Rye,Undirected,1
+Hr. Hansen,Jespersens,Undirected,1
+Gud,vos,Undirected,1
+Hansen,vos,Undirected,1
+Hansen,ded,Undirected,4
+Rolf,Skjold,Undirected,2
+Bravo,bravo,Undirected,1
+Rolf,bravo,Undirected,1
+Gud,paany,Undirected,1
+Au,Luci,Undirected,1
+Lieutnart Gerner,hnn,Undirected,1
+Gerner,Lieutnant,Undirected,1
+Frøken Falk,Tante Oline,Undirected,1
+Eo,Olaf,Undirected,1
+Nikolajsen,Olaf,Undirected,1
+Jærn,Oline,Undirected,2

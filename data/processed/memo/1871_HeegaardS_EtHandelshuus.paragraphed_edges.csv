@@ -1,0 +1,250 @@
+source,target,type,weight
+Charles Frank,Franks,Undirected,1
+Charles Frank,Frank,Undirected,2
+Frederikke,Hnstrnes,Undirected,1
+Frederikke,maasfee,Undirected,1
+Nikolai Storm,maasfee,Undirected,1
+Frank,Nikolai Storm,Undirected,2
+Frank,Nikolai,Undirected,16
+Nikolai,Storm,Undirected,1
+Frederikke,Storm,Undirected,3
+Frederikke,Nikolai,Undirected,13
+Frank,Frederikke,Undirected,28
+Frank,Mechanist,Undirected,1
+Frederikke,Mechanist,Undirected,1
+Frederikke,hnn,Undirected,9
+Frank,Maasfee,Undirected,1
+Adam,Frank,Undirected,31
+Adam,Nikolai,Undirected,2
+Frank gjenkaldfe,Nikolai,Undirected,2
+Adam,hæns,Undirected,1
+Adam,Nikolais Pult,Undirected,1
+Nikolais Pult,hæns,Undirected,1
+Frank,hæns,Undirected,1
+Frank,Storm,Undirected,2
+Adam,Storm,Undirected,4
+Adam,Nyskov,Undirected,14
+Frede rikke,Frederikke,Undirected,1
+Carstensens,Frederikke,Undirected,1
+Adam,Carstensens,Undirected,3
+Adam,Laura Carstensen,Undirected,1
+Laura,Laura Carstensen,Undirected,1
+Frank,hnn,Undirected,4
+Adam,Carstensen,Undirected,17
+Adam,Laura,Undirected,35
+Adam,Jomfru Carstensen,Undirected,1
+Frank,lille Jomfru Carstensen,Undirected,1
+Frank,Øe,Undirected,1
+Frederikke,Øe,Undirected,2
+Laura,hnn,Undirected,5
+Frank,Lanra,Undirected,1
+Frederikke,Laura,Undirected,29
+Lanra,Laura,Undirected,1
+Frederikke,Lanra,Undirected,5
+Frederikke,Lanra Carstensen,Undirected,1
+Lanra,Lanra Carstensen,Undirected,1
+Carstensen,Laban,Undirected,2
+Carstensen,Nyskov,Undirected,2
+Frank,Nyskov,Undirected,11
+Frank,Nhskov,Undirected,2
+Frank,reisfe,Undirected,2
+Frank,Laura,Undirected,15
+Frederikke,Sympathi,Undirected,1
+Carstensen,Frederikke,Undirected,12
+Carstensen,Laura,Undirected,16
+Carstensen,Hr. Carstensen,Undirected,1
+Frederikke,Hr. Carstensen,Undirected,1
+Carstensen,Richardson,Undirected,1
+Carstensen,Frank,Undirected,17
+Hnn,bin,Undirected,1
+Frederikke,bin,Undirected,1
+Frederikke,Mr. Warren,Undirected,1
+Mr. Ri-chardson,Mr. Warren,Undirected,1
+Mr. Ri-chardson,Mr. Richardson,Undirected,1
+Mr. Richardson,Nikolai,Undirected,1
+Hr. Carstensen,hnn,Undirected,1
+Carstensen,Nikolai,Undirected,6
+Nikolai,hnn,Undirected,5
+Carstensen,Nysfov,Undirected,1
+Nysfov,as,Undirected,1
+Hans Pedersen,Nysfov,Undirected,1
+Frederikke,Nysfov,Undirected,1
+Frederikke,Nyskov,Undirected,2
+Frank,Nysiov,Undirected,1
+Hr. Johnsen,Thomas,Undirected,2
+Thomas,s,Undirected,1
+Hr. Johnsen,Morten,Undirected,2
+Johnsen,Morten,Undirected,6
+Johnsen,Thomas,Undirected,8
+Morten,Thomas,Undirected,5
+Ieg,Nyskov,Undirected,1
+Frank,Karlen,Undirected,1
+Karlen,ester,Undirected,1
+Hr. Nyflov,Karlen,Undirected,1
+Chatollel,Hr. Nyflov,Undirected,1
+Karlen,Nyflov,Undirected,1
+Frank gnaven,Karlen,Undirected,1
+Frank,Nysfov,Undirected,2
+Christen,Frank,Undirected,1
+Christen,Nyflov,Undirected,1
+Hr. Carstensen,Nysfov,Undirected,1
+Laura,Najaden,Undirected,1
+Frederikke,Najaden,Undirected,1
+Faders,Øe,Undirected,1
+Bien,Hr. Carstensen,Undirected,1
+Lanra,Nikolai,Undirected,1
+Nikolais Afreise,Nikolais Pult,Undirected,1
+Carstensen,Gud,Undirected,2
+Frank,finoes,Undirected,1
+Frank,Frank fog,Undirected,2
+Frank,Frank sif Glas,Undirected,1
+Frank,Frank itide,Undirected,1
+Frank itide,Nyflov,Undirected,1
+Adam,Nyflov,Undirected,3
+Adam,Karlen,Undirected,4
+Depeschen,tans,Undirected,1
+hnn,nn,Undirected,1
+Laura,nn,Undirected,1
+Laura,Nikolai,Undirected,8
+Frank,knn,Undirected,1
+Carstensen,sif,Undirected,1
+Frank,as,Undirected,2
+Car-stensen,Frank,Undirected,2
+Adam,Hr. Carstensen,Undirected,1
+Carsfensen,Frank,Undirected,1
+Carsfensen,Karl,Undirected,1
+Carstensen,Ieg,Undirected,1
+Frederikke Frank,iland,Undirected,1
+dam,hnn,Undirected,1
+Adam,Frederikke,Undirected,7
+Ny-fkov,Nysfov,Undirected,1
+Karl,Nyflov,Undirected,1
+Nyskov,taug,Undirected,1
+Nyskov,Nyskov brøsig,Undirected,1
+Adam,Janhagel,Undirected,1
+Nyskov,Øe,Undirected,1
+Nyskov,iveien,Undirected,1
+iveien,Øe,Undirected,1
+Frank,Karl,Undirected,2
+Karl,Nyskov,Undirected,1
+Boldt,Frank,Undirected,1
+Boldt,Nyskov,Undirected,8
+Boldt,Karl,Undirected,1
+Nyflov,gridsk,Undirected,1
+Hektor,tanle,Undirected,1
+Mied,tanle,Undirected,1
+Hektor,Mied,Undirected,1
+Hektor,nn,Undirected,1
+Frank,Frede,Undirected,1
+Frede,rikke,Undirected,1
+hnn,rikke,Undirected,1
+Clausen,Ravn,Undirected,2
+Ieg,Ravn,Undirected,1
+Frank,Ieg,Undirected,1
+Ieg,Ring,Undirected,1
+Clausen,Ieg,Undirected,1
+Carstensen,Franks Bo,Undirected,1
+Frederikke,Laura flet,Undirected,1
+Fader,Laura,Undirected,1
+Fader,sørend,Undirected,1
+Laura,sørend,Undirected,1
+Frede-rikkes,Frederikke,Undirected,1
+Gud,Lanra,Undirected,1
+Laura,loe,Undirected,1
+Carstensen,Najaden,Undirected,1
+Frank,Hr. A.,Undirected,1
+Hr. A.,Petersen,Undirected,1
+Carlsen,Petersen,Undirected,3
+Mortensen,Petersen,Undirected,2
+Carlsen,Mortensen,Undirected,1
+Blom,Franks Vexel,Undirected,1
+Blom,Frank,Undirected,4
+Nikolai,paany,Undirected,1
+Carstensen,jæg,Undirected,3
+Frank,jæg,Undirected,1
+Carstensen,Sophaen,Undirected,3
+Carstensen,Villie,Undirected,1
+Carstensen,Hr. Storm,Undirected,1
+Boldt,Nyflov,Undirected,1
+Johnsen,Nyskov,Undirected,1
+Nyskov,Thomas,Undirected,2
+Boldl,Thomas,Undirected,1
+Boldl,Nyflov,Undirected,2
+Thomas,fial,Undirected,1
+Johnsen,fial,Undirected,1
+Boldl,Nyskov,Undirected,1
+Nyflov,Thomas,Undirected,2
+Morten,Nyflov,Undirected,1
+Laura,Nyskov,Undirected,1
+Laura,Storm,Undirected,1
+Carstensen,Storm,Undirected,2
+Carstensen,Dn,Undirected,1
+Nikolai,Nyflov,Undirected,1
+Laura,iland,Undirected,1
+hnn,iland,Undirected,1
+Adam,hnn,Undirected,2
+Adam,Ring,Undirected,1
+Christian,Laura,Undirected,1
+Hr. Nyskov,Nyflov,Undirected,1
+Gaader,Laura,Undirected,1
+Laura,Sophaen,Undirected,1
+Adam,Sophaen,Undirected,1
+Jomfru Carstensen,Laura,Undirected,1
+Elfenbeens,Laura,Undirected,2
+Laura,Steen,Undirected,1
+Laura,kjæræ,Undirected,1
+Gud,Laura,Undirected,3
+Laura,sfal,Undirected,1
+Frank,rysfe,Undirected,1
+Adam,rysfe,Undirected,1
+Adam,Clansen,Undirected,4
+Car-stensen,Frederikke,Undirected,1
+Frederikke,Madame,Undirected,1
+Frank,ban,Undirected,2
+Storm,Øe,Undirected,1
+Blom,Storm,Undirected,1
+Carsfensen,Øe,Undirected,1
+Frank,Hufes,Undirected,1
+Clansen,Nyskov,Undirected,2
+Blom,Clansen,Undirected,1
+Adam,Blom,Undirected,3
+Adam,Karl,Undirected,1
+Blom,Nyskov,Undirected,4
+Blom,Boldt,Undirected,1
+Adam,Clausen,Undirected,1
+Clausen,Nyskov,Undirected,1
+Nyskov,hiint,Undirected,1
+Blom,geheim,Undirected,1
+Blom,Nyflov,Undirected,1
+Adam,Boldt,Undirected,2
+Frank,Gud,Undirected,1
+Adam,Bo,Undirected,2
+Frank,Mr. Ri-chardson,Undirected,1
+Frank,fog,Undirected,1
+Laura,ester,Undirected,1
+Car-,Laura,Undirected,1
+Car-,stensen,Undirected,1
+Laura,Øe,Undirected,1
+Mr. Richardson,Storm,Undirected,1
+Carstensen,Clausen,Undirected,1
+Boldl,Clausen,Undirected,1
+Adam,Øe,Undirected,1
+Bravo,Gud,Undirected,1
+Boldt,Carstensen,Undirected,1
+Peer,Poul,Undirected,1
+Alf,Frank,Undirected,1
+Frank,reisf,Undirected,1
+Frederikke,Hnn,Undirected,1
+Hnn,Nikolai,Undirected,1
+Frederikke,hiin,Undirected,1
+hiin,knndc,Undirected,1
+Frank,Pidsken,Undirected,1
+Pidsken,tanse,Undirected,1
+Frederikke,tanse,Undirected,1
+Sophaen,sknlde,Undirected,1
+Frederikke,def,Undirected,1
+Laura,figc,Undirected,1
+Gud,figc,Undirected,1
+Gud,Ter,Undirected,1
+Carstensen,Ter,Undirected,1
+Frederikke,lille Laura,Undirected,1

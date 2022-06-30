@@ -1,0 +1,43 @@
+source,target,type,weight
+Charlotte,Verner,Undirected,4
+Addio,Verner,Undirected,1
+Verner,Waggon,Undirected,1
+Hr. Møller,Tiberstadens,Undirected,1
+Rafaels Stanzer,lian,Undirected,1
+Angelos,Rafaels Stanzer,Undirected,1
+Verner,ærtero,Undirected,1
+Sonnetter,ærtero,Undirected,1
+Møller,Verner,Undirected,7
+Otto,Verner,Undirected,1
+Max Otto,Otto,Undirected,1
+Max Otto,Misses,Undirected,1
+Max Otto,Noahs,Undirected,1
+Max Otto,Verner,Undirected,10
+Gud,Max Otto,Undirected,1
+Max,Otto,Undirected,4
+Gud,Okarina,Undirected,1
+Okarina,Verner,Undirected,1
+Addio,Amor,Undirected,1
+Don Juan,Verner,Undirected,2
+Don Juan,Levvel,Undirected,1
+Maupassant,Verner,Undirected,1
+Bismarck,Crispi,Undirected,1
+Max Otto,Svane,Undirected,1
+Julies,Romeos,Undirected,1
+Cicerone,Max Otto,Undirected,1
+Cicerone,Venus,Undirected,1
+Charlotte,Gud,Undirected,1
+Møller,ban,Undirected,1
+Verner,ban,Undirected,1
+Brutus,Cæsar,Undirected,1
+Bortoluzzi,Giuseppe,Undirected,1
+La mattina una messeta,l’,Undirected,1
+Filomena,Gud,Undirected,1
+Filomena,Karl,Undirected,1
+Jesus,Maria,Undirected,1
+Emilio,Jesus,Undirected,1
+Emilio,Giambattista Simonetti,Undirected,1
+Emilio,Maria,Undirected,1
+Filomena Simonetti,Gud,Undirected,2
+Filomena,Max Otto,Undirected,1
+Gud,alma mater,Undirected,1

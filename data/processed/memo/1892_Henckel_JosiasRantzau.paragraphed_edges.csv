@@ -1,0 +1,353 @@
+source,target,type,weight
+Kuno,Rantzau,Undirected,1
+Kuno,Wolf,Undirected,1
+Daniel,Wolf,Undirected,1
+Daniel,Johan Rantzau,Undirected,1
+Brejde Rantzaus,Gebhard,Undirected,1
+Josias,Naadigherrens,Undirected,1
+Johan Rantzau,Povl,Undirected,1
+Mathias,herhid,Undirected,1
+Josias,Povl,Undirected,2
+Brejde,Povl,Undirected,1
+Brejde,Rantzau,Undirected,1
+Gebhard,Josias,Undirected,1
+Brejde Rantzau,Gebhard,Undirected,1
+Josias,Pollux,Undirected,1
+Brejde Rantzau,Gert Rantzau,Undirected,1
+Gert Rantzau,Josias,Undirected,6
+Brejde,Otto,Undirected,1
+Brejde Rantzau,Josias,Undirected,3
+Jesu,Josias,Undirected,1
+Gert Rantzau,Jesu,Undirected,1
+' Johan Rantzau,Gert Rantzau,Undirected,1
+' Johan Rantzau,Hr. Henrik,Undirected,1
+Kristian,Tilly,Undirected,1
+Mellem-Evropas,Tilly,Undirected,1
+Hans Ahlefeldt,Otto Blome,Undirected,1
+Gert Rantzau,Otto Blome,Undirected,1
+Bersærken,Gert Rantzau,Undirected,1
+Josias,Otto,Undirected,1
+Gert Rantzau,Klavs Ahlefeldt,Undirected,1
+Kristian,Morits,Undirected,2
+Gert Rantzau,Guds,Undirected,1
+Klavs Ahlefeldt,Morits,Undirected,1
+Hille Kinder,Morits,Undirected,1
+Gud,Morits,Undirected,1
+Brokdorf,Josias,Undirected,2
+Josias,hans Svend,Undirected,1
+Detlef Brokdorf,Josias,Undirected,4
+Detlef Brokdorf,Johan Rantzau,Undirected,1
+Davren,Josias Rantzau,Undirected,1
+Spinola,hart,Undirected,1
+Moritz,hart,Undirected,1
+Hugo Ahrenstorf,Moritz,Undirected,1
+Hugo Ahrenstorf,anfangs,Undirected,1
+Detlef Brokdorf,anfangs,Undirected,1
+Detlef Brokdorf,Oranien,Undirected,1
+Kristian,Povl,Undirected,1
+Josias,Mamsel Lisa,Undirected,1
+Josias,v. Qyitzov,Undirected,2
+Josias,v. Qvitzov,Undirected,1
+Adam,v. Qvitzov,Undirected,1
+Adam,Eva,Undirected,1
+Henneke v. Qyitzov,Josias,Undirected,1
+Josias,Lieutenants,Undirected,1
+Hanna,Lieutenants,Undirected,1
+Hanna,Lieschen,Undirected,1
+Josias Rantzau,Mamsel Lisa,Undirected,1
+Josias Rantzau,Kong Kristians,Undirected,1
+Kong Kristians,Vovehals,Undirected,1
+Josias,Karl,Undirected,2
+Else,Josias,Undirected,5
+Brejde Rantzau,Else,Undirected,3
+Else,Sehesteds,Undirected,1
+Junker Josias,Sehesteds,Undirected,1
+Walstorp,lendes,Undirected,1
+jøfte,lendes,Undirected,1
+Else,jøfte,Undirected,1
+Else,Povl Rantzau,Undirected,1
+Otto »,Povl Rantzau,Undirected,1
+Magdalene Rantzau,Otto »,Undirected,1
+Josias,Magdalene Rantzau,Undirected,1
+Gert Rantzau,Heinrich Porse,Undirected,1
+Heinrich Porse,Josias,Undirected,1
+Josias,Otto Blome,Undirected,1
+Helvig,Josias,Undirected,14
+Elsebeth Blome,Hans Ahlefeldt,Undirected,1
+Elsebeth Blome,Josias,Undirected,1
+Elsebeth,Otto Blome,Undirected,1
+Josias,Lischen,Undirected,1
+Gretchen,Lischen,Undirected,1
+Elsebeth,Hans Ahlefeldt,Undirected,1
+Josias,Regitze,Undirected,1
+Fætter Josias,Josias,Undirected,1
+Gustav Adolfs,Kristian,Undirected,1
+Gustav Adolfs,Josias Rantzau,Undirected,1
+Diderik v. Falkenberg,Gustav Adolf,Undirected,1
+Josias Rantzau,Svend,Undirected,1
+Josias,Svend,Undirected,1
+Josias,Tilly,Undirected,1
+Tilly,Uraad,Undirected,1
+Josias,Uraad,Undirected,1
+Josias,Rantzau,Undirected,8
+Gustav Adolf,Josias,Undirected,3
+Gud,Josias,Undirected,7
+Gustav Adolf,Rantzau,Undirected,1
+Kristian,Magdalene Sybille,Undirected,1
+Evropa,Magdalene Sybille,Undirected,1
+Johan Spiegelberg,Svend,Undirected,1
+Mester Spiegelbergs,Svend,Undirected,1
+Mester Spiegelbergs,hans Durchlaut,Undirected,1
+Kaarde,Rantzau,Undirected,1
+Rantzau,Ysenburg,Undirected,1
+Hans Ahlefeldt,Josias Rantzau,Undirected,1
+Hans,Josias,Undirected,4
+Hagenov,Josias,Undirected,1
+Bothkamp,Hans,Undirected,2
+Bothkamp,Heinrich,Undirected,1
+Hel,Rantzau,Undirected,1
+dann lieb,liebst,Undirected,1
+Josias,Martin,Undirected,8
+Hans Ahlefeldt,Josias,Undirected,6
+Messieurs,v. Qyitzov,Undirected,1
+Josias Rantzau,v. Qyitzov,Undirected,2
+Hans Ahlefeldt,tom,Undirected,1
+Josias,Josias Rantzau,Undirected,2
+Lindenov,Mester Spiegelberg,Undirected,1
+Hans Lindenov,Lindenov,Undirected,1
+Adelsgaard,Hans Lindenov,Undirected,1
+Adelsgaard,Lindenov,Undirected,1
+Frederik Rantzau,Josias,Undirected,2
+Frederik Rantzau,Margrete Podebusks,Undirected,1
+Lindenov,Otto Skeel,Undirected,2
+Henrik Rammeis,Josias,Undirected,1
+Henrik Rammeis,Sten Billes,Undirected,1
+Frederik Rantzau,Rantzau,Undirected,2
+Frederik Rantzau,Skeel,Undirected,1
+Berte,hin,Undirected,1
+Berte,Erik,Undirected,1
+Josias Rantzau,Kirstine Munks,Undirected,1
+Josias Rantzau,Simon Klaudi,Undirected,1
+Josias,Kresten Skeel,Undirected,1
+Berte,Josias,Undirected,7
+Berte Skeel,Josias Rantzau,Undirected,1
+Berte Skeel,Frederik Rantzau,Undirected,1
+Frederik Rantzau,Ide,Undirected,1
+Brejde Rantzau,Ide,Undirected,1
+Josias,Logemente,Undirected,1
+Berte,Logemente,Undirected,1
+Frederik,Kristian Rantzau,Undirected,1
+Kristian Rantzau,Rantzau,Undirected,1
+Berte Skeel,Rantzau,Undirected,1
+Berte Skeel,Mikkel Tisdorfs,Undirected,1
+Jomfru Berte,Josias,Undirected,1
+Berte,Gud,Undirected,4
+Bertel,Kresten Skeel,Undirected,1
+Berte,Josias Rantzau,Undirected,5
+Berte,Kresten,Undirected,1
+Josias,Kresten,Undirected,2
+Kresten,Rantzau,Undirected,1
+Brejde,Kresten,Undirected,1
+Brejde,Johan,Undirected,2
+Berte,Brejde Rantzau,Undirected,1
+Henrik den,Kathrina,Undirected,1
+Gabrielle d,Henrik den,Undirected,1
+Gaston,Ludvig,Undirected,2
+Gaston,Maria,Undirected,1
+Dauphin,Richelieu,Undirected,1
+Ludvig,Richelieu,Undirected,3
+Armand Jean du Piessis,Ludvig,Undirected,1
+Henrik den Fjerdes,de Rantzau,Undirected,1
+Josias Rantzau,Richelieu,Undirected,1
+Dole,Richelieu,Undirected,1
+Dole,Rantzau,Undirected,1
+Josias Rantzau,Rantzau,Undirected,2
+Anne,Josias,Undirected,2
+Anne,Josias Rantzau,Undirected,1
+Monsieur Rantzau,hs.,Undirected,1
+Eminents,hs.,Undirected,1
+Berte Skeel,Potifars,Undirected,1
+Comte de Rantzau,Madames,Undirected,1
+Henriettes,Lord Buckingham,Undirected,1
+Henriettes,Karl den,Undirected,1
+Karl den,Ludvig,Undirected,1
+Anne,Filip,Undirected,1
+Filip,Rantzau,Undirected,1
+Pater Josef,Richelieu,Undirected,1
+Comte de Rantzau,Pater Josef,Undirected,1
+Comte de Rantzau,Monseigneur,Undirected,1
+Anne,Monseigneur,Undirected,1
+Anne,Gaston,Undirected,1
+Amour,Anne,Undirected,1
+Amour,Rantzau,Undirected,1
+Anne,Rantzau,Undirected,1
+Jean de Werths,Picolominis,Undirected,1
+Jean de Werths,Richelieu,Undirected,1
+Rantzau,de Lauzun,Undirected,1
+Briaults,Josias Rantzau,Undirected,1
+Josias,de Lauzun,Undirected,1
+Nik,de Lauzun,Undirected,1
+Dole,Josias,Undirected,1
+Rantzau,la Meilleraie,Undirected,1
+Lauzun,Richelieu,Undirected,1
+Lauzun,Monseigneur,Undirected,1
+Monseigneur,Soissons,Undirected,1
+Eminents,Soissons,Undirected,1
+Ludvig,Monsieur Rantzau,Undirected,1
+Filip,de Lauzun,Undirected,1
+Gud,de Lauzun,Undirected,1
+Josias,Lauzun,Undirected,1
+Dronning Annes,Kardinal Richelieu,Undirected,1
+Annes Qyaliteter,la Meilleraie,Undirected,1
+Annes Qyaliteter,Monsieur Rantzau,Undirected,1
+Josias,Monsieur la Meilleraie,Undirected,1
+Corbie,Lauzun,Undirected,1
+Lauzun,Mareschal,Undirected,1
+Corbie,St. Quentin,Undirected,1
+St. Quentin,hans,Undirected,1
+Josias Rantzau,hans,Undirected,1
+Josias Rantzau,Ludvig den,Undirected,1
+Anne,Ludvig den,Undirected,1
+Josias Rantzau,Mareschal Briault,Undirected,1
+Josias Rantzau,Meilleraies,Undirected,1
+Lauzun,Meilleraies,Undirected,1
+Corbie,Josias,Undirected,1
+Mareschal Briault,Messieurs,Undirected,1
+Maréschal,Monsieur le,Undirected,1
+Josias Rantzau,Maréschal,Undirected,1
+Josias Rantzau,la Meilleraie,Undirected,1
+Lauzun,Rantzau,Undirected,2
+Rantzau,Sejer,Undirected,1
+Artois,Soissons,Undirected,1
+Rantzau,Soissons,Undirected,1
+Rantzau,Richelieu,Undirected,4
+Josias,Monsieur Rantzau,Undirected,2
+Monsieur le Comte,Richelieu,Undirected,1
+Mareschal,Pater Josef,Undirected,1
+Pater Josef,Rantzau,Undirected,1
+Dronning Annes,Rantzau,Undirected,1
+Dronning Annes,Richelieu,Undirected,1
+Gaston,Ludvig den,Undirected,1
+Jytte Pognisch,Mareschal Rantzau,Undirected,1
+Berte Skeel,Kresten,Undirected,1
+Jens Gyldenstjerne,Kresten,Undirected,1
+Jens Gyldenstjerne,Sofies,Undirected,1
+Josias,Sofies,Undirected,1
+Berte Skeel,Frederik,Undirected,2
+Erik Høeg,Josias,Undirected,1
+Berte,Erik Høeg,Undirected,3
+Josias Rantzau,Lindenov,Undirected,1
+Jens,Rantzau,Undirected,1
+Jens,Niels Trolle,Undirected,1
+Anders Høeg,Niels Trolle,Undirected,1
+Anders Høeg,Rantzau,Undirected,1
+Rantzau,Vams,Undirected,1
+Jens,Vams,Undirected,1
+Erik Høeg,Gud,Undirected,2
+Erik,Erik Høeg,Undirected,1
+Erik,Gud,Undirected,1
+Jens Gyldenstjerne,Sofie,Undirected,1
+Gud,Sofie,Undirected,1
+Berte Skeel,Hjærtekjære Broders,Undirected,1
+Josias Rantzau,Kresten Skeel,Undirected,1
+Josias Rantzau,Noer,Undirected,1
+Berte Skeel,Noer,Undirected,1
+Berte Skeel,Erik Høeg,Undirected,2
+Erik Høeg,Josias Rantzau,Undirected,1
+Josias,Otto Pogvisch,Undirected,1
+Berte Skeel,Elsebeth Rantzau,Undirected,1
+Berte Skeel,Josias,Undirected,1
+Hans Lindenov,Rantzau,Undirected,1
+Hans Lindenov,Kaas,Undirected,1
+Kaas,Pernille Rosenkrantz,Undirected,1
+Bynyt,Pernille Rosenkrantz,Undirected,1
+Johan,Josias Rantzau,Undirected,1
+Kong Ludvigs,soeur,Undirected,1
+Frederik,Josias Rantzau,Undirected,1
+Frederik,Rantzau,Undirected,2
+Berte,Helvig Rantzau,Undirected,1
+Frederik,kuns,Undirected,2
+Berte,Frederik,Undirected,2
+Berte,Rantzau,Undirected,1
+Mariage,Richelieu,Undirected,1
+Helvig Rantzau,Josias,Undirected,1
+Bjørnholm,Erik Høeg,Undirected,1
+Erik,Josias,Undirected,1
+Ejler Grubbes,Podebusch,Undirected,1
+Kristian Rantzau,v. Qyitzov,Undirected,1
+Elsebeth,Josias,Undirected,2
+Gud,Hans,Undirected,1
+Elsebeth,Gud,Undirected,1
+Elsebeth,Hilgenstede,Undirected,1
+Hilgenstede,Josias,Undirected,1
+Josias,Kristian Rantzau,Undirected,3
+Madame Rantzau,Monsieur Rantzau,Undirected,1
+Anne,Helvig,Undirected,1
+Mareschal Rantzau,Zenith,Undirected,1
+Sejer,Zenith,Undirected,1
+Frederik Rantzau,Hans Ahlefeldt,Undirected,1
+Frederik,Josias,Undirected,1
+Anne,Mazarin —,Undirected,1
+Mazarin —,Richelieu,Undirected,1
+Habsburg,Richelieu,Undirected,1
+Josias Rantzau,Tassalto,Undirected,1
+Richelieu,Soissons,Undirected,1
+Mareschal Rantzau,Soissons,Undirected,1
+Mareschal Rantzau,Rantzau »,Undirected,1
+Josias Rantzau,Mazarin,Undirected,1
+Monsieur Rantzau,Rantzau,Undirected,1
+Martin,Monsieur Fabien,Undirected,1
+Gud,Helvig,Undirected,1
+Josias,Monsieur Fabien,Undirected,1
+Dronning Anne,Pater Esteban,Undirected,1
+Karl,Pater Esteban,Undirected,1
+Estebau,Josias,Undirected,1
+Helvig,helle,Undirected,1
+Josias,helle,Undirected,1
+Josias,Pater Esteban,Undirected,2
+Ludvig,Ludvig den,Undirected,1
+Kong Ludvigs,Ludvig,Undirected,1
+Comte de Rantzau,Kong Ludvigs,Undirected,1
+Josias,Monsieur,Undirected,2
+Josias Rantzau,Monsieur de Noailles,Undirected,1
+Monsieur le,de Noailles,Undirected,1
+Mareschal Rantzau,Seguier,Undirected,1
+Josias,Mareschal Rantzau,Undirected,1
+Monsieur Seguier,allenfals,Undirected,1
+Josias Rantzau,St. Kristoforus,Undirected,1
+Karl,Martin,Undirected,2
+Kardinal Richelieu,Monsieur Rantzau,Undirected,1
+Mazarin,Monsieur le,Undirected,1
+Monsieur,Soissons,Undirected,1
+Briault,Mareschal Rantzau,Undirected,1
+Briault,Guebriant,Undirected,1
+Richelieu,Seguier,Undirected,1
+Briault,Rantzau,Undirected,1
+Mareschal,Rantzau,Undirected,5
+Josias,Madame Rantzau,Undirected,1
+Monsieur Rantzau,Tys,Undirected,1
+Marquis de Noailles,Monsieur Rantzau,Undirected,1
+Dronning Anne,Josias Rantzau,Undirected,1
+Monsieur,Rantzau,Undirected,1
+Gud,Martin,Undirected,1
+Mareschal Rantzau,Rantzau,Undirected,1
+Monsieur de Noailles,la Meilleraie,Undirected,1
+Mareschal,Pater Esteban,Undirected,1
+Hilgenstede,Rantzau,Undirected,1
+Hans Ahlefeldt kanske,Martin,Undirected,1
+Hans Ahlefeldt kanske,Hans —,Undirected,1
+Hans,Povl,Undirected,1
+Gebhard,Povl,Undirected,1
+Gebhard,Kristian Rantzau,Undirected,1
+Erik Høeg,Kristian Rantzau,Undirected,1
+Erik Høeg,"v. Qyitzov,",Undirected,1
+Hans,Rantzau,Undirected,1
+Berte,Hans,Undirected,1
+Mareschal Rantzau,Pater Eusèbe,Undirected,1
+Hans,Martin,Undirected,2
+Josias,kjær,Undirected,1
+Gud,Hans Ahlefeldt,Undirected,1
+Josias,Pater,Undirected,1
+Hans Ahlefeldt,Martin,Undirected,1
+Josias Rantzau,Martin,Undirected,2
+Abbed Hédélin,Josias Rantzau,Undirected,1

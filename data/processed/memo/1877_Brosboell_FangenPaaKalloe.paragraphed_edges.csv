@@ -1,0 +1,423 @@
+source,target,type,weight
+Mads From,Malene,Undirected,1
+Arnfeld,Hesf,Undirected,1
+Esra,Lehnsmand,Undirected,1
+Esra,Torsten,Undirected,18
+Esra,Ifjor,Undirected,1
+Ifjor,Kong Christjern,Undirected,1
+Gustavs,Kong Christjern,Undirected,1
+Esra,Vidsfe,Undirected,1
+Mads Kok,Vidsfe,Undirected,1
+Esra,Mads Kok,Undirected,1
+Mads Kok,Steen,Undirected,1
+Mogens Dam,Steen,Undirected,1
+Mogens Dam,sra Galten,Undirected,1
+Mogens,sra Galten,Undirected,1
+Mogens,Steen,Undirected,1
+Esra,Graaulv,Undirected,1
+Graaulv,Prioren,Undirected,1
+Prioren,Trolle,Undirected,1
+Roes,Trolle,Undirected,1
+Roes,Villie,Undirected,1
+Esra,Torsten Trolle,Undirected,10
+Asmus,Terkel,Undirected,1
+Bertel,Espen,Undirected,5
+Espen,Esra,Undirected,5
+Asmus,Espen,Undirected,1
+Esra,Terkel,Undirected,10
+Espen,Terkel,Undirected,1
+Torsten,Tu,Undirected,1
+Herren,Lene,Undirected,1
+Krabbe,Lene,Undirected,1
+Karen,Krabbe,Undirected,1
+Gregers Ulfstand,Karen,Undirected,3
+Birthe,Gregers Ulfstand,Undirected,1
+Birthe,Klaus Brysfe,Undirected,1
+Gud,^cn,Undirected,1
+Allandsens,sorn,Undirected,1
+Else,sorn,Undirected,1
+Kallø,Roelse,Undirected,1
+Is,Søgang,Undirected,1
+Erik Menved,Søgang,Undirected,1
+Erik Menved,Uveirs,Undirected,1
+Kallø Kjældere,Nomholt,Undirected,1
+Evert,Kallø Kjældere,Undirected,1
+Evert,Greven,Undirected,1
+Greven,Kallø,Undirected,1
+Christian den,Kallø,Undirected,1
+Christian den,Ulrik Gyldenløve,Undirected,1
+Erik Banner,Torsten,Undirected,5
+Gregers Ulfstand,Iver Krabbe,Undirected,2
+Torsten,sknlde,Undirected,1
+Erik Banner,Torsten Trolle,Undirected,4
+Ludvig,Trolle,Undirected,1
+Erik Banner,Rosenkrands,Undirected,1
+Kong Hans,Rosenkrands,Undirected,1
+Cyrus,Kong Hans,Undirected,1
+Cyrus,Steen Stures,Undirected,1
+Gustav Eriksen Vasa,Torsten,Undirected,1
+Luthen,Torsten,Undirected,1
+Luthen,Maanelys,Undirected,1
+Erik Banner,Maanelys,Undirected,1
+Gustav Eriksen,Torsten Trolle,Undirected,4
+Gustav,Torsten,Undirected,3
+Torsten,Vams,Undirected,1
+Karl,Karl Knudsen,Undirected,1
+Karl,Steen Sture,Undirected,1
+Torsten,ifjor fom,Undirected,1
+Sancte Gjertruds Kirkegaard,Torben Oxe,Undirected,1
+Knud Gyldenstjern,Sancte Gjertruds Kirkegaard,Undirected,1
+Dverg,Knud Gyldenstjern,Undirected,1
+Else,Torsten,Undirected,12
+Davre,Torsten,Undirected,1
+Davre,Gud,Undirected,1
+Gud,Torsten Trolle,Undirected,1
+Christjern,Torsten,Undirected,1
+Christjern,Sture,Undirected,1
+Dines,seil,Undirected,1
+Dines,Kong Christjern,Undirected,1
+Gustav Eriksen,Torsten,Undirected,6
+Gustav Eriksen,Mads Kok,Undirected,1
+Niels Ulfsen,Torsten Trolle,Undirected,1
+Niels Ulfsen,Speier,Undirected,1
+Else Banner,Gustav Eriksen,Undirected,1
+Es-ra,Torsten Trolle,Undirected,1
+Else,Erik Banner,Undirected,2
+Ter,Torsten,Undirected,1
+Masfen,Torsten,Undirected,1
+Masfen,Torsten Trolle,Undirected,1
+Elfe,Torsten,Undirected,1
+Elfe,Torsten Trolle,Undirected,1
+Else,Gustav,Undirected,12
+Erik Eriksens,Gustav,Undirected,1
+Lehnsmand,Sigbrit,Undirected,1
+Sigbrit,Steen Sture,Undirected,1
+Gustav Eriksen,Steen Sture,Undirected,1
+Gustav Eriksen,Kong Christiern,Undirected,1
+Gud,Kong Christiern,Undirected,1
+Lehnsmand,Torsten,Undirected,1
+Banner,Gustav Eriksen,Undirected,1
+Gustav Eriksen,Tu,Undirected,1
+Erik Banner,Torskn Trolle,Undirected,1
+Gustav,Torskn Trolle,Undirected,1
+Else,Esra,Undirected,11
+Lehnsmanden,Torsten,Undirected,2
+Jens,Niels Klausen,Undirected,1
+Jens Brok,Klemmen,Undirected,4
+Jens,Prioren,Undirected,1
+Iver Krabbe,Lehnsmanden,Undirected,1
+Gregers Ulfsland,Iver Krabbe,Undirected,1
+Banner,Karen,Undirected,1
+Banner,Gregers,Undirected,1
+Karen,Mester Gregers,Undirected,1
+Erik Eriksen,Karen,Undirected,1
+Banner,Junker Ulfstand,Undirected,1
+Junker Ulfstand,Pater Klemmen,Undirected,1
+Gregers,Karen,Undirected,13
+Karen,Sigbrit,Undirected,1
+Lehnsmanden,Prior Anders,Undirected,1
+Jens,Niels,Undirected,2
+Jens,Johannes,Undirected,2
+Gud,Johannes,Undirected,1
+Erik Eriksen,Iver Krabbe,Undirected,1
+Iver Krabbe,Karen,Undirected,1
+Gregers,Iver Krabbe,Undirected,1
+Prior Anders,Torsten Trolle,Undirected,1
+Jens,Prior Anders,Undirected,7
+Jens,ilaas,Undirected,1
+Jens flog,ilaas,Undirected,1
+Jens,Jens flog,Undirected,1
+Jens,sorn,Undirected,1
+Asle,sorn,Undirected,1
+Anders Koften,Jens,Undirected,1
+Allid,Banner,Undirected,1
+Jens,Torsten Trolle,Undirected,2
+Johannes,lille Jens Vorherredød,Undirected,1
+Jesus,lille Jens Vorherredød,Undirected,1
+Jesus,Prior Anders,Undirected,1
+Anders,Erik Banner,Undirected,1
+Anders,Jens,Undirected,5
+Jens,Lehnsmanden,Undirected,3
+Junker Jørgen,Kong Hans,Undirected,1
+Junker Jørgen,Pater Klemmen,Undirected,1
+Jens,Jens Brok,Undirected,6
+Jens,Steen,Undirected,2
+Jens Brok,Maanelys,Undirected,1
+Maanelys,Simmen,Undirected,1
+Jens Brok,Steen,Undirected,2
+Jens,Sidsel,Undirected,2
+Gud,Jens Brok,Undirected,1
+Jens,Juul,Undirected,1
+Jens Brok,Sidsel,Undirected,1
+Graad,Jens,Undirected,1
+Gregers Ulfstand,Torsten Trolle,Undirected,1
+Jens Brok,Karen,Undirected,2
+Else,Nicolai,Undirected,2
+Elfe,Mester Gregers,Undirected,1
+Bsi,Else,Undirected,1
+Erik Banner,Gregers,Undirected,1
+Erik Banner,Esra Gustavs,Undirected,1
+Elfe,Esra Gustavs,Undirected,1
+Esra,Gustav,Undirected,21
+Gustav,ester,Undirected,1
+Gustav,Torsten Trolle,Undirected,3
+Esra,Gustav Eriksen,Undirected,6
+Karl,Torsten Trolle,Undirected,1
+Gustav,Jens Brok,Undirected,2
+Esra,Jens Brok,Undirected,14
+Gustav,sfal Sidsel,Undirected,1
+Gud,ban,Undirected,1
+Sidsel,Terkel,Undirected,4
+Esra,Sidsel,Undirected,3
+Mari,sfal,Undirected,1
+Ane,Marie,Undirected,1
+Fatter,Marie,Undirected,1
+Fatter,Hellige Pater,Undirected,1
+Hellige Pater,Klemmen,Undirected,1
+Fatter,Klemmen,Undirected,1
+Gud,Sidsel,Undirected,1
+Esra,Mari,Undirected,1
+,Mari,Undirected,1
+Gustav Eriksen,Steen Sture den Ingres,Undirected,1
+Hemming Gad,Steen Sture den Ingres,Undirected,1
+Hemming Gad,Lehn,Undirected,1
+Antæus,Torsten Trolle,Undirected,1
+Antæus,Gustav,Undirected,1
+Erik Banner,Gustav,Undirected,3
+Elfe,Gud,Undirected,1
+Kong Christjern,Prior Anders,Undirected,1
+Jens,Kong Christjern,Undirected,2
+Jens,Niels Elementen,Undirected,1
+Klemmen,Pater,Undirected,2
+Brysf,Jens,Undirected,1
+Jens,Jens sfal,Undirected,1
+Ifjor,Jens sfal,Undirected,1
+Ifjor,Søren,Undirected,1
+Jens,Søren,Undirected,1
+Jens,Karl,Undirected,1
+Karl,Maria,Undirected,1
+Jens,Sanct Olufs,Undirected,1
+Jens,Klemmen,Undirected,4
+Anders,Prior Anders,Undirected,1
+Marie,Munk,Undirected,2
+Munk,silke,Undirected,2
+Judas,Karl,Undirected,1
+Karl,Munk,Undirected,1
+Eia,Klemmen,Undirected,1
+Broder Klemmen,Prior Anders,Undirected,1
+Broder Klemmen,Jens,Undirected,1
+Brok,Sanct Peders,Undirected,2
+Brok,Eriksen,Undirected,1
+Eriksen,Kallø,Undirected,1
+Kallø,Lehn,Undirected,1
+Anders,Lehn,Undirected,1
+Jens,Terkel,Undirected,2
+Jens,Kaardespidsen,Undirected,1
+Erik Eriksen,Erik Lehnsmand,Undirected,1
+Klemmen,Terkel Jakobs,Undirected,1
+Kallø,Terkel,Undirected,1
+Erik Eriksen,Jens,Undirected,6
+Steen,seile,Undirected,1
+Erik Lehnsmand,seile,Undirected,1
+Erik Lehnsmand,Prior Anders,Undirected,1
+Lehnsmanden,Torsten Trolle,Undirected,1
+Torsten,Torsten Trolle,Undirected,3
+Karen,Magdalene,Undirected,1
+Gregers Ulfstand,Magdalene,Undirected,1
+Gregers Ulfstand,Torsten,Undirected,1
+Elfe,Gustav,Undirected,1
+Esra,Villie,Undirected,1
+Else,Jens Brok,Undirected,2
+Erik Eriksen,Jens Brok,Undirected,1
+Erik Banner,Jens,Undirected,6
+Jens,Vamsen,Undirected,1
+Lehnsmand,Vamsen,Undirected,1
+Erik,Lehnsmand,Undirected,1
+Erik,Jens,Undirected,1
+Hans Rosborg,Karen Banner,Undirected,1
+Gregers,Hans Rosborg,Undirected,1
+Erik Banner,Gustav Eriksen,Undirected,1
+Erik Banner,Hesfens,Undirected,1
+Esra,Hesfens,Undirected,1
+Gustav,Terkel,Undirected,7
+Jens Brok,Terkel,Undirected,1
+Jens Brok,Vadmels,Undirected,1
+Gustav,Vadmels,Undirected,1
+Klemmen,Munk,Undirected,3
+Elfe Banner,Esra,Undirected,1
+Terkel,es,Undirected,1
+Esra,es,Undirected,1
+Else,Tøilen,Undirected,1
+Terkel,Tøilen,Undirected,1
+Else,Terkel,Undirected,2
+Else,Gusfavs,Undirected,1
+Gusfavs,rinde,Undirected,1
+Alanden,rinde,Undirected,1
+Alanden,Torsten,Undirected,1
+Elfe,Esra,Undirected,4
+Esra,Tu,Undirected,2
+Esra,Kallø,Undirected,1
+Asmus,Steen,Undirected,1
+Priorissen,Sancte Birgittes,Undirected,1
+Peder,Sancte Birgittes,Undirected,1
+Peder,Povls,Undirected,1
+Else,Gustav Eriksen,Undirected,1
+Else,Gud,Undirected,3
+Niels Andersen,Paven,Undirected,1
+Oblaken,Paven,Undirected,1
+Terkel,Terkel Jakobs,Undirected,1
+Pater Klemmen,Torsten,Undirected,1
+Pater Klemmen,Søren,Undirected,1
+Klemmen,Søren,Undirected,1
+Anders,Klemmen,Undirected,1
+Esra,Isak,Undirected,2
+Terkel,Torsten,Undirected,1
+Isak,Torsfen,Undirected,3
+Esra,Gud,Undirected,2
+Gud,Isak,Undirected,1
+Isak,Torsten,Undirected,6
+Bodil,Esra,Undirected,8
+Bodil,Else,Undirected,9
+Elfe,Jens Brok,Undirected,1
+Elfe,Jens,Undirected,1
+Jens,sidsfe,Undirected,1
+Else,sidsfe,Undirected,1
+Jens Brok,Jens kjønt,Undirected,1
+Jens kjønt,Jenses,Undirected,1
+Erik Banner,Jens Brok,Undirected,1
+Else,Lehnsmanden,Undirected,1
+Erik Lehnsmand,Jens,Undirected,1
+Else,Jens,Undirected,4
+Jens,Karen,Undirected,2
+Gregers,Jens,Undirected,2
+Elfe,Karen,Undirected,1
+Else,Erik Eriksen Lehnsmands,Undirected,1
+Erik Eriksen Lehnsmands,Gud,Undirected,1
+Else,Graad,Undirected,1
+Gregers Ulfsland,Jens Brok,Undirected,1
+Gregers Ulfsland,Jens,Undirected,1
+Else,Gregers,Undirected,1
+Else,Karen,Undirected,1
+Esra,Jens,Undirected,11
+Gyrre,Jens,Undirected,1
+Gyrre,itale,Undirected,1
+Esra,Gyrre,Undirected,1
+Esra sfred,Jens Brok,Undirected,1
+Kallø,Karl,Undirected,1
+Jens Brok,Kallø,Undirected,2
+Mester Garbens,trofasf,Undirected,1
+Bolt,trofasf,Undirected,1
+Jørgen Arnfeldt,Signe Rud,Undirected,1
+Estrup,Jørgen Arnfeldt,Undirected,1
+Estrup,Jens,Undirected,1
+Esra,Signe Rud fraHessel,Undirected,1
+Jørgen Arnfeldt,Signe Rud fraHessel,Undirected,1
+Jørgen Arnfeldt,Signe,Undirected,4
+Jørgen,Signe,Undirected,3
+Jørgen,Kristen Rud,Undirected,1
+Kristen Rud,Signe,Undirected,1
+Høgholms,Jørgen Arnfeldt,Undirected,1
+Høgholms,Signe,Undirected,1
+Jørgen,Jørgen Arnfeldt,Undirected,1
+Gyrre,Jørgen,Undirected,1
+Jens Brok,Tosse,Undirected,1
+Jørgen Arnfeldt,Kristen Rud,Undirected,2
+Kristen Rud,Rud,Undirected,1
+Rud,Signe,Undirected,2
+Jørgen,Rud,Undirected,1
+Jørgen Arnfeldt,Rud,Undirected,1
+Markus Dam,Rud,Undirected,1
+Jørgen,Markus Dam,Undirected,1
+Jørgen,Markus,Undirected,1
+Gud,Markus,Undirected,1
+Gud,Villie,Undirected,1
+Jørgen Arnfeldt,Villie,Undirected,1
+Kristen Rud,Markus Dam,Undirected,1
+Markus Dam,Signe,Undirected,1
+Jørgen Arnfeldt,Kristens,Undirected,1
+Kristens,Rud,Undirected,1
+Jomfru Signes,Kristen Rud,Undirected,2
+Jomfru Rud,Kristen Rud,Undirected,1
+Asen,Niels Piil,Undirected,2
+Niels Piil,Sanct Balthasars,Undirected,1
+Fader,Niels,Undirected,1
+Balthasars,Niels,Undirected,1
+Balthasars,Gud,Undirected,1
+Gud,lange Jørgen Arnfeldt,Undirected,1
+Munk,lange Jørgen Arnfeldt,Undirected,1
+Munk,Søren,Undirected,1
+Allandsens,Søren,Undirected,1
+Allandsens,Jørgen Arnfeldt,Undirected,1
+Esra,Jørgen Arnfeldt,Undirected,1
+Esra,Gyvel,Undirected,1
+Jens,Jørgen Arnfeldt,Undirected,1
+Gud,Jens,Undirected,2
+Jens Brok,Torsten Trolle,Undirected,2
+Pater,Torsten,Undirected,1
+Busfen,Esra,Undirected,1
+Busfen,Torsten,Undirected,1
+Else,Niels,Undirected,1
+Else,Klemmen,Undirected,1
+Torsten Trolle,vexelviis,Undirected,1
+Hesfen,Torsten,Undirected,1
+Hesfen,Klemmen,Undirected,1
+Gyrre,ffal,Undirected,2
+Gyrre,Klemmen,Undirected,4
+Gyrre,Steen,Undirected,1
+Skjerring,Steen,Undirected,1
+Karl,Kristen Rud,Undirected,1
+Jørgen Arnfeldt,Karl,Undirected,1
+Husbond,Jørgen Arnfeldt,Undirected,1
+Husbond,Kristen,Undirected,1
+Kristen,Kristen Rud,Undirected,1
+Signe Rud Arnfeldt,Søren Rud Arnfeldt,Undirected,1
+Kristen Rud,Søren Rud Arnfeldt,Undirected,1
+Fruens,Kristen Rud,Undirected,2
+Gyrre,Karl,Undirected,1
+Esra,Gyrre sfal,Undirected,1
+Monstranzen,brustne,Undirected,1
+Jens Brok,Monstranzen,Undirected,1
+Hampesnore,Jens,Undirected,2
+Jens,Munk,Undirected,1
+Munk,Torsten Trolle,Undirected,1
+Gustav,Terkel Jakobs,Undirected,1
+Bertel,Torsfen Trolle,Undirected,1
+Esra,Snapham,Undirected,2
+Kasper Dam,Snapham,Undirected,1
+Gud,Snapham,Undirected,1
+Snapham,Torsten Trolle,Undirected,3
+Esra,Tys,Undirected,1
+Snapham,Tys,Undirected,1
+Gustav,smille,Undirected,1
+Torsten Trolle,smille,Undirected,1
+Emsigsøn,Terkel,Undirected,1
+Else,Torsten Trolle,Undirected,2
+Gustav,Isak,Undirected,2
+Isak,Torsten Trolle,Undirected,1
+Gustav,Klemmen,Undirected,1
+Esra,Torsfen,Undirected,1
+Jens Brok,lille Jens,Undirected,1
+Gustav Eriksen,Jens,Undirected,1
+Engeland,Prinds,Undirected,1
+Agnete,Engeland,Undirected,1
+Agnete,Svend Felding,Undirected,1
+Gustav Eriksen,Svend Felding,Undirected,1
+Gustav,Pater Klemmen,Undirected,1
+Gustav,Trolle,Undirected,1
+Isak,Jens Brok,Undirected,2
+Jfak,Torsten,Undirected,1
+Isak,Pater,Undirected,1
+Pater,signe,Undirected,1
+Kallø,Torsten,Undirected,1
+Esra,Jesus,Undirected,1
+Gustav,Jesus,Undirected,1
+Torsten,knudrede Grene,Undirected,1
+Esra sfod,Gustav,Undirected,1
+Gustav,Jens,Undirected,1
+Esra,Karl,Undirected,1
+Jens,Søren Nud Arnfeldt,Undirected,1
+Gudfader,Jens,Undirected,1
+Esra,Gudfader,Undirected,1
+Eriksen,Gusfav,Undirected,1
+Bodil,Elfe,Undirected,1
+Bodil,Torsten Trolle,Undirected,1

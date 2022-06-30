@@ -1,0 +1,1161 @@
+source,target,type,weight
+Hans Christian,vos,Undirected,2
+Hans Andersen,Karl“,Undirected,2
+Hans Andersen,Svend,Undirected,1
+ester,klvLUM,Undirected,1
+Holbergs,Ludvig Holbergs,Undirected,1
+Krisfus,Mesfer Hans,Undirected,1
+Hans Andersen,hnn,Undirected,1
+Hans Christian,hnn,Undirected,4
+Hans Christian,gislc,Undirected,2
+Andersen,Mo,Undirected,1
+Peter Junker,ker,Undirected,1
+j,ker,Undirected,1
+Hain,j,Undirected,1
+Hans Chrisfian,yam,Undirected,1
+Hain,Hans Christian,Undirected,2
+Mesfer Andersen,hnn,Undirected,1
+Mesfer Andersen,Napoleon,Undirected,3
+Hans Christian,Mester Andersen,Undirected,1
+Hans Christian,Mons,Undirected,1
+Hans Christian,Skolcholdercn,Undirected,1
+Andersen,Hans Christian,Undirected,2
+Bonaparte,Mesfer Andersen,Undirected,1
+Hans Chrisfian,Stine Klokkers,Undirected,1
+Hans Christian,nn,Undirected,1
+Gud,Hans Christian,Undirected,7
+Hans Christian,iveiret,Undirected,1
+Christians,Hans Chrisfian,Undirected,1
+Chrisfian,Hans,Undirected,1
+Hans Chrisfian,Hans Christian,Undirected,1
+Graad,Hans Christian,Undirected,1
+Christian,Hans Christian,Undirected,8
+Guldberg,Hans Christian,Undirected,9
+Christian,Ludvig Holberg,Undirected,1
+Almnens,Guldberg,Undirected,1
+Guldberg,Hans Christian fløi,Undirected,1
+Hans Christian fløi,Vedel,Undirected,1
+Guldborgs,Vedel,Undirected,1
+Hans Chrisfian,throner Holbergs,Undirected,1
+Hans Christian,fil,Undirected,1
+fil,irre,Undirected,1
+Hans Christian,Madam Petersen,Undirected,3
+Line,Madamen,Undirected,1
+Hans Chrisfan,sfal,Undirected,1
+Blaar,Madam Petersen,Undirected,1
+Blaar,Line,Undirected,1
+Høkermadamen,Nielsen,Undirected,1
+Deur,Nielsen,Undirected,1
+Hans Christian,Leporcllos,Undirected,1
+Hans Christian,elsi,Undirected,1
+Evald,Roes,Undirected,1
+Hans Christian,Konsten,Undirected,1
+Gou,Prinds,Undirected,1
+-,Høcgh,Undirected,1
+Guldberg,Hans Christian freidig,Undirected,1
+Christian,Hans,Undirected,1
+Kong Frederik den Sjettes,Prinds Chrisfian Frederik,Undirected,2
+Frederik den,Prinds Chrisfian Frederik,Undirected,1
+Frederik,Frederik den,Undirected,1
+Frederik,Frederik den Sjette,Undirected,1
+Rubikon,nn,Undirected,1
+AndientS,Christian,Undirected,1
+Guldberg,Hans Christian Andersen,Undirected,1
+Hans Christian,Prindsen,Undirected,1
+Hans Christian,Prinds Christian,Undirected,1
+Hans Christian,Peter Iuncker,Undirected,1
+Peter Junckers,han meo,Undirected,1
+Hans Christian,Peter Junckers,Undirected,1
+Peter Juncker,fig,Undirected,2
+Pam,ProLindSbyes,Undirected,1
+Hans Christian,ProLindSbyes,Undirected,1
+Hans Christian,Peter Juncker,Undirected,3
+Cendrillon,Peter Juncker,Undirected,1
+Krethi,Plcthi,Undirected,1
+Peter Iuncker,Plcthi,Undirected,1
+Hans Christian,jæg,Undirected,1
+Diddriktpren,Hans Christian,Undirected,2
+Eenholm,Hain,Undirected,1
+Diddriktpren,lille Hans Christian,Undirected,1
+Eenholm,Hans Christian,Undirected,1
+Jeppe,ThaliaS,Undirected,1
+Hans Christan Andersen,Hans Christian,Undirected,1
+Hans Christian,freidig,Undirected,1
+Hans Christian,SedlcnS,Undirected,1
+Eenholm,SedlcnS,Undirected,1
+Eenholm,Hans Chrisfian Andersen,Undirected,1
+Gud,Hans Chrisfian,Undirected,1
+Eenholm,Hans Chrisfian,Undirected,1
+Haack,Hans Christian,Undirected,2
+Galeotti,Hain,Undirected,1
+Madame Schall,salig Balles,Undirected,1
+Eenholm,Haack,Undirected,1
+Hans Christian,Madame Schall,Undirected,2
+Hans Christian,Mutter Schalls,Undirected,1
+Schakpeter,kim gnostion,Undirected,1
+Guldberg,Prinds Christian,Undirected,1
+Dreier,Prinds Christian,Undirected,1
+Hans Christian,Tys,Undirected,1
+Hans Christian døg,Hcxens,Undirected,1
+Mocr Nielsen,ePilatus,Undirected,1
+Hans Christian,Mesfer Stegmann,Undirected,1
+Hans Christian,Obersf Guldberg,Undirected,1
+Hans Christian,Holbergs,Undirected,1
+fasf,sknlde,Undirected,1
+Hans Christian,sknlde,Undirected,1
+Peer,Poul,Undirected,1
+Gud,Poul,Undirected,1
+Forladelse Nielsen,Moer Andersen,Undirected,1
+Forladelse Nielsen,Øe,Undirected,1
+Hans Christian,Høegh,Undirected,1
+-,Høegh,Undirected,1
+-,Guldborgs,Undirected,1
+Hans Christian,Hans Christian Andersen,Undirected,1
+Salomo,h a n.,Undirected,1
+Christian,Hans Christian Lumbye,Undirected,1
+Christian,Guldberg,Undirected,1
+Adam Oehlenschläger,Gratiernes,Undirected,1
+Gratiernes,Jens Baggesen,Undirected,1
+Jens Baggesen,Rahbek,Undirected,1
+Fred. Guldberg,Rahbek,Undirected,1
+Fred. Guldberg,Thomas Thaarup,Undirected,1
+Baggescn,Ochlenschlagers,Undirected,1
+Holberg,Rahbek,Undirected,2
+Heibergs,Holberg,Undirected,1
+Rahbek,Siboni,Undirected,1
+Baggesen,Wcyse,Undirected,1
+Ryge,Wcyse,Undirected,1
+Ryge,Siboni,Undirected,1
+Baggesen,Nathanson,Undirected,2
+Baggesen,Siboni,Undirected,1
+Siboni,nn Weyse,Undirected,1
+Baggesen,Weyse,Undirected,1
+Siboni,dalle,Undirected,1
+Cendrillon,Weyse,Undirected,1
+Dands,Weyse,Undirected,1
+Baggesen,H. C. Andersen,Undirected,1
+Christian,Engels,Undirected,1
+Mo ,Spaastine,Undirected,1
+Mo ,er Nielsen,Undirected,1
+Christian,øg,Undirected,1
+Mocr Nielsen,hnn,Undirected,1
+Spaadom,Spaakvindcn,Undirected,1
+Christian,Posfillon,Undirected,1
+Hans Chrisfian,Posfillon,Undirected,1
+Guldberg,Hans Chrisfian,Undirected,1
+Cæsar,Hans Christian,Undirected,1
+Guldberg,Iversen,Undirected,1
+Hans Christian,Iversen,Undirected,2
+Iversen,Madame Schall,Undirected,1
+Christian,Ester,Undirected,2
+Balletprimadonnas,Madame Schall,Undirected,1
+Madam Schall,didhen,Undirected,1
+Hans Christian,didhen,Undirected,1
+Hans Christian,Madam Schall,Undirected,2
+Madame Schall,ester Branden,Undirected,1
+Christian,sorn,Undirected,1
+Iversen,Madam Schall,Undirected,1
+hu,hurfig,Undirected,1
+Gud,hille,Undirected,1
+Gud,Ieg,Undirected,1
+Hans Christian,Lykke,Undirected,1
+Hans Christian,Wessels,Undirected,1
+Hans Christian,Holstein,Undirected,3
+Hans Christian,Triblers,Undirected,1
+Hans Christian,Lakaien,Undirected,1
+Hans Christian,Holstein barsf,Undirected,1
+Holstein,Siboni,Undirected,1
+Elsfer,Siboni,Undirected,1
+Hans Christian,Paul,Undirected,1
+Paul,Virginias,Undirected,1
+Graad,Virginias,Undirected,1
+Hellegu,jø,Undirected,1
+Paul,Virginie,Undirected,1
+Hans Christian,Poul,Undirected,1
+Poul,Virginie,Undirected,1
+Hans Christian,Samson,Undirected,1
+Hans Chrisfian,Mester Petersen,Undirected,1
+Hans Chrisfian,ester,Undirected,1
+Hans Chrisfian,øg,Undirected,1
+Madame Schall,dandse,Undirected,1
+Hans Chrisfian,Svend,Undirected,2
+Hans Chrisfian,dandse,Undirected,1
+Arie,dandse,Undirected,1
+Christian,Gud,Undirected,3
+Asten,Siboni,Undirected,1
+Hans Christian,Siboni,Undirected,5
+Cæsar,Siboni,Undirected,2
+Gud,Siboni,Undirected,2
+Hans Christian,Weyse,Undirected,8
+Hans Christian,sdvcm,Undirected,1
+Christian,Weyse,Undirected,1
+Christian,Thiele,Undirected,1
+Thiele,Weyse,Undirected,2
+Hain,Weyse,Undirected,1
+Gud,Hain,Undirected,1
+Andersen,Gud,Undirected,16
+Bournonville,Siboni,Undirected,2
+Baggesen,Nathansen,Undirected,1
+Bournonville,Christian,Undirected,1
+Christian,Dandse,Undirected,1
+Christian,Johanne Luise,Undirected,1
+Hans Christian,Johannes,Undirected,2
+H. C. Andersen,Johannes,Undirected,1
+Johannes,knn,Undirected,1
+Hans Chrisfian,kjære Andersen,Undirected,1
+Hans Laxmand,Kong Hans,Undirected,1
+,Kong Hans,Undirected,1
+Laxmand,høilys,Undirected,1
+Herr Andersen,Wildt,Undirected,1
+Andersen,C.,Undirected,1
+Hans Christian,Wildt,Undirected,1
+Thiele,Wildt,Undirected,1
+Hans Christian,Thiele,Undirected,2
+Andersen,Bidstrup,Undirected,1
+Andersen,Dein,Undirected,1
+Karen Margrethe Kamma Heger,Knud Lyne Rahbek,Undirected,1
+Hain,Rahbek,Undirected,1
+Hans Christian,Rahbek,Undirected,3
+Hain,Kamma Rahbek,Undirected,1
+Chrisfian,Kamma Rahbek,Undirected,1
+Chrisfian,Kammas,Undirected,1
+Kammas,hnn,Undirected,1
+Hans Christian,Kamma Rahbek,Undirected,1
+Brandis,I. L. Heiberg heed,Undirected,1
+Calderons,Rahbek,Undirected,1
+Andersen,ester,Undirected,1
+Kamma,ester,Undirected,1
+Hans Chrisfian,Kamma Rahbek,Undirected,2
+Hans Chrisfian,Rahbek,Undirected,1
+Kamma,Rahbek,Undirected,5
+Kamma,Nahbeks,Undirected,1
+Rahbek,kjære Rahbek,Undirected,1
+Andersen,Rahbek,Undirected,1
+Rahbek,Thiele,Undirected,3
+Rahbek,Wehse,Undirected,2
+Kamma,Thiele,Undirected,1
+Andersen,Thiele,Undirected,1
+Fru Rahbek,Kamma,Undirected,1
+Christian,Rahbek,Undirected,2
+Hans Christian,Konstner,Undirected,1
+Herr Andersen,HerrAndersen,Undirected,1
+Dein,Weyse,Undirected,1
+Guldberg,Weyse,Undirected,1
+Roes,Weyse,Undirected,1
+Roes,Siboni,Undirected,1
+Siboni,iveien,Undirected,1
+Collin,Weyse,Undirected,2
+Collin,jø,Undirected,1
+Collin,Gud,Undirected,3
+Hans Christian,Jonas Collin,Undirected,1
+Frederik den Sjette,Jonas Collin,Undirected,1
+Collin,Frederik den Sjette,Undirected,3
+Collin,Rahbek,Undirected,3
+Olsen,Rahbek,Undirected,1
+Heibergs,Olsen,Undirected,1
+Heibergs,Kong Salomon,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Collin,Jørgen Hattemager,Undirected,1
+Carl Bernhard,Christian den,Undirected,1
+Christian den,Collin,Undirected,2
+Collin,Hans Christian,Undirected,14
+Collin,Øe,Undirected,2
+Hans Christian,j,Undirected,1
+Gud,j,Undirected,1
+Dansfe Hans Christian Ørsted,H. C. Ørsteds,Undirected,1
+Anders Sandø Ørsted,Ørsted,Undirected,1
+Gud,Hans Christian Ørsted,Undirected,1
+Collin,Ørsted,Undirected,4
+Mynster,Ørsted,Undirected,1
+Christian,Mynster,Undirected,1
+Christian,Ørsted,Undirected,1
+Gud,Ørsted,Undirected,1
+Hans Christian,Ynglingens,Undirected,1
+Frederik den,Kønger,Undirected,1
+Collin,Kønger,Undirected,1
+Christian,Collin,Undirected,2
+Collin,gansfe,Undirected,1
+Collin,t. Cx,Undirected,1
+Hans Christian,t. Cx,Undirected,1
+Hvo,Weyse,Undirected,2
+Collin,Fcehoved,Undirected,1
+Frederik den Sjette,Meisling,Undirected,1
+Ingemans,Meisling,Undirected,1
+Ingemans,Rosenkilde,Undirected,1
+Hans Christian,Meisling,Undirected,2
+Collin,Meisling,Undirected,4
+Chrisfian,Hans Christian,Undirected,1
+Chrisfian,Meisling,Undirected,1
+H. C. Andersen,Meisling,Undirected,1
+H. C. Andersen,Hans Christian,Undirected,1
+Carl Bagger,Hans Christian,Undirected,9
+Hans Christian,son,Undirected,1
+Hans Christian,tom Pralhans,Undirected,1
+Carl Bagger,Hain,Undirected,1
+Carl Bagger,Collin,Undirected,2
+Andersen,Collin,Undirected,33
+Carl Bagger,Meisling,Undirected,1
+Digter-Sands,sidsfe,Undirected,1
+Christian,Meisling,Undirected,1
+Hans Christian,Spaastine,Undirected,1
+Frokorn,Jakobs,Undirected,1
+-,Johan Lud,Undirected,1
+Heiberg,Peter Andreas Heiberg,Undirected,1
+H. C. Andersen,gansfe,Undirected,1
+H. C. Andersen,I. L. Heiberg,Undirected,2
+I. L. Heiberg,Vaas,Undirected,1
+Heiberg,Vaas,Undirected,1
+Herr H. C. Andersen,Orla Lehmann,Undirected,1
+Hans Christian,Jeppe,Undirected,1
+Collin,Jeppe,Undirected,1
+Collin,Heiberg,Undirected,2
+Andersen knnde,Heiberg,Undirected,1
+Andersen knnde,sor,Undirected,1
+Heiberg,sor,Undirected,1
+Collin,kjære Andersen,Undirected,2
+Andersen,H. C. Andersen,Undirected,11
+Ieg,absolnt,Undirected,1
+Heiberg,Øehlenschlager,Undirected,1
+Collin,Ieg,Undirected,1
+Collin,H. C. Andersen,Undirected,3
+Andersen,Heiberg,Undirected,20
+Frederik den Sjette,Heiberg,Undirected,1
+Andersen,H. C. Ørsfed,Undirected,1
+Andersen,Ingemanns,Undirected,1
+Herr H. C. Andersen,Roes,Undirected,1
+Andersen,Frederik den Sjette,Undirected,1
+Thiele,hnn,Undirected,1
+Heiberg,Johanne Lovise Pætges,Undirected,1
+Heiberg,MolbechS,Undirected,1
+H. C. Andersen,Ingeborg,Undirected,1
+Andersen,Ingeborg,Undirected,2
+Andersen kom,Paulun,Undirected,1
+I. L. Heiberg,Peter Andreas Heiberg,Undirected,1
+Andersen,Napoleon,Undirected,2
+Johan Ludvig,P. A. Heiberg,Undirected,1
+Johan Ludvig,flulle,Undirected,1
+Kong Gustav,flulle,Undirected,1
+Kong Gustav,øg,Undirected,1
+Heiberg,øg,Undirected,2
+Heiberg,I. L. Heiberg,Undirected,1
+Andersen,Rotschild,Undirected,1
+Andersen,Orla Lehmann,Undirected,2
+Andersen,Lehmanns,Undirected,1
+Andersen,Lehmann,Undirected,5
+Andersen,Verner Hans,Undirected,1
+Frederik Abrahamson Læssøe,Verner Hans,Undirected,1
+Frederik Abrahamson Læssøe,Heiberg,Undirected,1
+Heiberg,Kapitain Verner Hans Frederik Abrahamson,Undirected,1
+Kapitain Verner Hans Frederik Abrahamson,Læssøe,Undirected,1
+Andersen,Læssøe,Undirected,3
+Lehmann,Læssøe,Undirected,2
+Garyon,Mogens,Undirected,1
+Andersen,Mogens,Undirected,1
+Effer,Knnd,Undirected,1
+Andersen,Knud,Undirected,3
+Knud,lee,Undirected,1
+Andersen,Lehman,Undirected,1
+Heiberg,Thorvaldsen,Undirected,1
+Paven,Thorvaldsen,Undirected,1
+Prometheus,Thorvaldsen,Undirected,1
+Andersen,Thorvaldsen,Undirected,15
+Anna Maria Magnani,hnn,Undirected,1
+Thorvaldsen,fig,Undirected,1
+Aland,H. C. Andersen,Undirected,1
+Andersen,Kiichler,Undirected,1
+Andersen,Bødtcher,Undirected,13
+Anna Marias,Bødtcher,Undirected,1
+Anna Marias,Thorvaldsen,Undirected,1
+Andersen,Anna Maria,Undirected,1
+Andersen,dcrnd,Undirected,1
+Gnds,Lazzaron,Undirected,1
+Asfen,Gnds,Undirected,1
+Gud,Lazzaron,Undirected,1
+Pjalter,hnn,Undirected,1
+Signor,hnn,Undirected,1
+Lazzaroncn,nn,Undirected,1
+Lazzaroner,nn,Undirected,1
+H. C. Andersen,Thorvaldsen,Undirected,1
+Sujet,Thorvaldsen,Undirected,1
+Bahren,Ludvig Bødtcher,Undirected,1
+Ludvig Bødtcher,Thorvaldsen,Undirected,1
+Bødtcher,Thorvaldsen,Undirected,5
+Bødtcher,Tyge Brahe,Undirected,1
+Roes,Thorvaldsen,Undirected,1
+Roes,fil Andersen,Undirected,1
+H. C. Andersen,Musa,Undirected,1
+Musa,Thorvaldsen,Undirected,1
+Anne Marias,Thorvaldsen,Undirected,1
+Asfe,nn,Undirected,1
+Bertel Thorvaldsens,Bødtcher Thorvaldsen,Undirected,1
+Andersen,H.,Undirected,1
+Ingeborg,Reitzcl,Undirected,1
+Andersen,Hakon Jarl,Undirected,1
+Andersen,hans Hns,Undirected,2
+Andersen,Bystrøm,Undirected,2
+Bhstrøm,Bystrøm,Undirected,1
+Andersen,Bhstrøm,Undirected,2
+Bystrøm,Thorvaldsen,Undirected,1
+Andersen,Ludvig Bødtcher,Undirected,1
+Thorvaldsen,hnn,Undirected,1
+Bødtcher,hnn,Undirected,1
+Mesfer,Thorvaldsen,Undirected,1
+Thorvaldsen,polidfl,Undirected,1
+Andersen,polidfl,Undirected,1
+Agnete,Andersen,Undirected,2
+Agnete,Applans,Undirected,1
+Agnete,H. C. Andersen,Undirected,1
+Collinsfe Hns,Sibbcrn,Undirected,1
+Andersen,Sibbcrn,Undirected,1
+Andersen,Molbech,Undirected,2
+Frederik den,Sands,Undirected,1
+Andersen,Sands,Undirected,2
+Aarle,H. E. Andersen,Undirected,1
+Aarle,Andersen,Undirected,1
+Andersen,Jørden,Undirected,1
+Andersen,Fløiels,Undirected,1
+Fløiels,Prindsen,Undirected,1
+Andersen,Prinds Christian,Undirected,2
+Aare,Andersen,Undirected,1
+Colisenm,Herr Andersen,Undirected,1
+Andersen,Lord Byron,Undirected,1
+Andersen,Prindsen,Undirected,1
+Prinds Christian,Prindsen,Undirected,1
+Andersen,overraflei,Undirected,1
+Collin,Prinds Christian,Undirected,1
+Prinds Christian,paany,Undirected,1
+Collin,paany,Undirected,1
+Andersen,Prind,Undirected,1
+Collin,skandina,Undirected,1
+Andersen,j,Undirected,2
+Andersen,H. C.,Undirected,4
+Guldbrand,Langemand,Undirected,1
+Guldbrand,Peer Spillemand,Undirected,1
+Peer Spillemand,Pral,Undirected,1
+Andersen,felv,Undirected,3
+Andersen,Carl Andreas Reitzcl,Undirected,1
+Carl Andreas Reitzcl,H. E. Andersen,Undirected,1
+H. E. Andersen,Reikzcl,Undirected,2
+Andersen,Reikzcl,Undirected,1
+H. E. Andersen,Heras,Undirected,1
+Andersen,Eollin,Undirected,2
+Molbech,Wcrlanffs,Undirected,1
+Sebastian,linder,Undirected,1
+Baggers,Carl Bagger,Undirected,1
+Baggers,nn oppebi Baggers,Undirected,1
+Collin,nn oppebi Baggers,Undirected,1
+Andersen,Carl Bagger,Undirected,3
+Andersen,Bagger,Undirected,2
+Carl Bagger,Saxen,Undirected,1
+Andersen,Werlaufs,Undirected,1
+Collin,Werlaufs,Undirected,1
+Andersen,Dn,Undirected,1
+Heiberg,Malle,Undirected,1
+Oehlenschlæger,Rahbek,Undirected,3
+Baggesen,Rahbek,Undirected,2
+Andersen,Oehlenschlager,Undirected,3
+Keiseren,magnifique,Undirected,1
+Keiseren,Syenaal,Undirected,1
+Collin,Mohamed,Undirected,1
+Collin,Fenger,Undirected,1
+Fenger,Prind,Undirected,1
+Christian,Prind,Undirected,1
+Andersen,Holberg,Undirected,1
+Speil,visfnok,Undirected,1
+dito,visfnok,Undirected,1
+Andersen,Ingemann,Undirected,32
+Andersen,Ingemann —,Undirected,1
+Ingemann,Karen Mandix,Undirected,2
+Andersen,Ingemans,Undirected,2
+Ingemann,Selman,Undirected,1
+Gud,hnn,Undirected,1
+Gud,Hans Jørgens,Undirected,1
+L,Vægterkoncn,Undirected,1
+Hans Jørgen,L,Undirected,1
+Hans Jørgen,Jeanette,Undirected,7
+Hans,hans Posf,Undirected,1
+Hans Jørgen,Hans Jørgen Borgvægtcr,Undirected,1
+Franst,Hans Jørgen,Undirected,2
+Franst,Gud,Undirected,1
+Fransf,Jeanette,Undirected,1
+Fransf,hnn,Undirected,1
+Hans Jørgen,Major Selmans,Undirected,1
+Major Selmans,Napoleon,Undirected,1
+Keiseren,Napoleon,Undirected,2
+Keiser,Napoleon,Undirected,2
+Bonaparte,Keiser,Undirected,1
+Bonaparte,Napoleon,Undirected,1
+Gertrands,Napoleon,Undirected,1
+Hans Jørgen,jnst,Undirected,1
+Jeanette,hnn,Undirected,3
+Hans Jørgen,hnn,Undirected,1
+Andersen,Rosenkilde,Undirected,1
+Ingemann,Rosenkilde,Undirected,1
+Holberg,Ingemann,Undirected,1
+Ingemann,Jeanette,Undirected,4
+Antoinette,hnn,Undirected,1
+Jeanette,Martha,Undirected,1
+Antoinette,Ieg,Undirected,1
+Andersen,Antoinette,Undirected,2
+Herr H.,Ingemann,Undirected,1
+C. Andersen,Herr H.,Undirected,1
+Ingemann,Thomas,Undirected,1
+Hnn,nn,Undirected,1
+Herr Andersen,Jeanette,Undirected,2
+Herr Andersen,Øe,Undirected,1
+dorligh dansfe,franst Elsasser,Undirected,1
+dorligh dansfe,gunne,Undirected,1
+bewahr,tu,Undirected,1
+An,an,Undirected,1
+Faust,an,Undirected,1
+Berten,Faust,Undirected,1
+Berten,Eisehammer,Undirected,1
+Eisehammer,jai,Undirected,1
+Pachhe,Suflrission,Undirected,1
+Pachhe,jai,Undirected,1
+jai,mai,Undirected,1
+Silfvermann,gansfe,Undirected,1
+Bræchtig,jai,Undirected,1
+Pachhe,Silfvermann,Undirected,1
+Silfvermann,koi,Undirected,1
+Adic,koi,Undirected,1
+Konsten,mai,Undirected,1
+ai,mai,Undirected,1
+Siran,an,Undirected,1
+Siran,mai,Undirected,1
+dil,dil mai,Undirected,1
+Jai,jaj,Undirected,1
+Jai,So,Undirected,1
+So,dil mai,Undirected,1
+dil mai,jai,Undirected,1
+jai,un,Undirected,1
+Madam,exkuser,Undirected,1
+Madam,olde,Undirected,1
+mai,olde,Undirected,1
+Antoinette,Jeanette,Undirected,1
+Gud,Ingemann,Undirected,1
+Gud,Jeanette,Undirected,2
+Andersen,Jeanette,Undirected,3
+Ingemann,Roes,Undirected,1
+Andersen,Roes,Undirected,2
+Andersen,Ingeman,Undirected,6
+Herr Andersen,Ingeman,Undirected,1
+Ingeman,Jeanette,Undirected,1
+-Ingeman,Ingeman,Undirected,1
+Andersen,Carsten Hanch,Undirected,1
+Carsten Hanch,Ingeman^,Undirected,1
+Bagge,Ingeman,Undirected,1
+Andersen,Hanch,Undirected,3
+Hanch,Ingeman,Undirected,2
+Bagge,Hanch,Undirected,3
+Ingeman,saavel Andersen,Undirected,1
+Hanch,saavel Andersen,Undirected,1
+Andersen,rastet,Undirected,1
+Ingeman,rastet,Undirected,1
+Herr Bagger,Rosenkilde,Undirected,1
+Rosenkilde,kjære Andersen,Undirected,1
+Hanch,Herr,Undirected,1
+Andersen,Herr,Undirected,1
+Andersen,Herr Bagges,Undirected,1
+Baggc,Herr Bagges,Undirected,1
+Bagge,Roeskilde Reicr,Undirected,1
+Baggc,Herr Andersen,Undirected,1
+Baggc,J. prop08,Undirected,1
+H. C. An-,H. C. Andersen,Undirected,1
+H. C. Andersen,z,Undirected,1
+Dandsekunstncren,spnrgte,Undirected,1
+Andersen,Jeanette DandsennderviSning,Undirected,1
+Jeanette DandsennderviSning,sone,Undirected,1
+Barme,sone,Undirected,1
+Aland,Gud,Undirected,1
+Dandsemcstercn,ninvur,Undirected,1
+Døttre hidilenve,j,Undirected,1
+Gud,Marie,Undirected,1
+Jørgen,Marie,Undirected,1
+Andersen,Christian Wilster,Undirected,1
+Hanch,Ingemann,Undirected,2
+Hanch,Wilsfers,Undirected,1
+Wilster,Wilsters,Undirected,1
+Andersen,Wilster,Undirected,5
+Sands,Steen Blicher,Undirected,1
+Wilster,reisfe den,Undirected,1
+Steen,Wilster,Undirected,1
+Bor Digter,Hanch,Undirected,1
+Ingemann,Sten Blicher,Undirected,1
+Blicher,E. Bindstouw,Undirected,1
+Andersen,Kirkegaard,Undirected,1
+Christian den,Ingemann,Undirected,1
+Christian den,Franz,Undirected,1
+Guilia,Otto,Undirected,1
+Franz,Guilia,Undirected,1
+Franz,Ingeman,Undirected,1
+Carl van Mander,Kong Christian,Undirected,1
+Konsten,vclskc Franzes,Undirected,1
+Carl,Konsten,Undirected,1
+Otto,jnst,Undirected,1
+Christus,jnst,Undirected,1
+Christus,Judas,Undirected,1
+Jscariot,Judas,Undirected,1
+Fran,Ølto,Undirected,1
+Fran,Giulia,Undirected,2
+Fran,es,Undirected,1
+Franz,es,Undirected,1
+Franz,Judas,Undirected,1
+Judas,Otto,Undirected,1
+Andersen,Blicher,Undirected,3
+Gud,einmal,Undirected,1
+Andersen,Wilsfer,Undirected,1
+Blicher,Wilsfer,Undirected,2
+Christian Wilsfer,Wilsfer,Undirected,1
+Christian Wilsfer,Heiberg,Undirected,1
+Heiberg,sknlde,Undirected,1
+Andersen,Bagge,Undirected,3
+Amor,lee,Undirected,1
+Ingemann,Jomfruens,Undirected,1
+Andersen,Jomfruens,Undirected,1
+Andersen,Jomfru Jeannette,Undirected,1
+Elsfer,Eva,Undirected,1
+Holberg,Jeannette,Undirected,1
+Ingemann,Valdemar Seir,Undirected,1
+Albert fcidede,Dronning Dagmar,Undirected,1
+Dronning Dagmar,Hnn,Undirected,1
+Hnn,Kirstine,Undirected,1
+Dagmar,Kirstine,Undirected,3
+Dagmar,Jomfru Kirstine,Undirected,1
+Jomfru Kirsfine,Jomfru Kirstine,Undirected,1
+Dagmar,Gud,Undirected,2
+Gud,Kirstine,Undirected,1
+Dagmar,lille Kirsfine,Undirected,1
+Jesus,Marie,Undirected,1
+Kirsfine,Malene,Undirected,1
+Hnn,Malene,Undirected,1
+Dagmar,Kirsfine,Undirected,1
+Kirstine,hnn,Undirected,1
+Kirstine,Valdemar,Undirected,1
+Urne,Valdemar,Undirected,1
+Misfwins,Urne,Undirected,1
+Albert,Misfwins,Undirected,1
+Albert,Otto,Undirected,1
+Otto,djærv,Undirected,2
+Otto,christne,Undirected,1
+Kirstine,christne,Undirected,1
+Alberto,Earl,Undirected,1
+Carl,j,Undirected,1
+Otto,j,Undirected,1
+Dagmar,hnn,Undirected,1
+Dagmar,Thronarving,Undirected,1
+Ida,Thronarving,Undirected,1
+Clans,Ida,Undirected,1
+Clans,Dronning Dagmar,Undirected,1
+Dronning Dagmar,Valdemar,Undirected,1
+Hnn,Valdemar,Undirected,1
+Gud,Hnn,Undirected,1
+Gud,Valdemar,Undirected,1
+Dagmar,Valdemar,Undirected,5
+Valdemar,hnn,Undirected,1
+Aaen,hnn,Undirected,1
+Aaen,Spaadom,Undirected,1
+Kong Erik,Kong Eriks,Undirected,1
+Erik,Kong Valdemar,Undirected,1
+Erik,Valdemar,Undirected,1
+Negitze,Valdemar,Undirected,1
+Valdemar,hnrtigtFsine,Undirected,1
+Dagmar,hnrtigtFsine,Undirected,1
+Kong Erik,nn,Undirected,1
+Lene øg,Valdemar,Undirected,1
+Valdemar,fluide,Undirected,2
+Andersen,fig,Undirected,2
+Heiberg,Peder Hjort,Undirected,1
+Andersen,Peder Hjort,Undirected,1
+Andersen,Hjort,Undirected,1
+Hjort,Ingemann,Undirected,1
+Ingemann,Wilster,Undirected,1
+Andersen,sorat,Undirected,1
+Sønnike,hnn,Undirected,1
+Berten,Ællinden,Undirected,1
+Hauchs,Wilster,Undirected,1
+Jeanette,Lotte,Undirected,1
+Gud,Lotte,Undirected,1
+Hvilehøi,nien,Undirected,1
+H. C. Andersen,Jeppe,Undirected,1
+Andersen,Weyse,Undirected,11
+Ieg,Øe,Undirected,1
+Weyse,Øe,Undirected,1
+Andersen,Øe,Undirected,1
+Christian,Frederik den Sjette,Undirected,1
+Christian den,Frederik den Sjette,Undirected,1
+Christian den,Frederik den,Undirected,5
+Frederik den,Frederik den Sjette,Undirected,1
+Christian,Frederik den,Undirected,1
+Carstensens,Christian,Undirected,1
+Christian,leben lassen,Undirected,1
+Bjørn,Jisbjørn,Undirected,1
+A,Andersen,Undirected,1
+Geheimeraaden,Herrens,Undirected,1
+Geheimeraaden,nn,Undirected,1
+Etatsraad Heiberg,nn,Undirected,1
+Andersen,B *,Undirected,3
+B *,Collin,Undirected,1
+Hanch,Heiberg,Undirected,1
+Heiberg,Tyge Brahcs,Undirected,1
+Claudius Rosenhoss,Molbech,Undirected,1
+Andersen,kjære Heiberg,Undirected,1
+Andersen,hnn,Undirected,2
+Hnn,P. A. Heiberg,Undirected,1
+"Gyllembourg-Ehrensværd,",Hnn,Undirected,1
+"Gyllembourg-Ehrensværd,",Kong Gustav den Tredie,Undirected,1
+Johan Ludvig,Nkandens,Undirected,1
+Andersen,Frn Gyllembnrg,Undirected,1
+Frn Gyllembnrg,Heiberg,Undirected,1
+Heiberg,Roes,Undirected,1
+Carl Bernhard,øg,Undirected,1
+Heiberg,polidfl,Undirected,1
+Carl Bernhard,Heiberg,Undirected,2
+Carl Bernhard,kjære Andersen,Undirected,1
+Herr Sørensen,Sørensen,Undirected,1
+Andersen,Carl Bernhard,Undirected,1
+Carl Bernhardfle,Collin,Undirected,1
+Heiberg,gansfe,Undirected,1
+Heiberg,Saint Anbain,Undirected,2
+Carl Bernhard,ganfle,Undirected,1
+Carl Bernhard,Collin,Undirected,1
+H. C. Andersen,Heiberg,Undirected,1
+Toilette,Wilckens,Undirected,1
+Thorvaldsen,kjære Andersen,Undirected,1
+Andersen,Christian,Undirected,4
+Adalbert v. Chamisso,Andersen,Undirected,1
+Køngen,kjære Andersen,Undirected,1
+Herr Andersen,Køngen,Undirected,1
+Køngen,Thorvaldsen,Undirected,1
+Thorvaldsen,Wilckens,Undirected,2
+Thorvaldsen,Ørsted,Undirected,1
+Wilckens,Ørsted,Undirected,1
+Køngen,Wilckens,Undirected,1
+Andersen,Køngen,Undirected,1
+Collin,Thorvaldsen,Undirected,1
+Collin,Vilhelm Holst,Undirected,1
+Oehlenschlager,Thorvaldsen,Undirected,2
+H. C.,Thorvaldsen,Undirected,1
+Oehlenschlager,gjentøg,Undirected,1
+Holst,Nielsen,Undirected,1
+Holst,Vilhelm Holst,Undirected,1
+Andersen,Skjøndt,Undirected,2
+Andersen,Christian den,Undirected,5
+Andersen,Sana,Undirected,1
+Heiberg,I. L.,Undirected,1
+Andersen,Andients,Undirected,1
+Adjutant,Andients,Undirected,1
+Andersen,Levetzan,Undirected,2
+Andersen,Seir,Undirected,1
+Holst,Neitzel,Undirected,1
+Neitzel,Reikzel,Undirected,1
+Andersen,Holst,Undirected,4
+Andersen,"Hciberg,",Undirected,1
+"Hciberg,",Holst,Undirected,1
+Frederik den,Holst,Undirected,1
+Collin,Oehlenschlager,Undirected,1
+Collin,H. C. Ørsted,Undirected,1
+H. C. Ørsted,Holst,Undirected,1
+Holst,Reikzel,Undirected,4
+Adam,Andersen,Undirected,1
+Cæsar,Herr Dandsemestcren,Undirected,1
+Andersen,Herr Dandsemestcren,Undirected,1
+Andersen,Hciberg,Undirected,1
+Heiberg,Kafeen,Undirected,1
+Scribe,Victor Hugo,Undirected,1
+Scribe,Thiers,Undirected,1
+Dumas,Mr. Dumas,Undirected,1
+Andersen,Dumas,Undirected,7
+Andersen,Jules,Undirected,2
+Horace,Jules,Undirected,1
+Edmond,Horace,Undirected,1
+Adolphe,Edmond,Undirected,1
+Andersen,Edmond,Undirected,1
+Adolphe,Jules,Undirected,1
+Adolphe,Marion,Undirected,1
+Alex,Dumas,Undirected,2
+Dumas,tiis,Undirected,2
+Andersen,Bonmots,Undirected,1
+Sue,hnn,Undirected,1
+Andersen,Minnters,Undirected,1
+Dumas,Minnters,Undirected,1
+Dumas,brillant,Undirected,1
+Dnmas,Dumas,Undirected,1
+Andersen,Mr. Dumas,Undirected,1
+Andersen,Prinds Louis Napoleon,Undirected,1
+Keiser,Prinds Louis Napoleon,Undirected,1
+Keiser,forfin,Undirected,1
+Napoleon den,forfin,Undirected,1
+Ludvig Phillip,Napoleon,Undirected,1
+Keiser,Prinds Ludvig Napoelon,Undirected,1
+Keiser,Prinds Napoleon,Undirected,2
+Andersen,øg,Undirected,7
+Keiser,Ludvig Phillip,Undirected,1
+Andersen,Giacomo Rossini,Undirected,1
+Andersen,Rossini,Undirected,6
+Franst,Rossini,Undirected,1
+Franst,Signor,Undirected,1
+Rossini,Weyse,Undirected,1
+Papa,Rossini,Undirected,2
+Papa,hnn,Undirected,1
+Rossini,hnn,Undirected,1
+Rossini,gjentøg,Undirected,1
+Konsten,nn,Undirected,1
+Rossini,sor Konsten,Undirected,1
+Konsten,Rossini,Undirected,1
+Andersen,Jenny Lind,Undirected,5
+Andersen,Røssini,Undirected,1
+Remy,Røssini,Undirected,1
+Clarisse,Heras,Undirected,1
+Heras,Imzsto,Undirected,1
+Ester Bestemmelsen,Jennh Lin d fil Paris,Undirected,1
+Andersen,Jennh Lin d fil Paris,Undirected,1
+Frederikke Bremer,Jennh Lind,Undirected,1
+Andersen,Frederikke Bremer,Undirected,1
+Andersen,kjær,Undirected,2
+Efferat,kjær,Undirected,1
+Andersen fil Rossini,Efferat,Undirected,1
+Andersen fil Rossini,Jenny Lind,Undirected,1
+Jenny Lind,Rossini,Undirected,2
+Jenny Lind,Kellneren,Undirected,1
+Charles Dickens,H. C. Andersen,Undirected,1
+H. C. Andersen,Jenny Lind,Undirected,1
+Andersen,Linds,Undirected,1
+Andersen,Charles Dickens,Undirected,1
+Andersen,Dickens,Undirected,5
+Andersen,øg Jenny Lind,Undirected,1
+Dickens,øg Jenny Lind,Undirected,1
+Andersen øg Dickens,Jenny Lind,Undirected,1
+Dickens,Jenny Lind,Undirected,2
+Dickens,gansfe,Undirected,1
+Dickens,Pansen,Undirected,1
+Andersen,Julie,Undirected,1
+Julie,Romeo,Undirected,1
+Paul,Romeo,Undirected,1
+Dickens,Jennh Lind,Undirected,2
+Jenny Lind,hnn,Undirected,1
+Frøken Lind,beflrive Andersens,Undirected,1
+Lind,ganfle,Undirected,1
+Jenny Lind,ganfle,Undirected,1
+Jenny Lind,Øe,Undirected,1
+Dickens,Gud,Undirected,1
+Andersen,Michael Drewsen,Undirected,2
+Christian,Michael,Undirected,1
+Kafee,Michael,Undirected,1
+Andersen,Kafee,Undirected,1
+Dickens,Drewsen,Undirected,1
+Drewsen,Kammeraad Drewsen,Undirected,1
+Andersen,Drewsen,Undirected,10
+Andersen,Michael Drevsens,Undirected,1
+Cicerone,Michael Drevsens,Undirected,1
+Cicerone,Geheimeraad Collin,Undirected,2
+Drewsen,Geheimeraad Collin,Undirected,1
+Cicerone,Drewsen,Undirected,1
+Drewsen,Ludvig Napoleons,Undirected,1
+Kellneren,Mr. Ansen,Undirected,1
+Drewsen,Kellner,Undirected,1
+Frokosf,Mr. Andersen,Undirected,1
+Andersen,Jerichan,Undirected,3
+Andersen,Jerichau,Undirected,5
+Andersen,Konstncrs,Undirected,1
+Kong Christian,nn,Undirected,1
+Alma,Goethes,Undirected,1
+Andersen,paany,Undirected,1
+al-,j,Undirected,1
+Elisabeth Jerichaus-Baumans,Jens Adolf Jerichaus,Undirected,1
+H. C. Andersen,Jerichau Vensfab,Undirected,1
+Jerichau,Jerichau Vensfab,Undirected,1
+Jerichan,Jerichau,Undirected,1
+Jerichan,as Andersen,Undirected,1
+Nn,hnn,Undirected,1
+Andersen,Konstner,Undirected,1
+Andersen,Signor Andersen,Undirected,1
+Andersen,nn,Undirected,3
+Hilledød,as,Undirected,1
+Bull,as,Undirected,1
+Andersen,Bull,Undirected,4
+Andersen,Ole Bull,Undirected,1
+Ahasverns,Andersen,Undirected,2
+Bødtcher,kjære Andersen,Undirected,1
+Bødtcher,ban,Undirected,1
+Alan,ban,Undirected,1
+Alan,Andersen,Undirected,2
+Kapifainen „,Marryat,Undirected,1
+Andersen,Don Iose,Undirected,2
+Don Jøse,Kapitain,Undirected,1
+Andersen,Karl,Undirected,1
+Karl,iland,Undirected,1
+Andersen,taus,Undirected,1
+jø,taus,Undirected,1
+Don Jose,Seil,Undirected,1
+Gud,H. C. Andersen,Undirected,3
+Prinds Otto,ester,Undirected,1
+Andersen,Kong Otto,Undirected,3
+Andersen,Herr Andersen,Undirected,1
+Exempel vør Oehlenschlager,vør Baggesen,Undirected,1
+Andersen,vør Baggesen,Undirected,1
+Andersen,Baggesen,Undirected,1
+Baggesen,Thorvaldsen,Undirected,1
+Thorvaldsen,ganfle,Undirected,1
+Abildgaards,Thorvaldsen,Undirected,2
+Drewsen,Hansen,Undirected,1
+Drewsen,Thrki,Undirected,1
+Andersen,Thrki,Undirected,1
+Andersen,Theophilus Hansen,Undirected,1
+Andersen,Hansen,Undirected,4
+Ganste,Hansen,Undirected,1
+Andersen,Mørkef,Undirected,1
+Hansen,Sands,Undirected,1
+Hansen,Mahmud Pascha,Undirected,1
+Mahmud Pascha,fog,Undirected,1
+Eunuche,Paschaen,Undirected,1
+Buldogs,Paschaen,Undirected,1
+Ehefer,Mahmud Pascha,Undirected,1
+Andersen,Mahomed Pascha,Undirected,1
+Andersen,tilleie,Undirected,2
+Andersen,sor,Undirected,1
+Seilet,sor,Undirected,1
+Andersen,Noahs,Undirected,1
+Aare,Weyse,Undirected,1
+Heiberg,Weyse,Undirected,3
+Heiberg,Hertz,Undirected,1
+Andersen,Hertz,Undirected,1
+Roeskilde,Weyse,Undirected,1
+Dodsleie,Hans Christian Arsted,Undirected,1
+Andersen,zausfe,Undirected,1
+Gud,Shakespeare,Undirected,1
+Andersen,Jeannette,Undirected,1
+Jeanette,Søsfrene,Undirected,2
+Ieanette,Jeanette,Undirected,1
+Dands,Ieanette,Undirected,1
+Andersen,Hellegud,Undirected,1
+Drewsen,Tuteins,Undirected,1
+Thorvaldsen,Øe,Undirected,1
+Andersen,Stampe,Undirected,2
+Frederik den Syvende,Grevinde Danner,Undirected,1
+Kong Frederik,Tscherning,Undirected,1
+Frederik den,eg,Undirected,1
+Andersen,Frederik den,Undirected,6
+Christian,Taflets,Undirected,1
+Chr. Winther,Henrik Hertz,Undirected,1
+Frederik den,øg,Undirected,1
+Andersen,Grevinde Danner,Undirected,1
+Andersen,Wiirtzen,Undirected,2
+Andersen,Berling,Undirected,4
+Berling,Wiirtzen,Undirected,1
+Georg Carstensens,H. V. Lange,Undirected,1
+Chr. Schmidts,Lange,Undirected,1
+Chr. Schmidts,Titus,Undirected,1
+H. C. Andersen,Lange,Undirected,1
+Andersen,øgsaa,Undirected,1
+Andersen,Lange,Undirected,13
+Lange,Ole Lukøie,Undirected,2
+Andersen,Ole Lukøie,Undirected,4
+Andersen,flulde,Undirected,2
+Andersen,ban,Undirected,2
+Lange,stulde,Undirected,1
+H. C.,Vaase-Andersen,Undirected,1
+Anna luk,Loria,Undirected,1
+Herr Andersen,Loria,Undirected,1
+Andersen,Loria,Undirected,1
+Loria,Ole,Undirected,1
+Andersen,Kasino,Undirected,1
+Andersen,t Andersens,Undirected,1
+Faber,Recke,Undirected,1
+August Bournonville,Bournonville,Undirected,1
+Bournonville,Kong Frederik,Undirected,1
+Andersen,gjentøg,Undirected,1
+Andersen,Jensers,Undirected,1
+Ingemann,sor Akademiet,Undirected,2
+Andersen,ter,Undirected,2
+Jeannette,Wehse,Undirected,1
+Michael,Michael Drewsen,Undirected,1
+Kong Christian,Michael Drewsen,Undirected,1
+Drewsen,kjær,Undirected,1
+H. C. Andersen,kjær,Undirected,1
+Andersen,Karlen,Undirected,1
+Karl,Karlen,Undirected,1
+Drewsen,H. C. Andersen,Undirected,1
+Andersen,øg Andersen,Undirected,1
+Svend Grundtvig,øg Andersen,Undirected,1
+Blicher,Sten Steensen Blichers,Undirected,1
+Blicher,Drewsen,Undirected,2
+Andersen,Kains,Undirected,1
+Barnerov,Kains,Undirected,1
+Andersen,Tater,Undirected,1
+Andersen,Spaadom,Undirected,1
+Engelstoft,W. Petersen,Undirected,1
+Andersen,Mourier,Undirected,2
+Mourier,Mourier tøg,Undirected,1
+Andersen,Pietro Krohn,Undirected,1
+G. Koch,L. Mourier,Undirected,1
+G. Koch,Urban Hansen,Undirected,1
+A. Boesen,V. Petersen,Undirected,1
+Borch,V. Petersen,Undirected,1
+Borch,Brummer,Undirected,1
+Brummer,L. Biersrennd,Undirected,1
+L. Biersrennd,P. Wich,Undirected,1
+F. Krag,I. C. Dreyer,Undirected,1
+F. Krag,P. Krag,Undirected,1
+I. Haugsted,P. Krag,Undirected,1
+H. T. Helveg,I. Haugsted,Undirected,1
+E. W. Jensen,G. Lokze,Undirected,1
+E. W. Jensen,P. Petersen,Undirected,1
+P. Petersen,R. Peteesen,Undirected,1
+Aladdin,Andersen,Undirected,1
+Aladdin,Gud,Undirected,1
+H. C. Ørsted,Jonas Collin,Undirected,1
+Ole,ghnged,Undirected,1
+Aamand,Andersen,Undirected,1
+sher,smaa,Undirected,1
+Ida,Tuk,Undirected,1
+Andersen,Engelstoft,Undirected,3
+Andersen,Nn,Undirected,1
+Andersen,eide,Undirected,2
+Gud,Jørgensen,Undirected,1
+Gud,Hans Christian Andersen,Undirected,1
+Andersen,Spaastine,Undirected,1
+Andersen,Melchiors,Undirected,3
+Andersen,C. St. A.,Undirected,1
+Bertel Thorvaldsen,Konstner,Undirected,1
+Hambro,Konstner,Undirected,1
+Andersen,jø,Undirected,1
+Andersen,Graaveiret,Undirected,2
+C. St. A. Bille,Vincents,Undirected,1
+Bræstrup,Koch,Undirected,1
+Bang,Bræstrup,Undirected,1
+Bang,Kaalund,Undirected,1
+Chr. Richardt,Kaalund,Undirected,1
+A. Munch,Chr. Richardt,Undirected,2
+A. Munch,Ploug,Undirected,1
+Holst,Ploug,Undirected,1
+Holst,Vincents,Undirected,1
+Bald,Dahls,Undirected,1
+Dahls,Drewsen,Undirected,1
+Bille,H. C. Andersen,Undirected,1
+Siboni,Weyse,Undirected,1
+Emanuel Balling,Siboni,Undirected,1
+Admiral Wulfs,Emanuel Balling,Undirected,1
+Admiral Wulfs,Collinske,Undirected,1
+Charles Dickens,Rimestad,Undirected,1
+,Charles Dickens,Undirected,1
+,Rimestad,Undirected,1
+Andersen,Rimestad,Undirected,1
+Bille,Rimestad,Undirected,1
+A. Munch,Rimestad,Undirected,1
+Andersen,Konferentsraad Werlauss,Undirected,1
+Nielsen,Werlauss,Undirected,1
+Andersen,Prinds Valdemar,Undirected,1
+Andersen,C. Andersen,Undirected,1
+Andersen,stulde,Undirected,1
+Ingemann,stulde,Undirected,1
+Hauch,Ingemann,Undirected,1
+Hauch,Køngen,Undirected,1
+Køngen,Prindsen,Undirected,1
+Andersen,Hns,Undirected,2
+Andersen,Christi,Undirected,1
+Andersen,flige,Undirected,1
+Andersen,as,Undirected,1
+Andersen,Chrisfian,Undirected,1
+Andersen,Ivar,Undirected,2
+Andersen,Lykke,Undirected,1
+Andersen,Jørgensen,Undirected,2
+Lehnsgrevinde,Mollke-Bregentved,Undirected,1
+Lehnsgrevinde,Munch,Undirected,1
+Munch,Reitzel,Undirected,1
+Reitzel,Rode,Undirected,1
+Andersen,Kronprindsen,Undirected,1
+Bille øg Meldahl,Sands,Undirected,1
+Andersen,as Andersen,Undirected,1
+Grimms,as Andersen,Undirected,1
+H. C. Andersen,Oehlenschlager,Undirected,1
+H. C. Ørsted,Oehlenschlager,Undirected,1
+H. C. Andersen,selig,Undirected,1
+Collin,Vermehren,Undirected,1
+. jur. Andræ,Vermehren,Undirected,1
+. jur. Andræ,Etatsraad Meldahl,Undirected,1
+H. C. Andersen,Høivelbaarne,Undirected,1
+Andersen,Collin øg H.,Undirected,1
+Dreyer,Mourier,Undirected,1
+Dreyer,W. Petersen,Undirected,1
+Gud,Mourier,Undirected,1
+Andersen,ten 2eieu J. xril,Undirected,1
+Engelstost,fro,Undirected,1
+Andersen,Justitsråd Mourier,Undirected,1
+Andersen,C. C. Møller,Undirected,1
+C. C. Møller,H. C.,Undirected,1
+Andersen,assang,Undirected,1
+Andersen,sledse,Undirected,1
+Balles,H. C. Andersen,Undirected,1
+Andersen,Balles,Undirected,1
+Andersen,Peder Jensens Stræbe,Undirected,2
+Andersen,Rolighed,Undirected,1
+Melchiors,kjære Andersen,Undirected,1
+Melchiors,nn,Undirected,1
+Andersen,Nikolaj Bøgh,Undirected,1
+Bøgh,Nikolaj Bøgh,Undirected,1
+Bøgh,nn,Undirected,1
+Andersen,Bøgh,Undirected,2
+Hartmann,Hartmanns,Undirected,1
+ester,øg,Undirected,1
+as,øg,Undirected,1
+Melchiors,Ploug,Undirected,1
+Ploug,Vilh.,Undirected,1
+Vilh.,Wiche,Undirected,1
+Christus,Gud,Undirected,2
+,Andersen,Undirected,1
+,Hans Christian Ørsted,Undirected,1
+Thorvaldsen,ban,Undirected,1
+Frøken Bremersks,Jørgen Andersen B.,Undirected,1
+Armods,Gud,Undirected,1
+Gud,Sceptrets,Undirected,1
+Prinds Valdemar,Prindsesse Thyra,Undirected,1
+Fischer,Grev Moltke-Bregentved,Undirected,1
+Fischer,Sir Chr. 8. Wyke,Undirected,1
+Mr. Cramer,Sir Chr. 8. Wyke,Undirected,1
+Assending,Mr. Cramer,Undirected,1
+Assending,Bisfop Engelstoft,Undirected,1
+Henrichsen,Rosenørn,Undirected,1
+Henrichsen,Sten,Undirected,1
+Etatsraad Meldahl,Linde,Undirected,1
+Andersen,Linde,Undirected,1
+Andersen,Hartmann,Undirected,1
+Andersen,Konsten,Undirected,1
+Gud,Konsten,Undirected,1
+Carl Ploug,Gud,Undirected,1
+Roes,Villie,Undirected,1
+Rahbek,bedsf,Undirected,1
+Hans Christian Andersen,lille Maria,Undirected,1
+Ollrislinu,vrsnMN,Undirected,1
+LssIisnIiAvn,nAtor,Undirected,1
+Andersen,c xiiil. Meisling,Undirected,2
+Andersen,Meisling,Undirected,5
+Ingemann,Oehlenschlæger,Undirected,1
+Heiberg,Oehlenschlæger,Undirected,1
+Heiberg,Thiele,Undirected,1
+H. C. ørsted,Thiele,Undirected,1
+H. C. Andersen,filstaae,Undirected,1
+Laurens,Remis,Undirected,1
+Bødtcher,Ludv.,Undirected,1
+Charlens Dickens,Victor Hugo,Undirected,1
+Jenny Lind,Victor Hugo,Undirected,1
+Heinrich Heine,Jenny Lind,Undirected,1
+Geheimeraad Halls,Tankelyn,Undirected,1
+A. Skrike,M. I. Hammerich,Undirected,1
+Barfod,L. I. Bruun,Undirected,1
+F. Liebenberg,L. I. Bruun,Undirected,1
+C. Rothe,F. Liebenberg,Undirected,1
+C. Rothe,I. P. Trap,Undirected,1
+Andersen,Ørsted,Undirected,1
+H. C. Andersen,vexledes,Undirected,1
+Andersen,Vartov,Undirected,1
+H. C.,sidsfe,Undirected,1
+Gud,H. C.,Undirected,1
+Gud,asbrød,Undirected,1
+asbrød,flulde,Undirected,1
+H. C. A.,Jeanette,Undirected,1
+Andersen,Ur.,Undirected,1
+Brandes,Ur.,Undirected,1
+Armand Carrel,H. C. Andersen,Undirected,1
+Prent,løi,Undirected,1
+Andersen,Oehlenschlæger,Undirected,1

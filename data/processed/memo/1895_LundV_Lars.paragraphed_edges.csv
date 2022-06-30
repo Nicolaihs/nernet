@@ -1,0 +1,368 @@
+source,target,type,weight
+dar,slor,Undirected,1
+Lars,dar,Undirected,1
+,Lars,Undirected,47
+Drummond,Lars,Undirected,1
+Lars,lille Lars,Undirected,2
+,lille Lars,Undirected,1
+Lars,Pudel,Undirected,2
+Hektor,Lars,Undirected,7
+Søren Kristensens,lille Lars,Undirected,1
+Hektor,Søren Kristensens,Undirected,1
+Lars,Sky,Undirected,2
+Lars,sif Hjertes,Undirected,1
+Lars,Sten Stensen Blicher,Undirected,1
+Blicher,Sten Stensen Blicher,Undirected,1
+Blicher,Lars,Undirected,2
+Lars,Lille Lars,Undirected,2
+Hau,Lars,Undirected,1
+Lars,Mage fil Raahed,Undirected,1
+Mage fil Raahed,fil,Undirected,1
+Lars,fil,Undirected,1
+Lars,Niels,Undirected,13
+Karl,Niels,Undirected,2
+Hau,Niels,Undirected,1
+Ida Mikkelsen,Mikkelsen,Undirected,2
+L ' hombre,Mikkelsen,Undirected,2
+Ida,Mikkelsen,Undirected,10
+Ida,Lars,Undirected,64
+Kalesche,Lars,Undirected,1
+Lars,Mikkelsen,Undirected,7
+Greven,Lars,Undirected,2
+Boye,Lars,Undirected,23
+Hansen,Karl,Undirected,1
+Hansen,Ida,Undirected,2
+Boye,Ida,Undirected,5
+Boye,Gustav,Undirected,1
+Guds,Lars,Undirected,2
+Lars,Livingstone,Undirected,1
+Boye,Hansen,Undirected,1
+Hansen,Mikkelsen,Undirected,2
+Mikkelsen,Nn,Undirected,1
+,Livingstone,Undirected,1
+Karl,Livingstone,Undirected,1
+Hansen,Lars,Undirected,1
+Karl,Mikkelsen,Undirected,2
+,Boye,Undirected,2
+Boye,Chamouny,Undirected,2
+Boye,Mikkelsen,Undirected,1
+Herskabefs,Lars,Undirected,2
+Guds,Jesus Kristus,Undirected,1
+Jesus,Jesus Kristus,Undirected,1
+Gud,Jesus,Undirected,8
+Boye,Pilatus,Undirected,1
+Gud,Lars,Undirected,18
+Lars marscherede,Mikkelsen,Undirected,1
+Degnens,Ida,Undirected,1
+Ida,Jomfru Ida,Undirected,2
+Christensen,Lars Christensen,Undirected,1
+Christensen,Gud,Undirected,1
+Christensen,Tys,Undirected,1
+Christensen,Lars,Undirected,13
+Lars,Lars Christensen,Undirected,1
+Gud,Lars Christensen,Undirected,1
+Christensen,Lily,Undirected,2
+Lars,Lily,Undirected,13
+,Lily,Undirected,1
+Chrisfensen,Lars,Undirected,1
+Larsen,Lily,Undirected,2
+Christensen,Larsen,Undirected,1
+Lars,Larsen,Undirected,7
+Charles Nielsen,Skjønaand,Undirected,1
+Don Juan,Skjønaand,Undirected,1
+Don Juan,Lars,Undirected,1
+Lars,Nielsen,Undirected,8
+Lars,Stene,Undirected,1
+Larsen,Stene,Undirected,1
+Larsen,hans,Undirected,1
+Nielsen,hans,Undirected,1
+Larsen,Nielsen,Undirected,4
+Kusk Larsen,Lars,Undirected,1
+Gud,Nielsen,Undirected,1
+Gud,Strychnin,Undirected,1
+Jane,Nielsen,Undirected,1
+Fanny,Jane,Undirected,5
+Fanny,Lars,Undirected,3
+Jane,Lars,Undirected,2
+Fanny,Nielsen,Undirected,1
+Larsen,Petersen,Undirected,1
+Lars,Petersen,Undirected,7
+Jydepotte,Petersen,Undirected,1
+Frederik,Lars,Undirected,2
+Fanny,Ida,Undirected,1
+Christensen,L. Christensen,Undirected,1
+Lars,alf,Undirected,2
+Fruens,Lars,Undirected,2
+Farinellis,Raphael,Undirected,1
+Christensen,Farinellis,Undirected,1
+Dahl,Lars,Undirected,38
+Christensen,Dahl,Undirected,6
+Karl,Lars,Undirected,2
+Frederik den,Kristian den,Undirected,1
+Frederik den,Svane,Undirected,1
+Dronning Sofie Magdalene,Svane,Undirected,1
+Boye,Gud,Undirected,3
+Douceur,Lars,Undirected,2
+Dahl,Langfredag,Undirected,1
+Langfredag,Rudolf Frimodt,Undirected,1
+Petrus Holm,Rudolf Frimodt,Undirected,1
+Dahl,kjær,Undirected,1
+Dahl,Marie Brandt,Undirected,1
+Marie Brandt,Rudolf,Undirected,1
+Frimodt,Rudolf,Undirected,1
+Dahl,Theori,Undirected,1
+Praxis,Theori,Undirected,1
+Praxis,Rudolf,Undirected,1
+Frederikke,Lars,Undirected,5
+Dahl,Gud,Undirected,6
+Frederikke,Gud,Undirected,2
+Jesus,Lars,Undirected,3
+Holm,Lars,Undirected,12
+Dahl,Holm,Undirected,18
+Adam,Holm,Undirected,1
+Adam,Kristus,Undirected,1
+Kristus,Petrus,Undirected,1
+Lars,Petrus,Undirected,1
+Holm,Karl,Undirected,1
+Gud,Holm,Undirected,3
+Lars,Rudolf,Undirected,8
+Gud,Ida,Undirected,9
+Ida,Niels“,Undirected,1
+Larsen,Niels“,Undirected,1
+Charles Nielsen,Larsen,Undirected,1
+Charles Nielsen,Gud,Undirected,1
+Gud,Kristus Jesus,Undirected,4
+Holm,Marias,Undirected,1
+Gud,Marias,Undirected,2
+Gabriel,Gud,Undirected,3
+Gabriel,Jesus,Undirected,1
+Gud,Kristus,Undirected,5
+Morten Luther,Satan,Undirected,1
+Krisfus,Satan,Undirected,1
+Holm,Krisfus,Undirected,1
+Holm,Moses,Undirected,1
+Jesus,Moses,Undirected,1
+Brysf,Lars,Undirected,1
+Brysf,Jesus,Undirected,1
+Lars,Pastor Holm,Undirected,1
+Holm,Pastor Holm,Undirected,1
+Frederikke,Holm,Undirected,3
+Frederikke,Jesus,Undirected,1
+Gud,Niels,Undirected,1
+Larsen,Niels,Undirected,1
+Gud,Larsen,Undirected,1
+Ida,Kristus,Undirected,1
+Kristus,Lars,Undirected,1
+Lars,Moer,Undirected,2
+Harve,Lars,Undirected,1
+Drummond,Jesus,Undirected,1
+,Dale,Undirected,1
+Dale,Lars,Undirected,1
+Eva,Lars,Undirected,3
+Petrus,dito,Undirected,2
+Dahl,Petrus,Undirected,1
+Adam,Dahl,Undirected,2
+Frederikke,Mina,Undirected,1
+Adam,Gud,Undirected,2
+Adam,Eva,Undirected,1
+Eva,Gud,Undirected,2
+Dahl,Frederikke,Undirected,6
+Gud,Paulus,Undirected,4
+Gud,Jesus Kristus,Undirected,2
+Krisfus,fasf,Undirected,1
+Lord Radstock,Radstock,Undirected,1
+Adam,absolul,Undirected,1
+David,Jesus,Undirected,1
+Dahl,Hansen,Undirected,1
+Ida Mikkelsen,Lars,Undirected,1
+Ida,Mik,Undirected,1
+Dahl,Rotten,Undirected,1
+Dahl,smaalo,Undirected,1
+Dahl,Mejerske,Undirected,1
+Dahl,Marie,Undirected,1
+,Adam,Undirected,1
+Ida,Sørensen,Undirected,9
+Eva Poulsen,Rudolf,Undirected,1
+Eva Poulsen,Sabel,Undirected,1
+Eva,Sabel,Undirected,1
+Bjørnstjerne Bjørnson,Øhlenschlæger,Undirected,1
+Heiberg,Øhlenschlæger,Undirected,1
+Chrisfian Winther,Heiberg,Undirected,1
+Eva,sif,Undirected,1
+Carlsen,Dahl,Undirected,1
+Bibliothekar Carlsen,Elias,Undirected,1
+Bibliothekar Carlsen,Gud,Undirected,1
+Gud,Hermine,Undirected,1
+Hermine,Xantippe,Undirected,1
+Elias,Xantippe,Undirected,1
+Elias,Hermine,Undirected,3
+Emilie,Hermine,Undirected,1
+Frederikke,Tante Frederikkes,Undirected,1
+Dahl,Sørensen,Undirected,2
+Elias,Sørensen,Undirected,1
+Elias,Poulsen,Undirected,2
+Eva,Poulsen,Undirected,1
+Eva,Frederikke,Undirected,2
+Dahl,Poulsen,Undirected,4
+Christensen,Poulsen,Undirected,2
+Lars,Poulsen,Undirected,5
+,Poulsen,Undirected,1
+Danebrog,Tante Frederikkes,Undirected,1
+Frederikke,Schou,Undirected,2
+Frederikke,Poulsen,Undirected,5
+Christensen,Schou,Undirected,1
+Schou,lille Eva,Undirected,1
+Rudolf,lille Eva,Undirected,2
+Eva,Rudolf,Undirected,9
+,Rudolf,Undirected,2
+Ida,Rudolf,Undirected,2
+Lille Eva,Rudolf,Undirected,1
+Eva,Ida,Undirected,4
+Frederikke,Ida,Undirected,2
+Holm,Rudolf,Undirected,2
+Christensen,Rudolf,Undirected,1
+Christensen,Petersen,Undirected,2
+Petersen,Sønneke,Undirected,3
+Frederik,Petersen,Undirected,2
+Christensen,Frederikke,Undirected,3
+Frederikke,Schyth,Undirected,1
+Dahl,Schyth,Undirected,1
+Dahl Fru Christensen,Frederikke tilbords,Undirected,1
+Christensen Fru Dahl,Dahl Fru Christensen,Undirected,1
+Frederikke,Frøken Frederikke,Undirected,1
+Frederikke,Jesus Kristus,Undirected,1
+Frøken Frederikke,Poulsen,Undirected,1
+Dahl,Jesus,Undirected,1
+Frederikke,Rudolf,Undirected,3
+Dahl,Ida,Undirected,13
+Dahl,Rudolf,Undirected,2
+Rudolf,Sørensen,Undirected,2
+Ida Mikkelsen,Sørensen,Undirected,1
+Ida,Tante Frederikkes,Undirected,1
+Gud,Sørensen,Undirected,1
+Gnds,Gud,Undirected,1
+,Jane,Undirected,1
+Christensen,Raphael,Undirected,1
+Brock,Dahl,Undirected,1
+Heiberg,Oehlenschlæger,Undirected,1
+Heiberg,Hostrup,Undirected,1
+Hostrup,Ploug,Undirected,1
+Nielsen,Ploug,Undirected,1
+Nielsen,Wiehe,Undirected,1
+Christensen,Eva,Undirected,1
+Sebastian Poulsen,lille Eva,Undirected,1
+Frederikke,lille Eva,Undirected,1
+,Ida,Undirected,3
+Ida,Kristi,Undirected,1
+,Pintsedags,Undirected,1
+Holm,Pintsedags,Undirected,1
+Gud,Jomfru Ida,Undirected,1
+Holm,Ida,Undirected,9
+Dahl,Mikkelsen,Undirected,2
+Holm,Piquets,Undirected,1
+Holm,Jensen,Undirected,3
+Hr. Jensen,Jesper,Undirected,1
+Holm,Jesper,Undirected,1
+Dahl,Jesper,Undirected,3
+Jensen,Lars,Undirected,4
+Jensen,Jesper,Undirected,2
+Jesper,Lars,Undirected,1
+Holm,Jesper Jensen,Undirected,2
+Gud,Jesper Jensen,Undirected,1
+Ida,Jesper Jensen,Undirected,1
+Jesper Jensen,Lars,Undirected,2
+Lars,Rubikon,Undirected,2
+Dahl,Jensen,Undirected,1
+Frue,Lars,Undirected,1
+Petersen,Susanne,Undirected,1
+Jesper Jensen,Poulsen,Undirected,2
+Christensen,Holm,Undirected,1
+Ida,fulgle,Undirected,1
+Holm,fulgle,Undirected,1
+Christensen,fulgle,Undirected,1
+Jesper,Jesper Jensen,Undirected,1
+Jensen,Maren,Undirected,3
+Holm,Maren,Undirected,1
+Christensen,Jesper,Undirected,1
+Jensen,Mrs.,Undirected,6
+Jensen,Mrs. Jensen,Undirected,4
+Jensen,Romtoddy,Undirected,1
+Romtoddy,iland,Undirected,1
+Ida,Mrs.,Undirected,1
+Kristus,Paulus,Undirected,1
+Ida,Jensen,Undirected,2
+Gud,Jensen,Undirected,1
+Charles Nielsen,Lars,Undirected,1
+Jesu,Laache,Undirected,2
+Jane,Petersen,Undirected,1
+Fanny,Gud,Undirected,1
+Gud,Luthers,Undirected,1
+Luthers,Rosenius,Undirected,1
+,Rosenius,Undirected,1
+Boye,Holm,Undirected,1
+Boye,Mr. Jones,Undirected,1
+Jesu,Mr. Jones,Undirected,1
+Ida,Jesu,Undirected,1
+Ida Mikkelsen,Lars Kristensen,Undirected,2
+Elias,ifjor,Undirected,1
+Ingemanns,Rudolf,Undirected,2
+Karl,Rudolf,Undirected,1
+Raphael,Schou,Undirected,1
+Jesper Jensen,Mrs.,Undirected,1
+Karl,Karle,Undirected,1
+Holm,Karoline,Undirected,1
+Hansen,Karoline,Undirected,4
+Karoline,Kjøbmand Hansens,Undirected,2
+Karoline,Lars,Undirected,1
+Hektor,Rolf,Undirected,1
+Hektor,lille Lars,Undirected,1
+Jesu,lille Lars,Undirected,1
+Jesu,Lars,Undirected,2
+Jomfru Ida Mikkelsen,Lars,Undirected,1
+Paulus,Petrus,Undirected,1
+Jesu,Paulus,Undirected,1
+Gud,Jesu,Undirected,2
+Hansine,Ørengen,Undirected,1
+Lars,Ørengen,Undirected,1
+Baade Jensen,Mrs. Jensen,Undirected,1
+Faders,Karoline,Undirected,1
+Fader,Karoline,Undirected,1
+Fader,Kjøbmand Hansens,Undirected,1
+Fader,Marie,Undirected,1
+Karoline,Marie,Undirected,1
+Hektor,Marie,Undirected,1
+Dahl,Lars Kristensen,Undirected,1
+Marie,Mikkelsen,Undirected,1
+Gud,Poulsen,Undirected,1
+Frederikke,Jesu,Undirected,1
+Carl Dahl,Gud,Undirected,1
+B,Lars,Undirected,1
+Dahl,Lars Krisfensen,Undirected,1
+Ida,Mrs. Krisfensen,Undirected,1
+Frederikke,Mrs. Krisfensen,Undirected,1
+,Dahl,Undirected,1
+Dahl,Victorias,Undirected,1
+Eva,Marie,Undirected,3
+Marie,Rudolf,Undirected,1
+Lars,Victoria,Undirected,1
+Holm,bies,Undirected,1
+Gud,sif,Undirected,1
+Ida,sif,Undirected,1
+sif,Ørøm,Undirected,1
+Lars,Ørøm,Undirected,1
+Dahl,Victoria,Undirected,1
+Boye,Dahl,Undirected,1
+Lars,Signe,Undirected,1
+,Signe,Undirected,1
+Rudolf,sif,Undirected,1
+,Christensen,Undirected,1
+Jane,Kusk Petersen,Undirected,1
+Eva,Fanny,Undirected,1
+Elias,Frederikke,Undirected,1
+Emilie,Frederikke,Undirected,1
+Hansen,Lykke,Undirected,1
+Hansen,Niels“,Undirected,1
+Forvalter Sørensen,Niels“,Undirected,1
+Dahl,Kusk Larsen,Undirected,1
+Mr. Jensen,Mrs. Maren Jensen,Undirected,1
+Evalds,Wessels,Undirected,1

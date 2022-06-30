@@ -1,0 +1,320 @@
+source,target,type,weight
+Baldur Borgen,Harald Licht,Undirected,3
+Harald Licht,Licht,Undirected,1
+Harald,Harald Licht,Undirected,3
+Baldur,Harald,Undirected,75
+El Ole,Wulff,Undirected,2
+Baldur,Wulff,Undirected,16
+Albu,Baldur,Undirected,2
+Harald,Wulff,Undirected,17
+Licht,lille Rasmussen,Undirected,1
+Hother,Wulff,Undirected,8
+Baldur,Haraids,Undirected,6
+Haraids,Hother,Undirected,1
+Baldur,eins,Undirected,1
+Harald,Hother,Undirected,7
+Britha Licht,Harald Licht,Undirected,1
+Ammonsen,Britha,Undirected,2
+Frk. Mynster,Hr. Ammonsen,Undirected,1
+Frøken Mynster,Hr. Ammonsen,Undirected,1
+Britha,Frk. Mynster,Undirected,6
+Ammonsen,Frk. Mynster,Undirected,1
+Britha,Mynster,Undirected,8
+Britha,Gud,Undirected,5
+Britha Licht,Licht,Undirected,1
+Frøken Licht,Mynster,Undirected,1
+Britha,Otto,Undirected,1
+Frk. Mynster,Harald Licht,Undirected,1
+Baldur,Harald Licht,Undirected,5
+Baldur,Licht,Undirected,18
+Baldur,senior,Undirected,1
+Licht,senior,Undirected,1
+Baldur,Sirtses,Undirected,1
+Schawl,Sirtses,Undirected,1
+Baldur,allenfals,Undirected,6
+Baldur,Hoffmanns,Undirected,2
+Baldur,Britha,Undirected,116
+Baldur,Pjerrot,Undirected,1
+Faders,Pjerrot,Undirected,1
+Clemmensen,Faders,Undirected,1
+Britha,Harald,Undirected,53
+Harald,Licht,Undirected,6
+Harald,Mikkelsen,Undirected,6
+Baldur,Harald strax,Undirected,1
+Astrid,Harald,Undirected,5
+Harald,Mehr,Undirected,1
+Baldur.-,Licht,Undirected,1
+Baldur.-,Britha,Undirected,1
+Britha,Mesters,Undirected,2
+Licht,Mesters,Undirected,1
+Astrid,Baldur,Undirected,16
+Clemmensen,Harald,Undirected,9
+Britha,Licht,Undirected,8
+Licht,paany,Undirected,1
+Astrid,Britha,Undirected,17
+Astrid,Pascha,Undirected,1
+Baldur,Harald —,Undirected,1
+Frøken Gedehams,Harald,Undirected,1
+Harald,Strandgaard,Undirected,1
+Othello,Strandgaard,Undirected,1
+Hakon Jarl,Othello,Undirected,1
+Hakon Jarl,Loria,Undirected,1
+Baldur,Skjæbnens,Undirected,1
+Britha,Skjæbnens,Undirected,1
+Clemmensen,Licht,Undirected,9
+Baldur,Clemmensen,Undirected,12
+Harald,dffentliggj,Undirected,1
+Licht,dffentliggj,Undirected,1
+Filippine,Mikkelsen,Undirected,1
+Harald,Jacob Danefærds,Undirected,1
+Jacob Danefærd,Jacob Danefærds,Undirected,1
+Harald,Jacob Dannefærds,Undirected,2
+Jacob,Jacob Dannefærds,Undirected,1
+Mikkelsen,Sofie,Undirected,1
+H. C. Ørsteds,Harald,Undirected,1
+Jacob,Sofie,Undirected,1
+Erik Menveds,Jacob,Undirected,1
+Erik Menved,Erik Menveds,Undirected,1
+H. C. Østeds,durch,Undirected,1
+H. C. Østeds,Harald,Undirected,1
+Harald,else,Undirected,2
+Britha,Karl,Undirected,1
+Harald,Karl,Undirected,1
+Harald,Karlen,Undirected,2
+Harald,Taa,Undirected,1
+Harald,Karen,Undirected,2
+Karen,Maren,Undirected,1
+Maren,Mette,Undirected,1
+Karen,Mette,Undirected,1
+Frøken Licht,Gud,Undirected,1
+Adelina Patti,Harald,Undirected,1
+Mynster,Pyile,Undirected,2
+Britha,Frøken Licht,Undirected,5
+Harald,Pylle,Undirected,18
+Harald,Pyile,Undirected,1
+Licht,Pyile,Undirected,1
+Harald,Tante Py lies,Undirected,1
+Pyile,Tante Py lies,Undirected,1
+Baldur,Elise Borgen,Undirected,1
+Elise Borgen,Pylle,Undirected,1
+Harald,jus,Undirected,1
+Baldur,jus,Undirected,1
+Baldur,endel,Undirected,1
+Harald,Spinoza,Undirected,1
+Harald,Tyroler Ferdinands,Undirected,1
+Fritz,Harald,Undirected,1
+Britha,Pyile,Undirected,10
+Britha,Pylle,Undirected,19
+Pylle,Tante,Undirected,1
+Hother,Pyile,Undirected,1
+Frøken Licht,Hother,Undirected,1
+Britha,Britha —,Undirected,1
+Britha,allenfals,Undirected,2
+Gud,Tante Pyile,Undirected,1
+Alens,Harald,Undirected,1
+Baldur,Ivar,Undirected,2
+Britha,Knud,Undirected,12
+Haraids,Moder,Undirected,1
+Britha,Karen,Undirected,8
+Karen,Pylle,Undirected,5
+Karen,Tante Pylles,Undirected,1
+Knud Borgens,Tante Pylles,Undirected,1
+Baldur,Pylle,Undirected,23
+Baldur,Karen,Undirected,3
+Baldur,Hother,Undirected,6
+Hother,Pvlle,Undirected,1
+Ivar,capo,Undirected,1
+Svend,capo,Undirected,1
+Knud,Svend,Undirected,4
+Karen,Knud,Undirected,1
+Knud,Pylle,Undirected,3
+Karen,Pyile,Undirected,1
+Britha,Haabets,Undirected,1
+Baldur,Haabets,Undirected,1
+Britha,Svend,Undirected,4
+Baldur,Svend,Undirected,6
+Pylle,Svend,Undirected,1
+Harald,Ivar,Undirected,1
+Haraids,Harald,Undirected,2
+Harald,Svend,Undirected,8
+Hagen,Harald,Undirected,4
+Hother,Svend,Undirected,6
+Harald,Svend —,Undirected,1
+Baldur,Hagen,Undirected,1
+Licht,Svend,Undirected,1
+Harald,Knud,Undirected,5
+Hother,Knud,Undirected,2
+Baldur,Knud,Undirected,12
+Karen,Svend,Undirected,1
+Gud,Karen,Undirected,1
+Britha,Ile,Undirected,1
+Ile,Licht,Undirected,1
+Harald,K. VI,Undirected,1
+Ammonsen,Baldur,Undirected,1
+Pylle,allenfals,Undirected,1
+Baldur,hnn,Undirected,2
+Gud,Pylle,Undirected,4
+Britha,Hr. Schultz,Undirected,2
+Frøken Licht,ieg,Undirected,1
+Caroline,Frøken Licht,Undirected,1
+Baldur,Frøken Schultz,Undirected,1
+Britha Baldur,Frøken Schultz,Undirected,1
+Baldur,Pyile,Undirected,2
+Baldur,Mynster,Undirected,3
+Pauline,Pyile,Undirected,2
+Baldur,Frøken Licht,Undirected,8
+Holberg,Jeronimus,Undirected,1
+Holberg,Pylle,Undirected,1
+Elise,Pyile,Undirected,1
+Astrid,Clemmensen,Undirected,6
+Clemmensen,Frøken Mynster,Undirected,2
+Baldur,Frøken Mynster,Undirected,1
+Astrid,Mynster,Undirected,2
+Baldur,Frk. Mynster,Undirected,1
+Licht,Pylle,Undirected,3
+Astrid,Gud,Undirected,1
+Astrid,Frk. Mynster,Undirected,1
+Astrid,Pylle,Undirected,5
+Fr. VI,Licht,Undirected,1
+Frk. Mynster,Kompagnon,Undirected,1
+Hr. Clemmensen,Pylle,Undirected,1
+Clemmensen,Pylle,Undirected,16
+Britha,Clemmensen,Undirected,22
+Britha,Tante Pylle,Undirected,1
+Licht,Tante Pylle,Undirected,1
+Clemmensen,Frk. Mynster,Undirected,1
+Clemmensen,Mesters,Undirected,1
+Britha,Schultz,Undirected,1
+Harald,Schultz,Undirected,3
+Baldur Borgen,Harald,Undirected,1
+Baldur,Schultz,Undirected,2
+Pyile,Schultz,Undirected,2
+Clemmensen,Harald Licht,Undirected,2
+Licht,Schultz,Undirected,3
+Clemmensen,Schultz,Undirected,3
+Harald Licht,Schultz,Undirected,1
+Harald,allenfals,Undirected,3
+Britha,Britha Licht,Undirected,4
+Britha,Caroline,Undirected,13
+Baldur,Caroline,Undirected,6
+Caroline Schultz,Clemmensen,Undirected,1
+Baldur,Caroline Schultz,Undirected,1
+Caroline,Harald,Undirected,13
+Caroline,Caroline Harald,Undirected,1
+Caroline,taus,Undirected,1
+Baldur,taus,Undirected,1
+Baldur,Hr. Clemmensen,Undirected,1
+Gud,Truelsen,Undirected,1
+Brandt,Caroline Mathilde,Undirected,1
+Britha,Noah,Undirected,1
+Baldur,Noah,Undirected,1
+Caroline,Mikkelsen,Undirected,1
+Caroline,Licht,Undirected,2
+Baldur,Gud,Undirected,3
+Caroline,Gud,Undirected,2
+Gud,Harald,Undirected,3
+Caroline,imidO,Undirected,1
+Harald,lertid,Undirected,1
+Hr. Borgen,Schultz,Undirected,1
+Harald,Hr. Borgen,Undirected,1
+Britha,Frøken Schultz,Undirected,2
+Caroline,Clemmensen,Undirected,1
+Frederik,Gud,Undirected,1
+Baldur,ninger,Undirected,1
+Schultz,s,Undirected,1
+Caroline,s,Undirected,1
+Caroline,Schultz,Undirected,1
+Pyile,Pylle,Undirected,1
+Clemmensen,Pyile,Undirected,2
+Clemmensen,Frøken Licht,Undirected,1
+Frøken Mynster,Kingo,Undirected,1
+Baldur,Tante,Undirected,1
+Britha,Tante,Undirected,1
+Britha,Tantens,Undirected,1
+Baldur,Taa,Undirected,1
+Ivar,Knud,Undirected,1
+Knud.,Pylle,Undirected,1
+Hr. Licht,Pyile,Undirected,1
+Hr. Licht,Karen,Undirected,1
+Hother,Pylle,Undirected,1
+Frøken Mynster,Harald,Undirected,3
+Pylle,per procura Harald Licht,Undirected,1
+Astrid,Knud,Undirected,6
+B ri,Knud,Undirected,1
+B ri,thas,Undirected,1
+Britha,Hother,Undirected,1
+Tante Pylle,allenfals,Undirected,1
+Harald,Tante Pylle,Undirected,1
+Harald,Hr. Clemmensen,Undirected,1
+Hr. Clemmensen,Ivar,Undirected,1
+Coda,Ivar,Undirected,1
+Coda,Harald,Undirected,1
+Frøken Mynster,Pylle,Undirected,2
+Haraids,Knud,Undirected,1
+Baldur,tilbords,Undirected,1
+Britha,Mikkelsen,Undirected,1
+Baldur,durk,Undirected,1
+Pylle,durk,Undirected,1
+Harald,Mynster,Undirected,1
+Clemmensen,mir nichts,Undirected,1
+mir nichts,nichts,Undirected,1
+Clemmensen,Tante Pylle,Undirected,1
+Svend,lille Mortensen,Undirected,1
+Svend,kanskesens,Undirected,1
+Harald,kanskesens,Undirected,1
+Britha,Mortensen,Undirected,4
+Mortensen,Svend,Undirected,1
+Vilhelm,hnn,Undirected,1
+Biitha,Knud,Undirected,1
+Biitha,Pylle,Undirected,1
+Hagebaand,Pylle,Undirected,1
+Pyile,Villie,Undirected,1
+Gud,Villie,Undirected,1
+Gud,Tante Pylle,Undirected,1
+Tante Pylle,hnn,Undirected,1
+Baldur,Hr. Licht,Undirected,1
+Kj edler,Pylle,Undirected,1
+Pylle,hebe,Undirected,1
+Harald,Mortensen,Undirected,1
+Adonis,Baldur,Undirected,1
+Faders,Greve,Undirected,1
+.,Hrr,Undirected,1
+Baldur,Kissejav,Undirected,1
+Kissejav,Pyile,Undirected,1
+Britha,Lanciers,Undirected,1
+Harald,Lanciers,Undirected,1
+Astrid,Rosenborgs,Undirected,2
+Baldur,Lanciers,Undirected,1
+Lanciers,Svend Borgen,Undirected,1
+.Harald,Pylle,Undirected,1
+.Harald,Harald,Undirected,1
+Britha,Wulff,Undirected,5
+Wulff,allenfals,Undirected,1
+Knud,Wulff,Undirected,1
+Harald,Kehraus,Undirected,1
+Kehraus,Pyile,Undirected,1
+Mikkelsen,Wulff,Undirected,1
+Burres,Harald,Undirected,1
+Pylle,Wulff,Undirected,4
+Gud,kjære Licht,Undirected,1
+Pylle,kjære Licht,Undirected,1
+Britha,Niels Juels,Undirected,1
+Frøken Britha,Knud,Undirected,1
+Ligustrilms,Mikkelsen,Undirected,1
+Baldur,lille Hex,Undirected,1
+lille Hex,paany,Undirected,1
+Britha,paany,Undirected,1
+Nehemias,Wellhausen,Undirected,1
+Esra,Wellhausen,Undirected,1
+Esra,Pentateuchens,Undirected,1
+Baldur,Pentateuchens,Undirected,1
+Blochs,Pylle,Undirected,1
+Ivar,Svend,Undirected,1
+Ivar,kjøn,Undirected,1
+Dillmann,kjøn,Undirected,1
+Baldur,Britha Licht,Undirected,1
+Baldur,Kaviar,Undirected,1
+Britha,j,Undirected,1
+Britha,forBrithas,Undirected,1
+Kalot,forBrithas,Undirected,1
+Kalot,Mesters,Undirected,1

@@ -1,0 +1,411 @@
+source,target,type,weight
+Herren,Viggo,Undirected,1
+Betlersken,Frank,Undirected,3
+Gylding,Thorning,Undirected,2
+Frank,Thorning,Undirected,8
+Frank,Gylding,Undirected,13
+Gylding,"Knud,",Undirected,1
+Frøken Tuyon,Thorning,Undirected,3
+Funk,Trumpher,Undirected,1
+Funk,Gylding,Undirected,1
+Gylding,Løvendahl,Undirected,1
+Løvendahl,Thorning,Undirected,10
+Frank,Løvendahl,Undirected,7
+Grev Løvendahl,Thorning,Undirected,1
+Løvendahl,Tuyon,Undirected,2
+Thorning,Tnyon,Undirected,3
+Jeanne,Thorning,Undirected,30
+Jeanne,Tuyon,Undirected,2
+Ravignani,Tuyon,Undirected,1
+Jeanne,Ravignani,Undirected,1
+Jeanne Thornings,Thorning,Undirected,1
+Frank,Jeanne,Undirected,21
+Frank,Varning,Undirected,6
+Frank,Knud Thorning,Undirected,2
+Frank,Frøken Tuyon,Undirected,7
+Frøken Toyon,Viggo,Undirected,1
+Frøken Toyon,Grevens,Undirected,1
+Frøken Tuyon,Grevens,Undirected,1
+Frank,Guds,Undirected,2
+Tuyon,Viggo,Undirected,1
+Frank,lille Viggo,Undirected,1
+Gud,lille Viggo,Undirected,1
+Dristigheo,Kopar,Undirected,1
+Gunder,Madam Jansen,Undirected,5
+Gunder,Varning,Undirected,1
+Gunder,Luur,Undirected,1
+Grønkaals,Luur,Undirected,1
+Frank,Gunder,Undirected,185
+Frank,hvidskede,Undirected,1
+Gunder,Karl faae,Undirected,1
+Frank,allandsens,Undirected,1
+Varning,Viggo,Undirected,2
+Brink,Minni,Undirected,2
+Iosepha,Jeanne,Undirected,3
+Grevens,Iosepha,Undirected,1
+Jeanne,Pleyn,Undirected,1
+Thorning,hiin,Undirected,1
+Thorning,Viggo,Undirected,1
+Jeanne Tuyon,Viggo,Undirected,2
+Jeanne,Viggo,Undirected,4
+Knud,Løvendahl,Undirected,2
+Knud,Thorning,Undirected,1
+Jeanne,Løvendahl,Undirected,7
+Frøken Tuyon,Jeanne,Undirected,1
+Gud,Løvendahl,Undirected,1
+Knud,Viggo,Undirected,2
+Greven,Thorvald,Undirected,1
+Jeanne,Josephe,Undirected,16
+Hersra,Jeanne,Undirected,1
+Iosephe,Jeanne,Undirected,13
+Iosephe,Jkke,Undirected,1
+Løvendahl,Vien,Undirected,1
+Jeanne,Vien,Undirected,1
+Jeanne,Matthæus,Undirected,1
+Frank,Tuyon,Undirected,2
+Iosephe,Løvendahl,Undirected,13
+Thorning,Tuyon,Undirected,1
+Greven,Josephe,Undirected,3
+Gud,Josephe,Undirected,3
+Josephe,Pleyn,Undirected,1
+Iosephe,Josephe,Undirected,4
+Pleyn,ban,Undirected,1
+Greven,ban,Undirected,1
+Greven,Jeanne,Undirected,1
+Alan,Jeanne,Undirected,1
+Ariadnes,Løvendahl,Undirected,1
+Ariadnes,Gud,Undirected,1
+Gud,Jeanne,Undirected,2
+Josephe,Ovcrvei,Undirected,1
+Frank,Viggo,Undirected,18
+Jeanne,Luxus,Undirected,1
+Frank,Tu?,Undirected,1
+Frank,Frank Theodor Jansen,Undirected,1
+Frank Theodor Jansen,Jeanne Tuyon,Undirected,1
+Adelaide,Tuyon,Undirected,1
+Frank faug,Varning,Undirected,1
+Nemesis,Viggo,Undirected,1
+Betlersken,Gunder,Undirected,1
+Frank,Madam Jansen,Undirected,3
+Clleve,Madam Jansen,Undirected,1
+Frank,Gunders Arie,Undirected,1
+Gunder,Tø,Undirected,1
+Gunder,Moer Jansen,Undirected,2
+Frank,Jerres,Undirected,1
+Herren,Jenner,Undirected,1
+Jenner,Steffen,Undirected,1
+Stefen,Vceds,Undirected,1
+Vceds,lille Trine,Undirected,1
+Steffen,lille Trine,Undirected,1
+Itu,Steffen,Undirected,1
+Itu,Stefen,Undirected,1
+Gud,Stefen,Undirected,1
+Gud,Jansen,Undirected,1
+Betlersken,Saagu,Undirected,1
+Jasken,Saagu,Undirected,1
+Fontesant,Gunder,Undirected,8
+Frank,Vetlersken,Undirected,1
+BeUersken,Gunder,Undirected,1
+Frank,bønlig,Undirected,1
+Gunder,fil,Undirected,1
+Gunder,Stephen,Undirected,1
+Gud,Trine Jansen,Undirected,2
+Fontesant,Hex,Undirected,1
+Frank,læns,Undirected,1
+dei,læns,Undirected,1
+Frank,Herhid,Undirected,1
+Trine,Viggo Varning,Undirected,1
+Trine,øg,Undirected,1
+Lille Gunder,Volter,Undirected,1
+Baronessens,Frank,Undirected,2
+Frank,Sophaen,Undirected,2
+Frank,Gud,Undirected,7
+Fontesant,Jenner,Undirected,4
+Fontesant,Jesus,Undirected,2
+Jenner,Toure,Undirected,1
+Jenner,Øe,Undirected,1
+Gud,Jenner,Undirected,2
+Frank,Jenner,Undirected,2
+Frank,Frank Gunder,Undirected,1
+Frank,Frank Penge,Undirected,2
+Gunder,lille Frank,Undirected,1
+Gunder,ban,Undirected,1
+Gunder,eg,Undirected,1
+Frank,Trine Jansen,Undirected,3
+Kjæresten,Trine Jansen,Undirected,1
+Gunder,Trine Jansen,Undirected,4
+Knud Thorning,Trine Jansen,Undirected,1
+Garre,Jmidlertid,Undirected,2
+Garre,Sille,Undirected,5
+Frue,Sille,Undirected,1
+Hviil,Sille,Undirected,1
+Hviil,kanskee,Undirected,1
+Garre,Tater,Undirected,2
+Garre,Margrethe,Undirected,8
+Garre Afskeed,Margrethe ifærd,Undirected,1
+Margrethe,Margrethe ifærd,Undirected,1
+Garre,Gunder,Undirected,1
+Hans,Jeanne,Undirected,1
+Jeanne,Trine Jansen,Undirected,3
+Fontesant,Frank,Undirected,7
+Frank,Trine,Undirected,2
+Jeanne,Jeanne steeg,Undirected,1
+Jeanne,Roes,Undirected,1
+Frank,Roes,Undirected,1
+Gunder,Viggo,Undirected,1
+Trine Jansen,Varning,Undirected,1
+Trine Jansen,Viggo,Undirected,1
+Knud Thorning,Viggo,Undirected,2
+Frank,Josephe,Undirected,2
+Thorning,Trine Jan jen,Undirected,1
+Gylding,Jeanne,Undirected,2
+Brink,Jeanne,Undirected,2
+Brink,Gud,Undirected,1
+Gud,Gylding,Undirected,1
+Gylding,Knud Thorning,Undirected,1
+Brink,Mama,Undirected,1
+Brink,Frøken Tuyon,Undirected,1
+Jacob,Trine,Undirected,7
+Mogens Jansen,lille Trine,Undirected,1
+Trine,askde,Undirected,1
+Gud,askde,Undirected,1
+Gud,Jacob,Undirected,2
+Ane Vævers,Jacob,Undirected,1
+Jacob,Jacob skreed,Undirected,1
+Borgdorf,Jacob,Undirected,1
+Jacob,ester,Undirected,1
+Borgdorf,ester,Undirected,1
+Adelaide,Jacob,Undirected,7
+Adelaide,Fløiels,Undirected,1
+Fløiels,huu,Undirected,1
+Jacob,huu,Undirected,1
+Adelaide,wm smi snq^,Undirected,1
+lni,wm smi snq^,Undirected,1
+Adelaide,Palleseu,Undirected,1
+Schakkerjøder,ifjor,Undirected,1
+Aagerkarle,Schakkerjøder,Undirected,1
+Aagerkarle,Mutter,Undirected,1
+Madam Pallesen,Madammen,Undirected,1
+Madam,Pallesen,Undirected,1
+Adelaide,Pallesen,Undirected,2
+Adelaide,Shavl,Undirected,1
+Shavl,Sirtseskjole,Undirected,1
+Sirtseskjole,jourhavende,Undirected,1
+Jacob,Onsfers,Undirected,1
+Jacob,Pallesen,Undirected,2
+Adelaide,Lio,Undirected,1
+Jacob,Lio,Undirected,1
+Inger,Jacob,Undirected,2
+Gud,Inger,Undirected,3
+Jacob,Mogens,Undirected,1
+Inger,Jakob,Undirected,4
+Jakob,Mogens,Undirected,5
+Gud,Jakob,Undirected,1
+Adelaide,Jakob,Undirected,13
+Adelaide,Gud,Undirected,1
+Jakob,Jakob Lange,Undirected,1
+Jakob,Jonas,Undirected,1
+Graad,Jakob,Undirected,1
+Inger,lille Inger,Undirected,1
+Adelaide,lille Inger,Undirected,1
+Jeanne Tuyon,Trine Jansen,Undirected,1
+Gunder,Janes,Undirected,2
+Gunder,Jane,Undirected,8
+August,Gunder,Undirected,3
+August,Madam Lange,Undirected,1
+August,Madam Jansen,Undirected,2
+Augusf,Madam Jansen,Undirected,1
+Betlerkonen,Karl,Undirected,1
+Jane,Madam,Undirected,1
+Jane,lille Gunder,Undirected,1
+Knud Thorning,Løvendahl,Undirected,1
+Brink,Knud,Undirected,1
+Brink,Tuyon,Undirected,1
+Gylding,Tuyon,Undirected,1
+Thorning,Trine Jansen,Undirected,1
+Gunder,Løvendahl,Undirected,8
+Jane,Løvendahl,Undirected,6
+Jane,lille Løvendahl,Undirected,1
+Grev Løvenoahl,Gunder,Undirected,1
+Jane,Lbvendahl,Undirected,1
+Frank,Jeanne Tuyon,Undirected,2
+Gunder,Hr. Greve,Undirected,1
+Frank,Jane,Undirected,1
+Gunder,Jesus,Undirected,1
+Frank,Greven,Undirected,2
+Frøken Tuyon,Gud,Undirected,1
+Jane,Jeanne Tuyon,Undirected,1
+Liimstangen,Løvendahl,Undirected,1
+Gunder,Jeanne,Undirected,4
+Ipuendahl,Jeanne,Undirected,1
+Gunder,Ipuendahl,Undirected,1
+Adelaide,glands,Undirected,1
+Jeanne,glands,Undirected,1
+Adelaide,Jeanne,Undirected,6
+Adelaide,Thorning,Undirected,1
+Brink,Løvendahl,Undirected,1
+Graad,Jeanne,Undirected,1
+Tuyon,Varning,Undirected,1
+Frank,Laura,Undirected,10
+Frank steeg,Laura,Undirected,1
+Frank Gunder,Gunder,Undirected,1
+Gunder,Sopha,Undirected,1
+Frøken Pleyn,Josephe,Undirected,1
+Josephe,Løvendahl,Undirected,5
+Løvendahl,Sophaen,Undirected,1
+Gud,Gunder,Undirected,7
+Ieg,Trine,Undirected,1
+Ask,Frank,Undirected,1
+Fontesant,Trine Jansen,Undirected,2
+Captain Jenner,Fontesant,Undirected,2
+Fontesant,Trine,Undirected,1
+Fontesant,reifes,Undirected,1
+Frank,reifes,Undirected,1
+Betlerstens,Gunder,Undirected,1
+Gunder,Trine itale,Undirected,1
+Iosephe,hnn,Undirected,1
+Løvendahl,sorn,Undirected,1
+Frøken Tuyon,Josephe,Undirected,1
+Løvendahl,taus,Undirected,1
+Jeanne Tuyon,Varning,Undirected,1
+Jeanne,Varning,Undirected,1
+Jeanne,sor Kristine,Undirected,1
+Julie,sor Kristine,Undirected,1
+Julie,Kristine,Undirected,2
+Jeanne,Kristine,Undirected,2
+Jeanne,Julie,Undirected,4
+Jeanne,Jeanne^,Undirected,1
+Frøken Tuyon,Pleyn,Undirected,1
+Jeanne,Mama,Undirected,1
+Etatsraadinde Varning,Jeanne,Undirected,1
+Grev Løvendahl,Løvendahl,Undirected,1
+Jeanne,paany,Undirected,1
+Grev Løvendahl,Jeanne,Undirected,1
+Alexanders,Jeanne,Undirected,1
+Gunder,Kristine Lange,Undirected,1
+Bang,Kristine,Undirected,2
+Bang,Gud,Undirected,1
+Kristine,lille Kristine,Undirected,1
+Froken Tuyon,Kristine,Undirected,1
+Gunder,das,Undirected,1
+Eierinden,Gunder,Undirected,1
+Gunder,Jgrunden,Undirected,1
+Borgdorf,Naades,Undirected,1
+Adelaide,Borgdorf,Undirected,1
+Greven,Løvendahl,Undirected,2
+Greven,Gunder,Undirected,1
+Gunder,freidig,Undirected,1
+Jane,Knnd Thorning,Undirected,1
+Knnd Thorning,Løvendahl,Undirected,1
+Greven,Iosephe,Undirected,3
+Gunder,Iosephe,Undirected,1
+Gunder,Jeanne Tuyon,Undirected,1
+Gunder,Thorning,Undirected,5
+Baronesse Tuyons,Thorning,Undirected,1
+Gunder taug,Thorning,Undirected,1
+Gunder,Gunder taug,Undirected,1
+Gunder,Herr Thorning,Undirected,1
+Frøken Tuyon,Herr Thorning,Undirected,1
+Baronessens,Thorning,Undirected,1
+Greven,Thorning,Undirected,1
+Greven,Varning,Undirected,1
+Thorning,Varning,Undirected,1
+Baronesses,Frank,Undirected,1
+Hcefte,Varning,Undirected,1
+Frank,Hcefte,Undirected,1
+Fnnk,Laura,Undirected,1
+Fnnk,Frank,Undirected,1
+Frank,Viggo Varning,Undirected,2
+Laura,Viggo,Undirected,1
+Gunder,Knud Thorning,Undirected,1
+Frank,Funk,Undirected,4
+Funk,Viggo,Undirected,2
+Frank,priisgiven,Undirected,1
+Greven,Jomfru Vilding,Undirected,1
+Bauta,Roes,Undirected,1
+Andrea,Viggo,Undirected,1
+Greven,Skjelmsmester,Undirected,1
+Iosephe,sonl,Undirected,1
+Andrea,Iosephe,Undirected,4
+Andrea,Josephe,Undirected,4
+Grev Løvendahl,Josephe,Undirected,1
+Løvendahl,Pleyn,Undirected,1
+Andrea,Thee,Undirected,2
+Andrea,Hr. Greve,Undirected,1
+Iosephe,gracieus,Undirected,1
+Frøken Iosephes,Grev Løvendahl,Undirected,1
+Andrea,Pleyn,Undirected,2
+Andrea,Greven,Undirected,2
+Froken Josephe,Grev Løvendahl,Undirected,1
+Frank,Grev Løvendahl,Undirected,1
+Jesus,Jomfru Didriksen,Undirected,1
+Jeanne Tuyon,Kristine,Undirected,1
+Søren Kjerkegaard,Thorning,Undirected,1
+Eden,Jeanne,Undirected,1
+Cistrnmci oci Sommer,Jeanne,Undirected,1
+August,Thorning,Undirected,1
+August,Christines,Undirected,1
+Christines,Julie,Undirected,1
+Ore,Thorning,Undirected,1
+Flasfen,Gunder,Undirected,1
+Frank,lille Gunder,Undirected,1
+Grev Lødendahl,Gunder,Undirected,1
+Frank,Grev Lødendahl,Undirected,1
+Baronesse Tuyon,Capitain Jenner,Undirected,1
+Frank,Hersk,Undirected,1
+Grev Løvendahl,Gunder,Undirected,1
+Gunder,Jæg,Undirected,1
+Frank,Jæg,Undirected,1
+Gunder,Riis,Undirected,1
+Frank steeg,Gunder,Undirected,1
+Gunder,Ingres,Undirected,1
+Frank Tateren,Gunder,Undirected,2
+Gunder,Steile,Undirected,1
+Augusf,Gunder,Undirected,1
+Augusf,Luur,Undirected,1
+Ore,tys,Undirected,1
+Augusf,Fontesant,Undirected,1
+Fontesant,Thorning,Undirected,4
+Fontesant,Madame Jansen,Undirected,1
+Madame Jansen,Thorning,Undirected,1
+Fontesant,Gud,Undirected,1
+Hr. Capitain,Villie,Undirected,1
+Frank,Hr. Capitain,Undirected,1
+Thorning,Trine,Undirected,1
+Hr. Jcnncrs,Jenner,Undirected,1
+Fatter,Jenner,Undirected,1
+August,Frank,Undirected,1
+August,Jenner,Undirected,1
+Tesfamente,Tuyon,Undirected,1
+Gud,Hr. Thorning,Undirected,1
+Gunder,Hundeklippercn,Undirected,1
+Frank,Frank hiin,Undirected,1
+Frank hiin,Viggo Varning,Undirected,1
+Laura,Priis,Undirected,1
+Gylding,Laura,Undirected,5
+Funk,Laura,Undirected,1
+Frank roe,Gunder,Undirected,1
+Frank,Frank roe,Undirected,1
+Gunder,iland,Undirected,1
+Frank sfar,Gunder,Undirected,1
+Gunder,roe,Undirected,1
+Gunder,Janok,Undirected,1
+Iosephe,Saffians,Undirected,1
+Iosephe,Kaminildcn,Undirected,1
+Alexander,Kaminildcn,Undirected,1
+Løvendahl,beoste,Undirected,1
+Josephe,Løvendalhs,Undirected,1
+Alexander,Løvendalhs,Undirected,1
+Gunder,Josephe,Undirected,1
+Fontesant onsfer,Gunder,Undirected,1
+Frank,Priis,Undirected,2
+Frank,Ore,Undirected,1
+Frank,h?,Undirected,1
+h?,m,Undirected,1
+Frank,Tøndcn,Undirected,1
+Frank,Gunder^Frank,Undirected,2
+Frank,Maanelys,Undirected,1
+Grev Pleyn,Iosephe,Undirected,1
+Iaffes,hvidskede,Undirected,1
+Alexander,Iosephe,Undirected,1
+Fontesant,Josephe,Undirected,1

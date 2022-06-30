@@ -1,0 +1,342 @@
+source,target,type,weight
+Frida,Madam Smith,Undirected,5
+Frida,lille Peter,Undirected,1
+Madam Smith,taus,Undirected,1
+Anders Stefensen,Søren,Undirected,1
+Frida,Søren,Undirected,1
+Ben Palle Baadsmand,Chrislian Bek,Undirected,1
+Chrislian,Stefensen,Undirected,1
+Christian,Palle Baadsmand,Undirected,2
+Christian,Stefensen,Undirected,1
+Christian,Gud,Undirected,6
+Frida,Villiam,Undirected,9
+Frida,elffes,Undirected,1
+Chrislian,Frida,Undirected,4
+Frida,Palle,Undirected,3
+Anders Stefensen,Madam Smith,Undirected,1
+Anders,Anders Stefensen,Undirected,1
+Christian,Frida,Undirected,19
+Christian,Villiam Falz,Undirected,4
+Frida,Villiam Falz,Undirected,4
+Frida,Jb,Undirected,2
+Jb,Villiam,Undirected,1
+Christian,Peter,Undirected,1
+Søderborg,reisfe,Undirected,1
+Ludvig Smith,Søderborg,Undirected,1
+Heinrich Ærenskjold,fransf Adelsmand,Undirected,1
+Søderborg,fransf Adelsmand,Undirected,1
+Greven,fil,Undirected,1
+Amanda,Søderborg,Undirected,2
+Amanda,Heinrich,Undirected,9
+Amanda,Greve,Undirected,1
+Greve,Heinrich,Undirected,1
+Dam,Smith,Undirected,1
+Christian Bek,Palle Baadsmand,Undirected,1
+Chrislian,Palle Baadsmand,Undirected,1
+Dam,Jansen,Undirected,1
+Madam Smith,Nanna,Undirected,5
+Frida,tolle,Undirected,1
+Olivia,tolle,Undirected,1
+Olivia,Onkels,Undirected,2
+Christian,Villiam,Undirected,6
+Chrisfian,Frida,Undirected,3
+Albert Jul,Dam,Undirected,2
+Dam,Herr Dam,Undirected,2
+Alice,Herr Dam,Undirected,2
+Alice,Alice Dam,Undirected,2
+Albert Jul,Alice Dam,Undirected,1
+Døttre,Madam Smith,Undirected,1
+Frida,Tosse-Malenes,Undirected,1
+Tosse-Malenes,tysf,Undirected,1
+Palle Baadsmand,tysf,Undirected,1
+Nanna,Palle Baadsmand,Undirected,1
+Christian,Madam Smith,Undirected,1
+Christian,Palle,Undirected,11
+Dam,Frida,Undirected,1
+Faders,Magnus,Undirected,1
+Robert,Schalten,Undirected,1
+Robert,Øreng,Undirected,1
+Anny,Øreng,Undirected,1
+Anny,Jane,Undirected,3
+Hamren,Jane,Undirected,2
+Jane,Robert,Undirected,1
+Frida,Papa,Undirected,1
+Herr Falz,Ib,Undirected,1
+Christian,Ib,Undirected,1
+Ib,Villiam,Undirected,2
+Alice,Dam,Undirected,1
+Karethen,iland,Undirected,1
+Karethen,Twill,Undirected,1
+Bachus,Venus,Undirected,1
+Venus,Villiam,Undirected,1
+Gud,Jomfru Smith,Undirected,1
+Christian,Jomfru Smith,Undirected,1
+Rosenmund,Villiam,Undirected,1
+Elsfede,Frida,Undirected,1
+Laura,Villiam,Undirected,4
+barsf,hans Uhr,Undirected,1
+Palle,Palle Baadsmand,Undirected,1
+Dands,Palle,Undirected,1
+Palle,Villiam Falz,Undirected,1
+Marie,NielssJul,Undirected,1
+Marie,slilles,Undirected,1
+ieg,slilles,Undirected,1
+Marie,ieg,Undirected,1
+Marie,taug,Undirected,1
+Christian,taug,Undirected,1
+Marie,Palle,Undirected,1
+Chrisfian,Dam,Undirected,1
+Christian,Herr Dam,Undirected,2
+Neptun,Palle,Undirected,2
+Christian,Neptun,Undirected,1
+Christian,mørknes,Undirected,1
+Frida,Nanna,Undirected,38
+Christian,Nanna,Undirected,6
+Dam,r,Undirected,1
+j,Øe,Undirected,1
+askegraa,Øe,Undirected,1
+Frida Smith,lidf,Undirected,1
+Frida,Niels Jensen,Undirected,2
+Dandsebod,Frida,Undirected,1
+Frida,Laura,Undirected,1
+Dam,Frida Smith,Undirected,1
+Frida,Frida Smith,Undirected,1
+Frida,Herr Dam,Undirected,2
+Chrisfian,Støi,Undirected,1
+Gud,Palle,Undirected,2
+Frida,Gud,Undirected,2
+Dam,Madam Smith,Undirected,1
+Amanda,Ærenskjolds,Undirected,1
+Ærensijold,Ærenskjolds,Undirected,1
+Heinrich,Ærensijold,Undirected,1
+Amanda,Greven,Undirected,1
+Amanda,Christi,Undirected,1
+Heinrich,Ærenskjold,Undirected,1
+Amanda,Lise,Undirected,1
+Heinrich,Lise,Undirected,1
+Alice,Heinrich,Undirected,1
+Herr Beks,Jomfru Smith,Undirected,1
+Søderborg,Villiam Falz,Undirected,1
+Dam,Ludvig Smith,Undirected,1
+Alice,Frida,Undirected,3
+Chrisfian,Palle,Undirected,2
+Bek,Christian,Undirected,1
+Elsfov,Frida,Undirected,1
+Søren,Villiam,Undirected,1
+Nanna,Olsen,Undirected,1
+Frida,Pantelaa,Undirected,1
+Ole,sor,Undirected,1
+Alice,sor,Undirected,1
+Dam,Sømanden,Undirected,1
+Chrislian,Christian,Undirected,2
+Alice,Nanna,Undirected,24
+Frida,Jomfru Smith,Undirected,1
+Alice Dam,Amalie^,Undirected,1
+Amalie,Dam,Undirected,1
+Gud,Nanna,Undirected,5
+Alice,Magnus,Undirected,2
+Magnus,Villiam,Undirected,9
+Dam,Villiam,Undirected,2
+Laura,Magnus,Undirected,1
+Laura,Schuster,Undirected,1
+Schuster,es,Undirected,1
+Villiam,es,Undirected,1
+Didrichsen,Villiam,Undirected,1
+Villiam,skjøn,Undirected,1
+Laura,skjøn,Undirected,1
+Bravo,Laura,Undirected,1
+Alice,Villiam,Undirected,35
+Frida,elffe,Undirected,1
+Christian,alf,Undirected,1
+Dam,sfummer,Undirected,1
+Alice Dam,Villiam Falz,Undirected,2
+Herr Dam,Villiam,Undirected,2
+Villiam,stulde,Undirected,1
+Alice,Laura,Undirected,1
+Nanna,Villiam,Undirected,3
+Albert Jul,Frida,Undirected,2
+Albert,Alice,Undirected,20
+Albert,Magnus,Undirected,2
+Alice,Brysf,Undirected,2
+Albert Jul,Nei,Undirected,1
+Albert Jul,Magnus Dam,Undirected,1
+Villiam,ester,Undirected,1
+Herr Falz,Ivar,Undirected,1
+Albert,Lise,Undirected,1
+Albert,Magnus Dam,Undirected,1
+Madam Smith,Roes,Undirected,1
+Albert,Madam,Undirected,1
+Albert Jul,Magnus,Undirected,1
+Karl,Magnus,Undirected,1
+Karl,Karlen,Undirected,1
+Karlen,Magnus,Undirected,1
+Magnus,Nanna,Undirected,3
+,Magnus,Undirected,3
+,Albert,Undirected,1
+Albert Jul,Hnn,Undirected,1
+Albert Jul,Alice,Undirected,3
+Hnn,Nanna,Undirected,1
+Albert Jul,Nanna,Undirected,4
+Chrislian Bek,Jomfru,Undirected,1
+Nanna,Palle,Undirected,1
+Magnus,Nidding,Undirected,1
+Albert,Frida,Undirected,4
+Ivan,Villiam Falz,Undirected,1
+Dam,Villiam Falz,Undirected,2
+,Nanna,Undirected,1
+Grev Æhrenskjolds,Magnus,Undirected,1
+LEHrenskjold,Magnus,Undirected,1
+Grev Æhrenskjold,Magnus,Undirected,1
+Magnus,frods,Undirected,1
+Jerome,Steensliber,Undirected,1
+Jerome,Magnus høit,Undirected,1
+Jerome,Magnns,Undirected,1
+Magnns,Steensliberen,Undirected,1
+Albert Jul,hans Nanna,Undirected,1
+Nanna fluide,hans Nanna,Undirected,1
+Albert,Nanna,Undirected,11
+Frida,slrax,Undirected,1
+Frida,Nanna Smith,Undirected,1
+Albert,Ivan,Undirected,3
+Dam,Gud sfe,Undirected,1
+Herr Dam,Nanna,Undirected,1
+Nanna,Nanna Smith,Undirected,1
+Alice,Mathiesen,Undirected,1
+Mathiesen,Villiam Falz,Undirected,1
+Laura,Villiam Falz,Undirected,1
+Laura,elffe,Undirected,1
+Alice Angelika Dam,Villiam Falz,Undirected,1
+Herr Falz,Villiam,Undirected,1
+Ivan,Villiam,Undirected,2
+Herr Gøtze,Villiam Falz,Undirected,1
+Alice,Ivan,Undirected,7
+Alice,Valsen,Undirected,1
+Valsen,ban,Undirected,1
+Nanna,Søster,Undirected,1
+Albert,hnn,Undirected,1
+Albert,Herr Juel,Undirected,1
+Albert,Villiam,Undirected,3
+Juel,Villiam,Undirected,1
+Lorden,Villiam haanlig,Undirected,1
+Albert,Villiam haanlig,Undirected,1
+Hnn,Villiam,Undirected,1
+Ivan,ester,Undirected,1
+Alice,Gud,Undirected,1
+Julie,Romeo,Undirected,1
+Alice,Richardt,Undirected,1
+Richardt,Villiam,Undirected,1
+Karlen,Villiam,Undirected,1
+Ivan,Mutter,Undirected,1
+Madam Kloss,Rigolette,Undirected,2
+Jokumsens,Madam Kloss,Undirected,1
+Jokumsen,Madam Kloss,Undirected,1
+Herr Jokumsens,Madam Kloss,Undirected,1
+Herr Jokumsens,Rigolette,Undirected,1
+Herr Jokumsen,Rigolette,Undirected,1
+Jokumsen,Rigolette,Undirected,4
+Rigolette,Spyrgsmaal,Undirected,1
+Rigolette,Romeo elfler,Undirected,1
+Julie,Romeo elfler,Undirected,1
+Axel sin Valborg,Julie,Undirected,1
+Axel sin Valborg,Rigolette,Undirected,1
+Jokumsen,sra Herr Dam,Undirected,1
+Herr Dam,Herr Jansen,Undirected,1
+Jansen,Konrad,Undirected,1
+ester,Æhrenskjold,Undirected,1
+Søderborg,Æhrenskjold,Undirected,1
+Søderborg,ester Grossererens,Undirected,1
+dg,ester Grossererens,Undirected,1
+Grev ÆhrenKjold,Jean,Undirected,1
+Heinrich ÆhrenKjold,Æhrenskjold,Undirected,1
+Grev Æhrenskjold,Jean Baptifte,Undirected,1
+Amanda,Heinrich Æhrensljold,Undirected,1
+Amanda,Moses,Undirected,4
+Jean,u NorZue,Undirected,1
+Ludvig Dam,Ludvig Smith,Undirected,1
+Frida Smith,Ludvig Smith,Undirected,1
+Amanda,Elsfer,Undirected,1
+Elsfer,Greve,Undirected,1
+Mairen,jæg,Undirected,2
+jæg,tillivs,Undirected,2
+Amanda,jæg,Undirected,1
+Amanda,Dam,Undirected,1
+Nanna knnde,elsiede,Undirected,1
+Ivan,Seir,Undirected,1
+Alice,Johan,Undirected,1
+Ivan,Ivan Alice,Undirected,1
+Ivan,Johan,Undirected,1
+Frida,Ivan,Undirected,1
+Graad,Nanna,Undirected,1
+Albert ftil,Ivan,Undirected,1
+Albert ftil,Nanna,Undirected,1
+Ivan,Nanna,Undirected,1
+Haabets-,Nanna,Undirected,1
+Frida,Knud,Undirected,8
+Knud,Nanna,Undirected,3
+Albert Juel,Villiam,Undirected,1
+Albert,Niels Jensen,Undirected,1
+Magnus,gry,Undirected,1
+Christian,Magnus,Undirected,3
+Palle Baadsmand,harr,Undirected,1
+Christian,harr,Undirected,1
+Palle,dc,Undirected,1
+Magnus,Palle,Undirected,1
+Christian Bek,Palle,Undirected,1
+Gud,Magnus,Undirected,1
+Jomfru Smith,Nanna,Undirected,1
+Hillemæn,Jomfru Smith,Undirected,1
+Frida,Herr Kemf,Undirected,3
+Herr Kemf,Nanna,Undirected,2
+Christian Troskab,Knud,Undirected,1
+Christian,Knud,Undirected,1
+Mads,lille Nanna,Undirected,1
+Gud,Moder,Undirected,1
+ban,næsfen,Undirected,1
+Mustafas,Nanna,Undirected,2
+Albert,offre,Undirected,1
+Albert,Elsfovens,Undirected,1
+Amanda,Æhrenfljold,Undirected,1
+Amanda,Been,Undirected,1
+Frida Smith,Moses,Undirected,4
+Moses,son,Undirected,1
+Dam,Moses,Undirected,3
+Smith,grant,Undirected,1
+Jonas,Smith,Undirected,1
+Dam,Jonas,Undirected,1
+Anker,Palle,Undirected,1
+Palle,def,Undirected,1
+Christian,Christian Bek,Undirected,1
+Christian,Hagen,Undirected,1
+Bertha,Hagen,Undirected,1
+Bertha,Frida,Undirected,1
+Chrislian,kjær,Undirected,1
+Frida,Knud Benkzen,Undirected,1
+Dandsen,Knud,Undirected,1
+Laura,Peer,Undirected,1
+Knud,dir,Undirected,1
+Niels Jensen,henhe,Undirected,1
+Laura,henhe,Undirected,1
+Nanna,Steen,Undirected,1
+Knud,Vxen,Undirected,1
+Jkle,Knud,Undirected,1
+Knud,Lce,Undirected,1
+Nanna,er Bentsen,Undirected,1
+Nanna,Øie,Undirected,1
+Frida,Øie,Undirected,1
+Frida Smith,Madonna,Undirected,1
+Jomfru Smith,Knud,Undirected,1
+Knud,Moses,Undirected,5
+Knud,Nanna forrest,Undirected,1
+Moses,endel,Undirected,1
+Arbeiderens,endel,Undirected,1
+Arbeiderens,Moses,Undirected,1
+Dam,Knud,Undirected,1
+Moses,Nanna,Undirected,2
+Moses,Søderborg,Undirected,1
+Adam,Moses,Undirected,1
+Frida Smith,Ib,Undirected,1
+Ib,Moses,Undirected,1
+Madam Bentsen,Nanna,Undirected,1
+Madam Bentsen,Vartov,Undirected,1
+Albert Jul,Madam Svendsen,Undirected,1
+Albert Jul,Gud,Undirected,1

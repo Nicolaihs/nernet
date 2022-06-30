@@ -1,0 +1,40 @@
+source,target,type,weight
+Gude,Paul,Undirected,22
+Gude,Holm,Undirected,7
+Holm,Paul,Undirected,15
+Holm,Paul Linde,Undirected,2
+Paul,å Porta,Undirected,1
+Holm,Hr. Linde,Undirected,1
+Elisa,Holm,Undirected,1
+Elisa,Paul,Undirected,1
+Gude,Paul Linde,Undirected,1
+Dr. Bull,Paul Linde,Undirected,1
+Bull,Dr. Bull,Undirected,1
+Fru Holm,Paul,Undirected,1
+Hik,Paul,Undirected,1
+Hik,ken,Undirected,1
+Baudelaire,Paul,Undirected,1
+Gude,Paul-,Undirected,1
+Paul,Vaas,Undirected,1
+Gude,iland,Undirected,1
+Elisa,Gude,Undirected,1
+Gude,Karl,Undirected,1
+Gud,Paul,Undirected,2
+Hr. Brun,Linde,Undirected,1
+Hr. Brun,Paul,Undirected,2
+Gud,Gude,Undirected,4
+Brun,Paul,Undirected,5
+Bull,Holm,Undirected,1
+Bull,Paul,Undirected,2
+Holm,Linde,Undirected,1
+Brun,Gude,Undirected,4
+Kurtise,Paul,Undirected,1
+Gud,Henrik,Undirected,1
+Gude,Henrik,Undirected,1
+Bull,Frue,Undirected,1
+Brun,Holm,Undirected,2
+Karl,Paul,Undirected,1
+Brun,Karl,Undirected,1
+Gude,Maanelys,Undirected,1
+Graad,Gude,Undirected,1
+Brun,Graad,Undirected,1

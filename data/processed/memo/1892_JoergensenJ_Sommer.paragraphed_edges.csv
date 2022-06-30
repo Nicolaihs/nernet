@@ -1,0 +1,47 @@
+source,target,type,weight
+Alberts,Oluf,Undirected,1
+Albert,Oluf,Undirected,44
+Albert,Lene,Undirected,1
+Albert en,Lene,Undirected,1
+Albert en,Oluf:,Undirected,1
+Albert,Odyssevs,Undirected,1
+Boccaccio,Venus,Undirected,1
+Boccaccio,Goethe,Undirected,1
+Oluf,Pjalter,Undirected,1
+Albert,Nik,Undirected,1
+Lene,Oluf,Undirected,1
+Albert,Goethe,Undirected,1
+Goethe,Mignons,Undirected,1
+Mignons,Werther,Undirected,1
+Lotte,Werther,Undirected,1
+Albert,Lotte,Undirected,1
+Crugantinos,Mefistos,Undirected,1
+Mefistos,Psykes,Undirected,1
+Goethe,Oluf,Undirected,1
+Goethe,Ossian,Undirected,1
+Friederike,Goethe,Undirected,1
+Albert,Lillis,Undirected,1
+Goethe,Heine,Undirected,1
+Don Juan,Haidee,Undirected,1
+Haidee,Homer,Undirected,1
+Homer,Vergil,Undirected,1
+Baudelaire,Paludan-Mullers,Undirected,1
+Oluf,Oluf rislede Vandet,Undirected,2
+Maanehaves,Oluf,Undirected,1
+Diana,Oluf,Undirected,1
+Diana,Madonna Hekate,Undirected,1
+Artemis,Oluf,Undirected,1
+Adonis,Artemis,Undirected,1
+Oluf,orn,Undirected,1
+Albert,orn,Undirected,1
+Albert,Frøken Laura,Undirected,1
+Agnete,Albert,Undirected,1
+Albert,Laura,Undirected,2
+Laura,Oluf,Undirected,2
+Kythere,Oluf,Undirected,1
+Homer,Lotos,Undirected,1
+Oluf,Oluf fornam,Undirected,1
+Darwin,Darwins,Undirected,1
+Oluf,maanelys,Undirected,1
+Darwin,Oluf,Undirected,1
+Fredriksberg,Oluf,Undirected,1

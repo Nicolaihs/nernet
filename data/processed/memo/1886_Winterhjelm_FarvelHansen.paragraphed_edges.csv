@@ -1,0 +1,269 @@
+source,target,type,weight
+Amanda Andersen,Anders Hansen,Undirected,1
+Amanda Andersen,Jens Michelsen,Undirected,1
+Jomfru Amanda,Michelsen,Undirected,1
+Hans,Hansen,Undirected,1
+Hansen,Michelsen,Undirected,44
+Amanda,Hansen,Undirected,29
+Michelsen,Villars,Undirected,1
+Alexander,Villars,Undirected,1
+Alexander,Cæsar,Undirected,1
+Cæsar,Hansen,Undirected,1
+Cæsar,Hans Henrik Hansen,Undirected,1
+Amanda,Michelsen,Undirected,9
+Hansen,Petersen,Undirected,2
+Hansen,Thorkelsens,Undirected,1
+Thorkelsen,Thorkelsens,Undirected,1
+Hansen,Thorkelsen,Undirected,1
+Hansen,Lunnevig,Undirected,1
+Flock,Michelsen,Undirected,9
+Flock,Gud,Undirected,3
+Gud,Hansen,Undirected,4
+Flock,Smed Gravesen,Undirected,1
+Flock,Poulsen,Undirected,5
+Flock,Wagel,Undirected,2
+Poulsen,Wosemose,Undirected,1
+Frøken Holmsen,Skaal,Undirected,1
+Frøken Holmsen,Michelsen,Undirected,8
+Michelsen,Poulsen,Undirected,20
+Brun,Michelsen,Undirected,1
+Honneurs,Michelsen,Undirected,1
+Honneurs,Poulsen,Undirected,1
+Frøken Holmsen,Poulsen,Undirected,2
+Herr Michelsen,Michelsen,Undirected,1
+Hansen,Poulsen,Undirected,3
+Hansen,Madam Andersen,Undirected,6
+Hansen,Jomfru Pettersen,Undirected,1
+Jomfru Pettersen,Madam Sakwitz,Undirected,1
+Hansen,salig Andersen,Undirected,1
+Madam Andersen,g,Undirected,1
+Gud,g,Undirected,1
+Gud,Madam,Undirected,1
+Andersens,Madam,Undirected,1
+Andersens,Madam Andersen,Undirected,1
+Amanda,Madam Andersen,Undirected,6
+Andersens,Hansen,Undirected,1
+Andersens,Kittelsen,Undirected,1
+Hansen,Kittelsen,Undirected,10
+Andersen,Madam Andersen,Undirected,2
+Kittelsen,Madam Andersen,Undirected,2
+Kitteisens,Madam Andersen,Undirected,1
+Amanda,Kittelsen,Undirected,4
+Kittelsen,Mad,Undirected,2
+Hansen,Mad,Undirected,1
+. Andersen,Mad,Undirected,1
+. Andersen,Gud,Undirected,1
+Hansen,Olaves,Undirected,1
+Andersen,Olaves,Undirected,1
+Hansen,Pettersen,Undirected,1
+Madam,Pettersen,Undirected,1
+Andersen,Madam,Undirected,1
+Aurora,Hansen,Undirected,1
+Flockske,Petersen,Undirected,1
+Flock,Flockske,Undirected,1
+Flock,Laura,Undirected,2
+Constance Poulsen,Laura,Undirected,1
+Alma,Laura,Undirected,1
+Laura,Laura Flock,Undirected,2
+Frøken Bugge,Laura,Undirected,1
+Frøken Bugge,Frøken Holmsen,Undirected,2
+Constance,Michelsen,Undirected,19
+Alma,Constance,Undirected,2
+Anton,Pappas,Undirected,1
+Michelsen,Pappas,Undirected,1
+Alma,Michelsen,Undirected,2
+Flochs,Michelsen,Undirected,1
+Bugge,Frøken Holmsen,Undirected,1
+Bugge,Svendsen,Undirected,1
+Poulsen,Svendsen,Undirected,1
+Frk. Svendsen,Gud,Undirected,1
+Frk. Svendsen,Frøken Holmsen,Undirected,1
+Frk. Bugge,Frk. Svendsen,Undirected,1
+Alma,Hinds,Undirected,1
+Pieid,Poulsen,Undirected,1
+Adam,Michelsen,Undirected,1
+Homers,Solons,Undirected,1
+Michelsen,Solons,Undirected,1
+Michelsen,Warberg,Undirected,9
+Michelsen,Ritsch,Undirected,1
+Ritsch,ratsch,Undirected,1
+Poulsen,Warberg,Undirected,5
+Odel,Poulsen,Undirected,1
+Jasaa,Warberg,Undirected,1
+Karl,Michelsen,Undirected,1
+Smed Gravesen,Warberg,Undirected,1
+Gravesen,Warberg,Undirected,1
+Flan,Flansen,Undirected,1
+Gravesen,Hansen,Undirected,2
+Hansen,Warberg,Undirected,4
+Alvilde Holmsen,Vilhelm Warberg,Undirected,1
+Michelsen,iland,Undirected,2
+Constance,Herr Warberg-til,Undirected,1
+Herr Warberg,Michelsen,Undirected,2
+Alma,Gud,Undirected,1
+PJahaha,Poulsen,Undirected,1
+Alma,Frøken Holmsen,Undirected,1
+Constance,Poulsen,Undirected,6
+Emphase,Petersen,Undirected,1
+Emphase,Warberg,Undirected,1
+Flophs,Petersen,Undirected,1
+Michelsen,Petersen,Undirected,4
+Frøken Svendsen,Michelsen,Undirected,2
+Smiths,Warberg,Undirected,1
+Olsens,Smiths,Undirected,1
+Michelsen,Wising,Undirected,3
+Poulsen,Thorsdag,Undirected,2
+Grace,Warberg,Undirected,1
+Gud,Warberg,Undirected,1
+Døring,Warberg,Undirected,1
+Michelsen,Michelsen-,Undirected,1
+Thorsdag,Warberg,Undirected,1
+Disraeli,Rousseau,Undirected,1
+Frøken Svendsen,Gud,Undirected,1
+Constance,Flan,Undirected,1
+Constance,sorn,Undirected,1
+Poulsen,sorn,Undirected,1
+Døring,Michelsen,Undirected,3
+Døring,Wising,Undirected,1
+Poulsen,Wising,Undirected,1
+Anton,Constance,Undirected,1
+Anton,Poulsen,Undirected,1
+Dahis,Poulsen,Undirected,1
+Dahis,Michelsen,Undirected,1
+Alma,Poulsen,Undirected,1
+Cour,Warberg,Undirected,1
+Cour,Michelsen,Undirected,1
+Amanda,Graaden,Undirected,1
+-Poulsens,Amanda,Undirected,1
+Flochs,Poulsen,Undirected,1
+Hysh,Nielsen,Undirected,1
+Kittelsen,Nielsen,Undirected,3
+Kittelsen,hu Mor,Undirected,1
+Kitteisens,Kittelsen,Undirected,1
+Flan,Kittelsen,Undirected,1
+Flan,Hansen,Undirected,2
+Flock,voxen,Undirected,1
+Flock,Grant,Undirected,1
+Flock,Flustru,Undirected,1
+Flock,Petersen,Undirected,13
+Laura,Petersen,Undirected,1
+Petersen,Redaktør Hansen,Undirected,1
+Frøken Holmsen,ifjor,Undirected,1
+Fru Poulsens,Gud,Undirected,1
+Fru Poulsens,Petersen,Undirected,1
+Don Juans,Donna Elvira,Undirected,1
+Donna Elvira,Hansen,Undirected,1
+Gravesen,Michelsen,Undirected,2
+Constance Poulsen,Gravesen,Undirected,1
+Constance Poulsen,Michelsen,Undirected,1
+Madam Sandberg,Michelsen,Undirected,2
+Hansen,Madam Sandberg,Undirected,1
+Alma Poulsen,Hansen,Undirected,1
+Alma Poulsen,Valsen,Undirected,1
+Arditi,Valsen,Undirected,1
+Arditi,il båcio di Giuda,Undirected,1
+Kittelsen,Petersen,Undirected,1
+Michelsen,dejo,Undirected,1
+Michelsen,Vilhelm Warberg,Undirected,1
+Flansen,Michelsen,Undirected,1
+Flansen,Gravesen,Undirected,1
+Pedersen,Thalia,Undirected,1
+Pedersen,hans Thalias,Undirected,1
+Pedersen,Poulsen,Undirected,2
+Gud,Pedersen,Undirected,1
+Michelsen,Thalia Pedersen,Undirected,1
+Frøken Gulbransen,Wising,Undirected,1
+Pedersen,Wising,Undirected,1
+Lars,Mama,Undirected,1
+Frøken Holmsen,Hansen,Undirected,4
+Gulbransens,Petersen,Undirected,2
+Flaske-Lars,Gud,Undirected,1
+Frk. Holmsen,Hansen,Undirected,2
+Lady Macbeth,Thalia Pedersen,Undirected,1
+Ladyen,Thalia Pedersen,Undirected,1
+Flaske-Lars,Pedersen,Undirected,2
+Hansen,Pedersen,Undirected,1
+Døring,Poulsen,Undirected,1
+Maanes,s,Undirected,1
+Hoel,Michelsen,Undirected,2
+Constance,Hansen,Undirected,3
+Alma,Hansen,Undirected,1
+Amanda,Flun,Undirected,1
+Anders,Hansen,Undirected,1
+Anders,Gud,Undirected,1
+Michelsen,Stenigen,Undirected,1
+Gud,Michelsen,Undirected,1
+Flan,Utak,Undirected,1
+Hansen,Utak,Undirected,1
+Hansen,Karl,Undirected,1
+Gudbevars,Karl,Undirected,1
+Hansen,Holm,Undirected,1
+Hansen,Stenigen,Undirected,2
+Hansen,sotn,Undirected,1
+Andersen,Hibbel,Undirected,1
+Hibbel,hans,Undirected,1
+Hansen,jasaa,Undirected,1
+Hansen,Jøssu,Undirected,1
+Frøken Skjold,Jøssu,Undirected,1
+Frøken Skjold,Jasaa,Undirected,1
+Hansen,Jasaa,Undirected,1
+Flun,Hansen,Undirected,1
+Madam Andersen,Thorkelsen,Undirected,1
+Hansen,Jøsses,Undirected,2
+Amanda,Gud,Undirected,1
+Gud,Kittelsen,Undirected,1
+Kittelsen,Michelsen,Undirected,2
+Michelsen,Verter,Undirected,1
+Hansen,Verter,Undirected,1
+Flock,Hansen,Undirected,7
+Døring,Hansen,Undirected,3
+Døring,Philines,Undirected,1
+Michelsen,Philines,Undirected,1
+Michelsen,fidel,Undirected,1
+Hansen,fidel,Undirected,1
+Michelsen,jasaa,Undirected,1
+Hansen,Skaal,Undirected,2
+Plan,Stenigen,Undirected,1
+Stenigen,Warberg,Undirected,1
+Flaske-Lars,Michelsen,Undirected,1
+Flansen,Flock,Undirected,1
+Flansen,Hansen,Undirected,1
+Døring,Madam Gjeruldsen,Undirected,1
+Madam Gjeruldsen,isiand,Undirected,1
+Flock,Gulbransen,Undirected,3
+Gulbransen,Poulsen,Undirected,1
+Michelsehs,Michelsen,Undirected,1
+Amanda,Graad,Undirected,1
+Gulbransen,Michelsen,Undirected,3
+Hansen,Smed Gravesen,Undirected,1
+Hansen,s,Undirected,2
+Hansen,hans,Undirected,3
+Jens,Poulsen,Undirected,1
+Blanche,Sjøvall,Undirected,1
+Constance,Pedersen,Undirected,1
+Grandtante,Poulsen,Undirected,1
+Grandtante,Rikke,Undirected,1
+Jøsses,Poulsen,Undirected,1
+Andersen,Poulsen,Undirected,1
+Andersen,hysj,Undirected,1
+Sandbergs,hysj,Undirected,1
+Grandtante,Michelsen,Undirected,1
+Gulbransen,Smed Gravesen,Undirected,1
+Hovelsrud,Smed Gravesen,Undirected,1
+Hovelsrud,Wold,Undirected,1
+Hovelsrud,jagu,Undirected,1
+Flock,Gravesen,Undirected,1
+Flock,tage Hansen,Undirected,1
+Gulbransen,Hansen,Undirected,1
+Constance,Gulbransen,Undirected,1
+Constance,Gravesen,Undirected,1
+Alma,Gravesen,Undirected,1
+Grandtante Rikke,Thulstrup,Undirected,1
+Johanne,Michelsen,Undirected,1
+Amanda,Andersen,Undirected,1
+Andersen,Stry,Undirected,1
+Flock,Stry,Undirected,1
+Amanda,Anders,Undirected,1
+Flock,kjære Hansen,Undirected,1
+Amanda,Flock,Undirected,2
+Hansen,Jomfru Andersen,Undirected,1

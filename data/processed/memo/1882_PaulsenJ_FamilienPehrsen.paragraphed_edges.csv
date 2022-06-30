@@ -1,0 +1,204 @@
+source,target,type,weight
+Brinkmann,Wergeland,Undirected,1
+Herr Pehrsen,Skram,Undirected,1
+Karl —,Pehrsen,Undirected,1
+Hansen,Karl —,Undirected,1
+Hansen,Pehrsen,Undirected,1
+Skram,Sverre,Undirected,4
+Fjell-Lundar,Skram,Undirected,1
+Eierens,Pehrsen,Undirected,1
+Mama,Sverre,Undirected,5
+Brinkmann,Skram,Undirected,1
+Pehrsen,Sverre,Undirected,38
+Maren,Pehrsen,Undirected,2
+Fredrik,Pehrsen,Undirected,3
+Kristian,Sønnemand,Undirected,1
+Kristian,Ole Semenarist,Undirected,1
+Gamlingen,Pehrsen,Undirected,1
+Bikkja,Ole Semenarist,Undirected,1
+Fredrikmand,Gud,Undirected,1
+Gud,trut,Undirected,1
+Mor,trut,Undirected,1
+Anne Marie,Fredrikmand,Undirected,1
+Fredrik,Fredrikmand,Undirected,1
+Fredrik,Gutten,Undirected,1
+Erik,Fredrik,Undirected,4
+Sofie,Sofie Hjort,Undirected,1
+Persen,Sofie,Undirected,1
+Pehrsen,Sofie,Undirected,3
+Murillos,Pehrsen,Undirected,1
+Erik,Pehrsen,Undirected,1
+Pehrsen,Principal,Undirected,2
+Kristianias Handelsverden,Pehrsen,Undirected,1
+Fredrik,Kristianias Handelsverden,Undirected,1
+Pedersen,Persen,Undirected,1
+Pedersen,Petersen,Undirected,1
+Papa,Sverre,Undirected,2
+Pehrsen,Tvedt,Undirected,1
+Ha.ns,Tvedt,Undirected,1
+Ha.ns,Pehrsen,Undirected,1
+Fontainen,Wergeland,Undirected,1
+Mama,Papa,Undirected,1
+Gud,Papa,Undirected,1
+Storm,Sverre Pehrsen,Undirected,1
+Andrea,Sverre,Undirected,62
+Andrea Storm,Sverre,Undirected,2
+Hr. Pehrsen,Sverre,Undirected,1
+Byron,Kirkegaard,Undirected,1
+Goethe,Kirkegaard,Undirected,1
+Andrea’,Sverre,Undirected,1
+Gregorovius,Sverre,Undirected,1
+Hr. Pehrsen,Pehrsen,Undirected,2
+Andrea,dandse,Undirected,1
+Herr Rosenius,Skram,Undirected,1
+Andreas blaa,Sverre,Undirected,1
+Høien,Pehrsen,Undirected,1
+Høien,langf,Undirected,1
+Pehrsen,Skram,Undirected,10
+Skram,Vale niente,Undirected,1
+Signore,Vale niente,Undirected,1
+Signore,pietra solamente,Undirected,1
+Niente,Signore,Undirected,1
+Signore,niente,Undirected,1
+Skram,niente,Undirected,1
+Pehrsen,Storm,Undirected,2
+Berner,Storm,Undirected,1
+Keats,Shelley,Undirected,1
+Goethe,Shelley,Undirected,1
+Andrea,Saga,Undirected,1
+Andrea,Andreas Øine,Undirected,1
+Dagmar,Shelley,Undirected,1
+Dagmar,Hauch,Undirected,1
+Hauch,Sverre,Undirected,1
+Andrea,Lyders,Undirected,1
+Andrea,Pehrsen,Undirected,1
+,Pehrsen,Undirected,1
+Frøken,Sverre,Undirected,1
+Flan,Gyda,Undirected,1
+Andrea,Gyda,Undirected,1
+Bjørnstjerne Bjørnsons,Ole Buli,Undirected,1
+Sverre,spodsk,Undirected,1
+Andrea,Ivar Aasens,Undirected,1
+Ivar Aasens,Sverre,Undirected,1
+Robert,Sverre,Undirected,1
+Alexander,Cæsar,Undirected,2
+Cæsar,Napoleon,Undirected,2
+Gutten,Sverre,Undirected,3
+Pehrsen,von Bruck,Undirected,1
+Pehrsen,Rosenmark,Undirected,1
+Karen,Maren,Undirected,1
+Pehrsen,stum,Undirected,1
+Adel,von Brinkmann,Undirected,1
+Karoline,von,Undirected,1
+Karoline,Sverre,Undirected,1
+Lyders,Sverre,Undirected,1
+C.,D.,Undirected,1
+D.,E.,Undirected,1
+Herr Rosenius,Storm,Undirected,1
+Pehrsen,paany,Undirected,2
+Andrea,Gades,Undirected,1
+Hvar,Ingeborg,Undirected,1
+Ingeborg,hon,Undirected,1
+Andrea,Skram,Undirected,4
+Rosenius,Skram,Undirected,1
+Chopin,Sverre,Undirected,1
+Dagmar,Rosenius,Undirected,16
+Dagmar,Graad,Undirected,1
+Frøken Lunde,Gud,Undirected,1
+Gud,Rosenius,Undirected,1
+Hvar,hvars blickar,Undirected,1
+Dagmar,hvars blickar,Undirected,1
+Adieu,Kronprinsesse,Undirected,1
+Kronprinsesse,Margherita,Undirected,1
+Dagmar,fløi,Undirected,1
+Sverre,Vinjes,Undirected,1
+Andrea,bella signora,Undirected,1
+Andrea,Kristina,Undirected,1
+Andrea,Violen,Undirected,2
+Andrea,Lyder,Undirected,3
+Andrea,Pater,Undirected,1
+Colonna,Sverre,Undirected,1
+Brinkman,von Brinkmann,Undirected,1
+Heidelberg,Sands,Undirected,1
+Heidelberg,Lyder,Undirected,1
+Andrea,Kjør,Undirected,2
+Andrea,Frøken Storm,Undirected,1
+Frøken Storm,Sverre,Undirected,1
+Cæcilia Metellas,Storm,Undirected,1
+Andrea,Cæcilia Metellas,Undirected,1
+Hiin,Sverre,Undirected,2
+Andrea,Dagmar,Undirected,3
+Petrus,Sverre,Undirected,1
+Kristus,Petrus,Undirected,1
+Kristus,quo vadis,Undirected,2
+Kristus,Venio iterum crucifegi,Undirected,1
+Petrus,Venio iterum crucifegi,Undirected,1
+Alexander,Napoleon,Undirected,1
+Heine,Sverre,Undirected,1
+Andrea,Heine,Undirected,1
+Lyder,Sverre,Undirected,5
+Sverre,ismug,Undirected,2
+Carl Johans,Sverre,Undirected,1
+Carl Johans,Skram,Undirected,1
+Andrea,Madonnas,Undirected,2
+Andrea,Eieren,Undirected,1
+Cæcilia Metellas,Pehrsen,Undirected,1
+Cæcilia,Gutten,Undirected,1
+Crassi,Cæcilia,Undirected,1
+Andreas snare,Sverre,Undirected,1
+Dagmar,ha.,Undirected,1
+Elvad,Pehrsen,Undirected,1
+Andrea,Storm,Undirected,1
+Andrea,Drea,Undirected,1
+Gut,Sverre,Undirected,3
+Katholik,Pehrsen,Undirected,1
+Isaafald,Pehrsen,Undirected,1
+Dagmar,Titania,Undirected,1
+Roselille,Rosenius,Undirected,1
+Agnete,Roselille,Undirected,1
+Dagmar,Lenau,Undirected,1
+Angelica,Dagmar,Undirected,1
+Angelica,Goethe,Undirected,1
+Dagmar,nys,Undirected,1
+Monsieur Loiseau,Skram,Undirected,1
+A.,B.,Undirected,1
+Lyder,Skram,Undirected,1
+Pehrsen,Rosenius,Undirected,1
+Frøken Lunde,Rosenius,Undirected,1
+Frøken Lunde,Monsignore Parini,Undirected,1
+Mache,caro Padrone,Undirected,1
+Solamente un poco pazzo,caro Padrone,Undirected,1
+Madonna,Pehrsen,Undirected,1
+Lyder,Pehrsen,Undirected,1
+Spencer,Sverre,Undirected,1
+Rosenius,pleiede,Undirected,1
+Pantheon,pleiede,Undirected,1
+Liun,Skram,Undirected,1
+Ristori,Sverre,Undirected,1
+Marini,Sverre,Undirected,5
+Marin,Marini,Undirected,1
+Marini,ismug,Undirected,1
+Frue,Pehrsen,Undirected,1
+Frue,Sverre,Undirected,1
+Chi,Poveretto,Undirected,1
+Gud,Pehrsen,Undirected,3
+Gud,Sverre,Undirected,1
+Sverre,Taus,Undirected,2
+Haarrod,Sverre,Undirected,1
+Bajads,Dacapo,Undirected,1
+Dacapo,Pehrsen,Undirected,1
+Lisetta,Pehrsen,Undirected,1
+Napoleon,Pehrsen,Undirected,1
+Dagmar,medRosenius hinDag,Undirected,2
+Rosenius,ismug,Undirected,1
+Dagmar,ismug,Undirected,1
+Andrea,Rosenius,Undirected,2
+Bostrøms,Rosenius,Undirected,1
+Bostrøms,Gustav Adolf“,Undirected,1
+Gustav Adolf“,Rosenius,Undirected,1
+Dianas,Rosenius,Undirected,1
+Aktæons,Dianas,Undirected,1
+Aktæons,Rosenius,Undirected,1
+Keats,Sverre,Undirected,1
+Keats,Sverre Pehrsen,Undirected,1
+Dagmar,Lyder,Undirected,1

@@ -1,0 +1,131 @@
+source,target,type,weight
+Bruns,Brunsi,Undirected,1
+Brunsi,Flan,Undirected,1
+Jonas,lille Jonemand,Undirected,1
+Gud,Jonas,Undirected,5
+Clausens,Nagels,Undirected,1
+dir nichts,nichts,Undirected,1
+Klara,Margrethe,Undirected,2
+Margrethe,Melitta,Undirected,30
+Brems,Møller,Undirected,1
+Margrethe,Møller,Undirected,1
+Mama,Margrethe,Undirected,2
+Bruns,Margrethe,Undirected,1
+Margrethe,Papa,Undirected,3
+Magdelone,Pernille,Undirected,1
+Thorvald,Thorvalds,Undirected,1
+Madam,Melitta,Undirected,1
+Anna,Margrethe,Undirected,8
+Agnes,Melitta,Undirected,1
+Anna,Melitta,Undirected,6
+Digi,Margrethe,Undirected,1
+Brun,Melitta,Undirected,11
+Mama,Melitta,Undirected,1
+E. Franzos,Melitta,Undirected,1
+Brun,Margrethe,Undirected,9
+Melitta,Nero,Undirected,1
+F.,S.,Undirected,1
+F.,Methusalems,Undirected,1
+Melitta,Methusalems,Undirected,1
+Friherrinde G.,Grevinde S.,Undirected,1
+Frk. Clausen,T.,Undirected,1
+Rosenhjelm,T.,Undirected,1
+D.,Rosenhjelm,Undirected,1
+D.,S. Frk. Clausen,Undirected,1
+Melitta,T.,Undirected,1
+Hedvig,Melitta,Undirected,10
+Gud,Melitta,Undirected,3
+Frk. Clausen,Gud,Undirected,1
+Gud,Thorvald,Undirected,2
+Thorvald,f.,Undirected,2
+Brun,Jonas,Undirected,1
+Melitta,Thorvald,Undirected,16
+Margrethe,Thorvald,Undirected,3
+Clausens,Thorvald,Undirected,1
+Melitta,Oberstens,Undirected,1
+Juliens,Margrethe,Undirected,1
+Frøken Clausen,T.,Undirected,1
+Gud,Lovisa,Undirected,1
+Frøken Clausen,lille Hedvig,Undirected,1
+Melitta,lille Hedvig,Undirected,4
+Birger,Melitta,Undirected,3
+Flun,Melitta,Undirected,3
+Graad,Melitta,Undirected,1
+Jonas,Thorvald,Undirected,11
+Napoleon,Thorvald,Undirected,1
+Hedvig,Thorvald,Undirected,1
+Blads,Melitta,Undirected,1
+Melitta,Papa,Undirected,2
+Frk. Løve,Melitta,Undirected,2
+Melitta,Obersten,Undirected,1
+Thorvald,io,Undirected,1
+Frøken Melitta,Gud,Undirected,1
+Melitta,Pappa,Undirected,1
+Ljungby Horn,Sidsela Ulfstand,Undirected,1
+Sidsela Ulfstand,Trolle Ljungby,Undirected,1
+Karlen,Trolle Ljungby,Undirected,1
+Gyllenstjærne,Kaj Lykke,Undirected,1
+Gud,Kaj,Undirected,1
+Kaj Lykke,Sidsela Ulfstand,Undirected,1
+Kaj Lykke,Søren Nordby,Undirected,1
+Otto Stisen,Søren Nordby,Undirected,1
+C.,Elfenben,Undirected,1
+Fr. Richardt,G. Ljuuggrcns,Undirected,1
+Frøken Clausen,Frøken Løve,Undirected,1
+Maglesten,Melitta,Undirected,1
+Gud,Maglesten,Undirected,1
+Frøken Løve,Gud,Undirected,1
+Melitta,Tante Løve,Undirected,3
+Gud,lille Frk. Clausen,Undirected,1
+kjære Frk. Clausen,lille Frk. Clausen,Undirected,1
+Hedvig,Løve,Undirected,1
+Melitta,Svensson,Undirected,1
+Melitta,finnas,Undirected,1
+Abderhaman,Draper,Undirected,1
+Frk. Clausen,Melitta,Undirected,1
+Lille Hedvig,Løve,Undirected,1
+Lille Hedvig,Melitta,Undirected,1
+Jonas,lille Jonas,Undirected,1
+Gudl,Jonas,Undirected,1
+Jonas,lille Thorvald,Undirected,1
+Anakreon,Thorvald,Undirected,1
+J74,Lille Hedvig,Undirected,1
+Brun,Tante Løve,Undirected,1
+Evadatters,Melitta,Undirected,1
+Jonas,siral,Undirected,1
+Thorvald,siral,Undirected,1
+A,Thorvald,Undirected,1
+A,B,Undirected,1
+Jonas,Melitta,Undirected,3
+Hedvig,Tante Løve,Undirected,1
+Di,synnes,Undirected,1
+Di,Thorvald,Undirected,2
+Di,Elise Brun,Undirected,1
+Melitta,Tue,Undirected,1
+Chevalieren,Melitta,Undirected,1
+Dr. Brun,Margrethe,Undirected,1
+Anna,Dr. Brun,Undirected,1
+Anna,Flan,Undirected,1
+Jonas,Nagel,Undirected,1
+Brun,Gud,Undirected,1
+Amagerkonen,Jonas,Undirected,1
+Madame,sorn,Undirected,1
+Gud,véd,Undirected,1
+Jonas,véd,Undirected,1
+Justitsraad Nagels,Obersten,Undirected,1
+---Melitta,Melitta,Undirected,1
+Melitta,sorn,Undirected,2
+Ilendes,Melitta,Undirected,1
+Ilendes,lille Hedvig,Undirected,1
+Cederfelt,Hellas,Undirected,1
+Melitta,P.,Undirected,1
+Margrethe,Vexler,Undirected,1
+Møllere,Valle,Undirected,1
+Birtha,Melitta lor,Undirected,1
+l’,urpurskjær,Undirected,1
+Melitta,urpurskjær,Undirected,1
+Alfred,Melitta,Undirected,2
+Alfred,Brun,Undirected,1
+Birtha,Brun,Undirected,1
+Elise Brun,Melitta,Undirected,1
+Thorvald,sorn,Undirected,1

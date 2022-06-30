@@ -1,0 +1,216 @@
+source,target,type,weight
+Blanka,Mikala,Undirected,11
+Kørner,Mørk,Undirected,1
+Mikala,hnn,Undirected,5
+Kørner,hnn,Undirected,1
+Kørner,Mikala,Undirected,8
+Blanka Dahl,Kørner,Undirected,1
+Schmuck,sorn,Undirected,1
+Zenith,sorn,Undirected,1
+Cours,Frøken Mørk,Undirected,1
+Cours,Kørner,Undirected,1
+Frøken Mikala,dands,Undirected,1
+Froken Mørk,^uris Klitgaard,Undirected,1
+^uris Klitgaard,as Froken Mork,Undirected,1
+Mikala,nn,Undirected,1
+Hain,nn,Undirected,1
+Hain,Klitgaards,Undirected,1
+Klitgaard,Mikala,Undirected,15
+Mikala,sorn,Undirected,2
+Mikala,felv,Undirected,2
+Lindes,Sands,Undirected,1
+Klaus,Ludvig,Undirected,40
+Ludvig,Reseda,Undirected,1
+Levkøj,Reseda,Undirected,1
+Levkøj,Maja,Undirected,1
+Ludvig,Maja,Undirected,1
+Klaus,fig,Undirected,3
+Lientenants,Mikala Mørks,Undirected,1
+Klitgaard,Mikala Mørks,Undirected,1
+Graad,Klaus,Undirected,1
+Graad,Ludvig,Undirected,1
+Ludvig,Mikala,Undirected,31
+Candidat Klitgaard,Mikala,Undirected,3
+Klitgaard,hnn,Undirected,2
+Mikala,Ossians,Undirected,1
+F. L.,Ossians,Undirected,1
+Klaus,Lieutenanten,Undirected,1
+Mikala,Sophies,Undirected,1
+Klitgaard,Sophies,Undirected,1
+Horas,Mikala,Undirected,1
+Horas,Maja,Undirected,1
+Lieutenant Kørner,Maja,Undirected,1
+Mikala,Onkels,Undirected,1
+Klitgaard,Ludvig,Undirected,6
+Klaus Körner,Mikala,Undirected,1
+Klitgaard,Kørner,Undirected,5
+Klaus,Mikala,Undirected,42
+,Klaus,Undirected,13
+,Mikala,Undirected,6
+Kathrine Pafle,fiden,Undirected,1
+fiden,rose,Undirected,1
+Graad,Mikala,Undirected,1
+Graad,Gud,Undirected,1
+Gud,Kathrine Pasle,Undirected,1
+Horos,Ludvig,Undirected,1
+Horos,Maja,Undirected,2
+Jørgen Harefods,Maja,Undirected,1
+Convers,Kørner,Undirected,1
+Jørgen,Kørner,Undirected,1
+Jørgen,Ludvig,Undirected,2
+Ludvig,menMikala,Undirected,1
+Klaus,menMikala,Undirected,1
+Kathrine Pafle,Ludvig,Undirected,1
+Kathrine Pafle,Morten,Undirected,1
+Ludvig,Morten,Undirected,5
+Albert Busk,saris,Undirected,1
+Vilhelm Julius Klitgaard,saris,Undirected,1
+Sidsfe,Vilhelm Julius Klitgaard,Undirected,1
+Körner,Ludvig Theodor,Undirected,1
+Busk,Klitgaard,Undirected,5
+Klaus,Klitgaard Busk,Undirected,1
+Frøken Mørk,Klaus,Undirected,1
+Busk,Mikala,Undirected,3
+Busk,Karl for-sin,Undirected,1
+Klaus,Klitgaard,Undirected,12
+Blanka,Busk,Undirected,2
+hans Gjæsf,sloj,Undirected,1
+hnn,melodios,Undirected,1
+Alan,pel,Undirected,1
+Mikala,Mørk,Undirected,1
+Mørk,hnn,Undirected,1
+Inger,hnn,Undirected,1
+hnn,t.,Undirected,1
+Fasfer,t.,Undirected,1
+Fasfer,Inger,Undirected,2
+Inger,Mikala,Undirected,6
+Fasfer,Mikala,Undirected,3
+Fugle-Perspectiv,Mikala,Undirected,1
+Fugle-Perspectiv,Jndolence,Undirected,1
+Inger,Jndolence,Undirected,1
+Hnn,Mikala,Undirected,1
+Blanka,Hnn,Undirected,2
+Blanka,Klitgaard,Undirected,7
+Klaus Kørner,Klitgaard,Undirected,1
+Klaus Kørner,Mikala,Undirected,1
+Blanko,Ludvig,Undirected,1
+Ludvig Kørner,Mikala,Undirected,1
+Klaus,hnn,Undirected,1
+bart,hnn,Undirected,1
+Klaus,bart,Undirected,1
+Apotheker Busk,Mikala,Undirected,1
+Busk,Gud,Undirected,1
+Gud,Kørner,Undirected,1
+Busk,Kørner,Undirected,1
+Busk,Inger,Undirected,2
+Faster,Mikala,Undirected,14
+Fasfer,Gud,Undirected,1
+Fasfer,hnn,Undirected,1
+Artium,Mikala,Undirected,1
+Mikala,hendø,Undirected,1
+Ludvig,fig,Undirected,1
+Mikala,as,Undirected,1
+Jngen,as,Undirected,1
+Dn,Gud,Undirected,1
+Ludvig Korner,Prinds,Undirected,1
+Kørner,Prinds,Undirected,1
+Kørner,Visf,Undirected,1
+Adam,Mikala,Undirected,1
+Adam,Evas,Undirected,1
+Kørner,Morten,Undirected,1
+Klitgaard,Morten,Undirected,1
+Klaus,Morten,Undirected,2
+Ludvig,Zigeunerskens,Undirected,1
+Mikala,Zigeunerskens,Undirected,1
+Klaus,fil,Undirected,1
+Klitgaard,fil,Undirected,1
+Blanka,Klaus,Undirected,5
+Kathrine Pafle,pel,Undirected,1
+Klaus,pel,Undirected,1
+Kathrine Pasle,Maja,Undirected,1
+Kathrine Pasle,Klans,Undirected,1
+Kathrine,Klaus,Undirected,1
+Kathrine,ester,Undirected,1
+Ludvig,ester,Undirected,1
+Blanka,Klans,Undirected,2
+Hnn,Klaus,Undirected,1
+Inger,Klaus,Undirected,2
+Mikala,frein,Undirected,1
+Ludvig,frein,Undirected,1
+Blanka,Blanko,Undirected,1
+Elfenben,Mikala,Undirected,1
+Mikala,Ore,Undirected,1
+Frøken Mørk,Klitgaard,Undirected,1
+Harpe,Horos,Undirected,1
+Horos,Uhr,Undirected,1
+Hain,besries,Undirected,1
+Enesfe,Ludvig,Undirected,1
+Enesfe,Klaus,Undirected,1
+Blanka,Faster,Undirected,2
+Blanka,Klaus Kørner,Undirected,1
+Blanka,Gud,Undirected,1
+Mikala,hans,Undirected,1
+Blanka,hans,Undirected,1
+Gud,Klaus,Undirected,1
+Gud,Mikala,Undirected,2
+Birken,Mikala,Undirected,2
+Hnn,hnn,Undirected,1
+Faster,Hnn,Undirected,1
+Faster,Klaus,Undirected,3
+Frits,Nancy,Undirected,5
+Frits,Vilhelm,Undirected,7
+Nancy,Vilhelm,Undirected,4
+Capitain Holm,Frits,Undirected,1
+,Frits,Undirected,1
+Holm,Vilhelm,Undirected,6
+Holm,Nancy,Undirected,4
+Nancy,son,Undirected,1
+Frits,son,Undirected,1
+Nancy,ril,Undirected,1
+Holm,ril,Undirected,1
+Morten,nill,Undirected,1
+fig,kjæk,Undirected,1
+Morten,Mortongs,Undirected,1
+Faster,Kørner,Undirected,1
+Mikala,Vilhelm,Undirected,1
+Faster,Mikala fig,Undirected,1
+Ludvig,Mikala fordum,Undirected,1
+Klitgaard,Mikala fordum,Undirected,1
+,Horos,Undirected,1
+Horos,Klaus,Undirected,3
+Astes,Ludvig,Undirected,1
+Hr. Mortong,Karl,Undirected,1
+Karl,Morten,Undirected,1
+Klitgaard,Kørnerat,Undirected,1
+Kørnerat,Mikala,Undirected,1
+Hain,Klaus,Undirected,1
+Hain,Mikala,Undirected,1
+,Ludvig,Undirected,2
+Klaus,Mikala *,Undirected,2
+Ludvig,Uhr,Undirected,1
+Mikala,Uhr,Undirected,1
+Jørgen,Klaus,Undirected,1
+Klans,Ludvig,Undirected,5
+Morten,mam,Undirected,1
+Klaus,mam,Undirected,1
+Klaus strax,Mikala,Undirected,2
+Klitgaard,as,Undirected,1
+Klaus,as,Undirected,1
+Mikala,fig,Undirected,2
+Klans,Mikala,Undirected,2
+Blanka,Toctorens,Undirected,1
+Faster,Toctorens,Undirected,1
+,KlauS,Undirected,1
+Blanka,Chocoladen,Undirected,1
+Hojeste,Mikala,Undirected,1
+Hojeste,Klaus,Undirected,1
+Gud,Øberst,Undirected,1
+smaalo,Øbersten,Undirected,1
+Dante,Mikala,Undirected,1
+Beatrice,Dante,Undirected,1
+,sidsfe,Undirected,1
+Mikala,sidsfe,Undirected,1
+LZo«,Mikala,Undirected,1
+Frue,Klitgaard,Undirected,1
+Frue,keren,Undirected,1
+Faster,keren,Undirected,1

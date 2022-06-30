@@ -1,0 +1,304 @@
+source,target,type,weight
+Fritz,Maren,Undirected,7
+Fritz,Wedel Stenersen,Undirected,17
+Fritz,Wedel,Undirected,44
+Maren,dissolving viezvs,Undirected,1
+Stenersens,dissolving viezvs,Undirected,1
+Fritz,Richelieus,Undirected,1
+Peter Wille Randel,Randel,Undirected,1
+Peter,Randel,Undirected,1
+Laura Bolstad,Peter,Undirected,1
+Laura Bolstad,Randel,Undirected,1
+Flan,Randel,Undirected,1
+Løkke,Randel,Undirected,8
+Mons,Randel,Undirected,1
+Fritz,Randel,Undirected,8
+Fritz,s,Undirected,21
+Randel,s,Undirected,1
+Fritz,Løkke,Undirected,2
+Fritz,Tomandshaand,Undirected,1
+Løkke,jasaa,Undirected,1
+Bache,Løkke,Undirected,2
+Bache,Slumpe-Løkke,Undirected,1
+Nedad-Bache,Slumpe-Løkke,Undirected,1
+Lille-Marie,Løkke,Undirected,1
+Lille-Marie,Mariæ,Undirected,1
+Løkke,Sevaldsen,Undirected,2
+Dere,Sevaldsen,Undirected,1
+Dere,Skipper Wagle,Undirected,1
+Sevaldsen,Wagle,Undirected,2
+Løkke,Wagle,Undirected,1
+Randel,Wagle,Undirected,1
+Løkke,Wedel,Undirected,1
+Løkke,Ulla,Undirected,1
+Randel,Sevaldsen,Undirected,1
+Marthas,Wedel,Undirected,1
+Maria,Marthas,Undirected,1
+Johan Caspar Herman Wedel-Jarlsbergs,Maria,Undirected,1
+Johan Caspar Herman Wedel-Jarlsbergs,Stenersen,Undirected,1
+Stenersen,Wedel,Undirected,2
+Gutten,Wedel,Undirected,1
+Fritz,Gutten,Undirected,1
+Fritz,Gut,Undirected,1
+Gut,Gutten,Undirected,1
+Sevaldsen,Wedel,Undirected,1
+Maren,Wedel,Undirected,1
+Flan,Fritz,Undirected,2
+Flan,Stenersen,Undirected,1
+Guds,Stenersen,Undirected,1
+Guds,Wedel,Undirected,1
+Wedel,Wedel Stenersen,Undirected,3
+Nils,Nils Gaardsgut,Undirected,1
+Maren,Nils,Undirected,2
+Fritz,Herr,Undirected,1
+Herr,Randel,Undirected,1
+Nils,Randel,Undirected,1
+Fritz,Nils,Undirected,7
+Maren,Randel,Undirected,2
+-Fritz,Nils,Undirected,1
+Tulleri,langtifra,Undirected,1
+Maren,skraa,Undirected,1
+Barth,Fritz,Undirected,22
+Fritz,Kristian Augusts,Undirected,1
+Schlutte,Wedel,Undirected,1
+Wedel,natulivisch,Undirected,2
+Wedel,harr,Undirected,1
+Rydberg,f. Ex. Buckle,Undirected,1
+Fritz,Plan,Undirected,1
+Barth,Plan,Undirected,1
+Clara,Wedel,Undirected,3
+Clara With,Wedel Stenersen,Undirected,1
+Fritz,Hoel,Undirected,13
+Barth,Hoel,Undirected,4
+Fritz,Herr Randel,Undirected,1
+Barth,Herr Randel,Undirected,1
+Juell,Milla,Undirected,2
+Fritz,Juell,Undirected,9
+Aasum,Thema,Undirected,1
+Fritz,Thema,Undirected,1
+Flerr,Fritz,Undirected,1
+Aasum,Flerr,Undirected,1
+Aasum,j.eg præsentere,Undirected,1
+Randel,j.eg præsentere,Undirected,1
+-,Randel,Undirected,1
+-,Aasum,Undirected,1
+Aasum,Clara With,Undirected,2
+Clara With,Fritz,Undirected,3
+Aasum,Fritz,Undirected,11
+Aasum,Herr Randel,Undirected,1
+Aasum,Juell,Undirected,1
+Juell,Wedel Stenersen,Undirected,3
+Clara,With,Undirected,1
+Wedel Stenersen,Worin,Undirected,1
+Wedel Stenersen,Worm,Undirected,1
+Fritz,Guds,Undirected,1
+Clara,Fritz,Undirected,23
+Dands,Fritz,Undirected,1
+Dands,Frøken With,Undirected,1
+Wedel Stenersen,sorn,Undirected,1
+Wedel,s,Undirected,1
+Braad,Fritz,Undirected,1
+Clara,Plan,Undirected,1
+Aasum,Plan,Undirected,1
+Aasum,Clara,Undirected,7
+Amethyster,Clara,Undirected,1
+Clara With,Flan,Undirected,1
+Fritz,Salve Hoel,Undirected,8
+Fritz,kanske,Undirected,2
+Frøken Hoel,Gud,Undirected,1
+Barth,Herr Randell,Undirected,1
+Hoel,Randel,Undirected,1
+Fritz,pidskes,Undirected,1
+Aasum,b'ørst,Undirected,1
+Madam Rasmussen,Rasmussen,Undirected,1
+Rasmussen,Salve Hoel,Undirected,1
+Jens Buil,Salve Hoel,Undirected,1
+Fritz,Jens Buil,Undirected,1
+Axel Borch,Fritz,Undirected,2
+Fritz,Kanske,Undirected,2
+Madam Rasmussen,Ragna,Undirected,1
+Fritz,Madam Rasmussen,Undirected,2
+Madam Rasmussen,Salve Hoel,Undirected,1
+Barth,Wedel Stenersen,Undirected,1
+Axel Borch,s,Undirected,1
+Darwins,Fritz,Undirected,1
+Fritz,Ruth,Undirected,5
+Finn,Fritz,Undirected,1
+Aasum,Finn,Undirected,1
+Aasum,Pleie,Undirected,1
+Andersen,Granli,Undirected,2
+Aasum,Granli,Undirected,1
+Andreas Mathias Schulerud,Clara Mathilde With,Undirected,1
+Andersen,lian,Undirected,1
+Uhret,lian,Undirected,1
+Aasum,Jesus Kristus,Undirected,1
+Gud,Jesus,Undirected,1
+Fritz,mefi,Undirected,1
+Fritz,Gud,Undirected,5
+Faders,Fritz,Undirected,1
+F'ritz,Fritz,Undirected,1
+Clara,Gud,Undirected,1
+Gud,Milla,Undirected,1
+Mama,Milla,Undirected,1
+Fritz,Stenersen,Undirected,1
+Gud,Ramm,Undirected,1
+Fritz,Margarethe,Undirected,1
+Faust,Margarethe,Undirected,1
+Faust,Fritz,Undirected,2
+Faust,Mephistopheles,Undirected,1
+Fritz-Mephistopheles,Mephistopheles,Undirected,1
+Fritz-Mephistopheles,Wedel,Undirected,1
+Mephistopheles,s,Undirected,1
+Lina,Wedel,Undirected,1
+Clara,Wedel Stenersen,Undirected,1
+Aasum,Wedel,Undirected,2
+Fritz,phup,Undirected,1
+Fritz,Viig,Undirected,3
+Randel,phup,Undirected,3
+Gunder,Nils Slemdal,Undirected,1
+Nils Slemdal,Randel,Undirected,1
+Gunder,Randel,Undirected,1
+Gunder,Nils,Undirected,6
+Gunder,Nils byklædt,Undirected,2
+Fritz,Gunder,Undirected,4
+Gunder,Henrik Wergelands,Undirected,1
+Henrik Wergelands,Nils,Undirected,1
+Gunder,Viig,Undirected,1
+Fritz,Vaagaards,Undirected,1
+Vaagaard,Vaagaards,Undirected,1
+Vaagaard,Vaagaardj,Undirected,1
+Gunder Slemdal,Nils,Undirected,1
+Gunder Slemdal,Vaagaard,Undirected,1
+Fritz,langtifra,Undirected,1
+Fritz Nils,Nils,Undirected,1
+Gunder,but,Undirected,2
+Gunder,Vaagaard,Undirected,2
+Jagu,lel,Undirected,1
+Gunder,lel,Undirected,1
+Huldrens,Kristoffer Vaagaard,Undirected,1
+Dalpilen,Huldrens,Undirected,1
+PIvordan,Randel,Undirected,1
+Randel,Viig,Undirected,1
+Bjerke,Viig,Undirected,1
+Fritz,Gunder Slemdal,Undirected,1
+Fritz,Frydendal,Undirected,1
+Fritz,Moer,Undirected,1
+Jøssunamn,Randel,Undirected,1
+Agathon Vaagaard,Kristoffer Vaagaard,Undirected,1
+Agathon Vaagaard,Fritz,Undirected,1
+Hoel,Vaagaard,Undirected,1
+Florine,Gunda,Undirected,1
+Jomfru Lystad,Vaagaard,Undirected,2
+Bjerke,Jomfru Lystad,Undirected,1
+Bjerke,Madam Vaagaard,Undirected,1
+Jomfru Lystad,Madam Vaagaard,Undirected,1
+Madam Vaagaard,ifra,Undirected,1
+Christopher,ifra,Undirected,1
+Bjerke,s,Undirected,1
+Florine,Fritz,Undirected,4
+Agathon,Fritz,Undirected,2
+Bjerke,sine,Undirected,1
+Fritz,sine,Undirected,1
+Fritz,Rina,Undirected,1
+Randel,Rina,Undirected,1
+Florine,Randel,Undirected,5
+Fritz,Vaagaard,Undirected,1
+Rina,Vaagaard,Undirected,1
+Randel,Vaagaard,Undirected,1
+Alvilde Surkeland,Fritz,Undirected,1
+Bjerke,Florine,Undirected,1
+Jens Rustad,rillerillerillera,Undirected,1
+Agathon,rillerillerillera,Undirected,1
+Agathon,Bjerke,Undirected,3
+Bjerke,Fritz,Undirected,1
+Fritz,Gabriel Surkeland,Undirected,1
+Gud,Surkeland,Undirected,1
+Flan,Surkeland,Undirected,1
+Vaagaard,phup,Undirected,1
+Hoel,Langtifra,Undirected,1
+Dere,Randel,Undirected,1
+Agathon,Gud,Undirected,1
+Agathon,Edike,Undirected,1
+Edike,bidike,Undirected,1
+Fntz,Fritz,Undirected,1
+Fntz,s,Undirected,1
+Fritz,Herman Rode,Undirected,1
+Fritz,Rode,Undirected,11
+Rode,s,Undirected,3
+Barth,Randel,Undirected,1
+Barth,Gud,Undirected,1
+Gud,Hoel,Undirected,1
+Fritz,Hans,Undirected,4
+Hans,hu,Undirected,1
+Fritz,clisse,Undirected,1
+Cyprian,Kyrill,Undirected,1
+Gud,Wedel,Undirected,1
+Fritz,Venus,Undirected,1
+Axel Borch,hehde,Undirected,1
+Fritz,Herr Holst,Undirected,1
+Fritz,Nicolai,Undirected,10
+Fritz Randel,jasaa,Undirected,1
+Fritz Randel,Holst,Undirected,1
+Augusta,Holst,Undirected,2
+Augusta,Fritz,Undirected,17
+Augusta,Herr Randel,Undirected,1
+Fritz,Holst,Undirected,8
+Augusta,Juell,Undirected,1
+Milla,Randel,Undirected,1
+Augusta,Randel,Undirected,1
+Juell,Worm,Undirected,1
+Fritz,Worm,Undirected,1
+Danchert Holst,Holst,Undirected,1
+Danchert,Holst,Undirected,1
+Augusta,Nicolai,Undirected,9
+Gusta,Nicolai,Undirected,1
+Augusta,Fritz Randel,Undirected,2
+Fritz,Fritz Randel,Undirected,1
+Fritz,Nicolai Holst,Undirected,1
+Nicolai Holst,Rode,Undirected,1
+Holst,Rode,Undirected,2
+Augusta,Rode,Undirected,3
+Augusta,Milla Juell,Undirected,1
+Augusta,Nicolai Holst,Undirected,1
+Milla Juell,Nicolai Holst,Undirected,1
+Moder,Nicolai,Undirected,1
+Fritz,c de coeur i.*De,Undirected,1
+Nicolai,Randel,Undirected,3
+Fritz Randel,Rode,Undirected,1
+Ruth,Wedel Stenersen,Undirected,2
+Ruth,Wedel,Undirected,2
+Gud,Randel,Undirected,1
+Adam,Wedel,Undirected,1
+Herr Randel,phup,Undirected,1
+Barth,Ruth,Undirected,1
+Glid,Nicolai,Undirected,1
+Nicolai,Rode,Undirected,8
+Clara,Lorentzen,Undirected,2
+Fritz,Kaptejn Lorentzen,Undirected,1
+Kaptejn Lorentzen,Nicolai,Undirected,2
+Augusta,Clara,Undirected,3
+Augusta,Kaptejn Lorentzen,Undirected,1
+Holst,Nicolai,Undirected,1
+Clara,Nicolai,Undirected,2
+Clara,Rode,Undirected,2
+Aasum,Augusta,Undirected,1
+Nicolai,Wedel Stenersen,Undirected,1
+Nicolai,Stenersen,Undirected,2
+Clara With,Nicolai,Undirected,1
+Clara With,Wedel,Undirected,1
+Randel,Wedel,Undirected,1
+Aasum,Randel,Undirected,1
+Nicolai Holst,Wedel,Undirected,1
+Augusta,Wedel,Undirected,1
+Clara,Holst,Undirected,1
+Augusta tilbords,Rode,Undirected,1
+Augusta tilbords,Fritz,Undirected,1
+Augusta,Herman Rode,Undirected,1
+Herman Rode,Nicolai,Undirected,1
+Augusta Holst,Herman Rode,Undirected,1
+Fritz,taug,Undirected,1
+Nicolai,taug,Undirected,1
+Frirz,Nicolai,Undirected,1
+Fritz,Lars Baadmand,Undirected,1
+Lars,Wedel Stenersen,Undirected,1
+Fritz,Lars,Undirected,2

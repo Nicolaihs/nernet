@@ -1,0 +1,187 @@
+source,target,type,weight
+Flan,Hans Kristjan Thosten,Undirected,1
+Karl,Peter Litsenbro,Undirected,1
+Ann,Karl,Undirected,1
+Ann,Barbara,Undirected,60
+Ann’,Barbara,Undirected,14
+Peter,lille Barbara,Undirected,1
+Bodil,Hans Kristjan Thosten,Undirected,1
+Bodil,Halte-Bodil,Undirected,1
+Aaen,Barbara,Undirected,1
+Aaen,Tove,Undirected,1
+Ann,Hans Kristjan Thosten,Undirected,1
+,Ann,Undirected,3
+,Barbara,Undirected,1
+Aaen,Ann,Undirected,1
+Brunhilde,Fredegunde,Undirected,1
+Barbara,Kingos,Undirected,1
+Kristjan,lille Barbara,Undirected,1
+Barbara,Peter,Undirected,5
+Hegelund,Hr. Ivars,Undirected,1
+Ann’,Hr. Ivars,Undirected,1
+Ann’,Barbares,Undirected,1
+Hr. Hegelunds,Marie,Undirected,1
+Marie,Marie Hegelund,Undirected,1
+Barbara,Madam Hegelund,Undirected,2
+Ann,Madam Hegelund,Undirected,2
+Barbara,Marie Hegelund,Undirected,2
+Marie Hegelund,hans Baad,Undirected,1
+Fiele,Peter,Undirected,1
+Ann,Bodil Barbara,Undirected,1
+Abitsch,Barbara,Undirected,1
+Hans »,Hertzensfreund,Undirected,1
+Hertzensfreund,edle Meister,Undirected,1
+Ann,edle Meister,Undirected,1
+Barbara,Hr. Abitsch,Undirected,1
+Hr. Abitsch,Signe Flensborg,Undirected,1
+Ann,Hr. Abitsch,Undirected,2
+Bodil Barbara,Morbro,Undirected,1
+Morbro,Peter,Undirected,2
+Bedstemo,Peter,Undirected,1
+Bedstemo,Mo,Undirected,1
+Ann,Hegelund,Undirected,1
+Achl,Gud,Undirected,1
+Gud,schlecht,Undirected,1
+Freilich,kein,Undirected,1
+Flun,kein,Undirected,1
+Flun,Geld,Undirected,1
+Geld,Karl,Undirected,1
+liam,mein Hertzensfreund,Undirected,1
+Bsp,anders,Undirected,1
+Bsp,anders wie,Undirected,1
+Gud,anders wie,Undirected,1
+Die Frau,Marie Hegelund,Undirected,1
+Don Juan,schmeicheln,Undirected,1
+Knud —,Peter,Undirected,1
+Peter,mein lieber,Undirected,1
+Ahlmann,Peter,Undirected,1
+Hr. Abitsch,Hr. Hegelund,Undirected,1
+Hegelund,Peter,Undirected,2
+HalteBodil,Peter,Undirected,1
+Madam Thosten,Terpager,Undirected,1
+Hegelund,Ivar Hegelund,Undirected,1
+Ann,Hr. Hegelund,Undirected,2
+Barbara,Pierre,Undirected,1
+Ivar Hegelund,Pierre,Undirected,1
+Bodil,Peter,Undirected,5
+Bedstemo,Knud Hegelund,Undirected,1
+Bedstemo,Jesu,Undirected,1
+Gud,Jesu,Undirected,1
+Flan,Paludans,Undirected,1
+Barbara,Bodil,Undirected,5
+Barbara,Knud,Undirected,1
+Frederik den yde,Knud,Undirected,3
+Knud,Valdemar Sejr,Undirected,1
+Dronning Dagmar,Kong Valdemars,Undirected,1
+Bodil,Knud,Undirected,8
+Bodil,Madam Hegelund,Undirected,1
+Bodil,Hegelund,Undirected,1
+Dagmar,Rigmor,Undirected,1
+Knud,Svend,Undirected,2
+Karl Tønder,Kjæresten,Undirected,1
+Karen,Kjæresten,Undirected,1
+Bodil,Karl,Undirected,2
+Bodil Barbara,Marie Hegelund,Undirected,1
+Ann,Hemmingsted,Undirected,1
+Barbara,Madam,Undirected,1
+Ann,Bodil,Undirected,6
+Barbara,Bedstemo,Undirected,1
+Ann,Hr. Pry,Undirected,1
+Bodil,Hemmingsted,Undirected,1
+Madam klegelund,Tønders,Undirected,1
+Hemmingsted,Luth,Undirected,1
+Karen,Knud,Undirected,1
+Bodil,Knud Hegelund,Undirected,4
+Knud,Knud Hegelund,Undirected,1
+Ann Barbaras,Peter,Undirected,1
+Ann,Karen Tønder,Undirected,2
+Halte-Bodil,Karen,Undirected,1
+Karen,Peter,Undirected,5
+Barbara,Karen,Undirected,1
+Dagmar,Frederik den,Undirected,1
+Dagmar,Tove,Undirected,1
+Ann,Mo,Undirected,1
+Karen Tønder,Knud,Undirected,1
+Ann’,Karen Tønder,Undirected,1
+Ann’ Barbara,Bodil,Undirected,1
+Ann’,Ann’ Barbara,Undirected,1
+Barbara,Karen Tønder,Undirected,2
+Bodil,Karen,Undirected,6
+Hr. Hegelund,Signe,Undirected,2
+Knud,Signe,Undirected,2
+"Karl,",Knud,Undirected,1
+Flan,Flun,Undirected,1
+Ann’,Hegelund,Undirected,1
+Jærn,Peter Litsenbroder,Undirected,1
+Knud —,Svend —,Undirected,1
+Knud,Svend —,Undirected,1
+Bodil,Kjære,Undirected,1
+Karen,Svend,Undirected,1
+Gud,Knud,Undirected,4
+Knud,Tønders,Undirected,1
+djærv,fro,Undirected,1
+Barbara,Signe,Undirected,1
+Madam Abitsch,Signe,Undirected,1
+Karen,Madam Hegelund,Undirected,2
+Flun,Madam Hegelund,Undirected,1
+Flun,Madam Thosten,Undirected,1
+Ann,Madam Thosten,Undirected,1
+Madam Abitsch,Peter Litsenbroder,Undirected,1
+Madam Abitsch,Pir,Undirected,1
+Ivar Piegelund,Pir,Undirected,1
+Ann’,Marie Hegelund,Undirected,1
+Barbara,Madame Thosten,Undirected,1
+Ann,Karen,Undirected,2
+Barbara,Thosten,Undirected,1
+Knud,Peter,Undirected,4
+Jomfru Rønne,Knud,Undirected,1
+Hr. Bry,Pierre,Undirected,1
+Bodil,Thosten,Undirected,1
+Aaen,Karen,Undirected,1
+Maanelys,Povl Pry,Undirected,1
+Barbara,Pry,Undirected,1
+Knud Hegelund,Povl Pry,Undirected,1
+Hillers,Olje,Undirected,1
+Bodil,Olje,Undirected,1
+Ivar Hegelund,Terpager,Undirected,1
+Jøsses,Madam Skade,Undirected,1
+Madam Skade,Terpager,Undirected,2
+Madam,Madam Skade,Undirected,1
+Gud,Signe,Undirected,2
+Hiller,Signe,Undirected,1
+Hiller,Madam Barbara,Undirected,1
+Madam Barbara,Madam Skade,Undirected,1
+Ann1,Barbara,Undirected,1
+Bodil,Karen Tønder,Undirected,1
+Karen Tønder,Peter Litsenbro,Undirected,1
+Bodil,Knud —,Undirected,2
+Dannebroge,Povl Pry,Undirected,1
+Dannebroge,Signe,Undirected,1
+Marie Alsinger,Pastor Hemmingsteds,Undirected,1
+Dannebroge,Marie Alsinger,Undirected,1
+Madam Abitsch,Tamburen,Undirected,1
+Jøsses,Madam Abitsch,Undirected,1
+Abitsch,Signe,Undirected,1
+Signe,dor,Undirected,1
+Dannebroge,Tamburen,Undirected,1
+Fa’,Mo,Undirected,1
+Gud,Hegelund,Undirected,1
+Abitsch,Knud,Undirected,1
+Ivar Hegelund,Madam Signe Abitsch,Undirected,1
+Dannebroge,Knud,Undirected,1
+Ann,Knud Hegelund,Undirected,1
+Barbara,Hiller —,Undirected,1
+Knud,Marie Hegelund,Undirected,1
+Knud,Madam Hegelund,Undirected,1
+Barbara,Bodil —,Undirected,1
+' Barbara,Ann,Undirected,1
+Ann,Peter,Undirected,1
+Knud,Mo,Undirected,1
+Bodil,Marie Alsinger,Undirected,1
+Gud,Povl Pry,Undirected,1
+Ann’,Bodil,Undirected,1
+Barbara,Kristen Alsinger,Undirected,1
+Karen,Kristen,Undirected,1
+Ann,Knud,Undirected,1
+Dannebroge,Kristen Alsinger,Undirected,1
+Dannebroge,Peter,Undirected,1

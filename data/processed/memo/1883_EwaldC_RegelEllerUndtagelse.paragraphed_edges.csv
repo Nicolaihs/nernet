@@ -1,0 +1,137 @@
+source,target,type,weight
+Hasse,Oxen,Undirected,1
+Hasse,Wissing,Undirected,19
+Gud,Hasse,Undirected,4
+Gud,saagar,Undirected,1
+Judas,saagar,Undirected,1
+Ellinor,Hauffs,Undirected,1
+Ellinor,Hauff,Undirected,9
+Ellinor Hauff,Hanne,Undirected,1
+Malle,Petrine,Undirected,1
+Renan,Voltaire,Undirected,1
+Rousseau,Voltaire,Undirected,1
+Hanne,Rousseau,Undirected,1
+Hanne,Hauff,Undirected,2
+Ellinor,Kvist,Undirected,12
+Hauff,Wissing,Undirected,4
+Ellinor,Wissing,Undirected,48
+Hauff,Pastor Kvist,Undirected,2
+Ewald,Lene,Undirected,1
+Ellinor,Hanne,Undirected,8
+Hauff,Kvist,Undirected,3
+Kvist,Wissing,Undirected,7
+Oluf,hnn,Undirected,1
+Ellinor,Oluf,Undirected,1
+Ellinor,Hasse,Undirected,14
+Ellinor,paany,Undirected,1
+Ellinor,Madam Mangor,Undirected,1
+Heine,Madam Mangor,Undirected,2
+Gud,Wissing,Undirected,3
+Hanne,Kvist,Undirected,4
+Hauff,Nemesis,Undirected,1
+Gud,Nemesis,Undirected,1
+Gud,Hanne,Undirected,1
+Ewald,Hasse,Undirected,1
+Ellinor,ban,Undirected,2
+Wissing,ban,Undirected,3
+Dante,Milton,Undirected,1
+Milton,Shakespeare,Undirected,1
+Dryden,Shakespeare,Undirected,1
+Byron,Dryden,Undirected,1
+Byron,Kvist,Undirected,1
+Hans,Kvist,Undirected,1
+Moore,Pastor Kvist,Undirected,1
+Ellinor,L’,Undirected,2
+Ewald,Wissing,Undirected,2
+Møller,Wissing,Undirected,1
+Ellinor,Petersens,Undirected,1
+Fogdens,Gud,Undirected,1
+Fogdens,Jensen,Undirected,1
+Ellinor,Møller,Undirected,2
+Claussen,Møller,Undirected,1
+Ellinor,Student Funck,Undirected,1
+Claussen,Ellinor,Undirected,1
+Ellinor,Fanny,Undirected,1
+Ellinor,Madam Jensen,Undirected,3
+Fanny Petersen,Møller,Undirected,1
+Frøken Hauff,Funck,Undirected,1
+Ellinor,chacun,Undirected,1
+Frøken Petersen,Mama,Undirected,1
+Clausen,Funck,Undirected,1
+Claussen,Wissing,Undirected,2
+Funck,Wissing,Undirected,5
+Ellinor,Funck,Undirected,1
+Funck,Madam Jensen,Undirected,1
+Madam Jensen,Wissing,Undirected,7
+Ellinor Hauff,Funck,Undirected,1
+Ellinor,Raahed,Undirected,1
+Hasse,Hassing,Undirected,1
+Gud,lille Hasse,Undirected,1
+Burnus,Hasse,Undirected,2
+Ellinor,puck,Undirected,1
+Wissing,puck,Undirected,1
+Papa,Wissing,Undirected,1
+Mama,Papa,Undirected,1
+Anna,Josephine,Undirected,6
+Anna Askepot,Josephine,Undirected,1
+Josephine,Mama,Undirected,1
+Ellinor,Mama,Undirected,1
+Hasse,Josephine,Undirected,4
+Borch,Ellinor,Undirected,1
+Milo,Venus,Undirected,1
+Annita,Raphaela,Undirected,1
+Hasse,ban,Undirected,1
+Josephine,Wissing,Undirected,2
+Ellinor,Josephine,Undirected,1
+Kvist,else,Undirected,1
+Hasse,else,Undirected,1
+Hasse,Hasse paany,Undirected,1
+Ellinor,Hasse paany,Undirected,1
+Hanne,Wissing,Undirected,1
+Gud,Hauff,Undirected,1
+Sorn,Wissing,Undirected,1
+Sorn,f.,Undirected,1
+Hauff,f.,Undirected,1
+Gud,véd,Undirected,1
+Ellinor Hauff,Wissing,Undirected,2
+Frøken Petersen,Møller,Undirected,1
+Alan,Wissing,Undirected,1
+L’,Wissing,Undirected,1
+Frøken Hauff,Gud,Undirected,1
+Hasse,Kvist,Undirected,1
+Dumaa,Ellinor,Undirected,1
+Ellinor,Gud,Undirected,5
+Kirkefaar,Madam Jensen,Undirected,1
+Wissing,dei,Undirected,1
+Alands,Hasse,Undirected,1
+Alands,Wissing,Undirected,1
+Josephine,blaa,Undirected,1
+Aland,Josephine,Undirected,1
+Aland,Frøken Ha ufi,Undirected,1
+Ellinor,Madam,Undirected,1
+Ellinor,Ewald,Undirected,2
+Aladam Jensen,Ellinor,Undirected,2
+Aland,Ellinor,Undirected,2
+Chicane,Ellinor,Undirected,1
+Ellinor,Holm,Undirected,1
+Ellinoi,Wissing,Undirected,1
+Ellinor,Madam Malmgren,Undirected,3
+Alan,Gud,Undirected,1
+Gud,Johanne,Undirected,1
+Ellinor,Frøken Hauff,Undirected,1
+Ewald-,Frøken Hauff,Undirected,1
+Arilds,Oluf,Undirected,1
+Gud,Oluf,Undirected,1
+Ellinor,Kjære,Undirected,1
+Ellinor,Pastor Kvist,Undirected,1
+Clausen,Sands,Undirected,1
+AVissing,Ellinor,Undirected,1
+Ellinor,lian,Undirected,1
+Gud,Kristus,Undirected,1
+Jesu,Kristus,Undirected,1
+Ellinor,hnn,Undirected,1
+Kvist,Pastor Holm,Undirected,1
+Ewald,Holm,Undirected,1
+Gud,Holm,Undirected,1
+Holm,Kvist,Undirected,1
+Kvist,Luther,Undirected,1

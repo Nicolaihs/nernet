@@ -1,0 +1,281 @@
+source,target,type,weight
+Frøken Lyng,Thalia,Undirected,1
+Adam,Ranka,Undirected,1
+Adam,Eva,Undirected,1
+Esther,Eva,Undirected,1
+Esther,Ranka,Undirected,52
+Piessen,Ranka,Undirected,1
+Marie Hansen,Piessen,Undirected,1
+Hansen,Marie Hansen,Undirected,1
+Hansen,Marie,Undirected,1
+Lyng,Marie,Undirected,1
+Esther,Hansen,Undirected,1
+Hansen,Lund,Undirected,1
+Ferdinand Ludvig v. Piessen,Ferdinand Ludvig v. Plessen,Undirected,1
+Ferdinand Ludvig v. Plessen,Ranka,Undirected,1
+Lund,v. Piessen,Undirected,1
+Honoratiores,Lund,Undirected,1
+Hansen,Honoratiores,Undirected,1
+Esther,Frøken Borchs,Undirected,1
+Hansen,Methusalem,Undirected,1
+Methusalem,Møllers,Undirected,1
+Harders,Møllers,Undirected,1
+Graa,Olsen,Undirected,1
+Monrads,Richards,Undirected,1
+Barfods,Richards,Undirected,1
+Esther,Esther Lyng,Undirected,3
+Esther,Gud,Undirected,18
+Aage,Ester,Undirected,1
+Gudfader,Ranka,Undirected,1
+Aage,Esther,Undirected,14
+Aladdin,Esther,Undirected,2
+Esther,Lund,Undirected,6
+Esther,sonore,Undirected,1
+Faber,Lieutenant,Undirected,1
+Faber,Ranka,Undirected,7
+Faber,Jokum.,Undirected,1
+Jokum.,Thordby,Undirected,1
+Ranka,tralala,Undirected,1
+Langballes,Ranka,Undirected,1
+Dreyers,Sivertsen,Undirected,1
+Bugge,Dreyers,Undirected,1
+Gud,Lille-Møller,Undirected,1
+Lille-Møller,Montro Camilla Langballe,Undirected,1
+Ranka,Trine,Undirected,4
+Langballes,Trine,Undirected,2
+Frøken Rankas,Trine,Undirected,1
+Frøken Rankas,Hansen,Undirected,1
+Hansen,Petersen,Undirected,1
+Olsen,Petersen,Undirected,1
+Dril,Esther,Undirected,1
+Olsen,Trine,Undirected,1
+Esther,Trine,Undirected,6
+Anckers,Frøken Borch,Undirected,1
+Gud,Ranka,Undirected,5
+Ranka,Thordby,Undirected,12
+Ranka,Ulf,Undirected,1
+Alen,Ranka,Undirected,1
+Bugge,Hastrups,Undirected,1
+Esther,Thordby,Undirected,65
+Erasmus Montanus,Thordby,Undirected,1
+Erasmus Montanus,Esther,Undirected,1
+Correggios,Esther,Undirected,1
+Mimer,Odin,Undirected,1
+Ingeborg,Odin,Undirected,1
+Esther,Newtons,Undirected,2
+Esther,Inger Marie,Undirected,1
+Esther,Rebekka,Undirected,3
+Esther,Frøken Borch,Undirected,6
+Emmy Hasler,Esther,Undirected,1
+Emmy Hasler,haldte,Undirected,1
+Esther,haldte,Undirected,1
+Emmy,Esther,Undirected,23
+Cecilie,Esther,Undirected,1
+Emmy,Frøken Borch,Undirected,1
+Frøken Borch,Lund,Undirected,1
+Esther,Evropas,Undirected,2
+Emmy,Gudfader,Undirected,1
+Esther,Flun,Undirected,1
+Martensen,Thordby,Undirected,1
+Martensen,Monrad,Undirected,1
+Esther,Monrad,Undirected,1
+Esther,Madvigs,Undirected,1
+Esther,Madvig,Undirected,2
+Esther,Gudfader,Undirected,3
+Aage,Ranka,Undirected,9
+Hiin,Ranka,Undirected,1
+Bugge,Hiin,Undirected,1
+Bugge,Esther,Undirected,1
+Andresen,Esther,Undirected,1
+Bugge,Hastrup,Undirected,1
+Bugge,Ellingsen,Undirected,1
+Ellingsen,Thordby,Undirected,1
+Lund,Thordby,Undirected,2
+Hasler,Lund,Undirected,1
+Esther,Lieutenant Faber,Undirected,1
+Esther,Flan,Undirected,2
+Lieutenant Faber,Ranka,Undirected,1
+Lisbet,Ranka,Undirected,1
+Lieutenanten,Lisbet,Undirected,1
+Lieutenanten,Ranka,Undirected,1
+Anne,hon gaaler,Undirected,1
+Frøken Emmy,Lund,Undirected,2
+Frøken Emmy,Smed Hansens,Undirected,1
+Lund,Smed Hansens,Undirected,1
+Emmy,Lille Aage,Undirected,1
+Aage,Thordby,Undirected,3
+Andresen,Thordby,Undirected,1
+Andresen,Hostrup,Undirected,1
+Faber,Hostrup,Undirected,1
+Esther,Faber,Undirected,1
+Ranka,Valse,Undirected,1
+Aage,Valse,Undirected,1
+Esther,Lieutenant,Undirected,1
+Lieutenant,Lund,Undirected,1
+Emmy,Lund,Undirected,2
+Emmy,Lieutenanten,Undirected,1
+Andresen,Lieutenanten,Undirected,1
+Andresen,Trine,Undirected,1
+Ranka,lian,Undirected,1
+Alexander,Thordby,Undirected,1
+Alexander,Cæsar,Undirected,1
+Cæsar,Homer,Undirected,1
+Homer,Virgil,Undirected,1
+Gud,Virgil,Undirected,1
+Esther,Lydia Petersen,Undirected,1
+Fru Piessens,Ranka,Undirected,1
+Faber,Thordby,Undirected,4
+Lieutenant,Thordby,Undirected,1
+Emmy,h,Undirected,1
+Ranka,h,Undirected,1
+Ranka,lille Esther,Undirected,2
+Dreyers,Esther,Undirected,1
+Gud,Thordby,Undirected,8
+Graa,Ranka Piessen,Undirected,1
+Esther,Madsen,Undirected,1
+Madsen,Nielsen,Undirected,2
+Gjæstgiver Thomsens,Nielsen,Undirected,1
+Gjæstgiver Thomsens,Thordby,Undirected,1
+Emmy,Gud,Undirected,2
+Emmy,Thordby,Undirected,3
+Lisbet,Rasmus,Undirected,1
+Jokum,Ranka,Undirected,1
+Lumbyes,Nielsen,Undirected,1
+Emmy,Lumbyes,Undirected,1
+Frøken Esther,Thordby,Undirected,1
+Jokum,Lisbet,Undirected,2
+Lisbet,Tableaux,Undirected,1
+Jensen,Sivertsen,Undirected,1
+Jensen,Sørensen,Undirected,1
+Hostrup,Sørensen,Undirected,1
+Frøken Abildgaard,Hostrup,Undirected,1
+Frøken Lyng,Ranka,Undirected,1
+Lille Aage,Ranka,Undirected,1
+Esther,Lille Aage,Undirected,1
+Don Juan,Esther,Undirected,1
+Esther,Miss Becky,Undirected,1
+Esther,Thackeray,Undirected,2
+Pitt,Thackeray,Undirected,1
+Becky,Pitt,Undirected,1
+Miss Rebekka Scharps,Tosse-Lars,Undirected,1
+Ranka,Tosse-Lars,Undirected,4
+Aage,Tosse-Lars,Undirected,1
+Pastor Mortensen,Tosse-Lars,Undirected,1
+Aage,Lars,Undirected,2
+Flun,Lars,Undirected,1
+Esther,Lars,Undirected,3
+Lars,Tosse,Undirected,1
+Esther,Thordbyes,Undirected,1
+Ranka,Thordbyes,Undirected,1
+Esther,Mortensen,Undirected,2
+Emmy,PSsther,Undirected,1
+Olaf Rye Madsen,Petersen,Undirected,1
+Emmy,Olaf Rye Madsen,Undirected,2
+Emmy,Madam Petersen,Undirected,1
+Gud,Vorherre,Undirected,1
+Esther,Olaf Rye Madsen,Undirected,1
+Emmy,Lars Peters,Undirected,1
+Lars Peters,Maren,Undirected,1
+Esther,Haydee,Undirected,3
+Esther,Juan,Undirected,1
+Esther,tom Konvolut,Undirected,1
+Esther Lyng,Thordby,Undirected,1
+Ranka,daraussen,Undirected,1
+Paul Richter,daraussen,Undirected,1
+Lisbet,Paul Richter,Undirected,1
+Papas,Ranka,Undirected,2
+Char lotte Louise Ranka,Ranka,Undirected,1
+Char lotte Louise Ranka,Piessen,Undirected,1
+Mortensen,Piessen,Undirected,1
+Paul Richter,Ranka,Undirected,5
+Ahner,Piessen,Undirected,1
+Ahner,Ranka,Undirected,1
+Olsen,Ranka,Undirected,1
+Esther,Ingemanns,Undirected,1
+Blichers,Ingemanns,Undirected,1
+Blichers,Esther,Undirected,1
+Baaden,Jesus,Undirected,1
+Mortensen,Paul Richter,Undirected,1
+Poul Møller,sigi,Undirected,1
+Esther,Poul Møller,Undirected,1
+Flan,Thordby,Undirected,1
+Lund,Per,Undirected,1
+Per,Povl,Undirected,1
+Harder,Jensen,Undirected,1
+Harder,Ranka,Undirected,1
+Kjærestens,Ranka,Undirected,1
+Esther,Kjærestens,Undirected,1
+Esther,lian,Undirected,3
+Gud,Oehlenschlægers,Undirected,1
+Olaf,Strauss,Undirected,1
+Papa,Richters,Undirected,1
+Papa,Thordby,Undirected,1
+Ranka,Richter,Undirected,2
+Bugge,Thordby,Undirected,1
+Dreyer,Esther,Undirected,1
+Mortensen,Olsen,Undirected,1
+Olsen,Skræder Sørensen,Undirected,1
+Mortensen,Pin,Undirected,1
+Gud,Mortensen,Undirected,1
+Mortensen,Thordby,Undirected,1
+Mortensen,Ranka,Undirected,1
+Kjøns,Mortensen,Undirected,1
+Kjøns,Paul,Undirected,1
+Mandkjøns,Ranka,Undirected,2
+Schak,Thordby,Undirected,1
+Schak,schakmat,Undirected,1
+Esther,Per Olsen,Undirected,1
+Olaf,Per Olsen,Undirected,1
+Dril,Esther-,Undirected,1
+Esther,Hiin,Undirected,1
+Gud,Olaf,Undirected,2
+Aage,Biehls,Undirected,1
+Biehls,Don Quixote,Undirected,1
+Don Quixote,Jemini,Undirected,1
+Schiller,Wallenstein,Undirected,1
+Emmy,Esther saa,Undirected,1
+Baggers,Thordby,Undirected,1
+Baggers,paany,Undirected,1
+Abrahams,Bagger,Undirected,1
+Bagger,Thordby,Undirected,1
+Esther,Valdemar Atterdags,Undirected,1
+Edda,Thordby,Undirected,1
+Gudrun,Sigurds,Undirected,2
+Gudrun,Jarlers,Undirected,1
+Bravo,bravo,Undirected,1
+Esther,Olaf,Undirected,1
+Per Buils,Thordby,Undirected,2
+Straa,Thordby,Undirected,1
+Per Buils,Straa,Undirected,1
+Per Bulis,Thordby,Undirected,1
+Dons,Thordby,Undirected,1
+Esther,Jomfru Bagger,Undirected,1
+Jemini,Jomfru Bagger,Undirected,1
+Esther,Jemini,Undirected,1
+Mama,saaden,Undirected,1
+Mama,Povl,Undirected,2
+Mama,Paul,Undirected,1
+Papa,Paul,Undirected,1
+Gud,Papa,Undirected,1
+Gud,Mama,Undirected,1
+Aage,Mama,Undirected,1
+Esther,Ranka v.,Undirected,1
+Edgar,Flvile,Undirected,1
+Edgar,Esther,Undirected,1
+Edgar,Flun,Undirected,1
+Esther Lyngi Esther Lyng,Flun,Undirected,1
+Esther Lyng,Esther Lyngi Esther Lyng,Undirected,1
+Esther,P'aderløs,Undirected,1
+Gud,P'aderløs,Undirected,1
+Braadden,Gud,Undirected,1
+Davids,Thordby,Undirected,1
+Davids,Gud,Undirected,1
+Gud,grant,Undirected,1
+Thordby,grant,Undirected,1
+Gud,d,Undirected,2
+Jesus,Lille Aage,Undirected,1
+Aage,Jesus,Undirected,1
+Himmeriges,Lund,Undirected,1
+Gud,liun,Undirected,1
+Moder,Ranka,Undirected,1
+Aage,Gudfader,Undirected,1

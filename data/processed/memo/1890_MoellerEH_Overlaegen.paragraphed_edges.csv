@@ -1,0 +1,35 @@
+source,target,type,weight
+Beethoven,Mozart,Undirected,2
+Beethoven,Kommandantens,Undirected,1
+Don Juan,Kommandantens,Undirected,1
+Di,finirai pria dell,Undirected,1
+Hansen,Pralhans,Undirected,1
+Bratschen,Hansen,Undirected,1
+B,Hansen,Undirected,1
+B,Beethoven,Undirected,1
+Beethoven,Hansen,Undirected,2
+Bratschen,Mozart,Undirected,1
+Hansen,Mozart,Undirected,1
+Gud,Luthers,Undirected,1
+Hansen,Kong Salomon,Undirected,2
+Carl,Hansen,Undirected,1
+Christian,Erik,Undirected,1
+Carl,Christian,Undirected,1
+Adeliges,Carl,Undirected,2
+Carl,Ulrik,Undirected,1
+Hans,Ulrik,Undirected,1
+Carl,Hans,Undirected,1
+Carl,Carl N.,Undirected,1
+Gud,Hansen,Undirected,1
+Christus Jesus,Gud,Undirected,1
+E. Sk,Marie,Undirected,1
+Asen,Marie,Undirected,1
+Gud,Marie,Undirected,2
+Hansen,Marie,Undirected,6
+Marie,Stefanus,Undirected,1
+Lo Spasimo di Sicilia,Marie,Undirected,1
+Gud,Paulus,Undirected,1
+Abrahams,Lazarus,Undirected,1
+Marie,freidig,Undirected,1
+Christen,Svend,Undirected,1
+N.,N. Regiment,Undirected,1

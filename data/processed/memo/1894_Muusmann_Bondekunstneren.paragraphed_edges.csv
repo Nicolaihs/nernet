@@ -1,0 +1,79 @@
+source,target,type,weight
+Jens,Marie,Undirected,7
+Greven,Jens,Undirected,3
+Inger Kathrine,Jens,Undirected,3
+Jens,Kathrine,Undirected,1
+Greven,Henriksen,Undirected,1
+Greven,lille Jens,Undirected,1
+Inger Kathrine,Madam Falk,Undirected,1
+Jens,Jens’,Undirected,1
+Jens,Madam Falk,Undirected,2
+Falk,lian,Undirected,1
+Bissen,Schou,Undirected,1
+Falk,Schou,Undirected,2
+Falk,Karl,Undirected,1
+Falk,Marie,Undirected,6
+Falk,ban,Undirected,2
+Aage Holm,Falk,Undirected,4
+Falk,for-Holm,Undirected,1
+Falk,Holm,Undirected,18
+Falk,Greven,Undirected,1
+Falk,Praxis,Undirected,1
+Falk,Krog,Undirected,4
+Falk,kouleurt Creton,Undirected,1
+Falk,Jeanne d’,Undirected,1
+Aage Holm,Kafeen,Undirected,1
+Falk,Guldbrandsen,Undirected,12
+Guldbrandsen,Jmn,Undirected,1
+Falk,Frøken Graa,Undirected,4
+Frøken Graa,Guldbrandsen,Undirected,3
+Frøken Graa,Hr. -Falk,Undirected,1
+Falk,Graa,Undirected,2
+Ellen Graas,Falk,Undirected,1
+Guldbrandsen,Vermouth,Undirected,1
+Falk,Vermouth,Undirected,1
+Ellen Graa,Falk,Undirected,3
+Frøken Graa,u Falk,Undirected,1
+Aage Holm,Holm,Undirected,1
+Fritz,Holm,Undirected,1
+Falk,Fritz Dahl,Undirected,1
+Aage Holm,Dahl,Undirected,1
+Dahl,Holm,Undirected,10
+Aage Holm,Kong Christian,Undirected,1
+Dahl,Guldbrandsen,Undirected,5
+Boulanger,Guldbrandsen,Undirected,1
+Guldbrandsen,Holm,Undirected,4
+Boulanger,Holm,Undirected,2
+Boulanger,Falk,Undirected,1
+Dahl,Falk,Undirected,3
+Dahl,hinandejn,Undirected,1
+Dahl,Frøken Graa,Undirected,3
+Frøken Graa,Holm,Undirected,1
+Dahl,capo,Undirected,1
+Dahl,Sophaen,Undirected,1
+Dahl,Ellen Graa,Undirected,2
+Graa,Humeur,Undirected,1
+Holm,Lanciers,Undirected,1
+Falk,Gud,Undirected,1
+Gud,Peer Gynt,Undirected,1
+Boulanger,prange,Undirected,1
+Boulanger,Napoleon,Undirected,1
+Christian Winther,Ingemann,Undirected,1
+Dahl,Graa,Undirected,2
+Ellen Graa,Holm,Undirected,1
+Holm,tøan,Undirected,1
+Frøken Graa,Krog,Undirected,1
+Carnot,liam,Undirected,1
+Holm,valen Villie,Undirected,1
+Dahis,Guldbrandsen,Undirected,1
+Falk,livor,Undirected,1
+Marie,paany,Undirected,1
+Holm,Marie,Undirected,2
+Dahl,Marie,Undirected,1
+Holm,istaa,Undirected,1
+Marie,Taus,Undirected,1
+Ellen Graa,Taus,Undirected,1
+Holm,Napoleon den Tredies,Undirected,1
+Fru Falk,Holm,Undirected,1
+Holm,Niels,Undirected,1
+Hys,Jens,Undirected,1

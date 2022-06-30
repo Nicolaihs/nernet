@@ -1,0 +1,147 @@
+source,target,type,weight
+Kudsk,Madam Larsen,Undirected,1
+Emil Larsen,hiin,Undirected,1
+Emil Larsen,Guds,Undirected,1
+Jensen,Marthe,Undirected,1
+Damasf,Ole,Undirected,1
+Emil,Ernst Larsen,Undirected,1
+Ernst,Ernst Larsen,Undirected,1
+Else,Emil Larsen,Undirected,2
+Else,Ernst,Undirected,4
+Else,Emil,Undirected,7
+Else,Jørgen Lind,Undirected,1
+Ernst,Jørgen Lind,Undirected,2
+Ernst,skip,Undirected,1
+Emil,hnn,Undirected,1
+Dn,Else,Undirected,1
+Else,Jørgen,Undirected,9
+Else,somme,Undirected,1
+Ceilon,Else,Undirected,1
+Jørgen,lille Else,Undirected,1
+Guds,Jørgen,Undirected,2
+Else,Guds,Undirected,1
+Gud,Jørgen,Undirected,4
+Ernst,Gud,Undirected,3
+Jørgen Lind,hiin,Undirected,1
+Emil,Jørgen,Undirected,9
+hiin,iland,Undirected,2
+Jørgen,iland,Undirected,2
+Jørgen,hnn,Undirected,2
+Fregatten,hnn,Undirected,1
+Else,Fregatten,Undirected,1
+Bo sor,hiin,Undirected,1
+Elfe,Jørgen,Undirected,2
+Elfe,Emil,Undirected,1
+Emil,Jørgen Lind,Undirected,2
+Ernst,ester,Undirected,1
+Jørgen,Jørgen Lind,Undirected,1
+Jørgen,Vilkens,Undirected,2
+Ernst,Madses,Undirected,1
+Emil,Ernst,Undirected,11
+Emil,Oscar Bevern,Undirected,1
+Ernst,Tambour,Undirected,1
+Emil,Tambour,Undirected,1
+Ernst,Onkels,Undirected,1
+Ernst,stig,Undirected,1
+Ernst,hiin,Undirected,4
+Emil Larsen,Ernst,Undirected,1
+Else,Steen,Undirected,1
+Ernst,Steen,Undirected,2
+Ernst,Hille,Undirected,1
+Emil,Gud,Undirected,3
+Emil,Tordenskjold,Undirected,1
+Emil,Jøsses,Undirected,1
+Jørgen,tans,Undirected,2
+Ernst,Nissen,Undirected,1
+Erik,Jørgen,Undirected,1
+Bønhas,Erik,Undirected,1
+Bønhas,Jørgen,Undirected,1
+Else,hiin,Undirected,1
+Jørgen,hiin,Undirected,1
+Emil,hiin,Undirected,2
+Jørgen,Onkel,Undirected,1
+Jørgen,ask,Undirected,1
+Elfe,ask,Undirected,1
+Berdens,Offe,Undirected,1
+Jørgen,Offe,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Gud,conftrmeres,Undirected,1
+Judas Jskariotes,conftrmeres,Undirected,1
+Gud,grant,Undirected,2
+Jesus,Judas,Undirected,1
+Jesu,Jesus,Undirected,1
+Jesu,Judas,Undirected,3
+Jesu,Lazarus,Undirected,1
+Gud,Lazarus,Undirected,4
+Larsen,Oscar,Undirected,1
+Larsen,Ma -,Undirected,1
+Ma -,jestæts,Undirected,1
+Emil,Oscar,Undirected,2
+Emil Larsen,Oscar,Undirected,1
+Oscar,Øe,Undirected,2
+Lakrits,Punsch,Undirected,1
+Emil Larsen,Oscar Bevern,Undirected,1
+Oscar,Roes,Undirected,1
+Elfe,Jørgen Lind,Undirected,1
+Elfe,Oscar,Undirected,1
+Jørgen,Oscar,Undirected,3
+Else,hnn,Undirected,1
+Else,Mariner,Undirected,1
+Bevern,Else,Undirected,2
+Emil Larsen,Jørgen Lind,Undirected,1
+Jørgen,Nissen,Undirected,1
+Dn,hiin,Undirected,1
+Bevern,Emil,Undirected,1
+Emil,Frederik,Undirected,1
+Emil,Prindsen,Undirected,1
+Baron Bevern,Cavaleers,Undirected,1
+Ernst,Oscar,Undirected,4
+Dyrsen,Oscar,Undirected,1
+Bevern,Gud,Undirected,1
+Bevern,Dyrsen,Undirected,1
+Oscar,Oukel,Undirected,1
+Bisse,Oscar,Undirected,1
+Braaddcn,Gud,Undirected,1
+Gud,Øe,Undirected,1
+Steen,hiin,Undirected,1
+Gud,Oscar,Undirected,4
+Christi,Oscar,Undirected,1
+Capitain Larsen,Compassefs,Undirected,1
+Compassefs,knnses,Undirected,1
+Hr. Larsen,hiin,Undirected,1
+Lazarus,Oscar,Undirected,1
+Gud,Jesu,Undirected,1
+Ernst,Sophie Nissen,Undirected,1
+Emil,lee,Undirected,1
+Else,Sophie,Undirected,4
+Bevern,Larsen,Undirected,1
+Emil,Øe,Undirected,1
+Gud,Sophie,Undirected,2
+Oscar,jusf,Undirected,1
+Emil,jusf,Undirected,1
+Emil,Sophie,Undirected,1
+Sophie,ask,Undirected,1
+-eg,ask,Undirected,1
+Dyrsen,Gud,Undirected,1
+Emil,Lieutenant Larsen,Undirected,2
+Dyrsfns,Lieutenant Larsen,Undirected,1
+Dyrsen,Lieutenant Larsen,Undirected,1
+Dyrsen,Jørgen Lind,Undirected,1
+Jørgen Lind,Sophie,Undirected,1
+Jørgen,Sophie,Undirected,1
+Børgens,Emil,Undirected,1
+Børgens,Sophie,Undirected,1
+Elfe,Gud,Undirected,1
+Oscar,Sophie,Undirected,2
+Onkel,Oscar,Undirected,1
+Andients,hiin,Undirected,1
+Lieutenanten,hiin,Undirected,1
+Baron Bevern,Lieutenant Larsen,Undirected,1
+Gud,Gustav,Undirected,2
+Carl den Trettende,Gustav,Undirected,1
+Grev Platen,Oscar,Undirected,1
+Grev Platen,Lieutenant Staal,Undirected,1
+Jørgen Lind,Oscar,Undirected,1
+Villum,ask,Undirected,1
+Ernst,Oscar Bevern,Undirected,1
+Oscar Bevern,Prindsen,Undirected,1

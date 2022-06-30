@@ -1,0 +1,322 @@
+source,target,type,weight
+Louis XV,Vang,Undirected,1
+Liscia,praeter plura,Undirected,1
+Chr.,Liscia,Undirected,1
+Liscia,L’,Undirected,1
+L’,hombre,Undirected,1
+Zola,hombre,Undirected,1
+Liscia,Zola,Undirected,1
+Gud,Liscia,Undirected,1
+Gud,Margaux,Undirected,1
+Liscia,Margaux,Undirected,1
+Liscia,Vang,Undirected,1
+Servanten,Vilhelm,Undirected,1
+Vang,Vilhelm,Undirected,5
+J,Vang,Undirected,2
+Vilhelm,Vilhelm Vang,Undirected,8
+Vilhelm,lille Liscia,Undirected,2
+Gud,Vilhelm,Undirected,2
+Goethe,Vilhelm,Undirected,1
+Goethe,Schiller,Undirected,1
+Lamartine,Schiller,Undirected,1
+Lamartine,Victor Hugo,Undirected,1
+Liscia,Vilhelm,Undirected,3
+Vilhelm Vang,s,Undirected,1
+Krølhaars,Vilhelm Vang,Undirected,1
+Julius Dann,Povl Tode,Undirected,9
+Dann,Vilhelm Vang,Undirected,4
+Dann,Povl. Tode,Undirected,1
+Povl. Tode,Tode,Undirected,1
+Tode,Vilhelm Vang,Undirected,13
+Hr. Todes,Vilhelm Vang,Undirected,2
+Alexander den,Aristoteles,Undirected,1
+Alexander den,Karl,Undirected,1
+Halling,Karl,Undirected,1
+Halling,Tobisens,Undirected,1
+Julius Dann,Tobisens,Undirected,1
+Povl Tode,Vilhelm Vang,Undirected,3
+Dann,Tode,Undirected,39
+Vang,Vilhelm Vang,Undirected,3
+Dann,Tode os,Undirected,1
+Dann,Hr. Vang,Undirected,2
+Dann,Vilhelm,Undirected,6
+Dann,Gine,Undirected,2
+Julius Dann,Tode,Undirected,3
+JeS,juris.,Undirected,1
+Povl Tode,per didis,Undirected,1
+Hr. Vang,Julius Dann,Undirected,1
+Dann,Vang,Undirected,5
+Dann,Skaal,Undirected,2
+Jolle,Polle,Undirected,1
+Hr. Vang,Jolle,Undirected,1
+Hr. Vang,Tode,Undirected,1
+Tode,Vang,Undirected,3
+Hr. Dann,Tode,Undirected,1
+Dann,Jolle,Undirected,1
+Jolle,hanses,Undirected,1
+Dann,hanses,Undirected,1
+Gud,Tode,Undirected,1
+Aristoteles,Julius Dann,Undirected,1
+Aristoteles,Halling,Undirected,2
+Dann,dent Tode,Undirected,1
+Suzon,Therese,Undirected,1
+Dann,Susse,Undirected,1
+Dann,juris Anonymus,Undirected,1
+Jensen,juris Anonymus,Undirected,1
+Dann,Susanne,Undirected,4
+Tokajer,Vang,Undirected,1
+Julius,Vilhelm Vang,Undirected,2
+Julius Dann,Vilhelm,Undirected,2
+Julius Dann,Vang,Undirected,1
+Dann,Julius Dann,Undirected,1
+Gud,Susanne,Undirected,2
+Susanne,Vilhelm,Undirected,8
+Madam Jensen,Susanne,Undirected,12
+Madam Jensen,Vilhelm,Undirected,3
+Mechte,etwas,Undirected,1
+Lene,etwas,Undirected,1
+Susanne,butO,Undirected,1
+J,Vilhelm,Undirected,1
+Saxen,Throne,Undirected,1
+Filister,Vang,Undirected,2
+Konferensraad Vangs,Timbre,Undirected,1
+Vilhelm,Villy,Undirected,4
+Konferensraad Vangs,Vilhelm,Undirected,1
+Jesper Ridefoged,Per Degn,Undirected,1
+Jesper Ridefoged,Per,Undirected,1
+Jesper,Per,Undirected,1
+Dantons,Villy,Undirected,1
+Dantons,Hamlet,Undirected,1
+Hamlet,Villy,Undirected,1
+Konferensraad Vangs,Susanne,Undirected,1
+Konferensraad Vangs,Vang,Undirected,1
+Ludolf,Susanne,Undirected,1
+Pappa,Sapristi,Undirected,1
+Mamma,Susanne,Undirected,4
+Schmatter,mich,Undirected,1
+Suzon,sodan,Undirected,1
+dich,sodan,Undirected,1
+Alions,dich,Undirected,1
+Alions,Madam Jensen,Undirected,1
+Suzon,Suzon barsens,Undirected,1
+Beddersens,Madam Jensen,Undirected,1
+Beddersens,Pappa,Undirected,1
+Pappa,tom,Undirected,1
+Wind,tom,Undirected,1
+Huri,Susanne,Undirected,1
+Erfahrung,dich,Undirected,1
+Madam Jensen,ferstaar,Undirected,1
+Susanne,ferstaar,Undirected,1
+Pludren,Susanne,Undirected,1
+Madam Jensen,Pludren,Undirected,1
+dich,mich immer,Undirected,1
+Suzoh,dich,Undirected,1
+Dinge,sodann,Undirected,1
+Suzon,schnavs,Undirected,1
+Mamma,Suzon,Undirected,2
+Jensen,pauvre,Undirected,1
+Suzon,pauvre,Undirected,1
+Graad,Madam Jensen,Undirected,1
+Mamma,Pappa,Undirected,1
+Madam Jensen,temoin,Undirected,1
+Dann,Mamma,Undirected,1
+Hr. Dann,Mamma,Undirected,1
+Hr. Dann,Susanne,Undirected,1
+Konferenzrath Vangs,mein Gott,Undirected,1
+Madam Jensen,schmitter,Undirected,1
+Susanne,tom,Undirected,1
+Vilhelm Vang,tom,Undirected,1
+Vilhelm Vang,gote,Undirected,1
+Pappa,gote,Undirected,1
+Pappa,Suzon,Undirected,3
+Chut,Suzon,Undirected,1
+Mamma,Nikolajsens,Undirected,1
+Paulus,Stine,Undirected,1
+Jensen,Susanne,Undirected,2
+Dann,nte,Undirected,1
+Karl Peter Jensen,Susanne,Undirected,1
+Celestine,Karl Peter Jensen,Undirected,1
+Susanne,voxen,Undirected,1
+Julius Dann,Susanne,Undirected,2
+Platons,Sofokles,Undirected,1
+Kong Lear,Platons,Undirected,1
+Heises,Platon,Undirected,1
+Foersoms,Heises,Undirected,1
+Liscia,Villy,Undirected,1
+Liscia,frascati,Undirected,1
+Kusk,frascati,Undirected,1
+Platon,Sokrates,Undirected,1
+Platon,Vilhelm,Undirected,1
+Kaptejns,Vilhelm Vang,Undirected,1
+Estrup,Greene,Undirected,1
+Vilhelm,bæve,Undirected,1
+Michel Angelos,Vilhelm,Undirected,2
+Aagerkarle,Villy,Undirected,1
+Susanne,Villy,Undirected,2
+Brandes,Marie Grubbe,Undirected,1
+Brandes,George Sand,Undirected,1
+George Sand,Niels Møllers,Undirected,1
+Niels Møllers,Vilhelm,Undirected,1
+Emilius Dann,Tode,Undirected,2
+Dann,Niels Dann,Undirected,1
+Emilius,Æmilius Paulus,Undirected,2
+Emilius,Vurste,Undirected,1
+Dann,Emilius Dann,Undirected,1
+Emilius,Svend,Undirected,1
+Niels,Svend,Undirected,1
+Emilius,Niels,Undirected,1
+Niels Dann,hans Emilius,Undirected,1
+Emilius Dann,taalte,Undirected,1
+Julius,taalte,Undirected,1
+Asta,Julius,Undirected,5
+Dann,Julius,Undirected,3
+Dann,Kaaring,Undirected,1
+Emilius Dann,Jaquette,Undirected,1
+Julius,Povl Tode,Undirected,7
+Julius,Povl,Undirected,4
+Biem,Vang,Undirected,1
+Susanne,Vilhelm Vang,Undirected,13
+Madam Jensen,gommer,Undirected,1
+Jensen,Joner,Undirected,1
+Madam Jensen,Vang,Undirected,1
+verschwinde,zanne,Undirected,1
+Madam Jensen,Pappa,Undirected,1
+Madam Jensen,Vilhelm Vang,Undirected,3
+Parlez Monsieur,Vilhelm Vang,Undirected,1
+Gott,Madam Jensen,Undirected,1
+Ach,Gott,Undirected,1
+Mamma,Papa,Undirected,1
+Papa,Suzon,Undirected,1
+Susanne,Vang,Undirected,5
+Madam O,Vilhelm Vang,Undirected,1
+,Madam O,Undirected,1
+dich,sodanne Foreltres,Undirected,1
+Susanne,mir nichts,Undirected,1
+Hr. Vang,Susanne,Undirected,2
+Susanne Jensen,Vilhelm Vang,Undirected,1
+Stefan à,Tode,Undirected,1
+Svend,Tode,Undirected,1
+Dann,Svend,Undirected,2
+Dann,Moses,Undirected,1
+Jahve,Moses,Undirected,1
+Dann,Jahve,Undirected,1
+Borring,littéraires,Undirected,1
+Borring,Prosper Mérimées,Undirected,2
+Borring,Gregersens,Undirected,1
+Dann,Petersen,Undirected,1
+Gud,véd,Undirected,2
+Madam Svalmstrup,Susanne,Undirected,9
+Gud,Hr. Dann,Undirected,1
+Hr. Dann,Hr. Vank,Undirected,1
+Gud,vorausgesetzt,Undirected,1
+Julius Dann,véd,Undirected,1
+Gud,Povl Tode,Undirected,1
+Elohim,Vilhelm Vang,Undirected,1
+Madam Svalmstrup,Susanne Kaabe,Undirected,1
+Boa,Susanne Kaabe,Undirected,1
+Boa,Kaaben,Undirected,1
+Boaen,Kaaben,Undirected,1
+Karl,Vilhelm,Undirected,1
+Carl Baggers,Karl,Undirected,1
+Boa,Susanne,Undirected,1
+Boa,Hagen,Undirected,1
+Goethe,Povl Tode,Undirected,1
+Ekko,Vilhelm Vang,Undirected,1
+Suzon,Vilhelm Vang,Undirected,1
+Droschken,Vilhelm,Undirected,1
+Kavajs,Susanne,Undirected,1
+Frederik VPs,Susaane,Undirected,1
+Susanne,hellens,Undirected,1
+Kjør,Vilhelm Vang,Undirected,1
+Graad,Susanne,Undirected,1
+Kristian IVdes,Villy,Undirected,1
+Dann R.,Kristian IVdes,Undirected,1
+Dann R.,juris,Undirected,1
+Vang,juris,Undirected,1
+Dann,Liscia,Undirected,1
+Baldurs,Villy,Undirected,1
+Baldurs,Vilhelm,Undirected,1
+Julius,Susanne,Undirected,2
+Jolle,Tode,Undirected,1
+Tode,Vilhelm,Undirected,1
+Asta Dann,Hr. Vang,Undirected,1
+Asta Dann,Vilhelm,Undirected,3
+Ein frommer Knecht war Fridolin,von Savern,Undirected,1
+Hr. Vang,Vilhelm,Undirected,1
+Asta Dann,Vilhelm Vang,Undirected,1
+Julius,Tode,Undirected,1
+Povl Tode,Vilhelm,Undirected,2
+Dann,Lille Asta,Undirected,1
+Asta,Dann,Undirected,6
+Asta,Vilhelm,Undirected,13
+Asta Dann,Susanne,Undirected,1
+Asta,Vilhelm Vang,Undirected,6
+Absalon,Knud den,Undirected,1
+Absalon,Kristian den,Undirected,1
+Julius Dann,Vilhelm Vang,Undirected,2
+,Asta,Undirected,1
+"Povl,-",Tode,Undirected,1
+Asta,Tode,Undirected,4
+Tode,Vilhelm ,Undirected,1
+,Julius,Undirected,1
+,Povl,Undirected,1
+Hr. Vang,Vilhem Vang,Undirected,1
+Dann,Vilhem Vang,Undirected,1
+Asta,nte,Undirected,1
+Asta,Hr. Vang,Undirected,2
+Povl Tode,miri,Undirected,1
+Dann,Jubilarens,Undirected,1
+Applavs,Dann,Undirected,1
+Dann,Lem,Undirected,2
+Lem,Tode,Undirected,1
+Asta Dann,Dann,Undirected,1
+Asta,Satan,Undirected,2
+Asta,Vang,Undirected,1
+Halling,Mo,Undirected,1
+Julie,Romeo,Undirected,1
+Julie,Rosalinde,Undirected,2
+Rosalinde,Vilhelm,Undirected,1
+JeS,Vilhelm,Undirected,1
+Liscia,Madam Jensen,Undirected,1
+Konferensraad Vang,Vilhelm,Undirected,1
+Kierkegaard,Mynster,Undirected,1
+Dann,Mesters,Undirected,1
+Mesters,Vilhelm,Undirected,1
+Tode,vos,Undirected,1
+Dann,vos,Undirected,1
+Dann,Gud,Undirected,2
+Emilius Dann,Gud,Undirected,1
+Bonjours,Dann,Undirected,1
+Carlo o o,Vilhelm,Undirected,1
+Carlo o o,Ridolfis,Undirected,1
+Frans I,Karl V,Undirected,1
+Frans I,Sultan Soliman,Undirected,1
+Gyldenhaar,Palma vecchios,Undirected,1
+Palma vecchios,Vilhelm Vang,Undirected,1
+Kong Hans,Villy,Undirected,1
+Marino Falieri,Villy,Undirected,1
+Paolo Veronese,Vang,Undirected,1
+Dann,Villy,Undirected,1
+Galahat,Gud,Undirected,1
+Arilds,Vilhelm,Undirected,1
+Tizian,Vilhelm,Undirected,1
+Tintoretto,Tizian,Undirected,1
+Paolo Cagliari,Tintoretto,Undirected,1
+Paolo Cagliari,Vilhelm,Undirected,1
+Kaalund,Rosenolje,Undirected,1
+Rosenolje,Vilhelm,Undirected,1
+Vang,Villy,Undirected,1
+Paolo Veronese,Vilhelm Vang,Undirected,1
+Asta,Kristus,Undirected,1
+Kristus,Viola,Undirected,1
+Magdalene,Viola,Undirected,1
+Asta,Vilhelm lo,Undirected,1
+Magdalenas,Tizian,Undirected,2
+Eleonora,Tycho Brahe forvist,Undirected,1
+Eleonora,Steffens,Undirected,1
+Frederik VI,Steffens,Undirected,1
+Frederik VI,Hrolf Krake,Undirected,1
+Bødvar Bjarke,Hrolf Krake,Undirected,1
+Bødvar Bjarke,Hjalte,Undirected,1
+Aristoteles,Platon,Undirected,1
+Benvenuto Cellini,Goethe,Undirected,1

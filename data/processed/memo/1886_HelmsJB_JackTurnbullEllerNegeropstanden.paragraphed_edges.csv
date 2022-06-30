@@ -1,0 +1,278 @@
+source,target,type,weight
+Hr. Kaptain,Thad,Undirected,2
+Balthasar,Thad,Undirected,1
+Løitnant Henry,Thaddæus,Undirected,1
+Sergeant Thaddæus,Thad,Undirected,1
+Jack Turnbull,Sergeant Thaddæus,Undirected,1
+Polinak,Thaddæus,Undirected,2
+Jack Turnbull,Polinak,Undirected,1
+Malagride,Thaddæus,Undirected,1
+Sergeantens,Thaddæus,Undirected,1
+Jacks,Mathelet,Undirected,1
+Ole,boxedes,Undirected,1
+Ole,Rafl,Undirected,1
+Rafl,Rasfs,Undirected,1
+Rasfs,as,Undirected,1
+Polinak,Sergeanten,Undirected,1
+Alfred,Paskals,Undirected,1
+Henry,Jack,Undirected,2
+Jack,Tjerri,Undirected,1
+Henry,Paskals,Undirected,1
+Jack,Polinak,Undirected,1
+Habibrah,Lord Effinghams,Undirected,1
+Dverg,Habibrah,Undirected,1
+Marie,Peinier,Undirected,1
+Maudist,Peinier,Undirected,1
+Thé,tengo,Undirected,3
+Bjelder,Habibrah,Undirected,1
+Dvergen,Habibrah,Undirected,1
+Grenadin Altorninos,rey Luis quince,Undirected,1
+Baffonade,Maria,Undirected,1
+Habribah,as,Undirected,1
+Colonien,as,Undirected,1
+Marie,Pierre flet,Undirected,2
+Marie,Pierre,Undirected,7
+Leopold,hurr,Undirected,1
+Pierre,hurr,Undirected,1
+Jack Thurnbull,Marie,Undirected,1
+Arculs,Rouvray,Undirected,1
+Herr de Touzard,Rouvray,Undirected,1
+Gouvernørens,Herr de Touzard,Undirected,1
+Brissot,Bruneau de Pomme-Gouge,Undirected,2
+Bruneau de Pomme-Gouge,Hans-,Undirected,1
+Peter Paulus,Sloane,Undirected,1
+Abbed Pietro Tamburin,Peter Paulus,Undirected,1
+Rouvrah,Valkeres,Undirected,1
+Valkeres,sor,Undirected,1
+Normandie,sor,Undirected,1
+Marschal,Normandie,Undirected,1
+Gud,Marie,Undirected,2
+Marie,Victoria,Undirected,1
+Marie,Thaddæus,Undirected,1
+Pierre,Thaddæus,Undirected,1
+Habibrah,Nars,Undirected,1
+Habibrah,Pierre,Undirected,3
+Biasson,Cap,Undirected,1
+Biasson,Dondon,Undirected,1
+Aeul,Dondon,Undirected,1
+Aeul,Jean Franyois,Undirected,1
+Bouckmann,Jean Franyois,Undirected,1
+Bouckmann,BugJargal,Undirected,1
+Biasson,Bouckmann,Undirected,2
+Biasson,Bug Jargal,Undirected,1
+Bouckmann,Bug Jargal,Undirected,1
+Maribarau,Pierre,Undirected,1
+Maribarau,Poncignons,Undirected,1
+Jargal,Poncignons,Undirected,1
+Jack Thurnbull,Jargal,Undirected,1
+Jack Thurnbull,Maribarau,Undirected,1
+Jack Thurnbull,Thaddæus,Undirected,1
+Biassou,Jack Thurnbull,Undirected,1
+Jack Tnrnbull,Klageraav,Undirected,1
+Biassou,Jack Tnrnbull,Undirected,1
+Flanuuernc,Maanelys,Undirected,1
+Biassou,Jack Turnbull,Undirected,2
+Balafo,Chicaens,Undirected,1
+Habibrah,bien,Undirected,1
+Ludvigskors,Sidin,Undirected,1
+Coulcurtc,Jean Baptiste Chavanne,Undirected,1
+Leogri,ilive,Undirected,1
+Jean Biassaus,ilive,Undirected,1
+Biassan,Jean-Francois,Undirected,1
+Obien,høi Røsf,Undirected,1
+Gideon,Gud,Undirected,1
+Gideon,Josva,Undirected,1
+Gud,Josva,Undirected,1
+Biassaus,Marie,Undirected,1
+Marie,Nantes,Undirected,1
+Biassaus,Obieu,Undirected,1
+Biassaus,Diaconus,Undirected,1
+Diaconus,Obien,Undirected,1
+Gud,Obien,Undirected,1
+Biassous Sauvegarde,Gud,Undirected,1
+Fransf,Obien,Undirected,1
+Biassau,gregormnsfe,Undirected,1
+Calender,gregormnsfe,Undirected,1
+Calender,Capellan,Undirected,1
+Alectos,Biasson,Undirected,1
+Biassou,ban,Undirected,1
+Biassau,ban,Undirected,1
+Biassau,Fleie Negerinder,Undirected,1
+Jean Frangois,Rigaud,Undirected,1
+Bouckmann,Jean Frangois,Undirected,1
+Biassau,Biassou,Undirected,1
+Biassau,Rigaud,Undirected,2
+Bouckmann,Rigaud,Undirected,1
+Jack Thurnbull,fom,Undirected,1
+Morne-Rouge,fom,Undirected,1
+Jack Thurnbull,MorneRouge,Undirected,1
+MorneRouge,Obien,Undirected,1
+Fatras,Obien,Undirected,1
+Enøiedes,Obien,Undirected,1
+Jean Franyois,smelder Jean Biassou,Undirected,1
+Bouckmann,cr,Undirected,1
+Touzards,cr,Undirected,1
+Obien,Salomon,Undirected,1
+Eleazar Thaldb,Salomon,Undirected,1
+Cardan,Eleazar Thaldb,Undirected,1
+Cardan,Judas,Undirected,1
+Bowtharicht,Judas,Undirected,1
+Averroes,Bowtharicht,Undirected,1
+Albert den Store,Averroes,Undirected,1
+Albert den Store,"Bohabdil,",Undirected,1
+"Bohabdil,",Jean de Hagen,Undirected,1
+Anna Baratro,Jean de Hagen,Undirected,1
+Anna Baratro,Daniel Ogrumos,Undirected,1
+Daniel Ogrumos,Rachel Flintz,Undirected,1
+Altornino,Rachel Flintz,Undirected,1
+Altornino,Bouckmann,Undirected,1
+Hr. Capellan,Jean Biasson,Undirected,1
+Biassou,Obien,Undirected,5
+Eleazar Thaleb,Rachel Flintz,Undirected,1
+Biassøu,Obien,Undirected,1
+Bouckmann,Obien,Undirected,1
+Biassou,Bouckmann,Undirected,2
+Obien,Rigaud,Undirected,3
+Biassou,Rigaud,Undirected,4
+Adjutant,Rigaud,Undirected,1
+Adjutant,Biassou,Undirected,1
+Bouckmann,franste,Undirected,1
+Albuen,Biassou,Undirected,1
+Jaequs,Jean Biassou,Undirected,1
+Jacques,Jaequs,Undirected,1
+Bclin,Jacques,Undirected,1
+Biassou,Jacques Belin,Undirected,1
+Rigaud,salig Bouckmann,Undirected,1
+Biassou,Jacobu,Undirected,1
+Massaus,Negrophilen,Undirected,1
+Bruneau de Pomme-Gouge,Magaw,Undirected,1
+Magaw,Peter Paulus,Undirected,1
+Abbed Tamburini,Peter Paulus,Undirected,1
+C,Obien,Undirected,1
+Mirabeau,Raynal,Undirected,1
+Biassou,Hr. Philosoph,Undirected,1
+Biassou,Karl,Undirected,1
+Dolken,sorn,Undirected,1
+Biassou,Dolken,Undirected,1
+Biassou,Nigaud,Undirected,1
+Nigaud,eludcre,Undirected,1
+Bouckmann,ilaas,Undirected,1
+Biasson,Rigaud,Undirected,2
+Biasson,Obi,Undirected,1
+Biasson,mcn,Undirected,1
+Sganarel,mcn,Undirected,1
+Biassou,Mais,Undirected,1
+Blanchelandes,Rigaud,Undirected,1
+Blanchelandes,Rouvraps,Undirected,1
+Morne-Rouge,Rouvraps,Undirected,1
+Bug-Jargal,Morne-Rouge,Undirected,1
+Bouckmann,Bug-Jargal,Undirected,1
+Bouckmann,Rigand,Undirected,1
+Rigand,jusi Maeayas,Undirected,1
+fom JeanFran^ois,jusi Maeayas,Undirected,1
+Bonckmanns,fom JeanFran^ois,Undirected,1
+Bauckmanns,Jean Franyois,Undirected,1
+Biassou,Obicn,Undirected,2
+Biassou,Troup,Undirected,1
+Roes,Troup,Undirected,1
+Biasson,Obien,Undirected,1
+Biasson,Jean Franqois,Undirected,1
+Bouckmann,Jean Franqois,Undirected,1
+Bouckmann,Cap,Undirected,1
+Cap,Jean Frauyvis,Undirected,1
+Biasson,Desprez,Undirected,1
+Biasson,Jean Franyois,Undirected,1
+Biasson,Candi,Undirected,2
+Biasson,Gud,Undirected,1
+Gud,frank,Undirected,1
+Candi,Pjerres,Undirected,1
+Biassou,Pjerres,Undirected,1
+Candi,Generalissimus Biasson,Undirected,1
+Calalon,Generalissimus Biasson,Undirected,1
+Calalon,Pjerre,Undirected,1
+Pierre,Pjerre,Undirected,1
+Biasson,Jean Biasson,Undirected,1
+Biasson,Høihed,Undirected,1
+Biasson,Bonckmann,Undirected,2
+Jean Biasson,Pjerre,Undirected,1
+Bonckmann,Jean Biasson,Undirected,1
+Bonckmann,Jeannot,Undirected,1
+Jeannot,hiin,Undirected,2
+Biasson,Jeannot,Undirected,2
+Bonckmann,Jean-Frantzvis,Undirected,1
+Biasson,Rigand,Undirected,2
+Biasson,Jcan-Franyois,Undirected,1
+Jcan-Franyois,Jean-Franyois,Undirected,1
+Jean-Franyois,Jeannot,Undirected,1
+Biasson,Maria,Undirected,1
+Biassou,Pierre,Undirected,1
+Gud,Pierre,Undirected,1
+Biasson,Pjerre,Undirected,1
+Biassou,Marie,Undirected,2
+Ester,Pjerre,Undirected,1
+Diane,Marie,Undirected,1
+Marie,Pjerre,Undirected,2
+Pjerre,ester,Undirected,1
+Marie,ester,Undirected,1
+Leopold,Marie,Undirected,2
+Dn,Pjerre,Undirected,1
+Dn,Kroeodillen,Undirected,1
+Kroeodillen,Pjerre,Undirected,1
+Hnn,Pjerre,Undirected,1
+Cap,Hnn,Undirected,1
+Leopold,Pjerre,Undirected,1
+Marie,Pjene,Undirected,1
+Hnn,Pjene,Undirected,1
+Hnn,Leopold,Undirected,1
+Aeul,Marie,Undirected,1
+Jack Turm bull,Pjerre,Undirected,1
+Biasson,Jack Turm bull,Undirected,1
+Biasson,Leopold d ' Auverney,Undirected,1
+Marie,fransfe Wre,Undirected,1
+Jack Turubull,Marie,Undirected,4
+Biasson,Jack Turubull,Undirected,1
+Gud,Leopold,Undirected,1
+Macaya,Padrejan,Undirected,2
+Colonien,Macaya,Undirected,1
+Candi,Rigaud,Undirected,1
+Jack Turubull,Rigaud,Undirected,1
+Imn-Frantzvi,Rigaud,Undirected,1
+Imn-Frantzvi,s,Undirected,1
+Nline,Obien,Undirected,1
+Anverney,Obien,Undirected,1
+Gorra,TvergenS,Undirected,1
+Gud,Habibrah,Undirected,1
+Habibrah,Sapajou,Undirected,1
+Dvergen,Gjøglerm Habibrah,Undirected,1
+Habibrah,Jack Turnbull,Undirected,1
+Biassou,Habibrah,Undirected,1
+Jack Turubull,Obien,Undirected,1
+Obien,Pjerre,Undirected,1
+Gud,Pjerre,Undirected,1
+Habibrah,Obi,Undirected,1
+Hain,Obi,Undirected,1
+Dvergen,hnn,Undirected,1
+Gorra,hnn,Undirected,1
+Habibrah,Hain,Undirected,1
+Hain,jusf,Undirected,1
+Dvergen,jusf,Undirected,1
+Dvergen,Sennor Leopold,Undirected,1
+ester,frest,Undirected,1
+Dvergen,Jaek-Turubull,Undirected,1
+Jack-Turubull,sieg,Undirected,1
+Habibrah,Jack-Turubull,Undirected,1
+Habibrah,q,Undirected,1
+Auverney,d,Undirected,1
+Auverney,D ,Undirected,2
+Biassou,Jack-Turubull slod,Undirected,1
+Gud,Jack-Turubull slod,Undirected,1
+Haleu,Jack-Tnrubull,Undirected,1
+Haleu,Jack-Turubull,Undirected,1
+Auverueys,D ,Undirected,1
+Auverney,Thaddæus,Undirected,1
+Hnstrus,Jack-Turubull,Undirected,1
+Anverney,taug,Undirected,1
+Capitain d,Thaddæus,Undirected,1
+Capitain d,Jack-Turubull,Undirected,1
+Marie,Melancholi,Undirected,1
+Marie,d ' Auverneys,Undirected,1

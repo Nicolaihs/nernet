@@ -1,0 +1,283 @@
+source,target,type,weight
+Gutten,birk,Undirected,1
+Kristian,Lars-Ola,Undirected,2
+Johan,sid,Undirected,1
+Kristian,sid,Undirected,1
+Hansemand,keg,Undirected,1
+angel,keg,Undirected,1
+Johan,derborte,Undirected,1
+Hansemand,Johan,Undirected,8
+Hansemand,Jensine,Undirected,3
+Kristian,Mogens,Undirected,4
+birkes,olders,Undirected,1
+Kain,birkes,Undirected,1
+Abel,Kain,Undirected,1
+Abel,Johan Piesners,Undirected,1
+Hansemand,Johan Piesners,Undirected,1
+Johan,Petra,Undirected,4
+Kaptein Piesner,Petra,Undirected,1
+Johan,Kaptein Piesner,Undirected,1
+halvsov,hvittingen,Undirected,1
+Lars-Ola,halvsov,Undirected,1
+Johan,gamlingen,Undirected,1
+Johan,sprat,Undirected,1
+Johan,Møklebust,Undirected,1
+Hansemand,Mogens,Undirected,6
+Hansemand,skjøv,Undirected,1
+Gutten,Hansemand,Undirected,1
+Mogens,Petra,Undirected,3
+Karoline Piesner,Petra,Undirected,2
+Hansemand,Kjærrer,Undirected,1
+Olsen,veiingeniøreh,Undirected,1
+Hannibalmand,veiingeniøreh,Undirected,1
+Hannibalmand,eg,Undirected,2
+Wang,eg,Undirected,2
+Stakkars,Wang,Undirected,1
+Hannibal,eg,Undirected,2
+Barhodede,moens,Undirected,1
+Hannibal,moens,Undirected,1
+Hannibal,Olsen,Undirected,2
+Hannibal,tsnyg,Undirected,1
+Jensine,lian,Undirected,1
+Hannibal,lian,Undirected,1
+Hannibal,lille Hannibals,Undirected,2
+Hannibal,Jensine,Undirected,3
+Hannibalmand,Jensine,Undirected,1
+Hannibalmand,Sauls,Undirected,1
+Hannibal,barten,Undirected,1
+Olsen,gud,Undirected,1
+Hannibal,gud,Undirected,1
+Hannibal,mopsen,Undirected,1
+Mogens,gutten,Undirected,1
+Wang,gutten,Undirected,1
+Mogens,Wang,Undirected,1
+Petra,Sanne,Undirected,34
+Karoline,Sanne,Undirected,1
+Salomos,s,Undirected,1
+Mogens,Piesner,Undirected,1
+Gutten,Piesner,Undirected,1
+Jensine,Wang,Undirected,3
+Jensine,Mogens,Undirected,3
+Bjørnsons,Mogens,Undirected,1
+Karoline Piesner,Mogens,Undirected,2
+Kristian,Olsen,Undirected,2
+Mogens,line,Undirected,2
+Mogens,Paulus,Undirected,1
+Gutten,Paulus,Undirected,1
+Hannibal opnåd,Wang,Undirected,1
+Olsen,unna,Undirected,1
+Gamle-Erik,Jensine,Undirected,1
+Gamle-Erik,Irvad,Undirected,1
+Hansemand,Sossen,Undirected,4
+Jensine,Sossen,Undirected,2
+Wang,stormed fru,Undirected,1
+Jensine,Pappa,Undirected,2
+Karoline Piesner,Sanne,Undirected,1
+Karoline Piesner,Wang,Undirected,1
+Jensine,Petra,Undirected,8
+Erik,Karoline Piesner,Undirected,2
+Erik,Karoline,Undirected,1
+Karoline,Petra,Undirected,9
+Hansemand,Petra,Undirected,9
+Jensine,melken,Undirected,1
+Erik,sjau,Undirected,1
+Erik,Jens,Undirected,1
+Erik,fémtiårige,Undirected,1
+Olsen,Sossen,Undirected,1
+Olsen,pappas,Undirected,1
+Erik,Jensine,Undirected,2
+Gamle-Olsen,Jensine,Undirected,1
+Gamle-Olsen,Hannibal,Undirected,1
+Hannibal,kjør,Undirected,1
+Jensine,kjør,Undirected,1
+Jensine,noengang,Undirected,1
+Jensine,candidatus philosophise,Undirected,1
+hahahaha,pappa,Undirected,1
+Hannibal,Kasper,Undirected,1
+Malli,Petra,Undirected,2
+Malli,Sissen,Undirected,3
+Kasper,Sissen,Undirected,1
+Kasper,Petra,Undirected,1
+Erik,Petra,Undirected,2
+Hansemand,Karoline Piesner,Undirected,1
+Johan,Stakkars,Undirected,1
+Mogens,Stakkars,Undirected,2
+Mogens,løi,Undirected,1
+Kristian Piesner,løi,Undirected,1
+Kristian Piesner,Lars-Ola,Undirected,1
+Jensine,Kasper,Undirected,2
+Sossen,Wang,Undirected,2
+Petra,mamma,Undirected,2
+Petra,Sossen,Undirected,15
+Erik pleied,Petra,Undirected,1
+Jensine,Sanne,Undirected,3
+Piesner,pappa,Undirected,1
+Petra,Piesner,Undirected,3
+Petra,rikked,Undirected,1
+Sossen,rikked,Undirected,1
+Hansen,Piesner,Undirected,1
+Hansen,pappa,Undirected,1
+Petra,Wang,Undirected,5
+Erik,ivei,Undirected,1
+Wang,gud,Undirected,1
+gud,véd,Undirected,1
+Wang,kvelds,Undirected,1
+Petra,pappa,Undirected,3
+Hansemand,Sanne,Undirected,6
+Sanne,pappa,Undirected,2
+Sossen,pappa,Undirected,1
+Hansen,Petra,Undirected,1
+Nikolaj,Wang,Undirected,1
+Hansen,Wang,Undirected,1
+Hansemand,pappa,Undirected,1
+Gjerløv,Sanne,Undirected,1
+Wang,olje,Undirected,1
+Hansemand,Wang,Undirected,1
+Hansen,Jensine,Undirected,1
+Piesner,svid,Undirected,1
+Jensine,skjælmsk,Undirected,1
+Sanne,Wang,Undirected,1
+Sanne,Sossen,Undirected,3
+Mogens,Sanne,Undirected,1
+Mogens,Schnitter,Undirected,1
+Mogens,mamma,Undirected,1
+Jensine,mamma,Undirected,1
+Gamle-Erik,Mogens,Undirected,1
+Erik,Gamle-Erik,Undirected,1
+Rivenæs,madam Christensen,Undirected,1
+Mogens,hoek,Undirected,1
+Hansen,spenderte Knudsen,Undirected,1
+Mogens,artium,Undirected,1
+Petra,ask,Undirected,1
+Hannibal,ask,Undirected,1
+Jensine,tinøine,Undirected,1
+Sossen,tinøine,Undirected,1
+Hannibal,Sossen,Undirected,7
+Hannibal,Sanne,Undirected,1
+Hannibal,Wang,Undirected,1
+Petra,jenten,Undirected,1
+Kristian,Petra,Undirected,15
+Karoline,Kristian,Undirected,12
+Petra,Schnitler,Undirected,1
+Schnitler,gud,Undirected,1
+Karoline,gud,Undirected,1
+Petra,løitnanter,Undirected,1
+Kristian,løitnanter,Undirected,1
+Petra,luged,Undirected,1
+Hannibal,luged,Undirected,1
+Piesner,Sossen,Undirected,2
+Hannibal,Petra,Undirected,3
+Petra,Stakkars,Undirected,1
+Pitra,Stakkars,Undirected,1
+Petra,Pitra,Undirected,1
+Hansen,Mogens,Undirected,1
+Hansen,Sossen,Undirected,1
+Hannibal,Kristian,Undirected,1
+Ole Oppegård,Petra,Undirected,1
+Kristian,Wang,Undirected,2
+Petra,gubbe,Undirected,2
+Petra,tutle,Undirected,1
+Mogens,tutle,Undirected,1
+Kristian,Sossen,Undirected,4
+Mogens,Sossen,Undirected,2
+Mogens,Olsen,Undirected,1
+Sossen,ivei,Undirected,1
+Kristian,pappa,Undirected,1
+Piesner,papa,Undirected,1
+Karoline,Piesner,Undirected,1
+Sanne,toddy,Undirected,1
+Johan,toddy,Undirected,1
+Kristian,l<jøt,Undirected,1
+Kristian,Sanne,Undirected,2
+Petra,gud,Undirected,6
+Kristian,Ole,Undirected,1
+Johan,Karoline,Undirected,2
+Wang derborte,toddy,Undirected,1
+Karoline,gutten,Undirected,1
+Pers,gutten,Undirected,1
+Johan,Kristian,Undirected,1
+Malle,Sanne,Undirected,1
+Malle,Sissen,Undirected,1
+Petra,hans,Undirected,1
+gud,lise,Undirected,1
+Gud,Petra,Undirected,2
+Sossen,mamma,Undirected,1
+Wang,mamma,Undirected,1
+Piesner,Wang,Undirected,2
+Sissen,kapteinens,Undirected,1
+Jensine,Olsen,Undirected,1
+Gud,Sossen,Undirected,1
+Petra,bende,Undirected,1
+Karoline,Mogens,Undirected,2
+Mammas,Mogens,Undirected,1
+Mammas,Sanne,Undirected,1
+Brita,Sanne,Undirected,1
+Brita,Kristian,Undirected,1
+Gud,Kristian,Undirected,2
+Kristian,mamma,Undirected,2
+Kristian,Piesner,Undirected,3
+Mamma,Piesner,Undirected,1
+Mamma,Sanne,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Bjørnson,Piesner,Undirected,1
+Jensine,Johan,Undirected,1
+Johan,onkels,Undirected,1
+Sanne,onkels,Undirected,1
+Petra stansed,Sossen,Undirected,1
+krambodrotte,stry,Undirected,1
+krambodrotte,smeden Mikkelsen,Undirected,1
+Gjerløv,gutten,Undirected,1
+Petra,gotted,Undirected,1
+Wang,gotted,Undirected,1
+Sanne,gutten,Undirected,1
+Sanne,madam Pedersen,Undirected,3
+Johan,gutten,Undirected,1
+Kari,Sanne,Undirected,1
+Johan,pappa,Undirected,1
+Johan,Kari,Undirected,1
+Hansemand,Karoline,Undirected,1
+Kari,Per,Undirected,5
+Per,reis,Undirected,1
+Pappa,reis,Undirected,1
+Hansemand,Pappa,Undirected,1
+Gutten,Petra,Undirected,1
+Petra,fut,Undirected,1
+Kari,fut,Undirected,1
+Kari,gud,Undirected,1
+Kari,Nei,Undirected,1
+Kari,gutten,Undirected,1
+Per,gutten,Undirected,1
+Per,tes,Undirected,1
+Hansemand,Per,Undirected,1
+Gamle-Erik,Kristian,Undirected,2
+Kjære,Petra,Undirected,1
+Petra,isommer,Undirected,1
+Gamle-Erik,Petra,Undirected,1
+Gud,Karoline,Undirected,2
+GamleErik,Petra,Undirected,1
+Knudsen,Petra,Undirected,1
+Knudsen,madam Pedersen,Undirected,1
+Petra,frk. Wang,Undirected,1
+Petra,ane,Undirected,2
+Sanne,kjendte,Undirected,1
+Hannibal,Stakkars,Undirected,1
+Sossen,Stakkars,Undirected,1
+Kristian,gutten,Undirected,1
+Petra,gutten,Undirected,1
+gry,kje,Undirected,1
+Petra,ani,Undirected,1
+Petra,hyssing,Undirected,1
+Hannibal,hyssing,Undirected,1
+Gud,Hannibal,Undirected,1
+Petra,olje,Undirected,1
+Hannibal,olje,Undirected,1
+Petra,såmykkje,Undirected,1
+Petra,huløiet,Undirected,1
+Petra keg,huløiet,Undirected,1
+Olsen,Petra,Undirected,1
+Jensine,pappa,Undirected,1
+Jensine,Karoline,Undirected,1
+Mogens,lean,Undirected,1
+Karoline,Sossen,Undirected,1
+Hannibal,Karoline,Undirected,1
+Hannibal,toddy,Undirected,1

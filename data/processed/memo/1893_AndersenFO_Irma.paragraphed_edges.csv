@@ -1,0 +1,46 @@
+source,target,type,weight
+Per,Poul,Undirected,1
+Irma,Olaf,Undirected,18
+Frants,Olaf,Undirected,17
+Gud,Olsen,Undirected,2
+Olaf,Olsen,Undirected,5
+Gud,Olaf,Undirected,4
+Olaf,Schillers,Undirected,1
+Hr. Block,Olsen,Undirected,1
+Irma,Olsen,Undirected,1
+Hr. Block,lille Onkel,Undirected,1
+Olaf,ban,Undirected,1
+Olaf,Thomsen,Undirected,1
+Nielsen,Olaf,Undirected,1
+Gud,Nielsen,Undirected,1
+Gud,Madam Nielsen,Undirected,1
+Nielsen,Petersen,Undirected,5
+Frants,Petersen,Undirected,1
+Frants,Madam Nielsen,Undirected,1
+Frants,Gud,Undirected,2
+Gud,Olaf Block,Undirected,1
+Olaf Block,Petersen,Undirected,1
+Gud,Petersen,Undirected,1
+Petersen,hvidskede Nielsen,Undirected,2
+Block,Petersen,Undirected,2
+Block,Olaf,Undirected,18
+Block,Frants,Undirected,21
+Olaf,Oluf,Undirected,1
+Block,Pjalte,Undirected,1
+Olaf,Paulsen,Undirected,1
+Faders,Irma,Undirected,1
+Frants,Frants Block,Undirected,2
+Block,a,Undirected,1
+Block,Faders,Undirected,1
+Block,Irma,Undirected,2
+Block dér,Olaf,Undirected,1
+Block,Kragh,Undirected,4
+Faders,Olaf,Undirected,1
+Faders,Frants,Undirected,1
+Frants,Irma,Undirected,2
+-,Frants,Undirected,1
+Fader,Frants,Undirected,1
+Fader,Olaf,Undirected,1
+Block,Hr. Block,Undirected,1
+h,j,Undirected,1
+Olaf,j,Undirected,1

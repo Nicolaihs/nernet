@@ -1,0 +1,80 @@
+source,target,type,weight
+Clara,Madam Jensen,Undirected,4
+Clara,Ludvig,Undirected,33
+Ludvig,Svend,Undirected,1
+Madam Jen-,Svend,Undirected,1
+Madam Jen-,sen,Undirected,1
+Ludvig,sen,Undirected,1
+Ludvig,Madam Jensen,Undirected,1
+Clara,Jomfru Rasmussen,Undirected,4
+Ludvig,Rosa Rasmussen,Undirected,2
+Clara,Rosa Rasmussen,Undirected,1
+Clara,Rosa,Undirected,61
+Ludvig,Rosa,Undirected,29
+Jomfru Rasmussen,Rasmussen,Undirected,1
+Clara,Rasmussen,Undirected,1
+Rosa Rasmussen,Snedker Petersen,Undirected,1
+Ludvig,Snedker Petersen,Undirected,1
+Ludvig,Petersen,Undirected,2
+Petersen,Rosa,Undirected,5
+Glæser,Vilhelm,Undirected,2
+Peter-     ,Rosa,Undirected,1
+Peter-     ,sen,Undirected,1
+Glæser,Petersen,Undirected,1
+Glæser,Ludvig,Undirected,1
+Rosa,Skaal,Undirected,1
+Apolio,Petersen,Undirected,1
+Apolio,Thalia,Undirected,1
+Petersen,Skaal,Undirected,1
+Clare,Ludvig,Undirected,1
+Clara,Kellner,Undirected,1
+Clara,Hr. Madsen,Undirected,1
+Madsen,Rosa,Undirected,2
+Rosa,Søste-,Undirected,1
+Clara,Gud,Undirected,1
+Gud,Rosa,Undirected,1
+Gud,véd,Undirected,2
+Rosa,véd,Undirected,1
+Line,Ludvig,Undirected,1
+Krigsraad Madsen,Rosa,Undirected,2
+Clara,Mad,Undirected,1
+.,Mad,Undirected,1
+.,Jensen,Undirected,1
+Jensen,Ludvig,Undirected,1
+Gud,lille Rosa,Undirected,1
+Frk.   ,Rosa Ringborg,Undirected,1
+Rasmussen,Rosa Ringborg,Undirected,1
+mar-,scherede,Undirected,1
+Ludvig,Ringborg,Undirected,1
+Ludvig,Toddy,Undirected,1
+Hr. Juel,Ludvig,Undirected,1
+Hr. Juel,Svend,Undirected,1
+Frederiksen,Ludvig,Undirected,2
+Chr. Frederiksen,Vilhelm Glæser,Undirected,1
+Clara,Melis,Undirected,1
+Jærnilte,Kali,Undirected,1
+Jensen,Jærnilte,Undirected,1
+Frederiksen,Natron,Undirected,1
+Frederiksen,Jensen,Undirected,1
+Clara,Krigsraad Madsen,Undirected,1
+Larsen,iste Sal,Undirected,1
+Larsen,Poulsen,Undirected,1
+Clara,Mo,Undirected,1
+Boldt,Clara,Undirected,1
+Borch,Madsen,Undirected,1
+Petersen,Snedker Petersen,Undirected,1
+Ludvig,Wain,Undirected,1
+Ludvig Jensen,Petersen,Undirected,1
+Larsen,Ludvig,Undirected,1
+Clara,Solvejgs,Undirected,1
+Frøken Jensen,Frøken Rasmussen,Undirected,1
+Frøken Rasmussen,Ringborg,Undirected,1
+Carl Nielsen,Charles Nelson,Undirected,1
+Glæser,Rosa,Undirected,2
+Nelson,Rosa,Undirected,14
+Clara,Nelson,Undirected,4
+Glæser,Nelson,Undirected,2
+Ludvig,Nelson,Undirected,1
+Gud,Nelson,Undirected,1
+Josty,Sietting,Undirected,1
+Clara,Glæser,Undirected,1

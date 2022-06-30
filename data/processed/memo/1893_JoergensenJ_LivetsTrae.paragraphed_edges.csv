@@ -1,0 +1,102 @@
+source,target,type,weight
+Aage,Tuen,Undirected,1
+Anna,Carsten,Undirected,2
+Aage —,Anna,Undirected,1
+Aage,Anna,Undirected,1
+Aaen,Bondesen,Undirected,1
+Aage,Adam,Undirected,1
+Aage,tom,Undirected,3
+Aaen,Aage,Undirected,3
+Aage Bondesen,B.,Undirected,1
+Aage,Skaar,Undirected,2
+Diderichsens,Else,Undirected,1
+Diderichsens,Olsen,Undirected,3
+Aage,Olsen,Undirected,1
+Grete,Madam Olsen,Undirected,1
+Bondesen,Grete,Undirected,1
+Bødker Nissens,Else paany,Undirected,1
+Buchs,Grete,Undirected,3
+Buchs,Else,Undirected,1
+Buchs,Nissens,Undirected,1
+Aage,Carsten Buch,Undirected,1
+Aage,Carsten,Undirected,1
+Carsten,Nissens,Undirected,1
+Aage,Nissens,Undirected,2
+Carsten Buch,Nissens,Undirected,1
+Aage,Aarestrup,Undirected,2
+Aage,Vergil,Undirected,1
+Anchises,Æneas,Undirected,1
+Aage,Æneas,Undirected,1
+Gud Glaukos,Poseidons,Undirected,1
+Aage,Kong Hadding,Undirected,1
+Aage,Aakander,Undirected,1
+Aage,Taine,Undirected,1
+Aage,Timians,Undirected,1
+Snerrens,Timians,Undirected,1
+Aage,Graad,Undirected,2
+Aage,Perseus,Undirected,1
+Perseus,Vega,Undirected,1
+Bjørn,Vega,Undirected,1
+Aage,hans,Undirected,1
+Aage Bondesen,Niels Graff,Undirected,3
+Bondesen,Graff,Undirected,3
+Aage Bondesen,Dronning Louises,Undirected,1
+Bondesen,Niels,Undirected,2
+Aage Bondesen,Bondesen,Undirected,1
+Aage Bondesen,Graff,Undirected,3
+Graff,Petersen,Undirected,1
+Aage,Bondesen,Undirected,1
+Aage,Graff,Undirected,6
+Agnes,Niels,Undirected,2
+Aage,Agnes,Undirected,3
+Aage,Bukar,Undirected,1
+Apollos,Niels Graff,Undirected,1
+Aage Bondesen,hans,Undirected,1
+Albert Larsen,Charles Briand,Undirected,1
+Aage,Albert Larsen,Undirected,1
+Wehmuth,schau,Undirected,1
+Aage,Briand,Undirected,1
+Aage,Gry,Undirected,1
+Graff,Niels Graff,Undirected,2
+Aage,Niels Graff,Undirected,7
+Agnes,Niels Graff,Undirected,3
+Aage,skjalv Niels Graffs,Undirected,1
+Agnes,skjalv Niels Graffs,Undirected,1
+Graff,Lærke,Undirected,1
+eesnjtu,gnes,Undirected,1
+Aage,gnes,Undirected,1
+Albert Larsen,Briand —,Undirected,1
+Aage,Niels,Undirected,6
+Aage,Dronning Louises,Undirected,1
+Aage,Schumann,Undirected,1
+Schubert,Schumann,Undirected,1
+Grieg,Schubert,Undirected,1
+Aage,Grieg,Undirected,1
+Fiske,haanlo,Undirected,1
+Aage,Fiske,Undirected,1
+Collett,Dagmar,Undirected,1
+Aage,Dagmar,Undirected,21
+Aage Bondesen,Albert Larsen,Undirected,1
+Aage,Albert,Undirected,4
+Albert,Niels,Undirected,1
+Aage,frank,Undirected,1
+Hilda,Madam Andersen,Undirected,1
+Albert,Hilda,Undirected,2
+Aage,Banco,Undirected,1
+Banco,Eva,Undirected,1
+Eva,Hilda,Undirected,1
+Aage,Hilda,Undirected,3
+Albert,Eva,Undirected,3
+Eva,Lenore,Undirected,1
+Aage,Eva,Undirected,1
+Aage,Sortegraa,Undirected,1
+Aage,Junimaaneds,Undirected,1
+Aage,Lind,Undirected,2
+Aage,Dagmar Collett,Undirected,1
+Aage fornam,Dagmar,Undirected,1
+Aage,l?,Undirected,1
+Aage,Skaal,Undirected,1
+Aage,Liquor Monachorum Benedictinorum Abbatia Fiscanensis,Undirected,1
+D. O. M.,Liquor Monachorum Benedictinorum Abbatia Fiscanensis,Undirected,1
+Aage,D. O. M.,Undirected,1
+Aage fornam,Niels Graff,Undirected,1

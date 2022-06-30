@@ -1,0 +1,431 @@
+source,target,timestamp
+Julie Rørby,Worms,1
+Mathilde,Worms,1
+Ida Worm,Mathilde,1
+Julie,eg,2
+Ida Worm,eg,2
+Marie,Marie Franck,3
+Ida Worm,Julie,4
+Gud,Marie,6
+Gud,Mathilde,6
+Ida,Mathilde,6
+Francks,Julie Rørby,7
+Julie Rørby,Worms,7
+Rørby,Worms,7
+L’,Rørby,7
+Jakob«,L’,7
+Agent Borre,Bellonas,11
+Engberg,nri,13
+Knud,Marie Fhmck,21
+Julie,Knud,21
+Julie,Julie Rørby,21
+Franck,Julie Rørby,21
+Jørgen«,Marie Franck,22
+Julie Rørby,Marie Franck,22
+Julie Rørby,Knud,22
+Knud,Ludvig,23
+Knud,Marie,25
+Franck,Knud,26
+Ludvig,Marie Franck,27
+Franck,Julie Rørby,30
+Frøken Julie Hørby,Julie Rørby,30
+Franck,Marie,31
+Franck,Julie Rørby,33
+Franck,Marie,33
+Franck,Gud,34
+Bech,Franck,35
+Bech,Franck,35
+Franck,Rørby,35
+Granberg,Rørby,35
+Franck,Granberg,35
+Franck,Hei,35
+Franck,Granstad,36
+Ludvig,Marie Franck,40
+Franck,Granstad,41
+Granberg,Granstad,41
+Julie,Marie Franck,42
+Ludvig,Marie Franck,42
+Julie,Lieutenant Franck,47
+Franck,Knud,48
+Helvig,Kaptain Gram,49
+Helvig,Ryding,49
+Granberg,Lieutenant Franck,51
+Lieutenant Franck,Marie,51
+Franck,Granstad,52
+Franck,Onkels,55
+Julie Rørby,Onkels,55
+Kaptain Gram,Lieutenant Rheinstorff,61
+Franck,Granstad,64
+Kyding,lille Bech,66
+Granstad,Kaptain Gram,67
+Granberg,Granstad,67
+Franck,Granberg,67
+Franck,Granberg,67
+Granberg,Midas,67
+Bech,Midas,67
+Bech,Vaas,67
+Franck,Kaptain Gram,68
+Franck,Granstad,68
+Franck,Granberg,70
+Bech,Franck,72
+Franck,Granberg,72
+A.,Dtp,74
+Dtp,Julie Rørby,74
+Julie Rørby,rin-tinnok,74
+Marie,rin-tinnok,74
+Franck,Marie,74
+Franck,Granstad,75
+Franck,Granstad,76
+Bech,Franck,77
+Bech,Franck,78
+Bech,Granberg,80
+Bech,Franck,81
+Franck,liam,83
+liam,livis,83
+Franck,Svend,85
+Granstad,Vilsted,86
+Bech,Vilsted,86
+Bech,Franck,86
+Bech,Franck,86
+Granberg,Vilsted,87
+Franck,Granberg,89
+Bech,Franck,89
+Bech,Proprietær Bangs,90
+Martha Helmer,Thora,92
+Lieutenant Franck,Martha Helmer,92
+Franck,Marius,93
+Granstad,Marius,93
+Bang,Marius,96
+Lieutenant Granstad,Marius,96
+Franck,Granberg,100
+Bech,Franck,102
+Franck,Frøken Thoras,102
+Karl,Mads,105
+Bang,Mads,106
+Bang,livor Lieutenanten,106
+Hosbond,livor Lieutenanten,106
+Hosbond,Mads,106
+Tschit,nøs,109
+Bang,Moer,110
+Franck,Helmer,111
+Bech,Helmer,111
+Bech,Granstad,111
+Granstad,Mads,111
+Lieutenant Granstad,Mads,111
+Bang,Moer,112
+Bang,Moer,114
+Bang,Mads,121
+Jøsses,Mads,121
+Hosbond,Jøsses,121
+Hosbond,Mads,121
+Hosbond,Mads,122
+Mads,Ryding,122
+Bang,Mads,123
+Franck,Ryding,124
+Lieutenant Granstad,Ryding,125
+Granstad,Ryding,126
+Bang,Lieutenant Granstad,127
+Franck,Granberg,130
+Franck,Granberg,132
+Bech,Franck,134
+Bech,Helmer,136
+Granstad,Rheinstorff,138
+Franck,Rheinstorff,141
+Granstad,Rheinstorff,141
+Granstad,Uhret,142
+Kancelliraad Franck,Uhret,142
+Julie Rørby,Marie Franck,145
+Julie Rørby,lien,145
+Julie Rørby,Lieutenant Franck,146
+Lieutenant Franck,Vilsted,146
+Marie,Vilsted,146
+Frøken Lund,Marie,146
+Ilahaha,Ludvig,147
+Borre,Ludvig,147
+Franck,Granberg,149
+Arne,Granberg,149
+Franck,Marie,150
+Marie,hnn,150
+Granstad,Kancelliraad Franck,151
+Franck,Granstad,151
+Granberg,Julie Rørby,152
+Franck,Julie Rørby,154
+Franck,Granberg,156
+Franck,liun,156
+Martha Helmer,liun,156
+Bech,Granberg,159
+Franck,Granstad,160
+Franck,Granberg,161
+Franck,Onkels,161
+Bech,Granstad,162
+Granstad,Hr. Mellerup,162
+Granberg,Vilsted,167
+Vilsted,Worms,167
+Herman,lange Rheinstorff,171
+Franck,Granberg,173
+Franck,Rheinstorff,174
+Granstad,Rheinstorff,175
+Bech,Granberg,176
+Bien,Franck,180
+Franck,Lu,181
+Engberg,livis,189
+Borre,Franck,192
+Borre,Franck,197
+EngBergs,Lieutenant Franck,199
+EngBergs,Franck,199
+Cromwell,Granstad,200
+Carl den,Cromwell,200
+Carl den,liam,200
+Franck,Granstad,202
+Borre,Granstad,202
+Franck,examinatus juris P. Engberg,205
+Franck,Granberg,207
+Franck,Marie,207
+Julie Rørby,Marie,207
+Frøken Rørby,Marie,209
+Frøken Rørby,Granberg,209
+Granstad,ban,210
+Franck,ban,210
+Franck,Julie Rørby,210
+Granstad,Julie Rørby,210
+Franck,Frøken,211
+Granberg,Hr. —,221
+Franck,Granberg,222
+Granberg,Julie,227
+Franck,Granberg,227
+Franck,Granstad,229
+Franck,Granberg,230
+Franck,Frøken Rørby,230
+Arnulff,Mikkel Postbud,235
+Arnulff,m. il,235
+Granstad,Morten Kudsk,236
+Laus,itte,237
+Julie,Marie Franck,238
+Granstad,Julie,238
+Granstad,Kancelliraad Franck,238
+Kancelliraad Franck,Marie,238
+Marie,siu,238
+Marie,siu,238
+Franck,Marie,238
+Franck,Granstad,238
+Granberg,Granstad,238
+Granberg,Granstad,238
+Franck,Granstad,238
+Franck,Julie Rørby,238
+Granstad,Julie Rørby,238
+Kaptain Gram,liun,239
+Kaptain Gram,Rørby,239
+Bech,Granstad,240
+Bech,Franck,240
+Granberg,Martha Helmer,241
+Marie,Martha Helmer,241
+Granberg,Marie,242
+Franck,Granstad,243
+Franck,Frøken Rørby,243
+Franck,Onkels,244
+Julie Rørby,Onkels,244
+Bech,Julie Rørby,244
+Bech,Marie,244
+Bech,Marie,244
+Bech,anderswo engagirt,244
+Bech,anderswo engagirt,244
+Ludvig,Visborg,252
+Hr. Visborg,L. V. Franck,257
+Franck,Hr. Visborg,257
+Franck,P. Engberg,257
+lians,lien,266
+Franck,Julie,271
+Julie,lio,271
+Marie,Sørensen,274
+Ludvig,Sørensen,274
+Bech,liam,275
+Julie Rørby,Marie,276
+Franck,Julie Rørby,276
+Franck,Frøken Rørby,278
+Julie,Martha,279
+Franck,Marie,281
+Bang,Franck,281
+Bang,Martha,281
+Marie,Martha,281
+Franck,Marie,281
+Franck,Martha,281
+Bech,Martha,281
+Julie,Marie,284
+Julie,Lieutenant Franck,284
+Franck,Marie,289
+Frøken Hørby,Marie,289
+Eng-bergs,Engberg,290
+Engberg,Franck,297
+Bech,Marie,301
+J ulie Rørby,Mathilde Worni,302
+Franck,Mathilde Worni,302
+Franck,Martha Helmer,302
+Bech,Martha Helmer,302
+Bech,Marie Franck,302
+Ida Worm,Marie Franck,302
+Ida Worm,Rheinstorff,302
+Granstad,Rheinstorff,302
+Granstad,Julie,302
+Julie,Rørby,302
+Rørby,speech,302
+Gram,speech,302
+Gram,Kaptain Gram,302
+Bang,Kaptain Gram,302
+Bang,Franck,302
+Borre,Franck,302
+Borre,Kaptain Gram,302
+Kaptain Gram,Ryding,302
+Ryding,Thora Helmer,302
+Bang,Thora Helmer,302
+Bang,Devisef,302
+Devisef,Julie Rørby,302
+Julie Rørby,Martha Helmer,302
+Franck,Granstad,304
+Franck,Martha Helmer,304
+Julie,Martha Helmer,304
+Granstad,Julie,304
+Granstad,Julie,304
+Franck,Martha Helmer,309
+Bjørns,Martha Helmer,309
+Bjørns,Ryding,309
+Frøken Helmer,Ryding,309
+Julie,Martha,312
+Martha,Ryding,312
+Ryding,Thora,312
+Granstad,Julie Rørby,313
+Julie,hvidskede,314
+Julie Rørby,Marie Franck,317
+Julie,Marie,319
+Bang,Rørby,321
+Helmer,Rørby,321
+Helmer,storBravour,321
+Granstad,Ryding,323
+Bang,Ryding,323
+Bang,Julie,323
+Granstad,Julie,323
+Granstad,Ryding,323
+Lieutenant Granstad,Ryding,323
+Julie,Lieutenant Granstad,325
+Granstad,Julie,327
+Honoratiores,Kjøbmand Rørbys,330
+Honoratiores,Julie Rorbys,330
+Bang,Julie Rorbys,330
+Bang,Borre,330
+Borre,Engberg,330
+Bang,Franck,332
+Franck,Granstad,333
+Franck,Granberg,334
+Bech,Franck,334
+Franck,Granberg,336
+Franck,Vilsted,336
+Le,Lieutenant Granstad,338
+Le,Veir,338
+Thora,Veir,338
+Bang,Thora,340
+Franck,Gud,341
+Anton,Ryding,344
+Søren Pei,liar,347
+Bang,Mads,348
+Bang,Søren Pedersen,351
+Bang,Granstad,351
+Franck,Granstad,351
+Franck,Granstad,353
+Franck,Granstad,353
+Granstad,Proprietam Bang,354
+Lieutenanten,Søren Pedersen,355
+Granstad,Søren Pedersen,357
+Bang,Søren Pedersen,358
+Granstad,op-rinti,359
+Bang,skoggerlo,360
+Bang,Granstad,360
+Bang,Søren Pedersen,362
+Bang,Granstad,362
+Ryding,Thora Helmer,363
+Franck,Ryding,363
+Franck,Vilsted,363
+Bech,Vilsted,363
+Bech,Granstad,363
+Hille,liam,364
+Bech,Hille,364
+Bech,Franck,364
+Franck,Granstad,364
+Franck,Granberg,366
+Franck,kerten,366
+Bang,Uhrmager Strømbæk,370
+Granstad,Strømbæks,375
+Granstad,Strømbæks,375
+Granstad,Hr. Strømbæk,375
+Granstad,Uhrmagers,377
+Granstad,Hr. Strømbæk,377
+Gram,Ryding,385
+Bang,Gram,385
+Bang,Franck,386
+Bang,Moer,387
+Bang,Julie Rørby,393
+Bang,Gram,398
+Bang,Kaptain Gram,398
+Bech,Franck,400
+Bech,Ryding,400
+Bech,Ryding,400
+Bech,Vilsted,400
+Kjøretøi,Vilsted,401
+Granberg,lille Bech,402
+Bang,Ryding,404
+Granberg,Vilsted,405
+Bech,Franck,407
+Bang,Lars,412
+Morten,don,415
+Bang,Jørgen,417
+Bang,Ryding,417
+J,Ryding,417
+J,Jørgen,417
+Franck,Jjænge,418
+Franck,Jørgen,418
+Julie Rørby,Marie Franck,419
+Eierinde,Marie Franck,419
+Julie,Strømbæk,425
+Amalie Strømbæk,Strømbæk,425
+Julie,Marie,426
+Granstad,Marie,426
+Bang,Julie,427
+Bang,Morten,427
+Granberg,Morten,427
+Granberg,Marie,427
+Engberg,Franck,430
+Engberg,Granstad,430
+Bang,Granstad,430
+Bang,Franck,430
+Bang,Granstad,431
+Granstad,Julie,431
+Granstad,Julie,431
+Bang,Granstad,431
+Franck,livor,432
+Julie,livor,432
+Julie,Mads,437
+Faders,Julie,437
+Faders,Mads,437
+Julie,Mads,438
+Granstad,Julie,438
+Julie,liam,446
+Granberg,liam,446
+Franck,Granstad,449
+Amalie,Franck,449
+Amalie,Strømbæk,449
+Julie,Strømbæk,449
+Franck,Granstad,456
+Bang,Granstad,456
+Mads,liun,462
+Horby,Rørby,464
+Franck,Rørby,464
+Franck,Granberg,464
+Franck,Granberg,464
+Franck,Julie,464
+Julie,Victor,464
+Julie,lians,465
+Bang,lians,465
+Bang,Ryding,465
+Bech,Ryding,465
+Bech,Borre,465
+Borre,Franck,465
+Julie,Victor,466
+Anton,Thora Helmer,467

@@ -1,0 +1,276 @@
+source,target,type,weight
+Brutus,Robert,Undirected,2
+Gud,Robert,Undirected,4
+Robert,lian,Undirected,2
+Mathildes,Robert,Undirected,1
+Concierge,Mathilde,Undirected,1
+Mathilde,Robert,Undirected,46
+Mira,Robert,Undirected,22
+Marquise de Pen-Hoél,Mira,Undirected,1
+Mathilde,Mira,Undirected,111
+Henri B. Mathilde,Mathilde,Undirected,1
+Cela,Seladon,Undirected,1
+Mathilde,Seladon,Undirected,1
+Marquise,Mathilde,Undirected,2
+Livree,Mira,Undirected,1
+Henri,Livree,Undirected,1
+Marquisen,Mathilde,Undirected,2
+Henri,Marquisen,Undirected,1
+Gud,Henri,Undirected,1
+Gud,Mathilde,Undirected,3
+Henri leende,Mathilde,Undirected,1
+Cendrillon,Mathilde,Undirected,2
+Malhildes,Mira,Undirected,1
+Alba,Malhildes,Undirected,1
+Alba,Mira,Undirected,1
+Madames,Mathilde,Undirected,1
+Madames,Mira,Undirected,1
+Don Quixotes,Mira,Undirected,2
+Carl den Tolvte,Mathilde,Undirected,1
+Mathilde,Mira taug,Undirected,1
+Gothe,Mathilde,Undirected,1
+.Perdita,Mira,Undirected,1
+.Perdita,Zenith,Undirected,1
+Perdita,Zenith,Undirected,1
+Demi monde,Perdita,Undirected,1
+Gud,Perdita,Undirected,1
+Mira,Perdita,Undirected,5
+Mira,Orlando furioso,Undirected,2
+Mira,stræng,Undirected,2
+Mama,Mira,Undirected,1
+Mama,Potemkin,Undirected,1
+Mira-Perdita,Potemkin,Undirected,1
+Mira,Mira-Perdita,Undirected,1
+Alfred de Saint-Maur,Madame,Undirected,1
+Mathilde,henstaa,Undirected,1
+Mathilde,lasgis,Undirected,2
+Mathilde,SaintMaur,Undirected,3
+Monsieur Litzt,Monsieur Molière,Undirected,1
+Mira,Monsieur Litzt,Undirected,1
+Marquise,Mira,Undirected,8
+Salomo,charmant,Undirected,1
+Mathilde,Maur,Undirected,3
+Maur,tom,Undirected,1
+Mathilde,tom,Undirected,1
+Mathilde,liun,Undirected,1
+Madame Mira,Mathilde,Undirected,2
+Macchiavel,Mira,Undirected,1
+Buffon,Sokrates,Undirected,1
+Cicero,Sokrates,Undirected,1
+Cicero,Virgil,Undirected,1
+Shakespeare,Virgil,Undirected,1
+Gud,Marquise de Blocqueville,Undirected,1
+Marquise de Blocqueville,Marskalk Davoults,Undirected,1
+Mira,Satan,Undirected,1
+Madame de Grammont,Mira,Undirected,2
+Madame de Grammont,Mathilde,Undirected,2
+Mathilde,Solvegs,Undirected,1
+Peer Gynt,Solvegs,Undirected,1
+Mira,Peer Gynt,Undirected,1
+Mathilde,rosa,Undirected,1
+Mathilde,l)lue devils,Undirected,1
+Marie-Claire,Sion,Undirected,1
+Marié-Claire,Rembrandt,Undirected,1
+David,Rembrandt,Undirected,1
+Claires,Marie -,Undirected,1
+Claires,Mahomed,Undirected,1
+Esaus,Mira,Undirected,1
+Esaus,Mathilde,Undirected,1
+Mathilde,dei-,Undirected,2
+Don Juan,Mozart,Undirected,2
+Don Typens,Mozart,Undirected,1
+Achilles,Don Juan,Undirected,2
+Don Juan,Leporello,Undirected,5
+Don Juan,Donna Anna,Undirected,2
+Donna Anna,Mathilde,Undirected,3
+Don Juan,Elvira,Undirected,7
+Elvira,Leporello,Undirected,2
+Elvira,Mozart,Undirected,2
+Masetto,Mathilde,Undirected,3
+Masetto,Zerline,Undirected,3
+Gratie,Zerline,Undirected,3
+Gratie,Mozart,Undirected,1
+Adelina Patti,Mozart,Undirected,1
+Adelina Patti,Mathilde,Undirected,1
+Leporello,Masetto,Undirected,1
+Don Juan,Masetto,Undirected,2
+Don Juan,Zerline,Undirected,4
+Arien,Mathilde,Undirected,1
+Arien,Leopard,Undirected,1
+Leopard,Masetto,Undirected,1
+Mathilde,Zerline,Undirected,4
+Line,Mathilde,Undirected,1
+Don Juan,Mathilde,Undirected,2
+Don Juan,lyne,Undirected,2
+Michel Angelos,dei-,Undirected,1
+Mozart,Verdi,Undirected,1
+Don Juan,Verdi,Undirected,1
+Arie,Donna Anna,Undirected,1
+Arie,Mathilde,Undirected,1
+Mathilde,Mozart,Undirected,2
+Arie,Mozart,Undirected,1
+Donna Anna,ria pas la note,Undirected,1
+Mathilde,ria pas la note,Undirected,1
+Machbeths,Wagners,Undirected,1
+Gud,Rossini,Undirected,1
+Gemal,Mira,Undirected,3
+Mira,SaintMaur,Undirected,1
+Mathilde,Raphael,Undirected,1
+Raphael,Tizian,Undirected,1
+Guido Reni,Tizian,Undirected,1
+Correggio,Guido Reni,Undirected,1
+Correggio,Rembrandt,Undirected,1
+Rembrandt,Rubens,Undirected,1
+Mathilde,Rubens,Undirected,1
+Mathilde,Shakespeare,Undirected,1
+Greuzce,Shakespeare,Undirected,1
+Greuzce,Watteau,Undirected,1
+Mathilde,Watteau,Undirected,1
+Borgfred,Mathilde,Undirected,1
+Mira,Voltaires,Undirected,1
+Mathilde,Voltaires,Undirected,1
+Eva,Mathilde,Undirected,1
+Adelina Patti,Eva,Undirected,1
+Janus,Mira,Undirected,2
+Mathilde,Salomo,Undirected,1
+Gemal,Mathilde,Undirected,1
+Franks,Mira,Undirected,1
+Gud,Mira,Undirected,3
+Gud,Krokodilla,Undirected,1
+Krokodilla,Mazarin,Undirected,1
+Mira,douceur,Undirected,1
+Mathilde,Mira Toilet,Undirected,1
+Mira,Mira Toilet,Undirected,1
+Eugenie,Mira,Undirected,2
+Mathilde,Papa,Undirected,1
+Mama,Tortoni,Undirected,1
+Christine Nilsson,Mathilde,Undirected,1
+Christine Nilsson,Rachel,Undirected,1
+Medusas,Raul,Undirected,1
+Mira,Vale Mundo,Undirected,1
+Mira,Offre,Undirected,1
+Mathilde,Offre,Undirected,1
+Madame Mira,Mira,Undirected,1
+Lear,Mathilde,Undirected,1
+Lear,Mira,Undirected,1
+Agrippina,Neros,Undirected,1
+Jenny Lind,Mathilde,Undirected,1
+Jenny Lind,Mira,Undirected,1
+Cato,Mira,Undirected,1
+Mira,Saint-Maur,Undirected,3
+Marquise,Robert,Undirected,2
+Mefistofeles,Mira,Undirected,1
+Concierge,Mira,Undirected,1
+Concierge,Conciergen,Undirected,1
+Conciergen,Mira,Undirected,1
+Mathilde,ellei,Undirected,1
+Robert,ellei,Undirected,1
+Robert,agde,Undirected,1
+Mira,agde,Undirected,1
+Mira,liun,Undirected,3
+Madame,Mai,Undirected,1
+Mira,Sokrates,Undirected,1
+Marquise,Thomas Morus,Undirected,1
+Homer,leer,Undirected,1
+Byrons,Gud,Undirected,1
+Gud,Jean Paul,Undirected,1
+Mira,Raul,Undirected,7
+Falsen,Marquise,Undirected,1
+Falsen,Marquisen,Undirected,1
+Marquisen,Mira,Undirected,2
+Elviras'fejge,Mathilde,Undirected,1
+Frants,Margrethe,Undirected,1
+Elisabeth,Frants,Undirected,1
+Elisabeth,Ludvig den,Undirected,1
+Ludvig den,Petrarcas Laura,Undirected,1
+Petrarcas Laura,Tassos Eleonore,Undirected,1
+Musa,Tassos Eleonore,Undirected,1
+Gud,Pindar,Undirected,1
+Don Juan,liun,Undirected,2
+Donna Anna,Juno,Undirected,1
+Juno,Venus,Undirected,1
+Malibran,Venus,Undirected,1
+Malibran,Sonntag,Undirected,1
+Rossi,Sonntag,Undirected,1
+Don Juan,Kommandantens,Undirected,3
+Don Juan,Robert,Undirected,2
+Gud,morceau de roi,Undirected,1
+Maeehiavel,Skjørter,Undirected,1
+Gud,Lauras,Undirected,1
+Anna,Richelieu,Undirected,1
+Mathilde,Richelieu,Undirected,1
+Laura de Sorez,Mathilde,Undirected,1
+Lieven,Richelieu,Undirected,1
+Laura,Petrarkas,Undirected,3
+Laura,Petrarka,Undirected,2
+Laura,Mathilde,Undirected,1
+AUez done,Corpus dilicti,Undirected,1
+Madame Mathilde Falsen,Raul,Undirected,1
+Madame Mathilde Falsen,Mathilde,Undirected,1
+Mira,Page,Undirected,1
+Carl,Page,Undirected,1
+Carl,Louis Philips,Undirected,1
+Madame,Monsieur,Undirected,1
+Raul,noels,Undirected,1
+Bretagneren,noels,Undirected,1
+Gud,Marquise,Undirected,1
+Mathilde,Uun,Undirected,1
+Marquisen,Uun,Undirected,1
+Mathilde,Raul,Undirected,1
+Robert,Thymian,Undirected,2
+David,Robert,Undirected,1
+Henri B.,Mira,Undirected,1
+Henri,Henri B.,Undirected,1
+Henri,Mathilde,Undirected,1
+Fox,Mira,Undirected,2
+Bretagnes,Mira,Undirected,2
+Melusine,Mira,Undirected,1
+Coreatidens,Mira,Undirected,1
+Coreatidens,Robert,Undirected,1
+Mira Mathilde,Robert,Undirected,1
+Beethoven,Mira,Undirected,1
+Mira,Oberon,Undirected,3
+Oberon,Webers,Undirected,1
+Mathilde,Webers,Undirected,1
+Mathilde,Oberon,Undirected,1
+Oberon,Raul,Undirected,1
+Oberon,Puck,Undirected,1
+Agathe,Puck,Undirected,3
+Agathe,Anna,Undirected,2
+Anna,Puck,Undirected,2
+Agathe,Max,Undirected,2
+Mathilde,Puck,Undirected,1
+Agathe,Mira,Undirected,1
+Max,Robert,Undirected,1
+Extase,Mathilde,Undirected,1
+Mira,T.,Undirected,1
+Grevens,Mira,Undirected,1
+Grevens,Talleyrand,Undirected,1
+Faubourg Saint-Germain,Ludvig den,Undirected,1
+Louis Philips,Ludvig den,Undirected,1
+Carl den Tiende,Louis Philips,Undirected,1
+Carl den Tiende,Ludvig den,Undirected,1
+Mathilde,lian,Undirected,1
+Feen Melusine,Mathilde,Undirected,1
+Feen Melusine,Raul,Undirected,1
+Christine,Gud,Undirected,1
+Christine,Mira,Undirected,1
+Grev T.,Mira,Undirected,1
+Maur,T.,Undirected,1
+Mathilde,T.,Undirected,1
+Maur,lian,Undirected,1
+Mira,lian,Undirected,1
+Greve,Mathilde,Undirected,1
+Greve,Saint-Maur,Undirected,1
+Greven,Mira,Undirected,1
+Madame Mathilde,Marquisen,Undirected,1
+Maur,Tribanal,Undirected,1
+Mira,Tribanal,Undirected,1
+Faust,Mira,Undirected,1
+T.,xHan,Undirected,1
+Sans-Culotte,T.,Undirected,1
+Mira ler,Sans-Culotte,Undirected,1
+Madame Mathilde,Mira,Undirected,1
+Mathilde,Saint-Maur,Undirected,1
+Mira,vexler,Undirected,1
+Mathilde,depne,Undirected,1

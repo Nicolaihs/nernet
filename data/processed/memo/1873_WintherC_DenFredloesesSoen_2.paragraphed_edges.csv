@@ -1,0 +1,704 @@
+source,target,type,weight
+Ingeborg,høilig,Undirected,1
+Erik,Ingeborg,Undirected,3
+Gud,istedetscr,Undirected,1
+Ingeborg,Pater Johannes,Undirected,1
+Grand,Ingeborg,Undirected,1
+Erik,elsfede,Undirected,1
+Gud,elsfede Ingeborg,Undirected,1
+Bonifacius,Ingeborg,Undirected,1
+Erik,Gud,Undirected,3
+Ingeborg,Paven,Undirected,1
+Erik,Pave Bonifacius,Undirected,1
+Aage,Pave Bonifacius,Undirected,1
+Gud,Ingeborg,Undirected,1
+Aage Joensen,Leonore,Undirected,2
+Gunild,Leonore,Undirected,1
+Aage,Stigs,Undirected,1
+Leonore,Stigs,Undirected,1
+Drostens,Ingeborg,Undirected,1
+Christopher,Drostens,Undirected,1
+Drosten,Josephs,Undirected,1
+Christo,Peders,Undirected,1
+Christo,Gud,Undirected,1
+Drosten,Kong Philip,Undirected,1
+Erik,Erkebisp Grand,Undirected,1
+Bonifacius,Erik,Undirected,1
+Dronning Ingeborgs,Ester Folketroen,Undirected,1
+Bognerp,Ester Folketroen,Undirected,1
+Gud,Kong Erik,Undirected,1
+Christoffer,Kong Erik,Undirected,3
+Erik,Kong Erik,Undirected,1
+Junker Christoffer,Leonore,Undirected,1
+Gert,Johan,Undirected,2
+Henrik,Kong Erik,Undirected,2
+Henrik,Herman,Undirected,21
+Johan,Kong Christoffer,Undirected,9
+Christoffer,Johan,Undirected,3
+Johan,dansfe,Undirected,1
+Johan,Ludvig Albertsen,Undirected,2
+Greve,Ulrikka,Undirected,1
+Ludvig Albertsen,Ulrikka,Undirected,1
+Albert,Johan,Undirected,8
+Albert,paany,Undirected,1
+Kong Christoffer,Ulrikka,Undirected,1
+Albrecht,Elsfer,Undirected,1
+Grev Herman,skjelmsk,Undirected,1
+Albert,Herman,Undirected,53
+Herman,Ulrikka,Undirected,61
+Herman,Ulrikke,Undirected,2
+Johan,Ulrikka,Undirected,2
+Albert,sireg,Undirected,1
+Albert,Albrechtsen,Undirected,2
+Albrecht,Herman slod,Undirected,1
+Greve af,Herman,Undirected,1
+Gud,Henrik,Undirected,1
+Albert,Grev Herman,Undirected,2
+Grev Herman,Herman,Undirected,2
+Albert,Ulrikke,Undirected,2
+Albert,Ulrikka,Undirected,17
+Christoffer slore,Kong Christoffer,Undirected,2
+Herman,Johan,Undirected,11
+Henrik,Johan,Undirected,10
+Gert,Henrik,Undirected,9
+Zambo,Zigeuneren,Undirected,5
+Zambo,Zambo slal,Undirected,1
+Albert,Zambo,Undirected,8
+Albert,Zigenneren,Undirected,1
+Albert,Hnn,Undirected,1
+Greven,Johan,Undirected,1
+Frøken lllrikkes,Herman,Undirected,1
+Albert,Frøken lllrikkes,Undirected,1
+ore,sfal,Undirected,1
+Bronce,ore,Undirected,1
+Bronce,Johan,Undirected,1
+Herman,Zambo,Undirected,33
+Johan,Mursfen Albrechtsen,Undirected,1
+Henrik,Mursfen Albrechtsen,Undirected,1
+Grev Jvhans,hans,Undirected,1
+Johan,Zambo,Undirected,1
+Henrik,Zambo,Undirected,9
+Albert,Henrik,Undirected,13
+Albert,ester,Undirected,1
+Johan,Ludvig Albrechtsen,Undirected,1
+Geert,Kong Christoffer,Undirected,1
+Albert,Zigeuner,Undirected,1
+Albert,Dolken,Undirected,1
+Dolken,Ulrikka,Undirected,1
+Albert,barsfe,Undirected,1
+Herman,barsfe,Undirected,1
+Herman,Hsrmans,Undirected,2
+Johan,Masfen,Undirected,1
+Albert,Wen,Undirected,1
+Grev Herman,Johan,Undirected,1
+Frøken Ulrikka,Gert,Undirected,2
+Herman,hnn,Undirected,2
+Herman,Kong Christoffer,Undirected,1
+Kong Christoffer,elsfes,Undirected,1
+Christoffer,Kong Christoffer,Undirected,1
+Christoffer,Gert,Undirected,2
+Gert,Sidsfe,Undirected,2
+Gert,Herman,Undirected,8
+Albrechfsen,Herman,Undirected,3
+EverS,Ulrikka,Undirected,1
+EverS,Gert,Undirected,1
+Grev Gerts,Herman,Undirected,1
+Henrik Leilighed,Ulrikka,Undirected,1
+Henrik Leilighed,Mursfen Albrechfsen,Undirected,1
+Albert,Mursfen Albrechfsen,Undirected,1
+Drosten,Henrik,Undirected,2
+Gud,Marsk Albrechtsen,Undirected,1
+Gud,Johan,Undirected,1
+Effer,Herman,Undirected,1
+Herman,Ulrikka Herman,Undirected,1
+Albert,Ulrikka Herman,Undirected,1
+Albert tale,Ulrikka,Undirected,1
+Albert tale,Henrik,Undirected,1
+Frøken Ulrikka,Herman,Undirected,8
+Judith,Steen,Undirected,1
+Johannes,Judith,Undirected,1
+Herman,Ulrifkas,Undirected,1
+Grev Johans,Herman,Undirected,1
+Henrik,Morsfen,Undirected,2
+Albert,Zigeunertjener,Undirected,1
+Henrik,drags,Undirected,1
+Greve,Johan,Undirected,1
+Albert,fror,Undirected,1
+Dronning iDanmark,Ulrikka,Undirected,2
+Johan,slilles,Undirected,2
+Gerhard,Johan,Undirected,2
+Gerhard,Gert,Undirected,1
+Knud Porse,Stig Andersen,Undirected,1
+Knud Porse,Laurents Jonsen,Undirected,1
+Gert,Laurents Jonsen,Undirected,1
+Christoffer,Herrik,Undirected,1
+Henrik,Ulrikka,Undirected,6
+Herman,sorsone,Undirected,1
+elsfe,sorsone,Undirected,1
+Gunild,elsfe,Undirected,1
+Gunild,Kong Erik,Undirected,1
+Kong Erik,ban,Undirected,1
+ban,elsfede,Undirected,1
+Gunild,elsfede,Undirected,1
+Gunild,Herman,Undirected,1
+Grev Gerhard,Ulrikka,Undirected,1
+Grev Herman,Mursfen,Undirected,1
+Grev Herman,Marsk Albrechtsen,Undirected,1
+Henrik,skjøndt,Undirected,1
+Gert,skjøndt,Undirected,1
+Junker Otto,Kong Christoffer,Undirected,1
+Johan,Otto,Undirected,3
+Junker,Otto,Undirected,8
+Lehn,Otto,Undirected,1
+Erik,Lehn,Undirected,1
+Erik,Stig Andersen,Undirected,1
+Ludvig Albrcchtsen,Stig Andersen,Undirected,1
+Laurents Jonsen,Ludvig Albrcchtsen,Undirected,1
+Christoffer,Laurents Jonsen,Undirected,1
+Keiser,Valdemar,Undirected,1
+Keiser,Ludvigs,Undirected,1
+Mursfen Albrechtsen,Stig Andersen,Undirected,1
+Mursfen Albrechtsen,Otto,Undirected,1
+Gud,Otto,Undirected,3
+Otto,sukkeoe,Undirected,1
+Anders,Otto,Undirected,2
+Anders,Gud,Undirected,2
+Henrik,Johan Ellemose,Undirected,1
+Henrik Bryde,Johan,Undirected,2
+Greven,Johan Ellemose,Undirected,1
+Auders,Kong Christoffer,Undirected,1
+Auders,Funkerne,Undirected,1
+Christoffer,Junker,Undirected,1
+Anders,Johan,Undirected,1
+Henrik Bryde,Johan Ellemose,Undirected,3
+Johan,Johan Ellemose,Undirected,1
+Johan,fom,Undirected,1
+Kong Christoffer,fom,Undirected,1
+Christoffer,Henrik,Undirected,1
+Johan Ellemose,Junker Otto,Undirected,1
+Henrik Bryde,Johan leiet,Undirected,1
+Junkeren,Otto,Undirected,1
+Greven,Junker Otto,Undirected,1
+Gud,Kain,Undirected,1
+Kain,Valdemar,Undirected,1
+Otto,Valdemar,Undirected,2
+Munk,tans,Undirected,1
+Junker,Kong Christoffer,Undirected,1
+Johan,Niels Ebbesen,Undirected,1
+Junker,Niels Ebbesen,Undirected,1
+Niels,Otto,Undirected,1
+Gert,ivold,Undirected,3
+Junkeren,Niels,Undirected,1
+Niels Ebbesen,Stig Andersen,Undirected,2
+Junkeren,Niels Ebbesen,Undirected,1
+Henrik,Junker,Undirected,1
+Gert,Otto,Undirected,1
+Henrik,Otto,Undirected,2
+Gert,Niels Ebbesen,Undirected,3
+Gert,Junker,Undirected,1
+Gud,Niels Ebbesen,Undirected,4
+Ebbesens,Henrik,Undirected,1
+Ebbesens,Gert,Undirected,1
+Gert,havo,Undirected,1
+David,Grrv Herman,Undirected,1
+David,Goliath,Undirected,2
+Henrik,jvil,Undirected,1
+Gert,Jnnker Ottos,Undirected,1
+Gert,Jnnker Otto,Undirected,1
+Henrik,Jnnker Otto,Undirected,1
+Henrik,Junker Otto,Undirected,1
+Grev Alberts,Herman,Undirected,1
+Grev Herman,Ulrikka,Undirected,1
+Herman,Junker Otto,Undirected,1
+Albert,Junker Otto,Undirected,1
+Herman,kjær,Undirected,1
+Gert,Ulrikka,Undirected,2
+Henrik,hans Leie,Undirected,1
+Grev Albert,Ulrikka,Undirected,2
+Grev Albert,Herman,Undirected,2
+Albert,Frøken Ulrikka,Undirected,1
+Albert,Junker,Undirected,1
+Gerhard,Otto,Undirected,1
+Junker Otto,Ulrikka,Undirected,1
+Albert,pleies,Undirected,1
+Herman,pleies,Undirected,1
+Albert,Marsk,Undirected,1
+Albert,Mursfen,Undirected,1
+Ieg,Marsk Albrechfsen,Undirected,1
+Eoers,Marsk Albrechfsen,Undirected,1
+Hans Zigeunertjcnsr,Ulrikka,Undirected,1
+Herman,Karle,Undirected,2
+Karle,Zambo,Undirected,1
+Grev Henrik,Tanshed,Undirected,1
+Christoffer,Junker Otto,Undirected,1
+Gert,Junker Otto,Undirected,1
+Gert,Keiser,Undirected,1
+Gud,Zambo,Undirected,3
+AlbertS,Henrik,Undirected,1
+AlbertS,Zambo,Undirected,1
+Bæstets,Zambo,Undirected,1
+Zambo,Zigeuner,Undirected,4
+Sultan,Zigeuneren,Undirected,1
+Sultan,Zambo,Undirected,1
+Mesters,Zambo,Undirected,1
+Ulrikka,sfal,Undirected,2
+Gud,Ulrikka,Undirected,5
+Gud,Jomfru Maria,Undirected,1
+Gud,Herman,Undirected,10
+Frøken Ulrikka,Henrik,Undirected,1
+Braad,Zambo,Undirected,1
+Christ,Zambo,Undirected,1
+Christ,Christne,Undirected,1
+Christne,Molok,Undirected,1
+Greven,Zambo,Undirected,5
+Gert,Hans,Undirected,2
+Hans,Herman,Undirected,1
+Hans,Henrik,Undirected,1
+Edmund,Herman,Undirected,23
+Greve,Herman,Undirected,2
+Greve,kjær,Undirected,1
+Anders,Edmund,Undirected,1
+Albert,Gert,Undirected,1
+Edmund,Karlen,Undirected,1
+Edmund,Gert,Undirected,3
+Edmund gjsttede,Herman,Undirected,1
+Edmund,Kasper,Undirected,1
+Gud,Karl,Undirected,1
+Herman,Karl,Undirected,4
+Edmund,Grev Herman,Undirected,5
+Albert,Edmund,Undirected,2
+Herman,høilys,Undirected,1
+Jørgen,øgsaa,Undirected,1
+Albert,øgsaa,Undirected,1
+Eduard,Jørgen,Undirected,1
+Edmund,Jørgen,Undirected,4
+Gott,Jøden,Undirected,1
+Edmund,Henrik,Undirected,6
+Albert,Evers,Undirected,1
+Albert fluide,Jørgen,Undirected,1
+Edmund øg Jørgen slege,Herman,Undirected,1
+Edmund øg Jørgen,Jørgen,Undirected,1
+Albert,Eduard,Undirected,1
+Albert,Jørgen,Undirected,1
+Geert,Herman,Undirected,4
+Marsk Albrechtsen,Ulrikka,Undirected,1
+Jomfru Maria,Stephanus,Undirected,1
+Stephanus,frank,Undirected,1
+Albert,Edmund slue,Undirected,1
+Herman,Rudolf,Undirected,1
+Poul,Rudolf,Undirected,1
+Martin,Poul,Undirected,1
+Albert,Grev Albert,Undirected,1
+Albert,UWM-,Undirected,1
+Edmund,Ieg,Undirected,1
+Albert,Ieg,Undirected,2
+Herman,Ieg,Undirected,2
+Herman,Jørgen,Undirected,8
+Albert,Peter,Undirected,1
+Johan,Peter,Undirected,1
+Karl,Ridder Edmund,Undirected,1
+Grev Herman,Karl,Undirected,1
+Jørgen,nn,Undirected,1
+Gud,Herman freidigt,Undirected,1
+Daniel,Herman,Undirected,1
+Henrik,Michel Bræmer,Undirected,1
+Gerhard,Grev Gerhardts,Undirected,1
+Henrik,nn,Undirected,1
+Henrik æg,paany,Undirected,1
+Henrik æg,Herman æg,Undirected,1
+Edmund,Herman æg,Undirected,1
+Herman,Hesfene,Undirected,2
+Karl,Zambo,Undirected,2
+Gustav,Zambo,Undirected,1
+Grev Alberts Zigeuner,Zambo,Undirected,1
+Ulrikka,Zambo,Undirected,5
+Herman,jhun,Undirected,1
+Herman,Zigeuner,Undirected,4
+Herman,Jomfru Marie,Undirected,1
+Henrik,stills,Undirected,2
+Kong Chrisloffer,stills,Undirected,1
+Geert,Ulrikka,Undirected,1
+Gud,Herman gansfe freidig,Undirected,1
+Gert,Stig Andersen,Undirected,1
+Henrik,Niels Ebbesen,Undirected,22
+Henrik,Nørrerisgaard,Undirected,1
+Niels Ebbesen,Nørrerisgaard,Undirected,1
+Ebbesen,Henrik,Undirected,7
+Ebbesen,Geert,Undirected,2
+Geert,Vinding,Undirected,1
+Vinding,Vugge,Undirected,1
+Jesus Christus,Ridder Ebbesen,Undirected,1
+Edmund,Henrik saavel,Undirected,1
+Gerhard,Niels Ebbe Galts,Undirected,1
+Niels Ebbe Galts,Niels Ebbesen,Undirected,1
+Geerts Leir,Niels Ebbesen,Undirected,1
+Geert,Niels Ebbesen,Undirected,9
+Bugges,Greven,Undirected,1
+Greven,Niels,Undirected,1
+Niels Ebbesen,Svend,Undirected,1
+Geert,Niels,Undirected,2
+Gert,Niels,Undirected,1
+Elsebeth,Geert,Undirected,1
+Geert,Henrik,Undirected,6
+Edmund,sagve Grev Henrik,Undirected,1
+Ebbesen,ester Midnat,Undirected,1
+Grev Geerts,Niels Ebbesen,Undirected,2
+Ebbefens,Ebbesen,Undirected,1
+Ebbefens,Haarlok,Undirected,1
+Niels Ebbescn,Niels Ebbesen,Undirected,1
+Ebbesen,Svend Trøst,Undirected,2
+Jil,Svend Trøst,Undirected,1
+Jil,Niels Ebbesen,Undirected,1
+Aste,Ebbesen,Undirected,1
+Geert,Svend Trøst,Undirected,1
+Niels Ebbesen,Svend Trøst,Undirected,1
+Aaen,Niels Ebbesen,Undirected,1
+Aaen,Grev Geerts,Undirected,1
+Bernhard,Gud,Undirected,2
+Bernhard,Niels Ebbesen,Undirected,1
+Niels,Niels Ebbesen,Undirected,1
+Gud,Ridder Ebbesen,Undirected,1
+Keiser,Kong Christoffer,Undirected,1
+Kong Christoffer,Prinds Valdemar,Undirected,1
+Prinds Valdemar,Valdemar,Undirected,1
+Valdemar,Valdemar Seir,Undirected,1
+Valdemar Seir,Valdemar den,Undirected,1
+Bugges,Edmund,Undirected,2
+Bugges,Vugge,Undirected,1
+Gud,Niels Ebbssen,Undirected,1
+Geert,Jernhenrik,Undirected,1
+Jernhenrik,Stig Andersen,Undirected,1
+Marsk Albrechlsens,Stig Andersen,Undirected,1
+Adersfe,Grev Geerts,Undirected,1
+Geert,Thomas Vugge,Undirected,3
+Edmund,Geert,Undirected,1
+Herman,Zigeunere,Undirected,1
+Bob,Dn,Undirected,1
+Bob,Sara,Undirected,2
+Bob,Herman,Undirected,1
+Greven,Herman,Undirected,2
+Morbroder,Zambo,Undirected,1
+Zambo,osnns,Undirected,1
+Zambo,Zigeunerhøvdingcn,Undirected,1
+Frøken Ulrikka,Greven,Undirected,1
+Herman,Marsk Albrechfsen,Undirected,1
+Zigeunere,Zigeuneren Zambo,Undirected,1
+Zambo,Zigeunere,Undirected,1
+Grev Herman,Marflen,Undirected,1
+Hart,Thomas Vugge,Undirected,1
+Keiser,Prinds Valdemar,Undirected,1
+Køng Christoffer,Valdemar,Undirected,1
+Herman,Køng Christoffer,Undirected,1
+Herman,Valdemar,Undirected,1
+Herman,Niels Ebbesen,Undirected,5
+Niels Ebbesen,Niels Ebbesm,Undirected,1
+Marsk,Thomas Vugge,Undirected,1
+Marflen,Søren,Undirected,1
+Herman,Mursfen,Undirected,2
+Samson,Zambo,Undirected,1
+Bob,Zambo,Undirected,5
+Dn,Zambo,Undirected,1
+Bob,Grev Herman,Undirected,1
+Bob,Zigeuneren,Undirected,1
+Marsk Albrechtsen,Zambo,Undirected,1
+Claus Limbæk,Herman,Undirected,1
+Claus Limbæk,Ulrikka,Undirected,2
+Herman,Herman slod,Undirected,1
+Clans,Limbek,Undirected,2
+Ulrikka,sidsfe,Undirected,1
+Marflen,sidsfe,Undirected,1
+Grev Herman,Marflen Albrechtsen,Undirected,1
+Frøken Ulrikka,Zigeunerhøvdingen,Undirected,1
+Hurak,Zambo,Undirected,9
+Herman,Samiel,Undirected,1
+Dolken,Herman,Undirected,1
+Zigeuner,Zigeuneren Zambo,Undirected,1
+Herman Skaren,Ulrikka,Undirected,1
+Ester,Herman Skaren,Undirected,1
+Herman,Zigeunerbandcn,Undirected,1
+Ulrikka,Zigeunerbandcn,Undirected,1
+Herman,Hurak,Undirected,1
+Zambo,lee,Undirected,1
+Claus Limbek,Edmund,Undirected,1
+Claus Limbek,lil,Undirected,1
+Thørning,lil,Undirected,1
+Geert,Herman lil Ridder Edmund,Undirected,1
+Claus Limbek,Herman,Undirected,10
+Herman,Limbek,Undirected,2
+Claus Limbæk,Limbek,Undirected,1
+Erik Menveds,Junker Valdemar,Undirected,1
+Junker Valdemar,Keiserens,Undirected,1
+Keiserens,Niels Ebbesen,Undirected,1
+Herman,Niels Ebbsens,Undirected,1
+Henrik den Jernhaarde,Herman,Undirected,1
+Henrik den Jernhaarde,Niels Ebbesen,Undirected,1
+Clans Limbek,Herman,Undirected,2
+Erik Glipping,Herman,Undirected,1
+Mathilde,hnn,Undirected,1
+Claus Limbek,Thørning,Undirected,1
+Henrik,Limbek,Undirected,4
+Limbek,Niels Ebbesen,Undirected,1
+Niels Ebbesen,Thomas Vugge,Undirected,5
+Junker Valdemar Veien,Niels Ebbesen,Undirected,1
+Edmund toge,Herman,Undirected,1
+David,Kong Volmers,Undirected,1
+Gud,Kong Volmers,Undirected,1
+Kong Volmers,Zigeuneren Zambo,Undirected,1
+Herman,Hesfe,Undirected,3
+Claus Limbek,Ulrikka,Undirected,2
+Frøken Ulrilkas,Herman,Undirected,1
+Edmund tilligemed,Herman,Undirected,1
+Edmund tilligemed,Limbek,Undirected,1
+Albrechtsen,Herman,Undirected,3
+Albrechtsen,Ridder Limbeks,Undirected,1
+Limbek,Ulrikka,Undirected,1
+Don yngre,Herman,Undirected,1
+Herman,Mathilde,Undirected,1
+Ulrikka,rung,Undirected,1
+Edmund,Ulrikka,Undirected,1
+Herman,nnge Limbek,Undirected,1
+Grev Geert,Karl n,Undirected,1
+Herman,oz,Undirected,1
+Hauptmann,nn,Undirected,1
+Geert,nn,Undirected,1
+Eser,Geert,Undirected,1
+Donsfe,Herman,Undirected,1
+Albert,Zigeuneren Zambo,Undirected,1
+Albert,Claus Limbæk,Undirected,2
+Claus Limbek,Henrik,Undirected,4
+Niels Ebbesen,Pleile,Undirected,1
+Clans,Henrik,Undirected,1
+David,Herman,Undirected,1
+Albrechtsen,Johan,Undirected,1
+Albrechtsen,Claus Limbek,Undirected,1
+Claus Limbek,helsf,Undirected,1
+Geert,Junker,Undirected,1
+Junker,Valdemar,Undirected,6
+Hamlet,Valdemar,Undirected,1
+Hamlet,Junker,Undirected,1
+Hedevig,Valdemar,Undirected,2
+Geert,Valdemar,Undirected,3
+Herman,Zigeuneren Zambo,Undirected,1
+Claus Limbek,Zigeuneren Zambo,Undirected,1
+Claus Limbek,Frøken Ulrikka,Undirected,1
+Ebbe- -,sen,Undirected,1
+Thomas,sen,Undirected,1
+Ebbefen,Herman,Undirected,1
+Grev Henrik,Niels Ebbesen,Undirected,1
+Ebbesen,Valen,Undirected,1
+Ebbesen,Jakob,Undirected,3
+Jakob,Ribebisp,Undirected,2
+Edmund,Jacobs,Undirected,1
+Jacobs,voxer,Undirected,1
+Herman,Thomas Vugge,Undirected,2
+Marflen Albrechfsen,Niels,Undirected,1
+Geert,Marflen Albrechfsen,Undirected,1
+Niels Ebbesen,slal Junker,Undirected,1
+Valdemar,slal Junker,Undirected,1
+Henri,Vugge,Undirected,1
+Henri,sial,Undirected,1
+Jacob,Thomas Vugge,Undirected,1
+Herman,Vugge,Undirected,2
+Herman,Ridder Edmund,Undirected,1
+Grev Herman,Niels Ebbesen,Undirected,3
+Grev Herman,Ridder Edmund,Undirected,1
+Claus Limbek,Niels Ebbesen,Undirected,2
+Jacob,slærke,Undirected,1
+Marsk Albrechtsen,Niels Ebbesen,Undirected,1
+Henrik,Vugge,Undirected,2
+"Claus,",Henrik,Undirected,1
+Herman,Morsfen,Undirected,1
+Morsfen,Svend,Undirected,2
+Herman,Svend,Undirected,7
+Geert,Svend,Undirected,1
+Claus,Henrik,Undirected,14
+Claus,Junker,Undirected,1
+Junker Valdemar,Jørgen,Undirected,1
+Geert,Hans Svend,Undirected,1
+Claus,Ridverr,Undirected,1
+Henrik,Ridverr,Undirected,1
+Grev Gerhard den Store,Hellens,Undirected,1
+Herman,hans Svend,Undirected,3
+HermanS,Svend,Undirected,1
+Svend,Thørning,Undirected,1
+Herman,Svend Thørning,Undirected,1
+Daniel,Svend,Undirected,1
+Brovægterens,Daniel,Undirected,1
+Brovægterens,Ulrikka,Undirected,1
+Clans Limbek,Limbek,Undirected,1
+Zigeunere,ester Herberget,Undirected,1
+Herman,ester Herberget,Undirected,1
+Albert og,Svend,Undirected,1
+Albert og,Zambo,Undirected,1
+Svend,Zigeuner,Undirected,1
+Herman,Martin,Undirected,3
+Greven,Martin,Undirected,1
+Herman,hans Svend slode,Undirected,1
+Zambo,hans Svend slode,Undirected,1
+Greve,Zambo,Undirected,1
+Græv Hcrmrn,fom,Undirected,1
+Hurak,fom,Undirected,1
+Zambo,høilys,Undirected,1
+Græv Herman,hans Svend slode,Undirected,1
+Græv Herman,Zambo,Undirected,1
+Græv Herman,Martin,Undirected,1
+Martin,Zambo,Undirected,2
+Hurak,Zigeuneren,Undirected,1
+Marsch,alflags,Undirected,1
+Henrik,Marsch,Undirected,1
+Grev Geert,Henrik,Undirected,4
+Claus,Grev Geert,Undirected,2
+Ebbesen,Vugge,Undirected,1
+Ebbesen,Niels Ebbesen,Undirected,11
+Græv,Henrik,Undirected,1
+Henrik,lee,Undirected,1
+Claus,felv,Undirected,1
+Henrik,Husf,Undirected,1
+Gerhard den Store,Husf,Undirected,1
+-,Grev Geert,Undirected,1
+-,Grev Henrik,Undirected,1
+Henrik,amasfe,Undirected,1
+Henrik,Ieg,Undirected,1
+Limbek,hans Leir,Undirected,1
+Grev Geert den Store,Henrik,Undirected,1
+Bille,Henrik,Undirected,1
+Bille,Niels Ebbesen,Undirected,1
+Claus Limbek,Limbek,Undirected,2
+Henri,Niels Ebbesen,Undirected,1
+Niels Ebbesen,Thomas Bugges,Undirected,1
+Daggry,Ebbesen,Undirected,1
+Daggry,Niels Ebbesen,Undirected,1
+Claus,Niels Ebbesen,Undirected,3
+Henrik,Seierherre,Undirected,1
+Niels Ebbesen,Seierherre,Undirected,1
+Græv Henrik,Henrik,Undirected,1
+Henrik,Karle,Undirected,1
+Claus,Hvi,Undirected,2
+Grev Geert,Niels Ebbesen,Undirected,3
+Grev Geert,Grev Gert,Undirected,1
+Junker Valdemar,Niels Ebbesen,Undirected,1
+Frøken Helvig,Junker Valdemar,Undirected,1
+Frøken Helvig,Valdemar,Undirected,1
+Geert,sfalde,Undirected,2
+Junker,Vugge,Undirected,1
+Niels Ebbesen,Valdemar,Undirected,1
+Kong Valdemar,Thomas Vugge,Undirected,1
+Ebbesen,Thomas Vugge,Undirected,1
+Geert,Keiserens,Undirected,1
+Keiserens,sif,Undirected,1
+Gcerts,sif,Undirected,1
+Herman,Ribebisp,Undirected,2
+Ebbesen,Herman,Undirected,7
+Gud,Jakob,Undirected,2
+Herman,Thørningflot,Undirected,2
+Ebbesen,sander,Undirected,1
+Ebbesen,Mursfen Albretchsen,Undirected,1
+Ebbesen,Ulrikka,Undirected,1
+Thørningflot,Ulrikka,Undirected,1
+Claus Limbek,Ridder Limbek,Undirected,1
+Marsk,Ridder Ebbesen,Undirected,1
+Claus Limbek,Valdemar den Tredie,Undirected,1
+Claus Limbek,Limbæk,Undirected,1
+Christi,Claus Limbek,Undirected,1
+Clans Limbek,Ulrikka,Undirected,1
+Kong Valdemar,sfal,Undirected,1
+Kong Valdemar,fredløs,Undirected,1
+Elsfede,Ulrikka,Undirected,1
+Herman,Melting,Undirected,1
+Clans,Melting,Undirected,1
+Clans,Ieg,Undirected,1
+Claus Limbek,Grev Herman,Undirected,1
+Claus Limbek,Hurak,Undirected,1
+Grev Herman,Hurak,Undirected,1
+Hurrk,Zigeuneren Zambo,Undirected,1
+Væddemaal,Zambo,Undirected,1
+ClanS Limbek,Zambo,Undirected,1
+Grev Herman,Zambo,Undirected,2
+Gæert,Niels Ebbesen,Undirected,1
+Gserts,Henrik,Undirected,1
+Hurak,Niels Ebbesen,Undirected,3
+Ebbesen,Hurak,Undirected,5
+Greven,Niels Ebbesen,Undirected,1
+Hurak,Zigeuneren Zambo,Undirected,1
+Greven,Ridder Ebbesen,Undirected,1
+Uraad,Zambo,Undirected,1
+Hurak,Karl,Undirected,1
+Flasfen,Gud,Undirected,1
+Gud,Hurak,Undirected,1
+Grev Geert den Store,Junker Valdemar,Undirected,1
+Henrik,Junker Valdemar,Undirected,1
+Erik,Peiter,Undirected,1
+Erik,Karl,Undirected,1
+Hurak,spnrgte,Undirected,1
+Græv Herman,Niels Ebbesen,Undirected,1
+Herman,ester,Undirected,1
+Jesper,Zambo,Undirected,1
+Jernhenrik,Jesper,Undirected,1
+Niels Ebbcsen,Zambo,Undirected,1
+Henrik,Niels Ebbcsen,Undirected,2
+Catharine,Niels Ebbesen,Undirected,1
+Catharine,Henrik,Undirected,1
+Ebbesen,Zambo,Undirected,5
+Niels Ebbesen,Zigeuner,Undirected,3
+Niels Ebbesen,Zigeuneren,Undirected,2
+Niels Ebbesen,kam,Undirected,1
+Ebbesen,Zigeuner,Undirected,2
+Saar,Zambo,Undirected,1
+Peer,as,Undirected,1
+Zambo,as,Undirected,1
+Ebbesen,Peer,Undirected,1
+Ebbesen,Gud,Undirected,1
+Jørgen,Peer,Undirected,1
+Peer,hans Baand,Undirected,1
+Zambo,hans Baand,Undirected,1
+Zambo,gansfe,Undirected,1
+Niels Ebbesen,Zambo,Undirected,5
+Halfen,Zambo,Undirected,2
+Niels Ebbesen,Zigeuncrne,Undirected,1
+Henrik,Zigeuncrne,Undirected,1
+Henrik,paany,Undirected,1
+slal,tillive,Undirected,1
+Haus,Ulrikka,Undirected,1
+Henrik Skaren,Zigeuner,Undirected,1
+Niels Sbbesen,Zambo,Undirected,1
+Henrik,Hurak,Undirected,3
+Ebbesm,Grev Hen-,Undirected,1
+Eoer,Henrik,Undirected,1
+Eoer,Niels Ebbesen,Undirected,1
+Niels Ebbesen,Zigeunervis,Undirected,1
+Helfred,Henrik,Undirected,2
+Helfrcd,Helfred,Undirected,1
+Hsn,Zambo,Undirected,1
+Ihan,Zambo,Undirected,1
+Greven,Hurak,Undirected,1
+Ebbefen,Ebbesen,Undirected,1
+Ebbescn,Ebbesen,Undirected,1
+Zambo,svingel,Undirected,1
+Ulrikka,Zigeuneren Zambo,Undirected,1
+Edmund,Niels Ebbesen,Undirected,1
+Edmund,Zigeuneren,Undirected,1
+Ebbesen,Zigeuneren,Undirected,2
+Henrik,Leir,Undirected,1
+.,Henrik,Undirected,1
+Clans,Karlen,Undirected,1
+Karlen,Niels EbbesenS,Undirected,1
+Claus,Gud,Undirected,1
+Gud,mev,Undirected,1
+Herman,Niels Ebbcsen,Undirected,1
+Christne flulle,Niels Ebbesen,Undirected,1
+Mester Jakob,Niels Ebbesen,Undirected,1
+Jakob,Niels Ebbesen,Undirected,1
+Jakob,Seire,Undirected,1
+Ebbesen,Seire,Undirected,1
+Kong Christophers,Niels Ebbes-n,Undirected,1
+Kong Christophers,Valdemar,Undirected,1
+Jakob siet,Niels Ebbesen,Undirected,2
+Niels Ebbesen,bisse,Undirected,1
+Niels Ebbesen,did,Undirected,1
+did,slærke,Undirected,1
+Jakob,slærke,Undirected,1
+Henrik,dæn,Undirected,1
+Niels Ebbesen,dæn,Undirected,1
+Ebbesen,undgaa,Undirected,1
+Henrik,Jakob,Undirected,1
+Henrik,Hisf,Undirected,1

@@ -1,0 +1,155 @@
+source,target,type,weight
+Tanner,Tanners,Undirected,1
+Blichers,Øhlenschlægers,Undirected,1
+Blichers,Shakspeares,Undirected,1
+fidel,lians,Undirected,1
+Eris,p. p.,Undirected,1
+Gud,Luna,Undirected,1
+Zephyr,lian,Undirected,1
+Hymen,lian,Undirected,1
+Amalie,liun,Undirected,1
+Dan,Lucifer,Undirected,1
+Judas,Lucifer,Undirected,1
+Brutus,Judas,Undirected,1
+Brutus,Cassius,Undirected,1
+Oles,Peter,Undirected,1
+Mama,Peter,Undirected,1
+Pluralis,ganz etwas,Undirected,1
+Gud,ganz etwas,Undirected,1
+Mikkelsen,Reuter,Undirected,1
+Darwin,Reuter,Undirected,1
+Henriksen,Hermine,Undirected,1
+Mikela,Peter,Undirected,1
+Bo,Peter,Undirected,2
+Hermine,Mikkelsen,Undirected,1
+Baggesen,Jeppe,Undirected,1
+Jæ,jæ,Undirected,6
+Garder-Petersen,Jæ,Undirected,1
+Overbetjenten,hersens,Undirected,1
+Overbetjenten,Svendsen,Undirected,1
+Garder-Petersen,jæ,Undirected,2
+Laura,Paulsen,Undirected,1
+Laura,jas,Undirected,1
+jæ,kreperte,Undirected,2
+Laura,jæ,Undirected,2
+Laura,Ordrup,Undirected,1
+Jæ,Ordrup,Undirected,1
+Motters,jæ,Undirected,2
+Gud,Jæ,Undirected,1
+Gud,jæ,Undirected,1
+Jæ,jap,Undirected,1
+jap,jæ,Undirected,1
+Møller,tra.k Kakkelovnen,Undirected,1
+Charles Møller,Emil Frandsen,Undirected,1
+Emil Frandsen,Medisin,Undirected,1
+Aksel Knuttosen,Medisin,Undirected,1
+Aksel Knuttosen,Gesicht,Undirected,1
+Charles,Frandsen,Undirected,1
+Stade Knuttesens,sorn,Undirected,1
+Frandsen,Kuuttesen,Undirected,1
+Frandsen,per aspera,Undirected,1
+astra,per aspera,Undirected,1
+Frandsen,Leo Hermanns,Undirected,1
+H jælp,s,Undirected,1
+Charles,livis,Undirected,1
+Hanrej,hnn,Undirected,1
+Hanrej,j'eg,Undirected,1
+Eden,liam,Undirected,1
+Scylla,livor,Undirected,1
+Charles Møller,Spurzhejms,Undirected,1
+Emilie,Gud,Undirected,2
+A. Knuttesen,Frandsen,Undirected,1
+Frandsen,Knuttesen,Undirected,1
+Charles,Gud,Undirected,1
+Frandsen,liun,Undirected,1
+Frandsen,Møller,Undirected,1
+Møller,ove,Undirected,1
+Holger Feddersen,mephistoagtig,Undirected,1
+. Feddersen,Schrebers,Undirected,1
+don,lian,Undirected,1
+Holger,Stefan,Undirected,15
+Asthma,Stefan,Undirected,2
+Asthma,liar,Undirected,1
+Hansen,Slohrok,Undirected,1
+Slohrok,liar lian,Undirected,1
+Gud,liar lian,Undirected,1
+Gud,Marie Grubbe,Undirected,1
+Marie Grubbe,Øhlenschlægers,Undirected,1
+Helge,Øhlenschlægers,Undirected,1
+Kierkegaards,Stefan,Undirected,1
+Kierkegaard,Kierkegaards,Undirected,1
+Feddersen,Hansen,Undirected,1
+Feddersen,Holger,Undirected,3
+lier,niente,Undirected,1
+Kis,niente,Undirected,1
+Kis,studiosi,Undirected,1
+ban,studiosi,Undirected,1
+Morgenstund,notam,Undirected,1
+Hansen,Stefan,Undirected,3
+Holger,lian,Undirected,1
+Papa,Rask,Undirected,1
+Holger,Jakobsens,Undirected,1
+Holger,Mogensen,Undirected,8
+Ali,Mogensen,Undirected,1
+Joktan den,Niels Kiim,Undirected,1
+Gine Petersen,Stefan,Undirected,1
+Holger,skoggerlo Stefan,Undirected,1
+Mogensen,Stefan,Undirected,1
+Holger,Mimers,Undirected,1
+Mannnon,vita,Undirected,1
+Mannnon,lian,Undirected,1
+Stefan,livor autor,Undirected,1
+Feddersen,Hr. Mogensen,Undirected,1
+Eden,Holger,Undirected,1
+Gud,Hansen,Undirected,1
+Hansen,Holger,Undirected,2
+Asthma,Holger,Undirected,1
+Mogensen,liam,Undirected,1
+Mogensen,lian,Undirected,2
+Stefan,lian,Undirected,1
+Robinson,Stefan,Undirected,1
+hnn,liam,Undirected,1
+Asthma,Hansen,Undirected,1
+Hansen,Unkel,Undirected,1
+Sønneke,Unkel,Undirected,1
+Sønneke,voi,Undirected,1
+Herodes,Pilatus,Undirected,1
+bun,liun,Undirected,1
+Mogensen,bun,Undirected,1
+Mogensen,Robinson,Undirected,1
+Holger,lir,Undirected,1
+. Gregersen,lir,Undirected,1
+Emma,Mogensen,Undirected,1
+Gtilia,Mogensen,Undirected,1
+Johnsen,Svendsen,Undirected,1
+Blicher,Mogensen,Undirected,1
+J ainsi,Otilia,Undirected,1
+liam,lian,Undirected,1
+Mogensen,s,Undirected,1
+Mogensen,volens,Undirected,1
+Hansen,volens,Undirected,1
+Mogensen,Nemesis,Undirected,1
+Fønst,Stefan,Undirected,1
+Fønst,Hansen,Undirected,1
+Gud,Stefan,Undirected,1
+Gud,hei-,Undirected,1
+Holger,hei-,Undirected,1
+Hansen,dei-,Undirected,1
+Holger,dei-,Undirected,1
+Emma,Feddersen,Undirected,1
+Feddersen,Mogensen,Undirected,1
+dein,lian diet,Undirected,1
+Gregersen,Mogensen,Undirected,1
+Stefan,flan,Undirected,1
+Holger,flan,Undirected,1
+Alfred,kajre,Undirected,1
+Agnes,je ne sais quoi,Undirected,1
+liendes,liun,Undirected,1
+liam,liun,Undirected,2
+Alfred,liun,Undirected,1
+Alfred,Katinka,Undirected,3
+Agnes,Katinka,Undirected,3
+Agnes,Alfred,Undirected,2
+Alfred,Gud,Undirected,1
+Agnes,tor,Undirected,1
+liam,tor,Undirected,1

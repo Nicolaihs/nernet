@@ -1,0 +1,125 @@
+source,target,type,weight
+Haller,Lili,Undirected,2
+Haller,Knudsen,Undirected,4
+Knudsen,Madam Knudsen,Undirected,2
+Knudsen,ban,Undirected,2
+Haller,Madam Knudsen,Undirected,1
+Madam Knudsen,Sirtses,Undirected,1
+Dagna,Ingeborg,Undirected,92
+Ingeborg,Knudsen,Undirected,7
+Karen,Knudsen,Undirected,1
+Dagna,Karen,Undirected,6
+Dagna,Madam Knudsen,Undirected,9
+Madam Knudsen,Madammen,Undirected,1
+Ingeborg,Madammen,Undirected,1
+Dagna,Lili,Undirected,3
+Dagna,lille Dagna,Undirected,1
+Ingeborg,Karen,Undirected,3
+Dagna,G rosserer,Undirected,1
+Dagna,Ingeborg Knudsens,Undirected,1
+Dagna,Karsten,Undirected,4
+Dagna,lier,Undirected,2
+Dagna,Pappa,Undirected,3
+Pappa,lille Dagna,Undirected,1
+Ingeborg,lille Dagna,Undirected,2
+Karen,Madam Knudsen,Undirected,1
+Dagna Haller,Ingeborg,Undirected,1
+Dagna,Dagna Haller,Undirected,1
+Ingeborg,Madam Knudsen,Undirected,23
+Dagna,paany,Undirected,2
+Dagna,Mamma,Undirected,8
+Mamma,Pappa,Undirected,9
+Dagna,Graadcn,Undirected,1
+Dagna,Fru Hallers,Undirected,1
+Dagna,yed Dagnas,Undirected,1
+Dagna,Gud,Undirected,6
+Dagna,Haller,Undirected,8
+Dagna,Karsten Haller,Undirected,1
+Gud,Haller,Undirected,1
+Ingeborg,Mamma,Undirected,4
+Frøken Dagna,Madam Knudsen,Undirected,1
+Frøken Dagna,lille Ingeborg,Undirected,1
+Ingeborg,r,Undirected,1
+Madam Knudsen,Mamma,Undirected,1
+Madam Knudsen,Madam Nielsen,Undirected,2
+Ingeborg,Madam Nielsen,Undirected,22
+Bodils,Ingeborg,Undirected,1
+Jørgen,Madam Nielsen,Undirected,10
+Ingeborg,Skomager Knudsen,Undirected,2
+Ingeborg,nette,Undirected,1
+Haller,nette,Undirected,1
+Haller,Ingeborg,Undirected,1
+Madam Knudsen,raade,Undirected,1
+Ingeborg,Jørgen,Undirected,70
+Ingeborg,Kirstine,Undirected,1
+Ingeborg,Vorherre,Undirected,1
+Madam Nielsen,Vorherre,Undirected,1
+Jørgen,ban,Undirected,1
+Ingeborg,ban,Undirected,1
+Graad,Jørgen,Undirected,2
+Ingeborg,lille Ingeborg,Undirected,2
+Dronning Louises Bro,Gud,Undirected,1
+Hr. Nielsen,Ingeborg,Undirected,1
+Hr. Nielsen,Jørgen,Undirected,1
+Ingeborg,Mo'r,Undirected,1
+Bodil,Mo'r,Undirected,1
+Bodil,Ingeborg,Undirected,11
+Jørgen,Mo,Undirected,1
+Bodil,Jørgen,Undirected,7
+Bodil,Bodil saaledcs,Undirected,2
+Bodil,kanske,Undirected,2
+Ingeborg,Sirtses,Undirected,1
+Ingeborg,lians,Undirected,1
+Jørgen,Madam Knudsen,Undirected,3
+Jørgen,Knudsen,Undirected,3
+Jørgen,lille Ingeborg,Undirected,1
+Bjærge,Gud,Undirected,1
+Ingeborg,lien,Undirected,1
+Arnes,Ingeborg,Undirected,1
+Arne,Madam Nielsen,Undirected,1
+Arne,Jørgen,Undirected,8
+Arne,Ingeborg,Undirected,25
+Ingeborg,Roeskilde,Undirected,4
+Graad,Roeskilde,Undirected,1
+Ingeborg,Jørgen Ingeborg,Undirected,1
+Arne,Jørgen Ingeborg,Undirected,1
+Gud,Madam Knudsen,Undirected,1
+Arne,lians,Undirected,2
+Arne,Gud,Undirected,2
+Mamma,Monsieur,Undirected,1
+Gud,lille Dagna,Undirected,1
+Gud,Knudsen,Undirected,1
+Gud,Ingeborg,Undirected,3
+Gud,Jørgen,Undirected,2
+Bodil,Gud,Undirected,2
+Gud,Madam Nielsen,Undirected,1
+Knudsen,Roeskilde,Undirected,1
+Jørgen,Roeskilde,Undirected,1
+Dagna,Jørgen,Undirected,8
+Dagna,Graad,Undirected,2
+Hr. Krag,Mamma,Undirected,1
+Dagna,Storm,Undirected,1
+Arne,Dagna,Undirected,35
+Arne,Nemesis,Undirected,1
+Dagna,Nemesis,Undirected,1
+Arne,Edith,Undirected,1
+Arne,Arne Krag,Undirected,1
+Arne,Haller,Undirected,2
+Bodil,Roeskilde,Undirected,1
+Jørgen,lians,Undirected,2
+Bodil,lians,Undirected,1
+Dagna,Resedaers,Undirected,1
+Elisabeth,Ingeborg,Undirected,2
+Elisabeth,Madam Nielsen,Undirected,2
+Bodil,Elisabeth,Undirected,1
+Madam Knudsen,lille Ingeborg,Undirected,1
+Ingeborg,Lille Elisabeth,Undirected,1
+Dagna,Knudsen,Undirected,5
+Ingeborg,Lisbeth,Undirected,1
+Graad,Ingeborg,Undirected,1
+Arne,Skaansel,Undirected,1
+Ingeborg,Skaansel,Undirected,1
+Arne,ban,Undirected,2
+Arne,Chr. Richardts,Undirected,1
+Dagna,lian,Undirected,1
+Madam Knudsen,Roeskilde,Undirected,1

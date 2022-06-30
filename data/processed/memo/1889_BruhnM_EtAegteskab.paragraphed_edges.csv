@@ -1,0 +1,80 @@
+source,target,type,weight
+Esther,Krabbe,Undirected,41
+Krabbe,Oluf Hansen,Undirected,4
+Esther,Oluf Hansen,Undirected,5
+Kjære,Krabbe,Undirected,1
+Frue,Olut Hansen,Undirected,1
+Dr. Hald,Esther,Undirected,1
+Dr. Hald,Oluf Hansen,Undirected,1
+Esther,Sands,Undirected,1
+Dr. Krabbe,Esther,Undirected,1
+Esther,Olaf Hansens,Undirected,1
+Olaf Hansens,Oluf,Undirected,1
+Krabbe,Oluf,Undirected,2
+Esther,Oluf,Undirected,20
+Mo,Svend,Undirected,8
+lille Mo,lille kjære,Undirected,1
+Mo’,lille kjære,Undirected,1
+Esther,Mo,Undirected,1
+Esther,Svend,Undirected,9
+Aaget,Guds,Undirected,1
+Esther,Guds,Undirected,1
+Oluf,Svend,Undirected,2
+Holm,Lili,Undirected,1
+Esther,Papa,Undirected,1
+Lili,paany,Undirected,1
+Esther,Holm,Undirected,2
+Esther,Lili,Undirected,27
+Lili,Mama,Undirected,2
+Hansen,Lili,Undirected,1
+Esther,Hansen,Undirected,1
+Lili,Oluf Hansen,Undirected,1
+Mo,Roes,Undirected,1
+Esther,Frøken Lili,Undirected,1
+Mama,Papa,Undirected,4
+Mo’,lille Mo’,Undirected,1
+Axel,Oluf,Undirected,1
+Lili,Oluf,Undirected,8
+Atlaskes,Oluf,Undirected,1
+Esther,lille Lili,Undirected,1
+Mo’,Svend,Undirected,1
+Axel,Svend,Undirected,3
+Krabbe,Svend,Undirected,3
+Krabbe,Praskis,Undirected,1
+Esther,Praskis,Undirected,1
+Esther,lille Esther,Undirected,1
+Hans Mortens,Piasiers,Undirected,1
+Hans Mortens,Hon,Undirected,1
+Hon,hon,Undirected,1
+hon,jen ætter,Undirected,1
+hwa,kjør,Undirected,1
+Krabbe,Mo,Undirected,2
+Svend,lille Mo,Undirected,1
+Krabbe,lille Mo,Undirected,1
+Esther,Hald,Undirected,2
+Dr. Hald,Svend,Undirected,1
+Esther,hans,Undirected,1
+Holm,Oluf Hansen,Undirected,2
+Holm,Petersen,Undirected,2
+Lili Holm,Oluf Hansen,Undirected,1
+Holm,Oluf,Undirected,1
+Lili,Meubel,Undirected,1
+Gud,véd,Undirected,1
+Krabbe,Papa,Undirected,1
+Papa,Petersen,Undirected,1
+Adam,Frøken Lili,Undirected,1
+Oluf,lille Lili,Undirected,1
+Froww,Frowwen,Undirected,1
+Krabbe,Mie,Undirected,1
+Knud,Mie,Undirected,1
+Knud,Krabbe,Undirected,3
+Knud,Mie wæhr,Undirected,1
+Esther,Mie wæhr,Undirected,1
+Knud,alliwwel,Undirected,1
+Sidse,Sidsel,Undirected,1
+Gud,Sidsel,Undirected,1
+Esther,Knud,Undirected,1
+Krabbe,Lili,Undirected,1
+Axel,Esther,Undirected,4
+Esther,Kjære,Undirected,1
+Kjære,kjære Esther,Undirected,1

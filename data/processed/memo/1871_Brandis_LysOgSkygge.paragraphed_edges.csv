@@ -1,0 +1,147 @@
+source,target,type,weight
+Matthias Gram,Susanne,Undirected,2
+Matthias,Susanne Rud kjær,Undirected,1
+Susanne,sfal,Undirected,1
+Ingeborg,sfal,Undirected,1
+Ingeborg,Susanne,Undirected,8
+Alfred,Ester Susanne,Undirected,1
+Alfred,l,Undirected,1
+Ellen,Ingeborg,Undirected,3
+Rud,Susanne,Undirected,2
+Ane,Susanne,Undirected,2
+Ane,Jomfru Ane,Undirected,1
+Matthias,Susanne,Undirected,60
+Matthias,hnn,Undirected,5
+Allid,Susanne,Undirected,1
+Alfred,Matthias,Undirected,20
+Comtessen,Susanne,Undirected,1
+Susanne,ZEldstes,Undirected,2
+Susanne,def,Undirected,1
+Comtesse Ada Wildenow,Susanne,Undirected,1
+Adas,Susanne,Undirected,1
+Susanne,hnn,Undirected,4
+Adas,hnn,Undirected,1
+Comtessen,hnn,Undirected,1
+Ada,Susanne,Undirected,59
+Roes,Susanne,Undirected,1
+Ada,Roes,Undirected,1
+Ada,Comtessen,Undirected,1
+Ada,Matthias,Undirected,21
+Ada,Alfred,Undirected,34
+,Matthias,Undirected,6
+Matthias,felv,Undirected,1
+Alfred,Susanne,Undirected,37
+Alfred,Ingeborg,Undirected,5
+Susanne,sorst Ada,Undirected,1
+Ada,Frøken Groves,Undirected,1
+Dandsen,Frøken Groves,Undirected,1
+Dandsen,Susanne,Undirected,1
+Ada,PladA,Undirected,1
+Hildeborg,soresfaae,Undirected,1
+Faster Hildeborg,Hildeborg,Undirected,1
+Faster Hildeborg,hnn,Undirected,1
+Hildeborg,hnn,Undirected,1
+Ada,Hildeborg,Undirected,2
+Susanne,dandse,Undirected,1
+Hildeborg,Johanne Deves,Undirected,1
+Ingeborg,Matthias,Undirected,3
+Faster,Fasters,Undirected,1
+Faster,Gud flee,Undirected,1
+Ada,Villie,Undirected,1
+Elise,kene,Undirected,1
+Bedstemoder,Elise,Undirected,2
+Susanne,bendes,Undirected,1
+Gud,Susanne,Undirected,5
+Matthias,esterlevedes,Undirected,1
+Alfred,esterlevedes,Undirected,1
+Dandsen,Matthias,Undirected,1
+Susanne,ester,Undirected,2
+Alfred,ester,Undirected,1
+Ada,Dandsen,Undirected,1
+Alfred,Dandsen,Undirected,1
+Frøken Grove,Matthias,Undirected,1
+Alfred,Frøken Grove,Undirected,1
+Ada,hnn,Undirected,1
+Alfred,hnn,Undirected,2
+Susanne,elsfede,Undirected,1
+Susanne,ester Alfred,Undirected,1
+Gud,as,Undirected,1
+Matthias,Odysseus,Undirected,2
+Ada,Øe,Undirected,2
+Elffer,Susanne,Undirected,2
+Susanne,Øe,Undirected,1
+Rud,Øe,Undirected,1
+Alf,Rud,Undirected,1
+Alfred,hans,Undirected,1
+ZEren,hans,Undirected,1
+Alfred,ZEren,Undirected,1
+Ada,Ingeborg,Undirected,1
+Gud,Ingeborg,Undirected,2
+Ingeborg,christne Mennefler,Undirected,1
+Alfred,ZEre,Undirected,1
+Susanne,Trottan,Undirected,2
+Ane,Peter,Undirected,1
+Ada,Peter,Undirected,1
+Matthias,as,Undirected,1
+Alfred,Comtesse,Undirected,1
+Matthias,taus,Undirected,1
+Susanne,Trottau,Undirected,4
+Alfred,Susanne bebreidende,Undirected,1
+Golgatha,Susanne,Undirected,1
+Kanskee,Matthias,Undirected,1
+Ellen,J,Undirected,1
+Ingeborg,S oster,Undirected,1
+Ellen,tsr Ingeborg,Undirected,1
+Roes,tort,Undirected,1
+Matthias,Ruth,Undirected,1
+Alfred,Philemon,Undirected,1
+Baucis,Philemon,Undirected,1
+Jomfru Ane,Susanne,Undirected,1
+Matthias,Skjel,Undirected,1
+Susanne,meesf,Undirected,1
+Alfred,meesf,Undirected,1
+Alfred,Trottau,Undirected,3
+Ada,Graad,Undirected,1
+Ada,Trottau,Undirected,2
+Ada,Wildenow,Undirected,1
+Matthias,Matthias elsfede,Undirected,1
+Ada,Matthias elsfede,Undirected,1
+Gud,hnn,Undirected,1
+Matthias,el,Undirected,2
+Forbauselfe,Matthias,Undirected,1
+Alfred,as,Undirected,2
+Alfred,Telemach,Undirected,1
+Susanne,Telemach,Undirected,1
+Ingeborg,ester,Undirected,1
+Ingeborg,Skjont,Undirected,1
+Qvist,Skjont,Undirected,1
+Gud,Qvist,Undirected,1
+Gud,Jesu,Undirected,1
+Qvist,Susanne,Undirected,1
+Alfred,kanskee,Undirected,2
+Ada,Ellen,Undirected,1
+Ada,Gud,Undirected,2
+Alfred,Qvist,Undirected,1
+Ingeborg,Qvist,Undirected,1
+Christian Vl,Ingeborg,Undirected,1
+Matthias,grant,Undirected,1
+Paven,grant,Undirected,1
+Erlaucht,Ingeborg,Undirected,1
+Erlaucht,hnn,Undirected,1
+Hildeborg,Ingeborg,Undirected,1
+,Ada,Undirected,1
+Matthias,firedobbelte,Undirected,1
+Herrren,Matthias,Undirected,1
+Alfred,Johannes fluide,Undirected,2
+,Susanne,Undirected,1
+,Sidsfe,Undirected,1
+Christus Jesus,Gud,Undirected,1
+Faster Hildeborg,Qvist,Undirected,1
+Faster Hildeborg,Frøken Grove,Undirected,1
+Faster,Hildeborg,Undirected,1
+Matthias,dod,Undirected,1
+Matthias,Thinge,Undirected,1
+Susanne,Thinge,Undirected,1
+Susanne,gridfle,Undirected,1
+Gud,Matthias,Undirected,1
+G,Susanne,Undirected,1

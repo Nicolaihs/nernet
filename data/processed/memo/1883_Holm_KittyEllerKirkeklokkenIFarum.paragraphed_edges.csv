@@ -1,0 +1,445 @@
+source,target,type,weight
+Gotlieb,Principals,Undirected,1
+Eva,Robert,Undirected,29
+Kitty,sfal,Undirected,1
+Kitty,Seir,Undirected,2
+Kitty,Zigeunerske,Undirected,1
+Zigeunerske,galant,Undirected,1
+Jsflade,Kitty,Undirected,1
+Kitty,Pelts,Undirected,2
+Eva,Mari,Undirected,21
+Mari,Robert,Undirected,21
+Janne,Robert,Undirected,50
+Harders,Robert,Undirected,4
+Gotlieb,Nei,Undirected,1
+Gotlieb,Kitty,Undirected,13
+Gotlieb,Seiren,Undirected,1
+KampenKitty,Seiren,Undirected,1
+Gud,Janne,Undirected,8
+Eva,Janne,Undirected,14
+Eva,vovsde,Undirected,1
+Harders,Madam Frederiksen,Undirected,1
+Svend,lange,Undirected,2
+Kallesen,Svend,Undirected,1
+Mester Jepsen,Robert,Undirected,3
+Frederiksen,Robert,Undirected,3
+Jepsens,siig,Undirected,1
+Kallesen,Robert,Undirected,1
+Kitty,Robert,Undirected,104
+Aukfionen,Kitty,Undirected,1
+Gud,Madam,Undirected,1
+Anna,Kitty,Undirected,12
+,Agnes,Undirected,2
+,Kitty,Undirected,2
+Agnes,Assessor Rung,Undirected,1
+Agnes,Kitty,Undirected,1
+Robert,hart,Undirected,1
+Kitty,sg,Undirected,1
+Gotlieb,ester,Undirected,2
+Harders,Pallesen,Undirected,1
+Greven,Kitty,Undirected,16
+Grev Hambroes,as,Undirected,1
+Kitty Harder,Pallefen,Undirected,1
+Greven,Lene,Undirected,1
+Greven,Gud,Undirected,1
+Mutter,Præsfen,Undirected,1
+Flora,Greven,Undirected,1
+Robert,taus,Undirected,4
+Jepsen,Robert,Undirected,5
+Gud,Jepsen,Undirected,1
+Gud,Mesfer Jepsen,Undirected,1
+Mesfer Jepsen,Robert,Undirected,1
+Mester Jepsen,Stueuhr,Undirected,1
+Jepsen,Kalle,Undirected,1
+Mari,Mester Jepsen,Undirected,1
+Mester Jepsen,barst,Undirected,1
+Jepsen,Svend,Undirected,2
+Robert,husf,Undirected,1
+Janne,løi,Undirected,1
+Janne,hnn,Undirected,2
+Gud,hnn,Undirected,1
+Karakteer,Robert,Undirected,1
+Laura,Svend,Undirected,1
+Herr Frederiksen,Svend,Undirected,1
+Herr Frederiksen,Janne,Undirected,1
+Robert,lille Frue,Undirected,1
+Janne,dandse,Undirected,2
+Laura,Robert,Undirected,17
+Robert,dandse,Undirected,1
+Janne,Laura,Undirected,42
+Janne,Svend,Undirected,2
+Harder,taus,Undirected,1
+Harder,Klement,Undirected,3
+Gud,Kitty,Undirected,14
+Gud,Harder,Undirected,5
+Gud,jpaa,Undirected,1
+Anders,Pasforen,Undirected,1
+Kitty,Pallesen,Undirected,3
+Greven,Kitty Harder,Undirected,2
+Anders,Kitty Harder,Undirected,1
+Herr Greve,Kitty,Undirected,1
+Greven,Steffen,Undirected,2
+Greven,Kitty vårene,Undirected,1
+Pallesen,Ritter,Undirected,1
+Flora,barsf,Undirected,1
+Kitty,Steffen,Undirected,1
+Høibords,Kitty,Undirected,1
+Robert,jdet,Undirected,1
+Amor,Kitty,Undirected,1
+Amor,Robert,Undirected,1
+Kitty,Mari,Undirected,13
+Kitty Harder,Mari,Undirected,2
+Haan,Mari,Undirected,1
+Haan,Kitty,Undirected,1
+Gotlieb,Kitty Ly,Undirected,1
+Gottlieb,Kitty,Undirected,3
+Eva,Madam Frederiksen,Undirected,5
+Arheide,Robert,Undirected,1
+Janne sfod,vaa Robert,Undirected,1
+Gud,Madam Frederiksen,Undirected,2
+Gud,Robert,Undirected,22
+Janne,Robert Frederiksen,Undirected,1
+Eva,Laura,Undirected,10
+Harder,Steen,Undirected,1
+Mari,Seir,Undirected,1
+Frøken Harder,Mari,Undirected,1
+Frøken Harder,Kitty,Undirected,2
+Kitty,ban,Undirected,1
+Hjorth,Kitty,Undirected,12
+Frøken Harder,Robert,Undirected,1
+Robert Frederiksen,Svend,Undirected,1
+Borgmesferen,Hjorth,Undirected,1
+Anna,Jepsen,Undirected,1
+Anna,Peter,Undirected,1
+Herr Hjorth,Kitty,Undirected,1
+Herr Hjorth,Robert,Undirected,2
+Kitrys,Robert,Undirected,1
+Bravo,Gud,Undirected,1
+Brandt,Kitty,Undirected,7
+Brandt,oq,Undirected,1
+Robert,Robert Frederiksen,Undirected,1
+Brandt,Robert,Undirected,19
+Harder,Herr Brandt,Undirected,1
+Brandt,Harder,Undirected,1
+Brandt,Liv,Undirected,1
+Hjorth,def,Undirected,1
+Frøken Brandt,Kitiy,Undirected,1
+Brandt,ester,Undirected,2
+Frøken Brandt,Robert,Undirected,2
+Brandt,cfterj,Undirected,2
+Robert,tor,Undirected,1
+Kiity,Robert,Undirected,1
+Brandt,Pallesen,Undirected,2
+Brandt,Flora,Undirected,1
+Greven,Øe,Undirected,1
+Baal,Øe,Undirected,1
+Brandt,Øe,Undirected,1
+Pallesen,Robert,Undirected,1
+Kitty Harder,Pallesen,Undirected,1
+Harder,Kitty,Undirected,13
+Gud,Ten,Undirected,1
+Gottlieb,djælvelsk,Undirected,1
+Kitty,seire,Undirected,1
+Hjorth,Robert,Undirected,1
+Hjorth,Robert Frederiksen,Undirected,1
+Harder,Pettersen,Undirected,6
+Balder,Harder,Undirected,1
+Balder,Pettersen,Undirected,2
+Balder,Gud,Undirected,1
+Frøken Balder,Harder,Undirected,2
+Balder,taus,Undirected,1
+Pettersen,taus,Undirected,1
+Harder,Pedersen,Undirected,1
+Pedersen,Pettersen,Undirected,1
+Pettersen,felv,Undirected,1
+Harder,oer,Undirected,1
+A,B.,Undirected,1
+B.,Robert,Undirected,2
+Dandsen,Mester Brandts,Undirected,1
+Lise,Madam Frederiksen,Undirected,1
+Gottlieb,Lise,Undirected,1
+Gottlieb,Madam Frederiksen,Undirected,1
+Madam Frederiksen,Robert,Undirected,4
+Brandt,Heer Brandt,Undirected,1
+Kitty Harder,Robert,Undirected,1
+Eva,Kitty,Undirected,4
+Robert,hnn,Undirected,4
+Madam Frederiksen,Ørengen,Undirected,1
+Robert,kjære Kitty,Undirected,1
+Robert,Øe,Undirected,2
+Frederiksen,Herr Brandt,Undirected,1
+Herr Brandt,Kitty,Undirected,1
+Lise,reisf,Undirected,1
+Brandt,faa,Undirected,1
+Madam Frederiksen,Mari,Undirected,15
+Brandt,Eva,Undirected,1
+Brandt,Gud,Undirected,1
+Eva,Kitty haanes,Undirected,1
+Leie,Mari,Undirected,1
+Mari,hnn,Undirected,1
+Hjorth,hnn,Undirected,2
+Edsvorne,Harder,Undirected,1
+Robert,reisfe,Undirected,1
+Frøken Brandt,Mari,Undirected,1
+Frøken Brandt,Kitty,Undirected,1
+Mary,Tine,Undirected,1
+Hjorth,tans,Undirected,1
+Karl,Madam Frederiksen,Undirected,1
+Jamre,Janne,Undirected,1
+Anna,Herr Frederiksen,Undirected,1
+Anna,Frederiksen,Undirected,1
+Herr Frederiksen,Pilse,Undirected,1
+Herr Frederiksen,Kitty,Undirected,1
+Robert,eg,Undirected,1
+Anna,Kitty Harder,Undirected,1
+Anna,Gud,Undirected,1
+Agnes,Kitty Harder,Undirected,1
+Agnes,Anna,Undirected,1
+Janne,Kitty,Undirected,14
+Anna aandelosf,Kitty,Undirected,1
+Brandt,Frederiksen,Undirected,1
+Brandt,Janne,Undirected,2
+Janne,ester,Undirected,1
+Emil,Kitty,Undirected,3
+Robert,reist,Undirected,1
+Schotte,kjære Kitty,Undirected,1
+Janne,Schølte,Undirected,1
+Robert,Schøtte,Undirected,1
+Janne,Schøtte,Undirected,1
+Robert,san,Undirected,1
+Robert,Schort,Undirected,1
+Emil,Robert,Undirected,3
+Grev Pallesen,Robert,Undirected,1
+Greven,Robert,Undirected,1
+d,n,Undirected,1
+Dandsen,Robert,Undirected,2
+Kitty,Laura,Undirected,2
+Jepsen,Mester Frederiksen,Undirected,1
+Eva,Hnn,Undirected,1
+Kitty,Smedemester Frederiksen,Undirected,1
+Hnn,Kitty,Undirected,1
+Hnn,Robert,Undirected,1
+Robert,agfe,Undirected,1
+Ambrosius,Holger Bernhard Holm,Undirected,1
+Brown,Kitty,Undirected,9
+Kitty,Mary,Undirected,10
+Kitty,Mr. Brown,Undirected,3
+Kitty,Mrs.,Undirected,1
+Brown,Mrs.,Undirected,3
+Brown,Mary,Undirected,3
+Herr Brown,Kitty,Undirected,2
+Emmy,Kitty,Undirected,11
+Kitty,reis,Undirected,1
+Kitty,hnn,Undirected,1
+Brown,Sara,Undirected,1
+Gud,Sara,Undirected,1
+Brown,felv,Undirected,1
+Jes,jes,Undirected,1
+Emma,Kitty,Undirected,1
+Emma,Mary,Undirected,1
+Emmy,Mary,Undirected,2
+Brown,Ester,Undirected,1
+Kitty,alter,Undirected,1
+Ask,Emmy,Undirected,1
+Frn Brown,Mary,Undirected,1
+Dn,Emmy,Undirected,1
+Kitty,Mrs. Brown,Undirected,1
+Flora,Pallesen,Undirected,2
+Mary,Robert,Undirected,3
+Mary,Ore,Undirected,1
+Kitty,Madam Frederiksen,Undirected,1
+Kitty,nl Brown,Undirected,1
+Mr. Brown,nl Brown,Undirected,1
+Kitty Frederiksens,Mr. Brown,Undirected,1
+Emmy,Pallesen,Undirected,1
+Pallesen,Sidsle,Undirected,1
+Emmy,Sidsle,Undirected,1
+Mary,hnn,Undirected,1
+Grev Pallesen,Mary,Undirected,1
+Georg,Gud,Undirected,1
+Mary,stet,Undirected,1
+Greven,stet,Undirected,1
+Janne,Mr. Brown,Undirected,2
+Gud,Mary,Undirected,1
+Gud,Hans Jansen,Undirected,1
+Hans Jansen,Thalia,Undirected,1
+Hamlet,Jansen,Undirected,1
+Glands,Jansen,Undirected,1
+Glands,Hans Frants Mohr,Undirected,1
+Hans Frants Mohr,Madam Janfens,Undirected,1
+Kitty,Madam Janfens,Undirected,1
+Jansen,Kitty,Undirected,1
+Boyes,Jansen,Undirected,1
+Kitty,jusf,Undirected,2
+Genius,Kitty,Undirected,1
+Genius,Gud,Undirected,1
+Harder,ester,Undirected,1
+Bjørn,Harder,Undirected,1
+Bjørn,Hjorth,Undirected,1
+Hjorth,Kitty Harder,Undirected,1
+Brown,Robert,Undirected,2
+Mr. Brown,Robert,Undirected,2
+Robert,skoggerlo Brown,Undirected,1
+Kitty Frederiksen,Mr. Brown,Undirected,1
+Brown,Kitty Frederiksen,Undirected,1
+Kitty,dio,Undirected,1
+Kitty Frederiksen,Steffine Stauther,Undirected,1
+Ester,Steffine Stauther,Undirected,1
+Ester,Robert,Undirected,1
+an,h,Undirected,1
+Lao,an,Undirected,1
+Harder,Robert,Undirected,17
+Brown,Mrs. Brown,Undirected,1
+Bohave,Eva,Undirected,2
+Gud,Mari,Undirected,5
+Eva,Gud,Undirected,3
+Robert,ira Robert,Undirected,1
+Christian,Eva,Undirected,1
+Eva,Seirherren,Undirected,1
+Harder,Robert slod,Undirected,1
+Robert,Robert slod,Undirected,1
+Harder,Robert kasfede,Undirected,1
+Robert,fasf,Undirected,2
+Robert,strax,Undirected,1
+Kitty,strax,Undirected,1
+Gotlieb,ban,Undirected,1
+Gud,Karlen,Undirected,1
+Mads,jo,Undirected,1
+Herr Larsen,Mads,Undirected,2
+Gotlieb,Nidding,Undirected,1
+Gotlieb,Herr Larsen,Undirected,1
+Gotlieb,Mads Larsen,Undirected,2
+Mads,Mads Larsen,Undirected,1
+Anders „,Gotlieb Adam Bern,Undirected,1
+Miss Knopf,Mr. Frederiksen,Undirected,1
+Miss Knopf,Steen,Undirected,1
+Mr. Frederiksen,Mr. Jackson,Undirected,1
+Mr. Jackson,Robert,Undirected,1
+Miss Knopf,Mr. Klements,Undirected,1
+Kitty,Miss Knopf,Undirected,1
+Mr. Frederiksen,Robert,Undirected,1
+Kitty,Mr. Jackson,Undirected,3
+Jackson,Kitty,Undirected,14
+Jackson,Klement,Undirected,6
+Jackson,Robert,Undirected,32
+Kitty,Steen,Undirected,1
+Gotlieb,Robert,Undirected,8
+Gotlieb,Jackson,Undirected,10
+Gotlieb,Klement,Undirected,14
+Klement,Vexler,Undirected,1
+Gotlieb,Vexler,Undirected,1
+Kitty,Vensfab mellen Jackson,Undirected,1
+Robert,Vensfab mellen Jackson,Undirected,1
+Arnold,Robert,Undirected,1
+Jackson,Roes,Undirected,1
+Kitty,Roes,Undirected,1
+Gud,Mrs. Frederiksen,Undirected,1
+Julies,Romeos,Undirected,1
+Frederiksen,Jackson,Undirected,2
+Gotlieb,Jack,Undirected,1
+Frederiksen,jig,Undirected,1
+Jackson,as,Undirected,1
+Frederiksen,Klement,Undirected,1
+Bern,Jackson,Undirected,1
+Klement,Robert,Undirected,3
+Jackson,Klodrian,Undirected,1
+Robert,herte,Undirected,1
+Kitty,^terhaanden,Undirected,1
+Fader,Robert,Undirected,1
+Harder,Jngenne,Undirected,1
+Gud,Jngenne,Undirected,1
+Gotlieb,Harder,Undirected,1
+Gotlieb,Herr Frederiksen,Undirected,1
+Jackson,Øe,Undirected,1
+Janne,Madam,Undirected,1
+Robert,Svend,Undirected,1
+Laura,Robert Frederiksen,Undirected,1
+Gud,Laura,Undirected,1
+Janne,felv,Undirected,1
+Hjorth,Mutter,Undirected,1
+Eva,Hjorth,Undirected,1
+Laura,Le,Undirected,1
+Janne,Mari,Undirected,10
+Laura,Mari,Undirected,3
+Eva,Mkdam Frederisen,Undirected,1
+Janne,Madam Frederiksen,Undirected,9
+Janne,Steen,Undirected,1
+Eva,Øienlaag,Undirected,1
+Laura,Madam Frederiksen,Undirected,6
+Janne,Robert sfal,Undirected,1
+Laura,Robert sfal,Undirected,1
+Hjorth,Janne,Undirected,5
+Hjorth,Laura,Undirected,1
+Laura,Roes,Undirected,1
+Janne,lille Hjorth,Undirected,1
+Hjorth,Madam Frederiksen,Undirected,1
+Gud,js,Undirected,1
+Emil,lille Emil,Undirected,1
+Robert,tilJackson,Undirected,2
+Ekkoef,Kitty,Undirected,1
+Robert,grant,Undirected,1
+Kaien,Robert,Undirected,2
+Ask,Robert,Undirected,4
+Gud,Robert leitet,Undirected,1
+Edgard,Mari,Undirected,3
+Gud,kjære Edgard,Undirected,1
+Dands,Mari,Undirected,1
+Lund,Mari,Undirected,7
+Jomfru Frederiksen,Margarete,Undirected,1
+Jomfru Frederiksen,Lund,Undirected,3
+Laura,Lund,Undirected,1
+Janne,maalløs,Undirected,1
+Lund,Mari kjørt,Undirected,1
+Edgard,Jomfru Frederiksen,Undirected,1
+Jomfru Frederiksen,Mari,Undirected,1
+Gud,Jomfru Frederiksen,Undirected,1
+Gud,sfreg Mari,Undirected,1
+Mari,sfreg Mari,Undirected,1
+Eogard,Jomfru Frederiksen,Undirected,1
+Edgard,Margarete,Undirected,1
+Edgard,Frøken Lund,Undirected,3
+Gud,Lund,Undirected,1
+Edgard,Gud,Undirected,5
+Lund,Margarete,Undirected,1
+Edgard,Frøken Mari,Undirected,1
+Cdgard,Edgard,Undirected,1
+Edgard,hnn,Undirected,1
+Bern,Klement,Undirected,1
+Kitty,Vensfabs-Maske,Undirected,1
+Ask,Kitty,Undirected,1
+Robert,mat,Undirected,1
+Kitty,Robertog,Undirected,1
+Jackson,Robertog,Undirected,1
+Janne,lille Mo ' er Laura,Undirected,1
+Aaget,Laura,Undirected,1
+Gotlieb,Klements næsfen,Undirected,1
+Klement,ester,Undirected,1
+Bjørnen,Klement,Undirected,1
+Bjørnen,Klemets,Undirected,1
+Elna,Gud,Undirected,1
+Gud,Jomfru Mari,Undirected,1
+Frøken Lund,Mari,Undirected,4
+Kj,Lund,Undirected,1
+Edgard Lunds,Kj,Undirected,1
+Edgard Lunds,Mari,Undirected,1
+Edgard,lille Mari,Undirected,1
+Mari,elsfe,Undirected,1
+Herr Frederiksen,Robert,Undirected,1
+Harder,Mari,Undirected,1
+Hjort,Laura,Undirected,3
+Hjort,Kitty,Undirected,4
+Harder,Hjort,Undirected,3
+Harder,Janne,Undirected,2
+Hjort,Janne,Undirected,1
+Edgard Lund,Margarete,Undirected,1
+Frøken Lund,Margarete,Undirected,1
+Mari,Sands,Undirected,1
+Gud,Margarete,Undirected,1
+Margarete,Mari,Undirected,1
+Gud,ester,Undirected,1
+Frue,Kitty,Undirected,1
+Kitty,kjære,Undirected,1
+Gud,lille Emil,Undirected,1
+Bedstefader,lille Emil,Undirected,1
+Bedste,Bedstefader,Undirected,3
+Hjort,Robert,Undirected,2

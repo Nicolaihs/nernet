@@ -1,0 +1,49 @@
+source,target,type,weight
+Sophie,Sophies,Undirected,1
+Anna,Klausen,Undirected,1
+Frøken Gørtz,Marie,Undirected,1
+Albert,Ernestine,Undirected,1
+Anna,Marie,Undirected,1
+Klausen,Marie,Undirected,1
+Klausen,Sophie,Undirected,1
+Carl Braminers,Sophie,Undirected,1
+Carls,Sophie,Undirected,1
+Guds,Sophie,Undirected,1
+Anna,Sophie,Undirected,11
+Carl Brammer,Sophie,Undirected,1
+Anna,Brammer,Undirected,8
+Anna,Guds,Undirected,1
+Sophie,lee,Undirected,4
+Carl,Sophie,Undirected,3
+Anna,Braminer,Undirected,4
+Anna,Carl,Undirected,4
+Anna,Tante,Undirected,1
+Braminer,Sophie,Undirected,1
+Braminer,liam,Undirected,1
+Anna,liun,Undirected,1
+Carl,Frøken Gørtz,Undirected,1
+Sophie,paany,Undirected,1
+Sophaen,Sophie,Undirected,3
+Sophie,Tom,Undirected,1
+Tom,tom,Undirected,1
+Gud,Sophie,Undirected,2
+Anna,Officeer,Undirected,1
+Braminer,Carl,Undirected,1
+Brammer,Sophie,Undirected,3
+hans j,j,Undirected,1
+Carl,j,Undirected,1
+Brammer,Holm,Undirected,1
+Braminer,Højrup,Undirected,1
+Brammer,Lars Olsen,Undirected,8
+Brammer,Lars,Undirected,1
+Højrup,Lars Olsen,Undirected,1
+Højrup,Lars,Undirected,4
+Gud,Højrup,Undirected,1
+Gud,Lars Olsen,Undirected,1
+Lars,Lars Olsen,Undirected,2
+Lars,Per,Undirected,4
+Lars Olsen,Per,Undirected,2
+Holm,Lars,Undirected,2
+Højrup,Rolfsen,Undirected,1
+Lars Olsen,Rolfsen,Undirected,1
+Brammer,Gjælden,Undirected,1

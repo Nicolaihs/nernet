@@ -1,0 +1,147 @@
+source,target,type,weight
+Nang,stinede,Undirected,1
+Hain,Liv,Undirected,1
+Gammen,Hain,Undirected,1
+Gammen,hnn,Undirected,1
+ever,søa,Undirected,1
+Esteraar,Kunsfners,Undirected,1
+Hsje,Kunsfners,Undirected,1
+Klarinetpeter,Noder,Undirected,1
+Klarinetpeter,Ore,Undirected,2
+Sanghans,TEre,Undirected,1
+Svendsen,TEre,Undirected,1
+Sanghans,Svendsen,Undirected,7
+Klara —,Svendsen,Undirected,1
+Proprietær Svendsens,Sanghans,Undirected,2
+Klarinetpeter,Ole,Undirected,17
+Klarinetpeter,dam,Undirected,1
+Sanghans,dam,Undirected,1
+Ole,Sanghans,Undirected,36
+Sanghans,soni,Undirected,1
+nnar,soni,Undirected,1
+KlarinetpeterS,nnar,Undirected,1
+Langhans,jø,Undirected,1
+Sanghans,sfalde,Undirected,1
+Klarinetpeter,Sanghans,Undirected,18
+Hans,Klarinetpeter,Undirected,4
+Klarinetpeter,Oret,Undirected,1
+Oret,Sanghans,Undirected,1
+Ole,Sangole,Undirected,1
+Svendsen,maafle,Undirected,1
+Peter,Svendsen,Undirected,1
+Frederik den Syvende,Peter,Undirected,1
+Ore,Sanghans,Undirected,2
+Dn,Ole,Undirected,1
+Klaras,Ole,Undirected,2
+Klaras,soni,Undirected,1
+Svendsen,olle,Undirected,1
+Husbonds,Ole,Undirected,1
+Klara,Ole,Undirected,116
+Gud,Klara,Undirected,3
+Svendsen,ban,Undirected,2
+Maje,Ole,Undirected,2
+Ljnenc,Ole,Undirected,1
+Klara,Ljnenc,Undirected,1
+Lunde,Ole,Undirected,1
+Klara,Ole derimød,Undirected,1
+Ole,Ole derimød,Undirected,1
+Klara,Svendsen,Undirected,7
+Ole,Ore,Undirected,3
+Klara,Ore,Undirected,3
+Klara,soo,Undirected,1
+Ole,Proprietær Svendsens,Undirected,1
+Klara,hnn,Undirected,4
+Klariuetpeter,Sanghans,Undirected,1
+Lio,Ole,Undirected,2
+Ole,Svendsen,Undirected,9
+Ole,hnn,Undirected,4
+Klara,Sangole,Undirected,1
+Klara,freni,Undirected,1
+KlaraS,Ole,Undirected,1
+KlaraS,Sanghans,Undirected,1
+,Sanghans,Undirected,6
+,Svendsen,Undirected,1
+Klara,selo,Undirected,1
+Ole,selo,Undirected,1
+Ole,Scia,Undirected,1
+Klara,Rudolf,Undirected,2
+Lio,Sangole,Undirected,1
+Sanghans,Sangole,Undirected,1
+Klara,Sanghans,Undirected,19
+Ole,Peter,Undirected,2
+Ole,Skjønhedcns,Undirected,1
+Ore,Svendsen,Undirected,1
+Forst,Klara,Undirected,1
+Rudolf,sial Ole,Undirected,1
+Klara,maattc,Undirected,1
+Ole,skjont,Undirected,1
+Klara,floj,Undirected,1
+Ole,Slaa,Undirected,1
+Ole,kjont,Undirected,1
+Ieg,Ole,Undirected,3
+Ole,taos,Undirected,1
+Klara,taos,Undirected,1
+Ole,Rudolf —,Undirected,1
+Fader,Rudolf,Undirected,1
+Villie,karsf,Undirected,1
+Ole,Villie,Undirected,1
+Ole,sial,Undirected,1
+Ole,nien,Undirected,2
+Ole,maasfe,Undirected,2
+KlarinetpeterS,Ole,Undirected,1
+KlarinetpeterS,Sanghans,Undirected,1
+Hans,Ole,Undirected,2
+Frokenen,Sanghans,Undirected,1
+Hans,Klara,Undirected,2
+NEvcntyr,Sanghans,Undirected,1
+NEvcntyr,uri^,Undirected,1
+Klara,meligl,Undirected,1
+,Klara,Undirected,1
+Klara,graa,Undirected,1
+Svendsen,hnn,Undirected,1
+Rudolf,Svendsen,Undirected,1
+Klara,SanghanS,Undirected,2
+,SanghanS,Undirected,1
+Sanghans,SaughauS,Undirected,1
+Flojte,Sanghans,Undirected,1
+SanghanS,hnn,Undirected,1
+Sanghans,hnn,Undirected,1
+Klara,soer,Undirected,1
+Ieg,Sanghans,Undirected,2
+Hnn,Klara,Undirected,1
+Hnn,hnn,Undirected,1
+Gud,hnn,Undirected,1
+Hans,hans,Undirected,1
+Itu,Klara,Undirected,1
+Hain,Ole,Undirected,1
+Klara,nn,Undirected,2
+El Ojeblik,Ole slille,Undirected,1
+Klara,Tu,Undirected,1
+Tu,forst,Undirected,1
+Gud,Ole,Undirected,3
+Ole,hans,Undirected,2
+Ole,dc,Undirected,1
+Sanghans,dc,Undirected,1
+,Ole,Undirected,1
+Proprietær Svendsen,soer,Undirected,1
+,Meu,Undirected,1
+Klarinetpeter,Svendsen,Undirected,2
+Svendsen,oni,Undirected,1
+Klarinctpeter,Svendsen,Undirected,1
+Klarinctpeter,Klarinetpeter,Undirected,1
+Bslger,Klara,Undirected,1
+Gud,Sanghans,Undirected,1
+Gud,Klarinetpeter,Undirected,1
+Klarinetpeter,Lofstlugen,Undirected,1
+Nosf,Svendsen,Undirected,2
+,Klarinetpeter,Undirected,1
+Gud,Svendsen,Undirected,1
+Oret,soer,Undirected,1
+Ole,soer,Undirected,1
+Ole varder,Svendsen,Undirected,1
+Dien,Ole,Undirected,2
+Anne,Klara,Undirected,1
+Anne,Ganrdens,Undirected,1
+Klarinetpeter,nien,Undirected,1
+Gud,Oa dan sate,Undirected,1
+Oa dan sate,sia Klavas,Undirected,1

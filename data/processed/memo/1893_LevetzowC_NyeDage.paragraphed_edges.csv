@@ -1,0 +1,44 @@
+source,target,type,weight
+Agnete,Kjære,Undirected,1
+Anna,Frue,Undirected,1
+Anna,Sidsel,Undirected,2
+Camilla,Onkels,Undirected,1
+Moder,Onkel,Undirected,3
+Erik,Sidsel,Undirected,3
+Sidseis,Sidsel,Undirected,1
+Moder,Poul,Undirected,1
+Anna,Vilhelm,Undirected,1
+Jørgensen,Poul,Undirected,2
+Poul,Uhal,Undirected,1
+Caroline,Jørgensen,Undirected,1
+Liv,Sendstraks,Undirected,1
+Jørgensen,Vilhelm,Undirected,1
+Frøken Holm,Møllers,Undirected,1
+Agnete,Guds,Undirected,1
+Erik,Poul,Undirected,1
+Gud,Jørgensen,Undirected,1
+Mormor,Peter,Undirected,1
+Frue,Mormor,Undirected,1
+Niels,Søren,Undirected,2
+Agnete,Poul,Undirected,2
+Agnete,Vilhelm,Undirected,1
+Gud,Gyd,Undirected,1
+Johanne,Maren,Undirected,3
+Agnete,Maren,Undirected,1
+Johanne,Jomfruen,Undirected,1
+Jomfruen,Peter Olsen,Undirected,1
+Caroline,Peter,Undirected,1
+Johanne,Kusken,Undirected,1
+Frue,Lise,Undirected,2
+Graaden,Lise,Undirected,1
+Gud,Lise,Undirected,1
+Gud,Jesus,Undirected,4
+Johanne,Lise,Undirected,1
+Frue,Gud,Undirected,1
+Jens Hansens,Poul,Undirected,1
+Anna,Lind,Undirected,1
+Abba,Gud,Undirected,1
+Ane Jeppesen,Peter,Undirected,1
+Peter,Skovskjul,Undirected,2
+Anna,Poul,Undirected,1
+Farbrors,Poul,Undirected,1

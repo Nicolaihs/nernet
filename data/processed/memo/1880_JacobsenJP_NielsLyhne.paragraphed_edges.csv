@@ -1,0 +1,162 @@
+source,target,type,weight
+Bartholine,Lyhne,Undirected,2
+Bartholine,Niels,Undirected,1
+Lyhne,Theori,Undirected,2
+Niels,Prinds,Undirected,1
+Kong Valdemar,Tove,Undirected,1
+Niels,Vaulunder,Undirected,1
+Henrik Magnard,Vaulunder,Undirected,1
+Henrik Magnard,Niels Kiim,Undirected,1
+Niels Kiim,Peter Simple,Undirected,1
+Odysseus,Peter Simple,Undirected,1
+Edele Lyhnes,Nielses,Undirected,1
+Horizont,Hr. Bigums,Undirected,1
+Gud,Svanens,Undirected,1
+Etatsraad Neergaard,Lyhne,Undirected,1
+Edele,Etatsraad Neergaard,Undirected,1
+Edele,Edele Lyhnes,Undirected,1
+Carthago,Ninive,Undirected,1
+Axelstad,Carthago,Undirected,1
+Lyhne,Niels,Undirected,2
+Edele,Niels,Undirected,3
+Edele,Rosenessentsen,Undirected,1
+Niels,Rosenessentsen,Undirected,1
+Edele,Hr. Bigum,Undirected,3
+Beatrice,Edele,Undirected,1
+Beatrice,Laura,Undirected,1
+Laura,Viktoria Colonna,Undirected,1
+Edele,Viktoria Colonna,Undirected,1
+Alcibiadeses,Don Juans,Undirected,1
+Bigum,Frøken Lyhne,Undirected,1
+F'røken Lyhne,Frøken Lyhne,Undirected,1
+Frøken Lyhne,Prometheus,Undirected,1
+Edele,Lyhne,Undirected,3
+Gud,Niels Lyhne,Undirected,3
+Edele,Gud,Undirected,3
+Adam,Gud,Undirected,1
+Adam,Eva,Undirected,1
+Eva,Gud,Undirected,1
+Augusti,Gud,Undirected,1
+Augusti,Golgatha,Undirected,1
+Gud,Jesus,Undirected,1
+Gud,hami,Undirected,1
+Hr. Bigum,Titans,Undirected,1
+Erik,Lyhne,Undirected,3
+Erik,Niels og,Undirected,1
+Niels og,Petersen,Undirected,1
+Bendrejer,Erik,Undirected,2
+Erik,Guido Reni,Undirected,1
+Guido Reni,Rafael,Undirected,1
+Andrea del Sarto,Rafael,Undirected,1
+Andrea del Sarto,Luini,Undirected,1
+Luini,Tintoretto,Undirected,1
+Salvator Rosa,Tintoretto,Undirected,1
+Carravaggio,Salvator Rosa,Undirected,1
+Frithiofs,Nielses,Undirected,1
+Erik,Frithiofs,Undirected,1
+Erik,Niels,Undirected,34
+Frithiof,Niels,Undirected,4
+Erik,Renegats,Undirected,1
+Niels,Renegats,Undirected,1
+Lyhne,Mikkelsen,Undirected,1
+Erik,Mikkelsen,Undirected,2
+Erik yar,Niels,Undirected,1
+Erik yar,Spenglers,Undirected,1
+Lassen,Niels,Undirected,1
+Erik,Frithiof,Undirected,6
+.Frithiof,Niels,Undirected,1
+Hr. Bigum,Niels,Undirected,1
+Frithiof,Hr. Bigum,Undirected,1
+Frithiof Petersen,Lyhne,Undirected,1
+Hr. Refstrup,Mikkelsen,Undirected,1
+Mikkelsen,Trafifelini,Undirected,1
+Frithiof,Trafifelini,Undirected,1
+Gud,Niels,Undirected,6
+Helge,Øehlenschlagers,Undirected,2
+Helge,Konning Helge,Undirected,1
+Helge,Tangkjær,Undirected,1
+Erik Refstrup,Frithiof,Undirected,1
+Niels,Niels Lyhne,Undirected,7
+,Niels,Undirected,1
+Nicolaus,Niels Lyhne,Undirected,1
+Nicolaus,Niels,Undirected,1
+Frithiof,berg,Undirected,1
+Erik,Niels Lyhne,Undirected,2
+Niels,Nielses,Undirected,3
+Rousseaus Heloise,Schiller,Undirected,1
+Schiller,Staffeldt,Undirected,1
+Evald,Staffeldt,Undirected,1
+Evald,Novalis,Undirected,1
+Kobbere,Novalis,Undirected,1
+Jens Forvalter,Niels,Undirected,1
+Duysen,Jens Forvalter,Undirected,1
+Clarens,Rousseaus,Undirected,2
+Clarens,Julies,Undirected,2
+Clarens,Niels,Undirected,1
+bornert,zigeuneragtig,Undirected,1
+Niels,zigeuneragtig,Undirected,1
+Hardenskjold,Niels,Undirected,1
+Niels,Or,Undirected,1
+Hjerrild,Niels,Undirected,8
+Baggesen,Hjerrild,Undirected,1
+Baggesen,Oehlenschlæger,Undirected,1
+Hjerrild,Oehlenschlæger,Undirected,1
+Hjerrild,Hr. Lyhne,Undirected,1
+Erik Refstrupsk,Erik malte,Undirected,1
+Erik Refstrupsk,Luini,Undirected,1
+Erik Refstrup,Svend,Undirected,1
+Niels,Svend,Undirected,1
+Niels,Rosalie,Undirected,1
+Claudi,Rosalie,Undirected,1
+Claudi,Erik,Undirected,1
+Claudis Kjøkkenhave,Erik,Undirected,1
+Arachne,Napoleon,Undirected,1
+Berendt Berendtsen Claudi,Claudi,Undirected,1
+Claudi,Palzows,Undirected,1
+Fennimore,Palzows,Undirected,1
+Fennimore,Niels,Undirected,18
+Kousine,Niels,Undirected,1
+Niels,Thomas Rasmussens,Undirected,1
+Fennimore,Niels Lyhne,Undirected,2
+Niels,Robinson,Undirected,1
+Gulddis,Robinson,Undirected,1
+Erik,Fennimore,Undirected,19
+Erik,Gud,Undirected,2
+Fennimore,Morildsskjær,Undirected,2
+Fennimore,Hjerrild,Undirected,1
+Adam,Hjerrild,Undirected,1
+Erik,hans,Undirected,2
+Brouwers,Erik,Undirected,1
+Brouwers,Ostades,Undirected,1
+Erik,Offre,Undirected,1
+Gud,Offre,Undirected,1
+Erik,Pine,Undirected,1
+Erik,Trine,Undirected,2
+Fennimore,Trine,Undirected,1
+Fennimore,Nielses,Undirected,2
+Niels,Salvator Rosa,Undirected,1
+Erik,Nielses,Undirected,1
+Madame Odéro,Niels,Undirected,2
+Madame Odéro,Riva,Undirected,1
+Niels Lyhne,Riva,Undirected,1
+Gud,Lønborggaard,Undirected,1
+Lyhne,Skinnerups,Undirected,1
+Lyhne,Skinnerup,Undirected,1
+Gerdas,Niels,Undirected,2
+Gerdas,Skinnerup,Undirected,1
+Gerda,Niels,Undirected,7
+Gerda,Julies,Undirected,1
+Julies,Niels,Undirected,1
+Astarte,Baal,Undirected,1
+Astarte,Odin,Undirected,1
+Kristus,Odin,Undirected,1
+Gerda,Niels Lyhne,Undirected,1
+Gerda,Gud,Undirected,1
+David,Josef,Undirected,1
+David,Jordan,Undirected,1
+Bjærgprædikenens,Jordan,Undirected,1
+Bjærgprædikenens,tede,Undirected,1
+Gud,tede,Undirected,1
+Hjerrild,Lyhne,Undirected,2
+Gud,Hjerrild,Undirected,1
+Hjerrild,Niels Lyhne,Undirected,1

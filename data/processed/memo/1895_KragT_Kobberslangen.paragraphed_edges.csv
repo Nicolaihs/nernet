@@ -1,0 +1,107 @@
+source,target,type,weight
+Jonas Grøben,Silke,Undirected,1
+Silke,Zobel,Undirected,1
+Bisarn,Zobel,Undirected,1
+Bisarn,Gabriel Skierstad,Undirected,1
+Engh,Gabriel Skierstad,Undirected,1
+Dieffulen,Gabriel Skierstad,Undirected,1
+Dieffulen,doch,Undirected,1
+doch,fuule,Undirected,1
+fuule,hannem,Undirected,1
+Naffle,hannem,Undirected,1
+Mennisker,Naffle,Undirected,1
+GUd,Mennisker,Undirected,1
+Chatechismus,GUd,Undirected,1
+Jonas Grøben,Petter Grøben,Undirected,1
+Mads Pedersen,Petter Grøben,Undirected,2
+Hans,Petter Grøben,Undirected,1
+Eva,Hans,Undirected,1
+Flan,Michael,Undirected,1
+Michael,Thereses,Undirected,1
+Hall,Hans Hall,Undirected,1
+Frederik Grøben,Hans Hall,Undirected,1
+Fredrik Grøben,Hans Hall,Undirected,3
+Fredrik Grøben,Hr. Hall,Undirected,1
+Hr. Grøben,Hr. Hall,Undirected,2
+Hr. Grøben,Marja,Undirected,1
+Hall,Marja,Undirected,1
+Grøben,Hans Hall,Undirected,2
+Frøken Ulrikke,Hr. Grøben,Undirected,1
+Frøken Ulrikke,Hans Hall,Undirected,1
+Hans Hall,Herr Grøben,Undirected,1
+Fredrik Grøben,Hall,Undirected,1
+Catilina,Cicero,Undirected,1
+Hans Hall,Hr. Hall,Undirected,1
+Hr. Hall,Thomas P. Krag,Undirected,1
+Hans Hall,Ulrikke,Undirected,3
+Hall,Ulrikke,Undirected,3
+Harpe,Ulrikke,Undirected,1
+Fredrik Grøben,Ulrikke Hall,Undirected,3
+Herskabels,Marja,Undirected,1
+Grøben,Høst,Undirected,1
+Høst,Ulrikke Hall,Undirected,1
+Fredrik Grøben,Nils Hall,Undirected,8
+Nils Hall,myge,Undirected,2
+Fredrik Grøben,ane,Undirected,1
+Fredrik,Nils Hall,Undirected,1
+Sirius,Sjø,Undirected,1
+Christus,Sirius,Undirected,1
+Christus,Hippias,Undirected,1
+Hippias,Sirius,Undirected,1
+Fredrik Grøben,Guds,Undirected,1
+Fredrik Grøben,Jonas,Undirected,4
+Flan,Fredrik Grøben,Undirected,1
+Flan,Jonas,Undirected,1
+Flavens,Jonas,Undirected,1
+Flavens,Nils Hall,Undirected,1
+Flan,Frederik Grøben,Undirected,1
+Frederik Grøben,Fredrik Grøben,Undirected,1
+Krag,Thomas P,Undirected,1
+Frederik Grobens,erdens,Undirected,1
+Fredrik Grøben,lian,Undirected,1
+Marja,Marje,Undirected,1
+Marja,Nils Hall,Undirected,1
+Hr. Grøben,lian,Undirected,1
+Hall,lian,Undirected,1
+Hall,Nils Hall,Undirected,3
+Hall,liun,Undirected,1
+Frederik Grøben,Nils Hall,Undirected,1
+Fredrik Grobens,Niels Hall,Undirected,1
+Hans Hall,Nils Hall,Undirected,1
+Fredrik Grøben,f,Undirected,1
+Flan,Jonas Grøben,Undirected,1
+Gutten,Marja,Undirected,1
+Jonas Grøben,Nils Hall,Undirected,3
+Jonas,Nils Hall,Undirected,4
+Dolken,Jonas,Undirected,1
+Dolken,Nils Hall,Undirected,1
+Gutten,Nils Hall,Undirected,1
+Jonas Grøben,hvidsked Nils Thomas P,Undirected,1
+Krag,hvidsked Nils Thomas P,Undirected,1
+Moer,Nils Hall,Undirected,2
+Jonas,Mika Peter,Undirected,1
+Mika Peter,Nils Hal,Undirected,1
+Gud,Hall,Undirected,1
+Nils Hall,Ulrikke,Undirected,1
+Jonas Grøben,Sjømand,Undirected,1
+Mika Peter,Sjømand,Undirected,3
+Mika Peter,Nils Hall,Undirected,2
+Mika Peter,didind,Undirected,2
+Jonas Grøben,Mika Peter,Undirected,1
+Kobborslangeu,Thomas P. Krag,Undirected,1
+Gud,Mika Peter,Undirected,1
+Dalila,Gud,Undirected,1
+Mika Peter,Thomas å Kempis,Undirected,1
+Jesu,Tine,Undirected,1
+Aase,Gud,Undirected,1
+Aase,Flun,Undirected,1
+Aase,Stueuhrs,Undirected,1
+Aase,gry,Undirected,2
+Aase,Thomas P. Krag,Undirected,1
+Aase,skraa,Undirected,1
+Aase,Kjelderen,Undirected,1
+Aase,liun,Undirected,2
+Aase,Hall,Undirected,1
+Aase,Jonas,Undirected,1
+Eva,Jonas,Undirected,1
+Eva,Michael,Undirected,1

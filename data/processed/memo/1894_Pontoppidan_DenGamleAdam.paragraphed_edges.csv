@@ -1,0 +1,42 @@
+source,target,type,weight
+Don Juan,animis caelestibus irae,Undirected,1
+Vergil,animis caelestibus irae,Undirected,1
+Eros,Vergil,Undirected,1
+Assessor Tofte,Orlando furioso,Undirected,1
+Assessorens,Gud,Undirected,1
+Assessor Tofte,Frk. Carlsen,Undirected,3
+Aareslag,flan,Undirected,1
+Fleles,Posidonius,Undirected,1
+Levin,Schmaus,Undirected,1
+Le,Schmaus,Undirected,1
+Le,vins,Undirected,1
+Frk. Meissen,Meissen,Undirected,2
+Meissen,Sara,Undirected,1
+Frk. Meissen,Sara,Undirected,1
+Gertrud,Pierre,Undirected,1
+Eros,Eroter,Undirected,1
+Adam,Eros,Undirected,1
+Adam,Frk. Carlsen,Undirected,1
+Frk. Carlsen,Traad,Undirected,1
+Gud,véd,Undirected,2
+Frk. Carlsen,véd,Undirected,1
+Frk. Carlsen,Karlsbadersalt,Undirected,1
+Frk. Carlsen,Frk. Semberlin,Undirected,1
+Frk. Carlsen,Hansen,Undirected,1
+Frk. Carlsen,frank,Undirected,1
+Hansen,frank,Undirected,1
+Hansen,Semberlin,Undirected,1
+Frk. Semberlin,Semberlin,Undirected,1
+Adam,Bregner,Undirected,1
+Adam,Eva,Undirected,4
+Assessorens,Frk. Carlsen,Undirected,1
+Hansen,Labans,Undirected,1
+Levin,Toftes,Undirected,1
+Ellen,Fredrik,Undirected,1
+Fredrik,Gertrud,Undirected,1
+Christi,Dr. Levins,Undirected,1
+Gertrud,aarvaagent,Undirected,1
+Atisch,L,Undirected,1
+L,Levin,Undirected,1
+Atisch,Levin,Undirected,1
+Sara,Storetaa,Undirected,1

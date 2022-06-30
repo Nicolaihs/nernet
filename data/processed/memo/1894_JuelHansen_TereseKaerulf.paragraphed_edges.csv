@@ -1,0 +1,111 @@
+source,target,type,weight
+Pfui,schauderhaftes,Undirected,1
+Gott,schauderhaftes,Undirected,1
+Gott,ach Gott,Undirected,1
+Gott sei Dank,ach Gott,Undirected,1
+Fräulein,Gott sei Dank,Undirected,1
+Fräulein,Schulze,Undirected,1
+Adieu,Schulze,Undirected,1
+Sjok,sjok,Undirected,1
+Perret,Terese,Undirected,1
+Alida,Marta,Undirected,7
+Marta,dubio,Undirected,1
+Alida,dubio,Undirected,1
+Albertine,Terese,Undirected,2
+Mademoiselle,Terese,Undirected,1
+Crain,Mademoiselle,Undirected,1
+Marta,Terese,Undirected,2
+Alida,Terese,Undirected,2
+Alida,Marta Hannoveraner,Undirected,1
+Marta Hannoveraner,Terese,Undirected,1
+Miss Saunders,Terese,Undirected,1
+Terese,Verletzung der mädchenhaften,Undirected,1
+Keuschheit,Verletzung der mädchenhaften,Undirected,1
+Keuschheit,Rohheit der Seele,Undirected,1
+Mslle,Terese,Undirected,1
+Beaumondens,bjældeklingrende,Undirected,1
+Hr. v.,Schilden,Undirected,2
+Schilden,Terese,Undirected,23
+Hr. Heinrichs,Schilden,Undirected,1
+Hr. Heinrichs,Terese,Undirected,1
+Fräulein,mein,Undirected,1
+Schilden,muttersseelenallein,Undirected,1
+Droschen,Terese,Undirected,1
+Heinrich,Schilden,Undirected,19
+Heinrich,Terese,Undirected,33
+Køpnickerstrasze,Terese,Undirected,1
+Køpnickerstrasze,ein gutes,Undirected,1
+Terese,Thereschen,Undirected,1
+Lorck,Schilden,Undirected,12
+Lorch,Schilden,Undirected,1
+Lorch,Terese,Undirected,1
+Lorck,Terese,Undirected,9
+Mutterwitz,Schilden,Undirected,1
+Mutterwitz,Terese,Undirected,1
+Schilden,aber ganz reizend,Undirected,1
+Frits Prumm,Terese,Undirected,1
+Frits Prumm,Garth,Undirected,1
+Garth,Lorck,Undirected,5
+Garth,Terese,Undirected,5
+Lorck,v. Schilden,Undirected,3
+Lorck,Priimm,Undirected,1
+Priimm,v. Schilden,Undirected,1
+Sejrsrusen,v. Schilden,Undirected,1
+Methusalem,Schilden,Undirected,1
+Garth,Heinrich,Undirected,9
+Schilden,paany,Undirected,1
+Heinrich,paany,Undirected,2
+Heinrich v. Schilden,Terese,Undirected,1
+Frøken Kærulf,bien,Undirected,1
+Lohengrin,Niemann,Undirected,1
+Niemann,die,Undirected,1
+Beethoven,Garth,Undirected,1
+Beethoven,Heinrich,Undirected,1
+Heinrich,Lorck,Undirected,3
+Garth,Lassalle,Undirected,1
+Lassalle,Lorck,Undirected,1
+Garth,v. Schilden,Undirected,1
+Garth,Priimm,Undirected,1
+Jaj,maj mehr,Undirected,1
+Gud,Heinrich,Undirected,2
+Gud,Schilden,Undirected,1
+Gud,Terese,Undirected,4
+Terese,liebste,Undirected,1
+Garth,Lorch,Undirected,1
+Gala,Heinrich,Undirected,1
+Bo,Terese,Undirected,1
+Bo,o ,Undirected,1
+Heinrich,o ,Undirected,1
+Heinrich,kaad,Undirected,1
+Kurertog,Schilden,Undirected,1
+Schilden,Thereschen,Undirected,1
+Bismarck,Garth,Undirected,2
+Bismarck,Heinrich,Undirected,1
+Bismarck,Napoleon —,Undirected,1
+Terese,vims,Undirected,1
+Blaalys,Heinrich,Undirected,1
+Heinrich,Thereschen,Undirected,2
+Dahin,Lorck,Undirected,1
+Dahin,mocht,Undirected,1
+Heinrich,Lorch,Undirected,2
+Lorck,Schok,Undirected,1
+Mormor,Terese,Undirected,1
+Frøken Annas,Terese,Undirected,1
+Heinrich,Ricardos,Undirected,1
+Gud,Terese Kærulf,Undirected,1
+Petra Møller,Terese,Undirected,1
+Frøken Clausen,Terese,Undirected,13
+Heinrich —,Schilden,Undirected,1
+Klit-Per,Per Larsen,Undirected,1
+Frøken Clausen,Højer,Undirected,2
+Højer,Terese,Undirected,6
+Højer,Schilden,Undirected,2
+Hr. Holmer,Terese,Undirected,1
+Ltiders,Terese,Undirected,1
+Elan,Gud,Undirected,1
+Bellas,Terese,Undirected,1
+Bella,Terese,Undirected,4
+Maries,Terese,Undirected,1
+Margrete Holm,Maries,Undirected,1
+Aare,Schilden,Undirected,1
+Højer,Mogens,Undirected,2

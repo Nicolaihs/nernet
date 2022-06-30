@@ -1,0 +1,118 @@
+source,target,type,weight
+Jærn,Jørgen,Undirected,1
+Jærn,tom,Undirected,1
+Jørgen,tom,Undirected,1
+Guds,Jørgen,Undirected,1
+Blichers,Jørgen,Undirected,1
+Bismarck,Johanne,Undirected,1
+Henrik With,Jørgen Withs,Undirected,1
+Henrik With,Jørgen,Undirected,1
+Johanne,Jørgen,Undirected,3
+Jørgen,Marie,Undirected,1
+Hagen,Karen,Undirected,1
+Hagen,Kristus,Undirected,1
+Jomfru Marie,Kristus,Undirected,1
+Jomfru Marie,Jørgen,Undirected,1
+Jørgen,Karen,Undirected,8
+Jørgen,Jørgen bode,Undirected,1
+Jørgen bode,Pattegris,Undirected,1
+Jørgen,With,Undirected,1
+Jørgen,"P""",Undirected,1
+"P""",uksen,Undirected,1
+Jørgen,uksen,Undirected,1
+Aage Schmidt,Jørgen,Undirected,3
+Aage,Jørgen,Undirected,51
+Aage,hans,Undirected,2
+Gud,Jørgen,Undirected,5
+Aage,Gud,Undirected,2
+Gud,Jesus,Undirected,1
+Aage,Jesus,Undirected,1
+Aage,Karen,Undirected,2
+Jesus Kristus,Jørgen,Undirected,1
+Gud,Jesus Kristus,Undirected,1
+Aage Schmidt,Wilh. Buschs,Undirected,1
+Aage,Wilh. Buschs,Undirected,1
+Aage Schmidt,Niels Jensen,Undirected,3
+Aage,Niels Jensen,Undirected,11
+Jørgen,Niels Jensen,Undirected,4
+Hagen,Jørgen,Undirected,1
+Aage,Jørgen —,Undirected,1
+Gud,Stein,Undirected,1
+Jørgen,Stein,Undirected,3
+Graalys,Karen,Undirected,1
+Aage,Vallentin,Undirected,1
+Jørgen,Vallentin,Undirected,3
+Frøken Poulsen,Jørgen,Undirected,3
+Jørgen,Thor,Undirected,2
+Emma,Hr. With,Undirected,1
+Aage,Hr. With,Undirected,1
+Emma Poulsen,Jørgen,Undirected,5
+Aage,Emma Poulsen,Undirected,2
+Jørgen,Jørgen Emma Poulsen,Undirected,1
+E. P.,Jørgen,Undirected,2
+Aage,Thor,Undirected,2
+Aage smaalo,Thor,Undirected,1
+Aage smaalo,Emma,Undirected,1
+Aage,Emma,Undirected,4
+Hr. Fris,Jørgen,Undirected,1
+Fris,Jørgen,Undirected,1
+Carl Nielsen,Hr. Petersen,Undirected,1
+Jørgen,Liv,Undirected,1
+Emma Povlsen,Jørgen,Undirected,2
+Ammy,Jørgen,Undirected,1
+Hansen,Jørgen,Undirected,1
+Holger D.,Jørgen,Undirected,1
+Dr. Piesner,Jørgen,Undirected,1
+Dr. Piesner,Løvel,Undirected,1
+Jørgen,Løvel,Undirected,1
+Johansen,Jørgen,Undirected,38
+Lassen,Mary,Undirected,2
+Jensine,Mary,Undirected,1
+Jensine,Paula,Undirected,1
+Lovise,Paula,Undirected,1
+Lovise,Magda,Undirected,1
+Dora,Magda,Undirected,2
+Dora,Francisca,Undirected,2
+Albertine,Francisca,Undirected,1
+Hansen,Mary,Undirected,2
+Hansen,Lassen,Undirected,2
+Jensine dig,Lassen,Undirected,1
+Jensine dig,Karlsen,Undirected,1
+Karisens,Mary,Undirected,1
+Jensine,Karisens,Undirected,1
+Neuhausen,Paula,Undirected,1
+Magda,Paula,Undirected,1
+Albertine,Fratz,Undirected,1
+Albertine,Lassen,Undirected,1
+Jørgen,Lassen,Undirected,1
+Lassen,haane Hartmann,Undirected,1
+Hartmann,Lassen,Undirected,1
+Hartmann,Jørgen,Undirected,1
+Frederik Johansen,Jørgen,Undirected,1
+Lassen,R.ejse sig,Undirected,1
+Jørgen,Lunds,Undirected,1
+Jørgen,Lund,Undirected,1
+Elan,Karen,Undirected,1
+Emma Poulsen,Lassen,Undirected,3
+Dr. Piesner,Lassen,Undirected,1
+Dr. Piesner,Piesner,Undirected,1
+Emma Povlsen,Piesner,Undirected,1
+Emma,Jørgen,Undirected,37
+Emma,Johansen,Undirected,2
+Jørgen,Sal Johansen bode,Undirected,1
+Goethe,Jørgen,Undirected,1
+Johansen,Sir Thomas,Undirected,1
+Jørgen,Strindbergs,Undirected,1
+Dr. Carlsen,Johansen,Undirected,1
+Dr. Carlsen,Jørgen,Undirected,1
+Jesu,Jørgen,Undirected,1
+Gud,Jesu,Undirected,1
+Emma,tom,Undirected,2
+Brink,Elisen,Undirected,1
+Brink,Hr. Elisen,Undirected,1
+Brink,Emma,Undirected,2
+Emma,Vallentin,Undirected,1
+Elisen,Gud,Undirected,1
+Brink,Jørgen,Undirected,1
+Jørgen With,Kjære,Undirected,1
+^t,jeS,Undirected,1

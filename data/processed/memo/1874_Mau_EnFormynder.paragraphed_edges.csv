@@ -1,0 +1,460 @@
+source,target,type,weight
+Frodor,Hester,Undirected,3
+Frodor,Karo,Undirected,2
+Apollo,Frodor,Undirected,2
+Frodor,Greven,Undirected,3
+Frodor,hnn,Undirected,2
+Frodor,sif,Undirected,1
+hnn,sif,Undirected,2
+Fiorella,Frodor,Undirected,3
+Fiorella,Zigeuner,Undirected,1
+Frodor,Zigeuner,Undirected,1
+Fiorella,Greven,Undirected,3
+Fiorella,Gud,Undirected,26
+Greve,Stjernskjold,Undirected,1
+Greve,Oskar,Undirected,3
+Gud,Oskar,Undirected,31
+Fiorclla,Gud,Undirected,1
+Fiorclla,Oskar,Undirected,2
+Fiorella,Oskar,Undirected,37
+Oskar,hnn,Undirected,6
+Greven,hnn,Undirected,1
+Greven,Mamsel Lund,Undirected,1
+Mamsel Lund,Oskar,Undirected,1
+Oskar,kjæræ,Undirected,2
+Fio-rella,Oskar,Undirected,1
+Blomfelds,Fio-rella,Undirected,1
+Blomfelds,Oskar,Undirected,1
+Blomfelds,Fiorella,Undirected,2
+Oskar,Sangtimernc,Undirected,2
+Axel,Oskar,Undirected,1
+Axel,Fro-dar,Undirected,1
+Fro-dar,Oskar,Undirected,1
+Agata,Grev Lejon-hjelms,Undirected,1
+Agata mesf,Lejonhjelms,Undirected,1
+Agata,Lejonhjelms,Undirected,1
+Agata,hnn,Undirected,1
+Gud,hnn,Undirected,2
+Oskar,lille Fiorella,Undirected,1
+Fiorella,Stjerna-borgs,Undirected,2
+Fiorella,hnn,Undirected,10
+Fiorella,mindsf,Undirected,1
+mindsf,sidsf,Undirected,1
+Fiorella,sidsf,Undirected,1
+Fiorella,Hr. Greve,Undirected,2
+Birken,Fiorella,Undirected,1
+Birken,Greven,Undirected,1
+Fiorella,Ingeborgs,Undirected,1
+Ingeborgs,hans Ingeborg,Undirected,1
+Gud,Ingeborg,Undirected,1
+Fiorella,Ingeborg,Undirected,1
+Fiorella,Oskar Stjcrnsköld,Undirected,1
+Fiorella,Stjernaborg,Undirected,1
+Grev Ørnkors,Oskar,Undirected,3
+Alvilda Ørnkors,Oskar,Undirected,2
+Alvilda,Oskar,Undirected,21
+Alvilda,Ørnkors,Undirected,2
+Sabina,Ørnkors,Undirected,1
+Oskar,Sabina,Undirected,2
+Alvilda,fial Sabina,Undirected,2
+Gyllenhjelm,hnn,Undirected,1
+Stjernflold,hnn,Undirected,1
+Elisa,Stjernflold,Undirected,1
+Elisa,Mamsel,Undirected,1
+Mamsel,Valfred,Undirected,3
+Valfred,Ørnkors,Undirected,1
+Lille Anna,Ørnkors,Undirected,1
+Lille Anna,Marie,Undirected,1
+Elisa,Marie,Undirected,1
+Elisa,Valfred,Undirected,1
+Morfars,Valfred,Undirected,1
+Morfars,dein,Undirected,1
+Mamsel,dein,Undirected,1
+Mamsel,Oskar,Undirected,2
+Oskar,fransf Gouvernante,Undirected,1
+Gyllen-hjelm,Oskar,Undirected,1
+Gyllen-hjelm,Mamscl,Undirected,1
+Mamscl,Oskar,Undirected,1
+!,Oskar,Undirected,2
+Mamsel,Sabina,Undirected,2
+Alvilda,Sabina,Undirected,6
+Alvilda,Mamsel Maillard,Undirected,9
+Mamsel Maillard,Oskar,Undirected,5
+Alvilda,Virginie Maillard,Undirected,2
+Alvilda,Virginie,Undirected,11
+Oskar,Virginie,Undirected,13
+Grevinde Gyllenhjelm,Gud,Undirected,1
+Grevinde Gyllenhjelm,Virginie Maillard,Undirected,1
+Oskar,Virginie Maillard,Undirected,1
+Gyllenhjelm,Mamsel Maillard,Undirected,2
+Gyllenhjelm,Oskar,Undirected,6
+Hr. Greve,Oskar,Undirected,2
+Hr. Greve,hnn,Undirected,2
+Birginie,Madonna,Undirected,1
+Madonna,elffe,Undirected,2
+Madonna,St. Michael,Undirected,1
+Johannes,St. Michael,Undirected,1
+Johannes,Pater Anselm,Undirected,1
+Ignatius Loyola,Pater Anselm,Undirected,2
+Madonna,Pater Anselm,Undirected,1
+Madonna,Virginie Maillard,Undirected,1
+Virginie,Virginie Maillard,Undirected,1
+Alvilda,Gyllenhjelm,Undirected,4
+Alvilda,Runebergs,Undirected,1
+Mamsel Maillard,Runebergs,Undirected,1
+Alvilda,hnn,Undirected,1
+Mamsel Maillard,hnn,Undirected,1
+Alvilda,Komtesse Alvilda,Undirected,1
+Komtesse Alvilda,Oskar,Undirected,2
+Mamsel Maillard,Virginie,Undirected,1
+Komtessens,Virginie,Undirected,2
+Alvilda,Mamsellen,Undirected,1
+Mamsellen,Virginie,Undirected,1
+Alvilda,Grev Stjernskold,Undirected,1
+Grev Stjernskold,Virginie,Undirected,1
+hnn,Ørnkors,Undirected,1
+Mamsellen,hnn,Undirected,1
+Gyl-lenhjelm,Mamsellen,Undirected,1
+Gyl-lenhjelm,Komtesse,Undirected,1
+Komtesse,Oskar nn,Undirected,1
+Nadeschda,Oskar nn,Undirected,1
+Nadeschda,Wold-mans,Undirected,2
+Alvilda,Nadeschda,Undirected,1
+Virginie,Ørnkors,Undirected,1
+Oskar,Ørnkors,Undirected,1
+Gyllenhjelm,Mamsel,Undirected,1
+Birginie,Mamsel,Undirected,2
+Birginie,Oskar,Undirected,4
+Birginie,Mamsel Maillard,Undirected,1
+Alvilda,Birginie,Undirected,2
+Mamsel Maillard,helsl,Undirected,1
+Alvilda,helsl,Undirected,1
+Alvilda,Gyllenhjem,Undirected,1
+Gyllenhjem,Mamsel,Undirected,1
+Mamsel,Virginie,Undirected,1
+Birginie,Ørnkors,Undirected,1
+Maillard,Mamsel,Undirected,1
+Maillard,Sabina,Undirected,1
+Oskar,sif,Undirected,4
+ester,sif,Undirected,1
+Marias,sif,Undirected,1
+Gud,Marias,Undirected,1
+Grev Gyllenhjelms,Oskar,Undirected,1
+Bent,Oskar,Undirected,1
+Bent,Birginie,Undirected,1
+Grev Stjernskold,ester,Undirected,1
+Komtesse Alvilda,ester,Undirected,1
+Grev Stjern skold,Oskar,Undirected,1
+Birginie,hu,Undirected,1
+Birginie,Sabina,Undirected,1
+Alvilda,Gud,Undirected,2
+Gud,Virginie,Undirected,3
+Stjernskøld,Virginie,Undirected,1
+Greven,Stjernskøld,Undirected,1
+Grev Ørnkors,Greven,Undirected,1
+Alvilda,Grev Ørnkors,Undirected,2
+Grev Gyllenhjelms,Virginie,Undirected,1
+Grev Ørnskors,Oskar,Undirected,1
+Grev Ørnskors,Gyllenhjelm,Undirected,1
+Fiorella,Virginie,Undirected,5
+Virginie,sif,Undirected,2
+Oskar,Vir-ginie,Undirected,1
+Birginie,Vir-ginie,Undirected,1
+Bir-ginie,Oskar,Undirected,1
+Bir-ginie,Grev Ørnkors,Undirected,1
+Grev Ørnkors,Virginie,Undirected,1
+Oskar,Stjernsköld.,Undirected,1
+Birginie,Stjernsköld.,Undirected,1
+Miilarens,Oskar,Undirected,1
+Gud,Miilarens,Undirected,1
+Gud,Madonna,Undirected,1
+Alvilda,Madonna,Undirected,1
+Madonna,sif,Undirected,1
+Madonna,Oskar,Undirected,1
+Birginie,Grev Ørnkors,Undirected,2
+Frida,Virginie,Undirected,1
+Frida,Sigrid,Undirected,100
+Sigrid,hnn,Undirected,6
+Krog,hnn,Undirected,1
+Gud,Krog,Undirected,3
+Edgar,Krog,Undirected,2
+Edgar,Gud,Undirected,14
+Edgar,Sigrid,Undirected,98
+Edgar,Frida,Undirected,46
+Blaa,Edgar,Undirected,1
+Frida,halvl,Undirected,1
+Edgar,halvl,Undirected,1
+Sigrid,paany,Undirected,1
+Frida,paany,Undirected,1
+Dokforen,Frida,Undirected,1
+Dokforen,Sigrid,Undirected,1
+Edgar,Husefs,Undirected,1
+Hr. Elm-kvist,Husefs,Undirected,1
+,Hr. Elm-kvist,Undirected,1
+,Edgar,Undirected,1
+Edgar,Hr. Elmkvist,Undirected,2
+Frida,Hr. Elmkvist,Undirected,1
+Dr. Fjeld,Hr. Elmkvist,Undirected,1
+-skov,Dr. Fjeld,Undirected,1
+-skov,Edgar,Undirected,1
+Aland,Gud,Undirected,1
+Aland,Fjeldflov,Undirected,1
+Fjeldflov,Hr. Elmkvist,Undirected,1
+Edgar,Frands,Undirected,7
+Gud,Sigrid,Undirected,11
+Dr. Fjeldskov,Edgar,Undirected,4
+Frands,Frida,Undirected,1
+Frands,Sigrid,Undirected,4
+Dr. Fjeldfkovs,Sigrid,Undirected,1
+Edgar,Rosengaard,Undirected,4
+Rosengaard,Sigrid,Undirected,4
+Frida,Rosengaard,Undirected,3
+Faders,Sigrid,Undirected,1
+Faders,Frida,Undirected,1
+Ansigf,Frida,Undirected,1
+Ansigf,Sigrid,Undirected,1
+Edgar,Leonard Bang,Undirected,1
+Fjeldskvv,Leonard Bang,Undirected,1
+Fjeldskvv,Myndlinge,Undirected,1
+Edgar,hnn,Undirected,1
+Frida,hnn,Undirected,2
+Sigrid,kjæræ,Undirected,1
+Edgar,kjæræ,Undirected,1
+Agata Lejonhjelm,Fiorella,Undirected,2
+Blomfeld,hnn,Undirected,1
+Blomfeld,skjælmsk,Undirected,1
+Fiorella,skjælmsk,Undirected,1
+Fio-rclla,Fiorella,Undirected,1
+Fio-rclla,Gud,Undirected,1
+Bang,Sigrid,Undirected,2
+Edgar,Luise,Undirected,12
+Edgar,Minna,Undirected,2
+Edgar,Frøken Elmkvist,Undirected,1
+Fanny,Frøken Elmkvist,Undirected,1
+Fanny,Hostrups,Undirected,2
+Fanny,Lieutenant Rønnov,Undirected,1
+Lieutenant Rønnov,Thora,Undirected,1
+Marie,Thora,Undirected,1
+Fjeldskov,Marie,Undirected,1
+Fjeldskov,Sigrid,Undirected,1
+Edgar,Frøken Elmkvisf,Undirected,1
+Frøken Elmkvisf,Uegcnnyttighed,Undirected,1
+Sigrid,Uegcnnyttighed,Undirected,1
+Frøken Elmkvisf,Sigrid,Undirected,1
+Fanny,Frøken Elmkvisf,Undirected,1
+Fanny,Rønnov,Undirected,1
+Rønnov,nn,Undirected,1
+Sigrid,nn,Undirected,1
+Fjeldflov,Sigrid,Undirected,3
+Frøken Elmkvist,Sigrid,Undirected,7
+Frøken Elmkvist,Myndling,Undirected,1
+Myndling,Sigrid,Undirected,1
+Dn,Edgar,Undirected,3
+Dn,Sigrid,Undirected,3
+Fjeldflov,Mø,Undirected,1
+Edgar,Mø,Undirected,1
+Edgar,Ella,Undirected,1
+Ella,Fjeldskov,Undirected,1
+Fjeldskov,Gud,Undirected,1
+Edgar,Fjeldflov,Undirected,2
+Edvard,Fjeldstov,Undirected,1
+Edvard,hnn,Undirected,1
+Emilie,hnn,Undirected,1
+Dn,Emilie,Undirected,1
+Dn,Edvard,Undirected,1
+Edgar,Peder Madsens,Undirected,1
+Armodeus,Peder Madsens,Undirected,1
+Armodeus,Edgar,Undirected,1
+Edgar,sif,Undirected,2
+Edgar,Lieutenanten,Undirected,2
+Dokforen,Edgar,Undirected,1
+Dokforen,Otto,Undirected,1
+Otto,ester,Undirected,1
+Edgar,ester,Undirected,2
+Edgar,Iolantas,Undirected,1
+Iolanta,Iolantas,Undirected,1
+Iolanta,hnn,Undirected,1
+Jo-lanta,hnn,Undirected,1
+Fjeldskov,Jo-lanta,Undirected,1
+Fjeldskov,Jolanta,Undirected,1
+Iolanta,Jolanta,Undirected,6
+Axel,Jolanta,Undirected,2
+Fiorella,Jolanta,Undirected,4
+Gud,Jolanta,Undirected,3
+Gud,Øe,Undirected,1
+Myndling,Øe,Undirected,1
+Fiorella,Myndling,Undirected,1
+Edgar,Jolanta,Undirected,2
+Edgar,Jvlantas,Undirected,2
+Axel,Edgar,Undirected,1
+Axel,Fiorella,Undirected,2
+Bang,Rønnov,Undirected,1
+Rønnov,Sigrid,Undirected,5
+Lieutenant Rønnov,Sigrid,Undirected,2
+Lieutenant Rønnvvs,Sigrid,Undirected,2
+Asten,Sigrid,Undirected,1
+Gud,Sigrid Elmkvist,Undirected,1
+Sigrid,Sigrid Elmkvist,Undirected,2
+Sigrid,Torkild Helmer,Undirected,1
+Elisa,Torkild Helmer,Undirected,1
+Elisa,Sigrid,Undirected,1
+Helmer,Sigrid,Undirected,3
+Helmer,hnn,Undirected,1
+Ester,hnn,Undirected,1
+Ester,Sigrid,Undirected,1
+Helmer,Øe,Undirected,1
+Sigrid,Øe,Undirected,1
+Frida,Helmer,Undirected,3
+Elisa,Gud,Undirected,1
+Sigrid,sif,Undirected,4
+Karl,hnn,Undirected,1
+Karl,Rsnnovs,Undirected,1
+Rsnnovs,Sigrid,Undirected,1
+Franst,Sigrid,Undirected,1
+Edgar,Franst,Undirected,1
+Edgar,fransfe,Undirected,1
+Sigrid,fransfe,Undirected,1
+Frøken Elm-kvist,Sigrid,Undirected,1
+Frøken Elmkvist,Herkules,Undirected,1
+Herkules,Sigrid,Undirected,1
+Fjeldskov,Frida,Undirected,1
+Fjeldskov,Lieutenant Rønnov,Undirected,1
+Gud,Lieutenant Rønnov,Undirected,1
+Gud,Ronnov,Undirected,1
+Dr. Fjcldfkov,Ronnov,Undirected,1
+Dr. Fjcldfkov,Gud,Undirected,1
+Gud,Rønnov,Undirected,1
+Edgar,Rønnov,Undirected,1
+Lieutenanten,Sigrid,Undirected,2
+Lieutenant Rønnov,Rønnov,Undirected,1
+Edgar,Lieutenant Rønnov,Undirected,1
+Lieutenanten,Rønnov,Undirected,1
+Frøken Elmkvist,Lieutenant Rønnov,Undirected,1
+Elmkvist,Frøken Elmkvist,Undirected,1
+Dr. Fjeldflov,Elmkvist,Undirected,1
+Dr. Fjeldflov,Sten,Undirected,1
+Sigrid Elm-kvists,Sten,Undirected,1
+Rønnov,Sten,Undirected,1
+Otto Rønnov,Rønnov,Undirected,2
+Sigrid,lef,Undirected,1
+Dn,Frida,Undirected,1
+Frida,Gud,Undirected,9
+Graad,Sigrid,Undirected,2
+Edgar,Sidsfe,Undirected,2
+Sidsfe,Sigrid,Undirected,2
+Nygaard,Sigrid,Undirected,1
+Frida,Nygaard,Undirected,1
+Frands,hnn,Undirected,2
+Frida,Luise,Undirected,7
+Luise,Sigrid,Undirected,16
+Sigrid,Ten,Undirected,1
+Frida,sif,Undirected,1
+Sigrid,lille Frida,Undirected,1
+Frida,lille Frida,Undirected,1
+Baron Geller,Sigrid,Undirected,2
+Frida,hvi-flede,Undirected,1
+Gud,hvi-flede,Undirected,1
+Luise,ester Baron Gellers,Undirected,1
+Edgar,ester Baron Gellers,Undirected,1
+Edgar,Kudsken,Undirected,2
+Edgar,Fjeldsfov,Undirected,1
+Geller,Sigrid,Undirected,2
+Arne,Geller,Undirected,1
+Antonie Geller,Arne,Undirected,1
+Antonie,Antonie Geller,Undirected,1
+Antonie,Vilhelm,Undirected,5
+Sigrid,Vilhelm,Undirected,5
+Edgar,taalmodig,Undirected,1
+Antonie,Sigrid,Undirected,18
+Ross,Sigrid,Undirected,2
+Ross,Stern,Undirected,3
+Sigrid,Stern,Undirected,7
+Antonie,Stern,Undirected,1
+Helmer,Stern,Undirected,2
+Edgar,Ross,Undirected,1
+Stern,fluide,Undirected,1
+Sands,fluide,Undirected,1
+Antonie,Kuflen,Undirected,1
+Kuflen,Sigrid,Undirected,1
+Antonie,Frøken Elmkvist,Undirected,1
+Sigrid,soni,Undirected,2
+Sigrid,ester,Undirected,3
+Oskar,Sigrid,Undirected,11
+Baronesse Gellers,Sigrid,Undirected,1
+Antonie,Baronesse Gellers,Undirected,1
+Frida,Oskar,Undirected,4
+Hnn,Sigrid,Undirected,1
+Frida,Hnn,Undirected,2
+Fiorella,Oskar Stjernsköld,Undirected,1
+Fiorella,Sigrid,Undirected,3
+Zigeunernaturcns,tillive,Undirected,1
+Oskar,tillive,Undirected,1
+Fiorella,sif,Undirected,1
+as,hnn,Undirected,1
+Baron Geller,Sigrid Elmkvist,Undirected,1
+Baron Geller,Oskar,Undirected,1
+Gud,Vesignelsen,Undirected,1
+Oskar,Vesignelsen,Undirected,1
+Oskar,Stjernsköld,Undirected,2
+Sigrid,Virginie,Undirected,2
+Birginie Maillard,Fransf,Undirected,1
+Birginie,Fransf,Undirected,1
+Birginie,Virginie,Undirected,1
+Elsfov,Oskar,Undirected,1
+Bang,Luise,Undirected,1
+Edgar,Øe,Undirected,2
+Leonard,Sigrid,Undirected,2
+Leonard,Luise,Undirected,2
+Geller,Luise,Undirected,1
+Frida,Geller,Undirected,1
+Frida,kølde,Undirected,1
+Geller,kølde,Undirected,1
+Antonie,Geller,Undirected,1
+Antonie,Bedstefader,Undirected,1
+Bedstefader,ester,Undirected,1
+Sigrid,hiin,Undirected,2
+Sigrid,lille Sigrid,Undirected,1
+Edgar,lille Sigrid,Undirected,1
+Luise,mildl,Undirected,1
+Sigrid,mildl,Undirected,1
+Edgar,Geller,Undirected,2
+Edgar Fjeldflov,Sigrid,Undirected,3
+Edgar Fjeldflov,Sigrid Elmkvist,Undirected,1
+Fiorella,Grev Stjernflöld,Undirected,1
+Greven,Stjern-flöld,Undirected,1
+Fiorella,Stjern-flöld,Undirected,1
+Fiorella,Kornelius,Undirected,1
+Fiorclla,hnn,Undirected,1
+Fiorella,Fiorella Blomfeld,Undirected,1
+Dn,Fiorella,Undirected,2
+Fiorella,Grev Stjernskölds,Undirected,2
+Dr. Ljunggrens,Edgar,Undirected,1
+Dr. Ljunggrens,Gud,Undirected,1
+Edgar,Fiorella,Undirected,6
+Edgar,Praxis,Undirected,1
+Fiorella,Fjeldflov,Undirected,2
+Oskar,synxs,Undirected,1
+Fjeldskov,synxs,Undirected,1
+Fjeldskov,Oskar,Undirected,2
+Dr. Fjeldskov,Jolanta,Undirected,1
+Doendes,Dr. Fjeldskov,Undirected,1
+Doendes,Ronnov,Undirected,1
+Ronnov,Stjernsfold,Undirected,1
+Axel Rosendals,Stjernsfold,Undirected,1
+Axel Rosendals,Fiorella,Undirected,1
+Fiorella,Stjern-slold,Undirected,2
+Edgar,Oskar,Undirected,6
+Fiorella,Fjeldsfov,Undirected,1
+Fjeldsfov,Oskar,Undirected,1
+Fjeldflov,Oskar,Undirected,1
+Edgar,effer,Undirected,1
+Oskar,effer,Undirected,1
+Fiorella,Fjeldskov,Undirected,1
+Grev Stjernflöld,Madeleine,Undirected,1
+Madeleine,Magdalene,Undirected,1
+Gud,Magdalene,Undirected,1
+Gud,Pater Anselm,Undirected,1
+Gud,ester,Undirected,1
+Fjeldflov,Gud,Undirected,1
+Gud,Hnn,Undirected,1
+Edgar Fjeldskovs,Gud,Undirected,1

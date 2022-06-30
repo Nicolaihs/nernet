@@ -1,0 +1,120 @@
+source,target,type,weight
+Kjeld,hans,Undirected,1
+Søgaard,hartad,Undirected,1
+Kjeld,hartad,Undirected,1
+Bigaard,Lasson,Undirected,1
+Lasson,sorn,Undirected,1
+Lasson,Minona,Undirected,14
+Lasson,Søgaard,Undirected,2
+Kjeld,Minona,Undirected,45
+Constances,Kjeld,Undirected,1
+Kjeld,Søgaard,Undirected,4
+Lasson,Morten Jensens,Undirected,1
+Minona,Morten Jensens,Undirected,1
+Minona,Schidnning,Undirected,2
+Constance,Kjeld,Undirected,8
+Minona,Ole Johan,Undirected,1
+Kristus,Ole Johan,Undirected,1
+Constance,Kristus,Undirected,1
+Constance,Guds,Undirected,1
+Dr. Valen,Hansson,Undirected,1
+Constance,Dr. Valen,Undirected,3
+Constance,Valen,Undirected,9
+Constance,Frk. Krause,Undirected,2
+Constance,Minona,Undirected,7
+Constance,Dr. Gundersen,Undirected,1
+Gundersen,Laura,Undirected,2
+Frk. Skov,Søster Krause,Undirected,1
+Constance,Laura,Undirected,1
+Laura,Valen,Undirected,2
+Laura,valte,Undirected,1
+Frk. Skov,valte,Undirected,1
+Constance,Frk. Skov,Undirected,1
+Minona,Valen,Undirected,6
+Lauridsen,Minona,Undirected,7
+Kjeld,Valen,Undirected,3
+Constance,Flun,Undirected,1
+Gud,Gundersen,Undirected,1
+Constance,Gundersen,Undirected,2
+Constance,Fiasco,Undirected,1
+Constance,H. Valen,Undirected,1
+Constance,Zenith,Undirected,1
+Gud,Zenith,Undirected,1
+Hansson,Minona,Undirected,1
+Pierre,hans fordums,Undirected,1
+Kjeld,Krause,Undirected,5
+Constance,Krause,Undirected,6
+Constance,Lauridsen,Undirected,2
+Kjeld,Lauridsen,Undirected,4
+Minona,Søgaard,Undirected,3
+Lauridsen,Søgaard,Undirected,2
+Krause,Søgaard,Undirected,3
+Constance —,Kjeld,Undirected,1
+Elise Thomsen,Kjeld,Undirected,1
+Kjeld,Ole Johan,Undirected,3
+Anders,Kjeld,Undirected,5
+Flan,Kjeld,Undirected,1
+Gud,Minona,Undirected,2
+Anders,Jil,Undirected,2
+Kjeld,lille Ole Johan,Undirected,1
+Constance,Kjeld —,Undirected,1
+Lasson,Liun,Undirected,1
+Kjeld,Lasson,Undirected,8
+Lasson,Lauridsen,Undirected,5
+Hektor,Kjeld,Undirected,1
+Hektor,Lasson,Undirected,1
+Kjeld,Lians,Undirected,1
+LI vad,lille Lauridsen,Undirected,1
+Krause,LI vad,Undirected,1
+Flan,Lasson,Undirected,1
+Flan,Ole Madsens,Undirected,1
+Krause,Lauridsen,Undirected,2
+Gud,Søgaard,Undirected,2
+Constance,F'ruen,Undirected,1
+Henrik,Valen,Undirected,1
+Constance,Gud,Undirected,2
+Constance,Flan,Undirected,2
+Henrik Valen,Lauridsen,Undirected,1
+Gud,Lauridsen,Undirected,1
+Kjeld,f Hr. Krause,Undirected,1
+Krause,Lynghøj,Undirected,1
+Lauridsen,Valen,Undirected,1
+Gud,Valen,Undirected,1
+Dr. Valen,Minona,Undirected,1
+Fisker Hans Klausens,Minona,Undirected,1
+Lians,Minona,Undirected,2
+Minona,Pappa,Undirected,1
+Constance,Lasson,Undirected,1
+Kjeld,Lynghøj,Undirected,1
+Ole Johan,Søgaard,Undirected,2
+Søgaard,ieS,Undirected,1
+Liun,Minona,Undirected,1
+Kjeld,Skjels,Undirected,1
+Gundersen,Plun,Undirected,1
+Gundersen,Valen,Undirected,1
+Dr. Gundersen,lian,Undirected,1
+Dannebrog,Romny,Undirected,1
+Constance,gjærne,Undirected,2
+Graad,Gud,Undirected,1
+Constance,Kjeld Lasson,Undirected,2
+Constance Perronen,Valen,Undirected,1
+Constance Perronen,Kjeld Lasson,Undirected,1
+Minona,liam,Undirected,1
+Lasson,Søgaard —,Undirected,1
+Lasson,Schack,Undirected,1
+Kaal,Lasson,Undirected,1
+Kaal,Minona,Undirected,1
+Kjeld,Vexler,Undirected,1
+Krause,Ole Johan,Undirected,1
+Faders,Ole Johan,Undirected,1
+Dr. Valen,Kjeld,Undirected,1
+Constance,Ole Johan,Undirected,1
+Kranses,Ole Johan,Undirected,1
+Kranses,Lauridsen,Undirected,1
+Bona,Minona,Undirected,1
+Bona,Valen,Undirected,1
+Minona,hans,Undirected,1
+Flan,Minona,Undirected,1
+Constance Minona,Valen,Undirected,1
+Kjeld —,Minona,Undirected,1
+Kjeld Lasson,Valen,Undirected,3

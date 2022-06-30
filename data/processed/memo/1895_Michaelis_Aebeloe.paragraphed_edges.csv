@@ -1,0 +1,70 @@
+source,target,type,weight
+Falk,Junkerens,Undirected,2
+Junkerens,Sylvester,Undirected,1
+Sølver,Sølvers,Undirected,1
+Svend,Sølver,Undirected,7
+Falk,Sølver,Undirected,2
+Brynden,Sølver,Undirected,3
+Aare,Sølver,Undirected,1
+Sten Basse,Sølver,Undirected,13
+Karlen,Sølver,Undirected,1
+Haahaa,Sten Basse,Undirected,1
+Haahaa,Sølver,Undirected,1
+Basse,Haahaa,Undirected,1
+Sten Basse,Svend,Undirected,1
+Elsyf,Sten Basse,Undirected,1
+Basse,Sølver,Undirected,4
+Jomfru Gro,Sølver,Undirected,4
+Nimbus,Sølver,Undirected,2
+Gros,Sølver,Undirected,2
+Sten Basse,haanle,Undirected,1
+Sten,Sten Basse,Undirected,1
+Krapylets,Sten Basse,Undirected,1
+Basse,Svend,Undirected,1
+Guds,Svend,Undirected,1
+Gro,Sten,Undirected,3
+Erik,Gro,Undirected,1
+Hanselv,Sten Basse,Undirected,1
+Gro,Sølver,Undirected,43
+lille Sisken,lille stærke,Undirected,1
+Gro,lille stærke,Undirected,1
+Gro,lille Gro,Undirected,1
+Karl,lille Gro,Undirected,1
+Graad,Sten,Undirected,1
+Davre,Sølver,Undirected,1
+Gro,Landbykirkcns,Undirected,1
+Basse,Falk,Undirected,1
+Blidel die,blaa,Undirected,1
+Basse,Karl,Undirected,1
+Basse,Gro,Undirected,1
+Guds,Sten Basse,Undirected,1
+Broder Jørgens,Jørgen,Undirected,1
+Jørgen,Sten,Undirected,1
+Jørgen,Sten Basse,Undirected,2
+Basse,Sten,Undirected,2
+Sten,Sølver,Undirected,2
+Gro,Jomfru Gro,Undirected,1
+Gro,XVIII,Undirected,1
+Jere,Sten,Undirected,1
+Kirkegaard,Sølver,Undirected,1
+Bjørn,Jere,Undirected,1
+Jørgen,Sølver,Undirected,1
+Gro,Jørgen,Undirected,1
+Even tyrets Bjørn,Gro,Undirected,1
+Attraas,Gro,Undirected,1
+Attraa,Attraa og,Undirected,1
+Attraa,Guds,Undirected,1
+Gro,Guds,Undirected,2
+Guds,Madonna,Undirected,1
+Gro,dikke,Undirected,1
+Edele,Gro,Undirected,9
+Maanelys,Sølver,Undirected,1
+Edele,Jomfru Gro,Undirected,2
+Blu,Gro,Undirected,1
+Isse,Sølver,Undirected,1
+Edele,Kaabes,Undirected,2
+Edele,Sølver,Undirected,1
+Falk,Svend,Undirected,1
+Johanne,Sølver,Undirected,1
+Sølver,Tage,Undirected,1
+Gro,Tage,Undirected,1

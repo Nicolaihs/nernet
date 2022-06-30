@@ -1,0 +1,318 @@
+source,target,timestamp
+Joakim Pedersen,Pedersen,1
+Doktor ,Pedersen,2
+Lorenz Høst,Pedersen,2
+Lorenz Høst,Pedersen,2
+Pedersen,skraa,2
+Høst,skraa,2
+Helga,Pedersen,9
+Helga,Lorenz,9
+Joakim Pedersen,Lorenz Høst,12
+Dickens,Joakim Pedersen,12
+Lorenz,Pedersen,18
+Mark Twain,s,20
+Lorenz,Pedersen,22
+Lorenz,Pedersen,25
+Lorenz,Pedersen,25
+Lorenz,Lorenz Høst,27
+Lorenz,Walter Scott,28
+Marryat,Walter Scott,28
+Lorenz,Marryat,28
+Lorenz,Napoleons,28
+Lorenz,Napoleons,28
+Joakim Pedersen,Lorenz,30
+Lorenz,Turgenjeff,31
+Bazaroff,Turgenjeff,31
+Bazaroff,Lorenz,31
+Bazaroff,Lorenz,31
+Bazaroff,Joakim Pedersen,31
+Joakim Pedersen,eine schlanke,31
+Bazaroff,Lorenz,33
+Astrid,Lorenz,35
+Astrid,Lorenz,36
+Lorenz,livor,37
+Astrid,Lorenz,39
+Joakim Pedersen,Lorenz,40
+Lorenz,Pedersen,40
+Helga,Lorenz,41
+Helga,Pedersen,41
+Astrid,Pedersen,41
+Astrid,Lorenz,41
+Lorenz,paany,41
+Astrid,paany,41
+Astrid,Helga,43
+Astrid,Schiern,43
+Pastor Schiern,Schiern,43
+Astrid,Helga,44
+Astrid,Høst,44
+Helga,Høst,44
+Astrid,Helga,46
+Astrid,Helga,47
+Helga,Schiern,47
+Helga,Schiern,47
+Astrid,Helga,47
+Astrid,Helga,47
+Helga,Joakim Pedersen,49
+Helga,Pedersen,49
+Karl,Pedersen,49
+Helga,Karl,49
+Helga,Joakim Pedersen,49
+Helga,Joakim Pedersen,49
+Helga,Pedersen,49
+Helga,Pedersen,49
+Helga,Lorenz Høst,49
+Helga Schiern,Lorenz Høst,49
+Bjørn,Helga Schiern,49
+Bjørn,Lorenz,49
+Bjørn,Lorenz,49
+Bjørn,Joakim Pedersen,49
+Joakim Pedersen,Lorenz,49
+Astrid,Helga,50
+Astrid,Lorenz,51
+Astrid,Helga,52
+Gud,Helga,52
+Helga,Lorenz,53
+Astrid,Helga,53
+Astrid,Lorenz,53
+Helga,Lorenz,53
+Astrid,Helga,53
+Astrid,Helga,53
+Astrid,Helga,53
+Astrid,Lorenz,54
+Astrid,paany,54
+Astrid,Helga,55
+Astrid,Helga,55
+Astrid,Helga,55
+Astrid,ifjor,55
+Astrid,ifjor,55
+Astrid,Helga,55
+Astrid,Lorenz,56
+Helga,Lorenz,56
+Astrid,Lorenz,57
+Astrid,Helga,57
+Astrid,Helga,57
+Astrid,Helga,57
+Helga,Lorenz,57
+Astrid,Lorenz strax,58
+Astrid,Lorenz,60
+Astrid,Lorenz,61
+Astrid,lelga,61
+Pedersen,lelga,61
+Lorenz,Pedersen,61
+Bo,Lorenz,61
+Bo,Joakim Pedersen,61
+Joakim Pedersen,Lorenz Høst,61
+Astrid,Lorenz,62
+Astrid,Lorenz,62
+Astrid,Lorenz,62
+Astrid,Lorenz,62
+Astrid,Lorenz,64
+Astrid,Lorenz,64
+Astrid,Lorenz,64
+Astrid,Lorenz,64
+Lorenz,ban,67
+Lorenz,paany,68
+Lorenz,paany,68
+Joakim,Pedersen,70
+Gud,Joakim,70
+Gud,Pedersen,70
+Pedersen,Skraas,71
+Mads Jensen,Nielsen,72
+Mads Jensen,Pedersen,72
+Helga,Pedersen,72
+Astrid,Lorenz,73
+Astrid,Høst,73
+Astrid,Høst,73
+Helga,P'ru,74
+Helga,Pedersen,74
+Helga,Pedersen,74
+Joakim,Pedersen,78
+Joakim Pedersen,Pedersen,79
+Franck,Pedersen,79
+Franck,Pedersen,79
+Franck,Pedersen,79
+Franck,P'rancks,79
+Helga,P'rancks,79
+Franck,Helga,79
+Helga,Joakim Pedersen,80
+Nielsen,Pedersen,81
+Helga,Nielsen,81
+Nielsen,Sinsro,82
+Pedersen,Sinsro,82
+Helga,Pedersen,83
+Helga,Nielsen,83
+Helga,Pedersen,86
+Nielsen,Pedersen,87
+Nielsen,Pedersen,87
+Pedersen,Pienge,88
+Pedersen,Pienge,88
+Nielsen,Pienge,88
+Helga,Pedersen,89
+Joakim Pedersen,Pedersen,89
+Joakim Pedersen,Pienge,89
+Pedersen,Pienge,89
+Pedersen,Pienge,89
+Pedersen,Pienge,89
+Helga,Pedersen,89
+Helga,Joakim,89
+Joakim,Pienge,89
+Pedersen,Pienge,89
+Helga,Pedersen,90
+Astrid,Flun,92
+Pedersen,Pienge,93
+Kapellan Pienge,Pienge,93
+Kapellan Pienge,Kierkegaard,93
+Kierkegaard,Uhdes,93
+Dokto,Pedersen,98
+Gud,Pedersen,98
+Astrid,Lorenz,100
+Astrid,Lorenz,100
+Helga,Lorenz,100
+Astrid,Lorenz,101
+Lorenz,Rocamboles,105
+Lorenz,siste,107
+Astrid,Lorenz,111
+Astrid,Lorenz,111
+Joakim,Lorenz,114
+Astrid,Pedersen,116
+Lorenz,Lorenz Høst,118
+J. Pedersen,Lorenz,119
+J. Pedersen,Lorenz,119
+Astrid,Lorenz,120
+Astrid,Lorenz,120
+Mtius,Muus,121
+Høst,Muus,121
+Høst,Lorenz,121
+Franck,Lorenz,122
+Franck,Muus,123
+Franck,Muus,123
+Franck,Muus,123
+Franck,Muus,123
+Franck,Muus,123
+Franck,Muus,123
+Franck,Muus,123
+Dr. Muus,Franck,124
+Dr. Franck,Dr. Muus,124
+Dr. Franck,Pedersen,124
+Dr. Pedersen,Pedersen,124
+Dr. Pedersen,Muus,124
+Dr. Franck,Muus,124
+Dr. Franck,Franck,124
+Franck,Lorenz,125
+Flund,Franck,125
+Dr. Franck,Flund,125
+Franck,Lorenz,126
+Gud,Lorenz,126
+Gud,Høst,126
+Lorenz,Pedersen,128
+Helga,Pedersen,128
+Astrid,Helga,128
+Astrid,Lorenz,128
+Franck,Lorenz,128
+Astrid,Helga,129
+Astrid,Flelga,129
+Astrid,Flelga,129
+Astrid,Helga,129
+Bedstefaders,Helga,129
+Bedstefaders,Joakim,129
+Joakim,Pedersen,129
+Mikkelsens,Pedersen,131
+Mikkelsen,Pedersen,131
+Helga,Pienge,133
+Helga,Pienge,133
+Helga,Pienge,134
+Helga,Joakim,134
+Joakim,Pienge,134
+Pedersen,Pienge,136
+Pedersen,Pienge,136
+Pienge,dejo,137
+Helga,dejo,137
+Peder,Pienge,141
+Gud,Peder —,143
+Pedersen,Pienge,144
+Lian,Pienge,146
+Gud,Pienge,147
+Dr. Pedersen,Pienge,148
+Astrid,Lorenz,150
+Astrid,Muus,150
+Lorenz,Muus,150
+Astrid,Lorenz,150
+Astrid,Muus,150
+Lorenz,Muus,150
+Franck,Lorenz,150
+Lorenz,Pedersen,151
+Dr. Høst,Lorenz,152
+Dr. Høst,Nemesis,152
+Lorenz,Nemesis,152
+Franck,Liv,153
+Astrid,Lorenz,154
+Astrid,Lorenz,154
+Dr. Pedersen,Mikkelsen,158
+Dr. Pedersen,Mikkelsen,159
+Dr. Høst,Dr. Pedersen,160
+Dr. Franck,Dr. Pedersen,160
+Dr. Franck,Høst,160
+Dr. Pedersen,Høst,160
+Dr. Pedersen,Pedersen,160
+Høst,Pedersen,160
+Dr. Høst,Høst,160
+Dr. Høst,Høst,161
+Dr. Pedersen,Mikkelsen,163
+Dr. Franck,Dr. Muus,164
+Dr. Muus,Lorenz Høst,164
+Høst,Pedersen,165
+Astrid,Høst,165
+Astrid,Lorenz,165
+Lorenz,ifjor,166
+Høst,Joakim Pedersen,170
+Høst,Pedersen,170
+Helga,Pedersen,170
+Astrid,Helga,170
+Astrid,Lorenz,171
+Astrid,Lorenz,171
+Franck,Pedersen Skals,173
+Dr. Pedersen,Franck,173
+Astrid,Lorenz,175
+Astrid,Helga,176
+Astrid,Lorenz,176
+Dr. Pedersen,Lorenz,180
+Dr. Pedersen,Joakim Pedersen,180
+Hans Jørgen,Jørgen Hansens,181
+Jørgen Hansen,Jørgen Hansens,181
+Hans Jørgen,Jørgen Hansen,181
+Hans Jørgen,Lorenz,181
+Lorenz,Pedersen,182
+Astrid,Lorenz,182
+Brown Sequards,Lorenz,186
+Brown Sequards,Lorenz,186
+Pienge,cyclede Lorenz,192
+Joakim Pedersen,Pienge,192
+Høst,Joakim Pedersen,192
+Joakim Pedersen,Pedersen,195
+Joakim Pedersen,Pedersen,195
+Joakim Pedersen,Pedersen,195
+Brown,Pedersen,195
+Brown,Sequardske,195
+Methode,Sequardske,195
+Astrid,Helga,197
+Astrid,Lorenz,197
+Astrid,Lorenz,197
+Astrid,Helga,197
+Astrid,Helga,198
+Astrid,Helga,199
+Astrid,Helga,204
+Helga,Lorenz,204
+Astrid,Helga,205
+Astrid,Helga,205
+Helga,Lorenz,205
+Astrid,Helga,207
+Gud,véd,209
+Astrid,Helga,210
+Astrid,Lorenz,211
+Helga,Lorenz,211
+Astrid,Lorenz,212
+Franck,Muus,213
+Franck,Muus,213
+Høst,Koch,215
+Høst,Karl,215
+Karl,Pedersen,215

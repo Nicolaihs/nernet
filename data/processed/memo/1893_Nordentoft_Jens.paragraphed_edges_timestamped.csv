@@ -1,0 +1,231 @@
+source,target,timestamp
+Gud,Jens,3
+Gud,Jens’,3
+Anna,Jens,5
+Aage,Anna,6
+Aage,Poul,6
+Carl,Poul,6
+Carl,Riises,6
+Drost Peder,Riises,6
+Anders Daglejer,Hagen,7
+Hagen,Moder,7
+Jens,Poul,12
+Inger,Poul,12
+Anna,Inger,12
+Anna,Mathilde,12
+Jens,Mathilde,12
+Jens,Mathilde,12
+Inger,Mathilde,12
+Aage,Poul,15
+Aage,Poul,15
+Hat,Poul,15
+Hat,Poul,15
+Lectie,Poul,15
+Aage,Lectie,15
+Aage,Kampraab,15
+Jens,Kampraab,15
+Inger,Jens,16
+Inger,Jens,16
+Inger,Jens,17
+Anna,Inger,17
+Anna,Inger,17
+Inger,Tulle,17
+Jens,Poul,18
+Jens,Poul,18
+Jens,Søsters,18
+Jens,Søsters,18
+Inger,Jens,18
+Inger,Jens,18
+Inger,Jens,18
+Inger,Jens,18
+Jens,niente,20
+Frk. Hansen,Lectierne,21
+Inger,Jens,22
+Inger,Jens,27
+Inger,paany,28
+Gud,Jens,31
+Frk. Hansen,Jens,33
+Inger,Jens,33
+Frk. Hansen,Inger,33
+Frk. Hansen,Jens,33
+Frk. Hansen,Jens,33
+Frk. Hansen,Inger,33
+Inger,Jens,33
+Frk. Hansen,Jens,33
+Frk. Hansen,Nielsen,33
+Jens,Nielsen,33
+Frk. Hansen,Jens,35
+Frk. Hansen,Inger,35
+Inger,Jens,35
+Anna,Jens,42
+Anna,Jens,42
+Buch,Jens,43
+Buch,Jens,43
+Buch,Mr. Steinmetz sen,45
+Mr. Steinmetz sen,Steinmetz sen,45
+Mr. Steinmetz jun.,Steinmetz sen,45
+Md. Steinmetz jun.,Mr. Steinmetz jun.,45
+Md. Steinmetz jun.,Mr. le capitaine Drumont,45
+Md. Drumont,Mr. le capitaine Drumont,45
+Md. Drumont,Mile.,45
+Mile.,Mr. Gourowitsch,45
+. Vecque,Mr. Gourowitsch,45
+. Vecque,Mr. Bryant,45
+Mr. George,Steinmetz,46
+Mr. George,Mr. Vecque,46
+Jens,Mr. George,47
+Jens,Mr. George,47
+Jens,Mr. George,47
+Buch,Mr. George,47
+Buch,Mr. Vecque,47
+Mr. George,Mr. Vecque,47
+Mr. George,Mr. Gourowitsch,47
+Buch,Jens,48
+Buch,Mr. Gourowitsch,48
+Mr. George,Mr. Gourowitsch,48
+Jens,Mr. George,48
+Buch,Jens,48
+Mr. George,Mr. Vecque,50
+Buch,Jens,58
+Buch,Sopha,58
+Mr. George,Sopha,58
+Md. George,Mile,59
+Jens,Md. George,59
+Jens,Vecque,59
+Jens,Mr. George,60
+Jens,Mr. George,60
+Buch,Jens,61
+Jens,Mile,61
+Mile,Vecque,61
+Buch,Vecque,61
+Angelique,Jens,62
+Angelique,Jens,62
+Buch,Jens’,63
+Angelique,Jens,64
+Angelique,Jens,64
+Buch,Jens,64
+Angelique,Buch,64
+Angelique,Jens,64
+Buch,Jens,64
+Buch,Jens,64
+Buch,Jens,64
+Buch,Jens,64
+Angelique,Jens,64
+Angelique,Jens,64
+Chor,Jens,68
+Chor,Loirel,68
+Gud,Jens,69
+Gud,Jens,69
+Jens,Loirel,71
+Jens,Jens Buch,71
+Angelique,Jens Buch,71
+Angelique,Loirel,71
+Jens,Loirel,71
+Buch,Jens,73
+Buch,Jens,79
+Angelique,Buch,99
+Angelique,Buch,100
+Angelique,Buch,110
+Praxis,Theori,116
+Praxis,Theori,117
+Jens,Vecque,120
+Jens,Mile,121
+Jens,Mile,121
+Buch,Jens,121
+Angelique,Buch,121
+Angelique,Buch,121
+Angelique,Loirel,122
+Jens,Loirel,122
+Buch,Jens,122
+Buch,Jens,122
+Angelique,Jens,122
+Angelique,Jens’,122
+Buch,Jens’,122
+Buch,Jens,122
+Jens,Loirel,123
+Angelique »,Jens,123
+Angelique,Angelique »,123
+Angelique,Jens,123
+Buch,Jens,124
+Angelique,Jens,124
+Angelique,Jens,124
+Buch,Jens,125
+Buch,Jens,125
+Angelique,Jens,125
+Angelique,Jens,125
+Buch,Jens,125
+Angelique,Jens,126
+Angelique,Buch,126
+Buch,Jens,126
+Angelique,Jens,128
+Angelique,Buch,129
+Angelique,Buch,129
+Buch,Jens,129
+Angelique,Jens,129
+Buch,Jens,130
+Angelique,Buch,130
+Angelique,Buch,130
+Buch,bart,130
+Buch,bart,130
+Buch,Jens,131
+Buch,Jens,131
+Buch,Jens,131
+Buch,Jens,133
+Angelique,Buch,148
+Buch,Jens,148
+Angelique,Jens,149
+Angelique,Jens,151
+Angelique,Jens,153
+Angelique,Jens,153
+Galatheas,Jens,155
+Angelique,Jens,157
+Jens,Steinmetz,157
+Jens,Steinmetz,157
+Jens,Vecque,157
+Angelique,Vecque,157
+Angelique,Mile,157
+Md. George,Mile,157
+Md. George,Mr. Steinmetz,158
+Jens,Md. George,158
+Angelique,Jens,163
+Angelique,Jens,163
+Angelique,Jens,163
+Inger,Jens’,165
+Inger,Jens,167
+Angelique,Jens,170
+Jens,Mairen,170
+Angelique,Jens,172
+Angelique,Jens,172
+Christi,christne,174
+Gud,christne,174
+Paul,Poul,177
+Monsieur Lilienskjold,Paul,178
+Aage,Monsieur Lilienskjold,178
+Aage,Jenny,178
+Jenny,Monsieur Lilienskjold,178
+Monsieur Lilienskjold,Paul,178
+Jenny,Paul,178
+Jenny,Tulle,178
+Lise,Tulle,178
+Angelique,Jens,179
+Angelique,Gud,190
+Angelique,Jens,198
+Angelique,Jens,201
+Jens,djt,208
+Gud,djt,208
+Arne,Gud,209
+Anna,Jens,221
+Jens,Plun,223
+Jens,Sophahjørne,223
+Angelique,Q.t,224
+Herzens,bittre Pfeile,227
+Jens,Longfellows,228
+Adam,Jens,234
+Jens,Jærnhaand,248
+Gud,Jens,249
+Buch,Jens,249
+Angelique,Buch,249
+Angelique,Jens,252
+Johannes,Maria,259
+Christus,Jens,265
+Christus,Gud,265

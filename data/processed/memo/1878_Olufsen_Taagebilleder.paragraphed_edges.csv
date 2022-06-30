@@ -1,0 +1,241 @@
+source,target,type,weight
+Moders,hnn,Undirected,1
+Antons,hnn,Undirected,1
+Anton,hnn,Undirected,6
+Anton,Braadsø,Undirected,1
+Anton,Socn,Undirected,1
+Faster Marie,hnn,Undirected,2
+Fasters,hnn,Undirected,1
+Faster,Fasters,Undirected,1
+Pasop,Tyrk,Undirected,1
+Jeppe,Tyrk,Undirected,1
+Jeppe,Jokum,Undirected,1
+Anton,ester,Undirected,2
+Anton,Maxmann,Undirected,68
+Faders,Knebelfips,Undirected,1
+Gud,Knebelfips,Undirected,1
+Anton,Nn,Undirected,1
+Anton,Hr. Kand,Undirected,1
+. Larsen,Hr. Kand,Undirected,1
+Anton,Hr. Lever,Undirected,2
+Jomfru Marie,Maxmann,Undirected,2
+From,Maxmann,Undirected,8
+Anton,From,Undirected,35
+Anton,Artium,Undirected,1
+Adam From,Maxmann,Undirected,4
+Hr. Lever,Maxmann,Undirected,2
+Maxmann,ester,Undirected,1
+From,Frøken From,Undirected,1
+Frøken From,Hnn,Undirected,1
+Adam,Maxmann,Undirected,8
+Adam,From,Undirected,2
+Adam øg Olga,From,Undirected,1
+Anton,Frøken Hansen,Undirected,3
+Frøken Hansen,Maxmann,Undirected,1
+Adam,laante Maxmann,Undirected,1
+Frøken Hansen,Gud,Undirected,1
+Froken Hansen,Maxmann,Undirected,1
+Frøken Hansen,Olga,Undirected,1
+Anton,Olga,Undirected,29
+Moll,Olga,Undirected,1
+Moll,Vivi,Undirected,1
+Blaalige,Vivi,Undirected,1
+Blaalige,Gud,Undirected,1
+Adam From,Anton,Undirected,12
+Anton,Elisabeth,Undirected,2
+Wevst,Wevst Kofod,Undirected,1
+Faster Marie,heng,Undirected,1
+Anna,heng,Undirected,1
+Anton,dcn,Undirected,1
+Anton,Lars,Undirected,1
+Anton,Marie,Undirected,5
+Anton,Homer,Undirected,4
+hnn,son,Undirected,1
+Homer,Maxmann,Undirected,2
+Anton,Dn,Undirected,1
+Dn,Maxmann,Undirected,1
+Maxmann,Vens,Undirected,1
+Anton,sra,Undirected,1
+Frn From,Olga,Undirected,1
+Anton,Gud,Undirected,3
+Gud,Mutter,Undirected,1
+Dn,Præsfen,Undirected,1
+Præsfen,helsf,Undirected,1
+Gud,Sjcelc,Undirected,1
+Anton,Sjcelc,Undirected,1
+Anton,dorske,Undirected,2
+Anton,kjær,Undirected,2
+Anton,Frncn,Undirected,2
+Anton,Stine,Undirected,3
+Hnn,Stine,Undirected,1
+Christian WintherS,Stine,Undirected,1
+Hanchs,Hauch,Undirected,2
+Jens Peter,Olga,Undirected,1
+Stine,ester,Undirected,2
+Stine,ester Kjærlighed,Undirected,1
+Anton,Maleren,Undirected,1
+Nizza,sfjout,Undirected,1
+Hnn,hnn,Undirected,1
+Anton,Hnn,Undirected,1
+Aare,Anton,Undirected,1
+Anton,Gaasesteg,Undirected,1
+Frncn,Stine,Undirected,1
+Beethovens,Olga,Undirected,1
+Adam,Frøken Hansen,Undirected,2
+Adam,hnn,Undirected,1
+Hansesdatter,hnn,Undirected,1
+Bolette,Hansesdatter,Undirected,1
+Bolette,Maxmann,Undirected,1
+Anna,Anton,Undirected,1
+Jokumsen,hnn,Undirected,1
+Anna,hnn,Undirected,1
+Blaa,Jokumsen,Undirected,1
+Anton,Birken,Undirected,1
+Anton,kim,Undirected,1
+Anton,Myresticn,Undirected,2
+From,Jens,Undirected,1
+Jens,Martha,Undirected,9
+Jens,Tralala,Undirected,1
+Anton,Oren,Undirected,1
+Jens Fisker,Martha,Undirected,2
+Anton,Martha,Undirected,1
+Anton,fig,Undirected,2
+Anton,Jens,Undirected,1
+Jens Peter,Martha,Undirected,1
+Gud,Martha ined,Undirected,1
+Jens,Jonas,Undirected,1
+Jens,Kristi,Undirected,1
+Kristi,Martha,Undirected,1
+Dn,Morten Matros,Undirected,2
+Jonas bode,Morten Matros,Undirected,1
+Martha,øg,Undirected,1
+Anton,øg,Undirected,5
+Anton,sik,Undirected,1
+Anton,Kofod,Undirected,2
+Marie,hnn,Undirected,1
+Anton,Faster Marie,Undirected,1
+Anton,visfnok,Undirected,1
+Adam From Anfon,Olga,Undirected,1
+Adam From,Anfon,Undirected,1
+Adam From,Olga,Undirected,2
+Anfon,Olga,Undirected,1
+Madsen,Maxmann,Undirected,1
+Kure,Madsen,Undirected,1
+Hr. Anton,asbrød Maxmann,Undirected,1
+Madam Jensen,Maxmann,Undirected,10
+Anton,sidsf,Undirected,1
+Madam Jensen,sidsf,Undirected,1
+Maxmann,hnn,Undirected,2
+Madam Jensen,smykkedcs,Undirected,2
+Hannes,Maxmann,Undirected,1
+Eva,Hannes,Undirected,1
+Adam,Eva,Undirected,1
+Chr. Kure,Peder Madsen,Undirected,1
+Anton,Chr. Kure,Undirected,9
+Anton,nicd,Undirected,1
+Maxmann,nicd,Undirected,1
+Chr. Kure,Maxmann,Undirected,5
+Hain,Ore,Undirected,1
+Aare,Ore,Undirected,1
+Aare,Gud,Undirected,1
+Gud,Mathilde,Undirected,1
+L Kopisten,Maxmann,Undirected,2
+Chr. Kure,From,Undirected,1
+Anton og,Maxmann,Undirected,1
+Anton og,Peder Madsen,Undirected,1
+Maxmann,Peder Madsen,Undirected,2
+Literatus Peder Madsen,Peder Madsen,Undirected,1
+Anton,Literatus Peder Madsen,Undirected,2
+Snoweldowelbowlsky Pruthsky,ester den hollandske,Undirected,1
+Pruthsky,ester den hollandske,Undirected,1
+Pruthsky,Snoweldowelbowlsky Pruthsky,Undirected,2
+Peder Madsen,Snoweldowelbowlsky Pruthsky,Undirected,2
+Snoweldowelbowlsky Pruthfly,Snoweldowelbowlsky Pruthsky,Undirected,1
+From,Peder Madsen,Undirected,1
+Madam Jensen,Ojncne,Undirected,1
+From,Madam Jensen,Undirected,1
+Gud,Jensen,Undirected,1
+Jensen,Madam Jensen,Undirected,2
+Maxmann,Oren,Undirected,1
+Frue kjær,Taalmod,Undirected,2
+Buggens,Glutten,Undirected,1
+Literatus Peder Madsen,Maxmann,Undirected,3
+Anton,Madam Jensen,Undirected,7
+M. Jensen,Madam Jensen,Undirected,1
+From,M. Jensen,Undirected,1
+Maxmann,Maxmann Jensen,Undirected,1
+Anton,M. Jensen,Undirected,1
+M. Jensen,Maxmann,Undirected,1
+Anton,Lovise,Undirected,1
+Anton,Brosche,Undirected,1
+Brosche,Maxmann,Undirected,1
+Lovise,Maxmann,Undirected,3
+Ester Thebordet,Maxmann,Undirected,1
+Anton,Hin,Undirected,1
+Hin,Maxmann,Undirected,1
+From,Mastruca,Undirected,1
+Anton,Mastruca,Undirected,2
+From,Masfruca,Undirected,1
+Lovise Jensen,Maxmann,Undirected,2
+Homer,Horats,Undirected,1
+Anton,Horats,Undirected,1
+Adam,Anton,Undirected,1
+Adam,Olga,Undirected,1
+ester,sfulle dcle,Undirected,1
+Lauritz de Thurahs,Maxmann,Undirected,1
+Maxmann,Ol,Undirected,2
+From,Salomon,Undirected,1
+Anton,Ester,Undirected,2
+Anton,Mcrsscjl,Undirected,1
+Elisabeth,Mcrsscjl,Undirected,1
+Anton,Horizont,Undirected,2
+Anton,Sjup,Undirected,1
+Sjup,sjup,Undirected,1
+Gud,Ore,Undirected,1
+Aagerkarle,Olga,Undirected,1
+Gud,Olga,Undirected,5
+From,Lovise Jensen,Undirected,1
+Maxmann,Olga,Undirected,1
+Chr. Kure,Oren,Undirected,1
+Hartvig,Oren,Undirected,1
+Hartvig,gotte,Undirected,1
+Anton,omgaas,Undirected,1
+Kand.,Lever,Undirected,1
+Anton,Madam Larsen,Undirected,7
+Graad,Madam Larsen,Undirected,1
+From,Madam Larsen,Undirected,1
+From,Grosserer Froms,Undirected,1
+Grosserer Froms,Olga,Undirected,1
+Lund,Madam Larsen,Undirected,1
+Anton,Lund,Undirected,3
+Anton,Byrons,Undirected,1
+Byron,Byrons,Undirected,1
+Byron,Milton,Undirected,1
+Milton,ilions,Undirected,1
+Anton,ilions,Undirected,1
+Addisons,Anton,Undirected,1
+Addisons,Shakespeares,Undirected,1
+Shakespeares,Uomso nnll lluliok,Undirected,1
+Anton,Graad,Undirected,2
+Anton,ril,Undirected,1
+From,ril,Undirected,1
+From,Olga,Undirected,1
+Anton,nndgik,Undirected,1
+Madam Larsen,nndgik,Undirected,1
+Anton,Ojne,Undirected,1
+Chr. Kure,Ojne,Undirected,1
+Maxmann,Olga From,Undirected,2
+Chr. Kure,L Filosofs,Undirected,1
+Chr. Kure,Lovise,Undirected,1
+Maxmann,fig,Undirected,1
+Principal,fig,Undirected,1
+From,Principal,Undirected,1
+Olga From,ester,Undirected,1
+Aha,Olga,Undirected,1
+Anton,tort,Undirected,1
+Anton,Olga From,Undirected,2
+From,Hnn,Undirected,1
+Adam From,Mastruca,Undirected,1
+Aland,From,Undirected,1
+Aland,hensovet,Undirected,1
+Anton,Nizza,Undirected,1

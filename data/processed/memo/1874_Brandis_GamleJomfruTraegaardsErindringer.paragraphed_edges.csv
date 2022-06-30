@@ -1,0 +1,244 @@
+source,target,type,weight
+Hr. Sørensen,Jomfru Trægaard,Undirected,1
+Hr. Sørensen,Tu,Undirected,1
+Gud,Guds,Undirected,1
+Jørgen,lille Jørgen,Undirected,1
+Jørgen,øg,Undirected,1
+Røsf,lille Bita,Undirected,1
+Dalberg,lille Bita,Undirected,1
+Moder,Vita,Undirected,1
+Paul,Vita,Undirected,26
+Vita,stig kjønt,Undirected,1
+Jomfru Trægaard,stig kjønt,Undirected,1
+Jomfru Trægaard,Marsch,Undirected,1
+Paul,Paul tretten,Undirected,1
+Paul tretten,Vita,Undirected,1
+Arthur,Vita,Undirected,1
+Vita,lærke,Undirected,1
+Dalberg,Hubert,Undirected,2
+Hubert,bruunt,Undirected,1
+Frøken Regitze,Regitze,Undirected,2
+Caspar,ester,Undirected,1
+Frk. Regitze,Hr. Arthur,Undirected,1
+Frk. Esther,Regikze,Undirected,1
+Regikze,Vita,Undirected,1
+Fætterms,Vita,Undirected,1
+Martha,Vita,Undirected,7
+Paul,lee,Undirected,1
+Fruens,Paul,Undirected,1
+Martha,Panl,Undirected,1
+Esther,Regitze,Undirected,2
+Esther,Isaksens,Undirected,1
+Isaksens,Regitze,Undirected,1
+Agathe Ammon,Vita,Undirected,2
+Vita,hnn,Undirected,2
+Herrens,Vita,Undirected,1
+Caspar,Herrens,Undirected,1
+Caspar,Isaksens,Undirected,1
+Isaksens,Vita,Undirected,1
+Ammons,Vita,Undirected,1
+Vita,asbrudt,Undirected,1
+Trægaard,lille Frue,Undirected,1
+Agathe,Vita,Undirected,15
+Agathe,Martha,Undirected,1
+Agathe,Juul,Undirected,1
+Dalberg,Vita,Undirected,1
+Vita,sfal,Undirected,1
+Frøken Regitze,sfal,Undirected,1
+Arthur,ivnge,Undirected,1
+Regitze,ivnge,Undirected,1
+Peer,Regitze,Undirected,1
+Peer,Povl,Undirected,1
+Frsken Regitze,Vita,Undirected,1
+Martha,Sophaen,Undirected,1
+Sophaen,Vita,Undirected,1
+Regitze,Vita,Undirected,1
+Arthur,Martha,Undirected,1
+Arthur,Esther Isaksen,Undirected,1
+Moder,Moder igaar,Undirected,1
+Arthur Hubert,Regitze,Undirected,1
+Esther,Froken,Undirected,1
+Froken,Frøkm Regitze,Undirected,1
+Isaksens,ester,Undirected,1
+Hr. Hubert,—,Undirected,1
+Hr. Hubert,Vita,Undirected,2
+Hr. Hubert,Isaksens,Undirected,1
+Isaksens,Paul,Undirected,1
+Hubert,Vita,Undirected,1
+Hubert,Martha,Undirected,1
+Jomfru Trægaard,von Solenthal,Undirected,1
+Regitze Hubert,von Solenthal,Undirected,1
+Frøken Regitze,Vita,Undirected,3
+Frøken Regitze,Hubert,Undirected,1
+Esther,Regikze,Undirected,2
+Esther,Lorrsur,Undirected,1
+Candidat,Vita,Undirected,1
+Candidat,Mldsle,Undirected,1
+Mldsle,Vita,Undirected,1
+Holger,Vita,Undirected,5
+Ernst Breide,Martha,Undirected,1
+Regitze,lille Vita,Undirected,1
+Ernst,Holger,Undirected,6
+Bita,Vita,Undirected,3
+Agathe,Bita,Undirected,1
+Agathe,Holger,Undirected,2
+Agathe,eger,Undirected,1
+Holger,eger,Undirected,1
+Ernst Breide,Vita,Undirected,5
+Ernst,Martha,Undirected,1
+Holger,dphsie Ernst,Undirected,1
+Ernst Breide,dphsie Ernst,Undirected,1
+Hnusbond,Vita,Undirected,1
+Holger Breide,Vita,Undirected,5
+Paul,Solenthal,Undirected,1
+Dands,hnn,Undirected,1
+Torrn,hnn,Undirected,1
+Regitze,Torrn,Undirected,1
+Binterveim,Regitze,Undirected,1
+Binterveim,Paul,Undirected,1
+Arthur,Regikze,Undirected,2
+Panl,Vita,Undirected,1
+Breide fluide,Paul,Undirected,1
+Breide fluide,Vita,Undirected,1
+Atlasfes,Vita,Undirected,1
+Conferentsraadens,Vita,Undirected,1
+Conferentsraadens,Holger Breide,Undirected,1
+Vita,reis,Undirected,1
+Faders,Martha,Undirected,1
+Vita,flee,Undirected,1
+Holger,hnn,Undirected,1
+hnn,sledse,Undirected,1
+sledse,sorundes,Undirected,1
+Holger Breide,sorundes,Undirected,1
+Aare igjen,Vita,Undirected,1
+Aare igjen,frisf,Undirected,1
+freidig,frisf,Undirected,1
+Paul,freidig,Undirected,1
+Vita,fig,Undirected,1
+Thomsen,Vita,Undirected,3
+Paul,Vila,Undirected,1
+Vita,grant,Undirected,2
+Herrm,Paul,Undirected,1
+Herrm,Vita,Undirected,1
+Gud,Vita,Undirected,4
+Agathe Marskalk,Vita,Undirected,1
+Paul,maasfee,Undirected,1
+Vita,maasfee,Undirected,1
+Marsfalks,Vita,Undirected,1
+Agathe,Pax,Undirected,1
+Martha,Pax,Undirected,1
+As,as,Undirected,1
+Vita,as,Undirected,1
+Vita,Wdle,Undirected,7
+Antonius,Vita,Undirected,1
+Comtessen,Vita,Undirected,6
+Emmerence Høgh,Helmuth Pax,Undirected,2
+Cort,Greve,Undirected,1
+Comtesse,Vita,Undirected,3
+SEdles,fil AEdle,Undirected,1
+Vita,bart,Undirected,1
+Predbjørn Arnfeld,fig,Undirected,1
+Herflabs,fig,Undirected,1
+LEdle,Vita,Undirected,4
+Mdle,Vita,Undirected,1
+AEdles,Vita,Undirected,2
+Greven,Vita,Undirected,2
+Agathe,Baron Marskalk,Undirected,4
+Wdle,fige,Undirected,1
+Agathe,Wdle,Undirected,2
+Grev Paxes,Thimgaard,Undirected,1
+Grev Paxes,Vita,Undirected,1
+Baron Marskalk,Vita,Undirected,1
+Thimgaard,soa,Undirected,1
+Helmuth,Thimgaard,Undirected,1
+Vita,assted,Undirected,1
+Bøsfrup,Frøken Dalberg,Undirected,1
+Jokumsen,hum,Undirected,2
+Martha Trægaard,Vita,Undirected,1
+Comtesse Leone,Martha Trægaard,Undirected,1
+Comtesse Leone,Martha,Undirected,1
+Comtessen,Jokumsen,Undirected,1
+Comtesse,Comtesse Leone,Undirected,1
+Comtesse,Cousin,Undirected,1
+Comtesse Leone,Cousin,Undirected,2
+Comtesse,Comtessen,Undirected,1
+Leone,Vita,Undirected,2
+Comtessen,Leone,Undirected,2
+Leone denmod,alflags,Undirected,1
+alflags,ostes,Undirected,1
+Comtesse,ril,Undirected,1
+Bjørn Ødemark,ril,Undirected,1
+ester,høilys,Undirected,1
+Lise,høilys,Undirected,1
+Thimgaard,isald,Undirected,1
+Arnfeld“,Martha Trægaard,Undirected,1
+Ernst,Vita,Undirected,4
+Greve,Vita,Undirected,1
+Gud,luunt,Undirected,1
+hnn,luunt,Undirected,1
+Comtesse,hnn,Undirected,1
+Breide,Gud,Undirected,1
+Gud,Steen,Undirected,1
+Baron Marsfalks,Pastor Breide,Undirected,1
+Vita,yn,Undirected,1
+Agathe,LEdle,Undirected,1
+freidig,hnn,Undirected,1
+Leone,freidig,Undirected,1
+Comtesse IEdle,Vita,Undirected,1
+Bøstrup,Vita,Undirected,1
+Bøstrup,Wdle,Undirected,1
+AEdle,Vita,Undirected,2
+AEdle,LEdle,Undirected,1
+Berete,Trude,Undirected,7
+Trude,benede,Undirected,1
+Trude,fidt,Undirected,1
+Comtesse,Juul,Undirected,1
+Breide,Vita,Undirected,2
+Bræide,Vita,Undirected,1
+Bræide,ban,Undirected,1
+Comtessen,ban,Undirected,1
+Bræide,estersaae,Undirected,1
+Arnseld,Bræide,Undirected,1
+Baron Marsfalks,Frøken Dalberg,Undirected,1
+Baron Marsfalks,Jomfru Trægaard,Undirected,1
+IEdles,Vita,Undirected,1
+Bjørn,IEdles,Undirected,1
+Bjørn,Lise,Undirected,1
+Bei,selo,Undirected,1
+Jomfru Trægaard,Martha,Undirected,1
+Hr. Hubert,Paul,Undirected,1
+Vita,sial Comtessens,Undirected,1
+Vita,strvx,Undirected,1
+Carriere,Vita,Undirected,1
+Marsfalk,Vita,Undirected,1
+Marsfalk,felv,Undirected,1
+Glædesraab,felv,Undirected,1
+Predbjørn Arnfeld,Vita,Undirected,1
+Dalberg,TEdle,Undirected,1
+Comtesse,Leone,Undirected,1
+Prindsessens,ester,Undirected,1
+Emmerence Høgh,ester,Undirected,1
+Greven,SEdle,Undirected,1
+ALdle,Vita,Undirected,1
+ALdle,ZEdle,Undirected,1
+AZdle,ZEdle,Undirected,1
+Vita,stEdle,Undirected,1
+AEdle,Comtessen,Undirected,1
+Comtessen,Nafk,Undirected,1
+Comtessen,Thimgaard,Undirected,1
+8Ehle,Vita,Undirected,1
+Vita,tans,Undirected,1
+haabe,tans,Undirected,1
+Vita,ZEdle,Undirected,2
+Arnfeld,Vita,Undirected,1
+Hr. Arnfeld,Vita,Undirected,1
+Arnfeld,Bjørn Ødemark,Undirected,1
+Agathe Marskalk,Bita,Undirected,1
+Pax,Vita,Undirected,2
+Thimgaard,Vita,Undirected,1
+Baronesse Agathes,Ernst Breide,Undirected,1
+Baron Marsfalks,Baronesse Agathes,Undirected,1
+Baron Marsfalks,Vita,Undirected,1
+Agathe,Thomsen,Undirected,1
+Paul Hubert,Sophaen,Undirected,1
+Comtessen,Vensfab,Undirected,1

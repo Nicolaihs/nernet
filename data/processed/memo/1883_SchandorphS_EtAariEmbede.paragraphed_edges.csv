@@ -1,0 +1,367 @@
+source,target,type,weight
+Gud,Østerberg,Undirected,1
+Fredrik,Kierkegaards,Undirected,1
+Fredrik,Juliane,Undirected,1
+Excellence,Holmberg,Undirected,1
+Holmberg,Hr. Holmberg,Undirected,2
+Askesens,theol. Holmberg,Undirected,1
+Erik,Halfdan Svarte Jensen,Undirected,2
+Erik Holmberg,Gud,Undirected,1
+Erik,Gud,Undirected,4
+Holmberg,crescendo,Undirected,1
+Erik,Holmberg,Undirected,8
+Erik,Oehlenschlåger,Undirected,1
+Chr. Winther,Oehlenschlåger,Undirected,1
+Chr. Winther,Holmberg,Undirected,1
+Holmberg,Madvigs,Undirected,1
+Brorson,Erik,Undirected,1
+Brorson,Paul Gerhardt,Undirected,1
+Erik Holmberg,Erik PTolmberg,Undirected,1
+Erik,Terzet,Undirected,2
+Erik,Nik,Undirected,2
+David Strauss,Erik,Undirected,1
+Baurs,Erik,Undirected,2
+Christian Mårklin,Erik,Undirected,1
+Strauss,laudabilis,Undirected,1
+Erik,laudabilis,Undirected,1
+Erik,Ernest Renan,Undirected,1
+Elisabeths,Erik,Undirected,1
+Henrik VIII,Shakespeare,Undirected,1
+Henrik VIII,Jane Grays,Undirected,1
+Cromwells,Jane Grays,Undirected,1
+Erik,Lars,Undirected,1
+Erik,Flan,Undirected,4
+Erik,Kristian VIII,Undirected,1
+Erik,tere,Undirected,1
+Erik,Straa,Undirected,1
+Erik,Pierre,Undirected,1
+Erik,Johan Ludvig Runebergs,Undirected,1
+Johan Ludvig Runebergs,Sokrates,Undirected,1
+Natalia,Sokrates,Undirected,1
+Hans,Wunsch,Undirected,1
+Erik Holmberg,Wunsch,Undirected,1
+Jesper Ridefoged,Maansør Montanus,Undirected,1
+Jesper Ridefoged,Ølsted,Undirected,1
+Kammerraad Malling,Major Holk,Undirected,1
+Kammerraad Malling,Rosenkvist,Undirected,1
+Rosenkvist,Veng,Undirected,1
+Erik Holmberg,Pierrot,Undirected,1
+Erik,Maane,Undirected,1
+Erik,Hr. Holmberg,Undirected,2
+Erik Holberg,Karl,Undirected,1
+Andersen,Hansen,Undirected,3
+Andersen,Graff,Undirected,4
+Hansen,Madam Graff,Undirected,1
+Graff,Madam Graff,Undirected,1
+Andersen,Madam Graff,Undirected,2
+Graff,Pedersen,Undirected,1
+Hansen,Pedersen,Undirected,2
+Andersen,Ole Hansen,Undirected,1
+Andersen,Erik Holmberg,Undirected,1
+Drot,signe,Undirected,1
+Garver Andersen,Hansen,Undirected,4
+Graff,Hansen,Undirected,4
+Garver Andersen,Graff,Undirected,4
+Eirik Holmbergs,Flan,Undirected,1
+Adjunkt Petersen,Erik,Undirected,1
+Erik,Kalot,Undirected,2
+Ludvig XV,Marechal Soubise,Undirected,1
+Ludvig XV,Madame de Pompadour,Undirected,1
+Ci,Madame de Pompadour,Undirected,1
+Ci,Erik,Undirected,1
+Erik,Jere,Undirected,1
+Erik Holmberg,Pestalozzi,Undirected,1
+Erik,Erik Holmberg,Undirected,11
+Erik Holmberg,Johan Heinrich Pestalozzi,Undirected,2
+Gud,Tolstrup,Undirected,1
+Gud,Holmberg,Undirected,2
+Erik Holmberg,Hr. Holmberg,Undirected,1
+Erik,Martensens,Undirected,1
+Gammen,Hr. Holmberg,Undirected,1
+Natalia,Skraa,Undirected,1
+Natalia,Rhythmos,Undirected,1
+Natalia,Platons,Undirected,1
+Lekture,Natalia,Undirected,1
+Adagio,Mozarts,Undirected,1
+Adagio,Andante,Undirected,1
+Andante,Erik,Undirected,1
+Erik,Mozart,Undirected,1
+Erik Holmberg,Zevs,Undirected,2
+Apollos,Zevs,Undirected,1
+Døbeln,Runeberg,Undirected,1
+Erik Holmberg,Flan,Undirected,1
+Gud,Krog,Undirected,1
+Hegel,Heiberg,Undirected,1
+Erik,Heiberg,Undirected,1
+Aarestrups,Heises,Undirected,1
+Balles,Erik,Undirected,1
+Holmberg,Montcme,Undirected,1
+Erik,Helene,Undirected,1
+Pedanta Pedantum,Pedantus,Undirected,1
+Pedanta Pedantum,Wagner,Undirected,1
+Wagner,sjaritate,Undirected,1
+Charon,tutar,Undirected,1
+Stormarna borja hvina,tutar,Undirected,1
+Stormarna borja hvina,klutar,Undirected,1
+Stjernorna,klutar,Undirected,1
+Stjernorna,lifsminut,Undirected,1
+Blunck,Olsen,Undirected,1
+Aare,Fedellen,Undirected,1
+Hr. Borgfeld,Nomme de cher,Undirected,1
+Erik,Hr. Borgfeld,Undirected,3
+Borgfeld,Erik,Undirected,3
+Borgfeld,Lord Byron,Undirected,1
+Rousseau,Voltaire,Undirected,1
+Gud,véd,Undirected,2
+Borgfeld,Ludvig Borgfeld,Undirected,2
+Don Juan,Ludvig Borgfeld,Undirected,1
+Don Juan,applicatio,Undirected,1
+Gud,Karl,Undirected,1
+Gud,Murhaandlanger,Undirected,1
+Danton,Murhaandlanger,Undirected,1
+Hegel,Madvigs,Undirected,1
+conceptio immaculata,nourrice,Undirected,1
+Gud,conceptio immaculata,Undirected,1
+Niels Borgfeld,Niels Borgfelds,Undirected,1
+Natalie,Niels Borgfeld,Undirected,1
+Flun,Natalie,Undirected,2
+Flan,Flun,Undirected,1
+Flan,Flusets,Undirected,1
+Niels Borgfeld,Yngling,Undirected,1
+Ludvig,Natalie,Undirected,2
+Natalie,Skjændetone,Undirected,1
+Birgitte,Klara,Undirected,1
+Birgitte,Hersom,Undirected,1
+Karl,Ludvig,Undirected,1
+Don Johan,Ludvig,Undirected,2
+Flan,hi,Undirected,1
+Attraa,Mefistofeles,Undirected,1
+Hellener,Piar,Undirected,1
+Graad,Hellener,Undirected,1
+P'rue,Pivad,Undirected,1
+Gud,Natalie,Undirected,1
+Flun,Sanseslos,Undirected,1
+Mollusk,hede,Undirected,1
+-Jens Krarup,Mollusk,Undirected,1
+-Jens Krarup,Gud,Undirected,1
+Bramlund,Randberg,Undirected,1
+Bramlund,zEre,Undirected,1
+Kleon,Ploug,Undirected,1
+Pio,Ploug,Undirected,1
+Geleff,Pio,Undirected,1
+Holmberg,l’,Undirected,1
+Don Juan,Faust,Undirected,1
+Faust,Lorenzaccio,Undirected,1
+Aarestrups,Ritornel,Undirected,1
+Hr. Holmberg,kjære Natalia,Undirected,1
+Erik Holmberg,sorn,Undirected,1
+Goethe,Tasso,Undirected,1
+Antonio,Torquato Tasso,Undirected,1
+Antonio,sapienti,Undirected,1
+Catilina,Cicero,Undirected,1
+Bravo,F'ruen,Undirected,1
+Hr. Holmberg,Natalia,Undirected,1
+Erik,kaad,Undirected,1
+Arnold,Brescia,Undirected,1
+Brescia,Hr. Holmberg,Undirected,1
+Frederik Barbarossa,Hr. Holmberg,Undirected,1
+Frederik Barbarossa,Pave Hadrian,Undirected,1
+Erik Holmberg,Natalia,Undirected,1
+Arnold,Natalia,Undirected,2
+Ferdinand Lassalle,Kristus,Undirected,1
+Cicero,Ferdinand Lassalle,Undirected,1
+Cicero,Ove ’,Undirected,1
+Høegh-Guldberg,Ove ’,Undirected,1
+Høegh-Guldberg,Jean-Jacques Rousseau,Undirected,1
+Jean-Jacques Rousseau,Strauss,Undirected,1
+Erik,Flun,Undirected,2
+Bajads,Hr. Borgfeld,Undirected,1
+Bajads,Erik,Undirected,1
+Erik Holmberg,Graff,Undirected,1
+Erik Holmberg,Hansen,Undirected,1
+Erik,Michel Angelos,Undirected,1
+Michel Angelos,Moses,Undirected,1
+Erik,Moses,Undirected,1
+Laud,Løvendal,Undirected,1
+Holmberg,Olsen,Undirected,2
+Dickens,Olsen,Undirected,2
+Bravo,Olsen,Undirected,1
+Bravo,bravo,Undirected,1
+Olsen,bravo,Undirected,1
+Løvendal,Olsen,Undirected,5
+Kaptejn,Major Hempel,Undirected,1
+Major,Major Hempel,Undirected,1
+Løvendal,Major,Undirected,1
+Gud,Olsen,Undirected,1
+Kaptejn,Krog,Undirected,1
+Gud,Hempel,Undirected,1
+Hempel,Kaptejn,Undirected,1
+Jansen,Kjøbmand Hvids,Undirected,1
+Krog,Olsen,Undirected,1
+Hansen,Olsen,Undirected,1
+Olsen,Peter Olsen,Undirected,2
+Graff,Olsen,Undirected,1
+Graff,Holmstrup,Undirected,1
+Erik Holmberg,Katholiks,Undirected,1
+Graff,Katholiks,Undirected,1
+Pernille siger,Soro,Undirected,1
+Candidatus philosophiae,Erik,Undirected,1
+Erik,Platon,Undirected,1
+Hegel,Platon,Undirected,1
+Landmaaler Borgfelds,hans Jakob von,Undirected,1
+Don Juan,Landmaaler Borgfelds,Undirected,1
+Assassin,Erik,Undirected,4
+Erik,Lomholt,Undirected,1
+Holmberg,Homer,Undirected,1
+Homer,Lomholt,Undirected,1
+Lomholt,lian,Undirected,1
+Fatters,Lomholt,Undirected,1
+Assassin,Erik Holmberg,Undirected,1
+Erik Holmberg,Krog,Undirected,4
+Emil,Gud,Undirected,1
+Emil,Holmberg,Undirected,1
+Holmberg,Jakob Krog,Undirected,1
+Jakob Krog,Platos,Undirected,1
+Kriton,Platos,Undirected,1
+Kriton,Madvigs,Undirected,1
+Jakob Krog,Madvigs,Undirected,1
+Gud,Jakob Krog,Undirected,1
+Erik,Petersen,Undirected,3
+Gud,Jakob,Undirected,1
+Anton Frederik Tscherning Krog,Jakob,Undirected,1
+Anton Frederik Tscherning Krog,Hr. Holmberg,Undirected,1
+Emil,Hr. Holmberg,Undirected,1
+Heiberg,Martensens,Undirected,1
+Cicero,Heiberg,Undirected,1
+Cicero,Virgil,Undirected,1
+Iliaden,Virgil,Undirected,1
+Holmberg,Madam Jensen,Undirected,1
+Erik,Krog,Undirected,2
+Erik,Hagen,Undirected,1
+Atlaskes,Hagen,Undirected,1
+Erik Holmberg,Holmberg,Undirected,1
+Borch,Holmberg,Undirected,1
+Borch,Fisker Glud,Undirected,1
+Fisker Glud,Holmberg,Undirected,1
+Fut,Holmberg,Undirected,1
+Krog,Martensens,Undirected,2
+FIaand,Krog,Undirected,1
+Erik Holmberg,vivisekeres,Undirected,1
+Erik,Inspektor,Undirected,1
+Hellespontos,Xerxes,Undirected,1
+Graad,Hellespontos,Undirected,1
+Graad,Xerxes,Undirected,1
+Evropas,Xerxes,Undirected,1
+Erik Holmberg,Krik Menved,Undirected,1
+Erik Holmberg,Leopardi,Undirected,2
+Erik,Rektors,Undirected,1
+Jupiter,Rektors,Undirected,1
+Jupiter,Venus,Undirected,1
+Milo,Venus,Undirected,1
+Milo,Natalia,Undirected,1
+Erik Holmberg,Graad,Undirected,1
+Erik,P'ruen,Undirected,1
+Gud,Kallesen,Undirected,1
+Jesus,Kallesen,Undirected,2
+Kallesen,Krog,Undirected,1
+Jesus,Krog,Undirected,1
+Kallesen,Maria,Undirected,1
+Jesu,Maria,Undirected,1
+Jesu,Maria Magdalena,Undirected,1
+Erik,Maria Magdalena,Undirected,1
+Erik,Naa,Undirected,1
+Grev Ravensberg,Kristian den,Undirected,1
+Grev Ravensberg,Kristian Vl,Undirected,1
+Kristian Vl,s,Undirected,1
+Frederik IV,s,Undirected,1
+Grev Ravensberg,Greven,Undirected,1
+.,j,Undirected,1
+'Brods,Braunholz,Undirected,1
+Beethoven,Natalia,Undirected,1
+Beethoven,Mozart,Undirected,1
+Erik Holmberg,Johan von Ehrenpreis,Undirected,1
+Erik,Natalie,Undirected,3
+Holmberg,hm,Undirected,1
+Natalia,hm,Undirected,1
+Emil,Krog,Undirected,1
+Emil,Erik,Undirected,1
+Ellene,Erik,Undirected,1
+Erik,Islag,Undirected,1
+Ellens,Erik,Undirected,1
+Borgfeld,Hr. Holmberg,Undirected,1
+Helena,Madam Borgfelds,Undirected,1
+Erik Holmberg,Madam Borgfelds,Undirected,1
+Don Juaner,Gud,Undirected,1
+Don Juaner,Jeppe,Undirected,1
+Erik Holmberg,Karl,Undirected,1
+Karl,Kristian IVdes,Undirected,1
+Karle,Kristian IVdes,Undirected,1
+Erik Holmberg,Karle,Undirected,1
+Faust,Helena,Undirected,1
+Erik,Kallesen,Undirected,9
+Erik Holmberg,Kallesen,Undirected,8
+Kallesen,hans,Undirected,1
+Erik Holmberg,hans,Undirected,1
+Erik Holmberg,Peder Paars,Undirected,1
+Jokum,eg,Undirected,1
+Erik Holmberg,eg,Undirected,1
+Aland,Groomen,Undirected,1
+Erik,Pastor Kallesen,Undirected,2
+Borch,Kallesen,Undirected,1
+Kallesen,Kapellan,Undirected,1
+ISrik,Kallesen,Undirected,1
+Gud,sorn,Undirected,1
+Borch,Gud,Undirected,1
+Gud,Paulus,Undirected,1
+Kallesen,Vorms,Undirected,1
+Borgfeld,Erik Holmberg,Undirected,1
+Holmberg,Petersen,Undirected,2
+Erik,Piarmen,Undirected,1
+Holmberg,casibusl,Undirected,1
+Erik Holmberg,Hr. Borgfeld,Undirected,1
+Borgfeld,Holmberg,Undirected,2
+Holmberg,Langkaal,Undirected,1
+Langkaal,Mutter,Undirected,1
+Borgfeld,Petersen,Undirected,1
+Erik Holmberg,Flun,Undirected,1
+Erik,Maria,Undirected,1
+Jesu,Kallesen,Undirected,1
+Jesu,Luther,Undirected,1
+Luther,Melanchthons,Undirected,1
+Jesu,Melanchthons,Undirected,1
+Erik Holmberg,Natalie,Undirected,1
+Kallesen,Natalie,Undirected,3
+Erasmus Montanus,Kallesen Per Degn,Undirected,1
+Jesper Ridefoged,Kallesen Per Degn,Undirected,1
+Kallesen,Sorn,Undirected,1
+Kallesen,Provst z\,Undirected,1
+Holmberg,Ludvig Borgfeld,Undirected,1
+Holmberg,hans,Undirected,1
+Ludvig Borgfeld,hans,Undirected,1
+Erik Holmberg,Ludvig Borgfeld,Undirected,2
+Ludvig,Ludvig Borgfeld,Undirected,1
+Boutik,Graff,Undirected,1
+Erik Holmberg,Kaptejn,Undirected,1
+Graff,Kaptejn,Undirected,1
+Graff,Ludvig,Undirected,1
+Bager Graff,Graff,Undirected,1
+Bager Graff,Jokumsen,Undirected,1
+Jokumsen,Kejser Napoleon,Undirected,1
+Jokurusens,Kejser Napoleon,Undirected,1
+Jokurusens,Øjenlaag,Undirected,1
+Hans,Hr. Jokumsen,Undirected,1
+Graff,Hr. Jokumsen,Undirected,1
+Fredrik,Hansen,Undirected,1
+Graff,Holmfeld,Undirected,1
+Garver Andersen,Holmfeld,Undirected,1
+Borgfeld,Graff,Undirected,1
+Hansen,Karlsen,Undirected,1
+Brandt,Karlsen,Undirected,1
+Garver Andersen,Petersen,Undirected,1
+Hansen,saagu,Undirected,1
+Grev Ravensberg,Løvendal,Undirected,1
+Holmberg,esprit,Undirected,1
+Holmberg,salig Holmberg,Undirected,1
+Goethe,Gud,Undirected,1
+Erik,Goethe,Undirected,1
+Gud,Jette,Undirected,1

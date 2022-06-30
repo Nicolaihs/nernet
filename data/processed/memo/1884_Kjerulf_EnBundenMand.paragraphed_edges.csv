@@ -1,0 +1,202 @@
+source,target,type,weight
+Mette,Mikkel,Undirected,11
+Mette,herren,Undirected,1
+Jørgen Smed,Mette,Undirected,1
+Gud,Mikkel,Undirected,1
+Peter,Peter Røgter,Undirected,1
+Gud,Øgjeg,Undirected,1
+Madam,Øgjeg,Undirected,1
+Madam,Peter o,Undirected,1
+Gud,Peter Røgter,Undirected,1
+Peter,madam,Undirected,3
+Arilds,Hartmann,Undirected,1
+Madam,Peter,Undirected,4
+Gud,madam,Undirected,2
+Sandberg,madam,Undirected,1
+Madam,madam,Undirected,1
+Madam Helt,Sandberg,Undirected,1
+Sandberg,filur,Undirected,1
+Sandberg,livis,Undirected,1
+liam,livis,Undirected,1
+Salling,Sandberg,Undirected,1
+lisken,madam,Undirected,1
+Sandberg,lisken,Undirected,1
+Sandberg,lian,Undirected,1
+Hr. Sandberg,madam,Undirected,1
+liam,madam,Undirected,1
+Sandberg,liam,Undirected,2
+Sandberg,livis tålmodighed,Undirected,1
+liun,madam,Undirected,1
+Sandberg,lien,Undirected,1
+liam,lien,Undirected,1
+Kristian den,Torben Oxe,Undirected,1
+Dyveke,Kristian den,Undirected,1
+Dyveke,gud,Undirected,1
+Klas,gud,Undirected,1
+gud,todt,Undirected,1
+Sandberg,todt,Undirected,1
+ban,gud,Undirected,1
+ban,lian,Undirected,1
+Hansen,Madsen,Undirected,5
+Hansen,Jensen,Undirected,2
+A.,gud,Undirected,1
+Hansen,gud,Undirected,1
+lian,lo Sandberg,Undirected,1
+Madame,grev Gyldenhjelm,Undirected,1
+Sandberg,grev Gyldenhjelm,Undirected,3
+Klas,Sandberg,Undirected,1
+Gyldenhjelm,sorn,Undirected,1
+Ferdinand,Gyldenhjelm,Undirected,1
+Ferdinand,monsieur Mikkel,Undirected,1
+Ferdinand,Mikkel,Undirected,2
+F erdinand,Mikkel,Undirected,1
+Fredrik den 5tes,Mikkel,Undirected,1
+grev Gyldenhjem,greven,Undirected,1
+Ferdinand,kreti,Undirected,1
+Ferdinand,greven,Undirected,3
+greven,lian,Undirected,1
+lian,lien,Undirected,1
+gud,lian,Undirected,1
+gud,livor,Undirected,1
+kreti,pieti,Undirected,1
+greve,pieti,Undirected,1
+Gud,véd,Undirected,1
+Hugo,greven,Undirected,1
+Hugo,Sørensen,Undirected,1
+Sørensen,madam —,Undirected,1
+Emma,gud,Undirected,1
+isse,lian,Undirected,1
+Don Quixote,isse,Undirected,1
+Hugo,liam,Undirected,1
+Hugo,papas,Undirected,1
+Flemming,papa,Undirected,1
+Flemming,Guldencrone,Undirected,1
+Emma,bon ton,Undirected,1
+bon ton,liun,Undirected,1
+Ali,livor,Undirected,1
+Ali,Hjelm,Undirected,1
+Hjelm,lian,Undirected,2
+Don Quixotiske,lian,Undirected,1
+Hjelm,grande,Undirected,1
+Per gårdshund,gud,Undirected,2
+Billsliolm,liar,Undirected,1
+Hjelm,grev Gyldenhjelm,Undirected,2
+Per,Povl,Undirected,1
+Emma,Ferdinand,Undirected,1
+Ferdinand,Gud,Undirected,1
+Grevens,komtesse Gyldenhjelm,Undirected,1
+Hjelm,greven,Undirected,1
+Billsliolm,greven,Undirected,1
+Hartmann,liam,Undirected,1
+Hartmann,hr. Hjelm,Undirected,1
+Emma,Greven,Undirected,2
+Hartmann,Mikkel,Undirected,1
+Greven,Tys,Undirected,1
+komtesse,komtesse Emmas,Undirected,1
+Emma,komtesse,Undirected,1
+T angemann,kong Hans,Undirected,1
+Hjelm,Tang,Undirected,2
+Tang,Tangemann,Undirected,3
+Emma,Hugo,Undirected,7
+Alvilda,Tang,Undirected,1
+Emma,Tang,Undirected,1
+Emma,greven,Undirected,1
+Ferdinand,lian,Undirected,1
+Greven,Mikkel,Undirected,1
+Gud,Tang,Undirected,1
+Tang,komtessen,Undirected,2
+Ferdinand,dale,Undirected,1
+Hjelm,Mikkel,Undirected,1
+Gud,grev Gyldenhjelm,Undirected,1
+Hassing,Hjelm,Undirected,1
+Kristian,Sandberg,Undirected,4
+Kristoffer Sandberg,Sandberg,Undirected,1
+Gyldenhjelm,Sandberg,Undirected,4
+Hjelm,Sandberg,Undirected,3
+Gud,Hjelm,Undirected,2
+Jensen,grev Gyldenhjelm,Undirected,2
+Jensen,Sandberg,Undirected,1
+Gyldenhjelm,dagvi,Undirected,2
+grev Gyldenhjelm,lian,Undirected,1
+De,ban,Undirected,1
+Herodes,Pilatus,Undirected,1
+Hjelm,hr. Hjelm,Undirected,1
+Grev Gyldenhjelm,Sandberg,Undirected,1
+Sandberg,hlot,Undirected,1
+Hjelm,Jensen,Undirected,1
+Gyldenhjelm,Jensen,Undirected,2
+Hjelm,gud,Undirected,3
+Hjelm,Kristian,Undirected,1
+Greven,grev Schmerling,Undirected,2
+Emma,Gyldenhjelm,Undirected,1
+Emma,komtessen,Undirected,1
+Otto,komtessen,Undirected,1
+Otto,Tang,Undirected,4
+Tang,greven,Undirected,1
+Emma,Hjelm,Undirected,2
+Emma,Kristian,Undirected,1
+Peter Røgter,Tang,Undirected,2
+Hassing,Tangemann,Undirected,1
+Tangemann,gud,Undirected,1
+Peter,hr. Tang,Undirected,1
+Tangemann,hr. Tang,Undirected,1
+Peter,Tang,Undirected,1
+Mikkel,greven,Undirected,1
+Mikkel,Peter,Undirected,2
+Hin,Mette,Undirected,1
+Mette,Peter,Undirected,2
+Mikkel,karl,Undirected,1
+Mette,greven,Undirected,1
+-,Mikkel,Undirected,1
+Peter,greve,Undirected,1
+Peter,greven,Undirected,1
+Mette,greve,Undirected,1
+Peter Røgter,greve,Undirected,1
+Mikkel,greve,Undirected,1
+Peter røgter,greve,Undirected,1
+Hartmann,Hjelm,Undirected,2
+Sandberg,pastor,Undirected,1
+Madsen,Sandberg,Undirected,3
+Hjelm,Hugo Hjelm,Undirected,3
+Gud,gud,Undirected,1
+Salling,lian,Undirected,1
+Tang,lian,Undirected,1
+Ib,Tang,Undirected,1
+greven,knibtang,Undirected,1
+grev Schmerling,greven,Undirected,1
+greven,gud,Undirected,2
+baronen,greven,Undirected,1
+Hartmann,greven,Undirected,1
+Hartmann,lien,Undirected,1
+Otto,papa,Undirected,1
+Stans,stans,Undirected,1
+Otto,greven,Undirected,1
+grev Gyldenlijelm,mosjø,Undirected,1
+Madam,grev Gyldenlijelm,Undirected,1
+Hassing,moTs,Undirected,1
+gud,liam,Undirected,1
+greven,madam,Undirected,1
+Madamen,Peter,Undirected,1
+Greven,Sandberg,Undirected,3
+Sandberg,gud,Undirected,1
+Quelle horreur,komtessen,Undirected,1
+grev Gyldenhjelm,greven,Undirected,1
+Mon dieu,Oli mon dieu,Undirected,1
+Greven,Hjelm,Undirected,1
+greven,hans excellence,Undirected,1
+Horns,Schmerlings,Undirected,1
+Horns,liar,Undirected,1
+Schmerling,grev Horn,Undirected,3
+Grev Schmerling,grev Horn,Undirected,2
+Grev Gyldenhjelm,greve,Undirected,1
+Horn,grev Schmerling,Undirected,2
+Hjelm,Madsen,Undirected,1
+Horn,Sandberg,Undirected,2
+grev Horn,grev Schmerling,Undirected,2
+Horn,livor,Undirected,1
+grev Gyldenhjelm,grev Schmerling,Undirected,1
+Jeppe,greven,Undirected,1
+Grev Horn,grev Gyldenhjelm,Undirected,1
+Grev Horn,grev Schmerling,Undirected,1
+greven,liar,Undirected,1
+Hans excellence,Peter,Undirected,1

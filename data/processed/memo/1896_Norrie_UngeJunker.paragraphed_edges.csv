@@ -1,0 +1,123 @@
+source,target,type,weight
+Elses,Frøken Else,Undirected,1
+Aage Junker,Junker,Undirected,3
+Hr. Junker,Rakel,Undirected,1
+Kruses,Rakel,Undirected,1
+Henriksen,Junker,Undirected,7
+Aage Junker,Kruse,Undirected,1
+Junker,Storegaards,Undirected,2
+Aage Junker,Kusk,Undirected,1
+Junker,Karlen,Undirected,2
+Frøken Schrøder,Kruse,Undirected,1
+Junker,Schrøder,Undirected,8
+Aage Junker,Schrøder,Undirected,1
+Junker,Kruse,Undirected,13
+Junker,Paany,Undirected,1
+Gud,Henriksen,Undirected,1
+Jensen,Junker,Undirected,12
+Frits,Junker,Undirected,2
+Junker,Roes,Undirected,2
+Jensen,Schrøder,Undirected,1
+Jomfru Schrøder,Junker,Undirected,13
+Junker,Lise,Undirected,1
+Junker,Proprietær Kruse,Undirected,2
+Henriksen,Jomfru Schrøder,Undirected,1
+Hr. Junker,Junker,Undirected,1
+Henriksen,Hr. Junker,Undirected,1
+Henriksen,Rakel,Undirected,1
+Junker,Kristine,Undirected,2
+Galimathias,Kristine,Undirected,1
+Galimathias,Junker,Undirected,1
+Junker,fornam,Undirected,1
+Kruse,hans,Undirected,1
+Jomfruens,Junker,Undirected,1
+Marie,Schrøder,Undirected,1
+Maren,Schrøder,Undirected,1
+Kruse,Schrøder,Undirected,2
+Mads Kusk,Mads Kusks,Undirected,1
+Junker,Mads Kusk,Undirected,2
+Junker,Mutter,Undirected,1
+Cora,Junker,Undirected,2
+Cora,Mads Kusk,Undirected,2
+Mads Kusk,Vips,Undirected,1
+Cora,Vips,Undirected,1
+Mads,Mads Kusk,Undirected,1
+Gud,Mads Kusk,Undirected,1
+Junker,Ulriksen,Undirected,41
+Frøken Rakel,Ulriksen,Undirected,1
+Frøken,Junker,Undirected,1
+Marie,Ulriksen,Undirected,2
+Anine,Else,Undirected,6
+Anine,Junker,Undirected,8
+Else,Ulriksen,Undirected,1
+Hr. Røjkjær,Junker,Undirected,2
+Hr. Røjkjær,Jomfru Schrøder,Undirected,1
+Anine,Rakel,Undirected,6
+Junker,Rakel,Undirected,12
+Anine,Gud,Undirected,2
+Else,Marie,Undirected,3
+Anine,Marie,Undirected,2
+Else,Rakel,Undirected,9
+Aage Junker,Jomfru Schrøder,Undirected,1
+Geschichten,Hr. Røjkjær,Undirected,1
+Geschichten,Gud,Undirected,1
+Gud,Røjkjær,Undirected,1
+Junker,Røjkjær,Undirected,21
+Aare,Junker,Undirected,2
+Røjkjær,Toddy,Undirected,1
+Henriksen,Toddy,Undirected,1
+Henriksen,Røjkjær,Undirected,1
+Kruse,Ulriksen,Undirected,2
+Jomfru Schrøder,Ulriksen,Undirected,3
+Kruse,Røjkjær,Undirected,1
+Rakel,Røjkjær,Undirected,1
+Jomfru Schrøder,Rakel,Undirected,1
+Anine,Jomfru Schrøder,Undirected,1
+Jomfru Schrøder,Mads Kusk,Undirected,1
+Kristine,Mads,Undirected,1
+Jomfru Schrøder,Kruse,Undirected,2
+Røjkjær,Ulriksen,Undirected,18
+Claret,Ulriksen,Undirected,1
+Junker,ulriksenske,Undirected,1
+Ulriksen,j,Undirected,1
+Gud,Junker,Undirected,2
+Junker,Ulriksen Prangersjæl,Undirected,1
+Henriksen,Ulriksen,Undirected,1
+Junker,Marie,Undirected,3
+Røjkjær,Ulrik Ulriksen,Undirected,1
+Ulriksen,ber,Undirected,1
+ber,lille Ulriksen,Undirected,1
+Junker,allehaande,Undirected,1
+Ulriksen,allehaande,Undirected,1
+Else,Junker,Undirected,13
+Else,Gud,Undirected,1
+Junker,berøv,Undirected,1
+Graad,Junker,Undirected,1
+Hamstrupgaard,Junker,Undirected,2
+Junker,Principals,Undirected,1
+Else,Principals,Undirected,1
+Mads,Ulriksen,Undirected,1
+Else,Røjkjær,Undirected,2
+Hr. Røjkjær,Røjkjær,Undirected,1
+Aage Junker,Hr. Røjkjær,Undirected,1
+Jæ,Røjkjær,Undirected,1
+Jomfru Schrøder,Røjkjær,Undirected,2
+Schrøder,Ulriksen,Undirected,2
+Huskors,Schrøder,Undirected,1
+Else,Henriksen,Undirected,1
+Marie,Rakel,Undirected,1
+Else,grant,Undirected,1
+Aage Junker,Else,Undirected,2
+Henriksen,Kruse,Undirected,1
+Frøken Knudsen,Rakel,Undirected,1
+Hokuspokus,Junker,Undirected,1
+Elsemo,erl,Undirected,1
+Kruse,Rakel,Undirected,2
+Junker,kaad,Undirected,1
+Else,lians,Undirected,1
+Aage Junker,Rakel,Undirected,1
+Aage Junker,Røjkjær,Undirected,2
+Jomfru Schrøder,Proprietær Kruse,Undirected,1
+Aage Junker,Hanne,Undirected,1
+Aage,Junker,Undirected,1
+Junker,Mathilde,Undirected,1

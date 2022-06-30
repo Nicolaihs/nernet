@@ -1,0 +1,205 @@
+source,target,type,weight
+Anton,Pram,Undirected,4
+Kristoffer,Pram,Undirected,1
+Eine,Randrup,Undirected,1
+Dr. Pram,Kristensen,Undirected,1
+Gud,Pastor Kristensens,Undirected,1
+Karen,Pram,Undirected,7
+Karen,Kristensen,Undirected,3
+Beethoven,Pram,Undirected,1
+Beethoven,Karen,Undirected,1
+Karen,Kristus,Undirected,1
+Apotheker Galle,Pram,Undirected,2
+Bloks,Galle,Undirected,1
+Galle,Gud,Undirected,2
+Lise,Pram,Undirected,1
+Lise,Rousseau,Undirected,1
+Pestalozzi,Rousseau,Undirected,1
+Pestalozzi,Vincent de Beauvais,Undirected,1
+Karen Kl isten,Pram,Undirected,1
+Karen Kl isten,Randrup,Undirected,1
+Gud,Pram,Undirected,6
+Pram,Vridbor,Undirected,1
+Balle,Pram,Undirected,1
+Kristus,OmKristus,Undirected,1
+Anton,Gudheden,Undirected,1
+Anton,Klavs,Undirected,2
+Sidse Lars Jørgens,Trine,Undirected,1
+Gud,Trine,Undirected,1
+Anton Pram,Birte,Undirected,1
+Anton Pram,Klavs,Undirected,4
+Anders Eriksen,Grete,Undirected,1
+Anders,Grete,Undirected,1
+Anders,ilel,Undirected,1
+Birte,Trine,Undirected,2
+Klavs,Søren,Undirected,6
+Søren,k,Undirected,1
+Anton Pram,k,Undirected,1
+Klavs,Trine,Undirected,12
+Anton Pram,Trine,Undirected,1
+Søren Steffensen,Trine,Undirected,2
+Jørgen Blok,Teglgaard,Undirected,1
+Anders Eriksen,Teglgaard,Undirected,2
+Galle,Karen,Undirected,1
+Aloe,Franklin,Undirected,1
+Karen,Trine,Undirected,1
+Birte,Petersen,Undirected,1
+Petersen,Trine,Undirected,1
+Steffensen,Trine,Undirected,9
+Birte,Klavs,Undirected,1
+Klavs,Pram,Undirected,4
+Klavs,Søren Steffensen,Undirected,1
+Gud,Klavs,Undirected,4
+Trine,saattes,Undirected,1
+Klavs betvang,Trine,Undirected,1
+Klavs,Steffensen,Undirected,2
+Grete,Trine,Undirected,1
+Karen Kristensen,Kristoffer,Undirected,1
+Anton Pram,Karen Kristensen,Undirected,1
+Anton Pram,Kristensen,Undirected,1
+Karen,Karen Kristensen,Undirected,2
+Hellers,Karen,Undirected,1
+Hellers,Marv,Undirected,2
+Anton Pram,Hellers,Undirected,1
+Anton Pram,Pram,Undirected,3
+Gud,Lisbets,Undirected,1
+Bertelsen,Frandsens,Undirected,1
+Anton Pram,Kristoffer,Undirected,2
+Galle,Pram,Undirected,1
+Gud,Karen,Undirected,3
+Dronning Dagmar,Kristjan Barnekow,Undirected,1
+Dronning Dagmar,Valdemar Sejer,Undirected,1
+Valdemar Sejer,weiter,Undirected,1
+Luther,Melanchton,Undirected,1
+Anton,Kristi,Undirected,1
+Gud,Kristus,Undirected,2
+Kristus,Voltaires,Undirected,1
+Voltaires,ane,Undirected,1
+ninne Kam,ninne Karn,Undirected,1
+Anders Eriksen,Lise,Undirected,3
+Anders,Anders Eriksen,Undirected,4
+Anders,Lise,Undirected,13
+Anders,vims,Undirected,2
+Anders,itte,Undirected,2
+Pastor,saad,Undirected,1
+Anders,s,Undirected,2
+Per,Per Jensen,Undirected,1
+Jensen,Per,Undirected,1
+Per,Povl,Undirected,1
+Pram,tom,Undirected,1
+Jens Pæsener,Per Jensener,Undirected,1
+Gud,Per Jensener,Undirected,1
+Anders Eriksen,Gud,Undirected,1
+Gud,Madam,Undirected,1
+Liljens,Saron,Undirected,1
+Gud,itte,Undirected,1
+Gud,Lise,Undirected,1
+Anders,Pram,Undirected,1
+Lisbet,Pram,Undirected,1
+Anton,Gud,Undirected,8
+Hr. Blok,Pram,Undirected,1
+Anders Eriksen,Graad,Undirected,1
+Jensen,Jfr. Petersen,Undirected,1
+Gud,Jfr. Petersen,Undirected,1
+Aare,Karl,Undirected,1
+Aare,Pram,Undirected,1
+Adam,grant,Undirected,1
+Karen,grant,Undirected,1
+Karen,Luther,Undirected,1
+Jomfru Marie,Kristensen,Undirected,1
+Jomfru Marie,Voxlys,Undirected,1
+Anton,Kristensen,Undirected,1
+Jesus,Karen,Undirected,1
+Darwins,Kristensen,Undirected,1
+Darwins,Gud,Undirected,1
+Kristus,Wilberforce,Undirected,1
+Gud,Wilberforce,Undirected,1
+Heller,Steffensen,Undirected,1
+Dianas,Steffensen,Undirected,1
+Bloks,Dianas,Undirected,1
+Bloks,Steffensen,Undirected,2
+Rompunsch,Steffensen,Undirected,2
+Nolo,Steffensen,Undirected,1
+.,a,Undirected,6
+Lise,itte,Undirected,1
+Lise,Zion,Undirected,2
+Anders,Zion,Undirected,2
+Lene Hjulmands,Lise,Undirected,1
+enander,itte,Undirected,1
+enander,saad,Undirected,1
+Saad,itte,Undirected,1
+Hektor,Tyras,Undirected,3
+Diana,Rolf,Undirected,1
+Diana,Hektor,Undirected,1
+Anders Eriksen,Pram,Undirected,3
+Kristoffer,Per Jensener,Undirected,1
+Jens Pæsener,Lise,Undirected,1
+Aled,Kristensen,Undirected,1
+Kristoffer,Svend,Undirected,1
+Apotheker Galle,Hr. Galle,Undirected,1
+Galle,Hr. Galle,Undirected,2
+Kapellan Jensen,Pram,Undirected,1
+Anton,Kapellan Jensen,Undirected,1
+Hagen,Lise,Undirected,1
+Josef Smiths,Randrup,Undirected,1
+Josef Smiths,Mormons,Undirected,1
+Frands,Karl,Undirected,1
+Frands,Pram,Undirected,1
+Pram,Stegers,Undirected,1
+Gud,Luther,Undirected,1
+Gud,Kristensen,Undirected,1
+Karl,Pram,Undirected,3
+Anton Pram,Karl,Undirected,1
+Anton Pram,Gud,Undirected,1
+Anders Jepsen,Steffensen,Undirected,2
+Anders Jepsen,Søren Sørensen,Undirected,1
+Anders Jepsen,Hr. Blok,Undirected,1
+Anders Jepsen,vos,Undirected,1
+alstillens,vos,Undirected,1
+Niels Jyde,alstillens,Undirected,1
+Piasava,Søren Steffensen,Undirected,1
+Søren,Trine,Undirected,1
+Anders Jepsen,Anton,Undirected,1
+Hans,Trine,Undirected,1
+Galle,Stine,Undirected,1
+-,Galle,Undirected,1
+Bine,Galle,Undirected,1
+Bine,Teglgaard,Undirected,1
+Ane Per Sørens,Teglgaard,Undirected,1
+Ane Per Sørens,Gud,Undirected,1
+Ane Per Sørens,Pram,Undirected,1
+Ane Per Sørens,Møllerens,Undirected,1
+Anton Pram,Bloks,Undirected,1
+Anders Jepsen,Bloks,Undirected,1
+Hr. Steffensen,Polly,Undirected,1
+Bine,Polly,Undirected,1
+Pram,vos,Undirected,1
+Randrup,vos,Undirected,1
+Anton Pram,Randrup,Undirected,1
+Gud,Jesus Kristus,Undirected,1
+Pram,Trine,Undirected,2
+Trine,kjære Steffensen,Undirected,1
+Anders Eriksen,Steffensen,Undirected,1
+Anders Jepsen,Frandsen,Undirected,1
+Anders Jepsen,Niels Jespersen,Undirected,1
+Steffensen,f ru Galle,Undirected,1
+Trine,j,Undirected,1
+Steffensen,j,Undirected,1
+Ane Per Sørens,Trine,Undirected,1
+Gud,Steffensen,Undirected,1
+Pram,Steffensen,Undirected,1
+Gud,Jørgen,Undirected,1
+Hr. Blok,Klavs,Undirected,1
+Benrad,Trine,Undirected,1
+Benrad,Klavs,Undirected,1
+Hans Olsen,h,Undirected,1
+Kirsten,Klavs,Undirected,1
+Bloks,Klavs,Undirected,1
+Kirsten,Pram,Undirected,1
+Anders Eriksen,Blok,Undirected,1
+Anders,Blok,Undirected,4
+Blok,Pram,Undirected,3
+Blok,Proprietær Frandsens,Undirected,1
+Blok,Klavs,Undirected,1
+Anders,Klavs,Undirected,2
+Lise,s,Undirected,1

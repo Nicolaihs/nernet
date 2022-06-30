@@ -1,0 +1,103 @@
+source,target,type,weight
+Maren,Rasmus,Undirected,1
+Andersen,Dahlberg,Undirected,33
+Dablberg,Ornat,Undirected,1
+Gud,Trolle,Undirected,3
+Frits Dahlberg,v. Trolle,Undirected,1
+Dahlberg,Gud,Undirected,27
+Andersen,Gud,Undirected,10
+Dahlberg,lian,Undirected,2
+Frøken Trolle,Gud,Undirected,1
+Gud,Rosa,Undirected,4
+Gud,ellige,Undirected,1
+Dahlberg,Rosa,Undirected,2
+Dahlberg,Maries,Undirected,3
+Hansens,Maries,Undirected,3
+Dahlberg,Hansens,Undirected,1
+Gud,Jesus,Undirected,1
+Marie,Rosa,Undirected,1
+Andersen,Dahibergs,Undirected,1
+Dahlberg,Rørholm,Undirected,2
+Dahlberg,kjære Rørholm,Undirected,1
+Gud,Rørholm,Undirected,1
+Gud,kjære Dahlberg,Undirected,2
+Dahlberg,kjære Provst Sørensen,Undirected,1
+Holm,Kellner,Undirected,1
+Dahlberg,Holm,Undirected,17
+Astrid Pienge,Karen,Undirected,1
+Dahlberg,Karen Holm,Undirected,1
+Holm,Karen,Undirected,15
+Dahlberg,Karen,Undirected,15
+Astrid,Dahlberg,Undirected,42
+Frits Dahlberg,Gud,Undirected,1
+Astrid,Karen,Undirected,26
+Astrid,Marie,Undirected,14
+Astrid,Gud,Undirected,4
+Gud,Hr. Dahlberg,Undirected,2
+Astrid,Hr. Dahlberg,Undirected,1
+Astrid,Holm,Undirected,8
+Galimathias,Marie,Undirected,1
+Droschker,Holm,Undirected,2
+Dahlberg,Hr. Dahlberg,Undirected,3
+Astrid,Fjeldenes,Undirected,1
+Astrid,Nielsen,Undirected,1
+Andersen,Nielsen,Undirected,1
+Dahlberg,Marie,Undirected,4
+Elisabeth,Marie,Undirected,4
+Elisabeth,Jesus,Undirected,1
+Dahlberg,Elisabeth,Undirected,1
+Hansen,Holm,Undirected,1
+Hr. Hansen,Karen,Undirected,1
+Dahlberg,Hr. Hansen,Undirected,2
+Holm,Hr. Hansen,Undirected,1
+Astrid,Hansen,Undirected,1
+Astrid,dei,Undirected,1
+Dahlberg,Vorm,Undirected,14
+Holm,Vorm,Undirected,4
+Astrid,Vorm,Undirected,21
+Astrid,Frøken Pienge,Undirected,3
+Frøken Pienge,Holm,Undirected,1
+Frøken Pienge,Pienge,Undirected,1
+Karen,Vorm,Undirected,2
+Croquet,Dahlberg,Undirected,1
+Croquet,Karen,Undirected,1
+Astrid,Dalberg,Undirected,1
+Elven,Holm,Undirected,1
+Gud,Karen,Undirected,1
+Astrid,Peter,Undirected,1
+Dahlberg,Hr. Vorms,Undirected,1
+Bravo,Karen,Undirected,1
+Dahlberg,Laban,Undirected,1
+Astrid,Fossen,Undirected,1
+Wenn jemand,dann,Undirected,1
+Dahlberg,Madam Andersen,Undirected,1
+Efeuen,Marie,Undirected,1
+Efeuen,Marie Hansen,Undirected,1
+Astrid,Marie Hansen,Undirected,1
+Dahlberg,Schawlet,Undirected,1
+Dahlberg,Judas,Undirected,2
+Dahlberg,Dj æ,Undirected,1
+Gud,Judas,Undirected,1
+Dahlberg,Jesus,Undirected,2
+Dahlberg,vos,Undirected,1
+Gud,véd,Undirected,1
+Dahlberg,véd,Undirected,1
+Kapellan Jensen,t,Undirected,1
+Jesus,Paulus,Undirected,1
+Gud,Paulus,Undirected,1
+Gud,Vilie,Undirected,1
+Andersen,Johnsen,Undirected,1
+Andersen,Peter,Undirected,1
+-Dahlberg,Carlsen,Undirected,1
+Dahlberg,Ingeborgs,Undirected,1
+Aastrups,Herre Zebaoth,Undirected,1
+Ingeborg,Marie,Undirected,1
+Dahlberg,Ingeborg,Undirected,1
+Holm,Paulus,Undirected,1
+Paulus,Peter,Undirected,2
+Dahlberg,Peter,Undirected,1
+Dahlberg,Nikodemus,Undirected,1
+Gud,Moders,Undirected,2
+Gud,Kristensen,Undirected,1
+Gud,lille Astrid,Undirected,1
+Dahlberg,Hs,Undirected,1

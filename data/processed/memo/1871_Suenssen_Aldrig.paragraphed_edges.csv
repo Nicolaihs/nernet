@@ -1,0 +1,252 @@
+source,target,type,weight
+Hnn,Sofie,Undirected,2
+Mille,Thora,Undirected,18
+Jomfru Sofie,faus,Undirected,1
+Liv,Sofie,Undirected,1
+Gud,Sofie,Undirected,4
+Caroline,Gud,Undirected,2
+Caroline,Sofie,Undirected,6
+Caroline,Mille,Undirected,1
+Caroline,Thora,Undirected,3
+Caroline,Madame Rasf,Undirected,1
+Sofie,Thora,Undirected,7
+Kisfen,Sofie,Undirected,1
+Sofie,Tulinius,Undirected,1
+Carl Otto Emil,Sofie,Undirected,2
+Borgen,Capitain Gregersen,Undirected,1
+Lientenanten,Sofie,Undirected,1
+Gregersen,Sofie,Undirected,15
+Gregersen,Lientenanten,Undirected,1
+Lieutenanten,Thora,Undirected,1
+Mille,Sofie,Undirected,3
+Tante Mille,Thora,Undirected,4
+Sofie,Tante Mille,Undirected,2
+Linnedet,Tante Mille,Undirected,1
+Caroline,Linnedet,Undirected,1
+Gregersen,Sofiss,Undirected,1
+Gregersen,hnn,Undirected,1
+Caroline,Tante Sofies,Undirected,1
+Blousen,Gregersen,Undirected,1
+Blousen,Mille,Undirected,1
+Carl Otto Emil,Mille,Undirected,1
+Napoleon,Sofie,Undirected,1
+Gregersen,Peter Mikkelsen,Undirected,1
+Napoleon,Peter Mikkelsen,Undirected,1
+Lieutenanten,Sofie,Undirected,1
+Sofie,Tante Sofie,Undirected,1
+Gregersen,Thora,Undirected,3
+Gregersen,Gud,Undirected,1
+Gud,elffe,Undirected,1
+Gregersen,elffe,Undirected,1
+Caroline,Nik,Undirected,1
+Gregersen,Nik,Undirected,1
+Dilatus,Pilatus,Undirected,1
+Pilatus,feg,Undirected,1
+Jokum Larsen,Pram,Undirected,1
+Oluf Polter,Sofie,Undirected,1
+Mille,Tante Sofie,Undirected,1
+Caroline,Jomfrn Sofie,Undirected,1
+Jomfrn,Sofie,Undirected,1
+Caroline,Oluf,Undirected,3
+Caroline,Oluf slod,Undirected,1
+Gregersen,Oluf,Undirected,6
+Gregersen,Olaf,Undirected,1
+Karl,Ulan,Undirected,1
+Constantia,fro,Undirected,1
+Caroline,Petersillie,Undirected,1
+Mille,Petersillie,Undirected,1
+Gregersen,Mille,Undirected,4
+Oluf,Sofie,Undirected,2
+Oluf,floges,Undirected,1
+Lærke,Minervas,Undirected,2
+Dn,Minervas,Undirected,1
+Oluf,Thora,Undirected,2
+Caroline,Gregersen,Undirected,1
+Caroline,Mian,Undirected,1
+Mian,mian,Undirected,1
+Klaus,mian,Undirected,1
+Pilatus,Sofie,Undirected,2
+Mille,Tante Mille,Undirected,1
+Caroline,Mis,Undirected,1
+Gud,Karen,Undirected,3
+Karen,hnn,Undirected,1
+Caroline,Trine,Undirected,1
+Søren,ivare,Undirected,1
+Karen,Trine,Undirected,1
+Caroline,Sofiie,Undirected,1
+Caroline,Jomfru Sofie,Undirected,1
+Caroline,Karen,Undirected,5
+Gutten,Sofie,Undirected,1
+Gud,Gutten,Undirected,1
+Sofie,skjelmsk,Undirected,1
+Gud,Mille,Undirected,1
+Gregersen,lee,Undirected,1
+Borgaard,Oluf,Undirected,2
+Gregersen,reise,Undirected,1
+Carl,Gregersen,Undirected,1
+Carl,Sofie,Undirected,2
+Gregersen,Tante Sofie,Undirected,1
+Carl,Gud,Undirected,2
+Gregersen,Jomfru Sofie,Undirected,1
+Polter,Tulinius,Undirected,1
+Pidsk,Poul,Undirected,1
+Oluf,Pidsk,Undirected,1
+MenZtil,Oluf,Undirected,1
+Gøthe,Schiller,Undirected,1
+Helms,Oluf,Undirected,4
+Oluf,Tnlinius,Undirected,1
+Polter,Tnlinius,Undirected,1
+Polter,Øe,Undirected,1
+Oluf,Richard Løvehjerte,Undirected,1
+Oluf,Tanshed,Undirected,2
+Harbo,Kapitain Rothe,Undirected,1
+Karl,Oluf,Undirected,1
+Fru Bordgaards,Nordan,Undirected,1
+Adam,Eva,Undirected,14
+Eva,Gud,Undirected,1
+Hr. Studiosus,hnn,Undirected,1
+Adam,lene,Undirected,1
+Bordgaard,Lars,Undirected,1
+Bordgaard,Nordan,Undirected,1
+Oluf,villielos,Undirected,1
+Lee,lee,Undirected,1
+Ellegaard,Jøses,Undirected,1
+Ellegaard,Isses,Undirected,1
+Gud,Oluf,Undirected,5
+Ellegaard,Oluf,Undirected,1
+Lotte,Tulinius,Undirected,1
+Oluf,Tulinius,Undirected,2
+Emilie,Oluf,Undirected,1
+Emilie,Lotte,Undirected,2
+Emilie,Frøken Nordan,Undirected,2
+Frøken Nordan,Olus,Undirected,2
+Oluf,hnn,Undirected,1
+Frøken Nordan,Oluf,Undirected,11
+Frøken Nordan,Tulinius,Undirected,2
+Frøken Nordan,Proprietair Bordgaard,Undirected,1
+Mama,Papa,Undirected,2
+Ellegaard,Lotte,Undirected,2
+Lotte,Steen,Undirected,1
+Amalie,Frøken Sofie,Undirected,1
+Amalie,Oluf,Undirected,8
+Amalie,Sofie,Undirected,1
+Mutter,Tulinius,Undirected,1
+Gud,Tulinius,Undirected,3
+Amalie,kqm Oluf,Undirected,1
+Carl Ofto,Emil,Undirected,1
+Emil,Lotte,Undirected,1
+Skovstrup,uu,Undirected,1
+Oluf,uu,Undirected,1
+Dands,froer,Undirected,1
+Dands,dandse,Undirected,1
+Frøken Nordan,Frøken Sofie,Undirected,1
+Frøken Nordan,Gud,Undirected,1
+Thora,as,Undirected,1
+Caroline,Jesus,Undirected,1
+Carl Otto Emil,Caroline,Undirected,2
+Carl Otto Emil,lin g,Undirected,1
+Carl,Oluf,Undirected,2
+Oluf,vexler,Undirected,1
+Gregersen,Mathiesen,Undirected,1
+Eva,Lars Mathiesen,Undirected,1
+Sofie,khdfl,Undirected,1
+Gud,Jomfru Sofie,Undirected,1
+Jomfru Sofie,rasf,Undirected,1
+Mille,rasf,Undirected,1
+Gud,felv,Undirected,1
+Mille,as,Undirected,1
+Holst,Oluf Polier,Undirected,1
+Gyldenkrone,Holst,Undirected,1
+Baron Gyldenkrone,Holst,Undirected,1
+Carl,froe,Undirected,1
+Tizian,iland,Undirected,1
+S. Maria Gloriosa ai Frari,Tizian,Undirected,1
+S. Maria Gloriosa ai Frari,Vasari,Undirected,1
+Kunsfen,Vasari,Undirected,1
+Kunsfen,Tizian,Undirected,1
+Tizian,elsiede,Undirected,2
+Keiser,Tizian,Undirected,1
+Ferdinand opreist,Keiser,Undirected,1
+Nordan,Skovstrup,Undirected,1
+Gyldenkrone,Skovstrup,Undirected,1
+Holst,Nordan,Undirected,1
+Karen,Oluf,Undirected,4
+Oluf,Skovstrup,Undirected,8
+Oluf,Roes,Undirected,1
+Karen,Roes,Undirected,1
+Nordan,Oluf,Undirected,1
+Nordan,Romeos,Undirected,1
+Julies,Romeos,Undirected,1
+Elsfendes,Julies,Undirected,1
+Gyldenkrone,Papa,Undirected,1
+Eva,Mblet,Undirected,1
+Eva,Papa,Undirected,1
+Eva,spiist,Undirected,1
+Adam,spiist,Undirected,1
+Adam,Frøken Nordan,Undirected,2
+Eva,Frøken Nordan,Undirected,1
+Adamers,Frøken Nordan,Undirected,1
+Adamers,Eva,Undirected,1
+Frøken Nordan,Frøken Nvrdans,Undirected,1
+Eva,Frøken Nvrdans,Undirected,1
+Alexander,Kjønnets,Undirected,1
+Alexander,Darms,Undirected,1
+Darms,Homers,Undirected,1
+Frøken Nordan,Seir,Undirected,1
+Dagmar,Papa,Undirected,1
+Dagmar,Valdemars,Undirected,1
+Margrethe,Valdemars,Undirected,1
+Dagmar,Margrethe,Undirected,2
+Margrethe,Valdemar,Undirected,1
+Eva,Karen,Undirected,1
+Frøken Nordan,Skovstrup,Undirected,1
+Eva,Karen Nordan,Undirected,1
+Arles,Oluf,Undirected,2
+,Frøken H.,Undirected,1
+,Frøken D.,Undirected,2
+Hr. Holst,Uveir,Undirected,1
+Frøken Karen,Holst,Undirected,1
+Alfarvei,Holst,Undirected,1
+Oluf,Oluf maalte,Undirected,1
+Lars Mathiesen,Tulinius,Undirected,1
+Asten,Polier,Undirected,1
+Skovstrup,Tulinius,Undirected,2
+Polier,Tulinius,Undirected,1
+Polier,son,Undirected,1
+Baron,dtall,Undirected,1
+Tulinius,dtall,Undirected,1
+Holst,Skovsfrup,Undirected,1
+Inglingens,Oluf,Undirected,1
+Carl,Høsfen,Undirected,1
+Oluf,felv,Undirected,1
+Ieg,Tulinius,Undirected,1
+Oluf,Oluf Polter,Undirected,1
+Oluf,Oluf Polier,Undirected,1
+Gud,Olnf,Undirected,1
+Gyldenkrone,Polter,Undirected,1
+Baron Polter,Polter,Undirected,1
+Baron Gyldenkrone,Baron Polter,Undirected,1
+Piquet,Skovstrup,Undirected,1
+Karen Nordan,Oluf,Undirected,1
+Frøken H.,Tildeels,Undirected,1
+Karen,beile,Undirected,1
+Karen,lee,Undirected,1
+Byron,Rousseaus,Undirected,1
+Kaarde,maalløs,Undirected,1
+Oluf Kammerherren,Oluf den,Undirected,1
+Anker,Carl,Undirected,1
+Catinka,Karen,Undirected,1
+Gud,Tante Catinkas,Undirected,1
+Gens,Nordan,Undirected,1
+Gens,Oluf,Undirected,1
+Levvel,Oluf,Undirected,1
+Mille,Oluf,Undirected,1
+Catinka,Gregersen,Undirected,1
+Gud,Thorsen,Undirected,1
+Gregersen,Thorsen,Undirected,1
+Tante Sofie,Thora,Undirected,1
+Sofie,hnn,Undirected,1
+Asten,Oluf,Undirected,1
+Frøken Nordan,Gregersen,Undirected,1
+Sofie,hans,Undirected,1
+Kapitainen,Mille,Undirected,1

@@ -1,0 +1,176 @@
+source,target,type,weight
+Ferdinand Holst,Georg Schirm,Undirected,1
+Ferdinand Holst,Hr. Piefke,Undirected,1
+Holst,Maane,Undirected,1
+Piefke,Schirm,Undirected,3
+Holst,Schirm,Undirected,6
+Holst,Piefke,Undirected,4
+Dass,Piefke,Undirected,1
+Janson,Piefke,Undirected,1
+Guten,Schirm,Undirected,1
+Guten,Holst,Undirected,1
+Di,Holst,Undirected,5
+Janson,Meyer,Undirected,3
+Holst,Jassaa,Undirected,1
+Hansen,Meyer,Undirected,1
+Mark,Meyer,Undirected,1
+Di,Meyer,Undirected,1
+Holst,lian,Undirected,1
+Eru Engli,Frk Lehmann,Undirected,1
+Frk Lehmann,saamye,Undirected,1
+Holst,saamye,Undirected,1
+Di,Don Juan,Undirected,1
+Di,Ragnhild Olsen,Undirected,2
+Di,Kullak,Undirected,1
+Holst,Kullak,Undirected,1
+Kullak,liun,Undirected,1
+Johan Sverdrup,liun,Undirected,1
+Di,Wagner,Undirected,1
+Di,Ragnhild,Undirected,1
+Holst,Ragnhild,Undirected,1
+Jansen,lian,Undirected,1
+Jansen,Wagner,Undirected,1
+Piefke,Skakke,Undirected,1
+Holst,Janson,Undirected,4
+Willst,oder willst,Undirected,1
+Schirm,oder willst,Undirected,1
+Bravo,Holst,Undirected,1
+Janson,eii,Undirected,2
+Holst,Meyer,Undirected,1
+Frøken Lehmann,Hansen,Undirected,1
+Frøken Svendsen,Hansen,Undirected,1
+Frk. Olsen,Holst,Undirected,1
+A. v. Werners,Holst,Undirected,1
+Janson,Odd,Undirected,1
+Odd,Thora,Undirected,9
+Broch,Thora,Undirected,1
+Holst,Reischmark,Undirected,1
+Janson,Thora,Undirected,2
+Gleich,Mir auch eine von demselben,Undirected,1
+Meyer,Mir auch eine von demselben,Undirected,1
+Gleich,Meyer,Undirected,1
+Di,Gud,Undirected,2
+Skaal,Thora,Undirected,1
+Emilie,Skaal,Undirected,1
+Gud,Janson,Undirected,1
+Emilie,Thora,Undirected,2
+Emilie,Hr. Holst,Undirected,1
+Gud,tordned Hansen,Undirected,1
+Holst,Thora,Undirected,1
+Holst,Odd,Undirected,10
+Holst,Skaal Holst,Undirected,2
+Di,Odd,Undirected,5
+Gud,Thora,Undirected,3
+Di,Frøken Bull,Undirected,1
+Naaja,Thora,Undirected,1
+Ragnhild,Thora,Undirected,10
+Gud,Holst,Undirected,1
+Bauer,Meyer,Undirected,1
+Ragnhild hat Hodepine,Thora,Undirected,1
+Meyer,Odd,Undirected,2
+Fasting,Meyer,Undirected,1
+Braadden,Thora,Undirected,1
+Permen,Ragnhild,Undirected,1
+Thora,lille,Undirected,1
+Ragnhild,lille,Undirected,1
+Holst,liun,Undirected,1
+liam,liun,Undirected,2
+Ragnhild,søte,Undirected,1
+Bo Reischmark,Holst,Undirected,1
+Holst,ropte Odd,Undirected,1
+Odd,Schirm,Undirected,3
+Graaveir,Jasaa,Undirected,1
+Hr. Schirm,Schirm schreibe,Undirected,1
+Frederik den Store,Holst,Undirected,1
+Bismark,Frederik den Store,Undirected,1
+Odd,lian,Undirected,1
+Hansen,Langberg,Undirected,1
+Fasting,Langberg,Undirected,1
+Fasting,Frederiksen,Undirected,1
+Hansen,Hr. Hansen,Undirected,1
+Hansen,skraa,Undirected,1
+Johan B. Lysholm,skraa,Undirected,1
+Jenta,livor,Undirected,1
+Hansen,sa,Undirected,1
+Odd,finds,Undirected,1
+Hr. Holst,Meyer,Undirected,1
+Odd,niaafaa,Undirected,1
+Halfvan,Meier,Undirected,1
+Don Juanen,Holst,Undirected,1
+Di,Jassaa,Undirected,1
+Di,Hansen,Undirected,2
+Meyer,Tersen,Undirected,1
+Meyer,lian,Undirected,1
+Hansen,lian,Undirected,1
+Hansen,Odd,Undirected,1
+Hennesy,Odd,Undirected,1
+Johan Sverdrup,Odd,Undirected,1
+Johan Sverdrup,Meyer,Undirected,1
+Odd,Smith,Undirected,1
+Johan Svendsen,Smith,Undirected,1
+Johan Svendsen,Selmer,Undirected,1
+Haarklou,Selmer,Undirected,1
+Ragnhild,slig,Undirected,1
+Di,Thora,Undirected,1
+Odd,Ragnhild,Undirected,2
+Fru Engh,Gud,Undirected,1
+Bauer,Schirm,Undirected,2
+Thora,lian,Undirected,1
+Di,Ragnhild ossaa,Undirected,1
+Odd,Steglitzerstrasse,Undirected,1
+Odd marscherte,Schirm,Undirected,1
+lian,tine,Undirected,1
+Schnepfen,tine,Undirected,1
+A. v. Werners,Odd,Undirected,1
+Ibsen,Kong Oscar,Undirected,1
+Kellner,Zahlen,Undirected,1
+Zahlen,liam,Undirected,1
+Far,liam,Undirected,1
+Frk. Olsen,lian,Undirected,1
+liam,lian,Undirected,2
+A. v. Werner,Bauer,Undirected,1
+Holst,vexle,Undirected,2
+Ragnhild,Selmer,Undirected,1
+Ragnhild,lier,Undirected,1
+Aled,Holst,Undirected,1
+Hrr,Janson,Undirected,1
+Janson,dachte ich mich gleich,Undirected,1
+Achhenjeh,Warum,Undirected,1
+Warum,jethan,Undirected,1
+Liebe,Unjlüchliche,Undirected,1
+Jestern,kain,Undirected,1
+kain,sah janz,Undirected,1
+Herrn Holst,Hysss,Undirected,1
+Hr. Piefke,krieg,Undirected,1
+Hr. Piefke,svarte,Undirected,1
+Doren,Piefke,Undirected,1
+Doren,horte,Undirected,1
+Odd ramled,horte,Undirected,1
+Odd,ropte,Undirected,2
+Schirm,krisle,Undirected,2
+Platz,Schirm,Undirected,1
+gethan,möglichstes,Undirected,1
+Flos,Noenting,Undirected,1
+Flos,Ragnhild,Undirected,1
+Hagnhild,Odd,Undirected,1
+Dass,Odd,Undirected,1
+Elsa,Lohengrin,Undirected,2
+Alon,Elsa,Undirected,1
+Piefke,wahr,Undirected,1
+Augenblick,damit,Undirected,1
+Odd,Piefke,Undirected,2
+Piefke,malte,Undirected,1
+Odd,malte,Undirected,1
+Schirm,liam,Undirected,1
+Alen Donnerwetter,Piefke,Undirected,1
+Alan,Holst,Undirected,1
+Alan,livis lian,Undirected,1
+Gud,snille,Undirected,1
+Lille Frk. Halm,liam,Undirected,1
+Adelaide,dürfen,Undirected,1
+Reichsmark,eine ausgezeichnete,Undirected,1
+Reichsmark,mille,Undirected,1
+viel,wie,Undirected,1
+Frk. Hahns,Reichsmark,Undirected,2
+Holst,liam,Undirected,1
+Alon Janson,lian,Undirected,1

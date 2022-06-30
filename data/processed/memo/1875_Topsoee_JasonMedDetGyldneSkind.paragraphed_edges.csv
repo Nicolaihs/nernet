@@ -1,0 +1,125 @@
+source,target,type,weight
+Charles Levers,Jason,Undirected,1
+Mademoiselle,Monsieur Caillou,Undirected,1
+Caillou,Mademoiselle,Undirected,1
+Caillou,Krebs,Undirected,1
+Caillou,as,Undirected,2
+Caillou,Mr. Caillou,Undirected,1
+Mr. Caillou,Søshge,Undirected,1
+Anton Hasting,Mademoiselle,Undirected,1
+Hasting,Mademoiselle,Undirected,3
+Anton Hasting,Hasting,Undirected,2
+Hasting,Mademviselles,Undirected,1
+Mr. Hasting,eu,Undirected,1
+Mademoiselle,eu,Undirected,1
+Mademoiselle,Mr. Hafting,Undirected,1
+Mademoiselle,Mr. Caillou,Undirected,1
+Mr. Caillou,Stewarten,Undirected,1
+Caillou,Stewarten,Undirected,1
+Caillou,Jason med,Undirected,1
+K le,ys,Undirected,1
+L,ys,Undirected,1
+L,an,Undirected,1
+an,nn,Undirected,1
+Caillou,nn,Undirected,1
+Graad,as,Undirected,1
+Monsieur Caillou,as,Undirected,1
+Caillou,Hasting,Undirected,2
+Hasting,ester,Undirected,2
+Hasting,Papa,Undirected,2
+Mr. Caillou,l London,Undirected,1
+Jason,l London,Undirected,1
+Anton Hasling,Bente,Undirected,1
+Bernhard,Hasting,Undirected,21
+Bernhard Anton,Hasting,Undirected,1
+Bernhard,Bernhard Anton,Undirected,1
+Bernhard,ester,Undirected,1
+Bernhard,Jason,Undirected,1
+Bernhard,Dir,Undirected,1
+Bernhard,Ida,Undirected,40
+Hasfing,sordi,Undirected,1
+Bernhard,Nette,Undirected,1
+Bernhard,as,Undirected,1
+Ida,Schumanns,Undirected,2
+Ida,torrc,Undirected,1
+Hafting,hnn,Undirected,1
+Hasting,Ida,Undirected,36
+Bernhard,Deur,Undirected,1
+Jason,itz,Undirected,1
+Bernhard,sælles,Undirected,1
+Frøken Rønnov,høs,Undirected,1
+Ida,høs,Undirected,3
+Døttre,høs,Undirected,1
+Bernhard,Felix,Undirected,10
+Felix,Ida,Undirected,8
+Bernhard,Pjanket,Undirected,1
+Hasting,Pjanket,Undirected,1
+Hasting,fro,Undirected,1
+Frøken Ronnov,Hasting,Undirected,3
+Aare,Bernhard,Undirected,1
+Aare,Felix,Undirected,1
+Anton Hasting,Bernhard,Undirected,2
+Frøken Rønnov,Ida,Undirected,2
+Felix,Hasting,Undirected,16
+Felix,Hasfing,Undirected,5
+Froken Rønnov,Ida,Undirected,2
+Garibaldi,Jason,Undirected,1
+Anton Hasting,Ida,Undirected,1
+Plutokrati,Stemann,Undirected,1
+Orsted,Stemann,Undirected,1
+Guds,Orsted,Undirected,1
+Hafting,felv,Undirected,1
+Ida,felv,Undirected,1
+Bernhard,Kraff,Undirected,1
+Asdod,Hasting,Undirected,1
+Jensen,Petersen,Undirected,1
+Frøken Caillou,Ida,Undirected,2
+Hastmg,Mademoiselle,Undirected,1
+Elsfovens,Ida,Undirected,1
+Hasting,Mademoiselle Caillou,Undirected,2
+Efferat,Hasting,Undirected,1
+Hasfing,Ida,Undirected,3
+Bernhard fojede,Ida,Undirected,1
+Ida,Jason,Undirected,1
+Hasting,Orene,Undirected,1
+Ida,hnn,Undirected,1
+Hasting,hnn,Undirected,2
+Ida,vife,Undirected,1
+Hasting,vife,Undirected,1
+Ida,hige,Undirected,1
+Bernhard,Hasling,Undirected,1
+Hasting,neppe Bernhard,Undirected,1
+Ida,fom,Undirected,1
+Ida,def,Undirected,1
+Bernhard,Ieg,Undirected,1
+Ida,Ieg,Undirected,1
+Ida,bun,Undirected,1
+Ida,tans,Undirected,1
+,Felix,Undirected,11
+Hasting,Ida —,Undirected,1
+Hasting,taus,Undirected,1
+Hasting,Lord,Undirected,1
+Frederik den Femte,Kristian den Sjette,Undirected,1
+Hasting,Rhinskvin,Undirected,1
+Baron Brunnow,Jarnac,Undirected,1
+Baron Brunnow,Bunsen,Undirected,1
+Bunsen,Mr. Cowper,Undirected,1
+Mr. Anson,Mr. Cowper,Undirected,1
+Frøken Rønnøv,Hasting,Undirected,1
+Frøken Rønnov,Hasting,Undirected,5
+Hasling,Ida,Undirected,1
+Ida,taug,Undirected,2
+,Bernhard,Undirected,1
+Greven,Hasting,Undirected,4
+Hasting,Patriot,Undirected,1
+Frøken Rønnov,Greven,Undirected,2
+Karl,Karlen,Undirected,1
+Hasting,Hasting taug,Undirected,1
+Hasting,taust,Undirected,2
+Hasting,tom,Undirected,1
+Faust,Greven,Undirected,1
+Hasting,fil,Undirected,1
+Amanuensis,Hasting,Undirected,2
+Frøken-,Rønnov,Undirected,1
+Rønnov,næsfen,Undirected,1
+David,Samson,Undirected,1

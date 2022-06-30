@@ -1,0 +1,69 @@
+source,target,type,weight
+Per Sidenius,Philip Salomon,Undirected,1
+Jakobe,Philip Salomon,Undirected,2
+Jakobe,Pers,Undirected,1
+Kenn,Zimmermann,Undirected,1
+Ein dekorirter,Hr. Zimmermann,Undirected,1
+Ein dekorirter,Tableau,Undirected,1
+Malheur,Tableau,Undirected,1
+Guds,Jesus,Undirected,1
+. a.,Nathan,Undirected,1
+. a.,Gud,Undirected,1
+Dr. Nathans,Nathan,Undirected,1
+Dr. Nathans,Evropa,Undirected,1
+Fritjof,Jeremiade,Undirected,1
+Aron Israel,Pfefferkorn,Undirected,2
+Gud,Nathan,Undirected,1
+Freitag,Pfefferkorn,Undirected,1
+Freitag,Pedanten Sandrup,Undirected,1
+Jakobe,Per,Undirected,33
+Jakobe,Sidenius,Undirected,1
+Jakobe,Nanny,Undirected,2
+Per,hiin,Undirected,1
+J,Per,Undirected,1
+Ivan,Per,Undirected,2
+Fritjof,Per,Undirected,2
+Jakobe,Pfefferkorn,Undirected,1
+Aron Israel,Ivan,Undirected,1
+Ivan,Jakobe,Undirected,3
+Goethe,Per,Undirected,1
+Byron,Goethe,Undirected,1
+Byron,Heine,Undirected,1
+Heine,Nathan,Undirected,1
+Nathan,Niels Lyhne,Undirected,1
+Niels Lyhne,Per,Undirected,1
+Per,Philip Salomon,Undirected,1
+Fritjof,Philip Salomon,Undirected,1
+Heinrichs,v. Adlersborg,Undirected,1
+Jakobe,von Adlersborg,Undirected,1
+Eberhardt,Jakobe,Undirected,3
+Baadbygger Jensens,Per,Undirected,1
+Baadbygger Jensens,Eberhardt,Undirected,1
+Eberhardt,Nyboders,Undirected,1
+Eberhardt,Per,Undirected,6
+Asmussen,Eberhardt,Undirected,1
+Hjerting,Siebenhausen,Undirected,1
+Fa,Signe,Undirected,1
+Per,Signe,Undirected,3
+Jakobe,Thomas,Undirected,1
+Ingrid,Thomas,Undirected,3
+Signe,betee k,Undirected,1
+Gud,Signe,Undirected,1
+Eberhardt,Kres,Undirected,1
+Eberhardt,Gud,Undirected,1
+Eberhardt,Thomas,Undirected,1
+Signe,Thomas,Undirected,1
+Per,Sidenius,Undirected,1
+Evropa,Jakobe,Undirected,2
+Per,Thomas,Undirected,4
+Bedstefader,Gud,Undirected,1
+Faders,Gud,Undirected,1
+Jakobe,Nathan,Undirected,1
+Ivan,Philip Salomon,Undirected,1
+Ivan,Nanny,Undirected,1
+Eybert,Jakobe,Undirected,1
+Per,Trine,Undirected,2
+Frau Babi,Per,Undirected,1
+Jakobe,doa,Undirected,1
+Klara Hertz,Per,Undirected,1
+Ivan,Klara Hertz,Undirected,1

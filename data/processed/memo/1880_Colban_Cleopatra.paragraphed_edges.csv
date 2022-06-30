@@ -1,0 +1,199 @@
+source,target,type,weight
+Penelope,Ulysses,Undirected,1
+Troja,Ulysses,Undirected,1
+Michel Angelos,Raphaels,Undirected,1
+Christus,Louis Philips,Undirected,1
+Beaufremont,Gaston,Undirected,1
+Gaston,Theodorichs,Undirected,1
+Cecilia Metella,Theodorichs,Undirected,1
+Nero,Romers,Undirected,1
+Vive la liberta,care figlia mia,Undirected,1
+Vive la liberta,non e vero mio cavo,Undirected,1
+Cesare,non e vero mio cavo,Undirected,1
+Cesare,Pif,Undirected,1
+Paf,Pif,Undirected,1
+Paf,Sibylla,Undirected,1
+Sibylla,madre,Undirected,3
+Cesare,madre,Undirected,2
+Cesare,Sibylla,Undirected,7
+Cesare,Guds,Undirected,1
+Guds,Sibylla,Undirected,1
+Glædeslyn,Sibylla,Undirected,2
+Sibylla,carino,Undirected,4
+Sibylla,poverina,Undirected,2
+Adonis,Sibylla,Undirected,1
+Aldebarema,Madonna,Undirected,1
+Madonna,Sibylla,Undirected,1
+Befana,Sibylla,Undirected,1
+Befana,Giacomo,Undirected,1
+Giacomo,gamino,Undirected,2
+Giacomo,Principes,Undirected,1
+Principes,Sibylla,Undirected,1
+Giacomo,Sibylla,Undirected,6
+Cesare,taust,Undirected,2
+Cesare,Giacomo,Undirected,9
+Campagne,Cesare,Undirected,1
+Campagne,Sibylla,Undirected,1
+Benedetto sia questo,Sibylla,Undirected,1
+Kristus,Venus,Undirected,1
+Milo,Venus,Undirected,1
+Julian Apostat,Leo,Undirected,1
+Augustus,Pius,Undirected,1
+Colosæums,Janus,Undirected,1
+Contessina Cecilia,Marquisen,Undirected,1
+Metz,Slendrian,Undirected,1
+Achab,Elias,Undirected,1
+Faubourgs,pidsker,Undirected,1
+Contessina,Contessina Cecilia,Undirected,2
+Cedre,Contessina,Undirected,1
+Cedre,ellig,Undirected,1
+Straahat,ellig,Undirected,1
+Cecilia,Dandolo,Undirected,1
+Cecilia,Gud,Undirected,3
+Cecilia,Paulus,Undirected,1
+Gemal,Paulus,Undirected,1
+Cecilia,Gemal,Undirected,1
+Cecilia,Kristus,Undirected,1
+Amalchus,Kristus,Undirected,1
+Amalchus,SeraphMusik,Undirected,1
+Cecilia,Jesus,Undirected,3
+Cecilia,Jesu,Undirected,1
+Cecilia,Marchese Justiniani,Undirected,1
+Cecilia,Contessina Cecilia,Undirected,1
+Principe,liun,Undirected,1
+Cecilia,Mistress Taylor,Undirected,3
+Contessina,Mistress Taylor,Undirected,1
+Marquisen,Mistress Taylor,Undirected,1
+Contessina,Marquisen,Undirected,3
+Kristus,Petrus,Undirected,1
+le due vergine,livor,Undirected,1
+Contessina,Gaston,Undirected,3
+Gaston,Platos,Undirected,1
+Gud,Hai,Undirected,1
+Gud,Politikens Jeremias,Undirected,1
+Politikens Jeremias,lians,Undirected,1
+Gud,lians,Undirected,1
+Gud,Paven,Undirected,2
+Antonius,Cleopatra,Undirected,1
+Gaston,Marquisen,Undirected,6
+Gaston,Venus’,Undirected,1
+Contessina,Sibylla,Undirected,2
+Cecilia,Cesare,Undirected,1
+Contessina,Giacomo,Undirected,3
+Cecilia,Sibylla,Undirected,3
+Marijucce,Sibylla,Undirected,1
+Gaston,Marijucce,Undirected,1
+Cesare,Marijucce,Undirected,1
+Gaston,Sibylla,Undirected,1
+Cecilia,Gaston,Undirected,3
+Cecilia,Lido,Undirected,1
+Lido,Marquisen,Undirected,1
+Campagnen,Gaston,Undirected,1
+Campagnen,Venus,Undirected,1
+Brutus,Venus,Undirected,1
+Madame de,Marquisen,Undirected,1
+Contessina,Diana,Undirected,1
+Gaston,Lottes,Undirected,1
+Iris,Lottes,Undirected,1
+Iris,Marquisen,Undirected,1
+Foi,Marquisen,Undirected,1
+Esprit,Marquisen,Undirected,1
+Esprit,Gaston,Undirected,1
+Leonardo da Vincis,Marquisen,Undirected,1
+Cecilia,Marquisen,Undirected,11
+Dandsen,Gaston,Undirected,1
+Hebe,ilive,Undirected,1
+Gaston,Madonna,Undirected,1
+Dear,Maria Stuart,Undirected,1
+Cecilia,liun,Undirected,1
+Gud,liun,Undirected,1
+Taylor,liendes,Undirected,1
+Paulus,Petrus,Undirected,1
+Cecilia,hqm,Undirected,1
+Leonardo da Vinci,Nellik,Undirected,1
+Rossini,Rossinis,Undirected,1
+Gondolier,bella Venezia,Undirected,1
+Gondolier,Tizians,Undirected,1
+Tizians,Violantes,Undirected,1
+Urias,fredløs,Undirected,1
+Gud,Nero,Undirected,1
+Tantalus,Virgil,Undirected,1
+Gud,Tasso,Undirected,1
+Alfred de Musset,Virgil,Undirected,1
+Alfred de Musset,Voltaire,Undirected,1
+Georgiones,Lady Machbeths,Undirected,1
+Eva,Georgiones,Undirected,1
+Eva,Venus,Undirected,1
+Niobes,Rachels,Undirected,1
+Marchesas,Sibylla,Undirected,1
+Marchesas,Marquisen,Undirected,1
+Marquisen,Sibylla,Undirected,4
+Sibylla,caro,Undirected,1
+Gud,Marquisen,Undirected,2
+Barbara,Sirokko,Undirected,1
+Brutus,Cato,Undirected,1
+Cesare,Marquisen,Undirected,1
+Belladonna,Cesare,Undirected,2
+Beaufremont,Sibylla,Undirected,1
+Contessina,Taus,Undirected,1
+Contessina,taus,Undirected,1
+Beaufremont,Cecilia,Undirected,2
+Cecilia,Patricier,Undirected,1
+Saul,TarsuS,Undirected,1
+Marchesa,Sibylla,Undirected,2
+Giacomo,Marchesa,Undirected,2
+Barbara,Marchesa,Undirected,4
+Giacomo,Marehesa,Undirected,2
+Barbara,Sibylla,Undirected,2
+Barbara,Marehesa,Undirected,1
+Giacomo,Kudsk,Undirected,1
+Barbara,Beaufremont,Undirected,1
+Cesare,Pietro,Undirected,1
+Diomio,Pietro,Undirected,1
+Marchesa,Monsieur le Chef,Undirected,2
+Monsieur le Chef,Pietro,Undirected,1
+Checca,Pietro,Undirected,2
+Pietro,Sibylla,Undirected,1
+Checca,Sibylla,Undirected,3
+Checca,Pifferaro,Undirected,1
+Contessina,Madonna mia,Undirected,1
+Checca,Contessina,Undirected,2
+Checca,Marchesa,Undirected,2
+Beaufremont,Cleopatra,Undirected,1
+Beaufremont,Marchesa,Undirected,1
+Marchesa,Marehesa Balbi,Undirected,1
+Cecilia,Marehesa Balbi,Undirected,1
+Cecilia,Lucia,Undirected,5
+Elisabetta,Marchesa,Undirected,1
+Duchessa,Lucia,Undirected,7
+Lucia,Marehesa,Undirected,1
+Høgen,mare,Undirected,1
+Elisabetta,Lucia,Undirected,6
+Duchessa,Elisabetta,Undirected,2
+Duchessa,carinal,Undirected,1
+Corso,Lucia,Undirected,1
+Corso,zia,Undirected,1
+zia,zia carissima,Undirected,1
+Elisabetta,zia carissima,Undirected,1
+Lucia,Marquisen,Undirected,1
+Marehesa Balbi,Marquisen,Undirected,1
+Hex,Lucia,Undirected,2
+Malice,Marquisen,Undirected,1
+Dido,Marchesa,Undirected,1
+Excellenza,Marehesa,Undirected,1
+Gud,Principessa,Undirected,1
+Sibylla,Signora Marchesa,Undirected,1
+Il signore professore,Signora Marchesa,Undirected,1
+Il signore professore,Signora Marehesa,Undirected,1
+Cecilia,Contessina,Undirected,1
+Gaston,Marcella,Undirected,1
+Giacomo,Marcella,Undirected,1
+Cecilia,Giacomo,Undirected,1
+Barbara,Cecilia,Undirected,1
+Marquisen,Max,Undirected,1
+Marquisen,Napoleon,Undirected,1
+Engelens,Jesu,Undirected,1
+Jesu,Joseph,Undirected,1
+Arimathias,Joseph,Undirected,1
+Lillie,Susanna,Undirected,1
+Angelus,Gud,Undirected,1

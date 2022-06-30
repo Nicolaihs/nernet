@@ -1,0 +1,123 @@
+source,target,type,weight
+Peter Strohtmann Scheel,Praxis,Undirected,1
+Henriette Grüner,Rolf,Undirected,1
+Henriette Grimers,Henriette Scheels,Undirected,1
+Gud,Rolf,Undirected,9
+Henriette Scheel,Rolf,Undirected,2
+Frigga,Frigga Kraft,Undirected,1
+Rolf,paany,Undirected,1
+Rolf,tys,Undirected,2
+Frigga,Rolf,Undirected,21
+Frigga Kraft,Ingvald,Undirected,1
+Frigga Kraft,Rolf,Undirected,3
+Ingvald Kraft,Rolf,Undirected,6
+Ingvald,Rolf,Undirected,42
+Ingvald Kraft,Rolf Scheel,Undirected,3
+Ingvald,Ingvald Kraft,Undirected,2
+Ingvald,Karen,Undirected,2
+Frigga,Ingvald,Undirected,5
+Frigga,Strike,Undirected,1
+Bente,Strike,Undirected,1
+Bente,Kraft,Undirected,2
+Bente,Sofie Aars,Undirected,1
+Larina Kraft,Sofie Aars,Undirected,1
+Bente,Stadshauptmand Scheels,Undirected,1
+Kaptejnens,Stadshauptmand Scheels,Undirected,1
+Bente,Ingvald,Undirected,6
+Bente,Frigga,Undirected,4
+Frøken Scheel,Rolf,Undirected,1
+Ingvald,haanlo Frigga,Undirected,1
+Ingvald,hans Rolf Scheel,Undirected,1
+Ingvald,Rolf Scheel,Undirected,2
+Paany,Rolf,Undirected,1
+Ingvald,keg,Undirected,1
+Rolf,keg,Undirected,1
+Hare,Ingvald,Undirected,1
+Hare,jø,Undirected,1
+Jeremias,jø,Undirected,1
+Gud,Jeremias,Undirected,1
+Rolf,Scheel,Undirected,3
+Jeremias,Rolf,Undirected,3
+Rolf,Svenskeren,Undirected,1
+Abraham,Jacob —,Undirected,1
+Jacob —,skick,Undirected,1
+lofven,skick,Undirected,1
+Rolf Scheel,Sjøsprøit,Undirected,1
+Bente,Rolf,Undirected,10
+Ingvald,høilys,Undirected,1
+Ingvald,Stygge,Undirected,1
+Karen,Rolf,Undirected,1
+Graad,Henriette Scheel,Undirected,1
+Præstens,Rolf,Undirected,1
+Aaget,Rolf,Undirected,1
+Aaget,Bente,Undirected,1
+Jomfru Aars,Rolf,Undirected,2
+Ingvald,Jomfru Aars,Undirected,1
+Gud,Rolf Scheel,Undirected,1
+Gud,R.olf,Undirected,2
+Bente Aars,Gud,Undirected,1
+Ingvald,Mester,Undirected,1
+Peter Strothmann,Rolf,Undirected,1
+Glid,Ingvald,Undirected,2
+herran,jag,Undirected,1
+jag,pinnan,Undirected,1
+minnas,sednaste,Undirected,1
+herran,sednaste,Undirected,1
+soner,vara,Undirected,1
+Gut,Rolf,Undirected,3
+Rolf,sine T anker,Undirected,1
+Peter Scheel,Rolf,Undirected,1
+Gud,Ingvald,Undirected,2
+Kaptein Søderberg,Rolf,Undirected,2
+Graad,Rolf,Undirected,1
+Rolf,Rolf Scheel,Undirected,2
+Bente,Mangaard,Undirected,1
+Jeremias,Kaptein Søderberg,Undirected,2
+Peter Scheel,Peter Strohtmann Scheel,Undirected,1
+Peter Scheel,lange,Undirected,1
+Kaptein Søderberg,isaafald,Undirected,1
+Ingvald,Ole Martin,Undirected,2
+Ole Martin,Rolf,Undirected,3
+Monsens,Rolf,Undirected,1
+Annine,Monsens,Undirected,1
+Annine,Ole Martin,Undirected,1
+Monsen,Rolf,Undirected,1
+Annine,tys,Undirected,1
+Annine,Rolf,Undirected,2
+Rolf,egeij,Undirected,1
+Rolf,set-Jeremias,Undirected,1
+Polly,Rolf,Undirected,1
+Gud,Polly,Undirected,1
+Rolf,Svend,Undirected,1
+Jeremias,Scheel,Undirected,1
+Jeremias,Madam Monsens,Undirected,2
+Jeremias,Monsen,Undirected,2
+Rolf,sonf,Undirected,1
+Rolf,Villie,Undirected,1
+Gud,Peter Strohtmann,Undirected,1
+Gine Lahn,Peter Strothmann,Undirected,1
+Gine Lahn,Mahgaard,Undirected,1
+Ingvald,K,Undirected,1
+Darwin,Rolf,Undirected,1
+Glid,Ingvald Kraft,Undirected,1
+Ingvald,Mutter Monsens,Undirected,1
+Annine,Ingvald,Undirected,1
+Studiosus,tys,Undirected,1
+Hr. Scheel,Ingvald,Undirected,1
+Ingvald Kraft,Ocean,Undirected,1
+Rolf Scheel,ifra Guttedagene,Undirected,1
+Frigga Kraft,jette,Undirected,1
+Bente,Bente Aars,Undirected,1
+Bertel,Soplims,Undirected,1
+Gud,Scheel,Undirected,1
+Gut,somtf,Undirected,1
+Ole Martin,Svend,Undirected,1
+Ingvald,blaaner,Undirected,1
+Frigga,Mutter Monsen,Undirected,1
+Annine,Mutter Monsen,Undirected,1
+Gud,Tauslieds,Undirected,1
+Rolf,sylhvas,Undirected,1
+Gud,sylhvas,Undirected,1
+Ole Martin,Scheel,Undirected,1
+Annine,Scheel,Undirected,1
+Annine,Frigga,Undirected,1

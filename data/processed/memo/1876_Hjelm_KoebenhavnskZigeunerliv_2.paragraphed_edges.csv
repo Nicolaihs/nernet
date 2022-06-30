@@ -1,0 +1,138 @@
+source,target,type,weight
+Erik Løve,Lind,Undirected,2
+Erik Løve,Sneprinsessen,Undirected,1
+Klara,Sneprinsesse,Undirected,2
+0rnMd,Klara,Undirected,1
+Klara,Paany,Undirected,1
+Axel Jensen,Emilie,Undirected,2
+Lem,Tendents,Undirected,1
+Erik Løve,yi,Undirected,1
+Axel Jensen,Erik Løve,Undirected,22
+Axel Jensen,fig,Undirected,1
+Erik Løve,Jensen,Undirected,6
+Jensen,bans,Undirected,1
+Axel Jensen,bans,Undirected,1
+Jensen,Klara Lind,Undirected,1
+Emilie,Erik Løve,Undirected,9
+Emilie,Jensen,Undirected,1
+Løve,l Erik Løve,Undirected,1
+Axel Jensen,Jensen,Undirected,1
+Klara Lind,SnLprinsessen,Undirected,1
+Erik Løve,SnLprinsessen,Undirected,1
+Klara,Klara Lind,Undirected,1
+Klara,deu,Undirected,1
+Klara,Sneprinsessen,Undirected,1
+Klara,alf,Undirected,1
+Asten,Klara,Undirected,1
+Erik,Løve,Undirected,1
+Axel Jensen,Løve,Undirected,1
+Axel In,Erik Løvs,Undirected,1
+Erik Løve,alias Axel Jensen,Undirected,1
+Aksel Jensen,Erik Løve,Undirected,1
+Levin,hamHan,Undirected,1
+- Ørnstjold,Baron,Undirected,1
+Baron Ørnstjold,Levin,Undirected,1
+Baron Ørnfljold,Lind,Undirected,1
+Levin,Ørnfljold,Undirected,10
+Zigeuner,Ørnfljold,Undirected,2
+Baron,Smausens,Undirected,1
+Zigeuneren,Ørnskjold,Undirected,1
+Zigeuneren,paany,Undirected,1
+Baron Ørnfljold,Thostrup,Undirected,1
+Baron Ørnfljold,godesfe Baron,Undirected,1
+Smaus,Ørnfljold,Undirected,1
+Smausen,Ørnfljold,Undirected,1
+Dumrian,Smausen,Undirected,1
+Baron Ørnskjold,Levin,Undirected,1
+Baron Ørnfljold,Levin,Undirected,2
+Basse,Klara Lind,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Klara,Konferensraad Lind,Undirected,1
+Klara,Lind,Undirected,1
+Konferensraad Lind,Ørnfljold,Undirected,1
+Klara,Ørnfljold,Undirected,1
+Klara Lind,Snsprinsessens,Undirected,1
+Frøken Brogaard,Klara,Undirected,3
+Brogaard,Frøken Brogaard,Undirected,1
+Anna Brogaard,Anna...,Undirected,1
+Eliza Vågner,Elvira Kessy,Undirected,1
+Eliza Wagner,Elvira Kessy,Undirected,1
+Eliza Wagner,helsf,Undirected,1
+Elvira,helsf,Undirected,1
+Elvira,Elvira Kessy,Undirected,2
+Elvira Kessy,Frøken Brogaard,Undirected,1
+Brogaard,Klara Lind,Undirected,1
+Baratincz,Hr. Rubinis,Undirected,1
+Baratincz,Elvira Kessy,Undirected,1
+Baratincz,Hr. Nubini,Undirected,1
+Klara Lind,Ørnfljold,Undirected,1
+Grev Baratincz,Maurits,Undirected,1
+Ladislaus,Nuvll,Undirected,1
+Brogaard,Ladislaus Baratincz,Undirected,3
+Anna,Gremn,Undirected,1
+Baratincz,elffe,Undirected,1
+Anna,Laudislaus,Undirected,1
+Brogaard,Grev Ladislaus,Undirected,1
+Frøken Brogaard,Grev Baratincz,Undirected,1
+,Grev Baratincz,Undirected,1
+Frøken Brogaard,Grev Baratinz,Undirected,1
+Brogaard,Grev Ladislaus Baratinz,Undirected,1
+Emilie,Funck,Undirected,1
+Funck,Nora,Undirected,3
+Baron Ørnfljold,Nora,Undirected,1
+Amanda,Baron Ørnfljold,Undirected,1
+Axel Jensen,Jørgen,Undirected,1
+Grev Galts,Jørgen,Undirected,1
+Amanda,Emilie,Undirected,1
+Amanda,Nora,Undirected,4
+Emilie,Nora,Undirected,1
+Emilie,Jeppe,Undirected,1
+Jeppe,Øe,Undirected,1
+Amanda,Baronen,Undirected,1
+Baron Ørnskjold,Klara Lind,Undirected,1
+Aksel Jensen,Funck,Undirected,1
+Funck,Ørnfljold,Undirected,1
+Grev,Ørnfljold,Undirected,1
+Galt,Grev,Undirected,1
+Emilie,Grev Galts,Undirected,1
+Nora,ørnfljold,Undirected,1
+Funck,j Lieutenant,Undirected,1
+Lieutenanten,Nora,Undirected,2
+Aksel Jensen,Amanda,Undirected,1
+Galt,H He,Undirected,1
+Baron Ørnsfjold,Levin,Undirected,1
+Lenins,sjeg,Undirected,1
+sidsfe,sjeg,Undirected,1
+Levin,harr,Undirected,1
+Levin,Ørnskjold,Undirected,1
+Bi flal,Ørnfljold,Undirected,1
+Levin,hm,Undirected,1
+Erik Løve,Frøken Brogaard,Undirected,1
+Erik Løve,Klara,Undirected,5
+Erik Løve,sagi,Undirected,1
+Erik Løve,Konferensraad Lind,Undirected,1
+Erik Leves,Klara Lind,Undirected,1
+Erik Leves,Klara,Undirected,1
+Lind,ha,Undirected,1
+Erik Løve,Klara Lind,Undirected,12
+Hnn,Klara,Undirected,1
+Frøken Brogaard,Lind,Undirected,1
+Klara Lind,hulken Erik Løve,Undirected,1
+Klara Lind,Lrd,Undirected,1
+Frøken Lind,Ørnfljold,Undirected,1
+Erik Løve,Ørnfljold,Undirected,2
+Aksel Jensen,Emilie,Undirected,4
+Erik Løve,Frøken Emilie,Undirected,1
+Brogaard,Erik Løve,Undirected,1
+Brogaard,Klara,Undirected,1
+Emilie,Klara Lind,Undirected,1
+Emilie,Frøken Lind,Undirected,1
+Emilie,Klara,Undirected,5
+Erik Løve,sidsle,Undirected,1
+Erik,Klara,Undirected,2
+Erik Løve,Ørnsljold,Undirected,1
+Klara Lind,skjold,Undirected,1
+Klara,Ørnskjold,Undirected,1
+Emilie,tillive,Undirected,1
+Grev Baratincz,Lind,Undirected,1
+Greves,Jørgen,Undirected,1

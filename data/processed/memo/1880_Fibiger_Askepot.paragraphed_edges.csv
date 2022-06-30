@@ -1,0 +1,168 @@
+source,target,type,weight
+Diana,grant,Undirected,1
+Dorthe,Klaus,Undirected,1
+Julie,Romeo,Undirected,1
+Dorthe,Fritz,Undirected,3
+Judithe,Peersen,Undirected,1
+Emma,Peersen,Undirected,1
+Emma,Mama,Undirected,1
+Baron Strange,Papa,Undirected,1
+Baron Strange,Carl,Undirected,1
+Marie,Papa,Undirected,1
+Mama,Marie,Undirected,1
+Johan,Peersen,Undirected,1
+Johan,Lund,Undirected,1
+Johan,Smedens,Undirected,1
+Diana,Johan,Undirected,1
+Johan,Judithe,Undirected,1
+Fritz,Judithe,Undirected,12
+Emma,Fritz,Undirected,13
+Carl,Fritz,Undirected,6
+Carl,Emma,Undirected,5
+Caroline,Emma,Undirected,6
+Caroline,Fritz,Undirected,2
+Fritz,Gjenhilsen,Undirected,1
+Gjenhilsen,Julie,Undirected,1
+Fritz,paany,Undirected,1
+Mødners,paany,Undirected,1
+Mr. Pitts,Mødners,Undirected,1
+Mr. Pitts,Tendents,Undirected,1
+Gothe,Pitts,Undirected,1
+Gothe,Schiller,Undirected,2
+Gothe,Hermann,Undirected,1
+Dorothea,Hermann,Undirected,1
+Fritz’,Julie,Undirected,1
+Fritz’,s,Undirected,1
+Carl,s,Undirected,1
+Carl,Mr. Pitts,Undirected,3
+Amanda,Mr. Pitts,Undirected,5
+Amanda,Fritz,Undirected,2
+Fritz,Julie,Undirected,15
+Jasaa,Judithe Lund,Undirected,1
+Fritz,Judithe Lund,Undirected,1
+Amanda,Julie,Undirected,5
+Judithe,Judithe Brandth,Undirected,1
+Emma,Julie,Undirected,4
+Emma,Judithe,Undirected,16
+Adonis,Pjerrot,Undirected,1
+Mr. Pitts,Pjerrot,Undirected,1
+Carl,Caroline,Undirected,4
+Carl,Judithe,Undirected,3
+Doctoren,Judithe,Undirected,1
+Doctoren,skraa,Undirected,1
+Judithe,Julie,Undirected,32
+Doctoren,Emma,Undirected,1
+Caroline,Caroline Anders Larsens,Undirected,1
+Jean Paul,Marie adelte,Undirected,1
+Julie,bevaagen,Undirected,1
+Cousine Amanda,Julie,Undirected,1
+Hustrues,Mr. Pitts,Undirected,1
+Julie,Kjære,Undirected,1
+Amanda,Emma,Undirected,1
+Carl,Fader,Undirected,1
+Brandth,Carl,Undirected,1
+Brandth,Judithe,Undirected,3
+Fader,Judithe,Undirected,1
+Fader,Lund,Undirected,1
+Judithe,Lund,Undirected,9
+Fritz,Gud,Undirected,1
+Knud,Papa,Undirected,1
+Fritz,Mr. Pitts,Undirected,1
+Aare,Fritz,Undirected,1
+Fritz,iland,Undirected,1
+Dorthe,Judithe,Undirected,5
+Gud,Judithe,Undirected,2
+Fritz,Hansen,Undirected,1
+Julie,Mr. Pitts,Undirected,4
+Fritz,Pitts,Undirected,1
+Lund,Pitts,Undirected,1
+Emma,Mr. Pitts,Undirected,3
+Amanda,Caroline,Undirected,1
+Amanda,Doctoren,Undirected,2
+Julie,Lars,Undirected,7
+Fritz,Lars,Undirected,5
+Barons,Lars,Undirected,1
+Barons,Julie,Undirected,1
+Fritz saa,Julie,Undirected,1
+Baronesse Julie,Naadigherren,Undirected,1
+Carl,Lars,Undirected,1
+Judithe Brandth,Julie,Undirected,1
+Dorthe,FruBrandths,Undirected,1
+Judithe,kjære,Undirected,2
+Graad,Judithe,Undirected,1
+Judithe,Lars,Undirected,4
+Dorthe,Lars,Undirected,7
+Dorthe,Julie,Undirected,2
+Gud,Julie,Undirected,2
+Julie,Mignons,Undirected,1
+Judithe,Mignons,Undirected,1
+Carl,Julie,Undirected,9
+Judithe,Mr. Pitts,Undirected,1
+Doctoren,Mr. Pitts,Undirected,3
+Doctoren,Julie,Undirected,1
+Amanda,Judithe,Undirected,1
+Aristophanes,Guttenbergs,Undirected,1
+Aristophanes,Gud,Undirected,1
+Copernicus,Guttenberg,Undirected,1
+Copernicus,Luther,Undirected,1
+Julie,lasst Dich ruhig nieder,Undirected,1
+Rose Menschen haben keine Lieder,lasst Dich ruhig nieder,Undirected,1
+Judithe,taus,Undirected,1
+Carl,Pitts,Undirected,1
+Caroline,Julie,Undirected,3
+Fritz,Lund,Undirected,1
+Emma,zat,Undirected,1
+Fritz,bart,Undirected,1
+Emma,Pitts,Undirected,1
+Fritz,Kjære,Undirected,2
+Fritz Strange,Julie,Undirected,1
+Gud,Peersen,Undirected,1
+Judithe,Knud,Undirected,2
+Dorthe,Knud,Undirected,1
+Knud,Lars,Undirected,7
+Emma,Lund,Undirected,1
+Knud,Lund,Undirected,1
+Fritz,Knud,Undirected,2
+Lars,s,Undirected,1
+Emma,Knud,Undirected,3
+Baron Fritz,s,Undirected,1
+Emma,Lars,Undirected,1
+Emma,Holberg,Undirected,1
+Emma,Gud,Undirected,1
+Caroline,Knud,Undirected,1
+Fritz,Zola,Undirected,1
+Amanda,Venus,Undirected,1
+Venus,falbydes,Undirected,1
+Homer,Perikles,Undirected,1
+Perikles,Sokrates,Undirected,1
+Gud,Sokrates,Undirected,1
+Judithe,bun,Undirected,1
+Fritz Pausen,Judithe,Undirected,1
+Baron Fritz,Judithe,Undirected,1
+Lille Juledag,Lund,Undirected,1
+Karlen,Lund,Undirected,1
+Mr. Pitts,tom,Undirected,1
+Carl,Modner,Undirected,1
+Amanda,Modner,Undirected,1
+Julie,Pitts,Undirected,2
+Judithe,Pitts,Undirected,1
+Amanda,Skjelsaar,Undirected,1
+Amanda,saasnart Judithes,Undirected,1
+Caroline,Judithe,Undirected,1
+Modner,Mr. Pitts,Undirected,2
+Judithe,Modner,Undirected,2
+Brandth,Fritz,Undirected,1
+Baronesse Julie,Emma,Undirected,1
+Baronesse Julie,Judithe,Undirected,1
+Judiths,Modner,Undirected,1
+Judiths,Julie,Undirected,1
+Doctor Modner,Julie,Undirected,1
+Doctor Modner,Fritz,Undirected,1
+Doctor Mødner,Modner,Undirected,1
+Doctor Mødner,Judithe,Undirected,1
+Brandth,Doctor Modner,Undirected,1
+Gud,Lars,Undirected,2
+Gud Fader,Judithe,Undirected,1
+Gud,Gud Fader,Undirected,1
+Dorthe,Gud,Undirected,1
+Dorthe,Mutter,Undirected,1

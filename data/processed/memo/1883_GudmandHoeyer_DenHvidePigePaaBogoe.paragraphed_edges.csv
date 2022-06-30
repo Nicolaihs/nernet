@@ -1,0 +1,463 @@
+source,target,type,weight
+Ane,Povl,Undirected,76
+Povl,huu,Undirected,1
+Dorthe,Povl,Undirected,8
+J,Povl,Undirected,1
+Gud,Povl,Undirected,6
+Povl,Rasmus Hendriksen Kjeling,Undirected,1
+Rasmus Hendriksen Kjeling,lian,Undirected,1
+Povl Hansen Lind,lian,Undirected,1
+Ane,Dorthe,Undirected,31
+Ane,Rasmus Kjeling,Undirected,15
+Dorthe,Rasmus Kjeling,Undirected,5
+Povl,Rasmus Kjeling,Undirected,15
+Danchel,Povl,Undirected,1
+Gabel,Tordenskjold,Undirected,3
+Tordenskjold,Wachtmeisters,Undirected,2
+Johannes,Povl,Undirected,2
+Andreas,Johannes,Undirected,1
+Andreas,Henning,Undirected,1
+Henning,Karen,Undirected,1
+Ane,Karen,Undirected,7
+Ane,lille Karen,Undirected,1
+Fader,Moder,Undirected,2
+Ane,henaes,Undirected,1
+Ane Kjeling,Povl,Undirected,1
+Karl,Povl,Undirected,3
+Folkmar,Johannes Danchel,Undirected,2
+Folkmar,Povl,Undirected,3
+Johannes Danchel,Povl,Undirected,1
+Aasen,Povl,Undirected,1
+Fræti,Jas,Undirected,1
+Fræti,ilejn,Undirected,1
+Sulen,ilejn,Undirected,1
+Sulen,Vridbor,Undirected,1
+Vridbor,nile,Undirected,1
+Davrin,Jens Høj,Undirected,1
+Davrin,høve,Undirected,2
+Rasmus,Saad,Undirected,1
+Jens,Saad,Undirected,1
+Ding,Jens,Undirected,1
+Povl,rosse,Undirected,1
+Saad,rosse,Undirected,1
+Mogens,Saad,Undirected,1
+Mogens,gnaddrig,Undirected,1
+Rasmus Kjeling,moit,Undirected,1
+Jens Høj,Rasmus Kjeling,Undirected,12
+Ane,Jens Høj,Undirected,16
+Jens Høj,Rasmus,Undirected,6
+Jens Høj,Povl,Undirected,8
+Ane,Jens,Undirected,8
+Jens,Karlen,Undirected,4
+Jens Høj,Karlen,Undirected,1
+Ane,Rasmus,Undirected,10
+Jens,Rasmus,Undirected,5
+Karl,Rasmus,Undirected,2
+Jas,Povl,Undirected,1
+Jens,Karl,Undirected,3
+Rasmus Kjeling,or,Undirected,1
+Ane,or,Undirected,1
+Povl,lian,Undirected,2
+Magen,Povl,Undirected,2
+Husbond,Povl,Undirected,1
+Povl,Valborgs,Undirected,3
+Valborgs,ban,Undirected,1
+Folkmar,Johannes,Undirected,1
+Folkmar,Rasmus Kjeling,Undirected,1
+AndreasGroos,Anna Katrine,Undirected,1
+Anna Katrine,Danchel,Undirected,1
+Alanden,Aledens,Undirected,1
+Gud,Jesu,Undirected,1
+Søren,ban,Undirected,2
+Hanna,Samuel,Undirected,1
+Gud,Moder,Undirected,1
+Hans Lind,Lind,Undirected,1
+Søren Bov,jdgnu,Undirected,1
+Kirsten,ban,Undirected,1
+Kirsten,hnn,Undirected,1
+Marie,hnn,Undirected,1
+Hans,Marie,Undirected,15
+Lind,Marie,Undirected,1
+Hans,Lind,Undirected,1
+Hans,Klavs Stadager,Undirected,1
+Klavs Stadager,Povl,Undirected,1
+Hans,Povl,Undirected,1
+Andreas,Marie,Undirected,1
+Andreas,Folkmar,Undirected,1
+Folkmar,Marie,Undirected,1
+Hans,Niels Rytters,Undirected,2
+Maiie,Marie,Undirected,1
+Gud,Hans Lind,Undirected,1
+Lind,Søren,Undirected,1
+Jørgen Skytte,Søren,Undirected,3
+Søren Bov,Søren“,Undirected,1
+Søren,Søren“,Undirected,1
+Hans Lind,Jørgen Skytte,Undirected,1
+Jørgen,Karen,Undirected,2
+Hans Lind,Jørgen,Undirected,1
+Hans Lind,Povl,Undirected,1
+Jørgen Skytte,Povl,Undirected,15
+Karen,Povl,Undirected,17
+Karen,Søren Bov,Undirected,1
+Jørgen Skytte,Karl,Undirected,2
+Jørgen Skytte,ban,Undirected,1
+Jørgen Skytte,Rasmus Kjeling,Undirected,4
+Rasmus,Rasmus Kjeling,Undirected,2
+Jens,Jens Høj,Undirected,2
+Karl,Niels Klov,Undirected,1
+Ane,Niels,Undirected,30
+Ane,uo,Undirected,2
+Karen,Karlen,Undirected,1
+Galles,Karlen,Undirected,1
+Galles,Karen,Undirected,1
+Anders Galle,Karen,Undirected,2
+Ane,Niels Klov,Undirected,6
+Jens Høj,Niels Klov,Undirected,1
+Niels,Povl,Undirected,3
+Karen,Niels,Undirected,11
+Dorthe,Niels,Undirected,2
+Niels,Niels Klov,Undirected,2
+Niels Klov,Ole Klov,Undirected,1
+Ole Klov,Rasmus Kjeling,Undirected,2
+Ole,Rasmus Kjeling,Undirected,3
+Ole,Rasmus,Undirected,4
+Anders Galle,Rasmus,Undirected,3
+Anders Galle,Ole,Undirected,3
+Karen,Ole,Undirected,1
+Ane,Karen Galles,Undirected,1
+Karen Galles,Niels,Undirected,1
+Ane,j,Undirected,1
+.•,j,Undirected,1
+Ane,Engs,Undirected,1
+Grethe Galles,Karen,Undirected,2
+Anders Galle,Ane,Undirected,1
+Anders Galle,Grethe,Undirected,1
+Grethe,Niels,Undirected,1
+Ane Kjeling,Niels,Undirected,1
+Ane Kjeling,Karen,Undirected,1
+Ane,Ole Klov,Undirected,1
+Anders Galle,Niels,Undirected,1
+Anders,Rasmus,Undirected,3
+Anders Galle,Ole Klov,Undirected,2
+Anders,Ole Klov,Undirected,1
+Rasmus,Rasmus.,Undirected,1
+Anders,Karl,Undirected,1
+Anders,Ole,Undirected,1
+Ane,Karle,Undirected,1
+Povl,Rasmus,Undirected,2
+Ane,Johanne Kjeling,Undirected,13
+Dorthe,Rasmus,Undirected,1
+Jens Høj,Morten Knudsen,Undirected,2
+Ane,Morten Knudsen,Undirected,1
+Morten Knudsen,hans,Undirected,2
+Jens,Morten Knudsen,Undirected,1
+Jens,Niels Klov,Undirected,2
+Karen Galle,Niels,Undirected,2
+Grethe,Ole Klov,Undirected,1
+Grethe,Maren,Undirected,1
+Maren,Rasmus Kjeling,Undirected,1
+Maren,Ole,Undirected,1
+Maren,Niels,Undirected,1
+Grethe Galle,Niels,Undirected,1
+Grethe Galle,Karen,Undirected,1
+Niels,Rasmus Kjeling,Undirected,1
+Jens Høj,Niels,Undirected,1
+Ane,ban,Undirected,2
+Jens,ban,Undirected,3
+Jens,hansVært,Undirected,1
+Niels Klov,nyssens,Undirected,1
+Karen Galle,Niels Klov,Undirected,3
+Jens Høj,Karen Galle,Undirected,1
+Jens,Povl,Undirected,3
+Johanne Kjeling,signe,Undirected,1
+Aaget,Ane,Undirected,1
+Marie,Pythia,Undirected,1
+Ole Hans Kro,Valdemar Atterdag,Undirected,1
+Even,Otto Kristoffer Munthe,Undirected,1
+Otto Kristoffer Munthe,Schmidt,Undirected,1
+Even,Schmidt,Undirected,1
+Jens Høj,Jens riøj,Undirected,1
+Jens Høj,Lavrits Lange,Undirected,1
+Jens,Rothe,Undirected,1
+Jens,Jørgen Dyrløv,Undirected,4
+Jens Høj,lille Peder Skjærninge,Undirected,1
+Jens Høj,Peder Skjærninge,Undirected,4
+Jens,Ole Hans,Undirected,1
+Jens,Ole,Undirected,3
+Anders,Anders Post,Undirected,1
+Hans,Ole,Undirected,1
+Anders,Hans,Undirected,1
+Anders,Jakob Hansten,Undirected,1
+Jakob Hansten,Oluf Rasmussen,Undirected,1
+Jørgen Dyrløv,Peder Skjærninge,Undirected,2
+Jens,Peder Skjærninge,Undirected,3
+Jørgen Dyrløv,Ole Hans,Undirected,1
+Jens Høj,Jørgen Skytte,Undirected,6
+Friderik von Råbens,Povl,Undirected,2
+FolkmarDanchel,Povl,Undirected,1
+FolkmarDanchel,Jørgen Skytte,Undirected,1
+Ole Hans Kro,Povl,Undirected,3
+Oluf Rasmussen,Søde-Anders,Undirected,1
+Maren Munk,Oluf Rasmussen,Undirected,1
+Jørgen Dyrløv,Maren Munk,Undirected,1
+Ole Hans,Søde-Anders,Undirected,1
+Erik Colstrup,Ole Hans,Undirected,1
+Andreas Badstiiber,Erik Colstrup,Undirected,1
+Andreas Badstiiber,Willum Ring,Undirected,1
+Jens Høj,Søde-Anders,Undirected,1
+Anders,Jens Høj,Undirected,2
+Jens Høj,Jørgen Dyrløv,Undirected,1
+Ane,Jørgen Dyrløv,Undirected,1
+Jens Høj,hans,Undirected,1
+Ane,hans,Undirected,1
+Jørgen Dyrløv,Peder,Undirected,1
+Jens,Peder,Undirected,1
+Karl,Majdag,Undirected,1
+Majdag,Rasmus Kjeling,Undirected,1
+Jens Høj,Ole Hans,Undirected,1
+Ole Hans,Peder Skjærninge,Undirected,1
+Søde-Anders,itte,Undirected,1
+itte,javer,Undirected,2
+Ole Hans Kro,itte,Undirected,1
+Povl,ban,Undirected,2
+Ane,Jørgen Skytte,Undirected,1
+Jørgen,Jørgen Skytte,Undirected,1
+Jørgen,Povl,Undirected,4
+Frederik Klinchs,Povl,Undirected,1
+Ane,denna,Undirected,1
+Ane,Karen Galle,Undirected,1
+Jens Høj,ban,Undirected,1
+Ole Hans Kro,ban,Undirected,1
+Jobanne Kjeling,Povl Lind,Undirected,1
+Ane,Jobanne Kjeling,Undirected,1
+Ane,Karlen,Undirected,2
+Jørgen Scheels,Karlen,Undirected,1
+Jørgen Scheels,Karl,Undirected,1
+Karl,hans Karl,Undirected,1
+Johannes Danchel,hans Karl,Undirected,1
+Johannes Danchel,"Karl,",Undirected,1
+"Karl,",Vilhelm Svingelberg,Undirected,1
+Ditlev Staal,Lars,Undirected,1
+Anton Dam,Ditlev,Undirected,1
+Anton Dam,Kristian Hincheldej,Undirected,1
+Lars,Lars Willumsen,Undirected,1
+Lars,Peter Hincheldej,Undirected,1
+Johannes Hage,Peter Hincheldej,Undirected,1
+Jan Hage,Johannes Hage,Undirected,1
+Andreas Hetting,Søren Ingeman,Undirected,1
+Andreas Hetting,Niels Hovman,Undirected,1
+Ditlev,Schmidt,Undirected,1
+Lars,Schmidt,Undirected,1
+Karl,Rasmus Kjeling,Undirected,4
+Dorthe,Karl,Undirected,2
+Dorthe,Johanne Kjeling,Undirected,1
+Ane,Johanne,Undirected,15
+Johanne,Rasmus Kjeling,Undirected,2
+Johanne,Rasmus,Undirected,5
+Dorthe,Johanne,Undirected,2
+Dorthe,Jens,Undirected,3
+Povl,Rasmus kjendt,Undirected,1
+Jørgen Skytte,Rasmus kjendt,Undirected,1
+Jens,Jørgen Skytte,Undirected,1
+Jens,Ole Hans Kro,Undirected,1
+Jens Høj,Jørgen,Undirected,1
+Folkmar,Jens Høj,Undirected,1
+Karlen,ban,Undirected,1
+Karlen,Rasmus,Undirected,2
+Jens Høj,Morten,Undirected,1
+Jens,Morten,Undirected,2
+Morten,Povl,Undirected,1
+Johanne Kjeling,Povl,Undirected,4
+Jens Høj,Karl,Undirected,1
+Ane,Morten,Undirected,1
+Karl,Morten,Undirected,1
+Jens,Johanne Kjeling,Undirected,2
+Johanne Kjeling,Morten,Undirected,1
+Karl,Povl Lind,Undirected,1
+Jens,Johanne,Undirected,1
+Dorthe,Morten,Undirected,1
+Dorthe,Jens Høj,Undirected,1
+Johanne Kjeling,Rasmus,Undirected,1
+Dorthe,Kjelings,Undirected,1
+Ane,Kjelings,Undirected,1
+Ane,Gud,Undirected,13
+Dorthe,Gud,Undirected,1
+Dorthe,Fader,Undirected,1
+Ane,Ole,Undirected,2
+Niels Klov,Ole,Undirected,1
+Dorthe,Niels Klov,Undirected,1
+Karen,Niels Klov,Undirected,2
+Aioderen,Dorthe,Undirected,1
+Aioderen,Ane,Undirected,1
+Gud,Johanne Kjeling,Undirected,2
+Ane,Rendes,Undirected,1
+Ane,bun,Undirected,1
+Niels Klov,bun,Undirected,1
+Johanne Kjeling,Kjelings,Undirected,1
+Kain,Rasmus Kjeling,Undirected,1
+Johanne Kjeling,Marie,Undirected,1
+Johanne Kjeling,bun,Undirected,1
+Niels Klov,hans Karen,Undirected,1
+Katrine,hans Karen,Undirected,1
+Karen,Katrine,Undirected,6
+Ane,jert,Undirected,1
+Karen,jert,Undirected,1
+GretheGalle,Niels,Undirected,1
+Gud,Herren,Undirected,1
+Dorthe,Herren,Undirected,1
+Johanne Kjeling,Rasmus Kjeling,Undirected,1
+Ane,Hans,Undirected,1
+Karlen,Povl,Undirected,2
+Johanne,Per Klavsen,Undirected,1
+Kain,Povl,Undirected,1
+Johanne Kjeling,Karlen,Undirected,1
+Ane,Karl,Undirected,2
+Ane,Kain,Undirected,2
+Ane,Povl Hansen Lind,Undirected,1
+Povl Hansen Lind,Rasmus Kjeling,Undirected,1
+Ane,Ane Kjeling,Undirected,1
+Basunens,Gud,Undirected,1
+Ane,Marias,Undirected,1
+Dorthe,Marias,Undirected,1
+Dorthe,Marthas,Undirected,1
+Marthas,Povl,Undirected,1
+Ane,est,Undirected,2
+Karlen,Katrine,Undirected,1
+Katrine,Kavaj,Undirected,1
+Karlen,Kavaj,Undirected,1
+Hu,Karlen,Undirected,1
+Ane,Mathias Bloch,Undirected,1
+Katrine,ban,Undirected,1
+Bernstorff,Schimmelmann,Undirected,1
+Bernstorff,Reverdil,Undirected,1
+Reverdil,snild,Undirected,1
+Jørgen Skytte,Karen,Undirected,3
+Karen,Karl,Undirected,1
+Karen Marie,Povl,Undirected,1
+Ane Kirstine,Karen Marie,Undirected,1
+Ane Kirstine,Povl,Undirected,1
+Kirstine Skytte,Povl,Undirected,1
+Jørgen,Kirstine Skytte,Undirected,1
+Jørgen,Lille Hans,Undirected,2
+Hr. Ambrosius Buch,Søren Bov,Undirected,1
+Henrik Biering,Hr. Ambrosius Buch,Undirected,1
+Henrik Biering,Povl,Undirected,1
+Arne,Karen,Undirected,1
+Anders Olsen,Jørgen Skytte,Undirected,1
+Anders,Anders Olsen,Undirected,2
+Anders,Povl,Undirected,3
+Anders Olsen,Povl,Undirected,2
+Ole,Povl,Undirected,1
+Anders,Kjæresten,Undirected,1
+Kjæresten,Niels Galle,Undirected,1
+Niels Galle,Niels Klov,Undirected,1
+Ole Andersen,Povl,Undirected,1
+Ane,Ole Andersen,Undirected,1
+Dorthe,Hans,Undirected,1
+Hans,Rasmus,Undirected,1
+Dorthe,Ellen,Undirected,1
+Ellen,Rasmus Kjeling,Undirected,1
+Dorthe,Margrethe,Undirected,1
+Aloders,Margrethe,Undirected,1
+Aloders,Ane,Undirected,1
+Rasmus Kjeling,ban,Undirected,1
+Dorthe,Lucie,Undirected,1
+Ane,Lucie,Undirected,2
+Dorthe,Ole,Undirected,1
+Bloch,Dorthe,Undirected,1
+Bloch,Stistrup,Undirected,1
+Ramus,Stistrup,Undirected,1
+Bloch,Ramus,Undirected,1
+Ane,Bloch,Undirected,1
+Ane,Kristen Wolf,Undirected,2
+Gud,Kingos,Undirected,1
+Kingos,Ole Andersen,Undirected,1
+Hans,Ole Andersen,Undirected,1
+Hans,Lars Mogensens,Undirected,1
+Kirstine,Lars Mogensens,Undirected,1
+Dorthe,Kirstine,Undirected,1
+Ane,Margrethe,Undirected,6
+Margrethe,Peter Hansen,Undirected,2
+Kjeling,Peter Hansen,Undirected,1
+Dorthe,Hans Olsen,Undirected,1
+Hans Olsen,Ole,Undirected,1
+Margrethe,Ole,Undirected,1
+Alen Avgust,Ane,Undirected,1
+Alen Avgust,fikAIargrethe,Undirected,1
+Ane,fikAIargrethe,Undirected,1
+Johanne,Margrethe,Undirected,1
+Johanne,Peder Larsen Alogensen,Undirected,1
+Ane,Peder Larsen Alogensen,Undirected,1
+Johanne,Peter Hansen,Undirected,1
+Johanne,Peter Larsens,Undirected,1
+Ane,Peter Larsens,Undirected,1
+Johanne,Johannes Husbond,Undirected,1
+Johannes Husbond,Peder Larsen,Undirected,1
+Lille Niels,Niels,Undirected,1
+Ane Dorthea,Margrethe,Undirected,2
+Ane,Ane Dorthea,Undirected,4
+Ellen,Lucie,Undirected,1
+Ellen,bur,Undirected,1
+Ane,bur,Undirected,1
+Anders Kat,Ane,Undirected,1
+Johanne,Lucie,Undirected,1
+Johanne,Rasmus Kristensen,Undirected,1
+Rasmus Bonde,Rasmus Kristensen,Undirected,1
+Ane,Rasmus Bonde,Undirected,7
+Johanne,Rasmus Bonde,Undirected,6
+Ane,isg,Undirected,1
+Margrethe,isg,Undirected,1
+Maren Kirstine,Margrethe,Undirected,1
+Ane,Maren Kirstine,Undirected,1
+Kingos,Niels,Undirected,1
+Lavrits Kruse,Pontoppidan,Undirected,1
+Hans Peter,Marie,Undirected,1
+Frode,Hans Peter,Undirected,1
+Jansens,Marie,Undirected,1
+Dines,Jansens,Undirected,1
+Dines,Hr. Løve,Undirected,1
+Frederikke,Hr. Løve,Undirected,1
+Peter Andreas Hejbergs,Sine Buntzen,Undirected,1
+Lise,Sine Buntzen,Undirected,1
+Hejberg,Lise,Undirected,1
+Hejberg,Sine,Undirected,1
+Frederik de la Motte,Løve,Undirected,1
+Ane Kjeling,Lavrits Kruse,Undirected,1
+Mikkel,Rasmus,Undirected,1
+Hr. Løve,Kruse,Undirected,1
+Hr. Løve,Rasmus,Undirected,1
+Rasmus,Rasmus Bonde,Undirected,1
+Katrine,Niels Klov,Undirected,1
+Ane,AnnaKjeling,Undirected,1
+AnnaKjeling,Elhilde,Undirected,1
+Ane,Lavrits Kruse,Undirected,2
+Ane,Kruse,Undirected,2
+Jens Han,Pontoppidan,Undirected,1
+Jens Han,Smidth,Undirected,1
+Lavrits Kruse,Smidth,Undirected,1
+Ane,Pontoppidan,Undirected,1
+Ane,Johan Paludans,Undirected,1
+J. Jensen,Johan Paludans,Undirected,1
+J. Jensen,P. Rhodes,Undirected,1
+I. F. Friis,P. Rhodes,Undirected,1
+I. F. Friis,Sidenius,Undirected,1
+Rasmus Bonde,Åne,Undirected,1
+Niels“,Rasmus Bonde,Undirected,1
+Rasmus Bonde,liun,Undirected,1
+Ane Dorthe,Margrethe,Undirected,1
+Ane Dorthe,Maren Kirstine,Undirected,1
+Ane,Dorthea,Undirected,2
+Pontoppidan,Smidth,Undirected,1
+Pontoppidan,Rafn,Undirected,1
+Dorthea,Maren Kirstine,Undirected,1
+Kristen Thomsen,Maren Kirstine,Undirected,1
+Ane,Kristen Thomsen,Undirected,1
+Anders Kat,Rasmus Bonde,Undirected,1
+Ellen,Johanne,Undirected,1
+Ellen,Rasmus Bonde,Undirected,1
+Ane Dorthea,Maren Kirstine,Undirected,1
+Ane Dorthea,Hans Thomsen,Undirected,1
+Hans Thomsen,Johanne,Undirected,1
+Johanne,Ole,Undirected,1
+Otto Rafns,Rasmus Bonde,Undirected,1
+Ane,Otto Rafns,Undirected,1

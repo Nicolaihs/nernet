@@ -1,0 +1,55 @@
+source,target,type,weight
+Diirrfeldt,Voss,Undirected,1
+Saadi,Voss,Undirected,1
+Gud,Pitt,Undirected,2
+Dtirrfeldt,Schopenhauer,Undirected,2
+Faust,Wagner,Undirected,1
+Minerva,Mors,Undirected,1
+Minerva,Zeus,Undirected,1
+Mors,Raphael,Undirected,1
+Michel Angelo,Raphael,Undirected,1
+Michel Angelo,Titian,Undirected,1
+Balzac,Mors,Undirected,1
+Balzac,Gretchentypen,Undirected,1
+Diirrfeldt,Mors,Undirected,4
+Don Juan,Mors,Undirected,1
+Diirrfeldt,Gretchens,Undirected,1
+Mors,gyhdte,Undirected,1
+Diirrfeldt,gyhdte,Undirected,1
+Gud,Margrethe,Undirected,1
+Marven,Mors,Undirected,1
+Beatrice,Gud,Undirected,1
+Beatrice,Virgil,Undirected,2
+Lethes,Virgil,Undirected,1
+Hosiannaraab,Lethes,Undirected,1
+Beatrice,Hosiannaraab,Undirected,1
+Dantes,Virgil,Undirected,1
+Dantes,Dtirrfeldt,Undirected,1
+Dtirrfeldt,Mors,Undirected,1
+Beatrice Porcinari,ban,Undirected,1
+Hegel,Mors,Undirected,1
+Anna,Durrfeldts,Undirected,1
+Israels,Judas,Undirected,1
+Dtirrfeldt,prange,Undirected,1
+Anna,Johanna Waldmuller,Undirected,2
+Diirrfeldt,Johanna Waldmuller,Undirected,1
+Diirrfeldt,Frk. Waldmuller,Undirected,2
+Diirrfeldt,Johanna,Undirected,1
+Diirrfeldt,Gud,Undirected,2
+Johanna,straagule Atlaskbaand,Undirected,1
+Tordeneg,Wotans,Undirected,1
+Frøken Brandt,Johanna,Undirected,1
+Faust,Pastor Mors,Undirected,1
+Johanna,Johanna Waldmiiller,Undirected,1
+Mors,hans Johannas,Undirected,1
+Mors,Pastor Mors,Undirected,3
+Gud,Satan,Undirected,1
+Diirrfeldt,Pibens,Undirected,1
+Pibens,christelige,Undirected,1
+Christus,Maria,Undirected,1
+Christus,Gud,Undirected,2
+Christi,Gud,Undirected,1
+Christus,St. Paulus,Undirected,1
+Gud,Pastor Mors,Undirected,1
+Cicero,Petit,Undirected,1
+Diirrfeldt,elv,Undirected,1

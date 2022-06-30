@@ -1,0 +1,270 @@
+source,target,type,weight
+Mortensen,Ørseth,Undirected,6
+Mortensen,ørseth,Undirected,1
+Falck-Olsen,Mo,Undirected,1
+Hiorth,Mortensen,Undirected,7
+Hansen,Mortensen,Undirected,4
+Hansen,Mo,Undirected,1
+Georg Delphin,Mortensen,Undirected,3
+Anders den Almægtige,Mortensen,Undirected,1
+Anders den Almægtige,Bennechen,Undirected,1
+Hiorth,Ørseth,Undirected,1
+Mortensen,Roberts,Undirected,2
+De Mortensen,Ørseth,Undirected,1
+Georg Delphin,Hiorth,Undirected,1
+Hr. Mortensen,Mortensen,Undirected,1
+Njædel,Søren,Undirected,2
+Malmen,Søren,Undirected,2
+Guds,Søren,Undirected,1
+Søren,Tofte,Undirected,2
+Kristine,Njædel,Undirected,11
+Njædel,stelle,Undirected,1
+Hiorth,Seehus,Undirected,1
+Njædel,Vatnemo,Undirected,1
+Hava,Vatnemo,Undirected,1
+Kahrs,Kristine Vatnemo,Undirected,1
+Kahrs,Kruse,Undirected,1
+Alfred Bennechen,Kahrs,Undirected,1
+Nils“,Tofte,Undirected,1
+Nils,Tofte,Undirected,1
+Nils,jasaa,Undirected,1
+Nils,Vatnemo,Undirected,1
+Kaalhode,Kahrs,Undirected,1
+Citanteh,Kahrs,Undirected,1
+Boyesen,Citanteh,Undirected,1
+Boyesen,Kahrs,Undirected,1
+Kahrs,Tofte,Undirected,1
+Anders,Njædel,Undirected,7
+Gut,Njædel,Undirected,1
+Anders,grant,Undirected,1
+Njædel,Søren Børevig,Undirected,3
+Kristine,Søren Børevig,Undirected,1
+Bennechen,Georg Delphin,Undirected,3
+Bennechen,Mama'har,Undirected,1
+Delphin,Frøken Bennechen,Undirected,2
+Frøken Bennechen,Kristian Augusts Gade,Undirected,1
+Kristine,Mo,Undirected,4
+Bennechen,Bennecheris,Undirected,1
+Bennechen,Hilda,Undirected,1
+Alfred,Hiorth,Undirected,4
+Extr askri,Hiorth,Undirected,1
+Extr askri,ve,Undirected,1
+Delphin,ve,Undirected,1
+Alfred,Papa,Undirected,3
+Daniel,Papa,Undirected,1
+Alfred,ivold,Undirected,1
+Anders den Almægtige,Hiorth,Undirected,1
+Hiorth,f	,Undirected,1
+Delphin,Mo,Undirected,1
+Mo,Mortensen,Undirected,3
+Anders Mo,Mortensen,Undirected,2
+Anders Mo,Bennechen,Undirected,2
+Bennechen,Mo,Undirected,1
+Anders,Kristine,Undirected,10
+Anders,Farbror,Undirected,3
+Alfred,Kristine,Undirected,5
+Alfred,sorn,Undirected,1
+Bennechen,Falck-Olsen,Undirected,5
+Falck-Olsen,Georg Delphin,Undirected,2
+Georg Delphin,Olsen,Undirected,1
+Johan,Ole,Undirected,1
+Johan,Louise,Undirected,1
+Louise,Sofie,Undirected,3
+Delphin,Sofie,Undirected,1
+Delphin,Louise,Undirected,1
+Caroline Hjelm,Louise,Undirected,4
+Bennechen,Hiorth,Undirected,2
+Hilda Bennechen,Hiorth,Undirected,1
+Delphin,Falck-Olsen,Undirected,1
+Falck-Olsen,Hiorth,Undirected,1
+Hilda Bennechen,Louise,Undirected,1
+Daniel,Lind,Undirected,1
+Hans,Louise,Undirected,3
+Louise,Smith,Undirected,1
+Caroline,Caroline Hjelm,Undirected,1
+Caroline,Hans,Undirected,3
+Caroline,Louise,Undirected,4
+Bennechen,Delphin,Undirected,2
+Alfred,Konsul Lind,Undirected,1
+Alfred,Johan,Undirected,8
+Alfred ’,Hiorth,Undirected,2
+Alfred,Hansen,Undirected,1
+Asperges,Hans,Undirected,1
+Asperges,Smith,Undirected,1
+Jonas,Skaal,Undirected,1
+L. Kielland,Smith,Undirected,1
+Caroline Hjelm,Smith,Undirected,1
+Caroline Hjelm,Hansen,Undirected,1
+Hansen,Smith,Undirected,1
+Delphin,Sofie Falck-Olsen,Undirected,1
+Alfred Bennechen,Delphin,Undirected,1
+Alfred Bennechen,Jonas Hiorth,Undirected,1
+Hiorth,Louise,Undirected,1
+Hiorth,Sofie,Undirected,4
+Sandsgaard,Studen,Undirected,2
+Anders,Studen,Undirected,1
+Anders,per Exemplo Amalie,Undirected,1
+Anders,Farbror-,Undirected,1
+Farbror,Kristine,Undirected,3
+Bennechen,Kristine,Undirected,3
+Alfred,Hilda,Undirected,4
+Hilda,Johan,Undirected,9
+FalckOlsen,sint,Undirected,1
+Malla Bimbam,Mo,Undirected,1
+Ma- dam Gluncke,strængt,Undirected,1
+Delphin,Hansen,Undirected,1
+Mo,j,Undirected,1
+Anders,Delphin,Undirected,1
+Alfred,Eriksen,Undirected,1
+Hilda,Kristine,Undirected,8
+Kristine,Mamma,Undirected,1
+Hilda,Mamma,Undirected,1
+Johan,Mamma,Undirected,1
+Anr ders,Farbror,Undirected,1
+Anr ders,Hilda,Undirected,1
+Kristine,iveien,Undirected,1
+Farbroder Anders,Gud,Undirected,1
+Hilda Bennechen,Kristine,Undirected,2
+Alexander L. Kielland,Sofie Falck-Olsen,Undirected,1
+Delphin,Hilda,Undirected,2
+Louise,Mamma,Undirected,1
+Caroline,Delphin,Undirected,1
+Delphin,Hiorth,Undirected,2
+Hilda,Sofie,Undirected,1
+Alfred,Jonas Hiorth,Undirected,1
+Johan,Kristine,Undirected,7
+Alfred,Sofie,Undirected,1
+Kristine,Sofie,Undirected,2
+Alfred,Mamma,Undirected,1
+Adelaide,Johan,Undirected,3
+Johan Bennechen,Kristine,Undirected,1
+Adelaide,Alexander L. Kielland,Undirected,1
+Bismarck,Stadtrath Schulze aus Berlin,Undirected,1
+Anders Mo,Kristine Vatnemo,Undirected,1
+Andersen,Knudsen,Undirected,5
+Knoff,Lunde,Undirected,1
+Andersen,Lunde,Undirected,1
+Andersen,Madame Griiner,Undirected,1
+Kristine“,Nielsen,Undirected,1
+Frøken Nielsen,Mortensen,Undirected,2
+Knoff,Madam Gluncke,Undirected,3
+Lunde,Madam Gluncke,Undirected,1
+Lunde,Madam Paalsen,Undirected,1
+Andersen,Madam Paalsen,Undirected,1
+Andersen,Madam Grüner,Undirected,1
+Madam Grüner,Madam Lunde,Undirected,1
+Frøken Eveline,Madam Gluncke,Undirected,1
+Frøken Eveline,Lunde,Undirected,1
+Grüner,adame,Undirected,1
+Kristine,Mortensen,Undirected,1
+Gud,Madame Gluncke,Undirected,1
+Gud,Kristine,Undirected,2
+Abraham,Sara —,Undirected,1
+Isak,Sara —,Undirected,1
+Isak,Rebekka,Undirected,1
+Jacob,Rebekka,Undirected,1
+David,Jacob,Undirected,1
+David,Salomo,Undirected,1
+Frøken Eveline,Kristine,Undirected,1
+Frøken Eveline,Mortensen,Undirected,1
+Madame Knoff,Malla Bimbam,Undirected,2
+Knudsen,Malla Bimbam,Undirected,1
+Madam Gluncke,Mortensen,Undirected,3
+Kristine,Madam Gluncke,Undirected,2
+Knudsen,Madame,Undirected,1
+Knudsen,Madam,Undirected,1
+. Høiesterets%,Paalsen,Undirected,1
+Kristine,Lunde,Undirected,1
+Lunde,Mortensen,Undirected,1
+Lunde,plent,Undirected,1
+Madam Gluncke,plent,Undirected,1
+Andersen,Knoff,Undirected,1
+Knudsen,Madame Grüner,Undirected,1
+Mortensen,Støien,Undirected,1
+Justitiarius,Støien,Undirected,1
+Madam Gluncke,Paalsen,Undirected,1
+Madame Grüner,Madame Knoff,Undirected,1
+Andersen,Frøken Nielsen,Undirected,1
+Andersen,Knussen,Undirected,1
+Bennechen,Falbe,Undirected,1
+Daniel,Ole Johan,Undirected,1
+Adelaide,Kjøkkenstøi,Undirected,1
+Kjøkkenstøi,iland,Undirected,1
+Konsul Lind,Ole Johan,Undirected,1
+Malene,Salomo,Undirected,1
+Gud,gjennemvaad,Undirected,1
+Daniel,Hilda,Undirected,1
+Mam Olsen,Mortpnsen,Undirected,1
+Garman,Grefsen,Undirected,1
+Alfred,Grefsen,Undirected,1
+Kristine,iro,Undirected,1
+Anders Mo,Seehus vexlede,Undirected,1
+Hilda,Johan Bennechen,Undirected,1
+Alexander L. Kielland,Hilda,Undirected,1
+Kristine,Rohde,Undirected,2
+Johan Bennechen,Rohde,Undirected,2
+Johan,Rohde,Undirected,1
+Anders,Johan,Undirected,1
+Anders,Bennechen,Undirected,1
+Kristine,Lauritz B. Seehus,Undirected,1
+Sjø,iland,Undirected,1
+Njædel,Seehus,Undirected,1
+Kristine,Lauritz Boldeman Seehus,Undirected,1
+Misstress Johnson,Søren Børevig,Undirected,1
+Misstress Johnson,Søren smaalo,Undirected,1
+Ane,Misstress Johnson,Undirected,1
+Alidt,Kristine,Undirected,1
+Njædel,hans,Undirected,1
+Bennechen,Johan,Undirected,2
+Georg,Gott,Undirected,1
+Gott,Madame Børresen,Undirected,1
+Johan Bennechen,Mo,Undirected,1
+Alexander L. Kielland,Johan Bennechen,Undirected,2
+Johan,Johan Bennechen,Undirected,1
+Mo,s,Undirected,1
+Kristine,s,Undirected,1
+Hilda,Stakkel,Undirected,2
+Alistro,Njædel,Undirected,1
+Njædel,iland,Undirected,1
+Anders Mo,Anders —,Undirected,1
+Georg Delphin,Kopist Mortensen,Undirected,1
+Kopist Mortensen,Njædel,Undirected,1
+Kopist Mortensen,Mortensen,Undirected,1
+Seehus,vivil,Undirected,1
+Alexander L. Kielland,Alfred,Undirected,1
+Delphin,Frøken Hilda,Undirected,1
+Adelaide,Rohde,Undirected,1
+Delphin,Mortensen,Undirected,3
+Delphin,strængt,Undirected,1
+Anders,Mo,Undirected,1
+Anders,Kopist Mortensen,Undirected,1
+Mortensen,Njædel,Undirected,1
+Hiorth,Wartburg,Undirected,1
+Daniel,Delphin,Undirected,1
+Alexander L. Kielland,Bennechen,Undirected,1
+Falbe,Hiorth,Undirected,2
+Hiorth,Kopist Mortensen,Undirected,1
+Hilda,Kopist Mortensen,Undirected,1
+Bennechen,idethan,Undirected,1
+Georg Delphin,Hilda,Undirected,1
+Knudsen,Kristine,Undirected,1
+Carl Johans Gade,Knudsen,Undirected,1
+Bennechen,Njædel,Undirected,2
+Alor,Anders,Undirected,2
+Carl Johans,Falck-Olsen,Undirected,1
+Njædel,Sjouer,Undirected,1
+Alfred,Bennechen,Undirected,1
+Johan Bennechen,Kaien,Undirected,1
+Johan,Stewarten,Undirected,1
+Bennechen,Stewarten,Undirected,1
+Johan Bennechen,Stewarten,Undirected,1
+Gud,Ole Johan,Undirected,1
+Caroline Hjelm,Falck-Olsen,Undirected,1
+Louise,Papa,Undirected,1
+Lord,Papa,Undirected,1
+Hans,Louise Falck-Olsen,Undirected,1
+Bennechen,Mortensen,Undirected,1
+Madame Glunck,Mortensen,Undirected,1
+Bennechen,Madame Gluncke,Undirected,1
+Alonarch,Gud,Undirected,1
+Hansen,Ørseth,Undirected,1

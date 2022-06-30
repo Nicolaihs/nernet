@@ -1,0 +1,350 @@
+source,target,type,weight
+Albrecht,Hr. Albrecht,Undirected,2
+Kapellan pro loco,L’,Undirected,1
+L’,Peder Plades,Undirected,1
+Egernskjold,Vilhelm,Undirected,1
+Greves,Vilhelm,Undirected,1
+Calderon,theol. Jespersen,Undirected,2
+Calderon,Heibergs,Undirected,1
+Heibergs,Karl Albrecht,Undirected,1
+Albrecht,Jespersens,Undirected,1
+Jespersens,Profeten,Undirected,1
+Jespersen,Per Degns,Undirected,1
+Per Degns,Rasmus Berg,Undirected,1
+Jespersen,Rasmus Berg,Undirected,1
+Jespersen,Pauli,Undirected,1
+Albrecht,Aline,Undirected,1
+Aline,Gottliebsen,Undirected,1
+Gottliebsen,blaa,Undirected,1
+blaa,von,Undirected,1
+Griinow,von,Undirected,1
+Pastor Jespersens,dito,Undirected,1
+Komtessen,dito,Undirected,1
+Guds,Vilhelm,Undirected,1
+Guds,Jespersen,Undirected,1
+Jespersen,kleines,Undirected,1
+Clausens,Jespersen,Undirected,1
+Clausens,an,Undirected,1
+Grevens,Komtessen,Undirected,1
+General Bilbach,Grevens,Undirected,1
+Bilbach,General Bilbach,Undirected,1
+Lehnsgreve Egærnskjold,dito Fipskjæg,Undirected,1
+Richard,o mon roi,Undirected,1
+o mon roi,uinivers,Undirected,1
+abandonne,uinivers,Undirected,1
+Greven,Magnus,Undirected,5
+Jespersen,Magnus,Undirected,1
+Pastor Jespersen,Vilhelm,Undirected,2
+Albrecht,Jespersen,Undirected,49
+Albrecht,Kand,Undirected,1
+,Jespersen,Undirected,2
+Jespersen,iRepliken,Undirected,1
+Jokumsen,iRepliken,Undirected,1
+Albrecht,Atlaskes,Undirected,2
+Albrecht,Grev Egernskjolds,Undirected,4
+Grev Egernskjolds,Kusk,Undirected,1
+Albrecht,Kusk,Undirected,1
+Grev Egernskjolds,Povl,Undirected,1
+Grev Egernskjolds,Povl Kusk,Undirected,1
+Bilbach,Jere,Undirected,1
+Bilbach,Gud,Undirected,1
+Gud,Per Jørgen,Undirected,1
+Albrecht,Povl,Undirected,3
+Albrecht,Povl Kusk,Undirected,3
+Mosekjærs,Povl Kusk,Undirected,1
+Povl,Povl Kusk,Undirected,3
+Albrecht,Gottliebsen,Undirected,4
+Albrecht,Komtessen,Undirected,16
+Hr. Albrecht,Vilhelm,Undirected,3
+Albrecht,chantants,Undirected,1
+Jespersen,Vilhelm,Undirected,1
+Povl Kusk,Vilhelm,Undirected,3
+Povl,Rasmus,Undirected,8
+Marie,Rasmus,Undirected,1
+Rasmus,lieber Augustin,Undirected,1
+Povl Kusk,Stamheire,Undirected,1
+Povl,Vilhelm,Undirected,4
+Rasmus,Vilhelm,Undirected,1
+Jespersen,Povl Kusk,Undirected,1
+Jespersen,Povl,Undirected,1
+Kristian Gottliebsen,Povl Kusk,Undirected,1
+Albrecht,Vilhelm,Undirected,5
+Aline,Komtesse Alvildas,Undirected,1
+Aline,Komtessen,Undirected,1
+Jespersen,Komtessen,Undirected,1
+Jespersen,kjære Albrecht,Undirected,1
+Albrecht,Dr. Pelt,Undirected,2
+Albrecht,la Kristian IV,Undirected,1
+Albek,Greven,Undirected,1
+Albrecht,Greven,Undirected,5
+Albrecht,Magnus,Undirected,1
+Albrecht,Bock,Undirected,2
+Albrecht,guerre,Undirected,1
+Albrecht,Billard,Undirected,4
+Albrecht,Frederik den,Undirected,2
+Albrecht,Peu,Undirected,1
+Peu,peu,Undirected,1
+Albrecht,Aled,Undirected,1
+Albrecht,Alin,Undirected,1
+Greve skulde,Povl Kusk,Undirected,1
+Albrecht,Komtesse Alvilda,Undirected,3
+Albrecht,Galilei,Undirected,1
+Eppurc,Galilei,Undirected,1
+Jespersen,Komtesse Alvilda,Undirected,3
+Albrecht,Voltaire,Undirected,1
+Heine,Voltaire,Undirected,2
+Gud,Jespersen,Undirected,2
+Cajus,Jespersen,Undirected,1
+Albrecht,Alvilda,Undirected,23
+Bravo,Jespersen,Undirected,1
+Hr Albrecht,Jespersen,Undirected,1
+Alvilda,Jespersen,Undirected,2
+Hr. Albrecht,Pastor Jespersen,Undirected,2
+Alvilda,Gud,Undirected,3
+Alvilda,Pastor Jespersen,Undirected,2
+Bilbach,G-riinow,Undirected,1
+Bilbach,Hr. Albrecht,Undirected,1
+Tys,lille Alvilda,Undirected,1
+Bilbach,Tys,Undirected,1
+Greven,Jespersen,Undirected,1
+Greve,Jespersen,Undirected,1
+Greven,Pastor,Undirected,1
+Jespersen,Satanas,Undirected,1
+Gottliebsen,Magnus,Undirected,1
+Gottliebsen,Greven,Undirected,1
+Billard,Karl,Undirected,1
+Billard,Vilhelm,Undirected,1
+Charlot,Vilhelm,Undirected,1
+Alvilda,Charlot,Undirected,4
+Alvilda,Greven,Undirected,3
+Alagnus,Hellmuth,Undirected,1
+Alagnus,Aled,Undirected,1
+Aled,Greven,Undirected,1
+Folmer,Luthen,Undirected,1
+Finne,Luthen,Undirected,1
+Alaven,Albrecht,Undirected,1
+Albrecht,Gud,Undirected,1
+Albrecht,sigtil,Undirected,1
+Toddy,sigtil,Undirected,1
+Albrecht,Alvildas Skaal,Undirected,1
+Bellman,Gud,Undirected,1
+Albrecht,Christian Winthers,Undirected,1
+Alvilda,Christian Winthers,Undirected,1
+Albrecht,Mathedens,Undirected,1
+Jespersen,Mathedens,Undirected,1
+Grev Egernskjolds,Jespersen,Undirected,1
+Josefine,Rasmus,Undirected,1
+Albertine,Josefine,Undirected,2
+Albrecht,lille,Undirected,1
+Albrecht,Jupiter,Undirected,2
+Albrecht,Billardstuen,Undirected,1
+Charlot,Magnus,Undirected,2
+Rafael,Voltaire,Undirected,1
+Rousseau,Voltaire,Undirected,1
+Hellmuth,oublies,Undirected,1
+Alama,Hellmuth,Undirected,1
+Alen,Jespersen,Undirected,1
+Albrecht,Konstantin den,Undirected,1
+De Heines,Heine,Undirected,1
+Ach,grosz,Undirected,1
+Jetzo,ausgewachsen,Undirected,1
+ausgewachsen,viel gelesen,Undirected,1
+viel gelesen,viel gereist,Undirected,1
+schwillt mein Herz,viel gereist,Undirected,1
+ganz,schwillt mein Herz,Undirected,1
+erneut das alte Recht,heilt,Undirected,1
+erneut das alte Recht,gleich geboren,Undirected,1
+Hellmuth,Papa,Undirected,2
+Albrecht,Don,Undirected,1
+Don,Juan,Undirected,1
+Albrecht,Flan,Undirected,1
+Albrecht,Candidatus philosophiæ,Undirected,1
+Albrecht,Michael Wiehe,Undirected,1
+Albrecht,Susen,Undirected,2
+Elendes,Komtessen,Undirected,1
+Albrecht,Elendes,Undirected,1
+Alvilda,Komtessen,Undirected,3
+Jeff,Jespersen,Undirected,1
+Jespersen,lille Maren,Undirected,1
+Jøsses,Per,Undirected,1
+Jespersen,j,Undirected,1
+brechts,germus,Undirected,1
+Uhret,germus,Undirected,1
+Jespersen,Odyssevs,Undirected,1
+Albrecht,Odyssevs,Undirected,1
+Jespersen,Karl,Undirected,1
+Alaven,Jeppes,Undirected,1
+Heine,Jespersen,Undirected,1
+Albrecht,Heine,Undirected,3
+Albrecht,vildas,Undirected,1
+Jespersen,vildas,Undirected,1
+Magnus,Povl,Undirected,1
+Egernskjold,Schenkendorf,Undirected,1
+' Lungelse,Egernskjold,Undirected,1
+' Lungelse,Lehnsbesidders,Undirected,1
+Charlot,Lehnsbesidders,Undirected,1
+Charlot,Egernskjold,Undirected,1
+Egernskjold,Schenkendort,Undirected,1
+Magnus,Schenkendort,Undirected,1
+Lehnsbaron,Magnus,Undirected,1
+Kachemirs,v. Schenkendorf,Undirected,1
+Kachemirs,Mutterwitz,Undirected,1
+Aland,Egernskjold,Undirected,1
+Alvilda,Lafontaine,Undirected,1
+Alvilda,Lieutenanten,Undirected,1
+Charlot,Greven,Undirected,2
+Alvilda,Bilbach,Undirected,3
+Komtessen,Schenkendorf,Undirected,1
+Komtesse Egernskjold,Schenkendorf,Undirected,1
+Goethes,Komtesse Egernskjold,Undirected,1
+Goethes,Riickerts,Undirected,1
+Heine,Riickerts,Undirected,1
+Alvilda,Voltaire,Undirected,1
+Alvilda,Egernskjold,Undirected,3
+Bilbach,Egernskjold,Undirected,1
+Egernskjold,Greven,Undirected,1
+Heiberg,Holberg,Undirected,1
+Heiberg,Henrik Hertz,Undirected,1
+Albrecht,Holberg,Undirected,1
+Griffenfeld,Hellmuth,Undirected,1
+Gud,Komtessen,Undirected,1
+Charlot,Mariage,Undirected,1
+Gottliebsen,Mariage,Undirected,1
+Greven,Hellmuth,Undirected,5
+Komtessen,Mama,Undirected,1
+Alvilda,Hr Albrecht,Undirected,1
+Husr,Papa,Undirected,1
+Husr,Povl Kusk,Undirected,1
+Gottliebsen,Povl Kusk,Undirected,1
+Hellmuth,Mama,Undirected,2
+Alvilda,Vilhelm,Undirected,1
+Gud,Vilhelm,Undirected,1
+Albrecht,Albrechts'Straahat,Undirected,2
+Albrecht,Grev Vilhelm,Undirected,1
+Kristoffer,Povl Kusk,Undirected,1
+Egernskjold,Kristoffer,Undirected,1
+Kristoffer Povl,Povl,Undirected,1
+Kristoffer,Povl,Undirected,8
+Komtessen,Povl,Undirected,1
+Komtessen,Kristoffer,Undirected,1
+Povl,Rasmus Staldkarl,Undirected,3
+Povl,dito,Undirected,1
+Alvilda,Povl,Undirected,1
+Søndergaard,Trine,Undirected,1
+Karl,Trine,Undirected,1
+Alvilda,Kristoffer,Undirected,1
+Hellmuth,Jeff,Undirected,1
+Julies,Romeo,Undirected,1
+Albrecht,Romeo,Undirected,1
+Alvilda,Braad,Undirected,1
+Alvilda,Graad,Undirected,1
+Alvilda,Hr. Albrecht,Undirected,2
+Alvilda,Grandtante Schenkendorf,Undirected,1
+Alvilda,Folmer,Undirected,1
+Alave,Greven,Undirected,1
+Komtessen,Vilhelm,Undirected,1
+Niels Rideknægt,Vilhelm,Undirected,1
+Komtessen,Niels Rideknægt,Undirected,1
+Kittel,Komtessen,Undirected,1
+Grev Vilhelm,Kittel,Undirected,1
+,Frederik VII,Undirected,1
+Komtessen,Niels,Undirected,2
+Mama,Moders,Undirected,1
+Grevinde Danner,Otto Egernskjold,Undirected,1
+Grevinde Danner,Otto,Undirected,1
+Magnus,Otto,Undirected,2
+Lehnsbesidder,Otto Egernskjold,Undirected,1
+Evropas,Lehnsbesidder,Undirected,1
+Orla Lehmann,Otto,Undirected,1
+Jensen,Otto,Undirected,1
+Hansen,Jensen,Undirected,1
+Hansen,Nielsen,Undirected,1
+Nielsen,Olsen,Undirected,1
+Cartouche,Olsen,Undirected,1
+Albrecht,Egernskjold,Undirected,3
+Holm,Magnus Egernskjolds,Undirected,1
+Holm,Otto,Undirected,4
+Frederik den,Otto,Undirected,1
+Frederik den,Holm,Undirected,1
+Otto,Otto Holm,Undirected,3
+Alvilda,Otto Holm,Undirected,3
+Alvilda,Otto,Undirected,11
+Heine,Otto Holm,Undirected,1
+Alvilda,lille Holst,Undirected,1
+Albrecht,lille Holst,Undirected,1
+Albrecht,Holm,Undirected,2
+Alvilda,Holm,Undirected,1
+Grandonkel,Klausen,Undirected,1
+Egernskjold,Klausen,Undirected,1
+Albrecht,Otto,Undirected,9
+Albrecht,Otto Holm,Undirected,5
+Albrecht,Alen,Undirected,1
+Alen,Otto,Undirected,1
+Charlot,Otto,Undirected,1
+Hr. Albrecht,Otto,Undirected,2
+Komtessen,Otto,Undirected,5
+Andersen,Hauch,Undirected,1
+Aladdin,Mystos,Undirected,1
+Mystos,Nureddin,Undirected,1
+Aladdin,Otto,Undirected,1
+Aladdin,Gud,Undirected,1
+Gud,Oehlenschlåger for,Undirected,1
+Aladdin,Oehlenschlåger for,Undirected,1
+Aladdin,aladdiniseret,Undirected,1
+Albrecht,Dickens,Undirected,1
+Albrecht,Grevindens,Undirected,1
+Lehnsgreve Egernskjold,Svend,Undirected,1
+Niels Rideknægt,Povl,Undirected,2
+Egernskjold,Lehnsgreven,Undirected,1
+Komtessen,Lehnsgreven,Undirected,1
+Komtessen,vulgus,Undirected,1
+Albrecht,vulgus,Undirected,1
+Gottliebsen,Otto Holm,Undirected,1
+Gottliebsen,a discrétion,Undirected,1
+Gottlie.bsens,a discrétion,Undirected,1
+Gottlie.bsens,Gottliebsen,Undirected,1
+Gottliebsen,Otto Egernskjold,Undirected,1
+Alvilda,Gottliebsen,Undirected,1
+Kniplings,Lehnsbesidder,Undirected,1
+Frederik VI.s,Lehnsbesidder,Undirected,1
+Egernskjold,Otto Holm,Undirected,1
+Hamlet,Otto,Undirected,1
+Hamlet,Polonius,Undirected,1
+Alan,Otto,Undirected,1
+Greven,Otto,Undirected,4
+Alvilda,Jeppe,Undirected,1
+Greve,Gud,Undirected,1
+Jakobsen,Obos,Undirected,1
+Alan,Gud,Undirected,1
+Alvilda,Jm,Undirected,1
+Lars Persen,Søren Madsen,Undirected,1
+Otto,Vilhelm,Undirected,1
+Egernskjold,Otto,Undirected,2
+Bilbach,Otto,Undirected,1
+Hellmuth,Otto,Undirected,1
+Albrecht,Tyendes,Undirected,1
+Alvilda,Tyendes,Undirected,1
+Alvilda,Bas,Undirected,1
+Alvilda,Lehnsgreve Egernskjold,Undirected,1
+Komtessen,Lehnsgreve Egernskjold,Undirected,1
+Gud,Troubadour,Undirected,1
+Delorges,Kunigunde,Undirected,1
+Albrecht,Lehnsgreven,Undirected,1
+Herman v. Bremenfeldt,Jeff,Undirected,1
+Jeff,Jens Skovfoged,Undirected,1
+Alvilda,Magnus,Undirected,1
+Grev Vilhelm,Rasmus Staldkarl,Undirected,1
+Orne,Povl,Undirected,1
+Karl Albrecht,Sirtses,Undirected,1
+Servanten,Sirtses,Undirected,1
+Albrecht,Servanten,Undirected,1
+Albrecht,Elan,Undirected,1
+Elan,Sirtses,Undirected,1
+Hr. Holm,Komtesse Egernskjold,Undirected,1
+Hr. Holm,kjære Albrecht,Undirected,2
+Maren,Mariane,Undirected,1
+Hr. Holm,Mariane,Undirected,1
+Hr. Holm,Vilhelm,Undirected,1
+Otto Egernskjold,Vilhelm,Undirected,1
+August Jespersen,Otto Egernskjold,Undirected,1
+Jespersen,Otto Holm,Undirected,1

@@ -1,0 +1,385 @@
+source,target,type,weight
+Gud,Henry,Undirected,5
+Bernard,Henry,Undirected,15
+Bernard,nsi,Undirected,1
+Bernard,LEtling,Undirected,1
+Bernard,Dolken,Undirected,2
+Bernard,s,Undirected,1
+Bernard,Ina,Undirected,7
+Haan,cke Bclleville,Undirected,1
+Haan,Ina,Undirected,1
+Bianka,Ina,Undirected,9
+,Vanciers,Undirected,1
+,Bernard,Undirected,1
+Marquis <,l? Belleville,Undirected,1
+Bianka,Louis,Undirected,10
+Bianka,ester,Undirected,2
+Bianka,Line,Undirected,3
+Louis,Vanciers,Undirected,3
+Bianka,Nine,Undirected,1
+Gud,Louis,Undirected,2
+Lin,Line vg,Undirected,1
+Danren,Mimi,Undirected,1
+Sir Buttli,faaledcs,Undirected,1
+Dn,Henry,Undirected,1
+Henry,Mimi,Undirected,7
+Henry,Nancy,Undirected,19
+Henry,Tu,Undirected,1
+Mimi,Nancy,Undirected,7
+Line,Nancy,Undirected,2
+Henry,Sir Buttli,Undirected,28
+Henrv,Nancy,Undirected,1
+Buttli,Henry,Undirected,4
+Henry,Napoleon,Undirected,1
+Henry,Marquis cis Belleville,Undirected,1
+Miss Nancy,Sir Buttli,Undirected,1
+Bnttli,Rancys,Undirected,1
+Bnttli,Henrv,Undirected,1
+Miss Rancys,vg lo,Undirected,1
+Henry,Lir Bnttli,Undirected,1
+Jdetsainme,Sir Buttli,Undirected,1
+Lonis,SirBnttli,Undirected,1
+Frøken Belleville,Sir Buttli,Undirected,1
+Sir Buttli,Tu,Undirected,1
+Lonis,Tu,Undirected,1
+Belleville,Bianka,Undirected,1
+Bianka,Lonis kjørfe,Undirected,1
+Bianka,slille,Undirected,1
+Lonis,slille,Undirected,1
+Lonis,taus,Undirected,1
+Bianka,Lonis,Undirected,3
+,Lonis,Undirected,2
+Bianka,bende,Undirected,1
+Bianka,uran,Undirected,1
+Huil,uran,Undirected,1
+Bianka,soer,Undirected,2
+soer,vg,Undirected,1
+Bianka,Semme,Undirected,1
+Bernard,Bianka,Undirected,19
+Bianka,Louis ' Baand,Undirected,1
+Louis ' Baand,Sir Buttli,Undirected,1
+Louis,Sir Buttli,Undirected,21
+,Louis,Undirected,3
+Nancy,Sir Buttli,Undirected,6
+Henry,Louis,Undirected,12
+Mimi,ester,Undirected,1
+Nancy,ester,Undirected,3
+Been,Mimi,Undirected,1
+Sir Buttli,ester,Undirected,5
+Ina,sor,Undirected,1
+Marquis cis Belleville,Michel,Undirected,1
+Ina,Marquis cis Belleville,Undirected,1
+Ina,Michel,Undirected,6
+Dands,Ina,Undirected,1
+Ina,Marquisen,Undirected,5
+Gud,Ina,Undirected,6
+Ina,Vanciers,Undirected,4
+Marquise cis Belleville,Vanciers,Undirected,1
+Marquisen,Vanciers,Undirected,2
+Bianka,Marquis,Undirected,3
+Belleville,Marquis,Undirected,1
+Belleville,Bernard,Undirected,1
+Bernard,Gud,Undirected,1
+Bernard,Sir Buttli,Undirected,6
+Bernard,Hurr,Undirected,1
+Bernard,masske,Undirected,1
+Frøken Bianka,Marquis,Undirected,1
+Michel,Sir Buttli,Undirected,1
+Michel,ester,Undirected,1
+Buttli,Frøken Bianka,Undirected,1
+Bianka,Michel,Undirected,3
+Bianka,fende,Undirected,1
+Frøken Bianka,Michel,Undirected,1
+Harr,Michel,Undirected,1
+Bernard,Harr,Undirected,1
+Bianka,Marquisen,Undirected,9
+Henry,Ina,Undirected,24
+Bernard,Vanciers,Undirected,1
+Ina,geg,Undirected,1
+Bianka,geg,Undirected,1
+Bianka,Gud,Undirected,2
+Gud,arn,Undirected,1
+Bianka,Neppe,Undirected,1
+slal,Øe,Undirected,1
+Frøken Belleville,slal,Undirected,1
+Bernard,Michel,Undirected,2
+Marquis,Michel,Undirected,1
+Marquis,Marquisen,Undirected,1
+Line,Marquisen,Undirected,1
+Ina,oni,Undirected,1
+Dedsleie,Marquien,Undirected,1
+Franciska,Ina,Undirected,1
+Marquien,Marquisen,Undirected,4
+Ina,Marquien,Undirected,3
+Ina,Line,Undirected,2
+Franciska,Marquisen,Undirected,1
+Bianka,Meil,Undirected,1
+Ina,hnn,Undirected,2
+Villie,har,Undirected,1
+Michel,Vanciers,Undirected,2
+Michel,stig,Undirected,1
+Gud,stig,Undirected,1
+Ina,Marquis,Undirected,1
+Line,Marquifens,Undirected,1
+Marquis,ester den,Undirected,1
+Vanciers,ester den,Undirected,1
+Bianka,Ina Lvon,Undirected,1
+Louis,Mimi,Undirected,1
+Buttli ene,Mimi,Undirected,1
+Louis,Nancy,Undirected,1
+Marquis,Nancy,Undirected,2
+Amelie,Marquis äs,Undirected,1
+Belleville,Marquis äs,Undirected,1
+Belleville,Henry,Undirected,1
+Armedis,Henry,Undirected,1
+Amelie,Marquis,Undirected,4
+Frøken Amelie,Henry,Undirected,1
+Henry,Line,Undirected,4
+Henry,Marquis,Undirected,2
+enkj,fom Henry,Undirected,1
+Henry,soer,Undirected,3
+Buttli,John,Undirected,1
+Henry,John,Undirected,2
+Henry,Sir Buttly,Undirected,1
+John,Sir Buttli,Undirected,1
+Nancy,Øe,Undirected,1
+John,Øe,Undirected,1
+Sir Buttli,Øe,Undirected,1
+Henry,hans Been,Undirected,2
+,Marquis,Undirected,1
+Henry,Kudflen,Undirected,1
+Frøken Bianka,Marquisen,Undirected,1
+Bianka soer,Marquisen,Undirected,1
+Bianka,Marquien,Undirected,5
+Marquien,sfal,Undirected,1
+Marquisen,soer,Undirected,1
+Line,ester,Undirected,1
+Vinding,ester,Undirected,1
+Jil,Marquisen,Undirected,1
+Lienlaag,Marquisen,Undirected,1
+Line,Marquien,Undirected,1
+Franciska,felv,Undirected,1
+Bianka,felv,Undirected,1
+Bianka,Franciska,Undirected,1
+Franciska,Marquien,Undirected,2
+Marquien,Obersf Vanciers,Undirected,1
+Jsidor,Marquisen,Undirected,1
+Marquien,taus,Undirected,1
+Bottwell,Vinding,Undirected,1
+Bottwell,Louis,Undirected,2
+Bottwell,Loius,Undirected,1
+Bottwell,Sir Buttli,Undirected,1
+Buttli,jhun,Undirected,1
+Louis,kim,Undirected,1
+ester,hans Begjæring,Undirected,1
+Nancy,soer,Undirected,1
+James,Nancy,Undirected,11
+Nancy,merel,Undirected,1
+Clarendovn,Nancy,Undirected,1
+Gud,Nancy,Undirected,2
+Bianka,Karin,Undirected,1
+Karin,Marquisen,Undirected,3
+Marquisen,hnn,Undirected,1
+Bianka,hnn,Undirected,3
+Karin,hnn,Undirected,1
+Karin,Marquien,Undirected,1
+Bianka,Karin ester,Undirected,1
+Karin ester,Marquien,Undirected,1
+Marquisen,Vinding,Undirected,1
+Vinding,soer Marquisen,Undirected,1
+Marquisen,Seiren,Undirected,1
+Louis,helsf,Undirected,1
+Louis,soer,Undirected,2
+Danren,Louis,Undirected,1
+Dn,Ina,Undirected,1
+Bianka,Buttli,Undirected,1
+Buttli,Marquise,Undirected,1
+Atlask,Marquise,Undirected,1
+Bottwell,Dalter,Undirected,1
+Dalter,Marquisen,Undirected,1
+Frnen,Sir Bottwell,Undirected,1
+Marquisen,dein,Undirected,1
+Buttli,Marquisen,Undirected,3
+Bianka,Vanciers,Undirected,2
+Frøken Bianka,Vanciers,Undirected,1
+Bianka,Frøken Bianka,Undirected,1
+Bianka,Dn,Undirected,1
+Bianka,j Marquien,Undirected,1
+Ina,Nancy,Undirected,21
+Ina,James,Undirected,1
+Ester,Nancy,Undirected,1
+Clarendovn,Frøken <,Undirected,1
+Ina,Marquis <,Undirected,1
+Ina,udbrødMancy,Undirected,1
+Dn,Nancy,Undirected,2
+Nancy,Nieblik James,Undirected,1
+James,ester,Undirected,1
+Frøken Clarendovn,Nancy,Undirected,1
+Misfaura,Vanciers,Undirected,1
+Ninene,nran,Undirected,1
+Line,Missaura,Undirected,1
+Madame,Missaura,Undirected,1
+Missaura,Obersfen,Undirected,1
+Bianka,Obersfen,Undirected,1
+Bianka,Herrens,Undirected,1
+Bianka,dot,Undirected,1
+Fernando,ester,Undirected,2
+Gud,Missaura,Undirected,1
+Bianka,Maafke,Undirected,1
+Moders,Sir Bottwell,Undirected,1
+Fader,Henry,Undirected,1
+Fader,ban,Undirected,1
+Bianka,Henry,Undirected,3
+Bernard,Fader,Undirected,1
+Bianka,Fader,Undirected,1
+Anrelie,Henry,Undirected,2
+Bianka,j,Undirected,2
+Bernard,reisfe,Undirected,1
+Bianka,tans,Undirected,1
+Missaura,Nine,Undirected,1
+Herr Marquis,Missaura,Undirected,1
+Ester,Missaura,Undirected,1
+Frants,stig,Undirected,1
+Bianka,jonr,Undirected,1
+ester,jonr,Undirected,1
+Bernard,maasfe,Undirected,1
+Bernard,Misaura,Undirected,1
+Oberftindes,ester,Undirected,1
+Damæ,Missaura,Undirected,1
+Fernando,Missaura,Undirected,1
+Missanra,nied,Undirected,1
+Missaura,sg,Undirected,1
+Missaura,maasfe,Undirected,1
+ester,maasfe,Undirected,1
+Line,Obersfen,Undirected,1
+Dn,Line,Undirected,1
+Bianka,Missaura,Undirected,1
+Henry,Sir Bottwell,Undirected,1
+Gud,Jules,Undirected,1
+Henry,Jules,Undirected,1
+Sir Buttli,paasfaa,Undirected,1
+Henry,mumlckæ,Undirected,1
+Bien,Henry,Undirected,2
+Henry,ester,Undirected,4
+Marquis,Sir Buttli,Undirected,1
+Gud,eg,Undirected,1
+Gud,tastes,Undirected,1
+ester,tastes,Undirected,1
+Amelie,ester,Undirected,2
+Amelie,diu,Undirected,1
+Marguien,diu,Undirected,1
+Henry,Marguien,Undirected,1
+Bnttli reisfe,Henry,Undirected,1
+Louis,Lyon,Undirected,1
+Gud,Lyon,Undirected,1
+Marquis,Sir Bottwell,Undirected,1
+Bottwell,Sir Bottwell,Undirected,1
+Bottwell,Henry <,Undirected,1
+Buttli,Louis,Undirected,1
+Marquisen,Sir Buttli,Undirected,6
+Gud,Marquisen,Undirected,2
+Buttli,Marquien,Undirected,2
+Henry,Marquisen,Undirected,1
+Marquien,Sir Buttli,Undirected,2
+Amelie,Henry,Undirected,72
+Amelie,Sir Buttli,Undirected,3
+Ester,Sir Buttli,Undirected,1
+Amelie,Louis,Undirected,4
+Louis,fom,Undirected,1
+fom,staacndc,Undirected,1
+Henry,Len,Undirected,1
+Henry,Roes,Undirected,1
+Louis msd,Sir Buttli,Undirected,1
+Henry,Marquien,Undirected,1
+Karl,Sir Buttli,Undirected,1
+Bnttli,Marquisen,Undirected,1
+Gud,Sir Buttli høisf,Undirected,1
+Marquisen,Sir Bottwell,Undirected,1
+Marquifens,Sir Buttli,Undirected,1
+Sir Boltwell,Sir Buttli,Undirected,1
+Amelie reisfe,Henry,Undirected,1
+Hans,Henry,Undirected,1
+Amelie,Hans,Undirected,1
+Clarendown,Henry,Undirected,1
+Louis,Marquis,Undirected,4
+Line,Louis,Undirected,2
+Marquien,Nancy,Undirected,1
+Gud,Marquise,Undirected,1
+Louis,Marquise,Undirected,1
+Clarendown,Ina,Undirected,1
+Henry äs,Nancy,Undirected,1
+Ina,Ninene,Undirected,1
+Nancy,kjær,Undirected,1
+Ina,taus,Undirected,1
+Amelie,Ina,Undirected,29
+Amelie,paany,Undirected,1
+Ina,paany,Undirected,1
+Henry,taus,Undirected,1
+Amelie,taus,Undirected,1
+Ina,Louis,Undirected,6
+Belle,Louis,Undirected,1
+Henry,villes,Undirected,1
+Ina afsyne,Louis,Undirected,1
+Henry,Henry rasf,Undirected,1
+Amelie,Henry rasf,Undirected,1
+Louis,ester,Undirected,2
+Amelie,Ina Haandcn,Undirected,1
+Marquis,äsBellevilles,Undirected,1
+Mekasf,äsBellevilles,Undirected,1
+Lonis,Sir Buttli,Undirected,1
+Ina,Lonis,Undirected,1
+Amelie,Lonis,Undirected,1
+Line,soer assted,Undirected,1
+Henry —,ester,Undirected,1
+Ina,ester,Undirected,2
+Sir Bottwell,Sir Buttli,Undirected,1
+Liet,Louis,Undirected,1
+,Henry,Undirected,1
+Ester,Ina,Undirected,1
+Henry,chave,Undirected,2
+Anielie,Henry,Undirected,1
+Amelie,Loms,Undirected,1
+Amelie,hnn,Undirected,1
+Louis,Øe,Undirected,1
+Amclies,Louis,Undirected,2
+Amelie,Marquise,Undirected,1
+Henry,fhi Henry,Undirected,1
+Amelie,HendeLine,Undirected,1
+Ina,hveni,Undirected,1
+Line,ban,Undirected,1
+Amelie,ban,Undirected,1
+Henry,fro,Undirected,1
+Bernard,as,Undirected,1
+Ina,as,Undirected,1
+Ina,soer,Undirected,1
+Ina,ilaas,Undirected,1
+Nancy,lille Nancy,Undirected,1
+James,jæg,Undirected,1
+,James,Undirected,2
+James,Nancy ligbleg,Undirected,1
+Sir Buttli,sra,Undirected,1
+Buttli,soer,Undirected,1
+MarquienS,Sir Buttli,Undirected,1
+Henry,Vanciers,Undirected,1
+Amelie,Dn,Undirected,1
+Dn,Henrv,Undirected,1
+Henrv,Ina,Undirected,1
+Bernards sg,Bianka,Undirected,1
+Bernard,Henrv,Undirected,1
+Amelie,Bianka,Undirected,2
+Arni,Henry,Undirected,1
+Arni,soer Amelie,Undirected,1
+Henry,soer Amelie,Undirected,1
+Henry,Hveni,Undirected,1
+Amelie,hans Been,Undirected,1
+Amelie,Hain,Undirected,1
+Hain,Henry,Undirected,1
+Amelie soer,Henry,Undirected,1
+Henry,s Amelie,Undirected,1
+Amelie,Linene,Undirected,1
+Henry,Nrns,Undirected,2
+Jmorgen,Lugi,Undirected,1
+Henry,Sir Buttli soer,Undirected,1
+Lust,Sir Buttli,Undirected,1
+Henry,Lust,Undirected,1
+Amelie,Line,Undirected,1

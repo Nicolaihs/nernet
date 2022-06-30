@@ -1,0 +1,536 @@
+source,target,type,weight
+Døttre,Wulff,Undirected,1
+Sands,Wulff,Undirected,1
+James,Papa,Undirected,1
+James,Mary,Undirected,1
+Mary,Sophie,Undirected,1
+Sophie,Øe,Undirected,1
+Mathilde,Wulff,Undirected,7
+Malhildes,Mathilde,Undirected,1
+Konrad Schou,Mathilde,Undirected,3
+Frederik den,Mathilde,Undirected,2
+Mathilde,Schou,Undirected,14
+Mathilde,ester,Undirected,5
+Graad,Mathilde,Undirected,1
+Graad,Grande,Undirected,1
+Mafhilde,kvor,Undirected,2
+ban,kvor,Undirected,1
+Konrad Schou,kvor,Undirected,1
+Mafhilde,Schon,Undirected,1
+Mathilde,Schon,Undirected,5
+James,Wulff,Undirected,10
+Wnlff,nn,Undirected,1
+Uraad,Wulfs,Undirected,1
+Holsfein,James,Undirected,2
+Sophia,von Holstein,Undirected,1
+Sophie,von Holstein,Undirected,2
+Holstein,Sophie,Undirected,3
+Ageminden,Wulff,Undirected,1
+Sophie,Wulff,Undirected,5
+Wulff,mhdsel,Undirected,1
+James,Vexlen,Undirected,1
+Aagerkarle,Baruch,Undirected,1
+Baruch,Wulfs,Undirected,1
+Vexler,von Holstein,Undirected,1
+James,von Holstein,Undirected,2
+Holstein,Wulff,Undirected,5
+James,Kjære von Holstein,Undirected,1
+James,Jamesskrev,Undirected,1
+James,Wolff,Undirected,1
+JameS,Wulff,Undirected,1
+James,Wnlff,Undirected,1
+Holsfein,Wulff,Undirected,2
+Holstein,James,Undirected,5
+Husfreds,Wulff,Undirected,1
+A,B,Undirected,1
+Holstein,Md. Storm,Undirected,1
+Md. Storm,felv,Undirected,1
+Mathilde,froer,Undirected,2
+James,Mathilde,Undirected,6
+Schon,sagos,Undirected,1
+Holstein,Mathilde,Undirected,3
+Holstein,ester,Undirected,1
+James,ester,Undirected,1
+James,Mamsellen,Undirected,1
+Mathilde,Øe,Undirected,4
+Wulff,Wulfs,Undirected,1
+Mathilde,Wulfs,Undirected,1
+Schon,Wulff,Undirected,1
+Schon,Øe,Undirected,1
+Schou,Wulff,Undirected,1
+Konrad Schon,Wolfs,Undirected,1
+Wulff,ester,Undirected,2
+Gud,Wulff,Undirected,2
+Mathilde,Sofie,Undirected,1
+Sophie Wulsf,von Holstein,Undirected,1
+Holstein,von Holstein,Undirected,1
+Holstein,detle,Undirected,1
+Sophie,detle,Undirected,2
+Holstein Sofie,Sofie,Undirected,1
+Wulfs,øg,Undirected,1
+Victor Hjelm,Wulff,Undirected,8
+Agent Wulffs,Victors,Undirected,1
+Agent Wulffs,Victor Hjelm,Undirected,1
+Voxne,Wulff,Undirected,1
+Sophie,Voxne,Undirected,1
+Sofie,Victor Hjelm,Undirected,1
+Sofie,Wulffske,Undirected,1
+Victor,Wulffske,Undirected,1
+Sofie,Victor,Undirected,2
+Hardiesse,Victor,Undirected,1
+Viktor,Wulff,Undirected,3
+Sophie,høilhs,Undirected,1
+Victor,høilhs,Undirected,1
+Sophie,Victor,Undirected,25
+Sophie,Viktor,Undirected,1
+Viktor,Wulff strax,Undirected,1
+Victor,Wulff strax,Undirected,1
+Victor,Wulfs,Undirected,1
+Victor,Wulff,Undirected,2
+James,Victor,Undirected,7
+,James,Undirected,1
+Holslein,Victor,Undirected,2
+Holslein,L jour,Undirected,1
+L jour,Sophie,Undirected,1
+Hjelms,Sophie,Undirected,1
+Hjelms,Holslein,Undirected,1
+Holslein,Victor Hjelm,Undirected,1
+James,Victor Hjelm,Undirected,1
+Holslein,James,Undirected,1
+Holstein,Victor,Undirected,4
+Sophie,Victor oz Sophie,Undirected,1
+Holstein,Victor oz Sophie,Undirected,1
+James,Sophie,Undirected,1
+Holstein,jhan,Undirected,1
+Ewald,Wessels,Undirected,1
+Wessel,Wessels,Undirected,1
+Holstein,dilles,Undirected,1
+Aland,Holstein,Undirected,1
+Rasmus,Victor,Undirected,1
+Victor,ane,Undirected,1
+Eva,Victor,Undirected,1
+Holstein,Viktor,Undirected,1
+Frøken Sofie Wulff,Viktor,Undirected,1
+Herr Wulff,Sofie,Undirected,1
+Vikfor,siak,Undirected,1
+Viktor,siak,Undirected,1
+Viktor,von Holstein,Undirected,1
+Frøken Sophie,Øe,Undirected,2
+Hjelms,Vensfabets,Undirected,1
+Herr von,Holstein,Undirected,1
+Holstein,Viktor Hjelm,Undirected,1
+Holstein,tans,Undirected,1
+Herr Holsteins,Wulsf,Undirected,1
+haanlig,øg,Undirected,1
+Hølsteins,Wulff,Undirected,1
+Jawohl,jawohl,Undirected,1
+Schuld,jawohl,Undirected,1
+Døttre,Præsteenke,Undirected,1
+Hans Exellence,reisfe,Undirected,1
+Gud,Mathilde,Undirected,9
+Mathilde,Mathilde Schou,Undirected,9
+Mathilde,j,Undirected,1
+Mathilde,paany,Undirected,2
+Viklor,Wulff,Undirected,1
+Frederik,Wulff,Undirected,1
+Per,Viktor,Undirected,1
+Per,daz,Undirected,1
+Holsfein,Lorens,Undirected,1
+ban,dans,Undirected,1
+Holstein,ban,Undirected,1
+Holstein,Øe,Undirected,1
+Holstein,Majesfæt,Undirected,1
+Nemesis,Wulff,Undirected,1
+Holstein,Molesf,Undirected,1
+Holsfein,allerhøjsf,Undirected,1
+Hjelms,Wulff,Undirected,1
+Vikfor Hjelm,Wulfs,Undirected,1
+Vikfor,Wulfs,Undirected,1
+Vikfor,Wulff,Undirected,1
+Mathilde,Struensee,Undirected,1
+Praxis,Theori,Undirected,1
+Mathilde,Praxis,Undirected,1
+Josef,Snee,Undirected,1
+Mathilde,nn,Undirected,1
+Gud,ril,Undirected,1
+Mathilde,frods,Undirected,1
+Herr Lange,Mathilde Schon,Undirected,1
+Herrr,Lange,Undirected,1
+Avind,James,Undirected,1
+Herr Lange,James,Undirected,2
+Lange,Mathilde,Undirected,10
+James,Kudfle,Undirected,1
+Herr Lange,sknlle,Undirected,1
+James nn,Lange,Undirected,1
+Lange,Mathilde Schou,Undirected,4
+Herr Wulff,Lange,Undirected,1
+Herr Ioseph,James Wulff,Undirected,1
+Mathilde Schon,Wulfs,Undirected,1
+Mathilde,Mathilde Schon,Undirected,1
+James,Lange,Undirected,6
+Mathilde Schou,Wulff,Undirected,2
+Lange,Wulff,Undirected,7
+Mathilde Schon,Wulff,Undirected,1
+Wnlff,lee,Undirected,1
+Wulff,lee,Undirected,1
+Lange,Wnlff,Undirected,2
+Lange,Wufs,Undirected,2
+Lange,Viktor Hjelm,Undirected,1
+Roes,Wulff,Undirected,2
+Holbergs,Jeppe,Undirected,1
+Gustaf den Tredie,Løvenfeldt,Undirected,1
+Løvenseldt,Pierre,Undirected,1
+Mathilde,Napoleon,Undirected,1
+Villie,lille Mathilde,Undirected,1
+Løvenseldt,saae Baronesse,Undirected,1
+Mathilde,Pierre,Undirected,6
+Løvcnfeldt,Pierre,Undirected,1
+Løvenfeldt,wasafle,Undirected,1
+Herr Lange,Mathilde,Undirected,1
+Lange,Løvenfeld,Undirected,1
+Løvenfeld,Mathilde,Undirected,3
+Baronesse Løvenfeld sorat,Mathilde,Undirected,1
+Mathilde,siu,Undirected,1
+Mathilde,Peer,Undirected,1
+Ester,Schon,Undirected,1
+Mathilde Schou,Møller,Undirected,1
+Baron Løvenfeldts,Mathilde,Undirected,1
+ester,tels,Undirected,1
+Frederik,tels,Undirected,1
+Frederik,Gustaf den,Undirected,1
+Frederik den,Gustaf den,Undirected,1
+Frederik den,Løvenfeld,Undirected,1
+Dantes,Mathilde,Undirected,1
+Gud,Kong Gustaf,Undirected,1
+Pierre,ban,Undirected,1
+Baron Løvenfelds,Ester,Undirected,1
+Schou,paany,Undirected,1
+Mathilde,Øem,Undirected,1
+Schou,s thilde,Undirected,1
+Løvenfeld,Schou,Undirected,1
+Peder Iversen,Schou,Undirected,1
+Gud,Schou,Undirected,3
+Pierre,jaldrig,Undirected,1
+Pierre,nn,Undirected,1
+A.,Pierre,Undirected,1
+A.,B.,Undirected,1
+A,B.,Undirected,1
+Schou,Thomas,Undirected,1
+Dick,Tom,Undirected,9
+Knn,Tom,Undirected,1
+Dick,paany,Undirected,1
+Filur,Tom,Undirected,1
+Mogens,Tom,Undirected,1
+Dick,idethan,Undirected,1
+Dick,Seil,Undirected,1
+Baronesse Løvenfeld,Baronesse Løvenfelds,Undirected,1
+Baronesse Løvenfeld,Lisbeth,Undirected,1
+Løvenfeld,tillive,Undirected,1
+Frederik den,Schou,Undirected,1
+Frederiksen,Trenck,Undirected,1
+Foland,Trenck,Undirected,1
+Baron Trencks,Frederiksen,Undirected,1
+Olsen,Stine Klemp,Undirected,1
+Pjalte-Stine,ban,Undirected,1
+EggerS,Niels Nielsen,Undirected,1
+Davidsen,EggerS,Undirected,1
+Davidsen,Niels *,Undirected,1
+Eggers,Niels *,Undirected,1
+Davidsen,Eggers,Undirected,1
+Davidsen,Nielsen,Undirected,2
+Niels Nielsen,Nielsen,Undirected,1
+Eggers,Niels Nielsen,Undirected,1
+Johan Carlsen,Søren „,Undirected,1
+Karl,nn,Undirected,1
+Foland,slaae Eggers,Undirected,1
+,slaae Eggers,Undirected,1
+Schon,ak Schon,Undirected,1
+Frederik den,Gud,Undirected,1
+Mathilde,hans,Undirected,1
+Wulff,øg,Undirected,1
+Hjelm,Wulff,Undirected,1
+Gisning,Sophie,Undirected,1
+Sophie Wulff,von,Undirected,1
+Holstein,von,Undirected,1
+Holstein,Victor Hjelm,Undirected,1
+Greves,Victor Hjelm,Undirected,1
+Greves,Victor,Undirected,1
+Sophie,Victor Hjelm,Undirected,1
+Victor Hjelm,Vilhelm,Undirected,1
+Sophie,Vilhelm,Undirected,1
+Mathilde,lille Sophus,Undirected,1
+Mathilde,Sophie,Undirected,22
+Lille Sophus,Sophie,Undirected,2
+Lille Sophus,Mathilde,Undirected,1
+,lille Sophus,Undirected,1
+Mathilde,prekær,Undirected,1
+Hjelm,Mathilde,Undirected,11
+Gud,Hjelm,Undirected,1
+Mathilde,jherfor,Undirected,1
+Arnkiel,Mathilde,Undirected,26
+Mathilde,Victor,Undirected,13
+Axel,Victor Hjelm,Undirected,1
+Axel,Mathilde,Undirected,1
+Mathilde,Victor Hjelm,Undirected,2
+Mathilde,øg Mathilde,Undirected,1
+langffra,øg Mathilde,Undirected,1
+Hnn,Sophie,Undirected,1
+Arnkiel,Hjelm,Undirected,15
+Arnkilds,Mathilde,Undirected,1
+Sophie,ssaj,Undirected,1
+Roselil,Sophie,Undirected,1
+Sophie,øg,Undirected,1
+Mathilde,øg,Undirected,2
+Emil,Mathilde,Undirected,1
+Mathilde,Roselil,Undirected,1
+Arnkiel,Victor,Undirected,34
+Arnkiel loe,Victor loe,Undirected,1
+Karlen,Victor,Undirected,3
+Anders,itte,Undirected,1
+Anders,Victor,Undirected,2
+Victor,ester,Undirected,2
+Anders,Arnkiel,Undirected,2
+Arnkiel,Sophie,Undirected,11
+Herflabs,Mathilde,Undirected,2
+Gud,Sophie,Undirected,2
+Aprilnarrsne,Gud,Undirected,1
+Herr Pugerup,Pugerup,Undirected,1
+Herr Pugerup,Hjelm,Undirected,1
+Hnn,Wulff,Undirected,1
+Herr Pugerup,Hvishvas,Undirected,1
+Madame Gøye,Pugerup,Undirected,1
+Pugerup,lidf,Undirected,1
+Mutter,lidf,Undirected,1
+Morpheus,Pugerup,Undirected,1
+Pugerup,ban,Undirected,1
+Madame Gøye,ban,Undirected,1
+Madame Gøye,Mathilde,Undirected,1
+Sophie,see Arnkiel,Undirected,1
+Mathilde,see Arnkiel,Undirected,1
+Arnkiel,Gud,Undirected,3
+Hjelm,Victor,Undirected,2
+Jælm,Salvetitel,Undirected,1
+Sophie,paany,Undirected,1
+Arnkiel,iveien,Undirected,1
+Schou,Victor,Undirected,1
+Jomfru Schous,Victor,Undirected,1
+Arnkiel,Viktor,Undirected,1
+Arnkiel,Vicfor Hjelm,Undirected,2
+Mathilde,sfimle,Undirected,1
+Principalens,sfimle,Undirected,1
+Arnkiel,Jomfru Schou,Undirected,2
+Jomfru Schvu,Mathilde,Undirected,1
+Jomfru Schvu,Victor,Undirected,1
+Herr Arnkiel,Jomfru Schou,Undirected,1
+Jomfru Schou,Øe,Undirected,1
+Arnkiel,Nn,Undirected,1
+Sopbie,Sophie,Undirected,1
+Mathilde Schou,ester,Undirected,2
+Hjelm,Mathilde Schou,Undirected,2
+Hnil druit,Victor,Undirected,1
+Franst,Victor,Undirected,1
+Arnkiel,Schou,Undirected,2
+Jensen,lee,Undirected,1
+Mathilde Schou,Sophie,Undirected,1
+Grosserer Hjelms,Mathilde,Undirected,1
+Archivet,Hjelm,Undirected,1
+Ieg,Madame,Undirected,1
+Frues,Hjelm,Undirected,1
+Hjelm,Jomfru Schou,Undirected,1
+Fru Hjelms,Victor og,Undirected,1
+Sophie,Victor og,Undirected,1
+Mathilde,flulle,Undirected,1
+Arnkiel,Herr Hjelms,Undirected,1
+Herr,fleet,Undirected,1
+Arnkiel,Principal,Undirected,1
+Arnkiel,Øe,Undirected,3
+Arnkiel,Skjæbnens,Undirected,1
+Mathilde,Theori,Undirected,1
+Engels,Mathilde Schou,Undirected,1
+Engels,Mathilde,Undirected,1
+Mathilde,Mathilde Schou paany,Undirected,1
+Arnkiel,Mathilde Schou,Undirected,4
+Victor,Wilhelmsen,Undirected,1
+Arnkiel,Wilhelmsen,Undirected,1
+Arnkiel,Herr Wilhelmsen,Undirected,1
+Døttre,Mathilde,Undirected,1
+Holstein,James Wulff,Undirected,1
+Holsfein,JameS Wulff,Undirected,1
+Gud,Holsfein,Undirected,1
+Holsfein,James Wulff,Undirected,1
+Caspara,gjentøg,Undirected,1
+Frank,Holstein,Undirected,3
+Frank,Lille Frank,Undirected,1
+Holstein,loe Caspara,Undirected,1
+Caspara,Holstein,Undirected,2
+Caspara,Mathilde,Undirected,1
+ester,ester Fruen,Undirected,1
+Mathilde,ester Fruen,Undirected,1
+Ieg,Mathilde,Undirected,1
+Caspar,Jomfru Schou,Undirected,1
+Holstein,Minna,Undirected,1
+Caspara,Minna,Undirected,3
+Jomfru Schou,Minna,Undirected,1
+Frederik den,Holstein,Undirected,1
+Caspar«,Holstein,Undirected,1
+Holstein,øg,Undirected,1
+Ganfle,Hjelm,Undirected,1
+Gunhilde,Mathilde,Undirected,1
+Arnkiel,Hersom,Undirected,1
+Arnkiel,Hermann Bang,Undirected,4
+Hermann Bang,Principal,Undirected,1
+Hermann Bang,Victor Hjelm,Undirected,2
+Arnkiel,Victor Hjelm,Undirected,2
+Hermann,Hjelm,Undirected,2
+Hermann,Mathilde Schou,Undirected,3
+Hermann,Hermann Bang,Undirected,3
+Hermann Bang,Jespersen,Undirected,1
+Jespersen,Pætges,Undirected,1
+Hjelm,Victor Hjelm,Undirected,1
+Arnkiel,Hermann,Undirected,6
+Hermann,hans Mathilde,Undirected,1
+Gud,hans Mathilde,Undirected,1
+Asen,trine,Undirected,1
+Gud,trine,Undirected,1
+Hermann Bang,Madam Rasmussens,Undirected,1
+Bang,Madam Rasmussens,Undirected,1
+Bang,Gus,Undirected,1
+Gus,Krisjan,Undirected,1
+Bang,lille Kristian,Undirected,1
+Krisjan,gabe,Undirected,1
+Sidse,gabe,Undirected,1
+Hjelm,Sophie,Undirected,7
+Sophie,gjentøg,Undirected,1
+Gud,ilions Lloimieur,Undirected,1
+Marsch,ilions Lloimieur,Undirected,1
+Arnkiel,Madame Rasmussen,Undirected,1
+Arnkiel,Bang,Undirected,8
+Bang,Toilette,Undirected,1
+Madame Rasmussen,Toilette,Undirected,1
+Gud,hu,Undirected,1
+Glambek,ongefæhr semogfhrrethve Aar,Undirected,1
+Fist,Madam Glambæk,Undirected,1
+Madam Rasmussen,Mathilde Schou,Undirected,1
+Madam Rasmussen,ver,Undirected,1
+Bang,Madam Rasmussen,Undirected,2
+Arnkiel,Madame,Undirected,1
+Madame Rasmussen,Mathilde Schou,Undirected,1
+Dumaa,Mathilde,Undirected,1
+Madam Glambæk,Stine Rasmussen,Undirected,4
+Glambæk,Stine Rasmussen,Undirected,1
+Hermann Bang,Stine Rasmussen,Undirected,1
+Glambæk,Madam Glambæk,Undirected,1
+Madame Glambæks,Mathilde,Undirected,1
+Glambæl,Mathilde,Undirected,1
+Glambæl,Mathilde Schou,Undirected,1
+Glambæk,Mathilde Schou,Undirected,1
+Madame Glambæk,Mathilde,Undirected,7
+Jomfru Schou,Mathilde,Undirected,3
+Glambæk,Mathilde,Undirected,2
+Jomfru Schou,Mutter,Undirected,1
+Mathilde,Stine Rasmussen,Undirected,2
+Hermann Bang,Madam Glambæk,Undirected,4
+Hermann Bang,ban,Undirected,1
+Jomfru Schou,ban,Undirected,1
+Madam Glambæk,Mathilde,Undirected,14
+Mathilde,Md. Glambæk,Undirected,2
+Arnkiel,Madam Glambæk,Undirected,1
+Arnkiel,Ester,Undirected,1
+Sophie,itte,Undirected,1
+Chrisfen,Chrisfen Petersen,Undirected,1
+Christen,Skjænke,Undirected,1
+Christen,Christen Pedersen,Undirected,1
+Christen,Gud,Undirected,1
+Christen,Sophie,Undirected,1
+Christen,Herr Hansen,Undirected,1
+Madam Glambæk,Nei,Undirected,2
+Bang,Mathilde,Undirected,5
+Bang,Madamen,Undirected,1
+Hermann,Mathilde,Undirected,15
+Hermann,Lilien,Undirected,1
+Lilien,ban,Undirected,1
+Madame Glambæk,ester,Undirected,1
+Bang,Gud,Undirected,2
+Bang,Hermann,Undirected,1
+Sophie,dereffer,Undirected,1
+Sophie,tanse,Undirected,1
+Heida,Øe,Undirected,1
+Hjelm,eiheller,Undirected,1
+Gud,eiheller,Undirected,1
+Hjelm,paany,Undirected,1
+Hesfene,Victor,Undirected,1
+Sophie,ester,Undirected,1
+Arnkiel,Herholdt,Undirected,1
+Herholdt,Hjelm,Undirected,1
+Seire,ganfle,Undirected,1
+Herholdt,ester paany,Undirected,1
+Herholdt,Victor,Undirected,1
+Hermann Bang,Mathilde,Undirected,11
+Hermann,Madam Rasmussen,Undirected,5
+Madam Rasmussen,tys,Undirected,1
+Gud,Hermann,Undirected,2
+Madam Rasmussen,Madam Rasmussen“,Undirected,1
+Evadatter,Madam Rasmussen,Undirected,1
+Bang,Evadatter,Undirected,1
+Hermann,Kjærlingen,Undirected,1
+Bang,Madam Glambæk,Undirected,5
+Bang,Glambæk,Undirected,1
+Glambæk,Hermann pleiede,Undirected,1
+Glambæk,Jomfru Schou,Undirected,1
+Hermann Bang,Madam Rasmussen,Undirected,2
+Hermann,Madam Glambæk,Undirected,1
+Bang,Ester nogle,Undirected,1
+Gud,Jomfru Schou,Undirected,1
+Madam Rasmussen,Mathilde,Undirected,10
+Hermann,Victor,Undirected,3
+Pedrin,Victor,Undirected,1
+Arnkiel,Io,Undirected,1
+Arnkiel,ilive,Undirected,1
+Mathilde Schou,Victor,Undirected,2
+Mathilde,Thdflen,Undirected,1
+Grosserreen,Mathilde,Undirected,1
+Madam Glambæk,Victor,Undirected,2
+Hjelm,Madam Glambæk,Undirected,2
+Madamen,Mathilde,Undirected,1
+Hermann Bang,Madamen,Undirected,1
+Hermann Bang,Victor,Undirected,1
+Gud,Madam Glambæk,Undirected,1
+Madam Glambæck,Victor,Undirected,1
+Madam Glambæck,Mathilde,Undirected,1
+Herr Hjelm,Hjelm,Undirected,1
+Madam Glambæk,loe,Undirected,1
+Madam Rasmussen,kjære Bertha,Undirected,1
+Bertha,Gud,Undirected,2
+Brunstrøm,Gud,Undirected,1
+Bertha,Krapyl,Undirected,1
+Krapyl,Mathilde,Undirected,1
+Mathilde,Morten“,Undirected,1
+Bertha,Glambæk,Undirected,1
+Mathilde,lille Bertha,Undirected,1
+Bertha,Mathilde,Undirected,1
+Hermann,Linn,Undirected,1
+Hermann,ban,Undirected,1
+Hermann,tans,Undirected,1
+' Glambæk,Madam,Undirected,1
+Krisfine Ulfeld,Sophie Magdalene,Undirected,1
+Holstein,Karl,Undirected,1
+Gud,Holstein,Undirected,1
+Iversen,Mathilde Schou,Undirected,2
+Assisfenten,Mathilde,Undirected,2
+Assisfenten,Mathilde Schou,Undirected,1
+Madam Glambæk,Mathilde Schou,Undirected,1
+Mathilde,sidsfe Elsfer,Undirected,1
+Hermann Bang,sidsfe Elsfer,Undirected,1
+Arnkiel,Karaklers,Undirected,1
+Karaklers,Mathilde,Undirected,1
+Mathilde flulde,Sophie,Undirected,1
+Mathilde,Mo ' er Rasmussen,Undirected,1
+Assisfenten,Madam Rasmussen,Undirected,2
+Gud,Mathilde Schou,Undirected,1
+Mathilde,ganfle,Undirected,1
+A...,Mathilde,Undirected,1
+Hermann Bang,Mathilde Schou,Undirected,1
+Hermann Bang,Hjelm,Undirected,1
+Sophie,Vee,Undirected,1
+Bang,Victor,Undirected,1
+Hermann Bang,L Bang,Undirected,1

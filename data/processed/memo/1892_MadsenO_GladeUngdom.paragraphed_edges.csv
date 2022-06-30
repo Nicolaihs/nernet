@@ -1,0 +1,146 @@
+source,target,type,weight
+Flr,Svane,Undirected,1
+Adiø,Hr. Svane,Undirected,1
+Mortensen,Svane,Undirected,1
+Gud,»,Undirected,1
+Hansen,»,Undirected,1
+Hansen,Hr. Hansens,Undirected,1
+Per,Povl,Undirected,1
+Mortensen,Sten,Undirected,5
+Drosker,Otto,Undirected,1
+Drosker,Henrik Sten,Undirected,1
+Henrik Sten,Sten,Undirected,4
+Lorentzen,Pardieu,Undirected,1
+Fanny Holm,Henrik Sten,Undirected,5
+Fanny Holm,Lorentzen,Undirected,1
+Lorentzen,Sten,Undirected,4
+Lorentzen,Mortensen,Undirected,1
+Kognac,Lorentzen,Undirected,1
+Henrik Sten,Lorentzen,Undirected,6
+Lagerstrøm,Skaal,Undirected,1
+Lagerberg,Sten,Undirected,9
+Henrik længer,Lagerberg,Undirected,1
+Henrik Sten,Madam Jørgensen,Undirected,4
+Madam,Sten,Undirected,1
+Jacob Abrahamsen,Lorentzen,Undirected,1
+Abrahamsen,Henrik Sten,Undirected,1
+Abrahamsen,Sten,Undirected,1
+Hr. Stens,Sten,Undirected,1
+Henrik Sten,Hr. Abrahamsen,Undirected,1
+Frederik,bien,Undirected,1
+Henrik Sten,kvis,Undirected,1
+Lorentzen,kvis,Undirected,1
+Henrik,Sten,Undirected,4
+Lorentzen,frank,Undirected,1
+Bjørnstjerne Bjørnson,Henrik Sten,Undirected,1
+Hr. Sten,Peter,Undirected,1
+Henrik Sten,P'ølelses,Undirected,1
+Henrik Sten,Theori,Undirected,1
+Henrik Sten,paany,Undirected,1
+Fanny Holm,paany,Undirected,1
+Heines,Kennt Ihr,Undirected,1
+Frøken Holm,Henrik Sten,Undirected,1
+Fanny,Henrik Sten,Undirected,6
+Henrik—jeg,brøstens,Undirected,1
+C. F. Ravn,Henrik Sten,Undirected,1
+Frk. Ravn,Hilda Ravn,Undirected,1
+Hilda,Sten,Undirected,1
+Henrik,Hilda,Undirected,1
+Henrik Ibsen,Svanhild,Undirected,1
+Falk,Svanhild,Undirected,1
+Heinrichs,Sten,Undirected,2
+Heinrichs,Henrik,Undirected,1
+Heinrichs,Svendsen,Undirected,1
+Adiø,Henrik,Undirected,1
+Frk. Ravn,Sten,Undirected,1
+Hilda Ravn,Kraft-Jensen,Undirected,2
+Madam Feddersen,Zweitritt,Undirected,1
+Helle dusseda,Madam Hansen,Undirected,1
+Henrik Sten,Servanten,Undirected,1
+Hilda,Madam Feddersen,Undirected,1
+Fanny Holm,Henrik,Undirected,1
+Lorentzen,Madam Jørgensen,Undirected,1
+Lorentzen,Skraa,Undirected,1
+Lagerberg,Mo’,Undirected,1
+Henrik,Lagerberg,Undirected,2
+Fanny Holm,Lagerberg,Undirected,3
+Sten,Viggo Storms,Undirected,1
+Hoffmann,Sten,Undirected,2
+Ahner,Viggo Storm,Undirected,1
+Henrik Sten,Viggo Storm,Undirected,5
+Sten,Storm,Undirected,2
+Henrik Sten,Niels Gregers,Undirected,2
+Gregers,Henrik Sten,Undirected,1
+Gregers,Sten,Undirected,1
+Henrik Sten,Henriksen,Undirected,1
+Henriksen,Sten,Undirected,1
+Niels Gregers,kokette,Undirected,1
+J,j,Undirected,1
+Henrik Sten,summed,Undirected,1
+Henrik Sten,j,Undirected,1
+j,nik-,Undirected,1
+Helene,Sankta,Undirected,1
+Heinrichs,Henrik Sten,Undirected,1
+Fanny,Sten,Undirected,1
+Gud,Henrik,Undirected,1
+Henrik,paany,Undirected,1
+Fanny,Henrik,Undirected,6
+Fanny,Lorentz,Undirected,1
+Henrik,gud,Undirected,1
+Bing,Henrik Sten,Undirected,1
+Eva,Henrik,Undirected,1
+Adam,Eva,Undirected,1
+Fanny,Holms,Undirected,1
+Hansen,Henrik Sten,Undirected,1
+Hansen,Harriet,Undirected,1
+Harriet,Sten,Undirected,1
+Hansen,Hr. Hansen,Undirected,1
+Henrik,Mortensen,Undirected,2
+Henrik Sten,Svane,Undirected,1
+Jeppesen,Petrea,Undirected,1
+Gud,Petrea,Undirected,2
+Eline,Henrik Sten,Undirected,3
+Eline,Henrik,Undirected,1
+Henrik Sten,Poul,Undirected,1
+Eline,Sten,Undirected,1
+Absinth,Fanny,Undirected,1
+Eline,Nemesis,Undirected,1
+Fanny Holm,Snobben,Undirected,1
+Fanny,Snobben,Undirected,1
+Ernst Lagerberg,Fanny,Undirected,2
+Fanny,Lagerberg,Undirected,2
+Lagerberg,William Lorentzen,Undirected,1
+Christian Winther,Holger Drachmann,Undirected,1
+Lagerberg,Viggo Storm,Undirected,1
+Henrik Sten,Lagerberg,Undirected,3
+Henrik Sten,Venus,Undirected,1
+Milo,Venus,Undirected,1
+Milo,Plougs,Undirected,1
+Hostrups,Plougs,Undirected,1
+Braad,Henrik Sten,Undirected,1
+Braad,Skraa,Undirected,1
+Henrik,Holm,Undirected,1
+Holm,Sten,Undirected,1
+Fanny,Holm,Undirected,2
+Henrik Sten,Hilda Ravn,Undirected,2
+Henrik Sten,Kraft-Jensen,Undirected,1
+Henrik Sten,fbr,Undirected,1
+Henrik Sten,Hr. Zweitritt,Undirected,1
+Hr. Zweitritt,Stein,Undirected,1
+Gud,véd,Undirected,1
+Henrik,Henrik Sten,Undirected,2
+Niels Gregers,Viggo Storm,Undirected,1
+Mortensen,Niels Gregers,Undirected,1
+Lorentz,Mortensen,Undirected,1
+Abrahamsen,Lorentz,Undirected,1
+Abrahamsen,Hilda Ravn,Undirected,1
+Hilda Ravn,Holm,Undirected,1
+Henrik,Klodrian,Undirected,1
+Hilda Ravn,Zweitritt,Undirected,1
+Hilda Ravn,Sten,Undirected,1
+Frøken Ravn,Heinrichs,Undirected,1
+Fanny,Heinrichs,Undirected,1
+Jørgensen,Madam Jørgensen,Undirected,1
+Storm,Viggo Storm,Undirected,1
+Ernst Lagerberg,Fanny Holm,Undirected,1
+Tant que,battra toujours,Undirected,1

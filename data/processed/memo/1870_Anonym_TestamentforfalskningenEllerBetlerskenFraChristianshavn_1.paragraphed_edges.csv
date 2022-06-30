@@ -1,0 +1,378 @@
+source,target,type,weight
+Carl,vorLykkes,Undirected,1
+Guds,Hr. Tøndesen,Undirected,1
+Mo ,er Jensen,Undirected,1
+Mørk,Tøndesen,Undirected,2
+Adolf,tys,Undirected,1
+Frøken Dyring,Tøndesen,Undirected,3
+Carlsen,Tøndesen,Undirected,4
+Charles Carlsen,Tøndesen,Undirected,1
+Carlsen,Dahl,Undirected,1
+Dahl,Mørk,Undirected,3
+Adolf,Hjelmskjold,Undirected,13
+Adolf,Mørk,Undirected,1
+Hjelmskjold,Tøndesen,Undirected,4
+Hjelmskjold,zan,Undirected,1
+Hjelmskjold,minFanilie,Undirected,1
+llymo,minFanilie,Undirected,1
+llymo,perMas,Undirected,1
+Carlsen,Hjelmskjold,Undirected,2
+Baronesse Dyring,Hjelmskjold,Undirected,1
+Dyring,Tøndesen,Undirected,2
+Carlsen,kjære Tøndesen,Undirected,1
+Carlsen,Dyring,Undirected,2
+Hjelmskjold,Ieg,Undirected,1
+Adolf,Ieg,Undirected,1
+Baron Dyring,Janettes,Undirected,1
+Baron Dyring,Janette,Undirected,1
+Baronessen,Janette,Undirected,1
+Janette,Tøndesen,Undirected,16
+Carlsen,Janette,Undirected,1
+Carlsen,ester,Undirected,1
+Carlsen,hnn,Undirected,1
+Carlsen,Verner,Undirected,10
+Adolf Tøndesen,Carlsen,Undirected,1
+Peer Tot,inapa,Undirected,1
+Ester,inapa,Undirected,1
+Carl,Tu,Undirected,1
+Carl,Grevens,Undirected,1
+Carlsen,Guds,Undirected,1
+Dyring,Frøken Dyring,Undirected,1
+Endeel,ester,Undirected,1
+Carlsen,Frøken Dyring,Undirected,2
+Carlsen,Gud,Undirected,1
+Carlsen,Søren,Undirected,1
+Søren,p,Undirected,1
+Søren,Verner,Undirected,1
+Stevet,hayde,Undirected,1
+Carlsen,hyilys,Undirected,1
+Carlsen,Snøde,Undirected,1
+Charles,Snøde,Undirected,1
+Karl,Madam,Undirected,1
+Carlsen,Jensen,Undirected,1
+Carlsen,Madam Jensen,Undirected,1
+Allandsens,Madam Jensen,Undirected,2
+Berner,Carl,Undirected,1
+Bang,Minni,Undirected,2
+Grev Fly,Janette Dyring,Undirected,2
+Grev Fly,Janette,Undirected,10
+Janette,Lydia,Undirected,3
+Lydia,Melancholi,Undirected,1
+Grevens,Lydia,Undirected,1
+Adolf Tøndesen,Charles Carlsen,Undirected,1
+Adolf Tøndesen,Verner,Undirected,2
+Mørk,Verner,Undirected,1
+Dahl,Grev Hjelmskjold,Undirected,1
+,Grev Hjelmskjold,Undirected,1
+,Hjelmskjold,Undirected,1
+Dahl,Hjelmskjold,Undirected,1
+Dahl,Frøken Dyring,Undirected,1
+Dahl,Francois Bourville,Undirected,1
+Hjelmskjold,Verner,Undirected,2
+Grev Hjelmskjold,Verner,Undirected,1
+Frøken Dyring,Grev Hjelmskjold,Undirected,1
+Adolf Tøndesøn,Frøken Dyring,Undirected,1
+Janette,Verner,Undirected,25
+Grev Fly,Verner,Undirected,3
+Dyring,Grev Fly,Undirected,3
+Grev Hjelmfljold,Tøndesen,Undirected,2
+Grev Hjelmskjold,Janette,Undirected,2
+Tøndesen,Verner,Undirected,4
+Adolf,Janette,Undirected,21
+Adolf,Verner,Undirected,7
+Gud,Janette,Undirected,5
+Adolf,Gud,Undirected,3
+Janette,elsfe,Undirected,1
+Adolf,Jil,Undirected,1
+Jil,kjære Janette,Undirected,1
+Adolf,Adolf Tøndesen,Undirected,3
+Adolf,Janette Dyring,Undirected,1
+Charles Carlsen,Verner,Undirected,1
+Dyring,Verner,Undirected,3
+Charles,Verner,Undirected,3
+Bien,Carlsen,Undirected,1
+Gud,Verner,Undirected,1
+Ieg,Verner,Undirected,1
+Frøken Dyring,Grev Fly,Undirected,1
+Janette,Janette Dyring,Undirected,1
+Hjelmskjold,Janette,Undirected,2
+Dyring,Fly,Undirected,2
+Dyring,Janette,Undirected,1
+Grev Fly,Hjelmskjold,Undirected,2
+Baronesse,Grev Fly,Undirected,1
+Dyring,tvers,Undirected,1
+Hjelmskjold,tvers,Undirected,1
+Adolf Tøndesen,Hjelmskjold,Undirected,1
+Adolf Tøndesen,Greven,Undirected,1
+Greven,Tøndesen,Undirected,2
+Tøndesen,soni,Undirected,1
+ester,soni,Undirected,1
+Tøndesen,ester,Undirected,1
+Adolf,Holla,Undirected,1
+Adolf,Dn,Undirected,1
+Dn,Gud,Undirected,1
+Janette,lee,Undirected,1
+Janette,Tu,Undirected,3
+Berner,Janette,Undirected,1
+Berner,Hjelmskjold,Undirected,1
+Hjelmfkjold,Tøndesen,Undirected,1
+,Grev Fly,Undirected,16
+A. B.,C. D.,Undirected,3
+C. D.,X. Y. Z.,Undirected,2
+P. O.,X. Y. Z.,Undirected,1
+,Janette,Undirected,2
+Janette,hnn,Undirected,1
+Janette,Oskar,Undirected,18
+Adolf Tøndesen,Oskar,Undirected,2
+Oskar,Tu,Undirected,1
+Greven,Janette,Undirected,11
+Oskar,Verner,Undirected,15
+Janette,Janettte,Undirected,1
+Ben Verner,Oskar,Undirected,1
+Ben Verner,Verner,Undirected,1
+N. P.,Verner,Undirected,1
+Grev Fly,Oskar,Undirected,9
+Grev Fly,knn,Undirected,1
+Greven,Oskar,Undirected,16
+Jauette,Tøndesen,Undirected,1
+Janette,N. P.,Undirected,2
+Janette,Levy,Undirected,1
+Kjøn,Verner,Undirected,1
+Gud,Knegt,Undirected,1
+Alma,Verner,Undirected,14
+Alma,Janette,Undirected,11
+Grev Oskar,N. P.,Undirected,1
+Oskar,Tsndesen,Undirected,1
+Tsndesen,t,Undirected,1
+Dyring,t,Undirected,1
+Tøndesen,ncevne,Undirected,1
+Grev Fly,ncevne,Undirected,1
+Grev Fly,Greven,Undirected,1
+Greven,Hr. Greve,Undirected,2
+Skjønne,Verner,Undirected,1
+Berner,tilnmire Berner,Undirected,1
+Berner,^Verners,Undirected,1
+^Verners,banS,Undirected,1
+Janette,Soupeen,Undirected,1
+Hugo,Janette,Undirected,1
+Janette,Papa,Undirected,1
+-Verner,Oskar,Undirected,1
+Oskar,Tøndesen,Undirected,1
+Max,Oskar,Undirected,12
+Ester,Hans Been,Undirected,1
+Ester,Max,Undirected,1
+Grev Fly,fnart,Undirected,1
+Janette,Lisette,Undirected,8
+Gud,Lisette,Undirected,1
+Adolf,Lisette,Undirected,8
+Grev Fly,Max,Undirected,1
+Janette,Marcus,Undirected,1
+Greven,Max,Undirected,1
+Aland,Madam Marcus,Undirected,1
+Madam Marcus,Rosa,Undirected,9
+Gud,Rosa,Undirected,4
+Grev Fly,Gud,Undirected,1
+Adolf Tøndesen,Grev Hjelmskjold,Undirected,1
+Grev Hjelmskjold,Tøndesen,Undirected,1
+Janette Dyring,Verner,Undirected,2
+Janette Dyring,UlGrev Fly,Undirected,1
+Dyring,UlGrev Fly,Undirected,1
+Hjelmskjold,KomHjelmskjold,Undirected,1
+Adolf,Zimmermanns,Undirected,1
+Adolf,E. F.,Undirected,1
+Adolf,Grev Fly,Undirected,4
+Adolf,hnn,Undirected,3
+Adolf,Hjelmjold,Undirected,1
+Adolf,Tu,Undirected,1
+Hjelmfkjold,Tu,Undirected,1
+Hjelmfkjold,Kjøn,Undirected,1
+Hans,Hjelmskjold,Undirected,1
+Max,N. P.,Undirected,1
+Janette,Max,Undirected,1
+Gud,Oskar,Undirected,3
+C. D.,L. Y. Z,Undirected,1
+L. Y. Z,N. P.,Undirected,1
+Madam Marcus,Snødevar,Undirected,1
+Madam Marcus,Nanni,Undirected,1
+Hig,Rosa,Undirected,2
+Rosa,hnn,Undirected,3
+Brysf,hnn,Undirected,1
+Dn,Rosa,Undirected,1
+Dyring,Madam Marcus,Undirected,2
+Madam MarcuS,Rosa,Undirected,2
+Madam Marcus,as,Undirected,1
+Rosa,as,Undirected,1
+Janette,Lifettes,Undirected,1
+Lisette,Oskar,Undirected,2
+Grev Fly,Lisette,Undirected,1
+Oskar,Snøde,Undirected,1
+Daler,Janette,Undirected,1
+Dyring,Rosa,Undirected,10
+Greven,Snyde,Undirected,1
+Dyring,Herr Greven,Undirected,1
+Greven,spiist,Undirected,1
+Rosa,Snyde,Undirected,1
+Greven,Rosa,Undirected,3
+Dyring,as,Undirected,2
+Dyring,Oskar,Undirected,1
+Gud,Tobias,Undirected,1
+Madam Marcus,Tobias,Undirected,1
+Madam Marcus,Nanci,Undirected,1
+Dyring,ivold,Undirected,1
+Rosa,Snøde,Undirected,2
+Grev Fly,Snyde,Undirected,1
+Grev Fly,iveien,Undirected,1
+Madam Markus,Rosa,Undirected,5
+Madam Markus,Nanci,Undirected,1
+Alma,Oskar,Undirected,2
+Alma,Greve,Undirected,1
+Greve,Verner,Undirected,1
+Janette,as,Undirected,1
+Lydia,Snøde,Undirected,1
+Alma,Greven,Undirected,3
+Baronesse Dyring,Grev Fly,Undirected,1
+Greven,Lisette,Undirected,1
+Pfifolen,Verner,Undirected,1
+Lisette,Verner,Undirected,2
+Lisette,hnn,Undirected,1
+Verner,hnn,Undirected,1
+Fly,Verner,Undirected,1
+,Fly,Undirected,2
+,Dyring,Undirected,1
+Adolf,Herr Tøndesen,Undirected,1
+Herr Tøndesen,Verner,Undirected,3
+Lisette,Steen,Undirected,1
+Steen,Verner,Undirected,1
+Herr Tøndesen,Janette,Undirected,1
+Grev Fly spadserendes,Janette,Undirected,1
+Greven,Verner,Undirected,1
+Adolf,Graad,Undirected,1
+Graad,Hjelmskjold,Undirected,1
+Hjelmskjold,Lisette,Undirected,1
+Adolf,Hjelmfkjold,Undirected,3
+Dyring,hnn,Undirected,1
+Gud,Guv,Undirected,1
+Dyring,Lydia,Undirected,1
+Alma,Lydia,Undirected,4
+Dyring,Greven,Undirected,2
+Grev Fly,hnn,Undirected,1
+Nosas,Tyring,Undirected,1
+Rosa,Sophaen,Undirected,1
+Alma,Rosa,Undirected,9
+Rosa,høilys,Undirected,1
+Adolf Tyndesen,Charles Carlsen,Undirected,1
+Adolf Tyndesen,Hjelmfkjold,Undirected,1
+Adolf,Greven,Undirected,4
+Janette,fletikke,Undirected,1
+Karl,Verner,Undirected,1
+Grev Fly,Taus,Undirected,1
+Janette,Rosa,Undirected,3
+Dyring,Svend,Undirected,1
+Dyring,Grev Dyring Fly,Undirected,1
+Greve,Snøde,Undirected,1
+Petterine,hnn,Undirected,1
+Janette,Madam Brammer,Undirected,2
+Gud,Madam Brammer,Undirected,2
+Brammer,Gud,Undirected,1
+Janette,Steen,Undirected,2
+Greve,Janette slod,Undirected,1
+Lisette,Madam Brammer,Undirected,1
+Janette,neppe,Undirected,1
+Snyde,Te,Undirected,1
+Janette,Te,Undirected,1
+Janette,Karl,Undirected,1
+Adolf Tøndesen,Janette,Undirected,3
+Adolf Tpndesen,Juan,Undirected,1
+Adolf,Tøndesen,Undirected,1
+Hjelmskjold,Rosa,Undirected,1
+Gjcester,Madam Truelsen,Undirected,1
+Madam Truelsen,Rosa,Undirected,2
+Adolf,stig,Undirected,1
+Adolf,Rosa,Undirected,10
+Adolf,hunZfør,Undirected,1
+Grev Fly,Røsa,Undirected,1
+Adolf,Røsa,Undirected,1
+Adolf,as,Undirected,2
+Adolf Tøndesen,Janeites,Undirected,1
+Aland,Lisette,Undirected,1
+Lisette,Tersor,Undirected,1
+Gud,Tersor,Undirected,1
+,Adolf rolig,Undirected,1
+Moer,Oskar,Undirected,1
+Adolf,hans Been,Undirected,1
+Grev Fly,J,Undirected,1
+Dyttre,Grev Fly,Undirected,1
+Grev Fly,nn,Undirected,1
+Janette,belle,Undirected,1
+Janeste,Lisette,Undirected,1
+Adolf,Snyde,Undirected,1
+Adolf Adolf,Janette,Undirected,1
+Alma,Madam,Undirected,1
+Alma,hnn,Undirected,1
+Alma,øg,Undirected,1
+Alma,Hr. Dyring,Undirected,1
+Dyring,Madam Markus,Undirected,1
+Alma,Dyring,Undirected,4
+Alma,Madam Markus,Undirected,2
+Alma,Fly,Undirected,1
+Alma,Røsa,Undirected,2
+Janette,Tyring,Undirected,3
+Holgersen,Rosa,Undirected,1
+Janette,Snøde,Undirected,1
+Adolf,Snøde,Undirected,1
+Adolf,Snpde,Undirected,1
+Greven,Hjelmskjold,Undirected,1
+Bravo,Oskar,Undirected,1
+Greven,nvillig,Undirected,1
+Greven,Karl,Undirected,1
+Karl,Oskar,Undirected,1
+Adolf,Oskar,Undirected,1
+Hr. Greve,Janette,Undirected,1
+Greven,OskarS,Undirected,1
+Grev Fly,Rosa,Undirected,2
+Rosa,Te,Undirected,1
+Adolf,Dyring,Undirected,1
+Dyring,Thronen,Undirected,1
+David,Gud,Undirected,1
+Grev Fly,stg,Undirected,1
+Greve,Oskar,Undirected,1
+Etatsraad Verners,Grev Fly,Undirected,1
+Janette,fluide,Undirected,1
+Oskar,Partouch,Undirected,5
+Maastee,Oskar,Undirected,1
+Oskar,fil,Undirected,1
+fil,tom,Undirected,1
+Oskar,tom,Undirected,1
+Oskar,Rosa,Undirected,7
+Oskar,Tet,Undirected,1
+,Madam Truelsen,Undirected,1
+Madam Truelsen,Oskar,Undirected,5
+Oskar,ban,Undirected,1
+Grev Fly,Holgersen,Undirected,2
+Max,ilive,Undirected,1
+Oskar,ilive,Undirected,1
+Oskar,sidsfe,Undirected,1
+Gud,Janette Dyring,Undirected,1
+Janette Dyring,Oskar,Undirected,1
+Greve,Janet e,Undirected,1
+Adolf Tøndesen,Janet e,Undirected,1
+Alma,iveien,Undirected,1
+Dyrmg Tøndesen,Grev Fly,Undirected,1
+Grev Fly,lee,Undirected,1
+Greven,Sophaen,Undirected,1
+Greven,Gud,Undirected,1
+Janette,Oekar,Undirected,1
+Fedre,Oekar,Undirected,1
+Fedre,Janette,Undirected,1
+Brammer,Greven,Undirected,1
+Brammer,ban,Undirected,1
+Brammer,Janette,Undirected,1
+Hjelmskjold,ester,Undirected,1
+Oskar,ester,Undirected,1
+Janette,Villiekraff,Undirected,1
+Fly,Tøndesen,Undirected,1
+Adolf,Fly,Undirected,1
+Adolf,Holgersen,Undirected,1
+Adolf,Maud,Undirected,1
+Adolf,Adols,Undirected,1
+Steen,hans,Undirected,1

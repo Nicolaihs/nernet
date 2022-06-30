@@ -1,0 +1,207 @@
+source,target,type,weight
+Rødberg,list,Undirected,1
+Borchgrevink,Rødberg,Undirected,1
+Melhus,Mikkel,Undirected,1
+derborte,ivinter,Undirected,1
+ivinter,ivold,Undirected,1
+Lågene,eins,Undirected,1
+Melhus,Ola,Undirected,1
+eg,kje hr. Hansen,Undirected,2
+Dokkes,eg,Undirected,1
+Eg,eg,Undirected,2
+Fitter,Fredrikke,Undirected,2
+Eg,Fitter,Undirected,1
+Eg,hemenifra,Undirected,1
+hemenifra,hon,Undirected,1
+Fredrikke,hon,Undirected,2
+Rødberg,iland,Undirected,1
+Hansen,iland,Undirected,1
+Borchgrevink,Hansen,Undirected,2
+Korlissen,eg,Undirected,1
+eg,hon,Undirected,1
+Rødberg,hon,Undirected,1
+Melhus,skotted,Undirected,1
+Einar,Todt-,Undirected,1
+Hansen,mamma,Undirected,1
+Einar,mamma,Undirected,2
+Brinkmans,Mammys,Undirected,1
+Schiller,arne hun,Undirected,1
+Hansen,Schiller,Undirected,1
+Gud,Todtland,Undirected,1
+Fredrikke,stræved,Undirected,1
+Fredrikke,Kornelius Hermansen,Undirected,1
+Ola,snil Hansen,Undirected,1
+Ola,Rødberg,Undirected,1
+Jag seilan,jag,Undirected,1
+Tinka,igåraftes,Undirected,1
+Ritter,Tinka,Undirected,1
+fars,mor,Undirected,1
+Petrine Gundersen,mor,Undirected,1
+Fredrikke,Rødberg,Undirected,2
+Fredrikke,Kornelius,Undirected,1
+Kornelius,Rødberg,Undirected,1
+Fredrikke,Todtland,Undirected,3
+Jakob,Todtland,Undirected,1
+Fitter,Mammy,Undirected,2
+Fitter,Hansen,Undirected,2
+Einar,Mossa,Undirected,2
+Mossa,Rikke,Undirected,3
+Einar,Gutten,Undirected,1
+Kramer,hr. Kramer,Undirected,1
+Borchgrevink,Voss,Undirected,1
+Borchgrevink,Gud,Undirected,2
+Gud,Voss,Undirected,1
+Thea,Voss,Undirected,1
+Thea,fars,Undirected,1
+fars,isommer,Undirected,1
+isommer,whist,Undirected,1
+Mammy,whist,Undirected,1
+Karoline,Mammy,Undirected,2
+Mammy,Thea,Undirected,1
+Karoline,Thea,Undirected,1
+Karoline,stakkar,Undirected,1
+Borchgrevink,Morten Rode,Undirected,1
+Ask,Morten Rode,Undirected,2
+Morten Rode,Ritter,Undirected,1
+Ritter,hans,Undirected,1
+Fredrikke,hans,Undirected,1
+Karoline,Olaf Trygvasonsskjæg,Undirected,1
+Hansen,Karoline,Undirected,1
+Hansen,Mammy,Undirected,14
+Mammy,Voss,Undirected,1
+A,Hansen,Undirected,2
+Melby,iveien,Undirected,1
+F'redrikke,frøken Olsen,Undirected,1
+Fredrikke,Mammy,Undirected,15
+Borchgrevink,Mammy,Undirected,3
+Fetrine Gundersens,Fredrikke,Undirected,1
+Brinkman,kaptein,Undirected,1
+Borchgrevink,Fredrikke,Undirected,3
+Borchgrevink,Kramer,Undirected,5
+Ofelia,Voss,Undirected,1
+Monsen,Ofelia,Undirected,1
+Borchgrevink,Sarah Bernhard,Undirected,1
+Brinkman,Mammy,Undirected,6
+Brinkman,Kramer,Undirected,2
+Einar,Ou est Ribaut,Undirected,1
+Ou est Ribaut,hr. Kramer,Undirected,1
+Borchgrevink,hr. Kramer,Undirected,1
+Borchgrevink,Brinkman,Undirected,2
+Mammy,hr. Kramer,Undirected,1
+Borchgrevink,blunked,Undirected,1
+Fredrikke,smålo,Undirected,1
+Kramer,smålo,Undirected,1
+Mammy,sultan,Undirected,3
+Gud,Mammy,Undirected,3
+Jakob,Mammy,Undirected,3
+Jakob,hans,Undirected,1
+Mammy,hans,Undirected,1
+Jakob,påny,Undirected,1
+Mammy,påny,Undirected,1
+Fredrikke,Hansen,Undirected,9
+Gud,Hansen,Undirected,1
+Kornelius Hermansen,Mammy,Undirected,1
+Hansen,Nei Mammy,Undirected,1
+Fredrikke,Nei Mammy,Undirected,1
+Einar,Mammy,Undirected,1
+Einarmand,Mossa,Undirected,1
+Kramer,poik,Undirected,1
+tilleie,trur eg,Undirected,1
+Mammy,trur eg,Undirected,1
+Gunhilde,Monne,Undirected,1
+Monne,Zobel,Undirected,1
+Brinkman,ekornskind,Undirected,1
+Brinkman,Teutobonerskoven,Undirected,1
+Fredrikke,Ola,Undirected,1
+Engels,Ola,Undirected,1
+Fredrikke,Vos,Undirected,3
+Mammy,Vos,Undirected,1
+Engel,Rødbergens,Undirected,1
+Todtland,prat,Undirected,1
+Vos,pleier,Undirected,1
+Hansen,Vos,Undirected,1
+Madam Johnsen,madam Johnsens,Undirected,1
+Mads,iland,Undirected,1
+Fredrikke,madam Johnsens,Undirected,1
+Fredrikke,iland,Undirected,1
+Mammy,iland,Undirected,1
+Mammy,etablissementet,Undirected,1
+Borchgrevink,Vos,Undirected,1
+Hansen,Hartvig,Undirected,2
+Hansen,kjærringa,Undirected,1
+Brinkman,H.,Undirected,1
+H.,M.,Undirected,1
+M.,Mammy,Undirected,1
+Mammy,flout,Undirected,1
+Ola,oren,Undirected,1
+Hansen,oren,Undirected,1
+Hansen,nichts,Undirected,2
+Hansen,gud,Undirected,2
+Anna,Karl,Undirected,1
+Anna,Anna stans,Undirected,1
+Anna stans,gud,Undirected,1
+Todtland,dreied,Undirected,1
+Hansen,pleied,Undirected,1
+Mr. Hansen,Ola,Undirected,1
+Hansen,Petrine,Undirected,1
+Borchgrevink,kjør,Undirected,1
+kjør,langeleken,Undirected,1
+Fredrikke,Kanske,Undirected,1
+Fredrikke,P'redrikkes,Undirected,1
+P'redrikkes,tatervild,Undirected,1
+Borchgrevink,Prebensen,Undirected,1
+Mammy,Prebensen,Undirected,2
+Ingolf,Mammy,Undirected,4
+Hansen,Prebensen,Undirected,1
+Ingolf Hartvig,Prebensen,Undirected,1
+Hansen,Ingolf Hartvig,Undirected,1
+Prebensen,fedegris,Undirected,1
+Prebensen,Sei meg Hartvig,Undirected,1
+Johan Ludvig,jaggu,Undirected,1
+jaggu,meg,Undirected,1
+eg,meg,Undirected,1
+Hansen,ifjorhøst,Undirected,1
+ifjorhøst,toddy,Undirected,1
+Hansen,idetheletat,Undirected,1
+Hansen,unna,Undirected,1
+F'redrikke,Hansen,Undirected,1
+Borchgrevink,snille Borcho grevink,Undirected,2
+Johannes Østrebø,Lars Larsen,Undirected,1
+Gud,Johannes Østrebø,Undirected,1
+Ingolf,gud,Undirected,3
+Andrea,gud,Undirected,1
+Mammy,meg,Undirected,1
+Andrea,Mammy,Undirected,1
+Andrea,Ingolf,Undirected,1
+Fredrikke,Ingolf,Undirected,1
+Ingolf,kjære Ingolf,Undirected,1
+Mammy,skoted,Undirected,1
+Ingolf kasted,skoted,Undirected,1
+Gud,Ingolf,Undirected,1
+Brochgrevink,Ingolf,Undirected,1
+Mammy,asters,Undirected,2
+Mammy,Stokkes,Undirected,1
+Borchgrevink,Petrine,Undirected,1
+Borchgrevink,Einar,Undirected,2
+Vos,kaptein Andersen,Undirected,1
+Eg,Vos,Undirected,1
+Mammy,Pedersen,Undirected,1
+Mammy,lise,Undirected,1
+Petrine,Stokkes,Undirected,1
+Borchgrevink,Pallas,Undirected,1
+Hansen,Rikke,Undirected,1
+Anna,gnier,Undirected,1
+Einar,isvang,Undirected,1
+Brinkman,Hansen,Undirected,1
+Fredrikke bøied,Mammy,Undirected,1
+Mammy,Tullas,Undirected,1
+Hansen,Tullas,Undirected,1
+Fetrine,Mammy,Undirected,1
+Fetrine,Todtland,Undirected,1
+Todtland,keg,Undirected,1
+Korlissen,Mammy,Undirected,1
+Fredrikke,Tulla,Undirected,2
+Olai,Trinemor,Undirected,1
+Hans,Trinemor,Undirected,1
+Fitter,eg,Undirected,1
+Hansen,Tulla,Undirected,1

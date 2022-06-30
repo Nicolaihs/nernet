@@ -1,0 +1,29 @@
+source,target,type,weight
+Ellen,Knud,Undirected,26
+Knud,"Knud,",Undirected,1
+Ellen,"Knud,",Undirected,1
+Fjas,Knud,Undirected,1
+Filur,Knud,Undirected,1
+Ellen,Gud,Undirected,1
+Gud,Knud,Undirected,3
+Mutter,Svigerpapa,Undirected,1
+Knud,Svigerpapa,Undirected,1
+Ellen,Svigerpapa,Undirected,2
+Bo,Knud,Undirected,1
+Knud,Svigermama,Undirected,2
+Ellen,Karl,Undirected,2
+Knud,Mas,Undirected,1
+Khrsen,Knud,Undirected,1
+Mamsellen,madame,Undirected,2
+madame,meurt de peur,Undirected,1
+Knud,Mamsellen,Undirected,1
+madame,monsieur,Undirected,1
+Knud,Kong Georg,Undirected,2
+Ellen,strængt,Undirected,1
+Ellen,Piræus,Undirected,2
+Gud,Mamsellen,Undirected,1
+Goethe,Gretchen,Undirected,1
+Gud,Skottes,Undirected,1
+Gud,grant,Undirected,1
+Adil Bey,Bey,Undirected,1
+Adil,hombre,Undirected,1

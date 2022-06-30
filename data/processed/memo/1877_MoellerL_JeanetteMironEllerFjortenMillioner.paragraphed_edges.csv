@@ -1,0 +1,399 @@
+source,target,type,weight
+Jean,seiklar,Undirected,1
+Jean,Joseph Miron,Undirected,1
+Greve af,Joseph Miron,Undirected,1
+Avernon,Greve af,Undirected,1
+Charles,Jeannette,Undirected,13
+Jeannette,Jlden,Undirected,1
+ester,lille Charles,Undirected,1
+Fasmer,reisfe,Undirected,1
+Dn,Jeannette,Undirected,1
+Charles,Fasmer,Undirected,2
+Jdctsamme,hnn,Undirected,1
+Greve,Gud,Undirected,1
+Grevens,Gud,Undirected,1
+Fasmer,Hr. Dupelin,Undirected,1
+Fasmer,Grev de Miron,Undirected,1
+Charles,Jeanette,Undirected,2
+Fasmer,de Miron,Undirected,1
+Mirons,Raoul,Undirected,1
+Jeannette Miron,Poul Verner,Undirected,3
+Jeannette,Poul Verner,Undirected,5
+Gud,Jeannette,Undirected,6
+Simon,Stig,Undirected,1
+Gud,Kudsken,Undirected,1
+Henri,Kudsken,Undirected,1
+Greve,Henri,Undirected,1
+Gud,Henri,Undirected,1
+iveiret,kundc,Undirected,1
+Poul Verner,ester,Undirected,1
+Greven,ivold,Undirected,1
+Alfonce,Greven,Undirected,1
+Babiron,næsfen,Undirected,1
+Kudsken,nun Drosche,Undirected,1
+Miron,Nei,Undirected,1
+Nei,mintro,Undirected,1
+Aland,Madam Babiron,Undirected,1
+Madam Babiron,Miron,Undirected,1
+Charles,Miron,Undirected,1
+Charles,Jeannette Miron,Undirected,3
+Jeannette Miron,freni,Undirected,1
+Charles,freni,Undirected,1
+Jeannette,Poul Berner,Undirected,1
+Jeannette,sorn,Undirected,1
+Poul,sorn,Undirected,1
+Charles,Poul,Undirected,2
+Jeannette,Poul,Undirected,11
+Charles,Madame Didon,Undirected,1
+Charles,Hnn,Undirected,1
+Jeannette,Madame Didon,Undirected,4
+Hr. Verner,Madam Didon,Undirected,1
+Jeannette,Poul Verner knnde,Undirected,1
+Jsmand,Madame Didon,Undirected,1
+Jsmand,Poul,Undirected,1
+Didons,Jeannette,Undirected,1
+Jeannette,Verners,Undirected,1
+Charles,Ieg,Undirected,1
+Didvn,Mirou,Undirected,1
+Mirou,hnn,Undirected,1
+Bien,Madam,Undirected,1
+Gud,Madame Didon,Undirected,1
+,Charles,Undirected,3
+Jeannette,Jeannette Miron,Undirected,2
+Charles Miron,Poul,Undirected,2
+Cecilie,Jeannette,Undirected,9
+Cecilie,Jomfru Cecilie,Undirected,1
+Jomfru Cecilie,Jomfru Jeannette,Undirected,1
+Jomfru Jeannette,Poul,Undirected,1
+Cecilie Sarbonne,Charles,Undirected,1
+Cecilie,loe,Undirected,1
+Lcpart,Lepart,Undirected,1
+Kærlighcdcn,Poul,Undirected,1
+Cecilie Sarbonne,Limon,Undirected,1
+Cecilie,Samson,Undirected,5
+Cecilie,Simon,Undirected,12
+Ceeilies,Poul Verner,Undirected,1
+Simon,loe,Undirected,3
+Jeannette,Simon,Undirected,2
+Simon,fig,Undirected,1
+Jerome,Simon,Undirected,44
+Jeannette Mirøn,Poul Verner,Undirected,1
+Babiron,Jeannette,Undirected,1
+Jeannette,nied,Undirected,1
+Jeannette,Madame,Undirected,2
+Jeannette,Madame Babiron,Undirected,1
+Madame Babiron,loe,Undirected,1
+Jeannette,felv,Undirected,1
+Flaconcn,Simon,Undirected,1
+Hr. Jerome,Simon,Undirected,1
+Babine,Jerome,Undirected,22
+Jerome,paany,Undirected,1
+Jeannette,Jerome,Undirected,3
+Tippo,mi,Undirected,1
+Herren,Jerome,Undirected,4
+Jerome,fig,Undirected,1
+Babine,Jeannette,Undirected,10
+Jerome,Lepart,Undirected,1
+Jerome,loe,Undirected,1
+Jerome,hiin,Undirected,1
+Babine,hiin,Undirected,1
+Babine,hnn,Undirected,2
+Trosf,hnn,Undirected,2
+Grev Tonard,Henri Duvant,Undirected,1
+Grev Tonard,Poul Verner,Undirected,1
+Jeannette Miron,Verner,Undirected,1
+Verner,taalmodig,Undirected,1
+Charles Miron,Jeannette,Undirected,2
+Charles Miron,Verner,Undirected,1
+Dupelin,ilive,Undirected,1
+Dupelin,Praxis,Undirected,1
+Sarbvnne,lille Cecilie,Undirected,1
+Cecilie,Henri,Undirected,1
+Henri,Jeannette Miron,Undirected,1
+Cecilie Sarbonne,Simon,Undirected,2
+Poul,Simon,Undirected,2
+Henri,Jomfru Sarbonne,Undirected,1
+Poul Verner,Simon dreiede,Undirected,1
+Poul Verner,Simon,Undirected,1
+Simon Jernkno,Verner,Undirected,1
+Simon Jernkno,Tonard,Undirected,1
+Roes,Simon,Undirected,1
+Cecilie,hendcs,Undirected,1
+Simon „,loe,Undirected,1
+Adre,lille Simon,Undirected,1
+Cecilie,lille Simon,Undirected,1
+Satan,Uslingen,Undirected,1
+Satan,Simon,Undirected,1
+Samson,Simon,Undirected,4
+Gud,Simon,Undirected,2
+rimelivis,sorn Cecilie,Undirected,1
+Simon,hnn,Undirected,1
+Samson,Simon loe,Undirected,1
+Jerome,hnn,Undirected,1
+Arnould,Babine,Undirected,4
+Babine,ester,Undirected,1
+Babine,Jervme,Undirected,1
+Didon,Poul,Undirected,1
+Babine,Madame Babines,Undirected,1
+Babine,Gud,Undirected,2
+Gud,Mademoiselle,Undirected,1
+Arnonld,Mademoiselle,Undirected,1
+Arnould,Jerome,Undirected,6
+Aare,Jeannette,Undirected,1
+Aare,Arnould,Undirected,1
+ester,iland,Undirected,1
+Atand,Jerome,Undirected,1
+Madame,Simon,Undirected,1
+Madame,ester,Undirected,1
+dex,sone,Undirected,1
+Cecilie,sone,Undirected,1
+Jerome,Madame,Undirected,1
+Babine,Simon,Undirected,12
+Arnould,Madame Jerome,Undirected,1
+Simon,nei,Undirected,1
+Arnould,nei,Undirected,1
+Jerome,Madame Babine,Undirected,2
+Jerome,ilive,Undirected,1
+Babine,Halfen,Undirected,1
+Villie,hnn,Undirected,1
+Babine,iland,Undirected,1
+Jerome,iland,Undirected,1
+Arnould,Jeannette,Undirected,9
+Arnould,iland,Undirected,1
+Arnvuld,Babine,Undirected,1
+Simon,hani,Undirected,1
+Maja,Zambo,Undirected,7
+Alfvnce,Tonard,Undirected,1
+Alfvnce,Poul Verner,Undirected,1
+Jeannette,Verner,Undirected,1
+Jeannette,Maja,Undirected,6
+Hnn,hnn,Undirected,1
+Bien,Maja,Undirected,1
+Maja,Verner,Undirected,2
+Herren,Maja,Undirected,1
+Adre,Maja,Undirected,1
+Madame,Maja,Undirected,1
+Maja,hnn,Undirected,1
+Henri Duvant,Maja,Undirected,1
+Babine,Maja,Undirected,3
+Henrik IV,Kai,Undirected,3
+Didon,Gud,Undirected,1
+Jeannette,Mademoiselle,Undirected,1
+Arnould,Ponl,Undirected,1
+Madame Didon,Poul,Undirected,2
+Henrik IV,Jeannette,Undirected,1
+Kai,fo Droscher,Undirected,1
+Jeannetfe,Mademoiselle,Undirected,1
+Jeannette,Karl,Undirected,1
+Karl,Mademoiselle,Undirected,1
+Arnould,Jeanette,Undirected,1
+Jerome,Mademoiselle,Undirected,2
+Accuratesse,Jacques,Undirected,1
+Jeannette,stig,Undirected,1
+Duvant,Poul Verner,Undirected,1
+Jeanette,Verner,Undirected,1
+Cecilie,Sorbonne,Undirected,1
+Simon,Sorbonne,Undirected,1
+Duvant,Jerome,Undirected,1
+Babine,Duvant,Undirected,1
+Duvant,Jeannette,Undirected,1
+Duvant,Maja,Undirected,2
+Simon,Tonard,Undirected,2
+Arnould,Poul Verner,Undirected,1
+Duvant,Madame Didon,Undirected,1
+Poul,Tonard,Undirected,1
+Maja,sif,Undirected,1
+Jeannette The,Maja,Undirected,1
+Louis de Moulin,Niels Ebbesen,Undirected,1
+Jean Joseph de Miron,de Miron,Undirected,1
+Dupelin,Jean Joseph de Miron,Undirected,1
+Dupelin,Miron,Undirected,2
+Dupelin,de Miron,Undirected,3
+Domino,Greven,Undirected,1
+Domino,fom,Undirected,1
+Dominoen,Dupelin,Undirected,1
+Alan,tom Leietjener,Undirected,1
+Drosche,Jeannette Miron,Undirected,1
+Jeannette Miron,Simon,Undirected,1
+Droschen,Lepart,Undirected,1
+D ,Jerome,Undirected,1
+Herren,Simon,Undirected,1
+Simon,filfreds,Undirected,1
+Dn,Simon,Undirected,1
+Droschckudst,Lepart,Undirected,1
+Jeannette,Zambo,Undirected,2
+Dupelin,Lepart,Undirected,1
+Jean,Joseph,Undirected,1
+Lepart,fig,Undirected,1
+Zambo,fom,Undirected,1
+Babine,Midiem,Undirected,1
+Dupelin,Jeannette Miron,Undirected,2
+Komtessens,arresferet,Undirected,1
+Tys,Zambo,Undirected,1
+Jeannette Miron,Poul,Undirected,1
+Grev Tonard,Poul,Undirected,1
+Alfonce,Tonard,Undirected,1
+Jeannette,Tonard,Undirected,1
+Maja,Poul,Undirected,2
+Alfonce,Poul,Undirected,1
+Alfonce,Jeannette,Undirected,1
+Charles,Heras,Undirected,1
+Gud,Madame,Undirected,1
+Dupelin,Gud,Undirected,2
+Jeannette,Maja“,Undirected,1
+Hindupigen,Maja“,Undirected,1
+Hindupigen,Jeannette,Undirected,1
+Hindupigen,Zambo,Undirected,1
+Arnould,Simon,Undirected,4
+Jerome tradsker,Simon,Undirected,1
+Jeannette „,Mademoiselle,Undirected,2
+Mademoiselle,Simon,Undirected,1
+Babine,Mademoiselle,Undirected,1
+Jomfrn,Zambo,Undirected,2
+Dupelin,Zambo,Undirected,2
+Arnould høiere,Zambo,Undirected,1
+Duvant“,Mademoiselle Jeannette Miron,Undirected,1
+Henri,Karl,Undirected,1
+Madame Babiron,Madame Herbert,Undirected,1
+Babine,Madame Babiron,Undirected,1
+Herbert,Mutter Herbert,Undirected,1
+Jeanette,Jerome,Undirected,1
+Babine,Jeanette,Undirected,1
+Madam Jerome,Mutter Herbert,Undirected,1
+Babine,Mutter Herbert,Undirected,2
+Herbert,Mutter,Undirected,6
+Hr. Jerome,Madame Jerome,Undirected,1
+Gud,Mutter,Undirected,2
+Simon Hundeklippcr,sone,Undirected,1
+Heida,heida,Undirected,1
+Mutter Herbert,Simon,Undirected,3
+Gud,Simon Jernkno,Undirected,1
+Herbert,lille Madame Herbert,Undirected,1
+Babine,lille Madame Herbert,Undirected,1
+Simon,Sissy,Undirected,1
+Ninette,Nini,Undirected,1
+Babine,Madam Herbert,Undirected,1
+Eu svag,Jeannette,Undirected,1
+Henri,Jeannette,Undirected,6
+Henri,Kjør,Undirected,1
+Cecilie Sorbonne,Grev Tonard,Undirected,1
+Grev Tonard,Simon,Undirected,1
+Henri,Hnn,Undirected,1
+Frøken de Miron,Jeannette,Undirected,1
+Henri,Jomfru Cecilie,Undirected,1
+Cccilies,Jeannette,Undirected,1
+Cccilies,Maja,Undirected,1
+Cecilie,Jomfru Jeannette,Undirected,1
+Simon Hundeklipper,Simon Jernkno,Undirected,1
+Arnould,Jeannette Miron,Undirected,1
+Jeannette Miron,Sinion,Undirected,1
+Jerome,Sinion,Undirected,1
+Babine,Toulon,Undirected,1
+Jerome,Toulon,Undirected,1
+Gud,sri,Undirected,1
+Arnould,sri,Undirected,1
+Arnould,Dupelin,Undirected,3
+Babine,Ludvig,Undirected,1
+Arnould,Kong Ludvigs,Undirected,1
+Dupelin,Jesu,Undirected,1
+Arnould,loe Arnould,Undirected,1
+Arnould,lille Arnould,Undirected,1
+Arnould,Charles Miron,Undirected,1
+Charles Miron,Dupelin,Undirected,1
+Dupelin,Jeannette,Undirected,2
+Arnould,Charles,Undirected,12
+Arnould,Gud,Undirected,2
+Arnould,as Arnould,Undirected,1
+Charles,as Arnould,Undirected,1
+Charles,Ester,Undirected,1
+Charles,igjeu,Undirected,1
+Charles,Jerome,Undirected,2
+Babine,Dupelin,Undirected,2
+Charles,Dupelin,Undirected,1
+Arnonld,Charles,Undirected,2
+Charles,Duvant,Undirected,2
+Arnonld,Zambo,Undirected,1
+Gud,kjør,Undirected,1
+Arnould,Zambo,Undirected,1
+Babine,Jerøme,Undirected,1
+Karl,lille Simon,Undirected,1
+Simon,lille Simon,Undirected,1
+Babine,Lepart,Undirected,1
+Lepart,Simon,Undirected,2
+Simon,Simon Hundeklipper,Undirected,1
+Simon,assied,Undirected,1
+Cecilie Sarbonne,Jeanne,Undirected,1
+Cecilie Sarbonne,Jeanne Tiron,Undirected,1
+de Miron,fom,Undirected,1
+Don Juan,de Miron,Undirected,1
+loe Kudsken,reisfe,Undirected,1
+Jeannette,Miron,Undirected,3
+Grev à,Miron,Undirected,1
+Fasmer,Miron,Undirected,4
+Greven,fom,Undirected,1
+Frøken Komtesse,Jeannette Miron,Undirected,1
+Jeannette Miron,de Miron,Undirected,1
+Greve,Jeannette,Undirected,1
+Greven,Jeannette,Undirected,1
+Ierome,Simon,Undirected,1
+Ierome,Knlsviderdragtcn,Undirected,1
+Jesu,Maria,Undirected,1
+Jeannette,Kudflens,Undirected,1
+Flacons,Jeannette,Undirected,1
+Greven,Kudsken,Undirected,1
+Kudsken,Pierre,Undirected,1
+Simon,Simon Jernkno,Undirected,2
+Jerome,Tonard,Undirected,2
+Arnould,Cecilie,Undirected,1
+Dupelin,Greven,Undirected,7
+Jeannette,strax,Undirected,1
+Greve,loe,Undirected,1
+Kasfor,Styx,Undirected,1
+Styx,Verner,Undirected,1
+Bravo,Dupelin,Undirected,1
+Dupelin,Fasmer,Undirected,2
+Jeannette,Mairen,Undirected,1
+Eiendele,soin,Undirected,1
+Babine,Babiron,Undirected,1
+Jeannette,fnldgodc,Undirected,1
+Dupelin,Mairen,Undirected,1
+Mairen,Støi,Undirected,1
+Grev ås,Miron,Undirected,1
+Dupelin,soni,Undirected,1
+Charles Miron,Jeannette Miron,Undirected,1
+Gud,de Miron,Undirected,1
+Maire,Miron,Undirected,1
+Fasmer,Grev Miron,Undirected,1
+Fasmer,undvegen Galeislave sra Toulon,Undirected,1
+Miron,undvegen Galeislave sra Toulon,Undirected,1
+Gud,Miron,Undirected,1
+Greven,Seircn,Undirected,1
+Dupelin,Keiserens,Undirected,1
+Charles,Gud,Undirected,1
+Duvant,Zambo,Undirected,1
+Henri,Tonard,Undirected,4
+Duvant,Henri,Undirected,1
+Fasmer,son,Undirected,1
+Simon,son,Undirected,1
+Fasmer,Simon,Undirected,1
+Fasmer,Jeanette,Undirected,1
+Berden,Jerome,Undirected,1
+Berden,Simon,Undirected,1
+Jerome Blyslynge,Simon Jernkno,Undirected,1
+Greve,Jerome,Undirected,1
+Greve,Simon,Undirected,1
+Henri,Jerome,Undirected,1
+Raoul,nien,Undirected,1
+Fasmer,Raoul,Undirected,2
+Fasmer,Raoul stræbte,Undirected,1
+Raoul stræbte,Uslingen,Undirected,1
+Raoul,Uslingen,Undirected,1
+Doctor Duvant,Jeannette Miron,Undirected,1
+Doctor Duvant,Maja,Undirected,1
+Henri,Maja,Undirected,1
+Cecilie Sorbonne,Henri,Undirected,1
+Cecilie Sorbonne,Poul,Undirected,1
+Jeannette,deni,Undirected,1
+deni,hellerikkc,Undirected,1
+Poul,hellerikkc,Undirected,1
+Poul Verner,Rhinflod,Undirected,1

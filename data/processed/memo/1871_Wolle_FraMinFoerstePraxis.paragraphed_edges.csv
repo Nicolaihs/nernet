@@ -1,0 +1,146 @@
+source,target,type,weight
+Valseth,hnn,Undirected,1
+Gamborg,Tor,Undirected,1
+Justitsraad P.,Tor,Undirected,1
+Justitsraad P.,L.,Undirected,1
+Ester,Valseth,Undirected,2
+Gothes Torquato Tasso,Vnlseth,Undirected,1
+Gothes,Valseth,Undirected,1
+Valseth,Vision,Undirected,1
+Einar,Valseth,Undirected,1
+Arthurs,Valseth,Undirected,1
+Sands,Valseth,Undirected,1
+Frøken Ottilia,Valseth,Undirected,1
+Gøthes,Valseth,Undirected,1
+Herr Einar Vilson,Valseth,Undirected,1
+Herr Vilson,Valseth,Undirected,1
+Don Juan,Figaro,Undirected,1
+Ottilia,Valseth,Undirected,9
+Ottilia,Tantes,Undirected,1
+Bellman,Valseth,Undirected,2
+Ottilia,accompagnerede,Undirected,1
+Valseth,Vilson,Undirected,19
+Bellman,Vilson,Undirected,1
+Fortepiano,Vilson,Undirected,1
+Alleflags,Vilson,Undirected,1
+Ottilia,bun,Undirected,1
+bun,f.,Undirected,1
+Einar Vilsøn,Ernst Valseth,Undirected,1
+Ingeborg,Vilson,Undirected,2
+Ernst,Steen,Undirected,1
+Fader,Ottilia,Undirected,1
+Fader,rilflrev,Undirected,1
+Ernst,rilflrev,Undirected,1
+Capitain Valseth,Ernst,Undirected,1
+Capitain Valseth,ban,Undirected,1
+Vilson,hnn,Undirected,1
+Ernsf,Valseth,Undirected,1
+Banquos,Macbeth,Undirected,1
+Tordenskjold,Tordenskjolds,Undirected,1
+Oehlenschlager,Tordenskjold,Undirected,2
+Euren,Tet,Undirected,1
+Reis,reis,Undirected,1
+Calas,alflens,Undirected,1
+Christen,Jesper Ridefoged-Sjæle,Undirected,1
+Jesper Ridefoged-Sjæle,froe,Undirected,1
+froe,ve,Undirected,1
+A,B,Undirected,2
+A,s,Undirected,2
+B,s,Undirected,1
+Gud,froe,Undirected,2
+Ottilia,Vilson,Undirected,4
+ester,hnn,Undirected,1
+Arthur,hnn,Undirected,2
+Valscths,Valselhs,Undirected,1
+Valselhs,Valseth,Undirected,1
+Vilson,tans,Undirected,1
+Arthur,Mechanist,Undirected,1
+Arthur,Phlegma,Undirected,1
+Arthur „,Sands,Undirected,1
+Arthur,Steen lettet,Undirected,1
+flet,siven,Undirected,1
+flet,hans Lectier,Undirected,1
+Valseth,fælleds,Undirected,1
+Sonneson,fælleds,Undirected,1
+Sonneson,Valseth,Undirected,1
+Arthur,ban,Undirected,1
+Arthur,Røsf,Undirected,2
+Vilson,hel,Undirected,1
+Valseth,hel,Undirected,1
+ban,j,Undirected,1
+Styx,flux,Undirected,1
+Peer,Poul,Undirected,2
+Vilson,ester,Undirected,1
+Beiler,Valseth,Undirected,1
+Arthur,Vilson,Undirected,5
+Juta,Juul,Undirected,1
+Valseth,taug,Undirected,1
+Vilson,fleet,Undirected,1
+Gamborg,fleet,Undirected,1
+Margrethe,Steiner,Undirected,1
+Steen øg,Steiner,Undirected,1
+Sands,Steiner,Undirected,1
+Døttre,Sands,Undirected,1
+Falbes,Ingeborg,Undirected,3
+Ingeborg,Priis,Undirected,1
+Margrethe,froede,Undirected,1
+Ingeborg,sif,Undirected,1
+Gud,Papa,Undirected,1
+Ingeborg,Papa,Undirected,1
+Mamas,Papa,Undirected,1
+Ernst Valseth,freies,Undirected,1
+Ingeborg,Sands,Undirected,1
+Ingeborg,Valseth,Undirected,1
+Ingeborg,hnn,Undirected,1
+Ingeborg,lee,Undirected,1
+Gud,Ingeborg,Undirected,1
+Alrune,Ingeborg,Undirected,1
+Consulens,flemme,Undirected,1
+Katechetens,flemme,Undirected,1
+Ingeborg,Katechetens,Undirected,1
+Jørgen Smidt,Thygesen,Undirected,2
+Anger,Ester,Undirected,1
+Anger,ester,Undirected,1
+Frn Valseth,Juta,Undirected,1
+Frn Valseth,Valseth,Undirected,1
+Juta,Jv,Undirected,1
+Arthur,Juta,Undirected,12
+.,Valseth,Undirected,1
+Bajads,Juta,Undirected,1
+Arthur,Bajads,Undirected,3
+Arthur,Valseth,Undirected,1
+Arthur,Oren,Undirected,1
+Oren,barsfe,Undirected,1
+Arthur,barsfe,Undirected,1
+Arthur,Ottilia,Undirected,2
+Falbe,Valseth,Undirected,1
+Ore,Valseth,Undirected,1
+Arthur,Frøken Valseth,Undirected,1
+Arthur,Gud,Undirected,2
+Lille Juta,Ottilia,Undirected,1
+Arthur,Lille Juta,Undirected,1
+Knos,Vilson,Undirected,1
+Hogarth,Vilson,Undirected,1
+Hogarth,Juta,Undirected,1
+Valseth,Villie,Undirected,1
+Marven,ester,Undirected,1
+Vilson,dito,Undirected,1
+as,dito,Undirected,1
+Hnn,ban,Undirected,1
+Ester,ester,Undirected,1
+Haus,Loiers,Undirected,1
+Loiers,Mcarius,Undirected,1
+Arthur,Moster,Undirected,1
+Moster,ban,Undirected,1
+Cousine,Juta,Undirected,1
+Gud,Juta,Undirected,1
+Juta,Sophaen,Undirected,1
+Arthur,Sophaen,Undirected,1
+Arthur øg Juta,Valseth,Undirected,1
+Juta,Vilson,Undirected,1
+Ingeborg,Ottilia,Undirected,1
+Einar Vilson,Ernst Valseth,Undirected,1
+Einar Vilson,Valseth,Undirected,1
+Ernst Valseth,Vilson,Undirected,1
+Juta,Valseth,Undirected,1
+Juta,hnn,Undirected,1

@@ -1,0 +1,287 @@
+source,target,type,weight
+Kjær,Madam Kjær,Undirected,2
+Kjær,Sofie,Undirected,16
+Guds,Kjær,Undirected,3
+Guds,Sofie,Undirected,1
+Julius,Kjær,Undirected,12
+Hansen,Julius,Undirected,11
+Julius,Sofie,Undirected,10
+Hansen,Kjær,Undirected,6
+Niels,Rebekka,Undirected,1
+Karen,Niels,Undirected,6
+Guds,Karen,Undirected,1
+Johannes’,Kristian den,Undirected,1
+Johannes’,Kristian,Undirected,1
+Jesus,Julius,Undirected,1
+Guds,Jesus,Undirected,1
+Guds,Julius,Undirected,1
+Guds,Hansen,Undirected,1
+Guds,Juliuses,Undirected,1
+Amen,Juliuses,Undirected,1
+Madam Kjær,Niels,Undirected,1
+Kristen Vad,Sofie,Undirected,3
+Kristen Vad,Lilbjerg,Undirected,5
+Guds,Lilbjerg,Undirected,2
+Kjær,Mette Katrine,Undirected,3
+Guds,Mette Katrine,Undirected,2
+Jørgen,Mette Katrine,Undirected,6
+Jørgen,Jørgen Skals,Undirected,1
+Jørgen Skals,Mette Katrine,Undirected,1
+Kjær,Niels,Undirected,1
+Jørgen,Niels,Undirected,1
+Kristen Vad,Svend,Undirected,1
+Jørgen,Kjær,Undirected,4
+Jørgen,Kristen Vad,Undirected,2
+Lilbjerg,Sofie,Undirected,2
+Jørgen Skals,Kjær,Undirected,4
+Kjær,Movns,Undirected,1
+Mette Katrine,Movns,Undirected,1
+Rasmus,Rasmus Kjeldsen,Undirected,1
+Adam,Rasmus,Undirected,1
+Johan,Kristen Vad,Undirected,1
+Johan,Sofie,Undirected,2
+Johan,Kjær,Undirected,2
+Jørgen Skalses,Niels,Undirected,2
+Gud,Kristen Vad,Undirected,5
+Kjær,Kristen Vad,Undirected,1
+Julius —,Kjær,Undirected,1
+Hans Mollerup,Maren Vads,Undirected,1
+Hans Mollerup,Kristen Vad,Undirected,1
+Kristen Vad,Niels Kjær,Undirected,1
+Lines,Rasmus,Undirected,1
+Rasmus,Sofie,Undirected,1
+Julius,Rasmuses,Undirected,1
+Kjær,Lilbjerg,Undirected,1
+Mette Katrine,Sofie,Undirected,3
+Karl,Mette Katrine,Undirected,1
+Jørgen,Sofie,Undirected,1
+Karl,Sofie,Undirected,1
+Jørgen Skalses,Maren Vads,Undirected,1
+Jørgen,Maren Vads,Undirected,1
+Karl,Kristen Vad,Undirected,1
+Jørgen,Movns,Undirected,2
+Rasmus Kjeldsen,Sofie,Undirected,1
+Kristen Vad,Rasmus,Undirected,1
+Gud,Lilbjerg,Undirected,3
+Lilbjerg,Niels,Undirected,1
+Julius,Jørgen,Undirected,5
+Jørgen Skals,Kristen Vad,Undirected,1
+Kristen Vad,Mette Katrine,Undirected,1
+Niels,Sofie,Undirected,1
+Blom,Hansen,Undirected,1
+Frøken Hansted,Marie,Undirected,1
+Karlen,Marie,Undirected,1
+Balle,Hansen,Undirected,7
+Hansen,Sigrid,Undirected,1
+Balle,Julius,Undirected,9
+Gud,Søren Leopold Balle,Undirected,1
+Julius,Sigrid,Undirected,18
+Balle,Pastor Hansen,Undirected,1
+Hansen,Pastor Balle,Undirected,1
+Gud,Sigrid,Undirected,4
+Balle,Sigrid,Undirected,1
+Hansen,Søren Leopold Balle,Undirected,1
+Balle,Sik,Undirected,1
+Julius,Sik,Undirected,1
+Gud,Soleøje,Undirected,1
+Isais,Sauls,Undirected,1
+Gud,Kristian,Undirected,1
+Gud,Julius,Undirected,8
+Brock,Julius,Undirected,13
+Julius,Pastor Brock,Undirected,3
+Brock,Kjær,Undirected,1
+Brock,Thomsen,Undirected,1
+Julius,Thomsen,Undirected,2
+Brock,Pastor Brock,Undirected,1
+Adam,Thomsen,Undirected,1
+Brock,Niels Thomsen,Undirected,2
+Julius,Marie Hansted,Undirected,3
+Marie,Sigrid,Undirected,22
+Brock,Marie,Undirected,1
+Brock,Karl,Undirected,1
+Jørgen Skalses,Karl,Undirected,1
+Jørgen Skalses,Mette Katrine,Undirected,1
+Kristen Vad,Marinus,Undirected,1
+Brock,Mette Katrine,Undirected,2
+Brock,Karlen,Undirected,1
+Katrine,Marinus,Undirected,1
+Gud,Marinus,Undirected,4
+Marinus,Mette Katrine,Undirected,16
+Jørgen,Marinus,Undirected,11
+Madam Kjær,Sofie,Undirected,2
+Sofie,Søren,Undirected,2
+Gud,Mette Katrine,Undirected,3
+Gud,Jørgen,Undirected,4
+Gud,Søren,Undirected,2
+Jørgen,Søren,Undirected,1
+Gud,Karlen,Undirected,1
+Jørgen,Karle,Undirected,1
+Beethovens,Chopins,Undirected,1
+Kjær,Sigrid,Undirected,6
+Darwin,Wellhausen,Undirected,1
+Jakob,Julius,Undirected,2
+Gud,Marie,Undirected,2
+Balle,Marie,Undirected,3
+Julius,Marie,Undirected,2
+Ansgars,Dalsgaards,Undirected,1
+Balle,Kjær,Undirected,2
+Julius,Saxild,Undirected,1
+Balle,Brock,Undirected,6
+Balle,Eriksen,Undirected,1
+Moses,Testa,Undirected,1
+Brock,Gud,Undirected,1
+Gud,Satans,Undirected,1
+Josefs,Kreteken,Undirected,1
+Brock,Frich,Undirected,4
+Brock,Pastor Frich,Undirected,1
+Cecilie,Frich,Undirected,2
+Brock,Cecilie,Undirected,1
+Balle,Frich,Undirected,1
+Brock,naanaa,Undirected,1
+Brock,Sigrid,Undirected,1
+Brock,Eriksen,Undirected,2
+Brock,Gigas,Undirected,2
+Brock,Euthydemos,Undirected,1
+Eriksen,Gud,Undirected,1
+Balle,Gud,Undirected,1
+Frich,Marie,Undirected,1
+Frich,Karl,Undirected,1
+Balle,Gigas,Undirected,1
+Anna,Gigas,Undirected,1
+Marie,Marie Hansted,Undirected,1
+Asta,Marie Hansted,Undirected,1
+Asta,Gerda,Undirected,1
+Brock,Nanna,Undirected,1
+Hansen,Madam Hansted,Undirected,3
+Balle,Kirstine,Undirected,1
+Balle,Madam Hansted,Undirected,1
+Julius,Madam Hansted,Undirected,12
+Blochs,Frederik,Undirected,1
+Blochs,Marie,Undirected,1
+Kjær,Marie,Undirected,6
+Hansen,Madammen,Undirected,1
+Madam Hansted,helles,Undirected,1
+Kjær,Madam Hansted,Undirected,4
+Balle,Madammen,Undirected,1
+Kjær,Madammen,Undirected,1
+Jørgen Skalses,Kjær,Undirected,1
+Jørgen,Karlen,Undirected,1
+Jørgen Skals,Marie,Undirected,1
+Madam Hansted,Marinus,Undirected,2
+Jørgen Skals,Madam Hansted,Undirected,1
+Marie,Marinus,Undirected,1
+Julius,Marinus,Undirected,3
+Juliuses,Marinus,Undirected,1
+Julius,Karlen,Undirected,1
+Gud,Marinuses,Undirected,1
+Husbonds,Marinus,Undirected,1
+Husbonds,Mette Katrine,Undirected,1
+Husbond,Mette Katrine,Undirected,1
+Juliuses,Karlen,Undirected,1
+Karlen,Marinuses,Undirected,2
+Marinus,Marinuses,Undirected,2
+Madammen,Marinus,Undirected,1
+Madam Hansted,Marie,Undirected,4
+Madam Hansted,Sigrid,Undirected,5
+Juliuses,Sigrid,Undirected,3
+Juliuses,Marie,Undirected,1
+Niels,Niels Kjær,Undirected,2
+Julius,Juliuses,Undirected,2
+Julius,Karen,Undirected,5
+Julius,Niels,Undirected,8
+Julius dér,Mette,Undirected,1
+Mette,Niels,Undirected,1
+Julius,Madam Kjær,Undirected,2
+Karen,Madam Kjær,Undirected,1
+Gud,Karen,Undirected,2
+Gud,Niels,Undirected,1
+Julius,Mette Katrine,Undirected,3
+Madam Kjær,Mette Katrine,Undirected,2
+Karen,Madam Hansted,Undirected,1
+Mette Katrine,Niels,Undirected,1
+Karen,Kramer,Undirected,1
+Peter Wohnsen,Søren,Undirected,1
+Søren,tom,Undirected,1
+Otto,Søren,Undirected,1
+Otto,Peter Wohnsen,Undirected,3
+F'ætter,Otto,Undirected,2
+Otto,Peter,Undirected,12
+Marinus,Peter,Undirected,1
+Laust Nielsen,Peter,Undirected,1
+Niels,Otto,Undirected,2
+Kramer,Niels,Undirected,1
+Gryn,Niels,Undirected,1
+Marie Hansted,Niels,Undirected,1
+Peter,Vita,Undirected,1
+Marie,Niels Ibsens,Undirected,3
+Hanne,Marie,Undirected,10
+Hanne,Peter,Undirected,1
+Marie,Otto,Undirected,1
+Marie,lille Sigrid,Undirected,1
+Hansen,Kramer,Undirected,2
+Brock,Kramer,Undirected,1
+Lilbjerg,Marie,Undirected,1
+Jesus,Marie,Undirected,1
+Brock,Jesus,Undirected,1
+Jesus,Marinus,Undirected,1
+Marinus,hans,Undirected,1
+Gud,hans,Undirected,1
+Lilbjerg,Mette Katrine,Undirected,1
+Juliuses,Mette Katrine,Undirected,1
+Madam Kjær,Marinus,Undirected,1
+Karlen,Mette Katrine,Undirected,1
+Katrine,Mette,Undirected,1
+Balle,Mette Katrine,Undirected,1
+Marie,Mette Katrine,Undirected,1
+Marinus,Sofie,Undirected,1
+Jørgen,Sjapisen,Undirected,1
+Marinus,Per,Undirected,2
+Hansen,Jørgen,Undirected,1
+Gud,Juliuses,Undirected,1
+Brynde,Gud,Undirected,1
+Hansen,Kirstine,Undirected,1
+Kirstine,Kjær,Undirected,1
+Julius,Vitriol,Undirected,2
+Kjær,Naanaa,Undirected,1
+Aske,Julius,Undirected,1
+Julius,Jørgen Skalses,Undirected,1
+Hansen,Juliuses,Undirected,1
+Johan Børjesson,Sigrid,Undirected,1
+Johan,Julius,Undirected,3
+Johan,Sigrid,Undirected,1
+Gud,Madam Hansted,Undirected,2
+Aallting,Kjær,Undirected,1
+Aallting,Mari,Undirected,1
+Madam Hansted,vos,Undirected,2
+helle,jen,Undirected,1
+Hr. Kjær,Julius,Undirected,1
+Hansted,Madam,Undirected,1
+Hansted,Kjær,Undirected,1
+Kjær,gyer,Undirected,1
+Sofi,faawal,Undirected,1
+Madam Hansted,Sofie,Undirected,6
+Madam Hansted,hinner,Undirected,1
+Gud,Sofie,Undirected,5
+Julius,Rasmus Sørensen,Undirected,1
+Kjær,Tyfus,Undirected,1
+Marie,Sofie,Undirected,12
+Sigrid,Stakkel,Undirected,1
+Gud,Stakkel,Undirected,1
+Kramer,Sigrid,Undirected,6
+Niels Kjær,Peter,Undirected,1
+Marie,Peter,Undirected,1
+Peter,mir nichts,Undirected,1
+dir nichts,mir nichts,Undirected,1
+Peter,nte,Undirected,1
+Hansen,nte,Undirected,1
+Kirstine,Madam Hansted,Undirected,1
+Sofie,lille Marie,Undirected,1
+Hansen,Sofie,Undirected,1
+Madam Kjær,Marie,Undirected,1
+Sofie,allenfals,Undirected,1
+Kramer,Madam Hansted,Undirected,1
+Kramer,Marie,Undirected,1
+Kjær,Kramer,Undirected,1
+Juliuses,Kramer,Undirected,1
+Sigrid,lille Sigrid,Undirected,2
+Gud,lille Sigrid,Undirected,1

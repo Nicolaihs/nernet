@@ -1,0 +1,252 @@
+source,target,type,weight
+Oluf Ring,Olufs,Undirected,2
+Olufs,Straahats,Undirected,1
+Oluf Anders Rings,Olufs,Undirected,1
+Elverhøjs,Olufs,Undirected,2
+Olufs,Ring,Undirected,1
+Ane,Ring,Undirected,1
+Ane,Jens,Undirected,3
+Hektor,Jens,Undirected,1
+Hektor,Kims,Undirected,4
+Kims,Lotte,Undirected,2
+Lone.,Lotte,Undirected,1
+Lone.,Oluf,Undirected,1
+Oluf,Peter —,Undirected,1
+Oluf,Peter,Undirected,6
+Ane,Oluf,Undirected,1
+Ane,Peter,Undirected,5
+Ellen,Oluf,Undirected,2
+Peter,lille Ellen,Undirected,2
+Oluf,lille Ellen,Undirected,3
+Ellen,sotte,Undirected,1
+Ellen,Peter,Undirected,4
+Olaf,Oluf,Undirected,2
+Pastoren,Peter,Undirected,1
+Ane,Hektor,Undirected,2
+Jens,Kims,Undirected,2
+Jens,Peter,Undirected,2
+Ellen,Luf,Undirected,1
+Ane,Ellen,Undirected,2
+Jens,Oluf,Undirected,2
+Ane —,Peter,Undirected,1
+Ane —,Kims,Undirected,1
+Hr. Lundsen,Hr. Seler,Undirected,1
+Hr. Lundsen,Nielsen,Undirected,1
+Ellen,Nielsen,Undirected,1
+Hektor,Peter,Undirected,2
+Ane,Kims,Undirected,2
+Hr. Lundsen,Jens,Undirected,1
+Lundsen,Oluf,Undirected,1
+Duxen,Nygaard,Undirected,1
+Nygaard,Petersen,Undirected,3
+Nielsen,Nygaard,Undirected,3
+Nielsen,Povlsen,Undirected,1
+Niels Ebbesen,Nygaard,Undirected,1
+Niels Ebbesen,Nielsen,Undirected,1
+Jochum Petersen,Nielsen,Undirected,1
+Jochum Petersen,Nygaard,Undirected,1
+Ivar Hvitfeld,Nygaard,Undirected,1
+Ivar Hvitfeld,Meyer,Undirected,1
+Meyer,Nygaard,Undirected,2
+Ivar,Nygaard,Undirected,2
+Meyer,Nielsen hannem,Undirected,1
+Nygaard,Povl,Undirected,5
+Nygaard,Tantalus,Undirected,2
+Oluf,Povl,Undirected,17
+Hr. Lundsen,Povl,Undirected,2
+Hr. Ryping,Povl,Undirected,1
+Hr. Ryping,NMHR,Undirected,2
+Peter,Ørvarod,Undirected,1
+Berurjoder,Ørvarod,Undirected,2
+Hjalmar,Ørvarod,Undirected,1
+Hjalmar,Ingeborg,Undirected,1
+Ingeborg,Ørvarod,Undirected,1
+Hr. Lundsen,Ørvarod,Undirected,1
+Frejrs,Povl,Undirected,1
+Dickens,Wardle,Undirected,1
+Jens,Wardle,Undirected,1
+Jens,Kane,Undirected,1
+Flegma,Jens,Undirected,2
+Peter,Povl,Undirected,1
+Lone —,Lotte,Undirected,1
+Hektor,Povl,Undirected,1
+Hektor,Hr. Prahl,Undirected,1
+Hr. Prahl,Oluf,Undirected,1
+Povl,lille Ellen,Undirected,1
+Nielsen,Oluf,Undirected,1
+Nielsen,Povl,Undirected,1
+Kristian Hansen,Oluf Ring,Undirected,1
+Hansen,Kristian Hansen,Undirected,1
+Hansen,Oluf Ring,Undirected,2
+Ingemann,Oluf,Undirected,1
+Cæsar,Povl Nygaard,Undirected,1
+Oluf Ring,Povl Nygaard,Undirected,1
+Oluf Ring,Ring,Undirected,1
+Nygaard,Ring,Undirected,1
+Nygaard,Oluf Ring,Undirected,3
+Nygaard,Oluf,Undirected,11
+Hans Engelstrup,Nygaard,Undirected,2
+Engelstrup,Nygaard,Undirected,2
+Engelstrup,Oluf,Undirected,3
+Oluf,ane,Undirected,1
+Amanda Engelstrup,ane,Undirected,1
+Amanda Engelstrup,Nygaard,Undirected,1
+Nygaard,blaa,Undirected,1
+Oluf,blaa,Undirected,1
+Mathilde Aastrup,Oluf,Undirected,3
+Mathilde,Oluf,Undirected,30
+Mathilde,Nygaard,Undirected,1
+Oluf,htin,Undirected,2
+Amanda Engelstrup,Oluf,Undirected,4
+Engelstrup,Frk. Amanda,Undirected,1
+Frk. Amanda,Mathilde,Undirected,1
+Frk. Engelstrups,Mathilde,Undirected,1
+Frk. Engelstrups,Povl Nygaard,Undirected,1
+Nygaard,Povl Nygaard,Undirected,1
+Medea,Oluf,Undirected,1
+Lynggaard,Mathilde,Undirected,2
+Mathilde,Povl Nygaard,Undirected,2
+Oluf,Povl Nygaard,Undirected,10
+Anton,Oluf,Undirected,3
+Anton,Mathilde,Undirected,1
+Lynggaard,Oluf,Undirected,4
+Oluf,Vagn Aagesen,Undirected,1
+Engelstrup,Povl Nygaard,Undirected,3
+Drachmann,Engelstrup,Undirected,1
+Frk. Engelstrup,Oluf,Undirected,2
+Frk. Engelstrup,Mathilde,Undirected,1
+Mathilde,Olufs Hjerte,Undirected,1
+Oluf,schgu,Undirected,1
+Oluf,Petersen,Undirected,2
+Frøken Aastrup,Guds,Undirected,1
+Mathilde,Petras,Undirected,1
+Amanda,Oluf,Undirected,20
+Amanda,Mathilde,Undirected,16
+Amanda,Frøken Engelstrup,Undirected,1
+Hans,Oluf,Undirected,1
+Graad,Mathilde,Undirected,1
+Kristian Hansen,Oluf,Undirected,1
+Oluf,Oluf Ring,Undirected,3
+Amanda,Amanda Engelstrup,Undirected,1
+Amanda,Asen,Undirected,1
+Amanda Engelstrup,Asen,Undirected,1
+Amanda Engelstrup,Hans,Undirected,1
+Hans,Sands,Undirected,1
+Sherry,Willibald,Undirected,1
+Elverhøj,Povl,Undirected,1
+Amanda,Kuhlau,Undirected,1
+Trala,trala,Undirected,1
+Engelstrup,Mathilde Aastrup,Undirected,1
+bene cut em curare,vanus timor,Undirected,1
+Horats,bene cut em curare,Undirected,1
+Horats,Simeons,Undirected,1
+Simeons,Tesus,Undirected,1
+Lucas,Tesus,Undirected,1
+Gud,Rosenfeld,Undirected,1
+Ellen,Gud,Undirected,1
+Ellen,Nygaard,Undirected,1
+Grønsø,Kramsgaard,Undirected,1
+Agneta,Kramsgaard,Undirected,1
+Agneta,Amalia,Undirected,1
+Amalia,Grønsø,Undirected,2
+Grønsø,Nete,Undirected,1
+Malle,Nete,Undirected,1
+Grønsø,Malle,Undirected,1
+Amalia,Gudd,Undirected,1
+Agneta,Gudd,Undirected,1
+Agneta,Fanny Birke,Undirected,1
+Fanny Birke,Nygaard,Undirected,1
+Kramsgaard,Pastor Grønsøs,Undirected,1
+Fanny,Kramsgaard,Undirected,1
+Ellen,Fanny,Undirected,1
+Hansen,Hostrups,Undirected,1
+Engelstrup,Hansen,Undirected,4
+Engelstrup,Povl,Undirected,1
+Gud,Oluf,Undirected,5
+Oluf,Professor —,Undirected,1
+Professor —,s,Undirected,1
+Oluf,ornat Povl,Undirected,1
+Ellen Ring,Oluf,Undirected,1
+Hansen,Oluf,Undirected,1
+Oluf,Ring,Undirected,2
+Gud,Oluf Ring,Undirected,2
+Darwin,Spencer,Undirected,2
+Engelstrup,Spencer,Undirected,1
+Engelstrup,Mathilde,Undirected,1
+Ellen Ring,Povl Nygaard,Undirected,1
+E. R.,Ellen,Undirected,1
+Amanda,lian,Undirected,2
+Amanda,Frk. E. Ring,Undirected,1
+Frk. E. Ring,Oluf,Undirected,1
+Graad,Povl Nygaard,Undirected,1
+Darwin,Elverhøj,Undirected,1
+Oluf,philol.,Undirected,1
+Horats,philol.,Undirected,1
+Horats,theol.,Undirected,1
+A. Kyster,theol.,Undirected,1
+A. Kyster,Oluf Ring,Undirected,1
+Brandes,Hr. Clausen,Undirected,1
+Brandes,Schneider,Undirected,1
+Jansen,Povl,Undirected,1
+Jakobsen,Jansen,Undirected,1
+Hansen,Jakobsen,Undirected,1
+Bitter,Clausen,Undirected,3
+Clausen,bibendi,Undirected,1
+Bravo,bibendi,Undirected,1
+Anule,Clausen,Undirected,1
+Anule,Oluf,Undirected,1
+Clausen,Jacobe,Undirected,1
+Jacobe,Jane,Undirected,1
+Clausen,Horats,Undirected,1
+Mathilde,Oluf Ring,Undirected,3
+Bacchus,Oluf,Undirected,1
+Bacchus,Clausen,Undirected,2
+Clausen,Hr. Linsom,Undirected,1
+Hr. Linsom,Oluf,Undirected,1
+Jansen,Oluf,Undirected,1
+Gud,Kristus,Undirected,2
+Eberhard,Engelstrup,Undirected,1
+Oluf,Rosenfeld,Undirected,15
+Kristus,Oluf,Undirected,1
+Kristus,William Rosenfeld,Undirected,3
+Avtores,Zebaoth,Undirected,1
+William Rosenfeld,Zebaoth,Undirected,1
+Rosenfeld,William Rosenfeld,Undirected,1
+Abraham,William,Undirected,1
+Kristus,William,Undirected,1
+Justitsraad Petersen,Rosenfeld,Undirected,2
+Brægmann,hans Fiemor,Undirected,1
+Anker,Brægmann,Undirected,1
+Anker,Fiemor,Undirected,1
+Fiemor,Gud,Undirected,1
+Justitsraad Petersen,William Rosenfeld,Undirected,1
+Petersen,Rosenfeld,Undirected,2
+Amanda,Rosenfeld,Undirected,3
+Ludvig XIV.’s,Ruyters,Undirected,1
+Napoleon,Ruyters,Undirected,1
+Gott sei,Wilhelm der siegreiche,Undirected,1
+Gott sei,willig,Undirected,1
+ein Schrecken ganz Europas war und noch unter,willig,Undirected,1
+Wendung,ein Schrecken ganz Europas war und noch unter,Undirected,1
+Berg,Ploug,Undirected,1
+Birkedal,G. Winther,Undirected,1
+Birkedal,Tirs,Undirected,1
+Tirs,kejs,Undirected,1
+Estrup,kejs,Undirected,1
+Evropa,kejs,Undirected,2
+Ellen,Mathilde,Undirected,1
+Amanda,Povl,Undirected,2
+Ellen,Povl,Undirected,2
+Ellen,R.,Undirected,1
+Mathilde,Povl,Undirected,1
+Amanda,Wilhelm Teils,Undirected,1
+Gessier,Wilhelm Teils,Undirected,1
+Amanda,Gessier,Undirected,1
+Amanda,Gud,Undirected,1
+Mathilde,Mathilde Aastrup,Undirected,1
+Dickens,Lars,Undirected,2
+Gud,véd,Undirected,1
+Oluf,véd,Undirected,1
+Ellen,Lynggaard,Undirected,1
+Fru Rings,Oluf —,Undirected,1
+Fru Rings,Povl,Undirected,1

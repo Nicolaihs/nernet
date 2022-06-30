@@ -1,0 +1,116 @@
+source,target,type,weight
+Thomsen,Vilhelm Holst,Undirected,2
+Holst,Thomsen,Undirected,6
+Holst,Kristian Thomsen,Undirected,1
+Kristian Thomsen,Thomsen,Undirected,1
+Kristian,Thomsen,Undirected,17
+Kristian,Louise,Undirected,19
+Lillienfeldts,Thomsen,Undirected,1
+Holst,Lillienfeldts,Undirected,1
+Holst,Selvkriti-kens,Undirected,1
+Holst,Kristian,Undirected,6
+Holst,Vilhelm,Undirected,4
+Kristian,Vilhelm,Undirected,28
+Thomsen,Vilhelm,Undirected,11
+Friis,Vilhelm,Undirected,2
+Friis,Kristian,Undirected,2
+Herr Thomsen,Kristian,Undirected,1
+Holst,Madam Madsen,Undirected,1
+Madam Madsen,Vilhelm,Undirected,1
+Louise,Thomsen,Undirected,3
+Kristian,Pathos,Undirected,1
+Karoline,Karoline Lillienfeldt,Undirected,1
+Frøken Thomsen,Kristian,Undirected,1
+Blickfeldt,Frøken Thomsen,Undirected,1
+Blickfeldt,Louise,Undirected,6
+Blickfeldt,Thomsen,Undirected,1
+Karoline,Louise,Undirected,18
+Karoline Lillienfeld,Louise,Undirected,1
+Karoline,Thomsen,Undirected,6
+Papa,Thomsen,Undirected,1
+Papa,ifjor,Undirected,1
+Mama,ifjor,Undirected,1
+Karoline,Kristian,Undirected,11
+Kristian,Niels,Undirected,1
+Niels,Vilhelm,Undirected,3
+Karoline,Pipo,Undirected,2
+Kristian,Pipo,Undirected,3
+Kristian,Vilhelm Holst,Undirected,2
+Croquet,Kristian,Undirected,1
+Croquet,Louise,Undirected,1
+Louise,Vilhelm,Undirected,15
+Per,Vilhelm,Undirected,1
+Per,Povl,Undirected,1
+Kristian,Povl,Undirected,1
+Holst,Louise,Undirected,10
+Blickfeldt,Holst,Undirected,4
+Maa,Vilhelm,Undirected,1
+Maa,Øksnebjergs,Undirected,1
+Vilhelm,Øksnebjergs,Undirected,1
+Vilhelm,Vilhelm Holst,Undirected,2
+Herr Holst,Vilhelm,Undirected,1
+Karoline,Vilhelm,Undirected,9
+Gud,Louise,Undirected,1
+Kristian,Sørensen,Undirected,1
+Kristian,Svend,Undirected,1
+Kaien,Peterhoff,Undirected,1
+Alexander den 2dens,Kaien,Undirected,1
+Alexander den 2dens,Peter Pauls Kirken,Undirected,1
+Peter Pauls Kirken,Peter den,Undirected,1
+Peter den,Peter den store,Undirected,1
+Katharina den 2den,Peter den store,Undirected,1
+Gud,Vilhelm,Undirected,3
+Blickfeldt,Gud,Undirected,2
+Gud,P'olk,Undirected,1
+Jesus,P'olk,Undirected,1
+Gud,Holst,Undirected,2
+Kristian,Mads,Undirected,1
+Blick-feldt,Herr Holst,Undirected,1
+Frøken Louise,Vilhelm,Undirected,1
+Karoline,Lillienfeldts,Undirected,2
+Karoline,Papa,Undirected,5
+Karoline,Mama,Undirected,2
+Grethe,Mama,Undirected,1
+Grethe,Papa,Undirected,1
+Karoline,Niels,Undirected,1
+Karoline,Lillienfeldt,Undirected,9
+JeS,Karoline,Undirected,1
+Kristian,Papa,Undirected,1
+Lillienfeldt,Vilhelm,Undirected,4
+Kristian,bægge,Undirected,1
+Lillienfeldt,Thomsen,Undirected,3
+Holst,Karoline,Undirected,6
+Blickfeldt,Vilhelm,Undirected,1
+Herr Holst,Thomsen,Undirected,1
+Herr Holst,Karoline,Undirected,1
+Herr Holst,Louise,Undirected,1
+Maren,Petersen,Undirected,1
+Balskovs,Kristian,Undirected,1
+Louise,Maren,Undirected,1
+Kristian,Lillienfeldt,Undirected,9
+Maren,Thomsen,Undirected,2
+Maren,Vilhelm,Undirected,1
+Blickfeldt,Kristian,Undirected,3
+Ibsens,Kristian,Undirected,1
+Louise,Pipo,Undirected,1
+Karoline,Maren,Undirected,1
+Kristian,Maren,Undirected,1
+Holst,Maren,Undirected,1
+Jørgen Nielsen,Jørgen Nielsens,Undirected,1
+Jørgen,Jørgen Nielsen,Undirected,1
+Jensen,Petersen,Undirected,1
+Kusk,Thomsen,Undirected,1
+Kristian,lille Louise,Undirected,1
+Blickfeldt,Lillienfeldt,Undirected,2
+Blickfeldt,Lillien-feldt,Undirected,1
+Lillienfeldt,Louise,Undirected,1
+Holst,Sophie,Undirected,1
+Peter Pauls,Vilhelm,Undirected,1
+Gud,Peter Pauls,Undirected,1
+Kristian,miri,Undirected,1
+Vilhelm,miri,Undirected,1
+Lillienfeldt,hans,Undirected,1
+Karoline,hans,Undirected,1
+V. Lillienfeldt,Vilhelm,Undirected,1
+Alexander,Kristian,Undirected,1
+Peter Pauls Kirken,Vilhelm,Undirected,1

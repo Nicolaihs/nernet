@@ -1,0 +1,65 @@
+source,target,type,weight
+Aagot,pappa,Undirected,2
+Helga Jebe,pappa,Undirected,1
+Jebes,kjødkage,Undirected,1
+Jebe,frøken Aagot,Undirected,1
+Aagot,Helga,Undirected,5
+Helga,eg,Undirected,1
+Helga,adieu,Undirected,1
+jungfru Brehme,øfverantvarda,Undirected,1
+Laurent,Lilli,Undirected,1
+Brehme,Laurent,Undirected,1
+skrida,vara,Undirected,1
+Karlen,madame,Undirected,1
+Karlen,Moses,Undirected,2
+Claude,madame,Undirected,1
+Claude,jøses,Undirected,1
+Claude,Ninni,Undirected,3
+Anne,Elisabeth Bernstein,Undirected,1
+Anne,dr. Moe,Undirected,1
+Bernstein,Stina,Undirected,1
+Bernstein,Tilhøire,Undirected,1
+Fru Bernstein,Stina,Undirected,1
+J,Stina,Undirected,1
+Moe,Skaal,Undirected,2
+Moe,Stina,Undirected,1
+Moe,hensunken,Undirected,1
+gud,véd,Undirected,2
+gud,lampa,Undirected,1
+Moe,dr. Moe,Undirected,1
+Anne,Moe,Undirected,2
+Anne,Gud,Undirected,1
+Anne,Bernstein,Undirected,1
+Frau Elisas,Isaak,Undirected,1
+Coqueli,keg,Undirected,1
+Coqueli,Felicie,Undirected,1
+Coqueli,Irma,Undirected,2
+Coqueli,mama,Undirected,2
+Irma,papa,Undirected,1
+Irma,keg,Undirected,1
+Felicie,keg,Undirected,1
+Felicie,Irma Coquelicots,Undirected,1
+Berits,Gunner,Undirected,1
+Berit,a.,Undirected,1
+Berit,Gunner,Undirected,5
+Gunner,askegraa,Undirected,1
+Berit,Jesus,Undirected,1
+Berit Røisas,Gunner,Undirected,1
+Gunner,gud,Undirected,1
+Emil,Flan,Undirected,1
+Emil,paany,Undirected,1
+Marianne,Simon Pedersen Tolgen,Undirected,1
+Clara,Stuart Miil,Undirected,1
+Georg,véd,Undirected,1
+Georg,fille,Undirected,1
+André,Josephine,Undirected,1
+Claire,Mariette,Undirected,1
+Josephine,gud,Undirected,2
+Mariette,gud,Undirected,1
+Mariette,madame,Undirected,2
+Claire,Josephine,Undirected,1
+Josephine,Mariette,Undirected,1
+Josephine,beaf,Undirected,1
+Josephine,adiø,Undirected,1
+Suzanne,Suzannes,Undirected,1
+Stakkars,Suzanne,Undirected,1

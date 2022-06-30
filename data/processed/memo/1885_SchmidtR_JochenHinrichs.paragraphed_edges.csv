@@ -1,0 +1,65 @@
+source,target,type,weight
+Meinert Lornsen,Uwe Brahms,Undirected,1
+Jehan Knoop,Meinert Lornsen,Undirected,3
+Jehan Knoop,Johan,Undirected,1
+Jochen Hinrichs,Johan,Undirected,1
+Hinrichs,Jochen Hinrichs,Undirected,1
+Hinrichs,Junker Slenzes,Undirected,1
+Jochen Hinrichs,Jung Jochen,Undirected,1
+Jung,Oll,Undirected,5
+Karle,Oll,Undirected,1
+Hinrichs,Jung,Undirected,1
+Jung,Jung’,Undirected,1
+Jochens,Klas,Undirected,2
+Jochens,Jung’,Undirected,2
+Jochens,Meinert Lornsen,Undirected,1
+Hinrichs,Meinert Lornsen,Undirected,1
+Meinert Lornsen,Olf,Undirected,1
+Holkebiills,Olf,Undirected,1
+Gud,Jochen Hinrichs,Undirected,1
+Jochen,Jung,Undirected,6
+Jochen,Oll,Undirected,7
+Jenser,sorn,Undirected,1
+-,a,Undirected,1
+Dielen,Jochen Hinrichs,Undirected,1
+Jochen,Klases,Undirected,3
+Klas,Klases,Undirected,3
+Anna,Klas,Undirected,2
+Klas,Oll,Undirected,7
+Anna,Oll,Undirected,4
+Anna,Jung’,Undirected,3
+Anna,Jung,Undirected,4
+Dielen,Oll’,Undirected,1
+Jung,Oll’,Undirected,1
+Jochen,Oll’,Undirected,3
+Anna,Jochen,Undirected,1
+Jehan Knoop,Uwe Brahms,Undirected,1
+Jochen Hinrichs,Uwe Brahms,Undirected,1
+Mirig,tDie Erstürmung von Friedrichstadt,Undirected,1
+Dielen,Hinrichs,Undirected,1
+Feldwache,Kruge,Undirected,1
+Kruge,Oll,Undirected,2
+Jan »,Jochen,Undirected,1
+Jan,Klas,Undirected,2
+Jan.,Jochen,Undirected,1
+Kruge,^Feldwache,Undirected,1
+Meinert,Meinerts,Undirected,1
+Jan.,Meinert,Undirected,1
+Jan.,Oll,Undirected,1
+Orion,Sirius,Undirected,2
+Jochen Hinrichs,notam,Undirected,1
+Holkebiill,Oll,Undirected,1
+Frejas,trine,Undirected,1
+Anna,Freja,Undirected,1
+Jochen Hinrichs,Oll,Undirected,1
+Jochen Hinrichs,paany,Undirected,1
+Klas,Meinert Lornsen,Undirected,2
+Holkebiill,Klas,Undirected,1
+Jochen Hinrichs,Meinert Lornsen,Undirected,1
+Ann —,Jung’,Undirected,1
+Ann —,Oll’,Undirected,1
+Klas Dehn,Prent,Undirected,1
+Klas Dehn,Klases,Undirected,1
+Hinrichs,voxen,Undirected,1
+Jochen,Jochen Hinrichs,Undirected,1
+Jochen Hinrichs,Oll’,Undirected,1

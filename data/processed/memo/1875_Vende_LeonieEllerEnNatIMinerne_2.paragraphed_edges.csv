@@ -1,0 +1,373 @@
+source,target,type,weight
+Erhard,Florence,Undirected,5
+Herbert,Leonie,Undirected,29
+Herbert,Viktor Laverton,Undirected,1
+Henriette,Viktor Laverton,Undirected,1
+Henriette,Herbert,Undirected,2
+Grev Erhards,Herbert,Undirected,1
+Herbert,Margaritha,Undirected,1
+Florence,Leonie,Undirected,3
+Florence,Henriette,Undirected,3
+Erhard,Viktor,Undirected,3
+Leonie,Viktor,Undirected,1
+Henriette,Viktor,Undirected,2
+Leonie,Øe,Undirected,1
+Erhard,Leonie,Undirected,4
+Asfe,Leonie,Undirected,1
+Don Juarez,Herbert,Undirected,7
+Don Juarez,Herr Laverton,Undirected,2
+Gud,Juarez,Undirected,4
+Florence,Juarez,Undirected,1
+Juarez,Leonie,Undirected,4
+Herbert,Juarez,Undirected,5
+Florence,Viktor,Undirected,2
+Bering,Henriette,Undirected,2
+Gaston,Kayenne,Undirected,2
+Erhard,Gaston,Undirected,1
+Gaston,Louis,Undirected,12
+Gaston,Juarez,Undirected,2
+Don Juarez,Gaston,Undirected,1
+Don Juarez,jsom,Undirected,1
+Louis,jsom,Undirected,1
+Eieren,Herbert Laverton,Undirected,2
+Eieren,Florence,Undirected,1
+Florence,Herbert Laverton,Undirected,2
+Grev Erhard,Herbert Laverton,Undirected,1
+Grev Erhard,Leonie,Undirected,1
+Herbert Laverton,Leonie,Undirected,2
+Gaston,Herbert Laverton,Undirected,1
+Florence,Gaston,Undirected,2
+Erik,Gondoliere,Undirected,1
+Erik,slreg,Undirected,1
+Prioren,Signor Vilmero,Undirected,1
+Erik,iland,Undirected,1
+Jesus,Pietro,Undirected,1
+Jesus,Maria,Undirected,2
+Gondoliere,Lukretia,Undirected,1
+Francesco,Lukretia,Undirected,12
+Lukretia,Prioren,Undirected,1
+Erik,Francesco,Undirected,10
+Franceseo,Lukretia,Undirected,1
+Lukretia,nei,Undirected,1
+Laurelta,nei,Undirected,1
+Erik,Laurelta,Undirected,2
+Erik,Gud,Undirected,27
+Lauretta,Sadilla,Undirected,1
+Antonios,Lauretta,Undirected,2
+Antonios,Zekiner,Undirected,1
+Erik,Lukretia,Undirected,54
+Gud,Lukretia,Undirected,5
+Alf,Leonie,Undirected,1
+Florence,Vikfor,Undirected,1
+Henriette,Vikfor,Undirected,4
+Alf,Herbert,Undirected,2
+Herbert »,Louis Pjerre,Undirected,1
+Herbert »,Leonie,Undirected,1
+Leonie,Louis Pjerre,Undirected,3
+Juarez,Margueritha,Undirected,3
+Leonie,Margueritha,Undirected,1
+Herbert,Margueritha,Undirected,4
+Don Juarez,Gud,Undirected,3
+Gud,Herbert,Undirected,8
+Erhard,Juarez,Undirected,1
+Erhard,Villie,Undirected,1
+Juarez,Villie,Undirected,1
+Edgard Korsi,Louis Pjerre,Undirected,1
+Edgard Korsi,Herbert,Undirected,1
+Herbert,Herr Laverton,Undirected,1
+Edgard Korsi,sired,Undirected,1
+Satans,kjøntj,Undirected,1
+Gaston,Korsi,Undirected,1
+Eogard Korsi,ilaas,Undirected,1
+Don Juarez,Herbert Laverton,Undirected,1
+Bella,Louis,Undirected,1
+Don Juarez,Margueritha,Undirected,17
+Louis,Margueritha,Undirected,1
+Donna Margueritha,Leonie,Undirected,2
+Gaston,Louis Pjerre,Undirected,11
+Edgard,Louis Pjerre,Undirected,1
+Kayenne,Louis Pjerre,Undirected,1
+Herbert døsig,ester Reisen,Undirected,1
+Edgard,Korsi,Undirected,1
+Beppa,Pidfl,Undirected,1
+Don Juarez,Leonie,Undirected,1
+Erhard,Margueritha,Undirected,1
+Beppa,Herbert,Undirected,27
+Herbert,Vikfor,Undirected,3
+Louis,Pjerre,Undirected,8
+Dands,Pjerre,Undirected,1
+Dands,Gaston,Undirected,1
+Dands,Louis Pjerre,Undirected,1
+Herbert,Pjerre,Undirected,1
+Gaston,Lonis Pjerre,Undirected,1
+Beppa,Herbert/,Undirected,1
+Herbert,Herbert/,Undirected,1
+Grev Erhard,Louis Pjerre,Undirected,1
+Louis,Michelle,Undirected,2
+Bandste«,Gaston,Undirected,1
+Beppa,Louis,Undirected,1
+Erik,def,Undirected,1
+Lukretia,Munks,Undirected,1
+Francesco,Munks,Undirected,1
+Lukretia,grant,Undirected,1
+Leonie,Pjerre,Undirected,1
+Leonie,Louis,Undirected,1
+Leonie,felv,Undirected,1
+Louis Pjerre,hnn,Undirected,1
+Gaston,Leonie,Undirected,2
+Baand,Leonie,Undirected,1
+Leonie,Maria,Undirected,1
+Herbert,Louis Pjerre,Undirected,2
+Don Juarez,Erhard,Undirected,1
+Don Juarez,Viktor,Undirected,1
+Erik,Ester,Undirected,2
+Erik,Signor Angelo,Undirected,2
+Don Angelo,Signor,Undirected,1
+Beridertrup,Don Angelo,Undirected,1
+Beridertrup,Signor,Undirected,1
+Roes,Signor,Undirected,2
+Brysf,Lukretia,Undirected,1
+Brysf,Lauretta,Undirected,1
+Gud,Pands,Undirected,1
+Don Angelo,Lukretia,Undirected,10
+Lauretta,Lukretia,Undirected,2
+Erik,Vilmer,Undirected,12
+Brisnou,Erik,Undirected,1
+Paulun,Vilmer,Undirected,1
+Erik,Herbert,Undirected,14
+Erik,Viktor Laverton,Undirected,1
+Erik,Viktor,Undirected,1
+Erhard,Florenes,Undirected,1
+Florenes,Herbert,Undirected,1
+Erik,Margueritha,Undirected,1
+Grev Erhard,Margueritha,Undirected,1
+Grev Erhard,Herbert,Undirected,2
+Leonie,iland,Undirected,2
+Erik,Leonie,Undirected,2
+Erik,Jep Lausen,Undirected,1
+Erik,ester,Undirected,1
+ban,ester,Undirected,1
+Erik,List,Undirected,1
+John Welles,Murillo,Undirected,1
+Louis,Mo,Undirected,1
+Beppa,Louis Pjerre,Undirected,3
+Beppa,Rurillos,Undirected,1
+Lukretia,Signor,Undirected,2
+Lukretia,Signor Vilmero,Undirected,1
+Angelo,Donna Lukretia,Undirected,1
+Don Angelo,Erik,Undirected,3
+Lukretia,suld,Undirected,1
+Leonie,Signora,Undirected,1
+Lukretia,taus,Undirected,2
+Erik,taus,Undirected,1
+Signor Vilmero,jæg,Undirected,2
+Vilmero,jæg,Undirected,1
+Donna Lukretia sial,Lukretia,Undirected,1
+Erik,Lukretia eiede,Undirected,1
+Gaston,Gud,Undirected,1
+Bedstefader,Gud,Undirected,1
+Arre,Beppa,Undirected,1
+Arre,Herbert,Undirected,1
+Hnn,hnn,Undirected,1
+Edgard Korsi,silker,Undirected,1
+Beppa,Edgard Korsi,Undirected,1
+Erhardt,Herbert,Undirected,2
+Angelo,Lukretia,Undirected,1
+Gripons,ester,Undirected,1
+Harriet,ester,Undirected,1
+Harriet,Vilmero,Undirected,1
+Lukretia,Vilmero,Undirected,1
+Gripon,Lukretia,Undirected,19
+Gripon,Harriet,Undirected,10
+Harriet,smaalo,Undirected,1
+Angelo,Harriet,Undirected,2
+Gud,Harriet,Undirected,1
+Beriderselstab,Gud,Undirected,1
+Erik,Harriet,Undirected,2
+Don Angelo,Harriet,Undirected,1
+Erhard,Herbert,Undirected,8
+Beppa,Erhard,Undirected,2
+Erhard,Vikfor,Undirected,1
+Erhard øg Viktor,Herbert,Undirected,1
+Erhard,Louis Pjerre,Undirected,1
+Herbert,Viktor,Undirected,1
+Henriette,Juarez,Undirected,1
+Juarez,Margueritta,Undirected,1
+Erik,Gripon,Undirected,8
+Erik,Vilmero,Undirected,1
+Herbert,Villie,Undirected,1
+Beppa,Jfta,Undirected,1
+Gripon,Zarolfli,Undirected,1
+Zarolfli,graanes,Undirected,1
+Gripon,el sidsfe,Undirected,1
+Erhard,Louis,Undirected,1
+Herbert,Louis,Undirected,1
+Greven,Herbert,Undirected,1
+Greven,Leonie,Undirected,1
+Florence,Grev Erhard,Undirected,1
+Herbert,sidsf,Undirected,1
+Brems,Gripon,Undirected,1
+Gilpert Saverley,Gripon,Undirected,1
+Gilpert,Gripon,Undirected,1
+Lukretia,Øe,Undirected,3
+Elsfer,Lukretia,Undirected,1
+Erik,Øreng,Undirected,2
+Lukretia,Vilmer,Undirected,3
+Gilpert Saverley,Harriet,Undirected,1
+Erik/,Gud,Undirected,2
+Erik,Prioren,Undirected,1
+Lukretia,ester,Undirected,1
+Gripon,Villie,Undirected,1
+Harriet,Villie,Undirected,1
+Don Angelo,Rands,Undirected,1
+Lukretia,elsier,Undirected,1
+Erik Vilmero,Gripon,Undirected,2
+Lausen,Sigurd Saverli,Undirected,1
+Jep Lausen,hnn,Undirected,1
+Erik taus,slille,Undirected,1
+Ester,slille,Undirected,1
+Ester,fleet,Undirected,1
+Vilmer,fleet,Undirected,1
+Jep Lausen,Vilmer,Undirected,2
+Florence,Herbert,Undirected,2
+Erhard,Flore,Undirected,1
+Ester,ester,Undirected,1
+Erik,Grev Erhard,Undirected,2
+Erik,ane,Undirected,1
+Florence,Gud,Undirected,1
+Gud,mellein,Undirected,1
+Arne,Erik,Undirected,1
+Arne,Gud,Undirected,1
+Herbert,Rand,Undirected,1
+Don Angelo,Gripon,Undirected,6
+Erik,Madonnas,Undirected,1
+Don Angelo,frank,Undirected,1
+Erik Vilmer,Øe,Undirected,2
+Erik,Gilpert Saverley,Undirected,1
+Juliette,Lukretia,Undirected,18
+Juliette,Lio,Undirected,1
+Juliette,kjære Lukretia,Undirected,2
+James,Karl,Undirected,1
+Lukretia,kjære Lukretia,Undirected,1
+Juliette,er Abigal,Undirected,1
+Julien,er Abigal,Undirected,1
+Julien,Lucia,Undirected,1
+Angelo,Juliette,Undirected,1
+Angelo,Don,Undirected,1
+Erik,Herbert Erik,Undirected,1
+Gud,teg,Undirected,1
+Erik,teg,Undirected,1
+Erik,høilys,Undirected,1
+Ester,Herbert,Undirected,1
+Herbert,maasfe,Undirected,2
+Herbert,Herbert Laverton,Undirected,1
+Erhard,Erik,Undirected,2
+Abigal,Don Angelo,Undirected,1
+Gripon,er Abigal,Undirected,1
+bun,er Abigal,Undirected,1
+Angelo,Gripon,Undirected,2
+Gripon,Mutter,Undirected,1
+Juliette,er Abigals Villie,Undirected,1
+Juliette,eg,Undirected,1
+Lasard,ester Herr,Undirected,1
+Manza,imidlerlid,Undirected,1
+Herr Manza paany,Madame do Lasards,Undirected,1
+Madame ste Lasard,Manza,Undirected,1
+Lukretia,Madame äs,Undirected,1
+Juliette,Madame,Undirected,1
+Grev Tierza,Svanens,Undirected,1
+Baron Dupierre,Lasard,Undirected,1
+Baron Dupierre,Hebe,Undirected,1
+Madame,Tierza,Undirected,1
+Madame,Madame Lasard,Undirected,1
+Juliette,Madame Lasard,Undirected,1
+Dupierre,Tierza,Undirected,1
+Lukretia,Madame Lasard,Undirected,1
+Lesard,Madame äs,Undirected,1
+Bettelstaven,Lukretia,Undirected,1
+Eieren,Herbert,Undirected,1
+Don Juarez,Eieren,Undirected,1
+Don Juarez,Rargueritha,Undirected,2
+Don Juarez,hnn,Undirected,1
+Don Juarez,Ifta,Undirected,1
+Don Juarez,Donna Margaritha,Undirected,1
+Donna Margaritha,Herbert,Undirected,1
+Mylady,Rargueritha,Undirected,2
+Mr. Esterby,Mylady,Undirected,1
+Don Juarez,Margaritha,Undirected,1
+Marguerilha,Mr. Esterby,Undirected,1
+Margueritha,Mylady,Undirected,5
+Margueritha,Mr. Eslerby,Undirected,1
+Juliette,voxe,Undirected,1
+Don Juarez,Mr. Esterby,Undirected,4
+Gud,Margueritha,Undirected,4
+Margueritha,Mr. Esterby,Undirected,3
+Bidisr,Mr. Esterby,Undirected,1
+Hu«,Margueritha,Undirected,1
+Don Juarez,Mylady,Undirected,2
+Don Juarez,Mr. Tsterby,Undirected,1
+Don Jvarej,Margneritha,Undirected,1
+Marguerith,tang,Undirected,1
+Don Ivar,Margueritha,Undirected,1
+Don Ivar,Mr. Esterby,Undirected,1
+Marguericha,kjære Margueritha,Undirected,1
+Gud,Marguericha,Undirected,1
+Gud,Margueritha tang,Undirected,1
+Don Juarez,mi,Undirected,1
+Margurritha,mi,Undirected,1
+Margueritha,sif,Undirected,2
+Mr. Esterby,sif Leie,Undirected,1
+Don Juarez,grant,Undirected,1
+Mr. Esterby,Signora,Undirected,1
+Gud,Leonie,Undirected,1
+Herbert,Jnarez,Undirected,1
+Don Jnarez,Margueritha,Undirected,1
+Gud,Mr. Esterby,Undirected,1
+Gud,Mylady,Undirected,1
+Mr. Merby,Mylady,Undirected,1
+Albions,Mylady,Undirected,1
+Margueritba,ban,Undirected,1
+Don Juarez,Marguerita paany,Undirected,1
+Erik Vilmer,Herbert Laverton,Undirected,1
+Gripon,Roes,Undirected,2
+Angelo,Bettel,Undirected,1
+Bettel,Lukretia,Undirected,1
+Gripon,Gud,Undirected,3
+Erik,Erik paany,Undirected,1
+Harriet,Pidsi,Undirected,1
+Erik,kim,Undirected,1
+Erik,hans Øie,Undirected,1
+Erik,Gjøglertrup,Undirected,1
+Been,Don Angelo,Undirected,1
+Been,ilke,Undirected,1
+Karlen,kjøn,Undirected,1
+Gripon,Karlen,Undirected,1
+Erik,Lukretia fløi,Undirected,1
+Don Angelo,Gud,Undirected,1
+Erik flap,fransfe Banh,Undirected,1
+Erik,reisfe Gripon,Undirected,1
+Angelo,Erik,Undirected,1
+Gripon,ester,Undirected,1
+Elsfeds,Erik,Undirected,1
+Erik,Karl,Undirected,1
+Karl,Lukretia,Undirected,1
+Grev Echardts,Herbert,Undirected,1
+Erik,Grev Echardts,Undirected,1
+Leonie,Marguritha,Undirected,1
+Leonie,kjære,Undirected,1
+Herbert,kjære,Undirected,1
+Don Juarez,Erhardt,Undirected,1
+Don Juarez,leed,Undirected,1
+Leonie,leed,Undirected,1
+Leonie,Lukretia,Undirected,1
+Beppa,Don Juarez,Undirected,2
+Beppa,pan,Undirected,1
+Herbert,Jfta,Undirected,1
+Gud,Seire,Undirected,1
+Herbert,Lukretia,Undirected,1
+Herbert,Vilmer,Undirected,1
+Vilmer,aslure Lukretia,Undirected,1
+Erik oem,aslure Lukretia,Undirected,1
+Herbert,Jfla,Undirected,1
+Erhardt,Florence,Undirected,1
+Bering,Viktor,Undirected,1

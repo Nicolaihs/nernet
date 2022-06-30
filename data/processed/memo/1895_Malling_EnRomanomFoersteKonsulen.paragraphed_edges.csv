@@ -1,0 +1,350 @@
+source,target,type,weight
+Mademoiselle,Monsieur de,Undirected,1
+Jeanot,neren,Undirected,1
+Ludvig XVI,s,Undirected,1
+Abbed Bernier,Tonsur,Undirected,1
+Madame de Beaurollier,Mademoiselle de Rocroyes,Undirected,1
+Jeanot,Mademoiselle de Rocroyes,Undirected,1
+Jeanot,Valentine,Undirected,1
+Monsieur de Chåtillon,Valentine,Undirected,1
+Madame de Chåteauneuf,Monsieur de Chåtillon,Undirected,2
+Louis de Chåteauneuf,Madame de Chåteauneuf,Undirected,1
+Gud,Jeanot,Undirected,1
+Abbed Bernier,Monsieur de Chåtillon,Undirected,1
+Madame Talliens Paris,Mademoiselle de Rocroyes,Undirected,1
+Jeanot,Monsieur de Chå-tillon,Undirected,1
+Valentine,lille Valentine,Undirected,1
+Brumaire,Monsieur de Chåtillon,Undirected,1
+Brumaire,Kaptejn Ollivier,Undirected,1
+Kaptejn Ollivier,Kellermann,Undirected,1
+Kellermann,Wurmser,Undirected,1
+Madame Bonaparte,Wurmser,Undirected,1
+Madame Bonaparte,Monsieur,Undirected,1
+Valen-tines,cidevant noble,Undirected,1
+Valen-tine,cidevant noble,Undirected,1
+Abbed Bernier,Valen-tine,Undirected,1
+Laura de Permon,Loulou,Undirected,1
+Lamballe,Madame de Chåteauneuf,Undirected,1
+Lamballe,Louis de Chåteauneuf,Undirected,1
+Autun,Louis de Chåteauneuf,Undirected,1
+Gud,Mademoiselle,Undirected,5
+Gud,Valentine,Undirected,3
+Madame Germon,Madame de Chåteauneuf,Undirected,1
+Madame de Chåteauneuf,wiski,Undirected,1
+Gertrude,wiski,Undirected,1
+Gertrude,Madame de Chåteauneuf,Undirected,1
+Ludvig XV,Madame de Chåteauneuf,Undirected,1
+Madame Bonaparte,Markis,Undirected,2
+Madame Bonaparte,Madame de Chåteauneuf,Undirected,1
+Madame de Chåteauneuf,Markis de Caulaincourt,Undirected,1
+Abbed Bernier,Madame de Chåteauneuf,Undirected,1
+Abbed Bernier,Avdiens,Undirected,1
+Ludvig XV,Madame de Beau-rolliers,Undirected,1
+Abbed Bernier,Ludvig XV,Undirected,1
+Abbed Bernier,Mademoiselle de La Feuillade,Undirected,1
+Abbed Bernier,Feuillade,Undirected,1
+Madame Tallien,Thermidor,Undirected,1
+Bonaparte,Madame Tallien,Undirected,1
+Bonaparte,Hoche,Undirected,1
+Hoche,Madame Bonaparte,Undirected,1
+Bonaparte,Madame Bonaparte,Undirected,1
+Berthier,Bonaparte,Undirected,2
+Berthier,Carnot,Undirected,2
+Evropas,Marie-Antoinettes,Undirected,1
+Evropas,Madame Tallien,Undirected,1
+Hippolyte Charles,Madame Tallien,Undirected,1
+Bonaparte,Hippolyte Charles,Undirected,1
+Bonaparte,Louis Bodin,Undirected,1
+Bonaparte,Gohier,Undirected,1
+Bonaparte,Junot,Undirected,7
+Junot,Monsieur Charles,Undirected,1
+Monsieur Charles,Nankins-Pantalons,Undirected,1
+Diana,Teresa,Undirected,1
+Diana,Hortense de Beauharnais,Undirected,1
+Adrien de Montbreton,Hortense de Beauharnais,Undirected,1
+Adrien de Montbreton,Gud,Undirected,1
+Chouan,Gud,Undirected,1
+Chouan,Madame Bonaparte,Undirected,1
+Madame Bonaparte,Mademoiselle de Beauharnais,Undirected,1
+Garat,Mademoiselle de Beauharnais,Undirected,1
+Garat,Monsieur Garat,Undirected,1
+Hortense de Beauharnais,Monsieur Charles,Undirected,1
+Duroc,Madame Bonaparte,Undirected,2
+Duroc,Monsieur Hippolyte Charles,Undirected,1
+Duroc,Hortense,Undirected,2
+Bonaparte,Hortense,Undirected,1
+Bonaparte,Duroc,Undirected,5
+Duroc,Moreau,Undirected,2
+Joseph,Lucien,Undirected,1
+Berthier,Germinal,Undirected,1
+Carnot,Moreau,Undirected,1
+Berthier,Moreau,Undirected,1
+Berthier,Lausanne,Undirected,1
+Melas,Moreau,Undirected,1
+Melas,San,Undirected,1
+Marengo,San,Undirected,1
+Berthier,Duroc,Undirected,4
+Bona-partes,Duroc,Undirected,1
+Bona-partes,Jardin des Plantes,Undirected,1
+Bonaparte,plud selig,Undirected,1
+Berthier,plud selig,Undirected,1
+Madame de Chåteauneuf,Monsieur de Chåteauneuf,Undirected,1
+Louis de Chåteauneuf,Monsieur de Talleyrand,Undirected,1
+Madame de Chåteauneuf,Monsieur de Talleyrand,Undirected,1
+Berthier,Louis,Undirected,1
+Berthier,Madame de Chåteauneuf,Undirected,1
+Louis,Madame de Chåteauneuf,Undirected,7
+Duroc,Lebrun,Undirected,1
+Dijon,Lebrun,Undirected,1
+Bonaparte,Louis,Undirected,5
+Bonaparte,Moreau,Undirected,1
+Kellermann,Mama,Undirected,1
+Kellermann,Pichegru,Undirected,1
+Moreau,Pichegru,Undirected,1
+Louis de Chåteauneuf,Mama,Undirected,1
+Danton,Robespierre,Undirected,1
+Belles-Rives,Mivry,Undirected,1
+Fargeon,Madame de Contades,Undirected,1
+Fargeon,Frascati,Undirected,1
+Frascati,Louis,Undirected,1
+Louis,Majaften,Undirected,1
+Louis de Chåteauneuf,Majaften,Undirected,1
+Monsieur Louis,Valentine,Undirected,1
+Louis de,Madame de Chåteauneuf,Undirected,1
+Bonaparte,Louis de,Undirected,2
+Madame de Chåteauneuf,Monsieur,Undirected,1
+Jeanot,Madame de Chåteauneuf,Undirected,1
+Louis,Monsieur de Chåtillon,Undirected,1
+Louis,Monsieur de Talleyrand,Undirected,1
+Louis,Marie,Undirected,2
+Madame de Genlis,Marie,Undirected,1
+Madame de Genlis,Rousseau,Undirected,1
+Junot,Laure Permon,Undirected,1
+Gud,Madame de Chåteauneuf,Undirected,1
+Gud,Louis,Undirected,2
+Julie,Louis,Undirected,2
+Louis,Monsieur Talleyrand,Undirected,2
+Junot,Laurette,Undirected,4
+Bonaparte,Laurette,Undirected,2
+Bonaparte,Fontanes,Undirected,1
+Cæsar,Fontanes,Undirected,1
+Cromwell,Cæsar,Undirected,1
+Cromwell,Monk,Undirected,1
+Junot,Madame Junot,Undirected,4
+Madame Junot,Mademoiselle de La Feuillade,Undirected,2
+Madame de Chåteauneuf,Mademoiselle de La Feuillade,Undirected,2
+Madame Bonaparte,Madame Permons,Undirected,1
+Madame Bonaparte,Madame Lætitia Bonaparte,Undirected,1
+Madame Joseph,Madame Lætitia Bonaparte,Undirected,1
+Graad,Madame Joseph,Undirected,1
+Graad,Madame Ledere,Undirected,1
+Madame Bacciocchi,Madame Ledere,Undirected,1
+Madame Bacciocchi,Madame Murat,Undirected,1
+Elisa Bacciocchis,Madame Murat,Undirected,1
+Gardel,Madame Junot,Undirected,1
+Gardel,Monsieur de,Undirected,1
+Monsieur Lafitte,Monsieur de,Undirected,1
+Laurette,Monsieur Lafitte,Undirected,1
+Albert de Permon,Laurette,Undirected,1
+Albert de Permon,Louis,Undirected,1
+Louis de Chå-teauneuf,Madame de Constades,Undirected,1
+Madame Ledere,Madame de Constades,Undirected,1
+Laure de Caseaux,Madame Ledere,Undirected,1
+Laure de Caseaux,"Monsieur de Trénis,",Undirected,1
+Monsieur Lafitte,"Monsieur de Trénis,",Undirected,1
+Caseaux,Monsieur Lafitte,Undirected,1
+Albert de Permon,Junot,Undirected,1
+Laurette,Madame,Undirected,1
+Madame,Mademoiselle Chameroi,Undirected,1
+Junot,Mademoiselle,Undirected,1
+Junot,Mademoiselle de La Feuillade,Undirected,2
+Madame de Chåteauneuf,Marie,Undirected,2
+Gud,véd,Undirected,2
+Junot,Louis,Undirected,1
+Madame,Madame de Chåteauneuf,Undirected,1
+Madame de Chåteauneuf,Monsieur Louis,Undirected,1
+Louis’,Madame de Chåteauneuf,Undirected,3
+Laurette,Louis’,Undirected,1
+Madame Junot,Valentine,Undirected,2
+Faster,Madame de Chåteauneuf,Undirected,1
+Madame de Chåteauneuf,Valentine,Undirected,4
+Louis,Valentine,Undirected,5
+Junot,Moreau,Undirected,1
+Isar,Moreau,Undirected,1
+Madame Bonaparte,lille Madame Loulou,Undirected,1
+Junot,lille Madame Loulou,Undirected,1
+Junot,véd,Undirected,1
+Madame,Madame Junot,Undirected,1
+Hortense,Madame,Undirected,1
+Almaviva en Cherubino,Junot,Undirected,1
+Madame Junot,Madame Loulou,Undirected,1
+Louis de Chåteauneuf,Madame Bonaparte,Undirected,2
+Madame Junot,Madame Lannes,Undirected,1
+Beauharnais,de,Undirected,1
+Bonaparte,Stormmarsch,Undirected,1
+Aurora,Boucher,Undirected,1
+Aurora,Louis XV,Undirected,1
+Semele,Zeus,Undirected,1
+Caseaux’,Zeus,Undirected,1
+Caseaux’,Madame de St. Aubin,Undirected,1
+Madame de Chåteauneuf,Madame de St. Aubin,Undirected,1
+Bonaparte,Gud,Undirected,2
+Louis’,Valentine,Undirected,1
+Madame de,Valentine,Undirected,1
+Madame de,Mademoiselle de La Feuillade,Undirected,2
+Constant,Mademoiselle de La Feuillade,Undirected,1
+Constant,Valentine,Undirected,1
+Frimaire,Valentine,Undirected,1
+Frimaire,Madame Branchue,Undirected,1
+Bonaparte,Madame Branchue,Undirected,1
+Duroc,Louis de,Undirected,1
+Bonaparte,Faubourg St. Germain,Undirected,1
+Faubourg St. Germain,Madame Bona-partes,Undirected,1
+Bona-partes,Constant,Undirected,1
+Bona-partes,Catharina,Undirected,1
+Catharina,Medici,Undirected,1
+Henrik den,Medici,Undirected,1
+Henrik den,Hs,Undirected,1
+Bourbon,Hs,Undirected,1
+Bonaparte,"Håtei de Périgord,",Undirected,1
+Madame,straa,Undirected,1
+Louis XV,Madame,Undirected,1
+Louis XV,Marie-Antoinettes,Undirected,1
+Anne de Longueville,Monsieur de La Rochefoucauld,Undirected,1
+Madame de Longueville,Markise de La Rochefoucauld,Undirected,1
+Anne d,Autriches,Undirected,1
+Coblentz,Haydns,Undirected,1
+Coblentz,Madame Bacciocchi,Undirected,1
+Madame Bacciocchi,Paulette,Undirected,1
+Paulette,cavaliere,Undirected,1
+Auguste de Montaigu,cavaliere,Undirected,1
+Auguste de Montaigu,Madame Ledere,Undirected,1
+Madame Ledere,Madame de Chåteauneuf,Undirected,1
+Madame Permon,Madame de Chåteauneuf,Undirected,1
+Laurette Junot,Madame Permon,Undirected,1
+Laurette Junot,Mademoiselle de La Feuillade,Undirected,1
+Garat,Madame Barbier-Walbonne,Undirected,1
+Lannes,Lauriston,Undirected,1
+Berthier,Lauriston,Undirected,1
+Madame Murat,Mademoiselle de Beauharnais,Undirected,1
+Madame Bonaparte,Madame Murat,Undirected,1
+Hortense,Madame Bonaparte,Undirected,1
+Hortense,paany,Undirected,1
+Madame Bonaparte,paany,Undirected,1
+Junot,Markis,Undirected,1
+Madame,Madame Chåteauneuf,Undirected,1
+Armand de Caulaincourt,Madame Junot,Undirected,1
+Madame Junot,Markis,Undirected,2
+Armand de Caulaincourt,Madame Bonaparte,Undirected,1
+Madame Bonaparte,Mortiers,Undirected,1
+Bonaparte,Prairial,Undirected,1
+Chevaliers,Prairial,Undirected,1
+Madame de Chåteauneuf,Monsieur de Caulaincourt,Undirected,1
+Madame Junot,Madame de Chåteauneuf,Undirected,1
+Caseaux’,Madame Junot,Undirected,1
+Caseaux’,Madame de Con-tades,Undirected,1
+Madame de Chåteauneuf,Madame de Con-tades,Undirected,1
+Louis’,Talleyrands,Undirected,1
+Madame de Chåteauneuf,Talleyrands,Undirected,1
+Mademoiselle de La Feuillade,Valentine,Undirected,1
+Monsieur de Chåteauneuf,Valentine,Undirected,1
+Bonaparte,Monsieur de Chåteauneuf,Undirected,2
+Bonaparte,Ottos,Undirected,1
+Louis,Ottos,Undirected,1
+Bonaparte,Louis’,Undirected,2
+Anna,Mademoiselle de La Feuillade,Undirected,1
+Domino,Dronning Anna,Undirected,1
+Buckingham,Louis XIV,Undirected,1
+Buckingham,Domino,Undirected,1
+Georg III,Pitt,Undirected,1
+Carl IV,Georg III,Undirected,1
+Carl IV,Czaren,Undirected,1
+Czaren,Gustav Adolf,Undirected,1
+Bona-partes,Marengo,Undirected,1
+Evropa,Marengo,Undirected,1
+Berthier,Madame,Undirected,1
+Berthier,Kalifen,Undirected,1
+Bonaparte,Mademoiselle,Undirected,1
+Marie-Antoinettes,Montessons,Undirected,1
+Berthier,Montessons,Undirected,1
+Bonaparte,Marengo,Undirected,1
+Bonaparte,Madame de Chåteauneuf,Undirected,1
+Chåteauneuf,Madame de,Undirected,1
+Chåteauneuf,Madame Junot,Undirected,1
+Madame Bonaparte,Madame Cottin,Undirected,1
+Madame Cottin,Madame de Genlis,Undirected,1
+Bonaparte,Madame de Genlis,Undirected,1
+Lannes,Roland »,Undirected,1
+Caroline Murat,Roland »,Undirected,1
+Caroline Murat,Madame Savary,Undirected,1
+Emilie de La Valette,Madame Savary,Undirected,1
+Emilie de La Valette,Hortense —,Undirected,1
+Duroc,Hortense —,Undirected,1
+Duroc,Laurette Junot,Undirected,1
+Hortense,Laurette Junot,Undirected,1
+Elisa Monroë,Hortense,Undirected,1
+Elisa Monroë,Ney,Undirected,1
+Lauriston,Ney,Undirected,1
+Isabey,Lauriston,Undirected,1
+Figaro Bourrienne,Isabey,Undirected,1
+Evropa,Pauline,Undirected,1
+Hortense,Mademoiselle de,Undirected,1
+Duroc,Mademoiselle de,Undirected,1
+Madame Bonaparte,Monsieur Charles,Undirected,1
+Joseph,Madame Julie Bonaparte,Undirected,1
+Madame Bernadotte,Madame Julie Bonaparte,Undirected,1
+Hortense,Os-sians,Undirected,1
+Cimarosas,Os-sians,Undirected,1
+Cimarosas,Madame Bernadette,Undirected,1
+Madame Bernadette,Rapp,Undirected,1
+Gud,Madame Bernadette,Undirected,1
+Junot,Madame Bonaparte,Undirected,1
+Madame Bonaparte,Rapp,Undirected,2
+Caroline Murat,petter,Undirected,1
+Caroline Murat,Hortense,Undirected,1
+Hortense,Mademoiselle de La Feuillade,Undirected,1
+Bonaparte,Mademoiselle de La Feuillade,Undirected,1
+Julie,Madame Bonaparte,Undirected,1
+Bonaparte,Madame Joseph,Undirected,1
+Madame Bonaparte,ban,Undirected,1
+Junot,Rapp,Undirected,5
+Jardin,Junot,Undirected,1
+Bonaparte,Rapp,Undirected,1
+Davoust,Desaix,Undirected,1
+Bonaparte,Davoust,Undirected,1
+Belliards,Menou,Undirected,1
+Carl IV,Rapp,Undirected,1
+Junot,Talma,Undirected,1
+Orestes,Talma,Undirected,1
+Junot,Orestes,Undirected,1
+Fourés,Madame Pauline,Undirected,1
+Bonaparte,Fourés,Undirected,1
+Bonaparte,Orestes,Undirected,1
+Junot,Laure,Undirected,1
+Laure,Madame de Chåteauneuf,Undirected,1
+Madame Hamelins,Madame Ledere,Undirected,1
+Madame Ledere,Talma,Undirected,1
+Consalvi,Talma,Undirected,1
+Consalvi,Pauline,Undirected,1
+Bonaparte,Madame Junot,Undirected,2
+Laurette,Madame Fourés —,Undirected,1
+David,Laurette,Undirected,1
+Chåteauneuf,Mademoiselle de La Feuillade,Undirected,1
+Gud,Madame Junot,Undirected,1
+Duroc,Madame Germon,Undirected,2
+Louis de Chåteauneuf,Otto,Undirected,1
+Markis,Otto,Undirected,1
+Made-moiselles,Mademoiselle,Undirected,1
+Made-moiselles,Madonnas,Undirected,1
+Azara,Madame Bonaparte,Undirected,1
+Azara,Markis Lucchesini,Undirected,1
+Laure Junot,Madame Germon,Undirected,1
+Duroc,Pauline,Undirected,1
+Laurette,Monsieur de Caulain-court,Undirected,1
+Louis,Madame Junot,Undirected,1
+Madame de Chåteauneuf,Markis’,Undirected,1
+Louis de,Valentine,Undirected,1
+Duroes,Monsieur de Chåteauneuf,Undirected,1
+Duroes,Mademoiselle de La Feuillade,Undirected,1
+Monsieur de Chåteauneuf,hans,Undirected,1
+Louis de Chåteauneuf,Monsieur de Chåteauneuf,Undirected,1

@@ -1,0 +1,119 @@
+source,target,type,weight
+Alexander den Store,Homer,Undirected,1
+Bjarne,Pike,Undirected,1
+Jeanne,Jeanne de Lorraine,Undirected,1
+Impresario,Peter,Undirected,1
+Antonius,Musset,Undirected,1
+Ludvig,Napoleon,Undirected,1
+Bronce,Julius Cæsar,Undirected,1
+Alexander den Store,Julius Cæsar,Undirected,1
+Alexander den Store,Cæsar,Undirected,1
+Cæsar,eg,Undirected,1
+Christophe,Herman Wessels,Undirected,1
+L’,Savois,Undirected,1
+L’,autre,Undirected,1
+autre,monsieur,Undirected,1
+Monsieur,monsieur,Undirected,1
+Madame,Monsieur,Undirected,3
+Madame,autre,Undirected,1
+autre,l’,Undirected,2
+Savois,autre,Undirected,1
+Rocheforts,Rose,Undirected,1
+le sjyr,le sjøhr,Undirected,1
+L’assommoir,Zola,Undirected,1
+L’assommoir,x,Undirected,1
+Antonius,Sylvia Delaplanche,Undirected,1
+Antonius,Sylvia,Undirected,1
+Gutenberg,Madame Malaquin,Undirected,2
+Henri Rochefort,Madame Malaquin,Undirected,1
+Gutenberg,Henri Rochefort,Undirected,1
+Henrik Ibsen,Malaquin,Undirected,1
+August Strindberg,Henrik Ibsen,Undirected,1
+Malaquin,Wagner,Undirected,1
+Ibsens Hilde,Sylvia Delaplanche,Undirected,1
+Ibsens Hilde,Taffanels,Undirected,1
+Faust,Taffanels,Undirected,1
+Absinth,Malaquin,Undirected,1
+Absinth,Henrik Ibsen,Undirected,1
+Alcanter de Brahms,l’,Undirected,1
+Alcanter,Henrik Ibsen,Undirected,1
+Alcanter,l’,Undirected,1
+Henrik Ibsen,l’,Undirected,1
+G. Salandri,Jean Jullien,Undirected,1
+Villars,Villy,Undirected,1
+Hr. Strauss,Villy,Undirected,1
+Hr. Strauss,Lysistrate,Undirected,1
+Cor tombent,Savine,Undirected,1
+Alick Bollas,Savine,Undirected,1
+Alick Bollas,Hr. Cortambert,Undirected,1
+. Deschamps,Plumes,Undirected,1
+Antonius,quand ça,Undirected,1
+je suis la Muse des jeunes,mon pauvre Antonius,Undirected,1
+Verlaine,Violon,Undirected,2
+Verlaine,violon violonon,Undirected,1
+A. Cazals,Verlaine,Undirected,1
+Baudelaire,Deschamps,Undirected,1
+Baudelaire,Verlaine,Undirected,1
+Bibi,Verlaine,Undirected,3
+Absinth,Paul Verlaine,Undirected,1
+Robert Bums,Robert Burns,Undirected,1
+Shelley,Verlaine,Undirected,1
+Simoune,Verlaine,Undirected,1
+Napoleon,Verlaine,Undirected,1
+Paul Verlaine,cher,Undirected,1
+Frans,Verlaine,Undirected,1
+Frans,luifi,Undirected,1
+Deschamps,La Plumes,Undirected,1
+Kusk,Marchand de vin,Undirected,1
+Deschamps,Kusk,Undirected,1
+Paul Verlaine,Verlaine,Undirected,2
+Guds,Verlaine,Undirected,1
+Chansonetter,Hr. Verlaine,Undirected,1
+Chansonetter,Verlaine,Undirected,1
+La Plumes,Verlaine,Undirected,1
+Les Gammes,Stuart-Merrill,Undirected,1
+Les Gammes,Merrill,Undirected,1
+Merrill,Roland,Undirected,1
+Roland,fean Carrere,Undirected,1
+Ivan Rambosson,fean Carrere,Undirected,1
+Adolphe Retté,Ivan Rambosson,Undirected,1
+Adolphe Retté,Stuart-Merrill,Undirected,1
+Merrill,Stuart-Merrill,Undirected,1
+Merrill,Verlaine,Undirected,1
+Gazais,Verlaine,Undirected,1
+Stendhal,Verlaine,Undirected,1
+Cazals,Verlaine,Undirected,3
+Cazals,Pour Mlle,Undirected,1
+Quelle fringale,Qui rappellerait le vampire De qui l,Undirected,1
+Antonius,Gazais,Undirected,2
+Villon,Villons,Undirected,1
+Evropas,Villon,Undirected,1
+Paul Verlaine,Villon,Undirected,2
+Jean Moréas,Paul Verlaine,Undirected,1
+Auguste Gazais,Bonjour monsieur,Undirected,1
+Cazals,Sonnetor,Undirected,1
+Sonnetor,Verlaine,Undirected,1
+Madame,Tambur,Undirected,1
+Cazals,Paul Verlaine,Undirected,1
+Gustave Le Rouge,L’,Undirected,1
+L.,stundum lange,Undirected,2
+P.,Paul Verlaine,Undirected,2
+P.,Verlaine,Undirected,2
+Quand il est furieux,Verlaine,Undirected,1
+Sylvia,skraa,Undirected,1
+Lea,Rakel,Undirected,1
+LADISLAS,c ANTONIUS,Undirected,1
+Antonius,Ladislas,Undirected,40
+Isse,Ladislas,Undirected,1
+Antonius,dus,Undirected,2
+Antonius,Cæsar,Undirected,1
+Bonapartes,Cæsar,Undirected,1
+Arcs,Jeanne d,Undirected,1
+Madame,Monsieur Antonius,Undirected,1
+Antonius,Monsieur Antonius,Undirected,1
+Antonius,Mefisto,Undirected,1
+Ladislas,Mefisto,Undirected,1
+Gretchen,Ladislas,Undirected,1
+Gretchen,Madame,Undirected,1
+Antonius,Madame,Undirected,3
+Ladislas,Monsieur Antonius,Undirected,1

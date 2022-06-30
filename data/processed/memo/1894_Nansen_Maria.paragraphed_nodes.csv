@@ -1,0 +1,11 @@
+Id,Polarity,Polarity_normalized,Polarity_sentence,Polarity_sentence_normalized,Connections,Connections_normalized,Interactions,Interactions_normalized,Degree,Degree_normalized,Centrality,Centrality_normalized,Betweenness,Betweenness_normalized
+Evaspot,0,0,0,0,1,0.0,1,0.0,1,0.0,0.23,0.3,0.0,0.0
+Maria,0,0,0,0,7,1.0,10,1.0,7,1.0,0.67,1.0,0.89,1.0
+Graad,0,0,0,0,1,0.0,1,0.0,1,0.0,0.23,0.3,0.0,0.0
+Gud,0,0,0,0,2,0.17,5,0.44,2,0.17,0.27,0.37,0.39,0.44
+grant,0,0,0,0,1,0.0,1,0.0,1,0.0,0.23,0.3,0.0,0.0
+paany,0,0,0,0,1,0.0,1,0.0,1,0.0,0.23,0.3,0.0,0.0
+Arilds,0,0,0,0,2,0.17,2,0.11,2,0.17,0.36,0.51,0.0,0.0
+Tvi,0,0,0,0,2,0.17,2,0.11,2,0.17,0.36,0.51,0.0,0.0
+Zeus,0,0,0,0,2,0.17,3,0.22,2,0.17,0.11,0.11,0.22,0.25
+Amfitryons,0,0,0,0,1,0.0,2,0.11,1,0.0,0.04,0.0,0.0,0.0

@@ -1,0 +1,89 @@
+source,target,type,weight
+Gud,Hansen,Undirected,1
+Gud,Jesus,Undirected,1
+Diegos,Marthe,Undirected,3
+Diego,Marthe,Undirected,46
+Diego,Mandoline,Undirected,2
+Mandoline,Marthe,Undirected,1
+Maren,Marthe,Undirected,5
+Mandoline,Maren,Undirected,1
+Gud,Marthe,Undirected,12
+Diego,Gud,Undirected,4
+Bastian Matalabos,Diego,Undirected,1
+Bastian Matalabos,Matalabos,Undirected,1
+Diego,Matalabos,Undirected,3
+Marthe,Matalabos,Undirected,1
+Faster,Marthe,Undirected,32
+Diego,Faster,Undirected,3
+Graad,Marthe,Undirected,3
+Faster,Jomfru Hansen,Undirected,2
+Jomfru Hansen,Marthe,Undirected,1
+Marthe,skoggerlo,Undirected,1
+Faster,skoggerlo,Undirected,1
+Marthe,Riko,Undirected,4
+Diego voxe,Hansen,Undirected,1
+Diego voxe,Marthe,Undirected,1
+Faster,Møller,Undirected,1
+Gud,Maren,Undirected,1
+Diego,Maren,Undirected,1
+Marthe,hellei-,Undirected,1
+Diego,Vennehaand,Undirected,1
+David,Vennehaand,Undirected,1
+Marthe,Medusas,Undirected,1
+Lodses,Pfui,Undirected,1
+Pfui,Ulv,Undirected,1
+Christen,Gud,Undirected,3
+Gud,Hjobs,Undirected,4
+Faster,Riko,Undirected,1
+Faster,Halling,Undirected,2
+Faster,haii,Undirected,1
+Biko,Marthe,Undirected,2
+Madame,Marthe,Undirected,1
+Bastian Olsen,Marthe,Undirected,1
+Cadix,Cholera,Undirected,1
+Marthe,Summa,Undirected,1
+Taus,taus,Undirected,1
+Marthe,taus,Undirected,1
+Erik —,Faster,Undirected,2
+Marthe,Papa,Undirected,1
+Faster,Gud,Undirected,2
+Anker,Gud,Undirected,1
+Christopher Columbus,Marthe,Undirected,1
+Erik,Foerværks,Undirected,2
+Gud,lumr,Undirected,1
+lumr,yxæ,Undirected,1
+Marthe,yxæ,Undirected,1
+Marthe,slaa,Undirected,2
+Faer,Faster,Undirected,1
+Marteren,Marthe,Undirected,1
+Gud,Lodsens,Undirected,1
+Marthe,har,Undirected,1
+Erik,Marthe,Undirected,10
+Erik,Faster,Undirected,8
+Arne,Marthe,Undirected,1
+Arne,crescendo,Undirected,1
+Marthe,crescendo,Undirected,1
+Marthe,Scipio,Undirected,1
+Henrik,Marthe,Undirected,1
+Faster,Henrik,Undirected,1
+Erik,Papa,Undirected,2
+Mahomed,t,Undirected,1
+J,t,Undirected,1
+Marthe,kelsen,Undirected,1
+J,Marthe,Undirected,1
+Marthe,Stum,Undirected,1
+Marthe,dei-,Undirected,1
+Madame Angel,dei-,Undirected,1
+Angel,Jens Christian,Undirected,1
+Angel,Marthe,Undirected,2
+Faster,Papa,Undirected,1
+Faster,Liv,Undirected,1
+Erik,Jens Christian,Undirected,1
+Erik,Erik Andreas,Undirected,3
+Erik Andreas,Jens Christian,Undirected,1
+Andreas,Erik,Undirected,1
+Jens Christian,Marthe,Undirected,1
+Gud,Jens Christian,Undirected,1
+Nils,Olsen,Undirected,2
+Erik Andreas,Hansen,Undirected,1
+Hansen,Marthe,Undirected,1

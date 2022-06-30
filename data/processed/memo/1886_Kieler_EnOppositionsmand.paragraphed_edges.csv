@@ -1,0 +1,225 @@
+source,target,type,weight
+Josef den 2dens,Katharinas,Undirected,1
+Gustav,Katharina,Undirected,2
+Gustav,Kong Gustav,Undirected,1
+Katharina,Kong Gustav,Undirected,1
+Herodes,Katharina,Undirected,1
+Herodes,Pilatus,Undirected,1
+Bernstorf,Ehrenheim,Undirected,1
+Anckarstrøms,Gustav,Undirected,1
+Reuterholm,Sparre,Undirected,1
+Bernstorf,Sparre,Undirected,1
+Bernstorf,Carl,Undirected,2
+Jakob Aal,P. A.,Undirected,1
+Bernstorf,P. A.,Undirected,2
+Cimbren,Thaarup,Undirected,1
+Gustav o	,Hertug Karls,Undirected,1
+Adolf Taarer,Gustav o	,Undirected,1
+Gustav den 3dies,Gustav den 4de,Undirected,1
+Gustav den 4de,Kathrina den 2dens,Undirected,1
+Kathrina den 2dens,Paul,Undirected,1
+Gustav den,Paul,Undirected,1
+Bernstorf,Paul,Undirected,2
+Ansgar,Guds,Undirected,1
+Guds,Kong Olaf,Undirected,1
+Hans Nilsen Hauges,Kradsen,Undirected,1
+Guds,Hans Nilsen,Undirected,1
+Guds,Kristian den,Undirected,1
+Guds,Ole,Undirected,1
+Gud,Guds,Undirected,1
+Gud,Ole,Undirected,3
+Moses,Stefanus,Undirected,1
+Gud,Hans,Undirected,1
+Hans,Hernhuter,Undirected,1
+Gud,Hauge,Undirected,23
+Hans Nielsen,Kristus,Undirected,1
+Hans Nilsen,Seberg,Undirected,1
+Hans Nilsen,Kristum,Undirected,1
+Kristi,Kristum,Undirected,1
+Charlotte Amalia,von Østen,Undirected,1
+Gud,Seberg,Undirected,1
+Herren,Jesu,Undirected,1
+Kristi,Seberg,Undirected,1
+Hans Nilsen,Ole Hauge,Undirected,1
+Hans,Seberg,Undirected,1
+Kristi,Ole,Undirected,1
+Nils Ankers,Wachenitz,Undirected,1
+Hauge,Stricker,Undirected,1
+Mansbach,Stricker,Undirected,1
+Kaalund,Mansbach,Undirected,1
+Huldrens,Rousseaus,Undirected,1
+Rousseaus,Urania,Undirected,1
+Erato,Urania,Undirected,1
+Erato,Euterpe,Undirected,2
+Hauge,Krist,Undirected,1
+Krist,Kyrie Eleison,Undirected,1
+Dieu,briljant,Undirected,1
+Madame Riccaboni,Sedaine,Undirected,1
+Madam Zahrs,Madame Riccaboni,Undirected,1
+Peder Anker,Seide,Undirected,1
+Flemminge,Ræder,Undirected,1
+Thalia,tren Urania ogPolyhymnia,Undirected,1
+Erato,tren Urania ogPolyhymnia,Undirected,1
+Euterpe,Kalliope,Undirected,1
+Kalliope,Klio,Undirected,1
+Elise,Florette,Undirected,1
+Birckner,Collet,Undirected,1
+Malte Conrad Bruun,P. A. Heiberg,Undirected,1
+Grev Bernstorff,Ræder,Undirected,1
+Grev Bernstorff,Gud,Undirected,1
+Grev Bernstorf,Gud,Undirected,1
+Grev Bernstorf,Madame,Undirected,1
+Heiberg,Radich,Undirected,1
+Frederik,Otto,Undirected,1
+Hauge,Radich,Undirected,18
+Messieurs,Radich,Undirected,1
+Mathisen,Radich,Undirected,2
+Hans Nilsen Hauge,Radich,Undirected,2
+Hauge,Ræder,Undirected,1
+Hans Nilsen,Hauge,Undirected,3
+Gud,Hans Nilsen,Undirected,1
+Anathema,Gud,Undirected,1
+Hauge,Jærn,Undirected,2
+Hauge,Mathisen,Undirected,1
+Kaarde,Radich,Undirected,1
+Radich,lian,Undirected,1
+Gud,Radich,Undirected,6
+Axel,Dieu,Undirected,1
+Ernestine,Radich,Undirected,1
+Hans Nilsen Hauge,brute,Undirected,1
+Ernestine,"monsieur,",Undirected,1
+Gud,atfreux,Undirected,1
+Gud,monsieur,Undirected,1
+Frøken Kirschner,monsieur,Undirected,1
+Adieu,Radich,Undirected,1
+Adieu,Frøken Kirschner,Undirected,1
+Axel,Løjtncnt Radich,Undirected,1
+Brutus,Foged Weitzmanns,Undirected,1
+Axel,Gud,Undirected,3
+Hauge,Holmbo,Undirected,1
+Hauge,Olje,Undirected,1
+Evropas,Poul,Undirected,1
+Napoleon,Paul,Undirected,1
+Lord Fitzgerald,Napoleon,Undirected,1
+Hauge,Maren Boes,Undirected,1
+Gud,Maren Boes,Undirected,1
+Fritz Brasewitz,Heinrich Stiilpnagel,Undirected,1
+Nicolai,ogenSlup,Undirected,1
+Kristus,Mikkel Smed,Undirected,1
+Gud,Mikkel Smed,Undirected,1
+Bugge,Hansen,Undirected,1
+Hauch,Hauge,Undirected,1
+Bigotteri,Gud,Undirected,1
+Brun,Bugge,Undirected,1
+Hauge,Jannike,Undirected,2
+Jannike,Radich,Undirected,1
+Mikkel,Radich,Undirected,1
+Hauge,Paulus,Undirected,1
+Gud,Paulus,Undirected,2
+Gud,orum,Undirected,1
+Bugge,Jannike,Undirected,1
+Bugge,Hauge,Undirected,1
+Admiral Kronstedt,Gustav den,Undirected,1
+Admiral Kronstedt,Napoleon,Undirected,1
+Dreyer,Napoleon,Undirected,1
+Flaade,Nelson,Undirected,1
+Gustav den Fjerdes,Provst Ekelund,Undirected,1
+Liljehorns,Provst Ekelund,Undirected,1
+Gustav,Liljehorns,Undirected,1
+Hauge,Maaltrostens,Undirected,1
+Ernestine,Madame Kahrs,Undirected,1
+Bernt Anker,Ziegler,Undirected,1
+Diana,Olymp,Undirected,1
+Bernt Anker,Talma,Undirected,1
+Ernestine,Fersi,Undirected,1
+Fersi,Pinoli,Undirected,1
+Pettoletti,Pinoli,Undirected,1
+Ernestine Kirschner,Radich,Undirected,2
+Mynster,Øhlenschlager,Undirected,1
+Inger,Mikkel Hauge,Undirected,1
+Hauge,Inger,Undirected,2
+Frøken Kirschner,Inger,Undirected,1
+Ernestine Kirschner,Løjtnant Radichs,Undirected,1
+D,Gud,Undirected,1
+Gram,Hauge,Undirected,1
+Collet,Gram,Undirected,1
+Collet,Hauge,Undirected,3
+Hauge,Kristus,Undirected,1
+Ernestine Kirschner,Gud,Undirected,1
+Ernestine Kirschner,Hauge,Undirected,2
+Ernestine Kirchner,Radich,Undirected,1
+Hauge,Stockfleth,Undirected,1
+Gud,Peter Støen,Undirected,1
+Gud,gaar Kieler,Undirected,1
+Hauge,Kavtion,Undirected,1
+Hauge,Møller,Undirected,1
+Hauge,Hr. Radich,Undirected,1
+Hr. Fogden,Møller,Undirected,1
+Collet,Fogdens,Undirected,1
+Grev Moltke,Wulfsberg,Undirected,1
+Hauge,Wulfsberg,Undirected,2
+Hauge,ketter,Undirected,1
+Hans Jærn,Hauge,Undirected,1
+Axel,CZ,Undirected,1
+Hans Nilsen Hauge,Hauge,Undirected,2
+Hauge,Otto,Undirected,1
+Gud,Otto,Undirected,5
+Axel,Otto,Undirected,2
+Kristus,Luther,Undirected,1
+Paulus,s,Undirected,1
+Ludvig den,Otto,Undirected,1
+Ludvig,Ludvig den,Undirected,1
+Gud,Keiserens,Undirected,1
+Otto,Radich,Undirected,3
+Luther,Otto,Undirected,1
+Gud,Kristian den,Undirected,1
+Aker Jakob Aars,Ingstad,Undirected,1
+Hauge,Ingstad,Undirected,1
+Heiberg,Kahrs,Undirected,1
+Buli,Moltke,Undirected,1
+Moltke,Wulfsberg,Undirected,2
+Evropa,Napoleon,Undirected,1
+C. Bernstorfs,Napoleon,Undirected,1
+C. Bernstorf,Napoleon,Undirected,1
+Kejser Pauls,Napoleon,Undirected,1
+Bonaparte,Job,Undirected,1
+Radich,Storemers,Undirected,1
+Jægten,"Radich,-",Undirected,1
+Jægten,Kieler,Undirected,1
+Kristian den 4des,Peder Skram,Undirected,1
+Cort Adeler,Peder Skram,Undirected,1
+Cort Adeler,Nils Jul,Undirected,1
+Ivar Huitfeldt,Nils Jul,Undirected,1
+Gustav,Radich,Undirected,1
+Gustav,Sofia Abertine,Undirected,1
+Dannebrog,Radich,Undirected,1
+Hans Nilsen,Radich,Undirected,1
+Hr. Radich,liam,Undirected,1
+Mikkel Hauge,Radich,Undirected,1
+Mikkel,Wulfsberg,Undirected,1
+Gud,Hr. Radich,Undirected,1
+Ernestine,Gud,Undirected,1
+Grev Moltke,Kristian August,Undirected,1
+Grev Moltke,Rosenkrands,Undirected,1
+Rosenkrands,Wedel-Jarlsberg,Undirected,1
+Hauge,Lumholz,Undirected,1
+Hans Nilsen Hauge,Hr. X.,Undirected,1
+Frode,Odin,Undirected,2
+Frode,Hansen,Undirected,1
+Hansen,Kristian og,Undirected,1
+Frederik,Kristian og,Undirected,1
+Hauge,Satans,Undirected,1
+Krogstads,Radich,Undirected,1
+Gud,Krogstad,Undirected,2
+Hansen,Otto,Undirected,1
+Krogstad,Otto,Undirected,1
+Broder,Radich,Undirected,1
+Gud,Kejserens,Undirected,1
+Kejserens,Radich,Undirected,1
+Kristian,Radich,Undirected,1
+A. C. Bang,H. N. Hauge,Undirected,1
+A. C. Bang,Kieler,Undirected,1
+Buils,ban,Undirected,1
+Buils,Wulfsberg,Undirected,1
+Hauge,Kristi,Undirected,1
+Kielland,Worse,Undirected,1

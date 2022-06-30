@@ -1,0 +1,83 @@
+source,target,type,weight
+Katzenjammer,Marv,Undirected,1
+Hr. Madsen,Madsen,Undirected,1
+J,Madsen,Undirected,1
+Lind,Madsen,Undirected,6
+Lind,k,Undirected,1
+Lind,lille Harald,Undirected,1
+Maja,s,Undirected,1
+Marie,s,Undirected,1
+Lind,Maja,Undirected,28
+Madsen,Maja,Undirected,1
+Fæcundi calices,amor immoderatus edendi,Undirected,1
+Jærntraad,b,Undirected,1
+Drømmenes,Maja,Undirected,1
+Jærn,Maja,Undirected,1
+Lind,Maj as,Undirected,1
+Kasper Madsen,Lind,Undirected,3
+Eden,Lind,Undirected,1
+Eden,Samson,Undirected,1
+Carl Jensen,Samson,Undirected,1
+Fanny,Samson,Undirected,29
+Lind,Samson,Undirected,36
+Dalila,Lind,Undirected,2
+Anchiovis,Lind,Undirected,1
+Carl Jensen,Fanny,Undirected,1
+O,Samson,Undirected,1
+Carl Jensen,Lind,Undirected,1
+Fanny,Lind,Undirected,15
+Brorlil,Samson,Undirected,1
+Christian Winther,Fanny,Undirected,1
+Eva,Samson,Undirected,2
+Maja,Samson,Undirected,1
+Harald,Maja,Undirected,7
+Axel E. Betzonich,Maja,Undirected,1
+Fanny,Jørgensen,Undirected,3
+Harald Lind,Samson,Undirected,2
+Jørgensen,Samson,Undirected,4
+Gotlib,Samson,Undirected,9
+Gotlib,Lind,Undirected,29
+Agander,Jørgensen,Undirected,2
+Fanny,Gotlib,Undirected,2
+Cæsar,Nero,Undirected,1
+Bravo,Gotlib,Undirected,1
+Agander,Samson,Undirected,1
+Bethoven,Hr. Johansen,Undirected,1
+Rafael,Rubens,Undirected,1
+Rembrandt,Rubens,Undirected,1
+Agander,Thora,Undirected,2
+Fanny,Flan,Undirected,1
+Gotlib,Hr. Nero,Undirected,2
+Hopsaer,Samson,Undirected,1
+Jørgensen,Per,Undirected,1
+Agander,Lind,Undirected,1
+Lind,Thora,Undirected,1
+Hr. Nero,Hr. o Nero,Undirected,1
+Axel E. Betzonich,Eolk,Undirected,1
+Maja,spaa,Undirected,1
+Fanny,Maja,Undirected,2
+Gotlib,Mo,Undirected,1
+Burgunder,Lind,Undirected,1
+Maja,Toddy,Undirected,1
+Bisy,Lind,Undirected,5
+Lind,Norma,Undirected,1
+Gud,Jørgensen,Undirected,1
+Dalila,Samson,Undirected,1
+Kristian,Lind,Undirected,1
+Samson,h,Undirected,1
+Fanny,Torso,Undirected,1
+Fanny,lille Frue,Undirected,1
+Gotlib,Isak,Undirected,1
+Kasper Madsen,Maja,Undirected,2
+Lind,Teg,Undirected,1
+Madsen,mari,Undirected,1
+Gotlib,Maja,Undirected,2
+Gotlib,Nero,Undirected,2
+Gotlib,Karl,Undirected,1
+Karl,Nero,Undirected,1
+Hr. Nero,Samson,Undirected,2
+Lind,Nero,Undirected,1
+Lind,Maja —,Undirected,1
+Maja,Maja —,Undirected,1
+JOO,Lind,Undirected,1
+Samson,jere,Undirected,1

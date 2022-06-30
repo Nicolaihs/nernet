@@ -1,0 +1,496 @@
+source,target,type,weight
+Adam,Gud,Undirected,1
+Hasting,Marie,Undirected,2
+Marie,ottcaars,Undirected,1
+Tu,øs,Undirected,2
+Hasting,Kjære Hølman,Undirected,1
+Hasting,øs,Undirected,1
+Holman,Tu,Undirected,3
+Hasting,Holman,Undirected,22
+Dr. Pusey,Hasting,Undirected,1
+Dr. Pusey,bedsf,Undirected,1
+Charlotte Gerner,vidsfe,Undirected,2
+Charlotte,kjære Holman,Undirected,1
+Charlotte,Frøken Charlotte Gerner,Undirected,1
+Margrethe,Tu,Undirected,4
+Margrethe,Præsf,Undirected,2
+Hjeni,Margrethe,Undirected,2
+Gud,Margrethe,Undirected,23
+Margrethe,jø,Undirected,2
+Tu,jø,Undirected,1
+Capellan,Margrethe,Undirected,1
+Margrethe,Præsteines,Undirected,1
+PastorHasfing,Præsteines,Undirected,1
+Holman,PastorHasfing,Undirected,1
+Capifel De to,Margrethe,Undirected,1
+Holman,k Figur,Undirected,1
+k,k Figur,Undirected,1
+Bei,k,Undirected,1
+Bei,l,Undirected,1
+Else,Jens Røgter,Undirected,1
+Margrethe,lille Margrethe,Undirected,2
+Bissens,lille Margrethe,Undirected,1
+Bissens,Tu Margrethe Hasting,Undirected,1
+Margrethe,Tu Margrethe Hasting,Undirected,1
+Margrethe,ester,Undirected,3
+Capellancn,Margrethe,Undirected,1
+Margrethe,hnn,Undirected,4
+Hasting,Lund,Undirected,1
+Graad,Jens Røgter,Undirected,1
+Graad,Hasting,Undirected,1
+Holman,Margrethe,Undirected,39
+Holman,Langgaard,Undirected,1
+Justitsraad Langgaard,Langgaard,Undirected,1
+Jens RøgterS,Margrethe,Undirected,1
+Hasting,Margrethe,Undirected,33
+Cheruben,Margrethe,Undirected,1
+Cheruben,Gud,Undirected,1
+kjære Holman,sfride,Undirected,1
+Tu,ahner,Undirected,1
+Holman,kjære Holman,Undirected,1
+Margrethe,Marie,Undirected,8
+Hasfing,Margrethe,Undirected,3
+Hasfing,dans,Undirected,1
+Holman,dans,Undirected,1
+Holman,Margretbe«,Undirected,1
+Margretbe«,Margrethe,Undirected,1
+Gfier,Hasting,Undirected,1
+Margrethe,lille Marie,Undirected,5
+ester,lille Marie,Undirected,1
+Tange,Tem,Undirected,1
+Emilie Tange,Tange,Undirected,1
+Emilie Tange,Hasting,Undirected,1
+Frøken Tanges,Hasting,Undirected,1
+Frøken Tange,Hasting,Undirected,2
+Hasting,as,Undirected,3
+Frøken Bruun,Pasfor Hasting,Undirected,1
+Frøken Tange,Helene,Undirected,5
+Frøken Tange,taug,Undirected,1
+Helene,voxne,Undirected,1
+Bruun,Helene,Undirected,1
+Bruun,taug,Undirected,1
+Hasting,Tercs,Undirected,1
+Helene Bruun Hastings,Pasfor Hasting,Undirected,1
+Frøken Tange,Margrethe,Undirected,4
+Frøken Tange,Helene Bruun,Undirected,6
+Helene,Margrethe Hasting,Undirected,1
+Tu,lille Helene,Undirected,1
+Hasting,crSme,Undirected,1
+Hasfing,Langgaard,Undirected,10
+Hasting,tbi,Undirected,1
+Hasting,askjølct,Undirected,1
+Hasting,Langgaard,Undirected,30
+Ddre,Langgaard,Undirected,1
+Ddre,Hasting,Undirected,1
+Langgaard,Priis,Undirected,1
+Hasting,Priis,Undirected,1
+Adam,Langgaard,Undirected,1
+Emma,Vilhelm,Undirected,1
+Langgaard,Tet,Undirected,1
+Dien,Langgaard,Undirected,1
+Dien,hanö,Undirected,1
+Hasfing,hanö,Undirected,1
+Langgaard,LanggaardS,Undirected,1
+Erhardine,Langgaard,Undirected,13
+Erhardine,Hansen,Undirected,1
+Fru Løvholm,Hasting,Undirected,1
+Hasting,farbanseS,Undirected,1
+Elise,Oslfeldt,Undirected,1
+Emma,Oslfeldt,Undirected,1
+Emma,Langgaard,Undirected,4
+Hasting,joidifl,Undirected,1
+ban,joidifl,Undirected,1
+Hasting,ban,Undirected,2
+Elise,ban,Undirected,1
+Emma,ban,Undirected,2
+Elise,Emma,Undirected,18
+Elise,Hasting,Undirected,5
+Erhardine,Hasting,Undirected,4
+Hasting,HastingS,Undirected,2
+Sirtses,hans Margrethe,Undirected,1
+Hasting,ester,Undirected,3
+Hasting,Steen,Undirected,1
+Steen,djærve,Undirected,1
+El,djærve,Undirected,1
+El,Hasting,Undirected,1
+Gud,Hasting,Undirected,7
+Gud,dans,Undirected,2
+Gud,Lazarus,Undirected,1
+Langgaard,Sidsle,Undirected,1
+Frøken Tange,Langgaard,Undirected,1
+Præsf,Tange,Undirected,1
+Helene,nien,Undirected,1
+Hasting,nien,Undirected,1
+Al,Gud,Undirected,1
+Frøken Harde,Helene,Undirected,1
+Frøken Harde,as Hastings,Undirected,1
+as,as Hastings,Undirected,1
+Langgaard,as,Undirected,1
+Gud,PastorHasfing,Undirected,1
+Erhardine,Gud,Undirected,4
+Erhardine,lille Elise,Undirected,1
+Langgaard,ester,Undirected,1
+Lapilel,Margrethe,Undirected,1
+LanggaardS.,Tet,Undirected,1
+Emma Løvholm,HastingS,Undirected,1
+Margrethe,Margrethe Hasting,Undirected,2
+Erhardine,Hirn,Undirected,1
+Emma,Erhardine,Undirected,6
+Emma,Margrethe,Undirected,8
+Justitsraad Langgaard,ester,Undirected,1
+Justitsraad Langgaard,soni,Undirected,1
+nied,soni,Undirected,1
+Tournure,nied,Undirected,1
+Langgaard,Tournure,Undirected,1
+Langgaard,Margrethe,Undirected,4
+Emma Løvholm,Langgaard,Undirected,1
+Asten,Vilka,Undirected,1
+Asten,Lapifel,Undirected,1
+Emma,Hasting,Undirected,5
+Alvildas,Emma,Undirected,1
+Alvildas,Emma Løvholm,Undirected,1
+Emma Løvholm,Hjelm,Undirected,1
+Hjelm,Lille Alvilda,Undirected,1
+Lille Alvilda,Thee,Undirected,1
+Emma,Thee,Undirected,1
+Alvilda,Emma,Undirected,2
+Emma,Tu,Undirected,11
+Emma,Tine,Undirected,1
+Emma,Gud,Undirected,3
+Tet,nian,Undirected,1
+Castings,Hasting,Undirected,1
+Dr. Clausen,Margrethe,Undirected,1
+Hartfelt,Hasting,Undirected,1
+Hartfelt,christelig,Undirected,1
+Baronens,Christne,Undirected,1
+Hasting,Sophaen,Undirected,1
+Margrethe,Sophaen,Undirected,1
+Baronnesses,Margrethe,Undirected,1
+Baronnesses,Lille Margrethe,Undirected,1
+Atlastes,Emma Løvholm,Undirected,1
+Atlastes,Margrethe Hasting,Undirected,1
+Margrethe Hasting,Psyche,Undirected,1
+Margrethe,PsycheS,Undirected,1
+Graaden,Margrethe,Undirected,1
+Graaden,Psychcs,Undirected,1
+Gøethe,Margrethe,Undirected,2
+Else,Valdemar,Undirected,1
+Margrethe,Sopha,Undirected,1
+Margrethe,Tableauer,Undirected,1
+Gyldenvinge,Margrethe,Undirected,33
+Amors,Margrethe,Undirected,1
+Hjelm,Margrethe,Undirected,1
+Agnete,Margrethe,Undirected,1
+Margrethe,Roes,Undirected,2
+Agnete,Roes,Undirected,1
+Agnete,Comtessen,Undirected,1
+Lieutenant Boye,Tu,Undirected,1
+Agnete,Tu,Undirected,1
+Agnete,Holmcgaard,Undirected,1
+Amor,Gud,Undirected,1
+Amor,Margrethe,Undirected,1
+Frøken Hasting,Margrethe,Undirected,1
+Margrethe,Pastor Hasting,Undirected,1
+Frøken Hasting,iveien,Undirected,1
+Doctoren,lille Margrethe,Undirected,1
+Gyldenvinge,Hasting,Undirected,10
+Gyldenvingc,Margrethe,Undirected,1
+HastingS,Margrethe,Undirected,2
+Gyldenvinge,ban,Undirected,2
+Asten,Margrethe,Undirected,1
+Asten,Gyldenvinge,Undirected,1
+Capellan Holman,Hasting,Undirected,1
+Capellan Holman,ban,Undirected,1
+Capellan,ban,Undirected,1
+Capellan,Hasting,Undirected,1
+Langgaard,Lille Margrethe,Undirected,1
+Langgaard,Ostfeldt,Undirected,5
+Ostfeldt,Sopha,Undirected,1
+Tine,apres nous,Undirected,1
+Knudsen,Nielsen,Undirected,1
+Christne,Gud,Undirected,1
+Maasfee endogsaa,Nielsen,Undirected,1
+Nielsen,ban,Undirected,1
+Christi,Gud,Undirected,1
+Doctoren taug,Hasting,Undirected,1
+Ostfeldt,dans,Undirected,1
+Gud,lille Margrethe,Undirected,1
+Frøken Tange,lille Margrethe,Undirected,1
+Erhardine,Helene Bruun,Undirected,1
+Dieu,Margrethe,Undirected,1
+Gud,Jesus,Undirected,1
+Emma LøvholmS,ester,Undirected,1
+Gud,Nickens,Undirected,1
+David,Emma,Undirected,1
+Emma,Sopha,Undirected,2
+Emma,Hnn,Undirected,1
+Emma faug,Hnn,Undirected,1
+Gud,Teres,Undirected,1
+Alvilda,bun,Undirected,1
+Alvilda,sif,Undirected,1
+hnn,sif,Undirected,1
+Langgaard,hnn,Undirected,1
+Erhardine tøge,hnn,Undirected,1
+Hasting,d,Undirected,1
+bende,d,Undirected,1
+bende,hnn,Undirected,1
+Gud,sfe,Undirected,1
+Te,sfe,Undirected,1
+Te,Teres,Undirected,1
+Emma,lille Margrethe,Undirected,1
+Alvilda,hnn,Undirected,1
+Gud,hnn,Undirected,1
+AlvildaS,Ter,Undirected,1
+Emma,tans,Undirected,1
+Frn Hasting,tans,Undirected,1
+Frn Hasting,Gud,Undirected,1
+Gud,Ter,Undirected,1
+Emma,Ter,Undirected,1
+Tem,em,Undirected,1
+Tem,Tercs,Undirected,3
+Emma,Lille Emma,Undirected,1
+Cousine,Holger,Undirected,1
+Emma,ester Tantes,Undirected,1
+Tantes,bun,Undirected,1
+Tantes,fluide,Undirected,1
+Tante,as,Undirected,1
+Tante,ester,Undirected,2
+Holger,Tante,Undirected,2
+Holger,hnn,Undirected,1
+Taa,hnn,Undirected,1
+Taa,as,Undirected,1
+Grever S.,Holger,Undirected,1
+Emma,Holger,Undirected,2
+Comtesse,Emma,Undirected,1
+Comtesse,Holger,Undirected,1
+Comtesse S.,Holger,Undirected,1
+Gud,ban,Undirected,2
+Emma,Emma taug,Undirected,1
+Holger,sørsl,Undirected,2
+Schawl,Tante,Undirected,1
+Holger,ban,Undirected,1
+Holger,son,Undirected,1
+Gud,son,Undirected,1
+egemlig,frank,Undirected,1
+Compagnon,Hølger,Undirected,1
+Compagnon,ban,Undirected,1
+Tu,lille Emma,Undirected,1
+Gretchen,Gud,Undirected,1
+Grelchens,Gretchen,Undirected,1
+Dorn,Emma,Undirected,1
+Dorn,Gretchen,Undirected,1
+Gretchcn,Gretchen,Undirected,1
+Emma taug,Gud,Undirected,1
+Hasting,kjære Hansen,Undirected,1
+Hansen,Hasting,Undirected,3
+Gud,Hansen,Undirected,1
+elsfer,kjære Hansen,Undirected,1
+Hansen,kjære Hansen,Undirected,1
+Margrethe,Præsfens,Undirected,1
+Margrethe,Ottto,Undirected,1
+Margrethe,OttoS,Undirected,1
+Tu,lille Herman,Undirected,2
+Tu,lille Otto,Undirected,1
+Margrethe,Otto,Undirected,2
+Herman,Otto,Undirected,3
+Margrethe,hiin,Undirected,1
+Margrethe,Margrethe —,Undirected,1
+Einar,Margrethe —,Undirected,1
+Præsfen,lille Margrethe,Undirected,1
+Eie,Margrche,Undirected,1
+Eie,Margrethe,Undirected,1
+Hanne Bert,Nemesis,Undirected,1
+Gyldenvinge,Marie,Undirected,1
+Frøken Tange,Hanne Beck,Undirected,2
+Frøken Tange,Madam Beck,Undirected,1
+Madam Beck,hu,Undirected,1
+Margrethe,Te,Undirected,2
+Frøken Tange,Tu,Undirected,1
+Marie,lille Marie,Undirected,2
+Berden,ester,Undirected,1
+Otto,lille Marie,Undirected,1
+Herman,bun,Undirected,1
+Margrethe,bun,Undirected,1
+Hasting,Lille Margrethe,Undirected,1
+Lille Margrethe,Margrethe,Undirected,1
+Christen,Margrethe,Undirected,1
+Christen,Job,Undirected,1
+Arne,Margrethe,Undirected,1
+Margrethe,esler,Undirected,1
+Christne,Hasting,Undirected,1
+Hasting,lille Marie,Undirected,1
+hnn,vg,Undirected,1
+Margrethe,vg,Undirected,1
+Margrethe,soran,Undirected,2
+Graad,Margrethe,Undirected,2
+Margrethe,stig,Undirected,1
+Tu,stig,Undirected,1
+GyldenvingeS,Margrethe,Undirected,1
+Esau,Graad,Undirected,1
+Esau,Gyldenvinge,Undirected,1
+HastingS,Holman,Undirected,1
+GyldenvingeS,Hasting,Undirected,1
+Gyldenvinge,GyldenvingeS,Undirected,1
+Erhardine,Gyldenvinge,Undirected,1
+Gyldenvinge,Langgaard,Undirected,2
+Grev L-,Pasfor Hasting,Undirected,1
+Erhardine,svaredeLanggaard,Undirected,1
+Baron ' B.,Hasting,Undirected,1
+Baron ' B.,Elise,Undirected,1
+Elise,Erhardine,Undirected,17
+Erhardine,Tu,Undirected,1
+Erhardine,mygt,Undirected,1
+Langgaard,mygt,Undirected,1
+Gyldenvinge,Gyltenvinge,Undirected,1
+Gyltenvinge,Margrethe,Undirected,1
+Hasting,Hjelm,Undirected,1
+Margrethe,Saxen,Undirected,2
+Fru Løvholm,Gradcviis,Undirected,1
+Fru Løvholm,Margrethe,Undirected,1
+Holman,Thee,Undirected,1
+Gyldenvinge,Holman,Undirected,7
+Hasting,Seier,Undirected,1
+Reisens,Te,Undirected,1
+Dr slode,Erhardine,Undirected,2
+Erhardine,hiint,Undirected,1
+Erhardine,Oslfeldt,Undirected,2
+Erhardine,pn-niouL,Undirected,1
+Langgaard,Moses,Undirected,1
+Moses,Steen,Undirected,1
+Gud,Steen,Undirected,1
+Gyldenvinge,Margrethe Hasting,Undirected,2
+Elise,Margrethe Hasting,Undirected,1
+Elise,Margrethe,Undirected,1
+Langgaard,Venus,Undirected,1
+Roes,Venus,Undirected,1
+EliseS,Erhardine,Undirected,2
+Elise,bvor,Undirected,2
+Erhardine,Ostfeldt,Undirected,5
+Ostfeldt,Ostseldt,Undirected,1
+Elise,Ostfeldt,Undirected,1
+Gud,Tu,Undirected,2
+Elise,Gud,Undirected,2
+Langgaard,Ostseldt,Undirected,1
+Gud,Judas,Undirected,1
+Iis,Sclvbebreidelsens,Undirected,1
+Erhardine,Karl,Undirected,1
+Karl,Peer,Undirected,1
+Hr. Ostfcldl,Karl,Undirected,1
+Langgaard,Peer,Undirected,1
+Johannes,Langgaard,Undirected,2
+Johannes,ban,Undirected,1
+Hasting,Peter,Undirected,1
+Erhardine,Margrethe,Undirected,2
+Erhardine,Marie,Undirected,1
+Langgaard,Marie,Undirected,1
+Elise,Gyldenvinge,Undirected,1
+Emma,hnn,Undirected,3
+Margrethe,as,Undirected,1
+Emma,soni,Undirected,1
+Margrethe,Margrethe reise,Undirected,1
+Gyldenvinge,ester,Undirected,2
+ester,gradeviis,Undirected,1
+Emma,gradeviis,Undirected,1
+Emma,sidsf,Undirected,1
+Emma,spiis,Undirected,1
+Elise Ostfeldts,Emma,Undirected,1
+Elise,Elise Ostfeldts,Undirected,1
+Elise,Hjelm,Undirected,1
+Hjelm,ester,Undirected,1
+EmmaS,Margrethe,Undirected,1
+Emma,Langgaardfke,Undirected,1
+Hasting,Langgaardfke,Undirected,1
+Emma,el,Undirected,1
+EliseS,Emma,Undirected,1
+Gud,Holger,Undirected,1
+Emma,brustne,Undirected,2
+Emma,Sopha Elise Ostseldt,Undirected,1
+Emma,Sophaen,Undirected,2
+Emma,Schawl,Undirected,1
+Elise,Schawl,Undirected,1
+Elise,Tu,Undirected,1
+Emma,udtalle,Undirected,1
+Elise,udtalle,Undirected,1
+Elise,Langgaard,Undirected,3
+Grev L-,Gyldenvinge,Undirected,1
+Elise,Grev L-,Undirected,1
+Asten,Elise,Undirected,1
+Asten,Erhardine,Undirected,1
+Florents,Margrethe,Undirected,1
+Eatholik,Emma,Undirected,1
+Margrethe,eier,Undirected,1
+Holman l,Margrethe,Undirected,1
+!,Holman l,Undirected,1
+Elise,Pasfor Hasting,Undirected,1
+Erhardine,Pasfor Hasting,Undirected,1
+Dien,ban,Undirected,1
+Dien,Gud,Undirected,1
+Christus,Gud,Undirected,2
+Gud,soni,Undirected,2
+Elise,Julcblus,Undirected,1
+Gud,Julcblus,Undirected,1
+Erhardine,sra,Undirected,1
+kjære Ostfeldt,sra,Undirected,1
+Gud,Ostfeldt,Undirected,1
+Emma,Juul,Undirected,1
+Elise,Juul,Undirected,1
+Emma,Hjelm,Undirected,1
+Elise,ester,Undirected,1
+Cholera,Lene Skippers,Undirected,1
+Hasting,Lene,Undirected,3
+Frøken Tange,Tcres,Undirected,1
+Paulus,Petrus,Undirected,1
+Johannes,Petrus,Undirected,1
+Hasting,Johannes,Undirected,1
+Frøken Tange,Gud,Undirected,1
+Lene,seent,Undirected,1
+Asten,seent,Undirected,1
+Hasfing,Lene Skippers,Undirected,1
+Marie,Mary,Undirected,1
+Lene,hcdsfuld,Undirected,2
+Lene,ban,Undirected,1
+Catechcien,Gud,Undirected,1
+Onkels,kjære Margrethe,Undirected,1
+Emma,Onkels,Undirected,1
+Elise,Tante,Undirected,2
+Emma,meesf,Undirected,1
+Gud,Holman,Undirected,3
+Hasting,Sopha,Undirected,1
+Gud,Sophaen,Undirected,1
+Hnn,Sophaen,Undirected,1
+Sophaen,Sophapudcn,Undirected,1
+Margrethe,Sophapudcn,Undirected,1
+Hasting,Ten,Undirected,1
+Emma,Kammerherrre Hjelm,Undirected,1
+Hnn,ban,Undirected,1
+Ostfeldt,ban,Undirected,1
+Hjelm,ban,Undirected,1
+Ostfeldt,Villie,Undirected,1
+Hjelm,Ostfeldt,Undirected,1
+Hjelm,Steen,Undirected,1
+Eierens,Gyldenvinge,Undirected,1
+Gyldenvinge,L.,Undirected,1
+Mar „,grethe,Undirected,1
+Margrethe „,grethe,Undirected,1
+Gud,Margrethe „,Undirected,1
+Gud,christelig,Undirected,1
+Abraham,Margrethe,Undirected,1
+Abraham,Gud,Undirected,1
+Holman,Kreunl omnes,Undirected,1
+Margrethe,irette,Undirected,1
+Ester,Margrethe,Undirected,1
+Margrethe,ban,Undirected,1
+Hasfing,LanggaardS,Undirected,1
+LanggaardS,Vensfab,Undirected,1
+Emma dier,Vensfab,Undirected,1
+Emma dier,bun,Undirected,1
+bun,hu,Undirected,1
+Hasfing,hu,Undirected,1
+Frøken Tange,Hasfing,Undirected,1
+Helene Bruun,Holman,Undirected,1
+Margrethe,koni,Undirected,1
+hu,koni,Undirected,1
+Ester,Gyldenvinge,Undirected,1
+Gyldenvinge,dans,Undirected,1
+dans,kam,Undirected,2
+Frøken Tange,oni Helene Bruun,Undirected,1

@@ -1,0 +1,243 @@
+source,target,type,weight
+Adelhard,Arenta,Undirected,24
+Arenta,Ingling,Undirected,1
+Arenta,Nikolaus,Undirected,2
+Arenta,elffe,Undirected,1
+Adelhard,Diavolo,Undirected,8
+Arenta,Diavolo,Undirected,36
+Coreggio,Raphael,Undirected,1
+Adelhard,Coreggio,Undirected,1
+Arenta,Madonna,Undirected,1
+Arenta,as,Undirected,1
+Keiserens,Kosak,Undirected,1
+Adelhard,Elsfede,Undirected,1
+Arenta,ester,Undirected,3
+Adelhard,Gil Klark,Undirected,3
+Adelhard,Adelhard Bjørnson,Undirected,2
+Adelhard Bjørnson,Eliot,Undirected,1
+Eliot,Gondolierens,Undirected,1
+Asten,Gondolierens,Undirected,1
+Arenta,Asten,Undirected,1
+Adelhard,husf,Undirected,1
+Dalo,husf,Undirected,1
+Adelhard,Dalo,Undirected,1
+Arenta,Helene,Undirected,18
+Arenta,Gud,Undirected,2
+Aram,Helene,Undirected,1
+Fyrsfen,Konsfantin,Undirected,1
+Arenta,Konstantin,Undirected,4
+Aram,Konstantin,Undirected,1
+Aram,siig,Undirected,1
+Adelhard,Diavolo bøiet,Undirected,1
+Arenta,Baldakin,Undirected,1
+Adelhard Bjørnson,Diavolo,Undirected,1
+Arenta,Gil Klark,Undirected,1
+Adelhard,Gud,Undirected,2
+Adelhard,Madgnna,Undirected,1
+Komtesse Helene,Konstantin,Undirected,1
+Diavolo,Gil,Undirected,2
+Adelhard Bjørnson,Betli,Undirected,1
+Adelhard,Munken,Undirected,1
+Adelhard,felv,Undirected,1
+Arenta,Bien,Undirected,1
+Svend,Øxens,Undirected,1
+Adelhard Bjørnson,Adelhard Nihillist,Undirected,1
+Dorbits,Peter den Store,Undirected,1
+Arniee,Kathrinas,Undirected,1
+Kathrinas,Seir,Undirected,1
+Dorbits,Seir,Undirected,1
+Dorbits,Signor Flamingo,Undirected,1
+Dorbits,Keiseren,Undirected,2
+Flamingos,Signor Flamingo,Undirected,1
+Moskau,Nikolaus,Undirected,1
+Dorbits,Elliot,Undirected,1
+Elliot,Lazzaron,Undirected,1
+Finitza,Guiseppas,Undirected,1
+Finikza,Guiseppa,Undirected,3
+Ambrosius,Elstovs,Undirected,1
+Elliot,Guiseppa,Undirected,7
+Kusinelil,Signor Paduas,Undirected,1
+Ambrosius,Elliot,Undirected,1
+Elliot,Finitza,Undirected,12
+Adelhard Bjørnson,norsf,Undirected,1
+Ambrosius,Finikza,Undirected,12
+Guiseppa,Signora,Undirected,1
+Elliot,Finikza,Undirected,10
+Arenta,Guiseppa,Undirected,3
+Arenta,Elliot,Undirected,1
+Ambrosius,Finitza,Undirected,9
+Adelhard,Finitza,Undirected,1
+Diavolo,Rudin,Undirected,1
+Munken,Rudin,Undirected,1
+Arenta,Keiseren,Undirected,1
+Helene,Kjære,Undirected,1
+Arenta,Kjære,Undirected,2
+Helene,Nikolans,Undirected,1
+Diavolo,Plutos,Undirected,3
+Betli,Diavolo,Undirected,1
+Arenta,vederfares,Undirected,1
+Munk,vederfares,Undirected,1
+Arenta,Gil,Undirected,2
+Gil,Pauline,Undirected,1
+Arenta,Betli,Undirected,5
+Betli,Gil,Undirected,3
+Adelhard,Ambrosius Elliot,Undirected,1
+Elliot,lille Finitza,Undirected,1
+Arenta,Finikza,Undirected,12
+Arenta,Finitza,Undirected,4
+Elliot,Pedro,Undirected,2
+Finikza,Pedro,Undirected,4
+Ambrosius,felv,Undirected,1
+Ambrosius,øg,Undirected,1
+Elliot,øg,Undirected,1
+Finitza,Pedro,Undirected,1
+Finitza,Kapifel,Undirected,1
+Ambrosius,Padua,Undirected,1
+Pedro,Seir,Undirected,1
+Elliot,Kapun,Undirected,1
+Kapun,Signor,Undirected,1
+Finitza,Signor Padua,Undirected,2
+Pedro,Signor Padua,Undirected,3
+Bandit,Elliot,Undirected,1
+Elliot,ber,Undirected,1
+Elliot,Guiseppes,Undirected,1
+,Ambrosius,Undirected,2
+Ambrosius Elliot,Signor Padua,Undirected,1
+Arenta,Madamens,Undirected,1
+Madam Klark,Madamens,Undirected,1
+Arenta,Madam Klark,Undirected,1
+Klark,kjære,Undirected,1
+Keiseren,Klark,Undirected,1
+Gud,Keiseren,Undirected,2
+Gud,Klark,Undirected,1
+Helene,Konstantin,Undirected,2
+Gil,Helene,Undirected,1
+Arenta,Klementin,Undirected,1
+Alf det,Arenta,Undirected,1
+Adelhard,Paven,Undirected,1
+Arenta,Paven,Undirected,1
+Diavolo,reis,Undirected,1
+Arenta,Dn,Undirected,1
+Diavolo,Elsfov,Undirected,1
+Arenta,Elsfov,Undirected,1
+Diavolo,ester,Undirected,1
+Diavolo,elffe,Undirected,1
+Signor,øg,Undirected,1
+Ibra,b r,Undirected,1
+Ibra,Madamen,Undirected,1
+Ambrosius,Signor Padua,Undirected,1
+Finitza,Padua,Undirected,2
+Padua,Signor,Undirected,1
+Finitza,se,Undirected,1
+Signor,se,Undirected,1
+Gil Klark,Helene,Undirected,1
+Arenta,Josef Noards,Undirected,4
+Arenta,reis,Undirected,1
+Diavolo,Pauline,Undirected,7
+Arenta,Fløil,Undirected,1
+Fader,Helene,Undirected,1
+Diavolo,Fjed,Undirected,1
+Arenta,Diavolo sfirrede,Undirected,1
+Diavolo,Un,Undirected,1
+Arenta,Pauline,Undirected,12
+Diavolo,kjære Arenta,Undirected,1
+Josef Noard,Pateren,Undirected,1
+Klementin,Konstantin,Undirected,1
+Allsaa,Konstantin,Undirected,1
+Ambrosius,Giuseppes,Undirected,1
+Hvi,List,Undirected,1
+Guiseppe,Melonsælgeren,Undirected,1
+Finikza,Melonsælgeren,Undirected,1
+Guiseppe,Signora Finikza Padua,Undirected,1
+Ambrosius,Øe,Undirected,1
+Adelhard,Vielfesattesf,Undirected,1
+Finikza,lllau äs,Undirected,1
+OoloZns,lllau äs,Undirected,1
+Elliot,OoloZns,Undirected,1
+Adelhard,Finikza,Undirected,1
+Allanen,Elliot,Undirected,1
+Finikza,Signor Padua,Undirected,1
+Louis,Wen,Undirected,1
+Louis,Pedro,Undirected,3
+Nikolaus,Nina Zøller,Undirected,1
+Ledsa gerinde,Nikolaus siti,Undirected,1
+Ibra,offres,Undirected,1
+Diavolo,Zigeunerhøvdtngen,Undirected,1
+Arenta,Mnnken,Undirected,1
+Mnnken,assyne,Undirected,1
+Arenta,sra,Undirected,1
+Arenta,taus,Undirected,1
+Arenta,Marie,Undirected,2
+Betli,Pauline,Undirected,2
+Diavolo,eg,Undirected,1
+Gud,Pauline,Undirected,1
+ester,fnart,Undirected,1
+Diavolo,fende,Undirected,1
+Madame Klark,fende,Undirected,1
+Madame Klark,pleie Arenta,Undirected,1
+Diavolo,Madame Klarf,Undirected,1
+Arenta,fhi,Undirected,1
+Arenta,Klark,Undirected,1
+Gil Klark,frank,Undirected,1
+Arenta,frank,Undirected,1
+Diavolo,Gil Klark,Undirected,1
+Signora,visf,Undirected,1
+Espeløv,Guiseppe,Undirected,1
+Ambrosius,Maanelys,Undirected,1
+Finitza,kjære Finitza,Undirected,1
+Finitza,Guiseppe,Undirected,1
+Louis,Signor Elliot,Undirected,1
+Elliot,Louis,Undirected,1
+Alf,Ambrosius,Undirected,1
+Elliot,faus,Undirected,1
+Elliot,Signor Padua,Undirected,2
+Finikza,Padua,Undirected,1
+Finitza Paduas,Signor Padua,Undirected,1
+Finitza Paduas,Pedro,Undirected,1
+Ambrosius,Arenta,Undirected,3
+Ambrosius Elliot,Finitza,Undirected,1
+Guiseppe,bønde,Undirected,1
+Elliot,bønde,Undirected,1
+Finikza,Giuseppe,Undirected,1
+Elliot,Guiseppe,Undirected,1
+Keiseren,Kosakken,Undirected,1
+Gud,Øe,Undirected,1
+Bepo,tans,Undirected,1
+Bepo,Kabu,Undirected,1
+Arenta,kjære Ambrosius,Undirected,1
+Adelhard,Elliot,Undirected,1
+Finikza,Theori,Undirected,1
+Praxis,Theori,Undirected,1
+Ambrosius,ester,Undirected,1
+Arenta,Pinsel,Undirected,1
+Martrcn,Pinsel,Undirected,1
+Finikza,Guiseppe,Undirected,2
+Arenla,Guiseppe,Undirected,1
+Finitza,Graad,Undirected,1
+Bien,Finitza,Undirected,1
+Finikza,elsfebe Arenta,Undirected,1
+Konstantin,Pater Klementin,Undirected,1
+Arenta,Pateren,Undirected,2
+Bjørnsons,Keiseren,Undirected,1
+Fyrst Konstantins,Helene,Undirected,1
+Arenta,Steen,Undirected,1
+Pauline,reisf,Undirected,1
+Napoleon Bonapartc,reisf,Undirected,1
+Napoleon Bonapartc,Napoleons,Undirected,1
+Bonapartes,Napoleons,Undirected,2
+Keisere,Napoleons,Undirected,1
+Josef,Keisere,Undirected,1
+Josef,Ludvig,Undirected,1
+Jerome,Ludvig,Undirected,1
+Jerome,Karoline,Undirected,1
+Elisa,Karoline,Undirected,1
+Elisa,Lucca,Undirected,1
+Lucca,Pauline,Undirected,1
+Napoleons,Pauline,Undirected,1
+Arenta,Napoleons,Undirected,1
+Karl,Pauline,Undirected,1
+Karl,Smalhans,Undirected,1
+Brysf,hani,Undirected,1
+Arenta,kjære,Undirected,1
+Arenta,Seir,Undirected,1
+Arenta,Elskovs,Undirected,1

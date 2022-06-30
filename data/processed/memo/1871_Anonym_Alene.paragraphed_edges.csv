@@ -1,0 +1,402 @@
+source,target,type,weight
+Huhei,Kirstine,Undirected,1
+Kirstine,Lille Kirstine,Undirected,2
+Bayers,Dandsen,Undirected,1
+Ferdinand,Lille Augusta,Undirected,1
+Augusta,Ferdinand,Undirected,1
+Examens,Ferdinand,Undirected,1
+Bayer,Gud,Undirected,1
+Bayer,lille Kirstine,Undirected,2
+Immisch Gørgeys,bans,Undirected,1
+Margrethe Hildegard v. Kratzensteins,bans,Undirected,1
+Margrethe Hildegard v. Kratzensteins,Rakkermargrethe,Undirected,1
+Taterpeter,ban,Undirected,1
+Peter,Taterpeter,Undirected,1
+Jmmisch,Peter,Undirected,1
+Jmmisch,Kirstine,Undirected,1
+Kirstine,Peter,Undirected,1
+Høibords,Peter,Undirected,1
+Høibords,Kirsfine,Undirected,1
+Bayer,lille Kirsfine,Undirected,2
+Madam Olsen,hnn,Undirected,1
+Kirstine,Madam Olsen,Undirected,1
+Bayer,Kirstine,Undirected,4
+Bayer,Ferdinand Bayer,Undirected,1
+Ferdinand Bayer,Kirstine,Undirected,1
+Kirstine,Rosenberg,Undirected,15
+Kirstine,VerlandS,Undirected,1
+Lille Anna,VerlandS,Undirected,1
+Kirstine,Lille Anna,Undirected,1
+Kirstine,Lærke,Undirected,1
+Lærke,lille Anna,Undirected,1
+Kirstine,lille Anna,Undirected,7
+Kirsfine,Kirstine,Undirected,1
+Dandsen,Kirstine,Undirected,4
+Kirstine,huhei,Undirected,2
+Berden,Carl Friborg,Undirected,1
+Friborg,Kirstine,Undirected,16
+Kirstine,Meubel,Undirected,2
+Kirstine,Ynglingen,Undirected,1
+Ynglingen,skotte,Undirected,1
+Kirstine,kjære Kirstine,Undirected,1
+Verland,kjære Kirstine,Undirected,1
+Kirstine,Verland,Undirected,7
+Kirstine,Mutter,Undirected,1
+Adolf,Mutter,Undirected,1
+Adolf,Frits,Undirected,3
+Kirstine,Madame Verland,Undirected,8
+Adolf,Madame Verland,Undirected,1
+Anna,Madame Verland,Undirected,2
+Anna,Kirstine,Undirected,20
+Kirsfine,Madame Verland,Undirected,1
+Anna,Kirsfine,Undirected,3
+Anna,oL,Undirected,1
+Been,Kirsfine,Undirected,1
+Been,Madame Verland,Undirected,1
+Ida Verland,Kirstine,Undirected,3
+Ida Verland,Kirslines,Undirected,1
+Anna,Kirslines,Undirected,1
+Adolf,Anna,Undirected,1
+Axel,Axel Daa,Undirected,1
+Axel,Grev Nordskjolds,Undirected,1
+Berlands,Madam Verland,Undirected,1
+Axel,Kirstine,Undirected,2
+Carl Friborg,Friborg,Undirected,3
+Carl Friborg,Kirstine,Undirected,5
+Kirstine,Lilles,Undirected,2
+Frantz,Kirstine,Undirected,1
+Kirstine,Kirstine Bayer,Undirected,1
+Fritz,Kirstine Bayer,Undirected,1
+Gud,Kirstine,Undirected,5
+Axel Daa,Kirstine,Undirected,4
+Axel Daa,KirstineS,Undirected,1
+fig,hnn,Undirected,1
+Madame Verland,hnn,Undirected,1
+Friborg,Fritz,Undirected,2
+Anders Skovfogeds,Trine,Undirected,1
+Friborg,Trine,Undirected,2
+Skovrideren,froe,Undirected,1
+Adolf,Trine,Undirected,1
+Adolf,Frikz,Undirected,2
+Lille Anna,lee,Undirected,1
+Carl,Lille Anna,Undirected,4
+lee,lille Anna,Undirected,1
+Carl Friborg,lille Anna,Undirected,2
+Hilda,lille Anna,Undirected,2
+Alfred,Hilda,Undirected,5
+Alfred,Carl,Undirected,2
+Carl,Kirstine,Undirected,21
+Daa,Kirstine,Undirected,11
+Adolf,Daa,Undirected,1
+Adolf,Fritz,Undirected,11
+Fritz,Kirstine,Undirected,5
+Daahjort,Fritz,Undirected,2
+Verland,eslers,Undirected,1
+Carl,lille Anna,Undirected,8
+Carl,Friborg,Undirected,4
+Adolf,Bas,Undirected,1
+Bas,Kirstine,Undirected,1
+Adolph,Fritz,Undirected,1
+Kirstine,forst,Undirected,1
+Friborg,forst,Undirected,1
+Madame Verland,fil,Undirected,1
+Verland,fil,Undirected,1
+Friborg,Verland,Undirected,1
+Bayer,Friborg,Undirected,1
+Carl Friborg,Rosenberg,Undirected,2
+Anna,Carl Friborg,Undirected,2
+Anna,sorn,Undirected,1
+Madame Verland,sorn,Undirected,1
+Bayer,Madame Verland,Undirected,2
+Friborg,Madame Verland,Undirected,1
+Madame Verland,Mønsfer,Undirected,1
+Ida,Kirstine,Undirected,33
+Carl,Madame Berlands,Undirected,1
+Kirstine,Madame Berlands,Undirected,1
+Carl,lille AnnaS,Undirected,1
+Kirstine,lille AnnaS,Undirected,1
+Axel Daa,Friborg,Undirected,1
+Ester Bordet,Friborg,Undirected,1
+Axel,Friborg,Undirected,2
+Axel,Carl,Undirected,4
+Carl,Glutten,Undirected,1
+Friborg,lille Anna,Undirected,1
+Adolf,Kirstine,Undirected,2
+Adolf,lille Sofie,Undirected,1
+Fritz,lille Sofie,Undirected,1
+Fritz,Laura,Undirected,1
+Carl,Laura,Undirected,1
+Friborg,Tycho Brahes,Undirected,1
+Asten,Friborg,Undirected,2
+Adolf,Villiekraff,Undirected,1
+Adolf iseng,Villiekraff,Undirected,1
+Adolf iseng,Frikz,Undirected,1
+Frikz,Verland,Undirected,1
+Verland,jusf,Undirected,1
+Anders Skovfoged,ifjor,Undirected,1
+Adolf,Anders Skovfoged,Undirected,1
+Adolf,Karlen,Undirected,1
+Adolf,Friborg,Undirected,1
+Friborg,Karlen,Undirected,1
+Daahjort,Karl,Undirected,1
+Adolf,Karl,Undirected,1
+Adolf,Carl,Undirected,3
+Carl,raabe,Undirected,1
+Adolf,Frandsen,Undirected,1
+Adolf,Ida Verland,Undirected,1
+Adolf,Carl Friborg,Undirected,1
+Carl Friborg,Madame Verland,Undirected,1
+Gud,Ida Verland,Undirected,1
+Frandsen,Ida Verland,Undirected,1
+Frandsen,vimS,Undirected,1
+Fritz,Gud,Undirected,1
+Friborg,Gud,Undirected,1
+Madame Verland,Verland,Undirected,1
+Ida,Verland,Undirected,6
+Anders Skovfoged,Ida,Undirected,1
+Anders Skovfoged,Ida Verland,Undirected,1
+Carl,Ida Verland,Undirected,2
+Carl,Gud,Undirected,6
+Ida,Madame Verland,Undirected,1
+Carl,Ida,Undirected,14
+Carl,Madame Verland,Undirected,2
+Carl,ban,Undirected,5
+Carl,Daa,Undirected,7
+Anna,Lille Alfred,Undirected,1
+lille Anna,Øicnlaage,Undirected,1
+Friborg,Øicnlaage,Undirected,1
+Frederik Sjællænder,Lars,Undirected,1
+Friborg,Lars,Undirected,1
+Mutter,Verland,Undirected,1
+Anna,Carl,Undirected,26
+Carl,Dans,Undirected,1
+Anna,Daa,Undirected,5
+Ester Middag,Verland,Undirected,1
+Kancelliraad Baagøe,Verland,Undirected,2
+Carl Friborg,Verland,Undirected,1
+Gud,froer,Undirected,1
+Carl,Klodrian,Undirected,1
+Carl,Verland,Undirected,1
+Daa,KirstineS,Undirected,1
+Daa,Ida Verland,Undirected,1
+Adolf,Bredahl,Undirected,1
+Bredahl,Gud,Undirected,1
+Fritz,Lady,Undirected,1
+Kirstine,lille Kirstine,Undirected,2
+Carl,fasf,Undirected,1
+ban,fasf,Undirected,1
+Ida Verland,hank,Undirected,1
+Carl,hank,Undirected,1
+Gud,Samuel,Undirected,1
+Ida,Luthers,Undirected,1
+Arel,Kirstine,Undirected,1
+Friborg,bvor,Undirected,1
+Friborg,Kirsfine,Undirected,2
+Friborg,Mutier,Undirected,1
+Mutier,Verland,Undirected,1
+Carl,Kirsfine,Undirected,1
+Kirstine,Meiersken,Undirected,1
+Bayer,Lotte,Undirected,1
+Ferdinand,Lotte,Undirected,1
+Ferdinand,Kirstine,Undirected,1
+Kirstine,hnn,Undirected,4
+Edvard,Kirstine,Undirected,6
+Kirstine,Petra,Undirected,3
+Baand,Lenon,Undirected,1
+Bayer,Kapitain Rosenberg,Undirected,1
+Kapitain Rosenberg,Kirstine,Undirected,5
+Kirstine,Laura,Undirected,1
+Frøken Bayer,Kirstine,Undirected,2
+Frøken Bayer,Petra,Undirected,1
+Kapitainen,Petra,Undirected,1
+Edvard,Kapitainen,Undirected,1
+Edvard,Grimstrup,Undirected,1
+Grimstrup,Kapitainen,Undirected,1
+Grimstrupgaard,Peer Bak,Undirected,1
+Peer Bak,hare,Undirected,1
+Kirstine,Thomas,Undirected,1
+Dands,Kirsfine,Undirected,2
+Frøken Bayer,Kirsfine,Undirected,1
+Dands,Frøken Bayer,Undirected,1
+Dands,Stine,Undirected,1
+Fader,Fritz,Undirected,1
+Fader,lille Anna,Undirected,1
+Kapifainen,Kirstine,Undirected,1
+Kirstine,dandse,Undirected,1
+Friborg,Kapitain,Undirected,1
+Friborg,Kapitainen,Undirected,1
+Friborg,Karl,Undirected,1
+Kapitainen,Thomas,Undirected,1
+Johan,Thomas,Undirected,1
+Kapitain,Kirstine,Undirected,1
+Petra,Rosenberg,Undirected,1
+Friborg,Wand,Undirected,1
+Carl,Wand,Undirected,1
+Johan,Petra,Undirected,1
+Kapitainen,Stadsen,Undirected,1
+Kapitainen,kjørte,Undirected,1
+Friborg Kirstine,Petra,Undirected,1
+Friborg Kirstine,Rosenberg,Undirected,1
+Friborg,Petra,Undirected,1
+Daa,Friborg,Undirected,1
+Kirstine,Rosenborgs,Undirected,2
+Rosenborgs,lille Anna,Undirected,1
+Ida,lille Anna,Undirected,2
+Frøken Kirstine,Kirstine,Undirected,1
+Kapitainen,Kirstine,Undirected,2
+Edvard,Mutter,Undirected,1
+Laura,Lille Sofie,Undirected,1
+Kirstine,Soste,Undirected,1
+Edvard,Soste,Undirected,1
+Edvard,Petra,Undirected,1
+Laura,Petra,Undirected,2
+Graad,Kirstine,Undirected,1
+Axel Daa,Madame Verland,Undirected,1
+Axel,Kapitain Rosenberg,Undirected,1
+Anna,Ida,Undirected,8
+Ida,Kapitainen,Undirected,3
+Ida,Rosenberg,Undirected,2
+Verland,lille Anna,Undirected,2
+Friborg,Kjære,Undirected,1
+Axel Daa,Carl Friborg,Undirected,1
+Gørgey,Kirstine,Undirected,2
+Frøken Gørgey,Kirstine,Undirected,1
+Kirstine,v. Kratzensteins,Undirected,1
+Axel Daa,Kirsfine,Undirected,1
+Kirsfine,Rosenberg,Undirected,1
+Fanny,Kirsfine,Undirected,1
+Fanny,Helene,Undirected,2
+Helene,KirstineS,Undirected,1
+Kirstine Smiger,Rosenberg,Undirected,1
+Adolf,Alfred,Undirected,1
+Adolf,ifjor,Undirected,1
+Carl,ifjor,Undirected,1
+Anna,tom,Undirected,1
+Axel,tom,Undirected,1
+Fanny,Rosenberg,Undirected,2
+Helene,Schweitz,Undirected,1
+Margarethe Hildegard v.,Rosenberg,Undirected,1
+Krakzenstein,Margarethe Hildegard v.,Undirected,1
+Herrn Peter Immisch v. Gørgey,Krakzenstein,Undirected,1
+Herrn Peter Immisch v. Gørgey,adelicher Geschlechts,Undirected,1
+Gørgey,Jmmisch,Undirected,1
+Gørgey,j,Undirected,1
+Ilrad,j,Undirected,1
+Hnn,Rosenberg,Undirected,1
+FannNS,Hnn,Undirected,1
+Fanny,Kirstine,Undirected,1
+Jlrad,Kirstine,Undirected,6
+Immisches,Jlrad,Undirected,1
+Immisch Gørgeys,Jlrad,Undirected,2
+Kirstine,sif Skjød,Undirected,1
+sif,sif Skjød,Undirected,1
+Ilrad,Jlrad,Undirected,1
+Jlrad,Semmi Gørgey,Undirected,1
+Marfens,Semmi Gørgey,Undirected,1
+Kirstine,Marfens,Undirected,1
+Kapitain Rosenberg,Kirsfine,Undirected,1
+Ilrad,Kirsfine,Undirected,1
+Hnn,Ilrad,Undirected,1
+Hnn,hnn,Undirected,1
+Jlrad,Kapitainen,Undirected,1
+Gud,Kirstine gvste,Undirected,1
+Fritz,Fritzes,Undirected,1
+Fritzes,Lille Anna,Undirected,1
+Arel Daa,Ida,Undirected,1
+Ida,as,Undirected,1
+Taalmodets,as,Undirected,1
+Grev Nordskjold,Verland,Undirected,1
+Ida,Mutter,Undirected,1
+Ida,Kapitain Rosenberg,Undirected,2
+Enkefru Rosenbergs,Ida,Undirected,1
+Fanny,Jlrad,Undirected,1
+Frøken Bayer,Ida,Undirected,1
+Ida,lille Kirstine,Undirected,1
+Cn,Kirstine,Undirected,1
+Cn,Ida,Undirected,1
+Ida,hnn,Undirected,1
+Kirstine,ikkun,Undirected,1
+Ida,Rosenborg,Undirected,1
+Ida,ban,Undirected,1
+Edvard,Rosenberg,Undirected,1
+Hr. Kapitain,Ida,Undirected,2
+Ida,ester,Undirected,1
+Carl Friborg,Ida,Undirected,2
+Ida,Kirsfine,Undirected,4
+Anna,Grethe,Undirected,2
+Ida,fie,Undirected,1
+Carl,Olsen,Undirected,1
+Friborg,Ida,Undirected,1
+Anngt,Lille Anna,Undirected,1
+Fritz,Haraldsen,Undirected,1
+Haraldsen,Ida,Undirected,1
+Axel Daa,Ida,Undirected,1
+Axel,Ida,Undirected,1
+Fritz,Verland øg Kirstine,Undirected,1
+Fritz,Verland,Undirected,3
+Anna,Fritz,Undirected,1
+Gud,Ida,Undirected,1
+Ida,xgsaa Kirstine,Undirected,1
+paany,xgsaa Kirstine,Undirected,1
+bun,lille Anna,Undirected,1
+Douglas,Robert Bruce,Undirected,1
+Douglas,Kapitainen,Undirected,1
+Ben Honghby,Bens,Undirected,1
+Bens,Mary,Undirected,1
+Kirstine,Mary,Undirected,2
+Mary,Rosenberg,Undirected,3
+Edwards,Mary,Undirected,1
+Anna,Verland,Undirected,2
+Carl,eiheller,Undirected,1
+Daa,Gud,Undirected,1
+Immisch Gorgeys,Kirsfine,Undirected,1
+Jlrad,Semmi,Undirected,1
+Kirstine,Ratkerkirstines,Undirected,1
+Jlrad,Sønneke,Undirected,2
+Immisch Gørgeys,Semmi,Undirected,1
+Ida,lille Ida,Undirected,1
+Axel,Valborg“,Undirected,1
+Valborg,Valborg“,Undirected,1
+Axel,Valborg,Undirected,1
+Daa,Rakkerkirstine,Undirected,1
+Daa,Jlrad,Undirected,1
+Jlrad Oldemoders,Peter Immisch Gørgey Daa,Undirected,1
+Jlrad,lille Peter,Undirected,1
+Guttens,lille Peter,Undirected,1
+Guttens,Oldemoders,Undirected,1
+Kirstine,fil Kirstines,Undirected,1
+Daa,fil Kirstines,Undirected,1
+Carl fil,Kirstine,Undirected,1
+Carl,Carl fil,Undirected,1
+Carl,Husbonds,Undirected,1
+Carl,Lille Peter,Undirected,1
+Carl,lille Ida,Undirected,1
+Elton L Bolt,Friborg,Undirected,1
+Carl,Mr. Charles Herbert,Undirected,1
+Friborg,Mr. Charles Herbert,Undirected,1
+Alfred,Ida,Undirected,1
+Alfred,Daa,Undirected,1
+Fritz,Mr. Charles Herbert,Undirected,1
+Anna,Mr. Charles Herbert,Undirected,1
+Daa,Fritz,Undirected,1
+Daa,Herbert,Undirected,1
+Friborg,Herbert,Undirected,2
+Anna,Hilda,Undirected,3
+Kirstine,Mr. Herbert,Undirected,1
+Carl,bam,Undirected,1
+bam,ban,Undirected,1
+Adolf,Verland,Undirected,1
+Gud,Kirsten Gifteknivs,Undirected,1
+Kirstine,Lotte,Undirected,1
+Ingeborg,Kirstine,Undirected,1
+Carl,Ingeborg,Undirected,1
+"Anna,",Kirstine,Undirected,1
+Anna,Gud,Undirected,3
+Carl,Hilda,Undirected,1
+Fritz,lille Anna,Undirected,1
+Uraad,lille Anna,Undirected,1
+Alfred,Kirstine,Undirected,1
+Daa,Verland,Undirected,1
+Carl reist,Gud,Undirected,1
+Gud,Verland,Undirected,1
+Axel Daa,Verland,Undirected,1

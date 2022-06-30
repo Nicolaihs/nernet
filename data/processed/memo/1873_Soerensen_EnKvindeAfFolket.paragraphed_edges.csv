@@ -1,0 +1,330 @@
+source,target,type,weight
+Jesn,Kristi,Undirected,1
+Kristi,l Penge,Undirected,1
+Holm,Johanne,Undirected,4
+Hr. Holms Cherub,Møller,Undirected,1
+Hr. Holms Cherub,Hr. Møller,Undirected,1
+Brøndum,Hr. Møller,Undirected,1
+Marie,Møller,Undirected,10
+Marie Møller,sladens,Undirected,1
+Holm,Marie,Undirected,18
+Holm,fig,Undirected,1
+Møller,fig,Undirected,1
+Hansen,Holm,Undirected,5
+Carl,Carl Block,Undirected,4
+Carl,Marie Møller,Undirected,5
+Carl,Marie,Undirected,35
+Madam Møllers,Marie,Undirected,1
+Clara,Holm,Undirected,1
+Carl,Holm,Undirected,15
+Frøken Holm,Marie,Undirected,1
+Frøken Holm,von,Undirected,1
+Carl,von,Undirected,1
+Carl,Grosferer Holms,Undirected,1
+Grosferer Holms,Holm,Undirected,1
+Carl Block,Josephs,Undirected,1
+Faraos,Lsllum omnium,Undirected,1
+Evropa,Knud den,Undirected,1
+Knud den,Stores,Undirected,1
+Block,fror,Undirected,1
+Elsfede,Holm,Undirected,2
+Carl Block,Methusalem,Undirected,1
+Holm,Methusalem,Undirected,1
+Holm,Sands,Undirected,1
+Carl,Sands,Undirected,1
+Holm,Karl,Undirected,1
+Holm,Karlen,Undirected,2
+Jødes,skn,Undirected,1
+Holm,Peter Møllers,Undirected,1
+Carl,longe,Undirected,1
+Block,Paslor Hansen,Undirected,1
+Block,Carl,Undirected,5
+Block,Holm,Undirected,7
+Holm,Johanne Abel,Undirected,5
+Hansen,Johanne Abel,Undirected,3
+Hansen,Johanne,Undirected,2
+Block,Rybergs,Undirected,1
+Black,Hansen,Undirected,1
+Hansen,Johannes Blufærdighed,Undirected,2
+Holmblad,Johanne,Undirected,1
+Block,Johanne,Undirected,2
+Cæsar,Johanne,Undirected,1
+Madammen,ester,Undirected,1
+Block,Hansen,Undirected,6
+Block,Marie,Undirected,8
+Block,Marie Møller,Undirected,4
+Madam Sommer,Vaarens,Undirected,1
+Johanne,Madammen,Undirected,4
+Johanne,hnn,Undirected,1
+Johanne,Madam Sommer,Undirected,4
+Dumas,Paul de,Undirected,1
+Dumas,fiis,Undirected,1
+Gud,fiis,Undirected,1
+Holbergs,Holm,Undirected,1
+Carl,Gud,Undirected,3
+Chambertin,Petersen,Undirected,1
+Don Johan,Putte,Undirected,1
+Clara Holm,Holm,Undirected,2
+Amicis,Guldbergs,Undirected,1
+Clara,Guldbergs,Undirected,1
+Carl Block,Clara,Undirected,1
+Clara,Marie Møller,Undirected,1
+Carl,Clara,Undirected,7
+Clara,Marie,Undirected,2
+Clara,Møller,Undirected,2
+Marie Møller,ester,Undirected,2
+Johanne,Johanne Abel,Undirected,5
+Iohanne,Madam Sommer,Undirected,1
+Marias,Marie,Undirected,1
+Carl,Marias,Undirected,1
+Clara,Clara Holm,Undirected,1
+Clara,Frøken Holm,Undirected,1
+Carl,spurgfe,Undirected,1
+Clara,lille Carl,Undirected,1
+Frøken Claras,ester,Undirected,1
+Marie Møller,kærs,Undirected,1
+Herrrens,Marie Møller,Undirected,1
+Clara Holm,Madam Sommer,Undirected,1
+Clara Holm,Marie Møller,Undirected,2
+H m,N an,Undirected,1
+Møller,N an,Undirected,1
+Marie,hnn,Undirected,2
+Gad,Maria,Undirected,1
+Gad,n,Undirected,1
+Gud,Marie,Undirected,6
+Carl Block,Madam Møller,Undirected,1
+Carl Block,Marie,Undirected,6
+Marie,flun,Undirected,1
+Marie,ume,Undirected,1
+Fatter,Gud,Undirected,1
+Marie,ester,Undirected,2
+dan Bagatel,flulle,Undirected,1
+Madam Møller,Maria,Undirected,2
+Maria,Mutter,Undirected,1
+Maria,Møller,Undirected,5
+Maria,Præsfen,Undirected,1
+Maria,Nette,Undirected,1
+Hr. Møller,Marie,Undirected,1
+Madam Sommer,Marie Møller,Undirected,2
+Marie,Marie Møller,Undirected,1
+Gud,Marie Møller,Undirected,1
+Block,Maria,Undirected,2
+Hr. Block,Maria,Undirected,1
+Hr. Block,Madammen,Undirected,1
+Madam Sommer,Maria Møller,Undirected,1
+Hend es,Holm,Undirected,1
+Maria,Maria Møller,Undirected,1
+Holm,Maria,Undirected,2
+Holm,Madam Møller,Undirected,1
+Holm,Møller,Undirected,13
+Holm,alfor,Undirected,1
+Møller,nn,Undirected,1
+Carl,Carl Maries,Undirected,1
+Carl,Potifars,Undirected,2
+Holm,Madam Sommer,Undirected,1
+Madam Sommer,Marie,Undirected,1
+Block,jfor,Undirected,1
+Block,Madam Sommer,Undirected,2
+Madam Møller,Marie,Undirected,3
+Johanne Abel,Marie,Undirected,4
+Johanne Abel,studs,Undirected,1
+Carl,studs,Undirected,1
+Carl Black,Johanne Abel,Undirected,1
+Johanne,Nemesis,Undirected,1
+Hansen,Øe,Undirected,1
+Hr. Holm,Øe,Undirected,1
+Hr. Holm,Johanne,Undirected,1
+Johanne,Øe,Undirected,1
+Holm,Marie Møller,Undirected,3
+Johanne,Marie,Undirected,7
+Johanne,Madamme Sommer,Undirected,1
+Block,ester Aftale,Undirected,2
+Johanne Abel,Madame Sommer,Undirected,1
+Madame Sommer,Marie Møller,Undirected,1
+Carl Block,Hansen,Undirected,1
+Carl Block,Marie Møller,Undirected,6
+Holm,Præsfen,Undirected,2
+Marie,Præsfen,Undirected,2
+Don Juan,Holm,Undirected,1
+Johanne Abel,Præsfen,Undirected,1
+Carl Block,Jed,Undirected,1
+Ddt,Marie,Undirected,1
+Hr. Block,Marie,Undirected,2
+Marie Møller,Møller,Undirected,3
+Frk. Holm,Marie Møller,Undirected,1
+Frk. Holm,Møller,Undirected,1
+Hr. Holm,Møller,Undirected,1
+Marie Møller,mev,Undirected,1
+Hansen,Marie,Undirected,2
+Holm,Marie forbauset,Undirected,1
+Block,Hr. Block,Undirected,2
+Carl befale,mib,Undirected,1
+Carl,Elsfer,Undirected,1
+Elsfer,Marie,Undirected,1
+Marie,fransf Romanmaner,Undirected,1
+Elsfer,fransf Romanmaner,Undirected,1
+Carl,Johanne Abel,Undirected,3
+Carl,Johanne,Undirected,7
+Carl,Præsfen,Undirected,3
+Carl,Pastor Hansen,Undirected,1
+Johanne Abel,Marie Møller,Undirected,10
+Johanne Abel,Marie Møller afvejen,Undirected,1
+JoHanne Abel,Marie Møller,Undirected,1
+Ester Madam Sommers,Johanne,Undirected,1
+A. Hansen,Hansen,Undirected,1
+Johanne Abel,Madam Sommer,Undirected,1
+Hr. Block,Johanne Abel,Undirected,1
+Block,Johanne Abel,Undirected,5
+Johanne Abel,jed,Undirected,1
+Johanne Abel,Petermadsensgang,Undirected,1
+Hr. Block,Petermadsensgang,Undirected,1
+Holger Danske“,Møller,Undirected,1
+Hr. Møller,Møller,Undirected,1
+Holger Danske,Møller,Undirected,1
+A.,Møller,Undirected,1
+A.,B.,Undirected,1
+Jakob,Lea,Undirected,1
+Lea,Rachel,Undirected,1
+Gud,Rachel,Undirected,1
+Holm,høsfe,Undirected,1
+Carl Block,Holm,Undirected,1
+Afle,Holm,Undirected,2
+Holm,fil,Undirected,1
+Gilbert,Mr. Gilbert,Undirected,5
+. Gilbert,Gilbert,Undirected,1
+Holm,Mrs.,Undirected,1
+Gilbert,Mrs.,Undirected,5
+Holm,Miss Gilbert,Undirected,2
+Holm,Mr. Gilbert,Undirected,5
+Gibert,siven,Undirected,1
+Mr. Gilbert,siven,Undirected,1
+Mr. Gilbert,Tom,Undirected,10
+Holm,Tom,Undirected,2
+Gilbert,Tom,Undirected,1
+Massa,Massas,Undirected,1
+Massa,Tom,Undirected,13
+Tom,sial,Undirected,1
+Masfas,Massa,Undirected,2
+Mr. Gilbert,Negersns,Undirected,1
+Holm,maalløs,Undirected,1
+Tom,maalløs,Undirected,1
+Holm,Lorden,Undirected,1
+Holm,Mr..,Undirected,1
+Miss Gilbert,Mr. Gilbert,Undirected,1
+Hr. Holm,Mr. Gilbert,Undirected,1
+Døttre,Miss Rosa,Undirected,1
+Hr. Holm,Miss Rosa,Undirected,1
+Holm,Miss Rosa,Undirected,2
+Hr. Holm,Rosas,Undirected,1
+Masfas,Tom,Undirected,2
+Massa,smnkke,Undirected,1
+Miss Rosa,Tom,Undirected,1
+Mr. Gilbert,paany,Undirected,1
+Arresf,Marie,Undirected,1
+Carl,ester,Undirected,1
+Carl Block,siig,Undirected,2
+Johanne,maalløs,Undirected,1
+Avdiens,Johanne Abel,Undirected,1
+Ester,Johanne Abel,Undirected,1
+Hansen,Nissen,Undirected,1
+Johanne,Paslor Hansen,Undirected,1
+Paslor Hansen,drängende,Undirected,1
+Røsf,drängende,Undirected,1
+Pasfor Hansen,Pasfor Nissen,Undirected,1
+Johanne,felv,Undirected,1
+Johanne,Marie Møller,Undirected,1
+Carl Bloch,ester den,Undirected,1
+Gud,arne,Undirected,1
+Gud,Hr. Bloch,Undirected,1
+Gud,Pasfor Hansen,Undirected,1
+Bretong,Marie,Undirected,2
+Bretong,Carl Block,Undirected,2
+Hr. Bretong,Hr. Bretongs,Undirected,1
+Bretong,Hr. Bretong,Undirected,1
+Bretong,paany,Undirected,1
+Camille Desmoulin,Mirabeau,Undirected,1
+Camille Desmoulin,Danton,Undirected,1
+Danton,Robespierre,Undirected,2
+Camille,Robespierre,Undirected,1
+Camille,Danton,Undirected,1
+Bretong,Johan Stirls,Undirected,1
+Bretong,karl,Undirected,1
+Block,Bretong,Undirected,2
+Balle,Rasmus Rafl,Undirected,1
+Balle,Søren Kirkegaard,Undirected,1
+Assistentskirkegaard,Søren Kirkegaard,Undirected,1
+Jens,Møller,Undirected,5
+Christoffer,Møller,Undirected,9
+Møller,Skindhans,Undirected,1
+Møller,Søren Mathiasen,Undirected,1
+Gud,Søren Mathiasen,Undirected,1
+Gud,Møller,Undirected,1
+Christoffer taug,Jens,Undirected,1
+Møller,paany,Undirected,1
+Greve,Jeppesen,Undirected,1
+Christoffer,Jens,Undirected,11
+Christoffer,as Møllers,Undirected,1
+Hansen,Møller,Undirected,1
+Jens,Skindhans,Undirected,3
+Christoffer,Gud,Undirected,1
+Jens,ester,Undirected,1
+Hansen,Jens,Undirected,1
+Christoffer,Hansen,Undirected,1
+Christoffer,Præsfen,Undirected,1
+Jens,Johanne Abel,Undirected,1
+Block,Møller,Undirected,4
+Abel,Marie,Undirected,2
+Abel,Block,Undirected,1
+Christoffer,flrup,Undirected,1
+Christoffer,Johanne,Undirected,2
+Abel,Johanne,Undirected,1
+Johanne Abel,Møller,Undirected,1
+Carl Block,Mason,Undirected,1
+Bretong,Frederik“,Undirected,1
+Bretong,Ieg,Undirected,3
+Bretong,Stirls,Undirected,7
+Bretong,Vidsfe,Undirected,1
+Bretong,Pøblen,Undirected,1
+Carl Block,Stirls,Undirected,2
+Block,Doktoren,Undirected,1
+Napoleon den,Skindhans,Undirected,1
+Carl Block,Skindhans,Undirected,2
+Hammer,Herkules,Undirected,1
+Herkules,Prometheus,Undirected,2
+Block,Stirls,Undirected,1
+Carl Block,Møller,Undirected,1
+Bloch,Stirls,Undirected,1
+Bloch,Carl Bloch,Undirected,1
+Carl Bloch,Møller,Undirected,2
+Skindhans,Toddy,Undirected,1
+Bretong,Carl Bloch,Undirected,1
+Bretong,Møller,Undirected,1
+Bloch,Møller,Undirected,1
+Herodes,Johanne,Undirected,1
+Herodes,Pilatus,Undirected,1
+Johanne Abel,Pilatus,Undirected,1
+Gud,barik,Undirected,1
+Hansen,Madam Jeppesen,Undirected,1
+Hansen,paany,Undirected,1
+Abraham,Isak,Undirected,1
+Isak,Jakob,Undirected,1
+jæg,sfal,Undirected,1
+Hr. Block,Hr. Bretong,Undirected,1
+Marie Møller,Præsfen,Undirected,1
+Præsfen,havsq,Undirected,1
+Gud,havsq,Undirected,1
+Gud,absolnt,Undirected,1
+Marie Møller,absolnt,Undirected,1
+Johanne slulde,Marie Møller,Undirected,1
+Johanne,Johanne slulde,Undirected,1
+Carl Block,Johanne,Undirected,1
+Carl Block,Frederik,Undirected,1
+Christoffer,Sophie,Undirected,1
+Christoffer,So-,Undirected,1
+So-,phie,Undirected,1
+Christoffer,ester,Undirected,2
+Christoffer,signede,Undirected,1
+Carl Block,Maria Møller,Undirected,1
+Bretong,Johanne,Undirected,1
+Carl,Frederik,Undirected,1
+Holm,x,Undirected,1

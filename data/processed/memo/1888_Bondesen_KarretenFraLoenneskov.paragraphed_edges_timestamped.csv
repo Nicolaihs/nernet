@@ -1,0 +1,532 @@
+source,target,timestamp
+Aare,Jeppe Broby,3
+H. Nielsens,Jeppe,4
+Ane,Jeppe,5
+Jeppe,Per Nielsen,6
+Madsen,Per Nielsen,6
+,Petrine,7
+Ane,Karen,11
+Jeppe,Petrine,18
+Jeppe,Madsen,20
+Ane,Jeppe,24
+Jeppe,Madsen,25
+Per Nielsen,Petrine,33
+Per Nielsen,Petrine,33
+Petrine,Søren,33
+Petrine,Søren,34
+Karl,Petrine,34
+Ane,Jeppe,36
+Hanne,Jeppe,36
+Fincke,Madsen,56
+Konrad,lille Ellen,67
+Ellen,Skovrider Lundbæk,73
+Ellen,Madsen,80
+Ellen,Madsen,80
+Ellen,Madsen,80
+Ellen,Madsen,80
+Lundbæk,Mansdorf,83
+Frøken Haldberg,Lundbæk,83
+Ellen,Madsen,85
+Cicerone,Madsen,86
+Adler,jag,90
+Ellen,kjære Madsen,93
+Ellen,Madsen,96
+Ellen,Hartvig,100
+Frøken Haldberg,Hartvig,103
+Ellen,Lieutnanten,107
+Ellen,Lieutnanten,107
+Ellen,Lieutnanten,107
+Ellen,Frøken Haldberg,107
+Ellen,Peter,108
+Hartvig,Kaarupgaard,111
+Hartvig,Kaarupgaard,115
+Frøken Adler,Frøken Haldberg,117
+Ellen,Hartvig,120
+Ellen,Skovrider Lundbæk,120
+Ellen,Hellebjærg,123
+Niels Bugge,d,125
+Brinck,Hartvig,129
+Adler,Hartvig,129
+Gud,Krøyer,131
+Hartvig,Jomfru Jepsen,136
+Frøken Haldberg,Jomfru Jepsen,136
+Frøken Haldberg,Hartvig,136
+Hartvig,Jomfru Jepsen,142
+Hanne,Hartvig,142
+Hanne,Hartvig,144
+Frøken Haldberg,Hanne,144
+Hanne,Hartvig,145
+Frøken Haldberg,Hartvig,146
+Charlotte,Ellen,153
+Ellen,Jeppe,159
+Charlotte,Jeppe,162
+Charlotte,Ellen,165
+Charlotte,Ellen,165
+Ellen,Skovfoged Madsen,167
+Hartvig,Madame Nielsen,169
+Madame Nielsen,Peter,170
+Ellen,Per Nielsen,172
+Ifjor,Madame Nielsen,173
+Ellen,Hartvig,174
+Ellen,Hartvig,174
+Charlotte,Ellen,174
+Charlotte,Hartvig,174
+Charlotte,Ellen,176
+Charlotte,Egestok,176
+Egestok,Stanleys,176
+Hartvig,Hornemanns,181
+Hartvig,Jomfru Jepsen,184
+Ellen,Hartvig,185
+Hartvig,Mansdorf,186
+Jaquette,Jomfru Jepsen,187
+Hartvig,Jaquette,187
+Charlotte,Hartvig,188
+Hartvig,Kaarupgaard,193
+Charlotte,Hartvig,195
+Madame Nielsen,Madsen,196
+Madame Nielsen,Madsen,196
+Petrine,Rasmus,197
+Gud,Petrine,197
+.Charlotte,Ellen,199
+Ellen,Madame Nielsen,199
+Charlotte,Madame Nielsen,199
+Charlotte,Madsen,200
+Charlotte,Ellen,200
+Charlotte,Ellen,200
+Jomfru Jepsen,Madame Nielsen,201
+Madame Nielsen,Madsen,201
+Hartvig,Madsen,201
+Adam,Eva,203
+Ellen,Madame Nielsen,206
+Charlotte,Madame Nielsen,209
+A. L.,S.,210
+Madame Nielsen,S.,210
+Hartvig,Madsen,214
+Hartvig,Jomfru Jepsen,214
+Jomfru Jepsen,Madame Nielsen,214
+Charlotte,Hartvig,216
+Charlotte,Ellen,216
+Ellen,Madsen,216
+Angel,Charlotte,217
+Angel,Hartvig,217
+Charlotte,Hartvig,217
+Hartvig,Kaarupgaard,219
+Charlotte,umaadelig,220
+Charlotte,umaadelig,220
+Charlotte,Hartvig,221
+Hartvig,Pyrrha,224
+Charlotte,Jomfru Jepsen,229
+Jepsen,Jomfru Jepsen,229
+Hartvig,Jomfru Jepsen,230
+Frøken Haldberg,Jomfru Jepsen,231
+Hartvig,Jomfru Jepsen,233
+Hartvig,Jomfru Jepsen,233
+Charlotte,Hanne Jepsen,235
+Hartvig,Kaarupgaard,238
+Hartvig,Jepsen,239
+Charlotte,Hartvig,239
+Charlotte,Hartvig,239
+Charlotte,Hartvig,239
+Charlotte,Hanne,239
+Hanne,Hartvig,239
+Charlotte,Hanne,240
+Hanne,Madame Nielsen,242
+Hartvig,Jomfru Jepsen,245
+Charlotte,Hanne,246
+Hanne,Hartvig,246
+Hartvig,Madsen,247
+Charlotte,Hartvig,247
+Charlotte,Ellen,247
+Charlotte,Ellen,247
+Charlotte,Patos,247
+Madame Nielsen,Patos,247
+Madame Nielsen,Petrine,247
+Ellen,Petrine,247
+Ellen,Karlen,247
+.Hartvig,Karlen,247
+.Hartvig,Hanne,247
+Ellen,Hanne,247
+Charlotte,Ellen,247
+Charlotte,Lieutnant Mansdorf,247
+Hanne,Svendsen,248
+Hartvig,Madame Nielsen,260
+Hanne,Madame Nielsen,260
+Hanne,Hartvig Adler,260
+Hanne,Hartvig,261
+Hanne,Hartvig,261
+Hanne,Hartvig,261
+Frøken Haldberg,Hartvig,261
+Frøken Haldberg,Jomfru Jepsen,261
+Hanne,Karlen,263
+Hanne,Søren,264
+Skovfoged Madsen,Søren,266
+Skovfoged Madsen,Søren,266
+Hanne,Søren,271
+Hanne,Søren,273
+Hanne,Søren,273
+Hanne,Søren,275
+Hanne,Søren Madsen,278
+Søren,Søren Madsen,278
+Charlotte,Hartvig,279
+Charlotte,Hartvig,279
+Charlotte,Hartvig,279
+Charlotte,Ellen,286
+Charlotte,Ellen,287
+Charlotte,Ellen,293
+Ellen,Lundbæk,293
+Frøken Haldberg,Lundbæk,293
+Charlotte,Ellen,295
+Charlotte,Hartvig,296
+Hanne,Hartvig,296
+Hanne,Søren,296
+Hartvig,Søren,296
+Hartvig,Marie,296
+Hanne,Marie,296
+Charlotte,Hartvig,297
+Frøken Haldberg,Hanne,303
+Frøken Haldberg,Hanne,304
+Hanne,Hartvig,306
+Hanne,Hartvig,310
+Hanne,Jomfru Jepsen,316
+Hanne,Hartvig,321
+Jomfru Lisken,Kaarupgaard,323
+Gud,Hr. Broby,325
+Kaarupgaard,Kamilla,342
+Adolf,Kaarupgaard,344
+Hartvig,Kaarupgaard,344
+Adler,Hartvig,345
+Gud,Hartvig,346
+Hanne,Hartvig,347
+Hanne,Hartvig,347
+Hartvig,Jeppe Broby,347
+Hartvig,Jeppe Broby,347
+.Amalie,Hartvig,356
+Hartvig,Tante Betty,375
+Betty,Tante Betty,375
+Betty,Hanne,375
+Hanne,Hartvig,376
+Ellen,Hartvig,380
+Madsen,Peter,383
+Frøken Haldberg,Madsen,383
+Charlotte,Ellen,384
+Charlotte,Gud,385
+Ellen,Frøken Haldberg,386
+Charlotte,gurer,387
+Ellen,Peter,389
+Charlotte,Ellen,392
+Hanne,Hartvig,399
+Hanne,Hartvig,399
+Ellen,Jomfru Jepsen,403
+Hanne,Hartvig,405
+Ellen,Hartvig,406
+Ellen,Hartvig,407
+Hartvig,Jomfru Jepsen,407
+Jomfru Jepsen,Kaarupgaard,407
+Ellen,Kaarupgaard,407
+Hanne,Hartvig,408
+Ellen,Hartvig,409
+Ellen,Hanne,410
+Gud,Hanne,410
+Gud,Peter,410
+Hartvig,Peter,410
+Ellen,Hartvig,410
+Ellen,Hartvig,410
+Hanne,Hartvig,412
+Hanne,Hartvig,412
+Ellen,Hartvig,412
+Ellen,Hanne,412
+Hanne,Hartvig,412
+Hartvig,Kaarupgaard,412
+Betty,Kaarupgaard,412
+Betty,Charlotte,412
+Charlotte,Ellen,412
+Charlotte,Ellen,412
+Charlotte,Ellen,412
+Charlotte,Ellen,412
+Charlotte,Hanne,412
+Hanne,Hartvig,412
+Charlotte,Madsen,414
+Charlotte,Madsen,414
+Charlotte,Per,417
+Charlotte,Frøken Haldberg,417
+Charlotte,Lieutnant Mansdorf,418
+Charlotte,Lieutnanten,421
+Charlotte,Jomfru Jepsen,423
+Haldberg,Lohmann,426
+Chalotte,Charlotte,435
+Charlotte,Hartvig,440
+Charlotte,Mansdorf,443
+Gud,Mansdorf,448
+Adler,Charlotte,450
+Frøken Haldberg,Mansdorf,461
+Charlotte,Mansdorf,463
+Charlotte,Hartvig Adler,464
+Charlotte,Mansdorf,468
+Charlotte,Mansdorf,468
+Charlotte,Mansdorf,468
+Charlotte,ifjor,473
+Charlotte,Mansdorf,479
+Eggen,Mansdorf,487
+Charlotte,Eggen,487
+Charlotte,Mansdorf,488
+Charlotte,Mansdorf,497
+Charlotte,Mansdorf,500
+Charlotte,Mansdorf,503
+Charlotte,Mansdorf,505
+Adler,Svendsen,515
+Adler,Hartvig,515
+Hartvig,Peter,522
+Hartvig,Peter,524
+Brinckers,Hartvig,524
+Brinck,Hartvig,526
+Brinck,Hartvig,526
+Brincker,Hartvig,532
+Per,Povl,540
+Hartvig,Peter,544
+Hanne,Hartvig,545
+Hanne,Hartvig,548
+Hartvig,Peter,550
+Adler,Peter,550
+Frøken Haldberg,Hanne,557
+Hartvig,Peter,559
+Hanne,Søren Madsen,560
+Kaarupgaard,Søren,561
+Hanne,Kaarupgaard,561
+Hanne,Søren,561
+Hanne,Søren,561
+Hanne,Søren,561
+Hanne,Søren,561
+Hanne,Søren,566
+Adler,Hanne,579
+Mongolers,Oljekager,583
+Hanne,Hartvig,585
+Hanne,Hartvig,586
+Hanne,Hartvig,587
+Hartvig,Søren,588
+Hanne,Hartvig,588
+Hanne,Søren,588
+Hanne,Søren,589
+Hanne,Hartvig,594
+Hanne,Hartvig,596
+Hanne,Kaarupgaard,596
+Hanne,Hartvig,598
+Ellen,Hartvig,599
+Gud,Hanne,601
+Gud,véd,601
+Hanne,Hartvig,604
+Haldberg,Hartvig,605
+Hanne,Hartvig,608
+Charlotte,Hartvig,608
+Hanne,Hartvig,610
+Hanne,Hartvig,618
+Hanne,Praxis,623
+Hanne,Hartvig,626
+Hanne,Hartvig,626
+Hanne,Hartvig,635
+Hanne,Hartvig,639
+Hartvig,Søren Madsen,640
+Jeppe Broby,Søren Madsen,640
+Charlotte Haldbergs,Hanne,642
+Charlotte Haldbergs,Vilkaar,642
+Hanne,Hartvig,647
+Ellen,Hanne,650
+Hanne,Hartvig,658
+Hanne,Hartvig,664
+Hanne,Hartvig,667
+Hartvig,Søren Madsen,670
+Hanne,Søren,673
+Søren,kaarupgaardske,673
+Hanne,Søren Madsen,674
+Hartvig,Søren Madsen,674
+Hanne,Hartvig,685
+Hanne,Hartvig,687
+Adler,Hanne,690
+Adler,Hanne,690
+Gud,Hanne,691
+Adler,Hanne,693
+Hanne,Hartvig,694
+Hanne,than,695
+Adler,Hanne,696
+Hanne,Hartvig,697
+Hanne,Hartvig,697
+Ellen,Hanne,698
+Kamilla,hin,699
+Hartvig,hin,699
+Hanne Jepsen,Hartvig,699
+Hartvig,Søren,702
+Hanne,Jens,703
+Hanne,Karlen,703
+Hartvig,Karlen,706
+Hartvig,Søren,707
+Gud,Hartvig,712
+Gud,Hartvig,716
+Hanne,Hartvig,721
+Hartvig,Peter,724
+Hanne,Hartvig,726
+Hanne,Hartvig,732
+Hartvig,Tut,732
+Hanne,Søren Madsen,734
+Hartvig,Søren Madsen,734
+Hanne,Hartvig,734
+Hanne,Hartvig,734
+Hanne,Hartvig,735
+Hans,Povl Mikkelsen,736
+Charlotte Haldberg,Hartvig,737
+Charlotte,Hartvig,738
+Hartvig,Nemesis,741
+Charlotte,Mansdorf,742
+Charlotte,Hanne,743
+Charlotte Haldberg,Hanne,744
+Charlotte Haldberg,Hanne,744
+Charlotte,Hanne,744
+Hartvig,Mansdorf,746
+Frøken Haldberg,Hanne,750
+Hanne,Hartvig,762
+Hanne,Hartvig,766
+Charlotte,Hanne,766
+Charlotte,Kaarupgaard,766
+Charlotte,Hanne,768
+Hanne,Hartvig,768
+Charlotte,Hanne,770
+Hanne,Hartvig,773
+Charlotte,Hartvig,773
+Hanne,Hartvig,775
+Gud,Hartvig,775
+Hanne,Hartvig,785
+Charlotte,Hanne,785
+Charlotte,Kaarupgaard,785
+Hanne,Hartvig,786
+Jeppe,Jeppe Broby,789
+Hanne,Søren,791
+Adler,Hanne,795
+Hanne,Søren,806
+Bedstefader,Hanne,807
+Hartvig,Mogens Harpes,812
+Hanne,Jens,815
+Hanne,Hartvig,816
+Ellen,Hanne,818
+Albert,Hanne,825
+Albert,Kusk,825
+Ellen,Kusk,825
+Ellen,Hanne,825
+Hanne,Peter,825
+Nankins,Peter,826
+Hanne,Lundbæk,827
+Ellen,lille Ellen,828
+Ellen,Lundbæk,833
+Hanne,Peter,835
+Hartvig,Peter,835
+Hanne,Hartvig,836
+Brinck,Hartvig,837
+Brinck,Brincker,837
+Frøken Kolbe,Hanne,838
+Hanne,lille Albert,838
+Ellen,Hanne,844
+Ellen,Hartvig,844
+Frøken Kolbe,Lundbæk,849
+Adler,Munck,851
+Blut,Charlotte,853
+Charlotte,montrez moi mes fautes,857
+Voltaire,montrez moi mes fautes,857
+Charlotte,Hartvig,859
+Frøken Haldberg,Hr. Munck,861
+Charlotte,Frøken Lohmann,862
+Charlotte,Hartvig,862
+Charlotte,Hartvig,862
+Charlotte,Hartvig,862
+Hartvig,Munck,862
+Frøken Haldberg,Hartvig,863
+Kaarupgaard,Shelley,864
+Charlotte,Hartvig,871
+Charlotte,Jomfru Jepsen,879
+Hartvig,Nemesis,880
+Hartvig,Søren Skovfoged,893
+Hartvig,Søren Skovfoged,897
+Søren,Søren Skovfoged,897
+Al,Søren,900
+Al,Søren,900
+Hartvig,stum,903
+Hanne,stum,903
+Hanne,Søren,903
+Hanne,Søren,903
+Charlotte,Hanne,903
+Hartvig,Mosegaard,905
+Hanne,Hartvig,910
+Hanne,Hartvig,910
+Hanne,Hartvig,910
+Hanne,Hartvig,926
+Charlotte,Hanne,931
+Charlotte,Hanne,931
+Charlotte,Hanne,931
+Charlotte,Hanne,932
+Charlotte,Hartvig,933
+Pour vivre,vivons,935
+Charlotte,Hartvig,945
+Hanne,Hartvig,947
+Charlotte,Hartvig,951
+Charlotte,Hanne,955
+Charlotte,Hanne,955
+Hanne,Hartvig,955
+Charlotte,Hartvig,955
+Hanne,Hartvig,956
+Hartvig,Pjalt,956
+Hanne,Hartvig,957
+Hanne,Hartvig,958
+Charlotte,Hanne,962
+Charlotte,Hanne,962
+Charlotte,Hartvig Adler,965
+Charlotte,Hanne,965
+Charlotte,Hanne,965
+Hanne,Hartvig,969
+Hanne,Hartvig,970
+Hanne,Hartvig,970
+Hartvig,Madsen,973
+Hanne,Søren,976
+Hanne,Søren,977
+Hanne,Søren,982
+Hanne,Søren,983
+Hanne,Søren,990
+Hanne,Karl,991
+Karl,lille Hanne,991
+Hanne,Hartvig,992
+Charlotte,Hartvig,992
+Gud,Hartvig,993
+Hartvig,Søren,994
+Hanne,Hartvig,994
+Hanne,Madsen,995
+Hanne,Madsen,996
+Hanne,Hartvig,1001
+Hanne,Hartvig,1002
+Hanne,Hartvig,1004
+Charlotte,Hartvig,1008
+Hanne,Hartvig,1009
+Gud,Hartvig,1011
+Hanne,Hartvig,1017
+Hanne,Hartvig,1017
+Charlotte,Hanne,1018
+Charlotte,Hanne,1018
+Charlotte,Madsen,1018
+Hanne,Hartvig,1028
+Hanne,Hartvig,1029
+Hanne,Hartvig,1037
+Ellen,Hanne,1037
+Ellen,Hartvig,1037
+Hanne,Hartvig,1037
+Hartvig,Peter,1041
+Ellen,Peter,1045
+Madame Nielsen,Peter,1045
+Ellen,Nielsen,1046
+Maa,Peter,1047
+Hanne,Madame Nielsen,1048
+Peter,Petrine,1049
+Peter,Petrine,1049
+Bruden,Gud,1054
+Hartvig,Peter,1056
+Ellen,Hanne,1059
+Ellen,Hanne,1061
+Hartvig,Peter,1062
+Hartvig,Lønneskov,1063
+Madsen,Skovfoged Madsen,1064
+Peter,Petrine,1067
+Brincker,Peter,1067
+Madsen,Petrine,1069

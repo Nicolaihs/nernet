@@ -1,0 +1,599 @@
+source,target,type,weight
+Daniel,Jeremias,Undirected,2
+Daniel,gud,Undirected,1
+lian,stuper,Undirected,1
+Ole Tuft,ute,Undirected,1
+Ole,ute,Undirected,1
+Josefine Kallem,Schultze,Undirected,1
+Edvards,Josefine Kallem,Undirected,1
+Edvards,Ole,Undirected,1
+Josefine,Ole,Undirected,20
+Josefine,vathan,Undirected,1
+Alexandre Dumas,Ole Tuft,Undirected,1
+Edvard Kallems,Ole Tuft,Undirected,1
+Edvard Kallems,Les trois mousquetaires,Undirected,1
+Edvard,Ole Tuft,Undirected,4
+Edvard,Ole,Undirected,48
+Ole,gud,Undirected,13
+Edvard,gud,Undirected,5
+Edvard Kallem,Guds,Undirected,2
+Edvard Kallem,gud,Undirected,1
+Guds,Ole,Undirected,1
+Edvard Kallem,Ole,Undirected,4
+Edvard,barna,Undirected,1
+Edvard,Josefine,Undirected,20
+Josefine,ropte,Undirected,1
+-,Ole,Undirected,1
+-,Edvard,Undirected,1
+Josefine,unytte,Undirected,1
+Ole,unytte,Undirected,1
+Ole,durens,Undirected,2
+Edvard,skrek,Undirected,1
+Edvard gæntok,Ole,Undirected,1
+ho,sinna,Undirected,1
+Ho,sinna,Undirected,1
+Marte,ho,Undirected,1
+Ho,ho,Undirected,1
+gud,ho,Undirected,1
+Ole,hennes,Undirected,4
+hennes,tia,Undirected,1
+Anders,Ole,Undirected,6
+Anders,moro,Undirected,1
+Anders,Edvard,Undirected,8
+Edvard,lian,Undirected,1
+Anders Hægges,Edvard,Undirected,1
+Edvard,Marte,Undirected,5
+Anders,Marte,Undirected,2
+Marte,Ole,Undirected,5
+Marte,Ole Tuft,Undirected,1
+Marte,skoggerle,Undirected,1
+Edvard,skoggerle,Undirected,1
+Anders,olje,Undirected,1
+Ole,olje,Undirected,1
+Anders,Ole Tuft,Undirected,1
+Edvard Kallern,boka,Undirected,1
+Anders Hegge,Edvard Kallern,Undirected,1
+Anders Hegge,Ole Tuft,Undirected,2
+Anders,Edvard Kaliem,Undirected,1
+Edvard Kaliem,Edvard Kallern,Undirected,1
+Anders Hegge,Ole,Undirected,2
+Lars,Marte,Undirected,1
+Anders,Lars,Undirected,1
+Edvard Kallem,lian,Undirected,1
+gud,lian,Undirected,1
+Marte,gud,Undirected,1
+Edvard,hennes,Undirected,3
+Paulus,hennes,Undirected,1
+Jesus,Paulus,Undirected,1
+aper,hennes,Undirected,1
+Ole,eden,Undirected,1
+Josefine,unna,Undirected,1
+Ole,stakkar,Undirected,2
+bent,stakkar,Undirected,1
+Ole igæn,mørje,Undirected,1
+Ole,Ole igæn,Undirected,1
+Ole,gild furuskog,Undirected,1
+Edvard,sjauen,Undirected,1
+hans,ropte,Undirected,1
+Ingebret,ropte,Undirected,1
+Ingebret,gutten,Undirected,1
+Edvard,Guttens,Undirected,1
+Edvard,gutten,Undirected,3
+Kaliem,Kallem,Undirected,8
+Kaliem,Kanske,Undirected,2
+Josefine,jon,Undirected,1
+Ole,gejta,Undirected,1
+Edvard,vesle,Undirected,1
+potetes,vesle,Undirected,1
+Ole,gutten,Undirected,2
+Ole,skrek,Undirected,1
+Edvard,stakkar,Undirected,1
+Edvard,gejta,Undirected,1
+gejta,vips,Undirected,1
+gejta,gutten,Undirected,1
+Edvard,skræmseln,Undirected,1
+Anders Hegge,Edvard,Undirected,2
+Edvard,malte,Undirected,1
+bo,malte,Undirected,1
+Edvard,Josefine præstekone,Undirected,1
+Melanchton,Ole Tuft,Undirected,1
+Edvard Kallem,Ole Tuft,Undirected,1
+Edvard Kallem,Samson,Undirected,1
+Ole Tuft,Samson,Undirected,1
+Ole,Samson,Undirected,2
+Samson,ropte,Undirected,1
+Ole,ropte,Undirected,1
+Ole,bjørn,Undirected,1
+Josefine,bægge,Undirected,2
+Edvard,Samson,Undirected,2
+Samson,løvens,Undirected,1
+Josefine,Ole Tuft,Undirected,1
+Josefine,Kaliem,Undirected,2
+Kaliem,Ole Tuft,Undirected,3
+Ole Tuft,Tuft,Undirected,3
+Ole Tuft,hans,Undirected,1
+Guds,hans,Undirected,1
+Edvard Kallem,Somme,Undirected,1
+Ole,Ole Tuft,Undirected,1
+Ole Tuft,kali,Undirected,1
+Edvard,kali,Undirected,1
+Gud,hennes,Undirected,1
+Gud,gud,Undirected,3
+Josefine,gud,Undirected,12
+Josefine,kalite,Undirected,1
+Edvard,Edvard Kallem,Undirected,1
+Edvard,liam,Undirected,1
+Edvard,jonær,Undirected,1
+gud,jonær,Undirected,1
+kin,panne,Undirected,1
+Ole,henne,Undirected,6
+Edvard uten,Ole,Undirected,2
+Edvard,henne,Undirected,9
+Ole,dom,Undirected,1
+Jeanne,Jeanne d,Undirected,2
+Arcs,Jeanne d,Undirected,1
+Arcs,henne,Undirected,1
+Flan,henne,Undirected,2
+Hennes,Ole,Undirected,1
+Gud,henne,Undirected,2
+Edvard Kali,Z mars,Undirected,1
+Edvard Kaliem,Tomas Rendalen,Undirected,1
+Edvard Kaliem,Edvard Kallem,Undirected,1
+Kaliem,Tomas Rendalen,Undirected,1
+Rendalen,Tomas Rendalen,Undirected,1
+Edvard Kaliem,Rendalen,Undirected,1
+Edvard Kaliem,Kaliem,Undirected,1
+Edvard,Kallem,Undirected,2
+Kallem,Rendalen,Undirected,5
+Rendalen,piano,Undirected,1
+Rendalen,tillike,Undirected,1
+Kaliem,tillike,Undirected,1
+Bægge,Kallem,Undirected,1
+Edvard Kallem,Marie,Undirected,1
+Marie,lurifas,Undirected,1
+lurifas,lågene,Undirected,1
+Edvard Kaliem,lågene,Undirected,1
+Edvard Kaliem,Kallem,Undirected,1
+Kallem,ingang,Undirected,2
+Kallem,Søren Kule,Undirected,4
+Kallem,grejt,Undirected,1
+grejt,karen,Undirected,1
+Kallem,karen,Undirected,1
+Kallem,Søren,Undirected,3
+ropt,undskylle,Undirected,1
+Kallem,ropt,Undirected,1
+Rendalen,Søren Kule,Undirected,1
+Kallem,Ole Tuft,Undirected,4
+Kallem,Tuft,Undirected,4
+Edvard Kaliem,Ole Tuft,Undirected,1
+Edvard Kaliem,Søren Kule,Undirected,1
+Ole Tuft,Søren Kule,Undirected,1
+Kallem,Ole,Undirected,3
+Kallem,henne,Undirected,22
+Kallem,liun,Undirected,1
+Kallem,Ragni,Undirected,57
+Ragni,henne,Undirected,27
+Kule,henne,Undirected,1
+Rendalen,henne,Undirected,3
+Bløte,Hennes,Undirected,1
+Bløte,henne,Undirected,1
+annet,henne,Undirected,1
+Hennes,henne,Undirected,9
+henne,hjæmover,Undirected,1
+Kallem,hjæmover,Undirected,1
+henne,lille Juanita,Undirected,3
+Juanita,sist,Undirected,1
+Juanita,lille Juanita,Undirected,1
+Kallem,Kule,Undirected,5
+Hennes,Kallem,Undirected,2
+henne,nætop,Undirected,1
+Flan,nætop,Undirected,1
+glidans,henne,Undirected,1
+glidans,gud,Undirected,1
+henne,tomle,Undirected,1
+Ragni,Rendalen,Undirected,2
+Ragni,bægge,Undirected,1
+Rendalen,bægge,Undirected,1
+Marie,Rendalen,Undirected,3
+Ole Tuft,henne,Undirected,5
+Ole Tuft,Ragni,Undirected,3
+Flun,henne,Undirected,1
+Ole,Ragni,Undirected,2
+Klutes,henne,Undirected,2
+Jæntep,Ragni,Undirected,1
+Gud,Ragni,Undirected,1
+Ole Tuft,Stakkars,Undirected,1
+Stakkars,stakkar,Undirected,1
+Ragni,stakkar,Undirected,1
+Ole Tuft,gud,Undirected,1
+gud,henne,Undirected,2
+gut,ropte,Undirected,1
+Kallem,ropte,Undirected,1
+Kaliem,Rendalen,Undirected,3
+inni,marg,Undirected,1
+Edvard,Ragni,Undirected,3
+Marie,henne,Undirected,3
+Kallem,Marie,Undirected,2
+Marie,Ragni,Undirected,4
+Ragni,minte,Undirected,2
+henne,minte,Undirected,1
+Hennes,pascha,Undirected,1
+henne,pascha,Undirected,2
+Juanita,pascha,Undirected,2
+Ragni,marna,Undirected,1
+Juanita fallt,marna,Undirected,1
+mama,marna,Undirected,1
+Kaliem,Ole,Undirected,1
+Ole Tuft,sælv,Undirected,1
+gutten,ropte,Undirected,1
+Hennes,gutten,Undirected,1
+Edvard,kek,Undirected,1
+Edvard,lille Edvard,Undirected,1
+lille Edvard,lukes,Undirected,1
+lukes,vesle Edvard,Undirected,1
+Jesus,gud,Undirected,2
+Kristus,gud,Undirected,2
+gud,sannen,Undirected,1
+Kallem,Kristus,Undirected,1
+Kristus,Michel Angelo,Undirected,1
+Josefine,Kallem,Undirected,10
+Josefine,bejna,Undirected,1
+Edvard,Nicolai Andersen,Undirected,1
+Edvard Kallem,Josefine,Undirected,1
+Ragni,gud,Undirected,2
+Johnsens,Kallem,Undirected,1
+Johnsens,henne,Undirected,1
+Josefine,Luthers,Undirected,2
+Josefine,henne,Undirected,22
+Josefine,tokes,Undirected,1
+Andersen,Ragni,Undirected,2
+Kallem,Kristen Larssen,Undirected,24
+Bægge,minte,Undirected,1
+Josefine,Ragni,Undirected,14
+Josefine,sælv,Undirected,2
+Kallem,sælv,Undirected,1
+Ragni,Sigrid,Undirected,4
+Kallem,Sigrid,Undirected,7
+Ragni,morro,Undirected,1
+Ingangsport,Kallem,Undirected,1
+Kule,Ragni,Undirected,2
+Ian,Meek,Undirected,2
+Kent,Ragni,Undirected,6
+Kallem,Kent,Undirected,16
+Kent,trille,Undirected,1
+Kallem,trille,Undirected,1
+Ragni,Søren Pedersen,Undirected,3
+Kristen Larssen,Søren Pedersen,Undirected,13
+Kent,Kristen Larssen,Undirected,3
+Kristen Larssen,jærn,Undirected,1
+Søren Pedersen,jærn,Undirected,1
+Søren,Søren Pedersen,Undirected,4
+Aase,Søren,Undirected,2
+Aase,Kristen Larssen,Undirected,2
+Søren Pedersen,gud,Undirected,1
+Matthæus,gud,Undirected,1
+Kristen Larssen,Matthæus,Undirected,1
+Juda,Kristen Larssen,Undirected,1
+Kent,Søren Pedersen,Undirected,3
+Aase,Søren Pedersen,Undirected,15
+Aase,Kallem,Undirected,2
+Aase,Gud,Undirected,1
+Santhans,flora,Undirected,1
+Ragni,flora,Undirected,1
+Kent,henne,Undirected,6
+Ragni,pyrola imiflora,Undirected,1
+Kallem,pyrola imiflora,Undirected,1
+fræm,linnæa,Undirected,1
+Ragni,linnæa,Undirected,2
+Ragni,ropte,Undirected,1
+Bægge,Kaliem,Undirected,1
+Bægge,avstan Kallem,Undirected,1
+Kent,avstan Kallem,Undirected,1
+Kent,amara,Undirected,2
+Kent,Meek,Undirected,4
+Kent,nero,Undirected,1
+Gutten,Ragni fræm,Undirected,1
+Kent,syke,Undirected,1
+Kallem,Søren Pedersen,Undirected,9
+Kallem,hværandre,Undirected,1
+Josefine,hværandre,Undirected,1
+Aase,Ragni,Undirected,1
+Ragni,strøk,Undirected,1
+Kallem,strøk,Undirected,1
+Josefine,gamlingen,Undirected,1
+Aase,Sigrid,Undirected,1
+Kallem ropte,henne,Undirected,1
+Aase,bægge,Undirected,1
+Søren Pedersen,bægge,Undirected,1
+Kent,utenlans,Undirected,1
+Kallem,utenlans,Undirected,1
+Kallem,hægges,Undirected,2
+Arentz,Kallem,Undirected,5
+Kanske,Ragni,Undirected,1
+Annerledes,Kanske,Undirected,1
+Annerledes,Ragni,Undirected,1
+Sigrid,pinse,Undirected,1
+Kallem,Larssen,Undirected,9
+Kristen Larssen,Ragni,Undirected,2
+Kallem,Kallem Larssen,Undirected,1
+Søren Pedersen,skrek,Undirected,1
+Kristen Larssen,skrek,Undirected,1
+Meek,Tilla Kraby,Undirected,1
+Kallem,Tilla Kraby,Undirected,1
+Ragni,Søren Kule,Undirected,3
+Ragni,spæk,Undirected,1
+Meek,spæk,Undirected,1
+Kallem,Tilla,Undirected,2
+Meek,Ragni,Undirected,5
+Lilli Bing,gamle,Undirected,1
+Lilli Bing,Ragni,Undirected,2
+Kallem,Kraby,Undirected,1
+Kraby,henne,Undirected,1
+Selmers,Solvejgs,Undirected,1
+Selmers,Svendsen,Undirected,1
+Selmer,Svendsen,Undirected,1
+Selmer,henne,Undirected,1
+Tilla,henne,Undirected,1
+Kallem,Meek,Undirected,16
+Kaliem,Ragni,Undirected,5
+Ragni Kallem,Tilla,Undirected,1
+Kallem,Karl Meek,Undirected,9
+Kaliem,henne,Undirected,2
+Kallem,Karl,Undirected,39
+Kallem,gutten,Undirected,2
+gutten,henne,Undirected,3
+ape,ævner,Undirected,1
+Bægge,henne,Undirected,2
+Bægge,Ragni,Undirected,1
+Karl Meek,kek,Undirected,1
+Ragni Kallem,henne,Undirected,1
+Meek,Otto,Undirected,1
+Karl,Otto,Undirected,1
+Karl,frieri,Undirected,1
+Kallem,dolce far niente,Undirected,1
+Karl,Ragni,Undirected,20
+Kallem,jham,Undirected,2
+Karl Meek,Otto Meek,Undirected,1
+Otto Meek,mottog Kallem,Undirected,1
+Kent syk,mottog Kallem,Undirected,1
+Kent syk,Ragni,Undirected,1
+Andersen,Kent,Undirected,1
+Andersen,Kallem,Undirected,9
+Andersen,henne,Undirected,2
+Kallem,olje,Undirected,1
+Andersen,gud,Undirected,7
+Paulus,gud,Undirected,1
+Arentz,Paulus,Undirected,1
+Andersen,Arentz,Undirected,1
+Kaliem,gud,Undirected,1
+Andersen,bægge,Undirected,2
+Andersen taug,tavla,Undirected,1
+Andersen,barna,Undirected,1
+barna,kona,Undirected,1
+Arentz,Kent,Undirected,1
+Karl,henne,Undirected,6
+Sissel Aune,hennes skyil,Undirected,1
+Kent,hennes skyil,Undirected,1
+Hennes,Kent,Undirected,1
+Hennes,Søren Pedersen,Undirected,1
+henne,kong Karl den 15de,Undirected,1
+Kallem,siste,Undirected,1
+siste,åja,Undirected,1
+Søren Pedersen,fyenboen,Undirected,1
+Aase,fyenboen,Undirected,1
+Kallem,barna,Undirected,1
+Kallem,Sissel Aune,Undirected,3
+Barna,Sissel Aune,Undirected,1
+Barna,Ragni,Undirected,1
+Barna,murer Andersens,Undirected,1
+Kallem,murer Andersens,Undirected,2
+Andersen,murer Andersens,Undirected,1
+Aase,Andersen,Undirected,1
+Kaliem,Karl lot,Undirected,1
+Karl lot,henne,Undirected,1
+Lilli Bing,henne,Undirected,2
+Josefine,Lilli Bing,Undirected,2
+Kallem,kærka,Undirected,1
+Josefine,traust,Undirected,1
+henne,runt,Undirected,1
+Kallem,runt,Undirected,1
+Kallem,bægge,Undirected,1
+Josefine,ghan,Undirected,2
+Huh,henne,Undirected,1
+Karl,sine,Undirected,1
+gud,sine,Undirected,1
+bent,henne,Undirected,1
+Sigrid,bent,Undirected,1
+Aase,Sissels,Undirected,1
+Sissels,Søren Pedersen,Undirected,1
+Kallem,sylte,Undirected,1
+Kristen Larssen,Åja,Undirected,1
+Kallem,Åja,Undirected,1
+Larssen,henne,Undirected,2
+Kristen Larssen,Larssen,Undirected,2
+Larssen,Søren,Undirected,1
+Anne,Kallem,Undirected,1
+Anne,Kristen Larssen,Undirected,3
+Kristen Larssen,Pedersen,Undirected,1
+Larssen,Pedersen,Undirected,1
+Andersen,Larssen,Undirected,1
+Kallem,gud,Undirected,4
+Edvard,Unskyll,Undirected,1
+Edvard,Larssen,Undirected,1
+Fyss,Josefine,Undirected,1
+Karl Meek,Søren Pedersen,Undirected,1
+Karl Meek,Ragni,Undirected,4
+Murer Andersens,henne,Undirected,2
+henne,sælv,Undirected,1
+Bestemor,Josefine,Undirected,1
+Josefine,bestemor,Undirected,3
+henne,knute,Undirected,1
+knute,sæte,Undirected,1
+Josefine,sæte,Undirected,1
+Jesus,Ole,Undirected,1
+Tor Jesu skyil,gud,Undirected,1
+Josefine,Tor Jesu skyil,Undirected,1
+Gud,Josefine,Undirected,2
+Larssen,Søren Pedersen,Undirected,1
+Kaliem,Søren Pedersen,Undirected,1
+Kristen Larssen,gud,Undirected,1
+Anne,Søren Pedersen,Undirected,1
+Anne,leva,Undirected,1
+Søren Pedersen,leva,Undirected,1
+Søren Pedersen,lille Aase,Undirected,1
+Aase,lille Aase,Undirected,1
+Aase,Ragni grep,Undirected,1
+Kaliem,Ragni grep,Undirected,1
+Lilli Bing,Søren Kule,Undirected,1
+Lilli Bing,Ragni Kule,Undirected,1
+Kallem,Ragni Kule,Undirected,1
+Karl,Karl Meek,Undirected,2
+Ragni,hani,Undirected,1
+Karl,gagn,Undirected,1
+Kai—lem,Kristiania,Undirected,1
+Kallem,Oline,Undirected,1
+Oline,Rendalen,Undirected,1
+Kallem,biej,Undirected,1
+Kallem,pinery,Undirected,1
+Kule,pinery,Undirected,1
+Ragni,gløtt,Undirected,1
+Di,gløtt,Undirected,1
+Karl,Kule,Undirected,1
+Kaliem,minne,Undirected,1
+Tuft,henne,Undirected,2
+Howells,Karl,Undirected,1
+Howells,minte,Undirected,1
+Karl,minte,Undirected,1
+Karl,Stakkars,Undirected,1
+Kallem,Stakkars,Undirected,1
+Kallem,mun,Undirected,1
+asp,bjørk,Undirected,1
+Karl Meek,Karl —,Undirected,1
+Kallem,hjæm,Undirected,1
+henne,hjæm,Undirected,1
+Sigrid,henne,Undirected,2
+Kallem skoggerlo,Kristen Larssen,Undirected,1
+Kallem skoggerlo,Søren,Undirected,1
+Kristen Larssen,Søren,Undirected,1
+Bajer,Kristen Larssen,Undirected,1
+Bajer,Søren Pedersen,Undirected,1
+Andersen,Søren Pedersen,Undirected,1
+Andersen,Karl Meek,Undirected,1
+Karl Meek,Kristen Larssen,Undirected,1
+Kristen Larssen,Sigrid,Undirected,1
+Sigrid,Søren Pedersen,Undirected,2
+Aune,Kallem,Undirected,3
+Kallem,brænnevinets,Undirected,1
+Josefine,Kent,Undirected,9
+Kaliem,lille Edvard,Undirected,1
+Kristen Larssen,lille Edvard,Undirected,1
+Anne,Edvard,Undirected,2
+Edvard,iver,Undirected,1
+Larssen,iver,Undirected,1
+Jesus,gutten,Undirected,1
+henne,skyli,Undirected,1
+Otto Meek,Sigrid,Undirected,1
+Karl,Otto Meek,Undirected,2
+Bægge,Meek,Undirected,1
+Karl,Meek,Undirected,5
+Meek,unytte,Undirected,1
+Meek,henne,Undirected,1
+Hennes,ante Kallem,Undirected,1
+Kallem,Meek unskylle,Undirected,1
+Sigrid,likevæl,Undirected,1
+Kallem,likevæl,Undirected,1
+Meek,Sigrid,Undirected,1
+ban,henne,Undirected,2
+Hennes,Karl,Undirected,2
+Gutten,Karl,Undirected,2
+Sissel Aune,henne,Undirected,3
+Ragni,Sissel Aune,Undirected,2
+Karl,Stakars,Undirected,2
+Aase,henne,Undirected,1
+Sigrid,gratens,Undirected,1
+gratens,skyli,Undirected,1
+oberstinne,skyli,Undirected,1
+Karl Meek,Otto,Undirected,1
+Kaliem,Karl,Undirected,1
+Karl,Sigrid,Undirected,4
+Otto Meek,Ragni,Undirected,1
+Karl,Sissel Aune,Undirected,1
+Karl,Sissel,Undirected,4
+Meek,Sissel,Undirected,1
+Karl,gløtt,Undirected,2
+henne,tillike,Undirected,1
+Karl,tillike,Undirected,1
+Karl,heltiom,Undirected,1
+Kallem,heltiom,Undirected,1
+Sissel,henne,Undirected,5
+Kaliem,Sigrid,Undirected,1
+Sigrid,Sissel,Undirected,2
+Ragni,Sissel,Undirected,1
+Henr,Karl,Undirected,1
+Henr,Ibsen,Undirected,1
+Hedvigs,Ibsen,Undirected,1
+Josefine strævde,Kristen Larssen,Undirected,1
+Josefine,Tuft,Undirected,4
+Kent,bestemor,Undirected,1
+Lille Edvard,henne,Undirected,2
+Lille Edvard,panne,Undirected,1
+gud,panne,Undirected,1
+henne,slite,Undirected,2
+henne,vesle,Undirected,1
+Josefine,likevæl,Undirected,1
+Kent,likevæl,Undirected,2
+finnes,gud,Undirected,2
+Kent,Tuft,Undirected,1
+Edvard sutret,Josefine,Undirected,1
+Bestemor,Kallem,Undirected,1
+Karl Meek,Ragnis lik,Undirected,1
+Ragnis lik,Sigrid,Undirected,1
+Hennes,Josefine,Undirected,1
+Gud,Hennes,Undirected,1
+Josefine,gutten,Undirected,2
+Tuft,gutten,Undirected,1
+Kallem,kalk,Undirected,2
+Kent lot Kallem,likevæl,Undirected,1
+Kent,Kent lot Kallem,Undirected,1
+Kaliem,Kent,Undirected,1
+Kent,gutten,Undirected,3
+Hennes,kalle,Undirected,1
+Kent,kalle,Undirected,1
+Kent,Lille Edvard,Undirected,1
+Josefine,taus,Undirected,1
+Josefine,falk,Undirected,1
+Ole,Tuft,Undirected,1
+Kent,gud,Undirected,1
+Sissel,Sissel løp,Undirected,1
+Sissel,bestemor,Undirected,4
+Josefine,Sissel,Undirected,3
+Sissel,gutten,Undirected,2
+Bestemor,bestemor,Undirected,1
+Bestemor,Edvard,Undirected,1
+Gud,gli,Undirected,1
+Gud,fræmfor,Undirected,1
+fræmfor,gud,Undirected,1
+Aase,gud,Undirected,3
+Tuft,gud,Undirected,1
+Søren,Tuft,Undirected,1
+Sigrid,Tuft,Undirected,1
+Mor Andersens,Søren Pedersen,Undirected,1
+Josefine,Utenifra,Undirected,1
+Paulos,Tuft,Undirected,1
+Paulos,gud,Undirected,1
+Kallem,fræm,Undirected,1
+Josefine,fræm,Undirected,1
+Karl,annet,Undirected,1
+Ragni,annet,Undirected,1
+Edvard,Sissel Aune,Undirected,1
+Karl Meek,henne,Undirected,1
+Josefine,Nå,Undirected,1
+Nå,Tuft,Undirected,1
+Kallem,Sissel,Undirected,6
+Sissel,ropte,Undirected,1
+Sissel,gud,Undirected,1
+Kaliem,Sissel,Undirected,2
+Aune,Sissel,Undirected,2
+Aune,Kristen Larssen,Undirected,1
+Gud,Kallem,Undirected,1
+derin,henne,Undirected,2

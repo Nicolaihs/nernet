@@ -1,0 +1,94 @@
+source,target,type,weight
+Gud,Rigmor,Undirected,5
+Faders,Valdemar,Undirected,1
+Rigmor,Valdemar,Undirected,1
+Stendal,Valdemar,Undirected,1
+Cornelia,Rigmor,Undirected,5
+Cornelia,as,Undirected,1
+Cornelia,Valdemar,Undirected,1
+Richard,Valdemar,Undirected,1
+Cornelia,Sigurd,Undirected,1
+Dn,Sigurd,Undirected,1
+Cornelia,Sigfred Engberg,Undirected,1
+Rigmor,ester,Undirected,1
+ester,lille Rigmor,Undirected,1
+Sigfred,fig,Undirected,1
+Rigmor,fig,Undirected,1
+Cornelia,Sigfred,Undirected,1
+Sigfred,ester,Undirected,2
+Sigfred,Sigfred Engberg,Undirected,1
+Cornelia,Hr. Engberg,Undirected,1
+Sigfrid,Stendal,Undirected,1
+Sigfrid,Valdemar,Undirected,1
+Rigmor,hnn,Undirected,3
+Stendal,hnn,Undirected,1
+Bøgelund,Rigmor,Undirected,2
+Rigmor,Sigfred,Undirected,81
+Sigfred,Stendal,Undirected,2
+Sigfred,^sra,Undirected,1
+Eornelia,Sigfred,Undirected,2
+Reifens,Rigmor,Undirected,1
+Reifens,Sigfred,Undirected,1
+Bøgelund,Sigfred,Undirected,2
+Husbond,Sigfred,Undirected,1
+Rigmor,Rigmor elsfede,Undirected,2
+Rigmor elsfede,Sigfred,Undirected,2
+Elsfer,Rigmor,Undirected,2
+Hr. Engberg,Rigmor,Undirected,4
+Hnsbond,Sigfred,Undirected,1
+Dn,Sigfrcds,Undirected,1
+Rigmor,taus,Undirected,2
+Rigmor,Rigmor Engberg,Undirected,1
+Hr. Engberg,Sigfred,Undirected,4
+Sigfred,hnn,Undirected,3
+Birgitte,Sigfred,Undirected,1
+Aaget,Sigfred,Undirected,1
+Gud,Sigfred,Undirected,7
+L ' hombre,Sigfred,Undirected,2
+Pasfor,Rigmor,Undirected,1
+Nigmors,Rigmor,Undirected,1
+Rigmor,Vorherr,Undirected,1
+Hr. Engberg,Vorherr,Undirected,1
+Birgitte,Rigmor,Undirected,2
+Rigmor,ask,Undirected,2
+Rigmor,paany,Undirected,2
+Offre,Rigmor,Undirected,1
+Dn,Rigmor,Undirected,1
+Dn,Sigfred,Undirected,2
+Brun,Rigmor,Undirected,1
+Brun,L ' hombre,Undirected,1
+Præsfens,Sigfred,Undirected,1
+Pastor Brun,Rigmor,Undirected,1
+Frn Engberg,Rigmor,Undirected,1
+Frn Engberg,hnn,Undirected,1
+Rigmor,blor,Undirected,1
+Forgjeves,Rigmor,Undirected,1
+Forgjeves,Rigmør,Undirected,1
+Rigmor,Rigmør,Undirected,1
+Sigfred,Sigfred Rigmors,Undirected,1
+Marie,Rigmor,Undirected,1
+Jakob,Rachel,Undirected,1
+Aare,Rachel,Undirected,1
+Hr. Engberg,Ørengen,Undirected,1
+Gud,Øe,Undirected,1
+Gud,asbrød,Undirected,1
+Gud,Hr. Engberg,Undirected,1
+Jørgens,Rigmor,Undirected,1
+Hr. Engberg,Jørgens,Undirected,1
+Hr. Engberg,stulde,Undirected,1
+Brun,Sigfred,Undirected,1
+Brun,Hr. Engberg,Undirected,1
+Rigmor,jæg,Undirected,2
+Sigfred,ask,Undirected,1
+Sigfred,jæg,Undirected,1
+Hr. Engberg,Keiser,Undirected,1
+Andersens,Keiser,Undirected,1
+Jesus,Rigmor,Undirected,1
+Kapifell,sigfred,Undirected,1
+Argusoine,Rigmor,Undirected,1
+Argusoine,Taalmodig,Undirected,1
+Rigmor,Taalmodig,Undirected,1
+Rigmor,nn,Undirected,1
+Morbroder,Rigmor,Undirected,1
+Morbroder,Oluf,Undirected,1
+Rigmor,Sigurd,Undirected,2

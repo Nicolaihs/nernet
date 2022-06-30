@@ -1,0 +1,970 @@
+source,target,timestamp
+Herren,Viggo,3
+Betlersken,Frank,4
+Gylding,Thorning,19
+Frank,Thorning,21
+Frank,Gylding,24
+Gylding,"Knud,",25
+Frøken Tuyon,Thorning,26
+Frank,Thorning,28
+Funk,Trumpher,29
+Funk,Gylding,30
+Frank,Gylding,35
+Gylding,Løvendahl,36
+Gylding,Thorning,39
+Løvendahl,Thorning,39
+Frank,Løvendahl,39
+Frank,Løvendahl,40
+Frank,Thorning,40
+Grev Løvendahl,Thorning,40
+Løvendahl,Thorning,44
+Frank,Løvendahl,45
+Løvendahl,Tuyon,45
+Løvendahl,Thorning,48
+Frank,Løvendahl,48
+Thorning,Tnyon,52
+Thorning,Tnyon,52
+Thorning,Tnyon,53
+Jeanne,Thorning,55
+Jeanne,Tuyon,58
+Ravignani,Tuyon,58
+Jeanne,Ravignani,58
+Jeanne Thornings,Thorning,60
+Jeanne,Thorning,63
+Frank,Jeanne,69
+Jeanne,Thorning,74
+Frank,Varning,80
+Frank,Knud Thorning,81
+Frank,Frøken Tuyon,85
+Frøken Toyon,Viggo,88
+Frøken Toyon,Grevens,88
+Frøken Tuyon,Grevens,88
+Frank,Guds,90
+Frank,Guds,90
+Tuyon,Viggo,91
+Frank,lille Viggo,95
+Gud,lille Viggo,95
+Dristigheo,Kopar,99
+Gunder,Madam Jansen,103
+Frank,Varning,108
+Gunder,Varning,108
+Gunder,Luur,110
+Grønkaals,Luur,110
+Frank,Gunder,117
+Frank,hvidskede,127
+Frank,Gunder,134
+Frank,Gunder,134
+Frank,Gunder,136
+Gunder,Karl faae,137
+Frank,Gunder,140
+Frank,Gunder,143
+Frank,allandsens,152
+Gunder,Madam Jansen,154
+Varning,Viggo,155
+Brink,Minni,157
+Brink,Minni,157
+Iosepha,Jeanne,161
+Iosepha,Jeanne,162
+Grevens,Iosepha,162
+Jeanne,Pleyn,163
+Iosepha,Jeanne,163
+Thorning,hiin,171
+Thorning,Viggo,172
+Jeanne Tuyon,Viggo,172
+Jeanne Tuyon,Viggo,172
+Jeanne,Viggo,172
+Jeanne,Viggo,172
+Jeanne,Viggo,174
+Jeanne,Thorning,176
+Jeanne,Viggo,176
+Knud,Løvendahl,177
+Knud,Thorning,177
+Jeanne,Løvendahl,178
+Frøken Tuyon,Jeanne,181
+Gud,Løvendahl,183
+Knud,Viggo,185
+Greven,Thorvald,188
+Jeanne,Josephe,197
+Hersra,Jeanne,198
+Iosephe,Jeanne,205
+Iosephe,Jeanne,207
+Iosephe,Jeanne,208
+Iosephe,Jkke,211
+Iosephe,Jeanne,212
+Iosephe,Jeanne,212
+Iosephe,Jeanne,215
+Jeanne,Løvendahl,216
+Iosephe,Jeanne,216
+Løvendahl,Vien,219
+Jeanne,Vien,219
+Jeanne,Matthæus,219
+Frank,Tuyon,226
+Iosephe,Jeanne,231
+Iosephe,Jeanne,233
+Jeanne,Thorning,233
+Løvendahl,Thorning,233
+Iosephe,Løvendahl,233
+Jeanne,Thorning,236
+Jeanne,Thorning,241
+Jeanne,Thorning,241
+Jeanne,Tuyon,241
+Thorning,Tuyon,241
+Jeanne,Thorning,241
+Jeanne,Løvendahl,241
+Jeanne,Løvendahl,241
+Iosephe,Løvendahl,242
+Iosephe,Løvendahl,242
+Iosephe,Løvendahl,242
+Iosephe,Løvendahl,243
+Iosephe,Løvendahl,245
+Løvendahl,Thorning,249
+Greven,Josephe,251
+Gud,Josephe,253
+Josephe,Pleyn,256
+Jeanne,Josephe,266
+Jeanne,Josephe,268
+Jeanne,Josephe,269
+Jeanne,Josephe,272
+Iosephe,Jeanne,273
+Iosephe,Josephe,273
+Pleyn,ban,274
+Greven,ban,274
+Greven,Jeanne,274
+Alan,Jeanne,274
+Ariadnes,Løvendahl,276
+Ariadnes,Gud,276
+Gud,Jeanne,276
+Greven,Josephe,278
+Gud,Josephe,279
+Gud,Josephe,279
+Josephe,Ovcrvei,281
+Jeanne,Josephe,282
+Frank,Viggo,283
+Frank,Varning,283
+Varning,Viggo,283
+Frank,Viggo,283
+Frank,Viggo,283
+Frank,Viggo,287
+Frank,Thorning,289
+Frank,Viggo,290
+Jeanne,Luxus,292
+Frank,Frøken Tuyon,304
+Frank,Tu?,307
+Frank,Viggo,313
+Frank,Viggo,317
+Frank,Frank Theodor Jansen,318
+Frank Theodor Jansen,Jeanne Tuyon,318
+Adelaide,Tuyon,319
+Frank faug,Varning,320
+Nemesis,Viggo,322
+Frank,Gunder,323
+Betlersken,Gunder,327
+Frank,Madam Jansen,335
+Clleve,Madam Jansen,335
+Frank,Gunders Arie,341
+Frank,Gunder,348
+Frank,Gunder,350
+Gunder,Tø,351
+Gunder,Moer Jansen,353
+Frank,Gunder,355
+Frank,Gunder,355
+Gunder,Madam Jansen,361
+Frank,Gunder,361
+Frank,Gunder,362
+Frank,Gunder,362
+Frank,Gunder,363
+Frank,Jerres,366
+Herren,Jenner,370
+Jenner,Steffen,370
+Stefen,Vceds,372
+Vceds,lille Trine,372
+Steffen,lille Trine,372
+Itu,Steffen,372
+Itu,Stefen,372
+Gud,Stefen,372
+Frank,Gunder,373
+Frank,Gunder,373
+Frank,Gunder,373
+Frank,Viggo,373
+Gud,Jansen,380
+Betlersken,Saagu,382
+Jasken,Saagu,382
+Frank,Gunder,384
+Fontesant,Gunder,385
+Gunder,Madam Jansen,387
+Frank,Madam Jansen,387
+Frank,Gunder,387
+Frank,Vetlersken,392
+Frank,Gunder,397
+Betlersken,Frank,399
+Frank,Gunder,400
+Frank,Gunder,401
+BeUersken,Gunder,402
+Frank,Madam Jansen,407
+Frank,bønlig,407
+Frank,Gunder,411
+Betlersken,Frank,412
+Frank,Gunder,414
+Gunder,fil,414
+Gunder,Stephen,418
+Frank,Gunder,448
+Gud,Trine Jansen,449
+Frank,Gunder,452
+Frank,Gunder,452
+Frank,Gunder,452
+Frank,Gunder,453
+Fontesant,Hex,455
+Frank,Gunder,457
+Frank,læns,457
+dei,læns,457
+Frank,Gunder,458
+Frank,Herhid,458
+Frank,Gunder,460
+Frank,Gunder,460
+Frank,Gunder,460
+Frank,Gunder,461
+Frank,Gunder,462
+Frank,Gunder,464
+Frank,Varning,465
+Frank,Gunder,466
+Gunder,Moer Jansen,467
+Trine,Viggo Varning,469
+Trine,øg,469
+Lille Gunder,Volter,472
+Frank,Gunder,476
+Frank,Gunder,477
+Frank,Gunder,477
+Frank,Gunder,477
+Baronessens,Frank,478
+Frank,Jeanne,479
+Frank,Jeanne,480
+Frank,Viggo,481
+Frank,Gunder,481
+Frank,Gunder,481
+Frank,Sophaen,483
+Frank,Gud,490
+Fontesant,Jenner,506
+Fontesant,Jesus,507
+Fontesant,Jesus,507
+Fontesant,Jenner,507
+Fontesant,Jenner,508
+Jenner,Toure,508
+Jenner,Øe,515
+Gud,Jenner,516
+Gud,Jenner,518
+Frank,Jenner,519
+Frank,Frank Gunder,520
+Frank,Frank Penge,520
+Frank,Frank Penge,520
+Frank,Gunder,520
+Frank,Gunder,523
+Frank,Gunder,526
+Gunder,lille Frank,528
+Frank,Gunder,529
+Gunder,ban,529
+Frank,Gunder,533
+Frank,Gunder,534
+Gunder,eg,535
+Frank,Gunder,536
+Frank,Trine Jansen,539
+Kjæresten,Trine Jansen,539
+Frank,Gunder,540
+Frank,Gunder,540
+Frank,Gunder,542
+Gunder,Trine Jansen,542
+Knud Thorning,Trine Jansen,542
+Garre,Jmidlertid,545
+Garre,Jmidlertid,545
+Garre,Sille,546
+Garre,Sille,549
+Frue,Sille,549
+Garre,Sille,553
+Hviil,Sille,553
+Hviil,kanskee,553
+Garre,Sille,555
+Garre,Sille,555
+Garre,Tater,560
+Garre,Margrethe,561
+Garre,Margrethe,561
+Garre,Margrethe,563
+Garre,Margrethe,567
+Garre Afskeed,Margrethe ifærd,570
+Margrethe,Margrethe ifærd,570
+Garre,Margrethe,571
+Garre,Margrethe,574
+Garre,Tater,578
+Garre,Margrethe,579
+Frank,Knud Thorning,583
+Garre,Gunder,584
+Garre,Margrethe,584
+Frank,Gunder,585
+Hans,Jeanne,587
+Jeanne,Trine Jansen,587
+Jeanne,Trine Jansen,587
+Fontesant,Frank,588
+Fontesant,Frank,588
+Fontesant,Frank,588
+Frank,Jeanne,599
+Frank,Jeanne,599
+Frank,Jeanne,599
+Jeanne,Josephe,599
+Frank,Jeanne,601
+Frank,Sophaen,601
+Frank,Trine Jansen,602
+Frank,Trine,603
+Frank,Trine,608
+Frank,Jeanne,611
+Frank,Jeanne,611
+Jeanne,Jeanne steeg,612
+Jeanne,Roes,612
+Frank,Roes,612
+Frank,Jeanne,613
+Frank,Viggo,615
+Frank,Viggo,616
+Frank,Gunder,616
+Gunder,Viggo,616
+Trine Jansen,Varning,617
+Trine Jansen,Viggo,617
+Knud Thorning,Viggo,621
+Jeanne,Thorning,623
+Jeanne,Josephe,627
+Frank,Josephe,627
+Frank,Jeanne,627
+Frank,Jeanne,629
+Jeanne,Trine Jansen,632
+Jeanne,Thorning,635
+Frank,Jeanne,638
+Frank,Frøken Tuyon,639
+Thorning,Trine Jan jen,642
+Frank,Jeanne,643
+Frank,Frøken Tuyon,644
+Frøken Tuyon,Thorning,644
+Frank,Jeanne,646
+Frank,Jeanne,647
+Frank,Viggo,649
+Frank,Gylding,649
+Gylding,Jeanne,649
+Brink,Jeanne,649
+Brink,Gud,649
+Gud,Gylding,649
+Frank,Frøken Tuyon,650
+Frank,Gylding,653
+Gylding,Knud Thorning,653
+Frøken Tuyon,Thorning,655
+Frank,Gylding,656
+Frank,Viggo,657
+Brink,Mama,658
+Brink,Frøken Tuyon,658
+Gylding,Jeanne,659
+Jeanne,Løvendahl,659
+Frank,Løvendahl,659
+Frank,Jeanne,659
+Jacob,Trine,663
+Jacob,Trine,665
+Mogens Jansen,lille Trine,670
+Jacob,Trine,671
+Jacob,Trine,671
+Trine,askde,671
+Gud,askde,671
+Gud,Jacob,671
+Jacob,Trine,671
+Jacob,Trine,672
+Ane Vævers,Jacob,674
+Jacob,Trine,675
+Jacob,Jacob skreed,678
+Borgdorf,Jacob,681
+Jacob,ester,684
+Borgdorf,ester,684
+Adelaide,Jacob,685
+Adelaide,Fløiels,685
+Fløiels,huu,685
+Jacob,huu,685
+Adelaide,Jacob,685
+Adelaide,wm smi snq^,685
+lni,wm smi snq^,685
+Adelaide,Palleseu,689
+Schakkerjøder,ifjor,695
+Aagerkarle,Schakkerjøder,695
+Aagerkarle,Mutter,695
+Madam Pallesen,Madammen,696
+Madam,Pallesen,697
+Adelaide,Pallesen,699
+Adelaide,Pallesen,699
+Adelaide,Jacob,699
+Adelaide,Jacob,699
+Adelaide,Shavl,699
+Shavl,Sirtseskjole,699
+Sirtseskjole,jourhavende,699
+Jacob,Onsfers,701
+Adelaide,Jacob,703
+Adelaide,Jacob,703
+Jacob,Pallesen,703
+Jacob,Pallesen,703
+Adelaide,Jacob,703
+Adelaide,Lio,703
+Jacob,Lio,703
+Inger,Jacob,704
+Inger,Jacob,705
+Gud,Inger,705
+Gud,Jacob,705
+Jacob,Mogens,706
+Inger,Jakob,711
+Inger,Jakob,711
+Jakob,Mogens,711
+Jakob,Mogens,715
+Inger,Jakob,715
+Jakob,Mogens,717
+Jakob,Mogens,717
+Gud,Jakob,721
+Gud,Inger,721
+Gud,Inger,722
+Jakob,Mogens,723
+Adelaide,Jakob,725
+Adelaide,Gud,725
+Adelaide,Jakob,728
+Adelaide,Jakob,728
+Adelaide,Jakob,729
+Jakob,Jakob Lange,732
+Adelaide,Jakob,732
+Jakob,Jonas,733
+Adelaide,Jakob,734
+Graad,Jakob,734
+Inger,Jakob,736
+Inger,lille Inger,736
+Adelaide,Jakob,737
+Adelaide,Jakob,738
+Adelaide,Jakob,738
+Adelaide,lille Inger,739
+Adelaide,Jakob,739
+Adelaide,Jakob,739
+Adelaide,Jakob,739
+Adelaide,Jakob,739
+Jeanne Tuyon,Trine Jansen,740
+Gunder,Trine Jansen,740
+Frank,Gunder,740
+Gunder,Janes,742
+Gunder,Janes,744
+Gunder,Jane,745
+August,Gunder,748
+August,Madam Lange,750
+August,Gunder,751
+August,Madam Jansen,751
+Augusf,Madam Jansen,751
+Betlerkonen,Karl,753
+Jane,Madam,754
+Gunder,Madam Jansen,758
+Jane,lille Gunder,759
+August,Gunder,760
+August,Madam Jansen,760
+Gunder,Jane,761
+Knud Thorning,Løvendahl,764
+Brink,Knud,765
+Brink,Tuyon,765
+Gylding,Tuyon,765
+Frank,Gylding,765
+Thorning,Trine Jansen,766
+Gunder,Løvendahl,771
+Jane,Løvendahl,772
+Jane,Løvendahl,772
+Gunder,Jane,772
+Gunder,Jane,772
+Jane,lille Løvendahl,774
+Gunder,Jane,775
+Gunder,Løvendahl,776
+Gunder,Løvendahl,777
+Gunder,Jane,778
+Grev Løvenoahl,Gunder,779
+Jane,Lbvendahl,784
+Frank,Jeanne Tuyon,785
+Frank,Løvendahl,785
+Gunder,Hr. Greve,786
+Frank,Jane,788
+Gunder,Jesus,790
+Frank,Greven,791
+Jane,Løvendahl,792
+Frank,Greven,794
+Frank,Løvendahl,794
+Frank,Jeanne,795
+Frank,Thorning,795
+Frøken Tuyon,Gud,801
+Jane,Løvendahl,802
+Jane,Jeanne Tuyon,802
+Jane,Løvendahl,803
+Liimstangen,Løvendahl,804
+Frank,Frøken Tuyon,805
+Frank,Gud,806
+Jane,Løvendahl,807
+Gunder,Jeanne,808
+Frank,Gunder,808
+Frank,Jeanne,808
+Jeanne,Thorning,809
+Jeanne,Thorning,812
+Ipuendahl,Jeanne,813
+Gunder,Ipuendahl,813
+Adelaide,glands,814
+Jeanne,glands,814
+Adelaide,Jeanne,814
+Jeanne,Thorning,822
+Gunder,Jeanne,823
+Gunder,Jeanne,823
+Frank,Jeanne,823
+Frank,Thorning,823
+Adelaide,Thorning,823
+Adelaide,Jeanne,823
+Jeanne,Thorning,823
+Adelaide,Jeanne,824
+Brink,Løvendahl,827
+Graad,Jeanne,832
+Jeanne,Thorning,833
+Jeanne,Thorning,835
+Frank,Jeanne,838
+Jeanne,Thorning,839
+Jeanne,Thorning,841
+Jeanne,Thorning,841
+Frank,Varning,843
+Tuyon,Varning,843
+Frank,Gylding,849
+Frank,Laura,855
+Frank,Gylding,858
+Frank,Laura,861
+Frank,Gunder,864
+Frank,Gunder,865
+Frank,Gunder,865
+Frank,Gunder,865
+Frank,Gunder,865
+Frank,Gunder,866
+Frank,Jeanne Tuyon,867
+Frank steeg,Laura,869
+Frank,Gunder,871
+Frank,Gunder,874
+Frank,Gylding,875
+Frank,Gunder,880
+Frank,Gunder,880
+Frank Gunder,Gunder,882
+Gunder,Sopha,883
+Frank,Gunder,884
+Frank,Gunder,889
+Frøken Pleyn,Josephe,895
+Josephe,Løvendahl,895
+Løvendahl,Sophaen,895
+Frank,Gunder,898
+Frank,Gunder,898
+Frank,Gunder,898
+Gunder,Trine Jansen,899
+Frank,Trine Jansen,899
+Gud,Gunder,904
+Frank,Gud,904
+Ieg,Trine,905
+Frank,Gunder,907
+Frank,Gunder,908
+Ask,Frank,911
+Fontesant,Trine Jansen,912
+Captain Jenner,Fontesant,912
+Captain Jenner,Fontesant,912
+Fontesant,Trine,912
+Frank,Gunder,914
+Fontesant,Frank,914
+Fontesant,reifes,914
+Frank,reifes,914
+Frank,Gunder,915
+Frank,Gunder,915
+Frank,Gunder,915
+Frank,Gunder,915
+Frank,Gunder,918
+Frank,Gunder,920
+Frank,Gunder,921
+Frank,Gunder,921
+Gud,Trine Jansen,922
+Frank,Gunder,923
+Frank,Gunder,924
+Frank,Gunder,924
+Betlerstens,Gunder,925
+Gunder,Trine itale,925
+Frank,Gunder,930
+Frank,Gunder,931
+Frank,Frøken Tuyon,933
+Frank,Gunder,934
+Frank,Gunder,936
+Frank,Gunder,937
+Frank,Gunder,941
+Frank,Gunder,944
+Frank,Gunder,945
+Iosephe,hnn,949
+Josephe,Løvendahl,951
+Løvendahl,sorn,952
+Frøken Tuyon,Josephe,957
+Josephe,Løvendahl,958
+Løvendahl,taus,962
+Iosephe,Løvendahl,968
+Jeanne Tuyon,Varning,974
+Adelaide,Jeanne,975
+Jeanne,Varning,976
+Adelaide,Jeanne,978
+Adelaide,Jeanne,978
+Jeanne,sor Kristine,978
+Julie,sor Kristine,978
+Julie,Kristine,979
+Jeanne,Kristine,980
+Jeanne,Julie,981
+Jeanne,Julie,982
+Jeanne,Julie,982
+Jeanne,Kristine,984
+Jeanne,Jeanne^,984
+Brink,Jeanne,986
+Frøken Tuyon,Pleyn,991
+Jeanne,Løvendahl,994
+Jeanne,Mama,994
+Etatsraadinde Varning,Jeanne,995
+Jeanne,Løvendahl,996
+Grev Løvendahl,Løvendahl,996
+Jeanne,paany,998
+Jeanne,Josephe,998
+Grev Løvendahl,Jeanne,999
+Josephe,Løvendahl,1000
+Alexanders,Jeanne,1001
+Iosephe,Jeanne,1005
+Gunder,Kristine Lange,1006
+Bang,Kristine,1007
+Bang,Gud,1007
+Bang,Kristine,1009
+Kristine,lille Kristine,1010
+Froken Tuyon,Kristine,1012
+Jeanne,Josephe,1013
+Iosephe,Jeanne,1014
+Gud,Jeanne,1015
+Jeanne,Josephe,1015
+Iosephe,Josephe,1015
+Iosephe,Jeanne,1016
+Iosephe,Løvendahl,1016
+Gunder,das,1018
+Eierinden,Gunder,1020
+Gunder,Jeanne,1023
+Jeanne,Josephe,1023
+Gud,Gunder,1027
+Gunder,Jgrunden,1033
+Fontesant,Gunder,1034
+Gud,Gunder,1040
+Jeanne,Josephe,1045
+Jeanne,Josephe,1045
+Jeanne,Josephe,1045
+Jeanne,Josephe,1050
+Borgdorf,Naades,1059
+Adelaide,Borgdorf,1059
+Jeanne,Thorning,1060
+Jeanne,Thorning,1062
+Jeanne,Thorning,1062
+Greven,Løvendahl,1063
+Greven,Gunder,1063
+Gunder,freidig,1063
+Gunder,Løvendahl,1064
+Gunder,Løvendahl,1064
+Gunder,Jane,1064
+Gunder,Jane,1066
+Jane,Knnd Thorning,1074
+Knnd Thorning,Løvendahl,1074
+Gunder,Løvendahl,1074
+Greven,Iosephe,1075
+Gunder,Iosephe,1075
+Gunder,Løvendahl,1077
+Gunder,Løvendahl,1082
+Gunder,Jeanne Tuyon,1084
+Gunder,Thorning,1089
+Gunder,Thorning,1091
+Løvendahl,Thorning,1095
+Baronesse Tuyons,Thorning,1095
+Gunder taug,Thorning,1099
+Gunder,Gunder taug,1099
+Gunder,Herr Thorning,1100
+Frøken Tuyon,Herr Thorning,1100
+Baronessens,Frank,1101
+Baronessens,Thorning,1101
+Gunder,Thorning,1101
+Greven,Thorning,1104
+Greven,Varning,1104
+Gunder,Thorning,1105
+Gud,Gunder,1106
+Løvendahl,Thorning,1107
+Gud,Gunder,1108
+Frank,Gunder,1108
+Thorning,Varning,1109
+Løvendahl,Thorning,1109
+Frank,Gunder,1114
+Baronesses,Frank,1114
+Hcefte,Varning,1116
+Frank,Hcefte,1116
+Frank,Gunder,1116
+Frank,Varning,1118
+Frank,Thorning,1118
+Løvendahl,Thorning,1118
+Frank,Laura,1124
+Fnnk,Laura,1124
+Fnnk,Frank,1124
+Frank,Laura,1126
+Frank,Laura,1126
+Frank,Viggo Varning,1127
+Frank,Viggo Varning,1127
+Frank,Laura,1128
+Laura,Viggo,1128
+Knud Thorning,Viggo,1131
+Gunder,Knud Thorning,1131
+Frank,Funk,1132
+Funk,Viggo,1132
+Frank,Viggo,1132
+Frank,Viggo,1133
+Funk,Viggo,1133
+Frank,Funk,1135
+Frank,Viggo,1138
+Knud,Viggo,1140
+Knud,Løvendahl,1140
+Frank,Viggo,1146
+Frank,priisgiven,1147
+Greven,Jomfru Vilding,1151
+Bauta,Roes,1156
+Andrea,Viggo,1157
+Frank,Viggo,1157
+Greven,Skjelmsmester,1162
+Iosephe,sonl,1170
+Andrea,Iosephe,1171
+Andrea,Iosephe,1171
+Andrea,Iosephe,1171
+Iosephe,Josephe,1171
+Andrea,Josephe,1171
+Andrea,Josephe,1171
+Grev Løvendahl,Josephe,1174
+Josephe,Løvendahl,1177
+Løvendahl,Pleyn,1177
+Andrea,Iosephe,1178
+Andrea,Thee,1178
+Andrea,Thee,1178
+Andrea,Hr. Greve,1179
+Iosephe,gracieus,1180
+Frøken Iosephes,Grev Løvendahl,1185
+Andrea,Pleyn,1188
+Andrea,Greven,1190
+Froken Josephe,Grev Løvendahl,1191
+Andrea,Greven,1192
+Andrea,Josephe,1192
+Greven,Løvendahl,1193
+Andrea,Josephe,1195
+Iosephe,Josephe,1195
+Iosephe,Løvendahl,1195
+Iosephe,Løvendahl,1195
+Andrea,Pleyn,1196
+Frank,Gunder,1203
+Frank,Grev Løvendahl,1205
+Jesus,Jomfru Didriksen,1213
+Fontesant,Gunder,1218
+Fontesant,Gunder,1222
+Jeanne Tuyon,Kristine,1233
+Julie,Kristine,1233
+Søren Kjerkegaard,Thorning,1235
+Jeanne,Thorning,1235
+Eden,Jeanne,1236
+Jeanne,Thorning,1238
+Jeanne,Thorning,1239
+Cistrnmci oci Sommer,Jeanne,1239
+Jeanne,Thorning,1241
+August,Thorning,1243
+August,Christines,1243
+Christines,Julie,1243
+Jeanne,Julie,1243
+Jeanne,Thorning,1244
+Ore,Thorning,1245
+Flasfen,Gunder,1247
+Frank,lille Gunder,1248
+Frank,Gunder,1251
+Frank,Gunder,1252
+Frank,Gunder,1252
+Frank,Gunder,1254
+Gud,Gunder,1258
+Grev Lødendahl,Gunder,1258
+Frank,Grev Lødendahl,1258
+Frank,Gunder,1260
+Frank,Gunder,1262
+Fontesant,Frank,1268
+Baronesse Tuyon,Capitain Jenner,1271
+Frank,Hersk,1275
+Grev Løvendahl,Gunder,1276
+Gunder,Jæg,1277
+Frank,Jæg,1280
+Frank,Gud,1280
+Frank,Gunder,1285
+Gunder,Riis,1285
+Frank,Gunder,1286
+Frank steeg,Gunder,1292
+Frank,Gunder,1293
+Frank,Gunder,1296
+Frank,Gunder,1298
+Frank,Gunder,1299
+Gunder,Ingres,1302
+Frank,Gunder,1302
+Frank,Gunder,1303
+Frank,Gunder,1308
+Frank,Gunder,1314
+Frank,Gunder,1315
+Frank Tateren,Gunder,1325
+Frank Tateren,Gunder,1325
+Gunder,Steile,1325
+Augusf,Gunder,1330
+Frank,Gunder,1330
+Augusf,Luur,1334
+Ore,tys,1337
+Frank,Gunder,1338
+Frank,Gunder,1341
+Frank,Gunder,1346
+Augusf,Fontesant,1351
+Fontesant,Thorning,1353
+Fontesant,Madame Jansen,1353
+Madame Jansen,Thorning,1353
+Fontesant,Thorning,1356
+Fontesant,Thorning,1357
+Fontesant,Thorning,1370
+Fontesant,Frank,1375
+Frank,Gunder,1375
+Fontesant,Trine Jansen,1376
+Fontesant,Gud,1377
+Hr. Capitain,Villie,1379
+Frank,Hr. Capitain,1379
+Thorning,Trine,1383
+Hr. Jcnncrs,Jenner,1389
+Fatter,Jenner,1389
+August,Frank,1391
+August,Jenner,1391
+Frank,Jenner,1391
+Frank,Tuyon,1391
+Gunder,Trine Jansen,1394
+Frank,Gunder,1397
+Frank,Gunder,1397
+Frank,Thorning,1398
+Løvendahl,Thorning,1398
+Løvendahl,Tuyon,1398
+Tesfamente,Tuyon,1398
+Gunder,Thorning,1400
+Gud,Hr. Thorning,1401
+Fontesant,Frank,1402
+Frank,Gunder,1403
+Gunder,Hundeklippercn,1404
+Frank,Gunder,1405
+Frank,Gunder,1406
+Frank,Gunder,1409
+Fontesant,Gunder,1418
+Fontesant,Gunder,1421
+Frank,Gud,1422
+Fontesant,Gunder,1425
+Frank,Gunder,1429
+Frank,Frank hiin,1429
+Frank hiin,Viggo Varning,1429
+Frank,Laura,1431
+Frank,Gylding,1431
+Laura,Priis,1432
+Frank,Laura,1434
+Gylding,Laura,1434
+Gylding,Laura,1434
+Frank,Laura,1434
+Frank,Gylding,1434
+Frank,Gylding,1435
+Gylding,Laura,1436
+Frank,Funk,1437
+Funk,Laura,1437
+Frank,Laura,1437
+Gylding,Laura,1439
+Frank,Gylding,1440
+Gylding,Laura,1440
+Frank,Funk,1441
+Frank,Gud,1444
+Frank,Gunder,1446
+Frank roe,Gunder,1446
+Frank,Frank roe,1446
+Frank,Gunder,1446
+Frank,Gunder,1446
+Frank,Josephe,1448
+Frank,Gunder,1449
+Frank,Gunder,1451
+Frank,Gunder,1451
+Frank,Gud,1453
+Gunder,iland,1454
+Frank,Gunder,1455
+Frank,Gunder,1458
+Fontesant,Gunder,1459
+Frank,Gunder,1462
+Frank,Gunder,1463
+Frank sfar,Gunder,1464
+Gunder,roe,1464
+Gud,Gunder,1465
+Frank,Gunder,1467
+Frank,Gunder,1472
+Frank,Gunder,1473
+Frank,Gunder,1475
+Gunder,Janok,1479
+Frank,Gunder,1480
+Frank,Gunder,1481
+Frank,Gunder,1484
+Frank,Gunder,1484
+Iosephe,Saffians,1485
+Iosephe,Kaminildcn,1487
+Alexander,Kaminildcn,1487
+Iosephe,Løvendahl,1488
+Løvendahl,beoste,1488
+Josephe,Løvendalhs,1491
+Alexander,Løvendalhs,1491
+Greven,Josephe,1498
+Gunder,Josephe,1501
+Frank,Gunder,1501
+Frank,Gunder,1504
+Frank,Gunder,1505
+Frank,Gunder,1505
+Fontesant,Jenner,1506
+Fontesant onsfer,Gunder,1507
+Frank,Gunder,1510
+Frank,Gunder,1510
+Frank,Priis,1511
+Frank,Priis,1511
+Frank,Gunder,1511
+Frank,Gunder,1512
+Frank,Ore,1512
+Frank,Gunder,1513
+Frank,Gunder,1513
+Frank,Gunder,1513
+Frank,Gunder,1513
+Frank,Gunder,1513
+Frank,Gunder,1513
+Frank,h?,1513
+h?,m,1513
+Frank,Gunder,1516
+Frank,Gunder,1517
+Frank,Gunder,1517
+Frank,Gunder,1517
+Frank,Gunder,1517
+Frank,Gunder,1518
+Frank,Gunder,1521
+Frank,Gunder,1521
+Frank,Gunder,1525
+Frank,Gunder,1525
+Frank,Gunder,1525
+Frank,Gunder,1526
+Frank,Tøndcn,1526
+Frank,Gunder,1527
+Frank,Gunder,1527
+Frank,Gunder,1527
+Frank,Gunder,1529
+Frank,Gunder,1530
+Frank,Gunder,1530
+Frank,Gunder^Frank,1530
+Frank,Gunder^Frank,1530
+Frank,Gunder,1532
+Frank,Maanelys,1534
+Frank,Gunder,1534
+Frank,Gunder,1536
+Frank,Gunder,1536
+Frank,Gunder,1536
+Frank,Gunder,1537
+Grev Pleyn,Iosephe,1542
+Iosephe,Løvendahl,1544
+Iaffes,hvidskede,1545
+Iosephe,Løvendahl,1546
+Greven,Iosephe,1547
+Greven,Iosephe,1549
+Alexander,Iosephe,1551
+Jeanne,Thorning,1552
+Fontesant,Josephe,1557
+Jeanne,Thorning,1558

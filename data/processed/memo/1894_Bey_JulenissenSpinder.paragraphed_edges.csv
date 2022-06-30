@@ -1,0 +1,53 @@
+source,target,type,weight
+Jomfru Marie,Peter,Undirected,1
+Bob,Xawer,Undirected,10
+Bob,Bob Nielsen,Undirected,1
+Bob Nielsen,Thalias,Undirected,1
+Eaget Bob Nielsen,Xawer,Undirected,1
+Nielsen,Xawer,Undirected,18
+Xawer,Xawer Petersen,Undirected,1
+Mikadoen,Thalias,Undirected,1
+Bob,gaai1,Undirected,1
+Klaus,Nielsen,Undirected,1
+Bob Nielsen,Xawer,Undirected,7
+Nielsen,lille Frue,Undirected,1
+Bob Nielsen,lille Frue,Undirected,1
+Carl den Store,Nielsen,Undirected,1
+Bob,Nielsen,Undirected,4
+Alfredens,Bob,Undirected,1
+Bob,jærnhaard,Undirected,1
+Beethoven,Xawer,Undirected,1
+Beethoven,Chopin,Undirected,1
+Chopin,Xawer,Undirected,1
+Mette me,Nielsen,Undirected,1
+Nielsen,Stines,Undirected,1
+Bob,Marie,Undirected,1
+Bob,Gud,Undirected,1
+Nielsen,Stine,Undirected,1
+Nielsen,nasrmere,Undirected,1
+Bob Nielsen,Stine,Undirected,1
+Frick,Hille,Undirected,1
+Christensens,Polér-Jens,Undirected,1
+Polér-Jens,liam,Undirected,1
+Christensen,Polér-Jens,Undirected,1
+Herren,liam,Undirected,1
+Christensen,Herren,Undirected,1
+Vaas,lian,Undirected,1
+Krissian,Poul,Undirected,1
+Christian,Poul,Undirected,2
+Jørgen,Poul,Undirected,1
+Jørgen,Peter,Undirected,1
+Rudolf,do,Undirected,1
+Albertine,Jonna,Undirected,15
+Mama,Papa,Undirected,2
+Jonna,Mama,Undirected,1
+Albertine,Carl,Undirected,4
+Carl,Jonna,Undirected,2
+Albertine,Papa,Undirected,1
+Carl,liam,Undirected,2
+Gud,Hampert,Undirected,1
+Albertine,Rampert,Undirected,1
+Jonna,Rampert,Undirected,3
+Albertine,dei-,Undirected,1
+Gud,Jonna,Undirected,2
+Jonna,Papa,Undirected,1

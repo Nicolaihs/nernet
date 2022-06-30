@@ -1,0 +1,913 @@
+source,target,timestamp
+Karl,Margrete,9
+Herman,Margrete,14
+Karlen,Margrete,20
+Margrete,Niels,27
+Herman,Margrete,36
+Herman,Otto,38
+Margrete,Otto,39
+Herman,Margrete,39
+Lierman,Margrete,40
+Liun,Margrete,41
+Herman,Margrete,41
+Herman,Margrete,41
+Herman,Margrete,43
+Herman,Margrete,45
+Herman Thorsen,haln,47
+Herman Thorsen,Margrete,47
+Lars,Per Sørens,53
+Anna,Margrete,60
+Herman,Karl,61
+Anna,Margrete,63
+Anna,Margrete,67
+Anna,Margrete,67
+Herman,Margrete,67
+Karl,Margrete,70
+Anna,Margrete,73
+Anna,Margrete,74
+Anna,Margrete,79
+Anna,Margrete,80
+Anna,Margrete,80
+Herman,Margrete,81
+Anna,Margrete,85
+Alexander Lichtenfeldt,Margrete,87
+Maxime,Talleyrands,92
+Gustav Lichtenfeldt,Henrik Lichtenfeldt,94
+Anna,Margrete,99
+Margrete,taalmodig,104
+Knudsen,Margrete,107
+Anna,Knudsen,107
+Hansen,Lorentzen,117
+Hansen,Lorentzen,119
+Margrete,Sparre,122
+Louise,Margrete,122
+Frøken Thorsen,Louise,122
+Frøken Thorsen,Margrete,122
+Louise Lichtenfeldt,Margrete,124
+Herman,Margrete,124
+Anna,Margrete,128
+Hansen,Margrete,128
+Hansen,Lorentzen,128
+Anna,Margrete,131
+Anna,Herman,131
+Carl Lorentzen,Herman,131
+Carl Lorentzen,Margrete,131
+Anna,Margrete,131
+Anna,Carl,131
+Anna,Carl,131
+Anna,Margrete,131
+Herman,Margrete,131
+Anna,Margrete,132
+Anna,Margrete,133
+Anna,Margrete,134
+Anna,Carl Lorentzen,134
+Carl Lorentzen,Herman,134
+Herman,Margrete,134
+Anna,Margrete,134
+Margrete,Marley,135
+Marley,Miss Anna,135
+Margrete,Miss Anna,135
+Carl udvexle,Herman,136
+Anna,Margrete,137
+Anna,Margrete,137
+Mine,Tante Mine,139
+Frøken Holm,Tante Mine,139
+Carl,Herman,141
+Carl,Margrete,141
+Flan,Hr. Svendsen,143
+Bjørnsons,Carl,144
+Carl,Herman,144
+Herman,Svendsen,144
+Herman,Svendsen,147
+Herman,Oehlenschlæger,148
+Helge,Oehlenschlæger,149
+Carl Lorentzen,henrive,150
+Herman,Svendsen,151
+Anna,Herman,157
+Anna,Margrete,157
+Herman,Margrete,157
+Herman,Svendsen,157
+Frøken Holm,Margrete,158
+Margrete,Svendsen,158
+Herman,Mine,159
+Frøken Holm,Herman,161
+Carl,Herman,161
+Herman,Margrete,162
+Anna,Margrete,162
+Anna,Herman,162
+Frøken Holm,Mine,163
+Carl Lorentzen,Frøken Holm,163
+Herman,Margrete,164
+Margrete,Svendsen,164
+Carl,Herman,167
+Herman,Patristicum,168
+Herman,Margrete,169
+Herman,Margrete,170
+Herman,Margrete,171
+Herman,Svendsen,176
+Margrete,Svendsen,176
+Carl Lorentzen,Herman,177
+Herman,Svendsen,177
+Flan,Herman,178
+Carl Lorentzen,Herman,185
+Anna,Margrete,188
+Herman,Lichtenfeldt,191
+Herman Thorsen,Lichtenfeldt,191
+Carl,Herman,192
+Herman,Margrete,197
+Carl,Herman,208
+Carl,Herman,210
+Anna,Herman,212
+Herman,Margrete,216
+Carl,Herman,217
+Carl,Herman,218
+Anna,Herman,222
+Carl,Svendsen,224
+Herman,Svendsen,225
+Herman,Svendsen,225
+Herman,Margrete,225
+Margrete,Svendsen,226
+Herman,Svendsen,227
+Herman,Margrete,228
+Herman,Svendsen,229
+Herman,Lorentzen,229
+Lorentzen,Margrete,229
+Herman,Margrete,229
+Herman,Svendsen,229
+Herman,Svendsen,229
+Lorentzen,Svendsen,230
+Herman,Svendsen,233
+Herman,Svendsen,234
+Flerman,Svendsen,235
+Herman,Svendsen,236
+Herman,Svendsen,237
+Herman,Svendsen,240
+Herman,Svendsen,243
+Herman,Svendsen,244
+Herman,Svendsen,245
+Herman,Svendsen,252
+Herman,Margrete,262
+Herman,Margrete,264
+Margrete,Otto,265
+Anna,Margrete,268
+Anna,Margrete,270
+Anna,Margrete,275
+Anna,Margrete,276
+Herman,Lars,282
+Lorentzen,Margrete,284
+Herman,Margrete,294
+Anna,Margrete,295
+Anna,Herman,295
+Anna,Mozart,297
+Anna,Margrete,298
+Anna,Margrete,299
+Anna,Margrete,302
+Lorentzen,Margrete,302
+Herman,Lorentzen,302
+Anna,Margrete,303
+Carl Lorentzen,Herman,311
+Carl Lorentzen,Herman,315
+Falk,Herman,317
+Falk,Mine,317
+Frøken Holm,Herman,322
+Edvard,Herman,322
+Anna Lorentzen,Herman,326
+Falk,Herman,330
+Herman,Margrete Thorsen,330
+Edvard,Margrete Thorsen,330
+Edvard,Lykke,330
+Falk,Frøken Holm,331
+Frøken Holm,Herman,331
+Falk,Margrete Thorsen,332
+Edvard,Frøken Holm,336
+Edvard,Frøken Holm,336
+Falk,Holm,337
+Frøken Holm,Mine,347
+Edvard,Herman,348
+Falk,Herman,351
+Falk,Herman,353
+Herman,Løjtenanten,357
+Herman,Mine,357
+Falk,Herman,358
+Frøken Holm,Herman,361
+Falk,Herman,362
+Falk,Herman,364
+Falk,Herman,365
+Falk,Herman,367
+Falk,Herman,368
+Carl Lorentzen,Herman,370
+Carl Lorentzen,Herman Thorsen,370
+Anna,Margrete,378
+Anna,Margrete,378
+Agathe,Griller,381
+Anna,Griller,381
+Anna,Margrete,381
+Anna,Griller,382
+Griller,Margrete,382
+Anna,Margrete,383
+Anna,Margrete,386
+Anna,Lund,389
+Lund,Margrete,389
+Anna,Margrete,389
+Anna,Margrete,393
+Anna,Margrete,397
+Anna,Margrete,398
+Anna,lille Margrete,399
+Anna,Margrete,400
+Anna,Lars,402
+Anna,Lorentzen Margrete,404
+Anna,Margrete,406
+"D.,k",oren,409
+Lal,nan,410
+Anna,Margrete,416
+Anna,Margrete,416
+Anna,Lund,422
+Anna,Margrete,428
+Carl Lorentzen,Herman,429
+Anna,Herman,429
+Anna,Margrete,429
+Anna,Herman,430
+Anna,Herman,430
+Herman,Lorentzen,430
+Carl,Herman,432
+Carl,Herman,432
+Herman,Margrete,438
+Herman,Margrete,438
+Herman,Margrete,438
+Herman,hin Kerberus,438
+Herman,hin Kerberus,438
+Carl Lorentzen,Herman,438
+Carl Lorentzen,Margrete,438
+Margrete,Nimbus,447
+Margrete,Nimbus,447
+Carl Lorentzen,Herman,450
+Carl,Herman,451
+Carl,Herman,451
+Herman,Margrete,451
+Margrete,eg,453
+Herman,eg,453
+Herman,Margrete,455
+Carl Lorentzen,Margrete,458
+Herman,Margrete,459
+Herman,Margrete,461
+Carl,Herman,461
+Carl,Herman,461
+Anna,Lund,463
+Herman,Margrete,465
+Anna,Margrete,465
+Lorentzen,Marquis de Latour,467
+Marquis de Latour,Marqui’,467
+Hortense,Marqui’,467
+Hortense,Latour,467
+Latour,Marquis,467
+Hortense,Marquis de Latour,468
+Lichtenfeldt,Marqui,469
+Holbygaards,Hortense,470
+Hortense,Louise Lichtenfeldt,472
+Frøken Lichtenfeldt,Hortense,473
+Anna,Lorentzen,475
+Anna,Margrete,475
+Frøken Thorsen,Margrete,476
+Frøken Thorsen,Hortense,476
+Frøken Thorsen,Hortense,476
+Hortense,Margrete,477
+Hortense,Margrete,477
+Hortense,Margrete,478
+Holbygaards,Thorsen,479
+Lorentzen,Thorsen,479
+Hortense,Margrete,480
+Hortense,Margrete,482
+Hortense,Margrete,485
+Hortense,Margrete,486
+Henrik Lichtenfeldt,Margrete,487
+Hortense,Lisette,488
+Hortense,Margrete,490
+Lisette,Margrete,491
+Hortense,Margrete,492
+Lund,Margrete,492
+Margrete,Marqui,495
+Lisette,Margrete,495
+Lisette,Margrete,495
+Carl Lorentzen,Herman,496
+Herman,bleve,496
+Louise Lichtenfeldt,bleve,496
+Louise Lichtenfeldt,Margrete,496
+Carl,Herman,499
+Carl,Flun,500
+Carl,Hortense,500
+Herman,Margrete,501
+Flerman,Herman,504
+Hortense,Lichtenfeldt,507
+Hortense,Margrete Thorsen,507
+Herman,Margrete Thorsen,507
+Hortense,Margrete,509
+Louise Lichtenfeldt,Margrete,509
+Hortense,Margrete,510
+Hortense,Margrete,511
+Hortense,Margrete,511
+Hortense,Margrete,512
+Henrik Lichtenfeldt,Margrete,513
+Hortense,Margrete,519
+Frøken Lichtenfeldt,Margrete,522
+Lorentzen,Margrete,524
+Hortense,Lorentzen,524
+Hortense,Margrete,524
+Frøken Thorsen,Hortense,525
+Hortense,Margrete,526
+Hortense,Margrete,534
+Hortense,Zola,534
+Balzac,Zola,534
+Hortense,Margrete,536
+Garibaldis,Hortense,538
+Hortense,Margrete,542
+Hortense,Margrete,544
+Hortense,Margrete,546
+Hortense,Margrete,548
+Hortense,Margrete,548
+Hortense,Margrete,549
+Hortense,quis de Latour,549
+Lund,Marquions,550
+Hortense,Marquions,550
+Hortense,Kjøren,550
+Kjøren,Margrete,550
+Margrete,Marqui,550
+Komtessen,Margrete,552
+Komtessen,Margrete,552
+Hortense,Margrete,552
+Hortense,Margrete,553
+Hortense,Margrete,555
+Hortense,Margrete,557
+Anna,Hortense,560
+Anna,Hortense,560
+Lund,Margrete,561
+Margrete,Plougs,561
+.Margrete,Tetid,565
+Iverson,Svendsen,574
+Amen,Svendsen,576
+Jor ham,Svendsen,581
+Herman,Svendsen,585
+Herman,Svendsen,588
+Herman,Svendsen,589
+Herman,Svendsen,590
+Margrete,Svendsen,590
+Anna,Margrete,590
+Carl Lorentzen,Svendsen,594
+Carl Lorentzen,Herman Thorsen,594
+Falk,Varpetoug,595
+Edvard,Margrete Thorsen,596
+Edvard Falk,Magretes,599
+Falk,Tante,601
+Herman Thorsen,Svendsen,602
+Herman,Svendsen,604
+Edvard Falk,Henrik,606
+Else«,Henrik,606
+Else«,Margrete,606
+Frøken Holm,Margrete,606
+Frøken Holm,Mine,606
+Falk,Svendsen,607
+Falk,Frøken Holm,607
+Margrete,Svendsen,608
+Falk,Margrete,608
+Falk,Svendsen,608
+Mine,Svendsen,608
+Mine,Victor Hugo,608
+Alfred de,Victor Hugo,608
+Herman,Svene’,609
+Herman,Svendsen,609
+Edvard Falk,Margrete,610
+Edvard Falk,Margrete,612
+Edvard Falk,Margrete,612
+Herman,Margrete,612
+Frøken Holm,Margrete,613
+Herman,Margrete,619
+Herman,Margrete,620
+Herman,Margrete,621
+Margrete,Marstrands,621
+Herman,Myrten,623
+Margrete,Myrten,623
+Herman,Margrete,624
+Kristi,Margrete,625
+Herman,Margrete,625
+Herman,Margrete,633
+Herman,Margrete,636
+Herman,Margrete,637
+Herman,Margrete,638
+Herman,Margrete,639
+Herman,Margrete,640
+Herman,Margrete,641
+Herman,Margrete,643
+Herman,Margrete,644
+Herman,Margrete,647
+Herman,Margrete,651
+Herman,Margrete,652
+Herman,Margrete,652
+Herman,Margrete,657
+Herman,Margrete,658
+Herman,Margrete,659
+Herman,Margrete,659
+Herman,Margrete,659
+Margrete,Mine,660
+Edvard Falk,Margrete,662
+Margrete,Tante Mine,664
+Falk,Margrete,664
+Falk,Margrete,664
+Falk,Margrete,665
+Frøken Holm,Margrete,672
+Herman,Margrete,673
+Herman,Margrete,675
+Frøken Holm,Margrete,677
+Edvard Falk,Frederik den Ote,683
+Betty,Jens,684
+Betty,Jens,684
+Betty,Edvard,687
+Edvard Falk,Margrete,688
+Falk,Margrete,688
+Anna,Margrete,690
+Anna,Lund,691
+Carl Lorentzen,Lund,693
+Carl,Carl Lorentzen,693
+Anna,Herman,694
+Anna,Lars,696
+Anna,Lars,696
+Lars,Lorentzen,697
+Lars,Lorentzen,697
+Anna,Margrete,699
+Anna,Margrete,699
+Edvard Falk,Margrete,701
+Anna,Herman,704
+Margrete,kjære,707
+Herman,Herman Thorsen,709
+Herman,Margrete,713
+Herman,Margrete,717
+Herman,Margrete,722
+Herman,Margrete,724
+Herman,Margrete,728
+Herman,Margrete,731
+Herman,Margrete,731
+Herman,Margrete,736
+Frøken Holm,Margrete,738
+Herman,Margrete,740
+Herman,Margrete,740
+Herman,Margrete skulde,740
+Herman,Margrete,742
+Herman,Margrete,742
+Frøken Holm,Margrete,743
+Margrete,Mine,743
+Margrete,Mine,743
+Frøken Holm,Margrete,747
+Herman,Margrete,755
+Frøken Holm,Herman,755
+Frøken Holm,Svendsen,755
+Louise Lichtenfeldt,Svendsen,755
+Louise Lichtenfeldt,Mine,755
+Edvard Falk,Mine,755
+Edvard Falk,Margrete,756
+Edvard Falk,Frøken Holm,756
+Frøken Holm,Margrete,756
+Frøken Holm,Margrete,757
+Edvard Falk,Margrete,759
+Frøken Holm,Margrete,760
+Frøken Holm,Margrete,762
+Frøken Holm,Margrete,762
+Heine,Svendsen,763
+Edvard Falk,Mine,765
+Frøken Holm,Mine,765
+Falk,Frøken Thorsen,766
+Falk,Frøken Thorsen,766
+Edvard Falk,Margrete,769
+Edvard Falk,Margrete,772
+Edvard Falk,Margrete Thorsen,772
+Margrete,Margrete Thorsen,772
+Frøken Holm,Margrete,775
+Edvard Falk,Margrete,777
+Edvard Falk,Margrete,779
+Herman,Margrete,781
+Herman,Margrete,782
+Herman,Margrete,783
+Edvard Falk,Herman,783
+Herman,Margrete,786
+Herman,Margrete,787
+Falk,Herman,788
+Herman,Margrete,788
+Herman,Margrete,788
+Betty,Edvard,790
+Edvard Falk,Margrete,791
+Betty,Margrete,791
+Karlen,Margrete,792
+Edvard Falk,Margrete,795
+Betty,Edvard Falk,795
+Betty,Margrete,795
+Edvard Falk,Margrete,796
+Betty,Edvard Falk,796
+Margrete,alias,797
+Betty,alias,797
+Betty,Margrete,798
+Betty,Margrete,798
+Margrete,Tante Bettys,799
+Betty,Margrete,800
+Betty,Falk,802
+Betty,Falk,802
+Betty,Margrete,802
+Falk,Margrete,805
+Falk,Margrete,807
+Edvard Falk,Margrete,810
+Edvard Falk,Margrete,811
+Edvard Falk,Margrete,812
+Edvard Falk,Margrete,812
+Edvard Falk,Margrete,813
+Falk,Tante Mine,815
+Edvard,Margrete,817
+Falk,Margrete,819
+Edvard Falk,Margrete,820
+Falk,Margrete,823
+Edvard,Margrete,834
+Falk,Margrete,835
+Edvard,Margrete,835
+Edvard Falk,Margrete,836
+Betty,Edvard Falk,836
+Margrete,Tante Betty,838
+Falk,Margrete,839
+Betty,Margrete,840
+Betty,Margrete,840
+Cathleen Mavourneen,Margrete,841
+Falk,Margrete,844
+Frøken Guldberg,Malling,849
+Betty,Margrete,851
+Betty,Margrete,851
+Betty,Margrete,851
+Betty,Margrete,851
+Falk,Margrete,858
+Edvard Falk,Margrete,859
+Margrete,Tante Betty,863
+Edvard Falk,Margrete,869
+Falk,Margrete,871
+Herman,Margrete,872
+Flerman,Margrete,872
+Flerman,Margrete,872
+Løjtenanten,Margrete,872
+Falk,Margrete,873
+Herman,Margrete,883
+Herman,Margrete,883
+Herman,Margrete,883
+Herman,Margrete,883
+Herman,Margrete,886
+Herman,Margrete,886
+Herman,Margrete,886
+Anna kjørende,Lund,907
+Anna kjørende,Herman,907
+Anna,Herman,912
+Herman,Lorentzen,912
+Lorentzen,Margrete,912
+Herman,Margrete,912
+Herman,Lorentzen,913
+Herman,Margrete,918
+Herman,Margrete,921
+Herman,Margrete,923
+Herman,Margrete,926
+Herman,Lorentzen,928
+Herman,Lars,928
+Lars,Lund,928
+Lars,Lund,928
+Lars,Lund,928
+Herman,Lund,928
+Herman,Margrete,929
+Herman,Lund,931
+Anna,Lund,937
+Anna,Herman,939
+Lund,Margrete,941
+Herman,Margrete,941
+Anna,Herman,941
+Anna,Herman,941
+Herman,Margrete,941
+Anna,Margrete,941
+Anna,Herman,941
+Anna,Herman,941
+Anna,Herman,942
+Anna,Margrete,943
+Herman,Margrete,944
+Herman,Margrete,944
+Anna,Herman,950
+Edvard Falk,Margrete,952
+Betty,Margrete,960
+Falk,Margrete,960
+Falk,Herman,960
+Herman,Margrete,960
+Betty,Margrete,960
+Betty,Margrete,960
+Betty,Margrete,962
+Betty,Margrete,963
+Betty,Margrete,966
+Betty,Margrete,967
+Betty,Tante Betty,968
+Betty,Margrete,968
+Edvard,Margrete,971
+Betty,Margrete,972
+Betty,Margrete,973
+Betty,Falk,973
+Edvard Falk,Margrete,976
+Falk,Margrete,977
+Edvard Falk,Margrete,978
+Falk,sandru,981
+Margrete,sandru,981
+Edvard,Margrete,986
+Falk,Margrete,988
+Falk,Margrete,988
+Herman,Margrete,990
+Herman,Margrete,990
+Anna,Margrete,993
+Herman,Margrete,993
+Anna,Margrete,995
+Anna,Margrete,996
+Anna,Margrete,996
+Anna,Margrete,996
+Herman,Margrete,997
+Anna,Margrete,998
+Anna,Margrete,1002
+Edvard,Margrete,1003
+Falk,Margrete,1004
+Edvard Falk,Margrete,1005
+Margrete,Skjær,1006
+Edvard Falk,Margrete,1008
+Edvard Falk,Margrete,1009
+Edvard Falk,Margrete,1009
+Edvard Falk,Margrete,1010
+Edvard Falk,Margrete,1011
+Falk,Margrete,1013
+Falk,Margrete,1013
+Edvard Falk,Margrete,1014
+Herman,Margrete,1015
+Herman,Margrete,1015
+Edvard Falk,Margrete,1015
+Edvard Falk,Margrete,1019
+Betty,Margrete,1020
+Glenten,Margrete,1023
+Edvard,Falk,1031
+Falk,Margrete,1032
+Edvard Falk,Margrete,1033
+Edvard,Margrete,1034
+Edvard Falk,Margrete,1035
+Edvard,Margrete,1038
+Falk,Margrete,1041
+Edvard Falk,Margrete,1043
+Edvard Falk,Løjtenanten,1043
+Alode,Løjtenanten,1043
+Falk,Margrete,1045
+Falk,Margrete,1047
+Falk,Margrete,1051
+Falk,Margrete,1053
+Edvard Falk,Margrete,1059
+Edvard Falk,Margrete,1059
+Edvard Falk,Margrete,1059
+Edvard Falk,Margrete,1059
+Falk,Margrete,1062
+Falk,Margrete,1062
+Falk,Margrete,1068
+Edvard Falk,Margrete,1069
+Edvard,Flun,1072
+Falk,Margrete,1075
+Falk,Margrete,1081
+Falk,Margrete,1082
+Falk,Margrete,1083
+Falk,Margrete,1086
+Frøken Holm,Margrete,1088
+Carl Lorentzen,Margrete,1088
+Carl Lorentzen,Luther,1088
+Heine,Svendsen,1089
+Heine,Svendsen,1089
+Betty,Margrete,1091
+Edvard,Tante Betty,1092
+Edvard Falk,Margrete,1093
+Lorentzen,Margrete,1094
+Edvard Falk,Margrete,1095
+Margrete,thendes,1098
+Anna,Margrete,1100
+Hortense de Latour,Margrete,1104
+Louise Lichtenfeldt,Margrete,1105
+Louise Lichtenfeldt,Margrete,1109
+Flun,Margrete,1117
+Louise Lichtenfeldt,Margrete,1123
+Louise Lichtenfeldt,Margrete,1125
+Hortense,Margrete,1127
+Louise Lichtenfeldt,Margrete,1128
+Hortense de Latour,Margrete,1130
+Hortense de Latour,Marqui’,1130
+Hortense,Marqui’,1130
+Hortense,Margrete,1130
+Hortense,Margrete,1132
+Hortense,Margrete,1132
+Hortense,Margrete,1134
+Hortense,Margrete,1142
+Hortense,Margrete,1142
+Hortense,Margrete,1143
+Hortense,Marqui,1145
+Hortense,Margrete,1145
+Hortense,Margrete,1147
+Hortense,Margrete,1156
+Hortense,Margrete,1158
+Lorentzen,Margrete,1158
+Lorentzen,Margrete,1160
+Hortense,Margrete,1163
+Hortense,Margrete,1166
+Hortense de Latour,Lichtenfeldt,1168
+Hortense de Latour,Thorsen,1168
+Hortense,Thorsen,1168
+Louise Lichtenfeldt,Margrete,1170
+Hortense,Margrete,1170
+Anna,Margrete,1172
+Anna,Margrete,1173
+Anna,Lars,1173
+Lars,Margrete,1173
+Anna,Margrete,1175
+Anna,Margrete,1175
+Hortense,Margrete,1175
+Hortense,Margrete,1175
+Hortense,Marqui,1177
+Hortense,Margrete,1177
+Hortense,Margrete,1179
+Hortense,Margrete,1182
+Hortense,Margrete,1182
+Hortense,Papa,1183
+HauteVille,Margrete,1184
+HauteVille,Margrete,1184
+Hortense,Margrete,1184
+Hortense,Margrete,1184
+Margrete,Susanne,1189
+Hortense,Margrete,1192
+Hortense de Latour,Margrete,1192
+Hortense,Margrete,1194
+Hortense,Margrete,1194
+Hortense,Margrete,1195
+Hortense,Marqui,1196
+Gerome,Hortense,1196
+Hortense,Margrete,1197
+Gerome,Margrete,1197
+Hortense,Margrete,1198
+Gerome,Hortense,1199
+Hortense,Margrete,1202
+Gerome,Hortense,1203
+Hortense,Margrete,1204
+Hortense,Margrete,1204
+Gerome,Hortense,1204
+Gerome,Margrete,1206
+Hortense,Margrete,1207
+Hortense,Margrete,1213
+Hortense,Margrete,1217
+Louise Lichtenfeldt,Margrete,1218
+Hortense,Margrete,1220
+Hortense,Margrete,1223
+Margrete,douce,1223
+douce,mais toujours,1223
+Hortense,Margrete,1225
+Hortense,Margrete,1226
+Gerome,Hortense,1227
+Hortense,Margrete,1228
+Gerome,Hortense,1228
+Gerome,Hortense,1228
+Hortense,Margrete,1228
+Hortense,Margrete,1230
+Hortense,Margrete,1237
+Hortense,Margrete,1237
+Hortense,Marqui,1238
+Margrete,Marqui,1238
+Margrete,Papa,1238
+Hortense,Margrete,1240
+Hortense,Margrete,1240
+Hortense,haute,1240
+haute,volée,1240
+Margrete,volée,1240
+Hortense,Margrete,1240
+Hortense,Margrete,1245
+Margrete,Marqui,1246
+Hortense,Margrete,1246
+Hortense,Margrete,1248
+Hortense,Margrete,1254
+Hortense,Margrete,1255
+Hortense,Margrete,1257
+Hortense,Marquis de Latour,1257
+Margrete,Marquis de Latour,1258
+Hortense,Margrete,1259
+Causeurs,Marqui,1260
+Hortense,Margrete,1262
+Margrete,Monsieur Guilbert,1269
+Edvard Falk,Margrete,1270
+Edvard Falk,Margrete,1271
+Edvard Falk,Hr. Guilberts,1272
+Hortense,Margrete,1273
+Hortense,Hr. Guilbert,1273
+Hr. Guilbert,Margrete,1273
+Hortense,Margrete,1276
+Hortense,Margrete,1276
+Hortense,Margrete,1277
+Hortense,Margrete,1279
+Hortense,Margrete,1279
+Hortense,Margrete,1282
+Hortense,Margrete,1283
+Hortense,Papa,1284
+Amor,Hortense,1286
+Hortense,Margrete,1287
+Hortense,Margrete,1287
+Hortense,Margrete,1289
+Hortense,Margrete,1289
+Hortense,Margrete,1289
+Gerome,Lisette,1291
+Hortense,Margrete,1294
+Aare,Margrete,1294
+Hortense,Margrete,1295
+Hortense,Margrete,1295
+Margrete,Marqui,1296
+Gerome,Margrete,1296
+Hortense,Raoul,1297
+Gerome,Margrete,1298
+Gerome,Margrete,1298
+Frøken Holm,Margrete,1300
+Frøken Holm,Margrete,1300
+Frøken Holm,Margrete,1300
+Frøken Holm,Margrete,1303
+Margrete,Mine,1303
+Lund,Margrete,1304
+Frøken Holm,Margrete,1305
+Frøken Holm,Margrete,1305
+Frøken Holm,Margrete,1309
+Margrete,Svendsen,1311
+Margrete,Svendsen,1314
+Mine,Svendsen,1316
+Mine,Svendsen,1316
+Margrete,Svendsen,1316
+Margrete,Svendsen,1316
+Edvard Falk,Margrete,1318
+Betty,Margrete,1318
+Betty,Margrete,1320
+Betty,Margrete,1320
+Betty,Margrete,1320
+Edvard Falk,Margrete,1322
+Betty,Margrete,1324
+Betty,Margrete Thorsen,1324
+Betty,Margrete,1325
+Edvard Falk,Margrete,1331
+Betty,Margrete,1333
+Betty,Margrete,1333
+Betty,Margrete,1334
+Betty,Margrete,1335
+Betty,Margrete,1339
+Betty,Margrete,1342
+Betty,Margrete,1347
+Betty,Edvard,1349
+Betty,Edvard,1352
+Betty,Margrete,1352
+Edvard,Karl,1356
+Betty,Margrete,1359
+Betty,ban,1359
+Betty,Margrete,1360
+Edvard,Tosse,1361
+Edvard,Tosse,1361
+Betty,Margrete,1362
+Betty,Margrete,1371
+Betty,Margrete,1374
+Betty,Margrete,1374
+Betty,Guds,1375
+Margrete,Tante Betty,1376
+Betty,Margrete,1379
+Betty,Margrete,1381
+Edvard,Margrete,1384
+Edvard Falk,Margrete,1386
+Betty,Margrete,1387
+Betty,Margrete,1388
+Betty,Margrete,1389
+Margrete,Tante Mine,1390
+Edvard Falk,Tante Mine,1390
+Margrete,Tante,1396
+Carl,Margrete,1400
+Falk,Margrete,1406
+Louise Lichtenfeldt,Margrete,1410
+Carl Lorentzen,Louise Lichtenfeldt,1410
+Carl Lorentzen,Margrete,1410
+Anna,Carl,1411
+Anna,Flun,1411
+Flun,Hortense,1411
+Carl,Hortense,1411
+Carl,Margrete,1411
+Hortense,Margrete,1411
+Hortense,Raoul,1411
+Papa,Raoul,1411
+Margrete,Papa,1411
+Gerome,Papa,1414
+Papa,Slaa,1415
+Papa,Raoul,1415
+Anna,Margrete,1418
+Anna,Margrete,1418
+Anna,Lund,1419
+Anna,Margrete,1421
+Anna,Margrete,1421
+Carl,Margrete,1425
+Carl,Margrete,1427
+Carl,Margrete,1429
+Karl,hon,1432
+Margrete,huien goer-ed no,1433
+Margrete,huien goer-ed no,1433
+Margrete,hwem,1433
+Carl,Margrete,1434
+Carl,Margrete,1434
+Carl Lorentzen,Margrete,1438
+Herman,Margrete,1439
+Herman,Margrete,1439
+Carl Lorentzen,Margrete,1440

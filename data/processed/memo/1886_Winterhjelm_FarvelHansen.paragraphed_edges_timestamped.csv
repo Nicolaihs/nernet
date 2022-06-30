@@ -1,0 +1,523 @@
+source,target,timestamp
+Amanda Andersen,Anders Hansen,5
+Amanda Andersen,Jens Michelsen,5
+Jomfru Amanda,Michelsen,6
+Hans,Hansen,7
+Hansen,Michelsen,11
+Amanda,Hansen,12
+Amanda,Hansen,12
+Michelsen,Villars,13
+Alexander,Villars,13
+Alexander,Cæsar,13
+Amanda,Hansen,14
+Cæsar,Hansen,14
+Cæsar,Hans Henrik Hansen,14
+Amanda,Hansen,16
+Hansen,Michelsen,16
+Amanda,Michelsen,16
+Hansen,Petersen,18
+Hansen,Michelsen,18
+Hansen,Michelsen,18
+Hansen,Michelsen,19
+Hansen,Michelsen,19
+Hansen,Michelsen,20
+Hansen,Michelsen,20
+Hansen,Thorkelsens,20
+Thorkelsen,Thorkelsens,20
+Hansen,Thorkelsen,20
+Hansen,Lunnevig,21
+Flock,Michelsen,22
+Flock,Gud,22
+Gud,Hansen,22
+Flock,Smed Gravesen,25
+Hansen,Michelsen,26
+Hansen,Michelsen,27
+Hansen,Michelsen,29
+Hansen,Michelsen,31
+Flock,Poulsen,35
+Flock,Wagel,35
+Flock,Wagel,35
+Poulsen,Wosemose,36
+Frøken Holmsen,Skaal,38
+Frøken Holmsen,Michelsen,41
+Michelsen,Poulsen,42
+Michelsen,Poulsen,43
+Frøken Holmsen,Michelsen,43
+Frøken Holmsen,Michelsen,48
+Brun,Michelsen,50
+Honneurs,Michelsen,51
+Honneurs,Poulsen,51
+Michelsen,Poulsen,51
+Frøken Holmsen,Michelsen,51
+Frøken Holmsen,Poulsen,51
+Herr Michelsen,Michelsen,53
+Frøken Holmsen,Michelsen,61
+Hansen,Poulsen,62
+Hansen,Madam Andersen,63
+Hansen,Madam Andersen,65
+Hansen,Jomfru Pettersen,65
+Jomfru Pettersen,Madam Sakwitz,65
+Amanda,Hansen,67
+Hansen,Madam Andersen,69
+Hansen,Madam Andersen,71
+Hansen,salig Andersen,71
+Madam Andersen,g,72
+Gud,g,72
+Gud,Madam,72
+Andersens,Madam,72
+Andersens,Madam Andersen,72
+Amanda,Madam Andersen,72
+Amanda,Hansen,72
+Andersens,Hansen,73
+Andersens,Kittelsen,73
+Hansen,Kittelsen,73
+Andersen,Madam Andersen,75
+Andersen,Madam Andersen,76
+Kittelsen,Madam Andersen,77
+Kitteisens,Madam Andersen,77
+Amanda,Madam Andersen,78
+Amanda,Kittelsen,78
+Kittelsen,Mad,78
+Hansen,Mad,78
+Kittelsen,Mad,79
+. Andersen,Mad,79
+. Andersen,Gud,79
+Hansen,Kittelsen,82
+Hansen,Kittelsen,83
+Hansen,Kittelsen,84
+Hansen,Olaves,86
+Andersen,Olaves,86
+Hansen,Pettersen,87
+Madam,Pettersen,87
+Andersen,Madam,87
+Amanda,Hansen,89
+Hansen,Michelsen,93
+Hansen,Michelsen,93
+Aurora,Hansen,97
+Flock,Gud,99
+Flockske,Petersen,100
+Flock,Flockske,100
+Flock,Laura,100
+Constance Poulsen,Laura,100
+Alma,Laura,101
+Laura,Laura Flock,101
+Laura,Laura Flock,101
+Frøken Bugge,Laura,101
+Frøken Bugge,Frøken Holmsen,101
+Frøken Holmsen,Poulsen,101
+Constance,Michelsen,107
+Alma,Constance,107
+Anton,Pappas,109
+Michelsen,Pappas,109
+Flock,Michelsen,109
+Alma,Michelsen,113
+Flochs,Michelsen,113
+Frøken Holmsen,Michelsen,115
+Constance,Michelsen,116
+Michelsen,Poulsen,117
+Frøken Holmsen,Michelsen,117
+Bugge,Frøken Holmsen,117
+Bugge,Svendsen,117
+Poulsen,Svendsen,117
+Frk. Svendsen,Gud,123
+Frøken Holmsen,Michelsen,125
+Frk. Svendsen,Frøken Holmsen,125
+Frk. Bugge,Frk. Svendsen,125
+Constance,Michelsen,132
+Alma,Hinds,133
+Pieid,Poulsen,136
+Adam,Michelsen,153
+Homers,Solons,157
+Michelsen,Solons,157
+Michelsen,Warberg,157
+Michelsen,Ritsch,158
+Ritsch,ratsch,158
+Constance,Michelsen,163
+Constance,Michelsen,164
+Michelsen,Warberg,165
+Poulsen,Warberg,167
+Odel,Poulsen,167
+Jasaa,Warberg,174
+Karl,Michelsen,177
+Smed Gravesen,Warberg,179
+Gravesen,Warberg,180
+Flan,Flansen,181
+Gravesen,Hansen,182
+Hansen,Warberg,185
+Alvilde Holmsen,Vilhelm Warberg,190
+Michelsen,iland,193
+Michelsen,iland,193
+Hansen,Michelsen,193
+Hansen,Warberg,193
+Michelsen,Poulsen,194
+Michelsen,Poulsen,194
+Michelsen,Poulsen,194
+Michelsen,Poulsen,194
+Poulsen,Warberg,194
+Constance,Herr Warberg-til,197
+Constance,Michelsen,198
+Herr Warberg,Michelsen,199
+Alma,Gud,200
+PJahaha,Poulsen,201
+Constance,Michelsen,202
+Constance,Michelsen,202
+Alma,Frøken Holmsen,207
+Alma,Michelsen,207
+Constance,Michelsen,207
+Constance,Poulsen,207
+Emphase,Petersen,209
+Emphase,Warberg,209
+Flophs,Petersen,212
+Michelsen,Petersen,212
+Frøken Svendsen,Michelsen,212
+Smiths,Warberg,214
+Olsens,Smiths,214
+Michelsen,Wising,215
+Poulsen,Thorsdag,217
+Poulsen,Warberg,218
+Grace,Warberg,218
+Frøken Svendsen,Michelsen,219
+Frøken Bugge,Frøken Holmsen,222
+Gud,Warberg,225
+Døring,Warberg,225
+Hansen,Michelsen,228
+Michelsen,Michelsen-,228
+Thorsdag,Warberg,229
+Poulsen,Thorsdag,229
+Disraeli,Rousseau,230
+Frøken Svendsen,Gud,231
+Constance,Flan,239
+Constance,sorn,242
+Poulsen,sorn,242
+Constance,Michelsen,246
+Døring,Michelsen,249
+Døring,Wising,249
+Poulsen,Wising,249
+Alma,Constance,250
+Constance,Poulsen,250
+Michelsen,Poulsen,250
+Michelsen,Poulsen,251
+Constance,Michelsen,251
+Anton,Constance,251
+Anton,Poulsen,251
+Constance,Michelsen,252
+Dahis,Poulsen,254
+Dahis,Michelsen,254
+Constance,Michelsen,254
+Constance,Michelsen,254
+Alma,Poulsen,255
+Michelsen,Warberg,256
+Cour,Warberg,256
+Cour,Michelsen,256
+Constance,Michelsen,257
+Hansen,Michelsen,258
+Hansen,Michelsen,260
+Amanda,Michelsen,262
+Amanda,Hansen,267
+Amanda,Graaden,270
+Amanda,Madam Andersen,271
+-Poulsens,Amanda,272
+Hansen,Michelsen,274
+Amanda,Hansen,276
+Flochs,Poulsen,278
+Hysh,Nielsen,286
+Kittelsen,Nielsen,286
+Kittelsen,hu Mor,289
+Kittelsen,Nielsen,290
+Kittelsen,Nielsen,293
+Kitteisens,Kittelsen,296
+Flan,Kittelsen,297
+Flan,Hansen,297
+Hansen,Warberg,300
+Hansen,Michelsen,302
+Hansen,Kittelsen,302
+Flock,voxen,306
+Flock,Poulsen,310
+Flock,Grant,317
+Flock,Gud,319
+Flock,Flustru,325
+Flock,Petersen,331
+Flock,Petersen,332
+Flock,Petersen,334
+Poulsen,Warberg,335
+Flock,Petersen,341
+Flock,Petersen,348
+Laura,Petersen,350
+Flock,Laura,350
+Petersen,Redaktør Hansen,352
+Frøken Holmsen,ifjor,355
+Flock,Petersen,356
+Fru Poulsens,Gud,364
+Fru Poulsens,Petersen,364
+Flock,Petersen,366
+Flock,Petersen,366
+Flock,Petersen,366
+Hansen,Warberg,376
+Amanda,Hansen,381
+Don Juans,Donna Elvira,382
+Donna Elvira,Hansen,382
+Michelsen,Petersen,383
+Flock,Petersen,383
+Flock,Michelsen,383
+Gravesen,Michelsen,383
+Constance Poulsen,Gravesen,383
+Constance Poulsen,Michelsen,383
+Madam Sandberg,Michelsen,383
+Hansen,Madam Sandberg,383
+Alma Poulsen,Hansen,383
+Alma Poulsen,Valsen,383
+Arditi,Valsen,383
+Arditi,il båcio di Giuda,383
+Kittelsen,Petersen,384
+Michelsen,Warberg,387
+Amanda,Michelsen,388
+Amanda,Hansen,388
+Amanda,Hansen,388
+Amanda,Michelsen,389
+Hansen,Michelsen,392
+Amanda,Hansen,396
+Amanda,Hansen,399
+Amanda,Hansen,399
+Michelsen,dejo,405
+Amanda,Hansen,406
+Flock,Poulsen,407
+Constance,Poulsen,407
+Constance,Michelsen,407
+Michelsen,Vilhelm Warberg,407
+Michelsen,Warberg,410
+Michelsen,Warberg,410
+Michelsen,Warberg,410
+Flansen,Michelsen,410
+Flansen,Gravesen,410
+Pedersen,Thalia,415
+Pedersen,hans Thalias,416
+Pedersen,Poulsen,417
+Pedersen,Poulsen,418
+Gud,Pedersen,419
+Michelsen,Thalia Pedersen,420
+Frøken Gulbransen,Wising,425
+Pedersen,Wising,425
+Lars,Mama,431
+Frøken Holmsen,Hansen,434
+Gulbransens,Petersen,437
+Gulbransens,Petersen,437
+Flaske-Lars,Gud,438
+Frk. Holmsen,Hansen,440
+Lady Macbeth,Thalia Pedersen,443
+Ladyen,Thalia Pedersen,443
+Flaske-Lars,Pedersen,447
+Flaske-Lars,Pedersen,447
+Hansen,Pedersen,447
+Frk. Holmsen,Hansen,447
+Døring,Poulsen,454
+Poulsen,Warberg,455
+Michelsen,Wising,457
+Michelsen,Wising,457
+Constance,Michelsen,457
+Maanes,s,459
+Michelsen,Poulsen,460
+Constance,Michelsen,461
+Hansen,Michelsen,463
+Hoel,Michelsen,463
+Michelsen,Poulsen,466
+Michelsen,Poulsen,468
+Michelsen,Poulsen,469
+Michelsen,Poulsen,469
+Flock,Michelsen,470
+Hansen,Poulsen,471
+Gud,Hansen,473
+Constance,Hansen,473
+Alma,Hansen,474
+Michelsen,Poulsen,475
+Constance,Poulsen,476
+Constance,Poulsen,478
+Constance,Michelsen,478
+Hansen,Michelsen,488
+Hoel,Michelsen,489
+Amanda,Hansen,490
+Amanda,Flun,492
+Anders,Hansen,497
+Anders,Gud,499
+Hansen,Madam Andersen,500
+Amanda,Michelsen,501
+Michelsen,Stenigen,502
+Gud,Michelsen,502
+Hansen,Michelsen,504
+Hansen,Michelsen,506
+Hansen,Michelsen,507
+Flan,Utak,513
+Hansen,Utak,513
+Hansen,Karl,519
+Gudbevars,Karl,519
+Frøken Holmsen,Hansen,524
+Hansen,Holm,525
+Hansen,Stenigen,528
+Frøken Holmsen,Hansen,531
+Frøken Holmsen,Hansen,531
+Hansen,sotn,535
+Amanda,Madam Andersen,536
+Døring,Michelsen,538
+Michelsen,Petersen,538
+Amanda,Hansen,539
+Andersen,Hibbel,541
+Hibbel,hans,541
+Hansen,jasaa,543
+Hansen,Jøssu,543
+Frøken Skjold,Jøssu,543
+Frøken Skjold,Jasaa,543
+Hansen,Jasaa,543
+Flun,Hansen,543
+Madam Andersen,Thorkelsen,544
+Hansen,Madam Andersen,546
+Hansen,Jøsses,547
+Hansen,Jøsses,547
+Amanda,Hansen,547
+Amanda,Gud,547
+Gud,Kittelsen,547
+Amanda,Kittelsen,547
+Amanda,Madam Andersen,552
+Amanda,Hansen,552
+Amanda,Hansen,553
+Amanda,Michelsen,556
+Kittelsen,Michelsen,556
+Amanda,Michelsen,557
+Michelsen,Verter,560
+Hansen,Verter,560
+Flock,Hansen,560
+Flock,Hansen,560
+Hansen,Michelsen,560
+Døring,Hansen,562
+Døring,Hansen,562
+Hansen,Michelsen,562
+Døring,Philines,563
+Michelsen,Philines,563
+Michelsen,fidel,563
+Hansen,fidel,563
+Hansen,Stenigen,571
+Hansen,Michelsen,577
+Hansen,Michelsen,577
+Hansen,Michelsen,579
+Michelsen,jasaa,581
+Michelsen,Warberg,582
+Hansen,Michelsen,583
+Hansen,Michelsen,583
+Herr Warberg,Michelsen,584
+Hansen,Skaal,586
+Plan,Stenigen,587
+Hansen,Skaal,588
+Døring,Michelsen,593
+Døring,Hansen,593
+Stenigen,Warberg,594
+Michelsen,Warberg,601
+Flaske-Lars,Michelsen,604
+Flock,Hansen,609
+Flansen,Flock,611
+Flansen,Hansen,612
+Døring,Madam Gjeruldsen,616
+Madam Gjeruldsen,isiand,617
+Hansen,Michelsen,620
+Constance,Hansen,620
+Michelsen,Poulsen,622
+Flock,Gulbransen,623
+Flock,Poulsen,623
+Hansen,Poulsen,623
+Flock,Hansen,623
+Flock,Michelsen,623
+Michelsen,Poulsen,623
+Gulbransen,Poulsen,623
+Flock,Poulsen,624
+Flock,Hansen,624
+Hansen,Petersen,624
+Flock,Hansen,625
+Flock,Gulbransen,626
+Hansen,Michelsen,628
+Hansen,Michelsen,628
+Amanda,Michelsen,629
+Michelsehs,Michelsen,629
+Amanda,Hansen,630
+Amanda,Graad,639
+Amanda,Madam Andersen,641
+Gulbransen,Michelsen,643
+Hansen,Smed Gravesen,644
+Hansen,s,650
+Hansen,s,650
+Gud,Hansen,652
+Flan,Hansen,658
+Hansen,hans,662
+Hansen,hans,662
+Hansen,Michelsen,666
+Hansen,Michelsen,667
+Michelsen,Poulsen,670
+Constance,Poulsen,671
+Jens,Poulsen,671
+Blanche,Sjøvall,672
+Constance,Pedersen,673
+Constance,Hansen,677
+Michelsen,Poulsen,681
+Grandtante,Poulsen,682
+Grandtante,Rikke,682
+Jøsses,Poulsen,683
+Andersen,Poulsen,683
+Andersen,hysj,683
+Sandbergs,hysj,683
+Grandtante,Michelsen,685
+Gulbransen,Smed Gravesen,687
+Hovelsrud,Smed Gravesen,687
+Hovelsrud,Wold,687
+Hovelsrud,jagu,690
+Flock,Gulbransen,692
+Flock,Gravesen,692
+Flock,tage Hansen,694
+Gulbransen,Hansen,697
+Madam Sandberg,Michelsen,707
+Gulbransen,Michelsen,707
+Constance,Gulbransen,707
+Constance,Gravesen,707
+Alma,Gravesen,707
+Grandtante Rikke,Thulstrup,710
+Johanne,Michelsen,713
+Michelsen,Petersen,725
+Flock,Petersen,726
+Flock,Petersen,731
+Flock,Petersen,731
+Amanda,Hansen,732
+Gravesen,Michelsen,733
+Kittelsen,Michelsen,733
+Hansen,Kittelsen,733
+Gravesen,Hansen,735
+Hansen,Michelsen,735
+Amanda,Hansen,736
+Amanda,Hansen,736
+Hansen,Kittelsen,736
+Amanda,Kittelsen,736
+Hansen,Michelsen,737
+Hansen,Michelsen,737
+Hansen,Kittelsen,738
+Gud,Hansen,738
+Amanda,Andersen,739
+Andersen,Stry,739
+Flock,Stry,739
+Flock,Michelsen,739
+Hansen,Kittelsen,740
+Amanda,Kittelsen,740
+Amanda,Hansen,742
+Hansen,hans,743
+Amanda,Anders,745
+Hansen,Michelsen,752
+Hansen,Michelsen,753
+Flock,kjære Hansen,754
+Amanda,Hansen,759
+Hansen,Michelsen,760
+Flock,Michelsen,762
+Amanda,Hansen,766
+Amanda,Hansen,766
+Amanda,Michelsen,767
+Flock,Michelsen,767
+Flock,Michelsen,767
+Amanda,Flock,774
+Amanda,Flock,774
+Flock,Hansen,777
+Hansen,Jomfru Andersen,777
+Kittelsen,Madam Andersen,778
+Hansen,Kittelsen,779
+Gulbransen,Michelsen,782

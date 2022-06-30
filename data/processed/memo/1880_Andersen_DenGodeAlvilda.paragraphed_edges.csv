@@ -1,0 +1,642 @@
+source,target,type,weight
+Kusken,Lorden,Undirected,1
+Guds,Kusken,Undirected,1
+Alfred,Alvilda,Undirected,36
+Alfred,Rødm,Undirected,1
+Lady Alvilda Brovns,Lorden,Undirected,1
+John,Lady Alvilda,Undirected,2
+Lady Alvilda,Lord Haslington,Undirected,1
+John,Tom,Undirected,14
+Brovns,Kennedy,Undirected,1
+Brovns,Lady Avilda Brovn,Undirected,1
+Lady Avilda Brovn,Lord Hastington,Undirected,1
+Lord Brovns,Lord Hastington,Undirected,1
+Alfred,uo,Undirected,1
+Iohn,Tom,Undirected,1
+Greven,Tom,Undirected,7
+Alvilda,Greven,Undirected,6
+Alvilda,Haar,Undirected,1
+Alfred,Greven,Undirected,6
+Alvilda,Hastington,Undirected,22
+Alsred,Alvilda,Undirected,2
+Alsred,Præsfen,Undirected,1
+Anetta Tibaldi,Præsfen,Undirected,1
+Alfred,Hastington,Undirected,5
+Lord,Lord Brovn,Undirected,1
+Alvilda,Lord,Undirected,3
+Alvilda,Ellen,Undirected,2
+Ellen,Greven,Undirected,1
+Hastington,Kennebh,Undirected,1
+Alfred Tibaldi,Greven,Undirected,3
+Alfred,Gud,Undirected,8
+Ellen,Lord,Undirected,1
+Lady Alvilda,Lord,Undirected,1
+Alfred Tibaldi,Kaptain Holler,Undirected,1
+Alvilda,Marie Stuart,Undirected,1
+Alfred,Lord Hastington,Undirected,2
+Alfred,Pisfoler,Undirected,1
+Alfred,John,Undirected,2
+Alfred,Grev Hastington,Undirected,4
+Alfred,Tom,Undirected,1
+Alfred Tibaldi,Jonas,Undirected,1
+Schmidt,ban,Undirected,1
+Alfred,Louise,Undirected,63
+Alfred,Louise^,Undirected,1
+Hastington,Louise,Undirected,3
+Alfred Tibaldi,Lady Marwitz,Undirected,1
+Louise,Marvikz,Undirected,1
+Grev Hastington,Marvikz,Undirected,1
+Jago,Schmidt,Undirected,1
+Louise,Schmidt,Undirected,1
+Mylady,Schmidt,Undirected,1
+Louise,vik,Undirected,1
+Alfred,vik,Undirected,1
+St. Jago,ane,Undirected,1
+Alfred,ane,Undirected,1
+Alfred,oer,Undirected,2
+Alfred,Schmidt,Undirected,11
+Annette Tibaldis,Hastington,Undirected,1
+Alfred,Fortuna,Undirected,1
+Grev St. Germain,Ludvig den Hellige,Undirected,1
+Ludvig,Ludvig den Hellige,Undirected,1
+Greve,Ludvig,Undirected,1
+Gustav Adolf,Lucrezia Borgia,Undirected,1
+Barbarina,Gustav Adolf,Undirected,1
+Barbarina,Frederik den Store,Undirected,1
+Frederik den Store,Napoleon,Undirected,1
+Napoleon,Talma,Undirected,1
+Kelner,Lady Marwitz,Undirected,1
+Dick,Mylady,Undirected,1
+Dick,Tibaldi,Undirected,1
+Alfred Tibaldi,Louise,Undirected,2
+Hr. Tibaldi,Mylady,Undirected,4
+Dick,Hr. Tibaldi,Undirected,1
+Dick,Lady Marvikz,Undirected,1
+Dick,Greven,Undirected,2
+Baron Rothschilds,Dick,Undirected,1
+Haslington,Huri,Undirected,1
+Louise,visf,Undirected,1
+Louise,St. Germain,Undirected,11
+Grev St. Germain,Mylady,Undirected,1
+Ludvig,Mylady,Undirected,1
+Hr. Tibaldi,Ludvig,Undirected,1
+Louise,Mylady,Undirected,2
+Alfred,ogfaa,Undirected,1
+Mr. Tibaldi,ogfaa,Undirected,1
+Mr. Tibaldi,St. Germain,Undirected,1
+Alfred,St. Germain,Undirected,13
+Dick,Joseph,Undirected,5
+Dick,Papagpjen,Undirected,1
+Asen,Dick,Undirected,1
+Dick,Rose,Undirected,4
+James Marvikz,Louise Glenarvan,Undirected,2
+Assislance,Louise Glenarvan,Undirected,1
+Dick,Lady Louise Marvitz,Undirected,1
+Leres,Rose,Undirected,1
+Juan,Rose,Undirected,8
+Fader,Jack,Undirected,1
+Dick,Fader,Undirected,1
+Alfred,Juan,Undirected,20
+Alfred,Juan Lopez,Undirected,3
+Dick,Juan,Undirected,4
+Dick,Gavtyven,Undirected,1
+Alfred Tibaldi,Juan,Undirected,2
+Joseph,Lopez,Undirected,2
+Dick,Lopez,Undirected,4
+Halunk,Juan,Undirected,1
+Alfred,Dick,Undirected,12
+Juan,Louise,Undirected,2
+Louise,Rose,Undirected,5
+Alfred,Arne,Undirected,1
+Fernando,Juan,Undirected,1
+Fernando,Lopez,Undirected,1
+Fernando,Tibaldi,Undirected,1
+Grev St. Germain,Sennor Juan Lopez,Undirected,1
+Alfred,Lopez,Undirected,34
+Hr. Greve,Lopez,Undirected,1
+Alfred Tibaldi,St. Germain,Undirected,2
+Greven,Lopez,Undirected,5
+Rose,Sennor Lopez,Undirected,1
+Rose,Tibaldi,Undirected,1
+Sennor Lopez,St. Germain,Undirected,3
+Juan,St. Germain,Undirected,3
+Henry Blaye,Mairen,Undirected,1
+Grev Hastington,Rose Blanche Huot,Undirected,1
+Grev Hastington,Rose Huot,Undirected,1
+Henry Blaye,Rose Huot,Undirected,1
+Greve,Rose,Undirected,1
+Alfred,paany,Undirected,1
+Alfred,Sennor Lopez,Undirected,1
+Alfred,Sennor Juan,Undirected,1
+Bresche,Greven,Undirected,1
+Alfred,Rose,Undirected,6
+Alvilda,Louise,Undirected,3
+Faniska,Louise,Undirected,1
+Gud,Lady Marwitz,Undirected,1
+Ladyen,niska,Undirected,1
+Ladyen,Louise,Undirected,1
+Alfred,Lady Marwitz,Undirected,4
+Alfred,Faniska,Undirected,3
+Faniska,Juan,Undirected,1
+Alsred,Juan,Undirected,1
+Alsred,Louise,Undirected,1
+Lopez,Rose,Undirected,4
+Lopez,Louise,Undirected,10
+Fanifka,Juan,Undirected,1
+Fanifka,Lady Marwitz,Undirected,1
+Alfred,Viktoria,Undirected,2
+Greven,Mylady,Undirected,2
+Greven,Louise,Undirected,12
+Louise,Miir,Undirected,1
+Louise,ban,Undirected,1
+Greven,Sennor Juan Lopez,Undirected,1
+Sennor Juan Lopez,Sennor Lopez,Undirected,1
+De selo,Sennor Lopez,Undirected,1
+Louise,Skjælve,Undirected,1
+Hastington,Lady Alvilda Brown,Undirected,2
+Greven,St. Germain,Undirected,3
+Don Juan,Greven,Undirected,1
+Augustinus,Grev St. Germain,Undirected,1
+Dick,St. Germain,Undirected,3
+Dick,Hektor,Undirected,1
+Andromache,Hektor,Undirected,1
+Dick,Hr. Greve,Undirected,1
+St. Germain,srem,Undirected,1
+Lord Hastington,Paleren,Undirected,1
+Pater Joseph,St. Germain,Undirected,8
+Pater Joseph,Rous,Undirected,1
+Rous,Sennor,Undirected,1
+Cavalier,Rose,Undirected,1
+Cavalier,Riberta,Undirected,1
+Dein,Riberta,Undirected,1
+Bvrn,Greven,Undirected,1
+Lopez,Sennor Juan Lopez,Undirected,1
+Juan Lopez,Louise,Undirected,3
+Lopez,St. Germain,Undirected,6
+Greven,Sennor Lopez,Undirected,2
+Alfred Tibaldi,Lopez,Undirected,4
+Louise,Tibaldi,Undirected,1
+Hr. Greve,Louise Marwitz,Undirected,1
+Louise,Øe,Undirected,1
+Juan Lopez,Rose,Undirected,2
+Banlys,Mylady,Undirected,1
+St. Germain,ril,Undirected,1
+Louise,Sennor,Undirected,2
+Louise,Louise Marwitz,Undirected,1
+Fantasie,Mylady,Undirected,1
+Fantasie,St. Germain,Undirected,1
+Pater Ioseph,Rose,Undirected,1
+Pateren,Rose,Undirected,1
+Sennor Lopez,paany,Undirected,1
+Lady Marwitz,Lopetz,Undirected,1
+Louise,Sennor Lopez,Undirected,1
+Lopez,Sennor,Undirected,2
+Grevinde St. Germains,Sennor,Undirected,1
+Alfred,Rose glcededrukne Lopez,Undirected,1
+Lopez,s,Undirected,1
+Germain,Lopes,Undirected,1
+Lopes,Lopez,Undirected,1
+Alvilda,Lopez,Undirected,2
+Le,Lopez,Undirected,1
+Lady Alvilda,Sennnor Lopez,Undirected,1
+Joseph,Pater,Undirected,4
+Joseph,Uraad,Undirected,1
+Lopez,Uraad,Undirected,1
+Faniska,Lady Marwitz,Undirected,1
+Pater Joseph,Rose,Undirected,2
+Juan,Pater Joseph,Undirected,1
+Holler,Rose,Undirected,3
+Rose,bun,Undirected,1
+Holler,Wifts,Undirected,2
+Holler,sorn,Undirected,1
+Grev St. Germain,Holler,Undirected,2
+Kaptajn Hollers,Pater Joseph,Undirected,1
+Greven,Pater Joseph,Undirected,1
+Greven,Holler,Undirected,1
+Holler,Hr. Greve,Undirected,1
+Greven,Hastington,Undirected,1
+Greven,Lady Alvilda,Undirected,2
+Lady Alvilda,Lopez,Undirected,1
+Holler,Lopez,Undirected,12
+Holler,Sennor Lopez,Undirected,1
+Chevalier Riberto,Greven,Undirected,1
+Eing PontZ,Holler,Undirected,1
+Alfred,Lopes,Undirected,2
+Alfred,Holler,Undirected,14
+Lopez,Sejer,Undirected,1
+Dick,Mr. Tibaldi,Undirected,1
+Alfred,Lopex,Undirected,1
+Holler,Lopex,Undirected,1
+Lopez,t,Undirected,1
+Alfred,oz,Undirected,2
+Alfred Tibaldi,næsfen,Undirected,1
+Lady Marvikz,Louise,Undirected,1
+Lady Marvikz,fil,Undirected,1
+Joseph,Thomas,Undirected,3
+Alfred,Tibaldi,Undirected,2
+Alfred,Thomas,Undirected,5
+Jesus,Maria,Undirected,1
+Kudsken,Maria,Undirected,1
+Dick,Thomas,Undirected,1
+Dick,Tom,Undirected,1
+Kudsk,Tom,Undirected,1
+Dick,Jasaa,Undirected,1
+Fribytten,Tom,Undirected,1
+,Thomas,Undirected,1
+Herre,Øe,Undirected,1
+Jakob,jkal,Undirected,1
+Jack,Thomas,Undirected,1
+Dick,Louise,Undirected,7
+Jack,Louise,Undirected,2
+Alfred,Grev St. Germain,Undirected,1
+Lord Hastington,fig,Undirected,1
+Alfred,Greve,Undirected,3
+Alfred,Jack,Undirected,1
+Alfred,Mylady,Undirected,5
+Lopez,Neppe,Undirected,1
+Jack,Lopez,Undirected,1
+Schmidt,hans Raahed,Undirected,1
+Schmidt,nysgjerrig,Undirected,1
+Port,Schmidt,Undirected,4
+Schmidt,Tom,Undirected,1
+Port,Tom,Undirected,1
+Schmidt,jslaa,Undirected,1
+John,Schmidt,Undirected,1
+John,Silvez,Undirected,1
+Alfred,Port,Undirected,2
+Job,Sennor,Undirected,2
+Alfred,Sennor,Undirected,2
+Job,Schmidt,Undirected,2
+Alfred,Tyran,Undirected,1
+Schmidt,Tyran,Undirected,1
+Alfred,Job,Undirected,2
+Hejda,Pel,Undirected,1
+Pel,Schmidt,Undirected,1
+Pel,Sennor Schmidt,Undirected,1
+Pel,Sennor,Undirected,2
+Job,Port,Undirected,1
+Hesfehove,Sennor,Undirected,1
+Don Carlos,Narcis Lopez,Undirected,1
+Oumos,äs,Undirected,1
+Juan Lopez,Schmidt,Undirected,1
+Carlo,Hesfen,Undirected,1
+Juan,Sennor,Undirected,1
+Fortuna,Juan,Undirected,1
+Bastonade,Pidsk,Undirected,1
+Alfred,Ben,Undirected,3
+Ben,Sennor,Undirected,1
+Holler,Juan Lopez,Undirected,1
+Holler,Schmidt,Undirected,1
+Schmidt,stu,Undirected,1
+Schmidt,paany,Undirected,1
+Kaptain Schmidt,Schmidt,Undirected,1
+Alfred,fom,Undirected,1
+Juan,fom,Undirected,1
+Holler,Juan,Undirected,2
+Eden,Hastington,Undirected,1
+Germain,Lady Alvilda Brown,Undirected,1
+Grevinde Hastington,Lady Alvilda Brown,Undirected,1
+Grevinde Hastington,Lady Alvilda,Undirected,1
+Alfred Tibaldi,Lady Alvilda,Undirected,4
+Grev Hastington,Rose,Undirected,2
+Asfred,Rose,Undirected,1
+Asfred,Tibaldi,Undirected,1
+Grev Hastington,Tibaldi,Undirected,1
+Grev Hastington,Louise,Undirected,1
+Aaget,Louise,Undirected,1
+Rose,St. Germain,Undirected,1
+Dick,Røse,Undirected,1
+Louise,Røse,Undirected,1
+Aaget,Sennora,Undirected,1
+Lonise,Rose,Undirected,3
+Asten,Lady Marwitz,Undirected,1
+Lady Marwitz,Lonise,Undirected,1
+Dolken,Mylady,Undirected,1
+Dolken,Louise,Undirected,1
+Dolken,Lady Marwitz,Undirected,1
+Lady Marwitz,Øe,Undirected,1
+Rose Hastington,jDenne,Undirected,1
+Lord Hastington,Rose Hastington,Undirected,1
+James Marwitz,Rose,Undirected,1
+Greven,Sennor,Undirected,1
+Dein,Louise,Undirected,1
+Hastington,Sennor,Undirected,1
+Lady Marwitz,St. Germain,Undirected,1
+Dick,Ladyen,Undirected,1
+Hnn,saste,Undirected,1
+Sennor,saste,Undirected,1
+Louise,Sennora,Undirected,1
+Dick,Lady,Undirected,1
+Dick,Jack,Undirected,1
+Dick,Lady Marwitz,Undirected,1
+Edsvorne,Louise,Undirected,1
+Greve af,James,Undirected,4
+Robert,Sennor,Undirected,1
+Greven,Robert,Undirected,3
+Louise,Robert,Undirected,16
+Hrr.,d ,Undirected,1
+Edsvorne,Hrr.,Undirected,1
+De Edsvorne,Louise,Undirected,1
+Gud,Sennor,Undirected,1
+Sennor,as,Undirected,1
+Exellence,Øe,Undirected,1
+Grev St. Germain,Lopez,Undirected,1
+Matteo,Sennor,Undirected,1
+Louise Marvitz,Robert,Undirected,1
+Neppe,Robert,Undirected,2
+Robert,William,Undirected,10
+Lou,William,Undirected,1
+Louise,William,Undirected,5
+Robert,simod,Undirected,1
+Gud,Louise,Undirected,1
+Germain Louise,Robert,Undirected,1
+Grev St. Germain,Robert,Undirected,2
+Robert Gerard,St. Germain,Undirected,9
+Louise,Mr. Richard,Undirected,10
+Alfred,Mr. Richard,Undirected,3
+Alfred,Jakobo,Undirected,1
+Madonna,Richard,Undirected,1
+Angiolina,Madonna,Undirected,1
+Angiolina,Schweitz,Undirected,1
+Anetta,Angiolina,Undirected,1
+Anetta,Evropa,Undirected,2
+Juan,Lopez,Undirected,1
+Juan,Juan Alfred,Undirected,1
+Alfred,Lord Browns,Undirected,1
+Hastington,Tom,Undirected,7
+Grev Hastington,Lady Alvilda,Undirected,1
+Alfred,Hr. Greve,Undirected,2
+Alvilda,Hasfington,Undirected,1
+Alfred,Hasfington,Undirected,1
+Glood,Tom,Undirected,1
+Glood,John,Undirected,1
+Alfred,Robert,Undirected,1
+Robert,St. Germain,Undirected,8
+Alfred Tibaldi,Hastington,Undirected,1
+Hastington,Lady Alvilda,Undirected,7
+Alvilda,Lady Alvilda,Undirected,4
+Alfred,Jesu,Undirected,1
+Hastington,Jesu,Undirected,1
+Alfred Tibaldi,Victoria,Undirected,1
+Alvilda Brown,Lorenzo,Undirected,1
+Alfred,Lady Alvilda,Undirected,4
+Alvilda,Miss Helene,Undirected,2
+Helene Holler,Holler,Undirected,1
+Helene,Holler,Undirected,6
+Alvilda,Helene,Undirected,50
+Greven,Helene,Undirected,3
+Lady Brown,Nicotin,Undirected,1
+Hastington,Helene,Undirected,6
+Alvilda Brown,Lord Elphisfone Brown,Undirected,1
+Alfred Tibaldi,Lord Elphisfone Brown,Undirected,1
+Alfred Tibaldi,Mylady,Undirected,2
+Lord Hastington,Mylady,Undirected,1
+Grev Hastington,Holler,Undirected,1
+Alfred,jmig,Undirected,1
+Grev Hastington,Ladyen,Undirected,1
+Alfred,Pater Joseph,Undirected,1
+Chevalier Riberta,Lopez,Undirected,2
+Grev St. Germain,Pater Joseph,Undirected,1
+Jesu,Pater Joseph,Undirected,2
+Mr. Lion,Rentier fra Edinburg,Undirected,1
+Pater Joseph,Robert,Undirected,3
+Pateren,Robert,Undirected,1
+Pater Joseph,Robers,Undirected,1
+Robers,Robert,Undirected,1
+Alfred Tibaldi,Pater Lorenzo,Undirected,1
+Alfred Tibaldi,Helene,Undirected,1
+Grev Hastington,Helene,Undirected,2
+Helene,L. kte Alvilda,Undirected,1
+Grev Hastington,J,Undirected,1
+Grev Hastington,John,Undirected,1
+Alvilda,Tom,Undirected,5
+Lady Alvilda,Tom,Undirected,2
+Helene,Tom,Undirected,6
+Helene,j,Undirected,1
+Greven,j,Undirected,1
+Hastington,John,Undirected,4
+Lady Alvilda,Miss Helene,Undirected,5
+Grev Hastington,Soupeen,Undirected,1
+Grev Hastington,Lord Brown,Undirected,1
+Alvilda Brown,Lord Brown,Undirected,1
+Grev Hastington,Tom,Undirected,1
+Nicotin,Tom,Undirected,1
+Dolken,Miss Helene,Undirected,1
+Lord Hastington,andnu,Undirected,1
+Lord Hastington,Tom,Undirected,1
+Hastington,def,Undirected,1
+Greve,Tom,Undirected,1
+Helene,Lord Hastington,Undirected,1
+Hastington,Lady Alvilda Brovn,Undirected,1
+Lady Brovn,Miss Helene,Undirected,1
+Helene,Nicotin,Undirected,1
+Alvilda,Hr. Greve,Undirected,1
+Hastington,Lady Brovn,Undirected,2
+Avilda,Tom,Undirected,1
+Alvilda,Mylady,Undirected,2
+Robert,St. jGermain,Undirected,1
+Bachus,Venus,Undirected,1
+Alvilda,Grev Hastington,Undirected,1
+Offre,St. Germain,Undirected,1
+Lady Alvilda Brovn,St. Germain,Undirected,2
+Lady Alvilda,Pater Joseph,Undirected,1
+Mylady,St. Germain,Undirected,3
+Hastington,St. Germain,Undirected,6
+Lord Hastington,Lorden,Undirected,1
+Alvilda,St. Germain,Undirected,16
+Alvilda,Grev St. Germain,Undirected,2
+Robert Gerard,Wally,Undirected,7
+Greven,Robert Gerard,Undirected,1
+Greven,Wally,Undirected,2
+Robert,Wally,Undirected,20
+Greven,Jean,Undirected,1
+Grev Hastington,St. Germain,Undirected,3
+. Germain,Hastington,Undirected,1
+Alfred,Lady Brown,Undirected,1
+Hastington,Wally,Undirected,3
+Lady Alvilda,St. Germain,Undirected,9
+Alvilda,Robert,Undirected,5
+Robert,sif,Undirected,1
+Helene,Lady Alvilda,Undirected,4
+Hastington,Robert,Undirected,10
+Maalet,Robert,Undirected,1
+Louise,Richard,Undirected,2
+Alfred,Lorden,Undirected,2
+Alvilda,Ladyen,Undirected,2
+Alvilda,St.,Undirected,1
+Mylady,St.,Undirected,1
+Rose,Wally,Undirected,3
+Wally,huu,Undirected,1
+Grev Hastington,Robert Gerard,Undirected,3
+Lady Alvilda,Robert,Undirected,2
+Alvilda,Pater,Undirected,2
+Pateren,St. Germain,Undirected,2
+St. Germain,taus,Undirected,2
+Hastington,Robert Gerard,Undirected,4
+Hastington,Joseph,Undirected,2
+Lady Alvilda Brovn,Miss Helene,Undirected,1
+Wally,yastington,Undirected,1
+Hastington,ncrstai,Undirected,1
+St. Germain,ncrstai,Undirected,1
+Alvilda Brovn,Lady,Undirected,1
+Germain,Robert Gerard,Undirected,1
+St. Germain,Vexler,Undirected,1
+Grev Hastington,Robert,Undirected,1
+Gerard,Grev Hastington,Undirected,1
+Joseph,Pater«,Undirected,1
+Gerard,Hastington,Undirected,1
+Lord Hastington,Robert,Undirected,1
+John,Robert,Undirected,4
+John,fasf,Undirected,1
+Robert,fasf,Undirected,1
+John,Lord Hastington,Undirected,1
+Alfred saamegen,^Alvilda,Undirected,1
+Greven,saagar,Undirected,1
+Ladyen,Pater Joseph,Undirected,1
+Helene Holler,Lady Alvilda Brovn,Undirected,1
+Helene Holler,Ladyen,Undirected,1
+Alfred,Lady Marvitz,Undirected,2
+Lady Marvikz,Robert Gerard,Undirected,1
+Lady Brovn,Tibaldi,Undirected,1
+Alvilda,Robert Gerard,Undirected,2
+Alvilda,Lady Marvikz,Undirected,1
+Pateren,RobertGerard forFalsk,Undirected,1
+Ladyen,RobertGerard forFalsk,Undirected,1
+Lady Marvitz,Ladyen,Undirected,1
+Ladyen,St. Germain,Undirected,1
+Mylady,Robert,Undirected,1
+Greven,Lady Marvitz,Undirected,1
+Lady Brovn,Robert,Undirected,1
+Mørges,meg,Undirected,1
+Hastington,Lopez,Undirected,1
+Fortuna,Lopez,Undirected,1
+Alfred,Grev St Germain,Undirected,1
+St. Germain,saagar,Undirected,1
+Pater Joseph,saagar,Undirected,1
+Lady Alvilda,Robert Gerard,Undirected,1
+Pateren,taus,Undirected,1
+Pateren,isaa,Undirected,1
+Holla,Holler,Undirected,1
+Alfred,meo Holler,Undirected,1
+Grev Hastington,Mr. Richard,Undirected,1
+Grev Hastington,Lady Brøvn,Undirected,1
+Germain,Louise,Undirected,2
+Mr. Richard,taus,Undirected,1
+Louise,taus,Undirected,1
+Louise,jvar,Undirected,1
+Alfred,Richard,Undirected,2
+Louise Alfred,St. Germain,Undirected,1
+Mr. Richard,St. Germain,Undirected,1
+Alvilda,Lady Alvilda Brown,Undirected,2
+Alvilda,Lord Hastington,Undirected,1
+Alfred Tibaldi,Juan Lopez,Undirected,1
+,Lopez,Undirected,1
+Pateren,Robert Gerard,Undirected,1
+Grev Hastington,Wally,Undirected,1
+Gerard,Wally,Undirected,1
+Holler,Pateren,Undirected,1
+Greven,Ladyen,Undirected,1
+Germain,Mylady,Undirected,1
+Alfred,Helene,Undirected,4
+Lady Alvilda,Pafer Joseph,Undirected,1
+Neppe,Pater Joseph,Undirected,1
+Germain,Lady Alvilda,Undirected,1
+Grev Hastington,Mylady,Undirected,2
+Helene,St. Germain,Undirected,3
+Alsred Tibaldi,Grev Hastington,Undirected,1
+Alvilda,Tibaldi,Undirected,1
+Landers,St. Germain,Undirected,1
+Lander,St. Germain,Undirected,1
+Greven,nn,Undirected,1
+Greven,kjør,Undirected,1
+St. Germain,Øe,Undirected,1
+Alvilda,Hnn,Undirected,1
+William Holbys,heistes,Undirected,1
+Lady Alvilda,Lander,Undirected,1
+Alfred Tibaldi,cham,Undirected,1
+Helene,Lady Alice,Undirected,1
+Alvilda,Germain,Undirected,1
+Alfred Tibaldi,Holler,Undirected,1
+Dick,Holler,Undirected,2
+Dick,Juan Lopez,Undirected,1
+Lopez,saagar,Undirected,1
+Dick,Raahed,Undirected,2
+Kaptain Lander,St. Germain,Undirected,1
+Pater,St. Germain,Undirected,1
+Alfred Tibaldi,Lady Brown,Undirected,1
+Lady Brown,St. Germain,Undirected,1
+Kaptain Holler,Lopez,Undirected,1
+Lady Alvilda,Pater,Undirected,1
+Alvilda,Jesu,Undirected,1
+Sennora,Øe,Undirected,1
+Juan Lopez,Salvator,Undirected,1
+Alfred,Salvator,Undirected,1
+St. Germain,nin,Undirected,1
+Helene Holler,Lady Alvilda Brown,Undirected,1
+Germain,Lopez,Undirected,1
+Chorilla,Pateren,Undirected,1
+Chorilla,Lopez,Undirected,1
+Lopez,Traje,Undirected,2
+Sanchez,ral Lopez,Undirected,1
+Lopes,ral Lopez,Undirected,1
+Lopez sifort,Souverain,Undirected,1
+Lopez,Obersfen,Undirected,1
+Kaarde,Lopez,Undirected,1
+Lopez,Sanchez,Undirected,1
+Lopez,Sennora,Undirected,1
+Cordøn,Lopez,Undirected,1
+Helene,Lopez,Undirected,1
+Lady Alvilda,ester Helene,Undirected,1
+Helene,Lady Marvitz,Undirected,1
+Lady Marvitz,Louise,Undirected,1
+Gud,Hr. Greve,Undirected,1
+Avilda,Louise,Undirected,1
+Helene,Kaptain Holler,Undirected,2
+Alvilda,Lord Vane,Undirected,4
+Alvilda,ril Alsred,Undirected,1
+Alvilda,Elsfer,Undirected,1
+Alfred-,Helene,Undirected,1
+Holler,Lord Vane,Undirected,1
+Helene,LordS,Undirected,1
+Helene,Mylord,Undirected,1
+Gud,Helene,Undirected,1
+Helene,Lord,Undirected,1
+Holler,Mylady,Undirected,1
+Helene,Lord Vane,Undirected,1
+Alfred,Lord Vane,Undirected,1
+Mr. Snab,Mr. Snob,Undirected,1
+St. Germain,Wally,Undirected,3
+Røbert Gerard,St. Germain,Undirected,1
+Grev St. Germain,Wally,Undirected,2
+Louise,Wally,Undirected,2
+Grev St. Germain,Louise,Undirected,2
+Grev St. Germain,Lord Hastington,Undirected,1
+Lord Hastington,Louise,Undirected,1
+Grevæn,Hex,Undirected,1
+Alfred Tibaldi,Louise Marwitz,Undirected,1
+Grev St. Germain,Juan,Undirected,1
+Grev St. Germain,Lady Marwitz,Undirected,1
+Alfred,Lady Marwikz,Undirected,1
+Holler,Øe,Undirected,2
+Alfred,Kaptajn Hellers,Undirected,1
+Alfred,Grev Haslington,Undirected,1
+Alvilda,Grev Haslington,Undirected,1
+Alvilda,Holler,Undirected,1
+Louise,Robert Gerard,Undirected,2
+Alsred Tibaldi,Louise Marwitz,Undirected,1
+Alsred Tibaldi,Juan Lopez,Undirected,1
+Juan Lopez,St. Germain,Undirected,1
+Kaptain Holler,St. Germain,Undirected,1
+Kaptain Holler,jdet,Undirected,1
+Mr. Tibaldi,Sennor Lopez,Undirected,1
+Germain,Juan,Undirected,1
+Grevin,Louise,Undirected,1
+Alfred Tibaldi,Grev Hastingfon,Undirected,1
+Lord Hastingfon,St. Germain,Undirected,1
+Alfred,Kaptejn Holler,Undirected,1
+Helene,Kaptejn Holler,Undirected,1
+Alvilda,sægde,Undirected,1
+Alfred Hastington,Miss Helene Holler,Undirected,1
+Lord Roderik,Miss Helene Holler,Undirected,1
+Louise Marvitz,Robert Gerard,Undirected,1
+Dick,Wally,Undirected,1

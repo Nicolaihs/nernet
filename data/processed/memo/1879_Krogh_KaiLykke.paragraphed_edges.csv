@@ -1,0 +1,667 @@
+source,target,type,weight
+Frederik den 1stes,Jørgen Lykke,Undirected,1
+Frederik den 1stes,Peter Lykke,Undirected,1
+Franz den 1stes,Peter Lykke,Undirected,1
+Frantz den 1stes,Jørgen Lykke,Undirected,2
+Henrik Lykke,Jørgen Lykke,Undirected,1
+Dorotheas,Henrik Lykke,Undirected,1
+Dorotheas,Prinds Magnus,Undirected,1
+Henrik Lykke,Prinds Magnus,Undirected,1
+Frederik den 2dens,Henrik Lykke,Undirected,1
+Frederik den 2dens,Karen Banner,Undirected,1
+Gisselfeldt,Karen Banner,Undirected,1
+Gisselfeldt,Kallø,Undirected,1
+Elisabeth Brok,Franz Lykke,Undirected,1
+Anna,Elisabeth Brok,Undirected,1
+Anna,Kai Rantzau,Undirected,1
+Johan Rantzau,Kai Rantzau,Undirected,2
+Kai Rantzau,Sophie,Undirected,1
+Frederik den 2den,Johan Rantzau,Undirected,1
+Breide,Johan Rantzau,Undirected,1
+Breide,Kai Rankzau,Undirected,1
+Frantz Rankzau,Kai Rankzau,Undirected,1
+Christian den 4des,Frantz Rankzau,Undirected,1
+Christian den 4des,Kirstine Munks,Undirected,1
+Anna,Kirstine Munks,Undirected,1
+Anna,Franz Lykke,Undirected,1
+Franz Lykke,Sophie Rankzau,Undirected,1
+Johan Rankzau,Sophie Rankzau,Undirected,1
+Johan Rankzau,Kais,Undirected,1
+Eleonore,Kais,Undirected,1
+Eleonore,Kong Christian den 4de,Undirected,1
+Kirsten Munk,Kong Christian den 4de,Undirected,1
+Christian,Kronprinds,Undirected,1
+Christian,Prind,Undirected,1
+Frantz Lykke,sesse Anna,Undirected,1
+Anna Lykke,sesse Anna,Undirected,1
+Anna Lykke,Prindsen,Undirected,2
+Anna Lykke,fængsle,Undirected,1
+Sophie,fængsle,Undirected,1
+Anna Lykke,Franz Lykke,Undirected,3
+Anna Lykke,hnn,Undirected,2
+fil,hnn,Undirected,1
+Knud Ulfeldt fil,fil,Undirected,1
+Corfitz Ulfeldts,Knud Ulfeldt fil,Undirected,1
+Prinds Christian,Sophie Rantzau,Undirected,1
+Lars Ulfeldt fil Egefkov,Prinds Christian,Undirected,1
+Magdalene Sybille,Prinds Chrisfians,Undirected,1
+Johan Georg,Magdalene Sybille,Undirected,1
+Franz Ranzan,Johan Georg,Undirected,1
+Franz Lykke,Lykkes,Undirected,1
+Anna Lykke,Lykkes,Undirected,1
+Christence,Kai,Undirected,1
+Christence,Franz,Undirected,1
+Franz,Kai,Undirected,10
+Franz Lykke,Kai,Undirected,4
+Elisabeth Brock,Franz Lykke,Undirected,1
+Christence,Elisabeth Brock,Undirected,1
+Christence,fom,Undirected,1
+Niels Gyldenstjerne,fom,Undirected,1
+Franz Lykke,Niels Gyldenstjerne,Undirected,2
+Franz Lykke,Prinds Christian,Undirected,1
+Lykke,Niels Gyldenstjerne,Undirected,1
+Franz Lykke,Lykke,Undirected,1
+Franz Lykke,Magdalene Sybille,Undirected,2
+Grevinde Mansfeld,Niels Gyldenstjerne,Undirected,1
+Grevinde Mansfeld,Prindsesse Magdalene Sybjlle,Undirected,1
+Døttre,Prindsesse Magdalene Sybjlle,Undirected,1
+Guds,vig,Undirected,1
+Guds,Kai,Undirected,1
+Gud,Kai,Undirected,8
+Christian,Christianopel,Undirected,1
+Christianopel,Dybad,Undirected,1
+Kong Christian,fil,Undirected,1
+Døttre,Kirsten Munk,Undirected,1
+Frantz Rantzau,Sophie Catharina,Undirected,1
+Christian Pentz,Sophie Catharina,Undirected,1
+Christian Pentz,Døttre,Undirected,1
+Døttre,Ebbe Ulfeldt,Undirected,1
+Ebbe Ulfeldt,Hans Lindenov,Undirected,1
+Christiane,Hans Lindenov,Undirected,1
+Christiane,Hannibal Sehesfed,Undirected,1
+Eleonore Kirstine,Hannibal Sehesfed,Undirected,1
+Eleonore Kirstine,Ulfeldt,Undirected,1
+Hannibal Sehesfed,Ulfeldt,Undirected,1
+Hannibal Sehesfed,Pentz,Undirected,1
+Corfitz Ulfeldt,Pentz,Undirected,1
+Corfitz,Corfitz Ulfeldt,Undirected,2
+Corfitz Ulfeldt,Hannibal Sehesfed,Undirected,1
+Kai,Overgaard,Undirected,8
+Dybad,Kai,Undirected,2
+Prinds Frederik,le Roi,Undirected,1
+Danemark aura äans estts partis,le Roi,Undirected,1
+Danemark aura äans estts partis,PLnrops,Undirected,1
+Pentz,Prinds Frederik,Undirected,2
+Prinds Frederik,Sophia Amalie,Undirected,1
+Georg,Sophia Amalie,Undirected,1
+Escadren,Prindsessen,Undirected,1
+Grev Penkz,Prindsessen,Undirected,1
+Grev Penkz,iland,Undirected,1
+Johan Rift,iland,Undirected,1
+Johan Rift,Wedel,Undirected,1
+Halt ein,Wedel,Undirected,1
+Donnerhaus,Halt ein,Undirected,1
+Donnerhaus,"ein, was wilt",Undirected,1
+Ein Bild,"ein, was wilt",Undirected,1
+Ein Bild,himmlisch,Undirected,1
+Was scherz,himmlisch,Undirected,1
+Prind,Was scherz,Undirected,1
+Grev Penkz,Prind,Undirected,1
+,Grev Penkz,Undirected,1
+,Ahlefeldterne,Undirected,1
+Ahlefeldterne,Prindsessen,Undirected,1
+Penkz,Prindsessen,Undirected,1
+Hans Buchhardt,Penkz,Undirected,1
+Kong Christian den 3die,Prinds Christian,Undirected,1
+Margrethe Pappen,Prinds Christian,Undirected,1
+Margrethe Pappen,hiin,Undirected,1
+Christine,Gustav Adolphs,Undirected,1
+Christine,Oxenstjerna,Undirected,1
+Kong Christian,Oxenstjerna,Undirected,1
+Kong Christian,Prinds Frederik,Undirected,1
+Prinds Frederik,Prindsen,Undirected,1
+Pentz,Prindsen,Undirected,2
+Gabel,Pentz,Undirected,1
+Elisabeth Sophie,Penkz,Undirected,1
+Elisabeth Sophie,Magdale Sybille,Undirected,1
+Magdale Sybille,Sophie Amalie,Undirected,1
+Elisabeth,Sophie Amalie,Undirected,1
+Elisabeth,Prinds Frederik,Undirected,1
+Penkz,Pentz,Undirected,1
+Jørgen,hiin,Undirected,1
+Elisabeth Sophie,Kirsten Munk,Undirected,1
+Pentz,fom Christopher Gabel,Undirected,1
+Prinds Frederik,Torstenson,Undirected,1
+Gallas,Gud,Undirected,1
+Johan Adolph,Prinds Frederik,Undirected,1
+Frederiks,Johan Adolph,Undirected,1
+Adam Olivarius,Frederiks,Undirected,1
+Frederik,Liv,Undirected,1
+Frederik,Prindsessen,Undirected,1
+Keiseren,Prindsessen,Undirected,1
+Gud,Keiseren,Undirected,1
+Prindsessen,Sophie Amalie,Undirected,1
+Magdalene Sybille,Prinds Christian,Undirected,1
+Eger,Prinds Frederik,Undirected,1
+Frederik haabede,anders obliegt,Undirected,1
+Kai,Kai Lykke,Undirected,9
+Kai,Sophie Amalie,Undirected,11
+Sophie Amalie,woll,Undirected,1
+Kai,Prindsessen,Undirected,3
+Franz Lykke,Prindsessen,Undirected,1
+Franz Lykke,Naturales,Undirected,1
+Naturales,Sophie Amalie,Undirected,1
+Franz Brockenhuus,Sophie Amalie,Undirected,1
+Franz Brockenhuus,Kai,Undirected,4
+Franz,Sophie Amalie,Undirected,2
+Kai,Nansen,Undirected,5
+Franz Lykke,Nansen,Undirected,2
+Franz,Prindsessen,Undirected,1
+,Kai,Undirected,3
+,Overgaard,Undirected,1
+Franz Brockenhuus,Overgaard,Undirected,1
+Franz,Nansen,Undirected,1
+Franz,Joakim Bech,Undirected,1
+Franz Lykke,Joakim Beck,Undirected,2
+Joakim Beck,Kai,Undirected,9
+Joakim Beck,Kat,Undirected,1
+Kai,Kat,Undirected,1
+Beck,Franz Brockenhnus,Undirected,1
+Beck,Joakim Beck,Undirected,1
+Joakim Beck,Nansen,Undirected,1
+Franz Brockenhuus,Nansen,Undirected,1
+Frantz Brockenhuus,Nansen,Undirected,1
+Frantz Brockenhuus,Joakim Beck,Undirected,1
+Beck,Kai,Undirected,17
+Beck,Franz Brockenhuus,Undirected,2
+Brockenhuus,Kai,Undirected,8
+Brockenhuus,Nansen,Undirected,1
+Beck,Franz Lykke,Undirected,1
+Franz Brockenhuus,franst,Undirected,1
+Beck,Brockenhnus,Undirected,5
+Beck,Frankz,Undirected,2
+Frankz,Kai,Undirected,4
+Christense—hvorledes,Kai,Undirected,2
+Kai,Magot,Undirected,7
+Beck,Nansen,Undirected,1
+Kai,Ulfeldt,Undirected,9
+Beck,Ulfeldt,Undirected,1
+Kai,nied,Undirected,2
+Magot,Page,Undirected,1
+Beck,Magot,Undirected,2
+Prinds Christian,Vibeke Kruse,Undirected,1
+Ulfeldt,Vibeke Kruse,Undirected,1
+Ulfeldt,Vibeke,Undirected,1
+Prinds Christian,Prinds Frederik,Undirected,1
+Prinds Frederik,Ulfeldt,Undirected,1
+Franz Lykke,Ulfeldt,Undirected,1
+Adelsgaarde,Franz Lykke,Undirected,1
+Adelsgaarde,Kai,Undirected,1
+Kai,Vibeke,Undirected,1
+Kai Lykke,Vibeke,Undirected,2
+Frantz Brockenhuus,Kai Lykke,Undirected,2
+Frantz Brockenhuus,Kong Christian,Undirected,1
+Kai,Kong Christian,Undirected,1
+Vibeke,Vibeke Kruse,Undirected,1
+Kai Lykke,Vibeke Kruse,Undirected,1
+Kirsten,Vibeke Kruse,Undirected,1
+Kirsten,Munk,Undirected,1
+Corfitz Ulfeldt,Prinds Frederik,Undirected,1
+Prinds Frederik,Vibeke Kruse,Undirected,1
+Vibeke Kruse,s. k.,Undirected,1
+Kirsten Munk,s. k.,Undirected,1
+Kirsten Munk,Vibeke Kruse,Undirected,3
+Corfitz Ulfeldt,Kirsten Munk,Undirected,2
+Sehesteds,Ulfeldt,Undirected,1
+Biflop Brockmands,Ulfeldt,Undirected,1
+Biflop Brockmands,Reeses,Undirected,1
+Reeses,Seavenius,Undirected,1
+Christian den,Seavenius,Undirected,1
+Christian den,Kirsten Munk,Undirected,1
+Ulfeldl,Vibeke Kruse,Undirected,1
+Prinds Frederik,Ulfeldl,Undirected,1
+Frederik,Prinds Frederik,Undirected,1
+Frederik,Prind,Undirected,3
+Christian,Frederik,Undirected,1
+Christian,Valdemar,Undirected,1
+Christian den 4des,Valdemar,Undirected,1
+Christian den 4des,Kirsten Munk,Undirected,1
+Kai,Prind,Undirected,1
+Adslens,Frederik,Undirected,1
+Adslens,Kai,Undirected,1
+Christian den 4des,Prinds Frederik,Undirected,1
+Christian den 4des,Frederik d.,Undirected,1
+Frederik d.,Ulfeldt,Undirected,1
+Hannibal Sehested,Ulfeldt,Undirected,3
+Kai Lykke,Naturales,Undirected,2
+Naturales,Pentz,Undirected,1
+Pentz,Ulfeldt,Undirected,1
+Kai Lykke,Ulfeldt,Undirected,1
+Kaarde,Kai Lykke,Undirected,1
+Gabel,Kaarde,Undirected,1
+Kjedeltrommers,Ulfeldt,Undirected,1
+Corfitz Ulfeldt,Eleonore Christine,Undirected,1
+Dands,Frantz,Undirected,1
+Frantz,Kai,Undirected,1
+Corfitz Ulfeldt,Sophie Amalie,Undirected,1
+Corfitz Ulfeldt,Lehn,Undirected,1
+Lehn,Ulfeldt,Undirected,1
+Franz Brockenhuus,Ulfeldt,Undirected,1
+Franz Brockenhuus,Kai Lykke,Undirected,1
+Frankz Lykke,Kai,Undirected,2
+Frankz Brockenhnus,Frankz Lykke,Undirected,1
+Frankz Brockenhnus,Jockim Beck,Undirected,1
+Beck,Jockim Beck,Undirected,2
+Beck,Brockenhuus,Undirected,1
+Kai,Pierre Daniel Huet,Undirected,1
+Huet,Pierre Daniel Huet,Undirected,1
+Huet,Nansen,Undirected,1
+Frantz Lykke,Nansen,Undirected,1
+Frantz Lykke,Huet,Undirected,1
+Huet,Samuel Bochardt,Undirected,1
+Dronning Christinas,Samuel Bochardt,Undirected,1
+Dronning Christinas,Huet,Undirected,1
+Frederik den,Huet,Undirected,1
+Adam Olivarius,Frederik den,Undirected,1
+Adam Olivarius,Kong Frederik den 3die,Undirected,1
+Kai,Kong Frederik den 3die,Undirected,1
+Huet,Kai,Undirected,10
+Bochardt,Huet,Undirected,1
+Bochardt,Kong Frederik den,Undirected,1
+Kai,Kong Frederik den,Undirected,1
+Kai,valte,Undirected,1
+Peter Børting,valte,Undirected,1
+Bogeslaw,Peter Børting,Undirected,1
+Bogeslaw,Kai,Undirected,1
+Gelfkov,Kai,Undirected,1
+Gelfkov,Peter Borting,Undirected,1
+Kai,Peter Borting,Undirected,1
+Kai,Peter Børting,Undirected,9
+Børting,Kai,Undirected,15
+Børting,Peter Børting,Undirected,6
+Børting,hiin,Undirected,1
+Frantz Brockenhuus,Kai,Undirected,8
+Corfitz Ulfeldt,Kai,Undirected,1
+Corfitz Ulfeldt,Ulfeldt,Undirected,2
+Joachim Gerrdorff,Ulfeldt,Undirected,1
+Ulfeldt,Valdemar Christian,Undirected,3
+Hannibal Sehested,Naturales,Undirected,1
+,Naturales,Undirected,1
+Corfikz Ulfeld,Joachim Gersdorff,Undirected,1
+Corfikz Ulfeld,Ulfeldt,Undirected,1
+Corfikz Ulfeldt,Kai,Undirected,1
+Kai,f. k.,Undirected,1
+Ulfeldt,f. k.,Undirected,1
+Dybad,Ulfeldt,Undirected,1
+Dybad,Sophie Amalie,Undirected,1
+Christense Lykke,hiin,Undirected,1
+Hannibal Sehested,Sophie Amalie,Undirected,1
+Charles Dickson,Sophie Amalie,Undirected,1
+Charles Dickson,Edelmann“,Undirected,2
+Charles Dickson,Kai Lykke,Undirected,1
+Kai Lykke,Ulrik Christian Gyldenløve,Undirected,2
+Frantz Brockenhnus,Kai Lykke,Undirected,2
+Frantz Brockenhnus,Joakim Gersdorff,Undirected,1
+Ernst Gynther,Joakim Gersdorff,Undirected,1
+Dickson,Ernst Gynther,Undirected,1
+Dickson,Kai,Undirected,2
+Dicksous,Kai,Undirected,2
+Kai,Øllegaard,Undirected,6
+Gyldenstjerne,Øllegaard,Undirected,1
+Gyldenstjerne,Kai Lykke,Undirected,1
+Gyldenlove,Kai Lykke,Undirected,1
+Gyldenlove,Vibeke Krufe,Undirected,1
+Christian den,Vibeke Krufe,Undirected,1
+Christian den,Naturales,Undirected,1
+Gyldenløve,Kai Lykke,Undirected,1
+Gyldenløve,Kai,Undirected,2
+Dickson,Gyldenløve,Undirected,1
+Dickson,Falk,Undirected,1
+Falk,Kai Lykke,Undirected,1
+Dickson,Kai Lykke,Undirected,1
+Ernst Gynther,Kai Lykke,Undirected,1
+Gemalindes,Kai Lykke,Undirected,1
+Gemalindes,Sehesteds,Undirected,1
+Sehested,Sehesteds,Undirected,1
+Christian,Sehested,Undirected,1
+Dina Vinhovers,Ulfeldt,Undirected,2
+Dina Vinhovers,Walter,Undirected,1
+Frederik den 3die,Walter,Undirected,1
+Dina om,Frederik den 3die,Undirected,1
+Sophie Amalie,Walter,Undirected,1
+Kai Lykke,Sophie Amalie,Undirected,2
+Dina,Kai Lykke,Undirected,1
+Dina,Sophie Amalie,Undirected,2
+Dina,Kai,Undirected,5
+Dina,Walter,Undirected,3
+Gabel,Ulfeldt,Undirected,2
+Dina,Gabel,Undirected,1
+Charles Dickson,Kai,Undirected,2
+Charles Dickson,Dina,Undirected,1
+Dickson,Dina,Undirected,1
+Andients,Ulfeldt,Undirected,1
+Dina,Eleonore Christine,Undirected,2
+Eleonore Christine,Tina,Undirected,1
+Dina,Tina,Undirected,1
+Christense tilligemed,Dina,Undirected,1
+Kai,uncluotsr onlinnniuro,Undirected,1
+alignick bserot,uncluotsr onlinnniuro,Undirected,1
+Christense,alignick bserot,Undirected,1
+Christense,Sophie Amalie,Undirected,1
+Dina Vinhovers,Kai,Undirected,1
+Kai,Tina,Undirected,1
+Dina-Walth erste,Tina,Undirected,1
+Dina,Dina-Walth erste,Undirected,1
+Dina,Walter Falkeneren Dikson,Undirected,2
+Dina,Walthers,Undirected,2
+Hannibal Sehested,Korfitz Ulfeldt,Undirected,1
+Corfitz Ulfeld,Dina,Undirected,1
+Dina,Ulfeldt,Undirected,1
+Frederik den,Ulfeldt,Undirected,1
+Frederik den,Hannibal Sehested,Undirected,1
+Ulfeldt,son,Undirected,1
+Sehested,Ulfeldt,Undirected,1
+Kai,Naturales,Undirected,1
+Hiin,Kai,Undirected,2
+Hiin,Sehested,Undirected,1
+Kai Lykke,Kong Frederik den Tredies,Undirected,1
+F. Krogh,Kong Frederik den Tredies,Undirected,1
+Ehr,I. Jørgensen Co,Undirected,1
+Christian den Femte,Frederik den,Undirected,1
+Christian den Femte,Pentz,Undirected,1
+Frederik den,Pentz,Undirected,1
+Christian Ludvig,Frederik den,Undirected,1
+Christian Ludvig,Dorothea,Undirected,2
+Dorothea,feires,Undirected,1
+Sophie Amalie,feires,Undirected,1
+Abels,Sophie Amalie,Undirected,1
+Mesfer Abel,Mesfer Abels,Undirected,1
+Kai,Mesfer Abel,Undirected,1
+Kai,oni,Undirected,1
+Christense,Frantz Brockenhuus,Undirected,2
+Christense,Kai,Undirected,22
+Brockenhuus,Hiin,Undirected,1
+Brockenhuus,Frantz,Undirected,2
+Brockenhuus,Christense,Undirected,6
+Kai,hiin,Undirected,8
+Dorothea,Wirthschaft,Undirected,1
+Christense,Wirthschaft,Undirected,1
+Dickson,Ulfeldt,Undirected,1
+Dickson,Jakob Pedersen,Undirected,1
+Jakob Pedersen,Sophie Amalie,Undirected,1
+Kai,Soffi Abelsdatter,Undirected,10
+Kai,hans Fogeds,Undirected,2
+Kai,Soffi,Undirected,21
+Kai,Laugsmesters,Undirected,1
+Fritz,Laugsmesters,Undirected,1
+Frikz,Fritz,Undirected,1
+Peter Børting,Soffi,Undirected,4
+Soffi,Soffi Abelsdattcr,Undirected,1
+Peter Børting,hckve,Undirected,1
+Abel,Soffi,Undirected,6
+Abel,Kai,Undirected,4
+Kai,tom,Undirected,2
+Gud,Soffi,Undirected,1
+Huet,Olivarius,Undirected,1
+Kai Lykke,Olivarius,Undirected,1
+Frederik,Kai Lykke,Undirected,1
+Frederik,nied,Undirected,1
+Olivarius,nied,Undirected,1
+Kai,Olivarius,Undirected,1
+Abel,Børting,Undirected,3
+Abel,Jens,Undirected,1
+Frederik,Jens,Undirected,1
+Frederik,Soffi,Undirected,3
+Abel,Allarm,Undirected,2
+Abel,Villie,Undirected,1
+Peter Børting,Villie,Undirected,1
+Magot,Nansen,Undirected,1
+Børting,Soffi Abelsdatter,Undirected,1
+Frederik,hiin,Undirected,1
+Frederik,Kai,Undirected,3
+Chordrengenes,Kai,Undirected,1
+Chordrengenes,Soffi Abelsdatter,Undirected,1
+Soffi,Soffi Abelsdatter,Undirected,1
+Kai,KaiLykke,Undirected,1
+Soffi,grant,Undirected,1
+Soffi Abelsdatter,Sophie Amalie,Undirected,2
+Kai,naadigsf,Undirected,1
+Christense,naadigsf,Undirected,1
+Ester Dronningens,Kai,Undirected,1
+Christenfe,Christense,Undirected,1
+Kai,sknlde,Undirected,1
+,Nyerup,Undirected,1
+Frederik den Tredie,Nyerup,Undirected,1
+Kai,Megaard Gyldenstjerne,Undirected,1
+Chr. Frijs,Megaard Gyldenstjerne,Undirected,1
+Kai Lykke,Kronprindsessen,Undirected,1
+Kai,as,Undirected,2
+Kai,grant,Undirected,2
+Overgaard,Øllegaard,Undirected,1
+Christense,Overgaard,Undirected,1
+Christense,Øllegaard,Undirected,2
+Kai,Sofft,Undirected,2
+Soffi,Sofft,Undirected,1
+Soffi,hnn,Undirected,1
+Kai,hnn,Undirected,1
+Abel,Frederik,Undirected,2
+Frederik,Sofft,Undirected,1
+Peter Børting,Smeds,Undirected,1
+Soffi,Sossi,Undirected,1
+hiin,soni,Undirected,1
+Peter Børting,Skrivergaard,Undirected,1
+Soffi,rose,Undirected,1
+Rantzausholm,rose,Undirected,1
+Ester,Sofft,Undirected,1
+Børting,Soffi,Undirected,5
+Abel,Peter Børting,Undirected,1
+Gyldenstjerne,Kai,Undirected,2
+Brockenhuus,Gyldenstjerne,Undirected,1
+Axel Gyldenstjerne,Kai,Undirected,1
+Kai,Øllegaard Gyldenstjernes,Undirected,1
+Ta Børtings,Øllegaard Gyldenstjernes,Undirected,1
+Kai,Ta Børtings,Undirected,1
+Aland,Soffi,Undirected,1
+Aland,Kai,Undirected,1
+Peter Børting,Sofft,Undirected,1
+Joackim Beck,Kai,Undirected,1
+,Joackim Beck,Undirected,1
+Beck,Joackim Beck,Undirected,1
+Hallands,Kai,Undirected,2
+Dronning Christine,Kong Frederik den Tredies,Undirected,1
+Dronning Christine,Frederik den,Undirected,1
+Christine,Frederik den,Undirected,1
+Christine,Corfitz Ulfeldt,Undirected,1
+Christine,Frederik,Undirected,1
+Carl Gustav,Christine,Undirected,1
+Carl Gustav,Frederik den,Undirected,1
+Frederik den,Radziejowski,Undirected,1
+Johan Casimirs,Radziejowski,Undirected,1
+Johan Casimirs,Ulfeldt,Undirected,1
+Christine,Ulfeldt,Undirected,1
+Christine,Johan Casimir,Undirected,1
+Johan Casimir,fom,Undirected,1
+fom,svenfke,Undirected,1
+Carl Gustav,svenfke,Undirected,1
+Carl Gustav,Sverrigs,Undirected,1
+Carl Gustav,Seier,Undirected,2
+Kong Frederik,Ulfeldt,Undirected,1
+Joachim Gersdorff,Ulrik Christian Gyldenløve,Undirected,1
+Hans Friis,Ulrik Christian Gyldenløve,Undirected,1
+Hans Friis,Otto Krag,Undirected,1
+Axel Urup,Otto Krag,Undirected,1
+Axel Urup,Frantz Brockenhuus,Undirected,1
+Frantz Brockenhuus,Gunde Rosenkrands,Undirected,1
+Gunde Rosenkrands,Kai Lykke,Undirected,1
+Carl Gustav,alfor,Undirected,1
+,Carl Gustav,Undirected,2
+Carl Gustav,Kleist,Undirected,2
+Brockenhnus,Frantz Brockenhnus,Undirected,1
+Gabel,hiin,Undirected,1
+Gabel,Lykke,Undirected,3
+Carl Gustav,Kong Frederik den 3die,Undirected,2
+Eberstein,Hans Schak,Undirected,1
+Carl Gustav,Torstenson,Undirected,2
+Carl Gustav,Kai,Undirected,3
+Carl Gustav,Kong Frederik den Tredie,Undirected,1
+Carl Gustav,Kong Frederik,Undirected,2
+Kai Lykke,Kong Frederik,Undirected,1
+Carl Gustav,Kai Lykke,Undirected,2
+Carl Gustav,Frederik den 3die,Undirected,1
+Carl Gustav,Tøveir,Undirected,1
+Lykke,slolte,Undirected,1
+Kai Lykke,Lykke,Undirected,1
+Carl Gustav,Frederik,Undirected,1
+Dahlberg,Frederik,Undirected,1
+Dahlberg,Kai,Undirected,1
+Kai,Offre,Undirected,2
+Carl Gustav,Kong Carl Gustav,Undirected,1
+Kai,Kong Carl Gustav,Undirected,1
+Carl Gustav,Hans Schack,Undirected,3
+Carl Gustav,Hallands,Undirected,1
+Carl Gustav,sanimen,Undirected,1
+Kai,Lykke,Undirected,2
+Kai Lykke,hiin,Undirected,1
+Kai Lykke,Stenbock de paa,Undirected,1
+Hans Schack,Stenbock,Undirected,1
+Carl Gustav,Stenbock,Undirected,1
+Kong Frederik,Thronen,Undirected,1
+Frederik den 3die,Thronen,Undirected,1
+Frederik den 3die,Throne,Undirected,1
+Biflop Svane,Nansen,Undirected,1
+Hannibal Sehested,Nansen,Undirected,1
+Hannibal Sehested,Hans Schack,Undirected,2
+Hans Schack,Kai,Undirected,1
+Lykke,oni Soffi Abelsdatters,Undirected,1
+Nankzausholm,oni Soffi Abelsdatters,Undirected,1
+Nankzausholm,Soffi,Undirected,1
+Nantzausholm,Soffi,Undirected,1
+Nantzausholm,grant,Undirected,1
+Børting,Hans Lauritzen,Undirected,1
+Joackim Beck,Lykke,Undirected,1
+Kong Frederik,Lykke,Undirected,1
+Hs,Lykke,Undirected,1
+Lykke,Sophie Amalie,Undirected,1
+Hesf,Lykke,Undirected,1
+Hesf,Kai,Undirected,1
+Carl Gustav,Fyen,Undirected,1
+Carl Gustav,Peter Børting,Undirected,1
+Hans Lauritzen,Kai Lykke,Undirected,1
+Børting,Lykke,Undirected,1
+Børting,henrive,Undirected,1
+Kai,Øllegaard Gyldenstjerne,Undirected,1
+Christense,Øllegaard Gyldenstjerne,Undirected,1
+Rantzaus,Soffi,Undirected,1
+Kai,von Körbikz,Undirected,1
+Gabel,von Körbikz,Undirected,1
+Corfitz Ulfeldt,Gabel,Undirected,1
+Christian den 3die,Kong Christian den 2des,Undirected,1
+Christian den 3die,Christian den Anden,Undirected,1
+Christian den,Christian den Anden,Undirected,1
+Christian den,Kong Frederik den 3die,Undirected,1
+Kong Frederik,Kong Frederik den 3die,Undirected,1
+Frederik den,Kong Frederik,Undirected,1
+Frederik den,Naturales,Undirected,1
+Gabel,Rantzau,Undirected,6
+Ulfeldt,hiin,Undirected,1
+Gabel,Rankzau,Undirected,1
+Blomme,hasst,Undirected,1
+,v.,Undirected,1
+,Jniod,Undirected,1
+Jniod,Peter Børting,Undirected,1
+Hans Schack,Peter Børting,Undirected,2
+Hannibal,Hans Schack,Undirected,1
+Hannibal,Sehested,Undirected,1
+Hannibal Sehested,Sehested,Undirected,1
+Gabel,Kai,Undirected,6
+Soffi Abelsdatter,corpus clslicti,Undirected,1
+Kai,Oxer,Undirected,1
+Kai,Rantzau,Undirected,3
+Kai,Obersfen,Undirected,2
+Høiesteret,Obersfen,Undirected,1
+Frederik den 3die,Kai,Undirected,1
+Frederik den 3die,qvit,Undirected,1
+Schack,qvit,Undirected,1
+Schack,Sehesfed,Undirected,1
+Kai,Sehesfed,Undirected,1
+Gabel,Ranfzau,Undirected,1
+Kai,Ranfzau,Undirected,1
+Kai,orimon lRsse,Undirected,1
+Gabel,orimon lRsse,Undirected,1
+Christense,Gabel,Undirected,3
+Christenfe,Kai,Undirected,2
+Corfitz Ulfeldt,Rantzau,Undirected,2
+Kai Lykke,Overgaard,Undirected,1
+Christense,Rankzau,Undirected,3
+Kai Løches,Signett,Undirected,1
+Signett,nils,Undirected,1
+Kai,sif,Undirected,3
+Gabel,Weimar,Undirected,1
+Jørgen Bjelke,Kai,Undirected,1
+Jørgen Bjelke,Ove Skade,Undirected,1
+Ove Skade,V. Lange,Undirected,1
+Christen Steensen,V. Lange,Undirected,1
+Christen Steensen,Kai,Undirected,1
+Kai,Oluf Rosenkrands,Undirected,1
+Christian Daa,Oluf Rosenkrands,Undirected,1
+Christian Caspersen,Christian Daa,Undirected,1
+Christian Caspersen,Herm. Schrøder,Undirected,1
+Herm. Schrøder,foges,Undirected,1
+Henrik Lindenov,Kai,Undirected,1
+Henrik Lindenov,Thygge Below,Undirected,1
+Jens Larsen,Thygge Below,Undirected,1
+Jens Larsen,Knud Reventlow,Undirected,1
+Gabel,Knud Reventlow,Undirected,1
+Oluf Rosenkrands,Rantzau,Undirected,1
+Oluf Rosenkrands,mørk,Undirected,1
+mørk,Øllegaard Gyldenstjerne,Undirected,1
+Rantzausholm,Øllegaard Gyldenstjerne,Undirected,1
+Christopher Gabel,Rantzausholm,Undirected,1
+Assessor,Christopher Gabel,Undirected,1
+Frans Lykkes,Frederik den Tredie,Undirected,1
+Frans Lykkes,Kai,Undirected,1
+Generalfiskals,Kai,Undirected,1
+Christense,Frantz Lykke,Undirected,3
+Christense,fluide,Undirected,1
+Christense,Gud,Undirected,1
+Gud,Sophie Amalie,Undirected,1
+Frederik Arenstorff,Sophie Amalie,Undirected,1
+Frederik Arenstorff,Frederik den,Undirected,1
+Christense,Frederik den,Undirected,1
+Frantz Brockenhuus,Gabel,Undirected,1
+Arenstorff,Christense,Undirected,2
+Arenstorff,Gabel,Undirected,1
+Christense,Sophie Amalie Brockenhuus,Undirected,1
+Soffi,sæm,Undirected,1
+Rantzau,sæm,Undirected,1
+Huet,Magot,Undirected,1
+Gabel,Kørbitz,Undirected,1
+Kørbitz,Rantzan,Undirected,1
+Rantzan,Reedtz,Undirected,1
+Rantzau,Reedkz,Undirected,1
+Kai Lykke,Reedkz,Undirected,1
+Hans Laurikzen,Søren Kornerup,Undirected,1
+Kai Lykke,Søren Kornerup,Undirected,1
+Hans Laurikzen,Kai Lykke,Undirected,1
+,Hans Laurikzen,Undirected,1
+,Kai Lykke,Undirected,1
+Kai Lykke,Villie,Undirected,1
+Laurikzen,Villie,Undirected,1
+Laurikzen,Søren Kornerup,Undirected,1
+Peter Børting,Søren Kornerup,Undirected,1
+Laurikzen,Peter Børting,Undirected,1
+Laurikzen,christen Jord,Undirected,1
+Peter Borting,christen Jord,Undirected,1
+Kornerup,Peter Borting,Undirected,1
+Hans Laurikzen,Kornerup,Undirected,1
+Rantzau,Ulfeldt,Undirected,2
+Sperling,Ulfeldt,Undirected,1
+Frantz Rosenkrands,Ulfeldt,Undirected,1
+Arenslorff,Soirers,Undirected,1
+Arenslorff,Christense,Undirected,1
+Christense,Peter Børting,Undirected,1
+Gjeldfkov,Peter Børting,Undirected,1
+Børting,Gjeldfkov,Undirected,1
+Kai,Sofft Abelsdatter,Undirected,1
+Kai,Nantzaus,Undirected,1
+Rantzau,Sophie Amalie,Undirected,2

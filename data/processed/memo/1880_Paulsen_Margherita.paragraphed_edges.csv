@@ -1,0 +1,376 @@
+source,target,type,weight
+Tasso,Virgil,Undirected,1
+Girolamos,Irene,Undirected,1
+Margherita,sagve,Undirected,1
+Irene,sagve,Undirected,1
+Platon,Sokrates,Undirected,2
+Margherita,Pietro,Undirected,8
+Irene,Margherita,Undirected,85
+Ferdinandos,Ferdinands de Monteviola,Undirected,1
+Ferdinandos,Murat,Undirected,1
+Murat,Vincenzo,Undirected,1
+Ferdinand den 2dens,Vincenzo,Undirected,1
+Ferdinand den 2dens,Ferdinands,Undirected,1
+Ferdinands,Guttens,Undirected,1
+Guttens,Maitresser,Undirected,1
+Dandy,Maitresser,Undirected,1
+Dandy,Ferdinands,Undirected,1
+Ferdinands,Glands,Undirected,1
+bslla klioiukiim,llbeotre krantzais,Undirected,1
+Abbed Pisanis,paany,Undirected,1
+Terpsichores,paany,Undirected,1
+Monteviola,Terpsichores,Undirected,1
+Girolamos,Monteviola,Undirected,1
+Girolamos,Margherita,Undirected,2
+Don Giacomo,Greven,Undirected,1
+Don Giacomo,Vittorio,Undirected,1
+Murat,Vittorio,Undirected,1
+Margherita,Murat,Undirected,1
+Abbed Pisani,Margherita,Undirected,4
+Margherita,Pisani,Undirected,2
+Margherita,Røsf,Undirected,1
+Bajæ,Røsf,Undirected,1
+Margherita,srem,Undirected,2
+Efeu,Margherita,Undirected,2
+Margherita,Neptuns,Undirected,2
+Margherita,Neptun,Undirected,1
+Margherita,Sjøofficier,Undirected,2
+Margherita,de Monteviola,Undirected,1
+Irene,de Monteviola,Undirected,1
+Girolamos,as,Undirected,1
+Margherita Girolamo,as,Undirected,1
+Bien,Margherita Girolamo,Undirected,1
+Leda,Margherita,Undirected,1
+Ludvig den 14de,Margherita,Undirected,1
+Ludvig den 14de,Ursula,Undirected,1
+Margherita,Ursula,Undirected,4
+Girolamo,Margherita,Undirected,36
+Girolamo Gualandi,b > r.,Undirected,1
+Bromante,Fayade,Undirected,1
+Helenas,Trojas,Undirected,1
+Margherita,Miaja,Undirected,1
+Irene,Miaja,Undirected,1
+Irene,Tyran,Undirected,1
+Jeremiader,Margherita,Undirected,1
+Irene,Jeremiader,Undirected,1
+Irene,iveien,Undirected,1
+Monteviola,Signora Morelli,Undirected,1
+grættent,iveien,Undirected,1
+Chignon,Girolamo Gualandi,Undirected,1
+Girolamo Gualandi,Margherita,Undirected,1
+Girolamo,Greven,Undirected,2
+B.,Irene,Undirected,1
+B.,S.,Undirected,1
+Grev.,S.,Undirected,1
+Girolamo,Signora Rosa,Undirected,1
+Girolamo,Irene,Undirected,7
+Helenes,Margherita,Undirected,1
+Girolamo,Maria Antoinette,Undirected,1
+Capri,Margherita,Undirected,5
+gussto ssfflro,oosl soavs,Undirected,1
+aorus s llolos star sulla navs,oosl soavs,Undirected,1
+Margherita,Sjøvand,Undirected,2
+Margherita,Signor,Undirected,2
+Margherita,Signora,Undirected,1
+Jomfru Marias,Signora,Undirected,1
+Enkelle,Jomfru Marias,Undirected,1
+Enkelle,Margherita,Undirected,1
+Margherita,Monteviola,Undirected,1
+Greven,Monteviola,Undirected,2
+Greven,Margherita,Undirected,10
+Margherita,paany,Undirected,2
+Girolamo,paany,Undirected,1
+Karoline,Murat,Undirected,1
+Dronning Viktoria,Murat,Undirected,1
+Dronning Viktoria,Lord,Undirected,1
+Lord,Margherita,Undirected,6
+Lady Thornton,Margherita,Undirected,12
+Lady Thornton,Lord,Undirected,1
+Lordens,Margherita,Undirected,1
+Ladyen,Lordens,Undirected,1
+Erotts,Ladyen,Undirected,1
+Erotts,asurrs,Undirected,1
+Kamilla,asurrs,Undirected,1
+Kamilla,Ladyen,Undirected,1
+August Kopisch,Ladyen,Undirected,1
+August Kopisch,Ferraro,Undirected,1
+Ladyen,Margherita,Undirected,7
+Ladyen,Lord,Undirected,1
+Lord,Lsautifuk,Undirected,1
+Kamillo,Lsautifuk,Undirected,1
+Kamillo,Margherita,Undirected,38
+Adam,Margherita,Undirected,1
+Adam,Lady Thornton,Undirected,1
+Kamilla,Margherita,Undirected,12
+Kamilla,Madonna,Undirected,1
+Madonna,Margherita,Undirected,5
+Margherita,nien,Undirected,1
+Lady Thornton,nien,Undirected,1
+Lady Thornton,Lorden,Undirected,2
+Lorden,Margherita,Undirected,7
+Lord E.,Lorden,Undirected,1
+Lorden,Rafaels,Undirected,1
+Mariannas,Rafaels,Undirected,1
+Lord Thornton,Mariannas,Undirected,1
+Lord Thornton,Margherita,Undirected,5
+Gidi-Gaigai,Kamilla Karo,Undirected,1
+Margherita,Tarantellaen,Undirected,1
+Kamilla,Margheritas letvakte,Undirected,1
+Kamilla,Neptun,Undirected,1
+Abbed Pisani,Neptun,Undirected,1
+Margherita,Tibers,Undirected,2
+Capri,Lady Thornton,Undirected,1
+Harry,Margherita,Undirected,1
+Lady,Lady Thornton,Undirected,1
+Kamilla,Tibers,Undirected,1
+Kamillo,Tibers,Undirected,1
+Kamillo,Limonade,Undirected,1
+Dands,Margherita,Undirected,1
+Margherita,Tiberius,Undirected,1
+Kamillo,Tiberius,Undirected,1
+Angelus,Procida,Undirected,1
+Angelus,Margherita,Undirected,1
+Margherita,as,Undirected,2
+Tu sei,questo mio cuor,Undirected,1
+Eremiten,Margherita,Undirected,2
+Grevinden,Kamilla,Undirected,1
+Birbante,Kamilla,Undirected,1
+Gidi-Gaigai,Giovanni,Undirected,1
+Giovanni,Viktor Scheffel,Undirected,1
+Trattori,Viktor Scheffel,Undirected,1
+Giovanni,io,Undirected,1
+Gidi-Gaigai,io,Undirected,1
+Gidi-Gaigai,Viktor Scheffel,Undirected,1
+Guidi-Gaigai,Viktor Scheffel,Undirected,1
+Guidi-Gaigai,Karl,Undirected,1
+Gidi-Gaigai,Karl,Undirected,1
+Gidi-Gaigai,Gidi-Gaigas,Undirected,1
+Lorden,ester hans,Undirected,1
+Prinds,ester hans,Undirected,1
+Latlmrina«,Prinds,Undirected,1
+Latlmrina«,Syndikussens,Undirected,1
+Mariuccia,Syndikussens,Undirected,1
+Mariuccia,Rosina,Undirected,7
+Kamillo,Mariuccia,Undirected,11
+Margherita,Mariuccia,Undirected,7
+Kamilla,Rosina,Undirected,1
+Kamilla,Mariuccia,Undirected,3
+Dands,Gratie,Undirected,1
+Dands,Springdands,Undirected,1
+Springdands,taus,Undirected,1
+Kamillo,Sultan,Undirected,1
+Rofina,Sultan,Undirected,1
+Mariuccia,Rofina,Undirected,1
+Kamillo,Rosina,Undirected,1
+Margherita,Margherita fkjulte,Undirected,1
+Lsllo,Margherita fkjulte,Undirected,1
+Kollo,Lsllo,Undirected,1
+Kollo,nies,Undirected,1
+Gidi-Gaigai,Lacrymæ Christi,Undirected,1
+Lacrymæ Christi,Ladyen,Undirected,1
+Gidi-Gaigai,Kamillo Caro,Undirected,1
+Jmoi-s-,Kamillo,Undirected,1
+Gidi-Gaigai,Kamillo,Undirected,1
+Gidi-Gaigai,Margherita,Undirected,2
+Mariuccia,ftor,Undirected,1
+Inglesi,Rosina,Undirected,1
+Kamillo,Lady Thornton,Undirected,1
+Kamilles Blomsf,Kamillo,Undirected,1
+Kamillo,Kjærest,Undirected,1
+Goethes,Gud,Undirected,1
+Italiu,Margherita,Undirected,1
+Lvviva,lu della Italla,Undirected,1
+^Lvviva,lu della Italla,Undirected,1
+Lady Thornton,^Lvviva,Undirected,1
+Grazie,Lorden,Undirected,1
+Grazie,Signor,Undirected,1
+Kamilla,Signor,Undirected,1
+Ana Capris,Gidi-Gaigai,Undirected,1
+Gidi-Gaigai,Marianna,Undirected,2
+Kamillo,Marianna,Undirected,3
+Marianna,Rosina,Undirected,2
+Gidi-Gaigai,Tarantella,Undirected,1
+Marianna,Tarantella,Undirected,1
+Lord E.,Marianna,Undirected,1
+Lord E.,s,Undirected,1
+Marianna,s,Undirected,1
+Lady Th orntons,Margherita,Undirected,1
+Lady Th orntons,Lorden,Undirected,1
+Dandsen,Kamillo,Undirected,1
+Dands,Dandsen,Undirected,1
+Marianna,Pungolo,Undirected,1
+Kamilla,Pungolo,Undirected,1
+Gidi-Gaigai,Mariuccia,Undirected,2
+Marianna,Mariuccia,Undirected,2
+Rosina,ester,Undirected,1
+Cicerone,Lady Thornton,Undirected,1
+Kamilla,Kamillo,Undirected,1
+Margherita,ester Lady Thornton,Undirected,1
+Kamillo,ester Lady Thornton,Undirected,1
+Kamillo,Ladyen,Undirected,2
+Dandsen,Margherita,Undirected,1
+GidiGaigais,Margherita,Undirected,2
+Margherita,ester,Undirected,1
+Irene,Kamillo,Undirected,10
+Irene,IreneHun,Undirected,1
+Jgaarmorges,Margherita,Undirected,1
+Komtessen,Margherita,Undirected,1
+Flacon,Margherita,Undirected,1
+Kamillo,Kamillo Karo,Undirected,2
+Gidi-Gaigai,Lord,Undirected,1
+Castellamare,Lady Thornton,Undirected,1
+Faust,Margarethe,Undirected,3
+Faust,Gud,Undirected,2
+Gud,Margherita,Undirected,5
+Don Juan,Nina,Undirected,1
+Marianna,Nina,Undirected,1
+Capri,Ladyen,Undirected,1
+Harry,Ladyen,Undirected,1
+Plinius,Sjøftad,Undirected,1
+Fredrik den 2den,Plinius,Undirected,1
+Fredrik den 2den,Karl 1,Undirected,1
+Karl 1,Kong Ladislas,Undirected,1
+Johanne,Kong Ladislas,Undirected,1
+Ferdinand den,Johanne,Undirected,1
+Ferdinand den,Irene,Undirected,1
+Irene,Pietro,Undirected,6
+Irene,Mama,Undirected,5
+Gud,Mama,Undirected,1
+Gud,Irene,Undirected,2
+Mama,Margherita,Undirected,1
+Annunziata,Irene,Undirected,2
+Irene,Maria,Undirected,1
+Mama,Mosjø Pietro,Undirected,1
+Mama,Papas,Undirected,1
+Margherita,Maria,Undirected,1
+Guttens,Margherita,Undirected,1
+Alberto,Emma,Undirected,1
+Emma,Irene,Undirected,1
+Irene,Maccaroni,Undirected,1
+Mama,babbo,Undirected,1
+Leopardis,Margherita,Undirected,1
+Mama,Øienlaag,Undirected,1
+Adieu,Øienlaag,Undirected,1
+Adieu,Carina,Undirected,1
+Irene,Rossini,Undirected,1
+Scirocco,Vesuv,Undirected,1
+Kjære,Margherita,Undirected,1
+Irene,Kamilla,Undirected,3
+Capri,Girolamo,Undirected,1
+Forælore,Margherita,Undirected,1
+Irene,mio,Undirected,1
+Irene,matblaa Streif,Undirected,1
+Margherita,matblaa Streif,Undirected,1
+Adieu,Margherita,Undirected,2
+Margherita,sor,Undirected,1
+naa,sor,Undirected,1
+Elfkede,naa,Undirected,1
+Sokrates,s,Undirected,1
+Homer,s,Undirected,1
+Homer,Platon,Undirected,1
+Orpheus,Platon,Undirected,1
+Antigone,Orpheus,Undirected,1
+Antigone,Hellen,Undirected,1
+Hellen,Prometheus,Undirected,1
+Grevinden,Irene,Undirected,1
+Grevinden,Nina,Undirected,1
+Greven,Nina,Undirected,1
+Greven,Nurianim,Undirected,1
+Fanny,Taglioni,Undirected,1
+Badis ll,Margherita,Undirected,1
+Gud,signe,Undirected,2
+Margherita,Platon,Undirected,2
+Margherita,Sfinxens,Undirected,1
+Knidos,Sokrates,Undirected,1
+Kjøds,Knidos,Undirected,1
+Greven,Irene,Undirected,1
+Kapri,Margherita,Undirected,1
+Laura,Petrarkas,Undirected,1
+Laura,Saffo,Undirected,1
+Margherita,Saffo,Undirected,2
+Caselli,Foscolo,Undirected,1
+Caselli,Margherita,Undirected,1
+Bajadsen,Kamillo Karo,Undirected,1
+Bajadsen,Kamillo,Undirected,1
+Don Juan,Julia,Undirected,1
+Don Juan,Margherita,Undirected,1
+Margherita,ester Margheritas,Undirected,2
+Margherita,Æschylosh Sophokles,Undirected,1
+Euripides,Æschylosh Sophokles,Undirected,1
+Euripides,Margherita,Undirected,1
+Girolanio,Margherita,Undirected,2
+Greven,Rosa,Undirected,1
+Margherita,Papa,Undirected,2
+Margherita,Rosa,Undirected,2
+Kamillo,Pietro,Undirected,2
+Kamillo,Mark,Undirected,1
+Gratie,Margherita,Undirected,1
+Gratie,L lu Van Dyck,Undirected,1
+Girolamo,Kamillo,Undirected,4
+Adieu,Kamillo,Undirected,1
+Girolamo,Kamilla,Undirected,1
+Grazie,Kamillo,Undirected,1
+Margherita,Mefistofeles,Undirected,3
+Gretchens,Mefistofeles,Undirected,1
+Margherita,Rothschilds,Undirected,1
+Grev de Monteviola,Margherita,Undirected,1
+Margherita,Parthenope,Undirected,2
+Margherita,Speideres,Undirected,1
+-Girolamo,Margherita,Undirected,1
+Kamillo,Piedigrotta,Undirected,2
+Abbed Pisani,Irene —,Undirected,1
+Irene —,Margherita,Undirected,1
+Ladyen,Signor,Undirected,1
+Adam,Gud,Undirected,1
+Greven,Signor,Undirected,1
+Greven,Lorden,Undirected,1
+Lorden,taust,Undirected,1
+Dronning Viktoria,Margherita,Undirected,1
+Dronning Viktoria,Gud,Undirected,1
+Karl den 3die,Leopold Robert,Undirected,1
+Augustus,Seneca,Undirected,1
+Petronius,Seneca,Undirected,1
+Petronius,Virgil,Undirected,1
+Capri,Irene,Undirected,1
+Girolamo,Marghcritas,Undirected,1
+Graad,Irene,Undirected,1
+Graad,Margherita,Undirected,1
+Margherita,signe,Undirected,2
+Margherita,Margherita fkalv,Undirected,1
+Don Giacomo,Margherita fkalv,Undirected,1
+Don Giacomo,Grev Paolas,Undirected,1
+Grev Paolas,Vitelli,Undirected,1
+Vitelli,Vittorio,Undirected,1
+Irene,Ursula,Undirected,1
+Margherita,hnn,Undirected,1
+Signor,keg,Undirected,1
+Margherita,Pozzuoli,Undirected,1
+Grevinden,Margherita,Undirected,1
+Girolamo,Kristus,Undirected,1
+Margherita,Vergas,Undirected,1
+LuUo in Nasollora,Margherita,Undirected,1
+Brunelleschis,Michel Angelos,Undirected,1
+Abbed Pisani,Bei,Undirected,1
+Sannazaro,kok karto,Undirected,1
+Kong Frederik den 2den,Sannazaro,Undirected,1
+David,Kong Frederik den 2den,Undirected,1
+David,Jonathan,Undirected,1
+Jonathan,Pan,Undirected,1
+Pan,Sannazaro,Undirected,1
+Margherita,Sannazaro,Undirected,1
+Leonardo,Margherita,Undirected,1
+Leonardo,Pisfoias,Undirected,1
+Mikael,Pisfoias,Undirected,1
+Kristi,Margherita,Undirected,1
+Ursula,taust,Undirected,1
+Margherita,taust,Undirected,1
+Giftermaal,Margherita,Undirected,1
+Girolamo,Lorden,Undirected,2
+Graad,Monteviola,Undirected,1
+Daniel,Gud,Undirected,1
+dlaxoli,suok bsato,Undirected,1
+Margherita,reisfe,Undirected,1
+D.,Irene,Undirected,1
+Irene,Lord Thornton,Undirected,2
+paany,sfeg,Undirected,1
+Margherita,Martyrindens,Undirected,2

@@ -1,0 +1,495 @@
+source,target,type,weight
+Mester Ambrosius,s,Undirected,1
+Jærn,Moder Sigbrit,Undirected,1
+Ambrosius Bogbinder,Kaal,Undirected,1
+Hans,Mester,Undirected,2
+Guds,helsl,Undirected,1
+Guds,Kong Christiern,Undirected,1
+Hans,Kong Christiern,Undirected,1
+Kong Frederik,Torben Oxes,Undirected,1
+Gyldenstjerne,Torben Oxes,Undirected,1
+Gyldenstjerne,Kong Christiern,Undirected,1
+Knud Gyldenstjerne,Kong Christiern,Undirected,1
+Knud Gyldenstjerne,Torben Oxe,Undirected,1
+Frederik,Torben Oxe,Undirected,1
+Hans,Niels Ribe,Undirected,6
+Chrisfiern,Kong Chrisfiern,Undirected,1
+Ambrosius,dei,Undirected,1
+Ambrosius,Jørgen Wullen-weber,Undirected,1
+Ambrosius,Hans,Undirected,1
+Ambrosius,Christiern,Undirected,1
+Kong Christiern,Niels Ribe,Undirected,7
+Hans,Mester Ambrosius,Undirected,2
+Erika,Hans,Undirected,8
+Ambrosius Bogbinder,Erika,Undirected,2
+Erika,Niels Ribe,Undirected,21
+Jomfru Erika,Niels Ribe fil,Undirected,1
+Ambrosius,Niels Ribe fil,Undirected,1
+Maren Ribe,Niels Ribe,Undirected,1
+Ambrosius,Niels Ribe,Undirected,9
+Mesfer Ambrosius,Niels Ribe,Undirected,3
+Erika,Mesfer Ambrosius,Undirected,2
+Ambrosius Bogbinder,lille Niels,Undirected,1
+Almisse,Ambrosius,Undirected,1
+Klaus Skade,Niels Ribe,Undirected,12
+Erika,lille Niels,Undirected,1
+Erika,hnn,Undirected,2
+hnn,lille Niels,Undirected,1
+Niels Ribe,Peblinge,Undirected,1
+Klaus,Niels Ribe,Undirected,7
+Guds,Klaus,Undirected,1
+Guds,Niels Ribe,Undirected,1
+Klans,Niels Ribe,Undirected,1
+Mester Ambrosius,Niels Ribe,Undirected,2
+Hans Taufen,Mester Ambrosius,Undirected,1
+Hans Taufen,Joachim Rønnow,Undirected,1
+Joachim Rønnow,Niels Ribe,Undirected,1
+Hans Tansen,Niels Ribe,Undirected,2
+Hans Tansen,Klans,Undirected,1
+Hans Tausens,Klans,Undirected,1
+Klaus Skade,Peblinge,Undirected,1
+Jngen,Niels Ribe,Undirected,1
+Niels Ribe,Ronnow,Undirected,1
+Hans Taufen,Ronnow,Undirected,1
+Hans Tausens,Ronnow,Undirected,1
+Gud,Ronnow,Undirected,1
+Klaus Skade,deu,Undirected,1
+Niels Ribe,deu,Undirected,1
+Ambrosius Bogbinder,Niels Ribe,Undirected,5
+Ambrosius Bogbinder,sif,Undirected,1
+Erika,Hnn,Undirected,2
+Klaus,Niels,Undirected,1
+Erika de strunke,Niels Ribe,Undirected,1
+Niels,lille Niels,Undirected,1
+Dover,Klaus,Undirected,1
+Dover,Jærnskaa,Undirected,1
+Klaus,Slaaen,Undirected,1
+Niels Ribe,Slaaen,Undirected,1
+Gud,Lille Erika,Undirected,1
+Gud,signe,Undirected,1
+lille Erika,signe,Undirected,1
+Kurt Pilegrim,Niels Ribe,Undirected,59
+Kurt,Niels Ribe,Undirected,40
+Niels Ribe,fom,Undirected,1
+Kong Frederik,fom,Undirected,1
+Kong Frederik,Markus Meyer,Undirected,1
+Markus Meyer,Niels Ribe,Undirected,36
+Niels Ribe,være den,Undirected,1
+Karl,Markus Meyer,Undirected,2
+Jørgen Wullenweber,Markus Meyer,Undirected,3
+Gud,Jørgen Wullenweber,Undirected,2
+Jørgen Wullenweber,Karl,Undirected,1
+Hans Tausen,Niels Ribe,Undirected,1
+Markus Meyer,Pebling,Undirected,1
+Christiern,Niels Ribe,Undirected,3
+Christiern,Jørgen Wullenweber,Undirected,1
+Niels Ribe,Vams,Undirected,3
+Jørgen Wullenweber,Obrist,Undirected,1
+Jørgen Wullen-weber,Niels Ribe,Undirected,1
+Erika,Jørgen Wullen-weber,Undirected,1
+Erika,Mester Ambrosins,Undirected,1
+Jørgen Wullenweber,Niels Ribe,Undirected,1
+Ambrosins,Erika,Undirected,1
+Ambrosins,Gud,Undirected,1
+Ambrosius,Erika,Undirected,4
+Niels Ribe,Pibernes,Undirected,1
+Ambrosius Bogbinder,Pibernes,Undirected,1
+Ambrosius Bogbinder,Jørgen Wullenweber,Undirected,1
+Mester Ambrosius,Wullenweber,Undirected,1
+Erika,Wullenweber,Undirected,1
+Meyer,Niels Ribe,Undirected,7
+Jomfru Erika,Meyer,Undirected,1
+Christiern,Hans,Undirected,1
+Jomfru Erika,Niels Nibe,Undirected,1
+Ambrosins,Niels Ribe,Undirected,4
+Erika,Jørgen Wullenweber,Undirected,1
+Ambrosins,Jørgen Wullenweber,Undirected,1
+Karl,Niels Ribe,Undirected,9
+Erika,Karl,Undirected,1
+Ambrosius Bogbinder,Markus Meyer,Undirected,1
+Klaus,as,Undirected,1
+Kurt Pilegrim,Niels,Undirected,5
+Allandsens,Niels,Undirected,1
+Niels Ribe,fpurgte,Undirected,1
+Kurt Pilegrim,Markus Meyer,Undirected,6
+Henrik den,Markus Meyer,Undirected,1
+Markus Meyer,Urban,Undirected,3
+Kurt Pilegrim,Urban,Undirected,2
+Kurt,Kurt Pilegrim,Undirected,4
+Kurt,Niels,Undirected,2
+Markus Meyer,Niels,Undirected,2
+Erika,Markus Meyer,Undirected,1
+J,Markus Meyer,Undirected,1
+J,jert Herberg,Undirected,1
+Urban,lille Elfe,Undirected,1
+Elses,Markus Meyer,Undirected,1
+Herhid,Markus Meyer,Undirected,1
+Markus Meyer,sif Sværdhefte,Undirected,1
+Herhid,sif Sværdhefte,Undirected,1
+Herhid,Niels,Undirected,1
+Karl,Kurt Pilegrim,Undirected,4
+Hansa,jsHvad,Undirected,1
+Markus Meyer,Mester Urban,Undirected,2
+Markns Meyer,Niels Ribe,Undirected,1
+Kurt Pilegrim,Momme,Undirected,1
+Momme,Niels Ribe,Undirected,1
+Kurt,Markus Meyer,Undirected,3
+Karl,Svend,Undirected,5
+Kurt Pilegrim,Meyer,Undirected,2
+Marie,Niels Ribe,Undirected,1
+Lybeks,Niels Ribe,Undirected,1
+Lybeks,Markus Meyer,Undirected,1
+Svend“,frank,Undirected,1
+Niels Ribe —,Svend“,Undirected,1
+Gotfred Bardewick,Niels Ribe —,Undirected,1
+Gotfred Bardewick,Henrik,Undirected,1
+Gottfred Bardewick,Meyer,Undirected,1
+Bardewick,Markus Meyer,Undirected,1
+Bardewick,Niels Ribe,Undirected,1
+Henrik,Hr. Bardewick,Undirected,1
+Anne Boleyn,Katharina,Undirected,2
+Anne Boleyn,Kejser-Karls,Undirected,1
+Kejser-Karls,Kong Henrik,Undirected,1
+Kong Henrik,Meyer,Undirected,1
+Kong Henrik,Tomers,Undirected,1
+Henrik den,Thomas Wolsey,Undirected,1
+Jork,Thomas Wolsey,Undirected,2
+Anne Boleyn,Thomas Wolsey,Undirected,1
+Anne Boleyn,Thomas Boleyns,Undirected,2
+Katharina,Kong Henrik den ottende,Undirected,1
+Hermelins,Kong Edward,Undirected,1
+Kong Edward,mai psnss,Undirected,1
+Meyer,Sir Guildford,Undirected,1
+Markus Meyer,Sir Guildford,Undirected,1
+Elses,Øksen,Undirected,1
+sældes,Øksen,Undirected,1
+Goslik Luntes,Markus Meyer,Undirected,1
+Christiern,Christoffer,Undirected,1
+Christian,Christiern,Undirected,3
+Jørgen Wullen-weber,Kong Christiern,Undirected,1
+Hans Bundtmager,Niels Ribe,Undirected,2
+Markus Meyer,Wullenweber,Undirected,1
+Niels Ribe,Wullenweber,Undirected,1
+Husbond,Niels Ribe,Undirected,1
+Niels Ribe,sør,Undirected,1
+Borgmesfersfen,Niels Ribe,Undirected,1
+Niels Ribe,jert,Undirected,3
+Jørgen Wullenweber,Meyer,Undirected,1
+Jkke,Markus Meyer,Undirected,1
+Greven,lille Niels,Undirected,1
+Markus Meyer,"Svend,",Undirected,1
+Dpr,"Svend,",Undirected,1
+Dpr,Markus Meyer,Undirected,1
+Birgit,Markus Meyer,Undirected,3
+Birgit,Mogens Sværd-fegers,Undirected,1
+Markus Meyer,Mogens Sværd-fegers,Undirected,1
+Markus Meyer,Peder Barkes,Undirected,2
+Niels Ribe,hans Norbak,Undirected,1
+Niels,Øberst,Undirected,1
+Markus Meyer,Øberst,Undirected,1
+Niels Ribe,Svend,Undirected,15
+Kurt,Svend,Undirected,3
+Kong Valdemar,Niels Ribe,Undirected,1
+Dagmar,Kong Valdemar,Undirected,1
+hannem,hannem ikkun,Undirected,1
+Dagmar,hannem ikkun,Undirected,1
+Dagmar,hannem,Undirected,1
+Niels Ebbesen,Stig,Undirected,1
+Kurt Pilegrim,Taterslægt,Undirected,1
+Gud,Niels Ribe,Undirected,10
+Elsebeth,Soffi,Undirected,2
+Niels Ribe,lille Soffi,Undirected,1
+Birgit,Mosfer Birgit,Undirected,1
+Birgit Mogens Sværdfegers,Peder Barkes Gyde,Undirected,1
+Birgit,Sossi,Undirected,1
+Niels Ribe,Soffi,Undirected,9
+Hans,Peder Hønsekræmmer,Undirected,1
+Birgit,Peder Hønsekræmmer,Undirected,1
+Maren Poppes,Vibekke,Undirected,1
+Urban,allenfals,Undirected,1
+Birgit,allenfals,Undirected,1
+Birgit,Urban,Undirected,7
+Birgit,Mo,Undirected,7
+Birgit fulgle,Urban,Undirected,1
+Karl,Urban,Undirected,1
+Birgit Mogens Sværdsegers,Niels,Undirected,1
+Birgit,Wenzelas,Undirected,1
+Birgit,Niels Ribe,Undirected,14
+Birgit Sværdfegers,Markus Meyer,Undirected,1
+Birgit Sværdfegers,Else,Undirected,2
+Niels Ribe,allenfals,Undirected,1
+Allandfens,Kurt Pilegrim,Undirected,1
+Birgit,Soffi,Undirected,8
+Birgit —,Urban,Undirected,1
+Birgit,Kurt,Undirected,8
+Niels Ribe,Urban,Undirected,3
+Birgit strængt,Niels Ribe,Undirected,1
+Birgit,sif,Undirected,1
+Niels Ribe,sif,Undirected,1
+Kurt,Pilegrim,Undirected,1
+Birgit,Pilegrim,Undirected,1
+Elsebeth,Niels Ribe,Undirected,2
+Elsebeth,Mester Urban,Undirected,1
+Hr. Iohan Urne,Kong Christiern,Undirected,1
+Kong Christiern,Markus Meyer,Undirected,2
+Hertug Christians,Kong Christiern,Undirected,1
+Hertug Christians,allenfals,Undirected,1
+,Kong Hans,Undirected,2
+,Skipper Element,Undirected,1
+Mester Element,Skipper Element,Undirected,1
+Karl,Mester Element,Undirected,1
+Dalsgaard,Karl,Undirected,1
+Dalsgaard,Thiele,Undirected,1
+Mester Element,Thiele,Undirected,1
+Christian,Mester Element,Undirected,1
+Christian,Johan Rantzau,Undirected,1
+Johan Rantzau,Kong Christiern,Undirected,1
+Kong Christiern,Svend,Undirected,2
+Jes Pølsemand,Johan Rantzau,Undirected,1
+Jes Kromands,Johan Rantzau,Undirected,1
+Peder,Peder Hønsekræmmer,Undirected,1
+Birgit,Kurt Pilegrim,Undirected,9
+Birgit,Peder,Undirected,1
+Birgit,Peder Barkes,Undirected,3
+Graad,sif,Undirected,1
+hnn,sif,Undirected,1
+Mo,Soffi,Undirected,2
+Genbo,Jngen,Undirected,1
+Birgit,Genbo,Undirected,1
+Birgit,haanlo,Undirected,1
+Birgit,hnn,Undirected,2
+Birgit,Niels,Undirected,3
+Elsebeth,Peder Barkes,Undirected,1
+Kurt,Soffi,Undirected,1
+Niels Ribe,hnn,Undirected,3
+Niels,ask,Undirected,1
+Niels,Ribe,Undirected,1
+Niels Ribe,Svend slod,Undirected,1
+Herren,Kurt Pilegrim,Undirected,1
+Mesfer,Urban,Undirected,2
+Birgit,frank,Undirected,1
+Mesfer Element,Niels Ribe,Undirected,1
+Kurt Pilegrim,Mesfer Element,Undirected,1
+Gud,Kurt,Undirected,1
+Birgit —,Gud,Undirected,1
+Birgit —,lille Soffi,Undirected,1
+Niels Ribe,Peder Barkes,Undirected,1
+Niels,Urban,Undirected,1
+Kurt,Urban,Undirected,1
+Birgit,Mester Urban,Undirected,2
+Faster,Kurt,Undirected,1
+Faster,Maren Poppes,Undirected,1
+Dorthe Anders Bødkers,Maren Poppes,Undirected,1
+Kurt Pilegrim,Mester Urban,Undirected,1
+Born,Frue,Undirected,1
+Johan Rankzau,Niels Ribe,Undirected,1
+Christiern,Johan Rankzau,Undirected,1
+Johan Rankzau,Johan Rantzau,Undirected,1
+Aksel,Niels Ribe,Undirected,1
+Aksel,Jkke,Undirected,1
+Jkke,Kong Christiern,Undirected,1
+Esbern Nielsen,Niels Ribe,Undirected,1
+Mester Pilegrim,Niels Ribe,Undirected,1
+Kong Christiern,Kurt,Undirected,1
+Kurt Pilegrim,Svend,Undirected,6
+Morten,Niels Ribe,Undirected,1
+Birgit,Morten Smed,Undirected,1
+Morten,Morten Smed,Undirected,2
+Lene,Niels Ribe,Undirected,1
+Lene,Morten Smed,Undirected,1
+Lene,ester,Undirected,1
+Lene,hnn,Undirected,1
+Morten Smed,Niels Ribe,Undirected,2
+Christiern den,Niels Ribe,Undirected,2
+Kong Christiern,felv,Undirected,1
+Mesfer Halfdan,Niels Ribe,Undirected,1
+Kurt Pilegrim,Mesfer Halfdan,Undirected,1
+Lene,Morten,Undirected,2
+Kong Christiern,Morten,Undirected,1
+Niels Ribe,"Svend,",Undirected,1
+Kobold,Kong Christiern,Undirected,1
+Kobold,Morten,Undirected,1
+Kobold,Kurt Pilegrim,Undirected,1
+Salomons,Sebaldus,Undirected,1
+Niels Ribe,neraini nist denslmo,Undirected,1
+Abulkasim,Niels Ribe,Undirected,1
+Abulkasim,Kurt Pilegrim,Undirected,1
+Claudius Pica,Klaus Skade,Undirected,1
+Claudius Pica,Rønnow,Undirected,1
+Christiern,Morten Smed,Undirected,1
+Christoffer,Niels Ribe,Undirected,1
+Morten Smed,kait,Undirected,1
+J,Niels Ribe,Undirected,1
+Niels Ribe,ester,Undirected,1
+Jdet,Klaus Skade,Undirected,1
+Niels Ribe,ho,Undirected,1
+Gud,Svend,Undirected,1
+Gud,Kong Christiern,Undirected,3
+Doren,Svend,Undirected,1
+Guardian,Svend,Undirected,1
+Johannes,Niels Ribe,Undirected,7
+Markns Meyer,Ulfstand,Undirected,1
+Johannes,Ulfstand,Undirected,1
+Guardian,Niels Ribe,Undirected,2
+Meyer,Svend,Undirected,1
+Johannes,trine,Undirected,1
+Hans Mine,Niels Ribe,Undirected,1
+Niels,Niels Ribe,Undirected,3
+Krabbe,Niels Ribe,Undirected,1
+Krabbe,Ulfstand,Undirected,1
+Hr. Trnid,Niels,Undirected,1
+Hr. Trnid,Hr. Truid,Undirected,1
+Hr. Truid,Truid Ulfstand,Undirected,1
+Niels Ribe,lille Niels,Undirected,1
+Klaus,Svend,Undirected,2
+Klaus,Morten Smed,Undirected,1
+Klaus,allenfals,Undirected,1
+Christiern,Lon,Undirected,1
+Christiern,Johan Rantzan,Undirected,1
+Johan Rantzan,baus,Undirected,1
+ban,baus,Undirected,1
+Birgit,lille Soffi,Undirected,1
+Klaus Skade,allenfals,Undirected,1
+Klaus Skade,Kong Belzebub,Undirected,1
+Kong Belzebub,Niels Ribe,Undirected,2
+Belzebub,Karl,Undirected,1
+Karl,Rønnow,Undirected,1
+Erik,Kurt Pilegrim,Undirected,1
+Klaus Belzebub,Klaus Skade,Undirected,1
+Joachim Rönnow,Klaus Skade,Undirected,1
+Maren Ribe Bundtmagers,Niels Ribe,Undirected,2
+Klaus Skriver,Kong Belzebub,Undirected,1
+Joachim Rönnow,Klaus Skriver,Undirected,1
+Erik,Svend,Undirected,1
+Erik,Niels Ribe,Undirected,1
+Soffi,hnn,Undirected,1
+Meyer,Urban,Undirected,1
+Meyer,Ulfstand,Undirected,1
+Erika,Kurt Pilegrim,Undirected,1
+Erika,Niels,Undirected,1
+Niels Ribe,knækkef,Undirected,1
+Chrisfian den,Kong Christiern,Undirected,1
+Chrisfian den,Peder Skram,Undirected,1
+Flaade,Peder Skram,Undirected,1
+Christian,Flaade,Undirected,1
+Christian,Kaar,Undirected,1
+Erika,Jkke,Undirected,1
+Christiern,Erika,Undirected,1
+Erika,Kong Christiern,Undirected,1
+Kong Henrik,Markus Meyer,Undirected,5
+Kurt,Meyer,Undirected,2
+Kurt,Ulfstand,Undirected,1
+Markus Meyer,Mester Pilegrim,Undirected,3
+Markus Meyer,Svend,Undirected,1
+Edmund Bønner,Markus Meyer,Undirected,1
+Edmund Bønner,Ulfstand,Undirected,1
+Ulfstand,Varberg,Undirected,2
+Rasmus Kjeldsen,Ulfstand,Undirected,1
+Præsf,Rasmus Kjeldsen,Undirected,1
+Meyer,Præsf,Undirected,1
+Bonner,Richard Cavendish,Undirected,1
+Cavendish,Markus Meyer,Undirected,1
+Markus Meyer,Mester Bonner,Undirected,1
+Mester Bonner,Niels Ribe,Undirected,1
+Kong Henrik,Niels Ribe,Undirected,1
+Kabuds,Kurt Pilegrim,Undirected,1
+Maanelysel,Niels Ribe,Undirected,1
+Johannes,Maanelysel,Undirected,1
+Johannes,Svend,Undirected,1
+Christiern,Kong Henrik,Undirected,1
+Johannes,Kurt Pilegrim,Undirected,1
+Kurt Pilegrim,Mester Ambrosius,Undirected,1
+Hans Bnndtmager,Niels Ribe,Undirected,1
+Ambrosius,Christian den tredje,Undirected,1
+Bundtmager,Erika,Undirected,1
+Christiern,allenfals,Undirected,1
+Ambrosius,Niels Nibe,Undirected,1
+Mester Hans,Niels Nibe,Undirected,1
+Mester Hans,Niels Ribe,Undirected,1
+Mester Ambrosius,allenfals,Undirected,1
+Ambrosius,Mester Ambrosius,Undirected,3
+Erika,Hans Bundtmager,Undirected,1
+Jørgen Wulleuwebers,Markus Meyer,Undirected,2
+Ambrosius,Kong Henrik,Undirected,1
+Ambrosius,Svend,Undirected,1
+Chrisfiern,Niels Ribe,Undirected,1
+Chrisfiern,Kong Christian,Undirected,1
+Kong Christian,Mester Ambrosius Bogbinderi,Undirected,1
+Ambrosius,Kong Christian,Undirected,2
+Erika,Kurt,Undirected,1
+Erika,fasf,Undirected,1
+Maren Bundtmagers,Niels Ribe,Undirected,2
+Conrad Penning,Kurt,Undirected,1
+Conrad Penning,Niels Ribe lang,Undirected,1
+Erika,Niels Ribe lang,Undirected,1
+Christian den tredje,Erika,Undirected,1
+Christian den tredje,Truid Ulfstand,Undirected,1
+Markus Meyer,Truid Ulfstand,Undirected,1
+Albrecht v.,Markus Meyer,Undirected,1
+Albrecht v.,Christian den,Undirected,1
+Christian,Christian den,Undirected,1
+Ambrosins,Christian,Undirected,1
+Conrad Penning,Kurt Pilegrim,Undirected,1
+Conrad Penning,Niels Ribe,Undirected,6
+Karl,lille Niels,Undirected,2
+Karl,fom,Undirected,1
+Christiern,fabt,Undirected,1
+Ingling,Niels Ribe,Undirected,1
+Christiern,Ingling,Undirected,1
+Niels,Svend,Undirected,1
+Kurt,Maren Bundtmagers,Undirected,1
+Kurt Pilegrim,Maren Bundtmager,Undirected,1
+Maren Bundtmager,Niels,Undirected,1
+Maren Bundtmager,hnn,Undirected,1
+Ambrosius,Kurt Pilegrim,Undirected,1
+,Ambrosius,Undirected,1
+Dn,Kurt,Undirected,1
+Allenfals,Hans,Undirected,1
+Ambrosius,Mester Hans,Undirected,1
+Christian den tredje,Lybek,Undirected,1
+Christian den tredje,Jørgen Wullenweber,Undirected,1
+Jørgen Wullenweber,Mester Ambrosins,Undirected,1
+Christiern,Kong Christiern,Undirected,1
+Christian,Niels Ribe,Undirected,1
+Anders Haldager,Niels Ribe,Undirected,1
+Ambrosius,Anders Haldager,Undirected,1
+Hans Buudtmager,Niels Ribe,Undirected,1
+Erika,signe,Undirected,1
+Ambrosius,Mester Haldager,Undirected,1
+Hans,Kurt Pilegrim,Undirected,1
+Markus Meyer,maanelys,Undirected,1
+Markus Meyer,Rasmus Kjeldsen,Undirected,2
+Albrecht von Biltzig,Markus Meyer,Undirected,1
+Albrecht von Biltzig,Truid Ulfstand,Undirected,1
+Henrik,Markus Meyer,Undirected,1
+Henrik,Kong Henrik,Undirected,1
+Albrecht von Biltzig,Nlin,Undirected,1
+Kong Henrik,hau,Undirected,1
+Levvel,Niels Ribe,Undirected,1
+Birgit,Svend,Undirected,1
+Niels Ribe,hat,Undirected,1
+Belzebub,Hejda,Undirected,1
+Birgit,Gud,Undirected,1
+Markus Meyer,lille Else,Undirected,1
+Bjærges,lille Else,Undirected,1
+Ambrosins,Haldager,Undirected,1
+Ambrosins,Bøsze,Undirected,1
+Bøsze,Christiern,Undirected,1
+Christian den,Christiern,Undirected,1
+Albrecht,Anders Haldager,Undirected,1
+Albrecht,Kong Christian,Undirected,1
+Niels Ribe,alfid,Undirected,1
+Conrad Penning,Niels,Undirected,1
+Klaus Skriver,Rønnow,Undirected,1
+Joachim Ronnow,Klaus Skade,Undirected,1
+Klaus Belzebub,Kurt Pilegrim,Undirected,1
+Karl,Klaus Skade,Undirected,1
+Klaus Skade,Kurt,Undirected,1
+Klaus Skade,Kurt Pilegrim,Undirected,1
+Conrad Penning,Svend,Undirected,2
+Christian,Conrad Penning,Undirected,1
+Ambrosius,Karl,Undirected,1
+Kabuds,Svend,Undirected,1
+Kabuds,Niels Ribe,Undirected,1
+Jkke,Niels Ribe,Undirected,1
+Erika,sør,Undirected,1

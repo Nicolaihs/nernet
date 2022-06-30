@@ -1,0 +1,517 @@
+source,target,type,weight
+Jens Børge van Dolmer,Kong Frederik den Sjette,Undirected,1
+Frederik,Jens van Dolmers,Undirected,1
+Døttre,Jens Børge,Undirected,1
+Døttre,Kathinka,Undirected,1
+Kathinka,van Dolmer,Undirected,1
+Fanny,Jutta,Undirected,38
+Fanny,Rosa,Undirected,39
+Anner,Kammerjunker Eger,Undirected,1
+Georg Reinfeldt,Lehnsgreve Anton Reinfeldt,Undirected,1
+Lehnsgreve Anton Reinfeldt,Reinfeldt,Undirected,1
+Reinfeldt,Rosa,Undirected,21
+Rosa,dandset,Undirected,1
+Alexander Dam,Jutta,Undirected,11
+Jutta,Rosa,Undirected,67
+Jens,Vaabenskjold,Undirected,1
+Hans,Hansdag,Undirected,1
+Freissing,van Dolmer,Undirected,1
+Diana,Jutta,Undirected,1
+Diana,Rosa,Undirected,1
+Hebe,Rosa,Undirected,1
+Fanny,Hebe,Undirected,1
+Fanny,Psyche,Undirected,1
+Dam,Rosa,Undirected,12
+Rosa,Venus,Undirected,1
+Dam,Jutta,Undirected,27
+Grev Reinfeldt,Jutta,Undirected,1
+Hollenstedts,Rosa,Undirected,1
+Fanny,Hollenstedts,Undirected,1
+Jutta taug,Rosa,Undirected,1
+Georg Reinfeldt,Jutta,Undirected,4
+Jutta,Reinfeldt,Undirected,9
+Anner,Reinfeldt,Undirected,2
+Georg,Reinfeldt,Undirected,3
+Georg,Tekla Eger,Undirected,18
+Gud,Jutta,Undirected,5
+Kjære,Rosa,Undirected,1
+Jutta,Laps,Undirected,1
+Fanny,Jensen,Undirected,1
+Gud,Ritmester Dam,Undirected,1
+Grev Reinfeldt,Gud,Undirected,1
+Holberg,Rosa,Undirected,1
+Alexander Dam,Rosa,Undirected,6
+Jutta,Ritmester Dam,Undirected,1
+Reinfeldt,Rosa strax,Undirected,1
+Flan,Rosa,Undirected,1
+Lehnsgreves,Rosa,Undirected,1
+Jens van Dolmer,Rosa,Undirected,4
+Georg,Nielsens,Undirected,1
+Fanny,Ritmesteren,Undirected,1
+Jørgensen,Reinfeldt,Undirected,1
+Georg,Hans kræsné,Undirected,1
+Alexander Dam,Hans kræsné,Undirected,1
+Dam,Reinfeldt,Undirected,37
+Alexander Dam,Georg,Undirected,3
+Dam,Jørgen Jørgensen,Undirected,1
+Dam,Jørgensen,Undirected,2
+Frøken Rosa,Reinfeldt,Undirected,1
+Frøken Jutta,Georg,Undirected,2
+Dam,Georg,Undirected,16
+Dam,esprit de corps,Undirected,1
+Dam,helle,Undirected,1
+Frøken Jutta,esprit de corps,Undirected,1
+Eger,Grev Georgs,Undirected,1
+Eger,Jutta,Undirected,1
+Georg,Rosa,Undirected,56
+Georg,Grev Georgs,Undirected,2
+Grev Georgs,Jutta,Undirected,1
+Reinfeldt,Rosa van Dolmer,Undirected,1
+Reinfeldt,hans Beilen,Undirected,1
+Georg,hans Beilen,Undirected,1
+Georg,Jutta,Undirected,8
+Reinfeldt,Rosa van,Undirected,1
+Beiler,Rosa,Undirected,2
+Georg,Ritmester Dam,Undirected,1
+Eger,Georg,Undirected,3
+Fritz,Niels Gjørding,Undirected,1
+Anton,Niels Gjørding,Undirected,1
+Fritz,Lehnsgreven,Undirected,8
+Anton,Fritz,Undirected,9
+Lehnsgreven,Niels Gjørding,Undirected,1
+Fritz,Gjørding,Undirected,8
+Fritz,Georg,Undirected,14
+Bjørn,Lehnsgreven,Undirected,1
+Bjørn,Fritz,Undirected,1
+Anner,Fritz,Undirected,1
+Anner,van Dolmer,Undirected,1
+Ambæk,van Dolmer,Undirected,1
+Ambæk,Anton,Undirected,3
+Anton,Georg,Undirected,5
+Georg,van Dolmer,Undirected,6
+Georg,Hr. Greve,Undirected,1
+Georg,Rosted,Undirected,2
+Georg omtale van,Gjørding,Undirected,1
+Fritz,Fritz strax,Undirected,1
+Fritz,Reinfeldtske,Undirected,1
+Anton,F'ritz,Undirected,1
+Fritz,van Dolmer,Undirected,1
+Anton,Eger,Undirected,1
+Gjørding,van Dolmer,Undirected,1
+Cour,Gjørding,Undirected,1
+Cour,Rosa,Undirected,1
+Fritz,Tekla Eger,Undirected,2
+Gjørding,Tekla Eger,Undirected,2
+Fritz,Tekla,Undirected,5
+Anton,Tekla,Undirected,10
+Georg,Tekla,Undirected,14
+Gud,Tekla,Undirected,3
+Anner,Gud,Undirected,1
+Anner,Hollenstedt,Undirected,1
+Hollenstedt,Jensen,Undirected,1
+Doctor Brix,Jensen,Undirected,1
+Georg silde,Rosa,Undirected,1
+Gud,Rosa,Undirected,8
+Rosa van Dolmer,Tekla Eger,Undirected,1
+Grevinde Reinfeldt,Tekla Eger,Undirected,1
+Grevinde Reinfeldt,Rosa,Undirected,1
+Rosa,Tekla Eger,Undirected,28
+Tekla,Tekla Eger,Undirected,5
+Rosa,Tekla,Undirected,9
+Lehnsgreven,Rosa,Undirected,9
+Jens van Dolmer,Lehnsgreven,Undirected,3
+Georg,Jens van Dolmer,Undirected,2
+Rosa,van Dolmer,Undirected,3
+Eger,Rosa,Undirected,1
+Brøstrup,Fritz,Undirected,1
+Frøken Jutta,Ritmester Dam,Undirected,2
+Jøsses,Søren,Undirected,1
+Frøken Rosa,Georg,Undirected,1
+Dam,Frøken Rosa,Undirected,1
+Hollenstedt,Nebel,Undirected,1
+Frøken Jutta,Lille Lieutenant,Undirected,1
+Evers,Lille Lieutenant,Undirected,1
+Evers,Rosa,Undirected,1
+Evers,Reinfeldt,Undirected,3
+Karl,Reinfeldt,Undirected,1
+Evers,Lieutenant Evers,Undirected,1
+Freising,Lehnsgreven,Undirected,1
+Lehnsgreven,van Dolmer,Undirected,2
+Toilette,van Dolmer,Undirected,1
+Tekla,Toilette,Undirected,1
+Eger,Tekla,Undirected,2
+Freising,Ritmester Dam,Undirected,1
+Fanny van Dolmer,Freising,Undirected,1
+Fanny van Dolmer,Helikon,Undirected,1
+Jensen,Ritmester Dam,Undirected,2
+Doctor Brix,Jutta,Undirected,1
+Fanny,Freising,Undirected,1
+Fanny,Hugaf,Undirected,2
+Dam,Ritmester Dam,Undirected,1
+Fanny,Karl,Undirected,1
+Dam,Fanny,Undirected,7
+Fanny,knibsk,Undirected,1
+Adolf,Tekla,Undirected,1
+Brøstrup,Madam Jensen,Undirected,1
+Dolmer,Georg,Undirected,1
+Grev Georgs,Lehnsgreven,Undirected,2
+Grev Georgs,Jens van Dolmer,Undirected,1
+Frøken Eger,Lehnsgreven,Undirected,1
+Lehnsgreven,Tekla Eger,Undirected,4
+Lehnsgreven,Reinfeldt,Undirected,2
+Georg,Lehnsgreven,Undirected,12
+Frederik,Georg,Undirected,1
+Fritz,Fritz loe,Undirected,1
+Georg reden,Rosted,Undirected,1
+Rosa,Rosted,Undirected,1
+Madam Byrum,Ritmester Dam,Undirected,1
+Jensen,Mutter,Undirected,1
+Jane,Madam Byrum,Undirected,1
+Kommerts,Madam Byrum,Undirected,1
+Frants,Rosa,Undirected,1
+Jutta,Soliman,Undirected,1
+Hansine,Jutta,Undirected,1
+Jutta,jevnsides,Undirected,1
+Alexander Dam,Priis,Undirected,1
+Georg,Roes,Undirected,1
+Roes,Rosa,Undirected,1
+Jutta,roe,Undirected,1
+Georg,roe,Undirected,1
+Grev Reinfeldt,Rosa,Undirected,1
+Dam,Grev Reinfeldt,Undirected,1
+Dam,Georg strax,Undirected,1
+Georg strax,Rosa,Undirected,1
+Faders,Georg,Undirected,1
+Faders,Rosa,Undirected,1
+Georg,SMorgen Brøstrup,Undirected,1
+Brøstrup,Lehnsgreven,Undirected,4
+Georg,liam,Undirected,1
+Gemalindes,Napoleons,Undirected,1
+Lehnsgreven,Stjernholm,Undirected,1
+Carl Stjernholm,Georg,Undirected,1
+Lehnsgreven,Tekla,Undirected,9
+Georg,Greven,Undirected,1
+Georg,Rosa van Dolmer,Undirected,3
+Fritz,lee,Undirected,1
+Georg vrippent,Gjørding,Undirected,1
+Ambæk,Georg,Undirected,1
+Evret,Georg,Undirected,1
+Eden,Lehnsgreven,Undirected,1
+Georg strax,Lehnsgreven,Undirected,1
+Georg,Greve af Reinfeldt,Undirected,1
+Gjørding,Nielsen,Undirected,1
+Feldborggaard,Tekla,Undirected,1
+Adolf Egers,Roes,Undirected,1
+Adolf Egers,Niels,Undirected,1
+Anton,Niels,Undirected,2
+Eger,Niels,Undirected,1
+Eger,Fritz,Undirected,1
+Lehnsgrevinde,Tekla,Undirected,1
+Adolf Eger,Tekla,Undirected,3
+Adolf,Lehnsgreven,Undirected,2
+Ambæk,Gud,Undirected,1
+Grev Georgs,Tekla,Undirected,1
+Adolf Eger,Georg,Undirected,3
+Reinfeldt,Tekla,Undirected,4
+Adolf Eger,Fritz Reinfeldt,Undirected,1
+Fritz Reinfeldt,Reinfeldt,Undirected,1
+Adolf Eger,Anton,Undirected,1
+Adolf Eger,Egerske,Undirected,1
+Adolf,Georg,Undirected,4
+Cæcilie,Tekla Eger,Undirected,1
+Adolf Eger,Lehnsgreven,Undirected,3
+Lehnsgreven,Niels Eger,Undirected,1
+Niels Eger,kjær,Undirected,1
+Adolf,Gud,Undirected,1
+Georg Reinfeldt,Tekla,Undirected,2
+Freising,Georg,Undirected,2
+Liimstangen,Tekla,Undirected,1
+Evret,Tekla Eger,Undirected,1
+Georg,Gud,Undirected,7
+Jutta,Salomon,Undirected,1
+Jens van Dolmer,Jutta,Undirected,1
+Georg Reinfeldt,Rosa,Undirected,23
+Jens van Dolmer,Tekla Eger,Undirected,2
+Greve,Rosa,Undirected,1
+Bachus,Lehnsgreven,Undirected,1
+Brøstrup,Nielsen,Undirected,1
+Helene,Troja,Undirected,1
+Lehnsgreven,gute Freund Hain,Undirected,1
+Claudius,gute Freund Hain,Undirected,1
+Glaubt,zweifelt,Undirected,1
+Georg,Hain,Undirected,1
+Lehnsgreven,Mammon,Undirected,1
+Georg,Teklas øine,Undirected,1
+Tekla,hiin,Undirected,1
+Gud,hiin,Undirected,1
+Fritz,Rasmussen,Undirected,1
+Gjørding,Lehnsgreven,Undirected,3
+Rosa,Tvers,Undirected,1
+Jutta,Karakteer,Undirected,1
+Petersens,Rosa,Undirected,1
+Rosa,Seir,Undirected,1
+Georg,Seir,Undirected,1
+Georg,Georg strax,Undirected,1
+Alexander Dam,Fanny,Undirected,5
+Dam,Eskvadron,Undirected,1
+Aladdin,Jutta,Undirected,2
+Jutta,nam,Undirected,1
+Fanny,nam,Undirected,1
+Eskvadron,Frøken Jutta,Undirected,1
+Dolmer,Jutta,Undirected,1
+Dolmer,Jens van Dolmer,Undirected,1
+Dam,Jens van Dolmer,Undirected,1
+Dam,Freising,Undirected,4
+Freising,Jutta,Undirected,1
+Maren,Rosa,Undirected,1
+Maren,Petersillie,Undirected,1
+Georg,Petersillie,Undirected,1
+Greve,Reinfeldt,Undirected,1
+Grev Georgs,Rosa,Undirected,1
+Bajads,Rosa,Undirected,1
+Adolf Eger,Tekla Eger,Undirected,1
+Brøstrup,Lehnsgreve Reinfeldts,Undirected,1
+Frøken Tekla,Georg,Undirected,1
+Frøken Tekla,Greve,Undirected,1
+Greve,Lehnsgreven,Undirected,1
+Tekla,hans,Undirected,1
+Adolf,Fritz,Undirected,2
+Fritz’,Tekla,Undirected,1
+Fritz’,s. Lehnsgreven,Undirected,1
+Anton,Karl,Undirected,1
+A,B,Undirected,1
+B,Dam,Undirected,1
+Dam,Frøken Jutta,Undirected,1
+Frøken Jutta,Lehnsgreven,Undirected,1
+Brøstrup,Karl,Undirected,1
+Dam,Karl,Undirected,1
+Dam,Tekla,Undirected,2
+Garver Petersens,Grevinde Rosa,Undirected,1
+Grevinde Rosa,Tekla,Undirected,1
+Georg,Grevinde Reinfeldt,Undirected,1
+Gjørding,Tekla,Undirected,1
+Fuchsen,Georg,Undirected,1
+Eger,Fuchsen,Undirected,1
+Adolf,Rosa,Undirected,1
+Lehnsgreven,Rosa van Dolmer,Undirected,1
+Anton,Tekla Eger,Undirected,2
+Garver Petersens,Tekla Eger,Undirected,1
+Fanny,Reinfeldt,Undirected,3
+Jutta,Tekla Eger,Undirected,5
+Karen,lille Anton,Undirected,1
+Rosa,Stjernholm,Undirected,2
+Jens,Rosa,Undirected,1
+Jens,Karlen,Undirected,1
+Anton,Rosa,Undirected,16
+Alexander Dam,Anton,Undirected,2
+Alexander Dam,Hansdag,Undirected,1
+Georg Reinfeldt,Hansdag,Undirected,1
+Anton,Fanny,Undirected,8
+Alexander,Anton,Undirected,2
+Anton,Dam,Undirected,8
+Anton,Jutta,Undirected,3
+Jutta,Kathinka van Dolmer,Undirected,2
+Faders,Jutta,Undirected,1
+Jutta,iman,Undirected,1
+Reinfeldt,iman,Undirected,1
+Niels Gjørding,Rosa,Undirected,1
+Gjørding,Rosa,Undirected,6
+Brix,Georg,Undirected,2
+Georg,lille Grev Anton,Undirected,1
+Rosa,lille Grev Anton,Undirected,1
+Anton,Gjørding,Undirected,1
+Anton,Karen,Undirected,5
+Karen,Rosa,Undirected,3
+Ambæk,Rosa,Undirected,1
+Gjørding,kenen,Undirected,1
+Brix,Tekla Eger,Undirected,1
+Praxis,Tekla Eger,Undirected,1
+Brix,Praxis,Undirected,1
+Brix,Evret,Undirected,1
+Brix,Madam Jensen,Undirected,1
+Frøken Tekla-,Gjørding,Undirected,1
+Frøken Tekla-,Rosa,Undirected,1
+Rosa,lille Anton,Undirected,2
+Brix,Rosa,Undirected,1
+Gud nei,Rosa,Undirected,1
+Gjørding,lille Grev Anton,Undirected,1
+Georg Reinfeldt,Gud,Undirected,1
+Georg,Gjørding,Undirected,1
+Gjørding,Greven,Undirected,1
+Greven,Karen,Undirected,1
+Greven,Rosa,Undirected,1
+Anton,Frøken Tekla,Undirected,1
+Dam,von Dam,Undirected,1
+Alexander Dam,Reinfeldt,Undirected,4
+Lehnsgreve,Rosa,Undirected,1
+Brøstrup,Dam,Undirected,1
+Grev Fritz,s,Undirected,2
+Fritz,s,Undirected,2
+Dam,s,Undirected,1
+Georg,s,Undirected,1
+Fritz,Rosa,Undirected,9
+Alexander,Jutta,Undirected,2
+Alexander,Rosa,Undirected,1
+Reinfeldt,Tekla Eger,Undirected,8
+Gud,Tekla Eger,Undirected,1
+Jutta,gikhan,Undirected,1
+Dam,Gud,Undirected,1
+Dam,Georg Reinfeldt,Undirected,9
+Fritz,Reinfeldt,Undirected,3
+Dam,Fritz,Undirected,3
+Fritz,Jutta,Undirected,1
+Dam,Madam Jensen,Undirected,1
+Georg Reinfeldt,traadt,Undirected,1
+Dam,lille Alexander,Undirected,1
+Rosa,lille Alexander,Undirected,1
+Anton,lille Alexander,Undirected,1
+Fanny,lille Evers,Undirected,1
+Evers,Jutta,Undirected,2
+Evers,Fanny,Undirected,1
+Dam,Evers,Undirected,7
+P'anny,Pastor Jensen,Undirected,1
+Fanny,Gud,Undirected,4
+Jutta,Paulus,Undirected,1
+Georg,migl,Undirected,1
+Anton,Georg Reinfeldt,Undirected,6
+Anton-,Tekla Eger,Undirected,1
+Anton-,Fanny,Undirected,1
+Jutta,stum,Undirected,1
+Georg -Reinfeldt,Rosa,Undirected,1
+Anner,Georg,Undirected,2
+Anner,Tekla,Undirected,1
+Fritz,Georg Reinfeldt,Undirected,1
+Helder,gaae,Undirected,1
+Greven,Helder,Undirected,1
+Alexander Dam,Helder,Undirected,2
+Freising,Helder,Undirected,1
+Alexander Dam,Freising,Undirected,1
+Alexander Dam,Dam,Undirected,2
+Georg Reinfeldt,PYeisings,Undirected,1
+Dam,Helder,Undirected,9
+Helder,Reinfeldt,Undirected,7
+Reinfeldt,Stjernholm,Undirected,2
+Helder,Hr. Greve,Undirected,1
+Fritz,Lieutenant Helder,Undirected,2
+Helder,Jutta,Undirected,1
+Alexander,Reinfeldt,Undirected,1
+Dam,Officeers,Undirected,1
+Anton,Rosted,Undirected,1
+Georg,Karethen,Undirected,2
+Georg,Ole Nielsen,Undirected,1
+Kudsk,Ole Nielsen,Undirected,1
+Karethen,Kudsk,Undirected,1
+Karethen,Ole Nielsen,Undirected,2
+Alexander Dam,Karethen,Undirected,1
+Alexander Dam,Ambæk,Undirected,1
+Ambæk,Dam,Undirected,1
+Krause,lille Anton,Undirected,1
+Cancelliraad Sørensen,Krause,Undirected,1
+Cancelliraad Sørensen,Rosa,Undirected,1
+Georg Reinfeldt,Helder,Undirected,2
+Jutta,flaue,Undirected,1
+Jutta,wilde verwegene Jagd,Undirected,1
+Fanny,Georg Reinfeldt,Undirected,1
+Cancelliraad Sørensen,Fritz,Undirected,1
+Anton,Liv,Undirected,1
+Brøstrup,Tekla Eger,Undirected,1
+Tekla Eger,fhun,Undirected,1
+Georg Reinfeldt,Tekla Eger,Undirected,4
+Anner,Tekla Eger,Undirected,1
+Cousine,Georg Reinfeldt,Undirected,1
+Anner,Georg Reinfeldt,Undirected,1
+Alexander Dam,Roland,Undirected,1
+Brøstrup,Grev Fritz,Undirected,1
+Gjørding,Grev Fritz,Undirected,1
+Lehnsgreven,Madam Jensen,Undirected,1
+Fritz,Madam Jensen,Undirected,1
+Fritz,Helder,Undirected,2
+Petersen,Reinfeldt,Undirected,1
+Georg Reinfeldt,Stjernholm,Undirected,1
+Georg Reinfeldt,eiegode,Undirected,1
+Georg,Georg Reinfeldt,Undirected,1
+Elmqvists,Stjernholm,Undirected,1
+Georg Reinfeldt,Grev Reinfeldt,Undirected,2
+Cousine,Reinfeldt,Undirected,1
+Cousine,Frøken Eger,Undirected,1
+Evret,Georg Reinfeldt,Undirected,1
+Georg Reinfeldt,Prinds Ferdinand,Undirected,1
+Georg Reinfeldt,Kong Frederik,Undirected,1
+Fritz Stjernholm,Georg,Undirected,1
+Evers,honneur,Undirected,1
+Alexander Dam,Georg Reinfeldt,Undirected,3
+Evers,Helder,Undirected,2
+Nebel,Reinfeldt,Undirected,6
+Nebel,Thorsted,Undirected,1
+Lieutenant Evers,Nebel,Undirected,1
+Grev Reinfeldt,Thorsted,Undirected,1
+Reinfeldt,Thorsted,Undirected,1
+Reinfeldt,Ritmester Dam,Undirected,1
+Ritmester Dam,Thorsted,Undirected,1
+Dam,Pallask,Undirected,1
+Georg,Pallask,Undirected,1
+Evers,Georg,Undirected,1
+Evers,Thorsted,Undirected,1
+Dam,Thorsted,Undirected,1
+Reinfeldt,Ritmester,Undirected,1
+Nebel,Ritmester,Undirected,1
+Kudsk,Reinfeldt,Undirected,1
+Kudsk,Nebel,Undirected,1
+Nebel,Stjernholm,Undirected,2
+Greven,Reinfeldt,Undirected,1
+Evers,Freising,Undirected,1
+Collega,Nebel,Undirected,1
+Collega,Georg Reinfeldt,Undirected,1
+Freising,Nebel,Undirected,1
+Alexander Dam,Tekla Eger,Undirected,2
+Reinfeldt,Sabel,Undirected,1
+Dam,Stjernholm,Undirected,1
+Alexander,Gud,Undirected,1
+Jutta,taug,Undirected,1
+Hevn,Reinfeldt,Undirected,1
+Alexander Dam,Holberg,Undirected,1
+Holberg,Jutta,Undirected,1
+Jutta,Morgianes,Undirected,1
+Jutta,Lise,Undirected,1
+Fred,P'orliis,Undirected,1
+Krisis,Rosa,Undirected,1
+Rosa,forgjeves,Undirected,1
+Alexander,Anton Reinfeldt,Undirected,1
+Anton Reinfeldt,Rosa,Undirected,5
+Fanny van Dolmer,Lise,Undirected,1
+Gud,Lise,Undirected,1
+Anton,strunk,Undirected,1
+Fanny,strunk,Undirected,1
+Anton,Sophie Stjernholm,Undirected,3
+Fanny,Sophie Stjernholm,Undirected,1
+Anton,Stifmoders,Undirected,1
+Anton,Cousine Sophie,Undirected,1
+Tante Fanny,Tekla,Undirected,1
+Anton,Gud,Undirected,2
+Anton,P'anny,Undirected,1
+Elysion,Lethe,Undirected,1
+Fanny,Karen,Undirected,7
+Karen,age,Undirected,1
+Alexander Dam,Rune,Undirected,1
+Anton Reinfeldt,Stifmoders,Undirected,1
+Stifmoders,Stjernholm,Undirected,1
+Anton Reinfeldt,Sophie Stjernholm,Undirected,1
+Anton,Anton Reinfeldt,Undirected,3
+Anton Reinfeldt,Tekla,Undirected,1
+Evret,Grevinde Reinfeldt,Undirected,1
+Anton,kjær,Undirected,1
+Sophie,Tekla,Undirected,1
+Sophie Stjernholm,Tekla,Undirected,1
+Gud,Tekla taug,Undirected,1
+Alexander Dam,Eskvadron,Undirected,1
+Anton loe,Dam,Undirected,1
+Anton,bart,Undirected,1
+Jensen,bart,Undirected,1
+Fritz,Jensen,Undirected,1
+Fritz Reinfeldt,Niels Gjørding,Undirected,1
+Anton,Reinfeldt,Undirected,1
+Georg Reinfeldt,Pral,Undirected,1
+Lise,Tekla Eger,Undirected,1
+Niels Stjernholm,Sophie Stjernholm,Undirected,1
+Anton,Nemesis,Undirected,1
+Offret,Rosa,Undirected,1

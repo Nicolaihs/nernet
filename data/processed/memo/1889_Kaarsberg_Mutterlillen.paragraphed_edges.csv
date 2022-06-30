@@ -1,0 +1,142 @@
+source,target,type,weight
+gol,ifjor,Undirected,1
+Gud,gol,Undirected,1
+Jens Vilstrups,Klaras,Undirected,1
+Jens Vilstrups,Vilstrup,Undirected,1
+Merian,Mynthe,Undirected,1
+Bosselets,Mynthe,Undirected,1
+Bjørn,Jens,Undirected,1
+Bjørnen,Jens,Undirected,1
+Anneke,Jens,Undirected,71
+Anneke,GamleJens,Undirected,1
+Jens,Peer,Undirected,2
+Gud,Jens,Undirected,4
+Jens,Unge-Jens,Undirected,2
+Gamle-Jens,Jens,Undirected,5
+Gamle-Jens,Gud,Undirected,1
+Anneke,Unge-Jens,Undirected,2
+Anneke,Hans,Undirected,1
+Erik Hammeløv,Hans,Undirected,1
+Erik Hammeløv,Niels,Undirected,1
+Niels,Peer,Undirected,1
+Jacob,Peer,Undirected,1
+Anders,Jacob,Undirected,1
+Anders,Gud,Undirected,1
+Gud,véd,Undirected,1
+Anneke,véd,Undirected,1
+Gamle-Jens,Peer Christensen,Undirected,1
+Mikkel,Peer Christensen,Undirected,1
+Mikkel,Søren Sandberg,Undirected,1
+Lars Larsen,Søren Sandberg,Undirected,1
+Lars Larsen,Thomas Fjerdepart,Undirected,1
+Jens,Thomas Fjerdepart,Undirected,1
+Thomas Fjerdepart,Violen,Undirected,1
+Anneke,Gud,Undirected,1
+Anneke,Mo,Undirected,1
+Gud,Mo,Undirected,1
+Jens,Karl,Undirected,1
+Behau,Jens,Undirected,2
+GamleJens,Jens,Undirected,1
+GamleJens,Gammelmands,Undirected,1
+Gammelmands,Jens,Undirected,1
+Anneke,Gamle-Jens,Undirected,4
+Gamle-Jens,Unge-Jens,Undirected,2
+Anneke,UngeJens,Undirected,1
+Jens,Trine,Undirected,4
+Jens,Per Christensen,Undirected,1
+Per,Praten,Undirected,1
+Anneke,j,Undirected,1
+Jens,Sophie,Undirected,30
+Per,Sophie,Undirected,3
+Jens,Per,Undirected,6
+Jens,Mo,Undirected,1
+Ane,Mo,Undirected,1
+Ane,Dorthe,Undirected,1
+Dorthe,Mo,Undirected,1
+Jens,Jens Vilstrups,Undirected,3
+Anneke,Jens Vilstrups,Undirected,2
+Jens,directe,Undirected,1
+directe,indirecte,Undirected,1
+Sophie,indirecte,Undirected,1
+Anneke,Sophie,Undirected,16
+Jens,strups,Undirected,1
+Jens Vilstrups,Sophie,Undirected,1
+Sophie,grotesque,Undirected,1
+Karen,Maren,Undirected,1
+Gud,Lovise,Undirected,1
+Concurrences,Gud,Undirected,1
+Magsvejr,Per,Undirected,1
+Jens,Magsvejr,Undirected,1
+Jens,Jens’,Undirected,2
+Jens,Vams,Undirected,1
+Hans,Unge-Jens,Undirected,1
+Hans,Peter,Undirected,1
+Line,Peter,Undirected,1
+Jane,Line,Undirected,1
+Jane,Jens,Undirected,1
+Gudi,Jens,Undirected,1
+Anneke,Jørgen,Undirected,1
+Anneke,Jens Vilstrup,Undirected,2
+Jens Vilstrup,Unge-Jens,Undirected,1
+Jens Vilstrup,Poullien,Undirected,1
+MordO,Sophie,Undirected,1
+Jens,Un-ge-Jens,Undirected,1
+Jens,Jens Vilstrup,Undirected,2
+Anneke,Jens «,Undirected,1
+Sophie,sét,Undirected,1
+Anneke,sét,Undirected,1
+Annelfe,Jens,Undirected,1
+Jens Vilstrup,Sophie,Undirected,1
+Anneke,Mutterlillen,Undirected,1
+Jesus,Mutter,Undirected,1
+Frandsen,Mutter,Undirected,2
+Frandsen,Peer,Undirected,2
+Conrad,Peer,Undirected,1
+Peer,Peer Kurvemagers,Undirected,1
+Frandsen,Jensen,Undirected,1
+Peer,Povl,Undirected,1
+Frandsen,Povl,Undirected,2
+Jens Nyserod,Ole Daahjort,Undirected,1
+Hans Nielsen,Ole Daahjort,Undirected,1
+Hans Nielsen,Mikkel,Undirected,1
+Jørgen,Mikkel,Undirected,1
+Fredrik Fredriksen,Jørgen,Undirected,1
+Drejer-Johan,Fredrik Fredriksen,Undirected,1
+Frandsen,Jesus,Undirected,1
+Frandsen,Rasmus Forkarls,Undirected,1
+Rasmus,Rasmus Forkarls,Undirected,1
+Husbonds,Rasmus,Undirected,1
+Norrh,rivs,Undirected,1
+Oxe,rivs,Undirected,1
+hans Hustrn,hersens,Undirected,1
+Frandsen,Morten,Undirected,1
+Cæcilie,Gud,Undirected,2
+Frandsen,Pade,Undirected,3
+Frandsen,L’,Undirected,1
+Nolo,Pade,Undirected,1
+Degnen Jensen,Frandsen,Undirected,1
+Frandlen,Frandsen,Undirected,1
+Frandsen,Gud,Undirected,2
+Frandsen,Jens Kudsk,Undirected,1
+Gud,itte,Undirected,1
+Frandsen,Nils Jensen,Undirected,1
+Hans Nilen,Niels,Undirected,1
+Frandsen,Niels,Undirected,1
+Daven,Niels Jensen,Undirected,1
+Jubilarens Kudsk,Niels Jensen,Undirected,1
+Frandsen,piqueret,Undirected,1
+Jens,riksen,Undirected,1
+Frandsen,Råben,Undirected,1
+Povl,Råben,Undirected,1
+Gasmann,Herbert Spencers,Undirected,1
+Saasnart,dét,Undirected,1
+dét,emanciperede,Undirected,1
+Frandsen,emanciperede,Undirected,1
+Frandsen,kjøn,Undirected,1
+Pade,kjøn,Undirected,1
+Arne,Pade,Undirected,1
+Kane,Pade,Undirected,1
+Fre,Peer,Undirected,1
+Fre,rik,Undirected,1
+Cornet,Jens,Undirected,1
+Cornet,Peer,Undirected,1

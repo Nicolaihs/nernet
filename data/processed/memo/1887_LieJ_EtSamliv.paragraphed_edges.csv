@@ -1,0 +1,155 @@
+source,target,type,weight
+Jakob Mørk,Mørk,Undirected,1
+Alette,Mørk,Undirected,1
+Tobias,Vosgraff,Undirected,2
+Alette,Jakob,Undirected,35
+Alette,Vosgraff,Undirected,1
+Letta,Tobias,Undirected,2
+Jakob,Tobias,Undirected,2
+Mørk,Vosgraff,Undirected,1
+Mørk,Tobias,Undirected,1
+Krabbe,Letta,Undirected,1
+Jakob,Krabbe,Undirected,1
+Jakob,Mørk,Undirected,1
+Brink,arge,Undirected,1
+Halvor,Kona mi,Undirected,1
+Alette,durede,Undirected,1
+Alette,Borken,Undirected,1
+Stakkar,stakkars,Undirected,1
+Jakob,Mejer,Undirected,2
+Jakob,Jørgen Basberg Berven,Undirected,4
+Jakob,Sirtses,Undirected,1
+Berven,Jakob,Undirected,15
+Alette,Berven,Undirected,4
+Alette,Jørgen Berven,Undirected,2
+Anders Etnedalens,Frue,Undirected,1
+Anders Etnedalens,Fars,Undirected,1
+Berven,Frue,Undirected,1
+Jakob,Jørgen,Undirected,3
+Jakob 1,Jørgen,Undirected,1
+Jørgen,Letta,Undirected,1
+Alette,Jørgen,Undirected,2
+Jakob,Jørgen Berven,Undirected,2
+Krabbe,hans,Undirected,1
+Alette,Krabbe,Undirected,1
+Hr. Mørk,Krabbe,Undirected,1
+Letta,Ole Elgesæter,Undirected,1
+Di,Kona,Undirected,1
+Alette,Kona,Undirected,1
+Jakob,Ole Elgesæter,Undirected,1
+Ole Elgesæter,Olea,Undirected,1
+Alette,Skog,Undirected,1
+Alette,Ole Elgesæter,Undirected,1
+Frua,Olea,Undirected,1
+Jøn,Karen,Undirected,1
+Krabbe,sé,Undirected,1
+Assiette,Krabbe,Undirected,1
+Alette,Assiette,Undirected,1
+Jakob,Kehraus,Undirected,1
+Alette,Karen,Undirected,2
+Jakob,Karen,Undirected,1
+Jakob,Letta,Undirected,1
+Gutten,Jakob,Undirected,2
+Alette,Gutten,Undirected,2
+Jakob,Johan Henrik,Undirected,8
+Guttemands,Jakob,Undirected,1
+Karen,bent,Undirected,1
+Karen,Letta,Undirected,1
+Alette,stakkars,Undirected,1
+Jakob,Lillemor,Undirected,1
+Alette,Konstance Kjønig,Undirected,1
+Alette,Lillemor,Undirected,1
+Guttemand,Lillemor,Undirected,2
+Alette,Guttemand,Undirected,3
+Jakob,Jamæn,Undirected,1
+Alette,Frøken Konstance,Undirected,1
+Jakob,Theen,Undirected,1
+Mørk,ivaar,Undirected,1
+Jakob,Kaptejn Bockman,Undirected,1
+Guttemand,Jakob,Undirected,1
+Guttemand,Mama,Undirected,2
+Gieisen,Jakob,Undirected,1
+Mørk,•Johan Henrik,Undirected,1
+Lillemor,•Johan Henrik,Undirected,1
+Alf,Lillemor,Undirected,1
+Guldbrand Gaardsgut,Karen,Undirected,1
+Guldbrand Gaardsgut,ha.n,Undirected,1
+Bøllings,Jørgen Berven,Undirected,1
+Jakob,skjøns,Undirected,1
+Gud,Jørgen Berven,Undirected,1
+Alette,Mama,Undirected,1
+Alette,Alf,Undirected,3
+Alette,Johan Henrik,Undirected,8
+Gutten,Mama,Undirected,1
+Alf,Johan Henrik,Undirected,7
+Alf,Gut,Undirected,1
+Elisabeth,Lillemor,Undirected,1
+Elisabeth,Krabbe,Undirected,1
+Alette,Lille Elisabeth,Undirected,1
+Alette,Felden,Undirected,1
+Artium,Johan Henrik,Undirected,2
+Artium,Henrik,Undirected,1
+Lundberg,ivaar,Undirected,1
+Johan Henrik,Johan Henrik 1,Undirected,1
+Lundberg,didind,Undirected,1
+Fars,Johan Henrik,Undirected,1
+Johan Henrik,Wagner,Undirected,1
+Far,Wagner,Undirected,1
+Johnsen,Morten Finne,Undirected,1
+Johan Henrik,Johnsen,Undirected,1
+Johan Henrik,Tobiesen,Undirected,1
+Gudbrand,Johan Henrik,Undirected,2
+Far,Johan Henrik,Undirected,1
+Johan Henrik,Krabbe,Undirected,2
+Krabbe,Morten Finne,Undirected,1
+Elisabeth,didhen,Undirected,1
+Elisabeth,Kaptejn Bockman,Undirected,1
+Krabbe,didhen,Undirected,1
+Elisabeth,Far,Undirected,1
+Jakob,Morten Finne,Undirected,1
+Elisabeth,Jakob,Undirected,3
+Hansen,Johan Henrik,Undirected,1
+Hansen,Jentoft,Undirected,1
+Jakob,Jentoft,Undirected,1
+Holm,Johan Henrik,Undirected,1
+Johan Henrik,Viking,Undirected,1
+Alette,Jakob 1,Undirected,1
+Alf,Elisabeth,Undirected,1
+Mathiesen,Vingaard,Undirected,1
+Mathiesen,Ringnæs,Undirected,1
+Jakob,Tobiesenl,Undirected,1
+Johan Henrik,ivaar,Undirected,1
+Willumsen,ivaar,Undirected,1
+Far,Viking,Undirected,1
+Elisabeth,Mor,Undirected,1
+Jakob,Vosgraff,Undirected,1
+Berven,Johan Henrik,Undirected,1
+Checquet,Jakob,Undirected,1
+Checquet,Jørgen Berven,Undirected,1
+Berven,Jacob,Undirected,1
+Martin Ringnæs,Tobiesen,Undirected,1
+Mathiesen,Tobiesen,Undirected,1
+Jakob,Tobiesen,Undirected,4
+Mørk,Tobiesen,Undirected,2
+Alf,Jakob,Undirected,1
+Alette,Elisabeth,Undirected,3
+Elisabeth,Morten,Undirected,1
+Alette,Morten,Undirected,1
+Elisabeth,Søvigs,Undirected,1
+Møllers,Søvigs,Undirected,1
+Johan Henrik,Rognhaugen,Undirected,1
+Elisabeth,Tinn,Undirected,1
+Tinn,Tobias,Undirected,1
+Bøllings,Johan Henrik,Undirected,1
+Bøllings,Gudbrand,Undirected,1
+Johan Henrik,Tobias,Undirected,1
+Justitiarius,Tobias,Undirected,1
+Alf,Justitiarius,Undirected,1
+Berven,Frua,Undirected,1
+Berven,Svarten,Undirected,1
+Jakob Mørk,Jørgen,Undirected,1
+Alf,Viking,Undirected,1
+Elisabeth,Morten Finne,Undirected,1
+Gudbrand,Morten Finne,Undirected,1
+Greja,Marthe,Undirected,1
+Beraad,Jakob,Undirected,1

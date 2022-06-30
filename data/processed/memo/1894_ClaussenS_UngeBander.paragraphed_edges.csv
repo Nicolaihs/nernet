@@ -1,0 +1,229 @@
+source,target,type,weight
+Artemis,Thing,Undirected,1
+Catys,Vilhelmine,Undirected,1
+Friis,Vilhelmine,Undirected,1
+Caty,Vilhelmine,Undirected,1
+Mikal,lille Laura,Undirected,1
+Caty,Mikal,Undirected,2
+Caty,Friis,Undirected,1
+Friis,Laura,Undirected,1
+Kolumbus,Spanjens,Undirected,1
+Spanjens,doer,Undirected,1
+Azur,doer,Undirected,1
+Azur,Gud,Undirected,1
+Gud,lian,Undirected,2
+Gud,Kolumbus Brevet,Undirected,1
+C es,Friis,Undirected,1
+Friis,Gud,Undirected,1
+C,Catv,Undirected,1
+Friis,Karl,Undirected,1
+Betty Wickmann,Esther,Undirected,1
+Betty Wickmann,Friis,Undirected,1
+Betty,Helsing,Undirected,1
+Betty,Frøken Wickmann,Undirected,1
+Laura,Mikal,Undirected,6
+Laura,tys,Undirected,1
+Caty,Gud,Undirected,1
+Caty,Cesare,Undirected,1
+Friis,Mus,Undirected,1
+Laura,gaber,Undirected,1
+Cesare,Laura,Undirected,1
+Caty,Laura,Undirected,1
+Cesare,Friis,Undirected,2
+Caty,Sulamith,Undirected,1
+Laura,Mus,Undirected,1
+Laura,Mu s,Undirected,1
+Caty,Mu s,Undirected,1
+Caty,Frøken Laura,Undirected,1
+Aasums,L aura,Undirected,1
+Caty,L aura,Undirected,1
+Juels,Violoncel,Undirected,1
+Juel,Kruses,Undirected,1
+Kruse,Povlsen,Undirected,1
+Erik,Kruse,Undirected,13
+Erik,Hr. Kølby,Undirected,5
+Aasum,Estrup,Undirected,1
+Estrup,Florens,Undirected,1
+Erik Kølby,djærv Aasumtone,Undirected,1
+From,Knudsen,Undirected,1
+Kattekilling,Knudsen,Undirected,1
+Erik Kølby,From,Undirected,12
+Aasum,Erik Kølby,Undirected,3
+Aasum,Aladdin,Undirected,1
+Aladdin,Erik Kølby,Undirected,1
+Aasum,Brandes,Undirected,1
+Brandes,Erik Kølby,Undirected,1
+From,Holberg,Undirected,1
+Kjølbye,Kølby,Undirected,1
+Erik Kølby,Kølby,Undirected,1
+Erik Kølby,j,Undirected,2
+Erik,Thorkildsen,Undirected,2
+Elise,Thorkildsen,Undirected,1
+Elise,Katinka,Undirected,6
+Juel,Katinka,Undirected,1
+Juel,Kristian,Undirected,1
+Kristian,Margrete,Undirected,1
+Margrete,Thorkildsen,Undirected,2
+Hanne Juel,Thorkildsen,Undirected,1
+Elise,Margrete,Undirected,9
+Katinka,Margrete,Undirected,3
+Kristian Juel,Margrete,Undirected,1
+Elise,Kristian Juel,Undirected,1
+Erik,Espaliers,Undirected,1
+Espaliers,Kruse,Undirected,1
+From,Hr. Kølby,Undirected,1
+Hr. Kølby,Kruse,Undirected,1
+Erik,hans,Undirected,1
+Erik,Ole,Undirected,2
+Albu,Erik,Undirected,1
+Gud,Piads,Undirected,1
+Erik,Holst,Undirected,2
+Frøken Margrete,Holst,Undirected,1
+Albu,Frøken Margrete,Undirected,1
+Erik,Erik Kølby,Undirected,11
+Erik,From,Undirected,19
+Knudsen,qui trottoie,Undirected,1
+Erik Kølby,Erik Kølby moqueur,Undirected,1
+From,Gud,Undirected,2
+Knudsen,skraa,Undirected,1
+Aasum,Erik,Undirected,7
+Aasum,Viggo From,Undirected,1
+Erik Kølby,Knudsen,Undirected,2
+Aasum,skraa,Undirected,1
+Erik,skraa,Undirected,1
+Erik,Knudsen,Undirected,2
+Kristiane,Vilhelm Almann,Undirected,2
+Erik,Vilhelm Almann,Undirected,2
+Erik,lille Karl,Undirected,1
+Erik,Kari,Undirected,1
+Erik,Karl,Undirected,1
+Erik Kølby,Karl,Undirected,1
+Erik,Skipperenken,Undirected,1
+Thorkildsen,Vilhelm Almann,Undirected,1
+Møller,Thorkildsen,Undirected,1
+Møller,Vilhelm,Undirected,1
+Gud,Vilhelm,Undirected,1
+Elise Thorkildsen,Gud,Undirected,1
+Erik,Vilhelm,Undirected,25
+Buffo,Vilhelm,Undirected,1
+Buffo,Elise,Undirected,1
+Erik Kølby,Jensen,Undirected,1
+Almann,Kølby,Undirected,1
+Erik,Kølby,Undirected,1
+Vilhelm,lille Almann,Undirected,1
+Erik,Gud,Undirected,3
+Kruse,Laura Kruse,Undirected,1
+Erik,Fru Kruses,Undirected,1
+Erik,Moqueur,Undirected,1
+Elise,léende,Undirected,1
+léende,rosa,Undirected,1
+Erik Kølby Moqueur,Vilhelm,Undirected,1
+Arendsdorf,Vilhelm,Undirected,4
+Arendsdorf,Frøken Elises,Undirected,1
+Kristian Juel,Moqueur,Undirected,1
+Elise,Max,Undirected,1
+Krisjan,Vilhelm,Undirected,1
+Krisjan,Kusk,Undirected,1
+Katinka,Vilhelm,Undirected,1
+Erik Kølby,Margrete Juel,Undirected,1
+Flun,Vilhelm,Undirected,1
+Erik,Juel,Undirected,4
+Moqueur,Vilhelm,Undirected,2
+Erik.,Moqueur,Undirected,1
+Thorkildsen,Vilhem,Undirected,1
+Frøken Juels,Thorkildsen,Undirected,1
+Margrete,Max,Undirected,1
+Erik,Kristian Juel,Undirected,7
+Erik,Margrete,Undirected,31
+Juel,Margrete,Undirected,1
+Juel,Napoleon,Undirected,1
+Hanne Juel,Kølby,Undirected,1
+Hanne Juel,Margrete,Undirected,1
+Hanne,Margrete,Undirected,1
+Erik Kølby,Hanne,Undirected,2
+Elise,Erik,Undirected,5
+Kristian Juel,stundum,Undirected,1
+Braad,Erik,Undirected,1
+Margrete,Musmann,Undirected,1
+Hanne,Laura,Undirected,1
+Kruse,Laura,Undirected,1
+Laura,Sine,Undirected,1
+Hanne,Sine,Undirected,1
+Hr. Kølby,Laura,Undirected,2
+Erik,Fru Kruse,Undirected,1
+Erik,Frøken Lund,Undirected,1
+Erik Kølby,Kruse,Undirected,1
+Frøken Margrete,Kruse,Undirected,1
+Holst,Vilhelm,Undirected,1
+Margrete Juel,Vilhelm,Undirected,1
+Margrete,Margrete Juel,Undirected,1
+Erik,Margrete Juel,Undirected,3
+Klematis,Vilhelm,Undirected,1
+Erik Kølby,Kathinka Thorkildsen,Undirected,1
+Elise Thorkildsen,Kristian Juel,Undirected,1
+Dandy,Kristian Juel,Undirected,1
+Arendsdorf,Dandy,Undirected,1
+Arendsdorf,Margrete Juel,Undirected,1
+Erik Kølby,Vilhelm,Undirected,1
+Rose,roseau,Undirected,1
+Erik Kølby,Gud,Undirected,1
+Erik,Rose,Undirected,1
+Rose,rose,Undirected,1
+Gud,Rose,Undirected,1
+Aasum,borre,Undirected,1
+Erik,Frøken Margrete,Undirected,4
+Erik,Laura Kruse,Undirected,1
+Erik,Frøken Kristine,Undirected,6
+Arendsdorf,Erik,Undirected,5
+From,Vilhelm,Undirected,3
+Emmy V.,Erik,Undirected,2
+Erik,Marven,Undirected,1
+Emmy,Marven,Undirected,1
+Emmy,Erik,Undirected,5
+Emmy,Kruse,Undirected,1
+Frøken Margrete,Maanelys,Undirected,1
+Frøken Juel,Vilhelm,Undirected,1
+Erik,Kirkegaardstanke,Undirected,2
+Kristian Juel,halvni,Undirected,1
+Kristian Juel,Vilhelm,Undirected,2
+Arendsdorf,Margrete,Undirected,1
+Kathinka,Margrete,Undirected,1
+Kathinka,Vilhelm,Undirected,1
+Arendsdorf,Kristian Juel,Undirected,1
+Frøken Musman,Kristian Juel,Undirected,2
+Elise Vilhelm,Erik,Undirected,1
+Dantes,Erik,Undirected,1
+Dantes,Vita nova,Undirected,1
+Erik,bildes,Undirected,1
+Mozarts,bildes,Undirected,1
+Frøken Musman,Kathinka,Undirected,1
+Moqueur,Skaal Moqueur,Undirected,1
+Margrete,Muhamed,Undirected,1
+Boccaccio,Fiametta —,Undirected,1
+Boccaccio,Johanne,Undirected,1
+Erik Kølby,Kristian,Undirected,1
+Erik,Kristian,Undirected,1
+Hr. Kølby,Margrete,Undirected,1
+Margrete,Vilhelm,Undirected,2
+Erik,ane,Undirected,1
+From,Kruse,Undirected,1
+Frøken Margrete,Kristian Juel,Undirected,1
+Kristines,Margrete,Undirected,1
+From,Kolos,Undirected,1
+Erik!,Kolos,Undirected,1
+From,Margrete,Undirected,1
+Elverhøj,Erik,Undirected,1
+From,Frøken Kristine,Undirected,1
+Erik,Kirsten,Undirected,2
+Kristine,Margrete,Undirected,3
+Erik,Kristine,Undirected,7
+Erik,taus,Undirected,1
+Margrete,taus,Undirected,1
+Erik,Margrete —,Undirected,1
+Aasum,Margrete —,Undirected,1
+Erik,Madam Hansen,Undirected,1
+Erik,Zeus,Undirected,1
+Frøken Kristine,Zeus,Undirected,1
+Margrete,tlun,Undirected,1
+Erik,Fru Juels,Undirected,1
+Emmy,Margrete,Undirected,1

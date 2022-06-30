@@ -1,0 +1,94 @@
+source,target,type,weight
+Porses,gud,Undirected,2
+fatter Porse,gud,Undirected,1
+Porse,fatter Porse,Undirected,1
+Don Quijote,Porse,Undirected,1
+Keld Porse,Nero,Undirected,1
+Porse,hr. Keld,Undirected,1
+Don Quijote,hr. Keld,Undirected,1
+Don Quijote,Pickwick,Undirected,1
+Grete,hr. Brink,Undirected,1
+Gud,véd,Undirected,2
+Keld,véd,Undirected,1
+Porse,frk. Margrete,Undirected,1
+Rhodus dér,malm,Undirected,1
+Margot,malm,Undirected,1
+Homer,frk. Margot,Undirected,1
+Nero,agronoms,Undirected,1
+Keld,Nero,Undirected,1
+hr. Keld,møre,Undirected,1
+Adam,keruben,Undirected,1
+Margot,kejser Karls,Undirected,1
+Keld,jærn,Undirected,1
+Henrich,Keld,Undirected,1
+bjørnens,frk. Margot,Undirected,1
+Keld,Porse,Undirected,1
+Allenfals,Grete,Undirected,1
+Keld,gud,Undirected,1
+Eros,Olsen,Undirected,1
+Annette,Winthers,Undirected,1
+Keld,Margot,Undirected,2
+Grete,Klumpe,Undirected,1
+Adam,Eva,Undirected,1
+labor callum obducit dolori,vita anteacta,Undirected,1
+hare,morten,Undirected,1
+Kul-Petersen,morten,Undirected,1
+Fabian,Kul-Petersen,Undirected,1
+Fabian,grog,Undirected,2
+Fabian,ban,Undirected,2
+Fabian,konsul Bjergs,Undirected,2
+Fabian,doktors,Undirected,2
+Fabian,From,Undirected,4
+Fabian,puns,Undirected,1
+Fabian,kon sulens,Undirected,1
+Fabian,Flabian,Undirected,3
+Martens,olje,Undirected,1
+gud,olje,Undirected,1
+gud,véd,Undirected,1
+Martens,véd,Undirected,1
+Martens,gud,Undirected,1
+Morits Martens,gud,Undirected,2
+Morits Martens,Nelly,Undirected,1
+frøken Nelly,kong Salomons,Undirected,1
+Ernst,Marta,Undirected,2
+Krum,Marta,Undirected,1
+Ernst,papa,Undirected,1
+iland,karle,Undirected,1
+Peter A,Peter Abraham Skov,Undirected,1
+Diomedes,Peter Abraham Skov,Undirected,1
+Gud,lille Petersen,Undirected,1
+karls,marven,Undirected,1
+Petersen,lille Petersen,Undirected,1
+lille P.,lille Petersen,Undirected,1
+hayde,line,Undirected,1
+Bob,bælam,Undirected,1
+Bugge,arne,Undirected,1
+Junge,Junges,Undirected,1
+Hero,Junge,Undirected,1
+Hero,Leander,Undirected,1
+Don Juan,Vexles,Undirected,1
+Ingeborg,iland,Undirected,1
+Ingeborg,Junge,Undirected,2
+Astrid,Ingeborg,Undirected,1
+Hans Peter,William,Undirected,7
+Hans Peter,Peter,Undirected,2
+Peter,William,Undirected,1
+Berts,Hans Peter,Undirected,1
+Hans Peter,iland,Undirected,2
+Berts,Peter,Undirected,1
+Bert,Berts,Undirected,1
+Bert,Føns,Undirected,2
+Føns,William,Undirected,5
+Bert,lævns,Undirected,1
+William,lævns,Undirected,1
+William,William strax,Undirected,2
+Hans Peter,dril,Undirected,1
+William,dril,Undirected,1
+Bert,William,Undirected,11
+Bert,Hans Peter,Undirected,1
+Gud,William,Undirected,1
+William,véd,Undirected,1
+William,barter,Undirected,1
+Kristian den fjerde,Napoleon,Undirected,1
+Karl den store,Kristian den fjerde,Undirected,1
+Karl den store,William,Undirected,1

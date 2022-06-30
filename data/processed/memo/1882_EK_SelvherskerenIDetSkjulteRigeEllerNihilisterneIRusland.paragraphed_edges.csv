@@ -1,0 +1,529 @@
+source,target,type,weight
+Doojetzki,Mclikoffs,Undirected,1
+Dandsen,lilfods,Undirected,1
+Dandsen,Dolgorucki,Undirected,1
+J,g,Undirected,1
+Comtesse Sofia Petromsky,Øe,Undirected,1
+Comtesse Sofia Petromsky,Russakoff,Undirected,1
+Nikclaj Russakoff,fig,Undirected,1
+Dolgurucki,Nikolaj Russakoff,Undirected,1
+Dolgorucki,Honneur,Undirected,1
+Nikolai Russakoff,Nussakoffs,Undirected,1
+Nikolai Russakosf,Peter den Store,Undirected,1
+Gud,Guds,Undirected,1
+Alexander,Mcend,Undirected,1
+Nikolaj Russakoff,askæg,Undirected,1
+Eden,askæg,Undirected,1
+Alexander,Dolgorucki,Undirected,1
+Dolgorucki,Mylord,Undirected,1
+Hartman,Mylord,Undirected,1
+Nikolai Russakoff,Russakoff,Undirected,1
+Nicolaj Russakoff,Sofia Petrowsky,Undirected,1
+Russakoff,Sofia Petrowsky,Undirected,3
+Russakoff,Sofia Pctrowskys,Undirected,1
+Oren,Russakoff,Undirected,1
+Eden,Oren,Undirected,1
+Eden,Nicolaj Russakoff,Undirected,1
+Mylord,Russakoff,Undirected,1
+Jeliaboff,Mylord,Undirected,1
+Mylord,alias Jeliaboff,Undirected,1
+Ieg,Nikolaj Russakoff,Undirected,1
+Hartman,Ieg,Undirected,2
+Jcliaboff,Russakoff,Undirected,1
+Hartmann,Mylord,Undirected,1
+Moskau,Mylord,Undirected,1
+Hartmann,Russakoff,Undirected,1
+Alexander den,Alexander den II,Undirected,1
+Alexander,Hartman,Undirected,1
+Hartmann,Jeliaboff,Undirected,1
+Hartman,Jeliaboff,Undirected,2
+Russakoff,Sofia Pctrowsky,Undirected,2
+Donewsky,Hartman,Undirected,3
+Gud,Hartman,Undirected,1
+ester,saa Hartman,Undirected,1
+Dolgobraki,Eden,Undirected,1
+Baruch.,hin,Undirected,1
+Baruch,Dolgobraki,Undirected,6
+Baruch,Ore,Undirected,1
+Baruch,Karl,Undirected,1
+Baruch,jLE,Undirected,1
+Baruch,Kaminsky,Undirected,1
+Baruch,Daasen,Undirected,1
+Baruch,Besten,Undirected,1
+Jeliabosf,Sofie Petrowsky,Undirected,1
+,Alexander H.,Undirected,1
+Nicolaj,Sofia Petrowsky,Undirected,1
+Jeliaboff,Sofia,Undirected,1
+Jeliaboff,Sofia Petrowsky,Undirected,1
+Jeliaboff,Russakoff,Undirected,1
+Alexander den,Hartman,Undirected,1
+Hartman,Ivan Majdenoff,Undirected,1
+Ivan,Ivan Wajdenoff,Undirected,1
+Nicolaj Russakoff,Sofia,Undirected,1
+Sofia Petrowsky,paany,Undirected,1
+Morten Luther,Sofia Petrowsky,Undirected,1
+Gud,Nicolaj,Undirected,1
+Nikolaj,Sofia,Undirected,3
+Russakoff,Sofia,Undirected,3
+NussakoffS,Sofia,Undirected,1
+Nikolaj Russakoff,Sofia,Undirected,2
+Nussakoff,Sofia,Undirected,1
+Russakoff,tkkc,Undirected,1
+Nikolaj Russakoff,Sofia Petrowsky,Undirected,1
+Feodor Kowaleff,Russakoff,Undirected,1
+Kowaleff,Russakoff,Undirected,1
+Gud,Zenith,Undirected,1
+Jlia Jestutscheff,t ' l,Undirected,1
+Jlia Jestutscheff,Sofia Petrowsky,Undirected,1
+Russakoff,Russakon,Undirected,1
+Jestutscheff,Sofia,Undirected,1
+Wileskoff,lsd,Undirected,1
+Baron Wertow,Wileskoff,Undirected,1
+Gjcnbo,Helgorov,Undirected,1
+Gjcnbo,Maarskinspcls,Undirected,1
+Helgorov,Ojnenc,Undirected,2
+Alexandra,Øe,Undirected,1
+Helgorov,Werfov,Undirected,2
+Helgorov,javisf,Undirected,1
+Helgorov,Wcrtov,Undirected,1
+Helgorov,Wertow,Undirected,1
+Wertow,fransf Bankier,Undirected,1
+Baron d,Wertow,Undirected,1
+' Alembert,Baron d,Undirected,7
+Toinettc,d ,Undirected,1
+Alembert,d ,Undirected,8
+Wertow,d ' Alembert,Undirected,1
+Baron d ' Alembert,Wertow,Undirected,1
+Comtesse Adelheid Donimirska,Ducamp,Undirected,1
+Toinette,d ' Alembert galant,Undirected,1
+Toinette,d ' Alembert,Undirected,2
+Dandsen,Gambctta,Undirected,1
+Dandsen,Toinette,Undirected,1
+Toinette,d,Undirected,1
+Alembert,d,Undirected,5
+Alembert,Comtesse Dvnimirska,Undirected,1
+Toinette,d ,Undirected,2
+Comtesse Donimirska,Tvinette,Undirected,1
+Alembert,Tvinette,Undirected,1
+Gambetta,Grevy,Undirected,1
+Dands,Grevy,Undirected,1
+Alembert,Toinette,Undirected,2
+Ducamp,Toinette,Undirected,3
+Comtesse Donimirska,d ' Alembert,Undirected,1
+Komtesse Donimirska,Toinette,Undirected,1
+Alcmbert,d ,Undirected,1
+' Alcmbert,Baron d,Undirected,1
+Comtesse,d,Undirected,1
+' Alembert,d,Undirected,4
+Comtesse,Comtessen,Undirected,1
+' Alembert,Bjnes,Undirected,1
+Adelheid,d,Undirected,1
+Alembert,Hr. d,Undirected,1
+Ducamp,Toinettc,Undirected,1
+Frk. Dombrowskis,Jndviga,Undirected,1
+Frk. Dombrowskis,Sorbonne,Undirected,1
+Alexis Wtoreck,Principal,Undirected,1
+Alexis Wtoreck,Wladimir Wtoreck,Undirected,1
+Adelheid Waldeski,Ivan,Undirected,1
+Ivan,Wladimirs,Undirected,1
+Adelheid,Wladimirs,Undirected,1
+Ebbe,Wladimir,Undirected,1
+Wladimir,Wtoreck,Undirected,1
+Ivan,Wtoreck,Undirected,2
+Adelheid,Ivan,Undirected,7
+Ivan,l at,Undirected,1
+Adelheid,Gambetta,Undirected,2
+Gambetta,Komtesse Donimirska,Undirected,1
+Gambettes,Ivan,Undirected,2
+Jestntschef,d ' Alembert,Undirected,1
+Adelheid,Hubert,Undirected,22
+Baron d,Hubert,Undirected,2
+Adelheid,Toinette,Undirected,2
+Toinette,Zudviga,Undirected,1
+Adelheid,Donimirska,Undirected,1
+Jean,d ' Alembert,Undirected,1
+Comtesse,Hubert,Undirected,2
+Ivan,Jlia Jcsfutscheff,Undirected,1
+Judviga,d ' Alembert,Undirected,2
+Ducamp,d ' Alembert,Undirected,1
+Alembert,Jestutscheff,Undirected,1
+Jestutscheff,d ,Undirected,1
+Adelheid,Ducamp,Undirected,2
+Adelheid,Jestutscheff,Undirected,1
+Hubert,Ivan,Undirected,14
+Alembert,Baron d ,Undirected,1
+Ivan,j,Undirected,1
+Ivan,hans Bjne,Undirected,1
+Skaal,d ' Alcmbert,Undirected,1
+Hr. Struchynski,—,Undirected,1
+Ivan,d ,Undirected,1
+Adelheid,Alembert,Undirected,1
+Adelheid,Gambctta,Undirected,1
+Alembert,hnn,Undirected,1
+Hubert,Uhret,Undirected,1
+Ivan,yaha,Undirected,1
+Comtesse Donimirska,Hubert,Undirected,1
+Hubert,ril,Undirected,1
+Hcrr Struschynski,d,Undirected,1
+' Alembert,Helgorow,Undirected,1
+Ivan,Sknrk,Undirected,1
+Wizotzki,d ' Alembert,Undirected,1
+Wilcskoff,d ' Alembert,Undirected,1
+Wertow,Wilcskoff,Undirected,1
+Ilia Jestutscheff,Nihili,Undirected,1
+Ilia Jestutscheff,Ivan Waldeski,Undirected,4
+Wileskoff,Wizokzki,Undirected,1
+Ducamp,Wileskoff,Undirected,5
+Wileskoff,Øe,Undirected,2
+Ducamp,Øe,Undirected,1
+Toinette,Wileskoff,Undirected,3
+Wileskoff,Wizotzki,Undirected,1
+Jlia,Wizotzki,Undirected,1
+Ivan Waldeski,Jlia,Undirected,2
+Jlia,Jlia Jesfutscheff,Undirected,1
+Toinette,Wilcskoff,Undirected,1
+Ducamp,Wilcskoff,Undirected,2
+Amalie,Kjæræ,Undirected,1
+Amalie,Toinette,Undirected,1
+Papa,Toinctte,Undirected,1
+Waldeski,Wileskoff,Undirected,1
+Hubert fundne,Wileskoff,Undirected,1
+Hubert Struchynski,Øe,Undirected,1
+Dokfor Wileskoff,Toinctte,Undirected,1
+Adelheid Donimirska,Hubert d,Undirected,1
+' Alembert,Hubert d,Undirected,1
+' Alembert,Ivan Waldeski,Undirected,1
+Baron de Clairville,Hubert,Undirected,1
+Hubert,sule,Undirected,1
+Ivan Waldeski,Jlia Jestutscheff,Undirected,4
+Hubert,Jlia Jestutscheff,Undirected,1
+Hubert,fro,Undirected,1
+Adelheid,Neppe,Undirected,1
+Ilia Jestutscheff,Ivan,Undirected,1
+Frøken Ducamp,Ivan,Undirected,1
+Frøken Ducamp,Wileskoff,Undirected,1
+Adelheid sor,Hubert,Undirected,1
+Hubert,Wileskoff,Undirected,4
+Hubert,Krasinsky,Undirected,3
+Adelheid,ganfle,Undirected,1
+Hubert,de Clairville,Undirected,1
+Hubert,lisfede Hubert,Undirected,1
+Adelheid,Othello,Undirected,1
+Adelheid,Wisotzki,Undirected,5
+Clairville,Waldeski,Undirected,1
+Comtesse Donimirska,Wisotzki,Undirected,1
+Adelheid,Comtesse Donimirska,Undirected,1
+Hubert,vexle,Undirected,1
+Wisotzki,venotc,Undirected,1
+Hubert,Wisokzki,Undirected,10
+Hubert,Wisotzki,Undirected,16
+Adelheid,Jeanette,Undirected,1
+Adelheid,de Clairville,Undirected,1
+Wisotzki,Wi—Wiso,Undirected,1
+Jeanette,Wisokzki,Undirected,1
+Adelheid Waldeski,Wisotzki,Undirected,1
+Adelheid Waldeski,Waldeski,Undirected,1
+Adelheid Waldeski,Ivan Waldeski,Undirected,1
+Adelheid Waldeski,Struchynski,Undirected,1
+Krasinsky,Struchynski,Undirected,1
+Adelheid,Krasinsky,Undirected,1
+Adelheid,Wisokzki,Undirected,6
+Adelheid,ester,Undirected,2
+Wisokzki,Wisotzki,Undirected,2
+Wisokzki,de Clairville,Undirected,1
+Arresfen,Øe,Undirected,2
+Ieg,Struschynski,Undirected,1
+Struschynski,Wisokzki,Undirected,1
+Neppe,Wisokzki,Undirected,1
+Krasinsky,Wisokzki,Undirected,1
+Adelheid Waldeski,Wisokzki,Undirected,1
+Adelheid Waldeski,Øe,Undirected,1
+Fyrst Krasinsky,Wisokzki,Undirected,1
+Ivan,Wileskoff,Undirected,2
+Te,Wisokzki,Undirected,1
+Hubert,ester,Undirected,1
+Ivan,Jeliaboff,Undirected,3
+Alexander,Jestutscheff,Undirected,1
+Ivan,d ' Alembert,Undirected,1
+Jestutscheff,d ' Alembert,Undirected,1
+Jedviga,Jestutscheff,Undirected,2
+Jedviga,d,Undirected,1
+Alembert,Struschynski,Undirected,1
+Adelheid,Jedviga,Undirected,2
+Jedviga,Jlia,Undirected,8
+Adelheid,Struschynski,Undirected,1
+Ivan,Struschynski,Undirected,3
+Ojnenc,mindsfe,Undirected,1
+Wisotzki,mindsfe,Undirected,1
+Ducument,Wisotzki,Undirected,1
+Ducument,Hubert,Undirected,1
+Ivan Waldeski,Jeliaboff,Undirected,1
+Ivan Waldeski,Strufchynski,Undirected,1
+Hubert,W ' sofzki,Undirected,1
+Hubert,Wladimir Wtoreck,Undirected,1
+Waldeski,Wisotzki,Undirected,1
+Hubert,Ivan Waldeski,Undirected,1
+Hubert,istedeffor,Undirected,1
+Hubert,Ilia Jestutscheff,Undirected,1
+Ilia Jestutscheff,ban,Undirected,1
+Hubert,strax,Undirected,1
+Ivan,Jestutscheff,Undirected,5
+Jlia,Struschynski,Undirected,2
+Hubert,Jestutscheff,Undirected,2
+Ivan,Wisotzki,Undirected,1
+Jlia,Wisotzki,Undirected,1
+Alexander,h,Undirected,1
+Alexander,Wladimir,Undirected,1
+Adlcrberg,Wladimir,Undirected,1
+Ivan Waldeski,Jlia Jesfutscheff,Undirected,1
+Jasaa,dttmindste,Undirected,1
+Hubert,Kejseren,Undirected,1
+Feodor Kowalew,Russakoff,Undirected,1
+Ivan,Sofia Petrowsky,Undirected,1
+Jestutscheff,Wisotzki,Undirected,1
+L Ko,W. Simonsen,Undirected,1
+.,L Ko,Undirected,1
+Hartmann,Jus,Undirected,19
+Jus,Kaptejn Smallbones,Undirected,1
+Adelheid,Hartmann,Undirected,4
+Adelheid Waldeski,Hartmann,Undirected,1
+Adelheid,Gud,Undirected,1
+Dokfor Jus,Hartmann,Undirected,1
+Adelheid saae Hartmann,Hartmann,Undirected,1
+Adelheid,Wileskoff,Undirected,3
+Adelheid,Dokfor Wilcskvff,Undirected,1
+Adelheid,paany,Undirected,1
+Marion,Toinettc,Undirected,1
+Marion,Wileskoff,Undirected,1
+Jus,raaabte,Undirected,1
+Jim,Wileskoff,Undirected,1
+Wileskoff,ester,Undirected,2
+Mr. Halloway,Wileskoff,Undirected,1
+Mr. Halleway,Mr. Halloway,Undirected,1
+Hubert,Mr. Halleway,Undirected,1
+Hcjda,Kaptajuen,Undirected,1
+Hcjda,Mr. Fix,Undirected,1
+Mr. Fix,Mr. Toddy,Undirected,1
+Hubert,Mr. Halloway,Undirected,1
+Mr. Fix,Smallbones,Undirected,1
+Halloway,Mr. Fix,Undirected,1
+Hubert,Smallbones,Undirected,2
+Dokfor Wileskoff,Hubert,Undirected,1
+Old Bob,Wileskoff,Undirected,1
+Adelhejd,Gambetta,Undirected,2
+Adelheid,Leon,Undirected,1
+Toinette,hnn,Undirected,1
+Ducamp,Hatman,Undirected,1
+Hartman,James Perking,Undirected,1
+Hartman,Toinette,Undirected,1
+Ducamp,Hartman,Undirected,1
+Toinette,Tys,Undirected,1
+Gud,Tys,Undirected,1
+Gud,Jedviga,Undirected,3
+Jedviga,Toinette,Undirected,6
+Hartmann,James Perkins,Undirected,1
+Jedviga,Tvinette,Undirected,1
+Hubert,Struschynski,Undirected,1
+Hartmann,Hubert,Undirected,1
+Hartman,HartmannS,Undirected,1
+Hartmann,Hartmanu,Undirected,1
+Hartmann Jns,Jedviga,Undirected,1
+Hartmann,Jedviga,Undirected,4
+Jus,Wileskoff,Undirected,4
+Hartmann,WileskoffS,Undirected,1
+Mr. Richard,Wileskoff,Undirected,1
+Hartmann,ester,Undirected,2
+Hartmann,st Jus,Undirected,1
+Ducamp,James Perkins,Undirected,1
+Ducamp,Struschynski,Undirected,2
+Neppe,Struschynski,Undirected,1
+Jedviga,Neppe,Undirected,1
+Hartmann,hnn,Undirected,1
+Ducamp,Hubert,Undirected,2
+' Alembert,Ducamp,Undirected,1
+' Alembert,Struschynski,Undirected,1
+Ducamp,sægde,Undirected,1
+Dokfor Wileskoff,Jedviga,Undirected,1
+Toinette,sra Becchhill,Undirected,1
+Beechhill,Struschynski,Undirected,1
+Struschynski,Wileskosf,Undirected,1
+Struschynski,Wileskoff,Undirected,4
+Ducamp,Tvinette,Undirected,1
+Struschynski,Tvinette,Undirected,1
+Jedviga,Struschynski,Undirected,1
+Ivan Waldeski,Struschynski,Undirected,1
+Beechhill,Jus,Undirected,2
+Iris,Smallbones,Undirected,1
+Beechhill,Bob,Undirected,1
+Hartman,Hartmann,Undirected,1
+Hubert,Jedviga,Undirected,5
+Jedviga,ester,Undirected,2
+Bob,Hubert,Undirected,7
+Hubert,Mr. Maplesone,Undirected,2
+Mr. Maplesone,Struschynski,Undirected,1
+Hubert,Old-Bob,Undirected,3
+Jestutscheff,Jus,Undirected,2
+Bien,Mr. Struschynski,Undirected,1
+Beechhill,Jedviga,Undirected,1
+Hartmann,JuS,Undirected,1
+Hartmann,Jus Skjulested,Undirected,1
+Marion,Toinette,Undirected,1
+Jedviga,Marion,Undirected,1
+Jedviga,hnn,Undirected,2
+Jedviga,Paul,Undirected,1
+Struchynski,Willeskoff,Undirected,1
+Ilia,Jus,Undirected,2
+Jlia,Jus,Undirected,2
+Jus,ester,Undirected,1
+Jus,fig,Undirected,1
+Jedviga,Jus,Undirected,1
+Ilia,Jedviga,Undirected,1
+Ilia,Jedvige,Undirected,1
+Md. Fournier,karblsn,Undirected,1
+Ilia,Md. Fournier,Undirected,1
+Frøken Jedviga,Ilia,Undirected,1
+Jedviga,Md. Fournier,Undirected,4
+Md. Fournier,valen,Undirected,1
+Jedviga,Zlias,Undirected,1
+Zlias,felv,Undirected,1
+Jedviga,Md. Fournicr,Undirected,1
+Jedviga Jestutscheff,Struschynski,Undirected,1
+Hartmann,Md. Fournier,Undirected,1
+Ivan,Jus,Undirected,1
+,Jus,Undirected,1
+Baron d,Struschynski,Undirected,1
+Alembert,Baron d,Undirected,1
+Dn,Ducamp,Undirected,1
+Dn,directe,Undirected,1
+Hartmann,Wilcskoff,Undirected,1
+Wileskoff,kjære Jlia,Undirected,1
+Hartmann,Wileskoff,Undirected,4
+Hartmann,Struschynski,Undirected,2
+Hubert,Toinette,Undirected,4
+Hubert,sif,Undirected,1
+Toinette,ester,Undirected,1
+Hubert,Wileskoss,Undirected,1
+Adelhejd,Hubert,Undirected,2
+Hartmann,Li forlode Jestutscheff,Undirected,1
+Hartmann,Jlra,Undirected,1
+Hartmann,Jestutscheff,Undirected,2
+Jasaa,Struschynski,Undirected,1
+Adelheid Waldeski,Wileskoff,Undirected,1
+Hartmann,Jlia,Undirected,2
+Jlia,Madame Fonrnier,Undirected,1
+Jestutscheff,Madame Fournier,Undirected,1
+Jedviga,Madame Fournier,Undirected,1
+Jeliaboff De,Md. Fournier,Undirected,1
+Jedviga,Jeliaboff,Undirected,1
+Adelhejd,Wileskoff,Undirected,1
+Struschynski,figaar,Undirected,1
+Ducamp,Hartmann,Undirected,1
+Hr. Struschynski,Jedviga,Undirected,1
+Wileskofss,huk Jedviga,Undirected,1
+Ester at Hartmann,sonore,Undirected,1
+Adelheid Waldeski,Jedviga Jestutscheff,Undirected,1
+Didier,Hartmann,Undirected,1
+Fournicr,Jestntscheffs,Undirected,1
+Fournicr,Md. Fournier,Undirected,1
+Adelhejd Waldeski,Md. Fournier,Undirected,1
+Ester,Hartmann,Undirected,1
+Ilia,Ivan,Undirected,2
+Ivan,Zvan,Undirected,1
+Ivan Waldesski,sortællc,Undirected,1
+Ivan,Kibaltschitsch,Undirected,1
+Ivan,Kuczkovski,Undirected,1
+Ivan,mørknes,Undirected,1
+Kuczkovski,Marv,Undirected,1
+Mitkov,Wisotzki,Undirected,1
+Ivan,Mitkov,Undirected,3
+Ivan,Wisokzki,Undirected,1
+mer,Øjncne,Undirected,1
+Demitry,Ivan,Undirected,3
+Dcmitry,Ivan,Undirected,2
+Demitry,Wladimir Wtoreck,Undirected,1
+Daja,Ivan,Undirected,11
+Daja,ben henrivende Zigeunerinde,Undirected,1
+Ivan,Ossipov,Undirected,1
+Peter,havve,Undirected,1
+Ivan,Nertschinsk,Undirected,1
+Ivan,Tschernischeff,Undirected,1
+Ivan,Tschernischrffs,Undirected,1
+Fyrstæn,Peter,Undirected,2
+Fyrstæn,Ivan,Undirected,1
+Ivan,Peter,Undirected,4
+Daja,Ivan Waldeski,Undirected,2
+Daja,øgsaa,Undirected,1
+Ivan,aja,Undirected,1
+Ivan,Zigeunere,Undirected,1
+,Zigeunere,Undirected,1
+,Daja,Undirected,1
+Ivan,Mukis,Undirected,1
+Mukis,Zigeuners,Undirected,1
+Muki,Zigeuners,Undirected,1
+Daja,Muki,Undirected,1
+Ivan,Jlia,Undirected,2
+Ivan,Jedviga,Undirected,2
+Didicr,Jlia Jesfutscheff,Undirected,1
+Adelhejd Waldeski,Jlia Jesfutscheff,Undirected,1
+Adelhejd Waldeski,Jlia,Undirected,1
+Adelheid Waldeski,Adelhejd Waldeski,Undirected,1
+Jestutscheff,Struschynski,Undirected,1
+Jestutscheff,Wileskoff,Undirected,1
+Adelhejd,No,Undirected,1
+Adelhejd,Didier,Undirected,2
+Didier,kjære Jeliaboff,Undirected,1
+Adelhejd Waldeski,Didier,Undirected,1
+Michajloff,Zeliaboff,Undirected,1
+Jessic,Wisotzki,Undirected,2
+Adelhejd Waldeski,Wisotzki,Undirected,2
+Adelhejd Waldeski,Jessie Helfman,Undirected,1
+Adelhejd Waldeski,DidicrS,Undirected,1
+DidicrS,Wisotzki,Undirected,1
+Adelhejd,Wisotzki,Undirected,3
+Adelheid,Hubert Struschynski,Undirected,1
+Adelbcid,Wisotzki,Undirected,1
+Hubert,ban,Undirected,1
+Adelheid,Kellner,Undirected,1
+Adelheid,Hubert Strnschynski,Undirected,1
+Alexander II,Hubert,Undirected,2
+Hubert,Zo,Undirected,1
+Adelhejd,fil Wisotzki,Undirected,1
+Hubert,Sofie,Undirected,2
+Jessic Helfmanns,Struschynski,Undirected,1
+Wilotzki,Wisotzki,Undirected,1
+Adelhejd,Wilotzki,Undirected,1
+Harmann,Hartmann,Undirected,1
+Doctor Wileskoffs,Wisotzki,Undirected,1
+Adelhejd,Wlademir Wtvresk,Undirected,2
+Hubert Struschynski,Sofie,Undirected,1
+Czaren,ester,Undirected,1
+Jeliaboff,ester,Undirected,1
+Oren,Sofie,Undirected,1
+Kibaltfchisch,Sofie,Undirected,1
+Jeliaboff,Kibaltfchisch,Undirected,1
+Jeliaboff,Michajkoff,Undirected,1
+Russakoff,Sofie,Undirected,2
+Jeliaooff,Michajloff,Undirected,1
+Kibaltschitsch,Michajloff,Undirected,1
+Sascha,Storsyrst Michael,Undirected,1
+Frolov,MeogfrMndstyveube,Undirected,1
+Michajlow,Sophie Petrowsky,Undirected,4
+Knn,ester,Undirected,1
+Frolow,halvni,Undirected,1
+Jeliabow,Russakow,Undirected,1
+Jeliabow,Kibaltschitsch,Undirected,1
+Kibaltschitsch,Sophie Petrowsky,Undirected,2
+Jeliabow,Sophie Petrowsky,Undirected,2
+Sophie Petrowsky,ched,Undirected,1
+Kibaltschitsch,ss,Undirected,1
+Frolow,Oskencn,Undirected,1
+Frolow,Michajlow,Undirected,2
+Frolow,Sophie Petrowsky,Undirected,1
+Driesen,Frolow,Undirected,1
+Jliaboff,Michajloff,Undirected,1
+Russakow,Sophie Petrowsky,Undirected,2
+Toinette,tom,Undirected,1
+Toinette,Wisotzki,Undirected,1
+Adelhejd Waldeski,Wileskoff,Undirected,1
+Adelhejd Waldeski,Wladinir Wtorcck,Undirected,1
+Ivan Waldcski,Jeviga,Undirected,1

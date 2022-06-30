@@ -1,0 +1,78 @@
+source,target,type,weight
+Arnold,Ida,Undirected,5
+Arnold,Edele,Undirected,8
+Edele,Høgholt,Undirected,2
+Arnold,Hasle,Undirected,2
+Arnold,Ida Hammer,Undirected,1
+Arnold Hasle,Ida Hammer,Undirected,1
+Knudsen,Rvg,Undirected,1
+Per,Povl,Undirected,1
+Anders,Hasle,Undirected,3
+Hasle,Ida,Undirected,3
+Edele,Hasle,Undirected,21
+Anna Knudsen,Arnold Hasle,Undirected,1
+Anna Knudsen,Edele,Undirected,1
+Edele,lian,Undirected,4
+Edele,Knudsen,Undirected,6
+Hasle,Knudsen,Undirected,4
+Flan,Hasle,Undirected,1
+Anders,Mo’,Undirected,1
+Anna,Høgholt,Undirected,1
+Forvaltcren,Høgholt,Undirected,1
+Edele,Finn,Undirected,1
+Ane Jørgens,Jørgen Knudscns,Undirected,1
+Anna,Hasle,Undirected,10
+Ane Jørgens,hnn,Undirected,1
+Hasle,hnn,Undirected,1
+Ane Jørgens,Jørgen,Undirected,2
+Ane Jørgens,Anna,Undirected,4
+Anna,Jens,Undirected,5
+Hasle,Jens,Undirected,1
+Ane,lian,Undirected,1
+Edele Hammer,Knudsen,Undirected,1
+Ane,liun,Undirected,1
+Knudsen,liun,Undirected,1
+Ane,Edele,Undirected,1
+Ane Jørgens,Edele,Undirected,1
+Capitain Thomsens,Edele,Undirected,1
+Edele,Ida,Undirected,10
+Knudsen,lian,Undirected,2
+Anna,lian,Undirected,1
+Hasle,lille Knud,Undirected,1
+Ane Jørgens,Hasle,Undirected,1
+Edele,Jørgen,Undirected,1
+Edele,Thomsen,Undirected,3
+Christian Winthers,Thomsen,Undirected,1
+Anders Skovfoged,Frøken Hammer,Undirected,1
+Anders Skovfoged,Jens,Undirected,1
+Knudsen,vexle,Undirected,1
+Capitain Thomsen,Edele,Undirected,1
+Knudsen,ban,Undirected,1
+Hasle,Taalmod,Undirected,1
+Edele,livor,Undirected,1
+Edele,Potpourri,Undirected,1
+Hasle,Høgholt,Undirected,1
+Knudsen,Skovfogedens,Undirected,1
+Knudsen,Søsters,Undirected,1
+Edele,Flan,Undirected,1
+Anna,Edele,Undirected,6
+Hasle,Knud,Undirected,2
+Ane Jørgens,Høgholt,Undirected,1
+Gud,Jørgen,Undirected,1
+Anna,liun,Undirected,1
+Jens,liun,Undirected,1
+Holm,Knudsen,Undirected,1
+Hr. Hasle,Hr. Hasles,Undirected,1
+Anna,Jørgen,Undirected,1
+Ane,Jørgen,Undirected,1
+Ane Jørgens,Jens,Undirected,1
+Anna,Knudsen,Undirected,1
+Anna,Knud,Undirected,1
+Agerholms,Ida,Undirected,1
+Agerholms,Edele,Undirected,1
+Edele,KjørseL,Undirected,1
+Edele,Mo’,Undirected,1
+Anna,Mo’,Undirected,1
+Edele,Knud,Undirected,2
+Hasle,liun,Undirected,1
+Frøken Hammer,Knud,Undirected,1

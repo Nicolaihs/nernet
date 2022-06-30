@@ -1,0 +1,468 @@
+source,target,type,weight
+Linet,liun,Undirected,1
+Ane,Gud,Undirected,3
+Ane,Bruhnhylde,Undirected,1
+Bruhnhylde,Grimmild,Undirected,2
+Bruhnhylde,Karl,Undirected,1
+Bertel,Karl,Undirected,3
+Anniskaal,liun,Undirected,1
+Grubbe,Marie Grubbe,Undirected,1
+Erik Grubbe,Nadvre,Undirected,1
+Ane .Tensdatter,Erik Grubbe,Undirected,1
+Ane .Tensdatter,hnn,Undirected,1
+Wulborg,gyres,Undirected,1
+Stine aa Buel,Wulborg,Undirected,1
+Mari,Stine aa Buel,Undirected,1
+Ane,Mari,Undirected,1
+A,Mari,Undirected,1
+Ane,Erik Giubbe,Undirected,1
+Christian Skeel,lian,Undirected,1
+Erik Grubbe,lian,Undirected,2
+Christian Skeel,Erik Grubbe,Undirected,1
+Ane,Erik Grubbe,Undirected,1
+Erik Grubbe,Marie,Undirected,11
+Marie,Rigitze,Undirected,2
+Ane,Marie,Undirected,2
+Erik Grubbe,haan,Undirected,1
+Gud,Viborrig,Undirected,1
+Junker,Jørgen,Undirected,1
+Gud,nyssens,Undirected,1
+Erik Grubbe,Grubbe,Undirected,2
+Grubbe,Hans Ulrik Gyldenløves,Undirected,1
+Krag,Trolle,Undirected,1
+Joachim Gersdorff,Krag,Undirected,1
+Carl van Manderns,Joachim Gersdorff,Undirected,1
+Lucie,Marie,Undirected,9
+Lucie,hnn,Undirected,2
+Karle,hnn,Undirected,1
+Ganteras,Karle,Undirected,1
+Ganteras,Lorens,Undirected,1
+Marie,tillivs,Undirected,1
+Marie,Rigitze Grubbe,Undirected,1
+Marie,Marie knude,Undirected,1
+Ane Marie,liun,Undirected,1
+Ane Marie,Gud,Undirected,1
+Faster,Gud,Undirected,1
+Faster,Ulrik Frederik,Undirected,1
+Chicane,Ulrik Frederik,Undirected,1
+Chicane,Franzosisk,Undirected,1
+Faster,Franzosisk,Undirected,1
+Faster,Stycho,Undirected,1
+Ane Marie Grubbe,Stycho Høeghs,Undirected,1
+Marie,livor Lucie bod,Undirected,1
+Marie,Ulrik Frederik,Undirected,33
+Christen Skeel,Mademoiselle,Undirected,1
+Aurora,Christen Skeel,Undirected,1
+Evan,Monsieur,Undirected,1
+Erik Lauritzen,Gert Pyper,Undirected,1
+Erik Lauritzen,livor,Undirected,1
+Gert,Gud,Undirected,1
+Gud,Indigofarve,Undirected,1
+Gert,Indigofarve,Undirected,1
+Erik Lauritzen,Lasse,Undirected,1
+Erik Lauritzen,liar,Undirected,1
+Gert,Kong Kristians,Undirected,1
+Kong Kristians,bissed,Undirected,1
+Erik Lauritzen,tys,Undirected,1
+Gert Pyper,tys,Undirected,1
+Gert,Jesper Kiim,Undirected,1
+Jesu,Matthæus 51—54,Undirected,1
+Jesu,hannem,Undirected,4
+Gud,Peter den,Undirected,1
+Jesu,Peter den,Undirected,1
+Sancheribs,hannem,Undirected,1
+Kong Pharaos,Sancheribs,Undirected,1
+Jesper Kiim,Kong Pharaos,Undirected,1
+Lurifas,Mette,Undirected,1
+Gert Pyper,Gud,Undirected,1
+Gigers,Pappens,Undirected,1
+Heinrich,Pappens,Undirected,1
+Heinrich,Kristus,Undirected,1
+Anettes,von Dettmer,Undirected,1
+Anettes,Lieschen,Undirected,1
+Lieschen,Lotte,Undirected,1
+Lotte,Marthas,Undirected,1
+Adelaides,Marthas,Undirected,1
+Adelaides,Sofie,Undirected,1
+Daniel,Daniel Knopf,Undirected,1
+Daniel,Ulrik,Undirected,2
+Frederik,Ulrik,Undirected,8
+Daniel Knopf,Ulrik Frederik vatSjælen,Undirected,1
+Daniel,Ulrik Frederik vatSjælen,Undirected,1
+Hr. Gyldenleu,Ulrik Frederik,Undirected,1
+Daniel,Hr. Gyldenleu,Undirected,2
+Hr. Gyldenleu,hannem,Undirected,1
+Gud,Gyldenleu,Undirected,1
+Daniel,Gud,Undirected,2
+Conduite,Daniel,Undirected,1
+Conduite,Hr. Gyldenleu,Undirected,1
+Daniel,Frederik,Undirected,1
+Christoffer Urnes,Sofie,Undirected,1
+Jørgen Urne,Sofie,Undirected,1
+Jørgen Urne,Marsvin,Undirected,1
+Sofie,Ulrik Frederik,Undirected,7
+Jomfru Sofie,Sofie,Undirected,1
+Jomfru Sofie,lian,Undirected,1
+Sofie,Ulrik,Undirected,1
+Ulrik Frederik,liendes,Undirected,1
+Kristi,Ulrik Frederik,Undirected,1
+Sofie Urne,Ulrik Frederik,Undirected,5
+Gud,Sofie Urne,Undirected,1
+Gud,Ulrik Frederik,Undirected,3
+Satan,Ulrik Christian Gyldenløves,Undirected,1
+Bellarina,Satan,Undirected,1
+David danske,Roes,Undirected,1
+Gud,Roes,Undirected,1
+Christian,Gud,Undirected,1
+Christian,Marie Grubbe,Undirected,1
+Lucie,Marie Grubbe,Undirected,2
+Bayard,Kong Alexander,Undirected,1
+Bayard,Lucie,Undirected,1
+Marie Grubbe,Ulrik Christian,Undirected,2
+Marie,Ulrik Christian,Undirected,3
+Marie,Marie Grubbe,Undirected,4
+Marie,hnn,Undirected,2
+Ulrik Christian,hnn,Undirected,1
+hnn,paany,Undirected,1
+Falk,paany,Undirected,1
+Falk,Malvina,Undirected,1
+Lucie,Malvina,Undirected,1
+Hans Didrichsen Bartskjær,Ulrik Christian,Undirected,1
+Hans Didrichsen Bartskjær,Susanner,Undirected,1
+Judith,Susanner,Undirected,1
+Ulrik Christian,h'raus,Undirected,1
+Ulrik Christian,ejns,Undirected,1
+ejns,zwej,Undirected,1
+Jens Justesen,Ulrik Christian,Undirected,1
+Ane Skomagers,Ulrik Christian,Undirected,2
+Ane,Ulrik Christian,Undirected,2
+Jesu,Ulrik Christian,Undirected,1
+Jesus Christus,ban,Undirected,1
+Jesu,ban,Undirected,1
+Ane,hnn,Undirected,2
+Medikus,hnn,Undirected,1
+Marie Grubbe,Vig bort,Undirected,1
+Corfitz Ulfeldt,Sofie Urne,Undirected,1
+Ulfeldt,Ulfeldts,Undirected,1
+Ulfeldt,Ulrik Frederik,Undirected,1
+Eleonore Christine,Ulrik Frederik,Undirected,1
+Eleonore Christine,Ulfeldt,Undirected,1
+Jomfru Soties,Ulrik Frederik,Undirected,1
+Jomfru Soties,Sotie,Undirected,1
+Sotie,Ulrik Frederik,Undirected,2
+Sofie,lian,Undirected,1
+Christoffer Urne,Ulrik Frederik,Undirected,3
+Christoffer Urne,Sofie,Undirected,1
+Daniel,Ulrik Frederik,Undirected,3
+Sofie,hnn,Undirected,1
+Ulrik Frederik,hnn,Undirected,2
+Ulrik Frederik,livor,Undirected,1
+Lucie,Ulrik Christian Gyldenløves,Undirected,1
+Gud,Lucie,Undirected,1
+Gud,Jomfru Marie,Undirected,1
+Jomfru Marie,Lucie,Undirected,1
+Marie,Tjele,Undirected,7
+Tjele,hnn,Undirected,1
+Diana,hnn,Undirected,1
+Beryl,Johannes,Undirected,1
+Beryl,Chrysopras,Undirected,1
+Chrysopras,hnn,Undirected,1
+Lucie,Rigitze,Undirected,1
+Gud,Rigitze,Undirected,1
+Gud,al,Undirected,1
+Dyffels,Gert,Undirected,1
+Dyffels,Erik Lauritzen,Undirected,1
+Erik Lauritzen,Magdeborg,Undirected,1
+graa Hans Nansen,lian,Undirected,1
+Villeni Finren,lian,Undirected,1
+Corfitz Trolle,Villeni Finren,Undirected,1
+Corfitz Trolle,Otto Krag,Undirected,1
+Axel Urup,Otto Krag,Undirected,1
+Axel Urup,Grubbe,Undirected,1
+Grubbe,Rigitze,Undirected,1
+Gersdorf,Marie,Undirected,1
+Gersdorf,Schack,Undirected,1
+Schack,Thuresen,Undirected,1
+Peder Retz,Thuresen,Undirected,1
+Niels Rosenkrands,Ulrik Frederik,Undirected,1
+Rosenkrands,Sofie Urne,Undirected,2
+Axel Urup,Rosenkrands,Undirected,2
+Axel Urup,Johan Adolfs,Undirected,1
+Grubbe,allenfals,Undirected,1
+Henning Dyre,Sidonie,Undirected,1
+Ove Powitzes,Sidonie,Undirected,1
+Rosenkrands,herku—liske,Undirected,1
+Daa,Jomfru Dyres,Undirected,1
+Jomfru Dyres,Urias,Undirected,1
+Marie Grubbe,Ulrik Frederik,Undirected,10
+Jomfru Marie,Marie Grubbe,Undirected,1
+Axel Urup,Marie,Undirected,1
+Gyldenleu,Sidse,Undirected,1
+Gyldenleu,Sorrig,Undirected,1
+Bilde,Jørgen,Undirected,1
+Axel Urup,Ulrik Christian,Undirected,1
+Ulrik Frederik,lian,Undirected,2
+Marie,Sofie Urne,Undirected,1
+Marie Grubbe,Sofie Urne,Undirected,1
+Marie,Ulrik Frederik Vordingborg,Undirected,2
+Marie,Sotie,Undirected,1
+Ulrik Christian,Ulrik Frederik,Undirected,1
+Citharens,lian,Undirected,1
+rJeg,Æhn,Undirected,1
+Pidsken,Ulrik Frederik,Undirected,1
+Karl,Stutn,Undirected,1
+Stutn,Ulrik Frederik,Undirected,1
+Daniel Knopf,Marie,Undirected,1
+Daniel,Marie Grubbe,Undirected,3
+Gyldenleu,Marie,Undirected,1
+Cavalliers,Gyldenleu,Undirected,1
+Cavalliers,Daniel,Undirected,1
+Anders,Karen,Undirected,1
+Daniel,Marie,Undirected,1
+Grubber,Marie Grubbe,Undirected,1
+Grubber,Marie,Undirected,1
+Ulrik,Ulrik Frederik,Undirected,1
+Christian,Frederik,Undirected,1
+Christian,Hans Ulriks,Undirected,1
+Hans Ulriks,Ulrik Frederik,Undirected,1
+Leander,Leonora,Undirected,4
+Leander,Rusens,Undirected,1
+Rusens,lian,Undirected,1
+Carl Gustav,Ulrik Frederik,Undirected,1
+Carl Gustav,Lehn,Undirected,1
+Christian,Lehn,Undirected,1
+Gud,Marie,Undirected,4
+Frederik den,Ulrik Frederik,Undirected,2
+Burrhi,Ulrik Frederik,Undirected,4
+Burrhi,Christen Skeel,Undirected,1
+Christen Skeel,Ulrik Frederik,Undirected,1
+Ole Borch,Ulrik Frederik,Undirected,2
+Burrhi,Ole Borch,Undirected,2
+Morianen,Ulrik Frederik,Undirected,1
+Burrhi,Hvo,Undirected,1
+Hvo,Mosem,Undirected,1
+Mosem,Zebaoth,Undirected,1
+Gehennas,Zebaoth,Undirected,1
+Medici,liam,Undirected,1
+Nero,Passando,Undirected,1
+Passando,Rumor,Undirected,1
+Delphin,Rumor,Undirected,1
+Delphin,Graad,Undirected,1
+Graad,Passando,Undirected,1
+.Tulinat,Marie,Undirected,1
+Johan Lehns,Ulrik Frederik,Undirected,1
+Johan Lehns,Marie,Undirected,1
+Burrhi,Gud,Undirected,1
+Don Juan d'Austria,Ulrik Frederik,Undirected,1
+Don Juan d'Austria,Frederik den Tredie,Undirected,1
+Frederik den Tredie,Kong Frederiks,Undirected,1
+Anna Sofie,Marie,Undirected,1
+Reinholdt,lille Daniel,Undirected,1
+Daniel,Reinholdt,Undirected,1
+Daniel,Hille,Undirected,1
+Hille,Magnille,Undirected,1
+Magnille,hnn,Undirected,1
+Daniel,Magnille,Undirected,4
+Magnille,Marie Grubbe,Undirected,3
+Karen Fiol,Marie Grubbe,Undirected,3
+Daniel,hnn,Undirected,1
+Daniel Knopf,Madame,Undirected,1
+Daniel,Madame,Undirected,1
+Madame,Magnille,Undirected,1
+Madame Gyldenleu,Magnille,Undirected,1
+Magnille,Marie,Undirected,3
+Valet de chambre,liun,Undirected,1
+Pindsedagstide,liun,Undirected,1
+Gyldenløve,Marie Grubbe,Undirected,1
+Gyldenløve,Maiie,Undirected,1
+Gyldenløve,Marie,Undirected,1
+Gyldenløve,Magnille,Undirected,1
+Gyldenløve,Karen Fiol,Undirected,1
+Karen Fiol,Magnille,Undirected,1
+Havelaagen,Marie Grubbe,Undirected,1
+Havelaagen,Ulrik,Undirected,1
+-,Ulrik,Undirected,1
+-,Frederik,Undirected,1
+Karen,Ulrik Frederik,Undirected,2
+Marie,rubinforsiret,Undirected,1
+Karen Fiol,Ulrik Frederik,Undirected,2
+Marie,Ulrik,Undirected,1
+.,hnn,Undirected,1
+Burrhi,hnn,Undirected,1
+Karen Fiol,Marie,Undirected,1
+Karen Fiol,Pilloy,Undirected,1
+Kobbereau,Pilloy,Undirected,1
+Augustmaaned,Marie,Undirected,1
+Marie,Sti Hug,Undirected,1
+Marie,Sti Høg,Undirected,6
+Madame,Marie,Undirected,1
+grant,immer,Undirected,1
+Kristensjæls,immer,Undirected,1
+Sti Høg,chere,Undirected,1
+Diana,Kronprinds Christian,Undirected,1
+Anne Sotie,Diana,Undirected,1
+Anne Sotie,Friderica Amalie,Undirected,1
+Friderica Amalie,Vilhelmina Ernestina,Undirected,1
+Madame Gyldenløve,Vilhelmina Ernestina,Undirected,1
+Madame Gyldenløve,triner,Undirected,1
+Anne Sofie,triner,Undirected,1
+Anne Sofie,ihr sterblichen,Undirected,1
+Ulrik Frederik,liam,Undirected,1
+liam,lian,Undirected,1
+ben dirsi,bocca gentil,Undirected,1
+ben dirsi,il bel tesoro,Undirected,1
+Con dolcissimo mel porpora mista,il bel tesoro,Undirected,1
+Marie,liun,Undirected,6
+Gud,JeY,Undirected,1
+Schauessen,tine,Undirected,1
+Gud,Ulrik Friederich,Undirected,1
+Marie Grubbe,Styge Høeghs,Undirected,1
+A. K.,S.,Undirected,3
+GUD,S.,Undirected,2
+GUD,M. A. K.,Undirected,1
+M. A. K.,S.,Undirected,1
+Ane Marie Grubbe,GUD,Undirected,1
+Gud,Marie Grubbe,Undirected,2
+Marie Grubbe,Sti Høeghs,Undirected,1
+Karen,Marie Grubbe,Undirected,2
+Erik Grubbe,Madame Gyldenløve,Undirected,1
+Madame Gyldenløve,Marie,Undirected,1
+Madam Gyldenløve,Marie,Undirected,1
+Marie,lian,Undirected,5
+Frederik,Ulrik Frederik,Undirected,1
+Erik Grubbe,Ulrik Frederik,Undirected,6
+Johan Utrecht,Ulrik Frederik,Undirected,3
+Gyldenløve,Johan Utrecht,Undirected,1
+Gyldenløve,Tjele,Undirected,1
+Høg,Ulrik Frederik,Undirected,1
+Ludvig den,Marie,Undirected,1
+Høg,Marie Grubbe,Undirected,1
+Marie,Stis,Undirected,1
+Stis,lian,Undirected,1
+Gud,Madame,Undirected,1
+Grubbe,Marie,Undirected,1
+Johan Utrecht,lian,Undirected,1
+Erik Grubbe,Frederik den Tredie,Undirected,2
+Erik Grubbe,Kong Frederik,Undirected,1
+Kong Frederik,Ulrik Frederik,Undirected,1
+Christian,Ulrik Frederik,Undirected,2
+Johan Utrecht,Marie,Undirected,1
+Erik Grubbe,Exellence Gyldenleu,Undirected,1
+Exellence Gyldenleu,Marie Grubbe,Undirected,1
+Gud,hnn,Undirected,1
+Erik Grubbe,Gud,Undirected,3
+Kristus,Marie,Undirected,1
+Gud,Kristus,Undirected,1
+Ulrik Frederik,liun,Undirected,1
+Johan Georg,Ulrik Frederik,Undirected,1
+Alarie Grubbe,Erik Grubbe,Undirected,1
+Erik Grubbe,Lucie,Undirected,1
+Lucie,lian,Undirected,2
+Christence Rud,Sti Høg,Undirected,1
+Christence Rud,Edele Hansdatter,Undirected,1
+Edele Hansdatter,Lene Poppings,Undirected,1
+Ermegaard,hnn,Undirected,1
+Kusk,"Sti Høg, Alarie",Undirected,1
+Alarie,Karl,Undirected,1
+Marie,Sti,Undirected,1
+Isabel Gilles,Sti,Undirected,1
+Marie,Remigius,Undirected,2
+Grubbe,Palle Dyre,Undirected,1
+Gud,lian,Undirected,1
+Palle Dyre,Tjele,Undirected,3
+Erik Grubbe,Palle Dyre,Undirected,2
+Erik Grubbe,Tjele,Undirected,2
+Edele Pallesdatter Rodtsteen,Palle Dyre,Undirected,1
+Alarie,Erik Grubbe,Undirected,1
+Alarie,Ulrik Frederik,Undirected,1
+Karle,Tjele,Undirected,1
+Karle,Palle Dyve,Undirected,1
+Erik Grubbe,Palle Dyve,Undirected,1
+Søren Ladefoged,Søren Sørensen Møller,Undirected,1
+Marie,Søren,Undirected,21
+Jens Pedersens,lian,Undirected,1
+Jens Pedersens,Trine,Undirected,1
+Marie,Søren Ladefoged,Undirected,3
+Søren,liam,Undirected,1
+Cyprianus,liam,Undirected,1
+Marie Grubbe,Søren,Undirected,3
+Remigius,Søren,Undirected,1
+Palle Dyre,Søren Ladefoged,Undirected,1
+Ane,Søren,Undirected,4
+Søren,lian,Undirected,2
+Søren,aa,Undirected,1
+Gud,aa,Undirected,1
+Gud,Søren,Undirected,5
+Palle Dyre,Søren,Undirected,4
+Erik Grubbe,Søren,Undirected,2
+Marie,Palle,Undirected,3
+Erik Grubbe,Palle,Undirected,1
+Kudsk,Marie,Undirected,1
+Kudsk,Søren,Undirected,1
+Ane Trinderup,Marie,Undirected,2
+Ane Trinderup,Søren,Undirected,2
+Søren,Søren Ladefoged,Undirected,1
+Ane,lille Søren,Undirected,1
+Ane,Marie Grubbe,Undirected,1
+Søren,tine,Undirected,2
+Søren,lille Søren,Undirected,1
+lille Søren,sid,Undirected,1
+blommerantes,sid,Undirected,1
+Husbonds,blommerantes,Undirected,1
+Ane,Junker,Undirected,1
+Junker,Trine,Undirected,1
+Karle,Marie Grubbe,Undirected,1
+jen,lissaa,Undirected,1
+Ane,lien,Undirected,1
+Ane,Palle,Undirected,1
+Ane,liun,Undirected,1
+Alarie,Palle Dyre,Undirected,1
+Alarie,Søren,Undirected,4
+Alarie,hnn,Undirected,1
+Ane,Palle Dyre,Undirected,1
+Palle,Palle Dyre,Undirected,1
+Gud,Scheel,Undirected,1
+Marie Grubbe,Palle Dyre,Undirected,1
+Marie Grubbe Tjele,Tjele,Undirected,1
+Marie Grubbe Tjele,Søren,Undirected,1
+Alarie Grubbe,Søren,Undirected,1
+Lire,Søren,Undirected,1
+Lire,lian,Undirected,1
+Liren,Marie,Undirected,1
+Marie,Søren tik,Undirected,1
+Marie,Marie vnd,Undirected,1
+Marie vnd,Søren,Undirected,1
+Jens,Søren Ladefoged,Undirected,1
+Jens,Rasmus Kig,Undirected,1
+Rasmus Kik,Salmand,Undirected,1
+Kirsten Myg,Søren,Undirected,2
+Søren,bjørn,Undirected,1
+Jan,Rasmus,Undirected,1
+Kik,Rasmus,Undirected,1
+Jan,Kik,Undirected,1
+-,Jan —,Undirected,1
+Alester der liar,Salmand,Undirected,1
+Salmand,lian,Undirected,1
+Jens,Svend,Undirected,2
+Jens,lian,Undirected,1
+Alarie,Jens,Undirected,1
+Gud,Svend,Undirected,1
+Gud,Jens,Undirected,1
+.fens,Søren,Undirected,1
+Søren,heldte,Undirected,1
+Alester Hermans,heldte,Undirected,1
+Alester Hermans,Rasmus,Undirected,1
+Grubbe,Rasmus,Undirected,1
+Grubbe,Søren,Undirected,1
+Abelone,Rasmus,Undirected,1
+Herman,Rasmus,Undirected,1
+Rasmus,Søren,Undirected,1
+Be,Marie,Undirected,2
+Aare,Marie,Undirected,2
+Alarie,Marie,Undirected,1
+Marie,Svend,Undirected,2
+Jonas,lian,Undirected,1
+Alarie,lian,Undirected,2
+Holberg,lian,Undirected,2
+Holberg,Ludvig Holberg,Undirected,1
+Holberg,Søren,Undirected,1

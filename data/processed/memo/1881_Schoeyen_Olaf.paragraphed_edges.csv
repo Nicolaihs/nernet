@@ -1,0 +1,167 @@
+source,target,type,weight
+Sten,Stens,Undirected,1
+Edvard,Karl,Undirected,1
+Amalie,didhen,Undirected,1
+Edvard,Kristi,Undirected,1
+Edvard,Uhr,Undirected,1
+Bjeldeklang,Uhr,Undirected,1
+Fru Bul,Sten,Undirected,1
+F.s,Sten,Undirected,1
+Anna,Sofie,Undirected,1
+Anna,Berg,Undirected,19
+Anna,Svanens,Undirected,2
+Berg,Olaf Falk,Undirected,2
+Anna,Hr. Berg,Undirected,2
+Berg,Olaf,Undirected,62
+Kjøns,Olaf,Undirected,1
+Berg,Kjøns,Undirected,1
+Edvard,Sten,Undirected,7
+Anna,Morgenstund,Undirected,1
+Anna,Olaf,Undirected,132
+Bul,Olaf,Undirected,2
+Bul,Gutten,Undirected,1
+Gutten,Olaf,Undirected,3
+Bronce,Olaf,Undirected,1
+Bronce,Frederik den,Undirected,1
+Anna,Frederik den,Undirected,1
+Anna,Ingemanns,Undirected,1
+Erik Menveds,Ingemanns,Undirected,1
+Olaf,Papa,Undirected,3
+Anna,Papa,Undirected,3
+Anna,Byrons,Undirected,1
+Edvard,Olaf,Undirected,25
+Olaf,Sten,Undirected,12
+Anna,Edvard,Undirected,11
+Mama,Olaf,Undirected,3
+B.,Z.,Undirected,1
+B.,W.,Undirected,1
+Anna,Z.,Undirected,1
+Gud,Kristus,Undirected,1
+Edvard Sten,Olaf,Undirected,1
+Anna,Faust,Undirected,1
+Faust,Margrethes,Undirected,1
+Anna,Margrethes,Undirected,1
+Olaf,oppebie Annas,Undirected,1
+Anna,Mama,Undirected,3
+Anna,Edvard Sten,Undirected,1
+Gud,Olaf,Undirected,7
+Gud,Jesus Kristus,Undirected,3
+Edvard,Kristus,Undirected,4
+Amalie,Anna,Undirected,2
+Graad,Papa,Undirected,1
+Graad,Olaf,Undirected,1
+B.,Olaf,Undirected,4
+Anna,Thomas,Undirected,1
+Olaf,Thomas,Undirected,1
+Anna,Egeberg,Undirected,1
+G.’s,Pauli,Undirected,1
+Berg,John Gislason,Undirected,1
+John,John Gislason,Undirected,1
+John,Olaf,Undirected,25
+Olaf,Snorre Sturleson,Undirected,1
+John,Sira Bjarni,Undirected,9
+Berg,Sira Bjarni,Undirected,2
+Ingrid,John,Undirected,9
+Ingrid,Olaf,Undirected,35
+Berg,Ingrid,Undirected,5
+Jesus,Olaf,Undirected,1
+Jasaa,Olaf,Undirected,1
+Gisle,Sira Bjarni,Undirected,4
+Astride,Gisle,Undirected,2
+Bjarni,Gisle,Undirected,1
+Berg,John,Undirected,1
+Bjarni,Olaf,Undirected,5
+Olaf,Sira Bjarni,Undirected,13
+Ingrid,Snorre Sturleson,Undirected,1
+Astride,Snorre Sturleson,Undirected,1
+Anna,Ingrid,Undirected,3
+Gut,Sira Bjarni,Undirected,1
+Sira Bjarni,Sopelimen,Undirected,1
+Johannes,Olaf,Undirected,1
+Astride,stelle,Undirected,1
+Ingrid,Sira Bjarni,Undirected,6
+Astride,Ingrid,Undirected,5
+Gutten,Ingrid,Undirected,1
+Fars,Sira Bjarni,Undirected,1
+Bjarni,Gud,Undirected,1
+Bjarni,John,Undirected,2
+Belter,Olaf,Undirected,1
+Belter,John,Undirected,1
+Gisle,Sira,Undirected,1
+Gisle,Ingrid,Undirected,2
+Ingrid,didop,Undirected,1
+Astride,Bjarni,Undirected,1
+Bjarni,Ingrid,Undirected,3
+Esja,Sulafugl,Undirected,1
+Olaf,Sulafugl,Undirected,1
+Jasaa,jasaa,Undirected,1
+Olaf,jasaa,Undirected,1
+Anna,Gud,Undirected,8
+Anna,Bo,Undirected,1
+Bul,Sten,Undirected,1
+B.,Bul,Undirected,1
+Anna,Bul,Undirected,1
+Olaf,dub,Undirected,1
+Bacon,Sten,Undirected,1
+Bacon,Olaf,Undirected,1
+Mos,Olaf,Undirected,1
+Olaf,f Berg,Undirected,2
+Graad,Gud,Undirected,2
+Olaf Falk,Sten,Undirected,1
+X,s,Undirected,1
+Olaf Falk,s,Undirected,1
+Karl,Olaf Falk,Undirected,1
+Edvard,Gud,Undirected,6
+D.,J. J. Rousseau,Undirected,1
+Gud,Sten,Undirected,2
+Olaf,Olafl,Undirected,1
+Garibaldis,Napoleons,Undirected,1
+Garibaldis,Magdalena,Undirected,1
+Magdalena,Olaf,Undirected,1
+Mamma,W.,Undirected,1
+Kjærulfs,Olaf,Undirected,1
+Kjærulfs,Schuberts,Undirected,1
+Berg,Sten,Undirected,1
+Anna,jasaa,Undirected,1
+Anna,Olje,Undirected,1
+Ismur,Olaf,Undirected,1
+Anna,Syrenbuske,Undirected,1
+Anna,Fars,Undirected,1
+Anna,Jesus,Undirected,1
+Anna,Olaf taus,Undirected,1
+Edvard,Olaf Falk,Undirected,1
+Edvard,Jesus,Undirected,1
+Magdalena,Napoleons,Undirected,1
+Anna,Kristus,Undirected,1
+Anna,uf,Undirected,1
+Dan,uf,Undirected,1
+Dan,j,Undirected,1
+Anna,Johan Hus,Undirected,1
+Johan Hus,Katholikeme,Undirected,1
+Anna,didhen,Undirected,1
+Olaf,didhen,Undirected,1
+Anna,Sira Bjarni,Undirected,1
+Ingrid,stelle,Undirected,1
+Esja,Olaf,Undirected,1
+Olaf,iland,Undirected,1
+John,livor,Undirected,1
+John,didhen,Undirected,1
+Gisle,John,Undirected,1
+John,Thorlejf,Undirected,2
+Gud,Ingrid,Undirected,1
+John,Sira,Undirected,1
+Bjarni,Sira Bjarni,Undirected,1
+Astride,Olaf,Undirected,2
+Bjarni,Johannes,Undirected,1
+Bjarni,Jesus,Undirected,1
+Bjarni,Gaardsgutten,Undirected,1
+Olaf Falk,Z,Undirected,1
+Sira Bjarni,Z,Undirected,1
+John Gisleson,Sira Bjarni,Undirected,1
+John Gisleson,Olaf,Undirected,1
+Bul,Sira Bjarni,Undirected,1
+Anna,Grundtvigs,Undirected,1
+Gud,Jesus,Undirected,1
+Jesus,Kristus,Undirected,1
+Anna,B.,Undirected,1
+Olaf,Sum,Undirected,1

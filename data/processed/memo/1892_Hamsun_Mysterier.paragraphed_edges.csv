@@ -1,0 +1,228 @@
+source,target,type,weight
+Frøken Kiellands,iland,Undirected,1
+J. N. N.,Johan Nagel,Undirected,1
+Jasaa,Sara,Undirected,2
+Johan Nagel,Nagel,Undirected,1
+Johan Nagel,Napoleon,Undirected,1
+Nagel,Sara,Undirected,6
+Johan Nilsen Nagel,Nagel,Undirected,1
+Frøken Kiellands,Nagel,Undirected,1
+C.,C. J	,Undirected,1
+Dagny Kiellands,Frøken Kiellands,Undirected,1
+Dagny,Dagny Kiellands,Undirected,1
+Dagny,Hansen,Undirected,1
+Frøken Kielland,Nagel,Undirected,3
+Karlsen,Nagel,Undirected,4
+Sara,f Johan Nagel vaagned,Undirected,1
+Gladstone,Sara,Undirected,1
+Gladstone,siff,Undirected,1
+Bassen,Gladstone,Undirected,2
+Gladstone,Victor Hugo,Undirected,1
+Gud,Mama,Undirected,2
+Hunengle,Mama,Undirected,1
+Hunengle,Svava Bjørnson,Undirected,1
+Gladstone,Gud,Undirected,5
+Frøken Kielland,Gud,Undirected,5
+Kamma,lille danske Kamma,Undirected,1
+Gud,lille danske Kamma,Undirected,1
+Gud,Simonsen,Undirected,4
+Gud,Kamma,Undirected,1
+Gud,Karlsen,Undirected,3
+Gud,Victor Hugo,Undirected,2
+Victor Hugo,grant,Undirected,1
+Karlsen,grant,Undirected,1
+Karlsen,Victor Hugo,Undirected,1
+Sands,Victor Hugo,Undirected,1
+Lesdain,Victor Hugo,Undirected,2
+Lesdain,Victor Hugo gren,Undirected,1
+Alfred,Victor Hugo gren,Undirected,1
+Alfred,Gud,Undirected,1
+Gud,qvinnor^,Undirected,2
+Kajafas,Lillesand,Undirected,1
+Kajafas,Pilatus,Undirected,1
+Jesus Kristus,Leo Tolstoy,Undirected,1
+Immanuel Kant,Jesus Kristus,Undirected,1
+Kristus,Ola Nordistuen,Undirected,1
+Fausts,Ola Nordistuen,Undirected,1
+Napoleon,Ola Nordistuen,Undirected,2
+Fløjels,Nagel,Undirected,2
+Nagel,Vilhelmine Meek,Undirected,1
+Mina Meek,Vilhelmine Meek,Undirected,1
+Mina,langtifra,Undirected,1
+Fredrikke Andresen,Frøken Fredrikke,Undirected,1
+Frøken Fredrikke,Gudrun Olsen,Undirected,1
+Dagny Kielland,Stenersen,Undirected,3
+Nagel,Stenersen,Undirected,4
+Mina Meek,Nagel,Undirected,1
+F. M. Andresen,Nagel,Undirected,1
+Isaafald,Nagel,Undirected,1
+Andresens,Isaafald,Undirected,1
+Gud,Nagel,Undirected,11
+Gud,Lusa,Undirected,1
+Lusa,Vetie,Undirected,1
+C,J,Undirected,1
+Jasaa,Nagel,Undirected,2
+Nagel,Reinert,Undirected,4
+Frøken Andresen,loj,Undirected,1
+Frøken Andresen,Nagel,Undirected,1
+Nagel taug,Reinert,Undirected,1
+Dagny Kielland,Nagel,Undirected,4
+Nagel,Selters,Undirected,1
+Reinert,Selters,Undirected,1
+Reinert,otti,Undirected,1
+Grand,Nagel,Undirected,1
+Heyerdahl,Hjalmar Johnssen,Undirected,1
+Nagel,Wagner,Undirected,1
+Constans,Nagel,Undirected,1
+Bismarck,Gladstone,Undirected,2
+Gladstone,bigot,Undirected,1
+Bigot,Gladstone bigot,Undirected,1
+Gladstone,Nagel,Undirected,3
+Carey,Gladstone,Undirected,3
+Gladstone,niti,Undirected,1
+Reinert,Stakkars,Undirected,1
+Gladstone,Parnell,Undirected,2
+Hys,Petermand,Undirected,1
+Andresen,Olsen,Undirected,1
+Nietzsches,Shakespeare,Undirected,1
+Gud,Nietzsches,Undirected,1
+Dagny,Reinert,Undirected,2
+Gladstone,Gudrun,Undirected,1
+Gudrun,Hys,Undirected,1
+Gud,Gudrun,Undirected,2
+Dagny,Nagel,Undirected,14
+Gud,Guttens,Undirected,1
+Guttens,Johan Arendt,Undirected,1
+Gud,Johan Arendt,Undirected,1
+Dagny,Gud,Undirected,6
+Nagel,paany,Undirected,3
+Asbjørnsens,Dagny,Undirected,1
+Havre,Sjø,Undirected,1
+Gud,Sjø,Undirected,1
+Agronoms,Gud,Undirected,1
+Tolstoy,lados,Undirected,1
+Elan,Nagel,Undirected,2
+Martha Gude,Nagel,Undirected,2
+Gude hersteds,Johan Nagel,Undirected,1
+Gud,Jomfru Martha Gude,Undirected,1
+Gud,Hansen,Undirected,1
+Kolbye,hedte Sørensen,Undirected,1
+Kolbye,William Prante,Undirected,1
+Folkedahl,William Prante,Undirected,1
+Kaptejn Prante,Kolbye,Undirected,1
+Magen,Nagel,Undirected,1
+Magen,Sara,Undirected,2
+Gud,Sara,Undirected,5
+Andresen,Johan Nilsen Nagel,Undirected,1
+Andresen,Gud,Undirected,1
+Frøken Kielland,Kielland,Undirected,1
+Gud,Kielland,Undirected,1
+Frøken Kielland,Hærem,Undirected,2
+Jasaa,Stenersen,Undirected,1
+Bernt Homan,Homan,Undirected,3
+Nagel,iland,Undirected,1
+Kamma,Sara,Undirected,1
+Gud,Nissen,Undirected,2
+Frøken Gude,Martha Gude,Undirected,2
+Kamma,Nagel,Undirected,1
+Sara,Stenersen,Undirected,1
+Hansen,Stenersen,Undirected,1
+Minutten,Reinert,Undirected,1
+Minutten,Nagel,Undirected,2
+Gud,Hr. Nagel,Undirected,1
+Hr. Nagel,Tolstoy,Undirected,1
+Booths,Nagel,Undirected,1
+Booths,Tolstoy,Undirected,1
+Gud,Tolstoy,Undirected,3
+Hr. Grøgaard,Skaal,Undirected,1
+Krangel,Stenersen,Undirected,1
+Hansen,ivold,Undirected,1
+Carl Marx,ivold,Undirected,1
+Allah,Nagel,Undirected,1
+Hjelm,Pastor Hjelm,Undirected,1
+Kristi,Pastor Hjelm,Undirected,1
+Hansen,Nagel,Undirected,1
+Hansen,Rullan,Undirected,1
+Hansen,Holtan,Undirected,1
+Maupassant,Nagel,Undirected,1
+Gud,Shakespeare,Undirected,2
+Alfred de,Helledud,Undirected,1
+Nagel,Victor Hugo,Undirected,3
+Minutten,Victor Hugo,Undirected,1
+Victor Hugo,blaut,Undirected,2
+Ibsen,Nagel,Undirected,2
+Gud,Ibsen,Undirected,1
+Bjørnson,Nagel,Undirected,1
+Bjørnson,Tolstoy,Undirected,5
+Nagel,Tolstoy,Undirected,1
+Bjørnson,firti Albuerum,Undirected,1
+Grand,firti Albuerum,Undirected,1
+Bjørnson,Grand,Undirected,1
+Bjørnson,Ibsen,Undirected,1
+Nagel,Student,Undirected,2
+Gertrude Colbjørnsen«,Skrams,Undirected,1
+Gud,Klara,Undirected,2
+Gud,iland,Undirected,1
+Hazarden,Stenersen,Undirected,1
+Gud,Stenersen,Undirected,2
+Gud,Reinert,Undirected,1
+Blaasyre,Reinert,Undirected,1
+Blaasyre,Rulian,Undirected,1
+Martha,Nagel,Undirected,11
+Johannes,Nagel,Undirected,2
+Grøgaard,Johannes,Undirected,1
+Dagny,Stenersen,Undirected,2
+Dagny Kielland,hans,Undirected,1
+Gud,hans,Undirected,1
+Dagny luded,Nagel,Undirected,1
+Stenersen,ib,Undirected,1
+Dagny,Martha,Undirected,5
+Dagny,Hr. Nagel,Undirected,1
+Dagny,Frøken Andresen,Undirected,1
+Gustav Adolf Christensen,Nagel,Undirected,1
+Frøken Andresen,Martha,Undirected,1
+Gud,Martha,Undirected,3
+J,Martha,Undirected,1
+Dagny,Jasaa,Undirected,1
+Martha,Sara,Undirected,3
+Dagny,Sara,Undirected,1
+Konsul Andresen,Nagel,Undirected,1
+Fredrikkes,Konsul Andresen,Undirected,1
+Fredrikkes,paany,Undirected,1
+Martha,paany,Undirected,1
+Martha,Muhamed,Undirected,1
+Dagny,Dangni,Undirected,1
+Dangni,Kristi,Undirected,1
+Hugos,Sirius,Undirected,1
+Eukleides,Sirius,Undirected,1
+Farnley,Æs,Undirected,1
+Buskerud,Listerbu Ola Olsen,Undirected,1
+Gud,Pontus Wikner,Undirected,2
+Gud,deja,Undirected,1
+Heja,deja,Undirected,1
+Gud,J. Hansen,Undirected,1
+Gud,Stortings-Ola,Undirected,1
+Ola,Stortings-Ola,Undirected,1
+Gud,Ola,Undirected,1
+Gud,Mina Meek,Undirected,2
+Kamma,Ozon,Undirected,1
+Dagny,eg,Undirected,1
+Dagny,iland,Undirected,1
+Johannes,Martha,Undirected,2
+Gud,Hr. Grøgaard,Undirected,1
+Hr. Grøgaard,eg,Undirected,1
+Gud,Martha Gude,Undirected,1
+Johannes,Martha Gude,Undirected,1
+Nagel,taus,Undirected,1
+Dagny,taus,Undirected,1
+Karlsen,Sara,Undirected,1
+Jær,Sara,Undirected,1
+Hansen,Jær,Undirected,1
+Hansen,Minutten,Undirected,1
+Hr. Grøgaard,Sara,Undirected,1
+Jær,Sara Kaffeknægt,Undirected,1
+Josefsdatter,Sara Kaffeknægt,Undirected,1
+Gud,Josefsdatter,Undirected,1
+Bilge,Reinert,Undirected,1
+Nagel,ifjor Sommer,Undirected,1
+Minutten,ifjor Sommer,Undirected,1

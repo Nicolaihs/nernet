@@ -1,0 +1,219 @@
+source,target,type,weight
+Dolken,Vams,Undirected,1
+Dolken,Hejda,Undirected,1
+Brunette,Lucia,Undirected,1
+Gud,Lucia,Undirected,5
+Brysf,Lucia,Undirected,1
+Harnisf,Lucia,Undirected,1
+Malesch,Zenzo,Undirected,1
+Medardi,Werner,Undirected,1
+Schicht^,Tausers,Undirected,1
+Lucia,Zenzo,Undirected,8
+Bjærgfolk,Planitzer,Undirected,1
+Aaget,Gud,Undirected,1
+Junker Falk von Rodank,Junker Ralf,Undirected,1
+Falk,Ralf,Undirected,2
+Ralf,von Krakofel,Undirected,1
+Ferdinand,Krakofel,Undirected,1
+Ferdinand,Junker Falk,Undirected,1
+Junkeren,Tesselberg,Undirected,1
+Krakofel,Ralf,Undirected,1
+Falk,Zenzo,Undirected,1
+Falk,Lucia,Undirected,2
+Falk,Junker,Undirected,1
+Antonius,Gud,Undirected,1
+,r,Undirected,1
+Solvang,Solvang —,Undirected,1
+Lusinas,Solvang,Undirected,2
+Lusinas,Orko,Undirected,1
+Orko,Solvang,Undirected,2
+Griesenberger,Lenz,Undirected,9
+Bjørn,Lenz,Undirected,1
+Baltasar,Griesenberger,Undirected,1
+Baltasar,Møllers,Undirected,1
+Gud,Møllers,Undirected,1
+Baltasar,Gud,Undirected,2
+Bedstemo,sfal,Undirected,1
+Gud,Lenz,Undirected,1
+Griesenberger,Vams,Undirected,1
+Franz,Karl den,Undirected,1
+Franz,von Burtenbach,Undirected,1
+Grev Egmont,von Burtenbach,Undirected,1
+Griesen-bergers,Lenz,Undirected,1
+figne,spaa,Undirected,1
+Lenz,Præsfen,Undirected,1
+Geismaier,Lenz,Undirected,1
+Griesenberger,Moses,Undirected,1
+Ferdinand den,Tyrol,Undirected,1
+Madrutz,Tyrol,Undirected,1
+Griesenberger,sfal,Undirected,1
+Lenz,sfal,Undirected,1
+Karl,Kaspar,Undirected,1
+Gud,Wildjoch,Undirected,1
+Ditlev,Franst,Undirected,1
+Ditlev,Franz,Undirected,1
+Ditlev,Franzi,Undirected,9
+Ditlev,Karl,Undirected,2
+Ditlev,Pfeffer von Pfeffersberg,Undirected,1
+Jesus Kristus,Pfeffer,Undirected,1
+Pfeffer,von,Undirected,1
+Pfeffersberg,von,Undirected,1
+Pfeffer,Pfeffersberg,Undirected,1
+Ditlev,hans Franzi,Undirected,1
+Ignatius Uoyola,Pater Hermeneuti,Undirected,1
+Kejser Ferdinand,Vlies,Undirected,1
+Filip,Vlies,Undirected,1
+Ferdinand,Maron,Undirected,1
+Ferdinand,Filippine Welserin,Undirected,1
+Filippine Welserin,Max,Undirected,1
+Albrecht,Gehejmeraad Baumgartner,Undirected,1
+Anna,Gehejmeraad Baumgartner,Undirected,1
+Albrecht,Anna,Undirected,1
+Baumgartner,fasf,Undirected,1
+Albrecht gjør,fasf,Undirected,1
+Baumgartner,Eleonore,Undirected,1
+Eleonore,Mantuas,Undirected,1
+Eleonore,Magdalene,Undirected,2
+Eleonore,Gud,Undirected,1
+Gud,Vilhelm,Undirected,1
+Magda-lene,Venera von Stubenberg,Undirected,1
+Isolda,Magdalene,Undirected,1
+Lucia,Madrutz,Undirected,1
+Lucia,von Madrutz,Undirected,1
+Madrutz,Mathias Alder,Undirected,1
+Madrutz,Magdalene,Undirected,1
+Ferdinand,Magdalene,Undirected,4
+Ferdinand,Mantua,Undirected,1
+Mantua,Øsferrigs,Undirected,1
+Steyermarks,Øsferrigs,Undirected,1
+Zenzo,flel dulgt Haan,Undirected,1
+Karl,Zenzo,Undirected,1
+Gud,Zenzo,Undirected,1
+Geismaier,Gud,Undirected,1
+Lucia,Zenzo —,Undirected,1
+Olje,ester,Undirected,1
+Gud,Munk,Undirected,1
+Baltasar,Vintschgau,Undirected,1
+Jodokus Rosners,Sonnenberg,Undirected,1
+Sabine,Sebaldus,Undirected,3
+Arilds,Jomfru Sabine,Undirected,1
+Arilds,Junker,Undirected,1
+Junker,von Seeburg,Undirected,1
+Jomfru Sabine,von Seeburg,Undirected,1
+Junker,Sabine,Undirected,1
+Göret,Junker,Undirected,1
+Rosner,Stola,Undirected,1
+Gud,Rosner,Undirected,1
+Sebaldns,allenfals,Undirected,1
+Sebaldns,ask,Undirected,1
+Harnisket,Sebaldus,Undirected,1
+Rosner,Sebaldus,Undirected,2
+Jomfru Sabine,Sabine,Undirected,1
+Rosner,Sabine,Undirected,4
+Bruneckens,Rosner,Undirected,1
+Rosner,Trude,Undirected,1
+Junker,Rosner,Undirected,1
+Gud,Sebaldus,Undirected,1
+Bajads,falbød,Undirected,1
+Bajads,Gjøglercn,Undirected,1
+Prinsesse Magdalene,Zenzo,Undirected,2
+Baltasar,Lucia,Undirected,1
+Baltasar,Wagner,Undirected,1
+Gud,Pater Onuphrius,Undirected,2
+Gud,Prack von Prackensfein,Undirected,1
+Junker Goret von Seeburg,Sabine,Undirected,1
+Sabine,Se-baldus,Undirected,1
+,Se-baldus,Undirected,1
+,Sabine,Undirected,1
+Døser,Gissel,Undirected,1
+Sinella,Willhilde,Undirected,1
+Melchiora,Sinella,Undirected,1
+Elisinde,Willhilde,Undirected,1
+Elisinde,Ottesang,Undirected,1
+Elisinde,Luthen,Undirected,1
+Elisinde,Martinus Luther,Undirected,1
+Afra,Luther,Undirected,1
+Elisinde,Kjældermesterinden,Undirected,1
+Elisinde,Volfram,Undirected,1
+Valburgis,Volfram,Undirected,2
+Sabine,Willhilde,Undirected,1
+Dan,ZEre,Undirected,1
+Junker von Seeburg,ZEre,Undirected,1
+Magdalene,Sabine,Undirected,1
+elsfede,ester,Undirected,1
+"Göret,",Junker,Undirected,1
+"Göret,",Sabine,Undirected,1
+Sabine,kjære,Undirected,1
+Ditlev,kjære,Undirected,1
+Sabine,Wartbonden,Undirected,1
+Ditlev,dein,Undirected,1
+Fisker,Zenzo,Undirected,1
+Zenzo,dn,Undirected,1
+Vindunst,raa,Undirected,1
+Karl,raa,Undirected,1
+Karl,Wilhilde,Undirected,1
+Rodank,Wagner,Undirected,1
+Bjærgmanden,Wagner,Undirected,1
+Griesenfelder,Prinsesse Magdalene,Undirected,1
+Griesenfelder,Lenz,Undirected,1
+Lenz,Zenzo,Undirected,1
+Lucia,Magdalene,Undirected,2
+Lucia,sif,Undirected,1
+Balzer,sif,Undirected,1
+Lucia,Svæerg,Undirected,1
+Balzer,Rodank,Undirected,1
+Lucia,Medardus,Undirected,1
+Junkeren,Medardus,Undirected,1
+Junker Falk,Rodansk,Undirected,1
+Jæruskrin,Medardus,Undirected,1
+Lucia,ester,Undirected,1
+Zenzo,ester,Undirected,1
+Ferdinand,Welser,Undirected,1
+Lucia,Welser,Undirected,1
+Pateren,Wartbonden,Undirected,1
+Klausen,Wartbonden,Undirected,1
+Klausen,naa Klausen,Undirected,1
+Rodank,Wartbonden,Undirected,1
+Daggry,Hensigf,Undirected,1
+Brixen,Zenzo,Undirected,1
+Oxer,Prædikantens,Undirected,1
+Oxer,Vams,Undirected,1
+Hoho,Pater Onu-phrius,Undirected,1
+Klausen,Syndikus,Undirected,1
+Klausen,Schøneck,Undirected,1
+Schøneck,Simon Bølsch,Undirected,1
+Don Orejo,Simon Bølsch,Undirected,1
+Don Orejo,Vams,Undirected,1
+Reinprechter,Vams,Undirected,1
+Ferdinand,Jesu,Undirected,1
+Johannes,Paven,Undirected,1
+Henrik,Pater Onuphrius,Undirected,1
+Hain,Pater Onuphrius,Undirected,1
+Junker,Zenzo,Undirected,1
+Menederfle,Munk,Undirected,1
+Hildel,Lucia,Undirected,1
+Domprovstcns,Gud,Undirected,1
+Balthasar Doser,Lucia,Undirected,1
+Annam,Gud,Undirected,1
+Diedens,Wartbondcn,Undirected,1
+Junker Falk,Lucia,Undirected,1
+Dosers,Lucia,Undirected,1
+Elisinde,Nischen,Undirected,1
+Citharen,Nischen,Undirected,1
+Citharen,Lucia,Undirected,1
+Alen,Ferdinand,Undirected,1
+Magdalene,kjæræ,Undirected,1
+Magdalene,dam,Undirected,1
+Gud,sif,Undirected,1
+Gud,Jæg,Undirected,2
+Ferdinand,Kejser Ferdinand,Undirected,1
+Rosner,grant,Undirected,1
+Jodokus Rosner,Sebaldus,Undirected,1
+Rosner,Wsel,Undirected,1
+Dietl,Rosner,Undirected,2
+Prinsesse Magdalene,Sperbereck,Undirected,1
+Prinsesse Magdalene,ester,Undirected,1
+Jsolda,Prinsesse Magdalene,Undirected,1
+Magdalene,Rein-prechter,Undirected,1
+Rein-prechter,sif,Undirected,1
+Judas,Zenzo,Undirected,1

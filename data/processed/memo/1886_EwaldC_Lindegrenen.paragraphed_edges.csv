@@ -1,0 +1,39 @@
+source,target,type,weight
+Avgusta,Gud,Undirected,4
+Avgusta,Franck,Undirected,15
+Avgusta,Avgusta dog,Undirected,1
+Hyss,hyss,Undirected,1
+Franck,Sonaren,Undirected,1
+Jærnhaand,lian,Undirected,1
+Franck,Hum,Undirected,2
+Gud,Holm,Undirected,2
+Franck,Hagen,Undirected,1
+Hanne,Tante,Undirected,1
+Gud,Hanne,Undirected,1
+Gud,Tante,Undirected,1
+Avgusta,Hanne,Undirected,1
+Frue,Gud,Undirected,1
+Frank,Linden,Undirected,1
+Linden,Salomos,Undirected,1
+Em,Gud,Undirected,1
+Franck,Holm,Undirected,11
+Avgusta,Holm,Undirected,10
+Avgusta,Niels,Undirected,1
+Hanne,Niels,Undirected,5
+Franck,Hanne,Undirected,1
+Lindegren,Niels,Undirected,1
+Avgusta,Tante,Undirected,1
+Holm,Tante,Undirected,1
+Flan,Franck,Undirected,1
+Flan,Holm,Undirected,1
+Madonna Filippa,Rinaldo,Undirected,1
+Podestaen,Rinaldo,Undirected,1
+Madonna,Podestaen,Undirected,1
+Filippa,Madonna,Undirected,2
+Hr. Podesta,Rinaldo,Undirected,1
+Avgusta,Madonna,Undirected,1
+Franck,Skraa,Undirected,2
+Gud,Marie,Undirected,1
+Gud,véd,Undirected,1
+Franck,Gud,Undirected,2
+Avgusta,askeo-raa,Undirected,1

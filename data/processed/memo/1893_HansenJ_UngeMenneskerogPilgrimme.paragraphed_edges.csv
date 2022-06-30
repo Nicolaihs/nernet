@@ -1,0 +1,85 @@
+source,target,type,weight
+Gustav Horn,migi,Undirected,1
+Hr. Horn,Paven,Undirected,1
+Benedikte,Pater Priors,Undirected,1
+Gud,véd,Undirected,2
+Gud,Horn,Undirected,1
+Ignaz,mørknes,Undirected,1
+Bernhard,Horn,Undirected,1
+Horn,Regina,Undirected,1
+Maria,Regina,Undirected,1
+Jomfru Philomene,Paul Bar,Undirected,1
+Jomfru Philomene,Paterens,Undirected,1
+Hr. Ignaz,Kjende,Undirected,1
+Broder Anselmo,Hr. Ignaz,Undirected,1
+Broder Anselmo,Pater Anastasius,Undirected,1
+Pater Anastasius,Paul,Undirected,1
+Frøken Bernhard,Paul,Undirected,1
+Hr. Horn,Mr. Jafferson,Undirected,2
+Anastasius,Pater Ignaz,Undirected,1
+Benedikte,Hr. Orczy,Undirected,2
+Adonis,Magyaren,Undirected,1
+Ignaz,Magyaren,Undirected,1
+Frøken Bernhard,Pater Ignaz,Undirected,1
+Maria,Pater Ignaz,Undirected,1
+Ignaz,Maria,Undirected,1
+Katharina v. Bora,Luther,Undirected,2
+Lucas Cranach,Luther,Undirected,1
+Cleresi,Lucas Cranach,Undirected,1
+Cleresi,Pater Prior,Undirected,1
+Maria,Pater Prior,Undirected,1
+Ignaz,Pater,Undirected,2
+Pater,Prior,Undirected,2
+Fyrretyve,Kreuzer,Undirected,1
+Benedikte,Pater Ignaz,Undirected,1
+Benedikte,Kjæver,Undirected,1
+Kjæver,Prioren,Undirected,1
+Frøken Bernhard,Horn,Undirected,1
+Frøken Bernhard,Hr. Horn,Undirected,1
+Benedikte,Hr. Horn,Undirected,1
+Guddatters,Maria,Undirected,1
+Maria,Paul Bar,Undirected,1
+Bar,Monsieur Mikkel,Undirected,1
+Magyaren,véd,Undirected,1
+Judith,Magyaren,Undirected,1
+Philomene,Piquet,Undirected,1
+Maria,Prioren,Undirected,1
+Henrik Ibsen,Pater Ignaz,Undirected,1
+Bar,Kong Laurentius,Undirected,1
+Frants Joseph,Mo’,Undirected,1
+Frants Joseph,Max,Undirected,1
+Maria Bernhards,Max,Undirected,1
+Bernhard,Regina,Undirected,2
+Pater,Pater Ignaz,Undirected,1
+Jomfru Maria,Kessel Kogl,Undirected,1
+Jomfru Maria,Leonhard,Undirected,1
+Izydor Marguliez,Warchau,Undirected,1
+Angolus,Maria,Undirected,2
+Pater Anna-starius,Regina,Undirected,1
+Anselmo,Pater Anna-starius,Undirected,1
+Anselmo,Pater Prior,Undirected,1
+Benedikte,Pater Prior,Undirected,2
+Marguliez,Regina,Undirected,1
+Philomene,Vieh-Maria,Undirected,1
+Maria,Maria-Kiichinn,Undirected,1
+Maria-Kiichinn,Regina,Undirected,1
+Benedikte,Bernhard,Undirected,1
+Bar,Horn,Undirected,1
+Mr. Jaffer-son,Soløje,Undirected,1
+Batzenhausl,Maria Weissenfels,Undirected,1
+Benedikte,Maria,Undirected,1
+Anastasius,Leib-schmerz,Undirected,1
+Benedikte,George Sand,Undirected,1
+Benedikte,Philomene,Undirected,1
+Maria Bernhard,Philomene,Undirected,1
+Maria,Philomene,Undirected,1
+Pater Prior,Tante Benedikte,Undirected,1
+Maria,Tante Benedikte,Undirected,1
+Paul,Regina,Undirected,1
+Mutter,Trostlose,Undirected,1
+Benedikte,Paul,Undirected,1
+Anselmo,Pater Anastasius,Undirected,1
+Hr. Pater Priors,Regina,Undirected,1
+Maria Bernhard,raabe,Undirected,1
+Bar,Maria,Undirected,1
+Maria,Paul,Undirected,1

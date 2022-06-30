@@ -1,0 +1,290 @@
+source,target,type,weight
+Lena,Tante Rasks,Undirected,1
+Dørums,Madam Dørum,Undirected,2
+Damm,Tilla,Undirected,1
+Lena,Maisa,Undirected,5
+Signe,sorn,Undirected,1
+Signe,hy,Undirected,1
+Tona,hy,Undirected,1
+Didrik,Maisa,Undirected,3
+Ama,Maisa,Undirected,10
+Schous,Signe,Undirected,2
+Anton,Signelil,Undirected,1
+Maisa,Schous,Undirected,2
+Berg,Signe,Undirected,2
+Ama,Signe,Undirected,6
+Elise,Signe],Undirected,1
+Ama,Didrik,Undirected,3
+Didrik,blaat,Undirected,1
+Frøken,Maisa,Undirected,1
+Maisa,Signe,Undirected,8
+Maisa,lel,Undirected,1
+Ama,Grete,Undirected,5
+Ama,Anton,Undirected,3
+Anton,Maisa,Undirected,5
+Heibergs,Scheels,Undirected,1
+Heibergs,Signe,Undirected,1
+Ama,Sjau,Undirected,1
+Grete,kjære,Undirected,1
+Heloises,Maisa,Undirected,2
+Anton,Flun,Undirected,1
+Anton,Lena,Undirected,2
+Theodor,jasaa,Undirected,1
+jasa,jasaa,Undirected,1
+a,jasa,Undirected,1
+Flun,graavaad,Undirected,1
+Flun,Mor Damm,Undirected,1
+Maisa,Marie Jons,Undirected,1
+Ellefsen,Enkefru Thorsen,Undirected,1
+Schultz,Thorsen,Undirected,1
+Ellefsen,bode,Undirected,1
+Ellefsen,Maisa,Undirected,1
+Elling,Maisa,Undirected,4
+Dørums,Elling,Undirected,1
+Brandts,Maisa,Undirected,1
+Brandts,Jurgensens,Undirected,1
+Jurgensens,Simonsens,Undirected,1
+Antonisen,Simonsens,Undirected,1
+Jiirgensens,Maisa,Undirected,2
+Jiirgensens,Mina Jiirgensens,Undirected,1
+Mina Jiirgensens,Tarlatans,Undirected,1
+Tarlatans,Theodora,Undirected,1
+Brandts,Theodora,Undirected,1
+Buffon,Maisa,Undirected,1
+Buffon,Frøken Mina,Undirected,1
+Maisa,Mina,Undirected,3
+Maisa,ifjor,Undirected,1
+Krinoline,ifjor,Undirected,1
+Berg,Maisa,Undirected,1
+Elise Schou,Signe,Undirected,2
+Elise Schou,Kitty Blom,Undirected,1
+Kitty Blom,Minka,Undirected,1
+Minka,Muller,Undirected,1
+Signe Tranem,Solberg,Undirected,1
+Ama,Signe Tranem,Undirected,1
+Ama,Jakob Schou,Undirected,2
+Ludvig,Maisa,Undirected,2
+Ludvig,Mina,Undirected,1
+Mina,Theodora Brandt,Undirected,1
+Maisa,Theodora,Undirected,1
+Dora,Maisa,Undirected,1
+Simonsens,Thorsdag,Undirected,1
+Antonisen,Thorsdag,Undirected,1
+Antonisen,Madam Dørum,Undirected,1
+Jørstad,Madam Dørum,Undirected,1
+Boa,Madam Dørum,Undirected,1
+Boa,Elling,Undirected,1
+Kielsberg,sine,Undirected,1
+Dørums,Maisa,Undirected,2
+Dørums,Kjøbmand Sundbys,Undirected,1
+Andersen,Elling,Undirected,1
+Elling,Kirstine,Undirected,1
+Kirstine,Maisa,Undirected,1
+Madam Dørum,Maisa,Undirected,2
+Madam Andersen,Madam Dørum,Undirected,1
+Andersen,Maisa,Undirected,1
+Andersen,Jensine Andersen,Undirected,1
+Jensine Andersen,Maisa,Undirected,2
+Dørums,Thea,Undirected,1
+Madam Rasmussen,Thea,Undirected,3
+Madam Andersen,braat,Undirected,1
+Madam Andersen,Maisa Jons,Undirected,1
+Madam Jørstad,didind,Undirected,1
+Kirstine,Madam Rasmussen,Undirected,1
+Dørum,Maren,Undirected,1
+Jensine,Maren,Undirected,1
+Jensine Andersen,Johannesen,Undirected,1
+Madam Andersen,Maisa,Undirected,1
+Felen,Jensine,Undirected,1
+Jensine,Larsine,Undirected,1
+Di,Maisa,Undirected,1
+Elling,Maisa Jons,Undirected,1
+Maren,Tilla,Undirected,2
+Madam Andersen,Maren,Undirected,1
+Larsine,Thea,Undirected,3
+Jensine,Johannesen,Undirected,4
+Kielsberg,Maisa,Undirected,7
+Schous,Tranems,Undirected,1
+Johannesen,Madam Rasmussen,Undirected,2
+Jensine,Maisa Jons,Undirected,1
+Andersen,Jensine,Undirected,1
+Kielsberg,Maisa Jons,Undirected,1
+Di,Madam Jørstad,Undirected,1
+Madam Jørstad,Tilla,Undirected,2
+Madam Jørstad,lille Kirstine,Undirected,1
+Johannesen,Thea,Undirected,1
+Andersen,Johannesen,Undirected,1
+Andersen,Di,Undirected,1
+Di,Ellingsen,Undirected,1
+Sjøberg,plik,Undirected,1
+Felen,Sy-Maisa,Undirected,1
+Kielsberg,Sy-Maisa,Undirected,1
+Plik,plik,Undirected,1
+Kielsberg,Sjøberg,Undirected,1
+Madam Rasmussen,blaaste,Undirected,1
+Madam Rasmussen,Reelen,Undirected,1
+Jamæn,Vals,Undirected,1
+Maisa,Spel,Undirected,1
+Johannesen,Rasmussen,Undirected,1
+Madam Jørstad,Rasmussen,Undirected,1
+Madam Andersen,Madam Jørstad,Undirected,1
+Madam Andersen,Madam Rasmussen,Undirected,1
+Kielsberg,Madam Rasmussen,Undirected,1
+Kielsberg,Larsine,Undirected,2
+Jensine,Sjøberg,Undirected,1
+Felen,Sjøberg,Undirected,1
+Jensine,Thea,Undirected,1
+Jensine,Jons,Undirected,1
+Jensine,Maisa,Undirected,5
+Flun,Kielsberg,Undirected,1
+Fjeldbonde,Halling,Undirected,1
+Aanaa,Kjæresten,Undirected,1
+Arnas,Torkild Hejberg,Undirected,1
+Arnas,Schou,Undirected,1
+Jenten,Maisa,Undirected,1
+Maisa,Tranems,Undirected,4
+Ama,Julie Norum,Undirected,1
+Signe,Skjødning,Undirected,1
+Ama,Norums,Undirected,2
+Julie,Trine,Undirected,1
+Signe,Torp,Undirected,1
+Maisa,jamæn,Undirected,1
+Maisa,Trine,Undirected,1
+Jakob Schou,Trine,Undirected,1
+Signe,hendes,Undirected,1
+Dorthea ikvæld,Tranems,Undirected,1
+Jomfru Jons,Kielsberg,Undirected,1
+Arnas,Jomfru Jons,Undirected,1
+Arnas,Maisa,Undirected,1
+Anton,Signe,Undirected,3
+Ama,Theodor,Undirected,3
+Jomfru Jons,Tranems,Undirected,1
+Jons,Tilla,Undirected,2
+Grev Wedels,Kalnæses,Undirected,1
+Kanavasøm,Maisa,Undirected,1
+Far,Maisa,Undirected,1
+Fina,Lizzy,Undirected,1
+Fina,Maisa,Undirected,2
+Maisa,vene Lizzy,Undirected,1
+Maisa,Ovidia,Undirected,3
+Lizzy,Maisa,Undirected,2
+Dorthea,Maisa,Undirected,1
+Maisa,Marthe,Undirected,1
+Marthe,Mo,Undirected,1
+Mor Jensen herborte.------,liun,Undirected,1
+Grev Wedels Plads,Kielsberg,Undirected,1
+Maisa Elling,Svend,Undirected,1
+Berg,Kielsberg,Undirected,1
+Grev Wedels Plads,Ovidia,Undirected,1
+Madam Dørum,Tilla,Undirected,1
+Jons,Madam,Undirected,1
+Jomfru Jensen,Madam Dørum,Undirected,1
+Maisa,aisa,Undirected,1
+Jomfru Jons,Maisa,Undirected,3
+Frøken Rask,Grete,Undirected,1
+Didrik,Mowitz,Undirected,1
+Cecilia Wasa,Didrik,Undirected,1
+Ama,Løitnantj,Undirected,1
+Maisa,Schou,Undirected,3
+Jomfru Jons,Signe,Undirected,1
+Jomfru Jons,Lena,Undirected,1
+Signe,besé,Undirected,1
+Jomfru Jons,Mama,Undirected,1
+Antonisen,Maisa,Undirected,1
+Antonisen,Madam Antonisen,Undirected,1
+Maisa,Maridalsvandet,Undirected,1
+Anton Tranem,Jakob Schou,Undirected,1
+Jakob Schou,Kielsberg,Undirected,1
+Grete,Kielsberg,Undirected,1
+Gurli,Theodor,Undirected,1
+Kielsberg,hans,Undirected,1
+Kamstrups,Maisa,Undirected,1
+IMan,Maisa,Undirected,1
+Karelius,Svendsen,Undirected,1
+Anton,Kielsberg,Undirected,2
+hans,lian,Undirected,1
+Signe,lian,Undirected,1
+Flun,Rask,Undirected,1
+Maisa,liun,Undirected,1
+Anton Tranem,Maisa,Undirected,1
+Ama,Rask,Undirected,1
+Schou,Tranems,Undirected,1
+Anton,Maisa Jons,Undirected,1
+Jons,Theodor,Undirected,1
+Anton,Dørum,Undirected,2
+Grete,Jomfru Jons,Undirected,1
+Grete,Maisa,Undirected,1
+Grete,Lena,Undirected,1
+Dørum,Jons,Undirected,1
+Dørum,Maisa,Undirected,2
+Fruens,Maisa,Undirected,1
+Fruens,Marthe Mo,Undirected,1
+Schou,Torp,Undirected,1
+Maisa,Tranem,Undirected,1
+Schou,Tranem,Undirected,2
+Kain,Maisa,Undirected,1
+Kain,Lameck,Undirected,1
+Madam Ellingsen,adam Ellingsen,Undirected,1
+Ellingsen,Jørgine,Undirected,1
+Andrine,Madam Ellingsen,Undirected,2
+Madam Ellingsen,Mor,Undirected,1
+Elat,Jørgine,Undirected,1
+Jørgine,Oline,Undirected,1
+Jørgine,Madam Ellingsen,Undirected,1
+Andrine,Madam Jes,Undirected,1
+Di,Madam Ellingsen,Undirected,1
+Elling,Oline,Undirected,1
+Andrine,Jes,Undirected,1
+Elling,Stakkars,Undirected,1
+Jenta,Stakkars,Undirected,1
+Madam Ellingsen,Madam Valseth,Undirected,3
+Elling,Madam Valseth,Undirected,1
+Mina Jtirgensen,spurgte,Undirected,1
+Madam Ellingsen,Maisa,Undirected,1
+Madam Ellingsen,lille Pigen,Undirected,1
+Maisa,vri'd,Undirected,1
+jamæn,vri'd,Undirected,1
+Sirtses,vesle Jensine,Undirected,1
+Elling,Sirtses,Undirected,1
+Elling,ivinter,Undirected,1
+Elling,Solberg,Undirected,1
+Assessor Jiirgensens,Solberg,Undirected,1
+Jensine,Løjtnant Solbergs,Undirected,1
+Jensine,Madam Ellingsen,Undirected,3
+Hys,Jensine,Undirected,1
+Krakken,Madam Ellingsen,Undirected,1
+Kristian Tømmermand,Madam Ellingsen,Undirected,1
+Jensen,Madam Røberg,Undirected,1
+Jensen,Madam Ellingsen,Undirected,1
+Madam,Madam Ellingsen,Undirected,1
+Abelard,Heloises,Undirected,1
+Heloises,Tranem,Undirected,1
+Sy-Maisa,Tranem,Undirected,1
+Schou,Signe,Undirected,1
+Jakob,Maisa,Undirected,2
+Lizzi Kalnæs,Schliisselberg,Undirected,1
+Evensen,Lizzi Kalnæs,Undirected,1
+Madam Hansen,Maisa,Undirected,1
+Jensine,stakkar,Undirected,1
+Dørum,Ellingsen,Undirected,1
+Ellingsen,liendes,Undirected,1
+Sirtses,liendes,Undirected,1
+Lintraad,Sirtses,Undirected,1
+Jensen,Jensine,Undirected,1
+Jensine,Madam Jensen,Undirected,1
+Maisa,Mor Jensen,Undirected,1
+Faaberg,Jensine,Undirected,1
+Faaberg,Madam Jensen,Undirected,1
+Andersen,Madam Hansen,Undirected,1
+Jensine,Madam Hansen,Undirected,1
+Jensine,Sy-Maisa,Undirected,1
+Sy-Maisa,skraa,Undirected,1
+Maren,skraa,Undirected,1
+Jakoba Schou,Maisa,Undirected,1
+Maisa,Rosa,Undirected,4
+Jakoba,Maisa,Undirected,2
+Rosa,valen,Undirected,1
+Jakoba,Rosa,Undirected,1
+Schou,ifjorsommer,Undirected,1
+Maisa,Maisa Jons,Undirected,1
+Madam Ellingsen,Maisa Jons,Undirected,1

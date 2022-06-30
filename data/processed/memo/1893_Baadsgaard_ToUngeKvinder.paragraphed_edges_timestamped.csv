@@ -1,0 +1,521 @@
+source,target,timestamp
+Haller,Lili,6
+Haller,Knudsen,9
+Haller,Knudsen,11
+Haller,Knudsen,13
+Haller,Knudsen,14
+Knudsen,Madam Knudsen,16
+Knudsen,ban,16
+Knudsen,ban,16
+Haller,Madam Knudsen,19
+Madam Knudsen,Sirtses,20
+Dagna,Ingeborg,23
+Ingeborg,Knudsen,23
+Karen,Knudsen,23
+Dagna,Karen,23
+Dagna,Madam Knudsen,23
+Madam Knudsen,Madammen,23
+Ingeborg,Madammen,23
+Dagna,Madam Knudsen,24
+Dagna,Lili,26
+Haller,Lili,27
+Dagna,lille Dagna,28
+Dagna,Madam Knudsen,38
+Dagna,Karen,38
+Ingeborg,Karen,38
+Dagna,Karen,39
+Ingeborg,Karen,39
+Dagna,Ingeborg,40
+Dagna,Ingeborg,43
+Dagna,Ingeborg,45
+Dagna,Ingeborg,46
+Ingeborg,Karen,48
+Dagna,G rosserer,49
+Dagna,Ingeborg Knudsens,51
+Dagna,Karsten,53
+Dagna,lier,53
+Dagna,lier,53
+Dagna,Lili,62
+Dagna,Pappa,62
+Pappa,lille Dagna,62
+Ingeborg,lille Dagna,62
+Dagna,Karen,63
+Dagna,Karen,63
+Dagna,Karen,63
+Karen,Madam Knudsen,64
+Dagna,Ingeborg,65
+Dagna,Ingeborg,66
+Dagna,Ingeborg,70
+Dagna,Ingeborg,72
+Dagna,Ingeborg,72
+Dagna,Ingeborg,72
+Dagna Haller,Ingeborg,73
+Dagna,Dagna Haller,73
+Dagna,Ingeborg,73
+Ingeborg,Madam Knudsen,74
+Ingeborg,Knudsen,74
+Knudsen,Madam Knudsen,74
+Dagna,Madam Knudsen,74
+Dagna,Pappa,81
+Dagna,paany,89
+Dagna,paany,89
+Dagna,Mamma,100
+Mamma,Pappa,100
+Dagna,Graadcn,101
+Dagna,Fru Hallers,102
+Mamma,Pappa,103
+Dagna,yed Dagnas,105
+Dagna,Gud,106
+Dagna,Haller,107
+Dagna,Haller,113
+Dagna,Haller,113
+Dagna,Karsten Haller,113
+Gud,Haller,119
+Dagna,Gud,119
+Dagna,Ingeborg,122
+Dagna,Ingeborg,125
+Dagna,Madam Knudsen,125
+Ingeborg,Madam Knudsen,125
+Dagna,Madam Knudsen,126
+Dagna,Ingeborg,129
+Dagna,Ingeborg,133
+Dagna,Ingeborg,136
+Dagna,Ingeborg,137
+Ingeborg,Mamma,137
+Ingeborg,Mamma,137
+Dagna,Ingeborg,138
+Dagna,Ingeborg,138
+Dagna,Ingeborg,138
+Dagna,Ingeborg,138
+Dagna,Ingeborg,139
+Dagna,Ingeborg,140
+Dagna,Ingeborg,142
+Dagna,Ingeborg,142
+Dagna,Madam Knudsen,143
+Frøken Dagna,Madam Knudsen,145
+Frøken Dagna,lille Ingeborg,145
+Ingeborg,r,146
+Ingeborg,Madam Knudsen,148
+Dagna,Ingeborg,148
+Dagna,Ingeborg,151
+Ingeborg,Madam Knudsen,151
+Dagna,Madam Knudsen,151
+Ingeborg,Madam Knudsen,152
+Madam Knudsen,Mamma,155
+Ingeborg,Madam Knudsen,155
+Dagna,Ingeborg,156
+Dagna,Ingeborg,162
+Dagna,Ingeborg,162
+Ingeborg,Madam Knudsen,163
+Madam Knudsen,Madam Nielsen,163
+Ingeborg,Madam Nielsen,163
+Bodils,Ingeborg,163
+Jørgen,Madam Nielsen,164
+Ingeborg,Skomager Knudsen,165
+Ingeborg,Skomager Knudsen,165
+Ingeborg,nette,165
+Haller,nette,165
+Haller,Ingeborg,165
+Ingeborg,Madam Knudsen,165
+Madam Knudsen,raade,165
+Dagna,Ingeborg,166
+Dagna,Madam Knudsen,166
+Ingeborg,Madam Nielsen,168
+Jørgen,Madam Nielsen,168
+Ingeborg,Jørgen,168
+Ingeborg,Jørgen,168
+Ingeborg,Jørgen,169
+Ingeborg,Kirstine,171
+Ingeborg,Vorherre,171
+Madam Nielsen,Vorherre,171
+Jørgen,Madam Nielsen,171
+Ingeborg,Madam Nielsen,175
+Ingeborg,Jørgen,178
+Ingeborg,Jørgen,190
+Ingeborg,Jørgen,192
+Ingeborg,Jørgen,193
+Jørgen,ban,193
+Ingeborg,ban,193
+Ingeborg,Jørgen,193
+Ingeborg,Madam Knudsen,194
+Jørgen,Madam Nielsen,197
+Graad,Jørgen,197
+Jørgen,Madam Nielsen,198
+Ingeborg,Madam Nielsen,198
+Ingeborg,Madam Nielsen,201
+Ingeborg,Madam Nielsen,201
+Ingeborg,lille Ingeborg,201
+Dagna,Ingeborg,205
+Dagna,Ingeborg,206
+Dagna,Ingeborg,206
+Dagna,Mamma,206
+Dagna,Gud,208
+Dronning Louises Bro,Gud,208
+Dagna,Ingeborg,211
+Hr. Nielsen,Ingeborg,212
+Hr. Nielsen,Jørgen,212
+Dagna,Ingeborg,213
+Ingeborg,Jørgen,217
+Dagna,Ingeborg,217
+Dagna,Ingeborg,217
+Dagna,Ingeborg,220
+Ingeborg,Jørgen,220
+Ingeborg,Jørgen,220
+Dagna,Ingeborg,220
+Dagna,Ingeborg,220
+Ingeborg,Jørgen,225
+Ingeborg,Mo'r,225
+Bodil,Mo'r,225
+Bodil,Ingeborg,225
+Jørgen,Mo,226
+Bodil,Jørgen,226
+Ingeborg,Jørgen,230
+Bodil,Ingeborg,230
+Bodil,Bodil saaledcs,230
+Bodil,Bodil saaledcs,230
+Bodil,Jørgen,230
+Bodil,Jørgen,232
+Bodil,kanske,232
+Bodil,kanske,232
+Ingeborg,Jørgen,233
+Ingeborg,Sirtses,233
+Ingeborg,Jørgen,235
+Bodil,Ingeborg,235
+Ingeborg,Jørgen,236
+Ingeborg,lians,236
+Bodil,Ingeborg,241
+Ingeborg,Jørgen,242
+Jørgen,Madam Nielsen,242
+Jørgen,Madam Nielsen,242
+Ingeborg,Jørgen,243
+Ingeborg,Madam Knudsen,248
+Jørgen,Madam Knudsen,248
+Ingeborg,Jørgen,248
+Ingeborg,Knudsen,248
+Jørgen,Knudsen,248
+Jørgen,Knudsen,248
+Ingeborg,Knudsen,248
+Ingeborg,Jørgen,248
+Jørgen,Knudsen,248
+Ingeborg,Madam Knudsen,249
+Ingeborg,Madam Knudsen,252
+Ingeborg,Jørgen,253
+Ingeborg,Jørgen,253
+Ingeborg,lille Ingeborg,253
+Jørgen,lille Ingeborg,253
+Bodil,Ingeborg,254
+Bodil,Jørgen,254
+Bjærge,Gud,259
+Dagna,Ingeborg,260
+Ingeborg,Knudsen,261
+Ingeborg,lien,267
+Ingeborg,Jørgen,282
+Ingeborg,Jørgen,285
+Arnes,Ingeborg,294
+Ingeborg,Jørgen,295
+Arne,Madam Nielsen,296
+Arne,Jørgen,296
+Arne,Jørgen,296
+Arne,Jørgen,299
+Arne,Jørgen,299
+Arne,Jørgen,299
+Arne,Ingeborg,299
+Arne,Ingeborg,299
+Arne,Ingeborg,299
+Arne,Ingeborg,299
+Ingeborg,Jørgen,300
+Ingeborg,Roeskilde,300
+Graad,Roeskilde,300
+Graad,Jørgen,300
+Ingeborg,Jørgen,300
+Ingeborg,Jørgen,301
+Ingeborg,Jørgen,302
+Ingeborg,Jørgen,302
+Ingeborg,Jørgen,302
+Ingeborg,Jørgen,303
+Ingeborg,Jørgen,304
+Ingeborg,Jørgen Ingeborg,304
+Arne,Jørgen Ingeborg,304
+Arne,Ingeborg,304
+Arne,Ingeborg,304
+Ingeborg,Jørgen,305
+Arne,Ingeborg,310
+Arne,Jørgen,310
+Arne,Ingeborg,319
+Ingeborg,Jørgen,319
+Ingeborg,Jørgen,319
+Ingeborg,Jørgen,322
+Ingeborg,Jørgen,322
+Ingeborg,Jørgen,323
+Ingeborg,Jørgen,327
+Bodil,Ingeborg,334
+Ingeborg,Jørgen,335
+Ingeborg,Jørgen,336
+Ingeborg,Jørgen,337
+Jørgen,Madam Knudsen,339
+Ingeborg,Madam Knudsen,339
+Gud,Madam Knudsen,342
+Ingeborg,Madam Knudsen,349
+Ingeborg,Madam Knudsen,349
+Ingeborg,Knudsen,349
+Ingeborg,Knudsen,349
+Ingeborg,Madam Knudsen,349
+Arne,Ingeborg,351
+Arne,Ingeborg,352
+Arne,lians,353
+Ingeborg,Jørgen,357
+Arne,Jørgen,357
+Arne,Gud,357
+Arne,Ingeborg,358
+Arne,Jørgen,361
+Arne,Ingeborg,363
+Arne,Ingeborg,365
+Ingeborg,Jørgen,366
+Arne,Ingeborg,366
+Dagna,Mamma,368
+Dagna,Mamma,368
+Dagna,Haller,369
+Dagna,Haller,369
+Dagna,Mamma,370
+Mamma,Monsieur,372
+Mamma,Pappa,372
+Mamma,Pappa,373
+Mamma,Pappa,373
+Mamma,Pappa,373
+Dagna,Karsten,382
+Dagna,Gud,382
+Dagna,Karsten,383
+Dagna,Karsten,383
+Gud,lille Dagna,388
+Arne,Ingeborg,395
+Arne,Ingeborg,396
+Ingeborg,Jørgen,397
+Gud,Knudsen,401
+Gud,Ingeborg,401
+Ingeborg,Jørgen,406
+Gud,Jørgen,409
+Bodil,Gud,409
+Gud,Ingeborg,410
+Ingeborg,Madam Nielsen,412
+Gud,Madam Nielsen,413
+Ingeborg,Jørgen,414
+Jørgen,Madam Nielsen,414
+Ingeborg,Madam Nielsen,417
+Knudsen,Roeskilde,418
+Ingeborg,Madam Nielsen,419
+Bodil,Jørgen,420
+Ingeborg,Jørgen,424
+Mamma,Pappa,429
+Dagna,Mamma,443
+Mamma,Pappa,444
+Dagna,Mamma,447
+Ingeborg,Mamma,450
+Ingeborg,Mamma,452
+Dagna,Ingeborg,454
+Dagna,Ingeborg,454
+Dagna,Ingeborg,459
+Dagna,Ingeborg,462
+Ingeborg,Roeskilde,462
+Jørgen,Roeskilde,462
+Dagna,Jørgen,462
+Dagna,Gud,462
+Gud,Ingeborg,462
+Dagna,Ingeborg,462
+Dagna,Graad,462
+Ingeborg,lille Dagna,480
+Hr. Krag,Mamma,482
+Dagna,Storm,483
+Arne,Dagna,491
+Arne,Dagna,492
+Arne,Dagna,493
+Arne,Dagna,493
+Arne,Dagna,493
+Arne,Dagna,493
+Arne,Dagna,493
+Dagna,Ingeborg,495
+Arne,Dagna,499
+Dagna,Ingeborg,500
+Dagna,Ingeborg,500
+Arne,Dagna,500
+Arne,Ingeborg,500
+Arne,Dagna,502
+Dagna,Ingeborg,503
+Arne,Ingeborg,504
+Arne,Dagna,507
+Arne,Dagna,507
+Arne,Dagna,507
+Arne,Dagna,508
+Arne,Ingeborg,508
+Dagna,Ingeborg,508
+Arne,Dagna,508
+Arne,Nemesis,508
+Dagna,Nemesis,508
+Dagna,Ingeborg,508
+Dagna,Ingeborg,508
+Arne,Dagna,509
+Arne,Edith,510
+Arne,Arne Krag,511
+Arne,Dagna,515
+Dagna,Haller,515
+Arne,Haller,515
+Arne,Dagna,515
+Arne,Dagna,515
+Arne,Dagna,516
+Arne,Dagna,516
+Dagna,Ingeborg,519
+Arne,Dagna,520
+Dagna,Ingeborg,520
+Arne,Ingeborg,520
+Arne,Dagna,520
+Dagna,Ingeborg,520
+Ingeborg,Madam Nielsen,521
+Ingeborg,Jørgen,522
+Ingeborg,Jørgen,522
+Ingeborg,Madam Nielsen,522
+Ingeborg,Madam Nielsen,522
+Bodil,Ingeborg,522
+Bodil,Roeskilde,522
+Ingeborg,Roeskilde,522
+Bodil,Ingeborg,522
+Bodil,Ingeborg,522
+Ingeborg,Jørgen,522
+Jørgen,lians,522
+Bodil,lians,522
+Bodil,Ingeborg,522
+Ingeborg,Jørgen,522
+Jørgen,Madam Knudsen,522
+Ingeborg,Madam Knudsen,522
+Dagna,Ingeborg,522
+Dagna,Ingeborg,522
+Ingeborg,Jørgen,522
+Ingeborg,Jørgen,522
+Ingeborg,Madam Nielsen,522
+Ingeborg,Madam Nielsen,522
+Ingeborg,Madam Nielsen,522
+Arne,lians,523
+Jørgen,lians,523
+Jørgen,Madam Nielsen,523
+Ingeborg,Madam Nielsen,523
+Ingeborg,Jørgen,523
+Ingeborg,Madam Nielsen,524
+Ingeborg,Jørgen,526
+Ingeborg,Madam Nielsen,527
+Ingeborg,Madam Nielsen,528
+Jørgen,Madam Nielsen,528
+Ingeborg,Jørgen,528
+Ingeborg,Jørgen,529
+Ingeborg,Jørgen,529
+Bodil,Jørgen,529
+Bodil,Gud,529
+Bodil,Jørgen,530
+Gud,Jørgen,530
+Dagna,Resedaers,532
+Arne,Dagna,533
+Arne,Dagna,539
+Arne,Dagna,539
+Ingeborg,Madam Nielsen,544
+Elisabeth,Ingeborg,544
+Elisabeth,Madam Nielsen,544
+Elisabeth,Madam Nielsen,544
+Elisabeth,Ingeborg,545
+Bodil,Ingeborg,546
+Bodil,Elisabeth,547
+Ingeborg,Madam Knudsen,548
+Madam Knudsen,lille Ingeborg,549
+Ingeborg,Madam Knudsen,549
+Ingeborg,Madam Knudsen,550
+Ingeborg,Madam Knudsen,552
+Ingeborg,Madam Nielsen,552
+Ingeborg,Madam Knudsen,556
+Ingeborg,Lille Elisabeth,557
+Dagna,Ingeborg,558
+Dagna,Knudsen,558
+Dagna,Knudsen,560
+Dagna,Knudsen,560
+Dagna,Ingeborg,560
+Ingeborg,Lisbeth,561
+Ingeborg,Madam Knudsen,562
+Dagna,Ingeborg,562
+Dagna,Ingeborg,563
+Dagna,Graad,564
+Graad,Ingeborg,564
+Dagna,Ingeborg,564
+Dagna,Ingeborg,564
+Dagna,Ingeborg,565
+Dagna,Ingeborg,566
+Mamma,Pappa,570
+Dagna,Ingeborg,575
+Dagna,Ingeborg,579
+Dagna,Ingeborg,579
+Dagna,Ingeborg,580
+Dagna,Ingeborg,583
+Dagna,Mamma,585
+Dagna,Ingeborg,586
+Ingeborg,Jørgen,588
+Dagna,Ingeborg,592
+Dagna,Ingeborg,596
+Arne,Dagna,598
+Dagna,Ingeborg,600
+Arne,Dagna,601
+Arne,Ingeborg,601
+Arne,Ingeborg,602
+Dagna,Ingeborg,605
+Arne,Dagna,607
+Arne,Haller,607
+Dagna,Haller,607
+Dagna,Lili,613
+Arne,Dagna,615
+Arne,Skaansel,615
+Ingeborg,Skaansel,615
+Arne,Dagna,616
+Arne,ban,616
+Arne,ban,616
+Arne,Ingeborg,616
+Dagna,Ingeborg,617
+Dagna,Ingeborg,617
+Arne,Ingeborg,619
+Arne,Dagna,619
+Dagna,Ingeborg,622
+Dagna,Ingeborg,626
+Dagna,Jørgen,628
+Dagna,Gud,629
+Ingeborg,Jørgen,632
+Arne,Dagna,633
+Dagna,Ingeborg,633
+Arne,Ingeborg,633
+Arne,Chr. Richardts,634
+Arne,Gud,635
+Arne,Dagna,641
+Arne,Dagna,641
+Dagna,lian,649
+Dagna,Pappa,650
+Ingeborg,Madam Nielsen,652
+Madam Knudsen,Madam Nielsen,652
+Madam Knudsen,Roeskilde,653
+Ingeborg,Roeskilde,653
+Dagna,Ingeborg,653
+Dagna,Ingeborg,653
+Dagna,Knudsen,654
+Dagna,Knudsen,654
+Dagna,Ingeborg,654
+Dagna,Ingeborg,654
+Dagna,Jørgen,654
+Ingeborg,Jørgen,654
+Dagna,Ingeborg,654
+Dagna,Ingeborg,654
+Dagna,Jørgen,656
+Dagna,Haller,658
+Dagna,Ingeborg,658
+Ingeborg,Jørgen,658
+Dagna,Jørgen,658
+Ingeborg,Jørgen,659
+Dagna,Ingeborg,659
+Dagna,Jørgen,659
+Ingeborg,Jørgen,659
+Ingeborg,Jørgen,659
+Dagna,Jørgen,659
+Dagna,Jørgen,659
+Ingeborg,Jørgen,659
+Ingeborg,Jørgen,659
+Ingeborg,Jørgen,659
+Dagna,Ingeborg,659

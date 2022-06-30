@@ -1,0 +1,26 @@
+source,target,type,weight
+Berts,Jørgensen,Undirected,1
+Berten,Herr Jørgensen,Undirected,1
+Herr Thomsen,ester,Undirected,1
+Hr. Jor-,gensen,Undirected,1
+Berten,Gjenbo,Undirected,2
+Jensen,Jørgensen,Undirected,2
+Carl den Istes,Dickens,Undirected,1
+Dickens,Maxime,Undirected,1
+Mesfer,Mesfers,Undirected,1
+Mesfer,Svend,Undirected,1
+Gud,Mesfer,Undirected,1
+Gud,Levy,Undirected,1
+Mesters,ganfle,Undirected,1
+Herr Jensen,Herr Thomsen,Undirected,1
+Gjenbo,Nekfar,Undirected,1
+Jens Thomsen,Jørgensen,Undirected,1
+Gud,Hustyrans,Undirected,1
+Andersen,Herr Jensen,Undirected,1
+Peer,Poul,Undirected,1
+Jens,Madam Thomsen,Undirected,1
+Bert,Herr Jørgensen,Undirected,1
+Bert,Jørgensen,Undirected,1
+Herr Jensen,Jensen,Undirected,1
+Gud,Herr Jørgensen,Undirected,1
+Bert,Vertinde,Undirected,1

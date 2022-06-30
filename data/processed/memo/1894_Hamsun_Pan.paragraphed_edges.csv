@@ -1,0 +1,67 @@
+source,target,type,weight
+Cora,Æsop,Undirected,2
+Gud,Æsop,Undirected,2
+Gud,Olje,Undirected,1
+Gud,Lila,Undirected,1
+Jomfru Edvardas,Æsop,Undirected,1
+Jomfru Edvarda,Æsop,Undirected,1
+Hr. Macks,Toddy,Undirected,1
+Edvarda,Toddy,Undirected,1
+Konsulen,Mack,Undirected,1
+Carl Johans,Mack,Undirected,1
+Carl Johans,Hr. Mack,Undirected,1
+Edvarda,Hr. Mack,Undirected,4
+Edvarda,Gud,Undirected,8
+Diderik,Gud,Undirected,1
+Diderik,Iselin,Undirected,5
+Diderik,Pan,Undirected,1
+Edvarda,Æsop,Undirected,4
+Hr. Mack,iland,Undirected,1
+Frøken,Gud,Undirected,1
+didhen,iland,Undirected,1
+Edvarda,iland,Undirected,4
+Provstens,Æsop,Undirected,1
+Eva,Æsop,Undirected,5
+Edvarda,Provstens,Undirected,1
+Edvarda,Jær,Undirected,1
+Gud,Jær,Undirected,1
+Glahn,Marv,Undirected,1
+Glahn,Gud,Undirected,6
+Jær,Æsop,Undirected,2
+Bjørn,Iselin,Undirected,1
+Bjørn,Svend,Undirected,1
+Iselin,Svend,Undirected,1
+Dundas,Iselin,Undirected,3
+Iselin,Lul,Undirected,1
+Lul,lul,Undirected,1
+Iselin,lul,Undirected,1
+Dundas,Gud,Undirected,1
+Stamer,Svend Herlufsen,Undirected,1
+Edvarda,sid,Undirected,1
+Edvarda,Jomfru Edvarda,Undirected,2
+Eva,Gud,Undirected,3
+Edvarda,Eva,Undirected,3
+Eva,vandred,Undirected,1
+Gud,ho-ho,Undirected,1
+Eva,Glahn,Undirected,1
+Eva,Jærnnat,Undirected,1
+Foler,rene gale,Undirected,1
+Edvarda,Foler,Undirected,1
+Edvarda,Glahn,Undirected,2
+Edvarda,Sirilund,Undirected,1
+Edvarda,hans,Undirected,1
+Edvarda,Stene,Undirected,1
+Eva,Karls,Undirected,1
+Gud,Karls,Undirected,1
+Iselin,Æsop,Undirected,1
+Iselin,Stamer,Undirected,1
+Eva,Iselin,Undirected,1
+Glahn,Thomas Glahn,Undirected,3
+Gud,Thomas Glahn,Undirected,2
+Thomas Glahn,sandere,Undirected,1
+Glahn,Halfbreed,Undirected,1
+Glahn,glindsed,Undirected,1
+Olje,glindsed,Undirected,1
+Glahn,Maggie,Undirected,28
+Glahn,taus,Undirected,1
+Glahn,paany Maggies,Undirected,1

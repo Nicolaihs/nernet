@@ -1,0 +1,156 @@
+source,target,type,weight
+Dorte Nørby,Ellen,Undirected,11
+Guds,Niels,Undirected,1
+Dorte,Ellen,Undirected,9
+Dorte,Niels,Undirected,4
+Dorte,Gud,Undirected,7
+Dorte,Niels Hedegaard,Undirected,4
+Anders,Niels,Undirected,1
+Anders,Dorte,Undirected,7
+Dorthea,Niels Hedegaard,Undirected,1
+Dorte,Terkel,Undirected,4
+Ellen,Niels Hedegaaid,Undirected,1
+Anders Nørby,Dorte,Undirected,5
+Anders Nørby,Niels,Undirected,1
+Dorte,Isse,Undirected,1
+Isse,Niels,Undirected,1
+Ellen,Niels Hedegaard,Undirected,8
+Dorte,Per Musiker,Undirected,1
+Ellen,Graad,Undirected,2
+Graad,Niels Hedegaard,Undirected,1
+Dorte Nørby,x-,Undirected,1
+Ellen,x-,Undirected,1
+Anders,Anders Nørby,Undirected,2
+Dorte,Jensen,Undirected,2
+Anders,Gud,Undirected,4
+Dorte,Nørbys,Undirected,1
+Gud,Jep,Undirected,1
+Gud,Mary,Undirected,1
+Dorte,Mary,Undirected,2
+Ellen,Mary,Undirected,5
+Ellen,Jep,Undirected,1
+Jep,Niels Hedegaard,Undirected,1
+Niels Hedegaard,Per Musiker,Undirected,8
+Anders Nørby,Per Musiker,Undirected,1
+Dorte,liun,Undirected,1
+Anders Nørby,Dorte Nørby,Undirected,2
+Per,Per Musiker,Undirected,4
+Dorte,Per,Undirected,2
+Niels Hedegaard,Per,Undirected,3
+Dorte Nørby,Mary,Undirected,3
+Dorte Nørby,Niels Hedegaard,Undirected,3
+Gud,Paulusses,Undirected,2
+Gud,Per,Undirected,7
+Gud,a,Undirected,1
+Per,Terzen,Undirected,1
+Gud,Jesus,Undirected,1
+Gud,jærnhaarde,Undirected,1
+Eidsager,Holmboe,Undirected,1
+Dorte Nørby,Eidsager,Undirected,1
+Gud,Karls,Undirected,1
+Gud,het,Undirected,1
+Plans,het,Undirected,1
+Gud,Plans,Undirected,1
+Gud,Niels Hedegaard,Undirected,6
+Jerrik Hejre,Per Musiker,Undirected,3
+Jerrik,Peter Slagter,Undirected,1
+Per Musiker,Peter Slagter,Undirected,2
+Jerrik,Per Musiker,Undirected,11
+Jerrik,Per,Undirected,16
+Gud,Jerrik,Undirected,3
+Jerrik,lian,Undirected,1
+Jerrik,ban,Undirected,2
+Jerrik,Thji,Undirected,1
+Jerrik,thji,Undirected,3
+Jerrik,Mariane,Undirected,7
+Jerrik,Søren Vinter,Undirected,6
+Jerrik,Søren,Undirected,14
+Søren,Søren Vinter,Undirected,2
+Mariane,Søren Vinter,Undirected,1
+Mariane,Søren,Undirected,1
+Erik,Mariane,Undirected,1
+Erik,Jerrik,Undirected,1
+Mariane,Pierrer,Undirected,1
+Jerrik,Pierrer,Undirected,1
+Søren,livor,Undirected,1
+Gud,Søren,Undirected,1
+Jerrik,Kren Nedergaard,Undirected,3
+Dorte Nedergaard,Kren Nedergaard,Undirected,1
+Dorte,Jerrik,Undirected,1
+Dorte Nørby,Jerrik,Undirected,3
+Karl,Søren Vinter,Undirected,1
+Jerrik,moene,Undirected,1
+Gud,Per Musiker,Undirected,4
+Else Marie,bun,Undirected,1
+Else Marie,Gud,Undirected,1
+Else Marie,Terkel Hedegaard,Undirected,6
+Niels Hedegaard,Terkel Hedegaard,Undirected,1
+Eidsager,Terkel Hedegaard,Undirected,1
+Niels Hedegaard,Terkel,Undirected,12
+Ellen,Terkel,Undirected,2
+Else Marie,Per Musiker,Undirected,3
+JeS,Per,Undirected,1
+Else Marie,Jerrik Hejre,Undirected,1
+Else Marie,Jørgen Hejre,Undirected,2
+Gud,Jørgen Hejre,Undirected,1
+Gud,Jerrik Hejre,Undirected,1
+Anders,Dorte Nørby,Undirected,1
+Dorte Nørby,Ellen Nørby,Undirected,1
+Ellen Nørby,Jep,Undirected,1
+Anders,Per Musiker,Undirected,1
+Dorte Nørby,Per,Undirected,1
+Else Marie,Plan,Undirected,1
+Johannes,Per Musiker,Undirected,1
+Dorte Nørby,Graad,Undirected,1
+Gud,Ole,Undirected,4
+Magreth,Ole,Undirected,1
+Ole,lian,Undirected,1
+Ole,sky,Undirected,2
+Graad,Ole,Undirected,1
+Ole,Per Musiker,Undirected,2
+Die,Per Musiker,Undirected,1
+Die,Ole,Undirected,1
+Elias,Gud,Undirected,1
+Ole,Volle,Undirected,2
+Gud,nied,Undirected,1
+Per Musiker,Terkel,Undirected,1
+Else Marie,Terkel,Undirected,5
+Ellen,Per Musiker,Undirected,2
+Ellen,Niels Fledegaard,Undirected,1
+Else Marie,Niels Hedegaard,Undirected,1
+Niels,Terkel,Undirected,2
+Per,Terkel,Undirected,4
+Niels Hedegaard,Pei Musiker,Undirected,1
+Ellen Nørby,Terkel,Undirected,2
+Abraham,Terkel,Undirected,1
+Abraham,Niels Hedegaard,Undirected,1
+Eidsager,Niels Hedegaard,Undirected,2
+Jerrik Hejre,Niels Hedegaard,Undirected,1
+Jerrik Hejre,Terkel,Undirected,1
+Dorte Nørby,Else Marie,Undirected,1
+Ellen Nørby,Niels Hedegaard,Undirected,1
+Ellen,Niels,Undirected,1
+Anders,Ellen,Undirected,2
+Gud,Niels,Undirected,1
+Dorte Nørby,Gud,Undirected,1
+Anders,Per,Undirected,1
+Dorte,Jerrik Hejre,Undirected,1
+Anders,Jerrik Hejre,Undirected,1
+Anders,Niels Hedegaard,Undirected,2
+Jerrik,Pierrens,Undirected,1
+Dorte,Dorte Nørby,Undirected,1
+Dorte,Purr,Undirected,1
+Dorte Nørby,Purr,Undirected,1
+Mary,Niels Hedegaard,Undirected,1
+Niels,Niels Hedegaard,Undirected,2
+Niels,Purr,Undirected,1
+Niels,Per,Undirected,2
+Eidsager,Niels,Undirected,1
+Dorte Nørhy,Per Musiker,Undirected,1
+Dorte Nørhy,Ellen,Undirected,1
+Ellen,Ole,Undirected,5
+Ellen,Niels tledegaard,Undirected,2
+Eidsager,Per,Undirected,1
+Eidsager,Terkel,Undirected,1
+Else Marie,Peter,Undirected,1
+Holmbo,Terkel,Undirected,1

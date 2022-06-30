@@ -1,0 +1,1098 @@
+source,target,type,weight
+van Hemmert,øg,Undirected,3
+Anton,Christine,Undirected,1
+Christine,Svend,Undirected,1
+Herman Boldt,Svend,Undirected,1
+Guds,Herman Boldt,Undirected,1
+Christine,Herman Boldt,Undirected,10
+Christine,mels,Undirected,2
+Christine,ælcne,Undirected,1
+ælcne,æt,Undirected,1
+Anton,æf,Undirected,1
+Anton,Svend,Undirected,1
+Herman,Svend,Undirected,1
+Christine,Madam van Hemmert,Undirected,5
+Christine,øg,Undirected,7
+Christine,Ieg,Undirected,4
+Christine,Philip Vedel,Undirected,9
+Madam van Hemmert,Vedel,Undirected,1
+Christine,Vedel,Undirected,1
+Christine,Heida,Undirected,1
+Anton,Heida,Undirected,1
+Anton,Herman Boldt,Undirected,1
+Anton,Herman,Undirected,4
+Chrisfine,Philip Vedel,Undirected,1
+Chrisfine,Vedel,Undirected,1
+Karls,Vedel,Undirected,1
+Herman,Vedel,Undirected,3
+Philip Vedel,van Hcmmert,Undirected,1
+Herman,Philip Vedel,Undirected,6
+Christine,Herman,Undirected,70
+Elsfer,Herman,Undirected,4
+Herman,øg,Undirected,5
+Erik,Lisbeth,Undirected,9
+Anton,Erik,Undirected,1
+Herman,Worm,Undirected,32
+Herman Boldt,Philip Vedel,Undirected,1
+Christine,Erik,Undirected,6
+Erik,Herman,Undirected,55
+Anton,sfak,Undirected,1
+Anton,Worm,Undirected,1
+Herman,Karl,Undirected,6
+Karl,Sands,Undirected,1
+Erik,Levvel,Undirected,1
+Herman,Levvel,Undirected,2
+Christine Hemmert,Vedel,Undirected,1
+Herman,Jeremias,Undirected,1
+Guds,Jeremias,Undirected,1
+Gud,Guds,Undirected,1
+Herman,Jomfru Christine,Undirected,1
+Dokforen,Herman,Undirected,6
+Dokforen,Gud,Undirected,1
+Herman,Philip,Undirected,1
+Philip Vedel,ester,Undirected,1
+Christine,ester,Undirected,3
+Herman,hans Beilen,Undirected,1
+Carl Knuth,Philip Ahlefeldf,Undirected,1
+Ahlefeldf,Christine Hemmert,Undirected,1
+Holck,Knuth,Undirected,1
+Ahlefeldt,Ieg,Undirected,3
+Ahleseldt,Grev Knuth,Undirected,1
+Grev Ahlefeldt,Knuth,Undirected,4
+Grev Ahlefeldt,Grev Knuth,Undirected,2
+Ahlefeldt,Grev Knuth,Undirected,1
+Ahlefeldt,Baron Knuth,Undirected,3
+Ahlefeldt,Frederik Knuth,Undirected,1
+Grev Ahlefeldt,Holck,Undirected,3
+Ahlefeldt,ban,Undirected,2
+Holck,ban,Undirected,1
+Banner,Holck,Undirected,1
+Banner,Capitain Gyldenhjelm,Undirected,1
+Capitain Gyldenhjelm,Holck,Undirected,2
+Capitain Gyldcnhjelm,Holck,Undirected,1
+Grev Holck,Gyldenhjelm,Undirected,3
+Grev Knuth,Gyldcnhjelm,Undirected,1
+Captainen,Viktoria,Undirected,1
+Ahlefeldt,Capitain Gyldenhjelm,Undirected,1
+Capitain Gyldenhjelm,Christine,Undirected,1
+Ahieseldt,Grev Holck,Undirected,1
+Grev Holck,Knuth,Undirected,1
+Capitain Gyldenhjelm,Grev Holck,Undirected,3
+Ahleseldt,Capitain Gyldenhjelm,Undirected,1
+Bertram,Mercur,Undirected,1
+Ahlefeldt,Bertram,Undirected,4
+Greven,rasf,Undirected,1
+Holck,Major Bertram,Undirected,1
+Philip Ahleseldt,rasf,Undirected,1
+Erik,rasf,Undirected,2
+Ahlefeldt,Erik,Undirected,6
+Ahlefeldt,Christine,Undirected,32
+Ahlefeldf,Christine,Undirected,4
+Ahlefeldf,Krog,Undirected,1
+Ahlefeldf,Madam van Hcmmert,Undirected,1
+Christine,Philip,Undirected,1
+Ahlefeldt,Svend,Undirected,1
+Christine,Mathilde,Undirected,1
+Chrisfine,Erik,Undirected,2
+Chrisfine,Gud,Undirected,2
+Christine,Gud,Undirected,4
+Christine,Hr. Vedel,Undirected,1
+Ahlefeldt,trø,Undirected,1
+Christine,dehsikke,Undirected,1
+Madame Hemmert,ester,Undirected,1
+Herman,ester,Undirected,1
+Ahlefeldf,Worm,Undirected,1
+Erik,Ieg,Undirected,6
+Ahlefeldf,Madame Hemmert,Undirected,1
+Ahlefeldf,Herman Boldt,Undirected,1
+Ahlefeldt,Herman Boldt,Undirected,3
+Herman,el,Undirected,1
+Herman,Madame,Undirected,1
+Ahlefeldt,Karl,Undirected,2
+Ahlefeldt,sfak,Undirected,1
+Herman,Madame van Hemmert,Undirected,2
+Herman,koran Ahlefeldt,Undirected,1
+Herman,as,Undirected,1
+Erik,Herman Boldt,Undirected,2
+Erik,Maries,Undirected,1
+Gud,Magen,Undirected,1
+Erik,Marie,Undirected,6
+Erik,Jngelunde,Undirected,1
+Erik,Worm,Undirected,3
+Herman,lee,Undirected,1
+Erik,Herman tøg,Undirected,1
+Herman,Peftbyld,Undirected,1
+Erik,Hanne,Undirected,1
+Gud,Herman,Undirected,3
+Bertram,Holck,Undirected,3
+Bertram,Kapitain Gyldenhjelm,Undirected,1
+Gyldenhjelm,Kapitain Gyldenhjelm,Undirected,2
+Grev Holck,Kapitain Gyldenhjelm,Undirected,2
+Gyldenhjelm,Holck,Undirected,1
+Gyldenhjelm,Majøren,Undirected,1
+Grev Holck,Majøren,Undirected,1
+Damens,Majøren,Undirected,1
+Holck,Majøren,Undirected,1
+Elsfer,Gyldenhjelm,Undirected,1
+Greven,Gyldenhjelm,Undirected,1
+Baron Knuth,Gyldenhjelm,Undirected,1
+Holck,Mathilde,Undirected,1
+J,Mathilde,Undirected,1
+Graverkarlens,Gud sfe,Undirected,1
+Gud sfe,Mathias Berg,Undirected,1
+Grethe,Vorm,Undirected,1
+Grethe,Moer,Undirected,1
+Ieg,Mathias,Undirected,1
+Frandsen,hnn,Undirected,1
+Andreas,Frandsen,Undirected,1
+Andreas,Mathias,Undirected,1
+Ieg,Tu,Undirected,1
+Mathias,Tu,Undirected,1
+Grethe,nysgjerrig,Undirected,1
+,Matbias,Undirected,1
+Grethe,Mathias,Undirected,1
+Grev Holck,sia,Undirected,1
+Gyldenhjelm,Sophie,Undirected,1
+Gravers,Gyldenhjelm,Undirected,1
+Ahlefeldt,Grev Holck,Undirected,3
+Bertram,Capitain Gyldenhjelm,Undirected,1
+Grev Holck,Kaarde,Undirected,1
+Grev Ahlefeldt,Gyldenhjelm,Undirected,1
+Heida,Jonas,Undirected,1
+Worm,van Hemmert,Undirected,3
+Erik,Mathilde,Undirected,1
+Madam van Hemmert,Mathilde,Undirected,1
+Christine,Dokloren,Undirected,1
+Dokloren,Madam van Hemmert,Undirected,1
+Christine,ive,Undirected,1
+Madam van Hemmert,Philip Vedel,Undirected,2
+Christine,Dokforen,Undirected,2
+Ahlefeldt,Madam van Hemmert,Undirected,1
+Grev Ahlefeldt,Philip Vedel,Undirected,2
+Christine,Holsfein,Undirected,1
+Ahlefeldt,Holsfein,Undirected,2
+Christine,falsfe Elsfer,Undirected,1
+Dokforen,Herman Boldt,Undirected,1
+Hermann,Madam van Hemmert,Undirected,1
+Christine,Hermann,Undirected,2
+Christine,Grev Ahlefeldt,Undirected,7
+Ahlefeldt,Vedel,Undirected,1
+Herman,hellee,Undirected,1
+Hr. van Hemmert,Ieg,Undirected,1
+Gud,Ieg,Undirected,1
+Herman,Ravn,Undirected,2
+Ravn,er Berg,Undirected,1
+Herman,Moer Grethe Berg,Undirected,1
+Hemmert,Moer Berg,Undirected,2
+Dokforen,Hemmert,Undirected,1
+Andreas,Dokforen,Undirected,1
+Andreas,Møer Berg,Undirected,1
+Frandsen,øg,Undirected,1
+Moer Berg,øg,Undirected,1
+Knuth,Kudsk,Undirected,1
+Ahlefeldt,Philip Ahlefeldt,Undirected,1
+Ahlefeldt,Komtesse Holsfein,Undirected,1
+Komtesse Holsfein,Spaakvinden,Undirected,1
+Ahlefeldt,Prinds Frederik,Undirected,1
+Ahlefeldt,Spaadom,Undirected,1
+Gertrude,Grev Ahlefeldt,Undirected,1
+Greven,Knuth,Undirected,1
+Anton,Dokfor Worm,Undirected,1
+Christine,Madam Hemmert,Undirected,3
+Christine,Worm,Undirected,4
+Grev Ahlefeldt,dans,Undirected,1
+Grev Ahlefeldt,Herman,Undirected,12
+Christine,Grev Ahlefcldt,Undirected,1
+Elsfer,Grev Ahlefcldt,Undirected,1
+Philip Ahlefeldt,Philip Vedel,Undirected,2
+Gud,Worm,Undirected,1
+Herman Boldt,Madam Hemmert,Undirected,1
+Chrisfine,Tys,Undirected,1
+Philip Vedel,Tys,Undirected,1
+Greve,Herman,Undirected,2
+Bastian,Erik,Undirected,2
+Christine,rasf,Undirected,1
+Bombastus,Worm,Undirected,1
+Bombastus,Erik,Undirected,3
+Bernhardins,Martinius,Undirected,1
+Martinius,øg,Undirected,1
+Erik,Rolandus Bombastus,Undirected,1
+Hr. Bernhardt,ber,Undirected,1
+Bombastus,van Hemmert,Undirected,1
+Erik,Martimus,Undirected,1
+Bombastus,tøg,Undirected,1
+Christine,Martimus,Undirected,1
+Bernhardts,Christine,Undirected,1
+Bombastus,Herman Boldt,Undirected,1
+Bombastus,Martinius,Undirected,1
+Bombastus,ban,Undirected,1
+Marie,ban,Undirected,1
+Christine,Marie,Undirected,2
+Elsfer,Rolandus Bombastus,Undirected,1
+Bombastus,Marie,Undirected,2
+Bombastus,Christine,Undirected,2
+Christine,bun,Undirected,7
+Bombastus,sif,Undirected,1
+Philip,sif,Undirected,1
+Philip Vedel,bun,Undirected,1
+Frøken Rantzau,Philip Ahlefeldt,Undirected,1
+Ahlefeldt,Grevinde Ahlefeldt,Undirected,1
+Bertram,Martinius,Undirected,1
+Bertram,Erik,Undirected,9
+Gud,Hr. Hemmert,Undirected,1
+Greven,Herman,Undirected,7
+Ahlefeldt,Herman vinkeve,Undirected,1
+Bertram,Herman,Undirected,9
+Hemmert,Svend Herman Boldt,Undirected,1
+Christian,Greven,Undirected,1
+Christian,Jomfru Christine,Undirected,1
+Hemmert,Herman,Undirected,5
+Herman,teren,Undirected,1
+Herman saare,fig,Undirected,1
+Christine,fig,Undirected,1
+Bon,Erik,Undirected,1
+Chrisfine,Herman,Undirected,6
+Ahlefeldt,Chrisfine,Undirected,2
+Herman,Madam Hemmert,Undirected,2
+Ahlefeldt,Gud,Undirected,1
+Herman,Madam,Undirected,2
+Madam Hemmert,sørend,Undirected,1
+Christine,Jcg,Undirected,1
+Bernhard Berg,Herman,Undirected,2
+Bernhard,Grev Ahlefeldt,Undirected,1
+Bernhard,Børgermester,Undirected,1
+Ahlefeldt,Herman,Undirected,16
+Christine,Herman sfred,Undirected,1
+Christian,Grev Ahlefeldt,Undirected,1
+Bertran,Herman,Undirected,1
+Bertran,Pralhans,Undirected,1
+Herman,Pralhans,Undirected,1
+Jomfru Christine,Moer Berg,Undirected,1
+Bertram,Jomfru Christine,Undirected,2
+Herman,Profetens,Undirected,1
+Herman,Philip Ahlefeldt,Undirected,2
+Herman,van Hemmert,Undirected,13
+Hemmert,Svend,Undirected,3
+Herman Han,ban,Undirected,1
+Herman,ban,Undirected,13
+Michel Sommer,Sophie,Undirected,1
+Herman,Mikkel Sommer,Undirected,1
+Diana,Sophie,Undirected,2
+J,spodsk,Undirected,1
+Herman,Sophie,Undirected,62
+Herman,Moer Berg,Undirected,13
+Christine Hemmert,Grev Ahlefeldt,Undirected,2
+Christine Hemmert,Herman.,Undirected,1
+Grev Ahlekeldt,ber/,Undirected,1
+Herman,hap,Undirected,1
+Herman,Ver,Undirected,1
+Bien,Herman,Undirected,1
+Bien,Moer Berg,Undirected,1
+Ester,Herman,Undirected,6
+Herman,Herman Boldt,Undirected,5
+Diana,Herman,Undirected,1
+Berg,Sophie,Undirected,2
+Berg,øg,Undirected,1
+Berg,tø Kavallerer,Undirected,1
+Grev Ahlefeldt,tø Kavallerer,Undirected,1
+Grev Ahlefeldt,Grev Holck,Undirected,1
+Christine,Grev Holck,Undirected,1
+Berg,Christine,Undirected,1
+Elsfer,Sophie,Undirected,1
+Sophie,ilaas,Undirected,1
+baany,ilaas,Undirected,1
+Bertram,baany,Undirected,1
+Bertram,bavde,Undirected,1
+Hr. Hemmert,bavde,Undirected,1
+Christine,Hr. Hemmert,Undirected,1
+Sophie,bos Moer Berg,Undirected,1
+Herman,bun,Undirected,2
+Moer Berg,Sophie,Undirected,11
+Christine,Sophie,Undirected,20
+Ahlefeldt,Greven,Undirected,2
+Greven,Moer Berg,Undirected,1
+Christine,Holck,Undirected,1
+Herman,Holck,Undirected,1
+Herman,J,Undirected,2
+Ahlefeldt,Christine Hemmert,Undirected,3
+Christine Hemmert,Gud,Undirected,1
+Svend,ban,Undirected,1
+Erik,øg,Undirected,3
+Hain,Hemmert,Undirected,1
+Grev Ahlefeldt,Madam von Hemmert,Undirected,1
+Erik,Hemmert,Undirected,2
+Erik,Majoren,Undirected,1
+ban,el Skrig,Undirected,1
+Erik,ban,Undirected,3
+Majoren,ban,Undirected,1
+Profetens,hinandey,Undirected,1
+Christine,Jørden,Undirected,1
+Jørden,ban,Undirected,1
+Ahlefeldt,øg Erik,Undirected,2
+Ahlefeldt,van Hemmert,Undirected,3
+Greven,van Hemmert,Undirected,1
+Greven,øg,Undirected,3
+Herman Boldt,Hr. van Hemmert,Undirected,1
+Ahlefeldt,Svend Herman,Undirected,1
+Bertram,Gud,Undirected,1
+Ahlefeldt,Holck,Undirected,2
+Baron Knuth,Holck,Undirected,1
+Knuth,Sophie,Undirected,4
+Ahlefeldt,herhid,Undirected,1
+Knuth,fig,Undirected,3
+Christine,Knuth,Undirected,1
+Ahlefeldt,Knuth,Undirected,3
+Gud,Sophie,Undirected,3
+Herman,Ieg,Undirected,10
+Ieg,ban,Undirected,1
+Barøn Knuth,Søphie,Undirected,1
+Ahlefeldt,Barøn Knuth,Undirected,1
+Søphie,elffe,Undirected,1
+Herman,Møer Berg,Undirected,2
+Ahlefeldt,Moer Berg,Undirected,1
+Dokter Vorm,Sophie,Undirected,1
+Sophie,Sygevogtcrsfen,Undirected,1
+Ieg,øg,Undirected,2
+Herman øg,Moer Berg,Undirected,1
+kvisfede Moer Berg,kvor,Undirected,1
+Møer Berg,Sophie,Undirected,3
+Sophie,ben,Undirected,1
+Sedkcren,Sophie,Undirected,2
+J,Moer Berg,Undirected,1
+Sophie,Sygevogtersken,Undirected,1
+Christine,hæns,Undirected,2
+Ahlefeldt,Jomfru Hemmert,Undirected,1
+Sophie,sfred rasf,Undirected,1
+Sophie,Worm,Undirected,8
+Christine,sørbi,Undirected,1
+Eders,Svend,Undirected,1
+Hr. Hemmert,Svend,Undirected,1
+Hr. van Hemmert,Knuth,Undirected,1
+Herman,elffe,Undirected,1
+Grev Ahlefeldt,Herman Bolt,Undirected,2
+Herman,hans Svend,Undirected,1
+Herman Boldt,van Hemmert,Undirected,2
+Die,Svend,Undirected,1
+Erik,Hei.,Undirected,1
+Erik,bun,Undirected,1
+Erik,Martensen,Undirected,1
+Erik,Madam Hemmert,Undirected,1
+Ahlefeldl,Bertram,Undirected,2
+Christine elffer,Herman,Undirected,1
+Christine elffer,Grev Ahlefeldt,Undirected,1
+Salomon Adler,Sophie,Undirected,1
+Geistligcs,Salomon Adler,Undirected,1
+Geistligcs,Grethe Berg,Undirected,1
+Grethe Berg,Herman Boldt,Undirected,2
+Herman Boldt,Salomon Adler,Undirected,1
+Ieg,Sophie,Undirected,3
+Herman Boldt,Sophie,Undirected,3
+Grethe Berg,Herman,Undirected,2
+Grethe Berg,Ravn,Undirected,1
+Geisfliges,øg Baron Knuth,Undirected,1
+Geisfliges,Moer Berg,Undirected,1
+Erik,Van Hemmert,Undirected,1
+Bertram,Lisbeth,Undirected,1
+Edees,Greven,Undirected,1
+Chrisfine,Hr. van Hemmert,Undirected,1
+Chrisfine,Madam Hemmert,Undirected,1
+Greven,Madam Hemmert,Undirected,1
+Anton,Greven,Undirected,1
+Anton,Chrisfine,Undirected,1
+Christine,Greven,Undirected,16
+Greven,Hemmert,Undirected,1
+Herman,Madame Hemmerr,Undirected,1
+Bertram,sired,Undirected,1
+Ahlefeldf,Chrisfine,Undirected,1
+Chrisfine,Sophie,Undirected,3
+Davidsen,Gud,Undirected,1
+Herman,Madame von Hemmert,Undirected,1
+Herman,Madam van Hemmert,Undirected,3
+Herman Bolt,Madam van Hemmert,Undirected,1
+Christine,Herman Bolt,Undirected,1
+Grev Ahlefeldt,van Hemmert,Undirected,1
+Davidsen,Grev Ahlefeldt,Undirected,1
+Ahlefeldt,Davidsen,Undirected,3
+Davidsen,Herman,Undirected,5
+Herman,ai,Undirected,1
+Davidsen,Ester,Undirected,1
+Davidsen,Kaarde,Undirected,1
+Kaarde,van Hemmert,Undirected,1
+Flint,Herman,Undirected,1
+Davidsen,Flint,Undirected,1
+Baron Knuth,Herman,Undirected,6
+Baron Knuth,Bertram,Undirected,1
+Bertram,Knuth,Undirected,3
+Herman,Hr. van Hemmert,Undirected,1
+Bertram,Grethe,Undirected,1
+Herman tilhage,Sophie,Undirected,1
+Herman,Herman tilhage,Undirected,1
+Herman,Knuth,Undirected,8
+Pralhansens,øg,Undirected,1
+Knuth,øg,Undirected,1
+Herman,slille,Undirected,2
+Erik,van Hemmert,Undirected,3
+Edrrs,Herman,Undirected,1
+Herman,yan,Undirected,3
+Adler,Salomo,Undirected,18
+Adler,hay,Undirected,1
+Herman knnde,hay,Undirected,1
+Adler,Salomo »,Undirected,3
+Herman,Salomo,Undirected,2
+Adler,herhid,Undirected,1
+Gud,reifes,Undirected,1
+Herman,Herman spisfe,Undirected,1
+Herman,Nikolai Taarn,Undirected,2
+Salomo,ban,Undirected,1
+Gud,ester,Undirected,1
+Gud,Herren,Undirected,1
+Christine,Doctor Worm,Undirected,1
+Doctor Worm,ban,Undirected,1
+Herman,Herman gjerne,Undirected,1
+Herman,Michael,Undirected,1
+Page,Sophie,Undirected,1
+Knuth,Page,Undirected,1
+Baron Knuth,Sophie,Undirected,5
+Christine,ban,Undirected,5
+Herman,dans,Undirected,2
+Herman,Herman øg Dokforen,Undirected,1
+Herman øg Dokforen,Oren,Undirected,1
+Herman,Oren,Undirected,1
+Herman,Portechaisen,Undirected,2
+Brysf,Sophie,Undirected,1
+Herman vaer,Sophie,Undirected,1
+Herman,Herman vaer,Undirected,1
+Dokfor Worm,Sophie,Undirected,1
+Herman,fig,Undirected,4
+Herman,hans,Undirected,3
+Baron Knuth,Jonas,Undirected,1
+Grethe Berg,Jonas,Undirected,1
+Baron Knuth,Grethe Berg,Undirected,1
+Herman,Jonas,Undirected,1
+Knuth,Worm,Undirected,2
+Bertram,Grev Ahlefeldt,Undirected,3
+Grev Ahlefeldt,herhid,Undirected,1
+Ahlefeldt,Grev Rantzau,Undirected,1
+Ahlefeldt,Dokter Worm,Undirected,1
+Christine,Dokter Worm,Undirected,1
+Christine,Herman sfar,Undirected,1
+Ahlefeldt,Rantzau,Undirected,1
+Ahlefeldt spodsk,Jø,Undirected,1
+Ahlefeldt spodsk,Christine,Undirected,1
+Ahlefeldt,Ebers,Undirected,1
+Bertram,ber,Undirected,1
+Grev Ahlefeldt,Rankzau,Undirected,1
+Gred AHIefeldt,Herman,Undirected,1
+Gred AHIefeldt,Knuth,Undirected,1
+Herman,Rantzau,Undirected,2
+Bertram,Rantzau,Undirected,1
+Knuth,øg Grethe Berg,Undirected,1
+Knuth,ber,Undirected,1
+Herman,ber,Undirected,1
+Grethe,Grev Ahleseldts,Undirected,1
+Moer Berg,Salomo,Undirected,1
+Hr. van Hemmert,ester,Undirected,1
+Christine,Hr. van Hemmert,Undirected,1
+Christine Hemmert,Herman,Undirected,4
+Kjøn,Sophie,Undirected,1
+Davidsen,Ieg,Undirected,1
+Davidsen,Hr. van Hemmert,Undirected,1
+Erik,Hr. van Hemmert,Undirected,1
+Christine fluide,Herman,Undirected,1
+Bertram,Sophie,Undirected,1
+Grethe Berg Mønten,Herman,Undirected,1
+Moer Lucas,Worm,Undirected,1
+Worm,ban,Undirected,3
+Herman,Pestkarrens,Undirected,1
+Herman,øs,Undirected,1
+Karl,Sophie,Undirected,1
+Sophie,øg,Undirected,2
+Grev Ahlefeidts,ril,Undirected,1
+Chrisfine,Christiane,Undirected,1
+Christiane,Christiane/,Undirected,1
+Chrisfine,Christiane/,Undirected,1
+Heeman,Worm,Undirected,1
+Heeman,Sophie,Undirected,1
+Salomo »,Worm,Undirected,1
+Herman,Salomo »,Undirected,1
+Evers,Salomo,Undirected,1
+Adler,Herman,Undirected,1
+Lisbeth,knnnct,Undirected,1
+Erik,Sophie,Undirected,9
+Christine,Lisbeth,Undirected,3
+JeK,Lisbeth,Undirected,1
+Grev Ahlefeldt,Lisbeth,Undirected,1
+Erik,Grev Ahlefeldt,Undirected,3
+Ahlefeldt,Lisbeth,Undirected,1
+Herman Bolt,nn,Undirected,1
+Erik,Madam van Hemmert,Undirected,1
+Christine,heiscde,Undirected,1
+Herman,heiscde,Undirected,1
+Herman,Hesfen,Undirected,4
+Erik,Ester,Undirected,1
+Ester,flog ban Hesfen,Undirected,1
+Erik,Hesfen,Undirected,1
+Ahlefeldr,Lisbeth,Undirected,1
+Ahlefeldr,øg,Undirected,1
+eg,øg,Undirected,1
+Christine,Herman „,Undirected,1
+Erik,Herman „,Undirected,1
+Orne,Van Hemmert,Undirected,1
+Grev Ahleselrt,Herman,Undirected,1
+Grev Ahleselrt,Knuth øg Major Bertram,Undirected,1
+Knuth øg Major Bertram,jøg,Undirected,1
+Erik,jøg,Undirected,1
+Ahlefeldt,Grev Ahlefeldt,Undirected,3
+Baron Knuth,sfrækko,Undirected,1
+Herman,øg Hermans,Undirected,1
+Ahlefeldt,øg,Undirected,3
+Erik raabe,ban,Undirected,1
+Erik,Erik øg Sophie,Undirected,1
+Christine,dam,Undirected,1
+dam,øg,Undirected,1
+Robert,Sara,Undirected,1
+Baron Knuth,Grev Ahlefeldt,Undirected,1
+-Lisbeth,Erik,Undirected,1
+-Lisbeth,Bertram,Undirected,1
+Herman,Verners,Undirected,1
+Sophie,Verners,Undirected,1
+ban,ester,Undirected,3
+Sophie,bun,Undirected,2
+Herman,sølgc,Undirected,1
+Erik,Herman Erik,Undirected,1
+Herman,Søphie,Undirected,1
+Christine,Madam Busk,Undirected,4
+Madam Busk,øg,Undirected,1
+fig,øg,Undirected,1
+Herman,Madam Busk,Undirected,6
+Knuth,Madam Busk,Undirected,1
+Dronning Louise,Sophie Reventlov,Undirected,1
+Ahlefelds,Chrisfine Hemmert,Undirected,1
+Baron Knuth,Chrisfine,Undirected,1
+Ahieseldis,Chrisfine,Undirected,2
+Madam Busk,Sophie,Undirected,2
+Elsfer,Grev Ahlefeldt,Undirected,1
+Christine,Elsfer,Undirected,1
+Erik,Vams,Undirected,1
+Grev Ahlefeldt,Sophie,Undirected,1
+Ahlefcldt,Christine,Undirected,1
+Ahlefcldt,Sophie,Undirected,1
+Christine,aflaascde Døre,Undirected,1
+Herman,Madam Busf,Undirected,1
+Christine,Køngen,Undirected,1
+Kuuth,Sophie,Undirected,1
+Grev Ahlefeldt,Madam Busk,Undirected,1
+Christine,Jø,Undirected,1
+Gud,Madam Busk,Undirected,1
+Ahlefeldt,bun,Undirected,1
+Christine Hemmert,Grev Holck,Undirected,1
+Christine,Frederik,Undirected,1
+-,Ahlefeldt,Undirected,1
+-,Grev Ahlefeldt,Undirected,1
+Christine,Ebers,Undirected,1
+Ebers,EdeeS,Undirected,1
+EdeeS,øg,Undirected,1
+Ieg,Madam Busk,Undirected,1
+Madam Busk,Majestæts,Undirected,1
+Ebers,Erik,Undirected,1
+Erik,Karl,Undirected,1
+Ahlefeldt,Majøren,Undirected,1
+Erik,Majøren,Undirected,2
+Herman,Majøren,Undirected,3
+Ahlefeldt,Frøken Christines,Undirected,1
+Erik,Frøken Christine,Undirected,1
+Ahlefeldt,Frederik,Undirected,1
+Frederik,Sophie,Undirected,1
+Kong Frederiks,Sophie,Undirected,1
+,Madam Busk,Undirected,1
+,Sophie,Undirected,1
+Anna Revcntlow,Sophie,Undirected,1
+Anna Revcntlow,Fløitespillercns,Undirected,1
+Grev Holck,Kapitain Gyldenhjclm,Undirected,1
+Kapitain Gvlvcnhjelm,Knuth,Undirected,1
+Christine Hemmert,Greven,Undirected,1
+Christine Hemmert,Herman Boldt,Undirected,1
+Herman Boldt,øg,Undirected,2
+Erik,Greven,Undirected,1
+Greven,Herman Boldt,Undirected,5
+Bertram Erik,øg,Undirected,1
+Ahlefeldt,Knnth,Undirected,1
+Knnth,øg,Undirected,1
+Erik,Erik gab,Undirected,1
+Erik gab,Herman,Undirected,1
+Christine,Madam Busi,Undirected,1
+Bertram,Herman vidsfe,Undirected,1
+Erik,Madam Busk,Undirected,1
+Madam Busk,em,Undirected,1
+Herman,Kaarde,Undirected,1
+Christine,Greve,Undirected,2
+Erik,Pralhansen,Undirected,2
+Erik,Søphie,Undirected,1
+Eierindcn,Madam Bertelsen,Undirected,1
+Christine,Madam Bertelsen,Undirected,2
+Christine,Christine Hemmert,Undirected,1
+Bertelsen,Christine,Undirected,2
+Christine øg Sophie,Madam Bertelsen,Undirected,1
+Chrisiine,Madam Bertelsen,Undirected,1
+Christine,Madam Bertelscns,Undirected,1
+Madam Bertelsen,siz,Undirected,1
+Madam Bertelsen,Sophie,Undirected,1
+Grev Ahlefeldt,Køngcn,Undirected,1
+Christine,paany,Undirected,1
+Pagen,paany,Undirected,1
+Chrisfine,Grev Ahlefeldt/,Undirected,1
+Chrisfine,bun,Undirected,1
+Ahlefeldt,Sophie,Undirected,2
+Køngen,Sophie,Undirected,1
+Christine,Støi,Undirected,1
+Støi,hnn,Undirected,1
+Køngen,hnn,Undirected,1
+Ester Christines,van Hemmert,Undirected,1
+Moer Berg,Ravn,Undirected,2
+Davidsen,Nielsen,Undirected,1
+Christine,van Hemmert,Undirected,1
+Christine,sørend,Undirected,1
+Herman,øm,Undirected,2
+Elsfer,Herman-,Undirected,1
+Anna Revcntlow,Elsfer,Undirected,1
+Anna Revcntlow,Knuth,Undirected,1
+Erik iførgaars,Herman,Undirected,1
+Erik iførgaars,Worm,Undirected,1
+Worm,ilive,Undirected,1
+Erik,Moer Berg,Undirected,3
+Herman,a,Undirected,1
+Hr. Lind,Moer Berg,Undirected,1
+Baron Knuth,hu,Undirected,1
+Christine Hemmert,Moer Berg,Undirected,1
+Lind,Worm,Undirected,9
+Lind,ban,Undirected,2
+Herman,Lind,Undirected,31
+Herman strax,van Hemmert,Undirected,1
+Herman,ban Hemmert,Undirected,1
+Erik,ban Hemmert,Undirected,1
+Jørden,Lind,Undirected,1
+Herman,Jørden,Undirected,1
+Lind,Pestgrubcn,Undirected,1
+Lind,Sophie,Undirected,4
+Moer Lucas,Sophie,Undirected,1
+Herman,ilive,Undirected,1
+Profeten,Worm,Undirected,1
+Erik,J,Undirected,1
+Erik —,Herman,Undirected,1
+Erik,siven,Undirected,1
+Ieg,ester,Undirected,1
+Herman Boldt,Ieg,Undirected,3
+Ieg,Lind,Undirected,1
+Herman Boldt,Robert Nygaard,Undirected,1
+Robert Nygaard,Sophie,Undirected,1
+Baron Knuth/,Herman,Undirected,1
+Herman,kenne,Undirected,1
+Hr. Lind,Worm,Undirected,1
+Herman,hm,Undirected,1
+Sophie,hm,Undirected,1
+Hassan,Madam Werner,Undirected,1
+HaSsan,Madam Werner,Undirected,1
+HaSsan,øg,Undirected,1
+Bivcie,øg,Undirected,1
+Herman Boldt,Knuth,Undirected,1
+Baron Knuth,Herman Boldt,Undirected,1
+Baron Knuth,Christine Hemmert,Undirected,1
+Deren,Herman,Undirected,1
+Deren,Knuth,Undirected,1
+Sophie,ban,Undirected,1
+Linde,Worm,Undirected,1
+Worm,dans,Undirected,1
+Baron Knuth,dans,Undirected,1
+Lind,fig,Undirected,1
+Isabella Maurice,Sophie,Undirected,1
+Isabella,Sophie,Undirected,2
+Isabella,Jsabellas,Undirected,1
+Isabella,Lind,Undirected,1
+Elsfer,Isabella,Undirected,1
+Lind,Moer Berg,Undirected,2
+Gyldenholm,Lind,Undirected,1
+Baron Knuth,Lind,Undirected,2
+Baron Knuth,hau,Undirected,1
+Floitespillers,hau,Undirected,1
+Floitespillers,Gyldenholm,Undirected,1
+Ahlefeldt,Shawlel,Undirected,2
+Bertram,ban,Undirected,1
+Ahlcfeldts,Christine,Undirected,1
+Christine,Greve«,Undirected,1
+Ahlefeldt,Jørgen,Undirected,1
+Greven,Jørgen,Undirected,1
+Christine,Haus,Undirected,1
+Bertram,Plougen,Undirected,1
+Bertram,Christine,Undirected,2
+Ahlefeldt,Petrinc,Undirected,1
+Greven,Pctrine,Undirected,1
+Ahleseldt,Christine,Undirected,1
+Christine,Christine øg,Undirected,1
+Christine,hu,Undirected,1
+Ester,Greven,Undirected,1
+Christine,Jkke,Undirected,1
+Christine,kalves,Undirected,1
+Christine,Holck øg Major Bertram,Undirected,2
+Ieg,Phillip,Undirected,1
+Christine,Phillip,Undirected,1
+Greven,Ieg,Undirected,3
+Christine,beviriedes,Undirected,1
+Christine,øgsaa,Undirected,1
+Christine,Kong Frederiks,Undirected,1
+Chrisfine,Christine,Undirected,1
+Chrisfine,Grethe Berg,Undirected,1
+Grethe Berg,Grev Holck,Undirected,1
+Bertram,Grev Holck,Undirected,1
+Chrisfine,hnn,Undirected,1
+Grethe,Moer Berg,Undirected,1
+Gud,Moer Berg,Undirected,1
+Christine,Moer Berg,Undirected,1
+Christine,eralisaa reist,Undirected,1
+Christine,Grethe Berg,Undirected,3
+Grethe Berg,Holstein,Undirected,1
+Grev Hvlck,Moer Berg,Undirected,1
+Bertram,Grev Hvlck,Undirected,1
+Ahlefeldt,Jomfru Christine,Undirected,1
+EdeeS,Moer Berg,Undirected,1
+EdeeS,Major Bertram,Undirected,1
+Greve,Major Bertram,Undirected,1
+Bertram,Jøhnsen,Undirected,1
+Bertram,Ravn,Undirected,1
+Christine van Hemmert,Hr. Jøhnsen,Undirected,1
+Christine van Hemmert,Hr. Greve,Undirected,1
+Grethe Berg,Hr. Greve,Undirected,1
+Ahlefeldt,Grethe Berg,Undirected,1
+Christine,Grethe,Undirected,1
+Greven,ban,Undirected,1
+Greven,Ravn,Undirected,1
+Grethe Berg,Johnsen,Undirected,1
+Christine,hnn,Undirected,1
+Christine,Sibbalv,Undirected,1
+Sibbald,Sibbalv,Undirected,1
+Sibbald,ester,Undirected,1
+Grevinde Ahlefeldt,slI,Undirected,1
+Grevcn,slI,Undirected,1
+Chrisfine,Salomo »Adler,Undirected,1
+Chrisfine,van Hemmcrts,Undirected,1
+Chrisfine,Salomo,Undirected,1
+Greven,Salomon Adler,Undirected,1
+Ahlefeldt,Salomon Adler,Undirected,1
+Adler,Greven,Undirected,1
+Christine,Eder,Undirected,1
+Christine,Salomo«,Undirected,1
+Adler,Salomo«,Undirected,1
+Ahleseldl,Worm,Undirected,1
+Greven,Worm,Undirected,2
+Herman,JsabellaS,Undirected,1
+JsabellaS,Worm,Undirected,1
+Ionas,ban,Undirected,1
+Grev Ahlefeldt,Salomon Adler,Undirected,1
+Salomo »,Spaadom,Undirected,1
+Almcnakken,hans Karl,Undirected,1
+ber,hans Karl,Undirected,1
+ban,ber,Undirected,1
+J,ban,Undirected,1
+Ravn,ban,Undirected,2
+Bertel,ban,Undirected,1
+Moer Berg,hendet,Undirected,1
+Grethe Berg,hendet,Undirected,1
+Grethe Berg,Moer Berg,Undirected,1
+Adler,Grethe Berg,Undirected,1
+Grethe Berg,ban,Undirected,1
+hølde fit,van Hemmert,Undirected,1
+Worm,hølde fit,Undirected,1
+Herman Boldt,Worm,Undirected,1
+Herman,Van Hemmert,Undirected,2
+Herman,WorM,Undirected,1
+Gud,WorM,Undirected,1
+ban,van Hemmert,Undirected,1
+Herman,ha r,Undirected,1
+Christine Hemmert,Jsabclli Gyldenholm,Undirected,1
+Dokforen,Hølstein,Undirected,1
+Bertram,sra Erik,Undirected,1
+Erik/,Pralhansen,Undirected,1
+Pralhansen,Venus,Undirected,1
+Bertram,Ieg,Undirected,1
+Amor,Ieg,Undirected,1
+Mosio Erik,spase,Undirected,1
+Erik,Mosio Erik,Undirected,1
+Grethe Berg,Lind,Undirected,1
+Asten,van Hemmert,Undirected,1
+Herman Boldt,Natvindcns,Undirected,1
+Herman,øg Erik,Undirected,2
+Grev Ahlefeldt,stg,Undirected,1
+Erik,Gud,Undirected,1
+Erik,fig,Undirected,1
+Kaarde,fig,Undirected,1
+Grev Ahlefeldt,Kaarde,Undirected,1
+Hr. Greve,Ieg,Undirected,1
+Herman Boldt,Hr. Greve,Undirected,1
+Eder,Herman,Undirected,1
+Isabelle,Lind,Undirected,2
+Frøken Jsabelles,Herman,Undirected,1
+Herman,Isabelle,Undirected,27
+Baron Knuth,Grev Gyldenholm,Undirected,1
+Bertram,Grev Gyldenholm,Undirected,1
+Greven,Isabelle,Undirected,2
+Isabelle,bun,Undirected,2
+Hermans Kaarde,Isabelle,Undirected,1
+Herman,Hermans Kaarde,Undirected,1
+Grev Gyldenholm,Lind,Undirected,1
+Grev Gyldenholm,Herman,Undirected,4
+Dina Winhoffer,Grev Ulfeldt øg,Undirected,1
+Herman Boldt,fig,Undirected,1
+Herman Boldt,Isabelle Gyldenholm,Undirected,4
+Herman Boldt,Herman seire,Undirected,1
+Herman seire,Jsabellas,Undirected,1
+Greve,Jsabellas,Undirected,1
+Herman,Jsabelles,Undirected,5
+All,Herman,Undirected,1
+Christine Hemmert,Isabelle,Undirected,2
+Worm,ovcrgaar Christines,Undirected,1
+Køngen,ovcrgaar Christines,Undirected,1
+Gyldenholm,Ieg,Undirected,3
+Gyldenholm,Herman Boldt,Undirected,10
+Ieg,Isabelle,Undirected,1
+Gyldenholm,Worm,Undirected,1
+Bien,Worm,Undirected,1
+Herman,Isabella,Undirected,1
+Gud,Isabelle,Undirected,1
+Ahlefeldt,Holstein,Undirected,1
+Christine,Holstein,Undirected,1
+Ester,Isabelle,Undirected,1
+Ahlefeldt,Isabelle,Undirected,3
+Gyldenholm,jø,Undirected,1
+Isabelle,Worm,Undirected,1
+JsabclleS,fig,Undirected,1
+Ahrensdorff,Isabelle,Undirected,1
+Frederik den,Lovise,Undirected,1
+ban,sknlde,Undirected,1
+Isabelle,beile,Undirected,2
+Isabelle,Viereck,Undirected,1
+Charlotte Schindel,Viereck,Undirected,1
+Anna Rcventlow,Charlotte Schindel,Undirected,1
+Anna Rcventlow,bam,Undirected,1
+bam,elsfede,Undirected,1
+Anna Reventlows,Gud,Undirected,1
+Anna Reventlows,Arensen,Undirected,2
+Arensen/,Isabelle,Undirected,1
+Anna Reventlow,Arensen/,Undirected,1
+Anna Reventlow,øg,Undirected,1
+Isabelle,riibage,Undirected,1
+Greven,Juan,Undirected,7
+Herman Boldt,jø,Undirected,2
+Herman,Holstein,Undirected,1
+Gyldenholm,Holstein,Undirected,1
+Gyldenholm,Komtesse Jsabellcs,Undirected,1
+Christine,Isabelle,Undirected,2
+Herman,rhi,Undirected,1
+Jakøb,øg Herman,Undirected,1
+Herman,øg Herman,Undirected,1
+Gyldenholm,Herman,Undirected,11
+Skjonhev,ver,Undirected,1
+Herman,Løgis,Undirected,2
+De,Herman,Undirected,1
+Gyldenholm,Herman Bolt,Undirected,1
+Gyldenholm,Karl,Undirected,1
+Isabelle,Karl,Undirected,1
+Ahlefeldt,Komtessens,Undirected,1
+Ahlefeldt,Grev Gyldenholm,Undirected,2
+Grev Gyldenholm,Isabelle,Undirected,1
+Herman,Lvs,Undirected,1
+Erik,Lvs,Undirected,1
+Greven,Gud,Undirected,3
+Gud,Hr. Greve,Undirected,1
+Greven,Sluttercn,Undirected,1
+Aare,øg,Undirected,1
+Greve,øg,Undirected,1
+Greve,Greven,Undirected,1
+Greven,tøg,Undirected,1
+Greven,Pidfi,Undirected,1
+Herman,Principals,Undirected,1
+Herman,iforgaars,Undirected,1
+Herman,Lvst,Undirected,1
+B tram,Herman,Undirected,1
+Ahlefeldt,Ahlefelvt,Undirected,1
+Ahlefelvt,Herman,Undirected,1
+Herman,Komtesse Gyldenholm,Undirected,1
+Herman,vaagne,Undirected,1
+Komtesse Gyldenholm,Komtessen,Undirected,1
+Fløirespillcrs,Gyldenholm,Undirected,1
+Herman Boldt,slak,Undirected,1
+Hcxeri,slak,Undirected,1
+Gyldenholm,Hcxeri,Undirected,1
+Ieg,Komtesse Gyldenholm,Undirected,2
+Grev Ahlefelds,Herman,Undirected,1
+Isabelle,Isabelle Gyldenholm,Undirected,2
+Herman,Isabelle Gyldenholm,Undirected,1
+Herman Boldt,Isabelle,Undirected,1
+Anna Reventlow,Dorothea Biehl,Undirected,1
+Herman,barbarifle,Undirected,1
+Grev Ahlefeldt,Herman Boldt,Undirected,2
+Ahlefeldt,Lakaien,Undirected,2
+Chistian den,Gemal,Undirected,1
+Chistian den,Frederik den Tredie,Undirected,1
+Jnan,fig,Undirected,1
+Greven,Jnan,Undirected,2
+Isabelle,Sophie,Undirected,1
+Isabelle,Komtessen,Undirected,1
+Herman Boldt,Komtessen,Undirected,2
+Christian,Christian den Forste,Undirected,1
+Ahlefeldt,Droningcn,Undirected,1
+Droningcn,Herman Boldt,Undirected,1
+jø,slak Grev Ahlefeldt,Undirected,1
+Herman,slak Grev Ahlefeldt,Undirected,1
+Ieg,Karl,Undirected,1
+Ahlefeldt,Gyldenholm,Undirected,5
+Gyldenholm,Herman Bold,Undirected,1
+Ahlefeldt,Juan,Undirected,1
+Juan,lhans,Undirected,1
+Grev Gyldenholm,Saars,Undirected,1
+Greven,taug,Undirected,1
+Gyldenholm,Juan,Undirected,2
+Grev Gyldenholm,Herman Boldt,Undirected,3
+Gud,Herman Boldt,Undirected,1
+Grev Gyldenholm,Herman Boldl,Undirected,1
+Eder,Isabelle,Undirected,1
+Kong Frederiks,Køngen,Undirected,1
+Adam,Køngen,Undirected,1
+Isabelle Gyldenholm,øg,Undirected,1
+Herman Boldl,Isabelle Gyldenholm,Undirected,1
+Herman Boldl,fig,Undirected,1
+Herman Boldl,Isabelle,Undirected,1
+Grev Gyldenholm,Køngen,Undirected,1
+Herman Boldl,Køngen,Undirected,1
+Gyldenholm,Herman Boldl,Undirected,1
+Frederik,Herman Boldt,Undirected,1
+Elsfede,Herman,Undirected,1
+Isabelle,Jsabelles,Undirected,1
+ban,bavde,Undirected,1
+Juan,Karl,Undirected,2
+Christian den,Frederik den Tredie,Undirected,1
+Isabelle,Sciren,Undirected,1
+Christian,Herman,Undirected,1
+Herman Boldt,Kapitain,Undirected,1
+Herman,Køngen,Undirected,1
+Ieg,Knuth,Undirected,1
+Frederik,Stralsund,Undirected,1
+Carl,Stralsund,Undirected,1
+Carl,Vezir,Undirected,1
+Vezir,svensie,Undirected,1
+jø,svensie,Undirected,1
+Grev Gyldenholm,Herman Boldt tøg,Undirected,1
+Grev Gyldenholm,Gørkz,Undirected,1
+Gørkz,Karl,Undirected,1
+Gustav,Herman,Undirected,1
+Johan,tys,Undirected,1
+Claus,Peiter,Undirected,1
+Juan,Peiter,Undirected,1
+Claus,Juan,Undirected,1
+Herman,Juan,Undirected,13
+Juan,Juan bi,Undirected,1
+Boldt,Msie,Undirected,1
+Carl,Karl,Undirected,1
+Grev Gyldenholm,Juan,Undirected,2
+Grev Gyldenholm,Gyldenholm,Undirected,2
+Franst,Herman,Undirected,1
+Carl den,fig,Undirected,1
+Carl Gustav,Carl den,Undirected,1
+Carl Gustav,Frederik den Tredie,Undirected,1
+Herman,fluide,Undirected,1
+Dewitz,Kong Frederiks,Undirected,1
+Dessau,Dewitz,Undirected,1
+Dessau,Willens,Undirected,1
+Herman,Køng Frederik,Undirected,1
+Kong Frederik,Ryge,Undirected,1
+Detvitz,Kong Frederik,Undirected,1
+Detvitz,Herman Boldt,Undirected,1
+Herman Boldt,dam,Undirected,1
+Herman,Jsabellcs,Undirected,1
+Jsabellcs,van Hemmert,Undirected,1
+Clara,øg,Undirected,1
+Mathilde,øg,Undirected,1
+Mathilde,taug,Undirected,1
+taug,øg,Undirected,1
+Christine,van der Hemmert,Undirected,1
+Herman,Rav »,Undirected,1
+Gyldenholm,ester,Undirected,1
+Jomfru Marie,Seil,Undirected,1
+Gyldenholm,stg,Undirected,1
+Ieg,Juan,Undirected,1
+Gyldenholm,Jnan,Undirected,1
+Jnan,iland,Undirected,1
+Anna Reventlow,Greven,Undirected,1
+Herman Boldt,Karl,Undirected,1
+Juan,Ravn,Undirected,4
+Isabelle,Juan,Undirected,2
+Ravn,fig,Undirected,1
+Juan,fig,Undirected,2
+Juan,paany,Undirected,1
+J^Doren,fig,Undirected,1
+Ravn,hu,Undirected,1
+Juan,svarrde,Undirected,1
+Juan,Sopha,Undirected,1
+Comtesse,Gyldenholm,Undirected,1
+Juan,fluide,Undirected,1
+Hnn,Juan,Undirected,1
+Isabelle,fig,Undirected,1
+Grev Ahlefeldt,Isabelle,Undirected,1
+Gyldenholm,cn slor,Undirected,1
+Grev Ahlefeldt,Grev Gyldenholm,Undirected,1
+Grev Ahlefeldt,Gyldenholm,Undirected,1
+Juan,ban,Undirected,1
+Baron Hahn,Gyldenholm,Undirected,1
+Grev Gyldenholm,Hahn,Undirected,1
+Gyldenholm,øg,Undirected,1
+Juan,næsfen,Undirected,1
+Juan,paatøg,Undirected,1
+Herman,Sømandcns,Undirected,1
+Karl,Sømandcns,Undirected,1
+Grev Gyldenholm,keres,Undirected,1
+Jørgen,Ole,Undirected,1
+Grev Gyldenholm,Ole,Undirected,2
+Gyldenholm,Ormen,Undirected,1
+Juan,Ole,Undirected,1
+Karl,ester,Undirected,1
+ban,waasfe,Undirected,1
+Carl den Tolvte,Jsbro,Undirected,1
+Herman Boldt,Kong Frederik,Undirected,1
+Jsabelles,Moer Berg,Undirected,1
+Moer Berg,flulde,Undirected,2
+Comtesse,siulke,Undirected,1
+Herman,ester van Hemmert,Undirected,2
+Henriette,Herman,Undirected,2
+Emilie,Henriette,Undirected,1
+Anton,Emilie,Undirected,1
+Carl den Tolvte,Herman,Undirected,1
+Henriette,Van Hemmert,Undirected,1
+Christine,Henriette,Undirected,1
+Ahlefeldt,Henriette,Undirected,4
+Ahlefeldt,hau,Undirected,1
+Moer Berg,Salomon Adler,Undirected,1
+Moer Berg,Salomon Adlers Spaadom,Undirected,1
+Moer Berg,ban,Undirected,1
+ban,dam,Undirected,1
+Moer Berg,fig,Undirected,1
+Jeremias,Salomon Adler,Undirected,1
+Asfe,Salomon Adler,Undirected,1
+Asfe,ine,Undirected,1
+Herman,maasfe,Undirected,1
+Salomon Adler,fig,Undirected,1
+Herman,Profeten,Undirected,1
+Herman Gyldenholm,Noah,Undirected,1
+Herman,Kong Frederik,Undirected,3
+Herman,Salomon Adler,Undirected,2
+Rav,øg,Undirected,1
+Salomon Adler,øg,Undirected,1
+Jø,Moer Berg,Undirected,1
+Moer Berg,Rav,Undirected,1
+Salomo »,ban,Undirected,1
+Frederik,Herman,Undirected,1
+Frederik,Kronprinds Christian,Undirected,1
+Isabelle,dans,Undirected,1
+Ahlefeldf,Henriette,Undirected,1
+Henriette,ban,Undirected,1
+Gud,van Hemmert,Undirected,1
+Grev Gyldenholm,Seil,Undirected,1
+AhllseldtS,Ln Feber,Undirected,1
+AhllseldtS,Herman,Undirected,1

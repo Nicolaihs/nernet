@@ -1,0 +1,519 @@
+source,target,timestamp
+Svend Estridsen,Torkel Gejse,2
+Magnus den,Svend Estridsen,2
+Magnus den,Svend,2
+Døttre,Svend,2
+Ankere,Døttre,2
+Ankere,Kong Haralds,2
+Harald,Kong Haralds,2
+Niels Knudsen,Signe,3
+Signe,Torkels,3
+Astrid,Torkels,3
+Astrid,Torkel Gejse,3
+Kong Svend,Torkel Gejse,3
+Kong Svend,Signe,3
+Niels Knudsen,Signe,3
+Asfrid,Dote,7
+Inge,Niels Knudsen,10
+Dote,Else,11
+Dote,Niels,16
+Astrid,Dote,17
+Astrid,Dote,17
+Kong Harald,Niels Knudsen,23
+Kong Harald,Torkes,26
+Kong Harald,Niels Knudsen,27
+Kong Harald,Niels Knudsen,28
+Dote,Niels Knudsen,30
+Astrid,Inge,31
+Harald Haarderaade,Torkel Gejse,35
+Kong Harald,Torkel Gejse,39
+Inge,Niels,40
+Inge,Niels Knudsen,42
+Inge,Niels Knudsen,46
+Astrid,Inge,49
+Astrid,Dote,49
+Jomfruen,Torkel,52
+Svend Estridsen,Ulf Jarl,56
+Knud den,Ulf Jarl,56
+Estrid,Knud den,56
+Estrid,Knud den,56
+Anund Jakob,Knud den,56
+Anund Jakob,Gyda,56
+Magnus den,Olaf den,57
+Knud den,Magnus den,57
+Hardeknud,Knud den,57
+Gøtaelvens,Hardeknud,57
+Hardeknud,Svend,58
+Hardeknud,Ulf Jarl,58
+Svend,Ulf Jarl,58
+Hardeknud,Svend,59
+Hardeknud,Svend,59
+Hardeknud,Svend,59
+Harald,Hardeknud,59
+Harald,Hardeknud,59
+Hardeknud,Magnus,59
+Magnus,Svend,59
+Magnus,Svend,59
+Magnus,Svend,59
+Knud den,Svend,59
+Hardeknud,Knud den,59
+Edvard,Hardeknud,59
+Edvard,Svend,59
+Edvard,Svend,59
+Svend,Thorkel Gejse,60
+Svend,Thorkel Gejse,60
+Magnus,Svend,60
+Magnus,Svend,60
+Annnd Jakob,Harald Haarderaade,61
+Ellisif,Harald Haarderaade,61
+Ellisif,Harald,61
+Harald,Magnus,61
+Harald,Magnus,61
+Harald,Svend,61
+Magnus,Svend,61
+Jakob,Magnus,61
+Jakob,Svend,61
+Harald,Magnus,63
+Harald,Magnus,63
+Harald,Magnus,63
+Harald,Magnus,63
+Magnus,Svend,63
+Kong Magnus,Svend,64
+Gud,Kong Magnus,64
+Svend,Thorkil,65
+Heming,Thorkil,65
+Heming,Jarl Harald,65
+Jarl Harald,Ordulf,65
+Edvard,Knud den,66
+Edvard,Kong Svend,66
+Harald,Heming,67
+Heming,Svend,67
+Asmund,Thorkil,68
+Svend,Thorkil,68
+Asmund,Svend,69
+Svend,dg,69
+Asmund,Kong Svend,70
+Asmund,Ivar Eriksen,70
+Ivar Eriksen,Oluf Mus,70
+Bent Ulfsen,Oluf Mus,70
+Asmund,Thorlejf,71
+Dronning Gydas,Ivar Eriksen,72
+Svend,Torkel Gejse,92
+Asmnnd,Svend,94
+Asmnnd,Niels Knudsen,95
+Erik,Niels Knudsen,95
+Erik,Niels,95
+,Niels,95
+,Torkel Gejse,95
+Erik Bjørnsen,Torkel Gejse,102
+Erik Bjørnsen,Torkel,102
+Else,Vemund,109
+Else,Thore Fifler,117
+Kong Harald,Kong Svend,119
+Kong Svend,Svend,120
+Harald,Svend,120
+Kong Harald,Kong Svend,122
+Harald,Kong Svend,123
+Harald,Knud,123
+Else,Uffe,128
+Oluf,Uffe,128
+Else,Oluf Mus,129
+Dronning Gydas,Jomfru Else,139
+Else,sfal,142
+Jomfru Else,Oluf Mus,143
+Else,Oluf Mus,143
+Else,Oluf Mus,144
+Else,Uffe,144
+Erik Bjørnsen,Uffe,144
+Aslak,Erik Bjørnsen,144
+Oluf,Uffe,145
+Aslak,Uffe,145
+Else,Uffe,147
+Else,Uffe,148
+Thorkel Gejse,Uffe,149
+Erik Bjørnsen,Torkel Gejse,150
+Aslak,Torkel Gejse,150
+Harald,Torkel,152
+Aslak,Torkel,152
+Aslak,Erik,153
+Erik,Uffe,153
+Else,Uffe,155
+Aslak,Uffe,156
+Aslak,Else,159
+Else,Uffe,159
+Else,Uffe,159
+Else,Uffe,161
+Oluf Mus,Uffe,161
+Else,Oluf Mus,161
+Else,Ridder Olufs,161
+Else,Uffe,162
+Else,Uffe,163
+Aslak,Uffe,166
+Erik Bjørnsen,Uffe,167
+Aslak,Uffe,167
+Inge,Niels Knndsen,168
+Inge,Torkel Gejse,168
+Harald,Torkel Gejse,168
+Erik Bjørnsen,Harald,168
+Erik Bjørnsen,hans Døttre,168
+Jomfru Dotes,Niels Knudsen,169
+Jomfru Dotes,Torkel Gejse,169
+Niels Knudsen,Torkel Gejse,169
+Niels Knudsen,Torkel Gejse,169
+Niels Knudsen,Torkel Gejse,169
+Niels Knudsen,b.,169
+Dote,b.,169
+Dote,Torkel Gejse,169
+Niels Knudsen,Torkel Gejse,169
+Niels Knudsen,Torkel Gejse,170
+Niels Knudsen,Torkel,170
+Jomfru Maries,Torkel Gejse,171
+Erik Bjørnsen,Torkel Gejse,172
+Astrid,Torkel Gejse,173
+Erik Bjørnsen,Torkel Gejse,173
+Astrid,Torkel Gejse,174
+Astrid,Erik Bjørnsen,175
+Astrid,Torkel Gejse,175
+Astrid,Kong Harald,176
+Astrid,Erik Bjørnsen,177
+Asmund,Astrid,178
+Astrid,Torkel Gejse,178
+Erik Bjørnsen,Torkel Gejse,178
+Astrid,Erik Bjørnsen,179
+Asmund,Astrid,179
+Asmund,Erik Bjørnsen,181
+Asmund,Erik Bjørnsen,181
+Erik Bjørnsen,Torkel Gejse,185
+Erik Bjørnsen,Torkel,189
+Gyda,Kong Svends Borg,199
+Skjalm Hvide,soer,205
+Skjalm,ester,211
+Gud,J,214
+Gyda,Skjalm Hvide,220
+Gyda,Skjalm Hvide,220
+Gyda,Svend Estridsen,221
+Harald,Svend,226
+Harald,Svend,226
+Harald,Svend,228
+Harald,Kong Harald,228
+Kong Harald,Kong Svend,230
+Kong Harald,Kong Svend,230
+Kong Harald,Skjalg Erlingsen,242
+Harald,Kong Harald,242
+Harald,Svend Estridsen,244
+Harald,Svend felv,244
+Harald,ester,245
+Kong Harald,Svend Estridsen,247
+Kong Harald,Skjalg Erlingsen,249
+Kong Harald,Kong Svend,252
+Gud,Svend,254
+Harald,Kong Svend,255
+Asmund,Kong Svend,257
+Kong Svend,Svend,259
+Dronning Gydas,Svend,260
+Aslak,Asmund,262
+Aslak,Asmund,262
+Asmund,Kong Harald,266
+Svend,Thora,268
+Gyda,Thora,268
+Gyda,Thora,268
+Thora,hnn,268
+Gyda,Torlejf,271
+Thorvald,kcek,278
+Signelil,Thorvald,279
+LEdle,Torlejf,281
+Gyda,Torlejf,282
+Thore Fisfer,Torlejf soer,284
+Jomfru Thora,Torlejf,291
+Kong Svend,Thora,292
+Kong Svend,Torlejf,294
+Dronning Gyda,Torlejf,296
+Dronning Gyda,Kong Svend,296
+Jomfru Thora,Kong Svend,296
+Jomfru Thora,Thora,296
+Krist,Torlejf,298
+Thora,Torlejf,301
+Thora,Torlejf,301
+Thora,Torlejf,307
+Thora,Torlejf,308
+Else,Gunhild,310
+Else,harr,310
+Svend,harr,310
+Hel,Kong Magnus,312
+Hel,Regbus,312
+Kong Magnus,Regbus,312
+,Kong Magnus,312
+,Kong Magnus,312
+,Kong Magnus,312
+Kong Magnus,Olaf,313
+Else,Mus,316
+Else,Oluf Mus,317
+Else,Oluf Mus,319
+Oluf Mus,Uffe,321
+Oluf Mus,Uffe,321
+Oluf Mus,Uffe,321
+Else,Uffe,321
+Uffe,moo,323
+Else,Oluf Mus,324
+Else,Kong Svend,324
+Oluf Mus,Uffe,325
+Audun,Bjørn,334
+Audun,Bjørn,336
+Bjørn,Kong Harald,336
+Bjørn,Kong Harald,336
+Bjørn,Øu,336
+Harald,Øu,336
+Svend,Øu,337
+Svend,Øu,337
+Harald,Øu,337
+Harald,Øu,337
+Audun,Kong Svend,338
+Harald,Svend,339
+cg,jez,341
+Kong Svend,cg,341
+Aage,Svend,342
+Svend,Uffe,346
+Kong Svend,Uffe,346
+Bent Ulfsen,Svend,347
+Asmund,J,350
+Kong Svend,Uffe,356
+Mus,Oluf,358
+Bent,Mus,358
+Kong Svend,Uffe,362
+Svend,paany,365
+Oluf Mus,Uffe,366
+Else,Oluf Mus,366
+Svend,Uffe,368
+Kong Svend,Uffe,372
+Bent Ulfsen,Oluf Mus,374
+Oluf Mus,Uffe,375
+Bent Ulfsen,Uffe,376
+,Oluf Mus,379
+,Bent Ulfsen,379
+Uffe,soer,380
+,Oluf Mus,383
+,Uffe,383
+Kong Svend,Uffe,386
+Svend Estridsen,Vilhelm,387
+Svend,Vilhelm,387
+Knud den,Svend,387
+Knud den,Svend,387
+Aond,Vilhelm flildres,388
+Else,Uffe,398
+Bent Ulfsen,Uffe,405
+Else,Uffe,409
+Else,Uffe,412
+Else,Uffe,418
+Else,Oluf Mus,418
+,Oluf Mus,419
+Else,No,428
+Thora,Torlejf,430
+Thora,Torlejf,431
+Thora,Torlejf,436
+Svend,Torlejf,437
+Kong Harald,Svend,437
+Kong Harald,Svend,437
+Audun,ester,442
+Thora,Thorlejf,443
+Thora,Thora vrlde,445
+Kong Svend,Thorlejf,452
+Kong Svends Frille,Torlejf,453
+Kong Svend,Thora,454
+Kong Svend,Torlejf,454
+Gyda,Torlejf,454
+Gyda,Svend,454
+Dronning Gyda-,Torlejf,460
+Kærlmgs,Thora,461
+Dronning Gyda,Thora,468
+Gyda,Thora,474
+Kong Svend,ane,478
+Thora,ane,478
+Thora,Torlejf,479
+Kong Svend,Torlejf,479
+Gyda,ester,480
+Vilhelm,ester,480
+Thora,Torlejf,481
+Kong Svend,Thora,483
+Svend,Thora,484
+Dronning Gyda,Torlejf,485
+Gud,Torlejf,485
+Dote,Signe,486
+Asmund,Gunhild,492
+Asmund,Gunhild,492
+Anund Jakob,Svend,501
+Anund Jakob,Emund,501
+Anund Jakob,Svend,502
+Anund Jakob,Magnus,502
+Anund Jakob,Magnus,502
+Anund Jakob,Svend,502
+Magnus,Svend,502
+Emund,Svend,503
+Anunds,Svend,504
+Gunhild,Svend,504
+Gunhild,Svend,504
+Adelbert,Svend,504
+Adelbert,kydfl,504
+Vilhelm,kydfl,504
+Lunds,Vilhelm,504
+Egino,Lunds,504
+Egino,Vilhelm,504
+Adelbert,Vilhelm,504
+Adelbert,Svend,504
+Svend,Vilhelm,504
+Adelbert,Svend,505
+Adelbert,Svend,506
+Gunhild,Kong Svend,507
+Munk,Svend,511
+Adelbert,Vilhelm,515
+Adelbert,Kong Svend,515
+Gud,vsr,526
+Kong Harald,Svend,530
+Kong Harald,Kong Svend,532
+Skjalm Hvide,Svend,536
+Gunhild,Svend,538
+Gud,Gunhild,538
+Adelbert,Vilhelm,543
+Kong Svend,Vilhelm,545
+Harald,Svend,551
+Erik Bjørnsen,Niels Knudsen,552
+Erik,Niels Knudsen,552
+Erik,Niels,552
+Astrid,Niels,552
+Astrid,Torkel Gejse,552
+Erik Bjørnsen,Torkel Gejse,552
+Erik Bjørnsen,jnft,552
+Harald,jnft,552
+Harald,Torkel Gejse,552
+Erik Bjørnsen,Torkel Gejse,552
+Erik Bjørnsen,Harald,552
+Harald,rasf,552
+Torkel Gejse,rasf,552
+Harald,Torkel Gejse,552
+Harald,Svend,552
+Erik Bjørnsen,Torkel Gejse,553
+Saar,Torkel Gejse,553
+Astrid,Saar,553
+Astrid,Erik Bjørnsen,554
+Astrid,daJ,558
+Astrid,Erik Bjørnsen,564
+Erik Bjørnsen,Torkel Gejse,569
+Astrid,Torkel Gejse,569
+Astrid,Torkel,569
+Astrid,Erik Bjømien,571
+Astrid,Torkel,571
+Gunhild,Svend,572
+Gunhild,ester,577
+Dronning Gunhild,Svend,578
+Svend,trine,578
+Svend,Svend flal,579
+Gunhild,Sigrid,581
+Gud,Gunhild,583
+Munk,Tu,586
+Svend,sif,589
+Gunhild,maasfe,593
+Svend,maasfe,593
+Svend,Thora,593
+Gunhild,Thora,593
+Gunhild,Kong Harald,593
+Harald,Olaf Trygvasons,595
+Kong Harald,Olaf Trygvasons,595
+Ejsten Orre,Kong Harald,595
+Ejsten Orre,Gisie,595
+Gisie,UlfUspaksen,595
+Ejsten,UlfUspaksen,595
+Ejsten,Harald,595
+Harald,Thora,595
+Magnus,Thora,595
+Magnus,Olaf,595
+Harald,Svend,596
+Harald,Svend,596
+Harald,Svend,597
+Harald,Kong Svend,598
+Svend,stete,600
+Find Arnesen,Svend,600
+Find Arnesen,Harald,600
+Finds,Harald,600
+Finds,Kalfs Arnesen,600
+Kalfs Arnesen,Ulf Galiciefarer,600
+Svend,Ulf Galiciefarer,600
+Bodil,Svend,600
+Bodil,Skjalm Hvide,600
+Skjalm Hvide,Trund Fagerskind,600
+Jarl Harald,Trund Fagerskind,600
+Jarl Harald,Thorkild,600
+Heming,Thorkild,600
+Heming,Svend,600
+Asbjørn,Svend,600
+Asbjørn,Asmund,600
+Asmund,Harald,600
+Harald,Harald Hejn,600
+Harald,Svend,601
+Skjalm Hvide,Svend,603
+Aslak,Skjalm Hvide,603
+Harald,Skjalg Erlingsen,604
+Skjalg Erlingsen,Svend,604
+Harald,Svend,605
+Hakon Jvarsen,Harald,606
+Hakon Jvarfen,Svend,607
+Harald,Svend,608
+Harald,Stavn,608
+Stavn,Svend,608
+Arnesen,Svend,608
+Arnesen,Harald,608
+Hakon Jvarsen,Svend,609
+Hakon Jvarsen,Karl,614
+Vanraad,nelop,616
+Karl,Vanraad,616
+Hakon Jvarsen,Karl,616
+Hakon Jvarsen,Karl,616
+Hakon,Karl,616
+Karl,Kongerile,619
+Karl,Kong Svend,624
+Harald,Svend,625
+Kong Harald,Svend,625
+Kong Harald,Magnus,625
+Erlingsen,Magnus,625
+Magnus den,Svend Estridsen,626
+Magnus den,Villiam Erobreren,626
+Harald Haarderaade,Villiam Erobreren,626
+Harald,Svend,627
+Harald,Svend,627
+Harald,Svend,627
+Harald,Svend,627
+Harald,Olaf Kyrre,628
+Olaf Kyrre,Svend,628
+Harald,Svend,628
+Harald,Svend,628
+Olaf Kyrre,Svend,628
+Olaf Kyrre,Svend,628
+Ingerid,Svend,628
+Ingerid,Svend,628
+Karl Bonde,Svend,628
+Hakon Jvarsen,Svend slod,631
+Hakon Jvarsen,Jarletitel,631
+Harald,Jarletitel,631
+Harald,Jarl,631
+Harald,Jarl,631
+Hakon,Harald,631
+Harald,Svend,632
+Hakon Jvarsen,Svend,632
+Hakon Jvarsen,Harald,632
+Hakon,Harald,632
+Hakon,Kong Svend,632
+Jarl,Kong Svend,632
+Asmund,Svend,633
+Hakon Jvarsen,Svend,635
+Asmund,Svend,635
+Asmund,Jarlen,635
+Hakon,Jarlen,635
+Asmnnd,Asmund,636
+Asmund,Hakon Jvarsen,636
+Asmnnd,Hakon Jvarsen,636
+Asmund,Uffe,637
+Asmund,Hakon Jvarsen,638
+Svend,Vilhelm,641
+Svend,Vilhelm,641
+Svend,Vilhelm,641
+Gunhild,Vilhelm,641
+Gunhild,Svend,641
+Svend,Vilhelm,641

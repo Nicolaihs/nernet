@@ -1,0 +1,334 @@
+source,target,type,weight
+Gustav,Hammer,Undirected,1
+Gustav,Thee,Undirected,2
+Folkman,Gustav,Undirected,18
+Adam Folkman,Gustav,Undirected,9
+Fvlkmans,Gustav Hammer,Undirected,1
+Fvlkmans,Gustav,Undirected,1
+Adam,Folkman,Undirected,4
+Betty,Fanny,Undirected,11
+Felkman,Madsen,Undirected,1
+Falkman,Gustav,Undirected,1
+Betty,Folkman,Undirected,4
+Gustav,Margrethe,Undirected,5
+Gustav,Jensen-Svendsen,Undirected,3
+Fru Hammers,Jensen-Svensen,Undirected,1
+Fru Hammers,Svendsen,Undirected,1
+Schwennson,Svendsen,Undirected,1
+Blixen-Fineste,Schwennson,Undirected,1
+Bille-Brahe,Blixen-Fineste,Undirected,1
+Bille-Brahe,Holsien-Lehn osv.,Undirected,1
+Holsien-Lehn osv.,Jensen,Undirected,1
+Jensen,Jensen-Svendsen,Undirected,1
+Jensen-Svendsen,Olsen,Undirected,1
+Olsen,Olsen-Jensm-Svendsen,Undirected,1
+Olsen-Jensm-Svendsen,strax,Undirected,1
+Jensen-Svendsen,strax,Undirected,1
+Charles Jensen-Svendsen,Jensen-Svendsen,Undirected,1
+JensenSvendsen,Margrethe Hammer,Undirected,1
+Dagmar,Gustav,Undirected,6
+Dagmar,Jensen-Svendsen,Undirected,3
+Dagmar,Margrethe,Undirected,4
+Adam Folknian,Gustav,Undirected,1
+Charles,Gustav,Undirected,8
+Charles,Heire,Undirected,1
+Charles,Majors,Undirected,1
+Adam Folkman,Majors,Undirected,1
+Charles Jensen-Svendsen,Gustav,Undirected,4
+Adam Folkman,Betty,Undirected,1
+Adam,Gustav,Undirected,5
+Adam,Adam Folkman,Undirected,1
+Adam,Madsen,Undirected,5
+Adam.,Madsen,Undirected,1
+Adam saae Madsen,Fanny,Undirected,1
+Madsen,sfal,Undirected,1
+Døttre,Madsen,Undirected,1
+Hr. Madsen,Madsen,Undirected,2
+Hr. Madsen,fluide,Undirected,1
+Fortepiano,fluide,Undirected,1
+Fortepiano,Nei,Undirected,1
+Hr. Madsen,Nei,Undirected,1
+Ten,loe Betty,Undirected,1
+Adam,Fanny,Undirected,5
+Adam,Betty,Undirected,1
+Fanny,Gisiermaal,Undirected,2
+Fanny,ai,Undirected,1
+Fanny,Hr. Madsen,Undirected,1
+Gustav,N.,Undirected,1
+Gustav,Student Hammer,Undirected,1
+Gustao,Student Hammer,Undirected,1
+Adam Folkman,Gustao,Undirected,1
+Adam Folkman,Adam strax,Undirected,1
+Adam strax,ril Jernporten,Undirected,1
+Gustav,ril Jernporten,Undirected,1
+Adam loe,Gustav,Undirected,1
+Gustav,Taterlioet,Undirected,1
+Fanny,JostyS,Undirected,1
+Fanny,Folkman,Undirected,10
+Fanny,Gustav,Undirected,8
+Adam Folkman,Fanny,Undirected,1
+Betty,Gustav,Undirected,19
+Betty,Taterlioet,Undirected,1
+Carl Flimby,Gustav,Undirected,5
+Adam,Flimby,Undirected,1
+Betty,Gustav Hammer,Undirected,1
+Betty,Gusfav,Undirected,1
+Gusfav,Jensen-Svendsen,Undirected,1
+Dagmar,Gnstav,Undirected,2
+Gusfav,Margrethe,Undirected,2
+Guslav,Jensen-Svendsen,Undirected,1
+Dagmar,Dagmors,Undirected,1
+Grethe,Guslav,Undirected,1
+Graad,Gusfav,Undirected,1
+Graad,Jensen-Svendsen,Undirected,1
+Grethe loe,Gustav,Undirected,1
+Dagmar,Grethe loe,Undirected,1
+Dagmar,nien Dagmar,Undirected,1
+Jensen-Svendsen,fluide,Undirected,2
+Dagmar,fluide,Undirected,2
+Gustav,kam,Undirected,2
+Gustao,Jensen-Svendsen,Undirected,1
+Gustao,sem,Undirected,1
+Tøbak,bun,Undirected,1
+Dagmar,mon Jensen-Svendsens,Undirected,1
+Gustav,mon Jensen-Svendsens,Undirected,1
+Betty,samnie,Undirected,1
+Margrethe,samnie,Undirected,1
+Dagmar,Jensen-Svcndsen,Undirected,1
+Etatsraad Wutki-Sørensen,Jensen-Svendsen,Undirected,1
+Etatsraad Wnlki-Sørensens,WutkiSørensens,Undirected,1
+Etatsraad Wnlki-Sørensens,Wutki-Sørensen,Undirected,1
+Johnsen,Madsen,Undirected,11
+Johnsen,mesf,Undirected,2
+Charles,Jensen-Svendsen,Undirected,1
+Charles,Dagmar,Undirected,3
+Charles,Johnsen,Undirected,1
+Majors,tanst,Undirected,1
+Ahneprsven,Jensen-Svendsen,Undirected,2
+Gustav,Wutki-Ssrensen,Undirected,1
+Gustav,dandse,Undirected,1
+Charles Jensen-Svendsen,Dagmors,Undirected,2
+Carl Flimby,Charles Jensen-Svendsen,Undirected,1
+Carl Flimby,Flimby,Undirected,2
+Flimby,Rosamunda —,Undirected,1
+Rosa —,Rosamunda —,Undirected,1
+Rosa —,loe,Undirected,1
+Carl Flimby,loe,Undirected,1
+Carl Flimby,Rosa,Undirected,1
+Poul cis Kocks,Rosa,Undirected,1
+Flimby,Rosa,Undirected,3
+Holbergs,Stengel,Undirected,1
+Holbergs,Pernille,Undirected,1
+Masfe,Pernille,Undirected,1
+Masfe,Stengel,Undirected,1
+Dagmors,Gustav,Undirected,2
+Christian Winther,Gustav,Undirected,2
+Ieg,Rosa,Undirected,1
+Gustav,Rosa,Undirected,4
+Ieg,Jomfru Richter,Undirected,1
+Jomfru Richter,Rosa,Undirected,1
+Carl Flimby,hon,Undirected,1
+Javisf,Rosa sfal,Undirected,1
+Jensen-Svendsen,Rosa sfal,Undirected,1
+Flimby,Gustav,Undirected,7
+Gustav,Peter Asie,Undirected,1
+Gustav,Kjøn,Undirected,1
+Kjøn,Tagmars,Undirected,1
+Gustav,ban,Undirected,3
+Gustav,Marie Richter,Undirected,2
+Gustav,Marie,Undirected,4
+Huusleie,hnn,Undirected,1
+bun,stiart,Undirected,1
+Kjæresten,høilys,Undirected,1
+Gustav,hnn,Undirected,1
+Flimby,Marie,Undirected,1
+Adam Folkman,Gusfav fluide,Undirected,1
+Adam Folkman,Gusfav,Undirected,1
+Adam,Gusfav,Undirected,3
+Folkman,Gusfav,Undirected,3
+Adam Falkman,Gusfav,Undirected,1
+Adam Falkman,Madsen,Undirected,1
+Fanny,Madsen,Undirected,2
+Esterat,Fanny,Undirected,1
+Folkman,Madsen,Undirected,3
+Gustav,Johnsen,Undirected,2
+Gustav,Major Jensen-Soendsens,Undirected,1
+Johnsen,Major Jensen-Soendsens,Undirected,1
+Johnsen,lhi,Undirected,1
+Hr. Johnsons,lhi,Undirected,1
+Hr. Johnsons,hans,Undirected,1
+Disfe Døttre,Fanny,Undirected,1
+Betty,Madsen,Undirected,7
+Agathe Johnsen,Bianca Johnsen,Undirected,1
+Bianca Johnsen,Madsen,Undirected,1
+Hammer,Madsen,Undirected,1
+Hammer,Øine,Undirected,1
+Betty,Øine,Undirected,1
+Mads Jørgensen,ban,Undirected,1
+Johnsen,ban,Undirected,1
+Fanny,Johnsen,Undirected,2
+Betty,Johnsen,Undirected,2
+Madam,Madsen,Undirected,1
+Jørgensen,Madam,Undirected,1
+Fanny,Prioatofficiantens,Undirected,1
+Jørgensen,Madsen,Undirected,3
+Oberst Bums,kjære Madsen,Undirected,1
+Johnsen,Jørgensen,Undirected,1
+Gustav,Jørgensen,Undirected,1
+Agathe Johnsen,Folkman,Undirected,1
+Johnsen,as Fanny,Undirected,1
+Agathe,jde LEldrc,Undirected,1
+Bianca,Fanny,Undirected,4
+Bianca,Folkman,Undirected,3
+Bianca,Maanelys,Undirected,1
+Fanny,Maanelys,Undirected,1
+Frøken Bianca,netov,Undirected,1
+Bianca,Madsen,Undirected,2
+Fanny,bun,Undirected,2
+Gustav,Madsen,Undirected,4
+Gustav,ai,Undirected,1
+Betty,ai,Undirected,1
+Jomfru Madsen,Tbi ban,Undirected,1
+Fannyy,Folkman,Undirected,1
+Fannyy,Prioatofficiant Johnsen reisfe,Undirected,1
+Agathe,Betty,Undirected,1
+Agathe,Bianca,Undirected,1
+Johnsen,Mads Jørgensen,Undirected,1
+Folkman,Mads Jørgensen,Undirected,1
+Mads Jørgensen,Madsen,Undirected,1
+Gustav,Husby,Undirected,1
+Folkman,Husby,Undirected,1
+Charles Jensen-Svendsen,Dagmar,Undirected,1
+Dagmar,Folkman,Undirected,2
+Gusfav,Marie Richter,Undirected,1
+Marie,Marie Richter,Undirected,1
+Gaae,Luise,Undirected,1
+Gustav,koni,Undirected,1
+Gustav,Jomfru Richter,Undirected,2
+Jomfru Richter,Luise,Undirected,1
+Folkman,Jomfru Richter,Undirected,1
+Gustav,Jomfru Richter kjørte,Undirected,1
+Husby,Jomfru Richter kjørte,Undirected,1
+Husby,Luise Vestergaards,Undirected,1
+Elsfer,Luise Vestergaards,Undirected,1
+Betty,Marie Richter,Undirected,1
+Charles JensenSvendsen,Gustav,Undirected,1
+Dagmors,Folkman,Undirected,1
+' Svendsen,Jensen,Undirected,1
+' Svendsen,Gustav,Undirected,1
+Jensen-Svendsen,Jntelligents,Undirected,1
+Jensen-Svendsen,nn,Undirected,1
+Gustav,nn,Undirected,1
+Gustav,Major Jensen-Svendsens,Undirected,1
+Hagh,Major Jensen-Svendsens,Undirected,1
+Charles,Hagh,Undirected,1
+Charles,Gustav medindbefattet,Undirected,1
+Gustav,Gustav medindbefattet,Undirected,1
+Betty,Gustao,Undirected,1
+Folkman,Gustao,Undirected,1
+Betty,paany,Undirected,2
+Betly,Gustav,Undirected,1
+Gustav,paany,Undirected,1
+Hagh,paany,Undirected,1
+Hagh,Wutki-Sørensen,Undirected,1
+Wutki-Sørensen,koni,Undirected,1
+Fox,koni,Undirected,1
+Fox,Hagh,Undirected,1
+Frøken Hammer,Hagh,Undirected,1
+Dagmar,Hagh,Undirected,1
+Hagh,Husby,Undirected,1
+Wulki-Sørensen,ber,Undirected,1
+Hagh,ber,Undirected,1
+Hagh,HuSby,Undirected,2
+Adam Folkman,Folkman,Undirected,2
+Folkman,dans,Undirected,2
+Charles Jensen-Svendsen,dans,Undirected,1
+Dagmors,Margrethe,Undirected,1
+Folkman,Margrethe,Undirected,7
+Charles Jensen-Svendsen,Folkman,Undirected,2
+Charles Jensen-Svendsen,tøus,Undirected,1
+Folkman,tøus,Undirected,1
+Folkman,Hagh,Undirected,3
+Folkman,Gud,Undirected,1
+Charles,Folkman,Undirected,2
+Hammer,Vulki-Sørensen bavde,Undirected,1
+Folkman,Hammer,Undirected,1
+Folkman,Taterliv,Undirected,1
+Flimby,Steone,Undirected,1
+Flimby,Jomfru Madsen,Undirected,1
+Marie Richter,sandsynligvus,Undirected,1
+Jomfru Madsen,Marie Richter,Undirected,1
+Flimby,Folkman,Undirected,3
+Holger Ulmann,Moses Josesson,Undirected,1
+Joscfson,Moses Josesson,Undirected,1
+Joscfson,Prygl,Undirected,1
+Adam Folkman,Tater,Undirected,1
+Folkman,Tater,Undirected,1
+Folkman,Wutki-Sørensen,Undirected,2
+Hnn,Wutki-Sørensen,Undirected,1
+Dyb,Hnn,Undirected,1
+Folkman,Pjerrot,Undirected,1
+Adam Folkman,dans,Undirected,1
+Folkman,Hr. Madsen,Undirected,1
+Wutki-Sorensen,kjøre,Undirected,1
+Hr. Hammer,Skomager Nielsen,Undirected,1
+Gustav,bun,Undirected,1
+Gustav,fom,Undirected,1
+Madsen,fom,Undirected,1
+Betty,jFlimby,Undirected,1
+Gustav,jFlimby,Undirected,1
+Flimby,Hammer,Undirected,1
+Flimby,Jensen-Svendsen,Undirected,1
+Charles,Flimby,Undirected,1
+Charles,Peter Afse,Undirected,2
+Afse,Charles,Undirected,1
+Charles Jensen-Soendsen,Peter Afse,Undirected,1
+Charles Jensen-Soendsen,Gustav,Undirected,1
+Richter,ban,Undirected,1
+Frueu,Gud,Undirected,1
+Adam Folkman,Marie Richter,Undirected,1
+Adam Folkman,Gustav Hammer,Undirected,1
+Carl Flimby,Gustav Hammer,Undirected,1
+Etatsraad Wutki-Sørensen,Folkman,Undirected,2
+Christen;,Folkman,Undirected,1
+Adam,Christen;,Undirected,1
+Adam,Blomsf,Undirected,2
+Adam,hnn,Undirected,1
+Gusfav,Wutki-Sørensen,Undirected,1
+Adam,Wutki-Sørensen,Undirected,2
+Adam,ban,Undirected,1
+Fanny,ban,Undirected,1
+Folkman,lee,Undirected,1
+Døttre,Hagh,Undirected,1
+Døttre,Son,Undirected,1
+Major Jensen-Svendsen,Son,Undirected,1
+Adam Folkman,Major Jensen-Svendsen,Undirected,1
+Adam Folkman,Sofus Bro,Undirected,1
+August Skov,Sofus Bro,Undirected,1
+Adam Folkman,August Skov,Undirected,1
+Charles Jensen-Svendsen,slod,Undirected,1
+Adam Folkman,Charles Jensen-Svendsen,Undirected,1
+Adam Folkman,Charles,Undirected,1
+Bro,Charles,Undirected,1
+Bro,Hagh,Undirected,1
+Bro,Folkman,Undirected,2
+Hagh,Jensen-Svendsen,Undirected,1
+Hagh,Margrethe,Undirected,1
+Folkman,Frøken Hammer,Undirected,1
+Jensen-Svcndsen,Margrethe,Undirected,1
+Folknian,Hagh,Undirected,1
+Folknian,Margrethe,Undirected,1
+Folkman,ban,Undirected,1
+Folkman,Margrethe Hammer,Undirected,1
+Ingeborg,Margrethe,Undirected,1
+Frøken Hammer,Gud,Undirected,1
+Fru Hammers,Gustav,Undirected,1
+Hr. Folkman,Hr. Folknian,Undirected,1
+Charles Jensen-Svendsen,Margrethe,Undirected,1
+Adam Folkman,Jensen-Svendsen,Undirected,1
+Jensen-Svendsen,Skaal,Undirected,1
+Carl Flimby,Jensen-Svendsen,Undirected,1
+Johnsen,Skaal,Undirected,1
+Folkman,Johnsen,Undirected,1
+Folkman,hnn,Undirected,1
+Margrethe,Wutki-Sørensen,Undirected,1

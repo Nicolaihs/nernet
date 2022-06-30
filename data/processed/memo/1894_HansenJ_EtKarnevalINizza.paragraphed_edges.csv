@@ -1,0 +1,109 @@
+source,target,type,weight
+Giovanni Agaccis,Pier Carniello,Undirected,1
+Carniello,Pier Carniello,Undirected,1
+Agaccis,Carniello,Undirected,1
+Cavour,Giovanni,Undirected,1
+Cavour,Garibaldi,Undirected,1
+Carniello,Garibaldi,Undirected,1
+Agaccis,Granen,Undirected,1
+Granen,Jærnbaand,Undirected,1
+Juan,Jærnbaand,Undirected,1
+Joseph,Juan,Undirected,1
+Carniello,Joseph,Undirected,1
+Carniello,Giovanni,Undirected,1
+Agaccis,Kjøn,Undirected,1
+Angelo,Monsieur Urian,Undirected,1
+Angelo,Staalfjedre,Undirected,1
+Agaccis,Rafaels,Undirected,1
+Agaccis,Madonnas,Undirected,1
+Addio,Maria,Undirected,1
+Addio,Lorenzo,Undirected,1
+Paola,gøs,Undirected,1
+Agaccis,Paola,Undirected,2
+Francois de Paule,Nizzas,Undirected,1
+"J 
+",Oleander,Undirected,1
+Monsieur Rovasenda,monsieur,Undirected,1
+Monsieur Rovasenda,Sous-Prefecten,Undirected,1
+Marquis de Spinola,monsieur le Comte,Undirected,1
+Anna Palene,Gud,Undirected,1
+Agaccis,Anna Palena,Undirected,24
+Anna Palena,Frøken Biilau,Undirected,2
+Agaccis,Baleteusers,Undirected,1
+Baleteusers,Nizza,Undirected,1
+Agaccis,Nizza,Undirected,2
+Carmen Dittler,Eros,Undirected,1
+Adelina Patti,Agaccis,Undirected,1
+Adelina Patti,Madame Melba,Undirected,1
+Madame Melba,Monsieur de Reske,Undirected,1
+Monsieur de Reske,Sarah Bernhardt,Undirected,1
+Agaccis,Sarah Bernhardt,Undirected,1
+Eros,Jupiter,Undirected,1
+Eros,Herakles,Undirected,1
+Lord Walrond,Monsieur de Giers,Undirected,1
+Ludvig den,Monsieur de Giers,Undirected,1
+Ludvig den,Madame Bernhardt,Undirected,1
+Madame Bernhardt,Merveille,Undirected,1
+Flun,Sarah Bernhardt,Undirected,1
+Dædalos,Flun,Undirected,1
+Dædalos,Giovanni,Undirected,1
+Figaro,Hr. Carniello,Undirected,1
+Anna Palena,Markhopfen,Undirected,1
+Signor Agaccis,buon giorno,Undirected,1
+Agaccis,Gud,Undirected,1
+Anna Palena,Giovanni,Undirected,2
+Jeanne d,Venus i,Undirected,1
+Agaccis,Jeanne d,Undirected,1
+Agaccis,Signor,Undirected,1
+Anna Palena,Cinquante francs,Undirected,1
+Agacsis,Carabacel,Undirected,1
+Monsieur,monsieur,Undirected,4
+Madonna,monsieur,Undirected,1
+Markhopfen,v. Goetz,Undirected,1
+Hr. Carniello,Madame de Constantin,Undirected,1
+Anna Palena,Therese,Undirected,3
+Gud,Markhopfen,Undirected,1
+Frøken Biilau,v. Goetz,Undirected,1
+Anna Palena,Biilau,Undirected,1
+Alions,Anna Palena,Undirected,1
+Alions,Monsieur Carniello,Undirected,1
+Jeanette,Monsieur Carniello,Undirected,1
+alias Dr. Jenner,quel malheur,Undirected,1
+Agaccis,Grevinden,Undirected,1
+Madame Stéphanie,Sibylle,Undirected,1
+Anna Palena,Madame Stéphanie,Undirected,1
+Agaccis,Laras,Undirected,1
+Agaccis,Hr. Agaccis,Undirected,2
+Agaccis,Signore,Undirected,1
+Agaccis,Francois de Paule,Undirected,1
+Francois de Paule,Iris’,Undirected,1
+Monsieur,arretez,Undirected,1
+Morphinist,Therese,Undirected,1
+Goethe,Morphinist,Undirected,1
+jauchzend,zum Tode,Undirected,1
+betrübt,zum Tode,Undirected,1
+Aristoteles,Paul Bourget,Undirected,1
+Anna Palena,Hr. Agaccis,Undirected,6
+Datemi una bajocco,signorel«,Undirected,1
+Agaccis,Cours,Undirected,1
+bello,questo,Undirected,1
+Oreille,bello,Undirected,1
+Agaccis,Oreille,Undirected,2
+Agaccis,Tricolore vaje.de,Undirected,1
+Madonna,Monsieur,Undirected,1
+Collega,Monsieur,Undirected,1
+Goetz,kjære v.,Undirected,1
+Agaccis,Allons,Undirected,1
+Alions,Monsieur,Undirected,1
+moi,monsieur,Undirected,1
+Agaccis,monsieur,Undirected,1
+Zigeunerske,Zigeunersken,Undirected,1
+Anna Palena,Nizza,Undirected,1
+Agaccis,Babette,Undirected,1
+Babette,Frantz,Undirected,1
+Frantz,Jenny,Undirected,1
+Anna Palena,Babette,Undirected,1
+Agaccis,Andrea SalinoStatue,Undirected,1
+Hr. v. Goetz,Troubadour,Undirected,1
+Laissez-moi tranquille,Pirochnikoffs,Undirected,1
+Anna Palena,Gud,Undirected,1

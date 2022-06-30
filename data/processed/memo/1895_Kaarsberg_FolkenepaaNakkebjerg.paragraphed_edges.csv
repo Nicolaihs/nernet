@@ -1,0 +1,317 @@
+source,target,type,weight
+Jens,Jætte,Undirected,1
+Jens Peter Btilow,Jætte,Undirected,1
+Anton,Lucie,Undirected,1
+Jens,Lucie,Undirected,1
+Anna Margrethe,Jens,Undirected,2
+Anna,Margrethe,Undirected,1
+Btilow,Margrethe,Undirected,1
+Bang,Villiam,Undirected,2
+Finsen,Gud,Undirected,6
+Anna Margrethe,Tuen,Undirected,1
+Finsen,Hansens,Undirected,1
+Anna Margrethe,Hansens,Undirected,1
+Langes,Pienges,Undirected,1
+Finsen,Jensen,Undirected,5
+Anton,Finsen,Undirected,2
+Finsen,Smaltz,Undirected,1
+Anna Mathea,Finsen,Undirected,4
+Anna Margrethe,Finsen,Undirected,30
+Finsen,Jesus,Undirected,3
+Anna Margrethe,Fa,Undirected,1
+Finsen,schon,Undirected,1
+lieber,schon,Undirected,1
+Durchlaut,lieber,Undirected,1
+Durchlaut,Gott,Undirected,1
+Finsen,Jens,Undirected,5
+Bulow,denl,Undirected,1
+Jens Biilov,Jætte,Undirected,1
+Jens Bülow,directe,Undirected,1
+directe,indirecte,Undirected,1
+Jens,indirecte,Undirected,1
+Fanny,grant,Undirected,1
+Jens,grant,Undirected,1
+Fanny,Jens,Undirected,8
+Bravo,Jens,Undirected,1
+Fanny,bigot,Undirected,1
+Biilows,bigot,Undirected,1
+Biilows,Jens,Undirected,1
+Fanny,Finsen,Undirected,4
+Fanny Gray,Slyngels,Undirected,1
+Gray,James Gray,Undirected,1
+Fanny,Jacob,Undirected,1
+Fanny,Gray,Undirected,3
+Fanny Gray,Jens Bülow,Undirected,2
+Fanny,Fanny Gray,Undirected,1
+Hanne,Hr. Finsen,Undirected,1
+Døttre,Jensen,Undirected,1
+Finsen,ifjor,Undirected,1
+Jensen,ifjor,Undirected,1
+F'insen,Gud,Undirected,1
+F'insen,Finsen,Undirected,1
+Jensen,v. Steinthal,Undirected,1
+F'insen,v. Steinthal,Undirected,1
+Anna Margrethe,F'insen,Undirected,1
+Anna Margrethe,Paddes,Undirected,2
+Fanny,v. Steinthal,Undirected,2
+Fanny,Skaal,Undirected,1
+Peter v. Steinthal,v. Steinthal,Undirected,3
+Ahahl,v. Steinthal,Undirected,1
+Ahahl,Hs,Undirected,1
+Hs,ifjor,Undirected,1
+Fanny,ifjor,Undirected,1
+Fanny,Jansens,Undirected,1
+Gud,Jansens,Undirected,1
+Gud,Skaal,Undirected,1
+. Bang,med,Undirected,1
+. Bang,Padde,Undirected,1
+Padde,Steinthal,Undirected,1
+Peter v. Steinthal,Steinthal,Undirected,1
+Candidat Bang,v. Steinthal,Undirected,1
+Justitsraad Padde,Steinthal,Undirected,1
+Finsen,Steinthal,Undirected,3
+Bang,Hr. Secretair,Undirected,1
+Bang,Finsen,Undirected,2
+Anna Margrethe,Bang,Undirected,1
+Durch-lautigheds,Steinthal,Undirected,1
+Bang,Durch-lautigheds,Undirected,1
+Bang,Steinthal,Undirected,1
+Fanny Bülow,Steinthal,Undirected,1
+Fanny,Fanny Bülow,Undirected,1
+Fanny,haml,Undirected,1
+Adelaides,haml,Undirected,1
+Adelaides,Steinthal,Undirected,1
+Adelaide,Steinthal,Undirected,7
+Adelaide,Hohl,Undirected,1
+Anna Margrethe,F'olk,Undirected,1
+Fanny,Gud,Undirected,3
+Ejnar,Jens,Undirected,2
+Ejnar,Knud,Undirected,1
+Fanny,Jens Bülow,Undirected,7
+Fanny,Karlekammer,Undirected,1
+Karlekammer,Klara,Undirected,1
+Jens Bülow,Klara,Undirected,2
+Jacob,Klara,Undirected,1
+Jens,Provst Berg,Undirected,1
+Jansen,Jens,Undirected,1
+Jens Bülow,Mo,Undirected,1
+Klara,Mo,Undirected,1
+Anna Margrethe,Mo,Undirected,1
+Dr. Jansen,Fanny,Undirected,1
+Fanny,Jaquettens,Undirected,1
+Jansen,hans,Undirected,1
+Berg,Jensen,Undirected,1
+Jensen,Lærer Jensen,Undirected,1
+Anna Margrethe,Hr. Padde,Undirected,1
+Padde,skakke,Undirected,1
+Finsen,Luther,Undirected,1
+Finsen,Padde,Undirected,4
+Fru Bülow,Stein-thals,Undirected,1
+Jens,Jens Bülow,Undirected,1
+Doctoren,Finsen,Undirected,1
+Biilows,Finsen,Undirected,1
+Biilows,haml,Undirected,1
+Vaas,haml,Undirected,1
+Biilow,Jansen,Undirected,1
+Finsen,Jansen,Undirected,1
+Durchlaut,Rudolph,Undirected,1
+Durchlaut,Provsten,Undirected,1
+Finsen,Provsten,Undirected,1
+Jansen,Rudolph,Undirected,1
+Jansen,Jens Bülow,Undirected,1
+Rudolph,Sulamiths,Undirected,1
+David,Rudolph,Undirected,1
+David,Secretair,Undirected,1
+Rudolph,Secretair,Undirected,1
+Jens Bülow,Secre-tairen,Undirected,1
+Fanny,Wanderers,Undirected,1
+Durchlaut,Jens Bülow,Undirected,1
+Jens Bülow,Moloch,Undirected,1
+Feodora Kessler,inat,Undirected,1
+Jens Biilows,Panther,Undirected,1
+Jens Bülow,Uhr,Undirected,1
+Jensen,Padde,Undirected,6
+Anton Bang,Finsen,Undirected,2
+Anton Bang,Uhrmager Hansen,Undirected,1
+Jensen,Uhrmager Hansen,Undirected,1
+Jensen,Justitsraad Padde,Undirected,1
+Justitsraad Padde,Padde,Undirected,1
+Bang,Hr. Padde,Undirected,1
+Doctor Bang,Gud,Undirected,1
+Anna Margrethe,Padde,Undirected,1
+.Margrethe,Anna,Undirected,1
+.Margrethe,Padde,Undirected,1
+Eriksen,Padde,Undirected,2
+Padde,v. Steinthal,Undirected,1
+Finsen,v. Steinthal,Undirected,1
+Jens,Steinthal,Undirected,5
+Anna Margrethe,Steinthal,Undirected,2
+Anna Margrethe,Jansen,Undirected,1
+Bang,Jansen,Undirected,1
+Bang,Padde,Undirected,1
+Padde,Skræder Christjansens,Undirected,2
+Bravo,Finsen,Undirected,1
+Bravo,Padde,Undirected,2
+Bravo,Niels Væver,Undirected,1
+Eriksen,Niels Væver,Undirected,1
+Eriksen,Niels,Undirected,1
+Niels,Per Erik,Undirected,1
+Per Erik,vos,Undirected,1
+Niels,Per Skomager,Undirected,1
+Chor Justitsraad,Padde,Undirected,1
+Jensen,Uhrmagerens,Undirected,1
+Fanny,Steinthal,Undirected,2
+Steinthal,skælmsk-nyfigen,Undirected,1
+Justitsraad Padde,Publicum,Undirected,1
+Publicum,Uhrmagers,Undirected,1
+Padde,Uhrmagers,Undirected,1
+Gud,Jensen,Undirected,1
+Publicum,Uhrmager Hansen,Undirected,1
+Jens Casparsen,Jesus,Undirected,1
+Finsen,Jens Casparsen,Undirected,3
+Jens Casparsen,Julie,Undirected,1
+Julie,Mademoiselle de,Undirected,1
+Mademoiselle de,Skaal,Undirected,1
+Hr. v.,Steinthal,Undirected,1
+Hr. v. Steinthal,Niels Væver,Undirected,1
+Finsen,Niels Væver,Undirected,1
+Niels,Steinthal,Undirected,1
+Gud,Steinthal,Undirected,2
+Hr. Siversen,Siversen,Undirected,1
+Fa,Fanny,Undirected,2
+Inger,Jacob Daahjort,Undirected,2
+Jacob Daahjort,Suders,Undirected,1
+Inger,Jacob,Undirected,3
+Daahjort,Inger,Undirected,1
+Inger,Johan,Undirected,1
+Jacob,Johan,Undirected,1
+Jacob Daahjort,Jens Bülow,Undirected,1
+Inger,Karl,Undirected,1
+Jacob,hejdudilidejh,Undirected,1
+Adela'ide,Steinthal,Undirected,1
+Adela'ide,Ernst,Undirected,1
+Ernst,Lieutenanten,Undirected,1
+Fanny,Klara,Undirected,3
+Fanny,Lilles,Undirected,1
+Klara,Lilles,Undirected,1
+Klara,Maren,Undirected,2
+Jens,Karl,Undirected,1
+Biilow,Ifjor,Undirected,1
+Ifjor,iforfjor,Undirected,1
+Einar,Fanny,Undirected,1
+Johan,Mo,Undirected,1
+Mo,Steinthal,Undirected,1
+Jens,Krøblinge,Undirected,1
+Hohl,Jens,Undirected,1
+Anna Margrethe,Norne,Undirected,1
+Finsen,Norne,Undirected,1
+Finsen,Moloch,Undirected,1
+Moloch,Steinthal,Undirected,1
+Jens Biilows,Steinthal,Undirected,1
+Fanny,Jens Biilows,Undirected,2
+Flan,Jens,Undirected,1
+Flan,Gud,Undirected,1
+Adelaide,Fanny,Undirected,1
+Clara,Fanny,Undirected,1
+Marekat,Steinthal,Undirected,1
+Adelaide,Marekat,Undirected,1
+Adelaide,Huihl,Undirected,1
+Huihl,Jens,Undirected,1
+Anna Margrethe,Jens Bülow,Undirected,7
+Finsen,Jens Bülow,Undirected,5
+Biilow,Finsen,Undirected,4
+F’,insen,Undirected,1
+Anna Margrethe,insen,Undirected,1
+Fanny,keg,Undirected,1
+Jens,stia,Undirected,1
+Gud,Madsen,Undirected,1
+Jens Bülow,Landauers,Undirected,1
+Fanny,Landauers,Undirected,1
+Fanny,Kalesche,Undirected,1
+Jens,Kalesche,Undirected,1
+Gnomen,Jens Bülow,Undirected,1
+Biilow,Jens Bülow,Undirected,2
+Fanny,Provst Berg,Undirected,1
+Gud,Søren,Undirected,2
+Jens Bülow,Søren,Undirected,1
+Berg,Jens Bülow,Undirected,2
+Berg,Gud,Undirected,1
+Gud,Jens Bülow,Undirected,1
+Berg,Biilow,Undirected,1
+Jens Bülow,Provst Berg,Undirected,1
+Jens Bülow,torud,Undirected,1
+Gud,Jesus,Undirected,1
+Ejnar,Flan,Undirected,1
+Jens Bülow,sky,Undirected,1
+Maren,vos,Undirected,1
+Julie,vos,Undirected,1
+Jane,Julie,Undirected,1
+Jane,Maren,Undirected,3
+Frk. Julie,Jane,Undirected,1
+Jane,Jens,Undirected,1
+Hr. v. Steinthal,Steinthal,Undirected,1
+Hr. v. Steinthal,Jens,Undirected,1
+Ejnar,Frk. Julie,Undirected,2
+Frk. Julie,Klara,Undirected,1
+Jens Biilows,Voltakors,Undirected,1
+Sidse,je,Undirected,1
+Biilowses,je,Undirected,1
+Jokumsens,Svend,Undirected,1
+Jæens,Svend,Undirected,1
+Jæens,hinde,Undirected,1
+hinde,iland,Undirected,1
+itte Jens,vos,Undirected,1
+Sidse,Steinthal,Undirected,1
+Karlen,signe,Undirected,1
+Jensen,signe,Undirected,1
+Mette Skomagers,Stine Stikaf,Undirected,1
+Mette,Stine,Undirected,1
+Mette,vos,Undirected,1
+Gud,Mette,Undirected,1
+Ann,Anna Margrethe,Undirected,1
+Ann,Margrethe,Undirected,3
+Ann’,Margrethe,Undirected,2
+Jens Biilows,graa,Undirected,1
+Jens Biilows,Risico,Undirected,1
+Moloch,Risico,Undirected,1
+Moloch,Molochens,Undirected,1
+Gud,Molochens,Undirected,1
+Ejnar,Klara,Undirected,5
+Biilow,Jens Biilows,Undirected,1
+Frøken Julie,Klara,Undirected,1
+Carlsen,Ludvigsen,Undirected,2
+Biilow,Klara,Undirected,1
+Julie,Klara,Undirected,1
+Finsen,Julie,Undirected,1
+Sivertsen,Steinthal,Undirected,1
+Alfreds,Steinthal,Undirected,1
+Sivertsen,Steinthal-Sivertsen,Undirected,1
+Finsen,Sivertsen,Undirected,1
+Uhr,grant,Undirected,1
+Jens,Rudolph,Undirected,1
+Finsen,Rudolph,Undirected,1
+Finsen,Margrethe,Undirected,1
+Margrethe,Padde,Undirected,1
+Jens,Padde,Undirected,1
+Jens,Mare,Undirected,1
+Frkn,Julie,Undirected,3
+Anna Margrethe,Prinsesse Lamballes,Undirected,1
+Anna Margrethe,sorn,Undirected,1
+Anna Margrethe,Hulhaands,Undirected,1
+Anna Margrethe,Stine Per Ledvogters,Undirected,3
+Anna Margrethe,Morten,Undirected,2
+Gud,Morten,Undirected,1
+Anna Margrethe,Stine,Undirected,1
+Anna Margrethe,Julie,Undirected,1
+Anna Margrethe,Frk. Julie,Undirected,1
+Frk. Julie,Frkn,Undirected,1
+Anna,Julie,Undirected,1
+Finsen,Lærke,Undirected,1
+Anna Margrethe,Lærke,Undirected,1
+Anna Margrethe,Muessinens,Undirected,1
+Anna Margrethe,Biilow,Undirected,1
+Dalai Lamas,Jens Bülow,Undirected,1
+Dala,Mongol,Undirected,1
+Hansblus,Jens Bülow,Undirected,1
+Fanny,Magdalenas,Undirected,1
+Jens Biilows,Madsen,Undirected,1

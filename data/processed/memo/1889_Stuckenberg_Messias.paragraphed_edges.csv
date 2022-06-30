@@ -1,0 +1,129 @@
+source,target,type,weight
+Hostrup,lille Ove Eriksen,Undirected,1
+Fog,Klein,Undirected,6
+Jansen,Klein,Undirected,14
+Fog,Jansen,Undirected,49
+Arnold Hertz,Frode Jensen,Undirected,1
+Eriksens,Klein,Undirected,1
+Eriksens,Jansen,Undirected,1
+Klein,ri,Undirected,1
+Fog,ri,Undirected,1
+Fog,Jans,Undirected,2
+Eriksen,Jansen,Undirected,17
+Eriksen,Klein,Undirected,19
+Eriksen,Jans,Undirected,1
+Estrup,Klein,Undirected,1
+Karlen,Niels,Undirected,1
+Fog,Niels,Undirected,1
+Karlen,Klein,Undirected,1
+Jens Andersen,Jørgen,Undirected,3
+Jens Andersen,immer,Undirected,1
+Jens Andersen,Niels Persen,Undirected,2
+Fog,Jørgen Kromand,Undirected,1
+Eriksen,Jens Andersen,Undirected,3
+Jens,Klein,Undirected,1
+Hans Jesper,Jørgen Kromand,Undirected,1
+Estrup,Hans Jesper,Undirected,1
+Hans Jesper,Jørgen,Undirected,2
+Hans Jesper,Jens Andersen,Undirected,2
+Jens Andersen,Skaal,Undirected,1
+Hans Jesper,Skaal,Undirected,1
+Estrup,Jens Andersen,Undirected,1
+Eriksen,Hans Jesper,Undirected,2
+Jens Andersen,Toddy,Undirected,2
+Jens,Jens Andersen,Undirected,1
+Anders,Klein,Undirected,1
+Jens Andersen,Klein,Undirected,3
+Eriksen,Fog,Undirected,12
+Klein,Sørensen,Undirected,3
+Jørgen,Toddy,Undirected,2
+Ole Eriksen,Ove,Undirected,1
+Ove,Ove Eriksen,Undirected,1
+Eriksen,Skaal Eriksen,Undirected,1
+Hans Jesper,Søren,Undirected,4
+Jens Andersen,Søren,Undirected,2
+Jens Andersen,ded,Undirected,2
+Eriksen,ded,Undirected,1
+Hans Jesper,Jansen,Undirected,1
+Eriksen,Jørgen,Undirected,2
+Klein,Niels Persen,Undirected,1
+Jørgen,Niels Persen,Undirected,1
+Jens Andersen,Jørgen Kromand,Undirected,2
+Jansen,Messias,Undirected,1
+Hans Jesper knurre,Klein,Undirected,1
+Fog,Messias,Undirected,2
+Jansen,Valdemar Mogensen,Undirected,3
+Jansen,Mogensen,Undirected,14
+Bargren,Mogensen,Undirected,17
+Georg,Jansen,Undirected,5
+Gud,Tante,Undirected,1
+Gud,Jansen,Undirected,3
+Georg,Gud,Undirected,7
+Georg,Valdemar,Undirected,2
+Gud,Mogensen,Undirected,1
+Georg,Jensen,Undirected,1
+Jensen,Ulrikke,Undirected,1
+Jansen,Ulrikke,Undirected,1
+Darwin,Matzen,Undirected,1
+Darwin,Jansen,Undirected,3
+Georg,Jespersen,Undirected,1
+Gud,Jespersen,Undirected,1
+Georg,Vorherre,Undirected,1
+Møllers,Vorherre,Undirected,1
+Klein,Klokker Jespersen,Undirected,1
+Jansen,Klokker Jespersen,Undirected,3
+Holger Klein,Ove Eriksen,Undirected,1
+Holger Klein,Klokker Jespersen,Undirected,1
+Georg,Klein,Undirected,1
+Aagesen,Klein,Undirected,1
+Aagesen,Bork,Undirected,1
+Bork,Dahl,Undirected,1
+Dahl,Eriksen,Undirected,4
+Aagesen,Eriksen,Undirected,2
+Johannes,Klein,Undirected,1
+Jespersen,Ulrikke,Undirected,4
+Bøg,Lind,Undirected,1
+Anna,Jansen,Undirected,4
+Valdemar,Vilhelmine,Undirected,1
+Julianehaab,Tante,Undirected,1
+Mogensen,Peer Gynt,Undirected,3
+Mogensen,saa Bargren,Undirected,1
+Bargren,Gud,Undirected,1
+Bargren,ovei,Undirected,1
+Mogensen,ovei,Undirected,1
+Falkens,Fog,Undirected,1
+Aagesen,Jansen,Undirected,1
+Dahl,Jansen,Undirected,4
+Hans,Klein,Undirected,1
+Dahis,Jansen,Undirected,1
+Dahl,Fog,Undirected,2
+Fog,Mogensen,Undirected,3
+Bargren,Jansen,Undirected,1
+Gud,Winkel,Undirected,1
+Aagesen,Karl,Undirected,1
+Høyer,Jansen,Undirected,9
+Jansen,Rønnen,Undirected,1
+Anna,Rønnen,Undirected,1
+Anna,Fog,Undirected,1
+Anna,Georg,Undirected,1
+Georg,Ulrikke,Undirected,2
+Dirch,Jansen,Undirected,7
+Dirch,Høyer,Undirected,2
+Dirch,meris Høyer,Undirected,1
+Dirch,Schmit,Undirected,2
+Schmit,saa Smed Jensen,Undirected,1
+Dirch,Holst,Undirected,2
+A arhus-,Jensen,Undirected,1
+Dirch,Sirtses,Undirected,1
+Jansen,Schmit,Undirected,1
+Birkedahls,Jansen,Undirected,1
+Rembrandt,Rubens,Undirected,1
+Georg Jansen,Messias,Undirected,1
+Eriksen,Mogensen,Undirected,4
+Klein,Mogensen,Undirected,4
+maanelys,tine,Undirected,1
+Jansen,Orion,Undirected,2
+Anna Jørgensen,Georg,Undirected,1
+Anna Jørgensen,Madam Jørgensens,Undirected,1
+Jansen,Madam Jørgensens,Undirected,1
+Jansen,Onkelens,Undirected,1

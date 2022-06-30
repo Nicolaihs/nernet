@@ -1,0 +1,42 @@
+source,target,type,weight
+Madame Rustensen,Madame Rustensens,Undirected,1
+Rustensen,j,Undirected,1
+Straa med,j,Undirected,1
+Fiks,Madame Rustensen,Undirected,1
+Madame Rustensen,Nankings,Undirected,1
+Jægermester Brum,von Von,Undirected,1
+Major Brum,von Von,Undirected,1
+Rustensen,von Von,Undirected,1
+Brum,Madame Rustensen,Undirected,2
+Brum,Rosalie,Undirected,1
+Madame Rustensen,Rosalie,Undirected,1
+Magnus Rustensen,Rosalie,Undirected,1
+ban,von Von,Undirected,1
+,von Von,Undirected,1
+Brum,Mønts,Undirected,1
+Goliath,Madame Rustensen,Undirected,1
+Brum,Wævers,Undirected,1
+Harer,Major Brum,Undirected,1
+Diana,Madame Rustensen,Undirected,1
+Madame Rustensen,Majors,Undirected,1
+Frøken Aurora,Weyses,Undirected,1
+Diana,Hektor,Undirected,1
+Diana,Julius,Undirected,1
+Per,Per Persens,Undirected,1
+Brum,Frøken Aurora,Undirected,1
+Diana,von Von,Undirected,1
+Evropa,Napoleon,Undirected,1
+Magen,von Von,Undirected,1
+Engeisens,Frøken Engelsen,Undirected,2
+Frøken Engelsen,Magnus Rustensen,Undirected,1
+Brum,Kong Kristian,Undirected,1
+Engelsen,Frøken Engelsen,Undirected,1
+Napoleon,Napoleon von Von,Undirected,1
+Aurora,Malvina,Undirected,1
+Aurora,Diana,Undirected,2
+Rosalie,Rosalie Rustensen,Undirected,1
+Brum,Magnus Rustensen,Undirected,1
+Rosalie,Rustensen,Undirected,1
+Jess,Napoleon,Undirected,1
+Brum,Napoleon,Undirected,1
+Napoleon,Wæver,Undirected,1

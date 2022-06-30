@@ -1,0 +1,885 @@
+source,target,timestamp
+Harald,Harald haarfagre,1
+Harald,Hersen,1
+Harald haarfagre,Olav Haraldsøn,2
+Baard,Jorun,8
+Baard,Joruii,11
+Baard,Morbroder Børgolf,13
+Baard,Snefrid,16
+Baard,Karl,16
+Jorun,Unne,17
+Hersen,Unne,17
+Hersen,Snefrid,17
+Snefrid,tine,18
+Jorun,Snefrid,22
+Hersen,Snefrid,23
+Hersen,Snefrid,30
+Snefrid,Stejnarstad,30
+Guttorm,Unne,33
+Guttorm,Snefrid,33
+Hersen,Snefrid,34
+Guttorm,Snefrid,40
+Gubben,Snefrid,41
+Hejdmørk,Olav Haraldsøn,42
+Herse,Kong Ræreks,43
+Deiæs,Hersen,48
+Kong Olavs,Thore lange,49
+Heill,sæll,53
+Arnebaal,Thore lange,56
+Kong Olav,Thore lange,56
+Hersen,Kong Olav,56
+Erling Hognesøn,Hersen,56
+Erling Hognesøn,Kong Olav,56
+Kong Olav,Lejfsøn,56
+Hjalte Skeggesøn,Lejfsøn,56
+Hjalte Skeggesøn,Kong Olav,56
+Hersen,Kong Olav,57
+Bjørn Staller,Hjalte Skeggesøn,58
+Snefrid,Ten,61
+Guttorm,Haakon Jarl,64
+Erik,Guttorm,64
+Erik,Svejn,64
+Olaf Haraldsøn,Sæla,65
+Erling,Harald grænske,66
+Harald grænske,Olav Haraldsøn,66
+Harald haarfagre,Olav Haraldsøn,67
+Harald haarfagre,Thore,67
+Bjørn Haraldsøns,Thore,67
+Bjørn Haraldsøns,Harald grænske,67
+Harald grænske,Sigurd Syr,67
+Sigurd,Sigurd Syr,67
+Olav,Sigurd,67
+Olav,Sverig,67
+Erik Jarl,Guttorm,68
+Knut Danekonge,Thore,71
+Knut Danekonge,Olof Sveakonge,71
+Olav Haraldsøn,Olof Sveakonge,71
+Olav Haraldsøn,djærv,71
+aarie,djærv,71
+Upsal,aarie,71
+Bjørn Staller,Upsal,71
+Bjørn Staller,Hjalte,71
+Hjalte,Skeggesøn,71
+Erling,Hjalte,72
+Bjørn,Guttorm,73
+Guttorm,Hjalte,73
+R.ejse,Ragnvald,74
+R.ejse,Thore,74
+Kong Olav,Thore,74
+Kong Olav,Thore,74
+Ejlif götske,Thore,74
+Børgolf,Snefrid,76
+Børgolf,Snefrid,76
+Børgolf,Hersen,76
+Børgolf,Hersen,76
+Axel,Børgolf,76
+Berse,Børgolf,82
+Børgolf,Guttorm,83
+Erling,Guttorm,88
+Børgolf,Guttorm,88
+Børgolf,Snefrid,95
+Guttorm,Snefrid,95
+Børgolf,Guttorm,95
+Børgolf,Erling,97
+Børgolf,Erling,99
+Erling,Snefrid,99
+Guttorm,Snefrid,99
+Erling Hognesøn,Hersen,101
+Børgolf,Hersedatter,104
+Erling,Erling Hognesøn,114
+Erling,Snefrid,114
+Erling Hognesøn,Snefrid,117
+Erling,Snefrid,118
+Jorun,Snefrid,123
+Jorun,Snefrid,123
+Jorun,Snefrid,128
+Snefrid,Væve,136
+Erling,Snefrid,136
+Snefrid,liun,140
+Erling,Jorun,148
+Erling,Snefrid,151
+Erling,Snefrid,154
+Jorun,Snefrid,154
+Guttorm,Snefrid,162
+Guttorm,Snefrid,162
+Erling,Guttorm,162
+Erling,Snefrid,162
+Ragna,SkæbneBrand,166
+Hersen,Snefrid,167
+Ragna,Snefrid,169
+Ragna,Snefrid,169
+Brand,Snefrid,172
+Erling,Snefrid,176
+Brand,Hersedatter,177
+Brand,Ragna,177
+Hjørdis,Ragna,178
+Erling,Guttorm,196
+Erling,Snefrid,196
+Erling,Kong Olav,197
+Kong Olav,nidde,197
+Snille,Thore,211
+Guttorm Herse,Vaas,214
+Kong Olav,Olav Haraldsøn,218
+Harald haarfagre,Olav Haraldsøn,218
+Harald haarfagre,Olav,218
+Olav,Thore Sæl,218
+Arilds,Olav Haraldsøn,228
+Harald haarfagre,Olav Haraldsøn,229
+Olav Haraldsøn,Rærik,229
+Olav,Rærik,229
+Haraldsøn,Olav,229
+Guttorm,Herse,230
+Gubben,Herse,230
+Harald haarfagre,Olav Haraldsøn,232
+Olav Haraldsøn,Raumarikes,234
+Gud,siden'Olav Trygvesøn,239
+Guttorm,lian,246
+Gubben,Kristus,249
+Gubben,Olav,249
+Herse,Olav Konning,252
+Guttorm,lian,253
+Kristus,lian,253
+Knut Danekonge,Kristus,253
+Knut Danekonge,Olof Sveakonge,253
+Gut,orm,254
+Gubben,orm,254
+Gubben,Krist,254
+Olav Haraldsøn,•Grimkel,255
+Klærken,Olav Haraldsøn,255
+Gud,Klærken,255
+Gud,Kristus,255
+Svend,Thore,262
+Gud,Thore,262
+Kong Olav,Sigurd,265
+Sigurd,Thore,265
+Erling Hognesøn,Olav,266
+Erling,Olav,266
+Erling,Stejnarstad,266
+Guttorm,Stejnarstad,266
+Guttorm,Herse,270
+Guttorm,Herse,273
+Guttorm,Herse,273
+F ader,Guttorm,273
+F ader,Kongsgaard,273
+Gud,Kongsgaard,273
+Guttorm,Thore,274
+Ketil,Kong Olav,275
+Ejd,Ketil,275
+Ejd,Olav Haraldsøn,275
+Olav Haraldsøn,didhen,275
+Olav,didhen,275
+Guttorm,Snefrid,276
+Ejd,Snefrid,276
+Ejd,Guttorm,276
+Herse,Snefrid,278
+Allenfals,Olav Haraldsøn,280
+Hird,Thore Aarmands,286
+Gud,Thore,289
+Olav Haraldsøn,Sæla,296
+Kong Olav,Sæla,296
+Herser,Kong Olav,296
+Herser,Kolbejn,296
+Guttorm Herse,Thore,297
+Guttorm Herse,Kongsgaardens,297
+Kongsgaardens,livor,297
+Guttorm,livor,297
+Gubben,Guttorm,297
+Gubben,Thore,297
+Hersen,Thore,297
+Guttorm,Hersen,297
+Kristenb alken,Sab,300
+Gubben,Karlen,301
+Kristus,lian,302
+Guttorm,Kristus,303
+-Kolbejn kyrre,Guttorm,303
+-Kolbejn kyrre,Guttorm,303
+Guttorm,Kristus,303
+Kristus,Thore Sæl,303
+Guttorm,Thore Sæl,303
+Unne,lian,308
+Husbond,Unne,310
+Baard,Hersen,311
+Børgolf,Guttorm,313
+Guttorm,Snefrid,313
+Baard,Unne,314
+Baard,Unne,314
+Baard,Unne,314
+Baard,Børgolf,315
+Baard,Guttorm,316
+Guttorm,Snefrid,320
+Egil,Gubben,324
+Babababa,Gubgubgub,329
+Egil,Hersen,330
+Egil,Hyhyhyby,332
+Guttorm,lille Thora,334
+Elvi,lille Thora,334
+Guttorm,Thora,337
+Egil,Hersen,345
+Guttorm,Thora,347
+Guttorm,Snefrid,347
+Guttorm,R.ejse,348
+Egil,R.ejse,348
+Egil,Snefrid,349
+Gubben,Snefrid,349
+Egil,Thora,350
+Guttorm,Snefrid,351
+Guttorm,Midnatstide,352
+Egil,lo,355
+Guttorm,Snefrid,357
+Astrid,Snefrid,357
+Børgolf,Guttorm,359
+Egil,Guttorm,359
+Egil,Ejsten,359
+Egil,Ejsten,359
+Berse,Egil,359
+Berse,Herse,359
+Arilds,Egil Egilsøn,360
+Egil,Egil Egilsøn,360
+Berse,Guttorm,363
+Hersen,Thore Aarmand,364
+Berse,siff,367
+Bububububu,Egil,369
+Berse,Guttorm,371
+Berse,Egil,372
+Egil,Stejn,377
+Børgolf,Egil,377
+Berse,Børgolf,377
+Berse,Guttorm,377
+Egil,Olav,379
+Haraldsøn,Olav,379
+Berse,Haraldsøn,379
+Berse,Kristus,379
+Guttorm,Ragna,380
+Brand,Ragna,380
+Brand,Ragna,380
+Hersen,Ragna,383
+Erling,Ragna,385
+Kolbejn,Ragna,388
+Kolbejn,devil,388
+Sigyn Kolbejnsdatter,Thore Sæl,390
+Kolbejnsøn,Orm,392
+Hersen,Kolbejnsøn,392
+Brand,Ragna,393
+Kolbejn,Orm,395
+Orm,Sigyn,395
+Kolbejn,Sigyn,395
+Aase,Kolbejn,395
+Aase,Kolbejn,395
+Hersedatter,Orm Kolbejnsøn,398
+Orm,Snefrid Hersedatter,399
+Sigyn,Thore Sæl,403
+Kolbejn,Sigyn,404
+Aase,Thore,405
+Sigyn,Thore,405
+Kolbejn,Thore,410
+Guttorm,Thore,410
+Guttorm,Olav Haraldsøn,410
+Thore,allenfals,411
+Orm,Thore,411
+Orm,Snefrid,411
+Pater Jon,Thore Aarmand,412
+Kolbejn,Pater Jon,412
+Kolbejn,Sigyn,423
+Sigyn,Thore,424
+Aase,Thoi•es,426
+Guttorm,Herse,427
+Herse,Hersen,427
+Hersen,Snefrid,427
+Hersedatter,Snefrid,427
+Aase,Snefrid,429
+Sigrid Guttormsdatter,Thore Sæl,431
+Guttorm Herse,Thore Sæl,431
+Frejrsgode,Guttorm Herse,431
+Frejrsgode,Kristus,431
+Harald,Thore,435
+Aase,Kolbejn,436
+Aase,svaredé,436
+Aase,svaredé,436
+Thoi•es,Thore,438
+Aase,Kolbejn,440
+Kolbejn,Sigyn,444
+Aase,Thore,445
+Kolbejn,O	,449
+Kolbejn,Orm,449
+Karl,Orm,449
+Karl,liam,449
+Baard,liam,449
+Orm,Yngvilde,450
+Børgolf,Yngvilde,450
+Guttorm,Unne,451
+Børgolf,Guttorm,451
+Guttorm Herse,Kong Olav,455
+Guttorm,Olav Haraldsøn,456
+Kanske,Stejnarstad,458
+Aare.11,Guttorm,460
+Aare.11,Guttorm,460
+Egil Egilsøn,Guttorm,461
+Asa-Frejrs,Guttorm,461
+Asa-Frejrs,Gud,461
+Gud,Olav,461
+Ashaug,Olav,461
+Ashaug,Hejmdal,461
+Hejmdal,Hersen,461
+Hersen,Thora,461
+Guttorm,Thora,461
+Egil,Guttorm,461
+Berse,Egil,461
+Berse,Guttorm,461
+Guttorm,Odin,461
+Egil,Odin,461
+Egil,Ejsten,461
+Børgolf,Ejsten,461
+Berse,Børgolf,461
+Børgolf,Sejrfaders,462
+Berse,Guttorm,464
+Børgolf,Kaare Langarm,465
+Berse,Kaare Langarm,465
+Egil,Kaare,466
+Berse,Egil,470
+Egil,Surturs,470
+Surturs,bububu,470
+Kaare,Olav,473
+Herse,Kaare,477
+Aase,Guttorm,481
+Olav Haraldsøn,Thore Sæl,482
+As,Frejr,483
+Olav,Orm,487
+Egeblokkens,Olav,488
+Egeblokkens,Guttorm,488
+Guttorm,Kaare,488
+Kaare,Øxens,488
+Orm,Øxens,488
+Olav,Orm,489
+Frejr,Guttorm,493
+Aase,Kolbejn,496
+Aase,Thore,496
+Morsøster,Thore,496
+Gud,Thore,498
+Morsøster,Sigyn Kolbejnsdatter,500
+Morsøster,Thore,501
+Kolbejn,Thore,501
+Kolbejn,Thore,501
+Aase,Thore Sæl,503
+Orm,Pater,504
+Kolbejn,Thore,508
+Aase,Thore,509
+Aase,Gud,509
+Arilds,Guttorm,516
+Arilds,Guttorm,516
+Guttorm,Thore,519
+Jesu,Thore,524
+Grim,Thore,527
+Adams,Evas,532
+Evas,Thore,532
+Thore,voxe,533
+Thore,Ølmod,535
+Kaaben,Thore,540
+Børgolf,Guttorm Herse,541
+Børgolf,Egil,541
+Hersen,Thore Sæl,542
+Børgolf,Egil,548
+Guttorm,Kristus,551
+Gubben,Knut,554
+Guttorm,Karldøren,555
+Guttorm,Thore Sæl,555
+Guttorm,Thore Sæl,556
+Guttorm,Thore,556
+Børgolf,Thore,556
+Egil,Gubben,557
+J5,Thore,558
+Guttorm,Kong Olav,559
+Hersen,Kong Olav,559
+Hersen,Orm,560
+Hersen,Thore,560
+Guttorm,Orm,561
+Guttorm,Thore,564
+Guttorm,Thore,569
+Guttorm,Herse,569
+Herse,Orm,569
+Kristus,Snefrid,571
+Kolbejn,Thore,573
+Kolbejn,Orm,574
+Orm,Thore,574
+Sigyn Kolbejnsdatter,Thore,574
+Guttorm Herse,Thore,578
+Guttorm Herse,Orm,578
+Hersen,Orm Kolbejnsøn,583
+Børgolf,Hersen,583
+Børgolf,Snefrid,583
+Børgolf,Snefrid,583
+Egil,Hersen,587
+Egil,Guttorm,588
+Hersen,Kolbejn,591
+Kolbejn,Sønnekone,591
+Egil,Sønnekone,591
+Guttorm,Thora,597
+Guttorm,Thora,597
+Egil,Guttorm,597
+Broder Guttorm,Thora,598
+Hersen,Thora,599
+Snefrid,Thora,599
+Karl,Snefrid,599
+Karl,Kolbejn,599
+Guttorm,Kolbejn,600
+Guttorm,Thora,600
+Husbond,Snefrid,602
+Husbond,Thore,602
+Guttorm,Thora,603
+Snefrid,Thora,603
+Egil,Orm,604
+Snefrid,Thore Sæl,605
+Snefrid,Thore Sæl,605
+Snefrid,Thore Sæl,608
+Egil,Snefrid,608
+Egil,Thora,608
+Ejsten,Thora,608
+Ejsten,Stejnarstad,608
+Ejsten,Stejnarstad,608
+Egil,Hersen,610
+Børgolf,Hersen,610
+Børgolf,Stejnarstad,610
+Egil,Herse,611
+Jorun,Snefrid,612
+Ragnvald Ulfsøn,Sigrid storraade,617
+Ingeborg,Sigrid storraade,617
+Ingeborg,Olav Trygvesøn,617
+Egil Egilsøn,Jarlens,618
+Egil Egilsøn,Thora,618
+Guttorm Herse,Thora,618
+Guttorm Herse,Snefrid,618
+Astrid,Snefrid,618
+Astrid,Olof Eriksøn,618
+Egil,Olof Eriksøn,618
+Egil,Jarl,619
+Egil,Jarlen,620
+Egil,Guttorm,620
+Guttorm,Snefrid,620
+Astrid Kongedatter,Snefrid,620
+Astrid Kongedatter,Ragnvald,620
+Egil,Jarl,622
+Astrid Kongedatter,Jarlen,626
+Astrid Kongedatter,Egil,626
+Jarl,Jarlen,627
+Egil,Jarlen,631
+Guttorm Herse,Jarlen,631
+Guttorm Herse,Kong Olav,631
+Bjørn Staller,Jarlen,632
+Bjørn Staller,lian,632
+Olav Haraldsøn,lian,632
+Jarl,Kong Olof,633
+Kong Olav,Normand,635
+Hersen,Kong Olav,636
+Hersen,Hjalte Skjeggesøn,636
+Bjørn,Hjalte Skjeggesøn,637
+Hjalte,Hjalte Skjeggesøn,637
+Hjalte,Normand,637
+Astrid,Fader,639
+Astrid,Bjørn Staller,640
+Astrid,Ingegerd,644
+Hjalte,Kong Olav,645
+Jarlen,Kong Olav,645
+Ingeborg Jarlekone,Olof,646
+Haraldsøn,Ingegerd,648
+Ingegerd,Olav,648
+Kong Olof,Olav,648
+Astrid,Kong Olof,648
+Astrid,Ingegerd,648
+Upsal,hartad,650
+Ingegerd,hartad,650
+Bjørn Staller,Ingeborg Jarlekone,651
+Bjørn Staller,Ragnvald,651
+Gjæk,Ragnvald,651
+Gjæk,Kong Olav,651
+Ingeborg,Jarlen,652
+Bjørn,Jarlen,652
+Kong Olof,Thorgny,655
+Kong Eriks,Thorgny,655
+Bjørn,Thorgny,656
+Bjørn Staller,Jarlen,659
+Bjørn Staller,Jarlen,659
+Olav,Olav Haraldsøn,660
+Bjørn Staller,Olav,660
+Bødvar Lejfsøn,Erling Hognesøn,663
+Bødvar Lejfsøn,Helsen,663
+Hjalte Skjeggesøn,Jarlen,666
+Bjørn,Jarlen,666
+Bjørn,Jarlen,668
+Egil,Erling,669
+Guttorm,Herse,671
+Gubben,Gudmund Kaaresøn,673
+Bjørn,Erling,676
+Bjørn,Guttorm Herse,676
+Astrid Kongedatter,Guttorm Herse,676
+Astrid Kongedatter,Snefrid,676
+Erling,Snefrid,676
+Astrid,Jarlen,677
+Astrid,Erling,677
+Erling,Snefrid,677
+Erling,Karlen,679
+Guttorm Herse,Ragnvald Jarl,680
+Bjørn Staller,Guttorm Herse,680
+Bjørn Staller,Erling,680
+Erling,Snefrid,680
+Astrid Kongedatter,Snefrid,680
+Astrid Kongedatter,Snefrid,680
+Erling,Upsal,681
+Snefrid,Upsal,681
+Erling,Snefrid,681
+Erling,Hognesøn,681
+Erling,Snefrid,688
+Egil Egilsøn,Gøtaelvens,693
+Abildgaard,Egil Egilsøn,693
+Abildgaard,Astrid Kongedatter,693
+Astrid Kongedatter,Snefrid,693
+Kong Olavs Flaade,Snefrid,694
+Kong Olavs Flaade,Kongshelle,694
+Olav,Snefrid,697
+Fader,Ingegerd,699
+Astrid,Ingegerd,700
+Astrid,Olav Haraldsøn,701
+Snefrid,Sveakongen,702
+Olav Haraldsøn gram,Snefrid,702
+Olav Haraldsøn,Snefrid,703
+Astrid,Snefrid Hersedatter,704
+Astrid,Erik sejersæl,710
+Erik sejersæl,Sigrid storraade,710
+Olav,Sveakongen,715
+Ragnvald Jarl,Thorgny Lagmand,716
+Bjørn Staller,Ragnvald Jarl,718
+Ingegerd Kongedatter,Olav Haraldsøn,722
+Ingegerd Kongedatter,Kong Olav,722
+Gud,Thorgny Lagmand,727
+Gud,Olav,727
+Astrid,Ingegerd Kongedatter,731
+Astrid,Ingegerd Kongedatter,732
+Astrid,Ingegerd,732
+Astrid,Egil Egilsøn,733
+Ingegerd,Kong Olav,734
+Astrid,Olav Haraldsøn,735
+Ragnvald Jarl,hans Gøter,738
+Olav,Sveakongen,739
+Astrid,Kong Olav,740
+Ingegerd Kongedatter,Olav,743
+Astrid,Olav,745
+Astrid Olofsdatter,Ingegerd,751
+Gud,sæl,755
+Astrid Olofsdatter,sæl,755
+Olav,Olav Haraldsøn,756
+Drot,Olav Haraldsøn,756
+Drot,Husting,756
+Husting,Ragnvald,756
+Jarl,Ragnvald,756
+Jarl,Thorgny,756
+Bjørn Staller,Thorgny,756
+Bjørn Staller,Ragnvald Ulfsøn,756
+Olav,Ragnvald Ulfsøn,756
+Astrid Olofsdatter,Olav,756
+Astrid Olofsdatter,Haan,756
+Haan,Olav Haraldsøn,756
+Bjørn Staller,Ragnvald Jarl,757
+Bjørn Staller,Skald,757
+Olav Haraldsøn,Sighvat,758
+Bjørn Staller,Sighvat,758
+Bjørn Staller,Kong Olof,758
+Kong Olof,Olav,758
+Haraldsøn,Olav,758
+Sighvat Thordsøn,Thord Skotakold,759
+Erling Hognesøn,Thord Skotakold,759
+Erling Hognesøn,Ragnvald,759
+Ingegerd Kongedatter,Jarislejf,760
+Astrid Kongedatter,Skara,761
+Skara,Snefrid,761
+Hersedatter,Snefrid,761
+Hersedatter,Jarlen,761
+Jarlen,Sighvat,761
+Ragnvald Jarl,Sighvat,761
+Ingegerd,Ragnvald Jarl,761
+Astrid Olofsdatter,Ingegerd,761
+Astrid Olofsdatter,Olav,761
+Jarlen,Olav Sveakonges,762
+Olav Haraldsøn,Olav Sveakonges,762
+Astrid,Olav Haraldsøn,762
+Erling Hognesøn,Kong Olav,764
+Erling Hognesøn,Snefrid Hersedatter,764
+Hersen,Ragna,779
+Gud,Ragna,783
+Hersen,Ragna,787
+Hersen,Snefrid Guttormsdatter,787
+Ejsten,Snefrid Guttormsdatter,787
+Ejsten,Skjødnihgen,787
+Skjødnihgen,Thore,787
+Gud,Thore,787
+Guttorm Herse,Thore,789
+Børgolf,Ejsten,791
+Guttorm,Thore,792
+Guttorm,Thore,792
+Guttorm,Thore,792
+Pergemut,Thore,792
+Kolbejn,Thore Aarmand,795
+Erling,Ragna,796
+Ragna,aarie,796
+Egg,aarie,796
+Egg,Erling Hognesøn,796
+Erling Hognesøn,Orm,796
+Erling,Hersen,798
+Erling,Piagna,800
+Brand,Ragna,802
+Broge,Ragna,802
+Gud,Ragna,805
+J,j,806
+Brand,Ragna,809
+Erling Hognesøn,Hersen,820
+Hersen,Stejnarstad,822
+Erling,Hersen,823
+Hersen,Svend,826
+Kong Olav,Svend,826
+Hersen,Orm Kolbejnsøn,830
+Baard,Hersen,833
+Børgolf,Hersen,833
+Børgolf,Stejnarstad,833
+Børgolf,Stejnarstad,833
+Børgolf,Hersen,833
+Ejsten,Hersen,833
+Baard,Ejsten,833
+Baard,Børgolf,833
+Baard,Orm,834
+Baard,Orm,834
+Baard,Hersen,834
+Baard,Thore,835
+Baard,Thore,836
+Guttorm,SkæbneBrand,838
+Guttorm,Thore,841
+Børgolf,Thore,841
+Børgolf,Erling Hognesøn,841
+Baard,Thore,842
+Baard,Hersen,846
+Kong Olav,Ragnvald Jarl,848
+Jarlen,Kong Olav,848
+Jarlen,Thord Skotakold,848
+Jarlen,Thord,849
+Astrid Kongedatter,Sighvat Skald,851
+Astrid,Kong Olav,852
+Kong Olav-,Sighvat,853
+Astrid,Kong Olav-,853
+Jarlen,Thord Skotakold,854
+Skara,Thord Skotakold,854
+Erling Hognesøn,Skara,854
+Erling,Thord,855
+Egil Egilsøn,Snefrid Hersedatter,856
+Herse,Snefrid Hersedatter,856
+Guttorm,Herse,856
+Guttorm,Kong Olav,856
+Erling,Thord,859
+Erling,Thord,861
+Thord,j,861
+Erling,Thord,863
+Gud,Thord,863
+Astrid,Egil,866
+Astrid,Ragnvald,866
+Ragnvald,Thora,866
+Jarl,bububu,867
+Fufufu,Jarl,867
+Fufufu,Thora,867
+Jarl,Thora,869
+Astrid,Thora,871
+Astrid,Ragnvald,875
+Astrid,Kong Olav,876
+Alfaders,Astrid,876
+Gud,Snefrid,882
+Guttorm,Snefrid,882
+Kong Olav,Snefrid,884
+Erling,Hersen,887
+Herse,Hersen,887
+Erling Hognesøn^,Thora,890
+Thora,Thord,890
+Erling,Jarlen,893
+Stejnarstad,Thore Sæl,894
+Gubben,Thore Sæl,894
+Erling,Guttorm,895
+Guttorm,Hersen,895
+Erling,Hersen,895
+Erling,Hersen,896
+Hersen,Thore Aarmand,898
+Erling,Hersen,899
+Baard,Thore Sæl,902
+Davren,Thore Sæl,902
+Guttorm,Snefrid,905
+Baard,Snefrid,905
+Baard,Karl,905
+Svend,Thore Sæl,908
+Hersedatter,Thore Sæl,908
+Hestehove,Snefrid,909
+Gubben,Hestehove,909
+Ejd,Snefrid,911
+Børgolf,Ejd,911
+Snefrid,Thore Sæl,912
+Glar,Kong Olav,913
+Glar,Kjertelys,913
+Erling,Snefrid,930
+Hersen,Snefrid,930
+Erling,Snefrid,931
+Gubben,Snefrid,931
+Gubben,Gud,931
+Dot,Snefrid,932
+Erling,Snefrid,934
+Erling,Kong Olav,934
+Erling,Hersen,935
+Erling,Gubben,939
+Erling,Snefrid,940
+Astrid Kongedatter,Snefrid,940
+Astrid Kongedatter,Hersen,940
+Hersen,Thore,940
+Astrid Kongedatter,Olav,941
+Olav,Snefrid,941
+Astrid,Jarlen,942
+Astrid,Erling Hognesøn,942
+Erling Hognesøn,Gubben,942
+Astrid,kjær,943
+Datterlil,Ingegerd Kongedatter,944
+Astrid,Ingegerd Kongedatter,944
+Astrid,Olav Haraldsøn,944
+Ingegerd,Olav Haraldsøn,944
+Ingegerd,Sveakongen,944
+Kong Olav,Ragnvald Jarl,945
+Kong Olav,Olav,945
+Harald haarfagre,Olav,945
+Astrid Kongedatter,Harald haarfagre,945
+Astrid Kongedatter,Ragnvald,945
+Jarl,Ragnvald,945
+Guttorm,Ragnvald Jarl,947
+Guttorm,Jarlen,947
+Jarlen,Kong Olav,947
+Erling,Snefrid,953
+Erling Hersens,Snefrid,953
+Erling,Snefrid,959
+Kong Olav,Snefrid,959
+Erling,Kong Olav,959
+Snefrid,Thore Sæl,960
+Astrid,Snefrid,965
+Astrid,Snefrid,965
+Astrid,Snefrid,965
+Astrid,Ragnvald Jarl,966
+Astrid,Snefrid,966
+Kaabe,Snefrid,966
+Jarlen,Kaabe,966
+Astrid,Jarlen,966
+Astrid,Snefrid,966
+Olav,Snefrid,966
+Hird,Olav,966
+Astrid,Hird,966
+Astrid,Kong Olav,966
+Astrid,Kong Olav,966
+Gud,Olav,968
+Astrid,Ragnvald Jarl,969
+Astrid,Olav,969
+Astrid,Olav,969
+Erling Hognesøn,Guttorm Herse,972
+Guttorm Herse,Olav,972
+Guttorm Herse,Snefrid,973
+Astrid,Erling Hognesøn,974
+Erling Hognesøn,Snefrid,974
+Astrid,Olav Haraldsøn,978
+Astrid Olofsdatter,Erling Hognesøn,979
+Astrid,Erling,980
+Erling,Herse,980
+Herse,Thore Sæl,980
+Hersen,Thore Sæl,980
+Hersen,Kong Olav,980
+Astrid,Hersen,981
+Kong Olav,Thore Sæl,982
+Kong Olav,Olav Trygvesøn,982
+Harald haarfagre,Olav Trygvesøn,982
+Astrid,Harald haarfagre,982
+Astrid,Erling Hognesøn,982
+Erling Hognesøn,Guttorm Herse,982
+Astrid Kongedatter,Guttorm Herse,982
+Astrid Kongedatter,Astrid Olofsdatter,982
+Astrid Olofsdatter,Harald,982
+Astrid Olofsdatter,Gud,985
+Guttorm,Olav Haraldsøn,988
+Gud,Guttorm,989
+Astrid,Gud,990
+Guttorm,Vennemund,991
+Ejdsivating,Guttorm,991
+Ejdsivating,mys,991
+Guttorm,mys,991
+Astrid,Kong David,992
+Gud,Kong David,992
+Gud,Kristus,992
+Astrid Olofsdatter,Guttorm Herse,993
+Erling,Guttorm Herse,993
+Astrid Olofsdatter,Guttorm,995
+Erling,Guttorm,995
+Erling,Staal,995
+Staal,Sten,995
+Astrid,Kong Olav,996
+Astrid,Svend,997
+Astrid,Guttorm,997
+Ejd,Guttorm,997
+Astrid,Olav,998
+Astrid,Snefrid,1000
+Ragnvald Jarl,Snefrid,1000
+Ragnvald Jarl,Sigrid storraade,1000
+Astrid Kongedatter,Sigrid storraade,1000
+Herse,hans Odelsgaard,1003
+Herse,Hersen,1005
+Astrid,Olav Haraldsøn,1012
+Astrid,Snefrid,1012
+Astrid,Snefrid,1012
+Astrid Olofsdatter,Herberg,1014
+Astrid,Kong Olav,1015
+Erling,Snefrid,1016
+Astrid,Snefrid,1016
+Astrid,Olav,1019
+Astrid,Kong Olav,1022
+Astrid,Olav,1025
+Astrid,Olav Haraldsøn,1026
+Astrid,Ingegerd,1026
+Ingegerd,Ragnvald Jarl,1027
+Astrid,Gud,1028
+Astrid,Astrid Snefrid,1029
+Astrid Snefrid,Snefrid Erling Hognesøn,1029
+Snefrid Erling Hognesøn,Øxeo,1029
+Gud,Øxeo,1029
+Astrid,Olav,1030
+Astrid Olofsdatter,Fæstensøl,1034
+Fæstensøl,Kong Olav,1034
+Erling Hognesøn,Kong Olav,1034
+Erling Hognesøn,Snefrid Guttormsdatter,1034
+Erling,Snefrid Guttormsdatter,1034
+Børgolf,Erling,1034
+Børgolf,Erling og,1034
+Erling og,Snefrid,1034
+Hersen,Snefrid,1034
+Børgolf,Snefrid,1035
+Børgolf,Erling,1037
+Snefrid,Stejnarstad,1038
+Børgolf,Erling,1039
+Olav,Ragnvald Jarl,1048
+Haraldsøn,Olav,1048
+Astrid,Haraldsøn,1048
+Erling,Snefrid,1049
+Snefrid,Thord Skotakold,1049
+Erling,Thord Skotakold,1049
+Erling,Snefrid,1050
+Astrid,Snefrid,1050
+Astrid,Erling,1050
+Erling,Orm,1050
+Erling,Orm,1050
+Erling,Skara,1050
+Skara,Upsal,1050
+Snefrid,Upsal,1050
+Erling,Snefrid,1050
+Erling,Olav,1050
+Dronning Astrids,Erling Hognesøn,1051
+Kongsgaardeu Augvaldsnæs,Thore Sæl,1053
+Erling,Snefrid,1055
+Erling,Snefrid,1061
+Erling,Snefrid,1061
+Børgolf,Snefrid Guttormsdatter,1062
+Børgolf,Erling,1062
+Erling,Snefrid,1062
+Erling Aarmand,Erling Herse,1063
+Erling Hognesøn,Ragna,1065
+Erling Hognesøn,Snefrid Hersedatter,1065
+Husbond,Ragna,1066

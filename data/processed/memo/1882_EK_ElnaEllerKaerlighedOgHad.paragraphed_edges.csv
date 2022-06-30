@@ -1,0 +1,406 @@
+source,target,type,weight
+Consul Born,Exellence,Undirected,1
+Borns,tillive,Undirected,1
+tillive,øg Born,Undirected,1
+Massa,Massa Edvard,Undirected,2
+Consul Born,Mulats,Undirected,1
+Alonzo,Massa Edvard,Undirected,1
+Born,Christian,Undirected,1
+Alonzo,Christian,Undirected,2
+Alonzo,Massa,Undirected,2
+Edvard,Massa,Undirected,2
+Antonie,Christian,Undirected,1
+Alonzo,Edvard,Undirected,14
+Alonzo,Antonios,Undirected,1
+Christian,Mongo,Undirected,1
+Miss Isabella,Mongo,Undirected,1
+Massa Edvard Søster,Miss Isabella,Undirected,1
+Massa,Misses,Undirected,1
+Frøken Born,Misses,Undirected,1
+Massa,Sennvr,Undirected,1
+Sennorita,Sennvr,Undirected,1
+Isabella,Sennorita,Undirected,2
+Antonie,Isabella,Undirected,31
+Gud,Silke,Undirected,1
+Antonie,Jsabellas,Undirected,2
+Carl Rømer,Fanny,Undirected,4
+Carl Rømer,Isabella,Undirected,1
+Isabella,sra Antonies,Undirected,1
+Antonie,as,Undirected,1
+Antonie,Carl Rømer,Undirected,2
+Astes,feg,Undirected,1
+Elna,Louise,Undirected,8
+Albert Flint,Wahl,Undirected,1
+Elna,Georg,Undirected,44
+Georg Friberg,Køne,Undirected,1
+Albert,Elna,Undirected,70
+Louise,Wahl,Undirected,2
+Albert,Louise,Undirected,8
+Elna,Wahl,Undirected,2
+Albert,Wahl,Undirected,2
+Wahl,næsfen,Undirected,1
+Elna,Louise Wahl,Undirected,3
+Albert,Amanda,Undirected,8
+Albert,paany,Undirected,1
+Wølk,paany,Undirected,1
+Amanda,Wølk,Undirected,3
+Albert,Wølk,Undirected,1
+Amanda,Elna,Undirected,5
+Elna,sagdeAlbert,Undirected,1
+Elna,Wølk,Undirected,1
+Antonie Born,Fanny,Undirected,1
+Antonie,Fanny,Undirected,30
+Antonie,øg,Undirected,1
+Antonie,Gud,Undirected,2
+Carl Rømer,Gud,Undirected,2
+Fanny,Konsul Borns,Undirected,1
+Edvad,Isabella,Undirected,1
+Isabella,Mulatten Alonzo,Undirected,1
+Alonzo,Isabella,Undirected,6
+Alonzo,dar Fader,Undirected,1
+Alonzo,Sennor,Undirected,2
+Antonie,H Hi,Undirected,1
+Cousine,Edvard,Undirected,3
+Alonzo,Cousine,Undirected,1
+Antonie,Edvard,Undirected,21
+Edvard,Jasaa,Undirected,1
+Edvard,saagar,Undirected,1
+Isabella,saagar,Undirected,1
+Edvard,Isabella,Undirected,6
+Antonie,Hain,Undirected,1
+Antonios,Edvard,Undirected,1
+Antonie,Born,Undirected,4
+Antonie,Kousine,Undirected,1
+Antonio,Edvard,Undirected,1
+Fanny,Rømers,Undirected,1
+Fanny,Rømer,Undirected,16
+Antonie,Trane,Undirected,1
+Albert,Alfreds,Undirected,1
+Georg,Kousine,Undirected,3
+Elna,Kjøretour,Undirected,1
+Albert,Georg,Undirected,15
+Elna,Gud,Undirected,7
+Albert,Bankier Wølck,Undirected,2
+Albert,Wølck,Undirected,2
+Elna,huu,Undirected,2
+Elna,Sands,Undirected,1
+Rømer,paany,Undirected,3
+Antonie,Collega,Undirected,1
+Fanny,øg,Undirected,1
+Georg,sidsfe,Undirected,1
+Gud,sidsfe,Undirected,1
+Edvard,Ester,Undirected,1
+Fanny,Romer,Undirected,2
+Antonie,rasf,Undirected,1
+Isabella,rasf,Undirected,1
+Alonzo,Antonie,Undirected,4
+Edvard,Rømer,Undirected,1
+Antonie,Berger,Undirected,6
+Edvard,Obersten,Undirected,1
+Obersten,Rømer,Undirected,2
+Antonie,Rømer,Undirected,10
+Fanny,sagoe Antonie,Undirected,1
+Fanny,Gud,Undirected,1
+B,b,Undirected,1
+Ant-nie,Jsabellas,Undirected,1
+Ant-nie,ester,Undirected,1
+Antonio,Isabella,Undirected,1
+Antonie,andecles,Undirected,1
+Antonie,saagar,Undirected,1
+Rømer,saagar,Undirected,1
+Born,Isabella,Undirected,2
+Antonie,Romer,Undirected,1
+Antonie,Mulatten Alonzo,Undirected,1
+Berger,Fanny,Undirected,4
+Emilie,Fanny,Undirected,2
+Emilie,Max,Undirected,1
+Fanny,Max,Undirected,1
+Antonie,lidf,Undirected,1
+Antonie Convolutten,Rømer,Undirected,1
+Eden,Isabella,Undirected,1
+Antonie,fig,Undirected,1
+Jørden,ester,Undirected,1
+Alberis,Louise Wahl,Undirected,1
+Albert,fon,Undirected,1
+Elna,fon,Undirected,1
+Elna,Hans,Undirected,1
+Albert Flint,Wølck,Undirected,1
+Albert Hints,Amanda Wølcks,Undirected,1
+Christian,Isabella,Undirected,1
+Edvard kunde,valte,Undirected,1
+Born,Edvard,Undirected,1
+Edvard,Esterlignelse,Undirected,1
+Cousine Antonie,Edvard,Undirected,1
+Antonie,Obersfen,Undirected,2
+. lse,Edvard,Undirected,1
+Isabella,Masa Edvards,Undirected,1
+Antonie,engana,Undirected,1
+Edvard,engana,Undirected,1
+Born,sigHan,Undirected,1
+Sennor,Sennorita Isabella,Undirected,1
+Isabella,Sennor,Undirected,1
+Isabella,Sennorita Isabella,Undirected,1
+Alonzo,Born,Undirected,2
+Isabella,Jed,Undirected,1
+Edvard øg,hamAlonzo,Undirected,1
+Alredro,Edvard,Undirected,1
+Staal,Tillrods,Undirected,1
+Edvard,Evropa,Undirected,1
+Alonzo,Evropa,Undirected,1
+Edvard,fom,Undirected,1
+Antonie øg Isabella,Edvard,Undirected,1
+Evropa,Magdalena Alcedro,Undirected,1
+Antonie,Isa,Undirected,1
+Antonie,Obersf Berger,Undirected,1
+Antonics,Edvard,Undirected,1
+Kjære Berger,kjære Antonie,Undirected,1
+Anlonies,sidsfe,Undirected,1
+E. K.,Elna,Undirected,1
+Elna,Wølck,Undirected,1
+Amanda,Wølck,Undirected,2
+Juliette,Mlle,Undirected,1
+Mreutre kruneuis,Mslle,Undirected,1
+Juliette Dumynu,Mslle,Undirected,1
+Juliette,Kour,Undirected,1
+Amanda,Juliette,Undirected,2
+Juliette,Mslle,Undirected,4
+Albert Flint,Juliette,Undirected,2
+Albert,Madame Sauvetot,Undirected,1
+Albert,Juliette,Undirected,10
+Mslle,Sauvetot,Undirected,1
+Duponts,Juliette,Undirected,1
+Albert,kjære Juliette,Undirected,1
+Julie,Juliette,Undirected,1
+Juliette,Olivier,Undirected,1
+Juliette,kjære,Undirected,2
+Albert galant,Juliette,Undirected,1
+Chambly,Chamblys,Undirected,1
+Chambly,Madame Chambly,Undirected,1
+Madame Chambly,Miss Jenny Huberts,Undirected,1
+Clementine,Thereses,Undirected,1
+Clementine,Madame Chambly,Undirected,2
+Madame Chambly,Prosper Chamblys,Undirected,1
+Prosper Chamblys,Thsreses,Undirected,1
+Madame Chambly,Therese,Undirected,3
+Madame Chamblys Boudoir,Miss Hubert,Undirected,1
+Madame Chamblys Boudoir,Therese,Undirected,1
+Clementine,Therese,Undirected,2
+Chambly,Clementine,Undirected,1
+Beaupas,Prosper,Undirected,1
+Madame Chambly,spodsk,Undirected,1
+Clemcntine,Papa,Undirected,1
+Chambly,Hubert,Undirected,1
+Clemsntine,Therese,Undirected,1
+Chambly,Therese,Undirected,1
+Hubert,Madame Chambly,Undirected,1
+Albert,Albert Flint,Undirected,6
+Albert,Therese,Undirected,5
+Heloise,bun,Undirected,1
+Albert,Gud,Undirected,1
+Gud,Therese,Undirected,1
+Mademoiselle Therese,Mr. Flint,Undirected,1
+Therese,j,Undirected,1
+Albert Flint,Therese Chambly,Undirected,1
+Edvard,Spaadom,Undirected,2
+Amanda,Edvard,Undirected,2
+Albert,Edvard,Undirected,1
+Amanda,elsfede Edvard,Undirected,1
+Amanda,Gud,Undirected,1
+Albert,Prosper Chambly,Undirected,1
+Markien,Markin,Undirected,1
+Markien,ban,Undirected,1
+Markien,Pablo,Undirected,1
+Doløras,Markien,Undirected,1
+Markien,Markien blindthcn,Undirected,1
+Albert Flint,Markien,Undirected,3
+Albert,Markin,Undirected,1
+Cynisme,Markien,Undirected,1
+Albert,Cynisme,Undirected,1
+Albert Flint,de Røche,Undirected,1
+Albert Flint,Beaupas,Undirected,1
+Albert,Marfi,Undirected,1
+Albert,meldle,Undirected,1
+de Roche,meldle,Undirected,1
+Albert forbausel,Marki,Undirected,1
+Karl,Marki,Undirected,1
+Albert,Marki,Undirected,1
+Albert,de Rochs,Undirected,1
+Marki,de Roch,Undirected,1
+Markien,Tortoni,Undirected,2
+Albert,Markien,Undirected,2
+Cora,Rosa,Undirected,1
+Clarisse,Cora,Undirected,1
+Albert Flint,de Roche Markien,Undirected,1
+Mademoiselle Rosa,Marki,Undirected,1
+Greven,Jniet,Undirected,1
+Elsfer,Markien,Undirected,1
+Albert Flint,Roche,Undirected,1
+Albert,Roche,Undirected,1
+Cora,Marki,Undirected,1
+Marki,de Røchs,Undirected,1
+Jasaa,Markien,Undirected,1
+Adonis,Albert,Undirected,1
+Markien,de Roch,Undirected,1
+Dolores,de Rochv,Undirected,1
+Albert,de Roch,Undirected,1
+Flint,de Beaupas,Undirected,1
+Clarisse,Markien,Undirected,1
+Marki,de Lycs,Undirected,1
+Collet,Markien,Undirected,1
+Beaupas,Markien,Undirected,2
+Beaupas,Tortoni,Undirected,2
+Albert Flint,de Roche,Undirected,1
+Markien,Markisens,Undirected,2
+Markien,Mgtemand,Undirected,1
+Albert Flint,de Rochs,Undirected,1
+Doloris,Markien,Undirected,1
+Markien sorbausedes,Markisens,Undirected,1
+Dolores,Markien,Undirected,3
+Albert Flint,de Roch,Undirected,1
+Flegma,taus,Undirected,1
+Albert Flint,Elna,Undirected,12
+bun,ril,Undirected,1
+Friberg,Margretegaard,Undirected,1
+Georg,Margretegaard,Undirected,1
+Elna,Friberg,Undirected,8
+Albert Flint,Susanne,Undirected,1
+Georg,Torn,Undirected,3
+Albert Flint,Georg,Undirected,3
+Albert,Torn,Undirected,2
+Albert,Albret Flint,Undirected,1
+Elna,Torn,Undirected,2
+Elna,Hevner,Undirected,1
+Albert,Hevner,Undirected,1
+Elna,Hnn,Undirected,2
+Georg,Hnn,Undirected,2
+Elna,Margretegaard,Undirected,3
+Albert Flint,jø,Undirected,1
+Torn,jø,Undirected,1
+Albert,jø,Undirected,1
+Gud,Jed,Undirected,1
+Albert Flint,Gud,Undirected,1
+Cousine,Georg,Undirected,1
+Cousine,Daggry,Undirected,1
+Daggry,Elna,Undirected,1
+Elna,rir,Undirected,1
+Albert Flint,Clara,Undirected,7
+Clara,Margretegaard,Undirected,1
+Clara,Frøken Elna,Undirected,2
+Albert,Clara,Undirected,18
+Clara,Elna,Undirected,17
+Aland,Elna,Undirected,1
+Aland,Albert,Undirected,1
+Georg,Gud,Undirected,2
+Clara,Gud,Undirected,1
+Elna,Jsblærer,Undirected,1
+Friberg,Gud,Undirected,1
+Albert,Frøken Elna,Undirected,2
+Clara,Hubert,Undirected,1
+Alberthun,Elna,Undirected,1
+Clara,Friberg,Undirected,2
+Albert,Jakob,Undirected,3
+Ansigtef,Elna,Undirected,1
+Albert,Punsch,Undirected,1
+Albert,flog Elna,Undirected,1
+Clara,Georg,Undirected,1
+Albert,Jacob,Undirected,1
+Albert,gjentøg,Undirected,1
+Antonie Born,Berger,Undirected,1
+Berger,Edvard,Undirected,1
+Berger,Konsul Borns,Undirected,1
+Frøken Antonie,Obersfen,Undirected,1
+Antonie,saalænge,Undirected,1
+Berger,Rømer,Undirected,1
+Antonie,Born ndstyrede,Undirected,1
+Elna,Fatter Bendts,Undirected,1
+Fatter Bendts,LXII,Undirected,1
+Bendts,Ellen,Undirected,1
+Elna,Moer Bendt,Undirected,1
+Bendt,Moer Bendt,Undirected,1
+Albert,hnn,Undirected,1
+Ellen,Moer,Undirected,1
+Albert,Ellen,Undirected,8
+Daniel,Ellen,Undirected,2
+Albert,Daniel,Undirected,1
+Daniel,Herrens,Undirected,1
+Albert,mev,Undirected,1
+Bendt,Moer,Undirected,1
+Bendt,Daniel,Undirected,1
+Albert,Bendt,Undirected,2
+Bendt,Ellen,Undirected,1
+Albert,Moer,Undirected,4
+Albert,jæg,Undirected,1
+Albert,Madam Brun,Undirected,2
+Albert,Moer Bendt,Undirected,1
+Elna,Madam Brun,Undirected,1
+Ellen,Moer Bendt,Undirected,1
+Ellen,Elna,Undirected,1
+Albert,Kudsken,Undirected,3
+Georg,eg,Undirected,1
+Albert Flint,eg,Undirected,1
+Georg,hans Kudsk,Undirected,1
+Karlen,hans Kudsk,Undirected,1
+Albert,hans Kudsk,Undirected,2
+Albert kjørte,hans Kudsk,Undirected,1
+Albert,Madam Grub,Undirected,1
+Elna,Moer,Undirected,2
+Moer,Moer Grub,Undirected,1
+Elna,Moer Grub,Undirected,4
+Albert Flint,Flint,Undirected,1
+Flint,Moer Grub,Undirected,1
+Albert,Moer Grub,Undirected,5
+Elna,sg,Undirected,1
+Albert,sg,Undirected,1
+Grub,Moer,Undirected,5
+Albert,Grub,Undirected,1
+Albert,Moer Grob,Undirected,1
+Flint,Moer,Undirected,1
+Flint,Friberg,Undirected,1
+Albert Flint,Moer,Undirected,1
+Albert Flint,Elna Friberg,Undirected,1
+Albert,Franks,Undirected,1
+Albert,Kudsk,Undirected,1
+Elna,Jens Mikkelsen,Undirected,1
+Jens Mikkel —,Jens Mikkelsen,Undirected,1
+Jens Mikkel,Jens Mikkel —,Undirected,1
+Jens Mikkel,"Karl,",Undirected,1
+Jens,Per,Undirected,3
+Jens,Peer,Undirected,1
+Jøsses,Peer,Undirected,1
+Jens Mikkel,Per,Undirected,6
+Georg,hans Karl,Undirected,1
+Jens,Mikkel,Undirected,2
+Georg,Mikkel,Undirected,1
+Georg,Per,Undirected,6
+Georg,Karlen,Undirected,1
+Husbonds,Jens Mikkel,Undirected,1
+Georg,Snøvsen,Undirected,1
+Georg,Moer Grub,Undirected,3
+Jens Mikkel,Moer Grub,Undirected,1
+Georg,jusf,Undirected,1
+Georg,Moer,Undirected,2
+Georg,Grub,Undirected,1
+Hr. Flint,Moer Grub,Undirected,1
+Mikkel,Per,Undirected,1
+Georg Friberg,Jens Mikkel,Undirected,1
+Georg,Jens,Undirected,2
+Georg,Jens Mikkel,Undirected,2
+Moer Grub,Mortensen,Undirected,2
+Jens,Moer,Undirected,1
+Moer,sidsfe,Undirected,1
+Georg,Jeq,Undirected,1
+Elna,Jeq,Undirected,1
+Moer,Mortensen,Undirected,1
+Geora,Jens Mikkel,Undirected,1
+Georg,Hesfene,Undirected,1
+Franks,Hesfene,Undirected,1
+Albert,Dokfor,Undirected,1
+Dokfor,Frank,Undirected,1
+Albert,Frank,Undirected,2
+Albert,Dokforen,Undirected,1
+Elna,jden,Undirected,1
+Albert,jden,Undirected,1
+Elna,deni,Undirected,1
+Albert,deni,Undirected,1
+Alonzo,Fanny,Undirected,1
+Georg,Isabella,Undirected,1

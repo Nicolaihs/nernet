@@ -1,0 +1,76 @@
+source,target,type,weight
+Axelson,Jomfru Axelsons,Undirected,1
+Axelson,Krog,Undirected,1
+Axelson,Madam Hansen,Undirected,5
+Adam Hansen,Axelson,Undirected,1
+Adam Hansen,Adamsæble,Undirected,1
+Emma,Krog,Undirected,7
+Emma,Madam Hansen,Undirected,14
+Emma,Madammen,Undirected,4
+Emma,Lars Christensen,Undirected,3
+Emma,Lars,Undirected,15
+Lars,Madam Hansen,Undirected,2
+Axelson,Emma,Undirected,1
+Jomfru Axelson,Jomfru Axelsons,Undirected,1
+Hansen,Jomfru Axelson,Undirected,1
+Axelson,Hansen,Undirected,3
+Bohave,Hansen,Undirected,1
+Bohave,Jomfru Axelson,Undirected,1
+Jomfru Axelson,Madam Hansen,Undirected,1
+Hansen,Madam Hansen,Undirected,1
+Gud,Hansen,Undirected,3
+Emma,Hansen,Undirected,20
+Hansen,Lars,Undirected,8
+Lars Christensen,Madam Hansen,Undirected,2
+Hansen,Lars Christensen,Undirected,2
+Lars,s,Undirected,4
+Emma,s,Undirected,1
+Lars,Ole Suhrsgade,Undirected,1
+Emma,Ole Suhrsgade,Undirected,1
+Lars,Madam,Undirected,1
+Hansen,Madam,Undirected,2
+Lars,Lars Christensen,Undirected,1
+Madam,Madammen,Undirected,1
+Hansen,skraa,Undirected,1
+Emma —,skraa,Undirected,1
+Emma —,Hansen,Undirected,1
+Lars,Madammen,Undirected,1
+Finkelstein,Finkelsteins,Undirected,1
+Finkelstein,Kirstine,Undirected,4
+Emma,Finkelstein,Undirected,14
+Finkelstein,Hansen,Undirected,1
+Hansen,Svend,Undirected,1
+Finkelstein,Svend,Undirected,1
+Finkelstein,Madammen,Undirected,1
+Hr. Finkelstein,Madammen,Undirected,1
+Emma,Hr. Finkelstein,Undirected,3
+Emma,Kirstine,Undirected,5
+Emma,Såa,Undirected,1
+Lars bankede,Såa,Undirected,1
+Lars,skjelne Hansens,Undirected,1
+Emma,lille —,Undirected,1
+Emma,Gud,Undirected,2
+Krog,Madam Hansen,Undirected,2
+Kirstine,Madam Hansen,Undirected,2
+Finkelstein,Madam Hansen,Undirected,3
+Emma,Kirstine Finkelstein,Undirected,2
+Emma,Jokums,Undirected,3
+Emma,Pepita,Undirected,28
+Pepita,Pepita Ivers,Undirected,1
+Jokum,Pepita,Undirected,2
+Jokum,Rødfixens,Undirected,1
+Emma,Rødfixens,Undirected,1
+Emma,Jokum,Undirected,3
+Emma,Jokum Fix,Undirected,1
+Krog,Rødfix,Undirected,1
+Emma,Rødfix,Undirected,1
+Emma Jonsson,Madam Hansen,Undirected,1
+Emma Jonsson,Krog,Undirected,2
+Jonsson,Krog,Undirected,4
+Gud,Krog,Undirected,1
+Finkelstein,Hrr,Undirected,2
+Hrr,Jonas Finkelstein,Undirected,2
+Pepita,Rødfix,Undirected,1
+Madam Hansen,Svend,Undirected,1
+Emma,Svend,Undirected,1
+Kukkuk,Pepita,Undirected,1

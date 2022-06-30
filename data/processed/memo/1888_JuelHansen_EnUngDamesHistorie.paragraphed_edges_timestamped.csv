@@ -1,0 +1,437 @@
+source,target,timestamp
+Olivia,Skou,1
+Margrethe,Skou,1
+Olivia,lup,6
+Mama,Olivia,6
+Mama,Skou,6
+Mama,Papa,8
+Mama,Olivia,8
+Mama,Olivia,8
+Mama,Olivia,8
+Fortepiano,Olivia,8
+Margrethe,Olivia,10
+Mama,Margrethe,10
+Mama,Mutter,10
+Margrethe,Olivia,14
+Margrethe,Olivia,17
+Olivia,Skou,17
+Mama,Margrethe,19
+Malle,Margrethe,20
+Christian,Malle,20
+Christian,Hr. Holms,20
+Christian,Margrethe,22
+Hr. Holms,Margrethe,22
+Gud,Hr. Holms,22
+Gud,véd,22
+Margrethe,Olivia,25
+Christian,Margrethe,26
+Mama,Margrethe,26
+Margrethe,Tante Malle,28
+Skou,lille Olivia,30
+Skou,lille Margrethe,30
+Margrethe,lille Margrethe,30
+Malle,Margrethe,30
+Olivia,hiin,31
+Mama,Margrethe,33
+Christian,Margrethe,35
+Christian,Mama,35
+Mama,Tante Malle,35
+Christian,Malle,37
+Blodel,Mama,38
+Mama,Margrethe,39
+Louise Holm,Mama,39
+Olivia,Pastor Skou,41
+Margrethe,Olivia,41
+Margrethe,Papa,41
+A,Papa,41
+A,Papa,41
+Margrethe,Papa,41
+Olivia,Skou,42
+Salomos,Skou,45
+Christian,Mama,46
+Christian,Papa,46
+Darwin,Papa,46
+Christo,Mama,47
+Mama,Skou,47
+Margrethe,Olivia,48
+Olivia,Papa,49
+Gud,Olivia,49
+Christian,Gud,49
+Olivia,Papa,50
+Olivia,Papa,50
+Mama,Margrethe,54
+Christian,Margrethe,54
+Christian,Hans,54
+Hans,Mama,54
+Mama,Margrethe,54
+Mama,Margrethe,54
+Mama,Papa,54
+Christian,Papa,54
+Margrethe,Skou,57
+Margrethe,Olivia,57
+Gud,Mama,59
+Mama,Tante Malle,61
+Tante Malle,vips,61
+Klyno,Margrethe,62
+Mama,Olivia,66
+Mama,Olivia,67
+Clara,Olga,70
+Emma,Olga,70
+Mama,Margrethe,72
+Gud,Mama,76
+Gud,Margrethe,79
+Gud,Mama,81
+Hans,tys,83
+smålo,tys,83
+Christian,Olivia,84
+Margrethe,Olivia,88
+Frøken Petersen,Papa,89
+Mama,Papa,89
+Gud,Margrethe,90
+Mama,Margrethe,90
+Mama,Papa,91
+Mama,Papa,94
+Olivia,Papa,97
+Margrethe,Olivia,97
+Mama,Olivia,98
+Mama,Olivia,98
+Mama,Margrethe,98
+Maren,Margrethe,98
+Ane,Maren,98
+Hr. Holm,Mama,101
+Hr. Holm,Margrethe,101
+Christian,Margrethe,102
+Mama,Margrethe,103
+Mama,Papa,106
+Mama,Papa,107
+Mama,Papa,110
+Mama,Margrethe,110
+Mama,Papa,111
+Christian,Mama,111
+Christian,Mama,111
+Mama,Margrethe,113
+Gud,Margrethe,113
+Christian,Watteau,115
+Rosa,Watteau,115
+Margrethe,yar Mama,116
+Margrethe,Papa,116
+Mama,Papa,117
+Mama,Papa,117
+Christian,Mama,117
+Gud,Margrethe,120
+Ane,Christian,121
+Christian,Mama,121
+Ane,Mama,122
+Gud,Mama,122
+Gud,Olivia,122
+Olivia,olen,122
+Mama,Papa,124
+Mama,Margrethe,124
+Christian,Gud,125
+Christian,Papa,128
+Christian,d,129
+Christian,d,129
+Christian,Pjerrot,129
+Karl,Pjerrot,129
+Christian,Karl,129
+Kommers,Papa,130
+Christian,hinandem,135
+Papa,hinandem,135
+Christian,Mama,138
+Mama,Olivia,138
+Olivia,Papa,138
+Badouille,Papa,138
+Badouille,Papa,138
+Gud,Papa,138
+Mama,Papa,139
+Mama,Papa,139
+Mama,Margrethe,140
+Margrethe,Papa,141
+Christian,Margrethe,142
+Christian,Mama,142
+Mama,Margrethe,144
+Louise,Mama,145
+Mama,Olivia,145
+Mama,Margrethe,146
+Margrethe,Papa,148
+Christian,Papa,148
+Christian,Stupigen,148
+Margrethe,Papa,152
+Mama,Margrethe,162
+Brosche,Mama,163
+Brosche,Margrethe,163
+Mama,Margrethe,166
+Christian,Margrethe,166
+Margrethe,Papa,168
+Mama,Margrethe,169
+Mama,Margrethe,169
+Margrethe,Papa,170
+Margrethe,Papa,170
+Mama,Papa,170
+Mama,Papa,171
+Mama,Papa,171
+Margrethe,Olivia,173
+Margrethe,Olivia,173
+Christian,Margrethe,188
+Margrethe,Tante Malle,190
+Tante Malle,tom,191
+Papa,Tante Malle,191
+Papa,Pastor Jensens,192
+Gud,Papa,192
+Gud,véd,192
+Jensen,véd,192
+Jensen,Papa,193
+Jensen,Tomhed,193
+Christian,Tomhed,193
+Gud,Jensen,194
+Christian,Gud,194
+Christian,Jensen,194
+Jensen,Papa,196
+Gud,Jensen,196
+Jensen,Tante Malle,197
+Jensen,durch,197
+Christian,durch,197
+Christian,Jensen,197
+Gud,Jensen,197
+Helene,Jensen,201
+Christian,Jensen,202
+Gud,Pastor Jensen,203
+Gud,Olivia,204
+Gud,Olivia,205
+Gud,Olivia,205
+Gud,Olivia,207
+Margrethe,Olivia,207
+Margrethe,Tante Malle,207
+Margrethe,Tante Malle,207
+Margrethe,Olivia,207
+Margrethe,Olivia,209
+Olivia,Papa,209
+Mama,Olivia,210
+Olivia,Papa,210
+Olivia,Papa,210
+Mama,Olivia,211
+Margrethe,Olivia,211
+Margrethe,Olivia,211
+Margrethe,Olivia,211
+Margrethe,Olivia,218
+Mama,Olivia,219
+Mama,Olivia,219
+Gud,Margrethe,220
+Mama,Margrethe,221
+Hugo,Mama,221
+Hugo,Jesus,221
+Margrethe,Olivia,222
+Gud,Olivia,222
+Mama,Olivia,223
+Gud,Margrethe,225
+Olivia,Schou,226
+Mama,Margrethe,228
+Mama,Olivia,229
+Mama,Margrethe,230
+Margrethe,Skou,233
+Olivia,Skou,233
+Mama,Papa,234
+Mama,Papa,234
+Mama,Papa,235
+Eva,Gud,236
+Eva,Gud,236
+Margrethe,Papa,240
+Olivia,Papa,242
+Margrethe,Papa,243
+Margrethe,Olivia,245
+Mama,Olivia,245
+Mama,Margrethe,245
+Gud,Margrethe,246
+Mama,Margrethe,248
+Mama,Margrethe,248
+Mama,Margrethe,248
+Mama,Margrethe,249
+Mama,Margrethe,249
+Margrethe,Papa,250
+Mama,Papa,250
+Mama,Olivia,250
+Margrethe,Olivia,250
+Jensen,Margrethe,250
+Gud,Jensen,250
+Gud,Jensen,251
+Jensen,Olivia,251
+Olivia,Pastor Jensen,251
+Gud,Pastor Jensen,251
+Gud,Malle,253
+Gud,Malle,253
+Gud,Jensen,253
+Jensen,Papa,254
+Christus,Jensen,254
+Christus,Papa,254
+Mama,Olivia,255
+Margrethe,Papa,256
+Mama,Margrethe,257
+Margrethe,Papa,260
+Margrethe,Papa,260
+Mama,Papa,260
+Mama,Olivia,260
+Ellen Bramsen,Ludovika v. Arndt,261
+Ludovika v. Arndt,Papa,261
+Margrethe,Papa,263
+Gud,Papa,264
+Mama,Papa,266
+Gud,Margrethe,268
+Margrethe,Papa,269
+Ludovika,Margrethe,272
+Ellen Bramsen,Margrethe,272
+Ludovika,Olivia,273
+Christian,Ilendes,274
+Christian,Margrethe,275
+Mama,Margrethe,277
+Olivia,påny,281
+Mama,påny,281
+Mama,Papa,281
+Mama,Margrethe,282
+Margrethe,Papa,283
+Caroline,Herkules,287
+Ludovika,Mama,289
+Gud,Margrethe,291
+Ludovika,Margrethe,293
+Ludovika,Perdu,293
+Mama,Margrethe,295
+Møller,Papa,298
+Mama,Mr s.,299
+Gouvernante,Mama,299
+Gouvernante,Lordens,299
+Lordens,Margrethe,299
+Lords,Møller,300
+Gud,Papa,301
+Margrethe,Møller,302
+Margrethe,Papa,302
+Mama,Papa,302
+Mama,Møller,302
+Mama,Møller,302
+Mama,Margrethe,304
+Christian,Mama,304
+Mama strax,Margrethe,306
+Mama strax,Margrethe,306
+Mama,Margrethe,306
+Margrethe,Papa,307
+Mama,Papa,307
+Mama,Papa,307
+Gud,Papa,307
+Gud,Papa,307
+Lise,Margrethe,309
+Møller,Papa,317
+Margrethe,Papa,321
+Hans,Papa,321
+Gud,Hans,321
+Gud,Mama,321
+Mama,Margrethe,321
+Margrethe,Papa,321
+Gretemo,Papa,322
+Gretemo,Margrethe,322
+Gud,Margrethe,322
+Mama,Margrethe,323
+Margrethe,Olivia,323
+Mama,Olivia,323
+Mama,Olivia,323
+Mama,Olivia,323
+Møller,Papa,325
+Mama,Papa,329
+Olivia,Olivia —,330
+Mama,Olivia,330
+Henning Møller,phil.,335
+Henning Møller,Margrethe,335
+Margrethe,Papa,335
+Mama,Margrethe,339
+Margrethe,Papa,339
+Henning Møller,Holm,342
+Gud,Margrethe,343
+Margrethe,Papa,345
+A,véd,346
+A,Mama,346
+Mama,Papa,346
+Mama,Papa,347
+Mama,Margrethe,347
+Kjød,Møller,349
+Kjød,Margrethe,349
+Margrethe,Schou,349
+Olivia,Schou,349
+Olivia,Svigerpapa,349
+Mama,Svigerpapa,349
+Gud,Mama,349
+Margrethe,Papa,350
+Margrethe,Papa,354
+Mama,Margrethe,355
+Ane,Margrethe,355
+Ane,Møller,355
+Margrethe,Møller,355
+Mama,Margrethe,355
+Mama,Papa,355
+Mama,Papa,356
+Dr. Møller,Papa,356
+Gud,Peter,359
+Mama,Margrethe,362
+Mama,Margrethe,362
+Gud,Peter,363
+Gud,Peter,364
+Gud,Peter,365
+Margrethe,Peter,366
+Margrethe,Olivia,366
+Gud,Olivia,366
+Gud,Peter,366
+Papa,•PåPapa,371
+Mama,sauve-garde,375
+Mama,Papa,383
+Mama,Margrethe,383
+Kjæresten,Margrethe,386
+Mama,Papa,391
+Mama,Papa,392
+Møller,kjed,399
+Møller,Papa,399
+Mama,Papa,401
+Margrethe,paany,402
+Papa,paany,402
+Fru Ludovikas,Margrethe,405
+Fru Ludovikas,Margrethe,405
+Ludovika,Margrethe,407
+Christian,Otto Krog,408
+Hr. Krog,Ludovika,409
+Frøken Holm,Hr. Krog,409
+Christian,Ludovika,410
+Ludovika,Margrethe,410
+Frøken Holm,Margrethe,417
+Krog,Margrethe,419
+Margrethe,skjælmsk,420
+Margrethe,skjælmsk,420
+Ane,Gud,427
+Ane,Margrethe,428
+Mama,Papa,431
+Ludovika,Olivia,436
+Krog,Papa,437
+Christian,Krog,437
+Mama,Papa,438
+Mama,Margrethe,438
+Mama,Margrethe,442
+Mama,Margrethe,442
+Margrethe,Olivia,442
+Mama,Margrethe,443
+Mama,Olivia,443
+Mama,Papa,456
+Mama,Papa,459
+Gud,Marter,461
+Møller,Papa,462
+Otto Krog,Papa,464
+Gud,Møller,465
+Gud,Papa,465
+Mama,Papa,466
+Mama,Olivia,466
+Mama,Papa,467
+Mama,Papa,467
+Mama,Papa,467
+Margrethe,Papa,467
+Margrethe,Papa,473
+Mama,Papa,477
+Mama,Papa,477
+Mama,Margrethe,477
+Møller,Papa,478
+Mama,Papa,478
+Mama,Olivia,480
+Olivia,Papa,480
+Henning Møller,Margrethe,494

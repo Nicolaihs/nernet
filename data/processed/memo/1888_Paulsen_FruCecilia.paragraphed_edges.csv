@@ -1,0 +1,183 @@
+source,target,type,weight
+Roche,mademoiselle,Undirected,1
+Kate Deans,Mrs. Bright,Undirected,1
+Guy de Maupassant,Kate Deans,Undirected,1
+Guy de Maupassant,Mrs.,Undirected,1
+Mrs.,mademoiselle de Roche,Undirected,1
+mademoiselle de Roche,mauvais,Undirected,1
+Kate,mauvais,Undirected,1
+Dagny Smith,Elna Heiberg,Undirected,2
+Elna Heiberg,Heibergs,Undirected,1
+Zola,gerate,Undirected,1
+Blanka,Eilerts,Undirected,8
+Elna,Elna Heiberg,Undirected,1
+Blanka,Elna,Undirected,8
+Blanka,Cecilia,Undirected,17
+Blanka,Henry Münster,Undirected,2
+Blanka,Henry,Undirected,73
+Henry,Munster,Undirected,1
+Blanka,Munster,Undirected,2
+Blanka,taus,Undirected,5
+Lewald,hrr.,Undirected,2
+Cecilia,Ceciliaj,Undirected,1
+Cecilia,Frøken Høgh,Undirected,4
+Frøken Høgh,Høgh,Undirected,1
+Gud,Høgh,Undirected,2
+Henry,Høgh,Undirected,7
+Høgh,Olsen »,Undirected,3
+Olsen »,Petra,Undirected,1
+Henry,Petra,Undirected,5
+Blanka,Høgh,Undirected,10
+Heiberg,Heibergs,Undirected,1
+Blanka,Heiberg,Undirected,4
+Elna,Henry,Undirected,3
+Münster,hrr,Undirected,2
+Blanka Eilerts,Münster,Undirected,1
+Blanka Eilerts,Eina Heiberg,Undirected,1
+Cecilia,Eina Heiberg,Undirected,1
+Cecilia,Høgh,Undirected,6
+Frøken Høgh,Henry,Undirected,2
+Eilerts,Høgh,Undirected,1
+Eilerts,Gud,Undirected,1
+Blanka,Gud,Undirected,1
+Blanka,Elna Heiberg,Undirected,1
+Elna,Heiberg,Undirected,2
+Blanka,Dagny Smith,Undirected,3
+Blanka,Chopin,Undirected,1
+Eilerts,Olsens,Undirected,1
+Cecilia,Eilerts,Undirected,1
+Cecilia,valte,Undirected,1
+Cecilia,Olsen,Undirected,5
+Olsen,Petra,Undirected,8
+Blanka,Olsen,Undirected,12
+Cecilia,hendel,Undirected,1
+Cecilia,Henry,Undirected,15
+Høgh,Lewald,Undirected,1
+Høgh,hrr.,Undirected,1
+Grieg,hrr.,Undirected,1
+Cecilia,Grieg,Undirected,1
+. Lewald,Henry,Undirected,1
+. Lewald,Blanka,Undirected,1
+Hrr.,Jensen,Undirected,1
+Blanka,Jensen,Undirected,1
+Hrr. Jensen,hrr.,Undirected,1
+Jensen,hrr.,Undirected,1
+Jensen,Schumanns,Undirected,1
+Schumanns,rein,Undirected,1
+Henry,Maria Stuart,Undirected,1
+Maria Stuart,capo,Undirected,1
+Henry,Hrr. Jensen,Undirected,1
+Blanka,Hrr. Jensen,Undirected,1
+Flan,Schumanns,Undirected,1
+Petra,sist,Undirected,1
+Don Ranudo-hjem,Henry,Undirected,1
+Bjørnsons,Turgenjeffs,Undirected,1
+Cecilia,Turgenjeff,Undirected,2
+Henry,taus,Undirected,1
+Henry,Turgenjeff,Undirected,2
+Blanka,frøken Blanka,Undirected,1
+Blanka,violoncels,Undirected,2
+Olaf,Wimmer,Undirected,1
+Blanka,konsulinde Heibergs,Undirected,2
+Elna,Kate Dean,Undirected,1
+Kate Dean,påny,Undirected,1
+Elna,påny,Undirected,1
+Heiberg,Henry,Undirected,1
+Alma,Mille,Undirected,1
+Dahin,mein geliebter,Undirected,1
+mein geliebter,ziehn,Undirected,1
+Cecilia Wold,Eilerts,Undirected,1
+Henry,Tralala,Undirected,1
+Elna Heiberg,Henry,Undirected,1
+Karine,Olsen,Undirected,1
+Heiberg,Petra,Undirected,1
+Grans,Petra,Undirected,1
+Grans,Nielsen,Undirected,1
+Nielsen,Petra,Undirected,1
+Blanka,skalv,Undirected,1
+Dagny,Elna,Undirected,4
+Cecilia Eilerts,Henry,Undirected,1
+Henry,sympathi,Undirected,1
+Eilerts,Elna,Undirected,1
+Eilerts,Heine,Undirected,1
+Blanka,Heine,Undirected,1
+Hemy,lblods,Undirected,1
+frøken Blanka,iveien,Undirected,1
+Olsen,gud,Undirected,1
+Blanka,Blanka taug,Undirected,1
+Blanka,Lange,Undirected,1
+Georg,Georgs,Undirected,1
+Blanka,Georg,Undirected,1
+Beate,tante Beates,Undirected,1
+Georg W.,Henry Münster,Undirected,1
+Henry,Henry Münster,Undirected,1
+Blanka,keg,Undirected,1
+Frøken Høgh,frøken Høghs,Undirected,1
+Frøken Høgh,Petra,Undirected,3
+Blanka,Dagny,Undirected,2
+Blanka,frøken Høgh,Undirected,1
+Dagny Smith,løitnant Rytter,Undirected,1
+Elna Heiberg,løitnant Rytter,Undirected,1
+Elna Heiberg,Sigrid Hansen,Undirected,1
+Dagny Smith,Henry,Undirected,1
+Dagny Smith,Elna,Undirected,1
+Dagny,Henry,Undirected,1
+Henry,guttens,Undirected,1
+Blanka,guttens,Undirected,1
+Dagny,Elna Heiberg,Undirected,1
+Blanka,Kate Dean,Undirected,1
+Olsen,frøken Blanka,Undirected,1
+Blanka,Karine,Undirected,1
+Olsen,frøken Høgh,Undirected,1
+Petra,frøken Høgh,Undirected,1
+Aleksandra,Henry,Undirected,1
+Aleksandra,Blanka,Undirected,1
+Høgh,mads,Undirected,1
+Blanka,Petra,Undirected,2
+Henry Münster,hans,Undirected,1
+Blanka,Karoline,Undirected,1
+Cecilia,Petra,Undirected,3
+Blanka,Frøken Høgh,Undirected,2
+Eilerts,Henry,Undirected,2
+Seidewitz,Waldemann,Undirected,1
+Gyldenstjerne,Waldemann,Undirected,1
+Eilerts,Frøken Eilerts,Undirected,1
+Henry,Papa,Undirected,1
+Eilerts,Papa,Undirected,1
+Papa,gud,Undirected,1
+Aleksandra reiser,gud,Undirected,1
+Aleksandra reiser,N.s,Undirected,1
+Gyldenstjerne,N.s,Undirected,1
+Gyldenstjerne,Oscar,Undirected,1
+Oscar,papa,Undirected,2
+Karl,Oscar,Undirected,1
+Edmond,Karl,Undirected,1
+Edmond,reumatisme,Undirected,1
+Henry,taust,Undirected,1
+Frøken Høgh,frøken Høgh,Undirected,1
+Cecilia,frøken Høgh,Undirected,1
+frøken Høgh,sone,Undirected,1
+Høgh,Olsen,Undirected,2
+Cecilia,gud,Undirected,2
+Eros,Henry,Undirected,1
+Blanka,siste,Undirected,2
+Blanka,Eros,Undirected,1
+Don Juan,Henry,Undirected,1
+Cecilia,Don Juan,Undirected,1
+Cecilia,Karine,Undirected,1
+Henry,hildet,Undirected,1
+Henry,påny,Undirected,1
+Cille,madam Grøn,Undirected,1
+Mauritz Hansen,madam Grøn,Undirected,1
+Albert,Mauritz Hansen,Undirected,1
+Faon,Georg W.,Undirected,1
+Faon,slig,Undirected,1
+Cecilia,slig,Undirected,1
+Henry,siste,Undirected,1
+Georg W.,Henry,Undirected,1
+Høgh,påny,Undirected,1
+Jupiter,Karls-vognen,Undirected,1
+Karls-vognen,Kassiopeia,Undirected,1
+Blanka,Karine Olsen,Undirected,1
+Karine Olsen,Malene Høgh,Undirected,1
+Blanka,Malene Høgh,Undirected,1

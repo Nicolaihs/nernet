@@ -1,0 +1,429 @@
+source,target,type,weight
+Frøken Ellinor,Petersen,Undirected,1
+Alexander Stern,Axel Smith,Undirected,1
+Lieutenant Smith,Stern,Undirected,1
+Ellinor,Marguerites,Undirected,2
+Lieutenant Axel,Marguerites,Undirected,1
+Lieutenant Axel,Margit,Undirected,1
+Margit,Marie,Undirected,1
+Anna Holte,Karen,Undirected,1
+Erik Storm,kjære Falsen,Undirected,1
+Erik Storm,Knudsens,Undirected,1
+Ellinor,Erik,Undirected,133
+Ellinor,Lind,Undirected,23
+Betty,Ellinor,Undirected,5
+Betty,Paul,Undirected,5
+liun,tine,Undirected,1
+Margit,liendes,Undirected,1
+Margit,Marguerite,Undirected,1
+Ellinor,Marguerite,Undirected,14
+Ellinor,Paul,Undirected,19
+Axel Smith,Marguerite,Undirected,2
+Ellinor,Stern,Undirected,5
+Marguerite,Stern,Undirected,6
+Ellinor,Smith,Undirected,1
+Smith,Stern,Undirected,1
+Axel Smith,Ellinor,Undirected,2
+Axel Smith,Stern,Undirected,1
+Anna Holte,Marguerite,Undirected,1
+Anna Holte,Frøken Marguerite,Undirected,1
+Frøken Marguerite,Stern,Undirected,1
+Anna,Karen,Undirected,15
+Anna,Ellinor,Undirected,81
+Ellinor,Holte,Undirected,1
+Anna,Søren,Undirected,2
+Ellinor,Karen,Undirected,8
+Ellinor,liun,Undirected,15
+Anna,liun,Undirected,3
+Karen,Mads Persens,Undirected,2
+Mads Persens,lian,Undirected,1
+Mads,lian,Undirected,1
+Jens,Mads,Undirected,1
+Ellinor,lille Anna,Undirected,1
+Johanne,lille Anna,Undirected,1
+Johanne,Knudsens,Undirected,1
+Knudsen,Knudsens,Undirected,1
+Johanne,Knudsen,Undirected,4
+Blun,Johanne,Undirected,1
+Blun,Cecilie,Undirected,1
+Ellinor,Johanne,Undirected,33
+Cecilie,Johanne,Undirected,3
+Cecilie,Ellinor,Undirected,57
+Erik Storm,lian,Undirected,1
+Ellinor,lian,Undirected,5
+Erik,Johanne,Undirected,27
+Albert,Ellinor,Undirected,2
+Cecilie,Erik,Undirected,2
+Erik,liun,Undirected,10
+Johanne,Paul,Undirected,2
+Ellen,Erik,Undirected,11
+Ellen,Ellinor,Undirected,4
+Guds,Johanne,Undirected,1
+Betty,Lind,Undirected,1
+Johanne,Kjøn,Undirected,2
+Erik,Kjøn,Undirected,1
+Ellinor,tillive,Undirected,6
+Johanne,tillive,Undirected,1
+Dalstrøm,Ellinor,Undirected,1
+Ellinor,Knudsen,Undirected,6
+Erik,Knudsen,Undirected,4
+Erik,Paul “,Undirected,1
+Gud,Johanne,Undirected,1
+Gud,véd,Undirected,2
+Albert,Johanne,Undirected,1
+Ellen,Paul,Undirected,2
+Gud,lian,Undirected,2
+Gud,Paul,Undirected,3
+Paul,lian,Undirected,1
+Kristus,lian,Undirected,1
+Erik,Gud,Undirected,5
+Ellen,Gud,Undirected,2
+Erik,kim,Undirected,1
+Erik,Lind,Undirected,5
+Tante Bettys,liendes,Undirected,1
+Paul,Tante Bettys,Undirected,1
+Erik,Paul,Undirected,6
+Axel Smith,Falsens,Undirected,1
+Falsens,Stern,Undirected,1
+Stern,lian,Undirected,1
+Marguerite,lian,Undirected,1
+Alexander,Marguerite,Undirected,1
+Alexander,chantant,Undirected,1
+Marguerite,chantant,Undirected,1
+Lind,Marguerite,Undirected,4
+Abraham,Sara,Undirected,3
+Abraham,Hagar,Undirected,2
+Abraham,Ismael,Undirected,1
+Isak,Ismael,Undirected,1
+Abraham,Isak,Undirected,3
+Abraham,Salomons,Undirected,1
+Ellinor,Salomons,Undirected,1
+Falsens,Paul,Undirected,1
+Alvilda,Fick,Undirected,1
+Alvilda,Marguerite,Undirected,6
+Amalie,Ellinor,Undirected,4
+Aaen,Ellinor,Undirected,1
+Anna Holte,Ellinor,Undirected,4
+Ellinor,Plun,Undirected,2
+Holte,Karen,Undirected,1
+Ellinor,nn,Undirected,1
+Lind,hans Kusk,Undirected,1
+Anna,hans Kusk,Undirected,1
+Cecilie Knudsen,Ellinor,Undirected,6
+Ellinor,Oberstens,Undirected,1
+Anna,Cecilie,Undirected,6
+Ellinor,do,Undirected,3
+Anna,do,Undirected,1
+Anna,Gud,Undirected,2
+Cecilie,liun,Undirected,2
+Cecilie,Gud,Undirected,1
+Paul,haml,Undirected,1
+Cecilie,haml,Undirected,1
+Ellinor,lille Cecilies,Undirected,1
+Engel,lille Cecilies,Undirected,1
+Ellinor,Graad,Undirected,5
+Ellinor,Engel,Undirected,21
+Anna,Engel,Undirected,8
+Cecilie,Engel,Undirected,3
+Ellinor,lille Cecilie,Undirected,1
+Ellinor,Frøken Ellinor,Undirected,1
+Anna,ovei,Undirected,1
+Ellinor,ovei,Undirected,1
+Jens,Mads Persens,Undirected,1
+Ellinor,Jens,Undirected,1
+Ellinor,Hr. Engels,Undirected,1
+Anna,Hr. Engels,Undirected,1
+Engel,Karen,Undirected,1
+Engel,sorn,Undirected,1
+Ellinor,sorn,Undirected,1
+Ellinor,Gud,Undirected,5
+Erik,hendo,Undirected,1
+Erik,Marguerite,Undirected,1
+Ellinor,Polka,Undirected,1
+Engel,Johanne,Undirected,5
+Engel,lotte,Undirected,1
+Ellinor,sattø,Undirected,1
+Johanne,sattø,Undirected,1
+Johanne,Piendes,Undirected,1
+Ellinor,Piendes,Undirected,1
+Engel,Erik,Undirected,6
+Engel,liun,Undirected,6
+Therese,liun,Undirected,1
+Ellinor,Fick,Undirected,2
+Fick,Lind,Undirected,1
+Damo,Ellinor,Undirected,1
+Damo,lios,Undirected,1
+Agerskov,Johanne,Undirected,2
+Ellinor,don,Undirected,2
+Alvilda,Ellinor,Undirected,46
+Ellinor,donne,Undirected,1
+Hole,donne,Undirected,1
+Ellinor,Hole,Undirected,1
+Alvilda,dot,Undirected,1
+Johanne,dot,Undirected,1
+Johanne,Sofie Agerskov,Undirected,2
+Lind,Paul,Undirected,1
+Johanne,Sofie,Undirected,1
+Erik,Sofie,Undirected,1
+Alvilda Ficks,Erik,Undirected,1
+don storslaaode,liendes,Undirected,1
+Dot,liendes,Undirected,1
+Dot,Erik,Undirected,1
+Ellinor,Tante Amalie,Undirected,1
+Ellinor,vulgairt,Undirected,1
+Alvilda,Erik,Undirected,33
+Alvilda,Mama,Undirected,6
+Ellinor,Mama,Undirected,9
+Alvilda,Erik Storm,Undirected,3
+Ellinor,Erik Storm,Undirected,2
+Erik Storm,aleno,Undirected,1
+Paul,aleno,Undirected,1
+Erik,Roson,Undirected,1
+Alvilda Fick,Roson,Undirected,1
+Ellinor,liam,Undirected,3
+Erik,liam,Undirected,5
+Alvilda,Frøken Fick,Undirected,1
+Ellinor,bun,Undirected,2
+Erik,lillo,Undirected,2
+Frøken Falsen,Frøken Fick,Undirected,2
+Erik,Frøken Falsen,Undirected,2
+Alvilda,Hr. Storm,Undirected,1
+Ellinor,liendes,Undirected,4
+Erik,liendes,Undirected,2
+Alvilda,Paul,Undirected,1
+Alvilda,ovor,Undirected,1
+Ellinor,ovor,Undirected,1
+Gud,Lind,Undirected,1
+Erik,Maal,Undirected,1
+Ellinor,Matthæus,Undirected,1
+Ellinor,Kristus,Undirected,1
+Gud,Kristus,Undirected,2
+Gud,Paulus,Undirected,1
+Paulus,Peter,Undirected,1
+Gud,Peter,Undirected,1
+Gud,don Uskyldige,Undirected,1
+Lind,Sædo,Undirected,1
+Ellinor,Sædo,Undirected,1
+Paulus,sorn,Undirected,1
+Paulus,Petrus,Undirected,1
+Don,Gud,Undirected,1
+Erik,ikko,Undirected,1
+Dores,Erik,Undirected,1
+Dores,Ellen,Undirected,1
+Alvilda Fick,Erik,Undirected,3
+Alvilda Fick,don ene,Undirected,1
+Sofie Agerskov,liun,Undirected,1
+Paul,liun,Undirected,1
+Johanne,liun,Undirected,4
+Elverhøj,Johanne,Undirected,2
+Alvilda,don mørke Haarfylde,Undirected,1
+Erik,don mørke Haarfylde,Undirected,1
+Alvilda,liun,Undirected,3
+liun,valait,Undirected,1
+Ellinor,valait,Undirected,1
+Do,Engel,Undirected,1
+Alvilda,Frøken Falsen,Undirected,3
+Alvilda,Engel,Undirected,5
+Engel,Frøken Falsen,Undirected,3
+Alvilda,Storm,Undirected,1
+Erik,Frøken Fick,Undirected,2
+Engel,Mama,Undirected,2
+Gud,livor,Undirected,1
+Therese,livor,Undirected,1
+Cecilie,Cecilie Knudsen,Undirected,1
+Alvilda Fick,Johanne,Undirected,2
+Alvilda,Johanne,Undirected,2
+Alvilda,Sofie,Undirected,1
+Ellinor,Sofie,Undirected,6
+Ellinor,Rosen,Undirected,4
+Johanne,sigiSeng,Undirected,1
+Johanne,paany,Undirected,1
+Paul,paany,Undirected,1
+Agerskov,Betty,Undirected,1
+Agerskov,Knudsen,Undirected,1
+Erik,Uha,Undirected,1
+Betty,Uha,Undirected,1
+Betty,Erik,Undirected,2
+Sofie,idothun,Undirected,1
+Ernst,idothun,Undirected,1
+Ellinor,Ernst,Undirected,4
+Agerskov,Ernst,Undirected,1
+Ernst,Sofie,Undirected,1
+liam,liun,Undirected,2
+kjære Ellinor,liun,Undirected,1
+kjære Ellinor,liendes,Undirected,1
+liendes,liun,Undirected,2
+Betty,liun,Undirected,1
+Aprilmaaned,Ellinor,Undirected,1
+Erik,Plun,Undirected,2
+Erik,Grevinde Rosen,Undirected,2
+Ellinor,Therese Rosen,Undirected,3
+Erik,Therese Rosen,Undirected,2
+Marguerite,Rosen,Undirected,2
+liun,livor,Undirected,1
+Erik,livor,Undirected,2
+Ellinor,lieller,Undirected,2
+A pathi,Ellinor,Undirected,1
+A pathi,Lind,Undirected,1
+Ellinor,Flun,Undirected,1
+Alvilda,Flun,Undirected,1
+Amalie,Storm,Undirected,1
+Ellinor,svaro,Undirected,1
+Erik,svaro,Undirected,1
+Erik,Thora,Undirected,1
+Alvilda,Thora,Undirected,1
+Alvilda,Kester,Undirected,1
+Ellinor,Foi-,Undirected,1
+Doktor-,Lind,Undirected,1
+Ellinor,Trine,Undirected,7
+Anna,lian,Undirected,2
+Ernst Agerskov,Fick,Undirected,1
+Ernst Agerskov,Rosen,Undirected,1
+Lind ei' Erik Storm,Rosen,Undirected,1
+Engel,Ernst Agerskov,Undirected,6
+Ernst Agerskov,Stern,Undirected,1
+Engel,Stern,Undirected,1
+Engel,Marguerite,Undirected,3
+Egonkjærlig,Ellinor,Undirected,1
+Emilie,Gud,Undirected,1
+Agerskov,Ellinor,Undirected,2
+Agerskov,Fick,Undirected,1
+Ellinor,Ernst Agerskov,Undirected,6
+Agerskov,Erik Storm,Undirected,1
+Agerskov,Engel,Undirected,3
+Agerskov,Ellinor Falsen,Undirected,1
+Ellinor Falsen,Engel,Undirected,2
+Alvilda Fick,Ellinor,Undirected,1
+Erik,Ernst Agerskov,Undirected,1
+Engel,Erik Storm,Undirected,4
+Engel,Storm,Undirected,1
+Alvilda Fick,Storm,Undirected,1
+Ernst,Mama,Undirected,1
+Ernst,liun,Undirected,1
+Ernst Agerskov,Marguerite,Undirected,1
+Erik Storm,Ernst Agerskov,Undirected,1
+Agerskov,Erik,Undirected,1
+Erik Storm,Gud,Undirected,1
+Edvard Strøm,Ellinor,Undirected,1
+Edvard Strøm,Storm,Undirected,1
+Ellinor,Flan,Undirected,1
+Ernst,Ernst Agerskov,Undirected,1
+Erik,Rosen,Undirected,5
+Ellinor,Mo’,Undirected,1
+Mo’,r,Undirected,1
+Erik Storm,Marguerite,Undirected,1
+Erik Storm,Otto Engel,Undirected,1
+Draaben,Ellinor,Undirected,1
+Callaknop,Erik,Undirected,1
+Engel,ifjor,Undirected,1
+Ellinor,ifjor,Undirected,1
+Erik,Frøken Alvilda,Undirected,2
+Alvilda Fick,Erik Storm,Undirected,1
+Alvilda Fick,Engel,Undirected,2
+Agerskov,Anna Holte,Undirected,1
+Alvilda,Amalie Fick,Undirected,1
+Ellinor,Olje,Undirected,1
+Fick,Paul,Undirected,1
+Agerskov,Frøken Falsen,Undirected,2
+Anna Holte,Ellinor øjeblikkelig,Undirected,1
+Anna,Anna Holte,Undirected,3
+Eilen,Ellen,Undirected,1
+Ellinor,Karl,Undirected,1
+Gud,liam,Undirected,2
+Ellinor,Therese,Undirected,8
+Therese,hGilde,Undirected,1
+Grevinde Rosen,hGilde,Undirected,1
+Lind,Therese Rosen,Undirected,1
+Erik,Therese,Undirected,9
+EllinorHun,Therese,Undirected,1
+Therese,Therese Rosen,Undirected,1
+Kammerjunker Storms,kjørt,Undirected,1
+Ellinor,Kammerjunker Storms,Undirected,1
+Grevinde Rosen,Trine,Undirected,1
+Grevinden,Therese,Undirected,1
+Erik,Eros,Undirected,1
+Anteros,Eros,Undirected,1
+Anteros,Erik,Undirected,1
+Ellinor,Storm,Undirected,1
+Anna,Erik Storm,Undirected,2
+Anna,|EUinor,Undirected,1
+Ernst Agerskov,Otto Engel,Undirected,1
+Engel,Otto Engel,Undirected,1
+Engel,Ernst,Undirected,1
+Ellinor Falsen,Ernst,Undirected,1
+Ernst Agerskov,bodro,Undirected,1
+Ellinor,Ellinor Falsen,Undirected,1
+Erik,Johanne Knudsen,Undirected,2
+Johanne Knudsen,lian,Undirected,1
+lian,liun,Undirected,2
+Ellinor,liam dot,Undirected,1
+liam dot,lian,Undirected,1
+lian,livor,Undirected,1
+Agerskov,livor,Undirected,1
+Agerskov,Ernst Agerskov,Undirected,1
+Ernst Agerskov,liun,Undirected,1
+Engel,don,Undirected,1
+Engel,Talon,Undirected,1
+Ellinor,Talon,Undirected,1
+Frøken Falsen,don unge Damo,Undirected,1
+Frøken Falsen,sonore,Undirected,1
+Agerskov,sonore,Undirected,1
+Therese Rosen,lian havdo,Undirected,1
+Marie,Therese Rosen,Undirected,1
+Do,Paul,Undirected,1
+Grevinde Rosen,don,Undirected,1
+Rosen,don,Undirected,1
+Ilosen,Marguerite,Undirected,1
+Amalie Fick,Marguerite,Undirected,2
+Marguerite,liun,Undirected,2
+Rosen,liun,Undirected,1
+Rosen,liendes,Undirected,1
+Ellinor,don samme,Undirected,1
+Graad,don samme,Undirected,1
+Ellinor,dot,Undirected,1
+Paul,dot,Undirected,1
+Erik,lian,Undirected,1
+Ellinor,lien,Undirected,1
+bondes,donne,Undirected,1
+bondes,liun,Undirected,1
+godo,liun,Undirected,1
+godo,livor,Undirected,1
+Erik,don,Undirected,1
+don,lian,Undirected,1
+,lian,Undirected,1
+Ellinor’,Lind,Undirected,1
+Ellinor’,Rosen,Undirected,1
+Lind,Stern,Undirected,1
+Lind,Søbado,Undirected,1
+Grevinde Rosen,livor ot,Undirected,1
+liun,livor ot,Undirected,1
+Madam Kastberg,liendes,Undirected,1
+Ellindr,Erik,Undirected,1
+Alvilda,Ellindr,Undirected,1
+Rosen,Stern,Undirected,1
+DoktorLind,Ellinor,Undirected,2
+Ellinor,Grevinde Rosen,Undirected,2
+Alvilda,Stern,Undirected,2
+Erik,Stern,Undirected,1
+Ernst Agerskov,liam,Undirected,1
+Knudsen,liun,Undirected,1
+Cecilie,Knudsen,Undirected,1
+Cecilie Knudsen,Hottes,Undirected,1
+Cecilie,Karen,Undirected,1
+Cecilie,Mads Persens Jens,Undirected,1
+Anna,Mads Persens Jens,Undirected,1
+Anna,Jens,Undirected,1
+Jens,Karen,Undirected,1
+Erik,Fredsholm,Undirected,1
+Ellinor,Fredsholm,Undirected,1
+Mama,Marguerite,Undirected,1
+Grevinde Rosen,Stern,Undirected,1
+Therese,ban,Undirected,1
+Ellinor,livis,Undirected,2
+Ellinor,Sofie Agerskov,Undirected,1
+Duennas,Ellinor,Undirected,1
+Duennas,hendo,Undirected,1
+Erik,Jiam,Undirected,1
+Ellinor,Jiam,Undirected,1
+Mama,livor,Undirected,1
+Karl,Knudsen,Undirected,1

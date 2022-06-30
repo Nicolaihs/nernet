@@ -1,0 +1,176 @@
+source,target,type,weight
+Georg Stén,Oluf,Undirected,1
+Georg Stén,Oluf Gerner,Undirected,1
+Georg,Oluf,Undirected,70
+Ella,Oluf,Undirected,4
+Ella,Georg,Undirected,2
+Georg,Gudrun,Undirected,5
+Georg Sten,Oluf,Undirected,1
+Oluf,d,Undirected,1
+Skraa,d,Undirected,1
+Frøken Ella,Oluf,Undirected,3
+Georg,—,Undirected,1
+Frøken Gudruns,Oluf,Undirected,1
+Georg,Levy,Undirected,2
+Georg,Olsen,Undirected,10
+Ella,Gudrun,Undirected,4
+Frøken Ella,Gudrun,Undirected,1
+Frøken Gudruns,Georg,Undirected,2
+Gudrun,Oluf,Undirected,1
+Frøken Gudruns,Gudrun,Undirected,1
+Asmussen,Oluf,Undirected,7
+Asmussen,Georg,Undirected,2
+Max,Sylten,Undirected,1
+Nikolaj,Sylten,Undirected,1
+Asmussen,Gerner,Undirected,1
+Hansted-Sørensen,Oluf,Undirected,2
+Oluf,Schinkel,Undirected,2
+Georg,Schinkel,Undirected,2
+Hans Poulsen,Oluf,Undirected,1
+Hr. Flinch,Schinkel,Undirected,1
+Hrr,Schinkel,Undirected,1
+Georg,Hr. Schinkels,Undirected,1
+Levy,Oluf,Undirected,2
+Jens Klausen,Steffensen,Undirected,5
+Jens Klausen,Levy,Undirected,1
+Flinch,Jens Klausen,Undirected,1
+Hvass,Steffensen,Undirected,1
+Gerner,Steffensen,Undirected,1
+Steffensen,s,Undirected,1
+Georg,Rasmussen,Undirected,6
+Asta,Georg,Undirected,1
+Granberg,Svendsen,Undirected,1
+Jens Klausen,Oluf,Undirected,1
+Georg,Xenophons,Undirected,1
+B,Xenophons,Undirected,1
+Karl,Oluf,Undirected,1
+Oluf,Oluf Gerner,Undirected,1
+Frøken Gudrun,Georg,Undirected,5
+Georg,ed rags,Undirected,1
+Gerner,Gerner —,Undirected,1
+Asmussen,Lotte,Undirected,1
+Olsen,Oluf,Undirected,3
+Don Bartholo,Olsen,Undirected,1
+Højbjærg,Oluf,Undirected,1
+Hr. Teisen,Teisen,Undirected,1
+Hr. Teisen,Olsen,Undirected,1
+Jean Jaques,Olsen,Undirected,3
+Jean Jaques,Rousseau,Undirected,2
+Chambertin,Rousseau,Undirected,1
+Olsen,Vane,Undirected,1
+Oluf,Vane,Undirected,1
+Olsen,sorn Maleren,Undirected,1
+Githeren,Olsen,Undirected,1
+.,Hrr,Undirected,1
+Gud,Oluf,Undirected,1
+Gud,véd,Undirected,2
+gale Olsen,véd,Undirected,1
+Georg,Kennst du,Undirected,1
+Oluf,Teisen,Undirected,1
+Olsen,Teisen,Undirected,1
+Gerner,Petersen,Undirected,1
+Gale Olsen,jette,Undirected,1
+Gerner,Oluf,Undirected,1
+Georg,Teisen,Undirected,1
+Gerner,Olsen,Undirected,1
+Olsen,Petersen,Undirected,1
+Oluf,Petersen,Undirected,1
+Mama,Oluf,Undirected,1
+Mo,Oluf,Undirected,1
+Katrine,Oluf,Undirected,1
+Oluf,lien,Undirected,1
+Oluf,lian,Undirected,1
+Georg,Paavirk ningen,Undirected,1
+Georg,Straus,Undirected,1
+Feuerbach,Straus,Undirected,1
+Gøthes,Heines,Undirected,1
+Georg,Haard,Undirected,5
+Haard,Robespierre,Undirected,1
+Georg,Hansen,Undirected,5
+Georg,Jansen,Undirected,2
+Jansen,Petersen,Undirected,1
+Mads Mikkelsen,Petersen,Undirected,1
+Georg,Mads Mikkelsen,Undirected,2
+Hvid,Jansen,Undirected,1
+Georg,Georg Sten,Undirected,2
+Georg,Hvid,Undirected,2
+Per,Poul,Undirected,1
+Haard,Jansen,Undirected,1
+Brumaire,Haard,Undirected,1
+Frantzen,Jansen,Undirected,1
+Georg Sten,Hansen,Undirected,1
+Georg,Kognac,Undirected,1
+Adolf,Peter,Undirected,1
+Hr. Frantzen,Hr. Frantzens,Undirected,1
+Hansen,Krach,Undirected,2
+Kejser Vespasians,Titus,Undirected,1
+Georg,Skraa,Undirected,1
+Georg,Inga,Undirected,29
+Inga,gale Olsen,Undirected,3
+Georg,Hunbjørn,Undirected,1
+Cither,Inga,Undirected,1
+Bjørneungen,Inga,Undirected,1
+Djunglekrat,Georg,Undirected,1
+Frøken Flinch,Georg,Undirected,1
+Georg,Oluf Gerner,Undirected,1
+Gudrun,Oluf Gerner,Undirected,1
+Gudrun,ban,Undirected,1
+Oluf Gerner,ban,Undirected,1
+Georg Sten,Gerner,Undirected,1
+Georg,støi,Undirected,1
+Georg,Grog,Undirected,1
+Grog,Oluf,Undirected,1
+Georg,Mo’,Undirected,1
+Dolken,Olsen,Undirected,1
+Inga,Olsen,Undirected,1
+Oluf,Papa,Undirected,1
+Oluf,gale Olsen,Undirected,1
+Georg,gale Olsen,Undirected,2
+Hr. Gerner,Victorine,Undirected,1
+Bien,Gerner,Undirected,1
+Kellner,Oluf,Undirected,1
+Davidsen,Frøken Victorines,Undirected,1
+Inga,Oluf,Undirected,1
+Café-chantant,Oluf,Undirected,1
+Ingemanns,Oluf,Undirected,1
+Georg,Kong Knuds,Undirected,1
+Georg,Hr. Petersen,Undirected,1
+Julius Rasmussen,Toxen Worm,Undirected,1
+Georg,Magnus,Undirected,3
+Julius Rasmussen,Magnus,Undirected,1
+Georg,Hagens,Undirected,2
+Albu,Georg,Undirected,1
+Frøken Gudrun Hartvigsens,Georg,Undirected,1
+Georg,Hartvigsen,Undirected,2
+Frøken Ella,Georg,Undirected,1
+Hartvigsen,Oluf,Undirected,1
+Arons,Georg,Undirected,1
+Georg,lykkeberust,Undirected,1
+Hartvigsen,Rasmussen,Undirected,1
+Georg,Henriksen,Undirected,3
+Georg,Halvorsens,Undirected,2
+Steen,allenfals,Undirected,1
+Halvorsen,gale Olsen,Undirected,1
+Georg,Halvorsen,Undirected,8
+Georg,Hansen Mørke,Undirected,1
+Halvorsen,Hansen,Undirected,2
+Karl,Mo’erlil,Undirected,1
+Frøken Heintz,Georg,Undirected,2
+Hansen,nn,Undirected,1
+Halvorsen,Inga,Undirected,1
+Gaardejer Hansen Mørkes,Georg,Undirected,1
+Georg,Hansen-Mørke,Undirected,1
+Anders,Skaal,Undirected,1
+Abels,Georg,Undirected,1
+Haan,Inga,Undirected,1
+Georg,Haan,Undirected,1
+Arne,Gud,Undirected,1
+Georg,Gud,Undirected,5
+Foler,Halvorsen,Undirected,1
+Georg,Inga —,Undirected,1
+Inga —,Loths,Undirected,1
+Georg Stén,Inga,Undirected,1
+Gubben,Gud,Undirected,1
+Georg Sten,Gud,Undirected,2
+Gud,Jesus,Undirected,1
+Jesus,Kristus,Undirected,1

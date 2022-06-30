@@ -1,0 +1,216 @@
+source,target,type,weight
+ifjor,iforfjor,Undirected,1
+iforfjor,iland,Undirected,1
+Shawler,Thee,Undirected,1
+Dandsen,Thee,Undirected,1
+Aristoteles,Platon,Undirected,1
+Aristoteles,Dands,Undirected,1
+Carl,Peder Hessel,Undirected,1
+Carl,Claus Skirmen,Undirected,1
+Dick Turpins,Robin Hoods,Undirected,1
+Lund,Onkels,Undirected,1
+Thøger,Thøger Reinhardt Møller,Undirected,1
+Reinhardt,Thøger,Undirected,1
+Møller,Reinhardt,Undirected,1
+Artium,Pintse,Undirected,1
+Fer caballos,auriga,Undirected,1
+Dulce,dulce,Undirected,1
+dulce,dulce domum Resonemus,Undirected,1
+Judas,Leonhardi di Vinzi,Undirected,1
+Beridertrup,Judas,Undirected,1
+Ludvig Holst,Tolstrup,Undirected,1
+Ludvig Holst,Stjerten,Undirected,1
+Stjerten,Tolstrup,Undirected,2
+Holst,Tolstrup,Undirected,3
+Holst,Stjerten,Undirected,1
+Kaas,Rosenfalk,Undirected,2
+Jensen,Kaas,Undirected,4
+Gud,Jensen,Undirected,1
+Gud,Jens Olsen,Undirected,1
+Jens Olsen,Tørve-Jens,Undirected,1
+Jensen,Rosenfalk,Undirected,2
+Jens,Jensen,Undirected,2
+Ludvig Rosenfalk,Ludvigs,Undirected,1
+Kaas,Ludvigs,Undirected,1
+Flora Price,Rosa Price,Undirected,1
+Cassander,Flora Price,Undirected,1
+Cassander,Pjerrot,Undirected,2
+Cassander,Harlekin,Undirected,1
+Harlekin,Pjerrot,Undirected,1
+Lindbom,Stjernkrone,Undirected,3
+Aare,Lindbom,Undirected,1
+Fernando Po,Tristan d,Undirected,1
+Acunha,Tristan d,Undirected,1
+Galam,Gurri,Undirected,1
+Anny,Gurri,Undirected,1
+Anny,Wully,Undirected,1
+Laus Tabaci,Poul Møller,Undirected,1
+Attrup,Stjernkrone,Undirected,7
+Attrup,Lindbom,Undirected,10
+Anchiovis,Lindbom,Undirected,2
+Attrup,Marie,Undirected,2
+Attrup,Jutta,Undirected,1
+Borg,Smalhans,Undirected,1
+Christian Ledevogter,Lindbom,Undirected,1
+Attrup,Christian Ledevogter,Undirected,1
+Attrup,Tamarinther,Undirected,1
+Attrup,Ingemanns,Undirected,1
+Ingemanns,Lindbom,Undirected,1
+Gradmann,Wormer,Undirected,2
+Gradmann,paany,Undirected,1
+Wormer,paany,Undirected,1
+Jens Lund,Lind,Undirected,1
+H. Stjernkrone,S. Lindbom,Undirected,1
+H. Stjernkrone,P. V. Attrup,Undirected,1
+Cora,Kapitain Heyward,Undirected,1
+Alice,Cora,Undirected,1
+Alice,Attrup,Undirected,1
+Dronning Margrethes,S. L.,Undirected,1
+Dronning Margrethes,H. Stjernkrone,Undirected,1
+Christian den,H. Stjernkrone,Undirected,1
+Balder,Grønbergs,Undirected,1
+Attrup,Grønbergs,Undirected,1
+A,Attrup,Undirected,1
+A,B,Undirected,2
+A,s,Undirected,1
+Lindbom,s,Undirected,1
+H. Stjernkrone,Lindbom,Undirected,1
+Frederik IV,H. Stjernkrone,Undirected,1
+Frederik IV,Tordenskjold,Undirected,1
+Balder,Tordenskjold,Undirected,1
+Lindbom,Reitøel,Undirected,1
+L. S.,Reitøel,Undirected,1
+Jette,Vals,Undirected,1
+Amalie,Amalie Bech,Undirected,1
+Amalie,Balder,Undirected,2
+Amalie,Attrup,Undirected,1
+Amaliæ Pulchris excubat in genis,Doctæ psallere,Undirected,1
+Amalie,Stjernkrone,Undirected,3
+Hartmann,Schulz,Undirected,1
+Gade,Hartmann,Undirected,1
+Gade,Hugo,Undirected,1
+Hugo,Kirkegaard,Undirected,1
+Brølebas,Mozarts,Undirected,1
+Mozarts,ihni,Undirected,1
+Haydns,ihni,Undirected,1
+A. F Lindblad,Bellman,Undirected,1
+A. F Lindblad,Otto Lindblad,Undirected,1
+Heibergs,Henrik Hertz,Undirected,1
+Henrik Hertz,Hostrup,Undirected,1
+Hostrup,Peter Faber,Undirected,1
+Henrik,Pernille,Undirected,1
+Heibergs,Pernille,Undirected,1
+Heibergs,Hertz,Undirected,1
+Hertz,von Stein,Undirected,1
+Amalie,von Stein,Undirected,1
+Amalie,Emil Ballings,Undirected,1
+Emil Ballings,Leanders,Undirected,1
+Andreas,Leanders,Undirected,1
+Andreas,Langhalm,Undirected,1
+Attrup,Langhalm,Undirected,1
+Attrup,Kolstrup,Undirected,1
+"Christoffer,",Kolstrup,Undirected,1
+"Christoffer,",Henning,Undirected,1
+Henning,Peer,Undirected,1
+Else,Peer,Undirected,1
+Else,Marie,Undirected,1
+Anne«,Marie,Undirected,1
+Anne«,Petrea,Undirected,1
+Marie,Petrea,Undirected,1
+Marie,Pernille,Undirected,1
+Magdelone,Pernille,Undirected,1
+Lindbom,Magdelone,Undirected,2
+Amalie,Magdelone,Undirected,1
+Attrup,Hertz,Undirected,1
+Holberg,Wessel,Undirected,1
+Amalie,Wessel,Undirected,1
+Amalie,Lindbom,Undirected,2
+Petrea,Stjernkrone,Undirected,1
+Amalie,Petrea,Undirected,1
+Amalie,Krogs,Undirected,1
+Jutta,Marie,Undirected,1
+Lindbom,Winding,Undirected,2
+Borch,Jespersen,Undirected,10
+Jespersen,Therese,Undirected,2
+Therese,paany,Undirected,1
+Jespersen,paany,Undirected,1
+Borch,Therese,Undirected,2
+Carl Bernhard,Jespersen,Undirected,1
+E. S. B. Jespersen,Jespersen,Undirected,1
+Axel Eremita,E. S. B. Jespersen,Undirected,1
+Axel Eremita,B.,Undirected,1
+B.,Jespersen,Undirected,1
+Alexander Dumas,Carl Bernhard,Undirected,1
+Alexander Dumas,Sues,Undirected,1
+Borch,Charles Dickens,Undirected,1
+Charles Dickens,Mr. Micawber,Undirected,1
+Mr. Micawber,Sam Weller,Undirected,1
+Jespersen,Sam Weller,Undirected,1
+Borch,Roes,Undirected,1
+Jespersen,Roes,Undirected,1
+J. L. Heibergs,Jespersen,Undirected,1
+Jespersen,l —,Undirected,1
+Monne-Jespersen,monne,Undirected,1
+Jespersen,Monne-Jespersen,Undirected,1
+Jacob,esprit de corps,Undirected,1
+Jacob,Lazzaronen,Undirected,1
+Lazzaronen,Moberg,Undirected,1
+Meilinger,Mikkel«,Undirected,2
+Meilinger,Olsen,Undirected,1
+Meilinger,Mikkel,Undirected,3
+Estrups,Jespersen,Undirected,1
+Jespersen,Rigefis,Undirected,1
+Livius,Plato,Undirected,1
+Homer,Plato,Undirected,1
+Homer,Virgil,Undirected,1
+Horats,Virgil,Undirected,1
+Horats,Madvigs,Undirected,1
+Holberg,Madvigs,Undirected,1
+Ewald,Holberg,Undirected,1
+Ewald,Oehlenschlåger,Undirected,1
+Ingemann,Oehlenschlåger,Undirected,1
+Henrik Hertz,Ingemann,Undirected,1
+Christian Winther,Henrik Hertz,Undirected,1
+Christian Winther,Heiberg,Undirected,1
+Heiberg,"Paludan-Miiller,",Undirected,1
+Rosenfalk,Stjernkrone,Undirected,1
+Jensen,Jespersen,Undirected,3
+Lars,Sues,Undirected,1
+Bresemanns,Sues,Undirected,1
+Lars,Minis,Undirected,1
+Asen,Lars,Undirected,1
+Borch,Stjernkrone,Undirected,1
+Borch,Kaas,Undirected,1
+Bøgholms,Lars,Undirected,1
+Anchiovis,Lars,Undirected,1
+Anchiovis,bei,Undirected,1
+Jonas,bei,Undirected,1
+Jonas,Xeres,Undirected,1
+Punschen,Xeres,Undirected,1
+Borch,Punschen,Undirected,1
+Jespersen,seel,Undirected,1
+Hakons,Jespersen,Undirected,1
+Aladdins,Hakons,Undirected,1
+Adam Oehlenschlåger,Borch,Undirected,1
+Jespersen,Oehlenschlåger var expederet*,Undirected,1
+E. S. B. J.,Oehlenschlåger var expederet*,Undirected,1
+Frederik,Marie Sophie Frederikke,Undirected,1
+Jespersen,Lindbom,Undirected,1
+Attrup,Kaas,Undirected,2
+Attrup,Jensen,Undirected,1
+Ferrinis,matelotte,Undirected,1
+Attrup,Stilicho,Undirected,1
+Anny,Galam,Undirected,1
+Anny,Glands,Undirected,1
+Glands,Lindbom,Undirected,1
+Borch,Lindbom,Undirected,1
+Jespersen,laud,Undirected,1
+Jensen,laud,Undirected,1
+Jensen,haud,Undirected,1
+Kaas,haud,Undirected,1
+Amalie,fagon,Undirected,1
+Attrup,Jespersen,Undirected,1
+Jespersen,Kaas,Undirected,2
+Jespersen,Rosenfalk,Undirected,1
+Lindbom,Rosenfalk,Undirected,1
+Kaas,Lindbom,Undirected,1

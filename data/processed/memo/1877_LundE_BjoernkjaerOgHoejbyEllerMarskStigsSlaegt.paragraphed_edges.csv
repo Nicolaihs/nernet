@@ -1,0 +1,471 @@
+source,target,type,weight
+Svend Avesen,Thyge Kalff,Undirected,5
+Svend Avesen,Svend N,Undirected,1
+Svend N,vcsens,Undirected,1
+Thyge Kalff,vcsens,Undirected,1
+Thyge,Thyge Kalff,Undirected,3
+Jøsses,Svend,Undirected,1
+Svend,Thyge,Undirected,2
+Thyge,effer,Undirected,1
+Thyge Kalff,hanselv,Undirected,1
+Peer Steffen,tilkjcndcgavc,Undirected,1
+Svend Avcscn,tilkjcndcgavc,Undirected,1
+Svend Avcscn,Thyge Kalff,Undirected,1
+Mied,Thyge Kalff,Undirected,1
+Mied,Røsfen,Undirected,1
+Røsfen,Svend Avesen,Undirected,1
+Peer,Steffen,Undirected,1
+Steffen,Svend Avcscn,Undirected,1
+Ieg,Thygc Kalff,Undirected,1
+Svend Avescn,Thyge Kalff,Undirected,1
+Thyge Kalsss,Troels Smed,Undirected,1
+Svend Smeden,Thyge Kalsss,Undirected,2
+Peer Steffen,Svend Avcsen,Undirected,1
+Svend Avcsen,Thyge Kalff,Undirected,1
+Ladegaardcn,Stig Ander-son,Undirected,1
+Bjørnkjær gjcnopbyggc,Stig Ander-son,Undirected,1
+Erik Christoffer Glipøje,Erik Eriksøn Menved,Undirected,1
+Erik Eriksøn Menved,Stig Andersøn,Undirected,1
+MagrctcS,Stig Andersøn,Undirected,1
+MagrctcS,gjcnopbyggc,Undirected,1
+Isse,Mørkeks,Undirected,1
+Bernhard,Jens Grand,Undirected,1
+Arnfasl,Dronning Margrctc Sprænghcst,Undirected,1
+Frittehans,Stig,Undirected,1
+Andersens,Stig,Undirected,1
+Andersens,Hylle,Undirected,1
+Hylle,Tendrup,Undirected,1
+Niels Brok,Tendrup,Undirected,1
+Niels Brok,ove,Undirected,1
+Brok,Jens Stegevender,Undirected,1
+Brok,Hylle,Undirected,1
+Bernhardt,Hans Ncjsckammcrat,Undirected,1
+Karle,Ulvckløer,Undirected,1
+Niels Brok,hnn,Undirected,1
+Niels Brok,grant,Undirected,1
+Hcjda,Jens Stcgcvendcr,Undirected,1
+Hcjda,behøve,Undirected,1
+Stig,behøve,Undirected,1
+Stig,Svend,Undirected,1
+Anders Stigsøn,Stig Andersen,Undirected,1
+Anders Stigsøn,hans fro Svend Mads,Undirected,1
+Anders Stig-søu,Mads,Undirected,1
+Mads,Niels Brok,Undirected,1
+Mads,Svend,Undirected,2
+Mads,aarle sorn,Undirected,1
+Niels Brok,aarle sorn,Undirected,1
+Kjærlingesfaddcr,Vrcdessky,Undirected,1
+Dumrian,Vrcdessky,Undirected,1
+Dumrian,Stig Andersen,Undirected,1
+Anders Stigsøn,Mads,Undirected,1
+Gud,Mads,Undirected,2
+Davre,Mads,Undirected,1
+Anders,Svend,Undirected,1
+Stig Andersøn,sif,Undirected,1
+Bjørnkjær,Gud,Undirected,1
+Gud,Stig Andersøn,Undirected,1
+Bjørnkjær,Stig Andersen,Undirected,1
+Mads Jyde,Svend,Undirected,1
+Stig Andersøn,Svend,Undirected,1
+Marsk Stigs,Stig Andersøn,Undirected,1
+Bjørnkjcer,Jens Stegevender,Undirected,1
+Grand,Stig Andersen,Undirected,1
+Grand,Gud,Undirected,1
+Erik Mcnved,Gud,Undirected,1
+Erik Mcnved,St. Peders,Undirected,1
+Jens Grand,St. Peders,Undirected,1
+Jens Grand,Kristoffer den,Undirected,1
+Anders,Sophie,Undirected,4
+Anders,Kalff,Undirected,2
+Anders,Kalsf,Undirected,1
+Kong Glipøjes,Stig Andersen,Undirected,1
+Anders,Kong Glipøjes,Undirected,1
+Jeppe Kalff,Sophie Stigsdatter,Undirected,2
+Anders,Sophie Stigsdatter,Undirected,1
+Anders,Jeppe Kalff,Undirected,2
+Anders Stigsøn,Jeppe Kalff,Undirected,1
+Anders Stigsøn,Taner,Undirected,1
+Kalff,Sophie,Undirected,3
+Anders,Niels Brok,Undirected,3
+Niels Brok,Rane Jonsøn,Undirected,1
+Erik Menved,Rane Jonsøn,Undirected,1
+Erik Menved,Niels,Undirected,1
+Johan Pape,Niels,Undirected,1
+Johan Pape,niaatte,Undirected,1
+Niels Brok,niaatte,Undirected,1
+Anders Stigsøn,Niels Brok,Undirected,3
+Anders Stigsøn,Kabuds,Undirected,1
+Anders,Kabuds,Undirected,1
+Jeppe Kalff,Sophie,Undirected,5
+Anders Stigsøn,Sophie,Undirected,2
+Jeppe Kalff,aldenstund,Undirected,1
+Jeppe Kalff,Junker Kristoffer,Undirected,1
+Junker Kristoffer,Stig Andersen,Undirected,1
+Jeppe Kalff,Stig Andersen,Undirected,1
+Jeppe Kalff,tom Smiger,Undirected,1
+Vindings,tom Smiger,Undirected,1
+Anders,mintro,Undirected,1
+Bjørnkjær,mintro,Undirected,1
+Bjørnkjær,Sophie,Undirected,2
+Jeppe Kalff,Niels Brok,Undirected,1
+Niels Brok,Thygcstrup,Undirected,1
+Mollerup,Thygcstrup,Undirected,1
+Mollerup,Sophie,Undirected,1
+Bjørnkjær,Kalff,Undirected,1
+Kalff,Sophie StigSdatter,Undirected,1
+Sophie StigSdatter,Stig Andersen Hvides,Undirected,1
+Jeppe Kalff,Sophie Stigsdattcr,Undirected,1
+Bjørnkjær,Sophie Stigsdattcr,Undirected,1
+Erland,Ossa,Undirected,2
+Erik Men-ved,Junker Kristoffer,Undirected,1
+Junker Kristoffer,villicsvagc Kristoffer,Undirected,1
+ban,villicsvagc Kristoffer,Undirected,1
+Johan,ban,Undirected,1
+Johan,Junker Otto,Undirected,1
+Gotskalk Henningsen,Jep Kalff,Undirected,2
+Jep Kalff,Sophie Stigsdatter,Undirected,1
+Ossa,Sophie Stigsdatter,Undirected,1
+Gotskalk Hcningsens,Ossa,Undirected,1
+Jep Kalff,Ossa,Undirected,1
+Erland,Jep Kalff,Undirected,2
+Gert,Jep Kalff,Undirected,1
+Erland,Gert,Undirected,1
+Gotskalk Henningsen,Ossa Kalff,Undirected,4
+Erland,Ossa Kalff,Undirected,1
+Erland,Oss,Undirected,1
+Erland,Gotflalk,Undirected,1
+Erland,Karl,Undirected,1
+Niels Vugge,Sophie,Undirected,1
+Gotskalk Henningsen,Niels Galt,Undirected,1
+Jeppe „,Niels Galt,Undirected,1
+Ebbe Galts,Niels Galt,Undirected,1
+Gotflalk,Niels,Undirected,1
+Jeppe Kalff,Niels Galt,Undirected,1
+Niels Galt,Ole,Undirected,1
+Erland,Henningsen,Undirected,1
+Erland,Gotskalk,Undirected,4
+Hesf,Kappens,Undirected,2
+Kalff,Ossa,Undirected,1
+Gotskalk,Ossa,Undirected,2
+Gotskalk,mehens,Undirected,1
+Erland,mehens,Undirected,1
+Erland,Svend,Undirected,2
+Bjørns,Kalff,Undirected,1
+Bjørns,Gotskalk Henningsen,Undirected,1
+Erland,Gotskalk Henningsen,Undirected,2
+Geert,Junker,Undirected,1
+Junker,Valdemar,Undirected,2
+Greven,Valdemar,Undirected,1
+Greven,Junker,Undirected,1
+Erland,Gotflalk Henningsen,Undirected,1
+Jeppe Kalv,Ossa,Undirected,1
+Erland,pidfles,Undirected,1
+Erland,grant,Undirected,1
+Gotskalk,grant,Undirected,1
+Erland,Højby,Undirected,1
+Gotskalk,helsl,Undirected,1
+Gotskalk,Gotskalk Henningsen,Undirected,1
+Gud,Karlen,Undirected,1
+Gud,Torsi,Undirected,1
+Erland,Torsi,Undirected,1
+Erland,Jldgnistcrne,Undirected,1
+Erland Kalff,H^n,Undirected,1
+Erland,H^n,Undirected,1
+Erland,Høeg,Undirected,1
+Høeg,Sophie,Undirected,1
+Gud,Sophie,Undirected,1
+Erland,Gud,Undirected,2
+Bo Høeg,Erland,Undirected,5
+Bo Høeg,Høeg,Undirected,1
+Husly,Svend,Undirected,1
+Erland,mir,Undirected,1
+Gotskalk Henningsen,mir,Undirected,1
+Bo Høeg,Erland Kalff,Undirected,4
+Bo,Erland,Undirected,1
+Baal,Bo Høeg,Undirected,1
+Arnestedet,Baal,Undirected,1
+Erland,Ingeborg,Undirected,1
+Erland,Sophie,Undirected,1
+Bentns,Bo Høeg,Undirected,1
+Erland Kalff,Gud,Undirected,1
+Bo Høeg,Sophie,Undirected,1
+Grev Gerts,Niels Ebbe-sen,Undirected,1
+Grev Gerts,Greves,Undirected,1
+Greves,Henrik,Undirected,1
+Clans,Henrik,Undirected,1
+Clans,Niels Ebbesen,Undirected,1
+Erland Kalff,Waldemar den,Undirected,2
+Gotskalk Henningsen,Sophie Stigsdatter,Undirected,1
+Erland,fasf,Undirected,2
+Gotskalk,vcxledcS,Undirected,2
+Gotskalk,Kalff,Undirected,1
+Kalff,Kong Waldemar,Undirected,1
+Gotskalk Henningsen,Kong Waldemar,Undirected,1
+Gotskalk Henningsen,Kalff,Undirected,1
+Berten,Kalff,Undirected,1
+Fa,Gjæstcn,Undirected,1
+Berten,Gud,Undirected,1
+Gud,Jakob,Undirected,1
+Jørgen Glob,Kathrine,Undirected,1
+Gotskalk Henningsen,Jørgen,Undirected,1
+Erland,Jørgen,Undirected,1
+Jørgen Glob,Kalff,Undirected,1
+Højby,Kalff,Undirected,2
+Høiby,Kalff,Undirected,1
+Bresche,Gotskalk,Undirected,1
+Marie,Mutter,Undirected,1
+Hylle,Marie,Undirected,1
+Eske Brok,Morten Aalholm,Undirected,1
+Ebbe Galt,Hille,Undirected,1
+Ebbe Galt,Morten Aalholm,Undirected,1
+Morten Aalholm,Morten Due,Undirected,1
+Eske Brok,Jørgen Glob,Undirected,1
+Erland,Eske,Undirected,1
+Erland Kalff,Eske Brok,Undirected,1
+Eske Brok,barsfe Aasyn,Undirected,1
+Eske Brok,Kalff,Undirected,1
+Ebbe Nielsen,Eske Brok,Undirected,1
+Ebbe Nielsen,Morten Due,Undirected,1
+Ridder Kalff,Valdemar,Undirected,1
+Kalff,Valdemar,Undirected,3
+Ebbe,Eske Brok,Undirected,1
+Eske,barsfe,Undirected,1
+Ebbe Galt,Valdemar,Undirected,1
+Ebbe Galt,Ebbe Nielsen,Undirected,1
+Ebbe Nielsen,Høeg,Undirected,1
+Gud,Valdemar,Undirected,3
+Erland Kalff,Valdemar,Undirected,1
+Eske Brok,Valdemar,Undirected,1
+Eske Brok,Hain,Undirected,1
+Grev Ger-harts,Hain,Undirected,1
+Clauses,Valdemar,Undirected,1
+Clauses,Erland Kalff,Undirected,1
+Clauses,Kong Valdemar Atterdag,Undirected,1
+Ossa,Ossa Kalff,Undirected,1
+Henningsen,Ossa,Undirected,1
+Gotskalk,Henningsen,Undirected,1
+Kalf,Lehnsmand,Undirected,1
+Claus,Lehnsmand,Undirected,1
+,Claus,Undirected,1
+,Lehnsmand,Undirected,1
+Erland Kalfs,Jeppe Erlandsen,Undirected,1
+Erland,Jeppe Erlandsen,Undirected,1
+Erland,H <,Undirected,1
+H <,Valdemar,Undirected,1
+Erland Kalff,Kong Valdemar,Undirected,1
+Valdemar,slig,Undirected,1
+Høiby,Ossa,Undirected,1
+Erland Kalff,Høiby,Undirected,1
+Gotskalk Henningsen,Høiby,Undirected,1
+Erland KalsfS,Gotskalk Henningsen,Undirected,1
+Arne,Højby,Undirected,1
+Gotskalk,Thøger Puder,Undirected,1
+Erland Kalff,Thøger Puder,Undirected,1
+Gotskalk Henningsen,Thøger,Undirected,1
+Gylling,Thøger,Undirected,1
+Erland Kalff,Gylling,Undirected,1
+Erland Kalff,Gotskalk Henningsen,Undirected,1
+Ed,Ossa Kalff,Undirected,1
+Munkkjær,Otto,Undirected,1
+Otto,baldis,Undirected,1
+Ulrik Stygge,baldis,Undirected,1
+Kannik,Ulrik Stygge,Undirected,2
+Munkkjær,Ulrik Stygge,Undirected,1
+Hoiby,Munkkjær,Undirected,1
+Gud,Ulrik,Undirected,1
+Bent,Højby,Undirected,1
+Ivar Munk,Marens,Undirected,1
+Bent,Ivar Munk,Undirected,1
+Ivar,Munk,Undirected,1
+Munk,Ulrik,Undirected,1
+Kong Hakon,Ulrik,Undirected,1
+Aage,Otto,Undirected,1
+Aage,Tyge,Undirected,1
+Jcp Erland-jen,Kalff,Undirected,1
+Axelsdatter Thott,Kalff,Undirected,1
+Axelsdatter Thott,Palsgaard,Undirected,1
+Højby,def,Undirected,1
+Jep Kalsss,def,Undirected,1
+Høiby,Højby,Undirected,1
+Højby,Ulrik Stygge,Undirected,2
+Pater Otto,Ulrik Stygge,Undirected,2
+Ulrik Stygge,Villie son,Undirected,1
+Højby,Thyge Puder,Undirected,3
+Bent Puder,Thyge Puder,Undirected,1
+Bent Puder,Maren PuderSdattcr,Undirected,1
+Ivar Munk,Maren PuderSdattcr,Undirected,1
+Bent Puder,Ivar Munk,Undirected,1
+Bent Puder,Karme,Undirected,3
+Karme,Maren,Undirected,1
+Maren,Thyge,Undirected,1
+Karme,Thyge,Undirected,1
+Karme,Thyge Puder,Undirected,1
+Thyge Puder,Welle Thygcs-dattcr,Undirected,1
+Erland Kalff,Jep Erlandscn Kalff,Undirected,1
+Erland Kalff,Son-ncson.,Undirected,1
+Jep Kalff,Son-ncson.,Undirected,1
+Jep Kalff,Sophie StigSdattcr,Undirected,1
+Axelsdattcr Thott,Sophie StigSdattcr,Undirected,1
+Axelsdattcr Thott,Brundtorp,Undirected,1
+Bjørnkjær,Højby,Undirected,1
+Bent Puder,ThygeS,Undirected,1
+Frandsen,ThygeS,Undirected,1
+Jep Erlandscn,Thyge,Undirected,1
+Jep Erlandscn,Kalff,Undirected,1
+Niels,Thyge Puder,Undirected,3
+Kalff,Niels,Undirected,2
+Gylling,Kalff,Undirected,1
+Gylling,Kvasgren,Undirected,1
+Hain,Kvasgren,Undirected,1
+Hain,Otto,Undirected,1
+Jom,Otto,Undirected,1
+Jom,Marie,Undirected,1
+Kalff,Thyge,Undirected,5
+Abclle Thygcsdatter,Ejcrerk Thyge,Undirected,1
+Abclle,Otto,Undirected,2
+Hagbarth,Signe-lille,Undirected,1
+Thyge Puder,Vaas,Undirected,1
+Adelte,Otto,Undirected,1
+Abelle,Otto,Undirected,5
+Otto,Thyge,Undirected,2
+Kalsf,Thyge Puder,Undirected,1
+Abclle,Jep ' Kalff,Undirected,1
+Jep ' Kalff,blol,Undirected,1
+Karl haner,blol,Undirected,1
+Abelle,sif,Undirected,1
+Munk,Otto,Undirected,3
+Jep Kalff,Thyge,Undirected,6
+Jep,Kalff,Undirected,3
+Niels Kalff,Puder,Undirected,1
+Hain,Jep Kalff,Undirected,2
+Thyge,Thyge Puder,Undirected,2
+Jep Erlandsen Kalff,Thyge Puder,Undirected,1
+Thyge Puder,sva,Undirected,1
+Kalff,Thyge Puder,Undirected,1
+Gud,Thyge,Undirected,1
+Gud,Niels Kalff,Undirected,3
+Jep Kalff,Niels,Undirected,2
+Abellc,Thyge,Undirected,1
+Abellc,Niels Kalff,Undirected,2
+Kristi,Thyge,Undirected,1
+Abelle Thygesdatter,Otto,Undirected,1
+Gud,Otto,Undirected,2
+Thygcs,Thyge,Undirected,1
+Abclle,Thygcs,Undirected,1
+Abclle,Kannik,Undirected,1
+Ulrik,Ulrik Stygge,Undirected,1
+OttoS,Ulrik,Undirected,1
+OttoS,Ulrik Stygge,Undirected,1
+Abelle,Ulrik,Undirected,1
+Jep Kalff,Ulrik,Undirected,1
+Jep Kalff,Thyge Puder,Undirected,1
+Sus,Thyge Puder,Undirected,1
+Niels Kalff,Sus,Undirected,1
+Abclle,Niels Kalff,Undirected,1
+Abclle,Niels,Undirected,1
+Niels,mellcmOtto,Undirected,1
+Abclle,mellcmOtto,Undirected,1
+Jep Kalff,Niels Kalff,Undirected,2
+Abelle,Niels Kalff,Undirected,5
+Niels Kalff,sorn,Undirected,1
+Abclle Thygcsdatter,Niels Kalff,Undirected,1
+Abclle Thygcsdatter,Jep Kalff,Undirected,1
+Jep Kalff,Otto,Undirected,4
+Niels Kalff,Thyge,Undirected,1
+Abelle,Niels Kalfftil,Undirected,1
+Niels Kalff,Niels Kalfftil,Undirected,1
+Abelle,Ulrik Stygge,Undirected,2
+Niels,Ulrik Stygge,Undirected,1
+Højby,Niels,Undirected,1
+Berten,Jep,Undirected,1
+Berten,Mogens Nielsen,Undirected,1
+Biser,Mogens Nielsen,Undirected,1
+Biser,Knud,Undirected,1
+Berten,Knud,Undirected,1
+Berten,Thønnis,Undirected,1
+Niels Kalff,Thønnis,Undirected,2
+Mogens Urkok,Niels Kalff,Undirected,1
+Niels Kalff,Thsnnis,Undirected,2
+Abelle,Thsnnis,Undirected,1
+Otto,Ulrik Stygge,Undirected,3
+Niels,Thsnnis,Undirected,1
+Jep Kalff,Thsnnis,Undirected,1
+Jep Kalff,Welle Thy-gesdatters,Undirected,1
+Jcp Kalff,Thønnis,Undirected,1
+Niels,Thønnis,Undirected,1
+Graamunkcn,Knud,Undirected,1
+Niels Kalff,Pater Otto,Undirected,1
+Abelle Thhgesdattcr,Thønuis,Undirected,1
+Abelle Thhgesdattcr,Niels Kalff,Undirected,1
+AbbellcS,Jep,Undirected,1
+,Thonnis,Undirected,1
+,Niels Kalff,Undirected,1
+Jep Kalff,Thyge Puder-,Undirected,1
+Jep Kalff,Mogens Urkok,Undirected,1
+Mogens Nielsen,Niels Kalff,Undirected,1
+Kalff,Niels Kalff,Undirected,1
+Abclle ThygcSdatter,Niels Kalff,Undirected,1
+Abclle ThygcSdatter,Thyge Puder,Undirected,1
+Gud,Thyge Puder,Undirected,1
+Gjæstcrnes,Niels Kalff,Undirected,1
+Bjørn,Pater Otto,Undirected,1
+Bjørn,Toras,Undirected,1
+L >,Toras,Undirected,1
+Abelle,L >,Undirected,1
+Mettes,Otto,Undirected,1
+Mettes,Ulrik,Undirected,1
+Abelle,Paterens,Undirected,1
+Otto,Paterens,Undirected,1
+Abellc,J,Undirected,1
+Kalff,Pater Otto,Undirected,1
+Jep Kalff,Kalff,Undirected,1
+Abelle ThygcSdatlcr,Niels Kalff,Undirected,1
+Abelle ThygcSdatlcr,Ulrik Stygge,Undirected,1
+Ulrik Stygge,dein,Undirected,2
+Ulrik Stygge,koldl,Undirected,1
+Kan-nikcn,koldl,Undirected,1
+Kan-nikcn,Niels Kalff,Undirected,1
+Gud,dein,Undirected,1
+Niels Kalff,dein,Undirected,1
+Niels Kalff,detdcm,Undirected,1
+Pater Otto,detdcm,Undirected,1
+Abclle,Ulrik Stygge,Undirected,1
+Abclle,Kanniken,Undirected,2
+Abclle,Højby,Undirected,1
+Kalff,Nic-ls,Undirected,1
+Kalff,Munkcnaade,Undirected,1
+Abelle,Niels Kalsf,Undirected,1
+Abelle,Gud,Undirected,1
+Gud,Niels,Undirected,1
+Abelle,Niels,Undirected,5
+Jep Kalff,sra Gylling,Undirected,1
+Gosmer,Svend,Undirected,1
+Jep Kalsf,Otto,Undirected,1
+Bjørnkjær,Otto,Undirected,2
+Niels Kalff,Otto,Undirected,4
+Jcp Kalifs,Niels Kalff,Undirected,1
+Niels Kalff,Ulrik Stygge,Undirected,1
+Gud,Jep,Undirected,1
+Hain,Niels,Undirected,1
+Abelle,Pater Otto hcnsjunken,Undirected,1
+Kalff,Sanct Knud,Undirected,1
+Jcp Kalsf,Otto,Undirected,1
+Libelle,hnn,Undirected,1
+Niels,Otto,Undirected,2
+Jep Kalff,Ulrik Stygge,Undirected,1
+Otto,hnn,Undirected,1
+Abelle Thy-gesdatter,Niels Jepsen Kalff,Undirected,1
+Abelle Thy-gesdatter,Jep Erlandsen,Undirected,1
+Abelle,vexledcs,Undirected,1
+Gud,Jep Kalff,Undirected,1
+Abelle,Kalsferncs,Undirected,1
+Abelle Thygesdatter,Niels Kalsss,Undirected,1
+Abelle Thygesdatter,Niels Kalff,Undirected,1
+Otto,sif Næt,Undirected,1
+Ane Kalsf,sif Næt,Undirected,1
+Ane Kalsf,Otto,Undirected,1
+Niels Kalsf,Ulrik Stygge,Undirected,1
+Højby,Niels Kalsf,Undirected,1
+Abelle Thygesdatter,Niels Kalsf,Undirected,1
+Abelle Thygesdatter,Thyge Kalff,Undirected,1
+Abelle,Thyge Kalff,Undirected,1

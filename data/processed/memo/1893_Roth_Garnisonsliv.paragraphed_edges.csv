@@ -1,0 +1,361 @@
+source,target,type,weight
+Pythias,Stendahl,Undirected,1
+Pythias,Sancho Pansa,Undirected,1
+Don Quixote,Sancho Pansa,Undirected,1
+Brasks,Don Quixote,Undirected,1
+Brasks,Stendahl,Undirected,1
+Brask,lians,Undirected,1
+Rit mester Stendahl,Uhrs,Undirected,1
+Stendahl,Uhrs,Undirected,1
+Ritmester Stendahl,Rosenfeldt,Undirected,1
+Rosenfeldt,Stendahl,Undirected,2
+Fritz,Rosen-feldt,Undirected,1
+August,Fritz,Undirected,1
+August,Stendahl,Undirected,1
+Hansted,Rosenfeldt,Undirected,1
+Hansted,Stendahl,Undirected,1
+Brask,Sten-dahl,Undirected,1
+Brask,Ritmesterens,Undirected,1
+Brask,Stendahl,Undirected,10
+Brask,Jenny,Undirected,2
+.Stendalils,Jenny,Undirected,2
+Jenny,Stendahl,Undirected,5
+Stendahl,lians,Undirected,1
+A. Fritz,Stendahl,Undirected,1
+Fritz,liam,Undirected,1
+Stendahl.s,liam,Undirected,1
+Stendahl.s,lian,Undirected,1
+Fritz,Hei-,Undirected,1
+Hei-,Stendahl,Undirected,1
+Fritz,Stendahl,Undirected,30
+Eieren,Rasmus Block,Undirected,1
+Andreas,Rasmus Block,Undirected,2
+Andreas Block,Rasmus Block,Undirected,1
+Andreas Block,Ritmester Stendahl,Undirected,1
+Brask,Ritmester Stendahl,Undirected,3
+Berider Palstrup,Fritz,Undirected,4
+Brask,Fritz,Undirected,10
+Brask,Mongol,Undirected,1
+Brask,ermaaskeHr,Undirected,1
+Palstrups,Ritmesterens,Undirected,1
+Fritz,Servanten,Undirected,1
+Servanten,lian,Undirected,1
+Fritz,s,Undirected,15
+Fritz,Harald Vissing,Undirected,1
+Harald Vissing,Vissing,Undirected,1
+Fritz,Vissing,Undirected,8
+Hegner,Vissing,Undirected,4
+Fritz,Hegner,Undirected,47
+Fritz,Lind,Undirected,2
+Lind,Sel-berg,Undirected,1
+Ritmester Stendahl,s,Undirected,1
+Hegner,Ritmester Stendahl,Undirected,6
+Hegner,Stendahl,Undirected,22
+Fritz,guerre,Undirected,2
+Ella,Hegner,Undirected,1
+Fritz,Fritz allehaande,Undirected,1
+Fritz’,s,Undirected,1
+Ritmester Stendahl,lian,Undirected,1
+Fritz,lian,Undirected,4
+Fritz,Konsul Blocks,Undirected,3
+Brask,Konsul Blocks,Undirected,2
+Hardtz,Ritmester Stendahl,Undirected,1
+Fritz,Hardtz,Undirected,4
+Fritz,Jenny,Undirected,3
+Hardtz,Jenny,Undirected,3
+Berider Palstrup,Hardtz,Undirected,1
+Fritz,Palstrup,Undirected,6
+Lars Christoffersen,ovei-,Undirected,1
+Lars Christoffersen,Palstrup,Undirected,1
+Hardtz,s,Undirected,1
+Hardtz,Stendahl,Undirected,4
+len,s,Undirected,1
+Fritz,li vad,Undirected,1
+Lieutenant Hardtz,li vad,Undirected,1
+Lieutenant Hardtz,Odin,Undirected,1
+Odin,Selberg,Undirected,1
+Hardtz,Selberg,Undirected,2
+Hardtz,hanselv,Undirected,1
+Fritz,Henner,Undirected,1
+Jenny,Odin,Undirected,1
+Odin,Rallike,Undirected,1
+Hegner,Rallike,Undirected,1
+Fritz,Petra,Undirected,3
+Fritz,Moses,Undirected,1
+Moses,Muhamed,Undirected,1
+Fritz,kim,Undirected,2
+Fritz,Fritz Hue,Undirected,1
+Fritz Hue,Ritmester Stendahl,Undirected,1
+Fritz,Ritmester Stendahl,Undirected,2
+Stendahl,s,Undirected,2
+Bjørn,Hardtz,Undirected,1
+Bjørn,Stendahl,Undirected,1
+Jenny,Petra,Undirected,1
+Brask,høie,Undirected,1
+Fritz,Stendahlhøitideligt,Undirected,1
+Fritz,Ritmesterens,Undirected,1
+Kjøn,Ritmesterens,Undirected,1
+Fritz,Rosenfeldt,Undirected,10
+Kai,s,Undirected,1
+Arne,Kai,Undirected,1
+Arne,Frøken Magda,Undirected,1
+Fritz,Karl,Undirected,2
+Karl,Orfeus,Undirected,1
+Fritz,Lieutenant Vissing,Undirected,1
+Fritz,rungedeHegners,Undirected,1
+Selberg,rungedeHegners,Undirected,1
+Arne,Hegner,Undirected,1
+Hegner,Hr. Selberg,Undirected,1
+Hr. Selberg,Selberg,Undirected,1
+Brask,Palstrup,Undirected,2
+Fritz,Ritmester' Stendahl,Undirected,1
+Ritmester' Stendahl,sorn,Undirected,1
+Brask,sorn,Undirected,1
+Fritz,Konsul Bloch,Undirected,1
+Palstrup,høire,Undirected,1
+Parenthes,s,Undirected,1
+Hegner,naadig,Undirected,1
+Hegner,Selberg,Undirected,7
+Vilhelm,Vissing,Undirected,1
+Vilhelm Ritter,flen,Undirected,1
+Rosenfeldt,Vissing,Undirected,2
+.Froken Fanny Blocks,Vissing,Undirected,1
+.Froken Fanny Blocks,Ritters,Undirected,1
+Ritters,Vilhelm Ritter,Undirected,1
+Papa Block,Vilhelm Ritter,Undirected,1
+Papa Block,von,Undirected,1
+Selberg,von,Undirected,1
+Lind,Selberg,Undirected,4
+Lind,Vissing,Undirected,1
+Fingal,Hegner,Undirected,3
+Fritz,Selberg,Undirected,9
+Fritz,Ævne,Undirected,1
+Konsul Blocks,Odin,Undirected,1
+Konsul Blocks,Sundby,Undirected,1
+Enkemadam Carlsen,Vissing,Undirected,1
+Enkemadam Carlsen,Lieutenant Vissing,Undirected,1
+Hegner,Lieutenant Vissing,Undirected,1
+Fritz,Madam Carlsen,Undirected,4
+Ludvig,Madam Carlsen,Undirected,1
+Filippine,Madam Carlsen,Undirected,1
+Filippine,Fritz,Undirected,1
+Hegner,Line,Undirected,1
+Hegner,Karl,Undirected,2
+L’,Selberg,Undirected,2
+Hardtz,Rosenfeldt,Undirected,1
+Kai,Rosenfeldt,Undirected,1
+Andreas Block,Stendalil,Undirected,1
+L’,Stendalil,Undirected,1
+Fritz,L’,Undirected,2
+Stendahl,iland,Undirected,1
+iland,lian,Undirected,1
+Fritz,spurgto,Undirected,1
+Ritmesteren,spurgto,Undirected,1
+Hegner,Hr. Ritmester,Undirected,1
+Heguers,Jenny,Undirected,1
+Heguers,Konsul Block,Undirected,1
+Konsul Block,Rosenfeldt,Undirected,1
+Bloeks,Fritz,Undirected,1
+Bloeks,Frøken Ritter,Undirected,1
+Frøken Ritter,Selberg,Undirected,2
+Ritter,Tyras,Undirected,1
+Tyras,lian,Undirected,1
+Vissing,lian,Undirected,1
+Selberg,Vissing,Undirected,2
+Selberg,hnn,Undirected,1
+Vissing,hnn,Undirected,1
+Vissing,liendes,Undirected,1
+Fritz,nei,Undirected,1
+Rosenfeldt,Sofie,Undirected,1
+Hr. Fritz,Sofie Ritter,Undirected,1
+Hegner,Sofie Ritter,Undirected,3
+Hegner,Rosenfeldt,Undirected,4
+Konsul Block,Stendahl,Undirected,1
+Fritz,Konsul Block,Undirected,3
+Blocks,Fritz,Undirected,1
+Hegner,lian,Undirected,2
+Stendahl,lian,Undirected,4
+Frøken Ritter,Hegner,Undirected,1
+Frits,Hegner,Undirected,1
+Hegner,liar,Undirected,1
+Lund,graties,Undirected,1
+Lund,Stendahl,Undirected,1
+Hegner,Ritter,Undirected,2
+L’,lille Sofie,Undirected,1
+L’,hombre,Undirected,1
+Fritz,Hr. Lieutenant,Undirected,1
+Hegner,das,Undirected,1
+das,kommt von das,Undirected,1
+Fritz,Nolo,Undirected,1
+L’hombre,Stendahl,Undirected,1
+Aspirant Fritz,L’hombre,Undirected,1
+Frøken Block,Hegner,Undirected,3
+Sofie,Vilhelm,Undirected,1
+Lieutenant Vissing,Vilhelm,Undirected,1
+Fanny Block,Hegner,Undirected,4
+Fanny Block,tets,Undirected,1
+Palstrup,tets,Undirected,1
+Fritz’,Palstrup,Undirected,1
+Fritz’,Hegner,Undirected,1
+Block,Stendahl,Undirected,8
+Selberg,Stendahl,Undirected,3
+eg,j,Undirected,1
+Hegner,eg,Undirected,1
+Sofie Ritter,Stendahl,Undirected,2
+Fritz,Sofie Ritter,Undirected,5
+Hegner,L’hombrebordet,Undirected,1
+Frøken Ritter,L’hombrebordet,Undirected,1
+Frøken Block,Frøken Ritter,Undirected,1
+Frøken Block,sapienti,Undirected,1
+Lieutenant Hegner,Selberg,Undirected,1
+Konsul Block,Maar,Undirected,1
+Fanny Block,Rosen-feldt,Undirected,1
+Beau Brummels,Rosenfeldt,Undirected,1
+Beau Brummels,Stendahl,Undirected,1
+Fanny Block,Rosenfeldt,Undirected,1
+Hegner,Vals,Undirected,1
+Fritz,Kai,Undirected,2
+Fritz,Sofie-Ritter,Undirected,1
+Lund,Vissing,Undirected,1
+Ritmester Stendahl,Sofie Ritter,Undirected,1
+L’,Ritmester Stendahl,Undirected,1
+Hegner,L’,Undirected,1
+Cadua,Fritz,Undirected,1
+Block,Cadua,Undirected,1
+Hegiier,lian,Undirected,1
+Ritter,lian,Undirected,1
+Block,Merkurius,Undirected,1
+Merkurius,Stendahl,Undirected,2
+Nero,Stendahl,Undirected,1
+Ritmesters,Stendahl,Undirected,2
+Parenthes,Stendahl,Undirected,1
+L’,Parenthes,Undirected,1
+Sofie,Tyras,Undirected,2
+Fritz,Tyras,Undirected,2
+Palstrup,Stendahl,Undirected,1
+Brask,Hardjz,Undirected,1
+Horizonten,lian,Undirected,1
+Vissing,hans Eskadron,Undirected,1
+Mer-kurius,Vissing,Undirected,1
+Mer-kurius,Stendahl,Undirected,1
+Stendahl,Vissing,Undirected,1
+Merkurius,Vissing,Undirected,2
+Lieutenant Vissing,Merkurius,Undirected,1
+Hegner,Konsul Block,Undirected,1
+Block,Brask,Undirected,1
+Hegner,Tyras,Undirected,2
+Sofie Ritter,Tyras,Undirected,1
+Block,Rosen-feldt,Undirected,1
+Lund,Rosen-feldt,Undirected,1
+Fanny Block,Lund,Undirected,1
+Fanny Block,Sofie,Undirected,2
+Block,Hegner,Undirected,3
+Block,Rosenfeldt,Undirected,1
+Hegner,Kai,Undirected,3
+Sofie,Stendahl,Undirected,1
+Stendahl,Tyras,Undirected,2
+Frøken Fannys,junior,Undirected,1
+Frøken Fannys,Hegner,Undirected,1
+Hr. Fritz,Hr. Ritmester,Undirected,1
+Fritz,liun,Undirected,1
+Brask,Hegner,Undirected,3
+Hardtz,Hegner,Undirected,6
+Rosenfeldt,Tøi,Undirected,1
+Fritz,Kosenfeldts,Undirected,1
+Frøken Magda,Kai,Undirected,1
+Hegner,lille Fritz,Undirected,3
+Block,Fritz,Undirected,1
+Ritmester Stendahl,leende,Undirected,1
+Bæstet,L’,Undirected,1
+Eritz,Lind,Undirected,1
+Fritz Ordonnansen,Stendahl,Undirected,1
+Fritz halvhøit,Hegner,Undirected,1
+Hegner,Peter Skjøtt,Undirected,1
+Fritz,Peter Skjøtt,Undirected,1
+Kitmester Stendahl,s,Undirected,1
+Kitmester Stendahl,Stendahl,Undirected,1
+Skrædder Mørchs,Stendahl,Undirected,1
+Skrædder Mørchs,Vissing,Undirected,1
+Hegner,Liremanden,Undirected,1
+Fritz,Hat,Undirected,1
+Hat,Peter Skjøtt,Undirected,1
+Lind,k,Undirected,1
+Hegner,Lind,Undirected,3
+Hegner,lille Fritzemand,Undirected,1
+Hardtz,lian,Undirected,1
+Eskadron,Selberg,Undirected,1
+Høire,Selberg,Undirected,1
+Fritzemand,Lind,Undirected,1
+Fritzemand,afmarschere,Undirected,1
+Lind,Strænges,Undirected,1
+Fløiters,Strænges,Undirected,1
+Fritz,Lars,Undirected,3
+Lars,Madam Carlsen,Undirected,1
+Lars,Palstrup,Undirected,1
+Fritz,Lieutenant Fritz,Undirected,1
+Fritz,Olaus,Undirected,1
+Lieutenanten,Palstrup,Undirected,2
+Fritz,Lars’,Undirected,1
+Lars’,Palstrup,Undirected,1
+Fritz,Frøken Fanny,Undirected,1
+Frøken Fanny,Hegner,Undirected,1
+Fanny Block,Svend,Undirected,1
+Fritz,Svend,Undirected,1
+Konsul Block,Vissing,Undirected,1
+Fritz,Sofie,Undirected,10
+Fritz,Frøken Ritter,Undirected,1
+Fritz,lille Sofie,Undirected,2
+Fanny,Fritz,Undirected,9
+Jægermester Fritz,Sofi.es,Undirected,1
+Ritter,Sofi.es,Undirected,1
+Fanny,Hegner,Undirected,9
+Fanny,Sofie,Undirected,6
+Fanny Block,Fritz,Undirected,3
+Fannys,Sofie,Undirected,1
+Fannys,Kirsten Giftekniv,Undirected,1
+Fritz,Kirsten Giftekniv,Undirected,2
+Fritz,Ritter,Undirected,1
+Block,Ritter,Undirected,1
+Fanny,Sofie Ritter,Undirected,2
+Hegner,Lars,Undirected,7
+Kansolen,Lars,Undirected,1
+Jøsses,Lars,Undirected,1
+Lars,itte,Undirected,1
+Block,Fanny,Undirected,1
+Fanny,Lars,Undirected,2
+Fanny,livor,Undirected,1
+Lars,livor,Undirected,1
+Lars,Stendahl,Undirected,2
+Lars,vos,Undirected,1
+Fanny,Lieutenant Hegner,Undirected,2
+Hegner,s,Undirected,1
+Fanny,Karl,Undirected,1
+Sofie,s,Undirected,1
+Hegner,Sofie,Undirected,2
+Fritz eg Frue,Ritter,Undirected,1
+Fanny,Ritter,Undirected,1
+August,Sofie,Undirected,2
+Fanny,Fanny Block,Undirected,1
+Fanny Block,Rudolf Hegner,Undirected,1
+Fanny,atigaar,Undirected,1
+Sofie,atigaar,Undirected,1
+August Fritz,Sofie,Undirected,1
+August Fritz,Kong Harald Blaaskjæg,Undirected,1
+August Fritz,Ritter,Undirected,1
+August Fritz,Sofie Ritter,Undirected,1
+Fanny,Rudolf Hegner,Undirected,1
+Kirsten Giftekniv,Sofie,Undirected,1
+Junker Schleni.tz,Lars,Undirected,1
+Karl,Lars,Undirected,1
+Karl,Stendahl,Undirected,2
+Godseiers,Rosenfeldt,Undirected,1
+Lind,Stendahl,Undirected,1
+Kirsten,Nero,Undirected,1
+Lieutenant Fritz,Lind,Undirected,1
+Lieutenant Fritz,s,Undirected,1
+Hegner,Lund,Undirected,1
+Lund,Selberg,Undirected,1
+Kjærholms,Palstrup,Undirected,1
+Hegner,Rudolf,Undirected,1
+Lind,Lund,Undirected,1
+Hegner,hans Fanny,Undirected,1

@@ -1,0 +1,880 @@
+source,target,type,weight
+Erik,ValdemarSejr,Undirected,1
+Erik,Valdemars,Undirected,1
+Kong Erik,Valdemars,Undirected,1
+Hertng,Kong Erik,Undirected,1
+Abels,Hertng,Undirected,1
+Abels,Kong Valdemars,Undirected,1
+Kong Valdemars,Mechtilde,Undirected,1
+Adolf,Mechtilde,Undirected,1
+Adolf,Gud,Undirected,1
+Abel,Gud,Undirected,3
+Abel,Holsfeu,Undirected,1
+Erik,Holsfeu,Undirected,1
+Abel,Erik,Undirected,2
+Abel,tik Holsfens,Undirected,2
+Abel,ban,Undirected,8
+Kong Erik,ban,Undirected,4
+Abel,Kong Erik,Undirected,11
+Forelobig svntes,ban,Undirected,2
+Jutta,Kong Erik,Undirected,2
+Jutta,bvor,Undirected,1
+bvor,hnn,Undirected,1
+Eil,as,Undirected,1
+as,ban,Undirected,2
+Dronning Juttas,ban,Undirected,2
+Henrik Hermanson,ban,Undirected,1
+Henrik Hermanson,Tageson,Undirected,1
+Henrik,Tageson,Undirected,1
+Henrik,ban,Undirected,17
+Dronning Inttas,ban,Undirected,1
+Dronning Inttas,Kong Erik,Undirected,1
+ban,fhi,Undirected,4
+Ellen,ban,Undirected,16
+Ellen,Henrik,Undirected,48
+ban,dam,Undirected,1
+Henrik,dam,Undirected,1
+Halt,Sidsels,Undirected,1
+Sidsel Iakobsdatter,bende,Undirected,1
+bende,hnn,Undirected,1
+hnn,sif,Undirected,1
+Sidsels,sif,Undirected,1
+Sidsel,Sidsels,Undirected,1
+Sidsel,bende,Undirected,2
+bei,bende,Undirected,1
+Henrik,Sidsel,Undirected,5
+Sidsel,fil,Undirected,1
+Henrik,paanv,Undirected,1
+Henrik,Sidscls,Undirected,1
+Katfen,Sidscls,Undirected,1
+Henrik,Katfen,Undirected,1
+Henrik,bende,Undirected,1
+Henrik Sidsel,fude,Undirected,1
+Henrik Sidsel,Sidsel,Undirected,1
+Ellen,Sidsel,Undirected,9
+Ellen,Mette,Undirected,28
+Mette,Sidsel,Undirected,1
+Sidsel,bun,Undirected,1
+Henrik,bun,Undirected,1
+ban,tbi ban,Undirected,1
+ball,tbi ban,Undirected,1
+ball,ban,Undirected,2
+Sidsel,ban,Undirected,2
+Munk,ban,Undirected,2
+Henrik Hermansøns,Munk,Undirected,1
+Henrik Hermansøns,illill,Undirected,1
+Ellen,illill,Undirected,1
+Ellen,milt,Undirected,1
+ban,fil Ømgaard,Undirected,1
+børte ban,fil Ømgaard,Undirected,1
+Henrik,børte ban,Undirected,1
+Søren Asgotus,ban,Undirected,1
+Abel,Henrik,Undirected,2
+Ole,Søren,Undirected,1
+Ole,Svend,Undirected,1
+Henrik,Stig,Undirected,2
+Gud,ban,Undirected,11
+Belials,ban,Undirected,1
+Abel,Belials,Undirected,3
+Henrik,faukesnld,Undirected,1
+Ellen Iversdatter,ban,Undirected,1
+Ellen Iversdatter,alf svr,Undirected,1
+Ellen,Søren,Undirected,18
+Kong Erik,Søren,Undirected,2
+Gud,Kong Erik,Undirected,4
+Henrik,Søren,Undirected,1
+Gud,Henrik,Undirected,6
+Gud,bo o rover,Undirected,1
+Gud,Svend,Undirected,1
+Svend,ban,Undirected,3
+Robert,bam,Undirected,1
+Abbed Stefan,bam,Undirected,1
+Abbed Stefan,Bernhard,Undirected,1
+Bernhard,Clairvanr,Undirected,1
+Benedikts,Clairvanr,Undirected,1
+Benedikts,Bernhard,Undirected,1
+Johannes,Søren Asgotus,Undirected,1
+Søren,ban,Undirected,3
+Søren,offe,Undirected,1
+bvori ban,offe,Undirected,1
+ban,bvori ban,Undirected,1
+ban,bvem,Undirected,2
+Olaus,ban,Undirected,7
+Henrik Hermansøn,Søren,Undirected,3
+Henrik Hermansøn,benad Bejen,Undirected,1
+benad Bejen,bentedes,Undirected,1
+Søren,bentedes,Undirected,1
+Søren,tbi Almnen,Undirected,1
+Søren fil,tbi Almnen,Undirected,1
+Ellen,Karen,Undirected,13
+Ellen,bun,Undirected,1
+bun,huir,Undirected,1
+Søren,huir,Undirected,1
+Ellen,Munkeir,Undirected,1
+Ellen,Gud,Undirected,14
+Karen,Søren,Undirected,4
+ban,bvad,Undirected,1
+Ellen,hnn,Undirected,19
+Gud,Søren,Undirected,4
+Ellen,Karen rakfe,Undirected,1
+Broder Olaus,Ellen,Undirected,1
+Berdens,Broder Olaus,Undirected,1
+Berdens,hnn,Undirected,1
+Olaus,hnn,Undirected,2
+Karen,Olaus,Undirected,2
+Berden,Karen,Undirected,2
+Berden,Ellen,Undirected,5
+Ellen,Olans,Undirected,11
+,Olans,Undirected,7
+,dans,Undirected,1
+Ellen,Olaus,Undirected,19
+Berden,Gud,Undirected,2
+Gud,Olaus,Undirected,7
+Margrete,Olaus,Undirected,3
+Ellen,Margrete,Undirected,10
+Korl,Olans,Undirected,1
+Karen,Korl,Undirected,1
+Løffe,Søren,Undirected,1
+Ellen,Løffe,Undirected,1
+Henrik,Madonna,Undirected,3
+Ellen,Røsf,Undirected,1
+Henrik,Røsf,Undirected,1
+Elleus,Henrik,Undirected,1
+Elleus,Madonna,Undirected,2
+Haabets,hnn,Undirected,1
+Haabets,Henrik,Undirected,2
+Madonna,OlauS,Undirected,1
+Gud,OlauS,Undirected,1
+Gud,bo,Undirected,1
+Ellen,bo,Undirected,1
+Søren,ane,Undirected,1
+ane,bvad,Undirected,1
+Ellen,sif,Undirected,2
+Gud,sif,Undirected,1
+Ellen,bende,Undirected,9
+Olaus,bende,Undirected,1
+Olaus,Søren,Undirected,9
+Ellen,Hnn,Undirected,2
+Hnn,Karen,Undirected,1
+Ellen,Jomfru Elleu,Undirected,1
+Bilde,Henrik,Undirected,1
+Bilde,Madonna,Undirected,1
+Ellen,Madonna,Undirected,2
+Ellen,Jomfru Ellen,Undirected,2
+Henrik,Jomfru Ellen,Undirected,3
+Ellen,grant,Undirected,1
+Gud,grant,Undirected,2
+Ellen,Henrik øg Ellen,Undirected,1
+Gammensord,Henrik øg Ellen,Undirected,1
+Gammensord,Olans,Undirected,1
+Olans,godf,Undirected,1
+Ellen,godf,Undirected,1
+Ellen,Hnstrn,Undirected,1
+Gud,Jomfru Ellen,Undirected,2
+Hr. Henriks,ban,Undirected,1
+Hjelmsbo,Prebens,Undirected,1
+Mette,Prebens,Undirected,1
+Mette,ban,Undirected,6
+Ellen,fhi,Undirected,1
+Gud,fhi,Undirected,1
+alf,ban,Undirected,4
+Kristi,alf,Undirected,1
+Kristi,Olans,Undirected,1
+Ellen,bave Henrik kjær,Undirected,1
+bave Henrik kjær,beller,Undirected,1
+Harmeils,Søren,Undirected,1
+Satan,Vig,Undirected,1
+Ellen,Henrik Hermanson,Undirected,1
+Henrik Hermanson,Olaus,Undirected,1
+Olans,Olaus,Undirected,4
+Karen,hnn,Undirected,1
+Henrik,Olaus,Undirected,4
+Henrik,Ømgaard,Undirected,3
+fil,Ømgaard,Undirected,1
+bun,fil,Undirected,1
+ban,bun,Undirected,3
+Hnn,ban,Undirected,1
+Hnn,bun,Undirected,1
+Svend,beller,Undirected,1
+beller,bende,Undirected,1
+bende,bende kjær,Undirected,1
+Kirsten fil,sligf,Undirected,1
+Ellen IverSdatter,hnn,Undirected,1
+Ellen IverSdatter,Karen,Undirected,1
+Tn,bendeS,Undirected,1
+Gud,Tn,Undirected,1
+Gud,Tu,Undirected,1
+Henna«,Kong Valdemar Sejr,Undirected,1
+Kong Valdemar Sejr,Valdemar,Undirected,1
+Tage,Valdemar,Undirected,1
+Tage,ban,Undirected,2
+Hr. Tage,ban,Undirected,2
+bam,ban,Undirected,7
+ban,sor bans,Undirected,1
+bende,sor bans,Undirected,1
+ban,bende,Undirected,2
+ban,dans,Undirected,4
+ban,ban hvasf,Undirected,1
+Ellen Jversdatter,Henrik,Undirected,1
+Ellen Jversdatter,hnn,Undirected,1
+Dn,Ellen Jversdatter,Undirected,1
+Aasun,Herman Tagesen,Undirected,1
+Aasun,ban,Undirected,1
+Ester,Henrik,Undirected,1
+Gjærne,Henrik,Undirected,1
+Gjærne,ban,Undirected,1
+Ellen,Sune,Undirected,1
+Dell,Sune,Undirected,1
+Dell,Hesf,Undirected,1
+Karen,ban,Undirected,2
+Broder OlanS,ban,Undirected,1
+,Broder OlanS,Undirected,1
+,hnn,Undirected,1
+Karen,fil,Undirected,1
+Herman Tageseu,bende,Undirected,1
+Olans,nn,Undirected,1
+,Ellen,Undirected,1
+EllenS,Olans,Undirected,1
+EllenS,Munk,Undirected,1
+Ellen,Munk,Undirected,2
+Søren,hnn,Undirected,1
+Olans,Søren,Undirected,3
+Henrik,hnn,Undirected,5
+Ømgaard,ølauS,Undirected,1
+ban,ølauS,Undirected,1
+ban,bavde,Undirected,1
+Ellen,bavde,Undirected,2
+Henrik,HjelmSbo,Undirected,1
+HjelmSbo,bvor,Undirected,1
+Mette,bvor,Undirected,1
+Mette,bam,Undirected,1
+Henrik,bam,Undirected,2
+Ellen,bendcS,Undirected,2
+Gud,hnn,Undirected,3
+Henrik,huu,Undirected,1
+bun,huu,Undirected,1
+,bun,Undirected,2
+bun,hnn,Undirected,1
+Eil,Ellen,Undirected,1
+Ellen,livor liendes,Undirected,1
+Henrik,livor liendes,Undirected,1
+Mette,hnn,Undirected,4
+Mette,Olans,Undirected,1
+,Søren,Undirected,2
+Søren,fhi,Undirected,1
+Munk,fhi,Undirected,1
+Edær,Ellen,Undirected,1
+Gud,beller,Undirected,1
+ban,beller,Undirected,1
+Jomfru Ellen,ban,Undirected,1
+Jomfru Ellen,bvad,Undirected,1
+Gud,bvad,Undirected,2
+Lise,ban,Undirected,1
+Gud,dubesfe,Undirected,2
+Ellen,Visfnok,Undirected,1
+Henrik Hermansøn,Visfnok,Undirected,1
+Henrik Hermanføn,Søren,Undirected,1
+Gud,Henrik Hermanføn,Undirected,1
+Jesper Langsfjæg,Jesper havde,Undirected,1
+Gud,Jesper Langskjægs,Undirected,1
+Søren,bois,Undirected,1
+Defte,Knud den,Undirected,1
+Abel,Hertng,Undirected,1
+Abel,Søren,Undirected,2
+Ester,Søren,Undirected,1
+Markus,def,Undirected,1
+Gud,Markus,Undirected,1
+Daniel Hjulmand,ban,Undirected,1
+Daniel Hjulmand,Palles,Undirected,1
+Markus,Palle Bondes,Undirected,1
+fil,tykfes,Undirected,1
+Ester,ban,Undirected,1
+Stig,Svend,Undirected,1
+Stig,ban,Undirected,1
+Abel,Stig,Undirected,1
+Erik,Stig,Undirected,1
+Erik,Kong Erik,Undirected,1
+Kong Erik,fil,Undirected,1
+Svend,fil,Undirected,2
+Markus,alf,Undirected,1
+Kigeberg,alf,Undirected,1
+Kigeberg,ban,Undirected,1
+Jutta,filrane,Undirected,1
+Abel,filrane,Undirected,1
+Abel,bvad,Undirected,2
+Abbed Johanues,Jutta,Undirected,1
+Erik,Søren,Undirected,2
+Johannes,Olaus,Undirected,4
+Abbedell,Søren,Undirected,1
+Ask,Gud,Undirected,2
+Abbed Johannes fav,Olaus,Undirected,1
+Abbed Johannes,ask,Undirected,1
+Gud,ask,Undirected,1
+Munk,Olaus,Undirected,1
+Jutta,Munk,Undirected,1
+Abel,Jutta,Undirected,1
+Kong Erik,Kong Volmer,Undirected,1
+Niels Stigson,Olans,Undirected,1
+Erik,fil,Undirected,1
+Erik,nsminket,Undirected,1
+Kong Volmer,nsminket,Undirected,1
+Dronning Juttas,Olaus,Undirected,2
+Henrik Hermansøn,Olaus,Undirected,2
+,Olaus,Undirected,1
+,Karen,Undirected,1
+ban,bvor de,Undirected,1
+Stig,bvor de,Undirected,1
+Henrik,Karen,Undirected,1
+Karen,alf,Undirected,1
+Karen,alf eders,Undirected,1
+Jutta agfede,Sofie,Undirected,1
+Ingeborg,Sofie,Undirected,1
+Abel,Ingeborg,Undirected,1
+,Abbed Jobannes,Undirected,1
+,ban,Undirected,1
+Olans,ban,Undirected,13
+,def,Undirected,1
+ban,def,Undirected,1
+Madonna,hnn,Undirected,1
+Madonna,def,Undirected,1
+Henrik,def,Undirected,1
+Henrik,alf,Undirected,2
+Kong Valdemars,alf,Undirected,1
+Abel,Asgaard,Undirected,1
+Asgaard,Olans,Undirected,1
+Kong Valdemar,bo,Undirected,1
+Munk,bo,Undirected,1
+Munk,Teodorik,Undirected,1
+Teodorik,Valdemar,Undirected,1
+Aaget,Valdemar,Undirected,2
+Valdemar,sendfe,Undirected,1
+Kong Erik,skjønf der var,Undirected,1
+Abel,nn,Undirected,1
+Abel,Pave Jnnocents IV,Undirected,1
+Kong Erik,Pave Jnnocents IV,Undirected,1
+Kong Erik,Niels Stigsøn,Undirected,2
+Anders Sunesøn,Kong Erik,Undirected,1
+Anders Sunesøn,Velfing,Undirected,1
+Henrik Hermansøn,Velfing,Undirected,2
+Dronning Jutta,Henrik Hermansøn,Undirected,1
+Henrik Mmellorp,kuune,Undirected,1
+Kong Valdemar,Svend,Undirected,1
+Abel,Stefan,Undirected,2
+Henrik,Padis,Undirected,1
+Dorpat,Padis,Undirected,1
+Dorpat,Hr. Peter,Undirected,1
+Helle,Munk,Undirected,2
+Henrik,Karl,Undirected,1
+Palle,Svend,Undirected,1
+Henrik,ester,Undirected,1
+Mester Hyginus,Svend,Undirected,1
+Hyginns,Mesfer,Undirected,1
+Mesfer Hyginns,Svend,Undirected,2
+Hyginns,Mesfer Pludderhøse,Undirected,1
+Hyginns,Ulrik,Undirected,1
+Henrik,Hyginns,Undirected,7
+Kong Erik,Sofia,Undirected,1
+Sofia,hnn,Undirected,1
+Erik,hnn,Undirected,1
+Gud,Venceslaus,Undirected,2
+Henrik,Kong Erik,Undirected,2
+Johan,Venceslaus,Undirected,1
+Gud,Klerke,Undirected,1
+Henrik,Velfing,Undirected,5
+Erik,Henrik,Undirected,2
+Henrik,L,Undirected,1
+Glans,X.,Undirected,1
+Abbed Johannes,Olaus,Undirected,1
+,Johannes,Undirected,1
+Lise,Søren,Undirected,1
+Ellen,Lise,Undirected,1
+Søren,kasfe,Undirected,1
+Søren,Vellysfen,Undirected,1
+Margrete,Vellysfen,Undirected,1
+Olans,Vitskjøld,Undirected,2
+Karen,Olans,Undirected,1
+Ellen,banS,Undirected,2
+Søren,bam,Undirected,1
+Abbed OlanS,ban,Undirected,1
+Abbed OlanS,banS,Undirected,1
+banS,tbi bvorhen,Undirected,1
+ban,tbi bvorhen,Undirected,1
+Gud,ball,Undirected,1
+Gud,bende,Undirected,2
+Ellen,OlanS,Undirected,1
+Gud,OlanS,Undirected,1
+Karen,OlauS,Undirected,1
+,OlauS,Undirected,2
+,S,Undirected,2
+Ellen,S,Undirected,1
+Søren,bende,Undirected,1
+Olans,ester,Undirected,1
+Olaus,Ømgaard,Undirected,1
+Ellen,Henrik Hermansøn,Undirected,2
+Henrik Hermansøn,alf,Undirected,1
+Ellen,alf Liv,Undirected,2
+Ellen,Ellen sfod,Undirected,1
+Margrete,Olans,Undirected,1
+Margrete,ViSsingS,Undirected,1
+Olans,ViSsingS,Undirected,1
+Ellen,fil Hjelmslev,Undirected,1
+Olaus,fil Hjelmslev,Undirected,1
+Ellen-fulgle,Olaus,Undirected,1
+Abbed Olaus,Ellen,Undirected,1
+Abbed Olaus,stig sk,Undirected,1
+Ellen,froet,Undirected,1
+Jomfru Ellen,froet,Undirected,1
+Jomfru Ellen,Olaus,Undirected,1
+Olaus,sonl,Undirected,1
+Henrik Hermansøn,sonl,Undirected,1
+Ask,Ellen,Undirected,1
+Gud,Madouua,Undirected,1
+ban,hau,Undirected,2
+Ellen,bvi,Undirected,1
+Olaus,bvi,Undirected,1
+Gud,Munk,Undirected,1
+alf,bende,Undirected,1
+Hyginns,Kong Erik,Undirected,1
+Hyginns,ban,Undirected,2
+Gud,Mester Hyginns,Undirected,1
+forfes,luen,Undirected,1
+alf,fig,Undirected,2
+alf,hnn,Undirected,3
+Glaus,Henrik,Undirected,2
+Hyginus,favse,Undirected,1
+Henrik fog fil,favse,Undirected,1
+Velfing,dans,Undirected,1
+Arne,Elfis,Undirected,1
+Henrik,Valdemar,Undirected,1
+Henrik,Herman,Undirected,1
+Herman,ban,Undirected,3
+Djærvbed,ban,Undirected,1
+Djærvbed,fil,Undirected,1
+ban,fil,Undirected,1
+Hedevig,Jomfru Hedevig,Undirected,2
+Ester,Hedevig,Undirected,1
+Ester,Herman,Undirected,2
+Herman,Jomfru Hedevig,Undirected,4
+Hedevig,Herman,Undirected,2
+Herman,braf,Undirected,2
+ban,fakke,Undirected,1
+Herman,Hnstru,Undirected,2
+elv,hnn,Undirected,1
+Elsiss,elv,Undirected,1
+Jomfru Hedevig,hnn,Undirected,2
+Hedevig,Ivar,Undirected,1
+Gud,Ivar,Undirected,1
+Ask,hnn,Undirected,1
+Herman joges,hnn,Undirected,1
+Elsif,Herman joges,Undirected,1
+Elsif,Kong Valdemar,Undirected,1
+Kong Valdemar,Lothar,Undirected,1
+Lise,øg,Undirected,1
+Abel,Lise,Undirected,1
+Henrik,lidf,Undirected,1
+Kong Erik,Velfing,Undirected,1
+ester,offe,Undirected,1
+Svend,ester,Undirected,1
+Henrik,Klerke,Undirected,1
+Hyginns,Velfing,Undirected,1
+Hyginus,Kong Erik,Undirected,1
+Abel,Hyginus,Undirected,1
+Kong Erik,Valdemar Sejrs,Undirected,1
+Dronning Dagmars,Valdemar Sejrs,Undirected,1
+Dronning Dagmars,Hertng Abel,Undirected,1
+Gud,Hertng Abel,Undirected,1
+Ellen,Valborg,Undirected,5
+Henrik Hermansøn,Valborg,Undirected,1
+Haabets,Henrik Hermansøn,Undirected,1
+Henrik,elsfede,Undirected,1
+Ask hiin,elsfede,Undirected,1
+Ask hiin,Valborg,Undirected,1
+Sidsel Iakobsdatter,Valborg,Undirected,1
+Sidsel,hnn,Undirected,1
+Ellen,Spaakvindcns,Undirected,1
+Sidsel,Spaakvindcns,Undirected,1
+Ellen,Mads,Undirected,1
+Mads,Sidsel,Undirected,2
+Mads,Ungmøens,Undirected,1
+Sidsel,Ungmøens,Undirected,1
+Ellen,Sidsel fog,Undirected,1
+Karen,Sidsel fog,Undirected,1
+Gud,Madonna,Undirected,1
+Madonna,Søren,Undirected,1
+-Ellen,hnn,Undirected,1
+-Ellen,bende,Undirected,1
+Hnn,hnn,Undirected,1
+hnn,nledens,Undirected,1
+Ellen,nledens,Undirected,1
+Gud,Mette,Undirected,2
+Mette,PrebenS,Undirected,1
+Mosfer,PrebenS,Undirected,1
+Mette,Mosfer,Undirected,1
+Mette,Søren,Undirected,1
+Ellen,Preben,Undirected,5
+Preben,fil,Undirected,1
+Jomfru Mette,fil,Undirected,1
+Jomfru Mette,hnn,Undirected,1
+Dril,hnn,Undirected,1
+Dril,gammell,Undirected,1
+gammell,hnn,Undirected,1
+Henrik,Mette,Undirected,3
+Søren,siu Plau,Undirected,1
+Ellen,Hjelmsbo,Undirected,1
+Mette,bvilken fager Legesøster,Undirected,1
+Ellen,Søren bende,Undirected,1
+Ellen,sidsfe,Undirected,1
+Ellen,Elsfov,Undirected,1
+Elsfov,ban,Undirected,1
+Søren,Ømgaard,Undirected,1
+Balborg,Mette,Undirected,1
+Preben,Søren,Undirected,1
+Mette,Preben,Undirected,2
+Ellen,mili,Undirected,1
+Ellen,Ellen Iversdatter,Undirected,1
+Henrik,Melte,Undirected,1
+Ellen,Ømgaard,Undirected,2
+bo,bvgge,Undirected,1
+ber,bvgge,Undirected,1
+ber,line,Undirected,1
+Henrik,line,Undirected,1
+Melte,Søren,Undirected,1
+Ellen,Melte,Undirected,2
+Melte,hnn,Undirected,1
+Næsfe,hnn,Undirected,1
+Melte,Næsfe,Undirected,1
+Kong Valdemar,Søren,Undirected,1
+Kuds,ban,Undirected,2
+Isse,ban,Undirected,1
+Isse,Kong Erik,Undirected,1
+ban,ester,Undirected,2
+Kong Erik baardere,Søren,Undirected,1
+Hertng Abel,Tage,Undirected,1
+Hertng Abel,ban,Undirected,1
+Abel,Spaadom,Undirected,1
+Kong Erik,Spaadom,Undirected,1
+Ellen,Tage hvast,Undirected,1
+Ellen,bende ln,Undirected,1
+Ellen,Tage,Undirected,2
+Søren,Tage,Undirected,2
+Abbed Olaus,Søren,Undirected,1
+Olans,d,Undirected,1
+Olaus,tbi ban,Undirected,1
+Gud,nn,Undirected,1
+Henrik,nn,Undirected,1
+Ellen,Kirsten,Undirected,1
+Ellen,Omgaard,Undirected,1
+Mette,Ømgaard,Undirected,5
+Henrik Hermansøn,Ømgaard,Undirected,1
+Ellen,berhid,Undirected,1
+Høgen,Mette,Undirected,1
+Ellen,fil,Undirected,2
+Jomfru Mette,ester,Undirected,1
+ane,ban,Undirected,1
+Henrik Hermausøns,ban,Undirected,1
+Henrik Hermausøns,Henrik fage,Undirected,1
+Henrik fage,Ømgaard,Undirected,1
+Madonna,bun,Undirected,1
+Henrik Hermanson,bam,Undirected,1
+Gud,Henrik Hermanson,Undirected,1
+Henrik Hermansøn,ban,Undirected,1
+Elle«,ester,Undirected,1
+Mette,ester,Undirected,1
+Ellen,erholde,Undirected,1
+Mette,bun,Undirected,1
+Preben,bun,Undirected,1
+Henrik Hermansøn,Preben,Undirected,1
+Ellen,fil Hjelmsbo,Undirected,1
+ban,fil Hjelmsbo,Undirected,1
+Mette,Tage,Undirected,1
+Tage,hnn,Undirected,1
+Mette,Raa Mosso oo,Undirected,1
+Abbed Olans,Olaus,Undirected,1
+Olaus,Storni,Undirected,1
+OlauS,tbi,Undirected,1
+Olans,tbi,Undirected,1
+Olans,Straa,Undirected,1
+Straa,ban,Undirected,1
+Kong ' Abel,ban,Undirected,1
+Kong ' Abel,Olans,Undirected,1
+Kong Aber,Olans,Undirected,1
+Kong Aber,Tuen,Undirected,1
+Olans,Tuen,Undirected,1
+Abel,Olans,Undirected,1
+Nn,ban,Undirected,2
+Lvst,ban,Undirected,1
+Lvst,Olans,Undirected,1
+Olans,as,Undirected,1
+Kong Abel,Olaus,Undirected,2
+Abel,Olaus,Undirected,1
+Barme,bvad,Undirected,1
+Abel,OlauS,Undirected,1
+Kong Abel,ban,Undirected,1
+Klerke,ban,Undirected,1
+Klerke,Olaus,Undirected,1
+Berden,Klerke,Undirected,1
+Haus,Olaus,Undirected,1
+Benedikts,Olans,Undirected,1
+Benedikts,Stefan,Undirected,1
+Bernhard,Stefan,Undirected,1
+Benedikt,Robert,Undirected,1
+Robert,Stefan og,Undirected,1
+Bernhard fil,Stefan og,Undirected,1
+Bernhard fil,Gud,Undirected,1
+Gud,ester enbvers,Undirected,1
+Aolsgaard,Bellustens,Undirected,1
+Belials,Olans,Undirected,1
+Belials,Herhid,Undirected,1
+Olans,Ræriug,Undirected,1
+Abbed,Ræriug,Undirected,1
+Abbed,ban,Undirected,1
+Olans,ansfaar,Undirected,1
+ansfaar,esler Olans,Undirected,1
+Svend,esler Olans,Undirected,1
+Papæ,ban bøjere,Undirected,1
+ban bøjere,bos Olans,Undirected,1
+Papæ,bos Olans,Undirected,1
+Jomfru Jnger,Papæ,Undirected,1
+Jomfru Jnger,bavde,Undirected,1
+Olans,bavde,Undirected,1
+,Inger,Undirected,1
+Inger,Olans,Undirected,2
+Olans,hnn,Undirected,1
+Inger,hnn,Undirected,2
+Erland,Igletorp,Undirected,1
+Dolken,Erland,Undirected,1
+Abel,Dolken,Undirected,1
+Elfe,ban,Undirected,3
+ban,ove,Undirected,1
+Erland,ove,Undirected,1
+Else,Erland,Undirected,4
+ban,banS,Undirected,2
+Dolken,Elfe,Undirected,1
+Dolken,Inger,Undirected,2
+ElseS,Inger,Undirected,1
+Else,ElseS,Undirected,1
+Else,hnn,Undirected,1
+Inger,Olaus,Undirected,1
+Dolken,Olaus,Undirected,6
+Dolken,Else,Undirected,2
+Else,Inger,Undirected,2
+Erland,Inger,Undirected,1
+Frænde,Jnger,Undirected,1
+Abbed,Else,Undirected,1
+Dolken,Hnstrn,Undirected,1
+Else,Hnstrn,Undirected,1
+Else,Erlaud,Undirected,1
+Dolken,Olans,Undirected,1
+Elfe,Erland,Undirected,1
+OlauS,knudret Egs,Undirected,1
+OlauS,S,Undirected,1
+Olaus,S,Undirected,1
+Gud,S,Undirected,1
+Olaus,Øur,Undirected,1
+Erland,Munk,Undirected,1
+Else,Munk,Undirected,1
+Else,Ibald knnde,Undirected,1
+Erland,ban,Undirected,2
+Erlaud,ban,Undirected,1
+Pya,ban,Undirected,1
+Flins,Pya,Undirected,1
+Flins,ban,Undirected,1
+ban,fnseude,Undirected,1
+Egs,fnseude,Undirected,1
+Dolken,Egs,Undirected,1
+Dolken,Pitje,Undirected,1
+Olaus,Pitje,Undirected,1
+Olaus,Papæ,Undirected,3
+Olans,Papæ,Undirected,1
+Erland,Olans,Undirected,1
+Else,Papæ,Undirected,1
+,Papæ,Undirected,2
+,fhi,Undirected,1
+Olaus,fhi,Undirected,1
+,Gud,Undirected,1
+bende,Ømgaard,Undirected,1
+Hnn,bende,Undirected,1
+Ellen,ndhrvd,Undirected,1
+Henrik,langen,Undirected,1
+Henrik,fer,Undirected,1
+Henrik,fe bans,Undirected,1
+bavde,fe bans,Undirected,1
+Hyginns,bavde,Undirected,1
+Hyginns,paasfod,Undirected,1
+ban,paasfod,Undirected,1
+ban,mesf,Undirected,1
+Henrik,mesf,Undirected,1
+Gud,Tage,Undirected,1
+Jomfru Ellen,Tage,Undirected,1
+Henrik,fortalfe,Undirected,1
+Ellen,fortalfe,Undirected,1
+Jomfru Mette,Ømgaard,Undirected,1
+Ellen,Sanden,Undirected,1
+Ellen,Huri,Undirected,1
+Henrik,Tage,Undirected,3
+Henrik,Hyginus,Undirected,2
+Henrik,HvginuS,Undirected,1
+Graaskimmels,Henrik,Undirected,1
+Graaskimmel,Graaskimmels,Undirected,1
+Graaskimmel,Svend,Undirected,1
+Hyginus,Svend ør,Undirected,1
+Svend ør,Veronica,Undirected,1
+Graaskunmel,Veronica,Undirected,1
+Graaskunmel,Henrik,Undirected,1
+bvad,tbi,Undirected,1
+Huginus,bvad,Undirected,1
+Huginus,Veronica,Undirected,1
+Veronica,bende,Undirected,1
+ban,gjæste Ømgaard,Undirected,1
+Abbed Olaus,OlauS,Undirected,1
+HyginnS,OlauS,Undirected,1
+HyginnS,Hyginus,Undirected,1
+Berden,Olaus,Undirected,1
+Henrik fil,ban,Undirected,1
+Belials,Olaus,Undirected,1
+,Esfer Olans,Undirected,1
+,Hyginus,Undirected,1
+Ellen,nn,Undirected,2
+fil Hjelmsbo,nn,Undirected,1
+fil Hjelmsbo,uaar ban bavde,Undirected,1
+sorn,uaar ban bavde,Undirected,1
+fil,sorn,Undirected,1
+Henrik,fil,Undirected,1
+Henrik fil Orde,frein,Undirected,1
+Ellen,Henrik fil Orde,Undirected,1
+Jomfru Ellen,bendeS,Undirected,1
+Hjelmsbo,Mette,Undirected,1
+Ellen“,Jomfru Ib,Undirected,1
+Henrik fil,Mette,Undirected,1
+Ellen,Henrik fil,Undirected,1
+Dn,Tage,Undirected,1
+Dn,Ellen,Undirected,1
+Ellen,fog,Undirected,2
+Henrik,dans,Undirected,1
+ban,binandcn,Undirected,1
+Henrik,binandcn,Undirected,1
+Ellen,Hain,Undirected,1
+Hain,Ømgaard,Undirected,1
+ban,Ømgaard,Undirected,1
+ban,dube,Undirected,1
+dube,fil Ømgaard,Undirected,1
+BerdenS,fil Ømgaard,Undirected,1
+BerdenS,Henrik,Undirected,1
+Henrik,fil ømgaard,Undirected,1
+Bilde,Olaus,Undirected,1
+Bilde,Ellen,Undirected,1
+Søren,bos Olaus,Undirected,1
+Dolken,Hyginus,Undirected,5
+Dolke,Hyginus,Undirected,1
+Dolke,Dolken,Undirected,1
+Dolken,Ellen,Undirected,1
+Dolken fil,Ellen,Undirected,1
+Dolken fil,Olaus,Undirected,1
+Dolken,ban,Undirected,1
+Hvginus,Olaus,Undirected,1
+Jesus,Vibes,Undirected,1
+Hyginns,hnn,Undirected,1
+Dolke,ban,Undirected,1
+Aare,Olans,Undirected,2
+Hyginns,Munk,Undirected,1
+Hyginns,Olans,Undirected,1
+Hyginus,Olaus,Undirected,1
+Hyginns,Olaus,Undirected,1
+Hyginns,Ømgaard,Undirected,1
+Tage,sorn,Undirected,1
+Kong Valdemar Sejr,Tage,Undirected,1
+Kong Valdemar,bam,Undirected,1
+bam,banS,Undirected,1
+Ivar Ralfføn,Tage,Undirected,1
+Herma,Herman,Undirected,1
+Hain,Ivar,Undirected,1
+Ivar,Nalfsøns,Undirected,1
+Nalfsøns,ban,Undirected,1
+Ivar,ban,Undirected,3
+Hain,sing,Undirected,1
+Hain,Henrik,Undirected,1
+Abbed Olans,Henrik,Undirected,1
+Ellen,Ivar,Undirected,3
+Ellen,Ivar Ralffons,Undirected,2
+Ellen,Nn,Undirected,1
+Lidel,ban,Undirected,1
+Olaus,Velsings,Undirected,1
+Herman,Velsings,Undirected,1
+Aarle,Lærke,Undirected,1
+Gud,Lærke,Undirected,1
+Gud,sinn,Undirected,1
+Belfing,alf,Undirected,1
+Viette,alf,Undirected,1
+Viette,ban,Undirected,1
+ban,bnn,Undirected,3
+ban,fale,Undirected,1
+Ellen,fale,Undirected,1
+bavde,bende,Undirected,1
+bende,fvinge sif,Undirected,1
+Belnug,Ellen,Undirected,1
+Belnug,ban,Undirected,1
+Gud,Velfing,Undirected,1
+Gjogens,alf,Undirected,1
+ban,suart,Undirected,1
+Bin ger,ove,Undirected,1
+Ellen,Liv,Undirected,1
+Henrik,Liv,Undirected,1
+Ask,Henrik,Undirected,1
+Henrik,fie,Undirected,1
+Henrik,fog,Undirected,1
+Ellen,Jomfru Mette,Undirected,1
+EllenS,Henrik,Undirected,1
+Olans,Pater Abbas,Undirected,1
+Olans eil,Papæ,Undirected,1
+Margrete,Papæ,Undirected,1
+Margrete,Svend,Undirected,1
+Abbed Olaus,Svend,Undirected,1
+Abbed Olaus,ban,Undirected,1
+Søren,Søren Asgotus,Undirected,1
+Preben,effer,Undirected,1
+Mette,effer,Undirected,1
+Jørgen,Mette,Undirected,1
+Hjelmsbo,Jørgen,Undirected,1
+Henrik,Hjelmsbo,Undirected,1
+Frn,Henrik,Undirected,1
+Ellen,Frn,Undirected,1
+Henrik Æmelforp,Hvginns,Undirected,1
+Hakon Hakonsøn,nusk,Undirected,1
+Birger Jarls,Hakon Hakonsøn,Undirected,1
+Birger Jarls,Kong Valdemar,Undirected,1
+Kong Valdemar,filrane,Undirected,1
+Lunde Erkebisp,filrane,Undirected,1
+Jakob Erlandsøn,Lunde Erkebisp,Undirected,1
+Jakob Erlandsøn,frodse,Undirected,1
+Aaget,frodse,Undirected,1
+Aaget,Kong Kristoffer,Undirected,1
+Henrik Hermansøn,Kong Kristoffer,Undirected,1
+Henrik Hermansøn,fil,Undirected,1
+fil,gjæstedcs,Undirected,1
+Asgotus,gjæstedcs,Undirected,1
+Gud,fil,Undirected,1
+AsgotuS,Barme,Undirected,1
+Barme,Valdemar Sejrs,Undirected,1
+lille Ivar,sif,Undirected,1
+Abel,Asgotus,Undirected,1
+Abel,Kristoffer,Undirected,1
+,Kristoffer,Undirected,1
+Henrik,Jakob,Undirected,1
+Jakob,Kong Kristoffer,Undirected,1
+Abbed Asgotus,Belsing,Undirected,1
+Belsing,ban,Undirected,1
+def,Ømgaard,Undirected,1
+Henrik,Ivar,Undirected,1
+Asgotus,Ivar,Undirected,1
+,Asgotus,Undirected,1
+Gud,est,Undirected,1
+Gud,signe,Undirected,1
+Henrik,signe,Undirected,1
+Henrik Hermanson,hnn,Undirected,1
+Henrik Hermanson,Kong Kristoffer,Undirected,1
+Fabeils,Fabels,Undirected,1
+Giedebuk,francden,Undirected,1
+francden,lces,Undirected,2
+elv,franeden,Undirected,1
+elv,lces,Undirected,1
+Elsiss,lces Elsifs,Undirected,1

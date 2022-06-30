@@ -1,0 +1,307 @@
+source,target,type,weight
+Johanne,Paula,Undirected,62
+Gud,Johanne,Undirected,7
+Johanne,Moller,Undirected,1
+Herning,Johanne,Undirected,5
+Flvad,Panla,Undirected,1
+Johanne,lille Paula,Undirected,1
+Brandt,Paula,Undirected,1
+Brandt,Rudolf,Undirected,1
+Cathinca Thomsen,Rudolf,Undirected,1
+Cathinca,Cathinca Thomsen,Undirected,1
+Cathinca,Johanne,Undirected,5
+Johanne,Jomfru Thomsen,Undirected,1
+Jomfru Thomsen,Rudolf,Undirected,1
+Cathinca,Rudolf,Undirected,2
+Jomfru Thomsen,Paula,Undirected,1
+Paula,ning,Undirected,1
+Rudolf,ning,Undirected,1
+Axel,Johanne,Undirected,171
+Axel,Lille,Undirected,1
+Axel,Paula,Undirected,22
+Johanne,Krag,Undirected,2
+Axel Herning,Johanne,Undirected,6
+Axel,Axel Herning,Undirected,2
+Axel,Johannes Kind,Undirected,1
+Johannes Kind,irette,Undirected,1
+Paula,irette,Undirected,1
+Paula,William,Undirected,2
+Johanne,William,Undirected,11
+Graad,Johanne,Undirected,2
+Aaget,Johanne,Undirected,2
+Bertha,Johanne,Undirected,2
+Højer,William,Undirected,1
+Højer,Johanne,Undirected,1
+Axel,Krag,Undirected,1
+Helmers,Krag,Undirected,1
+Helmers,Johanne,Undirected,5
+Johanne,Lieutenant Krag,Undirected,3
+Laban,William Krag,Undirected,1
+Thornings,William,Undirected,2
+Axel,Thornings,Undirected,1
+Mimi Funder,Peter Emil Funder,Undirected,1
+Axel,Mimi,Undirected,5
+Johanne,Mimi,Undirected,14
+Johanne,s,Undirected,1
+Horizont,s,Undirected,1
+Horizont,Johanne,Undirected,1
+Jespersen,Johanne,Undirected,18
+Hallager,Johanne,Undirected,1
+Johanne,Kjerbys,Undirected,1
+Axel,Pastor Rises,Undirected,1
+Herning,Stilmans,Undirected,1
+Johanne,Stilmans,Undirected,1
+Hallager,Herning,Undirected,1
+Gud,Hallager,Undirected,1
+Gud,Jespersen,Undirected,1
+Axel,Jespersen,Undirected,36
+Iversens,Jespersen,Undirected,1
+Axel,Iversens,Undirected,1
+Jespersen,Paula,Undirected,2
+Axel Herning,Jespersen,Undirected,2
+Axel,ban,Undirected,4
+Johanne,Karl,Undirected,1
+Paula,Villiam,Undirected,1
+Axel,Villiam,Undirected,3
+Axel,Rises,Undirected,1
+Axel,Gud,Undirected,17
+Gud,Højer,Undirected,1
+Johanne,Køjers,Undirected,1
+Axel,Køjers,Undirected,1
+Johanne,lille,Undirected,2
+Johanne,aa Axel,Undirected,1
+Axel,hnn,Undirected,3
+Johanne,Landauer,Undirected,1
+Hvids,Johanne,Undirected,3
+Axel,Hvids,Undirected,3
+Johanne,Luthers,Undirected,1
+Jespersen,Marie,Undirected,1
+Johanne,trygl,Undirected,1
+Krag,Paul Axel Johannes Krag Herning,Undirected,1
+Krag,Rise,Undirected,1
+Højer,Rise,Undirected,1
+Axel,Højer,Undirected,2
+Cathinca Thomsen,Paula,Undirected,1
+Axel,Cathinca Thomsen,Undirected,2
+Axel,Cathinca,Undirected,3
+Cathinca,Paula,Undirected,9
+Axel,William,Undirected,4
+William,bun,Undirected,1
+Cathinca,William,Undirected,2
+Cathinca,Gud,Undirected,2
+Johanne,ban,Undirected,4
+Jespersen,Jomfru Elben,Undirected,1
+Axel,Cathinea,Undirected,1
+Frøken Fjeldstrup,Johanne,Undirected,1
+Ellen Fjeldstrup,Johanne,Undirected,1
+Cathinca,Ellen Fjeldstrup,Undirected,1
+Højer,Riise,Undirected,1
+Paula,Riise,Undirected,1
+Johanne,lille Fru Krag,Undirected,1
+Emilie,Frits,Undirected,1
+Emilie,Herning,Undirected,1
+Johanne,lille Pauls,Undirected,1
+Paula,lille Pauls,Undirected,1
+Axel,Lyngstrup,Undirected,4
+Johanne,sonYagsaa,Undirected,1
+Paula,sonYagsaa,Undirected,1
+Axel,Paul,Undirected,17
+Axel,Poul,Undirected,1
+Jespersen,Poul,Undirected,1
+Hallager,Jespersen,Undirected,1
+Axel,Hallager,Undirected,2
+Jespersen,Thorning,Undirected,1
+Højer,Thorning,Undirected,1
+Højer,Jespersen,Undirected,1
+Paul,William,Undirected,2
+Bertha,William,Undirected,1
+Bertha,Jespersen,Undirected,1
+Garvermesteren,Jespersen,Undirected,1
+Axel,Minna Hammer,Undirected,2
+Hammers,Johanne,Undirected,2
+Axel,hans Humeur,Undirected,1
+Johanne,hans Humeur,Undirected,1
+Rise,lille Aages,Undirected,1
+Johanne,lille Aages,Undirected,2
+Johanne,Naphta,Undirected,1
+Axel,Naphta,Undirected,1
+Johanne,Rise,Undirected,9
+Fru Rise,Johanne,Undirected,2
+Jespersen,Paddehat,Undirected,1
+Aage,Axel,Undirected,2
+Aage,Paul,Undirected,3
+Aage,lille Aages,Undirected,1
+Axel,lille Aages,Undirected,2
+Paul,lille Aages,Undirected,1
+Johanne,ila,Undirected,1
+aj,lille Aages,Undirected,1
+Johanne,aj,Undirected,1
+Axel,sagle,Undirected,1
+hnn,lille Aages,Undirected,1
+Aage,hnn,Undirected,1
+Paula,Rudolf Thomsen,Undirected,1
+Axel,ak Jespersen,Undirected,1
+Johanne,kim Piiglen,Undirected,1
+Johanne,Paul,Undirected,30
+Johanne,lille Aage,Undirected,2
+Jespersen,lille Aage,Undirected,1
+Axel,Lille Aage,Undirected,1
+Johanne,iler,Undirected,1
+Jespersen,iler,Undirected,1
+Axel,h u,Undirected,1
+Delle,Johanne,Undirected,1
+Aage,Johanne,Undirected,1
+Aage,flen,Undirected,1
+Hallager,fia Hallager,Undirected,1
+Johanne,paany,Undirected,1
+Johanne,lustrues,Undirected,1
+Axel,Flun,Undirected,2
+Axel,rort,Undirected,1
+Johanne,Marie,Undirected,15
+Hurj,Johanne,Undirected,2
+Aage,Jespersen,Undirected,1
+Gud,Rise,Undirected,1
+Graad,Gud,Undirected,1
+Axel,Rise,Undirected,8
+Frøken Palm,Marie,Undirected,3
+Axel,hansvare,Undirected,1
+Johanne,hansvare,Undirected,1
+Elise,Johanne,Undirected,6
+Elise,Ottesen,Undirected,1
+Adolf,Gud,Undirected,3
+Gud,Kristus,Undirected,4
+Adolf,Johanne,Undirected,2
+Elise,Pastoren,Undirected,1
+Axel,Johannes Haab,Undirected,2
+Frøken Palm,Johannes Haab,Undirected,1
+Frøken Palm,Johanne,Undirected,7
+Johanne,Råbens,Undirected,1
+Grev Ørnkrones,Råbens,Undirected,1
+Fosborgs,Grev Ørnkrones,Undirected,1
+Axel,Fosborgs,Undirected,1
+Lille Paul,Petersen,Undirected,1
+Axel,Marie,Undirected,6
+Frøken Palm,lille Paul,Undirected,1
+Frøken Palm,Paul,Undirected,3
+Marie,lille Paul,Undirected,1
+Johanne,lille Paul,Undirected,2
+Axel,Frøken Palm,Undirected,3
+Mo,Paul,Undirected,1
+Bertha,Ebba,Undirected,5
+Ebba,Marie,Undirected,1
+Axel,Bertha,Undirected,1
+Jespersen,Paul,Undirected,1
+Bertha,Paul,Undirected,1
+Axel,kim,Undirected,1
+Paul,Paula,Undirected,5
+Frøken Palm,Paula,Undirected,2
+Gud,Paula,Undirected,5
+Paula,Rudolf,Undirected,24
+Frøken Palm,Rudolf,Undirected,1
+Johannes kofte,Paula,Undirected,2
+Paula,skraa,Undirected,2
+Krag,Paula,Undirected,1
+Johanne,Paula yar,Undirected,1
+Herning,Paula,Undirected,3
+Johanne,Rudolf,Undirected,23
+Johanne,Pastor Rise,Undirected,1
+Paul,Rudolf,Undirected,6
+Johanne,Johannes Lofte,Undirected,1
+Gud,Johannes Lofte,Undirected,1
+Gud,Rudolf,Undirected,4
+Rise,Rudolf,Undirected,3
+Axel,Rudolf,Undirected,11
+Johanne,Johannes Skjød,Undirected,1
+Johannes Skjød,Rudolf,Undirected,1
+Axel,Garçon-Hvet,Undirected,1
+Jespersen,Rise,Undirected,1
+Axel,Helmers,Undirected,1
+Helmers,Paul,Undirected,3
+Rudolf,Thomsen,Undirected,1
+Johanne,Thomsen,Undirected,2
+Paula,har,Undirected,1
+Johanne,Poul,Undirected,1
+Paula,Rise,Undirected,1
+Axel,Ottesen,Undirected,3
+Ottesen,Paula,Undirected,1
+Axel,liam,Undirected,1
+Paula,liam,Undirected,1
+Paula,lille Paul,Undirected,1
+Axel,lille Paula,Undirected,1
+Johanne,Lille,Undirected,1
+Johanne,Stilman,Undirected,1
+Rudolf,William,Undirected,1
+Marie,Paul,Undirected,5
+Cathrine Thomsen,Johanne,Undirected,1
+Hnn,Rudolf,Undirected,1
+Hnn,Johanne,Undirected,1
+Paula,Theodor,Undirected,2
+Rudolf,hans,Undirected,1
+Rise,hans,Undirected,1
+Cathinca,Marie,Undirected,1
+Cathinea,Johanne,Undirected,1
+Idas,Johanne,Undirected,1
+Gud,Marie,Undirected,2
+Johannne,kjære,Undirected,1
+Marie,kjære,Undirected,1
+Johanne,taus,Undirected,1
+Axel,taus,Undirected,1
+Herning,ban,Undirected,1
+Axel,Højer f.,Undirected,1
+Axel,lieres,Undirected,1
+Axel strax,Jespersen,Undirected,1
+Axel,Pythias,Undirected,1
+Johanne,Pythias,Undirected,1
+Jespersen,lille,Undirected,1
+Axel Herning,Herning,Undirected,1
+Hammers,Herning,Undirected,1
+Hammers,Jespersen,Undirected,1
+Axel,Hammers,Undirected,1
+Johanne,Villiam,Undirected,1
+A. H.,Axel,Undirected,1
+Axel,Mimi Hammer,Undirected,2
+Johanne,Mimis F'ader,Undirected,1
+Lyngstrup,Mimis F'ader,Undirected,1
+Axel Herning,Mimi,Undirected,1
+Augusts,Axel,Undirected,1
+Axel,H an,Undirected,1
+Jespersen,lios,Undirected,1
+Jespersen,livor,Undirected,1
+Jansen,Johanne,Undirected,1
+Konrad Hammer,Paul,Undirected,1
+Mimi Hammer,Paul,Undirected,1
+Johanne,Mimi Hammer,Undirected,1
+Hammer,Johanne,Undirected,1
+Madam Bang,Marie,Undirected,4
+Johanne,Madam Bang,Undirected,5
+Johanne,Madam Hang,Undirected,2
+Bang,Marie,Undirected,1
+Gud,lille Alberts,Undirected,1
+Olsen,lille Alberts,Undirected,1
+Madam Bang,Olsen,Undirected,1
+Albert,Madam Bang,Undirected,1
+Albert,Ulrikke,Undirected,1
+Devare,Paul,Undirected,1
+Hr. Kofoed,Paul,Undirected,1
+Kofoed,Paul,Undirected,2
+Ebba,Hr. Kofoed,Undirected,1
+Johanne,Kofoed,Undirected,4
+Bertha,Kofoed,Undirected,1
+Ebba,Kofoed,Undirected,1
+Gud,Kofoed,Undirected,1
+Kofoed,Rudolf,Undirected,1
+Cathinca,Kofoed,Undirected,1
+Cathinca,Kristus,Undirected,1
+Cathinca,Paul,Undirected,1
+Johanne,Madam Rang,Undirected,1
+Gud,Madam Bang,Undirected,2
+Gud,Ulrikke Bang,Undirected,3
+Hang,Madam,Undirected,2
+Gud,Madam,Undirected,1
+Johanne,Madam,Undirected,2
+Hang,Johanne,Undirected,1
+Gud,Paul,Undirected,2
+Marie,Thomsen,Undirected,1
+Marie,Paula,Undirected,1
+Johanne,liendes,Undirected,1
+Paul,liendes,Undirected,1

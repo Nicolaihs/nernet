@@ -1,0 +1,192 @@
+source,target,type,weight
+Karsten,Senius,Undirected,1
+Anna Lachendorph,Anna«,Undirected,1
+Karsten,Madam Lachendorph,Undirected,3
+Madam Lachendorph,Senius,Undirected,1
+Senius,Ulrikka,Undirected,1
+Lachendorphernes,Madam Lachendorph,Undirected,1
+Ulrik,lille Ulrikka,Undirected,1
+Lakaj,Ulrik,Undirected,1
+Heinrich,Lakaj,Undirected,1
+Guds,Heinrich,Undirected,1
+Grundtvig,Huss,Undirected,1
+Huss,Senius,Undirected,1
+Grundtvig,Tscherning,Undirected,1
+Grundtvig,Karsten Ulv,Undirected,1
+Kristen Evesen,Skél,Undirected,1
+Kristen Evesen,Senius,Undirected,1
+Guds,Karsten Egholm,Undirected,1
+Emmanuel,Skél,Undirected,6
+Grundtvig,Skél,Undirected,1
+Karsten,Ulvemose,Undirected,1
+Ivar Hansen Vindfelt,Ulvemose,Undirected,1
+Ivar Hansen Vindfelt,Karsten Egholm,Undirected,1
+Karen,Karsten Ulv,Undirected,1
+Karen,Senius,Undirected,1
+Anna,Senius,Undirected,1
+Ditmar Haspinger,Karsten,Undirected,1
+Karsten,Ulrik Lachendorph,Undirected,1
+Hjortkjær,Ulrik Lachendorph,Undirected,1
+Haspinger,Karsten Egholm,Undirected,3
+Ejnar,Gudfar,Undirected,1
+Gudfar,Ivar,Undirected,1
+Ivar,Karen,Undirected,1
+Gudfar,Karen,Undirected,1
+Guddatter,Karen,Undirected,1
+Haspinger,lille Hansen Vindfelt,Undirected,1
+Gud,Haspinger,Undirected,3
+Gud,lille Hansen Vindfelt,Undirected,1
+Gud,lille Hansen Vindfeldt,Undirected,1
+Karsten,Rumpunsch,Undirected,1
+Grundtvig,Karen Hjulmands,Undirected,1
+Haspinger,Karsten,Undirected,6
+Gamle-Knudsen,Karsten,Undirected,1
+Emmanuel Skél,hans kjære,Undirected,1
+Emmanuel,Karsten,Undirected,1
+Ejnar,Karsten,Undirected,2
+Ejnar,Ivar,Undirected,1
+Ivar,Karsten,Undirected,4
+Anders Sønderstved,Ivar,Undirected,1
+Ivar Hjulmand,Karsten,Undirected,1
+Karsten,Rikka Lach,Undirected,1
+Kristen Evesen,Ulrikkal,Undirected,1
+Kristen Evesen,Stakkel,Undirected,1
+Jesus,Ulrikkal,Undirected,1
+Gamle-Knudsen,Knudsen,Undirected,1
+Gamle-Knudsen,Lynggaard,Undirected,1
+Gamle-Knudsen,Haspinger,Undirected,1
+Haspinger,Lynggaard,Undirected,1
+Knudsen,Lynggaard,Undirected,2
+Karsten Egholm,Knudsen,Undirected,2
+Anders Sønderstved,Karsten Egholm,Undirected,1
+Knudsen,Tscherning,Undirected,1
+Haspinger,Ulrikka Lachendorph,Undirected,2
+Jærn,Madam Kjærumgaards,Undirected,1
+Haspinger,Lachendorph,Undirected,2
+Lachendorph,Peter Hjort,Undirected,1
+Hr. v. Lachendorph,Karsten,Undirected,2
+Kristen Evesen,Ulrikka,Undirected,1
+Cours,Haspinger,Undirected,1
+Karsten,Knudsen,Undirected,5
+Jesus,Karen,Undirected,1
+Karen,Karsten,Undirected,2
+Hebe,Ivar Hjuler,Undirected,1
+Anna,Else Mørke,Undirected,1
+Krøbbel-Else,Ole Mørke,Undirected,1
+Ole Mørke,Senius,Undirected,1
+Anna,Hysl,Undirected,1
+Karsten,Ulrikka,Undirected,6
+Anna,Karsten,Undirected,2
+Huss,Morten Luther,Undirected,1
+Karsten,Morten Luther,Undirected,1
+Peter Hjort,Ulrikka,Undirected,1
+Gud,Karsten,Undirected,3
+Ejnar,Karen,Undirected,1
+Ejnar,Haspinger,Undirected,1
+Haspinger,Jesus,Undirected,1
+Karsten,Kristen Evesen,Undirected,2
+Gud,Karl,Undirected,1
+Grundtvig,Kristens,Undirected,1
+Ivar,Jesus,Undirected,1
+Ivar,Kristen Evesen,Undirected,1
+Haspinger,Peter Olaf,Undirected,1
+Hr. Wimmer,Karsten,Undirected,1
+Madam Lachendorph,Skél,Undirected,1
+Gud,Jesu,Undirected,1
+Karsten Egholm,Skél,Undirected,1
+Hr. v. Lachendorph,Karsten Ulv,Undirected,1
+Emmanuel Skel,Gud,Undirected,1
+Daniel,Kristen Evesen,Undirected,1
+Daniel,Emmanuel,Undirected,1
+Jesu,Tetzel,Undirected,1
+Haspinger,Skél,Undirected,1
+Emmanuel,Grundtvig,Undirected,1
+Gud,Skél,Undirected,1
+Emmanuel,Kristen Evesen,Undirected,1
+Annal,Karsten Egholm,Undirected,1
+Anna,Annal,Undirected,1
+Wimmer,hans,Undirected,1
+Tønne,Tønne Rask,Undirected,1
+Tønne,Ulrikka,Undirected,2
+Karsten,Spencer,Undirected,1
+Bravo,Tønne,Undirected,1
+Rikke Lach,Tønne,Undirected,1
+Karsten,Rikke,Undirected,1
+Frøken v.,Lachendorph,Undirected,2
+Junkeren,Ulrikka,Undirected,1
+Karsten,Karsten Ulv,Undirected,1
+Gott,Karsten,Undirected,1
+Rasmus,Rasmus Skovfoged,Undirected,1
+Tove,haml,Undirected,1
+Stine,lille Lachendorph,Undirected,1
+Johnson,Smith,Undirected,1
+Johnson,Macaulay,Undirected,1
+Darwin,Macaulay,Undirected,1
+Darwin,Miil,Undirected,1
+Else,Karsten Egholm,Undirected,1
+Else,Knudsen,Undirected,1
+Ejnar,Else,Undirected,1
+Else,Haspinger,Undirected,1
+Ejnar,Karsten Egholm,Undirected,1
+Lynggaard,Trine,Undirected,1
+Frøken v. Lachendorph,Gud,Undirected,1
+Emmanuel,Jesu,Undirected,1
+Emmanuel 1,Jesu,Undirected,1
+David,Emmanuel,Undirected,1
+Emmanuel,Kristen,Undirected,1
+Daners,Karsten Egholm,Undirected,1
+Ejelskov —,Haspinger,Undirected,1
+Haspinger,Stine,Undirected,1
+Karsten,Karsten Egholm,Undirected,2
+Karsten,Karsten Smed,Undirected,1
+Hr. Ejelskov,Ulrikka,Undirected,1
+Don Juan,Rikka,Undirected,1
+Don Juan,Kristen Evesen,Undirected,1
+Ulrikka,lille Egholm,Undirected,1
+Grundtvig,Jomfru Lachendorph,Undirected,1
+Grundtvig,Haspinger,Undirected,1
+Egholm,Henning Ditmar Haspinger,Undirected,1
+Henning Ditmar Haspinger,Karsten Egholm,Undirected,1
+Haspingerl,Ulrikka Lachendorph,Undirected,1
+Karsten,Kjærumgaard,Undirected,1
+Madam Kjærumgaard,Ulrikka,Undirected,1
+Anna,Madam Kjærumgaard,Undirected,1
+Gud,Ulrikka,Undirected,1
+Kjærumgaard,Madam,Undirected,1
+Trine Vejrmøllers,Tønne,Undirected,1
+Else,Tønne,Undirected,1
+Else,Heinrich Lachendorph,Undirected,1
+Heinrich Lachendorph,Karsten,Undirected,1
+Kristian den,Lynggaard,Undirected,1
+Ejnar,Kræsten Kjærumgaard,Undirected,1
+Hansen Vindfelt,Karsten Ulv,Undirected,1
+Anna,Karsten Ulv,Undirected,1
+Karsten,Ulrikka Lachendorph,Undirected,2
+Else,Karsten,Undirected,1
+Else Mørke,blendes,Undirected,1
+Christian den,Gud,Undirected,1
+Gud,Karsten Egholm,Undirected,1
+Karsten,Mr. Liljenthal,Undirected,1
+Hansen Vindfelt,ba-ade,Undirected,1
+Madam Evesen,Nikolaj Frederik,Undirected,1
+Heinrich,Karsten,Undirected,1
+Anna Egholm,Heinrich,Undirected,1
+Anna Egholm,Louis,Undirected,1
+Ejnar Hansen Vindfelt,"Heinrich Louis Lachendorph« , og de rutschede videre",Undirected,1
+Heinrich Louis,Karsten,Undirected,1
+Tønne,vos,Undirected,1
+Kræsten Kjærumgaard,Tønne,Undirected,1
+Grundtvig,Karsten Egholm,Undirected,2
+Grundtvig,Karsten,Undirected,2
+Grundtvig,lille Skél.,Undirected,1
+Grundtvig,trine,Undirected,1
+Karsten,gøs,Undirected,1
+Grundtvig,Karsten hvast,Undirected,1
+Else Mørke,Knudsen,Undirected,1
+Knudsen,Tønne,Undirected,1
+Per Brask,Tønne,Undirected,1
+Grundtvig,stræng,Undirected,1
+Ejnar,Gud,Undirected,1
+Evesen,Karsten Egholm,Undirected,1
+Nikolaj Frederik Severin,Ulrikka,Undirected,1
+Grundtvig,Ulrikka,Undirected,1

@@ -1,0 +1,270 @@
+source,target,type,weight
+Eunuchen,Jakobo,Undirected,4
+Emilie,Eunuchen,Undirected,3
+Alexanders,Emilie,Undirected,1
+Alexanders,Eunuchen,Undirected,1
+Allah,Eunuch,Undirected,5
+Alexander,Emilie,Undirected,5
+Alexander,ban,Undirected,1
+Emilie,Paschaen,Undirected,1
+Abdul Pascha,Emely,Undirected,6
+Emely,Eunuch,Undirected,2
+Emely,Paschaen,Undirected,1
+Alexander,Emely,Undirected,19
+Eunuchen,Paschaen,Undirected,1
+Jakobo,Paschaen,Undirected,1
+Eunuch,Jakobo,Undirected,2
+Alexander,Eunuch,Undirected,1
+Abdul Pascha,Eunuchen,Undirected,1
+Abdul Pascha,Eunuch,Undirected,2
+Abdul Pascha,Jakobo,Undirected,1
+Emely,Emilie,Undirected,3
+Emely,hun stet,Undirected,1
+Emely,elffe,Undirected,1
+Abdul Pascha,elffe,Undirected,1
+Abdul Pascha,Allah,Undirected,2
+Allah,Emely,Undirected,1
+Emely,Jakobo,Undirected,1
+Alexander,Jakobo,Undirected,2
+Alexander,Eunuchen,Undirected,2
+Emrly,Jakobo,Undirected,1
+-iKlokken,Emely,Undirected,1
+Emely,Eunuchen Alexander,Undirected,2
+Emely,Tys,Undirected,1
+Eunuchern,es,Undirected,1
+Abdul Pascha,Alexander,Undirected,3
+Alexander,Eunucher,Undirected,1
+Emely,ragne Sabler,Undirected,1
+Emely,Eunuchen,Undirected,1
+Abdul Pascha,Pascha,Undirected,2
+Abdul Pascha,Quasi Eunuchen,Undirected,1
+Allah,il Allah,Undirected,1
+Alexander,Pascha,Undirected,1
+Alexander,Ali,Undirected,1
+Pascha,eg,Undirected,1
+Emilie,Mr. William Smith,Undirected,2
+Abdul Paschas Harem,Emilie,Undirected,1
+Alexander,Paschaen,Undirected,1
+Deu,Jakobo,Undirected,1
+H,s,Undirected,1
+Mr. Smith,s,Undirected,1
+Mr. Clinton,Mr. ^Smith,Undirected,1
+Mr. Clinton,Mr. Smith,Undirected,7
+L Komp,William Smith,Undirected,1
+Mr. Clinton,Mr. William Smith,Undirected,6
+Mr. Smith,Mr. William,Undirected,1
+Clinton,Mr. Smith,Undirected,1
+Miss Emely,notara,Undirected,1
+Emilie,William,Undirected,2
+Miss Emely,Mr. Clinton,Undirected,3
+Fortællin g,Mr. William Smith,Undirected,1
+Fortællin g,Mr. Smith,Undirected,1
+Mifs,Mr. Clinton,Undirected,1
+Emely,Mifs,Undirected,1
+Emely,Mr. Smith,Undirected,1
+Emely,elsfe,Undirected,1
+Miss Emely,Mr. Smith,Undirected,4
+Emely,Jannar 1877,Undirected,1
+Mr. Smith,Mr. William Smith,Undirected,2
+Miss Emely,Mr. William Smith,Undirected,1
+Mkn,hau,Undirected,1
+Lise,Ulrik,Undirected,1
+Karen Emilie Leth,Lise,Undirected,5
+Karen Emilie Leth,Ulrik,Undirected,1
+Karen Emilie Leth,LykkeHan,Undirected,1
+Søtoft,Søtofts,Undirected,1
+Karl Emil Søtoff,ligeles,Undirected,1
+Karen Emilie Søtoff,Karl Emil Søtoff,Undirected,1
+Karen Emilie Søtoft,Rømer,Undirected,3
+Karl Emil Søtoft,Rømer,Undirected,1
+Karen Emilie Søtoff,Rømer,Undirected,1
+Mr. William Smith,Rømer,Undirected,2
+Karen Emilie Søtoft,William Smith,Undirected,1
+Emilie Søtoft,Karen,Undirected,1
+Emilie Søtoft,Mr. William Smith,Undirected,1
+Karen Emilie Søtoft,Mr. William Smith,Undirected,4
+Karen,Mr. William Smith,Undirected,1
+Karen Emilies,Rømer,Undirected,1
+Karen Emilie Søtoft,Mr. Smith,Undirected,3
+Karen Emilie,Mr. William Smith,Undirected,3
+Karen Søtoft,Ulrik,Undirected,1
+Karen Emilie,Rømer,Undirected,6
+Mr. Williem Smith,Rømer,Undirected,1
+Mr. Williem Smith,Ornebo,Undirected,1
+Karen Emilie Søtoft,Valdemar Rømer,Undirected,1
+Karen Emilie,Ørneboes,Undirected,1
+Jensen,Vilhelm,Undirected,5
+Karen Emilie Søtoft,Vilhelm,Undirected,1
+"Mr. 
+",Vilhelm,Undirected,1
+Mr. William Smith,Vilhelm,Undirected,1
+Mr. Smith,Vilhelm,Undirected,1
+Karen Emilie Søtoft,Øe,Undirected,1
+Karen Emilie Søtoft,Ørnebos,Undirected,1
+Rømer,Ørnebos,Undirected,1
+Karen Emilie,Karen Emilie Søtoft,Undirected,1
+Karen Emilie Søtoft,Karl Emil Søtoft,Undirected,1
+Smith,Søtoft,Undirected,1
+Jensen,Smith,Undirected,1
+Jensen,Karen Emilie Søtoft,Undirected,1
+Smith,Vilhelm,Undirected,1
+Lise,Ulrik Jensen,Undirected,1
+Jensen,Lise,Undirected,1
+Grossing,Hr. Grossing,Undirected,1
+Hr. Grossing,Hr. Jensen,Undirected,1
+Jensen,Md. Clausen,Undirected,2
+Jensen,Md. Jensen,Undirected,1
+Hnn,Susanne,Undirected,1
+Susa,Susanne,Undirected,1
+Susa,oz,Undirected,1
+Hnn,Susa,Undirected,1
+Grossing,Madam Suur,Undirected,1
+Grossing,Madammen,Undirected,1
+Grethe,Hnsaren,Undirected,2
+Grossing,Lise,Undirected,1
+Grethe,Grossing,Undirected,1
+Lise,Moer,Undirected,1
+Lise,Moer Lise,Undirected,1
+Grossing,Hnn,Undirected,1
+Grossing,Hr. Jensen,Undirected,1
+Grossing,Ulrik Jensen,Undirected,1
+esst comme,knut,Undirected,1
+Emilie Smith,Rømer,Undirected,1
+Kapitajn Rømer,Rømer,Undirected,1
+Kapitain Rømer,Karen Emilie Rømers,Undirected,1
+Karen Emilie Rømers,Karen Emilie Smiths,Undirected,1
+Laban,as,Undirected,1
+Ole Tarsen,Volter,Undirected,1
+Grossing,Wilhelm,Undirected,1
+Grossing,oppebi,Undirected,1
+Grossing,Vaas,Undirected,1
+Annette,Mr. Stenton,Undirected,4
+Annette,Stenton,Undirected,3
+Gud,Stenton,Undirected,1
+Annette,fig,Undirected,1
+Smith,Stenton,Undirected,2
+Karen Emilie Rømer,Smith,Undirected,1
+Jensen,Ulrik Jensen,Undirected,1
+Stenton,Ulrik Jensen,Undirected,1
+Stenton,Vilhelm,Undirected,22
+Rømer,Smith,Undirected,1
+Rusen,Vilhelm,Undirected,1
+Vilhelm,Vilhelm Smith,Undirected,1
+Kaardespids,Stenton,Undirected,1
+Kaardespids,Vilhelm,Undirected,1
+Lise,Vilhelm,Undirected,1
+Lise,Mr. Smith,Undirected,1
+Lise,Smith,Undirected,1
+Lise,Sir Smith,Undirected,1
+Kapitainen,halloj,Undirected,1
+Jonasen,Martin Hammer,Undirected,12
+Jonasen,Øe,Undirected,1
+Mr. Clinton,Mr. Villiam Smith,Undirected,1
+Clinton,Mr. Thompson,Undirected,1
+Mr. Bob,Patrouillen,Undirected,1
+Mr. Bob,nEff,Undirected,1
+Mr. Bob,Mr. Thompson,Undirected,4
+Bob,Mylord,Undirected,2
+Bob,Thompson,Undirected,2
+Martin Hammer,Mr. Kemple,Undirected,1
+Franst,Mr. Kemple,Undirected,1
+Jonasen,Mr. Thompson,Undirected,2
+Hammer,Mr. Thompson,Undirected,1
+Martin,Mr. Kemple,Undirected,1
+David,Mr. Bob,Undirected,2
+Karl,Mr. Thompson,Undirected,2
+Mr. Clinton,William Smith,Undirected,1
+Bob,Mr. Thompson,Undirected,12
+Martin Hammer,Mr. Thompson,Undirected,2
+David Schnurnbill,Martin Hammer,Undirected,2
+Jonasen,Kemple,Undirected,1
+Thompson,lille Bob,Undirected,1
+Bob,Gud,Undirected,4
+Gud,Mammom,Undirected,1
+Bob,Mr. Bob,Undirected,1
+Mylord,Sir Smith,Undirected,1
+Bob,Smith,Undirected,2
+Sir Smith,Smith,Undirected,1
+Bob,Mr. Smith,Undirected,11
+Bob,Bob Jenkins,Undirected,5
+Bob Jenkins,Mylord,Undirected,1
+Bob Jenkins,Mr. Smith,Undirected,3
+Bob Jenkins,Vams,Undirected,1
+Bob Jenkins,Will Gibson,Undirected,1
+Bob,Jndestaar,Undirected,1
+Martin Hammer afskjar,Mr. Thompson,Undirected,1
+Aare,Martin Hammer,Undirected,3
+Aare,Martin,Undirected,1
+Jack,hal,Undirected,1
+Hammer,Jonasen,Undirected,6
+Martin,Mr. Jonasen,Undirected,1
+Jonasen,Saaret,Undirected,1
+Aare,Jack,Undirected,1
+Falken,Martin Hammer,Undirected,1
+Jonasen,Martin,Undirected,5
+Jack,Martin,Undirected,5
+Jack,Jonassen,Undirected,1
+Jack,Jonasen,Undirected,4
+Jack,LI,Undirected,1
+John,Mr. Smith,Undirected,6
+John,Lockmann,Undirected,1
+John,j,Undirected,1
+John Smalls,John —,Undirected,1
+Bob,John Smalls,Undirected,1
+Bob,Mr. Thompsom,Undirected,2
+Mr. Thompson,Ned Lockmann,Undirected,1
+Bob,Lockmann,Undirected,1
+Bob,John,Undirected,1
+Gud,Mr. Smith,Undirected,1
+Dolken,Gud,Undirected,1
+Mr. Smith,Mr. Thompson,Undirected,3
+Bob,paany,Undirected,2
+Mr. Smith,William Smith,Undirected,2
+Mr. Thompson,ester,Undirected,1
+Bob,ester,Undirected,1
+Jonasen Jagten,Martin Hammer,Undirected,1
+Bob Jenckins,Jack,Undirected,1
+Hammer,Jack,Undirected,4
+Jonasen,Kolumbus,Undirected,1
+Jonassen,Martin Hammer,Undirected,2
+Falken,Jonasen,Undirected,1
+Janassen,Martin Hammer,Undirected,1
+Jonasen,Karl,Undirected,1
+Karl,Martin Hammer,Undirected,1
+Martin Hammer,Schawler,Undirected,1
+Jack,sfreg,Undirected,1
+Jack,Martin Hammer,Undirected,1
+Kaptain Jack,Martin Hammer,Undirected,1
+Kaptain Jack,St. Patrick,Undirected,1
+Jonasen,St. Patrick,Undirected,1
+Jack,Jack paany,Undirected,1
+Falken,Jack,Undirected,1
+Mr. Bob,vig,Undirected,1
+Bob Jenkins,paany,Undirected,1
+Bob,Jim,Undirected,5
+Aare,Bob,Undirected,1
+Bob,Jack,Undirected,2
+Bob,Moses,Undirected,1
+Jim,Mr. Bob,Undirected,1
+Bob,David Schurnbill,Undirected,1
+Mr. Thompson,meu,Undirected,1
+Jonathan,Jonathan Jenkins,Undirected,1
+Jonathan,hans,Undirected,1
+Jonathan,Mr. Thompson,Undirected,3
+Jim,Thompson,Undirected,1
+Jonathan Fangevogter,LVII,Undirected,1
+Bob,iland,Undirected,1
+Bob Jenkins,Gud,Undirected,1
+Bob,Martin Hammer,Undirected,1
+Jim,Mr. Thompson,Undirected,1
+Mr. Irgens,Mr. Thompson,Undirected,1
+Bob,Holla,Undirected,1
+Mr. Jrgens,Mr. Thompson,Undirected,1
+Madam Dobson,Mr. Thompson,Undirected,1
+Bob Jenkins,Mr. Thompson,Undirected,1
+Bob,Grossing,Undirected,1
+Mr. Thompson,Smith,Undirected,1
+Grossing,Mr. Thompson,Undirected,3
+Gud,Mr. Thompson,Undirected,1
+Hammer,d ,Undirected,1
+Bob,Jonasen,Undirected,1

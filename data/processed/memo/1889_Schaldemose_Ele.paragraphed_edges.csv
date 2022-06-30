@@ -1,0 +1,36 @@
+source,target,type,weight
+Brun,Georg Bruns,Undirected,1
+Mutter,Ole Christensen,Undirected,1
+Brun,Mutter,Undirected,1
+Brun,Ole Christensen,Undirected,4
+Brun,Ole,Undirected,5
+Ole,heldt,Undirected,1
+Brun,heldt,Undirected,1
+Madam Christensens,Ole,Undirected,1
+Fjeldskovs,Marie Fjeldskov,Undirected,1
+Storm,Storm Mariel,Undirected,1
+Knud,Niels,Undirected,3
+Gud,Niels,Undirected,1
+Knud,Ole Christensen,Undirected,3
+Knud,hans,Undirected,1
+Borch,Knud,Undirected,1
+Borch,Ole,Undirected,1
+Knud,Ole,Undirected,7
+Knudl,mændl,Undirected,1
+Ciceros,Cæsar,Undirected,1
+Brun,Niels Peter,Undirected,1
+Madam Christensen,Ole Christensen,Undirected,1
+Madam Christensen,Ole,Undirected,1
+Knud,Niels Nielsen,Undirected,1
+Brun,Knud,Undirected,3
+Lille Elés,Ole Christensen,Undirected,1
+Ole Christensen,me.d Knud,Undirected,1
+Knud,me.d Knud,Undirected,1
+Brun,Fjeldskov,Undirected,4
+Brun,Gud,Undirected,1
+Knud,Madam Christensen,Undirected,2
+Fjeldskov,Gud,Undirected,1
+Brun,Madam Christensen,Undirected,1
+Brun,Marie,Undirected,1
+Jærnmandens,Knud,Undirected,1
+Brun,Flan,Undirected,1

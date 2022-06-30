@@ -1,0 +1,483 @@
+source,target,type,weight
+Hans Peter Korneliussen,Peder Hansen,Undirected,1
+Jane Dirks,Peder Hansen,Undirected,1
+Hans Peter Konneliussen,Peder Hansen,Undirected,1
+Birgitte,Hans Peter Konneliussen,Undirected,1
+Hans Pedersen,Korneliussen,Undirected,1
+Hans Peter Korneliussen,Kolbe,Undirected,1
+Hans Peter,Kolbe,Undirected,1
+Hans Peter,Korneliussen,Undirected,1
+Hans Peter Korneliussen,Korneliussen,Undirected,3
+Potz,gote Korneliussen,Undirected,1
+Lars,gote Korneliussen,Undirected,1
+Hans Peter Korneliussen,Langheim,Undirected,1
+Bauer,le Diable m emporte,Undirected,1
+Hans Peter Korneliussen,Lians Peter Korneliussen,Undirected,1
+Hans Pedersen,Lars Povlsen,Undirected,2
+Hans Pedersen,Hans Peter Korneliussen,Undirected,3
+Hans Peter,Hans Peter Korneliussen,Undirected,1
+Hans Peter,Lars Povlsen,Undirected,1
+Hans Peter Korneliussen,Peter,Undirected,1
+Hans Peter Korneliussen,Lars Povlsen,Undirected,7
+Haabets,Hans Peter Korneliussen,Undirected,1
+Korneliussen,Lars Povlsen,Undirected,4
+Klemming,Korneliussen,Undirected,1
+Hans Peter Korneliussen,Povlsen,Undirected,1
+Hans Peter Korneliussen,ethan,Undirected,1
+Lars Povlsen,sagdeKorneliussen,Undirected,1
+Hans Peter Korneliussen,Møller Lars Povlsen,Undirected,1
+Hans Peter Korneliussen,Klemming,Undirected,6
+C. B. Qvist,Hans Peter Korneliussen,Undirected,15
+C. B. Qvist,Christen Bollerup Qvist,Undirected,1
+Artium,C. B.,Undirected,1
+Artium,C. B. Qvist,Undirected,1
+C. B. Qvist,Principal,Undirected,2
+Korneliussen,Qvist,Undirected,3
+.C. B. Qvist,Hans Peter Korneliussen,Undirected,1
+Gud,véd,Undirected,4
+Hans Peter Korneliussen,med'C. B. Qvist,Undirected,1
+C. B.,med'C. B. Qvist,Undirected,1
+C. B.,C. B. Qvist,Undirected,2
+C. B. Qvist,Korneliussen,Undirected,1
+Klemming,hans Tilværelse ud i Sandet.,Undirected,1
+C. B. Qvist,hans Tilværelse ud i Sandet.,Undirected,1
+Bengjærds,Valdemar Sejer,Undirected,1
+Agnes,Bengjærds,Undirected,1
+Agnes,Erik Menveds,Undirected,1
+Drosten,Erik Menveds,Undirected,1
+Drosten,Sancho Pansas,Undirected,1
+H. F.,Sancho Pansas,Undirected,1
+Evalds,H. F.,Undirected,1
+Evalds,Ingemanns,Undirected,1
+Birgitte Korneliussen,Helmer Blaa,Undirected,1
+Birgitte,Hans Peter Korneliussen,Undirected,15
+Anders,Hans Peter Korneliussen,Undirected,1
+Anders,Karl,Undirected,1
+Birgitte,Gud,Undirected,9
+Birgitte,Qvist,Undirected,13
+Hans Peter Korneliussen,Qvist,Undirected,5
+Hans Peter Korneliussen,Plvad,Undirected,1
+Birgitte,Jomfru Kristensen,Undirected,22
+Jomfru Kristensen,Qvist,Undirected,1
+Gud,Jomfru Kristensen,Undirected,1
+Birgitte,Hr. Qvist,Undirected,2
+Hr. Qvist,Jomfru Kristensen,Undirected,2
+Erik Glipping,Ingemanns,Undirected,1
+Otto,s,Undirected,1
+Svend Trøst,s,Undirected,1
+Birgitte,Jens Knudsen,Undirected,33
+Jens Knudsen,Page,Undirected,1
+Jens,Jens Knudsen,Undirected,2
+Hans Peter Korneliussen,Jomfru Kristensen,Undirected,5
+Jens Knudsen,Jomfru Kristensen,Undirected,4
+Birgitte Korneliussen,Jens Knudsen,Undirected,1
+Hans Peter Korneliussen,Jens Knudsen,Undirected,9
+Birgitte,anderswo,Undirected,2
+Birgitte,Kjør,Undirected,1
+Kjør,Knudsen,Undirected,1
+Gud,Hans Peter Korneliussen,Undirected,3
+Drot,Hans Peter Korneliussen,Undirected,1
+Drot,Holmstrand,Undirected,1
+Gregersener,Peter Grejersen,Undirected,1
+Jens Knudsen,Peter Grejersen,Undirected,1
+Hans Peter Korneliussen,Holmstrand,Undirected,2
+Freja,Thor,Undirected,1
+Bravo,Freja,Undirected,1
+Bravo,Korneliussen,Undirected,1
+Holmstrand,Korneliussen,Undirected,1
+Evropas,Villie,Undirected,1
+Evropas,Æskylos,Undirected,1
+Adam,Æskylos,Undirected,1
+Adam,Oehlenschlæger,Undirected,1
+Hr. Jakobsen,Karl,Undirected,1
+Birgitte,Zevs,Undirected,1
+Birgitte,Danae,Undirected,2
+Birgitte,Knudsen,Undirected,1
+D,Jens Knudsen,Undirected,1
+Gud,Hr. Qvist,Undirected,1
+Das musz sich,Was paszt,Undirected,1
+Das musz sich,Goethe,Undirected,1
+Jens Knudsen,Qvist,Undirected,3
+Birgitte,Pierre,Undirected,1
+Birgitte,C. B.,Undirected,1
+Birgitte,C. B. Qvist,Undirected,6
+Elfenben,Gud,Undirected,1
+Birgitte,Graad,Undirected,8
+Frøken Bir,gitte,Undirected,1
+Hans Peter Korneliussen,Kaspersen,Undirected,1
+C. B. Qvist,jun.,Undirected,2
+C. B.,Hans Peter Korneliussen,Undirected,1
+Birgitte,Korneliussen,Undirected,3
+Jomfru Kristensen,tine,Undirected,1
+Birgitte,Kristensen,Undirected,5
+Birgitte,betvang,Undirected,1
+Birgitte,Brobergs,Undirected,1
+Aled,Qvist,Undirected,1
+C. B. Qvist,juniors,Undirected,1
+Hans Peter Korneliussen,juniors,Undirected,1
+C. B. Qvist,Peter Korneliussen,Undirected,1
+Hans Peter Korneliussen,Prangers,Undirected,1
+C. B. Qvist sen,Hans Peter Korneliussen,Undirected,1
+C. B. Qvist,Fyenbo,Undirected,1
+Fyenbo,Hans Peter Korneliussen,Undirected,1
+Korneliussen,Prytz,Undirected,1
+Hans Peter Korneliussen,Lars,Undirected,1
+Hans Peter Korneliussen,Rasmussen,Undirected,1
+Korneliussen,Lars Kvæg,Undirected,1
+Hans Peter Korneliussen,Karl,Undirected,1
+Hans Peter Korneliussen,hans,Undirected,2
+Peter Korneliussen,Stjernskjold,Undirected,1
+Jomfru Kristensen,Korneliussen,Undirected,1
+Kjødkniv,Qvist,Undirected,1
+Ajax,Birgitte,Undirected,14
+Diana,Hans Peter Korneliussen,Undirected,1
+Diana,allenfals,Undirected,1
+Hans Peter Korneliussen,allenfals,Undirected,1
+Birgitte,Diana,Undirected,6
+Diana,Slinge,Undirected,2
+Konradine,Slinge,Undirected,1
+Domenicus Richter,Meyer,Undirected,1
+Domenicus Richter,Efraim,Undirected,1
+Meyer,Slinge,Undirected,2
+Frederik VItes,Slinge,Undirected,1
+Slinge,Studens,Undirected,1
+Allenfals,Slinge,Undirected,1
+Allenfals,Augustinus Slinge,Undirected,1
+Augustinus Slinge,Diana,Undirected,1
+Diana,Lin,Undirected,1
+Lin,Madam Slinge,Undirected,2
+Diana,Madam Slinge,Undirected,1
+Diana,H. C. Andersens,Undirected,1
+Birgitte,Sidse,Undirected,1
+Diana,Tante Konradines,Undirected,1
+Diana,Lene,Undirected,7
+Birgitte,Lene,Undirected,25
+Gud,Lene,Undirected,9
+Birgitte,Pante,Undirected,1
+Lene,Madam,Undirected,2
+Jomfru Kristensen,Tante Dines,Undirected,1
+Lars Torvegris,Ole,Undirected,1
+Birgitte,Lin,Undirected,1
+Lene,Slinge,Undirected,3
+Birgitte,Slinge,Undirected,2
+Lene,Madam Slinge,Undirected,6
+Kjæde,Uhr,Undirected,1
+Birgitte,bode christlich,Undirected,1
+Birgitte,Ellekilde,Undirected,5
+Boutik,Jeremias Ellekilde,Undirected,2
+Jeremias,Jeremias Ellekilde,Undirected,1
+Ellekilde,Jeremias,Undirected,5
+Ellekilde,Jeremias Ellekilde,Undirected,1
+Birgitte,Jeremias Ellekilde,Undirected,4
+Jeremias Ellekilde,Scharibaldi,Undirected,1
+Hans Peter Korneliussen,Scharibaldi,Undirected,1
+Nikolaj,Vimmelmann,Undirected,1
+Birgitte,Wimmelmann,Undirected,1
+Jeremias,Jomfru Slinge,Undirected,1
+Diana,Jomfru Slinge,Undirected,1
+Jeremias Ellekilde,Øxers,Undirected,1
+Birgitte,Øxers,Undirected,1
+Jeremias Ellekilde,Louis,Undirected,2
+Brænning,Jeremias Ellekilde,Undirected,1
+Ajax,Therese,Undirected,8
+Jeremias,Therese,Undirected,2
+Ajax,Rubens,Undirected,1
+Diana,Jeremias Ellekilde,Undirected,1
+Ellekilde,Lene,Undirected,2
+Korneliussen,Kristensen,Undirected,1
+Birgitte,Haars,Undirected,1
+Jomfru Kristensen,Therese,Undirected,1
+Jomfru Korneliussen,Lene,Undirected,5
+Jomfru Korneliussen,Krause,Undirected,1
+Krause,Lene,Undirected,1
+Hans Peter,Jomfru Korneliussen,Undirected,1
+Hans Peter,Jomfru Kristensen,Undirected,1
+Jomfru Korneliussen,Jomfru Kristensen,Undirected,1
+Diana“,Lene,Undirected,1
+Jeremias Ellekilde,Lene,Undirected,2
+Ellekilde,Lene Birgittes,Undirected,1
+Birgitte,Therese,Undirected,26
+Aristoteles,Hans Vilhelm Tofte,Undirected,1
+Aristoteles,s,Undirected,1
+Goethe,s,Undirected,1
+Ewalds,Goethe,Undirected,1
+Ewalds,Oehlenschlågers.,Undirected,1
+Hauch,Oehlenschlågers.,Undirected,1
+Hauch,J. L. Heiberg,Undirected,1
+Hertz,J. L. Heiberg,Undirected,1
+Chr. Winther,Hertz,Undirected,1
+Chr. Winther,Ryge,Undirected,1
+N. P. Nielsen,Ryge,Undirected,1
+Karl Winsløw,N. P. Nielsen,Undirected,1
+Holst,Karl Winsløw,Undirected,1
+Holst,"Spinoza,",Undirected,1
+"Spinoza,",Steffens og,Undirected,1
+Sibbern,Steffens og,Undirected,1
+Monsieur Lenoir,Tofte,Undirected,1
+Lenoir,Tofte,Undirected,38
+Auguste,Auguste Bournonville,Undirected,1
+Auguste Bournonville,Tofte,Undirected,1
+Hr. Lenoir,Sofokles,Undirected,1
+Bournonville,Lenoir,Undirected,8
+Bournonville,Tofte,Undirected,3
+Gud,Tofte,Undirected,2
+De S,Lenoir,Undirected,1
+Homer,Horats,Undirected,1
+Horats,Lenoir,Undirected,1
+Bournonville,Skaal,Undirected,1
+Lenoir,Skaal,Undirected,1
+' honneur“,Bournonville,Undirected,1
+Bournonville,marquere,Undirected,1
+Tzåvra,eupeh,Undirected,1
+^EpibTtny,eupeh,Undirected,1
+Gud,Lenoir,Undirected,6
+Tofte,la cheville,Undirected,1
+Lenoir,la cheville,Undirected,1
+Gud,mais,Undirected,1
+"Oehlenschlågers,",Poul Møllers,Undirected,1
+Poul Møllers,Ryge,Undirected,1
+Maanelys,Therese,Undirected,1
+Birgitte,Jomfru Slinge,Undirected,7
+Jomfru Slinge,Lene,Undirected,20
+Jomfru Korneliussen,Jomfru Slinge,Undirected,4
+Jomfru Korneliussen,Slinge,Undirected,1
+JomfruKorneliussen,Lene,Undirected,1
+Jomfru Slinge,Ole Lehmanns,Undirected,2
+Herman Petersen,Lene,Undirected,1
+Herman Petersen,ølting,Undirected,1
+Gud,Jomfru Slinge,Undirected,1
+Gud,Ole Lehmanns,Undirected,1
+Hr. Ellekilde,Jomfru Slinge,Undirected,1
+Hr. Ellekilde,Therese,Undirected,1
+JomfruKorneliussen,Therese,Undirected,1
+Helga,Sjarles,Undirected,1
+Birgttte,Lene,Undirected,1
+Frøken Korneliussen,Therese,Undirected,1
+Honoratiores,Therese,Undirected,1
+'Lofte,Lenoir,Undirected,2
+Klavs Skirmen,Valdemar,Undirected,1
+Erik Menveds,Klavs Skirmen,Undirected,1
+Gud,Madam,Undirected,1
+Ellekilde,Gud,Undirected,1
+Toddy,Tofte,Undirected,3
+Dieu,Tofte,Undirected,1
+Lenoir,Louis,Undirected,34
+Gud,Louis,Undirected,3
+Hr. Petersen,Louis,Undirected,1
+Louis,Tofte,Undirected,13
+Lenoir,Toddy,Undirected,1
+Alla grotta azzura,Louis,Undirected,2
+Louis,Rhythme,Undirected,1
+Rhythme,Tofte,Undirected,1
+Bien,Lenoir,Undirected,1
+Louis,Satire Lenoirs,Undirected,1
+Lenoir,Satire Lenoirs,Undirected,1
+Lenoir,Rhythme,Undirected,2
+Lenoir,Sømandens,Undirected,1
+Dieu,Louis,Undirected,1
+Louis,Madam Olivarius,Undirected,2
+Bavn,Louis,Undirected,2
+Hr. Lenoir,Louis,Undirected,1
+Hr. Lenoir,Madam Bavn,Undirected,1
+Lenoir,Madam Bavn,Undirected,1
+Paul de Kock,Tofte,Undirected,1
+Louis,s,Undirected,9
+Køpmand,Lenoir,Undirected,1
+Gotfred Schwartz,moutoiP,Undirected,1
+Gotfred Schwartz,Stinkadores,Undirected,1
+Liebst,Louis,Undirected,5
+Ellekilde,Louis,Undirected,1
+Hr. Ellekilde,Louis,Undirected,1
+Jeremias Ellekilde,Knudsen,Undirected,1
+Jens,Louis,Undirected,1
+Jens Knudsen,Louis,Undirected,17
+Louis,Sehorita,Undirected,1
+Sehorita,vieja borrica,Undirected,1
+do s medias azumbres de aguardiente,vieja borrica,Undirected,1
+Knudsen,Louis,Undirected,1
+Jens Knudsen,Niels Juel,Undirected,1
+Kong Kristian,Niels Juel,Undirected,1
+Hans Peter Korneliussen,Kong Kristian,Undirected,1
+Karen,Kristensen,Undirected,1
+Greve eller,Hans Peter Korneliussen,Undirected,1
+Louis,Qvist,Undirected,2
+Asen,Birgitte Korneliussen,Undirected,1
+Jens,Jens øg,Undirected,1
+Jens,Jens Peter Olivius Knudsen,Undirected,2
+Jens Peter Olivius Knudsen,Jomfru Kristensen,Undirected,1
+Jens Knudsen,Karen,Undirected,1
+Birgitte,Karen,Undirected,1
+Lenoir,s,Undirected,1
+Dianas Lene,Louis,Undirected,1
+Slinge,Therese,Undirected,1
+Harald Hejn,Svend Estridsens,Undirected,1
+Harald Hejn,Knud den hellige,Undirected,1
+Knud den hellige,Oluf Hunger,Undirected,1
+Erik Ejegod,Oluf Hunger,Undirected,1
+Erik Ejegod,Niels,Undirected,1
+Niels,Slinge,Undirected,1
+Birgitte Korneliussen,Lene,Undirected,1
+Birgitte,Birgitte Korneliussen,Undirected,2
+Lene,Therese,Undirected,4
+Birgitte,Mo'r,Undirected,1
+Therese,kjøn,Undirected,1
+C. B. Qvist,Therese,Undirected,1
+Birgitte,Louis,Undirected,15
+Jomfru Korneliussen,Louis,Undirected,1
+Louis,Tuen,Undirected,1
+Jomfru Slinge,Kanske Jomfru Korneliussen,Undirected,1
+Louis,Therese,Undirected,6
+Louis,amoureux,Undirected,1
+Graad,Lenoir,Undirected,1
+Louis,Mariage,Undirected,1
+Dantes,Tofte,Undirected,1
+Dantes,Louis,Undirected,1
+Louis,bisse,Undirected,1
+Bronce,Dieu,Undirected,1
+Laasens,Lenoir,Undirected,1
+Madam Wexschall,Valborgs,Undirected,1
+Hr. Ellekilde,Lenoir,Undirected,6
+Køpmandens,Tofte,Undirected,1
+Ellekilde,Lenoir,Undirected,3
+Jeremias Ellekilde,Lenoir,Undirected,2
+Hr. Ellekilde,Jeremias Ellekilde,Undirected,1
+Birgitte,Lenoir,Undirected,3
+Birgitte,Tofte,Undirected,3
+Fylax,Tyras,Undirected,1
+Jomfru Korneliussen,Tyras,Undirected,1
+Ajax,Louis,Undirected,1
+Ajax,Katharina II,Undirected,1
+Jeremias,Louis,Undirected,4
+Loftes,Louis,Undirected,1
+Birgitte,excetera,Undirected,1
+Birgitteraabte,Louis,Undirected,1
+Birgitte,s,Undirected,1
+Ellekilde,cnfiit,Undirected,1
+Graad,Louis,Undirected,1
+Madam Conradine,Magdalene Nielsdatter,Undirected,1
+Louis Schwarz,Magdalene Nielsdatter,Undirected,1
+Lenohar,Louis Schwarz,Undirected,1
+Gud,Madam Slinge,Undirected,1
+Brøndum,Henrik Bøgedal,Undirected,1
+Henrik Bøgedal'var,Høyens,Undirected,1
+Høyens,Klodrian,Undirected,1
+Bøgedal,Snob,Undirected,1
+Henrik Bøgedal,Snob,Undirected,1
+Jeremias Ellekilde,Malling,Undirected,1
+Malling,Plør,Undirected,1
+Krumhager,Plør,Undirected,1
+Bøgedal,hans Boes,Undirected,1
+Bøgedal,Krums,Undirected,1
+Bøgedal,Ferdinand,Undirected,1
+Birgitte Korneliussen,Kjøbmand Ellekildes,Undirected,1
+Birgitte sunken,Bøgedal,Undirected,1
+Forsberg,Jens Knudsen,Undirected,1
+Forsberg,Hans Peter Korneliussen,Undirected,5
+Ringbergs,Vexler,Undirected,1
+Forsberg,Karlsen,Undirected,1
+Ellingsen,Møller,Undirected,1
+Atlaskes,Ellingsen,Undirected,1
+Atlaskes,Grev Ahrenfelt,Undirected,1
+Grev Ahrenfelt,Kristian VIII,Undirected,1
+Kristian VIII,s,Undirected,1
+Greven,Hans Peter Korneliussen,Undirected,3
+Forsberg,Strambo,Undirected,1
+Ellingsen,Hans Peter Korneliussen,Undirected,6
+Ellingsen,Korneliussen,Undirected,1
+Ahrenfelt,Korneliussen,Undirected,2
+Ahrenfelt,Hans Peter Korneliussen,Undirected,1
+Ellingsen,Greve,Undirected,1
+C. F. Ellingsen,Korneliussen,Undirected,1
+C. F. Ellingsen,skraa,Undirected,1
+Korneliussen,skraa,Undirected,1
+Korneliussen,Sømmelichhet,Undirected,2
+Korneliussen,uprichtig,Undirected,1
+Ellingsen,Forsberg,Undirected,2
+Ellingsen,Greven,Undirected,2
+Karlsen,Strambo,Undirected,1
+Karlsen,Korneliussen,Undirected,1
+Ahrenfelt,Hr. Karlsen,Undirected,1
+Hr. Ellingsen,Hr. Karlsen,Undirected,1
+Grev Ahrenfelt,Hr. Ellingsen,Undirected,1
+Karl Andersen,Oddert,Undirected,1
+Korneliussen,Momme,Undirected,1
+Ellingsen,Ratsch,Undirected,1
+Hans Peter Korneliussen,Momme,Undirected,2
+Ellingsen,Gjæstgiver Andersen,Undirected,1
+Bay,Gjæstgiver Andersen,Undirected,1
+Bay,R.,Undirected,1
+Birgitte,Jens,Undirected,1
+Hr. Ellekilde,Hr. Lenoir,Undirected,1
+Birgitte,Bøgedal,Undirected,6
+Hans Peter,Therese,Undirected,1
+Morbroders,Therese,Undirected,1
+Ewald,Ingemann,Undirected,1
+Bøgedal,Louis,Undirected,1
+Bøgedal,Thyestes,Undirected,1
+Agamemnons,Thyestes,Undirected,1
+Agamemnons,Henrik Bøgedal,Undirected,1
+Ellingsen,Henrik Bøgedal,Undirected,1
+Hans Peter Korneliussen,Vexler,Undirected,1
+Momme,Vexler,Undirected,1
+Henrik,Momme,Undirected,1
+Bøgedal,Momme,Undirected,1
+Odyssevs,Peterpladsens,Undirected,1
+Bøge dal,Odyssevs,Undirected,1
+Ellingsen,Momme,Undirected,2
+Ratsch,Skaar,Undirected,1
+Hans Peter Korneliussen,Skaar,Undirected,1
+Bøgedal,Momme Momme,Undirected,1
+Momme Momme,Principal,Undirected,1
+Bøgedal,Principal,Undirected,1
+Bøgedal,Karl,Undirected,1
+Karl,Momme,Undirected,1
+Gervaise,Nana,Undirected,1
+Nana,Zolas,Undirected,1
+Gud,Hans Peter,Undirected,1
+Lenoir,Louis Schwarz,Undirected,1
+Hans Peter Korneliussen,Lenoir,Undirected,1
+Ellingsen,Vexelfalsk,Undirected,1
+Birgitte Korneliussen,Bøgedal,Undirected,1
+Birgitte,Ellingsen,Undirected,1
+Gud,H. P. Korneliussen,Undirected,1
+Lene,Louis,Undirected,3
+Birgitte,Larsens,Undirected,1
+Louis,Toddy,Undirected,1
+Lene,s,Undirected,1
+Diana,Gud,Undirected,1
+Lene,Niels Liebst Hesteskærer,Undirected,1
+Blom,Slinge,Undirected,1
+Blom,Madam Slinge,Undirected,2
+Blom,Lene,Undirected,1
+Bøgedal,Lene,Undirected,2
+Bøgedal,Slinge,Undirected,1
+Blom,Diana“,Undirected,1
+Blom,Prokurator Blom,Undirected,2
+Louis,Madam Slinge,Undirected,1
+Birgitte,Madam Slinge,Undirected,1
+Bøgedal,Jens Knudsen,Undirected,3
+Anders Kristensen,Bøgedal,Undirected,1
+Jens Knudsen,Lene,Undirected,3
+Birgitte Korneliussen,Hans Peter Korneliussen,Undirected,1
+Hans Peter Korneliussen,Madam Slinge,Undirected,1
+Birgitte Korneliussen,Birgitte Louis,Undirected,1
+H. P. Korneliussen,Jens Knudsen,Undirected,1
+Jens Knudsen,Jens øg,Undirected,1
+Kats,Tofte,Undirected,2
+Hr. J. Knudsen,Louis,Undirected,2
+Lenoir,Therese,Undirected,1
+Hr. J. Knudsen,Kristensen,Undirected,1
+Kristensen,Prytz,Undirected,1
+Lenoir,Oehlenschlagers,Undirected,1
+Oehlenschlager,Tofte,Undirected,1
+Heiberg,Oehlenschlager,Undirected,1
+Hans Povlsen,Loftes,Undirected,1
+Hans,Loftes,Undirected,1
+Hans,Povlsen,Undirected,1
+Povlsen,hans Fornavn,Undirected,1
+Hans Povlsen,Tofte,Undirected,1
+Bournonville,Louis,Undirected,1
+Jens Knudsen,Lenoir,Undirected,2
+Jens Knudsen,Tofte,Undirected,1
+Platons,Tofte,Undirected,1
+Louis,Platons,Undirected,1

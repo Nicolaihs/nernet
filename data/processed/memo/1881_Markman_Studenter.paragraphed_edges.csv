@@ -1,0 +1,251 @@
+source,target,type,weight
+Alvilda Nebe,Frøken Justi,Undirected,1
+Carla Schultz,Frøken Justi,Undirected,1
+Carla Schultz,Johanne Heins,Undirected,1
+Johanne Heins,Quinta Berg,Undirected,1
+Ingeborg Lassen,Quinta Berg,Undirected,1
+Ingeborg Lassen,Tutte,Undirected,1
+Hylle,Tutte,Undirected,5
+Syrener,Tutte,Undirected,1
+Carla,Frøken Schultz,Undirected,1
+Frøken Berg,Qvinta,Undirected,1
+Alvilda,Ingeborgs,Undirected,1
+Ingeborgs,Ulrikke,Undirected,1
+Alvilda,Ingeborg,Undirected,1
+Carla,Ingeborg,Undirected,1
+Ingeborg,Knud Terpstrup,Undirected,1
+Frøken Justi,Terpstrup,Undirected,1
+Frøken Justi,Ingeborg,Undirected,1
+Allenfals,Alvilda,Undirected,1
+Allenfals,Knud Terpstrup,Undirected,1
+Ingeborg Lassen,Nebes,Undirected,1
+Birkede,philol,Undirected,1
+Birkede,Kylander,Undirected,3
+Ole,Rosby,Undirected,1
+Kylander,Ole Birkede,Undirected,2
+Birkede,Hr. Rosby,Undirected,1
+Nylander,Ole,Undirected,1
+Kylander,Rosby,Undirected,2
+Herr Rosby,Hugo Rosby,Undirected,1
+Hauge,Kylander,Undirected,1
+Hauge,Herr Kylander,Undirected,1
+Herr Kylander,Kylander,Undirected,1
+Birkede,Mortensen,Undirected,1
+Herr Mortensens,Kylander,Undirected,1
+Herr Mortensens,Herr Rosby,Undirected,1
+Herr Kylander,hering,Undirected,1
+Kylander,Mortensen,Undirected,2
+Gaillard,Kylander,Undirected,11
+Arendsen,Gaillard,Undirected,11
+Jonas Arendsen,Vilhelm Gaillard,Undirected,2
+Arendsen,Kylander,Undirected,28
+Gaillard,Rosby,Undirected,4
+Gaillard,Jonas Arendsen,Undirected,3
+Gaillard,Terpstrup,Undirected,1
+Kylander,Ole,Undirected,1
+Arendsen,Herr Terpstrup,Undirected,1
+Arendsen,Terpstrup,Undirected,2
+Birkede,Snille,Undirected,1
+Terpstrup,kvidres,Undirected,1
+Beethoven,Gothe,Undirected,1
+Beethoven,trine,Undirected,1
+Herr Rosby,trine,Undirected,1
+Graad,Kylander,Undirected,1
+Rosby,Terpstrup,Undirected,1
+Jeppe,Kandst,Undirected,1
+Ingeborg,Terpstrup,Undirected,2
+Ingeborg,Ingeborg Lassen,Undirected,1
+Ingeborg Lassen,Terpstrup,Undirected,3
+Herr Mortensen,Kylander,Undirected,3
+Herr Mortensen,K,Undirected,1
+Herr Ambro,Ole Birkede,Undirected,1
+Herr Ambro,mari,Undirected,1
+Birkede,Herr Ambro,Undirected,1
+Alvilda,Terpstrup,Undirected,1
+Ambro,Ole Birkede,Undirected,1
+Kylander,Svend,Undirected,2
+Ambro,Falun,Undirected,3
+Birkede,Falun,Undirected,2
+Jonas Arendsen,Kylander,Undirected,1
+Frøken Heins,Liv,Undirected,1
+Alvilda,Kylander,Undirected,1
+Falun,Kylander,Undirected,1
+Herr Rosby,Josty,Undirected,1
+Alvilda,Arendsen,Undirected,1
+Frøken Nebe,Kylander,Undirected,1
+Gammen,Rosby,Undirected,1
+Bjærg,Rosby,Undirected,1
+Daad,Rosby,Undirected,1
+Herr Birkede,Rosby,Undirected,1
+Falun,Gaillard,Undirected,2
+Alvilda,Falun,Undirected,1
+Alvilda,Frøken Justi,Undirected,1
+Alvilda,Rosby,Undirected,1
+Alvilda,Quinta,Undirected,1
+Alvilda,Johanne,Undirected,2
+Alvilda,Hylle,Undirected,1
+Falun,Frøken Justi,Undirected,1
+Gaillard,Vilhelm,Undirected,7
+Gaillard,Nicolai,Undirected,4
+Gaillard,Madam Jensen,Undirected,3
+Madam Jensen,liun,Undirected,1
+Gaillard,liun,Undirected,1
+Madam Hansen,trine,Undirected,1
+Vilhelm Gaillard,agn Pi,Undirected,1
+Kylander,UJi,Undirected,1
+Jonas,Vilhelm,Undirected,2
+Gaillard,Guillaume le,Undirected,1
+Gaillard,Jonas,Undirected,1
+Jonas,suae,Undirected,1
+Arendseus,Kylander,Undirected,1
+Kants,Kylander,Undirected,1
+Kants,kritisch,Undirected,1
+kritisch,vernunfstig,Undirected,1
+Johanne,Johanne Heins,Undirected,1
+Arendsen,Johanne,Undirected,13
+Herr Kylander,Theori,Undirected,1
+Johanne,Kylander,Undirected,1
+Arendsen,Frøken Heins,Undirected,2
+Frøken Heins,Jakob —,Undirected,1
+Herr Gailft,Rosby,Undirected,1
+Herr Gailft,von Bergschatten,Undirected,1
+Gaillard,Niels,Undirected,1
+Christian,Niels,Undirected,1
+Smeddes,Verning,Undirected,1
+Niels Verning,Smeddes,Undirected,1
+Christian Verning,Niels Verning,Undirected,1
+Chri,stian Verning,Undirected,1
+Rosby,stian Verning,Undirected,1
+Verning,Vilhelm Gaillard,Undirected,1
+Kjør,Kylander,Undirected,1
+Jonas,Kylander,Undirected,6
+Jonas Arendsen,t,Undirected,1
+Jonas,Jonas Arendsen,Undirected,1
+Kylander,Stadt Wolffenbiittel,Undirected,1
+Arendsen,Jonas,Undirected,2
+Herr Heins,Naij,Undirected,1
+Herr Heins,Jaij,Undirected,1
+Jaij,maij,Undirected,1
+maij,maijet gentil,Undirected,1
+Kylander,maijet gentil,Undirected,1
+Forbandlin•,Kylander,Undirected,1
+Jakob,helles,Undirected,1
+Arendsen,Jakob Heins,Undirected,5
+J. Heins,Kylander,Undirected,1
+Herr Mortensen,Jack Heins,Undirected,1
+Jack Heins,fellers,Undirected,1
+carefully,fellers,Undirected,1
+Jack Heins,carefully,Undirected,1
+Arendsen,Johanne Heins,Undirected,2
+Johanne Heins,roses,Undirected,1
+Jakob Heins,Johnsen,Undirected,1
+Arendsen,Herr Kylander,Undirected,1
+Heins,Herr Kylander,Undirected,1
+Jakob Heins,tofte,Undirected,1
+Jakob Heins,Kylander,Undirected,4
+Jakob,Jakob Heins,Undirected,2
+Vilhelm,Vilhelm Gaillard,Undirected,1
+Niels Trans,Ole,Undirected,1
+Ole,Vilhelm,Undirected,6
+Gaillard,ban,Undirected,2
+Gaillard,Ole,Undirected,3
+Stadil,Vilhelm,Undirected,1
+Jomfru Stadil,Ole,Undirected,1
+Niels Trans,Ole Tarp,Undirected,1
+Niels Trans,Vilhelm,Undirected,4
+Ole Tarp,Vilhelm,Undirected,2
+Gaillard,Herr Gaillard,Undirected,1
+Alvilda,Maren,Undirected,1
+Adelaide,Maren,Undirected,1
+Kylander,Vilhelm,Undirected,9
+Tarp,Vilhelm,Undirected,1
+Kvianders,Vilhelm,Undirected,1
+Gaillard,Ole Birkede,Undirected,1
+Madam Jensen,Nicolai,Undirected,1
+Arendsen,Vilhelm,Undirected,2
+Assessor Jensens,Rosby,Undirected,1
+Frøken Justi,Tutte,Undirected,1
+Alvilda,Gaillard,Undirected,1
+Gaillard,Tutte,Undirected,1
+Gaillard,Holbergs,Undirected,1
+Holbergs,Tutte,Undirected,1
+Tutte,Vilhelm,Undirected,1
+Kylander,Nicolai,Undirected,1
+Græby,Jakob Heins,Undirected,1
+Græby,Kylander,Undirected,2
+Gaillard,Græby,Undirected,2
+Gaillard,Rentier Ambro,Undirected,1
+Jakob Heins,Jonas,Undirected,1
+Herr Birkede,Ole,Undirected,1
+Gaillard,Herr Birkede,Undirected,1
+Ole,Ole Birkede,Undirected,1
+Ole Birkede,Vilhelm Gaillard,Undirected,2
+Ole Birkede,Vilhelm,Undirected,3
+Arendsen,Jonas Arendsen,Undirected,3
+Ambro,Arendsen,Undirected,3
+Arendsen,Herr Ambro,Undirected,1
+Ambro,Nebes,Undirected,1
+Ambro,Vilhelm Gaillard,Undirected,1
+Ambro,Gaillard,Undirected,4
+Ambro,Herr Arendsen,Undirected,1
+Arendsen,blaat,Undirected,1
+Christian Verning,Herr Gaillard,Undirected,1
+Herr Gaillard,Vilhelm,Undirected,1
+Vilhelm,Violoncel,Undirected,1
+Arendsen,Jakob,Undirected,1
+Aare,ban,Undirected,1
+Heins,Vilhelm Gaillard,Undirected,1
+Per,Povl,Undirected,1
+Herodes,Povl,Undirected,1
+Herodes,Pilatus,Undirected,1
+Herr Ambro,Nebes,Undirected,1
+Gaillard,Nebes,Undirected,1
+Herr Ambro,Kylander,Undirected,1
+Rosby,ban,Undirected,1
+Herr Rosby,Pedanteria,Undirected,1
+Lundens,Pedanteria,Undirected,1
+Herr Rosby glubsk,Rosby,Undirected,1
+Gaillard,Herr Rosby glubsk,Undirected,1
+Frøken Nebe,Gaillard,Undirected,1
+Terpstrup,Vilhelm,Undirected,3
+Terpstrup,Vilhelm Gaillard,Undirected,2
+Gaillard,Knud Terpstrup,Undirected,1
+Vilhelm,f	,Undirected,1
+Knud Terpstrup,Vilhelm,Undirected,2
+Knud Terpstrup,imidj lertid,Undirected,1
+Knud Terpstrup,Lassen,Undirected,1
+Gaillard,Ingeborg Lassen,Undirected,1
+Frøken Schultz,Ingeborg Lassen,Undirected,1
+Falun,Vilhelm,Undirected,4
+Alvilda Nebe,Vilhelm,Undirected,2
+Alvilda,Alvilda Nebe,Undirected,1
+Alvilda,Vilhelm,Undirected,3
+Bengt Kylander,Kylander,Undirected,1
+Birkede,Ole Birkede,Undirected,1
+Birkede,Nebes,Undirected,1
+Birkede,Gaillard,Undirected,1
+Arendsen,Quinta,Undirected,1
+Johanne,Jonas Arendsen,Undirected,2
+Jonas Arendsen,Quinta,Undirected,1
+Frøken Berg,Quinta,Undirected,1
+Frøken Berg,Johanne,Undirected,1
+Mortensen,tillaans,Undirected,1
+Herr Mortensen,Mortensen,Undirected,1
+Kylander,Niels Balduin,Undirected,1
+Kilmoes,Niels Balduin,Undirected,1
+Kilmoes,Niels Gevaltig,Undirected,1
+Niels Gevaltig,Scherzo,Undirected,1
+Bellmans,Scherzo,Undirected,1
+Asmus,Bellmans,Undirected,1
+Asmus,Rudolf Madsen,Undirected,1
+Johan Skarphedin Johanneseu,Rudolf Madsen,Undirected,1
+Johan Skarphedin Johanneseu,summi philologi Aasyn,Undirected,1
+Marcus Vim,summi philologi Aasyn,Undirected,1
+Johan Skarphedin,Johannesen,Undirected,1
+Kylander,j,Undirected,1
+Arendsen,Ole Birkede,Undirected,1
+Frøken A. Nebe,Herr S. Ambro,Undirected,1
+Vilhelm Gaillard,hamr,Undirected,1
+Vilhelm,ban,Undirected,1
+Rosby,Vilhelm,Undirected,1
+Arve Bengt Kylander,Kylander,Undirected,1

@@ -1,0 +1,165 @@
+source,target,type,weight
+Christen Lund,Karen,Undirected,1
+Karen Lund,Niels,Undirected,1
+Mirza,Niels Weldes,Undirected,1
+Christian Welde,Mirza,Undirected,1
+Christian Welde,Ellen,Undirected,1
+Christen Lund,Niels,Undirected,3
+Christen Lund,Plougen,Undirected,1
+Charles,Charles Lyng,Undirected,5
+Charles,Christen Lund,Undirected,4
+Charles Lyng,Niels,Undirected,10
+Charles Lyng,Niels Weldes,Undirected,1
+Charles Lyng,Søren Lyng,Undirected,1
+Marie,Søren Lyng,Undirected,1
+Charles,Marie,Undirected,1
+Charles Lyng,gamle Hansen,Undirected,1
+Charles Lyng,Søren,Undirected,1
+Charles,Niels Welde,Undirected,3
+Ellen,Niels Welde,Undirected,1
+Charles Lyng,Jensine Søgaard,Undirected,1
+Charles Lyng,Christen Lund,Undirected,1
+Karen Lund,Niels Welde,Undirected,4
+Charles,Lyng,Undirected,3
+Charles Lyng,Ellen,Undirected,1
+Ellen,Jensine,Undirected,3
+Jensine,Karen,Undirected,7
+Charles Lyng,Karen,Undirected,9
+Charles,illuo,Undirected,1
+Jensine Søgaard,Karen Lund,Undirected,1
+Charles,Jensine Søgaard,Undirected,2
+Charles,reent,Undirected,1
+Christen Lund,Niels Welde,Undirected,2
+Christen,Niels,Undirected,36
+Charles,Stine,Undirected,1
+Charles Lyng,Christen,Undirected,1
+Christen,Karen Lund,Undirected,1
+Charles Lyng,Niels Welde,Undirected,2
+Charles,Niels’,Undirected,2
+Jens Nilen,Welde,Undirected,1
+Charles,Jens,Undirected,1
+Charles,Jens Nilen,Undirected,1
+Charles,Søren Lyng,Undirected,3
+Humeur,Niels Welde,Undirected,1
+Petersen,svaredejens,Undirected,1
+Christiane ogjensine,Petersen,Undirected,1
+Christiane ogjensine,Karen,Undirected,1
+Ellen,Karen,Undirected,6
+Charles,Petronelle,Undirected,2
+Mirza,Niels Welde,Undirected,2
+Karen,Niels,Undirected,57
+Jakob,Laban,Undirected,1
+Laban,Petersen,Undirected,1
+Jakob,Petersen,Undirected,1
+Charles Lyng,Jakob,Undirected,1
+Rachel,lille Jensine,Undirected,1
+Lea,lille Jensine,Undirected,1
+Karen,Lea,Undirected,1
+Lyng,Povel,Undirected,1
+Christen Lund,Povel,Undirected,1
+Christen Lund,Jensen,Undirected,1
+Lund,Niels,Undirected,2
+Mirza,Niels,Undirected,5
+Charles,Niels,Undirected,69
+Charles,Mirza,Undirected,1
+Charles,Ellen,Undirected,7
+Charles,Karen Lund,Undirected,4
+Niels,P'ølge Povel Lassens,Undirected,1
+Følgaard,P'ølge Povel Lassens,Undirected,1
+Niels,s,Undirected,7
+Niels,Virgil,Undirected,1
+Horats,Virgil,Undirected,1
+Horats,Luthers,Undirected,1
+Kathechismus,Luthers,Undirected,1
+Christian,Niels,Undirected,1
+Charles,Karen,Undirected,38
+Karen,Karen Lund,Undirected,3
+Søren,Søren Lyng,Undirected,1
+Niels,Søren,Undirected,2
+Charles,Mads Røgter,Undirected,1
+Ellen,Niels,Undirected,4
+Karen Lund,brilo,Undirected,1
+Charles,brilo,Undirected,1
+Mirza,voxe,Undirected,1
+Charles Lyng,voxe,Undirected,1
+Karen,Mirza,Undirected,2
+Karen,foreO,Undirected,1
+Charles,Petronella,Undirected,1
+Karen,beO,Undirected,1
+Christen,Karen,Undirected,13
+Charles,Niels gj,Undirected,1
+Christen Lund,Niels’,Undirected,1
+Charles,Christen,Undirected,20
+Charles,StorO,Undirected,1
+Karen,Lund,Undirected,2
+Karen Agnete Lund,Niels Welde,Undirected,1
+Karen Agnete Lund,Lund,Undirected,1
+Lund,Stine,Undirected,1
+Christen Lund,Niels staae,Undirected,1
+Charles,Lund,Undirected,1
+Jensine Søgaard,Niels,Undirected,1
+Jensine,Niels,Undirected,9
+Christen,Jensine,Undirected,11
+Charles,Jensine,Undirected,6
+Charles o,Christen,Undirected,1
+Charles,Charles o,Undirected,1
+Jensine Søgaard,Karen,Undirected,2
+Karen,Torbøllegaard,Undirected,1
+Christen,iSmug,Undirected,1
+Charles,Skizzen,Undirected,1
+Jensine Søgaard,Skizzen,Undirected,1
+Charles,Holberg,Undirected,1
+Holberg,Tychonius,Undirected,1
+Jakob von Tyboe,Tychonius,Undirected,1
+Charles Lyng,Jensine,Undirected,3
+Jensine,Snee,Undirected,1
+Charles,Snee,Undirected,1
+Charles,Guds,Undirected,1
+Guds,Niels,Undirected,1
+Christen,Gud,Undirected,1
+Karl,Niels,Undirected,1
+Karen,Karl,Undirected,1
+Niels,loe,Undirected,1
+Jensine,loe,Undirected,1
+Jensine,Niels Welde,Undirected,2
+Gud,Jensine,Undirected,1
+Charles Lyng,Karen Lund,Undirected,1
+Charles,Gud,Undirected,4
+Charles,Paulus,Undirected,1
+Charles,Jens Sørensen,Undirected,3
+J,Niels,Undirected,2
+J,Maren,Undirected,1
+Ellen,s,Undirected,1
+Charles,Faders,Undirected,1
+Charles,liam,Undirected,1
+Consul Hansens,Jensen,Undirected,1
+Charles,Pastor Welde,Undirected,1
+Charles,Welde,Undirected,1
+Charles,s,Undirected,3
+F. J.,Niels,Undirected,1
+Niels,Peer Mikkelsens,Undirected,1
+Charles,Ploug,Undirected,1
+Charles,Jensen,Undirected,1
+Charles,George Dandu,Undirected,1
+Bellmann,Niels,Undirected,1
+Movitz,Ståm dina strangar,Undirected,1
+Ståm dina strangar,sjung,Undirected,1
+Charles,Flan,Undirected,1
+Charles,Hansen,Undirected,1
+Hansen,Niels,Undirected,1
+Niels,Raaholte,Undirected,1
+MarkO,Niels,Undirected,1
+Ellen,Teg,Undirected,1
+Niels,ader,Undirected,2
+Karen,s,Undirected,1
+Gud,Karen,Undirected,4
+BeO,Karen,Undirected,1
+Karen,ieg,Undirected,1
+Niels,taus,Undirected,1
+Karen,taus,Undirected,1
+Charles,J,Undirected,1
+Karen,Niels Welde,Undirected,1
+Gud,Niels,Undirected,2
+Charles,Dir,Undirected,2
+Karen taug,Niels,Undirected,1
+JOO,Niels,Undirected,1

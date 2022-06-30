@@ -1,0 +1,1359 @@
+source,target,type,weight
+Brahe,hansBpnder,Undirected,1
+Ridefogdens,hansBpnder,Undirected,1
+Pidsk,Ridefogdens,Undirected,1
+Brahe,nran,Undirected,1
+Jb,Jesper,Undirected,3
+Ib,Jesper fil,Undirected,1
+Ib,Jesper,Undirected,5
+Hille,Ib,Undirected,1
+Drude,Moer,Undirected,2
+Drude,Jesper,Undirected,2
+Drude,Ib,Undirected,9
+Gud,Jesper,Undirected,2
+Brahe,Moer Drude,Undirected,1
+Brahe,Jesper,Undirected,3
+Jesper,hnn,Undirected,1
+Aloer,hnn,Undirected,1
+Aloer,Drude,Undirected,1
+Gud,øg,Undirected,1
+Drude,Gud,Undirected,1
+Gud,Ib,Undirected,6
+Drude,Jb,Undirected,1
+Ib,Moer Drude,Undirected,4
+Gud,Moer Drude,Undirected,2
+Byrncnc,Gud,Undirected,1
+Henrik,Kirsfine,Undirected,1
+Gud,Kirsfine,Undirected,5
+Drude,tanse,Undirected,1
+Drude,laae,Undirected,1
+Drude,Hexckvinde,Undirected,1
+Hexckvinde,Ib,Undirected,1
+Henrik,Ib,Undirected,7
+Henrik,Knud,Undirected,4
+Ib,iveien,Undirected,1
+Henrik,Marv,Undirected,1
+Jb,Marv,Undirected,1
+Knndstrup,Otto Krähe,Undirected,1
+Otto Brahe,Otto Krähe,Undirected,1
+Hnn,Otto Brahe,Undirected,1
+Sophie,Tyge,Undirected,12
+Otto Brahe,Sophie,Undirected,4
+Otto Brahe,Tyge,Undirected,17
+Tyge,^nan,Undirected,1
+^nan,yar,Undirected,1
+Tyge,j,Undirected,1
+Otto Brahe,j,Undirected,1
+Otto Brahe,soran,Undirected,1
+Otto Brahe,ban,Undirected,1
+Tyge,Tyge Brahc,Undirected,1
+har,j,Undirected,1
+Ofto Brahe,Tyge,Undirected,3
+Brahc,ban,Undirected,1
+Brahe,Herr Brahes,Undirected,1
+Herr Brahes,Herr. Brahe,Undirected,1
+Brahe,Herr Brahe,Undirected,3
+Herr Brahe,bvorledcs,Undirected,1
+Moer Drude,bvorledcs,Undirected,1
+Hexckvindc,Moer Drude,Undirected,1
+Ester,Otto Brahe,Undirected,2
+Drude,Ester,Undirected,1
+Drude,sorn,Undirected,1
+Hr. Brahe,sorn,Undirected,1
+Hr. Brahe,Troldkoncns,Undirected,1
+Mo,Troldkoncns,Undirected,1
+Drude,Mo,Undirected,1
+Otto Brahe,Oxen,Undirected,1
+Brahe,Otto Brahe,Undirected,10
+Ib,Knud,Undirected,4
+Kirsfine,Kirstine,Undirected,4
+Ferle,ban,Undirected,1
+Ferle,Kirstine,Undirected,1
+Gud,Kirstine,Undirected,9
+Eierindc,Gud,Undirected,1
+Ib,Kirstine,Undirected,13
+Brahe,Ib,Undirected,7
+Attraa,Kirstine,Undirected,1
+Ib,Kirsfine,Undirected,2
+Brahe,Kirsfine,Undirected,2
+Herr Brahe,Ib,Undirected,16
+Brahe,Tyge,Undirected,48
+Knndstrup,Tyge Brahc,Undirected,1
+Kong Frederik den Anden,Salomons,Undirected,1
+Frederik den Andens,Sophie,Undirected,2
+Sophie,Ulrik,Undirected,1
+Hans,Ulrik,Undirected,1
+Dronning Sophie,Kronprinds Kristian,Undirected,1
+Dronning Sophie,Voxen,Undirected,1
+Frederik den,Otto Brahe,Undirected,2
+Herr Brahc,Tyge,Undirected,1
+Frederik den,Tyge,Undirected,4
+Frederik den,Krogens,Undirected,1
+Brahe,Krogens,Undirected,1
+-,Steen,Undirected,1
+Brahe,Steenwinkel,Undirected,3
+Brahe,Stenwinkel,Undirected,1
+Otto Brahe,Stenwinkel,Undirected,1
+Steenwinkel,Thge,Undirected,3
+Steenwinkel,Tyge,Undirected,7
+Brahe,knn,Undirected,1
+Tyge,øg,Undirected,3
+Stecnwinkel,Tyge,Undirected,1
+Otto Brahe,Stecnwinkel,Undirected,1
+Frederik den,Oluf Bager,Undirected,1
+Otto Brahe,Ridder Brahe,Undirected,1
+Brahe,ban,Undirected,1
+Brahc,Tyge,Undirected,2
+Brahe,Gud,Undirected,2
+Brahe,kim faa,Undirected,1
+Gud,kim faa,Undirected,1
+Herr Brahe,iland,Undirected,1
+Herr Brahe,Tyge,Undirected,13
+Herr Brahe,Jesper,Undirected,3
+Jesper,Otto Brahe,Undirected,1
+Brahe,Jb,Undirected,1
+Hr. Brahe,Jb,Undirected,1
+Jb,sægde,Undirected,1
+Herr Brabe,Herr Brahe,Undirected,1
+Brahc,Herr Brahe,Undirected,1
+Brahc,Jesper,Undirected,1
+Herr Brahc,Ib,Undirected,2
+Drude,Mocr,Undirected,1
+Gud,Herr Brahe,Undirected,1
+Ib,Otto Brahe,Undirected,3
+Ib,Knudstrnps,Undirected,1
+Karaktecrs,Knudstrnps,Undirected,1
+Herr Brahe,Karaktecrs,Undirected,1
+Ib,deur,Undirected,1
+Knud,nn,Undirected,1
+Henrik,Kirstine,Undirected,2
+Brahe,Parsberg,Undirected,3
+Herr Parsbergs,Ib,Undirected,1
+Herr Parsberg,Jb,Undirected,1
+Herr Brahe,Herr Parsberg,Undirected,1
+Herr Parsberg,Otto Brahe,Undirected,1
+Herr Parsberg,Ib,Undirected,5
+Otto Brahe,Parsberg,Undirected,1
+Ester,Herr Parsberg,Undirected,1
+Herr Parsberg,Kirstine,Undirected,1
+Ib,Parsberg,Undirected,1
+Ib,Jb,Undirected,1
+Henrik,Jb,Undirected,2
+Jb,Kirstine,Undirected,5
+Knud,Moer Drude,Undirected,1
+Herr Parsberg,Parsberg,Undirected,1
+Hr. Parsberg,er Drude,Undirected,1
+Henrik,Rnnd,Undirected,1
+Henrik,Knnd,Undirected,2
+Kirstine,Knnd,Undirected,2
+Knnd,Skyttekones,Undirected,1
+Kirsfine,Skyttekones,Undirected,1
+Ib,Mo,Undirected,1
+Mo,er,Undirected,1
+Drude,er,Undirected,1
+Drude,hair,Undirected,1
+Hain,hair,Undirected,1
+Hain,Henrik,Undirected,1
+Hans,Herr Brahe,Undirected,1
+Drude,Herr Brahe,Undirected,2
+Herr Brahe,Kirstine øg Henrik,Undirected,1
+Ib,Tyge,Undirected,13
+Hr. Brahe,Ib,Undirected,1
+Herr Brahe,Kirstine,Undirected,6
+Kirstine,Tyge,Undirected,89
+Ieg,Kirstine,Undirected,1
+Ieg,benaade,Undirected,1
+Drude,Tyge,Undirected,1
+Herr Otto Brahc,Kirstine,Undirected,1
+Gud,sfal,Undirected,1
+Herr Brahe,Ib laae Kirstine,Undirected,1
+Ib laae Kirstine,Tyge,Undirected,1
+Gud,Tyge,Undirected,13
+Jb,øg,Undirected,1
+Kirstine,øg,Undirected,1
+Kirstine,hnn,Undirected,8
+Hain,Ib,Undirected,1
+Drude,Hain,Undirected,1
+Hr. Brahe,Kjelderen,Undirected,1
+Herr Brahc,ban,Undirected,1
+Kirsfine,hnn,Undirected,2
+Herr Parsberg,hnn,Undirected,1
+Kirsfine,Tyge,Undirected,20
+Tyge,Tyge-,Undirected,1
+Jb,Tyge,Undirected,4
+Tyge,eg,Undirected,1
+eg,j,Undirected,1
+Leklie,Tyge,Undirected,1
+Herr Brahe,Thge,Undirected,6
+Ib,Junker Tyge,Undirected,1
+Herr Brahe,Jb,Undirected,1
+Plato,Tyge,Undirected,1
+Herodor,Plato,Undirected,1
+Herr Junker,Kirstine,Undirected,1
+Sophia,Tyge,Undirected,2
+Brahe,Braheske,Undirected,1
+Brahe,Herr Otto Brahe,Undirected,3
+Herr Otto Brahe,Inger Oxe,Undirected,1
+Inger Oxe,Thge,Undirected,1
+Brahe,Thge,Undirected,15
+Tyge,ban,Undirected,4
+Sands,Thge,Undirected,3
+Brahe,Oxe,Undirected,2
+Jørgen Brahe,Oxe,Undirected,3
+Herr Brahe,Peder Oxe,Undirected,1
+Peder Oxe,Tygcs,Undirected,1
+Hain,Peder Oxe,Undirected,1
+Gud,dersoni,Undirected,1
+Peder Oxe,Thge,Undirected,4
+Kong Valdemars,Tyge,Undirected,1
+Gud,Kong Valdemars,Undirected,1
+Ib,Thge,Undirected,2
+Tyge,Tyge Brahe,Undirected,33
+Jb,Thge,Undirected,2
+Gud,Junker,Undirected,1
+Herr Jørgens,Thge,Undirected,1
+Jørgen Brahe,Otto Brahe,Undirected,2
+Herr Otto Brahe,Tyge,Undirected,3
+Herr Otto Brahe,Otto Brahe,Undirected,2
+Jørgen Brahe,Thge,Undirected,2
+Thge,Thgeø,Undirected,1
+Thgeø,Tyge,Undirected,1
+Tyge,ester,Undirected,5
+Dei,ester,Undirected,1
+Christian lV,Dei,Undirected,1
+Christian lV,Munk,Undirected,1
+Ellen Marsvin,Munk,Undirected,1
+Anders Sørensen,Brahe,Undirected,9
+Anders Sørensen,Wedel,Undirected,1
+Beile,Wedel,Undirected,1
+Beile,Tyge,Undirected,1
+Herr Jørgen Brahe,Tyge,Undirected,3
+Anders Sørensen Wedel,Herr Jørgen Brahe,Undirected,1
+Anders Sørensen Wedel,Tyge,Undirected,1
+Tyge,Wedel,Undirected,3
+Thge,Wedel,Undirected,5
+Herr Jørgen Brahe,Thge,Undirected,1
+Herr,Herr Jørgen Brahe,Undirected,1
+Anders Sørensen,Tyge,Undirected,38
+Anders Sørensen,ban,Undirected,4
+Herr,ban,Undirected,1
+Anders Sørensen,Herr,Undirected,1
+Anders Sørensen,Herr Brahe,Undirected,2
+Hain,Tyge,Undirected,2
+Brahc,Hain,Undirected,1
+Anders Sørensen Wedel,Brahe,Undirected,1
+Anders Sørensen,Anders Sørensen Wedel,Undirected,1
+Niels Ebbesen,hans Hellegjerning,Undirected,1
+Frederik den,Jørgen Brahe,Undirected,1
+Anders Sørensen,Jørgen Brahe,Undirected,2
+Anders Sørensen,Tyge —,Undirected,1
+Brahe,Sørensen,Undirected,1
+Anders Sørensen,Herr Jørgen,Undirected,4
+Glands,Herr Jørgen,Undirected,1
+Oxe,Tyge,Undirected,7
+Thge,Tyge,Undirected,62
+Christian den,Frederik den,Undirected,4
+Anders Sørensen Wedel,Tyge Brahe,Undirected,1
+Herr Jørgen,Tyge,Undirected,4
+Ester,Herr Jørgen,Undirected,1
+Ester,Vartovs,Undirected,1
+Anders Sørensen,Thge,Undirected,19
+Thge,ban,Undirected,2
+Anders Sørensen,Hain,Undirected,2
+Kirstine,hans Kirstine,Undirected,1
+Sands,hans Kirstine,Undirected,1
+Kirstine,Sands,Undirected,1
+Anders Sørensen,Kirstine,Undirected,13
+Andens Sørensen,Brahe,Undirected,1
+Andens Sørensen,Anders Sørensen,Undirected,1
+Christian II,Torben Oxe,Undirected,1
+Herr,J,Undirected,1
+Ester,Thge,Undirected,1
+Jørgen Thge,Thge,Undirected,1
+Herr Jørgen,Kirsfine,Undirected,1
+Gud,Thge,Undirected,7
+Efferat,Herr Jørgen,Undirected,1
+Efferat,Tyge,Undirected,1
+Thge,felv,Undirected,1
+Marv,Tyge,Undirected,1
+Jørgen,Kirstine,Undirected,6
+Tpges,Tyge,Undirected,1
+Billies,Tpges,Undirected,1
+Herr Jørgen,Thge,Undirected,1
+Thge,Villies,Undirected,1
+Oxe,Villies,Undirected,1
+Anders Sørensen,Ester,Undirected,1
+Kirstine,Otto Brahe,Undirected,2
+Jb,wd,Undirected,1
+Moer Drude,wd,Undirected,1
+Jb,Moer Drude,Undirected,1
+Kirstine,Knud,Undirected,2
+Junker,Tyge,Undirected,4
+Kirstine,paany,Undirected,1
+Junker Thge,Kirstine,Undirected,3
+Kirsfine,ester Kirsfine,Undirected,1
+Jørgen Brahe,Kirstine,Undirected,2
+Junker Tyge,Kirstine,Undirected,3
+Junker Tyge,Pidsk,Undirected,1
+Kirstine,Tyge Brahe,Undirected,11
+Tyge,cpoffre,Undirected,2
+Kirstine,atHerrIørgcn Brahe,Undirected,1
+Brahe,Kirstine,Undirected,25
+Brahe,Junker Tyge,Undirected,1
+Kirstine,Ty-ge,Undirected,1
+Bra-He,Ty-ge,Undirected,1
+Bra-He,Kirstine,Undirected,1
+Hnn,hnn,Undirected,1
+J,Thge,Undirected,1
+Anders Sørensen,Jørgen Brahc,Undirected,1
+Anders Sørensen,Kirstine Ibsdatter,Undirected,1
+Kirstine,Thge,Undirected,42
+Anders Sørensen,Hnn,Undirected,1
+Junker Thge,Knud sirup,Undirected,1
+Herr Junker Thge,Knud sirup,Undirected,1
+Hain,Herr Junker Thge,Undirected,1
+Jørgen Brahe,Thge Brahe,Undirected,1
+Herr Jørgen,Kirstine,Undirected,2
+Anders Sørensen,Kirsfine,Undirected,1
+Grubbe,Tyge,Undirected,1
+Anders Sørensen,Sigurd Grubbes,Undirected,1
+Brahe,Sigurd Grubbes,Undirected,1
+Kirstine,jæg,Undirected,2
+Jørgen Brahe,Tyge,Undirected,2
+Morten Luther,Tyge Brahe,Undirected,1
+Kirstine,øg Anders Sørensen,Undirected,1
+Anders Sørensen,øg Anders Sørensen,Undirected,1
+Brahe,Herr Jørgen,Undirected,2
+Anders Sørensen,Oxe,Undirected,1
+Herr Otto,Tyge,Undirected,1
+Herr Jørgen,Herr Otto,Undirected,1
+Herr Jørgen,Otto Brahe,Undirected,1
+Herr Otto,Thge,Undirected,1
+Ieg,Otto,Undirected,1
+Otto,Tyge,Undirected,4
+Oxe,tans,Undirected,1
+Ieg,Tyge,Undirected,2
+Anders Sørensen,Hovmesters,Undirected,2
+Brahe,Offo Brahe,Undirected,1
+Ieg,Naades,Undirected,1
+Naades,Tyge,Undirected,1
+Brahe,Tygcs,Undirected,1
+Thge,Tygcs,Undirected,1
+JørgenBrahe,Thge Brahe,Undirected,1
+Anders Sørensen,JørgenBrahe,Undirected,1
+Brahc,Thge,Undirected,1
+Hrr Jørgen,Thge,Undirected,1
+Brahe,Hrr Jørgen,Undirected,1
+Kirstine,sorn,Undirected,1
+Jb,sorn,Undirected,1
+Tyge,Urania,Undirected,2
+Luthers,Phillip Melanchton,Undirected,1
+Tycho Brahe,ester,Undirected,1
+Tycho,Tyge,Undirected,5
+T. Brahe,Tycho,Undirected,2
+Than,Tyge,Undirected,10
+Tycho Brahe,Yttrmgs,Undirected,1
+Anders Sørensen,Than,Undirected,5
+Anders Sørensen,Thau,Undirected,2
+Thau,mesf,Undirected,1
+Anders Sørensen,mesf,Undirected,1
+Thau,øg,Undirected,1
+Ander-,øg,Undirected,1
+Ander-,Sørensen,Undirected,1
+Anders Sørensen,Sørensen,Undirected,1
+Mandsrup,Tyge,Undirected,2
+Manderup,Tyge,Undirected,13
+Manderup,Manderup Parsbjerg,Undirected,1
+Jomfru Than,Than,Undirected,1
+Jomfru Than,Manderup Parsberg,Undirected,1
+Junker,Manderup Parsberg,Undirected,1
+Than,Urania,Undirected,1
+Manderup,Urania,Undirected,1
+Cecilias,Manderup,Undirected,1
+Cecilias,fil atvanzire,Undirected,1
+Manderup,Thau,Undirected,2
+Mandcrup,Manderup,Undirected,1
+Mandcrup,Thau,Undirected,1
+Parsbjerg,Thau,Undirected,2
+Cecilie,Thau,Undirected,3
+Cecilie,Than,Undirected,2
+Manderup,varder,Undirected,1
+Manderup,Than,Undirected,4
+Cecilie,Tyge,Undirected,3
+Cecilie,Parsbjerg,Undirected,5
+Junker Parsbjerg,Parsbjerg,Undirected,1
+Parsbjerg,Than,Undirected,4
+Cecilie,Tyge Brahe,Undirected,1
+Cecilie,Thge,Undirected,2
+Parsbjerg,Tyge,Undirected,15
+Thau,Thge,Undirected,3
+Manderup Parsberg,Tyge,Undirected,3
+Tyge Brahe,niin,Undirected,1
+,Thau,Undirected,1
+,Manderup,Undirected,1
+Thge Brahc,Tyge Brahe,Undirected,1
+Junker Erahe,Urania,Undirected,1
+Thau,Urania,Undirected,1
+Manderup,Tyge Brahe,Undirected,2
+Parsbjerg,Thge,Undirected,4
+Parsbjerg,Venus,Undirected,1
+Thge Brahe,Tyge,Undirected,15
+Eelilie,Parsbjerg,Undirected,1
+Parsbjerg,ester,Undirected,1
+Prøfessor Thau,Tyge,Undirected,1
+Thau,Tyge,Undirected,4
+Sands,Thau,Undirected,1
+Junker Brahe,Junker Parsbjerg,Undirected,1
+Than,Thge Brahe,Undirected,3
+Brahe,Thge Brahe,Undirected,5
+Parsbjcrg,Thge Brahe,Undirected,1
+Brahe,Junker Parsbjerg,Undirected,1
+Bisse,Manderup,Undirected,1
+Than,voldetham,Undirected,1
+Parsberg,Than,Undirected,1
+Anders Wedel,Tyge,Undirected,78
+Anders Wedel,Thau,Undirected,4
+Anders Wedel,Thge Brahe,Undirected,9
+Cecilie øg,Parsbjcrg,Undirected,1
+Cecilie øg,Thge,Undirected,1
+Luth,Mandolin,Undirected,1
+Cecilie,Luth,Undirected,1
+Thaus raa Karle,Tyge,Undirected,1
+Herr Junker Manderup Parsbjerg,Thau,Undirected,1
+Anders Wedel,Than,Undirected,2
+Anders Wedel,Tyge Brahe,Undirected,20
+Anders Wedel,Thge,Undirected,48
+Tyge,pkta Mandernp Parsbjergs,Undirected,1
+Iver,Thge,Undirected,1
+Anders Wedel,Iver,Undirected,1
+Anders Wedel,Gud,Undirected,3
+Anders Sørensen,Ieg,Undirected,1
+Anders Wedel,Parsbjerg,Undirected,5
+Anders Wedel,Manderup,Undirected,1
+Manderup,Parsbjerg,Undirected,2
+Anders Wedel,Seir,Undirected,1
+Seir,Tyge,Undirected,1
+Parsbjerg,Tyge Brahe,Undirected,3
+Paany Anders Wedels,Tyge,Undirected,1
+Efferat,Otto Brahe,Undirected,1
+Efferat,Thge,Undirected,1
+Parsberg,Wittenberg,Undirected,1
+Hain,Parsberg,Undirected,1
+Anders Wedel,Herkules,Undirected,1
+Brahe,Herkules,Undirected,1
+Than,Tyge Brahe,Undirected,1
+Jnnker Thge Brahe,Thau,Undirected,1
+Jnnker Thge Brahe,deur,Undirected,1
+Junker Thge,Thau,Undirected,3
+Than,Thge,Undirected,1
+Anders Wedel,Luthers,Undirected,1
+Anders Wedel,sidsf,Undirected,1
+Manderup Parsbjerg,sidsf,Undirected,1
+Manderup Parsbjerg,sidsfe,Undirected,1
+Manderup Parsbjerg,Tyge,Undirected,1
+Anders Wedel,janet,Undirected,1
+Anders Wedel Tyge,Tyge,Undirected,1
+Junker Brahe,Tyge,Undirected,1
+Junker Brahe,Parsbjerg,Undirected,2
+Anders Wedel,Bartholomæus,Undirected,1
+Bartholo,Tyge,Undirected,7
+Tyge,sormaa,Undirected,1
+Anders Wedel,Bartholo,Undirected,11
+Dokfor Bartholo,Tyge,Undirected,2
+Bartholo,Thge,Undirected,1
+Anders Wedel,nn,Undirected,1
+Bartholo,nn,Undirected,1
+Bartholo,sein,Undirected,1
+Anders Wedel,Brahe,Undirected,11
+Anders Wedel,Wedel,Undirected,1
+Konstens,Tyge,Undirected,1
+Bartholo,Konstens,Undirected,1
+Bartholo,Brahe,Undirected,1
+Brahe,Thinge,Undirected,1
+Anders Wedel,Thinge,Undirected,1
+Anders Wedel,Dokfor Bartholo,Undirected,3
+Dokfor Bartholo,Thge,Undirected,1
+Anders Wedel,Otto Brahe,Undirected,19
+Anders Wedel,jdin,Undirected,1
+Anders Wedel,leer,Undirected,1
+Hanswursf,Sands,Undirected,1
+Hans Wurftl,Thge,Undirected,1
+Thge,ste,Undirected,1
+Ester,Tyge,Undirected,1
+Tyge,taus,Undirected,1
+Urania,Venus,Undirected,1
+Kirstine,Kirstiue,Undirected,2
+Io,Kirstine,Undirected,1
+Junker,Kirstine,Undirected,1
+Junker,Tyge Brahe,Undirected,1
+Thge Brahe,hnn,Undirected,1
+Thge,Tyge Brahe,Undirected,12
+Anders Wedel,Jørgen Brahe,Undirected,3
+Brahe,Jørgen,Undirected,1
+Tyge,bam,Undirected,1
+Anders Wedel,sorn,Undirected,1
+ester,sorn,Undirected,1
+Jørgen Brahe,Wedel,Undirected,1
+Brahe,Tyge Brahe,Undirected,9
+Herr Jørgen Brahe,Jørgen Brahe,Undirected,1
+Anders Wedel,Herr Jørgen Brahe,Undirected,1
+Kong Frederik,yan,Undirected,1
+Tyge,yan,Undirected,1
+Brahe,Jørgen Brahe,Undirected,1
+Anders Wedel,Herr Jørgen,Undirected,1
+Anders Wedel,Heir Jørgen Brahe,Undirected,1
+Brahe,Frederik den,Undirected,1
+Anders Wedel,Otto Brabe,Undirected,1
+Otto Brabe,Tyge,Undirected,1
+Anders Wedel,Herr Otto Brahe,Undirected,1
+Herr Otto Brahe,Thge,Undirected,2
+Anders Wedel,Tygcs,Undirected,1
+Otto Brahe,ester,Undirected,2
+Graad,Inger Oxe,Undirected,1
+Inger,Otto Brahe,Undirected,1
+Inger Oxe,Otto Brahe,Undirected,1
+Anders Wedel,Inger Oxe,Undirected,1
+Gud,Hofmarskallcn,Undirected,1
+Anders Wedel,Oxe,Undirected,1
+Otto Brahe,øg,Undirected,1
+Otto Brahe,Oxe,Undirected,2
+Jørgen Brahe,Jørgen Brahes Hesf,Undirected,1
+Hesf,Jørgen Brahes Hesf,Undirected,1
+Jørgen Brahe,eihellcr,Undirected,2
+Jørgen Brahe,hau,Undirected,2
+Bromandcn,Jørgen Brahe,Undirected,1
+Jørgen Brahe,ester,Undirected,1
+Jørgen Brahe,Krisis,Undirected,1
+Inger,Thge,Undirected,1
+Jørgen Brahe,Otto,Undirected,1
+Otto,Otto Brahe,Undirected,1
+Otto Brahe,Thge,Undirected,5
+Mied,Tyge Brahe,Undirected,1
+Thge,Thge Brahe,Undirected,9
+Tyge,fiMindrcde,Undirected,2
+Tyge,lee,Undirected,1
+Otto ' Brahe,Tyge,Undirected,1
+Anders Wedel,Otto ' Brahe,Undirected,1
+Anders Wedel,Herr Otto,Undirected,1
+Herr Brahe,Herr Otto,Undirected,1
+Anders Wedel,Herr Brahe,Undirected,1
+Kong Frederik,Otto Brahe,Undirected,2
+Anders Wedel,Sum,Undirected,1
+Oxe,Sum,Undirected,1
+Anders Wedel,Sophia,Undirected,1
+Anders Wedel,Kirstine,Undirected,24
+Gud,Thge Brahe,Undirected,4
+Otto Brahe,Sverrig,Undirected,1
+Brahe,Ederselv,Undirected,1
+Frederik den,Nørges,Undirected,1
+Brahe,Herr Junker,Undirected,1
+Herr Junker,Tyge Brahe,Undirected,1
+Frederik U.,Tyge Brahe,Undirected,1
+Theodor Beza,Tyge Brahc,Undirected,1
+Christi,Theodor Beza,Undirected,1
+Christi,Tyge Brahe,Undirected,1
+Tyge Brahe,Venus,Undirected,3
+Thge,Urania,Undirected,2
+Pratensis,Tyge,Undirected,11
+Pratensis,Thge Brahe,Undirected,2
+Pratensis,Thge,Undirected,2
+Frederik den,Peder Oxe,Undirected,6
+Jørgens Brahes,Peder Oxe,Undirected,1
+Jørgens Brahes,Oxe,Undirected,1
+Oxe,Tyge Brahe,Undirected,1
+Birgitte Gjøe,Otto Rud,Undirected,1
+Birgitte Gjøe,Frederik den,Undirected,1
+Frederik den,Kong Christian den Andens,Undirected,1
+Kong Christian den Andens,Krebs,Undirected,1
+Krebs,Peder Oxe,Undirected,1
+Kong Frederik den,Peder Oxe,Undirected,1
+Kong Frederik den,Peter Oxes,Undirected,1
+Christian den,Peter Oxes,Undirected,1
+Christian den,Peder Oxe,Undirected,1
+Hille,Peder Oxe,Undirected,1
+Kasam,Tyge Brahe,Undirected,1
+Kasam,Thge,Undirected,1
+Peder Oxe,sif,Undirected,1
+Peder Oxe,Tyge,Undirected,9
+Herr Otto Brahe,Peder Oxe,Undirected,1
+Otto Brahe,Peder Oxe,Undirected,1
+Madsen,Peder Oxe,Undirected,1
+Ieg,Oxe,Undirected,1
+Peder Oxe,Thge Brahe,Undirected,3
+Peder Oxe,Tyge Brahe,Undirected,6
+Kirstine,ganfle,Undirected,1
+Ester,Kirstine,Undirected,1
+Kirstine,hans Hnstrn,Undirected,1
+Kirstine,Øe,Undirected,2
+Roes,Tyge Brahe,Undirected,1
+Sophie Brahe,nnder,Undirected,1
+hnn,nnder,Undirected,1
+Anders Wedel,Sophie,Undirected,1
+Sophie,hnn,Undirected,2
+Sophie Brahe,Thge,Undirected,2
+Sophie,Thge,Undirected,1
+Otto Brahc,Sophie,Undirected,1
+Brahe,Sophie,Undirected,3
+Brahe,Eriksholm,Undirected,1
+Eriksholm,Thott,Undirected,2
+Herr Otto Brahe,Thott,Undirected,3
+Otto Brahe,Thott,Undirected,1
+Herr Otto Brahe,Sophie Brahe,Undirected,1
+Brahe,Otto Thott,Undirected,1
+Braheske,Otto Thott,Undirected,1
+Braheske,Sophie,Undirected,1
+Otto Thott,Sophie,Undirected,2
+Sophie,Thott,Undirected,2
+Cæsar,Thott,Undirected,1
+Hans Seir,Seir,Undirected,1
+Seir,Tyge Brahe,Undirected,1
+Otto Thott,Tyge Brahe,Undirected,1
+Heloise,Thge,Undirected,1
+Abelard,Heloise,Undirected,1
+Abelard,Tyge,Undirected,1
+Tyge Brahe,paany,Undirected,1
+Parsberg,Tyge Brahe,Undirected,1
+Parsberg,Walchendorff,Undirected,1
+Frederik,Tyge Brahe,Undirected,6
+Frederik,Tyge,Undirected,2
+Thge Brahe,Tyge Brahe,Undirected,16
+Peder Oxe,deiz,Undirected,1
+Thge,deiz,Undirected,1
+Cæsar,Tyge Brahe,Undirected,1
+Herr Jørgen Brahes Gaard,Oxe,Undirected,1
+Frederik den,Tyge Brahe,Undirected,6
+Frederik,Venus,Undirected,1
+Spaadom,Tyge Brahe,Undirected,4
+Dronning Sofies,Kong Frederik,Undirected,1
+Hove,Isbrand,Undirected,1
+Isbrand,Kong Valdemar,Undirected,1
+Kong Valdemar,Margrethe,Undirected,1
+Helvig,Margrethe,Undirected,1
+Isbrand,nn,Undirected,1
+Frederik den Anden,nn,Undirected,1
+Sophie,Tyge Brahe,Undirected,2
+Kong Frederik,Sophie,Undirected,1
+Kong Frederik,Tyge Brahe,Undirected,2
+Kong Frederik,Spaadom,Undirected,1
+Peder Oxe,ai,Undirected,1
+Anders Wedel,Bei,Undirected,1
+Edtr,Kirstincs,Undirected,1
+Graad,Tyge,Undirected,1
+Anders Wedel,Graad,Undirected,1
+Peder Oxe,Zir,Undirected,1
+Herr Thge Brahe,Peder Oxe,Undirected,1
+Christian den,Herr Thge Brahe,Undirected,1
+Tyge Brahe,mintro,Undirected,1
+Lehn,Tyge,Undirected,2
+Frederik,Peder Oxe,Undirected,1
+Peder Oxe,Thge Brahc,Undirected,1
+Lehn,Thge Brahc,Undirected,1
+Lehn,Thge,Undirected,2
+Frederik den,Thge Brahe,Undirected,2
+Peter Oxe,Thge Brahe,Undirected,1
+Kristian den,Thge Brahe,Undirected,1
+Frederik den,Kristian den,Undirected,1
+Tyge,z,Undirected,1
+Anders Wedel,Frederik den,Undirected,2
+Frederik den,Herluf Trolle,Undirected,2
+Christian IV,Thge Brahe,Undirected,1
+Tyge,alsfens,Undirected,1
+Anders Wedel,Ieg,Undirected,1
+Anders Wedel,Morpheus,Undirected,1
+Anders Wedel,tans,Undirected,1
+Anders Wedel,kjære Thge,Undirected,1
+Anders Wedel,Elster,Undirected,1
+Anders Wedel,Henshn sfal,Undirected,1
+Gud,Henshn sfal,Undirected,1
+Anders Wedel,hnn,Undirected,2
+Tyge,dereffer,Undirected,1
+Tyge Brahe,ban,Undirected,2
+Peer,ban,Undirected,1
+Peer,Povl,Undirected,1
+Kirsfine,Wedel,Undirected,1
+Anders Wedel,Kirsfine,Undirected,4
+Anders Wedel,Ia,Undirected,1
+Ia,Kirstine,Undirected,1
+Herr Brahe,Otto BraheZ,Undirected,1
+Sofie,Sofies,Undirected,1
+Hnn,Thge,Undirected,1
+Kirstine,Thge Brahe,Undirected,5
+Karl,Tyge,Undirected,1
+Herr Otto Brahe,Kirsfine,Undirected,2
+Herr Brahc,Herr Otto Brahe,Undirected,1
+Hnn,visfnok,Undirected,1
+Tyge,visfnok,Undirected,1
+Brahe,mintro,Undirected,1
+Ane,mintro,Undirected,1
+Brahe,Ester,Undirected,1
+Brahe,Kirstine Jbs,Undirected,1
+Kirstine Jbs,hnn,Undirected,1
+Kirstine,Steffen,Undirected,3
+Knnd,Steffen,Undirected,1
+Knud,Steffen,Undirected,9
+Steffen,j Steffen,Undirected,1
+Brahe,j Steffen,Undirected,1
+Thott,Tyge Brahe,Undirected,1
+Sophie Brahe,Tyge Brahe,Undirected,2
+Brahe,Herr Otto Thott,Undirected,1
+Brahe,Sophie Brahe,Undirected,1
+Brahe,Miy,Undirected,1
+Beate,Miy,Undirected,1
+Bilde,Thhge,Undirected,1
+-Otto Thott,Sophie,Undirected,1
+-Otto Thott,hnn,Undirected,1
+Herr Otto Brahe,Sophie,Undirected,1
+Ieg,strax,Undirected,1
+Brahe,Ofto Thott,Undirected,1
+Brahe,Sofie,Undirected,2
+Kirstine,Sofie,Undirected,2
+Sofie,hnn,Undirected,1
+Herr Otto,Kirsfine,Undirected,1
+Kirstine,nn,Undirected,1
+Herr Otto Brahe,Kirstine,Undirected,2
+Kirstine,Thyge,Undirected,1
+Steffen,Thyge,Undirected,1
+Junker Tyge,Kirstine Ibs,Undirected,1
+Thott,vexle,Undirected,1
+Sofie,vexle,Undirected,1
+Brahe,Thott,Undirected,1
+Brahe,Brndcn,Undirected,1
+Herr Otto Brahe,Otto Thott,Undirected,1
+Kirstine,Thott,Undirected,2
+Christian,Luxussagerne,Undirected,1
+Bilde,Brahe,Undirected,2
+Jørgen Hansens,ester,Undirected,1
+Mesfer Jørgen,Tyge Brahe,Undirected,1
+Mesfer Jørgen,Tyge,Undirected,3
+Junker Tyge,Jørgen,Undirected,2
+Junker Tyge,Tyge,Undirected,1
+Jørgen,Thge,Undirected,13
+Mesfer,Tyge,Undirected,1
+Jørgen,Mesfer,Undirected,1
+Ieg,Kirsfine,Undirected,2
+Junker Thge,Jørgen,Undirected,1
+Jørgen,Jørgen Brahe,Undirected,1
+Jørgen,Tyge,Undirected,15
+Junker Thge,Tyge,Undirected,1
+Jørgen,tans,Undirected,1
+Frederik den,Kong Frederik den Anden,Undirected,1
+Mandrup,Tyge Brahe,Undirected,1
+Herr Parsbjergs,hnn,Undirected,1
+Herr Manderup Pasbjerg,Tyge Brahe,Undirected,1
+Krage,Parsbjerg,Undirected,1
+Krage,jost,Undirected,1
+Dandsens,Pavsen,Undirected,1
+Herr Manderup Parsbjerg,Tyge Brahe,Undirected,1
+Tyge Brahe,Tyges Brahes,Undirected,1
+Manderup,Thge Brahe,Undirected,1
+Manderup Parsbjerg,Thge Brahe,Undirected,1
+Manderup Parsbjerg,Thge,Undirected,1
+Thge,fog,Undirected,1
+Herr Manderup,nn Tyge,Undirected,1
+Herr Manderup,Parsbjerg,Undirected,1
+Herr Parsbjerg,Parsbjerg,Undirected,1
+Kirsfine,Tyge Brahe,Undirected,3
+Kirsfine,Oxe,Undirected,2
+Kirsfine,Thge Brahe,Undirected,1
+Hekmed,Kirstine,Undirected,2
+Kirsfine,Silke,Undirected,1
+Silke,Tyge Brahe,Undirected,1
+Skonnerten,Tyge,Undirected,1
+Kirstine,Oxe,Undirected,4
+Herr Jørgen Brahe,Oxe,Undirected,2
+Amor,Oxe,Undirected,1
+Kirsfine,Thge,Undirected,3
+Inger,Kirsfine,Undirected,1
+Prinds Christians,Tyge Brahe,Undirected,1
+Herr Junker Brahe,Parsbjerg,Undirected,1
+Marv,Thge Brahe,Undirected,1
+Brahe,Herr Thge Brahe,Undirected,2
+Frederik,Herr Thge Brahe,Undirected,1
+Gud,jske,Undirected,1
+Kopgens,Tyge Brahe,Undirected,1
+Herr Tyge Brahe,Lehsmanden,Undirected,1
+Johan Stcnwinkel,Snille,Undirected,1
+Frederik den,Johan Stenwinkel reise,Undirected,1
+Johan Stenwinkel,Tyge Brahe,Undirected,1
+Veie kjcndtcs,frede øg sfjærme,Undirected,1
+Mesfer Johan Steenwinkel,Mesfer Steenwinkel,Undirected,1
+Mesfer Steenwinkel,Thge,Undirected,1
+Steenwinkel,Tyge Brahe,Undirected,2
+Steenwinkel,Thge Brahe,Undirected,1
+Thge,mcdgaa,Undirected,1
+Johan Steenwinkel,Thge Brahe,Undirected,1
+Steenwinkel,Stenwinkel,Undirected,2
+Stemwinkels,Tyge,Undirected,1
+Thge Brahe,Uraniborg,Undirected,1
+Hveen,Kirstine,Undirected,1
+Hveen,Tyge,Undirected,1
+Mester Steenwinkel,Steenwinkel,Undirected,1
+Mester Steenwinkel,Thge,Undirected,1
+Thge,reisfe,Undirected,1
+reisfe,sidsfe,Undirected,1
+Hveen,Thge,Undirected,1
+Stenwinkel,Thge,Undirected,1
+Mester Steenwinkel,Uraniborg,Undirected,1
+Frederik den,Thge,Undirected,3
+Beate,Tyge,Undirected,2
+Gud,Sophie,Undirected,1
+Beate,Ieg,Undirected,1
+Beate,iveien,Undirected,1
+Sophie,iveien,Undirected,1
+Beate,Brahe,Undirected,3
+Hrr Otto Brahe,Sophie,Undirected,1
+ban,dadle Tyges,Undirected,1
+Christian den,Elisabeth,Undirected,1
+Elisabeth,Tyge Brahe,Undirected,1
+Tyge Brahe,jevn Adelsmands,Undirected,1
+Kirstine,Tyges Brhllupsfærd,Undirected,1
+Naades,Thge Brahe,Undirected,1
+Oxe,Peder Oxe,Undirected,1
+HerrOtto Thott,Peder Oxe,Undirected,1
+Kirstine,iland,Undirected,1
+Tyge,iland,Undirected,4
+Præsfen,Tyge,Undirected,1
+Oms,Præsfen,Undirected,1
+Kirsfine,Oms,Undirected,1
+Otto Thott,Tyge,Undirected,1
+Otto Thott,hans,Undirected,1
+Kirstine,hans,Undirected,1
+Kirstine,Uraniborg,Undirected,3
+Thott,Tyge,Undirected,1
+Thge,hnn,Undirected,1
+Sophia,hnn,Undirected,1
+Otto Brahe,Sophia,Undirected,1
+Otto Brahe,Otto Thott,Undirected,1
+Kristen Longberg,Thge,Undirected,4
+Herr Brahe,Kristen Løngberg,Undirected,1
+Kristen Løngberg,Thge Brahe,Undirected,1
+Brahe,Peder Oxe,Undirected,1
+Gud,Peder Oxe,Undirected,1
+Kristen Longberg,Tyge Brahe,Undirected,4
+Kirstine,Kristen Longberg,Undirected,1
+Kristen Longberg,Tyge,Undirected,5
+Kirsfine,Kristen Longberg,Undirected,1
+Glutten,Tyge,Undirected,1
+Tyge,Uraniborg,Undirected,2
+Kristen Longberg,Zenith,Undirected,1
+Brahe,Longberg,Undirected,1
+Kristen Longberg,Thge Brahe,Undirected,1
+Tyge Brahe,d.,Undirected,1
+Ieg,Tyge Brahe,Undirected,1
+Longberg,llonAvinontanus,Undirected,1
+Tyge Brahe,Uraniborg,Undirected,3
+Mesfer Steenvinkel,Tyge,Undirected,2
+Brahe,Mesfer Steenvinkel,Undirected,1
+Mesfer Steenvinkel,Tyge Brahe,Undirected,1
+Steenvinkel,Tyge Brahe,Undirected,1
+Anders Wedel,iland,Undirected,1
+Thge,iland,Undirected,1
+Frn Kirstine,Tyge,Undirected,1
+Anders Wedel,Frn Kirstine,Undirected,1
+Anders Wedel,Steenvinkel,Undirected,1
+Steenvinkel,Tyge,Undirected,1
+Hveen,Thge Brahe,Undirected,1
+Anders Wedel,Tyge Brahe leilighedsvis,Undirected,1
+Tyge Brahe,Wedel,Undirected,1
+Eber,Ieg,Undirected,1
+Tyge,nn,Undirected,1
+Thge,nn,Undirected,1
+Hænom,Kirstine,Undirected,1
+Thge,tillive,Undirected,1
+hnn,tillive,Undirected,1
+Tyge,hnn,Undirected,1
+Knudstrup,iland,Undirected,1
+Brahe,Uraniborg,Undirected,1
+Longomontanus,Tyge Brahe,Undirected,21
+Longomontanus,Tyge,Undirected,20
+Ieg,Thge,Undirected,2
+Frederik II,Tyge Brahe,Undirected,1
+Christian den,KKaæs,Undirected,1
+Christopher Walkendorff,KKaæs,Undirected,1
+Christopher Walkendorff,Peder Munk,Undirected,1
+Peder Munk,Rosenkrants,Undirected,1
+Niels Kaas,Rosenkrants,Undirected,1
+Christoffer Walkendørff,Thge Brahe,Undirected,1
+Thge Brahe,Walkendorff,Undirected,7
+Thge,Walkendorff,Undirected,2
+Christoffer Walkendorff,Thge Brahe,Undirected,1
+Herr Thge Brahe,Walkendorff,Undirected,1
+Herr Thge Brahe,Kjæremaal,Undirected,1
+Lehnsmand,Tyge Brahe,Undirected,1
+Herr Thge,Walkendorff,Undirected,1
+Christoffer Walkendorff,Tyge,Undirected,4
+Herr Tyge Brahe,Walkcndorsk,Undirected,1
+Herr Walkendorsk,Uraniborg,Undirected,1
+Herr Walkendorff,Partisan,Undirected,1
+Brahe,Christoffer Walkendorff,Undirected,1
+Christoffer Walkendorsf iland,Tyge Brahe,Undirected,1
+Brahe,Walkendorff,Undirected,4
+Tyge,Walkendorf,Undirected,2
+Thge,Walkendorf,Undirected,1
+Brahe,Christian den,Undirected,1
+Christian den,Kong Frederik den Anden,Undirected,1
+Herr Walkendorff,Lehn,Undirected,1
+Frederik,Lehn,Undirected,1
+Brahe,Herr Tyge Brahe,Undirected,2
+Gud,svaredeWalkendorfs,Undirected,1
+Dyge,as,Undirected,1
+Paven,Thge,Undirected,1
+Tyge,Walkendorff,Undirected,4
+Longomontanus,Thge Brahe,Undirected,11
+Brahe,Longomontanus,Undirected,2
+Herr Walkendorff,Longomontanus,Undirected,1
+Herr Walkendorff,Tyge,Undirected,3
+Tyge Brahe,Walkendorff,Undirected,1
+Walkendorff,j Alen,Undirected,1
+Gud,j Alen,Undirected,1
+So,Walkendorff,Undirected,1
+Longomontanus,Walkendorff,Undirected,3
+Gud,Walkendorff,Undirected,1
+Gud,Herr Tyge B. rahe,Undirected,1
+Longomontanns,Walkendorff,Undirected,3
+Longomonfanus,Walkendorff,Undirected,1
+Longomonfanus,Tyge,Undirected,3
+Gud,Herr Thge,Undirected,2
+Erik,Herr Thge,Undirected,1
+Herr Thge Brahe,Lehnsmand,Undirected,1
+Brahe,Lehn,Undirected,2
+Løngomontanus,Thge Brahe,Undirected,1
+Partisan,Tyge,Undirected,1
+Tyge Brahe,hin Fisker,Undirected,1
+Kønge,Roes,Undirected,1
+Eie,Kønge,Undirected,2
+Løngomontanus,Tyge,Undirected,5
+Tyge,Tyge truffen,Undirected,1
+Longomontanus,Thge,Undirected,7
+Glarøine,Tyge Brahe,Undirected,1
+Longomontanns,Mesfer Hermann,Undirected,1
+Longomontanns,Thge Brahe,Undirected,2
+Herr Thge,Longomontanns,Undirected,1
+Thge,mintro,Undirected,1
+Longomontans,miue,Undirected,1
+Longomontanus,Tygs,Undirected,1
+Ore,Thge Brahe,Undirected,1
+Herr Walkendorff,Thge,Undirected,1
+L,X,Undirected,1
+Thge,Uraniborg,Undirected,3
+Kirstine,Oen,Undirected,1
+Oen,Thge,Undirected,1
+Tyge Brahe,Tyge Braye,Undirected,1
+Kirstine,Tyge Braye,Undirected,1
+Anders Sørensen Wedel,Stjerneborg,Undirected,1
+Stjerneborg,Thge,Undirected,1
+Herr Walkendorff,Lehnsmand,Undirected,1
+Anders Vedel,Lehnet,Undirected,1
+Herr Walkendørff,kjære Tyge,Undirected,1
+Anskers,Wedel,Undirected,1
+Kirsfine,sif,Undirected,1
+Anders Wedel,sif,Undirected,1
+Anders Wedel,Kønge,Undirected,3
+Kønge,Tyge,Undirected,1
+Anders Wedel,Christian den Fjerde,Undirected,2
+Kirstine,Wedel,Undirected,2
+Wedel,hnn,Undirected,1
+Anders Wedel,Longomonfanus,Undirected,1
+Longomonfanus,Tyge Brahe,Undirected,1
+Præsfen,Thge,Undirected,1
+Herr Tyge,Thge Brahe,Undirected,1
+Herr Tyge Brahe,Lehnsmand,Undirected,1
+Lehn,Lehnsmand,Undirected,1
+Longomontanns,Tyge,Undirected,3
+Longomontanns,Thge,Undirected,3
+Thge Brahe,iland,Undirected,1
+Brahe,iland,Undirected,1
+Niels Kaas,Peder Oxe,Undirected,1
+Christian den Fjerde,Niels Kaas,Undirected,1
+Niels Kaas,Tyge Brahe,Undirected,1
+Christoffer Walkendorff,Niels Kaas,Undirected,1
+Hr. Walkendorff,Niels Kaas,Undirected,1
+Herr Thge Brahe,Hr. Walkendorff,Undirected,1
+Brahe,Herr Walkendorff,Undirected,3
+Herr Walkendorff,Thge Brahe,Undirected,2
+Tyge,Wqlkendorf,Undirected,1
+Christian den,Tyge Brahc,Undirected,1
+Chrisfian,Thge,Undirected,1
+Chrisfian,Niels Kaas,Undirected,1
+Niels Kaas,Thge Brahe,Undirected,1
+Christoffer Walkendorff,TygeBrahes,Undirected,1
+Glorup,Walkendorff,Undirected,1
+Glorup,Moltke-Hvitfelds,Undirected,1
+Fris,Henny Hennysen Walkendorff,Undirected,1
+Christoffer Walkendorff,Fris,Undirected,1
+Christian den,Christoffer Hvitfeld,Undirected,1
+Christoffer Hvitfeld,Christoffer Walkendorff,Undirected,1
+Christoffer Walkendorff,Lehnsmand,Undirected,2
+Lehnsmand,Walkendorff,Undirected,1
+Walkendorff,Wisky,Undirected,1
+Lehn,Walkendorff,Undirected,1
+Peder Oxe,Walkendorff,Undirected,1
+Elisabet,Mogens Heinesøn,Undirected,1
+Elisabet,Heinesøn,Undirected,1
+Heinesøn,Walkendorff Heinesen,Undirected,2
+Mester Phillip,Tyge Brahe,Undirected,1
+Phillip,Tyge Brahe,Undirected,1
+Sofia,Tyge Brahe,Undirected,1
+Kong Frederik den Anden,Tyge,Undirected,1
+Mesfer Philip,Tyge,Undirected,2
+Steenwinkcl,Uraniborg,Undirected,1
+Fru Kirstines,Kirstine,Undirected,1
+Longomontanus,Ore,Undirected,1
+Bilde,Tyge,Undirected,1
+Kirstine øg Lougomontanus,Tyge,Undirected,1
+Kirstine øg Lougomontanus,Thge,Undirected,1
+Kirstine øg,Thge,Undirected,1
+Kirstine,Kirstine øg,Undirected,1
+Oxen,Tyge,Undirected,3
+Herr Brahe,Oxen,Undirected,1
+Herr Tyge,Tyge,Undirected,1
+Herr Tyge,Oxen,Undirected,1
+Herr Tyge Brahe,Oxen,Undirected,1
+Longomontanns,Oxen,Undirected,1
+Longomontanns,Philip,Undirected,1
+Kirstine,Philip,Undirected,1
+Phillip,Thge,Undirected,1
+Kirstine,Phillip,Undirected,1
+Kirstine,Mesfer Phillip,Undirected,1
+Longomontanns,Nland,Undirected,1
+Nland,Roes,Undirected,1
+Christian,Niels Kaas,Undirected,1
+Christian den,Kønge,Undirected,1
+Christian den,Roes,Undirected,2
+Christian,Christian den,Undirected,2
+Christian,Tyge Brahe,Undirected,3
+Christian den,Thge Brahe,Undirected,1
+Kong Christian,Tyge Brahe,Undirected,1
+Kirstine,Køngen,Undirected,1
+Alexander,Tyge Brahe,Undirected,2
+Alexander,Diogenes,Undirected,1
+Diogenes,Tyge Brahe,Undirected,1
+Ieg,Walkendorff,Undirected,1
+Kristoffer Walkendorff,Tyge Brahe,Undirected,1
+Eders,Tyge Brahe,Undirected,1
+Christoffer Walkendorsk,Tyge,Undirected,1
+Brahe,Herr Tyge,Undirected,1
+Christoffer Walkendorff,Tyge Brahe,Undirected,1
+Jakob den Sjette,Thge Brahe,Undirected,1
+Christian den Fjerde,Jakob den Sjette,Undirected,1
+Kong Jakob,Tyge Brahe,Undirected,2
+Christian,Kong Christian,Undirected,1
+Christian,Gud,Undirected,1
+Gud,Tyge Brahe,Undirected,4
+Jacob,mr,Undirected,1
+Jacob,Tyge Brahe,Undirected,1
+Herr Walkendorff,Kirstine,Undirected,1
+Herr Walkendorff,Walkendorff,Undirected,1
+Christian,Tyge,Undirected,1
+Herr Thge,høilhs,Undirected,1
+Gud,Longomontanus,Undirected,1
+Christoffers,Erik,Undirected,1
+Kirstine,lee,Undirected,1
+Kirsfine,lee,Undirected,2
+Jakob,Tyge Brahe,Undirected,1
+Jakob,Tyge,Undirected,2
+Tyge Brahe,iland,Undirected,2
+Christian den Fjerde,Tyge Brahe,Undirected,1
+Christian den,Kirstine,Undirected,1
+Christian den,Gud,Undirected,1
+Gud,Prent,Undirected,1
+Johan Ludvig Heiberg,Tycho Brahe,Undirected,1
+Heiberg,Tycho Brahe,Undirected,1
+Heiberg,Tyge Brahe,Undirected,2
+Heiberg,Tyge,Undirected,1
+Sofie Thott,Tyge Brahe,Undirected,1
+Christian den,Thge,Undirected,2
+Christian den,Tyge Brahe,Undirected,5
+Christian lV fil,Tyge Brahe,Undirected,1
+Christian lV fil,hans Lehn,Undirected,1
+Tyge,hans Lehn,Undirected,1
+Christian Friis,Tyge,Undirected,3
+Christian Friis,Tyge Brahe ilde,Undirected,1
+Tyge,Tyge Brahe ilde,Undirected,1
+Christian Friis,Tyge Brahe,Undirected,5
+Thge,st,Undirected,1
+Christian Friis,st,Undirected,1
+Christian Friis,Christian den,Undirected,2
+Christian Friis,Uraniborg,Undirected,1
+Friis,Tyge Brahe,Undirected,1
+Friis,Thge Brahe,Undirected,1
+Christian Friis,Herr Tyge,Undirected,1
+Herr Tyge,Thge,Undirected,1
+Christian Friis,Thge,Undirected,1
+Thristian Friis,Tyge Brahe,Undirected,1
+Kopernikns,Thristian Friis,Undirected,1
+Christian Friis,Kopernikns,Undirected,1
+,Tyge Brahe,Undirected,1
+,Brahe,Undirected,1
+Herr Tyge Brahe,Thge Brahe,Undirected,1
+Christian den,Karen Andersdatter,Undirected,1
+Karen Andersdatter,Tyge,Undirected,1
+Sigismund August,Ulrik,Undirected,1
+Kong Jakob,Thge,Undirected,1
+Rudolf den,Tyge,Undirected,1
+Keiseren,Thge,Undirected,5
+Keiseren,Tyge,Undirected,11
+Keiser,Tyge,Undirected,1
+Keiser,Rudolf,Undirected,20
+Keiseren,Rudolf,Undirected,2
+Keiseren,Thge knnde,Undirected,1
+Keiseren,Thge Brahe,Undirected,11
+Keiser,Thge Brahe,Undirected,1
+Rudolf,Tyge Brahe,Undirected,6
+Keiseren,Tyge Brahe,Undirected,26
+Iohan Barvitius,Keiseren,Undirected,1
+Hradschin,Iohan Barvitius,Undirected,1
+Hradschin,Keiseren,Undirected,1
+Johan Barritius,Thge Brahe,Undirected,1
+Keiser Rudolf,Kenn,Undirected,1
+Adders,Thge døg,Undirected,1
+Adders,Keiser Rudolf,Undirected,1
+Høibords,Thge,Undirected,1
+Barritius,Thge,Undirected,1
+Barritius,Thge Brahe,Undirected,3
+Keiser Rudolf,Tyge,Undirected,2
+Keiseren,Ulrik,Undirected,1
+Roes,Tyge,Undirected,1
+Keiser,Thge,Undirected,1
+Thge,endhan,Undirected,1
+Keiseren,endhan,Undirected,1
+Tyge,hans Spaadom,Undirected,1
+Keiseren,hans Spaadom,Undirected,1
+Keiser Rudolph,Tyge Brahe,Undirected,2
+Keiser Rudolph,Keiseren,Undirected,1
+Keiser Rudolf,Tyge Brahe,Undirected,2
+Keiser,Tyge Brahe,Undirected,2
+Rudolf,Tyge,Undirected,1
+Barritins,Keiseren,Undirected,12
+Barritins,Tyge Brahe,Undirected,4
+Barritins,Mester Brahe,Undirected,1
+Barritins,Tyge,Undirected,2
+Barritins,Thge Brahe,Undirected,2
+Hexeri,Tyge Brahe,Undirected,1
+Hexeri,Tyge,Undirected,1
+Barritius,Tyge,Undirected,5
+Barritius,Seir,Undirected,1
+Herr Tyge Brahe,Seir,Undirected,1
+Herr Tyge Brahe,Keiseren,Undirected,1
+Husbonds,Keiseren,Undirected,1
+Barritius,Tyge Brahe,Undirected,7
+Baritins,Keiseren,Undirected,2
+Baritins,Keiser,Undirected,1
+Keiseren,Spaadom,Undirected,3
+Baritins,Spaamanden,Undirected,1
+Keiseren,Spaamanden,Undirected,1
+Skjæbnens,Thge Brahe,Undirected,1
+Barritius,Keiseren,Undirected,18
+Adjutant,Barritius,Undirected,1
+Spaadom,tzongomontanus,Undirected,1
+Keiseren,Longomontanus,Undirected,11
+Keiser,Keiseren,Undirected,2
+Barritius,Keiser Rudolph,Undirected,1
+Barritius,Herr Barritius,Undirected,1
+Brahe,Keiseren,Undirected,6
+Barritius,Brahe,Undirected,5
+Barritius,Herr Tyge Brahe,Undirected,1
+Keiseren,Longomonfanus,Undirected,1
+Longomonfanus,Thge Brahe,Undirected,1
+Barritius,Longomontanus,Undirected,2
+Mesiko,Thge Brahe,Undirected,2
+Herr Thge Brahe,Keiseren,Undirected,1
+Baritius,Gud,Undirected,1
+Gud,Naades,Undirected,1
+Barritius,Longomontanns,Undirected,1
+Longomontanns,Tyge Brahe,Undirected,4
+Brutus,Longomontanns,Undirected,1
+Løngomontanus,Tyge Brahe,Undirected,2
+Dicipels,Løngomontanus,Undirected,1
+Kirstine,Longomontanus,Undirected,3
+Keiseren,Løngomontanus,Undirected,1
+Kirstine,Løngomontanus,Undirected,2
+Kong Jakob,Longomontanus,Undirected,1
+Haus,Longomontanus,Undirected,1
+Haus,Tyge,Undirected,1
+Rudolf,Thge Brahe,Undirected,1
+Keiseren,forsvandf,Undirected,1
+Tyge Brahe,forsvandf,Undirected,1
+Kirstine,Rudolf,Undirected,1
+Keiseren,Kirstine,Undirected,10
+Longomontanus,gomontanus,Undirected,1
+Excellence,Longomontanus,Undirected,1
+Brahe,Excellence,Undirected,1
+Kirsfine,Longomontanus,Undirected,1
+Thge Brahe fabt,Tyge,Undirected,1
+Longomontanus,Thge Brahe fabt,Undirected,1
+Longomontanus,fabt,Undirected,1
+Tyge Brahe,fabt,Undirected,1
+Keiseren,visfnok,Undirected,1
+Tyge Brahe,visfnok,Undirected,1
+Keiser Rudolf,Thge Brahe,Undirected,4
+Astronoms,Thge Brahe,Undirected,2
+Ester,Keiseren,Undirected,1
+Junker Tyge,Longomontanus,Undirected,1
+Jørgen,Longomontanns,Undirected,2
+Keiseren,Longomontsnus,Undirected,1
+Keiseren,Longomontanns,Undirected,4
+Tyge Brahe,sledse,Undirected,1
+Brahernes,Longomontanus,Undirected,1
+Keiser,Longomontanus,Undirected,1
+Barritins,Rudolf,Undirected,1
+Tyge Brahe,annekteret,Undirected,2
+Kopernikus,Tyge Brahe,Undirected,4
+Herr Thge Brahe,Tyge Brahe,Undirected,1
+Christoffer Walkendorf,Tyge Brahe,Undirected,1
+Tyge Brahe,taus,Undirected,1
+Christian den,Steenwinkel,Undirected,2
+Longomontanus,tigt,Undirected,1
+Tyge Brahe,^J,Undirected,1
+Naades,Tyge Brahe,Undirected,2
+Flcre,Thge Brahe,Undirected,1
+Andients,Keiseren,Undirected,1
+Aaget,Tyge,Undirected,2
+Jørgen,Longomontanus,Undirected,1
+Junker,Longomontanus,Undirected,1
+Junker,Jørgen,Undirected,2
+Junker Tyge,Longomontanns,Undirected,1
+Baand.,Tyge Brahe,Undirected,1
+Junker Tyge,Keiser Rudolf,Undirected,1
+Keiser Rudolf,Majesfæt,Undirected,1
+Keiseren,Majesfæt,Undirected,1
+Junker Tyge,Thge Brahe,Undirected,1
+J,j,Undirected,1
+hnn,j,Undirected,1
+Tyge,r,Undirected,1
+Dien,Tyge,Undirected,1
+Keiseren,ver,Undirected,1
+Keiser,ver,Undirected,1
+Ieg,Keiseren,Undirected,2
+Keiser Rudolf,Keiseren,Undirected,1
+Keiseren,hinde,Undirected,1
+Kirstine,hinde,Undirected,1
+Kong Christian den Fjerde,Longomontanus,Undirected,1
+Christian den,Kong Christian den Fjerde,Undirected,1
+Longomontanus,Steenwinkel,Undirected,3
+Longomontanus,tans,Undirected,1
+Mesfer Steenwinkel,tans,Undirected,1
+Gud,Løngomontanus,Undirected,1
+Christian,Longomontanus,Undirected,1
+Brahe,dernæsf,Undirected,1
+Sanddruhed,dernæsf,Undirected,1
+L L. U,Tyge Brahe,Undirected,1
+Longomontanns,Mester Stecnwinkel,Undirected,2
+Jørgen,oder,Undirected,1
+Thge,oder,Undirected,1
+Gud,Jørgen,Undirected,2
+Jørggn,Tyge,Undirected,1
+Mecklenborg,Thge,Undirected,1
+Keiser Rudolf,Thge,Undirected,1
+Keiser,Kirstine,Undirected,1
+Junker Jørgens,Keiseren,Undirected,1
+Junker Jørgens,Tyge Brahe,Undirected,1
+Keiseren,Stafen,Undirected,1
+Stafen,høsfer,Undirected,1
+Keiseren,sknlde,Undirected,1
+Barritius,Junker Tyge,Undirected,1
+Barritius,Tyge Brahc,Undirected,1
+Tyge Brahc,Tyge Brahe,Undirected,1
+Barritius,Seiren,Undirected,1
+Seiren,ester,Undirected,1
+Gud,J^g,Undirected,1
+Frn,Kirstine,Undirected,1
+Barritins,Keiser Rudolf,Undirected,1
+Barritius,Kirstine,Undirected,2
+Forat Barritius,Keiseren,Undirected,1
+Jørgen,Keiseren,Undirected,2
+Barritius,Jomfru Brahe,Undirected,1
+Jomfru Brahe,Keiseren,Undirected,1
+Jomfru Brahe,Kokette,Undirected,1
+Keiseren,Kristines,Undirected,1
+Junker Thge Brahe,Keiserthor,Undirected,1
+Junker,Thge,Undirected,1
+Gud,ester,Undirected,1
+Junker,Keiserthor,Undirected,1
+Jørgen,Tyge Brahe,Undirected,1
+Keiseren,høist,Undirected,1
+Hvemsomhclsf,Prokurørs,Undirected,1
+Jørgen Brahe,Ore,Undirected,1
+AU,Ore,Undirected,1
+AU,Junker,Undirected,1
+A,B,Undirected,2
+Keiseren,Kirstine Brahe,Undirected,1
+Hnn,Keiseren,Undirected,1
+Gud,Roes,Undirected,1
+Keiseren,Kirsfine,Undirected,1
+Barritins,Jomfru Kirsfine,Undirected,1
+,Barritins,Undirected,1
+Keiseren,strax,Undirected,1
+Barritins,strax,Undirected,1
+AU,hend,Undirected,1
+Hain,Kirsfine,Undirected,1
+Hain,Peter,Undirected,1
+Kirstine,Suzanne,Undirected,2
+Jomfru Kirstine,Kirstine,Undirected,1
+Keiseren,denms,Undirected,1
+Kirstine,denms,Undirected,1
+Kirstine,ester,Undirected,1
+Keiseren,ester,Undirected,1
+Keiseren,Suzanne,Undirected,1
+Braheske,Suzanne,Undirected,1
+,Longomontanus,Undirected,1
+,Christian den,Undirected,1
+Christian den,Longomontanus,Undirected,1
+Brahe,Christen Longomontanus,Undirected,1
+Tyge Brahe,sclv,Undirected,1
+Gutty,sclv,Undirected,1
+Gutty,Thge Brahe,Undirected,1
+Longomontanus,Saasnart Longomontanus,Undirected,1
+Butty,Longomontanus,Undirected,1
+Butty,Longomontanns,Undirected,1
+Herr Longomontanns,Longomontanns,Undirected,1
+Gud,Villicn,Undirected,1
+Butty,alenthkke,Undirected,1
+Daggry,Herr Longomontanns,Undirected,1
+Butth,Daggry,Undirected,1
+Butth,Longomontanns,Undirected,1
+Herr Longomontanus,Longomontanus,Undirected,1
+Christian,Rantzaufke,Undirected,1
+Daniel Rankzau,Rantzaufke,Undirected,1
+Herr Povel Rankzau,Longomontanus,Undirected,2
+Povel Rantzan,fil Longomontanus,Undirected,1
+Rankzau,Seir,Undirected,1
+Christian den,Keiser Rudolf,Undirected,1
+Christian den,Herr Povel Ranfzau,Undirected,1
+Keiseren,Povel Rankzau,Undirected,1
+Brahe,Longomontanns,Undirected,1
+Herr Povel Rantzau,Longomontanus,Undirected,1
+Barritius,peres,Undirected,1
+Barritins,Herr Junker Tyge Brahe,Undirected,1
+Keiseren,Ore,Undirected,1
+A,Ore,Undirected,1
+B,Barritins,Undirected,1
+Aare,Baritius,Undirected,1
+,Keiseren,Undirected,1
+Barritius,Povel Rankzau,Undirected,2
+Longomontanus,Povel Rankzau,Undirected,1
+Barritius,Lakai,Undirected,1
+Junker Thge,Suzanne,Undirected,1
+Jørgen Brahe,Keiseren,Undirected,1
+Barritius,Keiser Rudolf,Undirected,1
+Brahe,Nemesis,Undirected,1
+Barritius,Nemesis,Undirected,1
+Bille-Brahe,Brahe,Undirected,1
+Otto Thot,Thge,Undirected,1
+Erik Lange,Otto Thot,Undirected,1
+Erik Lange,Tage Thot,Undirected,1
+Brahe,Tage Thot,Undirected,1
+Anna Gjøe,Brahe,Undirected,1
+Anna Gjøe,Karen,Undirected,1
+Thge Brahe,lhkkedes,Undirected,1
+Tyge Brahe,lhkkedes,Undirected,1
+Kepler,Tyge Brahe,Undirected,1
+Kepler,Newton,Undirected,1
+Thge Brahe,sledse,Undirected,1
+Tyge Brahe,nikus,Undirected,1
+Brahe,Kopernikus,Undirected,1
+Kopernikus,ban,Undirected,1
+Kopernikus,Thge Brahe,Undirected,3
+Newton,Thge Brahe,Undirected,1
+Dan m,Tyge Brahe,Undirected,2
+Ole Rømer,Tyge Brahe,Undirected,1

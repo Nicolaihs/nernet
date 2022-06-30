@@ -1,0 +1,72 @@
+source,target,type,weight
+Musbæk,Veirums,Undirected,1
+Musbæk,Vejrum,Undirected,6
+Vejrum,Vilhelm,Undirected,2
+Anna,Hr. Vejrum,Undirected,1
+Gud,Vilhelm,Undirected,1
+Krolis,Vejrum,Undirected,1
+Krolis,hans Anna,Undirected,1
+Johan Peter Vejrum,Robespierre,Undirected,1
+Goethe,Robespierre,Undirected,1
+Anna,Goethe,Undirected,1
+Anna,Musbæk,Undirected,1
+Bardahl,Karl,Undirected,1
+Jomfru Hilberg,Madam Bardahl,Undirected,2
+Bardahl,Jomfru Hilberg,Undirected,3
+Bardahl,Johan,Undirected,4
+Bardahl,Laban,Undirected,2
+Hilberg,Vilhelm,Undirected,1
+Bardahl,Hilberg,Undirected,1
+Jensen,Johan,Undirected,1
+Johan,Madam Jensen,Undirected,4
+Bardahl,Madam Bardahl,Undirected,1
+Johan,Madam Bardahl,Undirected,2
+Jakobine,Johan,Undirected,10
+Johan,Thomas,Undirected,9
+Jakobine,Thomas,Undirected,3
+Jakobine,Madam Dam,Undirected,1
+Emma Lassen,Vejrum,Undirected,1
+Frøken Lassen,Mille,Undirected,1
+Laura N.,Mille,Undirected,1
+Gratie,Vejrum,Undirected,1
+Frøken Lassen,Hr. Vejrum,Undirected,1
+Hr. Vejrum,Vejrum,Undirected,1
+Hr. Vejrum,Musbæk,Undirected,1
+Gud,Musbæk,Undirected,2
+Gud,véd,Undirected,1
+Ane,véd,Undirected,1
+Don Johan,Søren Kierkegaards,Undirected,1
+Frøken Lassen,Vejrum,Undirected,2
+Domino,Thomas,Undirected,1
+Domino,Jakobine,Undirected,1
+Madam Jensen,Thomas,Undirected,1
+Bravo,Jakobine,Undirected,1
+Bravo,Madam Dam,Undirected,1
+Madam Dam,Thomas,Undirected,1
+Bardahl,Vejrum,Undirected,5
+Johan,Vejrum,Undirected,8
+Anna,Vejrum,Undirected,1
+Frøken Lassen,Musbæk,Undirected,5
+Vejrum,ane,Undirected,1
+Johan,Thora Nielsen,Undirected,3
+Johan,Thoras,Undirected,1
+Johan,Thora,Undirected,2
+Thora,Toddyen,Undirected,1
+Gud,Madam Jensen,Undirected,1
+Gud,Johan,Undirected,1
+Gud,Thora Nielsen,Undirected,1
+Dr. Hansen Roed,Musbæk,Undirected,1
+Hr. Alusbæks,Hr. Musbæk,Undirected,1
+Hr. Musbæk,hemmes,Undirected,1
+Hr. Musbæk,Musbæk,Undirected,1
+Hansen Roed,Hr. Musbæk,Undirected,1
+Hr. Vejrum,Johan,Undirected,1
+Hansen Roed,Hr. Vejrum,Undirected,1
+Bardahl,Spang,Undirected,1
+Johan Bardahl,ethans,Undirected,1
+Johan,Musbæk,Undirected,3
+Johan,Spang,Undirected,1
+Donna Anna,Donna Elvira,Undirected,1
+Don Juan,Donna Elvira,Undirected,1
+Don Juan,Zerlina,Undirected,1
+Musbæk,Tante,Undirected,1

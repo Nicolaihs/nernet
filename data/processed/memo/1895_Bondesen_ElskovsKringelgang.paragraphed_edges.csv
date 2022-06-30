@@ -1,0 +1,523 @@
+source,target,type,weight
+Karen Daa,Skovsgaard,Undirected,1
+Jens Baad,Skovsgaard,Undirected,1
+Jens Baad,Karen Kjeldsdatter,Undirected,1
+Dorte Vernersdatter,Karen Kjeldsdatter,Undirected,1
+Dorte Vernersdatter,Svale,Undirected,1
+Jens Baad,Svale,Undirected,1
+Jens Baad,Magdalene,Undirected,1
+Inger,Magdalene,Undirected,1
+Inger,Oluf Hansen,Undirected,1
+Kjeld,Oluf Hansen,Undirected,1
+Kjeld Baad,Oluf,Undirected,1
+Kjeld,Oluf Gaas,Undirected,2
+Dorte,Kjeld,Undirected,7
+Dorte Vernersdatter,Kjeld,Undirected,2
+Dorte Vernersdatter,allenfals,Undirected,1
+Dorte,Jens Baad,Undirected,2
+Dorte,Karen,Undirected,2
+Karen,hannem,Undirected,1
+Dorte,svaredeJens,Undirected,1
+Dorte,Hans,Undirected,1
+Dorte,Malene Nielsdatter,Undirected,1
+Gud,Lene,Undirected,1
+Dortea,Lene,Undirected,2
+Kirsten,Lene,Undirected,1
+Kirsten,Mikkel Akeleje,Undirected,1
+Kjeld,Mikkel Akeleje,Undirected,1
+Kjeld,Malene,Undirected,1
+Kjeld,Oluf,Undirected,5
+Elsebe,Oluf,Undirected,1
+Dorte,Gud,Undirected,2
+Gud,Hans Mouritsens,Undirected,2
+Elsebe,Gud,Undirected,1
+Dorte,Jens,Undirected,2
+Dorte,Kirsten Hvas,Undirected,2
+Kirsten Hvas,Nedergaard,Undirected,1
+Dorte,Kirsten Hvasses,Undirected,1
+Kirsten Hvasses,Sofie Urne,Undirected,1
+Grete,Sofie Urne,Undirected,1
+Grete,Knud Mikkelsen,Undirected,1
+Dorte,Knud Mikkelsen,Undirected,1
+Jens,Kjeld,Undirected,9
+Kirsten,Kjeld,Undirected,14
+Jens,Krabbe,Undirected,1
+Karen Akeleje,Kirsten Hvas,Undirected,1
+Knud Mikkelsen,Mikkel,Undirected,1
+Kirsten Hvas,Mikkel,Undirected,1
+Jens Baad,Kirsten Hvas,Undirected,2
+Jenses,Knud Mikkelsen,Undirected,1
+Jenses,Nedergaard,Undirected,1
+Jens,Knud,Undirected,5
+Hans,Knud Mikkelsen,Undirected,1
+Knud,Knud Mikkelsen,Undirected,1
+Dorte,Hans Daa,Undirected,1
+Dorte,Karen Jens Baads,Undirected,2
+Grete,Knud,Undirected,1
+Jenses,Møllegaard,Undirected,1
+Dorte,Knud,Undirected,1
+Dorte,Grete,Undirected,1
+Grete,Kirsten,Undirected,1
+Dorte,Kirsten,Undirected,6
+Hans,Kirsten,Undirected,1
+Kirsten,Knud Mikkelsen,Undirected,2
+Jens Baad,Kjeld,Undirected,1
+Mikkel,Oluf,Undirected,3
+Karen Jens Baads,Mikkel,Undirected,1
+Karen Akeleje,Kjeld,Undirected,3
+Karen,Kirsten Hvas,Undirected,2
+Dorte,Klingstrupfrue,Undirected,1
+Karen,Kirsten,Undirected,8
+Møllegaard,Povl Dyrskytte,Undirected,1
+Margrete,Møllegaard,Undirected,1
+Dorte,Hans Jørgensen,Undirected,1
+Dorte Vernersdatter,Hans Jørgensen,Undirected,1
+Dorte Vernersdatter,Møllegaard,Undirected,1
+Karen,Kjeld,Undirected,35
+Kjeld,Mikkel,Undirected,1
+Karen Akeleje,Kirsten,Undirected,1
+Niels Hendriksen Sandberg,Søren Gaas,Undirected,1
+Morten,strunk,Undirected,1
+Esben Ellegaard,Møllegaard,Undirected,4
+Esben,Morten,Undirected,14
+Morten Foged,Møllegaard,Undirected,2
+Morten,Morten Foged,Undirected,1
+Krogagergaard,Morten,Undirected,2
+Else,Morten,Undirected,12
+Hvabbe,Morten,Undirected,1
+Kirsten,Nedergaard,Undirected,1
+Karolus,Kirsten,Undirected,1
+Kirsten,Morten,Undirected,5
+Morten,Møllegaard,Undirected,4
+Esben,Møllegaard,Undirected,6
+Else Mortensdatter,Nedergaard,Undirected,1
+Else,Nedergaard,Undirected,3
+Else,Povl,Undirected,28
+Else,Jærn,Undirected,1
+Else,skoggerlo,Undirected,1
+Niels,Søren,Undirected,1
+Gud,Povl,Undirected,2
+Else,Skovgaards,Undirected,1
+Else,Gud,Undirected,6
+Morten,Povl,Undirected,4
+Nedergaard,Skovsgaard,Undirected,1
+Nedergaard,Torpe,Undirected,1
+Niels Sandbergs,Torpe,Undirected,1
+Niels Sandbergs,Søren,Undirected,1
+Søren,Søren Gaas,Undirected,1
+Christence Daa,Søren Gaas,Undirected,1
+Christence Daa,Morten Foged,Undirected,1
+Herberg,Morten Foged,Undirected,1
+Kjeld Baad,de Nedergaards,Undirected,1
+Kirsten Hvas,de Nedergaards,Undirected,1
+Kirsten Hvas,Kjeld,Undirected,1
+Ilaand,Karen Akeleje,Undirected,1
+Morten Gaardfoged,Povl,Undirected,1
+Kjeld,hartad,Undirected,1
+Christence,Søren,Undirected,3
+Christence,Jesper,Undirected,1
+Jesper,Peder Gregersen,Undirected,1
+Gregers Pedersen Juel,Peder Gregersen,Undirected,1
+Gregers,Gregers Pedersen Juel,Undirected,1
+Gregers,Juelers,Undirected,1
+Gregers Juel,Jørgen,Undirected,1
+Gregers,Jørgen Daa,Undirected,1
+Gregers,Jørgen,Undirected,2
+Jørgen,Wahrhaftig,Undirected,1
+Gregers,Rudbæk Pors,Undirected,1
+Flores Rønnov,Rudbæk Pors,Undirected,1
+Flores Rønnov,Oluf Gaas,Undirected,2
+Kjeld Baad,Oluf Gaas,Undirected,1
+Gregers,Jens Hvas,Undirected,1
+Gregers,Søren,Undirected,1
+Nielses,Søren,Undirected,4
+Kirsten Niels Sandbergs,Nielses,Undirected,1
+Ghristences,Kirsten Niels Sandbergs,Undirected,1
+Ghristences,Søren,Undirected,1
+Margrete Urne,Nielses,Undirected,1
+Kirsten Akeleje,Margrete Urne,Undirected,1
+Kirsten Akeleje,Møllegaard,Undirected,1
+Anne Skinkel,Møllegaard,Undirected,1
+Anne Lud,Anne Skinkel,Undirected,1
+Anne Lud,Skovsgaard,Undirected,1
+Esben Ellegaard,Gregers Juel,Undirected,1
+Esben Ellegaard,Gregers,Undirected,1
+Esben,Gregers,Undirected,8
+Esben,Spies,Undirected,1
+Esben,Esben Ellegaard,Undirected,3
+Esben,Vilhelm af,Undirected,1
+Dorotea,Vilhelm af,Undirected,1
+Karen Daa,Sti Pors,Undirected,1
+Jenses,Melkior Hvas,Undirected,1
+Else,Jenses,Undirected,1
+Karen,Melkior,Undirected,1
+Else,Junker Melkior,Undirected,2
+Melkior,lille Elsebe,Undirected,1
+Else,Melkior,Undirected,1
+Morten Gaardfoged,Søren Gaas,Undirected,1
+Niels Sandberg,Søren Gaas,Undirected,1
+Jens Baad,Niels Sandberg,Undirected,2
+Jens Baad,Knud Mikkelsen,Undirected,1
+Knud Mikkelsen,Peder,Undirected,1
+Jesper Gregersen,Peder,Undirected,1
+Jens Hvas,Jesper Gregersen,Undirected,1
+Jens Hvas,Jørgen,Undirected,1
+Jens Jørgensen,Jørgen,Undirected,1
+Jens Jørgensen,Klaus Jakobsen,Undirected,1
+Jesper til,Klaus Jakobsen,Undirected,1
+Jesper til,Myltingers,Undirected,1
+Jens Hvas,de Cortsens,Undirected,1
+Jens,Jens Madsen,Undirected,1
+Jens Hvas,Jesper,Undirected,1
+Hans Cortsen,Jens Hvas,Undirected,2
+Hans Cortsen,Lykkesholm,Undirected,2
+Mattis,Skovsgaard,Undirected,1
+Jens,Mattis,Undirected,2
+Jens,Jørgen,Undirected,1
+Anna,Jørgen,Undirected,1
+Anna,Claus Daa,Undirected,1
+Hans Cortsen,Mikkel,Undirected,1
+Mattis,Mikkel,Undirected,1
+Jesper,de Cortsens,Undirected,1
+Frederik den,Jørgen von Holle,Undirected,1
+Helmer von Monnichhusen,Jørgen von Holle,Undirected,1
+Helmer von Monnichhusen,Viktor Knippinge,Undirected,1
+Jørgen Daa,Viktor Knippinge,Undirected,1
+Jørgen Daa,Jørgen Marsvin,Undirected,1
+Jens,Niels Sandberg,Undirected,1
+Niels Sandberg,hartad fore,Undirected,1
+Niels,hartad fore,Undirected,1
+Niels Hendriksen,Skaal,Undirected,1
+Jenses,Niels Hendriksen,Undirected,1
+Jens,Karen Knudsdatter,Undirected,1
+Jens,Niels,Undirected,5
+Kirsten,Niels,Undirected,12
+Kjeld,Niels,Undirected,16
+Gregers Juel,Karen Akeleje,Undirected,1
+Flores Rønnov,Karen Akeleje,Undirected,1
+Flores Rønnov,Kirsten Hvas,Undirected,1
+Kirsten Hvas,Kjeld Baad,Undirected,1
+Berete Lavridsdatter,Kjeld Baad,Undirected,2
+Berete,Kjeld Baad,Undirected,1
+Berete,Karen Akeleje,Undirected,2
+Berete,Kjeld,Undirected,7
+Hilleborg Knudsdatter,Lavrids,Undirected,1
+Berete Lavr idsdatter,Kjeld Jensen,Undirected,1
+Berete,Berete Lavr idsdatter,Undirected,1
+Claus Porsz,Leffnetz Compasz,Undirected,1
+Hvas,Melkior,Undirected,1
+Hvas,Møllegaard,Undirected,1
+Else,Møllegaard,Undirected,3
+Else,Mette,Undirected,1
+Melkior,Mette,Undirected,1
+Kjeld Baad,ban,Undirected,1
+Melkior,maa,Undirected,1
+Else,Kjeld,Undirected,10
+Else,Jomfru Karen,Undirected,5
+Else,Karen Knudsdatter,Undirected,3
+Kjeld,Skovbos,Undirected,1
+Melkior Hvas,Ole Gaas,Undirected,1
+Jens Baad,Morten Gaardfoged,Undirected,1
+Dorte Vernersdatter,Morten Gaardfoged,Undirected,1
+Dorte,Niels,Undirected,4
+Niels,Sanden,Undirected,1
+Møllegaard,Niels,Undirected,1
+Karen,Niels,Undirected,5
+Karen,Karen Knudsdatter,Undirected,1
+Niels,Tidselholt,Undirected,2
+Kjeld Jensen,Niels,Undirected,1
+Dorte,Kjeld Jensen,Undirected,1
+Kjeld,Kjeld Jensen,Undirected,2
+Dorte,Niels Hendriksen,Undirected,1
+Jens,Karen,Undirected,8
+Jens Baad,Niels,Undirected,2
+Else,Povl Dyrskytte,Undirected,2
+Dorte,Else,Undirected,1
+Else,Husbonds,Undirected,1
+Niels,duli,Undirected,1
+Husbond,Kjeld,Undirected,1
+Else,Karen,Undirected,23
+Junker,Karen,Undirected,1
+Junker,Kjeld,Undirected,2
+Karen,Povl,Undirected,12
+Else,Junker,Undirected,1
+Kirsten Niels Sandbergs,Morten Gaardfoged,Undirected,1
+Esben Ellegaard,Morten,Undirected,2
+Jeppe,Morten,Undirected,2
+Karl,Morten,Undirected,1
+Karle,Morten,Undirected,2
+Kirsten,Møllegaard,Undirected,2
+Gregers,Hans Durchlauchtigheds,Undirected,1
+Hans Durchlauchtigheds,Isolde,Undirected,1
+Gregers,Jomfru Karen,Undirected,1
+Braher,Jomfru Karen,Undirected,1
+Gregers,Niels,Undirected,8
+Kjeld,Møllegaard,Undirected,5
+Karen,Møllegaard,Undirected,1
+Kirsten Hvas,Oluf Gaas,Undirected,1
+Daniel Rantzau,Giinther,Undirected,1
+Daniel Rantzau,Frants Brokkenhus,Undirected,1
+Frederik den,Peder Oxe,Undirected,1
+Gregers Juel,Karen Knudsdatter,Undirected,1
+Gregers Juel,Kjeld Baad,Undirected,1
+Kjeld,Kjeld Baad,Undirected,4
+Gregers,Kjeld,Undirected,5
+Karen,Niels Hendriksen,Undirected,7
+Gregers Juel,Kjeld,Undirected,1
+Jens Baad,Kirsten,Undirected,1
+Jens Baad,Nielses,Undirected,1
+Niels,Nielses,Undirected,2
+Gregers,Kirsten,Undirected,6
+Kirsten,Peder Juel,Undirected,1
+Gregers,Peder Juel,Undirected,1
+Gregers,Jørgen Marsvin,Undirected,1
+Gregers,Karen Knudsdatter,Undirected,2
+Birgitte Rønnov,Gregers,Undirected,2
+Birgitte Rønnov,Kirsten,Undirected,1
+Karen.,Kirsten,Undirected,1
+Niels Hendriksen,Povl Dyrskytte,Undirected,1
+Nielses,Sandbergs,Undirected,1
+Morten,ellesens,Undirected,1
+cluA,hvast,Undirected,1
+Aktors,Morten,Undirected,1
+Morten,Niels Hendriksen,Undirected,4
+Niels,Niels Hendriksen,Undirected,1
+Jesper,Niels,Undirected,3
+Jesper,Pantelen,Undirected,1
+Gregers,Pantelen,Undirected,1
+Gregers,Mourits,Undirected,1
+Jesper,Møllegaard,Undirected,2
+Gregers,Møllegaard,Undirected,2
+Gregers,Jesper,Undirected,5
+Jesper,Niels Hendriksen,Undirected,1
+Gregers,Niels Hendriksen,Undirected,2
+Gregers,Karen,Undirected,7
+Gregers Pedersen,Karen,Undirected,4
+Jenses,Karen,Undirected,1
+Jenses,Tidselholt,Undirected,1
+Gregers,Jens Baad,Undirected,1
+Dorte Vernersdatter,Niels,Undirected,1
+Dorte Vernersdatter,Jens Carlsens,Undirected,1
+Gregers,Gud,Undirected,1
+Jens Carlsen,Niels,Undirected,1
+Knud,Niels,Undirected,1
+Jens Carlsen,Knud,Undirected,1
+Karen,Knud Mikkelsen,Undirected,3
+Jens Carlsen,Knud Mikkelsen,Undirected,1
+Esben Ellegaard,Husbond,Undirected,1
+Esben Ellegaard,Niels,Undirected,1
+Allingaas,Gregers,Undirected,1
+Esben,Jørgen Ruds,Undirected,1
+Peder Gregersen,Per Gregersen,Undirected,1
+Per,Per Gregersen,Undirected,1
+Klinge,Per,Undirected,1
+Klinge,Per Gregersen,Undirected,1
+Esben Ellegaard,Per Gregersen,Undirected,2
+Esben Ellegaard,Jesper,Undirected,1
+Esben,Per Gregersen,Undirected,1
+Aasynets,Esben,Undirected,1
+Karen Akeleje,Møllegaard,Undirected,1
+Karen,Kjeld Jensen,Undirected,2
+Jens Carlsen,Kjeld,Undirected,4
+Esben Ellegaard,Kjeld,Undirected,2
+Møllegaard,lian,Undirected,1
+Esben,lian,Undirected,1
+Esben,Karen Knudsdatter,Undirected,2
+Esben Ellegaard,Jørgen Ruds,Undirected,1
+Jørgen Ruds,Søren,Undirected,1
+Christence,Nielses,Undirected,1
+Else,Nielses,Undirected,1
+Else,Esben,Undirected,10
+Esben,Nielses,Undirected,1
+Akeleje,Karen,Undirected,1
+Akeleje,Else,Undirected,1
+Esben,Karen,Undirected,3
+Esben,Kjeld,Undirected,13
+Kjeld,Niels Hendriksen,Undirected,4
+Esben,Niels Hendriksen,Undirected,6
+Esben,Svend,Undirected,1
+Nielses,Svend,Undirected,1
+Kjeld,Nielses,Undirected,1
+Gud,Kjeld,Undirected,5
+Gud,Karen Akeleje,Undirected,2
+Kirsten,Niels Hendriksen,Undirected,4
+Gregerses,Kirsten,Undirected,1
+Jens,Kirsten,Undirected,1
+Jens,Knud Mikkelsen,Undirected,1
+Birgitte Rønnov,Gud,Undirected,1
+Niels Hendriksen,Povl Rideknægt,Undirected,1
+Povl,Povl Rideknægt,Undirected,2
+Niels,Povl,Undirected,3
+Kirsten,Soliman,Undirected,1
+Aktor,Mirza,Undirected,1
+Else,Kirsten,Undirected,3
+Jens,Møllegaard,Undirected,1
+Kjeld,Per Gregersen,Undirected,1
+Kjeld,Knud Mikkelsen,Undirected,1
+Flores Rønnov,Kjeld,Undirected,2
+Dorte Vernersdatter,Jens,Undirected,2
+Evert Bild,Kjeld,Undirected,1
+Gud,Karen,Undirected,1
+Karen Knudsdatter,Niels Hendriksen,Undirected,2
+Karen,Sanden,Undirected,1
+Junker Kjeld,Karen,Undirected,1
+Else,Povl Rideknægt,Undirected,1
+Niels Hendriksen,Povl,Undirected,2
+Karen,Kjeld Baad,Undirected,1
+Kjeld Baad,Tidselholt,Undirected,1
+Kjeld,Tidselholt,Undirected,1
+Dorte Vernersdatter,Karen Akeleje,Undirected,1
+Karen Akeleje,Povl,Undirected,3
+Gregers,Vestergaard,Undirected,1
+Jens Carlsen,Kirsten,Undirected,1
+Gregers Pedersen,Jens,Undirected,1
+Gregers Pedersen,Kjeld —,Undirected,1
+Karen,enddog Niels Hendriksen kærligen,Undirected,1
+Dorte Vernersdatter,Kirsten,Undirected,1
+Karen Knudsdatter,Kjeld Jensen,Undirected,1
+Kirsten,Kjeld Jensen,Undirected,1
+Karen,atJomfru,Undirected,1
+Terne,atJomfru,Undirected,1
+Morten Foged,Terne,Undirected,1
+Morten Foged,Povl,Undirected,3
+Morten,Uraad,Undirected,1
+Else,Uraad,Undirected,1
+Else,Niels Hendriksen,Undirected,1
+Else,Longelse,Undirected,1
+Longelse,Morten,Undirected,1
+Karen Knudsdatter,Povl Rideknægt,Undirected,1
+Karen,Povl Rideknægt,Undirected,1
+Esben Ellegaard,Saar,Undirected,1
+Møllegaard,Povl,Undirected,5
+Karl,Povl,Undirected,1
+Allenfals,Morten,Undirected,1
+Jomfru Karen,Junker Kjeld,Undirected,1
+Daniel Rantzau,Frants Kappel,Undirected,1
+Frants Kappel,Hak Holgersen,Undirected,1
+Hak Holgersen,Peder Gyldenstjerne,Undirected,1
+Frants Banner,Peder Gyldenstjerne,Undirected,1
+Erik Kaas,Frants Banner,Undirected,1
+Dohna,Erik Kaas,Undirected,1
+Dohna,Frants,Undirected,1
+Kjeld,Melkior,Undirected,2
+Kjeld Baad,Melkior Hvas,Undirected,1
+Kjeld,Svend,Undirected,1
+Junker Kjeld,Svend,Undirected,1
+Junker Kjeld,Tidselholt,Undirected,1
+Karlen,Per Gregersen,Undirected,1
+Karen Daa,Nedergaard,Undirected,1
+Kjeld Baad,Povl,Undirected,3
+Oluf Gaas,Povl,Undirected,1
+Kjeld,Povl,Undirected,17
+Kjeld,Ole,Undirected,1
+Ole Hansen,Povl,Undirected,1
+Oluf,Povl,Undirected,1
+Gregers Pedersen,Karen Knudsdatter,Undirected,2
+Gud,Niels Hendriksen,Undirected,1
+Karen Knudsd,Oluf,Undirected,1
+Esben Ellegaard,Oluf,Undirected,1
+Esben Ellegaard,Povl,Undirected,1
+Husbond,Tidselholt,Undirected,1
+Husbond,Møllegaard,Undirected,1
+Møllegaard,Niels Hendriksen,Undirected,1
+Jomfru Karen,Povl,Undirected,1
+Junker Kjeld,Møllegaard,Undirected,1
+Dorte,Dorte Vernersdatter,Undirected,1
+Dorte,Oluf,Undirected,1
+Kirsten Hvas,Povl,Undirected,1
+Elsebe Mylting,Kirsten Hvas,Undirected,1
+Elsebe Mylting,Karen Knudsdatter,Undirected,1
+Dosmerdorte,Karen Knudsdatter,Undirected,1
+Esben,Povl,Undirected,4
+Arkeli,Kjeld,Undirected,1
+Christoffer von Dohna,Rantzau,Undirected,1
+Christoffer von Dohna,Kjeld Baad,Undirected,1
+Kjeld Baad,Povl Krogsbjærg,Undirected,1
+Kjeld Jensen,Povl,Undirected,2
+Daniel Rantzau,Lieutnant,Undirected,1
+dili,zurikk,Undirected,1
+rikke forværts,zurikk,Undirected,1
+dili stur,rikke forværts,Undirected,1
+Wat,dili stur,Undirected,1
+Halland,Wat,Undirected,1
+Halland,jaj,Undirected,1
+jaj,rikke,Undirected,1
+Borggrev von Dohna,Frants Kappel,Undirected,1
+Erik Kaas,Frants Kappel,Undirected,1
+Erik Kaas,Jørgen von Kvalen,Undirected,1
+Hak Holgersen,Jørgen von Kvalen,Undirected,1
+Frants,Hak Holgersen,Undirected,1
+Frants,Peder Gyldenstjerne,Undirected,1
+Henrik Plats,Peder Gyldenstjerne,Undirected,1
+Henrik Plats,Morten,Undirected,1
+Morten,Rantzau,Undirected,1
+Kjeld Jensen,Povl Krogsbjærg,Undirected,1
+Povl,Povl Krogsbjærg,Undirected,1
+Daniel Rantzau,Kjeld,Undirected,1
+Hagenskøid Bjelke,Kjeld Baad,Undirected,1
+Gud,Møllegaard,Undirected,2
+Kjeld,Sturer,Undirected,1
+Kit,Povl,Undirected,1
+Kit,Møllegaard,Undirected,1
+Karin Månsdatter,Kong Erik,Undirected,1
+Karin,Karin Månsdatter,Undirected,1
+Erik,Karin,Undirected,6
+Henrik,Karin,Undirected,1
+Henrik,Sigrid,Undirected,1
+Carl,Sigrid,Undirected,1
+Carl,Johan,Undirected,1
+Erik,Niels,Undirected,1
+Karin,Niels Sture,Undirected,1
+Karin,Per,Undirected,1
+Davids,Karin,Undirected,1
+Davids,Erik,Undirected,1
+Erik,Gud,Undirected,2
+Karen,Karin,Undirected,1
+Karin,Kjeld,Undirected,1
+Ed,Kjeld,Undirected,1
+Else,Karen Akeleje,Undirected,2
+Esben Ellegaard,Niels Hendriksen,Undirected,1
+Kjeld Baad,Niels Hendriksen,Undirected,1
+Kirsten Mikkelsdatter,Niels Hendriksen,Undirected,1
+Gregers Pedersen,Kjeld,Undirected,3
+Karen Knudsdatter,Kjeld,Undirected,1
+Karen Knudsdatter,Karin Månsdatter,Undirected,1
+Esben,Kjeld Jensen,Undirected,1
+Esben,Gud,Undirected,2
+Gud,Junker Kjeld,Undirected,1
+Esben,Niels,Undirected,1
+Gud,Niels,Undirected,1
+Kirsten,Sanden,Undirected,1
+Karen,Vestergaard,Undirected,1
+Esben,Vestergaard,Undirected,1
+Kjeld,Soliman,Undirected,2
+Kjeld,Povl Krogsbjærg,Undirected,1
+Else,Povl Krogsbjærg,Undirected,1
+Kjeld,Morten,Undirected,1
+Karen Knudsdatter,Morten,Undirected,1
+Else,Esben Ellegaard troloves,Undirected,1
+Esben Ellegaard troloves,Morten,Undirected,1
+Morten,Povl Krogsbjærg,Undirected,1
+Esben,Povl Krogsbjærg,Undirected,2
+Kjeld,Søren Gaas,Undirected,1
+Kjeld,Søren,Undirected,1
+Christence,Karen,Undirected,1
+Nielses,Povl,Undirected,1
+Esben Ellegaard,Niels Sandberg,Undirected,1
+Povl,Svend,Undirected,2
+Esben Ellegaard,Karen Daa,Undirected,1
+Karen Daa,Morten,Undirected,1
+Morten,de Sandbergs,Undirected,2
+Morten,Søren Gaases,Undirected,1
+Else,Esben Ellegaard,Undirected,1
+Jens Carlsen,Niels Hendriksen,Undirected,1
+Morten Foged,Niels Hendriksen,Undirected,1
+Husbond,Morten,Undirected,1
+Gud,Morten,Undirected,2
+Morten,Niels,Undirected,4
+Niels,Povl Krogsbjærg,Undirected,1
+Esben,Kirsten,Undirected,1
+Karl,Kirsten,Undirected,1
+Else,Karl,Undirected,1
+Kirsten,Povl,Undirected,1
+Karen Akeleje,Kjeld Baad,Undirected,1

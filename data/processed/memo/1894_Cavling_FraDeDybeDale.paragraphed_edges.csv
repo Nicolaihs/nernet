@@ -1,0 +1,125 @@
+source,target,type,weight
+Kaj Lønge,Svend,Undirected,2
+Mester Frantzens,Svend,Undirected,1
+Kaj,Svend,Undirected,3
+Kaj,Mester Frantzens,Undirected,1
+Mester Frantzen,Mester Frantzens,Undirected,1
+Kaj,Mathilde,Undirected,11
+Mathilde,Svend,Undirected,1
+Frantzen,Kaj,Undirected,14
+Frantzen,Hylling,Undirected,1
+Frantzen,Svend,Undirected,2
+Anna,Kaj,Undirected,26
+Hylling,Jacobi,Undirected,1
+Anna,Hylling,Undirected,1
+Anna,Ritra,Undirected,19
+Anna,Frøken Ritra,Undirected,4
+Gud,Kaj,Undirected,3
+Gud,véd,Undirected,2
+Kaj Lykke,Kaj Lønge,Undirected,1
+Kaj,Mester Frantzen,Undirected,3
+Hylling,Kaj,Undirected,3
+Hanekammens,Kaj,Undirected,1
+Frøken Mathildes,Kaj,Undirected,2
+Kaj,hap,Undirected,1
+Fran tzens,Kaj,Undirected,1
+Mikkelsen,Store-Olsen,Undirected,7
+Mikkelsen,Olsen,Undirected,2
+Kaj,Store-Olsen,Undirected,7
+Hanekammen,Kaj,Undirected,2
+Kaj,Luens,Undirected,2
+Kaj,Mikkelsen,Undirected,10
+Frantzen,Mikkelsen,Undirected,1
+Kaj Lønge,Mester Frantzen,Undirected,1
+Kaj Lønge,Store-Olsen,Undirected,1
+Frantzen,Store-Olsen,Undirected,1
+Kaj,Mesteren,Undirected,1
+Figaro,Kaj,Undirected,21
+Frantzen,Mathilde,Undirected,2
+Figaro,Frantzen,Undirected,1
+Graad,Kaj,Undirected,1
+Emil Holm,Kaj,Undirected,7
+Mester Frantzen,Mester Holms,Undirected,1
+Aktors,Kaj,Undirected,1
+Kaj,jnig,Undirected,2
+Kaj,Ritra,Undirected,33
+Figaro,mille-fleurs,Undirected,1
+Figaro,Kars,Undirected,2
+Kaj,Kars,Undirected,2
+Hr. L.,Kaj,Undirected,1
+Grabbe,grabbe,Undirected,1
+Ferdinand,Mirabeau,Undirected,3
+Kaj,Mirabeau,Undirected,2
+Anna,Mirabeau,Undirected,2
+Anna,Kong Georgs Vej,Undirected,2
+Figaro,Hr. Mortensen,Undirected,1
+Buffon,Hr. Mortensen,Undirected,1
+Kaj,Mortensen,Undirected,1
+Kaj,Plum,Undirected,3
+Ferdinand,Plum,Undirected,1
+Ferdinand,Kommerceraad Plumbudding,Undirected,1
+Frøken Ritra,Kaj,Undirected,1
+Kaj,Kommerceraads,Undirected,1
+Figaro,s,Undirected,1
+Agnete,Kaj,Undirected,32
+Emil Holm,Frøken Ritra,Undirected,1
+Emil Holm,Ritra,Undirected,2
+Frøken Ritra,Ritra,Undirected,1
+Mathilde,Mester Frantzen,Undirected,1
+Agnete,Anna,Undirected,1
+Agnete,Mathilde,Undirected,1
+Frøken Agnetes,Kaj,Undirected,1
+Kaj,hatDu,Undirected,1
+Figaro,Ritra,Undirected,1
+Figaro,Oraklet,Undirected,1
+Emil Holm,Store-Olsen,Undirected,4
+Kaj,j,Undirected,1
+Ritra,j,Undirected,1
+Ferdinand,Kaj,Undirected,3
+Etatsraad Plums,Kaj,Undirected,2
+Kaj,skoggerlo,Undirected,1
+Ritra,skoggerlo,Undirected,1
+Hveen,Venus,Undirected,1
+Frøken Agnete,Kaj,Undirected,1
+Papa,Ætna,Undirected,1
+Kaj,Læskes,Undirected,2
+Kaj,melsen,Undirected,1
+Figaro,Jærnstøber,Undirected,1
+Emil Holm,Jærnstøber,Undirected,2
+Emil Holm,Figaro,Undirected,1
+Emil Holm,Ritra Jacobi,Undirected,1
+Figaro,Kaj Lykke,Undirected,1
+Kaj,Vesuv,Undirected,1
+Agnete,Naal,Undirected,1
+Naal,Tarquinius,Undirected,1
+Kaj,Sallusts,Undirected,1
+Agnete,Ludvig,Undirected,1
+Agnete,Roublard,Undirected,1
+Agnete,jon’,Undirected,1
+Bulliers,Michel,Undirected,1
+Agnete,Fiakren,Undirected,1
+Agnete Plum,Kaj,Undirected,3
+Holm,Ritra,Undirected,1
+Kaj,Venus,Undirected,1
+Kaj,Kristen,Undirected,1
+Kaj,Robinson,Undirected,1
+Anna,Kristen,Undirected,1
+Kaj,Kong Georgs Vej,Undirected,1
+Kaj,Kaj Lønge,Undirected,2
+Kaj Lykke,L. Kaj,Undirected,1
+Kaj Lønge,L. Kaj,Undirected,1
+Kaj,Kristen Madsen,Undirected,1
+Figaro,Kristen Madsen,Undirected,1
+Figaro,Lavettens,Undirected,1
+Kaj,Peter,Undirected,1
+Rits,rats,Undirected,1
+Anna,Etatsraad Plums,Undirected,1
+Agnete,Ritra,Undirected,4
+Anna,Mathilde,Undirected,1
+Agnete,Agnete Plum,Undirected,1
+Anna,Gud,Undirected,2
+Mikkelsen,StoreOlsen,Undirected,1
+Agnete Plum,Kaj Lønge,Undirected,1
+Ferdinand,Figaro,Undirected,1
+Kaj,maalløs,Undirected,1
+Atlaskes,maalløs,Undirected,1

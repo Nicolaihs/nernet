@@ -1,0 +1,247 @@
+source,target,type,weight
+Lydia,Thorvald,Undirected,25
+Konstner,Lydia,Undirected,1
+Lydia,Meisel,Undirected,1
+Lydia,hnn,Undirected,3
+Annette,Aurelia,Undirected,1
+Athss,lille Annette,Undirected,1
+Annette,Athos,Undirected,1
+Annette,Nancy,Undirected,4
+Annette,Madam Mekong,Undirected,1
+Madam Melong,taus,Undirected,1
+Annette,Madam Melong,Undirected,3
+Bretton,Lydia,Undirected,2
+Annette,Thorvald,Undirected,2
+Gobert,Thorvald,Undirected,3
+Thorvald,nei,Undirected,1
+Gemal,Lydia,Undirected,1
+Bretton,Lydia äs,Undirected,1
+Elsfovens,Lydia,Undirected,1
+Fanchette,Georges,Undirected,21
+Georges,Saint-Remy,Undirected,3
+Georges Valory,iforgaars,Undirected,1
+Georges Valory,Georges Valsry,Undirected,1
+Georges Valsry,Gud,Undirected,1
+Fanchette,Frank,Undirected,1
+Frank,Marion,Undirected,25
+Greven,Gud,Undirected,1
+Fanchette,Gabriel Remy,Undirected,1
+Fanchette,Lydia,Undirected,9
+Lydia Lydia,feg,Undirected,1
+Keiseren,Lydia taug,Undirected,1
+Keiseren,Lydia,Undirected,1
+Keiseren,hnn,Undirected,1
+Grev Valsry,Lydia,Undirected,1
+Fanchette,Gud,Undirected,3
+Georges,Gud,Undirected,4
+Grev ,indens,Undirected,1
+Madam Melong,Nancy,Undirected,2
+Athos,Madam Melong,Undirected,1
+Athos,Müsset,Undirected,1
+Annette,Valery,Undirected,1
+Athos,Lydia,Undirected,2
+Annette,Lydia,Undirected,2
+Aurelia,Madam Melong,Undirected,1
+Annette,Gud,Undirected,3
+John,kjær,Undirected,1
+Annette,John,Undirected,13
+Athos,Hain,Undirected,1
+Eden,Gud,Undirected,1
+Annette,Ester,Undirected,1
+Ester,taus,Undirected,1
+Annette,taus,Undirected,1
+Annette,lille Annette,Undirected,1
+Georges,Herr äs,Undirected,1
+Fanchette,Greven,Undirected,2
+Aurelia,Valsrys,Undirected,1
+Josef,Valsrys,Undirected,1
+Aurelia,Fanchette,Undirected,3
+Aurelia,Frank,Undirected,3
+Aurelia,Mr. Pukmann,Undirected,1
+Aurelia,Terry,Undirected,1
+Mr. Pukmann,Terry,Undirected,1
+Aurelia,Herr Terry,Undirected,1
+Afhos,Aurelia,Undirected,1
+Frank,tans,Undirected,1
+Alma,Lydia,Undirected,20
+Frank,Gobert,Undirected,1
+Alma,Frank,Undirected,2
+Bachis,Thorvald,Undirected,1
+Alma,Thorvald,Undirected,24
+Greven,Lydia,Undirected,2
+Josef,Lazzaronen,Undirected,1
+Josef,Lydia,Undirected,10
+Adelhardt,Lydia äs Bretton,Undirected,1
+Hille,Jørgen,Undirected,1
+Keiser Napoleon,Te Flesfe,Undirected,1
+Lydia,j,Undirected,2
+Gabriel,Saint-Remy,Undirected,1
+huu,j,Undirected,1
+j,k Attende,Undirected,1
+Frank,Herr Small,Undirected,1
+Gabriel,Georges,Undirected,2
+Georges,Small,Undirected,1
+Aurelia,frede,Undirected,1
+Lydia,Valsry,Undirected,1
+Aurelia,Josef,Undirected,3
+Athos,Aurelia,Undirected,5
+Aurelia,Lydia,Undirected,5
+Anton,kjær,Undirected,1
+Ida,Nordbo,Undirected,1
+Anton,Nordbo,Undirected,1
+Anton,Thorvald,Undirected,7
+Meislen,Rudolf,Undirected,1
+Ida,Thorvald,Undirected,2
+Anton,Ida,Undirected,3
+Anton,Mester,Undirected,1
+Ida,hunZ,Undirected,1
+Alma,Birthe,Undirected,5
+Birthe,se,Undirected,1
+Alma,se,Undirected,1
+Alma,kjære,Undirected,1
+Alma,kjær,Undirected,1
+Birthe,Thorvald,Undirected,3
+Alma,lidf,Undirected,1
+Alma,Anton,Undirected,1
+Alma,Rudolf,Undirected,1
+Alma,Ida,Undirected,2
+Alma,mr,Undirected,1
+Anna,Ida,Undirected,1
+Svend,Thorvald,Undirected,1
+Keiser,Keiserdømme,Undirected,1
+Napoleon,a,Undirected,1
+Keiseren,Zouav,Undirected,1
+Lydia äs Bretton,Zouav,Undirected,1
+Keiseren,Lydia äs Bretton,Undirected,1
+JZg,Keiseren,Undirected,1
+JZg,Keiser,Undirected,1
+Gabriel äs,Sara,Undirected,1
+Gabriel,äs,Undirected,1
+Saint-Remy,äs,Undirected,1
+Fanchette,SaintRemy,Undirected,1
+Georges,fenere,Undirected,1
+Fanchette,Krisis,Undirected,1
+Alma,sknn,Undirected,1
+Lydia,Lydia äs,Undirected,1
+Alma,Lydia äs,Undirected,1
+Hex,Lydia,Undirected,1
+Alma,Hex,Undirected,1
+Lazareth,Thorvald,Undirected,1
+Alma,Samuel,Undirected,2
+Alma,Eil,Undirected,1
+Ntand,Thorvald,Undirected,1
+Dn,Thorvald,Undirected,1
+Inat,Lydia,Undirected,1
+Aurelia,Gud,Undirected,7
+Hnn,fog,Undirected,1
+Adam,Gud,Undirected,2
+ivold,reis,Undirected,1
+Karl,dernæsf,Undirected,1
+Marion,reisfe den,Undirected,1
+Heisa,Marion,Undirected,1
+Alexis,Marion,Undirected,4
+Josef,næsfen,Undirected,1
+Joses,Lydia,Undirected,1
+Adam,Lydia,Undirected,1
+Lydia,dein,Undirected,1
+Dolken,Lydia,Undirected,1
+Køte,Lydia,Undirected,1
+Almr,Lydia,Undirected,1
+Lydia,ban,Undirected,1
+Lydia,jorte,Undirected,1
+Lydia,valte,Undirected,1
+Adam,Aurelia,Undirected,10
+Adam,Posf,Undirected,1
+Aurelia,Ore,Undirected,1
+Annette,Violplgen,Undirected,1
+Annette,Offre,Undirected,1
+John,Offre,Undirected,1
+Annette,Ore,Undirected,1
+John,tilhest,Undirected,1
+John,hau,Undirected,1
+Alma,hnn,Undirected,3
+Alma,Gud,Undirected,1
+j,k,Undirected,1
+Fanchette,Lydia slod Georges,Undirected,1
+Georges,Lydia,Undirected,3
+Karle,Lydia,Undirected,1
+Georges,Karle,Undirected,1
+-Marion,Marion,Undirected,2
+Lise,Marion,Undirected,1
+Alexis,Frank,Undirected,1
+Fanchette,Marion,Undirected,1
+,Marion,Undirected,1
+Fanchette Alma,Georges,Undirected,1
+Fanchette Alma,Thorvald,Undirected,1
+Alma,Georges,Undirected,1
+Gud,Lydia,Undirected,1
+sif,sinine,Undirected,1
+Alma,Fanchette,Undirected,1
+-Thorvald,Alma,Undirected,1
+Alma,slal sølges,Undirected,1
+Alma,miir,Undirected,1
+Georges,Thorvald,Undirected,1
+Alma,elffe,Undirected,1
+Lydia äs Bretton,Thorvald,Undirected,1
+Thorvald,ester,Undirected,1
+Aurelia,mell,Undirected,1
+Gud,jæg,Undirected,1
+Fanchette,Josef,Undirected,1
+Josef,Lydia reisfe,Undirected,1
+Lydia,offesf tom,Undirected,1
+Josef,Lhdia,Undirected,1
+Lydia Bretton,Paul,Undirected,1
+Lydia,Verdielle,Undirected,1
+Paul,Verdielle,Undirected,1
+Greven,Hain,Undirected,1
+Georges,freu,Undirected,1
+Hvo,Lydia,Undirected,1
+Greve,Lydia,Undirected,1
+Fanchette,Herr Smahl,Undirected,1
+Fanchette,Smahl,Undirected,2
+Georges,Smahl,Undirected,4
+Gud,Josef,Undirected,3
+Fanchette,hnn,Undirected,1
+Georges,Herr Smahl,Undirected,1
+Georges Valsry,Richard Brown,Undirected,2
+Herr Smahl,Richard Brown,Undirected,1
+Georges,Georges Valsry,Undirected,1
+Georges,hnn,Undirected,1
+Jldvandet,Lydia,Undirected,1
+Jldvandet,sfreg,Undirected,1
+Lydia,sfreg,Undirected,1
+Lydia,ff,Undirected,1
+Gud,Tomahawken,Undirected,1
+Hnn,Lydia,Undirected,1
+Lydia,lil,Undirected,2
+Lydia,Tomahawk,Undirected,1
+Josef,Paul ' Verdielle,Undirected,1
+Paul ' Verdielle,Thorvald,Undirected,1
+Ali,sif,Undirected,1
+Alma,Zigeunerinde,Undirected,1
+Hex,Zigeunersie,Undirected,1
+Mimi,Valsry,Undirected,1
+Alfons Valsrys,hnn,Undirected,1
+Alfons Valsrys,Norup,Undirected,1
+Norup,Valsry,Undirected,1
+Thorvald,Valsry,Undirected,1
+Alfons Valsrys,Alma,Undirected,1
+Thorvald,harl,Undirected,1
+Ore,Thorvald,Undirected,1
+Mathias,onl,Undirected,1
+Lisette,Mathias,Undirected,1
+Aurelia,Lisette,Undirected,2
+Gud,hnn,Undirected,1
+Athos,hnn,Undirected,1
+Aurelia,Fatter Adam,Undirected,1
+Athos,Fatter Adam,Undirected,1
+Athos,Lisette,Undirected,1
+Lydia,Nkys,Undirected,1
+Ten gamle,sif,Undirected,1
+Dands,Dandsen,Undirected,1
+Frank,karl,Undirected,1
+Dandsen,Frank,Undirected,1
+Aurelia,Marion,Undirected,1
+Gud,aarle,Undirected,1
+Aurelia,Kjør,Undirected,1
+,Georges,Undirected,1

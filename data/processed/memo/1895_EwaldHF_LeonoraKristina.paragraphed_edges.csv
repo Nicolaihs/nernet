@@ -1,0 +1,1018 @@
+source,target,type,weight
+Niels Krabbe,Otto Ludvig,Undirected,1
+Munks,Otto Ludvig,Undirected,1
+Niels,liun,Undirected,1
+Krabbe,Niels,Undirected,2
+Gud,Niels,Undirected,1
+Niels Krabbe,Tilly,Undirected,1
+Kirsten Munk,Niels Krabbe,Undirected,1
+Lykke,Qvitzovs,Undirected,1
+Pernille,Qvitzovs,Undirected,1
+Pernille Qvitzov,Sofie Elisabet,Undirected,2
+Anne Katrine,Sofie Elisabet,Undirected,1
+Anne Katrine,Leonora Kristina,Undirected,2
+Leonora,Marsvins,Undirected,1
+Leonora,Sofie Elisabet,Undirected,5
+Sofie Elisabet,Valdemar Kristian,Undirected,2
+Sofie Hedevig,Valdemar Kristian,Undirected,1
+Ernst Casimir,Sofie Hedevig,Undirected,1
+Anne Katrine,Leonora,Undirected,38
+Anne,Leonora,Undirected,26
+Leonora,Marie Katrine,Undirected,2
+Anne Katrine bluedes,Leonora,Undirected,1
+Leonora,stum,Undirected,2
+Leonora,Sofie,Undirected,6
+Elisabet,Sofie,Undirected,8
+Elisabet,Pernille,Undirected,2
+Frants,Leonora,Undirected,3
+Kristian Pentz,Sofie,Undirected,3
+Kristian Pentz,Leonora,Undirected,1
+Korfits Ulfeldt,Leonora,Undirected,1
+Jacob Ulfeldt,Korfits Ulfeldt,Undirected,1
+Frants Rantzau,Jacob Ulfeldt,Undirected,1
+Frants Rantzau,Ulfeldt,Undirected,4
+Leonora,Ulfeldt,Undirected,187
+Morits,Sofie Elisabet,Undirected,1
+Morits,Sofie,Undirected,1
+Anne,Morits,Undirected,4
+Gud,Leonora,Undirected,4
+Anne,Grev Morits,Undirected,1
+Leonora,Morits,Undirected,2
+Anne,Grev Wilhelm,Undirected,1
+Grev Wilhelm,Morits,Undirected,1
+Anne,Wilhelm,Undirected,1
+Anne Katrine,Vams,Undirected,1
+Marelokken,Vams,Undirected,1
+Anne Katrine,Ulrik,Undirected,1
+Korfits Ulfeldt,Ulrik,Undirected,1
+Frants Rantzau,Korfits Ulfeldt,Undirected,2
+Anne,Frants Rantzau,Undirected,1
+Anne,Lykke,Undirected,1
+Lykke,Sofie Elisabet,Undirected,1
+Anne Katrine,Ulfeldt,Undirected,19
+Leonora,Ulrik,Undirected,1
+Elisabet Augusta,Kristiane,Undirected,1
+Hedevig,Kristiane,Undirected,2
+Hedevig,Leonora,Undirected,3
+Saba,Ulfeldt,Undirected,1
+Kong Salomo,Ulfeldt,Undirected,1
+Kong Salomo,ban,Undirected,1
+Anne Katrine,Morits,Undirected,2
+Morits,Ulfeldt,Undirected,1
+Dorotea Elisabet,Korfits Ulfeldt,Undirected,1
+Kristian den,Vibeke Kruse,Undirected,1
+Kristian den,Vibeke-,Undirected,1
+Kruse,Vibeke-,Undirected,1
+Kruse,Marsvin,Undirected,1
+Marsvin,Vibeke Kruse,Undirected,1
+Vibeke,Vibeke Kruse,Undirected,3
+Marie,Marie van Stersan,Undirected,3
+Becker,Kirsten Munk,Undirected,1
+Lykke,Marie,Undirected,1
+Anna Lykke,Marie,Undirected,3
+Marie,Marie van Stersau,Undirected,1
+Gud,Monsieur Becker,Undirected,2
+Anna Lykke,Becker,Undirected,1
+Anna Lykke,Monsieur Becker,Undirected,1
+Anna Katarina,Rolf,Undirected,1
+Anna Katarina,Kristian Ulrik Gyldenløve,Undirected,2
+Karen Andersdatter,Kristian Ulrik Gyldenløve,Undirected,1
+Hans Ulrik Gyldenløve,Karen Andersdatter,Undirected,1
+Anna Lykke,Vibeke,Undirected,1
+Anna Lykke,Jomfru Vibeke,Undirected,1
+Gud,Jomfru Vibeke,Undirected,1
+Gud,Herren,Undirected,1
+Anne Katrine,Fader,Undirected,2
+Lykke,Sofie,Undirected,3
+Grev Valdemars,hans,Undirected,1
+Grev Valdemars,Hans von Lichtenberg,Undirected,1
+Lykke,hain,Undirected,1
+Karl,Volters,Undirected,3
+Ritmester,Volters,Undirected,1
+Karl,Sofie Elisabet,Undirected,1
+Markvard,Volters,Undirected,1
+Niels Krabbe,Ulrik,Undirected,1
+Anna Lykke,Niels Krabbe,Undirected,1
+Anna Lykke,Grev Valdemar Kristian.,Undirected,1
+Anna Lykke,Kasper,Undirected,1
+Anna Lykke,Graad,Undirected,1
+Kasper,Leonora,Undirected,1
+Leonora,Lykke,Undirected,2
+Iver Vind.,Lykke,Undirected,1
+Anna Lykke,Marsvin,Undirected,1
+Lichtenberg,Valdemar,Undirected,1
+Karen Sehested,Lykke,Undirected,1
+Karen Sehested,Tyge Kruses,Undirected,1
+Leonora,Tyge Kruses,Undirected,1
+Anne Katrine,Sofie,Undirected,2
+Pernille Qvitzov,Vibeke Kruse,Undirected,1
+Kristian den,Sofie Elisabet,Undirected,1
+Kristiane,Leonora,Undirected,1
+Elisabet Augusta,Hedevig,Undirected,1
+Elisabet Augusta,Pernille Qvitzov,Undirected,1
+Anne Katrine,Pernille Qvitzov,Undirected,1
+Pernille,Sofie,Undirected,1
+Elisabet,Leonora,Undirected,2
+Anne Katrine,Frants Rantzau,Undirected,5
+Frants Rantzau,Sofie,Undirected,1
+Kristian Pentz,Ulfeldt,Undirected,2
+Anne Katrine,Elisabet,Undirected,1
+Anne Katrine,Frants,Undirected,2
+Pernille Qvitzov,Sofie,Undirected,1
+Sofie,lille Kristianes,Undirected,1
+Leonora,lille Kristianes,Undirected,1
+Kirsten Munk,Vibeke,Undirected,2
+Ulrik Kristian Gyldenløve,Vibeke,Undirected,3
+Frants,Korfits,Undirected,1
+Korfits,k'rants,Undirected,1
+Rantzau,Ulfeldt,Undirected,10
+Anne Katrine,Rantzau,Undirected,1
+Frants Rantzau,Kirsten Munk,Undirected,1
+Kirsten Munk,Slegfredviv,Undirected,1
+Frants Rantzau,Slegfredviv,Undirected,1
+Ellen Marsvin,Frants Rantzau,Undirected,1
+Frants,Ulfeldt,Undirected,1
+Gud,Rantzau,Undirected,1
+Anne,Frants,Undirected,2
+Anne,Ulfeldt,Undirected,2
+Frants,Frants Rantzau,Undirected,1
+Frants,Rantzau,Undirected,1
+Frants Rantzau,Rantzau,Undirected,1
+Kristians,Prinsesse Magdalena Sibylla,Undirected,1
+Kristian,Prinsesse Magdalena Sibylla,Undirected,1
+Kristian Pentz,Sofie Elisabet,Undirected,2
+Kristian Pentz,Leonora Kristina,Undirected,1
+Kirsten Munk,Marie Elisabet,Undirected,1
+Kirsten Munk,Kristian Ulrik Gyldenløve,Undirected,1
+Kirsten Munk,Ulfeldt,Undirected,3
+Kristian,Ulfeldt,Undirected,8
+Kardinal Richelieu,Ludvig den,Undirected,1
+Ulfeldt,d’,Undirected,1
+Eders,Ulfeldt,Undirected,1
+Greven,Monsieur Gyldenløve,Undirected,1
+Johannes Meinecke,Leonora,Undirected,1
+Greven,Johannes Meinecke,Undirected,1
+Hannibal Sehested,Sehested,Undirected,3
+Greven,Monsieur Sehested,Undirected,1
+Kristian,Niels Krabbe,Undirected,1
+Frederik,Kristian,Undirected,1
+Kong Kristians,d’,Undirected,1
+Hannibal Sehested,Pan,Undirected,1
+Herkules,Pan,Undirected,2
+Herkules,Leonora Kristina,Undirected,1
+Leonora Kristina,Pan,Undirected,1
+Kristian Pentz,Pan,Undirected,1
+Herkules,Kristian Pentz,Undirected,1
+Elisabet Augusta,Merkurius,Undirected,1
+Gyldenløve,Sofie,Undirected,1
+d,lians,Undirected,1
+Charles Ogier,lians,Undirected,1
+Frederik,Leonora,Undirected,5
+Leonora,Urne,Undirected,1
+Ditlev Rewentlov,Urne,Undirected,1
+Frederik,Leonora Kristina,Undirected,1
+Leonora Kristina,Ulfeldt,Undirected,1
+Ole Vinds,Vibeke Kruse,Undirected,1
+Ulfeldt,Vibeke Kruse,Undirected,2
+Jørgen Vind,Ulfeldt,Undirected,3
+Otto Sperling,Ulfeldt,Undirected,2
+Hannibal Sehested,Ulfeldt,Undirected,9
+Hannibal Sehested,Jørgen Pentz,Undirected,1
+Jørgen Pentz,Ulfeldt,Undirected,1
+Frederik,Ulfeldt,Undirected,17
+Frederik,Sofie Amalie,Undirected,1
+Fyrstindes,Sofie Amalie,Undirected,1
+Fyrstindes,Ulfeldt,Undirected,1
+Ulfeldt,«,Undirected,1
+Vibeke Kruse,«,Undirected,1
+Kristian,Vibeke Kruse,Undirected,1
+Anne Katrine,Kristian,Undirected,6
+Leonora,Vibeke Kruse,Undirected,4
+Ulrik Kristian,Vibeke Kruse,Undirected,1
+Elisabet Sofie Gyldenløve,Ulrik Kristian,Undirected,1
+Frederik den,Jørgen Vind,Undirected,1
+Frederik den,Ulfeldt,Undirected,4
+Jørgen,Peder Vibe,Undirected,1
+Jørgen,Ulfeldt,Undirected,1
+Peder Vibe,Ulfeldt,Undirected,2
+Sundtold,Ulfeldt,Undirected,1
+Sundtold,kæphøjet,Undirected,1
+Peder,kæphøjet,Undirected,1
+Peder,Vibe,Undirected,1
+Sperling,Ulfeldt,Undirected,14
+Aleksander den,Julius Cæsars,Undirected,1
+Aleksander den,Julius Cæsar,Undirected,2
+Rolf,Ulfeldt,Undirected,1
+Sperling,sagde1-Ulfeldt,Undirected,1
+Roli,Sperling,Undirected,1
+Kaadmundethed,Ulfeldt,Undirected,1
+Jørgen Vind,Leonora,Undirected,1
+Niels Krabbe,Vibeke Kruse,Undirected,1
+Niels Krabbe,Ulfeldt,Undirected,1
+Leonora,Vibeke,Undirected,9
+Jørgen Vind,Vibeke,Undirected,1
+Jørgen Vind,Sperling,Undirected,1
+Ulrik,Vibeke,Undirected,1
+Jørgen,Vibeke,Undirected,1
+Niels Krabbe,Ulrik Gyldenløve,Undirected,1
+Kaspar von Buchwald,Niels Krabbe,Undirected,1
+Kaspar,Kaspar von Buchwald,Undirected,1
+Buchwald,Torstenson,Undirected,2
+Buchwald,Ulfeldt,Undirected,2
+Kaspar,Ulfeldt,Undirected,2
+Leonora Kristina,Vibeke,Undirected,1
+Leonora,Sperling,Undirected,15
+Buchwald,Pentz,Undirected,1
+Torstenson,Ulfeldt,Undirected,2
+Buchwald,Gallas,Undirected,1
+Frederik,Torstenson,Undirected,1
+Leonora,signe,Undirected,1
+Buchwald,Kaspar,Undirected,1
+Admiral Klas Flemming,Wrangel,Undirected,1
+Marv,Sehested,Undirected,1
+Marv,Ulfeldt,Undirected,1
+Ebbe Ulfeldt,Ulfeldt,Undirected,3
+Ebbe Ulfeldt,Hedevig,Undirected,2
+Hedevig,Sehested,Undirected,1
+Ebbe Ulfeldt,Sehested,Undirected,1
+Hannibals,Kristen Thomsen Sehested,Undirected,1
+Hannibals,Ulfeldt,Undirected,1
+Sehested,Ulfeldt,Undirected,11
+Sofie Elisabet,Sofie Elisabet Pentz,Undirected,1
+Hans Resen,Jesper Brochmand,Undirected,1
+Hans Resen,Laurits Scavenius,Undirected,1
+Laurits Scavenius,Sofie Elisabet,Undirected,1
+Sofie,Sofie Elisabet,Undirected,1
+Elisabet,Ulfeldt,Undirected,5
+Hannibal Sehested,Leonora,Undirected,2
+Hannibal,Sehested,Undirected,2
+Hannibal,Ulfeldt,Undirected,1
+Korfits,Kristen Sehested,Undirected,1
+Elisabet,Vibeke Kruse,Undirected,1
+Elisabet,Klaus Ahlefeldt,Undirected,3
+Elisabet,Kirsten Munk,Undirected,1
+Erue,Leonora,Undirected,1
+Erue,Frederik,Undirected,1
+Leo,Leonora,Undirected,8
+Leo,Ulfeldt,Undirected,1
+Sofie Elisabet,Ulfeldt,Undirected,5
+Sofie Elisabet,Vibeke Kruse,Undirected,2
+Kusk,Sofie Elisabet,Undirected,1
+Kusk,Vibeke,Undirected,1
+Hans Lindenow,Sofie Elisabet,Undirected,1
+Hans Lindenow,Leonora,Undirected,1
+Elisabet Augusta,Leonora,Undirected,1
+Elisabet Augusta,Ulfeldt,Undirected,1
+Leonora,Lindenows,Undirected,1
+Lindenows,Ulfeldt,Undirected,1
+Leonora,Marsvin,Undirected,1
+Kogsbølle,Ulfeldt,Undirected,1
+Dronning Margretes,Ulfeldt,Undirected,1
+Dronning Margretes,Jacob Ulfeldt,Undirected,1
+Jacob Ulfeldt,Leonora,Undirected,1
+Oldemoders,Ulfeldt,Undirected,1
+Ludvig Munks,Otto Knudsen Seeblad,Undirected,1
+Knud Rud,Ludvig Munks,Undirected,1
+Knud Rud,Knud kaldet,Undirected,1
+Knud kaldet,Otto Seeblad,Undirected,1
+Otto Seeblad,Vibeke Kruse,Undirected,1
+Elisabet,Jesper Fris,Undirected,1
+Helvig Marsvin,Jesper Fris,Undirected,1
+Helvig Marsvin,Sofie Brahe,Undirected,1
+Munks,Sofie Brahe,Undirected,1
+Kirsten Munk,Munks,Undirected,1
+Hans Lindenow,Ulfeldt,Undirected,2
+Hans Lindenow,Sigvard Urne,Undirected,2
+Sigvard Urne,Ulfeldt,Undirected,1
+Ellensborg,Ulfeldt,Undirected,4
+Sigvard Urne,Sofie Pentz,Undirected,1
+Elisabet Lindenow,Sofie Pentz,Undirected,1
+Elisabet Lindenow,Ulfeldt,Undirected,1
+Jesper Fris,Ulfeldt,Undirected,1
+Jesper Fris,Kay,Undirected,1
+Gud,Kay,Undirected,2
+Kay,Lykke,Undirected,1
+Jesper Fris,Leonora.-,Undirected,1
+Anne Katrine,Kay Lykke,Undirected,4
+Jesper Fris,Leonora,Undirected,1
+Ulfeldt,lille Leo,Undirected,2
+Elisabet,Sofie Brahe,Undirected,1
+Leonora,Sofie Brahe,Undirected,2
+Leonora,sigat,Undirected,1
+Hans Lindenov,sigat,Undirected,1
+Hans Lindenov,Sigvard Urne,Undirected,1
+Kay Lykke,Sigvard Urne,Undirected,1
+Kay,Ulfeldt,Undirected,2
+Kay,Leonora,Undirected,5
+Anne Katrine Ulfeldt,Kay,Undirected,1
+Jesper Fris,Tilly,Undirected,1
+Jesper,Tilly,Undirected,1
+Jesper,Jesper Fris,Undirected,1
+Elisabet,Gud,Undirected,2
+Jesper,Ulfeldt,Undirected,1
+Hans Lindenov,Korfits,Undirected,1
+Hans Lindenov,Ulfeldt,Undirected,3
+Kay Lykke,Leonora,Undirected,1
+Anne,Kay,Undirected,9
+Kay,Sofie,Undirected,1
+Bedstefader,Sofie,Undirected,1
+Anne Katrine,Du Pont,Undirected,1
+Gud,Pont,Undirected,1
+Gud,Kristian,Undirected,2
+Oldemoder,Ulfeldt,Undirected,1
+Kristian,Leonora,Undirected,13
+Rolf,Vibeke Kruse,Undirected,1
+Rolf,Vibeke,Undirected,2
+Vibeke,stræbte,Undirected,1
+Ulfeldt,Vibeke,Undirected,4
+Kristen Thomsen Sehested,Ulfeldt,Undirected,1
+Hannibal Sehested,Kristen Thomsen Sehested,Undirected,1
+Frederik,Hannibal Sehested,Undirected,2
+.,Ulfeldt,Undirected,1
+Sehested,Vibeke,Undirected,3
+Hannibal Sehested,Vibeke,Undirected,1
+Hannibal,Vibeke,Undirected,1
+Gud,Sehested,Undirected,2
+Lise,Sehested,Undirected,1
+Frederik,Sehested,Undirected,2
+Kristian,lians,Undirected,1
+Hans Lindenov,Kong Kristians,Undirected,1
+Leonora,Sofie Amalie,Undirected,9
+Graad,Ulfeldt,Undirected,1
+Graad,vatnu,Undirected,1
+Ulfeldt,vatnu,Undirected,1
+Oluf Daa,Ulfeldt,Undirected,1
+Kay Lykke,Oluf Daa,Undirected,2
+Kay Lykke,Ulfeldt,Undirected,3
+Elisabet Gyldenløve,Herren,Undirected,1
+Anne Katrine,Vibeke,Undirected,1
+Safir,Ulfeldt,Undirected,1
+Frederik den,Kristian den,Undirected,1
+Hans,Kristian den,Undirected,1
+Adolf,Hans,Undirected,1
+Adolf,Iver Rewentlov,Undirected,1
+HertugHans,Iver Rewentlov,Undirected,1
+Adolf,HertugHans,Undirected,1
+Adolf,Kristian,Undirected,1
+Ulfeldt,dqg,Undirected,1
+Elisabet,Vibeke,Undirected,1
+Klaus Ahlefeldt,Ulrik Kristian Gyldenløve,Undirected,1
+Kong Kristians,Ulrik Kristian Gyldenløve,Undirected,1
+Kong Kristians,Ulfeldt,Undirected,5
+Ulfeldt,Valdemar Kristian,Undirected,1
+Frederik,Valdemar Kristian,Undirected,1
+Frederik den,Sofie Amalie,Undirected,1
+Sofie Amalie,Ulfeldt,Undirected,4
+Kay Lykke,Sofie Amalie,Undirected,1
+Kay Lykke,Vibeke,Undirected,1
+Kay,Ulrik Kristian Gyldenløve,Undirected,1
+Gyldenløve,Kay,Undirected,1
+Gyldenløve,Ulfeldt,Undirected,1
+Kaspar Herbach,Kristian den,Undirected,1
+Herbach,Kaspar Herbach,Undirected,1
+Herbach,Sperling,Undirected,2
+Anne Katrine,Sperling,Undirected,3
+Anne Katrine,Kaspar,Undirected,1
+Kristian den,Leonora,Undirected,3
+Kirsten Munk,Kristian den,Undirected,1
+Kaspar,Leonora,Undirected,1
+Herbach,Leonora,Undirected,4
+Gud,Herbach,Undirected,1
+Herbach,Safir,Undirected,1
+Anne Katrine,Herbach,Undirected,1
+Graad,Leonora,Undirected,1
+Sofie Amalie,Sperling,Undirected,1
+Gud,Sofie Amalie,Undirected,1
+Leonora,Leonora Sofie,Undirected,3
+Leonora Sofie,Ulfeldt,Undirected,1
+Kristoffer Gabe,Ulfeldt,Undirected,1
+Gabel,Ulfeldt,Undirected,1
+Kong Kristians,Leonora,Undirected,1
+Joakim Gersdorff,Ulfeldt,Undirected,3
+Leonora,Vilhelmine Ernestines,Undirected,1
+Ulfeldt,Vilhelmine Ernestines,Undirected,1
+David Skomagers,Dina Vinhofers,Undirected,1
+Leonora,Sofie Elisabet Pentz,Undirected,1
+Hvitfeldt,Sofie Elisabet Pentz,Undirected,1
+Hvitfeldt,Oluf Daa,Undirected,1
+Dina Vinhofers,Leonora,Undirected,3
+Dina,Leonora,Undirected,11
+Dina,Mikkel Langemak,Undirected,1
+Dina,Simon,Undirected,2
+Hennings,Leonora,Undirected,1
+Hennings,Ulfeldt,Undirected,1
+Jørgen Walter,Simon,Undirected,1
+Rendsborgs,Walters,Undirected,1
+Rendsborgs,Walter,Undirected,1
+Ulfeldt,Walter,Undirected,16
+Dina,Ulfeldt,Undirected,32
+Dina,Leo,Undirected,1
+Flemming,Ulfeldt,Undirected,1
+Bjørn Ulfeldt,Flemming,Undirected,1
+Bjørn Ulfeldt,Ulfeldt,Undirected,1
+Dina,Walter,Undirected,10
+Dina Vinhofers,Ulfeldt,Undirected,1
+Leonora,Walter,Undirected,1
+Blaataarn,Dina,Undirected,1
+Dina Vinhofers,Gud,Undirected,1
+Gud,Ulfeldt,Undirected,3
+,Kay Lykke,Undirected,1
+,Ulrik Gyldenløve,Undirected,1
+Ulrik Gyldenløve,Walter,Undirected,1
+Kay Lykke,Sperling,Undirected,1
+Anne Katrine,Dina,Undirected,1
+Graad,Walter,Undirected,1
+Kjeld Friis,Ulfeldt,Undirected,1
+Kjeld Friis,Simon,Undirected,1
+Gud,Simon,Undirected,1
+Anne Katrine,Kay,Undirected,3
+Albert Skeel,Kay,Undirected,1
+Albert Skeel,tieres,Undirected,1
+Kay,Kay Lykke,Undirected,1
+Anne,Kay Lykke,Undirected,2
+Oluf Brokkenhus,Ulfeldt,Undirected,2
+Anker,Ulfeldt,Undirected,2
+Spaadom,Ulfeldt,Undirected,1
+Gustav Adolfs,Kristina,Undirected,1
+Klas Tott,Kristoffer Dohna,Undirected,1
+Dohna,Klas Tott,Undirected,2
+Dohna,Kristina,Undirected,1
+Kristina,Straa,Undirected,1
+Karl Gustav,Straa,Undirected,1
+Karl Gustav,Klas Tott,Undirected,2
+Erik den,Klas Tott,Undirected,1
+Erik den,Sigrid Vasa,Undirected,1
+Juel,Korfits Ulfeldt,Undirected,1
+Dohna,Eders,Undirected,1
+Dohna,Walter,Undirected,1
+Juel,Ulfeldt,Undirected,18
+Satans,Ulfeldt,Undirected,1
+Gud,Satans,Undirected,1
+Dina,Juel,Undirected,1
+Dohna,Klas,Undirected,6
+Dohna,Tott,Undirected,4
+Anne Katrine,Dohna,Undirected,6
+Anne Katrine,Tott,Undirected,1
+Frøken Leonora,Ulfeldt,Undirected,1
+Ebba Sparre,Jakob Kasimir de la Gardie,Undirected,1
+Jakob Kasimir de la Gardie,Kristina,Undirected,1
+Dohna,Juel,Undirected,1
+Peder Juel,Ulfeldt,Undirected,8
+Kong Frederik,Leonora,Undirected,4
+Kong Frederik,Ulfeldt,Undirected,13
+Lars,Ulfeldt,Undirected,3
+Løvenklou,Ulfeldt,Undirected,1
+Løvenklou,Schrøder,Undirected,1
+Antoni,Schrøder,Undirected,2
+Antoni,Ulfeldt,Undirected,2
+Frøken Leonora,Lars,Undirected,1
+Anne,Frøken Leonora,Undirected,1
+Leonora,Peter Henriksen,Undirected,1
+Lars,Peter Henriksen,Undirected,1
+Lars,Peter,Undirected,5
+,Lars,Undirected,1
+,Peter,Undirected,1
+Hr. Korfits,Peter,Undirected,1
+Frøken Leonoras Page,Lars,Undirected,1
+Frøken Leonoras Page,Juel,Undirected,1
+Korfits,Kristian,Undirected,1
+Korfits,Ludvig,Undirected,2
+Ellen Kristina,Ludvig,Undirected,1
+Ellen Kristina,Leonora Sofia,Undirected,1
+Leonora Sofia,Peter Rock,Undirected,1
+Peter Rock,Ulfeldt,Undirected,1
+Kirsten Munk,lille Leo,Undirected,1
+Ebbe,Gud,Undirected,2
+Ebbe,Hedevig,Undirected,1
+,Ebbe Ulfeldt,Undirected,1
+,Leonora,Undirected,4
+Frøken Hedevig,Leonora,Undirected,1
+Anne Katrine,Frøken Hedevig,Undirected,1
+Maria Eufrosyna,Ulfeldt,Undirected,2
+Karl Gustav,Maria Eufrosyna,Undirected,1
+Karl Gustav,Magnus de la Gardie,Undirected,1
+Ebbe Ulfeldt,Frøken Hedevig,Undirected,1
+Ebbe Ulfeldt,Leonora,Undirected,1
+Ebbe,Ulfeldt,Undirected,5
+Ebbe,Martin Soop,Undirected,1
+Ebbe,Peder Juel,Undirected,1
+Anne Katrine,Ebbe,Undirected,2
+Salmasius,Ulfeldt,Undirected,1
+Ebbe,Saumaise,Undirected,1
+Grev Magnus,Gustav Adolf,Undirected,1
+Gustav Adolf,Karl Gustav,Undirected,1
+Karl Gustav,Katarina,Undirected,1
+Hedevig,Ulfeldt,Undirected,1
+Anne,Anne Katrine,Undirected,7
+Ebbe,Leonora,Undirected,1
+Ebbe,Johan Casimir,Undirected,1
+Johan Casimir,Kong Frederik,Undirected,1
+Kong Frederik,Radziejovsky,Undirected,1
+Radziejovsky,Ulfeldt,Undirected,3
+Magnus de la Gardie,Ulfeldt,Undirected,1
+Magnus de la Gardie,Oxenstjernas,Undirected,1
+Magnus,Oxenstjernas,Undirected,1
+Kristina,sagde-Leonora,Undirected,1
+Ebbe,Pierre Bourdelot,Undirected,1
+Ebbe,Karl,Undirected,1
+Dronning Kristina,Leonora,Undirected,3
+Ebbe,Jakob de la Gardie,Undirected,1
+Ebba Sparre,Jakob de la Gardie,Undirected,1
+Ebba Sparre,Sahnasius,Undirected,1
+Sahnasius,Salmasius,Undirected,1
+Ebba Sparre,Salmasius,Undirected,1
+Ebba Sparre,Komtessen,Undirected,3
+Komtessen,Salmasius,Undirected,1
+Bourdelot,Ebbe,Undirected,1
+Bourdelot,Ulfeldt,Undirected,10
+Johan Giinzel,Ulfeldt,Undirected,1
+Johan Giinzel,Schrøder,Undirected,1
+Birger Jarls,Ulfeldt,Undirected,2
+Kong Frederik,Kristina,Undirected,1
+Kristina,Ulfeldt,Undirected,9
+Grev Tott,Ulfeldt,Undirected,1
+Dohna,Grev Tott,Undirected,1
+Dohna,Ulfeldt,Undirected,1
+Martin Soop,Ulfeldt,Undirected,1
+Dohna,Martin Soop,Undirected,1
+Anne'Katrine,Dohna,Undirected,1
+Ulfeldt,bjærge,Undirected,1
+Gud,Radziejovsky,Undirected,1
+Daarers,Gud,Undirected,1
+Erik Linde,Ulfeldt,Undirected,1
+Bourdelot,Peder Juel,Undirected,1
+Linde,Peder Juel,Undirected,1
+Linde,Ulfeldt,Undirected,1
+Gustav Adolf,Ulfeldt,Undirected,4
+Dronning Kristina,Kristina,Undirected,1
+Dronning Kristina,Ulfeldt,Undirected,5
+Aleksander,Cæsar,Undirected,1
+Gustav Adolf,Sahnasius,Undirected,1
+Bourdelot,Sahnasius,Undirected,1
+Juel,Kong Frederik,Undirected,1
+Karl Gustav,Ulfeldt,Undirected,1
+Johan Kasimir,Radziejovsky,Undirected,2
+Leonora,Martin Soop,Undirected,4
+Anne Katrine,Martin Soop,Undirected,2
+Anneke,Leonora,Undirected,3
+Anneke,Peter Henriksen,Undirected,2
+Anneke,Peter,Undirected,2
+Peter,Ulfeldt,Undirected,6
+Anneke,Ulfeldt,Undirected,1
+Anneke,Kristina,Undirected,1
+Anneke,Husbond,Undirected,1
+Anneke,Gud,Undirected,2
+Anne,Anneke,Undirected,7
+Anneke,Kay Lykke,Undirected,1
+Anneke,Klas,Undirected,1
+Klas,Leonora,Undirected,2
+Dohna,Leonora,Undirected,5
+Anne Katrine,Klas,Undirected,6
+Anne,Dohna,Undirected,6
+Anne,Klas,Undirected,8
+Kay Lykke,Klas,Undirected,1
+Kay Lykke,Kristoffer Dohna,Undirected,1
+Kay,Kristoffer Dohna,Undirected,1
+Kay,Sigrid Vasa,Undirected,1
+Anne Katrine,Ebba Brahe,Undirected,1
+Ebba Brahe,Klas,Undirected,1
+Anne Katrine,Komtessen,Undirected,1
+Anne Katrine,Ebba Sparre,Undirected,4
+Bourdelot,nings,Undirected,1
+Birger Jarls,Bourdelot,Undirected,1
+Grev Tott,Leonora,Undirected,2
+Tott,Ulfeldt,Undirected,1
+Jakob de la Gardie,Ulfeldt,Undirected,1
+Jakob de la Gardie,Martin Soop,Undirected,1
+Bourdelot,Soop,Undirected,1
+Bourdelot,Tott,Undirected,2
+Soop,Tott,Undirected,1
+Dohna,Peter,Undirected,1
+Leonora,Peter,Undirected,4
+Anneke,Dohna,Undirected,1
+Anne,Kristoffer Dohna,Undirected,1
+Anne,Gud,Undirected,3
+Anne,Fader,Undirected,1
+Fader,Gud,Undirected,1
+Philip den Fjerdes,Ulfeldt,Undirected,1
+Antonio Pimentelli,Philip den Fjerdes,Undirected,1
+Antonio Pimentelli,Maria Eleonora,Undirected,1
+Maria Eleonora,Pimentelli,Undirected,1
+Kristina,Pimentelli,Undirected,4
+Pimentelli,Ulfeldt,Undirected,3
+Anne Katrine,Dronning Kristina,Undirected,2
+Gustav Adolf,Kristina,Undirected,1
+Axel Oxenstjerna,Kristina,Undirected,2
+Elisabet,Kristina,Undirected,1
+Axel Oxenstjerna,Gustav Adolf,Undirected,1
+Axel Oxenstjerna,Peder Juel,Undirected,1
+Leonora,Peder Juel,Undirected,1
+Katrine og,Leonora,Undirected,1
+Hedevig,Katrine og,Undirected,1
+Peder Juel,Pimentelli,Undirected,1
+Amarantha,Pimentelli,Undirected,1
+Amarantha,Ebba Sparre,Undirected,1
+Ebba Sparre,Venus,Undirected,1
+Ebba,Venus,Undirected,1
+Ebba,Pimentelli,Undirected,1
+Klas Tott,Pimentelli,Undirected,1
+Klas Tott,Mars,Undirected,1
+,Mars,Undirected,1
+,Gustav Vasa,Undirected,1
+Gustav Vasa,Klas,Undirected,1
+Klas,Tott,Undirected,4
+Gustav Vasa,Tott,Undirected,1
+Ebba Sparre,Klas,Undirected,3
+Ebba Sparre,Grev Tott,Undirected,1
+Grev Tott,Radziejovsky,Undirected,1
+,Radziejovsky,Undirected,1
+Gustav,Karl den Tiende,Undirected,1
+Leonora,lians,Undirected,1
+Maria Eufrosyna,lians,Undirected,1
+Anne Katrine,Maria Eufrosyna,Undirected,1
+Ebba Sparre,Leonora,Undirected,1
+Anne,Ebba Sparre,Undirected,1
+Anne,Ebba,Undirected,2
+Ebba Sparre,Tott,Undirected,1
+Jakob,Komtessen,Undirected,1
+Ebba Sparre,Eders,Undirected,1
+Dohna,Jomfru Anne,Undirected,1
+Dohnas Kaarde,Klas,Undirected,1
+Anne Katrine,Klas Tott,Undirected,2
+Anne Katrine,Pimentelli,Undirected,1
+Anne Katrine,Komtesse,Undirected,1
+Ebba,Komtesse,Undirected,1
+Ebba,Villumsen,Undirected,1
+Komtessen,Villumsen,Undirected,2
+Pimentelli,Villumsen,Undirected,1
+Amarantha,Villumsen,Undirected,1
+Amarantha,Kristina,Undirected,1
+Dronning Kristina,Pimentelli,Undirected,1
+Anne,Komtessen,Undirected,1
+Bourdelot,Pimentelli,Undirected,2
+Klas,Pimentelli,Undirected,1
+Bourdelot,Klas,Undirected,1
+Bourdelot,Magnus de,Undirected,1
+Magnus,Magnus de,Undirected,1
+Klas,Magnus,Undirected,1
+Bourdelot,Leonora,Undirected,1
+Frederik den,Joakim Gersdorff,Undirected,1
+Kristina,Sofie Amalie,Undirected,1
+Admiral Wrangel,Pimentelli,Undirected,1
+Admiral Wrangel,Ulfeldt,Undirected,2
+Barth,Ulfeldt,Undirected,7
+Ebba Sparre,Martin Soop,Undirected,1
+Anne Katrine stræbte,Klas Tott,Undirected,1
+Anne Katrine stræbte,Peder Bock,Undirected,1
+Kristian,Peder Bock,Undirected,1
+Klas Tott,Kristian,Undirected,1
+Jærn,Ulfeldt,Undirected,1
+Jærn,Oliver Cromwells,Undirected,1
+Oliver Cromwells,Sir Bulstrode Whiteloke,Undirected,1
+Sir Bulstrode Whiteloke,Ulfeldt,Undirected,1
+Sir Whiteloke,Ulfeldt,Undirected,1
+Sir Whiteloke,Whiteloke,Undirected,1
+Ulfeldt,Whiteloke,Undirected,1
+Frederik den,Karl,Undirected,1
+Karl,Ulfeldt,Undirected,6
+Cromwell,Ulfeldt,Undirected,2
+Montroses,Ulfeldt,Undirected,4
+Juel,Kristina,Undirected,1
+Leonora,Montroses,Undirected,1
+Barth,Juel,Undirected,1
+Frederik,Juel,Undirected,1
+Montroses,Peder Juel,Undirected,1
+Juel,Tungel,Undirected,5
+Juel,Lars,Undirected,2
+Lars,Tungel,Undirected,1
+Tungel,Ulfeldt,Undirected,3
+Oxenstjerna,Ulfeldt,Undirected,1
+Juel,Oxenstjerna,Undirected,1
+Kong Kristian den Fjerdes,Ulfeldt,Undirected,1
+Klas,Ulfeldt,Undirected,3
+Gustav den,Kristina,Undirected,1
+Ber Brahe,Ulfeldt,Undirected,1
+Karl Gustav,Kong Karl,Undirected,1
+Karl Gustav,Linde,Undirected,1
+Linde,Pimentelli,Undirected,1
+Admiral Wrangel,Wrangel,Undirected,1
+/Evret,Ulfeldt,Undirected,1
+Dronning Kristina,Juel,Undirected,1
+Kristina,Leonora,Undirected,2
+Kong Karl,Kristina,Undirected,1
+Droiyiing Kristina,Ulfeldt,Undirected,1
+Droiyiing Kristina,Hedevig Eleonora,Undirected,1
+Hedevig Eleonora,Ulfeldt,Undirected,1
+Leonora,lille Leo,Undirected,1
+Sofie Elisabet,lille Leo,Undirected,1
+Pentz,Sofie Elisabet,Undirected,1
+Kristian,Pentz,Undirected,1
+Anne Katrine,Kristian Ulfeldts,Undirected,1
+Anne,Kristian Ulfeldts,Undirected,1
+Anne,Dronning Kristina,Undirected,1
+Anne,Kristian,Undirected,3
+Dohna,Kristian,Undirected,1
+Leonora,Maria Eufrosyna,Undirected,2
+Kong Kristian den Fjerde,Leonora,Undirected,2
+Anne Katrine,Kong Kristian den Fjerde,Undirected,1
+Klas Tott,Tott,Undirected,1
+Anne,Gustav Adolf,Undirected,1
+Kong Karl,frank,Undirected,1
+Hedevig,frank,Undirected,1
+Jomfru Anne,Klas,Undirected,1
+Klas,lians,Undirected,1
+Anne,lians,Undirected,1
+Anne,Kristina,Undirected,1
+Klas,Kristina,Undirected,1
+Anne,Grev Tott,Undirected,2
+Anne,Bellona,Undirected,2
+Alen,Bellona,Undirected,1
+Alen,Kristian,Undirected,1
+Klas,Kristian,Undirected,1
+Folen,Karl,Undirected,1
+Folen,Klas,Undirected,1
+Aland Klas Tott,Klas,Undirected,2
+Erik Dahlberg,Klas,Undirected,1
+Kristian,Leo,Undirected,3
+Leo,Ludvig,Undirected,1
+Barth,Leonora,Undirected,4
+Ulrik Kristian Gyldenløve,Vibeke Kruse,Undirected,1
+Sperling,Ulrik Kristian Gyldenløve,Undirected,1
+Kong Karl,Ulfeldt,Undirected,14
+Kong Kart,Ulfeldt,Undirected,1
+Kong Karl,Leonora,Undirected,5
+Anne Katrine,Ellen Kristine,Undirected,2
+Ellen Kristine,Leonora Sofie,Undirected,3
+Anne,Peter Henriksen,Undirected,1
+Anne,Peter,Undirected,1
+Anne Katrine,Ellen,Undirected,1
+Leonora Sofie,Peter,Undirected,1
+Ellen,Leonora,Undirected,2
+Leonora,lille Leonora,Undirected,1
+Anne,lille Leonora,Undirected,1
+Gud,Peter,Undirected,1
+Anne,Barth,Undirected,1
+Jakob de la Gardie,Schlippenbach,Undirected,1
+Ebba Sparre,Schlippenbach,Undirected,1
+Gud,Jakob,Undirected,1
+Jakob,Schlippenbach,Undirected,3
+Kong Karl,Schlippenbach,Undirected,4
+Schlippenbach,Ulfeldt,Undirected,5
+Jakob de la Gardie,Karl,Undirected,1
+Jakob de la Gardie,Komtesse Ebbas,Undirected,1
+Barth,Komtesse Ebbas,Undirected,1
+Jakob,Ulfeldt,Undirected,3
+Jakob,Kong Karl,Undirected,1
+Jakob,Kong Frederik,Undirected,1
+Kong Frederik,Schlippenbach,Undirected,1
+Die,Jakob,Undirected,1
+Barth,Schlippenbach,Undirected,1
+Barth,Jakob,Undirected,1
+Leonora,Schlippenbach,Undirected,1
+Greve,Leonora,Undirected,1
+Karl,Leonora,Undirected,3
+Barth,Karl,Undirected,1
+Gustav Wrangel,Ulfeldt,Undirected,1
+Anders Bille,Gustav Wrangel,Undirected,1
+Anders Bille,Kristian Albrecht,Undirected,1
+Kristian Albrecht,Ulfeldt,Undirected,1
+Johan Kasimir,Ulfeldt,Undirected,1
+Anders Bille,Wrangel,Undirected,1
+Frederiksoddes,Kong Karl,Undirected,1
+Anders Bille,Frederiksoddes,Undirected,1
+Anders Bille,Ulfeldt,Undirected,1
+Kong Frederik,Kong Karl,Undirected,2
+Kristian Ulfeldt,Leonora,Undirected,1
+Klas Tott,Leonora,Undirected,1
+Erik Dahlberg,Klas Tott,Undirected,2
+Erik Dahlberg,Tott,Undirected,1
+Dahlberg,Tott,Undirected,2
+Dahlberg,Kristian,Undirected,2
+Anne,Kong Karl,Undirected,1
+Anne Ulfeldts,Kong Karl,Undirected,1
+Anne,Anne Ulfeldts,Undirected,1
+Dahlberg,Klas Tott,Undirected,4
+Karl,Lennart Torstenson,Undirected,1
+Wrangel,hans,Undirected,1
+Iversnæs,Kristian,Undirected,1
+Iversnæs,Ulfeldt,Undirected,1
+Ulfeldt,livor,Undirected,1
+Erik Dahlberg,Kong Karl,Undirected,1
+Dahlberg,Kong Karl,Undirected,1
+Ulfeldt,Wrangel,Undirected,4
+Klas Tott,Wrangel,Undirected,1
+Gud,Wrangel,Undirected,1
+Frederik«,Joakim Gersdorff,Undirected,1
+Joakim Gersdorff,Kristen Skeel,Undirected,1
+Gersdorffs,Kristen Skeel,Undirected,1
+Gersdorffs,Kong Karl,Undirected,1
+Kong Karl,Sir Philip Meadow,Undirected,2
+Kong Frederik,Sir Meadow,Undirected,1
+Spiddelys,Wrangel,Undirected,1
+Kong Karl,Peter Coyet,Undirected,1
+Frederik,Frederik Skaane,Undirected,1
+Coyets,Wrangel,Undirected,1
+Rutger Ascheberg,Wrangel,Undirected,1
+Ascheberg,Kong Frederik,Undirected,1
+Kong Frederik,Wrangel,Undirected,1
+Grev Klas,Klas,Undirected,1
+Grev Klas,Tott,Undirected,1
+Ascheberg,Wrangel,Undirected,2
+Ascheberg,Ulfeldt,Undirected,1
+Ascheberg,Klas,Undirected,1
+Haan,Ulfeldt,Undirected,1
+Frederik,Haan,Undirected,1
+Grev Tott,Kong Eriks,Undirected,1
+Kong Eriks,Kong Karl den Niendes,Undirected,1
+Kong Karl,Sten Bjelke,Undirected,1
+Joakim Gersdorff,Sten Bjelke,Undirected,1
+Frederik,Kong Karl,Undirected,1
+Jørgen Seefeldt,Ulfeldt,Undirected,1
+Gud,Kong Karl,Undirected,1
+Karl den Niendes,Sigrid Vasa,Undirected,1
+Karl,Karl den Niendes,Undirected,1
+Klas Tott,Kong Frederik,Undirected,1
+Karl,Kong Frederik,Undirected,1
+Karl,Kong Karl,Undirected,1
+Barth,Kong Karl,Undirected,1
+Bartolomæus Mikkelsen,Ulfeldt,Undirected,2
+Bartolomæus Mikkelsen,Frederik,Undirected,1
+Bartolomæus,Ulfeldt,Undirected,3
+Bartolomæus,Trolle,Undirected,1
+Trolle,Ulfeldt,Undirected,1
+Dronning Hedevig,Ulfeldt,Undirected,1
+Ebba Sparre,Jakob,Undirected,1
+Leonora,Muhamed,Undirected,1
+Komtessen,Ulfeldt,Undirected,1
+Bartolomæus Mikkelsen,Leonora,Undirected,1
+Schack,Stenbock,Undirected,1
+Karl den Ellevte,Ulfeldt,Undirected,1
+Anne Katrine,Barth,Undirected,2
+Skaanes,Ulfeldt,Undirected,1
+Grev Stenbock,Skaanes,Undirected,1
+Grev Stenbock,Leonora,Undirected,1
+Stenbock,Ulfeldt,Undirected,2
+Hedevig Eleonora,Leonora,Undirected,1
+Hannibal Sehested,Kong Karl,Undirected,1
+Hannibal Sehested,Nemesis,Undirected,1
+Peter Pfliigge,Ulfeldt,Undirected,6
+Leonora,Peter Pfliigge,Undirected,2
+Peter,Peter Pfliigge,Undirected,1
+Birgitte,Leonora,Undirected,10
+Frants Speckhan,Leonora,Undirected,1
+Frants Speckhan,Ulfeldt,Undirected,1
+Birgitte,Ulfeldt,Undirected,8
+Speckhan,Ulfeldt,Undirected,4
+Birgitte,Speckhan,Undirected,1
+Frederik,Gud,Undirected,1
+Leonora,Speckhan,Undirected,2
+Birgitte,Frants,Undirected,2
+Speckhan,Trolle,Undirected,1
+Leonora,Trolle,Undirected,1
+Ditlev Rantzau,Leonora,Undirected,1
+Madam,Rantzau,Undirected,1
+Maal,Rantzau,Undirected,1
+Adolf Fuchs,Korfits Ulfeldt,Undirected,1
+Fuchs,Ulfeldt,Undirected,14
+Fuchs,Leonora,Undirected,16
+Fuchs,Rantzau,Undirected,2
+Leonora,Rantzau,Undirected,1
+Katrine Meyer,Leonora,Undirected,2
+Katrine,Leonora,Undirected,5
+Katrine,Meyers,Undirected,1
+Fuchs,Major Krantz,Undirected,1
+Major Krantz,Meyer,Undirected,1
+Fuchs,Meyer,Undirected,1
+Leonora,Meyer,Undirected,1
+Katrine,Meyer,Undirected,1
+Fuchs,Katrine,Undirected,3
+Fuchs,Katrine Meyer,Undirected,1
+Fuchs,Marie Rootcaes,Undirected,1
+Leonora,Marie Rootcaes,Undirected,1
+Birgitte Speckhan,Leonora,Undirected,1
+Birgitte Speckhan,Ulfeldt,Undirected,1
+,Fuchs,Undirected,2
+Daggry,Leonora,Undirected,1
+Daggry,Ulfeldt,Undirected,1
+Major Krantz,Ulfeldt,Undirected,2
+Krantz,Ulfeldt,Undirected,1
+Fuchs,Krantz,Undirected,1
+Kristian Rantzau,Leonora,Undirected,2
+Fuchs,Kristian Rantzau,Undirected,1
+Rantzau,dyb,Undirected,1
+Ditlev Liitken,Rantzau,Undirected,1
+Ditlev Liitken,Fuchs,Undirected,1
+Fuchs,mtn,Undirected,1
+Ulfeldt,mtn,Undirected,1
+Ellen Marsvin,Leonora,Undirected,1
+Kristian Rantzau,Ulfeldt,Undirected,1
+Gabel,Rantzau,Undirected,1
+Gabel,Schack,Undirected,1
+Kong Frederik Huldskab,Schack,Undirected,1
+Kong Frederik Huldskab,Leonora,Undirected,1
+Else Parsberg,Ulfeldt,Undirected,1
+Elisabet,Else Parsberg,Undirected,1
+Elisabet Ulfeldt,Jesus,Undirected,1
+Elise Parsberg,Leonora,Undirected,1
+Krog,Ulfeldt,Undirected,1
+Krog,tom,Undirected,1
+Kristian,Kristian Ulfeldt,Undirected,1
+Fuchs,Kristian Ulfeldt,Undirected,3
+Leo,Sperling,Undirected,3
+Kristian,Sperling,Undirected,1
+Daniel Stephani,Frederik Wilhelm,Undirected,1
+Frederik Wilhelm,Stephani,Undirected,1
+Stephani,Ulfeldt,Undirected,1
+Francesco d,Ulfeldt,Undirected,1
+Francesco d,Leonora,Undirected,1
+Jean Marcus Casetta,Ulfeldt,Undirected,1
+Casetta,Jean Marcus Casetta,Undirected,1
+Casetta,Ulfeldt,Undirected,6
+Anne Katrine,Casetta,Undirected,7
+Casetta,Leonora,Undirected,5
+Leonora,Ludvig den,Undirected,1
+Hannibal Sehested,Ludvig den,Undirected,1
+Kristian,Ludvig,Undirected,3
+Korfits,Kristina,Undirected,1
+Kristian,Kristina,Undirected,1
+Antonio,Fuchs,Undirected,1
+Fuchs,Kristian,Undirected,3
+Antonio,Peter Pfliigge,Undirected,1
+Antonio,Ulfeldt,Undirected,1
+Fuchs,Leernouts,Undirected,1
+Fuchs,Peter,Undirected,1
+Antonio,Kristian,Undirected,4
+Dronning Kristina,Kristian,Undirected,2
+Fuchs,Peter Pfliigge,Undirected,2
+Fuchs,Pengegridskhed,Undirected,1
+,Ulfeldt,Undirected,1
+Brygge,Ulfeldt,Undirected,1
+Brygge,Kong Frederik,Undirected,1
+Frederik Wilhelm,Ulfeldt,Undirected,1
+Spaen,Ulfeldt,Undirected,5
+Kong Frederik,Spaen,Undirected,1
+Karl den,Ulfeldt,Undirected,2
+Karl,liun,Undirected,1
+Pektums,liun,Undirected,1
+Ulfeldt,nien,Undirected,2
+Charles,Leonora,Undirected,1
+Casetta,Charles,Undirected,1
+Charles,Ulfeldt,Undirected,1
+Charles,Kristian,Undirected,1
+Antonio Taqvet,Kristian,Undirected,1
+Anne Katrine,Charles,Undirected,1
+Anne Katrine,d’,Undirected,1
+Casetta,d’,Undirected,1
+Casetta,Leonora Sofie,Undirected,2
+Mikkel Skov,Ulfeldt,Undirected,2
+Liittich,Ulfeldt,Undirected,1
+Anne,Casetta,Undirected,5
+Anne,Sperling,Undirected,1
+Kong Frederik,Sperling,Undirected,1
+Anneke,Casetta,Undirected,1
+Anne Katrine,Anneke,Undirected,3
+Anne Katrine,Blaataarn,Undirected,1
+Anneke,Blaataarn,Undirected,1
+Jean de la Barre,Ulfeldt,Undirected,1
+Ludvig,Ulfeldt,Undirected,1
+Ludvig,Rich,Undirected,1
+Anne Katrine,Korfits,Undirected,1
+Anne Katrine,Kong Frederik,Undirected,1
+Anneke,Kristian,Undirected,2
+Anne,Charles,Undirected,7
+Charles,tom,Undirected,1
+Anne,tom,Undirected,1
+Anneke,Charles,Undirected,1
+Anne,Jesus,Undirected,1
+Charles,Komtesse,Undirected,1
+Charles,Nikolas,Undirected,4
+Charles,Gud,Undirected,1
+Casetta,Jean Casetta,Undirected,1
+Anne Katrine Ulfeldt,Jean Casetta,Undirected,1
+Gud,Klas,Undirected,1
+Dronning Sofie Amalies,Leonora Sofie,Undirected,1
+Dronning Sofie Amalies,Leonora,Undirected,1
+Leonora Kristina,Sofie Amalie,Undirected,1
+Leonora,Leonora Kristina,Undirected,1
+Leonora,Peter Tødslev,Undirected,2
+Peter Tødslev,Sperling,Undirected,1
+Kong Frederik,Kristian den,Undirected,1
+Charlotte Amalie,Leonora,Undirected,1
+Sofie,Ulfeldt,Undirected,1
+Sofie,Sofie Amalie,Undirected,1
+Ellen Kristine,Ludvig,Undirected,1
+Casetta,Ellen Kristine,Undirected,1
+Kristian,Leonora Sofie,Undirected,1
+Anne Katrine Lindenow,Jomfru Lindenows,Undirected,1
+Jomfru Lindenows,Leonora,Undirected,1
+Leonora Kristina,Sofie,Undirected,1
+Amalie,Sofie,Undirected,1
+Dronning Kristina,Leo,Undirected,1
+Anne,Leo,Undirected,2
+Leo Ulfeldts,Leonora,Undirected,1
+Alen,Leonora,Undirected,1
+Alen,Leo,Undirected,1
+Leonora,Manna,Undirected,1
+Leo,Leonora Sofie,Undirected,1
+Anne Katrine,Leo,Undirected,2
+Anne Katrine,Kristian den,Undirected,1

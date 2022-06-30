@@ -1,0 +1,404 @@
+source,target,type,weight
+Helga,Margaretha,Undirected,1
+Margaretha,Margarethalt,Undirected,1
+Helga,Marys,Undirected,1
+Helga,Tonart,Undirected,1
+Faust,Tonart,Undirected,1
+Faust,Marys,Undirected,1
+Alargaretha,^Fausts,Undirected,1
+Marys,^Fausts,Undirected,1
+Helga,Mary,Undirected,49
+Helga,Maryaretha,Undirected,1
+Helga,Hr. Hansen,Undirected,1
+Hr. Hansen,Mary,Undirected,1
+Mary,Stephen Hellers,Undirected,1
+Beethovens,Stephen Hellers,Undirected,1
+Helga,Lunds,Undirected,1
+Lunds,Mary,Undirected,1
+Brun,Lund,Undirected,1
+Brun,Jette,Undirected,1
+Mary,Thyra Dannebod,Undirected,1
+Dronning Dagmar,Thyra Dannebod,Undirected,1
+Dronning Dagmar,Valdemar den Store,Undirected,1
+Helga,Valdemar den Store,Undirected,1
+Mary,Valdemar,Undirected,2
+Helga,Valdemar,Undirected,2
+Mary,Thryms,Undirected,1
+Mary,Saar,Undirected,2
+Digi,Helga,Undirected,1
+Mary,lille Helga,Undirected,4
+Grimms,Helga,Undirected,1
+Grimms,Mary,Undirected,1
+Carl,Mary,Undirected,27
+Cousine,Mary,Undirected,1
+Carll,Mary,Undirected,1
+Faust*\,Mary,Undirected,1
+Candidat Larsen,Consul Petersens,Undirected,1
+Hr. Sørensen,Michael Wiehe,Undirected,1
+Carl,deril,Undirected,1
+Helga,deril,Undirected,1
+Mary,Moder,Undirected,2
+Jeronimus,Mary,Undirected,1
+Carl Bagge,Dr. Bagges,Undirected,1
+Dr. Bagges,Jens Bagge,Undirected,1
+Enl,Gud,Undirected,1
+Bagges,Carl,Undirected,1
+Bagge,Carl,Undirected,7
+Carl,ilive,Undirected,1
+Bagge,Frøken Rasmussen,Undirected,1
+Carl,Frøken Rasmussen,Undirected,2
+Carl,Krads,Undirected,1
+Bagge,Mutter,Undirected,2
+Bagge,Carls philosophiske,Undirected,1
+Carl,Faust,Undirected,1
+Carll,Jens,Undirected,1
+Carl,Lund,Undirected,2
+Carl,Marry,Undirected,1
+Carl,tillive,Undirected,2
+Christina Nilsson,Mary,Undirected,1
+Margaretha,Mary,Undirected,6
+Christina Nilsson,Margaretha,Undirected,2
+Jette,Mary,Undirected,10
+Carl,Helga,Undirected,5
+Christensen,Jette,Undirected,1
+Christensen,Mary,Undirected,4
+Lund,Mary,Undirected,8
+Carl,Christensen,Undirected,1
+Helga,Jette,Undirected,6
+Graad,Mary,Undirected,1
+Mary,Prof. Christensen,Undirected,1
+Helga,Lund,Undirected,3
+Bjørnstjerne Bjørnsons,Mary,Undirected,1
+Mary,bille,Undirected,1
+Gud,Mary,Undirected,6
+Don Pedro di Joxullos,Mary,Undirected,1
+Bagge,Mary,Undirected,2
+Døttre,Lund,Undirected,1
+Døttre,Mary strax,Undirected,1
+Helga,Mary strax,Undirected,1
+Lund,Professoi Christensen,Undirected,1
+Jette,Professoi Christensen,Undirected,1
+Mary,Maryl,Undirected,1
+Mary,Mørk,Undirected,1
+Mørk,taus,Undirected,1
+Faust,Margaretha,Undirected,3
+Christensen,Margaretha,Undirected,1
+Elisabeths,Margaretha,Undirected,1
+Dich,Elisabeth,Undirected,1
+Dich,Mieder,Undirected,1
+Hr. Johansen,Sophie Madsen,Undirected,1
+Mary,Pepita,Undirected,1
+Mary,Sands,Undirected,1
+Lund,Sands,Undirected,1
+Bagge,Lund,Undirected,2
+Dr. Bagges,Mary,Undirected,1
+Mary,taus,Undirected,3
+Bagge,taus,Undirected,1
+Fader,Mary,Undirected,1
+Frøken Rasmussen,Mary,Undirected,3
+Frøken Rasmussen,Noahs,Undirected,1
+Edith,Mr.,Undirected,1
+. Howe,Mr.,Undirected,4
+Edith,Gud,Undirected,6
+Campbell,Mrs.,Undirected,3
+Campbell,Gud,Undirected,1
+Gud,Miss Edith,Undirected,2
+Edith Campbell,Mr. Howe,Undirected,1
+Admiral,Edith Campbell,Undirected,1
+Edith,Mr. Howe,Undirected,13
+Edith,Mrs. Campbell,Undirected,1
+Mr. Howe,Mrs. Campbell,Undirected,1
+Campbell,Mrs. Howe,Undirected,1
+Edith,Mrs. Howe,Undirected,8
+Mr.,Mrs. Howe,Undirected,7
+Mr. Howe,Mrs.,Undirected,3
+Campbell,Edith,Undirected,1
+Edith,Mr. Heinrich,Undirected,5
+Mr. Heinrich,Mr. Howe,Undirected,2
+Hal,hal,Undirected,1
+Miss Harel,hal,Undirected,1
+Adieu,Carter,Undirected,1
+Adieu,Mr. Lewis,Undirected,2
+Adieu,adieul,Undirected,1
+Edith,Heinrich,Undirected,3
+Frøken,Mr. Heinrich,Undirected,1
+Edith,Howe,Undirected,9
+Edith,Mr. Heinrich 1,Undirected,1
+Heinrich,Mr. Howe,Undirected,3
+Miss Campbell,Mr. Howe,Undirected,1
+Heinrich,Howe,Undirected,4
+Edith,Frank Heinrich,Undirected,1
+Franks,Mr. Howe,Undirected,1
+Frank,Franks,Undirected,1
+Frank,Mr.,Undirected,1
+Edith,Frank,Undirected,10
+Frank,Howe,Undirected,2
+Edith,Miss Campbell,Undirected,1
+Campbell,Frank,Undirected,1
+Campbell,Mr. Howe,Undirected,1
+Howe,Mr. Heinrich,Undirected,3
+Mr. Heinrich,hanl,Undirected,1
+Howe,hanl,Undirected,1
+Mr. Howe,Mrs. Howe,Undirected,5
+Howe,Mrs.,Undirected,44
+Edith,Mrs. Morley,Undirected,4
+Edith,Raphaels,Undirected,1
+Edith,Mrs.,Undirected,2
+Morley,Mrs.,Undirected,9
+Carl den,Mary,Undirected,1
+Bastian,Tyndall,Undirected,1
+. Morley,Edith,Undirected,1
+Howe,Mr. Howe,Undirected,7
+Miss Campbell,Mrs.,Undirected,1
+Madam Jones,Mrs.,Undirected,1
+Morley,Mr. Morley,Undirected,1
+Mr.,Mrs. Morley,Undirected,1
+Edith,Morley,Undirected,2
+Gud,J^g,Undirected,1
+Frank Heinrich,Mrs. Morley,Undirected,1
+Miss Campbell,Mrs. Morley,Undirected,1
+Frank,Miss Campbell,Undirected,2
+. Morley,Frank,Undirected,1
+. Morley,Miss Campbell,Undirected,1
+Frank,Mrs. Morley,Undirected,2
+Doktor Coles,Mr Heinrich,Undirected,1
+Frank,Morley,Undirected,1
+Coles,Mrs. Morley,Undirected,1
+Coles,Mrs.,Undirected,1
+Mary,bets,Undirected,1
+Frøken Lund,Mary,Undirected,2
+Gud,Madam Mortensens,Undirected,1
+Frøken Rasmussen,Gud,Undirected,1
+Frøken Lund,IO,Undirected,1
+Johan,Mary,Undirected,1
+Gud,Quilp,Undirected,1
+Johan,Mrs. Field,Undirected,1
+Mary,Mrs. Field,Undirected,1
+Mary,lee,Undirected,1
+Howe,Tulls,Undirected,1
+Mary,Mrs.,Undirected,11
+Howe,Mary,Undirected,38
+Mary,Mr. Howe,Undirected,30
+Mr. Howe,St. Bernhards,Undirected,1
+Mary,St. Bernhards,Undirected,1
+Mary,Princel«,Undirected,1
+Mr. Howe,Princel«,Undirected,1
+Mary,ning,Undirected,1
+Mr. Howe,a,Undirected,1
+Mrs. Howe,a,Undirected,1
+. Howe,Mary,Undirected,8
+Mrs.,Mrs. Howe,Undirected,1
+Mary,Prince,Undirected,4
+Mr.,Prince,Undirected,1
+Lunch,Mr. Howe,Undirected,1
+Lunch,Mary,Undirected,1
+Mr.,Mrs.,Undirected,1
+Mary,Raphael,Undirected,2
+Raphael,Titian,Undirected,3
+Michel Angelo,Titian,Undirected,1
+Lund,Mr. Howe,Undirected,1
+Mary,Mr. Heinrich,Undirected,3
+. Howe,Mr. Howe,Undirected,2
+. Howe,Heinrich,Undirected,1
+Cousine,Heinrich,Undirected,1
+Cousine,Mandl,Undirected,1
+Miss Lundi,Moder,Undirected,1
+Helga,Roes,Undirected,1
+Mrs. Howe,Roes,Undirected,1
+Mary,Mrs. Howe,Undirected,14
+Carstensen,Mr. Howe,Undirected,1
+Bach,Beethoven,Undirected,1
+Howe,Mrs. Howe,Undirected,2
+Christensen,Heinrich,Undirected,1
+Kong Salomons,Mary,Undirected,1
+Heinrich,Mary,Undirected,15
+Rezias,Rosinas,Undirected,1
+Rosinas,tina,Undirected,1
+Annas,Mary,Undirected,1
+Annas,Mrs.,Undirected,1
+Annas,Margaretha,Undirected,1
+Annas,Mrs. Howe,Undirected,1
+Heinrich,Mrs. Howe,Undirected,1
+Miss Lund,Mrs.,Undirected,1
+Burnes,Mrs.,Undirected,2
+Beethoven,Leonoras,Undirected,1
+Fidelio,Leonoras,Undirected,1
+Alice,Vilhelmine,Undirected,1
+Alice,Mrs.,Undirected,1
+Grisi,Tietjens,Undirected,1
+Consul min Cousine,j,Undirected,1
+Frank,j,Undirected,1
+Mr. Howe,Mrs. Burnes,Undirected,1
+Miss Lund,Mr. Howe,Undirected,2
+Miss Burnes,Mr. Howe,Undirected,1
+Liv,Mary,Undirected,1
+Mary,Mary strax,Undirected,1
+Alexandra,Mary strax,Undirected,1
+Alexandra,Nelson,Undirected,1
+Mr. Howe,Nelson,Undirected,1
+Giottos,Johannes,Undirected,1
+Johannes,f,Undirected,1
+Giotto,f,Undirected,1
+Angelico,Filippo Lippi,Undirected,1
+Angelico,Miss Mary,Undirected,1
+Angelico,Bartolomeo,Undirected,1
+Angelieo,Bartolomeo,Undirected,1
+Angelieo,Leonardo da,Undirected,1
+Leonardo da,Michel Angelo,Undirected,1
+Michel Angelo,Raphael,Undirected,1
+Bellini,Mary,Undirected,1
+Leonardos,Michel Angelo,Undirected,1
+Mary,Michel Angelo,Undirected,1
+Mary,Shakespeare,Undirected,1
+Carl,Howe,Undirected,4
+Heinrich,Mrs.,Undirected,1
+b,l.,Undirected,1
+Johan,Johan Petersen,Undirected,1
+Johan Petersen,Petersen,Undirected,1
+Johan,b,Undirected,1
+JeS,belle,Undirected,1
+. Howe,Howe,Undirected,1
+Frøken Rasmussen,Johan,Undirected,1
+Frank,Mary,Undirected,2
+. Howe,Edith,Undirected,6
+Frank,Mrs. Howe,Undirected,1
+Frank,Mr. Howe,Undirected,1
+Jarretl,Mary,Undirected,1
+Mr. Hepworth,Mr. Stark,Undirected,1
+Mr. Stark,vipsi,Undirected,1
+Jarret,ff,Undirected,1
+Jarret,Mary,Undirected,3
+Mary,hal,Undirected,1
+Miss Smyth,hal,Undirected,1
+Mary,Papurus,Undirected,1
+. Howe,b,Undirected,1
+Beethoven,Schumanns,Undirected,1
+Jarret,Miss Lundi Da capo,Undirected,1
+Beethoven,Raphael,Undirected,1
+Beethoven,Shakespeare,Undirected,1
+Napoleon,Shakespeare,Undirected,1
+Frøken Lund,Mrs. Howe,Undirected,1
+Jarret,Mr. Howe,Undirected,2
+Hove,Mrs.,Undirected,2
+Mary,j,Undirected,3
+Christiane,Juliane,Undirected,3
+Moses,Mr. Howe,Undirected,1
+Gud,Philosoph,Undirected,1
+Mary,sel,Undirected,1
+Dallinger,Tyndall,Undirected,2
+Dallinger,Howe,Undirected,1
+Philosoph,Xenophanes,Undirected,1
+Howe,j,Undirected,2
+a,b,Undirected,1
+Gud,b,Undirected,1
+Howe,Jarret,Undirected,1
+Bastian,Dallinger,Undirected,1
+Bastian,J,Undirected,2
+Jarret,Marry,Undirected,1
+Howe,Marry,Undirected,1
+Howel,Mary,Undirected,1
+Mrs. Howe,Prince,Undirected,1
+dandse,lee,Undirected,1
+Mr.,dandse,Undirected,1
+Clara Schumann,Rubinstein,Undirected,1
+Christina Nilsson,Clara Schumann,Undirected,1
+Christina Nilsson,Roes,Undirected,1
+Heinrich,Roes,Undirected,1
+Heinrich,Mrs. Burnes,Undirected,1
+. Howe,Mrs. Burnes,Undirected,1
+a,lings,Undirected,1
+Mrs.,a,Undirected,1
+Mary,itaan,Undirected,1
+Brown,Mrs.,Undirected,1
+Brown,Mary,Undirected,1
+Brown,Mr. Howe,Undirected,1
+. Howe,Arthur,Undirected,2
+Mary,Tycho Brahes,Undirected,1
+Tycho Brahes,a,Undirected,1
+a,j,Undirected,1
+Mrs.,j,Undirected,1
+Digi,Frank,Undirected,1
+Digi,Edith,Undirected,1
+Arthur,Mrs. Morley,Undirected,1
+Frank,Mrs.,Undirected,1
+Mary,Mr. H Howe,Undirected,2
+Howe,lyo,Undirected,1
+Tycho Brahes,lyo,Undirected,1
+Howe,Tycho Brahes,Undirected,1
+Mary,Steen,Undirected,2
+Adelina Patti,Heinrich,Undirected,1
+Adelina Patti,Rosina,Undirected,1
+Mary,Rosina,Undirected,1
+H Haab,Mary,Undirected,1
+Mary,Patti,Undirected,1
+Arien,Mary,Undirected,1
+J,Mrs. Howe,Undirected,1
+J,d,Undirected,1
+d,rf,Undirected,1
+Mr. Howe,d,Undirected,1
+Mr. Howe,b,Undirected,1
+b,d,Undirected,1
+Mary,Naturers,Undirected,1
+Mrs.,Naturers,Undirected,1
+Howe,VenJa,Undirected,1
+Mrs. Howe,VenJa,Undirected,1
+Mrs. Howe,gbder,Undirected,1
+Howe,gbder,Undirected,1
+Howe,Uhr,Undirected,1
+Mrs.,Uhr,Undirected,1
+Mr. Hove,Mr. Howe,Undirected,1
+Edith,Mary,Undirected,23
+Frøken Lund,Steen,Undirected,1
+Erica vagans,Howe,Undirected,1
+Howe,Mr.,Undirected,1
+Arthur,Mary,Undirected,7
+Mary,kave,Undirected,1
+Arthur,Gud,Undirected,2
+Mary,haml,Undirected,1
+Frøken Lundi,Mary,Undirected,1
+Mary,dyb,Undirected,1
+Chor,Elzas,Undirected,1
+Mary,Roes,Undirected,1
+Heinrich i,Roes,Undirected,1
+Gounod,Mefistofeles,Undirected,1
+Margaretha,Mefistofeles,Undirected,1
+Margaretha,Mr. Heinrich,Undirected,1
+Faust,Mary,Undirected,3
+Faust,Margaretha stode,Undirected,1
+Margaretha stode,Steen,Undirected,1
+Heinrich,Steen,Undirected,1
+Heinrich,c'est toi que,Undirected,1
+Margarethal Da capo,Mary,Undirected,1
+Helga,Mrs. Howe,Undirected,1
+Fader,Helga,Undirected,1
+Carl,Jette,Undirected,1
+Jeanne d'Arc,Mary,Undirected,2
+Howe,haml,Undirected,2
+Helga,Howe,Undirected,1
+Graad,Howe,Undirected,1
+Howe,Lunch,Undirected,1
+Mr. Heinrich,taus,Undirected,1
+Atlaskes,Mr. Heinrich,Undirected,1
+Atlaskes,Mary,Undirected,1
+Heinrich«,Mary,Undirected,1
+Christina Nilsson,Faust,Undirected,1
+Christina Nilsson,Trebelli,Undirected,2
+Patti,Trebelli,Undirected,1
+Faust,Martha,Undirected,1
+Mary,Trebelli,Undirected,1
+Mary,Mr.,Undirected,1
+Arthur,Howe,Undirected,2
+Arthur,Edith,Undirected,2
+Edith,Margaretha,Undirected,1
+Gud,Howe,Undirected,4
+.Arthur,Gud,Undirected,1
+.Arthur,Mrs. Howe,Undirected,1
+Edith,kMary,Undirected,1
+Edith,Helga,Undirected,1
+Anna,Mary,Undirected,1
+Elisabeth,Leonora,Undirected,1
+Elisabeth,Elza,Undirected,1
+Elisabeth,Lund,Undirected,1
+Elisabeth,Margaretha,Undirected,1
+Carl,Eros,Undirected,1
+Apollo,Eros,Undirected,1

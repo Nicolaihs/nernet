@@ -1,0 +1,224 @@
+source,target,type,weight
+Alexander Dumas,Walter Scott,Undirected,1
+Alexander Dumas,Eugene Sue,Undirected,1
+Eugene Sue,Walter Scott,Undirected,1
+Kirsten Pils,Kirstine Piil,Undirected,1
+Gud,Juliane Marie,Undirected,1
+Bless,Ole,Undirected,1
+Kong Valdemar,Rostgaard,Undirected,1
+Kong Valdemar,Tove,Undirected,1
+Hr. Dahl,Hr. Erik Dahl,Undirected,1
+Adolf,fom,Undirected,1
+Adolf Brunnow,Brunnow,Undirected,1
+Adolf Brunnow,hat,Undirected,1
+Ein junger,hat,Undirected,1
+Ein junger,Mensch,Undirected,1
+Gleich,sofort,Undirected,1
+Homer,Virgil,Undirected,1
+Homer,Livius,Undirected,2
+Hnn,Tizians,Undirected,1
+Ciceronen,Tizians,Undirected,1
+Adolf,Jenny,Undirected,1
+Adolf,rasfe,Undirected,1
+Marv,rasfe,Undirected,1
+Adolf,frels,Undirected,1
+Adolf,Esfents,Undirected,1
+Erik,Peer,Undirected,1
+Adolf,Kuske,Undirected,1
+,hcen,Undirected,1
+,Adolf,Undirected,1
+Adolf,vos,Undirected,1
+,La,Undirected,1
+Bertha,Grandtante,Undirected,1
+Bertha,Brithe,Undirected,1
+Brithe,Githe,Undirected,1
+Githe,Grimms,Undirected,1
+Grimms,Ingemanns,Undirected,1
+Adre,Ingemanns,Undirected,1
+Chr. Winther,Gud,Undirected,1
+Diderik,Kaf,Undirected,1
+Dahl,Diderik,Undirected,1
+Dahl,Erik Dahl,Undirected,1
+Jette,Julle,Undirected,1
+Hr. Dahl,Hr. Holm,Undirected,1
+Peer Matros,Tosten,Undirected,1
+Peer Matros,Ulk,Undirected,2
+Skipper-Holm,Virgil,Undirected,1
+Adolf,Skipper-Holm,Undirected,1
+Adolf,Gud,Undirected,3
+Adam,Gud,Undirected,1
+Erik,Holla,Undirected,1
+Hr. Bentheim,Tante Birthe,Undirected,1
+Hr. Bentheim,voxer,Undirected,1
+Julie,Tys,Undirected,1
+Erik,smukl,Undirected,1
+Erik v. DahlSnopoldolsky,smukl,Undirected,1
+Harriet,Tine,Undirected,1
+Bentheim,Erik,Undirected,1
+Adolf,Nerier,Undirected,1
+Adolf,Lise,Undirected,2
+Hr. Bentheim,Lise,Undirected,1
+Adolf,Peer Matros,Undirected,13
+Christian den Ottende,Peer Matros,Undirected,1
+Adolf,Shawler,Undirected,1
+Adolf,Harriet,Undirected,3
+Adolf sang,Harriet,Undirected,1
+Adolf sang,Christian Winther,Undirected,1
+Diana,Ekko,Undirected,1
+Gebel,Tarik,Undirected,1
+Taa,Tarik,Undirected,1
+Adolf,ganfke,Undirected,1
+Harriet,ganfke,Undirected,1
+Peer Matros,sidsfe,Undirected,1
+Diana,sidsfe,Undirected,1
+FruBrunnow,Gud,Undirected,1
+A. B. C.,f.,Undirected,1
+A. B. C.,Peer,Undirected,1
+Erik Dahl,Peer,Undirected,1
+Erik,Tu,Undirected,1
+Tu,felv,Undirected,1
+Livius,felv,Undirected,1
+Erik Dahl,Livius,Undirected,2
+Moder,Peer Matros,Undirected,1
+Chatolet,Erik,Undirected,1
+Dahl,Erik,Undirected,1
+Homer,Plutark,Undirected,1
+Plutark,Virgil,Undirected,1
+Noch,Snopoldolsky,Undirected,1
+Adolf,Hnn,Undirected,1
+Adolf,Fgder,Undirected,2
+Adolf,Hr. Bentheim,Undirected,1
+Ludvig „,Mikael,Undirected,1
+Dahl,Ludvig „,Undirected,1
+Andersen,Dahl,Undirected,2
+L ' hombre,Polkahaaret,Undirected,1
+Kristian,Musici,Undirected,1
+,Bless,Undirected,1
+Homer,Horats,Undirected,1
+Godseiersøn,Tahl,Undirected,1
+Erik,Tig,Undirected,1
+Bless,Erik,Undirected,1
+Adolf,Brunnow,Undirected,4
+Jupiter,Sao,Undirected,1
+Jupiter,Melo dierne,Undirected,1
+Adolf,Melo dierne,Undirected,1
+Adolf,Jec,Undirected,1
+Bless,Inat,Undirected,1
+Adolf,Jupiter,Undirected,1
+Adolf,Adolf fprang,Undirected,1
+Adolf fprang,Nielsen,Undirected,1
+Adolf,Hr. Dahl,Undirected,2
+Adolf,Adolf Brunnow,Undirected,2
+Adolf,Adolf —,Undirected,3
+Adolf,as,Undirected,1
+Adolf,Adols,Undirected,1
+Adolf,Hansmaamumlede,Undirected,1
+Hansmaamumlede,rutsch,Undirected,1
+ratsch,rutsch,Undirected,3
+Adolf,Helene,Undirected,3
+Fader,Faders,Undirected,1
+Adolf,Efferhaanden,Undirected,1
+Adolf,Adre,Undirected,2
+Adolf,Katholiks,Undirected,1
+Katholiks,ganffe,Undirected,1
+Adolf,hans,Undirected,1
+Adolf,hnn,Undirected,2
+Adolf,frankt,Undirected,1
+Adolf,Erik,Undirected,13
+Erik,Gud,Undirected,1
+Peer Matros,engelsfe,Undirected,1
+Hr. Holm,Hr. Tahl,Undirected,1
+Hr. Brunnow,Hr. Tahl,Undirected,1
+Adolf,Jakobs,Undirected,1
+Harriet,Peer Matros,Undirected,1
+Birthe,Harriet,Undirected,1
+Birthe,Snopoldolfly,Undirected,1
+Franziska Snopoldolsly,Snopoldolfly,Undirected,1
+Peer Matros,iveien,Undirected,1
+Gud,Minerva,Undirected,1
+Gud,Pereat,Undirected,1
+Hebe,Venus,Undirected,1
+aniiuuiu,tuaiu,Undirected,1
+Hr. Brunnow,Hr. Dahl,Undirected,1
+Gud,Mutter,Undirected,1
+Adolf,mai,Undirected,1
+Per sonen,Spans,Undirected,1
+Adolf,Kognac,Undirected,1
+Adolf,Rusen,Undirected,1
+Erik,Oammmbo,Undirected,1
+Erik,Pleiebro,Undirected,1
+,Pleiefa,Undirected,1
+Adolf,Don Quixote,Undirected,1
+Gud,Sancho,Undirected,1
+Adolf,Marienlyst,Undirected,1
+Adols,Volmer,Undirected,1
+Tove,Volmer,Undirected,1
+Adolf,freidig,Undirected,1
+Ellemose,Tue,Undirected,1
+Adolf,Mefisto,Undirected,1
+Adolf,Angantyrs,Undirected,1
+Angantyrs,seile,Undirected,1
+Adolf,seile,Undirected,1
+Adolf,Kastrat,Undirected,2
+Adolf,Adolf fog,Undirected,2
+Adolf,Faust,Undirected,1
+Adolf,jsuno,Undirected,1
+jsuno,llonnns,Undirected,1
+Reis,llonnns,Undirected,1
+Adolf,Graad,Undirected,2
+Adolf,Schak,Undirected,1
+Adolf,Officeren,Undirected,1
+Adolf,Lluoli uilo,Undirected,1
+Lluoli uilo,notlliug,Undirected,1
+Beatrice,Benedikt,Undirected,2
+Beatrice,hnn,Undirected,1
+Heros,hnn,Undirected,1
+Heros,don inots,Undirected,2
+Beatrice,Heros,Undirected,1
+Salomo,salig Heiberg,Undirected,1
+Goldkalb,Salomo,Undirected,1
+Jespersen,Skaal,Undirected,2
+Mutter Dideriksen,Skaal,Undirected,1
+Gud,Jespersen,Undirected,1
+Dorthe,Jespersen,Undirected,1
+Dorthe,Gud,Undirected,1
+Dorthe,Erik,Undirected,1
+Erik Dahl,Mutter Dideriksen,Undirected,1
+Erik Dahl,Løitnant,Undirected,1
+Hammeling,Løitnant,Undirected,1
+Børstenbinder Kattrup,Hammeling,Undirected,1
+Børstenbinder Kattrup,Strandridder Jespersen,Undirected,1
+Postsfriver Fjeldstov,Strandridder Jespersen,Undirected,1
+Amors,Postsfriver Fjeldstov,Undirected,1
+Amors,Dorothea Spangenberg,Undirected,1
+Brunnow,Dorothea Spangenberg,Undirected,1
+Brunnow,Madam Dorothea Brunnow,Undirected,1
+Dorthe,Madam Dorothea Brunnow,Undirected,1
+Bravo,Løitnant,Undirected,1
+Løitnant,Skaal,Undirected,1
+Adolf,Dorthe,Undirected,2
+Erik,tu Lruto,Undirected,1
+Rompunsch,tu Lruto,Undirected,1
+Adolf,Dorthea,Undirected,2
+Dorthea,Jespersen,Undirected,1
+Bravo,Løitnanten,Undirected,1
+Adolf,Nn,Undirected,1
+Dorthe,Nn,Undirected,1
+Adolf,Løjtnantens,Undirected,1
+Adolf,Erik Glipping,Undirected,1
+Erik Glipping,Frederik den Sjette,Undirected,1
+Adolf,Frederik den Sjette,Undirected,1
+Adolf,Grog,Undirected,1
+Adolf,Tu,Undirected,1
+Dorthea,Tu,Undirected,1
+Dideriksen,Dorthea,Undirected,1
+Dideriksen,Torthea,Undirected,1
+Dorthea,pia,Undirected,1
+Adolf Brunnow,visfe,Undirected,1
+Dorthea,Gud,Undirected,1
+Dorthea,Erik,Undirected,2
+Dorthea,Løitnanten,Undirected,1
+Hr. Jespersen,Løitnanten,Undirected,1
+Adolf,Hr. Jespersen,Undirected,1
+Adolf,Dorothea,Undirected,1
+Dorothea,hans roes,Undirected,1

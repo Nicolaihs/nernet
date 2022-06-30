@@ -1,0 +1,339 @@
+source,target,type,weight
+Aarna,Martinns,Undirected,1
+Martinns,fil,Undirected,1
+Aarna,Præsfen,Undirected,1
+Jesu,Præsfen,Undirected,1
+Martin iriellem,Michaelis,Undirected,1
+Martha,Michaelis,Undirected,1
+Martha,sorn,Undirected,3
+Jakob,sorn,Undirected,1
+Guds,Jakob,Undirected,1
+Jakob,Martinus,Undirected,11
+Martinus,Ole,Undirected,7
+Jomfru Marthas,Martinus,Undirected,1
+Guds,Martinus,Undirected,1
+Guds,Jomfru Martha,Undirected,1
+Martha,Martins,Undirected,1
+Jakob,Martins,Undirected,1
+Martins,Martinus,Undirected,1
+Chrisfne,Martinus,Undirected,1
+Jørgen pust,Martinus,Undirected,4
+Jørgen pust,Ole,Undirected,1
+Jakob,sor,Undirected,1
+Hain,sor,Undirected,1
+Hain,Ole,Undirected,1
+Jakob,Ole,Undirected,1
+Gles,Jakob,Undirected,1
+Gles,Ole,Undirected,1
+Gle,Jakob,Undirected,1
+Jakob,tovede,Undirected,1
+Martinus,tovede,Undirected,1
+Hr. Tues,Martinus,Undirected,1
+Hr. Tues,hair,Undirected,1
+Jakob fog,hair,Undirected,1
+Jakob fog,sorn Messedrengen,Undirected,1
+Ole,sorn Messedrengen,Undirected,1
+Brok,Ole,Undirected,1
+Brok,Jakob,Undirected,1
+Iver Fiskers,Jakob,Undirected,1
+Martinns,Ole,Undirected,2
+Jørgen Pust,Ole,Undirected,1
+Jørgen Pust,Martinns,Undirected,1
+Knud,Martinns,Undirected,1
+Else,Martinns,Undirected,1
+Anud,Martinus,Undirected,1
+Hans,Knud,Undirected,1
+Aage —,Else,Undirected,1
+Brok,Jørgen pust,Undirected,1
+Bagge Jepsen,Brok,Undirected,1
+Hasle,Jørgen,Undirected,1
+Hasle,Preben Predbjørn,Undirected,1
+Jørgen,Preben Predbjørn,Undirected,1
+Jørgen,Preben,Undirected,1
+Jørgen,fig,Undirected,2
+Jomfru Martha,Jørgen,Undirected,2
+Hr. Tue,Jørgen,Undirected,3
+Hr. Tue,Jomfru Martha,Undirected,1
+Hans Rodis,Martin,Undirected,1
+Guds,Hans Rodis,Undirected,1
+Martinus,fie,Undirected,1
+Bagge Jepsen,son,Undirected,1
+Hain,Preben predbjørn,Undirected,1
+Jørgen Pust,Niels,Undirected,1
+Niels,son,Undirected,1
+Marna,Niels Jepsen,Undirected,1
+Marna,son,Undirected,2
+per Kruse,son,Undirected,1
+Jørgen pust,per Kruse,Undirected,1
+Jørgen pust,per,Undirected,1
+Per,son,Undirected,1
+Marna,Niels,Undirected,1
+Morten,Niels,Undirected,1
+Morten,sorn,Undirected,1
+Niels Jepsen,sorn,Undirected,2
+Niels,sorn,Undirected,1
+Jepsen,Niels,Undirected,1
+Jepsen,Jørgen pust,Undirected,1
+Jørgen pust,Lars Kaas,Undirected,1
+Lars,Lars Kaas,Undirected,2
+Lars,Tue Brok,Undirected,1
+Lars,Niels Jepsen,Undirected,1
+Niels,sif,Undirected,1
+Niels,Niels Jepsen,Undirected,1
+Ann Bagge Jepsen,sorn,Undirected,1
+Harn,sorn,Undirected,1
+Harn,Niels,Undirected,1
+Guds,Niels Jepsen,Undirected,1
+Guds,Mnnken,Undirected,1
+Knud Krak,Lars Kaas,Undirected,1
+Bjørn,Knud Krak,Undirected,1
+Bjørn,Niels,Undirected,1
+Knud Krak,Niels,Undirected,1
+Knud Krak,Niels Jepsen,Undirected,1
+Gud,Niels Jepsen,Undirected,1
+Morten Jepsen,Niels,Undirected,1
+Morten Jepsen,son,Undirected,1
+Martinus,son,Undirected,5
+Hassel,Martinus,Undirected,2
+Martinus,Preben Pred-bjørn tilhest,Undirected,1
+Martinns,Niels Jepsen,Undirected,2
+Kannik,Martin,Undirected,1
+Hans Rodin,Kannik,Undirected,1
+Hans Rodin,Jens Grand,Undirected,1
+Kannikken,Martinns,Undirected,1
+Martinns,sorn,Undirected,1
+Martinus,Niels Jepsen,Undirected,2
+Lars Trold,peter Rikkemand,Undirected,1
+Bertel Buk,Lars Trold,Undirected,1
+Martinns,Skarpeskade,Undirected,1
+Ole,Skarpeskade,Undirected,1
+Aage,Ole,Undirected,10
+Aage Knudsen,Martinns,Undirected,1
+Kannikken,Ole,Undirected,1
+Aage,Martinas,Undirected,1
+Aage,Erna,Undirected,22
+Gud,Ole,Undirected,1
+Erna,Gud,Undirected,4
+Aage,Ruthskirke,Undirected,1
+Lars Trold,Ole,Undirected,1
+Niels Iepsens,lilskovs,Undirected,1
+Jepsen,lilskovs,Undirected,1
+Jepsen,Knud Fiskers,Undirected,1
+Lars,Preben,Undirected,1
+Hain,Preben,Undirected,1
+Aage,Lars,Undirected,1
+Aage,Svend,Undirected,3
+Asen,Lars Kaas,Undirected,1
+Lars,peter Rikkemand,Undirected,1
+Lars —,peter Rikkemand,Undirected,1
+Martinus,a. a. desl.,Undirected,1
+Jørgen pust,hans blaa Jernhat,Undirected,1
+Bertel Buk,Pred-bjørn,Undirected,1
+aarle,rolig,Undirected,1
+Jørgen,ester,Undirected,1
+Jørgen pust,peter Rikkemand,Undirected,1
+peter Rikkemand,srem,Undirected,1
+Martinus,srem,Undirected,1
+Brok,ester,Undirected,1
+Aage,Knud Fisker,Undirected,1
+Aage,lsr.,Undirected,1
+Tue,lsr.,Undirected,1
+Jakob,Martinns,Undirected,2
+Hr. Tue,sorn,Undirected,2
+Jakob Lange,Junker Kristoffer,Undirected,1
+Junker Kristoffer,juris canonicus,Undirected,1
+juris canonicus,se,Undirected,1
+se,t,Undirected,1
+Bonifacius,t,Undirected,1
+Alf Erlingsen,Jacobsen,Undirected,1
+Jacobsen,Peder Jacobsen,Undirected,1
+Knud Fisfer,Peder Jacobsen,Undirected,1
+Aage,Knud Fisfer,Undirected,1
+Aage,Jarl,Undirected,2
+Aage,Anud,Undirected,1
+Anud Fisker,hr. Tues,Undirected,1
+Martinus,hr. Tues,Undirected,1
+Lieder Jacobsen,Tonsberg,Undirected,1
+Jarl,peder Jacobsen,Undirected,1
+Erik,Gud,Undirected,1
+Jacob,Jacob den lange,Undirected,1
+Jarl,Kong Eriks,Undirected,1
+Jarl,mille,Undirected,1
+Jarlen,Oren,Undirected,1
+Hain,Oren,Undirected,1
+Jarl,fil,Undirected,1
+Jarlen,fil,Undirected,1
+Aolben Ranesen,Jomfru Martha,Undirected,1
+Lange,Martinus,Undirected,2
+Martinus,kon,Undirected,2
+Erna,Jørgen pust,Undirected,2
+Martinus,Vang,Undirected,1
+Gud,Jakob,Undirected,5
+Hain,Knud,Undirected,1
+Gud,Ole nred,Undirected,1
+Gud,Klerke,Undirected,1
+Hain,Sigurd Brus,Undirected,1
+Jarlen,Jens Grand,Undirected,1
+Jarl,frein,Undirected,1
+Martinus,ester,Undirected,1
+Bent Iversen,Martinis,Undirected,1
+Bent,Ester,Undirected,1
+Bent,Hr. Tue,Undirected,1
+Bent Iversen,Hr. Tue,Undirected,1
+Bent Iversen,Ebbe Bjørnsen,Undirected,1
+Ebbe Bjørnsen,peder Jacobsen,Undirected,1
+Klerke,peder Jacobsen,Undirected,1
+Jacobsen,Jarlen,Undirected,2
+Jacobsen,koldl,Undirected,1
+Als Erlingsen,Jacobsen,Undirected,1
+Gud,Jarlen,Undirected,1
+Jarl,Jarlen,Undirected,1
+Jarl Als Erlingsen,Jarlen,Undirected,1
+hans Rasen,peder Jacobsen,Undirected,1
+Don,peder Jacobsen,Undirected,1
+Jarlen,son,Undirected,1
+Alf Erlingsen,son,Undirected,1
+Hr. Tue,bours,Undirected,1
+Erik Menved,Morten Kok,Undirected,1
+Morten Kok,fpilde,Undirected,1
+Morten,fpilde,Undirected,1
+Morten,sif,Undirected,2
+Jomfru Martha,Morten,Undirected,1
+Hr. Tue,Hr. peder Jacobsen,Undirected,1
+Jørgen,siers,Undirected,1
+Bent Rimaardsen,David Thorstensen,Undirected,1
+Gud,Martinns,Undirected,3
+Martinns,peder,Undirected,1
+Annanias,peder,Undirected,1
+Annanias,Gud,Undirected,1
+Airken,Peder,Undirected,1
+Kristi,Peder,Undirected,1
+Kristi,Kristus,Undirected,1
+Gud,Kristus,Undirected,2
+Herre Bisp,Kristus,Undirected,1
+Herre Bisp,Ron,Undirected,1
+Gud,Ron,Undirected,1
+Festus,Martinus,Undirected,1
+Festus,Paulus,Undirected,1
+Gud,Martinus,Undirected,6
+Brok,Martinus,Undirected,3
+Jens Grand,Martinns,Undirected,1
+Asen,Martinus,Undirected,1
+Jomfru Martha,Jørgen Pust,Undirected,1
+Jørgen,Jørgen Pust,Undirected,1
+Hr. Tue,Peder Jacobsen,Undirected,1
+Hr. Tue,Martha,Undirected,1
+Elsfovsdages,Martha,Undirected,1
+Abbed Martinns,Martha Pedersdatter,Undirected,1
+Jakob,Jakob Lange,Undirected,1
+Jakob,Jomfru Martha,Undirected,1
+Hr. Tue,Jørgen Pust,Undirected,1
+Jørgen,Peder Jacobsen,Undirected,2
+Jørgen,ilave,Undirected,1
+Jørgen,Martinus,Undirected,1
+Jørgen,Jørgen pust,Undirected,1
+Gle,Jørgen,Undirected,2
+Erna,Jørgen,Undirected,1
+Jakob fom,Martinns,Undirected,1
+Jakob fom,Jens Grand,Undirected,1
+Kong Erik Menved,Kristus,Undirected,1
+Jens Grand,Kristus,Undirected,1
+Erna Knudsdatter,Martinns,Undirected,1
+Erna Knudsdatter,Gle,Undirected,1
+Gle,Martinus,Undirected,2
+,Martinus,Undirected,1
+,Jørgen Pusfs,Undirected,1
+Jens Grand,Jørgen Pusfs,Undirected,1
+Isarmus,Jens Grand,Undirected,1
+Esger,Isarmus,Undirected,1
+Esger,Iuel,Undirected,2
+Esger,Kong Erik,Undirected,1
+Kong Erik,Kristoffer,Undirected,1
+Jens Grand,Kristoffer,Undirected,1
+Jens Grand,Kannikerne,Undirected,1
+Kannikerne,Klerus,Undirected,1
+Gud,tamme,Undirected,1
+Jakob,son,Undirected,3
+Ole,Ole Knudsen,Undirected,1
+Kannik,Ole,Undirected,1
+Aste,Martinus,Undirected,1
+Gle,Martnus,Undirected,1
+Gle,Gud,Undirected,1
+Jens Grand,Ole,Undirected,1
+Esger Iuel,Martinns,Undirected,1
+Fader Martinns,Martinns,Undirected,1
+EsgarIuel,Martinns,Undirected,1
+Esgar Iuel,Ole Knudsen,Undirected,1
+Martinus,Ole Knudsen,Undirected,1
+Hain,Kong Erik,Undirected,1
+Hain,Ol,Undirected,1
+Junker Kristoffer,Ol,Undirected,1
+Junker Kristoffer,Risef,Undirected,1
+Esgar Iuel,son,Undirected,1
+Esgar Iuel,Gud,Undirected,1
+Gud,Martinus Ann,Undirected,1
+Elias,Jesu,Undirected,1
+Elias,Kong Achab,Undirected,1
+Hain,Kong Achab,Undirected,1
+Achab,Hain,Undirected,1
+Achab,Martinns,Undirected,1
+Esgar Juel,Martinns,Undirected,1
+Jens Grand,son,Undirected,1
+Erna,Martinus,Undirected,7
+Martinus,Øle,Undirected,2
+Aage,Martinus,Undirected,5
+Erna,Knud,Undirected,1
+Aage,Ulvene,Undirected,1
+Martinus,stills,Undirected,1
+Knud,stills,Undirected,1
+Gud,Knud,Undirected,1
+Erna,sif,Undirected,2
+Knud,sif,Undirected,1
+Aage,Knud,Undirected,1
+Aage,Ole Knudsen,Undirected,2
+Niels Jepsen,Ole Knudsen,Undirected,1
+Aage Knudsen,Erna,Undirected,5
+Erna,Junker Kristoffer,Undirected,1
+Junker Kristoffer,Ludvig Albertsen,Undirected,1
+Auren,Erna,Undirected,1
+Erna,Martinns,Undirected,1
+Aage,Martinns,Undirected,1
+Inger,Jomfru Erna,Undirected,1
+Erna,nied,Undirected,1
+Hasfig,Martinus,Undirected,1
+Aage,sorn,Undirected,1
+Aage Knudsen,sorn,Undirected,1
+Aage Knudsen,Hr. Tue,Undirected,1
+Erna,Hr. Tue,Undirected,1
+Erna,fom,Undirected,1
+Msrk,son,Undirected,1
+Hr. Tue,Knud Fisker,Undirected,1
+Knud Fisker,frein,Undirected,1
+Martinns,frein,Undirected,1
+Martinns,saaes,Undirected,1
+Knud,saaes,Undirected,1
+Aage Knudsen,Martinus,Undirected,1
+Martinus,Svend,Undirected,1
+Jakob,felv,Undirected,1
+Aage,Jakob,Undirected,2
+Aage,sif,Undirected,1
+a. desl.,son,Undirected,1
+Erna,a. desl.,Undirected,1
+Jakob,sif,Undirected,1
+Jakob,Klavs,Undirected,1
+Klavs,Martinns,Undirected,1
+Jakob,Tue,Undirected,1
+Ester dein,soran,Undirected,1
+Aage Knudsen,Jakob,Undirected,1
+Aage,son,Undirected,1
+Erna,son,Undirected,1
+Grd,Martinus,Undirected,1
+Aage Knndsen,Martinus,Undirected,1
+Aage Knndsen,son,Undirected,2
+Aage Knndsen,Aage Knudsen,Undirected,1
+Broder Jakobs Baare,Martinus,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Kong Erik,Undirected,1
+Kong Erik,Martinus,Undirected,1
+Junker Kristoffer,Martinus,Undirected,1
+Martinus,fig,Undirected,1

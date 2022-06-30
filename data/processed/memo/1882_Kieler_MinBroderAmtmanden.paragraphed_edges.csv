@@ -1,0 +1,166 @@
+source,target,type,weight
+Lisbeth,Lisbeths,Undirected,1
+Gud,Lisbeth,Undirected,2
+Lisbeth,Tante Lisbeth,Undirected,2
+Lisbeth,Peter den store,Undirected,1
+Peter den store,Piter,Undirected,1
+Hr. Tiphofer,Lisbeth,Undirected,5
+Ekkos,Lisbeth,Undirected,1
+Elisabeth,Lisbeth,Undirected,4
+Lisbeth,Margarita,Undirected,32
+Margarita,Mathea,Undirected,1
+Lisbeth,Margarite,Undirected,1
+Margarita,Margarite,Undirected,1
+Papa,Phidias,Undirected,1
+Elisabeth,Phidias,Undirected,1
+Margarita,Tante Lisbeth,Undirected,2
+Frøken de la,Lisbeth,Undirected,1
+Kristian den,Lisbeth,Undirected,1
+Elisabeth,Hansker,Undirected,1
+Hakon,Lisbeth,Undirected,5
+Lisbeth,Witzer,Undirected,1
+Franziska,Margarita,Undirected,10
+Franziska,Lisbeth,Undirected,3
+Madam Edlund,de la Motte,Undirected,3
+Klaus Staldkarl,Madam Edlund,Undirected,2
+Kirsten Stuepige,Klaus Staldkarl,Undirected,1
+Kirsten Stuepige,Ole Røgter,Undirected,1
+Bileams,Staalnerver,Undirected,1
+Lisbeth,Summa summarum,Undirected,1
+Busk,Levinsens,Undirected,2
+Hakon de la Motte,Margarita,Undirected,16
+Lisbeth,Madam Edlund,Undirected,21
+Atalanta,Gud,Undirected,1
+Margarita,Papa,Undirected,14
+Margarita,Mathea Falck,Undirected,1
+Lisbeth,Mathea Falck,Undirected,1
+Goethe,Lisbeth,Undirected,1
+Atalanta,Margarita,Undirected,2
+Lisbeth,Tra,Undirected,2
+Lisbeth,Schillers,Undirected,1
+Lisbeth,Sokrates,Undirected,1
+Grete,Lisbeth,Undirected,1
+Grete,Gretelil,Undirected,2
+Grete,Margarita,Undirected,1
+Margareta,Margarita,Undirected,1
+Margareta,Margrete,Undirected,1
+Grete,Margrete,Undirected,1
+Lisbeth,Papa,Undirected,1
+Harefar,Margaritha,Undirected,1
+Burlesk,Hogarths,Undirected,1
+Hogarths,Holbergs,Undirected,1
+Lisbeth,Morten Madkær,Undirected,5
+Lisbeth,Morten »,Undirected,1
+Lisbeth,Paulus,Undirected,1
+Smalhans,de la Motte,Undirected,1
+Margarita,Smalhans,Undirected,1
+Hakon de la Motte,Margaritha de la Motte,Undirected,1
+Franziska,Hakon de la Motte,Undirected,3
+Erato,Lisbeth,Undirected,1
+Erato,Kithara,Undirected,1
+Kirsten Giftekniv,Lisbeth,Undirected,1
+Margarita,de la Motte,Undirected,10
+Hakon,Margarita,Undirected,17
+Cæsars,Margarita,Undirected,1
+Gud,Margarita,Undirected,12
+Margarita,Tyran,Undirected,1
+Lisbeth,de la Motte,Undirected,1
+Pathos,Tante Lisbeth,Undirected,1
+Hakon de la Motte,Lisbeth,Undirected,2
+Granit,Granits,Undirected,1
+Lisbeth,nynne,Undirected,1
+Madam Edlund,Margarita,Undirected,11
+Jeremias,Margarita,Undirected,1
+Giggen,Klaus Staldkarl,Undirected,1
+Frøken de,Giggen,Undirected,1
+Frøken de,Sama,Undirected,1
+Klaus,Sama,Undirected,1
+Klaus,Margarita,Undirected,1
+Hr. Tiphofer,Madam Edlund,Undirected,2
+Bakus,Hakon de la Motte,Undirected,1
+Papa,Sama,Undirected,1
+Donner,X,Undirected,1
+Hakon de la Motte,X,Undirected,1
+Margarita,Samaholms,Undirected,2
+Lisbeth,Sama,Undirected,1
+Morten Madkær,Samaholm,Undirected,1
+Madam Edlund,Samaholm,Undirected,1
+Gud,Morten Madkær,Undirected,1
+Margarita,Susanna,Undirected,8
+Gud,Samaholm,Undirected,1
+Papa,Susanna,Undirected,1
+Hakon de la Motte,de la Motte,Undirected,2
+Graad,Margarita,Undirected,1
+Jesus,Papa,Undirected,1
+Margarita de la Motte,Papa,Undirected,2
+Gud,Papa,Undirected,1
+Gud,de la Motte,Undirected,1
+Graad,Madam Edlund,Undirected,1
+Hakon de la,Margarita,Undirected,1
+Hakon de la Motte,Madam Edlund,Undirected,2
+Grete Malkepige,Klaus Staldkarl,Undirected,1
+Grete Malkepige,Kirsten Stupige,Undirected,1
+Kirsten Stupige,Sama,Undirected,1
+Sam aholm,de la Motte,Undirected,1
+Margarita,Theori,Undirected,1
+Gud,Madam Edlund,Undirected,2
+Kains,Margarita,Undirected,1
+Anders,Klavs,Undirected,1
+Anders,Peter,Undirected,1
+Peter,Povel,Undirected,1
+Hakon de la Motte,Nemesis,Undirected,1
+Broder Hakon,Hakon,Undirected,1
+Elisabeth,Hakon,Undirected,1
+Sama,de la Motte,Undirected,1
+Jomfru Strandberg,Madam,Undirected,1
+Jomfru Strandberg,Margarita,Undirected,1
+Fru de la Motte,Madam Edlund,Undirected,1
+Sama,Susanna,Undirected,1
+Madam Edlund,Susanna,Undirected,1
+Hakon de la,Susanna,Undirected,1
+Jomfru Strandberg,la Motte,Undirected,1
+Franziska,Margarita de la Motte,Undirected,2
+Franziska,Hakon,Undirected,2
+Mama,Margarita,Undirected,1
+Mama,Papa,Undirected,1
+Hakon de la Motte,Ludvigs,Undirected,1
+Hakon,Lille Hakon,Undirected,1
+Hakon de la Motte,Lille Hakon,Undirected,1
+Hakon,Hakon de la,Undirected,1
+Hakon,Motte,Undirected,1
+Dalilas,Samson,Undirected,1
+Lucifer,Margarita,Undirected,1
+Busk,Hakon de la Motte,Undirected,1
+Gud,Hakon de la Motte,Undirected,1
+Margarita,Sama,Undirected,1
+Hakon,Sama,Undirected,1
+Franziska,Fønix,Undirected,1
+Fønix,Margarita,Undirected,1
+Hakon,Papa,Undirected,3
+Margarita,Shakespeare,Undirected,1
+Goethe,Shakespeare,Undirected,1
+Adam,Eva,Undirected,2
+Busk,Hakon Jarl,Undirected,1
+Julie,Romeo,Undirected,1
+Jarl Hakon,Julie,Undirected,1
+Hakon Jarl,Jarl Hakon,Undirected,1
+Hakon,Jarl,Undirected,1
+Erik,Jomfru Stenberg,Undirected,1
+Busk,Margarita,Undirected,4
+Margarita,Stenberg,Undirected,1
+Busk,Stenberg,Undirected,1
+Margarita,a,Undirected,1
+a,hnn,Undirected,1
+Margarita,hnn,Undirected,1
+Busk,Jomfru Stenberg,Undirected,1
+Busk,Madam,Undirected,1
+Busk,Hakon,Undirected,2
+Busk,Motte,Undirected,1
+Hakon de la Motte,Zeus,Undirected,1
+Busk,Zeus,Undirected,1
+Margarita,alias Zeus,Undirected,1
+Hr. Tiphofer,Margarita,Undirected,1
+Gud,Hakon,Undirected,1
+Jesus,Margarita,Undirected,1
+Jesus,Kristus,Undirected,1
+Hakon,Kristus,Undirected,1

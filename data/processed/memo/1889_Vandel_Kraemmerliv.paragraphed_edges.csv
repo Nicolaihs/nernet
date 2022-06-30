@@ -1,0 +1,77 @@
+source,target,type,weight
+Ibrahim Meyer,Peder Laales,Undirected,1
+Andreasen,Brønner,Undirected,4
+Brønner,Mortensen,Undirected,4
+Andreasen,Mortensen,Undirected,3
+Hjalmar Randbøl,Mortensen,Undirected,2
+Hjalmar,Mortensen,Undirected,6
+Andreasen,Hjalmar,Undirected,3
+Andreasen,Meyer,Undirected,19
+Hakon,Tue,Undirected,1
+Andreasen,Gud,Undirected,1
+Brønner,Hjalmar,Undirected,4
+Hjalmar,Klaus Fanøbo,Undirected,1
+Hjalmar,Randbøl,Undirected,1
+Andreasen,tom,Undirected,1
+Andreasen,Randbøl,Undirected,3
+Frida,Hjalmar,Undirected,4
+Andreasen,Søren,Undirected,1
+Kong Frederik,Søren,Undirected,2
+Andreasen,Kaya,Undirected,2
+Hjalmar,Kaya,Undirected,7
+Hilmers,Hjalmar,Undirected,7
+Hilmers,Mortensen,Undirected,3
+Freja,Hjalmar,Undirected,2
+Hans Mine,Hjalmar,Undirected,1
+Hjalmar,Ibrahim Meyer,Undirected,1
+Meyer,Podagra,Undirected,1
+Andreasen,Avind,Undirected,1
+Meyer,Selim Ibrahim Meyer,Undirected,1
+Andreasen,Hjalmar Randbol,Undirected,2
+Frida Harbo,bos,Undirected,1
+Frida Harbo,Hjalmar,Undirected,1
+Freja —,Hjalmar,Undirected,1
+Freja —,Odin,Undirected,1
+Hnossir,Odin,Undirected,1
+Gersemar,Hnossir,Undirected,1
+Asynjen,Frida,Undirected,1
+Hjalmar,Hnos,Undirected,1
+Freja,Hnos,Undirected,1
+Pugna,victoria,Undirected,1
+Hilmers,Peter Blom,Undirected,1
+Blomme-Peter,Hilmers,Undirected,3
+Mortensen,Randbols,Undirected,1
+Kaya,Mortensen,Undirected,3
+Bioms,Kaya,Undirected,1
+Gage,Høyer,Undirected,1
+Gage,Mortensen,Undirected,1
+Bonde-Billund,Hilmers,Undirected,1
+Hilmers,Kaya,Undirected,3
+Høyer,Kaya,Undirected,1
+Blom,Høyer,Undirected,1
+Blom,Mortensen,Undirected,1
+Kaya,Randbøl,Undirected,1
+Hilmers,Pip-Høyer,Undirected,1
+Høyer,Mortensen,Undirected,1
+Hjalmar,Winthers,Undirected,1
+Hjalmar,stans,Undirected,1
+Eja,Hjalmar,Undirected,1
+Basuners,Hjalmar,Undirected,1
+Brønner,Meyer,Undirected,3
+Brønner,Randbøl,Undirected,2
+Harbos,Meyer,Undirected,1
+Blom,Hjalmar,Undirected,1
+Kelner,Mortensen,Undirected,1
+Hjalmar,paany,Undirected,1
+Freja,Frida,Undirected,1
+Frida,Meyer,Undirected,3
+Gud,Meyer,Undirected,1
+Blom,Hilmers,Undirected,1
+Frands,Frits,Undirected,1
+Graadybs,jla Stormen,Undirected,1
+Hjalmar,Volo te hoc seire,Undirected,1
+Hjalmar,j eg,Undirected,1
+Hjalmar,Hr. Andreasen,Undirected,1
+Grev Mortensen,Hilmers,Undirected,1
+Hjalmar,Maanens,Undirected,1
+Blaalys,Hjalmar,Undirected,1

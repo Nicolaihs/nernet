@@ -1,0 +1,137 @@
+source,target,type,weight
+Chasseur,Gud,Undirected,1
+Søren,Turi,Undirected,1
+Gud,Kancelliraad Mørch,Undirected,1
+Axel Winther,Turi,Undirected,1
+Turi,Victoria,Undirected,1
+Gud,Victoria,Undirected,1
+Gud,klans,Undirected,1
+Axel,klans,Undirected,1
+Axel,Harald Holm,Undirected,2
+Axel,Harriets,Undirected,1
+Harriet,Harriets,Undirected,1
+Axel,Harriet,Undirected,15
+Axel,Victoria,Undirected,1
+Harriet,Victoria,Undirected,1
+Harriet,Holm,Undirected,3
+Axel,Holm,Undirected,1
+Gud,Harriet,Undirected,1
+Axel,Gud,Undirected,1
+Axel,Turi,Undirected,11
+Harriet,Turi,Undirected,1
+Axel saa,Turi,Undirected,1
+Axel,Axel saa,Undirected,1
+Turi,Winther,Undirected,73
+L’,Winther,Undirected,1
+L’,Mørch,Undirected,1
+Mørch,Winther,Undirected,16
+Gud,Winther,Undirected,6
+-Turi,Gud,Undirected,1
+-Turi,Winther,Undirected,1
+Toddy,Turi,Undirected,1
+Chasseur,Toddy,Undirected,1
+Chasseur,Turi,Undirected,3
+Gud,Turi,Undirected,8
+Uhret,Winther,Undirected,1
+Turi,Uhret,Undirected,1
+Chasseur,Winther,Undirected,11
+Ellen,Lund,Undirected,3
+Ellen,Kaptain Bang,Undirected,1
+Kaptain Bang,Lund,Undirected,1
+Bang,Lund,Undirected,4
+Bang,Ellen ahne,Undirected,1
+Ellen,Ellen ahne,Undirected,1
+Bang,Ellen,Undirected,44
+Bang,Ellen Lund,Undirected,2
+Ellen,Gud,Undirected,2
+Einar,Ellen,Undirected,10
+Einar,Kaptain Bang,Undirected,1
+Bang,Kaptain Bang,Undirected,1
+Bang,Einar,Undirected,8
+Einar,Lund,Undirected,2
+Einar,Faders,Undirected,1
+Faders,Mørch,Undirected,1
+Bang,Mørch,Undirected,2
+Lund,Mørch,Undirected,3
+Ellen,Mørch,Undirected,1
+Einar,Mørch,Undirected,36
+Einar,Mørcli,Undirected,1
+Clara Hansen,Einar,Undirected,2
+Clara Hansen,Claras,Undirected,1
+Gud,Mørch,Undirected,5
+Clara,Clara Hansen,Undirected,1
+Clara,Einar,Undirected,1
+Bang Mørch,Einar,Undirected,2
+Einar,rooRdlr,Undirected,1
+Mørch,rooRdlr,Undirected,1
+Mørch,h?,Undirected,1
+h?,n,Undirected,1
+Mørch,n,Undirected,1
+Einar,Turi,Undirected,109
+Turi,kam,Undirected,2
+Einar,Therkildsen,Undirected,2
+Thora,Turi,Undirected,1
+Gud,Lærkens,Undirected,1
+Lærkens,Turi,Undirected,1
+Einar,Winther,Undirected,36
+Einar,Gud,Undirected,11
+Einar,volens,Undirected,1
+Winther,volens,Undirected,1
+Mørch,Turi,Undirected,15
+Frøken Winther,Turi,Undirected,1
+Einar,Frøken Winther,Undirected,1
+Einar,Plinar,Undirected,1
+Axel,Øhlenschlægers,Undirected,1
+Axel,Valborg,Undirected,1
+Gud,Oehlenschlæger,Undirected,1
+Hr. Bang Mørch,Turi,Undirected,1
+Turi,Turi Turi,Undirected,2
+Harriet,Winther,Undirected,1
+Chasseur,Harriet,Undirected,1
+Einar,hnn,Undirected,1
+Frøken Lindgrens,Turi,Undirected,1
+Einar,Frøken Friis,Undirected,1
+Einar,Frøken Lindgrens,Undirected,1
+Frøken Lindgrens,Winther,Undirected,1
+Frøken Lindgren,Frøken Lindgrens,Undirected,1
+Einar,Frøken Lindgren,Undirected,1
+Turi,juris Brown,Undirected,1
+Einar,juris Brown,Undirected,1
+Brown,Winther,Undirected,1
+Brown,Turi,Undirected,1
+Brown,Frøken Lindgren,Undirected,1
+Einar ahne,Frøken Lindgren,Undirected,1
+Brown,Einar ahne,Undirected,1
+Einar,Herman Storm,Undirected,1
+Hans Lange,Storm,Undirected,1
+Hans Lange,Lange,Undirected,1
+Brown,Einar,Undirected,4
+Brown,Storm,Undirected,1
+Einar,Storm,Undirected,1
+Herman Storm,Storm,Undirected,1
+Turi,bravo,Undirected,1
+Einar,bravo,Undirected,1
+Lindens,Turi,Undirected,1
+Einar Bang Mørch,Winther,Undirected,2
+Graad,Turi,Undirected,1
+Einar,Graad,Undirected,1
+Kancelliraad Mørch,Winther,Undirected,1
+Einar,Kancelliraad Mørch,Undirected,2
+Chasseur,Flun,Undirected,1
+Flun,Winther,Undirected,1
+Karen,Winther,Undirected,2
+Jøses,Karen,Undirected,1
+Haubye,Mutter,Undirected,2
+Mutter,Turi,Undirected,2
+Haubye,Turi,Undirected,7
+Einar,Haubye,Undirected,1
+Haubye,lille Frøken,Undirected,1
+Winther,ban,Undirected,2
+Chasseur,Karen,Undirected,2
+Karen,Pastor Winthers,Undirected,1
+Einar,Haffner,Undirected,8
+Haffner,Turi,Undirected,3
+Haffner,Leth,Undirected,1
+Einar,Leth,Undirected,1
+Gud,lille Einar,Undirected,1
+Einar,lille Einar,Undirected,1

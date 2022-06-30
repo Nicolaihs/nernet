@@ -1,0 +1,142 @@
+source,target,type,weight
+Alfred,Alfreds,Undirected,1
+Alfred,Valborg dér,Undirected,1
+Alfred,Lille Valborg,Undirected,2
+Alfred,Mama,Undirected,1
+Alfred,Graad,Undirected,1
+Alfred,lille Valborg,Undirected,2
+Valborgs,lille Valborg,Undirected,1
+Alfred,Valborg,Undirected,10
+Alfred,Biscuit,Undirected,1
+Alfred,Amor,Undirected,1
+Alfred,Kajn,Undirected,1
+Alfred,Rolf Skærmng,Undirected,1
+Alfred,Rolf,Undirected,5
+Alfred,Fader,Undirected,1
+Alfred,Jørgen,Undirected,1
+Helge,Roar,Undirected,1
+Alfred,Palnatoke,Undirected,1
+Palnatoke,Sven Tveskæg,Undirected,2
+Alfred,Svenborgs,Undirected,2
+Alfred,Hosianna,Undirected,1
+Johan,Rolf,Undirected,1
+Alfred,Carlo,Undirected,2
+Alfred,Hertug Abel,Undirected,1
+Abel,Alfred,Undirected,3
+Abel,Bengerds,Undirected,1
+Alfred,Flora Hoffmann,Undirected,1
+Alfred,Pauline,Undirected,2
+Alfred,Paula,Undirected,4
+Paula,Valborg,Undirected,1
+Hamlet,Horatio,Undirected,1
+Alfred,Horatio,Undirected,1
+Palnatoke,Ørkilds,Undirected,1
+Guldhaar,Sif,Undirected,2
+Frøken Top,Junker,Undirected,1
+Junker,Rolf,Undirected,1
+Allez,Rolf,Undirected,1
+Rolf,Sviregasters,Undirected,1
+Alfred,Wemb,Undirected,1
+Abigael,Ambrosius,Undirected,1
+Ambrosius,Mathilde,Undirected,1
+Alfred,Mathilde,Undirected,6
+Alfred,Madsen,Undirected,2
+Alfred,Frederik,Undirected,1
+Alfred,Sverigs,Undirected,1
+Bergthor,Jarl Hak ons,Undirected,1
+Bergthor,Hakons,Undirected,1
+Hakons,Halfdans,Undirected,1
+Halfdans,Jarlens,Undirected,1
+Adam Øhlenschlåger,Halfdans Maal,Undirected,1
+Bergthor,Halfdans Maal,Undirected,1
+Gud,Hr. Rindsholm,Undirected,1
+Gud,Mathilde,Undirected,1
+Alfred,Nielsine,Undirected,1
+Alfred,tempora,Undirected,1
+es,tempora,Undirected,1
+Rolf,es,Undirected,1
+Adam,Eva,Undirected,1
+Valborg,Valsetoner,Undirected,2
+Knud Prislavsen,Valdemar den,Undirected,1
+Barfod,Valdemar den,Undirected,1
+Niels Hellevad,Sven Tveskæg,Undirected,1
+Nicolaus Helvaderus,Niels Hellevad,Undirected,1
+Nicolaus Helvaderus,Sven tEiugffiæg,Undirected,1
+Sven tEiugffiæg,Tiugskiæg,Undirected,1
+Mama,Valborg,Undirected,1
+Kristen Pedersen,Valborg,Undirected,1
+Niels Juels,Øhlenschlager,Undirected,1
+Alfred Vrang,Valborg,Undirected,1
+Carlo,lille Valborg,Undirected,1
+Alfred,lille Valo,Undirected,1
+Alfred,Michelet,Undirected,1
+Carlo,rex,Undirected,1
+rex,rik,Undirected,1
+Gud,Hessians,Undirected,1
+Madsen,Mathilde,Undirected,1
+Alfred,Diana,Undirected,1
+Gud,Rolf,Undirected,1
+Gud,véd,Undirected,1
+Rolf paany,véd,Undirected,1
+Rolf paany,Stensen,Undirected,1
+Orla,Rolf,Undirected,1
+Hebel,Rolf,Undirected,1
+Valdemar,Valdemar Dal,Undirected,1
+Dal,Valdemar,Undirected,1
+Gladstones,Stensen,Undirected,1
+Gladstone,Jean,Undirected,1
+Monseigneur l,Valde-Marais.,Undirected,1
+Madvig,jone,Undirected,1
+Clara,Claras,Undirected,1
+Clara,paany,Undirected,1
+Clara,Gud,Undirected,1
+Mikkelsens,Peter Bybuds,Undirected,1
+Johannes Brock,Valdemar Atterdags,Undirected,1
+Hans,Junker,Undirected,7
+Junker Hans,Snerle,Undirected,1
+Abel Snerle,Hans,Undirected,1
+Fanny,capo,Undirected,1
+Fanny,paany,Undirected,1
+Fanny,Slendrians,Undirected,1
+Fanny,Peter,Undirected,1
+Fanny,Mutter,Undirected,1
+Abel Snerle,Alfred Vrang,Undirected,1
+Alfred,Fanny,Undirected,1
+Fanny,Hans,Undirected,1
+Carlo,Valborg,Undirected,3
+Alfred,Mathis,Undirected,1
+Hans,Rolf,Undirected,1
+Fabers,Stensen,Undirected,1
+Kristus,Valborg,Undirected,1
+Alfred,Gud,Undirected,1
+Haabets,Valborg,Undirected,1
+Rolf,Stensen,Undirected,1
+Abraham,Jeppe,Undirected,1
+Greven,Stensen,Undirected,1
+Euterpes,Greven,Undirected,1
+Clara Wemb,notam,Undirected,1
+Greven,Rolf Skærnings,Undirected,1
+Elisabeth,Melvil,Undirected,1
+Eja,sæters,Undirected,1
+fossen,sæters,Undirected,1
+Ase,sten-hellen,Undirected,1
+Ase,lille jenten,Undirected,1
+Fars,lille jenten,Undirected,1
+Gud,Livor,Undirected,1
+Carlo,Valborg Ancher,Undirected,1
+Carlo,Felix,Undirected,1
+Felix,Valborg,Undirected,1
+Bastei,Elbens,Undirected,1
+Alfred,Bastei,Undirected,1
+Androkles,Polykrates,Undirected,1
+Fanny,Gumma,Undirected,1
+Gud,Line,Undirected,1
+Hony soit,Line,Undirected,1
+Rafael,Valborg,Undirected,1
+Elvira,Søren Kirkegaard,Undirected,1
+Don Juan,Elvira,Undirected,1
+Don Juan,Margrete,Undirected,2
+Don Juan,Faust,Undirected,2
+Gud,Hjobs,Undirected,1
+Sven Tveskæg,Svenborg,Undirected,1
+Alfred,Martha,Undirected,3

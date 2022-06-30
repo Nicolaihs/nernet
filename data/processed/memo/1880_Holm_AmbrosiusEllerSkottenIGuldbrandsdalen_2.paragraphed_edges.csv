@@ -1,0 +1,263 @@
+source,target,type,weight
+Lars Gram,Sinklair,Undirected,1
+Sigrid,Thor,Undirected,13
+Knut,Thor,Undirected,5
+Knut,Sigrid,Undirected,6
+Gutten,Thor,Undirected,1
+Sigrid,bæve,Undirected,1
+Thor,bæve,Undirected,1
+Ieg,Sigrid,Undirected,2
+Adelhard,Sigrid,Undirected,11
+Adelhard „,Bjørnson,Undirected,1
+Gud,Sigrid,Undirected,2
+Skotten,Thor Bjørnson,Undirected,1
+Adelhard,Arenta,Undirected,29
+Bjørnson,Sigrid,Undirected,2
+Adelhard Bjørnson,Sigrid,Undirected,1
+Knud,Knut,Undirected,2
+Karl,Knut,Undirected,1
+Sigrid,hair,Undirected,2
+Adelhard Bjørnson,Knut,Undirected,1
+Hillemænd,Paven,Undirected,1
+Knut,Thor Bjørnson,Undirected,2
+Thor,Thor Bjørnson,Undirected,1
+Sigrid,hamthi,Undirected,1
+Præsfen,Thor,Undirected,1
+Sigrid,huir,Undirected,1
+Thor,huir,Undirected,1
+Gud,dm Ældsfe,Undirected,1
+Thor,dm Ældsfe,Undirected,1
+Gud,frede,Undirected,1
+Adelhard,Steen,Undirected,1
+Sigrid,kair,Undirected,1
+Frase,fidt,Undirected,1
+Jemmy,hair,Undirected,1
+Gud,Helene,Undirected,1
+Ida,hnn,Undirected,3
+Hnn,Ida,Undirected,1
+ane,hnn,Undirected,1
+Jemmy,taus,Undirected,1
+Gud,Thor Bjørnson,Undirected,1
+Gud,Jemmy,Undirected,1
+Helene,Jemmy,Undirected,7
+Arenta,Thor,Undirected,1
+Adelhard,Jemmy,Undirected,2
+Helene,Øet,Undirected,1
+Jemmy,ester,Undirected,1
+Adelhard,Thor,Undirected,4
+Helene,Thor,Undirected,1
+Jemmy,Sigrid,Undirected,19
+Arenta,Helene,Undirected,4
+Fyrsfen,Helene,Undirected,1
+Fyrsfen,Sigrid,Undirected,1
+Arenta,Betli,Undirected,5
+Arenta,Bellis,Undirected,1
+Betli,taus,Undirected,1
+Arenta,Diavolo,Undirected,28
+Betli,Diavolo,Undirected,1
+Diavolo,Plutos,Undirected,1
+Arenta,Plutos,Undirected,1
+Diavolo,Gil flog,Undirected,1
+Arenta,inat,Undirected,1
+Arenta,Nikolaus,Undirected,8
+Arenta,ester,Undirected,2
+ester,j,Undirected,1
+Diavolo,Nikolaus,Undirected,2
+Ambrosius,Bepo,Undirected,2
+,Ambrosius,Undirected,2
+Elliot,Gondolier,Undirected,2
+Bepo,Elliot,Undirected,6
+Bepo,Finitzas,Undirected,1
+Ambrosius,Finitza,Undirected,15
+Ambrosius,Elliot,Undirected,4
+Bepo,Kabu,Undirected,1
+Elliot,Finitza,Undirected,8
+Ambrosins,Bepo,Undirected,1
+Ambrosins,Finitza,Undirected,1
+Finitza,Signor Elliot,Undirected,1
+Elliot,Signor Elliot,Undirected,1
+Adonis Padua,Finikza,Undirected,1
+Elliot,Finikza,Undirected,9
+Adonis,Finikza,Undirected,5
+Arenta,Finikza,Undirected,7
+Adelhard,Finikza,Undirected,5
+Arenta,Finitza,Undirected,14
+Adelhard,Finitza,Undirected,3
+Adonis,Apollo,Undirected,1
+Elliot,Signor,Undirected,1
+Ole,Signor Adonis,Undirected,1
+Elliot,Kaarde,Undirected,1
+Elliots Saar,Finitza,Undirected,1
+Adonis,Elliots Saar,Undirected,1
+Elliot,No,Undirected,1
+Ambrosius,rysfer,Undirected,2
+Kabu,Marcus Løver,Undirected,1
+Adonis,Gemma,Undirected,7
+Adonis,Elliot,Undirected,1
+Napoleon,Signor,Undirected,1
+Ask,Steen,Undirected,1
+Elliot,ersfen,Undirected,1
+Eie,Elliot,Undirected,1
+Eie,Finitza,Undirected,1
+Finikza,Finitza,Undirected,2
+Bepo,Elliot skælveds,Undirected,1
+Bepo,Prindsen,Undirected,1
+Adonis,Ambrosius,Undirected,2
+Ambrosius,Prindsen,Undirected,1
+Adonis,Finitza,Undirected,1
+Arenta,Nikolans,Undirected,1
+Arenta,Sands,Undirected,1
+Diavolo,denAdelhard,Undirected,1
+Ibra,Nikolaus,Undirected,6
+Gud,Jbra,Undirected,1
+Gud,Nikolaus,Undirected,1
+Sands,Werster,Undirected,1
+Adelhard,Betli,Undirected,1
+Arenta,Gil Klark,Undirected,1
+Betli,Gil,Undirected,3
+Betli,Pauline,Undirected,1
+Napoleon,Samuel,Undirected,1
+Napoleon,Vexler,Undirected,1
+Hertha,Vexler,Undirected,1
+Hertha,ester,Undirected,1
+Diavolo,Pauline,Undirected,3
+Pauline,Seir,Undirected,1
+Arenta,Pauline,Undirected,12
+Gil,Pauline,Undirected,1
+Gil Klark,Keiseren,Undirected,1
+Madam Klark,Pauline,Undirected,1
+Keiseren,Pauline,Undirected,1
+Pauline,freidig,Undirected,1
+Finitza,Gemma,Undirected,2
+Elliot,Prindsen,Undirected,3
+Mahomed,fro,Undirected,1
+Elliot,Guiseppe,Undirected,4
+Bepo,Gondolier,Undirected,2
+Ambrosius Elliot,Kabu,Undirected,1
+Bepo,Finikza,Undirected,1
+Ambrosius,Finikza,Undirected,4
+Elliot,Finikza Padua,Undirected,1
+Finikza,Hexen,Undirected,2
+Finitza,Hexen,Undirected,1
+Finitza,Guiseppe,Undirected,1
+Finitza,Giuseppe,Undirected,1
+Io,Sigrid,Undirected,1
+Arenta,Io,Undirected,1
+Arenta,sidsfe,Undirected,1
+Ambrosius,Konstner,Undirected,1
+Finitza,Gud,Undirected,1
+Finikza,Hex,Undirected,1
+Hexen,Signora,Undirected,1
+Ambrosius slift,Elliot,Undirected,1
+Arenta,Elliot,Undirected,7
+Ambrosius,Finikza slod,Undirected,1
+Ambrosius,kjære Finikza,Undirected,1
+frede,huu,Undirected,1
+Frue,hem,Undirected,1
+Berezows,Diavolo,Undirected,1
+Berezow,Nikolaus,Undirected,1
+Arenta,Jbra,Undirected,10
+Arenta,Ask,Undirected,1
+Arenta,Ibra,Undirected,2
+Jbra,Nikolaus,Undirected,8
+Jb-ra,Jbra,Undirected,1
+Bepo,Jbra,Undirected,1
+Jbra,hnn,Undirected,1
+,Nikolaus,Undirected,2
+,Arenta,Undirected,1
+Diavolo,hanl,Undirected,1
+Arenta,kjær,Undirected,1
+Ibra,tans,Undirected,1
+Seil,blæsf,Undirected,1
+Sigrid,def,Undirected,1
+Helene,Konstantin,Undirected,1
+Gil Klark,Helene,Undirected,2
+Gil Klark,Madam Klark,Undirected,1
+Helene,Madam Klark,Undirected,1
+Bjørnson,Madam Klark,Undirected,1
+Betli,Helene,Undirected,1
+Ambrosius,hnn,Undirected,1
+Finitza,Prindsen,Undirected,1
+Finikza,Kjære,Undirected,1
+Adelhard,Diavolo,Undirected,2
+Dorbits,Flamingos,Undirected,1
+Dolk,Dorbits,Undirected,1
+Dolk,sidsfe,Undirected,1
+Nikolaus,beile,Undirected,1
+Arenta,Finifza,Undirected,1
+Adelhard,Finifza,Undirected,1
+Arenta,Assky,Undirected,1
+Adelhard,Assky,Undirected,1
+Adelhard,Øet,Undirected,1
+Arenta,Karl,Undirected,1
+Arenta,Karlen,Undirected,1
+Diavolo,Karlen,Undirected,1
+Karlen,Kosakken,Undirected,1
+Adelhard Bjørnson,Jemmy,Undirected,1
+Gil,Gud,Undirected,2
+Adelhard Bjørnson,Betli,Undirected,1
+Adelhard Bjørnson,Madam Klark,Undirected,1
+Betli,Jemmy,Undirected,1
+Helene,Sigrid,Undirected,5
+Helene,elffes,Undirected,1
+Sigrid,Skotte,Undirected,1
+Bo,Elliot,Undirected,1
+Adelhard,Ambrosius,Undirected,2
+Ambrosius,Finifza,Undirected,1
+Ambrosius,Arenta,Undirected,1
+Finitza,elh,Undirected,1
+Diavolo,Gud,Undirected,1
+Arenta,Gud,Undirected,3
+Kristi,Paven,Undirected,1
+Ambrosius Elliot,Finitza,Undirected,1
+Ambrosius Elliot,Arenta,Undirected,1
+Arenta,Pateren,Undirected,1
+Adelhard,Panle,Undirected,1
+Arenta,tanse,Undirected,1
+Finitza,Spaadom,Undirected,1
+Adelhard slod,Arenta,Undirected,1
+Adelhard slod,Finikza,Undirected,1
+Finikza,Gud,Undirected,1
+Adelhard,Gud,Undirected,1
+.,ha,Undirected,1
+Adelhard Bjørnson,Elliot,Undirected,1
+Adelhard,Guiseppe,Undirected,4
+Guiseppe,ane,Undirected,1
+Adelhard,Bepo,Undirected,1
+Ester,Josef Noard,Undirected,1
+Arenta,Josef Noard,Undirected,1
+Adelhard,Helene,Undirected,1
+Adelhard,Arenta slod,Undirected,1
+Arenta,Sigrid,Undirected,3
+Pauline,Sigrid,Undirected,1
+Jemmy,Pauline,Undirected,1
+Arenta,Gil,Undirected,1
+Arenta,kusk,Undirected,1
+Ester,Sigrid,Undirected,1
+Sigrid,Thor Bjørnson,Undirected,1
+Jemmy,Thor Bjørnson,Undirected,1
+Taus,mørk,Undirected,1
+Jemmy,Knut,Undirected,1
+Jemmy,Thor,Undirected,1
+Arenta,Knut,Undirected,1
+Sigrid,Tilgivelfe,Undirected,1
+Sigrid,Skotten,Undirected,1
+Adelhard,Skotten,Undirected,2
+Adelhard,Adelhard Bjørnson,Undirected,2
+Gemma,Molly,Undirected,1
+Adonis,Molly,Undirected,1
+Finikza,Signor,Undirected,1
+Adelhard,Bjørnson,Undirected,1
+Ambrosius Elliot,Padua,Undirected,1
+Adelhard,Adonis Padua,Undirected,1
+Adonis,Arenta,Undirected,2
+Arenta,Signor Padua,Undirected,3
+Adelhard,Signor Padua,Undirected,2
+Adelhard,Eden,Undirected,1
+Gemma,seil,Undirected,1
+Gud,Skotte,Undirected,1
+Signor Padua,ester,Undirected,1
+Adelhard,Skotte,Undirected,1
+Ambrosins Elliot,Arenta,Undirected,1
+Arenta,FinitzaS,Undirected,1
+FinitzaS,Komtessen,Undirected,1

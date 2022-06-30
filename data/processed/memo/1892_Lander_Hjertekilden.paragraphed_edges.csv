@@ -1,0 +1,40 @@
+source,target,type,weight
+Niels Skytte,Tuen,Undirected,2
+Dannebroge,Evropa,Undirected,1
+Baron v.,Hother,Undirected,1
+Hother,Ingeborg,Undirected,61
+Buldog,Hother,Undirected,1
+Hother,Løwenburgs,Undirected,1
+Hother,Hother v. Løwenburg,Undirected,1
+Hother von Løwenburg,Hr. Moritz,Undirected,1
+Niels Nielsen,Niels Skytte,Undirected,1
+Hother,Jngeborgs,Undirected,1
+Ingeborg,Maria,Undirected,15
+Hother,Niels Skytte,Undirected,11
+Hother,Niels,Undirected,2
+Hother,Hother von Løwenburg,Undirected,1
+Hother von Løwenburg,Ingeborg,Undirected,1
+Hother v. Løwenburg,Jocey,Undirected,1
+Hother v. Løwenburg,v. Miihren,Undirected,1
+Hother,Hother v.,Undirected,1
+Hother,v. Miihren,Undirected,6
+Hother,Løwenburg,Undirected,1
+Løwenburg,Miihren,Undirected,1
+Hother,Miihren,Undirected,1
+Hother,Hoves,Undirected,1
+Gud,Hother,Undirected,7
+Ingeborg,v. Miihren,Undirected,2
+Gud,Ingeborg,Undirected,1
+Ingeborg,v.,Undirected,1
+Hother,Taalmod,Undirected,3
+Hother,Maria,Undirected,11
+Hother,Lø-wenb,Undirected,1
+Aare,Lø-wenb,Undirected,1
+Aare,Ingeborg,Undirected,1
+Hother,Løwenburgerhes,Undirected,1
+Hother,Inge-borgs,Undirected,2
+Inge-borgs,Ingeborg,Undirected,1
+Hother,bernes,Undirected,1
+Maria,Miihren,Undirected,1
+Ingeborg,Miihren,Undirected,1
+Gud,lians,Undirected,1

@@ -1,0 +1,58 @@
+source,target,type,weight
+Rose,Tidsel,Undirected,1
+Anders,Tidsel,Undirected,1
+Junker Mogens,Kristian den,Undirected,1
+Anders,Mogens,Undirected,4
+Anders,Hansen,Undirected,1
+Hansen,Petersen,Undirected,1
+Anders,Petersen,Undirected,1
+Maren Lisbeth,Ole,Undirected,1
+Junker,Mogens,Undirected,3
+Maren Lisbeth,Mogens,Undirected,3
+Karen Margrethe,Maren Lisbeth,Undirected,1
+Anders,Maren Lisbeth,Undirected,1
+Jeanne d1,Maren Lisbeth,Undirected,1
+Jeanne d1,Jeanne d1 Arc,Undirected,1
+Jeanne d1 Arc,Maren Lisbeth,Undirected,1
+Junker Mogens,Maren Lisbeth,Undirected,2
+Anders,Mogens Løventhai,Undirected,1
+Emma,Lisbeth,Undirected,2
+Junker Mogens,Lisbeth,Undirected,1
+Junker Mogens1,Lisbeth,Undirected,1
+Anders,Emma,Undirected,1
+Emma,Mogens,Undirected,4
+Lisbeth,Mogens,Undirected,11
+Mogens,spaa,Undirected,1
+Lisbeth,Løventhai,Undirected,1
+Graaden,Løventhai,Undirected,1
+Mogens,Onkels,Undirected,1
+Onkels,Sigismunda,Undirected,1
+Frøken Mortensen,lille Emma,Undirected,2
+Frk. Mortensen,Lisbeth,Undirected,1
+Anders Havemands,Mogens,Undirected,1
+Anders Havemands,Mortensen,Undirected,1
+Karen Margrethe,Ole Mortensen,Undirected,1
+Anders,Junker Mogens,Undirected,1
+Anders,Gud,Undirected,1
+Gud,jane,Undirected,1
+Anders,Lisbeth,Undirected,2
+Anders,lille,Undirected,1
+Lisbeth,Ole Mortensen,Undirected,3
+Frøken Mortensen,Lisbeth,Undirected,1
+Karen,Ole,Undirected,2
+Jøsses,Karen,Undirected,1
+Gud,novet,Undirected,1
+Karen,Per,Undirected,4
+Ole,Per,Undirected,3
+Karen,Mo,Undirected,1
+Mo,Per,Undirected,1
+Hans,Per,Undirected,1
+Hans,Malene,Undirected,1
+Dronning Esters,Kong Ahasverus,Undirected,1
+Dronning Ester,Per,Undirected,1
+Jeronimus,Per,Undirected,1
+Graaden,Per,Undirected,1
+Gud,Per,Undirected,2
+Graad,Per,Undirected,1
+Rubens,Salomon,Undirected,1
+Gud,Peder Ole Pedersen,Undirected,1

@@ -1,0 +1,254 @@
+source,target,type,weight
+Alida,Merete,Undirected,10
+Femia,Marianne,Undirected,5
+Arentz,Claes,Undirected,1
+Arentz,Femia,Undirected,1
+Alida,Arentz,Undirected,1
+Arentz,Marianne,Undirected,2
+Merete,Ney,Undirected,1
+Alida,Marianne,Undirected,12
+Marianne,Merete,Undirected,15
+Femia,Merete,Undirected,2
+Alida,Bunge,Undirected,1
+Flan,Witte,Undirected,1
+Flan,Peter,Undirected,1
+Maren,Marianne,Undirected,1
+Alida,ifjor,Undirected,2
+Alida,Tante Ra,Undirected,1
+Femia,Ra,Undirected,1
+Alida,Ra,Undirected,4
+Alida,Rafossen,Undirected,1
+Arentz,Merete,Undirected,1
+Barbara,Marianne,Undirected,8
+Jens Visergut,Marianne,Undirected,1
+Alida,Jens Visergut,Undirected,1
+Jesses,Rødsi,Undirected,1
+Kvigstads,Marianne,Undirected,1
+Bo,Eufemia,Undirected,1
+Bo,Martin Haug,Undirected,1
+Alida,Kvigstad,Undirected,6
+Barbara,Merete,Undirected,10
+Alida,Randi,Undirected,1
+Barbara,Torsten,Undirected,1
+Randi,Torsten,Undirected,1
+Karene,Randi,Undirected,1
+Barbara,Karene,Undirected,1
+Alida,Knut Raalien,Undirected,1
+Femia,^Eu—femia,Undirected,1
+Howard,Merete,Undirected,1
+Alida,Fiolinen,Undirected,1
+Eufemia,Haydns,Undirected,1
+Eufemia,Marianne,Undirected,2
+Marianne,Schmidt,Undirected,5
+Augustinusen,Schmidt,Undirected,10
+Alida,Barbara,Undirected,4
+Eufemia,Merete,Undirected,4
+Aasen,Hyss—s,Undirected,1
+Jomfru Marianne,Jomfru Merete,Undirected,1
+Ole Nordsæthagen,Randi Budeies,Undirected,1
+Randi Budeies,didind,Undirected,1
+Anders Aarlid,Haug,Undirected,1
+Haug,Randi,Undirected,1
+Gudbjør,Hang,Undirected,1
+Alida,Hang,Undirected,1
+Gudbjør,Marianne,Undirected,1
+Barbara,Flusets,Undirected,1
+Eufemia,Liun,Undirected,1
+Barbara,Rein,Undirected,3
+Ajax,Barbara,Undirected,2
+Barbara,Inger,Undirected,2
+Femia,Nankins,Undirected,1
+Alida,Rein,Undirected,2
+Alida,Henschien,Undirected,2
+Jomfru Alidas,Kvigstad,Undirected,1
+Augustinusen,Marianne,Undirected,5
+Marianne,lille Schmidt,Undirected,1
+Ajax,Inger Stuepige,Undirected,1
+Ajax,Rein,Undirected,3
+Claes,Rein,Undirected,1
+Hys,hys,Undirected,2
+Kvigstad,Schmidt,Undirected,4
+Eufemia,Jomfru Marianne,Undirected,1
+Barbara,Henschen,Undirected,2
+Henschen,Merete,Undirected,1
+Alida,Groth,Undirected,8
+Figaro,Lars,Undirected,3
+Lars,kjipen,Undirected,1
+Eufemia,Rein,Undirected,2
+Merete,Merete Orning,Undirected,1
+Kaptejn Buchwaldts,Marianne,Undirected,1
+Alida,Lian,Undirected,1
+Eufemia,Femia,Undirected,1
+Rein,hys,Undirected,1
+Alida,Eufemia,Undirected,3
+Eufemia,Kvigstad,Undirected,1
+Kvigstad,lille Merete,Undirected,1
+Tantes,lille Merete,Undirected,1
+Frue,Rein,Undirected,1
+Bie,Jomfru Bie,Undirected,1
+Marianne,Oppen,Undirected,1
+Bie,Marianne,Undirected,1
+Eufemia,kjed,Undirected,1
+Nankins,kjed,Undirected,1
+Kvigstad,Marianne,Undirected,1
+Anders Sæter,Kvigstad,Undirected,1
+Anders Sæter,Simonsen,Undirected,1
+Simonsen,didopover,Undirected,1
+Faster,Jomfru Bie,Undirected,1
+Thomas,lille Merete,Undirected,1
+Bolette,Thomas,Undirected,1
+Bolette,Figaro,Undirected,1
+Ra,hans Viv,Undirected,1
+Bolette,Ra,Undirected,1
+Rafossen,Rein,Undirected,1
+Marianne,Rein,Undirected,5
+Fars,Marianne,Undirected,1
+Anders Husmand,Barbara,Undirected,1
+Anders Husmand,Lars,Undirected,1
+Barbara,Eufemia,Undirected,2
+Rein,Schmidt,Undirected,1
+Jomfru Alida,Ra,Undirected,1
+Merete,Rein,Undirected,16
+Figaro,Rein,Undirected,1
+Jomfru Merete,Rein,Undirected,3
+Alida,Femia,Undirected,1
+Ljaer,Senser,Undirected,1
+Alida,Sankowitz,Undirected,3
+Inger,Merete,Undirected,2
+Inger,Schmidt,Undirected,1
+Augustinusen,Sankowitz,Undirected,1
+Merete,Sankowitz,Undirected,1
+Fiolinen,Merete,Undirected,1
+Sankowitz,schrechlich,Undirected,1
+Henschien,Rein,Undirected,3
+Kvigstad,Tiur,Undirected,1
+Jess,Kanske,Undirected,1
+Christiane,Kanske,Undirected,1
+Christiane,Jess,Undirected,8
+Groth,Jess,Undirected,2
+Groth,Rein,Undirected,1
+Knippe,Rein,Undirected,1
+Knippe,Merete,Undirected,1
+Rein,Svarteper,Undirected,1
+Augustinusen,Kvigstad,Undirected,2
+Schmidt,keg,Undirected,1
+Jomfru Marianne,keg,Undirected,1
+Kalven,graad,Undirected,1
+Kalven,Rein,Undirected,1
+Eufemia,Henschien,Undirected,1
+Inger,Lars,Undirected,1
+Alida,Inger,Undirected,1
+Henschien,Rein —,Undirected,1
+Marianne,Tante Ra,Undirected,1
+Merete,Tante Ra,Undirected,1
+Lars Gaardsgut,Paal,Undirected,1
+Figaro,Lars Gaardsgut,Undirected,1
+Figaro,Jess,Undirected,1
+Groth,Marianne,Undirected,5
+Christiane,Figaro,Undirected,1
+Christiane,Gjedde,Undirected,1
+Gjedde,Jess,Undirected,1
+Jess,Vert,Undirected,1
+Christiane,Oberstens,Undirected,1
+Anders,Randi,Undirected,1
+Bjeldekua,Rødsi,Undirected,1
+Brandroses,Rødsi,Undirected,1
+Anders Fjøsmand,Jess,Undirected,1
+Anders Fjøsmand,Randi,Undirected,2
+Jesses,Rein,Undirected,1
+Merete,blaaste,Undirected,1
+Anders Fjøsmand,Rein,Undirected,1
+Figaro,keg,Undirected,1
+Henschien,Jess,Undirected,2
+Eufemia,Jess,Undirected,1
+Groth,Nergaard,Undirected,2
+Anders,Kjøgem ester,Undirected,1
+Barbara,Henschien,Undirected,5
+Merete,Nergaard,Undirected,1
+Nemesis,Rein,Undirected,1
+Barbara,Hututu,Undirected,1
+Alida,Jomfru Merete,Undirected,1
+Jomfru Lind,Teian,Undirected,1
+Jomfru Lind,Kraft,Undirected,1
+Kraft,Olivia Seierstedt,Undirected,1
+Olivia,Olivia Seierstedt,Undirected,1
+Jess,Marianne,Undirected,2
+Christiane,Jomfru Bie,Undirected,1
+Augustinusen,Jomfru Bie,Undirected,1
+Gud,Schmidt,Undirected,1
+Bie,Gud,Undirected,1
+Barbara,Inger Stuepige,Undirected,1
+Marianne,Thea Grønbeck,Undirected,1
+Candidat Nergaard,Johanne Sommerfeldt,Undirected,1
+Johanne Sommerfeldt,Rein,Undirected,1
+Johanne,Merete,Undirected,2
+Augustinusen,Rein,Undirected,1
+Sankowitz,saas,Undirected,1
+Kvigstad,Valeria Bornemann,Undirected,1
+Alida,Valeria Bornemann,Undirected,1
+Groth,Karen,Undirected,1
+Inger,Kaptein Buchwaldt,Undirected,1
+Jula,Kaptein Buchwaldt,Undirected,1
+Inger,Miss,Undirected,1
+Haxthausens,Kaptejn Buchwaldt,Undirected,1
+Johanne Sommerfeldt,Merete,Undirected,1
+Poppes,Sankowitz,Undirected,1
+Fandango,Kehraus,Undirected,1
+Christiane,Eufemia,Undirected,1
+Jomfru Bie,Marianne,Undirected,1
+Marianne,Scholdagers,Undirected,1
+Kaja Paus,Kjæresten,Undirected,1
+Nergaard,Robespierre,Undirected,1
+Rinaldo Rinaldini,Robespierre,Undirected,1
+Henschien,Schmidt,Undirected,1
+Jess,Rein,Undirected,1
+Jess,Sankowitz,Undirected,1
+Alida,Walter Scotts,Undirected,1
+Alida,Oberon,Undirected,1
+Christiane,Ra,Undirected,2
+Gjedde,Jesses,Undirected,1
+Graad,Lars,Undirected,1
+Merete,Stakkars,Undirected,1
+Henschien,Jomfru Barbara,Undirected,1
+Henschien,Kvigstad,Undirected,1
+Barbara,Lars,Undirected,1
+Marianne,Nergaard,Undirected,1
+Eufemia,Nergaard,Undirected,1
+Kvigstad,Rein,Undirected,1
+Rein,stakkars,Undirected,1
+Merete,Olje,Undirected,1
+Augustinusen,Henschien,Undirected,1
+Kong Salomo,Rein,Undirected,1
+Henschien,lille Barbara,Undirected,1
+Henschien,Randi,Undirected,1
+Randi,Sæters,Undirected,1
+Borken,Henschien,Undirected,1
+Tante Ra,haanlo,Undirected,1
+Pagina,henlaa,Undirected,1
+Bie,Tante Ra,Undirected,1
+Adam,Eva,Undirected,1
+Alida,Figaro,Undirected,1
+Bravo Alida,Ra,Undirected,1
+Bie,Thomas,Undirected,2
+Thomas,s,Undirected,1
+Alida,akurat,Undirected,1
+Alida,Bolette,Undirected,1
+Bolette,Groth,Undirected,1
+Faster,Thomas,Undirected,1
+Kvigstad,Thomas,Undirected,1
+Thomas,ajen ajen Dreng,Undirected,1
+Kappen,Kvigstad,Undirected,1
+MERETE,REIN,Undirected,1
+Jomfru Maria,Merete,Undirected,1
+Ra,Rafossen,Undirected,1
+Merete,Rafossen,Undirected,1
+Merete,Paus,Undirected,1
+Ra,Tine,Undirected,1
+Merete,Ra,Undirected,1
+Barbara —,Rein,Undirected,1
+Sankowitz,ifjor,Undirected,1
+Figaro,ifjor,Undirected,1
+Rein,ifjor,Undirected,1
+Jomfru Barbara,Marianne,Undirected,1
+Alida,Mama,Undirected,1
+Bolette,Merete,Undirected,1

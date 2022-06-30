@@ -1,0 +1,795 @@
+source,target,timestamp
+Apothekers,Pramman,1
+Apothekers,Kancelliraad Pramman,1
+Dybbøl,Kancelliraad Pramman,1
+Dybbøl,Fanny,1
+Fanny,Pramman,3
+Fanny,Pramman,6
+Fanny,hi,6
+Emilies,hi,6
+Helge Hjørvardsbane,Helge Hundingssøn,9
+Fanny,Helge Hundingssøn,9
+Fanny,Karoline,9
+Gud,Kancelliraad Pramman,10
+Gud,Pramman,10
+Karoline,Pramman,10
+Fanny,Gud,12
+Fanny,Gud,17
+Fanny,Pramman,17
+Fanny,Pramman,17
+Gud,Kancelliraad Pramman,18
+Agathe,Gud,18
+Pramman,hansene,20
+Kancelliraad Pramman,Pramman,22
+Kancelliraad Pramman,Kristian V,22
+Karl XI,Kristian V,22
+Kancelliraad Pramman,Karl XI,22
+Kancelliraad Pramman,Lauritzen,22
+Fanny,Pram man,24
+Fanny,Kancelliraad Pramman,24
+Fanny,Mesdames,26
+Gud,Mesdames,26
+Fanny,Pramman,28
+Fanny,Pramman,28
+Fanny,Købke,29
+Fanny,Pramman,34
+Fanny,Kancelliraad Pramman,38
+Bonnesen,Kancelliraad Pramman,38
+Bonnesen,Fanny,38
+Gud,Julie Spang,42
+Fanny,Julie Spang,43
+Fanny,Kaptejn Frick,45
+Fanny,Julie Spang,46
+Kaptejn Frick,dito,47
+Julie,Mille compliments,50
+Mille compliments,Papa,50
+Mama,Papa,50
+Fanny Pramman,Holgrens,51
+Frøken Holg'ren,Villie,52
+Fanny,Frøken Holg'ren,52
+Fanny,Kaptejn Frick,54
+Anna Holmgren,Kaptejn Frick,54
+Anna Holmgren,Fanny,54
+Anna Holgren,Fanny Pramman,55
+Anna Holgren,Kaptejn Frick,55
+Kaptejn Frick,Pramman,55
+Julie,Pramman,55
+Julie,Kaptejn Frick,55
+Sofus Brinkmann,hans Laudabilis,58
+Fanny,Kaptejn Frick,59
+Anna Holgren,Kaptejn Frick,60
+Brinckmann,Flan,63
+Flan,hagud,63
+Fanny,Kaptejn Frick,64
+Brinckmann,Kaptejn Frick,64
+Brinckmann,Kaptejn Frick,65
+Julie Spang,Kaptejn Frick,65
+Anna Holgren,Julie Spang,65
+Kaptejn Frick,Methode,68
+Fanny,Kancelliraad Pramman,69
+Fanny,Julie Spang,69
+Julie Spang,Susanne,69
+Julie Spang,Susanne,69
+Fanny,Pjes,72
+Fanny,Kaptejn Frick,75
+Brinckmann,Kaptejn Frick,75
+Fanny,Frøken Fanny,76
+Brinckmann,Fanny,76
+Brinckmann,Fanny Pramman,76
+Brinckmann,Fanny,77
+Brinckmann,Reseda,77
+Reseda,Sofus Brinckmann,77
+Brinckmann,Sofus Brinckmann,77
+Brinckmann,Sofus Brinckmann,77
+Fanny,Sofus Brinckmann,77
+Fanny,Tontine,77
+Fanny,Gud,78
+Gud,Sofus Brinckmann,78
+Fanny,Sofus Brinckmann,78
+Fanny,Voltaires,78
+Sofus Brinckmann,Voltaires,78
+Kristus,Sofus Brinckmann,78
+Fanny,Kristus,78
+Ask,Fanny,78
+Ask,Brinckmann,78
+Brinckmann,Kaptejn Frick,81
+Anna,Julie,82
+Julie,Thora,82
+Asta,Thora,82
+Brinckmann,Martensens,87
+Martensens,Marthas,87
+Brinckmann,Plougs,90
+Heises,Plougs,90
+Hausse,Heises,90
+Gubbens,Toddy,92
+Kaptejn Frick,Sofus Brinckmann,94
+Brinckmann,Fanny,95
+Fanny,Julie Spang,95
+Byron,Heine,99
+Frick,Heine,99
+Frick,Oehlenschlager,99
+Julius,Oehlenschlager,99
+Julius,Kaptejnen,99
+Adagio,Julius,102
+Julius,Lieutenantsdagene,106
+Augustinus,Gud,107
+E.,Gud,107
+Frøken C.,nomina sunt odiosa,108
+Otto Lange,Valstakt,109
+Otto Lange,b.,109
+Liv Dun,b.,109
+Liv Dun,Nielsens,109
+Michael Wiehes,Nielsens,109
+Michael Wiehes,Rosenkildes,109
+Chr. Winther,Rosenkildes,109
+Chr. Winther,J. L. Heibergs,109
+J. L. Heibergs,Olga,109
+Lange,Olga,109
+Lange,Rosalinde,109
+Romeo,Rosalinde,109
+Julie,Romeo,109
+Don Juan,Julie,109
+Fanny,Helge,118
+Helge,Tangkjær,118
+Kompagni,Tangkjær,118
+Asta,Kompagni,118
+Asta,Bertelsen,118
+Bertelsen,Kaptejn Frick,118
+Fanny Pramman,Kaptejn Frick,124
+Brinckmann,Kaptejn Frick,124
+Brinckmann,Julie,124
+Anna,Julie,124
+Anna,Asta,124
+Asta,Thora,124
+Fanny Pramman,Thora,124
+Fanny Pramman,Julie Spang,124
+Fanny,Julie Spang,124
+Brinckmann,Fanny,130
+Fanny,Kaptejn Frick,133
+Brinckmann,Kaptejn Frick,135
+Gud,Kaptejn Frick,135
+Gud,Kaptejn Frick,135
+Fanny,Kaptejn Frick,135
+Fanny,lille Fanny,135
+Fanny,lille Fanny,135
+Fanny,Kaptejn Frick,135
+Fanny,Fru Kamp,136
+Fanny,Kaptejn Frick,139
+Fanny,Gud,149
+Billes,Fanny,150
+Brinckmann,Fanny kunde,159
+Aalsgaard,Gud,160
+Fanny,Gud,160
+Brinckmann,Fanny,161
+Brinckmann,Fanny,161
+Fanny,Gud,161
+Gud,Mefistofeles,161
+Brinckmann,Gud,162
+Brinckmann,Gud,162
+Brinckmann,Fanny,162
+Brinckmann,Rebekka,165
+Gud,Rebekka,165
+Brinckmann,Fanny,167
+Fanny,Kaptejn Frick,167
+Kancelliraad Prammann,Kaptejn Frick,167
+Brinckmann,Fanny,168
+Vismann,consilium abeundi,179
+Frick,consilium abeundi,179
+Frick,Sofus Brinckmann,186
+Frick,•Sofus Brinckmann,186
+Fanny,Fanny-,190
+Lord Byron,Manfred,191
+Lord Byron,Manfred,191
+Ali Pascha,Lord Byron,191
+Ali Pascha,Fanny,191
+Fanny,Søren Kierkegaards,192
+Aladdin,Søren Kierkegaards,192
+Aladdin,Fanny,192
+Fanny,Kaptejn Frick,193
+Fanny,Kaptejn Frick,193
+Byron,Kaptejn Frick,193
+Byron,Kain,193
+Fanny,Kain,193
+Fanny,Tenor,193
+Fanny,Tenor,193
+Fanny,Kaptejn Frick,195
+Fanny,Kaptejn Frick,196
+Kaptejn Frick,Sofus Brinckmann,201
+Fanny,Gud,203
+Fanny,Villie,210
+Fanny,Pramman,211
+Fanny,Kaptejn Frick,212
+Agathe,Fanny,220
+Fanny,Pramman,222
+Fanny,Kancelliraad Pramman,223
+Vismann,celliraad Pramman,224
+Fanny,Vismann,226
+Agathe,Vismann,226
+Agathe,Fanny,226
+Fanny,Kancelliraad Pramman,227
+Fanny,Mille pardonsi,229
+Gud,Pramman,230
+Kornelius,Nepos,233
+Apolio,Nepos,233
+Apolio,Kaptejn Frick,233
+,Fanny,238
+Vismann,jhan,239
+Pramman,Vismann,240
+Pramman,Vismann,241
+Søren Kierkegaard,Vismann,248
+Hr. Kancelliraad,Vismann,253
+Dpt,Kancelliraad Pramman,256
+Pramman,meris Vismann,261
+Vismann,meris Vismann,261
+Fanny,Gud,262
+Kronmann,Vismann,263
+Kronmann,Søren Kierkegaard,263
+Kronmann,Søren Kierkegaard,263
+Kronmann,Laudabilis,263
+Laudabilis,S. Kierkegaard,263
+Kancelliraad Pramman,S. Kierkegaard,263
+Kancelliraad Pramman,Vismann,263
+Frick,Kaptejn,265
+Kaptejn,Vismann,267
+Frick,Kaptejn,267
+Frick,Vismann,267
+,Vismann,267
+Kronrnann,Poul Møllers,269
+Poul Møllers,Vismann,269
+Kaptejn Frick,Vismann,269
+Henrik Ibsen,Søren Kierkegaard,272
+Henrik Ibsen,Pramman,273
+Carl Ploug,Christian Winther,274
+Carl Ploug,Søren Kierkegaard,274
+Søren Kierkegaard,Vismann,274
+Frick,Kaptejn,277
+Kaptejn Frick,Vismann,281
+Gud,Vismann,285
+Gud,Vismann,287
+Kaptejn Frick,lille Vismann,289
+Beate,Dante,290
+Peter Greisens,Vismann,293
+Peter Greisens,Vismann,293
+Brinckmann,Vismann,296
+Flan,Vismann,300
+Sofus Brinckmann,Vismann,300
+Kaptejn Frick,Sofus Brinckmann,300
+Kancelliraad Pramman,Vismann,301
+Brinckmann,Fanny,304
+Brinckmann,Jeronimus,304
+Jeronimus,Vismann,304
+Frederik Vismann,Kancelliraad Pramman,305
+Byron,Kaptejn Frick,306
+Byron,Heine,306
+Heine,S. Kierkegaard,306
+Frederik Vismann,S. Kierkegaard,306
+Borrings,S. Kierkegaard,307
+Fanny,Kaptejn Frick,308
+Galenos,Kancelliraad Pramman,310
+Galenos,Vismann,310
+Pramman,Vismann,310
+Frick,Pramman,310
+Frick,Rasmus Nielsen,310
+Rasmus Nielsen,Vismann,310
+Kierkegaards,Vismann,311
+Georg Brandes,Kierkegaards,311
+Georg Brandes,Kierkegaard,311
+Kierkegaard,stundum,311
+lians,stundum,311
+Vismann,herte,316
+Kaptejn Frick,Sivertsen,321
+Kaptejn Frick,Sivertsen,321
+Kaptejn Frick,Vismann,321
+Fru Fricks,Vismann,323
+Fru Fricks,Vismann,323
+Gud,Hr. Vismann,325
+Gud,Julius,326
+Jansen,Julius,326
+Jansen,Julius,326
+Hr. Vismann,Julius,326
+Hr. Vismann,Julius,326
+Flan,Vismann,327
+Frøken Pramman,Gud,330
+Frøken Pramman,Gud,330
+Gud,véd,330
+Kaptejn Frick,Vismann,339
+Kaptejn Frick,Vismann,339
+Kaptejn Frick,Vismann,339
+Kaptejn Frick,haanlo,340
+Kaptejnen,haanlo,340
+Kaptejn Frick,Vismann,345
+Vismann,sorn,353
+Kaptejnen,pharm. Vismann,359
+Kaptejn Frick,Kaptejnen,359
+Kaptejn Frick,pharm. Vismann,359
+Kaptejn Frick,pharm. Vismann,359
+Agathe,Fanny,364
+Fanny,Gud,364
+Fanny,kjære Pramman,368
+Agathe,Gud,369
+Agathe,Fanny,369
+Fanny,Frick,371
+Brinckmann,Frick,371
+Brinckmann,Pramman,371
+Fanny,Vismann,372
+Fanny,Graad,373
+Kaptejn Frick,Vismann,374
+Brinckmann,Vismann,374
+Brinckmann,L’,374
+L’,Whist,374
+Codille,Whist,374
+Kamp,Kaptejn Frick,376
+Gud,Kaptejn Frick,377
+Brinckmann,Kaptejn Frick,377
+Brinckmann,Gud,377
+Sofus Brinckmann,Victoria,379
+Kaptejn Frick,Sofus Brinckmann,379
+Brinckmann,Fru Kamp,388
+Brinckmann,Fanny,390
+Brinckmann,Fanny,393
+Brinckmann,Fanny,396
+Brinckmann,Fanny,398
+Brinckmann,Fanny,404
+Brinckmann,Kancelliraad Pramman,407
+Brinckmann,Futteral,408
+Fanny,Kaptejn Frick,410
+Kancelliraad Pramman,Kaptejn Frick,411
+Kaptejn Frick,jo Brinckmann,413
+Fanny,Gud,420
+Kaptejn Frick,Villien,421
+Kaptejn Frick,Villien,421
+Sofus Brinckmann,kate,422
+Sofus Brinckmann,hanses,423
+Fanny,Gud,424
+Kaptejn Frick,har,425
+Fanny,Kaptejn Frick,426
+Flan,Frick,433
+Frick,Manfred,433
+Frick,Manfred,433
+Fanny Pramman,Frick,433
+Fanny,Vismann,434
+Fanny,Gud,435
+Alexander den Store,Kaptejn Frjck,441
+Brinckmann,Hans,446
+Brinckmann,GudFader,450
+Fanny,Pramman,453
+Fanny,Kaptejn Frick,453
+Fanny,Kaptejn Frick,453
+Brinckmann,Kancelliraad Pramman,458
+Brinkmann,Fanny,459
+Pramman,lille Fanny,460
+Brinckmann,Fanny,465
+Brinckmann,Fanny,468
+Brinckmann,Fanny,469
+Brinckmann,Kaptejn Frick,476
+Brinckmann,Kaptejn Frick,476
+Brinckmann,Fanny,477
+Brinckmann,Fanny,477
+Agathe,Fanny,485
+Fanny,j,487
+Sofus Brinckmann,XVI,489
+Fanny,Fro,491
+Fanny,Fro,491
+Fanny,Gud,491
+Brinckmann,Fanny,494
+Brinckmann,Fanny,495
+Brinckmann,Fanny,499
+Fanny,Tenor,500
+Fanny,Lazarus,507
+Fanny,Lazarus,507
+Fanny,Konstantin den,507
+Fanny,Konstantin den,507
+Brinckmann,Fanny,509
+Fanny,Gud,513
+Brinckmann,Fanny,516
+Fanny,Karl,517
+Fanny,Kaptejn Frick,521
+Fanny Pramm,Vismann,523
+Brinckmann,Fanny Pramm,523
+Fanny Brinckmann,Fanny Pramman,524
+Fanny,Kaptejn Frick,527
+Sofus Brinckmann,Sørensens,529
+Brinckmann,Sørensen,530
+Pastor Sørensens,Sørensen,530
+Pastor Sørensens,Sofus Brinckmann,530
+Brinckmann,Sørensen,531
+Pastor Brinckmanns,Sørensen,537
+Brinckmann,Jens Knudsen,541
+dir nichts,nichts,544
+Jens Knudsen,Mads Nielsen,547
+Jens Knudsen,Mads Nielsen,551
+Jo,smuaads,554
+Brinckmann,Sørensen,555
+Brinckmann,Sørensen,556
+Frits,Sørensen,556
+Frits,Jens Knudsen,556
+Brinckmann,Fanny,557
+Chr. Winther,Sofus Brinckmann,562
+Fanny,Sofus Brinckmann,563
+Kegnbågen,sina strålar,565
+Amaryllis,fred bebåda,567
+Fanny,Gud,568
+Fannys,Gud,568
+Gud,Sofus Brinckmann,569
+Fanny,Gud,569
+Jens Knudsen,Sørensen,570
+Gud,Sofus Brinckmann,571
+Fanny,Randlev,575
+Randlev,Sørensen,577
+Randlev,Sørensen,577
+Randlev,Sørensen,577
+Brinckmann,Sorensen,578
+Brinckmann,Randlev,582
+Brinckmann,Sørensen,582
+Randlev,Sørensen,582
+Gud,Randlev,582
+Per Persen,Randlev,588
+Brinckmann,Per Persen,589
+Brickmann,Per Persen,590
+Brinckmann,Randlev,596
+Brinckmann,Randlev,596
+Proprietær Ulkebøl,Randlev,596
+Jens,Randlev,597
+Jens,Randlev,597
+Jens,Randlev,597
+Randlev,Ulkebøl,598
+Randlev,Tonart,598
+Chambertin,EulendorlT,599
+Eulendorff,EulendorlT,599
+Eulendorff,Ulkebøl,599
+Greven,Ulkebøl,599
+Randlev,Trandunk,607
+Jens,Lars Kristensen,609
+Jens,Søren,609
+Randlcv,lian,610
+Jens,kjør,611
+Jens,Randlev,611
+Anna,Fanuels,614
+Brorsons,Fanuels,614
+Brinckmann,Graad,615
+Brinckmann,Fanny,621
+Ernest Renan,Fanny,622
+Braad,Fanny,624
+Braad,Brinckmann,624
+Fanny,Kjære,628
+JeS,Renan,634
+Renan,sine,634
+Brinckmann,Fanny,637
+Brinckmann,Fanny,638
+Brinckmann,Fanny,641
+Brinckmann,Gud,642
+Fanny,Gud,643
+Fanny,Gud,643
+Fanny,Gud,643
+Fanny,Paulus,646
+Paulus,zAratos,646
+Brinckmann,Fanny,647
+Brinckmann,Fanny,647
+Brinckmann,Fanny,647
+Brinckmann,Erasmus Montanus,647
+Erasmus Montanus,Per Degns,647
+Per,Per Degns,647
+Fanny,Gud,650
+Fanny,Rasmus Mogensen,650
+Benedder,Rasmus Mogensen,650
+Benedder,Fanny,650
+Andrea del Sarto,Fanny,653
+Andrea del Sarto,Hellas,653
+Kaptejn Frick,Søren Kierkegaard,654
+Ernest Renan,Fanny,655
+Ernest Renan,Søren Kierkegaard,655
+Kaptejn Frick,Søren Kierkegaard,655
+Brinckmann,John Stuart Mills,656
+Brinckmann,Ulkebøl,656
+Ole Andersen,Ulkebøl,656
+Fanny,Ole Andersen,656
+Fanny,Ole Andersen,656
+Brinckmann,Fanny,658
+Fanny,Sørensen,660
+Brinckmann,Fanny,661
+Fanny,Ulkebøl,661
+Fanny,Ulkebøl,661
+Brinckmann,Fanny,662
+Brinckmann,Sørensen,662
+Agathe,Fanny,670
+Fanny,sapienii,670
+Fanny,Pramman,672
+Fanny,Kancelliraad Pramman,673
+Kancelliraad Pramman,Vismann,676
+Pramman,Vismann,677
+Kaptejn Frick,Pramman,690
+Kaptejn Frick,Pramman,691
+Kancelliraad Pramman,Kaptejn Frick,693
+Byron,S. Kierkegaard,695
+Kolera,S. Kierkegaard,695
+Kolera,Tyfus,695
+Krapyls,Tyfus,695
+Brinckmann,Krapyls,695
+Brinckmann,Karl,697
+Hr. Ulkebøl,Kristus,698
+Kristus,Levetzow,698
+Levetzow,L’,698
+L’,Ulkebøl,698
+Brinckmann,Ulkebøl,698
+Gud,véd,701
+Fanny,véd,701
+Fanny,Piccolo,701
+Agathe,Fanny,704
+Kaptejn Frick,Pramman,705
+Fanny,Kristen Povlsens,710
+Kap’,Kristen Povlsens,710
+Fanny,Kap’,710
+Fanny,Kristen Povlsens,710
+Fanny,Kristen Povlsens,710
+Fanny,Mikkelsdag,714
+Jørgen Ni,Kristen Povlsen,717
+Mette Marie,Ole Hansens,719
+Jakob Persens,Mette Marie,719
+Jakob Persens,Peter,719
+Mette Marie,Peter,719
+Hille,Plasers,723
+Fanny,Hille,723
+Fanny,Fanny kjønne,723
+Fanny,Fanny kjønne,723
+Fanny,Kronmann,723
+Kristen Povlsen,Kronmann,723
+Athene,Kristen Povlsen,723
+Athene,Gud,723
+Gud,véd,723
+Panke,Rousseau,724
+Kristen Povlsen,Panke,724
+casnal breath,saith,725
+Fanny,saith,725
+Fanny,Flvad,725
+Flvad,Gud,725
+Renan,Svvinburnes,726
+Fanny,Frick,728
+Fanny,Frick,728
+Brinckmann,Kaptejn Frick,729
+Fanny,Kaptejn Frick,729
+Fanny,Pramman,732
+Brinckmann,Kaptejn Frick,733
+Brinckmann,Brøndslev,733
+Fanny,Sofus Brinckmann,735
+Brinckmann,Sofus Brinckmann,735
+Brinckmann,Kaptejn Frick,736
+Kaptejn Frick,Sofus Brinckmann,737
+Brinckmann,Søren Kierkegaardianer,740
+Brinckmann,Sofus Brinckmann,741
+Fanny,Kaptejn Frick,749
+Pil vous plait,Vatre bras,750
+Pil vous plait,capitainel Fanny,750
+Fanny,capitainel Fanny,750
+Jean,porteur d'eau de ta Courtille,752
+noya de c,porteur d'eau de ta Courtille,752
+Tomba mort ivre un beau maiin,noya de c,752
+Jean qui pieure,Jean qui rit,753
+Hans,lian,755
+Hans,lian,755
+Brinckmann,Kaptejn Frick,756
+Fanny,Frick,759
+Brinckmann,Frick,759
+Kaptejn Frick,Sofus Brinckmann,760
+Brinckmann,Fanny,764
+Gud,Kaptejn Frick,766
+Kaptejn Frick,Pram,772
+Fanny,Kristen Povlsen,779
+Fanny,Sofus Brinckmann,780
+Fanny,lille Fanny,780
+Fanny,Vorherre,784
+Fanny,Vorherre,784
+Fanny,Gud,785
+Fanny,Gud,785
+Fanny,Martensens,785
+Fanny,Martensens,785
+Brinckmann,sorn,796
+Brandes,Kierkegaard,803
+Asthma,TVnders,804
+Asthma,Vismann,804
+Frick,Kristen Povlsen,806
+Kristen Povlsen,Vismann,807
+Ulkebøl,Vismann,808
+Ulkebøl,Vismann,810
+Kristen Povlsen,Vismann,811
+Kristen Povlsen,Vismann,811
+Kristen Povlsen,Vismann,812
+Vismann,itte,814
+Vismann,itte,814
+Fredriksen,Kristen Povlsen,816
+Bolbjerg,Vismann,818
+Kristen Povlsen,Vismann,820
+Kristen Povlsen,Vismann,822
+Kristen Povlsen,Vismann,822
+Jens Hansen,Vismann,824
+Jens Hansen,Vismann,824
+Bolberg,Fanny,829
+Fanny,Hr. Bolberg,830
+Fanny,Kaptejn Frick,833
+Fanny,Gud,834
+Fanny,Gud,834
+Fanny,Gud,837
+Fanny,Kristen Povlsen,844
+Fanny,Kristen Povlsen,844
+Fanny,Kristen Povlsen,844
+Fanny,Kristen Povlsen,844
+Fanny,Kristen Povlsen,844
+Brinckmann,Kristen Povlsen,845
+Fanny,Kristen Povlsen,845
+Fanny,Kristen Povlsen,847
+Ulkebøl,Vexler,856
+Kristen Povlsen,Vexler,856
+Fanny,Kristen Povlsen,858
+Bolberg,Fanny,860
+Fanny,Hans biede,862
+Fanny,Hans biede,862
+Bolberg,Fanny,866
+Bolberg,Fanny,868
+Bolberg,Marv,868
+Bolberg,Marv,868
+Bolberg,Fanny,869
+Bolberg,Pramman,870
+Kaptejn Frick,Pramman,870
+Fanny,Kaptejn Frick,871
+Kaptejn Frick,Vismann,871
+Kaptejn Frick,Vismann,871
+Gud,hamper,874
+Fanny,Julie Spang,884
+Guldberg,Julie Spang,884
+Fanny,Julie Spang,885
+Fanny,Guldberg,886
+Fanny,Julie Spang,887
+Julie Spang,sine Kristian IV,887
+Julie,sine Kristian IV,887
+Fanny Brinckmann,Julie,887
+Fanny,Guldberg,888
+Fanny,Julie,890
+Fanny,Kaptejn Frick,891
+Fanny,Sofus Brinckmann,898
+Gelatine,Lars Kusk,902
+Fanny,Gelatine,902
+Fanny,Kaptejn Frick,911
+Corfitz,Kaptejn Frick,911
+Fanny,Kaptejn Frick,912
+Julius,Skjels,917
+Frøken Pramman,Gud,918
+Frøken Pramman,lille Frue,918
+Julius,lille Frue,918
+Goethes,Julius,918
+Goethes,Julius,918
+Frøken Pramman,Julius,918
+Frøken Pramman,Julius,918
+Gud,Julius,918
+Gud,Julius,918
+Gud,Julius,918
+Fanny,Provisor Holbergs,922
+Fanny,banqucl,938
+Bolberg,Fanny,941
+Bolberg,Fanny,941
+Fanny,Kaptejn Frick,950
+Fanny,Kaptejn E,951
+Kaptejn E,ricks,951
+Fanny,Kaptejn Frick,952
+Bolberg,Marie,964
+Gine,Ulkebøl,967
+Bolberg,Ulkebøl,971
+Bolberg,Ulkebøl,971
+Bolberg,Ulkebøl,972
+Bolberg,Ulkebøl,972
+Ulkebøl,mase,972
+Beck,Peter Vilhelm Ulkebøl,976
+Bolberg,Ulkebøl,980
+Pedersen,Ulkebøl,980
+Bolberg,Kristen Povlsen,985
+Bolberg,Kristen Povlsen,986
+Palle Sery,Vismann,990
+Kristen Povlsen,Ulkebøl,991
+Bolberg,Ulkebøl,991
+Palle,Trine,992
+Bolberg,Kristen Povlsen,997
+Kristen Povlsen,hans,997
+Holbergs,hans,997
+Holbergs,Ulkebøl,997
+Bolberg,Ulkebøl,997
+Bolberg,Kristen Povlsen,998
+Kristen Povlsen,Ulkebøl,999
+Kristen Povlsen,Ulkebøl,1012
+Kristen Povlsen,Ulkebøl,1014
+Bolberg,Kristen Povlsen,1014
+Bolberg,Kristen Povlsen,1014
+Kristen Povlsen,mau,1015
+Bolberg,Ulkebøl,1016
+Bolberg,Ulkebøl,1016
+Bolberg,Kristen Povlsen,1016
+Kristen Povlsen,Proprietær Ulkebøl,1019
+Grete,Kristen,1027
+Pak,Vismann,1028
+Kristen Povlsen,Vismann,1028
+Kristen' Povlsen,Vismann,1030
+Kristen' Povlsen,Vismann,1030
+Kristen Povlsen,Vismann,1031
+Bolberg,Vismann,1031
+Bolberg,Kristen Povlsen,1031
+Fanny,Vismann,1032
+Fanny,Kristen Povlsen,1032
+Trine,Vismann,1034
+Fanny,Heegaards,1038
+Fanny,Wagners,1051
+Sancho Pansas,Wagners,1051
+Faust,Sancho Pansas,1051
+Don Quijote,Faust,1051
+Fanny,Vismann,1071
+Kaptejn Frick,Vismann,1071
+Fanny,Kaptejn Frick,1071
+Fanny,Kristen Povlsen,1071
+Fanny,Kristen Povlsen,1071
+Bolberg,Fanny,1072
+Hr. Illinger,Skomager Nohr,1083
+Knudsen,Skomager Nohr,1083
+Illinger,Knudsen,1083
+Illinger,Nohr,1084
+Illinger,Nohr,1088
+Illinger,Nohr,1088
+Illinger,desse hersens,1088
+Illinger,desse hersens,1088
+Kristen Povlsen,Pramman,1091
+Kristen Povlsen,Vismann,1091
+Kristen Povlsen,Vismann,1091
+Fanny,Kristen Povlsen,1091
+Henrik IVdes,Kancelliraad Pramman,1094
+Fredrik,Gjentlemand,1096
+Gjentlemand,Kancelliraad Prandtmann,1096
+Kristen Povlsen,Vismann,1103
+Vismann,le fen des bataillons,1106
+Kristen Povlsen,Vismann,1110
+Kristen Povlsen,Pak,1110
+Pak,Vismann,1110
+Pak,Vismann,1110
+Kristen Povlsen,Pak,1110
+Kristen Povlsen,Vismann,1113
+Fanny,Vismann,1114
+Pramman,Vismann,1117
+Kristen Povlsen,Vismann,1117
+Fanny,Kristen Povlsen,1117
+Fanny,Vismann,1117
+Kristen Povlsen,Vismann,1117
+Fanny,Kristen Povlsen,1117
+Fanny,Mademoiselle Masson,1122
+' Ulquebeule,Monsieur d,1123
+' Ulquebeule,gentilhomme danois,1123
+Fløjels,Grevers,1128
+Grevers,Proprietær Ulkebøl,1128
+Kristen Povlsen,Provisor Bolberg,1131
+Bolberg,Provisor Bolberg,1131
+Fanny,Ulkebøl,1133
+Rafaels,dan,1135
+Cæsarers,Rafaels,1135
+Fanny,Ulkebøl,1138
+Fanny,Ulkebøl,1140
+Egernskjold,dito,1141
+Hr. Ulkebøl,Kancelliraad Pramman,1142
+Fanny,Vismann,1144
+Christen Poulsen,Gud,1146
+Anders Madsens,Christen Poulsen,1146
+Anders Madsens,Christen,1146
+Christen,Gud,1146
+Gud,Ingemands,1146
+Arijal,Ingemands,1146
+Arijal,Hartkorn,1146
+Christen Povlsen,Hartkorn,1146
+Christen Poulsen,Christen Povlsen,1146
+Christen Poulsen,Olkebølde,1146
+Christen Poulsen,Olkebølde,1146
+Christen Poulsen,Kathrine Poulsen,1146
+Pramman,Vismann,1148
+Fanny,Kristen Povlsen,1151
+Fanny,Sørensen,1152
+Kristen Povlsen,Sørensen,1152
+Tys,Vismann,1153
+Kaptejn Frick,Vismann,1154
+Don Juan,Elvira betvang,1155
+Jade,Vismann,1158
+Frick,Jade,1158
+Frick,Vismann,1158
+Karl Istes,Vismann,1158
+Dickens,Karl Istes,1158
+,Dickens,1158

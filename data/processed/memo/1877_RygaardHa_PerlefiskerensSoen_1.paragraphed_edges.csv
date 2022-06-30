@@ -1,0 +1,237 @@
+source,target,type,weight
+Hai,Mustafa,Undirected,1
+Haien,Mustafa,Undirected,1
+Ten gamle,Viola,Undirected,1
+Gud,Viola,Undirected,7
+Felix,Mustafa,Undirected,5
+Felix,Viola,Undirected,54
+Musfafa,Viola,Undirected,1
+Viola,l«,Undirected,1
+Anina,Steen,Undirected,1
+Steen,Viola,Undirected,1
+Anina,Felix,Undirected,4
+Anina,Viola,Undirected,13
+Bey Selim,Fatma,Undirected,6
+Bey,Fatma,Undirected,1
+Bey,Selim,Undirected,1
+Aarle,Selim,Undirected,1
+Aarle,Fatma,Undirected,1
+Bey Selim visle,Fatma,Undirected,1
+Bey Selim,Ten gamle,Undirected,1
+Fatma,Viola,Undirected,4
+Bey Selim,Fatme,Undirected,1
+Fatma,ane,Undirected,1
+Viola,ane,Undirected,1
+Anina“,Viola meente,Undirected,1
+Anina,Anina“,Undirected,1
+Beferling,Viola,Undirected,3
+Felix,Kaptain Beferling,Undirected,2
+Kaptain Beferling,fnart,Undirected,1
+Kaptain Beferling,iland,Undirected,1
+Felix,iland,Undirected,1
+Bob,Felix,Undirected,10
+Felix,Hnn,Undirected,1
+,Felix,Undirected,30
+,Bob,Undirected,1
+Dn,taug,Undirected,1
+Dn,Felix,Undirected,1
+Felix,Zerlina,Undirected,52
+Viola,Zerlina,Undirected,18
+Felix,niit,Undirected,1
+Felix,taus,Undirected,1
+Aare,Felix,Undirected,1
+Gud,Zerlina,Undirected,2
+Felix,Gud,Undirected,8
+Felix,Holla,Undirected,1
+Bcvogters,Viola,Undirected,2
+Felix,Zerlinas Baand,Undirected,1
+Peter Navn,Zerlina,Undirected,1
+Eskimoer,Peter Ravn,Undirected,1
+Felix,Peter,Undirected,26
+Peter,Zerlina,Undirected,15
+Mutter,Peter Ravn,Undirected,1
+Eskimo,Zerlina,Undirected,1
+Peter Ravn,Zerlina,Undirected,5
+Peter Ravn,faus,Undirected,1
+Peter,gry,Undirected,1
+Felix,Peter Ravn,Undirected,8
+Tyrken,Viola,Undirected,1
+Luth,Tamburin,Undirected,1
+Viola,paany,Undirected,1
+Edhem Pascha,Viola,Undirected,9
+Edhem,Solems,Undirected,1
+Solem,Viola,Undirected,5
+Edhem Pascha,Felix,Undirected,2
+Felix,Tom Jenkton,Undirected,1
+Peter,Peter Ravn,Undirected,4
+Peter Ravn,Viola,Undirected,3
+Zerlina,undgaa Peter,Undirected,1
+Felix,undgaa Peter,Undirected,1
+Felix,Zerina,Undirected,1
+Felix,nnge,Undirected,1
+Peter,nnge,Undirected,1
+Peter,iveien,Undirected,1
+Hain,Zerlina,Undirected,1
+Jørgen,della,Undirected,1
+Zerlina,della,Undirected,1
+Degn,Zerlina,Undirected,1
+Jørgen,Zerlina,Undirected,3
+Ritha,soni,Undirected,1
+Gud,Ritha,Undirected,2
+Dandseboder,Lise,Undirected,1
+Bachus,Ter,Undirected,1
+Dandsen,Sands,Undirected,1
+Høffding,Mustafa,Undirected,3
+Herr Dilcke,Jfraim,Undirected,1
+Musfafa,Villæen,Undirected,1
+Zerlina,sanime,Undirected,1
+Felix,Zerlina ile,Undirected,1
+Felix ' Leie,Zerlina,Undirected,1
+Nn,Peter,Undirected,1
+Høffding,ester,Undirected,1
+Felix,Meridit,Undirected,1
+Felix,Ten nnge,Undirected,1
+Felix,Hesfen,Undirected,3
+Peter,Zerlrna,Undirected,1
+Felix,Midi,Undirected,1
+Felix Mustafa,jderes,Undirected,1
+Edhem Pascha,Pascha,Undirected,1
+Pascha,Prindsens,Undirected,1
+All,Viola,Undirected,1
+All,Felix,Undirected,1
+Felix,Paschaen,Undirected,1
+Pages,Paschaen,Undirected,1
+Felix,Marv,Undirected,1
+Høibords,Viola,Undirected,2
+Felix,Meriditen,Undirected,1
+Felix,Tyrken,Undirected,1
+Bay Selim,Steen,Undirected,1
+Peter,taus,Undirected,1
+,Zerlina,Undirected,1
+Felix,Prinds,Undirected,2
+Viola,Viola taalmodig,Undirected,1
+Asten,Viola,Undirected,1
+Ali Murad,Edhem Pascha,Undirected,1
+Edhem Pascha,Solem,Undirected,1
+Eier,Viola,Undirected,1
+Sparto,Viola,Undirected,1
+Edhem Pascha,Sparto,Undirected,1
+Ali Murad,Felix,Undirected,1
+Ali Murad,Viola,Undirected,6
+Ali Murad,Gud,Undirected,1
+Ali Murad,Ten,Undirected,1
+Peter,Viola,Undirected,7
+Felix,Tet,Undirected,1
+Herr Kørber,Viola,Undirected,1
+Bey Selim,Peter,Undirected,1
+Bey Selim,Sidx,Undirected,1
+Fatma,Zerlina,Undirected,2
+Fedor,Viola,Undirected,12
+Murad,Viola,Undirected,1
+Bey Seltms,Viola,Undirected,1
+Profetens,Viola,Undirected,1
+Bey Selim,Viola,Undirected,1
+Inglingen,Murad,Undirected,1
+Fedor,Kørber,Undirected,6
+Ali Murad,Selim,Undirected,1
+Viola,alfid,Undirected,1
+Kørber,Viola,Undirected,19
+Kørders,Zerlina,Undirected,1
+,Viola,Undirected,1
+Bey Selim,Zerlina,Undirected,1
+John Barner,paany,Undirected,2
+Felix,fhi,Undirected,1
+Barner,fhi,Undirected,1
+Barner,nien,Undirected,1
+Barner,Keiseren,Undirected,2
+Herr Barner,Keiseren,Undirected,1
+Felix,Herr Barner,Undirected,1
+Barner,Felix,Undirected,5
+Felix,Mond,Undirected,1
+Barner,hani,Undirected,1
+Barncrs,Nathalia offrede,Undirected,1
+Felix,Nathalia offrede,Undirected,1
+Felix,Nathalia,Undirected,1
+Barner,Grayl,Undirected,1
+Felix,frank,Undirected,2
+Viola,taus,Undirected,1
+taus,øg,Undirected,1
+Kørber,lille Viola,Undirected,1
+Gud,Kørber,Undirected,1
+Gud,øg,Undirected,1
+Viola,øg,Undirected,1
+Viola,Zebra,Undirected,5
+Kørber,Zebra,Undirected,2
+Peter,Zebra,Undirected,2
+Kørber,Peter,Undirected,2
+Viola,fil,Undirected,1
+Thema,Viola,Undirected,1
+Zerlina,tang,Undirected,1
+Josef Hallington,jder,Undirected,1
+Felix,Jøsses,Undirected,2
+Keiser,Keiseren,Undirected,1
+Felix,Keiseren,Undirected,24
+Felix,Prindsen,Undirected,1
+Nei,Zerlina,Undirected,1
+Triangel,fil,Undirected,1
+Fader,fil,Undirected,1
+Fatma,Felix,Undirected,1
+Fatma,kil,Undirected,1
+Felix,kil,Undirected,1
+Existents,Kørber,Undirected,1
+Existents,Fedor,Undirected,1
+Felix,Zebra,Undirected,2
+Viola Beriderske,gjentøg Felix,Undirected,1
+Fedor,Peter Ravn,Undirected,2
+Viola,son,Undirected,1
+Keiseren,jsig,Undirected,2
+Keiser,r,Undirected,1
+Keiseren,r,Undirected,1
+Keiseren,Tartarsyrstens,Undirected,1
+Keiseren,Zithra,Undirected,4
+Felix,Zithra,Undirected,9
+Hain,Keiseren,Undirected,1
+Keiseren,Nn,Undirected,1
+Felix,Nn,Undirected,1
+Hlgcn,Viola,Undirected,1
+Keiseren,ril,Undirected,2
+Felix,Keiser,Undirected,1
+Felix,Judas,Undirected,1
+Bravo,Hektor,Undirected,1
+Heklor,Viola,Undirected,2
+Hektor,Viola,Undirected,4
+Dandserindes,Figaro,Undirected,1
+Dandserindes,Viola,Undirected,1
+Felix,Montvillc,Undirected,1
+Felix,Kørber,Undirected,3
+Greve,Viola,Undirected,1
+Grev Montvilles,Viola,Undirected,1
+Kørber,ban,Undirected,1
+Greven,Viola,Undirected,5
+Greven,Kørber,Undirected,1
+Felix,Hektor,Undirected,1
+Hexen,Keiseren,Undirected,1
+Keiseren,Prindsessens,Undirected,1
+Hexen,Zithra,Undirected,1
+Felix,Tu endnn,Undirected,1
+,Keiseren,Undirected,2
+Grev Hektor de Monteville,Viola,Undirected,1
+Grev Hektor els Monteville,Kørber,Undirected,1
+Felix,Monteville,Undirected,1
+Greven,Mver,Undirected,1
+Felix,Greven,Undirected,1
+Felix,Grev Hektor,Undirected,2
+Fedor,Greven,Undirected,2
+Klownen,vemodig,Undirected,1
+Fedor,Seil,Undirected,1
+Grev Hektor,Viola,Undirected,3
+Hektor,Liv,Undirected,1
+Fanny,Viola,Undirected,2
+Viola,se,Undirected,1
+Fanny,hnn,Undirected,1
+D?,Fanny,Undirected,1
+Monteville,Viola,Undirected,1
+Keiseren,Viola,Undirected,1
+Felix,Lien,Undirected,1
+Hex,Zithra,Undirected,2
+Hexen,Prindsessen,Undirected,1

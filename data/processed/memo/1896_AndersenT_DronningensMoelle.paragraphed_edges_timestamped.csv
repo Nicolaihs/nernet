@@ -1,0 +1,583 @@
+source,target,timestamp
+Hansen,Madam Hansen,2
+Hansen,Svend,2
+Andrea,Svend,3
+Andrea,Mo,4
+Andrea,Svend,5
+Andrea Smith,Hansen,6
+Hansen,Trine,7
+Thorvald,Trine,7
+Svend,Thorvald,7
+Svend,Thorvald,8
+Andrea,Hansen,9
+Hansen,Thorvald,9
+Hansen,Thorvald,9
+Hansen,Svend,9
+Andrea,Svend,9
+Andrea,Madam Hansen,13
+Madam Hansen,Tante,13
+Andrea,Svend,29
+Lind,Trine,30
+Lind,Thorvald,30
+Fatter,Thorvald,33
+Madam Hansen,Thorvald,33
+Madam Hansen,Thorvald,33
+Andrea,Thorvald,39
+Andrea,Svend,39
+Andrea,Trine,44
+Andrea,Svend,45
+Andrea,Svend,55
+Svend,Werner,65
+Andrea,Svend,65
+Andrea,Svend,66
+Andrea,Svend,68
+Andrea,Trine,69
+Skriverhans,Trine,70
+Skriverhans,atMantzius,70
+Hultmann,atMantzius,70
+Svend,Werner,72
+Kong Frederik den syvende,Phister,76
+Andrea,Svend,77
+Hansen,Thorvald,78
+Madam Hansen,Thorvald,78
+Andrea,Svend,82
+Hansen,Madam Hansen,85
+Hansen,Thorvald,85
+Andrea,Thorvald,85
+Andrea Smith,Madam Hansen,86
+Hansen,Lind,89
+Jomfru Rasmussen,Lind,90
+Lind,Madam Hansen,92
+Svend,Werner,96
+Madam Hansen,Thorvald,97
+Madam Hansen,Thorvald,99
+Lind,Trine,101
+Svend,Trine,101
+Hansen,Svend,101
+Frederik den,Lind,102
+Christian,Lind,104
+Andrea,Svend,105
+Frøken Smith,Lind,107
+Svend,Werner,115
+Svend,Werner,116
+Lind,Werner,116
+Andrea,Lind,118
+Eva,Norne,121
+Jomfru Lind,Lind,122
+Andrea Smith,Lind,122
+Andrea Smith,Lind,122
+Lind,d,122
+Jomfru Lind,Thomas,124
+Jomfru Lind,Thomas,124
+Thomas,Thomas lunds,124
+Asthma,Thomas Lind,125
+Andrea Smith,Anna Jensen,127
+Hamiets,Yoriks,133
+Ofelias,Yoriks,133
+Hamlet,Ofelias,133
+Hamlet,Horatio,133
+Horatio,Kain,133
+Hamlet,Karls,135
+Karls,Yoriks,135
+Hofnars,Yoriks,135
+Hamlet,Hofnars,135
+Hamlet,Yorik,135
+Andrea,Trine,142
+Andrea,Trine,142
+Hansen,Thorvald,143
+Thorvald,Trine,143
+Svend,Trine,143
+Andrea,Svend,147
+Andrea,Lind,147
+Andrea,Lind,150
+Christian,Lind,155
+Ferdinand,Lind,155
+Ferdinand,Frederik den,155
+Andrea,Lind,156
+Kristian den,Lind,158
+Charlotte Amalie,Kristian den,158
+Kristian,Lind,164
+Frederik,Hall,165
+Hansen,Thorvald,173
+Andrea,Thorvald,173
+Andrea,Lind,173
+Andrea,sagdeMadamHansen,174
+Andrea,Hall,174
+Hall,Svend,174
+Frederik den sjette,Madam Hansen,175
+Frederik den sjette,Kristian den,175
+Mo,Svend,177
+Hansen,Thorvald,178
+Svend,Thorvald,178
+Frederik,Svend,178
+Frederik,Mortensen,178
+Mortensen,lille Andrea,178
+Svend,lille Andrea,178
+Kristian,Svend,178
+Kristian,Thorvald,178
+Andrea,Lind,183
+Lind,Svend,183
+Svend,Werner,187
+Lind,Werner,187
+Lind,Svend,187
+Andrea,Werner,188
+Lind,Werner,188
+Lind,Svend,189
+Svend,Werner,190
+Svend,Werner,191
+Andrea,Lind,192
+Andrea,Svend,193
+Lind,Svend,193
+Andrea,Lind,193
+Svend,Werner,194
+Andrea,Lind,195
+Andrea,Werner,196
+Andrea,Lind,196
+Lind,Svend,196
+Lind,Svend,196
+Andrea,Lind,196
+Krinoline,Lind,198
+Brun,Werner,201
+Kristian,Werner,202
+Andrea,Werner,202
+Andrea,Lind,202
+Lind,Svend,202
+Andrea,Lind,204
+Andrea,Anna,204
+Emilie,lille Mille,205
+Sfinxes,Ødipus,215
+Lind,le,216
+Sfinxen,le,216
+Hansen,Thorvald,217
+Andrea,Thorvald,217
+Hansen,Thorvald,218
+Andrea,Lind,219
+Andrea,Hansen,219
+Andrea,Hansen,219
+Andrea,Svend,219
+Andrea,Svend,219
+Andrea,Svend,219
+Lind,Svend,219
+Lind,Werner,220
+Andrea,Werner,220
+Hansen,Lind,221
+Hansen,Lind,226
+Hansen,Lind,226
+Hansen,Hr. Lind,227
+Hansen,Thorvald,230
+Lind,Thorvald,230
+Madam Hansen,Svend,239
+Andrea,Svend,239
+Hr. Lind,Werner,245
+Hansen,Lind,249
+Svend,Werner,250
+Madam Hansen,Svend,251
+Andrea,Mutter,252
+Lind,Mo,254
+Andrea,Mo,254
+Hansen,Lind,266
+Lind,Madam Hansen,267
+Lind,Madam Hansen,271
+Lind,Thorvald,271
+Andrea,Thorvald,271
+Anna,Emilie,289
+Anna,Lind,290
+Lind,Thorvald,292
+Lind,Thorvald,300
+Andrea,Thorvald,300
+Andrea,Madam Hansen,300
+Andrea,Hansen,307
+Madam Hansen,Svend,312
+Hansen,Trine,318
+Andrea,Lind,321
+Hansen,Lind,322
+Andrea,Thorvald,323
+H. C.,Lind,326
+Andersens,H. C.,326
+Andersens,Lind,326
+Andrea,Werner,333
+Emilie,Werner,333
+Andrea,Hansen,344
+Frederik den,Lind,347
+Andrea,Madam Hansen,350
+Lind,Madam Hansen,350
+Andrea,Lind,350
+Andrea,Lind,350
+Anna,Lind,353
+Anna,Skipperen,353
+Andrea,Thorvald,358
+Lind,Thorvald,360
+Lind,Werner,362
+Lind,Thorvald,362
+Thorvald,Werner,362
+Andrea,Hansen,366
+Hansen,iste Sal,367
+Hansen,Thorvald,367
+Madam Hansen,Thorvald,367
+Andrea,Madam Hansen,368
+Andrea,Madam Hansen,371
+Andrea,Tante,372
+Andrea,Tante saamænd,374
+Hr. Lind,Teg,376
+Andrea,Hr. Lind,379
+Andrea,Lind,381
+Anna,Hansen,383
+A.ndrea,Hansen,383
+Andrea,Madam Hansen,390
+Andrea,Madam Hansen,391
+Lind,Madam Hansen,393
+Andrea,Lind,398
+Andrea,Lind,401
+Lind,Peltse,402
+Andrea,Lind,402
+Andrea,Lind,409
+Lind,Madam Hansen,413
+Hansen,Lind,414
+Lind,Madam Hansen,417
+Hansen,Thorvald,418
+Svend,Thorvald,418
+Andrea,Svend,418
+Andrea,Mutter,418
+Mutter,Werner,418
+Andrea,Werner,418
+Andrea,Mutter,418
+Lind,Mutter,418
+Lind,Madam Hansen,420
+Hansen,Lind,422
+Hansen,Mutter,422
+Hansen,Lind,428
+Hansen,Svend,428
+Madam Hansen,Werner,432
+Andrea,Lind,434
+Lind,Svend,434
+Andrea,Svend i,435
+Andrea,Svend,435
+Andrea,Lind,436
+Andrea,Madam Hansen,436
+Jomfru Lind,Lind,441
+Andrea,Lind,448
+Andrea,Madam Hansen,451
+Andrea,Lind,453
+Andrea,Madam Hansen,453
+Andrea,Lind,456
+Lind,Mutter,459
+Lind,Svend,459
+Andrea,Lind,465
+Frederik den,Ævne,466
+Andrea,Werner,469
+Andrea,Svend,478
+Andrea,Thorvald,482
+Hansen,Lind,483
+Hansen,Thorvald,483
+Andrea,Thorvald,483
+Smith,Thomas Lind,488
+Lind,Madam Hansen,492
+Lind,Madam Hansen,493
+Lind,Thorvald,493
+Bjørn,Lind,497
+Lind,Madam Hansen,500
+Lind,Madam Hansen,505
+Lind,Madam Hansen,507
+Andrea,Werner,509
+Andrea,Werner,511
+Svend,Thorvald,515
+Andrea,Svend,515
+Hansen,Lind,517
+Hansen,Signes,517
+Hagbarth,Signes,517
+Andrea,Werner,521
+Junker,Werner,523
+Junker,Lind,523
+Andrea,Werner,525
+Andrea,Lind,525
+Madam Hansen,Werner,526
+Andrea,Werner,526
+Lind,Madam Hansen,528
+Andrea,Hansen,529
+Andrea,gaf ervrf g<-,530
+Andrea,Werner,535
+Hagbarth,Signe,536
+Hagbarth,Signe,536
+Hagbarth,Signe,536
+Signe,Werner,536
+Lind,Werner,538
+Andrea,Madam Hansen,539
+Lind,Madam Hansen,539
+Andrea,Lind,541
+Andrea,Lind,542
+Andrea,Lind,545
+Anna,Lind,548
+Andrea,Anna,548
+Andrea,Lind,548
+Andrea,Lind,548
+Andrea,Lind,549
+Andrea,Lind,549
+Lind,Werner,550
+Andrea,Lind,550
+Andrea,Lind,550
+Andrea,Lind,550
+Andrea,Lind,550
+Lind,Madam Hansen,550
+Hansen,Madam Hansen,550
+Andrea,Hansen,550
+Andrea,Lind,550
+Andrea,Lind,554
+Andrea,Lind,556
+Andrea,Anna,560
+Anna,Lind,560
+Andrea,Anna,565
+Andrea,Anna,567
+Anna,Lind,567
+Frøken Smith,Skipperen,572
+Frøken Smith,Lind,572
+Lind,Mare,572
+Lind,Tante,574
+Andrea,Lind,576
+Andrea,Lind,578
+Lind,Norne,583
+Andrea,Werner,584
+Andrea,Lind,584
+Anna,Emilie,585
+Anna,Lind,587
+Andrea,Lind,604
+Andrea,Anna,604
+Anna,Emilie,606
+Andrea,Werner,609
+Svend,Werner,609
+Lord Russel,Monrad,610
+Bismarck,Monrad,610
+Gudmundsen,Kong Erik,611
+Abel,Erik Plovpenning,612
+Abel,Tyge Bost,613
+Anna,Hans,614
+Anna,Hans,614
+Anna,Møllersvendens,614
+Møller,Møllersvendens,614
+Møller,Møllerens,614
+Anna,Møllerens,614
+Andrea,Werner,616
+Andrea,Werner,616
+Emil Werner,Lind,617
+Andrea,Madam Hansen,618
+Hansen,Thorvald,622
+Hansen,Madam Hansen,630
+Andrea,Hansen,630
+Hansen,Thorvald,631
+Andrea,Thorvald,631
+Crone,Thorvald,633
+Crone,Monrad,633
+Lundby,Monrad,633
+Lundby,de Meza,633
+Hansen,Thorvald,634
+Lind,Thorvald,634
+Lind,Monrad,634
+Andrea,Lind,638
+Andrea,Lind,639
+Lind,Werner,640
+Lind,Werner,642
+Lind,Werner,643
+Andrea,Lind,643
+Anna,Emilie,644
+Anna,Emilie,644
+Emilie,Lind,646
+Anna,Emilie,646
+Anna,Lind,651
+Anna,Lind,651
+Anna,Lind,651
+Anna,Lind,651
+Anna,Lind,651
+Andrea,Madam Hansen,652
+Gud,véd,654
+Madam Hansen,véd,654
+Erik Blodøkses,Gunhild,658
+Gunhild,Harald Blaatand,658
+Dronning Gunhilds,Harald Blaatand,658
+Dronning Gunhilds,Gunhild,658
+Gunhild,Peter Ravn,658
+Kanske,Peter Ravn,658
+Andrea,Hansen,660
+Andrea,Werner,660
+Gerlach,Lind,661
+Andrea,Lind,664
+Andrea,Lind,664
+Andrea,Werner,666
+Andrea,Werner,668
+Andrea,Sivenes,674
+Mo,lille Andrea,677
+Mo,Smith,678
+Andrea,Smith,679
+Andrea,Svend,679
+Andrea,Svend,679
+Andrea,Onkels,679
+Onkels,Werner,679
+Andrea,Smith,684
+Andrea,Petersen,687
+Andrea,Hanne,687
+Werner,hart,690
+Andrea,hart,690
+Smith,Werner,694
+Smith,Werner,694
+Andrea,Smith,694
+Smith,Werner,696
+Andrea,Werner,697
+Andrea,Smith,697
+Smith,lille Andrea,697
+Andrea,Werner,698
+Andrea,Smith,700
+Andrea,Smith,702
+Friedrich Carl,du Plats,708
+Andrea,Madam Hansen,711
+Lind,Werner,713
+Frøken Smith,Lind,717
+Andrea,Werner,730
+Andrea,Lind,733
+Andrea,Lind,735
+Alen,Andrea,737
+Andrea,Werner,739
+Andrea,Hansen,740
+Hansen,Svend,740
+Madam Hansen,Svend,740
+Andrea,Madam Hansen,740
+Andrea,Tante,741
+Madam Hansen,Svend,743
+Madam Hansen,Werner,747
+Andrea,Werner,748
+Madam Hansen,Svend,749
+Andrea,Werner,751
+Svend,Werner,751
+Svend,Werner,751
+Andrea,Werner,756
+Svend,Werner,757
+Svend,Werner,757
+Andrea,Svend,758
+Andrea,Madam Hansen,763
+Anna Margrethe Nielsen,Thomas Lind,766
+Anna,Anna Margrethe Nielsen,766
+Anna,Lind,766
+Anna,Lind,771
+Anna,Lind,774
+Andrea,Lind,778
+Andrea,Hansen,778
+Andrea,Hansen,780
+Anna,Lind,782
+Anna,Lind,783
+Anna,Gud,788
+Andrea,Tante,795
+Lind,Madam Hansen,798
+Andrea,Lind,800
+Andrea,Werner,803
+Lundby,Reich,805
+Hansen,Lind,813
+Andrea,Hansen,813
+Andrea,Lind,814
+Anna,Emilie,825
+Emilie,Lind,825
+Andrea,Lind,825
+Anna,Lind,826
+Andrea,Lind,827
+Andrea,Lind,829
+Anna,Lind,829
+Anna,Emilie,837
+Lind,Line,841
+Herkules,Tratraratra,843
+Emilie,Lind,845
+Grevens,Lind,846
+Grevens,Lind,846
+Jomfru Lind,haus,847
+Jomfru Lind,haus,847
+Andrea,Anna,848
+Anna,Emilie,848
+Anna,Lind,850
+Andrea,Anna,850
+Andrea,Thorvald,852
+Lind,Madsen,854
+Lind,Madsen,854
+Andrea,Lind,854
+Andrea,Lind,854
+Lind,Mortensen,854
+Andrea,Lind,856
+Andrea,Lind,857
+Lind,Werner,858
+Lind,Werner,858
+Lind,Werner,858
+Andrea,Lind,858
+Andrea,Werner,858
+Andrea,Werner,858
+Andrea,Lind,863
+Andrea,Lind,864
+Anna,Lind,864
+Anna,Lind,864
+Andrea,Lind,864
+Andrea,Mortensen,864
+Anna,Mortensen,864
+Anna,Lind,864
+Anna,Emilie,868
+Anna,Lind,873
+Anna,Lind,882
+Andrea,Werner,884
+Hansen,Madam,894
+Andrea,Hansen,894
+Andrea,Lind,896
+Andrea,Lind,896
+Andrea,ban,896
+Oberstløjtnant Beck,Tordenskjolds,900
+Tordenskjold,Tordenskjolds,900
+Hr. Beck,Tordenskjold,900
+Dahl,Rosenørn,908
+Dahl,Niels Ebbesen,908
+Moltke,Niels Ebbesen,908
+Lundby,Moltke,908
+Lundby,Reich,908
+Andrea,Hr. Smith,910
+Andrea,Lind,911
+Andrea,Fyen,911
+Andrea,Werner,913
+Andrea,Hansen,913
+Hansen,Steinmann,913
+Kauffmanns,Steinmann,913
+Friederich Carl,Kauffmanns,913
+Aland,Friederich Carl,913
+Andrea,Kauffmann,914
+Andrea,Lind,924
+Andrea,Lind,925
+Andrea,Lind,927
+Andrea,Lind,934
+Andrea,Lind,937
+Andrea,Lind,938
+Andrea,Lind,940
+Andrea,Christian Winther,941
+Klavs,Valdemar Atterdag,943
+Andrea,Lind,945
+Andrea,Karl,945
+Andrea,Lind,952
+Andrea,Anna,954
+Andrea,Lind,956
+Andrea,Lind,957
+Andrea,Anna,965
+Andrea,Lind,966
+Andrea,Anna,967
+Lind,Madam Hansen,971
+Andrea,Lind,973
+Andrea,Lind,979
+Andrea,Lind,984
+Hansen,Lind,986
+Hansen,Thorvald,986
+Henrik den,Lind,991
+Lind,Thomsen,995
+Lind,Thomsen,996
+Ole Jensen,Thomsen,996
+Ole Jensen,Thomsen,996
+Lind,Werner,1012
+Jomfru Lind,Lind,1014
+Anna,Emilie,1021
+Emilie,Lind,1026
+Anna,Mo,1027
+Anna,Mille,1031
+Lind,Simon Peder,1035
+Jesus,Simon Peder,1035
+Hansen,Lind,1037
+Gud,Madam Hansen,1038
+Andrea,Gud,1038
+Andrea,Lind,1038
+Andrea,Madam Hanten,1041
+Lind,Madam Hansen,1046

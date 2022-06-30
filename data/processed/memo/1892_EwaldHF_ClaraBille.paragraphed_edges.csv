@@ -1,0 +1,847 @@
+source,target,type,weight
+Anders Billes,Ermegaard,Undirected,1
+Ermegaard,Jørgen Podebusk,Undirected,2
+Jørgen Podebusk,Kristian ILs,Undirected,1
+Pernille Krognos,Petronelle,Undirected,1
+Aare,Maarskinds,Undirected,1
+Maarskinds,Povel Jepsen,Undirected,1
+Anders Billes,Povel Jepsen,Undirected,1
+Anders Billes,Jacob Mouritsen Sparre,Undirected,1
+Clara,Jacob Sparres,Undirected,1
+Jacob Sparres,Jomfru Claras,Undirected,1
+Jomfru Claras,Roses,Undirected,1
+Margrete Gyldenstjerne,Margretes,Undirected,1
+Karen Bille,Margretes,Undirected,1
+Clara,Karen Bille,Undirected,1
+Jacob Sparre,Povel,Undirected,1
+Clara,Jacob,Undirected,58
+Clara,Margrete,Undirected,131
+Clara,Povel,Undirected,3
+Margrete,Povel,Undirected,2
+Margrete,eder,Undirected,2
+Jacob Mouritsen,eder,Undirected,1
+Clara Bille,Margrete Gyldenstjerne,Undirected,1
+Anna,Margrete Gyldenstjerne,Undirected,1
+Anna,Margrete,Undirected,1
+Margrete,Mogens Gyldenstjerne,Undirected,2
+Clara,Mogens Gyldenstjerne,Undirected,1
+Guds,Jacob,Undirected,1
+Clara,Gud,Undirected,9
+Jacob,Margrete,Undirected,46
+Jacob,Povel,Undirected,2
+Clara,grete,Undirected,1
+Gud,erErmegaards,Undirected,1
+Ermegaard,Margrete,Undirected,4
+Ermegaard,Jacob Sparre,Undirected,3
+Jacob Sparre,Margrete,Undirected,9
+Holger Rosenkrantz,Margrete,Undirected,1
+Holger Rosenkrantz,Jørgen Ahlefeld,Undirected,2
+Else,Margrete,Undirected,1
+Ammes.tuen,Else,Undirected,1
+Clara,Else,Undirected,1
+Clara,Henrik Rosenkrantz,Undirected,27
+Ermegaard,Henrik Rosenkrantz,Undirected,1
+Ermegaard,Jørgen,Undirected,5
+Clara,Lise,Undirected,1
+Gud,Herren,Undirected,2
+Henrik Rosenkrantz,Herren,Undirected,1
+Jorsalafart,Mogens,Undirected,1
+Mogens,signes,Undirected,1
+Hr. Henriks,Margrete,Undirected,1
+Hr. Henriks,Knud,Undirected,1
+Knud,Sofie,Undirected,2
+Alette,Knud,Undirected,1
+Clara,Jacob Sparre,Undirected,13
+Clara,Kaaben,Undirected,1
+Jacob,Kaaben,Undirected,1
+Margrete,Mogens,Undirected,5
+Jacob,Jorsalafart,Undirected,1
+Bo,Jorsalafart,Undirected,1
+Bo,Mogens Bille,Undirected,1
+Johan Rantzov,Mogens Bille,Undirected,1
+Johan Rantzov,Klerke,Undirected,1
+Clara,Klerke,Undirected,1
+Bent,Clara,Undirected,4
+Jacob,Luther,Undirected,1
+Gud,Jacob,Undirected,4
+Margrete,dos,Undirected,1
+Clara,Povel Jepsen,Undirected,3
+Anders Billes,Clara,Undirected,1
+Clara,Selim,Undirected,20
+Clara,Mogens,Undirected,8
+Clara,Oluf,Undirected,2
+Clara Bille,Henrik Rosenkrantz,Undirected,5
+Clara,beunO,Undirected,1
+Bille,Margrete,Undirected,4
+Bille,Mej nstrup,Undirected,1
+Erik Banners,Margrete,Undirected,1
+Erik Banners,Farbroders,Undirected,1
+Farbroders,Mejnstrup,Undirected,1
+Luten,Margrete,Undirected,1
+Henrik,Luten,Undirected,1
+Clara,Henrik,Undirected,3
+Clara,Elverhøj,Undirected,2
+Henrik Rosenkrantz,Margrete,Undirected,16
+Henrik Rosenkrantz,Jacob Sparre,Undirected,5
+Henrik Rosenkrantz,Jacob,Undirected,25
+Ermegaard Bille,Margrete,Undirected,2
+Povel,Sagnet,Undirected,1
+Henrik Rosenkrantz,Selim,Undirected,5
+Margrete,Selim,Undirected,6
+Clara,Jomfru Clara,Undirected,2
+Clara,Jacob Mouritsen,Undirected,2
+Jacob Mouritsen,Margrete,Undirected,1
+Bent Bille,Jacob Sparre,Undirected,1
+Jacob Sparre,Povel Jepsen,Undirected,2
+Povel,Povel Jepsen,Undirected,2
+Oluf Svenske,Povel,Undirected,4
+Henrik Rosen-,Povel,Undirected,1
+Clara,Edele Hardenberg,Undirected,1
+Edele Hardenberg,Jacob,Undirected,1
+Hr. Henrik,Margrete,Undirected,6
+Gud,Margrete,Undirected,11
+Margrete,Pernille,Undirected,1
+Gud,Henrik Rosenkrantz,Undirected,3
+Margrete,Vendula,Undirected,2
+Clara Bille,Margrete,Undirected,4
+Margrete,Rose,Undirected,1
+Gud,Hr. Henrik,Undirected,1
+Clara,Hr. Henrik,Undirected,5
+Anders,Kristjern,Undirected,1
+Anna Mejnstrup,Kristian 11.,Undirected,2
+Anna Mejnstrup,Elisabeths,Undirected,1
+Dyveke,Elisabeths,Undirected,1
+Dyveke,Henrik Rosenkrantz,Undirected,1
+Knud Gyldenstjerne,Kong Frederik,Undirected,1
+Anna Mejnstrup,Elisabeth,Undirected,1
+Elisabeth,Karen,Undirected,1
+Karen,Margrete,Undirected,14
+Knud,Margrete,Undirected,3
+Knud,Mogens,Undirected,2
+Gud,Mogens,Undirected,2
+Kristjern,Mogens,Undirected,2
+Knud,Kristjern,Undirected,1
+Henrik Rosenkrantz,Karen Bille,Undirected,1
+Anna,Kong Kristjern,Undirected,1
+Anders,Kong Kristjern,Undirected,2
+Anders,Gud,Undirected,2
+Anna Mejnstrup,Karen Bille,Undirected,4
+Gud,Kong Kristjern,Undirected,4
+Bille,Gyldenstjerne,Undirected,1
+Gyldenstjerne,Kong Kristjern,Undirected,1
+Gud,Rønnov,Undirected,1
+Anders,Karen Bille,Undirected,1
+Anders Bille,Mogens Gjøe,Undirected,1
+Luther,Mogens Gjøe,Undirected,1
+Kong Hans,Margrete,Undirected,1
+Frederik,Kong Hans,Undirected,1
+Anna Mejnstrup,Kong,Undirected,1
+Frederik,Kong,Undirected,1
+Husbond,s,Undirected,1
+Mads Taarnvægter,Oluf Svenske,Undirected,3
+Arkelimester,Mads Taarnvægter,Undirected,1
+Arkelimester,tumle,Undirected,1
+Mads,Povel Jepsen,Undirected,1
+Mads,Mej nstrup,Undirected,1
+Kong Frederik,Povel,Undirected,1
+Dorothea,Kong Frederik,Undirected,1
+Husbond,Kong Frederik,Undirected,1
+Alads,Povel,Undirected,1
+Anders,Niels Hack,Undirected,1
+Kong Hans,Niels Hack,Undirected,1
+Mads,Povel,Undirected,3
+Anna Mejnstrup,Mads,Undirected,1
+Gustav Eriksen,saa,Undirected,1
+Gustav Eriksen,Trolle,Undirected,1
+Kristian II.’s,Trolle,Undirected,1
+Anders Bille,Kristian II.’s,Undirected,1
+Anders Bille,s,Undirected,1
+Ingeborg Thott,s,Undirected,1
+Gustav Trolles,Ingeborg Thott,Undirected,1
+Axelsønners,Gustav Trolles,Undirected,1
+Anders Bille,Axelsønners,Undirected,1
+Anders Bille,Gustav Trolle,Undirected,4
+Jørgen,Predbjørn Podebusk,Undirected,2
+Henrik Rosenkrantz,Jørgen,Undirected,2
+Erik Banner,Henrik Rosenkrantz,Undirected,6
+Erik,Erik Banner,Undirected,1
+Erik,Kong Kristjern,Undirected,1
+Niels Brok,Predbjørn Podebusk,Undirected,1
+Gustav Trolle,Predbjørn Podebusk,Undirected,1
+Anna Mejnstrup,Mette Rosenkrantz,Undirected,3
+Anna Mejnstrup,Gustav Trolle,Undirected,3
+Anders,Jærn,Undirected,1
+Clara,Jørgen,Undirected,4
+Jacob Sparre,Jørgen,Undirected,3
+Anders Bille,Jørgen,Undirected,2
+Anders Bille,Jacob,Undirected,14
+Jacob,Jørgen,Undirected,8
+Ermegaard,Jacob,Undirected,5
+Jacob,Predbjørn Podebusk,Undirected,1
+Anna Mouritsdatter,Predbjørn Podebusk,Undirected,1
+Anna Mouritsdatter,Oluf Krognos,Undirected,1
+Hr. Predbjørn,Oluf Krognos,Undirected,1
+Hr. Predbjørn,Predbjørn,Undirected,1
+Anders Bille,Kristjern,Undirected,1
+Henrik Rosenkrantz,Kristjern,Undirected,1
+Henrik Rosenkrantz,jsom,Undirected,1
+Erik Banner,Oluf,Undirected,2
+Erik Banner,Predbjørn,Undirected,1
+Henrik,Predbjørn,Undirected,1
+Henrik,Rosenkrantzer,Undirected,1
+Anders Bille,Predbjørn,Undirected,2
+Gud,Gustav Trolle,Undirected,2
+Gud,Joachim Rønnov,Undirected,1
+Joachim Rønnov,Margrete,Undirected,1
+Knud,Ove Bille,Undirected,1
+Gustav Trolle,Ove Bille,Undirected,1
+Gustav Trolle,Margrete,Undirected,2
+Kong Kristjern,Margrete,Undirected,1
+Margrete Gyldenstjerne,Mette Rosenkrantz,Undirected,1
+Erik Banner,Karen,Undirected,2
+Karen,Mette,Undirected,1
+Margrete Gyldenstjerne,Mette,Undirected,1
+Jacob,Norne,Undirected,1
+Anna Mejnstrup,Erik Banner,Undirected,2
+Jacob,Jørgen Podebusk,Undirected,4
+Clara,Jørgen Podebusk,Undirected,2
+Clara,Ermegaard,Undirected,8
+Anna Mejnstrup,Sofie,Undirected,1
+Clara,Sofie,Undirected,2
+Anna Mejnstrup,Margrete,Undirected,6
+Clara,Mette Rosenkrantz,Undirected,4
+Henrik Rosenkrantz,Mette Rosenkrantz,Undirected,2
+Margrete,Mette Rosenkrantz,Undirected,3
+Gud,Henrik,Undirected,1
+Povel Jepsen,Selim,Undirected,1
+Karl,Povel Jepsen,Undirected,1
+Henrik Rosenkrantz,Karl,Undirected,1
+Bent,Karen Bille,Undirected,1
+Margrete,Oluf Rosenkrantz,Undirected,4
+Henrik,Mette,Undirected,1
+Erik,Mette,Undirected,1
+Erik,Henrik,Undirected,2
+Henrik,Margrete,Undirected,8
+Clara,Jabob,Undirected,1
+Erik Banner,Margrete,Undirected,3
+Frænke,Margrete,Undirected,1
+Herren,Margrete,Undirected,1
+Aarie,Predbjørn Podebusk,Undirected,1
+Margrete,Predbjørn Podebusk,Undirected,1
+Margrete,Svend,Undirected,2
+Hr. Henrik,Svend,Undirected,1
+Erik Banner,Gustav Trolle,Undirected,1
+Erik Banner,Oluf Rosenkrantz,Undirected,2
+Margrete,Oluf,Undirected,4
+Hr. Anders,Kong Frederik,Undirected,1
+Munk,Rosenkrantz,Undirected,1
+Oluf Thott,Rosenkrantz,Undirected,1
+Oluf Rosenkrantz,Oluf Thott,Undirected,1
+Henrik,Oluf Rosenkrantz,Undirected,2
+Kristians,Niels,Undirected,1
+Anna Mej nstrup,Mette,Undirected,2
+Erik Banner,Mette Rosenkrantz,Undirected,1
+Gustav Trolle,Henrik Rosenkrantz,Undirected,2
+Anna Mejnstrup,Henrik Rosenkrantz,Undirected,1
+Erik Banner,Trolle,Undirected,1
+Gustav Trolle,Margrete Henriksdatter,Undirected,1
+Gud,Margrete Henriksdatter,Undirected,1
+Erik Banner,Krummedige,Undirected,1
+Krummedige,Rud,Undirected,1
+Gud,Paven,Undirected,1
+Margrete,Paven,Undirected,1
+Erik Erikson,Gustav Trolle,Undirected,1
+Erik Banner,Hr.'Henrik,Undirected,1
+Husbond,Mette,Undirected,1
+Anna Mejnstrup,Oluf Rosenkrantz,Undirected,3
+Gustav Trolle,og,Undirected,1
+Mads Taarnvægter,Povel Jepsen,Undirected,4
+Mads Taarnvægter,Povel,Undirected,3
+Knud Gyldenstjerne,Margrete,Undirected,1
+Knud Gyldenstjerne,Knud Konge,Undirected,1
+Dorothea,Knud Konge,Undirected,1
+Arne,Dorothea,Undirected,1
+Arne,Lise,Undirected,1
+Jørgen Daas,Karen Gyldenstjerne,Undirected,1
+Jørgen Daas,Margrete,Undirected,1
+Karen Gyldenstjerne,Margrete,Undirected,1
+Karen Bille,Karen Gyldenstjerne,Undirected,1
+Gud,Karen Gyldenstjerne,Undirected,1
+Faster Karens,Margrete,Undirected,1
+Dorothea,Hilleborg,Undirected,1
+Clara,Clara Bille,Undirected,2
+Clara,Karen,Undirected,3
+Karen,Luten,Undirected,1
+Elverhøj,Luten,Undirected,1
+Karen,Karen Bille,Undirected,1
+Mogens,Svend,Undirected,2
+Gud,Oluf,Undirected,1
+Henrik,Oluf,Undirected,1
+Alod,Faster Karen,Undirected,1
+Draabe,Faster Karen,Undirected,1
+Hr. Olufs,Karen,Undirected,1
+Jacob,Karen,Undirected,1
+Jacob,Mette,Undirected,1
+Frederik,Kristian,Undirected,1
+Hans,Kristian,Undirected,2
+Jørgen Wullenwewer,Kristian,Undirected,1
+Anders Bille,Bent Bille,Undirected,1
+Anders Bille,Henrik Rosenkrantz,Undirected,4
+Anna Mejnstrup,Jacob Sparre,Undirected,4
+Anders Bille,Anna Mejnstrup,Undirected,4
+Henrik Rosenkrantz,Iversnæs,Undirected,1
+Iversnæs,Margrete,Undirected,1
+Gud,Mette,Undirected,1
+Margrete,Mette,Undirected,1
+Htln,Mette,Undirected,1
+Anna Sparre,Kristjern,Undirected,1
+Anna Sparre,Jacob,Undirected,1
+Mogens,Tyge Krabbe,Undirected,1
+Karen Ged,Mogens,Undirected,1
+Elsebets,Karen Ged,Undirected,1
+Elsebets,Peder Skram,Undirected,1
+Anna,Tyge Krabbe,Undirected,2
+Jacob,’,Undirected,1
+s,’,Undirected,1
+Clara,s,Undirected,2
+Jacob,JeS,Undirected,1
+Clara,JeS,Undirected,1
+Karen Bille,Margrete,Undirected,1
+Bille,Rønnov,Undirected,2
+Ermegaard,Rønnov,Undirected,1
+Margrete,Munk,Undirected,1
+Henrik Rosenkrantz,Karen,Undirected,1
+Anna,Anna Mejnstrup,Undirected,3
+Anna Rosenkrantz,Henrik,Undirected,1
+Henrik Rosenkrantz,Ove Bille,Undirected,2
+Margrete,Ove Bille,Undirected,1
+Margrete,Ove Bille paabød,Undirected,1
+Hr. Henrik,Ove,Undirected,1
+Oluf Rosenkrantz,Ove,Undirected,1
+Anders Bille,Predbjørn Podebusk,Undirected,1
+Knud Pedersen Gyldenstjerne,Predbjørn Podebusk,Undirected,1
+Jørgen Podebusk,Knud Pedersen Gyldenstjerne,Undirected,1
+Jacob Sparre,Jørgen Podebusk,Undirected,3
+Jacob Sparre,Knud Pedersen,Undirected,1
+Knud Pedersen,Margrete,Undirected,1
+Jomfru Margretes,barsk,Undirected,1
+Anders Bille,Knud Pedersen,Undirected,1
+Jacob,Knud Pedersen,Undirected,1
+Clara,Knud Pedersen,Undirected,1
+Hr. Anders,Jacob,Undirected,2
+Clara,Pernille,Undirected,1
+Anna,Gud,Undirected,1
+Anna,Clara,Undirected,1
+Anna Mejnstrup,Clara,Undirected,9
+Henrik Rosenkrantz,Mogens Gyldenstjerne,Undirected,1
+Hr. Henrik,Mogens Gyldenstjerne,Undirected,1
+Faster,Jørgen Podebusk,Undirected,1
+Jacob,Oluf,Undirected,1
+Hans Bille,Oluf,Undirected,1
+Hans Bille,Rønnov,Undirected,1
+Rønnov,Urne,Undirected,1
+Alejnstrup,Urne,Undirected,1
+Anders,Karen,Undirected,2
+Jacob,Selim,Undirected,70
+Margrete,Søsters,Undirected,1
+Jørgen,Søsters,Undirected,1
+Anna Mejnstrup,Jacob,Undirected,2
+Anna Mejnstrup,Rønnov,Undirected,1
+Clara,Rønnov,Undirected,2
+Mikkel Skræp,Niels Knapmager,Undirected,3
+Ambrosius,Mikkel,Undirected,1
+Clara,Mikkel Skræp,Undirected,1
+Clara,Karl,Undirected,1
+Mikkel,Niels,Undirected,3
+Alikkel,Ambrosius,Undirected,1
+Gud,Niels,Undirected,1
+Alikkel,kuns,Undirected,1
+Ambrosius,kuns,Undirected,1
+Ambrosius,Jørgen Kok,Undirected,2
+Jørgen Kok,Kristoffer,Undirected,1
+Kong Kristjern,Kristoffer,Undirected,2
+Alikkel,Wullenwever,Undirected,1
+Anna Mejnstrup,Pernille,Undirected,2
+Anna,Pernille,Undirected,1
+Gud,Pernille,Undirected,1
+Anna Mejnstrup,Ermegaard,Undirected,1
+Anna Mejnstrup,Herren,Undirected,1
+Anders,Herren,Undirected,1
+Anna Mejnstrup,Hr. Anders,Undirected,1
+Ermegaard,Sidsel,Undirected,1
+Kristjern,Sidsel,Undirected,1
+Anna Mejnstrup,Inger,Undirected,1
+Anna Mejnstrup,Gud,Undirected,3
+Anna Mej,gram,Undirected,1
+Kristen,Mads,Undirected,4
+Kristen,Oldefader,Undirected,2
+-Mads,Ravn,Undirected,1
+Gud,Oldefader,Undirected,1
+Gud,Sankte,Undirected,1
+Bo,Sankte,Undirected,1
+Frederik luk-,Mads,Undirected,1
+Gud,Mads,Undirected,1
+Gud,Kristjern,Undirected,3
+Kong Kristjern,Kristen,Undirected,1
+Kong Frederik,Kong Kristjern,Undirected,1
+Kong Frederik,Kristian,Undirected,2
+Kristen,Peder Svarte,Undirected,2
+Herman,Peder Svarte,Undirected,1
+Kristian,Peder Svarte,Undirected,1
+Alads,Kong Kristjern,Undirected,1
+. Gjøe,Banner,Undirected,1
+Banner,Gyldenstjerne,Undirected,1
+Eders,Erik Banner,Undirected,1
+Eders,Mogens Gjøe,Undirected,1
+Lybeks,Wullenwever,Undirected,1
+Gud,Mogens Gjøe,Undirected,3
+Lybek,Mogens Gjøe,Undirected,1
+Mogens Gjøe,Rønnov,Undirected,1
+Erik Banner,Mogens Gjøe,Undirected,2
+Kristen,Peder,Undirected,3
+Erik Banner,Mogens Gyldenstjerne,Undirected,2
+Mogens Gjøe,Mogens Gyldenstjerne,Undirected,1
+Erik,Mogens Gjøe,Undirected,1
+Erik,Gud,Undirected,1
+Erik,Margrete,Undirected,1
+Erik Banner,Gud,Undirected,1
+"Oluf Svenske,",Povel Jepsen,Undirected,1
+Mads Taarnvægter,"Oluf Svenske,",Undirected,1
+Kristian,Kristoffer,Undirected,3
+Johan Rantzov,Kristian,Undirected,3
+Johan Rantzov,Povel,Undirected,1
+Bille,Mogens Gyldenstjerne,Undirected,1
+Bille,Jomfru Margrete,Undirected,1
+Jacob Sparre,Jomfru Margrete,Undirected,1
+Henrik Rosenkrantz,Povel Jepsen,Undirected,1
+Henrik Rosenkrantz,Mar- grete Gyldenstjerne,Undirected,1
+Clara Bille,Mar- grete Gyldenstjerne,Undirected,1
+Husbond,Oluf,Undirected,1
+Henning,Povel,Undirected,1
+Henning,vedo,Undirected,1
+Knud Doke,Per Nielsen,Undirected,1
+Gud,Per,Undirected,1
+Oluf,Per,Undirected,1
+Paine,Per,Undirected,1
+Paine,aarie,Undirected,1
+Jens Kræmmer,Povel Jepsen,Undirected,1
+Greven,Jens Kræmmer,Undirected,1
+Kristoffer,Povel Jepsen,Undirected,1
+Johan Rantzov,Kristoffer,Undirected,1
+Joachim Rønnov,Johan Rantzov,Undirected,1
+Oluf,Povel,Undirected,1
+Henning Skytte,Oluf,Undirected,1
+Henning Skytte,Mads Taarnvægter,Undirected,1
+Ane,Gud,Undirected,1
+Ane,Povel,Undirected,2
+Mads,Oluf-,Undirected,2
+Mads,ive,Undirected,1
+Povel Jepsen,ive,Undirected,1
+Henning,Mads,Undirected,1
+Henning,Kristoffer,Undirected,1
+Kong Kristian,Povel,Undirected,1
+Niels Brahe,Povel,Undirected,1
+Spaadom,Tyge Krabbe,Undirected,1
+Søren Norbys,Tyge Krabbe,Undirected,1
+Niels Brahe,Søren Norbys,Undirected,1
+Anders Bille,Kristoffer,Undirected,2
+Johan Urne,Kristoffer,Undirected,1
+Hans Stisens,Johan Urne,Undirected,1
+Axel Gjøe,Kristoffer,Undirected,1
+Anna Mejnstrup,Jesper,Undirected,1
+Husbond,Jesper,Undirected,1
+Jesper,Stegeborg,Undirected,2
+Jesper,Karl,Undirected,1
+Gud,Jesper,Undirected,2
+Anna,Kristoffer,Undirected,3
+Anna Mejnstrup,Povel Jepsen,Undirected,1
+Hr. Anders,Oluf Svenske,Undirected,1
+Oluf,Oluf Svenske,Undirected,1
+Povel,Søholm,Undirected,2
+Oluf Svenske,Povel Jepsen,Undirected,1
+Oluf,Povel Jepsen,Undirected,1
+Mads,Oluf,Undirected,1
+Ane,Mads,Undirected,2
+Ane,Jerichos,Undirected,1
+Ouelacker,Trolle,Undirected,1
+Anders Bille,Povel Jepsen,Undirected,1
+Gustav Trolle,Kristoffer,Undirected,1
+Bille,saa myg,Undirected,1
+Bille,Greven,Undirected,2
+Greven,Søholm,Undirected,1
+Kristian,Søholm,Undirected,1
+Anders Bille,Eders,Undirected,1
+Greven,Mejnstrup,Undirected,1
+Kong Kristjern,Mejnstrup,Undirected,1
+Gustav Trolle,Povel Jepsen,Undirected,1
+Gustav Trolle,Ouelacker,Undirected,1
+Greven,Gustav Trolle,Undirected,1
+Anna Mejnstrup,Kong Kristjern,Undirected,1
+Kong Hans,Kristoffer,Undirected,1
+Anders Bille,Urne,Undirected,2
+Tyge Krabbe,Urne,Undirected,1
+Kong Kristjern,Tyge Krabbe,Undirected,1
+Anders Bille,Kong Kristjern,Undirected,3
+Gud,Kristoffer,Undirected,1
+Anders Bille,Margrete,Undirected,4
+Jacob Sparre,Mogens,Undirected,1
+Jacob Sparre,Mogens Gyldenstjerne,Undirected,1
+Greven,Mogens Gyldenstjerne,Undirected,1
+Anders Bille,Clara,Undirected,8
+Jacob,s,Undirected,3
+Jacob,Kathrine Snare,Undirected,2
+Ambrosius Bogbinders,Hans Bøszes,Undirected,1
+Hans Bøszes,Niels Tøndebinders,Undirected,1
+Jens Kammersvend,Niels Knapmager,Undirected,1
+Jens Kammersvend,Kong Frederik,Undirected,1
+Jens,Niels,Undirected,3
+Berete,Jens,Undirected,2
+Johan Rantzov,Kong Kristjern,Undirected,1
+Johan Rantzov,Oluf Rosenkrantz,Undirected,2
+Kristian,Oluf Rosenkrantz,Undirected,1
+Everhard Ouelecker,Kristian,Undirected,1
+Everhard Ouelecker,Oluf Rosenkrantz,Undirected,1
+Jens Kammersvend,Johan Rantzov,Undirected,1
+Jens Kammersvend,Kristian,Undirected,1
+Erik Banner,Kristian,Undirected,1
+Erik Banner,Lybek,Undirected,1
+Gustav Trolle,Lybek,Undirected,1
+Anders Bille,Jens Kammersvend,Undirected,1
+Jens Kammersvend,Niels,Undirected,1
+Niels,Niels:,Undirected,1
+Aarie,Oluf Rosenkrantz,Undirected,1
+Anders Bille,Niels,Undirected,1
+Clara Andersdatter,Jens,Undirected,1
+Clara Andersdatter,Margrete,Undirected,1
+Mikkel Skræp,Niels,Undirected,1
+Jens,Mikkel,Undirected,1
+Hans,Niels,Undirected,1
+Jens,Karen Bille,Undirected,2
+Jens,Margrete,Undirected,5
+Margrete,Oluf Nielsen,Undirected,2
+Gud,Jens,Undirected,3
+Jens,Jomfru Margrete,Undirected,1
+Alens,Jens,Undirected,1
+Jacob Sparre,Jens,Undirected,1
+Jacob Sparre,Jens Kammersvend,Undirected,3
+Jacob Alouritsen,Jens,Undirected,1
+Jacob,Jens,Undirected,3
+Gyldenstjerne,Jens,Undirected,1
+Jens,Kristjern,Undirected,1
+Greven,Kristjern,Undirected,1
+Greven,Jacob,Undirected,2
+Axel Gjøe,Mogens,Undirected,1
+Axel Gjøe,Greven,Undirected,1
+Greven,s,Undirected,1
+Kristian,s,Undirected,1
+Gud,Kristian,Undirected,1
+Margrete,Morbroder,Undirected,2
+Jacob,Mo’,Undirected,1
+Kathrine,Mo’,Undirected,1
+Clara,Kathrine,Undirected,1
+Jacob,Jens Kammersvend,Undirected,4
+Jacob,Morbroder,Undirected,1
+Jacob Sparre,Selim,Undirected,12
+Selim,Ørkenens,Undirected,1
+Burnus,Selim,Undirected,2
+Jomfru Clara,Seiim,Undirected,1
+Allah,Selim,Undirected,3
+Allah,Mahomed,Undirected,1
+Jacob,Jomfru Clara,Undirected,3
+Jacob Sparre,Jomfru Clara,Undirected,3
+Jomfru Clara,Selim,Undirected,4
+Clara,Greven,Undirected,2
+Jacob,Jacob Sparre,Undirected,11
+Jacob Sparre,Kathrine Snare,Undirected,3
+Kathrine Snare,Selim,Undirected,1
+Kathrine,Selim,Undirected,1
+Jomfru Clara,Mogens,Undirected,3
+Jacob,Kristoffer,Undirected,1
+Kristoffer,Mogens,Undirected,1
+Selim,Willums,Undirected,1
+Hr. Henrik,Selim,Undirected,1
+Jacob,Mogens,Undirected,2
+Clara,von Fulda,Undirected,4
+Jacob,von Fulda,Undirected,3
+Alargrete,Margrete,Undirected,1
+Alargrete,Clara,Undirected,1
+Anders Bille,Oluf Rosenkrantz,Undirected,7
+Anders Bille,Reimar von der Wolde,Undirected,1
+Hans von Sasse,Reimar von der Wolde,Undirected,1
+Margrete,von,Undirected,1
+Clara,skælmsk,Undirected,1
+Clara,Reimar von der Wolde,Undirected,1
+Clara,Reimar,Undirected,3
+.Reimar,Jacob,Undirected,1
+Reimar von der-,Wolde,Undirected,1
+Svend,Wolde,Undirected,1
+Kathrine Snare,Svend,Undirected,1
+Mogens,Selim,Undirected,3
+Mogens,s,Undirected,1
+Anders Bille,Mogens,Undirected,1
+Clara,Kathrine Snare,Undirected,1
+Reimar von,von Fulda,Undirected,1
+Reimar,Reimar von,Undirected,1
+Gud,Midnatstide,Undirected,1
+Jacob Sparre,Karle,Undirected,1
+Henrik Rosenkrantz,Karle,Undirected,1
+Henrik Rosenkrantz,Willum,Undirected,2
+Jacob,Willum,Undirected,5
+Kristen,Lasse nær,Undirected,1
+Kristen,Margrete,Undirected,3
+Jomfru Margrete,Kristen,Undirected,1
+Clara,Oluf Rosenkrantz,Undirected,2
+Kristen,Oluf Rosenkrantz,Undirected,1
+Clara,Joo	,Undirected,1
+Joo	,Margrete,Undirected,1
+Margrete,signe eder,Undirected,1
+Clara,signe,Undirected,1
+Karl,Kristen,Undirected,1
+Gud,Kristen,Undirected,1
+Jens,Jens Kammersvend,Undirected,3
+Mogens,o,Undirected,1
+Hr. Henrik,Jacob,Undirected,1
+Henrik Rosenkrantz,intet,Undirected,1
+J	,Jacob,Undirected,1
+Clara,J	,Undirected,1
+Anna,Kristjern,Undirected,1
+Anna,Lybek,Undirected,1
+Johan von der Hoya,Lybek,Undirected,1
+Albrechts,Kristian,Undirected,2
+Clara Bille,Greven,Undirected,1
+Margrete,Mejnstrup,Undirected,1
+Anna,Mejnstrup,Undirected,1
+Anna,Sofie Glob,Undirected,6
+Anna Mejnstrup,Holger,Undirected,1
+Clement,Holger,Undirected,1
+Anna Glob,Sofie,Undirected,2
+Anna Glob,Margrete,Undirected,1
+J,Margrete,Undirected,1
+Greven,Kristian,Undirected,1
+Anders Bille,Kristian,Undirected,1
+Margrete,von Fulda,Undirected,1
+Margrete,hans,Undirected,1
+Henrik,grant,Undirected,1
+Anna Mej nstrup,Margrete,Undirected,1
+Anna Mej nstrup,Margrete Gyldenstjerne,Undirected,1
+Clara,Margrete Gyldenstjerne,Undirected,1
+Clara,Davren,Undirected,1
+Anna Mej,Oluf,Undirected,1
+Clara,sem,Undirected,1
+Anna og,sem,Undirected,1
+Anna og,Sofie Glob,Undirected,1
+Clara,Sofie Glob,Undirected,1
+Clara,holtle,Undirected,1
+Hoyas,holtle,Undirected,1
+Gud,Nikolaus,Undirected,1
+Niels Kræmmers,Peder,Undirected,1
+Joachim von Jetzen,brechts,Undirected,1
+Albrecht,Joachim von Jetzen,Undirected,1
+Albrecht,Omnes,Undirected,1
+Albrecht,Niels Kræmmers,Undirected,1
+Anna Mejnstrup,Oluf,Undirected,1
+Jacob,Sofie Glob,Undirected,1
+Jacob,Kristian,Undirected,1
+Gud,Holger Rosenkrantz,Undirected,1
+Jørgen Ahlefeld,Kong Hans,Undirected,1
+Holger,Kong Hans,Undirected,1
+Jacob Mouritsen,Kong Kristjern,Undirected,1
+Clara,Graad,Undirected,1
+Jørgen Podebusk,Kristian,Undirected,1
+Gustav Vasas,Kristian,Undirected,1
+Gustav Vasas,Hoyas,Undirected,1
+Hoyas,Jørgen Kok,Undirected,1
+Jørgen Kok,Tyge Krabbe,Undirected,1
+Kristoffer,Tyge Krabbe,Undirected,1
+Jacob Sparre,Kristian,Undirected,1
+Anna Mejnstrup,Tyge Krabbe,Undirected,1
+Anders Bille,Grev Hoya,Undirected,1
+Borgemester Ambrosius Bogbinder,Grev Hoya,Undirected,1
+Anne,Sofie Glob,Undirected,1
+Kristoffer,Mikkel Skræp,Undirected,1
+Kong Kristjern,Mikkel,Undirected,1
+Anna Mejiistrup,Dyveke,Undirected,1
+Dyveke,Mikkel Skræp,Undirected,1
+Gud,Karl,Undirected,1
+Anna,Mikkel Skræp,Undirected,1
+Grev Kristoffers,Oluf Rosenkrantz,Undirected,1
+Anna Mejnstrup,Grev Kristoffers,Undirected,1
+Gud,Oluf Rosenkrantz,Undirected,2
+Hr. Bastian,von Jessen,Undirected,1
+Frederik den Vise,Hr. Bastian,Undirected,1
+Frederik den Vise,Luther,Undirected,1
+Kristoffer,Luther,Undirected,1
+Ditmar Schwenke,Melchior,Undirected,1
+Ditmar Schwenke,Niels,Undirected,1
+Niels,von Jessen,Undirected,1
+Kristoffer,von Jessen,Undirected,1
+Kristoffer,Vallø,Undirected,1
+Greven,Niels,Undirected,1
+Alogens,Karen Rosenkrantz,Undirected,1
+Karen Rosenkrantz,Volstrup,Undirected,1
+høri,lydi,Undirected,1
+Bille,Jooo,Undirected,1
+Hr. Bastian,Margrete,Undirected,2
+Hr. Bastian,Vallø,Undirected,1
+Anders Bille,Bent,Undirected,2
+Bent Bille,Sebastian von Jessen,Undirected,1
+Bent,Sebastian von Jessen,Undirected,1
+Qtii fuit horrendos primus qui protulit enses,Quam ferus et vere ferreus ille fuit/,Undirected,1
+Tum cædes,tum prælia nata Tum brevior dirce mortis aperta,Undirected,1
+Bent,nec bella fuerunt,Undirected,1
+Faginus adstabat quum scyphus ante dapes,nec bella fuerunt,Undirected,1
+Bent,Hr. Bastian,Undirected,1
+Bastian,Greven,Undirected,1
+Hr. Bastian,Mads,Undirected,1
+Bent,Mads,Undirected,2
+Bent,Povel Jepsen,Undirected,1
+Bent,signe eder,Undirected,1
+Bent,von Jessen,Undirected,1
+Bent,Povel,Undirected,4
+Bent,Gjøes,Undirected,1
+Gjøes,Søholm,Undirected,1
+Bent,Søholm,Undirected,2
+Albrecht,Kristoffer,Undirected,1
+Anna,Kristian II.’s,Undirected,1
+Anders Bille,Sebastian von Jessen,Undirected,1
+Albrecht,Kristian,Undirected,3
+Anders,Knud Pedersen,Undirected,1
+Grev Kristoffers,Kong Kristjern,Undirected,2
+Knud,Urne,Undirected,1
+Dyveke,Knud Pedersen,Undirected,1
+Dyveke,Vlies,Undirected,1
+Knud,Vlies,Undirected,1
+Knud,Oluf Rosenkrantz,Undirected,1
+Oluf Rosenkrantz,Traad,Undirected,1
+Jacob Sparre,Oluf Rosenkrantz,Undirected,1
+Oluf Rosenkrantz,s,Undirected,1
+Kong Gøste,Kristian,Undirected,1
+Henrik Rosenkrantz,Jens-,Undirected,1
+Jens,Willum,Undirected,1
+Jens,Karle,Undirected,1
+Jacob Mouritsen,Karle,Undirected,1
+Henrik Rosenkrantz,Jens Kammersvend,Undirected,3
+Henrik Rosenkrantz,Oluf Rosenkrantz,Undirected,1
+.,Oluf Rosenkrantz,Undirected,1
+Selim,lims,Undirected,2
+Anders Bille,Jens,Undirected,2
+Jacob,Karen Bille,Undirected,1
+Henrik Rosenkrantz,Kristian,Undirected,1
+Hoya,Kristian,Undirected,1
+Hoya,Sebastian von,Undirected,1
+Johan Rantzov,Sebastian von,Undirected,1
+Jacob,Johan Rantzov,Undirected,3
+Albrecht,Johan Rantzov,Undirected,3
+Albrecht,Jacob,Undirected,1
+Daggry,Jacob,Undirected,1
+Ditlev Brokdorff,Johan Rantzov,Undirected,1
+Ditlev Brokdorff,afHoya,Undirected,1
+Jacob Sparre,Johan Rantzov,Undirected,1
+Jacob,Sebastian von Jessen,Undirected,1
+Gustav Trolle,Hr. Bastian,Undirected,1
+Gud,Hr. Bastian,Undirected,1
+Albrecht,Hoya,Undirected,1
+Gustav Trolle,Hoya,Undirected,2
+Gustav Trolle,Høya,Undirected,1
+Gustav Trolle,Johan Rantzov,Undirected,3
+Erik Krummedige,Johan Rantzov,Undirected,1
+Erik,Johan Rantzov,Undirected,1
+Erik,Madsen,Undirected,1
+Gustav Trolle,Jacob Hardenberg,Undirected,1
+Athene,Johan Rantzov,Undirected,1
+Athene,Zeus,Undirected,1
+Kristoffer von Veltheim,Zeus,Undirected,1
+Johan Rantzov,Kristoffer von Veltheim,Undirected,2
+Kristian,Kristoffer von Veltheim,Undirected,1
+Kristian,Veltheim,Undirected,1
+Hoya,Veltheim,Undirected,1
+Johan Rantzov,Michael Zanow,Undirected,1
+Michael Zanow,Reimar von der Volde,Undirected,1
+Jacob Sparre,Reimar von der Volde,Undirected,1
+Clara Bille,von Fulda,Undirected,1
+Hoya,Teklenborg,Undirected,1
+Ditlev von Rathlov,Teklenborg,Undirected,1
+Ditlev von Rathlov,Hoya,Undirected,1
+Hoya,Rathlovs,Undirected,1
+Gustav Trolle,Michael Zanow,Undirected,1
+Eundager,Michael Zanow,Undirected,1
+Gud,Hoya,Undirected,1
+Hoya,Johan Rantzov,Undirected,1
+Georg Frundsberg,Johan Rantzov,Undirected,1
+Georg Frundsberg,Kristoffer von Veltheim,Undirected,1
+Jacob Sparre,eri,Undirected,1
+Jacob,eri,Undirected,1
+Johan,Johan Rantzov,Undirected,1
+Johan,Rantzov,Undirected,1
+Gustav Trolle,Kong Kristjern,Undirected,1
+Johan Rantzov,Kong Kristian,Undirected,2
+Kong Kristian,Peder Skram,Undirected,1
+Frederik,Karl,Undirected,1
+Frederik,Kong Kristjern,Undirected,1
+Kong Kristjern,Mikkel Skræp,Undirected,1
+Anders Bille,Hove,Undirected,1
+Hove,Kong Kristian,Undirected,1
+Dorothea,Kong Kristian,Undirected,1
+Clara,Dorothea,Undirected,1
+Bille,Karen,Undirected,1
+Anders Bille,Jacob Sparre,Undirected,4
+Clara,Selims-Udleverede,Undirected,2
+Ambrosius,Jens,Undirected,1
+Ambrosius,JJan,Undirected,1
+JJan,Jacob Sparre,Undirected,1
+Anders Bille,Erik Banner,Undirected,1
+Gud,Jens Kammersvend,Undirected,1
+Jens Kammersvend,Margrete,Undirected,1
+Erik Banner,Margrete Gyldenstjerne,Undirected,1
+Clara,Erik,Undirected,2
+Henrik Rosenkrantz,J,Undirected,1
+Clara,J,Undirected,1
+Daggry,Selim,Undirected,1
+Daggry,Willum van Bummels,Undirected,1
+Willum,Willum van Bummels,Undirected,1
+Anders Bille,Willum,Undirected,1
+Jacob,Just von,Undirected,1
+Jomfru Clara,Just von,Undirected,1
+Jacob,t Selim,Undirected,1
+Anders Bille,Selim,Undirected,2
+Hr. Henrik,Mogens,Undirected,1
+Margrete,sari,Undirected,1
+Henrik Rosenkrantz,Jacob oppebiede,Undirected,1
+Clara Andersdatter,Jacob,Undirected,1
+Jacob,Lucifer,Undirected,1
+Lucifer,Selim,Undirected,1
+Mogens Kammersvend,Selim,Undirected,1
+Selim,von Fulda,Undirected,1
+Jacob,Saladin,Undirected,4
+Saladin,Selim,Undirected,6
+Henrik Rosenkrantz,Saladin,Undirected,1
+Jacob,Nikolaus,Undirected,1
+Jacob,Sankt Nikolaus,Undirected,1
+Anders Bille,Kong Kristian,Undirected,1
+Kong Kristian,Len Stegeborg,Undirected,1
+Anders Bille,Anna Pedersdatter,Undirected,1
+Clara,j Køgerset,Undirected,1
+Clara,Lindrin,Undirected,1
+Haan,Henrik Rosenkrantz,Undirected,1
+Haan,Jacob,Undirected,1
+Margrete,Niels Hack,Undirected,1
+Jacob,Niels Hack,Undirected,1
+Jacob,Stifmoder,Undirected,2
+Alargrete,Jacob,Undirected,1
+Erik Banner,Jacob,Undirected,2
+Jacob,Oluf Rosenkrantz,Undirected,2
+Hans,Oluf Rosenkrantz,Undirected,1
+Clara,Jesus,Undirected,1
+Jesus,Selim,Undirected,1
+Gud,Selim,Undirected,1
+Klaus Rantzov,Selim,Undirected,1
+Jacob,Nemesis,Undirected,1
+Nemesis,Oluf Rosenkrantz,Undirected,1
+Oluf Rosenkrantz,Selim,Undirected,1
+Jens Kammersvend,Selim,Undirected,1
+Berete,Jens Kammersvend,Undirected,1
+Berete,Selim,Undirected,1
+Berete,Jacob Sparre,Undirected,2
+Hr. Anders,Oluf Rosenkrantz,Undirected,1
+Anders Bille,Gud,Undirected,2
+Hr. Anders,Nielsens,Undirected,1

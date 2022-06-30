@@ -1,0 +1,51 @@
+source,target,type,weight
+Anna,Krause,Undirected,2
+Heibergs,Hostrups,Undirected,1
+Hostrups,Krause,Undirected,1
+Hr. Lind,lille Krause,Undirected,1
+Hr. Lind,Thalias,Undirected,1
+Hr. Lind,Hultmann,Undirected,1
+Hultmann,Zangenberg,Undirected,1
+Ambrosius,Klint,Undirected,1
+Lind,Lokes,Undirected,1
+Bravo,Skaal,Undirected,1
+Hr. Lind,Skaal,Undirected,1
+Lind,Napoleon,Undirected,1
+Lind,c? c,Undirected,1
+Gamle Krause,Lind,Undirected,1
+Krause,Lind,Undirected,1
+Anna,Lind,Undirected,2
+Johanne,Marie,Undirected,1
+Anna,Grevens,Undirected,2
+Anders,Anna,Undirected,5
+Anna,Karl,Undirected,1
+Anna,hans,Undirected,2
+Anna,Gotfred Møller,Undirected,2
+Gotfred Møller,ifjor,Undirected,1
+Antonsen,Gotfred Møller,Undirected,1
+Anna,Antonsen,Undirected,2
+Anna,Møller,Undirected,1
+Gud,donna,Undirected,1
+Holm,Marie,Undirected,3
+Eugenie,Napoleon,Undirected,1
+Bropard,Leonie,Undirected,2
+Chakot,Charles,Undirected,1
+Chakot,Sabel,Undirected,1
+Bropard,Kapitain Flaubert,Undirected,2
+Bropard,Flauberts,Undirected,1
+Bropard,Flaubert,Undirected,1
+Bropard,Napoleon,Undirected,1
+Leonie,Napoleon,Undirected,1
+Kapitain Flaubert,Nemesis,Undirected,1
+Marie,Stine,Undirected,1
+Bedstefader,Maren,Undirected,1
+Bedstefader,Stine,Undirected,1
+Bedstemoders,Stine,Undirected,1
+Niels Voss,Pram,Undirected,1
+Klara,Pram,Undirected,1
+Paul,Per,Undirected,1
+Gud,Holm,Undirected,1
+Larsen,Pram,Undirected,2
+Lise inat,Niels,Undirected,1
+Faders,Lise inat,Undirected,1
+Inspekteur Holm,Pram,Undirected,1

@@ -1,0 +1,40 @@
+source,target,type,weight
+Andersen,Carl,Undirected,24
+Anders,Marie,Undirected,1
+Marie,Niels Jacob,Undirected,3
+Andersen,Niels Jacob,Undirected,2
+Carl,Niels Jacob,Undirected,2
+Je,Stine,Undirected,1
+Byron,Viola,Undirected,1
+Byron,Drachmann,Undirected,1
+Don Juan,Drachmann,Undirected,1
+Carl,Ellen,Undirected,50
+Carl,Marie,Undirected,7
+Ellen,Marie,Undirected,5
+Ellen,Frøken Ellebel,Undirected,1
+Frøken Ellebel,Marie,Undirected,1
+Anders,Andersen,Undirected,1
+Anders,Carl,Undirected,1
+Andersen,Ellen,Undirected,8
+Jacob,lille Niels,Undirected,1
+Carl,Jacob,Undirected,1
+Carl,Stine,Undirected,1
+Madam Andersen,Marie,Undirected,2
+Carl,lian,Undirected,1
+Carl,Madam Andersen,Undirected,7
+Anders,Madam Andersen,Undirected,1
+Ellen,Gud,Undirected,1
+Carl,Carl allehaande,Undirected,2
+Carl,Møllerens,Undirected,2
+Carl,Carl —,Undirected,1
+Agnes,Viola,Undirected,1
+Andersen,Madam Andersen,Undirected,1
+Niels Jacob,lille Anders,Undirected,1
+Carl,lille Anders,Undirected,1
+Anders,Niels Jacob,Undirected,2
+Agnes,Ellen,Undirected,6
+Carl,hem,Undirected,1
+Ellen,Tima,Undirected,1
+Carl,Tima,Undirected,1
+Andersen,Marie,Undirected,1
+Gud,véd,Undirected,1

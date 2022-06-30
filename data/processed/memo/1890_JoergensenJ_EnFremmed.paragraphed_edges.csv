@@ -1,0 +1,87 @@
+source,target,type,weight
+Anders,Lavritsen,Undirected,16
+Andors,Lavritsen,Undirected,1
+Strindberg,liun,Undirected,1
+Ibsen,Strindberg,Undirected,1
+Gud,Lavritsen,Undirected,1
+Hnn,alen,Undirected,1
+Anders,alen,Undirected,1
+Lavritsen,Skaal,Undirected,1
+Anders,kundf,Undirected,1
+Kafeen,Lavritsen,Undirected,1
+Anders,Hjante,Undirected,1
+Rovsing,fioMei mie- tangen,Undirected,1
+Aa Rovsing,Frøken Rovsing,Undirected,1
+Anders —,Frøken Bagger,Undirected,1
+Anders —,Gud,Undirected,1
+Anders,Frøken Bagger,Undirected,2
+Andeis,Bøglis,Undirected,1
+Anders,Bøglis,Undirected,1
+Anders,Gud,Undirected,1
+Anders,fornam lians,Undirected,1
+Anders,endni,Undirected,1
+Anders,ril,Undirected,1
+Anders,Magnussens,Undirected,1
+Anders,Hoffgaard,Undirected,1
+Anders,jen,Undirected,1
+Anders,Moer,Undirected,1
+Anders,Kardus,Undirected,1
+Anders,solhed Singels,Undirected,1
+Aarslev,Anders,Undirected,2
+Anders,Anders —,Undirected,2
+Anders,Karl,Undirected,1
+Anders,Karlen,Undirected,1
+Anders,Excellencens,Undirected,1
+Anders,Johan,Undirected,4
+Gud,lian,Undirected,1
+Aarslev,lian,Undirected,1
+Anders,Valdemar Aarslev,Undirected,2
+Aare,Anders,Undirected,2
+Anders,lian,Undirected,2
+Anders,Jærn,Undirected,1
+.Anders,Anders,Undirected,1
+Anders’,Jairers,Undirected,1
+Anders’,Basunes,Undirected,1
+Aaens,Anders,Undirected,1
+Anders,Elna,Undirected,48
+Høga berg,djupa dalar,Undirected,1
+Anders,Anders-,Undirected,1
+Anders,Niels Ebbesens,Undirected,1
+Petersens,Tante,Undirected,1
+Anders,Petersens,Undirected,1
+Anders,Marie,Undirected,11
+Elna,Marie,Undirected,18
+Anders,dei,Undirected,1
+Elna,dei,Undirected,1
+Marie,Strindberg,Undirected,1
+Gefæs,Marie,Undirected,1
+Anders,Gefæs,Undirected,1
+Bprdet,Marie,Undirected,1
+Anders,Bøghs,Undirected,2
+Elna,Neriens,Undirected,1
+S. Lindegaard,lian,Undirected,1
+Anders,sjøna,Undirected,1
+Gud,véd,Undirected,1
+Marie,véd,Undirected,1
+Elna,lian,Undirected,3
+Elna,Maanelys,Undirected,1
+Anders,Kandidat Olsens,Undirected,2
+Anders,hiin,Undirected,1
+Elna,Olsen,Undirected,8
+Anders,Olsen,Undirected,8
+Olsen,iforgaars,Undirected,1
+Anders’,Elna,Undirected,1
+Marie,Olsen,Undirected,2
+Anders skjalv,Marie,Undirected,1
+Kandidat Olsen,Marie,Undirected,1
+Elna,Kandidat Olsen,Undirected,1
+Gud,Olsen,Undirected,1
+Graaden,Olsen,Undirected,1
+Anders saa,Neriens,Undirected,1
+lian,liar,Undirected,1
+Anders,Vega,Undirected,2
+Anders,liam,Undirected,2
+Anders —,Henriksens,Undirected,1
+Buch,Frøken Bagger,Undirected,1
+C. F. Henriksen,Unytte,Undirected,1
+Anders,hans,Undirected,1

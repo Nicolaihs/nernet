@@ -1,0 +1,452 @@
+source,target,timestamp
+Adelhard,Arenta,4
+Arenta,Ingling,4
+Adelhard,Arenta,6
+Arenta,Nikolaus,13
+Arenta,elffe,14
+Adelhard,Diavolo,23
+Arenta,Diavolo,33
+Adelhard,Arenta,42
+Adelhard,Arenta,45
+Coreggio,Raphael,48
+Adelhard,Coreggio,48
+Arenta,Madonna,50
+Arenta,as,50
+Arenta,Diavolo,63
+Arenta,Nikolaus,64
+Keiserens,Kosak,67
+Arenta,Diavolo,69
+Adelhard,Arenta,71
+Adelhard,Diavolo,72
+Adelhard,Arenta,74
+Adelhard,Elsfede,76
+Adelhard,Diavolo,84
+Adelhard,Diavolo,95
+Arenta,ester,106
+Adelhard,Gil Klark,107
+Adelhard,Adelhard Bjørnson,107
+Adelhard Bjørnson,Eliot,107
+Eliot,Gondolierens,107
+Asten,Gondolierens,107
+Arenta,Asten,107
+Adelhard,Arenta,107
+Adelhard,husf,107
+Dalo,husf,107
+Adelhard,Dalo,107
+Arenta,Helene,112
+Arenta,Helene,112
+Arenta,Gud,114
+Aram,Helene,121
+Fyrsfen,Konsfantin,123
+Arenta,Konstantin,129
+Aram,Konstantin,129
+Aram,siig,129
+Adelhard,Diavolo bøiet,135
+Arenta,Baldakin,136
+Adelhard,Arenta,138
+Adelhard,Arenta,142
+Adelhard,Arenta,142
+Adelhard,Arenta,142
+Adelhard Bjørnson,Diavolo,151
+Arenta,Helene,153
+Adelhard,Gil Klark,175
+Adelhard,Gil Klark,175
+Arenta,Gil Klark,178
+Adelhard,Arenta,180
+Arenta,Diavolo,187
+Arenta,Diavolo,198
+Arenta,Diavolo,200
+Arenta,Gud,202
+Arenta,Diavolo,205
+Adelhard,Gud,206
+Arenta,Diavolo,208
+Adelhard,Arenta,209
+Adelhard,Madgnna,214
+Komtesse Helene,Konstantin,220
+Diavolo,Gil,235
+Diavolo,Gil,240
+Arenta,Konstantin,250
+Adelhard Bjørnson,Betli,255
+Adelhard,Munken,278
+Adelhard,felv,278
+Adelhard,Diavolo,281
+Arenta,Diavolo,281
+Adelhard,Diavolo,282
+Arenta,Helene,290
+Arenta,Bien,296
+Arenta,Helene,298
+Arenta,Helene,299
+Svend,Øxens,301
+Adelhard Bjørnson,Adelhard Nihillist,303
+Arenta,Konstantin,311
+Adelhard,Arenta,314
+Dorbits,Peter den Store,334
+Arniee,Kathrinas,336
+Kathrinas,Seir,336
+Dorbits,Seir,336
+Dorbits,Signor Flamingo,339
+Dorbits,Keiseren,343
+Dorbits,Keiseren,343
+Flamingos,Signor Flamingo,344
+Moskau,Nikolaus,346
+Dorbits,Elliot,347
+Elliot,Lazzaron,352
+Finitza,Guiseppas,374
+Finikza,Guiseppa,377
+Ambrosius,Elstovs,381
+Elliot,Guiseppa,384
+Elliot,Guiseppa,384
+Kusinelil,Signor Paduas,399
+Ambrosius,Elliot,400
+Elliot,Finitza,400
+Elliot,Finitza,403
+Adelhard Bjørnson,norsf,407
+Elliot,Guiseppa,428
+Ambrosius,Finikza,433
+Guiseppa,Signora,434
+Elliot,Finikza,436
+Arenta,Guiseppa,438
+Arenta,Elliot,442
+Ambrosius,Finitza,444
+Elliot,Finitza,446
+Adelhard,Arenta,460
+Adelhard,Finitza,460
+Diavolo,Rudin,482
+Munken,Rudin,486
+Arenta,Diavolo,494
+Arenta,Diavolo,506
+Arenta,Keiseren,506
+Helene,Kjære,510
+Arenta,Kjære,511
+Arenta,Helene,519
+Helene,Nikolans,521
+Arenta,Helene,522
+Arenta,Helene,527
+Diavolo,Plutos,543
+Diavolo,Plutos,545
+Diavolo,Plutos,547
+Betli,Diavolo,560
+Adelhard,Arenta,561
+Arenta,Diavolo,572
+Arenta,vederfares,575
+Munk,vederfares,575
+Arenta,Gil,577
+Arenta,Gil,580
+Gil,Pauline,590
+Arenta,Betli,610
+Betli,Gil,613
+Adelhard,Arenta,617
+Arenta,Kjære,621
+Adelhard,Ambrosius Elliot,623
+Arenta,Guiseppa,624
+Ambrosius,Finitza,640
+Elliot,lille Finitza,643
+Finikza,Guiseppa,644
+Arenta,Finikza,645
+Arenta,Finikza,645
+Arenta,Finikza,645
+Arenta,Finitza,645
+Arenta,Finitza,645
+Arenta,Guiseppa,645
+Ambrosius,Finitza,647
+Elliot,Pedro,648
+Ambrosius,Finikza,655
+Finikza,Pedro,655
+Ambrosius,felv,658
+Ambrosius,Finikza,659
+Ambrosius,øg,659
+Elliot,øg,659
+Elliot,Finitza,659
+Elliot,Finitza,659
+Elliot,Pedro,659
+Finitza,Pedro,659
+Finitza,Kapifel,659
+Ambrosius,Finitza,660
+Elliot,Finitza,665
+Ambrosius,Finikza,670
+Ambrosius,Padua,670
+Pedro,Seir,686
+Elliot,Finikza,689
+Elliot,Kapun,691
+Kapun,Signor,691
+Ambrosius,Finitza,698
+Finikza,Guiseppa,701
+Finikza,Pedro,713
+Finikza,Pedro,713
+Finitza,Signor Padua,721
+Pedro,Signor Padua,726
+Pedro,Signor Padua,730
+Bandit,Elliot,739
+Elliot,ber,743
+Elliot,Finikza,743
+Elliot,Guiseppes,753
+,Ambrosius,758
+,Ambrosius,758
+Ambrosius Elliot,Signor Padua,765
+Arenta,Madamens,777
+Madam Klark,Madamens,777
+Arenta,Madam Klark,777
+Klark,kjære,785
+Keiseren,Klark,787
+Gud,Keiseren,787
+Gud,Klark,787
+Helene,Konstantin,792
+Gil,Helene,798
+Arenta,Klementin,813
+Alf det,Arenta,822
+Arenta,Diavolo,829
+Arenta,Diavolo,840
+Adelhard,Arenta,845
+Adelhard,Paven,845
+Arenta,Paven,845
+Arenta,Diavolo,853
+Diavolo,reis,854
+Arenta,Dn,855
+Arenta,Diavolo,857
+Diavolo,Elsfov,857
+Arenta,Elsfov,857
+Diavolo,ester,858
+Diavolo,elffe,859
+Arenta,Diavolo,862
+Elliot,Finitza,869
+Signor,øg,872
+Ibra,b r,887
+Ibra,Madamen,890
+Ambrosius,Signor Padua,891
+Finitza,Padua,897
+Padua,Signor,908
+Elliot,Guiseppa,913
+Elliot,Guiseppa,913
+Elliot,Guiseppa,914
+Finitza,se,915
+Signor,se,915
+Gil Klark,Helene,918
+Arenta,Josef Noards,926
+Arenta,Josef Noards,926
+Arenta,Josef Noards,926
+Arenta,Josef Noards,926
+Arenta,Helene,929
+Arenta,Helene,936
+Arenta,reis,944
+Arenta,Diavolo,945
+Arenta,Diavolo,953
+Arenta,Diavolo,953
+Diavolo,Pauline,953
+Adelhard,Arenta,957
+Arenta,Fløil,966
+Arenta,Diavolo,969
+Arenta,Diavolo,971
+Arenta,Diavolo,971
+Arenta,Helene,978
+Arenta,Helene,980
+Arenta,Helene,981
+Arenta,Helene,990
+Arenta,Helene,998
+Fader,Helene,999
+Diavolo,Fjed,1005
+Adelhard,Diavolo,1018
+Arenta,Diavolo sfirrede,1020
+Arenta,Diavolo,1024
+Diavolo,Un,1034
+Arenta,Pauline,1036
+Arenta,Pauline,1040
+Diavolo,Pauline,1043
+Arenta,Diavolo,1047
+Diavolo,kjære Arenta,1048
+Josef Noard,Pateren,1063
+Klementin,Konstantin,1069
+Allsaa,Konstantin,1072
+Arenta,Konstantin,1074
+Ambrosius,Finitza,1081
+Ambrosius,Giuseppes,1081
+Hvi,List,1090
+Guiseppe,Melonsælgeren,1092
+Finikza,Melonsælgeren,1092
+Ambrosius,Finikza,1098
+Guiseppe,Signora Finikza Padua,1100
+Ambrosius,Finikza,1101
+Ambrosius,Finikza,1102
+Finitza,Padua,1104
+Ambrosius,Øe,1110
+Elliot,Finikza,1114
+Elliot,Finikza,1114
+Adelhard,Arenta,1122
+Adelhard,Vielfesattesf,1136
+Ambrosius,Finikza,1139
+Finikza,lllau äs,1142
+OoloZns,lllau äs,1142
+Elliot,OoloZns,1142
+Adelhard,Finikza,1152
+Elliot,Finikza,1156
+Adelhard,Gud,1157
+Elliot,Guiseppa,1159
+Allanen,Elliot,1166
+Elliot,Finikza,1185
+Finikza,Signor Padua,1195
+Louis,Wen,1196
+Louis,Pedro,1198
+Louis,Pedro,1199
+Nikolaus,Nina Zøller,1205
+Ledsa gerinde,Nikolaus siti,1208
+Ibra,offres,1223
+Diavolo,Zigeunerhøvdtngen,1227
+Arenta,ester,1242
+Arenta,Mnnken,1246
+Mnnken,assyne,1246
+Adelhard,Arenta,1255
+Arenta,sra,1263
+Arenta,Diavolo,1267
+Arenta,taus,1269
+Arenta,Diavolo,1270
+Arenta,Marie,1270
+Arenta,Marie,1270
+Diavolo,Pauline,1273
+Arenta,Pauline,1273
+Betli,Pauline,1295
+Arenta,Betli,1300
+Arenta,Pauline,1303
+Arenta,Betli,1306
+Arenta,Pauline,1307
+Diavolo,Pauline,1312
+Betli,Pauline,1314
+Arenta,Pauline,1320
+Adelhard,Diavolo,1323
+Arenta,Pauline,1331
+Diavolo,eg,1334
+Diavolo,Pauline,1337
+Arenta,Pauline,1349
+Arenta,Diavolo,1349
+Gud,Pauline,1350
+Arenta,Pauline,1351
+Arenta,Pauline,1353
+Arenta,ester,1354
+ester,fnart,1354
+Diavolo,Pauline,1373
+Diavolo,fende,1374
+Madame Klark,fende,1374
+Madame Klark,pleie Arenta,1374
+Diavolo,Pauline,1375
+Arenta,Diavolo,1383
+Diavolo,Madame Klarf,1383
+Arenta,Pauline,1384
+Arenta,fhi,1389
+Arenta,Diavolo,1389
+Arenta,Diavolo,1389
+Arenta,Diavolo,1393
+Arenta,Klark,1393
+Gil Klark,frank,1397
+Arenta,frank,1397
+Diavolo,Gil Klark,1404
+Arenta,Pauline,1429
+Signora,visf,1441
+Espeløv,Guiseppe,1446
+Ambrosius,Maanelys,1450
+Ambrosius,Finitza,1452
+Finitza,kjære Finitza,1452
+Elliot,Finitza,1468
+Finitza,Guiseppe,1476
+Ambrosius,Finitza,1476
+Finikza,Pedro,1481
+Louis,Signor Elliot,1482
+Elliot,Finitza,1483
+Elliot,Finitza,1485
+Louis,Pedro,1488
+Elliot,Finikza,1489
+Elliot,Louis,1492
+Alf,Ambrosius,1499
+Ambrosius,Finikza,1500
+Elliot,faus,1501
+Elliot,Finikza,1505
+Ambrosius,Finikza,1508
+Finitza,Signor Padua,1511
+Elliot,Signor Padua,1513
+Elliot,Signor Padua,1515
+Elliot,Finikza,1521
+Finikza,Padua,1522
+Ambrosius,Finikza,1526
+Finitza Paduas,Signor Padua,1537
+Finitza Paduas,Pedro,1537
+Pedro,Signor Padua,1544
+Ambrosius,Arenta,1558
+Ambrosius,Finitza,1559
+Elliot,Finitza,1559
+Arenta,Finitza,1568
+Ambrosius Elliot,Finitza,1568
+Arenta,Finikza,1570
+Guiseppe,bønde,1572
+Elliot,bønde,1572
+Finikza,Giuseppe,1575
+Ambrosius,Finikza,1579
+Arenta,Finikza,1581
+Arenta,Finikza,1581
+Ambrosius,Arenta,1583
+Elliot,Guiseppe,1587
+Gud,Keiseren,1598
+Keiseren,Kosakken,1598
+Gud,Øe,1608
+Bepo,tans,1624
+Bepo,Kabu,1625
+Ambrosius,Arenta,1630
+Arenta,Finikza,1636
+Arenta,Diavolo,1636
+Arenta,Diavolo,1636
+Adelhard,Arenta,1636
+Adelhard,Arenta,1639
+Adelhard,Adelhard Bjørnson,1641
+Elliot,Finitza,1643
+Arenta,kjære Ambrosius,1644
+Adelhard,Elliot,1646
+Finikza,Theori,1651
+Praxis,Theori,1651
+Ambrosius,ester,1652
+Arenta,Finikza,1656
+Arenta,Pinsel,1656
+Martrcn,Pinsel,1656
+Finikza,Guiseppe,1660
+Arenla,Guiseppe,1660
+Arenta,Finikza,1663
+Finitza,Graad,1665
+Bien,Finitza,1666
+Arenta,Finikza,1673
+Finikza,Guiseppe,1687
+Arenta,Finikza,1693
+Arenta,Finikza,1693
+Finikza,elsfebe Arenta,1695
+Helene,Konstantin,1697
+Konstantin,Pater Klementin,1697
+Arenta,Pateren,1704
+Arenta,Pateren,1704
+Arenta,Betli,1714
+Bjørnsons,Keiseren,1720
+Arenta,Helene,1731
+Betli,Gil,1739
+Betli,Gil,1740
+Arenta,Betli,1744
+Fyrst Konstantins,Helene,1747
+Arenta,Helene,1749
+Arenta,Steen,1760
+Pauline,reisf,1762
+Napoleon Bonapartc,reisf,1762
+Napoleon Bonapartc,Napoleons,1762
+Bonapartes,Napoleons,1762
+Bonapartes,Napoleons,1762
+Keisere,Napoleons,1762
+Josef,Keisere,1762
+Josef,Ludvig,1762
+Jerome,Ludvig,1762
+Jerome,Karoline,1762
+Elisa,Karoline,1762
+Elisa,Lucca,1762
+Lucca,Pauline,1762
+Napoleons,Pauline,1762
+Arenta,Napoleons,1762
+Karl,Pauline,1763
+Karl,Smalhans,1763
+Brysf,hani,1764
+Arenta,Diavolo,1766
+Arenta,kjære,1768
+Arenta,Finitza,1768
+Arenta,Seir,1773
+Arenta,Elskovs,1780
+Adelhard,Arenta,1790
+Arenta,Diavolo,1808

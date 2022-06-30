@@ -1,0 +1,206 @@
+source,target,type,weight
+Fredrik,Somme,Undirected,1
+Haakon Æthelstan,Kunitz,Undirected,1
+Maurtuens,Norriges,Undirected,1
+Molo,Norriges,Undirected,1
+Akre,ivaar,Undirected,1
+Bergmann,Wisdahl,Undirected,3
+Nils Bergmann,Wisdahl,Undirected,3
+Bergmann,bent,Undirected,2
+Kaptejn,Simonsen,Undirected,1
+Nils Bergmann,Simonsen,Undirected,2
+Simonsen,slig,Undirected,1
+Amund Hol,N. P. Wisdahl,Undirected,2
+Nils,Nils Bergmann,Undirected,7
+Nils,sannem,Undirected,1
+Bergmann,Skogtveit,Undirected,1
+Lars Garmo,Nils Bergmann,Undirected,1
+Lars Garmo,Skogtveit,Undirected,1
+Amund Hol,Lars Garmo,Undirected,1
+Dahl,N. P. Wisdahl,Undirected,2
+Dahl,Petterssen,Undirected,1
+Petterssen,Wisdahl,Undirected,1
+Skogtveit,Wisdahl,Undirected,4
+Garmo,Skogtveit,Undirected,1
+Garmo,Gjerstad,Undirected,1
+Gjerstad,Wisdahl,Undirected,1
+Garmo,Wisdahl,Undirected,1
+Dahl,Garmo,Undirected,1
+Bergmann,Nils Bergmann,Undirected,2
+Ramsgaard,Stenstrup,Undirected,2
+Augustin,Frøken Ramsgaard,Undirected,1
+Gud,Teodora,Undirected,1
+Henriette,Teodora,Undirected,1
+Stenstrup,Tandrup,Undirected,1
+Nils,Skogtveit,Undirected,11
+Nils,Sesaa,Undirected,1
+Kjeld,Skogtveit,Undirected,1
+Kjeld,Snipe,Undirected,1
+Skogtveit,blaagraa,Undirected,1
+Nils,paany,Undirected,2
+Mortenssen,Nils,Undirected,4
+Nils,s,Undirected,4
+Aaanej,Nils,Undirected,1
+Nils,tilatters,Undirected,2
+Mortensen,Mortenssen,Undirected,1
+Mortensen,haml,Undirected,1
+Mortenssen,haahaahaa,Undirected,1
+Gubben,Mortenssen,Undirected,1
+Nils,Tølperes,Undirected,1
+Askheimstrand,Tølperes,Undirected,1
+Nils,iland,Undirected,1
+Nils,pegte,Undirected,1
+Nils,Tjostolv,Undirected,26
+Knut Aure,Tjostolv,Undirected,1
+Knut Aure,Nils,Undirected,6
+Nils,Tjolstolv,Undirected,1
+Birken,Nils,Undirected,1
+Bjørken,Tjostolv,Undirected,1
+Birk,Nils,Undirected,4
+Athenes,Birk,Undirected,1
+Tjostolv,skoggerlo,Undirected,2
+Birk,skoggerlo,Undirected,1
+Birk,Tjostolv,Undirected,1
+Nils,Vertens,Undirected,1
+Verten,Vertens,Undirected,1
+Nils,Verten,Undirected,1
+Heilo fløjted vemodig,Tue,Undirected,1
+Jøs,Kaspersen,Undirected,1
+Kapellan Horgen,Lars Garmo,Undirected,1
+Lars Garmo,Wisdahl,Undirected,1
+Kasperssen,Wisdahl,Undirected,1
+Knut,Knut Aure,Undirected,1
+Knut,signe,Undirected,1
+Knut,Nils Bergmann,Undirected,1
+Johan Sverdrups,Nils,Undirected,1
+Bjørnstjerne Bjørnsons,Johan Sverdrups,Undirected,1
+Bjørnstjerne Bjørnsons,Jomfru Marias,Undirected,1
+Jomfru Marias,Nils,Undirected,1
+Knut,Skogtveit,Undirected,2
+Knut Aure,Skogtveit,Undirected,1
+Knut,Nils,Undirected,7
+Nils,Torstein,Undirected,1
+Knut,Torstein,Undirected,3
+Bosen,Knut,Undirected,1
+Marit Raaen,Sistpaa,Undirected,1
+Marit Raaen,Præstegaard,Undirected,1
+Knut,Sølfest,Undirected,7
+Marit,Nils,Undirected,1
+Nils,Sølfest,Undirected,1
+Skogtveit,Thor Bergs,Undirected,1
+Aker,Gyldenlak,Undirected,1
+Gyldenlak,Thor Berg,Undirected,1
+Nils,Thor Berg,Undirected,1
+Knut Aure,Thor Berg,Undirected,1
+Knut Aure,Nils Bergmann,Undirected,3
+Nils,Thor Berg studsed,Undirected,1
+Thor,Thors,Undirected,1
+Skogtveit,Thor,Undirected,1
+Bergmann,Knut Aure,Undirected,1
+Aker,Stenur,Undirected,1
+Nils,somme,Undirected,1
+Aure,Knut,Undirected,2
+Aure,lian,Undirected,1
+Nils Bergmann,sorn,Undirected,1
+Gubben,Nils,Undirected,1
+Ivar,Knut,Undirected,1
+Jesus,Knut,Undirected,1
+Karer,Nils,Undirected,1
+Karer,Thor Berg,Undirected,1
+Nils Bergmann,klint,Undirected,1
+Knut,Raaen,Undirected,1
+Feigene,Knut,Undirected,1
+Feigene,Sølfest,Undirected,1
+Marit,Sølfest,Undirected,1
+Knut,sist,Undirected,1
+Knut,Marit,Undirected,2
+Nils Bergmann,Sølfest,Undirected,1
+Aure,Knut Aure,Undirected,1
+Knut Aure,Marit,Undirected,1
+Marit,Torstein,Undirected,1
+Torstein,din,Undirected,1
+Nils Bergmann,Tjostolv,Undirected,4
+Gud Elohim,Nils,Undirected,1
+Gud,Jesus,Undirected,5
+Henriette,Nils,Undirected,14
+Luna,Nils,Undirected,2
+Henriette,Nils Bergmann,Undirected,7
+Lien,bent,Undirected,1
+Birk,Lien,Undirected,1
+Birk,Bjørkan,Undirected,1
+Bjørkan,Paal Gaardsgut,Undirected,1
+Gud,Vondord,Undirected,1
+Gud,Vangen,Undirected,1
+Nils Bergmann,Vangen,Undirected,1
+Nils,Nils sjelden,Undirected,2
+Henriette Vangen,Nils,Undirected,2
+Henriette Vangen,bent,Undirected,1
+Bergmann,Henriette,Undirected,1
+Henriette,Papa,Undirected,1
+Bergmann,Papa,Undirected,1
+Griegs,Henriette,Undirected,1
+Griegs,Nils Bergmann,Undirected,1
+Bestemors,Nils kvied,Undirected,1
+Aaget,Nils,Undirected,1
+Lars Garmo,Nils,Undirected,1
+Bergknaus,Lars Garmo,Undirected,1
+Bergknaus,Krakken,Undirected,1
+Krakken,N. P. Wisdahl,Undirected,1
+Garmoen,N. P. Wisdahl,Undirected,1
+Garmo,Garmoen,Undirected,2
+Garmoen,Nils Bergmann,Undirected,2
+Garmo,Nils,Undirected,3
+Gud,Hr. Bergmann,Undirected,1
+Garmoen,Nils,Undirected,1
+Nils,Peterssen,Undirected,2
+Garmo,Hr. Bergmann,Undirected,1
+Hr. Bergmann,Nils,Undirected,1
+Garmoen,Peterssen,Undirected,2
+Amund Hol,Nils Bergmann,Undirected,1
+Amund Hol,Nils,Undirected,1
+N. P. Wisdahl,Skogtveit,Undirected,1
+Dahl,bent,Undirected,1
+Amund,bent,Undirected,1
+Amund,Dahl,Undirected,1
+Dahl,Ramstad,Undirected,2
+Dahl,"Kappellan Horgen*,",Undirected,1
+Horgen,N. P. Wisdahl,Undirected,1
+Amund Hol,Garmo,Undirected,2
+Amund Hol,Dahl,Undirected,2
+Ramstad,Wisdahl,Undirected,1
+Dahl,Wisdahl,Undirected,2
+Dahl,Nils Bergmann,Undirected,2
+Bergmann,Dahl,Undirected,1
+Kristen,Skogtveit,Undirected,1
+Henriette Vangen,Nils Bergmann,Undirected,1
+Nils,stakkars,Undirected,1
+Gjertrud,stakkars,Undirected,1
+Gjertrud,Lexe,Undirected,1
+Bergmann,Nils,Undirected,2
+Frøken Vangen,Frøken Vangeni,Undirected,1
+Gud,Henriette,Undirected,1
+Gud,Stenstrup,Undirected,1
+Henriette,Stenstrup,Undirected,1
+Birk,Henriette,Undirected,1
+Bergmann,Fogden,Undirected,1
+Fogden,Nils Bergmann,Undirected,1
+Garmo,Lars Garmo,Undirected,1
+Garmo,Horgen,Undirected,1
+Askheim,Ida,Undirected,1
+Ida,Somme,Undirected,1
+Nils Bergmann,ivaar,Undirected,1
+Horn,Nils,Undirected,1
+Nils,Nils Bergmann sr,Undirected,1
+Askheim,Nils,Undirected,1
+Askheim,Nils Bergmann,Undirected,1
+Bergersen,Nils Bergmann,Undirected,1
+Askheim,Bergmann,Undirected,1
+Gud,Jesu,Undirected,1
+Bergmann,Gud,Undirected,1
+Gud,Isak Brænden,Undirected,1
+Nils,Somme,Undirected,1
+Somme,Tjostolv Askheim,Undirected,1
+Nils,ivaar,Undirected,1
+Nils,Papa,Undirected,1
+Henriette skalv,Nils,Undirected,1
+Balderbraa,Bjørken,Undirected,1

@@ -1,0 +1,243 @@
+source,target,type,weight
+Morten Sandborg,knut,Undirected,2
+Morten Sandborg,Sandborg,Undirected,1
+Madam Kirsten Marie Sandborg,Walter Scott,Undirected,1
+Bedstemoder,Morten,Undirected,1
+Fjordendal,Mads Jensen,Undirected,1
+Frits Knudsen,Jægermester Sandborg,Undirected,1
+DalHan,Frits Knudsen,Undirected,1
+Frøken Bennet Dal,Høst,Undirected,1
+Bennet,Nelly,Undirected,5
+Høst,Præsfens,Undirected,1
+Frk. Jensen,Høst,Undirected,1
+Mama,Nelly,Undirected,7
+Gud,véd,Undirected,1
+Dal,Ernst,Undirected,1
+Frits,Nelly,Undirected,3
+Mama,Nennet,Undirected,1
+Knndsen,Nennet,Undirected,1
+Knudsen,Nelly,Undirected,9
+Høst,Olaf Hansen,Undirected,4
+Hansen,Olaf Hansen,Undirected,1
+Hansen,Høst,Undirected,5
+Freja,Hansen,Undirected,2
+Høst,Otto,Undirected,1
+Gud,Høst,Undirected,1
+Hr. Hansen,Høst,Undirected,1
+Høst,Olaf,Undirected,6
+Ddre,Olaf Hansen,Undirected,1
+Ddre,Høst,Undirected,1
+Høst,flemme,Undirected,1
+,Høst,Undirected,5
+Freja,Olaf Hansen,Undirected,1
+,Mikkelsen,Undirected,2
+Luxus,Olaf Hansen,Undirected,1
+Mikkel,Mikkelsen,Undirected,1
+Høst,Mikkelsen,Undirected,14
+Atlaskes,Høst,Undirected,1
+Boudoir,Høst,Undirected,1
+Ernst,Olaf Hansen,Undirected,3
+Frits,Kjære,Undirected,1
+Adam,Eva,Undirected,1
+Hr. Morten,Nelly,Undirected,1
+Hr. Morten,Morten,Undirected,1
+Maren Ibsen,Nelly,Undirected,3
+Hr. Sandborg,Nelly,Undirected,2
+Morten,Morten Sandborg,Undirected,1
+Morten Sandborg,Nelly,Undirected,1
+Nelly,Sandborg,Undirected,5
+Frk. Bennets,Nelly,Undirected,1
+Maren Ibsen,ellesens,Undirected,1
+Ieg,Olaf Hansen,Undirected,2
+Pasfor Ernst,Sandborg,Undirected,1
+Louis Ernst,Pasfor Ernst,Undirected,1
+Ernsf,Sandborg,Undirected,1
+Bennet,Knudsen,Undirected,1
+Kusk,Morten,Undirected,1
+Kusk,Sandborg,Undirected,1
+A,B,Undirected,1
+Lieutenant,Nelly,Undirected,1
+Frits,flet,Undirected,1
+Nelly,flet,Undirected,1
+Knudsen,Madam Sandborg,Undirected,1
+Hr. Sandborg,Madam,Undirected,1
+Knudsen,snsam,Undirected,1
+Mama,Papa,Undirected,13
+Nelly,Papa,Undirected,2
+Høsf,Knudsen,Undirected,1
+Knudsen,eg,Undirected,1
+Nelly,hnn,Undirected,1
+Grace,r. Ernst,Undirected,1
+Grace,Olaf Hansen,Undirected,5
+Dr. Ernst,Grace Ernst,Undirected,1
+,Ernst,Undirected,1
+,Grace,Undirected,1
+Ernst,Grace,Undirected,1
+Anna,Grace,Undirected,21
+Olaf,Or. Ernst,Undirected,1
+Grace,Pappa,Undirected,15
+Frk. Dal,Pappa,Undirected,2
+Anna,Olaf,Undirected,25
+Grace,Olaf,Undirected,19
+Olaf Hansen,Or,Undirected,1
+. Ernst,Or,Undirected,2
+. Ernst,Grace,Undirected,1
+Graad,Grace,Undirected,2
+Dal,bo,Undirected,1
+Ernst,Olaf,Undirected,2
+Dal,Høst,Undirected,5
+. Ernst,Dal,Undirected,1
+Dal,Knudsen,Undirected,5
+Høst,hnn,Undirected,1
+Dal,Or. Ernst,Undirected,1
+Dal,Mikkelsen,Undirected,3
+Høst,Mikkel,Undirected,1
+Mikkelsen,sidsfe,Undirected,2
+Mikkelsen,Peder Jensens,Undirected,2
+Morten Sandborg,Præsfen,Undirected,1
+Jensen,Morten,Undirected,2
+Bedstemoder,Jensen,Undirected,1
+Bennet,Ernst,Undirected,2
+Ernst,Morten,Undirected,1
+Fjordendal,Morten,Undirected,2
+Bennet,Morten,Undirected,1
+Morten,sidsf,Undirected,1
+Grace,Nelly,Undirected,2
+Grace,Hr. Sandborg,Undirected,2
+Grace,Hansen,Undirected,4
+Grace,supsrba,Undirected,2
+Frk. Hansen,Grace,Undirected,1
+Frk. Ernst,Nemesis,Undirected,1
+Pasfor Knudsen,r. Ernst,Undirected,1
+Knudsen,Pasfor Knudsen,Undirected,1
+hnn,oni,Undirected,1
+deni,r. Ernst,Undirected,1
+Hr. Sandborg,fale,Undirected,1
+Nelly,r. Ernst,Undirected,1
+Kristen,Kristen Mikkelsen,Undirected,1
+Frederiksen,Morten,Undirected,1
+Lene Marie,Møllerens,Undirected,1
+Lene Marie,Morten,Undirected,1
+Bedstemoder,Jomfru Jensen,Undirected,1
+Sandborg,graakold Morgen,Undirected,1
+Morten,Sandborg,Undirected,1
+Gud,Morten,Undirected,1
+Bennet,Sandborg,Undirected,1
+Nelly,d,Undirected,1
+Frk. Ernst,Nelly,Undirected,1
+Nelly,Pasfor Knudsen,Undirected,1
+Grace,sfal,Undirected,1
+Ernst,Nelly,Undirected,1
+Hosbond,Mads Jensen,Undirected,1
+Jensen,Mads Jensen,Undirected,4
+Mads,Mads Jensen,Undirected,1
+Gud,Mads,Undirected,1
+Jensen,Jomfru Jensen,Undirected,1
+Jensen,Jfr. Jensens,Undirected,2
+Jensen,Mads,Undirected,1
+Jfr. Jensen,Kaal,Undirected,1
+Mads Jensen,Søren,Undirected,3
+Jomfru Jensen,Søren,Undirected,1
+Jomfru Jensen,Mads Jensen,Undirected,2
+Hosbond,Søren,Undirected,1
+Jfr. Jensen,Sylte,Undirected,1
+Gud,Karen,Undirected,1
+Frøken Bennet,Knudsen,Undirected,1
+Frøken Bennet,Olaf Hansen,Undirected,1
+Gud,Knudsen,Undirected,2
+Bennet,Olaf Hansen,Undirected,1
+Grace,son,Undirected,1
+Grace,ganfle,Undirected,1
+Pappa,ganfle,Undirected,1
+Ddre,ganfle,Undirected,1
+Knudsen,Pappa,Undirected,1
+Frk. Dal,Olaf,Undirected,5
+Dr. Ernst,Olaf,Undirected,1
+Dal,Kufl,Undirected,1
+Gud,hcir,Undirected,1
+Frk. Bennet,gua,Undirected,1
+Dokforen,ganfle,Undirected,1
+Grace,Høst,Undirected,2
+,Hansen,Undirected,1
+,Olaf Hansen,Undirected,1
+Høst,strængt,Undirected,1
+Olaf,Romer,Undirected,1
+Ernst,Miss Dobby,Undirected,1
+Olaf Hansen,knnde,Undirected,1
+Ernst,Høst,Undirected,2
+Anna,Pappa,Undirected,1
+Høst,Pappa,Undirected,1
+Ernst,Frk. Bennet,Undirected,1
+Gud,foul,Undirected,1
+Frk. Dal,Olaf Hansen,Undirected,2
+Kaliffens,Olaf,Undirected,1
+Knudsen,Olaf Hansen,Undirected,1
+Hansen,Vv. Ernst,Undirected,1
+Bedstemoder,Knudsen,Undirected,1
+Knudsen,flog,Undirected,1
+Esaias,Morten Sandborg,Undirected,1
+Madam,Nelly,Undirected,1
+Frk. Dal,Nelly,Undirected,1
+Bennet,eg,Undirected,1
+Hr. Hansen,Nelly,Undirected,1
+Bennet,Mama,Undirected,3
+Knudsen,Malice,Undirected,1
+Nelly,Pasfor Knndsen,Undirected,1
+Nelly,Olaf Hansen,Undirected,1
+Anna Hansens,Grace,Undirected,1
+Anna Hansens,Olaf,Undirected,1
+Bedstemoder,Grace,Undirected,1
+Bennet,Bravo,Undirected,1
+Frk. Bennet,oni,Undirected,1
+Anna,Frxr,Undirected,1
+Frxr,Hansen,Undirected,1
+Anna,Hansen,Undirected,3
+Frøken Dal,Hansen,Undirected,1
+Anna,Dal,Undirected,2
+Bennet,Grace,Undirected,2
+Anna,nogel,Undirected,1
+Taager,nogel,Undirected,1
+Mama,Sonimer,Undirected,1
+Bennet,Frk. Grace,Undirected,1
+Akcent,Frk. Grace,Undirected,1
+Akcent,HM,Undirected,1
+Frk. Ernst,HM,Undirected,1
+Anna,Frk. Ernst,Undirected,1
+Bennet,Frk. Ernst,Undirected,1
+Bedstemoder,Bennet,Undirected,1
+Anna,Deni,Undirected,1
+Dokforen,Grace,Undirected,1
+Anna,Dokforen,Undirected,1
+Anna,Bedstemoder,Undirected,2
+Anna,Frk. Dal,Undirected,1
+fasf,sam,Undirected,1
+Olaf,Pastor Knndsens,Undirected,1
+Olaf,mørk,Undirected,1
+Anna,Gud,Undirected,1
+Grace,Gud,Undirected,1
+Dokloren,Grace,Undirected,1
+Dokloren,Hansen,Undirected,3
+Hansen,Mads Jensen,Undirected,2
+Hansen,Sandborg,Undirected,1
+Fjordendal,Olaf,Undirected,1
+Bennet,ver,Undirected,1
+Bennet,r. Ernst,Undirected,1
+r. Ernst,soni,Undirected,1
+Mama,soni,Undirected,1
+Dr. Ernst,Mama,Undirected,1
+Mama,jeq,Undirected,1
+Mama,lille Mama,Undirected,2
+Mama,Rubikon,Undirected,2
+Sandborg,hnn,Undirected,1
+Ernst,Kjære,Undirected,1
+Frk. Bennet,Papa,Undirected,1
+Olaf,torens,Undirected,1
+Frk. Dal,torens,Undirected,1
+Bennet,Hr. Hansen,Undirected,1
+Bennet Dal,Frk. Bennet,Undirected,1
+Grace,lille Grace,Undirected,1
+Olaf Hansen,Pappa,Undirected,1
+Frk. Dal,Hansen,Undirected,1
+Kusk,Olaf Hansen,Undirected,1
+Dr. Ernst,Efferskriff,Undirected,1
+Dal,Hansen,Undirected,1

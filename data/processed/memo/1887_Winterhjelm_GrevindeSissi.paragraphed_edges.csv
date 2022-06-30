@@ -1,0 +1,156 @@
+source,target,type,weight
+Kong Luis,Tessin,Undirected,1
+Arvid Laurin,Pontus Gille,Undirected,1
+Arvid,Pontus Gille,Undirected,10
+Arvid,Pontus,Undirected,1
+Fredrik,define,Undirected,1
+Tessin,define,Undirected,1
+Arvid,Fredrik Malm,Undirected,2
+Sissi,Tessin,Undirected,3
+Arvid,Fredrik,Undirected,15
+Aapyt,Tessin,Undirected,1
+Fanny Liljensparre,Fredrik Malm,Undirected,1
+Fanny Liljensparre,Sissi,Undirected,3
+Fanny,Sissi,Undirected,14
+Arvid,Sissi,Undirected,28
+Adlerfelt,Principals,Undirected,1
+Grundbergs,Principals,Undirected,1
+Grundberg,Principals,Undirected,1
+Adlerfelt,Adlerfeltske,Undirected,1
+Adlerfeltske,Cecilia,Undirected,1
+Cecilia,Sissi,Undirected,2
+Brahe,Cecilia,Undirected,1
+Karl Sigismund,Sissi,Undirected,8
+Karl Sigismund,Karl Sigismund Adlerfelt,Undirected,1
+Adlerfelt,Sissi,Undirected,23
+Adlerfelt,Thurehof,Undirected,2
+Arvid Laurin,Fredrik Malm,Undirected,1
+Fredrik,Fredrik Malm,Undirected,1
+Arvid Laurin,Fredrik,Undirected,1
+Adlerfelt,Malm,Undirected,7
+Fredrik,Pontus Gille,Undirected,2
+Malm,Pontus Gille,Undirected,2
+Arvid,Malm,Undirected,14
+Arvid,Karl Sigismund,Undirected,1
+Fredrik,Malm,Undirected,7
+Fredrik Malm,Malm,Undirected,1
+Malm,Tvertom,Undirected,1
+Fredrik,Tvertom,Undirected,1
+Arvid,tomands,Undirected,1
+Arvid,Fredrik Hjertet,Undirected,1
+Fredrik Hjertet,Malm,Undirected,1
+Arvid,Emmy,Undirected,43
+Emmy,Laurin,Undirected,2
+Fredrik,Laurin,Undirected,1
+Emmy,Stina,Undirected,1
+Emmy,Fredrik,Undirected,11
+Emmy,Malm,Undirected,12
+Adlerfelt,Arvid,Undirected,2
+Emmy,Papa,Undirected,1
+Clara,Emmy,Undirected,4
+,Arvid,Undirected,1
+,Emmy,Undirected,1
+Clara,Louise,Undirected,1
+Arvid,Lieven,Undirected,1
+Louise,Malm,Undirected,1
+Pontus Gille,Tysta Marie,Undirected,1
+Emmy,Flelfrid Cederberg,Undirected,1
+Fredrik,Lundquist,Undirected,1
+Helfrid Cederberg,Lundquist,Undirected,2
+Louise Adlerfelt,Lundquist,Undirected,1
+Fredrik,Louise Adlerfelt,Undirected,1
+Emmy,Helfrid Cederberg,Undirected,1
+Emmy,Helfrid,Undirected,1
+Arvid,Gille,Undirected,7
+Arvid,Giile,Undirected,1
+Gille,Malm,Undirected,2
+Emmy,Giile,Undirected,2
+Emmy,Gille,Undirected,3
+Aurora,Sissi,Undirected,2
+Adlerfelt,Aurora,Undirected,1
+Emmy,Sissi,Undirected,32
+Fredrik,Sissi,Undirected,7
+Emmy,Pontus,Undirected,1
+Adlerfelt,Fredrik,Undirected,1
+Emmy,Lian,Undirected,1
+Aurora,Fru Adlerfelts,Undirected,1
+Emmy,Tante Aurora,Undirected,1
+Aurora,Fredrik,Undirected,4
+Adlerfelt,Grev Høk,Undirected,5
+Adlerfelt,Karl Sigismund,Undirected,11
+Høk,Karl Sigismund,Undirected,1
+Høk,Sissi,Undirected,12
+Fløk,Sissi,Undirected,1
+A,B,Undirected,1
+Adlerfelt,Høk,Undirected,2
+Fannj,Ørnskiøld,Undirected,1
+Liljensparre,Ørnskiøld,Undirected,1
+Fanny,Liljensparre,Undirected,1
+Emmy Malm,Fanny,Undirected,1
+Fanny,beraad Hu,Undirected,1
+Blendes,beraad Hu,Undirected,1
+Blendes,Fanny,Undirected,1
+Adlerfeltske,Sissi,Undirected,2
+Braadden,Fanny,Undirected,1
+Braadden,Sissi,Undirected,1
+Fanny,Gud,Undirected,1
+Grev Høk,Pløk,Undirected,1
+Grev Høk,Sissi,Undirected,16
+GrevHøk,Gud,Undirected,1
+Frøken Sellberg,Grev Høk,Undirected,1
+Arvid,Elvor,Undirected,1
+Fanny,Mama,Undirected,1
+Høk,bricht,Undirected,1
+Fanny,Fanny Ørnskiøld,Undirected,1
+Liljensparre,Sissi,Undirected,1
+Fanny,Friherrinde v.,Undirected,1
+Born,Friherrinde v.,Undirected,1
+Friherrinde Liljensparre,Høk,Undirected,1
+Arvid,Emmy Malm,Undirected,1
+Giile,Pontus Gille,Undirected,1
+Giile,Høk,Undirected,1
+Giile,Sissi,Undirected,2
+Gille,Sissi,Undirected,1
+Pontus Gille,Sissi,Undirected,3
+Grev Høk,Karl Sigismund,Undirected,5
+Grev Høk,Liaisons,Undirected,1
+Høk,Sissi eg,Undirected,1
+Sissi,Sissi eg,Undirected,1
+Karl Sigismund,Thurehof,Undirected,1
+Sissi,blun,Undirected,1
+Gud,Sissi,Undirected,1
+Malm,Sissi,Undirected,1
+Grev Høk,Høk,Undirected,1
+Grev Høk,Gud,Undirected,1
+Adlerfelt,prekær,Undirected,1
+Emmy Malm,Sissi,Undirected,2
+Liaison,Sissi,Undirected,1
+Grev Høk,Liaison,Undirected,1
+Sissi,hans Karl Sigismund,Undirected,1
+Grev Høk,Grevinde Høks,Undirected,1
+Flun,Sissi,Undirected,1
+Arvid,Flun,Undirected,1
+Emmy,Gud,Undirected,2
+Arvid,Høk,Undirected,5
+Arvid,Grev Høk,Undirected,2
+Lundquist,Sissi,Undirected,4
+Helfrid,Lundquist,Undirected,2
+Grevinde Høk,Helfrid,Undirected,1
+Emmy Malm,Grevinde Høk,Undirected,1
+Helfrid,Sissi,Undirected,1
+Greven,Jasaa,Undirected,1
+Gud,Helfrid,Undirected,1
+Grev Høk,Lundquist,Undirected,1
+Emmy,Grev Høk,Undirected,1
+Emmy,Fredrik Malm,Undirected,1
+Aurora,Theori,Undirected,1
+Frøken Adlerfelts,Grevinde Høk,Undirected,1
+Arvid,hint,Undirected,1
+Baand,Giile,Undirected,1
+Helfrid Lundquist,Sissi,Undirected,1
+Emmy,Graad,Undirected,1
+Adlerfelt,Emmy,Undirected,1
+Emmy,Høk,Undirected,1
+Emmy,Flan,Undirected,1
+Emmj,Emmy,Undirected,1
+Emmj,Sissi,Undirected,1

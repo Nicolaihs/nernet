@@ -1,0 +1,18 @@
+source,target,type,weight
+Niels Emil Karlsen,X.,Undirected,1
+Peter,Vilhelm,Undirected,4
+Emil,Niels,Undirected,1
+Emil,Peter,Undirected,1
+Marryat,Overskou,Undirected,1
+Knudsen,Overskou,Undirected,1
+Bech,Svend —,Undirected,1
+Marie,j,Undirected,1
+Matilde,j,Undirected,1
+Emmas,Matilde,Undirected,1
+Emma,Matilde,Undirected,3
+Matilde,lille Emil,Undirected,1
+Emil,z,Undirected,1
+Skovgaard,Skovgaards,Undirected,1
+Frits,Jens,Undirected,1
+Frits,Lotte,Undirected,1
+Erik Bøghs,Klermont,Undirected,1

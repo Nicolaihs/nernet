@@ -1,0 +1,275 @@
+source,target,type,weight
+Holm,Ranchs,Undirected,1
+Leander,Ranchs,Undirected,1
+Leander,Leonora,Undirected,1
+Hr. Jøhncke,Sigurd,Undirected,1
+Julius Holm,b,Undirected,3
+Mogens,Sigurd,Undirected,1
+Sigurd,Valdemar Holm,Undirected,1
+Julius Holm,Valdemar Holm,Undirected,1
+b,d,Undirected,1
+Es-Dur,d,Undirected,1
+Es-Dur,Sigurd,Undirected,1
+Julius,Sigurd,Undirected,79
+Julius,Krieger,Undirected,1
+Holm,Julius,Undirected,9
+Julius,Rasmussen,Undirected,1
+Holm,Jøhncke,Undirected,3
+Hr. Holm,Oxen,Undirected,1
+Hr. Holm,Mutter,Undirected,1
+Julius,Karen,Undirected,1
+Karen,Lise,Undirected,1
+Lise,Peter,Undirected,1
+Julius,Peter,Undirected,1
+Ole Sørensen Endelave,Peter,Undirected,1
+Karen,Ole Sørensen Endelave,Undirected,1
+Hr. Holm,Julius,Undirected,1
+Fløjte-Jørgensen,Sigurd,Undirected,1
+Møller,Sigurd,Undirected,4
+Møller,dér,Undirected,1
+Holm,Sigurd,Undirected,7
+Euridice,Holm,Undirected,1
+Euridice,Jørgensen,Undirected,1
+Jørgensen,Møller,Undirected,1
+Holm,Møller,Undirected,5
+Aristeus,Møller,Undirected,1
+Aristeus,Kur,Undirected,1
+Karen,Sigurd,Undirected,1
+Lise,Sigurd,Undirected,1
+Julius,Lise,Undirected,2
+Gud,Holm,Undirected,1
+Asta Jøhncke,Oluflfa,Undirected,1
+Asta Jøhncke,Sigurd,Undirected,1
+Jøhncke,Sigurd,Undirected,17
+Jøhncke,Mogens Jøhncke,Undirected,2
+Gydas,Mogens Jøhncke,Undirected,1
+Gyda,Gydas,Undirected,1
+Gyda,Mogens,Undirected,1
+Polly,Raasløv,Undirected,1
+Jøhncke,Raasløv,Undirected,2
+Jøhncke,Raasløv-Jøhncke,Undirected,1
+Mogens,Raasløv-Jøhncke,Undirected,1
+Mogens,von Jøhncke,Undirected,1
+von,von Jøhncke,Undirected,1
+G. v. J.,von,Undirected,1
+Asta Jøhncke,Oluffa,Undirected,1
+Asta Jøhncke,Raasløv,Undirected,1
+Raasløv,Sigurd,Undirected,2
+Sigurd,Thorald Holm,Undirected,2
+Thorald Holm,Thoralds,Undirected,1
+Jane,Thoralds,Undirected,1
+Jane,Jøhncke,Undirected,1
+Jøhncke,Lines,Undirected,1
+Lines,Polly,Undirected,1
+Oluffa,Polly,Undirected,8
+Asta,Jane,Undirected,3
+Jane,Line,Undirected,38
+Lady Macbeth,Line,Undirected,1
+Jane,Lady Macbeth,Undirected,1
+Gud,Line,Undirected,5
+Line,Tantes,Undirected,1
+Tante Jane,Tantes,Undirected,1
+Jane,llmarsch,Undirected,1
+Claras,Hjalmar,Undirected,1
+Line,Polly,Undirected,4
+Polly,dpn,Undirected,1
+Line,dpn,Undirected,1
+Simonsen,Tante Line,Undirected,1
+Hjalmar,Jane,Undirected,2
+Jane,Polly,Undirected,4
+Hjalmar,Pantalons,Undirected,2
+Hjalmar,Polly,Undirected,1
+Oluffa,paany,Undirected,1
+Valborg Jørgensen,lalalalala,Undirected,1
+Valborg Jørgensen,Valdemar,Undirected,1
+Valdemar,lalalalala,Undirected,1
+Gud,Polly,Undirected,1
+Line,sjcal,Undirected,1
+Kehraus,Line,Undirected,2
+Asta,Line,Undirected,6
+Jøhncke,Zenith,Undirected,1
+Polly,Zenith,Undirected,1
+Polly,Polly taug,Undirected,1
+Oluffa,Polly taug,Undirected,1
+Asta,Polly,Undirected,11
+Jane,Sigurd,Undirected,4
+Christian,iland,Undirected,1
+Sigurd,iland,Undirected,2
+lalala,tralala,Undirected,1
+Christian Sarup,Sarup,Undirected,2
+Christian Sarup,Holm,Undirected,1
+Hr. Sarup,Julius,Undirected,2
+Sarup,Sigurd,Undirected,9
+Sigurd,fidel,Undirected,1
+Hr. Jøhncke,Sigurd Holm,Undirected,1
+Hr. Jøhncke,Julius Holm,Undirected,1
+Goples,Sarup,Undirected,1
+Jøhncke,Sarup,Undirected,4
+Julius,Jøhncke,Undirected,4
+Julius,Sarup,Undirected,4
+Peter,Sarup,Undirected,1
+Karl,Søren Kusk,Undirected,1
+Karl,Sigurd,Undirected,1
+Sigurd,Sørens,Undirected,2
+Fatter,Julius,Undirected,1
+Fatter,Søren Kusk,Undirected,1
+Julius,Søren,Undirected,7
+Pave,Søren,Undirected,1
+Paven,Søren,Undirected,1
+Sarup,Søren,Undirected,1
+Sigurd,Søren,Undirected,2
+Søren,allenfals,Undirected,1
+Mette,Mette Poulsdatter,Undirected,3
+Julius,Mette,Undirected,4
+Jøhncke,Mette,Undirected,1
+Holm,Mette,Undirected,2
+Mette,Sigurd,Undirected,4
+Hr. Jøhncke,Julius,Undirected,1
+Sigurd,Villie,Undirected,1
+Julius,Muhammeds,Undirected,1
+Sigurd,Sigurd Holm,Undirected,1
+Holm,Julius Holm,Undirected,2
+Julius,Maren,Undirected,1
+Lise,Maren,Undirected,1
+Jøhncke,Lise,Undirected,2
+Maren,Sigurd,Undirected,1
+Hr. Jøhncke,Sarup,Undirected,1
+Line,Mogens,Undirected,5
+Asta,Oluffa,Undirected,4
+Julius,Oluffa,Undirected,48
+Sarup,Tausheds,Undirected,1
+Gud,Jane,Undirected,4
+Gud,Gyda,Undirected,1
+Gyda,Thorald,Undirected,1
+Thoraids,Thorald,Undirected,1
+Sigurd,Thoraids,Undirected,1
+Line,Thorald,Undirected,1
+Oluffa geraadede,Tausheds,Undirected,1
+Julius,Oluffa geraadede,Undirected,1
+Asta,Hansen,Undirected,1
+Hansen,Petersen,Undirected,1
+Hr. Holm,Polly,Undirected,1
+Polly,Sigurd,Undirected,14
+Hr. Holm,Sigurd,Undirected,1
+Asta,Julius,Undirected,6
+Asta,Sigurd,Undirected,35
+Julius,Labitzky,Undirected,1
+Oluffa,Sigurd,Undirected,14
+Line,Oluffa,Undirected,2
+Consilium abeundi,Polly,Undirected,1
+Julius,Polly,Undirected,9
+Asta,Gud,Undirected,2
+Jane,Julius,Undirected,3
+Jøhncke,L’hombrien,Undirected,1
+Asta,L’hombrien,Undirected,1
+Mette Pouls-datter,Oluffa,Undirected,1
+Hans,Polly,Undirected,1
+Joakim,Joakim uti Babylon,Undirected,1
+Jøncke,Sigurd,Undirected,3
+Joakim,Jøhncke,Undirected,1
+Joakim,vos,Undirected,1
+Heides,Joakim,Undirected,2
+Line,Sigurd,Undirected,10
+Jane,niet,Undirected,1
+Misse,Musse,Undirected,1
+Misse,kis,Undirected,1
+Mette Poulsdatter,Polly,Undirected,1
+Mette,Oluffa,Undirected,1
+Mette Poulsdatter,Sigurd,Undirected,2
+Julius,Mette Poulsdatter,Undirected,4
+Mette Poulsdatter,Oluffa,Undirected,2
+Mette Pouls-datter,naufra-gium,Undirected,1
+Holberg,Julius,Undirected,1
+Frøken Oluffa,Julius,Undirected,2
+Julius,Tuen,Undirected,1
+Oluffa,Tuen,Undirected,1
+Kur,Sigurd,Undirected,1
+Folly,Polly,Undirected,3
+Folly,Sigurd,Undirected,1
+H. P.,Julius,Undirected,1
+H. P.,Oluffa,Undirected,1
+Lise,Mette Poulsdatter,Undirected,1
+Lise,Polly,Undirected,2
+Frøken Oluffa,Mette,Undirected,1
+Oluffa,Søren Kusk,Undirected,1
+Pianopedal,Søren Kusk,Undirected,1
+Julius,Line,Undirected,1
+von,von Raasløv,Undirected,1
+Kjødfars,von,Undirected,1
+Kjødfars,Polly,Undirected,1
+Jøhncke,Oluffa,Undirected,1
+Beaumondens,Oluffa,Undirected,1
+Jøhncke,Tante Jane,Undirected,1
+Tante Jane,Tante Line,Undirected,1
+Gud,Sigurd,Undirected,1
+Asta,Jøhncke,Undirected,1
+Gud,Oluffa,Undirected,1
+Jane,Mogens,Undirected,1
+Sigurd,Søren Kusk,Undirected,1
+Sarup,Ørtoftegaards,Undirected,1
+Frøken Vognmandskusk,dito,Undirected,1
+Frøken Vognmandskusk,Jøhncke,Undirected,1
+Jane,purrh,Undirected,1
+Line,Sarup,Undirected,3
+Sarup,Sigurd Holm,Undirected,1
+Jane,Sarup,Undirected,3
+Holm,Line,Undirected,3
+Jane,Sivertsen,Undirected,4
+Line,Sivertsen,Undirected,2
+Sarup,Sivertsen,Undirected,1
+Jane,Thorald Holm,Undirected,1
+Gud,Sivertsen,Undirected,1
+Gud,Thorald,Undirected,1
+Raasløv,Sarup,Undirected,1
+Julius,Raasløv,Undirected,3
+Jane,Oluffa,Undirected,4
+Jane,Julius —,Undirected,1
+Julius —,Sigurd,Undirected,1
+Don Ranudos,Svend Dyrings,Undirected,1
+Oluffa,Tante Jane,Undirected,1
+Sivertsen,Stewart,Undirected,1
+Jøhncke,Line,Undirected,1
+Julius,Sivertsen,Undirected,1
+Frøken Raasløv,Sarup,Undirected,1
+Sarup,Tante Line,Undirected,1
+Julius,L’,Undirected,1
+Gyda,Jane,Undirected,1
+Julius,Tante Jane,Undirected,1
+Oluffa,Sarup,Undirected,2
+Gyda,Line,Undirected,3
+Frøken Oluffa,Sigurd,Undirected,1
+Gyda,Jøhncke,Undirected,1
+Roes,Sigurd,Undirected,1
+Julius,Roes,Undirected,1
+Holm,Hr. Holm,Undirected,1
+Beaumondens,Polly,Undirected,1
+Julius,burschikose,Undirected,1
+Jane,njeg,Undirected,1
+Gyda,Sigurd,Undirected,1
+Asta,Tue,Undirected,1
+Folly,Oluffa,Undirected,1
+Asta,Raasløv,Undirected,2
+Absinth,Bonvivanten,Undirected,1
+Absinth,Holm,Undirected,1
+Carmen,Coquelin,Undirected,1
+Figaro,Larsens,Undirected,1
+Holm,Jane,Undirected,2
+Holm,Oluffa,Undirected,2
+Hr. Holm,Jøhncke,Undirected,1
+Christian Sarup,Julius Holm,Undirected,1
+Sarup,ssa,Undirected,1
+Holm,Mutter,Undirected,1
+Gud,Sarup,Undirected,1
+Fata Morgana,Sigurd,Undirected,1
+Ove Thomsen,Valdemar,Undirected,1
+Peter,Valdemar,Undirected,1
+August Holm,Peter,Undirected,1
+Holm,dito,Undirected,1
+Mouritzen,Sigurd,Undirected,1
+Holm,riposterede,Undirected,1
+Holm,Sarup,Undirected,2
+Diderik,Holm,Undirected,1
+Diderik,Viderik,Undirected,1
+Dan sen,Holm,Undirected,1
+Dan sen,Sarup,Undirected,1
+Line,mein lieber,Undirected,1

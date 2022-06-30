@@ -1,0 +1,321 @@
+source,target,type,weight
+Frøken Rosgaard,Rosgaard,Undirected,1
+Eva,Frøken Rosgaard,Undirected,5
+Athalie Rosgaard,Edvard,Undirected,1
+Edvard,Frøken Athalie,Undirected,3
+Athalie,Frøken Athalie,Undirected,1
+Christian,dif,Undirected,1
+Augusta,Christian,Undirected,3
+Augusta,Elisabeth See-dorf,Undirected,1
+Elisabeth See-dorf,Frøken Athalie,Undirected,1
+Athalie,Christian,Undirected,2
+Augusta,Elisabeth,Undirected,1
+Athalie Rosgaard,Elisabeth,Undirected,1
+Edvard/,kjære,Undirected,1
+Athalie Rosgaard,Edvard/,Undirected,1
+Athalie Rosgaard,lienover,Undirected,1
+Christian,lienover,Undirected,1
+Alvilda,Christian,Undirected,1
+Edvard,Plun,Undirected,1
+Edvard,taus,Undirected,1
+Athalie,Broder Edvard,Undirected,2
+Athalie,Stakkel,Undirected,1
+Edvard,Eva,Undirected,12
+Brandt,Eva Ross,Undirected,1
+Brandt,Rosgaardsholms,Undirected,1
+Frøken Athalie,Rosgaardsholms,Undirected,1
+Eva,Frøken Athalie,Undirected,17
+Bertelsen,Eva,Undirected,3
+Athalie,Eva,Undirected,29
+Eva,Pultens,Undirected,1
+Christian,Garben,Undirected,1
+Garben,Rosgaard,Undirected,1
+Julius,Rosgaard,Undirected,1
+Julius,graa,Undirected,1
+Agnes,Eva,Undirected,66
+Agnes,Alvilda,Undirected,2
+Agnes,Sommei-,Undirected,2
+,Agnes,Undirected,4
+Elisabeth,Eva,Undirected,1
+Elisabeth,Seedorff,Undirected,1
+Erik,Frøken Athalie,Undirected,3
+Camilla Rosgaard,Frøken Athalie,Undirected,1
+Frøken Athalie,Rosgaard,Undirected,1
+Alexander,Camilla,Undirected,47
+Alexander,Carstens,Undirected,2
+Alexander,Grevinde Vesten,Undirected,2
+Alexander,Grev Vestens,Undirected,1
+Camilla,Grev Vestens,Undirected,2
+Broder Christians,Frøken Athalie,Undirected,1
+Athalie,Camilla,Undirected,8
+Augusta,Frøken Athalie,Undirected,1
+Camilla,Frøken Athalie,Undirected,3
+Augusta,Camilla,Undirected,10
+Alexander,Christian,Undirected,2
+Camilla,Christian,Undirected,3
+Alexander,Brandt,Undirected,1
+Brandt,Jomfru Brandts,Undirected,1
+Alexander,Jomfru Brandts,Undirected,1
+Grev Vestens,Lehnsgrevindes,Undirected,1
+Camilla,Lehnsgrevindes,Undirected,1
+Brummers,Lehnsgreve Vestens,Undirected,1
+Adam,Alexander,Undirected,2
+Augusta,Grev Adams,Undirected,1
+Adam,Camilla,Undirected,2
+Adam,Augusta,Undirected,1
+Alexander,Frøken Athalie,Undirected,2
+Adam,Christian,Undirected,1
+Alexander,Greven,Undirected,2
+Augusta,Greven,Undirected,1
+Athalie,Augusta,Undirected,2
+Alexander,Augusta,Undirected,1
+Camilla,Tante,Undirected,1
+Bertelsen,Jomfru Brandt,Undirected,1
+Brandt,Eva,Undirected,4
+Eva,tullivis,Undirected,1
+Eva,lille Jomfru Brandt,Undirected,2
+Tullivis,tullivis,Undirected,1
+Eva,Tante,Undirected,8
+Brandt,Tante,Undirected,1
+Bertelsen,Jomfru Mejer,Undirected,1
+Bertelsen,tullivis,Undirected,1
+Larsens,tullivis,Undirected,2
+Bertelsen,lille Jomfru Brandt,Undirected,1
+Eva,Jomfru Brandt,Undirected,3
+Jomfru Brandt,tullivis,Undirected,1
+Eva,Richards,Undirected,2
+Gud,Revil,Undirected,1
+Camilla,Eva,Undirected,90
+Frøken Athalie,Jomfru Brandt,Undirected,1
+Camilla,Frits,Undirected,16
+Eva,Frits,Undirected,31
+Eva,Richardt,Undirected,2
+Charlotte,Grevinden,Undirected,1
+Charlotte,Eva,Undirected,15
+Eva-,Grev,Undirected,1
+Alexander Revil,Eva,Undirected,4
+Athalie,lille Eva,Undirected,1
+Eva,sandru,Undirected,1
+Camilla,sandru,Undirected,1
+Alexander,Eva,Undirected,46
+Alexander,Athalie,Undirected,8
+Frøken Athalie,Rnaatte,Undirected,1
+Camilla,Rnaatte,Undirected,1
+Alexander Revil,Camilla,Undirected,3
+August Rosgaard,Frits,Undirected,1
+August,August Rosgaard,Undirected,1
+August,Frits,Undirected,12
+August,Broder Frits,Undirected,1
+August,Camilla,Undirected,6
+Alexander —,Eva,Undirected,2
+Athalie,Edvard,Undirected,7
+Camilla,Lieutenant Revil,Undirected,1
+Athalie,liendes,Undirected,1
+Eva,liendes,Undirected,2
+August,Revil,Undirected,1
+Eva,liun,Undirected,6
+Eva,Moulins,Undirected,4
+Athalie,Jomfru Brandt,Undirected,1
+Athalie,Valboms,Undirected,2
+Frøken Bergs,Valboms,Undirected,1
+Eva,Valboms,Undirected,1
+Ahrenzens,Eva,Undirected,1
+Camilla,Tante Athalie,Undirected,2
+Camilla,ifjor Sommer,Undirected,1
+Edvard,ifjor Sommer,Undirected,1
+Tante Athalie,Tante Augusta.-----Men,Undirected,1
+Charlotte,liun,Undirected,1
+Rosgaardsholms,Tante,Undirected,1
+Athalie,Charlotte,Undirected,3
+Camilla,Lille Eva,Undirected,1
+Lille Eva,Tante,Undirected,1
+Jomfru Brandt,Jomfru Mejer,Undirected,1
+Eva,Jomfru Mejer,Undirected,3
+Augusta,Eva,Undirected,1
+Alexander,Tante,Undirected,1
+Alexander,Charlotte,Undirected,3
+Camilla,Charlotte,Undirected,8
+Charlotte,Christian,Undirected,1
+Augusta,Charlotte,Undirected,2
+August,Eva,Undirected,8
+Camilla,Onkels,Undirected,1
+Eva,Onkels,Undirected,1
+Ernst,Eva,Undirected,2
+Ernst,Frits,Undirected,1
+Bjørn,Eva,Undirected,2
+,Frits,Undirected,2
+Frits,lian,Undirected,1
+Frits,Uhr,Undirected,1
+Eva tillivs,Frits,Undirected,1
+Charlotte,Eva tillivs,Undirected,1
+Charlotte,Frits,Undirected,7
+Charlotte,Tante Athalie,Undirected,2
+Christian,Eva,Undirected,1
+Athalie,Grevinden,Undirected,1
+Athalie,Frits,Undirected,1
+Frits,Tante,Undirected,1
+Eva,Fætter Frits,Undirected,1
+Alexander,Frits,Undirected,5
+Alexander,August,Undirected,1
+Camilla,lille Agnes,Undirected,1
+Athalie,lille Agnes,Undirected,1
+Eva,Revil,Undirected,3
+Camilla,Gud,Undirected,1
+Eva,Gud,Undirected,4
+Arentzens,Eva,Undirected,1
+Alexander,Arentzens,Undirected,1
+Eva,eu,Undirected,1
+Eva,v. Hortens,Undirected,1
+Ernst,lille Tante,Undirected,1
+Ernst,Osvald,Undirected,1
+Camilla,Osvald,Undirected,1
+Alex ander,Camilla,Undirected,1
+Alex ander,lille Agnes,Undirected,1
+Eva,lille Agnes,Undirected,3
+Alexander,Alvilda,Undirected,1
+Alvilda,Athalie,Undirected,1
+Camilla,Revil,Undirected,4
+Camilla,taus,Undirected,2
+Camilla,Eva Ross,Undirected,1
+Ahrensens,Eva Ross,Undirected,1
+Ahrensens,Eva,Undirected,1
+Giion,Revil,Undirected,1
+Eva,Seedorf,Undirected,2
+Eva,iland,Undirected,1
+Eva,lian,Undirected,1
+Eva,Tante Athalie,Undirected,4
+Moulins,Seedorf,Undirected,1
+Eva,Eva Ross,Undirected,1
+Erik Seedorf,Eva Ross,Undirected,1
+Athalie,Eva Ross,Undirected,2
+Athalie,Muhamed,Undirected,1
+Eva Schlüter,Muhamed,Undirected,1
+Eva Schlüter,Giion,Undirected,1
+Giion,Rosgaards-,Undirected,1
+Eva,Moulin,Undirected,1
+Athalie,Erik,Undirected,4
+Erik,Eva,Undirected,37
+Eva Ross,Eva Schlüter.1,Undirected,1
+Erik,iland,Undirected,3
+Edvard,iland,Undirected,1
+Camilla,Erik,Undirected,5
+Erik,Eva Schliiter,Undirected,1
+Eva Ross,Eva Schliiter,Undirected,1
+Erik,Giion,Undirected,1
+Agnes,Gerners,Undirected,1
+Agnes,Tante Athalie,Undirected,3
+Agnes,Frits,Undirected,5
+Erik,Ernst,Undirected,2
+Agnes Evas,Ernst,Undirected,1
+Agnes Evas,Eva,Undirected,1
+Camilla,Ernst,Undirected,2
+Frøken Athalie,v. Horten,Undirected,1
+Hortens,v.,Undirected,1
+Frøken Athalie,Hortens,Undirected,1
+Agnes,Athalie,Undirected,2
+Agnes,Gyde,Undirected,1
+Athalie,Gyde,Undirected,1
+Augusta,Kjønnets,Undirected,1
+Alexander,hilde,Undirected,1
+Edvard,Revil,Undirected,2
+Edvard,Frits,Undirected,1
+Frits,Kokottens,Undirected,1
+Elisabeth,Erik,Undirected,1
+Alexander Revil,Erik,Undirected,2
+Frøken Athalie,Jomfru Mejer,Undirected,1
+Eva,Frøken Gerner,Undirected,1
+Mejer,livor,Undirected,1
+Eva,Mejer,Undirected,1
+Agnes,August,Undirected,1
+Agnes,Erik,Undirected,10
+Camilla,Edvard,Undirected,4
+Alexander,Edvard,Undirected,6
+Agnes,Charlotte,Undirected,5
+Agnes,Barons,Undirected,1
+Eva,Forligskys,Undirected,2
+Eva,Graad,Undirected,2
+Agnes,Albert,Undirected,3
+Albert,Eva,Undirected,1
+Eva,Knud Stabel,Undirected,2
+Faders,Knud Stabel,Undirected,1
+Eva,Faders,Undirected,1
+Agnes,Ankers,Undirected,1
+Ankers,Knuds,Undirected,1
+Eva,Knuds,Undirected,1
+Agnes,Faders,Undirected,1
+Albert,Faders,Undirected,1
+Albert,Knud,Undirected,1
+Eva,Knud,Undirected,1
+Agnes,Flun,Undirected,1
+Agnes,Gud,Undirected,2
+Jomfru Brandt,Tante Athalie,Undirected,1
+Erik See-dorf,Eva,Undirected,1
+Erik See-dorf,Revil,Undirected,1
+Camilla,mørk,Undirected,1
+Eva,mørk,Undirected,1
+Alexander,Erik,Undirected,7
+Alexander,iland,Undirected,1
+Berg,Gud,Undirected,1
+Berg,Brandt,Undirected,1
+Gud,tullivis,Undirected,1
+Brandt,Mejer,Undirected,1
+Jøsses,Mejer,Undirected,1
+Agnes,Jomfru Mejer,Undirected,1
+Agnes,Frøken Athalie,Undirected,4
+Agnes,lille Agnes,Undirected,1
+Erik,Frits,Undirected,3
+Agnes,Gerner,Undirected,1
+Alvilda,Eva,Undirected,2
+Alexander,Revil,Undirected,1
+Camilla,Liun,Undirected,1
+Agnes,Camilla,Undirected,6
+Agnes,Alexander,Undirected,1
+Eva,Fader,Undirected,2
+Eva,Gaadens,Undirected,1
+Agnes,Revil,Undirected,1
+Camilla,tillive,Undirected,1
+Revil,lille Eva,Undirected,1
+Erik Seedorf,Eva,Undirected,1
+Alexander,Tante Athalie,Undirected,1
+Brandt,Erik,Undirected,1
+Athalie,Brandt,Undirected,1
+Agnes,Knud Stabel,Undirected,1
+August,Elisabeth Frøken Athalie,Undirected,1
+Edvard,Elisabeth Frøken Athalie,Undirected,1
+Agnes,iforgaars,Undirected,1
+Eva,Ross,Undirected,1
+Edvard,kjære,Undirected,1
+Edvard,Erik,Undirected,2
+Agnes,Bertelsen,Undirected,2
+Frøken Athalie,Gud,Undirected,1
+Alexander,Gud,Undirected,1
+Alexander —,Camilla,Undirected,1
+Augusta,Frits,Undirected,1
+Alexander,Fader,Undirected,1
+Eva Ross,Rosgaard,Undirected,1
+Gud,Rosgaard,Undirected,1
+Edvard,Frøken Athalie Rosgaard,Undirected,1
+Edvard,Gud,Undirected,1
+Eva Ross,Gud,Undirected,1
+Alexander,Eva Moders,Undirected,1
+Frøken Athalie,milla,Undirected,1
+Revil,milla,Undirected,1
+Revil,Seedorf,Undirected,1
+Ernst,Garben,Undirected,1
+Frits,Garben,Undirected,1
+Frits,Frøken Athalie,Undirected,1
+Charlotte,Frøken Athalie,Undirected,1
+Eva,v. Flortens,Undirected,1
+Erik,Knud Stabel,Undirected,1
+Agnes,itale,Undirected,2
+Wilken,Wilkens,Undirected,1
+Frøken Gerner,Wilken,Undirected,1
+,Agnes’,Undirected,1
+,Wilken,Undirected,1
+Athalie,Eva Rosgaard,Undirected,1
+Erik Seedorf,Eva Rosgaard,Undirected,1
+Agnes,Knud,Undirected,2
+Frits,Knud,Undirected,1
+Charlotte,Tante,Undirected,2
+Erik,Knud,Undirected,1
+Agnes Gottlieb,v. Horten,Undirected,1

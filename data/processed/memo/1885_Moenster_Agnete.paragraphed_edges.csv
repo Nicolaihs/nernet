@@ -1,0 +1,178 @@
+source,target,type,weight
+Agnete,Marie,Undirected,38
+Agnete,Jupiter,Undirected,1
+Faster,Jupiter,Undirected,2
+Jupiter,Marie,Undirected,1
+Gud,Marie,Undirected,4
+Faster,Marie,Undirected,2
+Gud,Jupiter,Undirected,1
+Agnete,Faster,Undirected,8
+Agnete,Fasterens,Undirected,1
+Agnete,Graad,Undirected,3
+Agnete,Gud,Undirected,9
+Faster,Gud,Undirected,3
+Marie,liun,Undirected,2
+Agnete,liun,Undirected,1
+Agnete,Anton,Undirected,53
+Agnete,Strøms,Undirected,1
+Agnete,Maanelys,Undirected,1
+Gubben Noah,gubben Noah,Undirected,1
+Kaas,Thora,Undirected,3
+Agnete,Ernst Kaas,Undirected,3
+Frøken Maag,Lise,Undirected,1
+Agnete,Lise,Undirected,2
+Agnete,Christian,Undirected,1
+Betsy Jørgensen,Faster,Undirected,1
+Betsy Jørgensen,Pukkels,Undirected,1
+Gud,Pukkels,Undirected,1
+Henrik,Holberg,Undirected,1
+Henrik,Pernille,Undirected,1
+Agnete,Thora,Undirected,33
+Agnete,Kaas,Undirected,3
+Anton,Thora,Undirected,17
+Anton,Ernst Kaas,Undirected,3
+Thora,sorn,Undirected,2
+Anton,Grundtvigs,Undirected,1
+Anton,Gud,Undirected,5
+Agnete,Livor,Undirected,1
+Agnete,Lærke,Undirected,2
+Aakander,Thora,Undirected,1
+Agnete,Napoleon,Undirected,2
+Napoleon,klippehaarde,Undirected,1
+Thomsen,Thora,Undirected,1
+Ernst,Hr. Ernst,Undirected,1
+Hr. Ernst,Thora,Undirected,1
+Anton,Moppe,Undirected,1
+Arnds,Faster,Undirected,1
+Agnete,Jesus,Undirected,1
+Jesus,Renan,Undirected,1
+Gud,Renan,Undirected,1
+Gud,Jesu,Undirected,1
+Faster,Jomfru Petersen,Undirected,2
+Ejnar,Marie,Undirected,1
+Maren,Søren,Undirected,1
+Per Olsen,Søren,Undirected,2
+Per haar,Søren,Undirected,1
+Mondberg,Thora,Undirected,1
+Ernst Kaas,Thora,Undirected,6
+Faster,Thora,Undirected,1
+Gud,Johansen,Undirected,1
+Anton,uha,Undirected,1
+Anton,Lanciers,Undirected,1
+Lanciers,Thora,Undirected,1
+Agnete,Olsen,Undirected,1
+Jønstrups,Olsen,Undirected,1
+Anton,Strøms,Undirected,1
+Agnete,v. Barner,Undirected,1
+Gud,Heines,Undirected,1
+Agnete,Hr. v.,Undirected,1
+Barner,Hr. v.,Undirected,3
+Agnete,Ernst,Undirected,1
+Ernst Kaas,hnn,Undirected,1
+Agnete,sorn,Undirected,1
+Lieutenanten,sorn,Undirected,1
+Anton,Barner,Undirected,1
+Agnete,Barner,Undirected,2
+Barner,Strøm,Undirected,1
+Agnete,Linde,Undirected,1
+Agnete,Mette Marie,Undirected,1
+Anna,Mette Marie,Undirected,1
+Agnete,Bertha Sommer,Undirected,1
+Abels,Bertha Sommer,Undirected,1
+Abels,Bertha,Undirected,1
+Agnete,Bertha,Undirected,1
+Frøken Sivertsens,Toppes,Undirected,1
+Anton,Toppes,Undirected,1
+Agnete,Jeppe,Undirected,1
+Anton,Maren,Undirected,1
+Agnete,Maren,Undirected,1
+Anton,Visvas,Undirected,1
+Anton,Napoleon,Undirected,2
+Agnete,Strøm,Undirected,3
+Anton,F'aster,Undirected,1
+F'aster,Onkels,Undirected,1
+Marie,Onkels,Undirected,1
+Feldmark,lille Niels,Undirected,2
+Agnete,Feldmark,Undirected,4
+Agnete,Niels,Undirected,4
+Agnete,fiffig,Undirected,1
+Niels,s,Undirected,1
+Gud,Niels,Undirected,1
+Niels Ebbesøn,vathun,Undirected,1
+Agnete,vathun,Undirected,1
+Macaulays,Vilhelm den,Undirected,1
+Macaulays,jærnhaard,Undirected,1
+Agnete,Vilhelm,Undirected,1
+Phønix,Vilhelm,Undirected,1
+Agnete,Phønix,Undirected,1
+Marie,Mariel,Undirected,1
+Frits Jæger,Gud,Undirected,1
+Anton,Skrædder Jensens,Undirected,1
+Anton,Marie,Undirected,3
+Agnete,Smed Jensens,Undirected,1
+Gud,Thora,Undirected,1
+Agnete,Jægers,Undirected,1
+Karen,l?ortove,Undirected,1
+Hans,l?ortove,Undirected,1
+Hans,Karen,Undirected,2
+Karen,Rytter-Karen,Undirected,3
+Rytter-Karen,lille Karen,Undirected,1
+Karen,lille Karen,Undirected,1
+Karen,Karle,Undirected,1
+Agnete,Karen,Undirected,1
+Anton,Graad,Undirected,1
+Rytter-Karen,Thora,Undirected,1
+Gud,Rytter-Karen,Undirected,1
+Agnete,Goethes,Undirected,1
+Goethe,Goethes,Undirected,1
+Agnete,Sørensen,Undirected,1
+Jensen,Sørensen,Undirected,1
+Agnete,Jensen,Undirected,2
+Agnete,Jæger,Undirected,5
+Agnete,Fasteren,Undirected,2
+Anton,Fasteren,Undirected,1
+Warte nur,balde Ruhest,Undirected,1
+Warte nur,balde ruhest,Undirected,2
+Liun,Niels,Undirected,1
+Agnete,Lisbed,Undirected,5
+Gud,lille Niels,Undirected,1
+Agnete,Gudl,Undirected,1
+Lisbed,Niels,Undirected,1
+Gud,Lisbed,Undirected,1
+Jæger,Niels,Undirected,1
+Agnete,Maatte-Jens,Undirected,1
+Jesu,Maatte-Jens,Undirected,1
+Jesu,s,Undirected,1
+Flun,Marie,Undirected,1
+Agnete,Valborgs,Undirected,1
+Anton,Valborgs,Undirected,1
+Anton,grant,Undirected,1
+Agnete,Beethoven,Undirected,1
+Beethoven,Mare,Undirected,1
+Agnete,Agnete Maag,Undirected,1
+Kaas,Sultan,Undirected,2
+Agnete,Sultan,Undirected,1
+Agnete,Agny,Undirected,2
+Gud,sigi,Undirected,1
+Agnete,sigi,Undirected,1
+Agnete,Stine,Undirected,1
+Jæger,Marie,Undirected,8
+Jæger,liun,Undirected,1
+Marie,Shakespeare,Undirected,1
+Laura,Moder,Undirected,1
+Laura,liam,Undirected,1
+Agny,Anton Ludvig Strøm,Undirected,1
+Gratulanter,Kaas,Undirected,1
+Kaas,s,Undirected,1
+Agnete,s,Undirected,1
+Anton,Grev Urne,Undirected,1
+Agnete,Grev Urne,Undirected,1
+Blichers,Ilendes,Undirected,1
+Gud,Ilendes,Undirected,1
+Fasteren,Gud,Undirected,1
+Goethe,Gretchens,Undirected,1
+Agny,Tante,Undirected,1
+Anton,Tante,Undirected,1
+Ernst Kaas,Frøken Maag,Undirected,1
+Frøken Maag,L'or,Undirected,1
+Agnete,L'or,Undirected,1

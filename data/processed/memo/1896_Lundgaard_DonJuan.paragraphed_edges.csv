@@ -1,0 +1,147 @@
+source,target,type,weight
+Hr. Glud,Niels,Undirected,12
+Glud,Niels,Undirected,8
+Glud,Hr. Glud,Undirected,2
+Hr. G. Olsen,Hr. Glud,Undirected,5
+Hr. G. Olsen,Olsen,Undirected,2
+Hr. G. Olsen,lian,Undirected,1
+Olsen,lian,Undirected,1
+Georg,Niels,Undirected,3
+Hr. G. Olsen,Niels,Undirected,2
+Hr. Frandsen,Niels’,Undirected,3
+Hr. Frandsen,lian,Undirected,9
+Niels,liar,Undirected,1
+Hr. Frandsen,Larsens,Undirected,1
+Figaro,Hr. Frandsen,Undirected,2
+Hr. Glud,Oluf —,Undirected,1
+Hr. Frandsen,luds,Undirected,1
+ban,jun.,Undirected,1
+Frandsen,Oluf,Undirected,1
+Guds,livor,Undirected,1
+Hr. Frandsen,Hr. Glud,Undirected,12
+Hr. Glud,Mikkelsen,Undirected,1
+Hr. Glud,Hr. Mikkelsen,Undirected,1
+Hr. Frandsen,Servanten,Undirected,2
+Glud,Lu,Undirected,1
+Glud,Olsen,Undirected,1
+Jøsses,Olsen,Undirected,1
+Frandsen,Glud,Undirected,1
+Hr. Frandsen,Niels,Undirected,19
+G. Olsen,Hr. Frandsen,Undirected,1
+Dj,G. Olsen,Undirected,1
+Hr. Frandsen,Hr. G. Olsen,Undirected,9
+Hr. Frandsen,Olsen,Undirected,5
+NTTTI,Niels,Undirected,1
+Don Frandsen,Niels,Undirected,1
+Don Frandsen,Hr. Frandsen,Undirected,1
+Poulsen,liam,Undirected,1
+Beck,Poulsen,Undirected,1
+Don Juan,Hr. Frandsen,Undirected,1
+Hr. Frandsen,livis,Undirected,2
+Braunstein,Schnack,Undirected,1
+Braunstein,Hr. Frandsen,Undirected,2
+Braunstein,Frandsen,Undirected,1
+Braunstein,Johnsen,Undirected,7
+Hr. Braunstein,Johnsen,Undirected,1
+Hr. Frandsen,Johnsen,Undirected,5
+Hr. Frandsen,lier,Undirected,1
+Hr. Frandsen,Skaal,Undirected,2
+Johnsen,Skaal,Undirected,1
+Hr. Frandsen,Silentio,Undirected,1
+Hr. Schancke,acht,Undirected,1
+Schancke,lian,Undirected,1
+Eilersen,Hr. Frandsen,Undirected,2
+Emmy,Hr. Schancke,Undirected,2
+Emmy,Gontrollør,Undirected,1
+Emmy,Hr. Frandsen,Undirected,2
+Frandsen,Johnsen,Undirected,1
+Emmy,Hu,Undirected,1
+Frøken Mimis,dot,Undirected,1
+Lucullus,lian,Undirected,1
+Ile,Johnsen,Undirected,1
+Braunstein,lian,Undirected,1
+Johnsen,lian,Undirected,1
+Hr. Schancke,Johnsen,Undirected,2
+Braunstein,Hr. Schancke,Undirected,1
+Hr. Schancke,Wat,Undirected,1
+Wat,gan,Undirected,1
+Schancke,err,Undirected,1
+Gud,Schancke,Undirected,1
+Braunstein,Schancke,Undirected,1
+Hr. Frandsen,Karlen,Undirected,1
+Niels,Olsen,Undirected,2
+Niels,Søren,Undirected,1
+Bjørn,Glud,Undirected,1
+Bjørn,Hr. Frandsen,Undirected,1
+Glud,Hr. Frandsen,Undirected,9
+Grobrian,Gud,Undirected,1
+Grobrian,Niels,Undirected,1
+Hr. Frandsen,Karl,Undirected,1
+Gud,Karl,Undirected,1
+Don Frandsen,Gud,Undirected,1
+Frandsen,Niels’,Undirected,2
+Frandsen,G. Olsen,Undirected,1
+G. Olsen,Hi-,Undirected,1
+Frandsen,Hi-,Undirected,1
+Aled,Hr. Frandsen,Undirected,1
+Gud,Hr. Frandsen,Undirected,1
+Arne,Nielsen,Undirected,1
+Arne,Zion,Undirected,1
+Anine,Zion,Undirected,1
+Anine,Niels,Undirected,3
+Glud,Mikkelsen,Undirected,1
+Anine,Mikkelsen,Undirected,1
+Niels,lian,Undirected,1
+Mimi,nøs,Undirected,1
+Derres,Derres Mimi Fetersen,Undirected,1
+Niels,Niels’,Undirected,1
+Anine,Hr. Frandsen,Undirected,1
+Niels,Nik,Undirected,1
+Hr. Frandsen,rnaatte,Undirected,1
+lian,rnaatte,Undirected,1
+Hr. Glud,lian,Undirected,1
+Oluf,Pater familias,Undirected,1
+Schnack,liam,Undirected,1
+liam,lian,Undirected,1
+Hr. G.,Olsen,Undirected,2
+Georg Olsen,Olga Glud,Undirected,1
+Hr. Frandsen.tog,Hr. G. Olsen,Undirected,1
+Hr. Frandsen,Oluf,Undirected,1
+Frandsen,Hr. G. Olsen,Undirected,1
+Hr. Glud,liam,Undirected,1
+Hr. Frandsen,liam,Undirected,2
+,Hr. Frandsen,Undirected,1
+,Frandsen,Undirected,1
+Frandsen,Hr. Frandsen,Undirected,2
+.,Pir,Undirected,1
+.,Frandsen,Undirected,1
+Hr. Frandsen,Hr. Glud junior,Undirected,1
+,Aled,Undirected,1
+Glud,Schnack,Undirected,1
+Hr. G. Olsen,Schnack,Undirected,1
+Hr. Frandsen,Schnack,Undirected,2
+. Frandsen,Hi,Undirected,1
+. Frandsen,Hr. Frandsen,Undirected,1
+Frøken Glud,Schnack,Undirected,1
+Frøken Glud,Hans,Undirected,1
+Hr. Frandsen,Olga,Undirected,1
+.Olsen,Hr. G.,Undirected,1
+.Olsen,Hr. Frandsen,Undirected,1
+Fairde,liun,Undirected,1
+Frue,Gud,Undirected,1
+Olsen,Stine,Undirected,1
+Hr. Frandsen,Stine,Undirected,1
+Karlen,Niels,Undirected,1
+Frandsen,Hr. Glud,Undirected,1
+Aitsch,nøs,Undirected,1
+Hr. Frandsen,nøs,Undirected,1
+Slaa,slaa,Undirected,1
+Hr. Glud,slaa,Undirected,1
+Glud,lian,Undirected,1
+Anine,Hansen,Undirected,1
+Frandsen,Mikkelsen,Undirected,1
+Anine,liam,Undirected,1
+Gudfader,livor,Undirected,1
+Hr. Frandsen,livor,Undirected,1
+Hr. Frandsen,Petersen,Undirected,2
+Hr. Frandsen,gøs,Undirected,1

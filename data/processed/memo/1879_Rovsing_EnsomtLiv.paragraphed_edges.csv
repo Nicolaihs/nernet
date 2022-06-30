@@ -1,0 +1,74 @@
+source,target,type,weight
+Eugenie,Helena,Undirected,1
+Eugenie,Mai,Undirected,1
+Hnn,Olesen,Undirected,1
+Hnn,Mai,Undirected,1
+Olesen,hnn,Undirected,1
+Mad,hnn,Undirected,1
+Mad,Olesen,Undirected,1
+Jesu,Olesen,Undirected,1
+Madam Jbs,Olesen,Undirected,2
+Guds,Olesen,Undirected,3
+ibiulla,äiss,Undirected,1
+sias,äiss,Undirected,1
+pia kraus,sias,Undirected,1
+E.,Lasker,Undirected,1
+Lasker,Sokrates,Undirected,1
+Plato,Sokrates,Undirected,1
+Plato,Voltaire,Undirected,1
+Al,Voltaire,Undirected,1
+Al,Humboldt,Undirected,1
+Franklin,Humboldt,Undirected,1
+Franklin,Jac.,Undirected,1
+Grimm,Jac.,Undirected,1
+Grimm,Thiers,Undirected,1
+Gud,gansfe,Undirected,1
+Oxens,Oxm,Undirected,1
+Gud,Oxm,Undirected,1
+Lind,Wehn,Undirected,3
+Jbs,Olesen,Undirected,3
+Horats,Wehn,Undirected,1
+Wehn,perennius,Undirected,1
+Bengjerd,Titus,Undirected,1
+Napoleon d. iste,Wehn,Undirected,1
+Gud,Wehn,Undirected,3
+Caroline,Gud,Undirected,1
+Brøndsted,Wehn,Undirected,1
+Tasso,Wehn,Undirected,1
+Petrarca,Tasso,Undirected,1
+Petrarca,Rousseau,Undirected,1
+Mozart,Rousseau,Undirected,1
+Edgar Poe,Mozart,Undirected,1
+Dickens,Edgar Poe,Undirected,1
+Dickens,S. Kierkegaard,Undirected,1
+Olesen,Wehn,Undirected,2
+Ibs,Olesen,Undirected,1
+Gud,Olesen,Undirected,1
+Olesen,Øe,Undirected,1
+Madame,Øe,Undirected,1
+Ibses,Madame,Undirected,1
+Ibses,Olesen,Undirected,1
+. Olesen,lee,Undirected,1
+Madam Jbs,N. N.,Undirected,1
+B.,N. N.,Undirected,1
+Tycho Brahe,Wehn,Undirected,1
+Wehn,llsan,Undirected,1
+llsan,plsurs,Undirected,1
+-Isan,plsurs,Undirected,1
+-Isan,rit,Undirected,1
+Jrwingianer,Wehn,Undirected,1
+Christne,Christus,Undirected,1
+Jesus Christus,Wehn,Undirected,1
+Fatimes,Wehn,Undirected,1
+Birkelund,Igdrasil,Undirected,1
+Gud,hnn,Undirected,2
+axoslisnas,iveien,Undirected,1
+Madam Olesen,Sands,Undirected,1
+Hnn,Nie,Undirected,1
+Poul Møllers,Trine,Undirected,1
+List,Trine,Undirected,1
+Oehlenschlæger,flipper,Undirected,1
+Aladdin,flipper,Undirected,1
+Theori,Wehn,Undirected,2
+Adam,Gud,Undirected,1
+Adam,Eva,Undirected,1

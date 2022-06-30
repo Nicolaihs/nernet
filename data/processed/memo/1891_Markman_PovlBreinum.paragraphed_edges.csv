@@ -1,0 +1,210 @@
+source,target,type,weight
+Bonnechose,Johnsen,Undirected,1
+Felicia,Kaja,Undirected,1
+Kaja,Magen,Undirected,1
+Felicia,Frøken Bonnechose,Undirected,1
+Felicia,strængt,Undirected,1
+Povl,a,Undirected,1
+Bolette,Mosters,Undirected,1
+Bolette,Povl,Undirected,6
+Felicia,Povl,Undirected,7
+Assesoren,Felicia,Undirected,1
+Felicia,Frederik,Undirected,1
+Bolette Kamstrup,Felicia,Undirected,1
+Bolette Kamstrup,Karl,Undirected,1
+Bolette,Felicia,Undirected,1
+Bolette,Ninne,Undirected,1
+Nette,Ninne,Undirected,1
+Bolette,Paavel,Undirected,1
+Povl,paaklem,Undirected,1
+Madam Frandsen,Povl,Undirected,1
+Ole Kaskjet,Povl Breinum,Undirected,2
+Madam Frandsen,Ole Kaskjet,Undirected,1
+Frandsen,Ole Kaskjet,Undirected,2
+Ole Kaskjet,Povl,Undirected,1
+Ole,Povl,Undirected,4
+Assessor Breinums,Gundberg,Undirected,1
+Felicia,Gundberg,Undirected,2
+Assessor Breinum,Gundberg,Undirected,1
+Assessor Breinum,Felicia,Undirected,1
+Gundberg,Povl,Undirected,2
+Gundberg,Herr Gundberg,Undirected,1
+Povl Breinum,Tante Felicias,Undirected,1
+Duxen,Povl,Undirected,2
+Duxen,Povl Breinum,Undirected,1
+Patricier,Povl Breinum,Undirected,1
+Breinum,Patricier,Undirected,1
+Breinum,Duxen,Undirected,1
+Povl,lille Christian Petersen,Undirected,1
+Duxen,lille Christian Petersen,Undirected,1
+Povl,Povl Linealen,Undirected,1
+Christian Petersen,Povl Breinum,Undirected,1
+Pleb,Povl Breinum,Undirected,1
+Anton Harris,Avgust Jakobsen,Undirected,1
+Anton Harris,Harris,Undirected,2
+Harris,Jakobsens,Undirected,2
+Anton Harris,Jakobsen,Undirected,2
+Duxen,Jakobsen,Undirected,2
+Harris,Jacob von Tyboe,Undirected,1
+Brabands,Jacob von Tyboe,Undirected,1
+Anton Harris,Brabands,Undirected,1
+Avgust Jakobsen,Povl Breinum,Undirected,1
+Jakobsen,Povl,Undirected,4
+Johnsen,Povl Breinum,Undirected,1
+Gud,Povl,Undirected,1
+Lille Povl,Povl,Undirected,1
+Herr Knorrings,Povl,Undirected,1
+Thors,Udgaards-Loke,Undirected,1
+Knorring,Povl,Undirected,6
+Jørgensen,Rasmussen,Undirected,1
+Knorring,Povl fornam,Undirected,1
+Arthur,Povl,Undirected,1
+Povl,Povl Breinum,Undirected,4
+Knorring,Povl Breinum,Undirected,1
+Ernst Walther,Povl Breinum,Undirected,6
+Ernst Walther,Povl,Undirected,6
+Povl Breinum,Walther,Undirected,1
+Knorring,Walther,Undirected,2
+Ernst,Ernst Walther,Undirected,1
+Ernst Walther,Knorring,Undirected,1
+Ernst Walther,Walther,Undirected,3
+Ernst,Povl,Undirected,8
+Ernst,Ernst Walter,Undirected,1
+Ernst Walter,Povl,Undirected,1
+Larsens,Povl Breinum,Undirected,1
+Herr,Larsens,Undirected,1
+Ernst,Gabriel Bunst,Undirected,1
+Poul Møllers,Povl,Undirected,1
+Poul Møllers,Wilsters,Undirected,1
+Wilster,Wilsters,Undirected,1
+Poul Møllers,Wilster,Undirected,1
+Homer,Povl,Undirected,1
+Ernst,Walther,Undirected,1
+Ernst,Povl Breinum,Undirected,2
+Breinum,Povl,Undirected,8
+Avgust,Jakobsen,Undirected,2
+Breinum,Jakobsen,Undirected,12
+Jakobsen,Povl Breinum,Undirected,3
+Breinum,hyad,Undirected,1
+Breinum,Ditlev Kjær,Undirected,1
+Ditlev Kjær,Povl,Undirected,1
+Kjær,Povl Breinum,Undirected,4
+Ditlev Kjær,Kjær,Undirected,3
+Ditlev Kjær,Povl Breinum,Undirected,1
+Dahl,Povl Breinum,Undirected,2
+Amelia,Frøken Dahls,Undirected,1
+Amelia,Povl Breinum,Undirected,2
+Amelia,Povl,Undirected,4
+Povl,Walther,Undirected,3
+Herr Magnus,Povl,Undirected,3
+Breinum,Walther,Undirected,10
+Povl,Student Breinum,Undirected,1
+Magnus,Povl,Undirected,13
+Jakobsen,Magnus,Undirected,1
+Ernst Walther,Jakobsen,Undirected,1
+Erotika,Povl,Undirected,1
+Ditlev Kjær,Erotika,Undirected,1
+Ditlev Kjær,Magnus,Undirected,1
+Magnus,Sibberns,Undirected,1
+Breinum,Magnus,Undirected,7
+Magni,Magnus,Undirected,1
+Krause,Magnus,Undirected,4
+Breinum,Fernanda Lilian,Undirected,1
+Povl,Terp,Undirected,1
+Anton Harris,Povl,Undirected,1
+Gud,Magnus,Undirected,1
+Krause,Lilian,Undirected,2
+Kopar,Lilian,Undirected,1
+Basse,Kopar,Undirected,1
+Basse,Breinum,Undirected,1
+Breinum,Povl Breinum,Undirected,5
+Povl,Sønderby,Undirected,1
+Krause,Sønderby,Undirected,1
+Sønderby,lille Krause,Undirected,1
+Magnus,lille Krause,Undirected,1
+Krause,Povl,Undirected,1
+Herr Terp,Povl,Undirected,1
+Herr Harris,Magnus,Undirected,1
+Magnus,Povl Breinum,Undirected,2
+Amelia,Studiosus Povl Breinum,Undirected,1
+Amelia Dahl,Magnusses,Undirected,1
+Magnusses,Povl Breinum,Undirected,1
+Povl,Tom,Undirected,1
+Herr Breinum,Povl,Undirected,1
+Christian Winther,Povl,Undirected,1
+Breinum,Lom,Undirected,1
+Gøthes,Povl,Undirected,1
+Gøthes,Shakspeares,Undirected,1
+Lom,Povl,Undirected,1
+Kjær,Povl,Undirected,4
+Fanny,Gud,Undirected,1
+Povl Breinum,Whiskers,Undirected,1
+Fladsaa,Povl,Undirected,1
+Breinum,Kjær,Undirected,14
+Fladsaa,Kjær,Undirected,1
+Magnus,Walther,Undirected,3
+Breinum,nysle,Undirected,1
+Breinum,Krause,Undirected,3
+Breinum,Coldstrup,Undirected,9
+Herr Møller,Kjær,Undirected,1
+Coldstrup,Jakobsen,Undirected,4
+Jens Pe,sen,Undirected,1
+Gud,Hidalgo Don Diego Cortadillo del Rincon,Undirected,1
+Herr Jansen,Jakobsen,Undirected,1
+Herr Jakobsen,Jansen,Undirected,1
+Herr Breinum,sonor Malmstemme,Undirected,1
+Breinum,Theori,Undirected,1
+Breinum,XVI,Undirected,1
+Jansen,Zirath,Undirected,1
+Povl Breinum,Tuens,Undirected,1
+Coldstrup,Thomas Coldstrup,Undirected,1
+Povl Breinum,Thomas Coldstrup,Undirected,1
+Breinum,Nissum,Undirected,12
+Breinum,candidatus politices,Undirected,1
+Breinum,Storm,Undirected,1
+Matthea,Nissum,Undirected,2
+Povl Breinum,Storm,Undirected,1
+Matthea Storms,Povl Breinum,Undirected,1
+Matthea Storm,Povl Breinum,Undirected,1
+Matthea Storm,Nissum,Undirected,1
+Basta,Nissum,Undirected,1
+Basta,Breinum,Undirected,1
+Breinum,Matthea Storm,Undirected,1
+Matthea,Povl Breinum,Undirected,2
+Kancelliraad,Matthea,Undirected,1
+Coldstrup,Nissum,Undirected,1
+Nissum,Povl,Undirected,1
+Matthea,Povl,Undirected,5
+Herr,Krause,Undirected,1
+Fernanda,Krause,Undirected,2
+Krause,Matthea,Undirected,1
+Coldstrup,Matthea,Undirected,1
+Frøken Bonnechose,Matthea,Undirected,1
+Frøken Bonnechose,Povl Tante Felicias,Undirected,1
+Frost,Matthea,Undirected,1
+Breinum,Matthea,Undirected,2
+Attraa,Matthea,Undirected,1
+Breinum,Gratie,Undirected,1
+Jakobsen,Tonart,Undirected,2
+Kjær,Matthea,Undirected,1
+Herr Kjær,Matthea,Undirected,1
+Breinum,Frost,Undirected,1
+Matthea,Matthea Breinum,Undirected,1
+Breinum,Herr,Undirected,1
+Kjær,Nissum,Undirected,1
+Jakobsen,Kjær,Undirected,3
+Coldstrup,Herr Walther,Undirected,1
+Breinum,Herr Walther,Undirected,1
+Herr Walther,Nissum,Undirected,1
+Herr Walther,Povl Breinum,Undirected,1
+Gabriel,Jakobsen,Undirected,1
+Bunst,Jakobsen,Undirected,1
+Breinum,Bunst,Undirected,1
+Bunst,Walther,Undirected,1
+Herr Bunsts,Jakobsen,Undirected,1
+Bunst,Herr Bunsts,Undirected,1
+G. Bunst,Jakobsen,Undirected,1
+Herr Bunst,Kjær,Undirected,1
+Bunst,Herr Bunst,Undirected,1
+Bunst,Kjær,Undirected,2
+Bunst,Herr Walther,Undirected,1

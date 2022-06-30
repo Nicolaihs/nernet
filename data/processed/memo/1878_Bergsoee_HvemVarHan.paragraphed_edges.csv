@@ -1,0 +1,58 @@
+source,target,type,weight
+Ane,Ole Larsens,Undirected,1
+Ane,Niels,Undirected,1
+J,Teg,Undirected,1
+Gunnar,Hippokrates,Undirected,1
+Buss,Malheurs,Undirected,1
+Gunnar,Henrik,Undirected,21
+Kaviar,Lars Frandsen,Undirected,1
+Christus,Madam Berthelsen,Undirected,1
+Christus,Henrik,Undirected,1
+Berthelsen,Gud,Undirected,2
+Berthelsen,Madam Berthelsen,Undirected,4
+Berthelsen,Henrik Berthelsen,Undirected,1
+Berthelsen,Henrik,Undirected,10
+Madam Berthelsen,Rikke,Undirected,1
+Henrik,Madam Berthelsen,Undirected,3
+Ane,Berthelsen,Undirected,2
+Ane,Henrik,Undirected,2
+Henrik,Rasmus Gaardskarl,Undirected,1
+Henrik,Jokum,Undirected,5
+Henrik,Snedkerdrengea,Undirected,1
+Berthelsen,Fhder,Undirected,1
+Berthelsen,Jokum,Undirected,1
+Henrik,Svend,Undirected,2
+Henrik,Line,Undirected,1
+Gunnar Havk,Henrik,Undirected,7
+Gud,Henrik,Undirected,1
+Gud,Gunnar,Undirected,2
+Henrik,Henrik brøsigt,Undirected,1
+Henrik,Henrik kjørt,Undirected,1
+Berthelsen,Mester Jokum,Undirected,1
+Inger,Inger Jensens,Undirected,1
+Inger,Karen,Undirected,1
+Karen,Skye,Undirected,1
+Lars Vævers,Smedebirthe,Undirected,1
+Inger lensens,Karen,Undirected,1
+Gunnar Havk,Inger Jensens,Undirected,1
+Gunnar,Gunnar Havk,Undirected,1
+Gunnar,Nemesis,Undirected,1
+Henrik,Nemesis,Undirected,1
+Gunnar,Jesus,Undirected,1
+Asta,Jesus,Undirected,1
+Gunnar,flan,Undirected,1
+Buss,Gunnar,Undirected,1
+Gunnar,Karen,Undirected,1
+Gunnar,Zacharias,Undirected,1
+David,Gunnar,Undirected,1
+David,Saul,Undirected,1
+Gunnar,Smedebirthe,Undirected,1
+Berthelsen,Gunnar,Undirected,1
+Berthelsen,Lars Frandsen,Undirected,1
+G.,Pitschinoff,Undirected,3
+Henrik,Pitschinoff,Undirected,1
+Grever,Henrik,Undirected,1
+Grevekrone,Gunnar,Undirected,1
+Grevekrone,Gunnar Havk,Undirected,1
+Asters,Gunnar Havk,Undirected,1
+Henrik,Mester Jokum,Undirected,1

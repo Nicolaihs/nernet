@@ -1,0 +1,228 @@
+source,target,type,weight
+Løves,Peder Nielsen Brallerup,Undirected,1
+Løves,Peder,Undirected,1
+Nero,Peder,Undirected,1
+"Karl,",Nero,Undirected,1
+Kusk,Peder,Undirected,3
+Kusk,Peder Brallerup,Undirected,1
+Karlens,Peder,Undirected,1
+Karlen,Peder,Undirected,3
+Malheur,Peder,Undirected,1
+Malheur,Peder Brallerup,Undirected,1
+Peder,Peder Brallerup,Undirected,8
+Kavaiens,Peder Brallerup,Undirected,1
+Andrea,Peder,Undirected,11
+Andrea,Kjærestens,Undirected,1
+Kjærestens,Peder Brallerup,Undirected,1
+Peder,reisfe,Undirected,2
+Andrea,Obersfen,Undirected,2
+Seir,hnn,Undirected,2
+"Andrea,",hnn,Undirected,1
+"Andrea,",Lieutenant Svendsen,Undirected,1
+Andrea,Lieutenant Svendsen,Undirected,3
+Andrea,Hugo Løve,Undirected,1
+Hugo Løve,Svendsen,Undirected,1
+Lieutenant Svendsen,Svendsen,Undirected,2
+Lieutenant Løve,Svendsen,Undirected,4
+Hugo,Svendsen,Undirected,2
+Lieutenant Løve,Lieutenant Svendsen,Undirected,1
+Hugo,Mama,Undirected,1
+Andrea,Hugo,Undirected,5
+Hugo,Lieutenant Svendsen,Undirected,1
+Peder Brallerup,Svendsen,Undirected,2
+Andrea,Svendsen,Undirected,4
+Andrea,Peder Brallerup,Undirected,2
+Andrea,Graad,Undirected,1
+Graad,Svendsen,Undirected,1
+Peder,Svendsen,Undirected,16
+Andrea,lee,Undirected,1
+Peder,høilys,Undirected,1
+Lieutenantens,Peder,Undirected,3
+Lieutenantens,sidsfe,Undirected,1
+Peder,sidsfe,Undirected,2
+Lieutenant Løve,Peder,Undirected,4
+Lieutenanten,Peder,Undirected,2
+Peder Brallerup,kasfe,Undirected,1
+Lieutenant Svendsen,Peder Brallerup,Undirected,1
+Karl,Peder Brallerup,Undirected,1
+Hugo,Karl,Undirected,1
+Peder Brallerup,Sandbergs,Undirected,1
+Sandbergs,Skovrider Sandberg,Undirected,1
+Peder Brallerup,Skovrider Sandberg,Undirected,1
+Joseph.,Peder Brallerup,Undirected,1
+Husbond,Peder,Undirected,3
+Peder,fdor,Undirected,2
+Jens,Peder,Undirected,1
+Peder,Sandberg,Undirected,12
+Johannes,Sandberg,Undirected,4
+Johannes,Peder,Undirected,102
+Johannes,Peder Brallerup,Undirected,11
+Augusta,Johannes,Undirected,6
+Augusta,Peder,Undirected,10
+Peder,skoggerlo,Undirected,1
+Mutter,skoggerlo,Undirected,1
+Kristian den,Peder Brallerup,Undirected,1
+Kristian den,Ludvig den,Undirected,1
+Johannes,Skovrider Sandberg,Undirected,2
+Karen,Karen Margrethe,Undirected,1
+Augusta,Sivertsen,Undirected,1
+Langemand,hans,Undirected,1
+Johannes,Mutter,Undirected,1
+Peder,Sivertsen,Undirected,4
+Johannes,Plato,Undirected,1
+Johannes,Karl,Undirected,4
+Johannes,Peter Brallerup,Undirected,1
+Peder,Peter Brallerup,Undirected,1
+Plato,Sivertsen,Undirected,1
+Kildegaard,Plato,Undirected,1
+Kildegaard,ifjor,Undirected,1
+Johannes paany,Peder,Undirected,1
+Blicher,Johannes,Undirected,1
+Blicher,Peder,Undirected,1
+Johannes,Rinaldo Rinaldini“,Undirected,2
+Ingemanns,Peder,Undirected,2
+Peder,Valdemar den Store,Undirected,2
+Løve,Svendsen,Undirected,3
+Løve,Peder,Undirected,13
+Sandberg,Svendsen,Undirected,3
+Lises,Sandberg,Undirected,1
+Lise,Løve,Undirected,1
+Lise,Sandberg,Undirected,1
+Lieutenant Svendsen fog,Sandberg,Undirected,1
+Andrea,Lieutenant Svendsen fog,Undirected,1
+Andrea,Augusta,Undirected,1
+Augusta,Svendsen,Undirected,1
+Andrea,hnn,Undirected,1
+Peder Brallerup,hnn,Undirected,2
+Andrea,Lieutenant Løve,Undirected,1
+Andrea,Sandberg,Undirected,1
+Karl,Maren,Undirected,1
+Lassen,Maren,Undirected,3
+Maren,Peder,Undirected,2
+Krisfen Lassen,Maren,Undirected,1
+Lassen,Peder,Undirected,2
+Lassen,Peder Brallerup,Undirected,2
+Madam Lassen,Peder,Undirected,2
+Lassen,Madam Lassen,Undirected,1
+Lassen,sif,Undirected,1
+Peder,sif,Undirected,1
+def,sif,Undirected,1
+Sivertsen,def,Undirected,1
+Johannes Sandberg,Sivertsen,Undirected,1
+Johannes Sandberg,Kapitainen,Undirected,1
+Kapitainen,Sivertsen,Undirected,1
+Johannes,Sivertsen,Undirected,1
+Andrea Stakkelberg,Peder,Undirected,1
+Andrea Stakkelberg,Augusta Sandberg,Undirected,1
+Augusta Sandberg,Peder,Undirected,1
+Peder,Sirtses,Undirected,1
+Andrea,Sirtses,Undirected,1
+Andrea,Johannes,Undirected,1
+Johannes,Peder faug,Undirected,2
+Lee,lee,Undirected,1
+Peder,lee,Undirected,2
+Johannes taug,Peder,Undirected,1
+Niels Pedersen Brallerup,Peder Brallerup,Undirected,1
+Gud,Peder Nielsen,Undirected,1
+Norkros,Peder,Undirected,1
+Peder,Thema,Undirected,1
+Hans Flngt,Sandberg,Undirected,1
+Hans Flngt,Ronden,Undirected,1
+Lieutenant Svendsen,Peder,Undirected,2
+Gud,Peder,Undirected,2
+Madam Hansen,Peder,Undirected,5
+Peder,vims,Undirected,1
+Obersfen,Peder,Undirected,7
+. Sandberg,def,Undirected,1
+Johannes,def,Undirected,1
+Madam Sivertsen,Peder Brallerup,Undirected,2
+Karen,frank,Undirected,1
+Honneur,Peder Brallerup,Undirected,2
+Angusta,Peder,Undirected,1
+Angusta,Madam Sivertsen,Undirected,3
+Karlen,Madam Sivertsen,Undirected,1
+Lieutenanten,Madam Sivertsen,Undirected,1
+Lientenantens,Madam Sivertsen,Undirected,1
+Augusfa,Lientenantens,Undirected,1
+Augusfa,Peder,Undirected,3
+Madam Sivertsen,Peder,Undirected,4
+Lieutenant,Peder,Undirected,1
+Augusta,Madam Sivertsen,Undirected,3
+Augusta,Lieutenant Løve,Undirected,1
+Lieutenant Løve,Madam Sivertsen,Undirected,1
+Madam Sivertsen,Sablen,Undirected,1
+Løve fog,Sablen,Undirected,1
+Løve fog,Peder Brallerup,Undirected,1
+Madam Sivertsen,hans Mine,Undirected,1
+Løve,lee,Undirected,1
+Løve,lille Madam Sivertsen,Undirected,1
+Augusfa,Gud,Undirected,1
+Amor,Gud,Undirected,1
+Amor,Breche,Undirected,1
+Løve,Madam Sivertsen,Undirected,1
+Augusta,Løve,Undirected,4
+Angusta,Peder Brallerup,Undirected,1
+Augusta,Peder Brallerup,Undirected,1
+Angusta,Løve,Undirected,1
+Obersfen,von Stakkelberg,Undirected,1
+Løve,Obersfen,Undirected,1
+Løve,Peder Brallerup,Undirected,1
+Peder,freidig,Undirected,1
+Augusfa,Mama,Undirected,1
+Løve,Sandberg,Undirected,1
+Peder,Stakkelbergs,Undirected,1
+Karen,Peder,Undirected,3
+Johannes,Lærkes,Undirected,1
+Peder,tanse,Undirected,1
+Augusta,Lieutenanten,Undirected,1
+Alf,Augusta,Undirected,1
+Alf,Sandberg,Undirected,1
+Hugo,Sophie,Undirected,2
+Hugo,kridhvid,Undirected,1
+Augusta Sandberg,Hugo Løve,Undirected,1
+Augusta Sandberg,Obersfen,Undirected,1
+Nielsen,Obersfen,Undirected,1
+Kusk,Peder Nielsen Brallerup,Undirected,1
+Lars,Peder,Undirected,1
+Kirstine,Lars,Undirected,1
+Kirstine,Peder,Undirected,1
+Honneur,Lars,Undirected,1
+Peder,Skovrider Sandberg,Undirected,1
+Johannes,Lieutenanten,Undirected,1
+Madmo,cr,Undirected,1
+Hesf,Karlen,Undirected,1
+Peder,Stakkelberg,Undirected,2
+Løve,Obersfinden,Undirected,1
+Peder,Tøilen,Undirected,1
+Giggen,Peder,Undirected,1
+Giggen,Obersfen,Undirected,1
+Hm,Peder,Undirected,2
+Karl,Wellington,Undirected,1
+Peder Brallernp,freidig,Undirected,1
+Peder Brallerup,Stakkelberg,Undirected,1
+Peder,kjæk,Undirected,1
+Balles,Peder,Undirected,2
+Kresten,Peder,Undirected,2
+Karl,Peder,Undirected,1
+Maren,Trine,Undirected,1
+Kesfen Marie,Niels Brallerup,Undirected,1
+Kesfen Marie,Niels Peder Brallerups,Undirected,1
+Niels Peersens,Peder,Undirected,2
+Keruber,Peder,Undirected,1
+Andrea von Stakkelberg,Keruber,Undirected,1
+Andrea von Stakkelberg,Augusta,Undirected,1
+Peder,Røsf,Undirected,1
+Dn,Peder,Undirected,1
+Peder,øg,Undirected,2
+Andrea,Svendsen —,Undirected,1
+Nygaard,Petrine,Undirected,1
+Hugo,Peder,Undirected,6
+Frits,Sivertsen,Undirected,1
+Frits,Johan,Undirected,1
+Andrea,Lotte,Undirected,2
+Augusta,Lieutenant Nielsen,Undirected,1
+Angusta hen,Hugo Løve,Undirected,1
+Angusta hen,Hugo,Undirected,1
+Honneur,Peder,Undirected,1
+Kalifornien,Peder,Undirected,1
+Angusta,Hugo,Undirected,1

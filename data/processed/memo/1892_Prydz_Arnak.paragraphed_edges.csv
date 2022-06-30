@@ -1,0 +1,131 @@
+source,target,type,weight
+Madame,Mørch,Undirected,1
+Arnak,Gud,Undirected,6
+Madame,Sivertsen,Undirected,2
+Sivertsen,firti,Undirected,1
+Arnak,Hr. Kahrs,Undirected,7
+Arnak,Bohemen,Undirected,1
+Fasters,Hr. Kahrs,Undirected,1
+Augustine,Bang,Undirected,1
+Arnak,Madame,Undirected,1
+Arnak,Fasteren,Undirected,1
+Fasteren,Fasters,Undirected,1
+Fasters,Madame,Undirected,1
+Arnak,Frøken Mørchs,Undirected,1
+Arnak,Faster,Undirected,3
+Arnak,Augustine,Undirected,1
+Hr. Kahrs,Madame,Undirected,1
+Faster,Ouis,Undirected,1
+Arnak,Oui,Undirected,1
+Fredrik Iversen,Hans Fransen,Undirected,1
+Hans Fransen,Paul Høst,Undirected,1
+Gossners,Presten Faber,Undirected,1
+Faster,Presten Faber,Undirected,1
+Faster,Gud,Undirected,1
+Frøken Mørchs,Madame,Undirected,1
+Holger,Lisabet,Undirected,4
+Holger,Irma,Undirected,28
+Irma,Lisabet,Undirected,4
+Holger,aaffaarnoe,Undirected,1
+Irma,Per,Undirected,4
+Holger,Per,Undirected,2
+Holger,hu Lisabet,Undirected,1
+Lisabet,Per,Undirected,17
+Gud,Karen,Undirected,1
+Jomfru Maria,Marer,Undirected,1
+Lisabet,Marer,Undirected,1
+Bedstemors,Lisabet,Undirected,1
+Holger,Tea,Undirected,4
+Holger,hans,Undirected,1
+Irma Bech,Tea,Undirected,1
+Lisabet,Papa,Undirected,1
+Holger,hu Lisbets,Undirected,1
+Per,hu Lisbets,Undirected,1
+Guttens,Holger,Undirected,1
+Guttens,Henrik,Undirected,1
+Gutten,Henrik,Undirected,1
+Lisabet,Tea,Undirected,2
+Holger,Wandel,Undirected,10
+Leke,Per,Undirected,1
+Henrik,Holger,Undirected,2
+Dianas,Niobes,Undirected,1
+Fiolger,Henrik,Undirected,1
+Greves,Holger,Undirected,2
+Irma,Tea,Undirected,1
+Holger,Laurines,Undirected,1
+Holger,Laurine,Undirected,1
+Holger,Mosgaard,Undirected,6
+Mosgaard,Wandel,Undirected,1
+Anton,Holger,Undirected,3
+Anton,Fredrik,Undirected,13
+Anton,Marit,Undirected,2
+Gud,Irma,Undirected,1
+Gud,ilive,Undirected,1
+Holger,ilive,Undirected,1
+Fredrik,Irma,Undirected,5
+Fredrik,Holger,Undirected,5
+Irma,Marit,Undirected,1
+Anton,Irma,Undirected,2
+Irma,Wandel,Undirected,3
+Anton,Wandel,Undirected,1
+Anton,Palmen,Undirected,1
+Irma,Mosgaard,Undirected,2
+Gud,Holger,Undirected,1
+Anton,sid,Undirected,1
+Holger,sid,Undirected,1
+Holger,Iversen,Undirected,2
+Anton,Iversen,Undirected,1
+Fredrik,Iversen,Undirected,1
+Mosgaard,Therosens,Undirected,1
+Dora,Per,Undirected,1
+Dora,Mosgaard,Undirected,1
+Bechs,Irma,Undirected,1
+Anton,Mosgaard,Undirected,1
+Erling,Holger,Undirected,1
+Irma,Venus,Undirected,1
+Arcturus,Venus,Undirected,1
+Petersen,Wandel,Undirected,1
+Irma Wandels,Wandel,Undirected,1
+Hans Didrik Nobel,Hans Nobel Engel,Undirected,1
+Hans Didrik,Hans Didrik Nobel,Undirected,1
+Engel,Hans Didrik,Undirected,2
+Gud,Hans Didrik,Undirected,1
+Berntine,Dinah,Undirected,13
+Berntine,Scheel,Undirected,1
+Hans Didrik,Kaptejn Engels,Undirected,1
+Didrik,Hans Didrik,Undirected,1
+Berntine,Kaptejn,Undirected,1
+Berntine,Didrik,Undirected,3
+Didrik,bode,Undirected,1
+Berntine,Hans Didrik,Undirected,11
+Dinah,Hans Didrik,Undirected,3
+Didrik,Dinah,Undirected,1
+Dinah,Netta,Undirected,1
+Hans Didrik,Netta,Undirected,2
+Berntine,Netta,Undirected,3
+Hans Didrik,atNetta,Undirected,1
+Dinah,Gutten,Undirected,2
+Berntine,nes,Undirected,1
+Mesteren,Nilsen,Undirected,1
+Mester,Nilsen,Undirected,5
+Mester,Thrines,Undirected,1
+Mester,Thrine,Undirected,2
+Nilsen,Thrine,Undirected,5
+Mester,Stakkars,Undirected,1
+Borgesen,Vang,Undirected,8
+Emmanuel,Malle,Undirected,1
+Malle,Vang,Undirected,1
+Eli,Vang,Undirected,5
+Eli,Vesle-Bent,Undirected,1
+Bent,Vesle-Bent,Undirected,1
+Bent,Borgesen,Undirected,1
+Borgesen,Eli,Undirected,1
+Borgesen,Malle,Undirected,10
+Malle,Principal,Undirected,1
+Malle,lengel,Undirected,1
+Borgeseu,liam,Undirected,1
+Borgesen,Maren,Undirected,1
+Djevelen,Maren,Undirected,1
+Djevelen,Jonas,Undirected,1
+Malle,Suren,Undirected,1
+Maren,Ninive,Undirected,1

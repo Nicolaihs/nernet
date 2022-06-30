@@ -1,0 +1,85 @@
+source,target,type,weight
+Møller,Viggo,Undirected,1
+Viggo,ester,Undirected,1
+Guds,Viggo,Undirected,1
+Anne,Mads So,Undirected,1
+Mads So,Møller,Undirected,1
+Krøyer,Viggo,Undirected,1
+Georgine,Gud,Undirected,2
+Hain,Pastor Lønborg,Undirected,1
+Georgine,ester al,Undirected,1
+Annen,ester al,Undirected,1
+Georgine,Herrde,Undirected,1
+Herrde,heride,Undirected,1
+Vilhelmine,heride,Undirected,1
+Georgine,Vilhelmine,Undirected,2
+Georgine,urit,Undirected,1
+Cathrine,Georgine,Undirected,1
+Cathrine,Theodora,Undirected,1
+Gamle-Anders,Gitte,Undirected,1
+Gitte,Provsten,Undirected,1
+Konrad,Konrad Iversen,Undirected,1
+Karl,Konrad,Undirected,2
+Karlen,Konrad,Undirected,1
+Jes Jensens,Karlen,Undirected,1
+Konrad,Poul,Undirected,3
+Konrad,Konrad Borre,Undirected,1
+Gitte,Karl,Undirected,1
+Jes Jensen,Konrad,Undirected,2
+Karlen,Thomas Lyngsø,Undirected,1
+Karlen,helmer,Undirected,1
+Jes,helmer,Undirected,1
+Birgitte,Karl,Undirected,1
+Birgitte,Jes Jensen,Undirected,1
+Birgitte,Jes,Undirected,1
+Konrad,Konrad ørkesløs,Undirected,1
+Jens,Konrad,Undirected,1
+kjære Lønborg,nien,Undirected,1
+Gud,Viggo,Undirected,1
+Brødegaard,Karlen,Undirected,2
+Alen,Hr. Pastor,Undirected,1
+Hr. Pastor,Martha,Undirected,1
+ove,rumple,Undirected,1
+Hansine,hnn,Undirected,1
+Madam Sølund,Sølunds,Undirected,1
+Martha,Sølunds,Undirected,1
+Hnn,Martha,Undirected,1
+Martha,felv,Undirected,1
+Alan,Brødegaard,Undirected,1
+Brødegaard,gansfe,Undirected,1
+Madam Sølund,Mikkel,Undirected,1
+Brødegaard,Gud,Undirected,3
+Brødegaard,Ieg,Undirected,1
+Christoffer,Lisbet,Undirected,1
+Lisbet,Sparnøje,Undirected,1
+Lisbet,Simon,Undirected,1
+Studehans,kjære Viggo,Undirected,1
+Madam Sølund,Viggo Krøyer,Undirected,1
+Madam Sølund,Poul Andersen“,Undirected,1
+Jomfru Severinsen,Madam Sølund,Undirected,1
+Hansine,Krøyer,Undirected,1
+Brødegaard,Mads Hansen,Undirected,1
+Mads,Søren Brødegaard,Undirected,1
+Brødegaard,Sine,Undirected,1
+Hansine,Sine,Undirected,1
+Brødegaard,Poul Andersen,Undirected,1
+Præsin,hinandn,Undirected,1
+Krøyer,Madam Sølund,Undirected,1
+Skipper Sølund,Sofie,Undirected,1
+Sofie,Sølund,Undirected,1
+Brødegaard,harr,Undirected,2
+Brødegaard,Sølund,Undirected,1
+Lønborg,Viggo,Undirected,1
+Auklionen,Viggo,Undirected,1
+Jørgen,Præsfen,Undirected,1
+Jomfru Severinsen,Lønborg,Undirected,1
+Jomfru Severinsen,Jomfru Sølund,Undirected,1
+Gud,Jomfru Sølund,Undirected,1
+Jomfru Severinsen,Studehans,Undirected,1
+Gud,Hejle,Undirected,1
+Hejle,Sonr,Undirected,1
+Hejle,Studen,Undirected,1
+Brødegaard,d,Undirected,1
+Cornelius,iland,Undirected,1
+Brødegaard,Jomfru Severinsen,Undirected,1
+Georgine,Lønborg,Undirected,1

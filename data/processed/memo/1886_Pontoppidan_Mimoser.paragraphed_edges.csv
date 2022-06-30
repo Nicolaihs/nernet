@@ -1,0 +1,60 @@
+source,target,type,weight
+Kancelliraad Byberg,Sancho Pansa,Undirected,1
+Sancho Pansa,Søren,Undirected,2
+Kancelliraad Byberg,Nathalies,Undirected,1
+Hagbarth,N. P. Nielsensk,Undirected,1
+Hagbarth,Signe,Undirected,1
+Axel,Signe,Undirected,1
+Axel,Valborg,Undirected,1
+Ingemanns,Valborg,Undirected,1
+Ingemanns,Johnstones,Undirected,1
+Betty,Kamma,Undirected,10
+Betty,Kancelliraad Byberg,Undirected,1
+Kamma,Kancelliraad Byberg,Undirected,1
+Kamma,Nathalies,Undirected,1
+Hr. Anton,Hr. Antons,Undirected,1
+Albertine,Cecilie,Undirected,1
+Betty,Hr. Drehling,Undirected,1
+Betty,Gud,Undirected,2
+Diana,Kamma,Undirected,1
+Diana,Sancho Pansa,Undirected,1
+Antons,Betty,Undirected,2
+Anton,Betty,Undirected,22
+Betty,osl,Undirected,1
+Drehlingers,Kamma,Undirected,1
+Anton,Kamma,Undirected,6
+Anton,Nathalies,Undirected,1
+Betty,L	,Undirected,1
+Betty,j,Undirected,1
+Anton,j,Undirected,1
+Kamma,Olje,Undirected,1
+Anton,Kora,Undirected,1
+Anton,Frits,Undirected,1
+Andersen,Tys,Undirected,1
+Kamma,Tys,Undirected,1
+Alexandra,TysI,Undirected,1
+Betty,sandru,Undirected,1
+Betty,Frits,Undirected,2
+Betty,Thingtid,Undirected,1
+Frits,Gud,Undirected,2
+Iforgaars,Kamma,Undirected,1
+Ane,Niels Kusk,Undirected,1
+Mette Stupige,Niels Kusk,Undirected,1
+Anton,Frøken Mølmark,Undirected,1
+Anton,Baby,Undirected,1
+Anton,Meinerts,Undirected,1
+Meinerts,ifjor,Undirected,1
+Frits,Lynge,Undirected,1
+Anton,Conerding,Undirected,1
+Anton,kets,Undirected,1
+Astrid,hin Jente,Undirected,1
+Anton,Henrik Pontoppidan,Undirected,1
+Anton,Kjære,Undirected,1
+Anton,Gud,Undirected,1
+Betty,Fritz,Undirected,1
+Anton,Fritz,Undirected,1
+lysegraa Gamascher,v. d. Meuse,Undirected,1
+Anton,v. d. Meuse,Undirected,1
+Josef,Nelly,Undirected,1
+Madame,Nelly,Undirected,1
+Betty,sky,Undirected,1

@@ -1,0 +1,30 @@
+source,target,type,weight
+Eva,Kapitainen,Undirected,1
+Eva,Kaptejnen,Undirected,1
+Eva,Morbroder,Undirected,5
+Eva,Gud,Undirected,2
+Morbroder,destille,Undirected,1
+Droschker,Frederik den,Undirected,1
+Eva,Holm,Undirected,6
+Baumann,Morbroder,Undirected,3
+Baumann,Eva,Undirected,4
+Baumann,Holm,Undirected,7
+Dortheas,Eva,Undirected,1
+Frue,Møllers,Undirected,1
+Baumann,Gud,Undirected,1
+Baumann,vischi vaschi,Undirected,1
+Gamle Baumann,Onkel Morbro,Undirected,1
+Dahl,Gamle Baumann,Undirected,1
+Bjørn,Dahl,Undirected,1
+Baumann,Dahl,Undirected,3
+Dahl,Holm,Undirected,4
+Dahl,Eva,Undirected,1
+Eva,Mariane,Undirected,1
+Dalgaard,Eva,Undirected,3
+Dalgaard,Violbusk,Undirected,1
+Eva,Hans,Undirected,4
+Augustus,Schiller,Undirected,1
+Morbroder,Schiller,Undirected,1
+Hans,Morbroder,Undirected,2
+Sophie,lille Hans,Undirected,1
+Eva,liar,Undirected,1

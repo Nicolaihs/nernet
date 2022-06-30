@@ -1,0 +1,69 @@
+source,target,type,weight
+Bentsen,kjær,Undirected,1
+Bentsen,Henning,Undirected,11
+Henning,Sanct Antonius,Undirected,1
+Hans Frederik,Sanct Antonius,Undirected,1
+Hans Frederik,Henning,Undirected,18
+Hans Frederik,Ørbæk,Undirected,1
+Minna,Thorsen,Undirected,4
+Henning,Thorsen,Undirected,5
+Hr. Bentsen,Thorsen,Undirected,1
+Henning,Mama,Undirected,1
+Henning,Minna,Undirected,51
+Croquet,Henning,Undirected,1
+Frøken Thorsen,Henning,Undirected,1
+Henning,Lars,Undirected,3
+Hr. Bentsen,Husbonds,Undirected,1
+Hr. Bentsen,Lars,Undirected,1
+Bentsen,Minna,Undirected,5
+Graad,Minna,Undirected,1
+Graad,Henning,Undirected,1
+Daphnis,Henning,Undirected,1
+Daphnis,Hans Frederik,Undirected,1
+Diana,Hans Frederik,Undirected,1
+Gud,Henning,Undirected,2
+Gud,Minna,Undirected,3
+Ejnar Tambeskjælver,Hans Frederik,Undirected,1
+Henning,lille Aage,Undirected,3
+Aage,Minna,Undirected,10
+Henning,Lille Aage,Undirected,1
+Aaby,Krak,Undirected,1
+Aaby,Henning,Undirected,3
+Henning,Krak,Undirected,1
+Minna,lille Aage,Undirected,7
+Bentsen,Gud,Undirected,1
+Aage,Henning,Undirected,1
+Henning,Margrethe Aaby,Undirected,1
+Henning,Sylvesters,Undirected,1
+Erik,Henning,Undirected,5
+Erik,Sønneke,Undirected,1
+Erik,Knud,Undirected,1
+Holger,Knud,Undirected,1
+Eva,Henning,Undirected,1
+Erik,Kalas,Undirected,1
+Eva,lille Aage,Undirected,1
+Blæsenberg,Henning,Undirected,2
+Henning,Hr. Bentsen,Undirected,1
+Gud,lille Aage,Undirected,1
+Lille Aage,Minna,Undirected,1
+Jenser,Mercurius,Undirected,1
+Margrethe Aaby,lille Aage,Undirected,1
+Henning,Margrethe,Undirected,1
+Frøken Schmidt,Truelsen,Undirected,1
+Ebbesen,Peter,Undirected,1
+Hr. Schmidts,Madam Henriksen,Undirected,1
+Adonis,Madam Henriksen,Undirected,1
+.Madam Schmidt,Laura,Undirected,2
+Hr. Schmidt,Madam Schmidt,Undirected,1
+Laura,Madam Schmidt,Undirected,3
+Laura,hnn,Undirected,1
+Laura,Margrethe,Undirected,1
+Henning,Laura,Undirected,2
+Hr. Schmidt,Laura,Undirected,1
+Gud,Hr. Bentsen,Undirected,1
+Hr. Bentsen,Laura,Undirected,1
+Henning,Hr. Schmidt,Undirected,1
+Lykke,Niels Olses Jens,Undirected,1
+Husbond,Niels Olses,Undirected,1
+Henning,Husbond,Undirected,1
+Hans Frederik,Minna,Undirected,2

@@ -1,0 +1,682 @@
+source,target,type,weight
+Frederik den,Frederik den Syvendes,Undirected,1
+CollJack en,Jakob,Undirected,1
+Coll-Jack,Jakob,Undirected,1
+Baby,Jack,Undirected,1
+Mr. Birk,Rufus Rich,Undirected,17
+Timpton,Tom,Undirected,1
+Timpton,lange Goss,Undirected,1
+Coll Jack,Tom,Undirected,1
+Coll Jack,Jøsses,Undirected,1
+Mr. Birk,Tom,Undirected,33
+Coll Jack,Satan,Undirected,1
+Gadey,Mr. Birk,Undirected,1
+Gadey,Tom,Undirected,1
+Coll-Jack,Tom,Undirected,32
+Lilly,Mr. Birk,Undirected,12
+Mr. Birk,Selma,Undirected,33
+Hr. Greve,Mr. Birk,Undirected,1
+Langton,Selma Langton,Undirected,1
+Langton,hnn,Undirected,1
+Svarts,hnn,Undirected,1
+Selma,Svarts,Undirected,1
+Langton,Selma,Undirected,1
+Birk,Langton,Undirected,1
+Selma,sine Offre,Undirected,1
+Birk,sine Offre,Undirected,1
+Selma,absulut,Undirected,1
+absulut,sor,Undirected,1
+Gud,Ole Sørensen,Undirected,1
+Ole Sørensen,Søren Olsen,Undirected,1
+Rusus Rich,Tom,Undirected,2
+Alice,Coll-Jack,Undirected,10
+Coll-Jack,Jack,Undirected,4
+Alice,Jack,Undirected,25
+Jack,Tom,Undirected,45
+Mr. Birk,Rusus Rich,Undirected,2
+Birk,Tom,Undirected,2
+Jack,Mr. Birk,Undirected,28
+Alice,Tom,Undirected,20
+Jack,Rufus Rich,Undirected,4
+,Alice,Undirected,1
+,Jack,Undirected,1
+Alice,Rufus Rich,Undirected,3
+Coll Jack,Mr. Birk,Undirected,2
+Mr. Birk,as,Undirected,1
+Tom,as,Undirected,1
+Tom,stans,Undirected,2
+Alice,Mr. Birk,Undirected,40
+Tom,paany,Undirected,3
+Birk,Jack,Undirected,10
+Coll-Jack,raabte Birk,Undirected,1
+Coll-Jack,Rufus Rich,Undirected,3
+Alice,Oluk,Undirected,1
+Lady Hubert,Mr. Birk,Undirected,3
+Alice,Birk,Undirected,10
+Birk,Coll-Jack,Undirected,14
+Smiths,Tom,Undirected,1
+Coll-Jack,Smiths,Undirected,1
+Filadelfia,Mr. Birk,Undirected,3
+Coll-Jack,Mr. Birk,Undirected,40
+Mr. Birk,Tomas Langton,Undirected,1
+Mr. Birk,Wise,Undirected,2
+Fifle,Mr. Birk,Undirected,1
+Mr. Birk,Tomas,Undirected,1
+Mr. Birk,Sir Langton,Undirected,3
+Tomas Langton,alf,Undirected,1
+Egegren,Gud,Undirected,1
+Mr. Birk,harr,Undirected,1
+CollJack,Tom,Undirected,2
+Coll-Jack,Mr. Birk/,Undirected,1
+Jack,paany,Undirected,1
+Speile,Tom,Undirected,1
+Coll-Jack,Thomas Langton,Undirected,2
+Tom,ncer,Undirected,1
+CollJrck,Jack,Undirected,1
+Kusk,Mr. Birk,Undirected,1
+Kudfl,Mr. Birk,Undirected,1
+Mr. Birk,Smidts,Undirected,2
+Mr. Birk,Mr. Smith,Undirected,10
+Birk,Mr. Smith,Undirected,5
+Hr. Smith,Mr. Birk,Undirected,3
+Birk,Smiths,Undirected,1
+Mr. Birk,Smith,Undirected,2
+Mr. Birk,h an^,Undirected,1
+Mr. Birk,Thomas Langton,Undirected,5
+Alice,Thomas Langton,Undirected,2
+Mr. Birk,Sir Leburne,Undirected,2
+Leburne,Mr. Birk,Undirected,2
+Mr. Birk,soran Gadedøren,Undirected,1
+. k,Mr. Bi,Undirected,1
+Birk,Smidts,Undirected,1
+Alice,Smidts,Undirected,1
+Alice,CollJack,Undirected,1
+Mr. Birk,Notaren,Undirected,1
+Birk,Selma,Undirected,54
+Birk,Mr. Birk,Undirected,14
+Lilly,Selma,Undirected,3
+Gud,Selma,Undirected,4
+Gud,Lilly,Undirected,1
+Birk,Lilly,Undirected,1
+Lilly,Povl,Undirected,2
+Mr. Birk,Povl,Undirected,3
+Evropa,Sir Langton,Undirected,1
+Birk,Smidt,Undirected,3
+Mr. Birk,Zat,Undirected,1
+Rasmus Nielsen,Tom,Undirected,1
+Alice —,Hioe,Undirected,1
+Alice,Gud,Undirected,2
+-Jack,Mr. Birk,Undirected,1
+Jack,Thomas Langton,Undirected,1
+Mr. Birk,Rufus,Undirected,6
+Rnfus,Rufus,Undirected,1
+Mr. Birk,Selma Langton,Undirected,1
+Grev Birks,Selma Langton,Undirected,1
+Grev Birks,Thomas Langton,Undirected,1
+Lilly,Thomas Langton,Undirected,1
+Lilly,Mrs.,Undirected,1
+Birk,Mrs.,Undirected,1
+Birk,chg,Undirected,1
+Mr. Birk,chg,Undirected,1
+Mr. Birk,Skælmen,Undirected,1
+Marven,Rufus,Undirected,1
+Mr. Birk,Tys,Undirected,1
+Mr. Birk,Nufus Rich,Undirected,1
+Mr. Smith,Nufus Rich,Undirected,1
+Rufus,Smith,Undirected,1
+Evropa,Rufus Rich,Undirected,1
+Mr. Birk,Pel Wardes,Undirected,1
+Pel Wardes,Thomas Langton,Undirected,1
+Mr. Birk,Principals,Undirected,1
+Birk,Pel Wardes,Undirected,1
+Langton,Mr. Birk,Undirected,1
+Langton,Oskar Svarts,Undirected,1
+Brandt,Mr. Birk,Undirected,31
+Grev K j Brandt,Mr. Birk,Undirected,1
+Brandt,Grev K j Brandt,Undirected,1
+Brandt,Osger Aarluffsen,Undirected,1
+,Brandt,Undirected,1
+Anina“,Lady Hubert,Undirected,1
+Kjenderes,Lady Hubert,Undirected,1
+Anina,Mr. Birk,Undirected,28
+Birk,Brandt,Undirected,17
+Mr. Birk,al faa Lady Hubert,Undirected,1
+Anina,Anmas,Undirected,1
+Anina,Brandt,Undirected,2
+Brandt,Lady Hubert,Undirected,1
+Anina,Gud,Undirected,1
+Anina,Birk,Undirected,10
+Anina,Lady Hubert,Undirected,6
+Jenkiens,Lady Hubert,Undirected,1
+. Mr. Birk,Mr. Brandt,Undirected,1
+Mr. Smith,d,Undirected,1
+Mr. Birk,d,Undirected,1
+Rufus Rich,oh,Undirected,1
+Alice,Bobby,Undirected,4
+Bobby,Jack,Undirected,1
+Alice^ tilkastede,Birk,Undirected,1
+dark-Olud,ester,Undirected,1
+Mr. Birk,dark Olulrs,Undirected,1
+Alice,Smith,Undirected,2
+Brandt,Mr. Both,Undirected,3
+Mr. Birk,Mr. Both,Undirected,2
+Mr. Both,ester,Undirected,1
+Christo,Mr. Birk,Undirected,1
+Christo,L. Both,Undirected,1
+Gud,Mr. Birk,Undirected,2
+Lady Hubert,ester,Undirected,1
+Anina,ester,Undirected,1
+Mr. Birk,lil,Undirected,1
+Arthur Twiller,Birk,Undirected,3
+Arthur Twiller,Charles Fisk,Undirected,1
+Anina,paany,Undirected,1
+Arthur,Mr. Birk,Undirected,1
+Arilds,Twiller,Undirected,1
+Charles Fisk,Twiller,Undirected,1
+Anina,visf,Undirected,1
+Mr. Birk,Twiller,Undirected,16
+Anina,Twiller,Undirected,4
+Anina,Charles,Undirected,1
+Aele,Anina,Undirected,1
+Aele,Arthur Twiller,Undirected,1
+Arthur Twiller,Mr. Birk,Undirected,5
+Marv,Mr. Birk,Undirected,1
+Anina,Charles Fisk,Undirected,1
+Mr. Fisk,Mr. Tviller,Undirected,1
+Anina,Mr. Fisk,Undirected,1
+Arthur,Charles,Undirected,1
+Charles,Mr. Birk,Undirected,1
+Birk,Mr. Twiller,Undirected,1
+Mr. Twiller,Twiller,Undirected,1
+Konsten,Mr. Birk,Undirected,1
+Konsten,Twiller,Undirected,1
+Birk,Twiller,Undirected,4
+Mr. Birk,Mr. Twiller,Undirected,1
+Gud,Twiller,Undirected,2
+Gud,Satan,Undirected,1
+Bien,Mr. Twiller,Undirected,1
+Jkkesandt,Twiller,Undirected,1
+Sam,Twiller,Undirected,1
+Kate,pidskes,Undirected,1
+Job,Kate,Undirected,8
+Arthur,Kate,Undirected,2
+Arthur Twiller,Sir,Undirected,1
+Arthur,jæg,Undirected,1
+Gud,Kate,Undirected,1
+Arthur,Gud,Undirected,1
+Arthur,Job,Undirected,1
+Both,paany,Undirected,1
+Both,Gud,Undirected,1
+Brandt,John,Undirected,1
+Jack,John,Undirected,1
+Brandt,Mr Birk,Undirected,1
+Digj,Mr. Birk,Undirected,1
+Mr. Birk,paany,Undirected,2
+Alice,paany,Undirected,1
+Coll-Jack,Mr Birk,Undirected,1
+Gud,Williams,Undirected,1
+Williams,dingle,Undirected,1
+Jack,sif,Undirected,1
+Brandt,CollJack,Undirected,1
+Brandt,Tom,Undirected,1
+Birk,Rufus Rich,Undirected,2
+Mr. Birk,Mr. Lee,Undirected,2
+Brandt,Kudsken,Undirected,1
+Brandt,Coll-Jack,Undirected,1
+Fre,Tys,Undirected,1
+Birk,Selma Langton,Undirected,1
+Selma Langton,Thomas Langton,Undirected,1
+Alice,Ehester,Undirected,2
+Brandt,sra Brandt,Undirected,1
+Anderson,jusf,Undirected,1
+Mr. Anderson,Rufus,Undirected,3
+Gud,Rufus Rich,Undirected,1
+Mr.,Mr. Birk,Undirected,1
+Mr. Anderson,Rufus Rich,Undirected,3
+Mr. Anderson,Mr. Birk,Undirected,8
+Anderson,Mr. Anderson,Undirected,1
+Chrisfus,Messias,Undirected,1
+Mr. Smith,Mr. Wirk,Undirected,1
+Brandt,Smith,Undirected,1
+Mr. Birk,fom,Undirected,1
+Brandt,Mr. Smith,Undirected,1
+Mr. Smith,Smith,Undirected,1
+Alice,Brandt,Undirected,3
+CollJack,Mr. Birk,Undirected,1
+Tom,Vorherre,Undirected,1
+Tom,as Mr. Birk,Undirected,1
+Coll-,Jack,Undirected,1
+Rufus Rich,Thompson,Undirected,4
+CollJack!,Rufus Rich,Undirected,1
+Jack,Thompson,Undirected,2
+Coll-Jack,stet,Undirected,1
+Brandt,stode Alice,Undirected,1
+Thompson,stode Alice,Undirected,1
+Alice,trl Jack,Undirected,1
+Rufus Rich,saldi,Undirected,1
+Alice,saldi,Undirected,1
+Alice,Rufus,Undirected,1
+Jack,Rufus,Undirected,1
+Gud,Jack,Undirected,1
+Brandt,Thompson,Undirected,1
+Brandt,Kudsk,Undirected,1
+Frederik Drejer,Mr. Birk,Undirected,2
+Mr. Birk,kjende,Undirected,1
+Rufus Rich den anden,Tom,Undirected,1
+Rufus Rich den anden,Thompson den,Undirected,1
+Kurt Tom,Mr. Birk,Undirected,1
+Frederik Folkekjcer,Mr. Birk,Undirected,1
+Mr. Birk,sev,Undirected,1
+Hankeen,Mr. Birk,Undirected,1
+Hugo Scott,Mr. Birk,Undirected,1
+Henry Black,Hugo Scott,Undirected,1
+Henry Black,Kognack,Undirected,1
+Kognack,Skov-Henry,Undirected,1
+Gud,Skov-Henry,Undirected,1
+Hugo,Mr. Birk,Undirected,1
+Skov-Henry,fom han,Undirected,1
+Mr. Birk,Skov-Henry,Undirected,16
+Henry,Mr. Birk,Undirected,1
+Birk,Skov-Henry,Undirected,1
+Mr. Birk,SkovHenry,Undirected,2
+Mr. Birk,raa,Undirected,2
+Jakob,Skov-Henry,Undirected,3
+Jakob,Mr. Birk,Undirected,2
+Rufus Rich,Skov-Henry,Undirected,1
+Skov-Henry,tbi,Undirected,1
+Birk,tbi,Undirected,1
+Jacobs,Skov-Henry,Undirected,1
+Mr. Birk,Thompson,Undirected,3
+Rusus Rich,Thompson,Undirected,1
+Jacob,Mr. Birk,Undirected,2
+Coll-Jack,Jacob,Undirected,1
+Kirkegaard,Mr. Birk,Undirected,1
+Marsch,Mr. Birk,Undirected,1
+Rufus,Tom,Undirected,4
+Rufus Rich,Tom,Undirected,4
+Tom,jdet,Undirected,2
+Jron,Pandora,Undirected,2
+Djuras,Pandora,Undirected,1
+Djura,Pandora,Undirected,2
+Pandora,hnn,Undirected,1
+Djura,Jron,Undirected,1
+Otah-hu-lis,Pandora,Undirected,1
+Djura,Otah-hu-lis,Undirected,1
+Mr. Birk,Pandora,Undirected,4
+Mr. Birk,gry,Undirected,1
+Rusus Rich,ester,Undirected,1
+d.,r,Undirected,1
+Mr. Birk,r,Undirected,1
+Brandt,Gud,Undirected,1
+Birk,lille Povl,Undirected,1
+Mynster,Selma,Undirected,1
+Anina,Wenebago,Undirected,2
+Mr. Birk,fenere,Undirected,1
+didhen,fenere,Undirected,1
+Anina,Arthur,Undirected,1
+Anina,Hr. Twiller,Undirected,1
+Sir Twiller,Twiller,Undirected,1
+Birk,Sir Twiller,Undirected,1
+Sir Twiller,jusf Wenebago,Undirected,1
+Anina Hubert,Twiller,Undirected,1
+Lilly,Selma Birk,Undirected,1
+Anina,Hnn,Undirected,1
+Anina,bfev,Undirected,1
+Pandora,Twiller,Undirected,1
+Anina,Jron,Undirected,2
+Alice,Selma,Undirected,1
+Jron,Mr. Birk,Undirected,1
+Frøken Hubert,Mr. Birk,Undirected,1
+Anina,Jusf,Undirected,1
+Birk,Gud,Undirected,1
+Anina,Pandora,Undirected,1
+Pandora,Wenebago,Undirected,1
+Anina Hubert,Mr. Birk,Undirected,1
+Castor tks Iravaillsr,Mr. Birk,Undirected,1
+Povl,Selma,Undirected,16
+Mr. Birk,Pools,Undirected,3
+Pools,Selma,Undirected,4
+Selma,Wenebago,Undirected,2
+Castor tks,Wenebago,Undirected,1
+Mr. Birk,Wenebago,Undirected,2
+Birk,Clausul,Undirected,1
+Birk,Povl,Undirected,5
+Coll-Jack,Pools,Undirected,1
+Jack,Selma,Undirected,1
+Gud,Povl,Undirected,3
+Coll-Jack,varHer,Undirected,1
+Jack,ester,Undirected,1
+Langton,Thomas Langton,Undirected,1
+Dokforen,Mr. Birk,Undirected,2
+Birk,Dokforen,Undirected,1
+Coll-Jack,Dokforen,Undirected,2
+Coll-Jack,CollJack,Undirected,2
+CollJack,Povl,Undirected,1
+Offre,Paasfand,Undirected,1
+Alice,Castor tko NravaiUsr,Undirected,1
+Coll-Jack,Mr. Birk^sin,Undirected,1
+Jron,Mr. Birk^sin,Undirected,1
+Anina,Selma,Undirected,1
+flutter,haabe,Undirected,1
+Castor,flutter,Undirected,1
+Selma,alf,Undirected,1
+Dokfor,Mr. Birk,Undirected,1
+Dokfor,Selma,Undirected,1
+Coll-Jack,Povl,Undirected,2
+Coll-Jack,Selma,Undirected,1
+Dokforen,Selma,Undirected,1
+Dokforen,Povl,Undirected,1
+Pools,Povl,Undirected,1
+Mr. Birk,Offre,Undirected,1
+Kronprinds Frederik,Mr. Birk,Undirected,1
+Pisfoler,Selma,Undirected,1
+Filadelfia fom Mr. Birk,Selma,Undirected,1
+Filadelfia fom Mr. Birk,Selma søgie,Undirected,1
+Mr. Birk,hstn,Undirected,1
+Jron,Wenebago,Undirected,1
+Jndianervis,Jron,Undirected,1
+Brandt,asfin,Undirected,1
+Gud,rnotlisi,Undirected,1
+Mr. Birk,Sir Hubert,Undirected,2
+Hubert,Sir Hubert,Undirected,1
+Mr. Anderson,Mr. Foster,Undirected,1
+Coll-Jack,Dokfor,Undirected,1
+Mr. Anderson,Mr. Forsfer,Undirected,1
+Mr. Anderson,Mr. Forster,Undirected,3
+Mr. Birk,Selma stege,Undirected,1
+Mr. Anderson,Selma stege,Undirected,1
+Mr. Anderson,Mr. Birh,Undirected,1
+Hubert,Mr. Birk,Undirected,1
+Frederik Folkekær,Kamillo Karstens,Undirected,1
+Frederik den,Kamillo Karstens,Undirected,1
+Frederik den Syvende,Kristian,Undirected,1
+Kristian,Kristian Pedersen,Undirected,1
+Gud,Justitsraad Berger,Undirected,1
+Anna Berger,Jusfitsraad Berger,Undirected,2
+Anna Berger,Brink,Undirected,17
+Berger,Brinck,Undirected,1
+Brinck,Hr. Birk,Undirected,1
+Berger,Tu,Undirected,1
+Døttre,Gud,Undirected,1
+Anna Berger,Gud,Undirected,2
+Anna Berger,Hr. Brink,Undirected,1
+Hr. Brink,Mil Hverv,Undirected,1
+Mil Hverv,Scylla,Undirected,1
+Hr. Birk,Jusfitsraad Berger,Undirected,2
+Anna Birger,Brink,Undirected,1
+Berger,Hr. Brink,Undirected,2
+Axel Berger,Berger,Undirected,1
+D.,R.,Undirected,1
+Birk —,K.,Undirected,1
+Birk,Frederik den,Undirected,2
+Birk,K.,Undirected,4
+K.,Selma,Undirected,1
+Hr. Birk,Justitsraad Berger,Undirected,3
+Justitsraad Berger,Selma,Undirected,3
+Sel,mas,Undirected,1
+Liv,mas,Undirected,1
+Brink,Jusfitsraad Berger,Undirected,1
+Brink,K.,Undirected,1
+Gud,fone,Undirected,1
+Gud,jhvis,Undirected,1
+0a8tov tlle HvaiUsv,Povl,Undirected,1
+Brink,Povl,Undirected,1
+Birk,Brink,Undirected,21
+Birk,Erik,Undirected,1
+Hr. Birk,Hr. Brink,Undirected,1
+Berger,Brink,Undirected,9
+Berger,Birk,Undirected,4
+Brink,Selma,Undirected,2
+Selma,ilive,Undirected,1
+Povl,ilive,Undirected,1
+Hr. Birk,Selma,Undirected,2
+Berger,Selma,Undirected,4
+Birk,Justitsraad Berger,Undirected,3
+Anna Berger,Birk,Undirected,20
+Brink,Hr. Birk,Undirected,4
+Brink,Jusfitsraad,Undirected,1
+Berger,Maasfe,Undirected,1
+Anna Berger,Hr. Birk,Undirected,8
+Anna Berger,Juslitsraaden,Undirected,1
+Anna,Gud,Undirected,6
+Berger,Gud,Undirected,1
+Brink,onot,Undirected,1
+Birk,Jusfitsraaden,Undirected,1
+Anna,Berger,Undirected,4
+Birk,Hr. Birk,Undirected,2
+Berger,Hr. Birk,Undirected,4
+Anina Hubert,Anna Berger,Undirected,1
+Birk,Frøken Bergers,Undirected,1
+Berger,Øe,Undirected,1
+Brink,Hr. Brink,Undirected,2
+Frøken Berger,I.,Undirected,1
+Hr. Dotezacs,I.,Undirected,1
+Hr. Dotezacs,J. s,Undirected,1
+Birk,Frøken Berger,Undirected,5
+Birk,Frøken,Undirected,1
+Berger,Kristian den,Undirected,1
+Hr. Birk,Kristian den,Undirected,1
+Birk,Kristian den,Undirected,1
+Birk,nng,Undirected,1
+Anna Berger,Strange,Undirected,1
+Selma,Vinter,Undirected,1
+Kronprinds,Selma,Undirected,1
+Frederik den,Kronprinds,Undirected,1
+Selma,Uraad,Undirected,1
+Kong Frederik,Vinter,Undirected,1
+Birk,Frederik Folkekjcer,Undirected,1
+Anna Berger,Gabrielle d ,Undirected,1
+Gabrielle d ,Henrik den,Undirected,1
+Anna Berger,Hr. Strange,Undirected,1
+Frøken Berger,Hr. Strange,Undirected,1
+Frøken Berger,Katrines,Undirected,1
+Hr. Strange,Katrine,Undirected,1
+Katrine,fom,Undirected,1
+Gud,sfal,Undirected,1
+Brink,sfal,Undirected,1
+Anna,Anna Berger,Undirected,3
+Anna Berger,Gabrieles,Undirected,1
+Gabriele d,Gabrieles,Undirected,1
+Anna,Gabriele d,Undirected,1
+Cicero,Racine,Undirected,1
+Anna Berger,Robert Tennyson,Undirected,1
+Robert Tennyson,Sir Tennyson,Undirected,1
+Anna Berger,Sir Tennyson,Undirected,3
+Anna,Tennysons,Undirected,1
+Frøken,Frøken Berger,Undirected,1
+Hr. Berger,Justitsraad Berger,Undirected,3
+Anna,Sir Tennyfon,Undirected,1
+Anna,Brink,Undirected,4
+Brink,Justitsraad Berger,Undirected,1
+Hr. Birk,Sir Tennyfon,Undirected,1
+Sir Tennyson,paany,Undirected,1
+Hr. Birk,Tennyson,Undirected,2
+CollJack,Gud,Undirected,1
+Anna Berger,CollJack,Undirected,1
+Helga,Mr. Birk,Undirected,1
+Jusfitsraad Berger,Kjære,Undirected,1
+Coll-Jack,Mr. Tennyson,Undirected,1
+Castor tke travaillsr,Coll-Jack,Undirected,1
+Coll-Jack,Frederik den,Undirected,1
+Coll-Jack,Tennyson,Undirected,1
+Coll-Jack,Frederik,Undirected,1
+Frederik,Strange,Undirected,1
+Justitsraad Berger,Sir Tennyson,Undirected,1
+Jæg,Tennyson,Undirected,1
+Goethe,Schiller,Undirected,1
+Berger,Sir Tennyson,Undirected,3
+Berger,^MMed,Undirected,1
+Adam,Eva,Undirected,1
+Berger,Tennyfon,Undirected,3
+. Tennyson,sorn,Undirected,1
+Frederik Folkcksser,Mr. Tennyson,Undirected,1
+Berger,Tennyson,Undirected,2
+Hr. Berger,Sir Tennyfon,Undirected,1
+Frederik den Syvende,Sir Tennyfon,Undirected,1
+Tennyson,Tydsk,Undirected,1
+Frederik den Syvende,Tydsk,Undirected,1
+Frederik den,Sir Tennyson,Undirected,1
+Frederik den,K.,Undirected,1
+K.,alias Hr. Birk,Undirected,1
+alias Hr. Birk,alias Sir Tennyson,Undirected,1
+Sir Tennyson,alias Sir Tennyson,Undirected,1
+Frederik Lykke,Tennyson,Undirected,1
+Frederik,Grev K.,Undirected,1
+,Grev K.,Undirected,1
+Grev K.,Sir Tennyson,Undirected,1
+Frederik den,Tennyson,Undirected,1
+Justitsraad Berger,Tennyson,Undirected,1
+Blanca,Tennyson,Undirected,5
+Blanca,Sir Tennyson,Undirected,4
+Tennyson,jdet,Undirected,1
+Frøken Berger,Justitsraad Berger,Undirected,1
+Frederik,Justitsraad Berger,Undirected,2
+Berger,Blanca,Undirected,5
+Blanca,Hr. Birk,Undirected,1
+Brink,Sir Tennyson,Undirected,1
+Frøken Berger,Tennyson,Undirected,1
+Anna Berger,Tennyson,Undirected,2
+Anna Berger,ida hun,Undirected,1
+Brink,ida hun,Undirected,1
+Anna,Tennyson,Undirected,1
+Hr. Birk,Sir Tennyson,Undirected,2
+Blanca,Justitsraad Berger,Undirected,2
+Don Juan,Justitsraad Berger,Undirected,1
+Birk,k.,Undirected,1
+Blanca,Jusfitsraad Berger,Undirected,4
+Dtan,Justitsraad Berger,Undirected,1
+Birk,mertt,Undirected,1
+Brink,Hr. Berger,Undirected,2
+Asten,Hr. Birk,Undirected,1
+Asten,Brink,Undirected,1
+Anna Berger,Frøken Bergers Roes,Undirected,1
+Blanca,Don Juan,Undirected,1
+Blanca,Frøken Berger,Undirected,1
+Anna Berger,Frøken Berger,Undirected,1
+Birk,Blanca,Undirected,3
+Birk,Hr. Berger,Undirected,3
+Frøken Berger,Hr. Berger,Undirected,1
+Anna,Birk,Undirected,6
+Anna,Sympathi,Undirected,1
+Anna,Blanca,Undirected,2
+Brink,fie,Undirected,1
+Blanca,fie,Undirected,1
+Bianca,Brink,Undirected,1
+Birk,Sir Tennyson,Undirected,2
+Blanca,ester,Undirected,1
+Jusfitsraad Berger,ester,Undirected,1
+Blanca,Brink,Undirected,2
+Castor,Hr. Strange,Undirected,1
+Brink,Vinter,Undirected,1
+Birk,Tennyson,Undirected,1
+X.,ganfle,Undirected,1
+Frøken Berger,Tydst,Undirected,1
+Brink,Javisl,Undirected,1
+Birk,Jæg,Undirected,1
+Blanca,Moder,Undirected,1
+Madame,Selma,Undirected,1
+Justitsraad Berger,Selma Langton,Undirected,1
+Langton,Madame,Undirected,1
+Dent,Selma,Undirected,1
+Domino,Selma,Undirected,1
+Pollux,Selma,Undirected,3
+Castor,Pollux,Undirected,2
+Blanca,Castor,Undirected,1
+Castor,Povl,Undirected,1
+Frank,jask,Undirected,2
+Frank,Frederik den,Undirected,1
+Birk,Frank,Undirected,1
+Carl Lagerløff,Lagerløff,Undirected,1
+Adelskjolds,Lagerløff,Undirected,1
+Adelskjolds^,Carl Lagerløff,Undirected,1
+Axelskjold,Kudsken,Undirected,1
+Adelskjold,Baron Adelsfjold,Undirected,1
+Adelskjold,Baron Adelskjold,Undirected,1
+Baron Adelskjold,Max Louis Ferdinand Adelskjolo,Undirected,1
+Kudsk,Lagerløff,Undirected,1
+Klavs,Klavs Johansen,Undirected,1
+Adelsskjold,Klavs Johansen,Undirected,1
+Adelsfjold,Adelsfjold sammeir,Undirected,1
+Carl,Carl Lagerløff,Undirected,1
+alde-,les,Undirected,1
+Frank,Klavs Johansen,Undirected,2
+Frank,lille Madam Johansen,Undirected,2
+Klavs Johansen,vaer,Undirected,1
+Frank,Klavs,Undirected,2
+Johansen,Klavs Johansen,Undirected,1
+Adelsskjold,Frank,Undirected,2
+Baron Adelsskjold,Carl Lagerløff,Undirected,1
+Adelsskjold,Anna,Undirected,2
+Anna,felv,Undirected,1
+Anna,Vorherre,Undirected,1
+Anna Berger,Mvilkel,Undirected,1
+Eden,Gud,Undirected,1
+Anna,jæg,Undirected,5
+Gud,jæg,Undirected,1
+Anna Berger,Rafaels,Undirected,1
+Anna,Svejts,Undirected,1
+Anna,Hain,Undirected,1
+Gud,Hain,Undirected,1
+Anna,Justitsraad Berger,Undirected,1
+Grev Adelskjolds,Tyendes,Undirected,1
+Bentsen,Greven,Undirected,1
+Bentsen,Birk,Undirected,9
+Bentsen,Offre,Undirected,1
+Birk,Kjørslen,Undirected,1
+Birk,Grev Adelskjolds,Undirected,1
+Bentsen,Husbond,Undirected,1
+Bentsen,Kudsk,Undirected,2
+Ane,Bentsen,Undirected,4
+Ane,atterind,Undirected,1
+Frøken Berger,Greven,Undirected,1
+Birk,Greve,Undirected,1
+Birk,Greven,Undirected,3
+Karl Lagerløff,Lagerløff,Undirected,1
+Adelskjold,Carl Lagerløff,Undirected,1
+Carl Lagerløff,Greven,Undirected,1
+Carl Lagerløff,Hr. Birk,Undirected,1
+Birk,Polilichefen,Undirected,1
+Birk,Winter,Undirected,1
+Strange,Winter,Undirected,1
+Birk,Strange,Undirected,2
+Selma,Strange,Undirected,4
+Blanca,DissS,Undirected,1
+Juslitsraaden,Sir Tennyson,Undirected,1
+Hr. Berger,Sir Tennyson,Undirected,1
+Blanca,Jusfitsraad,Undirected,1
+Blanca,hust,Undirected,1
+Birk,Winther,Undirected,6
+Berger,Winther,Undirected,1
+Berger,Kong Frederik,Undirected,1
+Kong Frederik,Winther,Undirected,1
+Frøken Berger,elsteds,Undirected,1
+Anncr Berger,Birk,Undirected,1
+Birk,meg Strange,Undirected,1
+Selma,meg Strange,Undirected,1
+Anna Berger,Selma,Undirected,9
+Anna Berger,hnn,Undirected,1
+Frøken Berger,Selma,Undirected,1
+Ester,hnn,Undirected,1
+Hr. Strange,hnn,Undirected,2
+Frøken Berger,Winther,Undirected,1
+Anna Berger,chm,Undirected,1
+Selma,hnn,Undirected,1
+Anna Berger,paany,Undirected,1
+Frøken Berger,sorn Kandidat Brink,Undirected,1
+Birk,sorn Kandidat Brink,Undirected,1
+Anna Berger,Vinter,Undirected,1
+Justitsraad Berger,Povl,Undirected,1
+Strange,Vinter,Undirected,1
+Frederik den Syvende,meldle,Undirected,1
+Frederik den,Rembrandts,Undirected,1
+Birk,Vinter,Undirected,1
+Birk der^,Jusfitsraad Berger,Undirected,1
+Justitsraad Berger,Vinter,Undirected,1
+Berger,Frederik,Undirected,1
+Birk,inan,Undirected,1
+Birk,Masfen,Undirected,1
+Castor tks,Coll-Jack,Undirected,1
+Birk,Selma//,Undirected,1
+Birk,Grev K.,Undirected,2
+K.,sil,Undirected,1
+Birk,sil,Undirected,2

@@ -1,0 +1,139 @@
+source,target,type,weight
+Arne,Emmy,Undirected,32
+Emmy,Prindsesse Alexandra,Undirected,1
+Arne,Prindsesse Alexandra,Undirected,1
+Burnus,Emmy,Undirected,2
+Emmy,Mama,Undirected,2
+Arne,Mama,Undirected,2
+Emmy,lille Emmy,Undirected,1
+Emmy,Kjære,Undirected,1
+Arne niente,Emmy,Undirected,1
+Emmy,Lang,Undirected,3
+Emmy,Frk. Winding,Undirected,1
+Anna,Emmy,Undirected,12
+Emmy,skjelmsk,Undirected,1
+Anna,Arne,Undirected,3
+.,Emmy,Undirected,2
+Schnitter,mürrische,Undirected,1
+.,Dangel,Undirected,1
+Dangel,Løbel,Undirected,2
+Herr Dangel,Løbel,Undirected,1
+Gjøgeurt,Herr Dangel,Undirected,1
+Anna,Gjøgeurt,Undirected,1
+Emmy,Herr Dangel,Undirected,1
+Løbel,Theen,Undirected,1
+Haydn,Løbel,Undirected,1
+Emmy,Haydn,Undirected,1
+Desert,Emmy,Undirected,1
+Emmy,liun,Undirected,1
+Emmy,Windings,Undirected,1
+Arne,Garibaldis,Undirected,2
+Arne,Brix,Undirected,3
+Arne,livor,Undirected,2
+Arne,liam,Undirected,2
+Arne,Hejbergs,Undirected,2
+.John Brown,John Brown,Undirected,1
+Emmy,liendes,Undirected,1
+Arne,Krisis,Undirected,1
+Emmy,Krisis,Undirected,1
+Karlsen,lille Olga,Undirected,1
+Fredriksen,lille Olga,Undirected,3
+Dada,Olga,Undirected,6
+Dada,Karlen,Undirected,2
+Karlen,Olga,Undirected,2
+Karlsen,Olga,Undirected,4
+Fredriksen,Olga,Undirected,15
+Fredriksen,bedrede-Olgas,Undirected,1
+Olga,bedrede-Olgas,Undirected,1
+Emmy,Olga,Undirected,35
+Emmy,Fredriksen,Undirected,19
+Fredrik,Olga,Undirected,3
+Fredriksen,Frøken Emmy,Undirected,1
+Fredriksen,Karlsen,Undirected,1
+Ida,Olga,Undirected,13
+Olga,liun,Undirected,4
+Olga,Voxnes,Undirected,2
+Goethe,Olga,Undirected,1
+Goethe,Wilhelm Meister,Undirected,2
+Olga,dei-,Undirected,1
+Fredriksen,Myndling,Undirected,1
+Emmy,Myndling,Undirected,2
+Myndling,Olga,Undirected,1
+Frøken Emmy,Olga,Undirected,1
+Anna Windings,Emmy,Undirected,1
+Alama,Olga,Undirected,1
+Fredriksen,liun,Undirected,3
+Fredriksen,Gud,Undirected,1
+Emmy,Gud,Undirected,1
+Mama,Olga,Undirected,1
+Berg,Fredriksen,Undirected,1
+Mayfiower,livor,Undirected,1
+Arne,Flan,Undirected,1
+Miss Lucy,Miss Sarah,Undirected,1
+Arthur,Miss Lucy,Undirected,1
+Arthur,Miss Sarah,Undirected,1
+George,Miss Sarah,Undirected,1
+Arthur,George,Undirected,1
+Arne,George,Undirected,3
+George,Lucy,Undirected,1
+Arne,Lucy,Undirected,1
+Arne,Bell,Undirected,1
+Bell,Lincoln,Undirected,1
+Arne,Arthur,Undirected,3
+Arne,Scott,Undirected,1
+Mac Clellan,Scott,Undirected,1
+Grant,Mac Clellan,Undirected,1
+Arne,Kong Fredriks,Undirected,2
+Flan,Slendrian,Undirected,1
+Arne,Slendrian,Undirected,1
+Arne,Krats,Undirected,7
+Frk. Winding,Krats,Undirected,1
+Frk. Winding,Løbel,Undirected,1
+Arne,Dangel,Undirected,9
+Arne,Løbel,Undirected,1
+Anna,Løbel,Undirected,1
+Anna,Olga,Undirected,7
+Dangel,Olga,Undirected,2
+Løbel,liun,Undirected,1
+Løbel,con amore,Undirected,1
+Krats,con amore,Undirected,1
+Arne,liun,Undirected,1
+Arne,Olga,Undirected,21
+Emmy,Krats,Undirected,1
+Frej,Olga,Undirected,1
+Fredriksen,soin liun,Undirected,1
+Arne,soin liun,Undirected,1
+Frøken Karlsen,Frøken Keys,Undirected,1
+Arne,Frøken Emmy,Undirected,1
+Arne,Frøken Keys,Undirected,1
+Arne,niesten,Undirected,1
+Arne,Emmy Key,Undirected,1
+Emmy Key,Olga,Undirected,1
+Emmy,liar,Undirected,1
+Olga,liar,Undirected,1
+Arne,ifjor,Undirected,1
+Arne,Skovgaards,Undirected,1
+Olga,Skovgaards,Undirected,1
+Olga,Windings,Undirected,2
+Krats,Windings,Undirected,1
+Krats,Olga,Undirected,1
+Arne »,Olga,Undirected,1
+Clara Rafaelsk,lille Olga,Undirected,1
+Grishilde,Mo,Undirected,1
+Arne,Windings,Undirected,2
+Anna,Windings,Undirected,1
+Anna,Dangel,Undirected,1
+Arnholt,Dangel,Undirected,1
+Aledens,Arnholt,Undirected,1
+Aledens,Anna,Undirected,1
+Arne,Flohn,Undirected,2
+Olga,lier,Undirected,1
+Arne,Frøken Karlsen,Undirected,3
+Holm,Olga,Undirected,1
+Dangel,Frøken Winding,Undirected,1
+Olga,liam,Undirected,1
+Arne,Linder,Undirected,1
+Arne,Kusk,Undirected,1
+Kusk,Olga,Undirected,1
+Frøken Karlsen,Marie,Undirected,1
+Olga,Pintsen,Undirected,1

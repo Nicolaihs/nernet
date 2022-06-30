@@ -1,0 +1,194 @@
+source,target,type,weight
+Ida,hnn,Undirected,2
+Fride,Tante Fride,Undirected,1
+Emmy,Ida,Undirected,3
+Ida,liun,Undirected,3
+Ida,betvang,Undirected,1
+Esther Brun,Ida,Undirected,1
+Esther,Ida,Undirected,25
+Esther,liun,Undirected,4
+Ida Holm,Xkøpings,Undirected,1
+Ida,Xkøpings,Undirected,1
+Bezique,Ida,Undirected,1
+Esther,Inge,Undirected,36
+Esther,Inge Zirnmermann,Undirected,2
+Esther,Jenny,Undirected,1
+Esther,Ida Holm,Undirected,4
+Ida,Inge,Undirected,5
+Holms,Ida,Undirected,2
+Brock,Esther,Undirected,12
+Ida Holm,Inge,Undirected,5
+Ida,Jenny,Undirected,1
+Artium,Esther,Undirected,1
+Brock,Inge,Undirected,1
+Inge,Papa Zirnmermann,Undirected,1
+Brock,Klaus Brock,Undirected,1
+Esther,Klaus Brock,Undirected,11
+Esther,hnn,Undirected,3
+Inge,hnn,Undirected,1
+Inge,Zimmermanns,Undirected,1
+Bruns,Ilolm,Undirected,2
+Ida Holm,Inge Zirnmermann,Undirected,1
+Ida Holm,liun,Undirected,1
+Inge,liun,Undirected,2
+Esther,Tante Holm,Undirected,3
+Esther,hum,Undirected,1
+Inge,hum,Undirected,1
+Brun,Esther,Undirected,2
+Bruner,Esther,Undirected,1
+Klaus Brock,Zimmermanns,Undirected,1
+Hr. Zimmermann,Inge,Undirected,1
+Agnete,Hr. Zimmermann,Undirected,1
+Agnete,Inge,Undirected,11
+Inge,Tante Holm,Undirected,1
+Aage Brock,Arne,Undirected,1
+Aage,Papa,Undirected,1
+Gud,Papa,Undirected,1
+Aage,Klaus,Undirected,5
+Aage Brock,Klaus,Undirected,1
+Brock,Frøken Claesen,Undirected,1
+Aage,Frøken Claesen,Undirected,2
+Frøken Claesen,Klaus,Undirected,3
+Aage,Agnete Brock,Undirected,1
+Agnete,Klaus,Undirected,11
+Aage,Agnete,Undirected,1
+Sven With,Ulla Claesen,Undirected,5
+Brock,Gunther,Undirected,1
+Brock,hnn,Undirected,1
+Brock,Komtesse Giinther,Undirected,2
+Hr. Brock,Ulla Claesen,Undirected,1
+Frøken Claesen,Hr. Brock,Undirected,1
+Agnete,Frøken Claesen,Undirected,5
+Agnete,ban,Undirected,3
+Frøken Claesen,ban,Undirected,1
+Agnete,Sven,Undirected,21
+With,liam,Undirected,1
+Sven,With,Undirected,1
+Brock,Sven,Undirected,2
+Agnete,Sven With,Undirected,6
+Frøken Claesen,Sven,Undirected,2
+Frøken Claesen,With,Undirected,1
+Aage,Sven,Undirected,1
+Aage,Ulla,Undirected,1
+Sven,Ulla,Undirected,5
+Beethoven,Grieg,Undirected,1
+Chopin,Grieg,Undirected,1
+Beethoven,Chopin,Undirected,1
+Agnete,Beethoven,Undirected,1
+Agnete,Chopin,Undirected,1
+Esther,Ulla Claesen,Undirected,2
+Esther,Ulla,Undirected,5
+Ulla,hnn,Undirected,1
+Ida,Ulla,Undirected,1
+H,Ida,Undirected,1
+Esther,H,Undirected,1
+Esther,Frøken Brun,Undirected,1
+Brock,Ida,Undirected,3
+Ida,Klaus,Undirected,2
+Ida,lille Frøken Holm,Undirected,1
+Brock,lille Frøken Holm,Undirected,1
+Ida,kelsen,Undirected,1
+Esther,Frøken Claesen,Undirected,1
+Esau,Inge,Undirected,1
+Agnete,Esther,Undirected,23
+Agnete,Frk. Claesen,Undirected,1
+Frk. Claesen,Ida,Undirected,1
+Friserkaabens,Frøken Claesen,Undirected,1
+Anne,Friserkaabens,Undirected,1
+Anne,Inge,Undirected,1
+Frøken Claesen,Inge,Undirected,3
+Frøken Claesen,Madame Lebrun,Undirected,1
+Frøken Holm,Frøken Ida Holm,Undirected,1
+Agnete,Ida,Undirected,2
+Agnete,Ulla,Undirected,2
+Esther,Klaus,Undirected,3
+Frøken Brun,Ida,Undirected,1
+Aage,Esther,Undirected,1
+Frøken Brocks,Frøken Claesen,Undirected,1
+Frøken Brocks,Sven With,Undirected,1
+Inge,Sven,Undirected,3
+Klaus Brock,liun,Undirected,1
+lians,liun,Undirected,1
+Aage,liam,Undirected,1
+Ida Holm,liam,Undirected,1
+Brock,Ida Holm,Undirected,2
+Esther,lians,Undirected,1
+Flan,lians,Undirected,1
+Esther,Flan,Undirected,1
+Esther Brun,Klaus,Undirected,1
+Guldbrands,Ulla Claesen,Undirected,1
+Pashas,Ulla,Undirected,1
+Schumanns,Sven,Undirected,1
+Sven,lian,Undirected,2
+Agnete,sorn,Undirected,1
+liam,sorn,Undirected,1
+Sven,liun,Undirected,1
+Ulla,liun,Undirected,1
+Agnete,Frøken Ullas,Undirected,1
+Frøken Claesen,Frøken Ullas,Undirected,1
+Schumanns,ban,Undirected,1
+Carmen,Sven,Undirected,1
+Agnete,Inge Esthers,Undirected,1
+Agnete,Sven Witb,Undirected,1
+Agnete,Hr. With,Undirected,1
+Esther,Sven With,Undirected,1
+Aage,hare,Undirected,1
+Aage,Zimmermann,Undirected,1
+Aage,Mylady,Undirected,1
+Klaus,ban,Undirected,1
+Sven,ban,Undirected,2
+Sven,liam,Undirected,1
+Sven,Sven With,Undirected,1
+Klaus,Sven,Undirected,4
+Brun,Klaus,Undirected,1
+Esther Brun,Klaus Brock,Undirected,1
+Esther,Esther Brun,Undirected,1
+Amanuensis,Esther,Undirected,1
+Agnete,Brock,Undirected,1
+Klaus,Klaus Brock,Undirected,1
+Klaus,liun,Undirected,1
+Agnete,Graaden,Undirected,1
+Sven With,Ulla,Undirected,1
+Allen,Ulla,Undirected,1
+Brock,Zimmermann,Undirected,1
+Esther,luge,Undirected,1
+Klaus Brock,Meyer,Undirected,1
+Esther,Meyer,Undirected,1
+Ida,Klaus Brock,Undirected,1
+Klaus,s,Undirected,1
+Agnete,s,Undirected,1
+Brock,Madsen,Undirected,1
+Brock,Jansen,Undirected,1
+Aaens,Sven,Undirected,1
+Aaens,Ulla,Undirected,1
+Klaus,Sven With,Undirected,1
+Jansen,Torp,Undirected,1
+Jensen,sorn,Undirected,1
+skraa,sorn,Undirected,1
+Frøken Holm,Ida,Undirected,1
+Brock,Tante Holm,Undirected,2
+Frøken Holm,Hr. Jensen,Undirected,1
+Hr. Jensen,Tante Holm,Undirected,1
+Hr. Jensen,lille Esther,Undirected,1
+Hr. Bruns,Inge,Undirected,1
+Esther,Hnn,Undirected,2
+Jensen,Tante Holm,Undirected,4
+Frøken Holm,Tante Holm,Undirected,1
+Frøken Holm,lian,Undirected,1
+Ida,Jensen,Undirected,1
+Esther Inge,Tante Holm,Undirected,1
+Esther Inge,Ida,Undirected,1
+Esther,liam,Undirected,1
+Esther,bun,Undirected,1
+Agnete,hnn,Undirected,1
+Agnete,liun,Undirected,1
+Esther,milien Brocks,Undirected,1
+Agnete,milien Brocks,Undirected,1
+Brock,Holm,Undirected,1
+Brock,Brun,Undirected,1
+Aage,Brun,Undirected,1
+Tante Holm,sorn Muren,Undirected,1
+Ida,Tante Holm,Undirected,1
+Brock,Frøken Holm,Undirected,1
+Sven Witb,lian,Undirected,1
+Sven Witb,Sven With,Undirected,1

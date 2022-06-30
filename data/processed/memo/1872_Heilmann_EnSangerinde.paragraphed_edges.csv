@@ -1,0 +1,216 @@
+source,target,type,weight
+Stadstambour i,Stephan Giskra,Undirected,1
+Stephan Gisfra,Stephan Giskra,Undirected,1
+N,Stephan Giskra,Undirected,1
+Giskra,Stephan Giskra,Undirected,1
+Giskra,Skomager Pløk,Undirected,2
+Captain Plak,Giskra,Undirected,1
+Gydesen,Skipper Gydesen,Undirected,1
+Giskra,Skipper Gydesen,Undirected,1
+S,Stephan Giskra,Undirected,1
+Captainen,Skipper Gydesen,Undirected,1
+Glid,Jensen,Undirected,1
+Aakanden,Tsi,Undirected,1
+Giskra,Hr. Jensen,Undirected,1
+Giskra,Zwirn,Undirected,1
+Giskra,Jensen,Undirected,7
+Jensen,Tambouren,Undirected,1
+Lærke,Tambouren,Undirected,1
+Jensen,Lærke,Undirected,1
+Giskra,ester,Undirected,1
+Anna Cathrine,Stephan Giskra,Undirected,3
+Anna Cathrine,Jensen,Undirected,7
+Giskra,Hnn,Undirected,2
+,Giskra,Undirected,2
+,Jensen,Undirected,8
+Dandsen,Jensen,Undirected,1
+Anna Cathrine,Rondoen,Undirected,1
+Eierens,Jensen,Undirected,1
+Eierens,Offe,Undirected,1
+Anna Cathrine,Offe,Undirected,1
+Christian Ballum,Jensen,Undirected,1
+Anna Cathrine,Christian Ballum,Undirected,1
+Anna Giskra,Jensen,Undirected,17
+Madam Nielsen,Stephan Giskra,Undirected,1
+Jensen,Madam Nielsen,Undirected,4
+Anna Cathrine,Giskra,Undirected,1
+Anna Cathrine,Madam Nielsen,Undirected,1
+Jensen,Stephan Giskra,Undirected,1
+Anna,Jensen,Undirected,55
+,Anna,Undirected,22
+Giskra,s.,Undirected,1
+Anna Giskra,Gyldenfalk,Undirected,2
+Gyldenfalk,Jensen,Undirected,5
+Anna,Gyldenfalk,Undirected,4
+Gyldenfalk,Pipa,Undirected,2
+Hr. Jensen,Pipa,Undirected,1
+Cousine,Gyldenfalk,Undirected,1
+Hr. von Gyldenfalk,Jensen,Undirected,1
+Anna,Hr. von Gyldenfalk,Undirected,1
+Jensen,Thies,Undirected,9
+Jensen vidsfe,Sekretair Thies,Undirected,1
+Jensen,Jensen vidsfe,Undirected,1
+Jensen,vidsfe,Undirected,2
+Jensen,Tambour,Undirected,1
+Anna,Frøken Helts,Undirected,1
+Anna,Birgitte Ram,Undirected,1
+,Thies,Undirected,7
+Sekretair Thies,Thies,Undirected,1
+Sekretair Thies,lee,Undirected,1
+Thies,lee,Undirected,1
+Thies,loe,Undirected,1
+lee,loe,Undirected,1
+Jensen,Methodisf,Undirected,1
+,Graad,Undirected,1
+Graad,lee,Undirected,1
+Jensen,Methode,Undirected,1
+Jensen,lee,Undirected,1
+Holbergs,lee,Undirected,1
+Anna,Onkels,Undirected,1
+Anna,Thies,Undirected,4
+Thies,brava,Undirected,1
+Arien,Candidatus philosophiæ Jensen,Undirected,1
+Anna Giskra,Sekretair Thies,Undirected,1
+Anna,Rosinas,Undirected,1
+Anna Gisfra,Rask,Undirected,1
+Anna Gisfra,Jensen,Undirected,1
+Jensen,Rask,Undirected,4
+,Rask,Undirected,3
+Frøken Giskra,Jensen,Undirected,1
+,Madam Hansen,Undirected,1
+,Priis,Undirected,1
+Anna,Onkel Thies,Undirected,1
+Anna,Madam Hansen,Undirected,1
+Anna Giskra,Thies,Undirected,3
+,Annna Giskra,Undirected,1
+Beethoven,Jensen,Undirected,1
+Anna,Beethoven,Undirected,1
+Anna f.,Jensen,Undirected,1
+Frøken Giskra,Rask,Undirected,1
+Don Ranudo,Jensen,Undirected,1
+Anna Giskra,Rask,Undirected,1
+Hr. Jensen,Jensen,Undirected,2
+Anna,Vesf,Undirected,1
+Anna,Anna Giskra,Undirected,1
+Jensen,Piano,Undirected,1
+Anna,Hans“,Undirected,1
+Frøken Gisfra,Papa,Undirected,1
+,Cousine,Undirected,1
+Anna,Cousine,Undirected,1
+Anna,Hans,Undirected,6
+Hans,Philip,Undirected,1
+Anna,Philip,Undirected,1
+Hans,ilaas,Undirected,1
+Anna Giskra,Greven,Undirected,1
+Anna,Frøken Giskra,Undirected,1
+Grev Stürmers,Gyldenfalk,Undirected,1
+Gyldenfalk,Karlen,Undirected,1
+Anna,Karlen,Undirected,1
+Hr. von Gyldenfalk,lee,Undirected,1
+Gyldenfalk,lee,Undirected,1
+Gyldenfalk,itale,Undirected,1
+Gyldenfalk,Hr. Greve,Undirected,1
+Greven,Gyldenfalk,Undirected,2
+Gyldenfalk,Verts,Undirected,1
+Anna,Verts,Undirected,1
+Grev Stürmer,Gyldenfalk,Undirected,1
+Hr. von Gyldenfalk,Peltsen,Undirected,1
+Cæsars,Thies,Undirected,1
+,Punschen,Undirected,1
+Anna,Punschen,Undirected,1
+Anna,Aria,Undirected,2
+Aria,Jensen,Undirected,1
+,Frøken Giskra,Undirected,2
+Jensen,paasfod,Undirected,1
+Anna,Rask,Undirected,3
+Anna ,Jensen,Undirected,1
+,Anna ,Undirected,1
+Io,Jensen,Undirected,1
+Anna,Grosserer Rask,Undirected,1
+,Grosserer Rask,Undirected,1
+Anna,Paany,Undirected,2
+,Frøken Helt,Undirected,2
+Candidat Jensen,Hr. Jensen,Undirected,1
+Frøken Giskra,Papa,Undirected,2
+Anna,Cafée,Undirected,1
+Frøken Giskra,Grev Cellomani,Undirected,1
+Grev Cellomani,Papa,Undirected,1
+Hans,Jensen,Undirected,3
+Cellomani,Jensen,Undirected,5
+Cellomani,Giskra,Undirected,1
+Hans,Papa,Undirected,1
+Grev Cellomani,Jensen,Undirected,3
+Grev Cellomani,Violoncel,Undirected,1
+Jensen,Violoncel,Undirected,1
+Comtesse Giulia,Jensen,Undirected,4
+Anna,Comtesse Giulia,Undirected,2
+Anna,Comtessen,Undirected,2
+Cellomani,Comtesse Giulia,Undirected,1
+Cellomani,Grev Cellomani,Undirected,2
+Comtesse Ginlia,Jensen,Undirected,1
+Anna,Comtesse Ginlia,Undirected,1
+Anna,Grev Stürmer,Undirected,2
+Anna seent,Jensen,Undirected,1
+Grev Hans,Jensen,Undirected,1
+,Grev Hans,Undirected,2
+Anna,Grev Cellomani,Undirected,2
+,Cellomani,Undirected,2
+Aria,Greven,Undirected,1
+Anna,Hnn,Undirected,1
+Hnn,Jensen,Undirected,1
+Anna,Kunsfen,Undirected,1
+Jensen,Lebrun,Undirected,7
+Jensen,Portraitet,Undirected,1
+Monsieur Lebrun,Portraitet,Undirected,1
+,Mr. Lebrun,Undirected,1
+Jensen,Mr. Lebrun,Undirected,5
+,Grev Cellomani,Undirected,4
+,Comtesse Giulia,Undirected,1
+Comtesse Giulia,Papa,Undirected,1
+Comtesse Giulia,MarmorAmors,Undirected,1
+Luur,MarmorAmors,Undirected,1
+Anna,Giulia,Undirected,4
+Frøken Giskra,Greven,Undirected,1
+Anna,Publicums,Undirected,1
+,Hans,Undirected,3
+Comtessen,Hans,Undirected,1
+Comtessen,Jensen,Undirected,1
+General-Claqueurs,fro,Undirected,1
+Grev Cellomani,Hans,Undirected,1
+Comtesse Ginlia,Grev Cellomani,Undirected,1
+Comtesse Ginlia,Hans,Undirected,1
+Aria,Publicums,Undirected,1
+Aria,Hans,Undirected,1
+Giulia,Hans,Undirected,2
+Giulia,Orchester,Undirected,1
+Anna,Publicum,Undirected,2
+Anna,Anna“,Undirected,1
+Janhagel,Jensen,Undirected,1
+Janhagel,Lebrun,Undirected,1
+Claqueurs,Lebrun,Undirected,2
+Anna og,Jensen,Undirected,1
+Grev Stürmer,Lebrun,Undirected,1
+Dieu,Gud,Undirected,1
+Lebrun,Mr. Lebrun,Undirected,1
+Jensen,Roes,Undirected,1
+Anna“,Comtesse Ginlia,Undirected,1
+Hans,Lebrun,Undirected,2
+Grev Stürmer,Souverains,Undirected,1
+Anna Giskra,Grev Cellomani,Undirected,1
+Giulia,Grev Cellomani,Undirected,1
+Jensen,hiin,Undirected,1
+Anna,hiin,Undirected,1
+Anna,Isaafald,Undirected,1
+Donna Anna,Publicum,Undirected,1
+,Greven,Undirected,1
+Donna Anna,Sola,Undirected,1
+,Donna Anna,Undirected,1
+,alla mia pena,Undirected,1
+Jensen,alla mia pena,Undirected,1
+Anna,Kjære Jensen,Undirected,1
+Gud,kjære Jensen,Undirected,1
+Hans,Ieg,Undirected,1
+Ieg,sunr,Undirected,1
+Rask,Thies,Undirected,1
+Jensen-Giskra,Violoncellisl Jensen,Undirected,1
+Grev Cellomani,Jensen-Giskra,Undirected,1

@@ -1,0 +1,5 @@
+Id,Polarity,Polarity_normalized,Polarity_sentence,Polarity_sentence_normalized,Connections,Connections_normalized,Interactions,Interactions_normalized,Degree,Degree_normalized,Centrality,Centrality_normalized,Betweenness,Betweenness_normalized
+Clara,0,0,0,0,3,1.0,9,1.0,3,1.0,0.71,1.0,1.0,1.0
+hnn,0,0,0,0,1,0.0,2,0.0,1,0.0,0.41,0.0,0.0,0.0
+Engelen,0,0,0,0,1,0.0,5,0.43,1,0.0,0.41,0.0,0.0,0.0
+liun,0,0,0,0,1,0.0,2,0.0,1,0.0,0.41,0.0,0.0,0.0

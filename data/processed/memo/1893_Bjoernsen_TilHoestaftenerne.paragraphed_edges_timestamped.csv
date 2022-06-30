@@ -1,0 +1,758 @@
+source,target,timestamp
+,Miss,1
+hnn,tanles,4
+Therese,hnn,5
+allsaa,hnn,5
+Therese,allsaa,5
+Goutrai,Therese,6
+Mr. Goutrai,Therese,6
+Therese,hnn,7
+Therese,hnn,7
+Martino,Therese,7
+Therese,hnn,9
+Martino,Therese,9
+Martino,Therese,9
+Mr. Goutrai,Mrs.,13
+Mrs.,Vainn,13
+Hedvig,Hnn,14
+Hnn,hnn,14
+Mr. Goutrai,hnn,15
+Mrs.,Vainn,18
+Mr. Goutrai,Therese,20
+Orntia,Therese,20
+Therese,oni,21
+Therese,hnn,21
+Hedvig,hnn,22
+Therese,hnn,22
+Mr. Goutrai,Therese,22
+Goutrai,Therese,23
+Goutrai,Hedvig,23
+Hedvig,Therese,24
+Aldclsmand,S.,25
+Aldclsmand,bleu,25
+Mr. Goutrai,hnn,30
+Mr. Goutrai,Therese,30
+Therese,hnn,30
+Signora,Therese,31
+Hedvig,Signora,31
+Hedvig,Therese,31
+Hedvig,hnn,32
+Hedvig,Therese,33
+Guds,Therese,34
+Signora,Therese,34
+Hedvig,Therese,35
+Hedvig,Therese,35
+Birkegren,Hedvig,35
+Birkegren,Hedvig,35
+Hedvig,Therese,35
+Hedvig,Therese,35
+Hedvig,Therese,35
+Hedvig,Therese,35
+Hedvig,Signora,35
+Signora,hnn,35
+Hedvig,hnn,35
+Hedvig,Therese,36
+Therese,hnn,37
+Hedvig,Therese,37
+Clotilde,Hedvig,37
+Mrs.,Mrs. Kouthou,38
+Mrs.,Vainn,38
+Vainn,William,38
+Maggy,William,38
+Hedvig,Maggy,39
+Hedvig,Mr. Gontrai,39
+Maggy,hnn,40
+Maggy,Mr. Goutrai,40
+Maggy Kouthon,Mr. Goutrai,43
+Goutrai,nn,44
+Maggy,Monsieur,46
+Maggy,Mr. Goutrai,48
+Maggy,lkvilkaarlig,48
+Mr. Goutrai,lkvilkaarlig,48
+halvsov,hnn,49
+Mr. Goutrai,hnn,49
+Mr. Goutrai,Therese,49
+Monsieur,Therese,52
+Oren,Therese,53
+Jndkjøb,Mr. Goutrai,54
+Albergo,Jndkjøb,54
+Albergo,Monsieur,54
+Monsieur,Therese,54
+Mr. Goutrai,Mrs.,55
+Kouthous,Mrs.,55
+Kouthous,soni,55
+Mrs.,Therese,56
+Kouthon,Mrs.,56
+Clothilde,Therese,57
+Clothilde,Hedvig,57
+Hedvig,Hedvig intetsomhclst,57
+Hedvig intetsomhclst,Therese,57
+Clotilde,Therese,59
+Mrs.,ester,60
+Mrs.,Wainn,60
+Maggy,Wainn,60
+Maggy,Mr. Goutrai,60
+Mr. Goutrai,hnn,60
+Goutrai,hnn,60
+Goutrai,Therese,62
+. Kouthon,Therese,63
+Lekko,Therese,64
+Lekko,Therese,64
+Goutrai,Therese,64
+Goutrai,Martins,64
+Hedvig,Mr. Goutrai,66
+Mr. Goutrai,Therese,67
+Signora,Therese,67
+Hedvig,Signora,67
+Hedvig,hnn,67
+Mr. Goutrai,hnn,67
+Martin,Therese,69
+Therese,nore,69
+Therese,nore,69
+Therese,hnn,69
+Hedvig,Therese,70
+Clotilde,Therese,71
+Clotilde,selo,71
+Mr. Goutrai,selo,71
+Don Juan,Therese,75
+Madonna,Therese,75
+Therese,hnn,77
+Hedvig,Therese,78
+Therese,hnn,78
+Therese,hnn,80
+Therese,hnn,80
+Clotilde,Therese,80
+Mr. Goutrai,Therese,81
+Madonna,Mr. Goutrai,81
+Madonna,Monsieur,81
+Therese,soni,84
+Oren,Therese,86
+Oren,Therese,86
+Hedvig,Therese,87
+Guds,Hedvig,87
+Hedvig,hnn,88
+Therese,hnn,88
+Therese,ester,88
+Therese,ester,88
+Therese,Wgte,91
+Hedvig,Therese,96
+Lcingerberg,Therese,97
+Hedvig,Lcingerberg,97
+Hedvig,Therese,99
+Hedvig,Mr. Goutrai,101
+Hedvig,Mr. Kouthon,101
+Mr. Kouthon,TEgtemand,101
+TEgtemand,Therese,101
+Therese,glenit,101
+glenit,hnn,101
+Maggy,Therese,102
+Maggy,Therese,102
+Therese,hnn,102
+Therese,ester,103
+Padronas,Therese,103
+Hedvig,Padronas,103
+Hedvig,Maggy,103
+Hedvig,Maggy,103
+Hedvig,igjcnnem,103
+Signora,igjcnnem,103
+Bedstemoder,hnn,106
+Frands,Olufsen,107
+Jægermester Blum,Welgaard,109
+Fanny,hnn,110
+Olufsen,hnn,110
+Fanny,Olufsen,110
+Nøra,jø,115
+Nøra,hnn,115
+hnn,jø,115
+Gud,jø,115
+Fanny,Gud,115
+herøp,øm,116
+Frands,hnn,120
+H,Olnfsen,125
+H,Noras,125
+Nora,Noras,125
+Nora,syttenaars,127
+hnn,syttenaars,127
+Nora,hnn,127
+Nora,lille Nora,127
+Nora,Olufsen,130
+Blums,hnn,133
+hnn,oni,133
+Gud,Nora,135
+Caroline Reckes,Olufsen,144
+Beck,hnn,146
+Betty,Kaj,149
+Betty,Møller Becks,149
+Betty,Dorfs,150
+Kaj,Wanda Dorfs,152
+Kaj,Wandas,153
+Betty,Kaj,153
+Betty,Gud,153
+Gud,hnn,153
+Kaj,lille Bettys,154
+Betty,lille Bettys,154
+Faber,Møller Beck,156
+Faber,hans Karl,157
+Faber,hans Karl,157
+Ellen,Faber,157
+Frederik den 6te,mcnde,158
+Betty Mørck,Wanda Dorfs,159
+Betty Mørck,Wanda,159
+Christian den 8de,Faber,160
+Christian den 8de,Frederik,160
+Frederik,as,160
+Faber,as,160
+Faber,Mikkel,160
+Betty,Wanda,163
+Betty,Møllere,163
+Betty,Møllere,163
+Betty,Wanda,163
+Wanda,hnn,163
+Wanda,hnn,163
+Betty,Wanda,163
+Betty,Wanda,163
+Betty,Wanda,163
+Betty,hnn,163
+Betty,Wanda,164
+Frn Beck,Kaj,165
+Betty,Frn Beck,165
+Betty,Faber,166
+Betty,Faber,166
+Betty,Kaj,169
+Betty,paa-Wanda,169
+Wanda,paa-Wanda,169
+Betty,Wanda Dorfs,173
+Betty,Wanda Dorfs,173
+Dorfs,Wanda Dorfs,173
+Dorfs,Jfjor,173
+Jfjor,Wanda,173
+Møllers,Wanda,173
+Gud,Møllers,173
+Betty,Gud,175
+Gud,Kaj,175
+Gud,Onskers,176
+Betty,Gud,176
+Betty,Wanda,176
+Wanda,hnn,176
+Kaj,hnn,176
+Betty Mørck,Kaj,176
+Betty Mørck,Kaj,176
+Gud,Kaj,177
+Gud,Ivan,180
+Dn,Ivan,180
+Gud,ester,181
+Gud,fil,181
+N. N.,Præsf,182
+Ivan,N. N.,182
+Ivan,N. N.,182
+Ivan inderlig,N. N.,182
+Ivan,Ivan inderlig,182
+Gud,Ivan,182
+Ivan,Ivan nn,183
+Eva,Ivan,183
+Eva,Ivan,183
+Eva,Ivan,183
+Eva,Ivan,183
+Eva,Ivan,183
+Engelst,Ivan,184
+Ivan,hnn,184
+Ivan,hnn,185
+Gud,hnn,185
+Eva,Gud,185
+Burns,Eva,185
+Burns,hnn,185
+Ivan,hnn,185
+Eva,Ivan,186
+Ivan,N. N.,187
+Ivan,N. N.,187
+Eva,N. N.,187
+Gud,Ivan,188
+Gud,Minervas,188
+Minervas,N. N.,188
+,N. N.,188
+Eva,Ivan,190
+Adams,Eva,190
+Adams,Eva,190
+Eva,Ivan,190
+Ivan,hnn,190
+Ivan,hnn,190
+Eva,Ivan,191
+Eva,Ivan,193
+Eva,Ivan,193
+Eva,Ivan,193
+Eva,Hain,193
+Hain,Ivan,193
+Eva,Ivan,193
+Eva,Ivan,193
+Eva,Ivan,193
+Eva,Ivan,194
+Gud,Ivan,195
+Christian Geertz,Knob,197
+Christian Geertz,Knob,197
+Knob,Svend,197
+Knob,Svend,197
+Ingeborg,Knob,197
+Geertz,Ingeborg,197
+Geertz,Principals,197
+Dn,Geertz,201
+Geertz,Ore,202
+Knob,Ore,202
+Geerkz,Knob,202
+Geerkz,Knob,202
+Geerkz,Ingeborg,203
+Geertz,Ingeborg,205
+Gud,Ingcborgs,207
+Iver,Knob,208
+Ingeborg,Iver,208
+Geerkz,Ingeborg,208
+Dn,Geerkz,209
+Geerkz,Knob,211
+Geerkz,sif,212
+Storni,sif,212
+Christian Geerkz,Storni,212
+Christian Geerkz,Peter,212
+Christian,Christian Geertz,215
+Chrisfian,Peter,217
+Chrisfian,Peter,217
+Chrisfian,Peter,217
+Chrisfian,Peter,217
+Hjort,Peter,217
+Geertz,Peter,218
+Chrisfian,Peter,218
+Christian,Principal,219
+Christian,Principal,219
+Christian Geertz,Knob,221
+Geertz,Knob,221
+Geertz,nn,221
+Geerkz,Ingeborg,223
+Geerkz,Ingeborg,223
+Geerkz,Ingeborg,224
+Dn,Geertz,225
+Dn,Ingeborg,225
+Geertz,Madam Knobs,226
+Geertz,Madam Knobs,226
+Geertz,Madam,226
+Gud,Ingeborg,227
+Gud,Ingeborg Geertz,227
+Ingeborg Geertz,hair,227
+Geertz,Knob,228
+Geertz,Knob,228
+Geertz,ester,229
+Principal,ester,229
+Ingeborg,Principal,229
+Knob,Madam Knob,230
+Ingeborg,Madam Knob,230
+Gud,Ingeborg,230
+Geertz,Gud,230
+Knob,Madam Knob,232
+Ingeborg,Madam Knob,232
+Geertz,Ingeborg,232
+Geertz,Ingeborg,232
+Geertz,Ingeborg,233
+Geertz,Oren,233
+Geertz,Ingeborg,234
+Geertz,Ingeborg,234
+Geerkz,Ingeborg,237
+Ingeborg,hnn,239
+Knob,Madam,240
+Geerkz,Knob,240
+Geerkz,Madam,240
+Knob,Madam,240
+Geerkz,Knob,240
+Geerkz,Hjort,240
+Geerkz,Hjort,240
+Geerkz,Herman Bakke,240
+Herman Bakke,Principalens,240
+Geerkz,Principalens,240
+Geerkz,Herman,240
+Geerkz,Herman,240
+Geerkz,Ingeborg,240
+Geertz,Ingeborg,240
+Geertz,Ingeborg,242
+Ingeborg,hnn,242
+Geertz,Ingeborg,243
+Ingcborgs,Ingeborg,243
+Geertz,Madam Knob,244
+Geerkz,Ingeborg,245
+Geerkz,Ingeborg,245
+Geerkz,Madam Knob,245
+Geerkz,Madam Knob,245
+Geerkz,Ingeborg,245
+Ingeborg,hnn,245
+Ingeborg,hnn,245
+Herman,Ingeborg,245
+Herman,Ingcborgs,245
+Geerkz,Ingcborgs,246
+Geerkz,Ingcborgs,246
+Geerkz,Herman,246
+Geerkz,Herman,246
+Geerkz,Ingeborg,246
+Geerkz,Peter,249
+Geertz,Ingeborg,250
+Ingeborg,Madam Knob,250
+Geertz,Madam Knob,250
+Geertz,ester,250
+Madam Knob,ester,250
+Geertz,Madam,251
+Madam,hnn,251
+Ingeborg,hnn,251
+Geerkz,Ingeborg,251
+Bakkes,Geerkz,251
+Bakkes,Geerkz,251
+,Geerkz,252
+,Svend,252
+Madam,Svend,252
+Geertz,Madam Knob,253
+Ingeborg,Madam Knob,254
+Ingeborg,hnn,254
+Madam Knob,hnn,255
+Geertz,Ingeborg,256
+Geerkz,Ingeborg,257
+Geerkz,Ingeborg,257
+Geerkz,taabeligc,260
+Geerkz,taabeligc,260
+Geerkz,Ingeborg,261
+Ingeborg,hnn,262
+Dn,Ingeborg,262
+Dn,Gnds,262
+Geerkz,Ingeborg,263
+Hjort,Ingeborg,263
+Geerkz,Hjort,263
+Ingeborg,hnn,265
+Geerkz,hnn,265
+Geerkz,Herman Bakke,265
+Herman Bakke,nn,265
+Geertz,Ingeborg,266
+Ingeborg,Madam Knob,266
+Herman,Ingeborg,267
+Herman,Ingeborg,267
+Herman,hnn,267
+Geerkz,hnn,267
+Ester,Geerkz,267
+Ester,Herman,267
+Geerkz,Herman,267
+Geerkz,Herman,268
+Geerkz,Ingeborg,269
+Herman,Ingeborg,269
+Herman,Ingeborg,269
+Hcrmans,Ingeborg,269
+Geerkz,Hcrmans,269
+Herman,Ingeborg,271
+Geertz,hnn,274
+Herman,Ingeborg,275
+Geertz,Ingeborg,275
+Assked,Herman,276
+Assked,Ingeborg,276
+Geertz,Ingeborg,277
+Herman,Ingeborg,277
+ester,hnn,278
+Gud,hnn,278
+Gud,Herman,278
+Herman,Ingeborg,279
+Geertz,Herman,280
+Herman,Ingeborg,280
+Ingeborg,naben,280
+Dn,Ingeborg,283
+Dn,Gud,283
+Herman,Ingeborg,284
+Herman,Ingeborg,284
+Herman,Ingeborg,284
+Herman,Ingeborg,284
+Ingeborg,Oren,284
+Herman,Ingeborg,285
+Geertz,Herman,285
+Geertz,Hjort,285
+Hjort,hans,285
+Herman,Ingeborg,287
+Geerkz,Hjort,291
+Hjort,Ingeborg,291
+Geertz,Ingeborg,291
+Ingeborg,Madam Knob,292
+Ingeborg,hnn,292
+Geerkz,hnn,292
+Geerkz,Jakob,292
+Jakob,Rachcl,292
+Jakob,Laban,294
+Geerkz,Ingeborg,298
+Geerkz,hnn,299
+Geerkz,hnn,299
+Ingeborg,Madam Knob,302
+Herman,Ingeborg,302
+Geertz,Herman,302
+Geertz,Ojncne,302
+Herman,fr. —,303
+Geertz,fr. —,303
+Geertz,Herman,304
+Geerkz,Ingeborg,306
+Geerkz,Herman,307
+Geertz,Præsfen,309
+Geertz,Gud,311
+Geerkz,Madam Knob,315
+Hain,Madam Knob,315
+Hain,Ingeborg,315
+Geertz,Madam,316
+Ingeborg,Madam Knob,317
+Geertz,Ingeborg,317
+Geertz,Herman,318
+Geertz,Ingeborg,318
+Dn,Ingeborg,321
+Geertz,Herman,322
+Geertz,Herman,323
+Herman,Ingeborg,324
+Geertz,Ingeborg,324
+Geertz,Graad,326
+Geertz,Hjort,326
+Geertz,Hjort,326
+Geertz,Ingeborg,326
+Hjort,Ingeborg,326
+Hjort,Svend derfra,326
+Herman,Svend derfra,326
+Herman,Madam Knob,326
+Herman,Ingeborg,327
+Geertz,Ingeborg,327
+Ester,Geertz,328
+Geertz,Herman,328
+Geertz,Madam Knob,330
+Geertz,Ingeborg,330
+Herman,Ingeborg,330
+Geertz,Herman,330
+Geertz,Hjort,330
+Geertz,Roes,333
+Ingeborg,Roes,333
+Oren,ester,336
+Laud,Oren,336
+Ol,Peter,340
+Absalons,Lawrenz,344
+Kjuc,Lawrenz,346
+Lawrenz,Lawreuz,349
+Lawrenz,Lawreuz,349
+Aitza,Lawrenz,349
+Arne,Lawrenz,350
+Kejsers,Lawrenz,350
+Grethe,Petronelle,354
+Caspar,Grethe,361
+Caspar,assted,361
+Grethe,hnn,363
+Grethe,hnn,363
+Oxes,Thomsens,368
+Ole,Thomsens,368
+Ole,oni,368
+Ole,oni,368
+Martha,Thomsen,369
+Martha,Ole,370
+Hulda,Martha,371
+Hulda,ester,372
+Martha,Thomsen,373
+Martha,Thomsen,373
+Martha,Thomsen,373
+Martha,hnn,373
+Martha,hnn,373
+Martha,hnn,373
+Martha,Thomsen,374
+Martha,hnn,374
+hnn,nied,374
+Hulda,nied,374
+Hulda,Martha,374
+Martha,Thomsen,374
+Martha,Thomsen,374
+Martha,lille Hulda,374
+hnn,lille Hulda,374
+Ole,hnn,374
+Carl,Ole,374
+Carl,Martha,374
+Martha,Thomsen,374
+Carl,Thomsen,374
+Carl,Thomsen,375
+Carl,Thomsen,375
+Hr. Schmidt,Hulda,376
+Hr. Schmidt,Thomsen,376
+Hr. Schmidt,Thomsen,376
+Hr. Schmidt,lille Hulda,376
+Hr. Schmidt,lille Hulda,376
+Hr. Schmidt,Thomsen,376
+Carl,Thomsen,376
+Carl,Hulda,376
+Hr. Schmidt,Martha,377
+Hr. Schmidt,Thomsen,377
+Martha,Thomsen,377
+Martha,hnn,377
+Martha,lille Hulda,378
+Thomsen,lille Hulda,378
+Martha,Thomsen,378
+Hulda,Martha,378
+Hulda,Martha,378
+Madam,Martha,381
+Madam,lille Hulda,381
+Thomsen,lille Hulda,381
+Frn Hallers,Thomsen,381
+Frn Hallers,Martha,381
+Martha,Ore,381
+Gud,Ore,381
+Hulda,Madam Thomsen,382
+Gud,Martha,383
+Hulda,Martha,385
+Hulda,hnn,385
+Hain,hnn,385
+Martha,Thomsen,388
+Martha oni,Thomsen,389
+Carl,Martha oni,389
+Carl,Ole,389
+Carl,Martha,391
+Martha,lille Hulda,392
+Martha,lilles,392
+Thomsen,lilles,392
+Martha,Thomsen,392
+Martha,as Hulda,392
+Thomsen,as Hulda,392
+Hulda,Thomsen,392
+Hulda,Martha,393
+Hulda,Martha,393
+Hulda,Martha,393
+Hulda,Martha,393
+Hulda,Madam Nielsen,393
+Madam Bech,Martha,396
+Hulda,Martha,396
+Madam Bech,Ole,398
+Hulda,Martha,400
+Hulda,Pukkelline,401
+Carl,lille Hulda,405
+Carl,Hulda,405
+Haller,ester,409
+Hulda,ester,409
+Hulda,Martha,409
+Hnlda,Hulda,410
+Hnlda,Hulda,410
+Hulda,Schawlel,411
+Schawlel,lille Hulda,411
+Schawl,lille Hulda,411
+Hulda,Schawl,411
+Gud,Hulda,412
+Gud,Hulda,414
+Gud,Hulda,416
+Frn Haller,Hulda,418
+Gud,Hulda,420
+Hulda,Olaf,422
+Hulda,Olaf,422
+Martha,Thomsen,423
+Gud,Hnlda,426
+Hulda,Martha,428
+Hulda,Martha,430
+Hulda,Olaf,432
+Jawa,Olaf,432
+Jawa,felv,432
+Jawa,felv,432
+Gud,Jawa,432
+Olaf,øg,435
+Gud,Martha,437
+Gud,Hulda,437
+Haller,Hulda,437
+Haller,Hulda,437
+Gud,Hulda,439
+Gud,Hnlda,439
+Hulda,Mette Anders,440
+Hulda,Olaf,441
+Hulda,Mette,442
+Mette,Olaf,442
+Hulda,Olaf,442
+Gud,Olaf,443
+Hulda,Olaf,443
+Hnlda,Hulda,443
+Hnlda,hnn,443
+Hulda,hnn,443
+Hulda,Olaf,443
+Hulda,Olaf,443
+Hulda,Olaf,446
+Hulda,Olaf,447
+Hulda,Olaf,447
+Hulda,Olaf,447
+Hnn,Hulda,447
+Hnn,Hulda,447
+Hulda,soer Olaf,448
+Hulda,Olaf,451
+Hulda,Olaf,451
+Hulda,Olaf,451
+Jawa,Olaf,451
+Hulda,Jawa,451
+Hulda,nn,451
+Hulda,nn,451
+Olaf,selo,454
+Lille Hnlda,selo,454
+Hulda,Olaf,455
+Hulda,Olaf,455
+Hulda,ester,456
+Mathed,ester,456
+Mathed,Olaf,456
+Huldal,Olaf,456
+Hulda,Olaf,460
+Esterat,Olaf,460
+Esterat,Hulda,460
+Hulda,Olaf,461
+Hulda,Olaf,463
+Hulda,Olaf,464
+Hulda,Olaf,464
+Hulda,Olaf,465
+Hulda,Olaf,465
+Gud,Hulda,467
+Gud,Hulda,467
+Hulda,Olaf,469
+Hulda,Olaf,469
+Hulda,Olaf,470
+Hulda,Olaf,470
+Hulda,Olaf,471
+Frn Haller,Hulda,471
+Frn Haller,Hulda,471
+Hulda,Martha,472
+Hnlda,Martha,473
+Hnlda,Olaf,473
+Martha,Olaf,473
+Hulda,Martha,473
+Hulda,Olaf,474
+Hulda,oni,480
+ester,oni,480
+Olaf,ester,480
+Gud,Olaf,480
+Gud,Hulda,480
+Hulda,hnn,481
+Hulda,Olaf,483
+Hnlda,hans,484
+Hnlda,Olaf,484
+Martha,Olaf,484
+Gud,Hulda,485
+Gud,Hulda,486
+Dn,Martha,491
+Gitte,Karls,495
+Karls,hnn,495
+Margrethe,hnn,495
+Poulsen,soni,496
+Karl,Madam Poulsen,501
+Gud,Madam Poulsen,503
+Karl,Madam Poulsen,503
+Margrethe,Steimans,504
+Karl,Margrethe,505
+Karl,Steimans,505
+Karl,Steimans,505
+Karl,Poulsen,506
+Margrethe,Poulsen,512
+Høsts,Margrethe,513
+Margrethe,soni,513
+Margrethe,Poulsen,516
+Margrethe,Ore,518
+Margrethe,ester,519
+Margrethe,hnn,520
+Lau llo OoloAve,hnn,521
+Karl,oni,523
+Margrethe,oni,523
+Madam Poulsen,Margrethe,523
+Dein,Margrethe,525
+Høst,Madam Poulsen,528
+Madam Poulsen,Margrethe,528
+Madam Poulsen,Margrethe,528
+Høst,Madam Ponlsen,529
+Hnn,hnn,533
+Margrethe,Poulsen,536
+Madam Poulsen,Margrethe,536
+Madam Poulsen,Poulsen,536
+Høst,Karl,537
+Høst,Margrethe,537
+Margrethe,nied,537
+Poulsen,nied,537

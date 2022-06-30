@@ -1,0 +1,209 @@
+source,target,type,weight
+Alan,Bjørn,Undirected,1
+Bjørn,Rosenkrantz,Undirected,14
+Grev Brahe,Rosenkrantz —,Undirected,1
+Herr Bjørn,Rosenkrantz —,Undirected,1
+Eleonora,Rosenkrantz,Undirected,5
+Eleonora,Svend Brahe,Undirected,1
+Aage,Rosenkrantz,Undirected,1
+Bjørn,Brahe,Undirected,4
+Bjørn,Komtessen,Undirected,2
+Bjørn,Herr Bjørn,Undirected,1
+Rosenkrantz,paany,Undirected,2
+Komtessen,paany,Undirected,1
+Grev Brahe,Komtessen,Undirected,2
+Rosenkrantz,Stefan,Undirected,1
+Rosenkrantz,Svend Brahe,Undirected,2
+Garben,Svend Brahe,Undirected,3
+Brahe,Garben,Undirected,1
+Brahe,Nils,Undirected,1
+Grevens,Nils,Undirected,1
+Eleonora,Grevens,Undirected,1
+Eleonora,Svend,Undirected,9
+Eleonora,Nils Garben,Undirected,2
+Eleonora,Nils,Undirected,6
+Nils,lille Eleonora,Undirected,1
+Grevens,Nils Garben,Undirected,1
+Garben,Svend,Undirected,4
+Aage Rosenkrantz,Eleonora,Undirected,1
+Garben,Grev Brahe,Undirected,1
+Grev Brahe,Komtesse Brahe,Undirected,1
+Bjørn,Figaro,Undirected,1
+Bjørn,Svend Brahe,Undirected,1
+Bjørn,Lordens,Undirected,1
+Grev Brahe,Lordens,Undirected,1
+Bjørn,Komtesse Brahe,Undirected,7
+Bel-Elil,Komtesse Brahe,Undirected,1
+Bel-Elil,Eleonora,Undirected,1
+Goethe,Shakespeare,Undirected,1
+Bjørn,Shakespeare,Undirected,1
+Rosenkrantz,Sten Ebbesen,Undirected,2
+Bjørn,Eleonora,Undirected,21
+Bjørn,Napoleon,Undirected,1
+Baron Falks,Billes,Undirected,1
+Aage,Eleonora,Undirected,2
+Bjørn,Eleonora Brahes,Undirected,1
+Bjørn,Sten Ebbesen,Undirected,1
+Bjørn,Eleonora Brahe,Undirected,1
+Eleonora Brahe,Frøken Hassel,Undirected,1
+Estrup,Rosenkrantz,Undirected,1
+Lord Wellington,Rosenkrantz,Undirected,1
+Brahe,Rosenkrantz,Undirected,1
+Alma,Rosenkrantz,Undirected,1
+Emmy,k j,Undirected,1
+Brahe,Olaf,Undirected,1
+Emmy,Kjære,Undirected,3
+Fars,Olaf,Undirected,1
+Baronesse Rosenkrantz,Sten Ebbesen,Undirected,1
+Emmy,Olaf,Undirected,1
+Katharina,Komtessen,Undirected,1
+Eleonora,Komtessen,Undirected,1
+Max,Tom,Undirected,2
+Bjørn,Max,Undirected,1
+Bjørn,Robbert,Undirected,1
+Gorilla,Herr Kurt,Undirected,1
+Else,Herr Kurt,Undirected,1
+Davar,Else,Undirected,2
+Else,Kurt,Undirected,4
+Kurt,Peter,Undirected,2
+Else,Peter,Undirected,2
+Goethe,Schiller,Undirected,1
+Bjørn,Odin,Undirected,1
+Bjørn,paany,Undirected,1
+Holbergs,Oehlenschlågers mægtige Statuer,Undirected,1
+Frøken Petersen,Judic,Undirected,1
+Bjørn,Thorvaldsen,Undirected,1
+Absalon,Valdemar Atterdag,Undirected,1
+Eleonora Kristine Ulfeldt,Valdemar Atterdag,Undirected,1
+Eleonora Kristine Ulfeldt,Sofie Magdalene,Undirected,1
+Holberg,Oehlenschlåger!,Undirected,1
+Bjørn,Grev Brahe,Undirected,2
+Leonora d'Este,Tassos,Undirected,1
+Donna,Leonora d'Este,Undirected,1
+Donna,per cui trionfa Amore e regna Merti ben tu,Undirected,1
+che il capo a te circonde Nobil corona,per cui trionfa Amore e regna Merti ben tu,Undirected,1
+che il capo a te circonde Nobil corona,cui tanto onor convegna,Undirected,1
+Ariosto,Isabella Gonzaga,Undirected,1
+Dopo mio,mia lunga fede,Undirected,1
+mia lunga fede,sospiri ed ore tetre,Undirected,1
+Deh sera mai che la Madonna impetre Al mio leal servir degna mercede,sospiri ed ore tetre,Undirected,1
+Baron Falkenbergs,Montambert,Undirected,1
+Elna,Frederik,Undirected,5
+Frederik,Robinson Kruses,Undirected,1
+Elna,Robinson Kruses,Undirected,1
+Frederik,Sten Ebbesen,Undirected,1
+Alan,Sten Ebbesen,Undirected,1
+Elna,paany,Undirected,1
+Emmy,Svend,Undirected,4
+Frøken Hassel,Grev Brahe,Undirected,1
+Sten Ebbesen,Svend,Undirected,1
+Herr Petersens,Svend,Undirected,1
+Svend,lian,Undirected,1
+Eleonora,Komtesse Brahe,Undirected,3
+Rosenkrantz,Rosenskov,Undirected,1
+Aage,Rosenskov,Undirected,1
+Lady Wellingtons,Svend Brahe,Undirected,1
+Greven,Lorden,Undirected,1
+Sten Ebbesen,Svend Brahe,Undirected,1
+Lady Wellington,Sten Ebbesen,Undirected,2
+Frøken Hassel,Svend,Undirected,2
+Alma,Frøken Hassel,Undirected,1
+Greven,Lady Wellington,Undirected,1
+Frøken Hassel,Greven,Undirected,1
+Ladien,pilsnart,Undirected,1
+Beatrice,Mama,Undirected,1
+Beatrice,Lady Wellington,Undirected,1
+Frederik den Femtes,Kristian den Syvendes,Undirected,1
+Eleonora Brahe,Sten Ebbesen,Undirected,1
+Alma Sten Ebbesen,Rosenkrantz,Undirected,1
+Baronesse Rosenkrantz,Grev Brahe,Undirected,1
+Karoline Amalie,Kristian,Undirected,1
+Komtesse Brahe,Rosenkrantz,Undirected,1
+Egtefælle,Greven,Undirected,1
+Brahe,Egtefælle,Undirected,1
+Rosenkrantz,Svend,Undirected,2
+Beatrice,Herr Greve,Undirected,1
+Emmy,Far,Undirected,1
+Svend Brahe,Valdemar,Undirected,1
+Marie,Svend Brahe,Undirected,1
+Lady Wellington,Svend,Undirected,1
+Kotillon,Rosenkrantz —,Undirected,1
+Alma,Rosenkrantz —,Undirected,1
+Eleonora Brahe,Rosenkrantz,Undirected,1
+Bjørn,Greven,Undirected,5
+Bjørn,Frederik den,Undirected,1
+Emmy,Gutten,Undirected,1
+Joo,Svend,Undirected,1
+Lord Wellington,Svend,Undirected,2
+Egte,Greven,Undirected,1
+Bjørn,Egte,Undirected,1
+Greve,Niels Garben,Undirected,1
+Garben,Niels Garben,Undirected,1
+Eleonora,Svend —,Undirected,1
+Eleonora,Garben,Undirected,2
+Alen Garben,Svend,Undirected,1
+Far,Svend,Undirected,2
+Svend,Wedel,Undirected,2
+Dr. Wedel,Garben,Undirected,1
+G. Wedel,Stefan Brahe,Undirected,1
+Garben,Garben —,Undirected,1
+Grev Brahe,Svend Brahe,Undirected,2
+Greven,Gud,Undirected,1
+Aage,Bjørn,Undirected,1
+Brønrved,Dia KHokihom,Undirected,1
+Brønrved,Ifårallrøs,Undirected,1
+jomm,jraa,Undirected,1
+cg,jraa,Undirected,1
+Tnaqjupæm,cg,Undirected,1
+.“dka,Bjørn tffl,Undirected,1
+.“dka,sgeEtanm,Undirected,1
+fertffi dun,jjæg,Undirected,1
+jjæg,tam,Undirected,1
+jjæg,rmiim figne,Undirected,1
+EfeomsHra,rmiim figne,Undirected,1
+EfeomsHra,mdlbrod,Undirected,1
+mdlbrod,tam,Undirected,1
+Bram,tam,Undirected,1
+Bram,anne Amnrø,Undirected,1
+Hum.,JJa,Undirected,1
+Eleonora,Flun,Undirected,1
+Dagi,Grev Brahe,Undirected,1
+Smith,Wedel,Undirected,1
+Brahe,Smith,Undirected,1
+Eleonora,Greven,Undirected,1
+Greven,sofh,Undirected,1
+Komtessen,Sinith,Undirected,1
+Bjørn,Gud,Undirected,1
+Brahe,Grev Brahe,Undirected,1
+Alen,Brahe,Undirected,1
+Bjørn,Stefan Brahe,Undirected,1
+Katharina,Komtesse Brahe,Undirected,1
+Bjørnson,Kong Oscars,Undirected,1
+Estrup,Kong Oscars,Undirected,1
+Bjørn,lovte,Undirected,1
+Smith,Stefan Brahe,Undirected,1
+Katharina,Orlof,Undirected,1
+Bjørn,Far,Undirected,1
+Amalie,Rosenkrantz,Undirected,1
+Amalie,Brahe,Undirected,1
+Falbe,Karlsbad,Undirected,1
+Eleonora,Falbe,Undirected,1
+Falbe,Hr. Falbe,Undirected,1
+Greven,Piensyn,Undirected,1
+Greven,Smith,Undirected,1
+Brahe,Niels,Undirected,1
+Greven,Svend,Undirected,1
+Niels,Svend,Undirected,1
+Brahe,Komtesse Brahe,Undirected,1
+Niels,slaa Entrédøren,Undirected,1
+Garben,Niels,Undirected,1
+Frøken Hassel,Sten Ebbesen,Undirected,1
+Eleonora,Frøken Hassel,Undirected,1
+Rosenkrantz,Son,Undirected,1
+Eleonora,Grev Brahe,Undirected,1
+Eleonora,Herr Bjørn,Undirected,1
+Lady Wellington,svarte,Undirected,1
+Beatrice,Lord Wellington,Undirected,1
+Greven,Komtesse Brahe,Undirected,1
+Brahe,paany,Undirected,1
+Bjørn,Nielsen,Undirected,2

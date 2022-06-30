@@ -1,0 +1,99 @@
+source,target,type,weight
+Martine,Tante Martines,Undirected,1
+Døttre,Guds,Undirected,1
+Døttre,Martine,Undirected,1
+Christians,Martine,Undirected,1
+Lise,Martine,Undirected,2
+Gud,øg,Undirected,1
+Gud,Martine,Undirected,3
+Martine,øg,Undirected,1
+Christian,Lise,Undirected,6
+Christian,Martine,Undirected,1
+Karethen,Lise,Undirected,1
+Gud,Rikke,Undirected,1
+Fader,Rikke,Undirected,1
+Gud,Torstensen,Undirected,1
+def,ifjor,Undirected,1
+Martine,ifjor,Undirected,1
+Henrik,lille Jens Hansen,Undirected,1
+Jens Hansen,Lise,Undirected,1
+Henrik,Jens Hansen,Undirected,1
+Fader,Moder,Undirected,2
+Christian,Fader,Undirected,8
+Christian,Moder,Undirected,3
+Christian,sfal,Undirected,1
+Fader,Madam Hansen,Undirected,1
+Gud,Moder,Undirected,2
+Martine,Torstensen,Undirected,2
+Fader,Gud,Undirected,1
+Torstensen,hnn,Undirected,1
+Martine,ester,Undirected,1
+Chrisfian,Rose,Undirected,3
+Chrisfian,elsiede,Undirected,1
+Christian,Rose,Undirected,14
+Lise,froer,Undirected,1
+Christian reisfe,Lise,Undirected,1
+Lise,Torstensen,Undirected,1
+Gud,Steen,Undirected,1
+Gud,Madam Hansen,Undirected,1
+Madam Hansen,sfal,Undirected,1
+Rose,sfal,Undirected,1
+Gud,Rose,Undirected,1
+Moder,Tante Martines,Undirected,1
+Christian,Inuci,Undirected,1
+Rose,voxen,Undirected,1
+Rose,lille Rose,Undirected,1
+Christian,lille Rose,Undirected,1
+Christian,ester,Undirected,2
+Christian,lille Lise,Undirected,1
+Gud,lille Lise,Undirected,1
+Gud,Lise,Undirected,1
+Christian,Gud,Undirected,6
+Rose,hnn,Undirected,1
+Lise,hnn,Undirected,1
+Herr Torstensen,Rose,Undirected,1
+Fischer,Rose,Undirected,2
+Fischer,Søgaard,Undirected,1
+Fischer,Oncle,Undirected,1
+Madam Hansen,Rose,Undirected,2
+Gud,flee,Undirected,1
+Christian,Sophus,Undirected,4
+Jacob,Rachel,Undirected,1
+Brudgoms,Christian,Undirected,1
+Brudgoms,Søgaard,Undirected,1
+Sophus,bun,Undirected,1
+Lise,bun,Undirected,1
+Lise,Sophus,Undirected,1
+Oncle,Rikke,Undirected,1
+Mathias,Oncle,Undirected,1
+Cousine Lise,Mathias,Undirected,1
+Cousine Lise,Rose,Undirected,1
+Torstensen,sidsf,Undirected,1
+Lise,Rose,Undirected,1
+Christian,Doctoren,Undirected,1
+Lise,lee,Undirected,1
+Gud,lee,Undirected,1
+Frederikke Cathrine Torstensen,Gud,Undirected,1
+Anna,Sophus,Undirected,1
+Marie,Sidsfe,Undirected,1
+Rose,tilfældigviis,Undirected,1
+Sophus Fischers,tilfældigviis,Undirected,1
+Rose,Sophus Fischers,Undirected,1
+Oncle,fransf Bonne,Undirected,1
+Hnn,fransf Bonne,Undirected,1
+Hnn,Sophus,Undirected,1
+Rose,Sophus,Undirected,1
+Pastorens,reisfe,Undirected,1
+Adieu,Gud,Undirected,1
+Fader,Henrik,Undirected,1
+Gud,Marie,Undirected,1
+Marie,øg,Undirected,1
+Herr Fischer,Peer,Undirected,2
+Ole,Peer,Undirected,1
+Ole,Peer Nees,Undirected,1
+Rose,reisfe vi,Undirected,1
+Marie,Rose,Undirected,1
+Martine,hnn,Undirected,1
+Carl,Christian,Undirected,1
+Bastbaand,Rose,Undirected,1
+Gud,Roes,Undirected,1

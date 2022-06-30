@@ -1,0 +1,91 @@
+source,target,type,weight
+Elisabeth,gud,Undirected,2
+Elisabeth,fru Våge,Undirected,1
+Finn,Våge,Undirected,11
+Elisabeth,Finn,Undirected,23
+Elisabeth,nevrasteni,Undirected,1
+Elisabeth,mama,Undirected,1
+Marie,Våge,Undirected,1
+Annie Hauge,Annie Thomsen,Undirected,1
+Annie,gud,Undirected,1
+Elisabeth,Våge,Undirected,14
+Daae bode,Våge,Undirected,1
+Daae,Daae bode,Undirected,1
+Elisabeth,monsieur Finn,Undirected,1
+Monsieur,papa,Undirected,1
+Elisabeth,papa,Undirected,1
+Elisabeth,da,Undirected,1
+da,hr. Vage,Undirected,1
+Daae,Elisabeth,Undirected,12
+Finn,papa,Undirected,1
+Daae,Våge,Undirected,7
+Finn,vort,Undirected,1
+Finn,Piccolo,Undirected,1
+Finn,Fritz,Undirected,3
+Annie,Finn,Undirected,23
+Annie,lille Annie,Undirected,1
+Annie,Daae,Undirected,3
+Daae,briljant,Undirected,1
+Flun,Våge,Undirected,1
+Finn,Flun,Undirected,2
+Annie,Elisabeth,Undirected,1
+Finn,Hauge,Undirected,8
+Annie,fru Våge,Undirected,1
+Elisebeth,Hauge,Undirected,1
+Finn,Flan,Undirected,2
+Finn,Gud,Undirected,1
+Annie,tramped,Undirected,1
+Elisabeth,Hauge,Undirected,1
+-Daae,Våge,Undirected,1
+-Daae,Elisabeth,Undirected,1
+Annie,Våge,Undirected,1
+Finn —,Finnl,Undirected,1
+Finn,Stakkers,Undirected,1
+Elisabeth,Stakkers,Undirected,1
+Flun,Hauge,Undirected,1
+Hauge,Kanske,Undirected,1
+Finn,Kanske,Undirected,2
+Daae,Hauge,Undirected,3
+mama,papa,Undirected,1
+Arthur Ottesen,Finn,Undirected,1
+Arthur,Arthur hode,Undirected,1
+Arthur hode,Finn,Undirected,1
+Finn,Ottesens,Undirected,1
+Finn,Ottesen,Undirected,17
+Flan,Ottesen,Undirected,1
+Finn vågned,hr. Ottesen,Undirected,1
+Ottesen,Våge,Undirected,1
+Ottesen,bent,Undirected,1
+Finn,servanten,Undirected,1
+Ottesen,servanten,Undirected,1
+Elisabeth,Fru Våges,Undirected,1
+Daae,Guttens,Undirected,1
+Finn,Lians,Undirected,1
+Ottesen,hu,Undirected,1
+Annie,Flan,Undirected,1
+Annie,Fritz,Undirected,1
+Fritz,tess,Undirected,1
+Finn,tess,Undirected,1
+gud,herren,Undirected,1
+Annie pludred,Finn,Undirected,1
+Annie,Hauge,Undirected,2
+Annie,Annie —,Undirected,1
+Annie,hans,Undirected,1
+Daae,kafeens,Undirected,2
+Finis,Finn,Undirected,1
+Daae,Finn,Undirected,1
+Hansen,glubsk,Undirected,1
+Fritz Thomsens,lord,Undirected,1
+Lovisa,Ottesen,Undirected,1
+Finn,Pettersens,Undirected,1
+Elisabeth,bent,Undirected,1
+Elisabeth,hiin,Undirected,1
+Lovisa,mama,Undirected,2
+Annie,Ottesen,Undirected,1
+Elisabeth,Ottesen,Undirected,1
+Finn,gudske,Undirected,1
+Finn,Papa,Undirected,1
+Finn,mama,Undirected,1
+Finn røgte,Finn —,Undirected,1
+Finn,gud,Undirected,2
+Elisabeth,s,Undirected,1

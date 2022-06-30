@@ -1,0 +1,333 @@
+source,target,type,weight
+Magnus,Pavo,Undirected,8
+Bertha,Magnus,Undirected,17
+Bertha,Mark,Undirected,1
+Magnus,Mark,Undirected,1
+Magnus,Sands,Undirected,1
+Johanne,Magnus,Undirected,1
+,Magnns,Undirected,1
+,Seiladsens,Undirected,1
+Magnns,Seiladsens,Undirected,1
+Bertha,Magnns,Undirected,7
+Magnns,Wage,Undirected,1
+Magnns,Pavo,Undirected,1
+Hannas,Magnus,Undirected,1
+Magnus,pleier,Undirected,1
+Eieren,Magnns,Undirected,1
+Magnns,Toll,Undirected,1
+Magnus,ask Tolls,Undirected,1
+ask Tolls,ester,Undirected,1
+Magnus,ester,Undirected,1
+Magnus,sorn,Undirected,1
+Toll,hans-,Undirected,1
+Magnus,hans-,Undirected,1
+,Magnus,Undirected,6
+Magnus,Tolle,Undirected,8
+Pavo,Tolle,Undirected,2
+Bertha,ilive,Undirected,1
+Magnus,heisfe,Undirected,1
+Seil,heisfe,Undirected,1
+Tang,Tolle,Undirected,1
+Seil,Ulk,Undirected,1
+Magnus,Ulk,Undirected,1
+Sigrid,Stjernens,Undirected,1
+Magnus,Stjernens,Undirected,1
+Kong Burislavs,Sigrid,Undirected,1
+Kong Burislavs,felv,Undirected,1
+Hnn,Sigrid,Undirected,3
+Karl den Tolvte,Sigrid,Undirected,3
+Offe,Sigrid,Undirected,1
+Line,Sigrid,Undirected,1
+Karl,Line,Undirected,1
+Karl den Tolvte,Lakai,Undirected,1
+Seil,Sigrid,Undirected,1
+Kong Karl,Magnus Pavo,Undirected,1
+Kong Karl,Sigrid,Undirected,1
+Kong Karl,Sigrid Eketorp,Undirected,1
+Pavo,Sigrid,Undirected,2
+Bertha,Sigrid,Undirected,34
+Hnn,Magnus,Undirected,3
+Magnus,Sigrid,Undirected,16
+Bertha,Vitagaard,Undirected,1
+Sigrid,Sulkoff,Undirected,7
+Bertha,Magnus Pavo,Undirected,5
+Magnus,Sigfrid,Undirected,1
+Bprn,Magnus,Undirected,1
+Bprn,Magnns,Undirected,1
+Magnus Pavo,høit,Undirected,1
+Gud,Magnus,Undirected,3
+Gud,Magnns,Undirected,1
+Magnns,Sigrid,Undirected,6
+Arresfen,Magnus,Undirected,1
+Magnus,ban,Undirected,1
+Krasnai,Magnus,Undirected,1
+Grev Morowflis Gods,Magnus,Undirected,1
+Magnus,Magnus tao,Undirected,1
+Greven,Magnus tao,Undirected,1
+Greven,Magnus,Undirected,2
+Modowski,Sigrid,Undirected,1
+Magnus,Modowski,Undirected,2
+Præsfens,Sigrid,Undirected,1
+Hnn,Modowski,Undirected,1
+Adolf,Magnus,Undirected,3
+Adolf,Minna,Undirected,30
+Minna,Sigrid,Undirected,2
+Grev Modowski,Minna,Undirected,2
+Rurik,Sigrid,Undirected,9
+Borissa,Rurik,Undirected,44
+Borissa,Magnus,Undirected,1
+Magnus,Sulkoff,Undirected,4
+Magnus,kjæresfe Sigrid,Undirected,1
+Magnus,paany,Undirected,1
+Adolf,Magnns,Undirected,1
+Bertha,Minna,Undirected,4
+Borissa,Nurik,Undirected,1
+Borissa,Sigrid,Undirected,6
+MagnuS,Sigrid,Undirected,1
+Magnus,hnn,Undirected,1
+Sigrid,sidsfe,Undirected,1
+Magnns,sidsfe,Undirected,1
+Def,Magnns,Undirected,1
+Magnns,Voxlys,Undirected,1
+Borislav,Sigrid,Undirected,1
+Grev Modowski,Sigrid,Undirected,1
+Grev Modowski,henve,Undirected,1
+Pavo,elsteds,Undirected,1
+Borislaw,Sigrid,Undirected,2
+Karl den Tolvte,hnn,Undirected,1
+Sulkoff,hnn,Undirected,1
+Bertha,Sigrid vidsle,Undirected,1
+Sigrid vidsle,Sulkosf,Undirected,1
+Bertha,Sulkoff,Undirected,9
+Generalmarsch,Sulkoff,Undirected,1
+Magnus Pavo,Sigrid,Undirected,1
+,proper,Undirected,1
+Sigrid,proper,Undirected,1
+Borissa,Gud,Undirected,1
+Magnus,Modowfki,Undirected,1
+Pavo,Te,Undirected,1
+,son,Undirected,1
+Adolf,son,Undirected,2
+Minna,ester,Undirected,1
+Karle,Magnns,Undirected,1
+Greven,Magnns,Undirected,3
+Bertha vg,Magnus,Undirected,1
+Bertha vg,Grev Sulkoff,Undirected,1
+Grev Modowski,Ten,Undirected,1
+Grev Modowski,Sulkoff,Undirected,4
+Bertha,Grev Modowski,Undirected,1
+Bertha,Greven,Undirected,2
+Bertha,oa,Undirected,1
+Bertha,Pavo,Undirected,6
+Pavo,Sulkoff,Undirected,2
+Sulkoff,Øe,Undirected,1
+Magnus,betcenk,Undirected,1
+B. P.,Pavo,Undirected,1
+B. P.,Bertha Pavo,Undirected,2
+Bertha,Bertha Pavo,Undirected,2
+B. P.,Bertha,Undirected,1
+Bertha,Magnus^s,Undirected,1
+Tolle,fnart,Undirected,2
+Karlen,Tolle,Undirected,1
+Bertha Pavo,Tolle,Undirected,1
+Bertha Pavo,Husbonds,Undirected,1
+Gud,Magnus Pavo,Undirected,1
+Birkelund,Jomfru Maria,Undirected,1
+Birkelund,Dpre,Undirected,1
+Dpre,Magnns,Undirected,1
+Dprene,Tolle,Undirected,1
+Modowski,Sulkoff,Undirected,1
+Sigrid,Tolle,Undirected,1
+Bertha,Tolle,Undirected,2
+Bertha,Vitagaard“,Undirected,1
+Sigrid,hnn,Undirected,2
+Torst,hnn,Undirected,1
+Marionetter,Sigrid,Undirected,1
+Grev Modowski,Magnus Pavo,Undirected,2
+Modowflis,Ohlmann,Undirected,1
+HerrOhlmann,Sigrid,Undirected,1
+Ohlmann,Sigrid,Undirected,6
+Fyrstinde Borislaw,Grev Modowsiis,Undirected,1
+Herr Ohlmann,Pavo,Undirected,1
+,Gud,Undirected,1
+Magnus,dans,Undirected,1
+Rurik,dans,Undirected,1
+Borissa,WeM,Undirected,1
+Grev Modowflis,WeM,Undirected,1
+Adolf,Grev Modowflis,Undirected,1
+Adolf,Weliki,Undirected,3
+Adolf,Grev Modowski,Undirected,3
+Adolf,Rursk,Undirected,3
+Avolf,Rurik,Undirected,1
+Minna,Rurik,Undirected,5
+Borissa,Minna,Undirected,9
+Kaptain Suwarow,Minna,Undirected,1
+Minna,paany,Undirected,1
+Magnns,paany,Undirected,1
+Magnns,Minna,Undirected,1
+Adolf,sine Bprn,Undirected,1
+Borissa,Rursk,Undirected,2
+Adolf,Modowski,Undirected,1
+Adolf,Borissa,Undirected,4
+Kaptain Survarow,Minna,Undirected,1
+Rurik,fesl,Undirected,1
+Borissa,fesl,Undirected,1
+Borissa,Modowski,Undirected,2
+Frøken Borissa,Kaptain Suwaroms,Undirected,1
+Adolf,Suwarow,Undirected,6
+Rurik,Suwarow,Undirected,1
+Kaptain Sum arow,Weliki,Undirected,1
+Minna,Weliki,Undirected,3
+Minna,son,Undirected,1
+Borissa,Suwarow,Undirected,4
+Borissa,Weliki,Undirected,2
+Minna,Suwarow,Undirected,8
+Rurik,Zigeunertrup,Undirected,1
+Nomadetrup,Rurik,Undirected,2
+Sigrid,Zigeunerkvinden,Undirected,1
+Sigrid,Zigeunere,Undirected,2
+Magnus,Rurik,Undirected,3
+Rurik,Zigeunersken,Undirected,1
+Rurik,paany,Undirected,1
+Magnus Pavo,Suwarow,Undirected,1
+Magnus Pavo,Minna,Undirected,1
+Suwarow,cedle Bevceggrnnde,Undirected,1
+Hall,mcerke,Undirected,1
+Adolf,mcerke,Undirected,1
+Minna,Pavo,Undirected,2
+Moskow,Pavo,Undirected,2
+Modowski,Weliki,Undirected,2
+Modowski,Reisen,Undirected,1
+Minna,Tcenk,Undirected,1
+Tcenk,Wce,Undirected,1
+Adolf,Wce,Undirected,1
+Grev Modowski,Moskow,Undirected,1
+Magnns,Modowski,Undirected,1
+Borissa,Magnns,Undirected,1
+Borissa,Runks,Undirected,1
+Grev Modowski,Magnns,Undirected,1
+Grev Modowski,Pavo,Undirected,2
+Weliki,mwldte Magnus Pavos,Undirected,1
+Borissa,mwldte Magnus Pavos,Undirected,1
+Adre,Rurik,Undirected,1
+Adre,Minna,Undirected,1
+Adolf strax,Minna,Undirected,1
+Adolf,Pavo,Undirected,3
+Adolf,cedle Trcek,Undirected,1
+Graad,Minna,Undirected,1
+Graad,Magnus,Undirected,1
+Grev Modowski,Rurik,Undirected,1
+Magnus,Sosfers,Undirected,1
+Minna,Moskow,Undirected,1
+Moskow,Suwarow,Undirected,1
+Borissa,Magnus Pavo,Undirected,1
+Magnus,Suwarow,Undirected,3
+Magnus,Weliki,Undirected,1
+Magnus,Minna,Undirected,1
+Magnus,Snwarows,Undirected,1
+Karl,Snwarows,Undirected,1
+Pavo,Suwarow,Undirected,2
+Ohlmann,Rurik,Undirected,10
+Ohlmann,Rurik —,Undirected,1
+Borissa,ester,Undirected,1
+Javisf,Zigeunersfen,Undirected,1
+Sigrid,Zigeunersfen,Undirected,1
+Grevinde Welikis,Rurik,Undirected,2
+Grevinde Welikis,Zigeunersken,Undirected,1
+Borissa stege,Rurik,Undirected,1
+Borissa,Zigeunerskes,Undirected,1
+Grev WelM,Rurik,Undirected,1
+Grev Weliki,Sulkoff,Undirected,1
+Rurik,galant,Undirected,1
+Bertha,Rurik,Undirected,6
+Bertha,Borissa,Undirected,1
+Borissa,Rurik Bertha tilbords,Undirected,2
+Bertha,Grev Modomski,Undirected,1
+Grev Modomski,Weliki,Undirected,1
+Greven,Rurik,Undirected,1
+Magnus Pavo,Rurik,Undirected,1
+Rurik,Weliki,Undirected,6
+Grev Modowski,Maximius Pampo,Undirected,1
+Grev Modowski,kjære Bertha,Undirected,1
+Grev Weliki,kjære Bertha,Undirected,1
+Grev Weliki,Pavo,Undirected,1
+Rurik Bertha,keitet,Undirected,1
+Rurik,Rurik Bertha,Undirected,1
+Bertha,Weliki,Undirected,2
+Weliki,hnn,Undirected,1
+Bertha,hnn,Undirected,1
+Borissa,Grev Modowski,Undirected,2
+Grev Modowski,Grev Weliki,Undirected,1
+Pavo,Rurik,Undirected,2
+Fyrstinde Borislaw,Sulkoff,Undirected,1
+Fyrstinde Borislaw,Rurik,Undirected,6
+Sulkoff,hin Asten,Undirected,1
+Borislmv,Sulkoff,Undirected,1
+Borislaw,Rurik,Undirected,3
+Borislaw,Tschernajew,Undirected,1
+Borislaw,Grev Weliki,Undirected,2
+JBorissas,Sigrid,Undirected,1
+Borislaw,JBorissas,Undirected,1
+Dein,Sulkoff,Undirected,2
+Bertha LEsken,Hnn,Undirected,1
+Magnus Pavo,Sulkoff,Undirected,1
+Bertha,Modowski,Undirected,1
+Pavo,k,Undirected,1
+Magnus,k,Undirected,1
+Rurik,strax,Undirected,1
+Rurik,askegraa,Undirected,1
+Tschernajew,slod,Undirected,1
+Sigrid,Tschernajew,Undirected,4
+Ohlmann,Pavo,Undirected,1
+Borissa,Pavo,Undirected,1
+Borrissa,Rurik,Undirected,1
+Borissa,Borrissa,Undirected,1
+Ohlmann,Weliki,Undirected,2
+Ohlmann,Tschernajew,Undirected,1
+Borissa,Grevinde Welikis,Undirected,1
+Bertha,Ribinsk,Undirected,2
+Bertha,Moskov,Undirected,1
+Moskov,Sulkoff,Undirected,1
+Minna Pavo,Weliki,Undirected,1
+Kaptain Suwarow,Weliki,Undirected,1
+Kaptain Suwarow,hen,Undirected,1
+Katharinas,Sigrid,Undirected,1
+Grevinde Welikis,Ohlmann,Undirected,1
+Rurik,barsfe,Undirected,2
+Kudsken,Rurik,Undirected,1
+Nurik,Rurik,Undirected,1
+Nurik,Zigeuneren,Undirected,1
+Magnus Pavo,Moskow,Undirected,1
+Grev Modorvskis,Magnus Pavo,Undirected,1
+Grev Modorvskis,Grevert,Undirected,1
+Grevert,ban,Undirected,1
+Modorvski,Pavo,Undirected,2
+Grev Modomski,Magnus,Undirected,1
+Modowski,Pavo,Undirected,1
+Minna,Modowski,Undirected,1
+Suwarow,bosætte,Undirected,1
+Adolf,Te,Undirected,1
+Adolf,Rurik,Undirected,1
+Ohlmann,Rursk,Undirected,1
+Asten,Rurik,Undirected,1
+Rurik,jade,Undirected,1
+Moskow,Sulkoff,Undirected,1
+Gud,Sigrid,Undirected,1
+Magnus Pavo,hnn,Undirected,1
+Sigrid,Snlkoss,Undirected,1
+Adolf,Bertha,Undirected,2
+Bertha,fil Moskow,Undirected,1
+Brysf,Pavo,Undirected,1
+Brysf,Sigrid,Undirected,1
+Moskow,Sigrid,Undirected,1
+Magnus,Moskow,Undirected,1
+Magnns,Suwarow,Undirected,2
+Magnns,Weliki,Undirected,1
+Magnns,Tolle,Undirected,1
+Bohave,Magnns,Undirected,1
+Bertha,Suwarow,Undirected,1
+Rurik iscer,Sigrid,Undirected,1
+Sgirid,Sigrid,Undirected,1
+Lrcrets,Pavo,Undirected,1
+Pavo,Trcret,Undirected,1
+Magnus,Trcret,Undirected,1

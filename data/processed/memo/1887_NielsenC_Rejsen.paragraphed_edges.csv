@@ -1,0 +1,4 @@
+source,target,type,weight
+Clara,hnn,Undirected,2
+Clara,Engelen,Undirected,5
+Clara,liun,Undirected,2

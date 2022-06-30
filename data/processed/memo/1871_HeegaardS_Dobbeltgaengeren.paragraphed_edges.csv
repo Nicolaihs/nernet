@@ -1,0 +1,22 @@
+source,target,type,weight
+Alfreds,Anna,Undirected,1
+Anna,Richard,Undirected,12
+Alfred,Richard,Undirected,2
+Anna,Martin,Undirected,6
+Martin,Steen,Undirected,2
+Martin,lian,Undirected,6
+Frederik,Martin,Undirected,1
+Frederik,Hiin,Undirected,1
+Martin,Richard,Undirected,25
+Martin,tang,Undirected,1
+Martin,kline,Undirected,1
+Martin,ban,Undirected,1
+Gud,Richard,Undirected,1
+Anna,haa,Undirected,1
+Gud,Martin,Undirected,1
+Martin,Richard“,Undirected,1
+Martin,Zenith,Undirected,1
+Martin B.,Richard,Undirected,2
+Richard,iland,Undirected,1
+Anna,iland,Undirected,1
+Alfred,Martin,Undirected,2

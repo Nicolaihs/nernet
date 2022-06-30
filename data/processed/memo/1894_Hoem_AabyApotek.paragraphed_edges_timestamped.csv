@@ -1,0 +1,257 @@
+source,target,timestamp
+Hedvig,prr,4
+Hassel,Hedvig,4
+Hassel,Jørgen,4
+Frøken Hedvig,Hassel,6
+Frøken Hedvig,Hammer,6
+Hammer,Hassel,6
+Hammer,Hassel,8
+Hassel,Jørgen Fragtmands,9
+Hassel,Jørgen,11
+Gud,Jørgen,14
+Hassel,Jørgen,15
+Apoteker Hammer,Dalgaard,17
+Gud,Hassel,18
+Dalgaard,Hassel,20
+Frøken Brask,Hassel,24
+Gud,Hassel,24
+Dalgaard,Hassel,25
+Hammer,Hassel,26
+Dalgaard,Pyrola uniflora,28
+Dalgaard,Hassel,30
+Dalgaard,Hassel,32
+Bredes,Hassel,32
+Dalgaard,Hassel,33
+Dalgaard,Hassel,37
+Dalgaard,Hedvig,38
+Dalgaard,Hassel,40
+Dalgaard,Hassel,43
+Dalgaard,Gud,46
+Hedvig,Henrik Smid,47
+Frøken Hammer,Hassel,48
+Dalgaard,Frøken Hammer,48
+Dalgaard,Hedvig,48
+Hassel,Per Gynt,54
+Kristian,Per Gynt,54
+Dalgaard,Hassel,56
+Hassel,Hedvig,56
+Dalgaard,Launing,59
+Gud,Peder Paarses,62
+Dalgaard,Hassel,63
+Aarholm,Bjørk,81
+Aarholm,Bjørk,81
+Gud,Jærntraade,86
+Peter Andreas,Vejlby,91
+Elster,Vejlby,93
+Elster,ErBjørk,93
+Aarholm,Gud,95
+Gud,Vejlby,96
+Dalgaard,Hedvig,98
+Dalgaard,Hassel,99
+Hassel,Hedvig,102
+Baumann,Niels,122
+Baumann,Niels,122
+Karlen,Rollo,124
+Karlen,Niels,124
+Baumann,lian,126
+Niels,lian,126
+Baumann,Niels,128
+.Niels,Baumann,130
+.Niels,Niels,130
+Lini,Niels,130
+Feddersen,Niels,136
+Niels,Niels Feddersen,136
+Baumann,Feddersen,137
+Merpi,Monsieur,146
+Merpi,Niels,146
+Baumann,Karlen,147
+Baumann,Kristine Madsen,147
+Baumann,Niels,148
+Baumann,Niels,153
+Niels,Niels’,156
+Kristine,Niels,158
+Kristine,Niels,158
+Kristine,Niels,159
+Adam,Niels,161
+Marsch,Niels,164
+Bacchus,Niels,166
+Bacchus,Kristine,166
+Kristine,Niels,166
+Kristine,Niels,166
+Loths,Niels,168
+Kristine,Loths,168
+Kristine,Niels,168
+Niels,Rollo,170
+Niels,Niels Pedersen,170
+Kristine,Niels Pedersen,170
+Kristine,Niels,170
+Baumann,Niels,173
+Kristine,Niels,175
+Kristine,lille Kristine,177
+Kristine,Niels,179
+Baumann,Niels,181
+Kristine,Rollo,184
+Niels,Rollo,186
+Rollo,mela Niels,189
+Niels,mela Niels,189
+Niels,Rollo,189
+Niels,Rollo,193
+Kristine,Niels,194
+Niels,Rollo,197
+Karl,Kristine,199
+Kristine,Niels,200
+Kristine,Niels,200
+Dalgaard,Hassel,206
+Hassel,Knud Dalgaard,208
+Dalgaard,Hassel,214
+Krogerup,Ramses,215
+Dalgaard,Hassel,219
+Frøken Brask,Krogerup,220
+Hassel,Tarot,222
+Dalgaard,Frøken Brask,224
+Dalgaard,Hedvig,224
+Dalgaard,Frøken Brask,225
+Dalgaard,Krogerup,225
+Dalgaard,Hassel,231
+Dalgaard,Frøken Brask,239
+Don Juan,Frøken Brask,239
+Dalgaard,Hassel,240
+Dalgaard,Hedvig,243
+Dalgaard,Hammer,244
+Dalgaard,Hammer,244
+Dalgaard,Hammer,247
+Dalgaard,Hedvig,247
+Dalgaard,Hedvig,248
+Hassel,Hedvig,249
+Dalgaard,Hassel,252
+Gud,sire,261
+Berthelsen,Max Mullers,266
+Gud,Peter Andreas,270
+Dalgaard,Hassel,274
+Dalgaard,Provi-soren,278
+Dalgaard,Frøken Brask,278
+Dalgaard,Hassel,279
+Dalgaard,Hassel,281
+Dalgaard,Hassel,285
+Dalgaard,Hassel,287
+Dalgaard,Hassel,287
+Dalgaard,Hassel,287
+Dalgaard,Hedvig,291
+Dalgaard,Launing,291
+Hassel,Launing,291
+Dalgaard,Hassel,291
+Dalgaard,Hedvig —,291
+Hassel,Hedvig —,291
+Harriet,Hedvig,292
+Dalgaard,Harriet,292
+Hassel,lille Sofie,297
+Hassel,Tycho Brahes,301
+Dalgaard,Hedvig,308
+Dalgaard,Launing,311
+Dalgaard,Hassel,316
+Frøken Brask,Gud,319
+Frøken Brask,Hassel,319
+Dalgaard,Hedvig,320
+Dalgaard,Robespierres,323
+Haren,Hassel,339
+Frøken Brask,Haren,339
+Hedvig,Straahat,342
+Gud,Hassel,352
+Hassel,Peter,355
+Brahe,Tycho,357
+Brahe,Harer,357
+Engelbrecht,Søren Nielsen,358
+Engelbrecht,Søren Nielsen,358
+Dalgaard,Søren Nielsen,358
+Dalgaard,Hedvig,358
+Hedvig,Tycho Brahes,358
+Søren Nielsen,Tycho Brahes,358
+Dalgaard,Hassel,360
+Frøken Hedvig,Launing,363
+Gud,Hassel,364
+Anakreon,Gud,365
+Ane,Hassel,369
+Dalgaard,Hassel,369
+Dalgaard,paany,370
+Gud,Hassel,375
+Dalgaard,Hassel,376
+Dalgaard,Hassel,377
+Dalgaard,Hassel,377
+Hassel,Ormen,379
+Fysikus,Launing,381
+Frøken Brask,Fysikus,381
+Dalgaard,Fysikus,382
+Dalgaard,Fysikus,382
+Fysikus,Hassel,383
+Dalgaard,Hassel,383
+Dalgaard,Hassel,383
+Dalgaard,Fysikus,384
+Dalgaard,Farma ceut,384
+Farma ceut,Hassel,384
+Jaså,apoteckaren redan,393
+flickan,hon,397
+Sødermark,hon,397
+Bøge,Magnus,401
+Magnus,Sødermark,402
+Bøge,Magnus,410
+Erlauben Sie,Hrr. Hauptmann,417
+Bøge,Magnus,418
+Stakkars,apoteckare,421
+Bøge,Magnus,422
+Bøge,Sødermark,424
+Bøge,Gud,425
+Bøge,Gud,425
+Bøge,Sødermark,425
+Angelica,Hon,429
+Dalgaard,paany,433
+Dalgaard,Hassel,434
+Dalgaard,Harriet Brede,448
+Dalgaard,Harriet Brede,448
+Dalgaard,Frøken Harriet,449
+Dalgaard,Mester Veniftcus,451
+Dalgaard,ban,453
+Harriet,Hedvig,459
+Dalgaard,Harriet,460
+Harriet,Hr. Dalgaard,460
+Dalgaard,Hassel,461
+Ane,Hassel,464
+Emilie,Eriksen,467
+Forvalter Rasmussens,Harriet,468
+Emilie,Harriet,476
+Gud,Hr. Dalgaard,480
+Dalgaard,Harriet,483
+Dalgaard,Harriet,484
+Harriet,Hassel,484
+Dalgaard,Hr. Dalgaard,485
+Harriet,Hedvig,489
+Dalgaard,Hassel,498
+Dalgaard,Harriet,498
+Harriet,Hassel,498
+Harriet,Vejlby,499
+Dr. Vejlby,Launing,505
+Dalgaard,Dr. Vejlby,505
+Dalgaard,Harriet,505
+Dalgaard,Dr. Vejlby,506
+Harriet,Peter Andreas,520
+Dalgaard,Hedvig,521
+Hassel,Hedvig,523
+Hammer,Hassel,526
+Dalgaard,Hassel,527
+Dalgaard,Hassel,532
+Dalgaard,Hedvig,538
+Hammer,Hassel,542
+Dalgaard,Hassel,542
+Dalgaard,Hassel,542
+Hassel,Hedvig,542
+Dalgaard,Hedvig,542
+Dalgaard,Hedvig,543
+Don Juan,Hedvig,543
+Hassel,Hedvig,544
+Hedvig,Knud,544
+Hassel,Vejlby,546
+Harriet,Vejlby,546
+Dalgaard,Harriet,546
+Dalgaard,Hedvig,546
+Dalgaard,Vejlby,547
+Dalgaard,Hedvig,547
+Hassel,Hedvig,547

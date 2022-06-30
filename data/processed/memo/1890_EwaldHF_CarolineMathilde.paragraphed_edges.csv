@@ -1,0 +1,680 @@
+source,target,type,weight
+Rantzau-Ascheberg,Struensee,Undirected,7
+Rantzau,Rantzaus,Undirected,1
+Hans,Rantzau,Undirected,1
+Katharina II,Peter III,Undirected,1
+Katharina II,Rantzau-Ascheberg,Undirected,1
+Rantzau,Rantzau-Ascheberg,Undirected,1
+Rantzau,Struensee,Undirected,45
+Christian VII.s,Rantzau,Undirected,1
+Christian VII.s,Struensee,Undirected,2
+Struensee,Unaade,Undirected,2
+Grevens,Rantzau,Undirected,2
+Hoick,Rantzau,Undirected,2
+GrevRantzauAschebergs,svaredeStruensee,Undirected,1
+Bernstorff,Struensee,Undirected,9
+Catharina,Struensee,Undirected,2
+Bernstorff,Rantzau,Undirected,1
+Rantzau,Wolff,Undirected,2
+Struensee,Wolff,Undirected,3
+Carl Wolff,Rantzau,Undirected,1
+Fatima,Struensee,Undirected,1
+Dorothea,Greven,Undirected,1
+Ascheberg,Struensee,Undirected,1
+Hoick,Struensee,Undirected,6
+Hoick,Pagehovmester Nielsen,Undirected,1
+Grev Reventlov,Pagehovmester Nielsen,Undirected,1
+Peter III,Rantzau,Undirected,2
+Reverdil,St. Germain,Undirected,1
+Piessen,Struensee,Undirected,1
+Caroline,Rantzau,Undirected,1
+Rantzau,Reverdil,Undirected,1
+Christian,Reverdil,Undirected,1
+Christian,Hoick,Undirected,1
+Grev Hoicks,Struensee,Undirected,1
+Jærnhaand,Rantzau,Undirected,1
+Greve,Struensee,Undirected,1
+Brandt,Rantzau,Undirected,10
+Brandt,Guds,Undirected,1
+Enevold Brandt,Struensee,Undirected,1
+Brandt,Hoick,Undirected,8
+Struensee,nihil,Undirected,1
+Brandt,nihil,Undirected,1
+Brandt,Struensee,Undirected,61
+Brandt,Mamas,Undirected,1
+Berger,Brandt,Undirected,1
+Hoick,Nous verrons,Undirected,1
+Assesor,Rantzau,Undirected,1
+Niels Sander,Sander,Undirected,1
+Herluf Trolle,Sander,Undirected,1
+Herluf Trolle,Lieutenant Frants von Eichen,Undirected,1
+Charlotte Amalie Trolle,Lieutenant Frants von Eichen,Undirected,1
+Caroline Mathilde,Charlotte Amalie Trolle,Undirected,1
+Eichen,Sander,Undirected,17
+Jørgen Sander,t Sander,Undirected,1
+Jørgen Sander,Niels Sander,Undirected,1
+Eichen,Lises,Undirected,1
+Eichen,Lise,Undirected,1
+Charlotte Amalie Trolle,Sander,Undirected,2
+Sander,Teglgaard,Undirected,7
+Lars Krum,Sander,Undirected,3
+Geert Londemann,Niels Clementin,Undirected,1
+Marcus Ulsø Hortulan,Niels Clementin,Undirected,1
+Marcus Ulsø Hortulan,Sander,Undirected,1
+Londemann,Sander,Undirected,42
+Clementin,Sander,Undirected,9
+Sander,Thalia,Undirected,2
+Amalie,hans Stygotius,Undirected,1
+Aagerkarlenes,Londemann,Undirected,1
+Aagerkarlenes,Salomon Aron,Undirected,1
+Gud,Salomon Aron,Undirected,1
+Hortulan,Monsieur La Tour,Undirected,1
+Cytheres,Sander,Undirected,1
+Afrodites,Cytheres,Undirected,1
+Clementin,Karl,Undirected,1
+Clementin,Monsieur Londemann,Undirected,1
+Clementin,Hortulan,Undirected,1
+Lars,Sander,Undirected,6
+Hortulan,Lars,Undirected,1
+Hortulan,Maren,Undirected,3
+Lars,Maren,Undirected,1
+Holbergs,Hortulan,Undirected,1
+Holbergs,Lakajs,Undirected,1
+Lakajs,Sander,Undirected,1
+Hortulan,Sander,Undirected,6
+Hortulan,Londemann,Undirected,1
+Clementin,Londemann,Undirected,12
+Hymen,Londemann,Undirected,1
+Londemann,Thalia,Undirected,2
+Hortulan,Trolles,Undirected,2
+Kjærsgaard,Sander,Undirected,1
+Jomfru Anna,Sander,Undirected,1
+Monsieur,Sander,Undirected,4
+Anna Gjørlings,skjønnes,Undirected,1
+Frausing,skjønnes,Undirected,1
+Frausing,Monsieur Londemann,Undirected,1
+Anna,Monsieur Londemann,Undirected,1
+Gjørlings,Monsieur Sander,Undirected,1
+Maren,Sander,Undirected,2
+Anna Gjørlings,Sander,Undirected,1
+Jørgen,Sander,Undirected,2
+Jørgen,Jørgen Sander,Undirected,2
+Jørgen Sander,Lars,Undirected,1
+Lars Hansen,Sander,Undirected,1
+Lars Krum,Niels Sander,Undirected,1
+Lars,Niels Sander,Undirected,1
+Mama,merveille,Undirected,1
+Mama,Papa,Undirected,2
+Charlotte Amalie de Trolle,Mama,Undirected,1
+Kong Christian VI.s,Sander,Undirected,1
+Charlotte,Gud,Undirected,5
+Charlotte,Monsieur Sander,Undirected,3
+Charlotte,Piessen,Undirected,1
+Elisabeth von,Piessen,Undirected,1
+Charlotte,Kjærsgaard,Undirected,3
+Teglgaard,von Eichen,Undirected,1
+Trolle,von Eichen,Undirected,5
+Trolle,von,Undirected,1
+Piessen,Sander,Undirected,1
+Charlotte Trolle,Lars Krum,Undirected,1
+Charlotte Trolle,Sander,Undirected,9
+Charlotte Trolle,Frants von Eichen,Undirected,1
+Børge,Christian,Undirected,1
+Charlotte,Christian,Undirected,4
+Charlotte,Charlotte Trolle,Undirected,3
+Charlotte,Trolle,Undirected,9
+Charlotte,Sander,Undirected,73
+Charlotte Trolle,Clementin,Undirected,1
+Charlotte Trolle,Monsieur Sander,Undirected,1
+Mademoiselle Trolle,Sander,Undirected,1
+Caroline Mathilde,Monsieur,Undirected,1
+Caroline Mathilde,Sander,Undirected,2
+Caroline Mathilde,Gud,Undirected,2
+Charlotte,Mathilde,Undirected,1
+Frants von Eichen,Sander,Undirected,2
+Charlotte,Eichen,Undirected,7
+Elisabeth,Frants,Undirected,1
+Charlotte,Elisabeth,Undirected,7
+Eichen,Elisabeth,Undirected,1
+Elisabeth,Gud,Undirected,1
+Caroline Mathilde,Charlotte Trolle,Undirected,3
+Charlotte,Mama,Undirected,1
+Charlotte,Louise von Piessens,Undirected,1
+Louise von Piessens,von Eichen,Undirected,1
+Amadis,Charlotte,Undirected,1
+Charlotte,von Eichen,Undirected,2
+Monsieur Sander,von Eichen,Undirected,2
+Caroline Mathilde,Charlotte,Undirected,8
+Engel Marie Ahrensbach,Frederik,Undirected,1
+Charlotte Trolle,Engel Marie Ahrensbach,Undirected,1
+Ahrensbach,Charlotte Trolle,Undirected,1
+Jørgen,Moranti,Undirected,5
+Bernstorff,Jørgen,Undirected,1
+Bernstorff,Moranti,Undirected,1
+Garbes,Søren,Undirected,1
+Juliane Marie,Søren,Undirected,1
+Juliane Marie,Kong Christians,Undirected,1
+Juliane Maries Unaade,Struensee,Undirected,1
+Rousseau,Struensee,Undirected,3
+Gud,Struensee,Undirected,4
+Caroline Mathilde,Struensee,Undirected,10
+Føbe,Jørgen,Undirected,2
+Jørgen,Sabel,Undirected,1
+Struensee,Voltaires,Undirected,1
+Sultan Orosmans,Voltaires,Undirected,1
+Orosmans,Sultan Orosmans,Undirected,1
+Orosmans,Væxt,Undirected,1
+Struensee,Væxt,Undirected,1
+Struensee,Zaire,Undirected,1
+Orosman,Zaire,Undirected,1
+Føbe,Schavlet,Undirected,1
+Madame,Struensee,Undirected,1
+Charlotte Trolle,Elisabeth von Eichen,Undirected,2
+Charlotte,Frants,Undirected,1
+Charlotte,Struensee,Undirected,12
+Charlotte,Elisabeth von Eichen,Undirected,2
+Gjørling,Maren,Undirected,1
+Anna,Maren,Undirected,1
+Anna,Jacob Gjørling,Undirected,1
+Frausing,Jacob Gjørling,Undirected,1
+Jacob,Jomfru Anna,Undirected,1
+Jærnovn,Kong Fredrik IV.s,Undirected,1
+Kong Fredrik IV.s,Nisse,Undirected,1
+Jacob,Nisse,Undirected,1
+Jacob,Maren,Undirected,3
+Anna,Jacob,Undirected,2
+Anna,Niels Sander,Undirected,2
+Anna,Madam Frausing,Undirected,2
+Jacob,Sander,Undirected,1
+Karl,Sander,Undirected,2
+Anna,Sander,Undirected,27
+Karl.,Sander,Undirected,1
+Anna,Frausing,Undirected,7
+Brygger Frausing,Niels Sander,Undirected,1
+Anna Gjørling,Niels Sander,Undirected,2
+Frits Reutzer,Marie Reutzer,Undirected,1
+Anna Gjørling,Frits Reutzer,Undirected,1
+Anna Gjørling,"Anna,",Undirected,1
+Anna,Struensee,Undirected,2
+Marie,Struensee,Undirected,2
+Gud,Marie,Undirected,1
+Anna,Marie,Undirected,11
+Grev Hoick,Marie,Undirected,1
+Frederik,Grev Hoick,Undirected,1
+Anna Gjørling,Marie Reutzer,Undirected,2
+Anna,Marie Reutzer,Undirected,1
+Anna Gjørling,Marie,Undirected,1
+Anna,Christian VI.s,Undirected,1
+Christian VI.s,Sofie Magdalenes,Undirected,1
+Anna Gjørling,Sofie Magdalenes,Undirected,1
+Charlotte Amalie,Marie,Undirected,1
+Anna,Juliane Marie,Undirected,1
+Kehraus,Marie,Undirected,1
+Kehraus,Kommers,Undirected,1
+Kommers,Piessen,Undirected,1
+Carl,Piessen,Undirected,1
+Christian von Trolle,Marie,Undirected,1
+Charlotte Amalie,Christian von Trolle,Undirected,1
+Christian Trolle,Marie,Undirected,1
+Marie,Trolle,Undirected,9
+Struensee,Trolle,Undirected,6
+Marie,Marie Reutzer,Undirected,1
+Charlotte,Marie,Undirected,1
+Anna Gjørling,Sander,Undirected,2
+Marie,Tyroleren,Undirected,1
+Anna,Trolle,Undirected,1
+Kong Frederik II.s,Sander,Undirected,1
+Sander,von Eichen,Undirected,1
+Osborne,Støvlette-Cathrine,Undirected,1
+Gud,Sander,Undirected,7
+Charlotte,Grev Konrad Hoick,Undirected,1
+Sander,le grand maitre de la garderobe,Undirected,1
+Charlotte,Hoick,Undirected,1
+Charlotte,Dronning Elisabeths,Undirected,1
+Hoick,Sander,Undirected,1
+Sander,Trolle,Undirected,19
+Hoick,Trolle,Undirected,1
+Charlotte Trolle,Hoick,Undirected,1
+Kaarde,Sander,Undirected,4
+Hoick,Monsieur,Undirected,1
+Frøken Trolle,Monsieur,Undirected,1
+Frøken Trolle,Sander,Undirected,2
+Charlotte Trolle,Struensee,Undirected,7
+Frants,Hoick,Undirected,1
+Frants,von,Undirected,1
+Eichen,von,Undirected,1
+Eichen,Kaarde,Undirected,2
+Grev Hoick,Karl,Undirected,1
+Karl,Monsieur Sander,Undirected,2
+Eichen,haml,Undirected,1
+Monsieur,haml,Undirected,1
+Eichen,Monsieur Sander,Undirected,3
+Eichen,Karl,Undirected,1
+Karl,slaas,Undirected,1
+Karl som,slaas,Undirected,1
+Eichen,Struensee,Undirected,2
+Monsieur Sander,Struensee,Undirected,1
+Charlotte,Niels Sander,Undirected,3
+Eichen,Elisabeth von Eichen,Undirected,1
+Catharina,Sander,Undirected,1
+Catharina,Kaarde,Undirected,1
+Sander,Struensee,Undirected,17
+Jørgen Sander,Teglgaard,Undirected,1
+Jørgen,Niels Sander,Undirected,1
+Sophie Magdalene,Struensee,Undirected,1
+Kong Christian den Sjettes,Struensee,Undirected,1
+Kong Christian den Sjettes,him,Undirected,1
+Carl,Hoick,Undirected,1
+Carl,Enevold Brandt,Undirected,1
+Enevold Brandt,Hoick,Undirected,1
+Hoick,Madame,Undirected,1
+Moltke,der,Undirected,1
+Bernstorff,Madame,Undirected,1
+Brandt,Grandseigneurs,Undirected,1
+Brandt,Catharina,Undirected,1
+Augusta,Struensee,Undirected,1
+Brandt,Caroline MathildeOrdenen,Undirected,1
+Caroline MathildeOrdenen,Struensee,Undirected,1
+Frederik,Juliane Marie,Undirected,1
+Frederik,Kong Frederik V.,Undirected,1
+Kong Frederik IV.s,Kong Frederik V.,Undirected,2
+Frederik V.s,Stifsøn,Undirected,1
+Caroline Mathilde,Stifsøn,Undirected,1
+Juliane Marie,Struensee,Undirected,1
+Brandt,KongFrederik,Undirected,1
+Charlotte Amalie,KongFrederik,Undirected,1
+Charlotte Amalie,Frederik IV.s,Undirected,1
+Frederik V.s,Louise,Undirected,1
+Caroline Mathilde,Louise,Undirected,1
+Gud,Juliane,Undirected,1
+Charlotte,Juliane Marie,Undirected,1
+Avdiens,Brandt,Undirected,2
+Reverdil,Struensee,Undirected,7
+Guldberg,Jessen,Undirected,10
+Frederik V.,Nicolaj Jessen,Undirected,1
+Frederik V.,Jacobi,Undirected,1
+Jacobi,jour,Undirected,1
+Charlotte,Guldberg,Undirected,1
+Jessen,Rantzau-Ascheberg,Undirected,1
+Beringskjold,Guldberg,Undirected,3
+Eichstedt,Jessen,Undirected,1
+Guldberg,Struensee,Undirected,13
+Grev Rantzau,Jessen,Undirected,1
+Jessen,Struensee,Undirected,1
+Beringskjold,Rantzau,Undirected,9
+Catharina,Peter,Undirected,1
+Carl,Guldberg,Undirected,1
+Guldberg,Nankins,Undirected,1
+Bonne,Nankins,Undirected,1
+Guldberg,Rousseau,Undirected,1
+Guldberg,Rantzau,Undirected,15
+Frants von Eichen,Niels Sander,Undirected,2
+Charlotte Trolle,Eichen,Undirected,1
+Gert Londemanns,Sander,Undirected,1
+Panning,Sander,Undirected,1
+Panning,Struensee,Undirected,1
+Londemann,Sophie Magdalene,Undirected,1
+Sarti,Sophie Magdalene,Undirected,1
+Sander,Sarti,Undirected,2
+Gud,Londemann,Undirected,2
+Londemann,Sarti,Undirected,3
+Sarti,Struensee,Undirected,2
+Londemann,Struensee,Undirected,7
+Brandt,le maître,Undirected,1
+Sarti,le maître,Undirected,1
+Brandt,Sarti,Undirected,2
+Bakkus,Londemann,Undirected,1
+Londemann,Mikkelsen,Undirected,2
+Mikkelsen,Sander,Undirected,1
+Esther,Monsieur Gabels,Undirected,1
+Esther Gabel,Struensee,Undirected,1
+Londemann,Siedelmann,Undirected,4
+Siedelmann,got,Undirected,1
+got,mich,Undirected,1
+Siedelmann,sikes,Undirected,1
+Siedelmann,mich,Undirected,1
+Struensee,mich,Undirected,1
+Londemann,hampaa,Undirected,1
+Bredal,Sander,Undirected,1
+Londemann,daraussen,Undirected,1
+Caroline Halle,daraussen,Undirected,1
+Caroline Halle,Evfemias,Undirected,1
+Evfemias,Karl,Undirected,1
+Karl,Pernille,Undirected,1
+Agathokles,Londemann,Undirected,1
+Agathokles,Evfemia,Undirected,1
+Charlotte Amalie Trolle,Evfemia,Undirected,1
+Christian V.,Fantasuss,Undirected,1
+Charlotte Trolle,Niels Sander,Undirected,1
+Gotts,Jomfru Halle,Undirected,1
+Brygger Frausing,Sander,Undirected,2
+Frausing,Madam Hartvigsen,Undirected,1
+Frausing,Sander,Undirected,12
+Kong Fredrik III,Struensee,Undirected,1
+David,Kong Fredrik III,Undirected,1
+Anna,Fantasus Sander,Undirected,1
+Fantasus Sander,Gjørling,Undirected,1
+Charlotte Trolle,Gjørling,Undirected,1
+Anna Gjørling,Charlotte Trolle,Undirected,2
+Abdolonimus,Jens Husted,Undirected,1
+Bien,Kukuk,Undirected,1
+Caroline Halle,Sarti,Undirected,1
+Abdolonimus,Caroline Halle,Undirected,1
+Abdolonimus,Evfemia,Undirected,1
+Evfemia,Wessel,Undirected,1
+Anna,Anna Frausing,Undirected,1
+Abdolonimus,Anna,Undirected,1
+Abdolonimus,Agathokles,Undirected,1
+Køllers,Schrødersee,Undirected,1
+Frausing,Køllers,Undirected,1
+Frausing,Struensee,Undirected,1
+Anna,Madam Hartvigsen,Undirected,1
+Gude,Struensee,Undirected,2
+Fredrik II,Guldberg,Undirected,1
+Køller,Struensee,Undirected,5
+Juliane Marie,Køller,Undirected,1
+Anna Frausing,Charlotte Trolle,Undirected,1
+Farbroders,Jensen,Undirected,1
+Farbroders,Jørgen,Undirected,1
+Christian Trolle,Sander,Undirected,6
+Christian Trolle,Struensee,Undirected,1
+Anna Gjørling,Trolle,Undirected,1
+Marie Reutzer,Trolle,Undirected,1
+Marie Reutzer,Sander,Undirected,3
+Christian,Marie Reutzer,Undirected,2
+Christian,Marie,Undirected,1
+Christian,Sander,Undirected,12
+Eichstedt,Struensee,Undirected,13
+Guldberg,Trolle,Undirected,1
+Sander,eloqventiæ,Undirected,1
+Griffenfeld,Struensee,Undirected,1
+Hestgarden,Trolle,Undirected,1
+Bo,Sander,Undirected,1
+Bo,Charlotte,Undirected,1
+Brandt,Trolle,Undirected,3
+Caroline Mathilde,Dronning Sophie Magdalene,Undirected,1
+Christian Trolle,Dronning Sophie Magdalene,Undirected,1
+Caroline Mathilde,Christian Trolle,Undirected,1
+Fabricius,Struensee,Undirected,1
+Fabricius,Schimmelmann,Undirected,1
+Schimmelmann,Skraas,Undirected,1
+Skraas,Warnstedt,Undirected,1
+Biilov,Laurvig,Undirected,1
+Laurvig,Mette Marie Rose,Undirected,1
+Baronessens,Mette Marie Rose,Undirected,1
+Baronessens,Fabricius,Undirected,1
+Carl Struensee,Fabricius,Undirected,1
+Carl Struensee,Struensee,Undirected,2
+Brandt,Charlotte Trolle,Undirected,2
+Monsieur Sander,Trolle,Undirected,1
+Brandt,Sander,Undirected,2
+Brandt,Holstein,Undirected,3
+Brandt,Clementin,Undirected,2
+Charlotte,Sander Trolle,Undirected,2
+Christian Trolle,hildes,Undirected,1
+Sander,hildes,Undirected,1
+Charlotte Trolle,Reverdil,Undirected,2
+Reverdil,Voltaire,Undirected,2
+Mademoiselle,Reverdil,Undirected,2
+Mademoiselle,Monsieur Sander,Undirected,1
+Mademoiselle,Struensee,Undirected,1
+Reverdil,Robert Keith,Undirected,1
+Robert Keith,Struensee,Undirected,1
+Kong Georgs,Struensee,Undirected,1
+Charlotte,Reverdil,Undirected,3
+Brandt,Reverdil,Undirected,4
+Kaarde,Reverdil,Undirected,1
+Moranti,Reverdil,Undirected,1
+Brandt,Jørgen,Undirected,1
+Gud,Reverdil,Undirected,1
+RantzauAscheberg,Struensee,Undirected,1
+Podagra,RantzauAscheberg,Undirected,1
+Podagra,Struensee,Undirected,1
+Juliane Marie,Sophie Magdalene,Undirected,1
+Obersten,Struensee,Undirected,1
+Charlotte,Obersten,Undirected,1
+Sander,Schak,Undirected,2
+Caroline,Sophie Magdalene,Undirected,1
+Caroline,Louise,Undirected,1
+Carl,Louise,Undirected,1
+Beringskjold,Struensee,Undirected,7
+Struensee,von Osten,Undirected,1
+Rantzau,von Osten,Undirected,5
+Catharina,von Osten,Undirected,2
+Catharina,Rantzau,Undirected,1
+Nygaard,Struensee,Undirected,1
+Beringskjold,Bregentved,Undirected,1
+Bregentved,Moltke,Undirected,1
+Bernstorff,Moltke,Undirected,1
+Beringskjold,Bernstorff,Undirected,1
+Bernstorff,Dank,Undirected,1
+Asen,Struensee,Undirected,1
+Asen,Rantzau,Undirected,1
+Caroline Mathilde,Catharina,Undirected,1
+Beringskjold skoggerlo,Køller,Undirected,1
+Beringskjold,Køller,Undirected,4
+Bering,Rantzau,Undirected,1
+Bering,Eichstedt,Undirected,1
+Assurancesvig,Rantzau,Undirected,2
+Minerva,Rantzau,Undirected,1
+Guldberg,Køller,Undirected,6
+Haxthausen,Køller,Undirected,1
+Køller,Rantzau,Undirected,3
+Beringskjold,Falkenskjold,Undirected,1
+Falkenskjold,Struensee,Undirected,3
+Concini,Struensee,Undirected,1
+Concini,Maria,Undirected,1
+Maria,Medicis,Undirected,1
+Kong Ludvig XIII,Medicis,Undirected,1
+Brandt,Moranti,Undirected,1
+Brandt,Conrad Hoick,Undirected,1
+Conrad Hoick,Struensee,Undirected,1
+Charlotte,Gude,Undirected,1
+Amalie,Charlotte,Undirected,1
+Amalie,Struensee,Undirected,1
+Køller,Køller Struensee,Undirected,1
+Køller Struensee,Struensee,Undirected,1
+Eichstedt,Rantzau,Undirected,10
+Eichstedt,Køller,Undirected,6
+Eichstedt,Guldberg,Undirected,1
+Bodenhoff,Guldberg,Undirected,1
+Beringskjold,Bodenhoff,Undirected,1
+Brandt,Eichstedt,Undirected,6
+Brandt,Guldberg,Undirected,1
+Brandt,Gude,Undirected,1
+Frøken Trolle,Niels Sander,Undirected,1
+Jeronimus,Sander,Undirected,1
+Amor,Gud,Undirected,1
+Anna,Londemann,Undirected,1
+Anna,Dyvekes,Undirected,1
+Dyvekes,Sander,Undirected,1
+Brandt,Carl Struensee,Undirected,1
+Charlotte Trolle,l’union parfaite,Undirected,1
+Jeronimus,l’union parfaite,Undirected,1
+Jeronimus,Londemann,Undirected,1
+Justitsraad Struensee,Madam Dutillet,Undirected,1
+Carl Struensee,Sander,Undirected,1
+Køller,udbrødLondemann,Undirected,1
+Bjelke,Brandt,Undirected,1
+Charlotte gjennem,Sander,Undirected,1
+Anna,Charlotte,Undirected,14
+Charlotte,Madam Frausing,Undirected,1
+Gjørling,Madam Frausing,Undirected,1
+Anna,Charlotte Trolle,Undirected,1
+Charlotte,Marie Reutzer,Undirected,1
+Sander,Zigeunersken,Undirected,2
+Marie,Sander,Undirected,1
+Frants,Sander,Undirected,1
+Elisabeth von Eichen,Frants,Undirected,1
+Dæggelam,Elisabeth,Undirected,1
+Elisabeth,Merci,Undirected,1
+Elisabeth,Struensee,Undirected,1
+Elisabeth,Sander,Undirected,1
+Anna,Anna Gjørling,Undirected,1
+Kong Georg,Struensee,Undirected,1
+Frederik,Kehrausen,Undirected,1
+Kehraus,Sarti,Undirected,1
+Kehraus,Køller,Undirected,1
+Arveprinsen,Køller,Undirected,1
+Arveprinsen,Brandt,Undirected,1
+Carl Struensee,Charlotte Trolle,Undirected,1
+Brandt,Frants von Eichen,Undirected,1
+Frants von Eichen,Kapitain Malleville,Undirected,1
+Halvor,Lars,Undirected,2
+Jens Frandsen,hans Karl,Undirected,1
+Gud,Halvor,Undirected,1
+Beringskjold,Greven,Undirected,1
+Bech,Malleville,Undirected,1
+Kunz,Rantzau,Undirected,1
+Beringskjold,Kunz,Undirected,1
+Greven,Malleville,Undirected,1
+Lieutenant Bech,Rantzau,Undirected,2
+Køller,Lieutenant Bech,Undirected,1
+Bech,Rantzau,Undirected,1
+Bech,Beringskjold,Undirected,1
+Beringskjold,Kunzl,Undirected,1
+Jens Frandsen,Struensee,Undirected,1
+Rantzau,Sprengporten,Undirected,1
+Sprengporten,Struensee,Undirected,1
+Carl Struensee,Rantzau,Undirected,1
+Kunz,s,Undirected,1
+Beringskjold,Malleville,Undirected,1
+Eichstedt,von Eichen,Undirected,2
+Rantzau,von Eichen,Undirected,1
+Brieghel,Jessen,Undirected,3
+Guldberg,Juliane,Undirected,1
+Brieghel,Guldberg,Undirected,1
+Karl igjén,Rantzau,Undirected,1
+Jomfru Ahrensbach,Rantzau,Undirected,3
+Lieutenant Bech,Struensee,Undirected,1
+Rantzau,von Berger,Undirected,1
+Rantzau,Von Osten,Undirected,2
+Eichen,Rantzau,Undirected,1
+Lovisa Augusta,Von Osten,Undirected,1
+Frøken Møsting,Jomfru Ahrensbach,Undirected,1
+Charlotte Trolle,Frøken Møsting,Undirected,2
+Frøken Møsting,Rantzau,Undirected,1
+Madame,Rantzau,Undirected,1
+Castenschiold,Madame,Undirected,1
+Kjør,Rantzau,Undirected,1
+Madammen,Struensee,Undirected,1
+Struensee,lille Brandt,Undirected,1
+Jærn,lille Brandt,Undirected,1
+Jærn,Karl,Undirected,1
+Sander,maalløs,Undirected,2
+Reutzer,Sander,Undirected,1
+Christian,Gud,Undirected,1
+Lieutenanten,Sander,Undirected,1
+Frants von Eichen,Lieutenanten,Undirected,1
+Monsieur Sander,Niels Sander,Undirected,1
+Frants von Eichen,Køller,Undirected,1
+Eichen,Køller,Undirected,1
+Eichstedt,Falkenskjold,Undirected,1
+Falkenskjold,Karl,Undirected,1
+Eichen,Taffels,Undirected,1
+Struensee,Taffels,Undirected,1
+Anna Frausing,Sander,Undirected,1
+Frausing,Madam Gjørling,Undirected,1
+Anna,Madam Gjørling,Undirected,1
+Anna,Tyras,Undirected,1
+Christian Trolle,Monsieur Gabels,Undirected,1
+Monsieur Gabels,Struensee,Undirected,1
+Gabels,Struensee,Undirected,1
+Gabels,Karle,Undirected,1
+Beringskjold,Karle,Undirected,1
+Beringskjold,Gabels,Undirected,1
+Gabels,Sander,Undirected,1
+Beringskjold,Sander,Undirected,1
+Køller,Sander,Undirected,1
+Londemann,Mathilde,Undirected,1
+Clementin,Mathilde,Undirected,1
+Clementin,hendel,Undirected,1
+Julie,Sander,Undirected,1
+Leander,Sander,Undirected,1
+Holbergs,Leander,Undirected,1
+Holbergs,Sander,Undirected,1
+Rezia,Venus,Undirected,1
+Sander,hendel,Undirected,1
+Beringskjold,Charlotte,Undirected,1
+Frants von Eichen,Struensee,Undirected,1
+Kaarde,Niels Sander,Undirected,1
+Anna,Karlen,Undirected,1
+Frausing,Karlen,Undirected,1
+Anna,Christian Trolle,Undirected,2
+Frausing,Gud,Undirected,1
+Anna,Gud,Undirected,1
+Christian,Frausing,Undirected,1
+Charlotte,Londemann,Undirected,1
+Charlotte Trolle,Londemann,Undirected,1
+Kjærsgaard,Niels Sander,Undirected,1
+Anna,Frøken Trolle,Undirected,1
+Hamans,Rantzau,Undirected,1
+Eichen,Trolle,Undirected,9
+Trolle,lille Jens,Undirected,1
+Jens,Trolle,Undirected,1
+Marschal.,Trolle,Undirected,1
+Eichen,Kapitain Malleville,Undirected,1
+Kapitain Malleville,Malleville,Undirected,1
+Eichen,Malleville,Undirected,10
+Dragonritmester von,Eichen,Undirected,1
+Dragonritmester von,Malleville,Undirected,1
+Malleville,Trolle,Undirected,4
+Grabe,Malleville,Undirected,10
+Malleville,Struensee,Undirected,1
+Struensee,von Eichen,Undirected,1
+Christian Trolle,Eichen,Undirected,1
+Malleville,Suhm,Undirected,1
+Frederik,Juliane,Undirected,1
+Grabe,Trolle,Undirected,10
+Dosmer,Malleville,Undirected,1
+Dosmer,Trolle,Undirected,1
+Niels Sander,von Eichen,Undirected,1
+Eichen,Lieutenant Trolle,Undirected,2
+Lieutenant Trolle,Monsieur Sander,Undirected,1
+Kapitain von Eichens,Trolle,Undirected,1
+Malle,Trolle,Undirected,1
+Kapitain von Eichen,Trolle,Undirected,2
+Kapitain von Eichen,von Grabe,Undirected,1
+Caroline Mathilde,Trolle,Undirected,1
+Gud,Trolle,Undirected,1
+Malleville,von Eichen,Undirected,1
+Eichen Malleville,Malleville,Undirected,1
+Eichen,Grabe,Undirected,1
+Malleville,Wolff,Undirected,1
+Grabe,Wolff,Undirected,1
+Haxthausen,Wolff,Undirected,1
+Eichen,Marie Reutzer,Undirected,1
+Grabe,Marie Reutzer,Undirected,2
+Brandt,Gud,Undirected,1
+Arne,Struensee,Undirected,2
+Anna Frausing,Londemann,Undirected,1
+Gjørling,Londemann,Undirected,1
+Gjørling,Monsieur Londemann,Undirected,1
+Eichstedt,Vivatraab,Undirected,1
+Eichstedt,Londemann,Undirected,2
+Brandt,Londemann,Undirected,2
+Balthasar Münter,Struensee,Undirected,1
+Balthasar Münter,Eichstedt,Undirected,1
+Brandt,Provst Hee,Undirected,1
+Clementin,Struensee,Undirected,1
+Clementin,Guldberg,Undirected,1
+Køller,Ranzau,Undirected,1
+Ranzau,Struensee,Undirected,1
+Caroline Mathilde,Juliane Marie,Undirected,2
+Frederik VI.s,Juliane Marie,Undirected,1
+Caroline Mathilde,Clementin,Undirected,1
+Londemann,signe,Undirected,1
+Caroline Mathilde,Kong Georg,Undirected,1
+Helenas,Kong Georg,Undirected,1
+Helenas,Kong Menelaos,Undirected,1
+Frank,Lovisa Augusta,Undirected,1
+Caroline Mathilde,Lovisa Augusta,Undirected,1
+Brandt,Guillotinens,Undirected,1
+Amalie Trolle,Caroline Mathilde,Undirected,1
+Charlotte,kjære,Undirected,1
+Charlotte,J,Undirected,1
+Nathanael,Nathanael Wraxhall,Undirected,1
+Charlotte,Kronprins Frederik,Undirected,1
+Kronprins Frederik,Lovisa Augusta,Undirected,1
+Flun,Kong Georg I,Undirected,1
+Grev Königsmark,Kong Georg I,Undirected,1

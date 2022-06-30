@@ -1,0 +1,237 @@
+source,target,type,weight
+Deodata,Gud,Undirected,17
+Maria Verner,Villiam Lindal,Undirected,1
+Marias,Villiam Lindal,Undirected,2
+Lindal,Maria,Undirected,6
+Karls,Thomas,Undirected,1
+Karl,Maria,Undirected,1
+Thomas,Villiam,Undirected,1
+Lindal,Thomas,Undirected,2
+Deodata,Lindal,Undirected,10
+Deodata,Maria,Undirected,2
+Maria Lindal,sidsfe,Undirected,1
+Deodata,sidsfe,Undirected,3
+Deodata,Jesus,Undirected,1
+Deodata,Deodata Lindals,Undirected,1
+Kjøn,sine,Undirected,1
+Kjøn,Lindal,Undirected,1
+Lindal,tans,Undirected,1
+Deodata,Frøken Bregne,Undirected,2
+Deodata,Kathinka,Undirected,3
+Deodata,falsf,Undirected,1
+Deodata,Deodata Lindal,Undirected,2
+Deodata,Maria Lindal,Undirected,1
+Deodata,elffes,Undirected,1
+Deodata,iveien,Undirected,2
+Kathinka,iveien,Undirected,1
+Deodata,Stifdatter,Undirected,2
+Deodata,Harald,Undirected,63
+Harald,Lindal,Undirected,2
+Deodala,Lindal,Undirected,1
+Deodala,Vagner,Undirected,1
+Deodata,hades,Undirected,1
+Geodata,Kvel,Undirected,1
+Gud,Kvel,Undirected,1
+Gud,Harald,Undirected,16
+Harald,iveien,Undirected,1
+Deodata,Vagner,Undirected,2
+Deodata,sif Brudeslør,Undirected,1
+Deodata Lindal,Harald Vågner,Undirected,1
+Deodata Lindal,Harald,Undirected,1
+Harald,siv,Undirected,1
+Gud,siv,Undirected,1
+Deodata,ester,Undirected,1
+Egeved,Harald,Undirected,3
+Deodata,Egeved,Undirected,2
+Deodata,hnn,Undirected,2
+Harald,Hlervig,Undirected,7
+Deodata,Hlervig,Undirected,6
+Arnold,Deodata,Undirected,2
+Arnold,Præsf,Undirected,1
+Deodata,Præsf,Undirected,1
+Arnold Hlervig,Deodata,Undirected,1
+Deodata,Ingeborgs,Undirected,1
+Ingeborgs,Øe,Undirected,1
+Ingeborg,Tys,Undirected,1
+Kirstine,Tys,Undirected,1
+Alfred,Kirstine,Undirected,2
+Deodata,Kirstine,Undirected,1
+Alfred,Deodata,Undirected,7
+Deodata,Ingeborg,Undirected,28
+Harald,Ingeborg,Undirected,7
+Harald,rasfe,Undirected,1
+Harald,Thee,Undirected,1
+Deodata,Thee,Undirected,1
+Deodata,Stenberg,Undirected,1
+Elisabeth,Harald,Undirected,1
+Deodata,Elisabeth,Undirected,6
+Deodata,Ingeborg Hlervigs,Undirected,2
+Arnold,Ingeborg Hlervigs,Undirected,1
+Arnold,Ingeborg,Undirected,25
+Hlervig,Ingeborg,Undirected,2
+Harald,ane,Undirected,1
+Harald,Thorberg,Undirected,1
+Harald,Øe,Undirected,1
+Arnold,Harald,Undirected,2
+Gud,Pasfor Vendelbo,Undirected,1
+Arnold,Vagner,Undirected,1
+Gud,Vagner,Undirected,1
+Harald,Vendelbo,Undirected,1
+Gud,Vendelbo,Undirected,1
+Gud,Hlervig,Undirected,5
+Deodata,Vendelbo,Undirected,1
+Deodata,Pauli,Undirected,1
+Gud,Pauli,Undirected,1
+Deodata,lille Kristines,Undirected,1
+Alfred,lille Kristines,Undirected,1
+Alfred,Ingeborg,Undirected,23
+Alfred,Hlervig,Undirected,2
+Arnold,Visfnok,Undirected,1
+Alfred,Arnold,Undirected,5
+Deodata,Hlcrvigs,Undirected,1
+Harald,Hlcrvigs,Undirected,1
+Arnold,Gud,Undirected,12
+Deodata,Elisabeth Stenbergs,Undirected,1
+Elisabeth Stenbergs,Husbonds,Undirected,1
+Deodata,Dokfor Herløv,Undirected,1
+Axel Herlov,Elisabeth,Undirected,1
+Axel Herlov,Deodata,Undirected,1
+Charlotte Corday,Jeanne d ' Arc,Undirected,1
+Axel,Emilie Ribolt,Undirected,1
+Axel,Deodata,Undirected,1
+Elisabeth,Herløv,Undirected,2
+Axel Herløv,Deodata,Undirected,2
+Candidat Thorberg,Juul,Undirected,1
+Deodata,Juul,Undirected,1
+Candidat Thorberg,Harald,Undirected,2
+Deodafa,Harald,Undirected,1
+Dn,Harald,Undirected,2
+Ingeborg,Ingeborg Hlervigs,Undirected,1
+Axel Herløv,Gud,Undirected,1
+Axel,Elisabeth,Undirected,23
+Axel,Stenberg,Undirected,1
+Elisabeth,Stenberg,Undirected,1
+Axel,Øe,Undirected,1
+Axel,Gud,Undirected,3
+Elisabeth,Gud,Undirected,8
+Axel,lille Elisabeth,Undirected,1
+Elisabeth,lille Elisabeth,Undirected,1
+Axel,Elisabeth Stenberg,Undirected,1
+Elisabeth Stenberg,Herløv,Undirected,1
+Herløv,Hlervig,Undirected,2
+Dokfor Herløv,Hlervig,Undirected,1
+Deodata,Thorberg,Undirected,3
+Gud,Thorberg,Undirected,6
+Harald,sfal,Undirected,1
+Dn,sfal,Undirected,1
+Hlervig,Thorberg,Undirected,3
+Thorberg,Zion,Undirected,1
+Candidat Thorberg,Ingeborg Hlervig,Undirected,1
+Ingeborg,Thorberg,Undirected,3
+Gud,Ingeborg,Undirected,16
+,Johannes,Undirected,1
+,Gud,Undirected,1
+Chrisfus,Hlervig,Undirected,1
+Chrisfus,Thorberg,Undirected,1
+Pasfor Hlervig,Thorberg,Undirected,2
+Hlervig,Paulus,Undirected,1
+Paulus,Thorberg,Undirected,1
+Christen,Gud,Undirected,2
+Christen,Christus,Undirected,2
+Hlervig,Jesus Christus,Undirected,1
+Jesus,Lazarus,Undirected,1
+,Lazarus,Undirected,1
+,Hlervig,Undirected,1
+Jakob,Thorberg,Undirected,1
+Jakob,Josef,Undirected,1
+Josef,Pastor Hlervig,Undirected,1
+Candidat Thorberg,Hlervig,Undirected,1
+Arnold Hlervig,Gud,Undirected,2
+Arnold,Dokfor Herløv,Undirected,1
+Alfred,Dokfor Herløv,Undirected,2
+Alfred,Axel Herløv,Undirected,2
+Hlervig,Øe,Undirected,1
+Gud,Øe,Undirected,1
+Alfred,Thorberg,Undirected,2
+Arnold,Thorberg,Undirected,1
+Ingeborg,frisl,Undirected,1
+Gud,frisl,Undirected,1
+Alfred,Fader,Undirected,1
+Kirstine,lille Kirstine,Undirected,1
+Kain,Kirstine,Undirected,3
+Abel,Kain,Undirected,3
+Gud,lille Alfred,Undirected,2
+Axel,Ingeborg,Undirected,2
+Herløv,Ingeborg,Undirected,2
+Gud,Herløv,Undirected,1
+Arnold,Herløv,Undirected,1
+Arnold,Husbond,Undirected,1
+Gud,Husbond,Undirected,1
+Alfred,Gud,Undirected,2
+Ingeborg,Jesus,Undirected,1
+Ingeborg,lille Kirstine,Undirected,1
+Deodata,Herløv,Undirected,3
+Alfred,Herløv,Undirected,1
+Alfred,Jesus,Undirected,1
+Ingeborg,hnn,Undirected,1
+Alfred,Axel,Undirected,2
+Alfred,Elisabeth,Undirected,1
+Elisabeth,lille Alfred,Undirected,1
+Christi,Gud,Undirected,1
+Ingeborg,lille Kirsfine,Undirected,1
+lille,lille Kirsfine,Undirected,1
+Kirsfine,lille,Undirected,1
+Ingeborg,Kirstine,Undirected,2
+Alfred,hsi,Undirected,1
+Gud,hsi,Undirected,1
+Axel Herløv,Golgathas,Undirected,1
+Axel Herløv,Vantro,Undirected,1
+Christus,Haabets,Undirected,1
+Arnold,Christus,Undirected,1
+Arnold,Axel Herløv,Undirected,1
+Candidat Thorberg,Gud,Undirected,1
+Gud,kjære Ingeborg,Undirected,1
+Alfred,kjære Ingeborg,Undirected,1
+Axel,Herløv,Undirected,1
+Alfred,Christus,Undirected,1
+Arnold,Axel,Undirected,1
+Axel,Hlervig,Undirected,1
+Gud,Maria,Undirected,1
+Herløv,Maria,Undirected,1
+Egeved,Ingeborg,Undirected,1
+Ingeborg,taus,Undirected,2
+Gud,Gud Faders,Undirected,1
+Deodafa,Ingeborg,Undirected,1
+Alfred,L,Undirected,1
+Alfred,Deodafa,Undirected,1
+Deodafa,Deodata,Undirected,1
+Deodata,Ester,Undirected,1
+Deodata,flulde,Undirected,1
+Harald,Jørgen,Undirected,3
+Edvards,Harald,Undirected,1
+Edvards,Jørgen,Undirected,1
+Jørgen,senesl,Undirected,1
+Hilda,senesl,Undirected,1
+Hilda,Jørgen,Undirected,2
+Edvard,Jørgen,Undirected,5
+Edvard,Hilda,Undirected,3
+Harald,Vagner,Undirected,1
+Harald,Orkel,Undirected,1
+Jørgen,Orkel,Undirected,1
+Edvard,Harald,Undirected,1
+Arne,Deodata,Undirected,1
+Ask,Deodata,Undirected,2
+Elisabeth Stenberg,Gud,Undirected,1
+Elisabeth,ønsfede,Undirected,2
+Dokforen,lille Marie,Undirected,1
+Herløv,lille Marie,Undirected,1
+Maries,lille Marie,Undirected,1
+Maries,Præsfen,Undirected,1
+Gud,Præsfen,Undirected,1
+Gud,lille Marie,Undirected,1
+Jesu,lille Marie,Undirected,1
+Gud,Jesu,Undirected,1
+Gud,Hr. Dokfor,Undirected,1
+Elisabeth,Lille Elisabeth,Undirected,1
+Elisabeth,Hr. Stenberg,Undirected,1
+Harald,Herløv,Undirected,1

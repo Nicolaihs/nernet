@@ -1,0 +1,510 @@
+source,target,type,weight
+Kunz,Max,Undirected,1
+Peder,Peder Skram,Undirected,5
+Martin Luther,Peder Skram,Undirected,1
+Klaus Hermelinck,Peder Skram,Undirected,17
+Klaus,Peder Skram,Undirected,2
+Henrik Gjøe,Ove Bildes,Undirected,1
+Kong Frederik,Ove Bildes,Undirected,1
+Knud Sparre,Kong Frederik,Undirected,1
+Klaus Hermelinck,Knud Sparre,Undirected,1
+Allandsens,Peder Skram,Undirected,1
+Allandsens,Junker,Undirected,1
+Junker,Peder,Undirected,3
+Klaus,Mikkel Færgemand,Undirected,2
+Peder Skram,fiffig,Undirected,1
+Peder Skram,prentet,Undirected,1
+Klaus Hermelinck,prentet,Undirected,1
+Guds,Klaus,Undirected,1
+Junker Peder Skram,Klaus Hermelinck,Undirected,1
+Junker Peder Skram,Peder Skram,Undirected,1
+Klaus Hermelinck,Miinzer,Undirected,1
+Klaus Hermelinck,jert Vel,Undirected,1
+Klaus Hermelinck,Mikkel Færgemand,Undirected,3
+Mikkel Færgemand,Peder Skram,Undirected,3
+Skram,Stephan,Undirected,1
+Hopfenstein,Klaus Hermelinck,Undirected,1
+Mester Strauff,Skram,Undirected,1
+Peder Skram,Strauff,Undirected,1
+Hopfenstein,Peder Skram,Undirected,4
+Henrik Gjøe,Mogens Gyldenstjerne,Undirected,1
+Frederik,jert Snille,Undirected,1
+Kong Frederik,Lehn,Undirected,1
+Christiern,Hansaen,Undirected,1
+Christiern,Morten Luther,Undirected,1
+Hopfenstein,Mester Strauff,Undirected,1
+Peder Skram,Skram,Undirected,2
+Klaus Hermelinck,Skram,Undirected,3
+Arild,Peder Skram,Undirected,31
+Karl,Thomas Miinzers,Undirected,1
+Klaus Hermelinck,Thomas Miinzers,Undirected,1
+Klaus,Klaus Hermelinck,Undirected,2
+Mogens Gjøe,Urne,Undirected,1
+Gjøe,Mogens Gjøe,Undirected,1
+Gjøe,Søren Norby,Undirected,1
+Christiern den,Søren Norby,Undirected,1
+Christiern den,Kong Frederik,Undirected,1
+Guds,Peder Skram,Undirected,2
+ArildJenssøn,Peder Skram,Undirected,2
+Arild,Mikkel,Undirected,1
+Arild Jenssøn,Peder Skram,Undirected,35
+Peder Skram,Urne,Undirected,1
+Elsebe,Guds,Undirected,1
+Elsebe,Krabbe,Undirected,5
+Jomfru Elsebes,Krabbe,Undirected,1
+Jomfru Elsebe,Jomfru Elsebes,Undirected,1
+Elsebe,Jomfru Elsebe,Undirected,1
+Gud,Kirsten Urne,Undirected,1
+Gud,Peder Skram,Undirected,13
+Karl,Peder Skram,Undirected,27
+Hopfenstein,Karl,Undirected,3
+Junkeren,Karl,Undirected,2
+Karl,Mester Strauff,Undirected,1
+Junker,Junkeren,Undirected,1
+Karlen,Svend,Undirected,3
+Junkeren,Svend,Undirected,1
+Mester Strauff,Svend Hjemløs,Undirected,1
+Junker,Mester Strauff,Undirected,1
+Mester Strauff,Svend,Undirected,1
+Jærnpile,Strauff,Undirected,1
+Jærnpile,Svend,Undirected,1
+Peder Skram,allenfals,Undirected,1
+Arild Jenssøn,Junker,Undirected,1
+Karl —,Peder Skram,Undirected,1
+Peder Skram,trine,Undirected,1
+Peder Skram,Svend,Undirected,30
+Arild,Karl,Undirected,6
+Giøe,Karl,Undirected,1
+Karl tilrette,Peder Skram,Undirected,1
+Arild,Svend Hjemløs,Undirected,6
+Arild,Svend,Undirected,8
+Karlen,Peder Skram,Undirected,1
+Peder Skram,Svend Hjemløs,Undirected,19
+Karl,Svend Hjemløs,Undirected,4
+Arild Jenssøn,Svend Hjemløs,Undirected,16
+Karl,Svend,Undirected,13
+Gud,Karl,Undirected,1
+Belzebub,Karl,Undirected,1
+Hopfenstein,Svend Hjemløs,Undirected,1
+Karl,Peder,Undirected,1
+Arild Jenssøn,Karl,Undirected,7
+Kong Frederik,Naades,Undirected,1
+Christiern,Kong Frederik,Undirected,3
+Gjøe,Krabbe,Undirected,1
+Gjøe,Knud Gyldenstjerne,Undirected,1
+Knud Gyldenstjerne,Kong Christiern,Undirected,8
+Kong Christiern,Rønnow,Undirected,1
+Christian,Kong Hans,Undirected,1
+Kong Christians,Kong Hans,Undirected,2
+Christine,Kong Hans,Undirected,1
+Kong Christiern,Reinvald,Undirected,1
+Giseler,Reinvald,Undirected,2
+Axel Jul,Giseler,Undirected,1
+Axel Jul,Naades,Undirected,1
+Krabbe,Naades,Undirected,1
+Krabbe,Skram,Undirected,5
+Admiral,Skram,Undirected,1
+Admiral,Hans,Undirected,1
+Anders Bilde,Hans,Undirected,2
+Anders Bilde,Junker Wilken Steding,Undirected,1
+Junker Wilken Steding,Nicolaus Bardewyck,Undirected,1
+Geert Odingbergk,Nicolaus Bardewyck,Undirected,1
+Geert Odingbergk,Lybek,Undirected,1
+Kong Frederik,Lybek,Undirected,1
+Christiern,Giseler,Undirected,2
+Geert,Giseler,Undirected,1
+Axel Jul,Hans,Undirected,1
+Admiral,Anders Bilde,Undirected,1
+Admiral,Peder Skram,Undirected,2
+Giseler,Peder Skram,Undirected,6
+Giseler,Jul,Undirected,2
+Heidersdorf,Reinvald,Undirected,3
+Heidersdorf,Krabbe,Undirected,1
+Krabbe,Rønnow,Undirected,1
+Peder Skram,Reinvald,Undirected,2
+Krabbe,Peder Skram,Undirected,4
+Krabbe,Michael,Undirected,1
+Giseler,Michael,Undirected,1
+Giseler,Mogens Gyldenstjerne,Undirected,1
+Allenfals,Mogens Gyldenstjerne,Undirected,1
+Allenfals,Lybek,Undirected,1
+Giseler,Tile,Undirected,5
+Friederich Brun,Peder Skram,Undirected,4
+Peder Skram,Tyge Krabbe,Undirected,6
+Elsebe,Ulfstand,Undirected,3
+Peder,Ulfstand,Undirected,1
+Reinvald,Tyge Krabbe,Undirected,2
+Jomfru Elsebe,Peder Skram,Undirected,4
+Jacob,Rachel,Undirected,1
+Elsebe,Rachel,Undirected,1
+Elsebe,Tyge Krabbe,Undirected,4
+Flores,Gotfrid,Undirected,1
+Hr. Tyge,Peder Skram,Undirected,1
+Elsebe,Sanden,Undirected,1
+Elsebe Krabbe,Peder Skram,Undirected,6
+Elsebe,Elsebe Krabbe,Undirected,1
+Elsebe,Peder Skram,Undirected,20
+Elsebe,Gud,Undirected,1
+Elsebe Krabbe,eders,Undirected,1
+Mester Jul,Peder Skram,Undirected,1
+Peder Skram,Valborgs,Undirected,1
+Svend,Valborgs,Undirected,1
+Morten Foged,Urup,Undirected,1
+Morten Foged,Peder Skram,Undirected,1
+Arild Jenssøn,Kong Christiern,Undirected,3
+Kong Christiern,Ulfstand,Undirected,1
+Krabbe,Ulfstand,Undirected,1
+Kong Christiern,Krabbe,Undirected,1
+Gyldenstjerne,Kong Christiern,Undirected,2
+Gyldenstjerne,Kong Frederik,Undirected,1
+Hr. Mogens,Kong Frederik,Undirected,1
+Arild,Kong Christiern,Undirected,1
+Hr. Mogens,Kong Christiern,Undirected,1
+Gud,Hr. Mogens,Undirected,1
+Gud,Kong Christiern,Undirected,9
+Giseler,Gyldenstjerne,Undirected,1
+Arild Jenssøn,Giseler,Undirected,2
+Arild,Arild Jenssøn,Undirected,6
+Arild,Peder,Undirected,1
+Belzebub,Peder Skram,Undirected,1
+Gud,Norby,Undirected,1
+Peder Skram,Tile,Undirected,3
+Arild Jenssøn,Tile,Undirected,1
+Allandsens,Tile,Undirected,1
+Peder Skram,Tile Giseler,Undirected,11
+Jenssøn,Peder Skram,Undirected,1
+Maren Bødkers,Svend,Undirected,7
+Maren Bødkers,Peder Skram,Undirected,2
+Hopfenstein,St. Nicolaj Kirkegaard,Undirected,1
+Belzebub,Hopfenstein,Undirected,1
+Belzebub,Junker,Undirected,3
+ArildJenssøn,Svend,Undirected,1
+Nicolaj,Svend Hjemløs,Undirected,1
+Arild Jenssøn,Belials,Undirected,1
+Arild,Maren Bødkers,Undirected,4
+Maren Bødkers,Svend Hjemløs,Undirected,1
+Hexen,lille Hans,Undirected,1
+Gud,lille Hans,Undirected,1
+Arild Jenssøn,Svend,Undirected,13
+Arild Jenssøn,Bjørns,Undirected,1
+Maren,Svend,Undirected,1
+Arild Jenssøn,Maren Bødkers,Undirected,4
+Hopfenstein,Krabbe,Undirected,1
+Elsebe,Reinvald,Undirected,2
+Mester Strauff,Reinvald,Undirected,2
+Hopfenstein,Junker,Undirected,1
+Hopfenstein,Skram,Undirected,1
+Maren,Mester Strauff,Undirected,1
+Maren Bødkers,Reinvald,Undirected,2
+Hopfenstein,Strauff,Undirected,1
+Kjende,Maren Bødkers,Undirected,1
+Ivoka,Maren Bødkers,Undirected,11
+Anne-Marie,Ivoka,Undirected,4
+Maren Bødkers,Strauff,Undirected,1
+Hopfenstein,Maren Stodderæske,Undirected,1
+Hopfenstein,Svend,Undirected,2
+Hopfenstein,Ivoka,Undirected,1
+Belzebub,Svend,Undirected,1
+AnneMaries,Arild,Undirected,1
+AnneMarie,Arild Jenssøn,Undirected,1
+Anne-Marie,Arild,Undirected,5
+Anne-Marie,Arild Jenssøn,Undirected,5
+Anne-Marie,Svend Hjemløs,Undirected,1
+Anne-Marie,Moder Ivoka,Undirected,1
+Jomfru Maria,Moder Ivoka,Undirected,1
+AnneMarie,Arild,Undirected,1
+Arild,Narrifax,Undirected,1
+Arild Jenssøn,JeS,Undirected,1
+Anne-Marie,Peder Skram,Undirected,7
+Kong Christiern,Tile Giseler,Undirected,3
+Kong Christiern,Tile,Undirected,1
+Kong Christiern,Peder Skram,Undirected,15
+Christiern,Peder Skram,Undirected,1
+Arild Jenssøn,sem,Undirected,1
+Anne-Marie,Jomfru Elsebe,Undirected,3
+Hopfenstein,Kong Frederik,Undirected,1
+Reinvald,jert,Undirected,1
+Hopfenstein,jert,Undirected,1
+Elsebe,Hopfenstein,Undirected,1
+Heidersdorf,Tyge Krabbe,Undirected,1
+Junker,Tyge Krabbe,Undirected,1
+Mogens Gyldenstjerne,Peder Skram,Undirected,7
+Kong Christiern,Mogens Gyldenstjerne,Undirected,4
+Peder Skram,maanelys,Undirected,1
+Michael,Peder Skram,Undirected,4
+Svend,Tile,Undirected,1
+Kong Christiern,ikkun,Undirected,2
+Henriksen Gyldenstjerne,Kong Christiern,Undirected,1
+Kong Christiern,dragen,Undirected,2
+Kong Christiern,Kong Frederik,Undirected,5
+Frederik,Kong Frederik,Undirected,1
+Frederik,Mogens Gyldenstjerne,Undirected,1
+Liv,Peder Skram,Undirected,1
+Liv,Rigsbanner,Undirected,1
+Akershus,Rigsbanner,Undirected,1
+Gud,Tile,Undirected,1
+Hans Reff,Kong Christiern,Undirected,1
+Gud,Hans Reff,Undirected,1
+Christiern,Gud,Undirected,3
+Mogens,Peder Skram,Undirected,1
+Kong Frederik,Peder Skram,Undirected,3
+Tile Giseler,strax,Undirected,1
+Peder Skram,strax,Undirected,1
+Kong Ckristierns,Peder Skram,Undirected,1
+Christian Tyran,Kong Christiern,Undirected,1
+Peder Skram,Podemester,Undirected,4
+Hans,Peder Skram,Undirected,6
+Gjøe,Peder Skram,Undirected,6
+Gjøe,Tyge Krabbe,Undirected,1
+Axel Jul,Tyge Krabbe,Undirected,1
+Axel Jul,Mogens Gjøe,Undirected,1
+Knud,Peder Skram,Undirected,1
+Hvi,Peder Skram,Undirected,1
+Hvi,Reinvald,Undirected,1
+Mester Jul,Mogens Gjøe,Undirected,1
+Isse,Naades,Undirected,1
+Mogens Gjøe,Tyge Krabbe,Undirected,2
+Junker Stephan,Reinvald,Undirected,1
+Hopfenstein,Junker Stephan,Undirected,1
+Hopfenstein,Tyge,Undirected,1
+Jomfru Elsebe,Odingbergk,Undirected,1
+Tyge Krabbe,allenfals,Undirected,1
+Axel Jul,eders,Undirected,1
+Skram,eders,Undirected,1
+Skram,Wilken Steding,Undirected,1
+Junker,Peder Skram,Undirected,7
+Knud Gyldenstjerne,Mogens Gjøe,Undirected,1
+Gjøe,Mester Jul,Undirected,1
+Peder Skram,Trommers,Undirected,1
+Pibers,Trommers,Undirected,1
+Mogens Gyldenstjerne,Pibers,Undirected,1
+Knud Gyldenstjerne,Sanden,Undirected,1
+Christiern,Sanden,Undirected,1
+Christiern,Kong Christiern,Undirected,5
+Mogens Gjøe,Peder Skram,Undirected,5
+Jomfru Elsebe,Tyge Krabbe,Undirected,1
+Gud,Knud Gyldenstjerne,Undirected,1
+Junker Steding,Peder Skram,Undirected,2
+Jul,Mester,Undirected,2
+Jul,Tyge Krabbe,Undirected,1
+Junker Steding,Mogens Gjøe,Undirected,2
+Junker Steding,Tyge Krabbe,Undirected,1
+Peder Skram,’,Undirected,2
+Peder Skram,Wilken,Undirected,2
+Knud,Wilken,Undirected,1
+Allenfals,Peder Skram,Undirected,1
+Jul,Peder Skram,Undirected,2
+Junker,Knud Gyldenstjerne,Undirected,1
+Arild,Gyldenstjerne,Undirected,1
+Knud Gyldenstjerne,Peder Skram,Undirected,6
+Knud Gyldenstjerne,Niels Lykke,Undirected,1
+Christiern,Niels Lykke,Undirected,1
+Christiern,Reinvald,Undirected,1
+Junker Wilken Steding,Reinvald,Undirected,1
+Geert Odingbergk,Junker Wilken Steding,Undirected,1
+Geert Odingbergk,Joachim Sandov,Undirected,2
+Frederik,Kong Christiern,Undirected,1
+Gud,Kong Frederik,Undirected,5
+Gustav Trolles,Kong Christiern,Undirected,1
+Gud,Gustav Trolles,Undirected,1
+Gyldenstjerne,Peder,Undirected,1
+Gyldenstjerne,Peder Skram,Undirected,1
+Gud,Mester,Undirected,1
+Geert Odingbergk,Junker,Undirected,1
+Joachim Sandov,Peder Skram,Undirected,1
+Geert Odingbergk,Karl,Undirected,3
+Geert Odingbergk,Peder Skram,Undirected,5
+Odingbergk,Peder Skram,Undirected,1
+Karl,Odingbergk,Undirected,1
+Hopfenstein,Jomfru Elsebe,Undirected,1
+Arild,Geert Odingbergk,Undirected,1
+Geert Odingbergk,Svend,Undirected,3
+Arild,Junker Odingbergk,Undirected,1
+Allandsens,Karl,Undirected,1
+Odingbergk,Reinvald,Undirected,1
+Lybekkerens,Reinvald,Undirected,1
+Junkeren,Lybekkerens,Undirected,1
+Junkeren,Skram,Undirected,1
+Peder Skram,tørt,Undirected,1
+Hugaf,Peder Skram,Undirected,1
+Elsebe,Skram,Undirected,1
+Arild Jenssøn,Geert Odingbergk,Undirected,1
+Albrecht,Kong Gustav,Undirected,1
+Kong Christiern,Kong Gustav,Undirected,1
+Arild,Skram,Undirected,2
+Anne-Marie,Elsebe,Undirected,4
+AnneMarie,Kong Christiern,Undirected,1
+Elsebe,Ivoka,Undirected,1
+Ivoka,Mo’,Undirected,1
+Elin,Mo’,Undirected,3
+Arild,Elin,Undirected,1
+Anne-Marie,Elin,Undirected,1
+Elin,Elsebe Krabbe,Undirected,1
+AnneMarie,Jomfru Elsebe,Undirected,1
+Arild Jenssøn,Elin,Undirected,1
+Elin,Peder Skram,Undirected,5
+Elin,Mo,Undirected,11
+Arild,Jomfru Elsebe,Undirected,2
+Arild,Elsebe,Undirected,2
+Elsebe,Mo,Undirected,1
+Anne-Marie,Svend,Undirected,1
+AnneMarie,Elsebe,Undirected,1
+Arild Jenssøn,Christiern,Undirected,1
+Arild Jenssøn,Elsebe Krabbe,Undirected,1
+Elsebe Krabbe,Skram,Undirected,2
+Hr. Tyge,Krabbe,Undirected,1
+Elsebe Krabbe,Kong Christiern,Undirected,1
+Peder Skram,Slaa,Undirected,1
+Kong Christiern,Slaa,Undirected,1
+Christian,Kong Christiern,Undirected,1
+Christian,Gud,Undirected,1
+Jørgen Wullenwever,Peder Skram,Undirected,1
+Jørgen Wullenwever,Lybek,Undirected,1
+Gud,Lybek,Undirected,1
+Christi,Peder Skram,Undirected,1
+Oluf Rosenkrantz,Tyge Krabbe,Undirected,1
+Mogens,Oluf Rosenkrantz,Undirected,1
+Karine,Mogens,Undirected,1
+Karine,Ove Bilde,Undirected,1
+Mogens,Ove Bilde,Undirected,1
+Mogens,Torben Bilde,Undirected,1
+Iver Munk,Torben Bilde,Undirected,1
+Iver Munk,Jørgen Friis,Undirected,1
+Jørgen Friis,Podebusk,Undirected,1
+Bilde,Podebusk,Undirected,1
+Bilde,Egede,Undirected,2
+Bilde,Urne,Undirected,2
+Elsebe Krabbe,Gud,Undirected,1
+Magdalene Krabbe,Ulftands,Undirected,1
+Lunge,Peder Skram,Undirected,1
+Hr. Oves,Peder Skram,Undirected,1
+Greven,Peder Skram,Undirected,2
+Kong Christiern,Skram,Undirected,1
+Karl,Kong Christiern,Undirected,1
+Gud,Skram,Undirected,1
+Dronning Tyre,Svend,Undirected,1
+Gjøe,Jost Globek,Undirected,3
+Christian,Jost Globek,Undirected,1
+Christian,Peder Skram,Undirected,1
+Christian,Gjøe,Undirected,1
+Johan Rantzau,Peder Skram,Undirected,4
+Johan Rantzau,Mogens Gjøe,Undirected,1
+Everhard Ouelacker,Johan Rantzau,Undirected,1
+Christoffer,Karl,Undirected,1
+Peder Skram,Urup,Undirected,2
+Svend,Urup,Undirected,1
+Hans,Podemester,Undirected,1
+Hans,Mo,Undirected,2
+Mo,Podemester,Undirected,1
+Morlillen,Peder Skram,Undirected,1
+Hans,Karl,Undirected,1
+Arild,Krabbe,Undirected,1
+Hans,Krabbe,Undirected,1
+Elin,Hans,Undirected,2
+Elin,Gud,Undirected,1
+Gud,Podemester,Undirected,1
+Levvel,Peder Skram,Undirected,1
+Levvel,Mo,Undirected,1
+Lybekkeren,Peder Skram,Undirected,1
+Jost Globek,Peder Skram,Undirected,1
+Anika,Tatersken,Undirected,1
+Allandsens,ho,Undirected,1
+Allandsens,Janko,Undirected,1
+Janko,Klaus Hermelinck,Undirected,1
+Ivoka,Maren,Undirected,2
+Ivoka,Janko,Undirected,7
+Ivoka,Klaus Hermelinck,Undirected,4
+Janko,Strauff,Undirected,2
+Klaus Hermelinck,Maren Bødkers,Undirected,1
+Johan Rantzau,Mo,Undirected,1
+Greven,Karl,Undirected,1
+Ivoka,Peder Skram,Undirected,2
+Janko,Peder Skram,Undirected,1
+Mester Strauff,Peder Skram,Undirected,1
+Moder Ivoka,Strauff,Undirected,1
+Mester,Strauff,Undirected,1
+Ivoka,Mester Strauff,Undirected,5
+Janko,Skram,Undirected,1
+Karl,Skram,Undirected,1
+Karle,Peder Skram,Undirected,1
+Gud,Junker,Undirected,1
+Klaus Hermelinck,Peder,Undirected,2
+Junker,Klaus Hermelinck,Undirected,1
+Mester Sebald,Peder,Undirected,1
+Anne Nielsens,Mester Sebald,Undirected,1
+Anne Nielsens,Peder Skram,Undirected,1
+Jomfru Anne,Sebald,Undirected,2
+Anne,Skram,Undirected,1
+Anne,Mester Sebald,Undirected,1
+Klaus Hermelinck,Mester Sebald,Undirected,1
+Klaus Hermelinck,"Svend,",Undirected,1
+Skram,"Svend,",Undirected,1
+Anne,Gud,Undirected,1
+Anne,Peder Skram,Undirected,1
+Podemester,Svend,Undirected,1
+Johan Rantzau,Jomfru Elsebe,Undirected,1
+Clement,Johan Rantzau,Undirected,1
+Clement,Rantzau,Undirected,1
+Christian,Rantzau,Undirected,1
+Christian,Kong Gøsta,Undirected,1
+Christoffer,Kong Gøsta,Undirected,1
+Christoffer,Krabbe,Undirected,1
+Jomfru Elsebe,Krabbe,Undirected,2
+Anne,Elsebe,Undirected,1
+Jomfru Elsebe,Skram,Undirected,1
+Janko,Maren Bødkers,Undirected,1
+Anika,Janko,Undirected,1
+Anika,Ivoka,Undirected,3
+Ivoka,Krabbe,Undirected,1
+Christian den,Peder Skram,Undirected,1
+Christian den,Skram,Undirected,1
+Johan Rantzau,Markus Meyer,Undirected,1
+Anne-Marie,Husbond,Undirected,1
+Herhid,Ola,Undirected,1
+Bengt,Ola,Undirected,1
+Anne-Marie,F'olk,Undirected,1
+Anika,F'olk,Undirected,1
+Anika,Skram,Undirected,2
+Anika,Svend,Undirected,1
+Skram,Svend,Undirected,1
+Anne-Marie,Taterske,Undirected,1
+Anne-Marie,Maren Bødkers,Undirected,1
+Ivoka,kjær,Undirected,1
+Arild Jenssøn,Mester Hans,Undirected,1
+Mester Hans,Peder Skram,Undirected,1
+Elin,Podemester,Undirected,1
+Arild Jenssøn,Hans,Undirected,1
+Gustav,Peder Skram,Undirected,2
+Arild Jenssøn Anne-Maries,Peder Skram,Undirected,2
+Christoffer,Peder Skram,Undirected,2
+Måns Svensson,Peder Skram,Undirected,2
+Michael,Måns Svensson,Undirected,1
+Peder Skram,lybske,Undirected,1
+Admiral,lybske,Undirected,1
+Gustav,Måns Svensson,Undirected,1
+Jærn,Peder Skram,Undirected,1
+Hansaen,Skram,Undirected,1
+Hansaen,Peder Skram,Undirected,1
+Skram,Svensson,Undirected,1
+Erik Flemming,Svensson,Undirected,1
+Erik Flemming,Peder Skram,Undirected,1
+Peder Skram,didhen,Undirected,1
+Christian den tredies,Dorotheas,Undirected,1
+Måns Svensson,Naades,Undirected,1
+Erik Flemming,Måns Svensson,Undirected,1
+Erik Flemming,Mikkel Brokkenhus,Undirected,1
+Mikkel Brokkenhus,Reinvald,Undirected,1
+Christoffer Hvitfeld,Reinvald,Undirected,1
+Christoffer Hvitfeld,Markor Tidemand,Undirected,1
+Arild Ulfstand,Markor Tidemand,Undirected,1
+Arild Ulfstand,Jørgen Stensøn,Undirected,1
+Klaus Hermelinck,spaar,Undirected,1
+Christian den,Krabbe,Undirected,1
+Christian den,Frederik,Undirected,1
+Frederik,Skram,Undirected,1
+Elsebe Krabbe,Krabbe,Undirected,1
+Gud,Krabbe,Undirected,1
+Jomfru Olive,Peder Skram,Undirected,1
+Olive,Peder Skram,Undirected,1
+Olive,Svend,Undirected,1
+Gud,Svend,Undirected,1

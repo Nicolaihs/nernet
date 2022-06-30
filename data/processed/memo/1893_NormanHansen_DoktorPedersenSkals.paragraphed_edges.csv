@@ -1,0 +1,140 @@
+source,target,type,weight
+Joakim Pedersen,Pedersen,Undirected,6
+Doktor ,Pedersen,Undirected,1
+Lorenz Høst,Pedersen,Undirected,2
+Pedersen,skraa,Undirected,1
+Høst,skraa,Undirected,1
+Helga,Pedersen,Undirected,15
+Helga,Lorenz,Undirected,10
+Joakim Pedersen,Lorenz Høst,Undirected,2
+Dickens,Joakim Pedersen,Undirected,1
+Lorenz,Pedersen,Undirected,9
+Mark Twain,s,Undirected,1
+Lorenz,Lorenz Høst,Undirected,2
+Lorenz,Walter Scott,Undirected,1
+Marryat,Walter Scott,Undirected,1
+Lorenz,Marryat,Undirected,1
+Lorenz,Napoleons,Undirected,2
+Joakim Pedersen,Lorenz,Undirected,3
+Lorenz,Turgenjeff,Undirected,1
+Bazaroff,Turgenjeff,Undirected,1
+Bazaroff,Lorenz,Undirected,3
+Bazaroff,Joakim Pedersen,Undirected,1
+Joakim Pedersen,eine schlanke,Undirected,1
+Astrid,Lorenz,Undirected,42
+Lorenz,livor,Undirected,1
+Astrid,Pedersen,Undirected,2
+Lorenz,paany,Undirected,3
+Astrid,paany,Undirected,2
+Astrid,Helga,Undirected,33
+Astrid,Schiern,Undirected,1
+Pastor Schiern,Schiern,Undirected,1
+Astrid,Høst,Undirected,4
+Helga,Høst,Undirected,1
+Helga,Schiern,Undirected,2
+Helga,Joakim Pedersen,Undirected,4
+Karl,Pedersen,Undirected,2
+Helga,Karl,Undirected,1
+Helga,Lorenz Høst,Undirected,1
+Helga Schiern,Lorenz Høst,Undirected,1
+Bjørn,Helga Schiern,Undirected,1
+Bjørn,Lorenz,Undirected,2
+Bjørn,Joakim Pedersen,Undirected,1
+Gud,Helga,Undirected,1
+Astrid,ifjor,Undirected,2
+Astrid,Lorenz strax,Undirected,1
+Astrid,lelga,Undirected,1
+Pedersen,lelga,Undirected,1
+Bo,Lorenz,Undirected,1
+Bo,Joakim Pedersen,Undirected,1
+Lorenz,ban,Undirected,1
+Joakim,Pedersen,Undirected,3
+Gud,Joakim,Undirected,1
+Gud,Pedersen,Undirected,2
+Pedersen,Skraas,Undirected,1
+Mads Jensen,Nielsen,Undirected,1
+Mads Jensen,Pedersen,Undirected,1
+Helga,P'ru,Undirected,1
+Franck,Pedersen,Undirected,3
+Franck,P'rancks,Undirected,1
+Helga,P'rancks,Undirected,1
+Franck,Helga,Undirected,1
+Nielsen,Pedersen,Undirected,3
+Helga,Nielsen,Undirected,2
+Nielsen,Sinsro,Undirected,1
+Pedersen,Sinsro,Undirected,1
+Pedersen,Pienge,Undirected,10
+Nielsen,Pienge,Undirected,1
+Joakim Pedersen,Pienge,Undirected,2
+Helga,Joakim,Undirected,2
+Joakim,Pienge,Undirected,2
+Astrid,Flun,Undirected,1
+Kapellan Pienge,Pienge,Undirected,1
+Kapellan Pienge,Kierkegaard,Undirected,1
+Kierkegaard,Uhdes,Undirected,1
+Dokto,Pedersen,Undirected,1
+Lorenz,Rocamboles,Undirected,1
+Lorenz,siste,Undirected,1
+Joakim,Lorenz,Undirected,1
+J. Pedersen,Lorenz,Undirected,2
+Mtius,Muus,Undirected,1
+Høst,Muus,Undirected,1
+Høst,Lorenz,Undirected,1
+Franck,Lorenz,Undirected,5
+Franck,Muus,Undirected,9
+Dr. Muus,Franck,Undirected,1
+Dr. Franck,Dr. Muus,Undirected,2
+Dr. Franck,Pedersen,Undirected,1
+Dr. Pedersen,Pedersen,Undirected,2
+Dr. Pedersen,Muus,Undirected,1
+Dr. Franck,Muus,Undirected,1
+Dr. Franck,Franck,Undirected,1
+Flund,Franck,Undirected,1
+Dr. Franck,Flund,Undirected,1
+Gud,Lorenz,Undirected,1
+Gud,Høst,Undirected,1
+Astrid,Flelga,Undirected,2
+Bedstefaders,Helga,Undirected,1
+Bedstefaders,Joakim,Undirected,1
+Mikkelsens,Pedersen,Undirected,1
+Mikkelsen,Pedersen,Undirected,1
+Helga,Pienge,Undirected,3
+Pienge,dejo,Undirected,1
+Helga,dejo,Undirected,1
+Peder,Pienge,Undirected,1
+Gud,Peder —,Undirected,1
+Lian,Pienge,Undirected,1
+Gud,Pienge,Undirected,1
+Dr. Pedersen,Pienge,Undirected,1
+Astrid,Muus,Undirected,2
+Lorenz,Muus,Undirected,2
+Dr. Høst,Lorenz,Undirected,1
+Dr. Høst,Nemesis,Undirected,1
+Lorenz,Nemesis,Undirected,1
+Franck,Liv,Undirected,1
+Dr. Pedersen,Mikkelsen,Undirected,3
+Dr. Høst,Dr. Pedersen,Undirected,1
+Dr. Franck,Dr. Pedersen,Undirected,1
+Dr. Franck,Høst,Undirected,1
+Dr. Pedersen,Høst,Undirected,1
+Høst,Pedersen,Undirected,3
+Dr. Høst,Høst,Undirected,2
+Dr. Muus,Lorenz Høst,Undirected,1
+Lorenz,ifjor,Undirected,1
+Høst,Joakim Pedersen,Undirected,2
+Franck,Pedersen Skals,Undirected,1
+Dr. Pedersen,Franck,Undirected,1
+Dr. Pedersen,Lorenz,Undirected,1
+Dr. Pedersen,Joakim Pedersen,Undirected,1
+Hans Jørgen,Jørgen Hansens,Undirected,1
+Jørgen Hansen,Jørgen Hansens,Undirected,1
+Hans Jørgen,Jørgen Hansen,Undirected,1
+Hans Jørgen,Lorenz,Undirected,1
+Brown Sequards,Lorenz,Undirected,2
+Pienge,cyclede Lorenz,Undirected,1
+Brown,Pedersen,Undirected,1
+Brown,Sequardske,Undirected,1
+Methode,Sequardske,Undirected,1
+Gud,véd,Undirected,1
+Høst,Koch,Undirected,1
+Høst,Karl,Undirected,1

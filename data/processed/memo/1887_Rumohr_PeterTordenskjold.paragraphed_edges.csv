@@ -1,0 +1,1455 @@
+source,target,type,weight
+Ludvig den,Odin,Undirected,1
+Odin,sif,Undirected,1
+Karl den,sif,Undirected,1
+Eugen øg Marlborough,Karl den,Undirected,1
+Eugen øg Marlborough,Nørdens,Undirected,1
+Frederik den Fjerde,Nørdens,Undirected,1
+Carl den Tolvte,Frederik den Fjerde,Undirected,1
+Carl den Tolvte,Peter Czar,Undirected,1
+Cza-ren,Peter Czar,Undirected,1
+Cza-ren,Ludvig,Undirected,1
+Frederik den,Stenbuk,Undirected,1
+Arne,Stenbuk,Undirected,1
+Arne,Gadebusch,Undirected,1
+Gadebusch,Kong Frederik,Undirected,1
+Carl den Tolvte,Kong Frederik,Undirected,1
+Carl den Tolvte,Marsch,Undirected,1
+Kong Frederik,Marsch,Undirected,1
+Frederik,Nelsons,Undirected,1
+Frederik,Gyldenløve,Undirected,5
+Gyldenløve,Schoutbynacht,Undirected,3
+Curtius,Huitfeldts,Undirected,1
+Curtius,Huitfeldt,Undirected,1
+Admiral Sehesteds,Sivers,Undirected,1
+Papas,Sivers,Undirected,1
+Grotschilling,Papas,Undirected,1
+Grotschilling,ane,Undirected,1
+Bude,ane,Undirected,1
+Bude,Sivers,Undirected,10
+Bude,Petrus,Undirected,2
+Grotschil-ling,Petrus,Undirected,1
+Bude,Kadets,Undirected,1
+Grotschilling,Ole,Undirected,1
+Grotschilling,Petrus —,Undirected,1
+Ole Olesen,Petrus —,Undirected,1
+Ole Olesen,Petrus,Undirected,1
+Grotschilling,Petrus,Undirected,4
+Halfen,Petrus,Undirected,2
+Petrus,Rostgaard,Undirected,1
+Petrus,tysf,Undirected,1
+Hvidtfeldts,Petrus,Undirected,1
+Frederik den,Løveudahl,Undirected,1
+Czar Peters,Frederik den,Undirected,1
+Carl Ahlefeldt,Czar Peters,Undirected,1
+Carl Ahlefeldt,Frederik,Undirected,1
+Frederik,Løvendahls,Undirected,1
+Løvendahl,Løvendahls,Undirected,1
+Løvendahl,Peter Vessel,Undirected,1
+Guds,Vessel,Undirected,2
+Per,Vessel,Undirected,1
+Bessel,Hvidtfeldt,Undirected,1
+Hvidtfeldt,Olaf,Undirected,1
+Olaf,lange,Undirected,1
+Anker,lange,Undirected,1
+Anker,Vessel,Undirected,3
+Løvendahl,Vessel,Undirected,18
+Gud,Løvendahl,Undirected,4
+Vessel,hundses,Undirected,1
+Frederik,Løvendahl,Undirected,1
+Frederik,Karl den Tolvles,Undirected,1
+Ballel,bormsurs,Undirected,1
+Bertha,Lady Sally,Undirected,5
+Lord,Lord Carteret,Undirected,1
+Lord,hnn,Undirected,1
+Lady Sally,hnn,Undirected,1
+Huitfeldt,Lady Sally,Undirected,1
+Huitfeldt,Lady Carteret,Undirected,1
+Lady Carteret,Lady Sally,Undirected,2
+Lady Sally,Sommersky,Undirected,1
+Bertha,Sommersky,Undirected,1
+Bertha,Misfer,Undirected,2
+Bertha,Ladyen,Undirected,1
+Lady Sally,Ladyen,Undirected,1
+Lady Sally,Vessel,Undirected,4
+Bertha,Vessel,Undirected,18
+Bertha,Lady Carteret,Undirected,3
+Lady Bertha,Lady Sally,Undirected,1
+Frøken Lovendahl,Lady Bertha,Undirected,1
+Lady Carteret,Vessel,Undirected,5
+Bacchus,Lady Sally,Undirected,1
+Bacchus,Petrus,Undirected,1
+Petrus,Sivers,Undirected,1
+Sivers,Vessel,Undirected,17
+Petrus,Vessel,Undirected,5
+Bude,Vessel,Undirected,11
+Gjertrud,Sivers,Undirected,5
+Baldame,Vessel,Undirected,1
+Bude,Lady Carteret,Undirected,2
+Frøken Løvendahl,Vessel,Undirected,2
+Bertha,Rostgaard,Undirected,1
+Rostgaard,Vessel,Undirected,2
+Ottoman,hnn,Undirected,1
+Sømanden,hnn,Undirected,1
+Graad,Sømanden,Undirected,1
+Graad,Julie,Undirected,1
+Gud,Julie,Undirected,1
+Bude,soni,Undirected,1
+Admiral,Vessel,Undirected,1
+Admiral,Lady Carteret,Undirected,1
+Julie,Lady Carteret,Undirected,1
+Julie,Rostgaard,Undirected,1
+Frøken Bertha,Rostgaard,Undirected,1
+Frøken Bertha,Vessel,Undirected,1
+Bertha,Frøken Bertha,Undirected,1
+Bertha,Lady.,Undirected,1
+Lady Bertha,Lady Carteret,Undirected,2
+Lady Bertha,Vessel,Undirected,1
+Lady,Vessel,Undirected,1
+Lady,Lady Carteret,Undirected,2
+Czar Peter,Ludvig den,Undirected,1
+Czar Peter,Karl den Tolvte,Undirected,1
+Gørkz,Karl den Tolvte,Undirected,1
+Czar Peter,Gørkz,Undirected,1
+Czar Peter,Frederik den,Undirected,1
+Frederik,Frederik den,Undirected,5
+Frederik,Vilsfers,Undirected,1
+Løvendahl,Vilsfers,Undirected,1
+Bahuslehn,Løvendahl,Undirected,1
+Bahuslehn,hvo,Undirected,1
+Løvendahl,hvo,Undirected,1
+Grev Wachtmeisfer,Steenbuk,Undirected,1
+Frederik,Steenbuk,Undirected,3
+Anker,Ormens,Undirected,1
+Fregatten,Schoutbynacht,Undirected,1
+Fregatten,Ulk,Undirected,1
+Svaners,Ulk,Undirected,2
+Bugspryd,Ulk,Undirected,2
+Fregats,Vessel,Undirected,1
+Ole Olesen,Vessel,Undirected,10
+Fregatten,Ole Olesen,Undirected,1
+Ole,Vessel,Undirected,48
+Christopher,Ole Olesen,Undirected,1
+Christopher,Luvart,Undirected,1
+Knoph,Luvart,Undirected,1
+Knoph,Schoutbynacht Vilsfer,Undirected,1
+Ole Olesen,Schoutbynacht Vilsfer,Undirected,1
+Fregatten,Vessel,Undirected,4
+Fregatten,Ole,Undirected,2
+Vessel,smaalo,Undirected,1
+Ole,smaalo,Undirected,1
+Karl,Ole,Undirected,2
+Gud,Karl,Undirected,2
+Gud,Rostgaard,Undirected,3
+Fregatten,Knabe,Undirected,2
+Knabe,Vessel,Undirected,10
+Knabe,Ole,Undirected,3
+Knabe stal,Ole,Undirected,1
+Knabe stal,Vessel,Undirected,1
+Gyldenløve,Sivers,Undirected,1
+Fregat,Gyldenløve,Undirected,1
+Fregat,Sivers,Undirected,1
+Ormens,Sivers,Undirected,1
+Knabe,Ormens,Undirected,1
+Anker,Knabe,Undirected,1
+Anker,Løvendahl,Undirected,2
+Ole,Ole Olesen,Undirected,10
+Peter Vessel,sif,Undirected,1
+Knoph,Peter Vessel,Undirected,1
+Knoph,Øle Olesen,Undirected,1
+Løvendahl,Øle Olesen,Undirected,1
+Baadsmandens,hnn,Undirected,1
+Baadsmandens,Ole,Undirected,1
+Ches,Vessel,Undirected,1
+Ches,Sliren,Undirected,1
+Knabe,Sliren,Undirected,1
+Fregat,Vessel,Undirected,3
+Fregat,Peter Vessel,Undirected,1
+Peter Vessel,Vessel,Undirected,1
+Fregat,Løvendahl,Undirected,3
+Anker,Fregat,Undirected,2
+Anker,Sivers,Undirected,2
+Løvendahl,Sivers,Undirected,4
+Schoutbynachten,Vessel,Undirected,4
+Hr. Schoutbynacht,Schoutbynachten,Undirected,1
+Hr. Schoutbynacht,Sivers,Undirected,1
+Hausmann,Vessel,Undirected,1
+Hausmann,Løvendahl,Undirected,1
+Jnstrux,Løvendahl,Undirected,1
+Jnstrux,Schoutbynachten,Undirected,1
+Karl,Knabe,Undirected,1
+Karl,Schoutbynachten,Undirected,2
+Frederik dm Fjerde,Knoph,Undirected,1
+Knoph,Schoutbynacht,Undirected,2
+Fregat,Knoph,Undirected,1
+Fregat,Schoutbynacht,Undirected,1
+Mesonen,Ole,Undirected,2
+Vessel,rasf,Undirected,3
+Rysfelse,Vessel,Undirected,1
+Hausmann,Sivers,Undirected,1
+Hausmann,Schoutbynacht,Undirected,1
+Løvendahl,Schoutbynacht,Undirected,1
+Bertha,Løvendahl,Undirected,3
+Bertha,grant,Undirected,2
+Bertha,Frøken Vilster,Undirected,1
+Frøken Vilster,Vessel,Undirected,1
+Lady Carteret,nn,Undirected,1
+Bertha,nn,Undirected,1
+Bertha,Lord Carteret,Undirected,1
+Lord Carteret,Vessel,Undirected,1
+Lady Carteret,sif,Undirected,1
+Ole,Spaadom,Undirected,1
+Kraff,Spaadom,Undirected,1
+Frederik den,Reventlow,Undirected,1
+Jørgen Rantzau,Reventlow,Undirected,1
+Jørgen Rantzau,Marlboroughs,Undirected,1
+Marlboroughs,Schønfeldt,Undirected,1
+Jørgen Rantzau,Schønfeldt,Undirected,1
+Jørgen Rantzau,Schultz,Undirected,1
+Rantzau,Schultz,Undirected,2
+Frederik den,Schultz,Undirected,1
+Frederik den,Løvendahl,Undirected,1
+Løvendahl,Steenbuk,Undirected,2
+August,Løvendahl,Undirected,1
+August,Schoutbynacht Vilsters,Undirected,1
+Feltmarschal Steenbuk,Schoutbynacht Vilsters,Undirected,1
+Feltmarschal Steenbuk,Frederik den Fjerde,Undirected,1
+Frederik den Fjerde,Vice-Admiral Sehested,Undirected,1
+Hincke,Vice-Admiral Sehested,Undirected,1
+Czar Peter,Hincke,Undirected,1
+Czar Peter,fin,Undirected,1
+Skaanes,fin,Undirected,1
+Jasmund,Skaanes,Undirected,1
+Frederik den,Jasmund,Undirected,1
+Frederik den,butuills,Undirected,1
+Fregat,butuills,Undirected,1
+Fregat,General-Admiral Gyldenløves,Undirected,1
+Fregat,Hisf,Undirected,1
+Hisf,Moro,Undirected,1
+Moro,as,Undirected,1
+David,Peter,Undirected,2
+David,Saul,Undirected,2
+David,Peter Czar,Undirected,1
+Peter Czar,sif,Undirected,1
+Admiral Gyldenløve,sif,Undirected,1
+Admiral Gyldenløve,Gallizin,Undirected,1
+Gallizin,Peter,Undirected,1
+Admiral Gyldenløve,Peter,Undirected,1
+Admiral Gyldenløve,Czaren,Undirected,1
+Czaren,Jligemaade,Undirected,1
+Jligemaade,Sehested,Undirected,1
+Karl den,Sehested,Undirected,1
+Hersfers,Karl den,Undirected,1
+Hersfers,Juel,Undirected,1
+Czar Peter,Juel,Undirected,1
+Czar Peter,Sven-sterne,Undirected,1
+Admiral Gyldenløve,Sven-sterne,Undirected,1
+Admiral Gyldenløve,Karl den,Undirected,1
+Andreas,Karl den,Undirected,1
+Frederik den,Gyldenløve,Undirected,1
+Feldlmarschal Steenbuk,Frederik den,Undirected,1
+Feldlmarschal Steenbuk,Steenbuk,Undirected,1
+Gyldenløve,Steenbuk,Undirected,1
+Gyldenløve,Sehested,Undirected,3
+Sehested,Steenbuk,Undirected,2
+Sehested,as,Undirected,1
+Karlskrone,as,Undirected,1
+Karlskrone,Sehested,Undirected,1
+Gud,Sehested,Undirected,1
+Gud,Gyldenløve,Undirected,2
+Gyldenløve,Karl,Undirected,1
+Eja,Karl,Undirected,1
+Løvendahl,Ole,Undirected,1
+Fregat,Ole,Undirected,1
+Fregat,Vesfel,Undirected,1
+Vesfel,Vessel,Undirected,1
+Karlskrone,Vessel,Undirected,1
+Rosenpalm,Vessel,Undirected,3
+Vessel,iligemaade,Undirected,1
+anfe,iligemaade,Undirected,1
+Rosenpalm,anfe,Undirected,1
+Sehe-sted,Vessel,Undirected,1
+Gud,Sehe-sted,Undirected,1
+Aaget,Gud,Undirected,1
+Frederik den,sorstaa,Undirected,1
+Frederik,sorstaa,Undirected,1
+Anna Sophia,Frederik,Undirected,1
+Anna Sophia,Elsfer,Undirected,1
+Elsfer,Ulrich Adolph Holstein,Undirected,1
+Gud,Steenbuk,Undirected,1
+Gud,Jiidichær,Undirected,1
+Frederik,Jiidichær,Undirected,1
+Frederik,Jüdi-chær,Undirected,1
+Jiidichær,Jüdi-chær,Undirected,1
+Jiidichær,Vessel,Undirected,1
+Frederik,Gud,Undirected,3
+Frederik,Vessel,Undirected,2
+Gud,Vessel,Undirected,8
+Grotfchilling,rasf,Undirected,1
+Grotfchilling,Sivers,Undirected,3
+Grotschilling,Gud,Undirected,5
+Grotschilling,Orlogs,Undirected,1
+Orlogs,Sivers,Undirected,2
+Grotschilling,Sivers,Undirected,2
+Gutten,Sivers,Undirected,1
+Bude,Gutten,Undirected,1
+Bude,Grotschilling,Undirected,9
+Gud,Orlogs,Undirected,1
+Orlogs,Vessel,Undirected,2
+Per,Povel,Undirected,1
+Povel,Vessel,Undirected,1
+Kristian den,Marelok,Undirected,1
+Marelok,Morbroders,Undirected,1
+Morbroders,Tønder,Undirected,1
+Tønder,sif,Undirected,2
+Tønder,sif Haab,Undirected,1
+sif Broderi,sif Haab,Undirected,1
+as,sif Broderi,Undirected,1
+Grotschilling,Vessel,Undirected,4
+Kristians,Vessel,Undirected,1
+Gud,Sivers,Undirected,6
+Gud,hvo,Undirected,1
+Orlogs,hvo,Undirected,1
+Grotschilling,Karl den Tolvle,Undirected,1
+Karl den Tolvle,Vessel,Undirected,1
+Karl den,Vessel,Undirected,1
+Karl den,Peter,Undirected,1
+Peter,Sivers,Undirected,1
+Bude,Løvendahl,Undirected,3
+Sivers,sif,Undirected,1
+Gjertrud,sif,Undirected,1
+Gjertrud,Vessel,Undirected,1
+Karl,Vessel,Undirected,2
+Feltmarschal Stenbuks,Gadebusch,Undirected,1
+Feltmarschal Stenbuks,Frederik den,Undirected,1
+Frederik den,fachsiste,Undirected,1
+Czaren,fachsiste,Undirected,1
+Avgust,Czaren,Undirected,1
+Avgust,Gørtz,Undirected,1
+Gørtz,Welling,Undirected,1
+Frederik,Welling,Undirected,1
+Frederik,Schaltens,Undirected,1
+Gadebusch,Schaltens,Undirected,1
+Gadebusch,Gud,Undirected,1
+Frederik,Hansestads,Undirected,1
+Gørtz,Hansestads,Undirected,1
+Frederik,Gørtz,Undirected,1
+Evropas,Steenbuk,Undirected,1
+Altonas,Evropas,Undirected,1
+Altonas,Steenbuk,Undirected,1
+Vessel,sif,Undirected,3
+sif,sif Kjøkken,Undirected,1
+Mørner,Prinz,Undirected,2
+Prinz,Rytterløjtnant Bjørnson,Undirected,1
+Rytterløjtnant Bjørnson,Wagenfeldt,Undirected,1
+Prinz,Wagenfeldt,Undirected,4
+Thor,Wagenfeldt,Undirected,1
+Bjørnson,Thor,Undirected,1
+Hochheimer,Prinz,Undirected,1
+Bjørnson,Wagenfeldt,Undirected,6
+Bjørnson,Gadebusch,Undirected,1
+Gadebusch,Prinz,Undirected,1
+Mørner,Vilster sfal,Undirected,1
+Bravo,Vilster sfal,Undirected,1
+Bjørnson,Bravo,Undirected,1
+Bjørnson,Prinz,Undirected,3
+Bjørnson,paasfaa,Undirected,1
+Wagenfeldl,paasfaa,Undirected,1
+Sophia,Wagenfeldl,Undirected,1
+Bjørnson,Sophia,Undirected,1
+Bjørnson,Wagenfeldl,Undirected,2
+Sivers,Wagenfeldt,Undirected,3
+Sivers,Sophia,Undirected,1
+Sophia,Vessel,Undirected,1
+Prinz,Vessel,Undirected,4
+Karl,Prinz,Undirected,1
+Løvendahl,Prinz,Undirected,1
+Vessel,Wagenfeldt,Undirected,1
+Frøken Julie,Wagenfeldt,Undirected,1
+Bjørnson,Frøken Julie,Undirected,1
+Bjørnson,Elsfer,Undirected,1
+Elsfer,Wagenfeldt,Undirected,1
+Bjørnson,Mørner,Undirected,1
+Bjørnson,Frøken Vilster,Undirected,1
+Bjørnson,Vessel,Undirected,6
+Fregat,Jesus,Undirected,1
+Frøken Utfal,Jesus,Undirected,1
+Fregat,Prinz,Undirected,1
+Fregat,Wagenfeldt,Undirected,1
+Bjørnson,Julie,Undirected,1
+Julie,Wagenfeldt,Undirected,1
+Kalmar,Løvendahl,Undirected,1
+Kalmar,Vessel,Undirected,2
+Chaluppen,Vessel,Undirected,3
+Dumrian,nanten,Undirected,1
+marsch,nanten,Undirected,1
+Bjørnson,Pallasfen,Undirected,1
+Løvendahl,Ole Olesen,Undirected,1
+Vessel,mar-scherede,Undirected,1
+Orlogs,mar-scherede,Undirected,1
+Vesfel,allenfals,Undirected,1
+Bjørnson,allenfals,Undirected,1
+Kaspar,Peter,Undirected,3
+Gud,Peter,Undirected,5
+Gud,Kaspar,Undirected,3
+Gud,Jonas,Undirected,4
+Gud,Madame,Undirected,1
+Jonas,Madame,Undirected,1
+Jonas,Kaspar,Undirected,2
+Gud,Johan Vessel,Undirected,1
+Johan Vessel,Kaspar,Undirected,1
+Jonas,Peter,Undirected,3
+Fregatten „,Løvendahl,Undirected,1
+Løvendahl,Peter,Undirected,1
+Peter,Peter Vessel,Undirected,1
+Monsieur Grip,Peter,Undirected,1
+Grip,Monsieur Grip,Undirected,1
+Grip,Jonas,Undirected,1
+Fregatchef,Jonas,Undirected,2
+Peter,Vessel,Undirected,1
+Grip,Peter,Undirected,3
+Grip,Vesfel,Undirected,1
+Kasper,Vesfel,Undirected,1
+Grip,Gud,Undirected,4
+Grip,Vessel,Undirected,3
+Fregatten,j,Undirected,1
+Vessel,j,Undirected,1
+Ole,Vesfel,Undirected,1
+Lø-vendahls,Vessel,Undirected,2
+Fregat „Løvendahls Gallej,Vessel,Undirected,1
+Frederik,Mørner,Undirected,1
+Mørner,Vessel,Undirected,3
+Gyldenløve,Vessel,Undirected,3
+Annas,Hannover,Undirected,1
+Hannover,Karl den,Undirected,1
+Evropas,Karl den,Undirected,1
+Evropas,Georg,Undirected,1
+Georg,Ludvig den,Undirected,1
+Czaren,Ludvig den,Undirected,1
+Czaren,Karl den Tolvte,Undirected,1
+Frederik den Fjerde,Karl den Tolvte,Undirected,2
+Evropas,Frederik den Fjerde,Undirected,1
+Evropas,Frederik den,Undirected,1
+Frederik den,Lente,Undirected,1
+Lente,Wibe,Undirected,1
+Juel,Wibe,Undirected,1
+Judichær,Juel,Undirected,1
+Bille,Judichær,Undirected,1
+Bille,Kaas,Undirected,2
+Kaas,Karl den,Undirected,1
+Karl den,Stralsund,Undirected,1
+Stralsund,Wachtmeister,Undirected,1
+Løwenhaupt,Wachtmeister,Undirected,1
+Løwenhaupt,Sparre,Undirected,1
+Sparre,Vilster,Undirected,1
+Gabel,Vessel,Undirected,1
+Gabel,Schoutbynachten,Undirected,1
+Anker,Gabel,Undirected,1
+Schoutbynachten,Sivers,Undirected,1
+Løvendahl,Schoutbynachten,Undirected,1
+Kristian,Vilhelm“,Undirected,1
+Karl“,Vilhelm“,Undirected,1
+Kristian“,Sophie Hedevig,Undirected,1
+Sophie Hedevig,Vessel,Undirected,1
+Ferrø,Vessel,Undirected,2
+Stag,Vessel,Undirected,3
+Ferrø,Stag,Undirected,1
+Ferrø,Wachtmeisfer,Undirected,1
+Kristian,Wachtmeisfer,Undirected,1
+Schoutbynacht,Vessel,Undirected,2
+Ferrø,Schoutbynacht,Undirected,1
+Kristian,Ole,Undirected,1
+Kristian,Vessel,Undirected,1
+Gilling,Vessel,Undirected,2
+Ferrs,Vessel,Undirected,1
+Kadettens,Wodrof,Undirected,1
+Schoutbynacht Wachtmeister,Vessel,Undirected,1
+Sivers,fnart,Undirected,1
+Gertrud,Vessel,Undirected,1
+Ferrø,Prinz,Undirected,2
+Chaluppen,Rasf,Undirected,1
+Prinz,Rasf,Undirected,1
+Vessel,fig,Undirected,2
+Gallejen,Vessel,Undirected,2
+Vessel,Wachtmeister,Undirected,3
+Ferrø,Wachtmeister,Undirected,2
+Ferrø,Grev Wachtmeister,Undirected,2
+Grev Wachtmeister,Schoutbynacht,Undirected,1
+Fregatchef,Grev Wachtmeister,Undirected,1
+Bied,Fregatchef,Undirected,1
+Bied,Vessel,Undirected,1
+Vessel,Wodrof,Undirected,3
+Chalup,Wodrof,Undirected,1
+Chalup,Wachtmeister,Undirected,1
+Kristian“,Wachtmeister,Undirected,1
+Gabel,Kristian“,Undirected,2
+Gabel,rasf,Undirected,1
+Karl den Tolvte,Vessel,Undirected,2
+Gabel,Karl den Tolvte,Undirected,1
+Fregatchef,Gabel,Undirected,1
+Fregatchef,Vessel,Undirected,1
+Frederik,Schoutbynacht,Undirected,2
+Kadet Wodrof,Schoutbynacht,Undirected,1
+Kadet Wodrof,Prinz,Undirected,1
+Prinz,Sophie Hedevig,Undirected,1
+Frederik,Gabel,Undirected,2
+Ferrø,Frederik,Undirected,1
+Prinz,sif,Undirected,1
+Mørner,sif,Undirected,2
+Anker,Mørner,Undirected,1
+Dyb,Karl den,Undirected,1
+Evropa,Karl den,Undirected,1
+Admiral Norris,Evropa,Undirected,1
+Admiral Norris,Admiral Sparre,Undirected,2
+Admiral Rabes,Admiral Sparre,Undirected,1
+Admiral Sparre,Sehested,Undirected,2
+Karl den Tolvle,Sehested,Undirected,2
+Vessel,hvo,Undirected,1
+Oxer,Vessel,Undirected,2
+Henke,Lillie,Undirected,2
+Lillie,Louise“,Undirected,1
+Nessels,lsd,Undirected,1
+Nessels,hins,Undirected,1
+Nessel,Ole,Undirected,1
+Justitias,Ole,Undirected,1
+Juel,Justitias,Undirected,2
+Juel,Lillie,Undirected,1
+Admiral,Juel,Undirected,1
+Admiral,Admiral Rabe,Undirected,1
+Ornens,Vessel,Undirected,2
+Fregat,Jasmund,Undirected,1
+Jasmund,Vessel,Undirected,2
+Ornen,Vessel,Undirected,2
+Ornen,Pibens,Undirected,1
+Gud,Wodros,Undirected,1
+Wodrof,Wodros,Undirected,1
+Karl den,Rabes,Undirected,1
+Karl den,Olrick,Undirected,1
+Karl,Olrick,Undirected,1
+Karl,Sehe-sted,Undirected,1
+Sehe-sted,jagne,Undirected,1
+Karl den,jagne,Undirected,1
+Karl den Tolvte,Kong Karl,Undirected,2
+Kong Frederik,Kong Karl,Undirected,1
+Karl,Karl den Tolvte,Undirected,2
+Karl,Karl den,Undirected,3
+Karl den,Schwerik,Undirected,1
+Bjørnson,Schwerik,Undirected,1
+Bresche,Karl den Tolvte,Undirected,1
+Bresche,Seckendorf,Undirected,1
+Efferat,Seckendorf,Undirected,2
+Karl,Seckendorf,Undirected,1
+Karl,mandspibens,Undirected,1
+Karl den,mandspibens,Undirected,1
+Gyldenløve,Rabe,Undirected,1
+Admiral Rabe,Gyldenløve,Undirected,1
+Admiral Rabe,Jasmund,Undirected,2
+Admiral Rabe,Vessel,Undirected,1
+Gyldenløve,Vesfel,Undirected,1
+Holla,flrege,Undirected,1
+Vessel,flrege,Undirected,1
+Karl den,Seckendorf,Undirected,1
+Frederik,Jnbel,Undirected,1
+Tordenskjold,Vessel,Undirected,1
+Tordenskjold,sfal,Undirected,1
+Gørtz,Karl den,Undirected,1
+Gørtz,Karl,Undirected,1
+Frederik den,Karl den,Undirected,2
+Frederik den,Karl,Undirected,1
+Arne,Karl den,Undirected,1
+Karl den,Kruse,Undirected,1
+Karl den Tolvte,Kruse,Undirected,1
+Karl den Tolvte,Krufe,Undirected,1
+Karl,Krufe,Undirected,1
+Karl,Kruse,Undirected,1
+Admiral Jiidichær,Tordenskjold,Undirected,2
+Fregat,Tordenskjold,Undirected,2
+Fregat,Jiidichær,Undirected,1
+Gabel,Jiidichær,Undirected,1
+Gabel,Schoutbynacht Ulrich Kaas,Undirected,1
+Flaades,Schoutbynacht Ulrich Kaas,Undirected,1
+Flaades,Vilster,Undirected,1
+Vice-Admiral Gabel,Vilster,Undirected,1
+Kaas,Vice-Admiral Gabel,Undirected,1
+Schoutbynachten,blol,Undirected,1
+Vilsfer,blol,Undirected,1
+Kaas,Vilsfer,Undirected,1
+Gyldenløve,Wibe,Undirected,2
+Gabel,Gyldenløve,Undirected,2
+Gabel,Karl,Undirected,1
+Prinds Christian,Tordenskjold,Undirected,1
+Prinds Christian,Sieur,Undirected,1
+Sieur,Tordenskjold,Undirected,2
+Løvendahl,Tordenskjold,Undirected,5
+Sivers,Tordenskjold,Undirected,13
+Grip,Tordenskjold,Undirected,7
+Chalup,Tordenskjold,Undirected,1
+Karl,Kong Karl,Undirected,1
+Flaaden,Karl den,Undirected,1
+Gabel,Schoutbynacht,Undirected,1
+Schoutbynacht,Strøm-stjerna,Undirected,1
+Schoutbynacht histinde,Sieur,Undirected,1
+Christian,Tordenskjold,Undirected,2
+Holla,Sieur Siversen,Undirected,1
+Ferrø,Siversen,Undirected,1
+Ferrø,Grip,Undirected,1
+Broder Grip,Tordenskjold,Undirected,1
+Broder Grip,Gud,Undirected,1
+Kjøgc,Tordenskjold,Undirected,1
+Kjøges,Tordenskjold,Undirected,1
+Kjøges,heves,Undirected,1
+Schoutbynachten,sif,Undirected,1
+Karl,hvi,Undirected,1
+Guldmedaille,Tordenskjold,Undirected,1
+Bataille,Guldmedaille,Undirected,1
+Czar,Peter,Undirected,1
+Frederik,Peter,Undirected,1
+Frederik,Tordenskjold,Undirected,10
+Chaluppen,Tordenskjold,Undirected,4
+Gud,Tordenskjold,Undirected,27
+Tordenskjold,praje,Undirected,1
+Admiral Norris,Czaren,Undirected,1
+Czaren,Frederik,Undirected,3
+Czar Peter,Frederik,Undirected,1
+Frederik,skoggerlo Czaren,Undirected,1
+Andreas,skoggerlo Czaren,Undirected,1
+Andreas,Karl,Undirected,1
+Karl,Tordenskjold,Undirected,11
+Czaren,Karl,Undirected,1
+Gyldenløve,Karl den,Undirected,2
+Frederik Czarens,Karl,Undirected,1
+Frederik Czarens,Tordenskjold,Undirected,1
+Dynekilen,Løvendahl,Undirected,1
+Dynekilen,Ole Olesen,Undirected,1
+Mathias,Ole,Undirected,3
+Ole Olesen,Tordenskjold,Undirected,11
+Mathias,Tordenskjold,Undirected,4
+Ole,Tordenskjold,Undirected,14
+Ole,Pallasf,Undirected,1
+Abrahams,Tordenskjold,Undirected,1
+Hesfe,Tordenskjold,Undirected,1
+Hesfe,Pallafl,Undirected,1
+Peter Czar,Tordenskjold,Undirected,1
+Oren,Tordenskjold,Undirected,1
+Gud,Oren,Undirected,1
+Gud,Saul,Undirected,1
+Karl den Tolvte,Marschal,Undirected,1
+Gyldenløve,Tordenskjold,Undirected,5
+Frederik,Kaspar Vessel,Undirected,1
+Tordenskjold,Vosbein,Undirected,8
+Poulsen,Tordenskjold,Undirected,6
+Gothenborgs,Tordenskjold,Undirected,1
+Gothenborgs,kaldles,Undirected,1
+Poulsen,kaldles,Undirected,1
+Skjær,Stag,Undirected,1
+Tordenskjold,sfol,Undirected,1
+Karl,sfol,Undirected,1
+Karl,Sir Stuart,Undirected,1
+Sir Stuart,sif,Undirected,1
+engelsfe,sif,Undirected,1
+Stuart,engelsfe,Undirected,1
+Stuart,Tordenskjold,Undirected,3
+Fyen,nn,Undirected,1
+Fyen,Tordenskjold,Undirected,1
+Sivers,Søridderens,Undirected,1
+Chaluppen,Søridderens,Undirected,1
+Bosbein,Tordenskjold,Undirected,1
+Bosbein,Vosbein,Undirected,1
+Karl,Vosbein,Undirected,1
+Vosbein,nn,Undirected,1
+fror,nn,Undirected,1
+Gud,fror,Undirected,1
+Gud,Methusalem,Undirected,1
+Methusalem,Vosbein,Undirected,1
+Lemvig,Vosbein,Undirected,1
+Lemvig,Tordenskjold,Undirected,1
+Ole Ølesen,Tordenskjold,Undirected,1
+Peter Vessel,Tordenskjold,Undirected,1
+Ole,Peter Vessel,Undirected,1
+Stuart,rasf,Undirected,1
+Lady,rasf,Undirected,1
+Lady Carteret,Tordenskjold,Undirected,1
+Lady Carteret,sknlde,Undirected,1
+Tordenskjold,sknlde,Undirected,1
+Gud,Ladyen,Undirected,1
+Lady,Ladyen,Undirected,1
+Lady Bertha,Tordenskjold,Undirected,1
+Sahlgaard,Sivers,Undirected,1
+Grip,Sivers,Undirected,1
+Grip,Vosbein,Undirected,1
+Vosbein,Vosbejns,Undirected,1
+Torden-fljolds,Tordenskjold,Undirected,1
+Torden-fljolds,Vosbein,Undirected,1
+Fregat,Vosbein,Undirected,1
+Halunk,Tordenskjold,Undirected,1
+Sknd,Tordenskjold,Undirected,1
+Karl den,Tordenskjold,Undirected,4
+Karl den,Mørner,Undirected,2
+Mørner,Tordenskjold,Undirected,3
+Flintefluds,Tordenskjold,Undirected,1
+Flintefluds,Karl den Tolvte,Undirected,1
+Karl den Tolvte,Tordenskjold,Undirected,6
+Sivers,dyb,Undirected,2
+Tordenskjold,mesf,Undirected,1
+Tordenskjold,Wodrof,Undirected,18
+Hessen,Karl den Tolvte,Undirected,1
+Hessen,Mørner,Undirected,1
+Schoutbynacht Stromstjerna,Tordenskjold,Undirected,1
+Karl den,Schoutbynacht Stromstjerna,Undirected,1
+Gørz,Karl den Tolvle,Undirected,1
+Gørz,Kong Georg,Undirected,1
+Kong Georg,Sivers,Undirected,1
+Bude,Tordenskjold,Undirected,30
+Kong Karl den Tolvte,Tordenskjold,Undirected,1
+Kong Karl den Tolvte,Sivers,Undirected,1
+Bude,Fregatten,Undirected,1
+Fregatten,Tordenskjold,Undirected,2
+Baron Gørz,Tordenskjold,Undirected,1
+Baron Gørz,Chaluppen,Undirected,1
+Gud,Sylphidens,Undirected,1
+Faster,Gud,Undirected,2
+Gud,Jesus,Undirected,1
+Bude,Gud,Undirected,3
+Tordenskjold,Utfals,Undirected,1
+Bude,Utfals,Undirected,1
+Bude,Jesus,Undirected,1
+Jesus,Tordenskjold,Undirected,2
+Bude,ester,Undirected,1
+Frisf,Tordenskjold,Undirected,2
+Saus,Tordenskjold,Undirected,1
+Bude,Saus,Undirected,3
+Tordenskjold,barsf,Undirected,2
+Sans,eja,Undirected,1
+Tordenskjold,eja,Undirected,1
+Tordenskjold,Utfal,Undirected,8
+Fasteren,Gud,Undirected,1
+Dulcinea,Tordenskjold,Undirected,1
+Dulcinea,Gud,Undirected,1
+Gud,blol,Undirected,1
+Chaluppen,blol,Undirected,1
+Bude,Kadet Wodrof,Undirected,1
+Kadet Wodrof,snild Polilik,Undirected,1
+Tordenskjold,Wagenfeldt,Undirected,5
+Utfal,Wagenfeldt,Undirected,2
+Bude,Utfal,Undirected,1
+Bude,Wagenfeldt,Undirected,2
+Frederik den Fjerde,Tordenskjold,Undirected,1
+Karl den Tolvte,Mørner,Undirected,2
+Mørner,Wagenfeldt,Undirected,1
+Karl,Wagenfeldt,Undirected,1
+Gud,Wodrof,Undirected,3
+Gud,Wagenfeldt,Undirected,2
+Wodrof,ester Chaluppen,Undirected,1
+Bude,Wodrof,Undirected,1
+Tordenskjold,Vice-Admiral Gabel,Undirected,1
+Tordenskjold,sif,Undirected,6
+Gabel,sif,Undirected,1
+Frederik,sif,Undirected,2
+Skaanes,Tordenskjold,Undirected,1
+Gabel,Skaanes,Undirected,1
+Gabel,Tordenskjold,Undirected,6
+Gyldenløve,Vosbein,Undirected,1
+Admiral Bing,Kong Georg,Undirected,1
+Frederik,Kong Georg,Undirected,1
+Kong Frederik,Tordenskjold,Undirected,2
+Admiral Bing,Kong Frederik,Undirected,1
+Strømstads,Tordenskjold,Undirected,1
+Strømstads,Wedel,Undirected,1
+Tordenskjold,Wedel,Undirected,1
+Løvendahl,Rostgaard,Undirected,1
+Mørk,Tordenskjold,Undirected,1
+Dannebroge,Mørk,Undirected,1
+Lilliensfjold,Tordenskjold,Undirected,2
+Rostgaard,Tordenskjold,Undirected,1
+Rostgaard,Sahlgaard,Undirected,1
+Danielsen,Sahlgaard,Undirected,2
+Danielsen,Grambow,Undirected,1
+Grambow,Wodrof,Undirected,1
+Sahlgaard,Tordenskjold,Undirected,1
+Danielsen,Tordenskjold,Undirected,1
+Danielsen,Rostgaard,Undirected,1
+Laholms,Tordenskjold,Undirected,1
+Digi,Gud,Undirected,1
+Digi,Grip,Undirected,1
+Grip,hageltæt,Undirected,1
+Sahlgaard,hageltæt,Undirected,1
+Grip,Sahlgaard,Undirected,1
+Lillienskjold,Tordenskjold,Undirected,2
+Grip,Lillienskjold,Undirected,2
+Tordenskjold,Wodros,Undirected,1
+Gjerta,Laholms,Undirected,1
+Laholms,Stenes,Undirected,1
+Stenes,Tordenskjold,Undirected,1
+Tordenskjold,pebe,Undirected,1
+Dam,pebe,Undirected,1
+Dam,Wodrof,Undirected,1
+Gud,Honf,Undirected,1
+Wodrof,undgaa,Undirected,1
+Helmich,Prinds Karl“,Undirected,2
+Helmich,Prinz,Undirected,1
+Mathias,Prinz,Undirected,1
+Elias,Mathias,Undirected,1
+,Elias,Undirected,1
+,blol,Undirected,1
+Karl,blol,Undirected,1
+Elias Wulf,Tordenskjold,Undirected,3
+Prinz,Tordenskjold,Undirected,1
+Helmich,Mathias,Undirected,1
+Elias Wulf,Mathias,Undirected,2
+Helles,Tordenskjold,Undirected,2
+Sophia,Tordenskjold,Undirected,1
+Roes,Tordenskjold,Undirected,1
+Schoutbynacht Rosenpalm,Tordenskjold,Undirected,2
+Sahlgaard,Strømstad,Undirected,1
+Sahlgaard,Schoutbynacht Rosenpalm,Undirected,1
+Krag,Schoutbynacht Rosenpalm,Undirected,1
+Krag,Rvstgaard,Undirected,1
+Rosenpalm,Strømstad,Undirected,1
+Karl dxn Tolvte,Strømstad,Undirected,1
+Karl dxn Tolvte,Tordenskjold,Undirected,1
+Grev Gyllenborg,Kong Karl,Undirected,1
+Grev Gyllenborg,Karl,Undirected,1
+Baron Gørz,Karl,Undirected,1
+Baron Gørz,Kong Georg,Undirected,1
+Kong Georg,Tordenskjold,Undirected,1
+Schoutbynacht Rosenpalm,Strømstad,Undirected,1
+Strømstad,Tordenskjold,Undirected,3
+Gjerta,Karl,Undirected,1
+Gjerta,sif,Undirected,2
+Gjerta,sif Ørlogsskibs,Undirected,1
+Poulsen,nn,Undirected,2
+Fregat „,Tordenskjold,Undirected,1
+Chalupper,Tordenskjold,Undirected,2
+Chalupper,Karl den Tolvte,Undirected,1
+Lind,Ofsicsr,Undirected,1
+Karlen,Lind,Undirected,1
+Karl,Karlen,Undirected,1
+Tordenskjold,ester,Undirected,1
+Lind,Tordenskjold,Undirected,4
+Tordenskjold,kjølnes,Undirected,2
+Fregatten,Lind,Undirected,1
+Tordenskjold,age,Undirected,2
+Harkz,Tordenskjold,Undirected,2
+Hartz,Tordenskjold,Undirected,2
+Løwe,Tordenskjold,Undirected,1
+Evropa,Frederik den,Undirected,1
+Gørz,Karl den,Undirected,1
+Gørz,Karl den Tolvte,Undirected,1
+Frederik,Karl den Tolvte,Undirected,3
+Frederik,Ulrik Adolph,Undirected,2
+Frederik,Kong Karl,Undirected,2
+Gyldenløve,Jiidichær,Undirected,2
+Bille,Jiidichær,Undirected,1
+Kaas,Pallafl,Undirected,1
+Devitz,Pallafl,Undirected,1
+Czar Peter,Devitz,Undirected,1
+Nlanges,Sehested,Undirected,1
+Lüders,Tordenskjold,Undirected,1
+Admiral Gyldenløve,Tordenskjold,Undirected,1
+Schoutbynacht Thomsens,Tordenskjold,Undirected,1
+Gyldenløve,Schoutbynacht Thomsens,Undirected,1
+Karl den,Strømstad,Undirected,1
+Karl den,Poulsen,Undirected,1
+Kong Karl,Poulsen,Undirected,1
+Bahuslehn,Svensferne,Undirected,1
+Frederik,Frederikssteen,Undirected,1
+Frederikssteen,Sponneck,Undirected,1
+Karl den,Sponneck,Undirected,1
+Karl den,offesf,Undirected,1
+Frederiks-halds,Karl,Undirected,1
+Gorz,Karl,Undirected,1
+Arenfeldt,Gorz,Undirected,1
+Leopard,butuills,Undirected,1
+Karlskrone,sif Orlogsskibs,Undirected,1
+Karl den,Karlskrone,Undirected,1
+Mads,Tordenskjold,Undirected,1
+Arenfeldt,Karl den Tolvte,Undirected,1
+Arenfeldt,Frederik,Undirected,1
+Sjør Grotschilling,Tordenskjold,Undirected,1
+Grotschilling,Tordenskjold,Undirected,25
+Grotschilling,sra,Undirected,1
+Gud,Si-vers,Undirected,1
+Gjertrud,Gud,Undirected,1
+Gjertrud,Tordenskjold,Undirected,1
+Grotschilling,Meddelelfe,Undirected,1
+Meddelelfe,Morbroder,Undirected,1
+Morbroder,Tordenskjold,Undirected,1
+,Sivers,Undirected,2
+,Gjertrud,Undirected,1
+Bachus,Gjertrud,Undirected,1
+Bachus,Tordenskjold,Undirected,1
+Chaluppen,Grotschilling,Undirected,1
+Tordenskjold,Ulk,Undirected,1
+Grotfchilling,Tordenskjold,Undirected,1
+Chalup,Grotschilling,Undirected,1
+Grotschilling,Morbroder,Undirected,3
+Fisfalen,Gud,Undirected,1
+Gud,ester,Undirected,1
+Masfen,syldle,Undirected,1
+Grotschilling,syldle,Undirected,1
+Druesaff,Grotschilling,Undirected,1
+Druesaff,hins,Undirected,1
+Karl,hins,Undirected,1
+Grotschilling,Karl,Undirected,1
+Grotschilling,Gud sfe,Undirected,1
+Fregatchefen,Gud sfe,Undirected,1
+Fregatchefen,Tys,Undirected,1
+Sponneck,Sverigs,Undirected,1
+Frederikshalds,Sponneck,Undirected,1
+Frederikshalds,Poulsen,Undirected,1
+Gud,Siquer,Undirected,1
+Gud,Karl rask,Undirected,1
+Karl rask,Pallaslen,Undirected,1
+Satanas,Tordenskjold flal,Undirected,1
+Frederiksstens,Satanas,Undirected,1
+Bresche,Frederiksstens,Undirected,1
+Bresche,Siquer,Undirected,1
+Karl,Siquer,Undirected,1
+Karl,Mørner,Undirected,1
+Mørner,Obern Siauer,Undirected,1
+Jesus,Siquer,Undirected,1
+Karl den Tolvte,Siquer,Undirected,2
+Siquer,herhid,Undirected,1
+Karl den,herhid,Undirected,1
+Hessen,Karl den,Undirected,1
+Karl den,Siquer,Undirected,1
+Baron Gørtz,Sverigs,Undirected,1
+,Baron Gørtz,Undirected,1
+Krag,Roes,Undirected,1
+Karl den,Roes,Undirected,1
+Karl den,Kong Karl den Tolvte,Undirected,1
+Knud,Kong Karl den Tolvte,Undirected,1
+Karl den Tolvte,Knud,Undirected,1
+Karl den Tolvte,Sn,Undirected,1
+Løvendahl,Sn,Undirected,1
+Løvendahl,Strømstad,Undirected,1
+Karl den Tolvte,Roes,Undirected,1
+Bude,Moss,Undirected,1
+Moss,Tordenskjold,Undirected,1
+Hins,Ole,Undirected,1
+Krag,Tordenskjold,Undirected,1
+Evropa,Gud,Undirected,1
+Evropa,Kong Frederik,Undirected,1
+Karl den Tolvte,Kong Frederik,Undirected,2
+Karl den Tolvte,Møsting,Undirected,1
+Møsting,Tordenskjold,Undirected,1
+Admiral Rosenpalm,Tordenskjold,Undirected,1
+Møsting,Ole Olesen,Undirected,1
+Bude,Poulsen,Undirected,1
+Ole Olesen,Poulsen,Undirected,1
+Rofenpalm,Tordenskjold,Undirected,1
+Poulsen,Rofenpalm,Undirected,1
+Tordenskjold,felv,Undirected,1
+Karl den Tolvte,sif,Undirected,1
+Frederikssten,Tordenskjold,Undirected,2
+Karl,Schoutbynacht,Undirected,1
+Kong Karl,Schoutbynacht,Undirected,1
+Frederiks-halds,Kong Karl,Undirected,1
+Frederiks-halds,Kong Karl den Tolvte,Undirected,1
+Gud,Kong Karl den Tolvte,Undirected,1
+Gud,Schoutbynacht,Undirected,1
+Karl den Tolvte,Tusenders,Undirected,1
+Karl den,Sverigs,Undirected,1
+Frederik,Karl den,Undirected,1
+Gørtz,Karl den Tolvte,Undirected,1
+Gørtz,von der,Undirected,1
+Ulrika,von der,Undirected,1
+Soni,Ulrika,Undirected,1
+Gørtz,Soni,Undirected,1
+Gørtz,von der Naht,Undirected,1
+Peter Czar,von der Naht,Undirected,1
+Peter Czar,Ulrika,Undirected,2
+Frederik,Skaanes,Undirected,1
+Skaanes,Ulrik Holstein,Undirected,1
+Frederik,Ulrik Holstein,Undirected,1
+Frederik,Løvenørn,Undirected,1
+Løvenørn,Ulrika,Undirected,1
+Ulrika,haabløs,Undirected,1
+Kong Frederik,haabløs,Undirected,1
+Czaren,Kong Frederik,Undirected,1
+Frederik,Wibe,Undirected,1
+Eichstedt,Wibe,Undirected,1
+Eichstedt,Tordenskjold,Undirected,1
+Admiral Jiidichær,selldtes,Undirected,1
+Orlogsskibet,selldtes,Undirected,1
+Grip,Vice-Admiral Rosenpalm,Undirected,1
+Tordenskjold,Vice-Admiral Rosenpalm,Undirected,1
+Oho,Tordenskjold,Undirected,1
+Oho,Sven-skens,Undirected,1
+Gud,Sven-skens,Undirected,1
+Jærnmand,Ole,Undirected,1
+Jærnmand,Ole Olesen,Undirected,1
+Hr. Schoutbynacht,Ole,Undirected,2
+Mathias Thye,Tordenskjold,Undirected,2
+Mathias,Mathias Thye,Undirected,1
+Arne,Tordenskjold,Undirected,1
+Arne,Czaren,Undirected,1
+Czaren,Tordenskjold,Undirected,1
+Rosenpalm,Tordenskjold,Undirected,1
+Rosenpalm,frisf,Undirected,1
+Gud,frisf,Undirected,1
+Pløyart,Sivers,Undirected,1
+Pløyart,ane,Undirected,1
+Dalila,Karlssfen,Undirected,1
+Dalila,Samsons,Undirected,1
+Gud,Samsons,Undirected,1
+Gud,Samson,Undirected,1
+Dalila,Samson,Undirected,1
+Dalila,Tankwart,Undirected,1
+Karl den Tolvte,Tankwart,Undirected,1
+Gud,Karl den Tolvte,Undirected,1
+Dankwart,Gud,Undirected,2
+Ordonnanzen,Peer Mogensen,Undirected,1
+Gud,Peer Mogensen,Undirected,1
+Catharina Mogensen,Gud,Undirected,1
+Catharina Mogensen,Peer Mogensen,Undirected,1
+Ole Olesen,Peer Mogensen,Undirected,1
+Gud,Ole Olesen,Undirected,1
+Gud,nn,Undirected,1
+Ole,nn,Undirected,1
+Ole,Tankwart,Undirected,1
+Gud,Tankwart,Undirected,1
+Gud,Ole,Undirected,2
+Ole,hans,Undirected,1
+Karl,hans,Undirected,1
+Karl,Ole Olesen,Undirected,1
+Ole Olesen,Schoutbynachten,Undirected,3
+Gud,Schoutbynachten,Undirected,3
+Peter,Schoutbynacht Tordenskjold,Undirected,1
+Ischariots,Schoutbynacht Tordenskjold,Undirected,1
+Ischariots,Ole Olesen,Undirected,1
+Admiral Jiidichær,Schoutbynacht Tordenskjold,Undirected,1
+Jiidichær,Schoutbynacht,Undirected,2
+Jiidichær,Rostgaard,Undirected,1
+Masteskov,Rostgaard,Undirected,1
+Masteskov,as,Undirected,1
+Frederik,Peter Czar,Undirected,1
+Masfen,Peter Czar,Undirected,1
+Frederik,Masfen,Undirected,1
+Jørgen,Karl den,Undirected,1
+Jørgen,Vilhelm“,Undirected,1
+Masfs,Ole Olesen,Undirected,1
+Lord Carteret,Ole Olesen,Undirected,1
+Kong Georg,Lord Carteret,Undirected,2
+Frederik,Lord Carteret,Undirected,2
+Lord Carteret,Tordenskjold,Undirected,9
+Carteret,Tordenskjold,Undirected,2
+Carteret,Folkefs,Undirected,1
+Folkefs,Orlogs,Undirected,1
+Lord Carteret,Orlogs,Undirected,1
+Grotschilling,Lord Carteret,Undirected,1
+Kaas,Lord Carteret,Undirected,2
+Kaas,Tordenskjold,Undirected,5
+Kaas,Karl,Undirected,2
+Karl,felv,Undirected,1
+Kaas,felv,Undirected,1
+Lord Carteret,Sølvpibens,Undirected,2
+Ostermann,Tordenskjold,Undirected,1
+Lord Carteret,Ostermann,Undirected,1
+Lord Carteret,felv,Undirected,1
+Svaners,felv,Undirected,1
+Kong Frederik,Svaners,Undirected,1
+Lord Carteret,Schoutbynacht,Undirected,1
+Carteret,Schoutbynacht,Undirected,1
+Lady Carteret,Løvendahl,Undirected,1
+Tordenskjold,blodrød,Undirected,1
+Bude,Lord Carteret,Undirected,1
+Hoppe,Rosenpalm,Undirected,1
+Rosenpalm,Slendrian,Undirected,1
+Slendrian,Tordenskjold,Undirected,1
+Czar Peter,Lessy,Undirected,1
+Czaren,Lessy,Undirected,1
+Czaren,sidsfe,Undirected,1
+Admiral Norris,sidsfe,Undirected,1
+Arms,Ulrika,Undirected,1
+Arms,Frederik,Undirected,1
+Feldtmarschal Rheinschild,Frederik,Undirected,1
+Feldtmarschal Rheinschild,Karl den Tolvte,Undirected,1
+Warbergs,rasf,Undirected,1
+Hoppe,Sjøblad,Undirected,1
+Dn,Utfal,Undirected,1
+Karlstens,Utfal,Undirected,1
+Sjøblad,Utfal,Undirected,3
+Ol,marche,Undirected,1
+Ol,Satan,Undirected,1
+Satan,Satanas,Undirected,1
+Potz Slapperment,Satanas,Undirected,1
+Potz Slapperment,visf,Undirected,1
+Satanas,visf,Undirected,1
+Satanas,barsfe,Undirected,1
+Gud,Mosters,Undirected,1
+Jesus,Mosters,Undirected,1
+Jesus,Karl,Undirected,1
+Dankwart,Ole Olesen,Undirected,1
+Ployart,Tordenskjold,Undirected,14
+Hoppe,Tordenskjold,Undirected,5
+Hoppe,Waget,Undirected,1
+Tordenskjold,Waget,Undirected,1
+Ployart,Sieur Grotschilling,Undirected,1
+Hoppe,Sieur Grotschilling,Undirected,1
+Ployart,Schoutbynachten,Undirected,3
+Mathias Thy,Saasnart Chaluppen,Undirected,1
+Chalup,Hoppe,Undirected,1
+Chalup,Kruys,Undirected,1
+Gilling,Skytsflibets,Undirected,1
+Christjan,Tordenskjold,Undirected,2
+Christjan,Schoutbynachten,Undirected,2
+Grotschilling,Schoutbynachten,Undirected,5
+Bude,Gallejen,Undirected,1
+Gallejen,Torden-fljold,Undirected,1
+Schoutbynachten,Torden-fljold,Undirected,1
+Grotschilling,slor,Undirected,1
+Schoutbynachten,slor,Undirected,1
+Christjan,Hoppe,Undirected,1
+Jligemaade,Schoutbynachten,Undirected,1
+Bude,Jligemaade,Undirected,1
+Bude,Ployart,Undirected,3
+Jørgen,Karl,Undirected,1
+Hoppe,Jørgen,Undirected,1
+Hoppe,Karl“,Undirected,2
+Brun,Hoppe,Undirected,1
+Brun,Ployart,Undirected,1
+Frederikshald,Ployart,Undirected,1
+Frederikshald,Grotschilling,Undirected,1
+Frederik den,Marstrands,Undirected,1
+Frederik den,Karl den Tolvte,Undirected,1
+Anker,Tordenskjold,Undirected,3
+Gud,Mathias Thy,Undirected,1
+Mathias Thy,Tordenskjold,Undirected,1
+Karlsten,Tordenskjold,Undirected,4
+Admiral Rosenpalm,Karlsten,Undirected,1
+Admiral Rosenpalm,Schoutbynachten,Undirected,1
+Schoutbynachten,Tordenskjold,Undirected,5
+Mathias Thy,Ployart,Undirected,1
+Mathias Thy,sfe,Undirected,1
+Hr. Schoutbynacht,sfe,Undirected,1
+Grotschilling,Hr. Schoutbynacht,Undirected,1
+Bnde,Grotschilling,Undirected,1
+Bnde,Schoutbynachten,Undirected,1
+Karlsten,Schoutbynachten,Undirected,2
+Johannes,Karlsten,Undirected,1
+Johannes,Kaas,Undirected,1
+Kaas,Kleve,Undirected,8
+Grotschilling,Svensferne,Undirected,1
+Grotschilling,Ployart,Undirected,11
+Bude,Mathias Thy,Undirected,1
+Morbroder,Tordenskjold rasf,Undirected,1
+Mathias,Tordenskjold rasf,Undirected,1
+Bude,Lind,Undirected,1
+Bude,as,Undirected,1
+Grotschilling,as,Undirected,1
+Grotschilling,herhid,Undirected,1
+Tordenskjold,herhid,Undirected,1
+Elias Wulf,Mathias Thy,Undirected,1
+Elias,Mathias Thy,Undirected,3
+Elias,Frederik,Undirected,1
+Elias,Grotschilling,Undirected,1
+Grotschilling,Gyldenløve,Undirected,1
+Grotschilling,gjærne,Undirected,1
+Schoutbynacht,gjærne,Undirected,1
+Helmich,Kleve,Undirected,1
+Helmich,Karl“,Undirected,1
+Brunn,Karl“,Undirected,1
+Brunn,Leegaard,Undirected,1
+Leegaard,Ployart,Undirected,1
+Chalup,Schoutbynachten,Undirected,1
+Chaluppen,Schoutbynachten,Undirected,1
+Nntzer,Tordenskjold,Undirected,1
+Nntzer,Untzer,Undirected,1
+Frederik af,Untzer,Undirected,2
+Gud,Karlsten,Undirected,3
+Gud,Untzer,Undirected,1
+Paulsen,Schoutbynachten,Undirected,1
+Katharine Mogensen,Ole Olesen,Undirected,2
+Katharine Mogensen,Ole,Undirected,3
+Bude,Ole,Undirected,1
+Bude,Schoutbynachten,Undirected,4
+Bude,Hr. Schoutbynachten,Undirected,1
+Hr. Schoutbynachten,Tordenskjold,Undirected,1
+Ole Olefen,Tordenskjold,Undirected,1
+Mogensen,Ole,Undirected,1
+Mogensen,Ole Olesen,Undirected,1
+Grotschilling,Ulk,Undirected,1
+Grotschilling,Ole Olesen,Undirected,2
+Fist,Ole Olesen,Undirected,1
+Fist,Ole,Undirected,1
+Gud,Kaas,Undirected,1
+Kaas,Karlsten,Undirected,1
+Karlen,Karlsten,Undirected,2
+Grotschilling,Karlsten,Undirected,1
+Grotschilling,Kleve,Undirected,2
+Kleve,Tordensfjold,Undirected,2
+Kleve,Tordenskjold,Undirected,1
+Katharine Mogensen,Tordenskjold,Undirected,2
+Marstrands,Tordenskjold,Undirected,1
+Gud,Marstrands,Undirected,1
+Dankwart,Sjøblad,Undirected,2
+Dankwart,Karlsten,Undirected,1
+Karlsten,Schoutbynacht Tordenskjold,Undirected,1
+Schoutbynacht Tordenskjold,Utfal,Undirected,1
+Utfal,kim,Undirected,1
+Schoutbynachten,kim,Undirected,1
+Schoutbynachten,Utfal,Undirected,2
+Tankwart,Utfal,Undirected,2
+Druens,Utfal,Undirected,1
+Dankwart,Druens,Undirected,1
+Dankwart,Katharine Mogensen,Undirected,1
+Katharine Mogensen,hnn,Undirected,1
+Tordenskjold,hnn,Undirected,1
+Madame Katharine Mogensen,sif,Undirected,1
+Katharine Mogensen,Madame Katharine Mogensen,Undirected,1
+Karlsten,Katharine Mogensen,Undirected,1
+Hans Excellence Schoutbynachten,Schoutbynachten,Undirected,1
+Frøken Utfal,Hans Excellence Schoutbynachten,Undirected,1
+Excellence Schoutbynacht,Frøken Utfal,Undirected,1
+Excellence Schoutbynacht,Tordenskjold,Undirected,1
+Katharine Mogensen,Schoutbynachten,Undirected,1
+Schoutbynachten,Sjøblad,Undirected,1
+Hans Excellence Schoutbynachten,Sjøblad,Undirected,1
+Sjøblad,jusf Knnden,Undirected,1
+Schoutbynachten,jusf Knnden,Undirected,1
+Fynd,Utfal,Undirected,1
+Dankwart,Utfal,Undirected,1
+Dankwart,Ployart,Undirected,1
+Ployart,Winterfeldt,Undirected,2
+Grotschilling,Winterfeldt,Undirected,1
+Ole Olesen,Utfal,Undirected,3
+Oho,Utfal,Undirected,2
+Jørgen,Ole Olesen,Undirected,1
+Admiral Jiidichær,Ole Olesen,Undirected,1
+Ole Olesen,nn,Undirected,1
+Utfal,nn,Undirected,1
+Tordenskjold,Winterfeldt,Undirected,1
+Karlsten,Ployart,Undirected,3
+Jligemaade,Karlsten,Undirected,1
+Schoutbynachten,Sø-mcendænes,Undirected,1
+Morbroder,Ployart,Undirected,1
+Obersf Dankward,Tordenskjold,Undirected,1
+Kleve,Utfal,Undirected,1
+Lind,Schoutbynachten,Undirected,1
+Utfal,Øberst,Undirected,1
+Dankwart,Øberst,Undirected,1
+Dankwart,Schoutbynachten,Undirected,1
+Ployart,iligemaade,Undirected,1
+Kaas,iligemaade,Undirected,1
+Grotschilling,fig,Undirected,1
+fig,Øle Olesen,Undirected,1
+Kaas,Øle Olesen,Undirected,1
+Ole Olesen,kjølnes,Undirected,2
+Ole Olesen,Peter,Undirected,1
+Ole,Peter,Undirected,1
+Ole,Oxen,Undirected,1
+Dankwart,Frøken Utfal,Undirected,1
+Frøken Utfal,Tordenskjold,Undirected,2
+Katharina Mogensen,Tordenskjold,Undirected,1
+Katharina Mogensen,fasf,Undirected,1
+Jesus,fasf,Undirected,1
+Bie,Tordenskjold,Undirected,1
+Dankwart,Katharina Mogensen,Undirected,1
+Gud,Katharina Mogensen,Undirected,1
+Grotschilling,Katharina,Undirected,1
+Bramarbas,Tordenskjold,Undirected,1
+Ole Olesen,Ployart,Undirected,1
+Kaas,Ployart,Undirected,1
+Frøken Utfal,Schoutbynachten,Undirected,1
+Frøken Utfal,Grotschilling,Undirected,1
+Frederik den,Rosenpalm,Undirected,1
+Rosenpalm,Vosbein,Undirected,2
+Anker,Vosbein,Undirected,1
+Anker,voxen,Undirected,1
+Rosenpalm,voxen,Undirected,1
+Frederik,Vosbein,Undirected,1
+Dippels,Gud,Undirected,2
+Gud,Wibe,Undirected,11
+Grev Holslein,Gud,Undirected,1
+Grev Holslein,Wibe,Undirected,1
+Reinschild,Wibe,Undirected,1
+Reinschild,Tordenskjold,Undirected,1
+Gud,Rosenpalm,Undirected,1
+Rosenpalm,Schoutbynachten,Undirected,2
+Rheinschilds,Wibe,Undirected,1
+Tordenskjold,Wibe,Undirected,2
+Ployart,Wibe,Undirected,2
+Ployart,Schoubynachten,Undirected,2
+Schoutbynacht,Tordenskjold,Undirected,2
+Ployart,Poulsen,Undirected,2
+Gud,Ployart,Undirected,2
+Schoutbynacht,Wibe,Undirected,1
+Gud,Karlsfen,Undirected,1
+Karlsfen,Wibe,Undirected,1
+Karlsten,Viktoria,Undirected,1
+Schoutbynachten,Viktoria,Undirected,1
+Charlotte,Karl,Undirected,1
+Charlotte,Grotschilling,Undirected,1
+Frederik,Grotschilling,Undirected,1
+Frederik,Mogens Rabe,Undirected,1
+Mogens Rabe,Ole Olesen,Undirected,1
+Mogens,Tordenskjold,Undirected,1
+Mogens,Schoutbynachten,Undirected,1
+Frederik,Schoutbynachten,Undirected,1
+Bude,Slendrian,Undirected,2
+Marstrand,Ployart,Undirected,1
+Karlsten,Marstrand,Undirected,1
+Gud,Mathias Thye,Undirected,1
+Mathias Thye,Ployart,Undirected,1
+Mathias Thye,Svensterne,Undirected,1
+Bude,Svensterne,Undirected,1
+Mathias Thye,Mathias —,Undirected,1
+Mathias,Mathias —,Undirected,1
+Frederik den,Peter Czar,Undirected,1
+Lynsnar,Ulrika,Undirected,1
+Lynsnar,Tordenskjold,Undirected,1
+Hvidtfeldt,Schoutbynacht,Undirected,1
+Hvidtfeldt,Kristian,Undirected,1
+Karlslen,Kristian,Undirected,1
+Karlslen,se,Undirected,1
+Tordenskjold,se,Undirected,1
+Frederik den,Wibe,Undirected,1
+Møsting,Wibe,Undirected,1
+Gabel,Møsting,Undirected,1
+Tordenskjold,flal,Undirected,1
+Gud,flal,Undirected,1
+Gabel,Gud,Undirected,1
+Admiral,Gabel,Undirected,1
+Admiral,Tordenskjold,Undirected,1
+Chalup,Mar-strands,Undirected,1
+Hvidtfeldt,Mar-strands,Undirected,1
+Hvidtfeldt,Kaas,Undirected,1
+Gabel,Wibe,Undirected,1
+Gabel,Grotschilling,Undirected,1
+Grotschilling,Møsting,Undirected,1
+Møsting,Ployart,Undirected,1
+Ployart,Øverhofmarschal Munck,Undirected,1
+Bude,Øverhofmarschal Munck,Undirected,1
+Bude,Kaas,Undirected,1
+Kaas,Kong Frederik,Undirected,1
+Tordenskjold,Tønder,Undirected,1
+Tønder,Wibe,Undirected,1
+Excellence Sehesteds,Wibe,Undirected,1
+Excellence Sehesteds,Tordenskjold,Undirected,1
+Kunsfens,Lord Carteret,Undirected,1
+Kunsfens,Rasl,Undirected,1
+Rasl,Tordenskjold,Undirected,1
+Grotschilling,Marstrand,Undirected,1
+Gud,Marstrand,Undirected,1
+Hoppe,Karl,Undirected,1
+Karl,Svensferne,Undirected,1
+Charlotte,Svensferne,Undirected,1
+Charlotte,Tordenskjold,Undirected,1
+Chalupper,Schwerin,Undirected,1
+Admiral Ørnfeldt,Schwerin,Undirected,1
+Admiral Ørnfeldt,dansfe,Undirected,1
+Charlotte,dansfe,Undirected,1
+Charlotte,Uraad,Undirected,1
+Schwerin,Uraad,Undirected,1
+Schwerin,Ørnfeldt,Undirected,1
+Tordenskjold,fil Grotschilling,Undirected,1
+Charlotte,fil Grotschilling,Undirected,1
+Charlotte,Prinds Jørgen,Undirected,1
+Admiral Jiidichær,Jiidichær,Undirected,2
+Jiidichær,Tordenskjold,Undirected,9
+Admiral Jiidichær,Fregat,Undirected,1
+Jiidichær,didi,Undirected,1
+Gud,didi,Undirected,1
+Fregatten,Wodrof,Undirected,3
+Jiidichær,Wodrof,Undirected,8
+Jiidichær,jø,Undirected,1
+Jiidichær,Svensterne,Undirected,1
+Svensterne,Wodrof,Undirected,1
+Wodrof,sra,Undirected,2
+Judichær,Wodrof,Undirected,2
+Chaluppen,Wodrof,Undirected,1
+Anker,Jiidichær,Undirected,1
+Admiral Jüdichcer,Bude,Undirected,1
+Admiral,Grotschilling,Undirected,1
+Fregatten,Jiidichær,Undirected,1
+Grotschilling,Wodrof,Undirected,12
+Griller,Wodrof,Undirected,1
+Pibens,Wodrof,Undirected,1
+Jlfærdighed,Wodrof,Undirected,1
+Karl“,Kong Karl“,Undirected,2
+Kong Karl“,Tordenskjold,Undirected,2
+Bude,Kleve,Undirected,1
+Kleve,Wodrof,Undirected,1
+Karle,Kleve,Undirected,3
+Kleve,Satanas,Undirected,1
+Feldtraab,Wodrof,Undirected,2
+Belte,Wodrof,Undirected,1
+Bnde,Bude,Undirected,1
+Bude,Mørner,Undirected,1
+Chalup,Staals Chalup,Undirected,1
+Staals Chalup,Tordenskjold,Undirected,1
+Tordenskjold,flap,Undirected,1
+Kong Karl,Tordenskjold,Undirected,1
+Bude,Grev Mørner,Undirected,1
+Grev Mørner,Karl“,Undirected,1
+Karl“,Tordenskjold,Undirected,1
+Dækkef,soni Katte,Undirected,1
+Fregat,Fregatten,Undirected,1
+Iiidichær,Tordenskjold,Undirected,1
+Iiidichær,Wodrof,Undirected,1
+Orns,Wodrof,Undirected,1
+Orns,Vice-Admirals,Undirected,1
+Gud,Vice-Admirals,Undirected,1
+Tordenskjold,nn,Undirected,1
+Grev Mørner,Wodrof,Undirected,1
+Grev Mørner,Kong Karl“,Undirected,1
+Jiidichær,Karl“,Undirected,1
+Frederik den,sif,Undirected,1
+Frederik,Holberg,Undirected,1
+Frederik,Ulrika,Undirected,1
+Frederik den,Ulrika,Undirected,1
+Lord Carteret,Mylord,Undirected,1
+Jiidichær,Sehested,Undirected,1
+Sehested,Tordenskjold,Undirected,1
+Abraham Lehns,Tøner,Undirected,1
+Almues,Tøner,Undirected,1
+Almues,Peter Tordenskjold,Undirected,1
+Tordenskjold,sonore,Undirected,1
+Abraham Lehn,sonore,Undirected,1
+Abraham Lehn,Vieregg,Undirected,1
+Tordenskjold,Vieregg,Undirected,1
+Peder Paars,Tordenskjold,Undirected,2
+Svensien,Tordenskjold,Undirected,1
+Abraham Lehn,Svensien,Undirected,1
+Abraham Lehn,Tordenskjold,Undirected,2
+Orlogs,Tordenskjold,Undirected,1
+Orlogs,ester,Undirected,1
+Papa,ester,Undirected,1
+Abraham Lehn,Papa,Undirected,1
+Abraham Lehn,Jean cks France,Undirected,1
+Jean cks France,Løvendahl,Undirected,1
+Bude,Thor,Undirected,1
+Løvendahl,Thor,Undirected,1
+Bude,Danmaks,Undirected,1
+Danmaks,Fregat,Undirected,1
+Wodrof,iligemaade,Undirected,1
+Grotschilling,iligemaade,Undirected,1
+Lord Carteret,Sivers,Undirected,1
+,Lillienskjold,Undirected,1
+Koldl,Lillienskjold,Undirected,1
+Abraham Lehn,sif,Undirected,1
+Kjøle,Tordenskjold,Undirected,1
+Baron Gørz,Kjøle,Undirected,1
+Baron Gørz,Sir Hadone,Undirected,1
+Staal,Tordenskjold,Undirected,3
+Perdu,Staal,Undirected,1
+Hadone,Staal,Undirected,1
+Hadone,Sjeur Lehn,Undirected,1
+Spitsbuber,Tordenskjold,Undirected,1
+Spitsbuber,Staal,Undirected,1
+Sjeur,Tordenskjold,Undirected,1
+Mün-nichhausen,Tordenskjold,Undirected,1
+Mün-nichhausen,Staal,Undirected,1
+Sicter,Staal,Undirected,1
+Gørz,Staal,Undirected,2
+Gørz,Mün-nichhausen,Undirected,2
+Gørz,Karl,Undirected,1
+Kaarde,Karl,Undirected,1
+Gørz,Tordenskjold,Undirected,1
+Tordenskjold,slaas,Undirected,1
+Tordenskjold,trine,Undirected,2
+Kaarde,Tordenskjold,Undirected,1
+Hins,Kaarde,Undirected,1
+Hins,Ters,Undirected,1
+Jesu,Tordenskjold,Undirected,1

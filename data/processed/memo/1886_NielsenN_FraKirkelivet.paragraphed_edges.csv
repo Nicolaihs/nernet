@@ -1,0 +1,60 @@
+source,target,type,weight
+Jørgen,Jørgen Sand,Undirected,1
+Gud,Jørgen,Undirected,2
+Gud,Jesus,Undirected,1
+Jørgen,lille Jørgen,Undirected,1
+Jørgen,lian,Undirected,1
+Jonas,Jørgen Sand,Undirected,1
+alfid,lian,Undirected,1
+Gud,Gud bevar,Undirected,1
+Frederik den sjætte,Gud,Undirected,1
+Karl,Sand,Undirected,1
+Amalie,Sand,Undirected,1
+Gud,Sand,Undirected,3
+Paulus,Sand,Undirected,1
+Paulus,Stefan,Undirected,1
+Gud,Stefan,Undirected,1
+Gud,Paulus,Undirected,1
+Paulus,ban,Undirected,1
+Aaens,ban,Undirected,1
+Aaens,lian,Undirected,1
+Givekjersmann,Pastor Koids,Undirected,1
+Hr. Givekjersmann,Pastor Koids,Undirected,1
+Givekjersmann,K,Undirected,1
+Givekjersmann,Kold,Undirected,3
+Emilie Kraft,Hr. Givekjersmann,Undirected,1
+Hr. Givekjersmann,Sand,Undirected,1
+Emilie Kraft,Sand,Undirected,6
+Emilie,Sand,Undirected,3
+Emilie Kraft,Jørgen Sand,Undirected,2
+Hakon Jarl,Joms,Undirected,1
+Anders Lam,Ane,Undirected,1
+Ane,Jørgen,Undirected,1
+Anders Lam,Jørgen,Undirected,1
+Emilie Kraft,Kold,Undirected,1
+Emilie Kraft,Givekjersmann,Undirected,1
+Kold,Sand,Undirected,3
+Buk,Luthers,Undirected,1
+Jesus,Peder,Undirected,1
+Buk,Hr. Givekjersmann,Undirected,1
+Buk,Madame,Undirected,1
+Amalie,Emilie Kraft,Undirected,1
+Pastor Kold,Sand,Undirected,2
+Gud,Kold,Undirected,1
+Kold,Luther,Undirected,1
+Emilie,Jørgen Sand,Undirected,1
+Artium,Sand,Undirected,1
+Jensen,Sand,Undirected,2
+Emilie Kraft,Jensen,Undirected,2
+Buk,Sand,Undirected,3
+Emilie Kraft,Tyfus,Undirected,1
+Sand,Tyfus,Undirected,1
+Emilie,Gud,Undirected,1
+Kold,lian,Undirected,1
+Braad,Sand,Undirected,1
+Kold,Pastor Koids,Undirected,1
+Gud,Pastor Koids,Undirected,1
+Emilie Kraft,Gud,Undirected,1
+Alleby,Sand,Undirected,1
+Sand,ban,Undirected,1
+Hr. Givekjersmann,d,Undirected,1

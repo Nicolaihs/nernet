@@ -1,0 +1,148 @@
+source,target,type,weight
+Ivar Hasselberg,fars,Undirected,1
+Ivar,fars,Undirected,1
+Ivar,Ivar Hasselberg,Undirected,1
+Ivar Hasselberg,stenhaard,Undirected,1
+Gud,stenhaard,Undirected,1
+Dahl,Grande,Undirected,1
+Elias Grande,Grande,Undirected,8
+Grande,Hasselberg,Undirected,28
+Elias Grande,Hasselberg,Undirected,5
+Elias Grande,Karl Johan,Undirected,1
+Ivar Hasselberg,Karl Johan,Undirected,1
+G. F. Schlenk,von Hasselberg,Undirected,1
+Holme,von Hasselberg,Undirected,1
+Hasselberg,kvækked Johansen,Undirected,1
+Hasselberg,Holme,Undirected,7
+Hasselberg,Simonsen,Undirected,3
+Gud,Simonsen,Undirected,1
+Holme,Johansen,Undirected,3
+Hasselberg,Johansen,Undirected,18
+Holme,Simonsen,Undirected,5
+Holme,Johansen gotted,Undirected,1
+Hasselberg,dunsted,Undirected,1
+Elias,Hasselberg,Undirected,8
+Schlenk,principals,Undirected,1
+Ivar Hasselberg,principals,Undirected,1
+Bea,Holme,Undirected,2
+Holme,Schlenk,Undirected,2
+Bea,Hasselberg,Undirected,14
+Gud,stakkar,Undirected,1
+Simonsen,pilte,Undirected,1
+Hasselberg,Lillehammer,Undirected,1
+Bea,Hagen,Undirected,2
+Dahl,Hasselberg,Undirected,4
+Ivar,Linder,Undirected,1
+Grande,Linder,Undirected,1
+Grande,Martine,Undirected,1
+Martine,Olea,Undirected,9
+Hasselberg,Tante Dahl,Undirected,1
+Tante Dahl,tante Dahl,Undirected,1
+Martine,hallelujapige,Undirected,1
+Elias,Elias Grande,Undirected,3
+Elias,Grande,Undirected,2
+Foss,Myhre,Undirected,1
+Kjære,Schlenk,Undirected,1
+Hasselberg,Myhre,Undirected,13
+Hasselberg,Schlenk,Undirected,17
+Schlenk,hr. Hasselberg,Undirected,1
+Grande,Schlenk,Undirected,3
+Myhre,Schytt,Undirected,3
+Schytt,stansed,Undirected,1
+Schlenk,stansed,Undirected,1
+Schlenk,patos,Undirected,1
+Hasselberg,hans Kristianialiv,Undirected,1
+Martine,Schlenk,Undirected,1
+Dahl,Schlenk,Undirected,1
+Albert,Bea,Undirected,12
+Johansen,cachou,Undirected,1
+Hasselberg,cachou,Undirected,1
+Gud,Hasselberg,Undirected,4
+Jesus,bent,Undirected,1
+Beate Schlenk,Hasselberg,Undirected,2
+Bea,Schlenk,Undirected,6
+Bea,Elias Grande,Undirected,1
+Elias Grande,Veslefrik,Undirected,1
+Veslefrik,fele,Undirected,1
+Elias,fele,Undirected,1
+Hasselberg,Martine,Undirected,4
+Dahis,Dahl,Undirected,1
+Hasselberg,Kastevold,Undirected,1
+Dahl,Kastevold,Undirected,1
+Dahl,Martine,Undirected,2
+Gud,Olea,Undirected,4
+Olea,magen,Undirected,1
+Grande,al,Undirected,1
+Gaustad,Hasselberg,Undirected,1
+Gaustad,Gud,Undirected,1
+Hasselberg,Olea,Undirected,3
+Dahl,Olea,Undirected,3
+Martinel,Olea,Undirected,1
+Hasselberg,Ingebrigt,Undirected,1
+Hasselberg,bent,Undirected,2
+Bea,Simonsen,Undirected,3
+Simonsen,principals,Undirected,1
+Bea,frøken Schlenk,Undirected,1
+Albert,Schlenk,Undirected,1
+Herodes,Pilatus,Undirected,1
+Pilatus,Schlenk,Undirected,1
+Johansen,tante Dahl,Undirected,1
+Johansen,saapas,Undirected,1
+Saapas,saapas,Undirected,1
+Johansen,Saapas,Undirected,1
+Hasselberg,glid,Undirected,1
+Adonis,Hamperud,Undirected,3
+Schlenk,Strømsunds,Undirected,1
+Schlenk,bent,Undirected,2
+Albert,Stakkars,Undirected,1
+Bea,Strømsund,Undirected,1
+Albert,Strømsund,Undirected,1
+Gud,toddy,Undirected,1
+Albert,Gud,Undirected,3
+Duthar,Gud,Undirected,1
+Hasselberg,Huttetu,Undirected,1
+Bea,Far,Undirected,1
+Ivar,Olea,Undirected,1
+Hasselberg,Ivar,Undirected,1
+Gud,Ivar,Undirected,1
+Kjære,Martine,Undirected,1
+Martine flytted,krakken,Undirected,1
+Olea,tine,Undirected,1
+Gud,Jesus,Undirected,1
+Gud,Martine stavred,Undirected,1
+Elias Grande,Martine,Undirected,1
+Elias Grande,Olea,Undirected,1
+Grande,Olea,Undirected,1
+Eriksen,Mostad,Undirected,5
+Grande,Myhre,Undirected,1
+Grande,Mostad,Undirected,2
+Mostad,grand,Undirected,1
+Grande,grand,Undirected,1
+Eriksen,Grande,Undirected,1
+Mostad,Myhre,Undirected,1
+Hys,Myhre,Undirected,1
+Mostad,Schytt,Undirected,1
+Simonsen,frøken Simonsen,Undirected,2
+Holme,frøken Simonsen,Undirected,1
+Holme,hagen,Undirected,1
+Frøken Simonsen,hagen,Undirected,1
+Bea,plired,Undirected,1
+Bea,Åa,Undirected,1
+Bea,saapas,Undirected,1
+Holme,kanske,Undirected,1
+Bea,Gud,Undirected,4
+Bea,stakkar,Undirected,1
+Hasselberg,Lillehammer —,Undirected,1
+Hamperud,Hasselberg,Undirected,5
+Karl Johan,jkke,Undirected,2
+Hamperud,Karl Johan,Undirected,1
+Hamperud,Johansen,Undirected,3
+Hasselberg,kur,Undirected,2
+Myhre,kalas,Undirected,1
+Schlenk,Strømsund,Undirected,1
+Schlenk,himled,Undirected,1
+Elias,klown,Undirected,1
+Myhre,Olea,Undirected,1
+Hasselberg,Zakarias,Undirected,1
+Gud,Zakarias,Undirected,2
+Emilie,Zakarias,Undirected,1

@@ -1,0 +1,180 @@
+source,target,type,weight
+Jørgen Hansen,Ole Olens,Undirected,1
+Vilh. Pram,lieds,Undirected,1
+Grundtvigs,Guds,Undirected,1
+Grundtvigs,Monrad,Undirected,1
+Monrad,Orla Lehmann,Undirected,1
+Vilhelm Pram,lians,Undirected,1
+Sejling,Vilh. Pram,Undirected,3
+Prams,Vilh.,Undirected,1
+Pram,Vilh.,Undirected,10
+Magensen,Vilh.,Undirected,1
+Guds,Pram,Undirected,1
+Vilh.,ban,Undirected,1
+Boserups,Pram,Undirected,1
+Ole Olsen,Torm.a,Undirected,1
+Emanuel Hansted,Torm.a,Undirected,1
+Emanuel Hansted,Provst Tønnesen,Undirected,1
+Emanuel Hansted,Vilh. Pram,Undirected,1
+Emanuels,Sigrid,Undirected,1
+Mo’,lille Sigrid,Undirected,1
+Dagny,Sigrid,Undirected,8
+Dagny,Tyksak,Undirected,1
+Betty,Dagny,Undirected,1
+Angelica,Betty,Undirected,1
+Dagny,Gud,Undirected,1
+Angelica,Gud,Undirected,1
+Betty,ers,Undirected,1
+Gud,Hansine,Undirected,2
+Emanuel,Mo,Undirected,1
+Betty,Ragnhild Tønnesen,Undirected,1
+Emanuel,Pastor Petersen,Undirected,2
+Betty,Emanuel,Undirected,6
+Petersen,Rüdesheimer,Undirected,1
+Rüdesheimer,Torms,Undirected,1
+Petersen,Torms,Undirected,1
+Emanuel,Petersen,Undirected,2
+Pastor Petersen,Ragnhild,Undirected,2
+Frk. Tønnesen,—,Undirected,1
+Emanuel,Ragnhild,Undirected,10
+Emanuel,Hansted,Undirected,1
+Emanuel,Frk. Ragnhild,Undirected,5
+Frk. Ragnhild,Frk. Tønnesen,Undirected,1
+Emanuel,Tønnesen,Undirected,1
+Frk. Tønnesen,Hr. Hansted,Undirected,1
+Emanuel,Frk. Tønnesen,Undirected,2
+Gud,Ragnhild,Undirected,2
+Frk. Ragnhild,Pastor Petersen,Undirected,1
+Frk. Ragnhild,Paterens,Undirected,1
+Gud,Magensen,Undirected,1
+Hr. Hansted,Pastor Petersen,Undirected,1
+Frøken Tønnesen,Hr. Hansted,Undirected,1
+Carl,Emanuel,Undirected,1
+Emanuel,Torm,Undirected,4
+Pastor Petersen,Petersen,Undirected,1
+D’,Gaaders,Undirected,1
+D’,Vilh. Pram,Undirected,1
+Magensen,Vilh. Pram,Undirected,1
+Hr. Prams,Magensen,Undirected,1
+Emanuel,Paterens,Undirected,1
+Eckardt,Hansted,Undirected,1
+Eckardt,Johan Tauler,Undirected,1
+Johan Tauler,Søren Kierkegaard,Undirected,1
+Emanuel,Gud,Undirected,6
+Frk. Ragnhild,Hassing,Undirected,1
+Hansine,Hassing,Undirected,1
+Frk. Ragnhild,Hansine,Undirected,2
+Jakob,Jesu,Undirected,1
+Jesu,Kristus,Undirected,1
+Frk. Ragnhild,Gud,Undirected,3
+Emanuel,lian,Undirected,1
+Gud,Trine,Undirected,2
+Dyrlæge Aggerbølles,Ole Birgers,Undirected,1
+Gud,Gutten,Undirected,1
+Elses,Hansine,Undirected,3
+Betty,Frk. Tønnesen,Undirected,1
+Betty,Petersen,Undirected,1
+Petersen,Ragnhild,Undirected,2
+. Pram,Vilh. Pram,Undirected,1
+. Pram,Sejling,Undirected,1
+Sejling,Sofie Landerslev,Undirected,1
+Momine,Momme,Undirected,1
+Jerrild,Momine,Undirected,1
+Ole Vemmeløv,lian,Undirected,1
+Povelsen,lian,Undirected,1
+Momme,Povelsen,Undirected,2
+Momme,Ole Vemmeløv,Undirected,1
+Maren,Ole Vemmeløv,Undirected,1
+Gud,Maren,Undirected,1
+Frk. Katinka Gude,Momme,Undirected,2
+Frk. Katinka Gude,Grundtvigs,Undirected,1
+Grundtvigs,Lindberg,Undirected,1
+Birkedal,Lindberg,Undirected,1
+Birkedal,Frederik Barfod,Undirected,1
+Dines Pontoppidan,Frederik Barfod,Undirected,1
+Gylling,Momme,Undirected,1
+Frk. Katinka,Pastor Mommes,Undirected,1
+Cecilie,Frederik,Undirected,1
+Jens Hansen,Katinka,Undirected,1
+Emanuel Hansted,Hansen,Undirected,1
+Frk. Katinka,Holger Danskes,Undirected,1
+Niels Damgaard,Niels Nilen,Undirected,1
+Emanuel Hansted,Niels Damgaard,Undirected,1
+Povelsen,Trine,Undirected,1
+Emanuel Hansted,ban,Undirected,1
+Emanuel Hansted,Trine,Undirected,1
+Frk. Katinka,Jens Hansen,Undirected,1
+Ellen,Ellen Kagekone,Undirected,1
+Dagny,Dukke-Lise,Undirected,1
+Dukke-Lise,Ellen,Undirected,1
+Ellen,Emanuel,Undirected,1
+Frk. Ragnhild,Pater Rüdesheimer,Undirected,1
+Ragnhild,gak,Undirected,1
+Gud,Hr. Hansted,Undirected,1
+Emanuel,Pateren,Undirected,1
+Hansine,Ole Kristian,Undirected,4
+Else,Hansine,Undirected,3
+Else,Madsen,Undirected,1
+Madsen,Sirachs,Undirected,1
+Emanuel,Ole,Undirected,1
+Emanuel,Gutten,Undirected,3
+Emanuel,Sigrid,Undirected,2
+Emanuel,Hansine,Undirected,5
+Hansine,Madsen,Undirected,1
+Frisinds,Madsen,Undirected,1
+Emanuel,Frisinds,Undirected,1
+Hansine,liun,Undirected,1
+Emanuel,liun,Undirected,2
+Frk. Tønnesen,Gud,Undirected,1
+Emanuel,Moder,Undirected,1
+Hagensen,Moder,Undirected,2
+Gud,lian,Undirected,2
+Betty,Gud,Undirected,7
+Gud,Kristus,Undirected,2
+Betty,paany,Undirected,1
+Angelica,Emanuel,Undirected,1
+Emanuel,Væver Hansen,Undirected,2
+Emanuel,Hansen,Undirected,3
+Sigrid,Tante Bettys,Undirected,1
+Betty,Ragnhild,Undirected,4
+Emanuel,Frøken Tønnesen,Undirected,2
+Hr. Hansted,Kaj,Undirected,1
+Frk. Ragnhild,Ragnhild,Undirected,1
+Gud,Vilh. Pram,Undirected,1
+Emanuel Hansted,Pram,Undirected,1
+Gud,Momme,Undirected,1
+Gud,Katinka Gude,Undirected,1
+Brorson,Katinka,Undirected,1
+Katinka,Momme,Undirected,1
+Betty,Carl,Undirected,1
+Gud,véd,Undirected,1
+Frk. Tønnesen,Kristus,Undirected,1
+Betty,Himmeriges,Undirected,1
+Boserup,Magensen,Undirected,1
+Boserup,Pram,Undirected,1
+Pram,liam,Undirected,1
+Emanuel,Vilh. Pram,Undirected,1
+Hansen,JudasAnsigt,Undirected,1
+Emanuel,Sejling,Undirected,1
+Sejling,Vilh,Undirected,1
+Dagny,Ellen,Undirected,1
+Ellen,Maal,Undirected,1
+Angelika,Sigrid,Undirected,1
+Gud,Sigrid,Undirected,1
+Don Quixotes,Emanuel Hansted,Undirected,1
+Emanuel Hansted,Gud,Undirected,4
+Frk. Tønnesen,Frøken Ragnhild,Undirected,1
+Frøken Tønnesen,Pater Riidesheimer,Undirected,1
+Gud,nichts,Undirected,2
+Frøken Ragnhild,Hr. Vilh,Undirected,1
+. Pram,Hr. Vilh,Undirected,1
+Madsen,Tømrer Nielsen,Undirected,1
+Hr. Villing,Villing,Undirected,2
+Hansen,Villing,Undirected,2
+Gutten,Hansine,Undirected,1
+Anders Jørgens,Hansine,Undirected,1
+Hansine,Sigrid,Undirected,2
+Madsen,Sejling,Undirected,1
+Ole Kristian,Sigrid,Undirected,1
+Hansen,Svend Øl,Undirected,1
+Per Brændevin,Svend Øl,Undirected,1

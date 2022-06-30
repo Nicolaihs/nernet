@@ -1,0 +1,272 @@
+source,target,type,weight
+Lucie,Nilsen,Undirected,34
+Gerner,Lucie,Undirected,47
+Luciebarne,Nilsen,Undirected,3
+Nilsen,robed,Undirected,1
+Nilsen,itte,Undirected,1
+Lucie,Luciebarne,Undirected,5
+Luciebarne,Olsen,Undirected,2
+Lucie,Olsen,Undirected,21
+Di,Nilsen,Undirected,3
+Merkur,Nilsen,Undirected,1
+Luciemor,Nilsen,Undirected,1
+Nielsen,von,Undirected,1
+Theodor,kjæk,Undirected,2
+Synnøve,Theodor,Undirected,1
+Ossen,di,Undirected,1
+di,slite,Undirected,1
+Jossa,slite,Undirected,1
+Jossa,Stakkars,Undirected,1
+Stakkars,Thorsen,Undirected,1
+Thorsen,barna,Undirected,1
+Jysses,barna,Undirected,1
+Olsen,gla,Undirected,1
+Theodor,noe,Undirected,2
+Theodor,liun,Undirected,2
+Theodor,Thoresen,Undirected,1
+Pytsan,Theodor,Undirected,1
+Lucie,lel,Undirected,3
+Theodor,lel,Undirected,1
+jente,smålo Theodor,Undirected,1
+Lucie,Theodor pegte,Undirected,1
+Lucie,Nilsa,Undirected,5
+Nilsa,krepert lel,Undirected,1
+Lucie,gud,Undirected,3
+Gud,Lucie,Undirected,5
+Theodor,gud,Undirected,5
+Kjære,Lucie,Undirected,2
+Nilsa,Theodor,Undirected,4
+Lucie,Theodor,Undirected,30
+Gerner,Theodor,Undirected,4
+Lucie,Lucie Gerner,Undirected,1
+Lucie Gerner,Theodor Gerner,Undirected,1
+Gerner,Theodor Gerner,Undirected,1
+Lucie Gerner,Nilsa,Undirected,1
+Gerner,smålo,Undirected,1
+Gud,Mørk,Undirected,1
+Aksel Mørks,Mørk,Undirected,1
+Mørk,Sofie,Undirected,1
+Aksel,Gerner,Undirected,1
+Gerner,Mørk,Undirected,4
+Gerner,ossen,Undirected,1
+Sofie,ossen,Undirected,1
+Gerner,Rejnertson,Undirected,4
+Gerner,Karl Johan,Undirected,1
+Karl Johan,Mørk,Undirected,2
+Lucie,Mørk,Undirected,6
+Lucie,Rejnertson,Undirected,34
+Theodor,henner,Undirected,1
+Aati,Mørk,Undirected,1
+Mørk,Theodor,Undirected,4
+Lucie,Sara,Undirected,3
+Sara,Theodor,Undirected,1
+Bugge,Mørk,Undirected,1
+Theodor,søte,Undirected,1
+snille,søte,Undirected,1
+Theodor,snille,Undirected,1
+Theodor,s,Undirected,1
+Lucie,Theodor U,Undirected,1
+Gerner,Lucie skotted,Undirected,1
+Theodor,von,Undirected,3
+Dodad,lel,Undirected,1
+Dodad,Luciebarne,Undirected,1
+Luciebarne,Silkeplusch,Undirected,1
+Silkeplusch,søløveskinds,Undirected,1
+Gud,søløveskinds,Undirected,1
+Ossen,Ærend-Christiansen,Undirected,1
+Lucie,Ærend-Christiansen,Undirected,1
+Olsen,glaning,Undirected,1
+Mørk,Rejnertson,Undirected,4
+Gud,Nilsen,Undirected,2
+Helledud,hinner,Undirected,1
+hinner,madam,Undirected,1
+Christian Augustsgade,Nilsen,Undirected,1
+Christian Augustsgade,Nilsa,Undirected,1
+Brandt,Rejnertson,Undirected,2
+Brandt,Karen,Undirected,7
+Brandt,Hennesy,Undirected,1
+Brandt,Mads,Undirected,1
+Mads,frokna,Undirected,1
+Fredrik,Karen,Undirected,3
+Brandt,kjærringpak,Undirected,1
+Gerner,Karen,Undirected,3
+Karen,nynned Brandt,Undirected,1
+Karen,Lucie,Undirected,3
+Brandt,Gerner,Undirected,1
+Brandt,Lucie,Undirected,6
+Di,Lucie stansed,Undirected,1
+Di,Lucie,Undirected,4
+Rejnertson,Theodor,Undirected,6
+Rejnertson,hennes,Undirected,1
+Nilsa,lise,Undirected,1
+hennes,lise,Undirected,1
+Nilsen,hennes,Undirected,1
+Nilsa,Nilsen,Undirected,2
+Theodor,behøved,Undirected,1
+Karl-Johan,Lucie,Undirected,1
+Bernhard Jensen,Theodor,Undirected,1
+Fjær kruses,Hansker vadskes,Undirected,1
+Fjær kruses,Lucie,Undirected,1
+Lucie,henner,Undirected,1
+Nilsen,Olsen,Undirected,13
+Lucie,reke,Undirected,1
+Olsen,reke,Undirected,1
+Di,Olsen,Undirected,4
+Lussia,lel,Undirected,1
+Gud,Olsen,Undirected,2
+Lussia,Olsen,Undirected,4
+Gerner,gubbevars,Undirected,1
+Beardsey,Gerner,Undirected,1
+Gerner,lel,Undirected,1
+Lussia,så Olsen,Undirected,1
+Lussia,rikti,Undirected,1
+Nilsen,susse,Undirected,1
+Lucie,susse,Undirected,1
+Nilsen,bena,Undirected,1
+Lucie,bena,Undirected,1
+Olsen,hennes,Undirected,1
+Lussia,mi,Undirected,1
+Olsen,mi,Undirected,1
+Lucie,stakkars,Undirected,1
+Nilsa,Olsen,Undirected,4
+Olsen,Theodor,Undirected,1
+Olsen,gata,Undirected,1
+gata,lel,Undirected,1
+Olsen,lel,Undirected,1
+Nilsen,Olsen Lucie,Undirected,1
+Lucie,Lussia,Undirected,1
+Gerner,Olsen,Undirected,2
+Martine,Theodor,Undirected,2
+Dingelingeling,Theodor,Undirected,1
+Dingelingeling,Massa,Undirected,1
+Massa,Theodor,Undirected,1
+J,Nikola,Undirected,1
+Krohn,lian,Undirected,1
+Theodor,Thorsen,Undirected,1
+Massa,Thorsen,Undirected,1
+Massa,Rejnertson,Undirected,1
+Gerner,Nilsen,Undirected,4
+Nilsen,hode,Undirected,1
+Gerner,hode,Undirected,1
+frøken Nilsen sjøl,sjøl,Undirected,1
+Alin,hustrus,Undirected,1
+Lucie,perpleks,Undirected,1
+Di,Gerner,Undirected,5
+Lucie,hr. Gerner,Undirected,2
+Lucie,Severine Nilsen,Undirected,1
+hans,karen,Undirected,1
+Nilsa,Rejnertson,Undirected,2
+Rejnertson,hiin,Undirected,1
+Albertine,Lund,Undirected,1
+Di,Rejnertson,Undirected,5
+Lucie,Lund,Undirected,2
+Harlekinens,Lund,Undirected,1
+Knut,Rejnertson,Undirected,4
+Knut Løvehjærte,Knut Rejnertson,Undirected,1
+Rejnertson,pappa,Undirected,1
+Lund,Mørk,Undirected,1
+Di,løjtnant Rejnertson,Undirected,2
+Lucie,sinna,Undirected,1
+Alinde,Gerner,Undirected,1
+Lucie,Magdalena,Undirected,1
+Hode,Lucie,Undirected,1
+A,Theodor,Undirected,1
+Theodor,hans,Undirected,2
+Theodor,di,Undirected,1
+Alen,Lucie,Undirected,1
+Alen,Gerner,Undirected,1
+Henny Brandt,Lucie,Undirected,1
+Gerner,Henny Brandt,Undirected,1
+Henny,Rejnertson,Undirected,9
+Henny,s,Undirected,1
+Frederik,Henny,Undirected,1
+Frederik,Karen,Undirected,1
+Henny,Karen,Undirected,8
+Henny,Holms,Undirected,1
+Holms,Nissens,Undirected,1
+Bertelsens strygebræt,Nissens,Undirected,1
+Bertelsens strygebræt,Henny,Undirected,1
+Henny,Theodor Gerner,Undirected,1
+Lucie,frøken Brandt,Undirected,1
+Henny,Lucie,Undirected,10
+Gerner,Henny,Undirected,3
+Asmundsen,Henny,Undirected,2
+Brandt,Henny,Undirected,3
+Karen,gud,Undirected,1
+Karen,selters,Undirected,1
+Lina,selters,Undirected,1
+Fredrik,Henny,Undirected,1
+Lucie,kremted,Undirected,1
+Lucie,stansed,Undirected,1
+Henny,stansed,Undirected,1
+Asmundsen,Rejnertson,Undirected,1
+Martine,Rejnertson,Undirected,1
+hænds,lel,Undirected,1
+Griegs,Henny,Undirected,1
+Griegs,Vinjes,Undirected,1
+Theodor,pytsan,Undirected,1
+Rejnertson,frøken Brandt,Undirected,2
+Rejnertson,gud,Undirected,3
+Rejnertson,von,Undirected,1
+Lucie,inmari sinna,Undirected,1
+Henny,Knut,Undirected,18
+Henny,gud,Undirected,2
+Adam,Knut,Undirected,1
+Knut,Lucie,Undirected,12
+Knut,Knut Rejnertson,Undirected,1
+Henny,Knut Rejnertson,Undirected,1
+Henny,tante Rejnertson,Undirected,1
+Lucie,pegte,Undirected,1
+Henny,tusseperen,Undirected,1
+Di,Knut,Undirected,1
+Knut,tante,Undirected,2
+Di,tante Rejnertson,Undirected,2
+Knut,pegte,Undirected,1
+Lucie,din,Undirected,1
+Knut,din,Undirected,1
+Di,Henny,Undirected,7
+Di,Gud,Undirected,1
+Henny,greja,Undirected,1
+Henny,taus,Undirected,1
+Henny,Henny listed,Undirected,1
+Karen,Knut,Undirected,2
+Knut,gud,Undirected,1
+Gerner,Martine,Undirected,2
+Henny,Theodor,Undirected,1
+Lucie,Martine,Undirected,4
+Knut Rejnertson,Martine,Undirected,1
+Ossen,løjtnant Rejnertson,Undirected,1
+Lucie,fru Rejnertsons,Undirected,1
+Knut,fru Rejnertsons,Undirected,1
+Tivolif rua,tømmermand Rasmussen,Undirected,1
+A,hans,Undirected,1
+Mortensen,or,Undirected,1
+Lina,Mortensen,Undirected,1
+Lina,Rejnertson,Undirected,1
+Jesus,Lucas,Undirected,1
+Jesus,Johannis,Undirected,1
+Johannes,Johannis,Undirected,1
+Jesus,Johannes,Undirected,1
+Satan,gud,Undirected,1
+Jesus,gud,Undirected,1
+gud,noensteds,Undirected,1
+Theodor,kjephøj,Undirected,1
+Theodor sukked,taug,Undirected,1
+Theodor,liendes,Undirected,1
+Gerner,huk,Undirected,1
+Theodora,gud,Undirected,1
+Martine,madam Halvorsen,Undirected,3
+Gerner,gud,Undirected,1
+Gerner,madam Sæby,Undirected,1
+Gerner,lise,Undirected,1
+Gerner,madam Halvorsen,Undirected,2
+Martine,gudskjelov,Undirected,1
+Lucie,Madam Sæby,Undirected,1
+Hode,Knøv,Undirected,1
+Gerner,Gus,Undirected,1
+Gus,skje,Undirected,1
+Kjør,Theodor,Undirected,1
+Kjør,kjør,Undirected,1
+Gerner,kjør,Undirected,1
+Gerner,nå,Undirected,1
+nå,saken,Undirected,1

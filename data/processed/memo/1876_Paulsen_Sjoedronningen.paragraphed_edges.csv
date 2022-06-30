@@ -1,0 +1,177 @@
+source,target,type,weight
+Julius Vinge,Konrad,Undirected,1
+Julius Vinge,Skjønaand,Undirected,1
+Herr Sjølieutenanten,Skjønaand,Undirected,1
+Kristians,Sjøofficer,Undirected,1
+Frida,Kristians,Undirected,12
+Frida,endnn,Undirected,1
+Ester,Kristians,Undirected,1
+Frida,Vinge,Undirected,29
+Frida,Konrad,Undirected,12
+Frida,Kristiane,Undirected,38
+Kristiane,Tralala,Undirected,1
+Tralala,Tralalala,Undirected,1
+Konrad,Vinge,Undirected,6
+Vinge,sor,Undirected,1
+Fars,iland,Undirected,1
+Griegs,Kristiane,Undirected,1
+Kristiane,Vinge,Undirected,10
+Fars,gradevis,Undirected,1
+Harpe,Line,Undirected,1
+Bosporus,Frida,Undirected,1
+Nn,Serail,Undirected,1
+Fars,Serail,Undirected,1
+Fars,Orion,Undirected,1
+Orion,Sirius,Undirected,1
+Kristiane,Sirius,Undirected,1
+Grinden,Konrad,Undirected,1
+Grinden,Gud,Undirected,1
+Konrad,Sjømand,Undirected,1
+Sjømand,sonore,Undirected,1
+Kristiane,husch,Undirected,1
+brandt,husch,Undirected,1
+Hnn,brandt,Undirected,1
+Allehaande,Frøken Balter,Undirected,1
+Honneur,Skjolds,Undirected,1
+Frida,keg,Undirected,1
+Konrad,Konrad ørn,Undirected,1
+Konrad,Kristiane,Undirected,2
+Kristiane,Skjolds,Undirected,1
+Fredrikke,Skjolds,Undirected,1
+Frida,Marte Frif,Undirected,1
+Frida,nied,Undirected,1
+Frida,Tantens,Undirected,1
+Marie,felv,Undirected,1
+Paal,Per,Undirected,1
+Gud,Paal,Undirected,1
+Gud,Konrad,Undirected,1
+Frida,Marie,Undirected,2
+Frida,Marthe Frik,Undirected,2
+Konrad Ørn,Kristiane,Undirected,1
+Kristians,Vinge,Undirected,2
+Julius Vinge,rose,Undirected,1
+Guttens,rose,Undirected,1
+Kristiane,Mignon,Undirected,1
+Audhild,Mignon,Undirected,1
+Agnes,Audhild,Undirected,1
+Agnes,Mignon,Undirected,1
+Julius Vinge,Sandserus,Undirected,1
+Frida,Sandserus,Undirected,1
+Frida,hnn,Undirected,2
+hnn,Ørn,Undirected,1
+Kristiane,Ørn,Undirected,1
+Kristiane,Kristians,Undirected,1
+Frida,Ørn,Undirected,5
+Jomfru Mortensen,Ørn,Undirected,1
+Jomfru Mortensen,Sjøofficer,Undirected,1
+Frida,Jomfru Mortensen,Undirected,2
+Jomfru Mortensen,Tante,Undirected,1
+Beate,Jomfru Mortensen,Undirected,1
+Beate,Frida,Undirected,2
+Frida,Frue,Undirected,1
+Frida,Tys,Undirected,1
+Assessorens,Klodrian,Undirected,1
+Assessorens,Fredrikke,Undirected,1
+Frida,Gud,Undirected,5
+Beate,rafft,Undirected,1
+Beate,Frida Valter,Undirected,1
+Frida,brandt,Undirected,1
+Pathos,Vinge,Undirected,1
+Jens,Pathos,Undirected,1
+Frida,Skjolds,Undirected,3
+Fredrikke,Frida,Undirected,1
+Gud,Ørn,Undirected,1
+Herr Gornitska,Kristiane,Undirected,1
+Herr Gornitska,Vinge,Undirected,1
+Bjerkebæk,Krisfiane,Undirected,1
+Bjerkebæk,Frida,Undirected,1
+Desdemona,Othello,Undirected,1
+George Elliot,George Sand,Undirected,1
+George Elliot,m. sl,Undirected,1
+Baand,Frida,Undirected,1
+Hansen,Trine Lund,Undirected,1
+Trine,Trine Lund,Undirected,1
+Kristiane,Trine,Undirected,1
+Frida,Jmorgenkvæld,Undirected,1
+Frida,Madame Tapp,Undirected,1
+Madame Tapp,Marg,Undirected,1
+Madam Tapps,Vinge,Undirected,2
+Fredrikke,Io,Undirected,1
+Desdemona,Herr Gornitska,Undirected,1
+Desdemona,Frida,Undirected,1
+Fars,Kristiane,Undirected,1
+Vinge,Ørn,Undirected,1
+Sjømandens,Ørn,Undirected,1
+Kristiane,hnn,Undirected,1
+Frida,Krisfiane,Undirected,3
+Frida,Valsen,Undirected,1
+Frk. Valter,Julius,Undirected,1
+Frida,Julius Vinge,Undirected,2
+Frida,Vals,Undirected,2
+Desdemona,Vals,Undirected,1
+Julius,Vinge,Undirected,1
+Frida,Juliusmand,Undirected,1
+Kristiane,stuni,Undirected,1
+Vinge,stuni,Undirected,1
+Friva,Kristiane,Undirected,1
+Friva,Frøken Kristiane,Undirected,1
+Julie,Romeo,Undirected,1
+Frida,Julie,Undirected,1
+Vals,Ørn,Undirected,1
+Alan,Fredrikke,Undirected,1
+Frida,Taus sone,Undirected,1
+Kristiane,Taus sone,Undirected,1
+Kristiane,hans,Undirected,1
+Frida,Julius,Undirected,1
+Frida,jæg,Undirected,1
+Kristiane,jæg,Undirected,1
+Dæ,Terpsichores,Undirected,2
+Frida,paany,Undirected,1
+Haabets,Jakob,Undirected,1
+Jakob,Rebekka,Undirected,1
+Frøken Valter,Julius Vinge,Undirected,1
+Fredrikke,Konrad,Undirected,1
+Frida,ihn,Undirected,1
+Frida,Henriette,Undirected,2
+Vinge,ester,Undirected,1
+Konrad,ester,Undirected,1
+Bjerks,Frida,Undirected,1
+Pettersen,ber,Undirected,1
+Frk. Smith,Pettersen,Undirected,1
+Frk. Smith,Jenny Smith,Undirected,1
+Jenny Smith,hihil,Undirected,1
+Don Quixote,hihil,Undirected,1
+Don Quixote,son,Undirected,1
+Pettersen,son,Undirected,1
+Don Quixote,Pettersen,Undirected,1
+Don Quixote,vulgairt,Undirected,1
+Frk. N.,vulgairt,Undirected,1
+Frk. N.,Jokumsen,Undirected,1
+Jokumsen,Julius,Undirected,1
+Julius,Julius Vinge,Undirected,1
+Jokumsen,Julius Vinge,Undirected,2
+Hansen,Holm,Undirected,1
+Holm,Konrad,Undirected,1
+Don Juan,Pettersen,Undirected,1
+Don Juan,Sancta Simplicitas,Undirected,1
+Julius Vinge,fiendst,Undirected,1
+Julius,tang,Undirected,1
+Holm,Tu,Undirected,1
+Holm,Julius,Undirected,3
+Gud,Julius,Undirected,1
+Don Juan,Gud,Undirected,1
+Don Juan,Donna Elvira,Undirected,1
+Donna Elvira,Julius,Undirected,1
+Julius,Pettersen,Undirected,1
+Frida Valter,Gud,Undirected,1
+Konrad,Lynsnart,Undirected,1
+Konrad,Pettersen,Undirected,3
+Dn,Konrad,Undirected,1
+Josef,Potifars,Undirected,1
+Graalys,Gud,Undirected,1
+Frida,Graalys,Undirected,1
+Ifjor gætt,T.,Undirected,1
+Ifjor gætt,blaane,Undirected,1
+Vinge,ørns,Undirected,1
+Siris,es,Undirected,1
+Konrad,Konrad Ørn,Undirected,1

@@ -1,0 +1,346 @@
+source,target,timestamp
+Kaj Lønge,Svend,3
+Kaj Lønge,Svend,3
+Mester Frantzens,Svend,4
+Kaj,Svend,5
+Kaj,Mester Frantzens,5
+Mester Frantzen,Mester Frantzens,5
+Kaj,Mathilde,6
+Mathilde,Svend,6
+Kaj,Svend,6
+Kaj,Mathilde,6
+Kaj,Mathilde,6
+Frantzen,Kaj,6
+Frantzen,Hylling,8
+Frantzen,Svend,8
+Anna,Kaj,9
+Hylling,Jacobi,13
+Anna,Hylling,13
+Anna,Ritra,13
+Anna,Kaj,21
+Anna,Frøken Ritra,21
+Anna,Frøken Ritra,21
+Anna,Kaj,21
+Anna,Kaj,21
+Anna,Kaj,22
+Gud,Kaj,29
+Gud,véd,29
+Kaj Lykke,Kaj Lønge,36
+Anna,Kaj,41
+Anna,Kaj,41
+Anna,Kaj,41
+Anna,Kaj,42
+Anna,Kaj,48
+Anna,Kaj,52
+Anna,Frøken Ritra,54
+Anna,Kaj,58
+Kaj,Mester Frantzen,62
+Kaj,Mester Frantzen,62
+Hylling,Kaj,62
+Hanekammens,Kaj,64
+Frantzen,Kaj,69
+Frøken Mathildes,Kaj,70
+Frøken Mathildes,Kaj,70
+Kaj,Mathilde,72
+Kaj,hap,74
+Frantzen,Kaj,79
+Kaj,Mathilde,79
+Kaj,Mathilde,79
+Frantzen,Kaj,79
+Frantzen,Kaj,79
+Fran tzens,Kaj,80
+Mikkelsen,Store-Olsen,85
+Mikkelsen,Store-Olsen,85
+Mikkelsen,Store-Olsen,85
+Mikkelsen,Olsen,86
+Mikkelsen,Olsen,86
+Kaj,Store-Olsen,88
+Hanekammen,Kaj,91
+Hanekammen,Kaj,91
+Frantzen,Kaj,92
+Frantzen,Kaj,92
+Mikkelsen,Store-Olsen,93
+Kaj,Luens,95
+Kaj,Luens,95
+Kaj,Mikkelsen,95
+Kaj,Mikkelsen,95
+Kaj,Mikkelsen,95
+Frantzen,Mikkelsen,95
+Anna,Kaj,98
+Anna,Kaj,100
+Kaj Lønge,Mester Frantzen,101
+Kaj Lønge,Store-Olsen,101
+Frantzen,Store-Olsen,101
+Frantzen,Kaj,101
+Frantzen,Kaj,101
+Kaj,Mesteren,102
+Figaro,Kaj,103
+Kaj,Mathilde,103
+Frantzen,Mathilde,103
+Figaro,Frantzen,104
+Frantzen,Kaj,105
+Frantzen,Kaj,111
+Graad,Kaj,112
+Kaj,Mikkelsen,118
+Emil Holm,Kaj,119
+Emil Holm,Kaj,119
+Emil Holm,Kaj,119
+Hylling,Kaj,119
+Mester Frantzen,Mester Holms,121
+Kaj,Mikkelsen,124
+Kaj,Svend,125
+Kaj,Mikkelsen,126
+Aktors,Kaj,128
+Kaj,Mikkelsen,130
+Kaj,Mikkelsen,130
+Anna,Kaj,132
+Hylling,Kaj,133
+Emil Holm,Kaj,139
+Kaj,jnig,141
+Kaj,jnig,141
+Kaj,Ritra,142
+Mikkelsen,Store-Olsen,153
+Figaro,mille-fleurs,157
+Kaj,Mikkelsen,160
+Figaro,Kaj,162
+Figaro,Kars,162
+Figaro,Kaj,163
+Figaro,Kaj,165
+Kaj,Kars,166
+Hr. L.,Kaj,168
+Grabbe,grabbe,172
+Ferdinand,Mirabeau,197
+Ferdinand,Mirabeau,200
+Kaj,Mirabeau,202
+Kaj,Mirabeau,204
+Anna,Kaj,205
+Anna,Mirabeau,206
+Anna,Mirabeau,206
+Anna,Kaj,207
+Anna,Kong Georgs Vej,213
+Figaro,Kaj,214
+Ferdinand,Mirabeau,215
+Figaro,Hr. Mortensen,224
+Buffon,Hr. Mortensen,224
+Kaj,Mortensen,225
+Anna,Kaj,226
+Kaj,Plum,227
+Ferdinand,Plum,227
+Ferdinand,Kommerceraad Plumbudding,227
+Emil Holm,Kaj,232
+Frøken Ritra,Kaj,236
+Kaj,Ritra,240
+Figaro,Kaj,251
+Figaro,Kaj,251
+Kaj,Kommerceraads,256
+Kaj,Ritra,259
+Frantzen,Kaj,259
+Figaro,s,262
+Kaj,Ritra,263
+Figaro,Kaj,268
+Kaj,Plum,270
+Agnete,Kaj,276
+Agnete,Kaj,277
+Kaj,Ritra,278
+Kaj,Ritra,279
+Kaj,Ritra,280
+Agnete,Kaj,282
+Kaj,Ritra,286
+Kaj,Ritra,287
+Anna,Ritra,287
+Anna,Ritra,287
+Anna,Ritra,287
+Emil Holm,Frøken Ritra,293
+Emil Holm,Kaj,294
+Emil Holm,Ritra,297
+Figaro,Kaj,300
+Anna,Frøken Ritra,304
+Frøken Ritra,Ritra,304
+Anna,Ritra,304
+Anna,Ritra,305
+Anna,Ritra,305
+Anna,Ritra,306
+Anna,Ritra,307
+Anna,Ritra,309
+Anna,Ritra,311
+Anna,Ritra,313
+Kaj,Ritra,319
+Anna,Ritra,322
+Kaj,Ritra,325
+Kaj,Mathilde,326
+Mathilde,Mester Frantzen,326
+Kaj,Ritra,332
+Anna,Ritra,346
+Agnete,Anna,346
+Agnete,Mathilde,346
+Figaro,Kars,355
+Kaj,Kars,355
+Frøken Agnetes,Kaj,357
+Kaj,Ritra,357
+Kaj,hatDu,360
+Kaj,Ritra,362
+Kaj,Ritra,364
+Kaj,Store-Olsen,365
+Kaj,Ritra,366
+Figaro,Ritra,366
+Figaro,Oraklet,366
+Figaro,Kaj,372
+Emil Holm,Store-Olsen,374
+Emil Holm,Store-Olsen,374
+Kaj,Store-Olsen,374
+Figaro,Kaj,374
+Agnete,Kaj,378
+Kaj,Ritra,379
+Kaj,Ritra,381
+Kaj,j,383
+Ritra,j,383
+Kaj,Ritra,388
+Figaro,Kaj,389
+Ferdinand,Kaj,390
+Ferdinand,Kaj,390
+Kaj,Mester Frantzen,404
+Kaj,Mathilde,405
+Frantzen,Mathilde,408
+Kaj,Mathilde,408
+Frantzen,Kaj,409
+Figaro,Kaj,411
+Figaro,Kaj,412
+Kaj,Ritra,414
+Kaj,Ritra,421
+Anna,Ritra,424
+Kaj,Ritra,425
+Etatsraad Plums,Kaj,425
+Kaj,Ritra,432
+Kaj,Ritra,432
+Kaj,skoggerlo,432
+Ritra,skoggerlo,432
+Hveen,Venus,433
+Kaj,Ritra,434
+Kaj,Ritra,437
+Kaj,Ritra,439
+Anna,Ritra,440
+Figaro,Kaj,444
+Frøken Agnete,Kaj,447
+Emil Holm,Store-Olsen,448
+Agnete,Kaj,450
+Agnete,Kaj,453
+Papa,Ætna,455
+Kaj,Ritra,459
+Kaj,Læskes,460
+Kaj,Læskes,460
+Kaj,Ritra,461
+Kaj,Mikkelsen,462
+Emil Holm,Store-Olsen,463
+Ferdinand,Kaj,466
+Kaj,melsen,468
+Figaro,Kaj,473
+Figaro,Jærnstøber,473
+Emil Holm,Jærnstøber,473
+Emil Holm,Jærnstøber,476
+Emil Holm,Figaro,478
+Emil Holm,Ritra Jacobi,481
+Figaro,Kaj Lykke,485
+Figaro,Kaj,486
+Kaj,Vesuv,486
+Agnete,Kaj,492
+Kaj,Ritra,492
+Agnete,Naal,493
+Naal,Tarquinius,493
+Agnete,Kaj,495
+Agnete,Kaj,498
+Agnete,Kaj,500
+Agnete,Kaj,500
+Kaj,Sallusts,500
+Agnete,Kaj,505
+Agnete,Kaj,506
+Agnete,Kaj,509
+Agnete,Ludvig,513
+Agnete,Roublard,514
+Agnete,Kaj,519
+Agnete,Kaj,521
+Agnete,Kaj,522
+Agnete,jon’,523
+Agnete,Kaj,523
+Gud,Kaj,523
+Gud,véd,523
+Bulliers,Michel,526
+Agnete,Kaj,527
+Agnete,Kaj,527
+Agnete,Kaj,529
+Agnete,Fiakren,529
+Agnete,Kaj,536
+Emil Holm,Kaj,544
+Figaro,Kaj,547
+Figaro,Kaj,547
+Agnete Plum,Kaj,548
+Agnete,Kaj,549
+Figaro,Kaj,549
+Emil Holm,Ritra,551
+Holm,Ritra,551
+Kaj,Venus,553
+Anna,Kaj,556
+Anna,Kaj,562
+Kaj,Ritra,564
+Kaj,Kristen,568
+Kaj,Robinson,576
+Anna,Kaj,580
+Anna,Kristen,584
+Anna,Kong Georgs Vej,584
+Kaj,Kong Georgs Vej,584
+Anna,Ritra,585
+Kaj,Ritra,585
+Kaj,Kaj Lønge,592
+Kaj Lykke,L. Kaj,594
+Kaj Lønge,L. Kaj,594
+Kaj,Kaj Lønge,594
+Kaj,Kristen Madsen,594
+Figaro,Kristen Madsen,594
+Figaro,Lavettens,595
+Frantzen,Kaj,598
+Frantzen,Svend,598
+Kaj,Peter,604
+Rits,rats,612
+Etatsraad Plums,Kaj,614
+Anna,Etatsraad Plums,614
+Anna,Ritra,614
+Agnete,Ritra,614
+Agnete,Kaj,615
+Kaj,Mathilde,616
+Anna,Mathilde,616
+Anna,Ritra,616
+Agnete,Ritra,616
+Agnete,Ritra,616
+Agnete Plum,Kaj,617
+Agnete,Agnete Plum,618
+Agnete,Kaj,620
+Agnete,Kaj,621
+Agnete,Kaj,621
+Anna,Gud,631
+Anna,Kaj,639
+Anna,Kaj,639
+Anna,Kaj,639
+Anna,Kaj,641
+Anna,Gud,647
+Anna,Kaj,650
+Mikkelsen,Store-Olsen,655
+Kaj,Store-Olsen,655
+Kaj,Store-Olsen,655
+Mikkelsen,Store-Olsen,655
+Mikkelsen,StoreOlsen,655
+Agnete Plum,Kaj Lønge,656
+Agnete Plum,Kaj,656
+Figaro,Kaj,656
+Ferdinand,Figaro,657
+Kaj,maalløs,658
+Atlaskes,maalløs,658
+Agnete,Kaj,662
+Agnete,Kaj,664
+Kaj,Store-Olsen,666
+Kaj,Store-Olsen,667
+Kaj,Plum,673
+Kaj,Ritra,673
+Agnete,Kaj,676
+Gud,Kaj,680
+Agnete,Kaj,681
+Agnete,Kaj,689
+Agnete,Ritra,689

@@ -1,0 +1,637 @@
+source,target,timestamp
+Arthur Cold,Felding,5
+Christian den Vtes,Cold,7
+Cold,Felding,9
+Cold,Felding,9
+Felding,Gold,13
+Cold,Felding,24
+Gold,J. P. Jacobsens,25
+Felding,J. P. Jacobsens,25
+Felding,Heine,25
+Felding,Heine,25
+Knud Poulsen,Sebastian Poulsen,26
+Felding,Gud,27
+Gud,Knud Poulsen,30
+Felding,Knud,31
+Felding,Poulsen,31
+Hvabehar,Poulsen,37
+Felding,vai,43
+Felding,Lise,43
+Felding,Hr. Poulsen,46
+Felding,Knud præsenterede,46
+Asta,Knud præsenterede,46
+Jette,salig Bang,48
+Jette,Poulsen,48
+Jette,Poulsen,48
+Hase,Jette,49
+Anders Staldkarl,Jomfru Jørgensen,50
+Jomfru Jørgensen,Kirstines,50
+Jette,Jomfru Hase,51
+Asta Langer,Jette,53
+Asta,Jette,54
+Jette,Knud,54
+Jette,Knud,54
+Asta,Jette,54
+Asta,Jette,54
+Asta,Jette,55
+Asta,Jette,55
+Asta,Jette,55
+Asta,Knud,55
+Jens Dahl,Knud,55
+Jens Dahl,Knud,55
+Asta,Knud,55
+Johannes Mikkelsen,Knud,56
+Jeppe Torskeprins,Knud,57
+Jette,Knud,57
+Jette,Knud,57
+Jette,Peter Hansen-Knold,58
+Jette,Knud,58
+Hansen-Knold,Mikkelsen,59
+Felding,Frk. Asta,61
+Jette,Knud,62
+Felding,Jette,62
+Goethe,Gretchen,65
+Asta,Gretchen,65
+Asta,Goethe,65
+Goethe,ewig weibliche,65
+Jette,ewig weibliche,65
+Asta,Felding,66
+Frk. Asta,Jette,68
+Asta,Jette,69
+Asta,Felding,69
+Asta,Felding,71
+Asta,Knud,71
+Felding,Knud,71
+Asta,Knud,78
+Asta,Knud,81
+Asta,Mikkelsen,82
+Jeppe Torske,Mikkelsen,85
+Jeppe,Knud,86
+Asta,Mikkelsen,88
+Hansen-Knold,Mikkelsen,88
+Knud,Svend,89
+Felding,Mikkelsen,90
+Felding,Knud,92
+Jeppe,Knud,93
+Jeppe,Mikkelsen,94
+Asta,Mikkelsen,100
+Hunde-Jens,Knud,101
+Jeppe,Mikkelsen,102
+Felding,Jeppe Torskeprins,111
+Asta,Mette,112
+Asta,Jeppe,114
+Asta,Jeppe,116
+Asta,Pantomime,116
+Aare,Jeppe,117
+Asta,Felding,118
+Hunde-Jens,Knud,120
+Hunde-Jens,Yellow,120
+Felding,Knud,121
+Felding,Mikkelsen,121
+Jens,Knud,123
+Felding,Mikkelsen,124
+Felding,Knold,126
+Jette,Knold,126
+Felding,Mikkelsen,127
+Felding,R.esten,128
+Hunde-Jens,Poulsen,130
+Felding,Knud,131
+Henrik den fjerde,Mikkelsen,136
+Hansen-Knold,Knud,137
+Hansen-Knold,Knud,137
+Knud,Mikkelsen,137
+Felding,Mikkelsen,138
+Aansemose,Anders „,139
+Hans,Jens Skomager,140
+Anders,Hans,140
+Gud,Hans,141
+Hans,Knud,141
+Aaen,Tue,150
+AUe,Tue,151
+Tue,Yellow,151
+Jens,Yellow,151
+Jens,s,151
+Dandy,s,151
+Dandy,Knud,151
+Jens,Knud,152
+Jens,Yellow,152
+Jens,Yellow,153
+Jens,Yellow,153
+Jens,Yellow,153
+Dandy,Felding,154
+Felding,Knud,154
+Felding,Knud,155
+Felding,Knud,155
+Dandy,Knud,155
+Dandy,Knud,155
+Dandy,Knud,155
+Jens,Knud,156
+Felding,Jens,156
+Felding,Jette,156
+Hansen-Knold,Mikkelsen,157
+Hansen-Knold,Jens,157
+Jens,Knud,157
+Felding,Poulsen,171
+Felding,Knud,173
+Felding,Knud,173
+Hansen-Knold,Jette,174
+Jette,Mikkelsen,174
+Frk. Asta,Jette,177
+Frk. Asta,Jette,177
+Frk. Asta,skjær,177
+Asta,skjær,177
+Felding,Jette,180
+Felding,Jette,181
+Felding,Jette,181
+Asta,Jomfru Hase,187
+Felding,Hase,190
+Felding,Hase,191
+Felding,Knud,194
+Felding,Frk. Asta,194
+Felding,Frk. Asta,195
+Frk. Asta,ellige,195
+Felding,Poulsen,196
+Jette,Poulsen,197
+Frk. Asta,Jette,197
+Felding,Frk. Asta,198
+Frk. Asta,Knud,198
+Felding,Hansen-Knold,199
+Felding,Hansen-Knold,199
+Felding,HansenKnold,200
+Asta,Felding,205
+Asta,Felding,205
+Hansen-Knold,Knold,206
+Jette,Jomfru Hase,223
+Jomfru Hase,Knud,223
+Felding,Knud,223
+Anders Aansemose,Felding,223
+Felding,Knud,224
+Felding,Hansen-Knold,224
+Hansen-Knold,Mikkelsen,224
+Felding,Mikkelsen,224
+Felding,Johanne,224
+Felding,Johanne,224
+Jomfru Jørgensen,Karle,228
+Felding,Johanne,229
+Felding,Husbond,232
+Anders Aansemose,Husbond,233
+Jette,Knud,235
+Jette,Jomfru Jørgensen,236
+Ifjor,Jette,236
+Jette,Poulsen,238
+Jette,Jomfru Hase,238
+Jomfru Hase,Knud,238
+Knud,Mikkelsen,238
+Johanne,Mikkelsen,238
+Felding,Johanne,238
+Felding,Hunde-Jens,238
+HansenKnold,Hunde-Jens,238
+HansenKnold,Jens,238
+Hansen-Knold,Jens,238
+Hansen-Knold,Maren,238
+Maren,Mogens,238
+Anders Staldkarl,Mogens,238
+Anders Staldkarl,Felding,238
+Felding,Mikkelsen,238
+Johanne,Mikkelsen,238
+Felding,Johanne,240
+Felding,Johanne,242
+Felding,Mikkelsen,244
+Johanne,Mikkelsen,248
+Felding,Johanne,248
+Felding,Mikkelsen,248
+Johanne,Mikkelsen,251
+Felding,Johanne,252
+Mathilde,Mikkelsen,253
+Gud,Mikkelsen,254
+Felding,Johanne,255
+Johanne,Mikkelsen,255
+Felding,Mikkelsen,255
+Felding,Johanne,255
+Johanne,Poulsen,256
+Felding,Johanne,259
+Felding,Johanne,260
+Felding,Johanne,264
+Asta,Mejersken,265
+Asta,Jomfru Hase,265
+Frøken Asta,Johanne,272
+Felding,Johanne,274
+Johanne,Karle,279
+Felding,Johanne,279
+Johanne,orrentli,280
+Didelom,orrentli,280
+Didelom,didelom,280
+Felding,Johanne,285
+Felding,Mathilde,291
+Johanne,Mathilde,291
+Felding,Johanne,291
+Felding,Mejersken,291
+Johanne,Mejersken,291
+Felding,Johanne,292
+Felding,Hansen Knolds,300
+Felding,Hansen-Knold,303
+Knud,Poulsen,305
+Felding,Knud,305
+Jomfru Jørgensen,Mathilde,307
+Mathilde,Mikkelsen,307
+Mathilde,Mikkelsen,307
+Jette,Jomfru Hase,308
+Mathilde,Svend,309
+Anders Aansemose,Johanne,310
+Knud,Mikkelsen,311
+Jens,Mikkelsen,311
+Jens,s,311
+Knud,s,311
+Knud,Poulsen,313
+Jomfru Hase,Poulsen,313
+Jomfru Hase,Poulsen,313
+Hase,Poulsen,313
+Hase,Poulsen,313
+Johanne,Jomfru Jørgensen,317
+Felding,Heine,321
+Felding,Jette,321
+Gjørding,Jette,321
+Felding,Knud,322
+Felding,Johanne,322
+Johanne,Mikkelsen,322
+Bastnaalen,Felding,324
+Felding,Strax,325
+Felding,Strax,325
+Felding,kjære,325
+kjære,kjære Henriette.,325
+Felding,Jette,326
+Helga,Hr. Felding,332
+Gud,Svend,333
+Jette,Poulsen,334
+Knud,Poulsen,334
+Felding,Johanne,349
+Mads Mogensen,lian,350
+Knud,lian,350
+Felding,Johanne,351
+Hauchs,Wessel,359
+Apolio,Merkur,361
+Hauch,Johan Ludvig,363
+Felding,Knud,365
+Knud,Mikkelsen,365
+Gold,Mikkelsen,365
+Gold,theol. Frimann,365
+Felding,Frimann,368
+Felding,capo,368
+Frederik den syvende,Gortschakoff,370
+Frederik den syvende,Hah,370
+Hah,Zeh,370
+Anddersen,Zeh,370
+Anddersen,Felding,370
+Felding,Frimann,371
+Felding,Frimann,371
+Felding,Frimann,374
+Felding,lian,377
+biml,lian,377
+Blanche,Felding,378
+Blanche,Felding,378
+Felding,Svend,378
+Felding,Svend,378
+Felding,Frimann Felding,379
+Frimann,Svend,382
+Felding,Frimann,383
+Felding,Frimann,385
+Felding,Frimann,394
+Felding,Frimann,396
+Gud,Musse,397
+Frimann,Musse,401
+Felding,Frimann,405
+Felding,Frimann,405
+Frimann,menFelding,409
+Frimann,Sofie,410
+Alusse,Frimann,414
+Alusse,Felding,414
+Felding,Frimann,416
+Felding,Herren,422
+Felding,Frimann,424
+Felding,Frimann,426
+Felding,Frimann,427
+Felding,Frimann,432
+Blanche,Mile Blanche,433
+Frimann,Helga,434
+Anna,Felding,435
+Jomfru Jørgensen,vaares,438
+Diig,vaares,438
+Diig,Losi,438
+Larsen,Losi,438
+Jens Post,Larsen,438
+Jens Post,Johanne,438
+Knud Poulsen,Svend,443
+Johanne,Knud,446
+Felding,Johanne,446
+Felding,Frimann,449
+Felding,Frimann,449
+Felding,Knud,455
+Beckmeyer,Helga,457
+Beckmeyer,Helga,457
+Helga,Husfreds,457
+Felding,Knud,461
+Felding,Knud,462
+Felding,Knud,462
+Felding,Knud,462
+Hase,Knud,467
+Felding,Knud,474
+Knud,Svend,477
+Mikkelsen,Svend,483
+Felding,Knud,496
+F elding,Gold,497
+Felding,Gold,497
+Felding,Gold,497
+Felding,Johanne,499
+Felding,Knud,499
+Felding,Knud,499
+Felding,Johanne,499
+Felding,Frimann,500
+Felding,Helga,501
+Helga,Knud,501
+Beckmeyer,Knud,501
+Beckmeyer,Felding,501
+Felding,Helga,501
+Helga,Johanne,501
+Frimann,Helga,506
+Felding,Helga,507
+Frimann,Helga,507
+Cold,Felding,508
+Cold,Felding,508
+Cold,Felding,515
+Cold,Felding,515
+Felding,Frimann,518
+Felding,Helga,526
+Cold,Felding,526
+Cold,Felding,534
+Cold,Felding,534
+Cold,Felding,535
+Felding,Goids,536
+Felding,Goids,536
+Dudo,Saxo,544
+Dudo,Tanais,544
+Herodot,Tanais,544
+Dan,Ingulez,545
+Dan,Tanais,545
+Ingul,Tanais,545
+Ingul,Ingulones,545
+Ashov,Ingulones,545
+Ashov,Snorre,545
+Cold,Gold,549
+Cold,Felding,549
+Felding,Gold,551
+Cold,Felding,552
+Felding,Helga,552
+Anders,Felding,560
+Anders,Johanne,560
+Felding,Frimann,561
+Felding,Frimann,562
+Felding,Frimann,562
+Felding,Frimann,564
+Felding,Svendsen,564
+Svendsen,Wulff,564
+Sokrates,Wulff,565
+Sokrates,Wulff,565
+Bjergby,V. G. Jensen,566
+Felding,Frimann,569
+Bjergby,Wulff,570
+Felding,Wulff,570
+Bjergby,Wulff,571
+Bjergby,Svendsen,578
+Lunding,Wulff,583
+Bjergby,Diogenes,590
+Bjergby,Wulff,592
+Bjergby,Wulff,594
+Bjergby,bibendi,594
+Wulff,bibendi,594
+Felding,Wulff,594
+Felding,Svendsen,596
+Svendsen,Wulff,596
+Wulff,h øj,596
+Wulff,h øj,596
+Felding,Wulff,597
+Svendsen,Wulff,604
+Bjergby,Wulff,604
+Bjergby,Wulff,605
+Frederik Folkekjærs,Wulff,605
+Felding,Frederik Folkekjærs,605
+Felding,Frimann,605
+Svendsen,Wulff,606
+Felding,Frimann,607
+Frimann,Svendsen,607
+Svendsen,Wulff,607
+Svendsen,Wulff,607
+Svendsen,Wulff,608
+Felding,Frimann,611
+Felding,Frimann,612
+Felding,Frimann,612
+Felding,Frimann,614
+Felding,rimann,616
+Felding,Frimann,616
+Felding,Frimann,616
+Darwin,Felding,616
+Darwin,Frimann,616
+Frimann,Heine,617
+Byron,Heine,617
+Byron,Frimann,617
+Felding,Frimann,617
+Felding,Frimann,617
+Felding,Frimann,617
+Felding,Frimann,617
+Felding,Frimann,618
+Felding,Frimann,621
+Felding,Frimann,621
+Felding,Frimann,622
+Felding,Frimann,623
+Felding,Frimann,623
+Felding,Frimann,623
+Felding,Frimann,629
+Felding,Frimann,631
+Felding,Goethe,634
+Goethe,Napoleon,634
+Goethe,Napoleon,634
+Goethe,Napoleon —,634
+Davoust,Napoleon —,634
+Felding,Ovids,636
+Quem si non tenuit,currus auriga paterni,637
+Quem si non tenuit,magnis tamen excidit ausis,637
+Felding,theol. Frimann,638
+Madame Bovary,Svend Felding,639
+Felding,Frimann,640
+Felding,Frimann,640
+Felding,Goethe,643
+Goethe,Heine,643
+Felding,Frimann,644
+Felding,Frimann,645
+Felding,Frimann,645
+Felding,Piet,645
+Felding,Johanne,647
+Helga,Johanne,649
+Johanne,Madame Bovary,650
+Felding,Knud,651
+Helga,Knud,651
+Helga,Johanne,651
+Helga,Johanne,651
+Felding,Helga,651
+Felding,Helga,651
+Felding,Jette,655
+Felding,Helga,657
+Felding,Henriette,658
+Felding,Johanne,672
+Helga,Knud,676
+Felding,Johanne,678
+Felding,Helga,679
+Cold,Felding,679
+Cold,Helga,679
+Gold,Helga,682
+Felding,Helga,682
+Felding,Helga,684
+Helga,Sordine,684
+Felding,Sordine,684
+Felding,Helga,684
+Cold,Helga,686
+Cold,Felding,687
+Cold,Helga,687
+Felding,Helga,687
+Cold,Felding,687
+Cold,Helga,687
+Cold,Felding,688
+Cold,Helga,689
+Cold,Felding,690
+Felding,Helga,690
+Cold,Helga,690
+Beckmeyer,Felding,695
+Beckmeyer,Felding,695
+Beckmeyer,Felding,696
+Beckmeyer,Felding,696
+Beckmeyer,Felding,696
+Beckmeyer,Felding,696
+Beckmeyer,Felding,696
+Cold,Helga,697
+Beckmeyer,Cold,697
+Beckmeyer,Cold,697
+Beckmeyer,Cold,697
+Beckmeyer,Felding,697
+Cold,Felding,697
+Cold,Helga,697
+Felding,Helga,697
+Cold,Felding,697
+Cold,Helga,697
+Felding,Helga,697
+Beckmeyer,Felding,697
+Beckmeyer,Felding,700
+Felding,Helga,700
+Cold,Helga,700
+Cold,Felding,700
+Felding,Gold,700
+Beckmeyer,Helga,701
+Beckmeyer,Knud,702
+Helga,Knud,702
+Gold,Helga,702
+Beckmeyer,Knud,706
+Beckmeyer,Heine,706
+Heine,Helga,706
+Felding,Helga,706
+Felding,Helga,711
+Felding,Johanne,712
+Felding,Johanne,716
+Felding,Knud,719
+Felding,Musse,722
+Felding,Musse,722
+Johanne,Knud,724
+Felding,Frimann,744
+Helga,Johanne,749
+Helga,Sofie,749
+Felding,Sofie,750
+Johanne,Sofie,761
+Felding,Johanne,766
+Johanne,Sofles,767
+Johanne,Sofie,767
+Helga,Sofie,767
+Helga,Knud,767
+Frimann,Johanne,768
+Frimann,Johanne,768
+Felding,Frimann,768
+Felding,Helga,768
+Johanne,Knud,770
+Johanne,Knud,770
+Frimann,L’,771
+Felding,L’,771
+Felding,Frimann,771
+Frimann,Sofie,771
+Frimann,Sofie,771
+Frimann,Jensen,775
+Frimann,Theologen,777
+Frimann,Jensen,780
+Felding,Madam Frandsen,786
+Felding,Frimann,789
+Felding,Frimann,792
+Frimann,Johanne,792
+Johanne,lille Felding,792
+Felding,Helga,794
+Felding,Sofie,797
+Frimann,Sofie,799
+Felding,Sofie,799
+Felding,Frimann,799
+Frimann,Sofie,799
+Felding,Sofie,799
+Felding,Frimann,799
+Felding,Frimann,799
+Felding,Sofie,799
+Frimann,Sofie,800
+Frimann,Sofie,801
+Felding,Frimann,804
+Frimann,Sofie,805
+Felding,Frimann,806
+Felding,Sofie,806
+Helga,Sofie,806
+Felding,Helga,806
+Cold,Felding,806
+Cold,Felding,806
+Cold,Felding,806
+Felding,Frimann,807
+Frimann,Sofie,807
+Frimann,Helga,808
+Felding,Frimann,812
+Frimann,Sofie,813
+Felding,Sofie,813
+Felding,Frimann,813
+Felding,Sofie,815
+Felding,Frimann,815
+Felding,Frimann,815
+Frimann,Sofie,816
+Frimann,Sofie,816
+Frimann,Sofie,816
+Felding,Frimann,817
+Felding,Sofie,817
+Frimann,Sofie,817
+Felding,Sofie,818
+Johanne,Sofie,818
+Felding,Frimann,821
+Felding,nysgjerrig,823
+Helga,nysgjerrig,823
+Cold,Felding,837
+Felding,Knud,839
+Helga,Johanne,841
+Helga,Johanne,841
+Johanne,Sofie,841
+Johanne,Sofie,841
+Felding,Knud,842
+Felding,Knud,842
+Felding,Johanne,843
+Felding,Knud,843
+Knud,Poulsen,844
+Jette,Poulsen,844
+Felding,Johanne,845
+Johanne,Knud,845
+Jette,Johanne,848
+Felding,Sofie,851
+Felding,Knud,854
+Felding,Johanne,854
+Frimann,Johanne,854
+Frimann,Helga,854
+Helga,Johanne,854
+Frimann,Musse,855
+Frimann,Helga,855
+Felding,Frimams,857
+Felding,Helga,860
+Helga,lian,860

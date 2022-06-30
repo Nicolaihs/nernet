@@ -1,0 +1,306 @@
+source,target,type,weight
+Kringelberg,Svend,Undirected,1
+Jomfru Asmussen,Kringelberg,Undirected,1
+Kringelberg,lange,Undirected,1
+lange,s,Undirected,1
+Kringelberg,L’,Undirected,2
+Hr. Kringelberg,Jomfru Asmussen,Undirected,1
+Hjorths,Praxis,Undirected,1
+bach,lille,Undirected,1
+bach,berg,Undirected,1
+Maria,Martha,Undirected,1
+Gud,Kringelberg,Undirected,1
+Kringelberg,Neveu,Undirected,1
+Asthma,Hjorth,Undirected,1
+Hjorth,JeS,Undirected,1
+Frue,Gud,Undirected,1
+Kringelberg,Ravns,Undirected,1
+Kringelberg,Ravn,Undirected,5
+Ravn,Toddyen,Undirected,1
+Gud,Toddyen,Undirected,1
+Gud,Ravn,Undirected,1
+Gud,véd,Undirected,1
+Ravn,véd,Undirected,1
+Kjødsuppe,Ravn,Undirected,1
+Hjorth,Kjødsuppe,Undirected,1
+Brøchners,Hjorth,Undirected,1
+Hjorth,Lukian,Undirected,1
+Celsus,Lukian,Undirected,1
+Celsus,Strausz,Undirected,1
+Hjorth,Kringelberg,Undirected,3
+Gormsen,Gud,Undirected,3
+Borg,Gud,Undirected,1
+Gormsen,Laura,Undirected,1
+Laura,Petrarca,Undirected,1
+Maren,Petrarca,Undirected,1
+Maren,Rasmus,Undirected,1
+Rasmus,Ulysses von Ithacia,Undirected,1
+Hjorth,Ulysses von Ithacia,Undirected,1
+Brunels,Sirtses,Undirected,1
+Frederikke,Rikke,Undirected,1
+Berthelsens,Kringelberg,Undirected,2
+Frederikke,Graad,Undirected,4
+Frederikke,Skraa,Undirected,3
+Frederikke,Illads,Undirected,1
+Illads,helle Tittvæindlsem,Undirected,1
+Frederikke,helle Tittvæindlsem,Undirected,1
+Frederikke,Gud,Undirected,2
+Ferdinand,Gud,Undirected,1
+Balslevs,Tante,Undirected,2
+Frederikke,Gert Vestfaler,Undirected,1
+Gud,didhen,Undirected,1
+Gormsen,Hjorth,Undirected,5
+Hjorth,Pastor Hjorth,Undirected,3
+Fønix,Jeronimus,Undirected,1
+Hjorth,Jeronimus,Undirected,1
+Fru Kringelberg,Hjorth,Undirected,2
+Berthelsens,Lauritzen,Undirected,1
+P'ru,Ravn,Undirected,1
+Alfred,Lauritzen,Undirected,1
+Alfred,lille Alfred,Undirected,2
+Alfred,Blangstrup,Undirected,1
+Jomfru,Plun,Undirected,1
+Frederikke,lille Rikke,Undirected,1
+Frederikke,donna é,Undirected,1
+Frederikke,Gormsen,Undirected,1
+Frederikke,Grønlund,Undirected,8
+Grøndals,Grønlund,Undirected,1
+Frederikke,Madam Grøndal,Undirected,2
+Fredrik,Pike,Undirected,1
+Fredrik,Hr. Justesen,Undirected,1
+Frederik,Hr. Justesen,Undirected,1
+Frederik,Madam Grønlund,Undirected,1
+Bastone,Madam Grønlund,Undirected,1
+Bastone,Signore,Undirected,1
+Segatti,Signore,Undirected,1
+Giustesen,Segatti,Undirected,1
+Artisti,Segatti,Undirected,1
+Artisti,Justesen,Undirected,1
+Justesen,Segatti,Undirected,1
+Segatti,dappertutto,Undirected,1
+Madam Grønlund,lille Ferdinand,Undirected,1
+Madam Grønlund,Mutter,Undirected,1
+Hr. Justesen,Mutter,Undirected,1
+Frederikke,Hr. Justesen,Undirected,2
+Ferdinand Grønlund,Hr. Justesen,Undirected,1
+Justesen,rikti,Undirected,1
+magnifico,rikti,Undirected,1
+Segatti,magnifico,Undirected,1
+Kjønne,Segatti,Undirected,1
+Direttori,tutti gli impresari,Undirected,1
+Budella del Papa,Corpo di Madonna,Undirected,1
+hvij,uno zago,Undirected,1
+hvij,majet smok,Undirected,1
+Josefine,Madam Grønlund,Undirected,2
+Frederikke,Madam Grønlund,Undirected,1
+Francia,okso,Undirected,1
+Francia,jaj,Undirected,1
+Anna Bolena,jaj,Undirected,1
+Parigi,jaj Cuoco,Undirected,1
+Parigi,maj,Undirected,1
+Maraconi—oh,maj,Undirected,1
+Macaroni,Tenore,Undirected,1
+Jaj,Macaroni,Undirected,1
+Jaj,jaj,Undirected,3
+Padrone,jaj,Undirected,1
+Padrone,tesammel,Undirected,1
+Bassi,tesammel,Undirected,1
+Bassi,Tenore,Undirected,1
+Norte,Tenore,Undirected,1
+Jaj,Norte,Undirected,1
+Jaj,jaj Leonora Addio,Undirected,1
+Larsina,jaj,Undirected,1
+Larsina,Segatti,Undirected,1
+Segatti,maj,Undirected,1
+Loggia,maj,Undirected,1
+Coro,Loggia,Undirected,1
+Coro,sodan,Undirected,1
+Larsina,sodan,Undirected,2
+Impresario,sodan,Undirected,1
+Impresario,asino,Undirected,2
+Impresario,Larsina,Undirected,1
+Larsina,poveretta,Undirected,1
+Riksesort,poveretta,Undirected,1
+Riksesort,santissimo,Undirected,1
+hanses,lena*,Undirected,1
+Carozza,Larsina,Undirected,2
+Ber,Larsina,Undirected,1
+Ber,lino,Undirected,1
+Gran talento musicale,lino,Undirected,1
+Gran talento musicale,Larsina,Undirected,1
+Larsina,Madama Gronlunn,Undirected,1
+Alambra,Madama Gronlunn,Undirected,1
+Alambra,Alleenberg,Undirected,1
+Alleenberg,Larsina,Undirected,1
+Larsina,Or,Undirected,1
+bet,sodan,Undirected,1
+Segatti,sodan,Undirected,1
+Segatti,finito,Undirected,1
+Josefine,Segatti,Undirected,1
+Lethargi,Segatti,Undirected,1
+Justesen,Lethargi,Undirected,1
+Bastone,Hr. Justesen,Undirected,1
+Bastone,Paulsen,Undirected,1
+Bjørns,Hauchs,Undirected,1
+Bjørns,Piano,Undirected,1
+Ferdinand,Weichselfloden,Undirected,1
+Ferdinand,Justesen,Undirected,3
+Johan Ludvig Heiberg,Johan Ludvig Holberg,Undirected,1
+Johan Ludvig Heiberg,Justesen,Undirected,1
+Johan Ludvig Heiberg,Madam Grønlund,Undirected,1
+Grønlund,Madam Grønlund,Undirected,4
+Ferdinand,Madam Grønlund,Undirected,3
+Ferdinand,Lord Meville,Undirected,1
+Hr. Justesen,Justesen,Undirected,1
+Justesen,Madam Grønlund,Undirected,1
+Petersen,XX,Undirected,1
+Hr. Justesen,Madam Grønlund,Undirected,1
+Frederikke,Josefine,Undirected,11
+Ferdinand,Frederikke,Undirected,20
+Kjærestens,Maaneglansen,Undirected,1
+Grønlund,Kjærestens,Undirected,1
+Frederikke,Portlaases,Undirected,1
+Ferdinand Grønlund,Portlaases,Undirected,1
+Frederikke,Josefine Paulsen,Undirected,2
+Frederikke,Justesen,Undirected,1
+Justesen,Schegatto,Undirected,2
+Gud,Justesen,Undirected,1
+Gud,Josefine,Undirected,1
+Frederikke,Lfegeme,Undirected,1
+Frederikke,Gorge,Undirected,1
+Gud,Kingos,Undirected,1
+Hjorth,Nik,Undirected,1
+Nik,Rentier Dambergs,Undirected,1
+Hjorth,Rentier Dambergs,Undirected,1
+Hjorth,Kaptejns,Undirected,1
+Damberg,Kaptejns,Undirected,1
+Damberg,theol. Hjorth,Undirected,2
+Damberg,Hjorth,Undirected,32
+Damberg,Flemmer,Undirected,1
+Flemmer,Mi'nisters,Undirected,1
+Damberg,Mantzius,Undirected,1
+Mantzius,s,Undirected,1
+Damberg,Oehlenschlåger og Heiberg,Undirected,1
+Hjorth,Støvring,Undirected,3
+Bravo,Jane,Undirected,1
+Jane,bravo,Undirected,1
+Damberg,bravo,Undirected,1
+Damberg,Søren Kierkegaards,Undirected,1
+Gud,Pangloss,Undirected,1
+Candide,Pangloss,Undirected,1
+Candide,Damberg,Undirected,1
+Damberg,Støvring,Undirected,3
+Damberg,Gud,Undirected,4
+Damberg,Kaptejn Støvring,Undirected,2
+Damberg,Pastor Hjorth,Undirected,3
+Damberg,Droschkers,Undirected,1
+Augustin,Damberg,Undirected,2
+Damberg,Frederikke,Undirected,33
+Damberg,Lisbeth,Undirected,16
+Frederikke,Hjorth,Undirected,17
+Frederikke,Lisbeth,Undirected,39
+Ilmarsch,Lisbeth,Undirected,1
+Gud,kjære Damberg,Undirected,1
+Lisbeth,L’,Undirected,1
+L’,hombre,Undirected,1
+Toddy,hombre,Undirected,1
+Damberg,Toddy,Undirected,1
+Hjorth,Kaptejnens,Undirected,1
+Afglans,Damberg,Undirected,1
+Afglans,Gud,Undirected,1
+Gud,Pastor Hjorth,Undirected,1
+Fiver,Frederikke,Undirected,2
+Graad,Lisbeth,Undirected,1
+Damberg,Don Quixote,Undirected,1
+Alexander Magnus,Lisbeth,Undirected,1
+Damberg,Oehlenschlåger,Undirected,2
+Damberg,Goethes,Undirected,1
+Goethes,Lenaus,Undirected,1
+Christopher Marlows,Lenaus,Undirected,1
+Christopher Marlows,Faustus,Undirected,1
+Calderons El magica prodigioso,Faustus,Undirected,1
+Calderons El magica prodigioso,Hjorth,Undirected,1
+Hjorth,Hr. Damberg,Undirected,2
+Damberg,cher,Undirected,1
+Hjorth,Lisbeth,Undirected,2
+Damberg,Gormsen,Undirected,1
+Damberg,Edmunds,Undirected,1
+Edmunds,Kong Lear,Undirected,1
+Kong Lear,Lotzes,Undirected,1
+Frederikke,Swinburne,Undirected,1
+Maa,Swinburne,Undirected,1
+Damberg,Maa,Undirected,1
+Damberg,Søren Kierkegaard,Undirected,1
+Berggreens,Hjorth,Undirected,1
+Berggreens,Frederikke,Undirected,1
+Frederikke,Madam,Undirected,1
+Gud,Hjorth,Undirected,1
+Adam,Gud,Undirected,1
+Adam,Eva,Undirected,1
+Eva,lille Frederikke,Undirected,1
+Hjorth,lille Frederikke,Undirected,1
+Frederikke,Hr. Damberg,Undirected,2
+Gud,lille Frederikke,Undirected,1
+Gud,Lisbeth,Undirected,1
+Frederik den,Gud,Undirected,1
+Frederikke,FruLodsberg,Undirected,1
+Frederikke,Sokrates,Undirected,1
+Lisbeth,Sokrates,Undirected,1
+Frederikke,charni,Undirected,3
+Lisbeth,Stuart Miller,Undirected,1
+Stuart Miller,lille Lisbeth,Undirected,1
+Lisbeth,lille Frederikke,Undirected,1
+Frederikke,lille Frederikke,Undirected,1
+Klarinettens,Lisbeth,Undirected,1
+s,tolf Aare,Undirected,1
+okso,tolf Aare,Undirected,1
+Frederikke,Hr. Segatti,Undirected,2
+Grønlund,Skitte,Undirected,1
+Briconaccio,jaj,Undirected,1
+Antonio,Briconaccio,Undirected,1
+Antonio,Ecco la vendetta che viene,Undirected,1
+Frederikke,Segatti,Undirected,1
+Lisbeth,Madam,Undirected,1
+Frederikke,P'olk,Undirected,2
+Ferdinand Grønlund,Lisbeth,Undirected,1
+Ferdinand Grønlund,Frederikke,Undirected,3
+Borg,Frederikke,Undirected,1
+Ferdinand,Svend,Undirected,1
+Frederikke,Svend,Undirected,1
+Ferdinand,Graad,Undirected,1
+Frederikke,lille Grønlund,Undirected,1
+Fatter,Mutter,Undirected,1
+lille Frederikke,lille Grønlund,Undirected,1
+Ferdinand,lille Grønlund,Undirected,1
+Ahlberg,Frederikke,Undirected,1
+Ferdinand,Ferdinand Grønlund,Undirected,1
+Ferdinand Grønlund,Stig Hvide,Undirected,1
+Stig Hvide,Svend Dyrings,Undirected,1
+Ferdinand,charni,Undirected,1
+Damberg,Ferdinand,Undirected,1
+Frederikke,doloris,Undirected,1
+Lisbeth,doloris,Undirected,1
+Damberg,Fru Lassens,Undirected,1
+Fru Lassens,Hjorth,Undirected,1
+Damberg,Hr. Damberg,Undirected,1
+Damberg,Pathos,Undirected,1
+Hjorth,Pathos,Undirected,1
+Damberg,Sebastian,Undirected,1
+Car,Sebastian,Undirected,1
+Can,Car,Undirected,1
+Damberg,Frederikke Karoline Petersen,Undirected,1
+Frederikke,Rousseaus,Undirected,1
+Fru Kringelberg,Madam Lodsberg,Undirected,1
+Gormsen,Kringelberg,Undirected,1
+Josefine,Justesen,Undirected,1
+Josefine,Paulsen,Undirected,1
+Ferdinand,Tante Kringelberg,Undirected,1
+Ferdinand Grønlund,Gormsen,Undirected,1
+Ferdinand,Grønlund,Undirected,1
+Frederikke,Kaptejn Støvring,Undirected,1
+Damberg,Kong Sebastian,Undirected,2
+Frederikke,Støvring,Undirected,1
+Damberg,Madam Grønlund,Undirected,1
+Aland,Frederikke,Undirected,1
+Aland,Karl,Undirected,2
+Frederikke,lille Karl,Undirected,1

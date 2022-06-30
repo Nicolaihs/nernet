@@ -1,0 +1,438 @@
+source,target,type,weight
+Motle,livis,Undirected,1
+Guttorm Hvide,Motle,Undirected,1
+Gunhild,Guttorm Hvide,Undirected,1
+Gunhild,Pohjola,Undirected,1
+Pohjola,Spaadomskraft,Undirected,1
+Baad,Lavrekas,Undirected,2
+Laurukainen,lian,Undirected,1
+Blomberg,Rosenhoff,Undirected,1
+Lundin,Røj,Undirected,1
+Lavrekas,Lundin,Undirected,2
+Lavrekas,Rosenhoff,Undirected,1
+Lavrekas,Mores,Undirected,1
+Claes Lundin,Lavrekas,Undirected,2
+Laurukainen,hans,Undirected,1
+Atterboms,Virgil,Undirected,1
+Bæives,Laurukainen,Undirected,1
+Lavrekas,Toini,Undirected,18
+Laurukainen,Lavrekas,Undirected,7
+Lavrekas,Napoleon,Undirected,1
+Lavrekas,Zarskoje-Selo,Undirected,1
+Laurukainen,Paavo,Undirected,14
+Gud,Jubmel,Undirected,1
+Sarakka,Veike,Undirected,2
+Hora-gales,Vaibi,Undirected,1
+Bæive,Hora-gales,Undirected,1
+Bæive,Horagales,Undirected,2
+Alits,Vaibi,Undirected,7
+Hora-gales,Horagales,Undirected,1
+Hora-gales,Starbo,Undirected,1
+Bæive,Noaiden,Undirected,1
+Bæive,Noaide-gazze,Undirected,1
+Guden,Vaibi,Undirected,3
+Ibmel,Vaibi,Undirected,3
+Bæive,Vuolab,Undirected,2
+Gude-,Snorre Sturlesøn,Undirected,1
+Lavrekas,ban,Undirected,1
+Lavrekas,Vuolab Bæive,Undirected,1
+Lavrekas,Vuolab,Undirected,3
+Lappen,Laurukaineh,Undirected,1
+Lappen,Lavrekas,Undirected,1
+Laurukainen,Vuolab,Undirected,1
+Lauri,Toini,Undirected,8
+Gud,Lavrekas,Undirected,8
+Laurukainen,Toini,Undirected,8
+Toini,ban,Undirected,1
+Jesus Kristus,Lavrekas,Undirected,3
+Gud,Vuolab,Undirected,2
+Gud,Laurukainen,Undirected,5
+Issak,Jouhan,Undirected,1
+Stallo,Vuolab,Undirected,5
+Stene,Vuolab,Undirected,1
+Bæive,Stallo,Undirected,1
+Aran,Boassa,Undirected,2
+Aran,Uske,Undirected,1
+Bæive,Kadnihaks,Undirected,1
+Bæive,Kadnihak,Undirected,1
+Louhis,Sampo,Undirected,1
+Louhi,Sampo,Undirected,3
+Noaide,Sampo,Undirected,1
+Gobdas,Noaide,Undirected,1
+Aran,Gobdas,Undirected,1
+Veike,Vuolab,Undirected,1
+Gammen,Veike,Undirected,1
+Muste,Veike,Undirected,1
+Basse,Muste,Undirected,2
+Muste,Vaibi,Undirected,9
+Muste,lille Muste,Undirected,1
+Renen,Vuolab,Undirected,4
+Maanelys,Renen,Undirected,1
+Vaibi,Vaibi Bæive,Undirected,1
+Alits,Toini,Undirected,3
+Toini,Vaibi,Undirected,12
+Muste,Noaide,Undirected,1
+Jumala,Noaide,Undirected,1
+Ibmel,Jumala,Undirected,1
+Herren,Ibmel,Undirected,1
+Herren,Vaibi,Undirected,1
+Bæive,Renen,Undirected,1
+Bæive,Jouhan,Undirected,1
+Gud,Jouhan,Undirected,1
+Abraham,Bæive,Undirected,1
+Aaget,Gud,Undirected,1
+Gud,Samer,Undirected,1
+Gud,Vaibi,Undirected,4
+Vaibi,Vuolab,Undirected,15
+Gammen,Toini,Undirected,1
+Toini,Uske,Undirected,2
+Saivvo,Vaibi,Undirected,1
+Haldek,Vaibi,Undirected,1
+Haldek,bo,Undirected,1
+Kalia bardnes,Kalla bardne,Undirected,1
+Kalia bardnes,Kalla barnek,Undirected,1
+Orion,t,Undirected,1
+Kalla bardne,t,Undirected,1
+Kalla,Kalla bardne,Undirected,1
+Kalla,bardnes,Undirected,1
+Saivvo,Saivvofolk,Undirected,1
+Radien,Vaibi,Undirected,1
+Hind,Vaibi,Undirected,1
+Kantela,Lavrekas,Undirected,6
+Lavrekas,sine Runot,Undirected,1
+Kantela,Kantelar,Undirected,1
+Hedenold,Vaibi,Undirected,1
+Hedenold,Kantelar,Undirected,1
+Kantela,Laurukainen,Undirected,6
+Kantela,Vaibi,Undirected,1
+Toini,lian,Undirected,1
+Gud,Toini,Undirected,2
+Alits,Noaiden,Undirected,2
+Alits,Laurukainen,Undirected,1
+Alits,Vuolab,Undirected,4
+Renen,Vaibi,Undirected,3
+Boassa,Vaibi,Undirected,1
+Aran,Vaibi,Undirected,1
+Bæive,Gud,Undirected,1
+Alits,Bæive,Undirected,1
+Noaiden,Vuolab,Undirected,1
+Noaiden,Saivvo,Undirected,1
+Saivvo,Vuolab,Undirected,2
+Gammen,Vuolab,Undirected,1
+Gammen,Saivvo,Undirected,1
+Noaide,Vaibi,Undirected,3
+Noaide,Vuolab,Undirected,1
+Alits,Glentens,Undirected,1
+Glentens,Vuolab,Undirected,1
+Noaiden,lian,Undirected,1
+Toini,Vuolab,Undirected,1
+Majmaaned,Miesse-manno,Undirected,1
+Hanne,Majmaaned,Undirected,1
+Hanne,Muste,Undirected,1
+Girjes,Muste,Undirected,2
+Bæive,Toini,Undirected,1
+Jesus Kristus,Vaibi,Undirected,2
+Bæive,Suome,Undirected,1
+Bæive,Vaibi,Undirected,1
+Lavrekas,Paavo,Undirected,31
+Gud,Toine,Undirected,1
+Lauri,Moder,Undirected,2
+Jetanis,Kadniha —,Undirected,1
+Bæive,Rener,Undirected,1
+Fella,Renen,Undirected,1
+Bæive,Ranne,Undirected,1
+Muste,Ranne,Undirected,1
+Girjes,Tschalmo,Undirected,1
+Praxis,Vaibi,Undirected,2
+Aaget,Vaibi,Undirected,1
+Sames,Vuolab,Undirected,1
+Jesus Kristus,Vuolab,Undirected,1
+Stallo,lian,Undirected,1
+Alits,Stallo,Undirected,1
+Gud,Gud Fader,Undirected,1
+Gud,Gud Helligaand,Undirected,1
+Afoderen,Paavo,Undirected,2
+Peisen,Toini,Undirected,1
+Gud,Jesu,Undirected,2
+Jesu,Lavrekas,Undirected,1
+Jærnhaand,Laurukainen,Undirected,1
+Paavo,Toini,Undirected,2
+Laurukainen,lille Paavo,Undirected,1
+Lavrekas,lille Paavo,Undirected,2
+Gud,Lauri,Undirected,2
+Lauri,lille Paavo,Undirected,2
+Lauri,ban,Undirected,2
+Lauri,Lavrekas,Undirected,3
+Kantela,Toini,Undirected,2
+Gud,Kantela,Undirected,2
+Kantela,Lauri,Undirected,1
+Toini,lille Paavo,Undirected,1
+Gud,lille Paavo,Undirected,1
+Gud,Paavo,Undirected,11
+Kantela,Paavo,Undirected,4
+Emil von Rosenhof,Masaniello,Undirected,1
+esprit,lille Emil,Undirected,1
+Emil,Masaniello,Undirected,1
+Alin Onkels,Frøken Regitze,Undirected,1
+Hr. Bergstrøm,Jomfru Regi tze,Undirected,1
+Byron,Jomfru Regi tze,Undirected,1
+AVerther,Byron,Undirected,1
+AVerther,Alan,Undirected,1
+Alan,Gøthe,Undirected,1
+AVerther,Gøthe,Undirected,1
+AVerther,Lothar,Undirected,1
+Grev Lothar,Lothar,Undirected,1
+Brutus,Grev Lothar,Undirected,1
+Emil,Sujet,Undirected,1
+Erik,Lothar,Undirected,8
+Alette,Erik,Undirected,3
+Alette,Jørgine,Undirected,2
+Alette,Jorgine,Undirected,1
+Erik,Mette,Undirected,4
+Jørgine,Mette,Undirected,4
+Hr. Stråhlenhjelm,Lothar,Undirected,3
+Husbond,Lothar,Undirected,2
+Katzenjammer,lian,Undirected,1
+Erik,Jørgine,Undirected,1
+Arenus,Lothar,Undirected,2
+Hr. Bergstrom,Lothar,Undirected,2
+Lothar,Theori,Undirected,1
+Hr. Bergstrom,Jørgine,Undirected,1
+Lothar,Rasmus,Undirected,1
+Alen,Lothar,Undirected,1
+Hr. Bergstrøm,brummedø,Undirected,1
+Emil,Hr. Bergstrøm,Undirected,2
+Hr. Bergstrøm,Hr. Westberg,Undirected,1
+Hr. Molander,Hr. Westberg,Undirected,1
+Emil,Hr. Bergstrom,Undirected,1
+Hr. Stråhlenhjelm,strængt,Undirected,1
+Bergstrom,strængt,Undirected,1
+Kantela,Paovo,Undirected,1
+Lavrekas,Paovo,Undirected,1
+Laurukainen,Pasvig,Undirected,1
+Gleb,Trifan,Undirected,1
+Feodor Ivanovitsch,Luoite min,Undirected,1
+Hr. Molander,Lavrekas,Undirected,1
+Lavrekas,k,Undirected,1
+Ibmel,k,Undirected,1
+Ibmel,gosa joditschak,Undirected,1
+Kathe Ibmel,gosa joditschak,Undirected,1
+Kathe Ibmel,lekus,Undirected,1
+doalvoshji,lekus,Undirected,1
+doalvoshji,dærvan deihi ruoktot,Undirected,1
+Sarakka,Sarakka muo sarram,Undirected,1
+Aledynk,Laurukainen,Undirected,1
+Aledynk,Paavo,Undirected,1
+Jesu,Lauri,Undirected,1
+Hr. Stråhlenhjelm,Laurukainen,Undirected,1
+Laurukainen,Peldoivis,Undirected,1
+Lavrekas,Rosenhof,Undirected,2
+Alængdens,Rosenhof,Undirected,1
+Hr. Stråhlenhjelm,JOOO,Undirected,1
+Basuners,Gud,Undirected,1
+Lindroth,Veraab,Undirected,1
+Lavrekas,Veraab,Undirected,1
+Adam,Peder,Undirected,1
+David,Peder,Undirected,1
+David,Uria,Undirected,1
+Per,Uria,Undirected,1
+Per,Povl,Undirected,1
+Kristus,Povl,Undirected,1
+Lysengels,Satan,Undirected,2
+Gud,Hr. Ekstrøm,Undirected,2
+Alod,Lavrekas,Undirected,1
+Kurtise,Valsen,Undirected,1
+Aran,Kurtise,Undirected,1
+Aran,Gud,Undirected,1
+Hr. Stråhlenhjelm,Paavo,Undirected,2
+Hr. Stråhlenhjelm,Hr. Westberg,Undirected,1
+Hr. Westberg,Tyfus,Undirected,1
+Hr. Bergstrøm,Tyfus,Undirected,1
+Hr. Bergstrøm,Kola,Undirected,1
+Blomberg,Hr. Bergstrøm,Undirected,1
+Alan,Hr. Blombergs,Undirected,1
+Alands,me'd,Undirected,1
+Korhoinens,Rosenhof,Undirected,1
+Alan,Pastor Ekstrems,Undirected,1
+Gud,Pastor Ekstrems,Undirected,1
+Johan,Silke,Undirected,3
+Eva,Silke,Undirected,1
+Eva,Johan,Undirected,1
+Ajax,Kristoffer Ekstrøm,Undirected,1
+Madam Enberg,Madam Evas,Undirected,1
+Amalie,Hr. Lundin,Undirected,2
+Hr. Lundin,Hr. Wilson,Undirected,1
+Hr. Sanders,Hr. Wilson,Undirected,1
+Hr. Kristoffer,Konstance,Undirected,1
+Aland,Amalie,Undirected,1
+Aland,Frøken Ekstrøm,Undirected,1
+Alerci,Papa,Undirected,1
+Amalie,Papa,Undirected,2
+Amalie Blomberg,Lavrekas,Undirected,1
+Konstance Ekstrøm,Lavrekas,Undirected,1
+Lavrekas,Stenberg,Undirected,1
+IPaavo,Paavo,Undirected,1
+Paavo,edens,Undirected,1
+Charles Dickens,David Copperfield,Undirected,2
+David Copperfield,Ekstrøm,Undirected,1
+Lauri,Paavo,Undirected,1
+Emil Kosenhof,Hr. Stråhlenhjelm,Undirected,1
+Emil Kosenhof,Hr. Bergstrøm,Undirected,1
+Korhoinen,Paavo,Undirected,4
+Korhoinen,skjelmske,Undirected,1
+Frøken Birgitze,Lavrekas,Undirected,1
+Frøken Regitze,Stråhlenhjelm,Undirected,1
+Blomberg,Frøken Regitze,Undirected,1
+Blomberg,Frøken Blomberg,Undirected,1
+Peterkopf,von Seelenheim,Undirected,1
+Mama,Papa,Undirected,1
+Aina,Mama,Undirected,1
+Aina,Madam Enberg,Undirected,1
+Amazone å l,Paavo Korhoinen,Undirected,1
+Amalie Blomberg,Paavo Korhoinen,Undirected,1
+Abekat,Hr. Bergstrøm,Undirected,1
+Hr. Bergstrøm,Prof. Elberfeldt,Undirected,1
+Hr. Stråhlenhjelm,Prof. Elberfeldt,Undirected,2
+Hr. Bergstrøm,Hr. Stråhlenhjelm,Undirected,2
+Blomberg,Trente mille tonnerres,Undirected,1
+Amalie,Trente mille tonnerres,Undirected,1
+Briljant,Paavo,Undirected,1
+Alellem,Paavo,Undirected,1
+Hr. Stråhlenhjelm,Rosenhof,Undirected,2
+Ding dang,hopsa,Undirected,1
+Ding dang,Gud,Undirected,1
+Gud,Kristoffer,Undirected,1
+Lida,Strida,Undirected,1
+Anna,Lida,Undirected,1
+Hojda,Nojda,Undirected,1
+Bjarmernes,Dvinas,Undirected,1
+Dvinas,Erik den,Undirected,1
+Birgir Jarl,Erik den,Undirected,1
+Hr. Strålenhjelms,Karlsbad,Undirected,1
+Elberfeldt,Karlsbad,Undirected,1
+Elberfeldt,Hr. Stråhlenhjelm,Undirected,2
+Charlatan,vantros,Undirected,1
+Hr. Bergstrom,Hr. Stråhlenhjelm,Undirected,1
+Hr. Stråhlenhjelm,Lavrekas,Undirected,2
+Ekstrem,Ekstrøm,Undirected,1
+Adieu,Ekstrøm,Undirected,1
+Adam,Hr. Lundin,Undirected,1
+Paavo,Prof. Blomberg,Undirected,2
+Lavrekas,Prof. Blomberg,Undirected,1
+Hydra,Studiosi,Undirected,1
+Samson,Studiosi,Undirected,1
+Hr. Brulins,Prof. Blomberg,Undirected,1
+Frøken Blomberg,Frøken Ekstrøm,Undirected,1
+Ekstrøm,Frøken Blomberg,Undirected,1
+Lundin,tete,Undirected,1
+Ekstrøm,Paavo,Undirected,1
+Septimius Severus,Titus,Undirected,1
+Caligulas,Titus,Undirected,1
+Caligulas,Cæsars,Undirected,1
+Ciseros,Cæsars,Undirected,1
+Buon mattino,Signore,Undirected,1
+Amor,Apollo,Undirected,1
+Amor,Merkur,Undirected,1
+Bacchus,Vesuv,Undirected,1
+Blomberg Stanislausordenens,Rosenhof,Undirected,1
+Amalie Blomberg,Elberfeldt,Undirected,1
+Borgstrøm,Hr. Bergstrom,Undirected,1
+Bergstrøm,Eva,Undirected,2
+Eva,Hr. Lundin,Undirected,1
+Hr. Bergstrøm,Hr. Lundin,Undirected,1
+Frøken Regitze,Hr. Bergstrøm,Undirected,3
+Hr. Lundin,Lundin,Undirected,4
+Frøken Regitze,Hr. Lundin,Undirected,1
+Frøken Regitze,Hr. Borgstrøm,Undirected,1
+Bergstrøm,Frøken Regitze,Undirected,2
+Bergstrom,svor,Undirected,1
+Prof. Blomberg,Rosenhof,Undirected,1
+Oktavianus,Paavo Korhoinen,Undirected,1
+Hr. Lundin,Prof. Blomberg,Undirected,1
+Hr. Lundin,Hr. von Rosenhof,Undirected,1
+Hr. Stråhlenhjelm,Hr. von Rosenhof,Undirected,1
+Korboinens,Paavo,Undirected,1
+Amalie Blomberg,Paavo,Undirected,4
+Kantela,Rosenhof,Undirected,1
+Lavrekas,xMand,Undirected,1
+Emil Rosenhof,Lundin,Undirected,1
+Larsson,Rosenhof,Undirected,2
+Paavo,Rosenhof,Undirected,10
+Rosenhof,Uhr,Undirected,1
+Paavo,Vuolab,Undirected,1
+Frøken Ekstrøm,Rosenhof,Undirected,1
+Konstance,Lundin,Undirected,1
+Aland,Hr. Lundin,Undirected,1
+Bæjve,Gan,Undirected,1
+Lundin,Noaiden,Undirected,1
+Lundin,Vuolab,Undirected,2
+Hr. Lundin,Vuolab,Undirected,2
+David,Rosenhof,Undirected,1
+David,Gud,Undirected,1
+Amalie,Paavo,Undirected,7
+Amalie,Blomberg,Undirected,2
+Paavo,Salomo,Undirected,1
+Oktavianus,Paavo,Undirected,2
+Golos,Hr. Lundin,Undirected,1
+Hr. Lundin,Paavo,Undirected,3
+Kaptejn Mohilev,Paavo,Undirected,2
+Frøken Ekstrøm,Paavo,Undirected,1
+Ekstrøm,Lauri,Undirected,1
+Larsson,Paavo,Undirected,3
+Gud,Larsson,Undirected,1
+Larsson,Lundin —,Undirected,1
+Hr. Lundin,Lundin —,Undirected,1
+Hr. Lundin,Kaptejn Mohilev,Undirected,1
+Gud,véd,Undirected,1
+Paavo,véd,Undirected,1
+Blomberg,Paavo,Undirected,1
+Alan,Aland,Undirected,2
+Alan,Korhoinen,Undirected,1
+Amalie Blomberg,Blomberg,Undirected,1
+Blomberg,Lundin,Undirected,2
+Blomberg,Paavo Korhoinen,Undirected,1
+Gud,Hr. Bergstrøm,Undirected,1
+Blomberg,Korhoinen,Undirected,1
+Aland,Korhoinen,Undirected,1
+Gud,Hr. Klingmejer,Undirected,1
+Hr. Klingmejer,Uleåborgs,Undirected,1
+Amalie,Prof. Blomberg,Undirected,1
+Adam,Malurt,Undirected,1
+Adam,Blomberg,Undirected,1
+Aland,Paavo,Undirected,1
+Jumala,Louhi,Undirected,1
+Herren,Jumala,Undirected,1
+Jesu,Vuolab,Undirected,2
+Korhoinen,Vuolab,Undirected,1
+Vaibi,anala,Undirected,2
+Alode,Vaibi,Undirected,1
+Lavrekas,Vaibi,Undirected,1
+Jesu,Vaibi,Undirected,3
+Hr. Lundin,Uleåborgs,Undirected,1
+Korhoinen,Pastor Ekstrøm,Undirected,1
+Alan,Ekstrøm,Undirected,1
+Ekstrøm,Hr. Stråhlenhjelm,Undirected,1
+Hr. Stråhlenhjelm,Isse,Undirected,1
+Hr. Stråhlenhjelm,Mefistofeles,Undirected,1
+Rosenhof,tom,Undirected,1
+Gud,Rosenhof,Undirected,3
+Jesu,Rosenhof,Undirected,2
+Aland,Gud,Undirected,1
+Alening,Gud,Undirected,1
+Hr. Lundin,Konstance,Undirected,1
+Blomberg,Frøken Ekstrøm,Undirected,1
+Graad,Larsson,Undirected,2
+Lundin,Paavo,Undirected,1
+Korhoinen,Lundin,Undirected,1
+Hr. Lundin,Korhoinen,Undirected,1
+Paavo,"Uleåborg imidlertid et højst uventet Besøg,",Undirected,1
+Lauri,Laurukainen,Undirected,1
+Hr. Bergstrøm,Prof. Blomberg,Undirected,1
+Paavo Korhoinen,Prof. Blomberg,Undirected,1
+Larsson,Paavo Korhoinen,Undirected,1
+Aline,Korhoinen,Undirected,1
+Aline,Rosenhof,Undirected,1
+Blomberg,Rosenhof,Undirected,1
+Lavrekas,raabtePaavo,Undirected,1
+Gud,X,Undirected,1
+Gud,stans,Undirected,1

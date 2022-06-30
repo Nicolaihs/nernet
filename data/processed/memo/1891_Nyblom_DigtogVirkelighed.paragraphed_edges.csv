@@ -1,0 +1,117 @@
+source,target,type,weight
+Carina,Quelle,Undirected,1
+Angelo,Angelo Franceschi,Undirected,1
+Angelo,L’unico,Undirected,2
+Este,Strozzis,Undirected,2
+Este,Florenz,Undirected,1
+Florenz,Vittoria,Undirected,2
+Florenz,Jomfru Marias,Undirected,1
+ratsch,ritsch,Undirected,1
+Pierre,Pierre Roubot,Undirected,2
+Maurice,Pierre,Undirected,1
+Kong Ludvig,Marie Antoinette,Undirected,1
+Pierre,haanlo,Undirected,1
+Maria,Zens,Undirected,1
+Giacomo,hnn,Undirected,1
+Niels,Væxt,Undirected,1
+Væxt,Walter,Undirected,1
+Niels,Walter,Undirected,14
+Kofardis,Walter,Undirected,1
+Lord,Walter,Undirected,1
+Axel,Straahat,Undirected,1
+Axel,Strømsborg,Undirected,1
+Lina,Strømsborg,Undirected,1
+Gud,Lina,Undirected,1
+Gud,Lovisas,Undirected,1
+Jette,Lovisas,Undirected,1
+Axel,Jette,Undirected,1
+Amalies,Axel,Undirected,1
+Carl Johans,Robaade,Undirected,1
+August,Terese,Undirected,1
+August,Frederik,Undirected,1
+Adolf,Terese,Undirected,1
+Adolf,August,Undirected,1
+Anina,Karl,Undirected,1
+Karl,iland,Undirected,1
+Anina,iland,Undirected,1
+Apolio,Diana,Undirected,1
+Eo,Madonna,Undirected,1
+Bersaglieren,Madonna,Undirected,1
+Einge,Gud,Undirected,1
+Eo,Hnn,Undirected,1
+Bersaglieren,Satan,Undirected,1
+Gud,Kristus,Undirected,1
+Gunnar,Mauritz,Undirected,1
+Mauritz,Per,Undirected,1
+Karin,Ole,Undirected,1
+Agnes,Henning,Undirected,1
+Farmor,Henning,Undirected,4
+Agnes,Farmor,Undirected,3
+Farmor,Karin,Undirected,5
+Henning,Karin,Undirected,4
+Gud,Henning,Undirected,1
+Henning,Louise,Undirected,1
+Farmor,Luthers,Undirected,1
+Luthers,Løvgren,Undirected,1
+Louise,Toilette,Undirected,1
+Ellinor,Henning,Undirected,2
+Farmor,Louise,Undirected,2
+Agnes,Ellinor,Undirected,1
+Agnes,Moder,Undirected,1
+Fader,Moder,Undirected,2
+Alice,Louise,Undirected,1
+Espene,Farmor,Undirected,1
+Ellinor,Espene,Undirected,1
+Farmor,Sørsta,Undirected,1
+Viktor,lille Niels,Undirected,1
+Nils Viktor,hnn,Undirected,1
+Ellinor,Farmor,Undirected,2
+Agnes,Bu,Undirected,1
+Paul og,Virgines,Undirected,1
+Farmoder,Karin,Undirected,1
+Gud,Karin,Undirected,1
+Agnes,Karin,Undirected,1
+Giovanni,Signoraen,Undirected,1
+Antonio,Giovanni,Undirected,2
+Fortunata,Giovanni,Undirected,3
+Fortunata,Signoran,Undirected,1
+Signore,Signores,Undirected,1
+Signora,Signore,Undirected,1
+Giovanni,Signora,Undirected,1
+Cherubini,Schumann,Undirected,1
+Bach,Schumann,Undirected,1
+Andiam,Gud,Undirected,1
+Andiam,bella,Undirected,1
+Albert,Lord,Undirected,1
+Lisa,Lord,Undirected,1
+Bruna,Lisa,Undirected,1
+hedens,juhler,Undirected,1
+Dalarne,juhler,Undirected,1
+Læssøe,Rye,Undirected,1
+Maria Assunta,poveretta,Undirected,1
+Teresa,Teresa Girini,Undirected,1
+Maria,Teresa,Undirected,8
+Assunta,Maria,Undirected,1
+Gud,Signora,Undirected,1
+Madonna,Maria Assunta,Undirected,1
+Madonna,Teresa,Undirected,2
+Angelo,Oreste,Undirected,1
+Angelo,Gud,Undirected,1
+Gud,Madonna,Undirected,1
+Teresa,tvers,Undirected,1
+Teresa,ifjor,Undirected,1
+Maria,ifjor,Undirected,1
+Maria,Maria Assunta,Undirected,1
+Maria Assunta,Teresa,Undirected,2
+Teresa,Vesuv,Undirected,1
+Maria stella,ora,Undirected,1
+ora,ora pro nobis,Undirected,1
+Madonna,Maria,Undirected,1
+Eva,Gud,Undirected,4
+Gud,Teresa,Undirected,1
+Adam,Eva,Undirected,6
+Adam,Gud,Undirected,3
+Assunta,Signora,Undirected,1
+Byrons,Jean Jacques Rousseau,Undirected,1
+Byrons,Goethes,Undirected,1
+Le roi est mort,vive le roi,Undirected,1

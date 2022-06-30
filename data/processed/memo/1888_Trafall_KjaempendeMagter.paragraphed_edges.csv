@@ -1,0 +1,93 @@
+source,target,type,weight
+mørknes,sjou,Undirected,1
+Tomas Borge,sjou,Undirected,1
+Aas,Peter Aas,Undirected,2
+Borge,Peter Aas,Undirected,2
+Aas,Borge,Undirected,1
+B.,kyrasaa,Undirected,1
+B.,politici,Undirected,1
+R.,politici,Undirected,1
+R.,vermuth,Undirected,1
+K.,vermuth,Undirected,1
+K.,Løitnanter,Undirected,1
+Hans,hr. Borge,Undirected,1
+Eng-er,Hans,Undirected,1
+Aaja,frue,Undirected,1
+Angel,Borge,Undirected,3
+Borge,Enger,Undirected,1
+Enger,frøken Angel,Undirected,2
+Borge,De høivise,Undirected,1
+De høivise,kriticis,Undirected,1
+Borge,Francine,Undirected,28
+Francine,øines,Undirected,1
+Borge,frøken Angel,Undirected,1
+Hamlet,Shakespeare,Undirected,1
+Saint-Beuve,Taine,Undirected,1
+Francine,haan,Undirected,1
+Francine,hr. Borge,Undirected,1
+Francine,Heine,Undirected,1
+Francine Angel,Tomas Borge,Undirected,1
+Borge,graad,Undirected,1
+Francine,Sina mi,Undirected,1
+Borge,ivei,Undirected,1
+J. P. Jacobsens,Nils Lyhne,Undirected,1
+Marie Grubbe,Nils Lyhne,Undirected,2
+Jacobsens,Marie Grubbe,Undirected,1
+Enger,Raskolnikow,Undirected,1
+Enger,Gud,Undirected,1
+Borge,gamlefruen,Undirected,1
+Raskolnikow,gamlefruen,Undirected,1
+Borge,Tomas,Undirected,11
+Francine,Tomas,Undirected,26
+Francine,hans høire,Undirected,1
+Tomas,hans høire,Undirected,1
+Francine,Francine Angel,Undirected,2
+Francine Angel,Tomas,Undirected,1
+Tomas,solrinding,Undirected,1
+Tomas,selsomme,Undirected,1
+Francine,kasus,Undirected,1
+Enger,Francine,Undirected,4
+Enger,pekunia,Undirected,1
+Francine,otti,Undirected,2
+Francine,gammelfruen,Undirected,1
+Brink,Tomas,Undirected,2
+Borge,Brink,Undirected,1
+Tomas,frøken Francine,Undirected,1
+Francine,etasjær,Undirected,1
+Tomas,sogar,Undirected,1
+Tomas,sjampanjens,Undirected,1
+Tomas,gamlingen,Undirected,1
+Francine,Tomas Borge,Undirected,2
+Gud,munion,Undirected,1
+Gud,Jomfru Maria,Undirected,1
+Francine,Kristus,Undirected,1
+Gud,Kristus,Undirected,3
+Dal røn,Francine,Undirected,1
+Gibbon,præfectus apostolicus,Undirected,1
+Martensens,præfectus apostolicus,Undirected,1
+Kristus,Martensens,Undirected,1
+Renan,Tomas,Undirected,1
+Francine,Renan,Undirected,1
+Kristus,Tomas,Undirected,2
+Tomas,sénere,Undirected,1
+graad,sénere,Undirected,1
+Francine,Jasaa,Undirected,1
+benedicta tu in mulieribus,gratia plena,Undirected,1
+benedicta tu in mulieribus,sancta Maria,Undirected,1
+Francine,Liun,Undirected,1
+Faust,Omnesscius,Undirected,1
+Lucifers,jætten,Undirected,1
+Omnesscius,jætten,Undirected,1
+Omnesscius Newton,Schopenhauer,Undirected,1
+Gabriel,Gud,Undirected,1
+Tomas,fogden,Undirected,1
+Francine,Melchior,Undirected,1
+Tomas,Tomas Borge,Undirected,1
+Gud,Tomas,Undirected,1
+Francine,Gud,Undirected,1
+Tomas,fremdéles,Undirected,1
+Borge,Jørgen,Undirected,4
+Jørgen,Tomas,Undirected,2
+Adjø,adjø,Undirected,1
+Tomas,adjø,Undirected,1
+Flan,Kristus,Undirected,2

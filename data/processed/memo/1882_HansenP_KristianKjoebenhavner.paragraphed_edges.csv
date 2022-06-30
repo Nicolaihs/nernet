@@ -1,0 +1,215 @@
+source,target,type,weight
+Daniel,Guds,Undirected,1
+Daniel,Madam Knub,Undirected,1
+Carl den Femtes,Tombaksuhre,Undirected,1
+Mester Knubs,Uhres,Undirected,1
+Knub,Madam Mannsmann,Undirected,2
+Eva,Kains,Undirected,1
+Kains,Knub,Undirected,1
+Ibenholts,Madam Mannsmann,Undirected,1
+Knub,Mester Knubs,Undirected,1
+Knub,Madammens,Undirected,1
+Madam Mannsmann,Mester Knubs,Undirected,1
+Kristian,b,Undirected,1
+Bastian,Kristian,Undirected,2
+Kristian,Robinson,Undirected,1
+Kong Valdemar,Kristian,Undirected,1
+Carl,Kong Valdemar,Undirected,1
+Carl,Dands,Undirected,1
+Dands,Soer,Undirected,1
+Kristian,Soer,Undirected,1
+Grandonkel Grams,Kristian Knubs,Undirected,1
+Grandonkel Gram,Grandonkel Grams,Undirected,1
+Grandonkel Gram,Kristian,Undirected,3
+Kristian,Severin,Undirected,2
+Kristian,Peter,Undirected,1
+Peter,Peternes,Undirected,1
+Kristian,Peternes,Undirected,1
+Kristian,Peter-Kristian,Undirected,1
+Peter-Kristian,nings,Undirected,1
+Grandonkels,Kristian,Undirected,2
+Cromwell,Mozart,Undirected,1
+Carl den Førstes,Cromwell,Undirected,1
+Carl den Førstes,Dante,Undirected,1
+Delhi,Kristian,Undirected,1
+Delhi,Sesam,Undirected,1
+Holbergs,Kristian Knub,Undirected,1
+Holbergs,Kristian,Undirected,1
+Fader,lille Kristian,Undirected,1
+Fader,Kristian,Undirected,1
+Kristian,Urian,Undirected,1
+Florfina,Kristian Hr. Helium,Undirected,1
+Florfina,Heliums,Undirected,1
+Helium,Kristian,Undirected,9
+Kristian,Thomas Taagerup,Undirected,2
+Kristian,Thomas,Undirected,23
+Taagerup,lille Thomas,Undirected,1
+Kristian Knub,Thomas,Undirected,1
+Gud,Thomas,Undirected,1
+Kristian,Thomas’,Undirected,2
+Thomas’,sinkeo o	,Undirected,1
+Kristian,sinkeo o	,Undirected,1
+Kristian,Myndling,Undirected,2
+Kristian den,Thomas med,Undirected,1
+Kristian,Kristian den,Undirected,1
+Kristian,Kristian Knub,Undirected,2
+Hyssing,Thomas,Undirected,2
+Hyssing,Kristian,Undirected,14
+Thomas,Thomas’,Undirected,1
+Helium,Thomas —,Undirected,1
+Hyssing,Sandmark,Undirected,10
+Lyriks,Sandmark,Undirected,1
+Hyssing,Kristian Knub,Undirected,1
+Ingeborg,Kristian,Undirected,29
+Hyssing,Ingeborg,Undirected,4
+Kristian,Sandmark,Undirected,7
+Kristian,gratiens,Undirected,1
+Hyssing,Psyche,Undirected,1
+Ingeborg,Sandmark,Undirected,3
+F'olkets,Sandmark,Undirected,1
+Knub,Kristian,Undirected,2
+Hyssing,Knub,Undirected,2
+Linealens,Mester Knubs,Undirected,1
+Grandonkel Gram,Mester Knub,Undirected,1
+Kristian,lille Lise,Undirected,1
+Byron,Kristian,Undirected,1
+Byron,Hr. Sandmarks,Undirected,1
+Kristian den,Rosenkrantz,Undirected,1
+Frøken Sandmark,Kristian,Undirected,2
+Frøken Sandmark,Ingeborg,Undirected,1
+Frøken Bugges,Kristian,Undirected,1
+Frøken Bugges,Frøken Sandmark,Undirected,1
+Frøken Bugge,Kristian —,Undirected,1
+Madame,Susse,Undirected,1
+Susse,Suzanne,Undirected,1
+Kristian,Susse,Undirected,1
+Kristian,Storm,Undirected,3
+Kristian,Mikkelsdag,Undirected,1
+Mikkelsdag,Storm,Undirected,1
+Kristian Heliums,Kristian Knub,Undirected,1
+Kristian,Pulcinel,Undirected,2
+Kristian,Mester Knub,Undirected,1
+Helium,Hyssing,Undirected,1
+Daniel Knub,Kristian,Undirected,1
+Hyssing,Kristian strax,Undirected,1
+Helium,Kristian strax,Undirected,1
+Helium,Mester Knub,Undirected,2
+Jakob,Kristian,Undirected,3
+Hyssing,Mester Knub,Undirected,1
+Moers,Pallas1,Undirected,1
+Kaspersen,Kristian,Undirected,1
+Kristian,Nellerup,Undirected,38
+Nellerup,Peter,Undirected,2
+Doses,Nellerup,Undirected,1
+Doses,Kristian,Undirected,1
+Nellerup,Niels Ebbesen,Undirected,1
+Jonas,Nellerup,Undirected,1
+Johan Ludvig,Kristian,Undirected,1
+Kjøter,Nellerup,Undirected,1
+Frederik den,Nikolaj Taarn,Undirected,1
+Bugge,Kristian,Undirected,9
+Madam Knub,Pias,Undirected,1
+Madam Knub,Mester Knub,Undirected,1
+Knub,Mester,Undirected,1
+Mester Knub,migengang,Undirected,1
+Leonardo da Vinci,Mester Knub,Undirected,1
+Kristian,Leonardo da Vinci,Undirected,1
+Kristian,Kristus,Undirected,1
+Helium,Leonardo da Vinci,Undirected,1
+Knub,Madam Knub,Undirected,1
+Kastorgarns,Kristian,Undirected,2
+Knub,Madam,Undirected,1
+Kristian,Madam,Undirected,1
+Hr. Kastrup,Kristian,Undirected,1
+Hr. Kastrup,Ingeborg Sandmark,Undirected,1
+Ingeborg Sandmark,Kristian havde,Undirected,1
+Frøken Bugge,Kristian havde,Undirected,1
+Frøken Bugge,Kristian,Undirected,1
+Frøken Bugge,Ingeborg,Undirected,1
+Bønhas,Ingeborg,Undirected,1
+Frøken Bulges,Ingeborg,Undirected,1
+Gud,Kastrup,Undirected,1
+J,Kristian,Undirected,2
+Kristian,Pergolaens,Undirected,1
+Cicerone,Kristian,Undirected,1
+Cicerone,Goethe,Undirected,1
+Goethe,Nellerup,Undirected,1
+Dichterling,Nellerup,Undirected,1
+Ingeborg,Nellerup,Undirected,1
+Jargons,Nellerup,Undirected,1
+Jargons,Kristian,Undirected,1
+Bresche,Kristian,Undirected,1
+Bresche,Ingeborg,Undirected,1
+Ingeborg,Sauvegarde,Undirected,1
+Haar,Ingeborg,Undirected,1
+Gud,Nellerup,Undirected,2
+Gud,Kristian,Undirected,2
+Grønkaal,Kristian,Undirected,2
+Kristian,Sands,Undirected,1
+Knub,Storm,Undirected,1
+Romeo,Tristan,Undirected,1
+Kong Kristian den Fjerdes,Kristian,Undirected,1
+Lille Samson,carissimo,Undirected,1
+Lille Samson,vips,Undirected,1
+einerlei,vips,Undirected,1
+Kristian,Taagerup,Undirected,3
+Samson,Samsons,Undirected,1
+Kristian,Samson,Undirected,9
+Samson,Taagerup,Undirected,1
+Nellerup,Taagerup,Undirected,1
+Knub,Nellerup,Undirected,2
+Nellerup,lille Samson,Undirected,3
+Kristian,lille Samson,Undirected,9
+Kristian,Lille Samson,Undirected,4
+Dandy,Samson,Undirected,2
+Kristian,Kølles,Undirected,1
+Kølle,Sandmark,Undirected,2
+Kølle,lille Samson,Undirected,1
+Hr. Kølles,Kristian,Undirected,1
+Kristian,Ruelse,Undirected,2
+Kølle,Samson,Undirected,1
+Kristian,Kølle,Undirected,2
+Kristian,le style cest P homme,Undirected,1
+Buffon,Kristian,Undirected,1
+Buffon,Kølle,Undirected,1
+Kølle,Petersens,Undirected,1
+Hagens,Kristian,Undirected,2
+Kristian,Milling,Undirected,1
+Dam,Milling,Undirected,1
+Dam,Kølle,Undirected,1
+Kølle,Nellerup,Undirected,4
+Nellerup,Samson,Undirected,5
+Kristian,kettre d'absinthes,Undirected,1
+Bignon,kettre d'absinthes,Undirected,1
+lille Samson,tom,Undirected,1
+Gram,Samson,Undirected,2
+Grandonkel Gram,Thiers,Undirected,1
+Roes,Thiers,Undirected,1
+Kristian,Roes,Undirected,1
+Etatsraad Bugge,Kristian,Undirected,1
+Ingeborg,Kastrup,Undirected,2
+Bugge,Kastrup,Undirected,1
+Isaafald,J	,Undirected,1
+Etatsraad Bugge,Hyssing,Undirected,1
+Etatsraad Bugge,Ingeborg,Undirected,1
+Goethe,Kristian,Undirected,1
+Miska Hauser,Nellerup,Undirected,1
+Caspar Hauser,Miska Hauser,Undirected,1
+Bendsen,Miska,Undirected,1
+.Nellerup,Bendsen,Undirected,1
+Bendsen,Caspar Hauser,Undirected,1
+Caspar Hauser,Eschricht,Undirected,1
+Eschricht,Kølle,Undirected,1
+Bendsen,Nellerup,Undirected,1
+Caspar Hauser,Kølle,Undirected,1
+Eschricht,Nellerup,Undirected,1
+Gluck,Kølle,Undirected,1
+Nellerup,Staallaasen,Undirected,1
+Samson,juno,Undirected,1
+Lapsus,Samson,Undirected,1
+Lapsus,Thor,Undirected,1
+Jettevold,Thor,Undirected,1
+Lille Samson,Nellerup,Undirected,1
+Andrijew,Nellerup,Undirected,1
+Samson,Thomas,Undirected,1
+Kristian,Niels Ebbesen,Undirected,2

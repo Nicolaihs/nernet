@@ -1,0 +1,242 @@
+source,target,type,weight
+Jens Peter,Moerl,Undirected,1
+Pulter,lian,Undirected,1
+Madam Ingstrup,Olsen,Undirected,1
+Madam Ingstrup,Pulter,Undirected,1
+Jens Peter,Madam Ingstrup,Undirected,4
+Madam,Olsen,Undirected,1
+Olsen,Orene,Undirected,1
+Madam Ingstrup,Orene,Undirected,1
+Kristian,Peter,Undirected,1
+Jens Peter,Kristian,Undirected,1
+Jens Peter,Marie,Undirected,2
+Jens Peter,Pulter,Undirected,1
+Olsen,hvothan,Undirected,1
+Hammer,Jens Peter,Undirected,33
+Hammer,Mutter,Undirected,1
+Ane,Mutter,Undirected,1
+Ane,Jens Peter,Undirected,11
+Jens Peter,lian,Undirected,17
+liam,lian,Undirected,3
+Jens Peter,Principal,Undirected,1
+Jens Peter,lille Jens Peter,Undirected,1
+J,Peter,Undirected,1
+Hammer,lian,Undirected,6
+Ane,Hammer,Undirected,6
+Jens Peter,Toddy,Undirected,1
+Jens Peter,ærekjær,Undirected,1
+Hammer,ærekjær,Undirected,1
+Jens Peter,Piammer,Undirected,1
+Hammer,ban,Undirected,1
+Jens Peter,Otto Mørk,Undirected,11
+Bertel Søgaard,Jens Peter,Undirected,7
+Bertel Søgaard,Otto,Undirected,4
+Anton Bek,Jens Peter,Undirected,1
+Anton Bek,Bertel Søgaard,Undirected,1
+Bertel,marsch,Undirected,1
+Bek,marsch,Undirected,1
+Bertel,Otto,Undirected,4
+Anton,livor,Undirected,1
+Anton,Bertel,Undirected,5
+Bertel,Jens Peter,Undirected,48
+Anton,Otto,Undirected,5
+Anton,Jens Peter,Undirected,2
+Jens Peter,Otto,Undirected,16
+Bertel,d,Undirected,1
+Bremer,d,Undirected,1
+Anton,liar,Undirected,1
+ban,liam,Undirected,1
+Blok,Otto,Undirected,3
+Bertel,lian,Undirected,3
+Hammer,liam,Undirected,1
+Bertel,Marie,Undirected,3
+Bremer,Mukse,Undirected,1
+Hido,Jens Peter,Undirected,1
+Hido,lian,Undirected,1
+Ane,sorn,Undirected,1
+Ane,bavde,Undirected,1
+Jens Peter,bavde,Undirected,2
+Frøkim Trolle,Hr. Kirkebæk,Undirected,1
+Trolle,liun,Undirected,1
+Ane,liun,Undirected,2
+Ane,Frøken Trolle,Undirected,1
+Frøken Trolle,liun,Undirected,1
+Jens Peter,ban,Undirected,1
+Frøken Trolle,ban,Undirected,1
+Frøken Trolle,Hammer,Undirected,2
+Hammer,liendes,Undirected,2
+Do,lian,Undirected,1
+Kirkebæk,liun,Undirected,1
+Ane,rias,Undirected,1
+Birgitte,Madam Sandby,Undirected,1
+Hammer,Kirkebæk,Undirected,7
+Gud,Kirkebæk,Undirected,4
+Kirkebæk,sorn,Undirected,1
+Gud,Hammer,Undirected,1
+Hammer,liun,Undirected,1
+Ane,Jakobine,Undirected,4
+Ane,lierved,Undirected,2
+Jakobine,Jens Peter,Undirected,8
+Jens Peter,liun,Undirected,4
+Hammer,Jakobine,Undirected,3
+Jakobine,Silke,Undirected,1
+Hammer,Silke,Undirected,1
+Hammer,Lakrits,Undirected,1
+Jens Peter,liam,Undirected,1
+Jakobine,liam,Undirected,1
+Jakobine,lian,Undirected,2
+Graad,Jens Peter,Undirected,1
+Gud,Jens Peter,Undirected,1
+Jens Peter,Kirkebæk,Undirected,16
+Jens Peter Ingstrup,Kirkebæk,Undirected,1
+Jens Peter,Kirkebæksvarede,Undirected,1
+Hammer,livor,Undirected,1
+Jens Peter,livor,Undirected,1
+Jens Peter,Olsen,Undirected,1
+Jens Peter,ileres,Undirected,1
+Bertel Søgaard,ileres,Undirected,1
+Bertel Søgaard,lian,Undirected,1
+Bertel,Hammer,Undirected,2
+Bertel,Kirkebæk,Undirected,1
+Jens Peter Bøger,Kirkebæk,Undirected,1
+Jakobine,Jens Peter Bøger,Undirected,1
+Bertel grel,Jens Peter,Undirected,1
+Bertel,Bertel grel,Undirected,1
+Bertel,Rebus,Undirected,2
+Jens Peter,Madam Mortensen,Undirected,1
+Bertel,Madam Mortensen,Undirected,1
+Bertel,Otto Mørk,Undirected,3
+Bertel,livor,Undirected,1
+Aholinen,livor,Undirected,1
+Lene Holm,Thorups,Undirected,1
+Lene Holm,Thinka Smith,Undirected,2
+Jens Peter,Lene Holm,Undirected,1
+Anna Sandby,Thinka Smith,Undirected,1
+Anna Sandby,Kirkebæk,Undirected,3
+Kirkebæk,lian,Undirected,3
+lian,liun,Undirected,1
+Jens,Peter,Undirected,1
+Jens Peter,Thinka,Undirected,2
+Lene,Thinka,Undirected,5
+Lene,Shawler,Undirected,1
+Jens Peter,Thorups,Undirected,1
+Jens Peter,Lene,Undirected,2
+Jens Peter,hnn,Undirected,1
+hnn,liere,Undirected,1
+Anna Sandby,lian,Undirected,1
+Anna,Anna Sandby,Undirected,1
+Anna Sandby,Thorups,Undirected,1
+Bertel,Thinka,Undirected,2
+Anna,Jens Peter,Undirected,15
+Bertel,Lene,Undirected,2
+Anna,Otto,Undirected,13
+Anna,lian,Undirected,5
+Kirkebæk,Robinson,Undirected,1
+Robinson,halvni,Undirected,1
+Kirkebæk,do,Undirected,2
+Kirkebæk,liam,Undirected,2
+Kirkebæk,Mutter,Undirected,1
+Mutter,Poulsen,Undirected,1
+Anna,Kirkebæk,Undirected,6
+Anna,liun,Undirected,1
+Anna,Jens Peter Ingstrup,Undirected,1
+Ingstrup,Jens Peter Ingstrup,Undirected,2
+Hammer,Jens Peter Ingstrup,Undirected,1
+Otto Mørk,livor,Undirected,1
+Anna,Sandby,Undirected,6
+Hr. Ingstrup,Sandby,Undirected,1
+Tyfus,lian,Undirected,1
+Anna,Hr. Ingstrup,Undirected,4
+Hr. Ingstrup,Kirkebæk,Undirected,2
+Anna,Bertel Søgaard,Undirected,1
+Bertel Søgaard,Otto Mørk,Undirected,1
+Kirkebæk,Otto Mørk,Undirected,1
+Bertel,Bertel Søgaard,Undirected,2
+Jens Peter,Katrine,Undirected,3
+Hr. Ingstrup,Hr. Søgaard,Undirected,2
+Bertel,Katrine,Undirected,2
+Katrine,lian,Undirected,1
+Bertel,Wie,Undirected,1
+Deutschen,Wie,Undirected,1
+Hammer,Poulsen,Undirected,3
+Bek,Hammer,Undirected,4
+Hammer,Rosenløv,Undirected,2
+Hammer,Petrea,Undirected,3
+ban,liun,Undirected,1
+Hr. Ingstrup,liun,Undirected,1
+-Jens Peter,Bertel,Undirected,1
+Katrine,Petrea Rosenløv,Undirected,1
+Petrea Rosenløv,liun,Undirected,2
+Hammer,Petrea Rosenløv,Undirected,1
+Ingstrup,kjære,Undirected,1
+Ingstrup,lian,Undirected,1
+Bek,Eru Hammer,Undirected,1
+Otto,lian,Undirected,7
+Anna Sandby,Otto,Undirected,1
+Jens Peter,Sandby,Undirected,3
+Jens Beter,Otto,Undirected,1
+Frøken Rosenløv,Hammer,Undirected,4
+Anna,Frøken Rosenløv,Undirected,1
+Jens Peter,Petrea,Undirected,3
+Jens Peter,Tante,Undirected,1
+Hammer,bun,Undirected,1
+Frøken Trolle,Jens Peter,Undirected,1
+Frøken Posen-løvs,Frøken Trolle,Undirected,1
+Jdsigtshøj,Kirkebæk,Undirected,1
+Hammer,Lieutenanten,Undirected,1
+Frøken Rosenløv,Lieutenanten,Undirected,1
+Jens Peter lien,livor,Undirected,1
+Kirkebæk,livor,Undirected,1
+Anna,Otto Mørk,Undirected,1
+Frøken Rosenløv,Otto,Undirected,2
+Frøken Rosenløv,Jens Peter,Undirected,2
+Jens Peter,Skaal,Undirected,2
+Anna,Frøken Hammer,Undirected,2
+Don Juan,Hammer,Undirected,1
+Ingstrup,Petrea,Undirected,1
+J ens,Petrea,Undirected,1
+J ens,Peter,Undirected,1
+Jens Peter,kjære Ingstrup,Undirected,1
+kjære Ingstrup,lian,Undirected,1
+Fayade,Jens Peter,Undirected,1
+Fayade,Jens Peter Ingstrup,Undirected,1
+Anna,Petrea,Undirected,1
+Kirkebæk,Lavrbær,Undirected,1
+Mørk,Otto Mørk,Undirected,2
+Anna Sandby,Otto Mørk,Undirected,1
+Bek,liun,Undirected,1
+Jens Peter Ingstrup,Jens Peter«,Undirected,1
+Jens Peter,Jens Peter«,Undirected,1
+Jens Peter,Søren,Undirected,2
+Otto Mørk,lian,Undirected,2
+Bek,Jens Peter,Undirected,2
+Bek,Ingstrup,Undirected,1
+Jens Peter,livor lian,Undirected,1
+Bertel,Ingstrup,Undirected,2
+Bertel,Don Juan,Undirected,1
+Don Juan,lian,Undirected,1
+Jens Peter,Karlekammer,Undirected,1
+Hammer,Karlekammer,Undirected,1
+Bek,Mørk,Undirected,1
+Bertel,Mørk,Undirected,2
+Mørk,Søgaards,Undirected,1
+Ingstrup,Mørk,Undirected,1
+Ingstrup,Jens Peter,Undirected,1
+Jens Peter,Søgaards,Undirected,1
+Jens Peter,Mørk,Undirected,1
+Anna,Søgaard,Undirected,1
+Bertel Søgaard,Ingstrup,Undirected,1
+Karen,Søgaard,Undirected,1
+Jens Peter,hau,Undirected,1
+Jens Peter,Søgaard,Undirected,1
+Bertel,Søgaard,Undirected,1
+Jens Peter,Mutter,Undirected,1
+Otto,Otto Mørk,Undirected,1
+Ingstrup,Otto,Undirected,1
+Karl,Nalles,Undirected,1
+Karl,Natalie,Undirected,1
+Kirkebæk,Otto,Undirected,1
+Jens Peter,Jens Peter ikke,Undirected,1
+Bek,bavde,Undirected,1
+Anna,Mørk,Undirected,1
+Kirkebæk,Søgaard,Undirected,1

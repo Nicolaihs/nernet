@@ -1,0 +1,907 @@
+source,target,timestamp
+D,Frøken Hjelm,1
+Frøken Hjelm,Martha,1
+Mads,Marthe,2
+Ane,Mads,2
+Ane,Gud,2
+Ane,Martha,4
+Frøken Hjelm,Martha,7
+Frøken Hjelm,Martha,8
+Frøken Hjelm,Martha,14
+Ella Hjelm,Mads,17
+Ella,Frøken Hjelm,18
+Ella,Martha,18
+Martha,lille Ella,20
+Ella,Frøken Hjelm,22
+Ella,Martha,22
+Frøken Hjelm,Martha,22
+Martha,Procurator Kaufmann,23
+Gud,Procurator Kaufmann,24
+Gud,Martha,24
+Kaufmann,Martha,24
+Frøken Hjelm,Mads sfal,25
+Kaufmann,Mads,27
+Frøken Hjelm,Kaufmann,29
+Ester Maallidet,Frøken Hjelm,29
+Ester Maallidet,Martha,29
+Ella,Hanne,35
+Brunhilde,Hanne,35
+Kaufmann,ester,39
+Frøken Hjelm,Martha,40
+Martha,ester,41
+Frøken Hjelm,Martha,41
+Mads,Martha,42
+Ella,Martha,44
+Ella,Martha,45
+Kaufmann fil Thorshoi,Martha,49
+Ella,Martha,50
+HanneS,Moders,53
+Ella,Martha,55
+Ella,Kaufmann,59
+Kaufmann,ilive,59
+Hjelm,ilive,59
+Hjelm,Procurator Kaufmann,59
+Ella,MarthaS,60
+Hanne,Procurator Kaufmann,61
+Ella,Thorshøi,64
+Ella,Procurator Kaufmann,66
+Maren,Thorshøi,67
+Maren,Mette,67
+Mette,Trine,67
+Ella,Kaufmann,68
+Frederik den Sjette,Wiedewelt,69
+Ella,Kaufmann,70
+Ella,Kaufmann,70
+Kjære,Procurator Kaufmann,77
+Ella,Procurator Kaufmann,77
+Ella,Procurator Kaufmann,79
+Ella,Procurator Kaufmann,81
+Frøken Hjelm,Stills,82
+Ella,Procurator Kaufmann,83
+Ella,lille Ella,84
+Martha,Thorshøi,92
+Ella,Hanne,93
+Hanne,Martha,93
+Ella,Lehmann,95
+Ella,Hanne,100
+Martha,Thorshøi,101
+Hanne,Thorshøi,101
+Ella,Olga,103
+Frøken Grøn,Olgas Gouvernante,104
+Ella,Lehmann,105
+Frøken Grøn,Olga,112
+Hansen,lee,116
+Hansen,Olga,117
+Ella,Olga,119
+Ella,Gouvernantes,119
+Frøken Grøn,Gouvernantes,119
+Frøken Grøn,Thee,119
+Ella,Olga,123
+Ella,Olga,124
+Hanne,Olga,124
+Hanne,Thorshøi,124
+Olga,Thorshøi,124
+Graad,Olga,124
+Frøken Grøn,Gud,127
+Ella,Frøken Grøn,129
+Frøken Grøn,ester,129
+Olga,ester,129
+Ella,Olga,131
+Ella,kjære,131
+Hanne,kjære,131
+Hanne,Martha,131
+Ella,Lehmann,133
+Ella,Olga,134
+Ella,Frøken Grøn,134
+Chrisfen,Olga,135
+Chrisfen,Hansen,138
+Chrisfen,Hansen,139
+Ella,Hansen,139
+Lehmann,ilu,140
+Lehmann,Olga,140
+Ella,Olga,141
+Christen,Frøken Grøn,143
+Ella,Olga,147
+Ella,Tantalus,147
+Ella,Hanne,151
+Hanne,Thorshoi,152
+Froken Grøn,Thorshoi,153
+Froken Grøn,Olga,153
+Christen nær,Hansen,154
+Christen nær,Ella,154
+Ella,Olga,154
+Frøken Grøn,Olga,155
+Frøken Grøn,Olga,155
+Ella,Olga,156
+Ella,Olga,156
+Hanne,Olga,157
+Hansen,Lehmann,160
+Ella,Hansen,160
+Ella,Lehmann,161
+Ella,Lehmann,161
+Frøken Grøn,Olga,165
+Ella,Lehmann,168
+Olga,serer Lehmanns,170
+Ella,Olga,173
+Olga,ester,174
+Frøken Grøn,ester,174
+Ella,Frøken Grøn,176
+Ella,Hanne,178
+Ella,Hansen,180
+Frøken Grøn,Saabyes,181
+Lehmann,Saabyes,181
+Ella,Olga,182
+Ella,Olga,182
+Hanne,Olga,182
+Ella,Spiis,185
+Spiis,spiis,185
+Ella,spiis,185
+Ella,Frøken Grøn,189
+Frøken Grøn,Olga,189
+Ella,Olga,189
+Ella,Lehmann,190
+Ella,Olga,192
+Frøken Bjerg,Olga,192
+Frøken Bjerg,Olga,192
+Ella,Olga,192
+Ella,Olga,192
+Ella,Olga,195
+Ella,Lehmann,197
+Ella,Frøken Grøn,199
+Frøken Grøn,Olga,199
+Ella,Tants,202
+Hanne,Tants,202
+Hanne,Martha,202
+Martha,ester,202
+Kaufmann,ester,202
+Frøken Grøn,Olga,203
+Ella,Frøken Grøn,203
+Hanne,Olga,205
+Ella,Lehmann,206
+Gud,Olga,207
+Frøken Grøn,Gud,209
+Frøken Grøn,Olga,209
+Lehmann,Olga,209
+Ella,Frøken Grøn,210
+Ella,Olga,212
+Frøken Grøn,ester,216
+Frøken Grøn,Olga,216
+Frøken Grøn,Frøken Kaalund,219
+Hanne,Thorshøi,221
+Hanne,Thorshøi,221
+Olga,Thorshøi,222
+Ella,Olga,223
+Ella,Hanne,223
+Ella,Hanne,224
+Ella,Olga,226
+Capitain Oldenburg,Tanta,231
+Saabyes,lus,232
+Annette,Saabyes,232
+Annette,Capitain Oldenburg,232
+Capitain Oldenburg,Oberstens,232
+Frøken Grøn,Oberstens,232
+Frøken Grøn,as,237
+Capitain Oldenburg,seil,238
+Frøken Hildebrand,seil,238
+Frøken Hellesen,Warnung,239
+Saabyes,Warnung,240
+Capitain Winding,Warnung,244
+Major Bjerg,Mandsfeld,245
+Major Bjerg,lille Maries,245
+Maren,Marie,246
+Maren,Marie,246
+Doctoren,Maren,247
+Mandsfeld,lee,249
+Doctor Mandsfelds,ester,251
+Hjelm,fil Thorshoi,253
+Hjelm,Thorshøi,253
+Froken,Thorshøi,253
+Froken,Hanne,253
+Hanne,Hanne Hjelm,253
+Hanne,Lehmann,254
+Hjelm,Thorshøi,256
+Olga,sor,257
+Ella,sor,257
+Hjelm,Thorshoi,260
+Hjelm,Thorshoi,260
+Hjelm,Thorshøi,260
+Capitain Stroier,Thorshoi,261
+Ella,Martha,262
+Ella,Martha,262
+Martha,Thorshøi,262
+Martha,Thorshøi,262
+Ella,Martha,262
+Ella,Olga,263
+Ella,Martha,264
+Ella,Martha,265
+Ella,Frøken Grøn,265
+Frøken Grøn,Martha,266
+Frøken Grøn,Olga,266
+Martha,Olga,266
+Ella,Martha,266
+Ella,kjærtegne,266
+Ella,MarthaS,267
+Martha,MarthaS,267
+Ella,Olga,268
+Ella,Frøken Hjelm,268
+Frøken Hjelm,Hanne,268
+Martha,Thorshøi,270
+Lehmann,Martha,270
+Ella,Martha,272
+Ella,Martha,272
+Hanne,Thorshøi,273
+Ella,Martha,274
+Frøken Grøn,Martha,274
+Frøken Grøn,Olga,274
+Lehmann,Olga,274
+Lehmann,Martha,274
+Ella,Martha,274
+Ella,Mads,277
+Froken Hjelms,Mads,277
+Hanne,Kirkegaard,279
+Martha,Olga,284
+Jomfru Pingel,Martha,284
+Jomfru Pingel,Olga,284
+Olga,ester,284
+Frøken Hjelm,Martha,285
+Martha,Thorshøi,285
+Frøken Hjelm,Martha,286
+Ella,Frøken Hjelm,287
+Ella,Frøken Grøn,288
+Ella,Frøken Grøn,288
+Ella,Pingel,288
+Ella,Pingel,288
+Ella,Frøken Hjelm,288
+Ella,Frøken Hjelm,288
+Frue,Hjelm,289
+Ella,Frue,290
+Ella,Martha,290
+Froken Grøn,Martha,291
+Jomfru Pingel,Martha,291
+Procurator Kaufmann,Thorshøi,292
+Frøken Grøn,Olga,295
+Frøken Grøn,Jomfru Pingel,295
+Ella,Olga,300
+Ella,ester,301
+Ella,Olga,304
+Martha,Olga,304
+Ella,Martha,304
+Froken,Pingel,305
+Froken,Olga,305
+Ella,Olga,307
+Ella,Froken Grøn,308
+Ella,Froken,310
+Frøken Grøn,Olga,311
+Ella,Martha,312
+Frøken GrønS,Martha,312
+Frøken GrønS,Mas,312
+Martha,Pingel,313
+Ella,Martha,313
+Ella,lille Ella,313
+Frøken Hjelm,Thee,314
+Frøken Hjelm,Olga,314
+Dei,Martha,315
+Ella,Martha,315
+Gud,ban,316
+Martha,Thorshøi,318
+Martha,Thorshøi,319
+Lehmann,Martha,320
+Ella,Martha,322
+Ella,Kaufmann,323
+Ella,Froken Grøv,324
+Ella,Martha,324
+Ella,Lehmann,325
+Saaby,ester,329
+Enesfe,Olga,330
+Olga,Perle,330
+Olga,Perle,330
+Olga,Perle,330
+Frøken Hildebrand,Perle,330
+Frøken Hildebrand,Olga,330
+Olga,Perle,330
+Annette,Marie Hansen,331
+Frøken Grøn,Thorshøi,333
+Borg,Harbo,334
+Harbo,lille Marie Hansen,334
+Ella,Frøken Grøn,337
+Ella,Olga,338
+Olga,Saaby,338
+Saaby,slakkels,338
+Olga,slakkels,338
+Ella,as,341
+Ella,as,341
+Ella,Frøken Hildebrand,341
+Ella,Frøken Hildebrand,343
+Bei,Frøken Grøn,347
+Paul,Peer,348
+Frøken Grøn,Perle,359
+Olga,Perle,359
+Ella,Kaufmann,361
+Ella,ThorShoi,361
+Procurator Kaufmann,ThorShoi,361
+Lehmann,Procurator Kaufmann,361
+Hanne,Procurator Kaufmann,363
+Brunhilda,Hanne,363
+Brunhilda,Hanne,363
+Ella,Lehmann,369
+Ella,Procurator Kaufmann,371
+Ella,Frøken Grøn,372
+Ella,Frøken Grøn,372
+Ella,Olga,375
+Ella,Olga,375
+Procurator Kaufmann,hans,376
+Kaufmann,Olga,378
+Ella,Stella,379
+Ella,Kaufmann,381
+Kaufmann,Olga,381
+Ella,Olga,382
+Ella,Olga,389
+Palle,Palle sfal,391
+Ella,Olga,393
+Kaufmann,Olga,393
+Kaufmann,Olga,393
+Lehmann,Olga,393
+Kaufmann,Lehmann,393
+Ella,Kaufmann,393
+Ella,Palle,394
+Ella,Palle,394
+Ester,Thorshøi,397
+Hanne,Thorshøi,397
+Ella,Hanne,397
+Ella,Hanne,400
+Ella,Olga,400
+Ella,Olga,400
+Ella,Marie-Lyst,400
+Jomfru Pingel,Marie-Lyst,400
+Frøken Grøn,Mandsfeld,402
+Frøken Lind,Mandsfeld,402
+Kaufmann,Olga,406
+Ella,Olga,408
+Ella,Olga,412
+Olga,Thorshøi,412
+Procurator Kaufmann,Thorshøi,412
+Nei,Procurator Kaufmann,412
+Kaufmann,Nei,412
+Ella,Kaufmann,412
+Ella,Olga,416
+Ella,Olga,417
+Olga,flog,421
+Ella,Kaufmann,422
+Ella,Olga,424
+Ella,Olga,427
+Ella,Procuraforen,427
+Olga,Procuraforen,427
+Ella,Olga,432
+Olga,Procurator Kaufmann,432
+Marie-Lyst,Procurator Kaufmann,432
+Ella,Olga,433
+Ella,Olga,437
+Olga,elffe,437
+Ella,Procurator Kaufmann,438
+Marie-Lhst,Olga,439
+Olga,Thorshøi,439
+Ella,Olga,447
+Ella,Martha,448
+Ella,Martha,449
+Martha,Thorshøi,449
+Ella,Martha,450
+Lehmann,Martha,450
+Hanne,Martha,452
+Hanne,Olga,452
+Ella,Martha,454
+Capitain Oldenburg,Martha,454
+Ella,Lehmann,457
+Lehmann,Olga,457
+Ella,Olga,457
+Ella,Frøken Grøn,458
+Brunhilde,Frøken Grøn,458
+Brunhilde,Mads,458
+Hilde,Mads,458
+Ella,ak,460
+Capitain Oldenburg,Frøken Grøn,464
+Ella,Olga,465
+Ella,lee,466
+MadS,Olga,468
+Ella,Thorshøi,470
+Ella,Mads,473
+,Mads,473
+Brunhilde,Mads,475
+Ella,Mads,476
+Brunhilde,Ella,476
+Karl,eg,478
+Ella,tom,480
+Ella,Mads,481
+Ella,Mads,481
+Ella,Olga,482
+Ella,Mads,483
+Ella,Peter,483
+Mads,Peter,484
+Brunhilde,Mads,484
+Ella,Peter,485
+Ella,Steen,485
+Ella,Froken Grøn,489
+Brunhilde,Froken Grøn,489
+Ella,Olga,490
+Ella,Olga,490
+Ella,Olga,490
+MadS,Peter,491
+Ella,Frøken Grøn,492
+Ella,Mads,492
+Brunhilde,Mads,492
+Capitain Oldenburg,Mads,493
+Ella,Thorshoi,496
+Brunhilde,Ella,499
+Ella,Martha,501
+Ella,Martha,501
+Martha,hnn,502
+Frøken Grøn,Hammer,504
+Capitain Oldenburg,Thorshøi,505
+Capitain Oldenburg,Saaby,505
+Olga,Saaby,505
+Olga,Thorshøi,505
+Lehmann,Thorshøi,505
+Lehmann,Olga,505
+Frøken Grøn,Olga,506
+Frøken Grøn,Thorshoi,506
+Kaufmann,Martha,508
+Martha,Procurator Kaufmann,509
+Ella,Lehmann,513
+Ella,Lehmann,514
+Lehmann,as,514
+Crisen,as,514
+Crisen,Hammer,514
+Lehmann,ester,515
+Ella,Perle,518
+Ella,Perle,518
+Ella,Lehmann,518
+Lehmann,Thorshøi,518
+Perle,Thorshøi,518
+Ella,Lehmann,521
+Lehmann,fit,522
+Ella,fit,522
+Ella,skjøndt Hansen,522
+Capitain Oldenburg,Frøken Grøn,523
+Capitain Oldenburg,Frøken Grøn,523
+Capitain Oldenburg,Ella,524
+Ella,Major Copi,524
+,Major Copi,524
+,Olga sløi,524
+Ella,Major Copi,525
+Olga,ester,526
+Olga,ber,526
+Ella,Olga,527
+Ella,fil,528
+fil,reisfe,528
+Hansen,reisfe,528
+Hansen,nefop,528
+Luur,ber,529
+Capitain Oldenburg,Hansen,532
+Capitain Oldenburg,Ella,532
+Ella,Olga,540
+Frøken Grøn,Hansen,541
+Ella,Olga,542
+Ella,Major Copi,543
+Ella,Lehmann,554
+Copi,Lehmann,555
+Frøken Olga,Olga,559
+Ieg,Major,560
+Frøken Grøn,Major,560
+Frøken Grøn,Ieg,560
+Frøken Grøn,Frøken Olga,561
+Frøken Grøn,Frøken Olga,561
+Ella,Lehmann,563
+Ella,Olga,563
+Ella,Olga,564
+Ella,Major Copi,564
+Frøken Grøn,Major Copi,564
+Frøken Grøn,Theepotte,567
+Major Copi,Olga,568
+Major,Olga,568
+Froken Grøn,Frøken Olga,569
+Froken Grøn,Olga,569
+Frøken Grøn,Olga,569
+Mille,SaabyeS,574
+B,D,575
+....,B,575
+Ella,Olga,579
+Lehmann,Olga,579
+Major Copi,Olga,580
+Copi,Ella,581
+Ella,Olga,581
+Ella,Olga,582
+De lee,Ella,582
+Frøken Grøn,Olga,583
+Froken Grøn,Olga,584
+Ella,Lehmann,585
+Olga,Platow,586
+Ella,Olga,586
+Ella,Olga,586
+Ella,Olga,586
+Ella,Olga,586
+Ella,Olga,586
+Olga,el,590
+Olga,Thorshøi,591
+Ella,Thorshøi,591
+Asten,Lehmann,592
+Lehmann,Olga,592
+Lehmann,Olga,594
+Saabye,sorstode,602
+Frøken Lehmann,Grev Plalow,607
+Greven,Olga,609
+Greven,Olga,614
+Ella,Olga,617
+Ella,Frøken Ella,618
+Dandsen,Olga,621
+Greven,kvor Ellas,624
+Dandsen,Greven,626
+Ella,Harboe,627
+Greven,Harboe,627
+Greven,Lehmann,629
+Ella,Grev Platow,633
+Frøken Lehmann,Grev Platow,633
+Ella,Greven,634
+Ella,Greven,634
+Ella,Neptun,634
+Neptun,Olga,634
+Ella,Greven,636
+Frøken Lehmann,Greven,639
+Ella Hjelm,Hjelm,642
+Ella,Olga,643
+Greven,paany,644
+Frøken Grøn,Olga,645
+Ella,Olga,646
+Dands,Olga,646
+Ella,Olga,647
+Ella,Martha,648
+Lehmann,Martha,649
+Lehmann,Martha,649
+Martha,Olga,650
+Ella,Grev Platon »,652
+Grev Platon »,SaabyeS,652
+Ella,Platow,653
+Olga,Platow,655
+Ella,Platow,655
+Ella,Procurator Kaufmann,656
+Ella,Olga,659
+Ella,Mads,659
+Olga,Peer,662
+Olga,Peer,664
+Frøken Grøn,Peer,664
+Ella,Olga,667
+Olga,esfe,669
+Ane,esfe,669
+Ane,Marie,669
+Ane,Marie,669
+Ella,Olga,671
+Froken Hjelm,Frøken Lehmann,673
+Froken Hjelm,Frøken Lehmann,673
+Ella,Greve,675
+Frøken Hjelm,Greve,675
+Froken Lehmann,Thorshøi,677
+Ella,Thorshøi,678
+Frøken Hjelm,Oldenburg,679
+Ella,Greven,680
+Capitainen,Greven,680
+Ella,Justitsraad Grum,681
+Capitain Oldenburg,Justitsraad Grum,681
+Capitain Oldenburg,Olga,681
+Ella,Olga,682
+Olga,Platow,683
+Ella,Saabye,685
+Froken Lehmann,Greven,688
+Capitain Oldenburg,Ella,692
+Ella,Olga,694
+Ella,Thee,694
+Ella,Platow,695
+Ella,Olga,695
+Ella,Olga,695
+Ella,Olga,696
+Ella,Frøken Ella,696
+Frøken Hjelm,Kjøns,698
+Ella,Olga,699
+Ella,Olga,700
+Martha,Olga,703
+Martha,Olga,704
+Olga,Platow,706
+Platow,Thee,706
+Frøken Grøn,Olga,707
+Frøken Grøn,Frøken Lehmann,708
+Frøken Lehmann,Olga,708
+Frøken Grøn,Olga,712
+Olga,Platow,716
+Greve,Olga,717
+Frøken Lehmann,Greven,718
+Greven,Olga,720
+Ella,Greven,720
+Frøken Hjelm,Greven,723
+Frøken Hjelm,Greven,725
+Olga,fig,729
+Greven,Olga,730
+Ella,Olga,730
+Ella,Olga,730
+Ella,Olga,731
+Ella,Moppe,731
+Olga,Perle,732
+Ella,Frøken Grøn,734
+Ella,Olga,735
+Ella,Moppen,735
+Frøken Grøn,Frøken Hildebrand,736
+Frøken Grøn,Major Copi,736
+Ella,Olga,737
+Frøken Grøn,Jacob,741
+Frøken Hildebrand,Jacob,743
+Frøken Hildebrand,Jacob,743
+Ella,Froken Hildebrand,754
+Ella,Mads,760
+Ella,Hanne,760
+Ella,Tante Hannes,762
+Ella,Platow,763
+Ella,Frøken Hjelm,763
+Ella,Frøken Hjelm,763
+Ella,Ieg,765
+Ella,Ieg,765
+Ella,Ieg,765
+Ella,Ieg,766
+Ieg,Thorshøi,766
+Ella,sagve,767
+Olga,sil,771
+Frøken Grøn,Frøken GrønS,776
+Ella,Lehmann,778
+Copi,Petronelle,782
+Petronelle,Sebastian,786
+Petronelle,Sidsfe,786
+Frøken Grøn,Petronelle Kopi,788
+Petronelle Copi,Petronelle Kopi,788
+Major Copi,Olga,791
+Olga,Pien,798
+Olga,Platon,799
+Frøken Hjelm,Jacob,801
+Ella,Hansen,809
+Gud,Hansen,814
+Ella,fil,815
+Ella,Frøken Grøn,817
+Ella,Frøken Grøn,817
+Ella,Frøken Grøn,818
+Aaget,Frøken Grøn,818
+Ella,Jacob,824
+Ella,Jacob,824
+Frøken Grøn,Hansen,828
+Ella,Frøken Grøn,831
+Ella,Frøken Grøn,832
+Ella,Thee,833
+Ella,Frøken Grøn,837
+Ella,Frøken Grøn,838
+Ella,Frøken Grøn,839
+Frøken Grøn,Jacob,843
+Ella,Lehmann,846
+Lehmann,Olga,846
+Ella,Lehmann,847
+Lehmann,Olga,848
+Olga,sfreg,849
+Huusholdersfen,Jacob,852
+Huusholdersfen,intelsleds,852
+Ella,slakkels,863
+Ella,Lehmann,869
+Lehmann,Olga,869
+Ella,Olga,869
+Ella,Platow,869
+Ella,Platow,869
+Ella,Olga,869
+Ella,Olga,869
+Ella,Lehmann,869
+Ella,Lehmann,869
+Ella,Froken,869
+Froken,Olga,869
+Ella,Olga,869
+Ella,Thorshoi,869
+Io,Thorshoi,869
+Io,Olga,869
+Hansen,Olga,872
+Ella,Hansen,872
+Lehmann,Olga,873
+Ella,Olga,873
+Jacob,Lehmann,874
+Ella,Lehmann,874
+Ella,Froken Grøn,874
+Hansen,Lehmann,875
+Ella,Hansen,875
+Ella,Gud,876
+Ella,Gud,876
+Frøken Grens,Gud,878
+Ella,Frøken Grøn,882
+Frøken Grøn,Hansen,883
+Ella,Frøken Grøn,883
+Lehmann,Olga,884
+Ella,Lehmann,884
+Ella,Lehmann,884
+Ester,Thorshøi,886
+Ella,Lehmann,889
+Ella,overladeEllas,892
+Brink,kelse,899
+Ella,Steen,900
+Ella Hjelm,Wre,904
+Ella,Frøken Grøn,905
+Olga,Thorshøi,906
+Ella,Thorshøi,906
+Ella,Olga,906
+Grev Platow,Olga,906
+Grev Platow,Olga,906
+Ella,Olga,906
+Ella,Lehmann,907
+Frederik,Gud,908
+Ella,Froken,912
+Froken,Gud,912
+Ella,Gud,920
+Bidstrup,Gud,920
+Doctor Bruun,Elise,924
+Elise,Ella,925
+Doctoren,Froken,926
+Pingel,ai,931
+Kaufmann,ester,933
+Jomfru Pingel,ester,933
+Ella,Kaufmann,940
+Doctoren,Ella,941
+Martha,øg,942
+Martha,øg,942
+Gud,Martha,944
+A,Mads,949
+A,B,949
+B,Mads,949
+Mads,huns,952
+Mads,Rose,953
+Maren,Peer,956
+Mads,Rose,959
+Mads,Rose,962
+Ole,Rose,962
+Dorthe,Jacob,963
+Jacob,Rose,963
+Dorthe,Rose,964
+Dorthe,Ole,965
+Ole,Rose,965
+Peer,Rose,965
+Jacob,Peer,965
+Jacob,Ole,965
+Ole,Peer,965
+Peer,Rose,965
+Jacob,Rose,965
+Gud,Jacob,966
+Pingel,Rose,967
+Pingel,Silke,967
+Jomfru Pingel,Silke,967
+Jacob,Jomfru Pingel,967
+Mads,Silke,968
+Mads,Rose,968
+Jacob,Rose,968
+Dorthe,Rose,969
+Pingel,Rose,969
+Jacob,Rose,970
+Jacob,Rose,970
+Mads,Silke,974
+Rose,Silke,976
+Jacob,Rose,977
+Silke,^zucvo,978
+Jacob,Jomfru Pingel,980
+Pingel,Silke,983
+Frøken Grøn,Jacob,984
+Frøken Grøn,Pingel,986
+Jacob,Silke,989
+Rose,hnn,990
+Jomfru Pingel,Martha,996
+Martha,Ole,996
+Jomfru Pingel,Ole,999
+Jomfru Pingel,Ole,999
+Maren,Silke,1000
+Mads,Maren,1001
+Jomfru Pingel,Mads,1003
+Martha,Silke,1005
+Jomfru Pingel,Silke,1005
+Jomfru Pingel,Procurator Kaufmann,1005
+Ella,Procurator Kaufmann,1005
+Ella,Frøken Hjelm,1005
+Frøken Hildebrand,Martha,1007
+Martha,Procurator Kaufmann,1007
+Brunhilde,Martha,1010
+Brunhilde,Lehmann,1010
+Frøken Grøn,Lehmann,1010
+Ella,Frøken Grøn,1010
+Ella,Procurator Kaufmann,1010
+Gud,Procurator Kaufmann,1010
+Ella,Gud,1010
+Ella,Procurator Kaufmann,1010
+Frøken Hjelm,Hansen,1012
+Hansen,Lehmann,1012
+Lehmann,slakkels,1012
+ester ai,slakkels,1012
+Arsenik,ester ai,1012
+Arsenik,Gud,1012
+Lehmann,Olga,1015
+Frøken Grøn,Frøken Hildebrand,1018
+Frøken Grøn,Frøken Hjelm,1021
+Frøken Grøn,Thorshoi,1021
+Brink,Thorshoi,1021
+Brink,Frøken Hjelm,1021
+Frøken Hjelm,Siraf,1021
+Siraf,aniog Frøken Hjelm,1021
+aniog Frøken Hjelm,ril,1021
+Hain,Platow,1024
+Ella,Hanne,1026
+Ella,Hanne,1026
+Ella,Hanne,1026
+Martha,mai,1027
+Ella,Martha,1027
+Ella,Hanne,1027
+Ella,Hanne,1027
+Gud,Tys,1028
+Lehmann,Olga,1035
+Kafmann,Martha,1036
+Ella,Kafmann,1036
+Olga,Platow,1038
+Augustsolens,Ella,1039
+Ella,Platow,1039
+Ella,Frederik,1040
+Frederik,Gimle,1040
+Ella,Platow,1042
+Ella,Platow,1042
+Frederik Øe,Lien Øe,1043
+Ella,Øe,1044
+Ella,ire,1048
+Ella,ire,1048
+Ella,rofasfe,1048
+Ella,rofasfe,1048
+Frederik,Martha,1055
+Frederik,Martha,1055
+Frederik,Thorshøi,1055
+Alf,Ella,1059
+Lehmann,Martha,1061
+Ella,Martha,1061
+Ella,Olga,1068
+Ella,Gud,1071
+Ella,Gud,1074
+Olga,Rose,1077
+Pingel,Rose,1077
+Pingel,Rose,1077
+Martha,Rose,1078
+Martha,Olga,1079
+Ella,Gud,1080
+Ella,Greven,1080
+Martha,Olga,1081
+Hanne,Martha,1081
+Hanne,tom,1081
+Martha,tom,1081
+Frøken Lehmann,Martha,1081
+Lehmann,Olga,1083
+Ella,Lehmann,1083
+Ella,Olga,1083
+Ella,Olga,1083
+Ella,Olga,1084
+Ella,Olga,1086
+Ella,Martba,1086
+Ella,Sophaen,1088
+Platow,Procurator Kaufmann,1089
+Olga,Platow,1089
+Ella,Olga,1089
+Ella,Olga,1090
+Frøken Lehmann,Greven,1091
+Ella,Thdrshøi,1093
+Ella,Gud,1094
+Ella,Frederik,1096
+,Ella,1096
+,Ella,1096
+Ella,Gud,1096
+Frederik,Thorskoi,1097
+Ella,Martha,1100
+Ella,Martha,1100
+Ella,Olga,1103
+Gud,Thorshøi,1104
+Ella,Thorshøi,1104
+Ella,Olga,1104
+Martha,Olga,1104
+Ella,Martha,1106
+Ella,Thorshøi,1106
+Grev Platow,Ole,1108
+Gimle,Martha,1110
+Martha,Olga,1110
+Frederik,Olga,1113
+Martha,Procurator Kaufmann,1115
+Martha,Procurator Kaufmann,1115
+Martha,Olga,1115

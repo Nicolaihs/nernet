@@ -1,0 +1,31 @@
+source,target,type,weight
+Angostejn,Sækisåtru,Undirected,1
+Sækisåtru,Voduridas,Undirected,1
+Monjas,Thara —,Undirected,1
+Thara-Monja,k.,Undirected,1
+Thara-Monja,dolken,Undirected,1
+Monjas,Thara,Undirected,1
+Monjas,Thara—Monja,Undirected,1
+Hloristågirs unge,Thara-Monja,Undirected,1
+Monjas,Sækisåtru,Undirected,2
+Sækisåtru,TharaMonja,Undirected,1
+Sækisatru,Thara-Monja,Undirected,1
+Elaho,Otahotu,Undirected,2
+Otahotu,itu,Undirected,1
+Otahotu,Valotio,Undirected,1
+Elaho,Halojågu,Undirected,2
+Elaho,Loleli,Undirected,2
+Loleli,TharaMonja,Undirected,2
+Loleli,bævreaspens,Undirected,1
+Thara-Monja,bævreaspens,Undirected,1
+Halojågu,Loleli,Undirected,1
+Loleli,Thara-Monja,Undirected,2
+Flan,Loleli,Undirected,1
+Loleli,Valotio,Undirected,1
+Valotio,sejer,Undirected,1
+Valotio,iland,Undirected,1
+Thara-Monja,Voduridas,Undirected,2
+Monja,TharaMonja,Undirected,1
+Thara-Monja,TharaMonja,Undirected,1
+Lonuruni,Thara-Monja,Undirected,1
+Lonuruni,Voduridas,Undirected,1

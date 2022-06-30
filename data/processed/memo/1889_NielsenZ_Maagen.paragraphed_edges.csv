@@ -1,0 +1,153 @@
+source,target,type,weight
+Gud,Jesus Kristus,Undirected,1
+Gud,lille Lene,Undirected,1
+Hr. Tomsen,Karlsen,Undirected,1
+Gud,Hr. Tomsen,Undirected,2
+Gud,Mads Svendsens,Undirected,1
+Mads Svendsens,Mommesen,Undirected,1
+Gud,Mommesen,Undirected,1
+Gud,Sara,Undirected,1
+Abraham,Sara,Undirected,1
+Balthasar Christensen,Tscherning,Undirected,1
+Balthasar Christensen,Gud,Undirected,1
+Fenger,Kristi,Undirected,1
+Bastho1,Rasmus Sørensen,Undirected,1
+Gud,Rasmus Sørensen,Undirected,1
+Gud,Rudelbach,Undirected,2
+Gud,elsrand,Undirected,2
+Gud,Hieronymus Savonarola,Undirected,2
+Helene,Tomas,Undirected,36
+Aare,Tomas,Undirected,1
+Skraa,Tomas,Undirected,1
+Gud,Tomas,Undirected,1
+Møller Ravns,Tomas,Undirected,1
+Bøje,Madam Ravn,Undirected,1
+Sidse,Trine,Undirected,1
+Tomas Ravn,Tomas Ravns,Undirected,1
+Tomas,Tomas Ravn,Undirected,1
+Ravn,Tomas,Undirected,2
+A,Mølleren,Undirected,1
+A,Helene,Undirected,1
+Madam Ravn,Tomas,Undirected,1
+Skaal,Tomas,Undirected,1
+Boje,Fønss,Undirected,1
+Bøje,Søren Bøje,Undirected,1
+Emilie,Tomas,Undirected,1
+Bøje,Tomas,Undirected,12
+Grundtvig,Tscherning,Undirected,1
+Svigerfars,Tomas,Undirected,1
+Møller,Tomas,Undirected,4
+Gud,Helene,Undirected,9
+Asen,Møller,Undirected,1
+Møller Ravn,Tomas,Undirected,1
+Møller Ravn,Rasmus Ravn,Undirected,1
+Rasmus Ravn,Ravn,Undirected,1
+Albertis,Ravn,Undirected,1
+Jensen,Tomas,Undirected,4
+Aaberst Tscherning,Bøje,Undirected,1
+Helene,j,Undirected,1
+Gud,Helene Ravn,Undirected,1
+Frøken Ravn,Tomas,Undirected,1
+Bøje,Helene,Undirected,22
+Helene,aners,Undirected,1
+Julius Rudolf,Rudolf,Undirected,1
+Bøje,Rudolf,Undirected,11
+Akselstad,Heiberg,Undirected,1
+Lene,Tomas,Undirected,1
+Bøje,Tomas Ravn,Undirected,2
+Fatter,Helene,Undirected,1
+Bøje,Gram,Undirected,1
+Gram,Margrete,Undirected,1
+Sinais,Tomas,Undirected,1
+Møller,Ravn,Undirected,1
+Møller,Tscherning,Undirected,1
+Em,Tomas,Undirected,2
+Tomas,s,Undirected,3
+Hans Peter Hansen,rie,Undirected,1
+Hansen,Karoline,Undirected,1
+Graad,Tomas,Undirected,1
+Graad,Jensen,Undirected,1
+Blaalys,Tomas,Undirected,2
+Hans,Loke,Undirected,1
+Loke,Sigyn,Undirected,1
+Madam Loke,Sigyn,Undirected,1
+Frue,Gud,Undirected,1
+Gud,Tarsus,Undirected,1
+Goethe,Hans,Undirected,1
+Eckermann,Goethe,Undirected,1
+Helene,Rudolf,Undirected,11
+Hans,Rudolf,Undirected,2
+Lessing,Rudolf,Undirected,1
+Poul Heyse,Victor Hugo,Undirected,1
+Gud,Poul Heyse,Undirected,1
+Jesus,Voltaire,Undirected,1
+Rudolf,Tomas,Undirected,2
+Horats,Rudolf,Undirected,1
+Helene,Madam Hansen,Undirected,2
+Herkules,Rudolf,Undirected,1
+Dronning Omfala,Herkules,Undirected,1
+Helene,Kristensen,Undirected,2
+Kristensen,Rudolf,Undirected,1
+Bøje,Kristensen,Undirected,4
+Brøns,Viktoria,Undirected,1
+Frøken Strange,Ranch,Undirected,1
+Glar,Rudolf,Undirected,1
+Goldschmidt,Gud,Undirected,1
+Bøje,Harven,Undirected,2
+Brøns,Helene,Undirected,1
+Helene,lille Svend,Undirected,1
+Rudolf,flechten,Undirected,1
+Barfod,Rudolf,Undirected,1
+Hansen,Mdm.,Undirected,1
+Helene,P'rue,Undirected,1
+Helene,Siloams,Undirected,1
+Sofies,Tomsen,Undirected,1
+Helene,"Lille,",Undirected,1
+"Lille,",lille kære Helene,Undirected,1
+Kong Salomon,Tomas,Undirected,1
+Karoline,Tomas,Undirected,2
+Tomas,em,Undirected,2
+Gud,Tomsen,Undirected,1
+Gud,Salomons,Undirected,1
+Madam Hansen,Tomas,Undirected,3
+Bøje,Madam Hansen,Undirected,1
+Darwin,Stuart Miil,Undirected,1
+Roger Bacon,Stuart Miil,Undirected,1
+Ramus,Roger Bacon,Undirected,1
+Giordano Bruno,Ramus,Undirected,1
+Svend,lille Karen,Undirected,1
+Rudelbach,Tomas,Undirected,1
+Rudelbach,Søsters,Undirected,1
+Julius Rudolf,phil,Undirected,1
+Hans Bøje,Julius Rudolf,Undirected,1
+Per Gynt,Rudolf,Undirected,1
+Hartvig,Helene,Undirected,1
+Frederits,Syss,Undirected,1
+Bøje,Madam,Undirected,1
+Helene,Tomsen,Undirected,1
+Thomas,Tomas,Undirected,1
+Thomas,s,Undirected,1
+Bøje,s,Undirected,1
+Gud,Sofie,Undirected,1
+Bøje,Tomsen,Undirected,1
+Karlen,Møller Ravn,Undirected,1
+Tomas,stundum,Undirected,1
+Tomas,Tomsen,Undirected,2
+Angestens,gutte,Undirected,1
+Bøje,lille Helene,Undirected,1
+Tomas,lille Helene,Undirected,1
+Hans,Tomas,Undirected,1
+Monrad,Rudolf,Undirected,1
+Homer,St. Florian,Undirected,1
+Rudolf,lille Frue,Undirected,1
+Eines,lille Frue,Undirected,1
+Bøje,Loke,Undirected,1
+Gud,Hansen,Undirected,1
+Flen,Helene,Undirected,1
+Flen,Gud,Undirected,1
+Gud,Rudolf,Undirected,1
+Helene,Møller,Undirected,1
+Rasmus,Tomas,Undirected,1
+Marie,Tomas,Undirected,1
+Per,Rudolf,Undirected,1
+Per,Povl,Undirected,1

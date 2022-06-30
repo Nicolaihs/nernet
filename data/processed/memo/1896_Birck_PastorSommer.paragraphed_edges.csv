@@ -1,0 +1,185 @@
+source,target,type,weight
+Hedegaard,Pastor Sommer,Undirected,1
+Sessel,Terkel,Undirected,20
+Sommer,Terkel,Undirected,2
+Axel Barnekow,Pastor Sommer,Undirected,1
+Axel Barnekow,Fanny,Undirected,1
+Fanny,Sommer,Undirected,11
+Barnekow,Sommer,Undirected,3
+Pastor Sommer,Terkel,Undirected,1
+Jørgen Husmands,Pastor Sommer,Undirected,1
+Fanny,tor,Undirected,1
+Gerda,tor,Undirected,1
+Fanny,Gerda,Undirected,40
+Gerda,Sofie Skomagers,Undirected,1
+Andrea,Fanny,Undirected,2
+Andrea,Jørgen,Undirected,2
+Fanny,Ingvar,Undirected,8
+Gerda,Ingvar,Undirected,1
+Barnekow,Flun,Undirected,1
+Axel,Gud,Undirected,1
+Fanny,Frile,Undirected,11
+Barnekow,Frile,Undirected,1
+Barnekow,Fanny,Undirected,17
+Ada,Barnekow,Undirected,5
+Axel,Fanny,Undirected,1
+Ada,Fanny,Undirected,16
+Axel,Pastor Sommer,Undirected,1
+Ada,skoggerlo,Undirected,1
+Ada,Gerda,Undirected,1
+Axel,Gerda,Undirected,1
+Axel,Barnekow,Undirected,1
+Ada,Axel Barnekow,Undirected,1
+Erik Skomagers,Pastor Sommer,Undirected,1
+Erik Skomagers,Sofie,Undirected,1
+Erik,Greven,Undirected,2
+Erik,Sofie,Undirected,3
+Jærrik,Sofie,Undirected,1
+Jærrik,Jøsses,Undirected,1
+Jøsses,Sofie,Undirected,1
+Sofie,Sommer,Undirected,4
+Gud,Sofie,Undirected,3
+Jørgen Husmand,Sofie,Undirected,1
+Erik,Jørgen Husmand,Undirected,1
+Erik,Jørgen,Undirected,1
+Gerda,Jørgen,Undirected,1
+Gerda,Pastor Sommer,Undirected,9
+Erik,Gud,Undirected,1
+Gerda,Hedegaarden,Undirected,2
+Hedegaarden,Sofie,Undirected,2
+Gerda,Sofie,Undirected,23
+Gerda,Sommer,Undirected,7
+Greven,Sofie,Undirected,1
+Greven,hier,Undirected,1
+Sommer,lille Gerda,Undirected,1
+Gud,rite sodan,Undirected,1
+Erik,Hr. Barnekow,Undirected,1
+Barnekow,Pastor Sommer,Undirected,3
+Barnekow,Gerda,Undirected,9
+Gerda,Sessel,Undirected,4
+Gerda,Hedegaard,Undirected,1
+Gerda,Gud,Undirected,2
+Fanny,Gud,Undirected,8
+Fanny,Sofie,Undirected,25
+Gerda,Terkel,Undirected,3
+Fanny,Pastor Sommer,Undirected,3
+Andrea,Ingvar,Undirected,3
+Barnekow,Ingvar,Undirected,1
+Bojet,Gerda,Undirected,1
+Fanny,Terkel,Undirected,4
+Lucifer,Pastor Sommer,Undirected,1
+Fanny,Lucifer,Undirected,1
+Gerda,Graad,Undirected,1
+Barnekow,Frederik den Syvendes,Undirected,1
+Barnekow,Gud,Undirected,3
+Ada,Frile,Undirected,1
+Markussen,Sommer,Undirected,1
+Mama,Sessel,Undirected,2
+Mama,Sofie,Undirected,1
+Sessel,Sofie,Undirected,2
+Gerda,Lian,Undirected,1
+Fanny,Hedegaarden,Undirected,3
+Amanda,Sommer,Undirected,1
+Hr. Callesen,Hr. Mumme,Undirected,1
+Hr. Mumme,Sommer,Undirected,1
+Hr. Callesen,Sommer,Undirected,2
+Amanda,Sessel,Undirected,6
+Gerda,Per a Bøyen,Undirected,1
+Ingvar,Per a Bøyen,Undirected,1
+Fanny,Fignens,Undirected,1
+Fignens,Gerda,Undirected,1
+Anders Røgter,Fanny,Undirected,1
+Ingvar Dagesen,Pastor Sommer,Undirected,1
+Georg,Peter den Stores,Undirected,1
+Gud,Pastor Bech,Undirected,1
+Grundtvig,Pastor Bech,Undirected,1
+Grundtvig,Sommer,Undirected,1
+Hedegaard,Sommer,Undirected,2
+Hf. Callesen,mel,Undirected,1
+Hr. Callesen,haanlo,Undirected,1
+Fanny,Jenny,Undirected,2
+Jenny,Mummes,Undirected,1
+Mummes,Sommer,Undirected,1
+Engel,Sommer,Undirected,1
+Fru Sommer,Sommer,Undirected,1
+Engel,Fru Sommer,Undirected,1
+Engel,Højmark,Undirected,1
+Engel,vos,Undirected,1
+Højmark,vos,Undirected,1
+Christiane,Højmark,Undirected,1
+Christiane,vos,Undirected,1
+Engel,Gud,Undirected,1
+Jenny,Sommer,Undirected,1
+Gud,Jenny,Undirected,1
+Frile,Gerda,Undirected,1
+Barnekow,Sommei,Undirected,1
+Gerda,Sommei,Undirected,1
+Fanny,Sessel,Undirected,6
+Amanda,Sergent Dagesen,Undirected,1
+Erik Skomager,Terkel,Undirected,1
+Jærrik,Terkel,Undirected,2
+Ingvar Dauwsen,Terkel,Undirected,1
+Kanskesens,Terkel,Undirected,1
+Ingvar,Terkel,Undirected,1
+Fanny,ikkeham,Undirected,1
+Ingvar,Sommer,Undirected,1
+Erik,Sessel,Undirected,1
+Amanda,Fanny,Undirected,1
+Amanda,Terkel,Undirected,2
+Erik,Erik Skomager,Undirected,1
+Peren,Zakarias,Undirected,1
+Gud,Ingvar Dagesen,Undirected,1
+Killerups,Madam Killerup,Undirected,1
+Killerup,Killerups,Undirected,1
+Killerup,Madam Killerup,Undirected,1
+Amanda,Erik Skomager,Undirected,1
+Amanda,Jerrik,Undirected,1
+Jerrik,Sessel,Undirected,1
+Fanny,Sofie Skomagers,Undirected,1
+Amanda —,Fanny,Undirected,1
+Amanda —,Madam Killerup,Undirected,1
+Frøken Markussen,Madam Killerup,Undirected,1
+Frøken Markussen,Ingvar,Undirected,1
+Ingvar,Sessel,Undirected,1
+Gud,Pastor Sommer,Undirected,1
+Madam Killerup,Pastor Sommer,Undirected,1
+Fanny,Valdemine,Undirected,1
+Fanny,Killerup,Undirected,1
+Gerda,Killerup,Undirected,2
+Killerup,Valdemine,Undirected,8
+Per,Valdemine,Undirected,1
+Per,Pers Kuen,Undirected,1
+Killerup,Pers Kuen,Undirected,1
+Hedegaarden,Killerup,Undirected,1
+Hedegaarden,Sessel,Undirected,1
+Sessel,smaafnisté,Undirected,2
+Sessel,Valdemine,Undirected,4
+Amanda,Valdemine,Undirected,2
+Killerup,Sessel,Undirected,1
+Gud,Sessel,Undirected,2
+Valdemine,allehaande,Undirected,1
+Madam Killerup,Sessel,Undirected,1
+Madam Killerup,Valdemine,Undirected,1
+Killerup,Pastor Sommer,Undirected,2
+Gud,Killerup,Undirected,1
+Valdemine,ban,Undirected,1
+ban,immer,Undirected,1
+Aaen,Sofie,Undirected,1
+Ingvar Dagesen,Sofie,Undirected,1
+Gerda,Ingvar Dagesen,Undirected,1
+Frile,Pastor Sommer,Undirected,1
+Sessel,Sommer,Undirected,1
+Frile,Sessel,Undirected,4
+Hr. Dagesen,Sessel,Undirected,1
+Hejberg,Sessel,Undirected,1
+Ingvar Dagesen,Sessel,Undirected,1
+Adam,Eva,Undirected,2
+Eva,Fanny,Undirected,1
+Andrea,Pastor Sommer,Undirected,1
+Pastor Sommer,Sessel,Undirected,1
+Knejt,Terkel,Undirected,1
+Andrea,Gud,Undirected,1
+Erik Skomager,Gud,Undirected,1
+Erik,Fanny,Undirected,1
+Andrea,Erik,Undirected,1
+Fanny,Soffi,Undirected,1

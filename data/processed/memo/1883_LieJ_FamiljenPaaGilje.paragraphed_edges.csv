@@ -1,0 +1,243 @@
+source,target,type,weight
+Thea,Thinka,Undirected,1
+Inger-Johanna,Thea,Undirected,2
+Inger-Johanna,Thinka,Undirected,10
+Kaptejn Rønnow,Mein,Undirected,1
+Ivaares,Jørgen,Undirected,1
+Ivaares,Stor-Ola,Undirected,1
+Kaptejn Rønnow,Stor-Ola,Undirected,1
+Kaptejn Rønnow,Løjtnant Mein,Undirected,1
+Kaptejn Rønnow,Karl,Undirected,1
+Mein,Rønnow,Undirected,1
+Peter Jæger,Rønnow,Undirected,2
+Atschin,Peter Jæger,Undirected,2
+Kathinka,Thea,Undirected,2
+Jørgen Winnecken,von Zittow Jæger,Undirected,1
+Inger-Johanna,Peter,Undirected,1
+Inger,Kaptejn Rønnow,Undirected,1
+Gitta,Inger-Johanna,Undirected,2
+Fars,Inger-Johanna,Undirected,1
+Mamens,Per Vangensten,Undirected,1
+Jørgen,Marit,Undirected,1
+Jørgen,Torbjørg,Undirected,2
+Inger-Johanna,Tine,Undirected,1
+Inger-Johanna,Kaptejn Rønnow,Undirected,2
+Kaptejn Rønnow,Trumf,Undirected,1
+Marit,Stor-Ola,Undirected,2
+Duren,Stor-Ola,Undirected,1
+Duren,Jente,Undirected,1
+Arak,Jente,Undirected,1
+Inger-Johanna,Jørgen,Undirected,5
+Marit Kokke,Torbjørg,Undirected,1
+Inger Johanna,didind,Undirected,1
+Rønnow,didind,Undirected,1
+Thinka,gabe,Undirected,1
+IngerJohanna,Thinka,Undirected,2
+Jørgen,Ma,Undirected,4
+Inger-Johanna,Ma,Undirected,5
+Kalas,hans,Undirected,1
+Magen,paany,Undirected,1
+Ma,Thinka,Undirected,6
+Elvad,Thinka,Undirected,1
+Stor-Ola,Svarten,Undirected,3
+Ma,s,Undirected,2
+Alette,Inger-Johanna,Undirected,1
+Alette,Stor-Ola,Undirected,1
+Plystre,fløjte,Undirected,1
+Peltsen,Skjærf,Undirected,1
+Jørgen,Rist,Undirected,1
+Marit,Siri,Undirected,1
+Aslak,Vælta,Undirected,1
+Flek,Vælta,Undirected,1
+Flek,Thorsdags,Undirected,1
+Anders Husmand,Ma,Undirected,1
+Alette,Trindse,Undirected,1
+Rist,dm Guddatters,Undirected,1
+Jomfru Jørgensen,Mina,Undirected,1
+Tantes,Zittow,Undirected,1
+Zittow,v. Zittow,Undirected,2
+Jomfru Jørgensen,Tante,Undirected,1
+Ola,Svarten,Undirected,2
+Tante,Thinka,Undirected,1
+Jørgen,grant,Undirected,1
+Jørgen,Tante,Undirected,1
+Borken,Stor-Ola,Undirected,1
+Ola,Stor-Ola,Undirected,1
+Jørgen,Thea,Undirected,11
+Jørgen,Thinka,Undirected,3
+Brorkones,toret,Undirected,1
+Bausback,Stenberg,Undirected,1
+Jørgen,Mejn,Undirected,1
+Alette,Eleonore,Undirected,1
+Alette,Tante,Undirected,1
+Josias,Stakkars,Undirected,1
+Josias,Ma,Undirected,1
+Inger-Johanna,IngerJohanna,Undirected,1
+Inger-Johanna,Zittow,Undirected,1
+Gilje,Kaptein Rønnow,Undirected,1
+Grip,Kaptein Rønnow,Undirected,1
+Kaptein Rønnow,Kaptejn Rønnow,Undirected,1
+Karl,Siri,Undirected,1
+Gilje,Kaptejnens,Undirected,1
+Thea,Tronberg,Undirected,1
+Stor-Ola,Tronberg,Undirected,1
+Jomfrua,Stor-Ola,Undirected,1
+Jomfrua,Thea,Undirected,1
+Inger,Stor-Ola,Undirected,1
+Inger,Johanna,Undirected,1
+Johanna,Torbjørg,Undirected,1
+IngerJohanna,Torbjørg,Undirected,1
+IngerJohanna,Thea,Undirected,1
+Pasop,Thea,Undirected,1
+Pasop,Torbjørg,Undirected,1
+Johanna,Jørgen,Undirected,2
+Alette,Ma,Undirected,2
+Birger,Thinka,Undirected,1
+Birger,IngerJohanna,Undirected,1
+Baumanns,Horn,Undirected,1
+Baumanns,Giilckes,Undirected,1
+Jørgen,Stor-Ola,Undirected,4
+Bine,Inger-Johanna vederfares,Undirected,1
+Bine,Silje,Undirected,1
+Inger-Johanna,Petter,Undirected,1
+Flun,lange Buchholtz,Undirected,1
+Horn,Inger-Johanna,Undirected,1
+Fogdens,Inger-Johanna,Undirected,1
+Inger-Johanna,Madam,Undirected,1
+Madam,Selju,Undirected,1
+Far,Jæger,Undirected,2
+Thea,lykkets,Undirected,1
+Jørgen,StorOla,Undirected,2
+Thea,s,Undirected,1
+Inger-Johanna,s,Undirected,1
+Randes,gabe,Undirected,1
+Randes,gry,Undirected,1
+Aslak,Stor-Ola,Undirected,1
+Ola,Tore,Undirected,1
+Jørgen,Ola,Undirected,2
+Inger-Johanna,Ola,Undirected,1
+Grip,Jørgen,Undirected,2
+Inger-Johanna,bie,Undirected,1
+Frøkena,Inger-Johanna,Undirected,1
+Inger-Johanna,Lars Opidalen,Undirected,1
+Jomfrua,Lars,Undirected,1
+Jørgen,Tronberg,Undirected,1
+Juling,Jørgen,Undirected,1
+Juling,Tronberg,Undirected,1
+Frøken Inger-Johanna,Grip,Undirected,1
+Grip,Inger-Johanna,Undirected,2
+Abel,Grip,Undirected,1
+Abel,Heilo,Undirected,1
+Heilo,Hjeile,Undirected,1
+Kaftejn,Lars,Undirected,1
+Kjeltringstreg,Skarvestreg,Undirected,1
+Eken,Lars,Undirected,1
+Eke,Mathis,Undirected,1
+Ege,Eke,Undirected,1
+Agnmark,Ege,Undirected,1
+Inger-Johanna,Mathis,Undirected,1
+Rønnow,Tante,Undirected,2
+Gedeckes,Rønnow,Undirected,1
+Thinka,Torbjørg,Undirected,2
+Fogden,Marit,Undirected,1
+Faarekrop,Faareskrot,Undirected,1
+Faarekrop,Fur,Undirected,1
+Anne,Jørgen,Undirected,1
+Fogden,Stor-Ola,Undirected,1
+Duns,Fogden,Undirected,1
+Baldrian,Viggo,Undirected,2
+Baldrian,Baltazar,Undirected,1
+Baltazar,Viggo,Undirected,1
+Bine Scharfenberg,Jomfru Kathinka,Undirected,1
+Bine Scharfenberg,Emilie,Undirected,1
+Alette,Jørgen,Undirected,1
+Haug,Thinka,Undirected,1
+Flun,Inger-Johanna,Undirected,2
+Ronnøw,Thinka,Undirected,1
+Hellas,Latium,Undirected,1
+Alette,IngerJohanna,Undirected,1
+IngerJohanna,Kaptejn Rønnow,Undirected,1
+Bjerk,Silje,Undirected,1
+Rønnow,j Louvre,Undirected,1
+Eleonore,Inger-Johanna,Undirected,2
+Gitta,IngerJohanna,Undirected,1
+Emile,Rousseau,Undirected,1
+Emile,IngerJohanna,Undirected,1
+IngerJohanna,voila,Undirected,1
+Sebelow,lange Buchholtz,Undirected,1
+Dorff,lange Buchholtz,Undirected,1
+Inger —,Svarten,Undirected,1
+Futen,Randi,Undirected,1
+Karen,Ola,Undirected,1
+Gampen,Stor-Ola,Undirected,1
+Scharfenbergs,Thinka,Undirected,1
+Bine,Thinka,Undirected,1
+Andrea Fogedfrue,Bine,Undirected,1
+Andrea Fogedfrue,Thinka,Undirected,1
+Myse,plire,Undirected,1
+Andrea Scharfenberg,Thinka,Undirected,1
+Ma,Rist,Undirected,2
+Gilje,Taa,Undirected,1
+Scharfenberg,Sebelow,Undirected,1
+Fogden,Thinka,Undirected,1
+Fogden,Thea,Undirected,1
+Stor-Ola,Thea,Undirected,2
+Aslak,Torbjørg,Undirected,1
+Frua,Thinka,Undirected,1
+Frua,Høsch,Undirected,1
+Graatassen,Høsch,Undirected,1
+Tass,ifjor,Undirected,1
+Tass,Ulv,Undirected,1
+Ma,Ola,Undirected,1
+Gitta,Kjære,Undirected,1
+Inger-Johanna,Johanna,Undirected,1
+Aat,Andsel,Undirected,1
+Thea,Torbjørg,Undirected,1
+Raggesok,Thea,Undirected,1
+Marit,Raggesok,Undirected,1
+Magen,Thinka,Undirected,1
+Atlaskes,Brun,Undirected,1
+Atlaskes,Giilcke,Undirected,1
+Giilcke,Thinka,Undirected,3
+Giilcke,Kanava,Undirected,1
+Aas,Kathinka,Undirected,1
+Aas,Thinka,Undirected,1
+Aas,Inger-Johanna,Undirected,1
+Thinka,sorn,Undirected,1
+Diirings,Thinka,Undirected,1
+L?,dt,Undirected,1
+Inger-Johanna,dt,Undirected,1
+Flun,Tante Alettes,Undirected,1
+Jørgen,Tante Alettes,Undirected,1
+Grip,Johanna,Undirected,1
+Harcellads,Jørgen,Undirected,1
+Alette,Gitta,Undirected,1
+Inger-Johanna,Stor Ola,Undirected,1
+Inger-Johanna,Rønnow,Undirected,1
+A asb ryn,Brink,Undirected,1
+Rist,Thinka,Undirected,1
+Balle,Scharfenberg,Undirected,1
+Balle,humpe,Undirected,1
+Inger-Johanna,didop,Undirected,1
+Inger-Johanna,Rist,Undirected,1
+Thinka,didop,Undirected,1
+Inger-Johanna,Stakkars,Undirected,1
+Inger-Johanna,Snil,Undirected,1
+Gilje,Inger-Joh,Undirected,1
+Gripen,Rist,Undirected,1
+ein,zwei,Undirected,1
+drei Marsch,zwei,Undirected,1
+Simensen,drei Marsch,Undirected,1
+Rejerstad,Simensen,Undirected,1
+Giilcke,Rist,Undirected,1
+Grip,Thea,Undirected,1
+Frøken Giilckes,Thinka,Undirected,1
+Emilie Carlén,Thinka,Undirected,1
+Emilie Carlén,James,Undirected,1
+James,Walter Scott,Undirected,1
+Alexander Dumas,Walter Scott,Undirected,1
+Alexander Dumas,Sue,Undirected,1
+Gilje,bode,Undirected,1
+Alette,bode,Undirected,1
+Dronning Gyda,Kong Haraids,Undirected,1
+Rist,paaGilje,Undirected,1

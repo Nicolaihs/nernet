@@ -1,0 +1,212 @@
+source,target,type,weight
+Aage Pram,Pram,Undirected,2
+Aage Pram,graadig,Undirected,1
+Aage Pram,Hans —,Undirected,1
+Aage Pram,Hr. Aage,Undirected,1
+Hr. Aage,Pram,Undirected,1
+Gud,Tante Bine,Undirected,1
+Aage Pram,Eine,Undirected,3
+Eine,Glente,Undirected,1
+Aage Pram,Petersen-Dalum,Undirected,2
+Aage Pram,Harriets,Undirected,1
+Aage Pram,Mo’,Undirected,1
+Estrup,Mo’,Undirected,1
+Aage,Estrup,Undirected,1
+Aage,Pram,Undirected,3
+Aage Pram,Hr. Petersen-Dalum,Undirected,1
+Hr. Petersen,Husbond,Undirected,1
+Aage Pram,Flagstad,Undirected,1
+Ejgil Sørensen,Madam Flagstad,Undirected,1
+Aage Pram,Karen,Undirected,1
+Grundtvig,Sørensen,Undirected,1
+Aage,Grundtvig,Undirected,1
+Aage,Madam Flagstad,Undirected,3
+Ejgil,Gud,Undirected,1
+Justitsraad Linnemann,Sørensen,Undirected,1
+Ejgil Sørensen,Jens Petersen,Undirected,1
+Jens Petersen,saad,Undirected,1
+Emil,saad,Undirected,1
+Emil,Jens,Undirected,1
+Madam Flagstad,Papa,Undirected,1
+Ejgil Sørensen,Nielsens,Undirected,1
+Joseph,Magdalene,Undirected,1
+Joseph,Susanne,Undirected,1
+Eva,Susanne,Undirected,1
+Aage Pram,Eva,Undirected,1
+Aage Pram,Antonius,Undirected,1
+Antonius,s,Undirected,1
+Aage Pram,Ejgil,Undirected,1
+Aage Pram,Jjjfter,Undirected,1
+Caroline,Visnegren,Undirected,1
+Aage Pram,Gud,Undirected,2
+Aage Pram,Bons,Undirected,1
+Bons,Kalendas Graecas,Undirected,1
+Aage Pram,Kalendas Graecas,Undirected,1
+Aage Pram,phil. Hermansen,Undirected,1
+Aage Pram,Ejgil Sørensen,Undirected,5
+Georg Brandes,Henri quatre-Skse^,Undirected,1
+Ejgil,Magnus,Undirected,1
+Ejgil,Philipsen,Undirected,1
+Ejgil Sørensen,Hermansen,Undirected,1
+Assel,Ejgil Sørensen,Undirected,1
+Aage Pram,chir,Undirected,1
+Aksel Damm,chir,Undirected,1
+Hr. Damm,Hr. Magnus,Undirected,1
+Aage,Ejgil Sørensen,Undirected,2
+Frk. Gottlieb,Hr. Damm taaltes,Undirected,2
+Aage Pram,Hr. Damm,Undirected,1
+Ejgil Sørensen,Naanaanaa,Undirected,1
+Aage Pram,Damm,Undirected,2
+Damm,Frk. Gottlieb,Undirected,2
+Aage Pram,Frk. Gottlieb,Undirected,7
+Aage Pram,Hr. Hermansen,Undirected,1
+Aage Pram,Klatterup,Undirected,2
+Aage Pram,Philipsen,Undirected,1
+Haydn,Hr. Freilif D. Ovesen,Undirected,1
+Frk. Gottlieb,Hr. Ovesen,Undirected,1
+Andanten,Hr. Ovesen,Undirected,1
+Hr. Damm,jun. Frk. Hallgren,Undirected,1
+Aage Pram,d,Undirected,1
+Hrr,d,Undirected,1
+. Musici,Hrr,Undirected,1
+. Musici,Damm,Undirected,1
+Frk. Hallgren,Julie,Undirected,1
+Frk. Hallgren,Mo’,Undirected,1
+Gottlieb,Sørensen,Undirected,1
+Gottlieb,Harriet,Undirected,1
+Aage Pram,Harriet,Undirected,14
+Aage Pram,Madam Flagstad,Undirected,4
+Aage Pram,Bernina,Undirected,1
+Aage Pram,b,Undirected,1
+Petersen,Pram,Undirected,1
+Harriet,Kaaben,Undirected,1
+Aage Pram,Frøken Harriet,Undirected,7
+Aage,Frøken Harriet,Undirected,1
+Aage Pram,Bjerre,Undirected,8
+Bjerre,Julius,Undirected,1
+Aage Pram,Hr. Bjerres,Undirected,1
+Hr. Bjerres,Immanuel Petersen,Undirected,1
+Bjerre,Immanuel Petersen,Undirected,1
+Vilhelm Bjerre,smaalo,Undirected,1
+Iver,Vilhelm Bjerre,Undirected,1
+Aage Pram,Hr. Bjerre,Undirected,3
+Hr. Bjerre,Immanuel Petersen,Undirected,1
+Bjerre,Gottlieb,Undirected,1
+Gottlieb,Immanuel Petersen,Undirected,2
+Immanuel Petersen,Vilhelm Bjerre,Undirected,1
+Gud,Harriet,Undirected,3
+Aksel Damm,Frøken Gottlieb,Undirected,1
+Frøken Gottlieb,Frøken Harriet,Undirected,1
+Bine,Papa,Undirected,1
+. Bjerre,Hr. Damm,Undirected,1
+. Bjerre,Immanuel Petersen,Undirected,1
+Bjerre,Frøken Gottlieb,Undirected,4
+Aksel Damm,Vilhelm Bjerre,Undirected,1
+Aage Pram,Petersen,Undirected,3
+Heiberg,Hr. Viggers,Undirected,1
+Aage Pram,Hasselris,Undirected,6
+Hr. Viggers,Pram,Undirected,1
+Aage,Hr. Sørensen,Undirected,1
+Aage Pram,Hr. Sørensen,Undirected,1
+Aage Pram,Hr. Viggers,Undirected,1
+Aage Pram,Henri quatre-SV^,Undirected,1
+Hasselris,Levy,Undirected,1
+Ditlevsen,Petersen,Undirected,1
+Hr. Adams,Immanuel Petersen,Undirected,1
+Adams,Hr. Levy,Undirected,1
+Adams,Hr. Petersen,Undirected,1
+Hr. Petersen,Hr. Pram,Undirected,1
+Hr. Adams,Pram,Undirected,1
+Hasselris,Pram,Undirected,1
+Hasselris,Hr. Levy,Undirected,1
+Hr. Adams,Hr. Levy,Undirected,1
+Adams,Hasselris,Undirected,1
+Aage Pram,Adams,Undirected,1
+Aage Pram,Hr. Adams,Undirected,1
+Adams,Pram,Undirected,2
+Adams,Cajus Walther,Undirected,1
+Aage Pram,Cajus Walther,Undirected,1
+Jago,Othellos,Undirected,1
+Adams,Othellos,Undirected,1
+Hr. Adams,Hr. Walther,Undirected,1
+Hr. Adams,mørk,Undirected,1
+Hasselris,Hr. Sørensen,Undirected,1
+Ejgil Sørensen,Gud,Undirected,1
+.,Aage Pram,Undirected,1
+Bernina,Petersen,Undirected,1
+Bine,Frøken Harriet,Undirected,1
+Hr. Pram,Tante Eine,Undirected,1
+Absinth,Harriet,Undirected,1
+Klatterup,Philipsen,Undirected,1
+Hr. Philipsens,Philipsen,Undirected,1
+Aage,Harriet,Undirected,2
+Aage,Klatterup,Undirected,1
+Harriet,Tante,Undirected,1
+Harriet,Papa,Undirected,2
+Harriet,Hr. Pram,Undirected,1
+Harriet,Tante Eine,Undirected,1
+Ejgil Sørensen,Harriet,Undirected,2
+Harriet,Pram,Undirected,3
+Ejgil Sørensen,Klatterup,Undirected,1
+Aage,JVTadam Flagstad,Undirected,1
+Papa,Pram,Undirected,1
+Aage Pram,Mama,Undirected,1
+Harriet,Mama,Undirected,1
+Eine,Hr. Pram,Undirected,1
+Aage Pram,Hallgren,Undirected,1
+Bjerre,Frk. Gottlieb,Undirected,3
+Aage Pram,Bine,Undirected,1
+Bine,Petersen,Undirected,1
+Harriet,Ingeborg,Undirected,1
+Harriet,Prammemand,Undirected,1
+Aage Pram,Immanuel Petersen,Undirected,1
+Adams,Immanuel Petersen,Undirected,1
+H. C. Andersen,Hr. Klatterup,Undirected,1
+H. C. Andersen,Marstrand,Undirected,1
+Marstrand,Svane,Undirected,1
+Petersen,Vilhelm Bjerre,Undirected,1
+Maeterlinck,Willumsen,Undirected,1
+Edvard Munck,Maeterlinck,Undirected,1
+Aage Pram,Vilhelm Bjerre,Undirected,8
+Hennesy,Vilhelm Bjerre,Undirected,1
+Bjerre,Hennesy,Undirected,1
+Aage,Vilhelm Bjerre,Undirected,1
+Aage,Madam,Undirected,1
+Aage Pram,Frejlif Ovesen,Undirected,1
+Aage Pram,Levy,Undirected,1
+Levy,Viggers,Undirected,1
+Ejgil Sørensen,Hr. Ovesen,Undirected,2
+Aage Pram,Ovesen,Undirected,1
+Aage Pram,Ocarina,Undirected,1
+Aage Pram,Frøken Elvira,Undirected,2
+Bjørnsons,Elviras,Undirected,1
+Ovesen,Saagu,Undirected,1
+Aage Pram,Sørensen,Undirected,2
+Hr. Ovesen,Ovesen,Undirected,1
+Aage Pram,Elvira,Undirected,1
+Elvira,d’Hrr,Undirected,1
+Ejgil Sørensen,d’Hrr,Undirected,1
+Ejgil Sørensen,Frejlif Ovesen,Undirected,1
+Jakel,Schenstrøms,Undirected,1
+Bjerre,Vilhelm Bjerre,Undirected,2
+Finsen,Petersen,Undirected,1
+Harriet,Vilhelm Bjerre,Undirected,4
+Bjerre,Harriet,Undirected,3
+Jørgensen,Vilhelm Bjerre,Undirected,1
+Hr. Bjerre,Petersen,Undirected,2
+Pram,Vilhelm Bjerre,Undirected,1
+Bårenskjold,von der Flaben,Undirected,1
+Tramp,von der Flaben,Undirected,1
+Grev Maagenvinge,Hr. Bjerre,Undirected,1
+Frøken Gottlieb,Vilhelm Bjerre,Undirected,1
+Antonius,Bjerre,Undirected,1
+Hr. Pram,Pram,Undirected,1
+Harriet,Petersen,Undirected,1
+Aage Pram,Ingemann,Undirected,1
+Bjerre,Petersen,Undirected,1
+Hr. Bjerre,lille Harriet,Undirected,1
+Hr. Bjerre,lille Ingeborg,Undirected,1
+Frøken Harriet,Vilhelm Bjerre,Undirected,1
+Aage Pram,d’Hrr. Adams,Undirected,1
+Immanel Petersen,d’Hrr. Adams,Undirected,1
+Bjerre,Gud,Undirected,1

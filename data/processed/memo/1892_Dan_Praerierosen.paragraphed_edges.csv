@@ -1,0 +1,204 @@
+source,target,type,weight
+Shakespeare,Webster,Undirected,1
+Magda,Magdalene,Undirected,1
+Magdalene,hnn,Undirected,1
+Kristen Mortensenog,hnn,Undirected,1
+Kristen,Kristen Mortensenog,Undirected,1
+Karen,hnn,Undirected,10
+Karen,gyr,Undirected,1
+Byrn,Kristen,Undirected,1
+Karen,Kristen,Undirected,7
+Gud,hnn,Undirected,3
+Karen,Salomon,Undirected,1
+Johannes,Salomon,Undirected,1
+Karen varder,Kristen Mortensens,Undirected,1
+Lille Magda,Magdalene,Undirected,1
+Hnn,hnn,Undirected,18
+Magda,hnn,Undirected,17
+Karen,Kristen Mortensen,Undirected,2
+Kristen Mortensen,felv,Undirected,1
+Hans Jensen,Marie,Undirected,1
+Byrn,Marie,Undirected,1
+Byrn,nngc,Undirected,1
+Hans Jenseit,nngc,Undirected,1
+Hans Jensen,Hostrup,Undirected,1
+Gnds,Gud,Undirected,1
+Gnd,Gud,Undirected,1
+Gnd,Hans Jensen,Undirected,1
+Hannd,Hans Jensen,Undirected,1
+Hans Jensen,Karen,Undirected,3
+Karen,Magda,Undirected,9
+Hnn,Magda,Undirected,4
+Kristen,Wventyr,Undirected,1
+Karen,Wventyr,Undirected,1
+. Mortensen,Kristen,Undirected,1
+. Mortensen,Magda,Undirected,1
+Kristen,Magda,Undirected,2
+Kristen,Oret,Undirected,1
+Anna,Magda,Undirected,6
+Anna,Jutta,Undirected,1
+Hans Peder,Jutta,Undirected,1
+Gud,Hans Peder,Undirected,1
+Gud,Præsfen,Undirected,1
+Hnn,Præsfen,Undirected,1
+Drpm,hnn,Undirected,1
+Magda,gyr,Undirected,1
+Jesus,dein,Undirected,1
+Gud,Hnn,Undirected,2
+Anna,Hnn,Undirected,2
+Hannden,suld,Undirected,1
+Jyrgen,Magda,Undirected,1
+Magda,uiaa,Undirected,1
+Anua,dnikke,Undirected,1
+Magda,mydtes,Undirected,2
+Magda,sone,Undirected,1
+H u,hnn,Undirected,2
+Jyrgen,hnn,Undirected,2
+Aaudcns,hnn,Undirected,1
+pau,pna,Undirected,1
+Mette,dn,Undirected,1
+Anna Kristine,Mette,Undirected,1
+Anna Kristine,Per Larsens,Undirected,1
+Jørgens,Per Larsens,Undirected,1
+Dar,hnn,Undirected,1
+Holger,Thor,Undirected,1
+Dn,Jørgen,Undirected,1
+Jørgen,hans Wrende,Undirected,1
+Kristen vg,hans Wrende,Undirected,1
+Ojnc,fasf,Undirected,1
+Præriervscn,fasf,Undirected,1
+Jngcn,Præriervscn,Undirected,1
+Jngcn,Kristen Mvrtcnsen,Undirected,1
+Karen,Kristen Mvrtcnsen,Undirected,1
+Karen,Kristen brnmmcdc,Undirected,2
+Gud,Karen,Undirected,1
+Karen,Karl,Undirected,1
+Anna,Georgeat,Undirected,1
+Anna,Skynt Hans Jensen,Undirected,1
+Anna,hnn,Undirected,10
+Bprnenc,sandan,Undirected,1
+Jørgen,sandan,Undirected,1
+Anna,Jørgen,Undirected,2
+Anna,Hans Jensen,Undirected,5
+Hans Jensen,Jørgen,Undirected,3
+Jutta,Jørgen,Undirected,1
+Jutta,lille Hans Peder,Undirected,1
+hn,nf,Undirected,1
+NN,nf,Undirected,1
+NN,s,Undirected,1
+Anrcnc,Auna,Undirected,1
+Auna,Fvrnarct,Undirected,1
+Anna knnde,Fvrnarct,Undirected,1
+Anna knnde,jv,Undirected,1
+Anna,jv,Undirected,1
+Hans Jensen,Maaska,Undirected,1
+Anna,Maaska,Undirected,1
+Anna,hans Bjesken,Undirected,1
+hans Bjesken,hnn,Undirected,1
+hnn,rydc,Undirected,1
+hnn,sydc Anna,Undirected,2
+Anna,nanr,Undirected,1
+Anna,George,Undirected,9
+George,hnn,Undirected,1
+Anna,dn,Undirected,1
+Anna,Hans Peder,Undirected,1
+Anna,Dar,Undirected,1
+Dar,dar,Undirected,1
+jfræm,plud selig,Undirected,1
+Anna,blnssendc ryd,Undirected,1
+George,Hnstrn,Undirected,1
+Hans Jensen,hnn,Undirected,3
+Anna,tilAnnaiForbigaaende,Undirected,1
+George knnde,hnn,Undirected,1
+Jv,Nn,Undirected,1
+Nn,sornn,Undirected,1
+dn,sornn,Undirected,1
+George,Hans Peder,Undirected,2
+Anua,Hans Peder,Undirected,2
+George,magclys,Undirected,1
+Hans Peder,magclys,Undirected,1
+George kunde,Hans Jensen,Undirected,1
+George,hans Hn,Undirected,1
+haabct,hans Hn,Undirected,1
+George,haabct,Undirected,1
+-XAnnas,Magda,Undirected,1
+Karen dals,Magda,Undirected,1
+Karen dals,hnn,Undirected,1
+dals,hnn,Undirected,2
+Nn,gyre,Undirected,1
+HanS Jensen,gyre,Undirected,1
+George disputere,HanS Jensen,Undirected,1
+George,George disputere,Undirected,1
+George,Hans Jensen,Undirected,1
+George shntes,Hans Jensen,Undirected,1
+Anna,George shntes,Undirected,1
+George,hcndc,Undirected,1
+Maren Stine,hnn,Undirected,3
+Kristen Mortensen,hnn,Undirected,1
+Maren Stine,Olje,Undirected,1
+Hnn,Maren Stine,Undirected,2
+Gnd,hnn,Undirected,1
+Jesus,hnn,Undirected,1
+Karen,tor,Undirected,1
+Karen,Maren Stine,Undirected,4
+Jørgen,baadc Magda,Undirected,1
+Gud,Karcn,Undirected,1
+Gud,Magda,Undirected,2
+Magda,fræmdeles,Undirected,1
+Jørgen,fræmdeles,Undirected,1
+Magda,Maren Stine,Undirected,1
+Gud,Maren Stine,Undirected,1
+Karcn,Karen,Undirected,1
+Jørgen,hnn,Undirected,3
+DinModers,Wre,Undirected,1
+Tys,tys,Undirected,1
+Jørgen,Magda,Undirected,3
+Anna,lille Magda,Undirected,1
+Hnn,skjalv,Undirected,1
+hnn,skjalv,Undirected,1
+Fnglcne,hnn,Undirected,1
+Jyrgeu,Magda,Undirected,1
+Jyrgeu,hnn,Undirected,1
+Hnn,Longfellow,Undirected,1
+hnn,nn,Undirected,1
+Gud,nn,Undirected,1
+Kristen,skot,Undirected,1
+Hnstrn,Karen,Undirected,1
+Hnstrn,hnn,Undirected,1
+baadc,hnn,Undirected,1
+Karen,baadc,Undirected,1
+Hnn,Karen,Undirected,1
+Graad,Magda,Undirected,1
+Ajnc,Magda,Undirected,1
+Karen,T ermed,Undirected,1
+Hans Jensen,Synnen,Undirected,2
+Jørgen,Lcempe,Undirected,1
+Gud,Jørgen,Undirected,1
+George,Gud,Undirected,1
+Hnn,J,Undirected,1
+Gud,neskeS,Undirected,1
+Jørgen,Karen,Undirected,2
+Dar,Hans Jensen,Undirected,1
+Karen,Karlen,Undirected,1
+Hans Peder,Synnen,Undirected,1
+Dar,Magda,Undirected,1
+Dar,Hnn,Undirected,1
+Hnn,maattc,Undirected,1
+hnn,son,Undirected,1
+Anna,George vg,Undirected,1
+Hain,Hans Jensen,Undirected,1
+Hans Peder,Jørgen,Undirected,1
+Hagbard,Jørgen,Undirected,1
+Hagbard,Signe,Undirected,1
+Else,Signe,Undirected,1
+KarenS,hnn,Undirected,1
+Anna-den,Nn,Undirected,1
+Gud,sif,Undirected,1
+Aten,dn,Undirected,1
+Jesus,Jøgen,Undirected,1
+-iGeorge,Anna,Undirected,1
+George,fknlde,Undirected,1
+George,Jørgen,Undirected,1
+Bedstefa ,r Haus Jensen,Undirected,1
+George,r Haus Jensen,Undirected,1
+B,el,Undirected,1

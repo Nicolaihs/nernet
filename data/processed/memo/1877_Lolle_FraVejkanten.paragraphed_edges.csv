@@ -1,0 +1,192 @@
+source,target,type,weight
+Forchhammers,Lolle,Undirected,1
+Gud,Volles,Undirected,1
+Lolle,Palle,Undirected,1
+Jøvrig,Lolle,Undirected,2
+Lolle,dei,Undirected,1
+Lolle,Ludvig,Undirected,1
+Ludvig,Povl,Undirected,1
+Lolle,Povl,Undirected,15
+Lolle,lille Dres,Undirected,1
+lille Dres,s,Undirected,1
+Ludvig,Poul,Undirected,1
+Poul,bræms,Undirected,1
+Povl,dar,Undirected,1
+Adam,Eva,Undirected,1
+Eva,Lolle,Undirected,1
+Fatter,Polles,Undirected,1
+Fatter,Povl,Undirected,1
+Jokum,Lolle,Undirected,6
+Povl,Volle,Undirected,3
+Volle,eil,Undirected,1
+Hannibal,eil,Undirected,1
+Adam,Hannibal,Undirected,1
+Adam,Ane,Undirected,1
+Bjørn,Povl,Undirected,1
+Bjørn,Lolle,Undirected,1
+Dres,Jokum,Undirected,3
+Adam,Lolle,Undirected,2
+Lolle,gansfe,Undirected,2
+C. B.,Lolle,Undirected,2
+C.,Lolle,Undirected,2
+Gud,Lolle,Undirected,1
+Jokum,Kærby,Undirected,1
+Freja,Lolle,Undirected,1
+Jokum,oni,Undirected,1
+Lolle,fr.,Undirected,1
+Dws,Lolle,Undirected,1
+Dws,Jokum,Undirected,1
+Jokum,hnn,Undirected,1
+Henriette,hnn,Undirected,1
+Heras,Jokum,Undirected,2
+DreS,Jokum,Undirected,1
+Povl,Rud,Undirected,1
+Lolle,Rud,Undirected,1
+Mikkel,Povl,Undirected,2
+Jøten,Lolle,Undirected,1
+Jøten,Upsal,Undirected,2
+Upsal,soni,Undirected,1
+Gøten,soni,Undirected,1
+Gøten,Jøten,Undirected,1
+Møen,Upsal,Undirected,2
+Busfen,Vitmunds,Undirected,1
+Busfen,Eden,Undirected,1
+Eden,Volle,Undirected,1
+Volle,nik,Undirected,1
+Povl,nik,Undirected,1
+Lolle,Volle,Undirected,1
+Lolle,Moses,Undirected,1
+Dres,Lolle,Undirected,5
+Dres,Lokkes,Undirected,1
+Lokkes,Lolle,Undirected,1
+Lolle,onl,Undirected,1
+Mogens Gynge,onl,Undirected,1
+Lolle,Mogens Gynge,Undirected,1
+Lolle,Poul,Undirected,3
+Lolle,Pools,Undirected,1
+Pools,Povl,Undirected,4
+Dres,Povl,Undirected,6
+Chrisfen Madsen,Kirsten,Undirected,1
+Avgust,Kirsten,Undirected,1
+Dres,Pools,Undirected,1
+B.,Pools,Undirected,1
+A.,B.,Undirected,1
+A.,Peer,Undirected,1
+Jens Hansens Niels,Peer,Undirected,1
+Jens Hansens Niels,ifjor,Undirected,1
+Niels,ifjor,Undirected,1
+B.,Niels,Undirected,1
+B.,Ole,Undirected,1
+Gittes,Povl,Undirected,1
+Alexandriner,Gittes,Undirected,1
+Gitte,L.,Undirected,1
+Gitte,Povl,Undirected,1
+Gitte,Lolle,Undirected,1
+Povl,lér,Undirected,1
+Amanda,Rosalie,Undirected,1
+Amanda,Gusta,Undirected,2
+Amanda,Salle,Undirected,1
+Gusta,Salle,Undirected,2
+Amanda,Gud,Undirected,1
+Gud,Sofie Prosch,Undirected,1
+Mama,hsjy,Undirected,1
+Sofie,jy,Undirected,1
+Hymens,Jørgensens,Undirected,1
+Hymen,Hymens,Undirected,1
+Heine,slaa,Undirected,1
+Lolle,Polle,Undirected,1
+Lolle,radle,Undirected,1
+Volle,radle,Undirected,1
+Ovids,Romer,Undirected,1
+Povl,guslgue oll oss,Undirected,1
+Povl,felv,Undirected,1
+Pools,Volle,Undirected,1
+Jens Jensen,Jens Nielsen,Undirected,1
+Gud,Jens Jensen,Undirected,1
+Blichers,hon,Undirected,1
+Blicher,Ibs,Undirected,1
+Blicher,Povl,Undirected,1
+Lysgoer Bøy,Povl,Undirected,1
+Lysgaards,Lysgoer Bøy,Undirected,1
+Kræn Koustrup,kalle Baahstrup,Undirected,1
+Kræn Koustrup,Skwolmajster,Undirected,1
+Muhrmajster,Skwolmajster,Undirected,1
+Muhrmajster,wa,Undirected,1
+Diel,wa,Undirected,1
+Blicher,Kræn Koustrup,Undirected,1
+Blicher,Pools,Undirected,1
+Aages,Gundborg,Undirected,1
+Aages,Ebbes,Undirected,1
+Aage,Ebbes,Undirected,1
+Aage,Ebbe,Undirected,2
+Ebbe,Gundborg,Undirected,1
+Ebbe,Niels Vugge,Undirected,1
+Geerts,Niels Ebbesens,Undirected,1
+Geerts,Niels Vugge,Undirected,1
+Kong Valdemar,Niels Vugge,Undirected,1
+Jørgen Friis,c.,Undirected,1
+Pibehoved,Povl,Undirected,1
+Harald Blaatand,Svend Tveskæg,Undirected,1
+Harald,Harald Blaatand,Undirected,1
+Harald,Thyras,Undirected,1
+Svend,Thyras,Undirected,1
+Erik Menved,Knud den Store,Undirected,1
+Erik Menved,Kristoffer den 2den,Undirected,1
+Jldsvaade,Tilly,Undirected,1
+Tilly,Torstenson,Undirected,1
+Torstenson,Wrangel,Undirected,1
+Knud den Store,Kong Niels,Undirected,1
+Høyen,Sands,Undirected,1
+David,Moses,Undirected,1
+David,Marias,Undirected,1
+Elisabeths,Marias,Undirected,1
+Elisabeths,Maria,Undirected,1
+Christi,Maria,Undirected,1
+Christi,Christus,Undirected,1
+Christus,Johannes,Undirected,1
+Johannes,Marie,Undirected,1
+Marie,Nische,Undirected,1
+Kjeld,Nische,Undirected,1
+Kjeld,Paven,Undirected,1
+Jomfru Maria,Patriot Henrik Gerner,Undirected,1
+Christus,Jomfru Maria,Undirected,1
+Frederik den 4de,Jesu,Undirected,1
+David,Jesu,Undirected,2
+David,Jsai,Undirected,2
+Blicher,Nn,Undirected,1
+Povl,hank,Undirected,1
+Døttre,Povl,Undirected,1
+Dres,Jens Johan,Undirected,1
+Gud,Jens Johan,Undirected,1
+Dres,nied,Undirected,1
+Dres,Tasfens,Undirected,1
+Povl,Tasfens,Undirected,1
+Gud,j,Undirected,1
+Povl,j,Undirected,1
+L læ,Lolle,Undirected,1
+Nisch,Tschernajeff,Undirected,1
+Hr. B.,Tschernajeff,Undirected,1
+Gud,Hr. B.,Undirected,1
+Def,Lolle,Undirected,1
+Mo,rs,Undirected,1
+Bulbjerg,Lolle,Undirected,1
+Hain,Povl,Undirected,1
+Gud,Polle,Undirected,1
+Lolle Horde,Vincent,Undirected,1
+Lolle,Terzet,Undirected,1
+Ehren,Povl,Undirected,1
+Ehren,hank,Undirected,1
+Orlogs,hank,Undirected,1
+H,Orlogs,Undirected,1
+Lolle,Solvejgs,Undirected,1
+Per Gynt,Solvejgs,Undirected,1
+Lolle,ester,Undirected,1
+Aaen,Lolle,Undirected,1
+Aaen,LolleS,Undirected,1
+,LolleS,Undirected,1
+Msn,Polle,Undirected,1
+Aten,Dres,Undirected,1
+Comp,Lolle,Undirected,1
+Lolle,frisf,Undirected,1
+Lolle,paany,Undirected,1
+Povl,ifjor,Undirected,1

@@ -1,0 +1,44 @@
+source,target,type,weight
+Aaen,Morten Jessen,Undirected,1
+Jærnovn,Morten Jessen,Undirected,2
+Johanne,Juttas,Undirected,1
+Jutta,Juttas,Undirected,1
+Jutta,Tarlatan,Undirected,1
+Johanne,Tarlatan,Undirected,1
+Johanne,Jutta,Undirected,26
+Camilla,Jutta,Undirected,1
+Camilla,Johanne,Undirected,3
+Camilla —,Jutta,Undirected,1
+Johanne,Morten,Undirected,73
+Morten Jessen,Vindvets,Undirected,1
+Vindvet,Vindvets,Undirected,1
+Jutta,Kaarsen,Undirected,2
+Kristoffer,Kristus,Undirected,1
+Morten,Vindvet,Undirected,2
+Kaarsen,frank,Undirected,1
+Jan,Morten,Undirected,2
+Johanne,Kandaules,Undirected,1
+Irich,Kandaules,Undirected,1
+Holm,Irich,Undirected,1
+Jan Irichs,Jutta,Undirected,1
+Jan Irichs,Johanne,Undirected,1
+Irich,Jutta,Undirected,4
+Jutta,Morten,Undirected,23
+Irich,Johanne,Undirected,12
+Irich,Morten,Undirected,9
+Irich,hans,Undirected,1
+Johanne,hans,Undirected,1
+Morten,Post,Undirected,2
+Johanne,dér,Undirected,1
+Chopin,Johanne,Undirected,1
+Gud,Morten,Undirected,1
+Fuyez l’amour,Morten,Undirected,1
+Fuyez l’amour,qui fait grand peur,Undirected,1
+lui chantant,qui fait grand peur,Undirected,1
+enfant dormira tantot,l’,Undirected,1
+Johanne,Moders,Undirected,2
+Graad,Johanne,Undirected,1
+Graad,Morten,Undirected,1
+Morten,Niels Kusk,Undirected,1
+Jærnovn,Morten,Undirected,1
+Johanne,Kusken,Undirected,1

@@ -1,0 +1,256 @@
+source,target,type,weight
+Gazela,Povitz,Undirected,30
+Gazela,hnn,Undirected,7
+Gazela,Jakobe,Undirected,15
+liam,lian,Undirected,4
+Gazela,Hnn,Undirected,3
+Gazela,liun,Undirected,6
+Luxus,liun,Undirected,1
+Juveler,Luxus,Undirected,1
+Juveler,nocjet,Undirected,1
+Casper,Papas,Undirected,1
+Mamas,Papas,Undirected,1
+lian,lian liar,Undirected,2
+Sidsel,flet,Undirected,1
+Nice,Sidsel,Undirected,2
+Fatter,Peer A,Undirected,1
+NiceD,Sidsel,Undirected,1
+Mortensdag,lille Nice,Undirected,1
+Mikkelsdag,Sidsel,Undirected,1
+Gazela,tine,Undirected,1
+Hardenberg,Povitz,Undirected,15
+Casper,Povitz,Undirected,1
+Povitz,Sidsel,Undirected,1
+Frants,Povitz,Undirected,3
+Frants,liun,Undirected,3
+Hardenberg,ands,Undirected,1
+Aline,ands,Undirected,1
+Hardenberg,Mutter,Undirected,1
+hnn,lian,Undirected,2
+Povitz,lian,Undirected,4
+Povitz,liun,Undirected,1
+Gazela,Hardenberg,Undirected,36
+lian,liun,Undirected,1
+Aline,lian,Undirected,1
+Frants,Hardenberg,Undirected,3
+Hardenberg,don,Undirected,1
+Povitz,don,Undirected,1
+J,ieij,Undirected,1
+Jen,tove,Undirected,1
+Jen,jen,Undirected,1
+Gazela,tor,Undirected,2
+Steen,tor,Undirected,1
+Jakobe,liam,Undirected,2
+Jakobe,lee,Undirected,1
+Hardenberg,lee,Undirected,1
+Gazela,lian,Undirected,6
+Greven var,liun,Undirected,1
+Gazela,Petrark,Undirected,1
+Gazela,Samson,Undirected,1
+Gazela,liam,Undirected,2
+Douglas,Mylord,Undirected,1
+Gazela,Mylord,Undirected,2
+Gazela,tik,Undirected,2
+Hnn,lerved,Undirected,1
+hnn,lerved,Undirected,1
+Hardenberg,hnn,Undirected,6
+liun,tazela,Undirected,2
+hnn,liun,Undirected,2
+Hardenberg,flen unge,Undirected,1
+Hardenberg,liun,Undirected,2
+Hardenberg,Hnn,Undirected,1
+Gazela,hellei,Undirected,1
+Aloral,Feil,Undirected,1
+Aloral,livis,Undirected,1
+H jertensglæde,livis,Undirected,1
+H jertensglæde,jegher,Undirected,1
+Hardenberg,lian,Undirected,6
+Die-,Eader,Undirected,1
+Hardenberg,liam,Undirected,4
+Rienzi,liam,Undirected,1
+Rienzi,mgang,Undirected,1
+Petrarc,mgang,Undirected,1
+Laura,Petrarc,Undirected,1
+Cola,Laura,Undirected,1
+Bulwers,Cola,Undirected,1
+Bulwers,Laura,Undirected,1
+Povitz,tie,Undirected,1
+Gazela,Sathans,Undirected,1
+Hardenberg,Sathans,Undirected,1
+Alylord,lian,Undirected,1
+Leporello,lian,Undirected,1
+lian,tine,Undirected,1
+Lubin,lians Ambroisie,Undirected,1
+Hardenberg,Xogle,Undirected,1
+Hardenberg,flen,Undirected,1
+Gazela,flen,Undirected,1
+Gazela,Lord Douedas,Undirected,1
+Hardenberg,Lord Douedas,Undirected,1
+Hardenberg,Lordens,Undirected,1
+Lord Douglas,Zouav,Undirected,1
+Hardenberg,Monsieur,Undirected,1
+Dupont,Hardenberg,Undirected,1
+Dupont,Monsieur,Undirected,1
+Garcon,Monsieur,Undirected,1
+Hardenberv,Zouaven,Undirected,1
+Monsieur,jon,Undirected,1
+Daven,Monsieur,Undirected,1
+Alma,Alonsieur,Undirected,1
+Alma,Solferino,Undirected,1
+Alan,Monsieur,Undirected,1
+Hardenberg,Jakobe,Undirected,6
+Hardenberg,razela,Undirected,1
+Hardenberg,Zonaven,Undirected,1
+Hardenberg,paany,Undirected,2
+Alylord,hnn,Undirected,1
+Alylord,Hardenberg,Undirected,2
+Hardenberg,Mylord,Undirected,4
+Jen-,Mylord,Undirected,1
+.,J,Undirected,2
+Douglas,Jazelas,Undirected,1
+Hardenberg,Lord Douglas,Undirected,1
+Douglas,Hardenberg,Undirected,2
+Gazela,Tude,Undirected,1
+Lord Douglas,lian,Undirected,1
+.Jakobe,Hardenberg,Undirected,1
+Douglas,Gazela,Undirected,1
+Gazela,liendes,Undirected,3
+Hardenberg,liendes,Undirected,1
+h jem,liun,Undirected,1
+Petrarch,h jem,Undirected,1
+Gazela,Petrarch,Undirected,1
+Andersen,Gazela,Undirected,1
+Alfred de Alusset,Andersen,Undirected,1
+Ahctor Hugo,Alfred de Alusset,Undirected,1
+Gazela,Thomas Aquinas,Undirected,1
+Lvst,liun,Undirected,1
+Gazela,iNimes,Undirected,1
+Hardenberg,fle,Undirected,1
+Gazela,livis,Undirected,1
+Jakobe,hnn,Undirected,2
+Jakobe,Povitz,Undirected,2
+Aled,Gazela,Undirected,1
+Alen,Jakobe,Undirected,1
+Anker,Marnolf,Undirected,1
+Marnolf,Sander,Undirected,1
+Gud,iland,Undirected,1
+Adler,iland,Undirected,2
+Adler,Marnolf,Undirected,8
+AJarnolf,iland,Undirected,1
+Marnolf,iland,Undirected,1
+Sander,iland,Undirected,1
+Alarnolf,Sander,Undirected,1
+Alarnolf,Marnolf,Undirected,1
+Alaruolf,oren,Undirected,1
+Adler,Alarnolf,Undirected,2
+Adler,lian,Undirected,2
+Kapitainens,lian,Undirected,1
+Marnolf,liam,Undirected,1
+Adler,Sander,Undirected,3
+Marnolf,lian,Undirected,1
+Alen Marnolf,Gazela,Undirected,1
+Povitz,Åland,Undirected,1
+Gazela,Hiin,Undirected,1
+Gazela,medHardenberg,Undirected,1
+lian,medHardenberg,Undirected,1
+Alan,Lady,Undirected,1
+Lady,Luchon,Undirected,1
+Luchon,Steen,Undirected,1
+Meisen,Sanct Hans,Undirected,1
+Carlo,Ratino,Undirected,8
+Carlo,liam,Undirected,1
+Ratino,lian,Undirected,3
+AIusvaagens,Alaladetta,Undirected,1
+AIusvaagens,Gazela,Undirected,1
+Gazela,Ødets,Undirected,1
+Alonseigneur,lian,Undirected,1
+Pateren,lian,Undirected,1
+Alaladetta,Pateren,Undirected,1
+Alaladetta,Maladetta,Undirected,1
+Maladetta,ban,Undirected,1
+Gazela,Ratino,Undirected,7
+Alaladetta,Ratino,Undirected,1
+Carlo,Hardenberg,Undirected,1
+Hardenberg,Ratino,Undirected,4
+H jælp,Ratino,Undirected,1
+Gazela,H jælp,Undirected,1
+AGllie,Povitz,Undirected,1
+Ratino,helle,Undirected,1
+Frants,Gazela,Undirected,3
+hikel,k jære,Undirected,1
+Hardenberg,hikel,Undirected,1
+Frants,hnn,Undirected,1
+Ratino,teneralen,Undirected,1
+lian,teneralen,Undirected,1
+Hardenberg,livor,Undirected,1
+Gazela,do,Undirected,1
+Frants,n,Undirected,1
+Papa,n,Undirected,1
+Jen,line,Undirected,1
+Frants,Josefs,Undirected,1
+Amire,liun,Undirected,1
+Excellence,lian,Undirected,1
+Carlo,Excellence,Undirected,1
+Prim,dot,Undirected,1
+Prim,Uontreras,Undirected,1
+Uontreras,pacheøø,Undirected,1
+Aled,Pacheco,Undirected,1
+Pacheco,lian,Undirected,1
+Batino,Gazela,Undirected,1
+Pacheco,Ratino,Undirected,3
+Pacheco,tindes,Undirected,1
+lian,tindes,Undirected,1
+Born,Pacheco,Undirected,1
+Gazela,Madonnas,Undirected,1
+Gazela,Paeheco,Undirected,2
+Paeheco,hnn,Undirected,1
+Jen,hanne,Undirected,1
+Aled,lian,Undirected,1
+Ali,Madonna,Undirected,1
+Madonna,Ratino,Undirected,1
+Maladetta,Ratino,Undirected,1
+Pacheco,Povitz,Undirected,1
+Paeheco,Ratino,Undirected,3
+Carlo,Paeheco,Undirected,1
+Monsieur,ivare,Undirected,1
+ivare,livad lian,Undirected,1
+Gazela,livad lian,Undirected,1
+Gendarmen,Pacheco,Undirected,1
+Gendarmen,liar,Undirected,1
+Aled,hvi,Undirected,1
+Pacheco,hvi,Undirected,1
+Pacheco,sode Aladonna,Undirected,1
+lian henI,sode Aladonna,Undirected,1
+Aledens,lian,Undirected,1
+Aladonna,Pacheco,Undirected,1
+Contreras,Ratino,Undirected,1
+Carit Etlar,Gazela,Undirected,2
+Gazela,Katino,Undirected,1
+Jakobe,Ratino,Undirected,1
+Ratino,liam,Undirected,1
+ban,lian,Undirected,1
+Echo,Hardenberg,Undirected,1
+Gud,paany,Undirected,1
+Graad,Jakobe,Undirected,1
+Gazela,Gud,Undirected,1
+Gud,Jakobe,Undirected,1
+Alan,Jakobe,Undirected,1
+Hardenberg,liar,Undirected,1
+Alere,Gazela,Undirected,1
+Bøst,liun,Undirected,1
+Gazela,nkel,Undirected,1
+liun,tine,Undirected,1
+Hardenberg,itale,Undirected,1
+Aladonna,Gazela,Undirected,1
+Aladonna,Ratino,Undirected,1
+Gazela,L,Undirected,1
+Gazela,vlad,Undirected,1
+kim,liun,Undirected,1
+hnn,kim,Undirected,1
+Hardenberg,Sparre,Undirected,1
+Florents,Gazela,Undirected,1
+Gazela,Helene,Undirected,1
+Helene,don,Undirected,1
+Casper,Hardenberg,Undirected,1
+Hardenberg,Marnolf,Undirected,3
+Frants,Marnolf,Undirected,1

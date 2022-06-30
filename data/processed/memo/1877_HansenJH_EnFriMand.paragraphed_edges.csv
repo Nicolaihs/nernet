@@ -1,0 +1,601 @@
+source,target,type,weight
+Napoleon,Resen,Undirected,1
+Ivar Samo Ho,Struenses,Undirected,1
+Ivar Samo,Struenses,Undirected,1
+Ho,Ivar Samo,Undirected,2
+Randa,Samo,Undirected,1
+Gud,Randa,Undirected,1
+Ho,Truels,Undirected,1
+Karl,Thomas,Undirected,1
+Ho,Marvedes,Undirected,1
+Marvede,Marvedes,Undirected,1
+Guldsmedens,Taterkvindens,Undirected,1
+Ho,Jakob —,Undirected,1
+Ho,Job,Undirected,2
+Job,Marvede,Undirected,6
+Ho,Marvede,Undirected,11
+Ho,Kjøn,Undirected,1
+Madam Resen,Marvede,Undirected,1
+Kristiane Resen,Resen,Undirected,1
+Resen,Valdemar Yde,Undirected,1
+Sysselmands,Valdemar Yde,Undirected,1
+Kristiane,Sysselmands,Undirected,1
+Enevold,Kristiane,Undirected,1
+Enevold,Enevold Yde,Undirected,2
+Enevold Yde,Resen,Undirected,2
+Oehlenschlæger,Ørsted,Undirected,2
+Hans Kristian,Ørsted,Undirected,1
+Oehlenschlæger,lille Kristiane,Undirected,1
+Enevold,Ole Morske,Undirected,2
+Ole Morske,Synneve,Undirected,1
+Alban,Synneve,Undirected,1
+Enevold,Wessel,Undirected,1
+Karl Johan,Napoleon,Undirected,2
+Aleksanders,Napoleon,Undirected,1
+Gud,Napoleon,Undirected,3
+Kristiane,Napoleon,Undirected,1
+Enevold Yde,Job,Undirected,2
+Enevold,Job,Undirected,1
+Enevold Yde,Ho,Undirected,1
+Gisle,Ivar Samo,Undirected,3
+Gisle,Marvede,Undirected,82
+Elinborg,Gisle,Undirected,26
+Gisle,Hans Krag,Undirected,1
+Enevold,Ivar Samo,Undirected,1
+Enevold,Krag,Undirected,21
+Enevold,Gisle,Undirected,21
+Enevold,Marvede,Undirected,12
+Elinborg,Marvede,Undirected,8
+Elinborg,Karise,Undirected,5
+Karise,Marvede,Undirected,19
+Gisle,Sagaen,Undirected,1
+Hakon Jarls,Sagaen,Undirected,1
+Edmund Kæmpe,Hakon Jarls,Undirected,1
+Gisle,Marvede Ho,Undirected,4
+Hr. Yde,Marvede,Undirected,1
+Gud,Marvede,Undirected,1
+Enevold Yde,Gisle,Undirected,3
+Enevold Yde,Yde,Undirected,1
+Enevold,Yde,Undirected,3
+Anna Katrine Langhof,Enevold,Undirected,1
+Anna Katrine,liun,Undirected,1
+Anna Katrine,Krag,Undirected,5
+Anna Katrine,Enevold,Undirected,14
+Enevold,k Hain,Undirected,1
+Anna Katrine,k Hain,Undirected,1
+Ewans,Stephenson,Undirected,1
+Franklin,Gisle,Undirected,1
+Enevold,Franklin,Undirected,1
+Frederik den,lians,Undirected,1
+Sophie Marie,lians,Undirected,1
+Frederikke,Sophie Marie,Undirected,1
+Frederikke,Karoline,Undirected,1
+Karoline,Vilhelmine Marie,Undirected,1
+Gisle,Vilhelmine Marie,Undirected,1
+Bergthor,Marvede,Undirected,1
+Bergthor,Hakon Jarl,Undirected,1
+Bruns,Heibergs,Undirected,1
+Gisle,Hr. Ho,Undirected,1
+Gisle,Karise,Undirected,7
+Gunløg,Hrafnkel,Undirected,1
+Elinborg,Hrafnkel,Undirected,1
+Hrafnkel,Marvede,Undirected,1
+Hrafnkel,Torbjørn,Undirected,1
+Marvede,niente,Undirected,1
+Kjøn,niente,Undirected,1
+Karise,Kjøn,Undirected,1
+Enevold Yde,Krag,Undirected,3
+Krag,Pallas,Undirected,1
+Anna Katrine,Karise,Undirected,3
+Gisle,Krag,Undirected,3
+Gisle,svarede'Ehevold,Undirected,1
+Marvede,svarede'Ehevold,Undirected,1
+Ho,Krag,Undirected,2
+Krag,Marvede,Undirected,4
+Anna Katrine,Elinborg,Undirected,3
+Elinborg,Uffe hin,Undirected,1
+Enevold,Karise,Undirected,1
+Marvede,Thaarups,Undirected,1
+M. G.H.,Marvede,Undirected,1
+Karise Resen,Marvede,Undirected,1
+Anna Katrine,Karise Resen,Undirected,1
+Anna Katrine,Marvede,Undirected,1
+Marvede,Yde,Undirected,4
+Enevold Yde,Oehlenschlæger,Undirected,1
+Oehlenschlæger,Signe“,Undirected,1
+Hans Krag,Signe“,Undirected,1
+Enevold,Hans Krag,Undirected,2
+Dr. Dampes,Krag,Undirected,1
+Dr. Dampes,Grundtvig,Undirected,1
+Enevold,Grundtvig,Undirected,1
+Enevold,Mynster,Undirected,1
+Krag,Mynster,Undirected,2
+Grundtvig,Krag,Undirected,2
+Fermat,Pascals,Undirected,1
+Enevold,Fermat,Undirected,1
+Enevold Yde,Hans Krag,Undirected,2
+Enevold Yde,Jomfru Langhof,Undirected,1
+Enevold Yde,Marvede,Undirected,2
+Gisle,Grundtvig,Undirected,3
+Grundtvig,Marvede,Undirected,2
+Febergys,Ivar Samo,Undirected,1
+Marvede,Samo,Undirected,1
+Ivar Samo,Marvede,Undirected,6
+Ivar Samo,Rej,Undirected,1
+Rej,sens,Undirected,1
+Enevold Yde,sens,Undirected,1
+Ho,Yde,Undirected,1
+Edgar Brim,Krag,Undirected,1
+Brim,Krag,Undirected,1
+Brim,Jomfru Resen,Undirected,1
+Madam Yde,Monsieur Fleury,Undirected,1
+Krag,Napoleon,Undirected,1
+Enevold,Napoleon,Undirected,1
+Herakles,Napoleon,Undirected,1
+Marvede,Oljen,Undirected,2
+Brim,Elinborg,Undirected,18
+Brim,Gisle,Undirected,23
+Gisle,Kong Kristjan,Undirected,1
+Gisle,Pop,Undirected,3
+Gisle,Lieutenant Styr,Undirected,1
+Karsten Pop,Lieutenant Styr,Undirected,1
+Abildgaards,Karsten Pop,Undirected,1
+Abildgaards,Pop,Undirected,1
+Pop,Skippers,Undirected,1
+Karsten,Skippers,Undirected,1
+Karsten,Pop,Undirected,3
+Ottoman,Pop,Undirected,1
+Karsten,Pram,Undirected,3
+Ho,Karsten,Undirected,1
+Ho,s,Undirected,5
+Karsten Pop,s,Undirected,1
+Jean Paul,Karsten Pop,Undirected,1
+Gud,Mutter,Undirected,1
+Karsten,Karsten Pop,Undirected,1
+Eckersberg,Karsten Pop,Undirected,1
+Hr. Brim,Hr. Søgaard,Undirected,1
+Edgar Brim,Hr. Brim,Undirected,1
+Edgar Brim,Kristjan Skjald,Undirected,1
+Karsten Pop,Pop,Undirected,1
+Karsten Pop,Søgaard,Undirected,1
+Peter-Olaf,Søgaard,Undirected,1
+Brim,Doris,Undirected,4
+Brim,Pop,Undirected,1
+Doris,Marvede Ho,Undirected,1
+Brim,Ho,Undirected,3
+Brim,s,Undirected,1
+Kristjan Skjald,Peter-Olaf,Undirected,2
+Kristjan Pedersen,Kristjan Skjald,Undirected,1
+Kingos,Kristjan Pedersen,Undirected,1
+Brim,Kingos,Undirected,1
+Brim,Pram,Undirected,1
+Kristjan Skjald,Pram,Undirected,1
+Kristjan,Kristjan Skjald,Undirected,1
+Marvede,Peter-Olaf,Undirected,3
+Brim,Peter-Olaf,Undirected,4
+Doris,Gisle,Undirected,6
+Hr. Ho,Karsten,Undirected,2
+Kristjan Skjald,Thorvaldsen,Undirected,1
+Brim,Kristjan Skjald,Undirected,1
+Brim,Jens Baggesen,Undirected,1
+Baggesen,Jens Baggesen,Undirected,1
+Baggesen,Brim,Undirected,1
+Gisle,Oehlenschlæger,Undirected,7
+Oehlenschlæger,Peter-Olaf og,Undirected,1
+Kristjan Skja,Peter-Olaf og,Undirected,1
+Kristjan Skja,d,Undirected,1
+Baggesen,d,Undirected,1
+Baggesen,Pop,Undirected,1
+Oehlenschlæger,Pop,Undirected,1
+Oehlenschlæger,P,Undirected,1
+Doris,lille Karsten,Undirected,1
+Brim,Marvede,Undirected,21
+Brim,Karsten,Undirected,2
+Gisle,Kristjan Skjald,Undirected,2
+Doris,Kristjan Skjald,Undirected,1
+Baggesen,Marvede,Undirected,1
+Kristjan Pedersen,Peter-Olaf,Undirected,1
+Enevold Yde,Ivar Samo,Undirected,1
+Ivar Samo,Yde,Undirected,1
+Brim,Yde,Undirected,1
+Madame,Tunte-Krag,Undirected,1
+Anna Katrine,rernes,Undirected,1
+Anna Katrine,Ivar Samo,Undirected,2
+Brim,Gisle Ho,Undirected,1
+Jomfru Resen,Karise Resen,Undirected,1
+Amor,Elinborg,Undirected,1
+Anna Katrine,Gisle,Undirected,1
+Elinborg,Gisle Ho,Undirected,1
+Edgar Brim,Elinborg,Undirected,2
+Brim,Gud,Undirected,1
+Brim,Søgaard,Undirected,3
+Gisle,Peter-Olaf,Undirected,2
+Elinborg,Oehlenschlæger,Undirected,2
+Elinborg,Uffe hin spage,Undirected,1
+Edgar Brim,Oehlenschlæger,Undirected,1
+Doris,Marvede,Undirected,3
+Doris,Karsten,Undirected,3
+Gisle,Karsten,Undirected,1
+Gisle,Jomfru Resen,Undirected,1
+Beatrices,Elinborg,Undirected,1
+Beatrices,Dantes,Undirected,1
+Elinborg,Tell,Undirected,1
+Gud,Tell,Undirected,1
+Gud,Rousseau,Undirected,1
+Elinborg,Rousseau,Undirected,1
+Gisle,Rousseau,Undirected,1
+Rousseau,Schwejzers,Undirected,1
+Edgar Brim,Schwejzers,Undirected,1
+Brim,Valdemar Yde,Undirected,2
+Brim,Jomfru Besens,Undirected,1
+Brim,Enevold Yde,Undirected,1
+.Marvede,Enevold,Undirected,1
+.Marvede,Gisle,Undirected,1
+Gisle,Madam,Undirected,1
+Kristjan Skjald Ministerens,Madam,Undirected,1
+Edgar,Marvede,Undirected,1
+Gisle,PeterOlaf,Undirected,2
+Kristjan Skjald,PeterOlaf,Undirected,1
+Jomfru Resen,Peter-Olaf,Undirected,1
+Brim,K arise Resen,Undirected,1
+K arise Resen,Marvede,Undirected,1
+Kristjan Pedersen,Marvede,Undirected,2
+Kristjan,Marvede,Undirected,2
+Das die Liebe sich erfrische,Ewig jung sich stets erneut,Undirected,1
+Brim,Kristjan Pedersen,Undirected,2
+Elinborg,Ho,Undirected,1
+Enevold,s,Undirected,1
+Enevold,Ho,Undirected,3
+Karsten,Marvede,Undirected,3
+Gisle,Karsten Pop,Undirected,1
+Doris,Karsten Pop,Undirected,1
+Doris,Pop,Undirected,1
+Marvede,Pop,Undirected,1
+Brim,Olaf,Undirected,1
+Michel Angelo,Oehlenschlæger,Undirected,1
+Gud,Karsten,Undirected,1
+Abel,Erik,Undirected,2
+Marvede,Oehlenschlæger,Undirected,2
+Doris,Hr. Ho,Undirected,1
+Gisle,Pram,Undirected,3
+Brim,Evans,Undirected,1
+Brim,Oehlenschlæger,Undirected,1
+Gisle,Kristjan Pedersen,Undirected,1
+Gisle,Ho,Undirected,3
+Enevold,Plovpennings,Undirected,1
+Enevoid,Plovpennings,Undirected,1
+Enevoid,Gisle,Undirected,1
+Erik,Gisle,Undirected,1
+Anna Katrine,Valdemars,Undirected,1
+Gisle,Valdemars,Undirected,1
+Enevold,risle,Undirected,1
+Marvede,risle,Undirected,1
+Gisle,Yde,Undirected,2
+Gisle,Truels Sander,Undirected,1
+Balles,Truels Sander,Undirected,1
+Balles,Gisle Ho,Undirected,1
+Gisle,Truels,Undirected,1
+Gisle,Tartar-Randa,Undirected,2
+Tartar-Randa,s,Undirected,1
+Gisle,s,Undirected,2
+Baggesen,Grundtvig,Undirected,1
+Baggesen,Oehlenschlæger,Undirected,1
+Grundtvig,Oehlenschlæger,Undirected,2
+Brim,Grundtvig,Undirected,1
+Gisle,Thomas,Undirected,1
+Kristjan,Kristjan Pedersen,Undirected,1
+Gisle,Kristjan,Undirected,2
+Karle,Oehlenschlæger,Undirected,1
+Oehlenschlæger,Uranus,Undirected,1
+Gisle,Søgaard,Undirected,1
+Edgar Brim,Enevold,Undirected,1
+Brim,Enevold,Undirected,3
+Gisle,livor,Undirected,1
+Marvede,s,Undirected,1
+Gisle,Taterkvindens,Undirected,2
+Enevold,Valdemar,Undirected,2
+Krag,Valdemar,Undirected,1
+Elinborg,Enevold,Undirected,3
+Karise,Katrine,Undirected,1
+Elinborg,Katrine,Undirected,1
+Gisle,j,Undirected,3
+Krag,j Enevold,Undirected,1
+j,j Enevold,Undirected,1
+Goethe,Marvede,Undirected,1
+Brim,Marvede Ho,Undirected,1
+Gisle Ho,Simon’,Undirected,1
+Salomon,Simon’,Undirected,1
+Gisle,Simon Salomon,Undirected,1
+Lazarus,Moses,Undirected,1
+Ephraim,Moses,Undirected,1
+Blicher,Gisle,Undirected,1
+Enevold Yde,Marvede Ho,Undirected,1
+Edgar Brim,Karise,Undirected,2
+Edgar Brim,Gisle,Undirected,2
+Karise,Yde,Undirected,3
+Jomfru Resen,Karise,Undirected,1
+Laplace,Marvede,Undirected,1
+H. C. Ørsted,Laplace,Undirected,1
+H. C. Ørsted,Marvede,Undirected,1
+Karsten Pop,Ørsted,Undirected,1
+Jomfru Krak,Karsten,Undirected,1
+Adser,Mathias Tims,Undirected,1
+Adser,Kirsten-Mari,Undirected,1
+Gisle,Kirsten-Mari,Undirected,4
+Gisle,Kirsten Tim,Undirected,1
+Kirsten Tim,erlil,Undirected,1
+Adser,Gisle,Undirected,3
+Finboge,Gisle,Undirected,1
+Bjørn,Finboge,Undirected,1
+Adser,Bjørn,Undirected,1
+Adser,Karl,Undirected,1
+Karl,Kirsten,Undirected,1
+-,Kirsten,Undirected,1
+-,Mari,Undirected,1
+Gisle,Mari,Undirected,1
+Gisle,Kirsten Mari,Undirected,1
+Gisle,Luthers,Undirected,1
+Kristjan Skjald,Luthers,Undirected,1
+Gisle,Gud,Undirected,4
+Adser,Sidsel,Undirected,3
+Gisle,Jærn,Undirected,1
+Gisle,Odin,Undirected,1
+Odin,Valdemar,Undirected,1
+Kong Svend,Valdemar,Undirected,1
+Gisle,Mathias Tims,Undirected,1
+Gisle,XIX,Undirected,1
+Brim,Karise,Undirected,1
+Enevold Yde,Karise,Undirected,1
+Anna Katrine,Brim,Undirected,1
+Enevold Yde,Karise gjærne,Undirected,1
+Elinborg,Ellen,Undirected,1
+Marvede,c,Undirected,1
+Kjør,Truels,Undirected,1
+Augustus,Marvede,Undirected,1
+Augustus,Tiberius,Undirected,1
+Ivar,Marvede,Undirected,6
+Ivar,Samo,Undirected,1
+Marvede,St. Petri,Undirected,1
+Kristjane,Marvede,Undirected,4
+Ivar Ho,Karise,Undirected,1
+Adser,Gisle Ho,Undirected,1
+Adser,Jærn,Undirected,2
+Randa,Tartar-Randa,Undirected,2
+Gisle,Randa,Undirected,28
+Madamen,Randa,Undirected,1
+Gisle,Judith,Undirected,13
+Judith,Thorvald,Undirected,4
+Judith,Randa,Undirected,6
+Randa,Thorvald,Undirected,2
+Gisle,Thorvald,Undirected,3
+Judith,Zenith,Undirected,1
+Sultan,j,Undirected,1
+Jensen-Tusch,Valdemar Yde,Undirected,1
+Ho,Jensen-Tusch,Undirected,5
+Ivar,Jensen-Tusch,Undirected,9
+Ivar,JensenTusch stundum,Undirected,2
+Adam,Ivar,Undirected,2
+Ivar,Ivar meget,Undirected,1
+Ivar,Marvede Ho,Undirected,1
+Ivar,Karise,Undirected,3
+Ivar,Valdemar,Undirected,2
+Jensen-Tusch,Yde,Undirected,1
+Jensen-Tusch,Onkel Brims Præstegaard,Undirected,1
+Ivar Ho,Tusch,Undirected,1
+Renens,Valdemar,Undirected,1
+Ivar Ho,Karl,Undirected,1
+Ivar,Morfeldt,Undirected,4
+Jensen-Tusch,Valdemar,Undirected,1
+Basta,Ivar,Undirected,1
+Gisle,Ivar Ho,Undirected,2
+Gisle,Karl,Undirected,1
+Evropa,Tartar-Randa,Undirected,1
+Evropa,Gisle,Undirected,1
+Holbergs,Oehlenschlæger,Undirected,1
+Frederik den,Grundtvig,Undirected,1
+Anker,Frederik den,Undirected,1
+Anker,Gisle,Undirected,2
+Gisle,Koil,Undirected,3
+Koil,Randa,Undirected,3
+Faders,Koll,Undirected,1
+Anker,Koli,Undirected,1
+Koll,s,Undirected,3
+Gisle,Koll,Undirected,5
+Anker,Koil,Undirected,2
+Kristjane Ho,Morfeldt,Undirected,1
+Kristjane Ho,s,Undirected,1
+Valdemar Yde,s,Undirected,1
+Kristjane Ho,Valdemar Yde,Undirected,2
+Karise,Kristjane Ho,Undirected,1
+Ivar,Kristjane,Undirected,7
+Enevold,Valdemar Yde,Undirected,1
+Karise,Kristjane,Undirected,1
+Dansbjærg,Yde,Undirected,1
+Dansbjærg,Kristjane Ho,Undirected,1
+Kristjane Ho,Valdemar,Undirected,1
+Marvede,Satyrs,Undirected,1
+Marvede,Vallisers,Undirected,1
+Eugen Sue,George Sand,Undirected,1
+Balzac,Eugen Sue,Undirected,1
+Marvede,Morfeldt,Undirected,1
+Morfeldt,Valdemar Yde,Undirected,1
+Brim,Jensen-Tusch,Undirected,3
+Becks,Brim,Undirected,1
+Balzac,Mariage,Undirected,1
+Frøken Resen,Mariage,Undirected,1
+Frøken Resen,Gud,Undirected,2
+Frøken Resen,Zigeunerinde,Undirected,1
+Edgar Brim,Karise Ho,Undirected,1
+Edgar Brim,Ivar Ho,Undirected,1
+Ivar Ho,JensenTusch,Undirected,1
+JensenTusch,butte,Undirected,1
+Ivar,butte,Undirected,1
+Elinborg,Ivar,Undirected,3
+Elinborg,Elinborg Morfeldt,Undirected,1
+Karise,liun,Undirected,1
+Ivar,liun,Undirected,1
+Ivar,Tusch,Undirected,2
+Frøken Ho,Yde,Undirected,1
+Brim,Kristjane,Undirected,1
+Jensen-Tusch,Kristjane,Undirected,6
+Brim,Morfeldt,Undirected,1
+Ivar Ho,hans,Undirected,1
+Bollens,Edgar Brim,Undirected,1
+Bollens,Brim,Undirected,1
+Brim,Edgar Brim,Undirected,1
+Brim,Jomfru Drude,Undirected,2
+Jensen-Tusch,Jomfru Drude,Undirected,1
+Ivar Ho,Jomfru Drude,Undirected,1
+Gud,Ivar,Undirected,1
+Gud,Hejberg,Undirected,1
+Drude,Hejberg,Undirected,1
+Ivar,Jomfru Drude,Undirected,2
+Adam,Edgar,Undirected,1
+Gedske,Ivar,Undirected,1
+Brim,Ivar,Undirected,3
+Drude,Ivar,Undirected,1
+Brim,lados,Undirected,1
+Drude,Ivar Ho,Undirected,1
+Ivar Ho,Jensen-Tusch,Undirected,1
+Brim,David,Undirected,1
+Arne,Gisle,Undirected,1
+Gisle,Ivar,Undirected,4
+Gisle,Kristjane,Undirected,8
+Kristjane,Valdemar,Undirected,13
+Randa,Valdemar,Undirected,1
+Gisle,Morfeldt,Undirected,2
+Morfeldt,Randa,Undirected,2
+Koli,Morfeldt,Undirected,1
+Koli,Randa,Undirected,2
+Randa,Yde,Undirected,2
+Anker,Randa,Undirected,3
+Lærke,Randa,Undirected,1
+Gisle,Lærke,Undirected,1
+Koll,Randa,Undirected,2
+Aaget,Gisle,Undirected,2
+Gisle,lian,Undirected,2
+Marvede,lian,Undirected,2
+Gisle,Koli,Undirected,3
+Gisle Smed,Marvede,Undirected,1
+Gisle Ho,Marvede,Undirected,2
+Koli,Marvede Ho,Undirected,1
+Gud,Homer,Undirected,1
+Elinborg,Kristjane Ho,Undirected,1
+Elinborg,Jensen-Tusch,Undirected,2
+Elinborg,Valdemar,Undirected,1
+Ivar,Ivar Ho,Undirected,2
+Brim,Tusch,Undirected,1
+Gud,Morfeldt,Undirected,1
+Kristjane,Panda,Undirected,1
+Gisle,Panda,Undirected,1
+Gisle,ft,Undirected,1
+Marvede,ft,Undirected,1
+Elinborg,Randa,Undirected,5
+Jensen-Tusch,Marvede,Undirected,1
+Dansbjærg,Marvede,Undirected,2
+Elinborg,Morfeldt,Undirected,2
+Jomfru Resen,Morfeldt,Undirected,1
+Elinborg,fija,Undirected,1
+Gisle,fija,Undirected,1
+Elinborg,ban,Undirected,1
+Gisle,ban,Undirected,1
+Gisle,Valdemar Yde,Undirected,3
+Anker,Valdemar Yde,Undirected,1
+Anker,Elinborg,Undirected,1
+Knud,Tøger Andersen,Undirected,1
+Knud,Tøger,Undirected,1
+Anker,Tøger,Undirected,1
+Gisle,Valdemar,Undirected,4
+Ivar Ho,Kristjane,Undirected,2
+Gisle,Rye,Undirected,3
+Anker Ho,Rye,Undirected,2
+Anker Ho,Frederits,Undirected,1
+Frederits,s,Undirected,1
+Anker Ho,s,Undirected,1
+Anker,Rye,Undirected,2
+Gisle Ho,Rye,Undirected,1
+Edgar Brim,Valdemar Yde,Undirected,1
+Edgar Brim,Valdemar,Undirected,2
+Dansbjærg,Kristjane,Undirected,1
+Kristjane,Marvede Ho,Undirected,2
+Anna,Enevold,Undirected,1
+Anna,Katrine,Undirected,1
+Katrine,alWd,Undirected,1
+Valdemar,alWd,Undirected,1
+Kristjane,ftam,Undirected,1
+Marvede,ftam,Undirected,1
+Marvede,Valdemar,Undirected,1
+Elinborg,Kristjane,Undirected,2
+Gisle Ho,Ivar,Undirected,1
+Gisle,Jensen-Tusch,Undirected,2
+George Sand,Olje,Undirected,1
+Jomfru Drude,Kristjane,Undirected,1
+Kristjane,Tusch,Undirected,2
+Gisle Ho,Jensen-Tusch,Undirected,1
+Gisle Ho,Randa,Undirected,2
+Ivar,Randa,Undirected,12
+Elinborg,hayde,Undirected,1
+Gisle,hayde,Undirected,1
+Hr. Jensen-Tusch,Jensen-Tusch,Undirected,1
+Edgar Brim,Kristjane Ho,Undirected,1
+Egegren,Randa,Undirected,1
+Randa,jense,Undirected,1
+Ivar Ho,Randa,Undirected,2
+Edgar Brim,Kristjane,Undirected,2
+Goethe,Kristjane,Undirected,1
+Gisle,Goethe,Undirected,1
+JensenTusch,Kristjane,Undirected,1
+Kristjane,Valdemar Yde,Undirected,1
+David,Michel Angelo,Undirected,1
+Ivar,JensenTusch,Undirected,1
+Marvede,Marvede Ho,Undirected,1
+Dansbjærg,Koli,Undirected,1
+Koli,Marvede,Undirected,3
+Koll,Marvede,Undirected,1
+Koil,s,Undirected,1
+Koil,Marvede,Undirected,3
+Marvede,Randa,Undirected,3
+Ivar,Koil,Undirected,1
+Jean,Marvede,Undirected,1
+Jean,Koil,Undirected,1
+Ivar,Koli,Undirected,1
+Egeløv,Randa,Undirected,1
+Jabobs,Randa,Undirected,2
+Gisle Ho,Tøger Andersen,Undirected,1
+Tøger,Tøger Andersen,Undirected,1
+Anker Ho,Tøger,Undirected,1
+Anker Ho,Gisle,Undirected,1
+Gisle,Tøger,Undirected,5
+Koli,Tøger,Undirected,1
+Randa,h'un,Undirected,1
+Gisle,Pavse,Undirected,1
+Ho,pil Kaptajnsenken,Undirected,1
+Ho,Kristjane Resen,Undirected,1
+Karise,risle,Undirected,1
+Grundtvig,Kristjane Ho,Undirected,1
+Kristjane,Kristjane Ho,Undirected,1
+Gud,Kristjane,Undirected,1
+Morfeldt,Yde,Undirected,1
+Morfeldt,Tøger Andersen,Undirected,1
+Grisles,Randa,Undirected,1
+Dansbjærg,Gisle,Undirected,1
+Dansbjærg,Randa,Undirected,1
+Elinborg,s,Undirected,1
+Elinborg,Gud,Undirected,1
+Gud,Koll,Undirected,1
+Marvede,Tøger,Undirected,1
+Anna Katrine,dei,Undirected,1
+Karen,Margrete,Undirected,3
+Bjørn,Margrete,Undirected,1
+Bjørn,Karen,Undirected,1
+Karen,s,Undirected,1
+Bjørnen,Margrete,Undirected,1
+Gisle,Tøger Andersen,Undirected,1
+Marvede Ho,Valdemar Yde,Undirected,1
+Gisle Ho,Marvede Ho,Undirected,1
+Gisle,Gisle Ho,Undirected,1
+Marvede Ho,Yde,Undirected,1
+Anna Katrine,Yde,Undirected,1
+Brandpile,Randa,Undirected,1
+Graaden,Koil,Undirected,1
+Ivar,Karen,Undirected,1

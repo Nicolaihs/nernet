@@ -1,0 +1,80 @@
+source,target,type,weight
+Holm,Laura Holm,Undirected,1
+Holm,Laura,Undirected,1
+Laura,Trine Skram,Undirected,5
+Laura,Trine,Undirected,2
+Hanne,Laura,Undirected,2
+Emilie,Laura,Undirected,1
+Emilie,Peter,Undirected,1
+Laura,Peter,Undirected,1
+Gud,Trine,Undirected,1
+Kruses,Laura,Undirected,1
+Kruses,Trine Skram,Undirected,1
+Laura,Mr .,Undirected,1
+. Knutzon,Mr .,Undirected,1
+. Knutzon,Knutzon,Undirected,1
+Knutzon,Laura,Undirected,1
+Klara,Stine,Undirected,3
+Klara,Laura,Undirected,32
+Klara,Theodor,Undirected,16
+Laura,Theodor,Undirected,32
+Gud,Klara,Undirected,2
+Gud,Theodor,Undirected,2
+Laura Holm,Theodor,Undirected,1
+Laura Holm,Tantes,Undirected,1
+Tante,Tantes,Undirected,1
+Tante,Theodor,Undirected,2
+Klara,Klausen,Undirected,7
+Klausen,Laura,Undirected,10
+Frederikke,Theodor,Undirected,1
+Karl,Klara,Undirected,1
+Sofies,Tante,Undirected,1
+Klara,Tante,Undirected,7
+Justitsraad Klausens,Tante,Undirected,1
+Justitsraad Klausens,Klara,Undirected,1
+Klausen,Tante,Undirected,2
+Klausen,Theodor,Undirected,2
+Gud,Laura,Undirected,6
+. Klausen,Klara,Undirected,1
+. Klausen,Johannes,Undirected,1
+Johannes,Klara,Undirected,1
+Theodor,Villie,Undirected,1
+Klara,Villie,Undirected,1
+Laura,Moder,Undirected,9
+Johannes,Laura,Undirected,2
+Laura,lille Sofie,Undirected,2
+Laura,Sofie,Undirected,3
+Laura,R,Undirected,1
+.,R,Undirected,1
+.,Laura,Undirected,1
+Frøken Holm,Hyad,Undirected,2
+Frøken Holm,Julie Fosberg,Undirected,1
+Laura,sorn,Undirected,1
+Kapitajn Fosherg,Laura,Undirected,1
+Frøken Holm,Kapitajn Fosherg,Undirected,1
+Fosberg,Laura,Undirected,4
+Fosberg,linn,Undirected,1
+Fosberg,Julie,Undirected,1
+Gud,véd,Undirected,1
+Laura,véd,Undirected,1
+Frøken Holm,Laura,Undirected,3
+Frøken Holm,Karen,Undirected,1
+Laura,Maa-aa-neskin,Undirected,1
+Fosberg,Frøken Stein,Undirected,1
+Laura,Tante,Undirected,3
+Kapitajn Fosberg,Tante,Undirected,1
+Laura,Rasmussen,Undirected,5
+Laura,Laura Holm,Undirected,1
+Aloder,Laura,Undirected,1
+Klausen,Sofie,Undirected,1
+Laura Holm,Sofie,Undirected,1
+Klara,Rasmussen,Undirected,1
+Frøken Stein,Laura,Undirected,1
+Klaussens,Laura,Undirected,2
+Klara,Madam Rasmussen,Undirected,1
+Laura,Madam Rasmussen,Undirected,1
+Kapitajn Fosberg,Laura,Undirected,1
+Klausen,bun,Undirected,1
+Gud,bun,Undirected,1
+Laura Holm,Sofie Stein,Undirected,1
+Laura,endel,Undirected,1

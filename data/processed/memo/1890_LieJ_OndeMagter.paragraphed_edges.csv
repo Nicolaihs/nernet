@@ -1,0 +1,168 @@
+source,target,type,weight
+Anders,Harrestad,Undirected,2
+Harrestad,Mulwad,Undirected,1
+Mulwad,Thesen,Undirected,1
+Hode,Johnston,Undirected,1
+Madam Michelsen,Thesen,Undirected,2
+Berg,Madam Michelsen,Undirected,1
+Johnston,didhen,Undirected,1
+Johnston,Thesen,Undirected,3
+Johnston,Lange Thesen,Undirected,1
+Gaarder,Johnston,Undirected,2
+Anders Bratt,Johnston,Undirected,6
+Berentsens,Johnston,Undirected,1
+Anders,Johnston,Undirected,2
+Bonde-Berg,Kjøbmand Berg,Undirected,1
+Anders,Di,Undirected,1
+Di,Johnston,Undirected,3
+Hank,Johnston,Undirected,1
+Abraham,Johnston,Undirected,17
+Abraham Johnstons,Gjertrud,Undirected,1
+Fernanda,Thora,Undirected,1
+Abraham,Lars Kjører,Undirected,1
+Enkefru Løberg,Thora,Undirected,1
+Gjertrud,allehaande,Undirected,1
+Johnston,Klaus,Undirected,8
+Concordia,Klaus,Undirected,1
+Concordia,hans,Undirected,1
+Al Assurance,Gutten,Undirected,1
+Gutten,Klaus,Undirected,1
+Jakob Arneberg,Jonette,Undirected,1
+Abraham,Jonette,Undirected,1
+Heje,Jonette,Undirected,1
+Abraham,Fernanda,Undirected,1
+Abraham Johnston,Flan,Undirected,1
+Kraaker,Madam Michelsen,Undirected,1
+Abraham,Møllendals,Undirected,1
+Lund,Olsen,Undirected,1
+Mor Høiby,Otta,Undirected,2
+Abraham,Bækkevold,Undirected,4
+Bækkevold,Klaus,Undirected,2
+Bækkevold,Otta,Undirected,2
+Abraham,Madam Høiby,Undirected,1
+Bækkevold,Madam,Undirected,1
+Abraham,Otta,Undirected,9
+Abraham,Klaus,Undirected,13
+Gud,Otta,Undirected,1
+Madam Høiby,Sjømand,Undirected,1
+Gaarder,Thesen,Undirected,1
+Klaus,jagu,Undirected,1
+Greje,Klaus,Undirected,1
+Abraham,Abraham Johnston,Undirected,1
+Bækkevold,Lund,Undirected,1
+Abraham,Olsen,Undirected,2
+Abraha—am,Lars Vægter,Undirected,1
+Abraham,Saraba—anden,Undirected,1
+Frøken Rønneberg,Johnston,Undirected,4
+Abraham,Pokkenholts,Undirected,1
+Johnston,Kjerka,Undirected,1
+Frøken Rønneberg,Maxis,Undirected,1
+Klaus,Mor Høiby,Undirected,1
+Abraham,Sophie,Undirected,2
+Jette,Johnston,Undirected,1
+Johnston,l iandel,Undirected,1
+Klaus,Otta Høiby,Undirected,1
+Abraham,Gud,Undirected,1
+Gjertrud,Klaus,Undirected,6
+Abraham,Gjertrud,Undirected,13
+Abraham,kanske,Undirected,1
+Johnston,Leonardo,Undirected,1
+F'ruen,Johnston,Undirected,1
+Aisings,Madam Michelsen,Undirected,1
+Gjertrud,Thiers,Undirected,1
+Johnston,Thiers,Undirected,1
+Gjertrud,Johnston,Undirected,3
+Abraham,Flan,Undirected,2
+Klaus,jamæn,Undirected,1
+Johnston,jamæn,Undirected,1
+Anne,Gjertrud,Undirected,1
+Gjertrud,Tyras,Undirected,1
+Far,Klaus,Undirected,1
+Johnston,lummer,Undirected,1
+Finkenhagen,Per Enoksens,Undirected,1
+Johnston,Sophie,Undirected,3
+Johnston,slig,Undirected,1
+Henrik,Johnston,Undirected,1
+Jasaamæn,Johnston,Undirected,1
+Abraham,Tosse,Undirected,1
+Jette,Klaus,Undirected,2
+Abraham,sine,Undirected,1
+Johnston,sine,Undirected,1
+Abraham Johnston,Klaus,Undirected,1
+d,ertru,Undirected,1
+Abraham,Hagelrifler,Undirected,1
+Far,Hagelrifler,Undirected,1
+Abraham,T.,Undirected,1
+Jonette,Stibolt,Undirected,1
+Frøken Rønneberg,Gjertrud,Undirected,1
+Klaus,Torgersen,Undirected,1
+Gjertrud,iland,Undirected,1
+Hr. Johnston,Hr. Stibolt,Undirected,1
+Jette,ifjor,Undirected,1
+Gjertrud,Jette,Undirected,2
+Johnston,din,Undirected,1
+Harrestad,gotte,Undirected,1
+Adiø,adiø,Undirected,1
+Abraham,skraa,Undirected,1
+Jamæn,Madam Michelsen,Undirected,1
+Bonde-Berg,Madam Michelsen,Undirected,3
+BondeBerg,Madam,Undirected,1
+Kæmner Vaage,Madam Michelsen,Undirected,1
+Berg,Thesen,Undirected,1
+Johnston,Kjørehest,Undirected,1
+BondeBerg,Di,Undirected,1
+Ellingsen,Smed,Undirected,1
+Ellingsen,Klaus,Undirected,1
+Klaus,Stakkars,Undirected,2
+Gjertrud,dal,Undirected,1
+Flan,Jette,Undirected,2
+Heje,Klaus,Undirected,1
+Heje,Johnston,Undirected,1
+Abraham,Thesen,Undirected,1
+Abraham,Madam Michelsen,Undirected,1
+Johnston,Madam Mi—chelsen,Undirected,1
+Finkenhagen,Klaus,Undirected,1
+Berg,Luth,Undirected,1
+Luth,Terjesen,Undirected,1
+Terjesen,Veritas,Undirected,1
+Bonde-Berg,Rubikon,Undirected,1
+Flan,Thesen,Undirected,1
+Berg,Enkemadam Michelsen,Undirected,1
+Berg,Flan,Undirected,1
+Frøken Bornemann,Johnston,Undirected,1
+Frøken Rønneberg,Thesen,Undirected,1
+Bornemann,Johnston,Undirected,1
+Concordia,De Thesen,Undirected,1
+De Thesen,Johnston,Undirected,1
+Johnston,hans,Undirected,1
+Eden,hans,Undirected,1
+Bonde-Berg,Johnston,Undirected,1
+Thesen,didop,Undirected,1
+Johnston,didop,Undirected,1
+Bratts,kim,Undirected,1
+Bratts,Johnston,Undirected,1
+Klaus,s,Undirected,1
+Jette,Skogbrand,Undirected,1
+Helgesen,Kaptejn,Undirected,1
+Johnston,Kaptejn Helgesen,Undirected,1
+Helgesen,Klaus,Undirected,1
+Finkenhagen,Kaptejn Helgesen,Undirected,1
+Enoksen,Madam Michelsen,Undirected,1
+Johnston,Madam,Undirected,1
+Klaus,Madam Michelsen,Undirected,3
+Jiirgensen,niti,Undirected,1
+Gud,véd,Undirected,1
+Gjertrud,Madam Michelsen,Undirected,1
+Jasaamæn,Jette,Undirected,1
+A,Madam Michelsen,Undirected,1
+A,B,Undirected,1
+didud,«,Undirected,1
+Far,Johnston,Undirected,1
+Johnston,dal,Undirected,1
+Abraham,Concordia,Undirected,1
+Flan,Johnston,Undirected,1
+Amor,Flun,Undirected,1
+Abraham,Frøken Gjertrud,Undirected,1
+Anders Bratt,Concordia,Undirected,1
+Eden,Johnston,Undirected,1
+Gud,Johnston,Undirected,1

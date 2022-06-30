@@ -1,0 +1,467 @@
+source,target,type,weight
+Apothekers,Pramman,Undirected,1
+Apothekers,Kancelliraad Pramman,Undirected,1
+Dybbøl,Kancelliraad Pramman,Undirected,1
+Dybbøl,Fanny,Undirected,1
+Fanny,Pramman,Undirected,12
+Fanny,hi,Undirected,1
+Emilies,hi,Undirected,1
+Helge Hjørvardsbane,Helge Hundingssøn,Undirected,1
+Fanny,Helge Hundingssøn,Undirected,1
+Fanny,Karoline,Undirected,1
+Gud,Kancelliraad Pramman,Undirected,2
+Gud,Pramman,Undirected,2
+Karoline,Pramman,Undirected,1
+Fanny,Gud,Undirected,25
+Agathe,Gud,Undirected,2
+Pramman,hansene,Undirected,1
+Kancelliraad Pramman,Pramman,Undirected,1
+Kancelliraad Pramman,Kristian V,Undirected,1
+Karl XI,Kristian V,Undirected,1
+Kancelliraad Pramman,Karl XI,Undirected,1
+Kancelliraad Pramman,Lauritzen,Undirected,1
+Fanny,Pram man,Undirected,1
+Fanny,Kancelliraad Pramman,Undirected,6
+Fanny,Mesdames,Undirected,1
+Gud,Mesdames,Undirected,1
+Fanny,Købke,Undirected,1
+Bonnesen,Kancelliraad Pramman,Undirected,1
+Bonnesen,Fanny,Undirected,1
+Gud,Julie Spang,Undirected,1
+Fanny,Julie Spang,Undirected,8
+Fanny,Kaptejn Frick,Undirected,32
+Kaptejn Frick,dito,Undirected,1
+Julie,Mille compliments,Undirected,1
+Mille compliments,Papa,Undirected,1
+Mama,Papa,Undirected,1
+Fanny Pramman,Holgrens,Undirected,1
+Frøken Holg'ren,Villie,Undirected,1
+Fanny,Frøken Holg'ren,Undirected,1
+Anna Holmgren,Kaptejn Frick,Undirected,1
+Anna Holmgren,Fanny,Undirected,1
+Anna Holgren,Fanny Pramman,Undirected,1
+Anna Holgren,Kaptejn Frick,Undirected,2
+Kaptejn Frick,Pramman,Undirected,5
+Julie,Pramman,Undirected,1
+Julie,Kaptejn Frick,Undirected,1
+Sofus Brinkmann,hans Laudabilis,Undirected,1
+Brinckmann,Flan,Undirected,1
+Flan,hagud,Undirected,1
+Brinckmann,Kaptejn Frick,Undirected,13
+Julie Spang,Kaptejn Frick,Undirected,1
+Anna Holgren,Julie Spang,Undirected,1
+Kaptejn Frick,Methode,Undirected,1
+Julie Spang,Susanne,Undirected,2
+Fanny,Pjes,Undirected,1
+Fanny,Frøken Fanny,Undirected,1
+Brinckmann,Fanny,Undirected,37
+Brinckmann,Fanny Pramman,Undirected,1
+Brinckmann,Reseda,Undirected,1
+Reseda,Sofus Brinckmann,Undirected,1
+Brinckmann,Sofus Brinckmann,Undirected,4
+Fanny,Sofus Brinckmann,Undirected,6
+Fanny,Tontine,Undirected,1
+Gud,Sofus Brinckmann,Undirected,3
+Fanny,Voltaires,Undirected,1
+Sofus Brinckmann,Voltaires,Undirected,1
+Kristus,Sofus Brinckmann,Undirected,1
+Fanny,Kristus,Undirected,1
+Ask,Fanny,Undirected,1
+Ask,Brinckmann,Undirected,1
+Anna,Julie,Undirected,2
+Julie,Thora,Undirected,1
+Asta,Thora,Undirected,2
+Brinckmann,Martensens,Undirected,1
+Martensens,Marthas,Undirected,1
+Brinckmann,Plougs,Undirected,1
+Heises,Plougs,Undirected,1
+Hausse,Heises,Undirected,1
+Gubbens,Toddy,Undirected,1
+Kaptejn Frick,Sofus Brinckmann,Undirected,6
+Byron,Heine,Undirected,2
+Frick,Heine,Undirected,1
+Frick,Oehlenschlager,Undirected,1
+Julius,Oehlenschlager,Undirected,1
+Julius,Kaptejnen,Undirected,1
+Adagio,Julius,Undirected,1
+Julius,Lieutenantsdagene,Undirected,1
+Augustinus,Gud,Undirected,1
+E.,Gud,Undirected,1
+Frøken C.,nomina sunt odiosa,Undirected,1
+Otto Lange,Valstakt,Undirected,1
+Otto Lange,b.,Undirected,1
+Liv Dun,b.,Undirected,1
+Liv Dun,Nielsens,Undirected,1
+Michael Wiehes,Nielsens,Undirected,1
+Michael Wiehes,Rosenkildes,Undirected,1
+Chr. Winther,Rosenkildes,Undirected,1
+Chr. Winther,J. L. Heibergs,Undirected,1
+J. L. Heibergs,Olga,Undirected,1
+Lange,Olga,Undirected,1
+Lange,Rosalinde,Undirected,1
+Romeo,Rosalinde,Undirected,1
+Julie,Romeo,Undirected,1
+Don Juan,Julie,Undirected,1
+Fanny,Helge,Undirected,1
+Helge,Tangkjær,Undirected,1
+Kompagni,Tangkjær,Undirected,1
+Asta,Kompagni,Undirected,1
+Asta,Bertelsen,Undirected,1
+Bertelsen,Kaptejn Frick,Undirected,1
+Fanny Pramman,Kaptejn Frick,Undirected,1
+Brinckmann,Julie,Undirected,1
+Anna,Asta,Undirected,1
+Fanny Pramman,Thora,Undirected,1
+Fanny Pramman,Julie Spang,Undirected,1
+Gud,Kaptejn Frick,Undirected,4
+Fanny,lille Fanny,Undirected,3
+Fanny,Fru Kamp,Undirected,1
+Billes,Fanny,Undirected,1
+Brinckmann,Fanny kunde,Undirected,1
+Aalsgaard,Gud,Undirected,1
+Gud,Mefistofeles,Undirected,1
+Brinckmann,Gud,Undirected,4
+Brinckmann,Rebekka,Undirected,1
+Gud,Rebekka,Undirected,1
+Kancelliraad Prammann,Kaptejn Frick,Undirected,1
+Vismann,consilium abeundi,Undirected,1
+Frick,consilium abeundi,Undirected,1
+Frick,Sofus Brinckmann,Undirected,1
+Frick,•Sofus Brinckmann,Undirected,1
+Fanny,Fanny-,Undirected,1
+Lord Byron,Manfred,Undirected,2
+Ali Pascha,Lord Byron,Undirected,1
+Ali Pascha,Fanny,Undirected,1
+Fanny,Søren Kierkegaards,Undirected,1
+Aladdin,Søren Kierkegaards,Undirected,1
+Aladdin,Fanny,Undirected,1
+Byron,Kaptejn Frick,Undirected,2
+Byron,Kain,Undirected,1
+Fanny,Kain,Undirected,1
+Fanny,Tenor,Undirected,3
+Fanny,Villie,Undirected,1
+Agathe,Fanny,Undirected,7
+Vismann,celliraad Pramman,Undirected,1
+Fanny,Vismann,Undirected,8
+Agathe,Vismann,Undirected,1
+Fanny,Mille pardonsi,Undirected,1
+Kornelius,Nepos,Undirected,1
+Apolio,Nepos,Undirected,1
+Apolio,Kaptejn Frick,Undirected,1
+,Fanny,Undirected,1
+Vismann,jhan,Undirected,1
+Pramman,Vismann,Undirected,6
+Søren Kierkegaard,Vismann,Undirected,2
+Hr. Kancelliraad,Vismann,Undirected,1
+Dpt,Kancelliraad Pramman,Undirected,1
+Pramman,meris Vismann,Undirected,1
+Vismann,meris Vismann,Undirected,1
+Kronmann,Vismann,Undirected,1
+Kronmann,Søren Kierkegaard,Undirected,2
+Kronmann,Laudabilis,Undirected,1
+Laudabilis,S. Kierkegaard,Undirected,1
+Kancelliraad Pramman,S. Kierkegaard,Undirected,1
+Kancelliraad Pramman,Vismann,Undirected,3
+Frick,Kaptejn,Undirected,3
+Kaptejn,Vismann,Undirected,1
+Frick,Vismann,Undirected,2
+,Vismann,Undirected,1
+Kronrnann,Poul Møllers,Undirected,1
+Poul Møllers,Vismann,Undirected,1
+Kaptejn Frick,Vismann,Undirected,12
+Henrik Ibsen,Søren Kierkegaard,Undirected,1
+Henrik Ibsen,Pramman,Undirected,1
+Carl Ploug,Christian Winther,Undirected,1
+Carl Ploug,Søren Kierkegaard,Undirected,1
+Gud,Vismann,Undirected,2
+Kaptejn Frick,lille Vismann,Undirected,1
+Beate,Dante,Undirected,1
+Peter Greisens,Vismann,Undirected,2
+Brinckmann,Vismann,Undirected,2
+Flan,Vismann,Undirected,2
+Sofus Brinckmann,Vismann,Undirected,1
+Brinckmann,Jeronimus,Undirected,1
+Jeronimus,Vismann,Undirected,1
+Frederik Vismann,Kancelliraad Pramman,Undirected,1
+Heine,S. Kierkegaard,Undirected,1
+Frederik Vismann,S. Kierkegaard,Undirected,1
+Borrings,S. Kierkegaard,Undirected,1
+Galenos,Kancelliraad Pramman,Undirected,1
+Galenos,Vismann,Undirected,1
+Frick,Pramman,Undirected,1
+Frick,Rasmus Nielsen,Undirected,1
+Rasmus Nielsen,Vismann,Undirected,1
+Kierkegaards,Vismann,Undirected,1
+Georg Brandes,Kierkegaards,Undirected,1
+Georg Brandes,Kierkegaard,Undirected,1
+Kierkegaard,stundum,Undirected,1
+lians,stundum,Undirected,1
+Vismann,herte,Undirected,1
+Kaptejn Frick,Sivertsen,Undirected,2
+Fru Fricks,Vismann,Undirected,2
+Gud,Hr. Vismann,Undirected,1
+Gud,Julius,Undirected,4
+Jansen,Julius,Undirected,2
+Hr. Vismann,Julius,Undirected,2
+Frøken Pramman,Gud,Undirected,3
+Gud,véd,Undirected,3
+Kaptejn Frick,haanlo,Undirected,1
+Kaptejnen,haanlo,Undirected,1
+Vismann,sorn,Undirected,1
+Kaptejnen,pharm. Vismann,Undirected,1
+Kaptejn Frick,Kaptejnen,Undirected,1
+Kaptejn Frick,pharm. Vismann,Undirected,2
+Fanny,kjære Pramman,Undirected,1
+Fanny,Frick,Undirected,4
+Brinckmann,Frick,Undirected,2
+Brinckmann,Pramman,Undirected,1
+Fanny,Graad,Undirected,1
+Brinckmann,L’,Undirected,1
+L’,Whist,Undirected,1
+Codille,Whist,Undirected,1
+Kamp,Kaptejn Frick,Undirected,1
+Sofus Brinckmann,Victoria,Undirected,1
+Brinckmann,Fru Kamp,Undirected,1
+Brinckmann,Kancelliraad Pramman,Undirected,2
+Brinckmann,Futteral,Undirected,1
+Kancelliraad Pramman,Kaptejn Frick,Undirected,2
+Kaptejn Frick,jo Brinckmann,Undirected,1
+Kaptejn Frick,Villien,Undirected,2
+Sofus Brinckmann,kate,Undirected,1
+Sofus Brinckmann,hanses,Undirected,1
+Kaptejn Frick,har,Undirected,1
+Flan,Frick,Undirected,1
+Frick,Manfred,Undirected,2
+Fanny Pramman,Frick,Undirected,1
+Alexander den Store,Kaptejn Frjck,Undirected,1
+Brinckmann,Hans,Undirected,1
+Brinckmann,GudFader,Undirected,1
+Brinkmann,Fanny,Undirected,1
+Pramman,lille Fanny,Undirected,1
+Fanny,j,Undirected,1
+Sofus Brinckmann,XVI,Undirected,1
+Fanny,Fro,Undirected,2
+Fanny,Lazarus,Undirected,2
+Fanny,Konstantin den,Undirected,2
+Fanny,Karl,Undirected,1
+Fanny Pramm,Vismann,Undirected,1
+Brinckmann,Fanny Pramm,Undirected,1
+Fanny Brinckmann,Fanny Pramman,Undirected,1
+Sofus Brinckmann,Sørensens,Undirected,1
+Brinckmann,Sørensen,Undirected,6
+Pastor Sørensens,Sørensen,Undirected,1
+Pastor Sørensens,Sofus Brinckmann,Undirected,1
+Pastor Brinckmanns,Sørensen,Undirected,1
+Brinckmann,Jens Knudsen,Undirected,1
+dir nichts,nichts,Undirected,1
+Jens Knudsen,Mads Nielsen,Undirected,2
+Jo,smuaads,Undirected,1
+Frits,Sørensen,Undirected,1
+Frits,Jens Knudsen,Undirected,1
+Chr. Winther,Sofus Brinckmann,Undirected,1
+Kegnbågen,sina strålar,Undirected,1
+Amaryllis,fred bebåda,Undirected,1
+Fannys,Gud,Undirected,1
+Jens Knudsen,Sørensen,Undirected,1
+Fanny,Randlev,Undirected,1
+Randlev,Sørensen,Undirected,4
+Brinckmann,Sorensen,Undirected,1
+Brinckmann,Randlev,Undirected,3
+Gud,Randlev,Undirected,1
+Per Persen,Randlev,Undirected,1
+Brinckmann,Per Persen,Undirected,1
+Brickmann,Per Persen,Undirected,1
+Proprietær Ulkebøl,Randlev,Undirected,1
+Jens,Randlev,Undirected,4
+Randlev,Ulkebøl,Undirected,1
+Randlev,Tonart,Undirected,1
+Chambertin,EulendorlT,Undirected,1
+Eulendorff,EulendorlT,Undirected,1
+Eulendorff,Ulkebøl,Undirected,1
+Greven,Ulkebøl,Undirected,1
+Randlev,Trandunk,Undirected,1
+Jens,Lars Kristensen,Undirected,1
+Jens,Søren,Undirected,1
+Randlcv,lian,Undirected,1
+Jens,kjør,Undirected,1
+Anna,Fanuels,Undirected,1
+Brorsons,Fanuels,Undirected,1
+Brinckmann,Graad,Undirected,1
+Ernest Renan,Fanny,Undirected,2
+Braad,Fanny,Undirected,1
+Braad,Brinckmann,Undirected,1
+Fanny,Kjære,Undirected,1
+JeS,Renan,Undirected,1
+Renan,sine,Undirected,1
+Fanny,Paulus,Undirected,1
+Paulus,zAratos,Undirected,1
+Brinckmann,Erasmus Montanus,Undirected,1
+Erasmus Montanus,Per Degns,Undirected,1
+Per,Per Degns,Undirected,1
+Fanny,Rasmus Mogensen,Undirected,1
+Benedder,Rasmus Mogensen,Undirected,1
+Benedder,Fanny,Undirected,1
+Andrea del Sarto,Fanny,Undirected,1
+Andrea del Sarto,Hellas,Undirected,1
+Kaptejn Frick,Søren Kierkegaard,Undirected,2
+Ernest Renan,Søren Kierkegaard,Undirected,1
+Brinckmann,John Stuart Mills,Undirected,1
+Brinckmann,Ulkebøl,Undirected,2
+Ole Andersen,Ulkebøl,Undirected,1
+Fanny,Ole Andersen,Undirected,2
+Fanny,Sørensen,Undirected,2
+Fanny,Ulkebøl,Undirected,5
+Fanny,sapienii,Undirected,1
+Byron,S. Kierkegaard,Undirected,1
+Kolera,S. Kierkegaard,Undirected,1
+Kolera,Tyfus,Undirected,1
+Krapyls,Tyfus,Undirected,1
+Brinckmann,Krapyls,Undirected,1
+Brinckmann,Karl,Undirected,1
+Hr. Ulkebøl,Kristus,Undirected,1
+Kristus,Levetzow,Undirected,1
+Levetzow,L’,Undirected,1
+L’,Ulkebøl,Undirected,1
+Fanny,véd,Undirected,1
+Fanny,Piccolo,Undirected,1
+Fanny,Kristen Povlsens,Undirected,3
+Kap’,Kristen Povlsens,Undirected,1
+Fanny,Kap’,Undirected,1
+Fanny,Mikkelsdag,Undirected,1
+Jørgen Ni,Kristen Povlsen,Undirected,1
+Mette Marie,Ole Hansens,Undirected,1
+Jakob Persens,Mette Marie,Undirected,1
+Jakob Persens,Peter,Undirected,1
+Mette Marie,Peter,Undirected,1
+Hille,Plasers,Undirected,1
+Fanny,Hille,Undirected,1
+Fanny,Fanny kjønne,Undirected,2
+Fanny,Kronmann,Undirected,1
+Kristen Povlsen,Kronmann,Undirected,1
+Athene,Kristen Povlsen,Undirected,1
+Athene,Gud,Undirected,1
+Panke,Rousseau,Undirected,1
+Kristen Povlsen,Panke,Undirected,1
+casnal breath,saith,Undirected,1
+Fanny,saith,Undirected,1
+Fanny,Flvad,Undirected,1
+Flvad,Gud,Undirected,1
+Renan,Svvinburnes,Undirected,1
+Brinckmann,Brøndslev,Undirected,1
+Brinckmann,Søren Kierkegaardianer,Undirected,1
+Pil vous plait,Vatre bras,Undirected,1
+Pil vous plait,capitainel Fanny,Undirected,1
+Fanny,capitainel Fanny,Undirected,1
+Jean,porteur d'eau de ta Courtille,Undirected,1
+noya de c,porteur d'eau de ta Courtille,Undirected,1
+Tomba mort ivre un beau maiin,noya de c,Undirected,1
+Jean qui pieure,Jean qui rit,Undirected,1
+Hans,lian,Undirected,2
+Kaptejn Frick,Pram,Undirected,1
+Fanny,Kristen Povlsen,Undirected,16
+Fanny,Vorherre,Undirected,2
+Fanny,Martensens,Undirected,2
+Brinckmann,sorn,Undirected,1
+Brandes,Kierkegaard,Undirected,1
+Asthma,TVnders,Undirected,1
+Asthma,Vismann,Undirected,1
+Frick,Kristen Povlsen,Undirected,1
+Kristen Povlsen,Vismann,Undirected,16
+Ulkebøl,Vismann,Undirected,2
+Vismann,itte,Undirected,2
+Fredriksen,Kristen Povlsen,Undirected,1
+Bolbjerg,Vismann,Undirected,1
+Jens Hansen,Vismann,Undirected,2
+Bolberg,Fanny,Undirected,8
+Fanny,Hr. Bolberg,Undirected,1
+Brinckmann,Kristen Povlsen,Undirected,1
+Ulkebøl,Vexler,Undirected,1
+Kristen Povlsen,Vexler,Undirected,1
+Fanny,Hans biede,Undirected,2
+Bolberg,Marv,Undirected,2
+Bolberg,Pramman,Undirected,1
+Gud,hamper,Undirected,1
+Guldberg,Julie Spang,Undirected,1
+Fanny,Guldberg,Undirected,2
+Julie Spang,sine Kristian IV,Undirected,1
+Julie,sine Kristian IV,Undirected,1
+Fanny Brinckmann,Julie,Undirected,1
+Fanny,Julie,Undirected,1
+Gelatine,Lars Kusk,Undirected,1
+Fanny,Gelatine,Undirected,1
+Corfitz,Kaptejn Frick,Undirected,1
+Julius,Skjels,Undirected,1
+Frøken Pramman,lille Frue,Undirected,1
+Julius,lille Frue,Undirected,1
+Goethes,Julius,Undirected,2
+Frøken Pramman,Julius,Undirected,2
+Fanny,Provisor Holbergs,Undirected,1
+Fanny,banqucl,Undirected,1
+Fanny,Kaptejn E,Undirected,1
+Kaptejn E,ricks,Undirected,1
+Bolberg,Marie,Undirected,1
+Gine,Ulkebøl,Undirected,1
+Bolberg,Ulkebøl,Undirected,9
+Ulkebøl,mase,Undirected,1
+Beck,Peter Vilhelm Ulkebøl,Undirected,1
+Pedersen,Ulkebøl,Undirected,1
+Bolberg,Kristen Povlsen,Undirected,8
+Palle Sery,Vismann,Undirected,1
+Kristen Povlsen,Ulkebøl,Undirected,4
+Palle,Trine,Undirected,1
+Kristen Povlsen,hans,Undirected,1
+Holbergs,hans,Undirected,1
+Holbergs,Ulkebøl,Undirected,1
+Kristen Povlsen,mau,Undirected,1
+Kristen Povlsen,Proprietær Ulkebøl,Undirected,1
+Grete,Kristen,Undirected,1
+Pak,Vismann,Undirected,3
+Kristen' Povlsen,Vismann,Undirected,2
+Bolberg,Vismann,Undirected,1
+Trine,Vismann,Undirected,1
+Fanny,Heegaards,Undirected,1
+Fanny,Wagners,Undirected,1
+Sancho Pansas,Wagners,Undirected,1
+Faust,Sancho Pansas,Undirected,1
+Don Quijote,Faust,Undirected,1
+Hr. Illinger,Skomager Nohr,Undirected,1
+Knudsen,Skomager Nohr,Undirected,1
+Illinger,Knudsen,Undirected,1
+Illinger,Nohr,Undirected,3
+Illinger,desse hersens,Undirected,2
+Kristen Povlsen,Pramman,Undirected,1
+Henrik IVdes,Kancelliraad Pramman,Undirected,1
+Fredrik,Gjentlemand,Undirected,1
+Gjentlemand,Kancelliraad Prandtmann,Undirected,1
+Vismann,le fen des bataillons,Undirected,1
+Kristen Povlsen,Pak,Undirected,2
+Fanny,Mademoiselle Masson,Undirected,1
+' Ulquebeule,Monsieur d,Undirected,1
+' Ulquebeule,gentilhomme danois,Undirected,1
+Fløjels,Grevers,Undirected,1
+Grevers,Proprietær Ulkebøl,Undirected,1
+Kristen Povlsen,Provisor Bolberg,Undirected,1
+Bolberg,Provisor Bolberg,Undirected,1
+Rafaels,dan,Undirected,1
+Cæsarers,Rafaels,Undirected,1
+Egernskjold,dito,Undirected,1
+Hr. Ulkebøl,Kancelliraad Pramman,Undirected,1
+Christen Poulsen,Gud,Undirected,1
+Anders Madsens,Christen Poulsen,Undirected,1
+Anders Madsens,Christen,Undirected,1
+Christen,Gud,Undirected,1
+Gud,Ingemands,Undirected,1
+Arijal,Ingemands,Undirected,1
+Arijal,Hartkorn,Undirected,1
+Christen Povlsen,Hartkorn,Undirected,1
+Christen Poulsen,Christen Povlsen,Undirected,1
+Christen Poulsen,Olkebølde,Undirected,2
+Christen Poulsen,Kathrine Poulsen,Undirected,1
+Kristen Povlsen,Sørensen,Undirected,1
+Tys,Vismann,Undirected,1
+Don Juan,Elvira betvang,Undirected,1
+Jade,Vismann,Undirected,1
+Frick,Jade,Undirected,1
+Karl Istes,Vismann,Undirected,1
+Dickens,Karl Istes,Undirected,1
+,Dickens,Undirected,1

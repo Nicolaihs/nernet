@@ -1,0 +1,314 @@
+source,target,type,weight
+H. M.,Kong Frederik den Femtes,Undirected,1
+Christian den,Kong Frederik den Femtes,Undirected,1
+Christian den,lian,Undirected,1
+Hildegard von Eimcke-Asseburg,lian,Undirected,1
+Hildegard von Eimcke-Asseburg,Komtessen,Undirected,1
+Marie-Louise,liun,Undirected,2
+Julie,Marie-Louise,Undirected,1
+Madam Kinckel,Marie-Louise,Undirected,3
+Madam Kinckel,Mamsel,Undirected,1
+Mademoiselle Rosette,Mamsel,Undirected,1
+Mademoiselle Rosette,Marie-Louise,Undirected,1
+Die kleine,Marie-Louise,Undirected,1
+Christine Thorsen,Die kleine,Undirected,1
+Christine Thorsen,Mamsel,Undirected,1
+Mamsel,Marie-Louise,Undirected,7
+Cook,Mamsel Sacy,Undirected,1
+Cook,Madam Kinckel,Undirected,1
+Christian den,Madam Kinckel,Undirected,1
+Christian den,Sophie Magdalene,Undirected,1
+Josias Rantzau,Palle Rosenkrantz,Undirected,1
+Palle Rosenkrantz,Signor Salvatore Fabris,Undirected,1
+Christian den,Signor Salvatore Fabris,Undirected,1
+Christian den,Frederik den,Undirected,1
+Frederik den,Julius Cæsar,Undirected,1
+Julius Cæsar,Schrøder,Undirected,1
+Francaisen,Mamsel Sacy,Undirected,1
+Christine,Francaisen,Undirected,1
+Christine,Mamsellen,Undirected,1
+Christine,Marie-Louise,Undirected,21
+Aakander,Jørgen Hagedorn,Undirected,1
+Aakander,Jørgen,Undirected,1
+Jørgen,Marie-Louise,Undirected,8
+Støren,Wilsters,Undirected,1
+Hagedorn,von,Undirected,1
+Jørgen,saaMarie-Louise,Undirected,1
+Hagedorn,Jørgen,Undirected,6
+Hagedorn,Marie-Louise,Undirected,10
+Marie-Louise,Voscherow,Undirected,2
+Longe,Voscherow,Undirected,1
+Jørgen,Longe,Undirected,1
+Jørgen Hagedorn,Pallask,Undirected,1
+Jørgen,Madam Kinckel,Undirected,2
+Madam Kinckel,Mamsel Sacy,Undirected,2
+Christine,Das,Undirected,1
+Ali,Christine,Undirected,3
+Mamsel Sacy,liun,Undirected,1
+Bonaparte,Mamsel Sacy,Undirected,1
+Bonaparte,Marie-Louise,Undirected,1
+Christine,Mamsel Sacy,Undirected,5
+Christine,Kronprins,Undirected,1
+Bonaparte,Jørgen Hagedorn,Undirected,1
+Hi,Jørgen Hagedorn,Undirected,1
+.Jørgen Hagedorn,Jørgen Hagedorn,Undirected,1
+.Jørgen Hagedorn,Ali,Undirected,1
+Ali,Mamsel,Undirected,1
+Hagedorn,Mamsel,Undirected,2
+Hagedorn,liun,Undirected,1
+Hr. Dose,Madam Kinckel,Undirected,1
+Brava,Guds,Undirected,1
+Guds,Jørgen,Undirected,1
+Marie-Louise,Nachtegall,Undirected,1
+Hagedorn,lian,Undirected,1
+Hagedorn,Seneca,Undirected,2
+Gud,Mullers,Undirected,1
+Christine,Hagedorn,Undirected,4
+H.,H. N.,Undirected,1
+H. N.,M-L.,Undirected,1
+Hagedorn,Voscherow,Undirected,2
+Christine,Voscherow,Undirected,1
+Jørgen Hagedorn,Karl,Undirected,1
+Jørgen Hagedorn,Marie-Louise,Undirected,3
+Jørgen,lian,Undirected,2
+Hansen,mein guter Jurgen,Undirected,1
+Hansen,lille Jurgen,Undirected,1
+liar zweitausend,lille Jurgen,Undirected,1
+Meldorff,liar zweitausend,Undirected,1
+Berg,Meldorff,Undirected,1
+Berg,Tabak werth,Undirected,1
+lille Jurgen,von Teckenburg,Undirected,1
+Hagedorn,lille Jurgen,Undirected,1
+Donnerwetter,Drei,Undirected,1
+Madam Kinckel,Schnell,Undirected,1
+Schnell,schnell,Undirected,1
+Hagedorn,Jawohl,Undirected,1
+Gud,v. Muller,Undirected,1
+Kurtz,Major v.,Undirected,1
+Hammerberg,Major v. Kurtz,Undirected,1
+Samuel,lian,Undirected,2
+Madam Kinckel,Samuel,Undirected,3
+Jørgen,Jørgen Hagedorn,Undirected,5
+Das,Hagedorn,Undirected,1
+Adjutant von,Korporal Hagedorn,Undirected,1
+Hagedorn,Korporal Hagedorn,Undirected,1
+Voscherow,strunk,Undirected,1
+Aurelia v.,Eberhard,Undirected,1
+Eberhard,Lieutenant v.,Undirected,1
+Kopperhart,Lieutenant v.,Undirected,1
+Magdalene v.,Osten,Undirected,1
+Cappelmann,Christine,Undirected,1
+Marie-Louise,v Pahlen,Undirected,2
+Das,mein,Undirected,1
+Fräulein,mein,Undirected,1
+Festung,Fräulein,Undirected,1
+Hagen,v Hatten,Undirected,1
+Hagen,Hr. v. Muller,Undirected,1
+Cappelmann,Hr. v. Muller,Undirected,1
+Mamsel,Marie Louise,Undirected,1
+Cappelmann,Kong Christian den Syvende,Undirected,1
+Cappelmann,Hr. v Cappelmann,Undirected,1
+Jørgen Hagedorn,Mamsel,Undirected,1
+Halling,Mamsel,Undirected,1
+Halling,Mamsel Sacy,Undirected,1
+Christine,Madam Kinckel,Undirected,4
+Christine,Karl,Undirected,1
+Jørgen,Voscherow,Undirected,4
+Hundertmal,von Rantzau,Undirected,1
+Hundertmal,Schwager,Undirected,1
+Schwager,Spitzen,Undirected,1
+Axel,Mamselle,Undirected,1
+Axel,Jørgen,Undirected,1
+Bjørn,Jørgen,Undirected,1
+Bjørn,mittels,Undirected,1
+mittels,vipti,Undirected,1
+Marie Louise,Voscherow,Undirected,1
+Hagedorn,Papa,Undirected,1
+Freilich,freilich,Undirected,1
+Madam Glass,v. Kurtz,Undirected,1
+Mamsel Sacy,v. Kurtz,Undirected,1
+Christine,Halling,Undirected,1
+Jørgen,Louises,Undirected,1
+MarieLouise,livor,Undirected,1
+Gott bewahr,Gud,Undirected,1
+Gott bewahr,Marie-Louise,Undirected,1
+Marie-Louise,maalte Hagedorn,Undirected,2
+Gesell,Leberhaus,Undirected,1
+Gesell,Jens Legaard,Undirected,1
+Klicker,Schusteren,Undirected,1
+Schmit,Schusteren,Undirected,1
+Al. L.,J.,Undirected,1
+Carl,Marie-Louise,Undirected,1
+Mamsel,liam,Undirected,1
+liam,lian,Undirected,1
+Marie-Louise,lian,Undirected,2
+Monsieur Hagedorn,liun,Undirected,1
+Ali,Jørgen,Undirected,4
+Ali,Voscherow,Undirected,1
+Jørgen,flau,Undirected,1
+Ali,flau,Undirected,1
+Christine,liun,Undirected,1
+Hagedorn,Hagerups,Undirected,1
+Christine,Hagerups,Undirected,1
+Christine,Mamsel,Undirected,2
+Mamsel,Schillers,Undirected,1
+Marie-Louise,Schillers,Undirected,1
+Marie-Louise,Tovet,Undirected,2
+Hagedorn,dein,Undirected,1
+Christine,Gud,Undirected,1
+Baron,Hagedorn,Undirected,1
+Christine,Jørgen,Undirected,2
+Mamsel Sacy,Marie-Louise,Undirected,1
+Jørgen Hagedorn,Mamsel Sacy,Undirected,1
+Christine,Jørgen Hagedorn,Undirected,1
+Christine,lian,Undirected,1
+Ali,Marie-Louise,Undirected,3
+Ali,Mamsel Sacy,Undirected,1
+Karlen,Marie-Louise,Undirected,2
+Jørgen Hagedorn,a-arche,Undirected,1
+Madam Kinckel,v,Undirected,1
+Frederik den,Madam Kinckel,Undirected,1
+snøvle,v Frese,Undirected,1
+Frese,snøvle,Undirected,1
+Frese,v Kurtz,Undirected,1
+Hr. v Frese,Seidlitz,Undirected,1
+Livius,Seidlitz,Undirected,1
+Hr. v Frese,Livius,Undirected,1
+Heggum,Hr. v Frese,Undirected,1
+Heggum,Karlen,Undirected,1
+Bruder,Frese,Undirected,1
+Cato,Sokrates,Undirected,1
+Gud,Jørgen,Undirected,1
+Jørgen,Mamsel Sacy,Undirected,1
+Mamsel,mili,Undirected,1
+Marie-Louise,Taflets,Undirected,1
+Christine,Taflets,Undirected,1
+Hind,Mamsel,Undirected,1
+Mademoiselle Sacy,Marie-Louise,Undirected,2
+Gud,Madam Kinckel,Undirected,1
+Amalie,Frøken von,Undirected,1
+Hagedorn,Lieutenant v Cappelmann,Undirected,1
+Marie-Louise,Sacy,Undirected,1
+Christine,Sacy,Undirected,1
+Eimcke,Hugo Treugott,Undirected,1
+Eimcke,Marie-Louise,Undirected,6
+Hr. v Eimcke,Marie-Louise,Undirected,4
+Hr. v Eimcke,Manisel,Undirected,1
+Ali,veren,Undirected,1
+Louise,Madam Kinckel,Undirected,1
+Hagedorn,Hr. v Eimcke,Undirected,1
+Hagedorn,Mamsel Sacy,Undirected,2
+Jørgen,v Eimcke,Undirected,1
+Lieutenanten,v Eimcke,Undirected,1
+Lieutenanten,Madam Kinckel,Undirected,1
+Arne,E.,Undirected,1
+E.,Marie-Louise,Undirected,1
+Hr. v Eimcke,Jørgen,Undirected,1
+Jørgen,liam,Undirected,1
+Hagedorn,Madam Kinckel,Undirected,1
+Hagedorn,Sacy,Undirected,1
+Jørgen Hagedorn,Plan,Undirected,1
+Hagedorn,Jørgen Hagedorn,Undirected,1
+Das,Jørgen,Undirected,1
+Eimcke,Hr. v,Undirected,1
+Eimcke,Slengeriks,Undirected,1
+Jørgen,Korporal Schmidt,Undirected,1
+Jørgen Hagedorn,Voscherow,Undirected,1
+Voscherow,sei vorsichtig,Undirected,1
+Thorsen,mariage,Undirected,1
+Christine Thorsen,Jørgen Hagedorn,Undirected,1
+Christine Thorsen,Marie-Louise,Undirected,1
+Johanne,Madame Ottesen,Undirected,1
+Franco,Jacob,Undirected,1
+Krabbe,Lieutn,Undirected,1
+Krabbe,Sponeck,Undirected,1
+Meyer,Sponeck,Undirected,1
+Meyer,Wosemose,Undirected,1
+Lieut,Wosemose,Undirected,1
+Krabbe,Lieut,Undirected,1
+Johanne,Ottesens,Undirected,1
+Franko,Johanne,Undirected,1
+Ottesen,Pljelms,Undirected,1
+Ammitzbølls,Thee,Undirected,1
+Nissen,v. N.,Undirected,1
+Jacob,v. N.,Undirected,1
+Hr. v,R.,Undirected,3
+Mdme Ottesen,R.,Undirected,1
+Jacob,Mdme Ottesen,Undirected,1
+Ottesen,R.,Undirected,1
+Hr. v,Ottesen,Undirected,2
+Hr. v R.,Kanefart,Undirected,1
+Hr. v R.,Jacob,Undirected,1
+R.,Thuerecht,Undirected,1
+Hjelms,Thuerecht,Undirected,1
+Gud,Hjelms,Undirected,1
+Ammitzbølls,Mutterspach,Undirected,1
+Madame Ottesen,Mutterspach,Undirected,1
+Louise v.,v. R.,Undirected,1
+v R.,v. R.,Undirected,1
+R.,v R.,Undirected,1
+Hr. v R.,R.,Undirected,1
+Hr. Ritmesteren,Hr. v R.,Undirected,2
+Hr. v R.,Hr. v R.’s,Undirected,1
+Hr. Ritmester,Hr. v R.’s,Undirected,1
+Hr. Ritmester,v R.,Undirected,1
+Major v C.’s,v R.,Undirected,1
+Major v C.’s,Querelle,Undirected,1
+Palladsk,Querelle,Undirected,1
+Dhrr,Palladsk,Undirected,1
+R.,hyppi-gen,Undirected,1
+Jacob,hyppi-gen,Undirected,1
+Jacob,Louise,Undirected,1
+Johanne,Stiftamtman den,Undirected,1
+Jacob,Officeeres,Undirected,2
+Louise,R.,Undirected,1
+Louise,v. R.,Undirected,1
+v R. Satisfaction,v. R.,Undirected,1
+Frederik Wilhelm Thuerecht von R.,Louise Augusta von A.,Undirected,1
+Geert von S.,Louise Augusta von A.,Undirected,1
+Jæ,Karl,Undirected,1
+Hansen,Juul,Undirected,1
+Jæ,jæ,Undirected,2
+Samsons,hans Slof,Undirected,1
+anner,noer jen grawer e’ Graw,Undirected,1
+Karl,Sofus,Undirected,1
+hoyne,ørfeldt,Undirected,1
+jæ,ørfeldt,Undirected,1
+Slagter,Strunck,Undirected,1
+Gud,Sofus,Undirected,1
+Flan,Jomfru,Undirected,1
+Kristen,alli,Undirected,1
+Lars Sørensens,Per Nielsen,Undirected,1
+Godau,Lars Sørensens,Undirected,1
+Godau,godau,Undirected,1
+godau,lian,Undirected,1
+Lars Christensens,livor,Undirected,1
+Jens Jensen,Lars Christensen,Undirected,1
+Jens,Jens Jensen,Undirected,1
+s Christensens,vos,Undirected,1
+Jens,Jæ,Undirected,1
+alis,jag,Undirected,1
+Karin,jag,Undirected,1
+korna,mjölka,Undirected,1
+Aaget,lille Jøns,Undirected,1
+Jens,Karin,Undirected,2
+karlek,skola,Undirected,1
+Jens,jæ,Undirected,1
+Jens skjalv,lian,Undirected,1
+Karen,Karin,Undirected,1
+Jens,Karen,Undirected,1
+Drost Peder Hessel,Emma,Undirected,1
+Drost Peder Hessel,Rochester,Undirected,1
+Annette,Lieutenanten,Undirected,2
+Annette,Didriksen,Undirected,1
+Bella,Lars,Undirected,2
+Lars,Vilhelm,Undirected,1
+Bella,Krogh,Undirected,1
+Kjærs,Krogh,Undirected,1
+Elisabeth,Kjærs,Undirected,1
+Elisabeth,Kjær,Undirected,3
+Kjær,Krogh,Undirected,1
+Elisabeth,Krogh,Undirected,1
+Bella,Elisabeth,Undirected,1
+Annette,lian,Undirected,1
+Annette,liun,Undirected,1

@@ -1,0 +1,133 @@
+source,target,type,weight
+Jakob,Titus,Undirected,24
+Guds,sem,Undirected,1
+Graad,Titus,Undirected,3
+Andanten,Fiskers,Undirected,1
+Aron,Moses,Undirected,1
+Oehlenschlagers,Rosamunde,Undirected,1
+Chr. Winthers,Oehlenschlagers,Undirected,1
+Bravo,Jakob,Undirected,1
+Amanda,Taa,Undirected,1
+Amanda,Jakob,Undirected,4
+Jakob,dacapo,Undirected,1
+Amanda,Titus,Undirected,1
+Rosamunde,Titus,Undirected,1
+Adam,Rosamunde,Undirected,1
+Adam,Jakob,Undirected,1
+Adam,Titus,Undirected,1
+Jakob,Peter,Undirected,1
+Paul,Peter,Undirected,1
+Brynde,Paul,Undirected,1
+Haime,Josefa,Undirected,1
+Josefa,ogJosefa,Undirected,1
+Magnetpetersen,ogJosefa,Undirected,1
+Jakob,Josefa Ravens,Undirected,1
+Jakob,Madam Trane,Undirected,1
+Rudolf,Sparre,Undirected,1
+Madigan,Sparre,Undirected,1
+Josefa,Trane,Undirected,3
+Jakob,Nanna,Undirected,2
+Jakob,lille Josefa,Undirected,1
+Jakob,Trane,Undirected,1
+Titus,Traneben,Undirected,1
+Frans,Nanna,Undirected,1
+Amanda,Johanne,Undirected,1
+Johanne,Mary,Undirected,1
+Nanna,Trane,Undirected,2
+Amanda,Nanna,Undirected,1
+Amanda,Rosamunde,Undirected,1
+Amru,Titus,Undirected,1
+Karle,Pennes,Undirected,1
+Karle,M. Terentius Varro,Undirected,1
+Jakob,Josefa,Undirected,1
+Holger,Lohengrins,Undirected,1
+Holger,TitCls,Undirected,1
+Holger,Titus,Undirected,5
+Holger,Wagner,Undirected,2
+Gral,Lohengrin,Undirected,1
+Holger,Marie,Undirected,1
+Don Juan,Holger,Undirected,1
+Munks,Titus,Undirected,1
+Munk,Titus,Undirected,12
+Giottos,Signorellis,Undirected,1
+Degas,Giottos,Undirected,1
+Degas,Eyck,Undirected,1
+Kalla,Paula,Undirected,1
+Munk,Paula,Undirected,5
+Hera,Titus,Undirected,1
+Allori,Paula,Undirected,1
+Allori,Judith,Undirected,1
+Holofemes,Judith,Undirected,1
+Paula,Titus,Undirected,2
+Don,luli,Undirected,1
+Munk,Ormen,Undirected,1
+Lin de vangssko,Munk,Undirected,1
+Durer,Holbein,Undirected,1
+Eurydike,Titus,Undirected,1
+Hades,Orpheus,Undirected,1
+Eurydike,Hades,Undirected,1
+Eurydike,Hermes,Undirected,1
+Doras,Eurydike,Undirected,1
+Dora,Munk,Undirected,11
+Dora,Titus,Undirected,31
+Molle,Munk,Undirected,1
+Dora,Molle,Undirected,4
+Molle,Tante Rosalie,Undirected,1
+Rosalie,Titus,Undirected,5
+Munk,Rosalie,Undirected,8
+Dora,Rubens,Undirected,1
+Rubens,v. Dycks,Undirected,1
+Rosalie,v. Dycks,Undirected,1
+Rosalie,grazia a dio,Undirected,1
+Napoleons,Pauline,Undirected,1
+Dora,Rosalie,Undirected,13
+Dora,Maria,Undirected,1
+Gud,lille Dora,Undirected,1
+Gud,Tante,Undirected,1
+Molle,Rosalie,Undirected,2
+Gungren,Munk,Undirected,1
+Gungren,Paula,Undirected,1
+Mona Lisa,Titus,Undirected,3
+Dora,Mona Lisa,Undirected,3
+Lange,Madam,Undirected,1
+Saulus,Titus,Undirected,2
+Kopar,Titus,Undirected,1
+Orion,Titus,Undirected,1
+Abraham,Isak,Undirected,1
+Isak,Jakob,Undirected,1
+Gud,Jakob,Undirected,1
+Amazone,Titus,Undirected,1
+Madam Lange,Titus,Undirected,2
+Hare,Madam Lange,Undirected,1
+Dora,Lionardos,Undirected,1
+Dora,Mona,Undirected,1
+Lisa,Mona,Undirected,1
+Gud,Titus,Undirected,2
+Gud,Rosalie,Undirected,1
+Mol,Molle,Undirected,1
+Dora,Herr Munk,Undirected,1
+Eurydike,Munk,Undirected,2
+Dora,Paula,Undirected,1
+Jesus,Sokrates,Undirected,1
+Jesus,Laotse,Undirected,1
+Eurydike,Rosalie,Undirected,1
+Dora,Graad,Undirected,1
+Jakob Trane,Titus,Undirected,2
+Jakob Trane,Josefa,Undirected,1
+Josefa,Titus,Undirected,5
+Josefa,Nanna,Undirected,1
+Madam Trane,Nanna,Undirected,2
+Madam Trane,Mary,Undirected,1
+Mary,Rallike,Undirected,1
+Albertine,lille Basse,Undirected,1
+Billardballers,Titus,Undirected,2
+Lille Guds,Titus,Undirected,2
+Henningsens,Tirus,Undirected,1
+Giggens,Jakob Trane,Undirected,1
+Sørensen,Titus,Undirected,2
+Mikkelsen,Volter,Undirected,1
+Mikkelsen,j,Undirected,1
+Buffons,Titus,Undirected,1
+Sokrates,lille Titus,Undirected,1
+Sokrates,Spinoza,Undirected,1
+Spinoza,j,Undirected,1

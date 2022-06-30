@@ -1,0 +1,1372 @@
+source,target,type,weight
+Robert den Friser,Winendale,Undirected,1
+L Faderens,Winendale,Undirected,1
+L Faderens,Robert,Undirected,1
+Olaf Svendsen,Robert,Undirected,1
+Kong Knnds,Olaf Svendsen,Undirected,1
+Kong Knnds,Robert,Undirected,1
+Olaf,Robert,Undirected,2
+Guds,Olaf,Undirected,1
+Farrgeu,Olaf,Undirected,1
+Farrgeu,harr rretop,Undirected,1
+Harr,harr rretop,Undirected,1
+Harr,Svend Estridserrs,Undirected,1
+Svend Estridserrs,derr,Undirected,1
+derr,harr,Undirected,1
+Berreue,harr,Undirected,1
+Berreue,Harr,Undirected,1
+Knnd,Olas,Undirected,2
+Knnd,Olaf,Undirected,6
+Olaf,hans Ohne,Undirected,1
+Olas Assked,hans Ohne,Undirected,1
+. Knnd,Vilhelm,Undirected,1
+Jarlen,Knnd,Undirected,1
+Knnd,Kong Vilhelms,Undirected,2
+Erik,Olaf,Undirected,22
+Erik,Knud,Undirected,9
+Olaf,Svend Estridsens,Undirected,1
+Olaf,Tu,Undirected,2
+Olaf,Olaf Jarl,Undirected,2
+Inger,Olaf Jarl,Undirected,1
+Inger,Olaf Kyrre,Undirected,1
+Adils,Kuud,Undirected,1
+Adils,Rolf,Undirected,1
+Asten,Robert,Undirected,1
+Krønniter,Robert,Undirected,2
+Knnd den Helliges,Robert,Undirected,1
+Dronning Edele,Knnd den Helliges,Undirected,1
+Dronning Edele,søre Knnds,Undirected,1
+Knnd,Svend Trundseu,Undirected,1
+Astrad,Svend Trundseu,Undirected,1
+Astrad,Torgunnæ,Undirected,1
+Carl,Torgunnæ,Undirected,1
+Carl,Edele,Undirected,1
+Edele,Svend,Undirected,2
+Astrad,Svend,Undirected,15
+Erik Jarl,Svend Estridsen,Undirected,2
+Knud,Svend Estridsen,Undirected,2
+Harald,Knud,Undirected,4
+Harald,Olaf,Undirected,2
+Knud,Olaf,Undirected,14
+Olaf,son,Undirected,3
+Astrad,Kong Knud,Undirected,1
+Kong Knud,dein,Undirected,1
+Olaf,dein,Undirected,1
+Jarlen,Robert,Undirected,1
+Jarlen,Svend Estridsen,Undirected,1
+Niels,Svend Estridsen,Undirected,1
+Niels,Olaf,Undirected,6
+Edele,Niels,Undirected,1
+Niels,red Drouniug,Undirected,1
+Edele,red Drouniug,Undirected,1
+Edele,Robert,Undirected,2
+Robert,heudes,Undirected,1
+Hnn,heudes,Undirected,1
+Hnn,sir,Undirected,1
+heudes,sir,Undirected,1
+Knud,heudes,Undirected,1
+Knud,Niels Svendsen,Undirected,1
+Niels Svendsen,Robert,Undirected,1
+Knnd,son,Undirected,1
+Greven,Prinds Niels,Undirected,1
+Olaf Jarl,Trouniugeu,Undirected,1
+Niels,Trouniugeu,Undirected,1
+Carl Knudsen,Hesfeue,Undirected,1
+Knud,Kong Knud,Undirected,1
+Greven,Svend,Undirected,1
+Bjørn,Ubbe,Undirected,1
+Tanmarks,Ubbe,Undirected,1
+Kong Knnds,Tanmarks,Undirected,1
+Kong Knnds,Olaf,Undirected,1
+Jarl,Olaf,Undirected,3
+Erik Jarl,Svend,Undirected,2
+Erik Jarl,Olaf,Undirected,4
+Carl Knudsen,Svend Estridsen,Undirected,1
+Carl Knudsen,Kong Haratd,Undirected,1
+Kong Kund,Svend Trundfen,Undirected,1
+Greven,Olaf Jarl,Undirected,1
+Jarl,Svend Trundsen,Undirected,1
+Niels,Robert,Undirected,2
+Astrad,Winendale,Undirected,1
+Svend Trundsen,Winendale,Undirected,1
+Kong Knud,Svend Trundsen,Undirected,2
+Kong Knud,hau,Undirected,1
+Jnga,hau,Undirected,1
+Jnga,Svend Trundsen,Undirected,1
+Svend Trundsen,Trund Fagerskind,Undirected,1
+Torgunnas,Trund Fagerskind,Undirected,1
+Svend Estridsen,Torgunnas,Undirected,1
+Sigrid,Svend Estridsen,Undirected,1
+Gotskalk,Sigrid,Undirected,2
+Gotskalk,Svend,Undirected,2
+Svend,Torgnnna,Undirected,1
+Astrad Svendsen,Svend,Undirected,1
+Astrad Svendsen,Niels,Undirected,1
+Astrad,Niels,Undirected,2
+Astrad,Olaf,Undirected,2
+Jarler,Svend,Undirected,1
+Niels,Svend,Undirected,3
+Bue Vagnsen,Svend,Undirected,1
+Bue Vagnsen,Sigvald Jarl,Undirected,1
+Gyrd Jarl,Sigvald Jarl,Undirected,1
+Gyrd Jarl,Knud den,Undirected,1
+Gyrds,Knud den,Undirected,1
+Gyrds,Vagn,Undirected,1
+Bue,Vagn,Undirected,1
+Olaf Jarl,Robert,Undirected,1
+Olaf Jarl,Svend Trundsen,Undirected,1
+Kong Knud,Robert,Undirected,1
+Greven,Robert,Undirected,1
+Greven,Kong Knud,Undirected,1
+Kuud,Olaf,Undirected,1
+Benedikt,Olaf,Undirected,2
+Benedikt,Knnd,Undirected,1
+Olaf,Svend Trundsen,Undirected,5
+Svend Trundsen,Torgunnæ,Undirected,1
+Torgunnæ,fal,Undirected,1
+Robert,Svend,Undirected,4
+Jarl,Svend,Undirected,1
+Jarl,Svend Estridsen,Undirected,1
+Svend Estridsen,gammell,Undirected,1
+Jarlen,Olaf,Undirected,2
+Bjørn,Svend Estridsen,Undirected,1
+Bjørn,Knud,Undirected,3
+Bjørn,Olaf,Undirected,5
+Bjørn,Bjørn Svendsen,Undirected,1
+Jarlen,eu,Undirected,1
+Svend,eu,Undirected,1
+Bjørn,Svend,Undirected,2
+Bjørn,Jarl,Undirected,6
+Jomfrn,Svend,Undirected,1
+Jesper,Svend,Undirected,1
+Jarlen,Svend,Undirected,6
+Henrik Gotskalksen,Jarlen,Undirected,2
+Bjørn,Henrik,Undirected,6
+Knud,Kruto,Undirected,1
+Kruto,Olaf,Undirected,2
+Kruto,Magnus,Undirected,1
+Henrik,Vermund,Undirected,1
+Guds,Vermund,Undirected,1
+Erkebisp Liemar,Klerke,Undirected,1
+Bjørn,Erkebisp Liemar,Undirected,1
+Henrik,Kong Knud,Undirected,1
+Bjørn,Zeerneboch,Undirected,1
+Zeerneboch,hiin,Undirected,1
+Klerke,hiin,Undirected,1
+Bjørn,son,Undirected,1
+Bjørn Svendsen,Svend,Undirected,1
+Henrik,Olaf,Undirected,3
+Henrik,Jarl,Undirected,3
+Olaf,Ollet,Undirected,1
+Bjørn,Olaf Jarl,Undirected,1
+Henrik,Svend,Undirected,6
+Kong Knud,Svend,Undirected,2
+Kong Knud,Olaf,Undirected,3
+Guds,Svend,Undirected,1
+Kongsgaarden,Svend,Undirected,1
+Benedikt,Knud,Undirected,10
+Erik,Svend,Undirected,6
+Jrg,Svend,Undirected,1
+Erik,Jrg,Undirected,1
+Bjørn,Erik,Undirected,4
+Benedikt,Henrik Gotskalksen,Undirected,1
+Benedikt,Erik,Undirected,1
+Olaf,hnn,Undirected,1
+Henrik Gotskalksen,Olaf Jarl,Undirected,1
+Henrik,Jarlen,Undirected,5
+Almueu,Lybbes,Undirected,1
+Henrik,Uto Mistiwois,Undirected,1
+Gotskalk,Uto Mistiwois,Undirected,1
+Gotskalk,Uto,Undirected,2
+Bernhard,Gotskalk,Undirected,1
+Bernhard,Ratibor,Undirected,1
+Knud,Ratibor,Undirected,1
+Magnus,Sigrid,Undirected,1
+Harald,Harald Haarderaade,Undirected,1
+Harald,Vilhelm Normanner,Undirected,1
+Vilhelm Normanner,Wagrer,Undirected,1
+Wagrer,Warner,Undirected,1
+Blnsso,Warner,Undirected,1
+Blnsso,Ebbe,Undirected,1
+Ansverus,Ebbe,Undirected,1
+Bothild,Johannes,Undirected,1
+Johannes,Kristus,Undirected,1
+Kristus,Olaf,Undirected,1
+Blusso,Olaf,Undirected,1
+Blusso,Kruto,Undirected,1
+Sigrid,Trnnd Fagerskinds,Undirected,1
+Bothild,Trund,Undirected,1
+Ejnar Tambeskjælver,Erik,Undirected,1
+Ejnar Tambeskjælver,Svend,Undirected,1
+Henrik Gotskalksen,Olaf,Undirected,1
+Henrik Gotskalksen,Svantibor,Undirected,2
+Kruto,Svantibor,Undirected,3
+Bue Vagnseu,Svend Trundsen,Undirected,1
+Bue Vagnseu,Henrik,Undirected,1
+Bue,Svend,Undirected,5
+Sigvald Jarl,Sigvalds,Undirected,1
+Sigvalds,Vagn,Undirected,1
+Henrik,Vagn,Undirected,1
+Bothild,Henrik,Undirected,15
+Bothild,Buthue,Undirected,1
+Buthue,Vagn Gyrdsen,Undirected,1
+Svend,Vagn,Undirected,1
+Gyrd,Svend,Undirected,1
+Gyrd,Stordaad,Undirected,1
+Kong Knud,Stordaad,Undirected,1
+Bue,Kong Knud,Undirected,1
+Bue,Sigrid,Undirected,1
+Bothild,Sigrid,Undirected,3
+Bothild,Jom,Undirected,3
+Bue,Jom,Undirected,5
+Bue Vaguseu,Heurik Gotskalksens,Undirected,1
+Bue Vagnsen,Fyrst Svantibor,Undirected,1
+Benden,Valdemar,Undirected,1
+Knud den,Ulf Jarl,Undirected,1
+Knud den,Svend Estridsen,Undirected,1
+Otto,Svend Estridsen,Undirected,1
+Bambergs,Otto,Undirected,1
+Pribislav,Svantibor,Undirected,10
+Bue,Henrik Gotskalksen,Undirected,5
+Henrik Gotskalksen,Styrbjørn,Undirected,1
+Styrbjørn,Thorvald,Undirected,1
+Otmar,Svend,Undirected,1
+Styrbjørn,Svantibor,Undirected,1
+Derr,Svantibor,Undirected,1
+Duns,Svantibor,Undirected,1
+Bue,Duns,Undirected,1
+Gyrd,Vagn,Undirected,6
+Gyrd,Svantibor,Undirected,1
+Jom,Svantibor,Undirected,1
+Bue,Henrik,Undirected,11
+Bue,Vagusen,Undirected,2
+Bue,Fyrsf Svantibor,Undirected,1
+Fyrsf Svantibor,Pribislav,Undirected,1
+Bue,tang,Undirected,2
+Svantibor,tang,Undirected,1
+Knud,Te,Undirected,1
+Gotskalk,Te,Undirected,1
+Gotskalk,Wagrer,Undirected,2
+Gotskalk,Kong Olaf,Undirected,1
+Kong Knud,Kong Olaf,Undirected,2
+Svantibor,Tribusees,Undirected,2
+Henrik,Henrik Gotskalksen,Undirected,2
+Ester,Henrik,Undirected,1
+Gotskalk,Svantibor,Undirected,1
+Olaf,Svantibor,Undirected,1
+Bue,Svantibor,Undirected,6
+Kong Olaf,Kruto,Undirected,3
+Henrik Gotskalksen,Pribislav,Undirected,1
+Henrik,Svantibor,Undirected,15
+Pribislav,Slava,Undirected,1
+Siva,Slava,Undirected,1
+Pribislav,Svantibor snigmyrde,Undirected,1
+Ten,paany,Undirected,1
+Bue,Tauffe,Undirected,1
+Esther,Henrik Gotskalksen,Undirected,1
+Bue,Esther,Undirected,1
+Bue,Roes,Undirected,1
+Henrik,Roes,Undirected,1
+Pribislav,son,Undirected,1
+Svantibor,son,Undirected,1
+Henrik Gotfkalksen,ban,Undirected,1
+Henrik Gotfkalksen,Kruto,Undirected,1
+Bue,Preba,Undirected,23
+Styrbjørn,Thor,Undirected,1
+Preba,Styrbjørn,Undirected,1
+Bue,Hesfene,Undirected,1
+Nen Wollin,Wolliu,Undirected,1
+Vagn Gyrdsen,Wolliu,Undirected,1
+Henrik Gotskalkseus,Sigrid,Undirected,1
+Gotskalk,Trund Fagerskind,Undirected,1
+Svend Estridsen,Trund Fagerskind,Undirected,1
+Bothild,Svend Estridsen,Undirected,1
+Bothild,hnn,Undirected,1
+Symbylla,hnn,Undirected,1
+Bothild,Symbylla,Undirected,2
+Gutha,Symbylla,Undirected,1
+Gutha,Vagn Gyrdsen,Undirected,1
+Sigrid,Vagn Gyrdsen,Undirected,1
+Sigrid,son,Undirected,1
+Slavina,Svantibor,Undirected,7
+Jom,Slavina,Undirected,1
+Bothild,Gyrd,Undirected,1
+Gyrd,Thora,Undirected,5
+Gyrd,Vagnsen,Undirected,1
+Thora,Vagnsen,Undirected,1
+Bothild,Slavina,Undirected,8
+Slavina,nian,Undirected,1
+Bothild,nian,Undirected,1
+Gyrd,Slavina,Undirected,1
+Gyrd,son,Undirected,1
+djerv,son,Undirected,1
+Gutha,djerv,Undirected,1
+Gutha,Vagn,Undirected,1
+Gutha,Thora,Undirected,3
+Preba,son,Undirected,3
+Bue,son,Undirected,4
+Bue,Gutha,Undirected,4
+Bue,Thora,Undirected,4
+Slavina,Zeerneboch,Undirected,2
+Slavina,Thora,Undirected,1
+Sigrid,Slavina,Undirected,3
+Sigrid,Svantibor,Undirected,2
+Henrik,Preba,Undirected,16
+Henrik roser,Slavina,Undirected,1
+Gyrd,Tu,Undirected,1
+Bue,Sigvald Jarl,Undirected,2
+Gutha,Slavina,Undirected,1
+Slavina skoggerlo,Thora,Undirected,1
+Gutha,Gyrd,Undirected,1
+Svend,Ter,Undirected,1
+Fyrst Svantibor,Svend,Undirected,1
+Gutha,Stegers,Undirected,1
+Stegers,Thora,Undirected,1
+Henrik Gotskalksen,Slavina,Undirected,3
+Henrik,Slavina,Undirected,36
+Kruto,Slavina,Undirected,17
+Henrik,Kruto,Undirected,21
+Svend Esfridseus,store Knuds,Undirected,1
+Palnatokes,Svend Esfridseus,Undirected,1
+Dn,Wendens,Undirected,1
+Dn,Tu,Undirected,1
+Gyrd,Henrik Gotskalksen,Undirected,1
+Henrik,Panlus,Undirected,1
+Fyrst Svantibor,Vagn,Undirected,1
+Gyrd Sigvaldsen,Vagn,Undirected,1
+Gyrd Sigvaldsen,Henrik,Undirected,1
+Bothild,Lueblik,Undirected,1
+Henrik,Lueblik,Undirected,1
+Nje,Svantibor,Undirected,1
+Preba,Pribislav,Undirected,2
+Preba,Svantibor,Undirected,1
+Preba,Slavina,Undirected,12
+Svantibor,Vagn Gyrdsen,Undirected,1
+Bothild,Vagn Gyrdsen,Undirected,1
+Henrik,eu Dag,Undirected,1
+Best,Henrik,Undirected,1
+Henrik,offre,Undirected,2
+Bothild,Svantibor,Undirected,10
+Bothild,Gud,Undirected,1
+Bothild,dei,Undirected,1
+Gutha,Sigrid,Undirected,1
+Gutha,Svantibor,Undirected,1
+Dn,Sigrid,Undirected,1
+Bothild,Dn,Undirected,4
+Bothild,fhi,Undirected,1
+Henrik,fhi,Undirected,1
+Sigrid,Svend,Undirected,1
+Henrik,Sigrid,Undirected,2
+Slavina,sfor,Undirected,1
+Dn,Henrik,Undirected,1
+Kristus,Siva,Undirected,1
+Belbag,Kristus,Undirected,1
+Belbag,Zcerneboch,Undirected,1
+Henrik,Svanfibor,Undirected,1
+Bothild,Svanfibor,Undirected,1
+Svanfibor,berøvede,Undirected,1
+Preba,Thora,Undirected,3
+Gutha,Preba,Undirected,3
+Preba,Trælle,Undirected,1
+Gutha,Trælle,Undirected,1
+Preba,sigrid nmatte,Undirected,1
+Bothild,sigrid nmatte,Undirected,1
+Paulus,Preba,Undirected,5
+Bothild,Preba,Undirected,5
+Henrik,inat Fyrst Gotskalk,Undirected,2
+Panlus,Preba,Undirected,2
+Jomfru Bothild,Paulus,Undirected,1
+Hyrdences,Preba,Undirected,1
+Bothild,Hyrdences,Undirected,1
+Bothild,Hnn,Undirected,2
+Hnn,Paulus,Undirected,1
+Paulus,Svantibor,Undirected,1
+Bothild,Paulus,Undirected,2
+Jomfru Bothild,Preba,Undirected,1
+Panlus,son,Undirected,1
+Panlus,Tu,Undirected,1
+Glen,Tu,Undirected,1
+Bothilde,Slavina,Undirected,1
+Oen,Slavina,Undirected,1
+Slavina,Vagu,Undirected,1
+Bne,kon,Undirected,1
+kon,son,Undirected,1
+Slavina,son,Undirected,1
+Bothild,kon,Undirected,1
+Henrik Gotskalksen,Preba,Undirected,3
+Bothild,nmatte,Undirected,1
+Henrik,nmatte,Undirected,1
+Anker,Henrik,Undirected,1
+Henrik,Zcerneboch,Undirected,1
+Henrik,gunsfig,Undirected,1
+Bothild,gunsfig,Undirected,1
+Erik Jarl,Henrik,Undirected,2
+Bothild,Erik Jarl,Undirected,6
+Erik Jarl,Kong Knud,Undirected,1
+Ester Knuds,Kong Knud,Undirected,1
+Erik,Ester Knuds,Undirected,1
+Knnd,Knud,Undirected,3
+Erik Ejegod,Svend Estridsen,Undirected,1
+Erik,Svend Norbagge,Undirected,1
+Svend Estridsen,Svend Norbagge,Undirected,1
+Klerke,Svend Estridsen,Undirected,1
+Klerke,as,Undirected,1
+as,ulus,Undirected,1
+ester Gudstjenesfens,ulus,Undirected,1
+Svend,ester Gudstjenesfens,Undirected,1
+Svend,lee,Undirected,2
+Svend,sorn,Undirected,1
+Vilhelm,sorn,Undirected,1
+Svend,Vilhelm,Undirected,2
+Vilhelm,korr,Undirected,1
+Svend,korr,Undirected,1
+Svend,Svend Norbagge,Undirected,2
+St. Marice Klosfer,Svend,Undirected,1
+Gud,Paulus,Undirected,1
+Erik Svendsen,Gud,Undirected,1
+Alrunen,Olaf,Undirected,2
+Erik,Thor Eskildsen,Undirected,1
+Jarlen,Thor Eskildsen,Undirected,1
+Bothild,Thor,Undirected,1
+Jarlen,Thor,Undirected,1
+Bothild,Erik,Undirected,15
+Bothild,Bothild Gotskalksdatter,Undirected,1
+Bothild,Jarlen,Undirected,4
+Erik,Jom,Undirected,1
+Erik,Henrik,Undirected,4
+Gotstalks,Thor,Undirected,1
+Gotstalks,Svantibor,Undirected,1
+Trund,Trund Fagerskind,Undirected,1
+Erik,Trund,Undirected,1
+Bothild,Svautibor,Undirected,1
+Erik,Svautibor,Undirected,1
+Bothild,Svend Esfridsen,Undirected,1
+Erik,Svend Esfridsen,Undirected,1
+Erik,Svantibor,Undirected,1
+Erik,Svend Trundsen,Undirected,5
+Astrad,Benedikt,Undirected,1
+Bothild,paany,Undirected,2
+Henrik,Tu,Undirected,6
+Slavina,Tu,Undirected,1
+Dn,Svend Trundsen,Undirected,1
+Svend Trundsen,Tu,Undirected,1
+Erik,nn,Undirected,1
+Erik,Tu,Undirected,2
+Bothild Gotskalksdatter,Erik,Undirected,1
+Bothild Gotskalksdatter,Jarlen,Undirected,1
+Erik,Jarlen,Undirected,4
+Bothild,Priis,Undirected,1
+Bothild,Henrik Gotskalksen,Undirected,2
+Erik,Henrik Gotskalksen,Undirected,1
+Jom,hnn,Undirected,1
+Ieg,Jarl,Undirected,2
+Jarl,Tu,Undirected,1
+Gotskalk,Olaf,Undirected,1
+Gotskalk,Henrik,Undirected,1
+Erik Jarl,Svantibor,Undirected,1
+Huu,Preba,Undirected,1
+Bothild,Thora,Undirected,1
+Bue,Erik Jarl,Undirected,14
+Erik Jarl,Henrik Gotskalksen,Undirected,1
+Juul,Olaf,Undirected,2
+Juul,son,Undirected,1
+Bedel Simonsen,son,Undirected,1
+Bedel Simonsen,Valdemar Atterdag,Undirected,1
+Arnens,Ketel Haraldsen,Undirected,1
+Arnens,Frideborg,Undirected,1
+Frideborg,Haus,Undirected,1
+Gunver,Haus,Undirected,1
+Gunver,Solve,Undirected,1
+Grimhilde,Solve,Undirected,2
+Arsa,Grimhilde,Undirected,1
+Arnen,Arsa,Undirected,1
+Frideborg,Ketel,Undirected,1
+Frideborg,Gunver spandt,Undirected,1
+Frideborg,Knud Konge,Undirected,3
+Ketel,Knud Konge,Undirected,1
+Dn,Ketil,Undirected,1
+Knud Konge,Thord,Undirected,1
+Ketil,froe,Undirected,1
+Gunver,Ketil,Undirected,1
+Gunver,Knud Konge,Undirected,1
+Asbjørn Jarl,Gunver,Undirected,1
+Asbjørn Jarl,Jarlen,Undirected,2
+Gunver,Knud Kouge,Undirected,1
+Gud,Knud Kouge,Undirected,1
+Gud,Kristus,Undirected,2
+Grimhilde,Irsa,Undirected,1
+Frideborg,Ketil,Undirected,2
+Asbjørn Jarl,Frideborg,Undirected,1
+Frideborg,sovss,Undirected,1
+Henrik Gotskalksen,Jarl,Undirected,1
+Jarlen,Ketil,Undirected,1
+Jarleu,Ketil,Undirected,1
+Asbjørn Jarl,Svend,Undirected,2
+Asbjørn Jarl,Oren,Undirected,1
+Asbjørns,soran,Undirected,1
+Asbjørns,Henrik,Undirected,1
+Nisse,Solve,Undirected,1
+Nisse,Tu,Undirected,1
+Svend,hnn,Undirected,1
+Frideborg,Sine,Undirected,1
+Ketil,Sine,Undirected,1
+Ketil,Svend,Undirected,1
+Kong Olaf,Olaf,Undirected,2
+Almne,Dn,Undirected,1
+Tu,son,Undirected,1
+Knud,Kong Olaf Svendsen,Undirected,1
+Asbjørn,Henrik,Undirected,1
+Inger,Knud,Undirected,3
+Inger,Olaf,Undirected,5
+Asbjørn,Olaf,Undirected,2
+Asbjørn,Henrik Gotskalksen,Undirected,1
+Henrik Gotskalksen,saunn,Undirected,1
+Harald Hein,saunn,Undirected,1
+Harald,Harald Hein,Undirected,1
+Asbjørn,Hai,Undirected,1
+Hai,Knud,Undirected,1
+Jarlen,Knud,Undirected,4
+Jarlen,Margrethe,Undirected,1
+Harald Hein,Margrethe,Undirected,1
+Harald Hein,Ketil,Undirected,1
+Inger,Kong Henrik,Undirected,1
+Gregor,Kong Henrik,Undirected,1
+Asbjørn,Paven,Undirected,1
+Asbjøru Jarl,Carl,Undirected,1
+Carl,Rolf Gangers,Undirected,1
+Lehn,Rolf sknlde,Undirected,1
+Lehn,Norman,Undirected,1
+Gud,Norman,Undirected,1
+Olaf,Svend,Undirected,2
+Bothild,Gotskalk,Undirected,1
+Gotskalk,Symbylla,Undirected,1
+Erik,Symbylla,Undirected,1
+Henrik,Kong Olaf,Undirected,1
+Henrik,Henrik tang,Undirected,1
+Krnto,Slavina,Undirected,2
+Olaf,Slavina,Undirected,2
+Bothild,Pribislav,Undirected,1
+Knud,Olaf mørk,Undirected,1
+Bne,Bue,Undirected,2
+Bne,Preba,Undirected,3
+Bue,selb,Undirected,1
+Svend,selb,Undirected,1
+Dn,Svend,Undirected,2
+Bue,Jugen,Undirected,1
+Hain,Henrik,Undirected,3
+Hain,Slavina,Undirected,1
+Bjørn,Bue,Undirected,1
+Jngen,Preba,Undirected,1
+Bue Vagnsen,Jngen,Undirected,1
+Bue,Bue Vagnsen,Undirected,2
+Olaf,Preba,Undirected,1
+Bjørn Jarl,Bue Bagnsen,Undirected,1
+Bue Bagnsen,Preba,Undirected,1
+Arnulf,Preba,Undirected,1
+Karl,Karl den Store,Undirected,1
+Herman Billing,Otto den Store,Undirected,1
+Herman Billing,Hermans,Undirected,1
+Hermans,Magnns,Undirected,1
+Lund,Proves hellige,Undirected,1
+Kruko,Kruto,Undirected,2
+Gotskalk,Kruto,Undirected,3
+Buthue,Gotskalk,Undirected,1
+Buthue,Magnils,Undirected,1
+Magnils,gjenerobre,Undirected,1
+gjenerobre,siu,Undirected,1
+Kruto,siu,Undirected,1
+Kruto,Olaf Jarl,Undirected,1
+Krnto,Kruto,Undirected,1
+Henrik,fil,Undirected,3
+Kruto,fil,Undirected,3
+Kong Olaf,Magnus,Undirected,2
+Henrik den Lange,Magnus,Undirected,1
+Henrik den Lange,fil,Undirected,1
+Hesf,Kruto,Undirected,1
+Hesf,kirn,Undirected,1
+Kruto,sorn,Undirected,1
+S ' de,Slavina,Undirected,1
+Kruto,S ' de,Undirected,1
+Kruto,mied,Undirected,1
+Dands,un,Undirected,1
+Dandsen,un,Undirected,1
+Dandsen,Mceudeue,Undirected,2
+Slavina,hm,Undirected,1
+Dandsen,hm,Undirected,1
+Dandsen,Jndgang,Undirected,1
+Jndgang,Slavina,Undirected,1
+Kruto,Ollet,Undirected,1
+Kruto,Sigurd,Undirected,2
+Kong Olaf,Sigurd,Undirected,1
+Henrik Gotskalksen,Kruto,Undirected,3
+Radegasts,ued,Undirected,1
+Kruto,Radegasts,Undirected,1
+Bjørn Jarl,Kruto,Undirected,2
+Bjørn Jarl,Nordalbingierne,Undirected,1
+Kruto,Nordalbingierne,Undirected,1
+Bjørn,Kruto,Undirected,2
+Bernhard den,Erkebisp Adelbert,Undirected,1
+Kong Olaf,Svend Trundsen,Undirected,1
+Juul,Svend Trundsen,Undirected,1
+Juul,Robert,Undirected,1
+Astrad,Robert,Undirected,2
+Inger,Niels,Undirected,1
+Bue,Thinge,Undirected,1
+Niels,Thinge,Undirected,1
+Bue,Niels Svendsen,Undirected,1
+Bjørn Jarl,Bue,Undirected,4
+Kong Olaf,Olaf Hunger,Undirected,1
+Kong Olaf,Svend Estridsen,Undirected,2
+Jnger,Olaf,Undirected,4
+Inger,Kong Olaf,Undirected,2
+Inger,Olaf Hunger,Undirected,1
+Gud,eue,Undirected,1
+Inger,Knnd,Undirected,1
+Gud,son,Undirected,1
+Klerke,Knud,Undirected,1
+Niels,Svend Trundsen,Undirected,1
+Asker,Svend Trundsen,Undirected,1
+Asker,Richvald,Undirected,1
+Richvald,Svend Trundsen,Undirected,1
+Robert,Svend Trundsen,Undirected,1
+Svend,Svend Trundsen,Undirected,3
+Knud,Svend,Undirected,7
+Inger,Robert,Undirected,1
+Inger,Peter,Undirected,1
+Edele,Kong Knud,Undirected,1
+Karl,Kong Knud,Undirected,1
+Karl,Svend Trundsen,Undirected,1
+Knud,Svend Trundsen,Undirected,1
+Karl,Svend,Undirected,2
+Belte,Karl,Undirected,1
+Belte,Svend,Undirected,1
+Edele,Karl,Undirected,1
+Greven,Torgunnce,Undirected,1
+Knud,Svend Norbagge,Undirected,2
+Gud,Olaf,Undirected,2
+Knud,Vilhelm,Undirected,2
+Krnto,Vilhelm,Undirected,1
+Henrik Gotskalksen,Krnto,Undirected,1
+Henrik Gotskalksen,Wagrer,Undirected,1
+Obotriters,Wagrer,Undirected,1
+Obotriters,Saakorn,Undirected,1
+Jarlen,Tuko Skjalmsen,Undirected,1
+Erik,Tuko,Undirected,1
+Erik,melken,Undirected,1
+Kruto,Svanfibor,Undirected,1
+Tuko,Tuko Skjalmsen,Undirected,1
+Bothild,Inger,Undirected,1
+Jarlen,Tuko tang,Undirected,1
+Olaf,Tuko fenere,Undirected,1
+Erik,ester Loven,Undirected,2
+Erik,son,Undirected,1
+Kougeu,Tuko,Undirected,1
+ban,son,Undirected,2
+Arnold,Roeskilde,Undirected,1
+Arnold,Knud,Undirected,1
+Erik,Inge,Undirected,2
+Kong Olaf,Tuko,Undirected,1
+Frode Helgefen,Kong Harald Klak,Undirected,1
+Frode Helgefen,Rovenna,Undirected,1
+Frode Helgesen,Kraff,Undirected,1
+Eg,Kraff,Undirected,2
+Kraff,Lykke,Undirected,1
+Frode,Rovenna,Undirected,17
+Ester,Thorborg,Undirected,1
+Frode,Olufa,Undirected,4
+Hnn,Rovenna,Undirected,2
+Bretlands,Rovenna,Undirected,1
+Rovenna,hnn,Undirected,2
+Uovurd UinK,hnn,Undirected,1
+Uovurd UinK,steil,Undirected,1
+Rovenna,steil,Undirected,1
+Rovenna,Thyra Danebod,Undirected,1
+Harald Klaks,Thyra Danebod,Undirected,1
+Harald Klaks,Thyra,Undirected,1
+Thyra,hnn,Undirected,1
+Dronning Rovenna,hnn,Undirected,1
+Dronning Rovenna,Frode,Undirected,1
+Frode,Thyra,Undirected,1
+Drouuiug,Thyra,Undirected,1
+Gisla,Thyra,Undirected,1
+Gisla,Thor Gormsen,Undirected,3
+Gisla,Thor,Undirected,8
+Signe,Thor,Undirected,3
+Signe,frn,Undirected,1
+Eir,Thor son,Undirected,1
+Bikingetog,Thor son,Undirected,1
+Bikingetog,Gisla,Undirected,1
+Gisla,Signe,Undirected,7
+Gisla,Sigfred,Undirected,1
+Sigfred,Svend,Undirected,1
+Gisla,Svend,Undirected,5
+Svend,Thor Gormsen,Undirected,1
+Svend,Thor,Undirected,1
+Svend,hau,Undirected,1
+Sigsreds,hau,Undirected,1
+Sigsreds,Svend,Undirected,1
+Sigsred,Svend,Undirected,1
+Ingling,Sigsred,Undirected,2
+Gisla,Sigsred,Undirected,1
+Frode,Gisla,Undirected,1
+Rovenna,Sofia,Undirected,1
+Sigrid,Sofia,Undirected,3
+Kong Knud,Rovenna,Undirected,1
+Kong Knud,garnle,Undirected,1
+Bjørn Jarl,garnle,Undirected,1
+Bue Vagnsen,Frode,Undirected,5
+Bue,Frode,Undirected,20
+Bue,Rovenna,Undirected,34
+Sigrid,Sofin,Undirected,2
+Roveunn,Sofin,Undirected,1
+Olufn,Roveunn,Undirected,1
+Frode,Rovennn,Undirected,1
+Olufn,Sigrid,Undirected,1
+Rovennn,Sofin,Undirected,1
+Rovennn,Sigrid,Undirected,1
+Olufa,Rovenna,Undirected,1
+Olufa,Sigrid,Undirected,1
+Olufa,Sofia,Undirected,1
+Olufa,hnn,Undirected,1
+Kong Olaf,Sofia,Undirected,1
+Bjørn Jarl,Frode,Undirected,1
+Bjørn Jarl,Kong Olaf,Undirected,4
+Jarlen,Kong Olaf,Undirected,2
+Frode,Jarlen,Undirected,4
+Bjørn,Frode,Undirected,1
+Bjørn,Bue Vagnsen,Undirected,1
+Frode,Onske,Undirected,2
+Bue,Sofia,Undirected,1
+Bjørn Jarl,Henrik Gotskalksen,Undirected,1
+Hnn,Preba,Undirected,1
+Bue,Hnn,Undirected,1
+Slavina,endnn,Undirected,1
+Preba,endnn,Undirected,1
+Preba,hnn,Undirected,2
+Bue,hnn,Undirected,4
+Bue,huu,Undirected,1
+Hai,Svend,Undirected,1
+Bile Vagusen,Rovenna,Undirected,1
+Bile Vagusen,Jomsvikingernes,Undirected,1
+Bue,Jomsvikingernes,Undirected,1
+Rovenna,Villie,Undirected,1
+Preba,Rovenna,Undirected,28
+Bue,Frode erfoer,Undirected,1
+Harald,Sigvald,Undirected,1
+Jomsborgs,Sigvald,Undirected,1
+Harald Jarl,Sigvald Jarl,Undirected,1
+Harald Jarl,Strutharald,Undirected,1
+Gisla,Rovenna,Undirected,2
+Henrik,Wagrien,Undirected,1
+Wagrien,mellen,Undirected,1
+Erik Jarl,mellen,Undirected,1
+Erik Jarl,Jarleu,Undirected,2
+Buthue,Tu,Undirected,1
+Kruto,Preba,Undirected,7
+Bjørn Jarl,Preba,Undirected,2
+Kong Olaf,Rovenna,Undirected,1
+Bjørn Jarl,Henrik,Undirected,2
+Olufa,Preba,Undirected,1
+Gyrd,Preba,Undirected,1
+Jom,Preba,Undirected,2
+Bue,Huir,Undirected,1
+Jom,Tu,Undirected,1
+Rovenna,Zcerneboch,Undirected,1
+Slavina,Svend,Undirected,1
+Geva,Kruto,Undirected,1
+Geva,Oje,Undirected,1
+Geva,Slavina,Undirected,2
+Henrik,Vagusen,Undirected,1
+Runs,Vagusen,Undirected,1
+Henrik,miudes,Undirected,1
+Bue,Kruto,Undirected,3
+Preba,Runs,Undirected,1
+Liemar,Slavina,Undirected,1
+Geva,Henrik,Undirected,1
+Lise,Slavina,Undirected,1
+Bntue,Thorborg,Undirected,1
+Butue,Thorborg,Undirected,1
+Butue,Frode,Undirected,3
+Bufue,Magnus,Undirected,1
+Bufue,Butue,Undirected,3
+Bufue,Kruto,Undirected,2
+Butue,Spejdereir,Undirected,1
+Butue,Kruto,Undirected,2
+Frode,Kruto,Undirected,3
+Bue Vagnsen,Slavina,Undirected,1
+Bjørn Jarl,Bue Vagnsen,Undirected,1
+Benden,Geva,Undirected,1
+Bue,Jarl,Undirected,2
+Bue,Svend Toke,Undirected,1
+Rovenna,Svend Toke,Undirected,1
+Bue,Mou,Undirected,1
+Mou,Rovenna,Undirected,1
+Kruto,Rovenna,Undirected,1
+Frode,Preba,Undirected,5
+Slavina,hnn,Undirected,1
+Bue,Slavina,Undirected,3
+Bue Vagnsen,Geva,Undirected,1
+Frode,Thorborg,Undirected,12
+Frode,Henrik Gotskalksen,Undirected,1
+Dn,Frode,Undirected,1
+Preba,Thorborg,Undirected,2
+Slavina,Thorborg,Undirected,1
+Rovenna,Slavina,Undirected,1
+Slavina,sknlde,Undirected,1
+Frode,Slavina,Undirected,1
+Frode,Jom,Undirected,1
+Bue,Jarlen,Undirected,19
+Jarlen,Jom,Undirected,2
+Bjørn,Jarlen,Undirected,1
+Ditmarskerne,Jarl,Undirected,1
+Ditmarskerne,Henrik Gotskalksen,Undirected,1
+Henrik Gotskalksen,Magnus,Undirected,1
+Magnus,Thinget,Undirected,1
+Bjørn,Thinget,Undirected,1
+Bue Vagnsen,Kong Olaf,Undirected,1
+Asbjørn Jarl,Kong Olaf,Undirected,1
+Asbjørn Jarl,Kruto,Undirected,1
+Asbjørn Jarl,fhi Henrik Gotskalksen,Undirected,1
+Magnus,fhi Henrik Gotskalksen,Undirected,1
+Kruto,Kuud,Undirected,1
+Kuud,Robert,Undirected,1
+Erik,Farbror,Undirected,1
+Erik Jarl,Knud,Undirected,1
+Bne Vagnsen,ester,Undirected,1
+Bjørn Jarl,Bne Vagnsen,Undirected,1
+Bjørn,Bjørn Jarl,Undirected,1
+Asbjørn Jarl,Bjørn,Undirected,1
+Asbjørn Jarl,Graad,Undirected,1
+Harald,Inger,Undirected,1
+Benedikt,Sigurd,Undirected,1
+Bjørn,Sigurd,Undirected,1
+Bjørn,Inger,Undirected,1
+Erik,Inger,Undirected,6
+Dn,Olaf,Undirected,1
+Gud,Svend,Undirected,3
+Gud,Knud,Undirected,3
+Bue,Ejdren,Undirected,2
+Bue,Olaf,Undirected,5
+Preba,"Svend,",Undirected,2
+Preba,Rovenna Frodesdatter,Undirected,1
+Rovenna,ängst,Undirected,1
+Johan,Svend,Undirected,1
+Rovenna,son,Undirected,3
+Ejegod,Erik,Undirected,1
+Ejegod,Saxo,Undirected,1
+Bothild,Saxo,Undirected,1
+Bothild,Knud,Undirected,1
+Bothild,Olaf,Undirected,1
+Knud ikke,Kong Knud,Undirected,1
+Olaf,Olas,Undirected,1
+Erik Jarl,Esrom,Undirected,2
+Jarlen,Johan,Undirected,2
+Johan,Rovenna,Undirected,2
+Erik Jarl,Rovenna,Undirected,8
+Jarl,Johan,Undirected,2
+Jarlen,Rovenna,Undirected,16
+Befaliugeu,Johan,Undirected,1
+Erik,Preba,Undirected,3
+Johan,Preba,Undirected,1
+Jarl,Preba,Undirected,2
+Jarlen,Preba,Undirected,11
+Slavina,ban,Undirected,1
+Kruto,ban,Undirected,1
+Jarlen,Kruto,Undirected,2
+Bent,Jarlen,Undirected,1
+Jarl,Rovenna,Undirected,2
+Herre Jarl,Rovenna,Undirected,1
+Svend,Tu,Undirected,2
+Oren,Svend,Undirected,1
+Eude,Jarlen,Undirected,1
+Erik,Eude,Undirected,1
+Dands,kirn,Undirected,1
+Bue Vagnsen,Jarl,Undirected,1
+Jarlen,son,Undirected,2
+Kirsten,son,Undirected,1
+Erik Jarl,Kirsten,Undirected,2
+Hnn,Kirsten,Undirected,1
+Gundelille,hannem,Undirected,3
+Frn Bothild,Juul,Undirected,1
+Frn Bothild,Palle,Undirected,1
+Frn Bothild,Kirsten,Undirected,1
+ganger Jomfru Gundelille,hannem,Undirected,1
+Gundelille,saudt,Undirected,1
+Gundelille,Hr. Palle,Undirected,1
+Hr. Palle,Mette,Undirected,2
+Mette,Thora,Undirected,1
+Thora,Viseu,Undirected,1
+Kirsten,Viseu,Undirected,1
+Gundelille,Kirsten,Undirected,1
+Gundelille,son,Undirected,1
+Jomfru Gundelille,hannem,Undirected,1
+Kjøresvends,hannem,Undirected,1
+Bothild,Hr. Palle,Undirected,1
+Knud,Kong Olaf,Undirected,1
+Erik Jarl,Kong Olaf,Undirected,5
+Bothild,Rovenna,Undirected,3
+Bothild,Tu,Undirected,2
+Aare,Tu,Undirected,1
+Kirsten,Mette,Undirected,1
+Henrik,Magnus,Undirected,1
+Kong Olaf,Pe,Undirected,1
+Sivard,Svend Estridsen,Undirected,1
+Adelbert as Brennen,Svend Estridsen,Undirected,1
+Adelbert as Brennen,Sivard,Undirected,1
+Kristus,Sivard,Undirected,1
+Olaf,Sivard,Undirected,1
+Knud,Sivard,Undirected,1
+Knud,son,Undirected,1
+Frode,Vagusen,Undirected,1
+Frode,Jngen,Undirected,1
+Jngen,Roveuna,Undirected,1
+Erik Jarl,hiin,Undirected,1
+Jarlen,hiin,Undirected,1
+Bue,Rcvenna,Undirected,1
+Rcvenna,Rovenna,Undirected,1
+Rovenna,Svend,Undirected,2
+Skjalm Jarl,Toke,Undirected,1
+Ebbe,Toke,Undirected,1
+Asfer,Ebbe,Undirected,1
+Asfer,Sune,Undirected,1
+Erik Jarl,Sune,Undirected,1
+Jarlen,Skjalms,Undirected,1
+Erik,Jarl,Undirected,1
+Jarlen,Tu,Undirected,1
+Jarlen,Oren,Undirected,2
+Asbjørn,Frode,Undirected,2
+Frode,Kong Olaf,Undirected,1
+Erik Jarl,Jomfru Rovenna,Undirected,1
+Frode,Olaf,Undirected,1
+Esrom,Frode,Undirected,4
+Erik Jarl,Frode,Undirected,4
+Frn,Geva,Undirected,1
+Geva,Rovenna,Undirected,1
+Bue,Frn,Undirected,1
+Frode,Kristus,Undirected,1
+Bue,Zeerneboch,Undirected,1
+Erik Jarl,Siva,Undirected,1
+Esrom,Rovenna,Undirected,7
+Preba,Siva,Undirected,2
+Preba,Vineentins,Undirected,1
+Preba,fhi,Undirected,1
+Esrom,fhi,Undirected,1
+Benner,Esrom,Undirected,1
+Preba,Roveuua,Undirected,1
+Esrom,hnn,Undirected,1
+Jarlen,hnn,Undirected,2
+Hnn,hnn,Undirected,2
+Bue,Esrom,Undirected,3
+Esrom,Roveuna,Undirected,1
+Rovenna,Roveuna,Undirected,1
+Erik,Stenkilds,Undirected,1
+Inge,Stenkilds,Undirected,1
+Inge,Jarl Hakon den Røde,Undirected,2
+Inge,paany,Undirected,1
+Svend,Sødermanland,Undirected,1
+Inge,Svend,Undirected,1
+Eskil,Inge,Undirected,1
+Eskil,Juge,Undirected,1
+Juge,nn,Undirected,1
+Best-Gothland,nn,Undirected,1
+Blot-Svends,Svearnes,Undirected,1
+Blot-Svends,Erik,Undirected,1
+Erik Jarl,Inge,Undirected,1
+Erik Jarl,Jaroslavs,Undirected,1
+Elisif,Jaroslavs,Undirected,1
+Elisif,Harald Haarderaade,Undirected,1
+Harald Haarderaade,Inger,Undirected,1
+Christine,Margrethe,Undirected,1
+Cathrine,Christine,Undirected,1
+Cathrine,Rognvald Jarl,Undirected,1
+Philip,Rognvald Jarl,Undirected,1
+Inge Halsfensen,Philip,Undirected,1
+Helene,Inge Halsfensen,Undirected,1
+Helene,helsf,Undirected,1
+Erik Jarl,Jarlen,Undirected,4
+Erik Jarl,Kong Inges,Undirected,1
+Jarlen,Kong Inges,Undirected,1
+Jarlen,Skara,Undirected,2
+Skara,hnn,Undirected,1
+Jarlen,Siva,Undirected,2
+Jarlen,Nn,Undirected,1
+Nn,Preba,Undirected,1
+Rovenna,Skara,Undirected,1
+Preba,Skara,Undirected,1
+Erik Jarl,Skara,Undirected,2
+Erik Jarl,Preba,Undirected,1
+Esrom,Preba,Undirected,3
+Esrom,Hnn,Undirected,1
+Frode,Hnn,Undirected,2
+Dn,Mette,Undirected,1
+Bothild Jutet,Huns,Undirected,1
+Huns,Rovenna,Undirected,1
+Mette,Rovenna,Undirected,9
+Mette,niere,Undirected,2
+Herre Jarl,Mette,Undirected,1
+Herre Jarl,Preba,Undirected,1
+Jarlen,Mette,Undirected,3
+Mette,rosfe,Undirected,1
+Preba,rosfe,Undirected,1
+Rovenna,Ulf,Undirected,1
+Else,Ulf,Undirected,1
+Else,Rovenna,Undirected,1
+Rovenna,faus,Undirected,2
+Gud,Rovenna,Undirected,2
+Gud,JaAeus,Undirected,1
+JaAeus,hnn,Undirected,1
+Dolk,hnn,Undirected,1
+Bryde,Brydens,Undirected,1
+Brydens,Jomsru,Undirected,1
+Jarlen,Juul,Undirected,1
+Esrom,Juul,Undirected,2
+Esrom,Jarlen,Undirected,3
+Brydens,Else,Undirected,1
+Preba,ester Fyrst Kruto,Undirected,1
+Slavina,ester Fyrst Kruto,Undirected,1
+Pribislav,Rovenna,Undirected,1
+Frode,Fyrst Krutos,Undirected,1
+Habaha,Rovenna,Undirected,1
+Thorborg,tans,Undirected,1
+Thorborg,hnn,Undirected,1
+Rovenna,Thorborg,Undirected,7
+Hnhaha,Jarlen,Undirected,1
+Bue,Hnhaha,Undirected,1
+Bue,Mette,Undirected,14
+Rovenna nn,bun,Undirected,1
+Frode,son,Undirected,1
+Frode,fale,Undirected,1
+Frn Bothild,Frode,Undirected,3
+Bue Vagnsen,Frn Bothild,Undirected,1
+Esrom,bun,Undirected,1
+Hnn,bun,Undirected,1
+Frn,Rovenna,Undirected,1
+Bothild,Frn,Undirected,1
+Bothild,Juul,Undirected,1
+Rovenna,nn,Undirected,2
+Jomfru Rovenna,nn,Undirected,1
+Frode,Jomfru Rovenna,Undirected,1
+Frode oppebie,Rovenna,Undirected,1
+Frode oppebie,Jarlen,Undirected,1
+Frn Bothild,Rovenna,Undirected,1
+Mette,heiles,Undirected,1
+Rovenna,heiles,Undirected,1
+Rovenna,huu,Undirected,1
+Bothild,huu,Undirected,1
+Rovenna,ublid,Undirected,2
+Juul,Rovenna,Undirected,1
+Mette,hnn,Undirected,1
+Erik Jarl,Mette,Undirected,2
+Erik Svendsen,Jarler,Undirected,1
+Erik Svendsen,Jarl,Undirected,1
+Bue,fil,Undirected,1
+Frode,fil,Undirected,1
+Frode,Mette,Undirected,5
+Erik,Rovenna,Undirected,1
+Bile,Erik Jarl,Undirected,1
+Bue,niere,Undirected,1
+Mette,Oren,Undirected,1
+Bue,Frode son,Undirected,1
+Frode son,Koligens,Undirected,1
+Frode,Jomfru Mette,Undirected,1
+Frode,Harn,Undirected,2
+Jomfrn,Tu,Undirected,1
+Jomfrn,Mette,Undirected,1
+Frilleu,Mette,Undirected,1
+Preba,Prebislavs,Undirected,1
+Mette,Preba,Undirected,2
+Erik Jarl,Jomfru Mette,Undirected,1
+Svend,fale,Undirected,1
+Bue Vagnsen,fale,Undirected,1
+Jomfru Siva,Skara,Undirected,1
+Jomfru Siva,Olaf,Undirected,1
+Olaf,Skara,Undirected,1
+Frode,Skara,Undirected,1
+Esrom,Jarl,Undirected,1
+Esrom,Herre Jarl,Undirected,1
+Bue Vagnsen,Jarlen,Undirected,1
+Bue,Tu,Undirected,1
+Jarler,Preba,Undirected,1
+Bue,Jarler,Undirected,1
+Harn,Jarlen,Undirected,1
+Harn,Preba,Undirected,1
+Jour,Preba,Undirected,1
+Bue Vagnsen,Esrom,Undirected,1
+Preba,Ta Bothild,Undirected,1
+Erik Jarl,Svend -,Undirected,1
+Estridsens,Svend -,Undirected,1
+Estridsens,Preba,Undirected,1
+Bothild,nn,Undirected,1
+Bothild,Bue,Undirected,1
+Jarlen,rolig,Undirected,1
+Esrom,Mette,Undirected,1
+Esrom,Graad,Undirected,1
+Esrom,spiist,Undirected,1
+Bue,spiist,Undirected,1
+Erik Jarl,Hirdmand,Undirected,1
+Hirdmand,Olaf,Undirected,1
+Erik,Kong Knud,Undirected,4
+Bue,Roeskilde,Undirected,1
+Habaha,Preba,Undirected,1
+hnn,uok,Undirected,1
+Rovenna,uok,Undirected,1
+Rovenna,jrg,Undirected,1
+Kruto,jrg,Undirected,1
+Erik Jarl,Inge nn,Undirected,1
+Kong Knud,ester,Undirected,1
+Kong Knud,sir,Undirected,1
+Kong Knud,Skjærsitdeu,Undirected,1
+Johannes,Skjærsitdeu,Undirected,1
+Johannes,meu,Undirected,1
+Kristus,son,Undirected,1
+Knubs,Olaf,Undirected,1
+Kong Kund,Kong Olaf,Undirected,1
+Kong Kund,Olaf,Undirected,1
+Knud,Svend Trnndsen,Undirected,1
+Kong Olaf,Svend,Undirected,2
+Svend,alfsaa,Undirected,1
+Knud,alfsaa,Undirected,1
+Knud,St. Olafs,Undirected,1
+Astrad,Nje,Undirected,1
+Nje,Svend,Undirected,1
+Gud,Kong Olaf,Undirected,1
+Inger,Svend Trundsen,Undirected,1
+Bue,fiden,Undirected,1
+Kong Inge,fiden,Undirected,1
+Kong Inge,son,Undirected,1
+Dir,Dn,Undirected,1
+Dir,Kong Knud,Undirected,1
+Inger,Jnger,Undirected,1
+Olaf,Wladislawa,Undirected,1
+Ingling,Signe,Undirected,1
+Erik,Søuuen,Undirected,1
+Ejlef,Olaf,Undirected,1
+Drouniug Inger,Olaf Olafsen,Undirected,1
+Drouniug Inger,Kong Olaf,Undirected,1
+Sigrid,Svend Trnndsen,Undirected,1
+Sigrid,nn,Undirected,1
+Wagrer,nn,Undirected,1
+Svend Esfridsen,Wagrer,Undirected,1
+Svend Esfridsen,hnn,Undirected,1
+Henrik,Hnn,Undirected,1
+Bue,Erik,Undirected,7
+Svend,Thinge,Undirected,1
+Benedikt,Harald Hein,Undirected,1
+Erik,Harald Hein,Undirected,1
+Asker,Erik Jarl,Undirected,1
+Erik,Gyrd,Undirected,1
+Astrad,Bue,Undirected,1
+Bue,Svend Trnndsen,Undirected,1
+Erik,Svend Trnndsen,Undirected,1
+Astrad,Erik,Undirected,1
+Erik,Erik Jarl,Undirected,1
+Ragnlld,Sune,Undirected,1
+Bue,Ragnlld,Undirected,1
+Bue,Ragnild,Undirected,1
+Bue,Sune,Undirected,1
+Bue,Ebbe,Undirected,1
+Aster,Ebbe,Undirected,1
+Aster,Svend Trundsen,Undirected,1
+Kong Olaf,Sune,Undirected,1
+Bue,Toke Skjalmsen,Undirected,1
+Erik Jarl,Toke Skjalmsen,Undirected,1
+Hnn,harr,Undirected,1
+Bue,Jomfru Mette,Undirected,2
+Asbjørn,Jomfru Mette,Undirected,1
+Hirn,Mette,Undirected,1
+Bue,heudes,Undirected,1
+Bue,Roveuua,Undirected,1
+Frode,Roveuua,Undirected,1
+Herre Jarl,hilfet,Undirected,1
+Bue,Herre Jarl,Undirected,1
+Bue,Svend Trundsen,Undirected,1
+Astrad,Svend Trundsen,Undirected,1
+Astrad,Hvidejarlens,Undirected,1
+Bue,Knud,Undirected,1
+Jarl,Knud,Undirected,1
+Jarl,Kong Haralds,Undirected,1
+Erik,Kong Haralds,Undirected,1
+Olaf,Svend Ulfssøn,Undirected,1
+Svend Ulfssøn,Torgils,Undirected,1
+Harald,Torgils,Undirected,1
+Erik,Kirkeu,Undirected,1
+Kirkeu,Svend,Undirected,1
+Jarlen,Kong Inge,Undirected,1
+Bue,Trund Fagerskind,Undirected,1
+Erik,Trund Fagerskind,Undirected,1
+Erik,Valdemar,Undirected,1
+Bue,sir,Undirected,1
+Danruark,sir,Undirected,1
+Danruark,Jarlen,Undirected,1
+Olaf,har,Undirected,1
+Erik uu,Olaf,Undirected,2
+Erik,Olaf son,Undirected,2
+Bue,Erik:,Undirected,1
+Gizikos,Kong Knud,Undirected,1
+Christiern,Humbald,Undirected,1
+Christiern,Odo,Undirected,1
+Henrik,Odo,Undirected,1
+Erik,Ubbe,Undirected,1
+Svend Estridsen,Ubbe,Undirected,1
+Sunniva,Svend Estridsen,Undirected,1
+Niels,Sunniva,Undirected,1
+Kuud,Svend Trundsen,Undirected,1
+Knud,Kong Knnds,Undirected,1
+Benedikt,Te,Undirected,1
+Oxe,Te,Undirected,1
+Sine,Thor Olafsons,Undirected,1
+Benedikt,Knubs,Undirected,2
+Knubs,Svend,Undirected,1
+Svend,Ubbe,Undirected,1
+Niels,Ubbe,Undirected,1
+Bisperue,Niels,Undirected,1
+Beemod,Svend,Undirected,1
+Jarlen,Svend Trundsen,Undirected,2
+Svend Trundsen,nogeu Egu,Undirected,1
+Erik,Kong Inge,Undirected,1
+Hain,Inger,Undirected,1
+Asten,Erik,Undirected,1
+Asten,Bue Vagnsen,Undirected,1
+Bue Vagnsen,Inger,Undirected,1
+Dronning Inger,Kong Olaf,Undirected,1
+Dronning Inger,Erik,Undirected,1
+Bue,Dn,Undirected,1
+Erik,Kong Znge indc,Undirected,1
+Erik,Hain,Undirected,1
+Hain,Olaf,Undirected,1
+Ejles,Kong Olaf,Undirected,1
+Ejles,Erik,Undirected,1
+Erik,Klejstrup,Undirected,1
+Bue,sor,Undirected,1
+Frode,eu Maud,Undirected,1
+Thorborg,eu Maud,Undirected,1
+Rovenna,Tu,Undirected,1
+Gisla,Thorborg,Undirected,1
+Rovenna rejsfe,Thorborg,Undirected,1
+Rovenna,Vagnsen,Undirected,1
+Frode,ester,Undirected,1
+Roveuna,ester,Undirected,1
+Thorborg,Tu,Undirected,1
+Rovenna,"Rovenna,",Undirected,1
+Dir,Rovenna,Undirected,1
+Lise,Rovenna,Undirected,1
+Rovenna,Tenunge,Undirected,1
+Tenunge,hnn,Undirected,1
+Bue,Nn,Undirected,1
+Erik Jarl,Nn,Undirected,1
+Bue,Hans Svend,Undirected,2
+Hans Svend,Rovenna,Undirected,1
+Rovenna tang,hnn,Undirected,1
+Bue,Hisf,Undirected,1
+Rovenna,esterhendes,Undirected,1
+Svend,esterhendes,Undirected,1
+Hall,son,Undirected,1
+Hall,Meu,Undirected,1
+Bne,Svend,Undirected,1
+Aakjær,Svend Trundsen,Undirected,1
+Rovenna,fror Dn,Undirected,1
+Dn,fror Dn,Undirected,1
+Kong Knud,kuu,Undirected,1
+Euduu,kuu,Undirected,1
+Euduu,mari,Undirected,1
+miir Broders,urr,Undirected,1
+Knud,urr,Undirected,1
+Asbjørn Jarl,harr,Undirected,1
+Olaf,harr,Undirected,1
+Erik,Margrethe,Undirected,1
+Margrethe,Svend,Undirected,1
+Bjørn,Ulf Jarl,Undirected,1
+Bjørn,Sivard Digre,Undirected,1
+Hardcknnd,Jarl,Undirected,1
+Hardcknnd,Sivard,Undirected,1
+Jarlen,Sivard,Undirected,3
+Hovmod,Jarlen,Undirected,1
+Hovmod,Sivard,Undirected,1
+Sivard,tang,Undirected,1
+Kong Hardeknnd,tang,Undirected,1
+Endulf,Kong Hardeknnd,Undirected,1
+Endulf,nied,Undirected,1
+Jarlen,nied,Undirected,1
+Hndulf,Ta,Undirected,1
+Sivard,Ta,Undirected,1
+Hardeknnd,Jarlen,Undirected,1
+Hardeknnd,Sivard,Undirected,1
+Endulf,Sivard,Undirected,2
+Asbjørn,Sivard,Undirected,2
+Asbjørn,Ulfsen,Undirected,2
+Jarl,Sivard,Undirected,1
+Jarl,Thorfin,Undirected,1
+Regnar,Thorfin,Undirected,1
+Lodbrogs,Regnar,Undirected,1
+Asbjørn,Lodbrogs,Undirected,1
+Asbjørn,Thorfin,Undirected,5
+Sivard,Thorfin,Undirected,1
+Macbeth,Sivard,Undirected,1
+Macbeth,Malcolm,Undirected,1
+Malcolm,Sivard,Undirected,1
+Asbjørn Bulax,Sivard,Undirected,2
+Asbjørn,Hardeknnd,Undirected,1
+Asbjørn,Kong Harald,Undirected,1
+Kong Harald,Thorfin,Undirected,1
+Thorfin,sknlde,Undirected,1
+Asbjørn,sknlde,Undirected,1
+Asbjørn,Svend Estridsen,Undirected,3
+Asbjørn,Kong Svends,Undirected,1
+Kong Svends,Thorfin,Undirected,1
+Asbjørn,Kong Vilhelm,Undirected,1
+Kong Vilhelm,Svend Estridsen,Undirected,1
+Oland,Thorfin,Undirected,1
+Asbjørn Jarl,Oland,Undirected,1
+Jarlen,Thorfin,Undirected,2
+Jarlen,nn,Undirected,1
+Asbjørn Jarl,Olaf,Undirected,1
+Asbjørn Jarl,Kong Vilhelm,Undirected,1
+Knud,Kong Vilhelm,Undirected,1
+Thorfin,son,Undirected,1
+Jnger,as,Undirected,1
+as,hair,Undirected,1
+Asbjørn,Ejvind,Undirected,1
+Ejvind,Knud,Undirected,1
+Drouningen,Olaf,Undirected,1
+Asbjørn Jarl,Drouningen,Undirected,1
+Gud,Inger,Undirected,1
+Asbjørn,Tu,Undirected,1
+Hahaha,Tu,Undirected,1
+Gud,Hahaha,Undirected,1
+Gud,Sivard Tigre,Undirected,1
+Sivard Tigre,Tu,Undirected,1
+Normannernes,Tu,Undirected,1
+Normannernes,trave,Undirected,1
+Valthjof Jarl,trave,Undirected,1
+Valthjof,Valthjof Jarl,Undirected,1
+Knud,Valthjof,Undirected,1
+Dauske,Knud,Undirected,1
+Dauske,sra,Undirected,1
+Kong Knud,sra,Undirected,1
+Olaf,gol,Undirected,1
+Margrethe,Sivard,Undirected,1
+Don,Inger,Undirected,1
+Kong Knud,Olaf bavde,Undirected,1
+Knud,Olaf bavde,Undirected,1
+Ejvind Bifra,Knud,Undirected,1
+Ejvind Bifra,Thor Skore,Undirected,1
+Thor Skore,Tolar Verpil,Undirected,1
+Erik,Tolar Verpil,Undirected,1
+Inge,Kong Inge,Undirected,1
+Kong Erik,Krisf,Undirected,1
+Knud Konge,Olaf,Undirected,1
+Kong Inge,Kong Olaf,Undirected,1
+Gud,Kong Knud,Undirected,1
+Bisald,tanse,Undirected,1
+Sigrid,Svend Trundsen,Undirected,1
+Henrik Gotskalksen,Sigrid,Undirected,1
+Erik,Sigrid,Undirected,1
+Jarl,Sigrid,Undirected,1
+Bothild,Jarl,Undirected,1
+Bue Rovennas,Frode,Undirected,1
+Bue Rovennas,Kong Erik,Undirected,1
+Knud den Helliges,Olaf,Undirected,1
+Bue Vagnsen,Svantibor,Undirected,1
+Bothild,Kong Olaf,Undirected,1
+Juul,Kong Olaf,Undirected,1
+Bue,Kong Olaf,Undirected,1

@@ -1,0 +1,148 @@
+source,target,type,weight
+Thea-Petrine,Tora,Undirected,61
+TheaPetrine,Tora,Undirected,6
+Tora,Trondal,Undirected,1
+Bangs,Tora,Undirected,1
+Bangs,Petrine,Undirected,1
+Petrine,Tora,Undirected,7
+Frithjofs,Tora,Undirected,5
+Frithjofs,Petrine,Undirected,1
+Tora,Tora Trondal,Undirected,5
+Tora,Tora Thea-Petrine,Undirected,1
+Flun,Tora,Undirected,2
+Tora,juris Erik Gran,Undirected,1
+Erik Gran,juris Erik Gran,Undirected,1
+Bangs,Erik Gran,Undirected,1
+Grans,Kaptejn Struve,Undirected,1
+Gran,Struve,Undirected,3
+Satan,Struve,Undirected,1
+Gran,Satan,Undirected,1
+Gran,Thea-Petrine,Undirected,20
+Gran,Tora,Undirected,29
+Gran,Kaptejn Struve,Undirected,2
+Kaptejn Struve,Tora,Undirected,1
+Aasen,Thea-Petrine,Undirected,1
+Thea-Petrine,paany,Undirected,2
+Karen Bø,Tora,Undirected,6
+Karen Bø,Sara,Undirected,1
+Sara,Tora,Undirected,26
+Gran,TheaPetrine,Undirected,2
+Ejd,Tora,Undirected,21
+Gud,Tora,Undirected,3
+Gud,Jomfru Bø,Undirected,1
+Bøs,Jomfru Bø,Undirected,1
+Bøs,Tora,Undirected,1
+Jomfru Bø,Tora,Undirected,9
+Ejd,Thea-Petrine,Undirected,7
+Ejd,Gran,Undirected,5
+Ejd,Frithjofs,Undirected,1
+Frithjofs,Gran,Undirected,1
+Ejd,Harpix,Undirected,1
+Gud,Thea-Petrine,Undirected,1
+Ejd,Gud,Undirected,2
+Hans Ejd,Tora,Undirected,4
+Bang,TheaPetrine,Undirected,1
+Thea-Petrine,TheaPetrine,Undirected,3
+Infam,Tora,Undirected,1
+Bø,Thea-Petrine,Undirected,1
+Gran,Hans,Undirected,9
+Hans,Tora,Undirected,22
+Hans,Jomfru Bø,Undirected,1
+Hans Ejd,skoggerle,Undirected,1
+Gran,skoggerle,Undirected,1
+Tora,Wergeland,Undirected,1
+Harpe,Tora,Undirected,1
+Tora,bent,Undirected,2
+Ejd,Hans,Undirected,3
+Ejd,Kjørsel,Undirected,1
+Struve,Tora,Undirected,1
+Ejd,Struve,Undirected,1
+Bjørn,Kaptejn Struve,Undirected,1
+Ejd,Kaptejnens,Undirected,1
+Hans,Plans,Undirected,2
+Peter Struve,Tora,Undirected,1
+Tora,Vaas,Undirected,1
+Gud,Vaas,Undirected,1
+Thea,Thea-Petrine,Undirected,1
+Thea,Tora,Undirected,1
+Thea Petrine,Tora,Undirected,1
+Gud,Thea Petrine,Undirected,1
+Gud,TheaPetrine,Undirected,1
+Gran,Ove Seberg,Undirected,1
+Hr. Seberg,Seberg,Undirected,1
+Gran,Seberg,Undirected,1
+Seberg,Thea-Petrine,Undirected,4
+Tora,paany,Undirected,1
+Ola Ysti,Tora,Undirected,2
+Gud,Sotn,Undirected,1
+Hans,Olav Roti,Undirected,2
+Hans,Roti,Undirected,10
+Roti,Semin8,Undirected,1
+Hans,Tora Trondal,Undirected,2
+Roti,Tora,Undirected,4
+Karle,Roti,Undirected,1
+Roti,Trondal,Undirected,1
+E. G.,Trondal,Undirected,1
+E. G.,Roti,Undirected,1
+Ejd,Roti,Undirected,1
+Tora,taus,Undirected,1
+Flan,taus,Undirected,1
+Thea-Petrine,huri,Undirected,1
+Hans,naarTora,Undirected,1
+Petrine,Thea,Undirected,1
+Flan,Tora,Undirected,1
+Bø,Tora,Undirected,1
+Karen,Tora,Undirected,5
+Ejd,P'amilien,Undirected,1
+Jomfru Bø,huh,Undirected,1
+Tora,huh,Undirected,1
+Ejd,Jomfru Bø,Undirected,1
+Hans Ejd,Thea-Petrine,Undirected,1
+Karen Bø,Sara Bø,Undirected,1
+Hans,Karen Bø,Undirected,2
+Hans,Sara Bø,Undirected,1
+Gud,Sara,Undirected,1
+Hnn,Thea-Petrine,Undirected,2
+Ejd,TheaPetrine,Undirected,2
+Thea Bang,TheaPetrine,Undirected,1
+Sara,Thea-Petrine,Undirected,8
+Aajo,Thea-Petrine,Undirected,1
+Thea-Petrine,Trondal,Undirected,1
+Hans,Trondal,Undirected,1
+Hans,Sara,Undirected,6
+Hans,Thea-Petrine,Undirected,4
+Alnen,Sara,Undirected,1
+Ejd,Sara,Undirected,2
+Flun,Sara,Undirected,2
+Flun,Thea-Petrine,Undirected,2
+Thea-Petrine,Tora Trondal,Undirected,2
+Karen,Karen Bø,Undirected,1
+Karen,Sara,Undirected,4
+Såra,Tora,Undirected,1
+-----Tora,Karen,Undirected,1
+Aajo,Sara,Undirected,1
+Aajo,Gud,Undirected,1
+Tora,mari,Undirected,1
+Sara,mari,Undirected,1
+Ejd,Plun,Undirected,1
+Huldren,Tora,Undirected,1
+Tora,hendesog,Undirected,1
+Gran,hendesog,Undirected,1
+Thea-Petrine,bent,Undirected,1
+Graad,Sara,Undirected,1
+Bø,Karen,Undirected,1
+Gudsengelen,Sara,Undirected,2
+Ove Seberg,Petrine,Undirected,1
+Petrine,Seberg,Undirected,1
+Hans,Seberg,Undirected,3
+Hans,Kjød,Undirected,1
+Kjød,Sara,Undirected,1
+Flan,Hans,Undirected,2
+Plan,Sara,Undirected,1
+Plan,Tora,Undirected,1
+Erik Gran,Tora Trondal,Undirected,1
+Erik Gran,Gran,Undirected,1
+Erik Gran,Thea-Petrine,Undirected,1
+Ole Seberg,Thea-Petrine,Undirected,2
+Ove Seberg,Thea-Petrine,Undirected,2
+Gran,Hans Ejd,Undirected,1

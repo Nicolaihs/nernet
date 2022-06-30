@@ -1,0 +1,49 @@
+source,target,type,weight
+Arnold,Voxne,Undirected,1
+Arnold,Marie,Undirected,1
+Mama,Papa,Undirected,1
+Ellen,Peder,Undirected,1
+Ellen,lille Trofast kjærtegnende,Undirected,1
+Ellen,Vorherre,Undirected,1
+Lieut-nanten,Lieutnanten,Undirected,1
+Alfred,Else,Undirected,1
+Else,Minna,Undirected,1
+Albert,Meyer,Undirected,3
+Albert Flindt,Meyer,Undirected,2
+Albert Flindt,Flindt,Undirected,1
+Flindt,Meyer,Undirected,2
+Flindt,saas,Undirected,1
+Albert Flindt,saas,Undirected,1
+Gutten,Rømer,Undirected,1
+Brown,Hr. Brown,Undirected,1
+Brown,Helene,Undirected,2
+Brown,kjære Rømer,Undirected,1
+Helene,kjære Rømer,Undirected,1
+Helene,Rømer,Undirected,2
+Brown,Rømer,Undirected,1
+Ellen,Guds,Undirected,1
+Alfred,Ellen,Undirected,5
+Alice,Schumanns,Undirected,2
+Alice,Ellen,Undirected,2
+Ellen,Schumanns,Undirected,1
+Alice,uDa George,Undirected,1
+Alice,aj,Undirected,1
+Ellen,George,Undirected,2
+Alice,George,Undirected,1
+Andrew,Mary Anne,Undirected,1
+St. Patrick,Tommy,Undirected,1
+Mary Anne,St. Patrick,Undirected,1
+Andrew,Tommy,Undirected,1
+Mary Anne,Tommy,Undirected,1
+Anne,Mary,Undirected,1
+Odin,Thor,Undirected,2
+Thor,Vorherre,Undirected,1
+Mason,Smith,Undirected,1
+Sam Sawyer,liam,Undirected,1
+Ma-son,Smith,Undirected,1
+Sam Sawyer,Smith,Undirected,1
+Mason,Sam Sawyer,Undirected,1
+Fanny,lille Bess,Undirected,2
+Bess,Fanny,Undirected,1
+Graad,lille Peter,Undirected,1
+Moppen,Peter,Undirected,1

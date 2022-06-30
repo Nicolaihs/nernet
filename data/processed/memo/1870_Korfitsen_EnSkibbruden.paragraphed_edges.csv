@@ -1,0 +1,119 @@
+source,target,type,weight
+Carl Volmer,Das,Undirected,1
+Abel,Carl Volmer,Undirected,1
+Petersen,phil.,Undirected,1
+Medieinereus,Petersen,Undirected,1
+Fesfen,Petersen,Undirected,1
+Abel,Cain,Undirected,1
+Petersen,Traeteurs,Undirected,1
+Petersen,Volmer,Undirected,2
+Carl,Carlsen,Undirected,1
+Carl,Petersen,Undirected,2
+Hr. Volmer,Møllers,Undirected,1
+Clarerimus,Gimle,Undirected,1
+Carl,Dn,Undirected,1
+Gimle,Støi,Undirected,1
+Petersen,kvidre,Undirected,1
+Petersen,lachen,Undirected,1
+Gimle,karl,Undirected,1
+Volmer,"gracieus,",Undirected,1
+freidig,"gracieus,",Undirected,1
+Filons,Volmer,Undirected,1
+Borch,Volmer,Undirected,11
+Hebe,Volmer,Undirected,1
+Carl,Frank,Undirected,1
+longa,vita brevis,Undirected,1
+Frøken Olsen,vita brevis,Undirected,1
+Frøken Olsen,assolula,Undirected,1
+Direc teuren,Schiller,Undirected,1
+Schiller,Volmer,Undirected,1
+Frøken Olsen,Volmer,Undirected,1
+F.,Frank,Undirected,1
+Frank,Volmer,Undirected,1
+Carlsen,Frank,Undirected,1
+Carlsen,Langsted,Undirected,3
+Langsted,mich,Undirected,1
+Søren Borch,Volmer,Undirected,1
+Borch,Ole,Undirected,2
+Ole,Volmer,Undirected,4
+Falsens,Freiberg,Undirected,1
+Borch,Freiberg,Undirected,1
+Frøken Freiberg,qui nous fera l,Undirected,1
+' honneur d,qui nous fera l,Undirected,1
+Volmer,belle cousine,Undirected,1
+Borch,belle cousine,Undirected,1
+Carl Volmer,Volmer,Undirected,1
+Carl Volmer,berg,Undirected,1
+Frøken Rauth,Volmer,Undirected,2
+Frøken Freiberg,Volmer,Undirected,1
+Borch,Cousine,Undirected,1
+Cousine,Volmer,Undirected,1
+Dandsen,Philip pine,Undirected,1
+Dandsen,Volmer,Undirected,1
+Hain,Volmer,Undirected,1
+Hain,Thora,Undirected,1
+Thora,dandser,Undirected,1
+Emma,Falsen,Undirected,1
+Emma,Maria,Undirected,2
+Maria,Thora,Undirected,1
+Emma,Volmer,Undirected,1
+Charlotte,Volmer,Undirected,1
+Thora,Volmer,Undirected,10
+Ole,tant,Undirected,2
+Volmer,sif,Undirected,1
+Ole,Thora,Undirected,3
+Freiberg,Ole,Undirected,1
+Thora,Victor Hugo,Undirected,1
+Falsen,Volmer,Undirected,3
+Falsen,Sandsen,Undirected,1
+Sandsen,Volmer,Undirected,1
+Carl,Frøken Jensen,Undirected,1
+Clara,Frøken Jensen,Undirected,1
+Carlsen,Clara,Undirected,1
+Carlsen,Volmer,Undirected,1
+Carlsen,Holberg,Undirected,1
+Dands,Falsen,Undirected,1
+Dands,Thora,Undirected,1
+Frøken Falsen,Volmer,Undirected,1
+Frøken Falsen,Thora,Undirected,1
+Thora,skjælmsk,Undirected,1
+Skjønjomfru,Volmer,Undirected,1
+Volmer,moqueret,Undirected,1
+Ludvig,moqueret,Undirected,1
+Laura,Ludvig,Undirected,1
+Carlsen,Frøken Jensen,Undirected,1
+Gud,Lodvig,Undirected,1
+Clara,Volmer,Undirected,1
+Clara,Othello,Undirected,1
+Laura,Othello,Undirected,1
+Praxis,Volmer,Undirected,1
+Langsted,Volmer,Undirected,1
+Lodvig,Volmer,Undirected,1
+Petersen,Thora,Undirected,1
+Carlsen,Petersen,Undirected,1
+Ballel,Volmer,Undirected,2
+D. B.,Nielsen,Undirected,1
+D. B.,x. x.,Undirected,1
+Petersen,x. x.,Undirected,1
+Petersen,emeritus Rasmussen,Undirected,1
+Toddy,emeritus Rasmussen,Undirected,1
+Nielsen,Rasmussen,Undirected,1
+Jacob von Thybo,Nielsen,Undirected,1
+Nielsen,hans Jesper Rasmussen,Undirected,1
+Mr. Christoffersen,hans Jesper Rasmussen,Undirected,1
+Petersen,Rasmussen,Undirected,1
+Nielsen,Petersen,Undirected,3
+Johansen,Rasmussen,Undirected,2
+Rasmussen,brelliant,Undirected,1
+Pefersen,Rasmussen,Undirected,1
+Pefersen,Redacteuren,Undirected,1
+Madame Badutskis,Nielsen,Undirected,1
+Bajadsens,Madame Badutskis,Undirected,1
+Redacteur Nielsen,Volmer,Undirected,2
+Hr. Rasmussens,Volmer,Undirected,1
+Hr. Rasmussens,Rasmussen,Undirected,1
+Nielsen,Volmer,Undirected,1
+Viel Geschrey,wenig Wolle,Undirected,1
+Bram,Hr. Vielgeschrey,Undirected,1
+Borch,Thora,Undirected,1
+Carl Volmer,Thora,Undirected,2

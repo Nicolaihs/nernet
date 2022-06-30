@@ -1,0 +1,223 @@
+source,target,type,weight
+Madam Ørbæks,Ørbæk,Undirected,1
+Madam Ørbæks,Martha,Undirected,2
+Bach,Ørbæk,Undirected,3
+Madam Ørbæk,Ørbæk,Undirected,1
+Madam Ørbæk,Martha,Undirected,4
+Martha,Ørbæk,Undirected,50
+Hnn,ban,Undirected,1
+Hermansen,ban,Undirected,1
+Clara,Martha,Undirected,1
+Clara,Ørbæk,Undirected,3
+Bolette,Ørbæk,Undirected,1
+Bolette,Nikoline,Undirected,1
+Christian Ørbæk,Clara,Undirected,1
+Clara,Sørensen,Undirected,2
+Sørensen,Varro,Undirected,9
+selo,Ørbæk,Undirected,1
+Gud,Ørbæk,Undirected,3
+Martha,Nikoline,Undirected,1
+Martha,assyne,Undirected,1
+Caroline,Sørensen,Undirected,1
+Caroline,Eleonora,Undirected,1
+Eleonora,Madam Ørbæk,Undirected,1
+Clara,sine Døttre,Undirected,1
+Varro,Ørbæk,Undirected,18
+Clara Ørbæk,OskarVarro,Undirected,1
+Bach,Hermansen,Undirected,2
+Bach,Nei,Undirected,1
+Clara,Varro,Undirected,2
+Nikoline,Varro,Undirected,1
+Martha,Snee,Undirected,1
+Gud,Martha,Undirected,4
+Martha,Sørensen,Undirected,5
+Martha,a,Undirected,2
+Klaus Maage,Martha,Undirected,5
+Klaus Maage,Ørbæk,Undirected,2
+Aagerkarl,lien,Undirected,1
+Maage,Ørbæk,Undirected,6
+Maage,Martha,Undirected,12
+Øe,Ørbæk,Undirected,1
+Barros,Oskar Varro,Undirected,1
+Barros,Varro,Undirected,1
+A.,Varro,Undirected,1
+A.,B.,Undirected,1
+B.,Varro,Undirected,1
+Gud,Varro,Undirected,4
+Barros,Sørensen,Undirected,1
+Clara Ørbæk,Varro,Undirected,1
+Barros,Clara Ørbæk,Undirected,1
+Barros,dreie,Undirected,1
+Sørensen,dreie,Undirected,1
+Ieg,Sørensen,Undirected,1
+Holm,ester,Undirected,1
+Martha,Varro,Undirected,46
+Sørensen,Ørbæk,Undirected,2
+Clara Ørbæk,Sørensen,Undirected,1
+Sfræder Hermansen,Ørbæk,Undirected,2
+Hermansen,Stræder,Undirected,1
+Christian Ørbæk,Øebæk,Undirected,1
+Christian,Ørbæk,Undirected,2
+Hr. Petersen,Hr. Ørbæk,Undirected,2
+Hr. Ørbæk,Petersen,Undirected,1
+Damasfes,Petersen,Undirected,1
+Damasfes,Ørbæk,Undirected,1
+Petersen,Ørbæk,Undirected,9
+Tamsen,Ørbæk,Undirected,3
+Stræder Hermansen,Ørbæk,Undirected,1
+Kognae,Petersen,Undirected,2
+Aagerkarlen,G. B. P et ersen,Undirected,1
+Maage,taus,Undirected,1
+Martha,feg,Undirected,1
+Martha,Tamsen,Undirected,2
+Martha,lille Martha,Undirected,1
+Martha,Moders,Undirected,1
+Barro,Ørbæk,Undirected,7
+Barro,Sørensen,Undirected,2
+MarthaS,Varro,Undirected,1
+Petersen,Varro,Undirected,10
+Tamsen,Varro,Undirected,2
+Sidsfe,Varro,Undirected,2
+ClanS,Martha,Undirected,1
+Martha,Petersen,Undirected,13
+Delmenhorst,Martha,Undirected,1
+Eigilsen,Turgan,Undirected,1
+Eigilsen,Tnrgau,Undirected,1
+Tnrgau,Turgau,Undirected,1
+Eigilsen,Turgau,Undirected,1
+Eigilsen,Varro,Undirected,1
+Barro,Petersen,Undirected,3
+Petersen,nemfsrt,Undirected,1
+Petersen,Tamsen,Undirected,2
+Martha,Varro tog,Undirected,1
+Petersen,Varro tog,Undirected,1
+Martha Armen,Petersen,Undirected,1
+Aagerkarlenes,Ørbæk,Undirected,1
+Petersen,susfe,Undirected,2
+Maage,Petersen,Undirected,5
+Barro,Bravo,Undirected,1
+Barro,Maage,Undirected,3
+Maage,Varro,Undirected,4
+Klaus Maage,Varro,Undirected,1
+Klaus Maage,Varro upaatvivlelig,Undirected,1
+Barro,Varro,Undirected,4
+Varro,gansfe,Undirected,1
+Petersen,Varro folie,Undirected,1
+Varro,selo,Undirected,2
+Ordensbaand,Varro,Undirected,1
+Barro,ban,Undirected,1
+Graad,ban,Undirected,1
+Graad,Martha,Undirected,2
+Klaus Maage,Wresgjæsfen,Undirected,1
+Aagerkarl,Klaus Maage,Undirected,1
+Aagerkarl,staaer,Undirected,1
+Aagerkarlenes,staaer,Undirected,1
+Juno,Jupiter,Undirected,1
+Jupiter,Venus,Undirected,1
+Juno Wblet,Venus,Undirected,1
+Martha,Ørbak,Undirected,2
+esterat,Ørbæk,Undirected,1
+Martha,hnn,Undirected,1
+Martha fled,Ørbæk,Undirected,1
+Martha fled,hans,Undirected,1
+Varro,hans,Undirected,1
+Antonistrædes,Ørbæk,Undirected,1
+Jensen,Ørbæk,Undirected,1
+Martha,slilfærdige,Undirected,1
+Barro,Martha,Undirected,4
+Kabuds,Martha,Undirected,2
+Martha,mya,Undirected,1
+Jesper Beenløse,Martha,Undirected,4
+Antonistrædes,Jesper Beenløse,Undirected,1
+Antonistrædes,Panter,Undirected,1
+Beenlsse,Martha,Undirected,1
+Beenlsse,Ørbæk,Undirected,1
+Clara Ørbæk,Martha,Undirected,1
+Barro,Clara,Undirected,1
+Martha,taug,Undirected,2
+Nikoline,Ørbæk,Undirected,1
+Martda,Ørbæk,Undirected,1
+Martha paany,Varro,Undirected,1
+Graad,Martha paany,Undirected,1
+Martha,Thee,Undirected,1
+Hr. Petersen,Maage,Undirected,1
+Frsken,Ørbæk,Undirected,1
+Karl,Ørbæk,Undirected,1
+Hr. Petersen,Martha,Undirected,1
+Frøken Martha,Maage,Undirected,1
+Frøken Martha,Hr. Ørbæk,Undirected,1
+Martha,dei,Undirected,1
+Hnn,Martha,Undirected,1
+Jesper Beenløse,Madam Gurth,Undirected,1
+Jespers,Madam Gurth,Undirected,1
+Jesper,Jespers,Undirected,1
+Jesper,Jesper Beenløse,Undirected,2
+Aager,Jesper,Undirected,1
+Aager,Martha,Undirected,1
+Jesper,Martha,Undirected,10
+Jesper,Madam Gurth,Undirected,8
+Jesper,lille Madam,Undirected,1
+Martha,Martha Ørbæk,Undirected,1
+Jesper,Ørbæk,Undirected,2
+Jesper,hnn,Undirected,1
+Madam Gurth,Martha,Undirected,13
+Josefine Gurth,Madam Gurth,Undirected,1
+Josefine Gurth,Klinkemand Gurth,Undirected,1
+Madamen,Martha,Undirected,1
+Martha,bun,Undirected,1
+Jesper,Skraa,Undirected,1
+Martha,Skraa,Undirected,1
+Jesper,Klaus Maage,Undirected,1
+Antonistræde,Varro,Undirected,1
+Antonistræde,Martha,Undirected,3
+Hansen,Ørbæk,Undirected,2
+Oskar Varro,Ørbæk,Undirected,1
+Varro,fleet,Undirected,1
+Hihihi,Martha,Undirected,1
+Varro,hav,Undirected,1
+Martha,hav,Undirected,1
+Ieg,Jesper,Undirected,1
+Beenløse,Ørbæk,Undirected,6
+Beenløse,Martha,Undirected,8
+Jesper Beenlsse,Martha,Undirected,1
+Alvilda Nielsen,Hjaltebeen,Undirected,1
+Hjaltebeen,Marie Steffensen,Undirected,1
+Ansgarius,Marie Steffensen,Undirected,1
+,Ansgarius,Undirected,1
+,Kyshaand,Undirected,1
+Beenløse,Maage,Undirected,2
+Klaus Maage,Petersen,Undirected,1
+Antonistræde,Klaus Maage,Undirected,1
+Antonistræde,Petersen,Undirected,1
+Beænloses,Martha,Undirected,1
+Barro,Beænloses,Undirected,1
+Barro,Beenløse,Undirected,2
+hnn,Ørbæk,Undirected,2
+Beenløse,Jesper,Undirected,1
+Beenløse,deelle,Undirected,1
+Martha Jespers,Ørbæk,Undirected,1
+Jesper,Martha Jespers,Undirected,1
+Petersen,l ende,Undirected,1
+Don Quixote,Martha Ørbæk,Undirected,1
+Ieg,Ørbæk,Undirected,1
+Martha,Oskar Varro,Undirected,1
+Martha,Trosf,Undirected,2
+Jesper Beenlsse,Madam Gurth,Undirected,1
+Hr. Ørbæk,Varro eier,Undirected,1
+Jomfru Ørbæk,Martha,Undirected,1
+Martha,Onkel Varro,Undirected,1
+Beenløse,Madam Gurth,Undirected,2
+Madam Beenløses,Madam Gurth,Undirected,1
+Barme,Petersen,Undirected,1
+JeSper Beenløse,Martha,Undirected,1
+Maage,brast Petersen,Undirected,1
+Martha,brast Petersen,Undirected,1
+Beenløse,Jomfru Ørbæk,Undirected,1
+Jomfru Ørbæk,Madam Beenløse,Undirected,1
+Beenlsse,Gud,Undirected,2
+Dsdes,Gud,Undirected,1
+Martha,Martha Thee,Undirected,1
+Martha Thee,Ørbæk,Undirected,1
+Martha,ban,Undirected,2
+Klans,dans,Undirected,1
+Martha,dans,Undirected,1

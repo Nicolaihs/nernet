@@ -1,0 +1,348 @@
+source,target,type,weight
+Jesus,Muhamed,Undirected,1
+Abdul Pascha,Kaleschen,Undirected,1
+Alexanders,Emilie,Undirected,1
+Abdul Pascha,Alexanders,Undirected,1
+Alexander,Alexanders,Undirected,1
+Abdul Pascha,Alexander,Undirected,4
+Abdul Pascha,Sir Elliot,Undirected,1
+Eunncherne,sledse,Undirected,1
+Abdul Pascha,Eunncherne,Undirected,1
+Allah Kerim,Karlen,Undirected,1
+Alexander,Allah Kerim,Undirected,1
+Alexander,Eunuchen,Undirected,1
+Abdul Pascha,Eunuchen,Undirected,3
+Abdul Pascha,raa Karl,Undirected,1
+Emilie,raa Karl,Undirected,1
+BaschiBozuk,Hnnd,Undirected,1
+Allah,Bastonnade,Undirected,1
+Abdul Pascha,Allah,Undirected,1
+Alexander,Emilie,Undirected,20
+Alexander,Saaret,Undirected,1
+Alexander,Thomas,Undirected,10
+Abdul Pascha,Alexandros,Undirected,1
+Alexander,dzt,Undirected,1
+Allah Kerim,Salem allikum,Undirected,1
+Muftapha,Thomas,Undirected,1
+Engelst,Thomas,Undirected,1
+Engelst,Ischallah,Undirected,1
+Ischallah,Mustapha,Undirected,1
+Alexandras,Thomas,Undirected,1
+Thomas,paany,Undirected,1
+Danst,Martin Hammer,Undirected,1
+Hejda,Martin Hammer,Undirected,1
+Hejda,Mustapha,Undirected,1
+Alexander,Martin Hammer,Undirected,8
+Alexander,Hammer,Undirected,4
+Musselmanven,sfreg,Undirected,1
+Allah,eudnu,Undirected,1
+Mustapha,Tyrken,Undirected,2
+Padischahen,Tyrken,Undirected,1
+Abdul Pascha,Mustapha,Undirected,3
+Abdul Pascha,Muftapha,Undirected,1
+Abdallah,Abdallah Effendi,Undirected,1
+Abdallah,Mustapha,Undirected,2
+Abdallah Effendi,Abdul Pascha,Undirected,1
+Abdallah,Abdul Pascha,Undirected,1
+Ismail,Mustapha,Undirected,5
+Allah,Ismail,Undirected,3
+Allah,Mustapha,Undirected,5
+Abdallah Effendi,Mustapha,Undirected,1
+Ingliser,Ismail,Undirected,1
+Ingliser,Mustapha,Undirected,1
+Effendis,Ismail,Undirected,1
+Abdul Pascha,Emilie,Undirected,6
+Abdul,Eunuch,Undirected,1
+Emilie,Eunnchen,Undirected,1
+Emilie,Tumba,Undirected,20
+Emilie,Huu,Undirected,1
+Kristinde,Tumba,Undirected,6
+Kristinde,Muhamed,Undirected,1
+Koranens,Muhamed,Undirected,1
+Abdul Pascha,Pascha,Undirected,1
+Emilie,Tyrkindes,Undirected,1
+Alexander,h ,Undirected,1
+an,h ,Undirected,1
+Abdul Pascha,an,Undirected,1
+Abdul Pascha,hayde,Undirected,1
+ester,hayde,Undirected,1
+Emilie,ester,Undirected,1
+Abdul Pascha,Eunuch,Undirected,2
+Eunuch,Tumba,Undirected,1
+Abdul Pascha,Tumba,Undirected,6
+Allah,Muhamed,Undirected,1
+Allah Kerim,Muhamed,Undirected,1
+Alladins,Emilie,Undirected,1
+Houris,Muhamed,Undirected,1
+Eunuchen,Muhamed,Undirected,1
+Padischa,Tumba,Undirected,1
+Jonasen,fasl,Undirected,1
+Guds,Martin Hammer,Undirected,1
+Guds,Martin,Undirected,1
+Jonasen,Marin Hammer,Undirected,1
+Martin Hammer,Thomas,Undirected,6
+Jonasen,Martin Hammer,Undirected,20
+Bastonade,Tyrken,Undirected,1
+Admiral Hogbart Pascha,Knut,Undirected,1
+Abdul Pascha,Paschaens,Undirected,1
+Martin,slal,Undirected,1
+Mylord,Thomas,Undirected,1
+Martin Hammer,Mylord,Undirected,1
+Martin Hammer,ester,Undirected,2
+Alexander,Martin,Undirected,1
+Allah,Allah—Allah—Kerim,Undirected,1
+Ismail,Martin Hammer,Undirected,2
+Alah,Ismail,Undirected,1
+Demelrio,Nikitas,Undirected,1
+Tumba,d,Undirected,1
+Emilie,Kristinde,Undirected,2
+Alexander,Demetrios,Undirected,1
+Eunuchen,Tumba,Undirected,2
+Demetrios,Emilie,Undirected,2
+Demetrio,Emilie,Undirected,4
+Emilie,Gud,Undirected,3
+Gud,Jomfru Maria,Undirected,1
+Gud,Tumba,Undirected,3
+Demetrio,Tumba,Undirected,4
+Demetrio,Gud,Undirected,2
+Dvergen,Emilie,Undirected,1
+Emilie,Jususa,Undirected,1
+Czars,Gurko,Undirected,1
+Jonasen,hans,Undirected,1
+Jack,Martin Hammer,Undirected,5
+Jonasen,Thomas,Undirected,3
+Alexander,Tyrkifl,Undirected,1
+Martin Hammer,Tyrkifl,Undirected,1
+Alexander,milie,Undirected,1
+Martin,Martin Hammer,Undirected,1
+Jack,Martin,Undirected,2
+Martin,Mr. Thompson,Undirected,1
+Hammer,Jonasen,Undirected,7
+Alexander stege,Jonasen,Undirected,1
+Alexander,Jonasen,Undirected,7
+Bob,Martin Hammer,Undirected,1
+Jonasen,Mr. Thompson,Undirected,2
+Jonas,Jonasen,Undirected,1
+Jonas,Martin Hammer,Undirected,1
+Alexander,Mænos,Undirected,1
+Alexander,Paschaen,Undirected,1
+Emilie,Eunuchen Tumba,Undirected,1
+Jonasen,Martin,Undirected,1
+Hammer,Martin Hammer,Undirected,2
+Demetrio,Eunuch,Undirected,1
+Alexander,Tumba,Undirected,6
+Alexander,Hnn,Undirected,1
+Alexander,Gud,Undirected,2
+Tumba,baa,Undirected,1
+Allah Kerim,Kristinde,Undirected,1
+Martin Hammer,Tumba,Undirected,2
+Abdul Paschas Harem,Tumba,Undirected,1
+Allah,Demetrio,Undirected,1
+Allah,Tumba,Undirected,3
+Baschi-Bozukker,Mustapha,Undirected,1
+Mustapha,b.,Undirected,1
+Mustapha,Venders,Undirected,1
+Asten,Mustapha,Undirected,1
+Allah,Profeten,Undirected,1
+Allah,Broder,Undirected,1
+Demetrio,Eunuchen,Undirected,1
+Demetrio,Suliman Paschas,Undirected,1
+Mustapha,Suliman Paschas,Undirected,1
+Demetrio,Mustapha,Undirected,2
+Janasen,Martin Hammer,Undirected,1
+Jack,Janasen,Undirected,1
+Jack,Thomas,Undirected,4
+Gud,Thomas,Undirected,2
+Mustapha,Tumba,Undirected,4
+Abdul Pascha,Thomas,Undirected,1
+Harry,Jack,Undirected,4
+Bob,David,Undirected,5
+Bob,Jack,Undirected,18
+David,Jack,Undirected,2
+Jack,pilsnar,Undirected,1
+Bob,Karl,Undirected,2
+Jack,Pascha,Undirected,1
+Pascha,sam,Undirected,1
+Bob,mau,Undirected,1
+Jack,Londen,Undirected,1
+Abdul,Abdul Pascha,Undirected,1
+Falken,Harry-,Undirected,1
+Harry,Martin Hammer,Undirected,2
+Emilie,Thomas,Undirected,2
+Emilie,Jonasen,Undirected,1
+Demetrio,Nikita,Undirected,1
+Demetrio,Pisfolen,Undirected,1
+Demetrio,Jack,Undirected,2
+Emilie,Øe,Undirected,1
+Emilie,Martin Hammer,Undirected,2
+Abdul,Sultan,Undirected,1
+fransfe,tysfe Konsul,Undirected,1
+Tumba,sam Martin Hammer,Undirected,1
+Martin Hammer,paany,Undirected,1
+Bob,sial,Undirected,1
+Martin Hammer,sfreg,Undirected,1
+Falken,Jonasen,Undirected,2
+Frøken,Jonasen,Undirected,1
+Frøken,Thomas,Undirected,1
+Engelst,Martin Hammer,Undirected,1
+Jonasen,Vams,Undirected,1
+Glæede,Jonasen,Undirected,1
+Hnn,Tumba,Undirected,1
+Hundsie Abdul Pascha,Tumba,Undirected,1
+Hundsie Abdul Pascha,Raahed,Undirected,1
+Allah,Gud,Undirected,1
+John,Tumba,Undirected,1
+Tumba,raaate,Undirected,1
+Curara,Emilie,Undirected,1
+Jack,Tumba,Undirected,2
+Emilie,Jack,Undirected,4
+Jack,Svalen,Undirected,1
+Mr. Patrick,Mr. Thompson,Undirected,3
+Air,Thompson,Undirected,1
+Jonathan Jenkins,Mr. Thompson,Undirected,2
+Jonathan,Thompson,Undirected,1
+Mr. Thompson,Patrick,Undirected,2
+Jonathan,ester,Undirected,1
+Jonathan Jenkins,Kammeral,Undirected,1
+Mr. Thompson,eil,Undirected,1
+Bob,Mr. Thompson,Undirected,20
+Herreu,Mr. Thompson,Undirected,1
+Emely,Emilie,Undirected,1
+Emilie,lille Bob,Undirected,1
+Jack,Karl,Undirected,2
+Jtke,Mr. Thompson,Undirected,1
+Bob,Bob Jenkins,Undirected,4
+Jenkins,Jonathan,Undirected,1
+Bob,Mr. Thompsdn,Undirected,1
+Mr. Trimpleton,Paany,Undirected,1
+Bob,Uraad,Undirected,1
+Mr. Thompson,Øet,Undirected,1
+Jack,Mr. Thompson,Undirected,19
+Bob Jenkins,Mr. Thompson,Undirected,2
+Jack,Saars,Undirected,1
+Mr. Thompson,Saars,Undirected,1
+Jack,MrThompson,Undirected,1
+Gud,Mr. Thompson,Undirected,1
+Jack,Mr. Trimpleton,Undirected,1
+Jack,Tys,Undirected,1
+Jack,lo Thompson,Undirected,2
+Mr. Trimpleton,olliuoiso,Undirected,1
+Mr. Thompson,Trimpleton,Undirected,1
+Mr. Thompson,Mr. Trimpleton,Undirected,3
+Gud,Jonathan,Undirected,1
+David,Jonathan,Undirected,1
+Bob,Jonathan,Undirected,7
+Jonathan,Sir Duncans,Undirected,1
+Jonathan,d ' Hrr,Undirected,1
+Bob,Sir Duncan,Undirected,2
+Mr. Duncan,Mr. Simple,Undirected,1
+Bob,Mr. Duncan,Undirected,1
+Mr. Simple,Mylord,Undirected,1
+Dhr Jenkins,Sir Duncan,Undirected,1
+Duncans,Mylord,Undirected,1
+Mr. Simple,Sir Duncan,Undirected,2
+Emilie,lom Mr. Trimpleton,Undirected,1
+Duncan,Tumba,Undirected,1
+Jenkins,Tumba,Undirected,1
+Grossing,Sir Duncan,Undirected,1
+Dancun,Duncan,Undirected,1
+Bob,Grossing,Undirected,13
+Emilie,Rose,Undirected,1
+Alexander,Pascha,Undirected,1
+Emilie,Mr. Thompson,Undirected,3
+Mr-,Thompson,Undirected,1
+Tumba,Tyrkifl,Undirected,1
+Mr. Thompson,Tyrkifl,Undirected,1
+Hnnd,Jonathan,Undirected,1
+Jack,Mr. Bob Jenkins,Undirected,1
+Bob Jenkins,Jack,Undirected,1
+Mr. Thompson,Sir Duncan,Undirected,1
+Mr. Thompson,Thompson,Undirected,1
+Hammer,Mr. Thompson,Undirected,3
+Jack,Jonasen,Undirected,2
+Jack,Mr. _,Undirected,1
+Mr. _,Thompson,Undirected,1
+Jack,Thompson,Undirected,1
+Alexander,Mr. Thompson,Undirected,2
+Mr. Thompson,jeq,Undirected,1
+Gud,Jim,Undirected,2
+Hammer,Hr. Kapitajn,Undirected,1
+Hr. Kapitajn,Mr. Thompson,Undirected,1
+Bresche,Mr. Thompson,Undirected,1
+Mr. Thompson,h,Undirected,1
+Mr. Thompson,sfal,Undirected,1
+Martin Hammer,Mr. Thompson,Undirected,2
+Bill,Herer,Undirected,1
+Herer,Mr. Thompson,Undirected,1
+Bill,Karl,Undirected,1
+Bedsfe,Gud,Undirected,1
+Gud,Jack,Undirected,3
+Chatollets,Mr. Thompson,Undirected,1
+Alexander sfred,Jonasen,Undirected,1
+Hammer,Jack,Undirected,6
+Jack,bo t.,Undirected,1
+Jack,Kapitajn,Undirected,1
+Elsfede,Emilie,Undirected,1
+Elsfede,alorig,Undirected,1
+Grossing,Mr. Thompson,Undirected,3
+Bob,Grosfing,Undirected,1
+Grossing,gol,Undirected,1
+Abraham,Grossing,Undirected,1
+Bob,Pisfolen,Undirected,1
+Bob,Dosmer,Undirected,1
+Bob,niente,Undirected,1
+Bob,Jerome,Undirected,1
+Mr. Thompson,næsfen,Undirected,1
+Grossing,Smith,Undirected,1
+Bob,Smith,Undirected,1
+Bob Jenkips,Mr. Thompson,Undirected,1
+Mr,Thompson,Undirected,1
+Bob,Tumba,Undirected,2
+Emilie,Lise,Undirected,3
+Emilie,William Smith,Undirected,3
+Clinton,Mr. Thompson,Undirected,1
+Hnn,Paschaen,Undirected,1
+Grossing,Karen Emilie Leth,Undirected,1
+Karen Emilie Leth,Smith,Undirected,1
+Hnn,Mr. Smiths,Undirected,1
+Karen Emilies,Ulrik,Undirected,1
+Kapitajn Rømer,Karen Emilies,Undirected,1
+Kapitajn Rømer,Lise,Undirected,1
+Lise,Ulrik,Undirected,5
+Ulrik,Vilhelm,Undirected,1
+Lise,Vilhelm,Undirected,2
+Lise,Ulrik Jensen,Undirected,3
+Emilie,Grossing,Undirected,1
+Emilie,Vilhelm,Undirected,1
+Emilie,Eunuch,Undirected,1
+Alexander,Sir Smith,Undirected,1
+Grossing,Tumba,Undirected,5
+Grossing,Øe,Undirected,1
+Dolken,Tumba,Undirected,1
+Grossing,Tyrken,Undirected,1
+Grossing,Ulrik,Undirected,1
+Grossing,Gud,Undirected,1
+Hektor,Marv,Undirected,1
+Holla,holla,Undirected,1
+Hektor,holla,Undirected,1
+Hektor,Mr. Thompson,Undirected,1
+Hektor,Thompson,Undirected,1
+Emilie,Sir William Smith,Undirected,1
+Grossing,Sir William Smith,Undirected,1
+Emilie,Karl,Undirected,1
+Hammer,Karl,Undirected,1
+Bravo,bravo,Undirected,1
+Emilie,^agde Alexander,Undirected,1
+Emilie,Smith,Undirected,1
+Lise,ril,Undirected,1
+Emilie,Ulrik,Undirected,1
+Alexander,Leth,Undirected,1
+Elsfede,Gud,Undirected,1
+Lise,Moer Lise,Undirected,1
+Emilie,Hvorleoes,Undirected,1
+Lise,Sky,Undirected,1
+Lise,vidsfe,Undirected,1
+Jensen,Lise,Undirected,1
+Jonasen,Nenner Hammer,Undirected,1
+Karen,lille Karen,Undirected,1
+Gud,lille Karen,Undirected,1

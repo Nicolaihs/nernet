@@ -1,0 +1,254 @@
+source,target,type,weight
+Graaulven,Kaar,Undirected,1
+Frederik,Kaar,Undirected,1
+Frederik,Jens Børgesen,Undirected,1
+Jens Børgesen,Marie Hansdatter,Undirected,2
+Børge Jensen,Jens Børgesen,Undirected,1
+Else,Svend Børgesen,Undirected,2
+Børge Jensen,Else Børges,Undirected,1
+Else Børges,Svend,Undirected,1
+Else,Svend,Undirected,7
+Else,Karlen,Undirected,2
+Else,Niels Bendtsen,Undirected,3
+Niels,Svend,Undirected,4
+Anine,Svend,Undirected,38
+Boline,Valborgs,Undirected,1
+Farmor,Valborgs,Undirected,1
+Farmor,Peder Paars,Undirected,1
+Fogdens,rinde,Undirected,1
+Barbara,rinde,Undirected,1
+Farmor,dan,Undirected,1
+Boline,Erkebisp Absalon,Undirected,1
+Boline,Karle,Undirected,1
+Grabber,Karle,Undirected,1
+Farmor,Sandbjærge,Undirected,1
+Farmor,Svend,Undirected,3
+Jesu,Svend,Undirected,1
+Else,Jens Børgesen,Undirected,1
+Jens Børgesen,Svend,Undirected,1
+Stjern,Svend,Undirected,8
+Niels Bendtsen,Svend,Undirected,8
+Niels Bendtsen,Stjern,Undirected,1
+Holzer,Stjern,Undirected,1
+Maanelys,Svend,Undirected,1
+Mariane,Niels Bendtsen,Undirected,2
+Mariane,Niels,Undirected,2
+Mariane,Svend,Undirected,5
+Anine,Troels,Undirected,10
+Svend,nyssens,Undirected,1
+Anine,Bredals,Undirected,1
+Bredals,Emilie,Undirected,1
+Emilie,Tyfus,Undirected,1
+Bredals,Madam Bredal,Undirected,2
+Anine,Mariane,Undirected,8
+Niels Bendtsen,Troels Troelsen,Undirected,1
+Kristen Smed,Svend,Undirected,1
+Niels Bendtsen,Troels Trodsen,Undirected,1
+Svend,Troels,Undirected,19
+Niels Bendtsen,Troels,Undirected,8
+Pjalte,Svend,Undirected,1
+Niels Bendtsen,signe,Undirected,1
+Holzer,Niels Bendtsen,Undirected,1
+Gud,Svend,Undirected,5
+Svend,Svend Børgesen,Undirected,1
+Anine,Sofie,Undirected,3
+Hedemann,Svend Børgesen,Undirected,1
+Hedemann,Karlen,Undirected,1
+Sofie,Svend,Undirected,5
+Sofie,hinde,Undirected,1
+Oljedraaber,Troels,Undirected,1
+Lille-Bendt,Niels Bendtsen,Undirected,3
+Bendt,Niels Bendtsen,Undirected,2
+Bendt,Goliat,Undirected,1
+Goliat,Niels,Undirected,1
+Else,Mariane,Undirected,3
+Aksel,Stjern,Undirected,1
+Niels,Niels Bendtsen,Undirected,2
+Karlen,Niels Bendtsen,Undirected,1
+Else,Nine,Undirected,1
+Else,desli-ge,Undirected,1
+Børges,Niels Bendtsen,Undirected,1
+Else,Niels,Undirected,1
+Mariane,Troels,Undirected,5
+Niels Bendtsens-----------,Svend,Undirected,2
+Anine,Else,Undirected,6
+Boline,Else,Undirected,3
+Anine,Niels Bendtsen,Undirected,1
+Bredals,Mariane,Undirected,1
+Anine,Jomfru Bredal,Undirected,2
+Else,Jomfru Bredal,Undirected,2
+Heiberg,Jens Ludvig,Undirected,1
+Heiberg,Malte Bruun,Undirected,1
+Else,Madam Bredal,Undirected,1
+Madam Bredal,Mariane,Undirected,1
+Emilie,Jens Ludvig,Undirected,1
+Lille-Bendt,Niels,Undirected,1
+Lille-Bendt,Troels,Undirected,4
+Niels,Troels Troelsen,Undirected,2
+Karlen,Niels,Undirected,1
+Niels,Troels,Undirected,1
+Lille-Bendt,Svend —,Undirected,1
+Svend,Svend —,Undirected,2
+Gud,Vega,Undirected,1
+Anine,Svend Børge-sens,Undirected,1
+Karl,Svend,Undirected,1
+Maren Skræders,Ole Bendtsen,Undirected,1
+Ole Bendtsen,Ole Skræder,Undirected,1
+Per,Søren,Undirected,1
+Jørgen,Ole,Undirected,1
+Jørgen,Per,Undirected,1
+Svend Børgesen,els,Undirected,1
+Svend,els,Undirected,1
+Karle,Svend,Undirected,1
+Anine,Bendt,Undirected,1
+Lille-Bendt,Svend,Undirected,1
+Lille-Bendt,Mariane,Undirected,3
+Jens Snedker,Lille-Bendt,Undirected,1
+Bendt,Svend,Undirected,1
+Boline,Helenes,Undirected,1
+Blaalys,Helenes,Undirected,1
+Jens Ludvig,Vega,Undirected,1
+Boline,Mariane,Undirected,4
+Boline,Jens Johannesens,Undirected,1
+Jens Johannesens,Lars Jens,Undirected,1
+Boline,Karlen,Undirected,1
+Maren,Marne,Undirected,2
+Mariane,Marne,Undirected,1
+Karl,Mariane,Undirected,1
+Jesu,Mariane,Undirected,1
+Maren,Svend,Undirected,3
+Maren,lille Lene Marie,Undirected,1
+Karl,Maren,Undirected,1
+Karl,Tønnes,Undirected,1
+Boline,Marne,Undirected,1
+Stine,Villums,Undirected,1
+Faster,Marne,Undirected,1
+Lille-Bendt,Svend Børgesen,Undirected,1
+Davren,Svend,Undirected,1
+Svend,Tønnes,Undirected,1
+Gud Faders,Gud Hellig-Aands,Undirected,1
+Gud Hellig-Aands,Svend.,Undirected,1
+Else,Jesu,Undirected,1
+Jens Jens’,Knejse-Ole,Undirected,1
+Grete Hørbryders,Knejse-Ole,Undirected,1
+Hule-Jens,Svend,Undirected,1
+Jesu,Svend Børgesen,Undirected,1
+Anine,Troeis,Undirected,2
+Anine,Tønnes,Undirected,1
+Anine,valke,Undirected,1
+Lille-Bendt,Villum,Undirected,1
+Laur-Olje,obner,Undirected,1
+Bredal,Bredals,Undirected,1
+Bredal,Gud,Undirected,2
+Bredal,Sirtses,Undirected,1
+Madam Bredal,Sirtses,Undirected,1
+Anine,Madam Bredal,Undirected,4
+Emilie,Madam Bredal,Undirected,1
+Lynge,tine,Undirected,1
+Lynge,Peter Jørgen Frydendahl,Undirected,1
+Marstrands,Peter Jørgen Frydendahl,Undirected,1
+Jens Baggesen,Marstrands,Undirected,1
+Jens Baggesen,Jens Ludvig Nielsen,Undirected,1
+Jens Ludvig Nielsen,Jonas Kein,Undirected,1
+Jonas Kein,Rahbek,Undirected,1
+Rahbek,Tode,Undirected,1
+Jens Ludvig,Tode,Undirected,1
+Jens Ludvig,Mille,Undirected,1
+Brammer,Mille,Undirected,6
+Anine,Mille,Undirected,5
+Mille,Svend,Undirected,2
+Frandsen,truede Bredal,Undirected,1
+Bredal,Svend Børgesen,Undirected,3
+Madam Bredal,Mille,Undirected,2
+Brammer,Frandsen,Undirected,1
+Frandsen,Mille,Undirected,1
+Anine,Gud,Undirected,4
+Frandsen,Maren,Undirected,1
+Hvo,Svend Børgesen,Undirected,1
+Gud,Lille Lene Marie,Undirected,1
+Bredal,Madam Bredal,Undirected,1
+Praasen,Svend,Undirected,1
+Bredal,Praasen,Undirected,1
+Maren,"Svend,",Undirected,1
+Jens Ludvig Nielsen,"Svend,",Undirected,1
+Mille,Tante,Undirected,1
+Dampes,Jørgensen,Undirected,1
+Bernstorff,Reventlow,Undirected,1
+Colbjørnsen,Reventlow,Undirected,1
+Jens Ludvig,Svend,Undirected,1
+Catechimus,Jens Ludvig,Undirected,1
+Catechimus,Heiberg,Undirected,1
+Balthasar Christensen,Heiberg,Undirected,1
+Balthasar Christensen,Orla Lehmann,Undirected,1
+David,Orla Lehmann,Undirected,1
+David,Wessely,Undirected,1
+Johannes Hage,Wessely,Undirected,1
+Clausen,Johannes Hage,Undirected,1
+Gud,Søren,Undirected,1
+Bredal,Svend,Undirected,7
+Helenes,Svend,Undirected,1
+Svend,migigen,Undirected,1
+Anine,Svend Børgesen,Undirected,1
+Anine,Anine Nielsdatter,Undirected,1
+Anine,Bredal,Undirected,6
+Bendt,Troels,Undirected,1
+Anine,Jens Ludvig,Undirected,6
+Bredal,Melpo-menes,Undirected,1
+Melpo-menes,Musasøn,Undirected,1
+Bredal,Jens Ludvig,Undirected,1
+Frydendahls,Jens Ludvig,Undirected,1
+Bredal,Frydendahl,Undirected,2
+Børgesen,Svendsen,Undirected,1
+Børgesen,Svend Børgesen,Undirected,1
+Jens Ludvig,Uve Lornsens,Undirected,1
+Hage,Jens Ludvig,Undirected,1
+Børge,Svend Børgesen,Undirected,1
+Fryden-dahl,Mille,Undirected,1
+Jens Ludvig,Madam Bredal,Undirected,5
+Jens Ludvig,Sofie,Undirected,1
+Fryden-dahl,Jens Ludvig,Undirected,1
+Anine,Frydendahl,Undirected,1
+Jens Ludvig,Svend Børgesen,Undirected,1
+Hage,Joh.,Undirected,1
+Bredal,Maren,Undirected,1
+Blicher,Bukkar,Undirected,1
+Bukkar,Gud,Undirected,1
+Anine,Jere,Undirected,1
+C. N. David,Johannes Hage,Undirected,1
+David,Johannes Hage,Undirected,1
+David,Maren,Undirected,1
+Lene Marie,Stjern,Undirected,1
+Lene Marie,Svend,Undirected,1
+Boline,Gud,Undirected,1
+Else,Stegers,Undirected,1
+Stegers,Svend,Undirected,1
+Bredal,Frandsen,Undirected,1
+Frandsen,Svend,Undirected,1
+Schouw,Svend,Undirected,1
+A. S. Ørsted,J. F. Schouw,Undirected,1
+J. F. Schouw,L. N. Hvidt,Undirected,1
+David,L. N. Hvidt,Undirected,1
+David,Drewsen,Undirected,1
+Drewsen,Ørsted,Undirected,1
+Frederik d.,Ørsted,Undirected,1
+Bredal —,Svend,Undirected,1
+Bredal —,Jens Ludvig,Undirected,1
+Anine,Ørsted,Undirected,1
+Madam Bredal,Troels,Undirected,1
+Helenes,Madam Bredal,Undirected,1
+Helenes,Mille,Undirected,1
+Lille-Bendt,Madam Bredal,Undirected,1
+Frydendahl,Jens Ludvig,Undirected,1
+Gud,Jens Ludvig,Undirected,1
+Bredal,Mille,Undirected,1
+Hans Tavsen,Luther,Undirected,1
+Hans Tavsen,Jørgen Sadolin,Undirected,1
+Gud,Jørgen Sadolin,Undirected,1
+Anine,Tante,Undirected,1
+Svend,lille Jomfru Nielsen,Undirected,1
+Else,Lene Marie,Undirected,1
+Bredal,Mille Brammer,Undirected,1
+Gud,Madam Bredal,Undirected,1
+Madam Bredal,Svend,Undirected,1
+Dumaa,Gud,Undirected,1
+Anine,Vega,Undirected,1

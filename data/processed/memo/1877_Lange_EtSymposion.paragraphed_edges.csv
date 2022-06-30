@@ -1,0 +1,21 @@
+source,target,type,weight
+Gud,Kjeldgaards,Undirected,1
+Lærke,Moer,Undirected,1
+Blicher,Lærke,Undirected,1
+Blicher,Mads,Undirected,1
+Mads,Niels Skytte,Undirected,1
+Boye,Fenne,Undirected,1
+Fenne,Ho,Undirected,1
+Mette Hav,jusf,Undirected,1
+Gud,Husbond,Undirected,1
+Karl,ane,Undirected,1
+Tyfus,fmitsom,Undirected,1
+Asten,sra,Undirected,1
+Ida,Ida Helmstorff,Undirected,1
+Dands,Dandse,Undirected,1
+Kjeldgaard,Rofers,Undirected,1
+Johanne,Schaldemoses,Undirected,1
+Anna,Minna,Undirected,1
+Brenda,Minna,Undirected,3
+Brenda,Walter Scotts,Undirected,1
+Ifjor Vinter,W.,Undirected,1

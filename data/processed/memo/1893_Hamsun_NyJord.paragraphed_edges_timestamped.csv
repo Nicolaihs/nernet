@@ -1,0 +1,619 @@
+source,target,timestamp
+H. Henriksens,Irgens,3
+Irgens,ifra,11
+Grande,Irgens,11
+Grande,Paulsberg,11
+Lars Paulsberg,Paulsberg,11
+Irgens,Lars Paulsberg,11
+Irgens,Paulsberg,17
+Paulsberg,jagu,17
+Grande,Milde,27
+Grande,Paulsberg,27
+Irgens,Paulsberg,30
+Grand,Tidemand,33
+Paulsberg,Øjen,35
+Paulsberg,Thorahus,35
+Ole Henriksen,Thorahus,35
+Ole Henriksen,Tidemand,35
+Grande,Paulsberg,37
+Ole Henriksen,Paulsberg,37
+Grande,Norem,38
+H. Henriksens,Ole,43
+Olje,Tidemand,46
+Ole,Tidemand,47
+Ole Henriksen ejed,Tidemand,49
+Henriksens,Ole Henriksen ejed,49
+Ole,Tidemand,55
+Ole,Tidemand,55
+Ole,Ole Henriksen,59
+Ole,Tidemand,59
+Grand,Tidemand,60
+H. Henriksens,Ole Henriksen,66
+Henriksen,Ole Henriksen,66
+Henriksen,Tidemand,66
+Ole,Tidemand,80
+Ole,Tidemand,81
+Ole,Tidemand,82
+Hanka,Tidemand,89
+Ole,Tidemand,89
+Hanka,Ole,89
+Grand,Hanka,90
+Andreas,Grand,90
+Hanka,Ole,92
+Ole,Tidemand,93
+Ole Henriksen,ifjor,110
+Gregersen,ifjor,110
+Gregersen,Paulsberg,110
+Grande,Paulsberg,111
+Frue,Grande,111
+Guds,Irgens,115
+Norem,Paulsberg,123
+Norem,Skaal,124
+Grande,Norem,124
+Gud,Norem,125
+Grande,Paulsberg,127
+Irgens,Paulsberg,128
+Jasaa,Paulsberg,130
+Irgens,Paulsberg,131
+Paulsberg,Paulsberg taug,138
+Bondesen,Endre,139
+Ole Henriksen,Thorahus,140
+Irgens,Ole Henriksen,141
+Lynums,Ole Henriksen,143
+Lynums,Norem,143
+Irgens,Paulsberg,150
+Irgens,Paulsberg,150
+Ole Henriksen,Thorahus,154
+Grande,Thorahus,154
+B.s,Grande,154
+B.s,Døttre,154
+Irgens,Tidemand,163
+Ole Henriksen,Tidemand,163
+Ole Henriksen,Thorahus,163
+Irgens og,Paulsberg,166
+Irgens,Tidemand,172
+Ole Henriksen,kny,173
+Lynums,Thorahus,177
+Aagot,Lynums,177
+Hanka Lange Tidemand,Lange,187
+Gregersen,Jasaa,189
+Ole Henriksen,Thorahus,190
+Ole,Thorahus,190
+Aagot Lynum,Ole,190
+Irgens,Ole,191
+Grande,Irgens,191
+Aagot,Ole,192
+Aagot,Ole,193
+Aagot,Ole,193
+Aagot,Ole,194
+Irgens,Ole,197
+Grand,Irgens,197
+Grand,Irgens,198
+Irgens,Milde,198
+Milde,Norem,198
+Aagot,Irgens,200
+Aagot,Irgens,201
+Frøken Lynum,Ole Henriksen,202
+Aagot,Irgens,203
+Aagot,Irgens,203
+Irgens,Ole,204
+Aagot,Irgens,205
+Aagot,Ole,206
+Milde,Ole,212
+Aagot,Ole,212
+Aagot,Ole,213
+Coldevin,Frøken Lynum,217
+Lars Paulsberg,Paulsberg,221
+Coldevin,Jasaa,225
+Jasaa,Paulsberg,225
+Paulsberg,Thorahus,225
+Stefan Øjen,Thorahus,225
+Gud,Thorahus,227
+Coldevin,Irgens,230
+Coldevin,Paulsberg,231
+Jasaa,Paulsberg,231
+Jasaa,Paulsberg,231
+Coldevin,Henriksen,235
+Henriksen,Ole Henriksen,237
+Frøken Lynum,Irgens,239
+Hanka,Irgens,245
+Aagot,Ole,246
+Aagot,Irgens,246
+Irgens,Ole,248
+Aagot,Irgens,254
+Aagot,Irgens,255
+Frøken Lynum,Gud,258
+Gregersen,Irgens,262
+Irgens,Paulsberg,262
+Gregersen,Paulsberg,262
+Gregersen,Udlo,262
+Grande,Milde,264
+Coldevin,Grande,264
+Coldevin,Paulsberg,264
+Milde,Paulsberg,264
+Coldevin,Irgens,266
+Coldevin,Irgens,266
+Paulsberg,tvers,272
+Ole Henriksen,Paulsberg,279
+Coldevin,Milde,280
+Coldevin,Paulsberg,284
+Grande,Paulsberg,286
+Coldevin,Ole Henriksen,288
+Ole,banked Paulsberg,289
+Coldevin,Ole,292
+Coldevin,Ole,293
+Aagot,Ole,298
+Coldevin,Ole,298
+Aagot,Coldevin,308
+Aagot,Ole,309
+Ole,Ole Henriksen,311
+Aagot,Ole,314
+Aagot,Ole Henriksen,316
+Aagot,Ole Henriksen,316
+Henriksen,Ole Henriksen,316
+Henriksen,Ole,316
+Aagot,Ole,316
+Aagot,Ole,316
+Irgens,Ole,320
+Aagot,Ole,322
+Aagot,Irgens,325
+Henri,Jær,330
+Aftenlund,Frihaand,331
+Aagot,Irgens,332
+Aagot,Ole,340
+Gud,Ole,342
+Gud,Ole,342
+Grande halende,Paulsberg,344
+Coldevin,Grande halende,344
+Norem,Paulsberg,346
+Aagot,Irgens,349
+Coldevin,Ole Henriksen,353
+Aagot,Coldevin,354
+Coldevin,Gregersen,355
+Gregersen,Paulsberg,355
+Hr. Coldevin,Jasaa,359
+Hr. Coldevin,Paulsberg,359
+Jasaa,svared Coldevin,360
+Coldevin,Paulsberg,363
+Aagot,Coldevin,363
+Paulsberg,taug,364
+Glid,taug,364
+Coldevin,Grande,368
+Coldevin,Norem,370
+Hr. Coldevin,Jasaa,371
+Hr. Coldevin,Irgens,371
+Irgens,Nichts,371
+Gregersen,Paulsberg,375
+Irgens,Paulsberg,375
+Aagot,Ole,377
+Coldevin,Ole,377
+Coldevin,Irgens,378
+Coldevin,Paulsberg,387
+Gud,Paulsberg,387
+Coldevin,Ole Henriksen,388
+Ole Henriksen,Tidemand,388
+Tidemand,Tideniand,388
+Grande,Johannisberg Cabinet,390
+Irgens,Milde,391
+Irgens,Milde,391
+Aagot Lynum,Irgens,394
+Aagot Lynum,Coldevin,394
+Coldevin,Irgens,394
+H. Henriksens,K,396
+H. Henriksens,Ole,396
+Ole Henriksen,otti,398
+Tidemand,otti,398
+Ole,Tidemand,398
+Ole,Tidemand,402
+Ole,Tidemand,411
+Ole,Tidemand,418
+Hanka,Ole,420
+Hanka,Ole,420
+Andreas,Hanka,420
+Gud,Irgens,425
+Grande,Irgens,427
+Grande,Irgens,430
+Grande,Irgens,430
+Irgens,Paulsterg,431
+Irgens,Paulsterg,431
+Irgens,Paulsberg,434
+Coldevin,Irgens,435
+Henriksen,Irgens,435
+Henriksen,Irgens,435
+Irgens,Ole Henriksen,435
+Coldevin,Irgens,436
+Coldevin,Irgens,436
+Irgens,Ole Henriksen,436
+Irgens,Ole,437
+Aagot,Ole,438
+Aagot,Irgens,438
+Irgens,Sara,438
+Irgens,Ole,441
+Irgens,Ole,443
+Irgens,Jasaa,443
+Aagot,Ole,444
+Gud,Ole,444
+Gud,Ole,444
+Irgens,Ole,444
+Gud,Irgens,446
+Irgens,Tidemand,447
+Irgens,Ole Henriksen,451
+Ole,Saral,452
+Sara,Tidemand,453
+Bjærge,Tidemand,453
+Bjærge,Ole Henriksen,453
+Ole Henriksen,Tidemand,453
+Gregersen,Ole,454
+Milde,Ole,459
+Aagot,Irgens,460
+Aagot,Irgens,460
+Gud,Ole,461
+Jehova,Norem,464
+Jasaa,Ole,482
+Ole Henriksen,Thorahus,483
+Aagot,Ole,485
+Tidemand,isaafald,486
+Milde,Paulsberg,487
+Paulsberg,Øjen,487
+Paulsberg,Øjen,487
+Irgens,Paulsberg,489
+Irgens,Paulsberg,489
+Irgens,Paulsberg,489
+Irgens,Paulsberg,489
+Aagot,Irgens,491
+Aagot,Sara,491
+Lars Paulsberg,Paulsberg,499
+Irgens,Tidemand,500
+Hanka,Irgens,501
+Magen,Tidemand,505
+Irgens,Milde,508
+Milde,Oljemaler,508
+Lars Paulsberg,Paulsberg,509
+Lars Paulsberg,N. N.,509
+Gregersen,N. N.,509
+Gregersen,Paulsberg,509
+Paulsberg,Ævne,509
+Irgens,Paulsberg,510
+Irgens,Paulsberg,510
+Irgens,Paulsberg,516
+Irgens,Paulsberg,516
+Gud,Hr. Coldevin,526
+Gud,Hr. Coldevin,526
+Coldevin,Jasaa,527
+Coldevin,Frøken Aagots,532
+Coldevin,Grande,535
+Coldevin,Gud,540
+Norem,ifjor,542
+Gud,Norem,545
+Grand,Norem,546
+Aragot,Ole,547
+Irgens,Ole,550
+Irgens,Ole,550
+Coldevin,Irgens,550
+Aagot,Gud,552
+Aagot pegte,Gud,552
+Coldevin,Irgens,555
+Irgens,roed,557
+Aagot,roed,557
+Aagot,Skog,560
+Aagot,Irgens,562
+Aagot,Irgens,563
+Aftenlund,Frøken Lynum,564
+Frøken Aagot,Gud,566
+Ole,Ole Henriksen,572
+Ole,Ole Henriksen,572
+Gud,Ole,572
+Irgens,Ole,573
+Aagot,Irgens,577
+ifra,paany,581
+Aagot,Hanka,582
+Aagot,Lear,582
+Milde,iland,583
+Irgens,Milde,583
+Tidemand,lidemand,588
+Ole Henriksen,Tidemand,588
+Ole Henriksen,Prokura,590
+Ole,Prokura,590
+Aagot,Ole,590
+Aagot,Ole,590
+Ole,Tidemand,590
+Tidemand,iland,590
+Tidemand,iland,590
+Ole,Tidemand,590
+Ole,Tidemand,592
+Ole,Tidemand,592
+Ole,Tidemand,601
+Aagot,Ole,606
+Coldevin,Ole,606
+Coldevin,Henriksen,606
+Henriksen,Ole,606
+Magen,Ole,610
+Ole,Tidemand,616
+Ole,Tidemand,621
+Hanka,Tidemand,623
+Andreas,Ole,627
+Irgens,Paulsberg,628
+Ole Henriksen,Tidemand,630
+Ole,Ole Henriksen,630
+Irgens,Ole,630
+Gregersen,Irgens,630
+Irgens,Øjen,634
+Aagot,Ole,636
+Milde,Paulsberg,637
+Milde,Paulsberg,640
+Aagot,Irgens,644
+Aagot,Irgens,646
+Irgens,Milde,648
+Irgens,Milde,648
+Sara,Øjen,651
+Ole Henriksen,Sara,651
+Ole Henriksen,Tidemand,651
+Gud,Hanka,652
+Hanka,Hanka!,659
+Hanka!,Ida,659
+Ida,Johanne,659
+Irgens,Jiam,661
+Gud,Irgens,662
+Irgens,Jasaa,664
+Gregersen,Paulsberg,677
+Irgens,Paulsberg,677
+Gregersen,Irgens,677
+Andreas,Graad,680
+Norem,Paulsberg,681
+Irgens,Norem,681
+Gregersen,Irgens,681
+Gregersen,Ole Henriksen,681
+Andreas,Ole Henriksen,681
+Andreas,Gud,681
+Andreas,Gud,681
+Ole Henriksen,Tidemand,683
+Andreas Tidemand,Tidemand,684
+Andreas Tidemand,Tidemand,684
+Ole,Tidemand,686
+Ole,Tidemand,687
+Ole,Tidemand,687
+Aagot,Irgens,696
+Aagot,Frøken Aagot,696
+Andreas,Ole,702
+Aagot,Andreas,702
+Hanka,Ole,707
+Ole,Tidemand,708
+Ole,Tidemand,708
+Aagot,Tidemand,708
+Aagot,Tidemand,708
+Ole,Tidemand,708
+Irgens,Ole,708
+Irgens,Ole,708
+Irgens,Ole,708
+Ole,Tidemand,709
+Aagot,Tidemand,709
+Aagot,Tidemand,709
+Aagot,Tidemand,709
+Aagot,Ole,709
+Irgens,Ole,711
+Irgens,Ole,711
+Aagot,Ole,711
+Irgens,Ole,715
+Ole,Thorahus,715
+Aagot,Thorahus,716
+Ole,Thorahus,716
+Irgens,Ole,718
+Irgens,Ole,720
+Aagot,Irgens,720
+Aagot,Irgens,733
+Aagot,Irgens,733
+Aagot,Coldevin,743
+Aagot,Coldevin,743
+Aagot,Irgens,743
+Coldevin,Gud,746
+Coldevin,Ole,747
+Coldevin,Irgens,749
+Coldevin,Irgens,752
+Aagot,Henriksen,759
+Henriksen,Ole,759
+Aagot,Ole,759
+Milde,Ole,762
+Henriksen,Ole,764
+Aagot,Ole,767
+lille Frue,snille Aagot,769
+lille Frue,"lille,",769
+Ole,"lille,",769
+Ole,Ævne,773
+Ole,Tidemand,775
+Aagot,Ole,775
+Aagot,Ole,775
+Irgens,Tidemand,776
+Irgens,Tidemand,776
+Irgens,Tidemand,776
+Hanka,Tidemand,777
+Gud,Hanka,777
+Gud,Hanka,788
+Tidemand,ifra,795
+Coldevin,Tidemand,797
+Aagot,Irgens,804
+Aagot,Irgens,807
+Aagot,Irgens,807
+Coldevin,Irgens,810
+Gregersen,Milde,812
+Grand,Gregersen,812
+Grand,Milde,812
+Milde,Paulsberg,812
+Norem,Paulsberg,812
+Norem,lykønske,812
+Gregersen,Paulsberg,815
+Gregersen,Paulsberg,815
+Gregersen,Paulsberg,815
+Jasaa,Paulsberg,820
+Jasaa,Paulsberg,820
+Lars Paulsberg,Paulsberg,821
+Paulsberg,ifra,822
+Gregersen,Paulsberg,823
+Gregersen,Gud,824
+Gregersen,Gud,824
+Milde,Paulsberg,825
+Milde,Paulsberg,825
+Baudelaire,Milde,825
+Milde,Paulsberg,827
+Gregersen,Paulsberg,831
+Gregersen,Paulsberg,831
+Gregersen,Paulsberg,831
+Gregersen,Paulsberg,832
+Gud,Paulsberg,833
+Milde,Paulsberg,836
+Frue fortrak,Paulsberg,839
+Frue fortrak,Norem,839
+Coldevin,Thorahus,841
+Thorahus,didop,841
+Coldevin,didop,841
+Coldevin,Norem,841
+Grand,Norem,841
+Coldevin,Gud,842
+Grand,Paulsberg,845
+Coldevin,ivaar,846
+Milde,Norem,848
+Irgens,Paulsberg,855
+Paulsberg,tys,855
+Paulsberg,tys,855
+Gregersen,Paulsberg,857
+Fearnley,Vinje,862
+Coldevin,Gregersen,867
+Coldevin,Paulsberg,868
+Irgens,Paulsberg,868
+Gud,Irgens,868
+Aagot,Irgens,871
+Aagot,Coldevin,871
+Aagot,Irgens,872
+Aagot,Coldevin,872
+Coldevin,Irgens,874
+Coldevin,Irgens,875
+Aagot,Coldevin,875
+Aagot,Grande,875
+Grande,Irgens,875
+Aagot,Irgens,875
+Aagot,Coldevin,875
+Coldevin,Irgens,875
+Aagot,Irgens,877
+Coldevin,Irgens,878
+Coldevin,Hr. Irgens,879
+Coldevin,Irgens,884
+Aager,Norem,885
+Aagot,Irgens,886
+Aagot,Coldevin,886
+Jasaa,Norem,892
+Coldevin,Norem,893
+Aagot,Coldevin,900
+Coldevin,Gud,900
+Grand,Milde,903
+Aagot,Grand,903
+Aagot,Coldevin,903
+Coldevin,Irgens,906
+A.agot,Coldevin,907
+Aagot,Jasaa,912
+Coldevin,Gud,914
+Aagot,Irgens,916
+Coldevin,Irgens,924
+Coldevin,Irgens,924
+Coldevin,Irgens,925
+Coldevin,Irgens,925
+Aagot,Coldevin,925
+Aagot,Coldevin,925
+Aagot,Irgens,928
+Aagot,Irgens,928
+Aagot,Ole,929
+Aagot,Thorahus,929
+Ole,Thorahus,929
+Irgens,Lille Frue,931
+Irgens,Ole,931
+Aagot,Irgens,932
+Aagot,Irgens,933
+Aagot,Tidemand,933
+Aagot,Tidemand,933
+Aagot,Henriksen,933
+Aagot,Henriksen,933
+Aagot,Tidemand,933
+Aagot,Tidemand,933
+Ole,Thorahus,937
+Aagot,Ole Henriksen,939
+Aagot,Thorahus,939
+Aagot,Gud,945
+Gud,Irgens,945
+Irgens,Tidemand,945
+Aagot,Tidemand,945
+Aagot,Jasaa,945
+Jasaa,Thorahus,945
+Gud,Thorahus,945
+Gregersen,Norem,949
+Gregersen,Ole,951
+Irgens,Ole,952
+Irgens,Ole,953
+Irgens,Ole,953
+Gregersen,Ole,954
+Irgens,Ole Henriksen,960
+Norem,Ole Henriksen,960
+Irgens,Ole,961
+Ole,Thorahus,964
+Ole,Tidemand flau,966
+Andreas,Ole,967
+Magen,Tidemand,968
+Magen,Ole,968
+Aagot,Ole,970
+Aagot,Ole,975
+Ole,Tidemand,978
+Ole Henriksen,Tidemand,981
+Grande,Tidemand,982
+Irgens,Ole,983
+Aagot,Irgens,988
+Grande,Irgens,988
+Grande,Irgens,988
+Grande,Irgens,988
+Grande,Irgens,988
+Grande,Irgens,988
+Ole Henriksen,Tidemand,989
+Aagot,Ole Henriksen,989
+Aagot,Ole,989
+Assurer,Tidemand,990
+Assurer,Gud,990
+Gud,assurer,990
+Jasaa,Ole,997
+Ole,Tidemand,1000
+Johanne,jasaa,1005
+Ida,Johanne,1005
+Ida,Ole,1005
+Hanka,Hanka?,1006
+Hanka,Hanka?,1006
+Andreas,Ole,1007
+Ole,Ole Henriksen,1009
+Aagot,Ole,1009
+Irgens,Ole,1015
+Aagot,Gud,1020
+Frøken Lynum,Gud,1021
+Ole,Tidemand,1022
+Aagot,Irgens,1024
+Aagot,Irgens,1024
+Aagot,Irgens,1024
+Aagot,Gregersen,1026
+Gregersen,Irgens,1026
+Aagot,Ole,1030
+Aagot,snille Aagot,1030
+Ole,Sara,1031
+Ole,Sara,1031
+Andreas,Frøken Lynum,1035
+Ole Henriksen,Tidemand,1037
+Ole,Tidemand,1038
+Henriksen,Ole,1038
+Johanne,Ole,1046
+Ida,Johanne,1046
+Ida,taug,1046
+Ida,Johanne,1047
+Aagot,Ole,1052
+Aagot,Tidemand,1052
+Ole,Tidemand,1052
+Hanka,Tidemand,1061
+Irgens,Norem,1064
+Milde,Norem,1065
+Gregersen,Lars Paulsberg,1066
+Irgens,tilbens,1071
+Grande,tilbens,1071
+Hanka,Tidemand,1072
+Hanka,Tidemand,1072
+Hanka,Tidemand,1072

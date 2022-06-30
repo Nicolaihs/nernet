@@ -1,0 +1,102 @@
+source,target,type,weight
+Henrik,Otto,Undirected,51
+Eg,Otto,Undirected,1
+Holm,Larsen,Undirected,1
+Chrisfian,Holm,Undirected,1
+Otto,vexle,Undirected,1
+Birken,Otto,Undirected,1
+Birken,Lars Peter,Undirected,1
+Lars Peter,Otto,Undirected,3
+Lars,Lars Peter,Undirected,1
+Lars,Peter,Undirected,1
+Otto,Peter,Undirected,1
+Ole Røgter,Otto,Undirected,1
+Linde,Otto,Undirected,1
+Khaos,Otto,Undirected,1
+Hins,Otto,Undirected,2
+Olsen,sisfe,Undirected,1
+Lars Peter,sisfe,Undirected,1
+Otto,Waterloos,Undirected,1
+Affes,Svenst Banco,Undirected,1
+Affes,Hansens,Undirected,1
+Otto,son,Undirected,1
+Guds,Otto,Undirected,2
+Krone,Otto,Undirected,1
+Lnnd,Otto,Undirected,1
+Graad,Otto,Undirected,1
+cielirio,mama,Undirected,1
+Guden,cielirio,Undirected,1
+Anna Elbcrk,Guden,Undirected,1
+Anna Elbcrk,Anna Elbæk,Undirected,1
+Anna Elbæk,Otto,Undirected,1
+Henrik,Storms,Undirected,1
+Storms,def,Undirected,1
+Annas,Henrik,Undirected,1
+Annas,naSophus Bauditz,Undirected,1
+Anna,Henrik,Undirected,2
+Anna,Otto,Undirected,1
+Henrik,Otto Henrik,Undirected,1
+Lund,Otto,Undirected,27
+Marie“,Otto,Undirected,2
+Otto,lysfe Marie,Undirected,1
+Marie,lysfe Marie,Undirected,1
+Henrik,Marie,Undirected,1
+Otto,Otto Lille,Undirected,1
+Karl,Otto,Undirected,1
+Frits,Otto,Undirected,2
+Hagen,Otto,Undirected,1
+Ester,Otto,Undirected,1
+Frits,Rosa Spange,Undirected,1
+Otto,Rosa Spange,Undirected,6
+Walter Scott,ester,Undirected,1
+Frits,Krone,Undirected,1
+Krone,Rosa Spange,Undirected,1
+Frøken Spanges,Otto,Undirected,1
+Frøken Rosas,Otto,Undirected,1
+Frits Krone,Otto,Undirected,1
+Krag,Otto,Undirected,1
+Frits,Gregersgave,Undirected,1
+Frits,flal,Undirected,1
+Anna,Mads,Undirected,1
+Bruns,Madam Jensen,Undirected,1
+Braad,Lund,Undirected,2
+Henrik,Lund,Undirected,1
+Henrik,Rosa Spange,Undirected,1
+Otto,Romeo,Undirected,1
+Romeo,Rosalinde,Undirected,1
+Julie,Rosalinde,Undirected,1
+Bangs,Julie,Undirected,1
+Julie,Mercutio,Undirected,1
+Julie,Otto,Undirected,1
+Iohanne Bang,Lange,Undirected,1
+Melos,Venus,Undirected,1
+Melos,Otto,Undirected,1
+Iohanne,Otto,Undirected,3
+BauLitz,Otto,Undirected,1
+Otto,hnn,Undirected,1
+Venus,hnn,Undirected,1
+Henrik,Madam Olsen,Undirected,1
+Madam Olsen,Otto,Undirected,1
+Otto,Toddy,Undirected,1
+Henrik,Toddy,Undirected,1
+Otto,Sophaen,Undirected,1
+Henrik,No,Undirected,1
+Gud,Otto,Undirected,2
+Henrik,Otto-,Undirected,1
+Nuysdaels,Otto,Undirected,1
+Linden,Otto,Undirected,1
+Linden,trofasf,Undirected,1
+Otto,trofasf,Undirected,1
+Dunhammer,Iris,Undirected,1
+Otto,Otto Lange,Undirected,1
+Henrik,JEskelaaget,Undirected,1
+Daggry,Otto,Undirected,2
+Kaj,Otto,Undirected,1
+Kaj,Lund,Undirected,1
+Otto,Søren Olsen,Undirected,24
+Kong Frederik den Syvende,Otto,Undirected,1
+Hermann und,Otto,Undirected,1
+Dorothea,Hermann und,Undirected,1
+Hain,Søren Olsen,Undirected,1
+Baron Elben,Lange,Undirected,1
+Otto,soer,Undirected,1

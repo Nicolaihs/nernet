@@ -1,0 +1,82 @@
+source,target,type,weight
+Harald,Jørgen Lund,Undirected,1
+Harald,Line,Undirected,24
+Fingels,Harald,Undirected,1
+Fingel,Harald,Undirected,1
+Harald,Jacob Rønnov,Undirected,9
+Harald,Jacob,Undirected,10
+Harald,Vilhelm,Undirected,13
+Peter Larsen,Vilhelm,Undirected,3
+Vilhelm,saa,Undirected,1
+Jacob Rønnov,Peter Larsen,Undirected,2
+Harald,Peter Larsen,Undirected,8
+Jacob,Jens Knudsen,Undirected,1
+Harald,Kirstines,Undirected,2
+Kirstine,Vilhelm,Undirected,3
+Harald,Kirstine,Undirected,31
+Kirstine,Richardt,Undirected,1
+Jacob,Peter Larsen,Undirected,3
+Jacob,Jacob Rønnov,Undirected,2
+Dalborg,Harald,Undirected,8
+Harald,hdt,Undirected,1
+Kirstine,Peter Larsen,Undirected,3
+Jacob,Kirstine,Undirected,4
+Jacob Rønnov,Kirstine,Undirected,2
+Jacob,Karen,Undirected,1
+Flan,Jacob,Undirected,1
+Jacob Rønnov,Vilhelm,Undirected,1
+Dalborg,Vilhelm,Undirected,2
+Kirstine,Malstroms,Undirected,1
+Harald —,Pastor Dalborgs,Undirected,1
+Kirstine,liun,Undirected,1
+Dalborg,liun,Undirected,1
+Dalborg,Peter Larsen,Undirected,6
+Kirstine,Storm,Undirected,1
+Harald,Storm,Undirected,4
+Kirstine,Maren,Undirected,1
+Jacob,vai,Undirected,1
+Harald,liam,Undirected,1
+Kirstine,hnn,Undirected,2
+Holm,hnn,Undirected,1
+Harald,Holm,Undirected,3
+Harald,liendes,Undirected,1
+Harald,Wesen,Undirected,1
+Harald,liun,Undirected,2
+Kirstine,liam,Undirected,1
+Harald,Jacob Ronnov,Undirected,1
+Peter Larsen,ningen,Undirected,1
+Harald,Jacob Rønn,Undirected,1
+Dalborg,Kirstine,Undirected,1
+Kirstine«,liun,Undirected,1
+Dalborg,ban,Undirected,1
+Peter Larsen,syrn,Undirected,1
+Dalborg,syrn,Undirected,1
+Per,Poul,Undirected,2
+Pastor Dalborg,Peter Larsen,Undirected,1
+Larsen,Petei-,Undirected,1
+Pastor Dalborg,liun,Undirected,1
+Line,rene,Undirected,1
+Line,Monberg,Undirected,1
+Don Juan,Line,Undirected,1
+Kirstine,Line,Undirected,8
+Harald,Rønnov,Undirected,1
+Harald,Kristine,Undirected,1
+Gud,Guds,Undirected,1
+Broder,Line,Undirected,1
+Harald,Lundgaard,Undirected,3
+Line,hnap,Undirected,1
+Harald,Monberg,Undirected,1
+Gud,Harald,Undirected,1
+Kirstine istedenfor,Vilhelm,Undirected,1
+Line,Vilhelm,Undirected,1
+Line,hnn,Undirected,2
+Jacob Rønnows,Peter Larsen,Undirected,1
+Lundgaard,Storm,Undirected,1
+Dalborg,dring,Undirected,1
+liam —,lier,Undirected,1
+Line Lund,Storm,Undirected,1
+Line,Storm,Undirected,3
+Isak,Line,Undirected,1
+Isak,Rebekka,Undirected,1
+Kirstine Larsen,Line,Undirected,2
+Dalborg,Line,Undirected,1

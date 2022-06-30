@@ -1,0 +1,288 @@
+source,target,type,weight
+Excellensens,Ludvig,Undirected,1
+Ludvig,Ludvig Høg,Undirected,1
+Høg,Ludvig,Undirected,1
+Ludvig,Stella,Undirected,12
+Excellensen,Stella,Undirected,1
+Gud,Stella,Undirected,3
+Dr. Hermansen,Excellensen,Undirected,1
+Excellensen,Ludvig,Undirected,1
+Høg,Stella,Undirected,29
+Julie,Stella,Undirected,1
+Julie,Ludvig,Undirected,1
+Nina,Stella,Undirected,40
+Ludvig Høg,Stella,Undirected,1
+Nina,William,Undirected,113
+Stella,William,Undirected,50
+Aage,Stella,Undirected,5
+Høg,Nina,Undirected,11
+H,Stella,Undirected,1
+Fysikus,Høg,Undirected,1
+Eugenie,Krinoline,Undirected,1
+Høg,Krinoline,Undirected,1
+Dronning Isabella,Stella,Undirected,1
+Marguerites,Stella,Undirected,1
+Berg,Marguerites,Undirected,1
+Hochheimer,blaa,Undirected,1
+Hochheimer,William,Undirected,1
+Stella,Tran,Undirected,1
+Berg,Malthus,Undirected,1
+Malthus,Stella,Undirected,2
+Aspasia,Høg,Undirected,1
+Aspasia,Perikles,Undirected,1
+Høg,Kronprindsen,Undirected,1
+Berg,Høg,Undirected,11
+Berg,Stella,Undirected,5
+Aage,Nina »,Undirected,1
+Ane,William,Undirected,2
+Aage,Nina,Undirected,2
+Høg,Prindsen,Undirected,1
+Aage,Høg,Undirected,1
+Balslev,Luthers,Undirected,1
+Artium,Rektors,Undirected,1
+Høg,William,Undirected,25
+Harriet,Stella,Undirected,1
+Harriet,William,Undirected,2
+Harriet,Nina,Undirected,1
+Adolf,William,Undirected,1
+William,Øehlenschlæger,Undirected,2
+Moer,William,Undirected,1
+Mynsters,William,Undirected,1
+Cæsar de Bazan,William,Undirected,1
+Michael Wiehes,Stella,Undirected,1
+Hakon,Michael Wiehes,Undirected,1
+Dina,Stella,Undirected,1
+Gud,Nina,Undirected,2
+Julie,Romeo,Undirected,1
+Boleros,Valsen,Undirected,1
+Boleros,Willam,Undirected,1
+Gudens,Stella,Undirected,1
+Proverbet,Stella,Undirected,1
+Høg,Sofie,Undirected,3
+,William,Undirected,1
+,Nina,Undirected,1
+Nina,Sofie,Undirected,41
+Gud,William,Undirected,7
+Sofie,Stella,Undirected,4
+Jensen,Stella,Undirected,3
+Jensen,William,Undirected,3
+Sofie,William,Undirected,16
+Berg,William,Undirected,8
+H.,Stella,Undirected,1
+Mo’,William,Undirected,1
+Høg,Mo,Undirected,2
+Nina,Tylis,Undirected,1
+Berg,Nina,Undirected,3
+Berg,Hr. Berg,Undirected,1
+Mo,William,Undirected,1
+Mo,Nina,Undirected,2
+Graad,Nina,Undirected,1
+Berg,Jensen,Undirected,1
+Madam Madsen,Nina,Undirected,1
+Bresche,Stella,Undirected,1
+Ewalds,William,Undirected,1
+Ewalds,P. P.’s,Undirected,1
+Byron,Heine,Undirected,1
+Alfred de Musset,Heine,Undirected,2
+Alfred de Musset,William,Undirected,1
+Berg,Sofie,Undirected,1
+Evropa,Høg,Undirected,1
+Berg,Evropa,Undirected,1
+Berg,Doktor Berg,Undirected,1
+William,tom,Undirected,1
+Einsteigen,tom,Undirected,1
+Hatzfeldt,William,Undirected,6
+Markus,William,Undirected,1
+Rallen,William,Undirected,1
+William,taus,Undirected,3
+Berg,Lund,Undirected,1
+Hr. Lund,William,Undirected,2
+Lund,William taug,Undirected,1
+Abracadabra,William,Undirected,1
+Lund,William,Undirected,3
+William,ers,Undirected,1
+Graad,William,Undirected,1
+Hans,William,Undirected,1
+Bohr,William,Undirected,1
+Gersons,William,Undirected,1
+Gerson,Gersons,Undirected,1
+Gerson,William,Undirected,37
+William,William Gerson,Undirected,1
+Kamilla,William,Undirected,17
+Gerson,Kamilla,Undirected,5
+Falks,Gerson,Undirected,1
+Høg,hans,Undirected,1
+Frøken Falk,William,Undirected,4
+Frøken Falk,Weltschmerz,Undirected,1
+Frøken Falk,Jens,Undirected,1
+Camilla,William,Undirected,1
+Gerson,Høg,Undirected,1
+Kamilla,Petersen,Undirected,1
+Gerson Piquét,Kamilla,Undirected,1
+Epheu,William,Undirected,1
+Kamilla,S. Kamilla,Undirected,1
+S. Kamilla,William,Undirected,1
+Elmire,William,Undirected,6
+Gerson,William —,Undirected,1
+Kamilla,Skraa,Undirected,1
+Axel,Oehlenschlæger,Undirected,1
+Axel,Olaf,Undirected,1
+Ejner Tamberskælver,Olaf,Undirected,1
+Aladdin,Gerson,Undirected,2
+Bernadottes,William,Undirected,1
+Homer,William,Undirected,2
+William,atlaskes,Undirected,1
+Grevinde Hatzfeldt,Kamilla,Undirected,1
+Nina,sine,Undirected,1
+William,sine,Undirected,1
+Medea,Ristori,Undirected,1
+Faders,Nina,Undirected,1
+Gerson,Sofie,Undirected,1
+Gud,Jakob,Undirected,1
+Aladdin,Olaf,Undirected,1
+Aladdin,Portias,Undirected,1
+Høg,Krag,Undirected,1
+Heine,Krag,Undirected,1
+Gerson,Nina,Undirected,4
+Nina,Talmas,Undirected,1
+Charles IX,Talmas,Undirected,1
+Charles IX,Laube,Undirected,1
+dir nichts,mir nichts,Undirected,1
+Gud,véd,Undirected,3
+Dickens,Jason,Undirected,1
+Cherbuliez,Dickens,Undirected,1
+Cherbuliez,Goldschmidt,Undirected,1
+Goldschmidt,Jason,Undirected,1
+Eva,Gud,Undirected,1
+Eva,Nina,Undirected,1
+Dumas,Lucien,Undirected,2
+Mama,Papa,Undirected,1
+Adrienne Lecouvreur,Talma,Undirected,1
+L.,Ruth,Undirected,1
+Maria Stuarda,Ristori,Undirected,1
+Margrethe,Sofie,Undirected,6
+Gerson iforgaars,Nina og,Undirected,1
+Aladdin,Margrethe,Undirected,1
+Margrethe,Nina,Undirected,7
+Gerson,Margrethe,Undirected,3
+Kamilla,Margrethe,Undirected,2
+Axel,H. H.,Undirected,1
+Margrethe,candidatus philosophiæ,Undirected,1
+Margrethe,Skraa,Undirected,1
+Gerson,Hr. Ørnstrup,Undirected,1
+Hr. Ørnstrup,Ørnstrup,Undirected,1
+Romeo’,Wiehe,Undirected,1
+,Sofie,Undirected,1
+Lieutenant Strøm,Margrethe,Undirected,1
+Margrethe Blom,William,Undirected,1
+Margrethe Blom,William Høg,Undirected,1
+Laura,inat,Undirected,1
+Laura,Mohr,Undirected,1
+Lindenau,Mohr,Undirected,1
+Hr. Hoff,William,Undirected,2
+Hoff,William,Undirected,30
+Hoff,Margrete,Undirected,4
+Margrete,William,Undirected,12
+William,pua,Undirected,1
+Hoff,Nina,Undirected,7
+Margrete,Nina,Undirected,1
+Grevinden,William,Undirected,1
+Frøken Blom,Hoff,Undirected,1
+Nina,Petersdorf,Undirected,1
+Gerson,Petersdorf,Undirected,1
+Gerson,Margrete,Undirected,4
+Gerson,Grevinde Hatzfeldt,Undirected,1
+Grevinde Hatzfeldt,William,Undirected,2
+Kotillon,William,Undirected,1
+Frøken Blom,William,Undirected,1
+Frøken Blom,Nina,Undirected,1
+Hatzfeldt,Høg,Undirected,1
+Hatzfeldt,Hoff,Undirected,1
+Margrethe,William,Undirected,1
+Hofif,William,Undirected,4
+Hoff,Høg,Undirected,2
+Rubinstein,William,Undirected,2
+Gud,Hoff,Undirected,2
+Moloch,Venus victrix,Undirected,1
+Bernhard Hoff,Høg,Undirected,1
+Gud,Madam Lund,Undirected,1
+Sannæs,William,Undirected,2
+Dronning Marguerites,Lucien,Undirected,1
+Tartuffe,William,Undirected,1
+Dorines,Tartuffe,Undirected,1
+William,William Høg,Undirected,3
+Peltsen,William,Undirected,3
+Elmire,Hr. Andersen,Undirected,2
+Hr. Andersen,William,Undirected,5
+Hr. Andersen,William Høg,Undirected,1
+Nina,Pjalter,Undirected,1
+Hagen,William,Undirected,1
+Peignoirens,William,Undirected,1
+Audleys,Mrs.,Undirected,1
+Kannæ,William,Undirected,1
+Margrete,O,Undirected,1
+Alfred de Musset,George Sand,Undirected,1
+Lamartines,Mussets,Undirected,1
+Eva,William,Undirected,1
+Eva Hatzfeldt,William Høg,Undirected,1
+Hoff,Kusk,Undirected,1
+Kusk,Pelts,Undirected,1
+Hoff,Jansen,Undirected,1
+Grevinden,Nina,Undirected,2
+Frøken Høg,Hr. Hoff,Undirected,1
+Tralala,Valmuens,Undirected,1
+Hr. Jansen,William,Undirected,1
+Alma,Hofif,Undirected,1
+Laura,William,Undirected,1
+Alma,Hoff,Undirected,2
+Bernhard,Hoff,Undirected,1
+Alma,Bernhard,Undirected,1
+Alma,William,Undirected,3
+Alma,Høg,Undirected,3
+Gud,Høg,Undirected,1
+Hoff,Victor Hugo,Undirected,1
+Gud,Madam,Undirected,1
+Hofif,Madam,Undirected,1
+Hoff,Hr. Hoff,Undirected,2
+Hoff,Per,Undirected,1
+W. H.,William,Undirected,2
+Biickner,Carl Vogt,Undirected,1
+Don,QuichoteIdéen,Undirected,1
+Hacckel,William,Undirected,1
+Schopenhauer,von Hartmann,Undirected,1
+Bernhard Hoff,Nina,Undirected,1
+Bernhard Hoff,William,Undirected,1
+Minna,Storm,Undirected,1
+Lund,frutti,Undirected,1
+Hr. Olsen,William,Undirected,3
+Aagerkarlens,William,Undirected,1
+Olsen,William,Undirected,2
+Hr. Olsen,William Høg,Undirected,1
+Christensen,William,Undirected,1
+FT,Hr. Høg,Undirected,1
+Ranchs,William,Undirected,1
+Minna,William,Undirected,1
+Ane,Nina,Undirected,1
+Graalys,Nina Høg,Undirected,1
+Hr. Bloch,William Høg,Undirected,1
+Bloch,Hr. Bloch,Undirected,1
+Hr. Bloch,William,Undirected,3
+Andersen,William,Undirected,11
+Andersen,Høg,Undirected,2
+Andersen,Hr. Andersen,Undirected,1
+Andersen,Hoff,Undirected,3
+Bloch,Hoff,Undirected,3
+Hoff,Salammbo,Undirected,1
+Aladdin,William,Undirected,3
+Bloch,William,Undirected,1
+Bloch,Rudin,Undirected,1
+Aladdin,Andersen,Undirected,2
+Guden,William,Undirected,1
+Aladdin,Hr. Andersen,Undirected,1
+Aladdin,Gulnara,Undirected,1
+Allah,Gulnara,Undirected,1
+Allah,Andersen,Undirected,1
+Allah,William,Undirected,1
+Andersen,Halling,Undirected,1
+Halling,t,Undirected,1
+Ninon,William Høst,Undirected,1

@@ -1,0 +1,358 @@
+source,target,type,weight
+Mr. Crawby,didind,Undirected,1
+Mr. Crawby,Mrs. Crawby,Undirected,1
+Mrs.,hnn,Undirected,1
+Crawbys,Mrs.,Undirected,1
+Ross,smukf,Undirected,1
+Keje,smukf,Undirected,1
+Ross,Tydskers,Undirected,1
+Stewart,Thomas Ross,Undirected,2
+Blankenese,Miss Wilkens,Undirected,1
+Ross,Thomas Ross,Undirected,1
+Thomas Ross,Willens,Undirected,1
+Blankenese,Willens,Undirected,1
+Mr. Sidney,Ross,Undirected,24
+Mark Hall,Sidney Crawby,Undirected,1
+Mark Hall,Mr. Ross,Undirected,1
+Miss Wilkens,Thomas Ross,Undirected,2
+Miss Wilkens,Mr. Sidney,Undirected,19
+Ross,hnn,Undirected,7
+Katharina Linstow,hnn,Undirected,3
+Katharina,Katharina Linstow,Undirected,1
+Katharina,oni,Undirected,1
+Katharina,Sidney,Undirected,1
+Dæ,Mr. Crawby,Undirected,1
+Hull,Mr. Crawby,Undirected,1
+Annie,Annie Wilkens,Undirected,1
+Agnete,Ieg,Undirected,1
+Agnete,Annie,Undirected,2
+Annie,Wilkens,Undirected,1
+Ross,Sidney,Undirected,7
+,Miss Wilkens,Undirected,9
+,Ross,Undirected,18
+Ross,conversere,Undirected,1
+Mrs.,conversere,Undirected,1
+Mr. Crawby,Mrs.,Undirected,2
+Mr. Crawby,Noss,Undirected,2
+Noss,Sidney,Undirected,1
+Ross,gansfe,Undirected,1
+Rissa,Thomas,Undirected,5
+Kirstine,Thomas,Undirected,6
+Katharina Linstow,Kirstine,Undirected,1
+Katharina,Kirstine,Undirected,13
+Katharina,Tu,Undirected,1
+Tu,Venus i,Undirected,1
+Tante Rissa,Thomas,Undirected,2
+Anton,Blunke,Undirected,1
+,Thomas,Undirected,8
+Nissa,Thomas,Undirected,1
+Katharina,Thomas,Undirected,7
+Kirstine,Rissa,Undirected,3
+Katharina,Ross,Undirected,13
+Ross,Thomas,Undirected,1
+Linstows,Olje,Undirected,1
+Katharina,Thomas Ross,Undirected,4
+Linstow,Thomas Ross,Undirected,1
+,Thomas Ross,Undirected,2
+,hnn,Undirected,1
+Jakob Hervig,Pregel,Undirected,1
+Jakob Hervig,Lauritz Løndal,Undirected,1
+Lauritz Løndal,Løndal,Undirected,1
+Pianist Pregels,Ross,Undirected,1
+Pianist Pregels,Pregel,Undirected,1
+Pregel,Ross,Undirected,19
+Dn,Ross,Undirected,1
+Hanne,Ross,Undirected,1
+Løndal,Pregel,Undirected,2
+Løndal,Ross,Undirected,5
+Lie,Thomas Stoss,Undirected,1
+Katharina Linstow,Linstow,Undirected,2
+,Kirstine,Undirected,2
+Dn,Katharina,Undirected,1
+Kirsline,Thomas,Undirected,1
+Katharina,Pregel,Undirected,1
+Kirstine,Pregel,Undirected,3
+Anton,Kirstine,Undirected,2
+,Løndal,Undirected,1
+,Rissa,Undirected,1
+Pregel,Tenne,Undirected,1
+,Katharina,Undirected,3
+Bien,Katharina,Undirected,1
+Ross“,Wilkens,Undirected,1
+Ross,r,Undirected,1
+Thomas Noss,didud,Undirected,1
+Crawby,Frøken Wilkens,Undirected,1
+Frøken Wilkens,Mr. Sidney,Undirected,2
+Mr. Crawby,Mr. Sidney,Undirected,5
+Mr. Sidney,Pregel,Undirected,6
+Pregel,Ross saavel,Undirected,1
+Mrs. Crawby,Ross saavel,Undirected,1
+Mr. Sidney,Mrs. Crawby,Undirected,2
+Mr. Crawby,Ross,Undirected,4
+Pregel,didop,Undirected,1
+Crawby,Ross,Undirected,3
+,Pregel,Undirected,1
+Crawby,Mr. Sidney,Undirected,4
+Ross,foer,Undirected,1
+,Fist,Undirected,1
+Fist,Mr. Crawby,Undirected,1
+Mr. Crawby,Thomas Ross,Undirected,1
+Frøken Wilkens,Sands,Undirected,1
+Frøken Wilkens,Noss,Undirected,3
+Hr. Ross,Mr. Crawby,Undirected,1
+Attachs Henry Campbell,Noss,Undirected,1
+Noss,Ross,Undirected,3
+Myse,plire,Undirected,1
+Miss Wilkens,Ross,Undirected,25
+Crawby,Mrs.,Undirected,5
+Bjørn,Mr. Sidney,Undirected,1
+Bjørn,Noss,Undirected,1
+Miss Wilkens,Noss,Undirected,2
+Crawby,Wilkens,Undirected,1
+,Mr. Crawby,Undirected,1
+Hr. Pregels,Miss Wilkens,Undirected,1
+Kolsaasens,Kristiania,Undirected,1
+Horizont,Kristiania,Undirected,1
+Horizont,Ross,Undirected,1
+Mr. Sidney,Peltshue,Undirected,1
+Mr. Sidney,niere,Undirected,1
+Sidney,Vir,Undirected,1
+Mr. Sidney,Noss,Undirected,5
+Mr. Ross,Mr. Sidney,Undirected,1
+Frøken Wilkens,John,Undirected,1
+Frøken Wilkens,Sidney,Undirected,1
+Mr. Sidney,Sam Ross,Undirected,1
+,Frøken Wilkens,Undirected,2
+,Mr. Sidney,Undirected,2
+Deni,Mr. Ross,Undirected,1
+Kirstine,Miss Wilkens,Undirected,2
+Kirstine,Thearosen,Undirected,1
+Mr. Sidney,hnn,Undirected,4
+Crawby,Miss Wilkens,Undirected,1
+Ieg,Mr. Ross,Undirected,1
+John,Mr. Ross,Undirected,1
+John,Miss Wilkens,Undirected,1
+Air,Sidney,Undirected,2
+Miss Wilkens,Sidney,Undirected,4
+Mr. Wilkens,sorn,Undirected,1
+Annie vidsfe,Mr. Wilkens,Undirected,1
+Annie vidsfe,Hull,Undirected,1
+Lauritz Løndal,Ross,Undirected,1
+Løndal,Noss,Undirected,1
+Annie Wilkens,Ross,Undirected,3
+Annie Wilkens,Mrs. Crawby,Undirected,1
+Miss Wilkens,Pregel,Undirected,9
+Annie,Sidney,Undirected,5
+Mr. Campbell,Sidney,Undirected,1
+Annie,Ross,Undirected,3
+Thomas,lybsk,Undirected,1
+Crawby,lybsk,Undirected,1
+Crawby,Thomas,Undirected,2
+Johanne,Katharina,Undirected,5
+Elise,Kirstine Ross,Undirected,1
+Kirstine,Kirstine Ross,Undirected,1
+Elise,Fader,Undirected,1
+Elise,Henrik,Undirected,1
+Glucks,Orchester,Undirected,1
+Glucks,Orfeus,Undirected,1
+Katharina,Miss Wilkens,Undirected,8
+,Johanne,Undirected,1
+Katharina,Wilkens,Undirected,2
+Orpheus,Ross,Undirected,1
+Euridice,Orpheus,Undirected,1
+Euridice,Ross,Undirected,1
+Ross,k,Undirected,1
+Katharina,k,Undirected,1
+Katharina Linstow,Miss Wilkens,Undirected,1
+Katharina,hnn,Undirected,2
+Ross,Schumanns,Undirected,1
+Mr. Sidney,Zigeunerindens,Undirected,1
+Katharina,Linslow,Undirected,1
+Linstow,Miss Wilkens,Undirected,4
+Hnn,Miss Wilkens,Undirected,2
+Hnn,Katharina,Undirected,1
+Mr. Sidney,Tubus,Undirected,1
+,Roger,Undirected,1
+Miss Wilkens,Roger,Undirected,1
+Mr. Sidney,Roger,Undirected,3
+Air. Sidney,Miss Wilkens,Undirected,1
+. Sidney,Mr ,Undirected,1
+. Sidney,Mr. Sidney,Undirected,1
+Air.,Sidney,Undirected,2
+Mr. Campbell,Mr. Sidney,Undirected,1
+Miss Wilkens,Mr. Campbell,Undirected,1
+,Staal,Undirected,1
+Linstow,Mr. Campbell,Undirected,2
+Miss Wilkens,ester,Undirected,1
+Hr. Ross,ester,Undirected,1
+Hr. Wachs,Mr. Sidney,Undirected,1
+Ross,Wachsens,Undirected,1
+Wachsens,tans,Undirected,1
+Mr. Sidney,tans,Undirected,1
+Mr. Sidney,paany,Undirected,1
+Frøken Wilkens,Linstow,Undirected,1
+Katharina,Ross Wachsen,Undirected,1
+Henrik,Miss Wilkens,Undirected,1
+Katharina,Wachsen,Undirected,1
+Genius,Ross,Undirected,1
+Genius,Wilkens,Undirected,1
+Ross,Wilkens,Undirected,3
+Air,Wilkens,Undirected,1
+Miss Willens,Thomas,Undirected,1
+Crawby,Katharina,Undirected,1
+Annie Wilkens,Katharina,Undirected,1
+Henrik,Ieg,Undirected,1
+Mr. Sidney,son,Undirected,1
+M.,Miss Wilkens,Undirected,1
+,M.,Undirected,1
+Mr. Crawby,Papagøje,Undirected,1
+Mr. Crawby,Sidney,Undirected,2
+Sidney,Tyri,Undirected,1
+Johanne,Miss Wilkens,Undirected,2
+Frøken Linstow,dein,Undirected,1
+Frøken Linstow,nn,Undirected,1
+Papa,Pregel,Undirected,1
+Miss Wilkens,Mr. Crawby,Undirected,1
+Papa,hnn,Undirected,1
+Linstow,Mr. Sidney,Undirected,1
+Miss Wilkens,Mrs.,Undirected,1
+Crawby,Mr. Crawby,Undirected,1
+Mr. Sidney,oni,Undirected,1
+M.,Ross,Undirected,1
+Hain,Wilkens,Undirected,1
+Hain,Verten,Undirected,1
+Hr. Ross,Linstow,Undirected,1
+Katharina Linstow,cendroe,Undirected,1
+Katharina,cendroe,Undirected,1
+Linstow,Wilkens,Undirected,1
+Katharina Linstow,Wilkens,Undirected,1
+Katharina Linstow,Mr. Sidney,Undirected,1
+Katharina,Mr. Sidney,Undirected,1
+Katharina,Soupeen,Undirected,1
+Baschibozuk,Miss Wilkens,Undirected,1
+Honoratiores,Miss Wilkens,Undirected,1
+Honoratiores,Mr. Sidney,Undirected,1
+Frøken Linstow,Rono,Undirected,1
+,Rono,Undirected,1
+Annie,Sonverain,Undirected,1
+Ross,slak,Undirected,1
+Elise,Miss Wilkens,Undirected,1
+Elise,lees,Undirected,1
+Ross,lees,Undirected,1
+Henrik,fasf,Undirected,1
+Frøken Wilkens,fasf,Undirected,1
+Ross,alflens,Undirected,1
+Pregel,alflens,Undirected,1
+Linstow,Pregel,Undirected,1
+Ross,offres,Undirected,1
+Miss Wilkens,Thomas Noss,Undirected,1
+Miss Wilkens,eil,Undirected,1
+Mr. Sidney,eil,Undirected,1
+Crawby,Pregel,Undirected,2
+Kirstine,Ross,Undirected,1
+Kirstine,Wilkens,Undirected,1
+Sidney,Wilkens,Undirected,1
+Shawler,Sidney,Undirected,1
+Mr. Crawby,Shawler,Undirected,1
+Mama,Mr. Sidney,Undirected,2
+Mo,hnn,Undirected,1
+Ross,nian,Undirected,1
+,Hr. Ross,Undirected,1
+,Siipd,Undirected,1
+Anton,Thomas,Undirected,1
+Løndal,Thomas,Undirected,2
+Kirstine,Tante Rissa,Undirected,1
+Katharina,niente,Undirected,2
+Mrs. Crawby,Ross,Undirected,1
+Crawby,Sidney,Undirected,1
+Annie,Crawby,Undirected,1
+Ida,Sidney,Undirected,1
+Ida,Ross,Undirected,1
+,Sidney,Undirected,1
+Mr. Campbell,Papa,Undirected,1
+Mama,Papa,Undirected,8
+Miss Willen,Pregel,Undirected,1
+Ross,nien,Undirected,1
+Miss Wilkens,nien,Undirected,1
+Kritici,Ross,Undirected,1
+,Crawby,Undirected,1
+Johanne,Linstow,Undirected,1
+Katharina,Linstow,Undirected,4
+Annie Wilkens,Dalhan,Undirected,1
+Gjcetergut,Mrs. Crawby,Undirected,1
+Annie,Gjcetergut,Undirected,1
+Annie,hnn,Undirected,2
+Sid,laag,Undirected,1
+Hnn,Sidney,Undirected,1
+Hnn,hnn,Undirected,1
+Papa,Ross,Undirected,1
+Miss Wilkens,Wulst,Undirected,1
+Annie,Mrs.,Undirected,1
+-Crawby,Mrs.,Undirected,2
+Crawby,Hain,Undirected,1
+Hain,Ross,Undirected,1
+Annie,Mr. Crawby,Undirected,1
+Mr. Sidney,iland,Undirected,1
+Mr. Crawby,Papa,Undirected,2
+Mr. Cramby,Ross,Undirected,1
+Mr. Cramby,Pregel,Undirected,1
+Mr. Crawby,Pregel,Undirected,1
+Duren,Mr. Sidney,Undirected,1
+Annie,Pregel,Undirected,1
+Annie,Thomas,Undirected,1
+Air,Crawby,Undirected,1
+Miss Wilkens,Mrs. Crawby,Undirected,1
+Annie,Papa,Undirected,1
+Sidney,hnn,Undirected,1
+Ieg,Pregel,Undirected,1
+ane,hnn,Undirected,1
+Mr. CrawbysKvartser,Ross,Undirected,1
+Miss Wilkens,Mr. CrawbysKvartser,Undirected,1
+Miss Wilkens,Ur,Undirected,1
+John,Mr. Sidney,Undirected,2
+Mama,Miss Wilkens,Undirected,2
+Mama,Mr. Crawby,Undirected,1
+Annie,William,Undirected,1
+Hull,Sidney,Undirected,1
+Annie,Mrs. Crawby,Undirected,1
+Ross,s.,Undirected,1
+Konjak,Pregel,Undirected,1
+Konjak,Miss Wilkens,Undirected,1
+Ross,Solfkjær,Undirected,1
+Mr.,Ross,Undirected,1
+Mr.,Mrs. Crawby,Undirected,1
+Ross,Talma,Undirected,1
+Le,Mama,Undirected,1
+Papa,Wulsf,Undirected,1
+Englanv,Wulsf,Undirected,1
+Englanv,Papa,Undirected,1
+Ross,Øe,Undirected,1
+Dein,Miss Wilkens,Undirected,1
+Dovre,Ross,Undirected,1
+Kirstine,nien,Undirected,1
+Linstow,Rissa,Undirected,2
+Frøken Rissa,Linstow,Undirected,1
+Katharina,Rissa,Undirected,1
+Rissa,nn,Undirected,1
+Thomas,nn,Undirected,1
+Habs,Ross,Undirected,1
+Habs,Linstow,Undirected,1
+Katharina,Tante Rissa,Undirected,1
+Aaget,Ross,Undirected,1
+Aaget,Katharina Linstow,Undirected,1
+Dior,Katharina,Undirected,1
+Pregel,Thomas,Undirected,1
+Thomas,hnn,Undirected,1
+Mrs.,Sidney Crawby,Undirected,1
+Annie Wilkens,Pregel,Undirected,1
+John,Papa,Undirected,2
+Ross,Sidney Crawby,Undirected,1
+Annie,Miss Wilkens,Undirected,1
+Rachel,Sidney,Undirected,1
+Konsulen,Ross,Undirected,1
+Katharina,Linstom,Undirected,2
+Katharina vad,Ross,Undirected,1
+Linstow,Ross,Undirected,1
+,Guds,Undirected,1
+Joseph Pregel,Katharina,Undirected,1
+Joseph Pregel,Pregel,Undirected,1

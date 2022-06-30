@@ -1,0 +1,536 @@
+source,target,type,weight
+Gud,Thora Mansfeldt,Undirected,1
+Thora,Thora Mansfeldt,Undirected,3
+Mansfeldt,Thora,Undirected,50
+Bøhmer,Mansfeldt,Undirected,1
+Bøhmer,Thora,Undirected,2
+Thora,nied,Undirected,2
+nied,undgaa,Undirected,1
+Mansfeldt,lille Thøras,Undirected,1
+Fritz Hage,lille Thøras,Undirected,1
+Fritz Hage,Thora,Undirected,7
+Fritz,Thora,Undirected,147
+Thora,Thøra,Undirected,18
+Frikz,Thora,Undirected,13
+. r Frikz,Thora,Undirected,1
+. r Frikz,Fritz,Undirected,1
+Fritz,s,Undirected,1
+Bærelfe,s,Undirected,1
+Bærelfe,Thora,Undirected,1
+Thora,Thora Fritz,Undirected,1
+Fritz,Mansfeldfs,Undirected,1
+Mansfeldfs,Thora,Undirected,1
+Fritz,Gud,Undirected,13
+,Fritz,Undirected,76
+,Thora,Undirected,17
+Thora,hnn,Undirected,57
+Fritz,hnn,Undirected,14
+Fritz,ester,Undirected,3
+Gud,Thora,Undirected,99
+Frifz,Gud,Undirected,1
+Frifz,Thora,Undirected,4
+Frifz,Mansfeldt,Undirected,2
+Gud,Mansfeldt,Undirected,1
+Fritz,Mansfeldt,Undirected,25
+,Fritz Hage,Undirected,1
+Fritz,Fritz Hage,Undirected,1
+Frikz,Fritz,Undirected,2
+Frikz,t,Undirected,1
+Mansfeldf,t,Undirected,1
+Fritz,Mansfeldf,Undirected,2
+Fritz,LEre,Undirected,1
+LEre,Wre,Undirected,1
+,Mansfeldt,Undirected,2
+Thora,as,Undirected,3
+Fritz,as,Undirected,1
+Frikz,Mansfeldt,Undirected,3
+Frikz,Lunder,Undirected,3
+Lunder,Thora,Undirected,6
+,Lunder,Undirected,2
+Lunder,oder,Undirected,1
+Fritz,oder,Undirected,1
+Fritz,Lnnder,Undirected,3
+Fritz,Papa,Undirected,1
+Fritz,Lunder,Undirected,5
+Mansfeldt,kjære Møller,Undirected,1
+Mansfeldt,Møller,Undirected,9
+Fritz,Møller,Undirected,20
+Fritz,doa,Undirected,1
+Thora,doa,Undirected,1
+Møller,Thora,Undirected,8
+Mansfeldt,soer,Undirected,1
+,Møller,Undirected,3
+Hr. Møller,Møller,Undirected,1
+Møller,Sax,Undirected,2
+Fritz,soni,Undirected,3
+,Lnnder,Undirected,1
+Lunder,hnn,Undirected,3
+Tanshed,Thora,Undirected,1
+Tanshed,hnn,Undirected,1
+Gud,hnn,Undirected,2
+Mansfeldt,Thvra,Undirected,1
+Fritz,Thvra,Undirected,1
+Møller,Thvra,Undirected,1
+Møller,øg,Undirected,1
+Mansfeldt,Sands,Undirected,1
+Gud,Hvo,Undirected,1
+Fritz,hani,Undirected,2
+Graad,Thora,Undirected,1
+Graad,Møller,Undirected,1
+,hnn,Undirected,2
+Møller,hnn,Undirected,3
+Mansfeldt,ban,Undirected,1
+Fritz,ban,Undirected,1
+ester,hnn,Undirected,2
+,Frifz,Undirected,1
+Frifz,Fritz,Undirected,2
+Lunder,Møller,Undirected,2
+Thora,sørend,Undirected,3
+Fritz,sørend,Undirected,1
+Fritz,Io,Undirected,1
+Io,hnn,Undirected,1
+,ester,Undirected,2
+Fritz,felv,Undirected,2
+Fritz,Thora-,Undirected,1
+Mansfeldt,hnn,Undirected,2
+,Gud,Undirected,6
+Dn,Thora,Undirected,9
+Dn,Fritz,Undirected,1
+Thora,hayde,Undirected,1
+,Frikz,Undirected,1
+Thora,felv,Undirected,5
+Gud,felv,Undirected,1
+Gnd,Thora,Undirected,1
+Fritz,Gnd,Undirected,1
+Fritz,Goethes,Undirected,1
+Goethes,La Fontaines,Undirected,1
+Hain,La Fontaines,Undirected,1
+Fritz,Hain,Undirected,1
+Frn Bøhmers,Thora,Undirected,2
+Julie,Thora,Undirected,4
+Thora,har,Undirected,1
+Fritz Hage,Julie,Undirected,1
+Jnlie,Thora,Undirected,2
+Thora,soni,Undirected,5
+Efferat,Thora,Undirected,3
+Beethoven,Thora,Undirected,2
+Birken,Thora,Undirected,3
+Dandsen,Thora,Undirected,1
+Dandsen,flemme,Undirected,1
+Schwartz,flemme,Undirected,1
+Schwartz,Toilette,Undirected,1
+Mansfeldt,Toilette,Undirected,1
+Mansseldt,Thora,Undirected,1
+Fritz,Mansseldt,Undirected,1
+GZne,Thora,Undirected,2
+Thora,Valsens,Undirected,1
+Valsens,hnn,Undirected,1
+Thora,fom Godsejer Berger,Undirected,1
+Berger,fom Godsejer Berger,Undirected,1
+Berger,Thora,Undirected,576
+Hnn,Thora,Undirected,3
+Berger,Hnn,Undirected,1
+Berger,Carl,Undirected,1
+Thora,valse,Undirected,1
+Berger,valse,Undirected,1
+Berger,Onkels,Undirected,1
+Onkels,Schwartz ' Bal,Undirected,1
+Ingre,Schwartz ' Bal,Undirected,1
+Ingre,ZEldre,Undirected,1
+Thora,ZEldre,Undirected,1
+N.,Thora,Undirected,3
+Berger,hnn,Undirected,32
+Hr. Berger,N.,Undirected,1
+Berger,Hr. Berger,Undirected,1
+Berger,Lieutenant Ravn,Undirected,4
+Lieutenant Ravn,Thora,Undirected,11
+Mansfeldl,Thora,Undirected,1
+Hnn,Mansfeldl,Undirected,1
+Thora,feldt,Undirected,1
+Justitsraad Ravns,Thøra,Undirected,1
+Justitsraad Ravns,Thora,Undirected,2
+Thora,nien,Undirected,2
+Fritz,Schtvarttz,Undirected,1
+Berger,Schtvarttz,Undirected,1
+Thora,ester,Undirected,8
+Nina,Thora,Undirected,47
+Fritz,nn,Undirected,2
+Hans,Thora,Undirected,1
+Hans,soni,Undirected,1
+Nina,soni,Undirected,1
+Nina,hnn,Undirected,3
+Berger,Nina,Undirected,18
+Carl,Nina,Undirected,1
+Thøra,hnn,Undirected,4
+Berger,Thøra,Undirected,25
+Berger,sormaa,Undirected,1
+Thora,sormaa,Undirected,1
+Fritz,Paasfand,Undirected,1
+Birken,Paasfand,Undirected,1
+Berger,Birken,Undirected,2
+Frøken Mansfeldt,Thora,Undirected,3
+Berger,Frøken Mansfeldt,Undirected,1
+Berger,Gud,Undirected,59
+Gud,derimvd,Undirected,1
+Berger,derimvd,Undirected,1
+Berger,dahin,Undirected,1
+Mignon,dahin,Undirected,1
+Berger,Mignon,Undirected,1
+Carl,Thora,Undirected,5
+Lieutenantens,Thora,Undirected,1
+Lieutenant Ravn,Lieutenantens,Undirected,1
+Thora,deras,Undirected,2
+Liv,Nina,Undirected,1
+Hnn,hnn,Undirected,3
+Gud,Hnn,Undirected,2
+Berger,elsfe,Undirected,1
+Rose,Thora,Undirected,2
+Hnn,oni Bergers,Undirected,1
+Thora,oni Bergers,Undirected,1
+Thora,herer,Undirected,2
+Berger,fig,Undirected,2
+Berger,Mansfeldt,Undirected,18
+Berger,huu,Undirected,1
+Thora,huu,Undirected,2
+Fritz,R.,Undirected,1
+Berger,Fritz,Undirected,40
+Berger,Existents,Undirected,1
+Existents,sørend,Undirected,1
+ester,sørend,Undirected,1
+ester,sælles,Undirected,1
+Berger,sælles,Undirected,1
+Berger,Johanne,Undirected,42
+Ester Bergers,Thora,Undirected,1
+Mansfeldt,jusf,Undirected,1
+Fritz,jusf,Undirected,1
+Berger,Fritz Hage,Undirected,5
+Berger,soni,Undirected,2
+Berger,voxen,Undirected,1
+Thora,voxen,Undirected,1
+Fritz Hage,Gud,Undirected,2
+Berger,Thora“,Undirected,1
+Thora,Thora“,Undirected,1
+Mansfeldt,Ny-Dork,Undirected,1
+Mansfeldf,Ny-Dork,Undirected,1
+Mansfeldf,Thora,Undirected,1
+Berger,Johanne Berger,Undirected,2
+Johannes Kjærlighed,Thora,Undirected,3
+Johanne,hnn,Undirected,9
+Johanne,Thora,Undirected,112
+Gud,Johanne,Undirected,11
+Johanne,Thvra,Undirected,1
+Gud,Thvra,Undirected,1
+Gud,Wre,Undirected,1
+Thora,Wre,Undirected,1
+Johanne,sil,Undirected,1
+Thora,sil,Undirected,1
+Jøhanne,Thøra,Undirected,6
+Berger,Jøhanne,Undirected,5
+Gud,Jøhanne,Undirected,2
+Iohanne,Johanne,Undirected,1
+Gud,Iohanne,Undirected,1
+Berger,Iohanne,Undirected,1
+Iohanne,lille Thora,Undirected,1
+Gud,lille Thora,Undirected,1
+Thora,fenere,Undirected,2
+Thora,dernæsf,Undirected,1
+Fritz Hage,dernæsf,Undirected,1
+Fritz Hage,Mansfeldt,Undirected,1
+Angsfens,Thora,Undirected,1
+Angsfens,hnn,Undirected,1
+Gud,Thøra,Undirected,6
+Fritz,Thøra,Undirected,3
+Johanne Berger,Thøra,Undirected,1
+Johanne Berger,Thora,Undirected,2
+Johanne,Mansfeldt,Undirected,4
+Jøhanne,Thora,Undirected,1
+Gud,nien,Undirected,1
+Johanne,Thøra,Undirected,1
+Ester,Gud,Undirected,2
+Dn,Gud,Undirected,2
+Otto,Thora,Undirected,9
+Johanne,Otto,Undirected,9
+Gud,Otto,Undirected,1
+Berger,Best,Undirected,1
+Birken,Fritz,Undirected,1
+Dn,Mansfeldt,Undirected,1
+Falkenhof,Mansfeldt,Undirected,1
+Dn,Falkenhof,Undirected,1
+Berger,Dn,Undirected,1
+,Justitsraad Ravns,Undirected,1
+Berger,didhen,Undirected,2
+Fritz,fig,Undirected,1
+Emma,Thora,Undirected,5
+Berger,Emma,Undirected,7
+Emma,Otto,Undirected,1
+Emma,Sophie,Undirected,2
+Sophie,Thora,Undirected,1
+Gud,Sophie,Undirected,1
+Jøhanne,øs,Undirected,1
+Thøra,øs,Undirected,1
+Hnn,Jøhanne,Undirected,1
+Otto,hnn,Undirected,1
+Thora,hove,Undirected,1
+ester,hove,Undirected,1
+Johanne,ester,Undirected,1
+Berger,Jobanne,Undirected,1
+Gud,Jobanne,Undirected,1
+Berger,Otto,Undirected,8
+Berger,Frifz,Undirected,1
+Ottv,Thøra,Undirected,1
+Jøhanne,Ottv,Undirected,1
+Jøhanne,hnn,Undirected,1
+,Berger,Undirected,7
+Berger,Wgte,Undirected,1
+Thøra,Wgte,Undirected,1
+Berger,nien,Undirected,2
+Iohanne,nien,Undirected,1
+Iohanne,Thora,Undirected,1
+Fritz,Johanne,Undirected,2
+Berger,felv,Undirected,2
+Thora,hilfe,Undirected,2
+Berger,srem,Undirected,1
+Berger,Mamsel Doris,Undirected,4
+Berger,Mamsel Døris,Undirected,2
+Mamselles,Thøra,Undirected,1
+Mamselles,øg,Undirected,1
+Berger,øg,Undirected,1
+Berger,Manisel,Undirected,1
+Doris,Manisel,Undirected,1
+Berger,Doris,Undirected,3
+Berger,Wgtepars,Undirected,2
+Bergerhavde,Thora,Undirected,2
+Mamsel Doris,Thora,Undirected,3
+Køne,Thora,Undirected,1
+Køne,Mamsel Doris,Undirected,1
+,Mamsel Doris,Undirected,2
+Doris,Thora,Undirected,4
+Berger,oni,Undirected,2
+Gud,oni,Undirected,1
+Thora,esterat,Undirected,1
+Berger,voxede,Undirected,1
+nied,voxede,Undirected,1
+Manisel Doris,Thora,Undirected,2
+Gud,Jesu,Undirected,1
+,felv,Undirected,1
+Draabe,felv,Undirected,1
+Berger,Draabe,Undirected,1
+Berger,Thora sor,Undirected,1
+Thora,Thora sor,Undirected,1
+Barme,Berger,Undirected,1
+Barme,hnn,Undirected,1
+Berger,Mamsellen,Undirected,1
+Thora,fjærnc,Undirected,1
+Berger,fjærnc,Undirected,1
+hnn,nied,Undirected,1
+Doris,Mamsel Doris,Undirected,1
+Thøra,øg,Undirected,1
+Thora,fom Bergers,Undirected,1
+Ester,Thøra,Undirected,1
+Ester,Thora,Undirected,2
+Thora,nn,Undirected,2
+Otto,ester,Undirected,1
+Berger,ester,Undirected,10
+Fritz,Jntetsomhelst,Undirected,1
+Bei,Gud,Undirected,1
+Thora,sor,Undirected,2
+Berger,sor,Undirected,3
+Sidsfe,Thora,Undirected,2
+Ester,hnn,Undirected,1
+Berger,Ester,Undirected,1
+Faders,hnn,Undirected,1
+Faders,Thøra,Undirected,1
+Gud,Vagn,Undirected,1
+Thøra,Vagn,Undirected,1
+Berger,D. cL W.,Undirected,1
+Berger,DHrr,Undirected,1
+D. L,DHrr,Undirected,1
+D. L,Thora,Undirected,1
+Berger,Ieg,Undirected,1
+Berger,hann,Undirected,1
+hann,øg,Undirected,1
+Berger,Eva,Undirected,1
+Berger,fom,Undirected,1
+Thora,fom,Undirected,1
+Thora,taus,Undirected,1
+Berger,sia,Undirected,1
+Gud,sia,Undirected,1
+Thora,fpurgte,Undirected,1
+Berger,Marie,Undirected,1
+Assky,Berger,Undirected,1
+Assky,Thora,Undirected,1
+Gud,Kristus,Undirected,3
+Berger,Kristus,Undirected,2
+Berger,jø,Undirected,1
+herøm,jø,Undirected,1
+Berger,Thora Bergers,Undirected,1
+Stndinm,Thora,Undirected,1
+Berger,kjære Berger,Undirected,1
+Falkenhof,Fritz,Undirected,1
+Berge,Berger,Undirected,1
+Berge,Thora,Undirected,1
+Lieutenant Ravn,Thøra,Undirected,1
+Emma Bergers,Lieutenant Ravn,Undirected,1
+Emma,Emma Bergers,Undirected,1
+Emma,Lieutenant Ravn,Undirected,2
+Berger,ktænkes,Undirected,1
+Fritz,ktænkes,Undirected,1
+Alfred,Thora,Undirected,36
+Alfred,Berger,Undirected,33
+Johanne,Oni,Undirected,1
+Oni,Thora,Undirected,1
+Effer,Thora,Undirected,1
+Effer,Fritz,Undirected,1
+Mamsel Døris,Thora,Undirected,1
+Alfred,Gud,Undirected,10
+Gud,Præsfen,Undirected,1
+Berger,Præsfen,Undirected,1
+Jndolens,Thora,Undirected,2
+Efferat,Johanne,Undirected,1
+Aaget,Thora,Undirected,2
+Amazone,Berger,Undirected,1
+Amazone,mesf,Undirected,1
+Thora,mesf,Undirected,1
+Berger,vg,Undirected,2
+Berger,Jørgen,Undirected,1
+Berger,fom Thora,Undirected,1
+Bel,Thora,Undirected,1
+Bel,Berger,Undirected,1
+Berger,lille Alfred,Undirected,1
+Thora,lille Alfred,Undirected,1
+Berger,Bonnes,Undirected,2
+Alfred,Thøra,Undirected,7
+Thøra,jø,Undirected,1
+berø,jø,Undirected,1
+H,Thora,Undirected,1
+H,Hnn,Undirected,1
+Berger,as,Undirected,4
+Thora,Untersberg,Undirected,1
+Bergerhavde,Thøra,Undirected,1
+Bergerhavde,Carl,Undirected,1
+Kjørfel,Thora,Undirected,1
+Hesfe,Kjørfel,Undirected,1
+Christi,Thora,Undirected,1
+Thora,sorbi,Undirected,2
+Thora,sra,Undirected,1
+Berger,ZEdelmod,Undirected,1
+Fritz,ZEdelmod,Undirected,1
+,øgfaa,Undirected,1
+Thøra,øgfaa,Undirected,1
+Gud,Habsburg,Undirected,1
+Habsburg,Thora,Undirected,1
+Krisfi,hnn,Undirected,1
+Krisfi,Thora,Undirected,1
+Thora,villieløs,Undirected,2
+,Budsfab,Undirected,1
+Berger,Budsfab,Undirected,1
+Alfred,hnn,Undirected,1
+Frikz,Gud,Undirected,1
+Thora,katholsfe,Undirected,2
+Barme,Thora,Undirected,1
+Barme,Gud,Undirected,1
+Thøra,ester,Undirected,1
+Thora,hæns,Undirected,1
+Hlm,Thora,Undirected,2
+Taalmod,Thora,Undirected,2
+Thora,oni,Undirected,1
+Berger,Ddre,Undirected,1
+Ddre,Thora,Undirected,1
+Thøra,vg Berger,Undirected,1
+Gud,vg Berger,Undirected,1
+Gud,øgfaa,Undirected,1
+Jesu,øgfaa,Undirected,1
+Fritz,Fritz øgsaa,Undirected,1
+Berger,Fritz øgsaa,Undirected,1
+Bedstefader,Berger,Undirected,1
+Arne,Berger,Undirected,1
+Alfred,Arne,Undirected,2
+Berger,Bergermest,Undirected,1
+Bergermest,Birken,Undirected,1
+Alfred,Ester,Undirected,1
+Berger,Nischen,Undirected,1
+Nischen,Thora,Undirected,1
+Berger,Nische,Undirected,1
+Gud,Thora asbrød,Undirected,1
+Berger,fe Berger,Undirected,1
+Hain,Thora,Undirected,1
+Berger,Hain,Undirected,1
+Berger,ester Onklens,Undirected,1
+Thora,ester Onklens,Undirected,1
+Berger,L.,Undirected,3
+Berger,fnart,Undirected,1
+Thora,fnart,Undirected,1
+Emma,Nina Ravn,Undirected,1
+Nina Ravn,Thora,Undirected,2
+Nina,Thora vg Berger,Undirected,1
+Justitsraad Ravns,Thora vg Berger,Undirected,1
+Justitsraad Ravns,Nina,Undirected,1
+Gud,Nina,Undirected,2
+Lidelfer,Nina,Undirected,1
+Lidelfer,Thora,Undirected,1
+Berger,r. A.,Undirected,1
+H.,r. A.,Undirected,1
+Bergerhavde,H.,Undirected,1
+Berger,Bergerhavde,Undirected,1
+Berger,høs Berger,Undirected,1
+Nina Thora,Thora,Undirected,1
+Nina,ester,Undirected,1
+L.,Thora,Undirected,3
+Berger,deni,Undirected,1
+Thora,deni,Undirected,1
+Berger,Sopha,Undirected,1
+Sopha,Thora,Undirected,1
+,L.,Undirected,1
+Berger,Rosenkransen,Undirected,1
+Berger,Høs,Undirected,1
+Høs,Thøra,Undirected,1
+Berger-,Johanne,Undirected,2
+Majmaaned,Thora,Undirected,1
+Berger,Majmaaned,Undirected,1
+Gud,olene,Undirected,1
+Fritz,olene,Undirected,1
+Berger,Rudolph,Undirected,1
+Rudolph,Thora,Undirected,1
+Falkenhøfs,Thøra,Undirected,1
+Falkenhøfs,Thora,Undirected,1
+Friederik Haage,Thora,Undirected,2
+Friederik Haage,Thøra,Undirected,1
+Fritz Hage,Thøra,Undirected,1
+Friederik Haage,Fritz Hage,Undirected,1
+Gravers,Thora,Undirected,1
+Gud,Maanelys,Undirected,1
+Alfred,Maanelys,Undirected,1
+Efferhaanden,Thora,Undirected,1
+Efferhaanden,Gud,Undirected,1
+Alfred,Johanne,Undirected,5
+Thora,ino,Undirected,1
+Fritz Hage nied,ino,Undirected,1
+Fritz Hage nied,Thora,Undirected,1
+,Johanne,Undirected,1
+S.,Thora,Undirected,1
+S.,Thøra,Undirected,1
+Jøhanne,øgsaa,Undirected,1
+Johanne,øgsaa,Undirected,1
+Kristus,Thora,Undirected,2
+Johanne,Kristus,Undirected,2
+Alsred,Thora,Undirected,2
+Jesu,Thora,Undirected,1
+Berger,heudes,Undirected,1
+Alfred Berger,Thora,Undirected,1
+Alfred Berger,Berger,Undirected,1
+Johanne,Nische,Undirected,1
+Nische,Thora,Undirected,1
+Thora,krisfelig Trø,Undirected,2
+Alfred,L.,Undirected,1
+Ogfaa Falkenhof,Thora,Undirected,1
+Johanne,Sophie,Undirected,2
+Kaptain Ravns,Sophie,Undirected,1
+Emma,Kaptain Ravns,Undirected,1
+Johanne,Johannes Kjærlighed,Undirected,1
+Nina,Nina Ravn,Undirected,1
+Johanne,Nina,Undirected,2
+Arne,Thora,Undirected,1
+Berger,N.,Undirected,1
+Thora,lille Thora,Undirected,1
+Gud,søm Thøras,Undirected,1
+Billien,Gud,Undirected,2

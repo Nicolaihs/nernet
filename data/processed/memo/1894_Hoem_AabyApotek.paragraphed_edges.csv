@@ -1,0 +1,133 @@
+source,target,type,weight
+Hedvig,prr,Undirected,1
+Hassel,Hedvig,Undirected,8
+Hassel,Jørgen,Undirected,3
+Frøken Hedvig,Hassel,Undirected,1
+Frøken Hedvig,Hammer,Undirected,1
+Hammer,Hassel,Undirected,5
+Hassel,Jørgen Fragtmands,Undirected,1
+Gud,Jørgen,Undirected,1
+Apoteker Hammer,Dalgaard,Undirected,1
+Gud,Hassel,Undirected,5
+Dalgaard,Hassel,Undirected,40
+Frøken Brask,Hassel,Undirected,2
+Dalgaard,Pyrola uniflora,Undirected,1
+Bredes,Hassel,Undirected,1
+Dalgaard,Hedvig,Undirected,17
+Dalgaard,Gud,Undirected,1
+Hedvig,Henrik Smid,Undirected,1
+Frøken Hammer,Hassel,Undirected,1
+Dalgaard,Frøken Hammer,Undirected,1
+Hassel,Per Gynt,Undirected,1
+Kristian,Per Gynt,Undirected,1
+Dalgaard,Launing,Undirected,3
+Gud,Peder Paarses,Undirected,1
+Aarholm,Bjørk,Undirected,2
+Gud,Jærntraade,Undirected,1
+Peter Andreas,Vejlby,Undirected,1
+Elster,Vejlby,Undirected,1
+Elster,ErBjørk,Undirected,1
+Aarholm,Gud,Undirected,1
+Gud,Vejlby,Undirected,1
+Baumann,Niels,Undirected,7
+Karlen,Rollo,Undirected,1
+Karlen,Niels,Undirected,1
+Baumann,lian,Undirected,1
+Niels,lian,Undirected,1
+.Niels,Baumann,Undirected,1
+.Niels,Niels,Undirected,1
+Lini,Niels,Undirected,1
+Feddersen,Niels,Undirected,1
+Niels,Niels Feddersen,Undirected,1
+Baumann,Feddersen,Undirected,1
+Merpi,Monsieur,Undirected,1
+Merpi,Niels,Undirected,1
+Baumann,Karlen,Undirected,1
+Baumann,Kristine Madsen,Undirected,1
+Niels,Niels’,Undirected,1
+Kristine,Niels,Undirected,12
+Adam,Niels,Undirected,1
+Marsch,Niels,Undirected,1
+Bacchus,Niels,Undirected,1
+Bacchus,Kristine,Undirected,1
+Loths,Niels,Undirected,1
+Kristine,Loths,Undirected,1
+Niels,Rollo,Undirected,5
+Niels,Niels Pedersen,Undirected,1
+Kristine,Niels Pedersen,Undirected,1
+Kristine,lille Kristine,Undirected,1
+Kristine,Rollo,Undirected,1
+Rollo,mela Niels,Undirected,1
+Niels,mela Niels,Undirected,1
+Karl,Kristine,Undirected,1
+Hassel,Knud Dalgaard,Undirected,1
+Krogerup,Ramses,Undirected,1
+Frøken Brask,Krogerup,Undirected,1
+Hassel,Tarot,Undirected,1
+Dalgaard,Frøken Brask,Undirected,4
+Dalgaard,Krogerup,Undirected,1
+Don Juan,Frøken Brask,Undirected,1
+Dalgaard,Hammer,Undirected,3
+Gud,sire,Undirected,1
+Berthelsen,Max Mullers,Undirected,1
+Gud,Peter Andreas,Undirected,1
+Dalgaard,Provi-soren,Undirected,1
+Hassel,Launing,Undirected,1
+Dalgaard,Hedvig —,Undirected,1
+Hassel,Hedvig —,Undirected,1
+Harriet,Hedvig,Undirected,3
+Dalgaard,Harriet,Undirected,7
+Hassel,lille Sofie,Undirected,1
+Hassel,Tycho Brahes,Undirected,1
+Frøken Brask,Gud,Undirected,1
+Dalgaard,Robespierres,Undirected,1
+Haren,Hassel,Undirected,1
+Frøken Brask,Haren,Undirected,1
+Hedvig,Straahat,Undirected,1
+Hassel,Peter,Undirected,1
+Brahe,Tycho,Undirected,1
+Brahe,Harer,Undirected,1
+Engelbrecht,Søren Nielsen,Undirected,2
+Dalgaard,Søren Nielsen,Undirected,1
+Hedvig,Tycho Brahes,Undirected,1
+Søren Nielsen,Tycho Brahes,Undirected,1
+Frøken Hedvig,Launing,Undirected,1
+Anakreon,Gud,Undirected,1
+Ane,Hassel,Undirected,2
+Dalgaard,paany,Undirected,2
+Hassel,Ormen,Undirected,1
+Fysikus,Launing,Undirected,1
+Frøken Brask,Fysikus,Undirected,1
+Dalgaard,Fysikus,Undirected,3
+Fysikus,Hassel,Undirected,1
+Dalgaard,Farma ceut,Undirected,1
+Farma ceut,Hassel,Undirected,1
+Jaså,apoteckaren redan,Undirected,1
+flickan,hon,Undirected,1
+Sødermark,hon,Undirected,1
+Bøge,Magnus,Undirected,4
+Magnus,Sødermark,Undirected,1
+Erlauben Sie,Hrr. Hauptmann,Undirected,1
+Stakkars,apoteckare,Undirected,1
+Bøge,Sødermark,Undirected,2
+Bøge,Gud,Undirected,2
+Angelica,Hon,Undirected,1
+Dalgaard,Harriet Brede,Undirected,2
+Dalgaard,Frøken Harriet,Undirected,1
+Dalgaard,Mester Veniftcus,Undirected,1
+Dalgaard,ban,Undirected,1
+Harriet,Hr. Dalgaard,Undirected,1
+Emilie,Eriksen,Undirected,1
+Forvalter Rasmussens,Harriet,Undirected,1
+Emilie,Harriet,Undirected,1
+Gud,Hr. Dalgaard,Undirected,1
+Harriet,Hassel,Undirected,2
+Dalgaard,Hr. Dalgaard,Undirected,1
+Harriet,Vejlby,Undirected,2
+Dr. Vejlby,Launing,Undirected,1
+Dalgaard,Dr. Vejlby,Undirected,2
+Harriet,Peter Andreas,Undirected,1
+Don Juan,Hedvig,Undirected,1
+Hedvig,Knud,Undirected,1
+Hassel,Vejlby,Undirected,1
+Dalgaard,Vejlby,Undirected,1

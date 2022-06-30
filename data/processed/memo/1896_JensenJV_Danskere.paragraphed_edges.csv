@@ -1,0 +1,197 @@
+source,target,type,weight
+Buris Holm,Valdemar Dybæk,Undirected,1
+Buris,Dybæk,Undirected,55
+Ellen Viingren,Josefa Gram,Undirected,1
+Anna Kjærulf,Dybæk,Undirected,1
+Anna Kjærulf,Clara Kristensen,Undirected,1
+Arnesen,Buris,Undirected,27
+Buris,Jærn,Undirected,1
+Arnesen,Dybæk,Undirected,14
+Anna Kjærulf,Buris,Undirected,1
+Bjerregaard,Dybæk,Undirected,1
+Bjerregaard,Kristensen,Undirected,1
+Dybæk,Guds,Undirected,1
+Cosmos,Dybæk,Undirected,1
+Bien,Poulsen,Undirected,1
+Dybæk,Karen Fibiger,Undirected,3
+Karen Fibiger,Tobiesen,Undirected,1
+Dybæk,Poulsen,Undirected,9
+Buris,Poulsen,Undirected,8
+Buris,Massmann,Undirected,1
+Arnesen,Massmann,Undirected,1
+Arnesen,Poulsen,Undirected,9
+Buris,Dy bæk,Undirected,1
+Arnesen,Brandes,Undirected,2
+Brandes,Staffeldt,Undirected,1
+Buris,valen,Undirected,1
+Buris,Nikolai Taarn,Undirected,1
+Buris,Nielsen,Undirected,2
+Buris,Høffdings,Undirected,2
+Holm,Wiirtzen,Undirected,1
+Krohg,Wiirtzen,Undirected,2
+Krohg,Kunstdrejer Petersen,Undirected,1
+Kunstdrejer Petersen,Pantelaaner Jakobsen,Undirected,1
+Frk. Petersen,Pantelaaner Jakobsen,Undirected,1
+Buris,Frk. Petersen,Undirected,5
+Buris,Wiirtzen,Undirected,1
+Buris,Krohg,Undirected,1
+Nielsen,Wiirtzen,Undirected,1
+Frederik Jensen,Gud,Undirected,1
+Frederik Jensen,Wiirtzen,Undirected,1
+Jakobsen,Nielsen,Undirected,1
+Buris,Petersen,Undirected,1
+Frk. Nielsen,Frk. Petersen,Undirected,1
+Buris,Whist,Undirected,1
+Buris,Jakobsen,Undirected,2
+Frk. Nielsen,Jakobsen,Undirected,2
+Jakobsen,Solo-Nolo,Undirected,1
+Frøken Agerbo,Wiwel,Undirected,1
+Fugmann,Wiwel,Undirected,1
+Buris,Grønnegaard,Undirected,26
+Carsten Ravn,Esmann,Undirected,1
+Alfred Schmidt,Carsten Ravn,Undirected,1
+Alfred Schmidt,Buris,Undirected,1
+Grønnegaard,Hartmans,Undirected,1
+Hartmans,Ribbings,Undirected,1
+Berg,Grønnegaard,Undirected,1
+Berg,Buris,Undirected,1
+Buris,Karl,Undirected,1
+Grønnegaard,Kelner,Undirected,1
+Buris,Riise,Undirected,1
+Buris,Holm,Undirected,1
+Dybæk,Grønnegaard,Undirected,8
+Buris,Gud,Undirected,2
+Mary,Venus,Undirected,1
+Buris,Rydberg,Undirected,1
+Dybæk,Mary,Undirected,1
+Dybæk,Karen Fi biger,Undirected,1
+Karen Fi biger,Mary,Undirected,1
+Buris,Holck,Undirected,3
+Antoinette,Holck,Undirected,1
+Antoinette,Buris,Undirected,1
+Buris,Heine,Undirected,1
+Heine,Mama,Undirected,1
+Buris,Mama,Undirected,2
+Buris,J. P. Jakobsens,Undirected,1
+J. P. Jakobsens,Niels Lyhne,Undirected,1
+Niels Lyhne,Pan,Undirected,1
+Buris,Cordelia,Undirected,2
+Buris,Johs. Jørgensen,Undirected,1
+Høffdings,Warmings,Undirected,1
+Buris,Frøken Holck,Undirected,2
+Buris,Nina,Undirected,10
+Cordelia,Mama,Undirected,1
+Buris,Frøken Ninas,Undirected,1
+Buris,kluklo,Undirected,2
+Buris,medes,Undirected,1
+Antoinette,Cordelia,Undirected,1
+Buris Holm,Kildal,Undirected,1
+Buris,Kildal,Undirected,23
+Assymetri,Buris,Undirected,1
+Frøken Bergmann,Kildal,Undirected,1
+Buris,valne,Undirected,1
+Buris,Dahl,Undirected,5
+Dahl,Hammer,Undirected,5
+Hammer,Kildal,Undirected,5
+Kildal,Valdemar,Undirected,1
+Kildal,Krys,Undirected,1
+Dahl,Krys,Undirected,1
+Buris,Frøken Bergrnann,Undirected,3
+Dahl,Gud,Undirected,1
+Buris,Frøken Bergmann,Undirected,2
+Dahl,Kildal,Undirected,7
+Buris,Frøken Hammer,Undirected,3
+Buris,Skaal,Undirected,2
+Buris,Roselille,Undirected,1
+Punschen,Roselille,Undirected,1
+Kildal,Punschen,Undirected,1
+Hagens,Kildal,Undirected,1
+Dahl,Hagens,Undirected,1
+Brandes,Kildal,Undirected,1
+Brandes,Buris,Undirected,1
+Brandes,Darwin,Undirected,1
+Kildal,aarie,Undirected,1
+Frøken Hammer,Hammer,Undirected,1
+Buris,Graad,Undirected,1
+Graad,Nina,Undirected,1
+Frøken Hammer,Karlen,Undirected,1
+Dahis,Kildal,Undirected,1
+Brøndsted,Hugo Stelling,Undirected,1
+Brøndsted,Lie,Undirected,1
+Hugo Stelling,Lie,Undirected,1
+Brandes,Dybæk,Undirected,2
+Buris,Karen Fibiger,Undirected,2
+Buris,Quid nunc,Undirected,1
+Holst,Quid nunc,Undirected,1
+Holst,Kaj sy,Undirected,2
+Gud,Holst,Undirected,1
+Buris,Longfellow,Undirected,1
+Evropa,Grundtvig,Undirected,1
+Brandes,Kierkegaard,Undirected,2
+Arnesen,Nietzsche,Undirected,1
+Brandes,Madsen,Undirected,1
+Brandes,Ferslews,Undirected,2
+Brandes,Syle,Undirected,1
+Syle,hans Kyras,Undirected,1
+Vilhelm Bergsøe,hans Kyras,Undirected,1
+Edvard Brandes,Peter Nansen,Undirected,2
+Arnesen,Edvard Brandes,Undirected,1
+Arnesen,Edvard,Undirected,1
+Brandes,Edvard,Undirected,1
+Brandes,Peter Nansen,Undirected,1
+Cherbuliez,Dybæk,Undirected,1
+Brandes,Cherbuliez,Undirected,1
+Brandes,Hugo Stelling,Undirected,1
+Arnesen,Hugo Stelling,Undirected,1
+Schopenhauer,Strindberg,Undirected,1
+Absinth,Buris,Undirected,2
+Buris,Karme,Undirected,2
+Buris,Buris Holm,Undirected,1
+Buris,Holst,Undirected,1
+Holst,hin,Undirected,1
+Buris,Goethe,Undirected,1
+Charleys,Estrup,Undirected,1
+Estrup,Plougs,Undirected,1
+Amesens,Buris,Undirected,5
+Buris Holm,Dybæk,Undirected,1
+Dybæk,Johannes Jørgensen,Undirected,1
+Karen Fibiger,Simon Kok,Undirected,1
+Dybæk,Fjelsted,Undirected,1
+Fjelsted,Petersener,Undirected,1
+Petersener,Poulsener,Undirected,1
+Hansener,Poulsener,Undirected,1
+Hansener,Sørensen,Undirected,1
+Dybæk,Pauline,Undirected,1
+. Jørgensen,Buris,Undirected,1
+Grundtvig,Sørensen,Undirected,1
+. Jørgensen,Grundtvig,Undirected,1
+Jørgensen,Schopenhauer,Undirected,1
+Darwin paaberaabt,Schopenhauer,Undirected,1
+Buris,Jørgensen,Undirected,6
+Buris Holm,Jørgensen,Undirected,2
+Frøken Fjelsted,Jørgensen,Undirected,8
+Dybæk,Frøken Fjelsted,Undirected,7
+Buris,Frøken Fjelsted,Undirected,15
+Buris,Fjelsted,Undirected,7
+Dybæk,Jørgensen,Undirected,3
+Beethoven,Frøken Fjelsted,Undirected,2
+Buris,Student Jørgensen,Undirected,1
+Buris,Froken Fjelsted,Undirected,3
+Johannes Jørgensen,Niels Lyhne,Undirected,1
+Johannes Jørgensen,Karl,Undirected,1
+Buris,Frederik den Femtes,Undirected,2
+Frøken Fjelsted,Holm,Undirected,1
+Jørgensen,æ,Undirected,1
+Fjelsted,Pauline,Undirected,1
+Arnesen,Gud,Undirected,3
+Dybæk,Gud,Undirected,2
+Arnesen,Grønnegaard,Undirected,2
+Grønnegaard,Poulsen,Undirected,1
+Dybæk,Toddy,Undirected,1
+Arnesen,Toddy,Undirected,1
+Grønnegaard,Toddy,Undirected,1
+Amesens,Niels Lyhne,Undirected,1
+Amesens,Grønnegaard,Undirected,1
+Buris,H. C.,Undirected,1
+Faust,Mefistofeles,Undirected,1
+Goethe,Mefistofeles,Undirected,2

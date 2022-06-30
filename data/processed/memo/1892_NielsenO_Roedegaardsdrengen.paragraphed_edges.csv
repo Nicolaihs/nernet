@@ -1,0 +1,52 @@
+source,target,type,weight
+Knud Herluff,Knuds,Undirected,1
+Knud,Martin,Undirected,4
+Bremer,Knud,Undirected,3
+Apoteker Bremers,Knud,Undirected,1
+Bremer,Hvid,Undirected,1
+Bremer,Knud Herluff,Undirected,2
+Hr. Bremer,Knud,Undirected,1
+Bremer,lille Knud,Undirected,1
+Knud,Knud Herluff,Undirected,1
+Johan Meyer,Knud,Undirected,3
+Johan Meyer,Knud Herluff,Undirected,4
+Johan,Knud,Undirected,6
+Otto Gabert,Otto Lind-hardt,Undirected,1
+Gabert,Otto Lind-hardt,Undirected,1
+Gud,Otto Gabert,Undirected,1
+Johan,Johan Meyer,Undirected,2
+Johan,Moses,Undirected,1
+Knud Herluf,Moses,Undirected,1
+Johan Meyer,Knud Herluf,Undirected,1
+Jørgen Brandt,Knud,Undirected,1
+Gorm hin Gamles,Thyra Danebods,Undirected,1
+Knud Herluf,Petri,Undirected,1
+Gud,Herluff,Undirected,1
+Bælam,Gud,Undirected,1
+Herluff,Johan Meyer,Undirected,7
+Herluff,Meyers,Undirected,1
+Herluff,Meyer,Undirected,5
+Bremer,Herluff,Undirected,1
+Herluff,Knud Herluff,Undirected,7
+Eskild Lindegaard,Herluff,Undirected,4
+Eskild Lindegaard,Kristen Jensen,Undirected,2
+Kristen Jensen Stenmark,Mads Poulsen,Undirected,1
+Lindegaard,Mads Poulsen,Undirected,1
+Eskild,Mads Poulsen,Undirected,1
+Bartkorns,Mads,Undirected,1
+Bravo,Mads,Undirected,1
+Herluff,Mads Poulsen,Undirected,1
+Herluff,Lindegaard,Undirected,1
+Herluff,Kortsen,Undirected,2
+Herluff,Jørgen Bøggild,Undirected,2
+Hr. Bøggild,Kortsen,Undirected,1
+Amalie von Rømersdorff,v. Rømersdorff,Undirected,1
+Amalie v. Rømersdorff,Knud Herluff,Undirected,1
+Johan Meyer,Meyer,Undirected,1
+Kognac,Meyer,Undirected,1
+Herluff,v. Rømers-dorff,Undirected,1
+Frøken Amalie,Herluff,Undirected,2
+Amalie Rømersdorff,Frøken Amalie,Undirected,1
+Amalie,Herluff,Undirected,1
+Herluff,Thinge,Undirected,1
+Herluff,v. Rømersdorff,Undirected,1

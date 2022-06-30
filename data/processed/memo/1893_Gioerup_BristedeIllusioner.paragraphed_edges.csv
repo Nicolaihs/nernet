@@ -1,0 +1,195 @@
+source,target,type,weight
+Falk,Straahat,Undirected,1
+Falk,Stenholt,Undirected,8
+Falk,Ludvig Stenholt,Undirected,1
+Gustav Falk,Stenholt,Undirected,2
+Frederik,Laura,Undirected,2
+Clara,Frederik,Undirected,2
+Laura,Otto,Undirected,1
+Grevinde Danners,Schopper,Undirected,1
+Grevinde Danners,Laura,Undirected,1
+Gustav Falk,Laura,Undirected,6
+Falk,Poul Møllers,Undirected,1
+Falk,Jensen,Undirected,2
+Annette,Falk,Undirected,2
+Annette,Kousine,Undirected,1
+Annette,Laura,Undirected,4
+Hostrup,Laura,Undirected,1
+Falk,Laura,Undirected,6
+Gustav Falk,Hostrup,Undirected,1
+Falk,Peter Herlig,Undirected,1
+Hjalte,Peter Herlig,Undirected,1
+Falk,Willerup,Undirected,3
+Frøken Schmidt,Gustav,Undirected,2
+Dr. Falk,Willerup,Undirected,1
+Dr. Falk,Laura,Undirected,2
+Gustav,Laura,Undirected,54
+Gustav,Hjalte,Undirected,1
+Dr. Falk,Schopper,Undirected,1
+Dr. Falk,Grundtvig,Undirected,1
+Ebba,Gustav,Undirected,37
+Gustav Falk,Hjalte,Undirected,2
+Falk,Hjalte,Undirected,2
+Gustav,Willerup,Undirected,2
+Gustav,Peter Herlig taug,Undirected,2
+Frøken Ebba,Gustav,Undirected,4
+Ebba,Laura,Undirected,17
+Ebba,Josefine,Undirected,11
+Carl,Willerup,Undirected,1
+Dandsen,Gustav,Undirected,1
+Gustav,Schopper,Undirected,3
+Laura,Schopper,Undirected,7
+Gustav,Line,Undirected,3
+Laura,Line,Undirected,1
+Gustav,Laura Falk,Undirected,1
+Bernhard Schopper,Laura Falk,Undirected,1
+Annette,Gustav,Undirected,26
+Frederik,Gustav,Undirected,8
+Clara,Thyra,Undirected,1
+Rigmor,Thyra,Undirected,1
+Margrethe Sprænghest,Thyra,Undirected,1
+Falk,Gustav,Undirected,3
+Clara,Laura,Undirected,6
+Kousinen,Laura,Undirected,1
+Gustav,Kousinen,Undirected,1
+Gustav,Stenholt,Undirected,5
+Annette,Stenholt,Undirected,1
+Gustav,Hall,Undirected,3
+Gustavs Skaal,Hall tillivs,Undirected,1
+Gustav,paany,Undirected,1
+Hall,paany,Undirected,1
+Guds,Gustav,Undirected,1
+Ebba,Guds,Undirected,1
+Gustav,Strøm,Undirected,1
+Ebba,Strøm,Undirected,1
+Ebba,Kamilla,Undirected,3
+Ebba,Schopper,Undirected,1
+Josefine,Kamilla,Undirected,2
+Brygger Schmidt,Falk,Undirected,1
+Falk,Schmidt,Undirected,5
+Falk,Hr. Schmidt,Undirected,2
+Bernhard Schopper,Gustav,Undirected,4
+Frøken Schmidt,Laura,Undirected,1
+Gustav,L’,Undirected,1
+L’,Orla,Undirected,1
+Lehmann,beraad,Undirected,1
+Clara,Gustav,Undirected,3
+Bernherd Schopper,Gustav,Undirected,1
+Ebba Schmidt,Laura,Undirected,3
+Gustav,raabe,Undirected,1
+Carl Schmidt,raabe,Undirected,1
+Carl Schmidt,Ebba,Undirected,1
+Ebba,Kapitajn Povelsen,Undirected,1
+Carl,Gustav,Undirected,22
+Gustav Falk,pagni,Undirected,1
+Niels Chresten Jensen,Niels Peter Jensen,Undirected,1
+Niels Chresten,Niels Chresten Jensen,Undirected,1
+Niels Chresten,Niels Peter,Undirected,1
+Annette,tom,Undirected,1
+Carl Schmidt,Klerup,Undirected,1
+Klerup,Toddy,Undirected,1
+Carl,Falk,Undirected,3
+Carl,Klerup,Undirected,1
+Gustav,Klerup,Undirected,1
+Hr. Falk,inat,Undirected,1
+Carl,Hr. Falk,Undirected,1
+Døttre,Schmidt,Undirected,1
+Døttre,Gustav,Undirected,1
+Gustav,monFader,Undirected,1
+leer,monFader,Undirected,1
+Josefine,leer,Undirected,1
+Ebba,Schmidt,Undirected,5
+Carl,Ebba,Undirected,3
+Gustav,Hr. Falk,Undirected,1
+Gustav,Jensen,Undirected,4
+Annette,Jensen,Undirected,6
+Annette,Ebba,Undirected,4
+Gustav,Schmidt,Undirected,15
+Carl,Schmidt,Undirected,11
+Carl,Josefine,Undirected,3
+Bernhard,Ebba,Undirected,2
+Bernhard,Josefine,Undirected,2
+Lieutenanten,Schmidt,Undirected,1
+Carl,Hr. Schmidt,Undirected,1
+Hall,Orla Lehmann,Undirected,1
+Lieutenanten,Monrad,Undirected,1
+Kammerjunker Schopper,Schmidt,Undirected,1
+Kousine,Schmidt,Undirected,1
+Gustav,Josefine,Undirected,5
+Hjalte,Josefine,Undirected,1
+Bernhard,Laura,Undirected,5
+Falk,Josefine,Undirected,1
+Hjalte,Laura,Undirected,1
+Laura,Schmidt,Undirected,3
+Hjalte,Schmidt,Undirected,1
+Bernhard,osigaar,Undirected,1
+Gaadens,Gustav,Undirected,2
+Bernhard Schopper,Frederik,Undirected,1
+Carl »,Gustav Brygger Schmidts,Undirected,1
+Carl »,Schopper,Undirected,1
+Bryggeren,Gustav,Undirected,1
+Bernhard,Carl,Undirected,1
+Josefine,Laura,Undirected,6
+Krinolinen,Laura,Undirected,1
+Gustav,Krinolinen,Undirected,1
+Gustav,hum,Undirected,1
+Bernhard,Gustav,Undirected,1
+Clara,Josefine,Undirected,1
+Ebba,Falk,Undirected,1
+Dr. Falk,Gustav,Undirected,1
+Carl,Clara,Undirected,1
+Clara,Ebba,Undirected,1
+Annette,Dorthea Sørensen,Undirected,1
+Dorthea Sørensen,Gustav Falk,Undirected,1
+Ebba,Karl,Undirected,1
+Gustav,Karlen,Undirected,2
+Annette,Frederik,Undirected,1
+Josefine,Schmidt,Undirected,2
+Gustav,Thors,Undirected,1
+Rye,Thors,Undirected,1
+Falk,Rye,Undirected,1
+Falk,Gud,Undirected,1
+Gud,Gustav,Undirected,2
+Carl,Max Muller,Undirected,1
+Carl,iste,Undirected,2
+Brygger Schmidt,Carl,Undirected,1
+Gud,Laura,Undirected,1
+Brygger Schmidt,Gustav,Undirected,1
+Brygger Schmidt,Carls Skjæbne,Undirected,1
+Carl,Laura,Undirected,2
+Gustav,Monrad,Undirected,1
+Lundbye,Monrad,Undirected,1
+Gustav,Lieutenant Schopper,Undirected,1
+Clara,Lieutenant Schopper,Undirected,1
+Kron-,borgs,Undirected,1
+Gustav,Gustav »,Undirected,1
+Gustav,Ingversen,Undirected,3
+Ingversen,Mammen,Undirected,1
+Lieutenant Børglum,Mammen,Undirected,1
+Bluhme,Gustav,Undirected,1
+Børglum,marks,Undirected,1
+Grev Frijs,Gustav,Undirected,1
+Schmidt,Søren Pipperup,Undirected,1
+Kaptain Schwartz,Michael Gjørup,Undirected,1
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Jørgen Hattemager,dandset,Undirected,1
+Jensen,Laura,Undirected,2
+Gustav Falk,Josefine,Undirected,1
+Jeppe,Jeppe Jensen,Undirected,1
+Jeppe,Josefine,Undirected,1
+Annette Jensen,Ebba,Undirected,1
+Ebba,Gustav  ,Undirected,1
+Laura,spurgteGustav,Undirected,1
+Børglum,Ingversen,Undirected,1
+Bernhard Schopper,Schmidt,Undirected,1
+Bernhard Schopper,Gustav Falk,Undirected,1
+Annette,Josefine,Undirected,2
+Døttre,Falk,Undirected,1
+Døttre,Laura,Undirected,1
+Holmgang,Stenholt,Undirected,1
+Gustav,Holmgang,Undirected,1
+Holmgang,afSkrike,Undirected,1
+Naalemager Hjorth,afSkrike,Undirected,1
+Ebba,Frederik,Undirected,1
+Jensen,Schmidt,Undirected,1
+-Gustav,Ebba,Undirected,1

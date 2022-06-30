@@ -1,0 +1,201 @@
+source,target,type,weight
+Hansen,Madam Hansen,Undirected,4
+Hansen,Svend,Undirected,5
+Andrea,Svend,Undirected,26
+Andrea,Mo,Undirected,2
+Andrea Smith,Hansen,Undirected,1
+Hansen,Trine,Undirected,2
+Thorvald,Trine,Undirected,2
+Svend,Thorvald,Undirected,5
+Andrea,Hansen,Undirected,16
+Hansen,Thorvald,Undirected,17
+Andrea,Madam Hansen,Undirected,16
+Madam Hansen,Tante,Undirected,1
+Lind,Trine,Undirected,2
+Lind,Thorvald,Undirected,9
+Fatter,Thorvald,Undirected,1
+Madam Hansen,Thorvald,Undirected,6
+Andrea,Thorvald,Undirected,12
+Andrea,Trine,Undirected,4
+Svend,Werner,Undirected,15
+Skriverhans,Trine,Undirected,1
+Skriverhans,atMantzius,Undirected,1
+Hultmann,atMantzius,Undirected,1
+Kong Frederik den syvende,Phister,Undirected,1
+Andrea Smith,Madam Hansen,Undirected,1
+Hansen,Lind,Undirected,15
+Jomfru Rasmussen,Lind,Undirected,1
+Lind,Madam Hansen,Undirected,19
+Svend,Trine,Undirected,2
+Frederik den,Lind,Undirected,2
+Christian,Lind,Undirected,2
+Frøken Smith,Lind,Undirected,3
+Lind,Werner,Undirected,15
+Andrea,Lind,Undirected,87
+Eva,Norne,Undirected,1
+Jomfru Lind,Lind,Undirected,3
+Andrea Smith,Lind,Undirected,2
+Lind,d,Undirected,1
+Jomfru Lind,Thomas,Undirected,2
+Thomas,Thomas lunds,Undirected,1
+Asthma,Thomas Lind,Undirected,1
+Andrea Smith,Anna Jensen,Undirected,1
+Hamiets,Yoriks,Undirected,1
+Ofelias,Yoriks,Undirected,1
+Hamlet,Ofelias,Undirected,1
+Hamlet,Horatio,Undirected,1
+Horatio,Kain,Undirected,1
+Hamlet,Karls,Undirected,1
+Karls,Yoriks,Undirected,1
+Hofnars,Yoriks,Undirected,1
+Hamlet,Hofnars,Undirected,1
+Hamlet,Yorik,Undirected,1
+Ferdinand,Lind,Undirected,1
+Ferdinand,Frederik den,Undirected,1
+Kristian den,Lind,Undirected,1
+Charlotte Amalie,Kristian den,Undirected,1
+Kristian,Lind,Undirected,1
+Frederik,Hall,Undirected,1
+Andrea,sagdeMadamHansen,Undirected,1
+Andrea,Hall,Undirected,1
+Hall,Svend,Undirected,1
+Frederik den sjette,Madam Hansen,Undirected,1
+Frederik den sjette,Kristian den,Undirected,1
+Mo,Svend,Undirected,1
+Frederik,Svend,Undirected,1
+Frederik,Mortensen,Undirected,1
+Mortensen,lille Andrea,Undirected,1
+Svend,lille Andrea,Undirected,1
+Kristian,Svend,Undirected,1
+Kristian,Thorvald,Undirected,1
+Lind,Svend,Undirected,10
+Andrea,Werner,Undirected,32
+Krinoline,Lind,Undirected,1
+Brun,Werner,Undirected,1
+Kristian,Werner,Undirected,1
+Andrea,Anna,Undirected,11
+Emilie,lille Mille,Undirected,1
+Sfinxes,Ødipus,Undirected,1
+Lind,le,Undirected,1
+Sfinxen,le,Undirected,1
+Hansen,Hr. Lind,Undirected,1
+Madam Hansen,Svend,Undirected,6
+Hr. Lind,Werner,Undirected,1
+Andrea,Mutter,Undirected,3
+Lind,Mo,Undirected,1
+Anna,Emilie,Undirected,11
+Anna,Lind,Undirected,24
+H. C.,Lind,Undirected,1
+Andersens,H. C.,Undirected,1
+Andersens,Lind,Undirected,1
+Emilie,Werner,Undirected,1
+Anna,Skipperen,Undirected,1
+Thorvald,Werner,Undirected,1
+Hansen,iste Sal,Undirected,1
+Andrea,Tante,Undirected,3
+Andrea,Tante saamænd,Undirected,1
+Hr. Lind,Teg,Undirected,1
+Andrea,Hr. Lind,Undirected,1
+Anna,Hansen,Undirected,1
+A.ndrea,Hansen,Undirected,1
+Lind,Peltse,Undirected,1
+Mutter,Werner,Undirected,1
+Lind,Mutter,Undirected,2
+Hansen,Mutter,Undirected,1
+Madam Hansen,Werner,Undirected,3
+Andrea,Svend i,Undirected,1
+Frederik den,Ævne,Undirected,1
+Smith,Thomas Lind,Undirected,1
+Bjørn,Lind,Undirected,1
+Hansen,Signes,Undirected,1
+Hagbarth,Signes,Undirected,1
+Junker,Werner,Undirected,1
+Junker,Lind,Undirected,1
+Andrea,gaf ervrf g<-,Undirected,1
+Hagbarth,Signe,Undirected,3
+Signe,Werner,Undirected,1
+Frøken Smith,Skipperen,Undirected,1
+Lind,Mare,Undirected,1
+Lind,Tante,Undirected,1
+Lind,Norne,Undirected,1
+Lord Russel,Monrad,Undirected,1
+Bismarck,Monrad,Undirected,1
+Gudmundsen,Kong Erik,Undirected,1
+Abel,Erik Plovpenning,Undirected,1
+Abel,Tyge Bost,Undirected,1
+Anna,Hans,Undirected,2
+Anna,Møllersvendens,Undirected,1
+Møller,Møllersvendens,Undirected,1
+Møller,Møllerens,Undirected,1
+Anna,Møllerens,Undirected,1
+Emil Werner,Lind,Undirected,1
+Crone,Thorvald,Undirected,1
+Crone,Monrad,Undirected,1
+Lundby,Monrad,Undirected,1
+Lundby,de Meza,Undirected,1
+Lind,Monrad,Undirected,1
+Emilie,Lind,Undirected,4
+Gud,véd,Undirected,1
+Madam Hansen,véd,Undirected,1
+Erik Blodøkses,Gunhild,Undirected,1
+Gunhild,Harald Blaatand,Undirected,1
+Dronning Gunhilds,Harald Blaatand,Undirected,1
+Dronning Gunhilds,Gunhild,Undirected,1
+Gunhild,Peter Ravn,Undirected,1
+Kanske,Peter Ravn,Undirected,1
+Gerlach,Lind,Undirected,1
+Andrea,Sivenes,Undirected,1
+Mo,lille Andrea,Undirected,1
+Mo,Smith,Undirected,1
+Andrea,Smith,Undirected,6
+Andrea,Onkels,Undirected,1
+Onkels,Werner,Undirected,1
+Andrea,Petersen,Undirected,1
+Andrea,Hanne,Undirected,1
+Werner,hart,Undirected,1
+Andrea,hart,Undirected,1
+Smith,Werner,Undirected,3
+Smith,lille Andrea,Undirected,1
+Friedrich Carl,du Plats,Undirected,1
+Alen,Andrea,Undirected,1
+Anna Margrethe Nielsen,Thomas Lind,Undirected,1
+Anna,Anna Margrethe Nielsen,Undirected,1
+Anna,Gud,Undirected,1
+Lundby,Reich,Undirected,2
+Lind,Line,Undirected,1
+Herkules,Tratraratra,Undirected,1
+Grevens,Lind,Undirected,2
+Jomfru Lind,haus,Undirected,2
+Lind,Madsen,Undirected,2
+Lind,Mortensen,Undirected,1
+Andrea,Mortensen,Undirected,1
+Anna,Mortensen,Undirected,1
+Hansen,Madam,Undirected,1
+Andrea,ban,Undirected,1
+Oberstløjtnant Beck,Tordenskjolds,Undirected,1
+Tordenskjold,Tordenskjolds,Undirected,1
+Hr. Beck,Tordenskjold,Undirected,1
+Dahl,Rosenørn,Undirected,1
+Dahl,Niels Ebbesen,Undirected,1
+Moltke,Niels Ebbesen,Undirected,1
+Lundby,Moltke,Undirected,1
+Andrea,Hr. Smith,Undirected,1
+Andrea,Fyen,Undirected,1
+Hansen,Steinmann,Undirected,1
+Kauffmanns,Steinmann,Undirected,1
+Friederich Carl,Kauffmanns,Undirected,1
+Aland,Friederich Carl,Undirected,1
+Andrea,Kauffmann,Undirected,1
+Andrea,Christian Winther,Undirected,1
+Klavs,Valdemar Atterdag,Undirected,1
+Andrea,Karl,Undirected,1
+Henrik den,Lind,Undirected,1
+Lind,Thomsen,Undirected,2
+Ole Jensen,Thomsen,Undirected,2
+Anna,Mo,Undirected,1
+Anna,Mille,Undirected,1
+Lind,Simon Peder,Undirected,1
+Jesus,Simon Peder,Undirected,1
+Gud,Madam Hansen,Undirected,1
+Andrea,Gud,Undirected,1
+Andrea,Madam Hanten,Undirected,1

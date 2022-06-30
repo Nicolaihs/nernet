@@ -1,0 +1,150 @@
+source,target,type,weight
+Lassen,Skipper Lassen,Undirected,1
+Gud,Mathilde,Undirected,1
+Kruse,Line,Undirected,1
+Kruse,Marie,Undirected,9
+Gud,Marie,Undirected,1
+Kruse,jom,Undirected,2
+Madam Gast,lille Thora,Undirected,1
+Madam,Thora,Undirected,6
+Madam,Madam Gast,Undirected,1
+Madam Gast,Madammen,Undirected,1
+Madam,Mortensen,Undirected,2
+Madam,Madammen,Undirected,1
+Ded,ded,Undirected,1
+Madam Gasf,Thora,Undirected,1
+Graaden,Gud,Undirected,1
+Gud,lille Thora,Undirected,2
+Madam,lille Thora,Undirected,1
+Geschichte,lille Thora,Undirected,1
+Madam Gast,Thora,Undirected,14
+Kruse,lille Mathilde,Undirected,3
+Gud,lille Du,Undirected,1
+Kruse,Lilles,Undirected,1
+Kruse,Mathilde Kruse,Undirected,2
+Kruse,Thora,Undirected,8
+Thora,Thora Møller,Undirected,3
+Frøken Christensen,Thora,Undirected,2
+Kruse,Thora Møller,Undirected,4
+Christensen,Thora,Undirected,1
+Erik Bøghs,Terje Vigen,Undirected,1
+Roses,Thora Møller,Undirected,1
+Margrethes,Thora Møller,Undirected,1
+Margrethes,Roses,Undirected,1
+Roses,Thora,Undirected,2
+Frøken Christensen,Huri,Undirected,1
+Herren,Roses,Undirected,1
+Mathilde,Thora,Undirected,7
+Madam Gast,Mathilde,Undirected,3
+Frederiksen,Thora,Undirected,4
+Thora,hnn,Undirected,1
+Madam Gast,hnn,Undirected,1
+Frederiksen,Madam Gast,Undirected,3
+Kruse,Mathilde,Undirected,7
+Kruse,Thilde,Undirected,5
+Gud,Thilde,Undirected,1
+Frederiksen,Kruse,Undirected,8
+Frederiksen,Marie,Undirected,1
+Lilles,Marie,Undirected,2
+Kruse,Madam Gast,Undirected,6
+Madam Gast,Marie Jensen,Undirected,1
+Kruse,Marie Jensen,Undirected,1
+Bin,Frederiksen,Undirected,1
+Thilde,lille Mathilde,Undirected,1
+Madam Gas,Thilde,Undirected,1
+Madam Gast,s,Undirected,1
+Kruse,an,Undirected,2
+Madam Gast,lille Mathilde,Undirected,2
+Madam Gastes,Thora,Undirected,1
+Thora,lille Mathilde,Undirected,1
+Kruse,Madam,Undirected,2
+Mathilde Kruse,Thora,Undirected,1
+Fabrikant Kruses,Thora,Undirected,1
+Thora Møller,helsf,Undirected,1
+Gud,Madam Gast,Undirected,1
+Thora,son,Undirected,1
+hnn,son,Undirected,1
+Marie,hnn,Undirected,1
+Marie,Thora,Undirected,4
+Lille Mathilde,Line,Undirected,1
+Kruse,Møller,Undirected,1
+Kruse,sigl,Undirected,1
+Mathilde,Møller,Undirected,1
+Gast,Madam,Undirected,2
+Madam,smaalo,Undirected,1
+Lille Mathilde,Thora,Undirected,1
+Frøken Møller,Thora,Undirected,1
+Marie,lille Mathilde,Undirected,1
+Thora,fasf,Undirected,1
+fasf,lille Mathilde,Undirected,1
+Madam Gasf,lille Mathilde,Undirected,1
+Madam Gasf,Mathilde,Undirected,1
+Madam Gasf,Marie,Undirected,1
+Marie,Mathilde,Undirected,1
+Gud,Thora,Undirected,1
+Gud,lille Mathilde,Undirected,1
+Maren,Niels Jensen,Undirected,4
+Mads,Maren,Undirected,3
+Graad,Maren,Undirected,1
+Birthe,Hans,Undirected,3
+Birthe,Gud,Undirected,1
+Hans,Vorherre,Undirected,1
+Birthe,Maren,Undirected,6
+Gud,Hans,Undirected,4
+Hans,Maren,Undirected,1
+Gud,Niels,Undirected,2
+Maren,Poulsen,Undirected,1
+Maren,Povlsen,Undirected,18
+Maren,lille Maren,Undirected,1
+Povlsen,lille Maren,Undirected,1
+Ester,Niels Jensen,Undirected,1
+Birthe,Ester,Undirected,1
+Graaden,Maren,Undirected,1
+Birthe,Niels Jensen,Undirected,3
+Niels Jensen,esterham,Undirected,1
+Povlsen,hnn,Undirected,1
+Marie Bjerre,Per Bjerre,Undirected,1
+Niels,Per Bjerre,Undirected,1
+Marie,Niels,Undirected,1
+Birthe,Marie,Undirected,3
+Farlil,Niels Jensen,Undirected,1
+Gud,Jørgen,Undirected,2
+Gud,Maren,Undirected,1
+Maren,hnn,Undirected,1
+Mormoder,hnn,Undirected,1
+Maren,Niels,Undirected,3
+Birthe,Niels,Undirected,4
+Lille Niels,Maren,Undirected,2
+Lille Niels,Povlsen,Undirected,1
+Gud,lille Niels,Undirected,2
+Povlsen,lille Niels,Undirected,1
+,Lille Niels,Undirected,2
+Birthe,lille Niels,Undirected,2
+Nn,lille Niels,Undirected,1
+Maren,Nn,Undirected,1
+,Gud,Undirected,1
+Niels Jensen,Povlsen,Undirected,2
+Glæede,Jørgen,Undirected,1
+Glæede,lille Niels,Undirected,1
+Mo,lille Niels,Undirected,1
+Maren,Mo,Undirected,1
+Maren,r,Undirected,1
+Maren,lille Niels,Undirected,1
+,lille Niels,Undirected,1
+,Maren,Undirected,1
+Niels,Niels Jensen,Undirected,2
+Jørgen,Niels Jensen,Undirected,1
+Povlsen,Svend,Undirected,1
+Povlsen,Øe,Undirected,1
+Dolck,Køhler,Undirected,1
+Johan Dolck,Køhler,Undirected,1
+Rikkes,lille Rikke,Undirected,1
+Amalie,Gud,Undirected,3
+Olsen,Povlsen,Undirected,1
+Adelajdes,Frøken Lerche,Undirected,1
+Amalie,Per,Undirected,1
+Per,Povl,Undirected,1
+Gud,Povl,Undirected,1
+Madam Petersen,Sidse,Undirected,1
+Ingres,LEldres,Undirected,1
+Adelajde,Dolck,Undirected,1

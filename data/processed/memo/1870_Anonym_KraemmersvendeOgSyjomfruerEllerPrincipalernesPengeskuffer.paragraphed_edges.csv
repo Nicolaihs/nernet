@@ -1,0 +1,192 @@
+source,target,type,weight
+Kvist,ban,Undirected,2
+Bang,Kvist,Undirected,1
+Kvist,helle,Undirected,1
+Hr. Petersen,slal,Undirected,1
+Hr. Petersen,be,Undirected,1
+Hr. Petersen,Petersen,Undirected,5
+Hr. Petersen,Toddyen,Undirected,1
+Hr. Petersen,Humeur,Undirected,1
+Hansen,Petersen,Undirected,4
+Frøken Knob,Petersen,Undirected,1
+Peter,Petersen,Undirected,4
+Petersen,hans Lorgnet,Undirected,1
+Peter,hans Lorgnet,Undirected,1
+Frederik den,Peter Berg,Undirected,1
+Peter Berg,Petersen,Undirected,2
+Bravo,Hr Petersen,Undirected,1
+Gud,Petersen,Undirected,2
+Peter Berg,jø,Undirected,1
+Clara,Hr. Petersen,Undirected,1
+Cathinka,Clara,Undirected,1
+Caroline,Cathinka,Undirected,1
+Caroline,Petersen,Undirected,1
+Clara,GinderupS,Undirected,1
+Clara,Petersen,Undirected,2
+Bravo,Chor,Undirected,1
+Hr. Petersen,ril,Undirected,1
+Petersen,lee,Undirected,1
+Hr. Petersen,Oscar,Undirected,1
+Caroline,Elara,Undirected,1
+Caroline,Clara,Undirected,5
+Caroline,Søren Rise,Undirected,3
+Caroline,Søren,Undirected,6
+Caroline,Graad,Undirected,1
+Clara,Søren Rise,Undirected,1
+Clara,Søren,Undirected,2
+Askes,Clara,Undirected,1
+Asten,Caroline,Undirected,1
+Søren Rise,ban,Undirected,1
+Hr. Petersen,Søren Rise,Undirected,2
+Frederik den,Rasmus Petersen,Undirected,1
+Enkemadam Miller,Rasmus Petersen,Undirected,1
+Barbara,Rasmus,Undirected,15
+Peter,Rasmus,Undirected,2
+Barbara pleier,Rasmus Petersen,Undirected,1
+Rasmus,Svend,Undirected,3
+RaSmuS,Svend,Undirected,1
+Rasmus,Rasmus ai,Undirected,1
+Christian,Frederik,Undirected,1
+Barbara,Steen,Undirected,1
+Christian,ban,Undirected,3
+Barbara,Støi,Undirected,1
+Christian,Dbrbara,Undirected,1
+Barbarra,Christian,Undirected,1
+Christian,Rasmus,Undirected,6
+Barbara,Christian,Undirected,7
+Barbara,ban,Undirected,1
+Christian,lidr,Undirected,1
+Dands,Rasmus,Undirected,1
+Knagen bergs,ban,Undirected,1
+Rasmus,hans,Undirected,1
+ban,hans,Undirected,1
+Hr. Knagenberg,Rasmus,Undirected,2
+Hr. Knagenberg,ai,Undirected,1
+Rasmus,ai,Undirected,1
+Knagenberg,Rasmus,Undirected,3
+Dan-,Rasmns,Undirected,1
+Christian,Rasmns,Undirected,1
+Barbara,Rasmns,Undirected,1
+Christian,Knagenberg,Undirected,4
+Knagenberg,Støi,Undirected,1
+Chrisfian,Rasmus,Undirected,1
+Gud,Rasmus,Undirected,2
+Rasmus,fiel,Undirected,1
+Hr. Petersen,Rasmus,Undirected,1
+Knagenberg,RaSmuS,Undirected,1
+Christian,øg,Undirected,1
+Cholera,Christian,Undirected,1
+Begravelsesowkostningerne,Rasmus Petersen,Undirected,1
+Begravelsesowkostningerne,Christian,Undirected,1
+Christian,Lydia,Undirected,2
+Chrisfian,lil,Undirected,1
+kristian,lil,Undirected,1
+Christian,Kssi tel,Undirected,1
+Christian,Hr. Røse,Undirected,1
+Christian,Rose,Undirected,9
+Christian,Hr. Rose,Undirected,2
+Chrisfian,Rose,Undirected,3
+Christian,ril,Undirected,1
+Chrisfian,Chrisfian Petersen,Undirected,1
+Chrisfian Petersen,Svend,Undirected,1
+Christian,Principalens,Undirected,1
+Petersen,Søren,Undirected,8
+Hnn,Søren,Undirected,2
+Rosalie,Søren,Undirected,3
+Petersen,Rosalie,Undirected,6
+Hr. Petersen,Rosalie,Undirected,2
+Hr. Petersen,Tøict,Undirected,1
+Petersen,Røsalie,Undirected,1
+Gud,Rosalie,Undirected,1
+Petersen,trøe,Undirected,1
+Rosalie,ban,Undirected,1
+Peterfen,ivethøiste,Undirected,1
+Petersen,ester Sørens,Undirected,1
+Rosalie,Søren Rise,Undirected,1
+Petersen,bloi,Undirected,1
+Bang,Petersen,Undirected,8
+Bang,fil,Undirected,1
+Dangs,Petersen,Undirected,1
+Petersen,ban,Undirected,3
+Petersen,ftre Øine,Undirected,1
+Perersen,Svend,Undirected,1
+Petersen,Svend,Undirected,2
+Petersen,el,Undirected,2
+Perersen,Søren Rise,Undirected,1
+Peiersen,Søren Rise,Undirected,1
+Peiersen,irods,Undirected,1
+ban,irods,Undirected,1
+agel,ban,Undirected,1
+agel,sil ege,Undirected,1
+lroe,venle,Undirected,1
+ban,ber,Undirected,1
+Petersen,ber,Undirected,1
+Principal,ban,Undirected,1
+ban,eil,Undirected,1
+Naa,Petersen,Undirected,1
+Søren,h,Undirected,1
+Petersen,Søren Rise,Undirected,4
+Petersen,hans Been,Undirected,1
+Petersen,meente Petersen,Undirected,1
+Rose,l,Undirected,1
+Roe,Rose,Undirected,1
+Petersen,Rose,Undirected,17
+Al slaae Karte,Rose,Undirected,1
+Petersen,Røse,Undirected,3
+Rose,fiel,Undirected,1
+Petersen,Uchet,Undirected,1
+Petersen,boric,Undirected,1
+Søren,vistnook,Undirected,1
+Petersen,Sommer,Undirected,3
+Gud,Lydia,Undirected,1
+Petersen,elsiet Petersen,Undirected,1
+Petersen,Søren Nise,Undirected,1
+Søren,Søren Nise,Undirected,1
+Sommer,hans Svend,Undirected,1
+Petersen,hans Svend,Undirected,1
+Hr. Rose,Petersen,Undirected,1
+Petersen,ester,Undirected,3
+Kalle,mørknes,Undirected,1
+Kalte,Rose,Undirected,1
+Petersen,rasfe,Undirected,1
+Kis,Petersen,Undirected,1
+Stine,hnn,Undirected,2
+Rose,Stine,Undirected,2
+Petersen,Stine,Undirected,4
+Ole,Petersen,Undirected,5
+Ole,Stine,Undirected,4
+Jsde,Rose,Undirected,1
+Ole,Rose,Undirected,10
+Laas,Ole,Undirected,1
+Ole,øg,Undirected,1
+Ole,fig,Undirected,1
+Kaarde,Ole,Undirected,1
+Petersen,RoseS,Undirected,1
+Eline,Rose,Undirected,1
+Ole,l,Undirected,1
+Peter BoS,S,Undirected,1
+Bavianens,Ole,Undirected,1
+Politidirccteurcn,Søren Rise,Undirected,1
+Søren,ak Petersen,Undirected,1
+Rose,ak Petersen,Undirected,1
+Ole,k,Undirected,1
+jø,k,Undirected,1
+Rose,jø,Undirected,1
+Petersen,Peterten,Undirected,1
+Peterten,Stine,Undirected,1
+Petersen,høilys,Undirected,1
+Petersen,lil,Undirected,1
+Ole,Peter,Undirected,1
+Grog,Ole,Undirected,1
+Capitain,Petersen,Undirected,1
+Petersen,Spaadom,Undirected,1
+Petersen,Tørsf,Undirected,1
+Petertsen,Søren Riise,Undirected,1
+Petersen,Søreise,Undirected,1
+Petersen,Søren strax,Undirected,1
+Søren,lil Intel,Undirected,1
+Sommer,Søren,Undirected,1
+Petersen,felse,Undirected,1
+Peter,Søren,Undirected,1
+Peter,n,Undirected,1
+Hnn,Petersen,Undirected,1

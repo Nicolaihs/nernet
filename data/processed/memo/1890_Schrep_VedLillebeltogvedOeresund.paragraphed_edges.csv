@@ -1,0 +1,239 @@
+source,target,type,weight
+Adolf,Lyng,Undirected,1
+Adolf,Hanne,Undirected,4
+Peter,Søren,Undirected,1
+Hanne,Hanne Lyng,Undirected,2
+Jørgen Hattemager,Kong Salomon,Undirected,1
+Gud,Hanne,Undirected,1
+Adolf,f-g,Undirected,1
+Lars,Lars Lyng,Undirected,1
+Lars,Peter,Undirected,1
+Lars,Skipper Lyng,Undirected,1
+Lars Lyng,Niels,Undirected,2
+Karl,Pierre,Undirected,1
+Lars,Niels,Undirected,1
+Lars,Poulsen,Undirected,1
+Anders,Lars Lyng,Undirected,1
+Gud,Lars,Undirected,1
+Lars,Søren Jyde,Undirected,1
+Hanne Lyng,Lars Lyng,Undirected,2
+Hanne Lyng,Marie Hansen,Undirected,1
+Falk,Vilhelm Falk,Undirected,2
+Vilhelm Falk,Zenith,Undirected,1
+Gud,Zenith,Undirected,1
+Falk,Mare,Undirected,1
+Bimpel,Tue,Undirected,2
+Falk,Tue,Undirected,14
+Stejns,Tue,Undirected,1
+Pastor Stejn,Stejns,Undirected,1
+Falk,Schønau,Undirected,1
+Falk,Gud,Undirected,2
+Murat,Napoleon den,Undirected,1
+Falk,Marrat,Undirected,1
+Marrat,v. Schønau,Undirected,1
+Schønau,v. Schønau,Undirected,2
+Hr. v.,Schønau,Undirected,4
+Schønau,Stejn,Undirected,2
+Stejn,Tue,Undirected,5
+Stejn,v. Schønau,Undirected,6
+Kong Salomon,Tue,Undirected,1
+Tue,v. Schønau,Undirected,27
+Agnes,Tue,Undirected,58
+Major Stejn,Tue,Undirected,1
+Agnes,Major Stejn,Undirected,1
+Agnes,Gud,Undirected,8
+Gud,Maren,Undirected,1
+Maren,Stejn,Undirected,3
+Agnes,Stejn,Undirected,3
+Agnes,Schønau,Undirected,6
+Agnes,v. Schønau,Undirected,12
+Agnes,hans,Undirected,1
+Stejn,hans,Undirected,1
+Karen Post,Tue,Undirected,1
+Agnes,Karen Post,Undirected,2
+Agnes,Bluelse,Undirected,2
+Christoffer,Schø-naus,Undirected,1
+Gud,Onkels,Undirected,2
+Agnes,Onkels,Undirected,1
+Gud,Stejn,Undirected,2
+Onkels,Stejn,Undirected,1
+Agnes,Onkel,Undirected,1
+Onkel,Vilhelm,Undirected,2
+Gud,lange,Undirected,1
+Gud,véd,Undirected,2
+Gud,Line,Undirected,1
+Gud,Tue,Undirected,4
+Agnes,Anton,Undirected,1
+Gud,Vilhelm,Undirected,2
+Johan,v. Schønau,Undirected,1
+Hanne,Skipper Hansens,Undirected,1
+Marie Hansen,Skipper Hansens,Undirected,1
+Marie Hansen,kers,Undirected,1
+Hansens,Pludren,Undirected,1
+Madam Hansen,Marie,Undirected,3
+Hanne,Marie,Undirected,1
+Hanne,Madam Hansen,Undirected,2
+Lars Lyng,Marie,Undirected,2
+Lars Lyng,Niels Lyng,Undirected,2
+Hansen,Marie,Undirected,1
+Hanne,Lars Lyng,Undirected,3
+Adolf,Lars Lyng,Undirected,1
+Adolf,Mo’,Undirected,1
+Hanne Lyng,Lars,Undirected,1
+Adolf,Anton,Undirected,1
+Hanne,dei-,Undirected,1
+Hanne Lyng,Madam Hansen,Undirected,1
+Hanne,liun,Undirected,1
+Tue,Vilhelm Falk,Undirected,2
+Peter Hvidtfeldts-stræde,Vilhelm Falk,Undirected,1
+Falk,Peter Hvidtfeldts-stræde,Undirected,1
+Agnes,Agnes Stejn,Undirected,1
+Jøsses,Nikolaj Taarn,Undirected,1
+Maren,Marie,Undirected,1
+Morten Vægters,hins,Undirected,1
+Tue,hins,Undirected,1
+Tue,skoggerle,Undirected,1
+Kusken,Tue,Undirected,1
+Gud,lian,Undirected,1
+Peter Hvidtfeldt Stræde,Tue,Undirected,1
+Peter Hvidt-feldt Stræde,Tue,Undirected,1
+Agnes,Peter Hvidt-feldt Stræde,Undirected,1
+Anton,Vilhelm,Undirected,1
+Anton,Schønau,Undirected,1
+Clara,v. Schønau,Undirected,2
+Agnes,Clara,Undirected,11
+Tue,usel,Undirected,1
+Vilhelm Falk,usel,Undirected,1
+Stejn,Vilhelm Falk,Undirected,2
+Falk,v. Schønau,Undirected,3
+Schønau,Thalia,Undirected,1
+Schønau,Tue,Undirected,3
+Gud,v. Schønau,Undirected,3
+Falk,Jesper,Undirected,1
+hans,v. Schønau,Undirected,2
+Gud,Schønau,Undirected,3
+Karlens,Tue,Undirected,1
+Falk,Ulrich,Undirected,1
+Greven,Tue,Undirected,1
+Hugaf,Tue,Undirected,1
+Clara,Tue,Undirected,15
+Hansen,Peter Hansen,Undirected,1
+Rolfs,Tue,Undirected,2
+Hansen,Tue,Undirected,15
+Peter,lian,Undirected,1
+Gud,Peter,Undirected,1
+Hansen,Peter Hvidt-feldtsstræde,Undirected,1
+Peter,Peter Hvidt-feldtsstræde,Undirected,1
+Maren,Ven Petersen,Undirected,1
+Maren,Peter,Undirected,2
+Løjtnant Stejn,Tue,Undirected,1
+Gud,Ulrich,Undirected,4
+Clara,Falk,Undirected,1
+Clara,Stejn,Undirected,2
+Tue,Vilhelm,Undirected,3
+Bannen,Clara,Undirected,1
+Bannen,Hakon,Undirected,1
+Schønau,skjelmsk,Undirected,1
+Hakon Jarl,skjelmsk,Undirected,1
+Agnes,Staal,Undirected,1
+Clara,Staal,Undirected,1
+Faders,Gud,Undirected,2
+Gud,Villie,Undirected,1
+Metternich,Reineche Voss,Undirected,1
+Peter Hvidtfeldtstræde,Reineche Voss,Undirected,1
+Peter Hvidtfeldtstræde,Tue,Undirected,1
+Schønau,v.,Undirected,1
+Løjtnantens,Onkel,Undirected,1
+Gud,Løjtnantens,Undirected,1
+Gud,Onkel,Undirected,1
+Karl,Onkel,Undirected,1
+Gud,Jesper,Undirected,1
+Agnes,lian,Undirected,2
+Agnes,Schiller,Undirected,1
+Ach die Liebe,Schiller,Undirected,1
+Ach die Liebe,liar,Undirected,1
+Agnes,liar,Undirected,1
+Boje,Stejn,Undirected,1
+Agnes,Boje,Undirected,1
+Ernst,Gud,Undirected,1
+Agnes,Ernst,Undirected,1
+Tue,dei,Undirected,1
+Schønau,Vilhelm,Undirected,1
+V. Schønau,Vilhelm,Undirected,1
+Agnes,Vilhelm,Undirected,1
+Agnes,Lillie,Undirected,1
+Clara,Lillie,Undirected,1
+Ernst,Tue,Undirected,2
+Tue,hans,Undirected,1
+Adolf Stejn,Tue,Undirected,1
+Adolf Stejn,Majoren,Undirected,2
+Adolf Stejn,Gud,Undirected,1
+Adolf,Mama,Undirected,1
+Adolf,v. Schønau,Undirected,2
+Bessefar,Hansen,Undirected,1
+Hansen,Nikolajsen,Undirected,2
+Gud,Hansen,Undirected,1
+Bessefar,Siner,Undirected,2
+Gud,Herre,Undirected,1
+Kjør,Tue,Undirected,1
+Agnes,Mine,Undirected,1
+Agnes,Marv,Undirected,1
+Clara Ulrich,Frue,Undirected,1
+Evropa,Tue,Undirected,2
+Herodes,Pilatus,Undirected,1
+Pilatus,Tue,Undirected,1
+Hans,Nikolajsen,Undirected,1
+Grethe,Hans,Undirected,1
+Tue,nan,Undirected,1
+Adolf,Tue,Undirected,4
+Madam,Tue,Undirected,1
+Tue,Ulrich,Undirected,3
+Tue,pans,Undirected,1
+Gudfader,Tue,Undirected,1
+Agnes,lille Agnes,Undirected,1
+Storm,Ulrich,Undirected,1
+Tue,Tuesen,Undirected,1
+Tue,Tuesøn,Undirected,1
+Tuesen,Tuesøn,Undirected,1
+Hr. Ulrich,Hr. v.,Undirected,1
+Mine,Tue,Undirected,1
+Madam Hansen,Mine,Undirected,1
+Hansen,Madam Hansen,Undirected,1
+Lars,Skipper-Hansen,Undirected,1
+Hansen,Lars,Undirected,9
+Lars,s,Undirected,2
+Adolf,Lars,Undirected,2
+Lars,Liansen,Undirected,1
+Adolf,Hansen,Undirected,2
+Adolf,Gud,Undirected,1
+Adolf formodentlig Hallelujah,Hanne,Undirected,1
+Adolf,Kusk,Undirected,2
+Adolf,j-,Undirected,1
+Paulus,Schønau,Undirected,1
+Anton,Kurtzhals,Undirected,1
+Faders,v. Schønau,Undirected,1
+Frøken Staal,v. Schønau,Undirected,7
+Kurtzhals,Schønau,Undirected,1
+Frøken Staal,Schønau,Undirected,1
+Holger Lund,Johannes,Undirected,1
+Adolf,Lund,Undirected,1
+Kurtzhals,v. Schønau,Undirected,1
+Schønau,peb,Undirected,1
+Anton,Gud,Undirected,3
+Gud,Shønau,Undirected,1
+Anton,v. Schønau,Undirected,1
+Lund,v. Schønau,Undirected,1
+Hansen,v. Schønau,Undirected,1
+Gud,Lund,Undirected,1
+Schønau,Søren,Undirected,1
+Camilla,Gud,Undirected,1
+Camilla,pede,Undirected,1
+Camilla,Clementines,Undirected,2
+Camilla,v. Schønau,Undirected,1
+Adolf,Agnes Kurtzhals,Undirected,1
+Frøken Staal,Obersten,Undirected,1
+Adolf,Frøken Staal,Undirected,1
+Frøken Staal,Gud,Undirected,1
+Gud,Obersten,Undirected,1
+Staal,v. Schønau,Undirected,1
+Kirkebyens,Lars Lyng,Undirected,1

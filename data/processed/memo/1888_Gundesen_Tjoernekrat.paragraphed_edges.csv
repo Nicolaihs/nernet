@@ -1,0 +1,128 @@
+source,target,type,weight
+Ole Røgter,Rinde,Undirected,1
+Ole,Ole Røgter,Undirected,1
+Maren,Sofie,Undirected,1
+Rinde,Valter,Undirected,5
+Morten,Nanna,Undirected,24
+Fiskelars,Nanna,Undirected,1
+Fiskelars,Stine,Undirected,2
+Nanna,Ole Røgter,Undirected,2
+Morten,Ole Røgter,Undirected,1
+Jens Kusk,Morten,Undirected,1
+Hans,Sofie,Undirected,1
+Morten,Sofie,Undirected,3
+Jørgen Klavsen,Jørgen Klavsens,Undirected,1
+Jørgen,Jørgen Klavsen,Undirected,1
+Ellen,Nanna,Undirected,5
+Elise,Valter,Undirected,2
+PLlise,Rinde,Undirected,1
+Hans,Nanna,Undirected,3
+Hans,trille,Undirected,1
+Jørgen Klavsen,Rinde,Undirected,1
+Runebergs,Svend Due,Undirected,1
+Jens Kusk,Nanna,Undirected,1
+Ole Røgter,Sofie,Undirected,1
+Nanna,Ole,Undirected,1
+Jyde-Jensens,Rinde,Undirected,1
+Nanna,Sofie,Undirected,1
+Nanna,Rinde,Undirected,3
+Graad,Morten,Undirected,1
+Jens,Morten,Undirected,1
+Morten,Præstegaard,Undirected,2
+Nanna,Stine,Undirected,1
+Lars,Stine,Undirected,2
+Morten Examen,Rinde,Undirected,1
+Lars,Nanna,Undirected,1
+Bramme,Rinde,Undirected,1
+Carl,Rinde,Undirected,1
+.,Rinde,Undirected,1
+.,mes,Undirected,1
+Nanna,Robert,Undirected,14
+Ida,Robert,Undirected,11
+Ida,Nanna,Undirected,39
+Ida,Jørgen,Undirected,1
+Fru Brammes,Jens Kusk,Undirected,1
+Fru Brammes,blendes,Undirected,1
+Jørgen Klavsen,Peter Bangs,Undirected,1
+Ellen,Jørgen Klavsen,Undirected,1
+Bøges,Eges,Undirected,1
+Ida,Nanna Rinde,Undirected,1
+Frøken Romsing,Robert,Undirected,2
+Nanna,Vindorf,Undirected,7
+Gud,Ida,Undirected,2
+Frøken Romsing,Nanna,Undirected,3
+Baron Vindorf,Robert,Undirected,2
+Robert,Vindorf,Undirected,1
+Baron Vindorf,Nanna,Undirected,6
+Mads,Robert,Undirected,9
+J	,Nanna,Undirected,1
+Ida,Morten,Undirected,1
+Ida,Mads,Undirected,1
+Baron Vindorf,Nanna over,Undirected,1
+Vindorf,j ærn,Undirected,1
+Frederik,Frida,Undirected,8
+Flun,Nanna,Undirected,1
+Karen,Nanna,Undirected,24
+Grunddal,Nanna,Undirected,2
+Nanna,Skovfogedkonens,Undirected,2
+Karen,Tante,Undirected,1
+Nanna,dan,Undirected,1
+Frøken Rinde,Gjæstcn,Undirected,1
+Gammel-Ravnsborgs,Nanna,Undirected,1
+Carl,Nanna,Undirected,1
+Nanna,l?,Undirected,1
+l?,ru B.iammes,Undirected,1
+Nanna,ru B.iammes,Undirected,1
+Robert,ng,Undirected,1
+Frøken Romsing,Nanna Rinde,Undirected,1
+Jakob,Kusk,Undirected,1
+Nanna,Tante,Undirected,1
+Ida,Maren,Undirected,3
+Maren,Nanna,Undirected,1
+Frøken Romsing,Ida,Undirected,1
+Nanna,ru Bramme,Undirected,1
+Hestehove,Vindorf,Undirected,1
+Jakob —,Vindorf,Undirected,1
+Jakob —,Mads,Undirected,1
+Barons,Mads,Undirected,1
+Barons,Jakob,Undirected,1
+Jakob,Nanna,Undirected,1
+Mads,Nanna,Undirected,1
+Baron Vindorf,Frøken Romsing,Undirected,1
+F'olk,Nanna,Undirected,1
+Frøken Rangers,Ida,Undirected,1
+Frida,Nanna,Undirected,30
+Gud,Morten,Undirected,2
+Beethoven,Robert,Undirected,1
+Fru Bramme,Nanna,Undirected,1
+Frida,Val ter,Undirected,1
+Frederik,Morten,Undirected,8
+Frida,Morten,Undirected,9
+Frederik,Nanna,Undirected,14
+Frederik,Hans,Undirected,1
+Holberg,J. L. Hejberg,Undirected,1
+Hertz,J. L. Hejberg,Undirected,1
+Hertz,Hostrup,Undirected,1
+Hostrup,Oehlenslæger,Undirected,1
+Ingemann,Oehlenslæger,Undirected,1
+H. C. Andersen,Ingemann,Undirected,1
+Frida,H. C. Andersen,Undirected,1
+Nanna,PTida,Undirected,1
+Frederik,lien,Undirected,1
+Frederik,Gud,Undirected,1
+Fiskelars,Frida,Undirected,1
+Frida,Stine,Undirected,1
+Rinde,Stine,Undirected,1
+Frida,Rinde,Undirected,1
+Fiskel,Morten,Undirected,1
+Lars,Morten,Undirected,1
+Lars,Rinde,Undirected,1
+Morten,Rinde,Undirected,1
+Morten,rida,Undirected,2
+Hostrup,Rinde,Undirected,1
+Frida,Hostrup,Undirected,1
+Frederik,hVida,Undirected,1
+Frida,Ida,Undirected,1
+Graad,Nanna,Undirected,1
+Gud,Nanna,Undirected,1
+Frederik,Ole Røgter,Undirected,1

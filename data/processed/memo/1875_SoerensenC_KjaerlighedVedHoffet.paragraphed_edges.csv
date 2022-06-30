@@ -1,0 +1,801 @@
+source,target,type,weight
+Tordenskjold,Tordenskjold knn,Undirected,1
+Steffens,Tordenskjold knn,Undirected,1
+Gud,Steffen,Undirected,1
+Hans,Steffen,Undirected,1
+Gud,Ieg,Undirected,1
+Ask del,Bluhme,Undirected,1
+Bluhme,Køngen^,Undirected,1
+Bluhme,Holberg,Undirected,3
+Christian,Frederik den,Undirected,2
+Frederik den,Gud,Undirected,1
+Bartholomæus Bluhme,Kong Christian,Undirected,1
+Bluhme,Kong Christian,Undirected,1
+Bluhme,Christian,Undirected,1
+Bluhme,Lakaien,Undirected,3
+Bartholomæus Bluhme,Bluhme,Undirected,1
+Krock,øg de Thurah,Undirected,1
+Hoffef,Krock,Undirected,1
+Bluhme,Taflets,Undirected,1
+Lea,Rachel,Undirected,1
+Blnhme,Køngen,Undirected,3
+Bluhme,lee,Undirected,1
+Beiler,Concretus,Undirected,1
+Beiler,hnn,Undirected,1
+Kong Christian,hnn,Undirected,1
+Beiler,Kong Christian,Undirected,1
+Olr,eos lromwos,Undirected,1
+Ieg,Ornes,Undirected,1
+Bluhme,Vizir,Undirected,1
+Bluhme,Ieg,Undirected,1
+Christian,Sofie Magdalene,Undirected,2
+Prindsessen,Sofie Magdalene,Undirected,2
+Christian den,Frederik den,Undirected,2
+Frederik den,Kronprinds Christian,Undirected,1
+Løi-tenanten,Mogens Friis,Undirected,1
+Mogens Friis,ber,Undirected,1
+Mogens Friis,j,Undirected,1
+Friis flog,Holger Urne,Undirected,1
+Bravo,Steffan Galt,Undirected,1
+Steffan Galt,fagds,Undirected,1
+Friis,Holger Urne,Undirected,1
+Okevulior,Urns,Undirected,1
+Friis,Urnes,Undirected,1
+Friis,Sofiee Magdalene,Undirected,1
+Mollke,Urne,Undirected,1
+Moltke,Urne,Undirected,2
+Holger Urne,tens,Undirected,1
+Holger,Molkte,Undirected,1
+Korfitz Ulfeld,Signelil,Undirected,1
+Urne,øg,Undirected,1
+Gehcimeraadens,Urne,Undirected,1
+Geheimeraad,Pless,Undirected,2
+Gud,Pless,Undirected,2
+,Pless,Undirected,3
+,Christian den,Undirected,1
+Bluhme,Pless,Undirected,10
+Pless,Urne,Undirected,6
+Bluhme,Conrad Pless,Undirected,2
+Geheimeraad Pless,Geheimeraaden,Undirected,3
+Herkules,Pless,Undirected,1
+Hans Majesfæt,Pless,Undirected,1
+,Urne,Undirected,1
+Holger Urne,Pless,Undirected,4
+Bartholds,Guttenbergs,Undirected,1
+Bartholds,Schwartz,Undirected,1
+Geheimeraad Conrad Pless,Schwartz,Undirected,1
+Geheimeraad Conrad Pless,Pless,Undirected,1
+Pless,øg,Undirected,1
+Edes,Holger Urne,Undirected,1
+Conrad,Pless,Undirected,1
+Ester,Karlen,Undirected,1
+Jon,Karlen,Undirected,1
+Karlen,froer,Undirected,1
+Geheimeraad,Karlen,Undirected,1
+Plefs,Pless,Undirected,1
+Herr Geheimeraad,Pless,Undirected,1
+Karl,Urne,Undirected,1
+Køngen,Sands,Undirected,1
+Sands,Taflets,Undirected,1
+Bluhme,Køngen,Undirected,2
+Køngen,Taflets,Undirected,2
+Carolus Magnus,Pless,Undirected,1
+Urne,for-Bluhmes,Undirected,2
+Geheimeraad Pless,Urne,Undirected,1
+Bluhme,b. klazer,Undirected,1
+Geheimeraad Pless,hnn,Undirected,1
+Geheimeraad Pless,Pless,Undirected,6
+Bluhme,Veiens,Undirected,1
+Geheimeraad Pless,Lieutenant Urne,Undirected,1
+Herr Bluhme,Pless,Undirected,2
+Blnhme,Pless,Undirected,1
+Bluhme,Geheimeraad Pless,Undirected,8
+,Geheimeraad Pless,Undirected,4
+,Bluhme,Undirected,1
+Bluhme,Eders,Undirected,1
+Holberg,Ludvig Holberg,Undirected,4
+Ludvig Holberg,Peder Paars,Undirected,1
+Christian den,Peder Paars,Undirected,1
+Christian den,Holberg,Undirected,2
+Holberg,Peder Paars,Undirected,2
+Holberg,Per-nillers,Undirected,1
+Hsndrikkers,Per-nillers,Undirected,1
+Hsndrikkers,Jeppe,Undirected,1
+Holberg,Jeppe,Undirected,1
+Holberg,Krøsus,Undirected,1
+Krøsus,Ludvig Holberg,Undirected,1
+Bøttger,Holberg,Undirected,16
+Bøttger,nanmodet,Undirected,1
+Holberg,nanmodet,Undirected,1
+Holberg,Stads-Chirurgus Carl Frederik Reiser,Undirected,1
+Bøttger,Stads-Chirurgus Carl Frederik Reiser,Undirected,1
+Bøttger,Holger Urne,Undirected,1
+Holger Urne,Urne,Undirected,1
+Holberg,Urne,Undirected,2
+Holberg,Mester Bøttger,Undirected,10
+Holberg,voxen,Undirected,2
+Holberg,Reisers,Undirected,2
+Holberg,ollronigus scniillultznss,Undirected,1
+Ester,ollronigus scniillultznss,Undirected,1
+Holberg,Niels Klims,Undirected,1
+Niels Klims,Sieur,Undirected,1
+Holberg,Reiser,Undirected,4
+Holberg,Monsieur,Undirected,9
+Reiser,hdmygst,Undirected,1
+Holberg,sif,Undirected,1
+Karl,Mester Bøttger,Undirected,1
+Monsieur Hermann,Reiser,Undirected,1
+Holberg,Mænsieur,Undirected,1
+Holberg,Roes,Undirected,1
+Roes,Sands,Undirected,1
+Holberg,fog,Undirected,1
+Bøttger,fog,Undirected,1
+Mester Bøttger,Svend,Undirected,1
+Anton Iversen,Svend,Undirected,1
+Anton Iversen,Bøttger,Undirected,1
+Bøttger,Jomfru Leonores,Undirected,1
+Anton Iversen,Jomfru Leonores,Undirected,1
+Holberg,Leonore Anton,Undirected,1
+Anton,Leonore,Undirected,1
+Anton,Jomfru Leonorcs,Undirected,1
+Marsch,Urne,Undirected,1
+Bøttger,Leonore,Undirected,2
+Iversen,Leonore,Undirected,1
+Bøttger,Iversen,Undirected,1
+Bøttger,ester,Undirected,1
+Leo-nores,Leonore,Undirected,1
+Bøttger,sif,Undirected,1
+Iversen,Mesfer,Undirected,1
+Mesfer,Mesfer Bøttger,Undirected,1
+Antonius,Holberg,Undirected,1
+Mester Bøttger,Roes,Undirected,1
+Iversen,Mesfer Bøttger,Undirected,1
+Jomfru Leonore,Mesfer Bøttger,Undirected,2
+Anton Jversens,Svend,Undirected,1
+Anton Jversens,Mester Bøttger,Undirected,1
+Bøttger,Gøtt-gers,Undirected,1
+Iversen,Mester Bøttger,Undirected,1
+Abelone,Mamsel Leonore,Undirected,1
+Mamsel Leonore,Monsienr Iversen,Undirected,1
+Ieg,Leonore,Undirected,1
+Gud,elsfede Leonore,Undirected,1
+Leonore,Mesfer Bøttger,Undirected,1
+Holger Urne,Leonore,Undirected,1
+Holger Urne,Mester Bøttger,Undirected,2
+Hjeronymus,Leonore,Undirected,1
+Ester,Mester Bøttger,Undirected,1
+Hjeronymus Bøttger,Leonore,Undirected,2
+Hans,Majesfæt,Undirected,1
+Herr Bluhme,Majesfæt,Undirected,1
+Herr Bluhme,Sophie Magdalene,Undirected,1
+Bluhme,Majeslæt,Undirected,1
+Majeslæt,Niels Hedehus,Undirected,2
+Blnhme,Konfes-sionarius,Undirected,2
+Bøttger,Tycho Brahcs,Undirected,1
+Bøttger,Mester Bøttger,Undirected,2
+Holberg,Peblinges,Undirected,1
+Monsieur,Pebling,Undirected,1
+Monsieur,Peblinge,Undirected,1
+Bøttger,Tycho Brahe,Undirected,1
+Holberg,Monsieur Bøttger,Undirected,2
+Ludvig Holberg,Pless,Undirected,1
+Mester Bøttger,strax,Undirected,1
+Bøttger,strax,Undirected,1
+Mester Bøttger,reisfe,Undirected,1
+Holberg,reisfe,Undirected,1
+Holberg,Niels Klim,Undirected,1
+Abelone,Monsieur Urnes,Undirected,1
+Abelone,Urne,Undirected,1
+Hans Excellence,Holger Urne,Undirected,1
+Geheimeraad Pless,Hans Excellence,Undirected,1
+Geheimeraad Pless,Holger,Undirected,1
+Sergeanten,Urne,Undirected,1
+Ieg,Urne,Undirected,2
+Bluhme,L lu 8uits,Undirected,1
+Ieg,Pless,Undirected,1
+ItvM inujestatis,Lieutenant Urne,Undirected,1
+Mesfer Bøttger,Monsieur Reiser,Undirected,1
+Bartholomæus Bluhme,Geschichtens,Undirected,1
+Bøttger,Sieur Reiser,Undirected,1
+Bøttger,Urne,Undirected,3
+Mester,Svend,Undirected,2
+Mesfer,Monsieur,Undirected,1
+Bøttger,Reiser,Undirected,1
+Anton Iversen,Mester Bøttger,Undirected,1
+hans Leonora,l Den unge,Undirected,1
+Bøttger,Leonora,Undirected,1
+Leonora,Mester Bøttger,Undirected,1
+Christian den,Kudsk,Undirected,1
+Anders Peersen,Ieg,Undirected,1
+Heisa,Hopsa,Undirected,1
+Køter,sfor,Undirected,1
+Bluhme,øg,Undirected,1
+Bluhme,Sophie Magdalene,Undirected,1
+Sands,Shakespeares,Undirected,1
+Molieres,Shakespeares,Undirected,1
+Colberg,Molberg,Undirected,1
+Monsienr Bluhmes,Sophie Charlolte,Undirected,1
+Monsieur Blnhme,Sophie Magda-lene,Undirected,1
+Dn,Sophie Charlotte,Undirected,1
+Christian,Sophie Charlotte,Undirected,1
+Jomfru Bøttger,Mester Bøttger,Undirected,1
+Gardeofficier,Jomfru Bøttger,Undirected,1
+Holger von Urne,von Bnlow,Undirected,1
+Holger von Urne,Jomsrue Bottger,Undirected,1
+Jomsrue Bottger,celdste,Undirected,1
+Gud,celdste,Undirected,1
+Achilles,Hundsvot,Undirected,1
+A.,B.,Undirected,1
+paany,riDgnok,Undirected,1
+Urne,riDgnok,Undirected,1
+Jomfru Leonore,Urne,Undirected,2
+Lieutenanten,Wilhelm von Huth,Undirected,1
+Urne,von Huth,Undirected,1
+Holberg,Mesfer Bøttger,Undirected,1
+ester,gommen,Undirected,1
+gommen,von Huth,Undirected,1
+Bluhme,sans comparaison,Undirected,1
+Mazarin,Richelieu,Undirected,2
+Bluhme,Ludvig Holberg,Undirected,1
+Monsieur Bluhme,Monsieur Urne,Undirected,1
+Bluh-mes,Urne,Undirected,1
+Nemesis,Urne,Undirected,1
+Christian den,Hoffef,Undirected,1
+Christian den,Urne,Undirected,2
+Urne,sorHUrr,Undirected,1
+Monsieur,lee,Undirected,1
+Monsieur,Reiser,Undirected,3
+Christian den 4dcs,Monsieur Spytte-gøg,Undirected,1
+Christian den 4dcs,Peder Hvidtfeld,Undirected,1
+Geschichte,Peder Hvidtfeld,Undirected,1
+Arild Hvidtfeld,Christian den,Undirected,1
+Arild Hvidtfeld,Peder Hvidfeldt,Undirected,1
+Monsieur,blol,Undirected,1
+Monsieur,Urne,Undirected,2
+Reifer,Urne,Undirected,1
+Reiser,Urne,Undirected,3
+Monsieur,Næcingsvei,Undirected,1
+Bøttger,Monsieur,Undirected,1
+Jomfru Bøttger,Reiser,Undirected,1
+Genius,Holger,Undirected,1
+Genius,fig,Undirected,1
+Urne,j,Undirected,1
+Mester Bøttger,Reiser,Undirected,1
+Holberg,Mester Reiser,Undirected,1
+Jomfru Bøttger,Urne,Undirected,2
+Urne,visfnok,Undirected,1
+Gud,Monsieur Bøttger,Undirected,1
+Bluhme,Gud,Undirected,1
+Gud,Morpheus,Undirected,1
+Lieutenant Urne,sif Væddemaal,Undirected,1
+Ge-heimcraad Pless,Pless,Undirected,1
+Herr Bluhme,Monsieur Bluhme,Undirected,1
+Blnhme,Monsieur Urne,Undirected,1
+Lehn,Monsieur Urne,Undirected,1
+Lehn,Monsieur-Urne,Undirected,1
+Blnhme,sif,Undirected,2
+Ieg,Monsieur Bluhme,Undirected,2
+Monsieur,Monsieur Bluhme,Undirected,1
+Bluhme,Evers,Undirected,1
+Adre,Monsieur,Undirected,1
+Bakus,Mesfer Bøttger,Undirected,1
+Bakus,Reiser,Undirected,1
+Svend,Urne,Undirected,1
+Podagras,Reiser,Undirected,1
+Holberg,Stads-Chirurgus Reiser,Undirected,1
+Carl Friederich,Gud,Undirected,1
+Carl Friederich,Friederich,Undirected,1
+Pee Nielen,Peer Nielen,Undirected,1
+Obersfen,Urne,Undirected,1
+Urne,kasfes,Undirected,1
+Gud,Malth,Undirected,1
+Holger Urne,Obersfen,Undirected,1
+Mesfer Bonifacius,Urne,Undirected,3
+Gud,Urne,Undirected,2
+Bonifacius,Tydsk,Undirected,1
+Bonifacius,Monsieur Urne,Undirected,2
+Bonifacius,Urne,Undirected,2
+Ester,Urne,Undirected,1
+Holger Urne,Monsieur Bluhme,Undirected,1
+Urne,d.,Undirected,1
+Chrisfian den,Stads-Kirurgus Reiser,Undirected,1
+Mester Bonifacius,Tydsk,Undirected,1
+Bonifacius,Mester Bonifacius,Undirected,1
+Mesfer Bo-nifacius,strax,Undirected,1
+Bonifacius,Møllerens,Undirected,1
+Møller,Møllerens,Undirected,1
+Holger Urne,Mester Bonifacius,Undirected,1
+Banifacius,Holger Urne,Undirected,1
+Christian den,lee,Undirected,2
+Gud,Monsieur Urne,Undirected,1
+Holberg,Sjavs,Undirected,1
+Herr Holberg,Holberg,Undirected,1
+Gud,Herr Holberg,Undirected,2
+Herr Holberg,fro,Undirected,1
+Kong Christian,Reiser,Undirected,1
+Bluhme,Monsieur Bluhme,Undirected,4
+Jomfru Bødtcher,Reiser,Undirected,1
+Barmwittz,paany,Undirected,1
+Christian,Køngen,Undirected,1
+Sofie Caroline,øg,Undirected,1
+Sofie Magdalene,øg,Undirected,1
+Sofie,Sofie Caroline,Undirected,1
+Caroline,Sofie,Undirected,1
+Dronning Sofie,Sofie Magdalene,Undirected,1
+Ederselv,Majesfæt,Undirected,1
+Geheime-raadsns,Urne,Undirected,1
+Pless,paany,Undirected,1
+Lakai,Mester Bonifasius,Undirected,1
+Mester Bonsacius,sledse,Undirected,1
+Bonifacius,sledse,Undirected,1
+Bonifacius,Pless,Undirected,3
+Bluhme,Monsieur,Undirected,1
+Bluhme,Urne,Undirected,2
+Gsheimeraad,Urne,Undirected,1
+Gsheimeraad,Pless,Undirected,1
+Monsieur Bluhme,nence,Undirected,1
+Lakaien,Monsieur Bluhme,Undirected,2
+Bluhme,ester,Undirected,1
+Monsieur Blnhme,Nidt,Undirected,1
+Blnhme,Nidt,Undirected,1
+Bluhme,as,Undirected,1
+Mazarin,nik,Undirected,1
+Bluhme,nik,Undirected,1
+Bluhme,sif,Undirected,1
+Bluhme,Holger Urne,Undirected,2
+Geheimeraad Pless,Monsieur,Undirected,1
+Bluhme,Monsieur Urne,Undirected,1
+Herr Holger Urne,Pless,Undirected,1
+Geheimeraad Pless,Holger Urne,Undirected,2
+Monsieur,Monsieur Holberg,Undirected,1
+Monsieur Holberg,Monsieur Urne,Undirected,1
+Bonifacius,Holger Urne,Undirected,1
+Holger Urne,Monsieur Urne,Undirected,1
+Holger Urne,Karl,Undirected,1
+,Gcheimcraad Pless,Undirected,1
+Geheimeraad Pless,Monsieur Urne,Undirected,1
+Urne,hnn,Undirected,1
+Eders,Urne,Undirected,1
+Monsieur Bluhme,Seir,Undirected,1
+Peder Syvs,Seir,Undirected,1
+Peder Syvs,Steen,Undirected,1
+Bøttger,j,Undirected,1
+Chirurgus Reisers,Monsieur Reiser,Undirected,1
+Chirurgus Reisers,ester,Undirected,1
+Mester Bøttger,Monsieur,Undirected,1
+Gud,Holberg,Undirected,1
+Arilds,Monsieur,Undirected,1
+Ieg,Monsieur,Undirected,1
+Reiser,Sati-rikus,Undirected,1
+-,Geheimeraad Pless,Undirected,1
+Christian Vi,Sofie Magda-lene,Undirected,1
+Christian den,Dronning Sofie Magdalene,Undirected,2
+Christian den,Frederik,Undirected,2
+Frederik den,Throne,Undirected,1
+Monsieur Bluhme,Throne,Undirected,1
+Christian den,Monsieur Bluhme,Undirected,2
+Christian den,Prinds,Undirected,1
+Monsieur Bluhme,Prinds,Undirected,1
+Fleertallel,Frederik den,Undirected,1
+Adam Gottlob Mollke,Fleertallel,Undirected,1
+Adam Gottlob Mollke,Grev Molktes,Undirected,1
+Frederik,Grev Molktes,Undirected,1
+Frederik,Louise,Undirected,1
+Erik,Louise,Undirected,2
+Frederik den,Louise,Undirected,3
+Juliane,Louise,Undirected,1
+Juliane,Marie,Undirected,1
+Frederik den,sif,Undirected,1
+Pøbelens,sif,Undirected,1
+Holberg,Pøbelens,Undirected,1
+Frederik den,Holberg,Undirected,1
+Liaison,Pless,Undirected,1
+j,mir,Undirected,1
+Louise,Peter-Nielsen,Undirected,1
+Prindsesse,Sofie Caroline,Undirected,1
+Def,Landsperg,Undirected,1
+Landsperg,sif,Undirected,2
+Landsperg,hcndes,Undirected,2
+Landsperg,ester,Undirected,1
+,Peter Nielsen,Undirected,1
+Frederik den,Peter Nielsen,Undirected,1
+,Frederik den,Undirected,1
+,Geheimeraad,Undirected,1
+Geheimeraad,Peter Nielsen,Undirected,1
+Karethen,Pless,Undirected,1
+Monsieur Bluhme,Pless,Undirected,1
+Frederik den,Hcevd,Undirected,1
+Peter Nielsen,Vartov,Undirected,1
+Geheimeraad Pless,kjæræ,Undirected,1
+Blaataarn,Leonore Kirstine,Undirected,1
+Christian den,Leonore Kirstine,Undirected,1
+Juliane Marie,Louise,Undirected,2
+Frederik den,Juliane Marie,Undirected,5
+Juliane Marie,Kronprinds Christian,Undirected,3
+Au-dients,Geheimeraad Pless,Undirected,1
+Frederik V,Juliane Marie,Undirected,1
+Geheimeraa-dens,Pless,Undirected,2
+Judas,Kristus,Undirected,1
+ester,gridfl,Undirected,1
+Pless,ester,Undirected,1
+Christian den,ester,Undirected,1
+Christian den,Juliane Marie,Undirected,1
+Juliane Marie,Pless,Undirected,2
+Majesfæt,Pless,Undirected,1
+Pless,fransf Grund,Undirected,1
+Prindsessen,fransf Grund,Undirected,1
+Mhnheer van,Mhnheer van der Brygge,Undirected,1
+Brygges,der Brygge,Undirected,1
+der,der Brygge,Undirected,2
+Myn-heer,der Brygge,Undirected,1
+Hnn,Mademoiselle Ulrica,Undirected,1
+Hnn,Mademoiselle Ulnca,Undirected,1
+Mademoiselle Ulnca,der Brygge,Undirected,1
+Ulrica,der,Undirected,6
+Fruens,Gud,Undirected,1
+Gud,Ulrica,Undirected,3
+Mynheer van der,Ulrica,Undirected,1
+Mademoiselle Ulrica,Mynheer van der,Undirected,1
+Mademoiselle Ulrica,Ulrica,Undirected,6
+der Brygge,strax,Undirected,1
+Chevalier,Mynheer van,Undirected,1
+Mynheer van der,der,Undirected,1
+Mynheer van der Brygge,der Brygge,Undirected,1
+Ulrica,der Brygge,Undirected,7
+Christian,Frederik,Undirected,1
+Frederik,rnig,Undirected,1
+Mynheer,Sokrates,Undirected,1
+Aldermann,Ester,Undirected,1
+Heinrich Kirchhofs,Pavens,Undirected,1
+Kirchhofs,Pavens,Undirected,1
+Kirchhoffs,Kirchhofs,Undirected,3
+Kirchhofs,U ' XiZIo,Undirected,1
+Monsieur,U ,Undirected,1
+U ,Xi^s,Undirected,1
+Gud,Kirchhofs,Undirected,3
+Kapitaincn,Knchhoff,Undirected,1
+Christian den Sjette,Kirchhofs,Undirected,2
+Feaucart,Kirchhofs,Undirected,3
+Kapitainen,Mr. Kirchhofs,Undirected,1
+Monsieur Kirchhofs,Mr. Kirchhofs,Undirected,1
+Kirchhofs,Monsieur Feaucart,Undirected,2
+Kirchhøfs,Monsieur Feaucart,Undirected,1
+Kirchhofs,Kirchhøfs,Undirected,1
+Antoinette,Monsieur Kirchhoff,Undirected,1
+Bonmots,Feaucart,Undirected,1
+Feaucart,Kirchhoffs,Undirected,1
+Antoinette,Mr. Kirchhofs,Undirected,1
+Monsieur Kirch-hoff,mintro,Undirected,1
+Kirchhofs,Monsieur,Undirected,1
+Feaucurt,Mademoiselle Antonistte Feaucarts,Undirected,1
+Antoinette,Mademoiselle Antonistte Feaucarts,Undirected,1
+Kirchhofs,Knchhoff,Undirected,1
+Feau-carts,Kirchhofs,Undirected,1
+Feancart,Kirchhosfs,Undirected,1
+Feancart,Kirchhofs,Undirected,2
+Kirchhofs,Mademoiselle,Undirected,1
+Anfoinette,Mademoiselle,Undirected,1
+Heinrich Kirchhofs,Monsieur Feaucart,Undirected,1
+Eierinden,Kirchhofs,Undirected,1
+Eierinden,Juffrouw,Undirected,1
+Ebhard,Juffrouw,Undirected,1
+Antoinette Feaucart,Kirchhofs,Undirected,1
+Antoinette Feaucart,Juffrouw,Undirected,1
+Ebbe,Heinrich,Undirected,1
+Kirchhofs,benhttes,Undirected,1
+Kirchhofs,Valdemar,Undirected,1
+Praxis,Theori,Undirected,1
+Monsieur Kirchhofs,Praxis,Undirected,1
+Monsieur Kirchhofs,Ulrica,Undirected,1
+Kirchhofs,Mynheer van,Undirected,1
+Kirchhofs,Kirchoff,Undirected,2
+Monsieur Kirchhofs,der Brygge,Undirected,1
+Mademoiselle Ulrica,der Brygge,Undirected,3
+Heinrich Kirchhofs,Mynheer van der Brygge,Undirected,1
+Heinrich Kirchhofs,Mademoiselle Ulrica,Undirected,1
+Mademoiselle Ulrica,Mynheer van der Brygge,Undirected,1
+Ulrica,ravs,Undirected,1
+Ul-rica,der Brygge,Undirected,1
+Ulrica,Ulrica sva-dem,Undirected,1
+Lises,Ulrica,Undirected,1
+Lise,Lises,Undirected,1
+Lise,sif,Undirected,3
+sif,t.,Undirected,1
+Lise,t.,Undirected,1
+Lise,helsl,Undirected,2
+Jousirouw,Lise,Undirected,1
+Lise,der Brygge,Undirected,7
+Lise,Ulrica,Undirected,33
+Pavens,Ulrica,Undirected,1
+Lise,Pavens,Undirected,1
+Monsienr Kirchhofs,ul-tnirss,Undirected,1
+David Myops,Myops,Undirected,1
+David,Myops,Undirected,2
+David,strax,Undirected,1
+Myops,fidt,Undirected,2
+Martha,Myops,Undirected,1
+Gud,Martha,Undirected,1
+Gud,Jouffrouw,Undirected,1
+Jouffrouw,Lise,Undirected,2
+David,kjæræ,Undirected,1
+David,kjæræ David,Undirected,1
+Martha,kjæræ,Undirected,1
+David Myops,Heinrich Kirchhofs,Undirected,1
+Heinrich Kirchhofs,Jdees,Undirected,1
+Jdees,Mhops,Undirected,1
+Martha,Mhops,Undirected,1
+Martha,ester,Undirected,1
+Heinrich kirchhoff,ester,Undirected,1
+Kirchhofs,der Brygge,Undirected,2
+Kirchhoff,Ulrica,Undirected,2
+Kirchhoff,Mademoiselle Ulrica,Undirected,1
+Monsieur Kirchhoff,sif,Undirected,1
+Myops,sif,Undirected,1
+Kirchhofs,sif,Undirected,1
+Kirchhofs,Lise,Undirected,2
+Kirchhoff,Lise,Undirected,22
+Taarnuhr,atLise,Undirected,1
+Mademoiselle Ulrica,der Grhgge,Undirected,1
+Kirchhofs,hend,Undirected,1
+.,hend,Undirected,1
+Mademoiselle Ulrica,Ulrica laas,Undirected,1
+Ulrica stjaalne,Ulrika,Undirected,1
+Ulrica,Ulrica stjaalne,Undirected,1
+dt,hnn,Undirected,1
+Ulrica,hnn,Undirected,1
+Hanegal,Ulrica,Undirected,1
+der Brhgge,der Brygge,Undirected,1
+Lifts,Ulrica,Undirected,1
+Lise,Mademoiselle Ulrica,Undirected,6
+Vaa-ningshuset,der Brygge,Undirected,1
+Ulrica,sif,Undirected,1
+Lise,d-t,Undirected,1
+Lise,Mr. H. K.,Undirected,1
+Mademoiselle Ulrika,Mr. H. K.,Undirected,1
+Mademoiselle Ulrika,Ulrica,Undirected,1
+Kirchhofs,Mademoiselle Ulrica,Undirected,1
+Jouffrouw Lise,Kirchhoff,Undirected,1
+Ieg,Kirchhoff,Undirected,1
+Ieg,Mademoiselle Ulrica,Undirected,1
+Monsieur,Myops,Undirected,1
+Mynheer,Myops,Undirected,1
+Mynheer,lee,Undirected,1
+Dands,lee,Undirected,1
+Dands,der Brygge,Undirected,1
+Iouffrouw,Kirchhofs,Undirected,1
+Jouffrouw Lise,Lise,Undirected,1
+Jouffrouw Lise,Kirchhofs,Undirected,1
+Kirchhof,Lise,Undirected,26
+Mademoiselle Ulrica,Tantalns,Undirected,2
+Jonffrouw,Lise,Undirected,1
+Lise,asfljære Lise Leilighed,Undirected,1
+Ulrica,asfljære Lise Leilighed,Undirected,1
+Jonffrouw Lise,Lise,Undirected,1
+Lise,Rubicon,Undirected,1
+der Brygge,sif,Undirected,1
+Ulrica,gjentøg,Undirected,3
+Mademoiselle Ulrica,hosFrusvan der Brygge,Undirected,1
+Lise,Mademoisellen,Undirected,1
+Heinrich Kirchhoff,Jouffrow Lise,Undirected,1
+Heinrich Kirchhoff,Kirch,Undirected,1
+-hoff,Kirch,Undirected,1
+Ulrica,kjæræ,Undirected,1
+helsl,kjæræ,Undirected,1
+Chevalier,Lise,Undirected,1
+Chevalier,Mademoiselle Ulrica,Undirected,1
+Chevalier,Ulrica,Undirected,1
+Jouf-frou,Lise,Undirected,2
+Daggry,Kirchhof,Undirected,1
+Daggry,Kirchhoff,Undirected,3
+Kirchhoff,maalløs,Undirected,1
+Christian den,Sofie Magdalene,Undirected,2
+Geheimeraad Pless,Juliane Marie,Undirected,1
+Geheimeraad Pless,Majesfæt,Undirected,1
+Majesfæt,Prinds Carl,Undirected,1
+Køngen,Prinds Carl,Undirected,3
+Hcffeis,Køngen,Undirected,1
+Ove Høegh Guldberg,Prinds Frederik,Undirected,1
+Prinds Frederik,Prindsens,Undirected,1
+Guldberg,Prindsens,Undirected,1
+Guldberg,Hs.,Undirected,1
+Juliane Marie,Prindsen,Undirected,1
+Guldberg,Prindsen,Undirected,1
+Guldberg,Prinds Frederik,Undirected,2
+Kronprinds Christian,Prinds Frederik,Undirected,1
+Guldberg,Kronprinds Christian,Undirected,1
+Juliane,Prinds Frederik,Undirected,1
+Juliane,Marias,Undirected,1
+Guldberg,Marias,Undirected,1
+Guldberg,Jacob,Undirected,1
+Jacob,Lea,Undirected,1
+Guldberg,Guldborgs,Undirected,4
+Christian,Kronprinds Christian,Undirected,1
+Guldberg,Juliane Marie,Undirected,2
+Guldberg,Ove Høegh-Guldberg,Undirected,1
+Kronprinds Christian,Louise,Undirected,1
+Frederik,Kronprinds Christian,Undirected,1
+Frederik,Guldberg,Undirected,2
+Guldberg,Majesfæt,Undirected,3
+Guldberg,Majestæfs,Undirected,1
+Majeslæt,sif,Undirected,1
+Guldberg,Roes,Undirected,1
+Guldberg,Landsperg,Undirected,4
+Juliane Marie,Landsperg,Undirected,5
+Geheimeraad Pless,Kristians-borg,Undirected,1
+Landsperg,sif Dødsleie,Undirected,1
+sif Dødsleie,sor,Undirected,1
+Landsperg,sor,Undirected,1
+Cendrillon,Landsperg,Undirected,1
+Frederik den Femte,Landsperg,Undirected,1
+Frederik den Femte,Juliane Marie,Undirected,1
+Juliane Marie,Marie,Undirected,1
+Frederik den,sledse,Undirected,1
+Landsberg,strax,Undirected,1
+Danneskjold,Gyldenløve,Undirected,1
+Danneskjold,Ulrica,Undirected,1
+Landsperg,der Landsperg,Undirected,1
+Andientsen,Landsperg,Undirected,1
+Prindsesse Ulrica,Ulrica,Undirected,1
+Landsperg,Prindsesse Ulrica,Undirected,1
+Landsperg,Ulrica,Undirected,3
+Landsperg,øg,Undirected,1
+Frederik den,Landsperg,Undirected,1
+Henrik Ramel,ask,Undirected,1
+Gud,ask,Undirected,1
+Monsieurs Ramels,Ulrica,Undirected,1
+Heinrich Kirchhofs,Ulrica,Undirected,1
+. woll,Villie,Undirected,1
+. woll,Søulk,Undirected,1
+Dukat,Søulk,Undirected,1
+Anders Brolægger,Sslvtak,Undirected,1
+Christian den,Lars Larsen,Undirected,1
+Landsperg,Tjalfsn,Undirected,1
+Landsperg,sidsf,Undirected,1
+Hoffef,Landsperg,Undirected,1
+Landsperg,hels,Undirected,1
+Guldberg,Juliane Maris,Undirected,1
+Landsperg,Ulrica“,Undirected,1
+Guldberg,Ulrica“,Undirected,1
+Frederik,Lakai,Undirected,1
+Guldberg,Lakai,Undirected,1
+Guldberg,Lakaien,Undirected,1
+Guldberg,nn,Undirected,1
+Dronning Sophie Magdalene,Guldberg taug,Undirected,1
+Balls,Caroline Mathilde,Undirected,1
+Guldberg,Knn,Undirected,1
+Guldberg,dan Hofmand,Undirected,1
+Juliane Maiie,Juliane Marie,Undirected,1
+Guldberg,Prindsesse Ulrica,Undirected,2
+Ju.,lians Marie,Undirected,1
+Kirchhof,Ramel,Undirected,8
+Amsferdam,Lise,Undirected,1
+Kirchhof,Kirchhoff,Undirected,2
+Kirchhoff,Tjalfen,Undirected,2
+Kirchhoff,bezeistret,Undirected,2
+Kirchhof,pæa,Undirected,1
+Lise,pæa,Undirected,1
+Lise,sledse,Undirected,1
+Kirchhoff,Prindsessen,Undirected,4
+Prindsessen,ap,Undirected,1
+Ester,Kirchhof,Undirected,1
+Frederik den Femte,Lise,Undirected,1
+Lise,Tydsk,Undirected,1
+Kirchhof,Tydsk,Undirected,1
+Frederik den,Lands,Undirected,1
+-pergs,Lands,Undirected,1
+-pergs,Daggry,Undirected,1
+. Kirchhoff,Prindsessen,Undirected,1
+Juliane Marie,Ulrica,Undirected,1
+Ester,ester,Undirected,1
+Steffen,Tjalfen,Undirected,1
+Kirchhoff,Steffen,Undirected,1
+dernæsf,j,Undirected,1
+Monsieur Guldberg,dernæsf,Undirected,1
+Kirchhof,Ulrica,Undirected,3
+Lise,Prindsessen,Undirected,1
+Kirchhof,iland,Undirected,1
+Lise,iland,Undirected,1
+Kirchhof,Landsperg,Undirected,1
+Anna Sophie Magdalene,Majesfæt,Undirected,1
+Anna Sophie Magdalene,Frederikke Ulrica,Undirected,1
+Or.,Ulrica,Undirected,1
+. Kirchhofs,Or.,Undirected,1
+Heras,Ulrica,Undirected,1
+Kirchhof,freidig,Undirected,1
+Prinds,seil,Undirected,1
+Kirchhof,Kirchhosf,Undirected,1
+Kirchhosf,strax,Undirected,1
+Kirchhoff,moll. Kirchhofs,Undirected,1
+Pless,hnn,Undirected,1
+Monsieur Reiser,Wiedewslt,Undirected,1
+Adam,Æblel,Undirected,2
+Adam,Monsieur,Undirected,1
+Brygges,der,Undirected,1
+Landsperg,Lise,Undirected,1
+Lise,esterkom,Undirected,1
+Landsperg,Prindsessen,Undirected,2
+Guldberg,Ulrica,Undirected,2
+Lieutenant Urne,Monsieur Reiser,Undirected,1
+. Kirchhofs,Lieutenant Urne,Undirected,1
+Polilimand,barTalemaade,Undirected,1
+Lakaien,Landsperg,Undirected,1
+Kaarde,Prindsessen,Undirected,1
+Landsperg,neppe,Undirected,1
+Landsperg,sif Leie,Undirected,1
+Lientenanten,Prindsessen,Undirected,1
+Lieutenanten,Prindsessen,Undirected,1
+Kirchhoff,pra,Undirected,1
+ester al,siz,Undirected,1
+Kirchboff oz,ester al,Undirected,1
+Kirchhof,Resolulion,Undirected,1
+Kirchhoff,Kommandantens,Undirected,1
+Kirch-hoffs,Lise,Undirected,1
+Knchhoff,ester,Undirected,1
+Kirchhof,vexledes,Undirected,1
+Kirchhoff,sorfeile,Undirected,1
+ester,mynders,Undirected,1
+Henrik Ra-mel,Henrik Ramel,Undirected,1
+Henrik Ramel,Ramel,Undirected,2
+Ramel,freisfe,Undirected,2
+Kirchhoff,Rammels,Undirected,1
+Kirchhoff,Ramel,Undirected,3
+Ramel,siz,Undirected,1
+Kirchhoff,siz,Undirected,1
+Ramel,Tjalfen,Undirected,2
+Kirchhof,mandantens,Undirected,2
+llveirssky,sorudsee,Undirected,1
+B slutning,Guld-berg,Undirected,1
+B slutning,Guldberg,Undirected,1
+Prindsesse,Ulricca,Undirected,1
+Kong Christian den Sjette,Prindsesse,Undirected,1
+Christian den Sjette,Guldberg,Undirected,1
+Henry Ramel,Kirchhof,Undirected,1
+Henry Ramel,Tjalfen,Undirected,1
+Reiser,Tjalfen,Undirected,1
+Reiser,isfand,Undirected,1
+Jouffrouw Lise,Ulrica,Undirected,1
+Henrik Ramel,Lise,Undirected,1
+Ramel,sif,Undirected,1
+Kirchhof,ester,Undirected,1
+Kaien,Kirchhof,Undirected,1
+Kaien,Ramel,Undirected,1
+as,sif,Undirected,1
+Mademoiselle Ulrica,hu,Undirected,1
+Ulrica,hu,Undirected,1
+Majestæts,Monsieur Kirchhofs,Undirected,1
+Guld-berg,Majestæts,Undirected,1
+Guld-berg,Guldberg,Undirected,1
+Monsieur,asgaaer,Undirected,1
+Histo,Kirchhoff,Undirected,1
+Histo,rien,Undirected,1
+Peer Poses,rien,Undirected,1
+Kirchhoff,Prindsesse Ulrica,Undirected,1
+Kirchhcff,Lise,Undirected,2
+Kirchhoff,dernæsf,Undirected,1
+Lise,dernæsf,Undirected,1
+Kongtn,Prindsessen,Undirected,1
+Ester,Monsieur Ramels,Undirected,1
+Henrik Ramel,Kirchhoff,Undirected,1
+Guldberg,Ramel,Undirected,1
+Herr Ramels,sagve Guldberg,Undirected,1
+Herr Ramels,Kirchhof,Undirected,1
+Kirchhoff,Skipptren,Undirected,1
+Skipptren,devare,Undirected,1
+Gud,Monsieur Ramel,Undirected,1
+Gud,Mynheer van der,Undirected,1
+Guldberg,Kirchhoff,Undirected,1
+Henrik Ramel,Kirchhof,Undirected,1
+Karl,Kirch-hosfs,Undirected,1
+Kong Kristian den Sjette,strax,Undirected,1
+Christian den,Kong Kristian den Sjette,Undirected,1
+Kirchhoff,høilys,Undirected,1
+Frederik,Prinds,Undirected,1
+Frederik,Kronprindsens,Undirected,1
+Kirchhof,Kronprindsens,Undirected,1
+Ifjor,Kirchhof,Undirected,1
+Kirchhof,hilfedes,Undirected,1
+Guldberg,Lise,Undirected,1
+Guldberg,Prindsessen,Undirected,1
+Ester,sidsf,Undirected,1
+Frøken Ulricas,sidsf,Undirected,1
+Lise,ester,Undirected,1

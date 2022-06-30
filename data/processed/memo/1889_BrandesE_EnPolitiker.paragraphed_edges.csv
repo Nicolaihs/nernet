@@ -1,0 +1,126 @@
+source,target,type,weight
+Johan Gerner,Margrete Scheibel,Undirected,1
+Gerner,Rikke,Undirected,1
+Johan,Rikke,Undirected,21
+Johan,Zola,Undirected,2
+Johan,Tage,Undirected,20
+Johan,Josti,Undirected,1
+Johan,Margrete Scheibel,Undirected,4
+Johan,Kierkegaard,Undirected,4
+Hegels,Johan,Undirected,2
+Hegels,Martensen,Undirected,1
+Kierkegaard,Martensen,Undirected,1
+Hegels,Kierkegaard,Undirected,1
+Geheimeraad,Kierkegaard,Undirected,1
+Johan,Punch,Undirected,1
+Gerner,phil. Gerner,Undirected,1
+Gerner,Tage,Undirected,3
+Margrete Scheibel,Mathilde Rørby,Undirected,2
+Margrete,Mathilde Rørby,Undirected,8
+Johan,Margrete,Undirected,119
+Johan,Mathilde Rørby,Undirected,9
+Gerner,Mathilde Rørby,Undirected,4
+Mathilde Rørby,lille Margrete,Undirected,1
+Frøken Rørbys,Johan,Undirected,1
+Margrete,Margrete Scheibel,Undirected,1
+Johan«,Skraa,Undirected,1
+Frøken Rørbys,Gerner,Undirected,1
+Frøken Rørbys,Margrete Scheibel,Undirected,1
+Frøken Rørby,Gerner,Undirected,1
+Johan,hans,Undirected,2
+Johan Gerner,Mathilde Rørby,Undirected,1
+Johan,Mathilde,Undirected,14
+Frøken Rørby,Mathilde,Undirected,3
+Mathilde,Rikke,Undirected,1
+Mathilde,Mathilde Rørby,Undirected,3
+Gerner,Margrete,Undirected,23
+Margrete,Mathilde,Undirected,40
+"Balzac,",Ingres,Undirected,1
+"Balzac,",Delphine de Girardin,Undirected,1
+Delphine de Girardin,Rachel,Undirected,1
+Eg,Katarina,Undirected,1
+Diderot,Eg,Undirected,1
+Diderot,Margrete,Undirected,1
+Gud,Margrete,Undirected,1
+Gud,Mathilde Rørby,Undirected,1
+Gerner,Mathilde,Undirected,15
+Gerner,Johan,Undirected,6
+Margrete,Scheibel,Undirected,18
+Gaul,Margrete,Undirected,4
+Gaul,Scheibel,Undirected,1
+Dans,Margrete,Undirected,1
+Andrea,Margrete,Undirected,1
+Margrete,Valsen,Undirected,1
+Grimrianen,Margrete,Undirected,1
+Margrete,Walter,Undirected,4
+Margrete,jMen Mathilde,Undirected,1
+Mathilde,jMen Mathilde,Undirected,1
+Ifjor,Margrete,Undirected,1
+Ifjor,Mathilde,Undirected,1
+Mathilde,usle,Undirected,1
+Margrete,usle,Undirected,1
+Johan,Scheibel,Undirected,5
+Margrete,Rikke,Undirected,7
+Mathilde,Tage,Undirected,3
+Margrete,Stuart Mills,Undirected,1
+Johan,Stuart Mills,Undirected,1
+Margrete,Tage,Undirected,28
+Gambetta,Johan,Undirected,2
+Gambetta,Johan Sverdrups,Undirected,1
+Johan Sverdrups,Margrete,Undirected,1
+Rikke,Tage,Undirected,3
+Gaul,Johan,Undirected,1
+Johan,grete,Undirected,1
+Cæsars,Johan,Undirected,1
+Cæsar,Cæsars,Undirected,1
+Brutus,Cæsar,Undirected,1
+Brutus,Johan,Undirected,1
+Margrete,antike,Undirected,1
+Gerner,Portemonnaie,Undirected,1
+Gerner,Hr. Scheibel,Undirected,2
+Gerner,Scheibel,Undirected,3
+Scheibel,Tage,Undirected,2
+Rikke,Scheibel,Undirected,2
+Jørgensen,Rikke,Undirected,1
+Kamilla,Tage,Undirected,7
+Hansen,Tage,Undirected,2
+Hansen,Kamilla,Undirected,2
+Mathilde Rørby,Tage,Undirected,2
+Achilles,Margrete,Undirected,1
+Achilles,Briseis,Undirected,1
+Johan,terdatter,Undirected,1
+Hum,Margrete,Undirected,1
+Johan,iforgaars,Undirected,1
+Johan,Møller,Undirected,1
+Jens Pedersen Holsted,Møller,Undirected,1
+Jens Pedersen Holsted,Johan,Undirected,7
+Jens Pedersen,Johan,Undirected,3
+Jens Peders,Jens Pedersen,Undirected,2
+Larsen,Vandsbæk,Undirected,2
+Jens Pedersen,Kong Frederiks,Undirected,1
+Gerner,Jens Pedersen,Undirected,1
+Jens Pedersen Holsted,Margrete,Undirected,1
+Margrete,Rikke —,Undirected,1
+Johan,Rikke —,Undirected,1
+Mathilde,paany,Undirected,1
+Frue,Margrete,Undirected,1
+Frue,Gerner,Undirected,1
+Frøken Rørby,Johan,Undirected,2
+Katarina,Mathilde Rørby,Undirected,1
+Margrete,Tage Schrøder,Undirected,1
+Frøken Kristensen,Margrete,Undirected,2
+L’,Scheibel,Undirected,2
+Nolo,Scheibel,Undirected,3
+L’,hombre,Undirected,1
+Nolo,hombre,Undirected,1
+Frøken Kristensen,Tage,Undirected,1
+Johan,Tonart,Undirected,2
+Margrete Gerner,Tage,Undirected,1
+Margrete,nidstirre,Undirected,1
+Kamilla Jørgensen,nidstirre,Undirected,1
+Kamilla,Margrete,Undirected,6
+Kamilla Jørgensen,Margrete,Undirected,1
+Ane,Hr. Schrøder,Undirected,1
+Ane,Margrete,Undirected,2
+Jens Peders,Jens Pedersen Holsted,Undirected,2
+Jens Peders,Johan,Undirected,3

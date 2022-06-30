@@ -1,0 +1,65 @@
+source,target,type,weight
+Petter,Vertens,Undirected,1
+Haljoj,Petter Hejde,Undirected,1
+Jan Sjursen,Ola Svartebu,Undirected,1
+Humme,Jan Sjursen,Undirected,1
+Graa,Sjursen,Undirected,3
+Hexen,Pitter,Undirected,1
+Jan Sjursen,Madam,Undirected,1
+Martin Sem,Svartebu,Undirected,1
+Graa,Jan Sjursen,Undirected,5
+Jan Sjursen,Nissen,Undirected,1
+Jan Sjursen,Sjursen,Undirected,1
+Jan Sjursen,Katrine Halvorsdatter,Undirected,1
+Martin Sem,s,Undirected,2
+Martin,Martin Sem,Undirected,1
+Martin,Rositta,Undirected,1
+Martin Sem,hans,Undirected,1
+Marie,hans,Undirected,1
+Marie,Myntsorter,Undirected,1
+Myntsorter,hans,Undirected,1
+Martin,hans,Undirected,1
+Jan Sjursen,Martin,Undirected,1
+Jan Sjursen,Kveld,Undirected,1
+Oljelage,Sjursen,Undirected,1
+Jan Sjursen,Ole Opdals,Undirected,1
+Ole Opdal,Ole Opdals,Undirected,1
+Jan Sjursen,Ole Opdal,Undirected,1
+Mose,Sante Johannis,Undirected,1
+Gabriel,Gabriels,Undirected,1
+Jan Sjursen,Prædikantens,Undirected,1
+Marja,Sjursen,Undirected,1
+Graa,Martin Sem,Undirected,1
+Anders Berg,Sjursen,Undirected,1
+Anders Berg,Gud,Undirected,1
+Jan Sjursen,Klerk,Undirected,1
+Klerk,Martin Sem,Undirected,1
+Berg,Martin Sem,Undirected,1
+Graa,Marja,Undirected,2
+Martin Sem,efra,Undirected,1
+Gud,Martin Sem,Undirected,1
+Klerken,Rokka,Undirected,1
+Marie,Martin,Undirected,1
+Cæsar,James Devill,Undirected,1
+James,James Devill,Undirected,1
+Terkildsen,berge,Undirected,2
+Sjømand,Terkildsen,Undirected,1
+Hans,di,Undirected,1
+Kristian Stokke,hans,Undirected,1
+Hanne,Kristian,Undirected,4
+Gud,Kristian,Undirected,1
+Hanne Stokke,Kristian,Undirected,1
+Gud,Kain,Undirected,1
+Jakob Vaalund,Jon Mo,Undirected,1
+Michael,Stakkar,Undirected,1
+Baal,Michael,Undirected,1
+Baal,Martell,Undirected,1
+Martell,Michael Faro,Undirected,1
+Hans,Hans Reje,Undirected,1
+Mikkel Mindestad,Ola Flaaland,Undirected,1
+Rembrandt,Rubens,Undirected,1
+Gutten,Hr. Lunges,Undirected,1
+Grøben,Marie,Undirected,1
+Kjære,Marie,Undirected,1
+Bregner,Marie,Undirected,1
+Gud,Marie,Undirected,3

@@ -1,0 +1,500 @@
+source,target,type,weight
+Christian,Sverig,Undirected,1
+Christian,Keiseren,Undirected,4
+Gustav Adolfs,Keiseren,Undirected,1
+Axel Oxenstjerne,Gustav Adolfs,Undirected,1
+Chrisfian,Merkurius,Undirected,1
+Fama,Merkurius,Undirected,1
+Ceres,Fama,Undirected,1
+Ceres,Julius Cæsars,Undirected,1
+Alexander den,Julius Cæsars,Undirected,1
+Chrisfian den,Frederik Urne,Undirected,1
+Frederik Urne,Lehnsmand,Undirected,1
+Chrisfian Fris,Lehnsmand,Undirected,1
+Chrisfian Fris,Frantz Rantzau,Undirected,1
+Chrisfian Tomæssen Sehesfed,Frantz Rantzau,Undirected,1
+Anders Bilde,Chrisfian Tomæssen Sehesfed,Undirected,1
+Anders Bilde,Karlstein,Undirected,1
+Karlstein,Solms,Undirected,1
+Christian Fris,Frantz Rankzau,Undirected,1
+Anders Bilde,Christian Fris,Undirected,1
+Anders Bilde,Frantz Rankzau,Undirected,1
+Frantz Rankzau,Kirsten Munks,Undirected,1
+Anna Kathrine,Kirsten Munks,Undirected,1
+Gefion,Rankzaus,Undirected,1
+Gefion,Sverig,Undirected,1
+Gustav Adolf,Sverig,Undirected,2
+Elisabeth Augusta,Gustav Adolf,Undirected,1
+Rankzau,Sverig,Undirected,1
+Frederik Urne,Thurn,Undirected,1
+Solm,Thurn,Undirected,2
+Fegræus,Sverig,Undirected,1
+Holk,Wollenstem,Undirected,1
+Johan den,Otto Ludvig,Undirected,2
+Christian den,Otto Ludvig,Undirected,1
+Christian den,nedersachsifle,Undirected,2
+Kirsten,Munk,Undirected,3
+Kong Valdemars,Munk,Undirected,1
+Kong Valdemars,Ludvig Munk,Undirected,1
+Lehnsmand,Ludvig Munk,Undirected,1
+Lehnsmand,Marsvin,Undirected,1
+Kirsten Munk,Marsvin,Undirected,6
+Christian den,Kirsten Munk,Undirected,4
+Kirsten,Taflet,Undirected,1
+Kai Lykkes,Lykke,Undirected,1
+Christian Fris,Kai Lykkes,Undirected,1
+Christian Fris,Fris,Undirected,1
+Karen,Kirsten,Undirected,1
+Karen,Rothkirch,Undirected,1
+Jens Munk,Karen Munks,Undirected,2
+Frederik den,Jens Munk,Undirected,1
+Munk,Solm,Undirected,1
+Christian den,Munk,Undirected,2
+Christian den,Thurn,Undirected,1
+Munk,Thurn,Undirected,1
+Munk,Rensund,Undirected,1
+Frederik Quintzov,Lykke,Undirected,1
+Frederik Quintzov,Pernille,Undirected,1
+Karen Munk,Pernille,Undirected,1
+Christian,Karen Munk,Undirected,3
+Christian,Rantzau,Undirected,1
+Rantzau,Rothkirch,Undirected,2
+Christian den,Henrik Ramel,Undirected,2
+Karen Munk,Rothkirch,Undirected,1
+Jens Boltmester,Karen Munk,Undirected,1
+Jens Boltmester,Lykke,Undirected,1
+Gud,Lykke,Undirected,1
+Henrik,Karen Munk,Undirected,3
+Ramel,Vams,Undirected,1
+Henrik Ramel,Jens Munk,Undirected,2
+Henrik Ramel,Ramel,Undirected,5
+Karen,Ramel,Undirected,5
+Henrik Ramel,Karen Munk,Undirected,14
+Karen Munk,Ramel,Undirected,3
+Henrik Ramel,Karen,Undirected,7
+Henrik Ramel,Kaptain Munk,Undirected,2
+Kaptain Munk,Karen,Undirected,2
+Anna Kathrina,Karen,Undirected,1
+Anna Kathrina,Sophia,Undirected,1
+Eleonora Kristine,Sophia,Undirected,1
+Eleonora Kristine,Valdemar,Undirected,1
+Sophia Hedvig,Valdemar,Undirected,1
+Ernst Casimir,Sophia Hedvig,Undirected,1
+Ernst Casimir,Karen “,Undirected,1
+Dorthe,Karen “,Undirected,1
+Dorthe,Karen,Undirected,11
+Dorthe,Jomfru Munk,Undirected,2
+Jomfru Munk,Karen,Undirected,3
+Stralfund,Wallenstein,Undirected,1
+Christian den,Wallenstein,Undirected,2
+Christian den,Stralsund,Undirected,1
+Admiral Henrik Vind,Stralsund,Undirected,1
+Admiral Henrik Vind,Markvard Rankzau,Undirected,1
+Christian den,Markvard Rankzau,Undirected,1
+Karen,Karen Munk,Undirected,8
+Karen,Munk,Undirected,9
+Marie,Otto,Undirected,1
+Jens Boltmester,Otto,Undirected,1
+Jens,Otto,Undirected,1
+Munk,hans Kaarde,Undirected,1
+Dorthe,Kirsten Munk,Undirected,2
+Kirsten Munk,Vibeke Kruse,Undirected,6
+Dorthe,Vibeke Kruse,Undirected,1
+Dorthe,Marie,Undirected,2
+Marie,Vibeke,Undirected,1
+Marsvin,Vibeke,Undirected,3
+Dorthe,Vibeke,Undirected,1
+Anna Jacob Mikelsøn,Dorthe,Undirected,1
+Jens Munk,Kirsten Munk,Undirected,2
+Kirsten Munk,Munk,Undirected,3
+Kaptain Munk,Rothkirch,Undirected,2
+Karen,Kirsten Munk,Undirected,3
+Marsvin,Munk,Undirected,1
+Christian den Fjerdes,Marsvin,Undirected,1
+Christian den Fjerdes,Jens Munk,Undirected,1
+Jens Munk,Karen,Undirected,2
+Munk,Rothkirch,Undirected,3
+Jens Munk,Rothkirch,Undirected,1
+Jacob Mikelsøns,Karen,Undirected,1
+Anna,Jacob Mikelsøns,Undirected,1
+Anna,Jomfru Munk,Undirected,1
+Henrik Ramel,Rothkirch,Undirected,2
+Anna Jacob,Karen Munk,Undirected,5
+Henrik,Ramel,Undirected,1
+Henrik,Karen,Undirected,2
+Christian Fris,Karen,Undirected,1
+Munk kjær,Rothkirch,Undirected,1
+Munk,Munk kjær,Undirected,1
+Anna Jacob,Karen,Undirected,4
+Anna Jacob,Dorthe,Undirected,5
+Dorthe,Karen Munk,Undirected,6
+Gud,Karen,Undirected,4
+Lykke,Thronarving,Undirected,1
+Karen,Vibeke,Undirected,1
+Kaptain Munk,Vibeke,Undirected,1
+Else,Karen,Undirected,2
+Karen,Moer,Undirected,1
+Else,Moer,Undirected,2
+Karen,Seir,Undirected,1
+Jomfru Karen,Møer,Undirected,1
+Else,Møer,Undirected,1
+Gud,Jesus,Undirected,1
+Else,Munk,Undirected,1
+Frantz Rantzau,Karen Munk,Undirected,1
+Frantz Rantzau,Rothkirch,Undirected,1
+Frederik Urne,Rothkirch,Undirected,1
+Frederik Urne,Henrik Ramel,Undirected,3
+Kirsten Munk,Rantzau,Undirected,1
+Frederik Urne,Kirsten Munk,Undirected,1
+Anna Kathrine,Karen Munk,Undirected,1
+Karen Munk,Rantzau,Undirected,1
+Frederiks,Ten Lærdes,Undirected,1
+Ten Lærdes,Væxt,Undirected,1
+Ole Vorm,Torfæus,Undirected,1
+Chrisfian,Torfæus,Undirected,1
+Chrisfian,Frederik,Undirected,3
+Frederik,Karen Munk,Undirected,1
+Ramel,grant,Undirected,1
+Karen,grant,Undirected,1
+Frederik,Henrik Ramel,Undirected,1
+Frederik,Kong Christians,Undirected,1
+Karen Munk,Kong Christians,Undirected,1
+Geisflig,Karen Munk,Undirected,1
+Geisflig,Kirsten Munk,Undirected,1
+Kirsten Munk,Thronfolgeren,Undirected,1
+Rosenkrans,Thronfolgeren,Undirected,1
+Ramel,Rosenkrans,Undirected,1
+Frederik,Ulrik,Undirected,8
+Ulrik,fransfe Krone,Undirected,2
+Jens Munk,Kaptain Munk,Undirected,1
+Jens Munk,Munk,Undirected,2
+Chrisfian,Ramel,Undirected,1
+Jens Munk,Stralsund,Undirected,1
+Leslie,Stralsund,Undirected,1
+Kong Chrisfian,Leslie,Undirected,1
+Kong Chrisfian,Volgast,Undirected,1
+Volgast,Wallenstein,Undirected,1
+Chrisfian,Wallenstein,Undirected,1
+Chrisfian,Gustav Adolf,Undirected,1
+Gustav Adolf,Jens Boltmester,Undirected,1
+Jens Boltmester,Kirsten Munk,Undirected,1
+Chrisfian,Kirsten Munk,Undirected,1
+Chrisfian,Marie,Undirected,1
+Karen Munk,Marie,Undirected,1
+Karen Munk,Munk,Undirected,2
+Anna Jacob,Rosenkrans,Undirected,1
+Christian bi,Sophie,Undirected,2
+Anders Sørensen,Sophie,Undirected,1
+Sophie,Ulrik,Undirected,1
+Elisabeth,Ulrik,Undirected,1
+Elisabeth,Frederik den,Undirected,1
+Frederik den,Niels Kaas,Undirected,1
+Karen,Page,Undirected,1
+Karen,Sehested,Undirected,4
+Claus Sehested,Sehested,Undirected,1
+Claus Sehested,Tyge Kruse,Undirected,1
+Enevold Kruse,Tyge Kruse,Undirected,1
+Enevold Kruse,Karen Munk,Undirected,1
+Gud,Munk,Undirected,1
+Anna Katharina,Karen,Undirected,1
+Anna Katharina,Karen Munk,Undirected,1
+Moer Else,Sehested,Undirected,1
+Sehested,Tyge Kruse,Undirected,1
+Kruse,Sehested,Undirected,1
+Jørgen Seefeldt,Kruse,Undirected,1
+Jørgen Seefeldt,Karen Munk,Undirected,1
+Karen Munk,Karen Sehested,Undirected,3
+Karen Munk,Tyge Kruse,Undirected,1
+Jørgen Seefeldt,Tyge Kruse,Undirected,1
+Jørgen Seefeldt,Karen Sehested,Undirected,1
+Jørgen Seefeldt,Sehested,Undirected,1
+Karen Munk,didhen,Undirected,1
+Frederik,Krist,Undirected,1
+Gud,Levvel,Undirected,1
+Gustav Adolf,Rhingreven,Undirected,1
+Anna Katharina,Vibeke Kruse,Undirected,1
+Anna Jacob,Henrik Ramel,Undirected,1
+Anna Jacob,Jomfru Munk,Undirected,1
+Jomfru Munk,Ramel,Undirected,1
+Frantz Rankzau,Ulrik,Undirected,1
+Chrisfian Pentz,Frantz Rankzau,Undirected,1
+Chrisfian Pentz,Henrik Ramel,Undirected,1
+Kirsten,Marsvin,Undirected,1
+Christian,Kirsten,Undirected,1
+Ludvig Munk,Marsvin,Undirected,1
+Gud,Kirsten Munk,Undirected,2
+Gud,Kristus,Undirected,1
+Anna,Gud,Undirected,1
+Kirsten Munk,Kong Christians,Undirected,1
+Otto,Rhingreven,Undirected,1
+Ellen Marsvin,Kirsten,Undirected,1
+Christian den,Marsvin,Undirected,1
+Ellen Marsvin,Marsvin,Undirected,1
+Ellen Marsvin,Vibeke Kruse,Undirected,4
+Marie,Vibeke Kruse,Undirected,1
+Kirsten Munk,Marie,Undirected,2
+Vibeke,Vibeke Kruse,Undirected,8
+Henrik Ramel,Vibeke,Undirected,1
+Christian,Henrik Ramel,Undirected,5
+Jomfru Karen Munks,Monsieur Ramel,Undirected,1
+Karen Munk,Monsieur Ramel,Undirected,3
+Kirsten Munk,Vibeke,Undirected,3
+Ellen Marsvin,Vibeke,Undirected,11
+Gustav Adolf,Keiseren,Undirected,2
+Christian den,Keiseren,Undirected,1
+Christian den,Keiser Ferdinand den Anden,Undirected,1
+Johan Adler Salvius,Keiser Ferdinand den Anden,Undirected,1
+Johan Adler Salvius,Johan Sparre,Undirected,1
+Gustav Adolf,Johan Sparre,Undirected,1
+Christian,Gustav Adolf,Undirected,2
+Gustav Adolf,Kong Christians,Undirected,1
+Gustav Adolf,Kong Christian,Undirected,2
+Jørgen Scheel,Kong Christian,Undirected,1
+Claus Daa,Jørgen Scheel,Undirected,1
+Christian Thomæsen,Claus Daa,Undirected,1
+Christian Thomæsen,Gustav Adolf,Undirected,1
+Axel Oxenstjerne,Gustav Adolf,Undirected,2
+Axel Oxenstjerne,Hans høie,Undirected,1
+Gabriel Oxenstjerne,Hans høie,Undirected,1
+Gabriel Oxenstjerne,Johan Salvius,Undirected,1
+Lundstrøm,Seir,Undirected,1
+Gustav Adolf,Keiseren seirer,Undirected,1
+Keiseren,Wallenstein,Undirected,2
+Gustav Adolf,Wallenstein,Undirected,3
+Gusfav Adolf,dansfe,Undirected,1
+Kong Gusfav Adolf,Marie Eleonora,Undirected,1
+Gusfav Adolf,Kong Christian den Fjerde,Undirected,1
+Christian,Gusfav Adolf,Undirected,1
+Christian den,Sverig,Undirected,1
+Christian,Jørgen Skeel,Undirected,1
+Christian,Kirsten Munk,Undirected,4
+Frederik,Kirsten Munk,Undirected,2
+Rantzau,Ulrik,Undirected,1
+Kirsten,Rothkirch,Undirected,1
+Gustav Adolf,hans,Undirected,1
+Frederik,Gustav Adolf seiret,Undirected,1
+Frederik,Keiseren,Undirected,1
+Christian den,Gud,Undirected,2
+Gud,Kirsten,Undirected,1
+Christian,Henning Arnisenius,Undirected,1
+Henning Arnisenius,Marie,Undirected,1
+Kong Christian,Marie,Undirected,1
+Chrisfian Jensen,Marsvin,Undirected,1
+Anna Katharina,Gustav Adolf,Undirected,2
+Gustav Adolf,Ludvig Rasf,Undirected,1
+Gustav Adolf,Kirsten Munk,Undirected,3
+Fegræus,Gustav Adolf,Undirected,2
+Chrisfian den,Gustav Adolf,Undirected,2
+Gustav Adolf,Kirsfen,Undirected,1
+Anna Katharina,Kirsfen,Undirected,1
+Anna Katharina,Sverig,Undirected,1
+Gustav Adolf,Kirsfen Munk,Undirected,1
+Anna Katharina,Christian den,Undirected,1
+Christian den,Morgan,Undirected,1
+Danebrog,Morgan,Undirected,1
+Danebrog,Ed,Undirected,1
+Ed,Slammersdorf,Undirected,1
+Chrisfian Jensen,Gud,Undirected,1
+Doklor,Peter Paynk,Undirected,1
+Christian,Frederik Urne,Undirected,1
+Dorthe,Frederik Urne,Undirected,1
+Henrik Ramel,Reis,Undirected,1
+Kong Christian,Marsvin,Undirected,1
+Kong Christian,Vibeke Kruse,Undirected,1
+Ellen,Vibeke Kruse,Undirected,2
+Fris,Ulfeldt,Undirected,1
+Kirsten Munk,Kjerstrup,Undirected,1
+Kirsten Munk,Valdemar Christian,Undirected,1
+Gud,Jesper Brochmand,Undirected,1
+Gud,Vibeke,Undirected,2
+Gud,Herren,Undirected,1
+Ellen Marsvin,Jørgen Vind,Undirected,1
+Ellen Marsvin,Kirsten Munk,Undirected,6
+Christian,Ellen Marsvin,Undirected,1
+Christian den,Frederik Urne,Undirected,1
+Christian den,Lykke,Undirected,1
+Jens Boltmester,Jørgen Vind,Undirected,1
+Jens Boltmester,Urne,Undirected,1
+Fegræus,Thurn,Undirected,1
+Chrisfian,Thurn,Undirected,1
+Karen,Rhingreven,Undirected,1
+Karen,Ulks,Undirected,1
+Christian,Rhingreven,Undirected,1
+Frederik Urne,Rhingreven,Undirected,1
+Johan Reinhard,Magdalena,Undirected,1
+Grev Thurns,Thurn,Undirected,1
+Kirsten Munk,Paynk,Undirected,1
+Kirsten Munk,Monstro,Undirected,1
+Gud,Jomfru Marie,Undirected,1
+Karen Munk,Kirsten Munk,Undirected,4
+Karen Munk,Sehested,Undirected,1
+Jens Munk,kjær,Undirected,1
+Karen,kjær,Undirected,1
+Christian den,Karen,Undirected,1
+Kirsten Munk,Sophie,Undirected,1
+Karen Munk,Sophie,Undirected,1
+Karen Sehested,høifornemme,Undirected,1
+Frederik den,Henrik Ramel,Undirected,1
+Frederik den,Karen Munk,Undirected,1
+Karen Sehested,Monsieur Ramel,Undirected,1
+Ramel,nn,Undirected,1
+Karen Munk,nn,Undirected,1
+Hans Overberg,Henrik Ramel,Undirected,3
+Karen,Palle Rosenkrans,Undirected,1
+Henrik Ramel,Krist give,Undirected,1
+Krist give,Lehnsmand,Undirected,1
+Gud,Karen Sehested,Undirected,1
+Karen Munk,Overberg,Undirected,3
+Henrik Ramel,Moer Else,Undirected,1
+Karen Munk,Moer Else,Undirected,1
+Karen Sehested,hnn,Undirected,1
+Christian,hnn,Undirected,1
+Henrik,hnn,Undirected,1
+Else,Fogdens,Undirected,1
+Fogdens,Karen Munk,Undirected,1
+Elfe,Karen Munk,Undirected,1
+Elfe,Fogden,Undirected,1
+Fogden,Karen,Undirected,1
+Elfe,Karen,Undirected,2
+Monsieur Henrik Ramel,Nei,Undirected,1
+Monsieur Henrik Ramel,Sehested,Undirected,1
+Naades,Sehested,Undirected,1
+Christian,Karen,Undirected,1
+Gud,Henrik,Undirected,1
+Henrik Ramel,Karen Sehesfed,Undirected,1
+Henrik Ramel,Uveir,Undirected,1
+Marsvin,fligt,Undirected,1
+Karen,Marsvin,Undirected,1
+Karen Sehested,Marsvin,Undirected,1
+Henrik Ramel,Karen Sehested,Undirected,2
+Gud,Ramel,Undirected,2
+Henrik Ramel,Sehested,Undirected,1
+Marsvin,Vibeke Kruse,Undirected,2
+Gustav Adolf,dansf,Undirected,2
+Christian,Elsfer,Undirected,1
+Elsfer,Kirsten Munk,Undirected,1
+Jomfru Marie,Kirsten Munk,Undirected,1
+Fegræus,Kong Christian,Undirected,1
+Kirsten Munk,Sverig,Undirected,2
+Kirsten Munk,Kong Christian,Undirected,1
+Kong Christian,Sverig,Undirected,1
+Gusfav Adolf,Kong Christian,Undirected,1
+Fegræus,Kirsten Munk,Undirected,1
+Fegræus,Gusfav Adolf,Undirected,2
+Arnens,Henrik Ramel,Undirected,2
+Ramel,Vibeke Kruse,Undirected,4
+Kaptain Jens Munks,Ramel,Undirected,1
+Henrik Ramel,Kaptain Jens Munks,Undirected,1
+Henrik Ramel,Vibeke Kruse,Undirected,3
+Henrik Ramel,Rhingreven,Undirected,1
+Braadden,Ramel,Undirected,1
+Frederik Gynther,Wallenstein,Undirected,1
+Reinhard von Walmerode,Wallenstein,Undirected,1
+Gynther,Reinhard von Walmerode,Undirected,1
+Gynther,Wallenstein,Undirected,2
+Keiseren,Svensferkongens,Undirected,1
+Gustav Adolf,Svensferkongens,Undirected,1
+Gustav Adolf,Ramel,Undirected,8
+Chrisfian den,Gynther,Undirected,1
+Gynther,Keiseren,Undirected,2
+Elbtold,Keiseren,Undirected,1
+Elbtold,Gynther,Undirected,1
+Gynther,Henrik Ramel,Undirected,1
+Gustav Adolf,Monsieur Ramel,Undirected,3
+Gustav Adolf,Thronarving,Undirected,1
+Otto Ludvig,Thronarving,Undirected,1
+Henrik,Henrik Ramel,Undirected,1
+Tillys,Wallenstein,Undirected,1
+Bugislav,Henrik Ramel,Undirected,1
+Henrik Ramel,Sverig,Undirected,1
+Braunsberg,Sverig,Undirected,1
+Braunsberg,Pillau,Undirected,1
+Pillau,Snildhed,Undirected,1
+Kong Christian,Ramel,Undirected,1
+Christian den Fjerde,Gustav Adolf,Undirected,1
+Christian den Fjerde,Ramel,Undirected,1
+Gustav Adolf,Otto Ludvig,Undirected,1
+Gustav Adolf,Henrik Ramel,Undirected,1
+Gustav Adolf,Torstenson,Undirected,1
+Gustav Horn,Torstenson,Undirected,1
+Gustav Horn,Johan Ban6r,Undirected,1
+Valdemar,Vibeke Kruse,Undirected,1
+Ellen Marsvin,Valdemar,Undirected,1
+Ellen Marsvin,Kristi,Undirected,1
+Kristi,Vibeke Kruse,Undirected,1
+Taterkvindens,Vibeke,Undirected,2
+Christian,Vibeke,Undirected,1
+Ludvig Munk,Vibeke,Undirected,1
+Ludvig Munk,Vibeke Kruse,Undirected,1
+Karen Munk,Katharina,Undirected,2
+Karen,Otto Ludvig,Undirected,1
+Jomfru Karen Munk,Otto Ludvig,Undirected,1
+Dorthe,Jomfru Karen Munk,Undirected,1
+Dorthe,Munk,Undirected,1
+Kaptain Munk,Munk,Undirected,1
+Kaptain Munk,alsfjens,Undirected,2
+Anna Jacob Mikkelsens,Kaptain Munk,Undirected,1
+Anna Jacob Mikkelsens,Karen,Undirected,1
+Gud,Karen Munk,Undirected,1
+Rhingreven,Sverig,Undirected,1
+Munk,Ramel,Undirected,1
+Christian,Ramel,Undirected,1
+Christian den,Ellen Marsvin,Undirected,1
+Christian,Page,Undirected,1
+Chrisfian,Evropa,Undirected,1
+Jens Munk,Kirsfen,Undirected,1
+Chrisfian,høire,Undirected,1
+Kirsten Munk,høire,Undirected,1
+Lykke,Ulrik,Undirected,1
+Adolf Frederik,Iohan Albrecht,Undirected,1
+Chrisfian,Iohan Albrecht,Undirected,1
+Adolf Frederik,Frederik,Undirected,1
+Graad,Stans,Undirected,1
+Kirsten Munk,Pernille,Undirected,1
+Pernille,Ulrik,Undirected,1
+Kirsten Munk,Ulrik,Undirected,1
+Kirsten Munk,Lykke,Undirected,1
+Ellen Marsvin,Lykke,Undirected,1
+Lykke,borl,Undirected,1
+Kirsfen Munk,Lykke,Undirected,1
+Kirsfen Munk,borl,Undirected,1
+Christian,borl,Undirected,1
+Christian,Frederik,Undirected,1
+Kirsfen Munk,Ulrik,Undirected,1
+Christian den,Karen Munk,Undirected,1
+Niels Persøn,Ole Jespersøn,Undirected,1
+Karen,Lykke,Undirected,1
+Anna Katharina,Lykke,Undirected,1
+Anna Katharina,Dorothea Elisabeth,Undirected,1
+Dorothea Elisabeth,Marsvin,Undirected,1
+Gud,Magdalena Sybille,Undirected,1
+Magdalena Sybille,Vibeke Kruse,Undirected,1
+Vibeke Kruse,fasf,Undirected,1
+Kong Christian,fasf,Undirected,1
+Jørgen Seefeldt,Monsieur Henrik Ramel,Undirected,1
+Karen,Monsieur Henrik Ramel,Undirected,1
+Bibeke Kruses,Karen,Undirected,1
+Henrik Ramel,Tyge Kruse,Undirected,1
+Karen Munk,Kong Christian,Undirected,1
+Ramel,Sehested,Undirected,1
+Christian den,Ramel,Undirected,1
+Brockmand,Kirsten Munk,Undirected,1
+Brockmand,Hans Resen,Undirected,1
+Hans Resen,Lauritz Mortensen,Undirected,1
+Lauritz Mortensen,Scavenius,Undirected,1
+Karen Sehested,Vibeke Kruse,Undirected,1
+Karen Munk,Vibeke,Undirected,1
+Karen Sehested,Kong Christian,Undirected,1
+Karen,Kong Frederik,Undirected,1
+Jomfru Marie,Munk,Undirected,1
+Ellen Marsvin,Jomfru Marie,Undirected,1
+Ellen Marsvin,Valdemar Christian,Undirected,1
+Ulfeldt,Valdemar Christian,Undirected,1
+Holger Vind,Ulfeldt,Undirected,1
+Grev Pentzs,Holger Vind,Undirected,1
+Grev Pentzs,Kirsten Mnnks,Undirected,1
+Kirsten Mnnks,Marie,Undirected,1
+Kirsten Munk,Tyge Bylov,Undirected,1
+Otto Krag,Tyge Bylov,Undirected,1
+Frederik den Tredie,Kirsten Munk,Undirected,1
+Eleonora Christine,Marie,Undirected,1

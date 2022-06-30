@@ -1,0 +1,142 @@
+source,target,type,weight
+David,Ieg,Undirected,1
+Gud,Milling,Undirected,1
+Kapitainen,Milling,Undirected,1
+Karl,Milling,Undirected,1
+davi,ester,Undirected,1
+Fisf,ester,Undirected,1
+Cecilie,Fisf,Undirected,1
+Cecilie,iland,Undirected,1
+Ester,Køt,Undirected,1
+Køt,Lange,Undirected,1
+Cecilie,Lange,Undirected,1
+Cecilie,Gud,Undirected,1
+Kapitain Holmstrøm,Ludvigsen,Undirected,1
+Gud,iland,Undirected,2
+Præsfen,iland,Undirected,1
+Holmstrøm,Marie,Undirected,7
+Beiler,Ludvigsen,Undirected,1
+A,Gud,Undirected,1
+Nero,Wad,Undirected,1
+Gnomen,Nero,Undirected,1
+Mikkelsen,Nero,Undirected,1
+Herodes,aUne,Undirected,1
+Chrisfen Brændevin,Herodes,Undirected,1
+Christen Brændevin,Jokum,Undirected,1
+Christen,Jokum,Undirected,1
+Christen Brændevin,Herodes,Undirected,1
+Christen,l.,Undirected,1
+Christen,harman,Undirected,1
+Nina,Ninus,Undirected,1
+Claus,salig Wessels,Undirected,1
+Josef,Potifars,Undirected,1
+Josef,Niels,Undirected,1
+Martha,Niels,Undirected,1
+A,Martha,Undirected,1
+Holmstrøm,Ludvigsen,Undirected,1
+Henrik,Sørensen,Undirected,1
+Goliath,Holger Danske,Undirected,1
+Henrik Dobbel,Holger Danske,Undirected,1
+A,A houer,Undirected,1
+A houer,Henrik,Undirected,1
+Henrik,Moumettes,Undirected,1
+Karen,Moumettes,Undirected,1
+Henrik,Træflo,Undirected,1
+Henrik,Karen,Undirected,3
+A,Karen,Undirected,4
+Henrik,Ole Mikkel,Undirected,2
+Fisf,Ole Mikkel,Undirected,2
+Gud,Ole Mikkel,Undirected,2
+Ole Mikkel,Torsfen,Undirected,1
+Ole,Ole Mikkel,Undirected,1
+Karen,Ole Mikkel,Undirected,1
+A,Henrik,Undirected,6
+Fovahl,Henrik,Undirected,1
+Fovahl,Karen,Undirected,1
+ester Henrik,høilys,Undirected,1
+Henrik,Præsfen,Undirected,1
+Henrik,Moumette,Undirected,4
+Mette,Moumette,Undirected,1
+Henrik,Mette,Undirected,11
+Gud,Mette,Undirected,1
+Henrik,ester,Undirected,1
+Mette,ester,Undirected,1
+A,Mette,Undirected,4
+Henrik,kanskesens,Undirected,1
+Henrik n,Mette,Undirected,1
+Karen,Mette,Undirected,2
+Karen,Moumette,Undirected,3
+Hellemads,Mette,Undirected,1
+Mads,Praaten,Undirected,1
+Henrik,Praaten,Undirected,1
+Henrik,Mads,Undirected,1
+Mads,Mette,Undirected,1
+Henrik,krakile,Undirected,1
+Hans,ester,Undirected,1
+Moer,ester,Undirected,1
+Moer,Præsfen,Undirected,2
+A,Ane Vims,Undirected,1
+Duceur,Henrik,Undirected,1
+Gud,Nero,Undirected,1
+Nero,Tiberius,Undirected,1
+Kaptain Ludvigsens,suart,Undirected,1
+flnlle,hans Marie,Undirected,1
+Kok,Nero,Undirected,1
+Laura,ester,Undirected,1
+Gud,Laura,Undirected,1
+LEgirs,Netur,Undirected,1
+Mikkelsen,Præsfen,Undirected,1
+Svenningsen,Øe,Undirected,1
+Ludvigsen,Svenningsen,Undirected,2
+Skipper Huus,sial,Undirected,1
+Bruun,Skipper Huus,Undirected,1
+Bruun,Wad,Undirected,1
+Ludvigsen,Wad,Undirected,3
+Holmstrøm,iland,Undirected,1
+Marie,Svenningsen,Undirected,6
+Holmstrøm,Svenningsen,Undirected,3
+,Skipper Huus,Undirected,2
+,Ludvigsen,Undirected,1
+Ludvigsen,Marie,Undirected,5
+Hr. Nyholm,Marie,Undirected,1
+Hr. Nyholm,Ludvigsen,Undirected,1
+Huus,Marie,Undirected,1
+Huus,Ludvigsen,Undirected,1
+Hr. Wad,Ludvigsen,Undirected,2
+Hr. Wad,soer,Undirected,1
+Pasforen,fog,Undirected,1
+Ludvigsen,fog,Undirected,1
+Ludvigsen,Nyholm,Undirected,1
+Jettes,Ludvigsen,Undirected,1
+Hr. Nyholm,Jettes,Undirected,1
+Hr. Wad,Huus,Undirected,1
+Ferdinand,Gud,Undirected,1
+,Ole,Undirected,1
+Gud,Ole,Undirected,2
+Ludvigsen,Ole,Undirected,1
+Me. Ludvigsen,Skipper Huus,Undirected,1
+Ludvigsen,Skipper Huus,Undirected,1
+Ludvigsen,nolsus valsns,Undirected,1
+Skipper Huus,atLudvigsens,Undirected,1
+Hr. Wad,Wad,Undirected,1
+Ludvigsen,Ruth,Undirected,1
+Ludvigsen,Maria,Undirected,5
+Holmstrøm,vcek,Undirected,1
+Marie,esterat,Undirected,1
+Holmstrøm,esterat,Undirected,1
+Ludvigsen,Nils Peter Nilsen,Undirected,1
+Ludvigsen flnide,Nils Peter Nilsen,Undirected,2
+Nils Peter Nilsen,ihn,Undirected,1
+Ludvigsen,ihn,Undirected,1
+Huus,Skipper,Undirected,1
+Gud,Marie,Undirected,1
+Dands,Ludvigsen,Undirected,1
+Dands,Wad,Undirected,1
+Moumette,Wad,Undirected,1
+Karen,Ludvigsen,Undirected,1
+Henrik,Ludvigsen,Undirected,1
+Huus,Karen,Undirected,1
+Wad,ester,Undirected,1
+Nero,ester,Undirected,1
+Ludvigsen,hans Marie,Undirected,1
+Ole Nyholm Ludvigsen,hans Marie,Undirected,1

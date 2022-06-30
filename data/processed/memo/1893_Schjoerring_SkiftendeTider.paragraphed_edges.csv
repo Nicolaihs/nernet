@@ -1,0 +1,91 @@
+source,target,type,weight
+Krause,Lasson,Undirected,6
+Kjeld Fabritius,Lasson,Undirected,1
+Kjeld Fabritius,Søgaard,Undirected,1
+Arne.,Søgaard,Undirected,1
+Kjeld Fabritius,Ronde,Undirected,1
+Kjeld,Ronde,Undirected,1
+Lasson,Ole Lasson,Undirected,2
+Kjeld,Lasson,Undirected,16
+Dingeldangel,Kjeld,Undirected,1
+Niels,livor,Undirected,1
+Karlen,Lasson,Undirected,1
+Gud,Kjeld,Undirected,2
+Buxer,Kjeld,Undirected,1
+Kjeld,Lise,Undirected,3
+Ida,Minona,Undirected,4
+Minona,chir,Undirected,1
+Examen,chir,Undirected,1
+Kjeld,Minona,Undirected,42
+Amor,Minona,Undirected,1
+Amor,Buk,Undirected,1
+Eros,Minona,Undirected,1
+Ida Daa,Kjeld,Undirected,1
+Kjeld,lille Ida,Undirected,1
+Ida,lille Ida,Undirected,1
+Lasson,Minona,Undirected,7
+Lasson,Vinter,Undirected,1
+Minona,njig,Undirected,1
+Karl,Minona,Undirected,1
+Ida,Kjeld,Undirected,1
+Frk. Ida,Kjeld Lasson,Undirected,1
+Hakon Adelstensfostre,Harald Erikssøn,Undirected,1
+Kalle,lille Fa,Undirected,1
+Constances,Krause,Undirected,1
+Constances,Marie,Undirected,1
+F'ørste,Lasson,Undirected,1
+Constances,Graad,Undirected,1
+Constance,Krause,Undirected,4
+Constance,Freja,Undirected,4
+Lasson,hartad,Undirected,1
+Fata morgana,Kjeld,Undirected,1
+Minona,Søgaard,Undirected,2
+Kjeld,Lauritsen,Undirected,3
+Kjeld,Rosengren,Undirected,1
+Kjeld Fabritius Lasson,Rosengren,Undirected,1
+Kjeld strax,Krause,Undirected,1
+Kjeld,Krause,Undirected,5
+Constance,Kjeld,Undirected,10
+Constance,Kalle,Undirected,5
+Constance,pinte Krause,Undirected,1
+Kalle,Lasson,Undirected,1
+Constance,Lasson,Undirected,3
+Kjeld,Lynghøj,Undirected,1
+Lynghøj,hans,Undirected,1
+Gudars,dock,Undirected,1
+Freja tros,dock,Undirected,1
+Krause,Lauritsen,Undirected,2
+Hansen,Lasson,Undirected,1
+Kjeld,Papa,Undirected,1
+Kjeld,lians,Undirected,1
+Søgaard,lians,Undirected,1
+Kjeld,Søgaard,Undirected,1
+Lasson,Søgaard,Undirected,2
+Søgaard,s,Undirected,1
+Kjeld,Laase,Undirected,1
+Lasson,Lauritsen,Undirected,3
+Frk. Constances,Kjeld,Undirected,1
+Arilds,Fabritius,Undirected,1
+Fabritius,Minona,Undirected,2
+Lynghøj,Minona,Undirected,1
+Husbond,Minona,Undirected,1
+Lauritsen,Minona,Undirected,2
+Graad,Minona,Undirected,1
+Jærnbane,Lauritsen,Undirected,1
+Jærnbane,Lasson,Undirected,1
+Constance,Søgaard,Undirected,1
+Constance,Lauritsen,Undirected,4
+Constance,Kirkegaard,Undirected,1
+Gud,Minona,Undirected,2
+Constance,Gud,Undirected,2
+Constance,Minona,Undirected,8
+Constance,lille yndige Skovdue,Undirected,1
+Frk. Krause,lille Lauritsen,Undirected,1
+Minona,Rødpels,Undirected,1
+Krause,Minona,Undirected,1
+Constance,Lynghøj,Undirected,1
+Adam,Lasson,Undirected,1
+Minona,Per,Undirected,1
+Per,Povl,Undirected,1
+Papa,Povl,Undirected,1
+Minona,Papa,Undirected,1

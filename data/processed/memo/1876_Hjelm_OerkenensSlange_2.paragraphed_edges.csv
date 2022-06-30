@@ -1,0 +1,370 @@
+source,target,type,weight
+Adam,Hansen,Undirected,3
+Adam,lille Adam,Undirected,1
+Sørensen,lille Adam,Undirected,1
+Sørensen,er Sørensen,Undirected,2
+Adam,er Sørensen,Undirected,1
+Adam,Helene,Undirected,7
+Adam,Eva,Undirected,9
+Adam,Dokforen,Undirected,1
+Hansen,Holger Svendsen,Undirected,3
+Holger Svendsen,Ole,Undirected,5
+Holger Svendsen,Schindler,Undirected,10
+Emilie,Holger Svendsen,Undirected,9
+Helene,Holger Svendsen,Undirected,11
+Emilie,Peter,Undirected,1
+Emilie,Hr. Svendsen,Undirected,1
+Eugenik,Hr. Svendsen,Undirected,1
+Eugenie,Peter,Undirected,1
+Holger Svendsen,Peter,Undirected,1
+Aland,Helene,Undirected,1
+Aland,Holger Svendsen,Undirected,1
+hnn,nn,Undirected,1
+Donnerwetter,hnn,Undirected,1
+Dn,hnn,Undirected,1
+Alande,hnn,Undirected,2
+Helene,Karl,Undirected,1
+Holger Svendsen,hnn,Undirected,1
+Eugenie,Toddy,Undirected,1
+Eugenie,Hr. Svendsen,Undirected,1
+Holger Svendsen,Hr. Svendsen,Undirected,1
+Holger Svendsen,Manuelo,Undirected,2
+Dm,son,Undirected,1
+Manuelo,Villien,Undirected,1
+Helene,Ole Sørensen,Undirected,1
+Hansen,Ole,Undirected,8
+Manuelo,Ole,Undirected,5
+Holger Svendsen,nian,Undirected,1
+Doktor Hansen,Ole,Undirected,1
+Dokloren,Ole,Undirected,1
+Helene,Ole,Undirected,3
+Helene,Kaptajn Holms,Undirected,1
+-ft,Helene,Undirected,1
+-ft,-iMan,Undirected,1
+-iMan,Ludvig,Undirected,1
+Holger Svendsen,Ludvig,Undirected,30
+Hr. Skov,Ludvig,Undirected,4
+Ludvig,Ole,Undirected,1
+Ludvig,Mefferen,Undirected,1
+Helene,Holm,Undirected,1
+Al,Helene,Undirected,1
+Ester,Helene,Undirected,1
+Holger Svendsen,Madam Olsen,Undirected,8
+Biens,am Olsen,Undirected,1
+Emilie,Mille,Undirected,1
+Holger,Mille,Undirected,1
+Holger Svendsen,ester,Undirected,1
+Emilie,Schindler,Undirected,1
+Holger Svendsen,sorn,Undirected,1
+Helene Sørensen,sorn,Undirected,1
+Helene Sørensen,Holger Svendsen,Undirected,3
+Helene,Madam Olsen,Undirected,2
+Holger Svendsen,Skylla iKarybdis,Undirected,1
+Helene,Schindler,Undirected,8
+Helene,ester,Undirected,1
+Direkfør Schindler,Helene,Undirected,1
+Direkfør,Schindler,Undirected,1
+Madam Olsen,Schindler,Undirected,1
+Madam,Madam Olsen,Undirected,1
+Helene,hanJog,Undirected,1
+Hansen,Helene,Undirected,7
+Amanda,Schindler,Undirected,1
+Schindler,fom,Undirected,1
+Hansen,Madam Mikkelsen,Undirected,1
+Ole,hnn,Undirected,1
+Helene,Mannelo,Undirected,1
+Hansen,Manuelo,Undirected,12
+Emilie,Hansen,Undirected,2
+Emilie,Helene,Undirected,1
+Emilie,Manuelo,Undirected,1
+Emilie,Mannelo,Undirected,1
+Hansen,Oskar Skov,Undirected,1
+Mannelo,Oskar Skov,Undirected,2
+Manuelo,Oskar Skov,Undirected,5
+Doklors,Manuelo,Undirected,1
+Hansen,Øe,Undirected,2
+Hr. Skov,Manuelo,Undirected,2
+Hansen,Mannelo,Undirected,2
+Ua,Uerla,Undirected,1
+Hain,Mannelo,Undirected,1
+Holm,Manuelo,Undirected,2
+Holm,Oskar Skov,Undirected,1
+Eva,Hansen,Undirected,3
+Mademoiselle Hansine Jensen,Monsieur Schindler,Undirected,1
+Jens,Jensine,Undirected,1
+Jensen,Jensine,Undirected,1
+Emilie Snydstrup,Jensen,Undirected,1
+Mu,trouptz,Undirected,1
+Emilie Snydstrup,Hansine Jensen,Undirected,1
+Mademoiselle Emilie Snydstrups,Mademoiselle Hansine Jensen,Undirected,1
+Oluf Lund,Skov,Undirected,1
+Dokfor Hansen,Oluf Lund,Undirected,1
+Dokfor Hansen,Manuelo,Undirected,2
+Hr. Schindler,Oskar Skov,Undirected,5
+munclim vult llooipi,orgv slooipiutur,Undirected,1
+Oskar Skov,hani,Undirected,1
+Hr. Schindler,Mademoiselle Petrea Iversen,Undirected,1
+Hnn,Oskar Skov,Undirected,1
+dotz,oomins il knut,Undirected,1
+Helene Sørensen,monsisur lo,Undirected,1
+Schindler,monsisur lo,Undirected,1
+Helene,Mademoiselle Helene,Undirected,1
+Biarie Poulsen,Hansine Jensen,Undirected,1
+monsieur,sxeussi,Undirected,1
+Oskar Skov,Skjoldmø,Undirected,1
+Mademoiselle Emilie Snydstrup,Oskar Skov,Undirected,1
+Mademoiselle Emilie Snydstrup,Mille,Undirected,1
+Schindler,tDe,Undirected,1
+Graad,Schindler,Undirected,1
+Mille,Schindler,Undirected,1
+Mille,Oskar Skov,Undirected,1
+Helene Sørensen,Schindler,Undirected,5
+Holger Svendsen,Mille,Undirected,2
+: Schindler,Helene,Undirected,1
+Helene,oni,Undirected,1
+Helene,Madame,Undirected,1
+Helene,hnn,Undirected,1
+Holger Svendsen,hM,Undirected,1
+Helene Sørensen,sknlde,Undirected,1
+Helene,sti,Undirected,1
+Juliette,Øe,Undirected,1
+Madam Schindler,fiffig,Undirected,1
+Juliette,fiffig,Undirected,1
+Madame Schindler,ester,Undirected,1
+Madame Schindler,Mademoiselle Juliette,Undirected,1
+Madame Schindler,Monsieur Schindler,Undirected,1
+Karl Hansen,Oskar Skov,Undirected,1
+Olaf Lund,Oskar Skov,Undirected,1
+Helene,Olaf Lund,Undirected,1
+Juliette,Oskar Skov,Undirected,1
+Karl,Olaf,Undirected,2
+Hansen,Juliette,Undirected,4
+Olaf,Olaf Lund,Undirected,5
+Helene Sørensen,Olaf Lund,Undirected,1
+Olaf Lund,mørk,Undirected,1
+Eva,Karl,Undirected,4
+Hansen,Olaf,Undirected,1
+Helene Sørensen,Olaf,Undirected,1
+Helene Sørensen,^ntiu,Undirected,1
+Hansen,Olaf Lund,Undirected,15
+Helene,Juliette,Undirected,5
+Helene,ester Juliettes,Undirected,1
+Fiacren,Juliette,Undirected,3
+Monsieur,silo,Undirected,1
+Manuelo,hgn,Undirected,1
+Helenej Sørensen,Mannelo,Undirected,1
+Helenej Sørensen,Schindler,Undirected,1
+S rir,riManuelos,Undirected,1
+Hansen,Helene Sørensen,Undirected,2
+Hansen,siinilibus,Undirected,1
+-Lund,Olaf,Undirected,1
+Manuelo,Olaf Lund,Undirected,4
+Holm,Karl Hansen,Undirected,2
+Hnn,Manuelo,Undirected,1
+Manuela,Oskar Skov,Undirected,1
+Karl Hansen,Olaf Lund,Undirected,2
+Bien Olaf Lund,Olaf Lund,Undirected,1
+Eva sra,Karl,Undirected,1
+Eva,Olaf,Undirected,5
+Karl Hansen,Olaf Lund atler,Undirected,1
+Karl,Olaf Lund,Undirected,1
+Karl Hansen,Søulk,Undirected,1
+,Olaf Lund,Undirected,1
+Olaf,Velan,Undirected,1
+Doklors,Olaf Lund,Undirected,1
+Karl,Søulk,Undirected,1
+Hain,Søulk,Undirected,1
+Cadix,Eva,Undirected,1
+Cadix,Holm,Undirected,1
+Eva,Holm,Undirected,2
+Olaf Lund,j,Undirected,1
+Hanfen,Manuelo,Undirected,1
+Hansen,Manuela Paris,Undirected,1
+Helene Sørensen,Manuelo,Undirected,1
+Gud,Helene,Undirected,1
+Helene,Karl as,Undirected,1
+Holger Svendsen,Peder Laale,Undirected,2
+Kamilla Karstensen,Uhre,Undirected,1
+Carl Herrmann,Kamilla Karstensen,Undirected,2
+Carl Herrmann,Ludvig,Undirected,1
+Dokfor Hansen,Drosfen,Undirected,1
+Dokfor Hansen,Helene,Undirected,1
+Helene,Manuelo,Undirected,1
+Dokforen,Manuelo,Undirected,1
+Helene,Madam Mikkelsen,Undirected,1
+Dokfor Hansen,Madam Mikkelsen,Undirected,1
+Hansen,Lund,Undirected,2
+Doklor Hansen,Eva,Undirected,4
+Doklor,Eva,Undirected,2
+Hansen,Krisis,Undirected,1
+Hansen,ester,Undirected,1
+Adam,Doklor Hansen,Undirected,2
+Adam,Lund,Undirected,2
+Eva,Karl Hansen,Undirected,3
+Eva,Olaf Lund,Undirected,15
+Helene,Madame Nielsen,Undirected,1
+Eva,Helene,Undirected,5
+Holger Svendsen,Hr. Mortensen,Undirected,4
+Mo ,er Sørensen,Undirected,20
+Mo,Sørensen,Undirected,1
+Holger Svendsen,Sørensen,Undirected,6
+Peter,er Sørensen,Undirected,7
+Ole Kollerød,Tofte,Undirected,1
+Ludvig,Mo ' er Sørensens,Undirected,1
+Peter“,Sørensen,Undirected,1
+Holger Svendsen,Peter“,Undirected,1
+Mo ' er,Sørensen,Undirected,3
+Peter,Sørensen,Undirected,6
+Ludvig,MVer Sørensen,Undirected,1
+Holger,Holger Svendsen,Undirected,1
+Ludvig,Sørensen,Undirected,10
+Ludvig,Peter,Undirected,1
+Ludvig,Sørenfen,Undirected,1
+Holger,Ludvig,Undirected,4
+Hamlet,Holger“,Undirected,1
+Blaa,Holger,Undirected,1
+Ekko,Ludvig,Undirected,2
+Ludvig,nMkk,Undirected,1
+Mo ,Sørensen,Undirected,1
+Ludvig,høllys,Undirected,1
+Hr. Skov,høllys,Undirected,1
+Ludvig,er Sørensen,Undirected,6
+Hr. Mortensen,Ludvig,Undirected,2
+Kennst Du das Land,Laub die Goldorangen,Undirected,1
+Ein sanfter Wind von,Laub die Goldorangen,Undirected,1
+Han-,sen,Undirected,1
+Olaf Lund,sen,Undirected,1
+Cendrillons,Manuelo,Undirected,1
+Adam —,Olaf Lund,Undirected,1
+Manuelo,Oluf/,Undirected,1
+Cadix,eiy,Undirected,1
+Holm,Olaf Lund,Undirected,11
+Holm,Olaf Luud,Undirected,1
+Holm,h. Olaf Lund,Undirected,1
+Holm,Øe,Undirected,1
+graa,Øe,Undirected,1
+Olaf,graa,Undirected,1
+Lund,Olaf,Undirected,1
+Dokfor Hansen,Eva,Undirected,1
+Hansen,Holm,Undirected,2
+Ester dirse,Hansen,Undirected,1
+,Hansen,Undirected,1
+Hansen,fil,Undirected,1
+Kaptajn Holm,Olaf Lund,Undirected,1
+Havgassens,Sauge,Undirected,1
+Don Emilio Aeosta,Emilio Alvarez,Undirected,1
+Holm,Olaf,Undirected,2
+Aled,Doklor Hansen,Undirected,1
+Doklor Hansen,Holm,Undirected,2
+Doklor Hansen,Olaf Lund,Undirected,1
+Potz Tausend Donnerwetter,mein Busenfreund,Undirected,1
+Holger Svendsen,mein Busenfreund,Undirected,1
+Holger Svendsen,Jawohl lieber Freund,Undirected,1
+Holger Svendsen,Napoleon,Undirected,1
+Holger Svendsen,lieber Freund,Undirected,2
+Paris vergessen,nimmer werde ich,Undirected,1
+Methusalem,lieber Freund,Undirected,1
+Drakenberg,Methusalem,Undirected,1
+Drakenberg,Ronge,Undirected,1
+Elisabeth,Ronge,Undirected,1
+Doerst,Holger Svendsen,Undirected,1
+Doerst,geschehen ist,Undirected,1
+Holger Svendsen,geschehen ist,Undirected,1
+Hr. Mortensen,Schindler,Undirected,1
+Potz,Tausend,Undirected,1
+Ludvig,MoerWørensen,Undirected,1
+Ludvig,Moer Sørensen,Undirected,2
+Holger Svendsen,Moer Sørensen,Undirected,1
+Holger Svendfen,Moer Sørensen,Undirected,1
+Ludvig,Schindler,Undirected,3
+Ludvig,Svendsens,Undirected,1
+Skaal,Sørensen,Undirected,1
+Ludvig,Skaal,Undirected,1
+Ludvig,mev,Undirected,1
+Holger Svendsen,er Sørensen,Undirected,5
+Holger Svendsen,tronpo Oanoiso,Undirected,1
+Hansen,Sørensen,Undirected,1
+Sørensen,fom,Undirected,1
+L propos,Ludvig,Undirected,1
+Hr. Schindler,Pandora,Undirected,1
+Pandora,Promethevs,Undirected,1
+Hr. Schindler,Sørensen,Undirected,1
+Ludvig gnaven,Sørensen,Undirected,1
+Schindler,Sørensen,Undirected,3
+Mille,soni,Undirected,1
+Hilfe,Mille,Undirected,1
+Holger Svendsen,Troppmann,Undirected,1
+Ole Kollerød,Troppmann,Undirected,1
+Ole Kollerød,Skaal,Undirected,1
+Holger,Skaal,Undirected,1
+Hansen,Hr. Skov,Undirected,1
+Holger Svendsen,Hr. Skov,Undirected,2
+Hansen,Ludvig,Undirected,4
+Hansen,Mo ' er Sørensen,Undirected,3
+Holger Svendsen,Mo ' er Sørensen,Undirected,1
+Holger Svendsen,Mo ,Undirected,1
+Helene,das,Undirected,1
+Helene,Kerl,Undirected,1
+Kerl,hat,Undirected,1
+hat,mir nicht mein Geld,Undirected,1
+mir nicht mein Geld,vielleichl,Undirected,1
+Ludvig,Mo ' er Sørensen,Undirected,4
+Ester,Ludvig,Undirected,1
+Holger,Hr. Skov,Undirected,1
+Hr. Schindler,Hr. Skov,Undirected,2
+er Sørensen,hat gewesen,Undirected,1
+Lieber,Ludvig,Undirected,1
+Schindler,er Sørensen,Undirected,3
+Ekko,Schindler,Undirected,1
+Ester nogen,Holger Svendsen,Undirected,1
+Holger . Svendsen,er Sørensen,Undirected,1
+Holger Svendsen,Ludvigsen,Undirected,1
+Hagen,Ludvig,Undirected,1
+Kukkuk,fallera,Undirected,2
+Ludvig,Ludvigsen,Undirected,1
+Helene,lille Adam,Undirected,2
+Adam,Olaf,Undirected,1
+Eva,Oluf,Undirected,1
+Helene,Øreng,Undirected,1
+Ludvig,Olaf Lund,Undirected,14
+Olaf,ester,Undirected,1
+Eva,ester,Undirected,1
+Holm,eins,Undirected,1
+Olaf,eins,Undirected,1
+Dokfor Hansen,Zeg,Undirected,1
+Madam Mikkelsen,Zeg,Undirected,1
+Helene,jej,Undirected,1
+Madam Mikkelsen,Olaf Lund,Undirected,1
+Mo ,Schindler,Undirected,1
+Taa,er Sørensen,Undirected,1
+Holger Svendsen,s Olaf,Undirected,1
+Holger Svendsen,Olaf Lund,Undirected,2
+Hr. Schindler,Ludvig,Undirected,1
+Olaf Lund,Schindler,Undirected,1
+Blester,Ludvig,Undirected,1
+' er,Sørensen,Undirected,4
+Sørensen,nied,Undirected,1
+Olaf Lund,dans,Undirected,1
+Karl,Ludvig,Undirected,1
+Helene,Madam Nielsen,Undirected,1
+Adam,Madam Nielsen,Undirected,2
+Eva,Olaf Lund Træk,Undirected,1
+Eva,Olaf Lundog,Undirected,1
+Adam,Olaf Lund,Undirected,3
+Hansen,Ole Sørensen,Undirected,1
+Olaf Lund,er Sørensen,Undirected,1
+Hr. P. Hansen,Hr. Pastor Frimodt,Undirected,1
+Ole Sørensen,Sørensen,Undirected,1
+Hr. Borchsenius,Ludvig,Undirected,2
+Borchsenius,Ludvig,Undirected,2
+Holger Svendsen,Michael Gjørup,Undirected,1
+Hr. Schindler,Michael Gjørup,Undirected,1
+Hr. Schindler,jour,Undirected,1
+Frederiksen,Thomas,Undirected,1
+Bille,Frederiksen,Undirected,1
+Bille,"Kasper Häuser,",Undirected,1
+"Kasper Häuser,",N. C. Rom,Undirected,1
+Schindler,viso vorsa,Undirected,1
+Emilie,alias Mille —,Undirected,1
+Holger Svendsen,alias Mille —,Undirected,1
+Helene Sørensen,Karl. Hansen,Undirected,1

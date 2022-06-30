@@ -1,0 +1,316 @@
+source,target,type,weight
+Dandsens,Hr. Detlef,Undirected,1
+,Annas,Undirected,2
+Annas,Eier as Goldebjerg,Undirected,1
+Anna,Svend,Undirected,3
+Anna,Detlef,Undirected,14
+Detlef,cgsaa,Undirected,1
+Anna,cgsaa,Undirected,1
+Anna,Sidsfe,Undirected,2
+Anna,Sands,Undirected,1
+Anna,Goldebjerg,Undirected,2
+Anna thede,Goldebjerg,Undirected,1
+Detlef,sørend,Undirected,1
+Arne,ester,Undirected,1
+Anna,ester,Undirected,3
+Anna,hnn,Undirected,1
+Len,Prindsen,Undirected,1
+Anna,Prindsen,Undirected,5
+eg,strax,Undirected,1
+Anna,Jonas,Undirected,9
+Jonas,Marthas,Undirected,1
+Marthas,Prindsen,Undirected,1
+Hr. Dellef,Prindsen,Undirected,1
+Anna,Hr. Dellef,Undirected,1
+Detlef,Prindsen,Undirected,2
+Anna,Arne,Undirected,1
+Charakteers,Detlef,Undirected,1
+Detlef,lidf,Undirected,1
+Anna,yans,Undirected,1
+Detlef,Martha,Undirected,7
+Martha,Prindsen,Undirected,2
+Gud,Martha,Undirected,1
+,Martha,Undirected,2
+Jonas,Martha,Undirected,13
+Alf,Anna,Undirected,1
+Anna,Martha,Undirected,11
+Dands,Len,Undirected,1
+Detlev,barsf,Undirected,1
+Anna,Daggry,Undirected,1
+JonaS,Jonas,Undirected,1
+JonaS,Prindsen,Undirected,1
+Prindsen,Wren,Undirected,1
+Detlef,huul,Undirected,1
+Martha,saadrn,Undirected,1
+Jonas,saadrn,Undirected,1
+Anna,Dtartha,Undirected,1
+Hr. Detlef,Martha,Undirected,2
+Esterat,Martha,Undirected,1
+,Jonas,Undirected,8
+Beviis,Jonas,Undirected,1
+Detlef,Jonas,Undirected,8
+Jonas,Sands,Undirected,1
+Sands,esterat,Undirected,1
+esterat,ker,Undirected,1
+Jonas,lsd,Undirected,1
+Gud,Jonas,Undirected,1
+Detlef,efler,Undirected,1
+Martha,efler,Undirected,1
+Anna,zittrsnde,Undirected,1
+Martha,Sune,Undirected,1
+Jonas,ester,Undirected,1
+Jonas,ban,Undirected,1
+,Anna,Undirected,1
+Detlef,as,Undirected,1
+Anna,Ivar,Undirected,2
+Anna,soer,Undirected,1
+Jonas,Len Stærkeres,Undirected,2
+este,jø,Undirected,1
+Detlef,Ivar,Undirected,4
+Detlef,Svend,Undirected,2
+Ivar,Svend,Undirected,1
+Anna,Hr. Detlef,Undirected,2
+Prindsen,Svend,Undirected,1
+AnnaS,Svend,Undirected,1
+Ivar,Jonas,Undirected,5
+,Bolt,Undirected,1
+Detlef,soer,Undirected,1
+Jonas,Svend,Undirected,2
+Egenæs,Ivar,Undirected,1
+,Egenæs,Undirected,1
+Jonas,Jvars,Undirected,1
+Ove Hjelm,Skovgaard,Undirected,1
+Ove Hjelm,Oves,Undirected,1
+Broder Ove,Oves,Undirected,1
+Broder Ove,Ove,Undirected,1
+Gud,Ove,Undirected,5
+Gud,Olme,Undirected,1
+Olme,Ove Hjelm,Undirected,1
+Ove,Ove Hjelm,Undirected,1
+Ove,Ove el,Undirected,1
+Døttre,sor Ove,Undirected,1
+Ove,artium,Undirected,2
+Ove,ester,Undirected,1
+A. Munchs,ester,Undirected,1
+A. Munchs,hiinsides,Undirected,1
+Gud,hiin,Undirected,2
+Ove,deras,Undirected,2
+Diogenes,Ove,Undirected,1
+Fritz Bagger,Goldschmidts,Undirected,1
+Goldschmidts,Riim,Undirected,1
+Line,elsfe,Undirected,1
+Line,blaa,Undirected,1
+Ove,esterat,Undirected,1
+Anders,Ove,Undirected,2
+Agnes,Ove,Undirected,19
+Agnes,tans,Undirected,1
+Ove Hjelm,sidsf,Undirected,1
+Goldschmidts,Richardts,Undirected,1
+Cousine,Gud,Undirected,1
+Coufines,Ove,Undirected,1
+Bagger,Coufines,Undirected,1
+Consines,Ove,Undirected,2
+Jdetsamme,Ove,Undirected,1
+Agnes,Berg,Undirected,2
+Berg,ester,Undirected,1
+Gud,ester,Undirected,2
+Ove,Randal Leslie,Undirected,1
+Ove,P. Berg,Undirected,1
+Berg,hiin,Undirected,1
+Ove,ril,Undirected,1
+Agnes,John,Undirected,1
+Gud,John,Undirected,1
+Agnes,Caspersens,Undirected,1
+,Agnes,Undirected,4
+,Gud,Undirected,1
+John,Ove,Undirected,3
+Berg,Ove Hjelm,Undirected,1
+Agnes Berg,Ove Hjelm,Undirected,1
+,Ove,Undirected,2
+Ddre,Ove,Undirected,1
+Captain Berg,Ddre,Undirected,1
+Agnes,Captain Berg,Undirected,1
+Proprietair,Skovlykkes,Undirected,1
+Iversen,Proprietair,Undirected,1
+Iversen,Johnsons,Undirected,1
+Roes,ester,Undirected,1
+Gud,religieus,Undirected,1
+Dttringer,sidsfe,Undirected,1
+Dttringer,Johnson,Undirected,1
+Johnson,maasfee,Undirected,1
+Johnson,Tu,Undirected,1
+Gud,Tu,Undirected,2
+Gud,Johnson,Undirected,5
+Ali,Johnson,Undirected,1
+Johnson,ester,Undirected,2
+Johnson,bun,Undirected,1
+,Dimss,Undirected,1
+Jldstrøm,Johnson,Undirected,1
+Jldstrøm,hans Lren,Undirected,1
+Johnson,hans Lren,Undirected,1
+Candidat,ester,Undirected,1
+Candidat,Johnson,Undirected,1
+Johnson,Z,Undirected,1
+Johnson,Ten,Undirected,1
+Hamlet,Johnson,Undirected,1
+Hamlet,ZEngst,Undirected,1
+Gud,ZEngst,Undirected,1
+Kai,asbrødes,Undirected,1
+Johan Olsen,sidsfe,Undirected,1
+Johan,sidsfe,Undirected,1
+Eiendele,iland,Undirected,1
+Johan,iland,Undirected,1
+Johan,Kai,Undirected,6
+Cholera,Johan,Undirected,1
+Gud,Ter,Undirected,1
+ester,felv,Undirected,1
+Johan,Kaien,Undirected,1
+Johan,Tu,Undirected,3
+Johan,øg,Undirected,1
+Hr. Hocken,Johan,Undirected,1
+Hr. Hocken,didop,Undirected,1
+Hedvig Wolter,didop,Undirected,1
+Hedvig,Johan,Undirected,18
+Johan,Johan Olsen,Undirected,2
+Hr. Høcken,Johan,Undirected,2
+Hr. Høcken,Høckens,Undirected,1
+Hedvig,Høckens,Undirected,2
+Høcken,Høckens,Undirected,1
+Grethe,Høcken,Undirected,1
+Grethe,lille Hedvig,Undirected,1
+Høcken,Johan,Undirected,3
+Hedvig,Høcken,Undirected,7
+Gud,Johan,Undirected,1
+Johan,Ter,Undirected,1
+Johan,em,Undirected,1
+Hedvig,Line,Undirected,1
+Johan,Line,Undirected,1
+Johan,Jungmand,Undirected,1
+Johan,esterat,Undirected,2
+Johan,ester,Undirected,2
+Hedvig Walter,ester,Undirected,1
+Hedvig,Noahs,Undirected,1
+Johan,ban,Undirected,1
+Ester,Høcken,Undirected,1
+Johan,Md. Høcken,Undirected,2
+Høcken,ester,Undirected,1
+Gud,Høcken,Undirected,1
+Gud,Hedvig,Undirected,2
+Hedvig,dans,Undirected,1
+Høcken,dans,Undirected,1
+Høcken,Md. Høcken,Undirected,1
+Hedvig,Md. Høcken,Undirected,1
+Hedvig,Johan Olsen,Undirected,2
+Johan Olsen,Johnson,Undirected,2
+Hedvig,Johnson,Undirected,7
+Bonds,F. Burnow,Undirected,1
+Bonds,Johnson,Undirected,1
+C. Burnow,Gud,Undirected,1
+Burnows,F. Burnow,Undirected,1
+F. Burnow,Gud,Undirected,1
+Graad,Johnson,Undirected,1
+Døttre,Johnson,Undirected,1
+Burnow,Døttre,Undirected,1
+Burnow,Johnson,Undirected,1
+Hr. Burnow,Johnson,Undirected,2
+Gud,Hr. Burnow,Undirected,1
+Alod,Burnow,Undirected,1
+Burnow,Hr. C. Burnow,Undirected,1
+Burnow,Eleanor,Undirected,1
+Hr. C. Burnow,Johan Olsen,Undirected,1
+Hr. C. Burnow,Johnson,Undirected,1
+Hedvig,sorud,Undirected,2
+Hedvig,Mrs. Burnows,Undirected,1
+Steen,Steen ester,Undirected,1
+Dickens,Madam Petersen,Undirected,1
+Hanne,sfal,Undirected,1
+Madam Poulsen,ester,Undirected,1
+Brask,Lene Brask,Undirected,1
+Lene Brask,Madam Poulsen,Undirected,1
+Madam Poulsen,Stine Brask,Undirected,3
+Gud,Stine Brask,Undirected,1
+Gud,Madam Poulsen,Undirected,1
+Lene Brafks,Madam Poulsen,Undirected,2
+Laurits Stær,Madam Poulsen,Undirected,1
+Jomfru Brask,Thyras,Undirected,1
+Hanne,lille Froken,Undirected,1
+Brask,Thyra,Undirected,1
+Brask,Madam Poulsen,Undirected,1
+Chr. Richardts,Tulle,Undirected,1
+Langes,Steen,Undirected,1
+Joli,Steen,Undirected,1
+Hunsro,Jvli,Undirected,1
+Jvli,Priis,Undirected,1
+Priis,Tante Franzines,Undirected,1
+JustitSraad Ficks,Tante Franzines,Undirected,1
+Petersen,Steen,Undirected,1
+Jfrne Brafks,Md. Poulsens,Undirected,1
+Commis Hansen,Jfrne Brafks,Undirected,1
+Commis Hansen,Poulsen,Undirected,1
+Poulsen,Stæhrs,Undirected,1
+Jensens,Stæhrs,Undirected,1
+Jensens,Md. Poulsen,Undirected,1
+Md. Poulsen,spiist,Undirected,2
+Jensen,Stæhr,Undirected,2
+Gud,Jensen,Undirected,1
+Holger Lange,Thhra,Undirected,1
+Stolberg,Thyra,Undirected,11
+Holgers,Stolberg,Undirected,1
+Gud,Thyra,Undirected,2
+Gud,Stolberg,Undirected,4
+Stolberg,ThyraL,Undirected,1
+Hansen,ThyraL,Undirected,1
+Hansen,Stolberg,Undirected,2
+Andersen,Hansen,Undirected,1
+Gud,Hansen,Undirected,1
+Hansen,Thyra,Undirected,1
+Jasken,Thyra,Undirected,1
+Hansen,Stæhr,Undirected,1
+Thyra,rinde,Undirected,1
+Stolberg,rinde,Undirected,1
+Langes,Stolberg,Undirected,2
+Langes,Thyra,Undirected,1
+Stolberg,Thhra,Undirected,1
+Jfrne Brask,Langes,Undirected,1
+Lene Brask,Stolberg,Undirected,1
+Lene Brask,Oluf,Undirected,1
+Lenes,Stolberg,Undirected,1
+Lenes,Thyra,Undirected,1
+Hanne,strax,Undirected,1
+Gud,Langes,Undirected,2
+Asstand,Gud,Undirected,1
+Jsrne Brasks,Langes,Undirected,1
+Grundtvigs,Thyra,Undirected,1
+Eiers,øg,Undirected,1
+Elsas,Oluf,Undirected,3
+Elsa,Oluf,Undirected,23
+Elsa,piin,Undirected,1
+Elsa,Gud,Undirected,2
+Oluf,as,Undirected,1
+Elsa,as,Undirected,1
+Barme,Elsa,Undirected,1
+Oluf,oz,Undirected,1
+Erik,Oluf,Undirected,10
+Erik,Olus,Undirected,2
+Elsa,Erik,Undirected,7
+Elsa,ester,Undirected,2
+Attraa,Elsa,Undirected,1
+Oluf,soer Oluf,Undirected,1
+Niim,soer Oluf,Undirected,1
+Niim,Oluf,Undirected,1
+Oluf,Olus,Undirected,1
+Elsa,Olus,Undirected,2
+Elsa,Ester,Undirected,2
+Gud,Oluf,Undirected,2
+Gud,Olus,Undirected,2
+Erik,hiin,Undirected,1
+Elsa,hiin,Undirected,1
+Ester,Stueuhr,Undirected,1
+Erik,Stueuhr,Undirected,1
+Erik,Jesu,Undirected,1
+Jesu,Oluf,Undirected,1
+Erik,lsd,Undirected,1
+Erik,ban,Undirected,1
+Doctcren,Erik,Undirected,1
+Elsa,Len,Undirected,1
+Erik,Len,Undirected,1

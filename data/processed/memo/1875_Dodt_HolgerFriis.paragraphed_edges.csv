@@ -1,0 +1,252 @@
+source,target,type,weight
+Holger Friis,hvi,Undirected,2
+Kong Frederiks,Maane,Undirected,1
+Holger,Kong Frederiks,Undirected,1
+Knud,Saamcend,Undirected,1
+Knud,knn,Undirected,1
+Gud,Holger,Undirected,13
+Holger,Kammeraad Friis,Undirected,1
+Cupido,Mars,Undirected,1
+Breitenfeldt,Hans Excellence,Undirected,1
+Greven,Lilien,Undirected,1
+Breche,hiin,Undirected,1
+Baastrup,Breche,Undirected,1
+Arnsted,hiin,Undirected,1
+Arnsted,Lundsgaard,Undirected,2
+Holger,Lundsgaard,Undirected,1
+Comtesse Breitenfeldt,Holger,Undirected,9
+Holger,Hr. Larsen,Undirected,1
+Breitenfeldt,Damasfes,Undirected,1
+Alexander,Keiser,Undirected,1
+Alexander,Bernadotte,Undirected,1
+Bernadotte,Napoleon,Undirected,1
+Gud,Napoleon,Undirected,2
+Andientsen,Lakaien,Undirected,1
+Gud,Holger Friis,Undirected,2
+Holger Friis,conseqvente Tanshed,Undirected,1
+Holger,Høgholms,Undirected,1
+Beringfeldt,Holger Friis,Undirected,1
+Breden,hiin,Undirected,1
+Frederik den,Greven,Undirected,1
+Greven,Kronprindsen,Undirected,1
+Hr. Greve,Napoleon,Undirected,1
+Hn fuit aoeomM,Keiseren,Undirected,1
+Frederik,Keiseren,Undirected,1
+Dana,Svea,Undirected,1
+Beringfeldt,Gud,Undirected,1
+Dodt,Holger Friis,Undirected,4
+Greven,Gud,Undirected,1
+Greven,Moses,Undirected,1
+Barton,Gud,Undirected,1
+Holger,Niels,Undirected,11
+Holger,Nielses,Undirected,3
+Holger,Holger Friis,Undirected,6
+Niels,Roes,Undirected,1
+Holger,von Leyden,Undirected,1
+Leyden,von,Undirected,1
+Leyden,hiin,Undirected,1
+Gud,iland,Undirected,1
+Holger,iland,Undirected,1
+Gud,Line,Undirected,1
+Hølger,Skipper,Undirected,1
+Hølger,Hølger Friis,Undirected,1
+Morten Lund,Niels,Undirected,1
+Gud,Niels,Undirected,1
+Holger,spiist,Undirected,1
+Holger,betvang,Undirected,1
+Breitenfeldt,Oresfes,Undirected,1
+Oresfes,Pylades,Undirected,2
+Don Juan,Friis,Undirected,1
+Holger,Leyden,Undirected,3
+Greven,Leyden,Undirected,1
+Comtesse Ida,Greven,Undirected,1
+Comtesse Ida,Comtessen,Undirected,1
+Grev Breitenfeldt,Holger Friis,Undirected,1
+Holger,von Breden,Undirected,1
+Breitenfeldt,von Breden,Undirected,1
+Beringfeldt,Breitenfeldt,Undirected,2
+Breitenfeldt,Greven,Undirected,1
+Grev Breitenfeldt,nei,Undirected,1
+Leyden,Lille,Undirected,1
+Cavaleer,Comtesse Breitenfeldt,Undirected,1
+Breitenfeldt,Horizont,Undirected,1
+Breitenfeldt,Comtessen,Undirected,2
+Comtessen,Lieutenant,Undirected,1
+Leyden,Lieutenant,Undirected,1
+Comtessen,hiin,Undirected,1
+Breden,Holger Friis,Undirected,1
+Grev Breitenfeldt,Gud,Undirected,1
+Grev Breitenfeldt,Lilie,Undirected,1
+Beringfeldt,ester,Undirected,1
+Comtesse Breitenfeldt,Lilie,Undirected,1
+Friis,Greve,Undirected,1
+Gud,hiin,Undirected,1
+Beringfeldt,Lilie,Undirected,1
+Beringfeldt,Comtessen,Undirected,1
+Comtessen,Holger,Undirected,2
+Comtesse Breitenfeldt,Leyden,Undirected,2
+Corfits Ulfeldt,Friis,Undirected,1
+Friis,Ulfeldts,Undirected,1
+Fordeel,Ulfeldts,Undirected,1
+Eleonore Christines,Holger,Undirected,1
+Christian den,Comtesse Breitenfeldt,Undirected,1
+Comtessen,Corfits Ulfeldt,Undirected,1
+Grev Breitenfeldt,ganfle,Undirected,1
+Breitenfeldt,Friis,Undirected,1
+Breitenfeldt,Glcedens,Undirected,1
+Beringfeldt,Timur Beg,Undirected,1
+Dandsen,Greven,Undirected,1
+Dandsen,Friis,Undirected,1
+Dands,Dandsen,Undirected,1
+Beringfeldt,Holger,Undirected,6
+Kudflens,Livree,Undirected,1
+Comtessen kjørte,Grev Breitenfeldt,Undirected,1
+Gud,sorn,Undirected,1
+"Anna,",Knud Beringfeldt,Undirected,1
+Holger,Madam Svendsen,Undirected,18
+Holger,hnn,Undirected,1
+Holger,tom Smiger,Undirected,1
+Beringfeldt,Madam Svendsen,Undirected,3
+Anna,Madam Svendsen,Undirected,7
+Holger,Svendsen,Undirected,1
+Anna,Holger,Undirected,19
+Anna,Ingemanns,Undirected,1
+Holger,Ingemanns,Undirected,1
+Knud,Madam Svendsen,Undirected,4
+Holger,Knud,Undirected,5
+Gud,Madam Svendsen,Undirected,2
+Frøken Anna,Holger Friis,Undirected,1
+Baronen,Madam Svendsen,Undirected,1
+Madam Svendsen,dein,Undirected,1
+Holm,hiin,Undirected,1
+Anna,Holm,Undirected,1
+Anna,næsfen,Undirected,1
+Holger,jusf,Undirected,2
+Ellen Brandt,Holger,Undirected,1
+Ellen,Ellen Brandt,Undirected,1
+Ellen,Holger,Undirected,29
+Anna svin,Holger,Undirected,2
+Brandt,Ellen,Undirected,3
+Dn,Ellen,Undirected,1
+Grev Breitenfeldt,Holger,Undirected,3
+Brandt,Holger,Undirected,3
+Brandt,Grev Breitenfeldt,Undirected,1
+Grev Breitenfeldt,sorenes,Undirected,1
+Ellen,Gud,Undirected,4
+Brandt,fleet,Undirected,1
+Holger,ban,Undirected,1
+Ellen,ban,Undirected,1
+Barons,Holger,Undirected,1
+Ellen,Monsieur Holger,Undirected,1
+Ellen,Madam Svendsen,Undirected,4
+Anna,Procurator Holm,Undirected,2
+Ellen,Procurator Holm,Undirected,1
+Arnsted,Breitenfeldt,Undirected,1
+Holger,Jomfru Brandt,Undirected,3
+Breitenfeldt,Holger,Undirected,1
+Comtessen,Lundsgaard,Undirected,2
+Lundsgaard,hiin,Undirected,1
+Jomfru Brandt,Madam Svendsen,Undirected,1
+Gud,Jomfru Brandt,Undirected,1
+Anna,Beringfeldt,Undirected,1
+Ellen,Friis,Undirected,1
+Holger,Hr. Spring,Undirected,2
+Erasmus Montanus,Hr. Spring,Undirected,1
+Erasmus Montanus,Steens,Undirected,1
+Jacob v. Thybo,Steen,Undirected,1
+Jacob v. Thybo,Knud,Undirected,1
+Anna,Knud,Undirected,3
+Anna,Ellen,Undirected,5
+Karen,Peder Hansens,Undirected,1
+Anna,lille Karen,Undirected,1
+Anna,Peder Hansen,Undirected,1
+Gud,lille Karen,Undirected,1
+Hr. Spring,lille Karen,Undirected,1
+Hr. Spring,Peder Hansen,Undirected,1
+Dodt,Frøken Anna,Undirected,1
+Frøken Anna,Knud Beringfeldf,Undirected,1
+Jøsses,Madam Svendsen,Undirected,1
+Jomfru Ellen,lille Karen,Undirected,1
+Holger,Jomfru Ellen,Undirected,1
+Lars Veiby,Procurator Holm,Undirected,1
+Gud,Knud,Undirected,1
+Diet,Ellen,Undirected,1
+Jomfru Ellen,Knud,Undirected,1
+Ellen,Napoleon,Undirected,1
+Holger,Ingling,Undirected,1
+Hagbarths,Holger,Undirected,1
+Hagbarths,Kong Sigers,Undirected,2
+Hagbarths,Signe,Undirected,1
+Kong Sigers,Signe,Undirected,1
+Freia,Kong Sigers,Undirected,1
+Freia,Zld,Undirected,1
+Holger,Holm,Undirected,2
+Holger,fluide,Undirected,1
+Ellen,Peder Hansen,Undirected,1
+Hedenolds,Madam Svendsen,Undirected,1
+Hedenolds,Peer Hansens,Undirected,1
+Griis,Peer Hansens,Undirected,1
+Griis,Procurator Holm,Undirected,1
+Breitenfeldt,Lundsgaard,Undirected,1
+Ieg,Madam Svendsen,Undirected,1
+Karls,Madam Svendsen,Undirected,1
+Holger,Karls,Undirected,1
+Anna,Holger Friis,Undirected,1
+Breitenfeldt,villie,Undirected,1
+Grev Breitenfeldt,Lehden,Undirected,1
+Comtesse Breiten,feldts,Undirected,1
+feldts,hnn,Undirected,1
+Comtesse Breitenfeldt,Ellen Brandt,Undirected,1
+Degnens,Ellen Brandt,Undirected,1
+Degnens,Holger Friis,Undirected,1
+Io,nn,Undirected,1
+Holger,nn,Undirected,1
+Hain,Holger,Undirected,2
+Holger,Jngemanns,Undirected,1
+Maane,Madam Svendsen,Undirected,1
+Comtesse Breitenfeldt,Madam Svendsen,Undirected,1
+Engels,Gud,Undirected,1
+Ellen,Holger Friis,Undirected,1
+Madam Svendsen,son,Undirected,1
+Lectier,Madam Svendsen,Undirected,2
+Holger,Peter,Undirected,1
+Friis,Leyden,Undirected,1
+Dn,Existents,Undirected,1
+Holger,Steen,Undirected,2
+Gud,Niels Matros,Undirected,1
+Søren Mathisens,"mi^,",Undirected,1
+Grev Breitenfeldt,Niels,Undirected,2
+Holger,Procurater Holm,Undirected,1
+Gud,Procurater Holm,Undirected,1
+Holm,Madam Svendsen,Undirected,1
+Holger,Procurator Holm,Undirected,1
+Brandt,Holm,Undirected,1
+Madam,Svendsen,Undirected,1
+Gud,Holm,Undirected,1
+-,Breiten,Undirected,1
+-,feldt,Undirected,1
+Dnsfe,Roes,Undirected,1
+Dnsfe,mare,Undirected,1
+Jeppe,mare,Undirected,1
+Beringfeldt,Jeppe,Undirected,1
+Baastrup,Gud,Undirected,1
+Baastrup,Holger,Undirected,1
+Anna,Gud,Undirected,2
+Ellen,Knud,Undirected,1
+Brandt,Ellen Anna,Undirected,1
+Brandt,Knnds,Undirected,1
+Brandt,Gud,Undirected,1
+Brandt,Madam Svendsen,Undirected,1
+Kammerraad Friis,Spring,Undirected,1
+Kammerraad Friis,s,Undirected,1
+Holger,s,Undirected,1
+Holger,Høgholm,Undirected,1
+Anna,Høgholm,Undirected,1
+Anna,Procuratorens,Undirected,1
+Anna,Niels Matros,Undirected,1
+Niels Matros,fin,Undirected,1
+Leyden,fin,Undirected,1
+Comtesse,Leyden,Undirected,1
+Breitenseldts,Comtesse,Undirected,1
+Breitenseldts,Greve,Undirected,1
+Greve,Holger,Undirected,1

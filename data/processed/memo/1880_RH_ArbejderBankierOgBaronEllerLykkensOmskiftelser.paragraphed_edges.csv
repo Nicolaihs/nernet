@@ -1,0 +1,294 @@
+source,target,type,weight
+Gud,Valdemar,Undirected,1
+Ellen Møller,Valdemar Svendsen,Undirected,4
+Valdemar,Valdemar Svendsen,Undirected,2
+Morten Sørensen,Peter Hansen,Undirected,1
+Peter Hansen,PeterHansen,Undirected,1
+Peter Hansen,Valdemar Svendsen,Undirected,5
+Peter Hansen,fun,Undirected,1
+Mathilde,Moses,Undirected,26
+Graad,Mathilde,Undirected,1
+Dn,Moses,Undirected,4
+Mathilde,Peter Hansen,Undirected,2
+Madam Hansen,sigi Ægteparret Karlsens,Undirected,1
+Madam Hansen,Mathilde,Undirected,2
+lille Mathildes,olev,Undirected,1
+Mathilde,olev,Undirected,1
+Mathilde,Thilde,Undirected,1
+Ida Eskildsen,Mathilde,Undirected,3
+Ida Eskildsen,as,Undirected,1
+Moses,gtignok,Undirected,1
+Moses,Olaf,Undirected,6
+Io,Moses,Undirected,1
+g,j,Undirected,1
+Leres,Moses,Undirected,1
+Leres,Mathilde,Undirected,1
+Mathilde,Moses Philipsen,Undirected,4
+Breret,Mathilde,Undirected,1
+Moses,Olaf Lindbergs,Undirected,1
+Assessor Lindbergs,Moses,Undirected,1
+Ida Eskildsen,Moses,Undirected,3
+Moses,Olaf Lindberg,Undirected,38
+Olaf Eskildsen,j,Undirected,1
+Ida,Moses,Undirected,3
+Bravo,Ida Estildsen,Undirected,1
+IdaEskildsen,Olaf Lindberg,Undirected,1
+Ida Eskildsen,Olaf Lindberg,Undirected,10
+Mathilde Hansen Galosche,Moses,Undirected,1
+Frøken Jensens,Mathilde Hansens,Undirected,1
+Hnn,Moses,Undirected,1
+Moses,Tilstaaclscn,Undirected,1
+Moses,lndcade,Undirected,1
+Mathilde Hansen,Moses,Undirected,11
+Moder,Moses,Undirected,1
+Mathilde Hansen,Moses Philipsen,Undirected,8
+Assessor Lindberg,Mathilde,Undirected,1
+Aaget,Moses,Undirected,1
+Hr. Clansen,Mathilde Hansen,Undirected,1
+Clausens,Mathilde Hansen,Undirected,1
+Frøken Eskildsen,Hr. Lindberg,Undirected,1
+Frøken Eskildscn,sandru,Undirected,1
+Assessor Lindberg,Olaf Lindberg,Undirected,1
+Ida Eskildsen,Mosesoen,Undirected,1
+Olaf Lindberg,Vicomte de Moutlieu,Undirected,1
+Hr. Clausen,Rentier Clausen,Undirected,1
+Mathilde,Rentier Clausen,Undirected,1
+Mathilde Hansen,Olaf Lindberg,Undirected,4
+Marquis de Montlien,Olaf Lindberg,Undirected,1
+Moses Philipscn,Rentier Clansen,Undirected,1
+Mathilde Hansen,Moses Philipscn,Undirected,1
+Mathilde Hausens,Rentier Clausen,Undirected,1
+-kMosts,Mathilde Hansen,Undirected,1
+Jomfru Mathilde Hansen,Moses,Undirected,1
+Clausen,Mathilde Hansen,Undirected,1
+Ester,Mathilde Hansen,Undirected,1
+Ester,Mathilde,Undirected,1
+Hr. Clansen,ban,Undirected,1
+Moses Philipsen,sonsi,Undirected,1
+Rentier Clansen,sonsi,Undirected,1
+Olaf Lindberg,Rentier Clansen,Undirected,1
+Hr. Clansen,Manthilde Hansens,Undirected,1
+-Moses,hau,Undirected,1
+Lindberg,Moses,Undirected,3
+Moses,Moses Philipsen,Undirected,4
+Ester,Moses,Undirected,4
+Moses,hnn,Undirected,2
+Moses,Mvnd,Undirected,1
+Moses,jæg,Undirected,1
+Moses,Olaf Lindberg maalte,Undirected,1
+Hr. Philipsen,jæg,Undirected,1
+Moses Philipsen,Olaf Lindberg,Undirected,9
+Laps,Olast Lindberg,Undirected,1
+Olast Lindberg,nn,Undirected,1
+Moses,Olaf Lindbcrg,Undirected,1
+Hr. Lindberg,Øe,Undirected,1
+Moses,s,Undirected,1
+Hr. Lindberg,Moses,Undirected,2
+Olaf Lindberg,ester,Undirected,1
+Don Juans,Olaf Lindberg,Undirected,1
+Don Juans,Moses,Undirected,1
+Fiakre,Moses,Undirected,1
+,Moses,Undirected,17
+Moses,Paany polidsk,Undirected,1
+Hr. Clausen,Mathilde Hansen,Undirected,1
+Hr. Clausen,hnn,Undirected,2
+Mathilde Hansen,hnn,Undirected,1
+Hnn,hnn,Undirected,2
+Mathilde,Olaf Lindberg,Undirected,7
+Mathilde,hnn,Undirected,2
+Madame Frosarts,Olaf Lindberg,Undirected,1
+Madame Frossart,Moses,Undirected,8
+Madame FrossartS,Olaf Lindbcrg,Undirected,1
+,Olaf Lindberg,Undirected,1
+Madame Frossart,Olaf Lindberg,Undirected,2
+Laps,Moses,Undirected,1
+Moses,Rentier Han-,Undirected,1
+Madam Frossart,Moses,Undirected,1
+Madame Frossart,Øe,Undirected,1
+Maranis,äs,Undirected,1
+Hr. Lindberg,äs,Undirected,1
+Mathilde Hansen,j,Undirected,1
+Madame Frossart,Mathilde,Undirected,5
+Mathilde,Moulin,Undirected,1
+Mathilde Hansen,as,Undirected,1
+Mathilde,Skylla,Undirected,1
+Hr. Moulin,Olaf Lindberg,Undirected,1
+Madame Gavarni,Mathilde Hansen,Undirected,1
+Mathilde,Mathilde Hansen,Undirected,1
+Mathilde,Muhamed,Undirected,1
+Madam Gavarni,Mathilde,Undirected,2
+Madame Gavarni,kil,Undirected,1
+Mathilde,kil,Undirected,1
+Madame Gavarni,Mathilde,Undirected,1
+Madam Gavarni,Mathilde Hansen,Undirected,1
+Attraa,nn,Undirected,1
+Attraa,Mathilde,Undirected,1
+Moses,stig,Undirected,1
+Madame Frosi,Madame Frossart,Undirected,1
+Marquis,Moses,Undirected,1
+Moses,mørknes,Undirected,1
+Mathilde Moses,Paany,Undirected,1
+Marquis äs Montlieu,Moses,Undirected,1
+Gavarni,Marquis äs Montlieu,Undirected,1
+Heras,Moses,Undirected,1
+Mar.,Mathilde Hansen,Undirected,1
+Mar.,quis,Undirected,1
+Marquis,äs,Undirected,1
+Baron Rosenskjold,Grev Læssø,Undirected,1
+Baron Rosenskjold,Baron Ørn,Undirected,3
+Greve,Øe,Undirected,1
+Greve,Rosenskjold,Undirected,1
+galerc,Ørn,Undirected,1
+Rosenskjold,galerc,Undirected,1
+Hr. Philipsen,Rosenskjold,Undirected,1
+Philipsen,Øe,Undirected,1
+Læssø,Philipsen,Undirected,1
+Philipsen,von Philipson,Undirected,1
+Grev Læssø,Moses,Undirected,4
+Moses,Rosenskjold,Undirected,1
+Rosenskjold,Ørn,Undirected,2
+Grev Læssø,Ørn,Undirected,1
+Grev Læssø,hnn,Undirected,1
+Baron Ørn,Rssenskjold,Undirected,1
+Baron Ørn,Moses,Undirected,1
+Kronprinsen,Moses,Undirected,1
+Frederik,Grev Læssø,Undirected,1
+Grev Læssø,Rosenskjold,Undirected,2
+Effer,Moses,Undirected,1
+Læssø,Moses,Undirected,1
+Læssø,Philipson,Undirected,1
+Greve,Moses,Undirected,1
+Don Juan,Laps,Undirected,1
+Don Juan,Olaf Lindberg,Undirected,2
+,Eskildsen,Undirected,1
+Ida Eskildsen,Kronprins Frederiks,Undirected,1
+Kronprins Frederik,Olaf,Undirected,1
+Pe,paany,Undirected,1
+ban,rasfe,Undirected,1
+Gud,Olaf,Undirected,1
+Frøken Eskildsen,Olaf Lindberg,Undirected,2
+Eskildsen,Olaf Lindberg,Undirected,1
+EvropaS,Poliusky,Undirected,1
+Moses Philipsen,Nathan,Undirected,3
+Polinflys,ester,Undirected,1
+Moses,Nathan,Undirected,3
+Lohn,Ru-,Undirected,1
+Lohn,Mayer,Undirected,1
+Mayer,Nathan,Undirected,1
+Moses,Philipsen,Undirected,4
+Olaf Lindberg,tom,Undirected,1
+Frederik,Hr. Lindberg,Undirected,1
+Knud,detHan,Undirected,1
+Frøken Eskildsen,Knud,Undirected,2
+Moses,paany,Undirected,1
+Knud,Moses,Undirected,3
+Knud,Mathilde,Undirected,4
+Ia,Mathilde,Undirected,1
+Knud Eriksen,Mathilde,Undirected,2
+Knud Eriksen,Moses Philipsen,Undirected,1
+Antonius,Bresche,Undirected,1
+Frederik,Moses,Undirected,1
+Gud,Moses,Undirected,1
+Gud,Knud,Undirected,1
+Frederik den Syvende,Moses Philipsen,Undirected,1
+' Xntin,Mik,Undirected,1
+Moses Philipsen,Vernon,Undirected,3
+Inlcs Vernon,Moses Philipsen,Undirected,1
+Polinskys,Øe,Undirected,1
+Monsieur Philipsen,Moses Philipsen,Undirected,1
+Moses,Vernon,Undirected,6
+Hr. Philipsen,j,Undirected,1
+Moses,j,Undirected,1
+Moses Philipsen,Oluf Lindberg,Undirected,1
+Monsieur,Øe,Undirected,1
+Hr. Vernon,Øe,Undirected,1
+Hr. Vernon,Moses Philipsen,Undirected,1
+Olaf Lindberg,Vernon Smykket,Undirected,1
+Moses,oppebi,Undirected,1
+Excellence,Moses,Undirected,1
+Ester,Moses Philipsen,Undirected,1
+hans Hs,plud-l,Undirected,1
+Mona,Moses,Undirected,1
+Mona,ken,Undirected,1
+Eivilkassc,Moses Philipsen,Undirected,2
+Hr. Lindberg,Vernon,Undirected,1
+Moses,fasf,Undirected,1
+Olaf Lindberg,fasf,Undirected,1
+Moses Philipsen,OlafLindberg,Undirected,1
+Moses Philipsen,Olaf Lindbcrg,Undirected,1
+Lindberg,Vernon,Undirected,1
+Assessor Lindberg,hvi,Undirected,1
+Bartaglia“,Moses Philipsen,Undirected,1
+Eriksen,Moses,Undirected,4
+Eriksen,Mathilde,Undirected,2
+Eriksen,Frøken Eskildsen,Undirected,1
+Eriksen fog,Moses,Undirected,1
+Assessor ' Lindberg,Manhe,Undirected,1
+Assessor Lindberg,Moses,Undirected,1
+Moses,sif,Undirected,1
+Eriksen,Olaf Lindberg,Undirected,1
+Eriksen,el,Undirected,1
+Eriksen,mim,Undirected,1
+Moses,mim,Undirected,1
+Moses,hil,Undirected,1
+Olaf Zmdberg,hil,Undirected,1
+,Assessor Lindberg,Undirected,1
+,hnn,Undirected,1
+Lindberg,hans Aare,Undirected,1
+Moses,enGlol,Undirected,1
+Assessor,enGlol,Undirected,1
+Ellen Møller,Valdemar Svensens,Undirected,1
+Valdemar,dam,Undirected,1
+Gudbevares,Hr. Mortensen,Undirected,1
+Bartaglia,Rentier,Undirected,1
+Hr. Mortensen,Ln,Undirected,1
+Eskildsen,Funtus,Undirected,1
+Funtus,Kong Frederik den Syvende,Undirected,1
+Kommissionær Mortensen,Rentier Øxenskjøld,Undirected,1
+Hnn,Sara Nathansen,Undirected,1
+Sara Nathansen,nn,Undirected,1
+Bartaglia,Ulrikka Jørgensen,Undirected,1
+Mindsf,Ulrikka,Undirected,1
+Frøken Eskildsen misto,deim pitnl,Undirected,1
+Javisf,Lindberg,Undirected,1
+Hr. Mortensen,Lindberg,Undirected,1
+Baron Bartaglias,Kommissionær Mortensen,Undirected,1
+Madam Jensen,Ulrikka Jørgensen,Undirected,3
+Madam Jensen,hnn,Undirected,1
+Bartaglia,Madam Jensen,Undirected,1
+Gud,Madam Iensen,Undirected,1
+Gud,Jørgensen,Undirected,1
+Jørgensen,Madam Jensen,Undirected,1
+Ester,Madam Jensen sigNogle,Undirected,1
+Madam Jensen,sonst,Undirected,1
+Bartaglia,Jørgensen,Undirected,1
+Bartaglia,Moses Philipsen,Undirected,3
+Hnn,Madam Jensen,Undirected,1
+Jørgensen,hnn,Undirected,1
+Gud,Jærnbancr,Undirected,1
+Bartaglia,Ida Eskildsen,Undirected,6
+Madam,Øe,Undirected,1
+Mutter,dt,Undirected,1
+Ida Eskildsen,Madam Jensen,Undirected,4
+Ida Eskildsen,oni,Undirected,1
+Ida Eskildseu,Portnerkoncns,Undirected,1
+Madam,Øet,Undirected,1
+Bartaglia,Ulrikka,Undirected,1
+Moses,Tys,Undirected,1
+heude,Øe,Undirected,1
+Ida Eskildsen,Ulrikka Jørgensen,Undirected,1
+Baron Bartaglias,ester Baronens,Undirected,1
+Jørgensen,Madame Jensen,Undirected,1
+Ida Eskildsen,Jørgensen,Undirected,1
+Ida Eskildsen,Ulrskka Jørgensen,Undirected,1
+Bartaglia —,Moses Philipsen,Undirected,1
+Bartaglia,Olaf Lindberg,Undirected,1
+Bartaglia,Mathilde,Undirected,1
+Eriksen,Fatter,Undirected,1
+Mathilde Hansen,Peter Hansen,Undirected,1
+Bartaglia,Knud Eriksen,Undirected,1
+Eflildsen,Olaf Lindberg,Undirected,1
+Gud,Marie,Undirected,1
+Asten,Bartaglia,Undirected,1
+Mathilde Eriksen,Mathilde Hansen,Undirected,1
+Eriksen,Moses Philipsen,Undirected,1

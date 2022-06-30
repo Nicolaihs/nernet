@@ -1,0 +1,419 @@
+source,target,timestamp
+Alida,Merete,4
+Alida,Merete,6
+Femia,Marianne,7
+Femia,Marianne,7
+Arentz,Claes,9
+Arentz,Femia,9
+Alida,Arentz,12
+Arentz,Marianne,12
+Merete,Ney,21
+Alida,Marianne,28
+Marianne,Merete,33
+Femia,Merete,33
+Marianne,Merete,34
+Alida,Bunge,35
+Flan,Witte,39
+Flan,Peter,39
+Femia,Marianne,44
+Maren,Marianne,46
+Alida,ifjor,54
+Alida,Marianne,55
+Alida,Tante Ra,55
+Femia,Ra,58
+Alida,Ra,58
+Alida,Rafossen,58
+Arentz,Merete,59
+Arentz,Marianne,59
+Barbara,Marianne,59
+Jens Visergut,Marianne,61
+Alida,Jens Visergut,61
+Alida,Ra,61
+Jesses,Rødsi,62
+Alida,Marianne,64
+Alida,Merete,64
+Kvigstads,Marianne,65
+Bo,Eufemia,70
+Bo,Martin Haug,70
+Alida,Kvigstad,75
+Alida,Merete,77
+Alida,Merete,83
+Barbara,Merete,83
+Alida,Merete,84
+Alida,Randi,85
+Barbara,Merete,86
+Barbara,Torsten,90
+Randi,Torsten,90
+Karene,Randi,90
+Barbara,Karene,90
+Alida,Knut Raalien,91
+Femia,Marianne,92
+Femia,^Eu—femia,93
+Howard,Merete,94
+Marianne,Merete,94
+Barbara,Marianne,94
+Alida,Fiolinen,95
+Eufemia,Haydns,96
+Eufemia,Marianne,96
+Marianne,Schmidt,96
+Augustinusen,Schmidt,96
+Barbara,Merete,98
+Alida,Barbara,98
+Barbara,Merete,100
+Eufemia,Merete,100
+Eufemia,Marianne,100
+Marianne,Merete,101
+Marianne,Merete,102
+Aasen,Hyss—s,103
+Jomfru Marianne,Jomfru Merete,105
+Marianne,Merete,106
+Ole Nordsæthagen,Randi Budeies,110
+Randi Budeies,didind,110
+Alida,Marianne,111
+Anders Aarlid,Haug,113
+Haug,Randi,113
+Gudbjør,Hang,114
+Alida,Hang,114
+Gudbjør,Marianne,118
+Barbara,Flusets,119
+Eufemia,Liun,123
+Barbara,Rein,124
+Ajax,Barbara,126
+Barbara,Inger,127
+Barbara,Marianne,127
+Femia,Nankins,134
+Alida,Rein,135
+Alida,Henschien,135
+Jomfru Alidas,Kvigstad,136
+Marianne,Schmidt,137
+Augustinusen,Marianne,137
+Eufemia,Merete,144
+Marianne,lille Schmidt,145
+Ajax,Inger Stuepige,146
+Ajax,Rein,146
+Barbara,Rein,146
+Ajax,Barbara,146
+Ajax,Rein,149
+Claes,Rein,149
+Hys,hys,152
+Augustinusen,Schmidt,157
+Kvigstad,Schmidt,157
+Eufemia,Jomfru Marianne,158
+Barbara,Henschen,159
+Henschen,Merete,159
+Alida,Groth,160
+Figaro,Lars,162
+Lars,kjipen,163
+Figaro,Lars,166
+Eufemia,Rein,167
+Eufemia,Rein,170
+Eufemia,Merete,170
+Merete,Merete Orning,174
+Barbara,Merete,182
+Augustinusen,Marianne,183
+Marianne,Schmidt,187
+Augustinusen,Marianne,187
+Barbara,Merete,188
+Marianne,Merete,189
+Kaptejn Buchwaldts,Marianne,190
+Barbara,Henschen,192
+Alida,Lian,193
+Eufemia,Femia,194
+Femia,Merete,194
+Alida,Marianne,202
+Hys,hys,207
+Rein,hys,207
+Alida,Eufemia,220
+Eufemia,Kvigstad,220
+Kvigstad,lille Merete,220
+Tantes,lille Merete,220
+Frue,Rein,221
+Bie,Jomfru Bie,225
+Marianne,Oppen,228
+Bie,Marianne,231
+Marianne,Merete,232
+Alida,Merete,232
+Eufemia,kjed,233
+Nankins,kjed,233
+Kvigstad,Marianne,234
+Anders Sæter,Kvigstad,235
+Anders Sæter,Simonsen,235
+Simonsen,didopover,235
+Faster,Jomfru Bie,242
+Alida,Eufemia,247
+Thomas,lille Merete,256
+Bolette,Thomas,257
+Bolette,Figaro,257
+Ra,hans Viv,258
+Bolette,Ra,258
+Rafossen,Rein,262
+Augustinusen,Schmidt,269
+Kvigstad,Schmidt,269
+Marianne,Rein,271
+Fars,Marianne,271
+Marianne,Rein,278
+Anders Husmand,Barbara,279
+Anders Husmand,Lars,279
+Barbara,Eufemia,280
+Alida,Henschien,281
+Marianne,Rein,283
+Barbara,Marianne,285
+Augustinusen,Marianne,285
+Augustinusen,Schmidt,285
+Rein,Schmidt,285
+Alida,Kvigstad,286
+Jomfru Alida,Ra,288
+Merete,Rein,289
+Figaro,Lars,290
+Figaro,Rein,295
+Jomfru Merete,Rein,298
+Alida,Femia,300
+Femia,Marianne,300
+Barbara,Marianne,300
+Alida,Groth,302
+Ljaer,Senser,309
+Alida,Sankowitz,313
+Alida,Merete,313
+Inger,Merete,313
+Inger,Schmidt,313
+Augustinusen,Schmidt,313
+Augustinusen,Sankowitz,313
+Merete,Sankowitz,313
+Fiolinen,Merete,315
+Sankowitz,schrechlich,324
+Henschien,Rein,327
+Kvigstad,Tiur,328
+Jess,Kanske,329
+Christiane,Kanske,329
+Christiane,Jess,329
+Groth,Jess,329
+Groth,Rein,329
+Knippe,Rein,329
+Knippe,Merete,329
+Kvigstad,Schmidt,336
+Rein,Svarteper,337
+Marianne,Schmidt,341
+Augustinusen,Kvigstad,347
+Schmidt,keg,349
+Jomfru Marianne,keg,349
+Kalven,graad,351
+Kalven,Rein,351
+Marianne,Merete,353
+Augustinusen,Kvigstad,355
+Barbara,Inger,356
+Eufemia,Henschien,358
+Inger,Lars,369
+Alida,Inger,369
+Henschien,Rein —,370
+Alida,Marianne,372
+Marianne,Tante Ra,372
+Merete,Tante Ra,372
+Lars Gaardsgut,Paal,376
+Figaro,Lars Gaardsgut,376
+Figaro,Jess,376
+Groth,Jess,376
+Groth,Marianne,376
+Marianne,Merete,376
+Marianne,Merete,376
+Marianne,Schmidt,378
+Christiane,Figaro,379
+Christiane,Gjedde,379
+Gjedde,Jess,379
+Jess,Vert,381
+Christiane,Oberstens,386
+Anders,Randi,388
+Bjeldekua,Rødsi,390
+Brandroses,Rødsi,390
+Anders Fjøsmand,Jess,391
+Anders Fjøsmand,Randi,391
+Jesses,Rein,392
+Merete,blaaste,395
+Anders Fjøsmand,Randi,397
+Anders Fjøsmand,Rein,397
+Figaro,keg,398
+Henschien,Jess,400
+Eufemia,Jess,404
+Eufemia,Merete,404
+Barbara,Merete,404
+Alida,Barbara,404
+Alida,Groth,404
+Groth,Nergaard,404
+Anders,Kjøgem ester,410
+Alida,Groth,411
+Barbara,Henschien,413
+Henschien,Jess,413
+Christiane,Jess,413
+Christiane,Jess,413
+Alida,Kvigstad,414
+Merete,Nergaard,415
+Augustinusen,Marianne,416
+Augustinusen,Schmidt,416
+Nemesis,Rein,422
+Barbara,Hututu,427
+Barbara,Henschien,427
+Christiane,Jess,428
+Alida,Jomfru Merete,429
+Jomfru Merete,Rein,429
+Jomfru Lind,Teian,430
+Jomfru Lind,Kraft,430
+Kraft,Olivia Seierstedt,430
+Olivia,Olivia Seierstedt,430
+Jess,Marianne,435
+Christiane,Jess,435
+Christiane,Jomfru Bie,435
+Augustinusen,Jomfru Bie,435
+Augustinusen,Schmidt,435
+Gud,Schmidt,435
+Bie,Gud,435
+Barbara,Inger Stuepige,437
+Barbara,Merete,437
+Marianne,Thea Grønbeck,438
+Candidat Nergaard,Johanne Sommerfeldt,439
+Johanne Sommerfeldt,Rein,439
+Johanne,Merete,441
+Johanne,Merete,441
+Kvigstad,Schmidt,445
+Augustinusen,Schmidt,445
+Augustinusen,Rein,445
+Sankowitz,saas,446
+Kvigstad,Valeria Bornemann,447
+Alida,Valeria Bornemann,447
+Alida,Groth,447
+Groth,Karen,447
+Alida,Marianne,448
+Inger,Kaptein Buchwaldt,449
+Jula,Kaptein Buchwaldt,449
+Marianne,Rein,450
+Inger,Miss,456
+Haxthausens,Kaptejn Buchwaldt,460
+Johanne Sommerfeldt,Merete,461
+Alida,Groth,467
+Alida,Marianne,469
+Poppes,Sankowitz,472
+Fandango,Kehraus,474
+Christiane,Jess,475
+Christiane,Eufemia,475
+Groth,Marianne,476
+Alida,Groth,476
+Jomfru Bie,Marianne,478
+Marianne,Scholdagers,478
+Kaja Paus,Kjæresten,484
+Groth,Nergaard,489
+Nergaard,Robespierre,489
+Rinaldo Rinaldini,Robespierre,489
+Henschien,Schmidt,490
+Jess,Rein,491
+Groth,Marianne,493
+Alida,Marianne,493
+Alida,Sankowitz,493
+Jess,Sankowitz,494
+Christiane,Jess,495
+Merete,Rein,496
+Barbara,Merete,496
+Alida,Walter Scotts,500
+Alida,Oberon,502
+Alida,Kvigstad,510
+Christiane,Jess,513
+Christiane,Ra,513
+Christiane,Ra,513
+Jess,Marianne,516
+Groth,Marianne,518
+Gjedde,Jesses,520
+Graad,Lars,521
+Merete,Stakkars,524
+Henschien,Jomfru Barbara,527
+Henschien,Kvigstad,532
+Barbara,Henschien,535
+Alida,Barbara,538
+Barbara,Lars,539
+Marianne,Nergaard,540
+Eufemia,Nergaard,541
+Barbara,Henschien,543
+Barbara,Henschien,543
+Henschien,Rein,545
+Kvigstad,Rein,545
+Alida,Marianne,546
+Marianne,Merete,546
+Merete,Rein,548
+Rein,stakkars,549
+Jomfru Merete,Rein,551
+Merete,Olje,552
+Augustinusen,Schmidt,553
+Augustinusen,Henschien,553
+Marianne,Rein,557
+Alida,Merete,560
+Ajax,Rein,569
+Kong Salomo,Rein,569
+Barbara,Marianne,573
+Henschien,lille Barbara,574
+Henschien,Randi,574
+Randi,Sæters,574
+Borken,Henschien,575
+Merete,Rein,576
+Tante Ra,haanlo,579
+Pagina,henlaa,589
+Inger,Merete,592
+Merete,Rein,593
+Merete,Rein,596
+Henschien,Rein,596
+Bie,Tante Ra,597
+Adam,Eva,603
+Alida,Ra,605
+Alida,Groth,605
+Alida,Figaro,607
+Bravo Alida,Ra,609
+Bie,Thomas,610
+Thomas,s,610
+Bie,Thomas,618
+Alida,Ra,619
+Alida,akurat,620
+Alida,Bolette,620
+Bolette,Groth,620
+Faster,Thomas,623
+Kvigstad,Thomas,623
+Thomas,ajen ajen Dreng,627
+Kappen,Kvigstad,630
+MERETE,REIN,631
+Alida,Eufemia,632
+Alida,Rein,632
+Merete,Rein,632
+Jomfru Maria,Merete,636
+Merete,Rein,637
+Ra,Rafossen,641
+Merete,Rafossen,641
+Merete,Rein,641
+Merete,Rein,644
+Alida,Marianne,647
+Groth,Marianne,648
+Merete,Paus,652
+Barbara,Marianne,653
+Alida,Barbara,653
+Barbara,Marianne,654
+Merete,Rein,655
+Barbara,Eufemia,661
+Ra,Tine,662
+Merete,Ra,662
+Barbara,Merete,662
+Barbara,Rein,662
+Merete,Rein,663
+Alida,Sankowitz,674
+Barbara —,Rein,678
+Sankowitz,ifjor,679
+Figaro,ifjor,679
+Augustinusen,Schmidt,681
+Alida,ifjor,684
+Rein,ifjor,684
+Merete,Rein,684
+Merete,Rein,686
+Merete,Rein,693
+Jomfru Barbara,Marianne,697
+Merete,Rein,698
+Alida,Kvigstad,719
+Alida,Kvigstad,723
+Marianne,Merete,725
+Alida,Marianne,729
+Alida,Mama,729
+Bolette,Merete,730
+Alida,Merete,732
+Marianne,Merete,734
+Marianne,Merete,735

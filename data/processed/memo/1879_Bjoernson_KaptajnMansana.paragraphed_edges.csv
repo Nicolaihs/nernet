@@ -1,0 +1,80 @@
+source,target,type,weight
+Mansana,Pavens,Undirected,1
+Napoleon,Orsini,Undirected,6
+Napoleon,jusf,Undirected,1
+Orsini,jusf,Undirected,1
+Garibaldi,Mcends,Undirected,1
+Garibaldi,Mansana,Undirected,1
+Manfana,fil,Undirected,1
+Mansana,fil,Undirected,1
+Giuseppe Mansana,Mansana,Undirected,5
+,Væs,Undirected,1
+deur,hnn,Undirected,1
+Hnn,deur,Undirected,1
+Cither,Theresa Leaney,Undirected,1
+Mansana,Røsf,Undirected,1
+Therefa,Theresa,Undirected,1
+Corso,Graad,Undirected,1
+Graad,Gud,Undirected,1
+Gud,Kafe Garibaldi,Undirected,1
+Corso,Theresa Leaney,Undirected,1
+Corso,Corso den Kvæld,Undirected,1
+Kvcelden,Mansana,Undirected,1
+Mansana,Theresa,Undirected,3
+hank,sidsf,Undirected,1
+Hesf,Mansana,Undirected,1
+felv,onl,Undirected,1
+Amanda Brandini,Theresa,Undirected,1
+Luigi,Luigi Borghi,Undirected,2
+Giuseppe Mansana,Luigi Borghi,Undirected,1
+Giuseppe Mansana,Sardi,Undirected,3
+Luigi,Sardi,Undirected,1
+Luigi Borghi,fom,Undirected,1
+Brandini,Luigi Borghi,Undirected,3
+Amanda,Mansana,Undirected,8
+Amanda,Luigi,Undirected,11
+Luigi,Mansana,Undirected,12
+Amanda,Signore,Undirected,1
+Amanda,Giuseppe Mansana,Undirected,2
+Giuseppe Mansana,Leopards,Undirected,1
+Leopards,Luigi,Undirected,1
+Løjtnant Borghi,Mansana,Undirected,1
+Mansana,Sardi,Undirected,7
+Mansana,lcenge,Undirected,1
+Amanda,lcenge,Undirected,1
+Amanda,Lille Amanda,Undirected,1
+Amanda Brandini,Mansana,Undirected,1
+Amanda Brandini,Leaney,Undirected,1
+Manfana,Sardi,Undirected,1
+Borghi,Sardi,Undirected,3
+Amanda Brandini,Borghi,Undirected,1
+Major Sardi,Mansana,Undirected,2
+Leaney,Major Sardi,Undirected,2
+Amanda,Sardi,Undirected,1
+Giuseppe,Sardi,Undirected,1
+Cornelio,Mansana,Undirected,1
+Cornelio,Sardi,Undirected,1
+Leaney,Sardi,Undirected,1
+Luigi,grcenselpst,Undirected,1
+Mansana,grcenselpst,Undirected,1
+Luigi,rpd,Undirected,1
+Amanda,cedel,Undirected,3
+Amanda,Papa,Undirected,1
+Luigi,Papa,Undirected,1
+Graad,Mansana,Undirected,1
+Amanda,Brandini,Undirected,1
+Mansana,maasfe,Undirected,1
+Amanda,maasfe,Undirected,1
+Brandini,Dpren,Undirected,1
+Brandini,Mansana,Undirected,4
+B.,Mansana,Undirected,1
+Brandini,Nina Borghi,Undirected,2
+Brandini,Luigi,Undirected,5
+Brandini,Kaptejn Mansana,Undirected,1
+Mansana,flalv,Undirected,1
+Theresa,hnn,Undirected,2
+Mansana,jusl,Undirected,1
+Signore,jusl,Undirected,1
+Rcedsel,blaa,Undirected,1
+Luigi Borghi,Sardi,Undirected,1
+Mansana,Theresa Leaney,Undirected,1

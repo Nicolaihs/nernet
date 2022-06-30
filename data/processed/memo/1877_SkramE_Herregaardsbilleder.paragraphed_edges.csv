@@ -1,0 +1,143 @@
+source,target,type,weight
+Egede,Julie With,Undirected,1
+Krog,Lars,Undirected,1
+Julies,Lars,Undirected,1
+Emilie Vest,Julies,Undirected,1
+Emilie Vest,Julie,Undirected,1
+Julie,Krog,Undirected,83
+Krog,Løger,Undirected,2
+Egede,Krog,Undirected,8
+Egede,sif,Undirected,1
+Egeke,Krog,Undirected,1
+Egede,Emilie Vest,Undirected,1
+Emilie,Emilie Vest,Undirected,1
+Emilie,Soffi,Undirected,1
+Emilie,hnn,Undirected,4
+Baron Funck,hnn,Undirected,1
+Baron Funck,Funck,Undirected,1
+Emilie,Funck,Undirected,6
+Fnnck,Mariane,Undirected,3
+Emilie,Mariane,Undirected,2
+Emilie,Fnnck,Undirected,1
+Emilie,von,Undirected,2
+von,Østen,Undirected,1
+Julie,Østen,Undirected,1
+Egedc,Krog,Undirected,1
+Funck,Somelius,Undirected,1
+Emilie,Von Østen,Undirected,10
+Emilie,Julie,Undirected,19
+Emilie,Stuart Mills,Undirected,1
+Krog,Mariane,Undirected,4
+Julie,Mariane,Undirected,4
+Emilie,Krog,Undirected,25
+Krog,Roses,Undirected,2
+Egede,Julie,Undirected,5
+Egede,Emilie,Undirected,5
+Gud,Julie,Undirected,1
+Gud,Krog,Undirected,2
+Albu,hnn,Undirected,1
+Albu,Trine,Undirected,1
+Rasmus Væver,Trine,Undirected,1
+Karl,Trine,Undirected,1
+Karl,Rasmus,Undirected,1
+Emilie,Rasmus,Undirected,1
+Friherreinde Somelius,Krog,Undirected,1
+Friherreinde Somelius,Julie,Undirected,1
+Julie,Somelius,Undirected,1
+,Somelius,Undirected,1
+Krog,Somelius,Undirected,2
+Friherrcinden,Krog,Undirected,2
+Krog,Soffi,Undirected,4
+Krog,Minna Herbst,Undirected,1
+Hnn,Krog,Undirected,1
+Hnn,hnn,Undirected,1
+Krog,oni,Undirected,1
+Mamma,Villi,Undirected,2
+Funck,Krog,Undirected,3
+ester,sone,Undirected,1
+Krog,von Østen,Undirected,4
+Julie,Sofsi,Undirected,2
+Funck,Julie,Undirected,1
+Krog,sølgc,Undirected,1
+Julie,hnn,Undirected,1
+Julie,ifjor,Undirected,1
+Emilie,ester,Undirected,1
+Julie,ester,Undirected,1
+Emilie,Von,Undirected,2
+Emilie,von Østen,Undirected,8
+Von Østen,von Østen,Undirected,1
+Krog,von,Undirected,1
+Gud,hnn,Undirected,1
+Gud,Madame,Undirected,1
+Krog,Marie,Undirected,13
+Krog,Madame Valloe,Undirected,2
+Holger,Madame Valloe,Undirected,1
+Krog,Madame Vnllse,Undirected,1
+Krog,Madame Marie,Undirected,3
+Cendro Haar,Marie,Undirected,1
+Cendro Haar,olger,Undirected,1
+Emilie,von Osten,Undirected,9
+von,østen,Undirected,1
+Julie,von Østen,Undirected,2
+Julie,ester Emilie,Undirected,1
+Emilie,ester Emilie,Undirected,1
+ifjor,sorbl,Undirected,1
+Monsieur,ifjor,Undirected,1
+Kellner,Monsieur,Undirected,1
+Marie,Monsieur,Undirected,2
+Marie —,Monsieur,Undirected,1
+Marie —,mais,Undirected,1
+' olZor,mais,Undirected,1
+' olZor,mari,Undirected,1
+Julie,Marie,Undirected,8
+as,von Østen,Undirected,1
+Julie,as,Undirected,1
+Holger,Krog,Undirected,3
+Holger,Julie,Undirected,2
+Egede,von Østen,Undirected,1
+Julie,paany,Undirected,1
+Julie sfete,Krog,Undirected,2
+Krog,Von Østen,Undirected,1
+Emilie,Von Osten,Undirected,3
+franst Deputeret,von Osten,Undirected,2
+Dansfe,Emilie,Undirected,1
+Dansfe,von Osten,Undirected,1
+Julie,von Osten,Undirected,1
+Emilie,Somelius,Undirected,2
+Von Osten,von Osten,Undirected,1
+Ellen,Krog,Undirected,2
+Ellen,Julie,Undirected,2
+Madame Valloe,von Osten,Undirected,1
+Madame Vallsc,Von Osten,Undirected,1
+Madame,Madame Vallsc,Undirected,1
+Madame,Monsieur,Undirected,1
+Madame Vallse,Monsieur,Undirected,1
+Madame Vallse,von,Undirected,1
+Ostens,von,Undirected,1
+Emilie,Ostens,Undirected,1
+Emilie,Marie,Undirected,1
+Emilie,Madame Marie,Undirected,1
+Emilie,Madame,Undirected,1
+Krog,Madame,Undirected,1
+Krog,Madame Vallse,Undirected,2
+Emilie,Madame Vallse,Undirected,1
+Krog,von Osten,Undirected,1
+Marie,von Osten,Undirected,3
+Krog,hnn,Undirected,2
+Krog,Von Osten,Undirected,1
+Madame Vallse,Von,Undirected,1
+Osten,Von,Undirected,1
+Julie,Osten,Undirected,1
+Julie,Madame Vallse,Undirected,2
+Madame Vallse,Von Osten,Undirected,1
+Krog,Monsieur Vallse,Undirected,1
+Monsieur Vallse,Valloc,Undirected,1
+Gud,Holger,Undirected,1
+Julie,Vallse,Undirected,1
+Krog,Madame la Valloe,Undirected,1
+Ellen,Frue,Undirected,1
+Krog,hnn hasfig,Undirected,1
+Holger,Marie,Undirected,4
+Ellen,von Osten,Undirected,1
+Ellen,Julie Marie,Undirected,1
+Marie,Monsieur Valloe,Undirected,1

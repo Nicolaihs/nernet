@@ -1,0 +1,382 @@
+source,target,type,weight
+Henrik Gerhard,Ove Overgaard,Undirected,2
+Anna,Gerhard — Henrik Gerhard,Undirected,1
+Gerhard — Henrik Gerhard,Kirchhoff,Undirected,1
+Chr. Winther,Henrik Gerhard,Undirected,1
+Gerhard,Kirchhoff,Undirected,1
+Brynjulfsen,Kirchhoff,Undirected,1
+Brynjulfsen,Ulf Brynjulfsen,Undirected,2
+Gerhard,Overgaard,Undirected,32
+Grundtvig,Overgaard,Undirected,1
+Askov,Grundtvig,Undirected,1
+Askov,Bjørnsons,Undirected,1
+Brynjulfsen,Overgaard,Undirected,16
+Brynjulfsen,Gerhard,Undirected,39
+Henrik Gerhard,Skaal,Undirected,2
+Brynjulfsen,Henrik Gerhard,Undirected,1
+Gerhard,Nørager,Undirected,11
+Gerhard,Ulf,Undirected,54
+Bentzen,Henrik Gerhard,Undirected,1
+Bentzen,Gerhard,Undirected,1
+Brynjulfsen,Gud,Undirected,2
+Gud,Seid umschlungen,Undirected,1
+Nørager,Overgaard,Undirected,3
+Mercutio,Overgaard,Undirected,1
+Heibergs,Nørager,Undirected,1
+Overgaard,Ulf,Undirected,17
+Frøken Kirchhoff,Marine,Undirected,1
+Anna,Frøken Kirchhoff,Undirected,1
+Henrik Gerhard,Øhlenschlægers,Undirected,1
+Gerhard,H—,Undirected,1
+Gerhard,Kong Frederik den Sjette,Undirected,1
+Brynjulfsen,Kristiern,Undirected,1
+Gerhard,Kristian,Undirected,1
+Brynjulfsen,Gretchen,Undirected,1
+Gretchen,Heinrich Faust,Undirected,1
+Faustus,Overgaard,Undirected,1
+Gerhard dér,Overgaard,Undirected,1
+Gerhard,Naturel,Undirected,1
+Ove,Skaal,Undirected,2
+Josef Achlaitner,Zither,Undirected,1
+Gerhard,Zither,Undirected,1
+Tys,Ulf,Undirected,1
+Ove,jeo,Undirected,1
+Brynjulfsen,Faust,Undirected,1
+Overgaard,ganz kanibalisch wohl,Undirected,1
+Gerhard,paar,Undirected,1
+Dianas,livis,Undirected,1
+Frøken Edita Ravn,Overgaard,Undirected,1
+Sakuntala,Tornerose,Undirected,1
+Brynjulfsen,Edith,Undirected,5
+Hejda,Overgaard,Undirected,1
+Overgaard,—,Undirected,1
+Gerhard,Gibser,Undirected,1
+Gaader,Gerhard,Undirected,1
+Ove,Overgaard,Undirected,1
+Brynjulfsen,Ove,Undirected,1
+Gud,Overgaard,Undirected,2
+Junge,Schnabel,Undirected,1
+Aurora,Schnabel,Undirected,1
+Aurora,Aurora von,Undirected,1
+Aurora von,Kønigsmark,Undirected,1
+Såchse,wiirklich,Undirected,1
+Gerhard,Un poco infarinato,Undirected,1
+Apollo,Brynjulfsen,Undirected,1
+Apollo,Gud,Undirected,1
+Soubrette,wurklich,Undirected,1
+Brynjulfsen,Jessus,Undirected,1
+rabundus,schweige,Undirected,1
+mir ganz Wurst,rabundus,Undirected,1
+Brynjulfsen,Gerhard —,Undirected,2
+Gerhard,Gerhard —,Undirected,1
+Overgaard,Soubrette,Undirected,1
+Natalie,Soubrette,Undirected,1
+Edith,Natalie,Undirected,8
+Edith,Gerhard,Undirected,46
+Brynjulfsen,Czardas,Undirected,1
+Tschum,Ulf,Undirected,1
+Poco piu tardo,Tschum,Undirected,1
+Schmollens,Vater,Undirected,1
+Schmollens,Tys,Undirected,1
+Brynjulfsen,Ulf,Undirected,4
+Edith,Frøken Edith,Undirected,3
+Overgaard,Uigemaade,Undirected,1
+Frøken Edith,Overgaard,Undirected,1
+Brynjulfsen,Frøken Edith,Undirected,1
+Edith,Overgaard,Undirected,1
+Gerhard,v. Norden,Undirected,4
+Droscher,Overgaard,Undirected,1
+Droscher,Edith,Undirected,1
+Gud,Ulf,Undirected,2
+Halvvig,Philip Halvvig,Undirected,1
+Gerhard,Halvvig,Undirected,27
+Gerhard —,Juno,Undirected,1
+Gerhard,vigs,Undirected,1
+Gerhard,Ulf Brynjulfsen,Undirected,2
+Bohave,Halvvig,Undirected,1
+Gerhard,Hr. Halvvig,Undirected,4
+Apuleius,Psyche,Undirected,1
+Apuleius,Gerhard,Undirected,1
+Brynjulfsen,Halvvig,Undirected,1
+Mama,Papa,Undirected,6
+Geheime-,Papa,Undirected,1
+Geheime-,Gerhard,Undirected,1
+Mimi,cher,Undirected,1
+Marie,Mimi,Undirected,1
+Voyons,voyons,Undirected,1
+Brynjulfsen,voyons,Undirected,1
+Gerhard,Huni Brynjulfsen,Undirected,1
+Huni Brynjulfsen,Papa,Undirected,1
+Gerhard,Papa,Undirected,3
+Gunnar Brynjulfsen,K. D.,Undirected,1
+Gerhard,K. D.,Undirected,1
+Gerhard,ane,Undirected,1
+Alin kvindelige,Gerhard,Undirected,1
+Alin kvindelige,Cerberus,Undirected,1
+Henrik Gerhard,Scheidewassers,Undirected,1
+Gerhard,Scheidewassers,Undirected,1
+Gerhard,nomina sunt odiosa,Undirected,1
+Heine,Ulf,Undirected,1
+Nørager,Ulf,Undirected,4
+Gerhard,eg,Undirected,1
+Overgaard,eg,Undirected,1
+Henrik Gerhard,Ulf Brynjulfsen,Undirected,1
+Gerhard Brynjulfsen,Ulf Brynjulfsen,Undirected,1
+Papa,Ulf,Undirected,1
+Adam,Evas,Undirected,1
+Arne »,Gud,Undirected,1
+Annette Kirchhoff,Ulf,Undirected,2
+Annette,Ulf,Undirected,6
+Funch,Ulf Brynjulfsen,Undirected,1
+Funch,Hr. Gerhard,Undirected,1
+Annette Kirchhoff,Frøken Harriet Palm,Undirected,1
+Annette,Gerhard,Undirected,36
+Bachfisch,Ulf,Undirected,1
+Artium,Gud,Undirected,1
+Gud,Harriet,Undirected,1
+Annette,Harriet,Undirected,1
+Frøken Kirchhoff,Gerhard,Undirected,1
+Annette,ib,Undirected,1
+Annette,Frøken Kirchhoff,Undirected,1
+Annette,f. Ex,Undirected,1
+Mo,r,Undirected,1
+Alan,Gerhard,Undirected,1
+Gerhard,Knud,Undirected,1
+Annette Kirchhoff,Gerhard tilbords,Undirected,1
+Gerhard tilbords,Ulf,Undirected,1
+Funch,Ulf,Undirected,1
+Søren Kierkegaard,Ulf,Undirected,2
+Bentzen,Ulf,Undirected,2
+Alanden,Breschen,Undirected,1
+Alan,Breschen,Undirected,1
+Alan,Ulf,Undirected,1
+Bentzen,Frøken Palm,Undirected,1
+Alan,Kierkegaard,Undirected,1
+Gerhard,Kierkegaard,Undirected,1
+Annette Kirchhoff,cosi,Undirected,1
+Anna,Gerhard,Undirected,1
+Borgfruen,Brynjulfsen,Undirected,1
+Gerhard,dér kender,Undirected,1
+Brynjulfsen,Weiter,Undirected,1
+Annette,Gretchen,Undirected,1
+qui vient,travers les montagnes,Undirected,1
+me rendra fou,travers les montagnes,Undirected,1
+Gerhard,Lord Arthur,Undirected,1
+Heinrich,Lord Arthur,Undirected,1
+Brynjulfsen,Frøken Kirchhoff,Undirected,1
+Gerhard,Sufflør,Undirected,1
+Gemal,Henrik,Undirected,1
+Jomfru Scheidewasser,ivold,Undirected,1
+Gud,Henrik,Undirected,2
+Schopenhauer,Ulf,Undirected,1
+Gerhard,Schopenhauer,Undirected,1
+Gerhard,Ibsen,Undirected,1
+Mester Ibsen,Ulf,Undirected,1
+St. Paulus,Ulf,Undirected,1
+Gerhard,Paulus,Undirected,1
+Julie,Romeo,Undirected,2
+Gerhard,Heine,Undirected,1
+Heine,Wer zum ersten Male liebt,Undirected,1
+Edith,Ulf,Undirected,19
+Andiamo,Ulf,Undirected,1
+Gerhard,Henrik Gerhard,Undirected,1
+Frøken Edith,Ulf,Undirected,1
+Frøken Edith,Gerhard,Undirected,1
+Natalie,Ulf,Undirected,3
+Heine,Natalie,Undirected,1
+Holla,Ulf,Undirected,1
+Jansen,Ulf,Undirected,1
+Karl,Natalie,Undirected,1
+Gerhard,Karl,Undirected,1
+Gerhard,dér,Undirected,1
+Edith,dér,Undirected,1
+Gerhard,Natalie,Undirected,4
+Alen,Edith,Undirected,1
+Aurora,Gud,Undirected,1
+Edith,Gud,Undirected,3
+Edith,Ibsen,Undirected,1
+Adam,Eva,Undirected,1
+Eva,Sujet,Undirected,1
+Gerhard,Sujet,Undirected,1
+Natalie dér,Ulf,Undirected,1
+Addio,Signorinal,Undirected,1
+Edith,Signorinal,Undirected,1
+Th. Moore,Ulf,Undirected,1
+Luthers,Ulf,Undirected,1
+Ulf Brynjulfsen,jeS,Undirected,1
+Bronce,Gerhard,Undirected,1
+Eriksen,Gerhard,Undirected,1
+Gerhard,Hr. Eriksen,Undirected,1
+Gerhard,Gerhard fornam,Undirected,2
+Carit Etlars,Gerhard fornam,Undirected,1
+Carit Etlars,Gerhard,Undirected,1
+Frk. Kirchhoff,Gerhard,Undirected,1
+Anna,Annette,Undirected,1
+Annette,Henrik,Undirected,2
+Annette,Graad,Undirected,1
+Gerhard,Graad,Undirected,1
+Funch,Gerhard,Undirected,1
+Annette,Gerhard erklærede,Undirected,1
+Annette,Gerhard —,Undirected,2
+Gerhard —,ikkesandt,Undirected,1
+Anna,ikkesandt,Undirected,1
+Anna Funch,Gerhard,Undirected,6
+Annette,Papa,Undirected,2
+Evropas,d,Undirected,1
+conseiller d,d,Undirected,1
+Brynjulfsen,conseiller d,Undirected,1
+Aare,Brynjulfsen,Undirected,1
+Annette,Faders,Undirected,1
+Faders,Gerhard,Undirected,1
+Angelica,Angelical,Undirected,1
+Annette,Svigerpapa,Undirected,1
+Annette,Brynjulfsen,Undirected,2
+Frederik —,Gerhard,Undirected,1
+Frederik,Frederik —,Undirected,1
+Frederik,Gerhard,Undirected,1
+Gerhard,Norden,Undirected,1
+Annette,Mama,Undirected,6
+Annette,Nærøe,Undirected,4
+Beaune,Gerhard,Undirected,1
+Beaune,merci,Undirected,1
+Gerhard,merci,Undirected,1
+Frue,Gerhard,Undirected,1
+Annette,Frue,Undirected,1
+Frøken Alma,Throne,Undirected,1
+Annette,Frøken Alma,Undirected,1
+Gerhard,Mama,Undirected,1
+Almanach de Gotha,Gerhard,Undirected,1
+Mama,junge,Undirected,1
+Alma,Annette,Undirected,2
+Annette saa,Gerhard,Undirected,1
+Henrik,Papa,Undirected,1
+Annette,Annette Kirchhoff,Undirected,1
+Annette Gerhard,Annette Kirchhoff,Undirected,1
+Annette,Madame,Undirected,1
+Madame,våtre maitresse,Undirected,1
+Schopenhauer,Ulf B.,Undirected,1
+Catull,Ovid,Undirected,3
+Augen,Goethe,Undirected,1
+Goethe,Shakespeare,Undirected,1
+Robert Burns,Shakespeare,Undirected,1
+Alfred de Musset,Robert Burns,Undirected,1
+Alfred de Musset,Byron,Undirected,1
+Byron,"Heine,",Undirected,1
+Elisabeths,William S.,Undirected,1
+Musas,Romeo,Undirected,1
+Faust,Julie,Undirected,1
+Faust,Margretes,Undirected,1
+Don Juan,Margretes,Undirected,1
+Don Juan,Haidies,Undirected,1
+Tolstojs,Turgenjews,Undirected,1
+Gud,j Edith,Undirected,1
+Jor’,moer,Undirected,1
+Edith,ifjor,Undirected,2
+H,Ulf,Undirected,1
+Edith,J,Undirected,1
+J,le bon vin,Undirected,1
+Edith,Philip Halvvig,Undirected,1
+Lieutenant v.,Nærøe,Undirected,2
+Alma,Nærøe,Undirected,1
+Anna Funch,Annette,Undirected,1
+Gerhard,Henrik,Undirected,1
+Frisch auf,Henrik Gerhard,Undirected,1
+Gerhard,gauche,Undirected,1
+Byron,gauche,Undirected,1
+Gerhard,Nærøe,Undirected,3
+H,L’,Undirected,1
+Gerhard,Theori,Undirected,1
+Annette,Edith,Undirected,3
+Mama,Ulf,Undirected,1
+Heiberg,Hertz,Undirected,1
+Hertz,Hostrup,Undirected,1
+.Annette,v. Norden,Undirected,1
+.Annette,Nærøe,Undirected,1
+Gerhard,Ludvig »,Undirected,1
+Brynjulfsen,Ludvig,Undirected,1
+Frøken Alma,Pastor Nærøes,Undirected,1
+Gerhard,Ludvig,Undirected,6
+Gunnar,Ludvig,Undirected,1
+Chåteau Yquem,Ludvig,Undirected,2
+Ludvig,Ulf,Undirected,1
+Gerhard,Ulf —,Undirected,2
+Annette,Ludvig,Undirected,1
+Ludvig,Shakspeare,Undirected,1
+Macbeth,Shakspeare,Undirected,1
+Banquos,Macbeth,Undirected,2
+Gerhard fo,Ulf,Undirected,1
+Gerhard,Moustache,Undirected,1
+Annette —,Edith,Undirected,1
+Elysiums,Gerhard,Undirected,2
+Banquos,Ulf,Undirected,1
+Edith,Gige,Undirected,1
+Gerhard,Karoline,Undirected,1
+Gerhard betvang,Karoline,Undirected,1
+Gerhard,—,Undirected,2
+Anna Kjærskov,—,Undirected,1
+Achlaitner,Frøken Kjærskov,Undirected,1
+Gerhard,Lind,Undirected,2
+Faust,Ulf,Undirected,1
+Edith,Faust,Undirected,1
+Henrik Gerhard,Ulf,Undirected,1
+Edith,Edith Primadonna,Undirected,1
+Frederik den Sjette,Ulf,Undirected,1
+Frederik den,Ulf,Undirected,1
+Edith,das,Undirected,1
+Lind,das,Undirected,1
+Gerhard fornam,dm,Undirected,1
+Spencer,mieux,Undirected,1
+Gerhard,mieux,Undirected,1
+Brosche,Edith,Undirected,1
+Hr. Achlaitner,Kognac,Undirected,1
+Edith,Zitheren,Undirected,1
+Achlaitner,Gerhard,Undirected,4
+Achlaitner,Vaterlands,Undirected,1
+Carl Maria von Weber,Mozart,Undirected,1
+Mozart,Weber,Undirected,1
+Schumann,Weber,Undirected,1
+Chopin,Gerhard,Undirected,1
+Chopin,Edith,Undirected,2
+Chopin,Josef Achlaitner,Undirected,1
+Josef Achlaitner,ein,Undirected,1
+ein,schüchternes,Undirected,1
+Gerhard,Zithrens,Undirected,1
+Graad,Zither,Undirected,1
+Hanne,Physikus Gerhards,Undirected,1
+Gerhard,l’,Undirected,2
+Gerhard,Hanne,Undirected,1
+Gerhard,skraa,Undirected,1
+allenfals,skraa,Undirected,1
+Bentzen,Overgaard,Undirected,1
+Overgaard,Sapienti,Undirected,1
+Ibsen,Overgaard,Undirected,1
+Henrik Gerhard,Nørager,Undirected,1
+Edith,Nørager,Undirected,1
+Gerhard,Gud,Undirected,1
+Anna Funch,Fru Halvvig,Undirected,1
+Annette,Fru Halvvig,Undirected,1
+Annette,Gud,Undirected,1
+Ulf,Zigeuner,Undirected,1
+Gerhard,Zigeuner,Undirected,1
+Gerhard,Gerhard saa,Undirected,1
+Gerhard,Hagen,Undirected,1
+Gerhard,Philip Halvvig,Undirected,1
+Edith,Halvvig,Undirected,2
+Gud,véd,Undirected,2
+Gerhard,véd,Undirected,1
+Halvvig,calculere,Undirected,1
+Anna Funch,Mimose,Undirected,1
+Anna Funch,Edith,Undirected,2
+Gerhard,Vaas,Undirected,1
+Alin,Edith,Undirected,1
+Café,chantantens,Undirected,1
+Gerhard,Søren,Undirected,5
+Fidelio,Gerhard,Undirected,1
+Edith,Gerhard dér,Undirected,1
+Gerhard,paany,Undirected,1
+Ulf,paany,Undirected,1
+Elysiums,Maanelys,Undirected,1
+Bellmans,Gerhard,Undirected,1
+Bellmans,bellmansk,Undirected,1
+Edith,Houris,Undirected,1
+Braad,Gerhard,Undirected,1
