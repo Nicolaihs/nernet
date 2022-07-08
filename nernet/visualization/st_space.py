@@ -27,58 +27,73 @@ def load_model(filename):
         del full_model
     return model
 
-def lookup_sims(word, min_similarity=0.6):
+def lookup_sims(model, word, min_similarity=0.6):
     """"""
     if '+' in word:
-        words = [model_wv[single.strip()] for single in word.split('+')]
+        words = [model[single.strip()] for single in word.split('+')]
         word = sum(words)
     else:
         word = word.strip()
-    sims = model_wv.most_similar(word, topn=300)
+    sims = model.most_similar(word, topn=300)
     sims = [(sim, score) for sim, score in sims if score >= min_similarity]
     return sims
 
 
-def distance(word, target):
+def distance(model, word, target):
     if '+' in target:
-        targets = [model_wv[single.strip()] for single in target.split('+')]
+        targets = [model[single.strip()] for single in target.split('+')]
         target = sum(targets)
 
-        most_similar = model_wv.most_similar(positive=[target,], topn=1)
-        dist = model_wv.distance(word, most_similar[0][0])
+        most_similar = model.most_similar(positive=[target,], topn=1)
+        dist = model.distance(word, most_similar[0][0])
     else:
-        dist = model_wv.distance(word, target)
+        dist = model.distance(word, target)
     return dist
 
 
-def calculate_schmidt_score(sims, x_left, x_right, y_down, y_up):
-    x_vector = model_wv[x_left] - model_wv[x_right]
-    y_vector = model_wv[y_down] - model_wv[y_up]
+def calculate_schmidt_score(model, sims, x_left, x_right, y_down, y_up):
+    x_vector = model[x_left] - model[x_right]
+    y_vector = model[y_down] - model[y_up]
 
-    words = [sim for sim, _score in sims]
-    distance_to_x_vec = model_wv.distances(x_vector, words)
-    distance_to_y_vec = model_wv.distances(y_vector, words)
+    existing_sims = []
+    nonexisting_sims = []
+    for sim, score in sims:
+        if not model.key_to_index.get(sim):
+            nonexisting_sims.append((sim, score))
+        else:
+            existing_sims.append((sim, score))
+
+    words = [sim for sim, _score in existing_sims]
+    distance_to_x_vec = model.distances(x_vector, words)
+    distance_to_y_vec = model.distances(y_vector, words)
 
     df_schmidt = pd.DataFrame(words, columns=['word'])
     df_schmidt['x'] = distance_to_x_vec
     df_schmidt['y'] = distance_to_y_vec
 
-    return df_schmidt
+    return df_schmidt, pd.DataFrame(nonexisting_sims, columns=['word', 'score'])
 
 
-def calculate_distance_scores(sims, x_left, x_right, y_down, y_up):
+def calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up):
 
-    df_sims = pd.DataFrame(sims, columns=['word', 'score'])
-
+    existing_sims = []
+    nonexisting_sims = []
     x_values, y_values = [], []
-    for sim, _score in sims:
-        left_val = distance(sim, x_left)
-        right_val = model_wv.distance(sim, x_right)
+    for sim, score in sims:
+        if not model.key_to_index.get(sim):
+            nonexisting_sims.append((sim, score))
+            continue
+        left_val = model.distance(sim, x_left)
+        right_val = model.distance(sim, x_right)
         x_values.append((left_val, right_val, left_val-right_val))
 
-        down_val = model_wv.distance(sim, y_down)
-        up_val = model_wv.distance(sim, y_up)
+        down_val = model.distance(sim, y_down)
+        up_val = model.distance(sim, y_up)
         y_values.append((down_val, up_val, down_val-up_val))
+        existing_sims.append((sim, score))
+
+    df_sims = pd.DataFrame(existing_sims, columns=['word', 'score'])
+    df_nonexisting_sims = pd.DataFrame(nonexisting_sims, columns=['word', 'score'])
 
     x_array = np.array([x[2] for x in x_values])
     y_array = np.array([y[2] for y in y_values])
@@ -87,29 +102,56 @@ def calculate_distance_scores(sims, x_left, x_right, y_down, y_up):
 
     df_sims['x'] = norm_x[0]
     df_sims['y'] = norm_y[0]
-    return df_sims
+    return df_sims, df_nonexisting_sims
+
+
+def draw_diagram(model, sims, measure, x_left, x_right, y_down, y_up):
+    if measure == 'Distance score':
+        df_graph, df_skipped = calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up)
+    else:
+        df_graph, df_skipped = calculate_schmidt_score(model, sims, x_left, x_right, y_down, y_up)
+
+    fig = px.scatter(df_graph, x="x", y="y", text="word",
+                     labels={'x': f'{x_left} <-----> {x_right}',
+                             'y': f'{y_down} <--------> {y_up}'}) #, log_x=True, size_max=60)
+    fig.update_layout(
+        title=f'Show 2-dim vector space for words similar to "{input_seed}"'
+    )
+    st.plotly_chart(fig)
+
+    return df_skipped
+
 
 
 st.title('MeMo in Space!')
-st.subheader('Based on work by Peter Leonard, based on work by Ben Schmidt')
+st.caption('Based on work by Peter Leonard, based on work by Ben Schmidt')
 
 with st.sidebar:
-    model_files = [{'name': 'Memo, 200 features, using R (Peter Leonard)',
-      'filename': 'memo_vectors.bin'},
-      {'name': 'Memo, 500 features, using gensim',
-      'filename': 'memo_m5_f500_epoch10_w10.model.w2v.bin'},
-      {'name': 'Memo, 500 features, with bigrams, using gensim',
-      'filename': 'memo_m3_f500_epoch10_w10_bigram.model.w2v.bin'},
-      {'name': 'Modern Danish, 500 features, using gensim (DSL)',
-      'filename': '/Users/nhs/Arkiv/korpus/models/dsl_500.model'}
-      ]
-    select_model = st.selectbox('Select word embeddings', [row['name'] for row in model_files])
-    if select_model:
-        selected = [row['filename'] for row in model_files if row['name'] == select_model][0]
-        model_wv = load_model(selected)
+    df_models = pd.read_csv(os.path.join(model_path, 'space_embeddings.csv'), delimiter=";")
+    select_model = st.selectbox('Select word embeddings', df_models['name'])
 
+    if select_model:
+        selected_filepath = df_models.loc[df_models['name']==select_model, 'filepath'].tolist()[0]
+        model_wv = load_model(selected_filepath)
+
+    input_seed = st.text_input('Seed word or words').strip()
+    st.caption('Input one or more words to investigate. \n Use + to combine words into a single vector.\nUse , to enter multiple words.\nE.g.: "mand+dreng,kvinde+pige"')
+
+    st.markdown('---')
+    expand_with_sims = st.checkbox('Expand with sims', False)
     min_sim = st.slider('Min. similarity', 0.1, 0.9, 0.6)
-    input_seed = st.text_input('Seed word').strip()
+
+    st.markdown('---')
+    compare = st.checkbox('Compare with other model?', False)
+    if compare:
+        select_comparison = st.selectbox('Select comparison model', df_models[df_models.name != select_model]['name'])
+        if select_comparison:
+            comparison_filepath = df_models.loc[df_models.name==select_comparison, 'filepath'].tolist()[0]
+            compare_wv = load_model(comparison_filepath)
+    else:
+        compare_wv = None
+    st.markdown('---')
+
     tops = st.columns(3)
     middle = st.columns(3)
     bottom = st.columns(3)
@@ -127,7 +169,8 @@ if input_seed and x_left and x_right and y_up and y_down:
         for self_seed in seed.split('+'):
             if self_seed not in [sim for sim, _score in sims]:
                 sims.append((self_seed, 1.0))
-        sims += lookup_sims(seed, min_similarity=min_sim)
+        if expand_with_sims:
+            sims += lookup_sims(model_wv, seed, min_similarity=min_sim)
 
     if include_axis_words:
         axis_words = x_left.split('+') + x_right.split('+') + y_down.split('+') + y_up.split('+')
@@ -135,22 +178,22 @@ if input_seed and x_left and x_right and y_up and y_down:
             if word not in [sim for sim, _score in sims]:
                 sims.append((word, 0.0))
 
+    st.metric('Number of selected words', len(sims))
+
     if st.checkbox('show words'):
         st.dataframe(pd.DataFrame(sims, columns=['Word', 'Similarity']))
 
     measure = st.selectbox('Use formula', ['Distance score', 'Ben Schmidt\'s original score'])
-    if measure == 'Distance score':
-        df_graph = calculate_distance_scores(sims, x_left, x_right, y_down, y_up)
-    else:
-        df_graph = calculate_schmidt_score(sims, x_left, x_right, y_down, y_up)
 
-    fig = px.scatter(df_graph, x="x", y="y", text="word",
-                     labels={'x': f'{x_left} <-----> {x_right}',
-                             'y': f'{y_down} <--------> {y_up}'}) #, log_x=True, size_max=60)
-    fig.update_layout(
-        title=f'Show 2-dim vector space for words similar to "{input_seed}"'
-    )
-    st.plotly_chart(fig)
+    df_skipped = draw_diagram(model_wv, sims, measure, x_left, x_right, y_down, y_up)
+
+    if compare_wv:
+        st.header('Comparison')
+        st.write(f'{select_comparison}')
+        df_skipped = draw_diagram(compare_wv, sims, measure, x_left, x_right, y_down, y_up)
+        if len(df_skipped) > 0:
+            st.markdown('The following words were not found in comparison model')
+            st.dataframe(df_skipped)
 
 else:
     st.image('memo_space1.png')
