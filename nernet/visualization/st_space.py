@@ -3,8 +3,10 @@ import os
 import numpy as np
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import streamlit as st
 
+from math import sqrt
 from gensim.models import KeyedVectors
 from gensim.test.utils import datapath
 from sklearn import preprocessing
@@ -105,22 +107,71 @@ def calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up):
     return df_sims, df_nonexisting_sims
 
 
-def draw_diagram(model, sims, measure, x_left, x_right, y_down, y_up):
+def calculate_distances(model, sims, measure, x_left, x_right, y_down, y_up):
     if measure == 'Distance score':
         df_graph, df_skipped = calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up)
     else:
         df_graph, df_skipped = calculate_schmidt_score(model, sims, x_left, x_right, y_down, y_up)
+    return df_graph, df_skipped
 
-    fig = px.scatter(df_graph, x="x", y="y", text="word",
+
+def draw_diagram(df: pd.DataFrame, x_left: str, x_right: str, y_down: str, y_up: str):
+    if not 'color' in df.columns:
+        df['color'] = 'white'
+    fig = px.scatter(df, x="x", y="y", text="word", color="color",
                      labels={'x': f'{x_left} <-----> {x_right}',
                              'y': f'{y_down} <--------> {y_up}'}) #, log_x=True, size_max=60)
+    fig.update_traces(textposition='top center')
     fig.update_layout(
         title=f'Show 2-dim vector space for words similar to "{input_seed}"'
     )
     st.plotly_chart(fig)
+    return fig
 
-    return df_skipped
 
+def draw_annotated_diagram(df: pd.DataFrame, arrows: list, x_left: str, x_right: str, y_down: str, y_up: str):
+    if not 'color' in df.columns:
+        df['color'] = 'white'
+
+    fig = go.Figure()
+    fig.add_trace(
+        go.Scatter(
+            x=df['x'], y=df['y'],
+            mode='markers+text', name='markers',
+            marker=dict(
+                color=df['color'],
+                size=4,
+                line=dict(
+                    color=df['color'],
+                    width=2
+                )
+            ),
+            text=df['word'],
+            textposition="top center"))
+
+    fig.update_layout(
+#        title="Plot Title",
+        xaxis_title=f'← {x_left}              {x_right} →',
+        yaxis_title=f'← {y_down}              {y_up} →',
+        legend_title="Legend Title",
+        font=dict(
+            family="Source Sans Pro, sans-serif",
+            size=14,
+            color="#444"
+        )
+    )
+    for arrow in arrows:
+        fig.add_annotation(x=arrow['x_to'], y=arrow['y_to'],
+                           ax=arrow['x_from'], ay=arrow['y_from'],
+                           text="",
+                           arrowcolor="lightgrey",
+                           showarrow=True,
+                           arrowhead=5,
+                           arrowwidth=1.5,
+                           axref="x", ayref="y")
+
+    st.plotly_chart(fig)
+    return fig
 
 
 st.title('MeMo in Space!')
@@ -185,21 +236,71 @@ if input_seed and x_left and x_right and y_up and y_down:
 
     measure = st.selectbox('Use formula', ['Distance score', 'Ben Schmidt\'s original score'])
 
-    df_skipped = draw_diagram(model_wv, sims, measure, x_left, x_right, y_down, y_up)
+    df_graph, df_skipped = calculate_distances(model_wv, sims, measure, x_left, x_right, y_down, y_up)
+
+    draw_diagram(df_graph, x_left, x_right, y_down, y_up)
 
     if compare_wv:
-        st.header('Comparison')
-        st.write(f'{select_comparison}')
-        df_skipped = draw_diagram(compare_wv, sims, measure, x_left, x_right, y_down, y_up)
+        st.header('Comparison model')
+        st.write(f'Comparing with this model: {select_comparison}')
+        df_comp, df_comp_skipped = calculate_distances(compare_wv, sims, measure, x_left, x_right, y_down, y_up)
+        draw_diagram(df_comp, x_left, x_right, y_down, y_up)
         if len(df_skipped) > 0:
             st.markdown('The following words were not found in comparison model')
             st.dataframe(df_skipped)
 
+        st.header('Side-by-side')
+        st.markdown(f'Comparing:\n * 1: {select_model}\n * 2: {select_comparison} (²)')
+
+        rows = df_models.loc[df_models.name.isin([select_model, select_comparison])]
+        blankIndex = [''] * len(rows)
+        rows.index = blankIndex
+        st.dataframe(rows[['name', 'features', 'texttypes', 'comments', 'year_from', 'year_to']])
+        st.markdown('**BEWARE!**\n * Differences in a word''s coordinates might arise from differences in the underlying corpora''s texttypes or other.\n * Movement might also result from changes in the axis words'' semantics.\n * The numeric scores and distances means nothing: The scores are normalized according to the words in the graph -- only the relative movement and the relative distances are significant.')
+
+        two = []
+        changes = []
+        for _, row in df_graph.iterrows():
+            word = row['word']
+            x = row['x']
+            y = row['y']
+            comp_row = df_comp.loc[df_comp['word'] == word]
+            if not comp_row.empty:
+                comp_x = comp_row['x'].values[0]
+                comp_y = comp_row['y'].values[0]
+                two.append((f'{word}¹', x, y, '#3cb44b'))
+                two.append((f'{word}²', comp_x, comp_y, '#f58231'))
+
+                arrow = {
+                    'word': word,
+                    'change': sqrt((x-comp_x)**2 + (y-comp_y)**2),
+                    'change x': comp_x-x, 'change y': comp_y-y,
+                    'x_from': x, 'y_from': y,
+                    'x_to': comp_x, 'y_to': comp_y
+                }
+                changes.append(arrow)
+
+
+        df_two = pd.DataFrame(two, columns=['word', 'x', 'y', 'color'])
+        fig = draw_annotated_diagram(df_two, changes, x_left, x_right, y_down, y_up)
+
+        display_changes = [
+            (item['word'], item['change'], item['change x'],
+             item['change x'] > 0 and '→' or '←',
+             item['change y'],
+            item['change y'] > 0 and '↑' or '↓') for item in changes]
+        df_changes = pd.DataFrame(display_changes, columns=['word', 'change', 'change x', 'left/right', 'change y', 'up/down'])
+        df_changes.sort_values('change', inplace=True, ascending=False)
+
+        st.dataframe(df_changes)
+
+
 else:
     st.image('memo_space1.png')
+    st.header('Available models')
+    st.dataframe(df_models)
+    st.header('Instructions')
     st.markdown('''
-    # Instructions
-
     1. Choose some words to visualize by inserting a seed word
         1. Add more seed words delimited by a comma (,), e.g. "mand,kvinde"
         1. Fine-tune the point in vector space by combining terms with a plus sign (+), e.g. "mand+dreng,kvinde+pige"
