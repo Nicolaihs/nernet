@@ -29,6 +29,7 @@ def load_model(filename):
         del full_model
     return model
 
+
 def lookup_sims(model, word, min_similarity=0.6):
     """"""
     if '+' in word:
@@ -77,7 +78,8 @@ def calculate_schmidt_score(model, sims, x_left, x_right, y_down, y_up):
 
 
 def calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up):
-
+    """Calculating coordinates based on the distance between the words
+    and the axis word."""
     existing_sims = []
     nonexisting_sims = []
     x_values, y_values = [], []
@@ -108,6 +110,7 @@ def calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up):
 
 
 def calculate_distances(model, sims, measure, x_left, x_right, y_down, y_up):
+    """Calcalate the coordinates based on distance and the chosen method of measure."""
     if measure == 'Distance score':
         df_graph, df_skipped = calculate_distance_scores(model, sims, x_left, x_right, y_down, y_up)
     else:
