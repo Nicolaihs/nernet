@@ -19,3 +19,4 @@ spacy==3.2.3
 streamlit==1.10.0
 torch==1.11.0
 statsmodels
+nltk
